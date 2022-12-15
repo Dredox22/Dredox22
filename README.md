@@ -5,4 +5,4 @@
   </a>
 </h1>
 
-<h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm <a href="https://www.linkedin.com/in/konstantintikhonov/" target="_blank"> Konstantin </a></h1>
+<h1 align="center">Hi < :vulcan: height=30px width=30px>, I'm <a href="https://www.linkedin.com/in/konstantintikhonov/" target="_blank"> Konstantin </a></h1>
