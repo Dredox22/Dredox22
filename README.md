@@ -7,4 +7,8 @@
 
 <h1 align="center">Hi  &#128406; , I'm <a href="https://www.linkedin.com/in/konstantintikhonov/" target="_blank"> Konstantin </a></h1>
 
-  
+<h1 align="center">
+<img src="https://media.tenor.com/nHSqF2Eip2MAAAAC/watching-the-rocket-cyberpunk-edgerunners.gif" align="center" alt="Cyberpunk" width="700">
+</h1>
+
+<!-- Watching The Rocket Cyberpunk Edgerunners --> 
