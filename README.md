@@ -42,9 +42,9 @@
   <!--<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp;-->
 </p>
 <br>
-<p align="center">
+
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
 username=Dredox22&theme=radical&layout=compact&langs_count=6)-->
-
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dredox22&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 </p>
