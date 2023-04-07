@@ -46,5 +46,5 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredox22&theme=radical&layout=compact&langs_count=6)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dredox22&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true) /p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dredox22&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 <br>
