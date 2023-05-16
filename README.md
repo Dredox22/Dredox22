@@ -47,6 +47,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredox22&theme=radical&layout=compact&langs_count=6)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dredox22&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 
+<p align="center"
+
   ![Карточка профиля:](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dredox22&theme=solarized_dark)
   ![Статистика языков в коммитах:](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dredox22&theme=solarized_dark)
   ![Статистика языков в репозиториях:](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dredox22&theme=solarized_dark)
