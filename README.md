@@ -42,12 +42,13 @@
   <!--<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp;-->
 </p>
 <br>
+<p align="center">
 <p align="group"
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredox22&theme=radical&layout=compact&langs_count=6)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dredox22&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 
-<p align="center">
+
  
   ![Карточка профиля:](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dredox22&theme=solarized_dark)
   ![Статистика языков в коммитах:](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dredox22&theme=solarized_dark)
@@ -55,6 +56,7 @@
   ![Статистика профиля:](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dredox22&theme=solarized_dark)
   ![Данные по коммитам за сутки:](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)
 
+</p>
 </p>
 
 <br>
