@@ -50,21 +50,20 @@
    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dredox22&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 
+<p align="center"
+ 
+![Карточка профиля:](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dredox22&theme=solarized_dark)>
+
 <p align="left"
+![Статистика языков в коммитах:](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dredox22&theme=solarized_dark)>
 
-Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dredox22&theme=solarized_dark)
+<p align="right"
+![Статистика языков в репозиториях:](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dredox22&theme=solarized_dark)>
 
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dredox22&theme=solarized_dark)
+<p align="left"
+![Статистика профиля:](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dredox22&theme=solarized_dark)>
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dredox22&theme=solarized_dark)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dredox22&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)
+<p align="right"
+![Данные по коммитам за сутки:](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)>
 
 <br>
