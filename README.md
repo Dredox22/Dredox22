@@ -52,6 +52,6 @@
 
 <p align="center"
 
-![Profile Summary](https://profile-summary-for-github.com/user/dredox22)
+<img src="https://profile-summary-for-github.com/user/dredox22">
 
 <br>
