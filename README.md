@@ -57,5 +57,10 @@
 
 <br>
 <!-- BLOG-POST-LIST:START -->
+- [Google добавила в сервис Google Drive папку Spam](https://habr.com/ru/news/735458/?utm_campaign=735458&utm_source=habrahabr&utm_medium=rss)
+- [В клиенте Telegram для macOS нашли уязвимость, позволяющую получать доступ к микрофону и камере](https://habr.com/ru/news/735426/?utm_campaign=735426&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» запустил сервис аренды своих банкоматов](https://habr.com/ru/news/735400/?utm_campaign=735400&utm_source=habrahabr&utm_medium=rss)
+- [Производители электроники и Минпромторг попросили Минпросвещения увеличить на год обучение радиомехаников в техникумах](https://habr.com/ru/news/735390/?utm_campaign=735390&utm_source=habrahabr&utm_medium=rss)
+- [Инсайдеры: в watchOS 10 экран с виджетами станет центральным элементом управления часами](https://habr.com/ru/news/735388/?utm_campaign=735388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
