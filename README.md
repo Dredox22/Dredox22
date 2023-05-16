@@ -42,9 +42,7 @@
   <!--<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp;-->
 </p>
 <br>
-<p align="center">
-  ### :fire: My Stats :
-</p?
+  <h3 align="center"> :fire: My Stats :</h3>
 </br>
 <p align="center"
   
