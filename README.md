@@ -60,7 +60,7 @@
   ![Данные по коммитам за сутки:](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)
 
 <br>
-<h4 align="center"> :fire: Habr news :</h4>
+<h4 align="center"> :magnifier: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
 
