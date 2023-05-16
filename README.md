@@ -60,7 +60,10 @@
   ![Данные по коммитам за сутки:](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)
 
 <br>
+<h4 align="center"> :fire: Habr news :</h4>
+
 <!-- BLOG-POST-LIST:START -->
+
 -[Google добавила в сервис Google Drive папку Spam](https://habr.com/ru/news/735458/?utm_campaign=735458&utm_source=habrahabr&utm_medium=rss)
 
 -[В клиенте Telegram для macOS нашли уязвимость, позволяющую получать доступ к микрофону и камере](https://habr.com/ru/news/735426/?utm_campaign=735426&utm_source=habrahabr&utm_medium=rss)
