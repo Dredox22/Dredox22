@@ -42,8 +42,10 @@
   <!--<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp;-->
 </p>
 <br>
-  <h3 align="center"> :fire: My Stats :</h3>
-</br>
+
+<h3 align="center"> :fire: My Stats :</h3>
+<br>
+
 <p align="center"
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredox22&theme=radical&layout=compact&langs_count=6)
@@ -59,10 +61,10 @@
 
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Google добавила в сервис Google Drive папку Spam](https://habr.com/ru/news/735458/?utm_campaign=735458&utm_source=habrahabr&utm_medium=rss)
-- [В клиенте Telegram для macOS нашли уязвимость, позволяющую получать доступ к микрофону и камере](https://habr.com/ru/news/735426/?utm_campaign=735426&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» запустил сервис аренды своих банкоматов](https://habr.com/ru/news/735400/?utm_campaign=735400&utm_source=habrahabr&utm_medium=rss)
-- [Производители электроники и Минпромторг попросили Минпросвещения увеличить на год обучение радиомехаников в техникумах](https://habr.com/ru/news/735390/?utm_campaign=735390&utm_source=habrahabr&utm_medium=rss)
-- [Инсайдеры: в watchOS 10 экран с виджетами станет центральным элементом управления часами](https://habr.com/ru/news/735388/?utm_campaign=735388&utm_source=habrahabr&utm_medium=rss)
+![Google добавила в сервис Google Drive папку Spam](https://habr.com/ru/news/735458/?utm_campaign=735458&utm_source=habrahabr&utm_medium=rss)
+![В клиенте Telegram для macOS нашли уязвимость, позволяющую получать доступ к микрофону и камере](https://habr.com/ru/news/735426/?utm_campaign=735426&utm_source=habrahabr&utm_medium=rss)
+![«Сбер» запустил сервис аренды своих банкоматов](https://habr.com/ru/news/735400/?utm_campaign=735400&utm_source=habrahabr&utm_medium=rss)
+![Производители электроники и Минпромторг попросили Минпросвещения увеличить на год обучение радиомехаников в техникумах](https://habr.com/ru/news/735390/?utm_campaign=735390&utm_source=habrahabr&utm_medium=rss)
+![Инсайдеры: в watchOS 10 экран с виджетами станет центральным элементом управления часами](https://habr.com/ru/news/735388/?utm_campaign=735388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
