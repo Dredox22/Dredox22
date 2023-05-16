@@ -63,10 +63,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Arch Linux переводит инфраструктуру для разработки пакетов с Subversion на Git и GitLab](https://habr.com/ru/news/735530/?utm_campaign=735530&utm_source=habrahabr&utm_medium=rss)
+- [19 мая приложение «МКБ Онлайн» перестанет работать на iOS](https://habr.com/ru/news/735524/?utm_campaign=735524&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Госуслуги.Дом» для всей России планируют запустить в третьем квартале 2023 года](https://habr.com/ru/news/735514/?utm_campaign=735514&utm_source=habrahabr&utm_medium=rss)
 - [ВОЗ призвала быть осторожными при использовании ИИ и чат-ботов](https://habr.com/ru/news/735506/?utm_campaign=735506&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Бештау» заявила о введении в эксплуатацию завода по сборке ноутбуков в октябре 2023 года](https://habr.com/ru/news/735494/?utm_campaign=735494&utm_source=habrahabr&utm_medium=rss)
-- [Google добавила в сервис Google Drive папку Spam](https://habr.com/ru/news/735458/?utm_campaign=735458&utm_source=habrahabr&utm_medium=rss)
-- [В клиенте Telegram для macOS нашли уязвимость, позволяющую получать доступ к микрофону и камере](https://habr.com/ru/news/735426/?utm_campaign=735426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
