@@ -43,6 +43,8 @@
 </p>
 <br>
 
+<hr>
+
 <h3 align="center"> :fire: My Stats :</h3>
 <br>
 
@@ -60,6 +62,9 @@
   ![Данные по коммитам за сутки:](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)
 
 <br>
+
+<hr>
+
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
@@ -70,3 +75,5 @@
 - [«Яндекс» добавил нейросеть YandexGPT &lpar;YaGPT&rpar; в виртуальный помощник «Алиса»](https://habr.com/ru/news/735696/?utm_campaign=735696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
+
+<hr>
