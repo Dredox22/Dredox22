@@ -63,10 +63,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple представила новые функции для людей с ограниченными возможностями](https://habr.com/ru/news/735640/?utm_campaign=735640&utm_source=habrahabr&utm_medium=rss)
+- [Для импортёров телеком-оборудования и электроники повысят таможенный сбор](https://habr.com/ru/news/735628/?utm_campaign=735628&utm_source=habrahabr&utm_medium=rss)
+- [Tesla показала обновления парка прототипов роботов Optimus](https://habr.com/ru/news/735624/?utm_campaign=735624&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила открытую ИИ-модель для генерации трёхмерных объектов](https://habr.com/ru/news/735618/?utm_campaign=735618&utm_source=habrahabr&utm_medium=rss)
 - [Минюст США обвинил экс-сотрудника Apple в передаче технологий Китаю](https://habr.com/ru/news/735622/?utm_campaign=735622&utm_source=habrahabr&utm_medium=rss)
-- [1Password с 6 июня запустит систему управления паролями Passkey](https://habr.com/ru/news/735612/?utm_campaign=735612&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI согласна с необходимостью законодательно регулировать развитие ИИ](https://habr.com/ru/news/735604/?utm_campaign=735604&utm_source=habrahabr&utm_medium=rss)
-- [Индия представила свой первый Arm-процессор для серверов и НРС-систем](https://habr.com/ru/news/735592/?utm_campaign=735592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
