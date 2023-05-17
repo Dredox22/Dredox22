@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NashStore за год привлёк 2,7 млн пользователей](https://habr.com/ru/news/735808/?utm_campaign=735808&utm_source=habrahabr&utm_medium=rss)
+- [Разработчику удалось выполнить промт-инъекцию ChatGPT с помощью плагина и ролика на YouTube](https://habr.com/ru/news/735806/?utm_campaign=735806&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала активно призывать пользователей Windows 10 21H2 обновить систему до Windows 11](https://habr.com/ru/news/735778/?utm_campaign=735778&utm_source=habrahabr&utm_medium=rss)
 - [SIBUR CHALLENGE 2023 с призовым фондом в 1 млн рублей](https://habr.com/ru/companies/sibur_official/news/735766/?utm_campaign=735766&utm_source=habrahabr&utm_medium=rss)
 - [Smart ID Engine 2.0 выявляет 66 признаков подделки паспорта РФ](https://habr.com/ru/companies/smartengines/news/735742/?utm_campaign=735742&utm_source=habrahabr&utm_medium=rss)
-- [Функция Tap to Pay от Apple теперь доступна в Австралии](https://habr.com/ru/news/735736/?utm_campaign=735736&utm_source=habrahabr&utm_medium=rss)
-- [Хактивисты взломали 40 российских компаний без использования вредоносного ПОч](https://habr.com/ru/news/735714/?utm_campaign=735714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
