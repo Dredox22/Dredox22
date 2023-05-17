@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SIBUR CHALLENGE 2023 с призовым фондом в 1 млн рублей](https://habr.com/ru/companies/sibur_official/news/735766/?utm_campaign=735766&utm_source=habrahabr&utm_medium=rss)
 - [Smart ID Engine 2.0 выявляет 66 признаков подделки паспорта РФ](https://habr.com/ru/companies/smartengines/news/735742/?utm_campaign=735742&utm_source=habrahabr&utm_medium=rss)
 - [Функция Tap to Pay от Apple теперь доступна в Австралии](https://habr.com/ru/news/735736/?utm_campaign=735736&utm_source=habrahabr&utm_medium=rss)
 - [Хактивисты взломали 40 российских компаний без использования вредоносного ПО](https://habr.com/ru/news/735714/?utm_campaign=735714&utm_source=habrahabr&utm_medium=rss)
 - [Команда разработчиков Pixelmator Pro выпустила версию фоторедактора Photomator для macOS](https://habr.com/ru/news/735708/?utm_campaign=735708&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» добавил нейросеть YandexGPT &lpar;YaGPT&rpar; в виртуальный помощник «Алиса»](https://habr.com/ru/news/735696/?utm_campaign=735696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
