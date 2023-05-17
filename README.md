@@ -63,10 +63,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI согласна с необходимостью законодательно регулировать развитие ИИ](https://habr.com/ru/news/735604/?utm_campaign=735604&utm_source=habrahabr&utm_medium=rss)
 - [Индия представила свой первый Arm-процессор для серверов и НРС-систем](https://habr.com/ru/news/735592/?utm_campaign=735592&utm_source=habrahabr&utm_medium=rss)
 - [Шпаргалка по сегментации от OWASP](https://habr.com/ru/news/735558/?utm_campaign=735558&utm_source=habrahabr&utm_medium=rss)
 - [play.google.com недоступен](https://habr.com/ru/news/735534/?utm_campaign=735534&utm_source=habrahabr&utm_medium=rss)
 - [Arch Linux переводит инфраструктуру для разработки пакетов с Subversion на Git и GitLab](https://habr.com/ru/news/735530/?utm_campaign=735530&utm_source=habrahabr&utm_medium=rss)
-- [19 мая приложение «МКБ Онлайн» перестанет работать на iOS](https://habr.com/ru/news/735524/?utm_campaign=735524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
