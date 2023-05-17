@@ -63,10 +63,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила открытую ИИ-модель для генерации трёхмерных объектов](https://habr.com/ru/news/735618/?utm_campaign=735618&utm_source=habrahabr&utm_medium=rss)
+- [Минюст США обвинил экс-сотрудника Apple в передаче технологий Китаю](https://habr.com/ru/news/735622/?utm_campaign=735622&utm_source=habrahabr&utm_medium=rss)
+- [1Password с 6 июня запустит систему управления паролями Passkey](https://habr.com/ru/news/735612/?utm_campaign=735612&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI согласна с необходимостью законодательно регулировать развитие ИИ](https://habr.com/ru/news/735604/?utm_campaign=735604&utm_source=habrahabr&utm_medium=rss)
 - [Индия представила свой первый Arm-процессор для серверов и НРС-систем](https://habr.com/ru/news/735592/?utm_campaign=735592&utm_source=habrahabr&utm_medium=rss)
-- [Шпаргалка по сегментации от OWASP](https://habr.com/ru/news/735558/?utm_campaign=735558&utm_source=habrahabr&utm_medium=rss)
-- [play.google.com недоступен](https://habr.com/ru/news/735534/?utm_campaign=735534&utm_source=habrahabr&utm_medium=rss)
-- [Arch Linux переводит инфраструктуру для разработки пакетов с Subversion на Git и GitLab](https://habr.com/ru/news/735530/?utm_campaign=735530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
