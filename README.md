@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NetApp анонсировала 5 моделей массивов All-Flash SAN Array  и программу защиту корпоративных клиентов от шифровальщиков](https://habr.com/ru/news/735872/?utm_campaign=735872&utm_source=habrahabr&utm_medium=rss)
+- [ON Semiconductor ликвидирует российский дизайн-центр чипов для Wi-Fi](https://habr.com/ru/news/735870/?utm_campaign=735870&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила наличие проблем у части клиентов из-за накопительного обновления KB5026372 для Windows 11](https://habr.com/ru/news/735868/?utm_campaign=735868&utm_source=habrahabr&utm_medium=rss)
 - [Linxdatacenter представил облачный межсетевой экран следующего поколения на решении UserGate](https://habr.com/ru/news/735846/?utm_campaign=735846&utm_source=habrahabr&utm_medium=rss)
 - [В 2022 году 47,4% всего интернет-трафика составляла доля ботов](https://habr.com/ru/news/735832/?utm_campaign=735832&utm_source=habrahabr&utm_medium=rss)
-- [Вышел обзор пре-альфа версии игры «Смута» от студии Cyberia Nova](https://habr.com/ru/news/735824/?utm_campaign=735824&utm_source=habrahabr&utm_medium=rss)
-- [NashStore за год привлёк 2,7 млн пользователей](https://habr.com/ru/news/735808/?utm_campaign=735808&utm_source=habrahabr&utm_medium=rss)
-- [Разработчику удалось выполнить промт-инъекцию ChatGPT с помощью плагина и ролика на YouTube](https://habr.com/ru/news/735806/?utm_campaign=735806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
