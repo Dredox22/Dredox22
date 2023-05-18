@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Власти Джорджии запустили поддержку цифрового удостоверения личности в iPhone](https://habr.com/ru/news/736166/?utm_campaign=736166&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила официальное приложение ChatGPT для iOS](https://habr.com/ru/news/736162/?utm_campaign=736162&utm_source=habrahabr&utm_medium=rss)
 - [Sightful представила Spacetop — 100&amp;quot; ноутбук в режиме дополненной реальности с AR-гарнитурой](https://habr.com/ru/news/736152/?utm_campaign=736152&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-модель DAGGER умеет за 30 минут предсказывать появление сильной солнечной бури](https://habr.com/ru/news/736148/?utm_campaign=736148&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи ЕС планируют взимать с крупных IT-компаний плату за внедрение 5G](https://habr.com/ru/news/736136/?utm_campaign=736136&utm_source=habrahabr&utm_medium=rss)
-- [С 24 по 28 мая в Грозном пройдут первые в России Международные соревнования по спортивному программированию](https://habr.com/ru/news/736124/?utm_campaign=736124&utm_source=habrahabr&utm_medium=rss)
-- [Губернатор штата Монтана запретил чиновникам использовать на рабочих устройствах Telegram и WeChat с 1 июня](https://habr.com/ru/news/736118/?utm_campaign=736118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
