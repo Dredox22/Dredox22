@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sanctuary представила робота-гуманоида Phoenix с ИИ](https://habr.com/ru/news/735934/?utm_campaign=735934&utm_source=habrahabr&utm_medium=rss)
+- [Основатель Pebble представил Beepberry —  карманный компьютер с клавиатурой Blackberry](https://habr.com/ru/news/735924/?utm_campaign=735924&utm_source=habrahabr&utm_medium=rss)
+- [Чат-боты ChatGPT и Sage сдали на тройку университетский экзамен по истории в УрФУ](https://habr.com/ru/news/735926/?utm_campaign=735926&utm_source=habrahabr&utm_medium=rss)
 - [NetApp анонсировала 5 моделей массивов All-Flash SAN Array и программу защиты корпоративных клиентов от шифровальщиков](https://habr.com/ru/news/735872/?utm_campaign=735872&utm_source=habrahabr&utm_medium=rss)
 - [ON Semiconductor ликвидирует российский дизайн-центр чипов для Wi-Fi](https://habr.com/ru/news/735870/?utm_campaign=735870&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила наличие проблем у части клиентов из-за накопительного обновления KB5026372 для Windows 11](https://habr.com/ru/news/735868/?utm_campaign=735868&utm_source=habrahabr&utm_medium=rss)
-- [Linxdatacenter представил облачный межсетевой экран следующего поколения на решении UserGate](https://habr.com/ru/news/735846/?utm_campaign=735846&utm_source=habrahabr&utm_medium=rss)
-- [В 2022 году 47,4% всего интернет-трафика составляла доля ботов](https://habr.com/ru/news/735832/?utm_campaign=735832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
