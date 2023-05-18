@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров об уязвимости приложения Telegram на macOS: никакой уязвимости нет, так как скомпрометирован ПК](https://habr.com/ru/news/735966/?utm_campaign=735966&utm_source=habrahabr&utm_medium=rss)
+- [Приложение «Фото» на Windows 11 получило поддержку формата WebP](https://habr.com/ru/news/735964/?utm_campaign=735964&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Softline разрабатывает собственную операционную систему на базе Linux для ПК и ноутбуков](https://habr.com/ru/news/735948/?utm_campaign=735948&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг предложил заложить в механизмы субсидирования разработчиков электроники меры соцподдержки](https://habr.com/ru/news/735944/?utm_campaign=735944&utm_source=habrahabr&utm_medium=rss)
 - [Sanctuary представила робота-гуманоида Phoenix с ИИ](https://habr.com/ru/news/735934/?utm_campaign=735934&utm_source=habrahabr&utm_medium=rss)
-- [Основатель Pebble представил Beepberry —  карманный компьютер с клавиатурой Blackberry](https://habr.com/ru/news/735924/?utm_campaign=735924&utm_source=habrahabr&utm_medium=rss)
-- [Чат-боты ChatGPT и Sage сдали на тройку университетский экзамен по истории в УрФУ](https://habr.com/ru/news/735926/?utm_campaign=735926&utm_source=habrahabr&utm_medium=rss)
-- [NetApp анонсировала 5 моделей массивов All-Flash SAN Array и программу защиты корпоративных клиентов от шифровальщиков](https://habr.com/ru/news/735872/?utm_campaign=735872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
