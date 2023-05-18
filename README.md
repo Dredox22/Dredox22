@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Госдума в первом чтении одобрила штрафы за отправку персональных данных через зарубежные мессенджеры](https://habr.com/ru/news/736088/?utm_campaign=736088&utm_source=habrahabr&utm_medium=rss)
 - [«Принцы Персии»: программы-вымогатели LokiLocker и BlackBit атакуют российский бизнес](https://habr.com/ru/companies/f_a_c_c_t/news/736052/?utm_campaign=736052&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» откроет свой робототехнический центр по созданию роботов «Маркета»](https://habr.com/ru/news/735990/?utm_campaign=735990&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Такси» начнёт дополнительно уточнять адрес у пассажиров в Москве](https://habr.com/ru/news/736046/?utm_campaign=736046&utm_source=habrahabr&utm_medium=rss)
 - [Япония выделит Micron $1,5 млрд для стимулирования производства чипов памяти следующего поколения в стране](https://habr.com/ru/news/736030/?utm_campaign=736030&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на пятый митап X5 Tech по тестированию](https://habr.com/ru/companies/X5Tech/news/736020/?utm_campaign=736020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
