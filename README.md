@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Япония выделит Micron $1,5 млрд для стимулирования производства чипов памяти следующего поколения в стране](https://habr.com/ru/news/736030/?utm_campaign=736030&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на пятый митап X5 Tech по тестированию](https://habr.com/ru/companies/X5Tech/news/736020/?utm_campaign=736020&utm_source=habrahabr&utm_medium=rss)
+- [«Микрон» сообщил о стабильном производстве чипов для загранпаспортов](https://habr.com/ru/news/736010/?utm_campaign=736010&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи раскрыли детали атаки PMFault, с помощью которой можно повредить процессоры части серверных систем](https://habr.com/ru/news/736008/?utm_campaign=736008&utm_source=habrahabr&utm_medium=rss)
 - [Дуров об уязвимости приложения Telegram на macOS: никакой уязвимости нет, так как скомпрометирован ПК](https://habr.com/ru/news/735966/?utm_campaign=735966&utm_source=habrahabr&utm_medium=rss)
-- [Приложение «Фото» на Windows 11 получило поддержку формата WebP](https://habr.com/ru/news/735964/?utm_campaign=735964&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Softline разрабатывает собственную операционную систему на базе Linux для ПК и ноутбуков](https://habr.com/ru/news/735948/?utm_campaign=735948&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг предложил заложить в механизмы субсидирования разработчиков электроники меры соцподдержки](https://habr.com/ru/news/735944/?utm_campaign=735944&utm_source=habrahabr&utm_medium=rss)
-- [Sanctuary представила робота-гуманоида Phoenix с ИИ](https://habr.com/ru/news/735934/?utm_campaign=735934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
