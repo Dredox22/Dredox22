@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг предложил заложить в механизмы субсидирования разработчиков электроники меры соцподдержки](https://habr.com/ru/news/735944/?utm_campaign=735944&utm_source=habrahabr&utm_medium=rss)
 - [Sanctuary представила робота-гуманоида Phoenix с ИИ](https://habr.com/ru/news/735934/?utm_campaign=735934&utm_source=habrahabr&utm_medium=rss)
 - [Основатель Pebble представил Beepberry —  карманный компьютер с клавиатурой Blackberry](https://habr.com/ru/news/735924/?utm_campaign=735924&utm_source=habrahabr&utm_medium=rss)
 - [Чат-боты ChatGPT и Sage сдали на тройку университетский экзамен по истории в УрФУ](https://habr.com/ru/news/735926/?utm_campaign=735926&utm_source=habrahabr&utm_medium=rss)
 - [NetApp анонсировала 5 моделей массивов All-Flash SAN Array и программу защиты корпоративных клиентов от шифровальщиков](https://habr.com/ru/news/735872/?utm_campaign=735872&utm_source=habrahabr&utm_medium=rss)
-- [ON Semiconductor ликвидирует российский дизайн-центр чипов для Wi-Fi](https://habr.com/ru/news/735870/?utm_campaign=735870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
