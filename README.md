@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sightful представила Spacetop — 100&amp;quot; ноутбук в режиме дополненной реальности с AR-гарнитурой](https://habr.com/ru/news/736152/?utm_campaign=736152&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-модель DAGGER умеет за 30 минут предсказывать появление сильной солнечной бури](https://habr.com/ru/news/736148/?utm_campaign=736148&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи ЕС планируют взимать с крупных IT-компаний плату за внедрение 5G](https://habr.com/ru/news/736136/?utm_campaign=736136&utm_source=habrahabr&utm_medium=rss)
 - [С 24 по 28 мая в Грозном пройдут первые в России Международные соревнования по спортивному программированию](https://habr.com/ru/news/736124/?utm_campaign=736124&utm_source=habrahabr&utm_medium=rss)
 - [Губернатор штата Монтана запретил чиновникам использовать на рабочих устройствах Telegram и WeChat с 1 июня](https://habr.com/ru/news/736118/?utm_campaign=736118&utm_source=habrahabr&utm_medium=rss)
-- [ИСП РАН создал консорциум для исследования безопасности ядра Linux и развития его российской ветки](https://habr.com/ru/news/736100/?utm_campaign=736100&utm_source=habrahabr&utm_medium=rss)
-- [Стали известны характеристики бюджетных RTX 4060 Ti и RTX 4060](https://habr.com/ru/companies/dcmiran/news/736098/?utm_campaign=736098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
