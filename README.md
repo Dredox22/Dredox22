@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Губернатор штата Монтана запретил чиновникам использовать на рабочих устройствах Telegram и WeChat с 1 июня](https://habr.com/ru/news/736118/?utm_campaign=736118&utm_source=habrahabr&utm_medium=rss)
+- [ИСП РАН создал консорциум для исследования безопасности ядра Linux и развития российской ветки ядра Linux](https://habr.com/ru/news/736100/?utm_campaign=736100&utm_source=habrahabr&utm_medium=rss)
+- [Стали известны характеристики бюджетных RTX 4060 Ti и RTX 4060](https://habr.com/ru/companies/dcmiran/news/736098/?utm_campaign=736098&utm_source=habrahabr&utm_medium=rss)
+- [Работа под нагрузкой: как поддержать ИТ-системы при росте трафика](https://habr.com/ru/companies/cloud_mts/news/736094/?utm_campaign=736094&utm_source=habrahabr&utm_medium=rss)
 - [Госдума в первом чтении одобрила штрафы за отправку персональных данных через зарубежные мессенджеры](https://habr.com/ru/news/736088/?utm_campaign=736088&utm_source=habrahabr&utm_medium=rss)
-- [«Принцы Персии»: программы-вымогатели LokiLocker и BlackBit атакуют российский бизнес](https://habr.com/ru/companies/f_a_c_c_t/news/736052/?utm_campaign=736052&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» откроет свой робототехнический центр по созданию роботов «Маркета»](https://habr.com/ru/news/735990/?utm_campaign=735990&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Такси» начнёт дополнительно уточнять адрес у пассажиров в Москве](https://habr.com/ru/news/736046/?utm_campaign=736046&utm_source=habrahabr&utm_medium=rss)
-- [Япония выделит Micron $1,5 млрд для стимулирования производства чипов памяти следующего поколения в стране](https://habr.com/ru/news/736030/?utm_campaign=736030&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
