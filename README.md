@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Операторы связи ЕС планируют взимать с крупных IT-компаний плату за внедрение 5G](https://habr.com/ru/news/736136/?utm_campaign=736136&utm_source=habrahabr&utm_medium=rss)
+- [С 24 по 28 мая в Грозном пройдут первые в России Международные соревнования по спортивному программированию](https://habr.com/ru/news/736124/?utm_campaign=736124&utm_source=habrahabr&utm_medium=rss)
 - [Губернатор штата Монтана запретил чиновникам использовать на рабочих устройствах Telegram и WeChat с 1 июня](https://habr.com/ru/news/736118/?utm_campaign=736118&utm_source=habrahabr&utm_medium=rss)
-- [ИСП РАН создал консорциум для исследования безопасности ядра Linux и развития российской ветки ядра Linux](https://habr.com/ru/news/736100/?utm_campaign=736100&utm_source=habrahabr&utm_medium=rss)
+- [ИСП РАН создал консорциум для исследования безопасности ядра Linux и развития его российской ветки](https://habr.com/ru/news/736100/?utm_campaign=736100&utm_source=habrahabr&utm_medium=rss)
 - [Стали известны характеристики бюджетных RTX 4060 Ti и RTX 4060](https://habr.com/ru/companies/dcmiran/news/736098/?utm_campaign=736098&utm_source=habrahabr&utm_medium=rss)
-- [Работа под нагрузкой: как поддержать ИТ-системы при росте трафика](https://habr.com/ru/companies/cloud_mts/news/736094/?utm_campaign=736094&utm_source=habrahabr&utm_medium=rss)
-- [Госдума в первом чтении одобрила штрафы за отправку персональных данных через зарубежные мессенджеры](https://habr.com/ru/news/736088/?utm_campaign=736088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
