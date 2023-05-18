@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [NetApp анонсировала 5 моделей массивов All-Flash SAN Array  и программу защиту корпоративных клиентов от шифровальщиков](https://habr.com/ru/news/735872/?utm_campaign=735872&utm_source=habrahabr&utm_medium=rss)
+- [NetApp анонсировала 5 моделей массивов All-Flash SAN Array и программу защиты корпоративных клиентов от шифровальщиков](https://habr.com/ru/news/735872/?utm_campaign=735872&utm_source=habrahabr&utm_medium=rss)
 - [ON Semiconductor ликвидирует российский дизайн-центр чипов для Wi-Fi](https://habr.com/ru/news/735870/?utm_campaign=735870&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила наличие проблем у части клиентов из-за накопительного обновления KB5026372 для Windows 11](https://habr.com/ru/news/735868/?utm_campaign=735868&utm_source=habrahabr&utm_medium=rss)
 - [Linxdatacenter представил облачный межсетевой экран следующего поколения на решении UserGate](https://habr.com/ru/news/735846/?utm_campaign=735846&utm_source=habrahabr&utm_medium=rss)
