@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NetherRealm анонсировала выход Mortal Kombat 1 в сентябре 2023 года](https://habr.com/ru/news/736188/?utm_campaign=736188&utm_source=habrahabr&utm_medium=rss)
 - [Власти Джорджии запустили поддержку цифрового удостоверения личности в iPhone](https://habr.com/ru/news/736166/?utm_campaign=736166&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила официальное приложение ChatGPT для iOS](https://habr.com/ru/news/736162/?utm_campaign=736162&utm_source=habrahabr&utm_medium=rss)
 - [Sightful представила Spacetop — 100&amp;quot; ноутбук в режиме дополненной реальности с AR-гарнитурой](https://habr.com/ru/news/736152/?utm_campaign=736152&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-модель DAGGER умеет за 30 минут предсказывать появление сильной солнечной бури](https://habr.com/ru/news/736148/?utm_campaign=736148&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи ЕС планируют взимать с крупных IT-компаний плату за внедрение 5G](https://habr.com/ru/news/736136/?utm_campaign=736136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
