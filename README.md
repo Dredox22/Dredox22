@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вступило в силу десятилетнее соглашение между Microsoft и Nvidia](https://habr.com/ru/news/736258/?utm_campaign=736258&utm_source=habrahabr&utm_medium=rss)
 - [Apple запретила своим сотрудникам использовать ChatGPT, Copilot GitHub и другие чат-боты в рабочих процессах](https://habr.com/ru/news/736232/?utm_campaign=736232&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome начал искать опечатки в URL-адресах и предлагать исправления](https://habr.com/ru/news/736220/?utm_campaign=736220&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрешит клиентам выбирать время удаления последних версий Internet Explorer 11](https://habr.com/ru/news/736208/?utm_campaign=736208&utm_source=habrahabr&utm_medium=rss)
 - [BugCheck2Linux позволяет продолжить работу на ПК в консоли Linux после получения BSOD в ОС Windows](https://habr.com/ru/news/736200/?utm_campaign=736200&utm_source=habrahabr&utm_medium=rss)
-- [NetherRealm анонсировала выход Mortal Kombat 1 в сентябре 2023 года](https://habr.com/ru/news/736188/?utm_campaign=736188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
