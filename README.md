@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи iPhone жалуются на ошибку, мешающую обмениваться сообщениям между iOS и Android](https://habr.com/ru/news/736400/?utm_campaign=736400&utm_source=habrahabr&utm_medium=rss)
 - [RSpectr: Softline подтвердила, что тестирует, прорабатывает репозиторий и улучшает возможности ОС «МСВСфера»](https://habr.com/ru/news/736388/?utm_campaign=736388&utm_source=habrahabr&utm_medium=rss)
 - [Минторг США ввёл запрет на экспорт в Россию ряда телефонов, диктофонов, микрофонов и бытовой техники](https://habr.com/ru/news/736386/?utm_campaign=736386&utm_source=habrahabr&utm_medium=rss)
 - [РКН пригрозил WhatsApp штрафом в 4 млн руб. за неудаление запрещённой информации](https://habr.com/ru/news/736380/?utm_campaign=736380&utm_source=habrahabr&utm_medium=rss)
 - [Стартовали массовые продажи Uncom OS](https://habr.com/ru/companies/mvideo/news/736362/?utm_campaign=736362&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: за три месяца более 8,4 тыс. белых хакеров пытались искать уязвимости на портале «Госуслуг» и нашли 34 бага](https://habr.com/ru/news/736346/?utm_campaign=736346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
