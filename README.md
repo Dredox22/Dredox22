@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: за три месяца более 8,4 тыс. белых хакеров пытались искать уязвимости на портале «Госуслуг» и нашли 34 бага](https://habr.com/ru/news/736346/?utm_campaign=736346&utm_source=habrahabr&utm_medium=rss)
+- [Ledger заявила, что всегда могла получить доступ к закрытым ключам пользователей](https://habr.com/ru/news/736338/?utm_campaign=736338&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры замедлило развитие «Госуслуг» ради безопасности данных](https://habr.com/ru/news/736318/?utm_campaign=736318&utm_source=habrahabr&utm_medium=rss)
 - [Вступило в силу десятилетнее соглашение между Microsoft и Nvidia](https://habr.com/ru/news/736258/?utm_campaign=736258&utm_source=habrahabr&utm_medium=rss)
 - [Apple запретила своим сотрудникам использовать ChatGPT, Copilot GitHub и другие чат-боты в рабочих процессах](https://habr.com/ru/news/736232/?utm_campaign=736232&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome начал искать опечатки в URL-адресах и предлагать исправления](https://habr.com/ru/news/736220/?utm_campaign=736220&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешит клиентам выбирать время удаления последних версий Internet Explorer 11](https://habr.com/ru/news/736208/?utm_campaign=736208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
