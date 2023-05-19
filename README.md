@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартовали массовые продажи Uncom OS](https://habr.com/ru/companies/mvideo/news/736362/?utm_campaign=736362&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: за три месяца более 8,4 тыс. белых хакеров пытались искать уязвимости на портале «Госуслуг» и нашли 34 бага](https://habr.com/ru/news/736346/?utm_campaign=736346&utm_source=habrahabr&utm_medium=rss)
 - [Ledger заявила, что всегда могла получить доступ к закрытым ключам пользователей](https://habr.com/ru/news/736338/?utm_campaign=736338&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры замедлило развитие «Госуслуг» ради безопасности данных](https://habr.com/ru/news/736318/?utm_campaign=736318&utm_source=habrahabr&utm_medium=rss)
 - [Вступило в силу десятилетнее соглашение между Microsoft и Nvidia](https://habr.com/ru/news/736258/?utm_campaign=736258&utm_source=habrahabr&utm_medium=rss)
-- [Apple запретила своим сотрудникам использовать ChatGPT, Copilot GitHub и другие чат-боты в рабочих процессах](https://habr.com/ru/news/736232/?utm_campaign=736232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
