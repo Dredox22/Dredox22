@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DLBI: хакер выложил в открытый доступ часть базы данных зарегистрированных пользователей сайта infotecs.ru](https://habr.com/ru/news/736472/?utm_campaign=736472&utm_source=habrahabr&utm_medium=rss)
 - [Asus выпустила обновление с повреждённым файлом определений угроз для AiProtection и сломала беспроводные роутеры](https://habr.com/ru/news/736432/?utm_campaign=736432&utm_source=habrahabr&utm_medium=rss)
 - [Приложение картографического сервиса 2ГИС удалили из Google Play](https://habr.com/ru/news/736426/?utm_campaign=736426&utm_source=habrahabr&utm_medium=rss)
 - [Samsung передумала использовать Bing в качестве поисковой системы по умолчанию](https://habr.com/ru/news/736420/?utm_campaign=736420&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI выпустила версию DreamStudio с открытым исходным кодом](https://habr.com/ru/news/736414/?utm_campaign=736414&utm_source=habrahabr&utm_medium=rss)
-- [Apple раскрыла статистику по работе App Store в 2022 году](https://habr.com/ru/news/736410/?utm_campaign=736410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
