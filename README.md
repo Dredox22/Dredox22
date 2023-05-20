@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung передумала использовать Bing в качестве поисковой системы по умолчанию](https://habr.com/ru/news/736420/?utm_campaign=736420&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI выпустила версию DreamStudio с открытым исходным кодом](https://habr.com/ru/news/736414/?utm_campaign=736414&utm_source=habrahabr&utm_medium=rss)
 - [Apple раскрыла статистику по работе App Store в 2022 году](https://habr.com/ru/news/736410/?utm_campaign=736410&utm_source=habrahabr&utm_medium=rss)
 - [RSpectr: Softline подтвердила, что тестирует, прорабатывает репозиторий и улучшает возможности ОС «МСВСфера»](https://habr.com/ru/news/736388/?utm_campaign=736388&utm_source=habrahabr&utm_medium=rss)
 - [Минторг США ввёл запрет на экспорт в Россию ряда телефонов, диктофонов, микрофонов и бытовой техники](https://habr.com/ru/news/736386/?utm_campaign=736386&utm_source=habrahabr&utm_medium=rss)
-- [РКН пригрозил WhatsApp штрафом в 4 млн руб. за неудаление запрещённой информации](https://habr.com/ru/news/736380/?utm_campaign=736380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
