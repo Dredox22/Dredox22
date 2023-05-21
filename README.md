@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AT&amp;amp;T пытается заблокировать проект спутниковой связи T-Mobile и Starlink](https://habr.com/ru/news/736578/?utm_campaign=736578&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила упрощённую архитектуру x86S только для 64-разрядного режима](https://habr.com/ru/news/736568/?utm_campaign=736568&utm_source=habrahabr&utm_medium=rss)
 - [PayPal открыла исходные тексты СУБД JunoDB](https://habr.com/ru/news/736566/?utm_campaign=736566&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила, что Windows 11 иногда показывает встроенные SATA диски как съёмные накопители](https://habr.com/ru/news/736556/?utm_campaign=736556&utm_source=habrahabr&utm_medium=rss)
 - [В Китае запретили продукцию Micron для покупки основным заказчикам из-за угрозы национальной кибербезопасности](https://habr.com/ru/news/736552/?utm_campaign=736552&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст сделал цифровую печатную машинку в ретро-стиле на базе Raspberry Pi](https://habr.com/ru/news/736550/?utm_campaign=736550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
