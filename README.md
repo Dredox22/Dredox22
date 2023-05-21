@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft подтвердила, что Windows 11 иногда по старой ошибке показывает встроенные SATA диски как съёмные накопители](https://habr.com/ru/news/736556/?utm_campaign=736556&utm_source=habrahabr&utm_medium=rss)
+- [В Китае запретили продукцию Micron для покупки основным заказчикам из-за угрозы национальной кибербезопасности](https://habr.com/ru/news/736552/?utm_campaign=736552&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст сделал цифровую печатную машинку в ретро-стиле на базе Raspberry Pi](https://habr.com/ru/news/736550/?utm_campaign=736550&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: хакер выложил в открытый доступ часть базы данных зарегистрированных пользователей сайта infotecs.ru](https://habr.com/ru/news/736472/?utm_campaign=736472&utm_source=habrahabr&utm_medium=rss)
 - [Asus выпустила обновление с повреждённым файлом определений угроз для AiProtection и сломала беспроводные роутеры](https://habr.com/ru/news/736432/?utm_campaign=736432&utm_source=habrahabr&utm_medium=rss)
-- [Приложение картографического сервиса 2ГИС удалили из Google Play](https://habr.com/ru/news/736426/?utm_campaign=736426&utm_source=habrahabr&utm_medium=rss)
-- [Samsung передумала использовать Bing в качестве поисковой системы по умолчанию](https://habr.com/ru/news/736420/?utm_campaign=736420&utm_source=habrahabr&utm_medium=rss)
-- [Stability AI выпустила версию DreamStudio с открытым исходным кодом](https://habr.com/ru/news/736414/?utm_campaign=736414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
