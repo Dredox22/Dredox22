@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple начала нанимать сотрудников в проекты продуктов с ИИ](https://habr.com/ru/news/736630/?utm_campaign=736630&utm_source=habrahabr&utm_medium=rss)
+- [Выручка производителей литографического оборудования снижается впервые с 2019 года](https://habr.com/ru/companies/dcmiran/news/736624/?utm_campaign=736624&utm_source=habrahabr&utm_medium=rss)
+- [Создатели платного поисковика Neeva без рекламы закроют его](https://habr.com/ru/news/736620/?utm_campaign=736620&utm_source=habrahabr&utm_medium=rss)
 - [В России на время нельзя платно отремонтировать консоли Nintendo в АСЦ](https://habr.com/ru/news/736610/?utm_campaign=736610&utm_source=habrahabr&utm_medium=rss)
 - [PyPI из-за чрезмерной активности злоумышленников на два дня закрыл регистрацию новых пользователей и проектов](https://habr.com/ru/news/736606/?utm_campaign=736606&utm_source=habrahabr&utm_medium=rss)
-- [Адвокат Илона Маска обвинил Microsoft в злоупотреблении доступом к API Twitter](https://habr.com/ru/news/736580/?utm_campaign=736580&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T пытается заблокировать проект спутниковой связи T-Mobile и Starlink](https://habr.com/ru/news/736578/?utm_campaign=736578&utm_source=habrahabr&utm_medium=rss)
-- [Intel представила упрощённую архитектуру x86S только для 64-разрядного режима](https://habr.com/ru/news/736568/?utm_campaign=736568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
