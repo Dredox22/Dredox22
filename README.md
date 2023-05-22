@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России на время нельзя платно отремонтировать консоли Nintendo в АСЦ](https://habr.com/ru/news/736610/?utm_campaign=736610&utm_source=habrahabr&utm_medium=rss)
 - [PyPI из-за чрезмерной активности злоумышленников на два дня закрыл регистрацию новых пользователей и проектов](https://habr.com/ru/news/736606/?utm_campaign=736606&utm_source=habrahabr&utm_medium=rss)
 - [Адвокат Илона Маска обвинил Microsoft в злоупотреблении доступом к API Twitter](https://habr.com/ru/news/736580/?utm_campaign=736580&utm_source=habrahabr&utm_medium=rss)
 - [AT&amp;amp;T пытается заблокировать проект спутниковой связи T-Mobile и Starlink](https://habr.com/ru/news/736578/?utm_campaign=736578&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила упрощённую архитектуру x86S только для 64-разрядного режима](https://habr.com/ru/news/736568/?utm_campaign=736568&utm_source=habrahabr&utm_medium=rss)
-- [PayPal открыла исходные тексты СУБД JunoDB](https://habr.com/ru/news/736566/?utm_campaign=736566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
