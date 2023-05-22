@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google отключит сторонние файлы cookie для 1% пользователей Chrome в первом квартале 2024 года](https://habr.com/ru/news/736798/?utm_campaign=736798&utm_source=habrahabr&utm_medium=rss)
 - [Impact Observatory запустила сервис картографирования и мониторинга с использованием ИИ](https://habr.com/ru/news/736780/?utm_campaign=736780&utm_source=habrahabr&utm_medium=rss)
 - [UserGate ускорил NGFW более чем в 4 раза](https://habr.com/ru/companies/usergate/news/736762/?utm_campaign=736762&utm_source=habrahabr&utm_medium=rss)
 - [В Google объяснили удаление 2ГИС из Google Play соблюдением санкций](https://habr.com/ru/news/736752/?utm_campaign=736752&utm_source=habrahabr&utm_medium=rss)
 - [VK представила название своего игрового движка — Nau Engine](https://habr.com/ru/news/736734/?utm_campaign=736734&utm_source=habrahabr&utm_medium=rss)
-- [В Москве прошёл Positive Hack Days 12](https://habr.com/ru/news/736732/?utm_campaign=736732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
