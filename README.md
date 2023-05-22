@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CNews: «Аквариус» начнёт серийно поставлять собственные чипы на RISC-V и использовать их в своей технике в 2026 году](https://habr.com/ru/news/736716/?utm_campaign=736716&utm_source=habrahabr&utm_medium=rss)
+- [Meta* представила процессор MSVP для ускорения обработки видео](https://habr.com/ru/news/736710/?utm_campaign=736710&utm_source=habrahabr&utm_medium=rss)
 - [ERP-система корпорации «Галактика» подтвердила совместимость с ОС Astra Linux 1.7](https://habr.com/ru/news/736692/?utm_campaign=736692&utm_source=habrahabr&utm_medium=rss)
 - [«ИнфоТеКС» подтвердила утечку данных о пользователях своего сайта infotecs.ru](https://habr.com/ru/news/736686/?utm_campaign=736686&utm_source=habrahabr&utm_medium=rss)
 - [Mediascope: Telegram стал самым популярным мессенджером у россиян в возрасте до 24 лет](https://habr.com/ru/news/736684/?utm_campaign=736684&utm_source=habrahabr&utm_medium=rss)
-- [В Москве стартовал серийный выпуск банкоматов](https://habr.com/ru/news/736666/?utm_campaign=736666&utm_source=habrahabr&utm_medium=rss)
-- [Innostage налаживает сотрудничество с иранскими IT-компаниями](https://habr.com/ru/news/736664/?utm_campaign=736664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
