@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Нейросеть YandexGPT стала доступна на главной странице «Яндекс» — ya.ru в «Алисе» через команду «Давай придумаем»](https://habr.com/ru/news/736646/?utm_campaign=736646&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: российские производители электроники переносят производство за границу](https://habr.com/ru/news/736640/?utm_campaign=736640&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Edge появится режим «для геймеров»](https://habr.com/ru/news/736636/?utm_campaign=736636&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала нанимать сотрудников в проекты продуктов с ИИ](https://habr.com/ru/news/736630/?utm_campaign=736630&utm_source=habrahabr&utm_medium=rss)
-- [Выручка производителей литографического оборудования снижается впервые с 2019 года](https://habr.com/ru/companies/dcmiran/news/736624/?utm_campaign=736624&utm_source=habrahabr&utm_medium=rss)
+- [В Москве стартовал серийный выпуск банкоматов](https://habr.com/ru/news/736666/?utm_campaign=736666&utm_source=habrahabr&utm_medium=rss)
+- [Innostage налаживает сотрудничество с иранскими IT-компаниями](https://habr.com/ru/news/736664/?utm_campaign=736664&utm_source=habrahabr&utm_medium=rss)
+- [Одна из структур «Росатома» близка к покупке производителя вычислительной техники Kraftway](https://habr.com/ru/news/736662/?utm_campaign=736662&utm_source=habrahabr&utm_medium=rss)
+- [DLBI: хакеры выложили в открытый доступ часть базы данных зарегистрированных пользователей лаборатории «Ситилаб»](https://habr.com/ru/news/736660/?utm_campaign=736660&utm_source=habrahabr&utm_medium=rss)
+- [Кибербитва Standoff впервые пройдет в Казани в 2024 году](https://habr.com/ru/news/736654/?utm_campaign=736654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
