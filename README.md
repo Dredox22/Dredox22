@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Final Cut Pro и Logic Pro для iPad стали доступны в App Store](https://habr.com/ru/news/737116/?utm_campaign=737116&utm_source=habrahabr&utm_medium=rss)
 - [Вице-спикер Госдумы отправил запрос в МВД по спорам в Wildberries и анонсировал обсуждение в Госдуме](https://habr.com/ru/news/737104/?utm_campaign=737104&utm_source=habrahabr&utm_medium=rss)
 - [В бета-версии Photoshop появились генеративные ИИ-функции](https://habr.com/ru/news/737100/?utm_campaign=737100&utm_source=habrahabr&utm_medium=rss)
 - [Google начала тестировать в Chrome индикацию потребления памяти отдельными вкладками](https://habr.com/ru/news/737080/?utm_campaign=737080&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5026361 для Windows 10 вызывает BSOD и самопроизвольную перезагрузку ПК](https://habr.com/ru/news/737020/?utm_campaign=737020&utm_source=habrahabr&utm_medium=rss)
-- [Smart Document Engine 2.0 проверит печати и найдет подделки корпоративных документов](https://habr.com/ru/companies/smartengines/news/737002/?utm_campaign=737002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
