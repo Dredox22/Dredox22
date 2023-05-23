@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В российских банкоматах стоят корейские и китайские валидаторы, отечественный модуль планируется к выпуску в 2026 году](https://habr.com/ru/news/736872/?utm_campaign=736872&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp появилась функция редактирования отправленных сообщений](https://habr.com/ru/news/736824/?utm_campaign=736824&utm_source=habrahabr&utm_medium=rss)
 - [Google отключит сторонние файлы cookie для 1% пользователей Chrome в первом квартале 2024 года](https://habr.com/ru/news/736798/?utm_campaign=736798&utm_source=habrahabr&utm_medium=rss)
 - [Impact Observatory запустила сервис картографирования и мониторинга с использованием ИИ](https://habr.com/ru/news/736780/?utm_campaign=736780&utm_source=habrahabr&utm_medium=rss)
 - [UserGate ускорил NGFW более чем в 4 раза](https://habr.com/ru/companies/usergate/news/736762/?utm_campaign=736762&utm_source=habrahabr&utm_medium=rss)
-- [В Google объяснили удаление 2ГИС из Google Play соблюдением санкций](https://habr.com/ru/news/736752/?utm_campaign=736752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
