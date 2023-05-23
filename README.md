@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи рассказали об атаке BrutePrint для разблокировки Android-смартфонов через подбор отпечатков пальцев](https://habr.com/ru/news/736922/?utm_campaign=736922&utm_source=habrahabr&utm_medium=rss)
+- [Intel закрыла проект XPU на Rialto Bridge. Теперь это будет традиционная видеокарта](https://habr.com/ru/companies/dcmiran/news/736914/?utm_campaign=736914&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 10 Microsoft Edge начали продвигать через баннер в поиске](https://habr.com/ru/news/736910/?utm_campaign=736910&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Microsoft: у GPT-4 есть признаки человеческого мышления](https://habr.com/ru/news/736890/?utm_campaign=736890&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud открыл доступ к новой версии ML-сервиса Yandex DataSphere](https://habr.com/ru/news/736850/?utm_campaign=736850&utm_source=habrahabr&utm_medium=rss)
-- [Проблемы с доступом к github, stackoverflow и многим другим сайтам у пользователей Ростелеком](https://habr.com/ru/news/736878/?utm_campaign=736878&utm_source=habrahabr&utm_medium=rss)
-- [В российских банкоматах стоят корейские и китайские валидаторы, отечественный модуль планируется к выпуску в 2026 году](https://habr.com/ru/news/736872/?utm_campaign=736872&utm_source=habrahabr&utm_medium=rss)
-- [В WhatsApp появилась функция редактирования отправленных сообщений](https://habr.com/ru/news/736824/?utm_campaign=736824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
