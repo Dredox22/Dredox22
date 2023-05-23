@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запустила программу Bug Bounty для своих Android-приложений](https://habr.com/ru/news/736986/?utm_campaign=736986&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: «Микрон» не успевает поставлять чипы производителям банковских карт](https://habr.com/ru/news/736982/?utm_campaign=736982&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи рассказали об атаке BrutePrint для разблокировки Android-смартфонов через подбор отпечатков пальцев](https://habr.com/ru/news/736922/?utm_campaign=736922&utm_source=habrahabr&utm_medium=rss)
 - [Intel закрыла проект XPU на Rialto Bridge. Теперь это будет традиционная видеокарта](https://habr.com/ru/companies/dcmiran/news/736914/?utm_campaign=736914&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 10 Microsoft Edge начали продвигать через баннер в поиске](https://habr.com/ru/news/736910/?utm_campaign=736910&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Microsoft: у GPT-4 есть признаки человеческого мышления](https://habr.com/ru/news/736890/?utm_campaign=736890&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Cloud открыл доступ к новой версии ML-сервиса Yandex DataSphere](https://habr.com/ru/news/736850/?utm_campaign=736850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
