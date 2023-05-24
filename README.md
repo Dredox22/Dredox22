@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-сервер Angie PRO, созданный бывшей командой Nginx, добавлен в реестр отечественного ПО](https://habr.com/ru/news/737220/?utm_campaign=737220&utm_source=habrahabr&utm_medium=rss)
 - [Apple объявила финалистов премии Apple Design Award 2023](https://habr.com/ru/news/737196/?utm_campaign=737196&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft встроит Copilot с чат-ботом Bing в Windows 11](https://habr.com/ru/news/737194/?utm_campaign=737194&utm_source=habrahabr&utm_medium=rss)
 - [Last call: Go-митап 25 мая, Петербург и онлайн](https://habr.com/ru/companies/yadro/news/737184/?utm_campaign=737184&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft интегрирует ИИ-ассистента Copilot прямо в Windows 11](https://habr.com/ru/companies/dcmiran/news/737182/?utm_campaign=737182&utm_source=habrahabr&utm_medium=rss)
-- [Вышел nginx 1.25.0](https://habr.com/ru/news/737180/?utm_campaign=737180&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
