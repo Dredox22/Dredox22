@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google удалила приложение Downloader из Google Play по требованию телекомпаний](https://habr.com/ru/news/737380/?utm_campaign=737380&utm_source=habrahabr&utm_medium=rss)
 - [«ИнноДрайв» запустила в серийное производство линейку отечественных сервоприводов ХАРЗА](https://habr.com/ru/news/737360/?utm_campaign=737360&utm_source=habrahabr&utm_medium=rss)
 - [Google отключит функцию автоматического перевода веб-страниц в устаревших версиях Chrome](https://habr.com/ru/news/737348/?utm_campaign=737348&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: систему распознавания лиц на многих Android-смартфонах можно обмануть простой напечатанной фотографией](https://habr.com/ru/news/737332/?utm_campaign=737332&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила серию видеороликов о проектировании приложений для Wear OS](https://habr.com/ru/news/737314/?utm_campaign=737314&utm_source=habrahabr&utm_medium=rss)
-- [Инженер изготовил умные брюки, сообщающие о расстёгнутой ширинке](https://habr.com/ru/news/737270/?utm_campaign=737270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
