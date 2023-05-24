@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung представила OLED-дисплей со встроенным сканером отпечатков пальцев и датчиком давления](https://habr.com/ru/news/737170/?utm_campaign=737170&utm_source=habrahabr&utm_medium=rss)
-- [В RuStore появились программы от иностранных разработчиков через платформу Aptoide](https://habr.com/ru/news/737164/?utm_campaign=737164&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 будет нативно поддерживать tar, 7-zip, rar, gz и многие другие форматы архивов](https://habr.com/ru/news/737154/?utm_campaign=737154&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз PowerToys 0.70 с утилитами Mouse Without Borders и Peek](https://habr.com/ru/news/737126/?utm_campaign=737126&utm_source=habrahabr&utm_medium=rss)
-- [Final Cut Pro и Logic Pro для iPad стали доступны в App Store](https://habr.com/ru/news/737116/?utm_campaign=737116&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft встроит Copilot с чат-ботом Bing в Windows 11](https://habr.com/ru/news/737194/?utm_campaign=737194&utm_source=habrahabr&utm_medium=rss)
+- [Last call: Go-митап 25 мая, Петербург и онлайн](https://habr.com/ru/companies/yadro/news/737184/?utm_campaign=737184&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft интегрирует ИИ-ассистента Copilot прямо в Windows 11](https://habr.com/ru/companies/dcmiran/news/737182/?utm_campaign=737182&utm_source=habrahabr&utm_medium=rss)
+- [Вышел nginx 1.25.0](https://habr.com/ru/news/737180/?utm_campaign=737180&utm_source=habrahabr&utm_medium=rss)
+- [В 2022 году нотариусы заверили более 26 тысяч скриншотов переписок и веб-страниц для суда](https://habr.com/ru/news/737178/?utm_campaign=737178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
