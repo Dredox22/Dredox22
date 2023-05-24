@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple объявила финалистов премии Apple Design Award 2023](https://habr.com/ru/news/737196/?utm_campaign=737196&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft встроит Copilot с чат-ботом Bing в Windows 11](https://habr.com/ru/news/737194/?utm_campaign=737194&utm_source=habrahabr&utm_medium=rss)
 - [Last call: Go-митап 25 мая, Петербург и онлайн](https://habr.com/ru/companies/yadro/news/737184/?utm_campaign=737184&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft интегрирует ИИ-ассистента Copilot прямо в Windows 11](https://habr.com/ru/companies/dcmiran/news/737182/?utm_campaign=737182&utm_source=habrahabr&utm_medium=rss)
 - [Вышел nginx 1.25.0](https://habr.com/ru/news/737180/?utm_campaign=737180&utm_source=habrahabr&utm_medium=rss)
-- [В 2022 году нотариусы заверили более 26 тысяч скриншотов переписок и веб-страниц для суда](https://habr.com/ru/news/737178/?utm_campaign=737178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
