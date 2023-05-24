@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung представила OLED-дисплей со встроенным сканером отпечатков пальцев и датчиком давления](https://habr.com/ru/news/737170/?utm_campaign=737170&utm_source=habrahabr&utm_medium=rss)
+- [В RuStore появились программы от иностранных разработчиков через платформу Aptoide](https://habr.com/ru/news/737164/?utm_campaign=737164&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 будет нативно поддерживать tar, 7-zip, rar, gz и многие другие форматы архивов](https://habr.com/ru/news/737154/?utm_campaign=737154&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз PowerToys 0.70 с утилитами Mouse Without Borders и Peek](https://habr.com/ru/news/737126/?utm_campaign=737126&utm_source=habrahabr&utm_medium=rss)
 - [Final Cut Pro и Logic Pro для iPad стали доступны в App Store](https://habr.com/ru/news/737116/?utm_campaign=737116&utm_source=habrahabr&utm_medium=rss)
-- [Вице-спикер Госдумы отправил запрос в МВД по спорам в Wildberries и анонсировал обсуждение в Госдуме](https://habr.com/ru/news/737104/?utm_campaign=737104&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии Photoshop появились генеративные ИИ-функции](https://habr.com/ru/news/737100/?utm_campaign=737100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
