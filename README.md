@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google отключит функцию автоматического перевода веб-страниц в устаревших версиях Chrome](https://habr.com/ru/news/737348/?utm_campaign=737348&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: систему распознавания лиц на многих Android-смартфонах можно обмануть простой напечатанной фотографией](https://habr.com/ru/news/737332/?utm_campaign=737332&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила серию видеороликов о проектировании приложений для Wear OS](https://habr.com/ru/news/737314/?utm_campaign=737314&utm_source=habrahabr&utm_medium=rss)
 - [Инженер изготовил умные брюки, сообщающие о расстёгнутой ширинке](https://habr.com/ru/news/737270/?utm_campaign=737270&utm_source=habrahabr&utm_medium=rss)
 - [«Flow 2023» — конференция по системному и бизнес анализу](https://habr.com/ru/news/737246/?utm_campaign=737246&utm_source=habrahabr&utm_medium=rss)
-- [Предупреждение ZyXEL: межсетевые экраны перестали устанавливать VPN-соединения и пускать в веб-интерфейс, обновите ПО](https://habr.com/ru/news/737242/?utm_campaign=737242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
