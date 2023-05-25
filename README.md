@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России создали робота для производства композитного крыла МС-21](https://habr.com/ru/news/737612/?utm_campaign=737612&utm_source=habrahabr&utm_medium=rss)
+- [Начнем работу с базами данных? Свяжем облачную PostgreSQL и физический сервер](https://habr.com/ru/companies/selectel/news/737582/?utm_campaign=737582&utm_source=habrahabr&utm_medium=rss)
+- [Академия Яндекса. Мы в рекурсии случайно](https://habr.com/ru/news/737602/?utm_campaign=737602&utm_source=habrahabr&utm_medium=rss)
 - [Ростех запустил производство электронных блоков управления отечественными системами «Умный дом inSmart»](https://habr.com/ru/news/737566/?utm_campaign=737566&utm_source=habrahabr&utm_medium=rss)
 - [К середине 2030-х годов почти все российские дома и квартиры будут подключены к сверхскоростному интернету от 1 Гбит/с](https://habr.com/ru/news/737544/?utm_campaign=737544&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Mimestream — клиента Gmail для macOS от бывшего разработчика приложения Apple Mail](https://habr.com/ru/news/737538/?utm_campaign=737538&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft признала проблему с копированием файлов и сбоями при их сохранении в 32-разрядных приложениях в Windows 10/11](https://habr.com/ru/news/737526/?utm_campaign=737526&utm_source=habrahabr&utm_medium=rss)
-- [После публикации финансовой отчетности за первый квартал акции NVIDIA выросли на 28%](https://habr.com/ru/companies/dcmiran/news/737512/?utm_campaign=737512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
