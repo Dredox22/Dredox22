@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После публикации финансовой отчетности за первый квартал акции NVIDIA выросли на 28%](https://habr.com/ru/companies/dcmiran/news/737512/?utm_campaign=737512&utm_source=habrahabr&utm_medium=rss)
+- [Что изучить в июне: 10 бесплатных занятий, курсов и митапов](https://habr.com/ru/companies/netologyru/news/737500/?utm_campaign=737500&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на офлайн-митап с Yandex Go и Akvelon](https://habr.com/ru/companies/surfstudio/news/737470/?utm_campaign=737470&utm_source=habrahabr&utm_medium=rss)
 - [Сервис «Антиплагиат» объявил о внедрении проверки на 100 языках и о временном отключении с 26 мая бесплатного доступа](https://habr.com/ru/news/737478/?utm_campaign=737478&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud представила программу обучения по ИБ в облаке](https://habr.com/ru/news/737350/?utm_campaign=737350&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи снова жалуются на оплавление 16-контактных разъёмов RTX 4090](https://habr.com/ru/news/737438/?utm_campaign=737438&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила победителей премии Open Source Peer Bonus 2023](https://habr.com/ru/news/737434/?utm_campaign=737434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
