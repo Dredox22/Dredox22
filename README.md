@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Mimestream — клиента Gmail для macOS от бывшего разработчика приложения Apple Mail](https://habr.com/ru/news/737538/?utm_campaign=737538&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft признала проблему с копированием файлов и сбоями при их сохранении в 32-разрядных приложениях в Windows 10/11](https://habr.com/ru/news/737526/?utm_campaign=737526&utm_source=habrahabr&utm_medium=rss)
 - [После публикации финансовой отчетности за первый квартал акции NVIDIA выросли на 28%](https://habr.com/ru/companies/dcmiran/news/737512/?utm_campaign=737512&utm_source=habrahabr&utm_medium=rss)
 - [Что изучить в июне: 10 бесплатных занятий, курсов и митапов](https://habr.com/ru/companies/netologyru/news/737500/?utm_campaign=737500&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на офлайн-митап с Yandex Go и Akvelon](https://habr.com/ru/companies/surfstudio/news/737470/?utm_campaign=737470&utm_source=habrahabr&utm_medium=rss)
-- [Сервис «Антиплагиат» объявил о внедрении проверки на 100 языках и о временном отключении с 26 мая бесплатного доступа](https://habr.com/ru/news/737478/?utm_campaign=737478&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Cloud представила программу обучения по ИБ в облаке](https://habr.com/ru/news/737350/?utm_campaign=737350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
