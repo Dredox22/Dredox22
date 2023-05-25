@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В браузере Arc появился инструмент для редактирования просматриваемых веб-страниц](https://habr.com/ru/news/737654/?utm_campaign=737654&utm_source=habrahabr&utm_medium=rss)
+- [TikTok начала тестировать собственного чат-бота по имени Tako](https://habr.com/ru/news/737652/?utm_campaign=737652&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор проверит информацию об утечке данных пользователей лаборатории «Ситилаб»](https://habr.com/ru/news/737650/?utm_campaign=737650&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI сообщила, что сбой в работе чат-бота ChatGPT 25 мая был вызван повышенной нагрузкой на IT-инфраструктуру компании](https://habr.com/ru/news/737644/?utm_campaign=737644&utm_source=habrahabr&utm_medium=rss)
 - [Капча в Discord просит пользователей идентифицировать несуществующие объекты, сгенерированные ИИ](https://habr.com/ru/news/737632/?utm_campaign=737632&utm_source=habrahabr&utm_medium=rss)
-- [В России создали робота для производства композитного крыла МС-21](https://habr.com/ru/news/737612/?utm_campaign=737612&utm_source=habrahabr&utm_medium=rss)
-- [Начнем работу с базами данных? Свяжем облачную PostgreSQL и физический сервер](https://habr.com/ru/companies/selectel/news/737582/?utm_campaign=737582&utm_source=habrahabr&utm_medium=rss)
-- [Академия Яндекса. Мы в рекурсии случайно](https://habr.com/ru/news/737602/?utm_campaign=737602&utm_source=habrahabr&utm_medium=rss)
-- [Ростех запустил производство электронных блоков управления отечественными системами «Умный дом inSmart»](https://habr.com/ru/news/737566/?utm_campaign=737566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
