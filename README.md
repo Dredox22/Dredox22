@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex Cloud представила программу обучения по ИБ в облаке](https://habr.com/ru/news/737350/?utm_campaign=737350&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи снова жалуются на оплавление 16-контактных разъёмов RTX 4090](https://habr.com/ru/news/737438/?utm_campaign=737438&utm_source=habrahabr&utm_medium=rss)
 - [Google объявила победителей премии Open Source Peer Bonus 2023](https://habr.com/ru/news/737434/?utm_campaign=737434&utm_source=habrahabr&utm_medium=rss)
 - [PyPI прекратит поддержку PGP-подписей из-за низкой эффективности](https://habr.com/ru/news/737430/?utm_campaign=737430&utm_source=habrahabr&utm_medium=rss)
 - [В ультрабуках Microsoft Surface Pro X перестали работать веб-камеры из-за истёкшего сертификата безопасности](https://habr.com/ru/news/737396/?utm_campaign=737396&utm_source=habrahabr&utm_medium=rss)
-- [Opera представила Aria — чат-бота на базе искусственного интеллекта для фирменного браузера](https://habr.com/ru/news/737390/?utm_campaign=737390&utm_source=habrahabr&utm_medium=rss)
-- [Google удалила приложение Downloader из Google Play по требованию телекомпаний](https://habr.com/ru/news/737380/?utm_campaign=737380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
