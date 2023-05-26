@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прожарьте свой наболевший кейс](https://habr.com/ru/companies/oleg-bunin/news/737784/?utm_campaign=737784&utm_source=habrahabr&utm_medium=rss)
+- [РЭУ им. Г.В. Плеханова также переводит программы обучения аналитиков на Visiology](https://habr.com/ru/companies/visiology/news/737782/?utm_campaign=737782&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» запустила летнюю практику для школьников 8—10 классов и студентов колледжей 1 и 2 курсов](https://habr.com/ru/news/737778/?utm_campaign=737778&utm_source=habrahabr&utm_medium=rss)
+- [В PyPI появится обязательная двухфакторная аутентификация](https://habr.com/ru/news/737776/?utm_campaign=737776&utm_source=habrahabr&utm_medium=rss)
 - [Intel открыла доступ к библиотеке устранения шума на изображениях Open Image Denoise 2.0](https://habr.com/ru/news/737766/?utm_campaign=737766&utm_source=habrahabr&utm_medium=rss)
-- [Очередь на производство электроники в РФ на контрактных мощностях составляет несколько месяцев](https://habr.com/ru/news/737748/?utm_campaign=737748&utm_source=habrahabr&utm_medium=rss)
-- [Официальное приложение ChatGPT для iOS от OpenAI стало доступно в более чем 40 странах](https://habr.com/ru/news/737738/?utm_campaign=737738&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» посчитали животных в названиях улиц](https://habr.com/ru/news/737552/?utm_campaign=737552&utm_source=habrahabr&utm_medium=rss)
-- [Тесты показали, что процессор P3-01105 от PowerLeader для китайского рынка является перемаркированным Intel i3-10105](https://habr.com/ru/news/737734/?utm_campaign=737734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
