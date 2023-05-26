@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сгорела на работе. Как 29-летнюю девушку похоронил стресс](https://habr.com/ru/news/737702/?utm_campaign=737702&utm_source=habrahabr&utm_medium=rss)
 - [Слух: в WhatsApp появятся юзернеймы](https://habr.com/ru/news/737696/?utm_campaign=737696&utm_source=habrahabr&utm_medium=rss)
 - [В браузере Arc появился инструмент для редактирования просматриваемых веб-страниц](https://habr.com/ru/news/737654/?utm_campaign=737654&utm_source=habrahabr&utm_medium=rss)
 - [TikTok начала тестировать собственного чат-бота по имени Tako](https://habr.com/ru/news/737652/?utm_campaign=737652&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор проверит информацию об утечке данных пользователей лаборатории «Ситилаб»](https://habr.com/ru/news/737650/?utm_campaign=737650&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сообщила, что сбой в работе чат-бота ChatGPT 25 мая был вызван повышенной нагрузкой на IT-инфраструктуру компании](https://habr.com/ru/news/737644/?utm_campaign=737644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
