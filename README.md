@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС помогает удалённо тестировать мобильные приложения и веб-сайты при помощи сервиса Sunkey Toolkit](https://habr.com/ru/companies/ru_mts/news/737908/?utm_campaign=737908&utm_source=habrahabr&utm_medium=rss)
+- [Материалы с нашего первого X5 Data Science Meetup](https://habr.com/ru/companies/X5Tech/news/737904/?utm_campaign=737904&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft уточнила, что Windows 11 будет с сентября 2023 года нативно поддерживать работу с tar, 7-zip, rar и gz](https://habr.com/ru/news/737894/?utm_campaign=737894&utm_source=habrahabr&utm_medium=rss)
-- [Московская компания запустила в производство усилители радиочастотной мощности](https://habr.com/ru/news/737882/?utm_campaign=737882&utm_source=habrahabr&utm_medium=rss)
+- [Московская компания запустила в производство усилители мощности](https://habr.com/ru/news/737882/?utm_campaign=737882&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ: мошенники начали давить на родственников своих жертв для доступа к деньгам](https://habr.com/ru/news/737862/?utm_campaign=737862&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI предлагает десять грантов по $100 тыс. на «создание прототипов демократического процесса управления ИИ»](https://habr.com/ru/news/737840/?utm_campaign=737840&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар. Tarantool 2.11: Релиз LTS с долгим циклом поддержки и планы на будущее](https://habr.com/ru/companies/vk/news/737832/?utm_campaign=737832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
