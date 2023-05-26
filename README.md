@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик представил PrivateGPT с упором на конфиденциальность](https://habr.com/ru/news/737714/?utm_campaign=737714&utm_source=habrahabr&utm_medium=rss)
+- [Twitter представила тариф доступа к API для стартапов за $5000 в месяц](https://habr.com/ru/news/737712/?utm_campaign=737712&utm_source=habrahabr&utm_medium=rss)
+- [НАСА показало сферического робота для помощи спасателям](https://habr.com/ru/news/737710/?utm_campaign=737710&utm_source=habrahabr&utm_medium=rss)
 - [Figma запустила приложение FigJam для iPad](https://habr.com/ru/news/737706/?utm_campaign=737706&utm_source=habrahabr&utm_medium=rss)
 - [Сгорела на работе. Как 29-летнюю девушку похоронил стресс](https://habr.com/ru/news/737702/?utm_campaign=737702&utm_source=habrahabr&utm_medium=rss)
-- [Слух: в WhatsApp появятся юзернеймы](https://habr.com/ru/news/737696/?utm_campaign=737696&utm_source=habrahabr&utm_medium=rss)
-- [В браузере Arc появился инструмент для редактирования просматриваемых веб-страниц](https://habr.com/ru/news/737654/?utm_campaign=737654&utm_source=habrahabr&utm_medium=rss)
-- [TikTok начала тестировать собственного чат-бота по имени Tako](https://habr.com/ru/news/737652/?utm_campaign=737652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
