@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel открыла доступ к библиотеке устранения шума на изображениях Open Image Denoise 2.0](https://habr.com/ru/news/737766/?utm_campaign=737766&utm_source=habrahabr&utm_medium=rss)
+- [Очередь на производство электроники в РФ на контрактных мощностях составляет несколько месяцев](https://habr.com/ru/news/737748/?utm_campaign=737748&utm_source=habrahabr&utm_medium=rss)
 - [Официальное приложение ChatGPT для iOS от OpenAI стало доступно в более чем 40 странах](https://habr.com/ru/news/737738/?utm_campaign=737738&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Карты» посчитали животных в названиях улиц](https://habr.com/ru/news/737552/?utm_campaign=737552&utm_source=habrahabr&utm_medium=rss)
 - [Тесты показали, что процессор P3-01105 от PowerLeader для китайского рынка является перемаркированным Intel i3-10105](https://habr.com/ru/news/737734/?utm_campaign=737734&utm_source=habrahabr&utm_medium=rss)
-- [Google тестирует возможности генеративного ИИ для поиска](https://habr.com/ru/news/737716/?utm_campaign=737716&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил PrivateGPT с упором на конфиденциальность](https://habr.com/ru/news/737714/?utm_campaign=737714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
