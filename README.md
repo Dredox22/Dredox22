@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Тинькофф Мобайл» начал региональную экспансию на инфраструктуре МТС](https://habr.com/ru/news/737804/?utm_campaign=737804&utm_source=habrahabr&utm_medium=rss)
+- [ITSumma выпустила opensource-решение для описания и разворачивания инфраструктуры в Yandex Cloud одним yaml-файлом](https://habr.com/ru/companies/itsumma/news/737790/?utm_campaign=737790&utm_source=habrahabr&utm_medium=rss)
+- [В реестре российской радиоэлектронной продукции Минпромторга появился первый отечественный смартфон — R570E от F+ tech](https://habr.com/ru/news/737794/?utm_campaign=737794&utm_source=habrahabr&utm_medium=rss)
+- [В России создадут группу по развитию и импортозамещению игрового софта](https://habr.com/ru/news/737786/?utm_campaign=737786&utm_source=habrahabr&utm_medium=rss)
 - [Прожарьте свой наболевший кейс](https://habr.com/ru/companies/oleg-bunin/news/737784/?utm_campaign=737784&utm_source=habrahabr&utm_medium=rss)
-- [РЭУ им. Г.В. Плеханова также переводит программы обучения аналитиков на Visiology](https://habr.com/ru/companies/visiology/news/737782/?utm_campaign=737782&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» запустила летнюю практику для школьников 8—10 классов и студентов колледжей 1 и 2 курсов](https://habr.com/ru/news/737778/?utm_campaign=737778&utm_source=habrahabr&utm_medium=rss)
-- [В PyPI появится обязательная двухфакторная аутентификация](https://habr.com/ru/news/737776/?utm_campaign=737776&utm_source=habrahabr&utm_medium=rss)
-- [Intel открыла доступ к библиотеке устранения шума на изображениях Open Image Denoise 2.0](https://habr.com/ru/news/737766/?utm_campaign=737766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
