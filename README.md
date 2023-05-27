@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter вышел из соглашения ЕС по борьбе с дезинформацией](https://habr.com/ru/news/738014/?utm_campaign=738014&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф» предложил создать альтернативу платёжной системе «Мир»](https://habr.com/ru/news/737994/?utm_campaign=737994&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты выпустили утилиту активации Windows XP, так как у многих пользователей есть необходимость в работе с этой ОС](https://habr.com/ru/news/737976/?utm_campaign=737976&utm_source=habrahabr&utm_medium=rss)
 - [My.Games открыла офис в Армении](https://habr.com/ru/news/737966/?utm_campaign=737966&utm_source=habrahabr&utm_medium=rss)
 - [ESET: приложение iRecorder Screen Recorder для Android тайно записывало звук и передавало на серверы разработчиков](https://habr.com/ru/news/737964/?utm_campaign=737964&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики новой игры про Голлума извинились за сырой релиз](https://habr.com/ru/news/737958/?utm_campaign=737958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
