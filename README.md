@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики новой игры про Голлума извинились за сырой релиз](https://habr.com/ru/news/737958/?utm_campaign=737958&utm_source=habrahabr&utm_medium=rss)
 - [После жалоб разработчиков сайтов и пользователей Mozilla отключила показ всплывающей рекламы VPN Firefox](https://habr.com/ru/news/737952/?utm_campaign=737952&utm_source=habrahabr&utm_medium=rss)
 - [Правительство РФ утвердило случаи, при которых допускается и не допускается применение биометрии для аутентификации](https://habr.com/ru/news/737934/?utm_campaign=737934&utm_source=habrahabr&utm_medium=rss)
 - [WinRAR: для нас большая честь, что спустя 30 лет в Windows появится поддержка RAR, но лицензии продавать продолжим](https://habr.com/ru/news/737932/?utm_campaign=737932&utm_source=habrahabr&utm_medium=rss)
 - [С 1 июня МВД России возобновит приём заявлений на биометрические загранпаспорта](https://habr.com/ru/news/737926/?utm_campaign=737926&utm_source=habrahabr&utm_medium=rss)
-- [Средняя стоимость рекламы в Telegram выросла на 45%](https://habr.com/ru/news/737916/?utm_campaign=737916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
