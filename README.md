@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные создали свитер для роботов с функциями осязания](https://habr.com/ru/news/738058/?utm_campaign=738058&utm_source=habrahabr&utm_medium=rss)
+- [В США юриста привлекут к ответственности за ложные сведения от ChatGPT](https://habr.com/ru/news/738054/?utm_campaign=738054&utm_source=habrahabr&utm_medium=rss)
 - [СБ и IT-департамент «Вкусно — и точка» проверяют информацию об утечке данных с сайта для соискателей «Работа — и точка»](https://habr.com/ru/news/738046/?utm_campaign=738046&utm_source=habrahabr&utm_medium=rss)
 - [Twitter вышел из соглашения ЕС по борьбе с дезинформацией](https://habr.com/ru/news/738014/?utm_campaign=738014&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф» предложил создать альтернативу платёжной системе «Мир»](https://habr.com/ru/news/737994/?utm_campaign=737994&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты выпустили утилиту активации Windows XP, так как у многих пользователей есть необходимость в работе с этой ОС](https://habr.com/ru/news/737976/?utm_campaign=737976&utm_source=habrahabr&utm_medium=rss)
-- [My.Games открыла офис в Армении](https://habr.com/ru/news/737966/?utm_campaign=737966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
