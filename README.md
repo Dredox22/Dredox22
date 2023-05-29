@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Innostage создала решение для развертывания частного облака InnCloud](https://habr.com/ru/news/738274/?utm_campaign=738274&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи разработали модель машинного обучения для выявления болезни Альцгеймера](https://habr.com/ru/news/738268/?utm_campaign=738268&utm_source=habrahabr&utm_medium=rss)
+- [В фонде «Сколково» подтвердили атаку на IT-инфраструктуру, инженеры организации занимаются восстановлением сервисов](https://habr.com/ru/news/738264/?utm_campaign=738264&utm_source=habrahabr&utm_medium=rss)
 - [Трафик Telegram в Москве вырос в 3,5 раза](https://habr.com/ru/news/738252/?utm_campaign=738252&utm_source=habrahabr&utm_medium=rss)
 - [Arm представила новую архитектуру Armv9.2](https://habr.com/ru/companies/dcmiran/news/738220/?utm_campaign=738220&utm_source=habrahabr&utm_medium=rss)
-- [В офисном пакете LibreOffice исправили уязвимость, позволяющую выполнять произвольный код](https://habr.com/ru/news/738212/?utm_campaign=738212&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры атаковали инфраструктуру сайта фонда «Сколково»](https://habr.com/ru/news/738202/?utm_campaign=738202&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила Windows Backup для создания резервной копии Windows 11 в OneDrive](https://habr.com/ru/news/738198/?utm_campaign=738198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
