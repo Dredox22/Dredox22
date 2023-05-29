@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Трафик Telegram в Москве вырос в 3,5 раза](https://habr.com/ru/news/738252/?utm_campaign=738252&utm_source=habrahabr&utm_medium=rss)
 - [Arm представила новую архитектуру Armv9.2](https://habr.com/ru/companies/dcmiran/news/738220/?utm_campaign=738220&utm_source=habrahabr&utm_medium=rss)
 - [В офисном пакете LibreOffice исправили уязвимость, позволяющую выполнять произвольный код](https://habr.com/ru/news/738212/?utm_campaign=738212&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры атаковали инфраструктуру сайта фонда «Сколково»](https://habr.com/ru/news/738202/?utm_campaign=738202&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Windows Backup для создания резервной копии Windows 11 в OneDrive](https://habr.com/ru/news/738198/?utm_campaign=738198&utm_source=habrahabr&utm_medium=rss)
-- [Отображение секунд на панели задач Windows 11 сокращает время работы ноутбука на 10-15 минут](https://habr.com/ru/news/738194/?utm_campaign=738194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
