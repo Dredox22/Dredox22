@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nilson Report: UnionPay стала лидером по объёму транзакций на мировом рынке дебетовых карт](https://habr.com/ru/news/738160/?utm_campaign=738160&utm_source=habrahabr&utm_medium=rss)
 - [«Диагностика-М» начала пилотный выпуск «умных» досмотровых интроскопов](https://habr.com/ru/news/738100/?utm_campaign=738100&utm_source=habrahabr&utm_medium=rss)
 - [Canon представила беззеркальную камеру начального уровня EOS R100 за $480](https://habr.com/ru/news/738064/?utm_campaign=738064&utm_source=habrahabr&utm_medium=rss)
 - [Учёные создали свитер с функциями осязания для роботов](https://habr.com/ru/news/738058/?utm_campaign=738058&utm_source=habrahabr&utm_medium=rss)
 - [В США юриста привлекут к ответственности за ложные сведения от ChatGPT](https://habr.com/ru/news/738054/?utm_campaign=738054&utm_source=habrahabr&utm_medium=rss)
-- [СБ и IT-департамент «Вкусно — и точка» проверяют информацию об утечке данных с сайта для соискателей «Работа — и точка»](https://habr.com/ru/news/738046/?utm_campaign=738046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
