@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Innostage создала решение для развертывания частного облака InnCloud](https://habr.com/ru/news/738274/?utm_campaign=738274&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи разработали модель машинного обучения для выявления болезни Альцгеймера](https://habr.com/ru/news/738268/?utm_campaign=738268&utm_source=habrahabr&utm_medium=rss)
-- [В фонде «Сколково» подтвердили атаку на IT-инфраструктуру, инженеры организации занимаются восстановлением сервисов](https://habr.com/ru/news/738264/?utm_campaign=738264&utm_source=habrahabr&utm_medium=rss)
-- [Трафик Telegram в Москве вырос в 3,5 раза](https://habr.com/ru/news/738252/?utm_campaign=738252&utm_source=habrahabr&utm_medium=rss)
-- [Arm представила новую архитектуру Armv9.2](https://habr.com/ru/companies/dcmiran/news/738220/?utm_campaign=738220&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: в Германии потребовали от Tesla прояснить ситуацию с масштабной утечкой личных данных клиентов и их видео](https://habr.com/ru/news/738302/?utm_campaign=738302&utm_source=habrahabr&utm_medium=rss)
+- [Португалия планирует запретить Huawei и другим китайским фирмам доступ к сетям 5G из соображений безопасности](https://habr.com/ru/news/738300/?utm_campaign=738300&utm_source=habrahabr&utm_medium=rss)
+- [В браузере Firefox появится чат-бот](https://habr.com/ru/news/738292/?utm_campaign=738292&utm_source=habrahabr&utm_medium=rss)
+- [«МойОфис» обсуждает с «Яндексом», VK и «Сбером» внедрение алгоритмов ИИ в своё ПО](https://habr.com/ru/news/738290/?utm_campaign=738290&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор проверит информацию об утечке данных пользователей сайта для соискателей «Работа — и точка»](https://habr.com/ru/news/738284/?utm_campaign=738284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
