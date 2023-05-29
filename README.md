@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры атаковали инфраструктуру сайта фонда «Сколково»](https://habr.com/ru/news/738202/?utm_campaign=738202&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила Windows Backup для создания резервной копии Windows 11 в OneDrive](https://habr.com/ru/news/738198/?utm_campaign=738198&utm_source=habrahabr&utm_medium=rss)
+- [Отображение секунд на панели задач Windows 11 сокращает время работы ноутбука на 10-15 минут](https://habr.com/ru/news/738194/?utm_campaign=738194&utm_source=habrahabr&utm_medium=rss)
+- [DLBI: хакер выложил в открытый доступ базу данных пользователей онлайн-портала для предпринимателей Мойбизнес.рф](https://habr.com/ru/news/738186/?utm_campaign=738186&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила сервис Avatar Cloud Engine для создания продвинутых NPC в играх](https://habr.com/ru/news/738168/?utm_campaign=738168&utm_source=habrahabr&utm_medium=rss)
-- [Nilson Report: UnionPay стала лидером по объёму транзакций на мировом рынке дебетовых карт](https://habr.com/ru/news/738160/?utm_campaign=738160&utm_source=habrahabr&utm_medium=rss)
-- [«Диагностика-М» начала пилотный выпуск «умных» досмотровых интроскопов](https://habr.com/ru/news/738100/?utm_campaign=738100&utm_source=habrahabr&utm_medium=rss)
-- [Canon представила беззеркальную камеру начального уровня EOS R100 за $480](https://habr.com/ru/news/738064/?utm_campaign=738064&utm_source=habrahabr&utm_medium=rss)
-- [Учёные создали свитер с функциями осязания для роботов](https://habr.com/ru/news/738058/?utm_campaign=738058&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
