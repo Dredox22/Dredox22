@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Apple Music Classical вышло на Android](https://habr.com/ru/news/738700/?utm_campaign=738700&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предложила временное решение проблемы с веб-камерами в Surface Pro X, которое уменьшает качество видео](https://habr.com/ru/news/738696/?utm_campaign=738696&utm_source=habrahabr&utm_medium=rss)
 - [Рыночная капитализация Nvidia превысила $1 трлн](https://habr.com/ru/news/738668/?utm_campaign=738668&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» запустит производство электроники в Петербурге](https://habr.com/ru/news/738656/?utm_campaign=738656&utm_source=habrahabr&utm_medium=rss)
 - [7 июня пройдёт Yandex SpeechKit Cases Night — ежегодное мероприятие о речевых ML-технологиях](https://habr.com/ru/news/738652/?utm_campaign=738652&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс.такси»: проблемы с определением геопозиции не влияют на стоимость поездок](https://habr.com/ru/news/738636/?utm_campaign=738636&utm_source=habrahabr&utm_medium=rss)
-- [Предприятие Роскосмоса завершило проектирование спутника связи для проекта «Сфера»](https://habr.com/ru/news/738628/?utm_campaign=738628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
