@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс.такси»: проблемы с определением геопозиции не влияют на стоимость поездок](https://habr.com/ru/news/738636/?utm_campaign=738636&utm_source=habrahabr&utm_medium=rss)
+- [Предприятие Роскосмоса завершило проектирование спутника связи для проекта «Сфера»](https://habr.com/ru/news/738628/?utm_campaign=738628&utm_source=habrahabr&utm_medium=rss)
 - [В сеть слили ранний билд S.T.A.L.K.E.R. 2](https://habr.com/ru/news/738608/?utm_campaign=738608&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE рассказала об обнаружении целевой кампании по распространению ВПО на различные российские организации](https://habr.com/ru/news/738592/?utm_campaign=738592&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на Cinimex BI Meetup в Воронеже &lpar;офлайн/онлайн&rpar;](https://habr.com/ru/companies/cinimex/news/738590/?utm_campaign=738590&utm_source=habrahabr&utm_medium=rss)
-- [Правительство Москвы открыло доступ к библиотеке разработок с открытым кодом Mos.Hub &lpar;МосХаб&rpar; — аналогу GitHub и GitLab](https://habr.com/ru/news/738572/?utm_campaign=738572&utm_source=habrahabr&utm_medium=rss)
-- [Обновления от Microsoft для Windows 11 заменяют текущие драйверы для видеокарт AMD более старыми версиями](https://habr.com/ru/news/738550/?utm_campaign=738550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
