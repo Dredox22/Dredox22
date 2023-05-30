@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ядре Linux 6.3 нашли проблему повреждения метаданных XFS](https://habr.com/ru/news/738472/?utm_campaign=738472&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи считают, что знаки препинания в текстах располагаются в соответствии с распределением Вейбулла](https://habr.com/ru/news/738418/?utm_campaign=738418&utm_source=habrahabr&utm_medium=rss)
 - [Zubax Robotics выпустила комплексное программно-аппаратное решение для управления PMSM и BLDC двигателями](https://habr.com/ru/news/738400/?utm_campaign=738400&utm_source=habrahabr&utm_medium=rss)
 - [Топ 5 новостей по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/738384/?utm_campaign=738384&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: к 2035 году в России должна появиться сотово-спутниковая сеть связи](https://habr.com/ru/news/738358/?utm_campaign=738358&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в Германии потребовали от Tesla прояснить ситуацию с масштабной утечкой личных данных клиентов и их видео](https://habr.com/ru/news/738302/?utm_campaign=738302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
