@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство Москвы открыло доступ к библиотеке разработок с открытым кодом Mos.Hub &lpar;МосХаб&rpar; — аналогу GitHub и GitLab](https://habr.com/ru/news/738572/?utm_campaign=738572&utm_source=habrahabr&utm_medium=rss)
+- [Обновления от Microsoft для Windows 11 заменяют текущие драйверы для видеокарт AMD более старыми версиями](https://habr.com/ru/news/738550/?utm_campaign=738550&utm_source=habrahabr&utm_medium=rss)
 - [Не выстояла ни одна отрасль экономики в Государстве F — как прошел Standoff 11](https://habr.com/ru/companies/pt/news/738536/?utm_campaign=738536&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры и сетевые специалисты фонда «Сколково» более суток восстанавливают IT-инфраструктуру и сервисы организации](https://habr.com/ru/news/738488/?utm_campaign=738488&utm_source=habrahabr&utm_medium=rss)
 - [В ядре Linux 6.3 нашли проблему повреждения метаданных XFS](https://habr.com/ru/news/738472/?utm_campaign=738472&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи считают, что знаки препинания в текстах располагаются в соответствии с распределением Вейбулла](https://habr.com/ru/news/738418/?utm_campaign=738418&utm_source=habrahabr&utm_medium=rss)
-- [Zubax Robotics выпустила комплексное программно-аппаратное решение для управления PMSM и BLDC двигателями](https://habr.com/ru/news/738400/?utm_campaign=738400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
