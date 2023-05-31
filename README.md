@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter добавила краудсорсинговую проверку изображений в твитах для борьбы с фейками](https://habr.com/ru/news/738966/?utm_campaign=738966&utm_source=habrahabr&utm_medium=rss)
+- [Правозащитники призвали Slack внедрить сквозное шифрование](https://habr.com/ru/news/738964/?utm_campaign=738964&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл набор в свою школу AI‑тренеров нейросети YandexGPT](https://habr.com/ru/news/738954/?utm_campaign=738954&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратила поддержку Chromecast первого поколения](https://habr.com/ru/news/738928/?utm_campaign=738928&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появились виджеты мониторинга CPU, GPU, потребления ОЗУ и других параметров](https://habr.com/ru/news/738916/?utm_campaign=738916&utm_source=habrahabr&utm_medium=rss)
-- [Торрент-трекер RARBG прекратил работу](https://habr.com/ru/news/738892/?utm_campaign=738892&utm_source=habrahabr&utm_medium=rss)
-- [Инженер представил промт-камеру Paragraphica, которая генерирует фотографии на основе данных о местоположении](https://habr.com/ru/news/738878/?utm_campaign=738878&utm_source=habrahabr&utm_medium=rss)
-- [ФНС извинилась за плохое внедрение единого налогового счета](https://habr.com/ru/news/738866/?utm_campaign=738866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
