@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложение yuzu &lpar;эмулятора Nintendo Switch&rpar; вышло для Android](https://habr.com/ru/news/738854/?utm_campaign=738854&utm_source=habrahabr&utm_medium=rss)
+- [Инженер представил промт-камеру Paragraphica, которая генерирует фотографии на основе данных о местоположении](https://habr.com/ru/news/738878/?utm_campaign=738878&utm_source=habrahabr&utm_medium=rss)
+- [ФНС извинилась за плохое внедрение единого налогового счета](https://habr.com/ru/news/738866/?utm_campaign=738866&utm_source=habrahabr&utm_medium=rss)
+- [Инхаус vs аутсорс: где лучше работать. Прямой эфир для начинающих аналитиков](https://habr.com/ru/companies/surfstudio/news/738858/?utm_campaign=738858&utm_source=habrahabr&utm_medium=rss)
+- [Приложение yuzu &lpar;эмулятор Nintendo Switch&rpar; вышло для Android](https://habr.com/ru/news/738854/?utm_campaign=738854&utm_source=habrahabr&utm_medium=rss)
 - [В Яндекс Практикуме обновили ключевые курсы по веб-разработке](https://habr.com/ru/companies/yandex_praktikum/news/737830/?utm_campaign=737830&utm_source=habrahabr&utm_medium=rss)
-- [Бейдж на прокачку: запускаем конкурс аддонов OFFZONE 2023](https://habr.com/ru/companies/bizone/news/737540/?utm_campaign=737540&utm_source=habrahabr&utm_medium=rss)
-- [В Firefox Nightly появилась поддержка локального машинного перевода страниц](https://habr.com/ru/news/738804/?utm_campaign=738804&utm_source=habrahabr&utm_medium=rss)
-- [В App Store Connect нашли упоминание xrOS для VR-гарнитуры](https://habr.com/ru/news/738798/?utm_campaign=738798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
