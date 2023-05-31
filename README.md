@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение yuzu &lpar;эмулятора Nintendo Switch&rpar; вышло для Android](https://habr.com/ru/news/738854/?utm_campaign=738854&utm_source=habrahabr&utm_medium=rss)
+- [В Яндекс Практикуме обновили ключевые курсы по веб-разработке](https://habr.com/ru/companies/yandex_praktikum/news/737830/?utm_campaign=737830&utm_source=habrahabr&utm_medium=rss)
+- [Бейдж на прокачку: запускаем конкурс аддонов OFFZONE 2023](https://habr.com/ru/companies/bizone/news/737540/?utm_campaign=737540&utm_source=habrahabr&utm_medium=rss)
 - [В Firefox Nightly появилась поддержка локального машинного перевода страниц](https://habr.com/ru/news/738804/?utm_campaign=738804&utm_source=habrahabr&utm_medium=rss)
 - [В App Store Connect нашли упоминание xrOS для VR-гарнитуры](https://habr.com/ru/news/738798/?utm_campaign=738798&utm_source=habrahabr&utm_medium=rss)
-- [Российские интернет-провайдеры начали блокировать OpenVPN-подключения](https://habr.com/ru/news/738790/?utm_campaign=738790&utm_source=habrahabr&utm_medium=rss)
-- [НАСА передало на Землю данные со скоростью 200 Гбит/с с помощью лазера](https://habr.com/ru/news/738780/?utm_campaign=738780&utm_source=habrahabr&utm_medium=rss)
-- [Компания Yadro представила свой первый планшет Kvadra_T](https://habr.com/ru/news/738778/?utm_campaign=738778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
