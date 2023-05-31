@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft обнаружила в macOS уязвимость, позволяющую обойти защиту целостности системы &lpar;SIP&rpar;](https://habr.com/ru/news/738998/?utm_campaign=738998&utm_source=habrahabr&utm_medium=rss)
+- [IT-инфраструктура Фонда «Сколково» восстановлена после кибератаки](https://habr.com/ru/news/738992/?utm_campaign=738992&utm_source=habrahabr&utm_medium=rss)
 - [Twitter добавила краудсорсинговую проверку изображений в твитах для борьбы с фейками](https://habr.com/ru/news/738966/?utm_campaign=738966&utm_source=habrahabr&utm_medium=rss)
 - [Правозащитники призвали Slack внедрить сквозное шифрование](https://habr.com/ru/news/738964/?utm_campaign=738964&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл набор в свою школу AI‑тренеров нейросети YandexGPT](https://habr.com/ru/news/738954/?utm_campaign=738954&utm_source=habrahabr&utm_medium=rss)
-- [Google прекратила поддержку Chromecast первого поколения](https://habr.com/ru/news/738928/?utm_campaign=738928&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появились виджеты мониторинга CPU, GPU, потребления ОЗУ и других параметров](https://habr.com/ru/news/738916/?utm_campaign=738916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
