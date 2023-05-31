@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Firefox Nightly появилась поддержка локального машинного перевода страниц](https://habr.com/ru/news/738804/?utm_campaign=738804&utm_source=habrahabr&utm_medium=rss)
+- [В App Store Connect нашли упоминание xrOS для VR-гарнитуры](https://habr.com/ru/news/738798/?utm_campaign=738798&utm_source=habrahabr&utm_medium=rss)
+- [Российские интернет-провайдеры начали блокировать OpenVPN-подключения](https://habr.com/ru/news/738790/?utm_campaign=738790&utm_source=habrahabr&utm_medium=rss)
+- [НАСА передало на Землю данные со скоростью 200 Гбит/с с помощью лазера](https://habr.com/ru/news/738780/?utm_campaign=738780&utm_source=habrahabr&utm_medium=rss)
 - [Компания Yadro представила свой первый планшет Kvadra_T](https://habr.com/ru/news/738778/?utm_campaign=738778&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GoldenDict 1.5.0 вышел после 10 лет перерыва](https://habr.com/ru/news/738770/?utm_campaign=738770&utm_source=habrahabr&utm_medium=rss)
-- [Apple анонсировала изменение налоговой политики для разработчиков приложений](https://habr.com/ru/news/738768/?utm_campaign=738768&utm_source=habrahabr&utm_medium=rss)
-- [Brave открыла доступ к Search API](https://habr.com/ru/news/738758/?utm_campaign=738758&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Эниас Кайяу опубликовал в открытом доступе проект для создания виртуальной подруги GirlfriendGPT](https://habr.com/ru/news/738748/?utm_campaign=738748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
