@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торрент-трекер RARBG прекратил работу](https://habr.com/ru/news/738892/?utm_campaign=738892&utm_source=habrahabr&utm_medium=rss)
 - [Инженер представил промт-камеру Paragraphica, которая генерирует фотографии на основе данных о местоположении](https://habr.com/ru/news/738878/?utm_campaign=738878&utm_source=habrahabr&utm_medium=rss)
 - [ФНС извинилась за плохое внедрение единого налогового счета](https://habr.com/ru/news/738866/?utm_campaign=738866&utm_source=habrahabr&utm_medium=rss)
 - [Инхаус vs аутсорс: где лучше работать. Прямой эфир для начинающих аналитиков](https://habr.com/ru/companies/surfstudio/news/738858/?utm_campaign=738858&utm_source=habrahabr&utm_medium=rss)
 - [Приложение yuzu &lpar;эмулятор Nintendo Switch&rpar; вышло для Android](https://habr.com/ru/news/738854/?utm_campaign=738854&utm_source=habrahabr&utm_medium=rss)
-- [В Яндекс Практикуме обновили ключевые курсы по веб-разработке](https://habr.com/ru/companies/yandex_praktikum/news/737830/?utm_campaign=737830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
