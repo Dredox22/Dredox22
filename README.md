@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba интегрирует аналог чат-бота ChatGPT в свои сервисы](https://habr.com/ru/news/739260/?utm_campaign=739260&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Reddit Apollo может прекратить свою работу из-за новых цен на API](https://habr.com/ru/news/739210/?utm_campaign=739210&utm_source=habrahabr&utm_medium=rss)
 - [В РФ оштрафовали WhatsApp на 3 млн руб. за неудаление запрещённой информации](https://habr.com/ru/news/739182/?utm_campaign=739182&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE: мошенники похитили более 560 доменов и превратили их в фишинговые сайты](https://habr.com/ru/news/739164/?utm_campaign=739164&utm_source=habrahabr&utm_medium=rss)
 - [Российские компании озаботились своей безопасностью](https://habr.com/ru/companies/k2tech/news/739160/?utm_campaign=739160&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Мониторинг кластеров K8s: пути решения ежедневных задач SRE и DevOps-инженеров, реальные сценарии и демо»](https://habr.com/ru/companies/flant/news/739154/?utm_campaign=739154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
