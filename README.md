@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Kali Linux 2023.2](https://habr.com/ru/news/739074/?utm_campaign=739074&utm_source=habrahabr&utm_medium=rss)
-- [Joomla 4.3.2 Security and Bug Fix Release](https://habr.com/ru/news/739068/?utm_campaign=739068&utm_source=habrahabr&utm_medium=rss)
-- [Toyota обнаружила ещё два неправильно настроенных облачных сервиса, которые более семи лет были открыты в сети](https://habr.com/ru/news/739062/?utm_campaign=739062&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» создали путеводитель из 100 детских мест ко Дню защиты детей](https://habr.com/ru/news/739006/?utm_campaign=739006&utm_source=habrahabr&utm_medium=rss)
-- [AMD RX 7600 значительно обходят NVIDIA RTX 4060 по темпу продаж](https://habr.com/ru/companies/dcmiran/news/739008/?utm_campaign=739008&utm_source=habrahabr&utm_medium=rss)
+- [В сотнях моделей материнских плат Gigabyte нашли бэкдор](https://habr.com/ru/news/739118/?utm_campaign=739118&utm_source=habrahabr&utm_medium=rss)
+- [Dodo Brands открыла магазин приложений Dodo IS для разработчиков](https://habr.com/ru/companies/dododev/news/738838/?utm_campaign=738838&utm_source=habrahabr&utm_medium=rss)
+- [В старой версии WhatsApp нашли ошибку, которая приводит к бесконечному циклу сбоев](https://habr.com/ru/news/739108/?utm_campaign=739108&utm_source=habrahabr&utm_medium=rss)
+- [С 1 июня для всех пользователей «Госуслуг» стала обязательной процедура двухфакторной аутентификации](https://habr.com/ru/news/739102/?utm_campaign=739102&utm_source=habrahabr&utm_medium=rss)
+- [ФСБ РФ: ведомство вскрыло разведоперацию американских спецслужб с использованием техники Apple](https://habr.com/ru/news/739096/?utm_campaign=739096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
