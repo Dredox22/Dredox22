@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Kali Linux 2023.2](https://habr.com/ru/news/739074/?utm_campaign=739074&utm_source=habrahabr&utm_medium=rss)
 - [Joomla 4.3.2 Security and Bug Fix Release](https://habr.com/ru/news/739068/?utm_campaign=739068&utm_source=habrahabr&utm_medium=rss)
 - [Toyota обнаружила ещё два неправильно настроенных облачных сервиса, которые более семи лет были открыты в сети](https://habr.com/ru/news/739062/?utm_campaign=739062&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» создали путеводитель из 100 детских мест ко Дню защиты детей](https://habr.com/ru/news/739006/?utm_campaign=739006&utm_source=habrahabr&utm_medium=rss)
 - [AMD RX 7600 значительно обходят NVIDIA RTX 4060 по темпу продаж](https://habr.com/ru/companies/dcmiran/news/739008/?utm_campaign=739008&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обнаружила в macOS уязвимость, позволяющую обойти защиту целостности системы &lpar;SIP&rpar;](https://habr.com/ru/news/738998/?utm_campaign=738998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
