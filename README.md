@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндекс Картах» создали путеводитель из 100 мест детских мест ко Дню защиты детей](https://habr.com/ru/news/739006/?utm_campaign=739006&utm_source=habrahabr&utm_medium=rss)
 - [AMD RX 7600 значительно обходят NVIDIA RTX 4060 по темпу продаж](https://habr.com/ru/companies/dcmiran/news/739008/?utm_campaign=739008&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обнаружила в macOS уязвимость, позволяющую обойти защиту целостности системы &lpar;SIP&rpar;](https://habr.com/ru/news/738998/?utm_campaign=738998&utm_source=habrahabr&utm_medium=rss)
 - [IT-инфраструктура Фонда «Сколково» восстановлена после кибератаки](https://habr.com/ru/news/738992/?utm_campaign=738992&utm_source=habrahabr&utm_medium=rss)
 - [Twitter добавила краудсорсинговую проверку изображений в твитах для борьбы с фейками](https://habr.com/ru/news/738966/?utm_campaign=738966&utm_source=habrahabr&utm_medium=rss)
-- [Правозащитники призвали Slack внедрить сквозное шифрование](https://habr.com/ru/news/738964/?utm_campaign=738964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
