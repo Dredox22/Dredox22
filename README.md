@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские компании озаботились своей безопасностью](https://habr.com/ru/companies/k2tech/news/739160/?utm_campaign=739160&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Мониторинг кластеров K8s: пути решения ежедневных задач SRE и DevOps-инженеров, реальные сценарии и демо»](https://habr.com/ru/companies/flant/news/739154/?utm_campaign=739154&utm_source=habrahabr&utm_medium=rss)
 - [В сотнях моделей материнских плат Gigabyte нашли бэкдор](https://habr.com/ru/news/739118/?utm_campaign=739118&utm_source=habrahabr&utm_medium=rss)
 - [Dodo Brands открыла магазин приложений Dodo IS для разработчиков](https://habr.com/ru/companies/dododev/news/738838/?utm_campaign=738838&utm_source=habrahabr&utm_medium=rss)
 - [В старой версии WhatsApp нашли ошибку, которая приводит к бесконечному циклу сбоев](https://habr.com/ru/news/739108/?utm_campaign=739108&utm_source=habrahabr&utm_medium=rss)
-- [С 1 июня для всех пользователей «Госуслуг» стала обязательной процедура двухфакторной аутентификации](https://habr.com/ru/news/739102/?utm_campaign=739102&utm_source=habrahabr&utm_medium=rss)
-- [ФСБ РФ: ведомство вскрыло разведоперацию американских спецслужб с использованием техники Apple](https://habr.com/ru/news/739096/?utm_campaign=739096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
