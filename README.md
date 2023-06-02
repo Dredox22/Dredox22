@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» массово внедрит оплату по биометрии в магазинах](https://habr.com/ru/news/739410/?utm_campaign=739410&utm_source=habrahabr&utm_medium=rss)
+- [Поддержка интеграции Google Assistant перестанет работать со сторонними приложениями для списков и заметок](https://habr.com/ru/news/739404/?utm_campaign=739404&utm_source=habrahabr&utm_medium=rss)
+- [DLBI: хакер выложил в открытый доступ базу данных пользователей образовательной платформы «Российская электронная школа»](https://habr.com/ru/news/739408/?utm_campaign=739408&utm_source=habrahabr&utm_medium=rss)
+- [Meta* анонсировала XR-гарнитуру Quest 3 за $500](https://habr.com/ru/news/739388/?utm_campaign=739388&utm_source=habrahabr&utm_medium=rss)
 - [Генпрокуратуру РФ попросили возбудить уголовное дело против сотрудников Apple о неправомерном доступе и шпионаже](https://habr.com/ru/news/739370/?utm_campaign=739370&utm_source=habrahabr&utm_medium=rss)
-- [Apple отрицает информацию ФСБ о шпионском ПО в своих гаджетах и работу со спецслужбами США](https://habr.com/ru/news/739362/?utm_campaign=739362&utm_source=habrahabr&utm_medium=rss)
-- [Вышел браузер Brave 1.52 с вертикальными вкладками](https://habr.com/ru/news/739308/?utm_campaign=739308&utm_source=habrahabr&utm_medium=rss)
-- [Российские эксперты из «Лаборатории Касперского» раскрыли механизм целевой кибератаки с использованием iPhone](https://habr.com/ru/news/739294/?utm_campaign=739294&utm_source=habrahabr&utm_medium=rss)
-- [App Store принёс разработчикам приложений и игр $1,1 трлн в 2022 году](https://habr.com/ru/news/739292/?utm_campaign=739292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
