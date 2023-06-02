@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МойОфис», Getmobit, «Базальт СПО» и «Базис» представили импортонезависимое гибридное автоматизированное рабочее место](https://habr.com/ru/news/739494/?utm_campaign=739494&utm_source=habrahabr&utm_medium=rss)
+- [ВВС США отрицает, что военный беспилотник пытался нейтрализовать оператора во время виртуальных испытаний](https://habr.com/ru/news/739488/?utm_campaign=739488&utm_source=habrahabr&utm_medium=rss)
+- [NtechLab создала систему для поиска домашних животных](https://habr.com/ru/news/739482/?utm_campaign=739482&utm_source=habrahabr&utm_medium=rss)
+- [«МойОфис» и «Открытая мобильная платформа» расширили партнёрство по развитию экосистемы ОС «Аврора»](https://habr.com/ru/news/739476/?utm_campaign=739476&utm_source=habrahabr&utm_medium=rss)
 - [Медведев: крупные технологические компании обманывают, когда утверждают, что не сотрудничают со спецслужбами государств](https://habr.com/ru/news/739472/?utm_campaign=739472&utm_source=habrahabr&utm_medium=rss)
-- [Участники ИБ-отрасли договорились о создании экспертного сообщества по защите от утечек данных](https://habr.com/ru/news/739470/?utm_campaign=739470&utm_source=habrahabr&utm_medium=rss)
-- [Летний митап Data People by GlowByte: «Управляя данными MDM и бизнес-глоссарий»](https://habr.com/ru/companies/glowbyte/news/739466/?utm_campaign=739466&utm_source=habrahabr&utm_medium=rss)
-- [МойОфиc, Getmobit, «Базальт СПО» и «Базис» представили первое в России импортонезависимое гибридное АРМ](https://habr.com/ru/news/739464/?utm_campaign=739464&utm_source=habrahabr&utm_medium=rss)
-- [Для ОС «Аврора» появился клиент Telegram — «Тавро»](https://habr.com/ru/news/739448/?utm_campaign=739448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
