@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» выпустила утилиту triangle_check для проверки iPhone на заражение Operation Triangulation](https://habr.com/ru/news/739560/?utm_campaign=739560&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» подписал контракт на поставку 800 тыс. роутеров на 2,5 млрд рублей](https://habr.com/ru/news/739520/?utm_campaign=739520&utm_source=habrahabr&utm_medium=rss)
 - [«МойОфис», Getmobit, «Базальт СПО» и «Базис» представили импортонезависимое гибридное автоматизированное рабочее место](https://habr.com/ru/news/739494/?utm_campaign=739494&utm_source=habrahabr&utm_medium=rss)
 - [ВВС США отрицает, что военный беспилотник пытался нейтрализовать оператора во время виртуальных испытаний](https://habr.com/ru/news/739488/?utm_campaign=739488&utm_source=habrahabr&utm_medium=rss)
 - [NtechLab создала систему для поиска домашних животных](https://habr.com/ru/news/739482/?utm_campaign=739482&utm_source=habrahabr&utm_medium=rss)
-- [«МойОфис» и «Открытая мобильная платформа» расширили партнёрство по развитию экосистемы ОС «Аврора»](https://habr.com/ru/news/739476/?utm_campaign=739476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
