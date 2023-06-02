@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Сбер» массово внедрит оплату по биометрии в магазинах](https://habr.com/ru/news/739410/?utm_campaign=739410&utm_source=habrahabr&utm_medium=rss)
-- [Поддержка интеграции Google Assistant перестанет работать со сторонними приложениями для списков и заметок](https://habr.com/ru/news/739404/?utm_campaign=739404&utm_source=habrahabr&utm_medium=rss)
-- [DLBI: хакер выложил в открытый доступ базу данных пользователей образовательной платформы «Российская электронная школа»](https://habr.com/ru/news/739408/?utm_campaign=739408&utm_source=habrahabr&utm_medium=rss)
-- [Meta* анонсировала XR-гарнитуру Quest 3 за $500](https://habr.com/ru/news/739388/?utm_campaign=739388&utm_source=habrahabr&utm_medium=rss)
-- [Генпрокуратуру РФ попросили возбудить уголовное дело против сотрудников Apple о неправомерном доступе и шпионаже](https://habr.com/ru/news/739370/?utm_campaign=739370&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг и производители РФ предложили ограничить параллельный импорт брендов Acer, IBM и других](https://habr.com/ru/news/739426/?utm_campaign=739426&utm_source=habrahabr&utm_medium=rss)
+- [«Микрон» перешёл на использование китайского производственного оборудования](https://habr.com/ru/news/739420/?utm_campaign=739420&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI будет бороться с «галлюцинациями» ИИ с помощью нового метода обучения](https://habr.com/ru/news/739414/?utm_campaign=739414&utm_source=habrahabr&utm_medium=rss)
+- [«Микрон» и «НМ-Тех» закроют внутренний спрос на чипы до конца 2024 года](https://habr.com/ru/news/739418/?utm_campaign=739418&utm_source=habrahabr&utm_medium=rss)
+- [Вышел веб-сервер Angie 1.2.0, созданный бывшей командой Nginx](https://habr.com/ru/news/739416/?utm_campaign=739416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
