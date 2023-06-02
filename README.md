@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Генпрокуратуру РФ попросили возбудить уголовное дело о неправомерном доступе и шпионаже против сотрудников Apple](https://habr.com/ru/news/739370/?utm_campaign=739370&utm_source=habrahabr&utm_medium=rss)
+- [Генпрокуратуру РФ попросили возбудить уголовное дело против сотрудников Apple о неправомерном доступе и шпионаже](https://habr.com/ru/news/739370/?utm_campaign=739370&utm_source=habrahabr&utm_medium=rss)
 - [Apple отрицает информацию ФСБ о шпионском ПО в своих гаджетах и работу со спецслужбами США](https://habr.com/ru/news/739362/?utm_campaign=739362&utm_source=habrahabr&utm_medium=rss)
 - [Вышел браузер Brave 1.52 с вертикальными вкладками](https://habr.com/ru/news/739308/?utm_campaign=739308&utm_source=habrahabr&utm_medium=rss)
 - [Российские эксперты из «Лаборатории Касперского» раскрыли механизм целевой кибератаки с использованием iPhone](https://habr.com/ru/news/739294/?utm_campaign=739294&utm_source=habrahabr&utm_medium=rss)
