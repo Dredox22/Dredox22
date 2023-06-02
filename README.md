@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для ОС «Аврора» появился клиент Telegram — «Тавро»](https://habr.com/ru/news/739448/?utm_campaign=739448&utm_source=habrahabr&utm_medium=rss)
+- [TrueConf создал технологию для защиты ВКС-платформ от внешних угроз](https://habr.com/ru/news/739440/?utm_campaign=739440&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» впервые обошёл Google в поиске на iOS у российских пользователей](https://habr.com/ru/news/739438/?utm_campaign=739438&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг и производители РФ предложили ограничить параллельный импорт брендов Acer, IBM и других](https://habr.com/ru/news/739426/?utm_campaign=739426&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» перешёл на использование китайского производственного оборудования](https://habr.com/ru/news/739420/?utm_campaign=739420&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI будет бороться с «галлюцинациями» ИИ с помощью нового метода обучения](https://habr.com/ru/news/739414/?utm_campaign=739414&utm_source=habrahabr&utm_medium=rss)
-- [«Микрон» и «НМ-Тех» закроют внутренний спрос на чипы до конца 2024 года](https://habr.com/ru/news/739418/?utm_campaign=739418&utm_source=habrahabr&utm_medium=rss)
-- [Вышел веб-сервер Angie 1.2.0, созданный бывшей командой Nginx](https://habr.com/ru/news/739416/?utm_campaign=739416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
