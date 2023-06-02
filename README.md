@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Медведев: крупные технологические компании обманывают, когда утверждают, что не сотрудничают со спецслужбами государств](https://habr.com/ru/news/739472/?utm_campaign=739472&utm_source=habrahabr&utm_medium=rss)
+- [Участники ИБ-отрасли договорились о создании экспертного сообщества по защите от утечек данных](https://habr.com/ru/news/739470/?utm_campaign=739470&utm_source=habrahabr&utm_medium=rss)
+- [Летний митап Data People by GlowByte: «Управляя данными MDM и бизнес-глоссарий»](https://habr.com/ru/companies/glowbyte/news/739466/?utm_campaign=739466&utm_source=habrahabr&utm_medium=rss)
+- [МойОфиc, Getmobit, «Базальт СПО» и «Базис» представили первое в России импортонезависимое гибридное АРМ](https://habr.com/ru/news/739464/?utm_campaign=739464&utm_source=habrahabr&utm_medium=rss)
 - [Для ОС «Аврора» появился клиент Telegram — «Тавро»](https://habr.com/ru/news/739448/?utm_campaign=739448&utm_source=habrahabr&utm_medium=rss)
-- [TrueConf создал технологию для защиты ВКС-платформ от внешних угроз](https://habr.com/ru/news/739440/?utm_campaign=739440&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» впервые обошёл Google в поиске на iOS у российских пользователей](https://habr.com/ru/news/739438/?utm_campaign=739438&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг и производители РФ предложили ограничить параллельный импорт брендов Acer, IBM и других](https://habr.com/ru/news/739426/?utm_campaign=739426&utm_source=habrahabr&utm_medium=rss)
-- [«Микрон» перешёл на использование китайского производственного оборудования](https://habr.com/ru/news/739420/?utm_campaign=739420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
