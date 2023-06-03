@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus предложит локальные ИИ-серверы с аналогом ChatGPT для офисного использования](https://habr.com/ru/news/739610/?utm_campaign=739610&utm_source=habrahabr&utm_medium=rss)
 - [Группа «Ренессанс страхование» подтвердила взлом одного из разделов своего сайта](https://habr.com/ru/news/739588/?utm_campaign=739588&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: хакер выложил в открытый доступ базу данных пользователей сайта renins.ru, принадлежащего «Ренессанс Страхование»](https://habr.com/ru/news/739574/?utm_campaign=739574&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» выпустила утилиту triangle_check для проверки iPhone на заражение Operation Triangulation](https://habr.com/ru/news/739560/?utm_campaign=739560&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» подписал контракт на поставку 800 тыс. роутеров на 2,5 млрд рублей](https://habr.com/ru/news/739520/?utm_campaign=739520&utm_source=habrahabr&utm_medium=rss)
-- [«МойОфис», Getmobit, «Базальт СПО» и «Базис» представили импортонезависимое гибридное автоматизированное рабочее место](https://habr.com/ru/news/739494/?utm_campaign=739494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
