@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ошибка в серверных процессорах серии AMD EPYC 7002 приводит к зависанию после 1044 дней работы, помогает перезагрузка ОС](https://habr.com/ru/news/739658/?utm_campaign=739658&utm_source=habrahabr&utm_medium=rss)
 - [Российские химики синтезировали новый материал для органической электроники](https://habr.com/ru/news/739592/?utm_campaign=739592&utm_source=habrahabr&utm_medium=rss)
 - [Приложение платного стримингового сервиса Winamp вышло для Android](https://habr.com/ru/news/739612/?utm_campaign=739612&utm_source=habrahabr&utm_medium=rss)
 - [Asus предложит локальные ИИ-серверы с аналогом ChatGPT для офисного использования](https://habr.com/ru/news/739610/?utm_campaign=739610&utm_source=habrahabr&utm_medium=rss)
 - [Группа «Ренессанс страхование» подтвердила взлом одного из разделов своего сайта](https://habr.com/ru/news/739588/?utm_campaign=739588&utm_source=habrahabr&utm_medium=rss)
-- [DLBI: хакер выложил в открытый доступ базу данных пользователей сайта renins.ru, принадлежащего «Ренессанс Страхование»](https://habr.com/ru/news/739574/?utm_campaign=739574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
