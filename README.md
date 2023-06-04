@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla Firefox перестанет поддерживать Windows 7 и 8 в 2024 году](https://habr.com/ru/news/739682/?utm_campaign=739682&utm_source=habrahabr&utm_medium=rss)
 - [Инженер создал слепую камеру на базе Raspberry Pi, которая с помощью ИИ создаёт фото по звуку окружения](https://habr.com/ru/news/739676/?utm_campaign=739676&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка в серверных процессорах серии AMD EPYC 7002 приводит к зависанию после 1044 дней работы, помогает перезагрузка ОС](https://habr.com/ru/news/739658/?utm_campaign=739658&utm_source=habrahabr&utm_medium=rss)
 - [Российские химики синтезировали новый материал для органической электроники](https://habr.com/ru/news/739592/?utm_campaign=739592&utm_source=habrahabr&utm_medium=rss)
 - [Приложение платного стримингового сервиса Winamp вышло для Android](https://habr.com/ru/news/739612/?utm_campaign=739612&utm_source=habrahabr&utm_medium=rss)
-- [Asus предложит локальные ИИ-серверы с аналогом ChatGPT для офисного использования](https://habr.com/ru/news/739610/?utm_campaign=739610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
