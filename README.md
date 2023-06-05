@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла интегрированная среда разработки Apache NetBeans 18](https://habr.com/ru/news/739794/?utm_campaign=739794&utm_source=habrahabr&utm_medium=rss)
+- [До релиза Debian 12 Bookworm осталось 5 дней, разработчики предупредили о багах и сотне незакрытых ошибок](https://habr.com/ru/news/739790/?utm_campaign=739790&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку Cortana в Windows в конце этого года](https://habr.com/ru/news/739784/?utm_campaign=739784&utm_source=habrahabr&utm_medium=rss)
 - [Engineered Arts подключила робота-гуманоида Ameca к ChatGPT](https://habr.com/ru/news/739768/?utm_campaign=739768&utm_source=habrahabr&utm_medium=rss)
 - [Британский сервис аренды Fetch доставляет электромобили с помощью дистанционного управления](https://habr.com/ru/news/739692/?utm_campaign=739692&utm_source=habrahabr&utm_medium=rss)
-- [Вышел язык программирования Rust 1.70](https://habr.com/ru/news/739686/?utm_campaign=739686&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla Firefox перестанет поддерживать Windows 7 и 8 в 2024 году](https://habr.com/ru/news/739682/?utm_campaign=739682&utm_source=habrahabr&utm_medium=rss)
-- [Инженер создал слепую камеру на базе Raspberry Pi, которая с помощью ИИ создаёт фото по звуку окружения](https://habr.com/ru/news/739676/?utm_campaign=739676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
