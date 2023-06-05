@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Русский аналог GitHub получил первые заявки на вступление](https://habr.com/ru/news/739880/?utm_campaign=739880&utm_source=habrahabr&utm_medium=rss)
+- [Не надо бла-бла: МВД и F.A.C.C.T. ликвидировали группу мошенников, наживавшихся на попутчиках](https://habr.com/ru/companies/f_a_c_c_t/news/739876/?utm_campaign=739876&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» рассказала о новой схеме мошенничества с заработками на расшифровке аудио](https://habr.com/ru/news/739874/?utm_campaign=739874&utm_source=habrahabr&utm_medium=rss)
 - [2000 звезд на GitHub у нашего Open Source-инструмента shell-operator](https://habr.com/ru/companies/flant/news/739862/?utm_campaign=739862&utm_source=habrahabr&utm_medium=rss)
 - [Вышел эмулятор процессоров x86-64 Blink 1.0](https://habr.com/ru/news/739850/?utm_campaign=739850&utm_source=habrahabr&utm_medium=rss)
-- [НСПК сделает платной для банков двухфакторную аутентификацию клиента при оплате в интернете](https://habr.com/ru/news/739844/?utm_campaign=739844&utm_source=habrahabr&utm_medium=rss)
-- [Apple построила в Apple Park отдельный павильон для демонстрации своего первого AR/VR-шлема](https://habr.com/ru/news/739830/?utm_campaign=739830&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть YandexGPT научилась поддерживать контекст беседы](https://habr.com/ru/news/739812/?utm_campaign=739812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
