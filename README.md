@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [2000 звезд на GitHub у нашего Open Source-инструмента shell-operator](https://habr.com/ru/companies/flant/news/739862/?utm_campaign=739862&utm_source=habrahabr&utm_medium=rss)
+- [Вышел эмулятор процессоров x86-64 Blink 1.0](https://habr.com/ru/news/739850/?utm_campaign=739850&utm_source=habrahabr&utm_medium=rss)
+- [НСПК сделает платной для банков двухфакторную аутентификацию клиента при оплате в интернете](https://habr.com/ru/news/739844/?utm_campaign=739844&utm_source=habrahabr&utm_medium=rss)
 - [Apple построила в Apple Park отдельный павильон для демонстрации своего первого AR/VR-шлема](https://habr.com/ru/news/739830/?utm_campaign=739830&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть YandexGPT научилась поддерживать контекст беседы](https://habr.com/ru/news/739812/?utm_campaign=739812&utm_source=habrahabr&utm_medium=rss)
-- [Вышла интегрированная среда разработки Apache NetBeans 18](https://habr.com/ru/news/739794/?utm_campaign=739794&utm_source=habrahabr&utm_medium=rss)
-- [До релиза Debian 12 Bookworm осталось 5 дней, разработчики предупредили о багах и сотне незакрытых ошибок](https://habr.com/ru/news/739790/?utm_campaign=739790&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку Cortana в Windows в конце этого года](https://habr.com/ru/news/739784/?utm_campaign=739784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
