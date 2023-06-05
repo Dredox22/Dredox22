@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонс iOS 17: горизонтальный режим, новые возможности AirDrop и персонализированные стикеры](https://habr.com/ru/news/740016/?utm_campaign=740016&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила чип M2 Ultra](https://habr.com/ru/news/740010/?utm_campaign=740010&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI предложила грант в $1 млн для разработки решений в сфере кибербезопасности на основе ИИ](https://habr.com/ru/news/740006/?utm_campaign=740006&utm_source=habrahabr&utm_medium=rss)
 - [В Google Wallet появилась поддержка цифровых удостоверений личности](https://habr.com/ru/news/739998/?utm_campaign=739998&utm_source=habrahabr&utm_medium=rss)
 - [НАСА и Пентагон запретили своим подрядчикам пользоваться TikTok](https://habr.com/ru/news/739980/?utm_campaign=739980&utm_source=habrahabr&utm_medium=rss)
-- [Huawei готовит к запуску Pangu Chat](https://habr.com/ru/news/739942/?utm_campaign=739942&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
