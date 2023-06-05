@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [НАСА и Пентагон запретили своим подрядчикам пользоваться TikTok](https://habr.com/ru/news/739980/?utm_campaign=739980&utm_source=habrahabr&utm_medium=rss)
 - [Huawei готовит к запуску Pangu Chat](https://habr.com/ru/news/739942/?utm_campaign=739942&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор и «Лаборатория Касперского» по-разному оценили утечки](https://habr.com/ru/news/739924/?utm_campaign=739924&utm_source=habrahabr&utm_medium=rss)
 - [Завод LG в Польше начал устанавливать на телевизоры софт Smart TV для российского рынка](https://habr.com/ru/news/739916/?utm_campaign=739916&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» готов увеличить производство смартфонов AYYA](https://habr.com/ru/news/739902/?utm_campaign=739902&utm_source=habrahabr&utm_medium=rss)
-- [Русский аналог GitHub получил первые заявки на вступление](https://habr.com/ru/news/739880/?utm_campaign=739880&utm_source=habrahabr&utm_medium=rss)
-- [Не надо бла-бла: МВД и F.A.C.C.T. ликвидировали группу мошенников, наживавшихся на попутчиках](https://habr.com/ru/companies/f_a_c_c_t/news/739876/?utm_campaign=739876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
