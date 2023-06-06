@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD продлит поддержку AM5 до 2026 года, а процессоры Ryzen 8000 на Zen 5 будут оснащаться GPU на RNDA 3.5](https://habr.com/ru/companies/dcmiran/news/740282/?utm_campaign=740282&utm_source=habrahabr&utm_medium=rss)
 - [РЖД тестирует в Челябинске автоматического робота для расцепления вагонов](https://habr.com/ru/news/740268/?utm_campaign=740268&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft вернула жесты мышкой в стабильную версию Microsoft Edge 114](https://habr.com/ru/news/740264/?utm_campaign=740264&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили улучшенный алгоритм для определения болезней растений при помощи машинного обучения](https://habr.com/ru/companies/rshb/news/740246/?utm_campaign=740246&utm_source=habrahabr&utm_medium=rss)
 - [Топ 5 новостей по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/740238/?utm_campaign=740238&utm_source=habrahabr&utm_medium=rss)
-- [DLBI: хакер выложил в открытый доступ базу данных 3,16 млн клиентов торговой сети «Глория Джинс» &lpar;Gloria Jeans&rpar;](https://habr.com/ru/news/740214/?utm_campaign=740214&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
