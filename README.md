@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK: в игровом движке Nau Engine будет поддержка нейросетей, Linux, DirectX 12, Vulkan, Metal, Ray Tracing и DLSS](https://habr.com/ru/news/740104/?utm_campaign=740104&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: хакер выложил в открытый доступ базу данных 7,8 млн клиентов торговой сети «Ашан»](https://habr.com/ru/news/740092/?utm_campaign=740092&utm_source=habrahabr&utm_medium=rss)
 - [Вышла платформа обмена сообщениями Zulip 7](https://habr.com/ru/news/740090/?utm_campaign=740090&utm_source=habrahabr&utm_medium=rss)
 - [В Подмосковье протестируют систему распознавания домашних животных с помощью ИИ](https://habr.com/ru/news/740080/?utm_campaign=740080&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила обновление приложения «Здоровье»](https://habr.com/ru/news/740070/?utm_campaign=740070&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила iPadOS 17](https://habr.com/ru/news/740062/?utm_campaign=740062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
