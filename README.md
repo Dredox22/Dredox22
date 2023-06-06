@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Ашане» подтвердили факт утечки базы данных клиентов и начали расследование инцидента](https://habr.com/ru/news/740130/?utm_campaign=740130&utm_source=habrahabr&utm_medium=rss)
+- [Gigabyte выпустила прошивки на более чем 270 матплат, в которых обнаружен бэкдор при работе с Windows 10/11 и App Center](https://habr.com/ru/news/740118/?utm_campaign=740118&utm_source=habrahabr&utm_medium=rss)
 - [VK: в игровом движке Nau Engine будет поддержка нейросетей, Linux, DirectX 12, Vulkan, Metal, Ray Tracing и DLSS](https://habr.com/ru/news/740104/?utm_campaign=740104&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: хакер выложил в открытый доступ базу данных 7,8 млн клиентов торговой сети «Ашан»](https://habr.com/ru/news/740092/?utm_campaign=740092&utm_source=habrahabr&utm_medium=rss)
 - [Вышла платформа обмена сообщениями Zulip 7](https://habr.com/ru/news/740090/?utm_campaign=740090&utm_source=habrahabr&utm_medium=rss)
-- [В Подмосковье протестируют систему распознавания домашних животных с помощью ИИ](https://habr.com/ru/news/740080/?utm_campaign=740080&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила обновление приложения «Здоровье»](https://habr.com/ru/news/740070/?utm_campaign=740070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
