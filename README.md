@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел JoomShopping 5.2.0 для Joomla 4](https://habr.com/ru/news/740160/?utm_campaign=740160&utm_source=habrahabr&utm_medium=rss)
 - [Начался отборочный этап Международного киберчемпионата, проходящего в рамках ПМЭФ-2023](https://habr.com/ru/news/740154/?utm_campaign=740154&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт «Лаборатории Касперского» сообщил, что компания переслала в ИБ-отдел Apple информацию по Operation Triangulation](https://habr.com/ru/news/740146/?utm_campaign=740146&utm_source=habrahabr&utm_medium=rss)
 - [Mobile Inform Group представила ПК «Акинак» с процессором «Скиф»](https://habr.com/ru/news/740140/?utm_campaign=740140&utm_source=habrahabr&utm_medium=rss)
 - [Открыли регистрацию на летнюю школу 2023 — давай к нам](https://habr.com/ru/companies/surfstudio/news/740134/?utm_campaign=740134&utm_source=habrahabr&utm_medium=rss)
-- [В «Ашане» подтвердили факт утечки базы данных клиентов и начали расследование инцидента](https://habr.com/ru/news/740130/?utm_campaign=740130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
