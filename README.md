@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Подмосковье протестируют систему распознавания домашних животных с помощью ИИ](https://habr.com/ru/news/740080/?utm_campaign=740080&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила обновление приложения «Здоровье»](https://habr.com/ru/news/740070/?utm_campaign=740070&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила iPadOS 17](https://habr.com/ru/news/740062/?utm_campaign=740062&utm_source=habrahabr&utm_medium=rss)
 - [Обзор очков смешанной реальности Vision Pro от журналистов](https://habr.com/ru/news/740060/?utm_campaign=740060&utm_source=habrahabr&utm_medium=rss)
 - [Анонс macOS Sonoma: виджеты на рабочем столе, профили пользователей в Safari и Death Stranding](https://habr.com/ru/news/740022/?utm_campaign=740022&utm_source=habrahabr&utm_medium=rss)
-- [Анонс iOS 17: горизонтальный режим, новые возможности AirDrop и персонализированные стикеры](https://habr.com/ru/news/740016/?utm_campaign=740016&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила чип M2 Ultra](https://habr.com/ru/news/740010/?utm_campaign=740010&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI предложила грант в $1 млн для разработки решений в сфере кибербезопасности на основе ИИ](https://habr.com/ru/news/740006/?utm_campaign=740006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
