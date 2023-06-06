@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DLBI: хакер выложил в открытый доступ базу данных 3,16 млн клиентов торговой сети «Глория Джинс» &lpar;Gloria Jeans&rpar;](https://habr.com/ru/news/740214/?utm_campaign=740214&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь обнаружил уязвимость в системе синих галочек в Gmail, в Google сразу закрыли тикет, но потом дали ему ход](https://habr.com/ru/news/740202/?utm_campaign=740202&utm_source=habrahabr&utm_medium=rss)
 - [Вышел JoomShopping 5.2.0 для Joomla 4](https://habr.com/ru/news/740160/?utm_campaign=740160&utm_source=habrahabr&utm_medium=rss)
 - [Начался отборочный этап Международного киберчемпионата, проходящего в рамках ПМЭФ-2023](https://habr.com/ru/news/740154/?utm_campaign=740154&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт «Лаборатории Касперского» сообщил, что компания переслала в ИБ-отдел Apple информацию по Operation Triangulation](https://habr.com/ru/news/740146/?utm_campaign=740146&utm_source=habrahabr&utm_medium=rss)
-- [Mobile Inform Group представила ПК «Акинак» с процессором «Скиф»](https://habr.com/ru/news/740140/?utm_campaign=740140&utm_source=habrahabr&utm_medium=rss)
-- [Открыли регистрацию на летнюю школу 2023 — давай к нам](https://habr.com/ru/companies/surfstudio/news/740134/?utm_campaign=740134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
