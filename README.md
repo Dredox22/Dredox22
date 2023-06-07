@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RuStore запустил монетизацию для физических лиц, получающих доходы как самозанятые](https://habr.com/ru/news/740334/?utm_campaign=740334&utm_source=habrahabr&utm_medium=rss)
+- [В перечень по замещению GitHub не вошли крупнейшие компании](https://habr.com/ru/news/740324/?utm_campaign=740324&utm_source=habrahabr&utm_medium=rss)
+- [Apple купила стартап AR-гарнитур Mira](https://habr.com/ru/news/740322/?utm_campaign=740322&utm_source=habrahabr&utm_medium=rss)
+- [«Инженер по тестированию: от новичка до автоматизатора» — Яндекс Практикум запустил новый курс](https://habr.com/ru/companies/yandex_praktikum/news/739518/?utm_campaign=739518&utm_source=habrahabr&utm_medium=rss)
 - [Журналист добился от Microsoft, чтобы в новом поиске в Edge можно было найти Chrome, а не получать в ответе рекламу Bing](https://habr.com/ru/news/740320/?utm_campaign=740320&utm_source=habrahabr&utm_medium=rss)
-- [Apple на презентации Vision Pro заменила реального человека на цифрового](https://habr.com/ru/news/740314/?utm_campaign=740314&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила новый адаптер питания мощностью 70 Вт для MacBook](https://habr.com/ru/news/740312/?utm_campaign=740312&utm_source=habrahabr&utm_medium=rss)
-- [1Password запускает бета-поддержку технологии Passkey](https://habr.com/ru/news/740306/?utm_campaign=740306&utm_source=habrahabr&utm_medium=rss)
-- [AMD продлит поддержку AM5 до 2026 года, а процессоры Ryzen 8000 на Zen 5 будут оснащаться GPU на RNDA 3.5](https://habr.com/ru/companies/dcmiran/news/740282/?utm_campaign=740282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
