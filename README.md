@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил новый инструмент в составе API «Яндекс Карт» — «Геосаджест»](https://habr.com/ru/news/740362/?utm_campaign=740362&utm_source=habrahabr&utm_medium=rss)
+- [«Глория Джинс» проверяет информацию об утечке данных пользователей со своего сайта gloria-jeans.ru](https://habr.com/ru/news/740352/?utm_campaign=740352&utm_source=habrahabr&utm_medium=rss)
+- [Найден мостик перехода от электроники к фотонике](https://habr.com/ru/news/740294/?utm_campaign=740294&utm_source=habrahabr&utm_medium=rss)
 - [У поставщиков электроники по параллельному импорту возникли проблемы с банками ряда стран](https://habr.com/ru/news/740344/?utm_campaign=740344&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: хакер выложил в открытый доступ базы данных пользователей интернет-магазина book24.ru и сети «Аскона»](https://habr.com/ru/news/740342/?utm_campaign=740342&utm_source=habrahabr&utm_medium=rss)
-- [RuStore запустил монетизацию для физических лиц, получающих доходы как самозанятые](https://habr.com/ru/news/740334/?utm_campaign=740334&utm_source=habrahabr&utm_medium=rss)
-- [В перечень по замещению GitHub не вошли крупнейшие компании](https://habr.com/ru/news/740324/?utm_campaign=740324&utm_source=habrahabr&utm_medium=rss)
-- [Apple купила стартап AR-гарнитур Mira](https://habr.com/ru/news/740322/?utm_campaign=740322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
