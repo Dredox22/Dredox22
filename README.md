@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Журналист добился от Microsoft, чтобы в новом поиске в Edge можно было найти Chrome, а не получать в ответе рекламу Bing](https://habr.com/ru/news/740320/?utm_campaign=740320&utm_source=habrahabr&utm_medium=rss)
+- [Apple на презентации Vision Pro заменила реального человека на цифрового](https://habr.com/ru/news/740314/?utm_campaign=740314&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила новый адаптер питания мощностью 70 Вт для MacBook](https://habr.com/ru/news/740312/?utm_campaign=740312&utm_source=habrahabr&utm_medium=rss)
+- [1Password запускает бета-поддержку технологии Passkey](https://habr.com/ru/news/740306/?utm_campaign=740306&utm_source=habrahabr&utm_medium=rss)
 - [AMD продлит поддержку AM5 до 2026 года, а процессоры Ryzen 8000 на Zen 5 будут оснащаться GPU на RNDA 3.5](https://habr.com/ru/companies/dcmiran/news/740282/?utm_campaign=740282&utm_source=habrahabr&utm_medium=rss)
-- [РЖД тестирует в Челябинске автоматического робота для расцепления вагонов](https://habr.com/ru/news/740268/?utm_campaign=740268&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft вернула жесты мышкой в стабильную версию Microsoft Edge 114](https://habr.com/ru/news/740264/?utm_campaign=740264&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили улучшенный алгоритм для определения болезней растений при помощи машинного обучения](https://habr.com/ru/companies/rshb/news/740246/?utm_campaign=740246&utm_source=habrahabr&utm_medium=rss)
-- [Топ 5 новостей по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/740238/?utm_campaign=740238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
