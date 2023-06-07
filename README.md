@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [22 июня пройдёт конференция про Kubernetes, организованная Yandex Cloud](https://habr.com/ru/news/740390/?utm_campaign=740390&utm_source=habrahabr&utm_medium=rss)
+- [Instagram** начала тестировать собственного чат-бота](https://habr.com/ru/news/740382/?utm_campaign=740382&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила инструмент Game Porting Tool для переноса и оптимизации игр на macOS](https://habr.com/ru/news/740372/?utm_campaign=740372&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил новый инструмент в составе API «Яндекс Карт» — «Геосаджест»](https://habr.com/ru/news/740362/?utm_campaign=740362&utm_source=habrahabr&utm_medium=rss)
 - [«Глория Джинс» проверяет информацию об утечке данных пользователей со своего сайта gloria-jeans.ru](https://habr.com/ru/news/740352/?utm_campaign=740352&utm_source=habrahabr&utm_medium=rss)
-- [Найден мостик перехода от электроники к фотонике](https://habr.com/ru/news/740294/?utm_campaign=740294&utm_source=habrahabr&utm_medium=rss)
-- [У поставщиков электроники по параллельному импорту возникли проблемы с банками ряда стран](https://habr.com/ru/news/740344/?utm_campaign=740344&utm_source=habrahabr&utm_medium=rss)
-- [DLBI: хакер выложил в открытый доступ базы данных пользователей интернет-магазина book24.ru и сети «Аскона»](https://habr.com/ru/news/740342/?utm_campaign=740342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
