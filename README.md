@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи macOS показали, как с помощью Game Porting Tool играют на Mac Silicon в Cyberpunk 2077 и Diablo IV](https://habr.com/ru/news/740522/?utm_campaign=740522&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 263,3 млн звонков с подменных номеров](https://habr.com/ru/news/740514/?utm_campaign=740514&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-специалисты из Румынии обнаружили 60 тысяч поддельных приложений по показу рекламы на ОС Android](https://habr.com/ru/news/740464/?utm_campaign=740464&utm_source=habrahabr&utm_medium=rss)
 - [Историки из Стэнфордского университета создали интерактивную карту Римской империи 200 года н.э](https://habr.com/ru/news/740454/?utm_campaign=740454&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» начала выпуск компактных станций спутниковой связи](https://habr.com/ru/news/740428/?utm_campaign=740428&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» открыл доступ к платформе синтеза и распознавания речи SaluteSpeech без ограничений по способу применения](https://habr.com/ru/news/740408/?utm_campaign=740408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
