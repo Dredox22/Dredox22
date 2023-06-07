@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У поставщиков электроники по параллельному импорту возникли проблемы с банками ряда стран](https://habr.com/ru/news/740344/?utm_campaign=740344&utm_source=habrahabr&utm_medium=rss)
+- [DLBI: хакер выложил в открытый доступ базы данных пользователей интернет-магазина book24.ru и сети «Аскона»](https://habr.com/ru/news/740342/?utm_campaign=740342&utm_source=habrahabr&utm_medium=rss)
 - [RuStore запустил монетизацию для физических лиц, получающих доходы как самозанятые](https://habr.com/ru/news/740334/?utm_campaign=740334&utm_source=habrahabr&utm_medium=rss)
 - [В перечень по замещению GitHub не вошли крупнейшие компании](https://habr.com/ru/news/740324/?utm_campaign=740324&utm_source=habrahabr&utm_medium=rss)
 - [Apple купила стартап AR-гарнитур Mira](https://habr.com/ru/news/740322/?utm_campaign=740322&utm_source=habrahabr&utm_medium=rss)
-- [«Инженер по тестированию: от новичка до автоматизатора» — Яндекс Практикум запустил новый курс](https://habr.com/ru/companies/yandex_praktikum/news/739518/?utm_campaign=739518&utm_source=habrahabr&utm_medium=rss)
-- [Журналист добился от Microsoft, чтобы в новом поиске в Edge можно было найти Chrome, а не получать в ответе рекламу Bing](https://habr.com/ru/news/740320/?utm_campaign=740320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
