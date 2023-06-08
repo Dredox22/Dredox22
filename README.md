@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торговая сеть «Аскона» подтвердила факт утечки данных пользователей своего интернет-магазина askona.ru](https://habr.com/ru/news/740574/?utm_campaign=740574&utm_source=habrahabr&utm_medium=rss)
 - [Издательская группа «Эксмо-АСТ» подтвердила факт утечки данных пользователей своего интернет-магазина book24.ru](https://habr.com/ru/news/740558/?utm_campaign=740558&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры «Смута» ответили на вопросы о проекте](https://habr.com/ru/news/740538/?utm_campaign=740538&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи macOS показали, как с помощью Game Porting Tool играют на Mac Silicon в Cyberpunk 2077 и Diablo IV](https://habr.com/ru/news/740522/?utm_campaign=740522&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 263,3 млн звонков с подменных номеров](https://habr.com/ru/news/740514/?utm_campaign=740514&utm_source=habrahabr&utm_medium=rss)
-- [ИБ-специалисты из Румынии обнаружили 60 тысяч поддельных приложений по показу рекламы на ОС Android](https://habr.com/ru/news/740464/?utm_campaign=740464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
