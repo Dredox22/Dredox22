@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel выложила в открытый доступ моноширинный шрифт One Mono для эмуляторов терминалов и редакторов кода](https://habr.com/ru/news/740728/?utm_campaign=740728&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp запустил каналы в мессенджере](https://habr.com/ru/news/740702/?utm_campaign=740702&utm_source=habrahabr&utm_medium=rss)
 - [В РФ попросили запретить поставки зарубежных систем противопожарной безопасности и СКУД](https://habr.com/ru/news/740688/?utm_campaign=740688&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть помогла разработать улучшенный алгоритм сортировки](https://habr.com/ru/news/740682/?utm_campaign=740682&utm_source=habrahabr&utm_medium=rss)
 - [Apple предложила превратить iPhone в камеру для слежения за домашними животными](https://habr.com/ru/news/740674/?utm_campaign=740674&utm_source=habrahabr&utm_medium=rss)
-- [«IT Школа Samsung» объявляет набор в Летнюю школу ВШЭ по программной инженерии](https://habr.com/ru/companies/samsung/news/740648/?utm_campaign=740648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
