@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«IT Школа Samsung» объявляет набор в Летнюю школу ВШЭ по программной инженерии](https://habr.com/ru/companies/samsung/news/740648/?utm_campaign=740648&utm_source=habrahabr&utm_medium=rss)
+- [Google: чат-бот Bard прогрессирует в математике, программировании и логике](https://habr.com/ru/news/740644/?utm_campaign=740644&utm_source=habrahabr&utm_medium=rss)
 - [В процессорах AMD на платформе Zen 4c применены новые чиплеты на 16 ядер](https://habr.com/ru/companies/dcmiran/news/740632/?utm_campaign=740632&utm_source=habrahabr&utm_medium=rss)
 - [«Глория Джинс» подтвердила факт утечки данных 3 млн пользователей из-за атаки во время техработ на сайте gloria-jeans.ru](https://habr.com/ru/news/740620/?utm_campaign=740620&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE сообщила об атаках на оборонно-промышленный комплекс и объекты критической инфраструктуры с целью шпионажа](https://habr.com/ru/news/740610/?utm_campaign=740610&utm_source=habrahabr&utm_medium=rss)
-- [Migo Ascender стал первым роботом-пылесосом с возможностью подъёма по ступенькам](https://habr.com/ru/news/740608/?utm_campaign=740608&utm_source=habrahabr&utm_medium=rss)
-- [DLBI: в открытый доступ выложены базы данных клиентов «Леруа Мерлен», edimdoma.ru, интернет-магазинов «Буквоед» и «Твоё»](https://habr.com/ru/news/740600/?utm_campaign=740600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
