@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Drive прекратит работать на ПК с Windows 8/8.1 с августа 2023 года](https://habr.com/ru/news/740744/?utm_campaign=740744&utm_source=habrahabr&utm_medium=rss)
+- [VK запустила функцию OnePass для беспарольной авторизации во «ВКонтакте» и сервисах VK](https://habr.com/ru/news/740742/?utm_campaign=740742&utm_source=habrahabr&utm_medium=rss)
 - [Intel выложила в открытый доступ моноширинный шрифт One Mono для эмуляторов терминалов и редакторов кода](https://habr.com/ru/news/740728/?utm_campaign=740728&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp запустил каналы в мессенджере](https://habr.com/ru/news/740702/?utm_campaign=740702&utm_source=habrahabr&utm_medium=rss)
 - [В РФ попросили запретить поставки зарубежных систем противопожарной безопасности и СКУД](https://habr.com/ru/news/740688/?utm_campaign=740688&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть помогла разработать улучшенный алгоритм сортировки](https://habr.com/ru/news/740682/?utm_campaign=740682&utm_source=habrahabr&utm_medium=rss)
-- [Apple предложила превратить iPhone в камеру для слежения за домашними животными](https://habr.com/ru/news/740674/?utm_campaign=740674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
