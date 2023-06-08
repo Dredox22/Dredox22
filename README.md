@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи стали массово делиться украденными токенами API OpenAI для бесплатного и неограниченного доступа к ChatGPT](https://habr.com/ru/news/740776/?utm_campaign=740776&utm_source=habrahabr&utm_medium=rss)
 - [Управление IoT-yстройствами в облаке #CloudMTS](https://habr.com/ru/companies/cloud_mts/news/740754/?utm_campaign=740754&utm_source=habrahabr&utm_medium=rss)
 - [Google Drive прекратит работать на ПК с Windows 8/8.1 с августа 2023 года](https://habr.com/ru/news/740744/?utm_campaign=740744&utm_source=habrahabr&utm_medium=rss)
 - [VK запустила функцию OnePass для беспарольной авторизации во «ВКонтакте» и сервисах VK](https://habr.com/ru/news/740742/?utm_campaign=740742&utm_source=habrahabr&utm_medium=rss)
 - [Intel выложила в открытый доступ моноширинный шрифт One Mono для эмуляторов терминалов и редакторов кода](https://habr.com/ru/news/740728/?utm_campaign=740728&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp запустил каналы в мессенджере](https://habr.com/ru/news/740702/?utm_campaign=740702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
