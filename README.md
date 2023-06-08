@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила набор элементов iOS 17 и iPadOS 17 для Figma для упрощения работы дизайнерам приложений](https://habr.com/ru/news/740592/?utm_campaign=740592&utm_source=habrahabr&utm_medium=rss)
 - [Apple сделала бесплатной загрузку бета-версий iOS с официального сайта для разработчиков](https://habr.com/ru/news/740576/?utm_campaign=740576&utm_source=habrahabr&utm_medium=rss)
 - [Торговая сеть «Аскона» подтвердила факт утечки данных пользователей своего интернет-магазина askona.ru](https://habr.com/ru/news/740574/?utm_campaign=740574&utm_source=habrahabr&utm_medium=rss)
 - [Издательская группа «Эксмо-АСТ» подтвердила факт утечки данных пользователей своего интернет-магазина book24.ru](https://habr.com/ru/news/740558/?utm_campaign=740558&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры «Смута» ответили на вопросы о проекте](https://habr.com/ru/news/740538/?utm_campaign=740538&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи macOS показали, как с помощью Game Porting Tool играют на Mac Silicon в Cyberpunk 2077 и Diablo IV](https://habr.com/ru/news/740522/?utm_campaign=740522&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
