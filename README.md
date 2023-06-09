@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» выделит 1,02 млрд рублей на «Ягу» — отечественный аналог Jira, Trello и Confluence](https://habr.com/ru/news/740922/?utm_campaign=740922&utm_source=habrahabr&utm_medium=rss)
 - [Вместо GPS роботакси «Яндекса» использует высокоточные карты и данные лидарной локализации](https://habr.com/ru/news/740912/?utm_campaign=740912&utm_source=habrahabr&utm_medium=rss)
 - [В Дубае открыли центр искусственного интеллекта](https://habr.com/ru/news/740898/?utm_campaign=740898&utm_source=habrahabr&utm_medium=rss)
 - [Apple раскрыла принцип управления Vision Pro](https://habr.com/ru/news/740890/?utm_campaign=740890&utm_source=habrahabr&utm_medium=rss)
 - [Starlink запустит спутниковый интернет в Монголии](https://habr.com/ru/news/740864/?utm_campaign=740864&utm_source=habrahabr&utm_medium=rss)
-- [СВД ВС примет участие в конференции OS Day](https://habr.com/ru/companies/swd_es/news/740858/?utm_campaign=740858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
