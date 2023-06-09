@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сферум» и МЭШ сообщили об объединении ресурсов](https://habr.com/ru/news/740964/?utm_campaign=740964&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс.Карты» и «Навигатор» начали определять геопозицию в Москве с помощью Wi-Fi и Bluetooth](https://habr.com/ru/news/740960/?utm_campaign=740960&utm_source=habrahabr&utm_medium=rss)
 - [«Код Безопасности» предоставит свое решение для участников Международного киберчемпионата на ПМЭФ](https://habr.com/ru/news/740954/?utm_campaign=740954&utm_source=habrahabr&utm_medium=rss)
 - [«Райффайзенбанк» ввёл комиссию при переводе долларов из другого банка](https://habr.com/ru/news/740938/?utm_campaign=740938&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» выделит 1,02 млрд рублей на «Ягу» — отечественный аналог Jira, Trello и Confluence](https://habr.com/ru/news/740922/?utm_campaign=740922&utm_source=habrahabr&utm_medium=rss)
-- [Вместо GPS роботакси «Яндекса» использует высокоточные карты и данные лидарной локализации](https://habr.com/ru/news/740912/?utm_campaign=740912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
