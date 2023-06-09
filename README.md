@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung разрабатывает свой аналог ChatGPT](https://habr.com/ru/news/740856/?utm_campaign=740856&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры и ФАС обсуждают частичное введение внеплановых проверок IT-компаний](https://habr.com/ru/news/740836/?utm_campaign=740836&utm_source=habrahabr&utm_medium=rss)
 - [Barracuda Networks после атаки на IT-инфраструктуру просит клиентов заменить устройства Email Security Gateway](https://habr.com/ru/news/740826/?utm_campaign=740826&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи стали массово делиться украденными токенами API OpenAI для бесплатного и неограниченного доступа к ChatGPT](https://habr.com/ru/news/740776/?utm_campaign=740776&utm_source=habrahabr&utm_medium=rss)
 - [Управление IoT-yстройствами в облаке #CloudMTS](https://habr.com/ru/companies/cloud_mts/news/740754/?utm_campaign=740754&utm_source=habrahabr&utm_medium=rss)
-- [Google Drive прекратит работать на ПК с Windows 8/8.1 с августа 2023 года](https://habr.com/ru/news/740744/?utm_campaign=740744&utm_source=habrahabr&utm_medium=rss)
-- [VK запустила функцию OnePass для беспарольной авторизации во «ВКонтакте» и сервисах VK](https://habr.com/ru/news/740742/?utm_campaign=740742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
