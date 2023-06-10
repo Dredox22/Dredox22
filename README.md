@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DLBI: в открытый доступ выложены базы данных пользователей «Читай-города», «Эксмо» и издательства «АСТ»](https://habr.com/ru/news/741074/?utm_campaign=741074&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE зафиксировала массовую фишинговую рассылку под видом документов о мобилизации](https://habr.com/ru/news/741058/?utm_campaign=741058&utm_source=habrahabr&utm_medium=rss)
 - [Материалы с пятого митапа X5 Tech по тестированию](https://habr.com/ru/companies/X5Tech/news/741020/?utm_campaign=741020&utm_source=habrahabr&utm_medium=rss)
 - [«1С‑Битрикс» опровергла данные о работе с некоторыми компаниями, чьи данные утекли в сеть](https://habr.com/ru/news/741002/?utm_campaign=741002&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман: OpenAI пока не приступила к обучению GPT-5](https://habr.com/ru/news/741000/?utm_campaign=741000&utm_source=habrahabr&utm_medium=rss)
-- [«Сферум» и МЭШ сообщили об объединении ресурсов](https://habr.com/ru/news/740964/?utm_campaign=740964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
