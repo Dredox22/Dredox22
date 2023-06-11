@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть «Газпром нефти» нашла новые запасы нефти в ХМАО и Томской области](https://habr.com/ru/news/741168/?utm_campaign=741168&utm_source=habrahabr&utm_medium=rss)
 - [Многослойные платы видеокарт Gigabyte Nvidia GeForce RTX 30/40 трескаются, производитель отказывает в гарантии](https://habr.com/ru/news/741156/?utm_campaign=741156&utm_source=habrahabr&utm_medium=rss)
 - [Ассанж подаёт новую апелляцию в Верховный суд Великобритании против экстрадиции в США](https://habr.com/ru/news/741120/?utm_campaign=741120&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Debian 12 «Bookworm»](https://habr.com/ru/news/741096/?utm_campaign=741096&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: в открытый доступ выложены базы данных пользователей «Читай-города», «Эксмо» и издательства «АСТ»](https://habr.com/ru/news/741074/?utm_campaign=741074&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE зафиксировала массовую фишинговую рассылку под видом документов о мобилизации](https://habr.com/ru/news/741058/?utm_campaign=741058&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
