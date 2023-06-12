@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel представила CPU Atom C1100, поставки тайваньских чипов в падают в Китае и растут в США](https://habr.com/ru/companies/dcmiran/news/741208/?utm_campaign=741208&utm_source=habrahabr&utm_medium=rss)
 - [Bethesda показала геймплей Starfield, раскрыла детали игрового процесса и озвучила системные требования к тайтлу](https://habr.com/ru/news/741202/?utm_campaign=741202&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть «Газпром нефти» нашла новые запасы нефти в ХМАО и Томской области](https://habr.com/ru/news/741168/?utm_campaign=741168&utm_source=habrahabr&utm_medium=rss)
 - [Многослойные платы видеокарт Gigabyte Nvidia GeForce RTX 30/40 трескаются, производитель отказывает в гарантии](https://habr.com/ru/news/741156/?utm_campaign=741156&utm_source=habrahabr&utm_medium=rss)
 - [Ассанж подаёт новую апелляцию в Верховный суд Великобритании против экстрадиции в США](https://habr.com/ru/news/741120/?utm_campaign=741120&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Debian 12 «Bookworm»](https://habr.com/ru/news/741096/?utm_campaign=741096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
