@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ABB приобрела разработчика аксессуаров для умного дома Eve Systems](https://habr.com/ru/news/741276/?utm_campaign=741276&utm_source=habrahabr&utm_medium=rss)
+- [В Южной Корее арестовали бывшего топ-менеджера Samsung по обвинению в краже коммерческой тайны](https://habr.com/ru/news/741274/?utm_campaign=741274&utm_source=habrahabr&utm_medium=rss)
 - [В десктопной версии чат-бота Bing появилась поддержка голосовых команд](https://habr.com/ru/news/741264/?utm_campaign=741264&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила CPU Atom C1100, поставки тайваньских чипов падают в Китае и растут в США](https://habr.com/ru/companies/dcmiran/news/741208/?utm_campaign=741208&utm_source=habrahabr&utm_medium=rss)
 - [Bethesda показала геймплей Starfield, раскрыла детали игрового процесса и озвучила системные требования к тайтлу](https://habr.com/ru/news/741202/?utm_campaign=741202&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть «Газпром нефти» нашла новые запасы нефти в ХМАО и Томской области](https://habr.com/ru/news/741168/?utm_campaign=741168&utm_source=habrahabr&utm_medium=rss)
-- [Многослойные платы видеокарт Gigabyte Nvidia GeForce RTX 30/40 трескаются, производитель отказывает в гарантии](https://habr.com/ru/news/741156/?utm_campaign=741156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
