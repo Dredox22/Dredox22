@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 28 июня Slack отключит поддержку русского языка в своём приложении](https://habr.com/ru/news/741452/?utm_campaign=741452&utm_source=habrahabr&utm_medium=rss)
+- [У киберпреступников в РФ будут конфисковывать незаконно полученное имущество](https://habr.com/ru/news/741440/?utm_campaign=741440&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX совершила два запуска за 15 часов и 200-ю посадку первой ступени](https://habr.com/ru/news/741436/?utm_campaign=741436&utm_source=habrahabr&utm_medium=rss)
 - [Астрофотограф запечатлел проход МКС по диску Солнца во время выхода в открытый космос двух астронавтов](https://habr.com/ru/news/741424/?utm_campaign=741424&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на митап VK Tech Talks · ML в Питере](https://habr.com/ru/companies/vk/news/741398/?utm_campaign=741398&utm_source=habrahabr&utm_medium=rss)
-- [Intel планирует стать основным акционером Arm после выхода компании на биржу](https://habr.com/ru/companies/dcmiran/news/741388/?utm_campaign=741388&utm_source=habrahabr&utm_medium=rss)
-- [Sony отказалась увеличить производство OLEDoS-экранов для Apple Vision Pro](https://habr.com/ru/news/741380/?utm_campaign=741380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
