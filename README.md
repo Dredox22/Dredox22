@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на митап VK Tech Talks · ML в Питере](https://habr.com/ru/companies/vk/news/741398/?utm_campaign=741398&utm_source=habrahabr&utm_medium=rss)
+- [Intel планирует стать основным акционером Arm после выхода компании на биржу](https://habr.com/ru/companies/dcmiran/news/741388/?utm_campaign=741388&utm_source=habrahabr&utm_medium=rss)
 - [Sony отказалась увеличить производство OLEDoS-экранов для Apple Vision Pro](https://habr.com/ru/news/741380/?utm_campaign=741380&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия браузера Edge Canary отправляет в Microsoft ссылки на изображения, которые просматривает пользователь](https://habr.com/ru/news/741338/?utm_campaign=741338&utm_source=habrahabr&utm_medium=rss)
 - [Совместимость с двумя российскими ОС станет обязательной для отечественного ПО](https://habr.com/ru/news/741324/?utm_campaign=741324&utm_source=habrahabr&utm_medium=rss)
-- [ABB приобрела разработчика аксессуаров для умного дома Eve Systems](https://habr.com/ru/news/741276/?utm_campaign=741276&utm_source=habrahabr&utm_medium=rss)
-- [В Южной Корее арестовали бывшего топ-менеджера Samsung по обвинению в краже коммерческой тайны](https://habr.com/ru/news/741274/?utm_campaign=741274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
