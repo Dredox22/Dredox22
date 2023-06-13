@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Отечественный Андроид](https://habr.com/ru/news/741550/?utm_campaign=741550&utm_source=habrahabr&utm_medium=rss)
+- [Возможности RuStore на фоне появления отечественной реализации Андроида](https://habr.com/ru/news/741550/?utm_campaign=741550&utm_source=habrahabr&utm_medium=rss)
 - [Проверь свою архитектуру на прочность: что VK готовит на Saint HighLoad++](https://habr.com/ru/companies/vk/news/741490/?utm_campaign=741490&utm_source=habrahabr&utm_medium=rss)
 - [Nature запретил публикацию статей и исследований, содержащих созданные с помощью ИИ изображения или видео](https://habr.com/ru/news/741470/?utm_campaign=741470&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор проверит информацию об утечке данных пользователей торговой сети «Глория Джинс»](https://habr.com/ru/news/741468/?utm_campaign=741468&utm_source=habrahabr&utm_medium=rss)
