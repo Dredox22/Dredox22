@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Совместимость с двумя российскими ОС станет обязательной для отечественного ПО](https://habr.com/ru/news/741324/?utm_campaign=741324&utm_source=habrahabr&utm_medium=rss)
 - [ABB приобрела разработчика аксессуаров для умного дома Eve Systems](https://habr.com/ru/news/741276/?utm_campaign=741276&utm_source=habrahabr&utm_medium=rss)
 - [В Южной Корее арестовали бывшего топ-менеджера Samsung по обвинению в краже коммерческой тайны](https://habr.com/ru/news/741274/?utm_campaign=741274&utm_source=habrahabr&utm_medium=rss)
 - [В десктопной версии чат-бота Bing появилась поддержка голосовых команд](https://habr.com/ru/news/741264/?utm_campaign=741264&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила CPU Atom C1100, поставки тайваньских чипов падают в Китае и растут в США](https://habr.com/ru/companies/dcmiran/news/741208/?utm_campaign=741208&utm_source=habrahabr&utm_medium=rss)
-- [Bethesda показала геймплей Starfield, раскрыла детали игрового процесса и озвучила системные требования к тайтлу](https://habr.com/ru/news/741202/?utm_campaign=741202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
