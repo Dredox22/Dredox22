@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony отказалась увеличить производство OLEDoS-экранов для Apple Vision Pro](https://habr.com/ru/news/741380/?utm_campaign=741380&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия браузера Edge Canary отправляет в Microsoft ссылки на изображения, которые просматривает пользователь](https://habr.com/ru/news/741338/?utm_campaign=741338&utm_source=habrahabr&utm_medium=rss)
 - [Совместимость с двумя российскими ОС станет обязательной для отечественного ПО](https://habr.com/ru/news/741324/?utm_campaign=741324&utm_source=habrahabr&utm_medium=rss)
 - [ABB приобрела разработчика аксессуаров для умного дома Eve Systems](https://habr.com/ru/news/741276/?utm_campaign=741276&utm_source=habrahabr&utm_medium=rss)
 - [В Южной Корее арестовали бывшего топ-менеджера Samsung по обвинению в краже коммерческой тайны](https://habr.com/ru/news/741274/?utm_campaign=741274&utm_source=habrahabr&utm_medium=rss)
-- [В десктопной версии чат-бота Bing появилась поддержка голосовых команд](https://habr.com/ru/news/741264/?utm_campaign=741264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
