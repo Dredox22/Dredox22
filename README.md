@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В бета-версии iOS 17 пока не появилась загрузка сторонних приложений, Apple планирует добавить её позже](https://habr.com/ru/news/741718/?utm_campaign=741718&utm_source=habrahabr&utm_medium=rss)
+- [Сервис для защиты бизнес-критичных приложений от DDoS-атак](https://habr.com/ru/companies/cloud_mts/news/741710/?utm_campaign=741710&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком»: в Петербурге запущено производство отечественных печатных плат и телекоммуникационного оборудования](https://habr.com/ru/news/741682/?utm_campaign=741682&utm_source=habrahabr&utm_medium=rss)
 - [Первая в России премия для этичных хакеров](https://habr.com/ru/news/741678/?utm_campaign=741678&utm_source=habrahabr&utm_medium=rss)
 - [Новая библиотека для анализа данных Pandas AI: стоит ли пробовать?](https://habr.com/ru/news/741664/?utm_campaign=741664&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила проблему с копированием файлов и сбоями при их сохранении в 32-разрядных приложениях в Windows 10/11](https://habr.com/ru/news/741658/?utm_campaign=741658&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI предупредила Microsoft о поспешной интеграции GPT-4 в Bing](https://habr.com/ru/news/741632/?utm_campaign=741632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
