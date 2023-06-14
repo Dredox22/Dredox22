@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила проблему с копированием файлов и сбоями при их сохранении в 32-разрядных приложениях в Windows 10/11](https://habr.com/ru/news/741658/?utm_campaign=741658&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI предупредила Microsoft о поспешной интеграции GPT-4 в Bing](https://habr.com/ru/news/741632/?utm_campaign=741632&utm_source=habrahabr&utm_medium=rss)
 - [Суд в США временно заблокировал сделку по поглощению Activision компанией Microsoft](https://habr.com/ru/news/741614/?utm_campaign=741614&utm_source=habrahabr&utm_medium=rss)
 - [Проверь свою архитектуру на прочность: что VK готовит на Saint HighLoad++](https://habr.com/ru/companies/vk/news/741490/?utm_campaign=741490&utm_source=habrahabr&utm_medium=rss)
 - [Nature запретил публикацию статей и исследований, содержащих созданные с помощью ИИ изображения или видео](https://habr.com/ru/news/741470/?utm_campaign=741470&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор проверит информацию об утечке данных пользователей торговой сети «Глория Джинс»](https://habr.com/ru/news/741468/?utm_campaign=741468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
