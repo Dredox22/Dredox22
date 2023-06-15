@@ -70,9 +70,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [СМИ: пользователи РФ смогут протестировать закрытую сеть из безопасных и проверенных сервисов — Рунет 2.0](https://habr.com/ru/news/741820/?utm_campaign=741820&utm_source=habrahabr&utm_medium=rss)
 - [Делаем аналог запрещённой соцсети с картинками](https://habr.com/ru/companies/southbridge/news/741768/?utm_campaign=741768&utm_source=habrahabr&utm_medium=rss)
-- [В СОВ UserGate добавлены 4 новые сигнатуры](https://habr.com/ru/companies/usergate/news/741740/?utm_campaign=741740&utm_source=habrahabr&utm_medium=rss)
 - [В бета-версии iOS 17 пока не появилась загрузка сторонних приложений, Apple планирует добавить её позже](https://habr.com/ru/news/741718/?utm_campaign=741718&utm_source=habrahabr&utm_medium=rss)
 - [Сервис для защиты бизнес-критичных приложений от DDoS-атак](https://habr.com/ru/companies/cloud_mts/news/741710/?utm_campaign=741710&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком»: в Петербурге запущено производство отечественных печатных плат и телекоммуникационного оборудования](https://habr.com/ru/news/741682/?utm_campaign=741682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
