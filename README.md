@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Музей криптографии представляет выставку-аттракцион «Мне нужно тебе кое-что сказать»](https://habr.com/ru/companies/kryptonite/news/741936/?utm_campaign=741936&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.25: поддержка новых версий Qt Creator, Rider и многое другое](https://habr.com/ru/companies/pvs-studio/news/741872/?utm_campaign=741872&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» встроил нейросеть YandexGPT &lpar;YaLM 2.0&rpar; в приложение «Шедеврум»](https://habr.com/ru/news/741870/?utm_campaign=741870&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: пользователи РФ смогут протестировать закрытую сеть из безопасных и проверенных сервисов — Рунет 2.0](https://habr.com/ru/news/741820/?utm_campaign=741820&utm_source=habrahabr&utm_medium=rss)
 - [Делаем аналог запрещённой соцсети с картинками](https://habr.com/ru/companies/southbridge/news/741768/?utm_campaign=741768&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии iOS 17 пока не появилась загрузка сторонних приложений, Apple планирует добавить её позже](https://habr.com/ru/news/741718/?utm_campaign=741718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
