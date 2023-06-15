@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: государство не планирует финансировать видеоигровую индустрию](https://habr.com/ru/news/742038/?utm_campaign=742038&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры распространяют на торрентах сборки Windows 10 с вредоносами в разделе EFI](https://habr.com/ru/news/742008/?utm_campaign=742008&utm_source=habrahabr&utm_medium=rss)
 - [Музей криптографии представляет выставку-аттракцион «Мне нужно тебе кое-что сказать»](https://habr.com/ru/companies/kryptonite/news/741936/?utm_campaign=741936&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.25: поддержка новых версий Qt Creator, Rider и многое другое](https://habr.com/ru/companies/pvs-studio/news/741872/?utm_campaign=741872&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» встроил нейросеть YandexGPT &lpar;YaLM 2.0&rpar; в приложение «Шедеврум»](https://habr.com/ru/news/741870/?utm_campaign=741870&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: пользователи РФ смогут протестировать закрытую сеть из безопасных и проверенных сервисов — Рунет 2.0](https://habr.com/ru/news/741820/?utm_campaign=741820&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
