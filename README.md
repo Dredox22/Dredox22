@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сколтех» продлил приём заявок на участие в Летней школе машинного обучения](https://habr.com/ru/news/742172/?utm_campaign=742172&utm_source=habrahabr&utm_medium=rss)
+- [Epic Games выпустила инструмент MetaHuman Animator в широкий доступ](https://habr.com/ru/news/742168/?utm_campaign=742168&utm_source=habrahabr&utm_medium=rss)
 - [Орбитальный сервер RUVDS успешно прошёл испытания и подготовлен к запуску на орбиту](https://habr.com/ru/companies/ruvds/news/742154/?utm_campaign=742154&utm_source=habrahabr&utm_medium=rss)
 - [Joomla Day France 2023](https://habr.com/ru/news/742134/?utm_campaign=742134&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила выпуск новых игр для Xbox One](https://habr.com/ru/news/742102/?utm_campaign=742102&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft каждый тестер Xbox QA сейчас ищет баги в проекте Starfield](https://habr.com/ru/news/742098/?utm_campaign=742098&utm_source=habrahabr&utm_medium=rss)
-- [Mobile Meetup#2 в Технопарке аттракционов](https://habr.com/ru/companies/alfa/news/742072/?utm_campaign=742072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
