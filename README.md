@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность K8s на практике: возможности и инструменты](https://habr.com/ru/companies/vk/news/742218/?utm_campaign=742218&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи показали способ обхода пароля BIOS на ноутбуках Lenovo с помощью замыкания контактов на чипе EEPROM](https://habr.com/ru/news/742216/?utm_campaign=742216&utm_source=habrahabr&utm_medium=rss)
 - [В новом Mac Pro от Apple с M2 Ultra есть баг в macOS, связанный с отключением дисков SATA при выходе из спящего режима](https://habr.com/ru/news/742202/?utm_campaign=742202&utm_source=habrahabr&utm_medium=rss)
 - [На ПМЭФ объявили победителей Международного киберчемпионата по ИБ](https://habr.com/ru/news/742190/?utm_campaign=742190&utm_source=habrahabr&utm_medium=rss)
 - [«Сколтех» продлил приём заявок на участие в Летней школе машинного обучения](https://habr.com/ru/news/742172/?utm_campaign=742172&utm_source=habrahabr&utm_medium=rss)
-- [Epic Games выпустила инструмент MetaHuman Animator в широкий доступ](https://habr.com/ru/news/742168/?utm_campaign=742168&utm_source=habrahabr&utm_medium=rss)
-- [Орбитальный сервер RUVDS успешно прошёл испытания и подготовлен к запуску на орбиту](https://habr.com/ru/companies/ruvds/news/742154/?utm_campaign=742154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
