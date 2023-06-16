@@ -68,10 +68,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Joomla Day France 2023](https://habr.com/ru/news/742134/?utm_campaign=742134&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила выпуск новых игр для Xbox One](https://habr.com/ru/news/742102/?utm_campaign=742102&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft каждый тестер Xbox QA сейчас ищет баги в проекте Starfield](https://habr.com/ru/news/742098/?utm_campaign=742098&utm_source=habrahabr&utm_medium=rss)
 - [Mobile Meetup#2 в Технопарке аттракционов](https://habr.com/ru/companies/alfa/news/742072/?utm_campaign=742072&utm_source=habrahabr&utm_medium=rss)
-- [Владельцы Android телефонов Google Pixel и Samsung сообщают о потере контактов](https://habr.com/ru/news/742078/?utm_campaign=742078&utm_source=habrahabr&utm_medium=rss)
 - [Google разослал своим сотрудникам предупреждение использовать чат-боты, в том числе собственный Bard, с осторожностью](https://habr.com/ru/news/742070/?utm_campaign=742070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
