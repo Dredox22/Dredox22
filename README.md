@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: в Мосгорсуд поступило уголовное дело в отношении обвиняемого в госизмене основателя компании Group-IB Ильи Сачкова](https://habr.com/ru/news/742352/?utm_campaign=742352&utm_source=habrahabr&utm_medium=rss)
 - [Глава комитета Госдумы по информполитике: за использование VPN не нужно привлекать к ответственности, как за госизмену](https://habr.com/ru/news/742282/?utm_campaign=742282&utm_source=habrahabr&utm_medium=rss)
 - [Российская дочка Game Insight в рамках банкротства распродаёт действующие в РФ торговые знаки игровых проектов](https://habr.com/ru/news/742264/?utm_campaign=742264&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» запустил проект по возврату клиентам денег, переведённых мошенникам](https://habr.com/ru/news/742256/?utm_campaign=742256&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность K8s на практике: возможности и инструменты](https://habr.com/ru/companies/vk/news/742218/?utm_campaign=742218&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи показали способ обхода пароля BIOS на ноутбуках Lenovo с помощью замыкания контактов на чипе EEPROM](https://habr.com/ru/news/742216/?utm_campaign=742216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
