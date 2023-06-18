@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты разобрали на составные части новый адаптер питания Apple мощностью 70 Вт для MacBook](https://habr.com/ru/news/742416/?utm_campaign=742416&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры и Минпромторг обсуждают запрет параллельного импорта смартфонов Samsung и LG, но не iPhone](https://habr.com/ru/news/742356/?utm_campaign=742356&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в Мосгорсуд поступило уголовное дело в отношении обвиняемого в госизмене основателя компании Group-IB Ильи Сачкова](https://habr.com/ru/news/742352/?utm_campaign=742352&utm_source=habrahabr&utm_medium=rss)
 - [Глава комитета Госдумы по информполитике: за использование VPN не нужно привлекать к ответственности, как за госизмену](https://habr.com/ru/news/742282/?utm_campaign=742282&utm_source=habrahabr&utm_medium=rss)
 - [Российская дочка Game Insight в рамках банкротства распродаёт действующие в РФ торговые знаки игровых проектов](https://habr.com/ru/news/742264/?utm_campaign=742264&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» запустил проект по возврату клиентам денег, переведённых мошенникам](https://habr.com/ru/news/742256/?utm_campaign=742256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
