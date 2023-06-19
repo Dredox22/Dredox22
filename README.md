@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Вконтакте» работает над новыми функциями для пересказа текста, редактирования фото, видео и приложением «VK Знакомства»](https://habr.com/ru/news/742546/?utm_campaign=742546&utm_source=habrahabr&utm_medium=rss)
 - [США выдали патент на внедренную в крупнейшие банки РФ технологию ИИ](https://habr.com/ru/companies/smartengines/news/742526/?utm_campaign=742526&utm_source=habrahabr&utm_medium=rss)
 - [ИТМО и VK подготовят разработчиков для создания и поддержки веб-сервисов](https://habr.com/ru/companies/spbifmo/news/742522/?utm_campaign=742522&utm_source=habrahabr&utm_medium=rss)
 - [FreeBSD отмечает 30-летие](https://habr.com/ru/news/742488/?utm_campaign=742488&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» оштрафован на 2 млн рублей за непредоставление информации о пользователях сервиса «Яндекс Услуги»](https://habr.com/ru/news/742478/?utm_campaign=742478&utm_source=habrahabr&utm_medium=rss)
-- [Intel построит в Польше завод по тестированию и монтажу в корпус чипов](https://habr.com/ru/news/742436/?utm_campaign=742436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
