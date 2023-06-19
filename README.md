@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus призвала клиентов срочно установить новые прошивки для Wi-Fi роутеров](https://habr.com/ru/news/742710/?utm_campaign=742710&utm_source=habrahabr&utm_medium=rss)
+- [В Иордании алгоритм, призванный выявлять бедных, исключил из благотворительной программы часть нуждающихся](https://habr.com/ru/news/742708/?utm_campaign=742708&utm_source=habrahabr&utm_medium=rss)
 - [Нейронная сеть помогла найти признаки болезни Альцгеймера на энцефалограммах](https://habr.com/ru/news/742652/?utm_campaign=742652&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь сообщил о расплавлении разъёма 12VHPWR RTX 4090 со стороны блока питания](https://habr.com/ru/news/742674/?utm_campaign=742674&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ChatGPT оперирует вариациями из 25 шуток и не создаёт новые](https://habr.com/ru/news/742658/?utm_campaign=742658&utm_source=habrahabr&utm_medium=rss)
-- [Основы работы с Git: бесплатный курс от Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/736988/?utm_campaign=736988&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры планируют опубликовать в открытом доступе внутренние документы и исходные коды платформы Reddit](https://habr.com/ru/news/742602/?utm_campaign=742602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
