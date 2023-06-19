@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [США выдали патент на внедренную в крупнейшие банки РФ технологию ИИ](https://habr.com/ru/companies/smartengines/news/742526/?utm_campaign=742526&utm_source=habrahabr&utm_medium=rss)
+- [ИТМО и VK подготовят разработчиков для создания и поддержки веб-сервисов](https://habr.com/ru/companies/spbifmo/news/742522/?utm_campaign=742522&utm_source=habrahabr&utm_medium=rss)
 - [FreeBSD отмечает 30-летие](https://habr.com/ru/news/742488/?utm_campaign=742488&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» оштрафован на 2 млн рублей за непредоставление информации о пользователях сервиса «Яндекс Услуги»](https://habr.com/ru/news/742478/?utm_campaign=742478&utm_source=habrahabr&utm_medium=rss)
 - [Intel построит в Польше завод по тестированию и монтажу в корпус чипов](https://habr.com/ru/news/742436/?utm_campaign=742436&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты разобрали на составные части новый адаптер питания Apple мощностью 70 Вт для MacBook](https://habr.com/ru/news/742416/?utm_campaign=742416&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры и Минпромторг обсуждают запрет параллельного импорта смартфонов Samsung и LG, но не iPhone](https://habr.com/ru/news/742356/?utm_campaign=742356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
