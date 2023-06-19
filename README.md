@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: ChatGPT оперирует вариациями из 25 шуток и не создаёт новые](https://habr.com/ru/news/742658/?utm_campaign=742658&utm_source=habrahabr&utm_medium=rss)
 - [Основы работы с Git: бесплатный курс от Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/736988/?utm_campaign=736988&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры планируют опубликовать в открытом доступе внутренние документы и исходные коды платформы Reddit](https://habr.com/ru/news/742602/?utm_campaign=742602&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на наш второй X5 Data Science Meetup](https://habr.com/ru/companies/X5Tech/news/742596/?utm_campaign=742596&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком», F+ tech и «Авроид» будут развивать экосистему ОС «Аврора», включая выпуск новых мобильных приложений](https://habr.com/ru/news/742568/?utm_campaign=742568&utm_source=habrahabr&utm_medium=rss)
-- [«Вконтакте» работает над новыми функциями для пересказа текста, редактирования фото, видео и приложением «VK Знакомства»](https://habr.com/ru/news/742546/?utm_campaign=742546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
