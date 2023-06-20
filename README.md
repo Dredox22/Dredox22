@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Нейросеть LG Captioning способна генерировать текстовые описания к изображениям](https://habr.com/ru/news/742828/?utm_campaign=742828&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Kodi «Omega» 21 Alpha 2 от 18/06/2023](https://habr.com/ru/news/742812/?utm_campaign=742812&utm_source=habrahabr&utm_medium=rss)
-- [Opera выпустила первую стабильную версию браузера Opera One с чат-ботом Aria для Windows, Mac и Linux](https://habr.com/ru/news/742816/?utm_campaign=742816&utm_source=habrahabr&utm_medium=rss)
-- [В WhatsApp добавили функцию автоматической блокировки звонков с неизвестных номеров](https://habr.com/ru/news/742800/?utm_campaign=742800&utm_source=habrahabr&utm_medium=rss)
-- [Испытано на себе: серверы «Инферит Техника» &lpar; ГК Softline&rpar; успешно интегрируются с решениями F.A.C.C.T](https://habr.com/ru/companies/f_a_c_c_t/news/742796/?utm_campaign=742796&utm_source=habrahabr&utm_medium=rss)
+- [Как Doubletapp и Яндекс делали «Путешествия» на SwiftUI](https://habr.com/ru/companies/doubletapp/news/740952/?utm_campaign=740952&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies и КБТУ подписали соглашение о сотрудничестве в области развития и изучения ИБ](https://habr.com/ru/news/742850/?utm_campaign=742850&utm_source=habrahabr&utm_medium=rss)
+- [ITSumma вместе с Yandex Cloud проводит бесплатный вебинар по Terraform](https://habr.com/ru/companies/itsumma/news/742844/?utm_campaign=742844&utm_source=habrahabr&utm_medium=rss)
+- [Аналитика начинается не с аналитиков! А с чего?](https://habr.com/ru/companies/southbridge/news/742840/?utm_campaign=742840&utm_source=habrahabr&utm_medium=rss)
+- [Глава мобильного направления PlayStation покинул Sony](https://habr.com/ru/news/742836/?utm_campaign=742836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
