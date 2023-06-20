@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опрос Stack Overflow-2023: JavaScript стал самым используемым языком, а Rust — самым любимым](https://habr.com/ru/news/742886/?utm_campaign=742886&utm_source=habrahabr&utm_medium=rss)
 - [Госдума приняла закон о штрафах за использование иностранных мессенджеров  при оказании финуслуг и госуслуг](https://habr.com/ru/news/742862/?utm_campaign=742862&utm_source=habrahabr&utm_medium=rss)
 - [Как Doubletapp и Яндекс делали «Путешествия» на SwiftUI](https://habr.com/ru/companies/doubletapp/news/740952/?utm_campaign=740952&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies и КБТУ подписали соглашение о сотрудничестве в области развития и изучения ИБ](https://habr.com/ru/news/742850/?utm_campaign=742850&utm_source=habrahabr&utm_medium=rss)
 - [ITSumma вместе с Yandex Cloud проводит бесплатный вебинар по Terraform](https://habr.com/ru/companies/itsumma/news/742844/?utm_campaign=742844&utm_source=habrahabr&utm_medium=rss)
-- [Аналитика начинается не с аналитиков! А с чего?](https://habr.com/ru/companies/southbridge/news/742840/?utm_campaign=742840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
