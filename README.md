@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть LG Captioning способна генерировать текстовые описания к изображениям](https://habr.com/ru/news/742828/?utm_campaign=742828&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Kodi «Omega» 21 Alpha 2 от 18/06/2023](https://habr.com/ru/news/742812/?utm_campaign=742812&utm_source=habrahabr&utm_medium=rss)
 - [Opera выпустила первую стабильную версию браузера Opera One с чат-ботом Aria для Windows, Mac и Linux](https://habr.com/ru/news/742816/?utm_campaign=742816&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp добавили функцию автоматической блокировки звонков с неизвестных номеров](https://habr.com/ru/news/742800/?utm_campaign=742800&utm_source=habrahabr&utm_medium=rss)
 - [Испытано на себе: серверы «Инферит Техника» &lpar; ГК Softline&rpar; успешно интегрируются с решениями F.A.C.C.T](https://habr.com/ru/companies/f_a_c_c_t/news/742796/?utm_campaign=742796&utm_source=habrahabr&utm_medium=rss)
-- [Новый российский браузер «Луна» выйдет в релиз до конца года, продукт уже доступен для тестирования в App Store](https://habr.com/ru/news/742790/?utm_campaign=742790&utm_source=habrahabr&utm_medium=rss)
-- [Типизация в Python. Работа с Mypy, PyCharm и SQLAlchemy 2.0](https://habr.com/ru/companies/selectel/articles/742774/?utm_campaign=742774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
