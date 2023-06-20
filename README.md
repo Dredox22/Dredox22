@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 ускоряет сборку всех проектов](https://habr.com/ru/companies/broadcast/news/742744/?utm_campaign=742744&utm_source=habrahabr&utm_medium=rss)
+- [Типизация в Python. Работа с Mypy, PyCharm и SQLAlchemy 2.0](https://habr.com/ru/companies/selectel/news/742774/?utm_campaign=742774&utm_source=habrahabr&utm_medium=rss)
+- [На Windows 11 ускорят сборку проектов](https://habr.com/ru/companies/broadcast/news/742744/?utm_campaign=742744&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует создать группу для решения проблемы с перебоями GPS и мобильной связи из-за систем блокировки дронов](https://habr.com/ru/news/742740/?utm_campaign=742740&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик из Red Hat спустя 292 612 перезагрузок нашёл редкую ошибку в ядре Linux 6](https://habr.com/ru/news/742732/?utm_campaign=742732&utm_source=habrahabr&utm_medium=rss)
 - [Asus призвала клиентов срочно установить новые прошивки для Wi-Fi роутеров](https://habr.com/ru/news/742710/?utm_campaign=742710&utm_source=habrahabr&utm_medium=rss)
-- [В Иордании алгоритм, призванный выявлять бедных, исключил из благотворительной программы часть нуждающихся](https://habr.com/ru/news/742708/?utm_campaign=742708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
