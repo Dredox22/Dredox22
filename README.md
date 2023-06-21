@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты «Лаборатории Касперского» провели анализ TriangleDB, импланта для заражения «Операцией Триангуляция» на iOS](https://habr.com/ru/news/743140/?utm_campaign=743140&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Outlook 2024 заменит в Windows 11 приложения «Почта», «Календарь» и «Люди»](https://habr.com/ru/news/743108/?utm_campaign=743108&utm_source=habrahabr&utm_medium=rss)
 - [RoboCat — интеллектуальный агент, который учится сам](https://habr.com/ru/companies/cloud4y/news/743090/?utm_campaign=743090&utm_source=habrahabr&utm_medium=rss)
 - [В ИТМО стартует корпоративная магистратура YADRO, где научат создавать среды разработки и инструменты программирования](https://habr.com/ru/companies/yadro/news/743098/?utm_campaign=743098&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило записаться на бесплатный курс «Профессия — белый хакер»](https://habr.com/ru/news/743066/?utm_campaign=743066&utm_source=habrahabr&utm_medium=rss)
-- [На премию «Грэмми» запретили номинировать произведения, созданные по большей части с помощью ИИ](https://habr.com/ru/news/743050/?utm_campaign=743050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
