@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры предложило записаться на бесплатный курс «Профессия — белый хакер»](https://habr.com/ru/news/743066/?utm_campaign=743066&utm_source=habrahabr&utm_medium=rss)
+- [На премию «Грэмми» запретили номинировать произведения, созданные по большей части с помощью ИИ](https://habr.com/ru/news/743050/?utm_campaign=743050&utm_source=habrahabr&utm_medium=rss)
 - [EA объявила о распределении всех внутренних студий между двумя подразделениями](https://habr.com/ru/news/743040/?utm_campaign=743040&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg: Google ищет в Индии партнёров для сборки части своих смартфонов Pixel](https://habr.com/ru/news/743010/?utm_campaign=743010&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Карты» начали показывать маршруты регулярного водного транспорта в Москве](https://habr.com/ru/news/742966/?utm_campaign=742966&utm_source=habrahabr&utm_medium=rss)
-- [Российские вузы с нового учебного года введут в программы обновлённый учебный модуль по искусственному интеллекту](https://habr.com/ru/news/742970/?utm_campaign=742970&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: обучение на сгенерированных данных может привести к коллапсу большой языковой модели](https://habr.com/ru/news/742914/?utm_campaign=742914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
