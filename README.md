@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Аквариус» запустила сборочную линию материнских плат в Ивановской области](https://habr.com/ru/news/743354/?utm_campaign=743354&utm_source=habrahabr&utm_medium=rss)
+- [Выпущена новая версия СУБД Tantor Special Edition 15](https://habr.com/ru/news/743348/?utm_campaign=743348&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Мессенджере» появились групповые звонки](https://habr.com/ru/news/743342/?utm_campaign=743342&utm_source=habrahabr&utm_medium=rss)
 - [В «Лаборатории Касперского» рассказали о работе над прототипом защищённого от взломов смартфона](https://habr.com/ru/news/743328/?utm_campaign=743328&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Браузер для организаций» начинал тестировать режим совместимости с Internet Explorer](https://habr.com/ru/news/743320/?utm_campaign=743320&utm_source=habrahabr&utm_medium=rss)
-- [Google обвинила Microsoft в антиконкурентных действиях на рынке облачных сервисов и киберугрозе для нацбезопасности США](https://habr.com/ru/news/743316/?utm_campaign=743316&utm_source=habrahabr&utm_medium=rss)
-- [Intel планирует отдать производство своих чипов сторонним фабрикам ради экономии средств](https://habr.com/ru/companies/dcmiran/news/743310/?utm_campaign=743310&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
