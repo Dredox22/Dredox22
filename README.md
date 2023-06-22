@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google обвинила Microsoft в антиконкурентных действиях на рынке облачных сервисов и киберугрозе для нацбезопасности США](https://habr.com/ru/news/743316/?utm_campaign=743316&utm_source=habrahabr&utm_medium=rss)
+- [Intel планирует отдать производство своих чипов сторонним фабрикам ради экономии средств](https://habr.com/ru/companies/dcmiran/news/743310/?utm_campaign=743310&utm_source=habrahabr&utm_medium=rss)
 - [Apple отрыла SDK для очков Vision Pro](https://habr.com/ru/news/743286/?utm_campaign=743286&utm_source=habrahabr&utm_medium=rss)
 - [Apple в iOS 16.5.1 и iOS 15.7.7 закрыла найденные экспертами «Лаборатории Касперского» критические уязвимости](https://habr.com/ru/news/743268/?utm_campaign=743268&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» увеличил фонд своей программы багбаунти «Охота за ошибками» в 2023 году в 2 раза до 100 млн рублей](https://habr.com/ru/news/743260/?utm_campaign=743260&utm_source=habrahabr&utm_medium=rss)
-- [Двум из трёх беспилотных «КамАЗов» после начала эксперимента с доставкой грузов оказалась нужна перенастройка ПО](https://habr.com/ru/news/743238/?utm_campaign=743238&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в правительстве на вопрос о запрете iPhone для сотрудников сообщили об усилении безопасности](https://habr.com/ru/news/743226/?utm_campaign=743226&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
