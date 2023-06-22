@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Полиция Великобритании столкнулась с наплывом тихих звонков со смартфонов Android на номер службы экстренной помощи 999](https://habr.com/ru/news/743430/?utm_campaign=743430&utm_source=habrahabr&utm_medium=rss)
 - [Google урегулирует коллективный иск жителей США 2010 года — пользователи поиска получат чуть менее $8 каждый](https://habr.com/ru/news/743404/?utm_campaign=743404&utm_source=habrahabr&utm_medium=rss)
 - [1000 звезд на GitHub у нашей Open Source-утилиты ovpn-admin — веб-интерфейса для удобного управления OpenVPN](https://habr.com/ru/companies/flant/news/743372/?utm_campaign=743372&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор включил в перечень компаний, подлежащих «приземлению», 12 иностранных провайдеров хостинга, включая Amazon](https://habr.com/ru/news/743370/?utm_campaign=743370&utm_source=habrahabr&utm_medium=rss)
 - [Российские ретейлеры начали поставлять под заказ элитную бытовую технику зарубежных брендов](https://habr.com/ru/news/743358/?utm_campaign=743358&utm_source=habrahabr&utm_medium=rss)
-- [«Аквариус» запустила сборочную линию материнских плат в Ивановской области](https://habr.com/ru/news/743354/?utm_campaign=743354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
