@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» увеличил фонд своей программы багбаунти «Охота за ошибками» в 2023 году в 2 раза до 100 млн рублей](https://habr.com/ru/news/743260/?utm_campaign=743260&utm_source=habrahabr&utm_medium=rss)
 - [Двум из трёх беспилотных «КамАЗов» после начала эксперимента с доставкой грузов оказалась нужна перенастройка ПО](https://habr.com/ru/news/743238/?utm_campaign=743238&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в правительстве на вопрос о запрете iPhone для сотрудников сообщили об усилении безопасности](https://habr.com/ru/news/743226/?utm_campaign=743226&utm_source=habrahabr&utm_medium=rss)
 - [Google запустил ИИ-сервис для банков Anti Money Laundering AI, который беспристрастно выясняет случаи «отмывания денег»](https://habr.com/ru/news/743222/?utm_campaign=743222&utm_source=habrahabr&utm_medium=rss)
 - [С помощью машинного обучения учёные предсказали популярность песен с 97% точностью](https://habr.com/ru/news/743148/?utm_campaign=743148&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты раскрыли способ, как попасть в секретное меню Emergency Restart &lpar;аварийный перезапуск&rpar; в Windows 11](https://habr.com/ru/news/743146/?utm_campaign=743146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
