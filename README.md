@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» создал безопасный репозиторий проверенных Open Source пакетов и библиотек под названием «РТК-Феникс»](https://habr.com/ru/news/743618/?utm_campaign=743618&utm_source=habrahabr&utm_medium=rss)
 - [Бета-тестирование: плагины PVS-Studio для Qt Creator и Visual Studio Code](https://habr.com/ru/companies/pvs-studio/news/743566/?utm_campaign=743566&utm_source=habrahabr&utm_medium=rss)
 - [Nova Container Platform стала доступна в Облаке КРОК](https://habr.com/ru/companies/croc/news/743552/?utm_campaign=743552&utm_source=habrahabr&utm_medium=rss)
 - [Исполнительный продюсер Bethesda Тодд Говард: около 100 планет из 1000 в Starfield будут обитаемыми](https://habr.com/ru/news/743506/?utm_campaign=743506&utm_source=habrahabr&utm_medium=rss)
 - [NFC Forum предложил увеличить дальность NFC-соединений в четыре-шесть раз](https://habr.com/ru/news/743494/?utm_campaign=743494&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies перешла на российскую BI-платоформу Visiology](https://habr.com/ru/companies/visiology/news/743476/?utm_campaign=743476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
