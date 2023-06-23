@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исполнительный продюсер Bethesda Тодд Говард: около 100 планет из 1000 в Starfield будут обитаемыми](https://habr.com/ru/news/743506/?utm_campaign=743506&utm_source=habrahabr&utm_medium=rss)
+- [NFC Forum предложил увеличить дальность NFC-соединений в четыре-шесть раз](https://habr.com/ru/news/743494/?utm_campaign=743494&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies перешла на российскую BI-платоформу Visiology](https://habr.com/ru/companies/visiology/news/743476/?utm_campaign=743476&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: миллионы репозиториев GitHub уязвимы для атак RepoJacking](https://habr.com/ru/news/743486/?utm_campaign=743486&utm_source=habrahabr&utm_medium=rss)
 - [Вышла публичная бета-версия браузера DuckDuckGo для Windows](https://habr.com/ru/news/743482/?utm_campaign=743482&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: автомобили Toyota, Honda, Ford и другие передают гигабайты данных компаниям](https://habr.com/ru/news/743466/?utm_campaign=743466&utm_source=habrahabr&utm_medium=rss)
-- [Полиция Великобритании столкнулась с наплывом тихих звонков со смартфонов Android на номер службы экстренной помощи 999](https://habr.com/ru/news/743430/?utm_campaign=743430&utm_source=habrahabr&utm_medium=rss)
-- [Google урегулирует коллективный иск жителей США 2010 года — пользователи поиска получат чуть менее $8 каждый](https://habr.com/ru/news/743404/?utm_campaign=743404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
