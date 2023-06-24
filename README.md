@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст с помощью Raspberry Pi слушает пение птиц и распознаёт, какая именно птица щебечет у него за окном](https://habr.com/ru/news/743652/?utm_campaign=743652&utm_source=habrahabr&utm_medium=rss)
 - [В США оштрафовали двух юристов на $5 тыс. за ложные сведения от ChatGPT](https://habr.com/ru/news/743646/?utm_campaign=743646&utm_source=habrahabr&utm_medium=rss)
 - [В Москве, Ростове-на-Дону и других регионах по неизвестной причине пропал доступ к сервисам Google](https://habr.com/ru/news/743636/?utm_campaign=743636&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» создал безопасный репозиторий проверенных Open Source пакетов и библиотек под названием «РТК-Феникс»](https://habr.com/ru/news/743618/?utm_campaign=743618&utm_source=habrahabr&utm_medium=rss)
 - [Бета-тестирование: плагины PVS-Studio для Qt Creator и Visual Studio Code](https://habr.com/ru/companies/pvs-studio/news/743566/?utm_campaign=743566&utm_source=habrahabr&utm_medium=rss)
-- [Nova Container Platform стала доступна в Облаке КРОК](https://habr.com/ru/companies/croc/news/743552/?utm_campaign=743552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
