@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [BI.ZONE: число мошеннических сайтов, маскирующихся под проект Tesla X резко выросло](https://habr.com/ru/news/743766/?utm_campaign=743766&utm_source=habrahabr&utm_medium=rss)
+- [Для Mortal Kombat 1 выставлены на продажу ключи для доступа к ограниченному трёхдневному стресс-тесту тайтла от $180](https://habr.com/ru/news/743764/?utm_campaign=743764&utm_source=habrahabr&utm_medium=rss)
 - [Функция обнаружения аварий в iPhone вызвала резкий всплеск ложных вызовов в службу 911 во время музыкального фестиваля](https://habr.com/ru/news/743738/?utm_campaign=743738&utm_source=habrahabr&utm_medium=rss)
 - [Google запустил поисковую ленту Perspectives для отображения результатов от пользователей](https://habr.com/ru/news/743722/?utm_campaign=743722&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи PlayStation 5 пожаловались на перегрев консоли во время игры в Final Fantasy XVI](https://habr.com/ru/news/743686/?utm_campaign=743686&utm_source=habrahabr&utm_medium=rss)
-- [Математики решили одну из ключевых проблем теории управления фазовой синхронизацией](https://habr.com/ru/news/743670/?utm_campaign=743670&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст с помощью Raspberry Pi слушает пение птиц и распознаёт, какая именно птица щебечет у него за окном](https://habr.com/ru/news/743652/?utm_campaign=743652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
