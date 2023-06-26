@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [BI.ZONE приглашает на бесплатный вебинар по атакам на Linux-инфраструктуры](https://habr.com/ru/news/743922/?utm_campaign=743922&utm_source=habrahabr&utm_medium=rss)
+- [НАСА работает над аналогом ChatGPT для астронавтов](https://habr.com/ru/news/743912/?utm_campaign=743912&utm_source=habrahabr&utm_medium=rss)
 - [ScanLingua dev blog &lpar;новый билд&rpar;](https://habr.com/ru/news/743870/?utm_campaign=743870&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux 6.4](https://habr.com/ru/news/743854/?utm_campaign=743854&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила бесплатные виртуальные машины Windows 11 с обновлением Moment 3](https://habr.com/ru/news/743834/?utm_campaign=743834&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые пользователи LastPass оказались заблокированы после сброса MFA по просьбе разработчиков](https://habr.com/ru/news/743830/?utm_campaign=743830&utm_source=habrahabr&utm_medium=rss)
-- [SSD-накопители достигли рекордно низкой стоимости на фоне падения мирового спроса на электронику](https://habr.com/ru/companies/dcmiran/news/743824/?utm_campaign=743824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
