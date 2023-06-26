@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представители отрасли ИБ решили всесторонне развивать меры и средства защиты информации ограниченного распространения](https://habr.com/ru/news/743946/?utm_campaign=743946&utm_source=habrahabr&utm_medium=rss)
+- [Вышла рабочая версия клиента ChatGPT для Windows 3.1 с поддержкой TLS 1.3 под названием WinGPT](https://habr.com/ru/news/743942/?utm_campaign=743942&utm_source=habrahabr&utm_medium=rss)
+- [Власти США объявили о выделении $40 млрд на финансирование развития широкополосной связи в стране](https://habr.com/ru/news/743928/?utm_campaign=743928&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE приглашает на бесплатный вебинар по атакам на Linux-инфраструктуры](https://habr.com/ru/news/743922/?utm_campaign=743922&utm_source=habrahabr&utm_medium=rss)
 - [НАСА работает над аналогом ChatGPT для астронавтов](https://habr.com/ru/news/743912/?utm_campaign=743912&utm_source=habrahabr&utm_medium=rss)
-- [ScanLingua dev blog &lpar;новый билд&rpar;](https://habr.com/ru/news/743870/?utm_campaign=743870&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Linux 6.4](https://habr.com/ru/news/743854/?utm_campaign=743854&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила бесплатные виртуальные машины Windows 11 с обновлением Moment 3](https://habr.com/ru/news/743834/?utm_campaign=743834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
