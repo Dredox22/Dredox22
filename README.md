@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Экс-глава отдела проверки приложений App Store Филипп Шумейкер раскритиковал работу магазина и комиссию в 30%](https://habr.com/ru/news/744014/?utm_campaign=744014&utm_source=habrahabr&utm_medium=rss)
 - [В США туристку со сломанной ногой спасли благодаря экстренному вызову с iPhone через спутник](https://habr.com/ru/news/744002/?utm_campaign=744002&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/743990/?utm_campaign=743990&utm_source=habrahabr&utm_medium=rss)
 - [Конкурс ВКР студентов-выпускников из сферы электроэнергетики](https://habr.com/ru/companies/etmc_exponenta/news/743960/?utm_campaign=743960&utm_source=habrahabr&utm_medium=rss)
 - [Представители отрасли ИБ решили всесторонне развивать меры и средства защиты информации ограниченного распространения](https://habr.com/ru/news/743946/?utm_campaign=743946&utm_source=habrahabr&utm_medium=rss)
-- [Вышла рабочая версия клиента ChatGPT для Windows 3.1 с поддержкой TLS 1.3 под названием WinGPT](https://habr.com/ru/news/743942/?utm_campaign=743942&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
