@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Дуров анонсировал появление сториз в Telegram. Опрос — нужна ли вам эта опция](https://habr.com/ru/news/744060/?utm_campaign=744060&utm_source=habrahabr&utm_medium=rss)
+- [Дуров представил сториз в Telegram. Опрос — нужна ли вам эта опция](https://habr.com/ru/news/744060/?utm_campaign=744060&utm_source=habrahabr&utm_medium=rss)
 - [Экс-глава отдела проверки приложений App Store Филипп Шумейкер раскритиковал работу магазина и комиссию в 30%](https://habr.com/ru/news/744014/?utm_campaign=744014&utm_source=habrahabr&utm_medium=rss)
 - [В США туристку со сломанной ногой спасли благодаря экстренному вызову с iPhone через спутник](https://habr.com/ru/news/744002/?utm_campaign=744002&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/743990/?utm_campaign=743990&utm_source=habrahabr&utm_medium=rss)
