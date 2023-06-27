@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: разработчики Flipper Zero в 2022 году продали гаджетов на $25 млн](https://habr.com/ru/news/744234/?utm_campaign=744234&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть составила рейтинг компаний в сфере ИИ в России](https://habr.com/ru/companies/beeline_tech/news/744224/?utm_campaign=744224&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: у российских производителей электроники возник дефицит сотрудников среднего звена на фоне роста их зарплат](https://habr.com/ru/news/744182/?utm_campaign=744182&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud приглашает на бесплатную конференцию по Open Source для работы с данными](https://habr.com/ru/news/744172/?utm_campaign=744172&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft рассматривала покупку Sega, Bungie и IO Interactive](https://habr.com/ru/news/744166/?utm_campaign=744166&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» научил YandexGPT тезисно пересказывать текст и открыл доступ к сервису 300.ya.ru](https://habr.com/ru/news/744160/?utm_campaign=744160&utm_source=habrahabr&utm_medium=rss)
-- [У Google есть секретный браузер, спрятанный в настройках](https://habr.com/ru/companies/cloud4y/news/744120/?utm_campaign=744120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
