@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У Google есть секретный браузер, спрятанный в настройках](https://habr.com/ru/companies/cloud4y/news/744120/?utm_campaign=744120&utm_source=habrahabr&utm_medium=rss)
+- [Ученые обнаружили 69 новых экзопланет с помощью ИИ](https://habr.com/ru/companies/itglobalcom/news/744112/?utm_campaign=744112&utm_source=habrahabr&utm_medium=rss)
 - [Adobe предложит компаниям компенсацию из-за претензий авторов при использовании Firefly](https://habr.com/ru/news/744106/?utm_campaign=744106&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудникам офисов Конгресса США ограничили использование ChatGPT](https://habr.com/ru/news/744100/?utm_campaign=744100&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появился встроенный менеджер паролей для Windows Hello](https://habr.com/ru/news/744096/?utm_campaign=744096&utm_source=habrahabr&utm_medium=rss)
-- [Дуров представил сториз в Telegram. Опрос — нужна ли вам эта опция](https://habr.com/ru/news/744060/?utm_campaign=744060&utm_source=habrahabr&utm_medium=rss)
-- [Экс-глава отдела проверки приложений App Store Филипп Шумейкер раскритиковал работу магазина и комиссию в 30%](https://habr.com/ru/news/744014/?utm_campaign=744014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
