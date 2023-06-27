@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Орбитальный сервер RUVDS доставлен на орбиту](https://habr.com/ru/companies/ruvds/news/744310/?utm_campaign=744310&utm_source=habrahabr&utm_medium=rss)
+- [Мосгорсуд в рамках рассмотрения уголовного дела оставил под стражей основателя Group-IB Илью Сачкова до 14 декабря](https://habr.com/ru/news/744306/?utm_campaign=744306&utm_source=habrahabr&utm_medium=rss)
 - [First Russian Data Forum: Рынок больших данных в России может вырасти на 90% к 2024 году до 319 млрд рублей](https://habr.com/ru/companies/rubda/news/744288/?utm_campaign=744288&utm_source=habrahabr&utm_medium=rss)
 - [На First Russian Data Forum презентовали стратегию развития рынка данных до 2024 года](https://habr.com/ru/companies/rubda/news/744286/?utm_campaign=744286&utm_source=habrahabr&utm_medium=rss)
 - [Google представила обновлённый дизайн логотипа Android](https://habr.com/ru/news/744248/?utm_campaign=744248&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры предложили новый способ управления характеристиками белых светодиодов](https://habr.com/ru/news/744244/?utm_campaign=744244&utm_source=habrahabr&utm_medium=rss)
-- [Meta* запустила подписку для VR-устройств Quest+ за $8 в месяц](https://habr.com/ru/news/744238/?utm_campaign=744238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
