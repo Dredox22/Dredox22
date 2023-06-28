@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России появится первое контрактное производство отечественных марок смартфонов, ноутбуков и планшетов](https://habr.com/ru/news/744430/?utm_campaign=744430&utm_source=habrahabr&utm_medium=rss)
 - [Booking.com запустит планировщика путешествий на базе ChatGPT](https://habr.com/ru/news/744396/?utm_campaign=744396&utm_source=habrahabr&utm_medium=rss)
 - [Slack отключил поддержку русского языка в своём приложении](https://habr.com/ru/news/744392/?utm_campaign=744392&utm_source=habrahabr&utm_medium=rss)
 - [Нил Агарвал опубликовал игру про выбор пароля](https://habr.com/ru/news/744384/?utm_campaign=744384&utm_source=habrahabr&utm_medium=rss)
 - [Калтех представил «морфобота». Он может ходить, ездить и летать](https://habr.com/ru/news/744382/?utm_campaign=744382&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» начал производство Wi-Fi-роутеров «Стрибог»](https://habr.com/ru/news/744386/?utm_campaign=744386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
