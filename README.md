@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У МТС массовый сбой: телефоны не видят сим-карту, не работает интернет и звонки](https://habr.com/ru/news/744572/?utm_campaign=744572&utm_source=habrahabr&utm_medium=rss)
 - [Суд оштрафовал на 70 тыс. рублей «Тинькофф» за нарушение законодательства в области персональных данных](https://habr.com/ru/news/744552/?utm_campaign=744552&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: число маскирующихся под российские маркетплейсы фишинговых сайтов выросло в разы](https://habr.com/ru/news/744548/?utm_campaign=744548&utm_source=habrahabr&utm_medium=rss)
 - [В Таиланде построят фабрику по производству тепловых аккумуляторов](https://habr.com/ru/news/744540/?utm_campaign=744540&utm_source=habrahabr&utm_medium=rss)
 - [Математики нашли десятое дедекиндово число после 32 лет поисков](https://habr.com/ru/news/744514/?utm_campaign=744514&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф» и «Альфа-банк» запустили сервисы для платежей смартфонами на базе Android](https://habr.com/ru/news/744516/?utm_campaign=744516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
