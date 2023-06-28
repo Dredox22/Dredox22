@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд оштрафовал на 70 тыс. рублей «Тинькофф» за нарушение законодательства в области персональных данных](https://habr.com/ru/news/744552/?utm_campaign=744552&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: число маскирующихся под российские маркетплейсы фишинговых сайтов выросло в разы](https://habr.com/ru/news/744548/?utm_campaign=744548&utm_source=habrahabr&utm_medium=rss)
+- [В Таиланде построят фабрику по производству тепловых аккумуляторов](https://habr.com/ru/news/744540/?utm_campaign=744540&utm_source=habrahabr&utm_medium=rss)
 - [Математики нашли десятое дедекиндово число после 32 лет поисков](https://habr.com/ru/news/744514/?utm_campaign=744514&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф» и «Альфа-банк» запустили сервисы для платежей смартфонами на базе Android](https://habr.com/ru/news/744516/?utm_campaign=744516&utm_source=habrahabr&utm_medium=rss)
-- [Apple выступила против британского закона об обязательном сканировании сообщений iMessage](https://habr.com/ru/news/744502/?utm_campaign=744502&utm_source=habrahabr&utm_medium=rss)
-- [Ритейлер «Хороший выбор» успешно завершил пилотирование системы ценообразования](https://habr.com/ru/news/744500/?utm_campaign=744500&utm_source=habrahabr&utm_medium=rss)
-- [Компании «Флант» и «Экспресс 42» объединяются](https://habr.com/ru/companies/flant/news/744484/?utm_campaign=744484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
