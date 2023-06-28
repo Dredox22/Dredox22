@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компании «Флант» и «Экспресс 42» объединяются](https://habr.com/ru/companies/flant/news/744484/?utm_campaign=744484&utm_source=habrahabr&utm_medium=rss)
+- [Что изучить в июле: 11 бесплатных вебинаров и курсов](https://habr.com/ru/companies/netologyru/news/744438/?utm_campaign=744438&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Минцифры ищет исполнителя для масштабирования АРМ для госслужащих в регионах за 907 млн рублей](https://habr.com/ru/news/744448/?utm_campaign=744448&utm_source=habrahabr&utm_medium=rss)
 - [Telegram-бот для распознавания COVID-19 по голосу будет размещен в облаке Serverspace](https://habr.com/ru/companies/serverspace/news/744444/?utm_campaign=744444&utm_source=habrahabr&utm_medium=rss)
 - [В России появится первое контрактное производство отечественных марок смартфонов, ноутбуков и планшетов](https://habr.com/ru/news/744430/?utm_campaign=744430&utm_source=habrahabr&utm_medium=rss)
-- [Booking.com запустит планировщика путешествий на базе ChatGPT](https://habr.com/ru/news/744396/?utm_campaign=744396&utm_source=habrahabr&utm_medium=rss)
-- [Slack отключил поддержку русского языка в своём приложении](https://habr.com/ru/news/744392/?utm_campaign=744392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
