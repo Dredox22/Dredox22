@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Началась регистрация на турнир по программированию среди студентов Codemasters Code Cup](https://habr.com/ru/news/744612/?utm_campaign=744612&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует авторизацию на сайтах по отпечатку пальца или скану лица в Windows 11](https://habr.com/ru/news/744608/?utm_campaign=744608&utm_source=habrahabr&utm_medium=rss)
 - [Госдума приняла законопроект, который позволит удалённо выпускать российские платёжные карты для иностранных туристов](https://habr.com/ru/news/744596/?utm_campaign=744596&utm_source=habrahabr&utm_medium=rss)
 - [Google объявила о сокращениях в подразделении Waze](https://habr.com/ru/news/744590/?utm_campaign=744590&utm_source=habrahabr&utm_medium=rss)
 - [У МТС был массовый сбой, сейчас связь восстановлена](https://habr.com/ru/news/744572/?utm_campaign=744572&utm_source=habrahabr&utm_medium=rss)
-- [Суд оштрафовал на 70 тыс. рублей «Тинькофф» за нарушение законодательства в области персональных данных](https://habr.com/ru/news/744552/?utm_campaign=744552&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: число маскирующихся под российские маркетплейсы фишинговых сайтов выросло в разы](https://habr.com/ru/news/744548/?utm_campaign=744548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
