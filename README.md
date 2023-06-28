@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Калтех представил «морфобота». Он может ходить, ездить и летать](https://habr.com/ru/news/744382/?utm_campaign=744382&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» начал производство Wi-Fi-роутеров «Стрибог»](https://habr.com/ru/news/744386/?utm_campaign=744386&utm_source=habrahabr&utm_medium=rss)
+- [Google закрыла проект очков дополненной реальности Project Iris](https://habr.com/ru/news/744376/?utm_campaign=744376&utm_source=habrahabr&utm_medium=rss)
 - [Ускорители H100 от NVIDIA поставили новые рекорды в ИИ-бенчмарке MLPerf Training v3.0](https://habr.com/ru/companies/dcmiran/news/744370/?utm_campaign=744370&utm_source=habrahabr&utm_medium=rss)
 - [Алисса Розенцвейг начала помогать Valve в качестве подрядчика улучшать графические драйверы для игр в Linux](https://habr.com/ru/news/744362/?utm_campaign=744362&utm_source=habrahabr&utm_medium=rss)
-- [Забастовка сообществ Reddit отразилась на поисковике Google](https://habr.com/ru/news/744320/?utm_campaign=744320&utm_source=habrahabr&utm_medium=rss)
-- [Орбитальный сервер RUVDS доставлен на орбиту](https://habr.com/ru/companies/ruvds/news/744310/?utm_campaign=744310&utm_source=habrahabr&utm_medium=rss)
-- [Мосгорсуд в рамках рассмотрения уголовного дела оставил под стражей основателя Group-IB Илью Сачкова до 14 декабря](https://habr.com/ru/news/744306/?utm_campaign=744306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
