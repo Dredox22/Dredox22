@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Алисса Розенцвейг начала помогать Valve в качестве подрядчика улучшать графические драйверы для игр в Linux](https://habr.com/ru/news/744362/?utm_campaign=744362&utm_source=habrahabr&utm_medium=rss)
 - [Забастовка сообществ Reddit отразилась на поисковике Google](https://habr.com/ru/news/744320/?utm_campaign=744320&utm_source=habrahabr&utm_medium=rss)
 - [Орбитальный сервер RUVDS доставлен на орбиту](https://habr.com/ru/companies/ruvds/news/744310/?utm_campaign=744310&utm_source=habrahabr&utm_medium=rss)
 - [Мосгорсуд в рамках рассмотрения уголовного дела оставил под стражей основателя Group-IB Илью Сачкова до 14 декабря](https://habr.com/ru/news/744306/?utm_campaign=744306&utm_source=habrahabr&utm_medium=rss)
 - [First Russian Data Forum: Рынок больших данных в России может вырасти на 90% к 2024 году до 319 млрд рублей](https://habr.com/ru/companies/rubda/news/744288/?utm_campaign=744288&utm_source=habrahabr&utm_medium=rss)
-- [На First Russian Data Forum презентовали стратегию развития рынка данных до 2024 года](https://habr.com/ru/companies/rubda/news/744286/?utm_campaign=744286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
