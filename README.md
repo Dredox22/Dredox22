@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик нейросети Drag Your GAN опубликовал код проекта на GitHub](https://habr.com/ru/news/744690/?utm_campaign=744690&utm_source=habrahabr&utm_medium=rss)
-- [GitHub выпустил инструмент отслеживания рабочих процессов Actions](https://habr.com/ru/news/744684/?utm_campaign=744684&utm_source=habrahabr&utm_medium=rss)
-- [Мобильное приложение ChatGPT от OpenAI теперь может выполнять поиск в Интернете, но только через Bing](https://habr.com/ru/news/744672/?utm_campaign=744672&utm_source=habrahabr&utm_medium=rss)
-- [1Password разрешила управлять учётными записями в своих приложениях](https://habr.com/ru/news/744666/?utm_campaign=744666&utm_source=habrahabr&utm_medium=rss)
-- [Unity запустила три проекта, связанных с искусственным интеллектом](https://habr.com/ru/news/744662/?utm_campaign=744662&utm_source=habrahabr&utm_medium=rss)
+- [«Веб-Сервер» представила ANIC — ПО для управления трафиком в сети Kubernetes](https://habr.com/ru/news/744654/?utm_campaign=744654&utm_source=habrahabr&utm_medium=rss)
+- [Российский планшет Kvadra-T поступит в розничную продажу осенью 2023 года](https://habr.com/ru/news/744722/?utm_campaign=744722&utm_source=habrahabr&utm_medium=rss)
+- [Google добавила в Android TV вкладку для проката и покупки фильмов](https://habr.com/ru/news/744716/?utm_campaign=744716&utm_source=habrahabr&utm_medium=rss)
+- [Amazon планирует потратить $7,8 млрд на строительство ЦОД в штате Огайо](https://habr.com/ru/companies/dcmiran/news/744708/?utm_campaign=744708&utm_source=habrahabr&utm_medium=rss)
+- [Вышел отчет CNCF о развитии Kubernetes: популярность, контрибьюторы и документальный фильм](https://habr.com/ru/companies/flant/news/744706/?utm_campaign=744706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
