@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Американские военные организовали конкурс Hack-A-Sat 4 по взлому спутника, находящегося на орбите](https://habr.com/ru/news/744832/?utm_campaign=744832&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик клиента для чтения Reddit Apollo попросил пользователей не возвращать деньги за подписку](https://habr.com/ru/news/744812/?utm_campaign=744812&utm_source=habrahabr&utm_medium=rss)
 - [Stardew Valley появится в подписке Apple Arcade](https://habr.com/ru/news/744806/?utm_campaign=744806&utm_source=habrahabr&utm_medium=rss)
 - [Ведомство по патентам и товарным знакам США &lpar;USPTO&rpar; уведомило 61 тыс. заявителей об утечке их персональных данных](https://habr.com/ru/news/744780/?utm_campaign=744780&utm_source=habrahabr&utm_medium=rss)
 - [Sony случайно раскрыла конфиденциальные сведения о статистике по PlayStation в суде FTC против Microsoft](https://habr.com/ru/news/744782/?utm_campaign=744782&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предлагает бесплатные обучающие курсы для получения навыков работы с генеративным ИИ](https://habr.com/ru/news/744768/?utm_campaign=744768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
