@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Blender 3.6](https://habr.com/ru/news/744924/?utm_campaign=744924&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft увеличила объём бесплатного трафика в VPN-сервисе Edge Secure Network с 1 ГБ до 5 ГБ](https://habr.com/ru/news/744922/?utm_campaign=744922&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия программы Max Patrol VM 2.0](https://habr.com/ru/news/744920/?utm_campaign=744920&utm_source=habrahabr&utm_medium=rss)
 - [«‎Антифишинг» выпустила решение для безопасной разработки Start REQ](https://habr.com/ru/news/744912/?utm_campaign=744912&utm_source=habrahabr&utm_medium=rss)
 - [В Asus ROG Ally можно установить SSD на 4 ТБ, если подпилить пластиковые крепления](https://habr.com/ru/news/744904/?utm_campaign=744904&utm_source=habrahabr&utm_medium=rss)
-- [В Bing появились рекомендации по покупкам, созданные ИИ](https://habr.com/ru/news/744900/?utm_campaign=744900&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на RSHB Backend Dev Meetup — бесплатный митап для Java-разработчиков](https://habr.com/ru/companies/rshb/news/744884/?utm_campaign=744884&utm_source=habrahabr&utm_medium=rss)
-- [Valve стала проверять новые игры в Steam на наличие сгенерированного ИИ контента без авторских прав на обучающие базы](https://habr.com/ru/news/744848/?utm_campaign=744848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
