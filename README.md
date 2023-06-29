@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ГК «Астра» начала использовать в анализе  кода ПО Solar appScreener](https://habr.com/ru/news/744932/?utm_campaign=744932&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Астра» начала использовать в анализе кода ПО Solar appScreener](https://habr.com/ru/news/744932/?utm_campaign=744932&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Blender 3.6](https://habr.com/ru/news/744924/?utm_campaign=744924&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft увеличила объём бесплатного трафика в VPN-сервисе Edge Secure Network с 1 ГБ до 5 ГБ](https://habr.com/ru/news/744922/?utm_campaign=744922&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия программы Max Patrol VM 2.0](https://habr.com/ru/news/744920/?utm_campaign=744920&utm_source=habrahabr&utm_medium=rss)
