@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve стала проверять новые игры в Steam на наличие сгенерированного ИИ контента без авторских прав на обучающие базы](https://habr.com/ru/news/744848/?utm_campaign=744848&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила проблему, из-за которой Outlook и другие приложения Office не открываются в Windows 10 и 11](https://habr.com/ru/news/744842/?utm_campaign=744842&utm_source=habrahabr&utm_medium=rss)
+- [Ждем администраторов и геймеров на Linux-митапе 6 июля](https://habr.com/ru/companies/selectel/news/744820/?utm_campaign=744820&utm_source=habrahabr&utm_medium=rss)
 - [Американские военные организовали конкурс Hack-A-Sat 4 по взлому спутника, находящегося на орбите](https://habr.com/ru/news/744832/?utm_campaign=744832&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик клиента для чтения Reddit Apollo попросил пользователей не возвращать деньги за подписку](https://habr.com/ru/news/744812/?utm_campaign=744812&utm_source=habrahabr&utm_medium=rss)
-- [Stardew Valley появится в подписке Apple Arcade](https://habr.com/ru/news/744806/?utm_campaign=744806&utm_source=habrahabr&utm_medium=rss)
-- [Ведомство по патентам и товарным знакам США &lpar;USPTO&rpar; уведомило 61 тыс. заявителей об утечке их персональных данных](https://habr.com/ru/news/744780/?utm_campaign=744780&utm_source=habrahabr&utm_medium=rss)
-- [Sony случайно раскрыла конфиденциальные сведения о статистике по PlayStation в суде FTC против Microsoft](https://habr.com/ru/news/744782/?utm_campaign=744782&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик клиента для чтения Reddit Apollo предложил пользователям не возвращать деньги за подписку](https://habr.com/ru/news/744812/?utm_campaign=744812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
