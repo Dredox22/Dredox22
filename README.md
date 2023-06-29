@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик нейросети Drag Your GAN опубликовал код проекта на GitHub](https://habr.com/ru/news/744690/?utm_campaign=744690&utm_source=habrahabr&utm_medium=rss)
+- [GitHub выпустил инструмент отслеживания рабочих процессов Actions](https://habr.com/ru/news/744684/?utm_campaign=744684&utm_source=habrahabr&utm_medium=rss)
+- [Мобильное приложение ChatGPT от OpenAI теперь может выполнять поиск в Интернете, но только через Bing](https://habr.com/ru/news/744672/?utm_campaign=744672&utm_source=habrahabr&utm_medium=rss)
+- [1Password разрешила управлять учётными записями в своих приложениях](https://habr.com/ru/news/744666/?utm_campaign=744666&utm_source=habrahabr&utm_medium=rss)
 - [Unity запустила три проекта, связанных с искусственным интеллектом](https://habr.com/ru/news/744662/?utm_campaign=744662&utm_source=habrahabr&utm_medium=rss)
-- [В Казахстане задержали главу одного из департаментов F.A.C.C.T.  и бывшего главреда «Хакера» Никиту Кислицина](https://habr.com/ru/news/744642/?utm_campaign=744642&utm_source=habrahabr&utm_medium=rss)
-- [Proton выпустила стабильную версию менеджера паролей Proton Pass](https://habr.com/ru/news/744632/?utm_campaign=744632&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты Positive Technologies нашли 6 уязвимостей в межсетевых экранах и точках доступа Zyxel](https://habr.com/ru/news/744620/?utm_campaign=744620&utm_source=habrahabr&utm_medium=rss)
-- [Началась регистрация на турнир по программированию среди студентов Codemasters Code Cup](https://habr.com/ru/news/744612/?utm_campaign=744612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
