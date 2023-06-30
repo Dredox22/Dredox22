@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сервис Qiwi вернул возможность пополнения счёта в Steam рублями](https://habr.com/ru/news/745160/?utm_campaign=745160&utm_source=habrahabr&utm_medium=rss)
+- [low-code и no-code: мнение изнутри](https://habr.com/ru/news/745158/?utm_campaign=745158&utm_source=habrahabr&utm_medium=rss)
 - [Call of Duty использует клонов реальных игроков, чтобы бороться с читерами](https://habr.com/ru/news/745136/?utm_campaign=745136&utm_source=habrahabr&utm_medium=rss)
 - [Учёные объяснили математически «правило шести рукопожатий»](https://habr.com/ru/news/745122/?utm_campaign=745122&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT для Vision Pro](https://habr.com/ru/news/745104/?utm_campaign=745104&utm_source=habrahabr&utm_medium=rss)
-- [Разбираемся в основах Kubernetes: 12 полезных материалов для тех, кто только начинает работать с кластерами](https://habr.com/ru/companies/selectel/news/745068/?utm_campaign=745068&utm_source=habrahabr&utm_medium=rss)
-- [В Совфеде предложили создать «ОСАГО для IT» — страховку на случаи кибератак и утечек данных](https://habr.com/ru/news/745078/?utm_campaign=745078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
