@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CommuniGate Systems выпустила новую версию ПО CommuniGate X](https://habr.com/ru/news/745222/?utm_campaign=745222&utm_source=habrahabr&utm_medium=rss)
+- [«Роскосмос» вывел на орбиту кластер кубсатов «УниверСат-2023»](https://habr.com/ru/news/745218/?utm_campaign=745218&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Яндекс» и «Ланит» хотят продать доли в совместном предприятии по производству серверов OpenYard](https://habr.com/ru/news/745208/?utm_campaign=745208&utm_source=habrahabr&utm_medium=rss)
 - [MITRE опубликовала новый ежегодный список 25 самых опасных программных ошибок и уязвимостей 2023 CWE Top 25 Key Insights](https://habr.com/ru/news/745204/?utm_campaign=745204&utm_source=habrahabr&utm_medium=rss)
 - [Совет Федерации хочет создать межотраслевой центр обеспечения кибербезопасности КИИ для различных отраслей](https://habr.com/ru/news/745190/?utm_campaign=745190&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Angry Email Translator позволяет перевести гневное сообщение в вежливое деловое письмо](https://habr.com/ru/news/745188/?utm_campaign=745188&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Qiwi вернул возможность пополнения счёта в Steam рублями](https://habr.com/ru/news/745160/?utm_campaign=745160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
