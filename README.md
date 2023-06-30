@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT для Vision Pro](https://habr.com/ru/news/745104/?utm_campaign=745104&utm_source=habrahabr&utm_medium=rss)
+- [Разбираемся в основах Kubernetes: 12 полезных материалов для тех, кто только начинает работать с кластерами](https://habr.com/ru/companies/selectel/news/745068/?utm_campaign=745068&utm_source=habrahabr&utm_medium=rss)
+- [В Совфеде предложили создать «ОСАГО для IT» — страховку на случаи кибератак и утечек данных](https://habr.com/ru/news/745078/?utm_campaign=745078&utm_source=habrahabr&utm_medium=rss)
 - [«Фото» в iOS 17 умеет распознавать значки по уходу за одеждой на изображениях](https://habr.com/ru/news/745066/?utm_campaign=745066&utm_source=habrahabr&utm_medium=rss)
 - [Niantic объявила о закрытии студии в Лос-Анджелесе и сокращении 230 сотрудников](https://habr.com/ru/news/745020/?utm_campaign=745020&utm_source=habrahabr&utm_medium=rss)
-- [Цифровая трансформация в эпоху неопределенности: тренды 2022 и прогнозы на 2023](https://habr.com/ru/companies/comindware/news/745018/?utm_campaign=745018&utm_source=habrahabr&utm_medium=rss)
-- [Intel приостановила поставку Xeon Sapphire Rapids MCC из-за бага в прошивке](https://habr.com/ru/news/744988/?utm_campaign=744988&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Астра» начала использовать в анализе кода ПО Solar appScreener](https://habr.com/ru/news/744932/?utm_campaign=744932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
