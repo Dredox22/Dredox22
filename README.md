@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Niantic объявила о закрытии студии в Лос-Анджелесе и сокращении 230 сотрудников](https://habr.com/ru/news/745020/?utm_campaign=745020&utm_source=habrahabr&utm_medium=rss)
 - [Цифровая трансформация в эпоху неопределенности: тренды 2022 и прогнозы на 2023](https://habr.com/ru/companies/comindware/news/745018/?utm_campaign=745018&utm_source=habrahabr&utm_medium=rss)
 - [Intel приостановила поставку Xeon Sapphire Rapids MCC из-за бага в прошивке](https://habr.com/ru/news/744988/?utm_campaign=744988&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Астра» начала использовать в анализе кода ПО Solar appScreener](https://habr.com/ru/news/744932/?utm_campaign=744932&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Blender 3.6](https://habr.com/ru/news/744924/?utm_campaign=744924&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft увеличила объём бесплатного трафика в VPN-сервисе Edge Secure Network с 1 ГБ до 5 ГБ](https://habr.com/ru/news/744922/?utm_campaign=744922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
