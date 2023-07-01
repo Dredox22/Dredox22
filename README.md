@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Индженьюити» выполнил полёт №52 на 363 метра, НАСА подтвердило его успех спустя 63 дня после восстановления радиосвязи](https://habr.com/ru/news/745252/?utm_campaign=745252&utm_source=habrahabr&utm_medium=rss)
 - [Поставщик TSMC стал жертвой хакеров, они требуют выкупа в $70 млн](https://habr.com/ru/news/745242/?utm_campaign=745242&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные разработали новую антенну для стандарта связи 5G](https://habr.com/ru/news/745228/?utm_campaign=745228&utm_source=habrahabr&utm_medium=rss)
 - [CommuniGate Systems выпустила новую версию ПО CommuniGate X](https://habr.com/ru/news/745222/?utm_campaign=745222&utm_source=habrahabr&utm_medium=rss)
 - [«Роскосмос» вывел на орбиту кластер кубсатов «УниверСат-2023»](https://habr.com/ru/news/745218/?utm_campaign=745218&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Яндекс» и «Ланит» хотят продать доли в совместном предприятии по производству серверов OpenYard](https://habr.com/ru/news/745208/?utm_campaign=745208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
