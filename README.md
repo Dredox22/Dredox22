@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 10/11 вернули помощника-скрепку Clippy, работающего на базе GPT](https://habr.com/ru/news/745366/?utm_campaign=745366&utm_source=habrahabr&utm_medium=rss)
 - [Инди-разработчики рассказали о фальшивой полоске загрузки в играх](https://habr.com/ru/news/745322/?utm_campaign=745322&utm_source=habrahabr&utm_medium=rss)
 - [Китайские исследователи создали процессор за пять часов с помощью ИИ](https://habr.com/ru/news/745320/?utm_campaign=745320&utm_source=habrahabr&utm_medium=rss)
 - [Исследование GitHub: производительность труда разработчиков за счёт ИИ может увеличить мировой ВВП на $1,5 трлн](https://habr.com/ru/news/745260/?utm_campaign=745260&utm_source=habrahabr&utm_medium=rss)
 - [«Индженьюити» выполнил полёт №52 на 363 метра, НАСА подтвердило его успех спустя 63 дня после восстановления радиосвязи](https://habr.com/ru/news/745252/?utm_campaign=745252&utm_source=habrahabr&utm_medium=rss)
-- [Поставщик TSMC стал жертвой хакеров, они требуют выкупа в $70 млн](https://habr.com/ru/news/745242/?utm_campaign=745242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
