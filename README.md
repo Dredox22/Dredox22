@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Purism представила Liberty Phone — обновление смартфона Librem 5, созданного на базе свободного ПО](https://habr.com/ru/news/745388/?utm_campaign=745388&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили помощника-скрепку Clippy для Windows 10/11, работающего на базе GPT](https://habr.com/ru/news/745366/?utm_campaign=745366&utm_source=habrahabr&utm_medium=rss)
 - [Инди-разработчики рассказали о фальшивой полоске загрузки в играх](https://habr.com/ru/news/745322/?utm_campaign=745322&utm_source=habrahabr&utm_medium=rss)
 - [Китайские исследователи создали процессор за пять часов с помощью ИИ](https://habr.com/ru/news/745320/?utm_campaign=745320&utm_source=habrahabr&utm_medium=rss)
 - [Исследование GitHub: производительность труда разработчиков за счёт ИИ может увеличить мировой ВВП на $1,5 трлн](https://habr.com/ru/news/745260/?utm_campaign=745260&utm_source=habrahabr&utm_medium=rss)
-- [«Индженьюити» выполнил полёт №52 на 363 метра, НАСА подтвердило его успех спустя 63 дня после восстановления радиосвязи](https://habr.com/ru/news/745252/?utm_campaign=745252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
