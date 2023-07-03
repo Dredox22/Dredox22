@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел GitHub Enterprise Server 3.9](https://habr.com/ru/news/745430/?utm_campaign=745430&utm_source=habrahabr&utm_medium=rss)
 - [GitLab представила собственного ИИ-помощника для разработчиков](https://habr.com/ru/news/745418/?utm_campaign=745418&utm_source=habrahabr&utm_medium=rss)
 - [Gfycat закрывается 1 сентября](https://habr.com/ru/news/745414/?utm_campaign=745414&utm_source=habrahabr&utm_medium=rss)
 - [Робот-андроид EveR-6 дирижировал корейским оркестром на фестивале музыки](https://habr.com/ru/news/745396/?utm_campaign=745396&utm_source=habrahabr&utm_medium=rss)
 - [Purism представила Liberty Phone — обновление смартфона Librem 5, созданного на базе свободного ПО](https://habr.com/ru/news/745388/?utm_campaign=745388&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили помощника-скрепку Clippy для Windows 10/11, работающего на базе GPT](https://habr.com/ru/news/745366/?utm_campaign=745366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
