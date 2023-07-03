@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinkoff Pay подключили к оплате покупок по QR-кодам «Сбера»](https://habr.com/ru/news/745558/?utm_campaign=745558&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия платформы управления доступом Solar inRights 3.2](https://habr.com/ru/news/745546/?utm_campaign=745546&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Edge Canary добавили флаг для активации жестов мыши](https://habr.com/ru/news/745524/?utm_campaign=745524&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик опубликовал драйвер для управления яркостью Apple Studio Display на Linux](https://habr.com/ru/news/745504/?utm_campaign=745504&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность больших языковых моделей с открытым исходным кодом находится под вопросом](https://habr.com/ru/companies/dcmiran/news/745492/?utm_campaign=745492&utm_source=habrahabr&utm_medium=rss)
-- [Пользователям удалось собрать и запустить утёкший код первой Far Cry](https://habr.com/ru/news/745486/?utm_campaign=745486&utm_source=habrahabr&utm_medium=rss)
-- [Apple планировала управлять Vision Pro с помощью умных колец на пальцах](https://habr.com/ru/news/745460/?utm_campaign=745460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
