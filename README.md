@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователям удалось собрать и запустить утёкший код первой Far Cry](https://habr.com/ru/news/745486/?utm_campaign=745486&utm_source=habrahabr&utm_medium=rss)
 - [Apple планировала управлять Vision Pro с помощью умных колец на пальцах](https://habr.com/ru/news/745460/?utm_campaign=745460&utm_source=habrahabr&utm_medium=rss)
 - [В России из-за санкций выросла стоимость разработки систем ИИ](https://habr.com/ru/news/745452/?utm_campaign=745452&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на открытую трансляцию финала ежегодного конкурса «IT Школа выбирает сильнейших — 2023!»](https://habr.com/ru/companies/samsung/news/745450/?utm_campaign=745450&utm_source=habrahabr&utm_medium=rss)
 - [Вышел GitHub Enterprise Server 3.9](https://habr.com/ru/news/745430/?utm_campaign=745430&utm_source=habrahabr&utm_medium=rss)
-- [GitLab представила собственного ИИ-помощника для разработчиков](https://habr.com/ru/news/745418/?utm_campaign=745418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
