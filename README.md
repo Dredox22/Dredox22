@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс Практикум запустил буткемп «Python-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/744828/?utm_campaign=744828&utm_source=habrahabr&utm_medium=rss)
 - [Huawei запустит коммерческое сетевое оборудование 5.5G в 2024 году](https://habr.com/ru/news/745706/?utm_campaign=745706&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила сборку Microsoft Validation OS с облегчённым дистрибутивом Windows 11](https://habr.com/ru/news/745698/?utm_campaign=745698&utm_source=habrahabr&utm_medium=rss)
 - [Твиты почти перестали отображаться в результатах Google из-за изменений в правилах Twitter](https://habr.com/ru/news/745694/?utm_campaign=745694&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент Snappy помогает обнаруживать поддельные или мошеннические точки доступа Wi-Fi](https://habr.com/ru/news/745652/?utm_campaign=745652&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на SPB Frontend Митап #34](https://habr.com/ru/companies/X5Tech/news/745626/?utm_campaign=745626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
