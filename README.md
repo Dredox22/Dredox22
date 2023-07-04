@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия платформы Tantor 2.1](https://habr.com/ru/news/745856/?utm_campaign=745856&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/745844/?utm_campaign=745844&utm_source=habrahabr&utm_medium=rss)
 - [Сеть “Да!” с помощью AI увеличила скорость найма работников](https://habr.com/ru/companies/smartengines/news/745826/?utm_campaign=745826&utm_source=habrahabr&utm_medium=rss)
 - [«РТК-Солар» представила шлюз веб-безопасности Solar webProxy 3.9](https://habr.com/ru/news/745816/?utm_campaign=745816&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия анализатора поведенческого трафика PT Network Attack Discovery 11.1](https://habr.com/ru/news/745802/?utm_campaign=745802&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики эмулятора PS3 RPCS3 объявили о начале работы над эмулятором PS4 — RPCSX](https://habr.com/ru/news/745800/?utm_campaign=745800&utm_source=habrahabr&utm_medium=rss)
-- [«Криптонит» проверил надежность криптографической защиты федеральной системы ДЭГ](https://habr.com/ru/companies/kryptonite/news/745602/?utm_campaign=745602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
