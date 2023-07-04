@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Базальт СПО» и Альянс RISC-V стали партнёрами](https://habr.com/ru/news/745906/?utm_campaign=745906&utm_source=habrahabr&utm_medium=rss)
 - [В Швеции местную Tele2 оштрафовали на $1,1 млн за использование Google Analytics](https://habr.com/ru/news/745890/?utm_campaign=745890&utm_source=habrahabr&utm_medium=rss)
 - [Готовим HLD с помощью DDD. Как и зачем?](https://habr.com/ru/companies/southbridge/news/745870/?utm_campaign=745870&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия платформы Tantor 2.1](https://habr.com/ru/news/745856/?utm_campaign=745856&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/745844/?utm_campaign=745844&utm_source=habrahabr&utm_medium=rss)
-- [Сеть “Да!” с помощью AI увеличила скорость найма работников](https://habr.com/ru/companies/smartengines/news/745826/?utm_campaign=745826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
