@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Криптонит» проверил надежность криптографической защиты федеральной системы ДЭГ](https://habr.com/ru/companies/kryptonite/news/745602/?utm_campaign=745602&utm_source=habrahabr&utm_medium=rss)
+- [«2ГИС» представил иммерсивные 3D-карты с детально прорисованными зданиями и деревьями](https://habr.com/ru/news/745750/?utm_campaign=745750&utm_source=habrahabr&utm_medium=rss)
+- [Вышел релиз libjpeg-turbo 3.0.0](https://habr.com/ru/news/745712/?utm_campaign=745712&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил буткемп «Python-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/744828/?utm_campaign=744828&utm_source=habrahabr&utm_medium=rss)
 - [Huawei запустит коммерческое сетевое оборудование 5.5G в 2024 году](https://habr.com/ru/news/745706/?utm_campaign=745706&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила сборку Microsoft Validation OS с облегчённым дистрибутивом Windows 11](https://habr.com/ru/news/745698/?utm_campaign=745698&utm_source=habrahabr&utm_medium=rss)
-- [Твиты почти перестали отображаться в результатах Google из-за изменений в правилах Twitter](https://habr.com/ru/news/745694/?utm_campaign=745694&utm_source=habrahabr&utm_medium=rss)
-- [Инструмент Snappy помогает обнаруживать поддельные или мошеннические точки доступа Wi-Fi](https://habr.com/ru/news/745652/?utm_campaign=745652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
