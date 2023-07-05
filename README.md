@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: сотрудникам Минпромторга с 17 июля запретят использовать iPhone в служебной деятельности](https://habr.com/ru/news/745964/?utm_campaign=745964&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Perl 5.38](https://habr.com/ru/news/745934/?utm_campaign=745934&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» и Альянс RISC-V стали партнёрами](https://habr.com/ru/news/745906/?utm_campaign=745906&utm_source=habrahabr&utm_medium=rss)
 - [В Швеции местную Tele2 оштрафовали на $1,1 млн за использование Google Analytics](https://habr.com/ru/news/745890/?utm_campaign=745890&utm_source=habrahabr&utm_medium=rss)
 - [Готовим HLD с помощью DDD. Как и зачем?](https://habr.com/ru/companies/southbridge/news/745870/?utm_campaign=745870&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия платформы Tantor 2.1](https://habr.com/ru/news/745856/?utm_campaign=745856&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
