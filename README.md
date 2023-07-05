@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google задействует весь интернет-контент для обучения ИИ](https://habr.com/ru/news/746016/?utm_campaign=746016&utm_source=habrahabr&utm_medium=rss)
 - [Стали и зрелищ…](https://habr.com/ru/companies/mkb/news/745794/?utm_campaign=745794&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-сервис Vectorizer для векторных картинок стал общедоступным](https://habr.com/ru/news/745980/?utm_campaign=745980&utm_source=habrahabr&utm_medium=rss)
 - [Twitter объяснил ограничение на просмотр твитов борьбой с ботами и злоумышленниками](https://habr.com/ru/news/745976/?utm_campaign=745976&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 115](https://habr.com/ru/news/745972/?utm_campaign=745972&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: сотрудникам Минпромторга с 17 июля запретят использовать iPhone в служебной деятельности](https://habr.com/ru/news/745964/?utm_campaign=745964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
