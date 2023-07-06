@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI сформировала команду для управления и контроля «сверхразумных» ИИ](https://habr.com/ru/news/746244/?utm_campaign=746244&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Браузер» добавили нейросеть YandexGPT для пересказа статей](https://habr.com/ru/news/746260/?utm_campaign=746260&utm_source=habrahabr&utm_medium=rss)
+- [Cloud4Y приглашает на вебинар «Работа с персональными данными в 2023»](https://habr.com/ru/companies/cloud4y/news/746248/?utm_campaign=746248&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI сформировала команду для управления «сверхразумными» ИИ и контроля над ними](https://habr.com/ru/news/746244/?utm_campaign=746244&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики UI-фреймворка Nova воссоздали интерфейс visionOS для Quest Pro](https://habr.com/ru/news/746228/?utm_campaign=746228&utm_source=habrahabr&utm_medium=rss)
 - [Как перенести PostgreSQL с выделенного сервера в облако](https://habr.com/ru/companies/selectel/news/746092/?utm_campaign=746092&utm_source=habrahabr&utm_medium=rss)
-- [Вышел SP Page Builder 5.0 от JoomShaper](https://habr.com/ru/news/746214/?utm_campaign=746214&utm_source=habrahabr&utm_medium=rss)
-- [Tesla нанимает водителей для испытаний автопилота за $20 в час](https://habr.com/ru/news/746210/?utm_campaign=746210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
