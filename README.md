@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI сформировала команду для управления и контроля «сверхразумных» ИИ](https://habr.com/ru/news/746244/?utm_campaign=746244&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики UI-фреймворка Nova воссоздали интерфейс visionOS для Quest Pro](https://habr.com/ru/news/746228/?utm_campaign=746228&utm_source=habrahabr&utm_medium=rss)
 - [Как перенести PostgreSQL с выделенного сервера в облако](https://habr.com/ru/companies/selectel/news/746092/?utm_campaign=746092&utm_source=habrahabr&utm_medium=rss)
 - [Вышел SP Page Builder 5.0 от JoomShaper](https://habr.com/ru/news/746214/?utm_campaign=746214&utm_source=habrahabr&utm_medium=rss)
 - [Tesla нанимает водителей для испытаний автопилота за $20 в час](https://habr.com/ru/news/746210/?utm_campaign=746210&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила обновление Game Porting Tool с улучшением производительности игр](https://habr.com/ru/news/746206/?utm_campaign=746206&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI отключила ChatGPT Plus доступ в интернет из-за раскрытия платного контента](https://habr.com/ru/news/746202/?utm_campaign=746202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
