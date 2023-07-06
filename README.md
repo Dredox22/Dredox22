@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads просит доступ к пользовательской информации о финансах, здоровье, контактах, покупках и местоположении](https://habr.com/ru/news/746278/?utm_campaign=746278&utm_source=habrahabr&utm_medium=rss)
-- [Вышла первая китайская операционная система для настольных ПК с открытым исходным кодом OpenKylin 1.0 на базе Linux](https://habr.com/ru/news/746270/?utm_campaign=746270&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Браузер» добавили нейросеть YandexGPT для пересказа статей](https://habr.com/ru/news/746260/?utm_campaign=746260&utm_source=habrahabr&utm_medium=rss)
-- [Cloud4Y приглашает на вебинар «Работа с персональными данными в 2023»](https://habr.com/ru/companies/cloud4y/news/746248/?utm_campaign=746248&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Stability AI: через пять лет программистов заменит ИИ](https://habr.com/ru/news/746242/?utm_campaign=746242&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 10 и 11 нашли скрытую опцию по активации звука при создании скриншота](https://habr.com/ru/news/746330/?utm_campaign=746330&utm_source=habrahabr&utm_medium=rss)
+- [A?.Frontend #4: тренировочные собеседования, useSelector’ы, внутрянка образовательных программ](https://habr.com/ru/companies/alfa/news/746318/?utm_campaign=746318&utm_source=habrahabr&utm_medium=rss)
+- [Сайт и приложение РЖД второй день «испытывают множественные атаки»](https://habr.com/ru/news/746316/?utm_campaign=746316&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies приняли в Азиатскую ассоциацию исследователей антивирусных технологий](https://habr.com/ru/news/746314/?utm_campaign=746314&utm_source=habrahabr&utm_medium=rss)
+- [ЦК уполномочен заявить: компания F.A.С.С.T. создала Центр кибербезопасности](https://habr.com/ru/companies/f_a_c_c_t/news/746306/?utm_campaign=746306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
