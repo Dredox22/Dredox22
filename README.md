@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России выпустили линейку FRONT Control PLC-контроллеров для сбора и обработки данных с открытой ОС &lpar;Bare metal PLC&rpar;](https://habr.com/ru/news/746170/?utm_campaign=746170&utm_source=habrahabr&utm_medium=rss)
 - [Найден новый способ генерации квантовой запутанности электронов](https://habr.com/ru/news/746184/?utm_campaign=746184&utm_source=habrahabr&utm_medium=rss)
 - [75% игр в Steam работает на Linux](https://habr.com/ru/news/746168/?utm_campaign=746168&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: РКН, ГРЧЦ, операторы связи в ночь с 4 на 5 июля «выключали международный интернет»](https://habr.com/ru/news/746120/?utm_campaign=746120&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил инструмент, решающий проблему «путаницы манифестов» в NPM](https://habr.com/ru/news/746082/?utm_campaign=746082&utm_source=habrahabr&utm_medium=rss)
-- [В России объявили тендеры на разработку технологий, необходимых для выпуска микросхем с топологией 250-65 нм](https://habr.com/ru/news/746072/?utm_campaign=746072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
