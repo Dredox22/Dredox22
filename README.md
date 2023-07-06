@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перенести PostgreSQL с выделенного сервера в облако](https://habr.com/ru/companies/selectel/news/746092/?utm_campaign=746092&utm_source=habrahabr&utm_medium=rss)
+- [Вышел SP Page Builder 5.0 от JoomShaper](https://habr.com/ru/news/746214/?utm_campaign=746214&utm_source=habrahabr&utm_medium=rss)
+- [Tesla нанимает водителей для испытаний автопилота за $20 в час](https://habr.com/ru/news/746210/?utm_campaign=746210&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила обновление Game Porting Tool с улучшением производительности игр](https://habr.com/ru/news/746206/?utm_campaign=746206&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI отключила ChatGPT Plus доступ в интернет из-за раскрытия платного контента](https://habr.com/ru/news/746202/?utm_campaign=746202&utm_source=habrahabr&utm_medium=rss)
-- [В России выпустили линейку FRONT Control PLC-контроллеров для сбора и обработки данных с открытой ОС &lpar;Bare metal PLC&rpar;](https://habr.com/ru/news/746170/?utm_campaign=746170&utm_source=habrahabr&utm_medium=rss)
-- [Найден новый способ генерации квантовой запутанности электронов](https://habr.com/ru/news/746184/?utm_campaign=746184&utm_source=habrahabr&utm_medium=rss)
-- [75% игр в Steam работает на Linux](https://habr.com/ru/news/746168/?utm_campaign=746168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
