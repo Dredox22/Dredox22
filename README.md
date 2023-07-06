@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains представила Kotlin Notebook](https://habr.com/ru/news/746448/?utm_campaign=746448&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Windows 12 выйдет осенью 2024 года](https://habr.com/ru/news/746384/?utm_campaign=746384&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные разработали 70-килограммовый спутниковый терминал для доступа в интернет](https://habr.com/ru/news/746342/?utm_campaign=746342&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 10 и 11 нашли скрытую опцию по активации звука при создании скриншота](https://habr.com/ru/news/746330/?utm_campaign=746330&utm_source=habrahabr&utm_medium=rss)
 - [A?.Frontend #4: тренировочные собеседования, useSelector’ы, внутрянка образовательных программ](https://habr.com/ru/companies/alfa/news/746318/?utm_campaign=746318&utm_source=habrahabr&utm_medium=rss)
-- [Сайт и приложение РЖД второй день «испытывают множественные атаки»](https://habr.com/ru/news/746316/?utm_campaign=746316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
