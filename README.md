@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads просит доступ к пользовательской информации о финансах, здоровье, контактах, покупках и местоположении](https://habr.com/ru/news/746278/?utm_campaign=746278&utm_source=habrahabr&utm_medium=rss)
+- [Вышла первая китайская операционная система для настольных ПК с открытым исходным кодом OpenKylin 1.0 на базе Linux](https://habr.com/ru/news/746270/?utm_campaign=746270&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Браузер» добавили нейросеть YandexGPT для пересказа статей](https://habr.com/ru/news/746260/?utm_campaign=746260&utm_source=habrahabr&utm_medium=rss)
 - [Cloud4Y приглашает на вебинар «Работа с персональными данными в 2023»](https://habr.com/ru/companies/cloud4y/news/746248/?utm_campaign=746248&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сформировала команду для управления «сверхразумными» ИИ и контроля над ними](https://habr.com/ru/news/746244/?utm_campaign=746244&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики UI-фреймворка Nova воссоздали интерфейс visionOS для Quest Pro](https://habr.com/ru/news/746228/?utm_campaign=746228&utm_source=habrahabr&utm_medium=rss)
-- [Как перенести PostgreSQL с выделенного сервера в облако](https://habr.com/ru/companies/selectel/news/746092/?utm_campaign=746092&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор Stability AI: через пять лет программистов заменит ИИ](https://habr.com/ru/news/746242/?utm_campaign=746242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
