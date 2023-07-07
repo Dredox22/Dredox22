@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выложил в открытый доступ код на Basic симулятора квантового компьютера для Commodore 64](https://habr.com/ru/news/746470/?utm_campaign=746470&utm_source=habrahabr&utm_medium=rss)
+- [Adobe запретила сотрудникам делиться корпоративными и личными данными при работе с чат-ботами на базе ИИ](https://habr.com/ru/news/746464/?utm_campaign=746464&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатные способы извлечения таблиц из PDF в C#](https://habr.com/ru/news/746456/?utm_campaign=746456&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains представила Kotlin Notebook](https://habr.com/ru/news/746448/?utm_campaign=746448&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Windows 12 выйдет осенью 2024 года](https://habr.com/ru/news/746384/?utm_campaign=746384&utm_source=habrahabr&utm_medium=rss)
-- [Российские учёные разработали 70-килограммовый спутниковый терминал для доступа в интернет](https://habr.com/ru/news/746342/?utm_campaign=746342&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 10 и 11 нашли скрытую опцию по активации звука при создании скриншота](https://habr.com/ru/news/746330/?utm_campaign=746330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
