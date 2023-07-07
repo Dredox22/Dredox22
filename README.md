@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Трафик ChatGPT впервые начал снижаться](https://habr.com/ru/news/746556/?utm_campaign=746556&utm_source=habrahabr&utm_medium=rss)
+- [В России увеличилось число вредоносных рассылок через мессенджеры](https://habr.com/ru/news/746554/?utm_campaign=746554&utm_source=habrahabr&utm_medium=rss)
+- [Создатель Sonic получил 2,5 года тюрьмы с испытательным сроком](https://habr.com/ru/news/746538/?utm_campaign=746538&utm_source=habrahabr&utm_medium=rss)
+- [Google против пользователей Yota &lpar;и, похоже, Мегафона&rpar;](https://habr.com/ru/news/746536/?utm_campaign=746536&utm_source=habrahabr&utm_medium=rss)
 - [Во Франции одобрили закон об удалённой слежке полиции через камеры и микрофоны на смартфонах](https://habr.com/ru/news/746532/?utm_campaign=746532&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сделала GPT-4 общедоступной](https://habr.com/ru/news/746508/?utm_campaign=746508&utm_source=habrahabr&utm_medium=rss)
-- [X5 Backend meetup #1](https://habr.com/ru/companies/X5Tech/news/746502/?utm_campaign=746502&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: Yadro займётся производством отечественных смартфонов под брендом Kvadra](https://habr.com/ru/news/746494/?utm_campaign=746494&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge начал принудительно устанавливать расширение Google Docs Offline](https://habr.com/ru/news/746486/?utm_campaign=746486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
