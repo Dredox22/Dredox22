@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Во Франции одобрили закон об удалённой слежке полиции через камеры и микрофоны на смартфонах](https://habr.com/ru/news/746532/?utm_campaign=746532&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI сделала GPT-4 общедоступной](https://habr.com/ru/news/746508/?utm_campaign=746508&utm_source=habrahabr&utm_medium=rss)
 - [X5 Backend meetup #1](https://habr.com/ru/companies/X5Tech/news/746502/?utm_campaign=746502&utm_source=habrahabr&utm_medium=rss)
 - [«Ъ»: Yadro займётся производством отечественных смартфонов под брендом Kvadra](https://habr.com/ru/news/746494/?utm_campaign=746494&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge начал принудительно устанавливать расширение Google Docs Offline](https://habr.com/ru/news/746486/?utm_campaign=746486&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выложил в открытый доступ код на Basic симулятора квантового компьютера для Commodore 64](https://habr.com/ru/news/746470/?utm_campaign=746470&utm_source=habrahabr&utm_medium=rss)
-- [Adobe запретила сотрудникам делиться корпоративными и личными данными при работе с чат-ботами на базе ИИ](https://habr.com/ru/news/746464/?utm_campaign=746464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
