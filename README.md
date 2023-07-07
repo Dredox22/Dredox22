@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры не увидело необходимости в господдержке телеком-операторов для модернизации оборудования](https://habr.com/ru/news/746648/?utm_campaign=746648&utm_source=habrahabr&utm_medium=rss)
 - [Следующее поколение процессоров Intel Meteor Lake, вероятно, будет только мобильным](https://habr.com/ru/companies/dcmiran/news/746640/?utm_campaign=746640&utm_source=habrahabr&utm_medium=rss)
 - [В Нью-Йорке вступил в силу закон об использовании искусственного интеллекта при приёме на работу](https://habr.com/ru/news/746592/?utm_campaign=746592&utm_source=habrahabr&utm_medium=rss)
 - [TestFlight теперь поддерживает приложения для visionOS](https://habr.com/ru/news/746570/?utm_campaign=746570&utm_source=habrahabr&utm_medium=rss)
 - [Трафик ChatGPT впервые начал снижаться](https://habr.com/ru/news/746556/?utm_campaign=746556&utm_source=habrahabr&utm_medium=rss)
-- [В России увеличилось число вредоносных рассылок через мессенджеры](https://habr.com/ru/news/746554/?utm_campaign=746554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
