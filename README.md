@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Нью-Йорке вступил в силу закон об использовании искусственного интеллекта при приёме на работу](https://habr.com/ru/news/746592/?utm_campaign=746592&utm_source=habrahabr&utm_medium=rss)
+- [TestFlight теперь поддерживает приложения для visionOS](https://habr.com/ru/news/746570/?utm_campaign=746570&utm_source=habrahabr&utm_medium=rss)
 - [Трафик ChatGPT впервые начал снижаться](https://habr.com/ru/news/746556/?utm_campaign=746556&utm_source=habrahabr&utm_medium=rss)
 - [В России увеличилось число вредоносных рассылок через мессенджеры](https://habr.com/ru/news/746554/?utm_campaign=746554&utm_source=habrahabr&utm_medium=rss)
 - [Создатель Sonic получил 2,5 года тюрьмы с испытательным сроком](https://habr.com/ru/news/746538/?utm_campaign=746538&utm_source=habrahabr&utm_medium=rss)
-- [Google против пользователей Yota &lpar;и, похоже, Мегафона&rpar;](https://habr.com/ru/news/746536/?utm_campaign=746536&utm_source=habrahabr&utm_medium=rss)
-- [Во Франции одобрили закон об удалённой слежке полиции через камеры и микрофоны на смартфонах](https://habr.com/ru/news/746532/?utm_campaign=746532&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
