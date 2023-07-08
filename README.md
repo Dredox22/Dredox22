@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что мы поняли, когда обучили свою text2video нейронку](https://habr.com/ru/news/746792/?utm_campaign=746792&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 318,3 млн звонков с подменных номеров](https://habr.com/ru/news/746714/?utm_campaign=746714&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты пояснили, где именно и как долго РКН и операторы связи в ночь с 4 на 5 июля «выключали международный интернет»](https://habr.com/ru/news/746688/?utm_campaign=746688&utm_source=habrahabr&utm_medium=rss)
 - [[RU] Обновление инструмента поиска по нику Snoop Project до v1.3.8](https://habr.com/ru/news/746672/?utm_campaign=746672&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры не увидело необходимости в господдержке телеком-операторов для модернизации оборудования](https://habr.com/ru/news/746648/?utm_campaign=746648&utm_source=habrahabr&utm_medium=rss)
-- [Следующее поколение процессоров Intel Meteor Lake, вероятно, будет только мобильным](https://habr.com/ru/companies/dcmiran/news/746640/?utm_campaign=746640&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
