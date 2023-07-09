@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ChatGPT стал доступен плагин Code Interpreter, который позволяет запускать Python-код](https://habr.com/ru/news/746848/?utm_campaign=746848&utm_source=habrahabr&utm_medium=rss)
 - [НАСА начнёт испытания робота-гуманоида в Австралии](https://habr.com/ru/news/746840/?utm_campaign=746840&utm_source=habrahabr&utm_medium=rss)
 - [Канадский судья признал эмоджи с большим пальцем вверх контрактным соглашением](https://habr.com/ru/news/746834/?utm_campaign=746834&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст создал аниматронного робота из старого телевизора, Arduino и голосового ассистента Amazon Alexa](https://habr.com/ru/news/746824/?utm_campaign=746824&utm_source=habrahabr&utm_medium=rss)
 - [Что мы поняли, когда обучили свою text2video нейронку](https://habr.com/ru/news/746792/?utm_campaign=746792&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 318,3 млн звонков с подменных номеров](https://habr.com/ru/news/746714/?utm_campaign=746714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
