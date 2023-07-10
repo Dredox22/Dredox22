@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минэкономразвития подготовило законопроект маркировок видеоигр в зависимости от их содержания](https://habr.com/ru/news/746990/?utm_campaign=746990&utm_source=habrahabr&utm_medium=rss)
+- [Telegram в июне побил рекорд по дневной аудитории в России](https://habr.com/ru/news/746972/?utm_campaign=746972&utm_source=habrahabr&utm_medium=rss)
 - [Shutterstock будет защищать клиентов от судебных исков при использовании созданных ИИ картинок](https://habr.com/ru/news/746958/?utm_campaign=746958&utm_source=habrahabr&utm_medium=rss)
 - [Инженер попросил робота Ameca нарисовать кошку и получил в ответ рисунок с пояснением, что ИИ так видит искусство](https://habr.com/ru/news/746910/?utm_campaign=746910&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT стал доступен плагин Code Interpreter, который позволяет запускать Python-код](https://habr.com/ru/news/746848/?utm_campaign=746848&utm_source=habrahabr&utm_medium=rss)
-- [НАСА начнёт испытания робота-гуманоида в Австралии](https://habr.com/ru/news/746840/?utm_campaign=746840&utm_source=habrahabr&utm_medium=rss)
-- [Канадский судья признал эмоджи с большим пальцем вверх контрактным соглашением](https://habr.com/ru/news/746834/?utm_campaign=746834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
