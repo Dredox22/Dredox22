@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/747174/?utm_campaign=747174&utm_source=habrahabr&utm_medium=rss)
 - [Вышел кроссплатформенный почтовый клиент RuPost Desktop на основе Thunderbird Supernova](https://habr.com/ru/news/747092/?utm_campaign=747092&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз игрового движка Godot 4.1 с исправлением более 900 ошибок](https://habr.com/ru/news/747086/?utm_campaign=747086&utm_source=habrahabr&utm_medium=rss)
 - [«ИТ-Резерв», АО «ГЛОНАСС» и ЦОДД Москвы тестируют платформу повышения безопасности движения электросамокатов](https://habr.com/ru/news/747074/?utm_campaign=747074&utm_source=habrahabr&utm_medium=rss)
 - [Telegram начал собирать IP-адреса пользователей без премиум-подписки для таргетинга рекламы](https://habr.com/ru/news/747064/?utm_campaign=747064&utm_source=habrahabr&utm_medium=rss)
-- [Слухи: Apple сначала будет продавать Vision Pro в магазинах по предварительной записи и после курса настройки и обучения](https://habr.com/ru/news/747060/?utm_campaign=747060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
