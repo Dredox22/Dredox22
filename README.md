@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Квартальная выручка TSMC сократилась на 10% относительно предыдущего отчетного периода](https://habr.com/ru/companies/dcmiran/news/747008/?utm_campaign=747008&utm_source=habrahabr&utm_medium=rss)
+- [Delta Computers анонсировала выход двух новых ПК VRiH2 и BBiH2](https://habr.com/ru/news/747004/?utm_campaign=747004&utm_source=habrahabr&utm_medium=rss)
 - [Tesla начала использовать роботов Optimus в магазинах для повышения продаж](https://habr.com/ru/news/746996/?utm_campaign=746996&utm_source=habrahabr&utm_medium=rss)
 - [Минэкономразвития подготовило законопроект маркировок видеоигр в зависимости от их содержания](https://habr.com/ru/news/746990/?utm_campaign=746990&utm_source=habrahabr&utm_medium=rss)
 - [Telegram в июне побил рекорд по дневной аудитории в России](https://habr.com/ru/news/746972/?utm_campaign=746972&utm_source=habrahabr&utm_medium=rss)
-- [Shutterstock будет защищать клиентов от судебных исков при использовании созданных ИИ картинок](https://habr.com/ru/news/746958/?utm_campaign=746958&utm_source=habrahabr&utm_medium=rss)
-- [Инженер попросил робота Ameca нарисовать кошку и получил в ответ рисунок с пояснением, что ИИ так видит искусство](https://habr.com/ru/news/746910/?utm_campaign=746910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
