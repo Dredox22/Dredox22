@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел кроссплатформенный почтовый клиент RuPost Desktop на основе Thunderbird Supernova](https://habr.com/ru/news/747092/?utm_campaign=747092&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз игрового движка Godot 4.1 с исправлением более 900 ошибок](https://habr.com/ru/news/747086/?utm_campaign=747086&utm_source=habrahabr&utm_medium=rss)
+- [«ИТ-Резерв», АО «ГЛОНАСС» и ЦОДД Москвы тестируют платформу повышения безопасности движения электросамокатов](https://habr.com/ru/news/747074/?utm_campaign=747074&utm_source=habrahabr&utm_medium=rss)
 - [Telegram начал собирать IP-адреса пользователей без премиум-подписки для таргетинга рекламы](https://habr.com/ru/news/747064/?utm_campaign=747064&utm_source=habrahabr&utm_medium=rss)
 - [Слухи: Apple сначала будет продавать Vision Pro в магазинах по предварительной записи и после курса настройки и обучения](https://habr.com/ru/news/747060/?utm_campaign=747060&utm_source=habrahabr&utm_medium=rss)
-- [ФГУП «НАМИ», АО «ГЛОНАСС» и «Лаборатория Касперского» создают облачную платформу кибербезопасности транспортных средств](https://habr.com/ru/news/747032/?utm_campaign=747032&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия Squadus 1.1](https://habr.com/ru/news/747016/?utm_campaign=747016&utm_source=habrahabr&utm_medium=rss)
-- [Квартальная выручка TSMC сократилась на 10% относительно предыдущего отчетного периода](https://habr.com/ru/companies/dcmiran/news/747008/?utm_campaign=747008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
