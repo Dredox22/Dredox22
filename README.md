@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [К мошенническим сайтам для «быстрого заработка» Tesla X добавились боты WhatsApp от якобы самого Цукерберга](https://habr.com/ru/news/747304/?utm_campaign=747304&utm_source=habrahabr&utm_medium=rss)
 - [Российский рынок ПК в I квартале 2023 года незначительно вырос по сравнению с прошлым годом](https://habr.com/ru/news/747294/?utm_campaign=747294&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla запустила MDN Playground — собственную версию сервиса CodePen](https://habr.com/ru/news/747286/?utm_campaign=747286&utm_source=habrahabr&utm_medium=rss)
 - [Legrand нашёл покупателя в России, им станет российская электротехническая компания IEK](https://habr.com/ru/news/747282/?utm_campaign=747282&utm_source=habrahabr&utm_medium=rss)
 - [Российские компании атакуют рассылками с шифровальщиком PyCrypter под видом криптообменника с VPN](https://habr.com/ru/companies/f_a_c_c_t/news/747274/?utm_campaign=747274&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз OpenRGB 0.9 — свободной утилиты для управления RGB-подсветкой периферии](https://habr.com/ru/news/747242/?utm_campaign=747242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
