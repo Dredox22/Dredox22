@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики запустили сайт, позволяющий обновить софт старых ПК под управлением Windows 95 и 98](https://habr.com/ru/news/747382/?utm_campaign=747382&utm_source=habrahabr&utm_medium=rss)
 - [Intel продолжает избавляться от побочных бизнесов. Теперь отказались от финансирования мини-ПК NUC](https://habr.com/ru/companies/dcmiran/news/747376/?utm_campaign=747376&utm_source=habrahabr&utm_medium=rss)
 - [Фонд истории видеоигр выяснил, что сейчас пользователи могут официально купить только 13% игр, выпущенных до 2010 года](https://habr.com/ru/news/747358/?utm_campaign=747358&utm_source=habrahabr&utm_medium=rss)
 - [«НПО Автоматики» показало процессорные модули собственной сборки на «Иннопром-2023»](https://habr.com/ru/news/747352/?utm_campaign=747352&utm_source=habrahabr&utm_medium=rss)
 - [Актор или не актор: что хорошо для чат-бота?](https://habr.com/ru/companies/southbridge/news/747328/?utm_campaign=747328&utm_source=habrahabr&utm_medium=rss)
-- [К мошенническим сайтам для «быстрого заработка» Tesla X добавились боты WhatsApp от якобы самого Цукерберга](https://habr.com/ru/news/747304/?utm_campaign=747304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
