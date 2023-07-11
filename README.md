@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla запустила MDN Playground — собственную версию сервиса CodePen](https://habr.com/ru/news/747286/?utm_campaign=747286&utm_source=habrahabr&utm_medium=rss)
+- [Legrand нашёл покупателя в России, им станет российская электротехническая компания IEK](https://habr.com/ru/news/747282/?utm_campaign=747282&utm_source=habrahabr&utm_medium=rss)
+- [Российские компании атакуют рассылками с шифровальщиком PyCrypter под видом криптообменника с VPN](https://habr.com/ru/companies/f_a_c_c_t/news/747274/?utm_campaign=747274&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз OpenRGB 0.9 — свободной утилиты для управления RGB-подсветкой периферии](https://habr.com/ru/news/747242/?utm_campaign=747242&utm_source=habrahabr&utm_medium=rss)
 - [Облачные рабочие станции Microsoft Dev Box стали доступны клиентам и разработчикам](https://habr.com/ru/news/747236/?utm_campaign=747236&utm_source=habrahabr&utm_medium=rss)
-- [Массачусетс разрабатывает закон о запрете на продажу данных о местоположении смартфонов](https://habr.com/ru/news/747228/?utm_campaign=747228&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и Amazon открыли магазин приложений Android в Windows 11 для всех разработчиков](https://habr.com/ru/news/747218/?utm_campaign=747218&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи предложили единый стандарт оценки сгенерированных ИИ текстов](https://habr.com/ru/news/747216/?utm_campaign=747216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
