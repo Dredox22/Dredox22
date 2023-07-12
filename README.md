@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: принтеры и МФУ Canon и других брендов могут передавать данные при печати и сканировании сторонним компаниям](https://habr.com/ru/news/747520/?utm_campaign=747520&utm_source=habrahabr&utm_medium=rss)
 - [RuStore выпустил API для публикации приложений и работы с отзывами и рейтингами](https://habr.com/ru/news/747502/?utm_campaign=747502&utm_source=habrahabr&utm_medium=rss)
 - [Oracle Linux будет поддерживать совместимость с RHEL даже после ограничений Red Hat](https://habr.com/ru/news/747450/?utm_campaign=747450&utm_source=habrahabr&utm_medium=rss)
 - [Google Calendar в партнёрстве со Stripe позволит пользователям назначать платные встречи](https://habr.com/ru/news/747448/?utm_campaign=747448&utm_source=habrahabr&utm_medium=rss)
 - [Samsung стала контрактным производителем новых ИИ-процессоров разработки IBM](https://habr.com/ru/companies/dcmiran/news/747414/?utm_campaign=747414&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты запустили сайт, позволяющий обновить софт старых ПК под управлением Windows 95 и 98](https://habr.com/ru/news/747382/?utm_campaign=747382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
