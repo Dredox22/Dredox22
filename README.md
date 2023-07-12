@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Online dbt meetup — нас всё больше, а доклады всё интереснее](https://habr.com/ru/news/747620/?utm_campaign=747620&utm_source=habrahabr&utm_medium=rss)
 - [В Минпромторге подтвердили, что сотрудникам ведомства запрещено использовать iPhone для рабочей переписки с 17 июля](https://habr.com/ru/news/747594/?utm_campaign=747594&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» — участник исследования безопасности ядра Linux](https://habr.com/ru/companies/basealtspo/news/747588/?utm_campaign=747588&utm_source=habrahabr&utm_medium=rss)
 - [Помощник главы Silk Road Вэрайети Джонс получил 20 лет тюрьмы](https://habr.com/ru/news/747570/?utm_campaign=747570&utm_source=habrahabr&utm_medium=rss)
 - [Приложение ICQ исчезло из Google Play](https://habr.com/ru/news/747556/?utm_campaign=747556&utm_source=habrahabr&utm_medium=rss)
-- [Сбер выявил фейковые сайты, которые якобы позволяют проверить, действительно ли звонит сотрудник банка или полиции](https://habr.com/ru/news/747552/?utm_campaign=747552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
