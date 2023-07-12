@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Помощник главы Silk Road Вэрайети Джонс получил 20 лет тюрьмы](https://habr.com/ru/news/747570/?utm_campaign=747570&utm_source=habrahabr&utm_medium=rss)
 - [Приложение ICQ исчезло из Google Play](https://habr.com/ru/news/747556/?utm_campaign=747556&utm_source=habrahabr&utm_medium=rss)
 - [Сбер выявил фейковые сайты, которые якобы позволяют проверить, действительно ли звонит сотрудник банка или полиции](https://habr.com/ru/news/747552/?utm_campaign=747552&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: принтеры и МФУ Canon и других брендов могут передавать данные при печати и сканировании сторонним компаниям](https://habr.com/ru/news/747520/?utm_campaign=747520&utm_source=habrahabr&utm_medium=rss)
 - [RuStore выпустил API для публикации приложений, а также для отзывов и рейтинга и работы с ними](https://habr.com/ru/news/747502/?utm_campaign=747502&utm_source=habrahabr&utm_medium=rss)
-- [Oracle Linux будет поддерживать совместимость с RHEL даже после ограничений Red Hat](https://habr.com/ru/news/747450/?utm_campaign=747450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
