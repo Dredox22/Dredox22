@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Крупнейшее изменение системы аутентификации в K8s последних лет: новый KEP от «Фланта», Google и Microsoft](https://habr.com/ru/companies/flant/news/747712/?utm_campaign=747712&utm_source=habrahabr&utm_medium=rss)
+- [GitHub внедрил поддержку аутентификации без пароля в публичной бета-версии](https://habr.com/ru/news/747710/?utm_campaign=747710&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Ростех» запретил сотрудникам холдинговой компании «Швабе» пользоваться iPhone на работе](https://habr.com/ru/news/747702/?utm_campaign=747702&utm_source=habrahabr&utm_medium=rss)
+- [С 8 февраля 2024 года сертификаты Let’s Encrypt перестанут работать в Android 7 и более старых ОС](https://habr.com/ru/news/747700/?utm_campaign=747700&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры использовали политику Microsoft для изменения даты подписи вредоносных драйверов до 29 июля 2015 года](https://habr.com/ru/news/747692/?utm_campaign=747692&utm_source=habrahabr&utm_medium=rss)
-- [Жюри конкурса не приняло фото с iPhone из-за подозрений, что его сгенерировал ИИ](https://habr.com/ru/news/747690/?utm_campaign=747690&utm_source=habrahabr&utm_medium=rss)
-- [Центробанк РФ опубликовал правила использования цифрового рубля](https://habr.com/ru/news/747686/?utm_campaign=747686&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA стала оснащать RTX 4090 Founders Edition, 4070 и 4070 Ti разъемом питания с защитой от оплавления](https://habr.com/ru/companies/dcmiran/news/747670/?utm_campaign=747670&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст обнаружил в коде бразильской цифровой валюты CBDC 14 функций для тотального контроля кошельков граждан](https://habr.com/ru/news/747664/?utm_campaign=747664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
