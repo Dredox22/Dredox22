@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» добавил в «Шедеврум» комментарии](https://habr.com/ru/news/747878/?utm_campaign=747878&utm_source=habrahabr&utm_medium=rss)
+- [В России создали томограф для промышленности](https://habr.com/ru/companies/smartengines/news/747868/?utm_campaign=747868&utm_source=habrahabr&utm_medium=rss)
 - [Австралийский оператор Optus будет использовать низкоорбитальные спутники Starlink](https://habr.com/ru/news/747864/?utm_campaign=747864&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Denuvo попытаются доказать, что их защита не влияет на производительность в играх](https://habr.com/ru/news/747834/?utm_campaign=747834&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики платформы управления контейнерами «Штурвал» протестировали совместимость своего решения с ОС Astra Linux](https://habr.com/ru/news/747832/?utm_campaign=747832&utm_source=habrahabr&utm_medium=rss)
-- [18 июля — Beeline Data Engineering Meetup: Решение бизнес-задач с помощью данных](https://habr.com/ru/companies/beeline_tech/news/747812/?utm_campaign=747812&utm_source=habrahabr&utm_medium=rss)
-- [Asus подтвердила, что устройство чтения карт MicroSD в консоли ROG Ally работает со сбоями из-за перегрева](https://habr.com/ru/news/747810/?utm_campaign=747810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
