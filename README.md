@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Заработал портал-навигатор по развитию искусственного интеллекта в России](https://habr.com/ru/news/747744/?utm_campaign=747744&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи показали атаку дезинформацией с помощью чат-бота PoisonGPT](https://habr.com/ru/news/747714/?utm_campaign=747714&utm_source=habrahabr&utm_medium=rss)
 - [Крупнейшее изменение системы аутентификации в K8s за последние годы: новый KEP от «Фланта», Google и Microsoft](https://habr.com/ru/companies/flant/news/747712/?utm_campaign=747712&utm_source=habrahabr&utm_medium=rss)
 - [GitHub внедрил поддержку аутентификации без пароля в публичной бета-версии](https://habr.com/ru/news/747710/?utm_campaign=747710&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Ростех» запретил сотрудникам холдинговых компаний и организаций госкорпорации пользоваться iPhone на работе](https://habr.com/ru/news/747702/?utm_campaign=747702&utm_source=habrahabr&utm_medium=rss)
-- [С 8 февраля 2024 года сертификаты Let’s Encrypt перестанут работать в Android 7 и более старых ОС](https://habr.com/ru/news/747700/?utm_campaign=747700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
