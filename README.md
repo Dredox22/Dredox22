@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord запретил серверы знакомств для подростков и начал блокировать обмен CSAM-контентом, сгенерированным ИИ](https://habr.com/ru/news/747778/?utm_campaign=747778&utm_source=habrahabr&utm_medium=rss)
-- [Шпион, выйди вон: группа XDSpy атаковала российские организации от имени МЧС](https://habr.com/ru/companies/f_a_c_c_t/news/747540/?utm_campaign=747540&utm_source=habrahabr&utm_medium=rss)
-- [Заработал портал-навигатор по развитию искусственного интеллекта в России](https://habr.com/ru/news/747744/?utm_campaign=747744&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи показали атаку дезинформацией с помощью чат-бота PoisonGPT](https://habr.com/ru/news/747714/?utm_campaign=747714&utm_source=habrahabr&utm_medium=rss)
-- [Крупнейшее изменение системы аутентификации в K8s за последние годы: новый KEP от «Фланта», Google и Microsoft](https://habr.com/ru/companies/flant/news/747712/?utm_campaign=747712&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Denuvo попытаются доказать, что их защита не влияет на производительность в играх](https://habr.com/ru/news/747834/?utm_campaign=747834&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики платформы управления контейнерами «Штурвал» протестировали совместимость своего решения с ОС Astra Linux](https://habr.com/ru/news/747832/?utm_campaign=747832&utm_source=habrahabr&utm_medium=rss)
+- [18 июля — Beeline Data Engineering Meetup: Решение бизнес-задач с помощью данных](https://habr.com/ru/companies/beeline_tech/news/747812/?utm_campaign=747812&utm_source=habrahabr&utm_medium=rss)
+- [Asus подтвердила, что устройство чтения карт MicroSD в консоли ROG Ally работает со сбоями из-за перегрева](https://habr.com/ru/news/747810/?utm_campaign=747810&utm_source=habrahabr&utm_medium=rss)
+- [Google обновила чат-бота Bard — теперь он знает 40 языков и может менять тон и стиль общения](https://habr.com/ru/news/747804/?utm_campaign=747804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
