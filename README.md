@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел почтовый клиент Thunderbird 115 Supernova](https://habr.com/ru/news/747896/?utm_campaign=747896&utm_source=habrahabr&utm_medium=rss)
+- [Власти Франции обязали ставить родительский контроль на все устройства, продающиеся в стране](https://habr.com/ru/news/747894/?utm_campaign=747894&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» добавил в «Шедеврум» комментарии](https://habr.com/ru/news/747878/?utm_campaign=747878&utm_source=habrahabr&utm_medium=rss)
 - [В России создали томограф для промышленности](https://habr.com/ru/companies/smartengines/news/747868/?utm_campaign=747868&utm_source=habrahabr&utm_medium=rss)
 - [Австралийский оператор Optus будет использовать низкоорбитальные спутники Starlink](https://habr.com/ru/news/747864/?utm_campaign=747864&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Denuvo попытаются доказать, что их защита не влияет на производительность в играх](https://habr.com/ru/news/747834/?utm_campaign=747834&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики платформы управления контейнерами «Штурвал» протестировали совместимость своего решения с ОС Astra Linux](https://habr.com/ru/news/747832/?utm_campaign=747832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
