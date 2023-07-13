@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Центробанк РФ опубликовал правила использования цифрового рубля](https://habr.com/ru/news/747686/?utm_campaign=747686&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA стала оснащать RTX 4090 Founders Edition, 4070 и 4070 Ti разъемом питания с защитой от оплавления](https://habr.com/ru/companies/dcmiran/news/747670/?utm_campaign=747670&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст обнаружил в коде бразильской цифровой валюты CBDC 14 функций для тотального контроля кошельков граждан](https://habr.com/ru/news/747664/?utm_campaign=747664&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» создала прототип устройства для непрямого массажа сердца при СЛР «КардиоРобот»](https://habr.com/ru/news/747652/?utm_campaign=747652&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies выпустила версию  PT BlackBox 2.5](https://habr.com/ru/news/747646/?utm_campaign=747646&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф Банк» ввёл комиссию до 10% от суммы за внесение долларов и евро через банкоматы](https://habr.com/ru/news/747642/?utm_campaign=747642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
