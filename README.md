@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Менеджер паролей Apple в macOS Sonoma получил поддержку сторонних браузеров](https://habr.com/ru/news/747936/?utm_campaign=747936&utm_source=habrahabr&utm_medium=rss)
 - [Исходный код зловреда BlackLotus для Windows UEFI выложен на GitHub](https://habr.com/ru/news/747914/?utm_campaign=747914&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует NotebookLM — приложение на базе ИИ для работы с локальными текстовыми документами](https://habr.com/ru/news/747912/?utm_campaign=747912&utm_source=habrahabr&utm_medium=rss)
 - [Вышел почтовый клиент Thunderbird 115 Supernova](https://habr.com/ru/news/747896/?utm_campaign=747896&utm_source=habrahabr&utm_medium=rss)
 - [Власти Франции обязали ставить родительский контроль на все устройства, продающиеся в стране](https://habr.com/ru/news/747894/?utm_campaign=747894&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» добавил в «Шедеврум» комментарии](https://habr.com/ru/news/747878/?utm_campaign=747878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
