@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Shutterstock расширяет сотрудничество с OpenAI для создания генеративных инструментов искусственного интеллекта](https://habr.com/ru/news/748050/?utm_campaign=748050&utm_source=habrahabr&utm_medium=rss)
+- [Создаем Cloud native приложение с помощью Kubernetes](https://habr.com/ru/companies/selectel/news/747512/?utm_campaign=747512&utm_source=habrahabr&utm_medium=rss)
+- [«ВКонтакте» добавила функцию расшифровки видеосообщений](https://habr.com/ru/news/748046/?utm_campaign=748046&utm_source=habrahabr&utm_medium=rss)
+- [Приложение 2GIS beta картографического сервиса 2ГИС удалили из Google Play](https://habr.com/ru/news/748038/?utm_campaign=748038&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft спустя полтора месяца выпустила драйвер, в котором исправлены проблемы с веб-камерами в Surface Pro X](https://habr.com/ru/news/748026/?utm_campaign=748026&utm_source=habrahabr&utm_medium=rss)
-- [Google One VPN изменит свой IP-адрес по умолчанию с общеизвестного на локальные варианты](https://habr.com/ru/news/748018/?utm_campaign=748018&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила в Windows 11 проблему блокировки драйверов медиаплеера Zune](https://habr.com/ru/news/747990/?utm_campaign=747990&utm_source=habrahabr&utm_medium=rss)
-- [Fourier Intelligence заявила о планах выпустить 100 гуманоидных роботов к концу 2023 года](https://habr.com/ru/news/747996/?utm_campaign=747996&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии iOS 17 появилась возможность сохранять полностраничные скриншоты в «Фото»](https://habr.com/ru/news/747986/?utm_campaign=747986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
