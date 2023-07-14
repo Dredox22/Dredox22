@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи консоли ROG Ally попросили Asus как можно скорее решить проблему перегрева адаптера microSD](https://habr.com/ru/news/748148/?utm_campaign=748148&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на X5 Kotlin Multiplatform Meetup](https://habr.com/ru/companies/X5Tech/news/748138/?utm_campaign=748138&utm_source=habrahabr&utm_medium=rss)
 - [В приложении Google Chat появилась поддержка гиперссылок](https://habr.com/ru/news/748124/?utm_campaign=748124&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует центр искусственного интеллекта в магазине приложений Windows 11](https://habr.com/ru/news/748096/?utm_campaign=748096&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI будет использовать новости Associated Press для обучения своих моделей](https://habr.com/ru/news/748068/?utm_campaign=748068&utm_source=habrahabr&utm_medium=rss)
-- [Приложение мобильного оператора «Мегафон» пропало из Google Play](https://habr.com/ru/news/748064/?utm_campaign=748064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
