@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft тестирует центр искусственного интеллекта в магазине приложений Windows 11](https://habr.com/ru/news/748096/?utm_campaign=748096&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI будет использовать новости Associated Press для обучения своих моделей](https://habr.com/ru/news/748068/?utm_campaign=748068&utm_source=habrahabr&utm_medium=rss)
+- [Приложение мобильного оператора «Мегафон» пропало из Google Play](https://habr.com/ru/news/748064/?utm_campaign=748064&utm_source=habrahabr&utm_medium=rss)
 - [Shutterstock расширяет сотрудничество с OpenAI для создания генеративных инструментов искусственного интеллекта](https://habr.com/ru/news/748050/?utm_campaign=748050&utm_source=habrahabr&utm_medium=rss)
 - [Создаем Cloud native приложение с помощью Kubernetes](https://habr.com/ru/companies/selectel/news/747512/?utm_campaign=747512&utm_source=habrahabr&utm_medium=rss)
-- [«ВКонтакте» добавила функцию расшифровки видеосообщений](https://habr.com/ru/news/748046/?utm_campaign=748046&utm_source=habrahabr&utm_medium=rss)
-- [Приложение 2GIS beta картографического сервиса 2ГИС удалили из Google Play](https://habr.com/ru/news/748038/?utm_campaign=748038&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft спустя полтора месяца выпустила драйвер, в котором исправлены проблемы с веб-камерами в Surface Pro X](https://habr.com/ru/news/748026/?utm_campaign=748026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
