@@ -71,8 +71,8 @@
 - [«Гравитон» представила новую системную плату «Яна» в форм-факторе Thin Mini-ITX](https://habr.com/ru/news/748244/?utm_campaign=748244&utm_source=habrahabr&utm_medium=rss)
 - [Пользователям из ЕС запретили доступ к Threads даже через VPN](https://habr.com/ru/news/748220/?utm_campaign=748220&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5028185 для Windows 11 тормозит ПК, приводит к сбоям связи и вызывает проблемы при входе в систему](https://habr.com/ru/news/748210/?utm_campaign=748210&utm_source=habrahabr&utm_medium=rss)
+- [Стартуем коллективное прохождение курса MIT 15.356 How To Develop «Breakthrough» Products And Services](https://habr.com/ru/news/748188/?utm_campaign=748188&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи консоли ROG Ally попросили Asus как можно скорее решить проблему перегрева адаптера microSD](https://habr.com/ru/news/748148/?utm_campaign=748148&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на X5 Kotlin Multiplatform Meetup](https://habr.com/ru/companies/X5Tech/news/748138/?utm_campaign=748138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
