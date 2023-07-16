@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Firefox 116 удалят интерфейс about:performance](https://habr.com/ru/news/748306/?utm_campaign=748306&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры начали использовать WormGPT для помощи в фишинговых атаках](https://habr.com/ru/news/748304/?utm_campaign=748304&utm_source=habrahabr&utm_medium=rss)
 - [«Гравитон» представила новую системную плату «Яна» в форм-факторе Thin Mini-ITX](https://habr.com/ru/news/748244/?utm_campaign=748244&utm_source=habrahabr&utm_medium=rss)
 - [Пользователям из ЕС запретили доступ к Threads даже через VPN](https://habr.com/ru/news/748220/?utm_campaign=748220&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5028185 для Windows 11 тормозит ПК, приводит к сбоям связи и вызывает проблемы при входе в систему](https://habr.com/ru/news/748210/?utm_campaign=748210&utm_source=habrahabr&utm_medium=rss)
-- [Стартуем коллективное прохождение курса MIT 15.356 How To Develop «Breakthrough» Products And Services](https://habr.com/ru/news/748188/?utm_campaign=748188&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи консоли ROG Ally попросили Asus как можно скорее решить проблему перегрева адаптера microSD](https://habr.com/ru/news/748148/?utm_campaign=748148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
