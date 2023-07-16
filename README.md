@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Минфин и Минэнерго запрещают сотрудниками использовать iPhone в рабочих целях](https://habr.com/ru/news/748340/?utm_campaign=748340&utm_source=habrahabr&utm_medium=rss)
 - [Актёр озвучки превратил чтение условий использования Instagram** в 51-минутное средство для хорошего сна](https://habr.com/ru/news/748308/?utm_campaign=748308&utm_source=habrahabr&utm_medium=rss)
 - [В Firefox 116 удалят интерфейс about:performance](https://habr.com/ru/news/748306/?utm_campaign=748306&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры начали использовать WormGPT для помощи в фишинговых атаках](https://habr.com/ru/news/748304/?utm_campaign=748304&utm_source=habrahabr&utm_medium=rss)
 - [«Гравитон» представила новую системную плату «Яна» в форм-факторе Thin Mini-ITX](https://habr.com/ru/news/748244/?utm_campaign=748244&utm_source=habrahabr&utm_medium=rss)
-- [Пользователям из ЕС запретили доступ к Threads даже через VPN](https://habr.com/ru/news/748220/?utm_campaign=748220&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
