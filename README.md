@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AIxploria: список ИИ-инструментов и нейросетей по категориям](https://habr.com/ru/news/748472/?utm_campaign=748472&utm_source=habrahabr&utm_medium=rss)
+- [RTM Group: 65% паролей российских пользователей можно взломать перебором за одну минуту](https://habr.com/ru/news/748466/?utm_campaign=748466&utm_source=habrahabr&utm_medium=rss)
 - [В Google Chrome для iOS появилась возможность добавлять веб-приложения на главный экран](https://habr.com/ru/news/748458/?utm_campaign=748458&utm_source=habrahabr&utm_medium=rss)
 - [В Китае с 15 августа вводятся определённые ограничения на использование генеративного ИИ](https://habr.com/ru/news/748456/?utm_campaign=748456&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud запустила подкаст о безопасной работе в облаке](https://habr.com/ru/news/748440/?utm_campaign=748440&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Linux Mint 21.2 «Victoria» &lpar;Виктория&rpar;](https://habr.com/ru/news/748404/?utm_campaign=748404&utm_source=habrahabr&utm_medium=rss)
-- [Десятки тысяч образов контейнеров на Docker Hub содержат в открытом виде токены аутентификации API и приватные ключи](https://habr.com/ru/news/748396/?utm_campaign=748396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
