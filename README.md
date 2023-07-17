@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Десятки тысяч образов контейнеров на Docker Hub содержат в открытом виде токены аутентификации API и приватные ключи](https://habr.com/ru/news/748396/?utm_campaign=748396&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Docker Desktop 4.21 с поддержкой новых сред выполнения Wasm](https://habr.com/ru/news/748392/?utm_campaign=748392&utm_source=habrahabr&utm_medium=rss)
+- [Облачные сервисы и услуги аренды стоек выдавливают с рынка персональные корпоративные ЦОДы](https://habr.com/ru/companies/dcmiran/news/748388/?utm_campaign=748388&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Минфин и Минэнерго запрещают сотрудниками использовать iPhone в рабочих целях](https://habr.com/ru/news/748340/?utm_campaign=748340&utm_source=habrahabr&utm_medium=rss)
 - [Актёр озвучки превратил чтение условий использования Instagram** в 51-минутное средство для хорошего сна](https://habr.com/ru/news/748308/?utm_campaign=748308&utm_source=habrahabr&utm_medium=rss)
-- [В Firefox 116 удалят интерфейс about:performance](https://habr.com/ru/news/748306/?utm_campaign=748306&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали использовать WormGPT для помощи в фишинговых атаках](https://habr.com/ru/news/748304/?utm_campaign=748304&utm_source=habrahabr&utm_medium=rss)
-- [«Гравитон» представила новую системную плату «Яна» в форм-факторе Thin Mini-ITX](https://habr.com/ru/news/748244/?utm_campaign=748244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
