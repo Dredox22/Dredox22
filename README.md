@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прикроватные часы из iPhone: обзор функции StandBy из беты iOS 17](https://habr.com/ru/news/748608/?utm_campaign=748608&utm_source=habrahabr&utm_medium=rss)
 - [Создатели приложения для сна Loóna уволили большинство сотрудников и начали работать над VR-сервисом](https://habr.com/ru/news/748578/?utm_campaign=748578&utm_source=habrahabr&utm_medium=rss)
 - [Сбер продлил срок подачи статей в научный журнал по искусственному интеллекту и машинному обучению до 31 августа](https://habr.com/ru/news/748568/?utm_campaign=748568&utm_source=habrahabr&utm_medium=rss)
 - [Из-за опечатки миллионы электронных писем военного ведомства США ушли на малийские адреса](https://habr.com/ru/news/748564/?utm_campaign=748564&utm_source=habrahabr&utm_medium=rss)
 - [VMware Fusion получит полное аппаратное ускорение 3D-графики на чипах Apple Silicon](https://habr.com/ru/news/748540/?utm_campaign=748540&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила выход Windows 11 23H2 с ИИ Windows Copilot осенью](https://habr.com/ru/news/748530/?utm_campaign=748530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
