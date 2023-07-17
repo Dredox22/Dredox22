@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Chrome для iOS появилась возможность добавлять веб-приложения на главный экран](https://habr.com/ru/news/748458/?utm_campaign=748458&utm_source=habrahabr&utm_medium=rss)
+- [В Китае с 15 августа вводятся определённые ограничения на использование генеративного ИИ](https://habr.com/ru/news/748456/?utm_campaign=748456&utm_source=habrahabr&utm_medium=rss)
+- [Yandex Cloud запустила подкаст о безопасной работе в облаке](https://habr.com/ru/news/748440/?utm_campaign=748440&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux Mint 21.2 «Victoria» &lpar;Виктория&rpar;](https://habr.com/ru/news/748404/?utm_campaign=748404&utm_source=habrahabr&utm_medium=rss)
 - [Десятки тысяч образов контейнеров на Docker Hub содержат в открытом виде токены аутентификации API и приватные ключи](https://habr.com/ru/news/748396/?utm_campaign=748396&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Docker Desktop 4.21 с поддержкой новых сред выполнения Wasm](https://habr.com/ru/news/748392/?utm_campaign=748392&utm_source=habrahabr&utm_medium=rss)
-- [Облачные сервисы и услуги аренды стоек выдавливают с рынка персональные корпоративные ЦОДы](https://habr.com/ru/companies/dcmiran/news/748388/?utm_campaign=748388&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Минфин и Минэнерго запрещают сотрудниками использовать iPhone в рабочих целях](https://habr.com/ru/news/748340/?utm_campaign=748340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
