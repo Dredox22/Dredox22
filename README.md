@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft подтвердила выход Windows 11 23H2 с ИИ Windows Copilot осенью](https://habr.com/ru/news/748530/?utm_campaign=748530&utm_source=habrahabr&utm_medium=rss)
 - [Ютубер Аллен Пэн создал экзоскелет для армрестлинга и вызвал на состязание атлетов и бодибилдеров](https://habr.com/ru/news/748520/?utm_campaign=748520&utm_source=habrahabr&utm_medium=rss)
 - [Как создавать и развивать IT-платформу? PaaS Meetup от СберМакерт Tech 20.07.23](https://habr.com/ru/companies/sbermarket/news/748512/?utm_campaign=748512&utm_source=habrahabr&utm_medium=rss)
 - [AIxploria: список ИИ-инструментов и нейросетей по категориям](https://habr.com/ru/news/748472/?utm_campaign=748472&utm_source=habrahabr&utm_medium=rss)
 - [RTM Group: 65% паролей российских пользователей можно взломать перебором за одну минуту](https://habr.com/ru/news/748466/?utm_campaign=748466&utm_source=habrahabr&utm_medium=rss)
-- [В Google Chrome для iOS появилась возможность добавлять веб-приложения на главный экран](https://habr.com/ru/news/748458/?utm_campaign=748458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
