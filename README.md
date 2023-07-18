@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram выпустил облигации на сумму $270 млн, Дуров купил около четверти из них](https://habr.com/ru/news/748876/?utm_campaign=748876&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/748868/?utm_campaign=748868&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт обнаружил способ автоматической блокировки любого аккаунта WhatsApp по номеру телефона, сейчас этот баг закрыт](https://habr.com/ru/news/748862/?utm_campaign=748862&utm_source=habrahabr&utm_medium=rss)
 - [Amazon посоветовала водителям доставки не беспокоиться о камерах в машинах, но кадры с ними начали появляться в сети](https://habr.com/ru/news/748848/?utm_campaign=748848&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI и American Journalism Project будут развивать инструменты для новостной журналистики](https://habr.com/ru/news/748834/?utm_campaign=748834&utm_source=habrahabr&utm_medium=rss)
-- [RUVDS и Positive Technologies запустили соревнования по спортивному хакингу в космосе](https://habr.com/ru/companies/pt/news/748806/?utm_campaign=748806&utm_source=habrahabr&utm_medium=rss)
-- [В TikTok для iOS появится поддержка технологии Passkeys для входа без пароля](https://habr.com/ru/news/748804/?utm_campaign=748804&utm_source=habrahabr&utm_medium=rss)
-- [Spotify представила функцию общего управления громкостью в групповых сеансах](https://habr.com/ru/news/748790/?utm_campaign=748790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
