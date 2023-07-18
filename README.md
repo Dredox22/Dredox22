@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Моторика» приступила к разработке протезов ног](https://habr.com/ru/news/748722/?utm_campaign=748722&utm_source=habrahabr&utm_medium=rss)
 - [«МойОфис Защищенное Облако» прошел инспекционный контроль во ФСТЭК России](https://habr.com/ru/companies/ncloudtech/news/748694/?utm_campaign=748694&utm_source=habrahabr&utm_medium=rss)
 - [Wix анонсировала инструмент на базе ИИ для создания веб-сайтов](https://habr.com/ru/news/748656/?utm_campaign=748656&utm_source=habrahabr&utm_medium=rss)
 - [«Сколково» и IT_One начали отбор на чемпионат по SQL](https://habr.com/ru/news/748522/?utm_campaign=748522&utm_source=habrahabr&utm_medium=rss)
 - [Google и Taito выпустили на Android и iOS аркаду с дополненной реальностью Space Invaders: World Defense](https://habr.com/ru/news/748652/?utm_campaign=748652&utm_source=habrahabr&utm_medium=rss)
-- [В Threads появятся поддержка личных сообщений и интеграция с Mastodon](https://habr.com/ru/news/748646/?utm_campaign=748646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
