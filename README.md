@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [HP переводит часть производства ноутбуков из Китая в Мексику, Таиланд и Вьетнам](https://habr.com/ru/news/748756/?utm_campaign=748756&utm_source=habrahabr&utm_medium=rss)
+- [ЕС принял нормативы об оснащении смартфонов и портативных консолей съемными аккумуляторами](https://habr.com/ru/companies/dcmiran/news/748748/?utm_campaign=748748&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» зарегистрировал в реестре отечественного ПО Минцифры четыре продукта для управления банкоматами](https://habr.com/ru/news/748730/?utm_campaign=748730&utm_source=habrahabr&utm_medium=rss)
 - [«Моторика» приступила к разработке протезов ног](https://habr.com/ru/news/748722/?utm_campaign=748722&utm_source=habrahabr&utm_medium=rss)
 - [«МойОфис Защищенное Облако» прошел инспекционный контроль во ФСТЭК России](https://habr.com/ru/companies/ncloudtech/news/748694/?utm_campaign=748694&utm_source=habrahabr&utm_medium=rss)
-- [Wix анонсировала инструмент на базе ИИ для создания веб-сайтов](https://habr.com/ru/news/748656/?utm_campaign=748656&utm_source=habrahabr&utm_medium=rss)
-- [«Сколково» и IT_One начали отбор на чемпионат по SQL](https://habr.com/ru/news/748522/?utm_campaign=748522&utm_source=habrahabr&utm_medium=rss)
-- [Google и Taito выпустили на Android и iOS аркаду с дополненной реальностью Space Invaders: World Defense](https://habr.com/ru/news/748652/?utm_campaign=748652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
