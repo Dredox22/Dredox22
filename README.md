@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Wix анонсировала инструмент на базе ИИ для создания веб-сайтов](https://habr.com/ru/news/748656/?utm_campaign=748656&utm_source=habrahabr&utm_medium=rss)
+- [«Сколково» и IT_One начали отюор на чемпионат по SQL](https://habr.com/ru/news/748522/?utm_campaign=748522&utm_source=habrahabr&utm_medium=rss)
+- [Google и Taito выпустили на Android и iOS аркаду с дополненной реальностью Space Invaders: World Defense](https://habr.com/ru/news/748652/?utm_campaign=748652&utm_source=habrahabr&utm_medium=rss)
+- [В Threads появятся поддержка личных сообщений и интеграция с Mastodon](https://habr.com/ru/news/748646/?utm_campaign=748646&utm_source=habrahabr&utm_medium=rss)
 - [Вышла первая версия загрузочной прошивки GNU Boot](https://habr.com/ru/news/748634/?utm_campaign=748634&utm_source=habrahabr&utm_medium=rss)
-- [Stability AI представила Stable Doodle — нейросеть, превращающую рисунки от руки в детализированные изображения](https://habr.com/ru/news/748610/?utm_campaign=748610&utm_source=habrahabr&utm_medium=rss)
-- [Прикроватные часы из iPhone: обзор функции StandBy из беты iOS 17](https://habr.com/ru/news/748608/?utm_campaign=748608&utm_source=habrahabr&utm_medium=rss)
-- [Создатели приложения для сна Loóna уволили большинство сотрудников и начали работать над VR-сервисом](https://habr.com/ru/news/748578/?utm_campaign=748578&utm_source=habrahabr&utm_medium=rss)
-- [Сбер продлил срок подачи статей в научный журнал по искусственному интеллекту и машинному обучению до 31 августа](https://habr.com/ru/news/748568/?utm_campaign=748568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
