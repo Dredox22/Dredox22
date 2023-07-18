@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В TikTok для iOS появится поддержка технологии Passkeys для входа без пароля](https://habr.com/ru/news/748804/?utm_campaign=748804&utm_source=habrahabr&utm_medium=rss)
+- [Spotify представила функцию общего управления громкостью в групповых сеансах](https://habr.com/ru/news/748790/?utm_campaign=748790&utm_source=habrahabr&utm_medium=rss)
 - [HP переводит часть производства ноутбуков из Китая в Мексику, Таиланд и Вьетнам](https://habr.com/ru/news/748756/?utm_campaign=748756&utm_source=habrahabr&utm_medium=rss)
 - [ЕС принял нормативы об оснащении смартфонов и портативных консолей съемными аккумуляторами](https://habr.com/ru/companies/dcmiran/news/748748/?utm_campaign=748748&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» зарегистрировал в реестре отечественного ПО Минцифры четыре продукта для управления банкоматами](https://habr.com/ru/news/748730/?utm_campaign=748730&utm_source=habrahabr&utm_medium=rss)
-- [«Моторика» приступила к разработке протезов ног](https://habr.com/ru/news/748722/?utm_campaign=748722&utm_source=habrahabr&utm_medium=rss)
-- [«МойОфис Защищенное Облако» прошел инспекционный контроль во ФСТЭК России](https://habr.com/ru/companies/ncloudtech/news/748694/?utm_campaign=748694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
