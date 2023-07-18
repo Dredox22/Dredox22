@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon посоветовала водителям доставки не беспокоиться о камерах в машинах, но кадры с ними начали появляться в сети](https://habr.com/ru/news/748848/?utm_campaign=748848&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI и American Journalism Project будут развивать инструменты для новостной журналистики](https://habr.com/ru/news/748834/?utm_campaign=748834&utm_source=habrahabr&utm_medium=rss)
 - [RUVDS и Positive Technologies запустили соревнования по спортивному хакингу в космосе](https://habr.com/ru/companies/pt/news/748806/?utm_campaign=748806&utm_source=habrahabr&utm_medium=rss)
 - [В TikTok для iOS появится поддержка технологии Passkeys для входа без пароля](https://habr.com/ru/news/748804/?utm_campaign=748804&utm_source=habrahabr&utm_medium=rss)
 - [Spotify представила функцию общего управления громкостью в групповых сеансах](https://habr.com/ru/news/748790/?utm_campaign=748790&utm_source=habrahabr&utm_medium=rss)
-- [HP переводит часть производства ноутбуков из Китая в Мексику, Таиланд и Вьетнам](https://habr.com/ru/news/748756/?utm_campaign=748756&utm_source=habrahabr&utm_medium=rss)
-- [ЕС принял нормативы об оснащении смартфонов и портативных консолей съемными аккумуляторами](https://habr.com/ru/companies/dcmiran/news/748748/?utm_campaign=748748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
