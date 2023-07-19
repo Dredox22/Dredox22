@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Steam выпустили версию мода Portal: Prelude с поддержкой RTX](https://habr.com/ru/news/749014/?utm_campaign=749014&utm_source=habrahabr&utm_medium=rss)
 - [Meta¹ показала генеративную нейросеть CM3leon для работы с изображениями](https://habr.com/ru/news/748990/?utm_campaign=748990&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Stability AI: чат-боты и ИИ-системы вытеснят с рынка миллионы индийских кодеров на аутсорсе в течение 2 лет](https://habr.com/ru/news/749000/?utm_campaign=749000&utm_source=habrahabr&utm_medium=rss)
 - [RUVDS и Positive Technologies запустили CTF в космосе](https://habr.com/ru/companies/ruvds/news/748998/?utm_campaign=748998&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудникам Минпросвещения запрещено пользоваться техникой Apple в рабочих целях](https://habr.com/ru/news/748992/?utm_campaign=748992&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор опроверг данные о возможном введении лицензии на обработку данных](https://habr.com/ru/news/748980/?utm_campaign=748980&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
