@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотрудникам Минпросвещения запрещено пользоваться техникой Apple в рабочих целях](https://habr.com/ru/news/748992/?utm_campaign=748992&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор опроверг данные о возможном введении лицензии на обработку данных](https://habr.com/ru/news/748980/?utm_campaign=748980&utm_source=habrahabr&utm_medium=rss)
+- [Опубликован выпуск проекта LazyVim 5.0.0](https://habr.com/ru/news/748974/?utm_campaign=748974&utm_source=habrahabr&utm_medium=rss)
+- [Доступ к Microsoft 365 Copilot с ИИ будет стоить $30 на одного пользователя в месяц](https://habr.com/ru/news/748968/?utm_campaign=748968&utm_source=habrahabr&utm_medium=rss)
 - [Meta* представила открытую ИИ-модель LLaMA 2 совместно с Microsoft](https://habr.com/ru/news/748960/?utm_campaign=748960&utm_source=habrahabr&utm_medium=rss)
-- [По предложению FCC производители будут маркировать смарт-устройства для безопасности пользователей в США](https://habr.com/ru/news/748962/?utm_campaign=748962&utm_source=habrahabr&utm_medium=rss)
-- [Вышла СУБД MySQL 8.1.0](https://habr.com/ru/news/748956/?utm_campaign=748956&utm_source=habrahabr&utm_medium=rss)
-- [GitHub выявил атаку на отдельных сотрудников IT-компаний](https://habr.com/ru/news/748942/?utm_campaign=748942&utm_source=habrahabr&utm_medium=rss)
-- [Производством и поддержкой мини-компьютеров NUC вместо Intel займется ASUS](https://habr.com/ru/companies/dcmiran/news/748938/?utm_campaign=748938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
