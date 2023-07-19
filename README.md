@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Производством и поддержкой мини-компьютеров NUC вместо Intel займется ASUS](https://habr.com/ru/companies/dcmiran/news/748938/?utm_campaign=748938&utm_source=habrahabr&utm_medium=rss)
+- [Архитектура в облаках: надёжность, приватность, возможности и опасности](https://habr.com/ru/companies/southbridge/news/748772/?utm_campaign=748772&utm_source=habrahabr&utm_medium=rss)
+- [Google начала ограничивать некоторым сотрудникам доступ в интернет для снижения риска кибератак и утечек данных](https://habr.com/ru/news/748930/?utm_campaign=748930&utm_source=habrahabr&utm_medium=rss)
 - [ДИТ Москвы выпустил новое мобильное приложение «Мой ID» для хранения на смартфоне и предоставления основных документов](https://habr.com/ru/news/748926/?utm_campaign=748926&utm_source=habrahabr&utm_medium=rss)
 - [Проект AppleDB пополнили выпусками macOS начиная с Mac OS X Tiger 2005 года](https://habr.com/ru/news/748906/?utm_campaign=748906&utm_source=habrahabr&utm_medium=rss)
-- [Telegram выпустил облигации на сумму $270 млн, Дуров купил около четверти из них](https://habr.com/ru/news/748876/?utm_campaign=748876&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/748868/?utm_campaign=748868&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт обнаружил способ автоматической блокировки любого аккаунта WhatsApp по номеру телефона, сейчас этот баг закрыт](https://habr.com/ru/news/748862/?utm_campaign=748862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
