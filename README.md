@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«РТК-Солар»: Средний ущерб от кибератак у крупных компаний составляет около ₽20 млн](https://habr.com/ru/news/749104/?utm_campaign=749104&utm_source=habrahabr&utm_medium=rss)
 - [В VK Cloud появился инструмент защиты от DDoS-атак StormWall](https://habr.com/ru/news/749090/?utm_campaign=749090&utm_source=habrahabr&utm_medium=rss)
 - [Стартовала бесплатная летняя школа AIRI по искусственному интеллекту для молодых учёных](https://habr.com/ru/news/749088/?utm_campaign=749088&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: сотрудник VirusTotal случайно выложил в открытый доступ файл с данными 5600 корпоративных вип-клиентов](https://habr.com/ru/news/749068/?utm_campaign=749068&utm_source=habrahabr&utm_medium=rss)
 - [«Булат» выпустила первый монохромный принтер](https://habr.com/ru/news/749062/?utm_campaign=749062&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники стали массово генерировать фейковые фото банковских карт через чат-боты в Telegram](https://habr.com/ru/news/749042/?utm_campaign=749042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
