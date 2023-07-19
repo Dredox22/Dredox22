@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* представила открытую ИИ-модель LLaMA 2 совместно с Microsoft](https://habr.com/ru/news/748960/?utm_campaign=748960&utm_source=habrahabr&utm_medium=rss)
+- [По предложению FCC производители будут маркировать смарт-устройства для безопасности пользователей в США](https://habr.com/ru/news/748962/?utm_campaign=748962&utm_source=habrahabr&utm_medium=rss)
+- [Вышла СУБД MySQL 8.1.0](https://habr.com/ru/news/748956/?utm_campaign=748956&utm_source=habrahabr&utm_medium=rss)
+- [GitHub выявил атаку на отдельных сотрудников IT-компаний](https://habr.com/ru/news/748942/?utm_campaign=748942&utm_source=habrahabr&utm_medium=rss)
 - [Производством и поддержкой мини-компьютеров NUC вместо Intel займется ASUS](https://habr.com/ru/companies/dcmiran/news/748938/?utm_campaign=748938&utm_source=habrahabr&utm_medium=rss)
-- [Архитектура в облаках: надёжность, приватность, возможности и опасности](https://habr.com/ru/companies/southbridge/news/748772/?utm_campaign=748772&utm_source=habrahabr&utm_medium=rss)
-- [Google начала ограничивать некоторым сотрудникам доступ в интернет для снижения риска кибератак и утечек данных](https://habr.com/ru/news/748930/?utm_campaign=748930&utm_source=habrahabr&utm_medium=rss)
-- [ДИТ Москвы выпустил новое мобильное приложение «Мой ID» для хранения на смартфоне и предоставления основных документов](https://habr.com/ru/news/748926/?utm_campaign=748926&utm_source=habrahabr&utm_medium=rss)
-- [Проект AppleDB пополнили выпусками macOS начиная с Mac OS X Tiger 2005 года](https://habr.com/ru/news/748906/?utm_campaign=748906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
