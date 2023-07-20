@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla запустила производство суперкомпьютеров Dojo: компания хочет достичь производительности в 100 Эфлопс за 15 месяцев](https://habr.com/ru/news/749434/?utm_campaign=749434&utm_source=habrahabr&utm_medium=rss)
+- [NY Times: Google тестирует ИИ-инструмент для написания новостных статей](https://habr.com/ru/news/749428/?utm_campaign=749428&utm_source=habrahabr&utm_medium=rss)
+- [«Информтехника и Связь» и VideoMost представили мессенджер РОСЧАТ 4.3, включающий VideoMost 9.0](https://habr.com/ru/news/749424/?utm_campaign=749424&utm_source=habrahabr&utm_medium=rss)
 - [Межсерверное взаимодействие, архитектурные паттерны и Сага на Alfa Backend Stories Meetup #2](https://habr.com/ru/companies/alfa/news/749268/?utm_campaign=749268&utm_source=habrahabr&utm_medium=rss)
 - [Госдума и Минцифры РФ подготовили связанные с большими данными поправки в закон об их обезличивании](https://habr.com/ru/news/749406/?utm_campaign=749406&utm_source=habrahabr&utm_medium=rss)
-- [Activision Blizzard уволила 50 специалистов киберспортивного подразделения](https://habr.com/ru/news/749386/?utm_campaign=749386&utm_source=habrahabr&utm_medium=rss)
-- [«ИНТЕХРОС» разработала робота для работы в радиационно-грязной среде для РФЯЦ ВНИИТФ им. ак. Е. И. Забабахина](https://habr.com/ru/news/749382/?utm_campaign=749382&utm_source=habrahabr&utm_medium=rss)
-- [TSMC опоздает с запуском производства чипов 5 нм в США на год — первая фабрика в Аризоне будет готова к 2025 году](https://habr.com/ru/news/749374/?utm_campaign=749374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
