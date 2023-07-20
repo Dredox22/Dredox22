@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«ИНТЕХРОС» разработала робота для работы в радиационно-грязной среде для Рфяц Вниитф им. ак. Е. И. Забабахина](https://habr.com/ru/news/749382/?utm_campaign=749382&utm_source=habrahabr&utm_medium=rss)
+- [TSMC опоздает с запуском производства чипов 5 нм в США на год — первая фабрика в Аризоне будет готова к 2025 году](https://habr.com/ru/news/749374/?utm_campaign=749374&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор проверит информацию об утечке данных пользователей сети медицинских лабораторий «Хеликс»](https://habr.com/ru/news/749330/?utm_campaign=749330&utm_source=habrahabr&utm_medium=rss)
 - [Smart Engines обновила софт для распознавания документов](https://habr.com/ru/companies/smartengines/news/749304/?utm_campaign=749304&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Cython 3.0](https://habr.com/ru/news/749290/?utm_campaign=749290&utm_source=habrahabr&utm_medium=rss)
-- [Публикация Stories в Telegram на старте будет доступна только владельцам премиальной подписки](https://habr.com/ru/news/749256/?utm_campaign=749256&utm_source=habrahabr&utm_medium=rss)
-- [В сети заметили данные нового 12-ядерного мобильного Ryzen 8000](https://habr.com/ru/companies/dcmiran/news/749248/?utm_campaign=749248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
