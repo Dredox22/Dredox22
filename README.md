@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung разработала первый в мире чип памяти GDDR7 с пропускной способностью 32 Гбит/с](https://habr.com/ru/news/749200/?utm_campaign=749200&utm_source=habrahabr&utm_medium=rss)
+- [Revolute Robotics представила робота в сферическом каркасе. Он может ездить и летать](https://habr.com/ru/news/749198/?utm_campaign=749198&utm_source=habrahabr&utm_medium=rss)
 - [Слухи: Apple тестирует чат-бота Apple GPT на базе собственной платформы машинного обучения Ajax](https://habr.com/ru/news/749160/?utm_campaign=749160&utm_source=habrahabr&utm_medium=rss)
 - [Писатели потребовали у разработчиков ИИ не использовать их работы для обучения моделей без разрешения](https://habr.com/ru/news/749146/?utm_campaign=749146&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи смартфонов Google Pixel столкнулись с багом, из-за которого приложения вылетают сразу после их запуска](https://habr.com/ru/news/749144/?utm_campaign=749144&utm_source=habrahabr&utm_medium=rss)
-- [«РТК-Солар»: Средний ущерб от кибератак у крупных компаний составляет около ₽20 млн](https://habr.com/ru/news/749104/?utm_campaign=749104&utm_source=habrahabr&utm_medium=rss)
-- [В VK Cloud появился инструмент защиты от DDoS-атак StormWall](https://habr.com/ru/news/749090/?utm_campaign=749090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
