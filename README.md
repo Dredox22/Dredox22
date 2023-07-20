@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DLBI: в открытый доступ выложена база данных пользователей сети медицинских лабораторий «Хеликс»](https://habr.com/ru/news/749226/?utm_campaign=749226&utm_source=habrahabr&utm_medium=rss)
 - [Умер Кевин Митник](https://habr.com/ru/news/749214/?utm_campaign=749214&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Unity будут создавать игры для гарнитуры Apple Vision Pro](https://habr.com/ru/news/749210/?utm_campaign=749210&utm_source=habrahabr&utm_medium=rss)
 - [Стало официально доступно приложение Google Nearby Share для ПК с Windows](https://habr.com/ru/news/749202/?utm_campaign=749202&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи рассказали, что игра Pokémon Sleep записывает все их звуки во сне, включая храп, сопение, зевоту и газы](https://habr.com/ru/news/749204/?utm_campaign=749204&utm_source=habrahabr&utm_medium=rss)
-- [Samsung разработала первый в мире чип памяти GDDR7 с пропускной способностью 32 Гбит/с](https://habr.com/ru/news/749200/?utm_campaign=749200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
