@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Публикация Stories в Telegram на старте будет доступна только владельцам премиальной подписки](https://habr.com/ru/news/749256/?utm_campaign=749256&utm_source=habrahabr&utm_medium=rss)
+- [В сети заметили данные нового 12-ядерного мобильного Ryzen 8000](https://habr.com/ru/companies/dcmiran/news/749248/?utm_campaign=749248&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: в открытый доступ выложена база данных пользователей сети медицинских лабораторий «Хеликс»](https://habr.com/ru/news/749226/?utm_campaign=749226&utm_source=habrahabr&utm_medium=rss)
 - [Умер Кевин Митник](https://habr.com/ru/news/749214/?utm_campaign=749214&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Unity будут создавать игры для гарнитуры Apple Vision Pro](https://habr.com/ru/news/749210/?utm_campaign=749210&utm_source=habrahabr&utm_medium=rss)
-- [Стало официально доступно приложение Google Nearby Share для ПК с Windows](https://habr.com/ru/news/749202/?utm_campaign=749202&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи рассказали, что игра Pokémon Sleep записывает все их звуки во сне, включая храп, сопение, зевоту и газы](https://habr.com/ru/news/749204/?utm_campaign=749204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
