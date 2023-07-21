@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик с помощью ChatGPT создал ИИ-версию «Ветров зимы» и «Грёз о весне» Джорджа Мартина](https://habr.com/ru/news/749516/?utm_campaign=749516&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил курс «Разработчик 1С»](https://habr.com/ru/companies/yandex_praktikum/news/749154/?utm_campaign=749154&utm_source=habrahabr&utm_medium=rss)
 - [Портал IXBT.GAMES объявляет о проведении игрового шоу в конце августа для разработчиков игр](https://habr.com/ru/news/749494/?utm_campaign=749494&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры выводит из эксплуатации свыше 15 тыс. интерактивных форм на «Госуслугах» из-за их нецелесообразности](https://habr.com/ru/news/749492/?utm_campaign=749492&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram появились истории](https://habr.com/ru/news/749476/?utm_campaign=749476&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies изучила специфику кибератак на Ближнем Востоке](https://habr.com/ru/news/749454/?utm_campaign=749454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
