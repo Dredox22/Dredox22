@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь AirTag нашёл при помощи метки свой дорогостоящий багаж в аэропорту](https://habr.com/ru/news/749626/?utm_campaign=749626&utm_source=habrahabr&utm_medium=rss)
 - [Проект Human Shader почти закончил работу](https://habr.com/ru/news/749610/?utm_campaign=749610&utm_source=habrahabr&utm_medium=rss)
 - [Прокуратура запросила 18 лет колонии за госизмену для основателя Group-IB Сачкова, его защита настаивала на оправдании](https://habr.com/ru/news/749594/?utm_campaign=749594&utm_source=habrahabr&utm_medium=rss)
 - [PC Gamer: в открытый доступ попали личные данные четырёх тысяч разработчиков Roblox в период с 2017 по 2020 год](https://habr.com/ru/news/749592/?utm_campaign=749592&utm_source=habrahabr&utm_medium=rss)
 - [В VirusTotal пояснили, как именно произошла случайная утечка файла с данными 5600 корпоративных вип-клиентов сервиса](https://habr.com/ru/news/749586/?utm_campaign=749586&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» выпустила решение по ИБ для контейнерных платформ типа Kubernetes и OpenShift](https://habr.com/ru/news/749578/?utm_campaign=749578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
