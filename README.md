@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Портал IXBT.GAMES объявляет о проведении игрового шоу в конце августа для разработчиков игр](https://habr.com/ru/news/749494/?utm_campaign=749494&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры выводит из эксплуатации свыше 15 тыс. интерактивных форм на «Госуслугах» из-за их нецелесообразности](https://habr.com/ru/news/749492/?utm_campaign=749492&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram появились истории](https://habr.com/ru/news/749476/?utm_campaign=749476&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies изучила специфику кибератак на Ближнем Востоке](https://habr.com/ru/news/749454/?utm_campaign=749454&utm_source=habrahabr&utm_medium=rss)
 - [Tesla запустила производство суперкомпьютеров Dojo: компания хочет достичь производительности в 100 Эфлопс за 15 месяцев](https://habr.com/ru/news/749434/?utm_campaign=749434&utm_source=habrahabr&utm_medium=rss)
-- [NY Times: Google тестирует ИИ-инструмент для написания новостных статей](https://habr.com/ru/news/749428/?utm_campaign=749428&utm_source=habrahabr&utm_medium=rss)
-- [«Информтехника и Связь» и VideoMost представили мессенджер РОСЧАТ 4.3, включающий VideoMost 9.0](https://habr.com/ru/news/749424/?utm_campaign=749424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
