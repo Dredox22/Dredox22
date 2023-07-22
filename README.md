@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бета-версия GitHub Copilot X стала доступна корпоративным пользователям](https://habr.com/ru/news/749690/?utm_campaign=749690&utm_source=habrahabr&utm_medium=rss)
+- [Экспортные ограничения Китая подрывают полупроводниковую промышленность США](https://habr.com/ru/companies/dcmiran/news/749692/?utm_campaign=749692&utm_source=habrahabr&utm_medium=rss)
+- [Google: сотрудник Apple нашёл уязвимость нулевого дня в Chrome и не сообщил о ней](https://habr.com/ru/news/749684/?utm_campaign=749684&utm_source=habrahabr&utm_medium=rss)
 - [Linux Foundation создала консорциум Ultra Ethernet для ИИ с Cisco, Microsoft, AMD и другими](https://habr.com/ru/news/749678/?utm_campaign=749678&utm_source=habrahabr&utm_medium=rss)
 - [Немецкая компания подала жалобу на Microsoft из-за Teams](https://habr.com/ru/news/749674/?utm_campaign=749674&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI объявила о скором выпуске официального приложения ChatGPT для Android](https://habr.com/ru/news/749672/?utm_campaign=749672&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудникам Федеральной таможенной службы РФ запрещено пользоваться техникой Apple в рабочих целях](https://habr.com/ru/news/749654/?utm_campaign=749654&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь AirTag нашёл при помощи метки свой дорогостоящий багаж в аэропорту](https://habr.com/ru/news/749626/?utm_campaign=749626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
