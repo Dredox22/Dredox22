@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Foundation создала консорциум Ultra Ethernet для ИИ с Cisco, Microsoft, AMD и другими](https://habr.com/ru/news/749678/?utm_campaign=749678&utm_source=habrahabr&utm_medium=rss)
 - [Немецкая компания подала жалобу на Microsoft из-за Teams](https://habr.com/ru/news/749674/?utm_campaign=749674&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI объявила о скором выпуске официального приложения ChatGPT для Android](https://habr.com/ru/news/749672/?utm_campaign=749672&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудникам Федеральной таможенной службы РФ запрещено пользоваться техникой Apple в рабочих целях](https://habr.com/ru/news/749654/?utm_campaign=749654&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь AirTag нашёл при помощи метки свой дорогостоящий багаж в аэропорту](https://habr.com/ru/news/749626/?utm_campaign=749626&utm_source=habrahabr&utm_medium=rss)
-- [Проект Human Shader почти закончил работу](https://habr.com/ru/news/749610/?utm_campaign=749610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
