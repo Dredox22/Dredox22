@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст разогнал Nintendo Switch и запустил на консоли GTA V, Titanfall 2 и God of War из Steam](https://habr.com/ru/news/749760/?utm_campaign=749760&utm_source=habrahabr&utm_medium=rss)
 - [Apple готовится к выпуску комплектов для разработчиков приложений Vision Pro](https://habr.com/ru/news/749712/?utm_campaign=749712&utm_source=habrahabr&utm_medium=rss)
 - [Бета-версия GitHub Copilot X стала доступна корпоративным пользователям](https://habr.com/ru/news/749690/?utm_campaign=749690&utm_source=habrahabr&utm_medium=rss)
 - [Экспортные ограничения Китая подрывают полупроводниковую промышленность США](https://habr.com/ru/companies/dcmiran/news/749692/?utm_campaign=749692&utm_source=habrahabr&utm_medium=rss)
 - [Google: сотрудник Apple нашёл уязвимость нулевого дня в Chrome и не сообщил о ней](https://habr.com/ru/news/749684/?utm_campaign=749684&utm_source=habrahabr&utm_medium=rss)
-- [Linux Foundation создала консорциум Ultra Ethernet для ИИ с Cisco, Microsoft, AMD и другими](https://habr.com/ru/news/749678/?utm_campaign=749678&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
