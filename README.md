@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Центральный банк РФ рассказал о росте финансовых пирамид, маскирующихся под онлайн-игры](https://habr.com/ru/news/749944/?utm_campaign=749944&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Go» появилась оплата через СБП](https://habr.com/ru/news/749926/?utm_campaign=749926&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи задействовали ML для неинвазивного поиска биомаркеров клинической депрессии](https://habr.com/ru/news/749914/?utm_campaign=749914&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разрешила сторонним разработчикам выпускать расширения для боковой панели Edge](https://habr.com/ru/news/749910/?utm_campaign=749910&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст с помощью Raspberry Pi Zero 2 W запустил плеер YouTube на 40-летнем Commodore PET 600](https://habr.com/ru/news/749822/?utm_campaign=749822&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 23H2 появится больше опций контроля энергопотребления](https://habr.com/ru/news/749812/?utm_campaign=749812&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI, Google и ещё пять крупных IT-компаний согласились ввести водяные знаки для контента, созданного ИИ](https://habr.com/ru/news/749804/?utm_campaign=749804&utm_source=habrahabr&utm_medium=rss)
-- [TSMC рассказала о планах по строительству заводов в Германии и Китае](https://habr.com/ru/news/749798/?utm_campaign=749798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
