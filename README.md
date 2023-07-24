@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сэм Альтман запустил криптопроект Worldcoin с биометрией](https://habr.com/ru/news/749968/?utm_campaign=749968&utm_source=habrahabr&utm_medium=rss)
-- [Meta* отменила разработку Quest Pro 2](https://habr.com/ru/news/749962/?utm_campaign=749962&utm_source=habrahabr&utm_medium=rss)
-- [Центральный банк РФ рассказал о росте финансовых пирамид, маскирующихся под онлайн-игры](https://habr.com/ru/news/749944/?utm_campaign=749944&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Go» появилась оплата через СБП](https://habr.com/ru/news/749926/?utm_campaign=749926&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи задействовали ML для неинвазивного поиска биомаркеров клинической депрессии](https://habr.com/ru/news/749914/?utm_campaign=749914&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Практикум запустил новый курс «Автоматизатор тестирования на Python»](https://habr.com/ru/companies/yandex_praktikum/news/750006/?utm_campaign=750006&utm_source=habrahabr&utm_medium=rss)
+- [Bloomberg: для разработчиков игр стало проблемой отсутствие у гарнитуры Apple Vision Pro манипуляторов](https://habr.com/ru/news/750004/?utm_campaign=750004&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия редактора векторной графики Inkscape 1.3](https://habr.com/ru/news/749994/?utm_campaign=749994&utm_source=habrahabr&utm_medium=rss)
+- [VK Мессенджер представил портрет аудитории видеосообщений](https://habr.com/ru/news/749988/?utm_campaign=749988&utm_source=habrahabr&utm_medium=rss)
+- [Минобороны США перейдёт на новый суперкомпьютер Blueback](https://habr.com/ru/news/749984/?utm_campaign=749984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
