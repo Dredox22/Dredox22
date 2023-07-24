@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Покажи мне свой гитхаб](https://habr.com/ru/news/749876/?utm_campaign=749876&utm_source=habrahabr&utm_medium=rss)
+- [Покажи мне свой гитхаб](https://habr.com/ru/articles/749876/?utm_campaign=749876&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст с помощью Raspberry Pi Zero 2 W запустил плеер YouTube на 40-летнем Commodore PET 600](https://habr.com/ru/news/749822/?utm_campaign=749822&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 23H2 появится больше опций контроля энергопотребления](https://habr.com/ru/news/749812/?utm_campaign=749812&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI, Google и ещё пять крупных IT-компаний согласились ввести водяные знаки для контента, созданного ИИ](https://habr.com/ru/news/749804/?utm_campaign=749804&utm_source=habrahabr&utm_medium=rss)
