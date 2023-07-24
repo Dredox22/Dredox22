@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Найдена уязвимость в радиостанциях со стандартом TETRA, используемых полицией, экстренной помощью и другими службами](https://habr.com/ru/news/750058/?utm_campaign=750058&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/750054/?utm_campaign=750054&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст собрал «безопасный» отпугиватель птиц на базе Raspberry Pi](https://habr.com/ru/news/750044/?utm_campaign=750044&utm_source=habrahabr&utm_medium=rss)
 - [ASUS начнет выпускать RTX 4070 без коннекторов внешнего питания, но есть нюанс](https://habr.com/ru/companies/dcmiran/news/750032/?utm_campaign=750032&utm_source=habrahabr&utm_medium=rss)
 - [RuVDS и Positive Technologies огласили завершение и победителей CTF‑хаквеста, проводимого в космосе](https://habr.com/ru/news/750018/?utm_campaign=750018&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум запустил новый курс «Автоматизатор тестирования на Python»](https://habr.com/ru/companies/yandex_praktikum/news/750006/?utm_campaign=750006&utm_source=habrahabr&utm_medium=rss)
-- [Bloomberg: для разработчиков игр стало проблемой отсутствие у гарнитуры Apple Vision Pro манипуляторов](https://habr.com/ru/news/750004/?utm_campaign=750004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
