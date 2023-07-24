@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман запустил криптопроект Worldcoin с биометрией](https://habr.com/ru/news/749968/?utm_campaign=749968&utm_source=habrahabr&utm_medium=rss)
+- [Meta* отменила разработку Quest Pro 2](https://habr.com/ru/news/749962/?utm_campaign=749962&utm_source=habrahabr&utm_medium=rss)
 - [Центральный банк РФ рассказал о росте финансовых пирамид, маскирующихся под онлайн-игры](https://habr.com/ru/news/749944/?utm_campaign=749944&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Go» появилась оплата через СБП](https://habr.com/ru/news/749926/?utm_campaign=749926&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи задействовали ML для неинвазивного поиска биомаркеров клинической депрессии](https://habr.com/ru/news/749914/?utm_campaign=749914&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешила сторонним разработчикам выпускать расширения для боковой панели Edge](https://habr.com/ru/news/749910/?utm_campaign=749910&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст с помощью Raspberry Pi Zero 2 W запустил плеер YouTube на 40-летнем Commodore PET 600](https://habr.com/ru/news/749822/?utm_campaign=749822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
