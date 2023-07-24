@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики могут оформить заявку на комплект Apple Vision Pro DevKit](https://habr.com/ru/news/750102/?utm_campaign=750102&utm_source=habrahabr&utm_medium=rss)
 - [У Flipper Zero появился магазин расширений](https://habr.com/ru/news/750098/?utm_campaign=750098&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Bing от Microsoft стал доступен в Chrome и Safari](https://habr.com/ru/news/750092/?utm_campaign=750092&utm_source=habrahabr&utm_medium=rss)
 - [Google создала Red Team, которая будет специализироваться на атаках на системы ИИ](https://habr.com/ru/news/750076/?utm_campaign=750076&utm_source=habrahabr&utm_medium=rss)
 - [Найдена уязвимость в радиостанциях со стандартом TETRA, используемых полицией, экстренной помощью и другими службами](https://habr.com/ru/news/750058/?utm_campaign=750058&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/750054/?utm_campaign=750054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
