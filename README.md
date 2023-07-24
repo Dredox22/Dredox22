@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ASUS начнет выпускать RTX 4070 без коннекторов внешнего питания, но есть нюанс](https://habr.com/ru/companies/dcmiran/news/750032/?utm_campaign=750032&utm_source=habrahabr&utm_medium=rss)
 - [RuVDS и Positive Technologies огласили завершение и победителей CTF‑хаквеста, проводимого в космосе](https://habr.com/ru/news/750018/?utm_campaign=750018&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил новый курс «Автоматизатор тестирования на Python»](https://habr.com/ru/companies/yandex_praktikum/news/750006/?utm_campaign=750006&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg: для разработчиков игр стало проблемой отсутствие у гарнитуры Apple Vision Pro манипуляторов](https://habr.com/ru/news/750004/?utm_campaign=750004&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия редактора векторной графики Inkscape 1.3](https://habr.com/ru/news/749994/?utm_campaign=749994&utm_source=habrahabr&utm_medium=rss)
-- [VK Мессенджер представил портрет аудитории видеосообщений](https://habr.com/ru/news/749988/?utm_campaign=749988&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
