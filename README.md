@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В мобильном «Яндекс Браузере» появились новые функции для iOS и Android](https://habr.com/ru/news/750184/?utm_campaign=750184&utm_source=habrahabr&utm_medium=rss)
+- [Google Play перестанет поддерживать Android 4.4 KitKat](https://habr.com/ru/companies/broadcast/news/750182/?utm_campaign=750182&utm_source=habrahabr&utm_medium=rss)
+- [RuStore открыл монетизацию приложений для иностранных разработчиков](https://habr.com/ru/news/750180/?utm_campaign=750180&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» внедрил быстрый доступ в веб-версию «СберБанк Онлайн» со смартфона с помощью PWA и WebAuthn](https://habr.com/ru/news/750172/?utm_campaign=750172&utm_source=habrahabr&utm_medium=rss)
 - [Эксплоит в процессорах AMD Zen2 позволяет определять содержимое регистров](https://habr.com/ru/companies/dcmiran/news/750152/?utm_campaign=750152&utm_source=habrahabr&utm_medium=rss)
-- [Произошёл сбой в работе сервисов Microsoft Sharepoint и OneDrive из-за использования неправильного TLS-сертификата](https://habr.com/ru/news/750134/?utm_campaign=750134&utm_source=habrahabr&utm_medium=rss)
-- [GitHub выпустил правила для защиты веток и согласованности кода в репозиториях](https://habr.com/ru/news/750132/?utm_campaign=750132&utm_source=habrahabr&utm_medium=rss)
-- [Немецкое правительство планирует выделить €20 млрд на расширение производства полупроводниковых решений и чипов в стране](https://habr.com/ru/news/750130/?utm_campaign=750130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
