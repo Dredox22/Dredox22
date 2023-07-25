@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксплоит в процессорах AMD Zen2 позволяет определять содержимое регистров](https://habr.com/ru/companies/dcmiran/news/750152/?utm_campaign=750152&utm_source=habrahabr&utm_medium=rss)
 - [Произошёл сбой в работе сервисов Microsoft Sharepoint и OneDrive из-за использования неправильного TLS-сертификата](https://habr.com/ru/news/750134/?utm_campaign=750134&utm_source=habrahabr&utm_medium=rss)
 - [GitHub выпустил правила для защиты веток и согласованности кода в репозиториях](https://habr.com/ru/news/750132/?utm_campaign=750132&utm_source=habrahabr&utm_medium=rss)
 - [Немецкое правительство планирует выделить €20 млрд на расширение производства полупроводниковых решений и чипов в стране](https://habr.com/ru/news/750130/?utm_campaign=750130&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратит поддержку сервисов для Android KitKat](https://habr.com/ru/news/750120/?utm_campaign=750120&utm_source=habrahabr&utm_medium=rss)
-- [С декабря 2023 года в рунете планируется ограничить регистрацию аккаунтов с иностранной электронной почтой](https://habr.com/ru/news/750116/?utm_campaign=750116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
