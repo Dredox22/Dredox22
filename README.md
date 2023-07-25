@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Немецкое правительство планирует выделить €20 млрд на расширение производства полупроводниковых решений и чипов в стране](https://habr.com/ru/news/750130/?utm_campaign=750130&utm_source=habrahabr&utm_medium=rss)
+- [Google прекратит поддержку сервисов для Android KitKat](https://habr.com/ru/news/750120/?utm_campaign=750120&utm_source=habrahabr&utm_medium=rss)
+- [С декабря 2023 года в рунете планируется ограничить регистрацию аккаунтов с иностранной электронной почтой](https://habr.com/ru/news/750116/?utm_campaign=750116&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики могут оформить заявку на комплект Apple Vision Pro DevKit](https://habr.com/ru/news/750102/?utm_campaign=750102&utm_source=habrahabr&utm_medium=rss)
 - [У Flipper Zero появился магазин расширений](https://habr.com/ru/news/750098/?utm_campaign=750098&utm_source=habrahabr&utm_medium=rss)
-- [Чат-бот Bing от Microsoft стал доступен в Chrome и Safari](https://habr.com/ru/news/750092/?utm_campaign=750092&utm_source=habrahabr&utm_medium=rss)
-- [Google создала Red Team, которая будет специализироваться на атаках на системы ИИ](https://habr.com/ru/news/750076/?utm_campaign=750076&utm_source=habrahabr&utm_medium=rss)
-- [Найдена уязвимость в радиостанциях со стандартом TETRA, используемых полицией, экстренной помощью и другими службами](https://habr.com/ru/news/750058/?utm_campaign=750058&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
