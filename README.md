@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft работает над улучшением виртуальных рабочих столов в Windows 11](https://habr.com/ru/news/750260/?utm_campaign=750260&utm_source=habrahabr&utm_medium=rss)
 - [Arduino представила плату Uno R4 — обновление классической платформы](https://habr.com/ru/news/750242/?utm_campaign=750242&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE: общее количество фишинговых писем выросло в 2,5 раза с начала года](https://habr.com/ru/news/750234/?utm_campaign=750234&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор сообщил о росте утечек данных в четыре раза в первом полугодии](https://habr.com/ru/news/750224/?utm_campaign=750224&utm_source=habrahabr&utm_medium=rss)
 - [Спутник, биткоины, два победителя. Итоги первого в мире космического CTF](https://habr.com/ru/companies/ruvds/news/750218/?utm_campaign=750218&utm_source=habrahabr&utm_medium=rss)
-- [Хакерские атаки на голосовых помощников: что грозит вашему устройству](https://habr.com/ru/news/750154/?utm_campaign=750154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
