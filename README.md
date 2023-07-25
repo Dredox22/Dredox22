@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple исправила в новом Mac Pro с M2 Ultra баг в macOS, связанный с отключением дисков SATA при выходе из спящего режима](https://habr.com/ru/news/750308/?utm_campaign=750308&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Arc вышел из бета-теста и стал доступен всем пользователям](https://habr.com/ru/news/750290/?utm_campaign=750290&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный марафон для разработчиков игр ПрактикON стартовал](https://habr.com/ru/news/750282/?utm_campaign=750282&utm_source=habrahabr&utm_medium=rss)
 - [UDV Group представила первый в России межсетевой экран на архитектуре RISC-V](https://habr.com/ru/news/750280/?utm_campaign=750280&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над улучшением виртуальных рабочих столов в Windows 11](https://habr.com/ru/news/750260/?utm_campaign=750260&utm_source=habrahabr&utm_medium=rss)
-- [Arduino представила плату Uno R4 — обновление классической платформы](https://habr.com/ru/news/750242/?utm_campaign=750242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
