@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Браузер Arc вышел из бета-теста и стал доступен всем пользователям](https://habr.com/ru/news/750290/?utm_campaign=750290&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный марафон для разработчиков игр ПрактикON стартовал](https://habr.com/ru/news/750282/?utm_campaign=750282&utm_source=habrahabr&utm_medium=rss)
 - [UDV Group представила первый в России межсетевой экран на архитектуре RISC-V](https://habr.com/ru/news/750280/?utm_campaign=750280&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над улучшением виртуальных рабочих столов в Windows 11](https://habr.com/ru/news/750260/?utm_campaign=750260&utm_source=habrahabr&utm_medium=rss)
 - [Arduino представила плату Uno R4 — обновление классической платформы](https://habr.com/ru/news/750242/?utm_campaign=750242&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE: общее количество фишинговых писем выросло в 2,5 раза с начала года](https://habr.com/ru/news/750234/?utm_campaign=750234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
