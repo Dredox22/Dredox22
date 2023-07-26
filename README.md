@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила обновлённый Play Store для больших экранов](https://habr.com/ru/news/750548/?utm_campaign=750548&utm_source=habrahabr&utm_medium=rss)
+- [Госдума приняла закон о запрете регистрироваться на сайтах рунета с иностранной электронной почты](https://habr.com/ru/news/750536/?utm_campaign=750536&utm_source=habrahabr&utm_medium=rss)
+- [Apple работает над игровым режимом в iOS и iPadOS](https://habr.com/ru/news/750532/?utm_campaign=750532&utm_source=habrahabr&utm_medium=rss)
 - [Найди новую работу за 2 дня](https://habr.com/ru/companies/billing/news/750528/?utm_campaign=750528&utm_source=habrahabr&utm_medium=rss)
 - [На Госуслугах стартовал приём на бесплатные курсы программирования для школьников и студентов колледжей](https://habr.com/ru/news/750524/?utm_campaign=750524&utm_source=habrahabr&utm_medium=rss)
-- [Apple анонсировала встречи с экспертами в лабораториях Vision Pro](https://habr.com/ru/news/750516/?utm_campaign=750516&utm_source=habrahabr&utm_medium=rss)
-- [Основателя компании Group-IB Илью Сачкова приговорили к 14 годам лишения свободы, суд признал его виновным в госизмене](https://habr.com/ru/news/750514/?utm_campaign=750514&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Network Security Toolkit 38](https://habr.com/ru/news/750490/?utm_campaign=750490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
