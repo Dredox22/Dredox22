@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала продвигать API Web Integrity, который работает по аналогии с DRM](https://habr.com/ru/news/750368/?utm_campaign=750368&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи QIWI сообщили, что смогли вывести деньги через сервисы ЮMoney](https://habr.com/ru/news/750364/?utm_campaign=750364&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI закрыла ИИ-детектор из-за «низкой точности»](https://habr.com/ru/news/750362/?utm_campaign=750362&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: пользователям, зарегистрированным в рунете с иностранной почты до конца 2023 года, оставят доступ к ресурсам](https://habr.com/ru/news/750324/?utm_campaign=750324&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из MIT представили технологию PhotoGuard для защиты изображений от использования нейросетями](https://habr.com/ru/news/750316/?utm_campaign=750316&utm_source=habrahabr&utm_medium=rss)
-- [Apple исправила в новом Mac Pro с M2 Ultra баг в macOS, связанный с отключением дисков SATA при выходе из спящего режима](https://habr.com/ru/news/750308/?utm_campaign=750308&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Arc вышел из бета-теста и стал доступен всем пользователям](https://habr.com/ru/news/750290/?utm_campaign=750290&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный марафон для разработчиков игр ПрактикON стартовал](https://habr.com/ru/news/750282/?utm_campaign=750282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
