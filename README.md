@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Software 2.0: новый инструмент для разработки в МТС, который поможет экономить до 4 млрд рублей ежегодно](https://habr.com/ru/companies/ru_mts/news/750568/?utm_campaign=750568&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила официальное приложение ChatGPT для Android](https://habr.com/ru/news/750564/?utm_campaign=750564&utm_source=habrahabr&utm_medium=rss)
 - [Google представила обновлённый Play Store для больших экранов](https://habr.com/ru/news/750548/?utm_campaign=750548&utm_source=habrahabr&utm_medium=rss)
 - [Госдума приняла закон о запрете регистрироваться на сайтах рунета с иностранной электронной почты](https://habr.com/ru/news/750536/?utm_campaign=750536&utm_source=habrahabr&utm_medium=rss)
 - [Apple работает над игровым режимом в iOS и iPadOS](https://habr.com/ru/news/750532/?utm_campaign=750532&utm_source=habrahabr&utm_medium=rss)
-- [Найди новую работу за 2 дня](https://habr.com/ru/companies/billing/news/750528/?utm_campaign=750528&utm_source=habrahabr&utm_medium=rss)
-- [На Госуслугах стартовал приём на бесплатные курсы программирования для школьников и студентов колледжей](https://habr.com/ru/news/750524/?utm_campaign=750524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
