@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Chrome тестируют предварительный просмотр ссылок при наведении курсора](https://habr.com/ru/news/750382/?utm_campaign=750382&utm_source=habrahabr&utm_medium=rss)
+- [МТС внедряет в разработку сервисов и продуктов собственную нейросеть Sofware 2.0](https://habr.com/ru/news/750374/?utm_campaign=750374&utm_source=habrahabr&utm_medium=rss)
+- [Intel повысит цены на все свои процессоры](https://habr.com/ru/news/750372/?utm_campaign=750372&utm_source=habrahabr&utm_medium=rss)
 - [Google начала продвигать API Web Integrity, который работает по аналогии с DRM](https://habr.com/ru/news/750368/?utm_campaign=750368&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи QIWI сообщили, что смогли вывести деньги через сервисы ЮMoney](https://habr.com/ru/news/750364/?utm_campaign=750364&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI закрыла ИИ-детектор из-за «низкой точности»](https://habr.com/ru/news/750362/?utm_campaign=750362&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: пользователям, зарегистрированным в рунете с иностранной почты до конца 2023 года, оставят доступ к ресурсам](https://habr.com/ru/news/750324/?utm_campaign=750324&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из MIT представили технологию PhotoGuard для защиты изображений от использования нейросетями](https://habr.com/ru/news/750316/?utm_campaign=750316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
