@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Network Security Toolkit 38](https://habr.com/ru/news/750490/?utm_campaign=750490&utm_source=habrahabr&utm_medium=rss)
 - [Казахстанский Минцифры призвал экономить мобильный интернет](https://habr.com/ru/news/750402/?utm_campaign=750402&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предложила временное решение для бага с медленным сохранением по локальной сети через Outlook Desktop](https://habr.com/ru/news/750390/?utm_campaign=750390&utm_source=habrahabr&utm_medium=rss)
 - [В Google Chrome тестируют предварительный просмотр ссылок при наведении курсора](https://habr.com/ru/news/750382/?utm_campaign=750382&utm_source=habrahabr&utm_medium=rss)
 - [МТС внедряет в разработку сервисов и продуктов собственную нейросеть Sofware 2.0](https://habr.com/ru/news/750374/?utm_campaign=750374&utm_source=habrahabr&utm_medium=rss)
-- [Intel повысит цены на все свои процессоры](https://habr.com/ru/news/750372/?utm_campaign=750372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
