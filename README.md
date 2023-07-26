@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple в iOS 16.6 закрыла найденные экспертами «Лаборатории Касперского» критические уязвимости](https://habr.com/ru/news/750634/?utm_campaign=750634&utm_source=habrahabr&utm_medium=rss)
 - [На фоне забастовки сценаристов и актёров Netflix открывает связанные с ИИ вакансии с зарплатой до $900 тыс. в год](https://habr.com/ru/news/750626/?utm_campaign=750626&utm_source=habrahabr&utm_medium=rss)
 - [Критический баг с возможностью повышения привилегий до «Суперадмина» ставит под угрозу 926 тыс. устройств MikroTik](https://habr.com/ru/news/750608/?utm_campaign=750608&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг заказал исследования для запуска в РФ производства химических материалов для микроэлектронной промышленности](https://habr.com/ru/news/750598/?utm_campaign=750598&utm_source=habrahabr&utm_medium=rss)
 - [Инди-разработчик Рами Исмаил опубликовал шаблон питча проектов инвесторам и издателям](https://habr.com/ru/news/750594/?utm_campaign=750594&utm_source=habrahabr&utm_medium=rss)
-- [Software 2.0: новый инструмент для разработки в МТС, который поможет экономить до 4 млрд рублей ежегодно](https://habr.com/ru/companies/ru_mts/news/750568/?utm_campaign=750568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
