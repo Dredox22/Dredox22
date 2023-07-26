@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Критический баг с возможностью повышения привилегий до «Суперадмина» ставит под угрозу 926 тыс. устройств MikroTik](https://habr.com/ru/news/750608/?utm_campaign=750608&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг заказал исследования для запуска в РФ производства химических материалов для микроэлектронной промышленности](https://habr.com/ru/news/750598/?utm_campaign=750598&utm_source=habrahabr&utm_medium=rss)
 - [Инди-разработчик Рами Исмаил опубликовал шаблон питча проектов инвесторам и издателям](https://habr.com/ru/news/750594/?utm_campaign=750594&utm_source=habrahabr&utm_medium=rss)
 - [Software 2.0: новый инструмент для разработки в МТС, который поможет экономить до 4 млрд рублей ежегодно](https://habr.com/ru/companies/ru_mts/news/750568/?utm_campaign=750568&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила официальное приложение ChatGPT для Android](https://habr.com/ru/news/750564/?utm_campaign=750564&utm_source=habrahabr&utm_medium=rss)
-- [Google представила обновлённый Play Store для больших экранов](https://habr.com/ru/news/750548/?utm_campaign=750548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
