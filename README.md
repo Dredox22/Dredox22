@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«ВКонтакте» выпустила отдельное приложение «VK Знакомства» на iOS](https://habr.com/ru/news/750848/?utm_campaign=750848&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость CVE-2023-22018 позволяет выполнить произвольный код в Oracle VirtualBox, устранено в версиях 7.0.10 и 6.1.46](https://habr.com/ru/news/750842/?utm_campaign=750842&utm_source=habrahabr&utm_medium=rss)
+- [В «Тинькофф» появилась опция пополнения кошелька в Steam с комиссией около 9%](https://habr.com/ru/news/750836/?utm_campaign=750836&utm_source=habrahabr&utm_medium=rss)
 - [HighLoad++ Award 2023 — победитель получает признание сообщества](https://habr.com/ru/companies/oleg-bunin/news/750834/?utm_campaign=750834&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор и Генпрокуратуру попросили проверить сервис «Глаз Бога»](https://habr.com/ru/news/750824/?utm_campaign=750824&utm_source=habrahabr&utm_medium=rss)
-- [В QIWI заявили, что не уверены в возможности вернуть вывод средств и снятие наличных](https://habr.com/ru/news/750812/?utm_campaign=750812&utm_source=habrahabr&utm_medium=rss)
-- [Антимонопольные регуляторы одобрили сделку по покупке Sega студии Rovio Entertainment](https://habr.com/ru/news/750792/?utm_campaign=750792&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Tinkerstellar для обучения Python на iPad получило поддержку iPhone](https://habr.com/ru/news/750782/?utm_campaign=750782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
