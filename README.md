@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Антимонопольные регуляторы одобрили сделку по покупке Sega студии Rovio Entertainment](https://habr.com/ru/news/750792/?utm_campaign=750792&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Tinkerstellar для обучения Python на iPad получило поддержку iPhone](https://habr.com/ru/news/750782/?utm_campaign=750782&utm_source=habrahabr&utm_medium=rss)
 - [Blizzard объявила, что будет банить геймеров за использование модов в Diablo IV](https://habr.com/ru/news/750776/?utm_campaign=750776&utm_source=habrahabr&utm_medium=rss)
+- [Открыт предзаказ на печатный спецвыпуск журнала «Хакер»](https://habr.com/ru/companies/xakep/news/750768/?utm_campaign=750768&utm_source=habrahabr&utm_medium=rss)
 - [Релиз visionOS beta 2: обновление FaceTime и Optic ID](https://habr.com/ru/news/750766/?utm_campaign=750766&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила производство Surface Duo 2](https://habr.com/ru/news/750752/?utm_campaign=750752&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры и комитет по информполитике Госдумы не могут договориться о компенсациях за утечки данных](https://habr.com/ru/news/750748/?utm_campaign=750748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
