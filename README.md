@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Tinkerstellar для обучения Python на iPad получило поддержку iPhone](https://habr.com/ru/news/750782/?utm_campaign=750782&utm_source=habrahabr&utm_medium=rss)
+- [Blizzard объявила, что будет банить геймеров за использование модов в Diablo IV](https://habr.com/ru/news/750776/?utm_campaign=750776&utm_source=habrahabr&utm_medium=rss)
+- [Релиз visionOS beta 2: обновление FaceTime и Optic ID](https://habr.com/ru/news/750766/?utm_campaign=750766&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила производство Surface Duo 2](https://habr.com/ru/news/750752/?utm_campaign=750752&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры и комитет по информполитике Госдумы не могут договориться о компенсациях за утечки данных](https://habr.com/ru/news/750748/?utm_campaign=750748&utm_source=habrahabr&utm_medium=rss)
-- [Шахматный робот на базе Raspberry Pi Pico обманывает и оскорбляет игроков с помощью ChatGPT](https://habr.com/ru/news/750722/?utm_campaign=750722&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft проведёт 2 августа конференцию Windows Insider Bug Bash для участников программы Windows Insider](https://habr.com/ru/news/750710/?utm_campaign=750710&utm_source=habrahabr&utm_medium=rss)
-- [GitHub и другие призвали к большей поддержке open source в законе ЕС об ИИ](https://habr.com/ru/news/750700/?utm_campaign=750700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
