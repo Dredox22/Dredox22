@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Photoshop beta добавили ИИ-функцию Generative Expand для генерации расширенных версий изображений](https://habr.com/ru/news/750898/?utm_campaign=750898&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp появилась функция коротких видеосообщений, которыми можно делиться прямо в чате](https://habr.com/ru/news/750892/?utm_campaign=750892&utm_source=habrahabr&utm_medium=rss)
 - [РЖД проведёт эксперимент по проверке пассажиров по биометрии вместо паспортов](https://habr.com/ru/news/750888/?utm_campaign=750888&utm_source=habrahabr&utm_medium=rss)
 - [Резидент «Сколково» представил программируемого робота «Адам» для учебных заведений](https://habr.com/ru/news/750884/?utm_campaign=750884&utm_source=habrahabr&utm_medium=rss)
 - [В открытый доступ выложена превью-версия Unreal Engine 5.3](https://habr.com/ru/news/750874/?utm_campaign=750874&utm_source=habrahabr&utm_medium=rss)
-- [Тим Кук не смог получить кредитку Apple Card: система проверки решила, что он мошенник](https://habr.com/ru/news/750862/?utm_campaign=750862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
