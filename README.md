@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp появилась функция коротких видеосообщений, которыми можно делиться прямо в чате](https://habr.com/ru/news/750892/?utm_campaign=750892&utm_source=habrahabr&utm_medium=rss)
+- [РЖД проведёт эксперимент по проверке пассажиров по биометрии вместо паспортов](https://habr.com/ru/news/750888/?utm_campaign=750888&utm_source=habrahabr&utm_medium=rss)
+- [Резидент «Сколково» представил программируемого робота «Адам» для учебных заведений](https://habr.com/ru/news/750884/?utm_campaign=750884&utm_source=habrahabr&utm_medium=rss)
 - [В открытый доступ выложена превью-версия Unreal Engine 5.3](https://habr.com/ru/news/750874/?utm_campaign=750874&utm_source=habrahabr&utm_medium=rss)
 - [Тим Кук не смог получить кредитку Apple Card: система проверки решила, что он мошенник](https://habr.com/ru/news/750862/?utm_campaign=750862&utm_source=habrahabr&utm_medium=rss)
-- [Новые правила SEC требуют от компаний в течение четырёх суток раскрывать информацию о любых инцидентах кибербезопасности](https://habr.com/ru/news/750858/?utm_campaign=750858&utm_source=habrahabr&utm_medium=rss)
-- [«ВКонтакте» выпустила отдельное приложение «VK Знакомства» на iOS](https://habr.com/ru/news/750848/?utm_campaign=750848&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость CVE-2023-22018 позволяет выполнить произвольный код в Oracle VirtualBox, устранено в версиях 7.0.10 и 6.1.46](https://habr.com/ru/news/750842/?utm_campaign=750842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
