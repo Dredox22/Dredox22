@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Шахматный робот на базе Raspberry Pi Pico обманывает и оскорбляет игроков с помощью ChatGPT](https://habr.com/ru/news/750722/?utm_campaign=750722&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft проведёт 2 августа конференцию Windows Insider Bug Bash для участников программы Windows Insider](https://habr.com/ru/news/750710/?utm_campaign=750710&utm_source=habrahabr&utm_medium=rss)
 - [GitHub и другие призвали к большей поддержке open source в законе ЕС об ИИ](https://habr.com/ru/news/750700/?utm_campaign=750700&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI выпустила модель Stable Diffusion XL 1.0](https://habr.com/ru/news/750696/?utm_campaign=750696&utm_source=habrahabr&utm_medium=rss)
 - [Apple в iOS 16.6 закрыла найденные экспертами «Лаборатории Касперского» критические уязвимости](https://habr.com/ru/news/750634/?utm_campaign=750634&utm_source=habrahabr&utm_medium=rss)
-- [На фоне забастовки сценаристов и актёров Netflix открывает связанные с ИИ вакансии с зарплатой до $900 тыс. в год](https://habr.com/ru/news/750626/?utm_campaign=750626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
