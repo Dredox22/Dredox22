@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Совет Федерации одобрил запрет на регистрацию на сайтах в рунете с иностранной электронной почты с декабря 2023 года](https://habr.com/ru/news/751014/?utm_campaign=751014&utm_source=habrahabr&utm_medium=rss)
+- [Новостные издания готовы подать в суд на Google и OpenAI за незаконное использование их контента для обучения нейросетей](https://habr.com/ru/news/750998/?utm_campaign=750998&utm_source=habrahabr&utm_medium=rss)
 - [В IDE от JetBrains появилась интеграция с GitLab](https://habr.com/ru/news/750964/?utm_campaign=750964&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Intel: Мы будем встраивать ИИ в каждую новую платформу](https://habr.com/ru/news/750948/?utm_campaign=750948&utm_source=habrahabr&utm_medium=rss)
 - [ЕС начал расследование против Microsoft из-за Teams](https://habr.com/ru/news/750944/?utm_campaign=750944&utm_source=habrahabr&utm_medium=rss)
-- [Непрерывная оценка артериального давления без манжеты](https://habr.com/ru/news/750942/?utm_campaign=750942&utm_source=habrahabr&utm_medium=rss)
-- [Meta*, Microsoft и Amazon запустили картографический проект с открытым исходным кодом](https://habr.com/ru/news/750936/?utm_campaign=750936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
