@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг предложил руководству промышленных предприятий запретить сотрудникам использовать iPhone в рабочих целях](https://habr.com/ru/news/750934/?utm_campaign=750934&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» представил сервис цифровой связи «борт–земля» для обмена текстовыми сообщениями в полёте](https://habr.com/ru/news/750932/?utm_campaign=750932&utm_source=habrahabr&utm_medium=rss)
 - [В браузере Opera GX появилась функция «Фальшивая история», подменивающая историю через 14 дней бездействия](https://habr.com/ru/news/750910/?utm_campaign=750910&utm_source=habrahabr&utm_medium=rss)
 - [Система Google Find My Device будет предупреждать пользователей о чужих Bluetooth-метках](https://habr.com/ru/news/750908/?utm_campaign=750908&utm_source=habrahabr&utm_medium=rss)
 - [Google откладывает запуск сети Find My Device, предназначенной для поиска утерянных вещей](https://habr.com/ru/news/750900/?utm_campaign=750900&utm_source=habrahabr&utm_medium=rss)
-- [В Photoshop beta добавили ИИ-функцию Generative Expand для генерации расширенных версий изображений](https://habr.com/ru/news/750898/?utm_campaign=750898&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp появилась функция коротких видеосообщений, которыми можно делиться прямо в чате](https://habr.com/ru/news/750892/?utm_campaign=750892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
