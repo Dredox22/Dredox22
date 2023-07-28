@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Россотрудничество будет выдавать электронные подписи для граждан РФ за рубежом и презентовало новую торговую платформу](https://habr.com/ru/news/751026/?utm_campaign=751026&utm_source=habrahabr&utm_medium=rss)
+- [Киберпреступники отправляют страховщикам троян DarkWatchman RAT под видом фейкового тендера для Минобороны](https://habr.com/ru/companies/f_a_c_c_t/news/750996/?utm_campaign=750996&utm_source=habrahabr&utm_medium=rss)
 - [Совет Федерации одобрил запрет на регистрацию на сайтах в рунете с иностранной электронной почты с декабря 2023 года](https://habr.com/ru/news/751014/?utm_campaign=751014&utm_source=habrahabr&utm_medium=rss)
 - [Новостные издания готовы подать в суд на Google и OpenAI за незаконное использование их контента для обучения нейросетей](https://habr.com/ru/news/750998/?utm_campaign=750998&utm_source=habrahabr&utm_medium=rss)
 - [В IDE от JetBrains появилась интеграция с GitLab](https://habr.com/ru/news/750964/?utm_campaign=750964&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Intel: Мы будем встраивать ИИ в каждую новую платформу](https://habr.com/ru/news/750948/?utm_campaign=750948&utm_source=habrahabr&utm_medium=rss)
-- [ЕС начал расследование против Microsoft из-за Teams](https://habr.com/ru/news/750944/?utm_campaign=750944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
