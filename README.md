@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гендиректор Intel: Мы будем встраивать ИИ в каждую новую платформу](https://habr.com/ru/news/750948/?utm_campaign=750948&utm_source=habrahabr&utm_medium=rss)
+- [ЕС начал расследование против Microsoft из-за Teams](https://habr.com/ru/news/750944/?utm_campaign=750944&utm_source=habrahabr&utm_medium=rss)
+- [Непрерывная оценка артериального давления без манжеты](https://habr.com/ru/news/750942/?utm_campaign=750942&utm_source=habrahabr&utm_medium=rss)
+- [Meta*, Microsoft и Amazon запустили картографический проект с открытым исходным кодом](https://habr.com/ru/news/750936/?utm_campaign=750936&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг предложил руководству промышленных предприятий запретить сотрудникам использовать iPhone в рабочих целях](https://habr.com/ru/news/750934/?utm_campaign=750934&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» представил сервис цифровой связи «борт–земля» для обмена текстовыми сообщениями в полёте](https://habr.com/ru/news/750932/?utm_campaign=750932&utm_source=habrahabr&utm_medium=rss)
-- [В браузере Opera GX появилась функция «Фальшивая история», подменивающая историю через 14 дней бездействия](https://habr.com/ru/news/750910/?utm_campaign=750910&utm_source=habrahabr&utm_medium=rss)
-- [Система Google Find My Device будет предупреждать пользователей о чужих Bluetooth-метках](https://habr.com/ru/news/750908/?utm_campaign=750908&utm_source=habrahabr&utm_medium=rss)
-- [Google откладывает запуск сети Find My Device, предназначенной для поиска утерянных вещей](https://habr.com/ru/news/750900/?utm_campaign=750900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
