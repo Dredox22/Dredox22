@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор сообщил о рассылке фейковых электронных писем якобы от имени ведомства с адреса fsrcmnad@gov.ru](https://habr.com/ru/news/751114/?utm_campaign=751114&utm_source=habrahabr&utm_medium=rss)
+- [Проверено на «Практике»: как прикрутить две системы мобильной аналитики в одно приложение](https://habr.com/ru/companies/doubletapp/news/751110/?utm_campaign=751110&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты обнаружили ИИ-инструмент для преступников под названием FraudGPT](https://habr.com/ru/news/751098/?utm_campaign=751098&utm_source=habrahabr&utm_medium=rss)
 - [Ozon запустил портал о правилах информационной безопасности для продавцов и покупателей маркетплейса](https://habr.com/ru/news/750904/?utm_campaign=750904&utm_source=habrahabr&utm_medium=rss)
 - [Американские исследователи в области ИИ опубликовали способ создания целенаправленных атак на чат-боты СhatGPT и Bard](https://habr.com/ru/news/751084/?utm_campaign=751084&utm_source=habrahabr&utm_medium=rss)
-- [Россотрудничество будет выдавать электронные подписи для граждан РФ за рубежом и презентовало новую торговую платформу](https://habr.com/ru/news/751026/?utm_campaign=751026&utm_source=habrahabr&utm_medium=rss)
-- [Киберпреступники отправляют страховщикам троян DarkWatchman RAT под видом фейкового тендера для Минобороны](https://habr.com/ru/companies/f_a_c_c_t/news/750996/?utm_campaign=750996&utm_source=habrahabr&utm_medium=rss)
-- [Совет Федерации одобрил запрет на регистрацию на сайтах в рунете с иностранной электронной почты с декабря 2023 года](https://habr.com/ru/news/751014/?utm_campaign=751014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
