@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenNET: Госдума приняла законопроекты, которые могут помешать участию российских разработчиков в СПО-проектах](https://habr.com/ru/news/751244/?utm_campaign=751244&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обвинила сторонние приложения в ошибке меню «Пуск» из-за обновления Windows 11](https://habr.com/ru/news/751206/?utm_campaign=751206&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф» отключил оплату Steam](https://habr.com/ru/news/751196/?utm_campaign=751196&utm_source=habrahabr&utm_medium=rss)
 - [Основатель компании Group-IB Илья Сачков прокомментировал свой приговор на 14 лет лишения свободы за госизмену](https://habr.com/ru/news/751142/?utm_campaign=751142&utm_source=habrahabr&utm_medium=rss)
 - [С весны 2024 года AppStore будет требовать объяснять использование некоторых API в коде приложений](https://habr.com/ru/news/751128/?utm_campaign=751128&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор сообщил о рассылке фейковых электронных писем якобы от имени ведомства с адреса fsrcmnad@gov.ru](https://habr.com/ru/news/751114/?utm_campaign=751114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
