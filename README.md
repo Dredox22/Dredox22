@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала обучать роботов с помощью нейросети Robotic Transformer](https://habr.com/ru/news/751282/?utm_campaign=751282&utm_source=habrahabr&utm_medium=rss)
+- [Переименование приложения Twitter в X вызвало проблемы у пользователей Microsoft Edge и не прошло в App Store](https://habr.com/ru/news/751278/?utm_campaign=751278&utm_source=habrahabr&utm_medium=rss)
 - [Спустя 2 месяца в библиотеке разработок с открытым кодом Mos.Hub &lpar;МосХаб&rpar; зарегистрировалось более 3 тыс. разработчиков](https://habr.com/ru/news/751254/?utm_campaign=751254&utm_source=habrahabr&utm_medium=rss)
 - [OpenNET: Госдума приняла законопроекты, которые могут помешать участию российских разработчиков в СПО-проектах](https://habr.com/ru/news/751244/?utm_campaign=751244&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обвинила сторонние приложения в ошибке меню «Пуск» из-за обновления Windows 11](https://habr.com/ru/news/751206/?utm_campaign=751206&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф» отключил оплату Steam](https://habr.com/ru/news/751196/?utm_campaign=751196&utm_source=habrahabr&utm_medium=rss)
-- [Основатель компании Group-IB Илья Сачков прокомментировал свой приговор на 14 лет лишения свободы за госизмену](https://habr.com/ru/news/751142/?utm_campaign=751142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
