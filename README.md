@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: сотрудники Минтранса РФ начали отказываться от iPhone в рабочих процессах](https://habr.com/ru/news/751572/?utm_campaign=751572&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость в модах Minecraft позволяет хакерам удалённо выполнять произвольный код](https://habr.com/ru/news/751570/?utm_campaign=751570&utm_source=habrahabr&utm_medium=rss)
 - [«РТК-Солар» предупредила о росте числа фейковых приложений, маскирующихся под популярные сервисы](https://habr.com/ru/news/751542/?utm_campaign=751542&utm_source=habrahabr&utm_medium=rss)
 - [В России с 1 декабря вводится запрет на регистрацию в рунете с иностранной электронной почты](https://habr.com/ru/news/751532/?utm_campaign=751532&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/751514/?utm_campaign=751514&utm_source=habrahabr&utm_medium=rss)
-- [В приложении «МойОфис Документы» для ОС «Аврора» появился редактор презентаций](https://habr.com/ru/news/751524/?utm_campaign=751524&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Астра» и SL Soft проверили совместимость «Цитроса» с ОС Astra Linux](https://habr.com/ru/news/751520/?utm_campaign=751520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
