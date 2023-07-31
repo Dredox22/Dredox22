@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Twitter версии 10.0 всё же получило название в одну букву X в App Store](https://habr.com/ru/news/751496/?utm_campaign=751496&utm_source=habrahabr&utm_medium=rss)
 - [Apple подтвердила проблемы с родительским контролем на iPhone и iPad](https://habr.com/ru/news/751482/?utm_campaign=751482&utm_source=habrahabr&utm_medium=rss)
 - [В рамках форума KAZAN DIGITAL WEEK–2023 пройдёт всероссийская студенческая кибербитва](https://habr.com/ru/news/751474/?utm_campaign=751474&utm_source=habrahabr&utm_medium=rss)
 - [One Day Offer: шанс стать частью команды BI.ZONE SOC и бесплатно попасть на OFFZONE 2023](https://habr.com/ru/companies/bizone/news/749880/?utm_campaign=749880&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор в два раза увеличил мощность системы «Антифрод»](https://habr.com/ru/news/751434/?utm_campaign=751434&utm_source=habrahabr&utm_medium=rss)
-- [Экс-разработчик Microsoft пояснил, почему в Windows 10/11 опция «Обновить и завершить работу» перезагружает ПК](https://habr.com/ru/news/751426/?utm_campaign=751426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
