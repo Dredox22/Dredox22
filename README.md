@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Михаэль Дехан запустил проект jet, в котором переосмысливает Ansible](https://habr.com/ru/companies/flant/news/751402/?utm_campaign=751402&utm_source=habrahabr&utm_medium=rss)
+- [В Калифорнии началось расследование против Tesla из-за проблем с безопасностью автопилота](https://habr.com/ru/news/751400/?utm_campaign=751400&utm_source=habrahabr&utm_medium=rss)
 - [«Госуслуги» начали указывать место жительства пользователей без их согласия](https://habr.com/ru/news/751390/?utm_campaign=751390&utm_source=habrahabr&utm_medium=rss)
 - [Инженера ВВС США обвинили в хищении данных о 17 военных объектах](https://habr.com/ru/news/751386/?utm_campaign=751386&utm_source=habrahabr&utm_medium=rss)
 - [Сеть лабораторий KDL начала проверку утечки данных пользователей после атаки хакеров на базу данных клиентов](https://habr.com/ru/news/751346/?utm_campaign=751346&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обнаружили уязвимость в процессорах AMD Zen2 с раскрытием содержимого регистров в других процессах](https://habr.com/ru/news/751288/?utm_campaign=751288&utm_source=habrahabr&utm_medium=rss)
-- [Google начала обучать роботов с помощью нейросети Robotic Transformer](https://habr.com/ru/news/751282/?utm_campaign=751282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
