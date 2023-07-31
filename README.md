@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Госуслуги» начали указывать место жительства пользователей без их согласия](https://habr.com/ru/news/751390/?utm_campaign=751390&utm_source=habrahabr&utm_medium=rss)
+- [Инженера ВВС США обвинили в хищении данных о 17 военных объектах](https://habr.com/ru/news/751386/?utm_campaign=751386&utm_source=habrahabr&utm_medium=rss)
 - [Сеть лабораторий KDL начала проверку утечки данных пользователей после атаки хакеров на базу данных клиентов](https://habr.com/ru/news/751346/?utm_campaign=751346&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи обнаружили уязвимость в процессорах AMD Zen2 с раскрытием содержимого регистров в других процессах](https://habr.com/ru/news/751288/?utm_campaign=751288&utm_source=habrahabr&utm_medium=rss)
 - [Google начала обучать роботов с помощью нейросети Robotic Transformer](https://habr.com/ru/news/751282/?utm_campaign=751282&utm_source=habrahabr&utm_medium=rss)
-- [Переименование приложения Twitter в X вызвало проблемы у пользователей Microsoft Edge и не прошло в App Store](https://habr.com/ru/news/751278/?utm_campaign=751278&utm_source=habrahabr&utm_medium=rss)
-- [Спустя 2 месяца в библиотеке разработок с открытым кодом Mos.Hub &lpar;МосХаб&rpar; зарегистрировалось более 3 тыс. разработчиков](https://habr.com/ru/news/751254/?utm_campaign=751254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
