@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [One Day Offer: шанс стать частью команды BI.ZONE и бесплатно попасть на OFFZONE 2023](https://habr.com/ru/companies/bizone/news/749880/?utm_campaign=749880&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор в два раза увеличил мощность системы «Антифрод»](https://habr.com/ru/news/751434/?utm_campaign=751434&utm_source=habrahabr&utm_medium=rss)
 - [Экс-разработчик Microsoft пояснил, почему в Windows 10/11 опция «Обновить и завершить работу» перезагружает ПК](https://habr.com/ru/news/751426/?utm_campaign=751426&utm_source=habrahabr&utm_medium=rss)
 - [В 2022 году зарубежные компании заняли 30% рынка средств защиты информации в РФ](https://habr.com/ru/news/751418/?utm_campaign=751418&utm_source=habrahabr&utm_medium=rss)
 - [Создатель Ansible запустил проект jet, в котором переосмысливает свой легендарный инструмент](https://habr.com/ru/companies/flant/news/751402/?utm_campaign=751402&utm_source=habrahabr&utm_medium=rss)
-- [В Калифорнии началось расследование против Tesla из-за проблем с безопасностью автопилота](https://habr.com/ru/news/751400/?utm_campaign=751400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
