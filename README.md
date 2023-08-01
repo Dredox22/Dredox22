@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В текстовом редакторе Ulysses для iOS и macOS появилась поддержка LaTeX](https://habr.com/ru/news/751730/?utm_campaign=751730&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в ФНС, Росавиации и подведомственных структурах запретили сотрудникам использовать iPhone в служебных целях](https://habr.com/ru/news/751700/?utm_campaign=751700&utm_source=habrahabr&utm_medium=rss)
 - [Что бесплатно изучить в августе: 10 курсов для разработчиков](https://habr.com/ru/companies/netologyru/news/751688/?utm_campaign=751688&utm_source=habrahabr&utm_medium=rss)
 - [Китай ограничил поставки галлия и германия, необходимого для производства многих чипов](https://habr.com/ru/companies/dcmiran/news/751686/?utm_campaign=751686&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» на месяц увеличил в 5 раз выплаты за баги и уязвимости в категориях IDOR и раскрытие чувствительной информации](https://habr.com/ru/news/751672/?utm_campaign=751672&utm_source=habrahabr&utm_medium=rss)
-- [Мобильное приложение «Тинькофф банка» пропало из Google Play](https://habr.com/ru/news/751682/?utm_campaign=751682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
