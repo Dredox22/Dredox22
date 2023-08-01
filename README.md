@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китай ограничил поставки галлия и германия, необходимого для производства многих чипов](https://habr.com/ru/companies/dcmiran/news/751686/?utm_campaign=751686&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» на месяц увеличил в 5 раз выплаты за баги и уязвимости в категориях IDOR и раскрытие чувствительной информации](https://habr.com/ru/news/751672/?utm_campaign=751672&utm_source=habrahabr&utm_medium=rss)
+- [Мобильное приложение «Тинькофф банка» пропало из Google Play](https://habr.com/ru/news/751682/?utm_campaign=751682&utm_source=habrahabr&utm_medium=rss)
+- [Android-разработчики могут тестировать в своих проектах компилятор K2](https://habr.com/ru/news/751678/?utm_campaign=751678&utm_source=habrahabr&utm_medium=rss)
 - [Standoff 365 по подписке: онлайн-киберполигон открывается для корпоративных служб информационной безопасности](https://habr.com/ru/companies/pt/news/751654/?utm_campaign=751654&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появился доступ к «Яндекс Музыке»](https://habr.com/ru/news/751658/?utm_campaign=751658&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи ноутбуков в России стали массово переходить на пиратскую Windows](https://habr.com/ru/news/751662/?utm_campaign=751662&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: ФГУП «ГРЧЦ» закупило 54 гаджета, включая 20 iPhone, 4 iPad и ещё 30 других мобильных устройств для исследований](https://habr.com/ru/news/751644/?utm_campaign=751644&utm_source=habrahabr&utm_medium=rss)
-- [Canon предупредила пользователей своих принтеров, что настройки Wi-Fi в памяти устройств могут попасть в третьи руки](https://habr.com/ru/news/751638/?utm_campaign=751638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
