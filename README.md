@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Браузер Edge занимает почти 11% рынка настольных браузеров в мире](https://habr.com/ru/news/751870/?utm_campaign=751870&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс разочаровался в одном из решений AMD и сообщил, что устал от «глупых» ошибок fTPM](https://habr.com/ru/news/751840/?utm_campaign=751840&utm_source=habrahabr&utm_medium=rss)
 - [Почта Банк внедрил сканер распознавания номера телефона в мобильное приложение](https://habr.com/ru/companies/smartengines/news/751802/?utm_campaign=751802&utm_source=habrahabr&utm_medium=rss)
 - [Водорастворимые печатные платы могут сократить углеродный след на 60%](https://habr.com/ru/news/751800/?utm_campaign=751800&utm_source=habrahabr&utm_medium=rss)
 - [Казахстан отказал США в выдаче сотрудника бывшей Group-IB Никиты Кислицина](https://habr.com/ru/news/751798/?utm_campaign=751798&utm_source=habrahabr&utm_medium=rss)
-- [В Китае находится 40% всех мировых серверов на базе Arm](https://habr.com/ru/news/751772/?utm_campaign=751772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
