@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Китае находится 40% всех мировых серверов на базе Arm](https://habr.com/ru/news/751772/?utm_campaign=751772&utm_source=habrahabr&utm_medium=rss)
+- [Защита информации от несанкционированного доступа — ОС «Альт» совместимы с последними версиями Dallas Lock Linux](https://habr.com/ru/companies/basealtspo/news/751764/?utm_campaign=751764&utm_source=habrahabr&utm_medium=rss)
+- [VK устроит бесплатный проектный лагерь «Сферума» для школьников](https://habr.com/ru/news/751760/?utm_campaign=751760&utm_source=habrahabr&utm_medium=rss)
+- [Google начала предупреждать пользователей, что начнёт удалять неактивные учётные записи с декабря 2023 года](https://habr.com/ru/news/751744/?utm_campaign=751744&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг оставил иностранную электронику в перечне товаров параллельного импорта](https://habr.com/ru/news/751740/?utm_campaign=751740&utm_source=habrahabr&utm_medium=rss)
-- [В текстовом редакторе Ulysses для iOS и macOS появилась поддержка LaTeX](https://habr.com/ru/news/751730/?utm_campaign=751730&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в ФНС, Росавиации и подведомственных структурах запретили сотрудникам использовать iPhone в служебных целях](https://habr.com/ru/news/751700/?utm_campaign=751700&utm_source=habrahabr&utm_medium=rss)
-- [Что бесплатно изучить в августе: 10 курсов для разработчиков](https://habr.com/ru/companies/netologyru/news/751688/?utm_campaign=751688&utm_source=habrahabr&utm_medium=rss)
-- [Китай ограничил поставки галлия и германия, необходимого для производства многих чипов](https://habr.com/ru/companies/dcmiran/news/751686/?utm_campaign=751686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
