@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Почта Банк внедрил сканер распознавания номера телефона в мобильное приложение](https://habr.com/ru/companies/smartengines/news/751802/?utm_campaign=751802&utm_source=habrahabr&utm_medium=rss)
+- [Водорастворимые печатные платы могут сократить углеродный след на 60%](https://habr.com/ru/news/751800/?utm_campaign=751800&utm_source=habrahabr&utm_medium=rss)
+- [Казахстан отказал США в выдаче сотрудника бывшей Group-IB Никиты Кислицина](https://habr.com/ru/news/751798/?utm_campaign=751798&utm_source=habrahabr&utm_medium=rss)
 - [В Китае находится 40% всех мировых серверов на базе Arm](https://habr.com/ru/news/751772/?utm_campaign=751772&utm_source=habrahabr&utm_medium=rss)
 - [Защита информации от несанкционированного доступа — ОС «Альт» совместимы с последними версиями Dallas Lock Linux](https://habr.com/ru/companies/basealtspo/news/751764/?utm_campaign=751764&utm_source=habrahabr&utm_medium=rss)
-- [VK устроит бесплатный проектный лагерь «Сферума» для школьников](https://habr.com/ru/news/751760/?utm_campaign=751760&utm_source=habrahabr&utm_medium=rss)
-- [Google начала предупреждать пользователей, что начнёт удалять неактивные учётные записи с декабря 2023 года](https://habr.com/ru/news/751744/?utm_campaign=751744&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг оставил иностранную электронику в перечне товаров параллельного импорта](https://habr.com/ru/news/751740/?utm_campaign=751740&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
