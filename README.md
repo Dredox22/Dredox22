@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Standoff 365 по подписке: онлайн-киберполигон открывается для корпоративных служб информационной безопасности](https://habr.com/ru/companies/pt/news/751654/?utm_campaign=751654&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появился доступ к «Яндекс Музыке»](https://habr.com/ru/news/751658/?utm_campaign=751658&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи ноутбуков в России стали массово переходить на пиратскую Windows](https://habr.com/ru/news/751662/?utm_campaign=751662&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: ФГУП «ГРЧЦ» закупило 54 гаджета, включая 20 iPhone, 4 iPad и ещё 30 других мобильных устройств для исследований](https://habr.com/ru/news/751644/?utm_campaign=751644&utm_source=habrahabr&utm_medium=rss)
 - [Canon предупредила пользователей своих принтеров, что настройки Wi-Fi в памяти устройств могут попасть в третьи руки](https://habr.com/ru/news/751638/?utm_campaign=751638&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: сотрудники Минтранса РФ начали отказываться от iPhone в рабочих процессах](https://habr.com/ru/news/751572/?utm_campaign=751572&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость в модах Minecraft позволяет хакерам удалённо выполнять произвольный код](https://habr.com/ru/news/751570/?utm_campaign=751570&utm_source=habrahabr&utm_medium=rss)
-- [«РТК-Солар» предупредила о росте числа фейковых приложений, маскирующихся под популярные сервисы](https://habr.com/ru/news/751542/?utm_campaign=751542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
