@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Panasonic сообщила о прекращении производства жидкокристаллических дисплеев](https://habr.com/ru/news/751916/?utm_campaign=751916&utm_source=habrahabr&utm_medium=rss)
+- [Студентка из Азии попросила ИИ сделать из своего фото «профессиональное», но он «превратил» её в европейку](https://habr.com/ru/news/751908/?utm_campaign=751908&utm_source=habrahabr&utm_medium=rss)
 - [Центробанк РФ: украсть цифровые рубли можно методами социальной инженерии, а технология оплаты офлайн ещё не разработана](https://habr.com/ru/news/751900/?utm_campaign=751900&utm_source=habrahabr&utm_medium=rss)
 - [Микросервисы VS. Монолит: есть два стула…](https://habr.com/ru/companies/southbridge/news/751806/?utm_campaign=751806&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI при поддержке Microsoft подала заявку на торговую марку GPT-5](https://habr.com/ru/news/751890/?utm_campaign=751890&utm_source=habrahabr&utm_medium=rss)
-- [Хинштейн: вопрос о запрете использования гаджетов Apple для рядовых россиян не стоит](https://habr.com/ru/news/751886/?utm_campaign=751886&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Edge занимает почти 11% рынка настольных браузеров в мире](https://habr.com/ru/news/751870/?utm_campaign=751870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
