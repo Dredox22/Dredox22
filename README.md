@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый сезон «Деньги любят техно»](https://habr.com/ru/companies/vtb/news/751988/?utm_campaign=751988&utm_source=habrahabr&utm_medium=rss)
 - [Главным докладчиком OFFZONE 2023 станет этичный хакер Омар Ганиев](https://habr.com/ru/news/751982/?utm_campaign=751982&utm_source=habrahabr&utm_medium=rss)
 - [«Аквариус» запланировал до конца года выпустить в розницу ряд устройств на ОС «Аврора»](https://habr.com/ru/news/751968/?utm_campaign=751968&utm_source=habrahabr&utm_medium=rss)
 - [Вышел второй эпизод подкаста «Безопасно говоря» о миграции в облако](https://habr.com/ru/news/751962/?utm_campaign=751962&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс 360» вышло обновление  антиспам-системы](https://habr.com/ru/news/751960/?utm_campaign=751960&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл регистрацию на конференцию по машинному обучению Practical ML Conf для практикующих специалистов](https://habr.com/ru/news/751946/?utm_campaign=751946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
