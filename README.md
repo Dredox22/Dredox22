@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Главным докладчиком OFFZONE 2023 станет этичный хакер Омар Ганиев](https://habr.com/ru/news/751982/?utm_campaign=751982&utm_source=habrahabr&utm_medium=rss)
+- [«Аквариус» запланировал до конца года выпустить в розницу ряд устройств на ОС «Аврора»](https://habr.com/ru/news/751968/?utm_campaign=751968&utm_source=habrahabr&utm_medium=rss)
+- [Вышел второй эпизод подкаста «Безопасно говоря» о миграции в облако](https://habr.com/ru/news/751962/?utm_campaign=751962&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс 360» вышло обновление  антиспам-системы](https://habr.com/ru/news/751960/?utm_campaign=751960&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл регистрацию на конференцию по машинному обучению Practical ML Conf для практикующих специалистов](https://habr.com/ru/news/751946/?utm_campaign=751946&utm_source=habrahabr&utm_medium=rss)
-- [Прибыль AMD за II квартал 2023 года упала на 94%. Причина в сокращении спроса на процессоры EPYC](https://habr.com/ru/companies/dcmiran/news/751934/?utm_campaign=751934&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: принятые Госдумой законопроекты не содержат прямого запрета на участие разработчиков из РФ в СПО-проектах](https://habr.com/ru/news/751924/?utm_campaign=751924&utm_source=habrahabr&utm_medium=rss)
-- [Panasonic сообщила о прекращении производства жидкокристаллических дисплеев](https://habr.com/ru/news/751916/?utm_campaign=751916&utm_source=habrahabr&utm_medium=rss)
-- [Студентка из Азии попросила ИИ сделать из своего фото «профессиональное», но он «превратил» её в европейку](https://habr.com/ru/news/751908/?utm_campaign=751908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
