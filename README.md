@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прибыль AMD за II квартал 2023 года упала на 94%. Причина в сокращении спроса на процессоры EPYC](https://habr.com/ru/companies/dcmiran/news/751934/?utm_campaign=751934&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: принятые Госдумой законопроекты не содержат прямого запрета на участие разработчиков из РФ в СПО-проектах](https://habr.com/ru/news/751924/?utm_campaign=751924&utm_source=habrahabr&utm_medium=rss)
 - [Panasonic сообщила о прекращении производства жидкокристаллических дисплеев](https://habr.com/ru/news/751916/?utm_campaign=751916&utm_source=habrahabr&utm_medium=rss)
 - [Студентка из Азии попросила ИИ сделать из своего фото «профессиональное», но он «превратил» её в европейку](https://habr.com/ru/news/751908/?utm_campaign=751908&utm_source=habrahabr&utm_medium=rss)
 - [Центробанк РФ: украсть цифровые рубли можно методами социальной инженерии, а технология оплаты офлайн ещё не разработана](https://habr.com/ru/news/751900/?utm_campaign=751900&utm_source=habrahabr&utm_medium=rss)
-- [Микросервисы VS. Монолит: есть два стула…](https://habr.com/ru/companies/southbridge/news/751806/?utm_campaign=751806&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI при поддержке Microsoft подала заявку на торговую марку GPT-5](https://habr.com/ru/news/751890/?utm_campaign=751890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
