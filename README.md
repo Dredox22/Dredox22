@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд оставил в силе требование к Google вернуть приложение «Столото» в Google Play](https://habr.com/ru/news/752080/?utm_campaign=752080&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт по ИБ: возможно, всю технику Apple могут запретить продавать в России после проверки Роскомнадзором](https://habr.com/ru/news/752078/?utm_campaign=752078&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети «Яндекса» теперь могут искать информацию в архивах «Советского спорта» за 100 лет](https://habr.com/ru/news/752054/?utm_campaign=752054&utm_source=habrahabr&utm_medium=rss)
 - [Х5 и Сбер запустили крупнейший в мире сервис оплаты с помощью улыбки](https://habr.com/ru/companies/X5Tech/news/752052/?utm_campaign=752052&utm_source=habrahabr&utm_medium=rss)
 - [Новый сезон «Деньги любят техно»](https://habr.com/ru/companies/vtb/news/751988/?utm_campaign=751988&utm_source=habrahabr&utm_medium=rss)
-- [Главным докладчиком OFFZONE 2023 станет этичный хакер Омар Ганиев](https://habr.com/ru/news/751982/?utm_campaign=751982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
