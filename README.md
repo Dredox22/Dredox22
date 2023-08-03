@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Госуслуги» начали показывать в ЛК купленные гражданами по внутреннему паспорту билеты на поезда дальнего следования](https://habr.com/ru/news/752224/?utm_campaign=752224&utm_source=habrahabr&utm_medium=rss)
+- [HackerOne объявила об увольнении 12% сотрудников](https://habr.com/ru/news/752218/?utm_campaign=752218&utm_source=habrahabr&utm_medium=rss)
+- [В RuStore появилась возможность загружать приложения для ТВ на Android](https://habr.com/ru/news/752214/?utm_campaign=752214&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE выпустила новую версию Secure SD-WAN](https://habr.com/ru/news/752210/?utm_campaign=752210&utm_source=habrahabr&utm_medium=rss)
 - [В РФ появилось приложение, в котором можно выпустить виртуальную карту турецкой платёжной системы Troy](https://habr.com/ru/news/752204/?utm_campaign=752204&utm_source=habrahabr&utm_medium=rss)
-- [Что нового в Python за июль — обсуждаем в прямом эфире](https://habr.com/ru/news/752190/?utm_campaign=752190&utm_source=habrahabr&utm_medium=rss)
-- [Математическая модель укажет МЧС, где землетрясение будет ощущаться сильнее всего](https://habr.com/ru/news/752102/?utm_campaign=752102&utm_source=habrahabr&utm_medium=rss)
-- [Появился бесплатный самоучитель по CI/CD и Kubernetes для Go-разработчиков от команды werf](https://habr.com/ru/companies/flant/news/752166/?utm_campaign=752166&utm_source=habrahabr&utm_medium=rss)
-- [Вышел язык системного программирования Nim 2.0](https://habr.com/ru/news/752140/?utm_campaign=752140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
