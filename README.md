@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Известия»: для госслужащих планируют создать отдельного сотового оператора](https://habr.com/ru/news/752232/?utm_campaign=752232&utm_source=habrahabr&utm_medium=rss)
+- [ВТБ пред­ло­жил пе­ревес­ти рос­сий­ские бан­ки на еди­ный до­мен вер­хне­го уров­ня *.банк или *.фин](https://habr.com/ru/news/752230/?utm_campaign=752230&utm_source=habrahabr&utm_medium=rss)
+- [В бета-версии Windows Subsystem for Android появилась поддержка графического API Vulkan](https://habr.com/ru/news/752228/?utm_campaign=752228&utm_source=habrahabr&utm_medium=rss)
+- [Вышел PowerToys 0.72](https://habr.com/ru/news/752226/?utm_campaign=752226&utm_source=habrahabr&utm_medium=rss)
 - [«Госуслуги» начали показывать в ЛК купленные гражданами по внутреннему паспорту билеты на поезда дальнего следования](https://habr.com/ru/news/752224/?utm_campaign=752224&utm_source=habrahabr&utm_medium=rss)
-- [HackerOne объявила об увольнении 12% сотрудников](https://habr.com/ru/news/752218/?utm_campaign=752218&utm_source=habrahabr&utm_medium=rss)
-- [В RuStore появилась возможность загружать приложения для ТВ на Android](https://habr.com/ru/news/752214/?utm_campaign=752214&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE выпустила новую версию Secure SD-WAN](https://habr.com/ru/news/752210/?utm_campaign=752210&utm_source=habrahabr&utm_medium=rss)
-- [В РФ появилось приложение, в котором можно выпустить виртуальную карту турецкой платёжной системы Troy](https://habr.com/ru/news/752204/?utm_campaign=752204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
