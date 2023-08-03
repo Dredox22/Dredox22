@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РФ появилось приложение, в котором можно выпустить виртуальную карту турецкой платёжной системы Troy](https://habr.com/ru/news/752204/?utm_campaign=752204&utm_source=habrahabr&utm_medium=rss)
+- [Что нового в Python за июль — обсуждаем в прямом эфире](https://habr.com/ru/news/752190/?utm_campaign=752190&utm_source=habrahabr&utm_medium=rss)
+- [Математическая модель укажет МЧС, где землетрясение будет ощущаться сильнее всего](https://habr.com/ru/news/752102/?utm_campaign=752102&utm_source=habrahabr&utm_medium=rss)
 - [Появился бесплатный самоучитель по CI/CD и Kubernetes для Go-разработчиков от команды werf](https://habr.com/ru/companies/flant/news/752166/?utm_campaign=752166&utm_source=habrahabr&utm_medium=rss)
 - [Вышел язык системного программирования Nim 2.0](https://habr.com/ru/news/752140/?utm_campaign=752140&utm_source=habrahabr&utm_medium=rss)
-- [Вышел «аналог» Flipper Zero под названием Pwnagotchi на базе Raspberry Pi](https://habr.com/ru/news/752130/?utm_campaign=752130&utm_source=habrahabr&utm_medium=rss)
-- [Слухи: Apple работает над вторым поколением меток AirTag](https://habr.com/ru/news/752124/?utm_campaign=752124&utm_source=habrahabr&utm_medium=rss)
-- [Meta* открыла доступ к нейросети AudioCraft для написания музыки](https://habr.com/ru/news/752118/?utm_campaign=752118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
