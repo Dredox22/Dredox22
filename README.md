@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* в сентябре планирует запустить в своих сервисах ИИ-«персонажей»](https://habr.com/ru/news/752374/?utm_campaign=752374&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Xbox смогут транслировать свой экран в Discord](https://habr.com/ru/news/752370/?utm_campaign=752370&utm_source=habrahabr&utm_medium=rss)
 - [Spotify запустила закрытый бета-тест Confidence — платформы для A/B-тестирования и экспериментирования с продуктом](https://habr.com/ru/news/752358/?utm_campaign=752358&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отключила голосового помощника Cortana в Windows 11](https://habr.com/ru/companies/dcmiran/news/752352/?utm_campaign=752352&utm_source=habrahabr&utm_medium=rss)
 - [Shortcuts в iOS 17 позволяет создавать ярлыки с выбором режимов камеры](https://habr.com/ru/news/752348/?utm_campaign=752348&utm_source=habrahabr&utm_medium=rss)
-- [Лаборатория Vision Pro для разработчиков в США оказалась менее популярной, чем ожидалось](https://habr.com/ru/news/752332/?utm_campaign=752332&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» выявила новую кампанию атак на промышленные предприятия в Восточной Европе](https://habr.com/ru/news/752328/?utm_campaign=752328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
