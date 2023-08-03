@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отключила голосового помощника Cortana в Windows 11](https://habr.com/ru/companies/dcmiran/news/752352/?utm_campaign=752352&utm_source=habrahabr&utm_medium=rss)
+- [Shortcuts в iOS 17 позволяет создавать ярлыки с выбором режимов камеры](https://habr.com/ru/news/752348/?utm_campaign=752348&utm_source=habrahabr&utm_medium=rss)
 - [Лаборатория Vision Pro для разработчиков в США оказалась менее популярной, чем ожидалось](https://habr.com/ru/news/752332/?utm_campaign=752332&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» выявила новую кампанию атак на промышленные предприятия в Восточной Европе](https://habr.com/ru/news/752328/?utm_campaign=752328&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники взломали соцсети банка «Уралсиб»](https://habr.com/ru/news/752324/?utm_campaign=752324&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия СУБД Tantor 3.0](https://habr.com/ru/news/752318/?utm_campaign=752318&utm_source=habrahabr&utm_medium=rss)
-- [Индия ограничила импорт ноутбуков, планшетов и серверов для увеличения местного производства](https://habr.com/ru/news/752306/?utm_campaign=752306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
