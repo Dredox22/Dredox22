@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Появился бесплатный самоучитель по CI/CD и Kubernetes для Go-разработчиков от команды werf](https://habr.com/ru/companies/flant/news/752166/?utm_campaign=752166&utm_source=habrahabr&utm_medium=rss)
 - [Вышел язык системного программирования Nim 2.0](https://habr.com/ru/news/752140/?utm_campaign=752140&utm_source=habrahabr&utm_medium=rss)
-- [Вышел аналог Flipper Zero под названием Pwnagotchi на базе Raspberry Pi](https://habr.com/ru/news/752130/?utm_campaign=752130&utm_source=habrahabr&utm_medium=rss)
+- [Вышел «аналог» Flipper Zero под названием Pwnagotchi на базе Raspberry Pi](https://habr.com/ru/news/752130/?utm_campaign=752130&utm_source=habrahabr&utm_medium=rss)
 - [Слухи: Apple работает над вторым поколением меток AirTag](https://habr.com/ru/news/752124/?utm_campaign=752124&utm_source=habrahabr&utm_medium=rss)
 - [Meta* открыла доступ к нейросети AudioCraft для написания музыки](https://habr.com/ru/news/752118/?utm_campaign=752118&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре пояснили, что проверка устройств Apple нужна для обеспечения безопасного доступа к российским сервисам](https://habr.com/ru/news/752114/?utm_campaign=752114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
