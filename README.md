@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Роскомнадзоре пояснили, что проверка устройств Apple нужна для обеспечения безопасного доступа к российским сервисам](https://habr.com/ru/news/752114/?utm_campaign=752114&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор опроверг информацию о запрете продажи техники Apple в РФ после проведения исследований со стороны ведомства](https://habr.com/ru/news/752090/?utm_campaign=752090&utm_source=habrahabr&utm_medium=rss)
 - [Суд оставил в силе требование к Google вернуть приложение «Столото» в Google Play](https://habr.com/ru/news/752080/?utm_campaign=752080&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт по ИБ: возможно, всю технику Apple могут запретить продавать в России после проверки Роскомнадзором](https://habr.com/ru/news/752078/?utm_campaign=752078&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети «Яндекса» теперь могут искать информацию в архивах «Советского спорта» за 100 лет](https://habr.com/ru/news/752054/?utm_campaign=752054&utm_source=habrahabr&utm_medium=rss)
-- [Х5 и Сбер запустили крупнейший в мире сервис оплаты с помощью улыбки](https://habr.com/ru/companies/X5Tech/news/752052/?utm_campaign=752052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
