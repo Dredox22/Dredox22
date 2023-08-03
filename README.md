@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мошенники взломали соцсети банка «Уралсиб»](https://habr.com/ru/news/752324/?utm_campaign=752324&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия СУБД Tantor 3.0](https://habr.com/ru/news/752318/?utm_campaign=752318&utm_source=habrahabr&utm_medium=rss)
 - [Индия ограничила импорт ноутбуков, планшетов и серверов для увеличения местного производства](https://habr.com/ru/news/752306/?utm_campaign=752306&utm_source=habrahabr&utm_medium=rss)
 - [Нас уже более 72 тысяч: изучаем бесплатный курс по нейросетям в машинном зрении от Samsung](https://habr.com/ru/companies/samsung/news/752298/?utm_campaign=752298&utm_source=habrahabr&utm_medium=rss)
 - [Суд оштрафовал Apple и «Википедию» за неудаление «запрещённой» информации](https://habr.com/ru/news/752296/?utm_campaign=752296&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Firefox 116: буфер обмена для файлов и прекращение поддержки устаревших ОС](https://habr.com/ru/news/752290/?utm_campaign=752290&utm_source=habrahabr&utm_medium=rss)
-- [«Известия»: для госслужащих планируют создать отдельного сотового оператора](https://habr.com/ru/news/752232/?utm_campaign=752232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
