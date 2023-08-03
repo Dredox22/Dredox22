@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Индия ограничила импорт ноутбуков, планшетов и серверов для увеличения местного производства](https://habr.com/ru/news/752306/?utm_campaign=752306&utm_source=habrahabr&utm_medium=rss)
+- [Нас уже более 72 тысяч: изучаем бесплатный курс по нейросетям в машинном зрении от Samsung](https://habr.com/ru/companies/samsung/news/752298/?utm_campaign=752298&utm_source=habrahabr&utm_medium=rss)
+- [Суд оштрафовал Apple и «Википедию» за неудаление «запрещённой» информации](https://habr.com/ru/news/752296/?utm_campaign=752296&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Firefox 116: буфер обмена для файлов и прекращение поддержки устаревших ОС](https://habr.com/ru/news/752290/?utm_campaign=752290&utm_source=habrahabr&utm_medium=rss)
 - [«Известия»: для госслужащих планируют создать отдельного сотового оператора](https://habr.com/ru/news/752232/?utm_campaign=752232&utm_source=habrahabr&utm_medium=rss)
-- [ВТБ пред­ло­жил пе­ревес­ти рос­сий­ские бан­ки на еди­ный до­мен вер­хне­го уров­ня *.банк или *.фин](https://habr.com/ru/news/752230/?utm_campaign=752230&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии Windows Subsystem for Android появилась поддержка графического API Vulkan](https://habr.com/ru/news/752228/?utm_campaign=752228&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PowerToys 0.72](https://habr.com/ru/news/752226/?utm_campaign=752226&utm_source=habrahabr&utm_medium=rss)
-- [«Госуслуги» начали показывать в ЛК купленные гражданами по внутреннему паспорту билеты на поезда дальнего следования](https://habr.com/ru/news/752224/?utm_campaign=752224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
