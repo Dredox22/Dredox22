@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Число использующих Linux игроков в Steam впервые превысило количество пользователей macOS](https://habr.com/ru/news/752430/?utm_campaign=752430&utm_source=habrahabr&utm_medium=rss)
+- [В Vision Pro появится технология для снижения утомляемости глаз и укачивания](https://habr.com/ru/news/752428/?utm_campaign=752428&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик-энтузиаст представил макетную плату, которой не нужны соединительные провода](https://habr.com/ru/news/752426/?utm_campaign=752426&utm_source=habrahabr&utm_medium=rss)
+- [Qiwi: блокировка кошельков пользователей связана с усилением мер защиты](https://habr.com/ru/news/752422/?utm_campaign=752422&utm_source=habrahabr&utm_medium=rss)
 - [Google разрешит пользователям удалять свои личные данные из поиска](https://habr.com/ru/news/752414/?utm_campaign=752414&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: объём нелегального российского рынка ПО вырос более чем в два раза по сравнению с прошлым годом](https://habr.com/ru/news/752408/?utm_campaign=752408&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba открыла сторонним разработчикам доступ к своим ИИ-моделям Qwen-7B и Qwen-7B-Chat](https://habr.com/ru/news/752388/?utm_campaign=752388&utm_source=habrahabr&utm_medium=rss)
-- [Meta* в сентябре планирует запустить в своих сервисах ИИ-«персонажей»](https://habr.com/ru/news/752374/?utm_campaign=752374&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Xbox смогут транслировать свой экран в Discord](https://habr.com/ru/news/752370/?utm_campaign=752370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
