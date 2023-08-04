@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google разрешит пользователям удалять свои личные данные из поиска](https://habr.com/ru/news/752414/?utm_campaign=752414&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: объём нелегального российского рынка ПО вырос более чем в два раза по сравнению с прошлым годом](https://habr.com/ru/news/752408/?utm_campaign=752408&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba открыла сторонним разработчикам доступ к своим ИИ-моделям Qwen-7B и Qwen-7B-Chat](https://habr.com/ru/news/752388/?utm_campaign=752388&utm_source=habrahabr&utm_medium=rss)
 - [Meta* в сентябре планирует запустить в своих сервисах ИИ-«персонажей»](https://habr.com/ru/news/752374/?utm_campaign=752374&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Xbox смогут транслировать свой экран в Discord](https://habr.com/ru/news/752370/?utm_campaign=752370&utm_source=habrahabr&utm_medium=rss)
-- [Spotify запустила закрытый бета-тест Confidence — платформы для A/B-тестирования и экспериментирования с продуктом](https://habr.com/ru/news/752358/?utm_campaign=752358&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отключила голосового помощника Cortana в Windows 11](https://habr.com/ru/companies/dcmiran/news/752352/?utm_campaign=752352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
