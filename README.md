@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст приспособил Raspberry Pi для игры на церковном органе](https://habr.com/ru/news/752550/?utm_campaign=752550&utm_source=habrahabr&utm_medium=rss)
 - [Плата Arduino Nano ESP32 получила поддержку облачной платформы Arduino Cloud](https://habr.com/ru/news/752518/?utm_campaign=752518&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик мобильных игр студия Black Caviar Games объявила о закрытии](https://habr.com/ru/news/752510/?utm_campaign=752510&utm_source=habrahabr&utm_medium=rss)
 - [СВД ВС и АМТ-ГРУП подписали заявление о совместимости своих флагманских решений для защиты КИИ и АСУ ТП](https://habr.com/ru/companies/swd_es/news/752500/?utm_campaign=752500&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot теперь показывает ссылки на фрагменты кода, предложенные из других репозиториев](https://habr.com/ru/news/752492/?utm_campaign=752492&utm_source=habrahabr&utm_medium=rss)
-- [Discord сокращает 4% сотрудников](https://habr.com/ru/news/752472/?utm_campaign=752472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
