@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [R-Style Softlab обновила платформу RS-InterBank для дистанционного обслуживания клиентов](https://habr.com/ru/companies/rshb/news/752596/?utm_campaign=752596&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разрабатывает утилиту для синхронизации подсветки клавиатуры с акцентным цветом Windows](https://habr.com/ru/news/752590/?utm_campaign=752590&utm_source=habrahabr&utm_medium=rss)
+- [Слухи: на QuakeCon 2023 Bethesda представит ремастер Quake II](https://habr.com/ru/news/752588/?utm_campaign=752588&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE: на отечественные компании снова обрушились атаки с применением Cobalt Strike](https://habr.com/ru/news/752576/?utm_campaign=752576&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: пользователи «Госуслуг» указывают место фактического проживания добровольно](https://habr.com/ru/news/752566/?utm_campaign=752566&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст приспособил Raspberry Pi для игры на церковном органе](https://habr.com/ru/news/752550/?utm_campaign=752550&utm_source=habrahabr&utm_medium=rss)
-- [Плата Arduino Nano ESP32 получила поддержку облачной платформы Arduino Cloud](https://habr.com/ru/news/752518/?utm_campaign=752518&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик мобильных игр студия Black Caviar Games объявила о закрытии](https://habr.com/ru/news/752510/?utm_campaign=752510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
