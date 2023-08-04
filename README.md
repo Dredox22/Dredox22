@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [НАСА и IBM выпустили модель Geospatial AI Foundation с данными наблюдения за Землёй](https://habr.com/ru/news/752440/?utm_campaign=752440&utm_source=habrahabr&utm_medium=rss)
 - [Число использующих Linux игроков в Steam впервые превысило количество пользователей macOS](https://habr.com/ru/news/752430/?utm_campaign=752430&utm_source=habrahabr&utm_medium=rss)
 - [В Vision Pro появится технология для снижения утомляемости глаз и укачивания](https://habr.com/ru/news/752428/?utm_campaign=752428&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик-энтузиаст представил макетную плату, которой не нужны соединительные провода](https://habr.com/ru/news/752426/?utm_campaign=752426&utm_source=habrahabr&utm_medium=rss)
 - [Qiwi: блокировка кошельков пользователей связана с усилением мер защиты](https://habr.com/ru/news/752422/?utm_campaign=752422&utm_source=habrahabr&utm_medium=rss)
-- [Google разрешит пользователям удалять свои личные данные из поиска](https://habr.com/ru/news/752414/?utm_campaign=752414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
