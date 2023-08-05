@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«ЛитРес» подтвердил утечку данных своих клиентов и проводит в связи с этим внутреннее расследование](https://habr.com/ru/news/752696/?utm_campaign=752696&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил в Москве тестирование роботакси без водителя за рулём](https://habr.com/ru/news/752638/?utm_campaign=752638&utm_source=habrahabr&utm_medium=rss)
 - [Хакер выложил в открытый доступ данные некоторых пользователей сервиса «ЛитРес» &lpar;litres.ru&rpar;](https://habr.com/ru/news/752632/?utm_campaign=752632&utm_source=habrahabr&utm_medium=rss)
 - [НАСА возобновило получение телеметрии с «Вояджер-2»](https://habr.com/ru/news/752630/?utm_campaign=752630&utm_source=habrahabr&utm_medium=rss)
 - [R-Style Softlab обновила платформу RS-InterBank для дистанционного обслуживания клиентов](https://habr.com/ru/companies/rshb/news/752596/?utm_campaign=752596&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрабатывает утилиту для синхронизации подсветки клавиатуры с акцентным цветом Windows](https://habr.com/ru/news/752590/?utm_campaign=752590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
