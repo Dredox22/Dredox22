@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакер выложил в открытый доступ данные некоторых пользователей сервиса «ЛитРес» &lpar;litres.ru&rpar;](https://habr.com/ru/news/752632/?utm_campaign=752632&utm_source=habrahabr&utm_medium=rss)
+- [НАСА возобновило получение телеметрии с «Вояджер-2»](https://habr.com/ru/news/752630/?utm_campaign=752630&utm_source=habrahabr&utm_medium=rss)
 - [R-Style Softlab обновила платформу RS-InterBank для дистанционного обслуживания клиентов](https://habr.com/ru/companies/rshb/news/752596/?utm_campaign=752596&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрабатывает утилиту для синхронизации подсветки клавиатуры с акцентным цветом Windows](https://habr.com/ru/news/752590/?utm_campaign=752590&utm_source=habrahabr&utm_medium=rss)
 - [Слухи: на QuakeCon 2023 Bethesda представит ремастер Quake II](https://habr.com/ru/news/752588/?utm_campaign=752588&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE: на отечественные компании снова обрушились атаки с применением Cobalt Strike](https://habr.com/ru/news/752576/?utm_campaign=752576&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: пользователи «Госуслуг» указывают место фактического проживания добровольно](https://habr.com/ru/news/752566/?utm_campaign=752566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
