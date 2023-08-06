@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Ираке заблокировали Telegram для сохранения целостности личных данных пользователей и по соображениям безопасности](https://habr.com/ru/news/752852/?utm_campaign=752852&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты сообщили о возможности получения доступа к закрытым опциям центрального компьютера электромобилей Tesla](https://habr.com/ru/news/752796/?utm_campaign=752796&utm_source=habrahabr&utm_medium=rss)
 - [Представлен робот, который может чистить солнечные батареи без воды](https://habr.com/ru/news/752732/?utm_campaign=752732&utm_source=habrahabr&utm_medium=rss)
 - [С днем рождения, кожаный мешок](https://habr.com/ru/news/752708/?utm_campaign=752708&utm_source=habrahabr&utm_medium=rss)
 - [Скончался Брам Моленаар — Отец VIM](https://habr.com/ru/news/752706/?utm_campaign=752706&utm_source=habrahabr&utm_medium=rss)
-- [«ЛитРес» подтвердил утечку данных своих клиентов и проводит в связи с этим внутреннее расследование](https://habr.com/ru/news/752696/?utm_campaign=752696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
