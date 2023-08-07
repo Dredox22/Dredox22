@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Полиция Детройта арестовала за угон беременную женщину из-за ложного срабатывания системы распознавания лиц](https://habr.com/ru/news/752894/?utm_campaign=752894&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры выложили в открытый доступ дамп базы форума sysadmins.ru](https://habr.com/ru/news/752876/?utm_campaign=752876&utm_source=habrahabr&utm_medium=rss)
 - [В Ираке заблокировали Telegram для сохранения целостности личных данных пользователей и по соображениям безопасности](https://habr.com/ru/news/752852/?utm_campaign=752852&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты сообщили о возможности получения доступа к закрытым опциям центрального компьютера электромобилей Tesla](https://habr.com/ru/news/752796/?utm_campaign=752796&utm_source=habrahabr&utm_medium=rss)
 - [Представлен робот, который может чистить солнечные батареи без воды](https://habr.com/ru/news/752732/?utm_campaign=752732&utm_source=habrahabr&utm_medium=rss)
-- [С днем рождения, кожаный мешок](https://habr.com/ru/news/752708/?utm_campaign=752708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
