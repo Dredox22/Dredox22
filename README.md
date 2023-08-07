@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Определитель номера в приложении «Яндекс» с Алисой научился предупреждать о нежелательных вызовах в мессенджерах](https://habr.com/ru/news/753010/?utm_campaign=753010&utm_source=habrahabr&utm_medium=rss)
+- [Финансовая платформа “ФИНМАРТ 24” увеличила конверсию благодаря российской AI-технологии](https://habr.com/ru/companies/smartengines/news/753006/?utm_campaign=753006&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» рассказала о появлении нового ВПО и новых кампаниях двух известных вредоносов](https://habr.com/ru/news/753000/?utm_campaign=753000&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь обнаружил, что за стикером «нет USB» на принтерах HP есть порт для внешнего кабельного подключения](https://habr.com/ru/news/752992/?utm_campaign=752992&utm_source=habrahabr&utm_medium=rss)
 - [24 августа проведём конференции про архитектору, бэкенд, инфраструктуру и ML в e-com](https://habr.com/ru/companies/sbermarket/news/752978/?utm_campaign=752978&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре подготовили рекомендации операторам персональных данных на фоне массовых утечек в этом году](https://habr.com/ru/news/752968/?utm_campaign=752968&utm_source=habrahabr&utm_medium=rss)
-- [В новой версии BI.ZONE CESP расширились настройки и возможности фильтрации писем](https://habr.com/ru/news/752964/?utm_campaign=752964&utm_source=habrahabr&utm_medium=rss)
-- [«Росэлектроника» создала решение, повышающее в 8 раз скорость передачи данных в КВ-диапозоне](https://habr.com/ru/news/752956/?utm_campaign=752956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
