@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei открыла доступ к бесплатной ИИ-модели Pangu-Weather для предсказания атмосферных явлений](https://habr.com/ru/news/752934/?utm_campaign=752934&utm_source=habrahabr&utm_medium=rss)
 - [Ассоциация банков России &lpar;АБР&rpar; обратилась в Центробанк РФ с просьбой разъяснить отдельные положения по цифровому рублю](https://habr.com/ru/news/752920/?utm_campaign=752920&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст с помощью Raspberry Pi Zero W превратил ЭЛТ-телевизор в Smart TV](https://habr.com/ru/news/752908/?utm_campaign=752908&utm_source=habrahabr&utm_medium=rss)
 - [В заброшенных электросамокатах Spin в Сиэтле нашли Raspberry Pi 4B, пока неясно, можно ли эти платы официально изымать](https://habr.com/ru/news/752902/?utm_campaign=752902&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Детройта арестовала за угон беременную женщину из-за ложного срабатывания системы распознавания лиц](https://habr.com/ru/news/752894/?utm_campaign=752894&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры выложили в открытый доступ дамп базы форума sysadmins.ru](https://habr.com/ru/news/752876/?utm_campaign=752876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
