@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/753110/?utm_campaign=753110&utm_source=habrahabr&utm_medium=rss)
 - [PayPal запустила свой стейблкойн PayPal USD &lpar;PYUSD&rpar;](https://habr.com/ru/news/753090/?utm_campaign=753090&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из DevDojo открыли код UI-библиотеки Pines, основанной на Alpine и Tailwind](https://habr.com/ru/news/753046/?utm_campaign=753046&utm_source=habrahabr&utm_medium=rss)
 - [Определитель номера в приложении «Яндекс» с Алисой научился предупреждать о нежелательных вызовах в мессенджерах](https://habr.com/ru/news/753010/?utm_campaign=753010&utm_source=habrahabr&utm_medium=rss)
 - [Финансовая платформа “ФИНМАРТ 24” увеличила конверсию благодаря российской AI-технологии](https://habr.com/ru/companies/smartengines/news/753006/?utm_campaign=753006&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» рассказала о появлении нового ВПО и новых кампаниях двух известных вредоносов](https://habr.com/ru/news/753000/?utm_campaign=753000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
