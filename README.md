@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Исследователям безопасности удалось распознать текст по звуку щелчков клавиатуры](https://habr.com/ru/news/753138/?utm_campaign=753138&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи по всей России жалуются на массовый сбой в работе VPN-протоколов OpenVPN и WireGuard](https://habr.com/ru/news/753128/?utm_campaign=753128&utm_source=habrahabr&utm_medium=rss)
+- [upd: Пользователи по всей России жалуются на массовый сбой в работе VPN-протоколов OpenVPN и WireGuard](https://habr.com/ru/news/753128/?utm_campaign=753128&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/753110/?utm_campaign=753110&utm_source=habrahabr&utm_medium=rss)
 - [PayPal запустила свой стейблкойн PayPal USD &lpar;PYUSD&rpar;](https://habr.com/ru/news/753090/?utm_campaign=753090&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из DevDojo открыли код UI-библиотеки Pines, основанной на Alpine и Tailwind](https://habr.com/ru/news/753046/?utm_campaign=753046&utm_source=habrahabr&utm_medium=rss)
