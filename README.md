@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» объявил о приобретении мультибанковской IT-платформы «Фазум»](https://habr.com/ru/news/753308/?utm_campaign=753308&utm_source=habrahabr&utm_medium=rss)
 - [Управление по защите данных Финляндии с 1 сентября временно запретит агрегатору такси Yango передавать данные в Россию](https://habr.com/ru/news/753266/?utm_campaign=753266&utm_source=habrahabr&utm_medium=rss)
 - [Иск к Google на $5 млрд за отслеживание в «режиме инкогнито» приближается к полноценному судебному разбирательству](https://habr.com/ru/news/753258/?utm_campaign=753258&utm_source=habrahabr&utm_medium=rss)
 - [«ФОРС Дистрибуция» стала партнером «Базальт СПО» в статусе реселлера](https://habr.com/ru/companies/basealtspo/news/753238/?utm_campaign=753238&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил «Яндекс ТВ Станцию»](https://habr.com/ru/news/753226/?utm_campaign=753226&utm_source=habrahabr&utm_medium=rss)
-- [Zoom будет собирать все данные пользователей для обучения своих ИИ-моделей](https://habr.com/ru/news/753202/?utm_campaign=753202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
