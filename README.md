@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучших этичных хакеров России наградили премией](https://habr.com/ru/news/753048/?utm_campaign=753048&utm_source=habrahabr&utm_medium=rss)
+- [Apple Music запустила сервис Discovery Station для поиска новых песен](https://habr.com/ru/news/753178/?utm_campaign=753178&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Bing заработает в сторонних браузерах и на мобильных устройствах](https://habr.com/ru/news/753176/?utm_campaign=753176&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отключит Cortana в Windows 10](https://habr.com/ru/news/753170/?utm_campaign=753170&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор проверит информацию об утечке данных пользователей «ЛитРес»](https://habr.com/ru/news/753166/?utm_campaign=753166&utm_source=habrahabr&utm_medium=rss)
-- [Новости 31.07-06.08](https://habr.com/ru/news/753146/?utm_campaign=753146&utm_source=habrahabr&utm_medium=rss)
-- [Исследователям безопасности удалось распознать текст по звуку щелчков клавиатуры](https://habr.com/ru/news/753138/?utm_campaign=753138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
