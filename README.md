@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики веб-сайтов теперь могут запретить боту GPTBot от OpenAI посещать сайт](https://habr.com/ru/news/753406/?utm_campaign=753406&utm_source=habrahabr&utm_medium=rss)
 - [Google анонсировала Project IDX — облачную IDE на базе VS Code с искусственным интеллектом](https://habr.com/ru/news/753400/?utm_campaign=753400&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI представила StableCode — нейросеть для генерации кода](https://habr.com/ru/news/753396/?utm_campaign=753396&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Rhino Linux 2023.1](https://habr.com/ru/news/753394/?utm_campaign=753394&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики «Смуты» опубликовали новые скриншоты игры](https://habr.com/ru/news/753390/?utm_campaign=753390&utm_source=habrahabr&utm_medium=rss)
-- [Valve запустила в продажу восстановленные Steam Deck со скидкой в 20% по отношению к новым устройствам](https://habr.com/ru/news/753380/?utm_campaign=753380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
