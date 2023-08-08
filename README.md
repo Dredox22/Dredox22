@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские учёные нашли эффективный алгоритм для прогнозирования развития шизофрении](https://habr.com/ru/news/753360/?utm_campaign=753360&utm_source=habrahabr&utm_medium=rss)
+- [Российские компании предложили не наказывать за утечки данных, если пользователь сам публично раскрыл информацию](https://habr.com/ru/news/753352/?utm_campaign=753352&utm_source=habrahabr&utm_medium=rss)
 - [Поиск Google научился проверять грамматику запроса, а не просто предлагать исправления](https://habr.com/ru/news/753344/?utm_campaign=753344&utm_source=habrahabr&utm_medium=rss)
 - [Когда использовать протоколы OAuth 2 и OIDC и причём тут JWT](https://habr.com/ru/companies/southbridge/news/753340/?utm_campaign=753340&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» объявил о приобретении мультибанковской IT-платформы «Фазум»](https://habr.com/ru/news/753308/?utm_campaign=753308&utm_source=habrahabr&utm_medium=rss)
-- [Управление по защите данных Финляндии с 1 сентября временно запретит агрегатору такси Yango передавать данные в Россию](https://habr.com/ru/news/753266/?utm_campaign=753266&utm_source=habrahabr&utm_medium=rss)
-- [Иск к Google на $5 млрд за отслеживание в «режиме инкогнито» приближается к полноценному судебному разбирательству](https://habr.com/ru/news/753258/?utm_campaign=753258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
