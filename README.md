@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve запустила в продажу восстановленные Steam Deck со скидкой в 20% по отношению к новым устройствам](https://habr.com/ru/news/753380/?utm_campaign=753380&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Такси» пояснили, что сервис не передаёт спецслужбам РФ данные о зарубежных пользователях](https://habr.com/ru/news/753376/?utm_campaign=753376&utm_source=habrahabr&utm_medium=rss)
+- [PayPal запустил свой стейблкоин](https://habr.com/ru/news/753374/?utm_campaign=753374&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные нашли эффективный алгоритм для прогнозирования развития шизофрении](https://habr.com/ru/news/753360/?utm_campaign=753360&utm_source=habrahabr&utm_medium=rss)
 - [Российские компании предложили не наказывать за утечки данных, если пользователь сам публично раскрыл информацию](https://habr.com/ru/news/753352/?utm_campaign=753352&utm_source=habrahabr&utm_medium=rss)
-- [Поиск Google научился проверять грамматику запроса, а не просто предлагать исправления](https://habr.com/ru/news/753344/?utm_campaign=753344&utm_source=habrahabr&utm_medium=rss)
-- [Когда использовать протоколы OAuth 2 и OIDC и причём тут JWT](https://habr.com/ru/companies/southbridge/news/753340/?utm_campaign=753340&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» объявил о приобретении мультибанковской IT-платформы «Фазум»](https://habr.com/ru/news/753308/?utm_campaign=753308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
