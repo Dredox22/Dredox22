@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Регуляторы США оштрафовали 11 финорганизаций за нарушения передачи информации через WhatsApp, iMessage и Signal](https://habr.com/ru/news/753434/?utm_campaign=753434&utm_source=habrahabr&utm_medium=rss)
+- [В бета-версии iOS 17 Apple переместила красную кнопку «Завершить вызов» из центра нижней части экрана в правый угол вниз](https://habr.com/ru/news/753432/?utm_campaign=753432&utm_source=habrahabr&utm_medium=rss)
+- [Axoft становится дистрибьютором Visiology](https://habr.com/ru/companies/visiology/news/753428/?utm_campaign=753428&utm_source=habrahabr&utm_medium=rss)
 - [Спустя двое суток в РФ частично прекратился массовый сбой в работе VPN-протоколов OpenVPN и WireGuard](https://habr.com/ru/news/753424/?utm_campaign=753424&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики веб-сайтов теперь могут запретить боту GPTBot от OpenAI посещать сайт](https://habr.com/ru/news/753406/?utm_campaign=753406&utm_source=habrahabr&utm_medium=rss)
-- [Google анонсировала Project IDX — облачную IDE на базе VS Code с искусственным интеллектом](https://habr.com/ru/news/753400/?utm_campaign=753400&utm_source=habrahabr&utm_medium=rss)
-- [Stability AI представила StableCode — нейросеть для генерации кода](https://habr.com/ru/news/753396/?utm_campaign=753396&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Rhino Linux 2023.1](https://habr.com/ru/news/753394/?utm_campaign=753394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
