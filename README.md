@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик-энтузиаст представил проект карты GitHub](https://habr.com/ru/news/753598/?utm_campaign=753598&utm_source=habrahabr&utm_medium=rss)
+- [Call of Duty: Modern Warfare III выйдет 10 ноября](https://habr.com/ru/news/753594/?utm_campaign=753594&utm_source=habrahabr&utm_medium=rss)
+- [Министерство цифрового развития Казахстана временно прекратило работу домена yandex.kz в стране, сейчас сервис доступен](https://habr.com/ru/news/753588/?utm_campaign=753588&utm_source=habrahabr&utm_medium=rss)
 - [Iception и Downfall — две новые уязвимости в процессорах AMD и Intel](https://habr.com/ru/companies/dcmiran/news/753542/?utm_campaign=753542&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» начал заменять элементы каналообразующего оборудования Nokia и Coriant на решения российской компании Т8](https://habr.com/ru/news/753510/?utm_campaign=753510&utm_source=habrahabr&utm_medium=rss)
-- [Научно-исследовательские организации номинировали 92 учёных на Научную премию «Сбера» 2023 года](https://habr.com/ru/news/753478/?utm_campaign=753478&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Погода» запустила платформу планирования для бизнеса с учётом погодных условий](https://habr.com/ru/news/753470/?utm_campaign=753470&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Go 1.21](https://habr.com/ru/news/753458/?utm_campaign=753458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
