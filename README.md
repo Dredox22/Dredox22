@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Научно-исследовательские организации номинировали 92 учёных на Научную премию «Сбера» 2023 года](https://habr.com/ru/news/753478/?utm_campaign=753478&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Погода» запустила платформу планирования для бизнеса с учётом погодных условий](https://habr.com/ru/news/753470/?utm_campaign=753470&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Go 1.21](https://habr.com/ru/news/753458/?utm_campaign=753458&utm_source=habrahabr&utm_medium=rss)
 - [Facebook** Messenger перестанет поддерживать SMS после 28 сентября](https://habr.com/ru/news/753456/?utm_campaign=753456&utm_source=habrahabr&utm_medium=rss)
 - [Boeing провела публичную демонстрацию полёта аэротакси Wisk Aero](https://habr.com/ru/news/753452/?utm_campaign=753452&utm_source=habrahabr&utm_medium=rss)
-- [Movella выпустила систему захвата движений для виртуальных стримеров](https://habr.com/ru/news/753446/?utm_campaign=753446&utm_source=habrahabr&utm_medium=rss)
-- [Регуляторы США оштрафовали 11 финорганизаций за нарушения передачи информации через WhatsApp, iMessage и Signal](https://habr.com/ru/news/753434/?utm_campaign=753434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
