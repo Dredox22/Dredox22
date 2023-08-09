@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Iception и Downfall — две новые уязвимости в процессорах AMD и Intel](https://habr.com/ru/companies/dcmiran/news/753542/?utm_campaign=753542&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» начал заменять элементы каналообразующего оборудования Nokia и Coriant на решения российской компании Т8](https://habr.com/ru/news/753510/?utm_campaign=753510&utm_source=habrahabr&utm_medium=rss)
 - [Научно-исследовательские организации номинировали 92 учёных на Научную премию «Сбера» 2023 года](https://habr.com/ru/news/753478/?utm_campaign=753478&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Погода» запустила платформу планирования для бизнеса с учётом погодных условий](https://habr.com/ru/news/753470/?utm_campaign=753470&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Go 1.21](https://habr.com/ru/news/753458/?utm_campaign=753458&utm_source=habrahabr&utm_medium=rss)
-- [Facebook** Messenger перестанет поддерживать SMS после 28 сентября](https://habr.com/ru/news/753456/?utm_campaign=753456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
