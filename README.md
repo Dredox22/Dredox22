@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: в РЖД запретили сотрудникам использовать iPhone в служебных целях](https://habr.com/ru/news/753644/?utm_campaign=753644&utm_source=habrahabr&utm_medium=rss)
 - [На заводе «КАМАЗ» началась опытная эксплуатация двух пассивных экзоскелетов Exorise российского производства](https://habr.com/ru/news/753624/?utm_campaign=753624&utm_source=habrahabr&utm_medium=rss)
 - [В РТУ МИРЭА создаётся лаборатория по изучению программных продуктов семейства Astra Linux](https://habr.com/ru/news/753608/?utm_campaign=753608&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик-энтузиаст представил проект карты GitHub](https://habr.com/ru/news/753598/?utm_campaign=753598&utm_source=habrahabr&utm_medium=rss)
 - [Call of Duty: Modern Warfare III выйдет 10 ноября](https://habr.com/ru/news/753594/?utm_campaign=753594&utm_source=habrahabr&utm_medium=rss)
-- [Министерство цифрового развития Казахстана временно прекратило работу домена yandex.kz в стране, сейчас сервис доступен](https://habr.com/ru/news/753588/?utm_campaign=753588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
