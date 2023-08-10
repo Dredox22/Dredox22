@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Митап «Контейнерная оркестрация на отечественном»](https://habr.com/ru/companies/jetinfosystems/news/753750/?utm_campaign=753750&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз набора инструментов Jetpack Compose 1.5](https://habr.com/ru/news/753734/?utm_campaign=753734&utm_source=habrahabr&utm_medium=rss)
 - [Верховный суд РФ отказался признать электронную почту персональными данными зарегистрировавшего её человека](https://habr.com/ru/news/753732/?utm_campaign=753732&utm_source=habrahabr&utm_medium=rss)
 - [Центробанк РФ: предложения о покупке физических цифровых рублей будут считаться мошенничеством](https://habr.com/ru/news/753722/?utm_campaign=753722&utm_source=habrahabr&utm_medium=rss)
 - [F.A.C.C.T. и «Азбука вкуса»: опыт импортозамещения решений для защиты электронной почты](https://habr.com/ru/companies/f_a_c_c_t/news/753716/?utm_campaign=753716&utm_source=habrahabr&utm_medium=rss)
-- [Telegram обогнал «ВКонтакте» по дневной аудитории в России](https://habr.com/ru/news/753710/?utm_campaign=753710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
