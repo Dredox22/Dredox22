@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony Entertainment, Warner Music Group и Universal Music добились блокировки сайта проекта youtube-dl](https://habr.com/ru/news/753678/?utm_campaign=753678&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Jetpack Emoji Picker — библиотеку для добавления в приложения возможности выбора эмодзи](https://habr.com/ru/news/753668/?utm_campaign=753668&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains выпустила обновлённый менеджер Toolbox 2.0](https://habr.com/ru/news/753666/?utm_campaign=753666&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз утилиты Whisky для macOS, позволяющей быстро запускать игры из Steam](https://habr.com/ru/news/753662/?utm_campaign=753662&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи безопасности обнаружили, что расширения для VS Code могут красть пользовательские токены аутентификации](https://habr.com/ru/news/753652/?utm_campaign=753652&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в РЖД запретили сотрудникам использовать iPhone в служебных целях](https://habr.com/ru/news/753644/?utm_campaign=753644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
