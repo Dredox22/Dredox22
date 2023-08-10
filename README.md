@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В браузере Microsoft Edge можно будет экспортировать историю в CSV](https://habr.com/ru/news/753696/?utm_campaign=753696&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft в тестовой версии Edge предлагает сохранять скриншот каждой посещённой веб-страницы](https://habr.com/ru/news/753690/?utm_campaign=753690&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики среды виртуализации UTM запустили Windows XP на гарнитуре Apple Vision Pro](https://habr.com/ru/news/753684/?utm_campaign=753684&utm_source=habrahabr&utm_medium=rss)
-- [Sony Entertainment, Warner Music Group и Universal Music добились блокировки сайта проекта youtube-dl](https://habr.com/ru/news/753678/?utm_campaign=753678&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Jetpack Emoji Picker — библиотеку для добавления в приложения возможности выбора эмодзи](https://habr.com/ru/news/753668/?utm_campaign=753668&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз набора инструментов Jetpack Compose 1.5](https://habr.com/ru/news/753734/?utm_campaign=753734&utm_source=habrahabr&utm_medium=rss)
+- [Верховный суд РФ отказался признать электронную почту персональными данными зарегистрировавшего её человека](https://habr.com/ru/news/753732/?utm_campaign=753732&utm_source=habrahabr&utm_medium=rss)
+- [Центробанк РФ: предложения о покупке физических цифровых рублей будут считаться мошенничеством](https://habr.com/ru/news/753722/?utm_campaign=753722&utm_source=habrahabr&utm_medium=rss)
+- [F.A.C.C.T. и «Азбука вкуса»: опыт импортозамещения решений для защиты электронной почты](https://habr.com/ru/companies/f_a_c_c_t/news/753716/?utm_campaign=753716&utm_source=habrahabr&utm_medium=rss)
+- [Telegram обогнал «ВКонтакте» по дневной аудитории в России](https://habr.com/ru/news/753710/?utm_campaign=753710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
