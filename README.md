@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В браузере Microsoft Edge можно будет экспортировать историю в CSV](https://habr.com/ru/news/753696/?utm_campaign=753696&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft в тестовой версии Edge предлагает сохранять скриншот каждой посещённой веб-страницы](https://habr.com/ru/news/753690/?utm_campaign=753690&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики среды виртуализации UTM запустили Windows XP на гарнитуре Apple Vision Pro](https://habr.com/ru/news/753684/?utm_campaign=753684&utm_source=habrahabr&utm_medium=rss)
 - [Sony Entertainment, Warner Music Group и Universal Music добились блокировки сайта проекта youtube-dl](https://habr.com/ru/news/753678/?utm_campaign=753678&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Jetpack Emoji Picker — библиотеку для добавления в приложения возможности выбора эмодзи](https://habr.com/ru/news/753668/?utm_campaign=753668&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains выпустила обновлённый менеджер Toolbox 2.0](https://habr.com/ru/news/753666/?utm_campaign=753666&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз утилиты Whisky для macOS, позволяющей быстро запускать игры из Steam](https://habr.com/ru/news/753662/?utm_campaign=753662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
