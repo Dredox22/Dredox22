@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение «Авито» пропало из Google Play из-за технической ошибки, разработчики её исправили](https://habr.com/ru/news/753908/?utm_campaign=753908&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram Ads теперь можно продвигать внешние ссылки](https://habr.com/ru/companies/click/news/753804/?utm_campaign=753804&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft с 30 сентября 2023 года прекратит продление корпоративных лицензий на продукты и решения компании в РФ](https://habr.com/ru/news/753790/?utm_campaign=753790&utm_source=habrahabr&utm_medium=rss)
 - [Slack обновила дизайн платформы и упростила интерфейс приложения](https://habr.com/ru/news/753770/?utm_campaign=753770&utm_source=habrahabr&utm_medium=rss)
 - [Митап «Контейнерная оркестрация на отечественном»](https://habr.com/ru/companies/jetinfosystems/news/753750/?utm_campaign=753750&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз набора инструментов Jetpack Compose 1.5](https://habr.com/ru/news/753734/?utm_campaign=753734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
