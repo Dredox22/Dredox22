@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [HashiCorp отказалась от Open Source-лицензии для своих продуктов](https://habr.com/ru/companies/flant/news/754094/?utm_campaign=754094&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: двухфакторную аутентификацию для входа на «Госуслуги» подключил каждый пятый пользователь](https://habr.com/ru/news/754062/?utm_campaign=754062&utm_source=habrahabr&utm_medium=rss)
 - [Расследование спецслужб США: хакеры Lapsus$ вывели атаки с подменой СИМ-карт на новый уровень](https://habr.com/ru/news/754050/?utm_campaign=754050&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия корпоративного мессенджера «DION.Чаты»](https://habr.com/ru/news/754046/?utm_campaign=754046&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» создала источники питания для серверов, телекоммуникационного оборудования и СХД](https://habr.com/ru/news/754032/?utm_campaign=754032&utm_source=habrahabr&utm_medium=rss)
-- [Отечественная ОС «Альт СП» релиз 10 отвечает требованиям ФСТЭК России по защите средств виртуализации и контейнеризации](https://habr.com/ru/companies/basealtspo/news/754012/?utm_campaign=754012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
