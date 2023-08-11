@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Расследование спецслужб США: хакеры Lapsus$ вывели атаки с подменой СИМ-карт на новый уровень](https://habr.com/ru/news/754050/?utm_campaign=754050&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия корпоративного мессенджера «DION.Чаты»](https://habr.com/ru/news/754046/?utm_campaign=754046&utm_source=habrahabr&utm_medium=rss)
+- [«Росэлектроника» создала источники питания для серверов, телекоммуникационного оборудования и СХД](https://habr.com/ru/news/754032/?utm_campaign=754032&utm_source=habrahabr&utm_medium=rss)
 - [Отечественная ОС «Альт СП» релиз 10 отвечает требованиям ФСТЭК России по защите средств виртуализации и контейнеризации](https://habr.com/ru/companies/basealtspo/news/754012/?utm_campaign=754012&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: ограничение доступа к приложениям Apple в Китае может угрожать бизнесу части разработчиков в США](https://habr.com/ru/news/754010/?utm_campaign=754010&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс запускает бесплатный курс по подготовке школьников к олимпиадам по программированию](https://habr.com/ru/news/753998/?utm_campaign=753998&utm_source=habrahabr&utm_medium=rss)
-- [Запускаем бесплатные курсы — DevOps и Kubernetes](https://habr.com/ru/companies/beeline_tech/news/753962/?utm_campaign=753962&utm_source=habrahabr&utm_medium=rss)
-- [Stray вышла на Xbox Series X/S и Xbox One](https://habr.com/ru/news/753956/?utm_campaign=753956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
