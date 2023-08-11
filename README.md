@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Отечественная ОС «Альт СП» релиз 10 отвечает требованиям ФСТЭК России по защите средств виртуализации и контейнеризации](https://habr.com/ru/companies/basealtspo/news/754012/?utm_campaign=754012&utm_source=habrahabr&utm_medium=rss)
+- [Reuters: ограничение доступа к приложениям Apple в Китае может угрожать бизнесу части разработчиков в США](https://habr.com/ru/news/754010/?utm_campaign=754010&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс запускает бесплатный курс по подготовке школьников к олимпиадам по программированию](https://habr.com/ru/news/753998/?utm_campaign=753998&utm_source=habrahabr&utm_medium=rss)
 - [Запускаем бесплатные курсы — DevOps и Kubernetes](https://habr.com/ru/companies/beeline_tech/news/753962/?utm_campaign=753962&utm_source=habrahabr&utm_medium=rss)
 - [Stray вышла на Xbox Series X/S и Xbox One](https://habr.com/ru/news/753956/?utm_campaign=753956&utm_source=habrahabr&utm_medium=rss)
-- [Google внедрила сквозное шифрование в RCS-сообщениях по умолчанию для всех пользователей Messages](https://habr.com/ru/news/753946/?utm_campaign=753946&utm_source=habrahabr&utm_medium=rss)
-- [Банк России проверит кибербезопасность по-новому](https://habr.com/ru/news/753954/?utm_campaign=753954&utm_source=habrahabr&utm_medium=rss)
-- [Intel готовит новый процессор на замену офисным Pentium](https://habr.com/ru/companies/dcmiran/news/753950/?utm_campaign=753950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
