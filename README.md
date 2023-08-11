@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox для Android получит поддержку десктопных браузерных расширений](https://habr.com/ru/news/754138/?utm_campaign=754138&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил браузерную версию классической игры Wipeout](https://habr.com/ru/news/754130/?utm_campaign=754130&utm_source=habrahabr&utm_medium=rss)
 - [Telegram вошёл в тройку лидеров по объёму трафика среди сервисов в России](https://habr.com/ru/news/754108/?utm_campaign=754108&utm_source=habrahabr&utm_medium=rss)
 - [HashiCorp отказалась от Open Source-лицензии для своих продуктов](https://habr.com/ru/companies/flant/news/754094/?utm_campaign=754094&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: двухфакторную аутентификацию для входа на «Госуслуги» подключил каждый пятый пользователь](https://habr.com/ru/news/754062/?utm_campaign=754062&utm_source=habrahabr&utm_medium=rss)
-- [Расследование спецслужб США: хакеры Lapsus$ вывели атаки с подменой СИМ-карт на новый уровень](https://habr.com/ru/news/754050/?utm_campaign=754050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
