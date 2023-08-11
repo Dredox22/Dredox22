@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложение «Авито» пропало из Google Play из-за технической ошибки, разработчики её исправили](https://habr.com/ru/news/753908/?utm_campaign=753908&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram Ads теперь можно продвигать внешние ссылки](https://habr.com/ru/companies/click/news/753804/?utm_campaign=753804&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft с 30 сентября 2023 года прекратит продление корпоративных лицензий на продукты и решения компании в РФ](https://habr.com/ru/news/753790/?utm_campaign=753790&utm_source=habrahabr&utm_medium=rss)
-- [Slack обновила дизайн платформы и упростила интерфейс приложения](https://habr.com/ru/news/753770/?utm_campaign=753770&utm_source=habrahabr&utm_medium=rss)
-- [Митап «Контейнерная оркестрация на отечественном»](https://habr.com/ru/companies/jetinfosystems/news/753750/?utm_campaign=753750&utm_source=habrahabr&utm_medium=rss)
+- [Запускаем бесплатные курсы — DevOps и Kubernetes](https://habr.com/ru/companies/beeline_tech/news/753962/?utm_campaign=753962&utm_source=habrahabr&utm_medium=rss)
+- [Stray вышла на Xbox Series X/S и Xbox One](https://habr.com/ru/news/753956/?utm_campaign=753956&utm_source=habrahabr&utm_medium=rss)
+- [Google внедрила сквозное шифрование в RCS-сообщениях по умолчанию для всех пользователей Messages](https://habr.com/ru/news/753946/?utm_campaign=753946&utm_source=habrahabr&utm_medium=rss)
+- [Банк России проверит кибербезопасность по-новому](https://habr.com/ru/news/753954/?utm_campaign=753954&utm_source=habrahabr&utm_medium=rss)
+- [Intel готовит новый процессор на замену офисным Pentium](https://habr.com/ru/companies/dcmiran/news/753950/?utm_campaign=753950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
