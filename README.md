@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoom пообещала не использовать клиентский контент для обучения ИИ](https://habr.com/ru/news/754218/?utm_campaign=754218&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Минцифры считает ожидаемым решение Microsoft по отказу от продления подписок для российских корпоративных клиентов](https://habr.com/ru/news/754198/?utm_campaign=754198&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор порекомендовал компаниям ускорить перевод инфосистем и VPN-сервисов на IT-инфраструктуру внутри страны](https://habr.com/ru/news/754192/?utm_campaign=754192&utm_source=habrahabr&utm_medium=rss)
 - [Defcon: подростки взломали систему карт метрополитена Бостона ради бесплатного проезда](https://habr.com/ru/news/754170/?utm_campaign=754170&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры РФ запретило сотрудникам использовать iPhone и iPad в служебных целях](https://habr.com/ru/news/754166/?utm_campaign=754166&utm_source=habrahabr&utm_medium=rss)
-- [Квест по замещению закрытых сервисов и блокированного ПО на аналоги или доступные альтернативы [ver. 12.08.23]](https://habr.com/ru/news/754140/?utm_campaign=754140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
