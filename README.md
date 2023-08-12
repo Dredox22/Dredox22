@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры РФ запретило сотрудникам использовать iPhone и iPad в служебных целях](https://habr.com/ru/news/754166/?utm_campaign=754166&utm_source=habrahabr&utm_medium=rss)
 - [Квест по замещению закрытых сервисов и блокированного ПО на аналоги или доступные альтернативы [ver. 12.08.23]](https://habr.com/ru/news/754140/?utm_campaign=754140&utm_source=habrahabr&utm_medium=rss)
 - [Firefox для Android получит поддержку десктопных браузерных расширений](https://habr.com/ru/news/754138/?utm_campaign=754138&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил браузерную версию классической игры Wipeout](https://habr.com/ru/news/754130/?utm_campaign=754130&utm_source=habrahabr&utm_medium=rss)
 - [Telegram вошёл в тройку лидеров по объёму трафика среди сервисов в России](https://habr.com/ru/news/754108/?utm_campaign=754108&utm_source=habrahabr&utm_medium=rss)
-- [HashiCorp отказалась от Open Source-лицензии для своих продуктов](https://habr.com/ru/companies/flant/news/754094/?utm_campaign=754094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
