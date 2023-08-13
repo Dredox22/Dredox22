@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Роскосмос»: состоялось первое включение и передача данных от комплекса научной аппаратуры «Луны-25»](https://habr.com/ru/news/754324/?utm_campaign=754324&utm_source=habrahabr&utm_medium=rss)
 - [Калифорния начала применять ИИ для предупреждения лесных пожаров](https://habr.com/ru/news/754300/?utm_campaign=754300&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: многие новые спутники связи от разных стартапов не имеют систем защиты и передают данные без шифрования](https://habr.com/ru/news/754294/?utm_campaign=754294&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты предложили несколько способов нейтрализации тепловых следов после ввода паролей и пин-кодов](https://habr.com/ru/news/754288/?utm_campaign=754288&utm_source=habrahabr&utm_medium=rss)
 - [Режим предварительной версии Microsoft SQL Server 2022 доступен для RHEL 9 и Ubuntu 22.04](https://habr.com/ru/news/754282/?utm_campaign=754282&utm_source=habrahabr&utm_medium=rss)
-- [Ford отрицает опасность вождения автомобилей с уязвимостью Wi-Fi](https://habr.com/ru/news/754274/?utm_campaign=754274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
