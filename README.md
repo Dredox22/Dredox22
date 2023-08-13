@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты предложили несколько способов нейтрализации тепловых следов после ввода паролей и пин-кодов](https://habr.com/ru/news/754288/?utm_campaign=754288&utm_source=habrahabr&utm_medium=rss)
 - [Режим предварительной версии Microsoft SQL Server 2022 доступен для RHEL 9 и Ubuntu 22.04](https://habr.com/ru/news/754282/?utm_campaign=754282&utm_source=habrahabr&utm_medium=rss)
 - [Ford отрицает опасность вождения автомобилей с уязвимостью Wi-Fi](https://habr.com/ru/news/754274/?utm_campaign=754274&utm_source=habrahabr&utm_medium=rss)
 - [В Ираке разблокировали доступ к Telegram после начала сотрудничества с администрацией платформы](https://habr.com/ru/news/754276/?utm_campaign=754276&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi в китайской версии прошивки MIUI начала блокировать установку Telegram как «опасную»](https://habr.com/ru/news/754270/?utm_campaign=754270&utm_source=habrahabr&utm_medium=rss)
-- [SW JProjects v.1.7.0 — обновление менеджера цифровых проектов для Joomla разработчиков](https://habr.com/ru/news/754252/?utm_campaign=754252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
