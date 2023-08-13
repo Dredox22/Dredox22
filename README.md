@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford отрицает опасность вождения автомобилей с уязвимостью Wi-Fi](https://habr.com/ru/news/754274/?utm_campaign=754274&utm_source=habrahabr&utm_medium=rss)
+- [В Ираке разблокировали доступ к Telegram после начала сотрудничества с администрацией платформы](https://habr.com/ru/news/754276/?utm_campaign=754276&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi в китайской версии прошивки MIUI начала блокировать установку Telegram как «опасную»](https://habr.com/ru/news/754270/?utm_campaign=754270&utm_source=habrahabr&utm_medium=rss)
 - [SW JProjects v.1.7.0 — обновление менеджера цифровых проектов для Joomla разработчиков](https://habr.com/ru/news/754252/?utm_campaign=754252&utm_source=habrahabr&utm_medium=rss)
 - [Zoom пообещала не использовать клиентский контент для обучения ИИ](https://habr.com/ru/news/754218/?utm_campaign=754218&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Минцифры считает ожидаемым решение Microsoft по отказу от продления подписок для российских корпоративных клиентов](https://habr.com/ru/news/754198/?utm_campaign=754198&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор порекомендовал компаниям ускорить перевод инфосистем и VPN-сервисов на IT-инфраструктуру внутри страны](https://habr.com/ru/news/754192/?utm_campaign=754192&utm_source=habrahabr&utm_medium=rss)
-- [Defcon: подростки взломали систему карт метрополитена Бостона ради бесплатного проезда](https://habr.com/ru/news/754170/?utm_campaign=754170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
