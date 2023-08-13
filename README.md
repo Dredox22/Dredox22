@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Режим предварительного просмотра Microsoft SQL Server 2022 доступен для RHEL 9 и Ubuntu 22.04](https://habr.com/ru/news/754282/?utm_campaign=754282&utm_source=habrahabr&utm_medium=rss)
+- [Режим предварительной версии Microsoft SQL Server 2022 доступен для RHEL 9 и Ubuntu 22.04](https://habr.com/ru/news/754282/?utm_campaign=754282&utm_source=habrahabr&utm_medium=rss)
 - [Ford отрицает опасность вождения автомобилей с уязвимостью Wi-Fi](https://habr.com/ru/news/754274/?utm_campaign=754274&utm_source=habrahabr&utm_medium=rss)
 - [В Ираке разблокировали доступ к Telegram после начала сотрудничества с администрацией платформы](https://habr.com/ru/news/754276/?utm_campaign=754276&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi в китайской версии прошивки MIUI начала блокировать установку Telegram как «опасную»](https://habr.com/ru/news/754270/?utm_campaign=754270&utm_source=habrahabr&utm_medium=rss)
