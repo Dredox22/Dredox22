@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Митап системных аналитиков — SM Lab SA meetUP 2023 &lpar;14.09&rpar;](https://habr.com/ru/companies/sportmaster_lab/news/754484/?utm_campaign=754484&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Goodnote 6 — популярного приложения для рукописных заметок на iPad](https://habr.com/ru/news/754480/?utm_campaign=754480&utm_source=habrahabr&utm_medium=rss)
 - [NLP в BI не работает? Обсудим на вебинаре про Easy Report — российский BI в мессенджере. Подключайтесь](https://habr.com/ru/companies/sapiens_solutions/news/754472/?utm_campaign=754472&utm_source=habrahabr&utm_medium=rss)
 - [Правительство Великобритании ежегодно повторяет, что его сайт для регистрации избирателей не является мошенническим](https://habr.com/ru/news/754458/?utm_campaign=754458&utm_source=habrahabr&utm_medium=rss)
 - [Истории в Telegram станут доступны всем пользователям, но с ограничениями по количеству публикаций](https://habr.com/ru/news/754442/?utm_campaign=754442&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains представила Ask AI — генеративную нейросеть для работы с данными в Datalore](https://habr.com/ru/news/754420/?utm_campaign=754420&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: на доработку ОС «Аврора» до 2027 года необходимо ещё 300 млрд рублей госинвестиций в проект и экосистему](https://habr.com/ru/news/754410/?utm_campaign=754410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
