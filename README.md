@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Истории в Telegram станут доступны всем пользователям, но с ограничениями по количеству публикаций](https://habr.com/ru/news/754442/?utm_campaign=754442&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains представила Ask AI — генеративную нейросеть для работы с данными в Datalore](https://habr.com/ru/news/754420/?utm_campaign=754420&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: на доработку ОС «Аврора» до 2027 года необходимо ещё 300 млрд рублей госинвестиций в проект и экосистему](https://habr.com/ru/news/754410/?utm_campaign=754410&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество разработчиков объявило о продолжении развития проекта Vim после ухода из жизни Брама Моленара](https://habr.com/ru/news/754386/?utm_campaign=754386&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры получили доступ к бесплатным поездкам из-за багов в приложении Moovit](https://habr.com/ru/news/754384/?utm_campaign=754384&utm_source=habrahabr&utm_medium=rss)
-- [В Google Chrome 116 появится поддержка квантово-устойчивых алгоритмов шифрования](https://habr.com/ru/news/754360/?utm_campaign=754360&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
