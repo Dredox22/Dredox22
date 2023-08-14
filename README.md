@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышли стабильные версии библиотек Compose 1.2 и Tiles 1.2 для Wear OS](https://habr.com/ru/news/754544/?utm_campaign=754544&utm_source=habrahabr&utm_medium=rss)
+- [VK представила бета-версию мобильного приложения «VK Видео» на iOS](https://habr.com/ru/news/754536/?utm_campaign=754536&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: на продажу выставлена база данных зарегистрированных пользователей и доступ к серверу Discord.io](https://habr.com/ru/news/754502/?utm_campaign=754502&utm_source=habrahabr&utm_medium=rss)
 - [Митап системных аналитиков — SM Lab SA meetUP 2023 &lpar;14.09&rpar;](https://habr.com/ru/companies/sportmaster_lab/news/754484/?utm_campaign=754484&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Goodnote 6 — популярного приложения для рукописных заметок на iPad](https://habr.com/ru/news/754480/?utm_campaign=754480&utm_source=habrahabr&utm_medium=rss)
-- [NLP в BI не работает? Обсудим на вебинаре про Easy Report — российский BI в мессенджере. Подключайтесь](https://habr.com/ru/companies/sapiens_solutions/news/754472/?utm_campaign=754472&utm_source=habrahabr&utm_medium=rss)
-- [Правительство Великобритании ежегодно повторяет, что его сайт для регистрации избирателей не является мошенническим](https://habr.com/ru/news/754458/?utm_campaign=754458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
