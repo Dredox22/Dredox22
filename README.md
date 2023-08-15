@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Датамайнер обнаружил в CS:GO баг, который позволяет видеть IP-адреса всех игроков в матче в соревновательном режиме](https://habr.com/ru/news/754656/?utm_campaign=754656&utm_source=habrahabr&utm_medium=rss)
+- [Компания по кибербезопасности SecureWorks объявила об увольнении 15% сотрудников](https://habr.com/ru/news/754648/?utm_campaign=754648&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Office в сентябре появятся новое цветовое оформление и шрифт](https://habr.com/ru/news/754614/?utm_campaign=754614&utm_source=habrahabr&utm_medium=rss)
 - [Сервис Discord.io подтвердил факт взлома и утечку данных 760 тыс. пользователей](https://habr.com/ru/news/754608/?utm_campaign=754608&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над обновлённой домашней страницей набора инструментов PowerToys для Windows 10/11](https://habr.com/ru/news/754600/?utm_campaign=754600&utm_source=habrahabr&utm_medium=rss)
-- [«Росэлектроника» показала два защищённых мессенджера для ОС «Аврора», и ОС Android](https://habr.com/ru/news/754574/?utm_campaign=754574&utm_source=habrahabr&utm_medium=rss)
-- [Истории и десятилетие Telegram](https://habr.com/ru/news/754548/?utm_campaign=754548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
