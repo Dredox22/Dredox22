@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Electron 26.0.0](https://habr.com/ru/news/754678/?utm_campaign=754678&utm_source=habrahabr&utm_medium=rss)
+- [В школьном округе штата Айова стали применять ИИ для запрета книг](https://habr.com/ru/news/754666/?utm_campaign=754666&utm_source=habrahabr&utm_medium=rss)
 - [Датамайнер обнаружил в CS:GO баг, который позволяет видеть IP-адреса всех игроков в матче в соревновательном режиме](https://habr.com/ru/news/754656/?utm_campaign=754656&utm_source=habrahabr&utm_medium=rss)
 - [Компания по кибербезопасности SecureWorks объявила об увольнении 15% сотрудников](https://habr.com/ru/news/754648/?utm_campaign=754648&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Office в сентябре появятся новое цветовое оформление и шрифт](https://habr.com/ru/news/754614/?utm_campaign=754614&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Discord.io подтвердил факт взлома и утечку данных 760 тыс. пользователей](https://habr.com/ru/news/754608/?utm_campaign=754608&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft работает над обновлённой домашней страницей набора инструментов PowerToys для Windows 10/11](https://habr.com/ru/news/754600/?utm_campaign=754600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
