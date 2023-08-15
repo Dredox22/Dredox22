@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В мире контейнеров: приглашаем на онлайн-дискуссию о Kubernetes в России сегодня](https://habr.com/ru/companies/southbridge/news/754680/?utm_campaign=754680&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Electron 26.0.0](https://habr.com/ru/news/754678/?utm_campaign=754678&utm_source=habrahabr&utm_medium=rss)
 - [В школьном округе штата Айова стали применять ИИ для запрета книг](https://habr.com/ru/news/754666/?utm_campaign=754666&utm_source=habrahabr&utm_medium=rss)
 - [Датамайнер обнаружил в CS:GO баг, который позволяет видеть IP-адреса всех игроков в матче в соревновательном режиме](https://habr.com/ru/news/754656/?utm_campaign=754656&utm_source=habrahabr&utm_medium=rss)
 - [Компания по кибербезопасности SecureWorks объявила об увольнении 15% сотрудников](https://habr.com/ru/news/754648/?utm_campaign=754648&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Office в сентябре появятся новое цветовое оформление и шрифт](https://habr.com/ru/news/754614/?utm_campaign=754614&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
