@@ -71,8 +71,8 @@
 - [«За стеклом»: исследователи GoSecure 3 года наблюдали за попытками хакеров взломать ханипоты](https://habr.com/ru/companies/cloud4y/news/754754/?utm_campaign=754754&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры РФ представило проект стратегии развития отрасли связи до 2035 года](https://habr.com/ru/news/754736/?utm_campaign=754736&utm_source=habrahabr&utm_medium=rss)
 - [Любой пользователь может просматривать данные школьников в приложении Saturn, но компания заявляет о конфиденциальности](https://habr.com/ru/news/754728/?utm_campaign=754728&utm_source=habrahabr&utm_medium=rss)
-- [VK Education объявляет о начале набора на 3 бесплатных курса по Go, Python и технической поддержке](https://habr.com/ru/news/754714/?utm_campaign=754714&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/754710/?utm_campaign=754710&utm_source=habrahabr&utm_medium=rss)
+- [Прошёл квалификационный этап соревнований по этичному хакингу CTFZone](https://habr.com/ru/news/754708/?utm_campaign=754708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
