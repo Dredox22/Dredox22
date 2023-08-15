@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex Cloud выпустила эпизод подкаста о безопасной работе в облаке для промышленных компаний](https://habr.com/ru/news/754828/?utm_campaign=754828&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Go» тестирует навигацию по вышкам связи и точкам Wi-Fi для Android](https://habr.com/ru/news/754816/?utm_campaign=754816&utm_source=habrahabr&utm_medium=rss)
 - [Дорогая и неэффективная технология: исследование продемонстрировало, что боты проходят капчу лучше людей](https://habr.com/ru/news/754810/?utm_campaign=754810&utm_source=habrahabr&utm_medium=rss)
 - [GitHub подвела итоги своей программы Security Bug Bounty за 2022 год](https://habr.com/ru/news/754808/?utm_campaign=754808&utm_source=habrahabr&utm_medium=rss)
 - [Минобрнауки: Telegram — самый популярный ресурс у молодёжи в возрасте 17–35 лет](https://habr.com/ru/news/754778/?utm_campaign=754778&utm_source=habrahabr&utm_medium=rss)
-- [«За стеклом»: исследователи GoSecure 3 года наблюдали за попытками хакеров взломать ханипоты](https://habr.com/ru/companies/cloud4y/news/754754/?utm_campaign=754754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
