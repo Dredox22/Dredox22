@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В мире контейнеров: приглашаем на онлайн-дискуссию о Kubernetes в России сегодня](https://habr.com/ru/companies/southbridge/news/754680/?utm_campaign=754680&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Electron 26.0.0](https://habr.com/ru/news/754678/?utm_campaign=754678&utm_source=habrahabr&utm_medium=rss)
-- [В школьном округе штата Айова стали применять ИИ для запрета книг](https://habr.com/ru/news/754666/?utm_campaign=754666&utm_source=habrahabr&utm_medium=rss)
-- [Датамайнер обнаружил в CS:GO баг, который позволяет видеть IP-адреса всех игроков в матче в соревновательном режиме](https://habr.com/ru/news/754656/?utm_campaign=754656&utm_source=habrahabr&utm_medium=rss)
-- [Компания по кибербезопасности SecureWorks объявила об увольнении 15% сотрудников](https://habr.com/ru/news/754648/?utm_campaign=754648&utm_source=habrahabr&utm_medium=rss)
+- [Любой пользователь может просматривать данные школьников в приложении Saturn, но компания заявляет о конфиденциальности](https://habr.com/ru/news/754728/?utm_campaign=754728&utm_source=habrahabr&utm_medium=rss)
+- [VK Education объявляет о начале набора на 3 бесплатных курса по Go, Python и технической поддержке](https://habr.com/ru/news/754714/?utm_campaign=754714&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/754710/?utm_campaign=754710&utm_source=habrahabr&utm_medium=rss)
+- [Прошёл квалификационный этап соревнований по этичному хакингу CTFZone](https://habr.com/ru/news/754708/?utm_campaign=754708&utm_source=habrahabr&utm_medium=rss)
+- [Открыта регистрация на конкурс по системному программированию Open OS Challenge 2023 с призовым фондом 600 тыс. рублей](https://habr.com/ru/news/754704/?utm_campaign=754704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
