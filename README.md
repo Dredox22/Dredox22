@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Telegram составили протокол из-за нарушения законодательства о персональных данных](https://habr.com/ru/news/754982/?utm_campaign=754982&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты НИУ ВШЭ создали приложение для оценки речевого развития у детей 3–11 лет](https://habr.com/ru/news/754942/?utm_campaign=754942&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи по всей России опять столкнулись с массовыми сбоями в работе VPN-протоколов OpenVPN и WireGuard](https://habr.com/ru/news/754938/?utm_campaign=754938&utm_source=habrahabr&utm_medium=rss)
-- [Банкоматы Банка Ирландии из-за сбоя почти сутки выдавали по €1000 каждому клиенту с нулевым остатком на счету](https://habr.com/ru/news/754932/?utm_campaign=754932&utm_source=habrahabr&utm_medium=rss)
+- [Банкоматы Банка Ирландии из-за сбоя почти сутки выдавали по €1000 каждому клиенту с нулевым остатком на счетах](https://habr.com/ru/news/754932/?utm_campaign=754932&utm_source=habrahabr&utm_medium=rss)
 - [МВД предложило получать данные с гаджетов граждан и у операторов связи до суда](https://habr.com/ru/news/754930/?utm_campaign=754930&utm_source=habrahabr&utm_medium=rss)
-- [Вышли обновления «Яндекс Браузера» для iPad и планшетов на Android](https://habr.com/ru/news/754834/?utm_campaign=754834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
