@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 2022 году ProtonMail выдал властям данные почти 6 тыс. пользователей](https://habr.com/ru/news/755022/?utm_campaign=755022&utm_source=habrahabr&utm_medium=rss)
+- [Tesla заверяет китайских пользователей в безопасности собираемых о них данных на фоне опасений шпионажа](https://habr.com/ru/news/755018/?utm_campaign=755018&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» предупредил о мошенниках, создающих фальшивые точки доступа Wi-Fi](https://habr.com/ru/news/755008/?utm_campaign=755008&utm_source=habrahabr&utm_medium=rss)
 - [Онлайн-конференция «Эволюция ритейла. XData»](https://habr.com/ru/companies/X5Tech/news/754986/?utm_campaign=754986&utm_source=habrahabr&utm_medium=rss)
 - [На Telegram составили протокол из-за нарушения законодательства о персональных данных](https://habr.com/ru/news/754982/?utm_campaign=754982&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты НИУ ВШЭ создали приложение для оценки речевого развития у детей 3–11 лет](https://habr.com/ru/news/754942/?utm_campaign=754942&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи по всей России опять столкнулись с массовыми сбоями в работе VPN-протоколов OpenVPN и WireGuard](https://habr.com/ru/news/754938/?utm_campaign=754938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
