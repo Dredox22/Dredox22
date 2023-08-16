@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышли обновления «Яндекс Браузера» для iPad и планшетов на Android](https://habr.com/ru/news/754834/?utm_campaign=754834&utm_source=habrahabr&utm_medium=rss)
+- [В бета-версии iOS 17 beta 6 Apple переместила красную кнопку «Завершить вызов» обратно в центр нижней части экрана](https://habr.com/ru/news/754892/?utm_campaign=754892&utm_source=habrahabr&utm_medium=rss)
 - [Проекту Debian GNU/Linux исполнилось 30 лет](https://habr.com/ru/news/754882/?utm_campaign=754882&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Google Фото улучшит представление воспоминаний с помощью генеративного ИИ](https://habr.com/ru/news/754880/?utm_campaign=754880&utm_source=habrahabr&utm_medium=rss)
 - [Bethesda выпустила таймлайн игры Starfield](https://habr.com/ru/news/754832/?utm_campaign=754832&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Cloud выпустила эпизод подкаста о безопасной работе в облаке для промышленных компаний](https://habr.com/ru/news/754828/?utm_campaign=754828&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Go» тестирует навигацию по вышкам связи и точкам Wi-Fi для Android](https://habr.com/ru/news/754816/?utm_campaign=754816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
