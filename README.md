@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub анонсировала Universe — конференцию для разработчиков](https://habr.com/ru/news/755104/?utm_campaign=755104&utm_source=habrahabr&utm_medium=rss)
 - [Мобильное приложение GitHub теперь поддерживает работу с несколькими профилями](https://habr.com/ru/news/755062/?utm_campaign=755062&utm_source=habrahabr&utm_medium=rss)
 - [Blizzard добавила одиночный режим Solo Self Found в Diablo III спустя 11 лет после выхода игры](https://habr.com/ru/news/755046/?utm_campaign=755046&utm_source=habrahabr&utm_medium=rss)
 - [Представлена децентрализованная платформа Veilid и защищённый мессенджер VeilidChat](https://habr.com/ru/news/755042/?utm_campaign=755042&utm_source=habrahabr&utm_medium=rss)
 - [В 2022 году ProtonMail выдал властям данные почти 6 тыс. пользователей](https://habr.com/ru/news/755022/?utm_campaign=755022&utm_source=habrahabr&utm_medium=rss)
-- [Tesla заверяет китайских пользователей в безопасности собираемых о них данных на фоне опасений шпионажа](https://habr.com/ru/news/755018/?utm_campaign=755018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
