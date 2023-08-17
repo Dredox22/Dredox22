@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Базальт СПО» приглашает принять участие в ежегодной конференции разработчиков свободного ПО](https://habr.com/ru/companies/basealtspo/news/755234/?utm_campaign=755234&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты AquaSec раскрыли уязвимости безопасности в работе репозитория PowerShell Gallery, Microsoft год их исправляет](https://habr.com/ru/news/755210/?utm_campaign=755210&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.26: запуск анализа из VS Code и Qt Creator, интеграция с DefectDojo и не только](https://habr.com/ru/companies/pvs-studio/news/755180/?utm_campaign=755180&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 391,3 млн звонков с подменных номеров](https://habr.com/ru/news/755176/?utm_campaign=755176&utm_source=habrahabr&utm_medium=rss)
 - [Военные США наградили три команды за взлом спутника на орбите Земли в рамках конкурса Hack-A-Sat 4](https://habr.com/ru/news/755172/?utm_campaign=755172&utm_source=habrahabr&utm_medium=rss)
-- [Сервис для анонимного обмена файлами Anonfiles объявил о закрытии из-за злоупотреблений со стороны пользователей](https://habr.com/ru/news/755156/?utm_campaign=755156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
