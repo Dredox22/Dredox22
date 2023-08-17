@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сервис для анонимного обмена файлами Anonfiles объявил о закрытии из-за злоупотреблений со стороны пользователей](https://habr.com/ru/news/755156/?utm_campaign=755156&utm_source=habrahabr&utm_medium=rss)
 - [Названы победители премии Pwnie Awards 2023](https://habr.com/ru/news/755150/?utm_campaign=755150&utm_source=habrahabr&utm_medium=rss)
 - [Chrome 117 получит обновления безопасности с системой отслеживания расширений](https://habr.com/ru/news/755144/?utm_campaign=755144&utm_source=habrahabr&utm_medium=rss)
 - [Функция Windows Secure Time Seeding в некоторых случаях работает некорректно и может сбросить время на годы вперёд](https://habr.com/ru/news/755152/?utm_campaign=755152&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Microsoft Defender для Windows 10/11 блокирует работу AutoKMS](https://habr.com/ru/news/755132/?utm_campaign=755132&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI купила создателей клона Minecraft компанию Global Illumination](https://habr.com/ru/news/755130/?utm_campaign=755130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
