@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперт Microsoft раскрыл как можно заблокировать прыгающие процессы в диспетчере задач Windows 7/10/11 — с помощью Ctrl](https://habr.com/ru/news/755346/?utm_campaign=755346&utm_source=habrahabr&utm_medium=rss)
 - [Портал IXBT.GAMES сообщает об окончании приема заявок от разработчиков игр на участие в игровом шоу «НашЫ игры»](https://habr.com/ru/news/755334/?utm_campaign=755334&utm_source=habrahabr&utm_medium=rss)
 - [KOMPAScon: инженерный фестиваль для фанатов 3D-моделирования](https://habr.com/ru/companies/ascon/news/755064/?utm_campaign=755064&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games открыла инструменты кроссплатформенной разработки для консолей](https://habr.com/ru/news/755260/?utm_campaign=755260&utm_source=habrahabr&utm_medium=rss)
 - [Китай ввёл 24 правила регулирования ИИ для обеспечения безопасности, этики и соответствия социалистическим ценностям](https://habr.com/ru/news/755254/?utm_campaign=755254&utm_source=habrahabr&utm_medium=rss)
-- [Физики на шаг приблизились к созданию спинтронных устройств](https://habr.com/ru/news/755236/?utm_campaign=755236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
