@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PVS-Studio 7.26: запуск анализа из VS Code и Qt Creator, интеграция с DefectDojo и не только](https://habr.com/ru/companies/pvs-studio/news/755180/?utm_campaign=755180&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 391,3 млн звонков с подменных номеров](https://habr.com/ru/news/755176/?utm_campaign=755176&utm_source=habrahabr&utm_medium=rss)
+- [Военные США наградили три команды за взлом спутника на орбите Земли в рамках конкурса Hack-A-Sat 4](https://habr.com/ru/news/755172/?utm_campaign=755172&utm_source=habrahabr&utm_medium=rss)
 - [Сервис для анонимного обмена файлами Anonfiles объявил о закрытии из-за злоупотреблений со стороны пользователей](https://habr.com/ru/news/755156/?utm_campaign=755156&utm_source=habrahabr&utm_medium=rss)
 - [Названы победители премии Pwnie Awards 2023](https://habr.com/ru/news/755150/?utm_campaign=755150&utm_source=habrahabr&utm_medium=rss)
-- [Chrome 117 получит обновления безопасности с системой отслеживания расширений](https://habr.com/ru/news/755144/?utm_campaign=755144&utm_source=habrahabr&utm_medium=rss)
-- [Функция Windows Secure Time Seeding в некоторых случаях работает некорректно и может сбросить время на годы вперёд](https://habr.com/ru/news/755152/?utm_campaign=755152&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Microsoft Defender для Windows 10/11 блокирует работу AutoKMS](https://habr.com/ru/news/755132/?utm_campaign=755132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
