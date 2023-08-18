@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Docker Desktop 4.22](https://habr.com/ru/news/755518/?utm_campaign=755518&utm_source=habrahabr&utm_medium=rss)
 - [Маркетплейсы и онлайн-магазины попросили применять оборотные штрафы только за повторные утечки](https://habr.com/ru/news/755500/?utm_campaign=755500&utm_source=habrahabr&utm_medium=rss)
 - [Релиз фреймворка Flutter 3.13](https://habr.com/ru/news/755468/?utm_campaign=755468&utm_source=habrahabr&utm_medium=rss)
 - [Sega завершила сделку по покупке студии Rovio Entertainment](https://habr.com/ru/news/755466/?utm_campaign=755466&utm_source=habrahabr&utm_medium=rss)
 - [Протокол HTTPS в Chrome предложили форсировать](https://habr.com/ru/news/755462/?utm_campaign=755462&utm_source=habrahabr&utm_medium=rss)
-- [AMD выпустила утилиту Radeon GPU Detective 1.0 &lpar;RGD&rpar; для помощи разработчикам в нахождении и анализе причин сбоев ПО](https://habr.com/ru/news/755454/?utm_campaign=755454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
