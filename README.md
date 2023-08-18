@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратит производство комплекта разработчика Azure Kinect](https://habr.com/ru/news/755426/?utm_campaign=755426&utm_source=habrahabr&utm_medium=rss)
+- [В версии Firefox 116.0.3 устранили проблему зависаний при обращении к Google](https://habr.com/ru/news/755412/?utm_campaign=755412&utm_source=habrahabr&utm_medium=rss)
+- [Российская GS Group планирует начать производство подложек для процессоров в Калининградской области](https://habr.com/ru/news/755416/?utm_campaign=755416&utm_source=habrahabr&utm_medium=rss)
+- [Группа по борьбе с пиратством добилась запрета на популярный набор данных Books3 для обучения ИИ](https://habr.com/ru/news/755406/?utm_campaign=755406&utm_source=habrahabr&utm_medium=rss)
 - [Программист из США вставила под кожу 25 чипов, но многие вышли из строя](https://habr.com/ru/news/755398/?utm_campaign=755398&utm_source=habrahabr&utm_medium=rss)
-- [В WhatsApp появилась возможность обмениваться фотографиями в HD-качестве](https://habr.com/ru/news/755384/?utm_campaign=755384&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Office для Mac прекратил поддержку шрифтов PostScript Type 1](https://habr.com/ru/news/755378/?utm_campaign=755378&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст собрал трекер фаз Луны на Raspberry Pi и электронных чернилах](https://habr.com/ru/news/755356/?utm_campaign=755356&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт Microsoft раскрыл, как можно заблокировать прыгающие процессы в диспетчере задач Windows 7/10/11 с помощью Ctrl](https://habr.com/ru/news/755346/?utm_campaign=755346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
