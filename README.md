@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sega завершила сделку по покупке студии Rovio Entertainment](https://habr.com/ru/news/755466/?utm_campaign=755466&utm_source=habrahabr&utm_medium=rss)
+- [Протокол HTTPS в Chrome предложили форсировать](https://habr.com/ru/news/755462/?utm_campaign=755462&utm_source=habrahabr&utm_medium=rss)
 - [AMD выпустила утилиту Radeon GPU Detective 1.0 &lpar;RGD&rpar; для помощи разработчикам в нахождении и анализе причин сбоев ПО](https://habr.com/ru/news/755454/?utm_campaign=755454&utm_source=habrahabr&utm_medium=rss)
 - [НИТУ МИСИС представил приложение для отслеживания задержек авиарейсов](https://habr.com/ru/news/755430/?utm_campaign=755430&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит производство комплекта разработчика Azure Kinect](https://habr.com/ru/news/755426/?utm_campaign=755426&utm_source=habrahabr&utm_medium=rss)
-- [В версии Firefox 116.0.3 устранили проблему зависаний при обращении к Google](https://habr.com/ru/news/755412/?utm_campaign=755412&utm_source=habrahabr&utm_medium=rss)
-- [Российская GS Group планирует начать производство подложек для процессоров в Калининградской области](https://habr.com/ru/news/755416/?utm_campaign=755416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
