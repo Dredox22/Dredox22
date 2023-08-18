@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD выпустила утилиту Radeon GPU Detective 1.0 &lpar;RGD&rpar; для помощи разработчикам в нахождении и анализе причин сбоев ПО](https://habr.com/ru/news/755454/?utm_campaign=755454&utm_source=habrahabr&utm_medium=rss)
+- [НИТУ МИСИС представил приложение для отслеживания задержек авиарейсов](https://habr.com/ru/news/755430/?utm_campaign=755430&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит производство комплекта разработчика Azure Kinect](https://habr.com/ru/news/755426/?utm_campaign=755426&utm_source=habrahabr&utm_medium=rss)
 - [В версии Firefox 116.0.3 устранили проблему зависаний при обращении к Google](https://habr.com/ru/news/755412/?utm_campaign=755412&utm_source=habrahabr&utm_medium=rss)
 - [Российская GS Group планирует начать производство подложек для процессоров в Калининградской области](https://habr.com/ru/news/755416/?utm_campaign=755416&utm_source=habrahabr&utm_medium=rss)
-- [Группа по борьбе с пиратством добилась запрета на популярный набор данных Books3 для обучения ИИ](https://habr.com/ru/news/755406/?utm_campaign=755406&utm_source=habrahabr&utm_medium=rss)
-- [Программист из США вставила под кожу 25 чипов, но многие вышли из строя](https://habr.com/ru/news/755398/?utm_campaign=755398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
