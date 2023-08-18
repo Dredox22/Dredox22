@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft и Open Web Docs обновили документацию по PWA на портале MDN](https://habr.com/ru/news/755564/?utm_campaign=755564&utm_source=habrahabr&utm_medium=rss)
+- [PT подписали соглашение с ГК «Ростех» о сотрудничестве в рамках ИБ](https://habr.com/ru/news/755560/?utm_campaign=755560&utm_source=habrahabr&utm_medium=rss)
 - [Минэкономразвития предложило уменьшить оборотные штрафы за утечки персональных данных](https://habr.com/ru/news/755540/?utm_campaign=755540&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил браузерное расширение, которое убирает значки верификации Twitter Blue и возвращает старые галочки](https://habr.com/ru/news/755538/?utm_campaign=755538&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Docker Desktop 4.22](https://habr.com/ru/news/755518/?utm_campaign=755518&utm_source=habrahabr&utm_medium=rss)
-- [Маркетплейсы и онлайн-магазины попросили применять оборотные штрафы только за повторные утечки](https://habr.com/ru/news/755500/?utm_campaign=755500&utm_source=habrahabr&utm_medium=rss)
-- [Релиз фреймворка Flutter 3.13](https://habr.com/ru/news/755468/?utm_campaign=755468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
