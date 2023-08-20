@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен язык программирования Moonbit, оптимизированный для создания приложений, компилируемых в WebAssembly](https://habr.com/ru/news/755756/?utm_campaign=755756&utm_source=habrahabr&utm_medium=rss)
 - [Вышла демоверсия игры в стиле PS1 по мотивам сериала «Твин Пикс»](https://habr.com/ru/news/755716/?utm_campaign=755716&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры в ходе кибератаки парализовали IT-системы 10 научных обсерваторий в Чили и на Гавайях](https://habr.com/ru/news/755694/?utm_campaign=755694&utm_source=habrahabr&utm_medium=rss)
 - [Суд в США отказал в защите авторских прав автору произведения, сгенерированного при помощи ИИ](https://habr.com/ru/news/755688/?utm_campaign=755688&utm_source=habrahabr&utm_medium=rss)
 - [В WinRAR версии 6.23 устранена критическая уязвимость CVE-2023-40477, позволяющая запускать в системе вредоносный код](https://habr.com/ru/news/755612/?utm_campaign=755612&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой сборке Windows 11 Insider появилась нативная поддержка работы с tar, 7-zip, rar и gz](https://habr.com/ru/news/755598/?utm_campaign=755598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
