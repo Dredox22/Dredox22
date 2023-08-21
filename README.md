@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В приложении Tesla для iOS появилась поддержка «Быстрых Команд» от Apple и голосовым управлением опциями авто](https://habr.com/ru/news/755856/?utm_campaign=755856&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» согласился перенести серверы, обслуживающие интернет-портал yandex.kz, в Казахстан](https://habr.com/ru/news/755854/?utm_campaign=755854&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры и Минстрой объявили о планах запуска государственных соседских чатов на базе «VK Мессенджера»](https://habr.com/ru/news/755850/?utm_campaign=755850&utm_source=habrahabr&utm_medium=rss)
+- [Госкомпании и ведомства, формирующие 40% рынка интернет-безопасности, снизили объём закупок в этой сфере](https://habr.com/ru/news/755848/?utm_campaign=755848&utm_source=habrahabr&utm_medium=rss)
 - [WSJ: Meta* запустит веб-версию Threads на этой неделе](https://habr.com/ru/news/755836/?utm_campaign=755836&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выложила на GitHub проект OpenCopilot](https://habr.com/ru/news/755822/?utm_campaign=755822&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзору не удалось закупить оборудование для контроля связи на 1 млрд рублей](https://habr.com/ru/news/755812/?utm_campaign=755812&utm_source=habrahabr&utm_medium=rss)
-- [FreeBSD переходит с сортировки пузырьком в SYSINIT на сортировку слиянием, которая примерно в 100 раз быстрее](https://habr.com/ru/news/755800/?utm_campaign=755800&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры используют ресурсы GitLab для запуска атаки проксиджекинга](https://habr.com/ru/news/755792/?utm_campaign=755792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
