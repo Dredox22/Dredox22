@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD переходит с сортировки пузырьком в SYSINIT на сортировку слиянием, которая примерно в 100 раз быстрее](https://habr.com/ru/news/755800/?utm_campaign=755800&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры используют ресурсы GitLab для запуска атаки проксиджекинга](https://habr.com/ru/news/755792/?utm_campaign=755792&utm_source=habrahabr&utm_medium=rss)
 - [Представлен язык программирования Moonbit, оптимизированный для создания приложений, компилируемых в WebAssembly](https://habr.com/ru/news/755756/?utm_campaign=755756&utm_source=habrahabr&utm_medium=rss)
 - [Вышла демоверсия игры в стиле PS1 по мотивам сериала «Твин Пикс»](https://habr.com/ru/news/755716/?utm_campaign=755716&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры в ходе кибератаки парализовали IT-системы 10 научных обсерваторий в Чили и на Гавайях](https://habr.com/ru/news/755694/?utm_campaign=755694&utm_source=habrahabr&utm_medium=rss)
-- [Суд в США отказал в защите авторских прав автору произведения, сгенерированного при помощи ИИ](https://habr.com/ru/news/755688/?utm_campaign=755688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
