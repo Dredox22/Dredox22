@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«СберМаркет» проведёт первую IT-конференцию E-COMMUNITY](https://habr.com/ru/news/755864/?utm_campaign=755864&utm_source=habrahabr&utm_medium=rss)
 - [В приложении Tesla для iOS появилась поддержка «Быстрых Команд» от Apple и голосовым управлением опциями авто](https://habr.com/ru/news/755856/?utm_campaign=755856&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» согласился перенести серверы, обслуживающие интернет-портал yandex.kz, в Казахстан](https://habr.com/ru/news/755854/?utm_campaign=755854&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры и Минстрой объявили о планах запуска государственных соседских чатов на базе «VK Мессенджера»](https://habr.com/ru/news/755850/?utm_campaign=755850&utm_source=habrahabr&utm_medium=rss)
 - [Госкомпании и ведомства, формирующие 40% рынка интернет-безопасности, снизили объём закупок в этой сфере](https://habr.com/ru/news/755848/?utm_campaign=755848&utm_source=habrahabr&utm_medium=rss)
-- [WSJ: Meta* запустит веб-версию Threads на этой неделе](https://habr.com/ru/news/755836/?utm_campaign=755836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
