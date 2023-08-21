@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Kubernetes в облаке: настройка безопасного контура» — анонс вебинара от Сloud.ru](https://habr.com/ru/companies/cloud_ru/news/755966/?utm_campaign=755966&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь безопасности использовал Raspberry Pi и Bluetooth-адаптер для отправки системных уведомлений на iPhone](https://habr.com/ru/news/755962/?utm_campaign=755962&utm_source=habrahabr&utm_medium=rss)
 - [Вышел браузер с минималистичным графическим интерфейсом qutebrowser 3.0](https://habr.com/ru/news/755958/?utm_campaign=755958&utm_source=habrahabr&utm_medium=rss)
 - [Cellebrite попросила правоохранительные органы держать в секрете технологию взлома смартфонов](https://habr.com/ru/news/755930/?utm_campaign=755930&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Маркет» создал складского робота Dilectus](https://habr.com/ru/news/755916/?utm_campaign=755916&utm_source=habrahabr&utm_medium=rss)
-- [На Алтае стартовала Летняя школа машинного обучения SMILES-2023](https://habr.com/ru/news/755888/?utm_campaign=755888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
