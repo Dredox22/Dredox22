@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На Алтае стартовал Летняя школа машинного обучения SMILES-2023](https://habr.com/ru/news/755888/?utm_campaign=755888&utm_source=habrahabr&utm_medium=rss)
+- [На Алтае стартовала Летняя школа машинного обучения SMILES-2023](https://habr.com/ru/news/755888/?utm_campaign=755888&utm_source=habrahabr&utm_medium=rss)
 - [В Bethesda ответили на критику минималистического стартового меню Starfield](https://habr.com/ru/news/755876/?utm_campaign=755876&utm_source=habrahabr&utm_medium=rss)
 - [«СберМаркет» проведёт первую IT-конференцию E-COMMUNITY](https://habr.com/ru/news/755864/?utm_campaign=755864&utm_source=habrahabr&utm_medium=rss)
 - [В приложении Tesla для iOS появилась поддержка «Быстрых Команд» от Apple и голосовым управлением опциями авто](https://habr.com/ru/news/755856/?utm_campaign=755856&utm_source=habrahabr&utm_medium=rss)
