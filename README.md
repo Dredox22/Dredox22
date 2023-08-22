@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Британская компания-разработчик чипов Arm подала заявку на IPO в США](https://habr.com/ru/news/756196/?utm_campaign=756196&utm_source=habrahabr&utm_medium=rss)
+- [Сообщество проекта KDE &lpar;kde.org&rpar; отказывается от каналов связи через Telegram](https://habr.com/ru/news/756190/?utm_campaign=756190&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: число трекеров для сбора данных об интернет-пользователях выросло за год почти на 20%](https://habr.com/ru/news/756180/?utm_campaign=756180&utm_source=habrahabr&utm_medium=rss)
 - [YouTube планирует платить правообладателям за использование музыки для обучения ИИ](https://habr.com/ru/news/756158/?utm_campaign=756158&utm_source=habrahabr&utm_medium=rss)
 - [Вышел LibreOffice 7.6](https://habr.com/ru/news/756156/?utm_campaign=756156&utm_source=habrahabr&utm_medium=rss)
-- [Компания GAGAR&amp;gt;N выпустила дисковые массивы JBOF](https://habr.com/ru/news/756126/?utm_campaign=756126&utm_source=habrahabr&utm_medium=rss)
-- [В сети появился ролик с 40 минутами начального геймплея Starfield](https://habr.com/ru/news/756108/?utm_campaign=756108&utm_source=habrahabr&utm_medium=rss)
-- [Google анонсировала квантово-устойчивый алгоритм защиты шифрования FIDO](https://habr.com/ru/news/756086/?utm_campaign=756086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
