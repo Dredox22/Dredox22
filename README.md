@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Браузер Mozilla Firefox потерял 3,92% &lpar;7,4 млн&rpar; пользователей за последние 12 месяцев](https://habr.com/ru/news/756260/?utm_campaign=756260&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» помогла Интерполу в борьбе с киберпреступностью в странах Африки](https://habr.com/ru/news/756206/?utm_campaign=756206&utm_source=habrahabr&utm_medium=rss)
 - [Британская компания-разработчик чипов Arm подала заявку на IPO в США](https://habr.com/ru/news/756196/?utm_campaign=756196&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество проекта KDE &lpar;kde.org&rpar; отказывается от каналов связи через Telegram](https://habr.com/ru/news/756190/?utm_campaign=756190&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: число трекеров для сбора данных об интернет-пользователях выросло за год почти на 20%](https://habr.com/ru/news/756180/?utm_campaign=756180&utm_source=habrahabr&utm_medium=rss)
-- [YouTube планирует платить правообладателям за использование музыки для обучения ИИ](https://habr.com/ru/news/756158/?utm_campaign=756158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
