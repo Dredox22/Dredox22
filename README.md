@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики представили протокол p2panda, предназначенный для работы в децентрализованных сетях](https://habr.com/ru/news/756308/?utm_campaign=756308&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила Python в Excel](https://habr.com/ru/news/756266/?utm_campaign=756266&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Mozilla Firefox потерял 3,92% &lpar;7,4 млн&rpar; пользователей за последние 12 месяцев](https://habr.com/ru/news/756260/?utm_campaign=756260&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» помогла Интерполу в борьбе с киберпреступностью в странах Африки](https://habr.com/ru/news/756206/?utm_campaign=756206&utm_source=habrahabr&utm_medium=rss)
 - [Британская компания-разработчик чипов Arm подала заявку на IPO в США](https://habr.com/ru/news/756196/?utm_campaign=756196&utm_source=habrahabr&utm_medium=rss)
-- [Сообщество проекта KDE &lpar;kde.org&rpar; отказывается от каналов связи через Telegram](https://habr.com/ru/news/756190/?utm_campaign=756190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
