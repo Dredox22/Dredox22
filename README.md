@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Производители итальянского сыра начали добавлять съедобные чипы в свои продукты](https://habr.com/ru/news/756048/?utm_campaign=756048&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили робота-пилота PIBOT](https://habr.com/ru/news/756042/?utm_campaign=756042&utm_source=habrahabr&utm_medium=rss)
 - [«Камаз» запретил своим сотрудникам использовать в служебных целях электронику Apple](https://habr.com/ru/news/756040/?utm_campaign=756040&utm_source=habrahabr&utm_medium=rss)
+- [«Cервис доступа к YouTube» под названием YTonline в тестовом режиме перезапущен по адресу YToline](https://habr.com/ru/news/756030/?utm_campaign=756030&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила «Центр прозрачности» с полным описанием политик всех своих продуктов в одном месте](https://habr.com/ru/news/756016/?utm_campaign=756016&utm_source=habrahabr&utm_medium=rss)
-- [В утечке персональных данных 75 тыс. сотрудников Tesla обвиняют бывших работников компании](https://habr.com/ru/news/756008/?utm_campaign=756008&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» тестировал «сервис доступа к YouTube» под названием ytonline.ru для развития своих продуктов с видео](https://habr.com/ru/news/755984/?utm_campaign=755984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
