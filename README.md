@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel собирается открыть производства в Малайзии, Италии и Польше](https://habr.com/ru/companies/dcmiran/news/756416/?utm_campaign=756416&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies начала набор на стажировку по ИБ для студентов технических специальностей](https://habr.com/ru/news/756400/?utm_campaign=756400&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик из Intel внёс корректировки в код ядра Linux для корректной работы с микрокодом 32-разрядных процессоров x86](https://habr.com/ru/news/756392/?utm_campaign=756392&utm_source=habrahabr&utm_medium=rss)
 - [В рамках чемпионата «IT_ONE Cup. Базы данных» провели исследование среди специалистов-разработчиков](https://habr.com/ru/news/756388/?utm_campaign=756388&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры ввело параметр информбезопасности в рейтинг цифровой трансформации госорганов](https://habr.com/ru/news/756380/?utm_campaign=756380&utm_source=habrahabr&utm_medium=rss)
-- [Минюст поддержал предложение ввести оборотные штрафы за утечки данных](https://habr.com/ru/news/756362/?utm_campaign=756362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
