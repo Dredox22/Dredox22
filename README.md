@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минюст поддержал предложение ввести оборотные штрафы за утечки данных](https://habr.com/ru/news/756362/?utm_campaign=756362&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил GodMode — инструмент для одновременного доступа к популярным чат-ботам](https://habr.com/ru/news/756356/?utm_campaign=756356&utm_source=habrahabr&utm_medium=rss)
 - [Хабр поздравляет всех с Днём навигации по Интернету — Днём интернавта &lpar;Internaut Day&rpar;](https://habr.com/ru/news/756354/?utm_campaign=756354&utm_source=habrahabr&utm_medium=rss)
 - [АПРИОРИ: разработчики игр в РФ смогут получить господдержку только при использовании движка VK Nau Engine](https://habr.com/ru/news/756352/?utm_campaign=756352&utm_source=habrahabr&utm_medium=rss)
 - [Вышел эмулятор QEMU 8.1](https://habr.com/ru/news/756348/?utm_campaign=756348&utm_source=habrahabr&utm_medium=rss)
-- [LibreOffice перешёл на нумерацию версий по году и месяцу выпуска обновления, после версии 7.6 в феврале выйдет 24.2](https://habr.com/ru/news/756344/?utm_campaign=756344&utm_source=habrahabr&utm_medium=rss)
-- [Paint в Windows 11 получит опции для рисования с помощью ИИ](https://habr.com/ru/news/756336/?utm_campaign=756336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
