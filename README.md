@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [LibreOffice перешёл на нумерацию версий по году и месяцу выпуска обновления, после версии 7.6 в феврале выйдет 24.2](https://habr.com/ru/news/756344/?utm_campaign=756344&utm_source=habrahabr&utm_medium=rss)
+- [Paint в Windows 11 получит опции для рисования с помощью ИИ](https://habr.com/ru/news/756336/?utm_campaign=756336&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI открыла GPT-3.5 Turbo для индивидуальной настройки](https://habr.com/ru/news/756330/?utm_campaign=756330&utm_source=habrahabr&utm_medium=rss)
 - [Asahi выпустил первый совместимый с OpenGL ES 3.1 драйвер для Apple M1/M2](https://habr.com/ru/news/756326/?utm_campaign=756326&utm_source=habrahabr&utm_medium=rss)
 - [Meta* представила нейросеть SeamlessM4T с функциями распознавания и перевода речи на 100 языков](https://habr.com/ru/news/756324/?utm_campaign=756324&utm_source=habrahabr&utm_medium=rss)
-- [Украсть пароли с iPhone можно при помощи Raspberry Pi за $70. + Видео](https://habr.com/ru/news/756310/?utm_campaign=756310&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили протокол p2panda, предназначенный для работы в децентрализованных сетях](https://habr.com/ru/news/756308/?utm_campaign=756308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
