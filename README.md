@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI открыла GPT-3.5 Turbo для индивидуальной настройки](https://habr.com/ru/news/756330/?utm_campaign=756330&utm_source=habrahabr&utm_medium=rss)
+- [Asahi выпустил первый совместимый с OpenGL ES 3.1 драйвер для Apple M1/M2](https://habr.com/ru/news/756326/?utm_campaign=756326&utm_source=habrahabr&utm_medium=rss)
+- [Meta* представила нейросеть SeamlessM4T с функциями распознавания и перевода речи на 100 языков](https://habr.com/ru/news/756324/?utm_campaign=756324&utm_source=habrahabr&utm_medium=rss)
 - [Украсть пароли с iPhone можно при помощи Raspberry Pi за $70. + Видео](https://habr.com/ru/news/756310/?utm_campaign=756310&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили протокол p2panda, предназначенный для работы в децентрализованных сетях](https://habr.com/ru/news/756308/?utm_campaign=756308&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила Python в Excel](https://habr.com/ru/news/756266/?utm_campaign=756266&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Mozilla Firefox потерял 3,92% &lpar;7,4 млн&rpar; пользователей за последние 12 месяцев](https://habr.com/ru/news/756260/?utm_campaign=756260&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» помогла Интерполу в борьбе с киберпреступностью в странах Африки](https://habr.com/ru/news/756206/?utm_campaign=756206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
