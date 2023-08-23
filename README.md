@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Google теряет аудиторию в России](https://habr.com/ru/news/756464/?utm_campaign=756464&utm_source=habrahabr&utm_medium=rss)
+- [MediaTek объявила о сотрудничестве с Meta* для интеграции Llama 2 в свои флагманские продукты](https://habr.com/ru/news/756438/?utm_campaign=756438&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Git 2.42](https://habr.com/ru/news/756428/?utm_campaign=756428&utm_source=habrahabr&utm_medium=rss)
 - [Intel собирается открыть производства в Малайзии, Италии и Польше](https://habr.com/ru/companies/dcmiran/news/756416/?utm_campaign=756416&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies начала набор на стажировку по ИБ для студентов технических специальностей](https://habr.com/ru/news/756400/?utm_campaign=756400&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик из Intel внёс корректировки в код ядра Linux для корректной работы с микрокодом 32-разрядных процессоров x86](https://habr.com/ru/news/756392/?utm_campaign=756392&utm_source=habrahabr&utm_medium=rss)
-- [В рамках чемпионата «IT_ONE Cup. Базы данных» провели исследование среди специалистов-разработчиков](https://habr.com/ru/news/756388/?utm_campaign=756388&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры ввело параметр информбезопасности в рейтинг цифровой трансформации госорганов](https://habr.com/ru/news/756380/?utm_campaign=756380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
