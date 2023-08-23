@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: VK рассматривает возможность адаптировать RuStore к мобильной версии ОС «Роса»](https://habr.com/ru/news/756546/?utm_campaign=756546&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Figma DevMode](https://habr.com/ru/news/756476/?utm_campaign=756476&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Google теряет аудиторию в России](https://habr.com/ru/news/756464/?utm_campaign=756464&utm_source=habrahabr&utm_medium=rss)
 - [MediaTek объявила о сотрудничестве с Meta* для интеграции Llama 2 в свои флагманские продукты](https://habr.com/ru/news/756438/?utm_campaign=756438&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Git 2.42](https://habr.com/ru/news/756428/?utm_campaign=756428&utm_source=habrahabr&utm_medium=rss)
-- [Intel собирается открыть производства в Малайзии, Италии и Польше](https://habr.com/ru/companies/dcmiran/news/756416/?utm_campaign=756416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
