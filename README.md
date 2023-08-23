@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик из Intel внёс корректировки в микрокод ядра Linux для 32-разрядных процессоров x86](https://habr.com/ru/news/756392/?utm_campaign=756392&utm_source=habrahabr&utm_medium=rss)
+- [В рамках чемпионата «IT_ONE Cup. Базы данных» провели исследование среди специалистов-разработчиков](https://habr.com/ru/news/756388/?utm_campaign=756388&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры ввело параметр информбезопасности в рейтинг цифровой трансформации госорганов](https://habr.com/ru/news/756380/?utm_campaign=756380&utm_source=habrahabr&utm_medium=rss)
 - [Минюст поддержал предложение ввести оборотные штрафы за утечки данных](https://habr.com/ru/news/756362/?utm_campaign=756362&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил GodMode — инструмент для одновременного доступа к популярным чат-ботам](https://habr.com/ru/news/756356/?utm_campaign=756356&utm_source=habrahabr&utm_medium=rss)
-- [Хабр поздравляет всех с Днём навигации по Интернету — Днём интернавта &lpar;Internaut Day&rpar;](https://habr.com/ru/news/756354/?utm_campaign=756354&utm_source=habrahabr&utm_medium=rss)
-- [АПРИОРИ: разработчики игр в РФ смогут получить господдержку только при использовании движка VK Nau Engine](https://habr.com/ru/news/756352/?utm_campaign=756352&utm_source=habrahabr&utm_medium=rss)
-- [Вышел эмулятор QEMU 8.1](https://habr.com/ru/news/756348/?utm_campaign=756348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
