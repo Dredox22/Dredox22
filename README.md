@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail запросит подтверждение аккаунта при добавлении адреса пересылки и редактировании фильтров](https://habr.com/ru/news/756594/?utm_campaign=756594&utm_source=habrahabr&utm_medium=rss)
+- [IBM представила Watsonx Code Assistant, который с помощью ИИ может преобразовать старый код COBOL в Java](https://habr.com/ru/news/756588/?utm_campaign=756588&utm_source=habrahabr&utm_medium=rss)
 - [BioWare в рамках реорганизации сократила около 50 сотрудников](https://habr.com/ru/news/756576/?utm_campaign=756576&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: VK рассматривает возможность адаптировать RuStore к мобильной версии ОС «Роса»](https://habr.com/ru/news/756546/?utm_campaign=756546&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Figma DevMode](https://habr.com/ru/news/756476/?utm_campaign=756476&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Google теряет аудиторию в России](https://habr.com/ru/news/756464/?utm_campaign=756464&utm_source=habrahabr&utm_medium=rss)
-- [MediaTek объявила о сотрудничестве с Meta* для интеграции Llama 2 в свои флагманские продукты](https://habr.com/ru/news/756438/?utm_campaign=756438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
