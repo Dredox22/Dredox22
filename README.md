@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [X переходит на API v2, соцсеть объявила о прекращении поддержки конечных точек API v1.1](https://habr.com/ru/news/756684/?utm_campaign=756684&utm_source=habrahabr&utm_medium=rss)
+- [Первая отечественная ОС на платформе BI.ZONE Bug Bounty](https://habr.com/ru/companies/astralinux/news/756502/?utm_campaign=756502&utm_source=habrahabr&utm_medium=rss)
+- [Kaspersky Lab рассказала о новой схеме мошенничества в Telegram под видом сервисов для онлайн-обмена валюты](https://habr.com/ru/news/756676/?utm_campaign=756676&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Bun 0.8 — среды выполнения JavaScript и TypeScript](https://habr.com/ru/news/756670/?utm_campaign=756670&utm_source=habrahabr&utm_medium=rss)
 - [Суд оштрафовал Telegram на 50 тысяч рублей за нарушение закона о персональных данных](https://habr.com/ru/news/756668/?utm_campaign=756668&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи по всей России опять столкнулись с массовыми сбоями в работе VPN-протоколов OpenVPN и WireGuard](https://habr.com/ru/news/756664/?utm_campaign=756664&utm_source=habrahabr&utm_medium=rss)
-- [IBM заявила о продаже своего метеорологического подразделения, включая проекты The Weather Channel и Storm Radar](https://habr.com/ru/news/756656/?utm_campaign=756656&utm_source=habrahabr&utm_medium=rss)
-- [Связанные с российскими чипами «Байкал-М» наработки выставили на аукцион из-за банкротства «Т-платформ»](https://habr.com/ru/news/756646/?utm_campaign=756646&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили Chaindesk — ноукод-платформу для создания чат-ботов на базе пользовательских данных](https://habr.com/ru/news/756640/?utm_campaign=756640&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
