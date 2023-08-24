@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики представили Trace — веб-портал, позволяющий делиться компонентами SwiftUI](https://habr.com/ru/news/756732/?utm_campaign=756732&utm_source=habrahabr&utm_medium=rss)
 - [Узнайте, как дизайн-система помогает создавать эффективную отчетность](https://habr.com/ru/companies/glowbyte/news/756712/?utm_campaign=756712&utm_source=habrahabr&utm_medium=rss)
 - [Dataherald выпустила одноимённый инструмент для поддержки естественного языка в SQL](https://habr.com/ru/news/756698/?utm_campaign=756698&utm_source=habrahabr&utm_medium=rss)
 - [X переходит на API v2, соцсеть объявила о прекращении поддержки конечных точек API v1.1](https://habr.com/ru/news/756684/?utm_campaign=756684&utm_source=habrahabr&utm_medium=rss)
 - [Первая отечественная ОС на платформе BI.ZONE Bug Bounty](https://habr.com/ru/companies/astralinux/news/756502/?utm_campaign=756502&utm_source=habrahabr&utm_medium=rss)
-- [Kaspersky Lab рассказала о новой схеме мошенничества в Telegram под видом сервисов для онлайн-обмена валюты](https://habr.com/ru/news/756676/?utm_campaign=756676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
