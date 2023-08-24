@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз DBeaver 23.1.5](https://habr.com/ru/news/756766/?utm_campaign=756766&utm_source=habrahabr&utm_medium=rss)
 - [GSC Game World показала новый трейлер S.T.A.L.K.E.R. 2 и перенесла релиз игры на начало 2024 года](https://habr.com/ru/news/756756/?utm_campaign=756756&utm_source=habrahabr&utm_medium=rss)
 - [«Астра» выходит на BI.ZONE Bug Bounty с первой в России программой по поиску уязвимостей в ОС](https://habr.com/ru/news/756752/?utm_campaign=756752&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Trace — веб-портал, позволяющий делиться компонентами SwiftUI](https://habr.com/ru/news/756732/?utm_campaign=756732&utm_source=habrahabr&utm_medium=rss)
 - [Узнайте, как дизайн-система помогает создавать эффективную отчетность](https://habr.com/ru/companies/glowbyte/news/756712/?utm_campaign=756712&utm_source=habrahabr&utm_medium=rss)
-- [Dataherald выпустила одноимённый инструмент для поддержки естественного языка в SQL](https://habr.com/ru/news/756698/?utm_campaign=756698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
