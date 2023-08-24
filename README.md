@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM заявила о продаже своего метеорологического подразделения, включая проекты The Weather Channel и Storm Radar](https://habr.com/ru/news/756656/?utm_campaign=756656&utm_source=habrahabr&utm_medium=rss)
+- [Связанные с российскими чипами «Байкал-М» наработки выставили на аукцион из-за банкротства «Т-платформ»](https://habr.com/ru/news/756646/?utm_campaign=756646&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики представили Chaindesk — ноукод-платформу для создания чат-ботов на базе пользовательских данных](https://habr.com/ru/news/756640/?utm_campaign=756640&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Kali Linux 2023.3. Что нового](https://habr.com/ru/news/756620/?utm_campaign=756620&utm_source=habrahabr&utm_medium=rss)
 - [Новая политика Windows 11 позволит администраторам контролировать установку дополнительных обновлений](https://habr.com/ru/news/756606/?utm_campaign=756606&utm_source=habrahabr&utm_medium=rss)
-- [RuStore: 93% загружаемых приложений проходят модерацию и доступны для пользователей](https://habr.com/ru/news/756608/?utm_campaign=756608&utm_source=habrahabr&utm_medium=rss)
-- [IBM представила аналоговый чип ИИ по образцу человеческого мозга](https://habr.com/ru/news/756602/?utm_campaign=756602&utm_source=habrahabr&utm_medium=rss)
-- [Gmail запросит подтверждение аккаунта при добавлении адреса пересылки и редактировании фильтров](https://habr.com/ru/news/756594/?utm_campaign=756594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
