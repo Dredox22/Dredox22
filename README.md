@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд оштрафовал Telegram на 50 тысяч рублей за нарушение закона о персональных данных](https://habr.com/ru/news/756668/?utm_campaign=756668&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи по всей России опять столкнулись с массовыми сбоями в работе VPN-протоколов OpenVPN и WireGuard](https://habr.com/ru/news/756664/?utm_campaign=756664&utm_source=habrahabr&utm_medium=rss)
 - [IBM заявила о продаже своего метеорологического подразделения, включая проекты The Weather Channel и Storm Radar](https://habr.com/ru/news/756656/?utm_campaign=756656&utm_source=habrahabr&utm_medium=rss)
 - [Связанные с российскими чипами «Байкал-М» наработки выставили на аукцион из-за банкротства «Т-платформ»](https://habr.com/ru/news/756646/?utm_campaign=756646&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Chaindesk — ноукод-платформу для создания чат-ботов на базе пользовательских данных](https://habr.com/ru/news/756640/?utm_campaign=756640&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Kali Linux 2023.3. Что нового](https://habr.com/ru/news/756620/?utm_campaign=756620&utm_source=habrahabr&utm_medium=rss)
-- [Новая политика Windows 11 позволит администраторам контролировать установку дополнительных обновлений](https://habr.com/ru/news/756606/?utm_campaign=756606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
