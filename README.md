@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft и MSI в курсе бага в Windows 11 с BSOD c ошибкой «неподдерживаемый процессор» на некоторых матплатах MSI](https://habr.com/ru/news/757002/?utm_campaign=757002&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты Positive Technologies нашли и помогли исправить серьёзную уязвимость в хранилищах Western Digital](https://habr.com/ru/news/756994/?utm_campaign=756994&utm_source=habrahabr&utm_medium=rss)
+- [ОМП выложила Flutter SDK для ОС «Аврора»](https://habr.com/ru/news/756990/?utm_campaign=756990&utm_source=habrahabr&utm_medium=rss)
+- [18-летний хакер использовал Amazon Fire TV для взлома систем Rockstar Games и слива данных GTA VI](https://habr.com/ru/news/756988/?utm_campaign=756988&utm_source=habrahabr&utm_medium=rss)
 - [В рамках программы «Большие вызовы» школьники разработали приложение для презентаций на платформе VK Mini Apps](https://habr.com/ru/news/756970/?utm_campaign=756970&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз языка программирования Rust 1.72.0](https://habr.com/ru/news/756966/?utm_campaign=756966&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил утилиту Color Manager, позволяющую быстро перекрашивать наборы SVG-иконок и темы для Linux](https://habr.com/ru/news/756938/?utm_campaign=756938&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ первым в стране получил аккредитацию Минцифры на работу с биометрией](https://habr.com/ru/companies/rshb/news/756922/?utm_campaign=756922&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры внесло поправки по поводу обязательной совместимости с двумя российскими ОС для попадания программ в реестр ПО](https://habr.com/ru/news/756920/?utm_campaign=756920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
