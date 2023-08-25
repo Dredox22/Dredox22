@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры внесло поправки по поводу обязательной совместимости с двумя российскими ОС для попадания программ в реестр ПО](https://habr.com/ru/news/756920/?utm_campaign=756920&utm_source=habrahabr&utm_medium=rss)
+- [Обновили наше бесплатное решение, которое ускоряет обработку данных](https://habr.com/ru/companies/itsumma/news/756904/?utm_campaign=756904&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры займётся защитой спутникового телевидения](https://habr.com/ru/news/756902/?utm_campaign=756902&utm_source=habrahabr&utm_medium=rss)
 - [Драйверы Intel Wi-Fi 7 BE200/BE202 будут работать только с Windows 11](https://habr.com/ru/news/756896/?utm_campaign=756896&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains рассказала о том, как установить Rider IDE на Steam Deck](https://habr.com/ru/news/756884/?utm_campaign=756884&utm_source=habrahabr&utm_medium=rss)
-- [YouTube тестирует на Android аналог Shazam](https://habr.com/ru/news/756870/?utm_campaign=756870&utm_source=habrahabr&utm_medium=rss)
-- [В Firefox 116 внедрили опцию импорта дополнений из других браузеров](https://habr.com/ru/news/756858/?utm_campaign=756858&utm_source=habrahabr&utm_medium=rss)
-- [Представлена система защиты Proof-of-Work для Onion-сервисов от DoS-атак](https://habr.com/ru/news/756862/?utm_campaign=756862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
