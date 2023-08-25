@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube тестирует на Android аналог Shazam](https://habr.com/ru/news/756870/?utm_campaign=756870&utm_source=habrahabr&utm_medium=rss)
+- [В Firefox 116 внедрили опцию импорта дополнений из других браузеров](https://habr.com/ru/news/756858/?utm_campaign=756858&utm_source=habrahabr&utm_medium=rss)
+- [Представлена система защиты Proof-of-Work для Onion-сервисов от DoS-атак](https://habr.com/ru/news/756862/?utm_campaign=756862&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники начали приглашать пользователей Adobe Behance на несуществующие вакансии в Waymo](https://habr.com/ru/news/756854/?utm_campaign=756854&utm_source=habrahabr&utm_medium=rss)
 - [Google и Taito добавили в аркаду с дополненной реальностью Space Invaders: World Defense режим «в помещении» без AR](https://habr.com/ru/news/756842/?utm_campaign=756842&utm_source=habrahabr&utm_medium=rss)
-- [Meta* выпустила Code Llama — нейросеть для генерации программного кода на базе языковой модели Llama 2](https://habr.com/ru/news/756798/?utm_campaign=756798&utm_source=habrahabr&utm_medium=rss)
-- [GSC Game World показала новый трейлер S.T.A.L.K.E.R. 2 и перенесла релиз игры на начало 2024 года](https://habr.com/ru/news/756756/?utm_campaign=756756&utm_source=habrahabr&utm_medium=rss)
-- [«Астра» выходит на BI.ZONE Bug Bounty с первой в России программой по поиску уязвимостей в ОС](https://habr.com/ru/news/756752/?utm_campaign=756752&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили Trace — веб-портал, позволяющий делиться компонентами SwiftUI](https://habr.com/ru/news/756732/?utm_campaign=756732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
