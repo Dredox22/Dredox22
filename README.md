@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В рамках программы «Большие вызовы» школьники разработали приложение для презентаций на платформе VK Mini Apps](https://habr.com/ru/news/756970/?utm_campaign=756970&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз языка программирования Rust 1.72.0](https://habr.com/ru/news/756966/?utm_campaign=756966&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил утилиту Color Manager, позволяющую быстро перекрашивать наборы SVG-иконок и темы для Linux](https://habr.com/ru/news/756938/?utm_campaign=756938&utm_source=habrahabr&utm_medium=rss)
 - [РСХБ первым в стране получил аккредитацию Минцифры на работу с биометрией](https://habr.com/ru/companies/rshb/news/756922/?utm_campaign=756922&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры внесло поправки по поводу обязательной совместимости с двумя российскими ОС для попадания программ в реестр ПО](https://habr.com/ru/news/756920/?utm_campaign=756920&utm_source=habrahabr&utm_medium=rss)
-- [Обновили наше бесплатное решение, которое ускоряет обработку данных](https://habr.com/ru/companies/itsumma/news/756904/?utm_campaign=756904&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры займётся защитой спутникового телевидения](https://habr.com/ru/news/756902/?utm_campaign=756902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
