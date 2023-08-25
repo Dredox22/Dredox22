@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Драйверы Intel Wi-Fi 7 BE200/BE202 будут работать только с Windows 11](https://habr.com/ru/news/756896/?utm_campaign=756896&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains рассказала о том, как установить Rider IDE на Steam Deck](https://habr.com/ru/news/756884/?utm_campaign=756884&utm_source=habrahabr&utm_medium=rss)
 - [YouTube тестирует на Android аналог Shazam](https://habr.com/ru/news/756870/?utm_campaign=756870&utm_source=habrahabr&utm_medium=rss)
 - [В Firefox 116 внедрили опцию импорта дополнений из других браузеров](https://habr.com/ru/news/756858/?utm_campaign=756858&utm_source=habrahabr&utm_medium=rss)
 - [Представлена система защиты Proof-of-Work для Onion-сервисов от DoS-атак](https://habr.com/ru/news/756862/?utm_campaign=756862&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники начали приглашать пользователей Adobe Behance на несуществующие вакансии в Waymo](https://habr.com/ru/news/756854/?utm_campaign=756854&utm_source=habrahabr&utm_medium=rss)
-- [Google и Taito добавили в аркаду с дополненной реальностью Space Invaders: World Defense режим «в помещении» без AR](https://habr.com/ru/news/756842/?utm_campaign=756842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
