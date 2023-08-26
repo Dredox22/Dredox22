@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: за полтора года ИИ-системы создали столько же изображений, сколько фотографы сняли за 150 лет](https://habr.com/ru/news/757076/?utm_campaign=757076&utm_source=habrahabr&utm_medium=rss)
 - [Появился репозиторий с новыми версиями ядра Linux для Debian и Ubuntu](https://habr.com/ru/news/757068/?utm_campaign=757068&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обучила ChatGPT не выдавать защищённый копирайтом контент](https://habr.com/ru/news/757066/?utm_campaign=757066&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и MSI в курсе бага в Windows 11 с BSOD c ошибкой «неподдерживаемый процессор» на некоторых матплатах MSI](https://habr.com/ru/news/757002/?utm_campaign=757002&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты Positive Technologies нашли и помогли исправить серьёзную уязвимость в хранилищах Western Digital](https://habr.com/ru/news/756994/?utm_campaign=756994&utm_source=habrahabr&utm_medium=rss)
-- [ОМП выложила Flutter SDK для ОС «Аврора»](https://habr.com/ru/news/756990/?utm_campaign=756990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
