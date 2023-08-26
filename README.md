@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 получит домашнюю страницу настроек, на которой будут собраны наиболее часто используемые элементы управления](https://habr.com/ru/news/757094/?utm_campaign=757094&utm_source=habrahabr&utm_medium=rss)
 - [AMD представила новые бюджетные видеокарты Radeon RX 7700 XT и Radeon RX 7800 XT](https://habr.com/ru/news/757092/?utm_campaign=757092&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: за полтора года ИИ-системы создали столько же изображений, сколько фотографы сняли за 150 лет](https://habr.com/ru/news/757076/?utm_campaign=757076&utm_source=habrahabr&utm_medium=rss)
 - [Появился репозиторий с новыми версиями ядра Linux для Debian и Ubuntu](https://habr.com/ru/news/757068/?utm_campaign=757068&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обучила ChatGPT не выдавать защищённый копирайтом контент](https://habr.com/ru/news/757066/?utm_campaign=757066&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и MSI в курсе бага в Windows 11 с BSOD c ошибкой «неподдерживаемый процессор» на некоторых матплатах MSI](https://habr.com/ru/news/757002/?utm_campaign=757002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
