@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Giga Computing представила новую линейку мини‑компьютеров](https://habr.com/ru/news/757206/?utm_campaign=757206&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Казанский университет перейдёт на российские экосистемы после отключения от сервисов Microsoft](https://habr.com/ru/news/757200/?utm_campaign=757200&utm_source=habrahabr&utm_medium=rss)
 - [Холдинг «СТАН» будет наращивать производство комплектующих для станков](https://habr.com/ru/news/757190/?utm_campaign=757190&utm_source=habrahabr&utm_medium=rss)
 - [Бьёрн Страуструп дал разработчикам несколько ценных советов на всю жизнь](https://habr.com/ru/news/757164/?utm_campaign=757164&utm_source=habrahabr&utm_medium=rss)
 - [Canonical опубликовала план по развитию дистрибутива Ubuntu Desktop](https://habr.com/ru/news/757148/?utm_campaign=757148&utm_source=habrahabr&utm_medium=rss)
-- [Нативная поддержка работы с архивами 7z и rar в Windows 11 значительно уступает по скорости WinRAR и NanaZIP](https://habr.com/ru/news/757138/?utm_campaign=757138&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи сообщили, что в Starfield нельзя исследовать всю планету, а только её часть в одном определённом регионе](https://habr.com/ru/news/757114/?utm_campaign=757114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
