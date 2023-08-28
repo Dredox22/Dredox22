@@ -71,7 +71,7 @@
 - [Поток «Python для инженеров» стартует уже сегодня](https://habr.com/ru/companies/southbridge/news/757328/?utm_campaign=757328&utm_source=habrahabr&utm_medium=rss)
 - [Вебинары о новых iOS-технологиях: «Что нового в UIKit» и «Swift 5.9»](https://habr.com/ru/companies/kts/news/757296/?utm_campaign=757296&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть «Яндекса» научилась генерировать видео в «Шедевруме»](https://habr.com/ru/news/757316/?utm_campaign=757316&utm_source=habrahabr&utm_medium=rss)
-- [Опубликовали на Хабре 500 статей](https://habr.com/ru/companies/flant/news/757286/?utm_campaign=757286&utm_source=habrahabr&utm_medium=rss)
+- [Опубликовали на Хабре 500 статей про DevOps, Kubernetes и не только. Подготовили подборку лучших наших материалов](https://habr.com/ru/companies/flant/news/757286/?utm_campaign=757286&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Обзор портфеля курсов ГК «Астра». Astra Linux 1.7 для пользователей»](https://habr.com/ru/companies/astralinux/news/757284/?utm_campaign=757284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
