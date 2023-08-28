@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Техпроцесс Intel 4 будет конкурировать с 3 нм от TSMC](https://habr.com/ru/companies/dcmiran/news/757274/?utm_campaign=757274&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux 6.5](https://habr.com/ru/news/757260/?utm_campaign=757260&utm_source=habrahabr&utm_medium=rss)
 - [В Москве начали тестировать круглого робота-доставщика «AI Колобок»](https://habr.com/ru/news/757254/?utm_campaign=757254&utm_source=habrahabr&utm_medium=rss)
 - [Ampere Computing опубликовала руководство по запуску Steam на серверных процессорах AArch64](https://habr.com/ru/news/757250/?utm_campaign=757250&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия Chrome OS 116](https://habr.com/ru/news/757246/?utm_campaign=757246&utm_source=habrahabr&utm_medium=rss)
-- [Giga Computing представила новую линейку мини‑компьютеров](https://habr.com/ru/news/757206/?utm_campaign=757206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
