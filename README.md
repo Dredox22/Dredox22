@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Москве пройдёт ежегодный форум по информационной безопасности SOC-Forum 2023](https://habr.com/ru/news/757378/?utm_campaign=757378&utm_source=habrahabr&utm_medium=rss)
+- [Семь ключевых шагов к оптимизации закупок: практика и результаты](https://habr.com/ru/companies/comindware/news/757300/?utm_campaign=757300&utm_source=habrahabr&utm_medium=rss)
+- [Чат-бот Bing запущен для всех пользователей десктопных версий Chrome](https://habr.com/ru/news/757374/?utm_campaign=757374&utm_source=habrahabr&utm_medium=rss)
+- [МИС «Санаториум» интегрирована в Единую государственную информационную систему в сфере здравоохранения](https://habr.com/ru/news/757366/?utm_campaign=757366&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» рассказал о новой схеме мошенничества с использованием «семейных ценностей»](https://habr.com/ru/news/757358/?utm_campaign=757358&utm_source=habrahabr&utm_medium=rss)
-- [Edge некоторое время классифицировал установочный файл браузера Google Chrome как потенциально опасное приложение](https://habr.com/ru/news/757350/?utm_campaign=757350&utm_source=habrahabr&utm_medium=rss)
-- [Поток «Python для инженеров» стартует уже сегодня](https://habr.com/ru/companies/southbridge/news/757328/?utm_campaign=757328&utm_source=habrahabr&utm_medium=rss)
-- [Вебинары о новых iOS-технологиях: «Что нового в UIKit» и «Swift 5.9»](https://habr.com/ru/companies/kts/news/757296/?utm_campaign=757296&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть «Яндекса» научилась генерировать видео в «Шедевруме»](https://habr.com/ru/news/757316/?utm_campaign=757316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
