@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress предложила зарегистрировать домен на 100 лет](https://habr.com/ru/news/757480/?utm_campaign=757480&utm_source=habrahabr&utm_medium=rss)
 - [Стивен Кинг разрешил использовать свои книги при обучении ИИ](https://habr.com/ru/news/757470/?utm_campaign=757470&utm_source=habrahabr&utm_medium=rss)
 - [Neowin: в проводнике Windows 10 можно включить кнопку «сделать бэкап» с помощью Windows Backup](https://habr.com/ru/news/757458/?utm_campaign=757458&utm_source=habrahabr&utm_medium=rss)
 - [API-хакатон сориентируется на бизнес](https://habr.com/ru/companies/vtb/news/757444/?utm_campaign=757444&utm_source=habrahabr&utm_medium=rss)
 - [Фреймворк для автотестов Kaspresso пополнился автоматической выкачкой артефактов и еще 10+ фичами](https://habr.com/ru/companies/kaspersky/news/757436/?utm_campaign=757436&utm_source=habrahabr&utm_medium=rss)
-- [Расширение Continue для VS Code теперь можно использовать с Code Llama от Meta*](https://habr.com/ru/news/757434/?utm_campaign=757434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
