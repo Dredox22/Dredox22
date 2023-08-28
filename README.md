@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Linux 6.5](https://habr.com/ru/news/757260/?utm_campaign=757260&utm_source=habrahabr&utm_medium=rss)
 - [В Москве начали тестировать круглого робота-доставщика «AI Колобок»](https://habr.com/ru/news/757254/?utm_campaign=757254&utm_source=habrahabr&utm_medium=rss)
 - [Ampere Computing опубликовала руководство по запуску Steam на серверных процессорах AArch64](https://habr.com/ru/news/757250/?utm_campaign=757250&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия Chrome OS 116](https://habr.com/ru/news/757246/?utm_campaign=757246&utm_source=habrahabr&utm_medium=rss)
 - [Giga Computing представила новую линейку мини‑компьютеров](https://habr.com/ru/news/757206/?utm_campaign=757206&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Казанский университет перейдёт на российские экосистемы после отключения от сервисов Microsoft](https://habr.com/ru/news/757200/?utm_campaign=757200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
