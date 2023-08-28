@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликовали на Хабре 500 статей](https://habr.com/ru/companies/flant/news/757286/?utm_campaign=757286&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Обзор портфеля курсов ГК «Астра». Astra Linux 1.7 для пользователей»](https://habr.com/ru/companies/astralinux/news/757284/?utm_campaign=757284&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Группа Астра» &lpar;разработчик Astra Linux&rpar; готовится выпустить свой аналог GitHub](https://habr.com/ru/news/757280/?utm_campaign=757280&utm_source=habrahabr&utm_medium=rss)
 - [Техпроцесс Intel 4 будет конкурировать с 3 нм от TSMC](https://habr.com/ru/companies/dcmiran/news/757274/?utm_campaign=757274&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux 6.5](https://habr.com/ru/news/757260/?utm_campaign=757260&utm_source=habrahabr&utm_medium=rss)
-- [В Москве начали тестировать круглого робота-доставщика «AI Колобок»](https://habr.com/ru/news/757254/?utm_campaign=757254&utm_source=habrahabr&utm_medium=rss)
-- [Ampere Computing опубликовала руководство по запуску Steam на серверных процессорах AArch64](https://habr.com/ru/news/757250/?utm_campaign=757250&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Chrome OS 116](https://habr.com/ru/news/757246/?utm_campaign=757246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
