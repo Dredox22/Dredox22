@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поток «Python для инженеров» стартует уже сегодня](https://habr.com/ru/companies/southbridge/news/757328/?utm_campaign=757328&utm_source=habrahabr&utm_medium=rss)
+- [Вебинары о новых iOS-технологиях: «Что нового в UIKit» и «Swift 5.9»](https://habr.com/ru/companies/kts/news/757296/?utm_campaign=757296&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть «Яндекса» научилась генерировать видео в «Шедевруме»](https://habr.com/ru/news/757316/?utm_campaign=757316&utm_source=habrahabr&utm_medium=rss)
 - [Опубликовали на Хабре 500 статей](https://habr.com/ru/companies/flant/news/757286/?utm_campaign=757286&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Обзор портфеля курсов ГК «Астра». Astra Linux 1.7 для пользователей»](https://habr.com/ru/companies/astralinux/news/757284/?utm_campaign=757284&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Группа Астра» &lpar;разработчик Astra Linux&rpar; готовится выпустить свой аналог GitHub](https://habr.com/ru/news/757280/?utm_campaign=757280&utm_source=habrahabr&utm_medium=rss)
-- [Техпроцесс Intel 4 будет конкурировать с 3 нм от TSMC](https://habr.com/ru/companies/dcmiran/news/757274/?utm_campaign=757274&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Linux 6.5](https://habr.com/ru/news/757260/?utm_campaign=757260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
