@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Neowin: в проводнике Windows 10 можно включить кнопку «сделать бэкап» с помощью Windows Backup](https://habr.com/ru/news/757458/?utm_campaign=757458&utm_source=habrahabr&utm_medium=rss)
 - [API-хакатон сориентируется на бизнес](https://habr.com/ru/companies/vtb/news/757444/?utm_campaign=757444&utm_source=habrahabr&utm_medium=rss)
 - [Фреймворк для автотестов Kaspresso пополнился автоматической выкачкой артефактов и еще 10+ фичами](https://habr.com/ru/companies/kaspersky/news/757436/?utm_campaign=757436&utm_source=habrahabr&utm_medium=rss)
 - [Расширение Continue для VS Code теперь можно использовать с Code Llama от Meta*](https://habr.com/ru/news/757434/?utm_campaign=757434&utm_source=habrahabr&utm_medium=rss)
 - [GitFlic присоединяется к экосистеме ГК «Астра»](https://habr.com/ru/companies/astralinux/news/757422/?utm_campaign=757422&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз DisplayBuddy 2.0 — утилиты для управления внешними мониторами в macOS](https://habr.com/ru/news/757398/?utm_campaign=757398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
