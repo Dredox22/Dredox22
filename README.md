@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс 360» обновила функции управления рассылками и перевода писем в «Яндекс Почте»](https://habr.com/ru/news/757610/?utm_campaign=757610&utm_source=habrahabr&utm_medium=rss)
+- [Релиз libavif 1.0](https://habr.com/ru/news/757608/?utm_campaign=757608&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft внедрит в обучение ИИ «алгоритм мышления»](https://habr.com/ru/news/757598/?utm_campaign=757598&utm_source=habrahabr&utm_medium=rss)
 - [«ВКонтакте» добавила функцию аудиорасшифровки разговоров в «VK Звонки»](https://habr.com/ru/news/757588/?utm_campaign=757588&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обвинила OEM-поставщиков в баге в Windows 11 и появлении BSOD c ошибкой «неподдерживаемый процессор»](https://habr.com/ru/news/757584/?utm_campaign=757584&utm_source=habrahabr&utm_medium=rss)
-- [Как организовать безопасную сеть с помощью open source? 11 материалов по работе с сетевой безопасностью](https://habr.com/ru/companies/selectel/news/757488/?utm_campaign=757488&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/757566/?utm_campaign=757566&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ внёс в реестр новую платёжную систему Kwikpay](https://habr.com/ru/news/757552/?utm_campaign=757552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
