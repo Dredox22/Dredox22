@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RuStore будут предустанавливать на гаджеты в РФ даже при запрете от правообладателей ОС](https://habr.com/ru/news/757662/?utm_campaign=757662&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект gentoo_update для автоматического обновления Gentoo Linux](https://habr.com/ru/news/757644/?utm_campaign=757644&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс 360» обновила функции управления рассылками и перевода писем в «Яндекс Почте»](https://habr.com/ru/news/757610/?utm_campaign=757610&utm_source=habrahabr&utm_medium=rss)
 - [Релиз libavif 1.0](https://habr.com/ru/news/757608/?utm_campaign=757608&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедрит в обучение ИИ «алгоритм мышления»](https://habr.com/ru/news/757598/?utm_campaign=757598&utm_source=habrahabr&utm_medium=rss)
-- [«ВКонтакте» добавила функцию аудиорасшифровки разговоров в «VK Звонки»](https://habr.com/ru/news/757588/?utm_campaign=757588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
