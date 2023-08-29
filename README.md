@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/757566/?utm_campaign=757566&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ внёс в реестр новую платёжную систему Kwikpay](https://habr.com/ru/news/757552/?utm_campaign=757552&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Okko стало доступно в App Store спустя год после удаления](https://habr.com/ru/news/757520/?utm_campaign=757520&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 117](https://habr.com/ru/news/757516/?utm_campaign=757516&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отказалась признать уязвимостью ошибку в Skype, которая раскрывает IP-адрес](https://habr.com/ru/news/757514/?utm_campaign=757514&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила корпоративную версию ChatGPT Enterprise на базе языковой модели GPT-4](https://habr.com/ru/news/757508/?utm_campaign=757508&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили Alfred — открытую утилиту для OSINT](https://habr.com/ru/news/757502/?utm_campaign=757502&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
