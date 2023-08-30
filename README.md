@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В МГУ готовится к запуску новый суперкомпьютер мощностью 400 петафлопс](https://habr.com/ru/news/757986/?utm_campaign=757986&utm_source=habrahabr&utm_medium=rss)
+- [В МГУ готовится к запуску новый суперкомпьютер производительностью 400 петафлопс](https://habr.com/ru/news/757986/?utm_campaign=757986&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован рейтинг популярных языков программирования 2023 года по версии IEEE Spectrum](https://habr.com/ru/news/757964/?utm_campaign=757964&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE нашла новую фишинговую кампанию с поддельными сайтами торговой сети Fix Price](https://habr.com/ru/news/757928/?utm_campaign=757928&utm_source=habrahabr&utm_medium=rss)
 - [Сегодня, 30 августа в 19:00, ждем вас с новым выпуском шоу Слёрма «Заходят два архитектора в бар…»](https://habr.com/ru/companies/southbridge/news/757912/?utm_campaign=757912&utm_source=habrahabr&utm_medium=rss)
