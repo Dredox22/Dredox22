@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сегодня, 30 августа в 19:00, ждем вас с новым выпуском шоу Слёрма «Заходят два архитектора в бар…»](https://habr.com/ru/companies/southbridge/news/757912/?utm_campaign=757912&utm_source=habrahabr&utm_medium=rss)
+- [Beeper начал раздавать приглашения](https://habr.com/ru/news/757904/?utm_campaign=757904&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило обязать операторов передавать РКН данные абонентов в виде хэш-кода](https://habr.com/ru/news/757902/?utm_campaign=757902&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 стала показывать всплывающее окно с просьбой переключить поисковую систему по умолчанию на Microsoft Bing](https://habr.com/ru/news/757886/?utm_campaign=757886&utm_source=habrahabr&utm_medium=rss)
 - [DevToys — приложение с набором утилит для разработчиков](https://habr.com/ru/news/757880/?utm_campaign=757880&utm_source=habrahabr&utm_medium=rss)
-- [В ближайший год OpenAI планирует получить более $1 млрд дохода от продажи ПО для ИИ и вычислительных мощностей](https://habr.com/ru/news/757856/?utm_campaign=757856&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум запустил курс «Архитектура программного обеспечения»](https://habr.com/ru/companies/yandex_praktikum/news/757844/?utm_campaign=757844&utm_source=habrahabr&utm_medium=rss)
-- [В Корее разработали мягких роботов, которые самоуничтожаются без следа](https://habr.com/ru/news/757828/?utm_campaign=757828&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
