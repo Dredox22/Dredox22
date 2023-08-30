@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила инструмент SynthID для маркировки дипфейков через водяные знаки, заметные только ИИ](https://habr.com/ru/news/757758/?utm_campaign=757758&utm_source=habrahabr&utm_medium=rss)
 - [Комиссия экспертов подготовит поправки в закон «О некоммерческих организациях», ограничивающий работу с Open Source](https://habr.com/ru/news/757744/?utm_campaign=757744&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Pollen API для получения данных о пыльце по всему миру](https://habr.com/ru/news/757734/?utm_campaign=757734&utm_source=habrahabr&utm_medium=rss)
 - [Проекту Bugzilla исполнилось 25 лет](https://habr.com/ru/news/757700/?utm_campaign=757700&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: суд обязал Motorsport Games выплатить компенсации по зарплате двум разработчикам из РФ](https://habr.com/ru/news/757692/?utm_campaign=757692&utm_source=habrahabr&utm_medium=rss)
-- [RuStore будут предустанавливать на гаджеты в РФ даже при запрете от правообладателей ОС](https://habr.com/ru/news/757662/?utm_campaign=757662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
