@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ближайший год OpenAI планирует получить более $1 млрд дохода от продажи ПО для ИИ и вычислительных мощностей](https://habr.com/ru/news/757856/?utm_campaign=757856&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Практикум запустил курс «Архитектура программного обеспечения»](https://habr.com/ru/companies/yandex_praktikum/news/757844/?utm_campaign=757844&utm_source=habrahabr&utm_medium=rss)
 - [В Корее разработали мягких роботов, которые самоуничтожаются без следа](https://habr.com/ru/news/757828/?utm_campaign=757828&utm_source=habrahabr&utm_medium=rss)
 - [Meta* добавила ноги к аватарам в режиме бета-теста в Quest Home](https://habr.com/ru/news/757816/?utm_campaign=757816&utm_source=habrahabr&utm_medium=rss)
 - [«Мир» введёт отложенную оплату на маркетплейсах, в такси и каршеринге](https://habr.com/ru/news/757812/?utm_campaign=757812&utm_source=habrahabr&utm_medium=rss)
-- [Google запускает новый способ работы с данными BigQuery Studio](https://habr.com/ru/news/757806/?utm_campaign=757806&utm_source=habrahabr&utm_medium=rss)
-- [Digital Eclipse выпустила игровой документальный проект The Making of Karateka про разработку культовой игры Karateka](https://habr.com/ru/news/757808/?utm_campaign=757808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
