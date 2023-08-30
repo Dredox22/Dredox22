@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Корее разработали мягких роботов, которые самоуничтожаются без следа](https://habr.com/ru/news/757828/?utm_campaign=757828&utm_source=habrahabr&utm_medium=rss)
+- [Meta* добавила ноги к аватарам в режиме бета-теста в Quest Home](https://habr.com/ru/news/757816/?utm_campaign=757816&utm_source=habrahabr&utm_medium=rss)
+- [«Мир» введёт отложенную оплату на маркетплейсах, в такси и каршеринге](https://habr.com/ru/news/757812/?utm_campaign=757812&utm_source=habrahabr&utm_medium=rss)
+- [Google запускает новый способ работы с данными BigQuery Studio](https://habr.com/ru/news/757806/?utm_campaign=757806&utm_source=habrahabr&utm_medium=rss)
 - [Digital Eclipse выпустила игровой документальный проект The Making of Karateka про разработку культовой игры Karateka](https://habr.com/ru/news/757808/?utm_campaign=757808&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф» начнёт возвращать клиентам украденные мошенниками средства](https://habr.com/ru/news/757792/?utm_campaign=757792&utm_source=habrahabr&utm_medium=rss)
-- [Язык программирования Elixir экономит Pinterest $2 млн в год на затратах на серверы](https://habr.com/ru/news/757788/?utm_campaign=757788&utm_source=habrahabr&utm_medium=rss)
-- [Samsung 990 Pro на 4 Tb поступит в продажу уже этой осенью](https://habr.com/ru/companies/dcmiran/news/757782/?utm_campaign=757782&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии Microsoft Edge 117 убрали некоторые устаревшие функции](https://habr.com/ru/news/757774/?utm_campaign=757774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
