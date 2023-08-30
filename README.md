@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В бета-версия Microsoft Edge 117 убрали некоторые устаревшие функции](https://habr.com/ru/news/757774/?utm_campaign=757774&utm_source=habrahabr&utm_medium=rss)
-- [Google представила инструмент SynthID для маркировки дипфейков через водяные знаки, заметные только ИИ](https://habr.com/ru/news/757758/?utm_campaign=757758&utm_source=habrahabr&utm_medium=rss)
-- [Комиссия экспертов подготовит поправки в закон «О некоммерческих организациях», ограничивающий работу с Open Source](https://habr.com/ru/news/757744/?utm_campaign=757744&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Pollen API для получения данных о пыльце по всему миру](https://habr.com/ru/news/757734/?utm_campaign=757734&utm_source=habrahabr&utm_medium=rss)
-- [Проекту Bugzilla исполнилось 25 лет](https://habr.com/ru/news/757700/?utm_campaign=757700&utm_source=habrahabr&utm_medium=rss)
+- [Digital Eclipse выпустила игровой документальный проект The Making of Karateka про разработку культовой игры Karateka](https://habr.com/ru/news/757808/?utm_campaign=757808&utm_source=habrahabr&utm_medium=rss)
+- [«Тинькофф» начнёт возвращать клиентам украденные мошенниками средства](https://habr.com/ru/news/757792/?utm_campaign=757792&utm_source=habrahabr&utm_medium=rss)
+- [Язык программирования Elixir экономит Pinterest $2 млн в год на затратах на серверы](https://habr.com/ru/news/757788/?utm_campaign=757788&utm_source=habrahabr&utm_medium=rss)
+- [Samsung 990 Pro на 4 Tb поступит в продажу уже этой осенью](https://habr.com/ru/companies/dcmiran/news/757782/?utm_campaign=757782&utm_source=habrahabr&utm_medium=rss)
+- [В бета-версии Microsoft Edge 117 убрали некоторые устаревшие функции](https://habr.com/ru/news/757774/?utm_campaign=757774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
