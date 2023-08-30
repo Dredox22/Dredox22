@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован рейтинг популярных языков программирования 2023 года по версии IEEE Spectrum](https://habr.com/ru/news/757964/?utm_campaign=757964&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE нашла новую фишинговую кампанию с поддельными сайтами торговой сети Fix Price](https://habr.com/ru/news/757928/?utm_campaign=757928&utm_source=habrahabr&utm_medium=rss)
 - [Сегодня, 30 августа в 19:00, ждем вас с новым выпуском шоу Слёрма «Заходят два архитектора в бар…»](https://habr.com/ru/companies/southbridge/news/757912/?utm_campaign=757912&utm_source=habrahabr&utm_medium=rss)
 - [Beeper начал раздавать приглашения](https://habr.com/ru/news/757904/?utm_campaign=757904&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило обязать операторов передавать РКН данные абонентов в виде хэш-кода](https://habr.com/ru/news/757902/?utm_campaign=757902&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 стала показывать всплывающее окно с просьбой переключить поисковую систему по умолчанию на Microsoft Bing](https://habr.com/ru/news/757886/?utm_campaign=757886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
