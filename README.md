@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сервис видеоконференций Jitsi объявил о необходимости аутентификации через аккаунты в FB, Google или Microsoft](https://habr.com/ru/news/758034/?utm_campaign=758034&utm_source=habrahabr&utm_medium=rss)
-- [Тени исчезают в полдень: F.A.C.C.T. установила связь вымогателей Shadow c хактивистами из группы Twelve](https://habr.com/ru/companies/f_a_c_c_t/news/757950/?utm_campaign=757950&utm_source=habrahabr&utm_medium=rss)
-- [В МГУ готовится к запуску новый суперкомпьютер производительностью 400 петафлопс](https://habr.com/ru/news/757986/?utm_campaign=757986&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован рейтинг популярных языков программирования 2023 года по версии IEEE Spectrum](https://habr.com/ru/news/757964/?utm_campaign=757964&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE нашла новую фишинговую кампанию с поддельными сайтами торговой сети Fix Price](https://habr.com/ru/news/757928/?utm_campaign=757928&utm_source=habrahabr&utm_medium=rss)
+- [В чипах Intel Meteor Lake будет встроенный модуль с ИИ для более оперативного управления питанием](https://habr.com/ru/news/758048/?utm_campaign=758048&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI попросила суд отклонить иски авторов о нарушении авторских прав из-за ИИ](https://habr.com/ru/news/758052/?utm_campaign=758052&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft объявила о прекращении поддержки Visual Studio для Mac после августа 2024 года](https://habr.com/ru/news/758050/?utm_campaign=758050&utm_source=habrahabr&utm_medium=rss)
+- [Вышел релиз Playwright 1.37](https://habr.com/ru/news/758046/?utm_campaign=758046&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники начали использовать легенду с просроченными SIM-картами для получения доступа в личный кабинет абонентов](https://habr.com/ru/news/758044/?utm_campaign=758044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
