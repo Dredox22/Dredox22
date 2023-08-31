@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик Homeworld 3 и Earthless компания Blackbird Interactive увольняет 41 члена команды](https://habr.com/ru/news/758198/?utm_campaign=758198&utm_source=habrahabr&utm_medium=rss)
 - [Baidu открыла доступ к чат-боту ERNIE](https://habr.com/ru/news/758150/?utm_campaign=758150&utm_source=habrahabr&utm_medium=rss)
 - [Apple начала приём заявок от белых хакеров в программу iPhone Security Research Device Program 2024](https://habr.com/ru/news/758114/?utm_campaign=758114&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains объявила о поддержке Wayland на платформе IntelliJ и в OpenJDK](https://habr.com/ru/news/758110/?utm_campaign=758110&utm_source=habrahabr&utm_medium=rss)
 - [Фонд развития интернет-инициатив подал в суд на основателей закрывшегося cервиса для автопубликации постов «Амплифер»](https://habr.com/ru/news/758102/?utm_campaign=758102&utm_source=habrahabr&utm_medium=rss)
-- [Администрация сайта онлайн-калькулятора Keisan от Casio сообщила о закрытии англоязычной версии с 20 сентября 2023 года](https://habr.com/ru/news/758088/?utm_campaign=758088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
