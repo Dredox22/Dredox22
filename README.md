@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Администрация сайта онлайн-калькулятора Keisan от Casio сообщила о закрытии англоязычной версии с 20 сентября 2023 года](https://habr.com/ru/news/758088/?utm_campaign=758088&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Практикум» запускает интерактивный учебник по актуальным IT‑навыкам для студентов‑медиков](https://habr.com/ru/news/758016/?utm_campaign=758016&utm_source=habrahabr&utm_medium=rss)
 - [AMD опубликовала открытый исходный код прошивки SEV](https://habr.com/ru/news/758078/?utm_campaign=758078&utm_source=habrahabr&utm_medium=rss)
 - [Белорусская национальная авиакомпания «Белавиа» перейдёт на российскую систему бронирования «Леонардо»](https://habr.com/ru/news/758074/?utm_campaign=758074&utm_source=habrahabr&utm_medium=rss)
 - [Российская компания СМП ESports планирует в течение трёх лет «начать разрабатывать» футбольный и хоккейный симуляторы](https://habr.com/ru/news/758072/?utm_campaign=758072&utm_source=habrahabr&utm_medium=rss)
-- [Система дальней связи НАСА столкнулась с проблемой критических нагрузок научных миссий](https://habr.com/ru/news/758060/?utm_campaign=758060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
