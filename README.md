@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Система дальней связи НАСА достигла критического состояния из-за нагрузок научных миссий](https://habr.com/ru/news/758060/?utm_campaign=758060&utm_source=habrahabr&utm_medium=rss)
+- [Поиск Google по умолчанию размывает откровенные изображения](https://habr.com/ru/news/758056/?utm_campaign=758056&utm_source=habrahabr&utm_medium=rss)
 - [В чипах Intel Meteor Lake будет встроенный модуль с ИИ для более оперативного управления питанием](https://habr.com/ru/news/758048/?utm_campaign=758048&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI попросила суд отклонить иски авторов о нарушении авторских прав из-за ИИ](https://habr.com/ru/news/758052/?utm_campaign=758052&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила о прекращении поддержки Visual Studio для Mac после августа 2024 года](https://habr.com/ru/news/758050/?utm_campaign=758050&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз Playwright 1.37](https://habr.com/ru/news/758046/?utm_campaign=758046&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники начали использовать легенду с просроченными SIM-картами для получения доступа в личный кабинет абонентов](https://habr.com/ru/news/758044/?utm_campaign=758044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
