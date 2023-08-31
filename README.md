@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple начала приём заявок от белых хакеров в программу iPhone Security Research Device Program 2024](https://habr.com/ru/news/758114/?utm_campaign=758114&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains объявила о поддержке Wayland на платформе IntelliJ и в OpenJDK](https://habr.com/ru/news/758110/?utm_campaign=758110&utm_source=habrahabr&utm_medium=rss)
+- [Фонд развития интернет-инициатив подал в суд на основателей закрывшегося cервиса для автопубликации постов «Амплифер»](https://habr.com/ru/news/758102/?utm_campaign=758102&utm_source=habrahabr&utm_medium=rss)
 - [Администрация сайта онлайн-калькулятора Keisan от Casio сообщила о закрытии англоязычной версии с 20 сентября 2023 года](https://habr.com/ru/news/758088/?utm_campaign=758088&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Практикум» запускает интерактивный учебник по актуальным IT‑навыкам для студентов‑медиков](https://habr.com/ru/news/758016/?utm_campaign=758016&utm_source=habrahabr&utm_medium=rss)
-- [AMD опубликовала открытый исходный код прошивки SEV](https://habr.com/ru/news/758078/?utm_campaign=758078&utm_source=habrahabr&utm_medium=rss)
-- [Белорусская национальная авиакомпания «Белавиа» перейдёт на российскую систему бронирования «Леонардо»](https://habr.com/ru/news/758074/?utm_campaign=758074&utm_source=habrahabr&utm_medium=rss)
-- [Российская компания СМП ESports планирует в течение трёх лет «начать разрабатывать» футбольный и хоккейный симуляторы](https://habr.com/ru/news/758072/?utm_campaign=758072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
