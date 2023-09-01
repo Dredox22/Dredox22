@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Продлён сбор заявок на HighLoad++ Award 2023](https://habr.com/ru/companies/oleg-bunin/news/758358/?utm_campaign=758358&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатные курсы, занятия и одна конференция, которые стоит посетить в сентябре](https://habr.com/ru/companies/netologyru/news/758428/?utm_campaign=758428&utm_source=habrahabr&utm_medium=rss)
 - [Ученые Smart Engines выступили на ведущей научной конференции по распознаванию документов ICDAR-2023 в США](https://habr.com/ru/companies/smartengines/news/758376/?utm_campaign=758376&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме предложили ужесточить контроль за незарегистрированными SIM-картами](https://habr.com/ru/news/758366/?utm_campaign=758366&utm_source=habrahabr&utm_medium=rss)
 - [«МТС» разработал собственную антифрод-систему Fraud Detection Platform](https://habr.com/ru/news/758354/?utm_campaign=758354&utm_source=habrahabr&utm_medium=rss)
