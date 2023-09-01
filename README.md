@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ученые Smart Engines выступили на ведущей научной конференции по распознаванию документов ICDAR-2023 в США](https://habr.com/ru/companies/smartengines/news/758376/?utm_campaign=758376&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме предложили ужесточить контроль за незарегистрированными SIM-картами](https://habr.com/ru/news/758366/?utm_campaign=758366&utm_source=habrahabr&utm_medium=rss)
 - [«МТС» разработал собственную антифрод-систему Fraud Detection Platform](https://habr.com/ru/news/758354/?utm_campaign=758354&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили Cheetah — легковесный менеджер виртуальных  машин для macOS](https://habr.com/ru/news/758330/?utm_campaign=758330&utm_source=habrahabr&utm_medium=rss)
 - [Google начала удалять «пиратские» URL-адреса из личных ссылок пользователей](https://habr.com/ru/news/758322/?utm_campaign=758322&utm_source=habrahabr&utm_medium=rss)
-- [Суд в Хельсинки отклонил жалобу «Яндекса» по делу об ограничениях для сервиса такси Yango](https://habr.com/ru/news/758312/?utm_campaign=758312&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
