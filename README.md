@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google перешла на более короткий цикл формирования релизов Chrome](https://habr.com/ru/news/758282/?utm_campaign=758282&utm_source=habrahabr&utm_medium=rss)
 - [Появились первые оценки критиков и обзоры на Starfield](https://habr.com/ru/news/758244/?utm_campaign=758244&utm_source=habrahabr&utm_medium=rss)
 - [CROC&amp;amp;TALK. Подходы к управлению проектами 1С](https://habr.com/ru/companies/croc/news/758236/?utm_campaign=758236&utm_source=habrahabr&utm_medium=rss)
 - [«РТК-Солар» рассказала о фишинговой email-рассылке, замаскированной под требования правоохранительных органов](https://habr.com/ru/news/758230/?utm_campaign=758230&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик Homeworld 3 и Earthless компания Blackbird Interactive увольняет 41 члена команды](https://habr.com/ru/news/758198/?utm_campaign=758198&utm_source=habrahabr&utm_medium=rss)
-- [Baidu открыла доступ к чат-боту ERNIE](https://habr.com/ru/news/758150/?utm_campaign=758150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
