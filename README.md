@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft объявила о скором прекращении поддержки WordPad](https://habr.com/ru/news/758494/?utm_campaign=758494&utm_source=habrahabr&utm_medium=rss)
 - [МТС разработала универсальный антифрод-сервис на базе ML-детекции](https://habr.com/ru/companies/ru_mts/news/758472/?utm_campaign=758472&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в антипиратский меморандум войдёт контент правообладателей книжной индустрии и музыкальных сервисов](https://habr.com/ru/news/758436/?utm_campaign=758436&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатные курсы, занятия и одна конференция, которые стоит посетить в сентябре](https://habr.com/ru/companies/netologyru/news/758428/?utm_campaign=758428&utm_source=habrahabr&utm_medium=rss)
 - [Ученые Smart Engines выступили на ведущей научной конференции по распознаванию документов ICDAR-2023 в США](https://habr.com/ru/companies/smartengines/news/758376/?utm_campaign=758376&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме предложили ужесточить контроль за незарегистрированными SIM-картами](https://habr.com/ru/news/758366/?utm_campaign=758366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
