@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Продолжается набор в «IT Школу Samsung»](https://habr.com/ru/companies/samsung/news/758876/?utm_campaign=758876&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 можно значительно ускорить работу «Проводника» при открытии папки с тысячами файлов с помощью кнопки F11](https://habr.com/ru/news/758872/?utm_campaign=758872&utm_source=habrahabr&utm_medium=rss)
 - [Безопасное облако и защита от DDoS-атак](https://habr.com/ru/companies/cloud_ru/news/758818/?utm_campaign=758818&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты по ИИ предложили новый метод распознавать товары для весов и касс самообслуживания](https://habr.com/ru/news/758808/?utm_campaign=758808&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты: после запрета информации про VPN пользователи начнут передавать инструкции по настройке почтой или на флешках](https://habr.com/ru/news/758786/?utm_campaign=758786&utm_source=habrahabr&utm_medium=rss)
-- [GNOME 45 потеряет совместимость со старыми дополнениям](https://habr.com/ru/companies/itsumma/news/758768/?utm_campaign=758768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
