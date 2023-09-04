@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Девять китайских разработчиков чипов RISC-V создали патентный альянс](https://habr.com/ru/news/758762/?utm_campaign=758762&utm_source=habrahabr&utm_medium=rss)
+- [Arduino объявила о партнёрстве с Amazon Web Services](https://habr.com/ru/news/758760/?utm_campaign=758760&utm_source=habrahabr&utm_medium=rss)
+- [Первый Межвузовский Центр противодействия киберугрозам начал работать в полном режиме](https://habr.com/ru/news/758754/?utm_campaign=758754&utm_source=habrahabr&utm_medium=rss)
 - [В PowerToys появился инструмент Crop and Lock &lpar;«Обрезка и блокировка»&rpar; для создания интерактивных мини-окошек](https://habr.com/ru/news/758740/?utm_campaign=758740&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 начали тестировать автосохранение в «Блокноте» и улучшения в «Ножницах»](https://habr.com/ru/news/758738/?utm_campaign=758738&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на CyberCamp 2023 — масштабный онлайн-кэмп по практической безопасности](https://habr.com/ru/companies/jetinfosystems/news/758722/?utm_campaign=758722&utm_source=habrahabr&utm_medium=rss)
-- [Российские школьники получили четыре золотые медали на Международной олимпиаде по информатике IOI 2023](https://habr.com/ru/news/758686/?utm_campaign=758686&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: постановление Минцифры коснётся сайтов со списками VPN или с инструкциями по созданию собственных VPN и прокси](https://habr.com/ru/news/758638/?utm_campaign=758638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
