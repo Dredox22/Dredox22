@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские школьники получили четыре золотые медали на Международной олимпиаде по информатике IOI 2023](https://habr.com/ru/news/758686/?utm_campaign=758686&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: постановление Минцифры коснётся сайтов со списками VPN или с инструкциями по созданию собственных VPN и прокси](https://habr.com/ru/news/758638/?utm_campaign=758638&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft перестанет поддерживать TLS 1.0 и 1.1 в Windows 11 и 12](https://habr.com/ru/news/758606/?utm_campaign=758606&utm_source=habrahabr&utm_medium=rss)
 - [Ютубер: голубь с флешками быстрее передаст 3 ТБ данных на расстояния до 800 км, чем широкополосная связь](https://habr.com/ru/news/758600/?utm_campaign=758600&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила сайт «Приложения от Apple» для продвижения своих приложений](https://habr.com/ru/news/758590/?utm_campaign=758590&utm_source=habrahabr&utm_medium=rss)
-- [Индийское космическое агентство: луноход «Прагъян» проехал более 100 метров, в начале его миссии были проблемы со связью](https://habr.com/ru/news/758546/?utm_campaign=758546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
