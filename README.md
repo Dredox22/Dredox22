@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасное облако и защита от DDoS-атак](https://habr.com/ru/companies/cloud_ru/news/758818/?utm_campaign=758818&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты по ИИ предложили новый метод распознавать товары для весов и касс самообслуживания](https://habr.com/ru/news/758808/?utm_campaign=758808&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты: после запрета информации про VPN пользователи начнут передавать инструкции по настройке почтой или на флешках](https://habr.com/ru/news/758786/?utm_campaign=758786&utm_source=habrahabr&utm_medium=rss)
 - [GNOME 45 потеряет совместимость со старыми дополнениям](https://habr.com/ru/companies/itsumma/news/758768/?utm_campaign=758768&utm_source=habrahabr&utm_medium=rss)
 - [Девять китайских разработчиков чипов RISC-V создали патентный альянс](https://habr.com/ru/news/758762/?utm_campaign=758762&utm_source=habrahabr&utm_medium=rss)
-- [Arduino объявила о партнёрстве с Amazon Web Services](https://habr.com/ru/news/758760/?utm_campaign=758760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
