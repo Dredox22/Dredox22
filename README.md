@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Московский метрополитен подал заявку на регистрацию бренда «Взгляд» для систем биометрии и оплаты проезда](https://habr.com/ru/news/759002/?utm_campaign=759002&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» открыл доступ к сервису GigaChat для всех пользователей](https://habr.com/ru/news/758984/?utm_campaign=758984&utm_source=habrahabr&utm_medium=rss)
+- [Вышел AcyMailling v.8.7.1 — релиз безопасности](https://habr.com/ru/news/758978/?utm_campaign=758978&utm_source=habrahabr&utm_medium=rss)
 - [В Узбекистане платёжные сервисы Oson и Pay Way приостановили международные переводы](https://habr.com/ru/news/758976/?utm_campaign=758976&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры закажет исследования о влиянии 5G на живых существ](https://habr.com/ru/news/758962/?utm_campaign=758962&utm_source=habrahabr&utm_medium=rss)
-- [Учёные обучили нейросеть измерять степень хаотичности сигналов](https://habr.com/ru/news/758900/?utm_campaign=758900&utm_source=habrahabr&utm_medium=rss)
-- [Ozon и F.A.C.C.T. назвали основные мошеннические схемы при онлайн-покупках в 2023 году](https://habr.com/ru/companies/f_a_c_c_t/news/758916/?utm_campaign=758916&utm_source=habrahabr&utm_medium=rss)
-- [Вышла среда разработки Apache NetBeans 19](https://habr.com/ru/news/758946/?utm_campaign=758946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
