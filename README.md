@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Альянса по защите детей в цифровой среде провел исследование о цифровых угрозах у подростков в интернете](https://habr.com/ru/news/759090/?utm_campaign=759090&utm_source=habrahabr&utm_medium=rss)
+- [IT-системы и бизнес-стратегия. Как их подружить?](https://habr.com/ru/companies/southbridge/news/759088/?utm_campaign=759088&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на X5 Data Quality Meetup](https://habr.com/ru/companies/X5Tech/news/759086/?utm_campaign=759086&utm_source=habrahabr&utm_medium=rss)
 - [Qualys опубликовала список из 20 наиболее эксплуатируемых уязвимостей злоумышленниками для кибератак и вредоностного ПО](https://habr.com/ru/news/759082/?utm_campaign=759082&utm_source=habrahabr&utm_medium=rss)
 - [В Squadus появилась новая функция для общения между геораспределёными холдингами и партнёрами](https://habr.com/ru/news/759062/?utm_campaign=759062&utm_source=habrahabr&utm_medium=rss)
-- [В RuStore появился детский режим, скрывающий от детей нежелательные приложения](https://habr.com/ru/news/759034/?utm_campaign=759034&utm_source=habrahabr&utm_medium=rss)
-- [Количество фишинговых ресурсов в Telegram выросло в пять раз за первую половину 2023 года](https://habr.com/ru/news/759032/?utm_campaign=759032&utm_source=habrahabr&utm_medium=rss)
-- [Определены победители Летней школы машинного обучения «Сколтеха»](https://habr.com/ru/news/759024/?utm_campaign=759024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
