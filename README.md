@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Центральный университет принял первых студентов на магистерскую программу](https://habr.com/ru/news/759114/?utm_campaign=759114&utm_source=habrahabr&utm_medium=rss)
 - [Альянс по защите детей в цифровой среде провел исследование о цифровых угрозах у подростков в интернете](https://habr.com/ru/news/759090/?utm_campaign=759090&utm_source=habrahabr&utm_medium=rss)
 - [IT-системы и бизнес-стратегия. Как их подружить?](https://habr.com/ru/companies/southbridge/news/759088/?utm_campaign=759088&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на X5 Data Quality Meetup](https://habr.com/ru/companies/X5Tech/news/759086/?utm_campaign=759086&utm_source=habrahabr&utm_medium=rss)
 - [Qualys опубликовала список из 20 наиболее эксплуатируемых уязвимостей злоумышленниками для кибератак и вредоносного ПО](https://habr.com/ru/news/759082/?utm_campaign=759082&utm_source=habrahabr&utm_medium=rss)
-- [В Squadus появилась новая функция для общения между геораспределёными холдингами и партнёрами](https://habr.com/ru/news/759062/?utm_campaign=759062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
