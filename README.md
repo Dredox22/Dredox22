@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Squadus появилась новая функция для общения между геораспределёными холдингами и партнёрами](https://habr.com/ru/news/759062/?utm_campaign=759062&utm_source=habrahabr&utm_medium=rss)
 - [В RuStore появился детский режим, скрывающий от детей нежелательные приложения](https://habr.com/ru/news/759034/?utm_campaign=759034&utm_source=habrahabr&utm_medium=rss)
 - [Количество фишинговых ресурсов в Telegram выросло в пять раз за первую половину 2023 года](https://habr.com/ru/news/759032/?utm_campaign=759032&utm_source=habrahabr&utm_medium=rss)
 - [Определены победители Летней школы машинного обучения «Сколтеха»](https://habr.com/ru/news/759024/?utm_campaign=759024&utm_source=habrahabr&utm_medium=rss)
 - [Московский метрополитен подал заявку на регистрацию бренда «Взгляд» для систем биометрии и оплаты проезда](https://habr.com/ru/news/759002/?utm_campaign=759002&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» открыл доступ к сервису GigaChat для всех пользователей](https://habr.com/ru/news/758984/?utm_campaign=758984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
