@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные обучили нейросеть измерять степень хаотичности сигналов](https://habr.com/ru/news/758900/?utm_campaign=758900&utm_source=habrahabr&utm_medium=rss)
+- [Ozon и F.A.C.C.T. назвали основные мошеннические схемы при онлайн-покупках в 2023 году](https://habr.com/ru/companies/f_a_c_c_t/news/758916/?utm_campaign=758916&utm_source=habrahabr&utm_medium=rss)
+- [Вышла среда разработки Apache NetBeans 19](https://habr.com/ru/news/758946/?utm_campaign=758946&utm_source=habrahabr&utm_medium=rss)
+- [В Edge начали тестировать отправку скопированных ссылок в Microsoft](https://habr.com/ru/news/758944/?utm_campaign=758944&utm_source=habrahabr&utm_medium=rss)
 - [Власти Финляндии решили не запрещать в стране работу сервиса такси Yango от «Яндекса»](https://habr.com/ru/news/758908/?utm_campaign=758908&utm_source=habrahabr&utm_medium=rss)
-- [Продолжается набор в «IT Школу Samsung»](https://habr.com/ru/companies/samsung/news/758876/?utm_campaign=758876&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 можно значительно ускорить работу «Проводника» при открытии папки с тысячами файлов с помощью кнопки F11](https://habr.com/ru/news/758872/?utm_campaign=758872&utm_source=habrahabr&utm_medium=rss)
-- [Безопасное облако и защита от DDoS-атак](https://habr.com/ru/companies/cloud_ru/news/758818/?utm_campaign=758818&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты по ИИ предложили новый метод распознавать товары для весов и касс самообслуживания](https://habr.com/ru/news/758808/?utm_campaign=758808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
