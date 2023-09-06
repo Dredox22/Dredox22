@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple подписала новое долгосрочное лицензионное соглашение с Arm, которое будет действовать и после 2040 года](https://habr.com/ru/news/759176/?utm_campaign=759176&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: переход на альтернативные ИТ-решения после ухода западных вендоров](https://habr.com/ru/companies/nubes/news/759170/?utm_campaign=759170&utm_source=habrahabr&utm_medium=rss)
+- [Система спутниковой связи «Гонец» установила рекорд по продажам абонентского оборудования](https://habr.com/ru/news/759166/?utm_campaign=759166&utm_source=habrahabr&utm_medium=rss)
 - [Подведены итоги чемпионата для SQL‑разработчиков «IT_ONE Cup. Базы данных»](https://habr.com/ru/news/759124/?utm_campaign=759124&utm_source=habrahabr&utm_medium=rss)
 - [Apple запатентовала технологию идентификации пользователя через AirPods](https://habr.com/ru/news/759152/?utm_campaign=759152&utm_source=habrahabr&utm_medium=rss)
-- [«Миссия White Hat»: игра для этичных хакеров про умный город](https://habr.com/ru/companies/kaspersky/news/758388/?utm_campaign=758388&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость Atlas VPN может привести к утечке реальных IP-адресов пользователей](https://habr.com/ru/news/759144/?utm_campaign=759144&utm_source=habrahabr&utm_medium=rss)
-- [AMD объявила победителей конкурса разработчиков на ПЛИС Open Hardware Competition 2023](https://habr.com/ru/news/759140/?utm_campaign=759140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
