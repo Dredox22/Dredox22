@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые EUV-машины от ASML, характеристики процессоров Intel Raptor Lake Refresh и перспективы кремниевой фотоники TSMC](https://habr.com/ru/companies/dcmiran/news/759204/?utm_campaign=759204&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер», МТС, «Мегафон», «Яндекс», VK и другие раскритиковали идею дать спецслужбам доступ к перепискам и звонкам](https://habr.com/ru/news/759202/?utm_campaign=759202&utm_source=habrahabr&utm_medium=rss)
 - [Apple подписала новое долгосрочное лицензионное соглашение с Arm, которое будет действовать и после 2040 года](https://habr.com/ru/news/759176/?utm_campaign=759176&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: переход на альтернативные ИТ-решения после ухода западных вендоров](https://habr.com/ru/companies/nubes/news/759170/?utm_campaign=759170&utm_source=habrahabr&utm_medium=rss)
 - [Система спутниковой связи «Гонец» установила рекорд по продажам абонентского оборудования](https://habr.com/ru/news/759166/?utm_campaign=759166&utm_source=habrahabr&utm_medium=rss)
-- [Подведены итоги чемпионата для SQL‑разработчиков «IT_ONE Cup. Базы данных»](https://habr.com/ru/news/759124/?utm_campaign=759124&utm_source=habrahabr&utm_medium=rss)
-- [Apple запатентовала технологию идентификации пользователя через AirPods](https://habr.com/ru/news/759152/?utm_campaign=759152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
