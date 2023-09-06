@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Подведены итоги чемпионата для SQL‑разработчиков «IT_ONE Cup. Базы данных»](https://habr.com/ru/news/759124/?utm_campaign=759124&utm_source=habrahabr&utm_medium=rss)
+- [Apple запатентовала технологию идентификации пользователя через AirPods](https://habr.com/ru/news/759152/?utm_campaign=759152&utm_source=habrahabr&utm_medium=rss)
+- [«Миссия White Hat»: игра для этичных хакеров про умный город](https://habr.com/ru/companies/kaspersky/news/758388/?utm_campaign=758388&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость Atlas VPN может привести к утечке реальных IP-адресов пользователей](https://habr.com/ru/news/759144/?utm_campaign=759144&utm_source=habrahabr&utm_medium=rss)
 - [AMD объявила победителей конкурса разработчиков на ПЛИС Open Hardware Competition 2023](https://habr.com/ru/news/759140/?utm_campaign=759140&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пакет программ Samba 4.19 с реализацией контроллера домена и сервиса Active Directory](https://habr.com/ru/news/759136/?utm_campaign=759136&utm_source=habrahabr&utm_medium=rss)
-- [Центральный университет принял первых студентов на магистерскую программу](https://habr.com/ru/news/759114/?utm_campaign=759114&utm_source=habrahabr&utm_medium=rss)
-- [Альянс по защите детей в цифровой среде провел исследование о цифровых угрозах у подростков в интернете](https://habr.com/ru/news/759090/?utm_campaign=759090&utm_source=habrahabr&utm_medium=rss)
-- [IT-системы и бизнес-стратегия. Как их подружить?](https://habr.com/ru/companies/southbridge/news/759088/?utm_campaign=759088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
