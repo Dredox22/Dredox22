@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rustore запустил монетизацию приложений в юанях для разработчиков из Китая](https://habr.com/ru/news/759282/?utm_campaign=759282&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь с помощью Flipper Zero смог заблокировать работу iPhone по Bluetooth](https://habr.com/ru/news/759254/?utm_campaign=759254&utm_source=habrahabr&utm_medium=rss)
 - [Apple объявила о запуске бета-версии App Store для очков смешанной реальности Vision Pro](https://habr.com/ru/news/759236/?utm_campaign=759236&utm_source=habrahabr&utm_medium=rss)
 - [Роспотребнадзор назвал риски продавцов смартфонов и гаджетов без предустановленного RuStore](https://habr.com/ru/news/759234/?utm_campaign=759234&utm_source=habrahabr&utm_medium=rss)
 - [Новые EUV-машины от ASML, характеристики процессоров Intel Raptor Lake Refresh и перспективы кремниевой фотоники TSMC](https://habr.com/ru/companies/dcmiran/news/759204/?utm_campaign=759204&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер», МТС, «Мегафон», «Яндекс», VK и другие раскритиковали идею дать спецслужбам доступ к перепискам и звонкам](https://habr.com/ru/news/759202/?utm_campaign=759202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
