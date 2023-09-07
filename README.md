@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российский веб-сервер Angie Pro получил совместимость с платформой «Вебмониторэкс»](https://habr.com/ru/news/759412/?utm_campaign=759412&utm_source=habrahabr&utm_medium=rss)
 - [В «Google Диске» можно будет блокировать файлы от изменений](https://habr.com/ru/news/759400/?utm_campaign=759400&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты «РТК-Солар» выпустили декриптор для шифровальщика HardBit 3.0](https://habr.com/ru/companies/solarsecurity/news/759320/?utm_campaign=759320&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры пересмотрит стандарты подготовки специалистов по кибербезопасности](https://habr.com/ru/news/759396/?utm_campaign=759396&utm_source=habrahabr&utm_medium=rss)
 - [MSI в новой версии BIOS для матплат исправила баг в Windows 11 с появлением BSOD с ошибкой «неподдерживаемый процессор»](https://habr.com/ru/news/759394/?utm_campaign=759394&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Windows 11 против удаления WordPad, так как «это приложение быстрее, чем MS Word»](https://habr.com/ru/news/759392/?utm_campaign=759392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
