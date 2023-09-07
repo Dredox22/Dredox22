@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МТС Банк» сообщил, что инфраструктура банка не подвергалась атакам, а данные пользователей вне опасности](https://habr.com/ru/news/759620/?utm_campaign=759620&utm_source=habrahabr&utm_medium=rss)
 - [OpenKylin 1.0 — мое первое погружение в китайскую альтернативу](https://habr.com/ru/news/759610/?utm_campaign=759610&utm_source=habrahabr&utm_medium=rss)
 - [Welcome, my son! Welcome to the machine learning](https://habr.com/ru/companies/selectel/news/759606/?utm_campaign=759606&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: в открытый доступ выложены 1 млн строк из базы данных клиентов «МТС Банка»](https://habr.com/ru/news/759602/?utm_campaign=759602&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud и ГК «УльтимаТек» провели исследование о применении облачных технологий в промышленности](https://habr.com/ru/news/759532/?utm_campaign=759532&utm_source=habrahabr&utm_medium=rss)
-- [Ozon запустил Statistics API для получения данных о продажах на маркетплейсе](https://habr.com/ru/news/759528/?utm_campaign=759528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
