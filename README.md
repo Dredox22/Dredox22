@@ -72,7 +72,7 @@
 - [OpenKylin 1.0 — мое первое погружение в китайскую альтернативу](https://habr.com/ru/news/759610/?utm_campaign=759610&utm_source=habrahabr&utm_medium=rss)
 - [Welcome, my son! Welcome to the machine learning](https://habr.com/ru/companies/selectel/news/759606/?utm_campaign=759606&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: в открытый доступ выложены 1 млн строк из базы данных клиентов «МТС Банка»](https://habr.com/ru/news/759602/?utm_campaign=759602&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Cloud и ГК «УльтимаТек» провели исследование о применении облачных технологий в промышленности](https://habr.com/ru/news/759532/?utm_campaign=759532&utm_source=habrahabr&utm_medium=rss)
+- [Примите участие в общественном обсуждении проекта о блокировке информации по обходу блокировок](https://habr.com/ru/companies/roskomsvoboda/news/759572/?utm_campaign=759572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
