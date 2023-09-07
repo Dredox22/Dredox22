@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили обновление UI-фреймворка Slint 1.2](https://habr.com/ru/news/759632/?utm_campaign=759632&utm_source=habrahabr&utm_medium=rss)
 - [«МТС Банк» сообщил, что инфраструктура банка не подвергалась атакам, а данные пользователей вне опасности](https://habr.com/ru/news/759620/?utm_campaign=759620&utm_source=habrahabr&utm_medium=rss)
 - [OpenKylin 1.0 — мое первое погружение в китайскую альтернативу](https://habr.com/ru/news/759610/?utm_campaign=759610&utm_source=habrahabr&utm_medium=rss)
 - [Welcome, my son! Welcome to the machine learning](https://habr.com/ru/companies/selectel/news/759606/?utm_campaign=759606&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: в открытый доступ выложены 1 млн строк из базы данных клиентов «МТС Банка»](https://habr.com/ru/news/759602/?utm_campaign=759602&utm_source=habrahabr&utm_medium=rss)
-- [Примите участие в общественном обсуждении проекта о блокировке информации по обходу блокировок](https://habr.com/ru/companies/roskomsvoboda/news/759572/?utm_campaign=759572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
