@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MSI в новой версии BIOS для матплат исправила баг в Windows 11 с появлением BSOD с ошибкой «неподдерживаемый процессор»](https://habr.com/ru/news/759394/?utm_campaign=759394&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Windows 11 против удаления WordPad, так как «это приложение быстрее, чем MS Word»](https://habr.com/ru/news/759392/?utm_campaign=759392&utm_source=habrahabr&utm_medium=rss)
 - [В РТУ МИРЭА предложили Минцифры создать в России школы киберразведки для профильных студентов](https://habr.com/ru/news/759336/?utm_campaign=759336&utm_source=habrahabr&utm_medium=rss)
 - [Rustore запустил монетизацию приложений в юанях для разработчиков из Китая](https://habr.com/ru/news/759282/?utm_campaign=759282&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь с помощью Flipper Zero смог заблокировать работу iPhone по Bluetooth](https://habr.com/ru/news/759254/?utm_campaign=759254&utm_source=habrahabr&utm_medium=rss)
-- [Apple объявила о запуске бета-версии App Store для очков смешанной реальности Vision Pro](https://habr.com/ru/news/759236/?utm_campaign=759236&utm_source=habrahabr&utm_medium=rss)
-- [Роспотребнадзор назвал риски продавцов смартфонов и гаджетов без предустановленного RuStore](https://habr.com/ru/news/759234/?utm_campaign=759234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
