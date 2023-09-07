@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenKylin 1.0 — мое первое погружение в китайскую альтернативу](https://habr.com/ru/news/759610/?utm_campaign=759610&utm_source=habrahabr&utm_medium=rss)
+- [Welcome, my son! Welcome to the machine learning](https://habr.com/ru/companies/selectel/news/759606/?utm_campaign=759606&utm_source=habrahabr&utm_medium=rss)
+- [DLBI: в открытый доступ выложены 1 млн строк из базы данных клиентов «МТС Банка»](https://habr.com/ru/news/759602/?utm_campaign=759602&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud и ГК «УльтимаТек» провели исследование о применении облачных технологий в промышленности](https://habr.com/ru/news/759532/?utm_campaign=759532&utm_source=habrahabr&utm_medium=rss)
 - [Ozon запустил Statistics API для получения данных о продажах на маркетплейсе](https://habr.com/ru/news/759528/?utm_campaign=759528&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление 1.7.0 для фреймворка, ускоряющего работу с инфраструктурой](https://habr.com/ru/companies/itsumma/news/759520/?utm_campaign=759520&utm_source=habrahabr&utm_medium=rss)
-- [В Совфеде попросили РКН проверить платформу RuStore на корректность доступа к заблокированным VPN-сервисам в РФ](https://habr.com/ru/news/759456/?utm_campaign=759456&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Unreal Engine 5.3](https://habr.com/ru/news/759440/?utm_campaign=759440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
