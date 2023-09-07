@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Unreal Engine 5.3](https://habr.com/ru/news/759440/?utm_campaign=759440&utm_source=habrahabr&utm_medium=rss)
+- [МТС открыла приём заявок на всероссийскую олимпиаду по программированию True Tech Champ с главным призом 3 млн рублей](https://habr.com/ru/news/759434/?utm_campaign=759434&utm_source=habrahabr&utm_medium=rss)
 - [Российский веб-сервер Angie Pro получил совместимость с платформой «Вебмониторэкс»](https://habr.com/ru/news/759412/?utm_campaign=759412&utm_source=habrahabr&utm_medium=rss)
 - [В «Google Диске» можно будет блокировать файлы от изменений](https://habr.com/ru/news/759400/?utm_campaign=759400&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты «РТК-Солар» выпустили декриптор для шифровальщика HardBit 3.0](https://habr.com/ru/companies/solarsecurity/news/759320/?utm_campaign=759320&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры пересмотрит стандарты подготовки специалистов по кибербезопасности](https://habr.com/ru/news/759396/?utm_campaign=759396&utm_source=habrahabr&utm_medium=rss)
-- [MSI в новой версии BIOS для матплат исправила баг в Windows 11 с появлением BSOD с ошибкой «неподдерживаемый процессор»](https://habr.com/ru/news/759394/?utm_campaign=759394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
