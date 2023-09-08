@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН в первом полугодии 2023 года заблокировал на 85% больше сайтов](https://habr.com/ru/news/759694/?utm_campaign=759694&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит обслуживать сторонние драйверы принтеров через Центр обновлений Windows](https://habr.com/ru/news/759684/?utm_campaign=759684&utm_source=habrahabr&utm_medium=rss)
+- [Митап команды QA ВКонтакте в Петербурге](https://habr.com/ru/companies/vk/news/759626/?utm_campaign=759626&utm_source=habrahabr&utm_medium=rss)
+- [«Сколтех»: российским операторам связи для полноценного строительства сетей не хватает около 50 тыс. базовых станций](https://habr.com/ru/news/759674/?utm_campaign=759674&utm_source=habrahabr&utm_medium=rss)
 - [Мнения экспертов по поводу публикации в открытом доступе данных клиентов разных банков, включая «МТС Банк»](https://habr.com/ru/news/759658/?utm_campaign=759658&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой версии Paint появился инструмент для удаления фона в один клик](https://habr.com/ru/news/759654/?utm_campaign=759654&utm_source=habrahabr&utm_medium=rss)
-- [Сервис «Оплата улыбкой» от «Сбера» перепутал близнецов](https://habr.com/ru/news/759646/?utm_campaign=759646&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили обновление UI-фреймворка Slint 1.2](https://habr.com/ru/news/759632/?utm_campaign=759632&utm_source=habrahabr&utm_medium=rss)
-- [«МТС Банк» сообщил, что инфраструктура банка не подвергалась атакам, а данные пользователей вне опасности](https://habr.com/ru/news/759620/?utm_campaign=759620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
