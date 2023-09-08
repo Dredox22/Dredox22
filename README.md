@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Конкурс красоты кода от Сбера](https://habr.com/ru/companies/sberbank/news/759496/?utm_campaign=759496&utm_source=habrahabr&utm_medium=rss)
+- [В приложении «Яндекс» с «Алисой» стала доступна опция для родителей «где находится ребёнок»](https://habr.com/ru/news/759748/?utm_campaign=759748&utm_source=habrahabr&utm_medium=rss)
+- [ПСБ внедрил российские технологии для распознавания QR-кодов и номеров телефонов](https://habr.com/ru/companies/smartengines/news/759738/?utm_campaign=759738&utm_source=habrahabr&utm_medium=rss)
 - [К2Тех перевел ERP-систему производителя строительных материалов на российское решение](https://habr.com/ru/companies/k2tech/news/759578/?utm_campaign=759578&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» запустил проект «Конкурс красоты кода» для программистов](https://habr.com/ru/news/759728/?utm_campaign=759728&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» планирует адаптировать продукты для арабских стран](https://habr.com/ru/news/759726/?utm_campaign=759726&utm_source=habrahabr&utm_medium=rss)
-- [В Великобритании против Google подали многомиллиардный иск от потребителей страны](https://habr.com/ru/news/759724/?utm_campaign=759724&utm_source=habrahabr&utm_medium=rss)
-- [Магазин RuStore до конца 2023 года адаптируют под ОС «Аврора»](https://habr.com/ru/news/759718/?utm_campaign=759718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
