@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DLBI: анализ 3 млн строк из недавней утечки базы данных клиентов банков показал, что там только BIN-коды «МТС Банка»](https://habr.com/ru/news/759824/?utm_campaign=759824&utm_source=habrahabr&utm_medium=rss)
 - [В iPadOS 17 появилась поддержка UVC, что позволяет подключать к устройству внешние камеры и карты захвата](https://habr.com/ru/news/759794/?utm_campaign=759794&utm_source=habrahabr&utm_medium=rss)
 - [Преступники использовали Raspberry Pi при ограблениях банкоматов в Техасе](https://habr.com/ru/news/759790/?utm_campaign=759790&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор проверит информацию о возможной утечке данных клиентов «МТС Банка»](https://habr.com/ru/news/759770/?utm_campaign=759770&utm_source=habrahabr&utm_medium=rss)
 - [Северокорейские хакеры атакуют специалистов по ИБ](https://habr.com/ru/companies/itsumma/news/759768/?utm_campaign=759768&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» предложил применять оборотные штрафы в отношении оператора персональных данных лишь в «исключительных случаях»](https://habr.com/ru/news/759766/?utm_campaign=759766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
