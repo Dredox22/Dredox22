@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [К2Тех перевел ERP-систему производителя строительных материалов на российское решение](https://habr.com/ru/companies/k2tech/news/759578/?utm_campaign=759578&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» запустил проект «Конкурс красоты кода» для программистов](https://habr.com/ru/news/759728/?utm_campaign=759728&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» планирует адаптировать продукты для арабских стран](https://habr.com/ru/news/759726/?utm_campaign=759726&utm_source=habrahabr&utm_medium=rss)
+- [В Великобритании против Google подали многомиллиардный иск от потребителей страны](https://habr.com/ru/news/759724/?utm_campaign=759724&utm_source=habrahabr&utm_medium=rss)
 - [Магазин RuStore до конца 2023 года адаптируют под ОС «Аврора»](https://habr.com/ru/news/759718/?utm_campaign=759718&utm_source=habrahabr&utm_medium=rss)
-- [РКН в первом полугодии 2023 года заблокировал на 85% больше сайтов](https://habr.com/ru/news/759694/?utm_campaign=759694&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит обслуживать сторонние драйверы принтеров через Центр обновлений Windows](https://habr.com/ru/news/759684/?utm_campaign=759684&utm_source=habrahabr&utm_medium=rss)
-- [Митап команды QA ВКонтакте в Петербурге](https://habr.com/ru/companies/vk/news/759626/?utm_campaign=759626&utm_source=habrahabr&utm_medium=rss)
-- [«Сколтех»: российским операторам связи для полноценного строительства сетей не хватает около 50 тыс. базовых станций](https://habr.com/ru/news/759674/?utm_campaign=759674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
