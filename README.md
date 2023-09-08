@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В iPadOS 17 появилась поддержка UVC, что позволяет подключать к устройству внешние камеры и карты захвата](https://habr.com/ru/news/759794/?utm_campaign=759794&utm_source=habrahabr&utm_medium=rss)
+- [Преступники использовали Raspberry Pi при ограблениях банкоматов в Техасе](https://habr.com/ru/news/759790/?utm_campaign=759790&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор проверит информацию о возможной утечке данных клиентов «МТС Банка»](https://habr.com/ru/news/759770/?utm_campaign=759770&utm_source=habrahabr&utm_medium=rss)
 - [Северокорейские хакеры атакуют специалистов по ИБ](https://habr.com/ru/companies/itsumma/news/759768/?utm_campaign=759768&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» предложил применять оборотные штрафы в отношении оператора персональных данных лишь в «исключительных случаях»](https://habr.com/ru/news/759766/?utm_campaign=759766&utm_source=habrahabr&utm_medium=rss)
-- [Конкурс красоты кода от Сбера](https://habr.com/ru/companies/sberbank/news/759496/?utm_campaign=759496&utm_source=habrahabr&utm_medium=rss)
-- [В приложении «Яндекс» с «Алисой» стала доступна опция для родителей «где находится ребёнок»](https://habr.com/ru/news/759748/?utm_campaign=759748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
