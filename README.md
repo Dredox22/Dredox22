@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Notepad++ v8.5.7 с патчами против четырёх уязвимостей, одна из которых позволяет удалённо запускать сторонний код](https://habr.com/ru/news/759904/?utm_campaign=759904&utm_source=habrahabr&utm_medium=rss)
 - [Ушёл из жизни разработчик и создатель Presenter &lpar;PowerPoint&rpar; Деннис Остин](https://habr.com/ru/news/759892/?utm_campaign=759892&utm_source=habrahabr&utm_medium=rss)
 - [Bethesda: видеокарта Intel Arc A770 не соответствует минимальным требованиям для запуска Starfield](https://habr.com/ru/news/759880/?utm_campaign=759880&utm_source=habrahabr&utm_medium=rss)
 - [Российский суд признал эмодзи равносильным подписи в документе](https://habr.com/ru/news/759854/?utm_campaign=759854&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: анализ 3 млн строк из недавней утечки базы данных клиентов банков показал, что там только BIN-коды «МТС Банка»](https://habr.com/ru/news/759824/?utm_campaign=759824&utm_source=habrahabr&utm_medium=rss)
-- [В iPadOS 17 появилась поддержка UVC, что позволяет подключать к устройству внешние камеры и карты захвата](https://habr.com/ru/news/759794/?utm_campaign=759794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
