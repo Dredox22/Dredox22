@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиасты выложили в открытый доступ инсталлятор тестовой версии Paint с инструментом для удаления фона в один клик](https://habr.com/ru/news/760010/?utm_campaign=760010&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Bun 1.0 — среды выполнения JavaScript и TypeScript](https://habr.com/ru/news/760006/?utm_campaign=760006&utm_source=habrahabr&utm_medium=rss)
 - [В Китае запретили госслужащим использовать iPhone в рабочих целях](https://habr.com/ru/news/759986/?utm_campaign=759986&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф Образование» запускает онлайн‑курсы по математике для школьников 4–6 классов](https://habr.com/ru/news/759972/?utm_campaign=759972&utm_source=habrahabr&utm_medium=rss)
 - [Angara Security рассказала о программе стажировок Angara‑Start для студентов и выпускников](https://habr.com/ru/news/759926/?utm_campaign=759926&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пообещала взять на себя судебные издержки корпоративных пользователей ИИ-сервисов](https://habr.com/ru/news/759924/?utm_campaign=759924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
