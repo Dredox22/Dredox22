@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты нашли внутри смартфона Huawei Mate 60 Pro санкционные чипы памяти SK Hynix](https://habr.com/ru/news/760296/?utm_campaign=760296&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила поддержку первого поколения смартфона Surface Duo](https://habr.com/ru/news/760282/?utm_campaign=760282&utm_source=habrahabr&utm_medium=rss)
 - [Мысли как хакер: раскрываем фишки ИБ на CyberCamp 2023](https://habr.com/ru/companies/jetinfosystems/news/760264/?utm_campaign=760264&utm_source=habrahabr&utm_medium=rss)
 - [Конференция SmartDev 2023](https://habr.com/ru/companies/sberbank/news/760248/?utm_campaign=760248&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» опроверг информацию об утечке данных из своей клиентской базы](https://habr.com/ru/news/760250/?utm_campaign=760250&utm_source=habrahabr&utm_medium=rss)
-- [На ВЭФ представят платформу для запуска Android-приложениий на ОС «Аврора»](https://habr.com/ru/news/760206/?utm_campaign=760206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
