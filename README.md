@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Конференция SmartDev 2023](https://habr.com/ru/companies/sberbank/news/760248/?utm_campaign=760248&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» опроверг информацию об утечке данных из своей клиентской базы](https://habr.com/ru/news/760250/?utm_campaign=760250&utm_source=habrahabr&utm_medium=rss)
 - [На ВЭФ представят платформу для запуска Android-приложениий на ОС «Аврора»](https://habr.com/ru/news/760206/?utm_campaign=760206&utm_source=habrahabr&utm_medium=rss)
 - [Intel выпустила третью бета-версию видеодрайвера Arc &amp;amp; Iris Graphics для запуска игры Starfield на видеокартах Arc](https://habr.com/ru/news/760182/?utm_campaign=760182&utm_source=habrahabr&utm_medium=rss)
 - [На «Сбер» во втором квартале 2023 года совершили 32 DDoS-атаки](https://habr.com/ru/news/760144/?utm_campaign=760144&utm_source=habrahabr&utm_medium=rss)
-- [Meta* выпустит аналог GPT-4](https://habr.com/ru/news/760138/?utm_campaign=760138&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Браузере» для организаций появился набор настраиваемых политик](https://habr.com/ru/news/760128/?utm_campaign=760128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
