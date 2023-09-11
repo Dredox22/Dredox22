@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На «Сбер» во втором квартале 2023 года совершили 32 DDoS-атаки](https://habr.com/ru/news/760144/?utm_campaign=760144&utm_source=habrahabr&utm_medium=rss)
+- [Meta* выпустит аналог GPT-4](https://habr.com/ru/news/760138/?utm_campaign=760138&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Браузере» для организаций появился набор настраиваемых политик](https://habr.com/ru/news/760128/?utm_campaign=760128&utm_source=habrahabr&utm_medium=rss)
 - [Chrome получил новый дизайн в честь своего 15-летия](https://habr.com/ru/news/760078/?utm_campaign=760078&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты выложили в открытый доступ инсталлятор тестовой версии Paint с инструментом для удаления фона в один клик](https://habr.com/ru/news/760010/?utm_campaign=760010&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Bun 1.0 — среды выполнения JavaScript и TypeScript](https://habr.com/ru/news/760006/?utm_campaign=760006&utm_source=habrahabr&utm_medium=rss)
-- [В Китае запретили госслужащим использовать iPhone в рабочих целях](https://habr.com/ru/news/759986/?utm_campaign=759986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
