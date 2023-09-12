@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft заменила видеоредактор Windows 10 на веб-интерфейс Clipchamp](https://habr.com/ru/news/760410/?utm_campaign=760410&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики открыли доступ к инструментарию Mojo SDK](https://habr.com/ru/news/760394/?utm_campaign=760394&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик VKD3D рассказал, что ошибки в коде Starfield замедляют игру и приводят к экстренному закрытию приложения](https://habr.com/ru/news/760370/?utm_campaign=760370&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/760326/?utm_campaign=760326&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты нашли внутри смартфона Huawei Mate 60 Pro санкционные чипы памяти SK Hynix](https://habr.com/ru/news/760296/?utm_campaign=760296&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила поддержку первого поколения смартфона Surface Duo](https://habr.com/ru/news/760282/?utm_campaign=760282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
