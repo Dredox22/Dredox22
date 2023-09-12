@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Миграция SAP в облако — вебинар Сloud.ru](https://habr.com/ru/companies/cloud_ru/news/760528/?utm_campaign=760528&utm_source=habrahabr&utm_medium=rss)
 - [MGM отключила игровые автоматы и банкоматы в казино Лас-Вегаса из-за кибератаки](https://habr.com/ru/news/760560/?utm_campaign=760560&utm_source=habrahabr&utm_medium=rss)
 - [Чем заменить Microsoft Active Directory?](https://habr.com/ru/companies/k2tech/news/760544/?utm_campaign=760544&utm_source=habrahabr&utm_medium=rss)
 - [Облако, ChatGPT, Kubernetes, ML… Заполняем бинго самых актуальных тем из мира IT-инфраструктуры на Selectel TechDay 2023](https://habr.com/ru/companies/selectel/news/760538/?utm_campaign=760538&utm_source=habrahabr&utm_medium=rss)
 - [Одежду, созданную искусственным интеллектом, показали на Неделе моды в Нью-Йорке](https://habr.com/ru/news/760540/?utm_campaign=760540&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Единое рабочее пространство в облаке»](https://habr.com/ru/companies/cloud_mts/news/760478/?utm_campaign=760478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
