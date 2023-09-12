@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «Единое рабочее пространство в облаке»](https://habr.com/ru/companies/cloud_mts/news/760478/?utm_campaign=760478&utm_source=habrahabr&utm_medium=rss)
+- [Почему важно знать состав зарядного устройства?](https://habr.com/ru/news/760502/?utm_campaign=760502&utm_source=habrahabr&utm_medium=rss)
 - [YandexGPT поможет «Лавке» заполнять карточки товаров по фото этикеток](https://habr.com/ru/news/760486/?utm_campaign=760486&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» обнаружила вредоносную кампанию с использованием ПО Free Download Manager для ОС Linux](https://habr.com/ru/news/760466/?utm_campaign=760466&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заменила видеоредактор Windows 10 на веб-интерфейс Clipchamp](https://habr.com/ru/news/760410/?utm_campaign=760410&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики открыли доступ к инструментарию Mojo SDK](https://habr.com/ru/news/760394/?utm_campaign=760394&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик VKD3D рассказал, что ошибки в коде Starfield замедляют игру и приводят к экстренному закрытию приложения](https://habr.com/ru/news/760370/?utm_campaign=760370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
