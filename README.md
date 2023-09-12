@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Облако, ChatGPT, Kubernetes, ML… Заполняем бинго самых актуальных тем из мира IT-инфраструктуры на Selectel TechDay 2023](https://habr.com/ru/companies/selectel/news/760538/?utm_campaign=760538&utm_source=habrahabr&utm_medium=rss)
+- [Одежду, созданную искусственным интеллектом, показали на Неделе моды в Нью-Йорке](https://habr.com/ru/news/760540/?utm_campaign=760540&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Единое рабочее пространство в облаке»](https://habr.com/ru/companies/cloud_mts/news/760478/?utm_campaign=760478&utm_source=habrahabr&utm_medium=rss)
 - [Почему важно знать состав зарядного устройства?](https://habr.com/ru/news/760502/?utm_campaign=760502&utm_source=habrahabr&utm_medium=rss)
 - [YandexGPT поможет «Лавке» заполнять карточки товаров по фото этикеток](https://habr.com/ru/news/760486/?utm_campaign=760486&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» обнаружила вредоносную кампанию с использованием ПО Free Download Manager для ОС Linux](https://habr.com/ru/news/760466/?utm_campaign=760466&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заменила видеоредактор Windows 10 на веб-интерфейс Clipchamp](https://habr.com/ru/news/760410/?utm_campaign=760410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
