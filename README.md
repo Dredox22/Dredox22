@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Произошел почти часовой сбой в работе Starlink](https://habr.com/ru/news/760640/?utm_campaign=760640&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies на ВЭФ представила исследование кибератак Азиатского региона в 2022–2023 годах](https://habr.com/ru/news/760612/?utm_campaign=760612&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик провёл простой HTTP-тест «Go против Rust против Bun против Node», чтобы оценить производительность Bun 1.0](https://habr.com/ru/news/760584/?utm_campaign=760584&utm_source=habrahabr&utm_medium=rss)
 - [Миграция SAP в облако — вебинар Сloud.ru](https://habr.com/ru/companies/cloud_ru/news/760528/?utm_campaign=760528&utm_source=habrahabr&utm_medium=rss)
 - [MGM отключила игровые автоматы и банкоматы в казино Лас-Вегаса из-за кибератаки](https://habr.com/ru/news/760560/?utm_campaign=760560&utm_source=habrahabr&utm_medium=rss)
-- [Чем заменить Microsoft Active Directory?](https://habr.com/ru/companies/k2tech/news/760544/?utm_campaign=760544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
