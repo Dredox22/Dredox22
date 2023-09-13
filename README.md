@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия системы PT Application Inspector](https://habr.com/ru/news/760808/?utm_campaign=760808&utm_source=habrahabr&utm_medium=rss)
+- [В BI.ZONE EDR появился модуль Deception для обнаружения атакующего IT-инфраструктуру на стадии разведки](https://habr.com/ru/news/760802/?utm_campaign=760802&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud представил отчёт о проделанной работе по ИБ на платформе за первое полугодие 2023 года](https://habr.com/ru/news/760792/?utm_campaign=760792&utm_source=habrahabr&utm_medium=rss)
 - [VK запустит закрытое бета-тестирование игрового движка Nau Engine в конце 2023 года](https://habr.com/ru/news/760788/?utm_campaign=760788&utm_source=habrahabr&utm_medium=rss)
 - [Unity ответила разработчикам на критику комиссии Unity Runtime Fee, часть студий планирует переход на другие движки](https://habr.com/ru/news/760764/?utm_campaign=760764&utm_source=habrahabr&utm_medium=rss)
-- [Конвертер QVD-файлов, разработанный командой Qlever Solutions, был включен в реестр Российского ПО](https://habr.com/ru/news/760762/?utm_campaign=760762&utm_source=habrahabr&utm_medium=rss)
-- [Рынок биллинговых систем в России увеличится в три раза к 2030 году](https://habr.com/ru/news/760736/?utm_campaign=760736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
