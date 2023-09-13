@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РФ появилась Русская ассоциация дистрибьютеров и импортёров видеоигр &lpar;«Р.А.Д.И. Видеоигр»&rpar;](https://habr.com/ru/news/760860/?utm_campaign=760860&utm_source=habrahabr&utm_medium=rss)
+- [Вышло экстренное обновление Chrome для закрытия уязвимости через WebP](https://habr.com/ru/companies/itsumma/news/760840/?utm_campaign=760840&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия системы PT Application Inspector](https://habr.com/ru/news/760808/?utm_campaign=760808&utm_source=habrahabr&utm_medium=rss)
 - [В BI.ZONE EDR появился модуль Deception для обнаружения атакующего IT-инфраструктуру на стадии разведки](https://habr.com/ru/news/760802/?utm_campaign=760802&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud представил отчёт о проделанной работе по ИБ на платформе за первое полугодие 2023 года](https://habr.com/ru/news/760792/?utm_campaign=760792&utm_source=habrahabr&utm_medium=rss)
-- [VK запустит закрытое бета-тестирование игрового движка Nau Engine в конце 2023 года](https://habr.com/ru/news/760788/?utm_campaign=760788&utm_source=habrahabr&utm_medium=rss)
-- [Unity ответила разработчикам на критику комиссии Unity Runtime Fee, часть студий планирует переход на другие движки](https://habr.com/ru/news/760764/?utm_campaign=760764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
