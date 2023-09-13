@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Рынок биллинговых систем в России увеличится в три раза к 2030 году](https://habr.com/ru/news/760736/?utm_campaign=760736&utm_source=habrahabr&utm_medium=rss)
 - [После установки патча Cyberpunk 2077 2.0 игра может утилизировать до 90% мощностей центрального процессора](https://habr.com/ru/news/760714/?utm_campaign=760714&utm_source=habrahabr&utm_medium=rss)
 - [Rust Meetup в Санкт-Петербурге](https://habr.com/ru/companies/kryptonite/news/760692/?utm_campaign=760692&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» открыл представительство в Киргизии](https://habr.com/ru/news/760696/?utm_campaign=760696&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Фотографии» из Windows 11 появилось в Windows 10](https://habr.com/ru/news/760664/?utm_campaign=760664&utm_source=habrahabr&utm_medium=rss)
-- [Компания Loongson объявила о завершении разработки чипа управления принтером 2P0500](https://habr.com/ru/news/760668/?utm_campaign=760668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
