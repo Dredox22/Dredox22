@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение «Фотографии» из Windows 11 появилось в Windows 10](https://habr.com/ru/news/760664/?utm_campaign=760664&utm_source=habrahabr&utm_medium=rss)
+- [Компания Loongson объявила о завершении разработки чипа управления принтером 2P0500](https://habr.com/ru/news/760668/?utm_campaign=760668&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» и «Навигаторе» вышло обновление для профессиональных водителей](https://habr.com/ru/news/760628/?utm_campaign=760628&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Godot рассказали о работе над поддержкой AR и VR в одноимённом движке](https://habr.com/ru/news/760650/?utm_campaign=760650&utm_source=habrahabr&utm_medium=rss)
 - [Unity вводит с начала 2024 года комиссию Unity Runtime Fee для разработчиков популярных игр](https://habr.com/ru/news/760648/?utm_campaign=760648&utm_source=habrahabr&utm_medium=rss)
-- [Произошел почти часовой сбой в работе Starlink](https://habr.com/ru/news/760640/?utm_campaign=760640&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies на ВЭФ представила исследование кибератак Азиатского региона в 2022–2023 годах](https://habr.com/ru/news/760612/?utm_campaign=760612&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик провёл простой HTTP-тест «Go против Rust против Bun против Node», чтобы оценить производительность Bun 1.0](https://habr.com/ru/news/760584/?utm_campaign=760584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
