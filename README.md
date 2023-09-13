@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование Salesforce: большинство пользователей общается с ChatGPT для развлечения](https://habr.com/ru/news/760864/?utm_campaign=760864&utm_source=habrahabr&utm_medium=rss)
 - [В РФ появилась Русская ассоциация дистрибьютеров и импортёров видеоигр &lpar;«Р.А.Д.И. Видеоигр»&rpar;](https://habr.com/ru/news/760860/?utm_campaign=760860&utm_source=habrahabr&utm_medium=rss)
 - [Вышло экстренное обновление Chrome для закрытия уязвимости через WebP](https://habr.com/ru/companies/itsumma/news/760840/?utm_campaign=760840&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия системы PT Application Inspector](https://habr.com/ru/news/760808/?utm_campaign=760808&utm_source=habrahabr&utm_medium=rss)
 - [В BI.ZONE EDR появился модуль Deception для обнаружения атакующего IT-инфраструктуру на стадии разведки](https://habr.com/ru/news/760802/?utm_campaign=760802&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Cloud представил отчёт о проделанной работе по ИБ на платформе за первое полугодие 2023 года](https://habr.com/ru/news/760792/?utm_campaign=760792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
