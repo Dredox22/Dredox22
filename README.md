@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» рассказали о киберугрозах в промышленности за 6 месяцев 2023 года](https://habr.com/ru/news/760908/?utm_campaign=760908&utm_source=habrahabr&utm_medium=rss)
+- [В WhatsApp появились каналы, из-за этого мессенджеру грозит блокировка в РФ](https://habr.com/ru/news/760906/?utm_campaign=760906&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains выпустила новую IDE для Rust-разработчиков](https://habr.com/ru/news/760904/?utm_campaign=760904&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор предупредил операторов связи об ответственности за неподключение к системе «Антифрод» до февраля 2024 года](https://habr.com/ru/news/760876/?utm_campaign=760876&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Salesforce: большинство пользователей общается с ChatGPT для развлечения](https://habr.com/ru/news/760864/?utm_campaign=760864&utm_source=habrahabr&utm_medium=rss)
-- [В РФ появилась Русская ассоциация дистрибьютеров и импортёров видеоигр &lpar;«Р.А.Д.И. Видеоигр»&rpar;](https://habr.com/ru/news/760860/?utm_campaign=760860&utm_source=habrahabr&utm_medium=rss)
-- [Вышло экстренное обновление Chrome для закрытия уязвимости через WebP](https://habr.com/ru/companies/itsumma/news/760840/?utm_campaign=760840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
