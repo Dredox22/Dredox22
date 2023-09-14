@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe открыла доступ к ИИ Firefly для всех пользователей Photoshop, Illustrator, Express и Creative Cloud](https://habr.com/ru/news/760980/?utm_campaign=760980&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome в режиме инкогнито начал скрывать медиаданные в Windows 11, macOS и Android](https://habr.com/ru/news/760956/?utm_campaign=760956&utm_source=habrahabr&utm_medium=rss)
 - [Швейцарский стартап представил двухколёсного робота-охранника](https://habr.com/ru/news/760952/?utm_campaign=760952&utm_source=habrahabr&utm_medium=rss)
 - [Представлен язык программирования Birb, элементами которого являются только эмоджи разных птиц](https://habr.com/ru/news/760950/?utm_campaign=760950&utm_source=habrahabr&utm_medium=rss)
 - [Nekki: комиссия Unity Runtime Fee может увеличить расходы крупных студий в 50 раз](https://habr.com/ru/news/760938/?utm_campaign=760938&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» рассказали о киберугрозах в промышленности за 6 месяцев 2023 года](https://habr.com/ru/news/760908/?utm_campaign=760908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
