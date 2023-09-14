@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 15 Pro в бенчмарках оказался всего на 13% быстрее, чем iPhone 14 Pro](https://habr.com/ru/news/761122/?utm_campaign=761122&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обновил платёжное приложение «Пэй»](https://habr.com/ru/news/761090/?utm_campaign=761090&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX больше не несёт убытков при производстве спутниковых антенн Starlink, но сервис испытывает нехватку клиентов](https://habr.com/ru/news/761042/?utm_campaign=761042&utm_source=habrahabr&utm_medium=rss)
 - [В HeyGen Labs появилась ИИ-функция для дубляжа видео с сохранением голоса диктора](https://habr.com/ru/news/761032/?utm_campaign=761032&utm_source=habrahabr&utm_medium=rss)
 - [В Совете Федерации не исключают блокировку WhatsApp после запуска каналов, альтернатива — «Яндекс Мессенджер» и Telegram](https://habr.com/ru/news/761018/?utm_campaign=761018&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл доступ к тестированию быстрых ответов YandexGPT в «Поиске»](https://habr.com/ru/news/761006/?utm_campaign=761006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
