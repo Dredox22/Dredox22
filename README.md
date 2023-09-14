@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Павел Дуров: осенью у всех пользователей Telegram появится кошелёк TON, блокчейн будет глубже интегрирован в приложение](https://habr.com/ru/news/761160/?utm_campaign=761160&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: мессенджер WhatsApp будет заблокирован в РФ, если проект будет распространять запрещённую информацию](https://habr.com/ru/news/761152/?utm_campaign=761152&utm_source=habrahabr&utm_medium=rss)
+- [ВТБ открыл регистрацию на участие в онлайн-хакатоне MORE.Tech 5.0 с призовым фондом более 1 млн рублей](https://habr.com/ru/companies/vtb/news/761150/?utm_campaign=761150&utm_source=habrahabr&utm_medium=rss)
+- [Минфин США ввёл санкции против «Солар Секьюрити», «Крафтвей», «АйТи Центр», 3Logic Group и других IT-компаний РФ](https://habr.com/ru/news/761146/?utm_campaign=761146&utm_source=habrahabr&utm_medium=rss)
 - [iPhone 15 Pro в бенчмарках оказался всего на 13% быстрее, чем iPhone 14 Pro](https://habr.com/ru/news/761122/?utm_campaign=761122&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» обновил платёжное приложение «Пэй»](https://habr.com/ru/news/761090/?utm_campaign=761090&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX больше не несёт убытков при производстве спутниковых антенн Starlink, но сервис испытывает нехватку клиентов](https://habr.com/ru/news/761042/?utm_campaign=761042&utm_source=habrahabr&utm_medium=rss)
-- [В HeyGen Labs появилась ИИ-функция для дубляжа видео с сохранением голоса диктора](https://habr.com/ru/news/761032/?utm_campaign=761032&utm_source=habrahabr&utm_medium=rss)
-- [В Совете Федерации не исключают блокировку WhatsApp после запуска каналов, альтернатива — «Яндекс Мессенджер» и Telegram](https://habr.com/ru/news/761018/?utm_campaign=761018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
