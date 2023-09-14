@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Совете Федерации не исключают блокировку WhatsApp после запуска каналов, альтернатива — «Яндекс Мессенджер» и Telegram](https://habr.com/ru/news/761018/?utm_campaign=761018&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл доступ к тестированию быстрых ответов YandexGPT в «Поиске»](https://habr.com/ru/news/761006/?utm_campaign=761006&utm_source=habrahabr&utm_medium=rss)
+- [Сбербанк, МТС, «Вымпелком», «Мегафон», «Яндекс» и Avito выступили против сбора персональных данных в одной госсистеме](https://habr.com/ru/news/760996/?utm_campaign=760996&utm_source=habrahabr&utm_medium=rss)
 - [Adobe открыла доступ к ИИ Firefly для всех пользователей Photoshop, Illustrator, Express и Creative Cloud](https://habr.com/ru/news/760980/?utm_campaign=760980&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome в режиме инкогнито начал скрывать медиаданные в Windows 11, macOS и Android](https://habr.com/ru/news/760956/?utm_campaign=760956&utm_source=habrahabr&utm_medium=rss)
-- [Швейцарский стартап представил двухколёсного робота-охранника](https://habr.com/ru/news/760952/?utm_campaign=760952&utm_source=habrahabr&utm_medium=rss)
-- [Представлен язык программирования Birb, элементами которого являются только эмоджи разных птиц](https://habr.com/ru/news/760950/?utm_campaign=760950&utm_source=habrahabr&utm_medium=rss)
-- [Nekki: комиссия Unity Runtime Fee может увеличить расходы крупных студий в 50 раз](https://habr.com/ru/news/760938/?utm_campaign=760938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
