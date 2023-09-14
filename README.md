@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome в режиме инкогнито начал скрывать медиаданные в Windows 11, macOS и Android](https://habr.com/ru/news/760956/?utm_campaign=760956&utm_source=habrahabr&utm_medium=rss)
+- [Швейцарский стартап представил двухколёсного робота-охранника](https://habr.com/ru/news/760952/?utm_campaign=760952&utm_source=habrahabr&utm_medium=rss)
+- [Представлен язык программирования Birb, элементами которого являются только эмоджи разных птиц](https://habr.com/ru/news/760950/?utm_campaign=760950&utm_source=habrahabr&utm_medium=rss)
 - [Nekki: комиссия Unity Runtime Fee может увеличить расходы крупных студий в 50 раз](https://habr.com/ru/news/760938/?utm_campaign=760938&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» рассказали о киберугрозах в промышленности за 6 месяцев 2023 года](https://habr.com/ru/news/760908/?utm_campaign=760908&utm_source=habrahabr&utm_medium=rss)
-- [В WhatsApp появились каналы, из-за этого мессенджеру грозит блокировка в РФ](https://habr.com/ru/news/760906/?utm_campaign=760906&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains выпустила новую IDE для Rust-разработчиков](https://habr.com/ru/news/760904/?utm_campaign=760904&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор предупредил операторов связи об ответственности за неподключение к системе «Антифрод» до февраля 2024 года](https://habr.com/ru/news/760876/?utm_campaign=760876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
