@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава WhatsApp опроверг сообщения о появлении сторонней встроенной рекламы в приложении мессенджера](https://habr.com/ru/news/761286/?utm_campaign=761286&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор будет вести реестр провайдеров хостинга в РФ](https://habr.com/ru/news/761284/?utm_campaign=761284&utm_source=habrahabr&utm_medium=rss)
+- [NTDEV выпустила tiny11 23H2 c игровыми улучшениями и поддержкой поставщика удостоверений Xbox](https://habr.com/ru/news/761282/?utm_campaign=761282&utm_source=habrahabr&utm_medium=rss)
 - [Вышла СУБД PostgreSQL 16](https://habr.com/ru/news/761250/?utm_campaign=761250&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Браузер» добавил генерацию субтитров в любых видео на русском языке](https://habr.com/ru/news/761246/?utm_campaign=761246&utm_source=habrahabr&utm_medium=rss)
-- [Asus объединилась с Thermaltake и Silverstone для создания компонентов видеокарт без кабелей питания](https://habr.com/ru/news/761240/?utm_campaign=761240&utm_source=habrahabr&utm_medium=rss)
-- [Компания Arm успешно дебютировала на Nasdaq](https://habr.com/ru/companies/itsumma/news/761214/?utm_campaign=761214&utm_source=habrahabr&utm_medium=rss)
-- [«Ножницы» в Windows 11 получили поддержку OCR для копирования текста с изображений](https://habr.com/ru/news/761210/?utm_campaign=761210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
