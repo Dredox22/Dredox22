@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Arm успешно дебютировала на Nasdaq](https://habr.com/ru/companies/itsumma/news/761214/?utm_campaign=761214&utm_source=habrahabr&utm_medium=rss)
+- [«Ножницы» в Windows 11 получили поддержку OCR для копирования текста с изображений](https://habr.com/ru/news/761210/?utm_campaign=761210&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft опубликовала исходный код модели генерации белков EvoDiff](https://habr.com/ru/news/761208/?utm_campaign=761208&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на открытую запись подкаста про криптографию](https://habr.com/ru/companies/kryptonite/news/760994/?utm_campaign=760994&utm_source=habrahabr&utm_medium=rss)
 - [Unity закрыла возможность отслеживать на GitHub изменения в лицензии и убрала из TOS пункт, удобный разработчикам](https://habr.com/ru/news/761194/?utm_campaign=761194&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила дизайн лаунчера PowerToys Run с учётом особенностей Fluent UI](https://habr.com/ru/news/761172/?utm_campaign=761172&utm_source=habrahabr&utm_medium=rss)
-- [Утилита Telegram get remote IP в некоторых случаях позволяет определить IP-адрес собеседника из контактов в Telegram](https://habr.com/ru/news/761164/?utm_campaign=761164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
