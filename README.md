@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity закрыла возможность отслеживать на GitHub изменения в лицензии и убрала из TOS пункт, удобный разработчикам](https://habr.com/ru/news/761194/?utm_campaign=761194&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила дизайн лаунчера PowerToys Run с учётом особенностей Fluent UI](https://habr.com/ru/news/761172/?utm_campaign=761172&utm_source=habrahabr&utm_medium=rss)
 - [Утилита Telegram get remote IP в некоторых случаях позволяет определить IP-адрес собеседника из контактов в Telegram](https://habr.com/ru/news/761164/?utm_campaign=761164&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров: осенью у всех пользователей Telegram появится кошелёк TON, блокчейн будет глубже интегрирован в приложение](https://habr.com/ru/news/761160/?utm_campaign=761160&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: мессенджер WhatsApp будет заблокирован в РФ, если проект будет распространять запрещённую информацию](https://habr.com/ru/news/761152/?utm_campaign=761152&utm_source=habrahabr&utm_medium=rss)
-- [ВТБ открыл регистрацию на участие в онлайн-хакатоне MORE.Tech 5.0 с призовым фондом более 1 млн рублей](https://habr.com/ru/companies/vtb/news/761150/?utm_campaign=761150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
