@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft незаметно добавила в Windows 11 сочетание клавиш для открытия LinkedIn в любом браузере по умолчанию](https://habr.com/ru/news/761436/?utm_campaign=761436&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: как компании поменять SAP на 1С и не сломать бизнес-процессы](https://habr.com/ru/companies/rshb/news/761378/?utm_campaign=761378&utm_source=habrahabr&utm_medium=rss)
 - [R-Style Softlab модернизировала мобильное приложение и интернет-банк Россельхозбанка](https://habr.com/ru/companies/rshb/news/761372/?utm_campaign=761372&utm_source=habrahabr&utm_medium=rss)
 - [Бета-тестирование: плагин PVS-Studio для VS Code проверяет проекты на .NET](https://habr.com/ru/companies/pvs-studio/news/761368/?utm_campaign=761368&utm_source=habrahabr&utm_medium=rss)
 - [Больше трети российских компаний надеются на лучшее](https://habr.com/ru/companies/croc/news/761364/?utm_campaign=761364&utm_source=habrahabr&utm_medium=rss)
-- [Глава WhatsApp опроверг сообщения о появлении сторонней встроенной рекламы в приложении мессенджера](https://habr.com/ru/news/761286/?utm_campaign=761286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
