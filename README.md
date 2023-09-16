@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: у мессенджера WhatsApp «все будет хорошо»](https://habr.com/ru/news/761496/?utm_campaign=761496&utm_source=habrahabr&utm_medium=rss)
+- [Unity предложила студиям решение по освобождению от новой комиссии, но разработчики решили бойкотировать компанию](https://habr.com/ru/news/761494/?utm_campaign=761494&utm_source=habrahabr&utm_medium=rss)
 - [На сервисе Itch.io проводится прием заявок на участие геймджеме посвященого написанию игр под DOS в формате COM файла](https://habr.com/ru/news/761492/?utm_campaign=761492&utm_source=habrahabr&utm_medium=rss)
 - [16 сентября в МВЦ «Крокус Экспо» начался первый отборочный тур «Битвы роботов», идёт онлайн-трансляция события](https://habr.com/ru/news/761448/?utm_campaign=761448&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft незаметно добавила в Windows 11 сочетание клавиш для открытия LinkedIn в любом браузере по умолчанию](https://habr.com/ru/news/761436/?utm_campaign=761436&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: как компании поменять SAP на 1С и не сломать бизнес-процессы](https://habr.com/ru/companies/rshb/news/761378/?utm_campaign=761378&utm_source=habrahabr&utm_medium=rss)
-- [R-Style Softlab модернизировала мобильное приложение и интернет-банк Россельхозбанка](https://habr.com/ru/companies/rshb/news/761372/?utm_campaign=761372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
