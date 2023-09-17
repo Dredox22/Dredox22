@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Солар» &lpar;ранее «РТК-Солар»&rpar; презентовала центр исследования киберугроз Solar 4RAYS и изменения структуры компании](https://habr.com/ru/news/761538/?utm_campaign=761538&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Apple: iPhone 15 Pro может стать популярной игровой консолью](https://habr.com/ru/news/761536/?utm_campaign=761536&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила обновление браузера Edge для Windows 7/8/8.1, поддержка которого закончилась в январе 2023 года](https://habr.com/ru/news/761524/?utm_campaign=761524&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: у мессенджера WhatsApp «все будет хорошо»](https://habr.com/ru/news/761496/?utm_campaign=761496&utm_source=habrahabr&utm_medium=rss)
 - [Unity предложила студиям решение по освобождению от новой комиссии, но разработчики решили бойкотировать компанию](https://habr.com/ru/news/761494/?utm_campaign=761494&utm_source=habrahabr&utm_medium=rss)
-- [На сервисе Itch.io проводится прием заявок на участие геймджеме посвященого написанию игр под DOS в формате COM файла](https://habr.com/ru/news/761492/?utm_campaign=761492&utm_source=habrahabr&utm_medium=rss)
-- [16 сентября в МВЦ «Крокус Экспо» начался первый отборочный тур «Битвы роботов», идёт онлайн-трансляция события](https://habr.com/ru/news/761448/?utm_campaign=761448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
