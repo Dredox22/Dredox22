@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» открыла приём заявок на студенческий конкурс Secur’IT Cup 2023](https://habr.com/ru/news/761602/?utm_campaign=761602&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдёт форум по кибербезопасности BIS Summit 2023](https://habr.com/ru/news/761554/?utm_campaign=761554&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты сделали из Arduino Nano ESP32 игровую приставку для запуска оригинальной версии DOOM 1993 года выпуска](https://habr.com/ru/news/761546/?utm_campaign=761546&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» &lpar;ранее «РТК-Солар»&rpar; презентовала центр исследования киберугроз Solar 4RAYS и изменения структуры компании](https://habr.com/ru/news/761538/?utm_campaign=761538&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Apple: iPhone 15 Pro может стать популярной игровой консолью](https://habr.com/ru/news/761536/?utm_campaign=761536&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила обновление браузера Edge для Windows 7/8/8.1, поддержка которого закончилась в январе 2023 года](https://habr.com/ru/news/761524/?utm_campaign=761524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
