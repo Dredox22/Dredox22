@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление KB5030219 для Windows 11 22H2 вызывает BSoD, зависания в приложениях, включая браузеры и клиент Steam](https://habr.com/ru/news/761808/?utm_campaign=761808&utm_source=habrahabr&utm_medium=rss)
+- [ИИ справился с тестом на креативность лучше людей; но это не значит, что он обладает творческими способностями](https://habr.com/ru/news/761806/?utm_campaign=761806&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/761782/?utm_campaign=761782&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» начал приём заявок на премию Yandex ML Prize 2023 за значимый вклад в развитие машинного обучения](https://habr.com/ru/news/761766/?utm_campaign=761766&utm_source=habrahabr&utm_medium=rss)
 - [Представлены процессоры «младшего» серверного сегмента AMD EPYC 8004 Sienna на Zen 4](https://habr.com/ru/companies/dcmiran/news/761734/?utm_campaign=761734&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик ОС «Альт» растит новое поколение российских программистов](https://habr.com/ru/companies/basealtspo/news/761700/?utm_campaign=761700&utm_source=habrahabr&utm_medium=rss)
-- [На защите Рунета: CERT-F.A.C.C.T. заступил на боевое дежурство](https://habr.com/ru/companies/f_a_c_c_t/news/761654/?utm_campaign=761654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
