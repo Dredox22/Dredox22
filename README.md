@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Про­мыш­лен­ная связь столкнулась с нехваткой отечественных кон­трол­ле­ров Wi-Fi и ядер для Private LTE](https://habr.com/ru/news/761678/?utm_campaign=761678&utm_source=habrahabr&utm_medium=rss)
 - [Blackmagic представила бесплатное приложение для профессиональной видеосъёмки на iPhone](https://habr.com/ru/news/761658/?utm_campaign=761658&utm_source=habrahabr&utm_medium=rss)
 - [Unity сообщила о скором пересмотре своего решения по поводу введения новой комиссии за скачивание игр Unity Runtime Fee](https://habr.com/ru/news/761638/?utm_campaign=761638&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил ПК-версию Cyberpunk 2077 на Android-смартфоне](https://habr.com/ru/news/761610/?utm_campaign=761610&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» открыла приём заявок на студенческий конкурс Secur’IT Cup 2023](https://habr.com/ru/news/761602/?utm_campaign=761602&utm_source=habrahabr&utm_medium=rss)
-- [В Москве пройдёт форум по кибербезопасности BIS Summit 2023](https://habr.com/ru/news/761554/?utm_campaign=761554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
