@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлены процессоры «младшего» серверного сегмента AMD EPYC 8004 Sienna на Zen 4](https://habr.com/ru/companies/dcmiran/news/761734/?utm_campaign=761734&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик ОС «Альт» растит новое поколение российских программистов](https://habr.com/ru/companies/basealtspo/news/761700/?utm_campaign=761700&utm_source=habrahabr&utm_medium=rss)
 - [На защите Рунета: CERT-F.A.C.C.T. заступил на боевое дежурство](https://habr.com/ru/companies/f_a_c_c_t/news/761654/?utm_campaign=761654&utm_source=habrahabr&utm_medium=rss)
 - [Про­мыш­лен­ная связь столкнулась с нехваткой отечественных кон­трол­ле­ров Wi-Fi и ядер для Private LTE](https://habr.com/ru/news/761678/?utm_campaign=761678&utm_source=habrahabr&utm_medium=rss)
 - [Blackmagic представила бесплатное приложение для профессиональной видеосъёмки на iPhone](https://habr.com/ru/news/761658/?utm_campaign=761658&utm_source=habrahabr&utm_medium=rss)
-- [Unity сообщила о скором пересмотре своего решения по поводу введения новой комиссии за скачивание игр Unity Runtime Fee](https://habr.com/ru/news/761638/?utm_campaign=761638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
