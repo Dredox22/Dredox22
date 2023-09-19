@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» консолидировал 100% в разработчике ОС «Аврора» компании ООО «Открытая мобильная платформа»](https://habr.com/ru/news/761894/?utm_campaign=761894&utm_source=habrahabr&utm_medium=rss)
+- [«Альт Рабочая станция К» 10.2: новый менеджер входа в систему, автоматическое резервное копирование и многое другое](https://habr.com/ru/companies/basealtspo/news/761880/?utm_campaign=761880&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft выложили в наборе обучающих данных на GitHub токен SAS и случайно раскрыли 38 ТБ конфиденциальной информации](https://habr.com/ru/news/761872/?utm_campaign=761872&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила тестовую версию Paint с поддержкой слоёв и режимов прозрачности](https://habr.com/ru/news/761866/?utm_campaign=761866&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила тарифы iCloud на 6 ТБ и 12 ТБ в России](https://habr.com/ru/news/761864/?utm_campaign=761864&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила дополнение Python Editor от команды Excel Labs](https://habr.com/ru/news/761862/?utm_campaign=761862&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор собирается с 1 марта 2024 года запретить доступ к информации об обходе интернет-блокировок](https://habr.com/ru/news/761860/?utm_campaign=761860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
