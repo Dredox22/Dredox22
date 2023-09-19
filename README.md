@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Unity не отменит введение новой комиссии за скачивание игр Unity Runtime Fee, но значительно упростит её условия](https://habr.com/ru/news/762070/?utm_campaign=762070&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» появился новый тип маршрута, который объединяет такси и метро](https://habr.com/ru/news/762010/?utm_campaign=762010&utm_source=habrahabr&utm_medium=rss)
 - [Документы Microsoft для FTC: новый Xbox выйдет в 2028 году](https://habr.com/ru/news/762004/?utm_campaign=762004&utm_source=habrahabr&utm_medium=rss)
 - [Открыт набор на бесплатный офлайн курс по Java-разработке от КРОК](https://habr.com/ru/companies/croc/news/761974/?utm_campaign=761974&utm_source=habrahabr&utm_medium=rss)
 - [Вышла iOS 17](https://habr.com/ru/news/761968/?utm_campaign=761968&utm_source=habrahabr&utm_medium=rss)
-- [В России создадут единый Цифровой кодекс для IT-компаний и связистов](https://habr.com/ru/news/761964/?utm_campaign=761964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
