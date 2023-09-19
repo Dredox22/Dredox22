@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открыт набор на бесплатный офлайн курс по Java-разработке от КРОК](https://habr.com/ru/companies/croc/news/761974/?utm_campaign=761974&utm_source=habrahabr&utm_medium=rss)
+- [Вышла iOS 17](https://habr.com/ru/news/761968/?utm_campaign=761968&utm_source=habrahabr&utm_medium=rss)
+- [В России создадут единый Цифровой кодекс для IT-компаний и связистов](https://habr.com/ru/news/761964/?utm_campaign=761964&utm_source=habrahabr&utm_medium=rss)
 - [Продукты и решения для результативной кибербезопасности — как пройдет Positive Security Day](https://habr.com/ru/companies/pt/news/761934/?utm_campaign=761934&utm_source=habrahabr&utm_medium=rss)
 - [Meta* закрывает три игры для Oculus и Rift без объяснения причин](https://habr.com/ru/news/761928/?utm_campaign=761928&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» консолидировал 100% в разработчике ОС «Аврора» компании ООО «Открытая мобильная платформа»](https://habr.com/ru/news/761894/?utm_campaign=761894&utm_source=habrahabr&utm_medium=rss)
-- [«Альт Рабочая станция К» 10.2: новый менеджер входа в систему, автоматическое резервное копирование и многое другое](https://habr.com/ru/companies/basealtspo/news/761880/?utm_campaign=761880&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft выложили в наборе обучающих данных на GitHub токен SAS и случайно раскрыли 38 ТБ конфиденциальной информации](https://habr.com/ru/news/761872/?utm_campaign=761872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
