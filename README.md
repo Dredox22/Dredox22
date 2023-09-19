@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндекс Картах» появился новый тип маршрута, который объединяет такси и метро](https://habr.com/ru/news/762010/?utm_campaign=762010&utm_source=habrahabr&utm_medium=rss)
+- [Документы Microsoft для FTC: новый Xbox выйдет в 2028 году](https://habr.com/ru/news/762004/?utm_campaign=762004&utm_source=habrahabr&utm_medium=rss)
 - [Открыт набор на бесплатный офлайн курс по Java-разработке от КРОК](https://habr.com/ru/companies/croc/news/761974/?utm_campaign=761974&utm_source=habrahabr&utm_medium=rss)
 - [Вышла iOS 17](https://habr.com/ru/news/761968/?utm_campaign=761968&utm_source=habrahabr&utm_medium=rss)
 - [В России создадут единый Цифровой кодекс для IT-компаний и связистов](https://habr.com/ru/news/761964/?utm_campaign=761964&utm_source=habrahabr&utm_medium=rss)
-- [Продукты и решения для результативной кибербезопасности — как пройдет Positive Security Day](https://habr.com/ru/companies/pt/news/761934/?utm_campaign=761934&utm_source=habrahabr&utm_medium=rss)
-- [Meta* закрывает три игры для Oculus и Rift без объяснения причин](https://habr.com/ru/news/761928/?utm_campaign=761928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
