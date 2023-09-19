@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила дополнение Python Editor от команды Excel Labs](https://habr.com/ru/news/761862/?utm_campaign=761862&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор собирается с 1 марта 2024 года запретить доступ к информации об обходе интернет-блокировок](https://habr.com/ru/news/761860/?utm_campaign=761860&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал указ о цифровом паспорте](https://habr.com/ru/news/761816/?utm_campaign=761816&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5030219 для Windows 11 22H2 вызывает BSoD, зависания в приложениях, включая браузеры и клиент Steam](https://habr.com/ru/news/761808/?utm_campaign=761808&utm_source=habrahabr&utm_medium=rss)
 - [ИИ справился с тестом на креативность лучше людей; но это не значит, что он обладает творческими способностями](https://habr.com/ru/news/761806/?utm_campaign=761806&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/761782/?utm_campaign=761782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
