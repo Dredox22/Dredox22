@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Институт AIRI и IT‑компании «Солтех» создали программный комплекс для обнаружения дефектов солнечных ячеек с помощью ИИ](https://habr.com/ru/news/762126/?utm_campaign=762126&utm_source=habrahabr&utm_medium=rss)
+- [Институт AIRI и IT‑компания «Солтех» создали программный комплекс для обнаружения дефектов солнечных ячеек с помощью ИИ](https://habr.com/ru/news/762126/?utm_campaign=762126&utm_source=habrahabr&utm_medium=rss)
 - [IT&#39;s GNIVC QA {meetup} Kitchen](https://habr.com/ru/companies/gnivc/news/762106/?utm_campaign=762106&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Unity не отменит введение новой комиссии за скачивание игр Unity Runtime Fee, но значительно упростит её условия](https://habr.com/ru/news/762070/?utm_campaign=762070&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» появился новый тип маршрута, который объединяет такси и метро](https://habr.com/ru/news/762010/?utm_campaign=762010&utm_source=habrahabr&utm_medium=rss)
