@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Великобритания приняла масштабный законопроект о безопасности в Интернете](https://habr.com/ru/news/762226/?utm_campaign=762226&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Mortal Kombat 1](https://habr.com/ru/news/762204/?utm_campaign=762204&utm_source=habrahabr&utm_medium=rss)
+- [20 сентября 2023: ровно 400 лет первому арифмометру](https://habr.com/ru/news/761844/?utm_campaign=761844&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК приостановила действие сертификата антивируса Dr.Web, разработчики проекта занимаются исправлением несоответствий](https://habr.com/ru/news/762170/?utm_campaign=762170&utm_source=habrahabr&utm_medium=rss)
 - [В «Лайтком» и «Миландр» считают инцидент чёрным пиаром, в ответ блогер выложил фото и схему снятия ненужного чипа](https://habr.com/ru/news/762166/?utm_campaign=762166&utm_source=habrahabr&utm_medium=rss)
-- [Институт AIRI и IT‑компания «Солтех» создали программный комплекс для обнаружения дефектов солнечных ячеек с помощью ИИ](https://habr.com/ru/news/762126/?utm_campaign=762126&utm_source=habrahabr&utm_medium=rss)
-- [IT&#39;s GNIVC QA {meetup} Kitchen](https://habr.com/ru/companies/gnivc/news/762106/?utm_campaign=762106&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Unity не отменит введение новой комиссии за скачивание игр Unity Runtime Fee, но значительно упростит её условия](https://habr.com/ru/news/762070/?utm_campaign=762070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
