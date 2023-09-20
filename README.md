@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» открыл регистрацию на чемпионат по программированию Yandex Cup с призовым фондом 7,8 млн рублей](https://habr.com/ru/news/762264/?utm_campaign=762264&utm_source=habrahabr&utm_medium=rss)
 - [Инженер использовал LED-матрицу и Raspberry Pi Pico W для вывода обложек воспроизводимых треков](https://habr.com/ru/news/762242/?utm_campaign=762242&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс 360» для бизнеса появилась возможность включать многофакторную аутентификацию](https://habr.com/ru/news/762128/?utm_campaign=762128&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила первый 288-ядерный процессор на малых E-ядрах Xeon Sierra Forest](https://habr.com/ru/companies/dcmiran/news/762234/?utm_campaign=762234&utm_source=habrahabr&utm_medium=rss)
 - [Великобритания приняла масштабный законопроект о безопасности в Интернете](https://habr.com/ru/news/762226/?utm_campaign=762226&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Mortal Kombat 1](https://habr.com/ru/news/762204/?utm_campaign=762204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
