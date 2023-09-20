@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MLOps, часть II: погружаемся в специфику работы с данными](https://habr.com/ru/companies/vtb/news/762384/?utm_campaign=762384&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг инициировал проверку по монитору «Лайтком» и поблагодарил блогера за активную позицию по импортозамещению](https://habr.com/ru/news/762364/?utm_campaign=762364&utm_source=habrahabr&utm_medium=rss)
 - [Открытый форк Terraform OpenTofu официально стал проектом Linux Foundation](https://habr.com/ru/companies/flant/news/762356/?utm_campaign=762356&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор рассказал об атаке на 6 тыс. сайтов в рунете с конца мая](https://habr.com/ru/news/762322/?utm_campaign=762322&utm_source=habrahabr&utm_medium=rss)
 - [beeline cloud приглашает на конференцию Deep cloud dive](https://habr.com/ru/companies/beeline_tech/news/762266/?utm_campaign=762266&utm_source=habrahabr&utm_medium=rss)
-- [Solar AURA нашёл за 6 месяцев 2023 года 2,2 тысячи фрагментов закрытого кода российских компаний в открытом доступе](https://habr.com/ru/news/762288/?utm_campaign=762288&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
