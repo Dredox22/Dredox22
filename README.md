@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженер использовал LED-матрицу и Raspberry Pi Pico W для вывода обложек воспроизводимых треков](https://habr.com/ru/news/762242/?utm_campaign=762242&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс 360» для бизнеса появилась возможность включать многофакторную аутентификацию](https://habr.com/ru/news/762128/?utm_campaign=762128&utm_source=habrahabr&utm_medium=rss)
+- [Intel представила первый 288-ядерный процессор на малых E-ядрах Xeon Sierra Forest](https://habr.com/ru/companies/dcmiran/news/762234/?utm_campaign=762234&utm_source=habrahabr&utm_medium=rss)
 - [Великобритания приняла масштабный законопроект о безопасности в Интернете](https://habr.com/ru/news/762226/?utm_campaign=762226&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Mortal Kombat 1](https://habr.com/ru/news/762204/?utm_campaign=762204&utm_source=habrahabr&utm_medium=rss)
-- [20 сентября 2023: ровно 400 лет первому арифмометру](https://habr.com/ru/news/761844/?utm_campaign=761844&utm_source=habrahabr&utm_medium=rss)
-- [ФСТЭК приостановила действие сертификата антивируса Dr.Web, разработчики проекта занимаются исправлением несоответствий](https://habr.com/ru/news/762170/?utm_campaign=762170&utm_source=habrahabr&utm_medium=rss)
-- [В «Лайтком» и «Миландр» считают инцидент чёрным пиаром, в ответ блогер выложил фото и схему снятия ненужного чипа](https://habr.com/ru/news/762166/?utm_campaign=762166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
