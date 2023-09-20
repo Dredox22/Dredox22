@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг инициировал проверку по монитору «Лайтком» и поблагодарил блогера за активную позицию по импортозамещению](https://habr.com/ru/news/762364/?utm_campaign=762364&utm_source=habrahabr&utm_medium=rss)
+- [Открытый форк Terraform OpenTofu официально стал проектом Linux Foundation](https://habr.com/ru/companies/flant/news/762356/?utm_campaign=762356&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор рассказал об атаке на 6 тыс. сайтов в рунете с конца мая](https://habr.com/ru/news/762322/?utm_campaign=762322&utm_source=habrahabr&utm_medium=rss)
 - [beeline cloud приглашает на конференцию Deep cloud dive](https://habr.com/ru/companies/beeline_tech/news/762266/?utm_campaign=762266&utm_source=habrahabr&utm_medium=rss)
 - [Solar AURA нашёл за 6 месяцев 2023 года 2,2 тысячи фрагментов закрытого кода российских компаний в открытом доступе](https://habr.com/ru/news/762288/?utm_campaign=762288&utm_source=habrahabr&utm_medium=rss)
-- [21 сентября состоится VIII форум «Управление данными — 2023»: путь к дата-центричному бизнесу](https://habr.com/ru/companies/visiology/news/762282/?utm_campaign=762282&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл регистрацию на чемпионат по программированию Yandex Cup с призовым фондом 7,8 млн рублей](https://habr.com/ru/news/762264/?utm_campaign=762264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
