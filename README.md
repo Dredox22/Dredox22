@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение для стриминга Camo Studio теперь доступно на iPad](https://habr.com/ru/news/762562/?utm_campaign=762562&utm_source=habrahabr&utm_medium=rss)
+- [Как получить инвайт на Standoff Hacks](https://habr.com/ru/companies/pt/news/762544/?utm_campaign=762544&utm_source=habrahabr&utm_medium=rss)
+- [«СберТех» представила веб-сервис GitVerse и приглашает разработчиков протестировать свой аналог GitHub](https://habr.com/ru/news/762542/?utm_campaign=762542&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» представил GigaChat API для бизнеса](https://habr.com/ru/news/762536/?utm_campaign=762536&utm_source=habrahabr&utm_medium=rss)
 - [Присоединяйтесь к форуму о кибербезопасности GIS DAYS 2023](https://habr.com/ru/companies/gaz-is/news/762096/?utm_campaign=762096&utm_source=habrahabr&utm_medium=rss)
-- [Джордж Мартин, Джонатан Франзен и другие писатели подали иск против OpenAI за нарушение авторских прав](https://habr.com/ru/news/762510/?utm_campaign=762510&utm_source=habrahabr&utm_medium=rss)
-- [GitHub открыла доступ к бета-версии Copilot Chat для всех подписчиков GitHub Copilot в Visual Studio и VS Code](https://habr.com/ru/news/762494/?utm_campaign=762494&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Браузер» начал переводить любые YouTube-трансляции с пяти языков](https://habr.com/ru/news/762484/?utm_campaign=762484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
