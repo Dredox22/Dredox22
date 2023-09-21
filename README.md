@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Минцифры не получало подтверждения от компании Meta*, что мессенджер WhatsApp будет запускать в РФ функцию русскоязычных](https://habr.com/ru/news/762620/?utm_campaign=762620&utm_source=habrahabr&utm_medium=rss)
+- [Релиз LLVM 17.0](https://habr.com/ru/companies/itsumma/news/762638/?utm_campaign=762638&utm_source=habrahabr&utm_medium=rss)
+- [В ходе пленарной дискуссии BIS Summit 2023 были обсуждены меры наказания и его смягчения за утечки данных для компаний](https://habr.com/ru/news/762636/?utm_campaign=762636&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры не получало подтверждения от компании Meta*, что WhatsApp запустит в РФ функцию русскоязычных каналов](https://habr.com/ru/news/762620/?utm_campaign=762620&utm_source=habrahabr&utm_medium=rss)
 - [Газпромбанк тестирует платежи с использованием цифрового рубля за страхование, связь и транспорт](https://habr.com/ru/companies/gazprombank/news/762608/?utm_campaign=762608&utm_source=habrahabr&utm_medium=rss)
 - [МТС предложит бизнесу технологии распознавания документов Smart Engines](https://habr.com/ru/companies/smartengines/news/762606/?utm_campaign=762606&utm_source=habrahabr&utm_medium=rss)
-- [Итоги первого дня CyberCamp 2023: инсайты от спикеров, состязание фракций или при чем тут киберпанк-бабуля](https://habr.com/ru/companies/jetinfosystems/news/762594/?utm_campaign=762594&utm_source=habrahabr&utm_medium=rss)
-- [FCC одобрила две новые более компактные модели пользовательских тарелок с ФАР для спутникового интернета Starlink](https://habr.com/ru/news/762584/?utm_campaign=762584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
