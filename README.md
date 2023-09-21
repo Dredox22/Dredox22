@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Миландре» провели техническую проверку и не подтвердили выводы блогера по поводу ненужного чипа в мониторе «Лайтком»](https://habr.com/ru/news/762668/?utm_campaign=762668&utm_source=habrahabr&utm_medium=rss)
 - [Как организовать автотесты в коммерческом продукте с open source-ядром. Блиц-интервью перед AQA-митапом](https://habr.com/ru/companies/yadro/news/762602/?utm_campaign=762602&utm_source=habrahabr&utm_medium=rss)
 - [Релиз LLVM 17.0](https://habr.com/ru/companies/itsumma/news/762638/?utm_campaign=762638&utm_source=habrahabr&utm_medium=rss)
 - [В ходе пленарной дискуссии BIS Summit 2023 были обсуждены меры наказания и его смягчения за утечки данных для компаний](https://habr.com/ru/news/762636/?utm_campaign=762636&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры не получало подтверждения от компании Meta*, что WhatsApp запустит в РФ функцию русскоязычных каналов](https://habr.com/ru/news/762620/?utm_campaign=762620&utm_source=habrahabr&utm_medium=rss)
-- [Газпромбанк тестирует платежи с использованием цифрового рубля за страхование, связь и транспорт](https://habr.com/ru/companies/gazprombank/news/762608/?utm_campaign=762608&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
