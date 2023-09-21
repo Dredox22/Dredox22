@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры не получало подтверждения от компании Meta*, что мессенджер WhatsApp будет запускать в РФ функцию русскоязычных](https://habr.com/ru/news/762620/?utm_campaign=762620&utm_source=habrahabr&utm_medium=rss)
+- [Газпромбанк тестирует платежи с использованием цифрового рубля за страхование, связь и транспорт](https://habr.com/ru/companies/gazprombank/news/762608/?utm_campaign=762608&utm_source=habrahabr&utm_medium=rss)
+- [МТС предложит бизнесу технологии распознавания документов Smart Engines](https://habr.com/ru/companies/smartengines/news/762606/?utm_campaign=762606&utm_source=habrahabr&utm_medium=rss)
 - [Итоги первого дня CyberCamp 2023: инсайты от спикеров, состязание фракций или при чем тут киберпанк-бабуля](https://habr.com/ru/companies/jetinfosystems/news/762594/?utm_campaign=762594&utm_source=habrahabr&utm_medium=rss)
 - [FCC одобрила две новые более компактные модели пользовательских тарелок с ФАР для спутникового интернета Starlink](https://habr.com/ru/news/762584/?utm_campaign=762584&utm_source=habrahabr&utm_medium=rss)
-- [Приложение для стриминга Camo Studio теперь доступно на iPad](https://habr.com/ru/news/762562/?utm_campaign=762562&utm_source=habrahabr&utm_medium=rss)
-- [Как получить инвайт на Standoff Hacks](https://habr.com/ru/companies/pt/news/762544/?utm_campaign=762544&utm_source=habrahabr&utm_medium=rss)
-- [«СберТех» представила веб-сервис GitVerse и приглашает разработчиков протестировать свой аналог GitHub](https://habr.com/ru/news/762542/?utm_campaign=762542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
