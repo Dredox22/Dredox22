@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AppLovin представила открытый проект Unifree для переноса кода игр с Unity на движки Unreal Engine, Godot и Cocos](https://habr.com/ru/news/762440/?utm_campaign=762440&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК восстановила действие сертификата соответствия на Dr.Web Enterprise Security Suite](https://habr.com/ru/news/762430/?utm_campaign=762430&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила генератор изображений DALL-E 3, который будет включён в ChatGPT](https://habr.com/ru/news/762410/?utm_campaign=762410&utm_source=habrahabr&utm_medium=rss)
 - [AST SpaceMobile выполнила первый в истории звонок через спутниковую связь, используя диапазон частот 5G](https://habr.com/ru/news/762402/?utm_campaign=762402&utm_source=habrahabr&utm_medium=rss)
 - [В Минцифры нет планов блокировать WhatsApp и YouTube, ведомство не будет наказывать за использование VPN](https://habr.com/ru/news/762396/?utm_campaign=762396&utm_source=habrahabr&utm_medium=rss)
-- [MLOps, часть II: погружаемся в специфику работы с данными](https://habr.com/ru/companies/vtb/news/762384/?utm_campaign=762384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
