@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Джордж Мартин, Джонатан Франзен и другие писатели подали иск против OpenAI за нарушение авторских прав](https://habr.com/ru/news/762510/?utm_campaign=762510&utm_source=habrahabr&utm_medium=rss)
+- [GitHub открыла доступ к бета-версии Copilot Chat для всех подписчиков GitHub Copilot в Visual Studio и VS Code](https://habr.com/ru/news/762494/?utm_campaign=762494&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Браузер» начал переводить любые YouTube-трансляции с пяти языков](https://habr.com/ru/news/762484/?utm_campaign=762484&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Microsoft Edge для Windows 10/11 по умолчанию перевело браузер в планшетный режим](https://habr.com/ru/news/762468/?utm_campaign=762468&utm_source=habrahabr&utm_medium=rss)
 - [Газпромбанк объявляет набор на стажировку по кибербезопасности](https://habr.com/ru/companies/gazprombank/news/762466/?utm_campaign=762466&utm_source=habrahabr&utm_medium=rss)
-- [Re-Logic в рамках помощи разработчикам в уходе с Unity пожертвовала по $100 тыс. создателям открытых движков Godot и FNA](https://habr.com/ru/news/762460/?utm_campaign=762460&utm_source=habrahabr&utm_medium=rss)
-- [Роботакси Cruise перекрыли движение на одной из улиц Остина](https://habr.com/ru/news/762458/?utm_campaign=762458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
