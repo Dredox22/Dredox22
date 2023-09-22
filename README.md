@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [53% молодых специалистов планируют развиваться в IT-отрасли](https://habr.com/ru/companies/vk/news/762856/?utm_campaign=762856&utm_source=habrahabr&utm_medium=rss)
+- [Физики соорудили платиновый бутерброд для спинтроники](https://habr.com/ru/news/762840/?utm_campaign=762840&utm_source=habrahabr&utm_medium=rss)
+- [Innostage анонсировала свою bug bounty программу](https://habr.com/ru/news/762836/?utm_campaign=762836&utm_source=habrahabr&utm_medium=rss)
 - [VK Data Meetup — митап об инструментах и людях, которые умеют работать с данными](https://habr.com/ru/companies/vk/news/762810/?utm_campaign=762810&utm_source=habrahabr&utm_medium=rss)
 - [В RuStore появились инструменты Tracer и Remote Config для сбора и анализа ошибок и удалённого управления приложениями](https://habr.com/ru/news/762790/?utm_campaign=762790&utm_source=habrahabr&utm_medium=rss)
-- [ФНС России запустила сервис подбора имени ребёнку](https://habr.com/ru/news/762776/?utm_campaign=762776&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры разработало регламент обследования трансграничных линий связи](https://habr.com/ru/news/762766/?utm_campaign=762766&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили плагин Voices, позволяющий оставлять голосовые комментарии в коде](https://habr.com/ru/news/762758/?utm_campaign=762758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
