@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили плагин Voices, позволяющий оставлять голосовые комментарии в коде](https://habr.com/ru/news/762758/?utm_campaign=762758&utm_source=habrahabr&utm_medium=rss)
 - [Саранский завод начал сборку смартфонов «Р-Фон» с российской ОС Rosa Mobile](https://habr.com/ru/news/762740/?utm_campaign=762740&utm_source=habrahabr&utm_medium=rss)
 - [Правительство определило график внедрения биометрии в сервисы](https://habr.com/ru/news/762732/?utm_campaign=762732&utm_source=habrahabr&utm_medium=rss)
 - [Доступ к API EWS для Exchange Online и Office 365 закроется в октябре 2026 года](https://habr.com/ru/news/762708/?utm_campaign=762708&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустит следующее большое обновление Windows 11 26 сентября](https://habr.com/ru/news/762684/?utm_campaign=762684&utm_source=habrahabr&utm_medium=rss)
-- [В «Миландре» провели техническую проверку и не подтвердили выводы блогера по поводу ненужного чипа в мониторе «Лайтком»](https://habr.com/ru/news/762668/?utm_campaign=762668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
