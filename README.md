@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Free Download Manager выпустили скрипт для проверки ОС Linux на наличие трояна из своей официальной сборки](https://habr.com/ru/news/762882/?utm_campaign=762882&utm_source=habrahabr&utm_medium=rss)
+- [СУБД и платформа Tantor: максимум от технологии PostgreSQL](https://habr.com/ru/companies/astralinux/news/762878/?utm_campaign=762878&utm_source=habrahabr&utm_medium=rss)
+- [«Ультра» и «Аппетитная карта»: обновление мобильного приложения Россельхозбанка](https://habr.com/ru/companies/rshb/news/762866/?utm_campaign=762866&utm_source=habrahabr&utm_medium=rss)
 - [53% молодых специалистов планируют развиваться в IT-отрасли](https://habr.com/ru/companies/vk/news/762856/?utm_campaign=762856&utm_source=habrahabr&utm_medium=rss)
 - [Физики соорудили платиновый бутерброд для спинтроники](https://habr.com/ru/news/762840/?utm_campaign=762840&utm_source=habrahabr&utm_medium=rss)
-- [Innostage анонсировала свою bug bounty программу](https://habr.com/ru/news/762836/?utm_campaign=762836&utm_source=habrahabr&utm_medium=rss)
-- [VK Data Meetup — митап об инструментах и людях, которые умеют работать с данными](https://habr.com/ru/companies/vk/news/762810/?utm_campaign=762810&utm_source=habrahabr&utm_medium=rss)
-- [В RuStore появились инструменты Tracer и Remote Config для сбора и анализа ошибок и удалённого управления приложениями](https://habr.com/ru/news/762790/?utm_campaign=762790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
