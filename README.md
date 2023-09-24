@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass усложнила требования к мастер-паролям](https://habr.com/ru/news/763066/?utm_campaign=763066&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратит поддержку Basic HTML в Gmail в 2024 году](https://habr.com/ru/news/763056/?utm_campaign=763056&utm_source=habrahabr&utm_medium=rss)
 - [Вышел эмулятор игровых консолей RetroArch 1.16](https://habr.com/ru/news/763052/?utm_campaign=763052&utm_source=habrahabr&utm_medium=rss)
 - [Компания «РОББО» провела соревнования по программированию и управлению квадрокоптеров](https://habr.com/ru/news/763022/?utm_campaign=763022&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик Gnome Builder создал новый эмулятор терминала, который в два раза быстрее, чем Alacritty](https://habr.com/ru/news/763016/?utm_campaign=763016&utm_source=habrahabr&utm_medium=rss)
-- [BI в мессенджере для менеджеров продаж + кейс крупного застройщика: вебинар](https://habr.com/ru/companies/sapiens_solutions/news/762974/?utm_campaign=762974&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
