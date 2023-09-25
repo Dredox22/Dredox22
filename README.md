@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Попытка Apple разработать собственный модем 5G провалилась: разработка «на три года» отстаёт от модемов Qualcomm](https://habr.com/ru/news/763234/?utm_campaign=763234&utm_source=habrahabr&utm_medium=rss)
+- [Google в Chrome скопировала панель производительности Microsoft Edge](https://habr.com/ru/news/763222/?utm_campaign=763222&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи пожаловались на сброс настроек конфиденциальности в iOS 17](https://habr.com/ru/news/763214/?utm_campaign=763214&utm_source=habrahabr&utm_medium=rss)
 - [Представлена электроника для блоков управления электродвигателями роботов AMD Kria K24 SOM и KD240 Starter Kit](https://habr.com/ru/news/763212/?utm_campaign=763212&utm_source=habrahabr&utm_medium=rss)
 - [Кибербезопасность от А до Я в новом медиа Positive Research](https://habr.com/ru/companies/pt/news/763156/?utm_campaign=763156&utm_source=habrahabr&utm_medium=rss)
-- [Haier ликвидирует российское юрлицо бренда Candy из-за «низкой прибыльности»](https://habr.com/ru/news/763190/?utm_campaign=763190&utm_source=habrahabr&utm_medium=rss)
-- [Tesla представила обновление робота Optimus](https://habr.com/ru/news/763178/?utm_campaign=763178&utm_source=habrahabr&utm_medium=rss)
-- [Valve отклонила из-за нарушения авторских прав игру в Steam, в которой ИИ перевёл тексты автора на другие языки](https://habr.com/ru/news/763166/?utm_campaign=763166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
