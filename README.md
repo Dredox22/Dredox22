@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI внедряет в ChatGPT функции распознавания голоса и изображений](https://habr.com/ru/news/763352/?utm_campaign=763352&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/763336/?utm_campaign=763336&utm_source=habrahabr&utm_medium=rss)
 - [Есть ли будущее у Python? Обсудим в этот четверг](https://habr.com/ru/companies/selectel/news/763330/?utm_campaign=763330&utm_source=habrahabr&utm_medium=rss)
 - [Проверьте свои знания в криптографии](https://habr.com/ru/companies/kryptonite/news/763258/?utm_campaign=763258&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры рекомендовали изучить возможность создания в России полного цикла производства оптоволокна](https://habr.com/ru/news/763318/?utm_campaign=763318&utm_source=habrahabr&utm_medium=rss)
-- [Micron приступила к возведению предприятия по производству полупроводников в Индии за $2,75 млрд](https://habr.com/ru/news/763316/?utm_campaign=763316&utm_source=habrahabr&utm_medium=rss)
-- [Ребрендинг Shadow: теперь вымогатели чистят бюджеты компаний под именем C0met](https://habr.com/ru/companies/f_a_c_c_t/news/763292/?utm_campaign=763292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
