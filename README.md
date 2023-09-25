@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» запатентовал голосового бота с ИИ, который может прослушивать все вызовы в смартфоне для борьбы с мошенниками](https://habr.com/ru/news/763246/?utm_campaign=763246&utm_source=habrahabr&utm_medium=rss)
+- [ФАС возбудила дело в отношении «МегаФона» из‑за необоснованного повышения тарифов](https://habr.com/ru/news/763236/?utm_campaign=763236&utm_source=habrahabr&utm_medium=rss)
 - [Попытка Apple разработать собственный модем 5G провалилась: разработка «на три года» отстаёт от модемов Qualcomm](https://habr.com/ru/news/763234/?utm_campaign=763234&utm_source=habrahabr&utm_medium=rss)
 - [Google в Chrome скопировала панель производительности Microsoft Edge](https://habr.com/ru/news/763222/?utm_campaign=763222&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи пожаловались на сброс настроек конфиденциальности в iOS 17](https://habr.com/ru/news/763214/?utm_campaign=763214&utm_source=habrahabr&utm_medium=rss)
-- [Представлена электроника для блоков управления электродвигателями роботов AMD Kria K24 SOM и KD240 Starter Kit](https://habr.com/ru/news/763212/?utm_campaign=763212&utm_source=habrahabr&utm_medium=rss)
-- [Кибербезопасность от А до Я в новом медиа Positive Research](https://habr.com/ru/companies/pt/news/763156/?utm_campaign=763156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
