@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla представила обновление робота Optimus](https://habr.com/ru/news/763178/?utm_campaign=763178&utm_source=habrahabr&utm_medium=rss)
 - [Valve отклонила из-за нарушения авторских прав игру в Steam, в которой ИИ перевёл тексты автора на другие языки](https://habr.com/ru/news/763166/?utm_campaign=763166&utm_source=habrahabr&utm_medium=rss)
 - [«Открытая мобильная платформа» показала «Аврора 5.0» на Kazan Digital Week](https://habr.com/ru/news/763118/?utm_campaign=763118&utm_source=habrahabr&utm_medium=rss)
 - [Марк Руссинович: запущен проект по включению разработки драйверов для Windows на Rust](https://habr.com/ru/news/763088/?utm_campaign=763088&utm_source=habrahabr&utm_medium=rss)
 - [LastPass усложнила требования к мастер-паролям](https://habr.com/ru/news/763066/?utm_campaign=763066&utm_source=habrahabr&utm_medium=rss)
-- [Google прекратит поддержку Basic HTML в Gmail в 2024 году](https://habr.com/ru/news/763056/?utm_campaign=763056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
