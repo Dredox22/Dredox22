@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена электроника для блоков управления электродвигателями роботов AMD Kria K24 SOM и KD240 Starter Kit](https://habr.com/ru/news/763212/?utm_campaign=763212&utm_source=habrahabr&utm_medium=rss)
+- [Кибербезопасность от А до Я в новом медиа Positive Research](https://habr.com/ru/companies/pt/news/763156/?utm_campaign=763156&utm_source=habrahabr&utm_medium=rss)
+- [Haier ликвидирует российское юрлицо бренда Candy из-за «низкой прибыльности»](https://habr.com/ru/news/763190/?utm_campaign=763190&utm_source=habrahabr&utm_medium=rss)
 - [Tesla представила обновление робота Optimus](https://habr.com/ru/news/763178/?utm_campaign=763178&utm_source=habrahabr&utm_medium=rss)
 - [Valve отклонила из-за нарушения авторских прав игру в Steam, в которой ИИ перевёл тексты автора на другие языки](https://habr.com/ru/news/763166/?utm_campaign=763166&utm_source=habrahabr&utm_medium=rss)
-- [«Открытая мобильная платформа» показала «Аврора 5.0» на Kazan Digital Week](https://habr.com/ru/news/763118/?utm_campaign=763118&utm_source=habrahabr&utm_medium=rss)
-- [Марк Руссинович: запущен проект по включению разработки драйверов для Windows на Rust](https://habr.com/ru/news/763088/?utm_campaign=763088&utm_source=habrahabr&utm_medium=rss)
-- [LastPass усложнила требования к мастер-паролям](https://habr.com/ru/news/763066/?utm_campaign=763066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
