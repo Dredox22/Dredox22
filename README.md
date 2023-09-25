@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Горшенин объяснил свою ошибку с чипом от «Миландра» из-за публикации на Хабре, но нашёл ещё несоответствие в другом чипе](https://habr.com/ru/news/763358/?utm_campaign=763358&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI внедряет в ChatGPT функции распознавания голоса и изображений](https://habr.com/ru/news/763352/?utm_campaign=763352&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/763336/?utm_campaign=763336&utm_source=habrahabr&utm_medium=rss)
 - [Есть ли будущее у Python? Обсудим в этот четверг](https://habr.com/ru/companies/selectel/news/763330/?utm_campaign=763330&utm_source=habrahabr&utm_medium=rss)
 - [Проверьте свои знания в криптографии](https://habr.com/ru/companies/kryptonite/news/763258/?utm_campaign=763258&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры рекомендовали изучить возможность создания в России полного цикла производства оптоволокна](https://habr.com/ru/news/763318/?utm_campaign=763318&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
