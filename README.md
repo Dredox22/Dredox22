@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила macOS 14 Sonoma](https://habr.com/ru/news/763654/?utm_campaign=763654&utm_source=habrahabr&utm_medium=rss)
+- [Физики из России удвоили КПД свечения молекул для органических светодиодов](https://habr.com/ru/news/763650/?utm_campaign=763650&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge начал шифровать сохранённые пароли и показывать вместо них строки, похожие на серийные ключи](https://habr.com/ru/news/763624/?utm_campaign=763624&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор принял информирующие меры в отношении 12 иностранных провайдеров хостинга](https://habr.com/ru/news/763604/?utm_campaign=763604&utm_source=habrahabr&utm_medium=rss)
 - [В приложении «Яндекс с Алисой» появился «Ключ» — инструмент для быстрого входа в сервисы](https://habr.com/ru/news/763592/?utm_campaign=763592&utm_source=habrahabr&utm_medium=rss)
-- [«Интехком» провела полевые испытания AR‑решений «Скилар» для работы на удалённых объектах](https://habr.com/ru/news/763580/?utm_campaign=763580&utm_source=habrahabr&utm_medium=rss)
-- [Баг в Starfield приводит к тому, что за игроком начинают летать различные объекты от астероидов до целых поселений](https://habr.com/ru/news/763560/?utm_campaign=763560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
