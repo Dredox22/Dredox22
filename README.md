@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Баг в Starfield приводит к тому, что за игроком начинают летать различные объекты от астероидов до целых поселений](https://habr.com/ru/news/763560/?utm_campaign=763560&utm_source=habrahabr&utm_medium=rss)
+- [Вебинары о новых iOS-технологиях: «SwiftData» и «Swift Macros»](https://habr.com/ru/companies/kts/news/763558/?utm_campaign=763558&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи T-Mobile сообщили, что в мобильном приложении оператора видна информация об аккаунтах других клиентов](https://habr.com/ru/news/763552/?utm_campaign=763552&utm_source=habrahabr&utm_medium=rss)
 - [Правительственная комиссия поддержала добавление положения о компенсациях в законопроект об утечках данных](https://habr.com/ru/news/763548/?utm_campaign=763548&utm_source=habrahabr&utm_medium=rss)
 - [Вышло дополнение Phantom Liberty для Cyberpunk 2077](https://habr.com/ru/news/763520/?utm_campaign=763520&utm_source=habrahabr&utm_medium=rss)
-- [Spotify не будет полностью запрещать музыку, созданную искусственным интеллектом](https://habr.com/ru/news/763512/?utm_campaign=763512&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на соревнование AI Journey Contest 2023 с рекордным призовым фондом более 11 млн рублей](https://habr.com/ru/companies/sberbank/news/763480/?utm_campaign=763480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
