@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло дополнение Phantom Liberty для Cyberpunk 2077](https://habr.com/ru/news/763520/?utm_campaign=763520&utm_source=habrahabr&utm_medium=rss)
+- [Spotify не будет полностью запрещать музыку, созданную искусственным интеллектом](https://habr.com/ru/news/763512/?utm_campaign=763512&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на соревнование AI Journey Contest 2023 с рекордным призовым фондом более 11 млн рублей](https://habr.com/ru/companies/sberbank/news/763480/?utm_campaign=763480&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Cloud представила сервис защиты веб‑приложений в облаках компаний‑партнёров Smart Web Security](https://habr.com/ru/news/763414/?utm_campaign=763414&utm_source=habrahabr&utm_medium=rss)
+- [Yandex Cloud представила сервис защиты веб‑приложений в облаках Smart Web Security](https://habr.com/ru/news/763414/?utm_campaign=763414&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud добавила сервис на базе технологии Apache Airflow в свои облака](https://habr.com/ru/news/763410/?utm_campaign=763410&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Cloud открыла исходный код DataLens](https://habr.com/ru/news/763402/?utm_campaign=763402&utm_source=habrahabr&utm_medium=rss)
-- [Знакомимся с open source фреймворком для Greenplum и Arenadata DB, снижающим трудозатраты на ETL: Вебинар](https://habr.com/ru/companies/sapiens_solutions/news/763450/?utm_campaign=763450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
