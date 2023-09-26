@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор принял информирующие меры в отношении 12 иностранных провайдеров хостинга](https://habr.com/ru/news/763604/?utm_campaign=763604&utm_source=habrahabr&utm_medium=rss)
 - [В приложении «Яндекс с Алисой» появился «Ключ» — инструмент для быстрого входа в сервисы](https://habr.com/ru/news/763592/?utm_campaign=763592&utm_source=habrahabr&utm_medium=rss)
 - [«Интехком» провела полевые испытания AR‑решений «Скилар» для работы на удалённых объектах](https://habr.com/ru/news/763580/?utm_campaign=763580&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Starfield приводит к тому, что за игроком начинают летать различные объекты от астероидов до целых поселений](https://habr.com/ru/news/763560/?utm_campaign=763560&utm_source=habrahabr&utm_medium=rss)
 - [Вебинары о новых iOS-технологиях: «SwiftData» и «Swift Macros»](https://habr.com/ru/companies/kts/news/763558/?utm_campaign=763558&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи T-Mobile сообщили, что в мобильном приложении оператора видна информация об аккаунтах других клиентов](https://habr.com/ru/news/763552/?utm_campaign=763552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
