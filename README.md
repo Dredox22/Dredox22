@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: из-за угрозы блокировки администрация мессенджера WhatsApp отказалась от запуска каналов в России](https://habr.com/ru/news/763448/?utm_campaign=763448&utm_source=habrahabr&utm_medium=rss)
-- [Вице-президент по IT «Ростелекома»: со следующего года параллельный импорт вычислительной техники может быть запрещён](https://habr.com/ru/news/763430/?utm_campaign=763430&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия инструмента подготовки датасетов для машинного обучения и создания на их основе нейросетей «Маркер»](https://habr.com/ru/news/763376/?utm_campaign=763376&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление антифрод-системы BI.ZONE AntiFraud](https://habr.com/ru/news/763366/?utm_campaign=763366&utm_source=habrahabr&utm_medium=rss)
-- [Горшенин объяснил свою ошибку с чипом от «Миландра» из-за публикации на Хабре, но нашёл ещё несоответствие в другом чипе](https://habr.com/ru/news/763358/?utm_campaign=763358&utm_source=habrahabr&utm_medium=rss)
+- [Yandex Cloud представила сервис защиты веб‑приложений в облаках компаний‑партнёров Smart Web Security](https://habr.com/ru/news/763414/?utm_campaign=763414&utm_source=habrahabr&utm_medium=rss)
+- [Yandex Cloud добавила сервис на базе технологии Apache Airflow в свои облака](https://habr.com/ru/news/763410/?utm_campaign=763410&utm_source=habrahabr&utm_medium=rss)
+- [Yandex Cloud открыла исходный код DataLens](https://habr.com/ru/news/763402/?utm_campaign=763402&utm_source=habrahabr&utm_medium=rss)
+- [Знакомимся с open source фреймворком для Greenplum и Arenadata DB, снижающим трудозатраты на ETL: Вебинар](https://habr.com/ru/companies/sapiens_solutions/news/763450/?utm_campaign=763450&utm_source=habrahabr&utm_medium=rss)
+- [Unity: причина ввода комиссии Unity Runtime Fee — это возможность продолжить устойчивый бизнес для Unity](https://habr.com/ru/news/763460/?utm_campaign=763460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
