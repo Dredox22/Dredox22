@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вице-президент по IT «Ростелекома»: со следующего года параллельный импорт вычислительной техники может быть запрещён](https://habr.com/ru/news/763430/?utm_campaign=763430&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия инструмента подготовки датасетов для машинного обучения и создания на их основе нейросетей «Маркер»](https://habr.com/ru/news/763376/?utm_campaign=763376&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление антифрод-системы BI.ZONE AntiFraud](https://habr.com/ru/news/763366/?utm_campaign=763366&utm_source=habrahabr&utm_medium=rss)
 - [Горшенин объяснил свою ошибку с чипом от «Миландра» из-за публикации на Хабре, но нашёл ещё несоответствие в другом чипе](https://habr.com/ru/news/763358/?utm_campaign=763358&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI внедряет в ChatGPT функции распознавания голоса и изображений](https://habr.com/ru/news/763352/?utm_campaign=763352&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/763336/?utm_campaign=763336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
