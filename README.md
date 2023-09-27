@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBS запускает новое бизнес-направление — «Кибербезопасность»](https://habr.com/ru/companies/ibs/news/763750/?utm_campaign=763750&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики выпустили утилиту Containers, позволяющую запускать контейнеры macOS в самой macOS](https://habr.com/ru/news/763746/?utm_campaign=763746&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: поколение Z поддаётся на уловки онлайн-мошенников чаще старших](https://habr.com/ru/news/763738/?utm_campaign=763738&utm_source=habrahabr&utm_medium=rss)
 - [Управление по защите данных Финляндии сняло запрет для агрегатора такси Yango на передачу данных в РФ](https://habr.com/ru/news/763702/?utm_campaign=763702&utm_source=habrahabr&utm_medium=rss)
 - [Sony начала проверку заявления хакерской группировки Ransomed.vc о взломе IT-инфраструктуры компании](https://habr.com/ru/news/763710/?utm_campaign=763710&utm_source=habrahabr&utm_medium=rss)
-- [Kerbal Space Program 2 заполняет спамом реестр игры в Windows](https://habr.com/ru/news/763694/?utm_campaign=763694&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX начала продавать восстановленные тарелки Starlink за полцены](https://habr.com/ru/news/763690/?utm_campaign=763690&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains объявила о прекращении продления академических персональных лицензий для пользователей из России и Беларуси](https://habr.com/ru/news/763676/?utm_campaign=763676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
