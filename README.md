@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Centerm и «Лаборатория Касперского» начали поставлять кибериммунные тонкие клиенты на базе KasperskyOS](https://habr.com/ru/news/763954/?utm_campaign=763954&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» создаёт автоматизированную систему управления для атомной станции малой мощности в Якутии](https://habr.com/ru/news/763946/?utm_campaign=763946&utm_source=habrahabr&utm_medium=rss)
 - [Атака под названием GPU.zip позволяет с помощью видеокарты пользователя выполнить браузерную атаку с кражей данных](https://habr.com/ru/news/763926/?utm_campaign=763926&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассказала как воспользоваться игровым режимом в macOS Sonoma](https://habr.com/ru/news/763908/?utm_campaign=763908&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies рассказала о новом бэкдоре MataDoor и хакерской группировке Dark River](https://habr.com/ru/news/763898/?utm_campaign=763898&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» предложила ООН создать принципы использования ИИ для обеспечения кибербезопасности](https://habr.com/ru/news/763860/?utm_campaign=763860&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал фестиваль стартапов HSE FEST 2023](https://habr.com/ru/companies/hsespb/news/763844/?utm_campaign=763844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
