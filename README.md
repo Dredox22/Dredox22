@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление по защите данных Финляндии сняло запрет для агрегатора такси Yango на передачу данных в РФ](https://habr.com/ru/news/763702/?utm_campaign=763702&utm_source=habrahabr&utm_medium=rss)
+- [Sony начала проверку заявления хакерской группировки Ransomed.vc о взломе IT-инфраструктуры компании](https://habr.com/ru/news/763710/?utm_campaign=763710&utm_source=habrahabr&utm_medium=rss)
+- [Kerbal Space Program 2 заполняет спамом реестр игры в Windows](https://habr.com/ru/news/763694/?utm_campaign=763694&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX начала продавать восстановленные тарелки Starlink за полцены](https://habr.com/ru/news/763690/?utm_campaign=763690&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains объявила о прекращении продления академических персональных лицензий для пользователей из России и Беларуси](https://habr.com/ru/news/763676/?utm_campaign=763676&utm_source=habrahabr&utm_medium=rss)
-- [Вышла открытая утилита TuxClocker 1.0 для разгона видеокарт Nvidia на Linux](https://habr.com/ru/news/763674/?utm_campaign=763674&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи OpenCore Legacy Patcher получат macOS Sonoma в начале октября](https://habr.com/ru/news/763664/?utm_campaign=763664&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила macOS 14 Sonoma](https://habr.com/ru/news/763654/?utm_campaign=763654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
