@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple рассказала как воспользоваться игровым режимом в macOS Sonoma](https://habr.com/ru/news/763908/?utm_campaign=763908&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies рассказала о новом бэкдоре MataDoor и хакерской группировке Dark River](https://habr.com/ru/news/763898/?utm_campaign=763898&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» предложила ООН создать принципы использования ИИ для обеспечения кибербезопасности](https://habr.com/ru/news/763860/?utm_campaign=763860&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал фестиваль стартапов HSE FEST 2023](https://habr.com/ru/companies/hsespb/news/763844/?utm_campaign=763844&utm_source=habrahabr&utm_medium=rss)
 - [Бастион успешно завершил первую программу стажировки](https://habr.com/ru/companies/bastion/news/763786/?utm_campaign=763786&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг встречался с «ЛайтКом» и заказал независимую технологическую экспертизу по поводу чипов от «Миландра»](https://habr.com/ru/news/763824/?utm_campaign=763824&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на воркшоп — будем писать игру на 1С](https://habr.com/ru/companies/yandex_praktikum/news/763802/?utm_campaign=763802&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
