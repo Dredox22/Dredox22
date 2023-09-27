@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» предложила ООН создать принципы использования ИИ для обеспечения кибербезопасности](https://habr.com/ru/news/763860/?utm_campaign=763860&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал фестиваль стартапов HSE FEST 2023](https://habr.com/ru/companies/hsespb/news/763844/?utm_campaign=763844&utm_source=habrahabr&utm_medium=rss)
 - [Бастион успешно завершил первую программу стажировки](https://habr.com/ru/companies/bastion/news/763786/?utm_campaign=763786&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг встречался с «ЛайтКом» и заказал независимую технологическую экспертизу по поводу чипов от «Миландра»](https://habr.com/ru/news/763824/?utm_campaign=763824&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на воркшоп — будем писать игру на 1С](https://habr.com/ru/companies/yandex_praktikum/news/763802/?utm_campaign=763802&utm_source=habrahabr&utm_medium=rss)
-- [Activision Blizzard уволила часть разработчиков, занимавшихся Hearthstone](https://habr.com/ru/news/763798/?utm_campaign=763798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
