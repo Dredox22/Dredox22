@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг встречался с «ЛайтКом» и заказал независимую технологическую экспертизу по поводу чипов от «Миландра»](https://habr.com/ru/news/763824/?utm_campaign=763824&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на воркшоп — будем писать игру на 1С](https://habr.com/ru/companies/yandex_praktikum/news/763802/?utm_campaign=763802&utm_source=habrahabr&utm_medium=rss)
 - [Activision Blizzard уволила часть разработчиков, занимавшихся Hearthstone](https://habr.com/ru/news/763798/?utm_campaign=763798&utm_source=habrahabr&utm_medium=rss)
 - [IBS запускает новое бизнес-направление — «Кибербезопасность»](https://habr.com/ru/companies/ibs/news/763750/?utm_campaign=763750&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили утилиту Containers, позволяющую запускать контейнеры macOS в самой macOS](https://habr.com/ru/news/763746/?utm_campaign=763746&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: поколение Z поддаётся на уловки онлайн-мошенников чаще старших](https://habr.com/ru/news/763738/?utm_campaign=763738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
