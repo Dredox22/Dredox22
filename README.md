@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Утилита NearDrop теперь поддерживает передачу файлов с macOS на Android](https://habr.com/ru/news/764186/?utm_campaign=764186&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX заключила первый контракт с Космическими силами США](https://habr.com/ru/news/764150/?utm_campaign=764150&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Нанософт» приняла участие в мероприятии Яндекс «IT Talks 2023: как технологии развивают рынок недвижимости»](https://habr.com/ru/companies/nanosoft/news/764146/?utm_campaign=764146&utm_source=habrahabr&utm_medium=rss)
 - [Поиск по изображениям, видео и новостям теперь доступен в API Поиска Brave](https://habr.com/ru/companies/brave/news/762890/?utm_campaign=762890&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp анонсировал появление в мессенджере ИИ-ассистента](https://habr.com/ru/news/764132/?utm_campaign=764132&utm_source=habrahabr&utm_medium=rss)
-- [В системе бронирования «Аэрофлота» произошёл сбой, «Ростех» объяснил его кибератакой](https://habr.com/ru/news/764100/?utm_campaign=764100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
