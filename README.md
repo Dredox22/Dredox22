@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В рабочем порядке: аудиторы F.A.C.C.T. проверили безопасность корпоративного коммуникатора ANWORK](https://habr.com/ru/companies/f_a_c_c_t/news/763324/?utm_campaign=763324&utm_source=habrahabr&utm_medium=rss)
+- [Представлен Raspberry Pi 5, версия с 8 ГБ ОЗУ стоит $80](https://habr.com/ru/news/764012/?utm_campaign=764012&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку офлайн-карт в Windows 11](https://habr.com/ru/news/764004/?utm_campaign=764004&utm_source=habrahabr&utm_medium=rss)
+- [Пользователю предложили сделать предзаказ на Raspberry Pi 5 и прислали описание нового микрокомпьютера](https://habr.com/ru/news/764006/?utm_campaign=764006&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Counter-Strike 2](https://habr.com/ru/news/763998/?utm_campaign=763998&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT теперь может искать в Интернете актуальную информацию, чат-бот больше не ограничивается 2021 годом](https://habr.com/ru/news/763972/?utm_campaign=763972&utm_source=habrahabr&utm_medium=rss)
-- [РусАТ и УдГУ открыли Центр аддитивных технологий общего доступа](https://habr.com/ru/news/763966/?utm_campaign=763966&utm_source=habrahabr&utm_medium=rss)
-- [«Швабе» поставил зеркало для самого большого телескопа Алтайского оптико‑лазерного центра](https://habr.com/ru/news/763964/?utm_campaign=763964&utm_source=habrahabr&utm_medium=rss)
-- [Centerm и «Лаборатория Касперского» начали поставлять кибериммунные тонкие клиенты на базе KasperskyOS](https://habr.com/ru/news/763954/?utm_campaign=763954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
