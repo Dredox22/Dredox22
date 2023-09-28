@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral AI выпустила открытую языковую модель, которой можно пользоваться бесплатно через API и локально](https://habr.com/ru/news/764242/?utm_campaign=764242&utm_source=habrahabr&utm_medium=rss)
 - [К2Тех заместил платформу IBM на шину собственной разработки для международного банка](https://habr.com/ru/companies/k2tech/news/764228/?utm_campaign=764228&utm_source=habrahabr&utm_medium=rss)
 - [Утилита NearDrop теперь поддерживает передачу файлов с macOS на Android](https://habr.com/ru/news/764186/?utm_campaign=764186&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX заключила первый контракт с Космическими силами США](https://habr.com/ru/news/764150/?utm_campaign=764150&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Нанософт» приняла участие в мероприятии Яндекс «IT Talks 2023: как технологии развивают рынок недвижимости»](https://habr.com/ru/companies/nanosoft/news/764146/?utm_campaign=764146&utm_source=habrahabr&utm_medium=rss)
-- [Поиск по изображениям, видео и новостям теперь доступен в API Поиска Brave](https://habr.com/ru/companies/brave/news/762890/?utm_campaign=762890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
