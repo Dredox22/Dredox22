@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Counter-Strike 2](https://habr.com/ru/news/763998/?utm_campaign=763998&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь может искать в Интернете актуальную информацию, чат-бот больше не ограничивается 2021 годом](https://habr.com/ru/news/763972/?utm_campaign=763972&utm_source=habrahabr&utm_medium=rss)
 - [РусАТ и УдГУ открыли Центр аддитивных технологий общего доступа](https://habr.com/ru/news/763966/?utm_campaign=763966&utm_source=habrahabr&utm_medium=rss)
 - [«Швабе» поставил зеркало для самого большого телескопа Алтайского оптико‑лазерного центра](https://habr.com/ru/news/763964/?utm_campaign=763964&utm_source=habrahabr&utm_medium=rss)
 - [Centerm и «Лаборатория Касперского» начали поставлять кибериммунные тонкие клиенты на базе KasperskyOS](https://habr.com/ru/news/763954/?utm_campaign=763954&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» создаёт автоматизированную систему управления для атомной станции малой мощности в Якутии](https://habr.com/ru/news/763946/?utm_campaign=763946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
