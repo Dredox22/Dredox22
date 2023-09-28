@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В системе бронирования «Аэрофлота» произошёл сбой, «Ростех» объяснил его кибератакой](https://habr.com/ru/news/764100/?utm_campaign=764100&utm_source=habrahabr&utm_medium=rss)
 - [Заходи к нам, путник, на Alfa Frontend Meetup #2](https://habr.com/ru/companies/alfa/news/764090/?utm_campaign=764090&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» по указанию РКН начал маркировать в поисковой выдаче сайты хостинг-провайдеров, нарушающие законодательство РФ](https://habr.com/ru/news/764050/?utm_campaign=764050&utm_source=habrahabr&utm_medium=rss)
 - [Micron Technology представила свою новую HBM3E память для вычислительных систем](https://habr.com/ru/companies/dcmiran/news/764048/?utm_campaign=764048&utm_source=habrahabr&utm_medium=rss)
 - [Агрегатор данных от хакеров предложил $20 млн за 0-day уязвимости на Android и iOS](https://habr.com/ru/news/764030/?utm_campaign=764030&utm_source=habrahabr&utm_medium=rss)
-- [Тесты Raspberry Pi 5 показали значительный прирост производительности по сравнению с Raspberry Pi 4](https://habr.com/ru/news/764032/?utm_campaign=764032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
