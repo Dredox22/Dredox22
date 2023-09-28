@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Агрегатор данных от хакеров предложил $20 млн за 0-day уязвимости на Android и iOS](https://habr.com/ru/news/764030/?utm_campaign=764030&utm_source=habrahabr&utm_medium=rss)
+- [Тесты Raspberry Pi 5 показали значительный прирост производительности по сравнению с Raspberry Pi 4](https://habr.com/ru/news/764032/?utm_campaign=764032&utm_source=habrahabr&utm_medium=rss)
+- [Стала доступна веб-версия Adobe Photoshop с инструментами на базе ИИ](https://habr.com/ru/news/764020/?utm_campaign=764020&utm_source=habrahabr&utm_medium=rss)
 - [В рабочем порядке: аудиторы F.A.C.C.T. проверили безопасность корпоративного коммуникатора ANWORK](https://habr.com/ru/companies/f_a_c_c_t/news/763324/?utm_campaign=763324&utm_source=habrahabr&utm_medium=rss)
 - [Представлен Raspberry Pi 5, версия с 8 ГБ ОЗУ стоит $80](https://habr.com/ru/news/764012/?utm_campaign=764012&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку офлайн-карт в Windows 11](https://habr.com/ru/news/764004/?utm_campaign=764004&utm_source=habrahabr&utm_medium=rss)
-- [Пользователю предложили сделать предзаказ на Raspberry Pi 5 и прислали описание нового микрокомпьютера](https://habr.com/ru/news/764006/?utm_campaign=764006&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Counter-Strike 2](https://habr.com/ru/news/763998/?utm_campaign=763998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
