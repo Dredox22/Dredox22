@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за глобального сбоя в IT-инфраструктуре заводы Volkswagen и Audi остановили работу](https://habr.com/ru/news/764488/?utm_campaign=764488&utm_source=habrahabr&utm_medium=rss)
 - [Илья Поляков: как мы выявили уязвимость в 6 версиях FortiNAC и получили за это премию Pentest Awards](https://habr.com/ru/companies/angarasecurity/news/764436/?utm_campaign=764436&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи macOS не могут запустить Counter-Strike 2, а в техподдержке Steam не обещают обновлений по этому вопросу](https://habr.com/ru/news/764400/?utm_campaign=764400&utm_source=habrahabr&utm_medium=rss)
 - [Системы искусственного интеллекта Smart Engines помогут идентифицировать клиентов хостингов](https://habr.com/ru/companies/smartengines/news/764398/?utm_campaign=764398&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обсуждает с ЦБ начисление процентов на электронные кошельки](https://habr.com/ru/news/764362/?utm_campaign=764362&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые запросы пользователей чат-боту Bard доступны в поисковых системах, включая Google, Bing и «Яндекс»](https://habr.com/ru/news/764348/?utm_campaign=764348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
