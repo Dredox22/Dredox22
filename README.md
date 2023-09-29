@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Президент РФ подписал закон об увеличении стоимости лицензии оператора связи до 1 млн рублей &lpar;ранее 7,5 тыс. рублей&rpar;](https://habr.com/ru/news/764328/?utm_campaign=764328&utm_source=habrahabr&utm_medium=rss)
+- [Red Hat перешла на Jira в системе отслеживания ошибок в ПО Bugzilla](https://habr.com/ru/news/764312/?utm_campaign=764312&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс», VK, «Ростелеком», «МегаФон» не поддержали законопроект о контроле силовиков за базами персональных данных](https://habr.com/ru/news/764324/?utm_campaign=764324&utm_source=habrahabr&utm_medium=rss)
+- [В Okko вышел документальный сериал «История российских компьютерных игр»](https://habr.com/ru/news/764322/?utm_campaign=764322&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Bing генерирует ответы с рекламой вредоносного ПО](https://habr.com/ru/news/764296/?utm_campaign=764296&utm_source=habrahabr&utm_medium=rss)
-- [Sega объявила о реструктуризации европейских подразделений и снижении затрат на студии](https://habr.com/ru/news/764294/?utm_campaign=764294&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp прекратит работать на смартфонах с Android ниже 5.0 с 24 октября](https://habr.com/ru/news/764288/?utm_campaign=764288&utm_source=habrahabr&utm_medium=rss)
-- [Обновление браузера Arc: режим энергосбережения, улучшенный интерфейс и заметки](https://habr.com/ru/news/764270/?utm_campaign=764270&utm_source=habrahabr&utm_medium=rss)
-- [Ассоциация Разработчиков и Производителей Электроники РФ выпустила открытое письмо в поддержку «ЛайтКом» и «Миландр»](https://habr.com/ru/news/764262/?utm_campaign=764262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
