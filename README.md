@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Чат-бот Bing генерирует ответы с рекламой вредоносного ПО](https://habr.com/ru/news/764296/?utm_campaign=764296&utm_source=habrahabr&utm_medium=rss)
+- [Sega объявила о реструктуризации европейских подразделений и снижении затрат на студии](https://habr.com/ru/news/764294/?utm_campaign=764294&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp прекратит работать на смартфонах с Android ниже 5.0 с 24 октября](https://habr.com/ru/news/764288/?utm_campaign=764288&utm_source=habrahabr&utm_medium=rss)
 - [Обновление браузера Arc: режим энергосбережения, улучшенный интерфейс и заметки](https://habr.com/ru/news/764270/?utm_campaign=764270&utm_source=habrahabr&utm_medium=rss)
 - [Ассоциация Разработчиков и Производителей Электроники РФ выпустила открытое письмо в поддержку «ЛайтКом» и «Миландр»](https://habr.com/ru/news/764262/?utm_campaign=764262&utm_source=habrahabr&utm_medium=rss)
-- [Mistral AI выпустила открытую языковую модель, которой можно пользоваться бесплатно через API и локально](https://habr.com/ru/news/764242/?utm_campaign=764242&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех заместил платформу IBM на шину собственной разработки для международного банка](https://habr.com/ru/companies/k2tech/news/764228/?utm_campaign=764228&utm_source=habrahabr&utm_medium=rss)
-- [Утилита NearDrop теперь поддерживает передачу файлов с macOS на Android](https://habr.com/ru/news/764186/?utm_campaign=764186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
