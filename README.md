@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи macOS не могут запустить Counter-Strike 2, а в техподдержке Steam не обещают обновлений по этому вопросу](https://habr.com/ru/news/764400/?utm_campaign=764400&utm_source=habrahabr&utm_medium=rss)
+- [Системы искусственного интеллекта Smart Engines помогут идентифицировать клиентов хостингов](https://habr.com/ru/companies/smartengines/news/764398/?utm_campaign=764398&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обсуждает с ЦБ начисление процентов на электронные кошельки](https://habr.com/ru/news/764362/?utm_campaign=764362&utm_source=habrahabr&utm_medium=rss)
 - [Некоторые запросы пользователей чат-боту Bard доступны в поисковых системах, включая Google, Bing и «Яндекс»](https://habr.com/ru/news/764348/?utm_campaign=764348&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал закон об увеличении стоимости лицензии оператора связи до 1 млн рублей &lpar;ранее 7,5 тыс. рублей&rpar;](https://habr.com/ru/news/764328/?utm_campaign=764328&utm_source=habrahabr&utm_medium=rss)
-- [Red Hat перешла на Jira в системе отслеживания ошибок в ПО Bugzilla](https://habr.com/ru/news/764312/?utm_campaign=764312&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс», VK, «Ростелеком», «МегаФон» не поддержали законопроект о контроле силовиков за базами персональных данных](https://habr.com/ru/news/764324/?utm_campaign=764324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
