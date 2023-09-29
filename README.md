@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Некоторые запросы пользователей чат-боту Bard доступны в поисковых системах, включая Google, Bing и «Яндекс»](https://habr.com/ru/news/764348/?utm_campaign=764348&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал закон об увеличении стоимости лицензии оператора связи до 1 млн рублей &lpar;ранее 7,5 тыс. рублей&rpar;](https://habr.com/ru/news/764328/?utm_campaign=764328&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat перешла на Jira в системе отслеживания ошибок в ПО Bugzilla](https://habr.com/ru/news/764312/?utm_campaign=764312&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс», VK, «Ростелеком», «МегаФон» не поддержали законопроект о контроле силовиков за базами персональных данных](https://habr.com/ru/news/764324/?utm_campaign=764324&utm_source=habrahabr&utm_medium=rss)
 - [В Okko вышел документальный сериал «История российских компьютерных игр»](https://habr.com/ru/news/764322/?utm_campaign=764322&utm_source=habrahabr&utm_medium=rss)
-- [Чат-бот Bing генерирует ответы с рекламой вредоносного ПО](https://habr.com/ru/news/764296/?utm_campaign=764296&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
