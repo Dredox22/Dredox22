@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Солар» рассказал о новых таргетированных схемах фишинговых атак](https://habr.com/ru/news/764546/?utm_campaign=764546&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над «веб-ориентированным» вариантом Windows 12](https://habr.com/ru/news/764528/?utm_campaign=764528&utm_source=habrahabr&utm_medium=rss)
 - [Proton представляет «первую в мире» устойчивую к цензуре CAPTCHA](https://habr.com/ru/news/764524/?utm_campaign=764524&utm_source=habrahabr&utm_medium=rss)
 - [Блогер Горшенин нашёл, для чего нужен чип от «Миландра» в мониторах «Лайтком»](https://habr.com/ru/news/764516/?utm_campaign=764516&utm_source=habrahabr&utm_medium=rss)
 - [Из-за глобального сбоя в IT-инфраструктуре заводы Volkswagen и Audi остановили работу](https://habr.com/ru/news/764488/?utm_campaign=764488&utm_source=habrahabr&utm_medium=rss)
-- [Илья Поляков: как мы выявили уязвимость в 6 версиях FortiNAC и получили за это премию Pentest Awards](https://habr.com/ru/companies/angarasecurity/news/764436/?utm_campaign=764436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
