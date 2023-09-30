@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты Tom&#39;s Hardware разогнали Raspberry Pi 5 на 25% &lpar;CPU до 3 ГГц, GPU до 1,1 ГГц&rpar;](https://habr.com/ru/news/764580/?utm_campaign=764580&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» рассказал о новых таргетированных схемах фишинговых атак](https://habr.com/ru/news/764546/?utm_campaign=764546&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над «веб-ориентированным» вариантом Windows 12](https://habr.com/ru/news/764528/?utm_campaign=764528&utm_source=habrahabr&utm_medium=rss)
 - [Proton представляет «первую в мире» устойчивую к цензуре CAPTCHA](https://habr.com/ru/news/764524/?utm_campaign=764524&utm_source=habrahabr&utm_medium=rss)
 - [Блогер Горшенин нашёл, для чего нужен чип от «Миландра» в мониторах «Лайтком»](https://habr.com/ru/news/764516/?utm_campaign=764516&utm_source=habrahabr&utm_medium=rss)
-- [Из-за глобального сбоя в IT-инфраструктуре заводы Volkswagen и Audi остановили работу](https://habr.com/ru/news/764488/?utm_campaign=764488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
