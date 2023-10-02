@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Собираемся на VK Tech Talks · AI Research в Петербурге](https://habr.com/ru/companies/vk/news/764842/?utm_campaign=764842&utm_source=habrahabr&utm_medium=rss)
+- [Итоги Codemasters Code Cup 2023 года](https://habr.com/ru/news/764832/?utm_campaign=764832&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Астра» развернула в Москва‑Сити демостенд с мобильными устройствами на Astra Linux](https://habr.com/ru/news/764808/?utm_campaign=764808&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть «Яндекса» теперь помогает обучаться программированию](https://habr.com/ru/news/764806/?utm_campaign=764806&utm_source=habrahabr&utm_medium=rss)
 - [Ozon и VK объявили о сотрудничестве в рамках развития проекта оболочки Ozon TV для умных ТВ](https://habr.com/ru/news/764788/?utm_campaign=764788&utm_source=habrahabr&utm_medium=rss)
-- [Модуль Wi-Fi в Raspberry Pi 5 работает до 3 раз быстрее Raspberry Pi 4, но только при небольшом расстоянии от роутера](https://habr.com/ru/news/764760/?utm_campaign=764760&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь чат-бота Bing обошёл запрет для ИИ на распознавание капчи при анализе текста по картинке](https://habr.com/ru/news/764736/?utm_campaign=764736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
