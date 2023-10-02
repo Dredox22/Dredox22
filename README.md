@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Видео со Scala Meetup: моделирование данных, Vertical Slice архитектура, распределенные транзакции в микросервисах](https://habr.com/ru/companies/m2tech/news/764774/?utm_campaign=764774&utm_source=habrahabr&utm_medium=rss)
+- [«Цифровая экономика» предложила создать оператора для лицензирования мобильного ПО и сервисов](https://habr.com/ru/news/764864/?utm_campaign=764864&utm_source=habrahabr&utm_medium=rss)
 - [Собираемся на VK Tech Talks · AI Research в Петербурге](https://habr.com/ru/companies/vk/news/764842/?utm_campaign=764842&utm_source=habrahabr&utm_medium=rss)
 - [Итоги Codemasters Code Cup 2023 года](https://habr.com/ru/news/764832/?utm_campaign=764832&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Астра» развернула в Москва‑Сити демостенд с мобильными устройствами на Astra Linux](https://habr.com/ru/news/764808/?utm_campaign=764808&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть «Яндекса» теперь помогает обучаться программированию](https://habr.com/ru/news/764806/?utm_campaign=764806&utm_source=habrahabr&utm_medium=rss)
-- [Ozon и VK объявили о сотрудничестве в рамках развития проекта оболочки Ozon TV для умных ТВ](https://habr.com/ru/news/764788/?utm_campaign=764788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
