@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь чат-бота Bing обошёл запрет для ИИ на распознавание капчи при анализе текста по картинке](https://habr.com/ru/news/764736/?utm_campaign=764736&utm_source=habrahabr&utm_medium=rss)
+- [Amazon по ошибке отправил пользователям спам-письма](https://habr.com/ru/news/764724/?utm_campaign=764724&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи с ПК на Windows 7 получают блокировку в Counter-Strike 2, якобы, из-за за использования читерского ПО](https://habr.com/ru/news/764728/?utm_campaign=764728&utm_source=habrahabr&utm_medium=rss)
+- [Как отключить Windows Copilot после установки обновления Windows 11: инструкция](https://habr.com/ru/news/764722/?utm_campaign=764722&utm_source=habrahabr&utm_medium=rss)
 - [Защиту Cloudflare от DDoS обошли с помощью Cloudflare](https://habr.com/ru/news/764720/?utm_campaign=764720&utm_source=habrahabr&utm_medium=rss)
-- [Двухфакторная аутентификация на «Госуслугах» стала обязательной для новых пользователей и при восстановлении пароля](https://habr.com/ru/news/764676/?utm_campaign=764676&utm_source=habrahabr&utm_medium=rss)
-- [Apple признала проблему перегрева iPhone 15 Pro и iPhone 15 Pro Max и выпустит обновление iOS 17 для её устранения](https://habr.com/ru/news/764624/?utm_campaign=764624&utm_source=habrahabr&utm_medium=rss)
-- [Google представила токен Google-Extended для файла robots.txt, который отключает использование сайта для обучения ИИ](https://habr.com/ru/news/764620/?utm_campaign=764620&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты Tom&#39;s Hardware разогнали Raspberry Pi 5 на 25% &lpar;CPU до 3 ГГц, GPU до 1,1 ГГц&rpar;](https://habr.com/ru/news/764580/?utm_campaign=764580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
