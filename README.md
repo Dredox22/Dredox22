@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Модуль Wi-Fi в Raspberry Pi 5 работает до 3 раз быстрее Raspberry Pi 4, но только при небольшом расстоянии от роутера](https://habr.com/ru/news/764760/?utm_campaign=764760&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь чат-бота Bing обошёл запрет для ИИ на распознавание капчи при анализе текста по картинке](https://habr.com/ru/news/764736/?utm_campaign=764736&utm_source=habrahabr&utm_medium=rss)
 - [Amazon по ошибке отправил пользователям спам-письма](https://habr.com/ru/news/764724/?utm_campaign=764724&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи с ПК на Windows 7 получают блокировку в Counter-Strike 2, якобы, из-за за использования читерского ПО](https://habr.com/ru/news/764728/?utm_campaign=764728&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи с ПК на Windows 7 получают блокировку в Counter-Strike 2 якобы из-за за использования читерского ПО](https://habr.com/ru/news/764728/?utm_campaign=764728&utm_source=habrahabr&utm_medium=rss)
 - [Как отключить Windows Copilot после установки обновления Windows 11: инструкция](https://habr.com/ru/news/764722/?utm_campaign=764722&utm_source=habrahabr&utm_medium=rss)
-- [Защиту Cloudflare от DDoS обошли с помощью Cloudflare](https://habr.com/ru/news/764720/?utm_campaign=764720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
