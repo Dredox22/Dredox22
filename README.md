@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Старые модели Mac могут получить macOS Sonoma благодаря релизу OpenCore Legacy Patcher](https://habr.com/ru/news/764934/?utm_campaign=764934&utm_source=habrahabr&utm_medium=rss)
 - [В Team17 вторая волна сокращений за год, включая гендиректора и 50 тестировщиков](https://habr.com/ru/news/764914/?utm_campaign=764914&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/764878/?utm_campaign=764878&utm_source=habrahabr&utm_medium=rss)
 - [Видео со Scala Meetup: моделирование данных, Vertical Slice архитектура, распределенные транзакции в микросервисах](https://habr.com/ru/companies/m2tech/news/764774/?utm_campaign=764774&utm_source=habrahabr&utm_medium=rss)
 - [«Цифровая экономика» предложила создать оператора для лицензирования мобильного ПО и сервисов](https://habr.com/ru/news/764864/?utm_campaign=764864&utm_source=habrahabr&utm_medium=rss)
-- [Собираемся на VK Tech Talks · AI Research в Петербурге](https://habr.com/ru/companies/vk/news/764842/?utm_campaign=764842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
