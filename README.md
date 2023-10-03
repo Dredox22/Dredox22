@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Совфеде попросили Минцифры закрыть на платформе RuStore доступ к заблокированным VPN-сервисам в РФ](https://habr.com/ru/news/764960/?utm_campaign=764960&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia опубликовала «закон Хуанга» в области вычислений](https://habr.com/ru/news/764956/?utm_campaign=764956&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Microsoft Lists стал доступен на iOS, Android и в веб-версии](https://habr.com/ru/news/764954/?utm_campaign=764954&utm_source=habrahabr&utm_medium=rss)
-- [Windows Defender блокировал файл tor.exe как трояна из сборки TorBrowser 12.5.6, в Tor Project разрешили эту проблему](https://habr.com/ru/news/764952/?utm_campaign=764952&utm_source=habrahabr&utm_medium=rss)
-- [В серийное производство запущен 17,6&amp;quot; ноутбук «Гравитон» в металлическом корпусе](https://habr.com/ru/news/764950/?utm_campaign=764950&utm_source=habrahabr&utm_medium=rss)
+- [Онлайн-площадки РФ начали раскрывать принципы работы своих рекомендательных алгоритмов](https://habr.com/ru/news/764976/?utm_campaign=764976&utm_source=habrahabr&utm_medium=rss)
+- [Moscow Hacking Week: как изменится грядущий Standoff](https://habr.com/ru/companies/pt/news/764966/?utm_campaign=764966&utm_source=habrahabr&utm_medium=rss)
+- [Kubernetes-платформе Deckhouse от «Фланта» исполнилось 6 лет](https://habr.com/ru/companies/flant/news/764964/?utm_campaign=764964&utm_source=habrahabr&utm_medium=rss)
+- [Робототехники из Японии создали «роботов-волков» Super Monster Wolf для распугивания диких животных и охраны ферм](https://habr.com/ru/news/764980/?utm_campaign=764980&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Azure прекратит поддержку MariaDB 19 сентября 2025 года](https://habr.com/ru/news/764970/?utm_campaign=764970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
