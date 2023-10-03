@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve начала процесс разблокирования в Steam пользователей с ПК на Windows 7 в Counter-Strike 2](https://habr.com/ru/news/765114/?utm_campaign=765114&utm_source=habrahabr&utm_medium=rss)
+- [СМИ и интернет издания рассказали о схожем дизайне российского смартфона «Р‑ФОН» и бангладешского Symphony Helio 80](https://habr.com/ru/news/765106/?utm_campaign=765106&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекращает поддержку Windows Server 2012 и 2012 R2 с 10 октября 2023 года](https://habr.com/ru/news/765102/?utm_campaign=765102&utm_source=habrahabr&utm_medium=rss)
 - [Каждый второй ПК и каждый четвёртый ноутбук в России продаются без предустановленных ОС](https://habr.com/ru/news/765094/?utm_campaign=765094&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Кембриджа обновили интерактивную карту убийств позднего Средневековья: самым опасным местом назван Оксфорд](https://habr.com/ru/news/765078/?utm_campaign=765078&utm_source=habrahabr&utm_medium=rss)
-- [Подборка докладов с ML-митапа: инфраструктура, дрифты модели, компьютерное зрение](https://habr.com/ru/companies/selectel/news/765070/?utm_campaign=765070&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость ОС «Альт» с устройствами Рутокен](https://habr.com/ru/companies/basealtspo/news/765052/?utm_campaign=765052&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Безопасность в облаке 2 в 1: практическая и бумажная»](https://habr.com/ru/companies/nubes/news/765026/?utm_campaign=765026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
