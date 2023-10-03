@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи Кембриджа обновили интерактивную карту убийств позднего Средневековья: самым опасным местом назван Оксфорд](https://habr.com/ru/news/765078/?utm_campaign=765078&utm_source=habrahabr&utm_medium=rss)
+- [Подборка докладов с ML-митапа: инфраструктура, дрифты модели, компьютерное зрение](https://habr.com/ru/companies/selectel/news/765070/?utm_campaign=765070&utm_source=habrahabr&utm_medium=rss)
 - [Подтверждена совместимость ОС «Альт» с устройствами Рутокен](https://habr.com/ru/companies/basealtspo/news/765052/?utm_campaign=765052&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Безопасность в облаке 2 в 1: практическая и бумажная»](https://habr.com/ru/companies/nubes/news/765026/?utm_campaign=765026&utm_source=habrahabr&utm_medium=rss)
 - [Онлайн-площадки РФ начали раскрывать принципы работы своих рекомендательных алгоритмов](https://habr.com/ru/news/764976/?utm_campaign=764976&utm_source=habrahabr&utm_medium=rss)
-- [Moscow Hacking Week: как изменится грядущий Standoff](https://habr.com/ru/companies/pt/news/764966/?utm_campaign=764966&utm_source=habrahabr&utm_medium=rss)
-- [Kubernetes-платформе Deckhouse от «Фланта» исполнилось 6 лет](https://habr.com/ru/companies/flant/news/764964/?utm_campaign=764964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
