@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Совфеде попросили Минцифры закрыть на платформе RuStore доступ к заблокированным VPN-сервисам в РФ](https://habr.com/ru/news/764960/?utm_campaign=764960&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia опубликовала «закон Хуанга» в области вычислений](https://habr.com/ru/news/764956/?utm_campaign=764956&utm_source=habrahabr&utm_medium=rss)
+- [Сервис Microsoft Lists стал доступен на iOS, Android и в веб-версии](https://habr.com/ru/news/764954/?utm_campaign=764954&utm_source=habrahabr&utm_medium=rss)
 - [Windows Defender блокировал файл tor.exe как трояна из сборки TorBrowser 12.5.6, в Tor Project разрешили эту проблему](https://habr.com/ru/news/764952/?utm_campaign=764952&utm_source=habrahabr&utm_medium=rss)
 - [В серийное производство запущен 17,6&amp;quot; ноутбук «Гравитон» в металлическом корпусе](https://habr.com/ru/news/764950/?utm_campaign=764950&utm_source=habrahabr&utm_medium=rss)
-- [Старые модели Mac могут получить macOS Sonoma благодаря релизу OpenCore Legacy Patcher](https://habr.com/ru/news/764934/?utm_campaign=764934&utm_source=habrahabr&utm_medium=rss)
-- [В Team17 вторая волна сокращений за год, включая гендиректора и 50 тестировщиков](https://habr.com/ru/news/764914/?utm_campaign=764914&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/764878/?utm_campaign=764878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
