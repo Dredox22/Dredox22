@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для хранения исходного кода российских программ к 2027 году в РФ планируется создать систему защищённых репозиториев](https://habr.com/ru/news/765244/?utm_campaign=765244&utm_source=habrahabr&utm_medium=rss)
+- [Защита электронных документов — ОС «Альт» совместимы с КриптоАРМ ГОСТ 3 от компании «Цифровые технологии»](https://habr.com/ru/companies/basealtspo/news/765238/?utm_campaign=765238&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты пояснили СМИ подробности возникновения причин нештатной ситуации на станции «Луна-25», приведших к аварии](https://habr.com/ru/news/765186/?utm_campaign=765186&utm_source=habrahabr&utm_medium=rss)
 - [В России организаторов распространения информации &lpar;ОРИ&rpar; обяжут передавать данные о платежах и геолокации спецслужбам](https://habr.com/ru/news/765180/?utm_campaign=765180&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft стала предлагать пользователям поиграть в Surf &lpar;аналог SkiFree&rpar; в процессе установки Windows 11](https://habr.com/ru/news/765134/?utm_campaign=765134&utm_source=habrahabr&utm_medium=rss)
-- [Грантовая программа Fresh Code 2023 от VK Mini Apps](https://habr.com/ru/companies/vk/news/765124/?utm_campaign=765124&utm_source=habrahabr&utm_medium=rss)
-- [Smart Engines разработала систему обнаружения поддельных документов граждан СНГ](https://habr.com/ru/companies/smartengines/news/765118/?utm_campaign=765118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
