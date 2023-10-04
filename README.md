@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила обновление iOS 17.0.3, где программно решена проблема перегрева iPhone 15 Pro и iPhone 15 Pro Max](https://habr.com/ru/news/765394/?utm_campaign=765394&utm_source=habrahabr&utm_medium=rss)
 - [Группа исследователей Sony считает, что алгоритмы ИИ предвзято относятся к людям с кожей жёлтого оттенка](https://habr.com/ru/news/765374/?utm_campaign=765374&utm_source=habrahabr&utm_medium=rss)
 - [Опрос ГК «Солар»: 75% российских компаний планируют проводить киберучения для повышения квалификации ИБ-специалистов](https://habr.com/ru/news/765368/?utm_campaign=765368&utm_source=habrahabr&utm_medium=rss)
 - [Московская компания «Рокор» разработала технологию производства монокристаллических пластин из оксида галлия](https://habr.com/ru/news/765356/?utm_campaign=765356&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи iPhone 15 столкнулись с проблемами в работе динамиков смартфонов, включая хрип и треск](https://habr.com/ru/news/765346/?utm_campaign=765346&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Steam Deck жалуются на Counter-Strike 2 — игра выдаёт всего 25-30 кадров в секунду](https://habr.com/ru/news/765336/?utm_campaign=765336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
