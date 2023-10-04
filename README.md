@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи iPhone 15 столкнулись с проблемами в работе динамиков смартфонов, включая хрип и треск](https://habr.com/ru/news/765346/?utm_campaign=765346&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Steam Deck жалуются на Counter-Strike 2 — игра выдаёт всего 25-30 кадров в секунду](https://habr.com/ru/news/765336/?utm_campaign=765336&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст обнаружил в прошивке советского калькулятора «МК-51» признаки копирования кода из ПЗУ Casio FX-2500](https://habr.com/ru/news/765316/?utm_campaign=765316&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики браузера Arc представили Max — набор ИИ-функций](https://habr.com/ru/news/765312/?utm_campaign=765312&utm_source=habrahabr&utm_medium=rss)
 - [Для хранения исходного кода российских программ к 2027 году в РФ планируется создать систему защищённых репозиториев](https://habr.com/ru/news/765244/?utm_campaign=765244&utm_source=habrahabr&utm_medium=rss)
-- [Защита электронных документов — ОС «Альт» совместимы с КриптоАРМ ГОСТ 3 от компании «Цифровые технологии»](https://habr.com/ru/companies/basealtspo/news/765238/?utm_campaign=765238&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты пояснили СМИ подробности возникновения причин нештатной ситуации на станции «Луна-25», приведших к аварии](https://habr.com/ru/news/765186/?utm_campaign=765186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
