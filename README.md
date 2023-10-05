@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi частично восстановила работу экосистемы умный дом и приложения Mi Home для российских пользователей](https://habr.com/ru/news/765618/?utm_campaign=765618&utm_source=habrahabr&utm_medium=rss)
 - [Serverspace добавил поддержку новой версии Debian 12 «Bookworm»](https://habr.com/ru/companies/serverspace/news/765518/?utm_campaign=765518&utm_source=habrahabr&utm_medium=rss)
 - [Прошло два года после релиза Windows 11, а Windows 10 по-прежнему более популярна у пользователей](https://habr.com/ru/news/765564/?utm_campaign=765564&utm_source=habrahabr&utm_medium=rss)
 - [В закрытом альфа-тесте отечественного игрового движка Nau Engine примут участие 20 студий](https://habr.com/ru/news/765528/?utm_campaign=765528&utm_source=habrahabr&utm_medium=rss)
 - [ОС «Альт Образование» совместима с интерактивной панелью EliteBoard — учиться станет еще интереснее](https://habr.com/ru/companies/basealtspo/news/765516/?utm_campaign=765516&utm_source=habrahabr&utm_medium=rss)
-- [С 3 октября «Ростелеком» официально является владельцем 99,9% разработчика ОС «Аврора»](https://habr.com/ru/news/765514/?utm_campaign=765514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
