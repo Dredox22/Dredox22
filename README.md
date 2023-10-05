@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В закрытом альфа-тесте отечественного игрового движка Nau Engine примут участие 20 студий](https://habr.com/ru/news/765528/?utm_campaign=765528&utm_source=habrahabr&utm_medium=rss)
+- [ОС «Альт Образование» совместима с интерактивной панелью EliteBoard — учиться станет еще интереснее](https://habr.com/ru/companies/basealtspo/news/765516/?utm_campaign=765516&utm_source=habrahabr&utm_medium=rss)
+- [С 3 октября «Ростелеком» официально является владельцем 99,9% разработчика ОС «Аврора»](https://habr.com/ru/news/765514/?utm_campaign=765514&utm_source=habrahabr&utm_medium=rss)
 - [Как улучшить BI-ландшафт с помощью решения на основе NLP: Easy Report на конференции Tadviser](https://habr.com/ru/companies/sapiens_solutions/news/765500/?utm_campaign=765500&utm_source=habrahabr&utm_medium=rss)
 - [Unreal Engine предложит новую ценовую модель для неигровых разработчиков](https://habr.com/ru/news/765488/?utm_campaign=765488&utm_source=habrahabr&utm_medium=rss)
-- [Росстандарт опубликовал ГОСТ для применения ИИ при распознавании состояний и действий водителей автобусов и такси](https://habr.com/ru/news/765456/?utm_campaign=765456&utm_source=habrahabr&utm_medium=rss)
-- [Google представила смартфоны Pixel 8 и Pixel 8 Pro](https://habr.com/ru/news/765450/?utm_campaign=765450&utm_source=habrahabr&utm_medium=rss)
-- [Полицейские в Словакии оштрафовали за превышение скорости владельца Škoda Kamiq, в машине за рулём по фото была собака](https://habr.com/ru/news/765444/?utm_campaign=765444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
