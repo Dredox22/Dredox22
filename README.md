@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverspace добавил поддержку новой версии Debian 12 «Bookworm»](https://habr.com/ru/companies/serverspace/news/765518/?utm_campaign=765518&utm_source=habrahabr&utm_medium=rss)
+- [Прошло два года после релиза Windows 11, а Windows 10 по-прежнему более популярна у пользователей](https://habr.com/ru/news/765564/?utm_campaign=765564&utm_source=habrahabr&utm_medium=rss)
 - [В закрытом альфа-тесте отечественного игрового движка Nau Engine примут участие 20 студий](https://habr.com/ru/news/765528/?utm_campaign=765528&utm_source=habrahabr&utm_medium=rss)
 - [ОС «Альт Образование» совместима с интерактивной панелью EliteBoard — учиться станет еще интереснее](https://habr.com/ru/companies/basealtspo/news/765516/?utm_campaign=765516&utm_source=habrahabr&utm_medium=rss)
 - [С 3 октября «Ростелеком» официально является владельцем 99,9% разработчика ОС «Аврора»](https://habr.com/ru/news/765514/?utm_campaign=765514&utm_source=habrahabr&utm_medium=rss)
-- [Как улучшить BI-ландшафт с помощью решения на основе NLP: Easy Report на конференции Tadviser](https://habr.com/ru/companies/sapiens_solutions/news/765500/?utm_campaign=765500&utm_source=habrahabr&utm_medium=rss)
-- [Unreal Engine предложит новую ценовую модель для неигровых разработчиков](https://habr.com/ru/news/765488/?utm_campaign=765488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
