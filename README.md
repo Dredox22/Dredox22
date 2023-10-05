@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские пользователи умного дома Xiaomi столкнулись со сбоем в работе облачного сервиса компании](https://habr.com/ru/news/765426/?utm_campaign=765426&utm_source=habrahabr&utm_medium=rss)
 - [Японский стартап сделал реального меха в стиле Gundam](https://habr.com/ru/news/765410/?utm_campaign=765410&utm_source=habrahabr&utm_medium=rss)
 - [Музей Криптографии запускает Дискуссионный клуб](https://habr.com/ru/news/765408/?utm_campaign=765408&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила обновление iOS 17.0.3, где программно решена проблема перегрева iPhone 15 Pro и iPhone 15 Pro Max](https://habr.com/ru/news/765394/?utm_campaign=765394&utm_source=habrahabr&utm_medium=rss)
 - [Группа исследователей Sony считает, что алгоритмы ИИ предвзято относятся к людям с кожей жёлтого оттенка](https://habr.com/ru/news/765374/?utm_campaign=765374&utm_source=habrahabr&utm_medium=rss)
-- [Опрос ГК «Солар»: 75% российских компаний планируют проводить киберучения для повышения квалификации ИБ-специалистов](https://habr.com/ru/news/765368/?utm_campaign=765368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
