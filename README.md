@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как улучшить BI-ландшафт с помощью решения на основе NLP: Easy Report на конференции Tadviser](https://habr.com/ru/companies/sapiens_solutions/news/765500/?utm_campaign=765500&utm_source=habrahabr&utm_medium=rss)
+- [Unreal Engine предложит новую ценовую модель для неигровых разработчиков](https://habr.com/ru/news/765488/?utm_campaign=765488&utm_source=habrahabr&utm_medium=rss)
 - [Росстандарт опубликовал ГОСТ для применения ИИ при распознавании состояний и действий водителей автобусов и такси](https://habr.com/ru/news/765456/?utm_campaign=765456&utm_source=habrahabr&utm_medium=rss)
 - [Google представила смартфоны Pixel 8 и Pixel 8 Pro](https://habr.com/ru/news/765450/?utm_campaign=765450&utm_source=habrahabr&utm_medium=rss)
 - [Полицейские в Словакии оштрафовали за превышение скорости владельца Škoda Kamiq, в машине за рулём по фото была собака](https://habr.com/ru/news/765444/?utm_campaign=765444&utm_source=habrahabr&utm_medium=rss)
-- [Российские пользователи умного дома Xiaomi столкнулись со сбоем в работе облачного сервиса компании](https://habr.com/ru/news/765426/?utm_campaign=765426&utm_source=habrahabr&utm_medium=rss)
-- [Японский стартап сделал реального меха в стиле Gundam](https://habr.com/ru/news/765410/?utm_campaign=765410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
