@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложения для Vison Pro можно разрабатывать только на компьютерах с Apple Silicon](https://habr.com/ru/news/765752/?utm_campaign=765752&utm_source=habrahabr&utm_medium=rss)
+- [SberDevices представила ИИ-сервис «Генеративная проверка орфографии»](https://habr.com/ru/news/765778/?utm_campaign=765778&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила Swift Splash — готовое приложение для знакомства с основами разработки под Vision Pro](https://habr.com/ru/news/765758/?utm_campaign=765758&utm_source=habrahabr&utm_medium=rss)
+- [Приложения для Vision Pro можно разрабатывать только на компьютерах с Apple Silicon](https://habr.com/ru/news/765752/?utm_campaign=765752&utm_source=habrahabr&utm_medium=rss)
 - [АСКОН запустил программу поддержки инженерных стартапов](https://habr.com/ru/companies/ascon/news/765168/?utm_campaign=765168&utm_source=habrahabr&utm_medium=rss)
 - [Инструменты ИИ в Canva автоматизируют трудоёмкие задачи проектирования](https://habr.com/ru/news/765740/?utm_campaign=765740&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» научил YandexGPT тезисно пересказывать видеоролики в браузере, поиске и в сервисе 300.ya.ru](https://habr.com/ru/news/765726/?utm_campaign=765726&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удаляет Cortana из инсайдерской сборки Windows 11](https://habr.com/ru/news/765724/?utm_campaign=765724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
