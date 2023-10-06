@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Discord прекращает поддержку 32-битных ОС Windows 1 декабря](https://habr.com/ru/news/765714/?utm_campaign=765714&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Windows 11 Moment 4 вызывает сбои в работе драйверов AMD на ПК](https://habr.com/ru/news/765712/?utm_campaign=765712&utm_source=habrahabr&utm_medium=rss)
 - [Японское подразделение Google создало кепку-клавиатуру для набора символов в любом месте](https://habr.com/ru/news/765702/?utm_campaign=765702&utm_source=habrahabr&utm_medium=rss)
 - [HP представила переносной моноблок Envy Move с ручкой и сумкой для периферии](https://habr.com/ru/news/765698/?utm_campaign=765698&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила Android 14](https://habr.com/ru/news/765678/?utm_campaign=765678&utm_source=habrahabr&utm_medium=rss)
-- [Разработан электронный датчик размером с молекулу](https://habr.com/ru/news/765666/?utm_campaign=765666&utm_source=habrahabr&utm_medium=rss)
-- [Языковые модели понимают место и время, утверждает исследование](https://habr.com/ru/news/765652/?utm_campaign=765652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
