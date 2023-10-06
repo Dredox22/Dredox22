@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработан мягкий роботизированный захват весом 130 г, способный поднимать 100 кг](https://habr.com/ru/news/765828/?utm_campaign=765828&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte приглашает на экспертный разбор: может ли Visiology 3 заменить Power BI для банков?](https://habr.com/ru/companies/glowbyte/news/765796/?utm_campaign=765796&utm_source=habrahabr&utm_medium=rss)
 - [SberDevices представила ИИ-сервис «Генеративная проверка орфографии»](https://habr.com/ru/news/765778/?utm_campaign=765778&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила Swift Splash — готовое приложение для знакомства с основами разработки под Vision Pro](https://habr.com/ru/news/765758/?utm_campaign=765758&utm_source=habrahabr&utm_medium=rss)
 - [Приложения для Vision Pro можно разрабатывать только на компьютерах с Apple Silicon](https://habr.com/ru/news/765752/?utm_campaign=765752&utm_source=habrahabr&utm_medium=rss)
-- [АСКОН запустил программу поддержки инженерных стартапов](https://habr.com/ru/companies/ascon/news/765168/?utm_campaign=765168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
