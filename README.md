@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [HP представила переносной моноблок Envy Move с ручкой и сумкой для периферии](https://habr.com/ru/news/765698/?utm_campaign=765698&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила Android 14](https://habr.com/ru/news/765678/?utm_campaign=765678&utm_source=habrahabr&utm_medium=rss)
 - [Разработан электронный датчик размером с молекулу](https://habr.com/ru/news/765666/?utm_campaign=765666&utm_source=habrahabr&utm_medium=rss)
 - [Языковые модели понимают место и время, утверждает исследование](https://habr.com/ru/news/765652/?utm_campaign=765652&utm_source=habrahabr&utm_medium=rss)
 - [В Испании проходит Joomla Day 2023](https://habr.com/ru/news/765650/?utm_campaign=765650&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi частично восстановила работу экосистемы умный дом и приложения Mi Home для российских пользователей](https://habr.com/ru/news/765618/?utm_campaign=765618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
