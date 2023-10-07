@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры представило правила предъявления «цифрового паспорта»](https://habr.com/ru/news/765928/?utm_campaign=765928&utm_source=habrahabr&utm_medium=rss)
+- [Apple закрыла доступ к российской версии сайта и при заходе на локализованную станицу перенаправляет в cлужбу поддержки](https://habr.com/ru/news/765932/?utm_campaign=765932&utm_source=habrahabr&utm_medium=rss)
 - [Вышел OpenSSH 9.5](https://habr.com/ru/news/765926/?utm_campaign=765926&utm_source=habrahabr&utm_medium=rss)
 - [Panasonic выпустила лёгкий 12,4&amp;quot; ноутбук Let’s Note SR 12.4 с HDMI, D-Sub, RJ-45, 2хUSB-C, 3хUSB-A меньше листа А4](https://habr.com/ru/news/765910/?utm_campaign=765910&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор пояснил СМИ, что ведомство не имеет отношения к сбою в работе облачных сервисов Xiaomi в РФ](https://habr.com/ru/news/765886/?utm_campaign=765886&utm_source=habrahabr&utm_medium=rss)
-- [Скаммеры используют баги в политике GoDaddy, чтобы за бесценок приобретать доменные имена на аукционах](https://habr.com/ru/news/765874/?utm_campaign=765874&utm_source=habrahabr&utm_medium=rss)
-- [Разработан мягкий роботизированный захват весом 130 г, способный поднимать 100 кг](https://habr.com/ru/news/765828/?utm_campaign=765828&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
