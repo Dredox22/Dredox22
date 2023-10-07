@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Panasonic выпустила лёгкий 12,4&amp;quot; ноутбук Let’s Note SR 12.4 с HDMI, D-Sub, RJ-45, 2хUSB-C, 3хUSB-A меньше листа А4](https://habr.com/ru/news/765910/?utm_campaign=765910&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор пояснил СМИ, что ведомство не имеет отношения к сбою в работе облачных сервисов Xiaomi в РФ](https://habr.com/ru/news/765886/?utm_campaign=765886&utm_source=habrahabr&utm_medium=rss)
 - [Скаммеры используют баги в политике GoDaddy, чтобы за бесценок приобретать доменные имена на аукционах](https://habr.com/ru/news/765874/?utm_campaign=765874&utm_source=habrahabr&utm_medium=rss)
 - [Разработан мягкий роботизированный захват весом 130 г, способный поднимать 100 кг](https://habr.com/ru/news/765828/?utm_campaign=765828&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte приглашает на экспертный разбор: может ли Visiology 3 заменить Power BI для банков?](https://habr.com/ru/companies/glowbyte/news/765796/?utm_campaign=765796&utm_source=habrahabr&utm_medium=rss)
-- [SberDevices представила ИИ-сервис «Генеративная проверка орфографии»](https://habr.com/ru/news/765778/?utm_campaign=765778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
