@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [x86-simd-sort смёрджили в OpenJDK: ускорение в 7–15 раз](https://habr.com/ru/news/766104/?utm_campaign=766104&utm_source=habrahabr&utm_medium=rss)
+- [Intel добавила сортировку на AVX-512 в OpenJDK: ускорение в 7–15 раз](https://habr.com/ru/news/766104/?utm_campaign=766104&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили техническое описание и блок-схему периферийного контроллера RP1, установленного в Raspberry Pi 5](https://habr.com/ru/news/766074/?utm_campaign=766074&utm_source=habrahabr&utm_medium=rss)
 - [Выход HebrewGPT отложен на неопределённый срок](https://habr.com/ru/news/766038/?utm_campaign=766038&utm_source=habrahabr&utm_medium=rss)
 - [Google введёт новые меры борьбы со спамом в Gmail](https://habr.com/ru/news/766016/?utm_campaign=766016&utm_source=habrahabr&utm_medium=rss)
