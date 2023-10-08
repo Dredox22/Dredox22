@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google введёт новые меры борьбы со спамом в Gmail](https://habr.com/ru/news/766016/?utm_campaign=766016&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст представил открытый проект диспенсера для сухого кошачьего корма на базе Raspberry Pi Pico W](https://habr.com/ru/news/766012/?utm_campaign=766012&utm_source=habrahabr&utm_medium=rss)
 - [В новой веб-версии Microsoft Store разработчики перешли с React на Shoelace, Lit, Vite и бэкенд на C# ASP.NET](https://habr.com/ru/news/766006/?utm_campaign=766006&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры представило правила предъявления «цифрового паспорта»](https://habr.com/ru/news/765928/?utm_campaign=765928&utm_source=habrahabr&utm_medium=rss)
 - [Apple закрыла доступ к российской версии сайта и при заходе на локализованную станицу перенаправляет в cлужбу поддержки](https://habr.com/ru/news/765932/?utm_campaign=765932&utm_source=habrahabr&utm_medium=rss)
-- [Вышел OpenSSH 9.5](https://habr.com/ru/news/765926/?utm_campaign=765926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
