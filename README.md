@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик представил игру Flappy Dird — это Flappy Bird внутри штатного приложения macOS Finder](https://habr.com/ru/news/766208/?utm_campaign=766208&utm_source=habrahabr&utm_medium=rss)
 - [Brave уволила 9% сотрудников](https://habr.com/ru/news/766182/?utm_campaign=766182&utm_source=habrahabr&utm_medium=rss)
 - [«Ъ»: Сбер разрабатывает софт, который должен ускорить выпуск микроэлектроники](https://habr.com/ru/news/766186/?utm_campaign=766186&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI может заняться разработкой ИИ-чипов для снижения стоимости работы ChatGPT](https://habr.com/ru/news/766172/?utm_campaign=766172&utm_source=habrahabr&utm_medium=rss)
 - [«Норси-Транс» начнёт выпуск систем хранения данных, серверов и компьютеров на китайских процессорах Loongson](https://habr.com/ru/news/766176/?utm_campaign=766176&utm_source=habrahabr&utm_medium=rss)
-- [Asus представила карту расширения Hyper M.2 x16 Gen5 для установки четырёх SSD NVMe M.2](https://habr.com/ru/news/766164/?utm_campaign=766164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
