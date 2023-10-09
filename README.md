@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [АНБ предложило хакерам за $12,288 взломать алгоритм NIST и обнаружить исходные фразы](https://habr.com/ru/news/766160/?utm_campaign=766160&utm_source=habrahabr&utm_medium=rss)
+- [Все данные в РФ предложили собирать в единое хранилище](https://habr.com/ru/news/766154/?utm_campaign=766154&utm_source=habrahabr&utm_medium=rss)
 - [В GitHub добавили интеграцию c Patreon](https://habr.com/ru/news/766130/?utm_campaign=766130&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains и Python Software Foundation рассказали, как разработчики использовали Python в 2022 году](https://habr.com/ru/news/766124/?utm_campaign=766124&utm_source=habrahabr&utm_medium=rss)
 - [Volvo отключила российским автовладельцем доступ к своим системам, включая Volvo on Call и дилерское СПО](https://habr.com/ru/news/766118/?utm_campaign=766118&utm_source=habrahabr&utm_medium=rss)
-- [Intel добавила сортировку на AVX-512 в OpenJDK: ускорение в 7–15 раз](https://habr.com/ru/news/766104/?utm_campaign=766104&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили техническое описание и блок-схему периферийного контроллера RP1, установленного в Raspberry Pi 5](https://habr.com/ru/news/766074/?utm_campaign=766074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
