@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Три уровня погружения в Python. Запись докладов с Python Meetup и полезные материалы](https://habr.com/ru/companies/selectel/news/766270/?utm_campaign=766270&utm_source=habrahabr&utm_medium=rss)
+- [Intel намекнула, что Windows 12 выйдет в следующем году](https://habr.com/ru/news/766268/?utm_campaign=766268&utm_source=habrahabr&utm_medium=rss)
 - [Свободное ПО становится драйвером российской индустрии ИТ — ХIX конференция разработчиков свободных программ](https://habr.com/ru/companies/basealtspo/news/766240/?utm_campaign=766240&utm_source=habrahabr&utm_medium=rss)
 - [Вышел инструмент для профессиональной записи и обработки звука Ardour 8.0](https://habr.com/ru/news/766234/?utm_campaign=766234&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил игру Flappy Dird — это Flappy Bird внутри штатного приложения macOS Finder](https://habr.com/ru/news/766208/?utm_campaign=766208&utm_source=habrahabr&utm_medium=rss)
-- [Brave уволила 9% сотрудников](https://habr.com/ru/news/766182/?utm_campaign=766182&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: Сбер разрабатывает софт, который должен ускорить выпуск микроэлектроники](https://habr.com/ru/news/766186/?utm_campaign=766186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
