@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая версия платформы Tantor 3.1 — обзор и демонстрация возможностей](https://habr.com/ru/companies/astralinux/news/766326/?utm_campaign=766326&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/766304/?utm_campaign=766304&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: за последние 18 месяцев в России открылись 50 новых игровых студий](https://habr.com/ru/news/766276/?utm_campaign=766276&utm_source=habrahabr&utm_medium=rss)
 - [Три уровня погружения в Python. Запись докладов с Python Meetup и полезные материалы](https://habr.com/ru/companies/selectel/news/766270/?utm_campaign=766270&utm_source=habrahabr&utm_medium=rss)
 - [Intel намекнула, что Windows 12 выйдет в следующем году](https://habr.com/ru/news/766268/?utm_campaign=766268&utm_source=habrahabr&utm_medium=rss)
-- [Свободное ПО становится драйвером российской индустрии ИТ — ХIX конференция разработчиков свободных программ](https://habr.com/ru/companies/basealtspo/news/766240/?utm_campaign=766240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
