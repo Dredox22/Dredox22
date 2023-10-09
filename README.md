@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [АНБ предложило хакерам за $12,288 взломать алгоритм NIST и обнаружить исходные фразы](https://habr.com/ru/news/766160/?utm_campaign=766160&utm_source=habrahabr&utm_medium=rss)
-- [Все данные в РФ предложили собирать в единое хранилище](https://habr.com/ru/news/766154/?utm_campaign=766154&utm_source=habrahabr&utm_medium=rss)
-- [В GitHub добавили интеграцию c Patreon](https://habr.com/ru/news/766130/?utm_campaign=766130&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains и Python Software Foundation рассказали, как разработчики использовали Python в 2022 году](https://habr.com/ru/news/766124/?utm_campaign=766124&utm_source=habrahabr&utm_medium=rss)
-- [Volvo отключила российским автовладельцем доступ к своим системам, включая Volvo on Call и дилерское СПО](https://habr.com/ru/news/766118/?utm_campaign=766118&utm_source=habrahabr&utm_medium=rss)
+- [Brave уволила 9% сотрудников](https://habr.com/ru/news/766182/?utm_campaign=766182&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: Сбер разрабатывает софт, который должен ускорить выпуск микроэлектроники](https://habr.com/ru/news/766186/?utm_campaign=766186&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI может заняться разработкой ИИ-чипов для снижения стоимости работы ChatGPT](https://habr.com/ru/news/766172/?utm_campaign=766172&utm_source=habrahabr&utm_medium=rss)
+- [«Норси-Транс» начнёт выпуск систем хранения данных, серверов и компьютеров на китайских процессорах Loongson](https://habr.com/ru/news/766176/?utm_campaign=766176&utm_source=habrahabr&utm_medium=rss)
+- [Asus представила карту расширения Hyper M.2 x16 Gen5 для установки четырёх SSD NVMe M.2](https://habr.com/ru/news/766164/?utm_campaign=766164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
