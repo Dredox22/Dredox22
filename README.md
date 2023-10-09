@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Свободное ПО становится драйвером российской индустрии ИТ — ХIX конференция разработчиков свободных программ](https://habr.com/ru/companies/basealtspo/news/766240/?utm_campaign=766240&utm_source=habrahabr&utm_medium=rss)
+- [Вышел инструмент для профессиональной записи и обработки звука Ardour 8.0](https://habr.com/ru/news/766234/?utm_campaign=766234&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил игру Flappy Dird — это Flappy Bird внутри штатного приложения macOS Finder](https://habr.com/ru/news/766208/?utm_campaign=766208&utm_source=habrahabr&utm_medium=rss)
 - [Brave уволила 9% сотрудников](https://habr.com/ru/news/766182/?utm_campaign=766182&utm_source=habrahabr&utm_medium=rss)
 - [«Ъ»: Сбер разрабатывает софт, который должен ускорить выпуск микроэлектроники](https://habr.com/ru/news/766186/?utm_campaign=766186&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI может заняться разработкой ИИ-чипов для снижения стоимости работы ChatGPT](https://habr.com/ru/news/766172/?utm_campaign=766172&utm_source=habrahabr&utm_medium=rss)
-- [«Норси-Транс» начнёт выпуск систем хранения данных, серверов и компьютеров на китайских процессорах Loongson](https://habr.com/ru/news/766176/?utm_campaign=766176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
