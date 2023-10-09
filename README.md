@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вы можете подготовиться к IT-собеседованию на «Девстанции»](https://habr.com/ru/news/766354/?utm_campaign=766354&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: ИИ-ассистент Windows Copilot доступен только в США, Великобритании и некоторых странах Азии и Южной Америки](https://habr.com/ru/news/766340/?utm_campaign=766340&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» совместно с КНИТУ-КАИ объявил о запуске учебных курсов по разработке и производству микроэлектроники](https://habr.com/ru/news/766334/?utm_campaign=766334&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия платформы Tantor 3.1 — обзор и демонстрация возможностей](https://habr.com/ru/companies/astralinux/news/766326/?utm_campaign=766326&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/766304/?utm_campaign=766304&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: за последние 18 месяцев в России открылись 50 новых игровых студий](https://habr.com/ru/news/766276/?utm_campaign=766276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
