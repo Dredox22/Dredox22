@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры модифицировали страницы 404 интернет-магазинов, чтобы красть данные карт](https://habr.com/ru/news/766406/?utm_campaign=766406&utm_source=habrahabr&utm_medium=rss)
+- [Мы с анонсом: уже скоро 2 конференции про франшизу ИБ-аутсорсинга](https://habr.com/ru/companies/searchinform/news/766392/?utm_campaign=766392&utm_source=habrahabr&utm_medium=rss)
+- [Вышло расширение для Chrome JSON Editor 1.0](https://habr.com/ru/news/766398/?utm_campaign=766398&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала агрессивно фильтровать контент в Bing Image Creator](https://habr.com/ru/news/766394/?utm_campaign=766394&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 17 появилась функция для воспроизведения звука на потерянных Apple Watch](https://habr.com/ru/news/766388/?utm_campaign=766388&utm_source=habrahabr&utm_medium=rss)
-- [Глава Unity Джон Ричителло ушёл из компании](https://habr.com/ru/news/766386/?utm_campaign=766386&utm_source=habrahabr&utm_medium=rss)
-- [Как вы можете подготовиться к IT-собеседованию на «Девстанции»](https://habr.com/ru/news/766354/?utm_campaign=766354&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: ИИ-ассистент Windows Copilot доступен только в США, Великобритании и некоторых странах Азии и Южной Америки](https://habr.com/ru/news/766340/?utm_campaign=766340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
