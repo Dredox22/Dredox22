@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начала агрессивно фильтровать контент в Bing Image Creator](https://habr.com/ru/news/766394/?utm_campaign=766394&utm_source=habrahabr&utm_medium=rss)
+- [В iOS 17 появилась функция для воспроизведения звука на потерянных Apple Watch](https://habr.com/ru/news/766388/?utm_campaign=766388&utm_source=habrahabr&utm_medium=rss)
+- [Глава Unity Джон Ричителло ушёл из компании](https://habr.com/ru/news/766386/?utm_campaign=766386&utm_source=habrahabr&utm_medium=rss)
 - [Как вы можете подготовиться к IT-собеседованию на «Девстанции»](https://habr.com/ru/news/766354/?utm_campaign=766354&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: ИИ-ассистент Windows Copilot доступен только в США, Великобритании и некоторых странах Азии и Южной Америки](https://habr.com/ru/news/766340/?utm_campaign=766340&utm_source=habrahabr&utm_medium=rss)
-- [«Микрон» совместно с КНИТУ-КАИ объявил о запуске учебных курсов по разработке и производству микроэлектроники](https://habr.com/ru/news/766334/?utm_campaign=766334&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия платформы Tantor 3.1 — обзор и демонстрация возможностей](https://habr.com/ru/companies/astralinux/news/766326/?utm_campaign=766326&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/766304/?utm_campaign=766304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
