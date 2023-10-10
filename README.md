@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проводим исследование по лучшим IT-командам — хотим знать твоё мнение](https://habr.com/ru/companies/surfstudio/news/766494/?utm_campaign=766494&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: язык сценариев VBScript устарел, и в будущих выпусках Windows он будет доступен как опция по требованию](https://habr.com/ru/news/766490/?utm_campaign=766490&utm_source=habrahabr&utm_medium=rss)
+- [«Монитор госсайтов» опубликовал рейтинг субъектов федерации за 2023 год](https://habr.com/ru/news/766484/?utm_campaign=766484&utm_source=habrahabr&utm_medium=rss)
 - [Valve: нативной версии Counter-Strike 2 на macOS не будет](https://habr.com/ru/news/766470/?utm_campaign=766470&utm_source=habrahabr&utm_medium=rss)
 - [На «100+ TechnoBuild» компания «Нанософт» продемонстрировала лучшие практики применения своей ТИМ-линейки](https://habr.com/ru/companies/nanosoft/news/766466/?utm_campaign=766466&utm_source=habrahabr&utm_medium=rss)
-- [Фонд NEC объявил номинантов премии C&amp;amp;C 2023 года](https://habr.com/ru/news/766430/?utm_campaign=766430&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft в тестовой сборке Office добавила возможность вставлять Checkbox &lpar;«Чекбокс»&rpar; в ячейку Excel](https://habr.com/ru/news/766412/?utm_campaign=766412&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры модифицировали страницы 404 интернет-магазинов, чтобы красть данные карт](https://habr.com/ru/news/766406/?utm_campaign=766406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
