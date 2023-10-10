@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ozon Tech проведёт проект «Озадачь инженера» представляющий «техническое интервью наоборот»](https://habr.com/ru/news/766550/?utm_campaign=766550&utm_source=habrahabr&utm_medium=rss)
 - [Станьте спикером VK Kubernetes Conference и поделитесь опытом с сообществом](https://habr.com/ru/companies/vk/news/766544/?utm_campaign=766544&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выпустила NaviKit — SDK для разработки навигационных мобильных приложений](https://habr.com/ru/news/766528/?utm_campaign=766528&utm_source=habrahabr&utm_medium=rss)
 - [Проводим исследование по лучшим IT-командам — хотим знать твоё мнение](https://habr.com/ru/companies/surfstudio/news/766494/?utm_campaign=766494&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: язык сценариев VBScript устарел, и в будущих выпусках Windows он будет доступен как опция по требованию](https://habr.com/ru/news/766490/?utm_campaign=766490&utm_source=habrahabr&utm_medium=rss)
-- [«Монитор госсайтов» опубликовал рейтинг субъектов федерации за 2023 год](https://habr.com/ru/news/766484/?utm_campaign=766484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
