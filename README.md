@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фонд NEC объявил номинантов премии C&amp;amp;C 2023 года](https://habr.com/ru/news/766430/?utm_campaign=766430&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft в тестовой сборке Office добавила возможность вставлять Checkbox &lpar;«Чекбокс»&rpar; в ячейку Excel](https://habr.com/ru/news/766412/?utm_campaign=766412&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры модифицировали страницы 404 интернет-магазинов, чтобы красть данные карт](https://habr.com/ru/news/766406/?utm_campaign=766406&utm_source=habrahabr&utm_medium=rss)
 - [Мы с анонсом: уже скоро 2 конференции про франшизу ИБ-аутсорсинга](https://habr.com/ru/companies/searchinform/news/766392/?utm_campaign=766392&utm_source=habrahabr&utm_medium=rss)
 - [Вышло расширение для Chrome JSON Editor 1.0](https://habr.com/ru/news/766398/?utm_campaign=766398&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала агрессивно фильтровать контент в Bing Image Creator](https://habr.com/ru/news/766394/?utm_campaign=766394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
