@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик создал Furbinator 3000 для распознавания и отпугивания с помощью ультразвука лис и барсуков](https://habr.com/ru/news/766818/?utm_campaign=766818&utm_source=habrahabr&utm_medium=rss)
+- [Standoff 12. Перезагрузка: новый формат киберучений поможет компаниям построить результативную безопасность](https://habr.com/ru/companies/pt/news/766810/?utm_campaign=766810&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил онлайн-курс «Go-разработчик с нуля»](https://habr.com/ru/companies/yandex_praktikum/news/766788/?utm_campaign=766788&utm_source=habrahabr&utm_medium=rss)
 - [Как прокачать кибергигиену в компании — совместный вебинар Сloud.ru и BI.ZONE](https://habr.com/ru/companies/cloud_ru/news/766752/?utm_campaign=766752&utm_source=habrahabr&utm_medium=rss)
 - [Smart Engines представляет новую версию ПО Smart Tomo Engine для компьютерного томографа](https://habr.com/ru/companies/smartengines/news/766734/?utm_campaign=766734&utm_source=habrahabr&utm_medium=rss)
-- [Требования для Windows 11 по обязательному наличию TPM и современного CPU можно обойти с помощью одной простой команды](https://habr.com/ru/news/766722/?utm_campaign=766722&utm_source=habrahabr&utm_medium=rss)
-- [После установки iOS 17.0.3 iPhone 14 и 15 стали отключаться ночью на некоторое время](https://habr.com/ru/news/766684/?utm_campaign=766684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
