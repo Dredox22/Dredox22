@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [aac-cards-obf_2023-10-11](https://habr.com/ru/news/766720/?utm_campaign=766720&utm_source=habrahabr&utm_medium=rss)
 - [После установки iOS 17.0.3 iPhone 14 и 15 стали отключаться ночью на некоторое время](https://habr.com/ru/news/766684/?utm_campaign=766684&utm_source=habrahabr&utm_medium=rss)
 - [Adobe представила три новых ИИ-сервиса для дизайнеров](https://habr.com/ru/news/766676/?utm_campaign=766676&utm_source=habrahabr&utm_medium=rss)
 - [Google начала блокировать просмотр видео на YouTube в Edge из-за запрета на отслеживание](https://habr.com/ru/news/766666/?utm_campaign=766666&utm_source=habrahabr&utm_medium=rss)
 - [Лучше RTX 3050, но все еще очень слабая: тесты видеокарты Intel Arc A580](https://habr.com/ru/companies/dcmiran/news/766668/?utm_campaign=766668&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила корпоративных пользователей о возникновении некорректной ошибки в логах системы BitLocker](https://habr.com/ru/news/766632/?utm_campaign=766632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
