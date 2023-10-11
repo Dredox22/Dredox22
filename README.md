@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD купила ИИ-стартап Nod.AI](https://habr.com/ru/news/766858/?utm_campaign=766858&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открывает набор в школу AI-тренеров для гуманитариев](https://habr.com/ru/news/766840/?utm_campaign=766840&utm_source=habrahabr&utm_medium=rss)
 - [От А до K8s: секреты контейнеров, погружаемся в разработку](https://habr.com/ru/companies/croc/news/766770/?utm_campaign=766770&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик создал Furbinator 3000 для распознавания и отпугивания с помощью ультразвука лис и барсуков](https://habr.com/ru/news/766818/?utm_campaign=766818&utm_source=habrahabr&utm_medium=rss)
 - [Standoff 12. Перезагрузка: новый формат киберучений поможет компаниям построить результативную безопасность](https://habr.com/ru/companies/pt/news/766810/?utm_campaign=766810&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум запустил онлайн-курс «Go-разработчик с нуля»](https://habr.com/ru/companies/yandex_praktikum/news/766788/?utm_campaign=766788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
