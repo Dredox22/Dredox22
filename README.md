@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [От А до K8s: секреты контейнеров, погружаемся в разработку](https://habr.com/ru/companies/croc/news/766770/?utm_campaign=766770&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик создал Furbinator 3000 для распознавания и отпугивания с помощью ультразвука лис и барсуков](https://habr.com/ru/news/766818/?utm_campaign=766818&utm_source=habrahabr&utm_medium=rss)
 - [Standoff 12. Перезагрузка: новый формат киберучений поможет компаниям построить результативную безопасность](https://habr.com/ru/companies/pt/news/766810/?utm_campaign=766810&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил онлайн-курс «Go-разработчик с нуля»](https://habr.com/ru/companies/yandex_praktikum/news/766788/?utm_campaign=766788&utm_source=habrahabr&utm_medium=rss)
 - [Как прокачать кибергигиену в компании — совместный вебинар Сloud.ru и BI.ZONE](https://habr.com/ru/companies/cloud_ru/news/766752/?utm_campaign=766752&utm_source=habrahabr&utm_medium=rss)
-- [Smart Engines представляет новую версию ПО Smart Tomo Engine для компьютерного томографа](https://habr.com/ru/companies/smartengines/news/766734/?utm_campaign=766734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
