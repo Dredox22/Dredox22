@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предупредила корпоративных пользователей о возникновении некорректной ошибки в логах системы BitLocker](https://habr.com/ru/news/766632/?utm_campaign=766632&utm_source=habrahabr&utm_medium=rss)
 - [Google рассказала о самой мощной DDoS-атаке в истории компании — 398 млн запросов в секунду](https://habr.com/ru/news/766600/?utm_campaign=766600&utm_source=habrahabr&utm_medium=rss)
 - [Ozon Tech проведёт проект «Озадачь инженера» представляющий «техническое интервью наоборот»](https://habr.com/ru/news/766550/?utm_campaign=766550&utm_source=habrahabr&utm_medium=rss)
 - [Станьте спикером VK Kubernetes Conference и поделитесь опытом с сообществом](https://habr.com/ru/companies/vk/news/766544/?utm_campaign=766544&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выпустила NaviKit — SDK для разработки навигационных мобильных приложений](https://habr.com/ru/news/766528/?utm_campaign=766528&utm_source=habrahabr&utm_medium=rss)
-- [Проводим исследование по лучшим IT-командам — хотим знать твоё мнение](https://habr.com/ru/companies/surfstudio/news/766494/?utm_campaign=766494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
