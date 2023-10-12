@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор предупредил о рассылке фейковых писем якобы от имени ведомства с адреса rkn.moscow77@yandex.ru](https://habr.com/ru/news/767096/?utm_campaign=767096&utm_source=habrahabr&utm_medium=rss)
 - [Генпрокуратура проверит законность введения комиссий в Wildberries](https://habr.com/ru/news/767062/?utm_campaign=767062&utm_source=habrahabr&utm_medium=rss)
 - [Соревнование AIJ Contest: RecSys по классике и с RL](https://habr.com/ru/companies/sberbank/news/766932/?utm_campaign=766932&utm_source=habrahabr&utm_medium=rss)
 - [Apple готовит к выпуску обновление iOS 17.1, снижающее излучение в iPhone 12 для пользователей во Франции](https://habr.com/ru/news/767046/?utm_campaign=767046&utm_source=habrahabr&utm_medium=rss)
 - [YandexGPT 2 набрала на ЕГЭ по литературе балл, необходимый для поступления в вуз](https://habr.com/ru/news/767044/?utm_campaign=767044&utm_source=habrahabr&utm_medium=rss)
-- [Космическое командование ВС США запретило своим сотрудникам использовать в служебной деятельности нейросети](https://habr.com/ru/news/767022/?utm_campaign=767022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
