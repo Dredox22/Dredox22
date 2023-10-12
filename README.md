@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink запустит сервис сотовой связи](https://habr.com/ru/news/766906/?utm_campaign=766906&utm_source=habrahabr&utm_medium=rss)
 - [Valve ввела дополнительные меры безопасности в Steamworks после взлома аккаунтов нескольких разработчиков игр](https://habr.com/ru/news/766892/?utm_campaign=766892&utm_source=habrahabr&utm_medium=rss)
 - [Проект Fedora и компания Slimbook выпустили ультрабук](https://habr.com/ru/news/766874/?utm_campaign=766874&utm_source=habrahabr&utm_medium=rss)
 - [AMD купила ИИ-стартап Nod.AI](https://habr.com/ru/news/766858/?utm_campaign=766858&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открывает набор в школу AI-тренеров для гуманитариев](https://habr.com/ru/news/766840/?utm_campaign=766840&utm_source=habrahabr&utm_medium=rss)
-- [От А до K8s: Секреты контейнеров, погружаемся в разработку](https://habr.com/ru/companies/croc/news/766770/?utm_campaign=766770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
