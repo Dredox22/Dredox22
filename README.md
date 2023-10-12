@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: увольнения в Team17 затронут до 30% персонала](https://habr.com/ru/news/766984/?utm_campaign=766984&utm_source=habrahabr&utm_medium=rss)
+- [Управляем цифровыми документами и процессами — ОС «Альт» совместимы с решениями «Цитрос»](https://habr.com/ru/companies/basealtspo/news/766980/?utm_campaign=766980&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор привлёк к суду 12 иностранных компаний за отказ локализовать данные россиян](https://habr.com/ru/news/766956/?utm_campaign=766956&utm_source=habrahabr&utm_medium=rss)
 - [Duolingo начнёт предлагать уроки математики и музыки](https://habr.com/ru/news/766942/?utm_campaign=766942&utm_source=habrahabr&utm_medium=rss)
 - [В России планируют освоить производство 28-нм чипов к 2027 году](https://habr.com/ru/news/766934/?utm_campaign=766934&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries ввёл комиссию в 3% за оплату с карт Visa и Mastercard](https://habr.com/ru/news/766918/?utm_campaign=766918&utm_source=habrahabr&utm_medium=rss)
-- [Видеоаналитика компании «Криптонит» включена в реестр российского ПО](https://habr.com/ru/companies/kryptonite/news/766742/?utm_campaign=766742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
