@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft завершила поддержку Windows 11 версии 21H2](https://habr.com/ru/news/767132/?utm_campaign=767132&utm_source=habrahabr&utm_medium=rss)
+- [Adobe представила логотип для маркировки контента, созданного или отредактированного с помощью ИИ](https://habr.com/ru/news/767128/?utm_campaign=767128&utm_source=habrahabr&utm_medium=rss)
 - [Zoom получил штраф от московского суда на 15 млн рублей за отказ локализовать данные российских пользователей в РФ](https://habr.com/ru/news/767106/?utm_campaign=767106&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор предупредил о рассылке фейковых писем якобы от имени ведомства с адреса rkn.moscow77@yandex.ru](https://habr.com/ru/news/767096/?utm_campaign=767096&utm_source=habrahabr&utm_medium=rss)
 - [Генпрокуратура проверит законность введения комиссий в Wildberries](https://habr.com/ru/news/767062/?utm_campaign=767062&utm_source=habrahabr&utm_medium=rss)
-- [Соревнование AIJ Contest: RecSys по классике и с RL](https://habr.com/ru/companies/sberbank/news/766932/?utm_campaign=766932&utm_source=habrahabr&utm_medium=rss)
-- [Apple готовит к выпуску обновление iOS 17.1, снижающее излучение в iPhone 12 для пользователей во Франции](https://habr.com/ru/news/767046/?utm_campaign=767046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
