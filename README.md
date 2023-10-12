@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор привлёк к суду 12 иностранных компаний за отказ локализовать данные россиян](https://habr.com/ru/news/766956/?utm_campaign=766956&utm_source=habrahabr&utm_medium=rss)
+- [Duolingo начнёт предлагать уроки математики и музыки](https://habr.com/ru/news/766942/?utm_campaign=766942&utm_source=habrahabr&utm_medium=rss)
 - [В России планируют освоить производство 28-нм чипов к 2027 году](https://habr.com/ru/news/766934/?utm_campaign=766934&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries ввёл комиссию в 3% за оплату с карт Visa и Mastercard](https://habr.com/ru/news/766918/?utm_campaign=766918&utm_source=habrahabr&utm_medium=rss)
 - [Видеоаналитика компании «Криптонит» включена в реестр российского ПО](https://habr.com/ru/companies/kryptonite/news/766742/?utm_campaign=766742&utm_source=habrahabr&utm_medium=rss)
-- [Starlink запустит сервис сотовой связи](https://habr.com/ru/news/766906/?utm_campaign=766906&utm_source=habrahabr&utm_medium=rss)
-- [Valve ввела дополнительные меры безопасности в Steamworks после взлома аккаунтов нескольких разработчиков игр](https://habr.com/ru/news/766892/?utm_campaign=766892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
