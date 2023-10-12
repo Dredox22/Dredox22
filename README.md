@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Космическое командование ВС США запретило своим сотрудникам использовать в служебной деятельности нейросети](https://habr.com/ru/news/767022/?utm_campaign=767022&utm_source=habrahabr&utm_medium=rss)
+- [Конференция для тех, кто занимается развитием цифровой доступности](https://habr.com/ru/companies/vk/news/767008/?utm_campaign=767008&utm_source=habrahabr&utm_medium=rss)
+- [АвтоВАЗ и МИФИ открыли совместную лабораторию для разработки электроники](https://habr.com/ru/news/766992/?utm_campaign=766992&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: увольнения в Team17 затронут до 30% персонала](https://habr.com/ru/news/766984/?utm_campaign=766984&utm_source=habrahabr&utm_medium=rss)
 - [Управляем цифровыми документами и процессами — ОС «Альт» совместимы с решениями «Цитрос»](https://habr.com/ru/companies/basealtspo/news/766980/?utm_campaign=766980&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор привлёк к суду 12 иностранных компаний за отказ локализовать данные россиян](https://habr.com/ru/news/766956/?utm_campaign=766956&utm_source=habrahabr&utm_medium=rss)
-- [Duolingo начнёт предлагать уроки математики и музыки](https://habr.com/ru/news/766942/?utm_campaign=766942&utm_source=habrahabr&utm_medium=rss)
-- [В России планируют освоить производство 28-нм чипов к 2027 году](https://habr.com/ru/news/766934/?utm_campaign=766934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
