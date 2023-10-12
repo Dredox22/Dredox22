@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple готовит к выпуску обновление iOS 17.1, снижающее излучение в iPhone 12 для пользователей во Франции](https://habr.com/ru/news/767046/?utm_campaign=767046&utm_source=habrahabr&utm_medium=rss)
+- [YandexGPT 2 набрала на ЕГЭ по литературе балл, необходимый для поступления в вуз](https://habr.com/ru/news/767044/?utm_campaign=767044&utm_source=habrahabr&utm_medium=rss)
 - [Космическое командование ВС США запретило своим сотрудникам использовать в служебной деятельности нейросети](https://habr.com/ru/news/767022/?utm_campaign=767022&utm_source=habrahabr&utm_medium=rss)
 - [Конференция для тех, кто занимается развитием цифровой доступности](https://habr.com/ru/companies/vk/news/767008/?utm_campaign=767008&utm_source=habrahabr&utm_medium=rss)
 - [АвтоВАЗ и МИФИ открыли совместную лабораторию для разработки электроники](https://habr.com/ru/news/766992/?utm_campaign=766992&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: увольнения в Team17 затронут до 30% персонала](https://habr.com/ru/news/766984/?utm_campaign=766984&utm_source=habrahabr&utm_medium=rss)
-- [Управляем цифровыми документами и процессами — ОС «Альт» совместимы с решениями «Цитрос»](https://habr.com/ru/companies/basealtspo/news/766980/?utm_campaign=766980&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
