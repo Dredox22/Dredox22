@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор рекомендовал не передавать операторам данные цифровых паспортов](https://habr.com/ru/news/767226/?utm_campaign=767226&utm_source=habrahabr&utm_medium=rss)
+- [Как начать работать с PostgreSQL с нуля? Собрали 14 бесплатных материалов в один курс](https://habr.com/ru/companies/selectel/news/767200/?utm_campaign=767200&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» заказал 800 тыс. роутеров у компании «Электра»](https://habr.com/ru/news/767194/?utm_campaign=767194&utm_source=habrahabr&utm_medium=rss)
 - [Adobe создала анимированное платье](https://habr.com/ru/news/767186/?utm_campaign=767186&utm_source=habrahabr&utm_medium=rss)
 - [Интеграция в Google Drive сервиса Slack позволяет третьим лицам просматривать личными документы и файлы](https://habr.com/ru/news/767174/?utm_campaign=767174&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Defender начал автоматически изолировать скомпрометированные учётные записи](https://habr.com/ru/news/767168/?utm_campaign=767168&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Ubuntu 23.10 Mantic Minotaur, а через несколько часов часть дистрибутивов убрали из общего доступа из-за ошибки](https://habr.com/ru/news/767162/?utm_campaign=767162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
