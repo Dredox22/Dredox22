@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики из Nginx и F5 представили инструментарий ngx-rust](https://habr.com/ru/news/767268/?utm_campaign=767268&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры из Sticky Werewolf атакуют государственные организации России и Республики Беларусь](https://habr.com/ru/news/767250/?utm_campaign=767250&utm_source=habrahabr&utm_medium=rss)
 - [Председатель Альянса по защите детей в цифровой среде перечислила меры по обеспечению безопасности детей в Интернете](https://habr.com/ru/news/767244/?utm_campaign=767244&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор рекомендовал не передавать операторам данные цифровых паспортов](https://habr.com/ru/news/767226/?utm_campaign=767226&utm_source=habrahabr&utm_medium=rss)
 - [Как начать работать с PostgreSQL с нуля? Собрали 14 бесплатных материалов в один курс](https://habr.com/ru/companies/selectel/news/767200/?utm_campaign=767200&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» заказал 800 тыс. роутеров у компании «Электра»](https://habr.com/ru/news/767194/?utm_campaign=767194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
