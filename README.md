@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия шлюза веб-безопасности Solar webProxy](https://habr.com/ru/news/767378/?utm_campaign=767378&utm_source=habrahabr&utm_medium=rss)
+- [Участники кибербитвы Standoff попробуют взломать спутник-сервер RUVDS](https://habr.com/ru/companies/ruvds/news/767358/?utm_campaign=767358&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект позволил клиентам ВТБ вводить платежные реквизиты за 1 секунду](https://habr.com/ru/companies/smartengines/news/767300/?utm_campaign=767300&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики «Смуты» опубликовали новый тизер](https://habr.com/ru/news/767298/?utm_campaign=767298&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик «умных» систем для домов Legrand продал заводы российской компании](https://habr.com/ru/news/767292/?utm_campaign=767292&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из Nginx и F5 представили инструментарий ngx-rust](https://habr.com/ru/news/767268/?utm_campaign=767268&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры из Sticky Werewolf атакуют государственные организации России и Республики Беларусь](https://habr.com/ru/news/767250/?utm_campaign=767250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
