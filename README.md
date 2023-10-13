@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» заказал 800 тыс. роутеров у компании «Электра»](https://habr.com/ru/news/767194/?utm_campaign=767194&utm_source=habrahabr&utm_medium=rss)
+- [Adobe создала анимированное платье](https://habr.com/ru/news/767186/?utm_campaign=767186&utm_source=habrahabr&utm_medium=rss)
 - [Интеграция в Google Drive сервиса Slack позволяет третьим лицам просматривать личными документы и файлы](https://habr.com/ru/news/767174/?utm_campaign=767174&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Defender начал автоматически изолировать скомпрометированные учётные записи](https://habr.com/ru/news/767168/?utm_campaign=767168&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Ubuntu 23.10 Mantic Minotaur, а через несколько часов часть дистрибутивов убрали из общего доступа из-за ошибки](https://habr.com/ru/news/767162/?utm_campaign=767162&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Qt 6.6](https://habr.com/ru/news/767154/?utm_campaign=767154&utm_source=habrahabr&utm_medium=rss)
-- [Власти Нидерландов начали расследование в отношении сервиса такси Yango](https://habr.com/ru/news/767134/?utm_campaign=767134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
