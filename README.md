@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция в Google Drive сервиса Slack позволяет третьим лицам просматривать личными документы и файлы](https://habr.com/ru/news/767174/?utm_campaign=767174&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Defender начал автоматически изолировать скомпрометированные учётные записи](https://habr.com/ru/news/767168/?utm_campaign=767168&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Ubuntu 23.10 Mantic Minotaur, а через несколько часов часть дистрибутивов убрали из общего доступа из-за ошибки](https://habr.com/ru/news/767162/?utm_campaign=767162&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Qt 6.6](https://habr.com/ru/news/767154/?utm_campaign=767154&utm_source=habrahabr&utm_medium=rss)
 - [Власти Нидерландов начали расследование в отношении сервиса такси Yango](https://habr.com/ru/news/767134/?utm_campaign=767134&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft завершила поддержку Windows 11 версии 21H2](https://habr.com/ru/news/767132/?utm_campaign=767132&utm_source=habrahabr&utm_medium=rss)
-- [Adobe представила логотип для маркировки контента, созданного или отредактированного с помощью ИИ](https://habr.com/ru/news/767128/?utm_campaign=767128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
