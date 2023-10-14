@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик выяснил, что ChatGPT с опцией распознавания изображения может лгать в ответе на запрос](https://habr.com/ru/news/767420/?utm_campaign=767420&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выяснил, что ChatGPT с опцией распознавания изображения может «лгать» в ответе на запрос](https://habr.com/ru/news/767420/?utm_campaign=767420&utm_source=habrahabr&utm_medium=rss)
 - [AMD отозвала драйвер, который приводит к бану в Counter-Strike 2](https://habr.com/ru/news/767418/?utm_campaign=767418&utm_source=habrahabr&utm_medium=rss)
 - [В плане по 2025 год Nvidia пообещала перейти на ежегодный цикл выпуска ускорителей ИИ](https://habr.com/ru/news/767406/?utm_campaign=767406&utm_source=habrahabr&utm_medium=rss)
 - [Linux Foundation будет обеспечивать супер длительный цикл поддержки для ветки ядра Linux 6.1 — до 10 лет](https://habr.com/ru/news/767382/?utm_campaign=767382&utm_source=habrahabr&utm_medium=rss)
