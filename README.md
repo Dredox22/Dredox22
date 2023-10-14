@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила подробную инструкцию как скачать и установить Linux на ПК](https://habr.com/ru/news/767478/?utm_campaign=767478&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tor Browser 13.0](https://habr.com/ru/news/767448/?utm_campaign=767448&utm_source=habrahabr&utm_medium=rss)
 - [Поисковик Google предложил тестировщикам опцию генерации изображений](https://habr.com/ru/news/767444/?utm_campaign=767444&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries отменила ввод 3% комиссии при оплате картами Visa и Mastercard](https://habr.com/ru/news/767426/?utm_campaign=767426&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выяснил, что ChatGPT с опцией распознавания изображения может «лгать» в ответе на запрос](https://habr.com/ru/news/767420/?utm_campaign=767420&utm_source=habrahabr&utm_medium=rss)
-- [AMD отозвала драйвер, который приводит к бану в Counter-Strike 2](https://habr.com/ru/news/767418/?utm_campaign=767418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
