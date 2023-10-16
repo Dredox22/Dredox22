@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Альфа-банк» выпустил в AppStore приложение «Деньги есть»](https://habr.com/ru/news/767816/?utm_campaign=767816&utm_source=habrahabr&utm_medium=rss)
+- [Наземные станции для системы спутниковой связи «Скиф» хотят установить в Мурманске, Норильске и Анадыре](https://habr.com/ru/news/767810/?utm_campaign=767810&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/767808/?utm_campaign=767808&utm_source=habrahabr&utm_medium=rss)
 - [Анонсировали браузер Braid с функциями совместного доступа](https://habr.com/ru/news/767786/?utm_campaign=767786&utm_source=habrahabr&utm_medium=rss)
 - [Приближаемся к экватору Road Show SearchInform](https://habr.com/ru/companies/searchinform/news/767778/?utm_campaign=767778&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» представила принципы этичного использования ИИ в кибербезопасности](https://habr.com/ru/news/767762/?utm_campaign=767762&utm_source=habrahabr&utm_medium=rss)
-- [Acer представила игровой монитор SpatialLabs View Pro 27, поддерживающий стереоскопическое 3D и объёмный звук](https://habr.com/ru/news/767758/?utm_campaign=767758&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Gluestack UI — библиотеки UI-компонентов для React, Expo, Next.js и React Native](https://habr.com/ru/news/767742/?utm_campaign=767742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
