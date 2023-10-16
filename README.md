@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление фреймворка Electron 27.0.0](https://habr.com/ru/news/767866/?utm_campaign=767866&utm_source=habrahabr&utm_medium=rss)
 - [Xsolla купила сервис для стримов Lightstream](https://habr.com/ru/news/767860/?utm_campaign=767860&utm_source=habrahabr&utm_medium=rss)
 - [Spotify начала сотрудничать с Shopify в рамках продажи мерча создателей контента](https://habr.com/ru/news/767838/?utm_campaign=767838&utm_source=habrahabr&utm_medium=rss)
 - [«Альфа-банк» выпустил в AppStore приложение «Деньги есть»](https://habr.com/ru/news/767816/?utm_campaign=767816&utm_source=habrahabr&utm_medium=rss)
 - [Наземные станции для системы спутниковой связи «Скиф» хотят установить в Мурманске, Норильске и Анадыре](https://habr.com/ru/news/767810/?utm_campaign=767810&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/767808/?utm_campaign=767808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
