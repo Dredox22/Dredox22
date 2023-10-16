@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ведомости»: телеканалы и операторов обяжут создать ИБ-подразделения](https://habr.com/ru/news/767692/?utm_campaign=767692&utm_source=habrahabr&utm_medium=rss)
+- [Поставки Nvidia H800 в Китай могут быть запрещены новыми правилами экспорта США](https://habr.com/ru/companies/dcmiran/news/767676/?utm_campaign=767676&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft планирует отключить аутентификацию NTLM в Windows 11](https://habr.com/ru/news/767674/?utm_campaign=767674&utm_source=habrahabr&utm_medium=rss)
 - [В сборке Linux 6.6-rc6 исправлена проблема сбоя ядра Linux при отключении USB-приемников Logitech](https://habr.com/ru/news/767660/?utm_campaign=767660&utm_source=habrahabr&utm_medium=rss)
 - [Из-за бага в iOS 17.0.3 не показываются фото и имена контактов](https://habr.com/ru/news/767654/?utm_campaign=767654&utm_source=habrahabr&utm_medium=rss)
-- [Японская Fujitsu ликвидирует российское юрлицо](https://habr.com/ru/news/767652/?utm_campaign=767652&utm_source=habrahabr&utm_medium=rss)
-- [Трёхмодальный вызов — ещё один шаг к сильному AI](https://habr.com/ru/companies/sberbank/news/767646/?utm_campaign=767646&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome начал показывать объём потребления памяти каждой вкладкой](https://habr.com/ru/news/767644/?utm_campaign=767644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
