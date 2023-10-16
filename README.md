@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open 3D Foundation представила открытый игровой 3D-движок Open 3D Engine 23.10](https://habr.com/ru/news/767628/?utm_campaign=767628&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты фирменных магазинов Apple Store смогут обновлять новые iPhone без вскрытия упаковки](https://habr.com/ru/news/767624/?utm_campaign=767624&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила программу поиска уязвимостей в своих ИИ-продуктах](https://habr.com/ru/news/767576/?utm_campaign=767576&utm_source=habrahabr&utm_medium=rss)
 - [Для Windows вышла бета-версия десктопного клиента Franz для Apache Kafka](https://habr.com/ru/news/767564/?utm_campaign=767564&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил Linux на Arduino Uno](https://habr.com/ru/news/767550/?utm_campaign=767550&utm_source=habrahabr&utm_medium=rss)
-- [Проект Linux on the Web, который технически не связан с Linux, а показывает онлайн принципы философии Unix](https://habr.com/ru/news/767510/?utm_campaign=767510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
