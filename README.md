@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты фирменных магазинов Apple Store смогут обновлять новые iPhone без вскрытия упаковки](https://habr.com/ru/news/767624/?utm_campaign=767624&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила программу поиска уязвимостей в своих ИИ-продуктах](https://habr.com/ru/news/767576/?utm_campaign=767576&utm_source=habrahabr&utm_medium=rss)
 - [Для Windows вышла бета-версия десктопного клиента Franz для Apache Kafka](https://habr.com/ru/news/767564/?utm_campaign=767564&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил Linux на Arduino Uno](https://habr.com/ru/news/767550/?utm_campaign=767550&utm_source=habrahabr&utm_medium=rss)
 - [Проект Linux on the Web, который технически не связан с Linux, а показывает онлайн принципы философии Unix](https://habr.com/ru/news/767510/?utm_campaign=767510&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты обнаружили муху под видеочипом Nvidia GeForce RTX 4090 Founders Edition из-за которой видеокарта не работала](https://habr.com/ru/news/767500/?utm_campaign=767500&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
