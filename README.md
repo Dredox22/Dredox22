@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» представила принципы этичного использования ИИ в кибербезопасности](https://habr.com/ru/news/767762/?utm_campaign=767762&utm_source=habrahabr&utm_medium=rss)
+- [Acer представила игровой монитор SpatialLabs View Pro 27, поддерживающий стереоскопическое 3D и объёмный звук](https://habr.com/ru/news/767758/?utm_campaign=767758&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Gluestack UI — библиотеки UI-компонентов для React, Expo, Next.js и React Native](https://habr.com/ru/news/767742/?utm_campaign=767742&utm_source=habrahabr&utm_medium=rss)
 - [«СберТех» начала предоставлять доступ российским компаниям к собственной серверной ОС SberLinux OS Server](https://habr.com/ru/news/767716/?utm_campaign=767716&utm_source=habrahabr&utm_medium=rss)
 - [Разговор о квантовых компьютерах и постквантовых технологиях шифрования](https://habr.com/ru/companies/kryptonite/news/766700/?utm_campaign=766700&utm_source=habrahabr&utm_medium=rss)
-- [«Ведомости»: телеканалы и операторов обяжут создать ИБ-подразделения](https://habr.com/ru/news/767692/?utm_campaign=767692&utm_source=habrahabr&utm_medium=rss)
-- [Поставки Nvidia H800 в Китай могут быть запрещены новыми правилами экспорта США](https://habr.com/ru/companies/dcmiran/news/767676/?utm_campaign=767676&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует отключить аутентификацию NTLM в Windows 11](https://habr.com/ru/news/767674/?utm_campaign=767674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
