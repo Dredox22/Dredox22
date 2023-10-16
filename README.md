@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Японская Fujitsu ликвидирует российское юрлицо](https://habr.com/ru/news/767652/?utm_campaign=767652&utm_source=habrahabr&utm_medium=rss)
+- [Трёхмодальный вызов — ещё один шаг к сильному AI](https://habr.com/ru/companies/sberbank/news/767646/?utm_campaign=767646&utm_source=habrahabr&utm_medium=rss)
+- [Google Chrome начал показывать объём потребления памяти каждой вкладкой](https://habr.com/ru/news/767644/?utm_campaign=767644&utm_source=habrahabr&utm_medium=rss)
 - [Open 3D Foundation представила открытый игровой 3D-движок Open 3D Engine 23.10](https://habr.com/ru/news/767628/?utm_campaign=767628&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты фирменных магазинов Apple Store смогут обновлять новые iPhone без вскрытия упаковки](https://habr.com/ru/news/767624/?utm_campaign=767624&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила программу поиска уязвимостей в своих ИИ-продуктах](https://habr.com/ru/news/767576/?utm_campaign=767576&utm_source=habrahabr&utm_medium=rss)
-- [Для Windows вышла бета-версия десктопного клиента Franz для Apache Kafka](https://habr.com/ru/news/767564/?utm_campaign=767564&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст запустил Linux на Arduino Uno](https://habr.com/ru/news/767550/?utm_campaign=767550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
