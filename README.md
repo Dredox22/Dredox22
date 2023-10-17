@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi представила собственную мобильную операционную систему](https://habr.com/ru/news/768032/?utm_campaign=768032&utm_source=habrahabr&utm_medium=rss)
 - [В Канзасе судебные системы перевели в автономный режим после «инцидента с безопасностью»](https://habr.com/ru/news/767978/?utm_campaign=767978&utm_source=habrahabr&utm_medium=rss)
 - [Телеком-операторы разработают единый сервис для «маркировки» звонков с рекламой](https://habr.com/ru/news/767976/?utm_campaign=767976&utm_source=habrahabr&utm_medium=rss)
 - [МТС заключил с Telegram соглашение, позволяющее таргетировать рекламу в мессенджере по номеру телефона](https://habr.com/ru/news/767962/?utm_campaign=767962&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила покупки по внешней ссылке для разработчиков из РФ и только для приложений в РФ](https://habr.com/ru/news/767918/?utm_campaign=767918&utm_source=habrahabr&utm_medium=rss)
-- [Американский клиент Tesla обнаружил лазейку в платёжной системе компании и получил пять электромобилей на $560 тыс](https://habr.com/ru/news/767914/?utm_campaign=767914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
