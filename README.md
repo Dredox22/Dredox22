@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Astroid Framework v.3.0.0 для Joomla](https://habr.com/ru/news/768068/?utm_campaign=768068&utm_source=habrahabr&utm_medium=rss)
 - [МТС запускает бесплатную Школу аналитиков данных](https://habr.com/ru/companies/ru_mts/news/768052/?utm_campaign=768052&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» перевёл свою банкоматную сеть на собственный процессинг](https://habr.com/ru/news/768040/?utm_campaign=768040&utm_source=habrahabr&utm_medium=rss)
 - [Беспарольный вход стал основным для пользователей «ВКонтакте»](https://habr.com/ru/news/768036/?utm_campaign=768036&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi представила собственную мобильную операционную систему](https://habr.com/ru/news/768032/?utm_campaign=768032&utm_source=habrahabr&utm_medium=rss)
-- [В Канзасе судебные системы перевели в автономный режим после «инцидента с безопасностью»](https://habr.com/ru/news/767978/?utm_campaign=767978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
