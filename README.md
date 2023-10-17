@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст модернизировал винтажный проигрыватель Panasonic Stereo 8 с помощью Raspberry Pi Pico](https://habr.com/ru/news/768142/?utm_campaign=768142&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появились 3D-модели достопримечательностей Москвы и Санкт-Петербурга](https://habr.com/ru/news/768138/?utm_campaign=768138&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: информация компаниям в РФ, которые столкнулись с трудностями в работе VPN](https://habr.com/ru/news/768130/?utm_campaign=768130&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила бесплатные консультации для разработчиков по программированию для Arm](https://habr.com/ru/news/768126/?utm_campaign=768126&utm_source=habrahabr&utm_medium=rss)
 - [Объявили список победителей конкурса js13kGames 2023](https://habr.com/ru/news/768078/?utm_campaign=768078&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Astroid Framework v.3.0.0 для Joomla](https://habr.com/ru/news/768068/?utm_campaign=768068&utm_source=habrahabr&utm_medium=rss)
-- [МТС запускает бесплатную Школу аналитиков данных](https://habr.com/ru/companies/ru_mts/news/768052/?utm_campaign=768052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
