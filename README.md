@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Техподдержка Apple: предположительно, выгорания дисплеев iPhone 15 Pro связано с использованием бета-версии iOS 17.1](https://habr.com/ru/news/767908/?utm_campaign=767908&utm_source=habrahabr&utm_medium=rss)
+- [Apple разрешила покупки по внешней ссылке для разработчиков из РФ и только для приложений в РФ](https://habr.com/ru/news/767918/?utm_campaign=767918&utm_source=habrahabr&utm_medium=rss)
+- [Американский клиент Tesla обнаружил лазейку в платёжной системе компании и получил пять электромобилей на $560 тыс](https://habr.com/ru/news/767914/?utm_campaign=767914&utm_source=habrahabr&utm_medium=rss)
+- [Техподдержка Apple: предположительно, выгорание дисплеев iPhone 15 Pro связано с использованием бета-версии iOS 17.1](https://habr.com/ru/news/767908/?utm_campaign=767908&utm_source=habrahabr&utm_medium=rss)
 - [Epic запустила программу поддержки Now On Epic для разработчиков старых игр и клиентов других цифровых платформ](https://habr.com/ru/news/767906/?utm_campaign=767906&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление фреймворка Electron 27.0.0](https://habr.com/ru/news/767866/?utm_campaign=767866&utm_source=habrahabr&utm_medium=rss)
-- [Xsolla купила сервис для стримов Lightstream](https://habr.com/ru/news/767860/?utm_campaign=767860&utm_source=habrahabr&utm_medium=rss)
-- [Spotify начала сотрудничать с Shopify в рамках продажи мерча создателей контента](https://habr.com/ru/news/767838/?utm_campaign=767838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
