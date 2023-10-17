@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Объявили список победителей конкурса js13kGames 2023](https://habr.com/ru/news/768078/?utm_campaign=768078&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Astroid Framework v.3.0.0 для Joomla](https://habr.com/ru/news/768068/?utm_campaign=768068&utm_source=habrahabr&utm_medium=rss)
 - [МТС запускает бесплатную Школу аналитиков данных](https://habr.com/ru/companies/ru_mts/news/768052/?utm_campaign=768052&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» перевёл свою банкоматную сеть на собственный процессинг](https://habr.com/ru/news/768040/?utm_campaign=768040&utm_source=habrahabr&utm_medium=rss)
 - [Беспарольный вход стал основным для пользователей «ВКонтакте»](https://habr.com/ru/news/768036/?utm_campaign=768036&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi представила собственную мобильную операционную систему](https://habr.com/ru/news/768032/?utm_campaign=768032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
