@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Администратор торрент-трекера FileList объявил о закрытии проекта, но энтузиасты взяли на себя дальнейшее развитие сайта](https://habr.com/ru/news/768368/?utm_campaign=768368&utm_source=habrahabr&utm_medium=rss)
 - [Утечка Microsoft: Windows 11 установлена на 400 млн устройств](https://habr.com/ru/news/768356/?utm_campaign=768356&utm_source=habrahabr&utm_medium=rss)
 - [Chrome на iOS и Android будет искать возможные опечатки в URL-адресах и предлагать исправления](https://habr.com/ru/news/768352/?utm_campaign=768352&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры — о системном программировании и разработке микропроцессоров в подкасте «Битовые маски»](https://habr.com/ru/companies/yadro/news/768338/?utm_campaign=768338&utm_source=habrahabr&utm_medium=rss)
 - [Apple пригласила разработчиков в свои лаборатории в восьми городах мира познакомиться с Vision Pro](https://habr.com/ru/news/768326/?utm_campaign=768326&utm_source=habrahabr&utm_medium=rss)
-- [Выпущена новая версия операционной системы «Альт Образование» 10.2](https://habr.com/ru/companies/basealtspo/news/768312/?utm_campaign=768312&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
