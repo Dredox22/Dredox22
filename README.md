@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple пригласила разработчиков познакомиться с Vision Pro в свои лаборатории в восьми городах мира](https://habr.com/ru/news/768326/?utm_campaign=768326&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры — о системном программировании и разработке микропроцессоров в подкасте «Битовые маски»](https://habr.com/ru/companies/yadro/news/768338/?utm_campaign=768338&utm_source=habrahabr&utm_medium=rss)
+- [Apple пригласила разработчиков в свои лаборатории в восьми городах мира познакомиться с Vision Pro](https://habr.com/ru/news/768326/?utm_campaign=768326&utm_source=habrahabr&utm_medium=rss)
 - [Выпущена новая версия операционной системы «Альт Образование» 10.2](https://habr.com/ru/companies/basealtspo/news/768312/?utm_campaign=768312&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Outpost24: в 2023 году среди ненадёжных паролей различных систем чаще всего встречаются admin и 123456](https://habr.com/ru/news/768276/?utm_campaign=768276&utm_source=habrahabr&utm_medium=rss)
 - [D-Link подтвердила факт утечки данных сотрудников и клиентов](https://habr.com/ru/news/768274/?utm_campaign=768274&utm_source=habrahabr&utm_medium=rss)
-- [В четырёх министерствах РФ появятся рабочие группы по ИИ](https://habr.com/ru/news/768268/?utm_campaign=768268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
