@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple пригласила разработчиков познакомиться с Vision Pro в свои лаборатории в восьми городах мира](https://habr.com/ru/news/768326/?utm_campaign=768326&utm_source=habrahabr&utm_medium=rss)
+- [Выпущена новая версия операционной системы «Альт Образование» 10.2](https://habr.com/ru/companies/basealtspo/news/768312/?utm_campaign=768312&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Outpost24: в 2023 году среди ненадёжных паролей различных систем чаще всего встречаются admin и 123456](https://habr.com/ru/news/768276/?utm_campaign=768276&utm_source=habrahabr&utm_medium=rss)
 - [D-Link подтвердила факт утечки данных сотрудников и клиентов](https://habr.com/ru/news/768274/?utm_campaign=768274&utm_source=habrahabr&utm_medium=rss)
 - [В четырёх министерствах РФ появятся рабочие группы по ИИ](https://habr.com/ru/news/768268/?utm_campaign=768268&utm_source=habrahabr&utm_medium=rss)
-- [В новом драйвере AMD Radeon Software Adrenalin 23.10.2 отключена опция Anti-Lag+ для избежания получения бана в играх](https://habr.com/ru/news/768264/?utm_campaign=768264&utm_source=habrahabr&utm_medium=rss)
-- [Tesla выпустила документацию по своему API и SDK для поддержки сторонних приложений](https://habr.com/ru/news/768242/?utm_campaign=768242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
