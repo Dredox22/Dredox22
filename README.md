@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование Outpost24: в 2023 году среди ненадёжных паролей различных систем чаще всего встречаются admin и 123456](https://habr.com/ru/news/768276/?utm_campaign=768276&utm_source=habrahabr&utm_medium=rss)
+- [D-Link подтвердила факт утечки данных сотрудников и клиентов](https://habr.com/ru/news/768274/?utm_campaign=768274&utm_source=habrahabr&utm_medium=rss)
+- [В четырёх министерствах РФ появятся рабочие группы по ИИ](https://habr.com/ru/news/768268/?utm_campaign=768268&utm_source=habrahabr&utm_medium=rss)
+- [В новом драйвере AMD Radeon Software Adrenalin 23.10.2 отключена опция Anti-Lag+ для избежания получения бана в играх](https://habr.com/ru/news/768264/?utm_campaign=768264&utm_source=habrahabr&utm_medium=rss)
 - [Tesla выпустила документацию по своему API и SDK для поддержки сторонних приложений](https://habr.com/ru/news/768242/?utm_campaign=768242&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представила YandexART — нейросеть для генерации изображений и анимаций](https://habr.com/ru/news/768098/?utm_campaign=768098&utm_source=habrahabr&utm_medium=rss)
-- [Обновление VirtualBox исправляет появление BSoD в Windows и поддерживает TPM](https://habr.com/ru/news/768222/?utm_campaign=768222&utm_source=habrahabr&utm_medium=rss)
-- [Компания Figure разрабатывает робота-гуманоида, который выполняет задачи автономно](https://habr.com/ru/news/768208/?utm_campaign=768208&utm_source=habrahabr&utm_medium=rss)
-- [В линейке Google Pixel 6 после установки Android 14 становится недоступна большая часть внутренней памяти](https://habr.com/ru/news/768204/?utm_campaign=768204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
