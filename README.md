@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Figure разрабатывает робота-гуманоида, который выполняет задачи автономно](https://habr.com/ru/news/768208/?utm_campaign=768208&utm_source=habrahabr&utm_medium=rss)
+- [В линейке Google Pixel 6 после установки Android 14 становится недоступна большая часть внутренней памяти](https://habr.com/ru/news/768204/?utm_campaign=768204&utm_source=habrahabr&utm_medium=rss)
 - [Вышли релизы Joomla 5.0 и Joomla 4.4](https://habr.com/ru/news/768194/?utm_campaign=768194&utm_source=habrahabr&utm_medium=rss)
 - [Начались продажи новых процессоров Intel 14-го поколения](https://habr.com/ru/companies/dcmiran/news/768184/?utm_campaign=768184&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст модернизировал винтажный проигрыватель Panasonic Stereo 8 с помощью Raspberry Pi Pico](https://habr.com/ru/news/768142/?utm_campaign=768142&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появились 3D-модели достопримечательностей Москвы и Санкт-Петербурга](https://habr.com/ru/news/768138/?utm_campaign=768138&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: информация компаниям в РФ, которые столкнулись с трудностями в работе VPN](https://habr.com/ru/news/768130/?utm_campaign=768130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
