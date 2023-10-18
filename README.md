@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ведущий разработчик Nightdive Studios предложил Microsoft сделать ремастер Heretic и Hexen](https://habr.com/ru/news/768382/?utm_campaign=768382&utm_source=habrahabr&utm_medium=rss)
+- [Портал iXBT.Games объявил об окончании съемок игрового шоу «НашЫ игры» и назвал предварительную дату трансляции шоу](https://habr.com/ru/news/768372/?utm_campaign=768372&utm_source=habrahabr&utm_medium=rss)
 - [Администратор торрент-трекера FileList объявил о закрытии проекта, но энтузиасты взяли на себя дальнейшее развитие сайта](https://habr.com/ru/news/768368/?utm_campaign=768368&utm_source=habrahabr&utm_medium=rss)
 - [Утечка Microsoft: Windows 11 установлена на 400 млн устройств](https://habr.com/ru/news/768356/?utm_campaign=768356&utm_source=habrahabr&utm_medium=rss)
 - [Chrome на iOS и Android будет искать возможные опечатки в URL-адресах и предлагать исправления](https://habr.com/ru/news/768352/?utm_campaign=768352&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры — о системном программировании и разработке микропроцессоров в подкасте «Битовые маски»](https://habr.com/ru/companies/yadro/news/768338/?utm_campaign=768338&utm_source=habrahabr&utm_medium=rss)
-- [Apple пригласила разработчиков в свои лаборатории в восьми городах мира познакомиться с Vision Pro](https://habr.com/ru/news/768326/?utm_campaign=768326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
