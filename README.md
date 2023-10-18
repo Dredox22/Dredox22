@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышли релизы Joomla 5.0 и Joomla 4.4](https://habr.com/ru/news/768194/?utm_campaign=768194&utm_source=habrahabr&utm_medium=rss)
+- [Начались продажи новых процессоров Intel 14-го поколения](https://habr.com/ru/companies/dcmiran/news/768184/?utm_campaign=768184&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст модернизировал винтажный проигрыватель Panasonic Stereo 8 с помощью Raspberry Pi Pico](https://habr.com/ru/news/768142/?utm_campaign=768142&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» появились 3D-модели достопримечательностей Москвы и Санкт-Петербурга](https://habr.com/ru/news/768138/?utm_campaign=768138&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: информация компаниям в РФ, которые столкнулись с трудностями в работе VPN](https://habr.com/ru/news/768130/?utm_campaign=768130&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила бесплатные консультации для разработчиков по программированию для Arm](https://habr.com/ru/news/768126/?utm_campaign=768126&utm_source=habrahabr&utm_medium=rss)
-- [Объявили список победителей конкурса js13kGames 2023](https://habr.com/ru/news/768078/?utm_campaign=768078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
