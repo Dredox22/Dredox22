@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PVS-Studio 7.27: проверка C# кода в VS Code, анализ Unreal Engine проектов в Rider и не только](https://habr.com/ru/companies/pvs-studio/news/768588/?utm_campaign=768588&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на RSHB DevSecOps Meetup, посвященный теме информационной безопасности в процессах](https://habr.com/ru/companies/rshb/news/768570/?utm_campaign=768570&utm_source=habrahabr&utm_medium=rss)
 - [Telegram Info и «Код Дурова»: в Telegram опровергли партнёрство МТС, позволяющее таргетировать рекламу в мессенджере](https://habr.com/ru/news/768558/?utm_campaign=768558&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp внедряет переключение между аккаунтами](https://habr.com/ru/news/768550/?utm_campaign=768550&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия GraphHopper 8.0](https://habr.com/ru/news/768490/?utm_campaign=768490&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отключает правило антиспама, которое переполняло ящики копиями исходящих писем](https://habr.com/ru/news/768474/?utm_campaign=768474&utm_source=habrahabr&utm_medium=rss)
-- [Версия Mortal Kombat 1 для ПК после каждого вылета создаёт гигабайты отчётов на системном диске](https://habr.com/ru/news/768472/?utm_campaign=768472&utm_source=habrahabr&utm_medium=rss)
+- [Аккаунты Firefox переименовываются в Аккаунты Mozilla](https://habr.com/ru/news/768534/?utm_campaign=768534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
