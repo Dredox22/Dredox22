@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Путин поручил перевести в РФ серверы и офисы игровых интернет-компаний](https://habr.com/ru/news/768638/?utm_campaign=768638&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил Localpilot — утилиту для локального использования аналогов GitHub Copilot на macOS](https://habr.com/ru/news/768624/?utm_campaign=768624&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.27: проверка C# кода в VS Code, анализ Unreal Engine проектов в Rider и не только](https://habr.com/ru/companies/pvs-studio/news/768588/?utm_campaign=768588&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на RSHB DevSecOps Meetup, посвященный теме информационной безопасности в процессах](https://habr.com/ru/companies/rshb/news/768570/?utm_campaign=768570&utm_source=habrahabr&utm_medium=rss)
 - [Telegram Info и «Код Дурова»: в Telegram опровергли партнёрство МТС, позволяющее таргетировать рекламу в мессенджере](https://habr.com/ru/news/768558/?utm_campaign=768558&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp внедряет переключение между аккаунтами](https://habr.com/ru/news/768550/?utm_campaign=768550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
