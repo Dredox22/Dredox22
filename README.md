@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отключает правило антиспама, которое переполняло ящики копиями исходящих писем](https://habr.com/ru/news/768474/?utm_campaign=768474&utm_source=habrahabr&utm_medium=rss)
+- [Версия Mortal Kombat 1 для ПК после каждого вылета создаёт гигабайты отчётов на системном диске](https://habr.com/ru/news/768472/?utm_campaign=768472&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило ввести утильсбор на иностранное IT-оборудование](https://habr.com/ru/news/768468/?utm_campaign=768468&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор подтвердил инцидент с масштабной утечкой данных клиентов «МТС Банка»](https://habr.com/ru/news/768448/?utm_campaign=768448&utm_source=habrahabr&utm_medium=rss)
 - [Ведущий разработчик Nightdive Studios предложил Microsoft сделать ремастер Heretic и Hexen](https://habr.com/ru/news/768382/?utm_campaign=768382&utm_source=habrahabr&utm_medium=rss)
-- [Портал iXBT.Games объявил об окончании съемок игрового шоу «НашЫ игры» и назвал предварительную дату трансляции шоу](https://habr.com/ru/news/768372/?utm_campaign=768372&utm_source=habrahabr&utm_medium=rss)
-- [Администратор торрент-трекера FileList объявил о закрытии проекта, но энтузиасты взяли на себя дальнейшее развитие сайта](https://habr.com/ru/news/768368/?utm_campaign=768368&utm_source=habrahabr&utm_medium=rss)
-- [Утечка Microsoft: Windows 11 установлена на 400 млн устройств](https://habr.com/ru/news/768356/?utm_campaign=768356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
