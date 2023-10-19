@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык программирования Mojo теперь доступен на macOS](https://habr.com/ru/news/768682/?utm_campaign=768682&utm_source=habrahabr&utm_medium=rss)
 - [Вышла русская локализация для Joomla 4.4.0](https://habr.com/ru/news/768678/?utm_campaign=768678&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Teams появится частная линия для избранных контактов](https://habr.com/ru/news/768672/?utm_campaign=768672&utm_source=habrahabr&utm_medium=rss)
 - [Представлены процессоры Threadripper 7000 и PRO 7000, от $1499 за десктопную модель](https://habr.com/ru/companies/dcmiran/news/768670/?utm_campaign=768670&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой сборке Windows 11 появилась возможность делиться паролями Wi-Fi с помощью QR-кодов](https://habr.com/ru/news/768668/?utm_campaign=768668&utm_source=habrahabr&utm_medium=rss)
-- [X &lpar;Twitter&rpar; начал блокировать поиск Bing](https://habr.com/ru/news/768654/?utm_campaign=768654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
