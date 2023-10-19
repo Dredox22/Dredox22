@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Microsoft Teams появится частная линия для избранных контактов](https://habr.com/ru/news/768672/?utm_campaign=768672&utm_source=habrahabr&utm_medium=rss)
+- [Представлены процессоры Threadripper 7000 и PRO 7000, от $1499 за десктопную модель](https://habr.com/ru/companies/dcmiran/news/768670/?utm_campaign=768670&utm_source=habrahabr&utm_medium=rss)
+- [В тестовой сборке Windows 11 появилась возможность делиться паролями Wi-Fi с помощью QR-кодов](https://habr.com/ru/news/768668/?utm_campaign=768668&utm_source=habrahabr&utm_medium=rss)
 - [X &lpar;Twitter&rpar; начал блокировать поиск Bing](https://habr.com/ru/news/768654/?utm_campaign=768654&utm_source=habrahabr&utm_medium=rss)
 - [Nau Engine обновила дорожную карту проекта и анонсировала дату начала закрытого альфа-тестирования игрового движка](https://habr.com/ru/news/768648/?utm_campaign=768648&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Путин поручил перевести в РФ серверы и офисы игровых интернет-компаний](https://habr.com/ru/news/768638/?utm_campaign=768638&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил Localpilot — утилиту для локального использования аналогов GitHub Copilot на macOS](https://habr.com/ru/news/768624/?utm_campaign=768624&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.27: проверка C# кода в VS Code, анализ Unreal Engine проектов в Rider и не только](https://habr.com/ru/companies/pvs-studio/news/768588/?utm_campaign=768588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
