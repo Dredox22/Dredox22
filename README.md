@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия GraphHopper 8.0](https://habr.com/ru/news/768490/?utm_campaign=768490&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отключает правило антиспама, которое переполняло ящики копиями исходящих писем](https://habr.com/ru/news/768474/?utm_campaign=768474&utm_source=habrahabr&utm_medium=rss)
 - [Версия Mortal Kombat 1 для ПК после каждого вылета создаёт гигабайты отчётов на системном диске](https://habr.com/ru/news/768472/?utm_campaign=768472&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило ввести утильсбор на иностранное IT-оборудование](https://habr.com/ru/news/768468/?utm_campaign=768468&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор подтвердил инцидент с масштабной утечкой данных клиентов «МТС Банка»](https://habr.com/ru/news/768448/?utm_campaign=768448&utm_source=habrahabr&utm_medium=rss)
-- [Ведущий разработчик Nightdive Studios предложил Microsoft сделать ремастер Heretic и Hexen](https://habr.com/ru/news/768382/?utm_campaign=768382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
