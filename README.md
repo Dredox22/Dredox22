@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Asterisk 21](https://habr.com/ru/news/768740/?utm_campaign=768740&utm_source=habrahabr&utm_medium=rss)
-- [Рекламную кампанию с вредоносом под видом Notepad++ не блокировали месяцами](https://habr.com/ru/news/768726/?utm_campaign=768726&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 улучшат определение местоположения](https://habr.com/ru/news/768724/?utm_campaign=768724&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры опубликовало критерии по выбору оператора для реестра провайдеров хостинга](https://habr.com/ru/news/768714/?utm_campaign=768714&utm_source=habrahabr&utm_medium=rss)
-- [Valve выпустила обновление для Counter-Strike 2, в котором проверяется версия драйвера AMD для исключения бана в VAC](https://habr.com/ru/news/768708/?utm_campaign=768708&utm_source=habrahabr&utm_medium=rss)
+- [Smart Engines представила новый ИИ для упрощения платежей](https://habr.com/ru/companies/smartengines/news/768766/?utm_campaign=768766&utm_source=habrahabr&utm_medium=rss)
+- [Universal Music подала в суд на Anthropic, утверждая, что компания незаконно использовала тексты песен для обучения ИИ](https://habr.com/ru/news/768760/?utm_campaign=768760&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники начали использовать новый тип атак с поддельным обновлением браузера](https://habr.com/ru/news/768754/?utm_campaign=768754&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 527 млн звонков с подменных номеров](https://habr.com/ru/news/768748/?utm_campaign=768748&utm_source=habrahabr&utm_medium=rss)
+- [Intel опубликовала движок распределённой трассировки лучей OSPRay 3.0](https://habr.com/ru/news/768746/?utm_campaign=768746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
