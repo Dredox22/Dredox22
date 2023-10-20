@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve выпустила обновление для Counter-Strike 2, в котором проверяется версия драйвера AMD для исключения бана в VAC](https://habr.com/ru/news/768708/?utm_campaign=768708&utm_source=habrahabr&utm_medium=rss)
+- [После обновления Microsoft Store в Windows 11 теперь запускается значительно быстрее, чем раньше](https://habr.com/ru/news/768704/?utm_campaign=768704&utm_source=habrahabr&utm_medium=rss)
+- [Автор курсов по Python и Pandas жалуется на вечный бан за рекламу торговли экзотическими животными](https://habr.com/ru/news/768702/?utm_campaign=768702&utm_source=habrahabr&utm_medium=rss)
 - [Google представила функцию сканирования в режиме реального времени на уровне кода в Google Play Protect](https://habr.com/ru/news/768684/?utm_campaign=768684&utm_source=habrahabr&utm_medium=rss)
 - [Язык программирования Mojo теперь доступен на macOS](https://habr.com/ru/news/768682/?utm_campaign=768682&utm_source=habrahabr&utm_medium=rss)
-- [Вышла русская локализация для Joomla 4.4.0](https://habr.com/ru/news/768678/?utm_campaign=768678&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Teams появится частная линия для избранных контактов](https://habr.com/ru/news/768672/?utm_campaign=768672&utm_source=habrahabr&utm_medium=rss)
-- [Представлены процессоры Threadripper 7000 и PRO 7000, от $1499 за десктопную модель](https://habr.com/ru/companies/dcmiran/news/768670/?utm_campaign=768670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
