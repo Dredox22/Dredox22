@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В BI.ZONE WAF обновлены правила для критической уязвимости Confluence с оценкой по шкале CVSS 10 баллов из 10](https://habr.com/ru/news/768816/?utm_campaign=768816&utm_source=habrahabr&utm_medium=rss)
+- [Аналитика в Retail: Подводные камни и новые возможности при замене Power BI](https://habr.com/ru/companies/visiology/news/768812/?utm_campaign=768812&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» представила доступ к материалам курса по кибербезопасности для школьников 7 класса](https://habr.com/ru/news/768800/?utm_campaign=768800&utm_source=habrahabr&utm_medium=rss)
 - [Apple уволила нескольких сотрудников китайского App Store за «несанкционированные контакты» с разработчиками](https://habr.com/ru/news/768788/?utm_campaign=768788&utm_source=habrahabr&utm_medium=rss)
 - [Британский музей оцифровывает всю свою коллекцию в ответ на недавние кражи](https://habr.com/ru/news/768780/?utm_campaign=768780&utm_source=habrahabr&utm_medium=rss)
-- [Smart Engines представила новый ИИ для упрощения платежей](https://habr.com/ru/companies/smartengines/news/768766/?utm_campaign=768766&utm_source=habrahabr&utm_medium=rss)
-- [Universal Music подала в суд на Anthropic, утверждая, что компания незаконно использовала тексты песен для обучения ИИ](https://habr.com/ru/news/768760/?utm_campaign=768760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
