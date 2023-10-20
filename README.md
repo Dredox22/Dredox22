@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google работает над режимом обслуживания, обеспечивающим безопасность персональных данных во время ремонта](https://habr.com/ru/news/768902/?utm_campaign=768902&utm_source=habrahabr&utm_medium=rss)
+- [Slack удалила свою статусную учётную запись &lpar;SlackStatus&rpar; в соцсети X](https://habr.com/ru/news/768900/?utm_campaign=768900&utm_source=habrahabr&utm_medium=rss)
 - [Nexign Java Meetup #18: красивая Kafka и jUnit-тесты](https://habr.com/ru/companies/billing/news/768872/?utm_campaign=768872&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» с 28 октября введут обязательную двухфакторную аутентификацию для всех пользователей](https://habr.com/ru/news/768858/?utm_campaign=768858&utm_source=habrahabr&utm_medium=rss)
 - [В BI.ZONE WAF обновлены правила для критической уязвимости Confluence с оценкой по шкале CVSS 10 баллов из 10](https://habr.com/ru/news/768816/?utm_campaign=768816&utm_source=habrahabr&utm_medium=rss)
-- [Аналитика в Retail: Подводные камни и новые возможности при замене Power BI](https://habr.com/ru/companies/visiology/news/768812/?utm_campaign=768812&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» предоставила доступ к материалам курса по кибербезопасности для школьников 7 класса](https://habr.com/ru/news/768800/?utm_campaign=768800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
