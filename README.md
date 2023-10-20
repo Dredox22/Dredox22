@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры опубликовало критерии по выбору оператора для реестра провайдеров хостинга](https://habr.com/ru/news/768714/?utm_campaign=768714&utm_source=habrahabr&utm_medium=rss)
 - [Valve выпустила обновление для Counter-Strike 2, в котором проверяется версия драйвера AMD для исключения бана в VAC](https://habr.com/ru/news/768708/?utm_campaign=768708&utm_source=habrahabr&utm_medium=rss)
 - [После обновления Microsoft Store в Windows 11 теперь запускается значительно быстрее, чем раньше](https://habr.com/ru/news/768704/?utm_campaign=768704&utm_source=habrahabr&utm_medium=rss)
 - [Автор курсов по Python и Pandas жалуется на вечный бан за рекламу торговли экзотическими животными](https://habr.com/ru/news/768702/?utm_campaign=768702&utm_source=habrahabr&utm_medium=rss)
 - [Google представила функцию сканирования в режиме реального времени на уровне кода в Google Play Protect](https://habr.com/ru/news/768684/?utm_campaign=768684&utm_source=habrahabr&utm_medium=rss)
-- [Язык программирования Mojo теперь доступен на macOS](https://habr.com/ru/news/768682/?utm_campaign=768682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
