@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В тестовой версии Windows 11 убран обход требования по TPM через команду &amp;quot;/product server&amp;quot; в setup.exe](https://habr.com/ru/news/768954/?utm_campaign=768954&utm_source=habrahabr&utm_medium=rss)
 - [Админ jabber.ru выявил MITM-атаку, проводимую на сервис в сетях немецких хостинг-провайдеров Hetzner и Linode](https://habr.com/ru/news/768914/?utm_campaign=768914&utm_source=habrahabr&utm_medium=rss)
 - [Федеральная комиссия по связи США получила от 20 операторов связи на официальный запрос невнятные отписки и спам](https://habr.com/ru/news/768908/?utm_campaign=768908&utm_source=habrahabr&utm_medium=rss)
 - [Google работает над режимом обслуживания, обеспечивающим безопасность персональных данных во время ремонта](https://habr.com/ru/news/768902/?utm_campaign=768902&utm_source=habrahabr&utm_medium=rss)
 - [Slack удалила свою статусную учётную запись &lpar;SlackStatus&rpar; в соцсети X](https://habr.com/ru/news/768900/?utm_campaign=768900&utm_source=habrahabr&utm_medium=rss)
-- [Nexign Java Meetup #18: красивая Kafka и jUnit-тесты](https://habr.com/ru/companies/billing/news/768872/?utm_campaign=768872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
