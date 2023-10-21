@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры займётся указанием президента РФ по переносу серверов иностранных игровых интернет-компаний в РФ](https://habr.com/ru/news/769014/?utm_campaign=769014&utm_source=habrahabr&utm_medium=rss)
+- [Сегодня портал iXBT.Games проводит трансляцию игрового шоу «НашЫ игры» в 21:00 &lpar;Мск&rpar;](https://habr.com/ru/news/769012/?utm_campaign=769012&utm_source=habrahabr&utm_medium=rss)
 - [Google внесла пять улучшений в работу адресной строки Chrome](https://habr.com/ru/news/769006/?utm_campaign=769006&utm_source=habrahabr&utm_medium=rss)
 - [Volvo подтвердила отключение доступа российским автовладельцем к своим информационным системам, включая Volvo on Call](https://habr.com/ru/news/768956/?utm_campaign=768956&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой версии Windows 11 убран обход требования по TPM через команду &amp;quot;/product server&amp;quot; в setup.exe](https://habr.com/ru/news/768954/?utm_campaign=768954&utm_source=habrahabr&utm_medium=rss)
-- [Админ jabber.ru выявил MITM-атаку, проводимую на сервис в сетях немецких хостинг-провайдеров Hetzner и Linode](https://habr.com/ru/news/768914/?utm_campaign=768914&utm_source=habrahabr&utm_medium=rss)
-- [Федеральная комиссия по связи США получила от 20 операторов связи на официальный запрос невнятные отписки и спам](https://habr.com/ru/news/768908/?utm_campaign=768908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
