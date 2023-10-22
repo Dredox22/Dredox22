@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia представила Eureka — ИИ-агента для обучения роботов выполнять сложные физические действия](https://habr.com/ru/news/769166/?utm_campaign=769166&utm_source=habrahabr&utm_medium=rss)
+- [Китайская налоговая и другие проверки пришли в офисы и на заводы тайваньской Foxconn](https://habr.com/ru/companies/dcmiran/news/769164/?utm_campaign=769164&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: долгое время Brave устанавливал свой VPN-клиент без возможности отказаться от этого, компания обещает всё исправить](https://habr.com/ru/news/769156/?utm_campaign=769156&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи смогли увидеть переписку между ИИ-системами ChatGPT и DALL-E 3 на естественном языке](https://habr.com/ru/news/769122/?utm_campaign=769122&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Node.js 21](https://habr.com/ru/news/769120/?utm_campaign=769120&utm_source=habrahabr&utm_medium=rss)
-- [Бета-версия Telegram Desktop поддерживает подсветку синтаксиса кода](https://habr.com/ru/news/769080/?utm_campaign=769080&utm_source=habrahabr&utm_medium=rss)
-- [Представлен минималистичный язык для рисования состоящий всего из 5 команд](https://habr.com/ru/news/769076/?utm_campaign=769076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
