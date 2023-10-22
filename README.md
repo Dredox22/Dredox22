@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен минималистичный язык для рисования состоящий всего из 5 команд](https://habr.com/ru/news/769076/?utm_campaign=769076&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт обнаружил, что блокировщик блокировщика рекламы в YouTube можно обойти с помощью user agent от Windows Phone](https://habr.com/ru/news/769058/?utm_campaign=769058&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры займётся указанием президента РФ по переносу серверов иностранных игровых интернет-компаний в РФ](https://habr.com/ru/news/769014/?utm_campaign=769014&utm_source=habrahabr&utm_medium=rss)
 - [Сегодня портал iXBT.Games проводит трансляцию игрового шоу «НашЫ игры» в 21:00 &lpar;Мск&rpar;](https://habr.com/ru/news/769012/?utm_campaign=769012&utm_source=habrahabr&utm_medium=rss)
 - [Google внесла пять улучшений в работу адресной строки Chrome](https://habr.com/ru/news/769006/?utm_campaign=769006&utm_source=habrahabr&utm_medium=rss)
-- [Volvo подтвердила отключение доступа российским автовладельцем к своим информационным системам, включая Volvo on Call](https://habr.com/ru/news/768956/?utm_campaign=768956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
