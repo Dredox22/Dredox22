@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи смогли увидеть переписку между ИИ-системами ChatGPT и DALL-E 3 на естественном языке](https://habr.com/ru/news/769122/?utm_campaign=769122&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Node.js 21](https://habr.com/ru/news/769120/?utm_campaign=769120&utm_source=habrahabr&utm_medium=rss)
 - [Бета-версия Telegram Desktop поддерживает подсветку синтаксиса кода](https://habr.com/ru/news/769080/?utm_campaign=769080&utm_source=habrahabr&utm_medium=rss)
 - [Представлен минималистичный язык для рисования состоящий всего из 5 команд](https://habr.com/ru/news/769076/?utm_campaign=769076&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт обнаружил, что блокировщик блокировщика рекламы в YouTube можно обойти с помощью user agent от Windows Phone](https://habr.com/ru/news/769058/?utm_campaign=769058&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры займётся указанием президента РФ по переносу серверов иностранных игровых интернет-компаний в РФ](https://habr.com/ru/news/769014/?utm_campaign=769014&utm_source=habrahabr&utm_medium=rss)
-- [Сегодня портал iXBT.Games проводит трансляцию игрового шоу «НашЫ игры» в 21:00 &lpar;Мск&rpar;](https://habr.com/ru/news/769012/?utm_campaign=769012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
