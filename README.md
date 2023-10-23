@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia представила Eureka — ИИ-агента для обучения роботов выполнять сложные физические действия](https://habr.com/ru/news/769166/?utm_campaign=769166&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила Eureka — ИИ-агента для обучения роботов выполнению сложных физических действий](https://habr.com/ru/news/769166/?utm_campaign=769166&utm_source=habrahabr&utm_medium=rss)
 - [Китайская налоговая и другие проверки пришли в офисы и на заводы тайваньской Foxconn](https://habr.com/ru/companies/dcmiran/news/769164/?utm_campaign=769164&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: долгое время Brave устанавливал свой VPN-клиент без возможности отказаться от этого, компания обещает всё исправить](https://habr.com/ru/news/769156/?utm_campaign=769156&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи смогли увидеть переписку между ИИ-системами ChatGPT и DALL-E 3 на естественном языке](https://habr.com/ru/news/769122/?utm_campaign=769122&utm_source=habrahabr&utm_medium=rss)
