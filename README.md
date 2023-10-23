@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google готовится тестировать новую опцию «Защита IP» в Chrome, которая скрывает IP-адреса пользователей](https://habr.com/ru/news/769186/?utm_campaign=769186&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила Eureka — ИИ-агента для обучения роботов выполнению сложных физических действий](https://habr.com/ru/news/769166/?utm_campaign=769166&utm_source=habrahabr&utm_medium=rss)
 - [Китайская налоговая и другие проверки пришли в офисы и на заводы тайваньской Foxconn](https://habr.com/ru/companies/dcmiran/news/769164/?utm_campaign=769164&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: долгое время Brave устанавливал свой VPN-клиент без возможности отказаться от этого, компания обещает всё исправить](https://habr.com/ru/news/769156/?utm_campaign=769156&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи смогли увидеть переписку между ИИ-системами ChatGPT и DALL-E 3 на естественном языке](https://habr.com/ru/news/769122/?utm_campaign=769122&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Node.js 21](https://habr.com/ru/news/769120/?utm_campaign=769120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
