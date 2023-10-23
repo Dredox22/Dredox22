@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-системы Smart Engines помогут банкам осуществлять идентификацию иностранцев для открытия счетов в России](https://habr.com/ru/companies/smartengines/news/769340/?utm_campaign=769340&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиасты обнаружили на серверах Microsoft  ISO-образы Windows 11 23H2](https://habr.com/ru/news/769334/?utm_campaign=769334&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft стала предлагать пользователям пройти опрос перед установкой Google Chrome из браузера Edge](https://habr.com/ru/news/769322/?utm_campaign=769322&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил карту для Apple Watch, стилизованную под радар из GTA: Vice City](https://habr.com/ru/news/769318/?utm_campaign=769318&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Geany 2.0](https://habr.com/ru/news/769272/?utm_campaign=769272&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: чат-бот Security Copilot открыт для некоторых корпоративных клиентов в режиме раннего доступа](https://habr.com/ru/news/769266/?utm_campaign=769266&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi 5 поступили в продажу](https://habr.com/ru/news/769252/?utm_campaign=769252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
