@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM представила чип NorthPole, который выполняет задачи ИИ в 25 раз эффективнее GPU](https://habr.com/ru/news/769192/?utm_campaign=769192&utm_source=habrahabr&utm_medium=rss)
-- [Google готовится тестировать новую опцию «Защита IP» в Chrome, которая скрывает IP-адреса пользователей](https://habr.com/ru/news/769186/?utm_campaign=769186&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила Eureka — ИИ-агента для обучения роботов выполнению сложных физических действий](https://habr.com/ru/news/769166/?utm_campaign=769166&utm_source=habrahabr&utm_medium=rss)
-- [Китайская налоговая и другие проверки пришли в офисы и на заводы тайваньской Foxconn](https://habr.com/ru/companies/dcmiran/news/769164/?utm_campaign=769164&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: долгое время Brave устанавливал свой VPN-клиент без возможности отказаться от этого, компания обещает всё исправить](https://habr.com/ru/news/769156/?utm_campaign=769156&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi 5 поступили в продажу](https://habr.com/ru/news/769252/?utm_campaign=769252&utm_source=habrahabr&utm_medium=rss)
+- [ОС «Альт СП релиз 10» совместимы с ключевыми носителями ESMART](https://habr.com/ru/companies/basealtspo/news/769250/?utm_campaign=769250&utm_source=habrahabr&utm_medium=rss)
+- [Банки выступили против закона о передаче спецслужбам доступа к информационным службам и базам с данными клиентов](https://habr.com/ru/news/769246/?utm_campaign=769246&utm_source=habrahabr&utm_medium=rss)
+- [Yandex Cloud и ШАД «Яндекса» создали нейросеть по распознаванию ирбисов](https://habr.com/ru/news/769240/?utm_campaign=769240&utm_source=habrahabr&utm_medium=rss)
+- [Obsidian Importer получил поддержку формата Apple Notes](https://habr.com/ru/news/769236/?utm_campaign=769236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
