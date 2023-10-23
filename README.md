@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/769380/?utm_campaign=769380&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-системы Smart Engines помогут банкам осуществлять идентификацию иностранцев для открытия счетов в России](https://habr.com/ru/companies/smartengines/news/769340/?utm_campaign=769340&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты обнаружили на серверах Microsoft  ISO-образы Windows 11 23H2](https://habr.com/ru/news/769334/?utm_campaign=769334&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft стала предлагать пользователям пройти опрос перед установкой Google Chrome из браузера Edge](https://habr.com/ru/news/769322/?utm_campaign=769322&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил карту для Apple Watch, стилизованную под радар из GTA: Vice City](https://habr.com/ru/news/769318/?utm_campaign=769318&utm_source=habrahabr&utm_medium=rss)
-- [Вышла интегрированная среда разработки Geany 2.0](https://habr.com/ru/news/769272/?utm_campaign=769272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
