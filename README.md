@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft стала предлагать пользователям пройти опрос перед установкой Google Chrome из браузера Edge](https://habr.com/ru/news/769322/?utm_campaign=769322&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил карту для Apple Watch, стилизованную под радар из GTA: Vice City](https://habr.com/ru/news/769318/?utm_campaign=769318&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Geany 2.0](https://habr.com/ru/news/769272/?utm_campaign=769272&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: чат-бот Security Copilot открыт для некоторых корпоративных клиентов в режиме раннего доступа](https://habr.com/ru/news/769266/?utm_campaign=769266&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi 5 поступили в продажу](https://habr.com/ru/news/769252/?utm_campaign=769252&utm_source=habrahabr&utm_medium=rss)
-- [ОС «Альт СП релиз 10» совместимы с ключевыми носителями ESMART](https://habr.com/ru/companies/basealtspo/news/769250/?utm_campaign=769250&utm_source=habrahabr&utm_medium=rss)
-- [Банки выступили против закона о передаче спецслужбам доступа к информационным службам и базам с данными клиентов](https://habr.com/ru/news/769246/?utm_campaign=769246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
