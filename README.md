@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатный аналог Photoshop отключил блокировку блокировщиков рекламы после отрицательной реакции сообщества](https://habr.com/ru/news/769478/?utm_campaign=769478&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик Сергей Киселёв выпустил версию 1.0.0 проекта BIOS с открытым кодом для Intel 8088](https://habr.com/ru/news/769474/?utm_campaign=769474&utm_source=habrahabr&utm_medium=rss)
 - [Разработку плагина Pest для тестирования кода на PHP теперь ведёт JetBrains](https://habr.com/ru/news/769456/?utm_campaign=769456&utm_source=habrahabr&utm_medium=rss)
 - [Мейтейнеры сетевого раздела ядра Linux представили план по удалению старых драйверов Wi-Fi для будущей сборки ядра Linux](https://habr.com/ru/news/769452/?utm_campaign=769452&utm_source=habrahabr&utm_medium=rss)
 - [Spotify назвала продукты с открытым кодом, которые в этом году получат поддержку из фонда FOSS](https://habr.com/ru/news/769446/?utm_campaign=769446&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 119](https://habr.com/ru/news/769442/?utm_campaign=769442&utm_source=habrahabr&utm_medium=rss)
-- [Число пользователей «Сферума» достигло 15 миллионов](https://habr.com/ru/news/769428/?utm_campaign=769428&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
