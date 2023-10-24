@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН: все узлы связи в России на 100% оборудованы средствами противодействия угрозам на базе оборудования ТСПУ](https://habr.com/ru/news/769678/?utm_campaign=769678&utm_source=habrahabr&utm_medium=rss)
+- [РКН отметил оперативность решения проблем с VPN-сервисами компаний в РФ, которые столкнулись с трудностями в работе VPN](https://habr.com/ru/news/769668/?utm_campaign=769668&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует полностью отключить сети 3G в России в 2027-2030 годах](https://habr.com/ru/news/769628/?utm_campaign=769628&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp прекратит поддержку ОС Android ниже версии 5.0 и iOS до версии 12 с 24 октября 2023 года](https://habr.com/ru/news/769602/?utm_campaign=769602&utm_source=habrahabr&utm_medium=rss)
 - [Портал iXBT.Games проводит трансляцию второй части игрового шоу «НашЫ игры» в 20:00 &lpar;Мск&rpar; 25 октября 2023](https://habr.com/ru/news/769594/?utm_campaign=769594&utm_source=habrahabr&utm_medium=rss)
-- [Объявлены победители конкурса по системному программированию Open OS Challenge 2023](https://habr.com/ru/news/769576/?utm_campaign=769576&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Chrome и Firefox планируют прекратить поддержку видеокодека Theora из-за проблем с безопасностью проекта](https://habr.com/ru/news/769574/?utm_campaign=769574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
