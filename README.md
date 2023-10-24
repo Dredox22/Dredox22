@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработку плагина Pest для тестирования кода на PHP теперь ведёт JetBrains](https://habr.com/ru/news/769456/?utm_campaign=769456&utm_source=habrahabr&utm_medium=rss)
+- [Мейтейнеры сетевого раздела ядра Linux представили план по удалению старых драйверов Wi-Fi для будущей сборки ядра Linux](https://habr.com/ru/news/769452/?utm_campaign=769452&utm_source=habrahabr&utm_medium=rss)
 - [Spotify назвала продукты с открытым кодом, которые в этом году получат поддержку из фонда FOSS](https://habr.com/ru/news/769446/?utm_campaign=769446&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 119](https://habr.com/ru/news/769442/?utm_campaign=769442&utm_source=habrahabr&utm_medium=rss)
 - [Число пользователей «Сферума» достигло 15 миллионов](https://habr.com/ru/news/769428/?utm_campaign=769428&utm_source=habrahabr&utm_medium=rss)
-- [Вышел начальный релиз ядра БМПОС &lpar;Базовая Модульная Платформа Операционных Систем&rpar; 0.1.231](https://habr.com/ru/news/769416/?utm_campaign=769416&utm_source=habrahabr&utm_medium=rss)
-- [Апелляционный суд утвердил приговор основателю Group-IB &lpar;F.A.C.C.T.&rpar; Сачкову, получившему 14 лет колонии строгого режима](https://habr.com/ru/news/769406/?utm_campaign=769406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
