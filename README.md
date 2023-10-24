@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Кибербезопасность: пятая встреча Дискуссионного клуба Музея криптографии](https://habr.com/ru/companies/kryptonite/news/769492/?utm_campaign=769492&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный аналог Photoshop отключил блокировку блокировщиков рекламы после отрицательной реакции сообщества](https://habr.com/ru/news/769478/?utm_campaign=769478&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Сергей Киселёв выпустил версию 1.0.0 проекта BIOS с открытым кодом для Intel 8088](https://habr.com/ru/news/769474/?utm_campaign=769474&utm_source=habrahabr&utm_medium=rss)
-- [Разработку плагина Pest для тестирования кода на PHP теперь ведёт JetBrains](https://habr.com/ru/news/769456/?utm_campaign=769456&utm_source=habrahabr&utm_medium=rss)
-- [Мейтейнеры сетевого раздела ядра Linux представили план по удалению старых драйверов Wi-Fi для будущей сборки ядра Linux](https://habr.com/ru/news/769452/?utm_campaign=769452&utm_source=habrahabr&utm_medium=rss)
+- [Apple планирует потратить более $5 млрд на покупку серверов для работы искусственного интеллекта](https://habr.com/ru/news/769560/?utm_campaign=769560&utm_source=habrahabr&utm_medium=rss)
+- [Трафик российских интернет-пользователей в Telegram за год вырос на десятки процентов](https://habr.com/ru/news/769554/?utm_campaign=769554&utm_source=habrahabr&utm_medium=rss)
+- [Сокращаем бизнес-риски с помощью решений Сloud.ru — бесплатный вебинар](https://habr.com/ru/companies/cloud_ru/news/769522/?utm_campaign=769522&utm_source=habrahabr&utm_medium=rss)
+- [Российский рынок профессиональной радиосвязи достиг 1,5 млрд рублей и 600 тыс. пользователей](https://habr.com/ru/news/769548/?utm_campaign=769548&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: учения про автономную работу рунета выявили проблемы с «живучестью» сетей в условиях внешнего воздействия](https://habr.com/ru/news/769546/?utm_campaign=769546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
