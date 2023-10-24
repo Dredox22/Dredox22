@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp прекратит поддержку ОС Android ниже версии 5.0 и iOS до версии 12 с 24 октября 2023 года](https://habr.com/ru/news/769602/?utm_campaign=769602&utm_source=habrahabr&utm_medium=rss)
+- [Портал iXBT.Games проводит трансляцию второй части игрового шоу «НашЫ игры» в 20:00 &lpar;Мск&rpar; 25 октября 2023](https://habr.com/ru/news/769594/?utm_campaign=769594&utm_source=habrahabr&utm_medium=rss)
 - [Объявлены победители конкурса по системному программированию Open OS Challenge 2023](https://habr.com/ru/news/769576/?utm_campaign=769576&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Chrome и Firefox планируют прекратить поддержку видеокодека Theora из-за проблем с безопасностью проекта](https://habr.com/ru/news/769574/?utm_campaign=769574&utm_source=habrahabr&utm_medium=rss)
 - [Встречай первый One day offer в страховании](https://habr.com/ru/companies/vsk_insurance/news/769562/?utm_campaign=769562&utm_source=habrahabr&utm_medium=rss)
-- [Apple планирует потратить более $5 млрд на покупку серверов для работы искусственного интеллекта](https://habr.com/ru/news/769560/?utm_campaign=769560&utm_source=habrahabr&utm_medium=rss)
-- [Трафик российских интернет-пользователей в Telegram за год вырос на десятки процентов](https://habr.com/ru/news/769554/?utm_campaign=769554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
