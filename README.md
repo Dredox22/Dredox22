@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Объявлены победители конкурса по системному программированию Open OS Challenge 2023](https://habr.com/ru/news/769576/?utm_campaign=769576&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Chrome и Firefox планируют прекратить поддержку видеокодека Theora из-за проблем с безопасностью проекта](https://habr.com/ru/news/769574/?utm_campaign=769574&utm_source=habrahabr&utm_medium=rss)
+- [Встречай первый One day offer в страховании](https://habr.com/ru/companies/vsk_insurance/news/769562/?utm_campaign=769562&utm_source=habrahabr&utm_medium=rss)
 - [Apple планирует потратить более $5 млрд на покупку серверов для работы искусственного интеллекта](https://habr.com/ru/news/769560/?utm_campaign=769560&utm_source=habrahabr&utm_medium=rss)
 - [Трафик российских интернет-пользователей в Telegram за год вырос на десятки процентов](https://habr.com/ru/news/769554/?utm_campaign=769554&utm_source=habrahabr&utm_medium=rss)
-- [Сокращаем бизнес-риски с помощью решений Сloud.ru — бесплатный вебинар](https://habr.com/ru/companies/cloud_ru/news/769522/?utm_campaign=769522&utm_source=habrahabr&utm_medium=rss)
-- [Российский рынок профессиональной радиосвязи достиг 1,5 млрд рублей и 600 тыс. пользователей](https://habr.com/ru/news/769548/?utm_campaign=769548&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: учения про автономную работу рунета выявили проблемы с «живучестью» сетей в условиях внешнего воздействия](https://habr.com/ru/news/769546/?utm_campaign=769546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
