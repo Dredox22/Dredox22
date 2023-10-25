@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Canonical увеличила время поддержки LTS-релизов Ubuntu 22.04 и 24.04 до 10 лет](https://habr.com/ru/news/769824/?utm_campaign=769824&utm_source=habrahabr&utm_medium=rss)
+- [Все гениальное — Simply! Встречаем обновленную ОС Simply Linux семейства «Альт»](https://habr.com/ru/companies/basealtspo/news/769820/?utm_campaign=769820&utm_source=habrahabr&utm_medium=rss)
+- [РКН: с 2021 года в России заблокировали 167 VPN-сервисов и более 200 почтовых сервисов](https://habr.com/ru/news/769810/?utm_campaign=769810&utm_source=habrahabr&utm_medium=rss)
 - [Liche Pi 4A представила ноутбук Lichee Console 4A для разработчиков RISC-V, выглядящий как уменьшенный Lenovo ThinkPad](https://habr.com/ru/news/769798/?utm_campaign=769798&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь Bing обошёл запрет для ИИ на распознавание графической пазл-капчи](https://habr.com/ru/news/769778/?utm_campaign=769778&utm_source=habrahabr&utm_medium=rss)
-- [Automattic приобрела платформу Texts за $50 млн](https://habr.com/ru/news/769760/?utm_campaign=769760&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» провела структурный анализ spyware импланта TriangleDB для заражения «Операцией Триангуляция»](https://habr.com/ru/news/769758/?utm_campaign=769758&utm_source=habrahabr&utm_medium=rss)
-- [РБК: стоимость рекламы в Telegram выросла на треть](https://habr.com/ru/news/769754/?utm_campaign=769754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
