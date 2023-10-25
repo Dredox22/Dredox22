@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Automattic приобрела платформу Texts за $50 млн](https://habr.com/ru/news/769760/?utm_campaign=769760&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» провела структурный анализ spyware импланта TriangleDB для заражения «Операцией Триангуляция»](https://habr.com/ru/news/769758/?utm_campaign=769758&utm_source=habrahabr&utm_medium=rss)
+- [РБК: стоимость рекламы в Telegram выросла на треть](https://habr.com/ru/news/769754/?utm_campaign=769754&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар “Next Generation Firewall: оптимальные стратегии выбора и внедрения”](https://habr.com/ru/companies/nubes/news/769734/?utm_campaign=769734&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик устроил NSFW-ловушку для сайтов, которые крадут его бесплатную веб-игру](https://habr.com/ru/news/769712/?utm_campaign=769712&utm_source=habrahabr&utm_medium=rss)
-- [В 1Password сообщили об инциденте безопасности после утечки в Okta](https://habr.com/ru/news/769688/?utm_campaign=769688&utm_source=habrahabr&utm_medium=rss)
-- [РКН: все узлы связи в России на 100% оборудованы средствами противодействия угрозам на базе оборудования ТСПУ](https://habr.com/ru/news/769678/?utm_campaign=769678&utm_source=habrahabr&utm_medium=rss)
-- [РКН отметил оперативность решения проблем с VPN-сервисами компаний в РФ, которые столкнулись с трудностями в работе VPN](https://habr.com/ru/news/769668/?utm_campaign=769668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
