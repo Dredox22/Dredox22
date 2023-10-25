@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла платформа nanoCAD 23.1, разработанная специально для ОС Astra Linux](https://habr.com/ru/news/769914/?utm_campaign=769914&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс ID будет удалять аккаунты, которыми не пользовались больше 2,5 лет](https://habr.com/ru/news/769912/?utm_campaign=769912&utm_source=habrahabr&utm_medium=rss)
 - [Скачивание пиратской программы из торрентов привело к заражению более 250 тысяч компьютеров](https://habr.com/ru/news/769906/?utm_campaign=769906&utm_source=habrahabr&utm_medium=rss)
 - [Передовые разработки отечественного производства представили на форуме «Микроэлектроника-2023»](https://habr.com/ru/companies/quanttelecom/news/769898/?utm_campaign=769898&utm_source=habrahabr&utm_medium=rss)
 - [В приложении «Госуслуги биометрия» стала доступна регистрация биометрии без загранпаспорта](https://habr.com/ru/news/769880/?utm_campaign=769880&utm_source=habrahabr&utm_medium=rss)
-- [«Дадата» покажет новый продукт — он ищет компании, похожие на заданную. Приходите на онлайн-презентацию](https://habr.com/ru/companies/hflabs/news/769864/?utm_campaign=769864&utm_source=habrahabr&utm_medium=rss)
-- [Как защитить ритейл от кибератак?](https://habr.com/ru/companies/k2tech/news/769858/?utm_campaign=769858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
