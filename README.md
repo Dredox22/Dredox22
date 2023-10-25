@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар “Next Generation Firewall: оптимальные стратегии выбора и внедрения”](https://habr.com/ru/companies/nubes/news/769734/?utm_campaign=769734&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик устроил NSFW-ловушку для сайтов, которые крадут его бесплатную веб-игру](https://habr.com/ru/news/769712/?utm_campaign=769712&utm_source=habrahabr&utm_medium=rss)
 - [В 1Password сообщили об инциденте безопасности после утечки в Okta](https://habr.com/ru/news/769688/?utm_campaign=769688&utm_source=habrahabr&utm_medium=rss)
 - [РКН: все узлы связи в России на 100% оборудованы средствами противодействия угрозам на базе оборудования ТСПУ](https://habr.com/ru/news/769678/?utm_campaign=769678&utm_source=habrahabr&utm_medium=rss)
 - [РКН отметил оперативность решения проблем с VPN-сервисами компаний в РФ, которые столкнулись с трудностями в работе VPN](https://habr.com/ru/news/769668/?utm_campaign=769668&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует полностью отключить сети 3G в России в 2027-2030 годах](https://habr.com/ru/news/769628/?utm_campaign=769628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
