@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи разработали методику изготовления оптимальных сверхпроводниковых плёнок](https://habr.com/ru/news/769970/?utm_campaign=769970&utm_source=habrahabr&utm_medium=rss)
+- [Google Play Protect по ошибке пометил два приложения Samsung как вредоносные и попросил пользователей удалить их](https://habr.com/ru/news/769968/?utm_campaign=769968&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики «Смуты» ответили на частые вопросы пользователей](https://habr.com/ru/news/769964/?utm_campaign=769964&utm_source=habrahabr&utm_medium=rss)
+- [В ЮУрГУ создали робота для изучения промышленных языков программирования](https://habr.com/ru/news/769960/?utm_campaign=769960&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты разогнали Intel Core i9-14900K до 8 ГГц и поставили рекорд по FPS в Counter-Strike 2](https://habr.com/ru/news/769938/?utm_campaign=769938&utm_source=habrahabr&utm_medium=rss)
-- [Вышла платформа nanoCAD 23.1, разработанная специально для ОС Astra Linux](https://habr.com/ru/news/769914/?utm_campaign=769914&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс ID будет удалять аккаунты, которыми не пользовались больше 2,5 лет](https://habr.com/ru/news/769912/?utm_campaign=769912&utm_source=habrahabr&utm_medium=rss)
-- [Скачивание пиратской программы из торрентов привело к заражению более 250 тысяч компьютеров](https://habr.com/ru/news/769906/?utm_campaign=769906&utm_source=habrahabr&utm_medium=rss)
-- [Передовые разработки отечественного производства представили на форуме «Микроэлектроника-2023»](https://habr.com/ru/companies/quanttelecom/news/769898/?utm_campaign=769898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
