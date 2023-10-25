@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ICL Техно представила линейку российских мониторов ViewRay](https://habr.com/ru/news/769984/?utm_campaign=769984&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи разработали методику изготовления оптимальных сверхпроводниковых плёнок](https://habr.com/ru/news/769970/?utm_campaign=769970&utm_source=habrahabr&utm_medium=rss)
 - [Google Play Protect по ошибке пометил два приложения Samsung как вредоносные и попросил пользователей удалить их](https://habr.com/ru/news/769968/?utm_campaign=769968&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики «Смуты» ответили на частые вопросы пользователей](https://habr.com/ru/news/769964/?utm_campaign=769964&utm_source=habrahabr&utm_medium=rss)
 - [В ЮУрГУ создали робота для изучения промышленных языков программирования](https://habr.com/ru/news/769960/?utm_campaign=769960&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты разогнали Intel Core i9-14900K до 8 ГГц и поставили рекорд по FPS в Counter-Strike 2](https://habr.com/ru/news/769938/?utm_campaign=769938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
