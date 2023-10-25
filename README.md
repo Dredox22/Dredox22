@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Скачивание пиратской программы из торрентов привело к заражению более 250 тысяч компьютеров](https://habr.com/ru/news/769906/?utm_campaign=769906&utm_source=habrahabr&utm_medium=rss)
+- [Передовые разработки отечественного производства представили на форуме «Микроэлектроника-2023»](https://habr.com/ru/companies/quanttelecom/news/769898/?utm_campaign=769898&utm_source=habrahabr&utm_medium=rss)
 - [В приложении «Госуслуги биометрия» стала доступна регистрация биометрии без загранпаспорта](https://habr.com/ru/news/769880/?utm_campaign=769880&utm_source=habrahabr&utm_medium=rss)
 - [«Дадата» покажет новый продукт — он ищет компании, похожие на заданную. Приходите на онлайн-презентацию](https://habr.com/ru/companies/hflabs/news/769864/?utm_campaign=769864&utm_source=habrahabr&utm_medium=rss)
 - [Как защитить ритейл от кибератак?](https://habr.com/ru/companies/k2tech/news/769858/?utm_campaign=769858&utm_source=habrahabr&utm_medium=rss)
-- [16 ноября проведем бесплатный онлайн-митап про аналитику в B2B](https://habr.com/ru/companies/naumen/news/769874/?utm_campaign=769874&utm_source=habrahabr&utm_medium=rss)
-- [Античит VAC в Counter-Strike 2 срабатывает из-за быстрого движения мышки при DPI 10K+ и банит пользователя](https://habr.com/ru/news/769862/?utm_campaign=769862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
