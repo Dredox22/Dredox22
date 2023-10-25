@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Наша платформа для хранения и обработки больших данных официально стала отечественной разработкой](https://habr.com/ru/companies/itsumma/news/769836/?utm_campaign=769836&utm_source=habrahabr&utm_medium=rss)
 - [Canonical увеличила время поддержки LTS-релизов Ubuntu 22.04 и 24.04 до 10 лет](https://habr.com/ru/news/769824/?utm_campaign=769824&utm_source=habrahabr&utm_medium=rss)
 - [Все гениальное — Simply! Встречаем обновленную ОС Simply Linux семейства «Альт»](https://habr.com/ru/companies/basealtspo/news/769820/?utm_campaign=769820&utm_source=habrahabr&utm_medium=rss)
 - [РКН: с 2021 года в России заблокировали 167 VPN-сервисов и более 200 почтовых сервисов](https://habr.com/ru/news/769810/?utm_campaign=769810&utm_source=habrahabr&utm_medium=rss)
 - [Liche Pi 4A представила ноутбук Lichee Console 4A для разработчиков RISC-V, выглядящий как уменьшенный Lenovo ThinkPad](https://habr.com/ru/news/769798/?utm_campaign=769798&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь Bing обошёл запрет для ИИ на распознавание графической пазл-капчи](https://habr.com/ru/news/769778/?utm_campaign=769778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
