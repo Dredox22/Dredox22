@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Liche Pi 4A представила ноутбук Lichee Console 4A для разработчиков RISC-V, выглядящий как уменьшенный Lenovo ThinkPad](https://habr.com/ru/news/769798/?utm_campaign=769798&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь Bing обошёл запрет для ИИ на распознавание графической пазл-капчи](https://habr.com/ru/news/769778/?utm_campaign=769778&utm_source=habrahabr&utm_medium=rss)
 - [Automattic приобрела платформу Texts за $50 млн](https://habr.com/ru/news/769760/?utm_campaign=769760&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» провела структурный анализ spyware импланта TriangleDB для заражения «Операцией Триангуляция»](https://habr.com/ru/news/769758/?utm_campaign=769758&utm_source=habrahabr&utm_medium=rss)
 - [РБК: стоимость рекламы в Telegram выросла на треть](https://habr.com/ru/news/769754/?utm_campaign=769754&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар “Next Generation Firewall: оптимальные стратегии выбора и внедрения”](https://habr.com/ru/companies/nubes/news/769734/?utm_campaign=769734&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик устроил NSFW-ловушку для сайтов, которые крадут его бесплатную веб-игру](https://habr.com/ru/news/769712/?utm_campaign=769712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
