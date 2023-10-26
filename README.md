@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Создатель The Password Game Нил Агарвал открыл на своём сайте neal.fun Музей артефактов Интернета](https://habr.com/ru/news/770166/?utm_campaign=770166&utm_source=habrahabr&utm_medium=rss)
 - [Google потребует от приложений Android более качественной модерации ИИ-контента](https://habr.com/ru/news/770142/?utm_campaign=770142&utm_source=habrahabr&utm_medium=rss)
 - [Unchartevice представила ноутбук Unchartevice 3310](https://habr.com/ru/news/770140/?utm_campaign=770140&utm_source=habrahabr&utm_medium=rss)
 - [GigaChat API открыли для некоммерческих проектов](https://habr.com/ru/news/770134/?utm_campaign=770134&utm_source=habrahabr&utm_medium=rss)
 - [Valve выпустила SteamVR 2.0](https://habr.com/ru/news/770128/?utm_campaign=770128&utm_source=habrahabr&utm_medium=rss)
-- [Финал олимпиады по программированию True Tech Champ прошёл в Москве](https://habr.com/ru/news/770110/?utm_campaign=770110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
