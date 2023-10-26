@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: Китай освоил передовую технологию производства чипов на старом оборудовании для фотолитографии ASML](https://habr.com/ru/news/770104/?utm_campaign=770104&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Word 40 лет](https://habr.com/ru/news/770090/?utm_campaign=770090&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость ПО ZenTao Max и ОС Astra Linux](https://habr.com/ru/companies/glowbyte/news/770088/?utm_campaign=770088&utm_source=habrahabr&utm_medium=rss)
-- [Падение выручки SK Hynix замедлилось и в III квартале сокращение составило всего 17%](https://habr.com/ru/companies/dcmiran/news/770052/?utm_campaign=770052&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: РКН разделит операторов связи на первичных и вторичных после анализа результатов учений по устойчивости рунета](https://habr.com/ru/news/770038/?utm_campaign=770038&utm_source=habrahabr&utm_medium=rss)
+- [Google потребует от приложений Android более качественной модерации ИИ-контента](https://habr.com/ru/news/770142/?utm_campaign=770142&utm_source=habrahabr&utm_medium=rss)
+- [Unchartevice представила ноутбук Unchartevice 3310](https://habr.com/ru/news/770140/?utm_campaign=770140&utm_source=habrahabr&utm_medium=rss)
+- [GigaChat API открыли для некоммерческих проектов](https://habr.com/ru/news/770134/?utm_campaign=770134&utm_source=habrahabr&utm_medium=rss)
+- [Valve выпустила SteamVR 2.0](https://habr.com/ru/news/770128/?utm_campaign=770128&utm_source=habrahabr&utm_medium=rss)
+- [Финал олимпиады по программированию True Tech Champ прошёл в Москве](https://habr.com/ru/news/770110/?utm_campaign=770110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
