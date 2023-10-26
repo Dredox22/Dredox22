@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nau Engine опубликовала видео с презентацией проекта](https://habr.com/ru/news/770192/?utm_campaign=770192&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» и «Ланит» вышли из совместного предприятия по производству серверов OpenYard](https://habr.com/ru/news/770180/?utm_campaign=770180&utm_source=habrahabr&utm_medium=rss)
 - [Учитывают ли российские компании ИБ-риски при принятии решений?](https://habr.com/ru/companies/solarsecurity/news/770102/?utm_campaign=770102&utm_source=habrahabr&utm_medium=rss)
 - [Создатель The Password Game Нил Агарвал открыл на своём сайте neal.fun Музей артефактов Интернета](https://habr.com/ru/news/770166/?utm_campaign=770166&utm_source=habrahabr&utm_medium=rss)
 - [Google потребует от приложений Android более качественной модерации ИИ-контента](https://habr.com/ru/news/770142/?utm_campaign=770142&utm_source=habrahabr&utm_medium=rss)
-- [Unchartevice представила ноутбук Unchartevice 3310](https://habr.com/ru/news/770140/?utm_campaign=770140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
