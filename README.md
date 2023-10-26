@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Падение выручки SK Hynix замедлилось и в III квартале сокращение составило всего 17%](https://habr.com/ru/companies/dcmiran/news/770052/?utm_campaign=770052&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: РКН разделит операторов связи на первичных и вторичных после анализа результатов учений по устойчивости рунета](https://habr.com/ru/news/770038/?utm_campaign=770038&utm_source=habrahabr&utm_medium=rss)
 - [Запатентован способ получения наночастиц для борьбы с ковидом](https://habr.com/ru/news/769976/?utm_campaign=769976&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» появились высокодетализированные карты для водителей](https://habr.com/ru/news/769946/?utm_campaign=769946&utm_source=habrahabr&utm_medium=rss)
 - [Arduino представила плату для подключения модулей Raspberry Pi к Portena](https://habr.com/ru/news/770026/?utm_campaign=770026&utm_source=habrahabr&utm_medium=rss)
-- [С помощью Flipper Zero стало возможно спамить пользователей ОС Android и Windows оповещениями по Bluetooth](https://habr.com/ru/news/770008/?utm_campaign=770008&utm_source=habrahabr&utm_medium=rss)
-- [ICL Техно представила линейку российских мониторов ViewRay](https://habr.com/ru/news/769984/?utm_campaign=769984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
