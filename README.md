@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Подтверждена совместимость ПО ZenTao Max и ОС Astra Linux](https://habr.com/ru/companies/glowbyte/news/770088/?utm_campaign=770088&utm_source=habrahabr&utm_medium=rss)
 - [Падение выручки SK Hynix замедлилось и в III квартале сокращение составило всего 17%](https://habr.com/ru/companies/dcmiran/news/770052/?utm_campaign=770052&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: РКН разделит операторов связи на первичных и вторичных после анализа результатов учений по устойчивости рунета](https://habr.com/ru/news/770038/?utm_campaign=770038&utm_source=habrahabr&utm_medium=rss)
 - [Запатентован способ получения наночастиц для борьбы с ковидом](https://habr.com/ru/news/769976/?utm_campaign=769976&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» появились высокодетализированные карты для водителей](https://habr.com/ru/news/769946/?utm_campaign=769946&utm_source=habrahabr&utm_medium=rss)
-- [Arduino представила плату для подключения модулей Raspberry Pi к Portena](https://habr.com/ru/news/770026/?utm_campaign=770026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
