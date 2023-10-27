@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Western Digital прекратила переговоры о покупке Kioxia из-за противодействия со стороны SK Hynix](https://habr.com/ru/news/770276/?utm_campaign=770276&utm_source=habrahabr&utm_medium=rss)
-- [Ранний релиз Fedora 39 задерживается в третий раз из-за ошибок в дистрибутиве](https://habr.com/ru/news/770264/?utm_campaign=770264&utm_source=habrahabr&utm_medium=rss)
-- [Canonical объявила кодовое имя Ubuntu 24.04 — Noble Numbat &lpar;Благородный Намбат&rpar;](https://habr.com/ru/news/770258/?utm_campaign=770258&utm_source=habrahabr&utm_medium=rss)
-- [В Arc появилась возможность делиться рабочими пространствами с пользователями любых браузеров](https://habr.com/ru/news/770232/?utm_campaign=770232&utm_source=habrahabr&utm_medium=rss)
-- [В iOS и macOS обнаружили уязвимость, позволяющую красть пароли из Safari](https://habr.com/ru/news/770228/?utm_campaign=770228&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики видеоигр, созданных с помощью Unity и Unreal Engine, смогут включить их в реестр отечественного ПО](https://habr.com/ru/news/770316/?utm_campaign=770316&utm_source=habrahabr&utm_medium=rss)
+- [MSI показала материнскую плату с питанием на тыльной стороне](https://habr.com/ru/companies/dcmiran/news/770310/?utm_campaign=770310&utm_source=habrahabr&utm_medium=rss)
+- [Команда Spotify Engineering представила Voyager — библиотеку для поиска ближайших соседей](https://habr.com/ru/news/770308/?utm_campaign=770308&utm_source=habrahabr&utm_medium=rss)
+- [Совместимая с Android операционка «Ред ОС М» на базе AOSP попала в реестр Минцифры](https://habr.com/ru/news/770304/?utm_campaign=770304&utm_source=habrahabr&utm_medium=rss)
+- [Сегодня состоится бесплатный RSHB DevSecOps Meetup по информационной безопасности в процессах](https://habr.com/ru/companies/rshb/news/770298/?utm_campaign=770298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
