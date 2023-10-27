@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Поисковик Google научился выдавать данные по исходному источнику изображений](https://habr.com/ru/news/770326/?utm_campaign=770326&utm_source=habrahabr&utm_medium=rss)
-- [Вышла KulebiaC v1.8.0 — внутри интеграция с SberCloud и поддержка Docker](https://habr.com/ru/companies/itsumma/news/770324/?utm_campaign=770324&utm_source=habrahabr&utm_medium=rss)
+- [Вышла KulebiaC v1.8.0 — внутри интеграция с Cloud.ru и поддержка Docker](https://habr.com/ru/companies/itsumma/news/770324/?utm_campaign=770324&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики видеоигр, созданных с помощью Unity и Unreal Engine, смогут включить их в реестр отечественного ПО](https://habr.com/ru/news/770316/?utm_campaign=770316&utm_source=habrahabr&utm_medium=rss)
 - [MSI показала материнскую плату с питанием на тыльной стороне](https://habr.com/ru/companies/dcmiran/news/770310/?utm_campaign=770310&utm_source=habrahabr&utm_medium=rss)
 - [Команда Spotify Engineering представила Voyager — библиотеку для поиска ближайших соседей](https://habr.com/ru/news/770308/?utm_campaign=770308&utm_source=habrahabr&utm_medium=rss)
