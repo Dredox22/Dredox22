@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI формирует команду для оценки «катастрофических рисков» ИИ](https://habr.com/ru/news/770374/?utm_campaign=770374&utm_source=habrahabr&utm_medium=rss)
+- [Angara Security заявила о запуске нового сезона образовательных программ для вузов РФ](https://habr.com/ru/news/770372/?utm_campaign=770372&utm_source=habrahabr&utm_medium=rss)
+- [В низкой производительности Cities: Skylines 2 обвинили процедурных горожан](https://habr.com/ru/news/770354/?utm_campaign=770354&utm_source=habrahabr&utm_medium=rss)
 - [Поисковик Google научился выдавать данные по исходному источнику изображений](https://habr.com/ru/news/770326/?utm_campaign=770326&utm_source=habrahabr&utm_medium=rss)
 - [Вышла KulebiaC v1.8.0 — внутри интеграция с Cloud.ru и поддержка Docker](https://habr.com/ru/companies/itsumma/news/770324/?utm_campaign=770324&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики видеоигр, созданных с помощью Unity и Unreal Engine, смогут включить их в реестр отечественного ПО](https://habr.com/ru/news/770316/?utm_campaign=770316&utm_source=habrahabr&utm_medium=rss)
-- [MSI показала материнскую плату с питанием на тыльной стороне](https://habr.com/ru/companies/dcmiran/news/770310/?utm_campaign=770310&utm_source=habrahabr&utm_medium=rss)
-- [Команда Spotify Engineering представила Voyager — библиотеку для поиска ближайших соседей](https://habr.com/ru/news/770308/?utm_campaign=770308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
