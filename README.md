@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ранний релиз Fedora 39 задерживается в третий раз из-за ошибок в дистрибутиве](https://habr.com/ru/news/770264/?utm_campaign=770264&utm_source=habrahabr&utm_medium=rss)
 - [Canonical объявила кодовое имя Ubuntu 24.04 — Noble Numbat &lpar;Благородный Намбат&rpar;](https://habr.com/ru/news/770258/?utm_campaign=770258&utm_source=habrahabr&utm_medium=rss)
 - [В Arc появилась возможность делиться рабочими пространствами с пользователями любых браузеров](https://habr.com/ru/news/770232/?utm_campaign=770232&utm_source=habrahabr&utm_medium=rss)
 - [В iOS и macOS обнаружили уязвимость, позволяющую красть пароли из Safari](https://habr.com/ru/news/770228/?utm_campaign=770228&utm_source=habrahabr&utm_medium=rss)
 - [Камера Leica M11-P добавляет криптографическую подпись к каждой фотографии](https://habr.com/ru/news/770222/?utm_campaign=770222&utm_source=habrahabr&utm_medium=rss)
-- [Nau Engine опубликовала видео с презентацией проекта](https://habr.com/ru/news/770192/?utm_campaign=770192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
