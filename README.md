@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН: новые меры понуждения в отношении 12 иностранных провайдеров хостинга будут действовать до их «приземления»](https://habr.com/ru/news/770422/?utm_campaign=770422&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI формирует команду для оценки «катастрофических рисков» ИИ](https://habr.com/ru/news/770374/?utm_campaign=770374&utm_source=habrahabr&utm_medium=rss)
 - [Angara Security заявила о запуске нового сезона образовательных программ для вузов РФ](https://habr.com/ru/news/770372/?utm_campaign=770372&utm_source=habrahabr&utm_medium=rss)
 - [В низкой производительности Cities: Skylines 2 обвинили процедурных горожан](https://habr.com/ru/news/770354/?utm_campaign=770354&utm_source=habrahabr&utm_medium=rss)
 - [Поисковик Google научился выдавать данные по исходному источнику изображений](https://habr.com/ru/news/770326/?utm_campaign=770326&utm_source=habrahabr&utm_medium=rss)
-- [Вышла KulebiaC v1.8.0 — внутри интеграция с Cloud.ru и поддержка Docker](https://habr.com/ru/companies/itsumma/news/770324/?utm_campaign=770324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
