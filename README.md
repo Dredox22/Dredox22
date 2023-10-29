@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NTDEV выпустила tiny11 core — облегчённую версию Windows 11, которой требуется всего 3 ГБ места на диске](https://habr.com/ru/news/770584/?utm_campaign=770584&utm_source=habrahabr&utm_medium=rss)
 - [Google в 2021 году заплатила $26 млрд за место поисковика по умолчанию в Safari, Firefox и в других браузерах](https://habr.com/ru/news/770580/?utm_campaign=770580&utm_source=habrahabr&utm_medium=rss)
 - [Gaijin Entertainment открыла исходные коды игрового движка Dagor Engine под лицензией BSD 3-Clause License](https://habr.com/ru/news/770568/?utm_campaign=770568&utm_source=habrahabr&utm_medium=rss)
 - [Глава Instagram**: Threads API находится в разработке](https://habr.com/ru/news/770542/?utm_campaign=770542&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над тем, чтобы в Windows 11 23H2 программная и аппаратная часть были согласованы](https://habr.com/ru/news/770540/?utm_campaign=770540&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Telegram: ответы 2.0, гибкие настройки ссылок, персональные цвета и многое другое](https://habr.com/ru/news/770520/?utm_campaign=770520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
