@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaijin Entertainment открыла исходные коды игрового движка Dagor Engine под лицензией BSD 3-Clause License](https://habr.com/ru/news/770568/?utm_campaign=770568&utm_source=habrahabr&utm_medium=rss)
 - [Глава Instagram**: Threads API находится в разработке](https://habr.com/ru/news/770542/?utm_campaign=770542&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над тем, чтобы в Windows 11 23H2 программная и аппаратная часть были согласованы](https://habr.com/ru/news/770540/?utm_campaign=770540&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Telegram: ответы 2.0, гибкие настройки ссылок, персональные цвета и многое другое](https://habr.com/ru/news/770520/?utm_campaign=770520&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft в курсе ошибки «Что-то пошло не так» [1001] у пользователей Microsoft 365 и предлагает два способа её обхода](https://habr.com/ru/news/770492/?utm_campaign=770492&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» по указанию РКН убрал из поисковой выдачи 12 сайтов иностранных хостингов, нарушающие законодательство РФ](https://habr.com/ru/news/770466/?utm_campaign=770466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
