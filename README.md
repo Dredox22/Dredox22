@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [[RU] Обновление инструмента поиска по нику Snoop Project до v1.3.9](https://habr.com/ru/news/770574/?utm_campaign=770574&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил ядро Linux в эмуляторе на Scratch](https://habr.com/ru/news/770618/?utm_campaign=770618&utm_source=habrahabr&utm_medium=rss)
 - [NTDEV выпустила tiny11 core — облегчённую версию Windows 11, которой требуется всего 3 ГБ места на диске](https://habr.com/ru/news/770584/?utm_campaign=770584&utm_source=habrahabr&utm_medium=rss)
 - [Google в 2021 году заплатила $26 млрд за место поисковика по умолчанию в Safari, Firefox и в других браузерах](https://habr.com/ru/news/770580/?utm_campaign=770580&utm_source=habrahabr&utm_medium=rss)
 - [Gaijin Entertainment открыла исходные коды игрового движка Dagor Engine под лицензией BSD 3-Clause License](https://habr.com/ru/news/770568/?utm_campaign=770568&utm_source=habrahabr&utm_medium=rss)
-- [Глава Instagram**: Threads API находится в разработке](https://habr.com/ru/news/770542/?utm_campaign=770542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
