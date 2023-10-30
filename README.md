@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Россияне стали в пять раз чаще платить через СБП](https://habr.com/ru/news/770686/?utm_campaign=770686&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» разработала нейроморфные чипы, моделирующие работу мозга](https://habr.com/ru/news/770682/?utm_campaign=770682&utm_source=habrahabr&utm_medium=rss)
 - [Зафиксирован сбой в работе Телеграм в Южном и Северо-Кавказском федеральных округах](https://habr.com/ru/news/770676/?utm_campaign=770676&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux 6.6](https://habr.com/ru/news/770660/?utm_campaign=770660&utm_source=habrahabr&utm_medium=rss)
 - [[RU] Обновление инструмента поиска по нику Snoop Project до v1.3.9](https://habr.com/ru/news/770574/?utm_campaign=770574&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик запустил ядро Linux в эмуляторе на Scratch](https://habr.com/ru/news/770618/?utm_campaign=770618&utm_source=habrahabr&utm_medium=rss)
-- [NTDEV выпустила tiny11 core — облегчённую версию Windows 11, которой требуется всего 3 ГБ места на диске](https://habr.com/ru/news/770584/?utm_campaign=770584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
