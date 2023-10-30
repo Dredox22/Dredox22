@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представленный в 2022 году на ЦИПР первый российский KVM‑коммутатор запущен в серийное производство](https://habr.com/ru/news/770860/?utm_campaign=770860&utm_source=habrahabr&utm_medium=rss)
+- [В iOS 17.1 появилась возможность устанавливать IPA-файлы, полученные по AirDrop](https://habr.com/ru/news/770858/?utm_campaign=770858&utm_source=habrahabr&utm_medium=rss)
 - [На юге РФ блокируют Shadowsocks](https://habr.com/ru/news/770840/?utm_campaign=770840&utm_source=habrahabr&utm_medium=rss)
 - [Windows 10 получила неожиданное обновление меню «Пуск»](https://habr.com/ru/news/770838/?utm_campaign=770838&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/770806/?utm_campaign=770806&utm_source=habrahabr&utm_medium=rss)
-- [SK hynix получила заказов на память HBM3 и HBM3E до конца 2024 года](https://habr.com/ru/companies/dcmiran/news/770778/?utm_campaign=770778&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» обнаружила, что криптомайтер StripedFly — сложное ВПО с многофункциональной структурой](https://habr.com/ru/news/770768/?utm_campaign=770768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
