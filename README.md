@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатории Касперского» обнаружила, что криптомайтер StripedFly — сложное ВПО многофункциональной структурой](https://habr.com/ru/news/770768/?utm_campaign=770768&utm_source=habrahabr&utm_medium=rss)
+- [LAION запустила проект Open Empathic для разработки открытой ИИ-модели для распознавания эмоций человека](https://habr.com/ru/news/770754/?utm_campaign=770754&utm_source=habrahabr&utm_medium=rss)
 - [Вышла СУБД MySQL 8.2](https://habr.com/ru/news/770728/?utm_campaign=770728&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5031455 для Windows 11 22H2 добавляет нативную поддержку форматов tar, 7-Zip, RAR и GZ](https://habr.com/ru/news/770716/?utm_campaign=770716&utm_source=habrahabr&utm_medium=rss)
 - [Россияне стали в пять раз чаще платить через СБП](https://habr.com/ru/news/770686/?utm_campaign=770686&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» разработала нейроморфные чипы, моделирующие работу мозга](https://habr.com/ru/news/770682/?utm_campaign=770682&utm_source=habrahabr&utm_medium=rss)
-- [Зафиксирован сбой в работе Телеграм в Южном и Северо-Кавказском федеральных округах](https://habr.com/ru/news/770676/?utm_campaign=770676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
