@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Лаборатории Касперского» обнаружила, что криптомайтер StripedFly — сложное ВПО многофункциональной структурой](https://habr.com/ru/news/770768/?utm_campaign=770768&utm_source=habrahabr&utm_medium=rss)
+- [SK hynix получила заказов на память HBM3 и HBM3E до конца 2024 года](https://habr.com/ru/companies/dcmiran/news/770778/?utm_campaign=770778&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» обнаружила, что криптомайтер StripedFly — сложное ВПО с многофункциональной структурой](https://habr.com/ru/news/770768/?utm_campaign=770768&utm_source=habrahabr&utm_medium=rss)
 - [LAION запустила проект Open Empathic для разработки открытой ИИ-модели для распознавания эмоций человека](https://habr.com/ru/news/770754/?utm_campaign=770754&utm_source=habrahabr&utm_medium=rss)
 - [Вышла СУБД MySQL 8.2](https://habr.com/ru/news/770728/?utm_campaign=770728&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5031455 для Windows 11 22H2 добавляет нативную поддержку форматов tar, 7-Zip, RAR и GZ](https://habr.com/ru/news/770716/?utm_campaign=770716&utm_source=habrahabr&utm_medium=rss)
-- [Россияне стали в пять раз чаще платить через СБП](https://habr.com/ru/news/770686/?utm_campaign=770686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
