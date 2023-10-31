@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel продаёт ещё один непрофильный бизнес](https://habr.com/ru/news/771128/?utm_campaign=771128&utm_source=habrahabr&utm_medium=rss)
+- [Android 13 стала самой популярной ОС через год после выпуска](https://habr.com/ru/news/771124/?utm_campaign=771124&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закроет программу Windows Insider MVP 31 декабря 2023 года](https://habr.com/ru/news/771116/?utm_campaign=771116&utm_source=habrahabr&utm_medium=rss)
 - [Учёным удалось найти ещё один способ управления квантовым «жидким светом»](https://habr.com/ru/news/771108/?utm_campaign=771108&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предоставила доступ к Windows 11 23H2 &lpar;билд 22631.2428&rpar; для OEM-производителей](https://habr.com/ru/news/771090/?utm_campaign=771090&utm_source=habrahabr&utm_medium=rss)
-- [Контейнеризация с двух нот](https://habr.com/ru/companies/croc/news/771064/?utm_campaign=771064&utm_source=habrahabr&utm_medium=rss)
-- [Институт Фраунгофера протестировал evoBOT — балансирующего складского робота](https://habr.com/ru/news/771072/?utm_campaign=771072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
