@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Роскомнадзор не получал уведомлений от НСПК о возможной утечке данных после атаки на сайт-визитку проекта](https://habr.com/ru/news/770996/?utm_campaign=770996&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс ID» добавил новый беспарольный способ входа — по картинке](https://habr.com/ru/news/770992/?utm_campaign=770992&utm_source=habrahabr&utm_medium=rss)
+- [Cервис безопасности Optimizer на смартфонах Huawei и Honor ложно обнаружил вирус TrojanSMS-PA в приложении Google](https://habr.com/ru/news/770990/?utm_campaign=770990&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи «VK Мессенджера» получили возможность начать диалог по номеру телефона](https://habr.com/ru/news/770982/?utm_campaign=770982&utm_source=habrahabr&utm_medium=rss)
 - [Омоглифы возвращаются: киберпреступники в 11 раз чаще стали использовать подмененные буквы во вредоносных письмах](https://habr.com/ru/companies/f_a_c_c_t/news/770976/?utm_campaign=770976&utm_source=habrahabr&utm_medium=rss)
-- [В Google Search и Lens появились новые функции для решения математических и научных задач](https://habr.com/ru/news/770970/?utm_campaign=770970&utm_source=habrahabr&utm_medium=rss)
-- [Канада запретила установку на правительственные устройства китайского WeChat и продуктов «Лаборатории Касперского»](https://habr.com/ru/news/770954/?utm_campaign=770954&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: сайт Национальной системы платёжных карт &lpar;НСПК, оператора платёжной системы «Мир»&rpar; подвергся кибератаке](https://habr.com/ru/news/770942/?utm_campaign=770942&utm_source=habrahabr&utm_medium=rss)
-- [Страшно быстрые новинки Apple, M3 и новые маки](https://habr.com/ru/companies/broadcast/news/770852/?utm_campaign=770852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
