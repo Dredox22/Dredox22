@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предоставила доступ к Windows 11 23H2 &lpar;билд 22631.2428&rpar; для OEM-производителей](https://habr.com/ru/news/771090/?utm_campaign=771090&utm_source=habrahabr&utm_medium=rss)
+- [Контейнеризация с двух нот](https://habr.com/ru/companies/croc/news/771064/?utm_campaign=771064&utm_source=habrahabr&utm_medium=rss)
+- [Институт Фраунгофера протестировал evoBOT — балансирующего складского робота](https://habr.com/ru/news/771072/?utm_campaign=771072&utm_source=habrahabr&utm_medium=rss)
 - [Российские компании начали предлагать общие лицензии на ПО для Windows и Linux](https://habr.com/ru/news/771056/?utm_campaign=771056&utm_source=habrahabr&utm_medium=rss)
 - [Atari приобрела Digital Eclipse в рамках развития проекта своей ретро-ориентированной стратегии](https://habr.com/ru/news/771044/?utm_campaign=771044&utm_source=habrahabr&utm_medium=rss)
-- [Приложение «Яндекс Музыка» теперь доступно для незрячих](https://habr.com/ru/news/771038/?utm_campaign=771038&utm_source=habrahabr&utm_medium=rss)
-- [Примите участие в исследовании применения Kubernetes в России](https://habr.com/ru/companies/vk/news/771026/?utm_campaign=771026&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Роскомнадзор не получал уведомлений от НСПК о возможной утечке данных после атаки на сайт-визитку проекта](https://habr.com/ru/news/770996/?utm_campaign=770996&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
