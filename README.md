@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Канада запретила установку на правительственные устройства китайского WeChat и продуктов «Лаборатории Касперского»](https://habr.com/ru/news/770954/?utm_campaign=770954&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: сайт Национальной системы платёжных карт &lpar;НСПК, оператора платёжной системы «Мир»&rpar; подвергся кибератаке](https://habr.com/ru/news/770942/?utm_campaign=770942&utm_source=habrahabr&utm_medium=rss)
 - [Страшно быстрые новинки Apple, M3 и новые маки](https://habr.com/ru/companies/broadcast/news/770852/?utm_campaign=770852&utm_source=habrahabr&utm_medium=rss)
 - [Потенциальная революция на рынке ЦП для ПК и ноутбуков: первые тесты процессора Snapdragon X Elite](https://habr.com/ru/companies/dcmiran/news/770874/?utm_campaign=770874&utm_source=habrahabr&utm_medium=rss)
 - [Telegram подвёл итоги конкурса иконок приложения среди дизайнеров](https://habr.com/ru/news/770868/?utm_campaign=770868&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» запустила регуляторный хаб знаний в области информационной безопасности](https://habr.com/ru/news/770866/?utm_campaign=770866&utm_source=habrahabr&utm_medium=rss)
-- [Представленный в 2022 году на ЦИПР первый российский KVM‑коммутатор запущен в серийное производство](https://habr.com/ru/news/770860/?utm_campaign=770860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
