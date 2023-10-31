@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские компании начали предлагать общие лицензии на ПО для Windows и Linux](https://habr.com/ru/news/771056/?utm_campaign=771056&utm_source=habrahabr&utm_medium=rss)
+- [Atari приобрела Digital Eclipse в рамках развития проекта своей ретро-ориентированной стратегии](https://habr.com/ru/news/771044/?utm_campaign=771044&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Яндекс Музыка» теперь доступно для незрячих](https://habr.com/ru/news/771038/?utm_campaign=771038&utm_source=habrahabr&utm_medium=rss)
 - [Примите участие в исследовании применения Kubernetes в России](https://habr.com/ru/companies/vk/news/771026/?utm_campaign=771026&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Роскомнадзор не получал уведомлений от НСПК о возможной утечке данных после атаки на сайт-визитку проекта](https://habr.com/ru/news/770996/?utm_campaign=770996&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс ID» добавил новый беспарольный способ входа — по картинке](https://habr.com/ru/news/770992/?utm_campaign=770992&utm_source=habrahabr&utm_medium=rss)
-- [Cервис безопасности Optimizer на смартфонах Huawei и Honor ложно обнаружил вирус TrojanSMS-PA в приложении Google](https://habr.com/ru/news/770990/?utm_campaign=770990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
