@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открылась регистрация на олимпиаду по спортивному программированию для школьников «Технокубок»](https://habr.com/ru/news/771282/?utm_campaign=771282&utm_source=habrahabr&utm_medium=rss)
+- [Starlink заработал в Грузии](https://habr.com/ru/news/771280/?utm_campaign=771280&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Маршрутизация» повысила точность маршрутов с помощью интеграции данных «Яндекс Погоды» и API «Яндекс Карт»](https://habr.com/ru/news/771270/?utm_campaign=771270&utm_source=habrahabr&utm_medium=rss)
 - [Школьники смогут подготовиться к ЕГЭ по информатике с помощью нейросети YandexGPT](https://habr.com/ru/news/771268/?utm_campaign=771268&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA потеряет до $5 млрд из-за санкций США против Китая](https://habr.com/ru/companies/dcmiran/news/771262/?utm_campaign=771262&utm_source=habrahabr&utm_medium=rss)
-- [«Не могу, я за рулём»: К2Тех перевел звонки водителей грузовиков в онлайн](https://habr.com/ru/companies/k2tech/news/771234/?utm_campaign=771234&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Bluetooth LE Spam позволяет спамить пользователей ОС Android и Windows оповещениями по Bluetooth](https://habr.com/ru/news/771248/?utm_campaign=771248&utm_source=habrahabr&utm_medium=rss)
-- [Ауф, Werewolves: новая группа вымогателей предлагает инсайдерам $1 млн за компромат на руководство](https://habr.com/ru/companies/f_a_c_c_t/news/771238/?utm_campaign=771238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
