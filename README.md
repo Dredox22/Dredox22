@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [НТЦ ИТ Роса показала плату с поверхностным монтажом «Р‑ФОНа» и объявила дату презентации смартфона](https://habr.com/ru/news/771314/?utm_campaign=771314&utm_source=habrahabr&utm_medium=rss)
+- [Большие данные в облаке — как их лучше хранить и структурировать обсудим 8 ноября на вебинаре Cloud.ru](https://habr.com/ru/companies/cloud_ru/news/771304/?utm_campaign=771304&utm_source=habrahabr&utm_medium=rss)
 - [Открылась регистрация на олимпиаду по спортивному программированию для школьников «Технокубок»](https://habr.com/ru/news/771282/?utm_campaign=771282&utm_source=habrahabr&utm_medium=rss)
 - [Starlink заработал в Грузии](https://habr.com/ru/news/771280/?utm_campaign=771280&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Маршрутизация» повысила точность маршрутов с помощью интеграции данных «Яндекс Погоды» и API «Яндекс Карт»](https://habr.com/ru/news/771270/?utm_campaign=771270&utm_source=habrahabr&utm_medium=rss)
-- [Школьники смогут подготовиться к ЕГЭ по информатике с помощью нейросети YandexGPT](https://habr.com/ru/news/771268/?utm_campaign=771268&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA потеряет до $5 млрд из-за санкций США против Китая](https://habr.com/ru/companies/dcmiran/news/771262/?utm_campaign=771262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
