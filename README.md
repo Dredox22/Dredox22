@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: Роскомнадзор не будет блокировать некоторые VPN-сервисы, которые соблюдают законодательство России](https://habr.com/ru/news/771224/?utm_campaign=771224&utm_source=habrahabr&utm_medium=rss)
-- [SIEM и EDR/NAC в экосистеме UserGate. Обновление UGOS 7.1](https://habr.com/ru/companies/usergate/news/771106/?utm_campaign=771106&utm_source=habrahabr&utm_medium=rss)
-- [Суверенному Рунету исполнилось 4 года](https://habr.com/ru/news/771194/?utm_campaign=771194&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия PowerToys v0.75](https://habr.com/ru/news/771118/?utm_campaign=771118&utm_source=habrahabr&utm_medium=rss)
-- [Tesla расширила набор сотрудников для обучения своих роботов-гуманоидов Optimus](https://habr.com/ru/news/771142/?utm_campaign=771142&utm_source=habrahabr&utm_medium=rss)
+- [Школьники смогут подготовиться к ЕГЭ по информатике с помощью нейросети YandexGPT](https://habr.com/ru/news/771268/?utm_campaign=771268&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA потеряет до $5 млрд из-за санкций США против Китая](https://habr.com/ru/companies/dcmiran/news/771262/?utm_campaign=771262&utm_source=habrahabr&utm_medium=rss)
+- [«Не могу, я за рулём»: К2Тех перевел звонки водителей грузовиков в онлайн](https://habr.com/ru/companies/k2tech/news/771234/?utm_campaign=771234&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Bluetooth LE Spam позволяет спамить пользователей ОС Android и Windows оповещениями по Bluetooth](https://habr.com/ru/news/771248/?utm_campaign=771248&utm_source=habrahabr&utm_medium=rss)
+- [Ауф, Werewolves: новая группа вымогателей предлагает инсайдерам $1 млн за компромат на руководство](https://habr.com/ru/companies/f_a_c_c_t/news/771238/?utm_campaign=771238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
