@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Роскомнадзор не будет блокировать некоторые VPN-сервисы, которые соблюдают законодательство России](https://habr.com/ru/news/771224/?utm_campaign=771224&utm_source=habrahabr&utm_medium=rss)
 - [SIEM и EDR/NAC в экосистеме UserGate. Обновление UGOS 7.1](https://habr.com/ru/companies/usergate/news/771106/?utm_campaign=771106&utm_source=habrahabr&utm_medium=rss)
 - [Суверенному Рунету исполнилось 4 года](https://habr.com/ru/news/771194/?utm_campaign=771194&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия PowerToys v0.75](https://habr.com/ru/news/771118/?utm_campaign=771118&utm_source=habrahabr&utm_medium=rss)
 - [Tesla расширила набор сотрудников для обучения своих роботов-гуманоидов Optimus](https://habr.com/ru/news/771142/?utm_campaign=771142&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia обновила бесплатный инструмент ICAT для анализа и сравнения изображений](https://habr.com/ru/news/771132/?utm_campaign=771132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
