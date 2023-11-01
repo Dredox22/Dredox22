@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nau Engine увеличила число слотов для закрытого альфа-теста отечественного игрового движка с 20 на ещё несколько команд](https://habr.com/ru/news/771348/?utm_campaign=771348&utm_source=habrahabr&utm_medium=rss)
 - [Глава Минцифры поддержал создание в России кибервойск с контрактниками](https://habr.com/ru/news/771334/?utm_campaign=771334&utm_source=habrahabr&utm_medium=rss)
 - [9 политик безопасности для сервиса Cloud Containers](https://habr.com/ru/companies/vk/news/771332/?utm_campaign=771332&utm_source=habrahabr&utm_medium=rss)
 - [Avast подтвердила ложное срабатывание службы безопасности на приложение Google для Android](https://habr.com/ru/news/771324/?utm_campaign=771324&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Музыка» впервые отчиталась об удалённых по требованию госорганов материалах](https://habr.com/ru/news/771318/?utm_campaign=771318&utm_source=habrahabr&utm_medium=rss)
-- [НТЦ ИТ Роса показала плату с поверхностным монтажом «Р‑ФОНа» и объявила дату презентации смартфона](https://habr.com/ru/news/771314/?utm_campaign=771314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
