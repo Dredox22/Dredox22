@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Музыка» впервые отчиталась об удалённых по требованию госорганов материалах](https://habr.com/ru/news/771318/?utm_campaign=771318&utm_source=habrahabr&utm_medium=rss)
 - [НТЦ ИТ Роса показала плату с поверхностным монтажом «Р‑ФОНа» и объявила дату презентации смартфона](https://habr.com/ru/news/771314/?utm_campaign=771314&utm_source=habrahabr&utm_medium=rss)
 - [Большие данные в облаке — как их лучше хранить и структурировать обсудим 8 ноября на вебинаре Cloud.ru](https://habr.com/ru/companies/cloud_ru/news/771304/?utm_campaign=771304&utm_source=habrahabr&utm_medium=rss)
 - [Открылась регистрация на олимпиаду по спортивному программированию для школьников «Технокубок»](https://habr.com/ru/news/771282/?utm_campaign=771282&utm_source=habrahabr&utm_medium=rss)
 - [Starlink заработал в Грузии](https://habr.com/ru/news/771280/?utm_campaign=771280&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Маршрутизация» повысила точность маршрутов с помощью интеграции данных «Яндекс Погоды» и API «Яндекс Карт»](https://habr.com/ru/news/771270/?utm_campaign=771270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
