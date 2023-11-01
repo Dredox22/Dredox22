@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила обновление Windows 11 2023 &lpar;23H2&rpar;](https://habr.com/ru/news/771386/?utm_campaign=771386&utm_source=habrahabr&utm_medium=rss)
 - [Nau Engine увеличила число слотов для закрытого альфа-теста отечественного игрового движка с 20 на ещё несколько команд](https://habr.com/ru/news/771348/?utm_campaign=771348&utm_source=habrahabr&utm_medium=rss)
 - [Глава Минцифры поддержал создание в России кибервойск с контрактниками](https://habr.com/ru/news/771334/?utm_campaign=771334&utm_source=habrahabr&utm_medium=rss)
 - [9 политик безопасности для сервиса Cloud Containers](https://habr.com/ru/companies/vk/news/771332/?utm_campaign=771332&utm_source=habrahabr&utm_medium=rss)
 - [Avast подтвердила ложное срабатывание службы безопасности на приложение Google для Android](https://habr.com/ru/news/771324/?utm_campaign=771324&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Музыка» впервые отчиталась об удалённых по требованию госорганов материалах](https://habr.com/ru/news/771318/?utm_campaign=771318&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
