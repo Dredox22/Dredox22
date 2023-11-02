@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Экспертный разбор: может ли Visiology 3 заменить Power BI для банков?](https://habr.com/ru/companies/glowbyte/news/771546/?utm_campaign=771546&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на ежегодный чемпионат для студентов AgroCode Data Science Cup](https://habr.com/ru/companies/rshb/news/771538/?utm_campaign=771538&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на ежегодный онлайн-хакатон AgroCode Hack](https://habr.com/ru/companies/rshb/news/771528/?utm_campaign=771528&utm_source=habrahabr&utm_medium=rss)
 - [Qrator Labs представила исследования по статистике DDoS‑атак третьего квартала 2023 года](https://habr.com/ru/news/771518/?utm_campaign=771518&utm_source=habrahabr&utm_medium=rss)
 - [Arturia выпустила бесплатную версию синтезатора Analog Lab Play](https://habr.com/ru/news/771482/?utm_campaign=771482&utm_source=habrahabr&utm_medium=rss)
-- [В 2023 году количество iPhone индийского производства достигло 14% от мировых поставок](https://habr.com/ru/news/771474/?utm_campaign=771474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
