@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Робототехники установили более 180 «роботов-волков» Super Monster Wolf в пригородах Японии для отпугивания животных](https://habr.com/ru/news/771442/?utm_campaign=771442&utm_source=habrahabr&utm_medium=rss)
 - [Международное подразделение «Яндекса» Yango запустило в Дубае собственный навигационный сервис Yango Maps](https://habr.com/ru/news/771418/?utm_campaign=771418&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой версии приложения Microsoft Store появилась возможность настройки пути установки игр](https://habr.com/ru/news/771408/?utm_campaign=771408&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Telegram которое позволяет убрать монохромный значок из трея](https://habr.com/ru/news/771398/?utm_campaign=771398&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила обновление Windows 11 2023 &lpar;23H2&rpar;](https://habr.com/ru/news/771386/?utm_campaign=771386&utm_source=habrahabr&utm_medium=rss)
-- [Nau Engine увеличила число слотов для закрытого альфа-теста отечественного игрового движка с 20 на ещё несколько команд](https://habr.com/ru/news/771348/?utm_campaign=771348&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минцифры поддержал создание в России кибервойск с контрактниками](https://habr.com/ru/news/771334/?utm_campaign=771334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
