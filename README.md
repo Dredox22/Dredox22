@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Arturia выпустила бесплатную версию синтезатора Analog Lab Play](https://habr.com/ru/news/771482/?utm_campaign=771482&utm_source=habrahabr&utm_medium=rss)
+- [В 2023 году количество iPhone индийского производства достигло 14% от мировых поставок](https://habr.com/ru/news/771474/?utm_campaign=771474&utm_source=habrahabr&utm_medium=rss)
+- [«Аквариус» запустил производство мониторов на заводах в Твери и Шуе](https://habr.com/ru/news/771470/?utm_campaign=771470&utm_source=habrahabr&utm_medium=rss)
 - [Новый релиз VS Code 1.84: можно изменять положение панели активности, скрывать вкладки редактора и многое другое](https://habr.com/ru/news/771452/?utm_campaign=771452&utm_source=habrahabr&utm_medium=rss)
 - [Робототехники установили более 180 «роботов-волков» Super Monster Wolf в пригородах Японии для отпугивания животных](https://habr.com/ru/news/771442/?utm_campaign=771442&utm_source=habrahabr&utm_medium=rss)
-- [Международное подразделение «Яндекса» Yango запустило в Дубае собственный навигационный сервис Yango Maps](https://habr.com/ru/news/771418/?utm_campaign=771418&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой версии приложения Microsoft Store появилась возможность настройки пути установки игр](https://habr.com/ru/news/771408/?utm_campaign=771408&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Telegram которое позволяет убрать монохромный значок из трея](https://habr.com/ru/news/771398/?utm_campaign=771398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
