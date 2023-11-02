@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый релиз VS Code 1.84: можно изменять положение панели активности, скрывать вкладки редактора и многое другое](https://habr.com/ru/news/771452/?utm_campaign=771452&utm_source=habrahabr&utm_medium=rss)
 - [Робототехники установили более 180 «роботов-волков» Super Monster Wolf в пригородах Японии для отпугивания животных](https://habr.com/ru/news/771442/?utm_campaign=771442&utm_source=habrahabr&utm_medium=rss)
 - [Международное подразделение «Яндекса» Yango запустило в Дубае собственный навигационный сервис Yango Maps](https://habr.com/ru/news/771418/?utm_campaign=771418&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой версии приложения Microsoft Store появилась возможность настройки пути установки игр](https://habr.com/ru/news/771408/?utm_campaign=771408&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Telegram которое позволяет убрать монохромный значок из трея](https://habr.com/ru/news/771398/?utm_campaign=771398&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила обновление Windows 11 2023 &lpar;23H2&rpar;](https://habr.com/ru/news/771386/?utm_campaign=771386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
