@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ядре Linux 6.7 убрана поддержка Intel Itanium &lpar;IA-64&rpar;](https://habr.com/ru/news/771658/?utm_campaign=771658&utm_source=habrahabr&utm_medium=rss)
+- [Суд присяжных в США признал основателя криптобиржи FTX Сэма Бэнкмана-Фрида виновным в мошенничестве и преступном сговоре](https://habr.com/ru/news/771646/?utm_campaign=771646&utm_source=habrahabr&utm_medium=rss)
+- [До конца 2025 года в РФ запустят производство компаунда](https://habr.com/ru/news/771644/?utm_campaign=771644&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies рассказала об актуальных киберугрозах за третий квартал 2023 года](https://habr.com/ru/news/771594/?utm_campaign=771594&utm_source=habrahabr&utm_medium=rss)
 - [StatCounter: доля десктопной версии Windows 11 впервые превысила 25%](https://habr.com/ru/news/771588/?utm_campaign=771588&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст предложил хранить ключи от криптокошелька на видеокассете VHS и в памяти игрового картриджа для Nintendo 64](https://habr.com/ru/news/771580/?utm_campaign=771580&utm_source=habrahabr&utm_medium=rss)
-- [Экспертный разбор: может ли Visiology 3 заменить Power BI для банков?](https://habr.com/ru/companies/glowbyte/news/771546/?utm_campaign=771546&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на ежегодный чемпионат для студентов AgroCode Data Science Cup](https://habr.com/ru/companies/rshb/news/771538/?utm_campaign=771538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
