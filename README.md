@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Автор книги You Don’t Know JS Yet рассказал, что его не взяли на работу из-за недостаточных технических навыков](https://habr.com/ru/news/771822/?utm_campaign=771822&utm_source=habrahabr&utm_medium=rss)
 - [Amazon выложила в открытый доступ инструментарий для Linux-контейнеров Finch 1.0](https://habr.com/ru/news/771802/?utm_campaign=771802&utm_source=habrahabr&utm_medium=rss)
 - [Samsung поднимает цены на NAND-память на 20%. Это конец дешевых SSD](https://habr.com/ru/companies/dcmiran/news/771800/?utm_campaign=771800&utm_source=habrahabr&utm_medium=rss)
 - [Роскосмос представил первую цифровую карту страны на основе космомониторинга](https://habr.com/ru/news/771786/?utm_campaign=771786&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратила продвигать API Web Environment Integrity и перевела этот проект на GitHub в архивный режим](https://habr.com/ru/news/771770/?utm_campaign=771770&utm_source=habrahabr&utm_medium=rss)
-- [С вас анкета — с нас скидка](https://habr.com/ru/companies/slurm/news/771768/?utm_campaign=771768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
