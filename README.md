@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon выложила в открытый доступ инструментарий для Linux-контейнеров Finch 1.0](https://habr.com/ru/news/771802/?utm_campaign=771802&utm_source=habrahabr&utm_medium=rss)
+- [Samsung поднимает цены на NAND-память на 20%. Это конец дешевых SSD](https://habr.com/ru/companies/dcmiran/news/771800/?utm_campaign=771800&utm_source=habrahabr&utm_medium=rss)
 - [Роскосмос представил первую цифровую карту страны на основе космомониторинга](https://habr.com/ru/news/771786/?utm_campaign=771786&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратила продвигать API Web Environment Integrity и перевела этот проект на GitHub в архивный режим](https://habr.com/ru/news/771770/?utm_campaign=771770&utm_source=habrahabr&utm_medium=rss)
 - [С вас анкета — с нас скидка](https://habr.com/ru/companies/slurm/news/771768/?utm_campaign=771768&utm_source=habrahabr&utm_medium=rss)
-- [Российские IT-компании разработали концепцию отраслевого стандарта защиты данных](https://habr.com/ru/news/771752/?utm_campaign=771752&utm_source=habrahabr&utm_medium=rss)
-- [Утилита DoNotSpy11 для защиты от отслеживания позволяет отключить Windows Copilot](https://habr.com/ru/news/771748/?utm_campaign=771748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
