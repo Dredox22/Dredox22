@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google прекратила продвигать API Web Environment Integrity и перевела этот проект на GitHub в архивный режим](https://habr.com/ru/news/771770/?utm_campaign=771770&utm_source=habrahabr&utm_medium=rss)
+- [С вас анкета — с нас скидка](https://habr.com/ru/companies/slurm/news/771768/?utm_campaign=771768&utm_source=habrahabr&utm_medium=rss)
 - [Российские IT-компании разработали концепцию отраслевого стандарта защиты данных](https://habr.com/ru/news/771752/?utm_campaign=771752&utm_source=habrahabr&utm_medium=rss)
 - [Утилита DoNotSpy11 для защиты от отслеживания позволяет отключить Windows Copilot](https://habr.com/ru/news/771748/?utm_campaign=771748&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных курсов и занятий для начинающих разработчиков](https://habr.com/ru/companies/netologyru/news/771734/?utm_campaign=771734&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила, что Windows 11 23H2 в Media Creation Tool появится после «оптимизации»](https://habr.com/ru/news/771730/?utm_campaign=771730&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалила приложения Windows Maps и Movies and TV из тестовых дистрибутивов Windows 11](https://habr.com/ru/news/771728/?utm_campaign=771728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
