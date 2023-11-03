@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft подтвердила, что Windows 11 23H2 в Media Creation Tool появится после «оптимизации»](https://habr.com/ru/news/771730/?utm_campaign=771730&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft удалила приложения Windows Maps и Movies and TV из тестовых дистрибутивов Windows 11](https://habr.com/ru/news/771728/?utm_campaign=771728&utm_source=habrahabr&utm_medium=rss)
+- [В браузере Brave появился «анонимный и безопасный» чат-бот с ИИ](https://habr.com/ru/news/771706/?utm_campaign=771706&utm_source=habrahabr&utm_medium=rss)
 - [В Gaijin Entertainment назвали сюрпризом решение команды Nau Engine использовать наработки игрового движка Dagor Engine](https://habr.com/ru/news/771696/?utm_campaign=771696&utm_source=habrahabr&utm_medium=rss)
 - [У обладателей Xbox Series X|S при загрузке консоли стала отображаться реклама игры Call of Duty: Modern Warfare III](https://habr.com/ru/news/771686/?utm_campaign=771686&utm_source=habrahabr&utm_medium=rss)
-- [В ядре Linux 6.7 убрана поддержка Intel Itanium &lpar;IA-64&rpar;](https://habr.com/ru/news/771658/?utm_campaign=771658&utm_source=habrahabr&utm_medium=rss)
-- [Суд присяжных в США признал основателя криптобиржи FTX Сэма Бэнкмана-Фрида виновным в мошенничестве и преступном сговоре](https://habr.com/ru/news/771646/?utm_campaign=771646&utm_source=habrahabr&utm_medium=rss)
-- [До конца 2025 года в РФ запустят производство компаунда](https://habr.com/ru/news/771644/?utm_campaign=771644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
