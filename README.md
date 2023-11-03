@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Утилита DoNotSpy11 для защиты от отслеживания позволяет отключить Windows Copilot](https://habr.com/ru/news/771748/?utm_campaign=771748&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных курсов и занятий для начинающих разработчиков](https://habr.com/ru/companies/netologyru/news/771734/?utm_campaign=771734&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила, что Windows 11 23H2 в Media Creation Tool появится после «оптимизации»](https://habr.com/ru/news/771730/?utm_campaign=771730&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удалила приложения Windows Maps и Movies and TV из тестовых дистрибутивов Windows 11](https://habr.com/ru/news/771728/?utm_campaign=771728&utm_source=habrahabr&utm_medium=rss)
 - [В браузере Brave появился «анонимный и безопасный» чат-бот с ИИ](https://habr.com/ru/news/771706/?utm_campaign=771706&utm_source=habrahabr&utm_medium=rss)
-- [В Gaijin Entertainment назвали сюрпризом решение команды Nau Engine использовать наработки игрового движка Dagor Engine](https://habr.com/ru/news/771696/?utm_campaign=771696&utm_source=habrahabr&utm_medium=rss)
-- [У обладателей Xbox Series X|S при загрузке консоли стала отображаться реклама игры Call of Duty: Modern Warfare III](https://habr.com/ru/news/771686/?utm_campaign=771686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
