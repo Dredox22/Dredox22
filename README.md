@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ASML форсирует поставки DUV-оборудования в Китай до начала действия санкций](https://habr.com/ru/companies/dcmiran/news/771876/?utm_campaign=771876&utm_source=habrahabr&utm_medium=rss)
 - [НАСА обновило мобильное приложение Spot the Station для обнаружения МКС в небе с помощью смартфона](https://habr.com/ru/news/771844/?utm_campaign=771844&utm_source=habrahabr&utm_medium=rss)
 - [Разработано пассивное устройство охлаждения процессоров солёной водой](https://habr.com/ru/news/771838/?utm_campaign=771838&utm_source=habrahabr&utm_medium=rss)
 - [Автор книги You Don’t Know JS Yet рассказал, что его не взяли на работу из-за недостаточных технических навыков](https://habr.com/ru/news/771822/?utm_campaign=771822&utm_source=habrahabr&utm_medium=rss)
 - [Amazon выложила в открытый доступ инструментарий для Linux-контейнеров Finch 1.0](https://habr.com/ru/news/771802/?utm_campaign=771802&utm_source=habrahabr&utm_medium=rss)
-- [Samsung поднимает цены на NAND-память на 20%. Это конец дешевых SSD](https://habr.com/ru/companies/dcmiran/news/771800/?utm_campaign=771800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
