@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженеры Alienware увеличили механическую клавиатуру и мышку в 14 раз и проверили как на них можно играть в Dota 2](https://habr.com/ru/news/771936/?utm_campaign=771936&utm_source=habrahabr&utm_medium=rss)
 - [На VK Play открылся предзаказ «Смуты» с датой выхода 26 февраля 2024 года](https://habr.com/ru/news/771918/?utm_campaign=771918&utm_source=habrahabr&utm_medium=rss)
 - [ASML форсирует поставки DUV-оборудования в Китай до начала действия санкций](https://habr.com/ru/companies/dcmiran/news/771876/?utm_campaign=771876&utm_source=habrahabr&utm_medium=rss)
 - [НАСА обновило мобильное приложение Spot the Station для обнаружения МКС в небе с помощью смартфона](https://habr.com/ru/news/771844/?utm_campaign=771844&utm_source=habrahabr&utm_medium=rss)
 - [Разработано пассивное устройство охлаждения процессоров солёной водой](https://habr.com/ru/news/771838/?utm_campaign=771838&utm_source=habrahabr&utm_medium=rss)
-- [Автор книги You Don’t Know JS Yet рассказал, что его не взяли на работу из-за недостаточных технических навыков](https://habr.com/ru/news/771822/?utm_campaign=771822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
