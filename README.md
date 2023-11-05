@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub добавил поддержку нескольких аккаунтов](https://habr.com/ru/news/771990/?utm_campaign=771990&utm_source=habrahabr&utm_medium=rss)
 - [Ромеро выпустит новый эпизод для Doom под названием Sigil II 10 декабря 2023 года в день тридцатилетия культового шутера](https://habr.com/ru/news/771982/?utm_campaign=771982&utm_source=habrahabr&utm_medium=rss)
 - [В новых Mac у Apple появилась опция обнаружения жидкости в портах USB-C](https://habr.com/ru/news/771974/?utm_campaign=771974&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры Alienware увеличили механическую клавиатуру и мышку в 14 раз и проверили как на них можно играть в Dota 2](https://habr.com/ru/news/771936/?utm_campaign=771936&utm_source=habrahabr&utm_medium=rss)
 - [На VK Play открылся предзаказ «Смуты» с датой выхода 26 февраля 2024 года](https://habr.com/ru/news/771918/?utm_campaign=771918&utm_source=habrahabr&utm_medium=rss)
-- [ASML форсирует поставки DUV-оборудования в Китай до начала действия санкций](https://habr.com/ru/companies/dcmiran/news/771876/?utm_campaign=771876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
