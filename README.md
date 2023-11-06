@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Образ Windows 11 23H2 имеет размер 6,24 ГБ, что в полтора раза больше ISO-файла Windows 10 1703 &lpar;Creators Update&rpar;](https://habr.com/ru/news/772126/?utm_campaign=772126&utm_source=habrahabr&utm_medium=rss)
 - [Разработка Firefox полностью перейдёт с Mercurial на Git](https://habr.com/ru/news/772116/?utm_campaign=772116&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp тестирует возможность авторизации в сервисе по электронной почте](https://habr.com/ru/news/772110/?utm_campaign=772110&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустит расширения для Firefox на Android 21 ноября](https://habr.com/ru/news/772072/?utm_campaign=772072&utm_source=habrahabr&utm_medium=rss)
 - [Discord введёт временные ссылки на файлы для борьбы с распространением вредоносов](https://habr.com/ru/news/771972/?utm_campaign=771972&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешила разработчикам приложений Xbox использовать механизм рендеринга Edge](https://habr.com/ru/news/772070/?utm_campaign=772070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
