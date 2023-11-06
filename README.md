@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp тестирует возможность авторизации в сервисе по электронной почте](https://habr.com/ru/news/772110/?utm_campaign=772110&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустит расширения для Firefox на Android 21 ноября](https://habr.com/ru/news/772072/?utm_campaign=772072&utm_source=habrahabr&utm_medium=rss)
 - [Discord введёт временные ссылки на файлы для борьбы с распространением вредоносов](https://habr.com/ru/news/771972/?utm_campaign=771972&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрешила разработчикам приложений Xbox использовать механизм рендеринга Edge](https://habr.com/ru/news/772070/?utm_campaign=772070&utm_source=habrahabr&utm_medium=rss)
 - [Дизайнер обнаружил, что после обновления ядра Linux до версии 6.5.8 с 6.4.15 у него перестала работать кнопка на стилусе](https://habr.com/ru/news/772040/?utm_campaign=772040&utm_source=habrahabr&utm_medium=rss)
-- [Баг в KB5031455 при запуске Windows Copilot приводит к хаосу со значками на рабочем столе с несколькими мониторами](https://habr.com/ru/news/772002/?utm_campaign=772002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
