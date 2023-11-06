@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Добро пожаловать в ренессанс Angular: представлена 17-я версия](https://habr.com/ru/news/772152/?utm_campaign=772152&utm_source=habrahabr&utm_medium=rss)
 - [В systemd v255-rc1 добавлена поддержка ВSOD &lpar;«синего экрана смерти»&rpar; в Linux](https://habr.com/ru/news/772142/?utm_campaign=772142&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram появились розыгрыши призов в каналах и бесплатная Premium-подписка](https://habr.com/ru/news/772140/?utm_campaign=772140&utm_source=habrahabr&utm_medium=rss)
 - [Образ Windows 11 23H2 имеет размер 6,24 ГБ, что в полтора раза больше ISO-файла Windows 10 1703 &lpar;Creators Update&rpar;](https://habr.com/ru/news/772126/?utm_campaign=772126&utm_source=habrahabr&utm_medium=rss)
 - [Разработка Firefox полностью перейдёт с Mercurial на Git](https://habr.com/ru/news/772116/?utm_campaign=772116&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp тестирует возможность авторизации в сервисе по электронной почте](https://habr.com/ru/news/772110/?utm_campaign=772110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
