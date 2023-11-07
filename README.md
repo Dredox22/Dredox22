@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Authenticator теперь по умолчанию блокирует подозрительные уведомления MFA](https://habr.com/ru/news/772456/?utm_campaign=772456&utm_source=habrahabr&utm_medium=rss)
+- [Челябинские учёные создали приложение «Цифровая аскетика» для избавления от цифровой зависимости](https://habr.com/ru/news/772448/?utm_campaign=772448&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI открыла доступ к API нейросети DALL-E 3](https://habr.com/ru/news/772444/?utm_campaign=772444&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games Store спустя пять лет после запуска работает в убыток](https://habr.com/ru/news/772438/?utm_campaign=772438&utm_source=habrahabr&utm_medium=rss)
 - [Apple на неделю приостановила разработку обновлений ОС и сосредоточилась на исправлении известных ошибок](https://habr.com/ru/news/772432/?utm_campaign=772432&utm_source=habrahabr&utm_medium=rss)
-- [Владельцы новых Mac на M3 жалуются, что не могут обновить стоковую macOS Ventura до актуальной Sonoma](https://habr.com/ru/news/772428/?utm_campaign=772428&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Fedora Linux 39](https://habr.com/ru/news/772420/?utm_campaign=772420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
