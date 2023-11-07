@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft интегрировала Excel с чат-ботом Bing](https://habr.com/ru/news/772190/?utm_campaign=772190&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI: ChatGPT запускают 100 млн пользователей в неделю, более 2 млн разработчиков подключились к API компании](https://habr.com/ru/news/772198/?utm_campaign=772198&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA ищет новых покупателей для ускорителей A800, которые предназначались для рынка Китая](https://habr.com/ru/companies/dcmiran/news/772176/?utm_campaign=772176&utm_source=habrahabr&utm_medium=rss)
 - [Добро пожаловать в ренессанс Angular: представлена 17-я версия](https://habr.com/ru/news/772152/?utm_campaign=772152&utm_source=habrahabr&utm_medium=rss)
 - [В systemd v255-rc1 добавлена поддержка ВSOD &lpar;«синего экрана смерти»&rpar; в Linux](https://habr.com/ru/news/772142/?utm_campaign=772142&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram появились розыгрыши призов в каналах и бесплатная Premium-подписка](https://habr.com/ru/news/772140/?utm_campaign=772140&utm_source=habrahabr&utm_medium=rss)
-- [Образ Windows 11 23H2 имеет размер 6,24 ГБ, что в полтора раза больше ISO-файла Windows 10 1703 &lpar;Creators Update&rpar;](https://habr.com/ru/news/772126/?utm_campaign=772126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
