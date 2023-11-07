@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Томские специалисты научили нейросеть выявлять рак кожи со 100% точностью](https://habr.com/ru/news/772330/?utm_campaign=772330&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила GPTs — функцию для создания кастомных чат-ботов](https://habr.com/ru/news/772318/?utm_campaign=772318&utm_source=habrahabr&utm_medium=rss)
 - [Приём заявок на Международный хакатон по ИИ продлится до 13 ноября](https://habr.com/ru/news/772280/?utm_campaign=772280&utm_source=habrahabr&utm_medium=rss)
 - [Solar Staff меняет модель ценообразования: уменьшится комиссия для заказчиков, появится комиссия для исполнителей](https://habr.com/ru/news/772268/?utm_campaign=772268&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс», ВШЭ и «Сириус» запустили бесплатный курс по ИИ для школьников](https://habr.com/ru/news/772256/?utm_campaign=772256&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разработает платформу для переноса функций ИИ на Xbox](https://habr.com/ru/news/772230/?utm_campaign=772230&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил расширение для браузеров, которое помогает найти промокоды и кешбэк](https://habr.com/ru/news/772226/?utm_campaign=772226&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
