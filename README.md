@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic Games Store спустя пять лет после запуска работает в убыток](https://habr.com/ru/news/772438/?utm_campaign=772438&utm_source=habrahabr&utm_medium=rss)
+- [Apple на неделю приостановила разработку обновлений ОС и сосредоточилась на исправлении известных ошибок](https://habr.com/ru/news/772432/?utm_campaign=772432&utm_source=habrahabr&utm_medium=rss)
+- [Владельцы новых Mac на M3 жалуются, что не могут обновить стоковую macOS Ventura до актуальной Sonoma](https://habr.com/ru/news/772428/?utm_campaign=772428&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Fedora Linux 39](https://habr.com/ru/news/772420/?utm_campaign=772420&utm_source=habrahabr&utm_medium=rss)
 - [Победители квеста от RUVDS примут участие в кибербитве Standoff](https://habr.com/ru/companies/ruvds/news/772374/?utm_campaign=772374&utm_source=habrahabr&utm_medium=rss)
-- [Motorsport Games до конца 2023 года сократит 40% штата](https://habr.com/ru/news/772376/?utm_campaign=772376&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/772372/?utm_campaign=772372&utm_source=habrahabr&utm_medium=rss)
-- [Blank page — компонент пустой страницы v.2.0.0 для Joomla 4 / Joomla 5](https://habr.com/ru/news/772366/?utm_campaign=772366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
