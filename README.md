@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI открыла доступ к API нейросети DALL-E 3](https://habr.com/ru/news/772444/?utm_campaign=772444&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games Store спустя пять лет после запуска работает в убыток](https://habr.com/ru/news/772438/?utm_campaign=772438&utm_source=habrahabr&utm_medium=rss)
 - [Apple на неделю приостановила разработку обновлений ОС и сосредоточилась на исправлении известных ошибок](https://habr.com/ru/news/772432/?utm_campaign=772432&utm_source=habrahabr&utm_medium=rss)
 - [Владельцы новых Mac на M3 жалуются, что не могут обновить стоковую macOS Ventura до актуальной Sonoma](https://habr.com/ru/news/772428/?utm_campaign=772428&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Fedora Linux 39](https://habr.com/ru/news/772420/?utm_campaign=772420&utm_source=habrahabr&utm_medium=rss)
-- [Победители квеста от RUVDS примут участие в кибербитве Standoff](https://habr.com/ru/companies/ruvds/news/772374/?utm_campaign=772374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
