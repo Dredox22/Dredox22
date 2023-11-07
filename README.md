@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Победители квеста от RUVDS примут участие в кибербитве Standoff](https://habr.com/ru/companies/ruvds/news/772374/?utm_campaign=772374&utm_source=habrahabr&utm_medium=rss)
 - [Motorsport Games до конца 2023 года сократит 40% штата](https://habr.com/ru/news/772376/?utm_campaign=772376&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/772372/?utm_campaign=772372&utm_source=habrahabr&utm_medium=rss)
 - [Blank page — компонент пустой страницы v.2.0.0 для Joomla 4 / Joomla 5](https://habr.com/ru/news/772366/?utm_campaign=772366&utm_source=habrahabr&utm_medium=rss)
 - [Томские специалисты научили нейросеть выявлять рак кожи со 100% точностью](https://habr.com/ru/news/772330/?utm_campaign=772330&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила GPTs — функцию для создания кастомных чат-ботов](https://habr.com/ru/news/772318/?utm_campaign=772318&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
