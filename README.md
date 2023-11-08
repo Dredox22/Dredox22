@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» будет учить российских школьников использовать нейросети для анализа больших массивов изображений](https://habr.com/ru/news/772636/?utm_campaign=772636&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор США предложил приравнять разработчиков цифровых кошельков и платёжных приложений к банкам](https://habr.com/ru/news/772634/?utm_campaign=772634&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies запустила ИБ‑школу для преподавателей профильных учебных заведений](https://habr.com/ru/news/772608/?utm_campaign=772608&utm_source=habrahabr&utm_medium=rss)
 - [Магазин приложений NashStore удалил со своей площадки VPN-сервисы](https://habr.com/ru/news/772598/?utm_campaign=772598&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Outlook.com не могут отправлять электронные письма с вложениями, временный выход — ссылки на OneDrive](https://habr.com/ru/news/772596/?utm_campaign=772596&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил Clipea — аналог Скрепыша из Windows для командной строки](https://habr.com/ru/news/772584/?utm_campaign=772584&utm_source=habrahabr&utm_medium=rss)
-- [ВТБ разработал технологию снятия цифровых рублей через банкоматы](https://habr.com/ru/news/772550/?utm_campaign=772550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
