@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [К2Тех локализовал CRM-систему производителя пищевых ингредиентов](https://habr.com/ru/companies/k2tech/news/772672/?utm_campaign=772672&utm_source=habrahabr&utm_medium=rss)
 - [Инструменты Kotlin Multiplatform теперь доступны в JetBrains Fleet](https://habr.com/ru/news/772668/?utm_campaign=772668&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» будет учить российских школьников использовать нейросети для анализа больших массивов изображений](https://habr.com/ru/news/772636/?utm_campaign=772636&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор США предложил приравнять разработчиков цифровых кошельков и платёжных приложений к банкам](https://habr.com/ru/news/772634/?utm_campaign=772634&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies запустила ИБ‑школу для преподавателей профильных учебных заведений](https://habr.com/ru/news/772608/?utm_campaign=772608&utm_source=habrahabr&utm_medium=rss)
-- [Магазин приложений NashStore удалил со своей площадки VPN-сервисы](https://habr.com/ru/news/772598/?utm_campaign=772598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
