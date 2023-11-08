@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ВТБ разработал технологию снятия цифровых рублей через банкоматы](https://habr.com/ru/news/772550/?utm_campaign=772550&utm_source=habrahabr&utm_medium=rss)
 - [Для российской ОС «Аврора» разработают первое платёжное приложение «СБПэй»](https://habr.com/ru/news/772528/?utm_campaign=772528&utm_source=habrahabr&utm_medium=rss)
 - [Google исправила баг с блокировкой внутренней памяти на Pixel 6/7/8/Fold/Tablet при обновлении до Android 14](https://habr.com/ru/news/772504/?utm_campaign=772504&utm_source=habrahabr&utm_medium=rss)
 - [В Казахстане к Starlink начнут подключать сельские школы](https://habr.com/ru/news/772498/?utm_campaign=772498&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Authenticator теперь по умолчанию блокирует подозрительные уведомления MFA](https://habr.com/ru/news/772456/?utm_campaign=772456&utm_source=habrahabr&utm_medium=rss)
-- [Челябинские учёные создали приложение «Цифровая аскетика» для избавления от цифровой зависимости](https://habr.com/ru/news/772448/?utm_campaign=772448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
