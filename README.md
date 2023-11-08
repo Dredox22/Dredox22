@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: «Госуслуги» перестанут хранить персональные данные пользователей](https://habr.com/ru/news/772716/?utm_campaign=772716&utm_source=habrahabr&utm_medium=rss)
 - [Apple анонсировала Swift Student Challenge 2024, приём заявок от студентов со всего мира начнётся в феврале](https://habr.com/ru/news/772704/?utm_campaign=772704&utm_source=habrahabr&utm_medium=rss)
 - [К2Тех локализовал CRM-систему производителя пищевых ингредиентов](https://habr.com/ru/companies/k2tech/news/772672/?utm_campaign=772672&utm_source=habrahabr&utm_medium=rss)
 - [Инструменты Kotlin Multiplatform теперь доступны в JetBrains Fleet](https://habr.com/ru/news/772668/?utm_campaign=772668&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» будет учить российских школьников использовать нейросети для анализа больших массивов изображений](https://habr.com/ru/news/772636/?utm_campaign=772636&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор США предложил приравнять разработчиков цифровых кошельков и платёжных приложений к банкам](https://habr.com/ru/news/772634/?utm_campaign=772634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
