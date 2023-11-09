@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На «Цифротех» представили платформу цифрового доверия для подтверждения персональных данных](https://habr.com/ru/news/772806/?utm_campaign=772806&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры протестирует свои сервисы с помощью белых хакеров](https://habr.com/ru/news/772840/?utm_campaign=772840&utm_source=habrahabr&utm_medium=rss)
+- [На «Цифротехе» представили платформу цифрового доверия для подтверждения персональных данных](https://habr.com/ru/news/772806/?utm_campaign=772806&utm_source=habrahabr&utm_medium=rss)
 - [«Аквариус» до 2026 года намерен вложить 40 млрд рублей в расширение производства и создание новой продукции](https://habr.com/ru/news/772792/?utm_campaign=772792&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отказалась от правил брандмауэра SMB1 в новой сборке Windows 11](https://habr.com/ru/news/772790/?utm_campaign=772790&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил новое устройство — «Станцию Миди»](https://habr.com/ru/news/772710/?utm_campaign=772710&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp теперь позволяет скрывать IP-адрес пользователя во время звонка](https://habr.com/ru/news/772770/?utm_campaign=772770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
