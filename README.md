@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил новое устройство — «Станцию Миди»](https://habr.com/ru/news/772710/?utm_campaign=772710&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp теперь позволяет скрывать IP-адрес пользователя во время звонка](https://habr.com/ru/news/772770/?utm_campaign=772770&utm_source=habrahabr&utm_medium=rss)
+- [Плагин MyTracker v.0.1.0 для Joomla 4/5 и убийца Яндекс.Метрики](https://habr.com/ru/news/772764/?utm_campaign=772764&utm_source=habrahabr&utm_medium=rss)
+- [Signal введёт общедоступные имена, чтобы скрыть номера телефонов пользователей](https://habr.com/ru/news/772762/?utm_campaign=772762&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: «Госуслуги» перестанут хранить персональные данные пользователей](https://habr.com/ru/news/772716/?utm_campaign=772716&utm_source=habrahabr&utm_medium=rss)
-- [Apple анонсировала Swift Student Challenge 2024, приём заявок от студентов со всего мира начнётся в феврале](https://habr.com/ru/news/772704/?utm_campaign=772704&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех локализовал CRM-систему производителя пищевых ингредиентов](https://habr.com/ru/companies/k2tech/news/772672/?utm_campaign=772672&utm_source=habrahabr&utm_medium=rss)
-- [Инструменты Kotlin Multiplatform теперь доступны в JetBrains Fleet](https://habr.com/ru/news/772668/?utm_campaign=772668&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» будет учить российских школьников использовать нейросети для анализа больших массивов изображений](https://habr.com/ru/news/772636/?utm_campaign=772636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
