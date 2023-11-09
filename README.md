@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На «Цифротех» представили платформу цифрового доверия для подтверждения персональных данных](https://habr.com/ru/news/772806/?utm_campaign=772806&utm_source=habrahabr&utm_medium=rss)
+- [«Аквариус» до 2026 года намерен вложить 40 млрд рублей в расширение производства и создание новой продукции](https://habr.com/ru/news/772792/?utm_campaign=772792&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отказалась от правил брандмауэра SMB1 в новой сборке Windows 11](https://habr.com/ru/news/772790/?utm_campaign=772790&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил новое устройство — «Станцию Миди»](https://habr.com/ru/news/772710/?utm_campaign=772710&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp теперь позволяет скрывать IP-адрес пользователя во время звонка](https://habr.com/ru/news/772770/?utm_campaign=772770&utm_source=habrahabr&utm_medium=rss)
-- [Плагин MyTracker v.0.1.0 для Joomla 4/5 и убийца Яндекс.Метрики](https://habr.com/ru/news/772764/?utm_campaign=772764&utm_source=habrahabr&utm_medium=rss)
-- [Signal введёт общедоступные имена, чтобы скрыть номера телефонов пользователей](https://habr.com/ru/news/772762/?utm_campaign=772762&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: «Госуслуги» перестанут хранить персональные данные пользователей](https://habr.com/ru/news/772716/?utm_campaign=772716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
