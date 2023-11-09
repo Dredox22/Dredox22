@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На ОС «Аврора» началось тестирование приложения «ВТБ Онлайн»](https://habr.com/ru/news/772924/?utm_campaign=772924&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot Chat станет общедоступным в декабре](https://habr.com/ru/news/772900/?utm_campaign=772900&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» перевёл виртуальный ассистент «Салют» на нейросетевую модель GigaChat](https://habr.com/ru/news/772890/?utm_campaign=772890&utm_source=habrahabr&utm_medium=rss)
 - [Alchemer совместно с JetBrains и Python Software Foundation запустила «Опрос Python-разработчиков 2023»](https://habr.com/ru/news/772872/?utm_campaign=772872&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст подключил к Raspberry Pi 5 внешние адаптеры по шине PCIe](https://habr.com/ru/news/772854/?utm_campaign=772854&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры протестирует свои сервисы с помощью белых хакеров](https://habr.com/ru/news/772840/?utm_campaign=772840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
