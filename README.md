@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЦБ планирует внедрить стандарт безопасности оплат по QR-коду](https://habr.com/ru/news/773138/?utm_campaign=773138&utm_source=habrahabr&utm_medium=rss)
 - [В РФ изучают возможность использования отпечатка ладони и сетчатки глаза для идентификации](https://habr.com/ru/news/773128/?utm_campaign=773128&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft перестала спрашивать у пользователей причину выхода из приложения OneDrive](https://habr.com/ru/news/773124/?utm_campaign=773124&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft временно заблокировала доступ сотрудникам к ChatGPT на корпоративных устройствах из-за проблем с безопасностью](https://habr.com/ru/news/773120/?utm_campaign=773120&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Инфосистемы Джет» и ARENADATA о миграции с ORACLE на GREENPLUM](https://habr.com/ru/companies/jetinfosystems/news/773114/?utm_campaign=773114&utm_source=habrahabr&utm_medium=rss)
-- [В полуфинал фестиваля университетских стартапов вышел 21 вуз](https://habr.com/ru/companies/hsespb/news/773108/?utm_campaign=773108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
