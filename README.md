@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Миллион за уязвимости на Госуслугах: Минцифры запустили новый этап багбаунти на Standoff 365](https://habr.com/ru/companies/pt/news/773058/?utm_campaign=773058&utm_source=habrahabr&utm_medium=rss)
+- [Siri начал понимать русский язык без подключения к интернету](https://habr.com/ru/news/773050/?utm_campaign=773050&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры запустило второй этап багбаунти на портале «Госуслуг» и на ресурсах и системах электронного правительства](https://habr.com/ru/news/773052/?utm_campaign=773052&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила программу для сбора уникальных данных от сторонних организаций для обучения ИИ](https://habr.com/ru/news/773042/?utm_campaign=773042&utm_source=habrahabr&utm_medium=rss)
 - [Unity планирует провести новые увольнения до конца года](https://habr.com/ru/news/773032/?utm_campaign=773032&utm_source=habrahabr&utm_medium=rss)
-- [Инсайдеры: Siri на базе искусственного интеллекта представят во время WWDC 24](https://habr.com/ru/news/773006/?utm_campaign=773006&utm_source=habrahabr&utm_medium=rss)
-- [Из-за нехватки ускорителей Microsoft теперь арендует мощности у Oracle](https://habr.com/ru/companies/dcmiran/news/772972/?utm_campaign=772972&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft стала спрашивать у пользователей причину выхода из приложения OneDrive](https://habr.com/ru/news/772966/?utm_campaign=772966&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» рассказала, как увеличилось количество веб‑атак на онлайн‑ретейл с августа по октябрь 2023 года](https://habr.com/ru/news/772960/?utm_campaign=772960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
