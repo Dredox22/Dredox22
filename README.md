@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «Инфосистемы Джет» и ARENADATA о миграции с ORACLE на GREENPLUM](https://habr.com/ru/companies/jetinfosystems/news/773114/?utm_campaign=773114&utm_source=habrahabr&utm_medium=rss)
+- [В полуфинал фестиваля университетских стартапов вышел 21 вуз](https://habr.com/ru/companies/hsespb/news/773108/?utm_campaign=773108&utm_source=habrahabr&utm_medium=rss)
 - [«Известия»: скорость мобильного интернета в регионах снизилась из-за нехватки оборудования](https://habr.com/ru/news/773094/?utm_campaign=773094&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Роскомнадзор попросили заблокировать ещё 51 VPN-сервис, который предоставляет доступ к запрещённым ресурсам в РФ](https://habr.com/ru/news/773076/?utm_campaign=773076&utm_source=habrahabr&utm_medium=rss)
 - [Миллион за уязвимости на Госуслугах: Минцифры запустили новый этап багбаунти на Standoff 365](https://habr.com/ru/companies/pt/news/773058/?utm_campaign=773058&utm_source=habrahabr&utm_medium=rss)
-- [Siri начал понимать русский язык без подключения к интернету](https://habr.com/ru/news/773050/?utm_campaign=773050&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры запустило второй этап багбаунти на портале «Госуслуг» и на ресурсах и системах электронного правительства](https://habr.com/ru/news/773052/?utm_campaign=773052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
