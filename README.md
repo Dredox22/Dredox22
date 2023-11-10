@@ -71,7 +71,7 @@
 - [Инсайдеры: Siri на базе искусственного интеллекта представят во время WWDC 24](https://habr.com/ru/news/773006/?utm_campaign=773006&utm_source=habrahabr&utm_medium=rss)
 - [Из-за нехватки ускорителей Microsoft теперь арендует мощности у Oracle](https://habr.com/ru/companies/dcmiran/news/772972/?utm_campaign=772972&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft стала спрашивать у пользователей причину выхода из приложения OneDrive](https://habr.com/ru/news/772966/?utm_campaign=772966&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» рассказала как увеличилось количество веб‑атак на онлайн‑ретейл с августа по октябрь 2023 года](https://habr.com/ru/news/772960/?utm_campaign=772960&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Солар» рассказала, как увеличилось количество веб‑атак на онлайн‑ретейл с августа по октябрь 2023 года](https://habr.com/ru/news/772960/?utm_campaign=772960&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft планирует добавить Windows Copilot в Windows 10](https://habr.com/ru/news/772952/?utm_campaign=772952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
