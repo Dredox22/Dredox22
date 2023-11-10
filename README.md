@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик Максим Чингин выпустил открытый проект Yaamp — Winamp 2.91 + «Яндекс Музыка»](https://habr.com/ru/news/773204/?utm_campaign=773204&utm_source=habrahabr&utm_medium=rss)
 - [GitHub опубликовал Octoverse — ежегодное исследование платформы и сообщества проектов с открытым кодом](https://habr.com/ru/news/773188/?utm_campaign=773188&utm_source=habrahabr&utm_medium=rss)
 - [Вышло учебное пособие «Проектирование в Платформе nanoCAD с модулями “Механика” и “3D”»](https://habr.com/ru/companies/nanosoft/news/773160/?utm_campaign=773160&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm и Iridium объявили о закрытии совместного проекта по оказанию услуг спутниковой связи для обычных смартфонов](https://habr.com/ru/news/773150/?utm_campaign=773150&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ планирует внедрить стандарт безопасности оплат по QR-коду](https://habr.com/ru/news/773138/?utm_campaign=773138&utm_source=habrahabr&utm_medium=rss)
-- [В РФ изучают возможность использования отпечатка ладони и сетчатки глаза для идентификации](https://habr.com/ru/news/773128/?utm_campaign=773128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
