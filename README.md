@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчики Google Chrome утверждают, что сэкономили пользователям более 10 тысяч часов ожидания загрузок](https://habr.com/ru/news/773258/?utm_campaign=773258&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Google Chrome утверждают, что сэкономили пользователям более 10 тысяч лет ожидания загрузок](https://habr.com/ru/news/773258/?utm_campaign=773258&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование MacBook Pro M3 с 8 ГБ ОЗУ выявило, что этот объём оперативной памяти является бутылочным горлышком](https://habr.com/ru/news/773256/?utm_campaign=773256&utm_source=habrahabr&utm_medium=rss)
 - [Cyberia Nova рассказала о системе образов для главного персонажа «Смуты» и его бонусном образе за предзаказ](https://habr.com/ru/news/773222/?utm_campaign=773222&utm_source=habrahabr&utm_medium=rss)
 - [RuStore проведёт конференцию RuStore Mobile Conf](https://habr.com/ru/news/773218/?utm_campaign=773218&utm_source=habrahabr&utm_medium=rss)
