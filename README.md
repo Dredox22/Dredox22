@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Cyberia Nova рассказала о системе образов для главного персонажа «Смуты» и его бонусном образе за предзаказ](https://habr.com/ru/news/773222/?utm_campaign=773222&utm_source=habrahabr&utm_medium=rss)
 - [RuStore проведёт конференцию RuStore Mobile Conf](https://habr.com/ru/news/773218/?utm_campaign=773218&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Максим Чингин выпустил открытый проект Yaamp — Winamp 2.91 + «Яндекс Музыка»](https://habr.com/ru/news/773204/?utm_campaign=773204&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил открытый проект Yaamp — Winamp 2.91 &lpar;Electron и Webamp&rpar; + «Яндекс Музыка»](https://habr.com/ru/news/773204/?utm_campaign=773204&utm_source=habrahabr&utm_medium=rss)
 - [GitHub опубликовал Octoverse — ежегодное исследование платформы и сообщества проектов с открытым кодом](https://habr.com/ru/news/773188/?utm_campaign=773188&utm_source=habrahabr&utm_medium=rss)
 - [Вышло учебное пособие «Проектирование в Платформе nanoCAD с модулями “Механика” и “3D”»](https://habr.com/ru/companies/nanosoft/news/773160/?utm_campaign=773160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
