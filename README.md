@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GigaIO представила новую ноду FabreX на 64 ускорителя PCI-express](https://habr.com/ru/companies/dcmiran/news/773426/?utm_campaign=773426&utm_source=habrahabr&utm_medium=rss)
 - [На выставке‑форуме «Россия» на ВДНХ был представлен новый робот «Арди» от компании «Дабл Ю Экспо»](https://habr.com/ru/news/773400/?utm_campaign=773400&utm_source=habrahabr&utm_medium=rss)
 - [Непрограммируемый калькулятор разрешили использовать школьникам при выполнении ОГЭ по математике в 2024 году](https://habr.com/ru/news/773398/?utm_campaign=773398&utm_source=habrahabr&utm_medium=rss)
 - [«Открытая мобильная платформа» рассказала об интерфейсе и паттернах взаимодействия будущего релиза ОС «Аврора 5.0»](https://habr.com/ru/news/773372/?utm_campaign=773372&utm_source=habrahabr&utm_medium=rss)
 - [Intel подняла производительность своего ML-ускорителя Habana Gaudi2](https://habr.com/ru/companies/dcmiran/news/773350/?utm_campaign=773350&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: в РФ будут блокироваться конкретные VPN-сервисы и VPN-протоколы, представляющие угрозу](https://habr.com/ru/news/773348/?utm_campaign=773348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
