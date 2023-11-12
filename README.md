@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Непрограммируемый калькулятор разрешили использовать школьникам при выполнении ОГЭ по математике в 2024 году](https://habr.com/ru/news/773398/?utm_campaign=773398&utm_source=habrahabr&utm_medium=rss)
 - [«Открытая мобильная платформа» рассказала об интерфейсе и паттернах взаимодействия будущего релиза ОС «Аврора 5.0»](https://habr.com/ru/news/773372/?utm_campaign=773372&utm_source=habrahabr&utm_medium=rss)
 - [Intel подняла производительность своего ML-ускорителя Habana Gaudi2](https://habr.com/ru/companies/dcmiran/news/773350/?utm_campaign=773350&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: в РФ будут блокироваться конкретные VPN-сервисы и VPN-протоколы, представляющие угрозу](https://habr.com/ru/news/773348/?utm_campaign=773348&utm_source=habrahabr&utm_medium=rss)
 - [Проект Fedora и компания Slimbook представили 14&amp;quot; ультрабук c Intel Core i7-12700H и видеокартой Intel Iris X 4K](https://habr.com/ru/news/773344/?utm_campaign=773344&utm_source=habrahabr&utm_medium=rss)
-- [Роскачество и RuStore назвали лучшие российские мобильные приложения 2023 года для Android](https://habr.com/ru/news/773308/?utm_campaign=773308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
