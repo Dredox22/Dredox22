@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel подняла производительность своего ML-ускорителя Habana Gaudi2](https://habr.com/ru/companies/dcmiran/news/773350/?utm_campaign=773350&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: в РФ будут блокироваться конкретные VPN-сервисы и VPN-протоколы, представляющие угрозу](https://habr.com/ru/news/773348/?utm_campaign=773348&utm_source=habrahabr&utm_medium=rss)
 - [Проект Fedora и компания Slimbook представили 14&amp;quot; ультрабук c Intel Core i7-12700H и видеокартой Intel Iris X 4K](https://habr.com/ru/news/773344/?utm_campaign=773344&utm_source=habrahabr&utm_medium=rss)
 - [Роскачество и RuStore назвали лучшие российские мобильные приложения 2023 года для Android](https://habr.com/ru/news/773308/?utm_campaign=773308&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой сборке Windows 11 Insider появилась возможность создания архивов tar и 7-zip в дополнение к zip](https://habr.com/ru/news/773294/?utm_campaign=773294&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Google Chrome утверждают, что сэкономили пользователям более 10 тысяч лет ожидания загрузок](https://habr.com/ru/news/773258/?utm_campaign=773258&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование MacBook Pro M3 с 8 ГБ ОЗУ выявило, что этот объём оперативной памяти является бутылочным горлышком](https://habr.com/ru/news/773256/?utm_campaign=773256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
