@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Итоги премии GitHub Awards 2023](https://habr.com/ru/news/773512/?utm_campaign=773512&utm_source=habrahabr&utm_medium=rss)
+- [Обновление iOS 17.1.1 приводит к более быстрой разрядке батарей iPhone](https://habr.com/ru/news/773504/?utm_campaign=773504&utm_source=habrahabr&utm_medium=rss)
+- [GitHub Copilot в CLI вышел в публичной бета-версии](https://habr.com/ru/news/773498/?utm_campaign=773498&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила приложение «Фотографии» опцией редактирования фона изображения](https://habr.com/ru/news/773492/?utm_campaign=773492&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь K8s: Kubernetes должен ввести лимит на сложность](https://habr.com/ru/companies/flant/news/773488/?utm_campaign=773488&utm_source=habrahabr&utm_medium=rss)
-- [Специалист по информационной безопасности: веб-пентест — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/770718/?utm_campaign=770718&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила баг с медленным сохранением по локальной сети через Outlook Desktop](https://habr.com/ru/news/773478/?utm_campaign=773478&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила приложение Bing Webmaster Tools для устройств Android](https://habr.com/ru/news/773476/?utm_campaign=773476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
