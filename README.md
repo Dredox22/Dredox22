@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила баг с медленным сохранением по локальной сети через Outlook Desktop](https://habr.com/ru/news/773478/?utm_campaign=773478&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft запустила приложение Bing Webmaster Tools для устройств Android](https://habr.com/ru/news/773476/?utm_campaign=773476&utm_source=habrahabr&utm_medium=rss)
+- [ЯUSSIAN REALITY? ВИРТУАЛЬНОСТЬ](https://habr.com/ru/companies/astralinux/news/773146/?utm_campaign=773146&utm_source=habrahabr&utm_medium=rss)
 - [Еврочиновники заставляют Apple разрешить установку приложений из сторонних источников](https://habr.com/ru/companies/dcmiran/news/773462/?utm_campaign=773462&utm_source=habrahabr&utm_medium=rss)
 - [GigaIO представила новую ноду FabreX на 64 ускорителя PCI-express](https://habr.com/ru/companies/dcmiran/news/773426/?utm_campaign=773426&utm_source=habrahabr&utm_medium=rss)
-- [На выставке‑форуме «Россия» на ВДНХ был представлен новый робот «Арди» от компании «Дабл Ю Экспо»](https://habr.com/ru/news/773400/?utm_campaign=773400&utm_source=habrahabr&utm_medium=rss)
-- [Непрограммируемый калькулятор разрешили использовать школьникам при выполнении ОГЭ по математике в 2024 году](https://habr.com/ru/news/773398/?utm_campaign=773398&utm_source=habrahabr&utm_medium=rss)
-- [«Открытая мобильная платформа» рассказала об интерфейсе и паттернах взаимодействия будущего релиза ОС «Аврора 5.0»](https://habr.com/ru/news/773372/?utm_campaign=773372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
