@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Иннополисе» открылся завод по производству материнских плат](https://habr.com/ru/news/773632/?utm_campaign=773632&utm_source=habrahabr&utm_medium=rss)
 - [Слухи: загрузка сторонних приложений в обход App Store для пользователей из ЕС появится на iPhone в начале 2024 года](https://habr.com/ru/news/773616/?utm_campaign=773616&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/773610/?utm_campaign=773610&utm_source=habrahabr&utm_medium=rss)
 - [ОАО «РЖД» ведёт поиск роботов-носильщиков грузоподъёмностью до 30 кг](https://habr.com/ru/news/773594/?utm_campaign=773594&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains выпустила CLion Nova — IDE для C/C++ на движке ReSharper/Rider](https://habr.com/ru/news/773590/?utm_campaign=773590&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрыла большую часть сервисов магазина приложений для Windows 10 Mobile](https://habr.com/ru/news/773536/?utm_campaign=773536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
