@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft закрыла большую часть сервисов магазина приложений для Windows 10 Mobile](https://habr.com/ru/news/773536/?utm_campaign=773536&utm_source=habrahabr&utm_medium=rss)
 - [Итоги премии GitHub Awards 2023](https://habr.com/ru/news/773512/?utm_campaign=773512&utm_source=habrahabr&utm_medium=rss)
 - [Обновление iOS 17.1.1 приводит к более быстрой разрядке батарей iPhone](https://habr.com/ru/news/773504/?utm_campaign=773504&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot в CLI вышел в публичной бета-версии](https://habr.com/ru/news/773498/?utm_campaign=773498&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила приложение «Фотографии» опцией редактирования фона изображения](https://habr.com/ru/news/773492/?utm_campaign=773492&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь K8s: Kubernetes должен ввести лимит на сложность](https://habr.com/ru/companies/flant/news/773488/?utm_campaign=773488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
