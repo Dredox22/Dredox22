@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Бештау» создала межрегиональный кластер радиоэлектронной промышленности](https://habr.com/ru/news/773700/?utm_campaign=773700&utm_source=habrahabr&utm_medium=rss)
 - [Arduino выпустила библиотеки для работы с файлами и внешней памятью](https://habr.com/ru/news/773688/?utm_campaign=773688&utm_source=habrahabr&utm_medium=rss)
 - [«РОББО» рассказала об усовершенствовании своих устройств — квадрокоптере и нейроинтерфейсе](https://habr.com/ru/news/773670/?utm_campaign=773670&utm_source=habrahabr&utm_medium=rss)
 - [Angara Security рассказала о возможных уязвимостях внешнего периметра у российских компаний](https://habr.com/ru/news/773654/?utm_campaign=773654&utm_source=habrahabr&utm_medium=rss)
 - [В «Иннополисе» открылся завод по производству материнских плат](https://habr.com/ru/news/773632/?utm_campaign=773632&utm_source=habrahabr&utm_medium=rss)
-- [Слухи: загрузка сторонних приложений в обход App Store для пользователей из ЕС появится на iPhone в начале 2024 года](https://habr.com/ru/news/773616/?utm_campaign=773616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
