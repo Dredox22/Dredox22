@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» представила первую в России систему классификации дронов по типам опасности](https://habr.com/ru/news/773808/?utm_campaign=773808&utm_source=habrahabr&utm_medium=rss)
+- [Smart Engines создала нейросеть, способную считывать паспорт РФ как обычный QR-код](https://habr.com/ru/companies/smartengines/news/773806/?utm_campaign=773806&utm_source=habrahabr&utm_medium=rss)
 - [Русский жестовый язык: первое место в бенчмарке и общение с GigaChat](https://habr.com/ru/companies/sberdevices/news/773738/?utm_campaign=773738&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI предлагает исследователям ИИ из Google до $10 млн в год](https://habr.com/ru/news/773802/?utm_campaign=773802&utm_source=habrahabr&utm_medium=rss)
 - [Постквантовый алгоритм электронной подписи «Шиповник» получил открытую реализацию](https://habr.com/ru/companies/kryptonite/news/773640/?utm_campaign=773640&utm_source=habrahabr&utm_medium=rss)
-- [Intel предъявили иск из-за сокрытия уязвимости спекулятивного выполнения Downfall](https://habr.com/ru/news/773766/?utm_campaign=773766&utm_source=habrahabr&utm_medium=rss)
-- [Оргкомитет AI Journey опроверг сообщение о выступлении Маска на конференции](https://habr.com/ru/news/773762/?utm_campaign=773762&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
