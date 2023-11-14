@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel предъявили иск из-за сокрытия уязвимости спекулятивного выполнения Downfall](https://habr.com/ru/news/773766/?utm_campaign=773766&utm_source=habrahabr&utm_medium=rss)
+- [Оргкомитет AI Journey опроверг сообщение о выступлении Маска на конференции](https://habr.com/ru/news/773762/?utm_campaign=773762&utm_source=habrahabr&utm_medium=rss)
+- [Outlook для Windows предлагает отправлять на серверы Microsoft данные пользователей, не относящиеся к учётной записи MSA](https://habr.com/ru/news/773756/?utm_campaign=773756&utm_source=habrahabr&utm_medium=rss)
 - [Альтман: OpenAI работает над GPT-5](https://habr.com/ru/news/773740/?utm_campaign=773740&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Бештау» создала межрегиональный кластер радиоэлектронной промышленности](https://habr.com/ru/news/773700/?utm_campaign=773700&utm_source=habrahabr&utm_medium=rss)
-- [Arduino выпустила библиотеки для работы с файлами и внешней памятью](https://habr.com/ru/news/773688/?utm_campaign=773688&utm_source=habrahabr&utm_medium=rss)
-- [«РОББО» рассказала об усовершенствовании своих устройств: квадрокоптере и нейроинтерфейсе](https://habr.com/ru/news/773670/?utm_campaign=773670&utm_source=habrahabr&utm_medium=rss)
-- [Angara Security рассказала о возможных уязвимостях внешнего периметра у российских компаний](https://habr.com/ru/news/773654/?utm_campaign=773654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
