@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Павел Дуров показал концепт Telegram для Apple Vision Pro](https://habr.com/ru/news/773934/?utm_campaign=773934&utm_source=habrahabr&utm_medium=rss)
+- [Cyberia Nova рассказала о разработке системы анимации и озвучке игры «Смута»](https://habr.com/ru/news/773930/?utm_campaign=773930&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies представила результат исследований всех расследований за 2021–2023 года](https://habr.com/ru/news/773904/?utm_campaign=773904&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» рассказала о топ-10 атакуемых отраслей в 2023 году](https://habr.com/ru/news/773892/?utm_campaign=773892&utm_source=habrahabr&utm_medium=rss)
 - [Покупатель заказал iPhone 15 Pro Max на официальном сайте Apple, а получил китайскую копию смартфона на Android](https://habr.com/ru/news/773888/?utm_campaign=773888&utm_source=habrahabr&utm_medium=rss)
-- [СПбГАСУ, «Нанософт» и «СиСофт Девелопмент» разработали дорожную карту обучения российским ТИМ](https://habr.com/ru/companies/nanosoft/news/773876/?utm_campaign=773876&utm_source=habrahabr&utm_medium=rss)
-- [Tuxedo представила ноутбук Pulse 14 Gen 3 с AMD Ryzen 7 7840HS и ОС Linux из коробки от €1111](https://habr.com/ru/news/773850/?utm_campaign=773850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
