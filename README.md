@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Солар» рассказала о топ-10 атакуемых отраслей в 2023 году](https://habr.com/ru/news/773892/?utm_campaign=773892&utm_source=habrahabr&utm_medium=rss)
 - [Покупатель заказал iPhone 15 Pro Max на официальном сайте Apple, а получил китайскую копию смартфона на Android](https://habr.com/ru/news/773888/?utm_campaign=773888&utm_source=habrahabr&utm_medium=rss)
 - [СПбГАСУ, «Нанософт» и «СиСофт Девелопмент» разработали дорожную карту обучения российским ТИМ](https://habr.com/ru/companies/nanosoft/news/773876/?utm_campaign=773876&utm_source=habrahabr&utm_medium=rss)
 - [Tuxedo представила ноутбук Pulse 14 Gen 3 с AMD Ryzen 7 7840HS и ОС Linux из коробки от €1111](https://habr.com/ru/news/773850/?utm_campaign=773850&utm_source=habrahabr&utm_medium=rss)
 - [Функция платежей Apple с iPhone на iPhone теперь доступна во Франции](https://habr.com/ru/news/773842/?utm_campaign=773842&utm_source=habrahabr&utm_medium=rss)
-- [Партнёрство Amazon и Meta* позволяет пользователям в США покупать товары маркетплейса в Facebook** и Instagram**](https://habr.com/ru/news/773834/?utm_campaign=773834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
