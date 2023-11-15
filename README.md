@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [21 ноября вебинар Kubernetes Workshop](https://habr.com/ru/companies/selectel/news/773860/?utm_campaign=773860&utm_source=habrahabr&utm_medium=rss)
+- [«Реальные возможности Smart Data на промышленном производстве». Вебинар ИТ-компании «Инфосистемы Джет»](https://habr.com/ru/companies/jetinfosystems/news/774058/?utm_campaign=774058&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI приостановила продажи подписок ChatGPT Plus](https://habr.com/ru/news/774038/?utm_campaign=774038&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Защита веб-приложений: от анализа до противодействия атакам»](https://habr.com/ru/companies/nubes/news/774030/?utm_campaign=774030&utm_source=habrahabr&utm_medium=rss)
 - [DeepMind: ИИ начинает превосходить метеорологов](https://habr.com/ru/news/774022/?utm_campaign=774022&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» за три года планирует подготовить 350 тыс. специалистов, владеющих IT-навыками](https://habr.com/ru/news/774020/?utm_campaign=774020&utm_source=habrahabr&utm_medium=rss)
-- [Обновление WT Bootstrap image slider v.3.0.0 для Joomla 5](https://habr.com/ru/news/774016/?utm_campaign=774016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
