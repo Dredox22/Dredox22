@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты по ремонту сообщили о неисправности дисплея Dustgate, которая встречается в нескольких моделей MacBook Pro](https://habr.com/ru/news/773998/?utm_campaign=773998&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила новую прошивку для Pencil USB-C](https://habr.com/ru/news/773990/?utm_campaign=773990&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: в обновлённый перечень блокировки VPN-сервисов и VPN-протоколов Роскомнадзора вошёл Shadowsocks](https://habr.com/ru/news/773986/?utm_campaign=773986&utm_source=habrahabr&utm_medium=rss)
 - [Новая уязвимость Reptar влияет на многие настольные и серверные системы Intel, производитель выпустил необходимые патчи](https://habr.com/ru/news/773978/?utm_campaign=773978&utm_source=habrahabr&utm_medium=rss)
 - [Nothing анонсировала собственный мессенджер, совместимый с iMessage](https://habr.com/ru/news/773966/?utm_campaign=773966&utm_source=habrahabr&utm_medium=rss)
-- [Резервные копии WhatsApp на Android с декабря 2023 года начнут учитываться в хранилище аккаунта Google](https://habr.com/ru/news/773956/?utm_campaign=773956&utm_source=habrahabr&utm_medium=rss)
-- [Павел Дуров показал концепт Telegram для Apple Vision Pro](https://habr.com/ru/news/773934/?utm_campaign=773934&utm_source=habrahabr&utm_medium=rss)
-- [Cyberia Nova рассказала о разработке системы анимации и озвучке игры «Смута»](https://habr.com/ru/news/773930/?utm_campaign=773930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
