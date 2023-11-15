@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучение трансформеров, зоопарк ML-моделей, RAG-подходы, железо для LLM и другие темы на Conversations 2023](https://habr.com/ru/companies/just_ai/news/774094/?utm_campaign=774094&utm_source=habrahabr&utm_medium=rss)
 - [21 ноября вебинар Kubernetes Workshop](https://habr.com/ru/companies/selectel/news/773860/?utm_campaign=773860&utm_source=habrahabr&utm_medium=rss)
 - [«Реальные возможности Smart Data на промышленном производстве». Вебинар ИТ-компании «Инфосистемы Джет»](https://habr.com/ru/companies/jetinfosystems/news/774058/?utm_campaign=774058&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI приостановила продажи подписок ChatGPT Plus](https://habr.com/ru/news/774038/?utm_campaign=774038&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Защита веб-приложений: от анализа до противодействия атакам»](https://habr.com/ru/companies/nubes/news/774030/?utm_campaign=774030&utm_source=habrahabr&utm_medium=rss)
-- [DeepMind: ИИ начинает превосходить метеорологов](https://habr.com/ru/news/774022/?utm_campaign=774022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
