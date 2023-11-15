@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Специалисты по ремонту сообщили о неисправности дисплея Dustgate, которая встречается в нескольких моделей MacBook Pro](https://habr.com/ru/news/773998/?utm_campaign=773998&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила новую прошивку для Pencil USB-C](https://habr.com/ru/news/773990/?utm_campaign=773990&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в обновлённый перечень блокировки VPN-сервисов и VPN-протоколов Роскомнадзора вошёл Shadowsocks](https://habr.com/ru/news/773986/?utm_campaign=773986&utm_source=habrahabr&utm_medium=rss)
-- [Новая уязвимость Reptar влияет на многие настольные и серверные системы Intel, производитель выпустил необходимые патчи](https://habr.com/ru/news/773978/?utm_campaign=773978&utm_source=habrahabr&utm_medium=rss)
-- [Nothing анонсировала собственный мессенджер, совместимый с iMessage](https://habr.com/ru/news/773966/?utm_campaign=773966&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» за три года планирует подготовить 350 тыс. специалистов, владеющих IT-навыками](https://habr.com/ru/news/774020/?utm_campaign=774020&utm_source=habrahabr&utm_medium=rss)
+- [Обновление WT Bootstrap image slider v.3.0.0 для Joomla 5](https://habr.com/ru/news/774016/?utm_campaign=774016&utm_source=habrahabr&utm_medium=rss)
+- [Roblox запустила сервис видеозвонков прямо из игр и открыл API Connect для сторонних разработчиков](https://habr.com/ru/news/774014/?utm_campaign=774014&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: большинство криптоключей в SSH-трафике уязвимы для полной компрометации](https://habr.com/ru/news/774002/?utm_campaign=774002&utm_source=habrahabr&utm_medium=rss)
+- [Apple назвала финалистов премии App Store Award 2023](https://habr.com/ru/news/774000/?utm_campaign=774000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
