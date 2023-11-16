@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft работает над улучшением управления WiFi в Windows 11](https://habr.com/ru/news/774476/?utm_campaign=774476&utm_source=habrahabr&utm_medium=rss)
+- [YouTube анонсировал ИИ-инструменты для создания музыки, среди них генератор треков в стиле знаменитых исполнителей](https://habr.com/ru/news/774472/?utm_campaign=774472&utm_source=habrahabr&utm_medium=rss)
 - [«Одноклассники» запустили нейросеть, которая защитит пользователей от навязчивого общения в сети](https://habr.com/ru/news/774440/?utm_campaign=774440&utm_source=habrahabr&utm_medium=rss)
 - [MoscowJS 56 + X5 Tech](https://habr.com/ru/companies/X5Tech/news/774438/?utm_campaign=774438&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies представила PT Cloud Application Firewall](https://habr.com/ru/news/774400/?utm_campaign=774400&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики ОС «Аврора» запустили образовательный портал для школьников и студентов](https://habr.com/ru/news/774374/?utm_campaign=774374&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила приложение для доступа к Windows с устройств на iOS, iPadOS и macOS](https://habr.com/ru/news/774366/?utm_campaign=774366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
