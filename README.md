@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Альт» — первая и единственная российская ОС, работающая на базе китайских процессоров с архитектурой Loongarch64](https://habr.com/ru/companies/basealtspo/news/774314/?utm_campaign=774314&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Wireshark 4.2.0](https://habr.com/ru/news/774306/?utm_campaign=774306&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Плюс» показал систему трекинга для командных видов спорта](https://habr.com/ru/news/774298/?utm_campaign=774298&utm_source=habrahabr&utm_medium=rss)
+- [На SOC-Forum 2023 подвели итоги  кибербитвы](https://habr.com/ru/news/774290/?utm_campaign=774290&utm_source=habrahabr&utm_medium=rss)
 - [Let&#39;s Talk №1: Робогаля](https://habr.com/ru/companies/X5Tech/news/774284/?utm_campaign=774284&utm_source=habrahabr&utm_medium=rss)
-- [Воздушное охлаждение и 1 киловатт энергопотребления: Threadripper Pro 7995WX поставил сразу три новых рекорда](https://habr.com/ru/companies/dcmiran/news/774266/?utm_campaign=774266&utm_source=habrahabr&utm_medium=rss)
-- [В бете macOS Sonoma появилась возможность закрепить Shazam в строке меню](https://habr.com/ru/news/774262/?utm_campaign=774262&utm_source=habrahabr&utm_medium=rss)
-- [Google собирается разрешить подросткам использовать чат-бота Bard, хотя и с некоторыми ограничениями](https://habr.com/ru/news/774252/?utm_campaign=774252&utm_source=habrahabr&utm_medium=rss)
-- [Starlink из-за бага в системе выявления мошенничества заблокировала доступ части клиентов](https://habr.com/ru/news/774250/?utm_campaign=774250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
