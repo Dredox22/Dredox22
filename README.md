@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google разрешит пользователям комментировать результаты поиска](https://habr.com/ru/news/774244/?utm_campaign=774244&utm_source=habrahabr&utm_medium=rss)
+- [Суперкомпьютер израильского стартапа «Яндекса» Nebius попал в рейтинг Tор500](https://habr.com/ru/news/774232/?utm_campaign=774232&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил в продажу новую колонку «Станция Миди»](https://habr.com/ru/news/774224/?utm_campaign=774224&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила ИИ-сервис для создания индивидуальных ИИ-помощников Copilot Studio](https://habr.com/ru/news/774216/?utm_campaign=774216&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор уведомил небольших операторов связи о штрафах за неподключение к системе верификации вызовов «Антифрод»](https://habr.com/ru/news/774214/?utm_campaign=774214&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft переименовала Bing Chat в Copilot](https://habr.com/ru/news/774194/?utm_campaign=774194&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила собственный ИИ-чип Maia 100, который будет конкурировать с решениями Nvidia](https://habr.com/ru/news/774190/?utm_campaign=774190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
