@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google разрешит пользователям комментировать результаты поиска](https://habr.com/ru/news/774244/?utm_campaign=774244&utm_source=habrahabr&utm_medium=rss)
-- [Суперкомпьютер израильского стартапа «Яндекса» Nebius попал в рейтинг Tор500](https://habr.com/ru/news/774232/?utm_campaign=774232&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустил в продажу новую колонку «Станция Миди»](https://habr.com/ru/news/774224/?utm_campaign=774224&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила ИИ-сервис для создания индивидуальных ИИ-помощников Copilot Studio](https://habr.com/ru/news/774216/?utm_campaign=774216&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор уведомил небольших операторов связи о штрафах за неподключение к системе верификации вызовов «Антифрод»](https://habr.com/ru/news/774214/?utm_campaign=774214&utm_source=habrahabr&utm_medium=rss)
+- [Let&#39;s Talk №1: Робогаля](https://habr.com/ru/companies/X5Tech/news/774284/?utm_campaign=774284&utm_source=habrahabr&utm_medium=rss)
+- [Воздушное охлаждение и 1 киловатт энергопотребления: Threadripper Pro 7995WX поставил сразу три новых рекорда](https://habr.com/ru/companies/dcmiran/news/774266/?utm_campaign=774266&utm_source=habrahabr&utm_medium=rss)
+- [В бете macOS Sonoma появилась возможность закрепить Shazam в строке меню](https://habr.com/ru/news/774262/?utm_campaign=774262&utm_source=habrahabr&utm_medium=rss)
+- [Google собирается разрешить подросткам использовать чат-бота Bard, хотя и с некоторыми ограничениями](https://habr.com/ru/news/774252/?utm_campaign=774252&utm_source=habrahabr&utm_medium=rss)
+- [Starlink из-за бага в системе выявления мошенничества заблокировала доступ части клиентов](https://habr.com/ru/news/774250/?utm_campaign=774250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
