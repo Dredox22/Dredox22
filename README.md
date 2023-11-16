@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики ОС «Аврора» запустили образовательный портал для школьников и студентов](https://habr.com/ru/news/774374/?utm_campaign=774374&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила приложение для доступа к Windows с устройств на iOS, iPadOS и macOS](https://habr.com/ru/news/774366/?utm_campaign=774366&utm_source=habrahabr&utm_medium=rss)
+- [Обновление «Яндекс Карт»: теперь сервис показывает больше информации о городе](https://habr.com/ru/news/774362/?utm_campaign=774362&utm_source=habrahabr&utm_medium=rss)
+- [WD: портативные SSD SanDisk Extreme Pro не имеют аппаратных проблем, по факту устройства сделаны с нарушениями](https://habr.com/ru/news/774354/?utm_campaign=774354&utm_source=habrahabr&utm_medium=rss)
 - [«Альт» — первая и единственная российская ОС, работающая на базе китайских процессоров с архитектурой Loongarch64](https://habr.com/ru/companies/basealtspo/news/774314/?utm_campaign=774314&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Wireshark 4.2.0](https://habr.com/ru/news/774306/?utm_campaign=774306&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Плюс» показал систему трекинга для командных видов спорта](https://habr.com/ru/news/774298/?utm_campaign=774298&utm_source=habrahabr&utm_medium=rss)
-- [На SOC-Forum 2023 подвели итоги  кибербитвы](https://habr.com/ru/news/774290/?utm_campaign=774290&utm_source=habrahabr&utm_medium=rss)
-- [Let&#39;s Talk №1: Робогаля](https://habr.com/ru/companies/X5Tech/news/774284/?utm_campaign=774284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
