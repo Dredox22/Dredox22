@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies представила PT Cloud Application Firewall](https://habr.com/ru/news/774400/?utm_campaign=774400&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики ОС «Аврора» запустили образовательный портал для школьников и студентов](https://habr.com/ru/news/774374/?utm_campaign=774374&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила приложение для доступа к Windows с устройств на iOS, iPadOS и macOS](https://habr.com/ru/news/774366/?utm_campaign=774366&utm_source=habrahabr&utm_medium=rss)
 - [Обновление «Яндекс Карт»: теперь сервис показывает больше информации о городе](https://habr.com/ru/news/774362/?utm_campaign=774362&utm_source=habrahabr&utm_medium=rss)
 - [WD: портативные SSD SanDisk Extreme Pro не имеют аппаратных проблем, по факту устройства сделаны с нарушениями](https://habr.com/ru/news/774354/?utm_campaign=774354&utm_source=habrahabr&utm_medium=rss)
-- [«Альт» — первая и единственная российская ОС, работающая на базе китайских процессоров с архитектурой Loongarch64](https://habr.com/ru/companies/basealtspo/news/774314/?utm_campaign=774314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
