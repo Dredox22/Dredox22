@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила ИИ-сервис для создания индивидуальных ИИ-помощников Copilot Studio](https://habr.com/ru/news/774216/?utm_campaign=774216&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор уведомил небольших операторов связи о штрафах за неподключение к системе верификации вызовов «Антифрод»](https://habr.com/ru/news/774214/?utm_campaign=774214&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft переименовала Bing Chat в Copilot](https://habr.com/ru/news/774194/?utm_campaign=774194&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила собственный ИИ-чип Maia 100, который будет конкурировать с решениями Nvidia](https://habr.com/ru/news/774190/?utm_campaign=774190&utm_source=habrahabr&utm_medium=rss)
 - [CD Projekt RED анонсировала бесплатный редактор модов для «Ведьмака 3»](https://habr.com/ru/news/774142/?utm_campaign=774142&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики «Русов против ящеров» продали более 100 тысяч копий игры, но не могут получить деньги от Steam](https://habr.com/ru/news/774138/?utm_campaign=774138&utm_source=habrahabr&utm_medium=rss)
-- [Российская компания будет производить беспилотники в Индии](https://habr.com/ru/news/774102/?utm_campaign=774102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
