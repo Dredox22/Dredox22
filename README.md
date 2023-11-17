@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Агентство по кибербезопасности и безопасности инфраструктуры США и ФБР призвали компании не платить выкуп вымогателям](https://habr.com/ru/news/774622/?utm_campaign=774622&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила Media Creation Tool для работы с Windows 11 23H2](https://habr.com/ru/news/774614/?utm_campaign=774614&utm_source=habrahabr&utm_medium=rss)
 - [ОС «Альт» совместимы с платформой виртуализации SharxBase](https://habr.com/ru/companies/basealtspo/news/774598/?utm_campaign=774598&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило разместить на «Госуслугах» информацию о зарегистрированных на граждан сим-картах](https://habr.com/ru/news/774574/?utm_campaign=774574&utm_source=habrahabr&utm_medium=rss)
 - [Toyota подтвердила утечку данных после кибератаки](https://habr.com/ru/news/774570/?utm_campaign=774570&utm_source=habrahabr&utm_medium=rss)
-- [VSK IT MEETUP — первый онлайн-митап Страхового Дома ВСК. Итоги, статистика и видеозаписи](https://habr.com/ru/companies/vsk_insurance/news/774568/?utm_campaign=774568&utm_source=habrahabr&utm_medium=rss)
-- [Linux Foundation создает фонд для решения НРС-задач](https://habr.com/ru/companies/dcmiran/news/774558/?utm_campaign=774558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
