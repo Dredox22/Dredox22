@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» представил интеллектуальную платформу управления уязвимостями для организаций Sber X‑TI](https://habr.com/ru/news/774700/?utm_campaign=774700&utm_source=habrahabr&utm_medium=rss)
+- [В США тюремная телефонная компания Global Tel*Link разгласила конфиденциальную информацию почти 650 тыс. пользователей](https://habr.com/ru/news/774694/?utm_campaign=774694&utm_source=habrahabr&utm_medium=rss)
 - [Discord закрывает своего чат-бота Clyde с 1 декабря](https://habr.com/ru/news/774658/?utm_campaign=774658&utm_source=habrahabr&utm_medium=rss)
-- [Седьмой раунд официального опроса разработчиков Python от «Python Software Foundation» и «JetBrains»](https://habr.com/ru/news/774656/?utm_campaign=774656&utm_source=habrahabr&utm_medium=rss)
 - [RuStore теперь адаптирован для незрячих пользователей и людей с нарушением зрения и моторики](https://habr.com/ru/news/774654/?utm_campaign=774654&utm_source=habrahabr&utm_medium=rss)
 - [Агентство по кибербезопасности и безопасности инфраструктуры США и ФБР призвали компании не платить выкуп вымогателям](https://habr.com/ru/news/774622/?utm_campaign=774622&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила Media Creation Tool для работы с Windows 11 23H2](https://habr.com/ru/news/774614/?utm_campaign=774614&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
