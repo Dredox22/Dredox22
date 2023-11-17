@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Седьмой раунд официального опроса разработчиков Python от «Python Software Foundation» и «JetBrains»](https://habr.com/ru/news/774656/?utm_campaign=774656&utm_source=habrahabr&utm_medium=rss)
+- [RuStore теперь адаптирован для незрячих пользователей и людей с нарушением зрения и моторики](https://habr.com/ru/news/774654/?utm_campaign=774654&utm_source=habrahabr&utm_medium=rss)
 - [Агентство по кибербезопасности и безопасности инфраструктуры США и ФБР призвали компании не платить выкуп вымогателям](https://habr.com/ru/news/774622/?utm_campaign=774622&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила Media Creation Tool для работы с Windows 11 23H2](https://habr.com/ru/news/774614/?utm_campaign=774614&utm_source=habrahabr&utm_medium=rss)
 - [ОС «Альт» совместимы с платформой виртуализации SharxBase](https://habr.com/ru/companies/basealtspo/news/774598/?utm_campaign=774598&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предложило разместить на «Госуслугах» информацию о зарегистрированных на граждан сим-картах](https://habr.com/ru/news/774574/?utm_campaign=774574&utm_source=habrahabr&utm_medium=rss)
-- [Toyota подтвердила утечку данных после кибератаки](https://habr.com/ru/news/774570/?utm_campaign=774570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
