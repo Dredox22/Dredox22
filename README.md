@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple начнёт поддерживать обмен сообщениями RCS в 2024 году](https://habr.com/ru/news/774526/?utm_campaign=774526&utm_source=habrahabr&utm_medium=rss)
+- [WT Virtuemart Bitrix24 v.2.0.0 — плагин интеграции с CRM Битрикс 24](https://habr.com/ru/news/774522/?utm_campaign=774522&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над улучшением управления WiFi в Windows 11](https://habr.com/ru/news/774476/?utm_campaign=774476&utm_source=habrahabr&utm_medium=rss)
 - [YouTube анонсировал ИИ-инструменты для создания музыки, среди них генератор треков в стиле знаменитых исполнителей](https://habr.com/ru/news/774472/?utm_campaign=774472&utm_source=habrahabr&utm_medium=rss)
 - [«Одноклассники» запустили нейросеть, которая защитит пользователей от навязчивого общения в сети](https://habr.com/ru/news/774440/?utm_campaign=774440&utm_source=habrahabr&utm_medium=rss)
-- [MoscowJS 56 + X5 Tech](https://habr.com/ru/companies/X5Tech/news/774438/?utm_campaign=774438&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies представила PT Cloud Application Firewall](https://habr.com/ru/news/774400/?utm_campaign=774400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
