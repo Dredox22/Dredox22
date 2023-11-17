@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft внедрит Copilot в Windows 10](https://habr.com/ru/news/774540/?utm_campaign=774540&utm_source=habrahabr&utm_medium=rss)
-- [Linux 6.6 официально стал выпуском ядра с долгосрочной поддержкой &lpar;LTS&rpar; — до декабря 2026 года](https://habr.com/ru/news/774538/?utm_campaign=774538&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила ключи безопасности Titan](https://habr.com/ru/news/774530/?utm_campaign=774530&utm_source=habrahabr&utm_medium=rss)
-- [Apple начнёт поддерживать обмен сообщениями RCS в 2024 году](https://habr.com/ru/news/774526/?utm_campaign=774526&utm_source=habrahabr&utm_medium=rss)
-- [WT Virtuemart Bitrix24 v.2.0.0 — плагин интеграции с CRM Битрикс 24](https://habr.com/ru/news/774522/?utm_campaign=774522&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило разместить на «Госуслугах» информацию о зарегистрированных на граждан сим-картах](https://habr.com/ru/news/774574/?utm_campaign=774574&utm_source=habrahabr&utm_medium=rss)
+- [Toyota подтвердила утечку данных после кибератаки](https://habr.com/ru/news/774570/?utm_campaign=774570&utm_source=habrahabr&utm_medium=rss)
+- [VSK IT MEETUP — первый онлайн-митап Страхового Дома ВСК. Итоги, статистика и видеозаписи](https://habr.com/ru/companies/vsk_insurance/news/774568/?utm_campaign=774568&utm_source=habrahabr&utm_medium=rss)
+- [Linux Foundation создает фонд для решения НРС-задач](https://habr.com/ru/companies/dcmiran/news/774558/?utm_campaign=774558&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft уберёт Steps Recorder из Windows 11](https://habr.com/ru/news/774554/?utm_campaign=774554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
