@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX представила новую спутниковую антенну Starlink](https://habr.com/ru/news/774804/?utm_campaign=774804&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрешит пользователям Windows 10 и 11 из ЕЭЗ удалять Bing, Edge и другие приложения](https://habr.com/ru/news/774800/?utm_campaign=774800&utm_source=habrahabr&utm_medium=rss)
 - [Valve вернула бесплатную раздачу Half-Life в честь 25-летия проекта и выпустила документальный фильм про создание игры](https://habr.com/ru/news/774790/?utm_campaign=774790&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор наделён полномочиями по принятию решений блокировать сайты с методами обхода сетевых ограничений](https://habr.com/ru/news/774786/?utm_campaign=774786&utm_source=habrahabr&utm_medium=rss)
 - [GitLens для VSCode предлагает использовать AI для описания коммитов](https://habr.com/ru/news/774738/?utm_campaign=774738&utm_source=habrahabr&utm_medium=rss)
-- [Провайдер «Ярнет» из Ярославля раскрыл принцип работы ТСПУ от РКН при условии аварии в сетях оператора связи](https://habr.com/ru/news/774734/?utm_campaign=774734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
