@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар о типичных ошибках быстрого масштабирования](https://habr.com/ru/companies/vk/news/775068/?utm_campaign=775068&utm_source=habrahabr&utm_medium=rss)
+- [Lamoda Tech 1C Meetup: как переключиться с work-work balance и не выгореть](https://habr.com/ru/companies/lamoda/news/774638/?utm_campaign=774638&utm_source=habrahabr&utm_medium=rss)
+- [В структуры МТС перейдут разработчики базовых станций на OpenRAN, которые до этого работали в «Сколтехе»](https://habr.com/ru/news/775058/?utm_campaign=775058&utm_source=habrahabr&utm_medium=rss)
 - [RuStore будут предустанавливать на смартфоны «Авророй» с 2024 года](https://habr.com/ru/news/775046/?utm_campaign=775046&utm_source=habrahabr&utm_medium=rss)
 - [РКН заблокировал несколько провайдеров анонимных e-mail](https://habr.com/ru/news/775028/?utm_campaign=775028&utm_source=habrahabr&utm_medium=rss)
-- [Инструкция: как включить Copilot в Windows 10](https://habr.com/ru/news/775016/?utm_campaign=775016&utm_source=habrahabr&utm_medium=rss)
-- [Инсайдер: Apple перенесла релиз Vision Pro на март](https://habr.com/ru/news/775010/?utm_campaign=775010&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила ИИ-инструмент суммирования поиска Bing](https://habr.com/ru/news/775008/?utm_campaign=775008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
