@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН заблокировал несколько провайдеров анонимных e-mail](https://habr.com/ru/news/775028/?utm_campaign=775028&utm_source=habrahabr&utm_medium=rss)
+- [Инструкция: как включить Copilot в Windows 10](https://habr.com/ru/news/775016/?utm_campaign=775016&utm_source=habrahabr&utm_medium=rss)
+- [Инсайдер: Apple перенесла релиз Vision Pro на март](https://habr.com/ru/news/775010/?utm_campaign=775010&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила ИИ-инструмент суммирования поиска Bing](https://habr.com/ru/news/775008/?utm_campaign=775008&utm_source=habrahabr&utm_medium=rss)
 - [Unity анонсировала выход Unity 6 в 2024 году](https://habr.com/ru/news/775006/?utm_campaign=775006&utm_source=habrahabr&utm_medium=rss)
-- [Unity открыла доступ к ИИ-платформе Muse для разработки игр](https://habr.com/ru/news/774942/?utm_campaign=774942&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты: мессенджер Nothing не имеет сквозного шифрования в исходном коде](https://habr.com/ru/news/774900/?utm_campaign=774900&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX представила новую спутниковую антенну Starlink](https://habr.com/ru/news/774804/?utm_campaign=774804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
