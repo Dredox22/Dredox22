@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала программно замедлять загрузку YouTube в браузерах с блокировкой рекламы](https://habr.com/ru/news/775220/?utm_campaign=775220&utm_source=habrahabr&utm_medium=rss)
 - [Cyberia Nova показала ещё одно короткое геймплейное видео «Смуты»](https://habr.com/ru/news/775210/?utm_campaign=775210&utm_source=habrahabr&utm_medium=rss)
 - [Популярные инструменты для обхода блокировок исчезли с Github в один день](https://habr.com/ru/news/775206/?utm_campaign=775206&utm_source=habrahabr&utm_medium=rss)
 - [RUVDS выявит уязвимости космических аппаратов](https://habr.com/ru/companies/ruvds/news/775134/?utm_campaign=775134&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/775188/?utm_campaign=775188&utm_source=habrahabr&utm_medium=rss)
-- [NordPass: самым популярным паролем в 2023 году стал 123456](https://habr.com/ru/news/775172/?utm_campaign=775172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
