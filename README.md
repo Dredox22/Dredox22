@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила ИИ-инструмент суммирования поиска Bing](https://habr.com/ru/news/775008/?utm_campaign=775008&utm_source=habrahabr&utm_medium=rss)
+- [Unity анонсировала выход Unity 6 в 2024 году](https://habr.com/ru/news/775006/?utm_campaign=775006&utm_source=habrahabr&utm_medium=rss)
 - [Unity открыла доступ к ИИ-платформе Muse для разработки игр](https://habr.com/ru/news/774942/?utm_campaign=774942&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты: мессенджер Nothing не имеет сквозного шифрования в исходном коде](https://habr.com/ru/news/774900/?utm_campaign=774900&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX представила новую спутниковую антенну Starlink](https://habr.com/ru/news/774804/?utm_campaign=774804&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешит пользователям Windows 10 и 11 из ЕЭЗ удалять Bing, Edge и другие приложения](https://habr.com/ru/news/774800/?utm_campaign=774800&utm_source=habrahabr&utm_medium=rss)
-- [Valve вернула бесплатную раздачу Half-Life в честь 25-летия проекта и выпустила документальный фильм про создание игры](https://habr.com/ru/news/774790/?utm_campaign=774790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
