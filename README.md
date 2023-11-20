@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RUVDS выявит уязвимости космических аппаратов](https://habr.com/ru/companies/ruvds/news/775134/?utm_campaign=775134&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/775188/?utm_campaign=775188&utm_source=habrahabr&utm_medium=rss)
 - [NordPass: самым популярным паролем в 2023 году стал 123456](https://habr.com/ru/news/775172/?utm_campaign=775172&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp скоро появится интегрированный чат-бот с ИИ](https://habr.com/ru/news/775152/?utm_campaign=775152&utm_source=habrahabr&utm_medium=rss)
 - [Google поделилась планами по тестовой блокировке сторонних сookie в Chrome в 2024 году](https://habr.com/ru/news/775132/?utm_campaign=775132&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Blender 4.0](https://habr.com/ru/news/775116/?utm_campaign=775116&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар о типичных ошибках быстрого масштабирования](https://habr.com/ru/companies/vk/news/775068/?utm_campaign=775068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
