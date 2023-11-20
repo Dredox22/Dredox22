@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google поделилась планами по тестовой блокировке сторонних файлов Cookie в Chrome в 2024 году](https://habr.com/ru/news/775132/?utm_campaign=775132&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Blender 4.0](https://habr.com/ru/news/775116/?utm_campaign=775116&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар о типичных ошибках быстрого масштабирования](https://habr.com/ru/companies/vk/news/775068/?utm_campaign=775068&utm_source=habrahabr&utm_medium=rss)
 - [Lamoda Tech 1C Meetup: как переключиться с work-work balance и не выгореть](https://habr.com/ru/companies/lamoda/news/774638/?utm_campaign=774638&utm_source=habrahabr&utm_medium=rss)
 - [В структуры МТС перейдут разработчики базовых станций на OpenRAN, которые до этого работали в «Сколтехе»](https://habr.com/ru/news/775058/?utm_campaign=775058&utm_source=habrahabr&utm_medium=rss)
-- [RuStore будут предустанавливать на смартфоны «Авророй» с 2024 года](https://habr.com/ru/news/775046/?utm_campaign=775046&utm_source=habrahabr&utm_medium=rss)
-- [РКН заблокировал несколько провайдеров анонимных e-mail](https://habr.com/ru/news/775028/?utm_campaign=775028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
