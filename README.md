@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Windows 11 KB5032190 убирает ярлыки с панели задач и приводит к циклической перезагрузке](https://habr.com/ru/news/775280/?utm_campaign=775280&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: ChatGPT работает лучше на Julia, чем на Python и R](https://habr.com/ru/news/775270/?utm_campaign=775270&utm_source=habrahabr&utm_medium=rss)
+- [НУБЕС запускает сервис комплексной защиты веб-приложений &lpar;WAF&rpar;](https://habr.com/ru/companies/nubes/news/775268/?utm_campaign=775268&utm_source=habrahabr&utm_medium=rss)
+- [«Бештау» намерена запустить в Ростовской области производство смартфонов](https://habr.com/ru/news/775262/?utm_campaign=775262&utm_source=habrahabr&utm_medium=rss)
 - [Apple не закрыла уязвимость, которая позволяет блокировать работу iPhone с помощью Flipper Zero](https://habr.com/ru/news/775258/?utm_campaign=775258&utm_source=habrahabr&utm_medium=rss)
-- [Вышла FreeBSD 14.0](https://habr.com/ru/news/775246/?utm_campaign=775246&utm_source=habrahabr&utm_medium=rss)
-- [Google начала программно замедлять загрузку YouTube в браузерах с блокировкой рекламы](https://habr.com/ru/news/775220/?utm_campaign=775220&utm_source=habrahabr&utm_medium=rss)
-- [Cyberia Nova показала ещё одно короткое геймплейное видео «Смуты»](https://habr.com/ru/news/775210/?utm_campaign=775210&utm_source=habrahabr&utm_medium=rss)
-- [Популярные инструменты для обхода блокировок исчезли с Github в один день](https://habr.com/ru/news/775206/?utm_campaign=775206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
