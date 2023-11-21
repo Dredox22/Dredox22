@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple не закрыла уязвимость, которая позволяет блокировать работу iPhone с помощью Flipper Zero](https://habr.com/ru/news/775258/?utm_campaign=775258&utm_source=habrahabr&utm_medium=rss)
 - [Вышла FreeBSD 14.0](https://habr.com/ru/news/775246/?utm_campaign=775246&utm_source=habrahabr&utm_medium=rss)
 - [Google начала программно замедлять загрузку YouTube в браузерах с блокировкой рекламы](https://habr.com/ru/news/775220/?utm_campaign=775220&utm_source=habrahabr&utm_medium=rss)
 - [Cyberia Nova показала ещё одно короткое геймплейное видео «Смуты»](https://habr.com/ru/news/775210/?utm_campaign=775210&utm_source=habrahabr&utm_medium=rss)
 - [Популярные инструменты для обхода блокировок исчезли с Github в один день](https://habr.com/ru/news/775206/?utm_campaign=775206&utm_source=habrahabr&utm_medium=rss)
-- [RUVDS выявит уязвимости космических аппаратов](https://habr.com/ru/companies/ruvds/news/775134/?utm_campaign=775134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
