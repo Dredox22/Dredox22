@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Shenzhen Kaihong Technology и Leju Robot представили робота Aelos на Huawei HarmonyOS](https://habr.com/ru/news/775472/?utm_campaign=775472&utm_source=habrahabr&utm_medium=rss)
+- [Twitch запустил Центр конфиденциальности, чтобы информировать пользователей об использовании их личных данных](https://habr.com/ru/news/775460/?utm_campaign=775460&utm_source=habrahabr&utm_medium=rss)
 - [13 декабря проведем Naumen Java Meetup #2 для опытных разработчиков](https://habr.com/ru/companies/naumen/news/775454/?utm_campaign=775454&utm_source=habrahabr&utm_medium=rss)
 - [В YouTube заявили, что новая задержка в 5 секунд в Firefox призвана бороться с блокировщиками рекламы](https://habr.com/ru/news/775426/?utm_campaign=775426&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» заявила, что хакеры в третьем квартале 2023 года перешли на массовые DDoS‑атаки](https://habr.com/ru/news/775400/?utm_campaign=775400&utm_source=habrahabr&utm_medium=rss)
-- [Ученые Smart Engines нашли способ останавливать ИИ и запатентовали свою технологию в США](https://habr.com/ru/companies/smartengines/news/775396/?utm_campaign=775396&utm_source=habrahabr&utm_medium=rss)
-- [Портал Британской библиотеки был недоступен в сети три недели из-за киберинцидента](https://habr.com/ru/news/775394/?utm_campaign=775394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
