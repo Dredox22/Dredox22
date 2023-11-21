@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Альт» и «Эльбрус» — основа российского банкомата Газпромбанка](https://habr.com/ru/companies/basealtspo/news/775312/?utm_campaign=775312&utm_source=habrahabr&utm_medium=rss)
+- [Власти Казахстана анонсировали изменения законодательства для использования технологий Starlink](https://habr.com/ru/news/775290/?utm_campaign=775290&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows 11 KB5032190 убирает ярлыки с панели задач и приводит к циклической перезагрузке](https://habr.com/ru/news/775280/?utm_campaign=775280&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ChatGPT работает лучше на Julia, чем на Python и R](https://habr.com/ru/news/775270/?utm_campaign=775270&utm_source=habrahabr&utm_medium=rss)
 - [НУБЕС запускает сервис комплексной защиты веб-приложений &lpar;WAF&rpar;](https://habr.com/ru/companies/nubes/news/775268/?utm_campaign=775268&utm_source=habrahabr&utm_medium=rss)
-- [«Бештау» намерена запустить в Ростовской области производство смартфонов](https://habr.com/ru/news/775262/?utm_campaign=775262&utm_source=habrahabr&utm_medium=rss)
-- [Apple не закрыла уязвимость, которая позволяет блокировать работу iPhone с помощью Flipper Zero](https://habr.com/ru/news/775258/?utm_campaign=775258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
