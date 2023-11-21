@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз модели Stable Video Diffusion для генерации коротких видео](https://habr.com/ru/news/775536/?utm_campaign=775536&utm_source=habrahabr&utm_medium=rss)
 - [Google обновила магазин Chrome Web Store](https://habr.com/ru/news/775530/?utm_campaign=775530&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объяснила, почему пользователям нужен Copilot в Windows 11 и 10, даже если он им не нужен](https://habr.com/ru/news/775520/?utm_campaign=775520&utm_source=habrahabr&utm_medium=rss)
 - [Telegram оштрафовали на 4 млн рублей за неудаление запрещённого в РФ контента](https://habr.com/ru/news/775518/?utm_campaign=775518&utm_source=habrahabr&utm_medium=rss)
 - [Система лазерной космической передачи данных от НАСА заработала в тестовом режиме](https://habr.com/ru/news/775514/?utm_campaign=775514&utm_source=habrahabr&utm_medium=rss)
-- [RuStore анонсировал новый формат фичеринга и другие возможности для разработчиков](https://habr.com/ru/news/775508/?utm_campaign=775508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
