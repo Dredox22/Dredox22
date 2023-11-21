@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила ошибку «Что-то пошло не так» [1001] у пользователей Microsoft 365](https://habr.com/ru/news/775350/?utm_campaign=775350&utm_source=habrahabr&utm_medium=rss)
+- [В России планируют ввести утилизационный сбор для импортной электроники: планшетов, смартфонов, ноутбуков и видеокамер](https://habr.com/ru/news/775328/?utm_campaign=775328&utm_source=habrahabr&utm_medium=rss)
 - [«Альт» и «Эльбрус» — основа российского банкомата Газпромбанка](https://habr.com/ru/companies/basealtspo/news/775312/?utm_campaign=775312&utm_source=habrahabr&utm_medium=rss)
 - [Власти Казахстана анонсировали изменения законодательства для использования технологий Starlink](https://habr.com/ru/news/775290/?utm_campaign=775290&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows 11 KB5032190 убирает ярлыки с панели задач и приводит к циклической перезагрузке](https://habr.com/ru/news/775280/?utm_campaign=775280&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ChatGPT работает лучше на Julia, чем на Python и R](https://habr.com/ru/news/775270/?utm_campaign=775270&utm_source=habrahabr&utm_medium=rss)
-- [НУБЕС запускает сервис комплексной защиты веб-приложений &lpar;WAF&rpar;](https://habr.com/ru/companies/nubes/news/775268/?utm_campaign=775268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
