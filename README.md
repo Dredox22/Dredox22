@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft объяснила, почему пользователям нужен Copilot в Windows 11 и 10, даже если он им не нужен](https://habr.com/ru/news/775520/?utm_campaign=775520&utm_source=habrahabr&utm_medium=rss)
+- [Telegram оштрафовали на 4 млн рублей за неудаление запрещённого в РФ контента](https://habr.com/ru/news/775518/?utm_campaign=775518&utm_source=habrahabr&utm_medium=rss)
+- [Система лазерной космической передачи данных от НАСА заработала в тестовом режиме](https://habr.com/ru/news/775514/?utm_campaign=775514&utm_source=habrahabr&utm_medium=rss)
 - [RuStore анонсировал новый формат фичеринга и другие возможности для разработчиков](https://habr.com/ru/news/775508/?utm_campaign=775508&utm_source=habrahabr&utm_medium=rss)
 - [Shenzhen Kaihong Technology и Leju Robot представили робота Aelos на Huawei HarmonyOS](https://habr.com/ru/news/775472/?utm_campaign=775472&utm_source=habrahabr&utm_medium=rss)
-- [Twitch запустил Центр конфиденциальности, чтобы информировать пользователей об использовании их личных данных](https://habr.com/ru/news/775460/?utm_campaign=775460&utm_source=habrahabr&utm_medium=rss)
-- [13 декабря проведем Naumen Java Meetup #2 для опытных разработчиков](https://habr.com/ru/companies/naumen/news/775454/?utm_campaign=775454&utm_source=habrahabr&utm_medium=rss)
-- [В YouTube заявили, что новая задержка в 5 секунд в Firefox призвана бороться с блокировщиками рекламы](https://habr.com/ru/news/775426/?utm_campaign=775426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
