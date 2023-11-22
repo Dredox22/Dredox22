@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mundfish показала тизер второго DLC Atomic Heart](https://habr.com/ru/news/775662/?utm_campaign=775662&utm_source=habrahabr&utm_medium=rss)
 - [«Гарда» представила отчёт по DDoS‑атакам за третий квартал 2023 года](https://habr.com/ru/news/775642/?utm_campaign=775642&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил курс «PHP-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/774294/?utm_campaign=774294&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo готовит патч для драйвера ядра Linux с режимом «сверхпроизводительности» в новых ThinkPad](https://habr.com/ru/news/775638/?utm_campaign=775638&utm_source=habrahabr&utm_medium=rss)
 - [Российская ICL объявила о запуске розничного бренда электроники Osio](https://habr.com/ru/news/775634/?utm_campaign=775634&utm_source=habrahabr&utm_medium=rss)
-- [Sunbird заблокировала проект своего приложения iMessage для Android из-за проблем безопасности](https://habr.com/ru/news/775632/?utm_campaign=775632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
