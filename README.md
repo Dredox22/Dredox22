@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Правительство РФ предложило учредить премии за решение математических «задач тысячелетия»](https://habr.com/ru/news/775622/?utm_campaign=775622&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» просит Минцифры проверить правомерность включения ОС «Ред ОС М» в реестр отечественного ПО](https://habr.com/ru/news/775618/?utm_campaign=775618&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Плюс» запускает олимпиаду для учащихся начальных классов и дошкольников](https://habr.com/ru/news/775614/?utm_campaign=775614&utm_source=habrahabr&utm_medium=rss)
-- [В «МойОфис» интегрировали нейросеть GigaChat от «Сбера»](https://habr.com/ru/news/775610/?utm_campaign=775610&utm_source=habrahabr&utm_medium=rss)
-- [Новый сетевой ускоритель NVIDIA SuperNIC для ИИ-нагрузок](https://habr.com/ru/companies/dcmiran/news/775608/?utm_campaign=775608&utm_source=habrahabr&utm_medium=rss)
+- [«Гарда» представила отчёт по DDoS‑атакам за третий квартал 2023 года](https://habr.com/ru/news/775642/?utm_campaign=775642&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Практикум запустил курс «PHP-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/774294/?utm_campaign=774294&utm_source=habrahabr&utm_medium=rss)
+- [Lenovo готовит патч для драйвера ядра Linux с режимом «сверхпроизводительности» в новых ThinkPad](https://habr.com/ru/news/775638/?utm_campaign=775638&utm_source=habrahabr&utm_medium=rss)
+- [Российская ICL объявила о запуске розничного бренда электроники Osio](https://habr.com/ru/news/775634/?utm_campaign=775634&utm_source=habrahabr&utm_medium=rss)
+- [Sunbird заблокировала проект своего приложения iMessage для Android из-за проблем безопасности](https://habr.com/ru/news/775632/?utm_campaign=775632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
