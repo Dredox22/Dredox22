@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google тестирует ИИ-функцию организации вкладок в Chrome](https://habr.com/ru/news/775782/?utm_campaign=775782&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала открывать доступ к Copilot пользователям тестовой версии Windows 10](https://habr.com/ru/news/775764/?utm_campaign=775764&utm_source=habrahabr&utm_medium=rss)
 - [В России пройдёт Киберурок для школьников и студентов ссуз по актуальным цифровым угрозам](https://habr.com/ru/news/775754/?utm_campaign=775754&utm_source=habrahabr&utm_medium=rss)
 - [AIRI разработал новую ИИ‑модель OmniFusion](https://habr.com/ru/news/775748/?utm_campaign=775748&utm_source=habrahabr&utm_medium=rss)
 - [Ученые Smart Engines представили 21 доклад на международной научной конференции по компьютерному зрению ICMV-2023](https://habr.com/ru/companies/smartengines/news/775722/?utm_campaign=775722&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф-банк» собирает согласие на обработку биометрии клиентов при вводе пин-кода в новом приложении или банкомате](https://habr.com/ru/news/775720/?utm_campaign=775720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
