@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft запустила программу вознаграждений за обнаружение ошибок на платформе безопасности Microsoft Defender](https://habr.com/ru/news/775696/?utm_campaign=775696&utm_source=habrahabr&utm_medium=rss)
 - [Новосибирские учёные разработали прототип антенны с возможностью раздавать Wi-Fi в узком луче, а не всем вокруг](https://habr.com/ru/news/775684/?utm_campaign=775684&utm_source=habrahabr&utm_medium=rss)
 - [Mundfish показала тизер второго DLC Atomic Heart](https://habr.com/ru/news/775662/?utm_campaign=775662&utm_source=habrahabr&utm_medium=rss)
 - [«Гарда» представила отчёт по DDoS‑атакам за третий квартал 2023 года](https://habr.com/ru/news/775642/?utm_campaign=775642&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил курс «PHP-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/774294/?utm_campaign=774294&utm_source=habrahabr&utm_medium=rss)
-- [Lenovo готовит патч для драйвера ядра Linux с режимом «сверхпроизводительности» в новых ThinkPad](https://habr.com/ru/news/775638/?utm_campaign=775638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
