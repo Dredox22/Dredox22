@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AIRI разработал новую ИИ‑модель OmniFusion](https://habr.com/ru/news/775748/?utm_campaign=775748&utm_source=habrahabr&utm_medium=rss)
 - [Ученые Smart Engines представили 21 доклад на международной научной конференции по компьютерному зрению ICMV-2023](https://habr.com/ru/companies/smartengines/news/775722/?utm_campaign=775722&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф-банк» собирает согласие на обработку биометрии клиентов при вводе пин-кода в новом приложении или банкомате](https://habr.com/ru/news/775720/?utm_campaign=775720&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-исследователи смогли обойти аутентификацию по отпечатку пальца Windows Hello в трёх ноутбуках](https://habr.com/ru/news/775712/?utm_campaign=775712&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила программу вознаграждений за обнаружение ошибок на платформе безопасности Microsoft Defender](https://habr.com/ru/news/775696/?utm_campaign=775696&utm_source=habrahabr&utm_medium=rss)
-- [Новосибирские учёные разработали прототип антенны с возможностью раздавать Wi-Fi в узком луче, а не всем вокруг](https://habr.com/ru/news/775684/?utm_campaign=775684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
