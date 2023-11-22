@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство РФ предложило учредить премии за решение математических «задач тысячелетия»](https://habr.com/ru/news/775622/?utm_campaign=775622&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» просит Минцифры проверить правомерность включения ОС «Ред ОС М» в реестр отечественного ПО](https://habr.com/ru/news/775618/?utm_campaign=775618&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Плюс» запускает олимпиаду для учащихся начальных классов и дошкольников](https://habr.com/ru/news/775614/?utm_campaign=775614&utm_source=habrahabr&utm_medium=rss)
 - [В «МойОфис» интегрировали нейросеть GigaChat от «Сбера»](https://habr.com/ru/news/775610/?utm_campaign=775610&utm_source=habrahabr&utm_medium=rss)
 - [Новый сетевой ускоритель NVIDIA SuperNIC для ИИ-нагрузок](https://habr.com/ru/companies/dcmiran/news/775608/?utm_campaign=775608&utm_source=habrahabr&utm_medium=rss)
-- [Valeo Schalter und Sensoren подала в суд на Nvidia из-за присвоения данных](https://habr.com/ru/news/775602/?utm_campaign=775602&utm_source=habrahabr&utm_medium=rss)
-- [Проект GameMaker стал бесплатным для некоммерческих неконсольных игр](https://habr.com/ru/news/775592/?utm_campaign=775592&utm_source=habrahabr&utm_medium=rss)
-- [Apple запатентовала съёмные аккумуляторы-противовесы для Vision Pro](https://habr.com/ru/news/775566/?utm_campaign=775566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
