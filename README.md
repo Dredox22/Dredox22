@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «МойОфис» интегрировали нейросеть GigaChat от «Сбера»](https://habr.com/ru/news/775610/?utm_campaign=775610&utm_source=habrahabr&utm_medium=rss)
+- [Новый сетевой ускоритель NVIDIA SuperNIC для ИИ-нагрузок](https://habr.com/ru/companies/dcmiran/news/775608/?utm_campaign=775608&utm_source=habrahabr&utm_medium=rss)
+- [Valeo Schalter und Sensoren подала в суд на Nvidia из-за присвоения данных](https://habr.com/ru/news/775602/?utm_campaign=775602&utm_source=habrahabr&utm_medium=rss)
+- [Проект GameMaker стал бесплатным для некоммерческих неконсольных игр](https://habr.com/ru/news/775592/?utm_campaign=775592&utm_source=habrahabr&utm_medium=rss)
 - [Apple запатентовала съёмные аккумуляторы-противовесы для Vision Pro](https://habr.com/ru/news/775566/?utm_campaign=775566&utm_source=habrahabr&utm_medium=rss)
-- [Контекстное окно в 200 тыс. токенов Claude 2.1 подвергли проверке](https://habr.com/ru/news/775558/?utm_campaign=775558&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз модели Stable Video Diffusion для генерации коротких видео](https://habr.com/ru/news/775536/?utm_campaign=775536&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила магазин Chrome Web Store](https://habr.com/ru/news/775530/?utm_campaign=775530&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила, почему пользователям нужен Copilot в Windows 11 и 10, даже если он им не нужен](https://habr.com/ru/news/775520/?utm_campaign=775520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
