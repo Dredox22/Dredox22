@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили ИИ-приложение для вёрстки по скриншотам, проверяем его возможности на современных сайтах](https://habr.com/ru/news/776010/?utm_campaign=776010&utm_source=habrahabr&utm_medium=rss)
+- [Скоро: Открытая конференция ИСП РАН](https://habr.com/ru/companies/isp_ras/news/776000/?utm_campaign=776000&utm_source=habrahabr&utm_medium=rss)
+- [В московских больницах появились роботы-помощники в виде робокошек](https://habr.com/ru/news/775990/?utm_campaign=775990&utm_source=habrahabr&utm_medium=rss)
 - [МТС будет продавать бизнесу коробочные решения P7 и облачный сервис](https://habr.com/ru/companies/r7-office/news/775976/?utm_campaign=775976&utm_source=habrahabr&utm_medium=rss)
 - [Презентацию российского смартфона «Р-Фон» перенесли на 18 декабря](https://habr.com/ru/news/775968/?utm_campaign=775968&utm_source=habrahabr&utm_medium=rss)
-- [Как создавать и использовать ботов в Telegram? Собрали в бесплатный курс 9 инструкций разной сложности](https://habr.com/ru/companies/selectel/news/775958/?utm_campaign=775958&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: 83% мобильных игр закрываются в течение трёх лет после релиза](https://habr.com/ru/news/775964/?utm_campaign=775964&utm_source=habrahabr&utm_medium=rss)
-- [В AgroCode Hack и AgroCode Data Science Cup приняли участие 29 команд из 30 городов РФ](https://habr.com/ru/companies/rshb/news/775956/?utm_campaign=775956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
