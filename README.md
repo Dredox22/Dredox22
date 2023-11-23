@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing стал жертвой теории заговора и несколько часов отрицал существование Австралии; Bing AI его не поддержал](https://habr.com/ru/news/776024/?utm_campaign=776024&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили ИИ-приложение для вёрстки по скриншотам, проверяем его возможности на современных сайтах](https://habr.com/ru/news/776010/?utm_campaign=776010&utm_source=habrahabr&utm_medium=rss)
 - [Скоро: Открытая конференция ИСП РАН](https://habr.com/ru/companies/isp_ras/news/776000/?utm_campaign=776000&utm_source=habrahabr&utm_medium=rss)
 - [В московских больницах появились роботы-помощники в виде робокошек](https://habr.com/ru/news/775990/?utm_campaign=775990&utm_source=habrahabr&utm_medium=rss)
 - [МТС будет продавать бизнесу коробочные решения P7 и облачный сервис](https://habr.com/ru/companies/r7-office/news/775976/?utm_campaign=775976&utm_source=habrahabr&utm_medium=rss)
-- [Презентацию российского смартфона «Р-Фон» перенесли на 18 декабря](https://habr.com/ru/news/775968/?utm_campaign=775968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
