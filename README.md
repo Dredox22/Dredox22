@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NGFW UserGate: эффективная защита от внешних и внутренних сетевых угроз в облаке — вебинар Cloud.ru 30 ноября](https://habr.com/ru/companies/cloud_ru/news/775850/?utm_campaign=775850&utm_source=habrahabr&utm_medium=rss)
+- [Чат-бот Google Bard теперь может по запросу смотреть ролики и предлагать данные из видеоконтента в YouTube](https://habr.com/ru/news/775846/?utm_campaign=775846&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты выяснили, что внутри Sony PlayStation Portal установлен SoC Qualcomm Snapdragon 680](https://habr.com/ru/news/775818/?utm_campaign=775818&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI работает над проектом прототипа AGI под названием Q* &lpar;Q Star&rpar; и обучила нейросеть решать начальную математику](https://habr.com/ru/news/775808/?utm_campaign=775808&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует ИИ-функцию организации вкладок в Chrome](https://habr.com/ru/news/775782/?utm_campaign=775782&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала открывать доступ к Copilot пользователям тестовой версии Windows 10](https://habr.com/ru/news/775764/?utm_campaign=775764&utm_source=habrahabr&utm_medium=rss)
-- [В России пройдёт Киберурок для школьников и студентов ссуз по актуальным цифровым угрозам](https://habr.com/ru/news/775754/?utm_campaign=775754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
