@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил llm.js — библиотеку для запуска больших языковых моделей в браузере](https://habr.com/ru/news/776054/?utm_campaign=776054&utm_source=habrahabr&utm_medium=rss)
 - [Участникам программы предварительной оценки Office доступны инструменты рукописного ввода в Word, PowerPoint и OneNote](https://habr.com/ru/news/776046/?utm_campaign=776046&utm_source=habrahabr&utm_medium=rss)
 - [Авторы научно-популярных произведений подали коллективный иск против OpenAI](https://habr.com/ru/news/776042/?utm_campaign=776042&utm_source=habrahabr&utm_medium=rss)
 - [Вышел документальный сериал о кибербезопасности в РФ «Невидимая война»](https://habr.com/ru/news/776038/?utm_campaign=776038&utm_source=habrahabr&utm_medium=rss)
 - [Сайт Blender.org несколько дней был под мощной DDoS-атакой](https://habr.com/ru/news/776034/?utm_campaign=776034&utm_source=habrahabr&utm_medium=rss)
-- [Bing стал жертвой теории заговора и несколько часов отрицал существование Австралии; Bing AI его не поддержал](https://habr.com/ru/news/776024/?utm_campaign=776024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
