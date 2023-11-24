@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС тестирует платформу машинного обучения на сторонних устройствах](https://habr.com/ru/news/776134/?utm_campaign=776134&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» официально представит ОС «Аврора» 5.0 8 декабря](https://habr.com/ru/news/776116/?utm_campaign=776116&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь фреймворка для мобильной разработки Flutter Иэн Хиксон &lpar;Hixie&rpar; объявил об уходе из Google](https://habr.com/ru/news/776110/?utm_campaign=776110&utm_source=habrahabr&utm_medium=rss)
 - [ГРЧЦ и Российское общество «Знание» запустили конкурс команд-разработчиков систем искусственного интеллекта «Битва ИИ»](https://habr.com/ru/news/776094/?utm_campaign=776094&utm_source=habrahabr&utm_medium=rss)
 - [Rockstar запретила бывшему разработчику рассказывать правдивые истории о способах разработки игр в Rockstar](https://habr.com/ru/news/776082/?utm_campaign=776082&utm_source=habrahabr&utm_medium=rss)
-- [БЗЗЗЗРРРРРРРТ — это звук глобального затвора Sony A9 III за $5999 для снимков 4K со скоростью 120 кадров в секунду](https://habr.com/ru/news/776078/?utm_campaign=776078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
