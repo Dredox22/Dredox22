@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск среды разработки Qt Creator 12](https://habr.com/ru/news/776236/?utm_campaign=776236&utm_source=habrahabr&utm_medium=rss)
+- [КЦ доменов .RU/.РФ за 2023 год заблокировал 43 910 вредоносных доменов](https://habr.com/ru/news/776232/?utm_campaign=776232&utm_source=habrahabr&utm_medium=rss)
 - [Сбер объявил о создании продакшн-модели для русского языка с 29 млрд параметров](https://habr.com/ru/news/776186/?utm_campaign=776186&utm_source=habrahabr&utm_medium=rss)
 - [Mediascope: большинство российских пользователей, покинувших Instagram**, перешли в Telegram](https://habr.com/ru/news/776162/?utm_campaign=776162&utm_source=habrahabr&utm_medium=rss)
 - [МТС тестирует платформу машинного обучения на сторонних устройствах](https://habr.com/ru/news/776134/?utm_campaign=776134&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» официально представит ОС «Аврора» 5.0 8 декабря](https://habr.com/ru/news/776116/?utm_campaign=776116&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь фреймворка для мобильной разработки Flutter Иэн Хиксон &lpar;Hixie&rpar; объявил об уходе из Google](https://habr.com/ru/news/776110/?utm_campaign=776110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
