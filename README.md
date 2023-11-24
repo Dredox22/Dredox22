@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rockstar запретила бывшему разработчику рассказывать правдивые истории о способах разработки игр в Rockstar](https://habr.com/ru/news/776082/?utm_campaign=776082&utm_source=habrahabr&utm_medium=rss)
 - [БЗЗЗЗРРРРРРРТ — это звук глобального затвора Sony A9 III за $5999 для снимков 4K со скоростью 120 кадров в секунду](https://habr.com/ru/news/776078/?utm_campaign=776078&utm_source=habrahabr&utm_medium=rss)
 - [Песни за 2 минуты без смс и регистрации &lpar;почти&rpar;](https://habr.com/ru/news/776070/?utm_campaign=776070&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил llm.js — библиотеку для запуска больших языковых моделей в браузере](https://habr.com/ru/news/776054/?utm_campaign=776054&utm_source=habrahabr&utm_medium=rss)
 - [Участникам программы предварительной оценки Office доступны инструменты рукописного ввода в Word, PowerPoint и OneNote](https://habr.com/ru/news/776046/?utm_campaign=776046&utm_source=habrahabr&utm_medium=rss)
-- [Авторы научно-популярных произведений подали коллективный иск против OpenAI](https://habr.com/ru/news/776042/?utm_campaign=776042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
