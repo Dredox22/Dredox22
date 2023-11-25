@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновлена открытая утилита LACT &lpar;Linux AMDGPU Control Application&rpar; — GUI для управления GPU AMD Radeon для Linux](https://habr.com/ru/news/776322/?utm_campaign=776322&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст представил небольшого робота Rob с поддержкой ChatGPT](https://habr.com/ru/news/776320/?utm_campaign=776320&utm_source=habrahabr&utm_medium=rss)
 - [Libre Arts: GIMP 3.0 выйдет в мае 2024 года](https://habr.com/ru/news/776282/?utm_campaign=776282&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PHP 8.3](https://habr.com/ru/news/776250/?utm_campaign=776250&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск среды разработки Qt Creator 12](https://habr.com/ru/news/776236/?utm_campaign=776236&utm_source=habrahabr&utm_medium=rss)
-- [КЦ доменов .RU/.РФ за 2023 год заблокировал 43 910 вредоносных доменов](https://habr.com/ru/news/776232/?utm_campaign=776232&utm_source=habrahabr&utm_medium=rss)
-- [Сбер объявил о создании продакшн-модели для русского языка с 29 млрд параметров](https://habr.com/ru/news/776186/?utm_campaign=776186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
