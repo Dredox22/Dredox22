@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google попросили не индексировать крупнейший репозиторий IPTV iptv-org](https://habr.com/ru/news/776330/?utm_campaign=776330&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики проекта «Смута» показали процесс создания локаций для игры](https://habr.com/ru/news/776334/?utm_campaign=776334&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила ChatGPT AI в командную строку Windows 11](https://habr.com/ru/news/776328/?utm_campaign=776328&utm_source=habrahabr&utm_medium=rss)
 - [Обновлена открытая утилита LACT &lpar;Linux AMDGPU Control Application&rpar; — GUI для управления GPU AMD Radeon для Linux](https://habr.com/ru/news/776322/?utm_campaign=776322&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст представил небольшого робота Rob с поддержкой ChatGPT](https://habr.com/ru/news/776320/?utm_campaign=776320&utm_source=habrahabr&utm_medium=rss)
-- [Libre Arts: GIMP 3.0 выйдет в мае 2024 года](https://habr.com/ru/news/776282/?utm_campaign=776282&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PHP 8.3](https://habr.com/ru/news/776250/?utm_campaign=776250&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск среды разработки Qt Creator 12](https://habr.com/ru/news/776236/?utm_campaign=776236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
