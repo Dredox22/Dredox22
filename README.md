@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub: с 8 декабря доступ к порталу поддержки платформы только через вход в учётную запись GitHub](https://habr.com/ru/news/776416/?utm_campaign=776416&utm_source=habrahabr&utm_medium=rss)
 - [Проект LibreOffice Viewer обновлён и перезапущен в Google Play](https://habr.com/ru/news/776384/?utm_campaign=776384&utm_source=habrahabr&utm_medium=rss)
 - [Греф спрогнозировал два сценария развития искусственного интеллекта](https://habr.com/ru/news/776376/?utm_campaign=776376&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка в приложении для обмена файлами ownCloud раскрывает пароли администратора](https://habr.com/ru/news/776336/?utm_campaign=776336&utm_source=habrahabr&utm_medium=rss)
 - [Google попросили не индексировать крупнейший репозиторий IPTV iptv-org](https://habr.com/ru/news/776330/?utm_campaign=776330&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики проекта «Смута» показали процесс создания локаций для игры](https://habr.com/ru/news/776334/?utm_campaign=776334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
