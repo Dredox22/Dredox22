@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tuxedo представила игровой ноутбук Sirius 16 с AMD Ryzen 7 7840HS и Radeon RX 7600M XT](https://habr.com/ru/news/776530/?utm_campaign=776530&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратит поддержку приложения Calendar на устройствах с Android 7.1 и старше](https://habr.com/ru/news/776518/?utm_campaign=776518&utm_source=habrahabr&utm_medium=rss)
 - [General Electric изучает ситуацию с возможной кибератакой и кражей данных компании](https://habr.com/ru/news/776510/?utm_campaign=776510&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты обнаружили, что антидронный комплекс «Чистюля» от «Росэлектроники» очень похож на китайские аналоги](https://habr.com/ru/news/776484/?utm_campaign=776484&utm_source=habrahabr&utm_medium=rss)
 - [NTDEV выпустила tiny11 2311 — компактную версию Windows 11 23H2](https://habr.com/ru/news/776482/?utm_campaign=776482&utm_source=habrahabr&utm_medium=rss)
-- [Citrix предупредила о необходимости сбросить пользовательские сеансы NetScaler из-за уязвимости CVE-2023-4966](https://habr.com/ru/news/776470/?utm_campaign=776470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
