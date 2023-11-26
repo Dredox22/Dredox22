@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты обнаружили, что антидронный комплекс «Чистюля» от «Росэлектроники» очень похож на китайские аналоги](https://habr.com/ru/news/776484/?utm_campaign=776484&utm_source=habrahabr&utm_medium=rss)
+- [NTDEV выпустила tiny11 2311 — компактную версию Windows 11 23H2](https://habr.com/ru/news/776482/?utm_campaign=776482&utm_source=habrahabr&utm_medium=rss)
 - [Citrix предупредила о необходимости сбросить пользовательские сеансы NetScaler из-за уязвимости CVE-2023-4966](https://habr.com/ru/news/776470/?utm_campaign=776470&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик из Microsoft рассказал про «тележку смерти» с USB-устройствами в ранних версиях Windows](https://habr.com/ru/news/776442/?utm_campaign=776442&utm_source=habrahabr&utm_medium=rss)
 - [В Bing Chat AI появится интерпретатор кода по образцу ChatGPT](https://habr.com/ru/news/776436/?utm_campaign=776436&utm_source=habrahabr&utm_medium=rss)
-- [GitHub: с 8 декабря доступ к порталу поддержки платформы только через вход в учётную запись GitHub](https://habr.com/ru/news/776416/?utm_campaign=776416&utm_source=habrahabr&utm_medium=rss)
-- [Проект LibreOffice Viewer обновлён и перезапущен в Google Play](https://habr.com/ru/news/776384/?utm_campaign=776384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
