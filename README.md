@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начнёт удалять неактивные аккаунты с 1 декабря](https://habr.com/ru/news/776602/?utm_campaign=776602&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: Narrator не работает при чистой установке Windows 11 версии 23H2](https://habr.com/ru/news/776598/?utm_campaign=776598&utm_source=habrahabr&utm_medium=rss)
+- [Проект roadmap.sh выпустил дорожную карту Rust-разработчика](https://habr.com/ru/news/776596/?utm_campaign=776596&utm_source=habrahabr&utm_medium=rss)
+- [Tesla начала тестировать FSD c управлением нейросетями](https://habr.com/ru/news/776594/?utm_campaign=776594&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил новый этап ежегодной программы грантов Yandex Open Source](https://habr.com/ru/news/776586/?utm_campaign=776586&utm_source=habrahabr&utm_medium=rss)
-- [Вышел мультимедийный сервер PipeWire 1.0 &lpar;El Presidente&rpar; для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/776574/?utm_campaign=776574&utm_source=habrahabr&utm_medium=rss)
-- [Google подтвердила, что часть пользователей Google Drive могла потерять свои файлы с мая по ноябрь 2023 года](https://habr.com/ru/news/776564/?utm_campaign=776564&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Research выпустила Orca 2 LLM, способную сравниться по производительности с крупными моделями](https://habr.com/ru/news/776562/?utm_campaign=776562&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объявила об открытии исходного кода Azure RTOS](https://habr.com/ru/news/776558/?utm_campaign=776558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
