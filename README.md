@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Ccilu перерабатывает электронные отходы TSMC в обувь](https://habr.com/ru/news/776782/?utm_campaign=776782&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Огайо попросила родителей отключить опцию NameDrop в iOS 17.1 на iPhone у детей и подростков](https://habr.com/ru/news/776764/?utm_campaign=776764&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Fleet 1.27 c поддержка Emmet для PHP](https://habr.com/ru/news/776758/?utm_campaign=776758&utm_source=habrahabr&utm_medium=rss)
 - [Названы лучшие сайты и мобильные приложения 2023 года по версии «Рейтинга Рунета»](https://habr.com/ru/news/776734/?utm_campaign=776734&utm_source=habrahabr&utm_medium=rss)
 - [Спецслужбы 18 стран подписали соглашение о безопасности в области искусственного интеллекта](https://habr.com/ru/news/776704/?utm_campaign=776704&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/776686/?utm_campaign=776686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
