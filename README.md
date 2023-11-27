@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Названы лучшие сайты и мобильные приложения 2023 года по версии «Рейтинга Рунета»](https://habr.com/ru/news/776734/?utm_campaign=776734&utm_source=habrahabr&utm_medium=rss)
 - [Спецслужбы 18 стран подписали соглашение о безопасности в области искусственного интеллекта](https://habr.com/ru/news/776704/?utm_campaign=776704&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/776686/?utm_campaign=776686&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Про тестирование и сравнение WAF» 6 декабря от Вебмониторэкс](https://habr.com/ru/companies/webmonitorx/news/776652/?utm_campaign=776652&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор пояснил применение законов в сфере связи к системе верификации вызовов «Антифрод»](https://habr.com/ru/news/776670/?utm_campaign=776670&utm_source=habrahabr&utm_medium=rss)
-- [Троянский понь: DarkWatchman RAT атакует российские компании от имени Pony Express](https://habr.com/ru/companies/f_a_c_c_t/news/776660/?utm_campaign=776660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
