@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики ядра Linux обсуждают патчи с поддержкой отключения драйверов/оборудования по приоритету](https://habr.com/ru/news/776656/?utm_campaign=776656&utm_source=habrahabr&utm_medium=rss)
 - [Покоряем облака — ОС «Альт» доступны в T1 Cloud](https://habr.com/ru/companies/basealtspo/news/776634/?utm_campaign=776634&utm_source=habrahabr&utm_medium=rss)
 - [В МГТУ им. Баумана разработали робота-художника с ИИ](https://habr.com/ru/news/776612/?utm_campaign=776612&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba приступила к разработке мобильных приложений на HarmonyOS](https://habr.com/ru/news/776604/?utm_campaign=776604&utm_source=habrahabr&utm_medium=rss)
 - [Google начнёт удалять неактивные аккаунты с 1 декабря](https://habr.com/ru/news/776602/?utm_campaign=776602&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: Narrator не работает при чистой установке Windows 11 версии 23H2](https://habr.com/ru/news/776598/?utm_campaign=776598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
