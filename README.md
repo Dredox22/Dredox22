@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google подтвердила, что часть пользователей Google Drive могла потерять свои файлы с мая по ноябрь 2023 года](https://habr.com/ru/news/776564/?utm_campaign=776564&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Research выпустила Orca 2 LLM, способную сравниться по производительности с крупными моделями](https://habr.com/ru/news/776562/?utm_campaign=776562&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила об открытии исходного кода Azure RTOS](https://habr.com/ru/news/776558/?utm_campaign=776558&utm_source=habrahabr&utm_medium=rss)
 - [Beta версия СУБД SoQoL доступна для тестирования онлайн](https://habr.com/ru/news/776540/?utm_campaign=776540&utm_source=habrahabr&utm_medium=rss)
 - [Tuxedo представила игровой ноутбук Sirius 16 с AMD Ryzen 7 7840HS и Radeon RX 7600M XT](https://habr.com/ru/news/776530/?utm_campaign=776530&utm_source=habrahabr&utm_medium=rss)
-- [Google прекратит поддержку приложения Calendar на устройствах с Android 7.1 и старше](https://habr.com/ru/news/776518/?utm_campaign=776518&utm_source=habrahabr&utm_medium=rss)
-- [General Electric изучает ситуацию с возможной кибератакой и кражей данных компании](https://habr.com/ru/news/776510/?utm_campaign=776510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
