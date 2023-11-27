@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В МГТУ им. Баумана разработали робота-художника с ИИ](https://habr.com/ru/news/776612/?utm_campaign=776612&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba приступила к разработке мобильных приложений на HarmonyOS](https://habr.com/ru/news/776604/?utm_campaign=776604&utm_source=habrahabr&utm_medium=rss)
 - [Google начнёт удалять неактивные аккаунты с 1 декабря](https://habr.com/ru/news/776602/?utm_campaign=776602&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Narrator не работает при чистой установке Windows 11 версии 23H2](https://habr.com/ru/news/776598/?utm_campaign=776598&utm_source=habrahabr&utm_medium=rss)
 - [Проект roadmap.sh выпустил дорожную карту Rust-разработчика](https://habr.com/ru/news/776596/?utm_campaign=776596&utm_source=habrahabr&utm_medium=rss)
-- [Tesla начала тестировать FSD c управлением нейросетями](https://habr.com/ru/news/776594/?utm_campaign=776594&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустил новый этап ежегодной программы грантов Yandex Open Source](https://habr.com/ru/news/776586/?utm_campaign=776586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
