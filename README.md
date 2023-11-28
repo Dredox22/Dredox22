@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» запустил в продажу новую умную колонку с экраном «Станция Дуо Макс»](https://habr.com/ru/news/776828/?utm_campaign=776828&utm_source=habrahabr&utm_medium=rss)
 - [XTX Markets заплатит $5 млн разработчикам ИИ, который победит в аналоге Международной математической олимпиады](https://habr.com/ru/news/776800/?utm_campaign=776800&utm_source=habrahabr&utm_medium=rss)
 - [Расширение Ad Speedup для Chrome перематывает рекламу в YouTube](https://habr.com/ru/news/776792/?utm_campaign=776792&utm_source=habrahabr&utm_medium=rss)
 - [В Швеции прошёл турнир по Doom на роботизированных газонокосилках Husqvarna](https://habr.com/ru/news/776788/?utm_campaign=776788&utm_source=habrahabr&utm_medium=rss)
 - [Компания Ccilu перерабатывает электронные отходы TSMC в обувь](https://habr.com/ru/news/776782/?utm_campaign=776782&utm_source=habrahabr&utm_medium=rss)
-- [Полиция Огайо попросила родителей отключить опцию NameDrop в iOS 17.1 на iPhone у детей и подростков](https://habr.com/ru/news/776764/?utm_campaign=776764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
