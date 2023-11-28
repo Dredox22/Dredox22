@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел пиринговый видеохостинг PeerTube 6.0](https://habr.com/ru/news/776952/?utm_campaign=776952&utm_source=habrahabr&utm_medium=rss)
 - [В России запустят акселераторы для вывода отечественных видеоигр за рубеж](https://habr.com/ru/news/776936/?utm_campaign=776936&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры намерено инвестировать в развитие кибербезопасности около 25,2 млрд рублей до 2030 года](https://habr.com/ru/news/776880/?utm_campaign=776880&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» гарантирует исполнение всех обязательств по поддержке ОС «Альт» девятых версий](https://habr.com/ru/companies/basealtspo/news/776878/?utm_campaign=776878&utm_source=habrahabr&utm_medium=rss)
 - [Frore Systems показала прототип безвентиляторной системы охлаждения AirJet для MacBook Air](https://habr.com/ru/news/776860/?utm_campaign=776860&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекращает поддержку Defender Application Guard для Office](https://habr.com/ru/news/776850/?utm_campaign=776850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
