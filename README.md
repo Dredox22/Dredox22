@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Frore Systems показала прототип безвентиляторной системы охлаждения AirJet для MacBook Air](https://habr.com/ru/news/776860/?utm_campaign=776860&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекращает поддержку Defender Application Guard для Office](https://habr.com/ru/news/776850/?utm_campaign=776850&utm_source=habrahabr&utm_medium=rss)
+- [Ноябрьские обновления SSH-клиента Termius](https://habr.com/ru/news/776856/?utm_campaign=776856&utm_source=habrahabr&utm_medium=rss)
+- [Платформа транскрипции AWS заработала на базе генеративного ИИ](https://habr.com/ru/news/776848/?utm_campaign=776848&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA в III квартале установила рекорд по продажам ИИ-ускорителей](https://habr.com/ru/companies/dcmiran/news/776844/?utm_campaign=776844&utm_source=habrahabr&utm_medium=rss)
-- [XTX Markets заплатит $5 млн разработчикам ИИ, который победит в аналоге Международной математической олимпиады](https://habr.com/ru/news/776800/?utm_campaign=776800&utm_source=habrahabr&utm_medium=rss)
-- [Расширение Ad Speedup для Chrome перематывает рекламу в YouTube](https://habr.com/ru/news/776792/?utm_campaign=776792&utm_source=habrahabr&utm_medium=rss)
-- [В Швеции прошёл турнир по Doom на роботизированных газонокосилках Husqvarna](https://habr.com/ru/news/776788/?utm_campaign=776788&utm_source=habrahabr&utm_medium=rss)
-- [Компания Ccilu перерабатывает электронные отходы TSMC в обувь](https://habr.com/ru/news/776782/?utm_campaign=776782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
