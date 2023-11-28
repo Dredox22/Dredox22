@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DALL-E 3 заработала в Paint для всех пользователей Windows 11](https://habr.com/ru/news/777002/?utm_campaign=777002&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл тестирование рекламы в Telegram-каналах для всех партнёров](https://habr.com/ru/news/777000/?utm_campaign=777000&utm_source=habrahabr&utm_medium=rss)
+- [«Сбербанк» получил госаккредитацию для работы с биометрией](https://habr.com/ru/news/776994/?utm_campaign=776994&utm_source=habrahabr&utm_medium=rss)
 - [X5 QA Meetup #7](https://habr.com/ru/companies/X5Tech/news/776980/?utm_campaign=776980&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил ИИ-сервис SMRY для генерации краткого содержания статей](https://habr.com/ru/news/776976/?utm_campaign=776976&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пиринговый видеохостинг PeerTube 6.0](https://habr.com/ru/news/776952/?utm_campaign=776952&utm_source=habrahabr&utm_medium=rss)
-- [В России запустят акселераторы для вывода отечественных видеоигр за рубеж](https://habr.com/ru/news/776936/?utm_campaign=776936&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры намерено инвестировать в развитие кибербезопасности около 25,2 млрд рублей до 2030 года](https://habr.com/ru/news/776880/?utm_campaign=776880&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
