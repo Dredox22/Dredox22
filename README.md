@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышли релизы безопасности Joomla 5.0.1 и Joomla 4.4.1](https://habr.com/ru/news/777032/?utm_campaign=777032&utm_source=habrahabr&utm_medium=rss)
 - [DALL-E 3 заработала в Paint для всех пользователей Windows 11](https://habr.com/ru/news/777002/?utm_campaign=777002&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл тестирование рекламы в Telegram-каналах для всех партнёров](https://habr.com/ru/news/777000/?utm_campaign=777000&utm_source=habrahabr&utm_medium=rss)
 - [«Сбербанк» получил госаккредитацию для работы с биометрией](https://habr.com/ru/news/776994/?utm_campaign=776994&utm_source=habrahabr&utm_medium=rss)
 - [X5 QA Meetup #7](https://habr.com/ru/companies/X5Tech/news/776980/?utm_campaign=776980&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил ИИ-сервис SMRY для генерации краткого содержания статей](https://habr.com/ru/news/776976/?utm_campaign=776976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
