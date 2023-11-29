@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил ChatSpot — приложение в стиле поиска Spotlight с ChatGPT](https://habr.com/ru/news/777172/?utm_campaign=777172&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Astra Linux Embedded – технические аспекты настройки образа. Скрипты, киоск, деплоймент»](https://habr.com/ru/companies/astralinux/news/777144/?utm_campaign=777144&utm_source=habrahabr&utm_medium=rss)
 - [В приложение «Google Диск» на iPhone добавили сканер документов](https://habr.com/ru/news/777108/?utm_campaign=777108&utm_source=habrahabr&utm_medium=rss)
 - [Первый российский платёжный терминал от «Элемент-технологии» появится в 2024 году](https://habr.com/ru/news/777106/?utm_campaign=777106&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила временное исправление для сбоя Outlook при отправке писем](https://habr.com/ru/news/777086/?utm_campaign=777086&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Генпрокуратура и СК выступили против легализации деятельности «белых» хакеров](https://habr.com/ru/news/777088/?utm_campaign=777088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
