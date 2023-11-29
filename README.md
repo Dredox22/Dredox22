@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила временное исправление для сбоя Outlook при отправке писем](https://habr.com/ru/news/777086/?utm_campaign=777086&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Генпрокуратура и СК выступили против легализации деятельности «белых» хакеров](https://habr.com/ru/news/777088/?utm_campaign=777088&utm_source=habrahabr&utm_medium=rss)
 - [Sony Interactive Entertainment и NCSoft объявили о партнёрстве](https://habr.com/ru/news/777076/?utm_campaign=777076&utm_source=habrahabr&utm_medium=rss)
 - [Amazon выпустила Q — конкурента ChatGPT](https://habr.com/ru/news/777068/?utm_campaign=777068&utm_source=habrahabr&utm_medium=rss)
 - [Больше половины российских банков не соблюдают требований закона «О персональных данных» в пользовательских соглашениях](https://habr.com/ru/news/777060/?utm_campaign=777060&utm_source=habrahabr&utm_medium=rss)
-- [Orion — браузер для macOS с блокировкой рекламы и трекеров](https://habr.com/ru/news/777054/?utm_campaign=777054&utm_source=habrahabr&utm_medium=rss)
-- [NVD выключает data feeds, но API все еще нестабильно](https://habr.com/ru/news/777050/?utm_campaign=777050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
