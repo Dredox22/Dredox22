@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Браузер Samsung Internet стал доступен для загрузки в Microsoft Store](https://habr.com/ru/news/777266/?utm_campaign=777266&utm_source=habrahabr&utm_medium=rss)
+- [Интервью с руководителем разработки игрового движка Nau Engine. Главное](https://habr.com/ru/news/777254/?utm_campaign=777254&utm_source=habrahabr&utm_medium=rss)
 - [В России создадут ассоциацию инфобизнеса](https://habr.com/ru/news/777226/?utm_campaign=777226&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники обновили схему для получения доступа к аккаунтам граждан на «Госуслугах»](https://habr.com/ru/news/777202/?utm_campaign=777202&utm_source=habrahabr&utm_medium=rss)
 - [Moscow Hacking Week: как стать белым хакером, зачем компаниям багхантеры и можно ли взломать спутник](https://habr.com/ru/companies/pt/news/777146/?utm_campaign=777146&utm_source=habrahabr&utm_medium=rss)
-- [WSJ: Apple прекращает партнёрство с Goldman Sachs по проекту Apple Card](https://habr.com/ru/news/777184/?utm_campaign=777184&utm_source=habrahabr&utm_medium=rss)
-- [Content AI выпустила кросс-платформенную версию ContentCapture](https://habr.com/ru/companies/contentai/news/777178/?utm_campaign=777178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
