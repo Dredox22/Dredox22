@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Слухи: Apple приостановила разработку 5G-модема после ряда провалов проекта](https://habr.com/ru/news/777312/?utm_campaign=777312&utm_source=habrahabr&utm_medium=rss)
 - [РВИ подвела итоги народного онлайн‑голосования за звание Легенды Зала Славы видеоигровой индустрии России](https://habr.com/ru/news/777292/?utm_campaign=777292&utm_source=habrahabr&utm_medium=rss)
 - [Lesta Games создаёт многопользовательскую ААА-игру на Unreal Engine 5](https://habr.com/ru/news/777284/?utm_campaign=777284&utm_source=habrahabr&utm_medium=rss)
 - [Срок поддержки ядра Linux 6.5 истёк, всем рекомендуется перейти на ядро Linux 6.6 LTS](https://habr.com/ru/news/777282/?utm_campaign=777282&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Samsung Internet стал доступен для загрузки в Microsoft Store](https://habr.com/ru/news/777266/?utm_campaign=777266&utm_source=habrahabr&utm_medium=rss)
-- [Интервью с руководителем разработки игрового движка Nau Engine. Главное](https://habr.com/ru/news/777254/?utm_campaign=777254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
