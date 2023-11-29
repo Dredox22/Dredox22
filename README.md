@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мошенники обновили схему для получения доступа к аккаунтам граждан на «Госуслугах»](https://habr.com/ru/news/777202/?utm_campaign=777202&utm_source=habrahabr&utm_medium=rss)
+- [Moscow Hacking Week: как стать белым хакером, зачем компаниям багхантеры и можно ли взломать спутник](https://habr.com/ru/companies/pt/news/777146/?utm_campaign=777146&utm_source=habrahabr&utm_medium=rss)
+- [WSJ: Apple прекращает партнёрство с Goldman Sachs по проекту Apple Card](https://habr.com/ru/news/777184/?utm_campaign=777184&utm_source=habrahabr&utm_medium=rss)
+- [Content AI выпустила кросс-платформенную версию ContentCapture](https://habr.com/ru/companies/contentai/news/777178/?utm_campaign=777178&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил ChatSpot — приложение в стиле поиска Spotlight с ChatGPT](https://habr.com/ru/news/777172/?utm_campaign=777172&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Astra Linux Embedded – технические аспекты настройки образа. Скрипты, киоск, деплоймент»](https://habr.com/ru/companies/astralinux/news/777144/?utm_campaign=777144&utm_source=habrahabr&utm_medium=rss)
-- [В приложение «Google Диск» на iPhone добавили сканер документов](https://habr.com/ru/news/777108/?utm_campaign=777108&utm_source=habrahabr&utm_medium=rss)
-- [Первый российский платёжный терминал от «Элемент-технологии» появится в 2024 году](https://habr.com/ru/news/777106/?utm_campaign=777106&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила временное исправление для сбоя Outlook при отправке писем](https://habr.com/ru/news/777086/?utm_campaign=777086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
