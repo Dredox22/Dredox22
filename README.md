@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony Interactive Entertainment и NCSoft объявили о партнёрстве](https://habr.com/ru/news/777076/?utm_campaign=777076&utm_source=habrahabr&utm_medium=rss)
 - [Amazon выпустила Q — конкурента ChatGPT](https://habr.com/ru/news/777068/?utm_campaign=777068&utm_source=habrahabr&utm_medium=rss)
 - [Больше половины российских банков не соблюдают требований закона «О персональных данных» в пользовательских соглашениях](https://habr.com/ru/news/777060/?utm_campaign=777060&utm_source=habrahabr&utm_medium=rss)
 - [Orion — браузер для macOS с блокировкой рекламы и трекеров](https://habr.com/ru/news/777054/?utm_campaign=777054&utm_source=habrahabr&utm_medium=rss)
 - [NVD выключает data feeds, но API все еще нестабильно](https://habr.com/ru/news/777050/?utm_campaign=777050&utm_source=habrahabr&utm_medium=rss)
-- [Вышли релизы безопасности Joomla 5.0.1 и Joomla 4.4.1](https://habr.com/ru/news/777032/?utm_campaign=777032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
