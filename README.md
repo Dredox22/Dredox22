@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В декабре Firefox для Android получит полноценную поддержку браузерных расширений](https://habr.com/ru/news/777670/?utm_campaign=777670&utm_source=habrahabr&utm_medium=rss)
 - [В GSC Game World раскрыли продолжительность игры S.T.A.L.K.E.R. 2 и количество концовок в тайтле](https://habr.com/ru/news/777664/?utm_campaign=777664&utm_source=habrahabr&utm_medium=rss)
 - [«ВейвАксесс» стала партнёром «Открытая мобильная платформа» в рамках разработки приложений на ОС «Аврора»](https://habr.com/ru/news/777650/?utm_campaign=777650&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на онлайн‑хакатон SolarHack 2023](https://habr.com/ru/news/777640/?utm_campaign=777640&utm_source=habrahabr&utm_medium=rss)
 - [VK в Минске: приглашаем на митап](https://habr.com/ru/companies/vk/news/777630/?utm_campaign=777630&utm_source=habrahabr&utm_medium=rss)
-- [Жители Петербурга получат компенсации от «Яндекс.Еды» после утечки данных](https://habr.com/ru/news/777628/?utm_campaign=777628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
