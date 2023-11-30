@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-помощник Great Leveler сдал тест на лицензию врача в США](https://habr.com/ru/news/777508/?utm_campaign=777508&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft значительно обновила приложение Xbox для ПК](https://habr.com/ru/news/777494/?utm_campaign=777494&utm_source=habrahabr&utm_medium=rss)
-- [ICANN запустила глобальный сервис для упрощения процедуры оформления запросов на получение закрытых регданных gTLD](https://habr.com/ru/news/777486/?utm_campaign=777486&utm_source=habrahabr&utm_medium=rss)
-- [Правительство Франции отказывается от зарубежных мессенджеров, госслужащие должны перейти на французский Olvid](https://habr.com/ru/news/777484/?utm_campaign=777484&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» вдвое увеличит флот роботов-курьеров и начнёт сдавать их в аренду бизнесу](https://habr.com/ru/news/777462/?utm_campaign=777462&utm_source=habrahabr&utm_medium=rss)
+- [В iOS 17.2 beta 4 появилась возможность изменить звук уведомлений по умолчанию](https://habr.com/ru/news/777556/?utm_campaign=777556&utm_source=habrahabr&utm_medium=rss)
+- [ФАС признала «МегаФон» виновным в необоснованном повышении тарифов](https://habr.com/ru/news/777544/?utm_campaign=777544&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила возможность автоматической установки необязательных обновлений в Windows 10](https://habr.com/ru/news/777534/?utm_campaign=777534&utm_source=habrahabr&utm_medium=rss)
+- [Безопасная работа и инвентаризация ресурсов в облаке —  вебинар Cloud.ru 7 декабря](https://habr.com/ru/companies/cloud_ru/news/777532/?utm_campaign=777532&utm_source=habrahabr&utm_medium=rss)
+- [«Тинькофф» разрешит привязывать карты других российских банков к Tinkoff Pay](https://habr.com/ru/news/777520/?utm_campaign=777520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
