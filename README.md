@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» вдвое увеличит флот роботов-курьеров и начнёт сдавать их в аренду бизнесу](https://habr.com/ru/news/777462/?utm_campaign=777462&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала тестировать новую функцию энергосбережения в Windows 11](https://habr.com/ru/news/777434/?utm_campaign=777434&utm_source=habrahabr&utm_medium=rss)
 - [В магазине Xiaomi GetApps фишинговый клиент Telegram вышел на первое место в категории «Связь»](https://habr.com/ru/news/777442/?utm_campaign=777442&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор выписал первый штраф блогеру за нарушение маркировки рекламы](https://habr.com/ru/news/777440/?utm_campaign=777440&utm_source=habrahabr&utm_medium=rss)
 - [Представлен алгоритм AntiFake для защиты голоса от создания дипфейков](https://habr.com/ru/news/777432/?utm_campaign=777432&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех заместил ERP-систему одной из крупнейших лизинговых компаний России](https://habr.com/ru/companies/k2tech/news/777422/?utm_campaign=777422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
