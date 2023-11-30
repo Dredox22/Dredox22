@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начала тестировать новую функцию энергосбережения в Windows 11](https://habr.com/ru/news/777434/?utm_campaign=777434&utm_source=habrahabr&utm_medium=rss)
+- [В магазине Xiaomi GetApps фишинговый клиент Telegram вышел на первое место в категории «Связь»](https://habr.com/ru/news/777442/?utm_campaign=777442&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор выписал первый штраф блогеру за нарушение маркировки рекламы](https://habr.com/ru/news/777440/?utm_campaign=777440&utm_source=habrahabr&utm_medium=rss)
+- [Представлен алгоритм AntiFake для защиты голоса от создания дипфейков](https://habr.com/ru/news/777432/?utm_campaign=777432&utm_source=habrahabr&utm_medium=rss)
 - [К2Тех заместил ERP-систему одной из крупнейших лизинговых компаний России](https://habr.com/ru/companies/k2tech/news/777422/?utm_campaign=777422&utm_source=habrahabr&utm_medium=rss)
-- [Международный день защиты информации: избранное и важное](https://habr.com/ru/companies/cloud_mts/news/777320/?utm_campaign=777320&utm_source=habrahabr&utm_medium=rss)
-- [У Activision Blizzard был план &lpar;или уловка&rpar; запустить собственный магазин игр для Android](https://habr.com/ru/news/777398/?utm_campaign=777398&utm_source=habrahabr&utm_medium=rss)
-- [Apple назвала победителей премии App Store Awards 2023](https://habr.com/ru/news/777390/?utm_campaign=777390&utm_source=habrahabr&utm_medium=rss)
-- [Проект веб-почты Roundcube объединяется с командой Nextcloud](https://habr.com/ru/news/777386/?utm_campaign=777386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
