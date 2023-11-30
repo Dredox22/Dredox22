@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открыта регистрация на онлайн‑хакатон SolarHack 2023](https://habr.com/ru/news/777640/?utm_campaign=777640&utm_source=habrahabr&utm_medium=rss)
 - [VK в Минске: приглашаем на митап](https://habr.com/ru/companies/vk/news/777630/?utm_campaign=777630&utm_source=habrahabr&utm_medium=rss)
 - [Жители Петербурга получат компенсации от «Яндекс.Еды» после утечки данных](https://habr.com/ru/news/777628/?utm_campaign=777628&utm_source=habrahabr&utm_medium=rss)
 - [Московский суд в приговоре раскрыл подробности проведения кибератаки хакером, взломавшим IT-системы «Гемотест»](https://habr.com/ru/news/777626/?utm_campaign=777626&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: рекомендательная система, расшифровка речи для всех и подсветка кода в сообщениях](https://habr.com/ru/news/777622/?utm_campaign=777622&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Гарда» обновила сервис данных о киберугрозах «Гарда TI»](https://habr.com/ru/news/777620/?utm_campaign=777620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
