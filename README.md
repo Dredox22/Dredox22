@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Участникам Standoff не удалось взломать спутник-сервер RUVDS](https://habr.com/ru/companies/ruvds/news/777406/?utm_campaign=777406&utm_source=habrahabr&utm_medium=rss)
+- [Base Data Engineer: новый курс по управлению данными, подходам к хранению и визуализации](https://habr.com/ru/companies/beeline_cloud/news/777568/?utm_campaign=777568&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 17.2 beta 4 появилась возможность изменить звук уведомлений по умолчанию](https://habr.com/ru/news/777556/?utm_campaign=777556&utm_source=habrahabr&utm_medium=rss)
 - [ФАС признала «МегаФон» виновным в необоснованном повышении тарифов](https://habr.com/ru/news/777544/?utm_campaign=777544&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила возможность автоматической установки необязательных обновлений в Windows 10](https://habr.com/ru/news/777534/?utm_campaign=777534&utm_source=habrahabr&utm_medium=rss)
-- [Безопасная работа и инвентаризация ресурсов в облаке —  вебинар Cloud.ru 7 декабря](https://habr.com/ru/companies/cloud_ru/news/777532/?utm_campaign=777532&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф» разрешит привязывать карты других российских банков к Tinkoff Pay](https://habr.com/ru/news/777520/?utm_campaign=777520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
