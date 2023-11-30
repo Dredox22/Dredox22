@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [К2Тех заместил ERP-систему одной из крупнейших лизинговых компаний России](https://habr.com/ru/companies/k2tech/news/777422/?utm_campaign=777422&utm_source=habrahabr&utm_medium=rss)
+- [Международный день защиты информации: избранное и важное](https://habr.com/ru/companies/cloud_mts/news/777320/?utm_campaign=777320&utm_source=habrahabr&utm_medium=rss)
+- [У Activision Blizzard был план &lpar;или уловка&rpar; запустить собственный магазин игр для Android](https://habr.com/ru/news/777398/?utm_campaign=777398&utm_source=habrahabr&utm_medium=rss)
 - [Apple назвала победителей премии App Store Awards 2023](https://habr.com/ru/news/777390/?utm_campaign=777390&utm_source=habrahabr&utm_medium=rss)
 - [Проект веб-почты Roundcube объединяется с командой Nextcloud](https://habr.com/ru/news/777386/?utm_campaign=777386&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил инструмент на Rust для конвертации изображений в ASCII-графику](https://habr.com/ru/news/777358/?utm_campaign=777358&utm_source=habrahabr&utm_medium=rss)
-- [Слухи: Apple приостановила разработку 5G-модема после ряда провалов проекта](https://habr.com/ru/news/777312/?utm_campaign=777312&utm_source=habrahabr&utm_medium=rss)
-- [РВИ подвела итоги народного онлайн‑голосования за звание Легенды Зала Славы видеоигровой индустрии России](https://habr.com/ru/news/777292/?utm_campaign=777292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
