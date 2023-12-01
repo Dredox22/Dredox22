@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первый выпуск мультимедийной библиотеки LDL c поддержкой старых систем](https://habr.com/ru/news/777972/?utm_campaign=777972&utm_source=habrahabr&utm_medium=rss)
 - [4-5 декабря в Москве состоится ежегодная Открытая конференция ИСП РАН](https://habr.com/ru/news/777948/?utm_campaign=777948&utm_source=habrahabr&utm_medium=rss)
 - [Приложение каршерингового сервиса «Ситидрайв» пропало из App Store](https://habr.com/ru/news/777892/?utm_campaign=777892&utm_source=habrahabr&utm_medium=rss)
 - [Обновляем программу Bug Bounty и приглашаем поохотиться на ошибки](https://habr.com/ru/companies/ispsystem/news/777888/?utm_campaign=777888&utm_source=habrahabr&utm_medium=rss)
 - [Нетипичные сценарии применения поведенческого анализа: разбор кейсов](https://habr.com/ru/companies/solarsecurity/news/777876/?utm_campaign=777876&utm_source=habrahabr&utm_medium=rss)
-- [Как мастер-система по адресам и объектам недвижимости решает задачи бизнеса](https://habr.com/ru/companies/hflabs/news/777852/?utm_campaign=777852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
