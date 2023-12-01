@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Музыка» провела ребрендинг впервые за 9 лет: обновили дизайн, рекомендации и выпустили клиент для macOS](https://habr.com/ru/news/777818/?utm_campaign=777818&utm_source=habrahabr&utm_medium=rss)
+- [Центр «Big Data МТС» открыл доступ к библиотеке, помогающей создать графовые нейросети](https://habr.com/ru/news/777812/?utm_campaign=777812&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 сборки 26002 добавили идентификатор, который скрывает старую панель задач Windows 10](https://habr.com/ru/news/777798/?utm_campaign=777798&utm_source=habrahabr&utm_medium=rss)
 - [Проект игрового портативного ПК NUCDeck с открытым исходным кодом выходит на финальную стадию](https://habr.com/ru/news/777792/?utm_campaign=777792&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries запустила публичную программу багбаунти на Standoff 365](https://habr.com/ru/companies/pt/news/777786/?utm_campaign=777786&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала автоматически устанавливать приложение HP Smart в Windows 10 и 11](https://habr.com/ru/news/777784/?utm_campaign=777784&utm_source=habrahabr&utm_medium=rss)
-- [Единственным производителем 3 нм чипов Snapdragon будет TSMC](https://habr.com/ru/companies/dcmiran/news/777788/?utm_campaign=777788&utm_source=habrahabr&utm_medium=rss)
-- [Команда DeepMind с помощью ИИ открыла 2,2 млн кристаллических материалов](https://habr.com/ru/news/777756/?utm_campaign=777756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
