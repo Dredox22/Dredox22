@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда DeepMind с помощью ИИ открыла 2,2 млн кристаллических материалов](https://habr.com/ru/news/777756/?utm_campaign=777756&utm_source=habrahabr&utm_medium=rss)
+- [Опция «секретный код» в WhatsApp закроет доступ к скрытым чатам](https://habr.com/ru/news/777748/?utm_campaign=777748&utm_source=habrahabr&utm_medium=rss)
 - [Исправление уязвимости в старой версии Joomla 3.10.12](https://habr.com/ru/news/777726/?utm_campaign=777726&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Android Studio 2023.1 Hedgehog](https://habr.com/ru/companies/broadcast/news/777690/?utm_campaign=777690&utm_source=habrahabr&utm_medium=rss)
 - [В декабре Firefox для Android получит полноценную поддержку браузерных расширений](https://habr.com/ru/news/777670/?utm_campaign=777670&utm_source=habrahabr&utm_medium=rss)
-- [В GSC Game World раскрыли продолжительность игры S.T.A.L.K.E.R. 2 и количество концовок в тайтле](https://habr.com/ru/news/777664/?utm_campaign=777664&utm_source=habrahabr&utm_medium=rss)
-- [«ВейвАксесс» стала партнёром «Открытая мобильная платформа» в рамках разработки приложений на ОС «Аврора»](https://habr.com/ru/news/777650/?utm_campaign=777650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
