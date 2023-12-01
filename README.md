@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ленинградская область запустила Bug Bounty-программу для трёх своих информационных систем](https://habr.com/ru/news/777834/?utm_campaign=777834&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte приглашает на Fine Talks: Новые горизонты с FineReport](https://habr.com/ru/companies/glowbyte/news/777826/?utm_campaign=777826&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Музыка» провела ребрендинг впервые за 9 лет: обновили дизайн, рекомендации и выпустили клиент для macOS](https://habr.com/ru/news/777818/?utm_campaign=777818&utm_source=habrahabr&utm_medium=rss)
 - [Центр «Big Data МТС» открыл доступ к библиотеке, помогающей создать графовые нейросети](https://habr.com/ru/news/777812/?utm_campaign=777812&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 сборки 26002 добавили идентификатор, который скрывает старую панель задач Windows 10](https://habr.com/ru/news/777798/?utm_campaign=777798&utm_source=habrahabr&utm_medium=rss)
-- [Проект игрового портативного ПК NUCDeck с открытым исходным кодом выходит на финальную стадию](https://habr.com/ru/news/777792/?utm_campaign=777792&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries запустила публичную программу багбаунти на Standoff 365](https://habr.com/ru/companies/pt/news/777786/?utm_campaign=777786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
