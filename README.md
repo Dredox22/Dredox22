@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект игрового портативного ПК NUCDeck с открытым исходным кодом выходит на финальную стадию](https://habr.com/ru/news/777792/?utm_campaign=777792&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries запустила публичную программу багбаунти на Standoff 365](https://habr.com/ru/companies/pt/news/777786/?utm_campaign=777786&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала автоматически устанавливать приложение HP Smart в Windows 10 и 11](https://habr.com/ru/news/777784/?utm_campaign=777784&utm_source=habrahabr&utm_medium=rss)
+- [Единственным производителем 3 нм чипов Snapdragon будет TSMC](https://habr.com/ru/companies/dcmiran/news/777788/?utm_campaign=777788&utm_source=habrahabr&utm_medium=rss)
 - [Команда DeepMind с помощью ИИ открыла 2,2 млн кристаллических материалов](https://habr.com/ru/news/777756/?utm_campaign=777756&utm_source=habrahabr&utm_medium=rss)
-- [Опция «секретный код» в WhatsApp закроет доступ к скрытым чатам](https://habr.com/ru/news/777748/?utm_campaign=777748&utm_source=habrahabr&utm_medium=rss)
-- [Исправление уязвимости в старой версии Joomla 3.10.12](https://habr.com/ru/news/777726/?utm_campaign=777726&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Android Studio 2023.1 Hedgehog](https://habr.com/ru/companies/broadcast/news/777690/?utm_campaign=777690&utm_source=habrahabr&utm_medium=rss)
-- [В декабре Firefox для Android получит полноценную поддержку браузерных расширений](https://habr.com/ru/news/777670/?utm_campaign=777670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
