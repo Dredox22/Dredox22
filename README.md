@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение каршерингового сервиса «Ситидрайв» пропало из App Store](https://habr.com/ru/news/777892/?utm_campaign=777892&utm_source=habrahabr&utm_medium=rss)
+- [Обновляем программу Bug Bounty и приглашаем поохотиться на ошибки](https://habr.com/ru/companies/ispsystem/news/777888/?utm_campaign=777888&utm_source=habrahabr&utm_medium=rss)
 - [Нетипичные сценарии применения поведенческого анализа: разбор кейсов](https://habr.com/ru/companies/solarsecurity/news/777876/?utm_campaign=777876&utm_source=habrahabr&utm_medium=rss)
 - [Как мастер-система по адресам и объектам недвижимости решает задачи бизнеса](https://habr.com/ru/companies/hflabs/news/777852/?utm_campaign=777852&utm_source=habrahabr&utm_medium=rss)
 - [Турбо Паскалю исполнилось 40 лет](https://habr.com/ru/news/777846/?utm_campaign=777846&utm_source=habrahabr&utm_medium=rss)
-- [Zyxel предупредила о шести уязвимостях в сетевых хранилищах NAS326 и NAS542](https://habr.com/ru/news/777844/?utm_campaign=777844&utm_source=habrahabr&utm_medium=rss)
-- [Ленинградская область запустила Bug Bounty-программу для трёх своих информационных систем](https://habr.com/ru/news/777834/?utm_campaign=777834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
