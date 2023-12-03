@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла интегрированная среда разработки Apache NetBeans 20](https://habr.com/ru/news/778156/?utm_campaign=778156&utm_source=habrahabr&utm_medium=rss)
 - [Фото невесты в зеркалах с разными положениями рук вызвало споры в соцсетях](https://habr.com/ru/news/778148/?utm_campaign=778148&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Copilot вышел в общедоступной версии](https://habr.com/ru/news/778144/?utm_campaign=778144&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX раскрыла стоимость комплекта с новой тарелкой Starlink](https://habr.com/ru/news/778140/?utm_campaign=778140&utm_source=habrahabr&utm_medium=rss)
 - [«Анимационная студия Воронеж» завершила второй этап разработки проекта «Анимационная 3D платформа»](https://habr.com/ru/news/778068/?utm_campaign=778068&utm_source=habrahabr&utm_medium=rss)
-- [Ответ ChatGPT длиннее, если пообещать чаевые](https://habr.com/ru/news/778022/?utm_campaign=778022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
