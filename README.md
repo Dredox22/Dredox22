@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Copilot вышел в общедоступной версии](https://habr.com/ru/news/778144/?utm_campaign=778144&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX раскрыла стоимость комплекта с новой тарелкой Starlink](https://habr.com/ru/news/778140/?utm_campaign=778140&utm_source=habrahabr&utm_medium=rss)
 - [«Анимационная студия Воронеж» завершила второй этап разработки проекта «Анимационная 3D платформа»](https://habr.com/ru/news/778068/?utm_campaign=778068&utm_source=habrahabr&utm_medium=rss)
 - [Ответ ChatGPT длиннее, если пообещать чаевые](https://habr.com/ru/news/778022/?utm_campaign=778022&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft может выпустить Windows 12 в июне 2024 года](https://habr.com/ru/news/778008/?utm_campaign=778008&utm_source=habrahabr&utm_medium=rss)
-- [Атака LogoFAIL на код прошивок UEFI доставляет буткиты при загрузке картинок в разделе ESP &lpar;EFI System Partition&rpar;](https://habr.com/ru/news/778004/?utm_campaign=778004&utm_source=habrahabr&utm_medium=rss)
-- [В Бразилии приняли закон, который сгенерировал ChatGPT](https://habr.com/ru/news/777994/?utm_campaign=777994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
