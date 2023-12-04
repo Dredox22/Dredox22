@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Робот, вдохновлённый улиткой, может собирать микропластик в океане](https://habr.com/ru/news/778478/?utm_campaign=778478&utm_source=habrahabr&utm_medium=rss)
 - [Обновление браузера Arc: шеринг цитат, Tab Handoff и подготовка к нововведениям в 2024 году](https://habr.com/ru/news/778468/?utm_campaign=778468&utm_source=habrahabr&utm_medium=rss)
 - [Даже если случайно переставить буквы в словах, GPT-4 понимает текст](https://habr.com/ru/news/778462/?utm_campaign=778462&utm_source=habrahabr&utm_medium=rss)
 - [Google объявила финалистов премии Google Play Best of 2023 Awards](https://habr.com/ru/news/778444/?utm_campaign=778444&utm_source=habrahabr&utm_medium=rss)
 - [Кибершпионы Sticky Werewolf атакуют микробиологов от имени Минстроя России](https://habr.com/ru/companies/f_a_c_c_t/news/778418/?utm_campaign=778418&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Django 5.0](https://habr.com/ru/news/778430/?utm_campaign=778430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
