@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Чат-бот Amazon Q уличили в «галлюцинациях» и утечке данных дата-центров AWS](https://habr.com/ru/news/778238/?utm_campaign=778238&utm_source=habrahabr&utm_medium=rss)
 - [10 интересных и бесплатных курсов, уроков и митапов, которые можно посетить в декабре](https://habr.com/ru/companies/netologyru/news/777878/?utm_campaign=777878&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Eurecom: MitM-атака BLUFFS позволяет перехватывать соединения по Bluetooth](https://habr.com/ru/news/778172/?utm_campaign=778172&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Apache NetBeans 20](https://habr.com/ru/news/778156/?utm_campaign=778156&utm_source=habrahabr&utm_medium=rss)
 - [Фото невесты в зеркалах с разными положениями рук вызвало споры в соцсетях](https://habr.com/ru/news/778148/?utm_campaign=778148&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Copilot вышел в общедоступной версии](https://habr.com/ru/news/778144/?utm_campaign=778144&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
