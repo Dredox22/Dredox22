@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Angara Security исследовала 400 сайтов государственных организаций в 80 регионах с помощью инструментов OSINT](https://habr.com/ru/news/778324/?utm_campaign=778324&utm_source=habrahabr&utm_medium=rss)
+- [Google отложила запуск Gemini, конкурента ChatGPT, на январь 2024 года](https://habr.com/ru/news/778320/?utm_campaign=778320&utm_source=habrahabr&utm_medium=rss)
 - [Утверждена «Стратегия развития отрасли связи в РФ на 2024—2035 годы»](https://habr.com/ru/news/778312/?utm_campaign=778312&utm_source=habrahabr&utm_medium=rss)
 - [В России упали продажи кнопочных телефонов, но доля отечественных брендов на рынке увеличилась](https://habr.com/ru/news/778292/?utm_campaign=778292&utm_source=habrahabr&utm_medium=rss)
 - [Google внесёт изменения в поведение обратного/прямого кэша Chrome BFCache](https://habr.com/ru/news/778282/?utm_campaign=778282&utm_source=habrahabr&utm_medium=rss)
-- [Половина рынка серверной памяти принадлежит корейской SK Hynix](https://habr.com/ru/companies/dcmiran/news/778278/?utm_campaign=778278&utm_source=habrahabr&utm_medium=rss)
-- [MLOps, часть III: критерии выбора инструментов и возможности Open Source](https://habr.com/ru/companies/vtb/news/778270/?utm_campaign=778270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
