@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кибершпионы Sticky Werewolf атакуют микробиологов от имени Минстроя России](https://habr.com/ru/companies/f_a_c_c_t/news/778418/?utm_campaign=778418&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Django 5.0](https://habr.com/ru/news/778430/?utm_campaign=778430&utm_source=habrahabr&utm_medium=rss)
 - [Центр обновления Windows 10/11 из-за бага в метаданных HP переименовал все принтеры на ПК пользователей в HP M101-M106](https://habr.com/ru/news/778390/?utm_campaign=778390&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/778380/?utm_campaign=778380&utm_source=habrahabr&utm_medium=rss)
 - [«Аквариус» в партнёрстве с разработчиком ОС Astra Linux в начале 2024 года начнёт продажи в Мьянме](https://habr.com/ru/news/778352/?utm_campaign=778352&utm_source=habrahabr&utm_medium=rss)
-- [Центробанк РФ: при тестировании цифрового рубля в России банки провели свыше 13 тыс. операций на 919 тыс. рублей](https://habr.com/ru/news/778346/?utm_campaign=778346&utm_source=habrahabr&utm_medium=rss)
-- [Solar appScreener получило обновление, включая модуль анализа безопасности цепочки поставок ПО](https://habr.com/ru/news/778344/?utm_campaign=778344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
