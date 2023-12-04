@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google объявила финалистов премии Google Play Best of 2023 Awards](https://habr.com/ru/news/778444/?utm_campaign=778444&utm_source=habrahabr&utm_medium=rss)
 - [Кибершпионы Sticky Werewolf атакуют микробиологов от имени Минстроя России](https://habr.com/ru/companies/f_a_c_c_t/news/778418/?utm_campaign=778418&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Django 5.0](https://habr.com/ru/news/778430/?utm_campaign=778430&utm_source=habrahabr&utm_medium=rss)
 - [Центр обновления Windows 10/11 из-за бага в метаданных HP переименовал все принтеры на ПК пользователей в HP M101-M106](https://habr.com/ru/news/778390/?utm_campaign=778390&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/778380/?utm_campaign=778380&utm_source=habrahabr&utm_medium=rss)
-- [«Аквариус» в партнёрстве с разработчиком ОС Astra Linux в начале 2024 года начнёт продажи в Мьянме](https://habr.com/ru/news/778352/?utm_campaign=778352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
