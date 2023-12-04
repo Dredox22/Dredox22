@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/778380/?utm_campaign=778380&utm_source=habrahabr&utm_medium=rss)
 - [«Аквариус» в партнёрстве с разработчиком ОС Astra Linux в начале 2024 года начнёт продажи в Мьянме](https://habr.com/ru/news/778352/?utm_campaign=778352&utm_source=habrahabr&utm_medium=rss)
 - [Центробанк РФ: при тестировании цифрового рубля в России банки провели свыше 13 тыс. операций на 919 тыс. рублей](https://habr.com/ru/news/778346/?utm_campaign=778346&utm_source=habrahabr&utm_medium=rss)
 - [Solar appScreener получило обновление, включая модуль анализа безопасности цепочки поставок ПО](https://habr.com/ru/news/778344/?utm_campaign=778344&utm_source=habrahabr&utm_medium=rss)
 - [Angara Security исследовала 400 сайтов государственных организаций в 80 регионах с помощью инструментов OSINT](https://habr.com/ru/news/778324/?utm_campaign=778324&utm_source=habrahabr&utm_medium=rss)
-- [Google отложила запуск Gemini, конкурента ChatGPT, на январь 2024 года](https://habr.com/ru/news/778320/?utm_campaign=778320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
