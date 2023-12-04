@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Утверждена «Стратегия развития отрасли связи в РФ на 2024—2035 годы»](https://habr.com/ru/news/778312/?utm_campaign=778312&utm_source=habrahabr&utm_medium=rss)
+- [В России упали продажи кнопочных телефонов, но доля отечественных брендов на рынке увеличилась](https://habr.com/ru/news/778292/?utm_campaign=778292&utm_source=habrahabr&utm_medium=rss)
+- [Google внесёт изменения в поведение обратного/прямого кэша Chrome BFCache](https://habr.com/ru/news/778282/?utm_campaign=778282&utm_source=habrahabr&utm_medium=rss)
+- [Половина рынка серверной памяти принадлежит корейской SK Hynix](https://habr.com/ru/companies/dcmiran/news/778278/?utm_campaign=778278&utm_source=habrahabr&utm_medium=rss)
 - [MLOps, часть III: критерии выбора инструментов и возможности Open Source](https://habr.com/ru/companies/vtb/news/778270/?utm_campaign=778270&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «WorksPad – корпоративное мобильное рабочее место»](https://habr.com/ru/companies/astralinux/news/778254/?utm_campaign=778254&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предложит продвинутым пользователям панель «Расширенные настройки Windows»](https://habr.com/ru/news/778246/?utm_campaign=778246&utm_source=habrahabr&utm_medium=rss)
-- [Чат-бот Amazon Q уличили в «галлюцинациях» и утечке данных дата-центров AWS](https://habr.com/ru/news/778238/?utm_campaign=778238&utm_source=habrahabr&utm_medium=rss)
-- [10 интересных и бесплатных курсов, уроков и митапов, которые можно посетить в декабре](https://habr.com/ru/companies/netologyru/news/777878/?utm_campaign=777878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
