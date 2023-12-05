@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM и Meta* объявили о создании альянса в сфере ИИ](https://habr.com/ru/news/778592/?utm_campaign=778592&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуму внесли несколько законопроектов, которые ужесточат наказание за утечки персональных данных](https://habr.com/ru/news/778586/?utm_campaign=778586&utm_source=habrahabr&utm_medium=rss)
 - [КРОК Облачные сервисы получил сертификат соответствия самому современному стандарту безопасности PCI DSS 4.0](https://habr.com/ru/companies/croc/news/778578/?utm_campaign=778578&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Банк России с 25 декабря запретит сотрудникам использовать мобильные устройства Apple в служебной деятельности](https://habr.com/ru/news/778570/?utm_campaign=778570&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф» добавил в приложение умную камеру](https://habr.com/ru/news/778564/?utm_campaign=778564&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст с помощью Arduino и Rust создал систему отображения использования ЦП](https://habr.com/ru/news/778540/?utm_campaign=778540&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI закрыла баг в ChatGPT с раскрытием обучающих данных в ответ на просьбу вечно повторять одно слово](https://habr.com/ru/news/778532/?utm_campaign=778532&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
