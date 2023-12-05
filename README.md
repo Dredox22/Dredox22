@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Тинькофф» добавил в приложение умную камеру](https://habr.com/ru/news/778564/?utm_campaign=778564&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст с помощью Arduino и Rust создал систему отображения использования ЦП](https://habr.com/ru/news/778540/?utm_campaign=778540&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI закрыла баг в ChatGPT с раскрытием обучающих данных в ответ на просьбу вечно повторять одно слово](https://habr.com/ru/news/778532/?utm_campaign=778532&utm_source=habrahabr&utm_medium=rss)
 - [Strava добавила в своё мобильное приложение бесплатную функцию обмена сообщениями на iOS и Android](https://habr.com/ru/news/778544/?utm_campaign=778544&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Store появился раздел «Аркады» с мгновенными играми без установки](https://habr.com/ru/news/778530/?utm_campaign=778530&utm_source=habrahabr&utm_medium=rss)
-- [СУБД и платформа Tantor: максимум от технологии PostgreSQL](https://habr.com/ru/companies/astralinux/news/778528/?utm_campaign=778528&utm_source=habrahabr&utm_medium=rss)
-- [Сайт генетических тестов признал утечку данных 6,9 млн пользователей](https://habr.com/ru/news/778524/?utm_campaign=778524&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила Android-приложение Seeing AI для слабовидящих пользователей](https://habr.com/ru/news/778522/?utm_campaign=778522&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
