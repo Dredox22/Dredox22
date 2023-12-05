@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Rockstar опубликовала официальный трейлер GTA VI](https://habr.com/ru/news/778492/?utm_campaign=778492&utm_source=habrahabr&utm_medium=rss)
-- [Робот, вдохновлённый улиткой, может собирать микропластик в океане](https://habr.com/ru/news/778478/?utm_campaign=778478&utm_source=habrahabr&utm_medium=rss)
-- [Обновление браузера Arc: шеринг цитат, Tab Handoff и подготовка к нововведениям в 2024 году](https://habr.com/ru/news/778468/?utm_campaign=778468&utm_source=habrahabr&utm_medium=rss)
-- [Даже если случайно переставить буквы в словах, GPT-4 понимает текст](https://habr.com/ru/news/778462/?utm_campaign=778462&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила финалистов премии Google Play Best of 2023 Awards](https://habr.com/ru/news/778444/?utm_campaign=778444&utm_source=habrahabr&utm_medium=rss)
+- [Strava добавила в своё мобильное приложение бесплатную функцию обмена сообщениями на iOS и Android](https://habr.com/ru/news/778544/?utm_campaign=778544&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft Store появился раздел «Аркады» с мгновенными играми без установки](https://habr.com/ru/news/778530/?utm_campaign=778530&utm_source=habrahabr&utm_medium=rss)
+- [СУБД и платформа Tantor: максимум от технологии PostgreSQL](https://habr.com/ru/companies/astralinux/news/778528/?utm_campaign=778528&utm_source=habrahabr&utm_medium=rss)
+- [Сайт генетических тестов признал утечку данных 6,9 млн пользователей](https://habr.com/ru/news/778524/?utm_campaign=778524&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft запустила Android-приложение Seeing AI для слабовидящих пользователей](https://habr.com/ru/news/778522/?utm_campaign=778522&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
