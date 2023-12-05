@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тelegram оштрафовали на 4 млн рублей за неисполнение предписания Роскомнадзора](https://habr.com/ru/news/778616/?utm_campaign=778616&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики выпустили HierSpeech++ — модель для генерации голоса](https://habr.com/ru/news/778610/?utm_campaign=778610&utm_source=habrahabr&utm_medium=rss)
 - [IBM и Meta* объявили о создании альянса в сфере ИИ](https://habr.com/ru/news/778592/?utm_campaign=778592&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуму внесли несколько законопроектов, которые ужесточат наказание за утечки персональных данных](https://habr.com/ru/news/778586/?utm_campaign=778586&utm_source=habrahabr&utm_medium=rss)
 - [КРОК Облачные сервисы получил сертификат соответствия самому современному стандарту безопасности PCI DSS 4.0](https://habr.com/ru/companies/croc/news/778578/?utm_campaign=778578&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Банк России с 25 декабря запретит сотрудникам использовать мобильные устройства Apple в служебной деятельности](https://habr.com/ru/news/778570/?utm_campaign=778570&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф» добавил в приложение умную камеру](https://habr.com/ru/news/778564/?utm_campaign=778564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
