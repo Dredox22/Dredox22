@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила ИИ-модель Gemini, которая обходит GPT-4 в большинстве тестов](https://habr.com/ru/news/778932/?utm_campaign=778932&utm_source=habrahabr&utm_medium=rss)
+- [Вышло приложение Beeper Mini, позволяющее отправлять сообщения iMessage с Android](https://habr.com/ru/news/778930/?utm_campaign=778930&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыла новую площадку Школы анализа данных в Санкт-Петербурге](https://habr.com/ru/news/778926/?utm_campaign=778926&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор приступил к формированию реестра хостинг-провайдеров](https://habr.com/ru/news/778908/?utm_campaign=778908&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность Supply Chain. Глава 1: избегайте вредных зависимостей](https://habr.com/ru/companies/solarsecurity/news/778872/?utm_campaign=778872&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор предупредил о рассылке фейковых писем якобы от имени ведомства с адреса name@rkn.expert](https://habr.com/ru/news/778852/?utm_campaign=778852&utm_source=habrahabr&utm_medium=rss)
-- [В решениях «1С‑Битрикс» найдена и исправлена уязвимость с самой максимальной оценкой по шкале CVSS 3.0](https://habr.com/ru/news/778850/?utm_campaign=778850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
