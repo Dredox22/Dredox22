@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Подготовка к экзамену 1С: Специалист» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/778336/?utm_campaign=778336&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл доступ к YandexGPT API для всех пользователей в режиме превью](https://habr.com/ru/news/778822/?utm_campaign=778822&utm_source=habrahabr&utm_medium=rss)
+- [Популярность Chrome в России упала ниже 50%, но браузер Google продолжает лидировать](https://habr.com/ru/news/778820/?utm_campaign=778820&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики представили нейросеть для анимации фотографий](https://habr.com/ru/news/778812/?utm_campaign=778812&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» превратил финал чемпионата по программированию Yandex Cup 2023 в арт-проект с киберкультурой и демосценами](https://habr.com/ru/news/778806/?utm_campaign=778806&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустит тестирование новой Алисы на основе нейросети YandexGPT 2](https://habr.com/ru/news/778792/?utm_campaign=778792&utm_source=habrahabr&utm_medium=rss)
-- [Хакер перехватил управление четырьмя проектами в репозитории PyPI](https://habr.com/ru/news/778776/?utm_campaign=778776&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предложит пользователям платные обновления безопасности Windows 10](https://habr.com/ru/news/778756/?utm_campaign=778756&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выпустил мобильный браузер для организаций и обновил десктопную версию](https://habr.com/ru/news/778718/?utm_campaign=778718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
