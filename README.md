@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» превратил финал чемпионата по программированию Yandex Cup 2023 в арт-проект с киберкультурой и демосценами](https://habr.com/ru/news/778806/?utm_campaign=778806&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустит тестирование новой Алисы на основе нейросети YandexGPT 2](https://habr.com/ru/news/778792/?utm_campaign=778792&utm_source=habrahabr&utm_medium=rss)
 - [Хакер перехватил управление четырьмя проектами в репозитории PyPI](https://habr.com/ru/news/778776/?utm_campaign=778776&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предложит пользователям платные обновления безопасности Windows 10](https://habr.com/ru/news/778756/?utm_campaign=778756&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выпустил мобильный браузер для организаций и обновил десктопную версию](https://habr.com/ru/news/778718/?utm_campaign=778718&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Путешествия» добавили раздел для любителей горнолыжного спорта](https://habr.com/ru/news/778696/?utm_campaign=778696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
