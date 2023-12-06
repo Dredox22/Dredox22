@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность Supply Chain. Глава 1: избегайте вредных зависимостей](https://habr.com/ru/companies/solarsecurity/news/778872/?utm_campaign=778872&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор предупредил о рассылке фейковых писем якобы от имени ведомства с адреса name@rkn.expert](https://habr.com/ru/news/778852/?utm_campaign=778852&utm_source=habrahabr&utm_medium=rss)
 - [В решениях «1С‑Битрикс» найдена и исправлена уязвимость с самой максимальной оценкой по шкале CVSS 3.0](https://habr.com/ru/news/778850/?utm_campaign=778850&utm_source=habrahabr&utm_medium=rss)
 - [Система BI.ZONE Cyber Maturity Platform получила обновление](https://habr.com/ru/news/778848/?utm_campaign=778848&utm_source=habrahabr&utm_medium=rss)
 - [«Подготовка к экзамену 1С: Специалист» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/778336/?utm_campaign=778336&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл доступ к YandexGPT API для всех пользователей в режиме превью](https://habr.com/ru/news/778822/?utm_campaign=778822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
