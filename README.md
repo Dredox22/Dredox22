@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» выпустил мобильный браузер для организаций и обновил десктопную версию](https://habr.com/ru/news/778718/?utm_campaign=778718&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Путешествия» добавили раздел для любителей горнолыжного спорта](https://habr.com/ru/news/778696/?utm_campaign=778696&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пытается устранить баг в Windows 10/11 с переименованием принтеров в HP, а на Хабре уже нашли решение](https://habr.com/ru/news/778692/?utm_campaign=778692&utm_source=habrahabr&utm_medium=rss)
 - [В Рязани стартовало серийное производство серверов OpenYard](https://habr.com/ru/news/778662/?utm_campaign=778662&utm_source=habrahabr&utm_medium=rss)
 - [В Роскачестве сравнили скорость передачи больших файлов через четыре мессенджера](https://habr.com/ru/news/778648/?utm_campaign=778648&utm_source=habrahabr&utm_medium=rss)
-- [Тelegram оштрафовали на 4 млн рублей за неисполнение предписания Роскомнадзора](https://habr.com/ru/news/778616/?utm_campaign=778616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
