@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла стабильная версия открытого проекта TornadoVM 1.0 для запуска Java на гетерогенном оборудовании: CPU, GPU и FPGA](https://habr.com/ru/news/778982/?utm_campaign=778982&utm_source=habrahabr&utm_medium=rss)
 - [QEMU выпустила адвент-календарь с подборкой интересных образов для эмулятора](https://habr.com/ru/news/778940/?utm_campaign=778940&utm_source=habrahabr&utm_medium=rss)
 - [Google представила ИИ-модель Gemini, которая обходит GPT-4 в большинстве тестов](https://habr.com/ru/news/778932/?utm_campaign=778932&utm_source=habrahabr&utm_medium=rss)
 - [Вышло приложение Beeper Mini, позволяющее отправлять сообщения iMessage с Android](https://habr.com/ru/news/778930/?utm_campaign=778930&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыла новую площадку Школы анализа данных в Санкт-Петербурге](https://habr.com/ru/news/778926/?utm_campaign=778926&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор приступил к формированию реестра хостинг-провайдеров](https://habr.com/ru/news/778908/?utm_campaign=778908&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл новую площадку Школы анализа данных в Санкт-Петербурге](https://habr.com/ru/news/778926/?utm_campaign=778926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
