@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» научил YandexGPT искать ошибки в коде студентов в «Яндекс Практикуме» и «ЕГЭ по информатике с Яндекс Учебником»](https://habr.com/ru/news/779066/?utm_campaign=779066&utm_source=habrahabr&utm_medium=rss)
+- [AMD увеличила прогноз роста рынка ИИ-ускорителей](https://habr.com/ru/companies/dcmiran/news/779058/?utm_campaign=779058&utm_source=habrahabr&utm_medium=rss)
 - [Из-за бага на Reddit к ссылкам можно добавлять оскорбления](https://habr.com/ru/news/779030/?utm_campaign=779030&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило собирать персональные данные россиян за счёт бизнеса](https://habr.com/ru/news/779034/?utm_campaign=779034&utm_source=habrahabr&utm_medium=rss)
 - [Google добавит в Chrome функцию Compose для генерации текста по запросу](https://habr.com/ru/news/779026/?utm_campaign=779026&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия открытого проекта TornadoVM 1.0 для запуска Java на гетерогенном оборудовании: CPU, GPU и FPGA](https://habr.com/ru/news/778982/?utm_campaign=778982&utm_source=habrahabr&utm_medium=rss)
-- [QEMU выпустила адвент-календарь с подборкой интересных образов для эмулятора](https://habr.com/ru/news/778940/?utm_campaign=778940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
