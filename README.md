@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Производитель показал нестандартный руль для электромобиля «Атом»](https://habr.com/ru/news/779160/?utm_campaign=779160&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft упразднила систему распознавания речи эпохи Vista в новых версиях Windows 11](https://habr.com/ru/news/779140/?utm_campaign=779140&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Google Bard теперь работает на базе Gemini Pro](https://habr.com/ru/news/779126/?utm_campaign=779126&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» и «Сбер» по-разному оценили доступ к своим нейросетям для бизнеса](https://habr.com/ru/news/779124/?utm_campaign=779124&utm_source=habrahabr&utm_medium=rss)
 - [True crime: как хакеры теряются среди пользователей и как в поисках помогает ML](https://habr.com/ru/companies/pt/news/779100/?utm_campaign=779100&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс рассказал о Rust в Linux, усталости сопровождающих ядра проекта и будущей роли ИИ в новых версиях ОС](https://habr.com/ru/news/779090/?utm_campaign=779090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
