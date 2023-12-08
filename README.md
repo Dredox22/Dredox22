@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность Supply Chain. Глава 2: как злонамеренные библиотеки проникают в проект и как этому помешать](https://habr.com/ru/companies/solarsecurity/news/779350/?utm_campaign=779350&utm_source=habrahabr&utm_medium=rss)
+- [В Роскомнадзоре заявили, что обезличенные данные могут быть восстановлены](https://habr.com/ru/news/779346/?utm_campaign=779346&utm_source=habrahabr&utm_medium=rss)
+- [Angara Security представила исследование реакции сотрудников компаний на рассылки фишинговых сообщений через e-mail](https://habr.com/ru/news/779336/?utm_campaign=779336&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры разрабатывает Единый реестр частотных присвоений](https://habr.com/ru/news/779328/?utm_campaign=779328&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует функцию поиска в PDF-файлах и на изображениях](https://habr.com/ru/news/779320/?utm_campaign=779320&utm_source=habrahabr&utm_medium=rss)
-- [Open Source Initiative проанализировала популярность открытых лицензий в 2023 году по языкам программирования в проектах](https://habr.com/ru/news/779280/?utm_campaign=779280&utm_source=habrahabr&utm_medium=rss)
-- [IBM запустила изолированное решение для холодного хранения цифровых активов](https://habr.com/ru/news/779262/?utm_campaign=779262&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые смартфоны на Android могут автоматически отправлять медицинские данные во время звонков в службу 911](https://habr.com/ru/news/779258/?utm_campaign=779258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
