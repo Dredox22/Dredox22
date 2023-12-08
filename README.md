@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В раннем доступе вышел шутер The Day Before, но пользователи жалуются на низкое качество игры](https://habr.com/ru/news/779384/?utm_campaign=779384&utm_source=habrahabr&utm_medium=rss)
+- [Google призналась, что демонстрация мультимодальности Gemini — это постановка](https://habr.com/ru/news/779372/?utm_campaign=779372&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» представила результаты исследований значимых утечек данных в России за 2023 год](https://habr.com/ru/news/779376/?utm_campaign=779376&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность Supply Chain. Глава 2: как злонамеренные библиотеки проникают в проект и как этому помешать](https://habr.com/ru/companies/solarsecurity/news/779350/?utm_campaign=779350&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре заявили, что обезличенные данные могут быть восстановлены](https://habr.com/ru/news/779346/?utm_campaign=779346&utm_source=habrahabr&utm_medium=rss)
-- [Angara Security представила исследование реакции сотрудников компаний на рассылки фишинговых сообщений через e-mail](https://habr.com/ru/news/779336/?utm_campaign=779336&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры разрабатывает Единый реестр частотных присвоений](https://habr.com/ru/news/779328/?utm_campaign=779328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
