@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Initiative проанализировала популярность открытых лицензий в 2023 году по языкам программирования в проектах](https://habr.com/ru/news/779280/?utm_campaign=779280&utm_source=habrahabr&utm_medium=rss)
 - [IBM запустила изолированное решение для холодного хранения цифровых активов](https://habr.com/ru/news/779262/?utm_campaign=779262&utm_source=habrahabr&utm_medium=rss)
 - [Некоторые смартфоны на Android могут автоматически отправлять медицинские данные во время звонков в службу 911](https://habr.com/ru/news/779258/?utm_campaign=779258&utm_source=habrahabr&utm_medium=rss)
 - [Apple будет раскрывать метаданные push-уведомлений правоохранителям в США](https://habr.com/ru/news/779256/?utm_campaign=779256&utm_source=habrahabr&utm_medium=rss)
 - [Вышла стабильная версия systemd 255 с поддержкой ВSOD &lpar;«синего экрана смерти»&rpar; в Linux](https://habr.com/ru/news/779242/?utm_campaign=779242&utm_source=habrahabr&utm_medium=rss)
-- [Блокнот в Windows 11 получил счётчик символов](https://habr.com/ru/news/779236/?utm_campaign=779236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
