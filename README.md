@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ромеро выпустил новый эпизод для Doom под названием Sigil II в день тридцатилетия культового шутера](https://habr.com/ru/news/779568/?utm_campaign=779568&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge Copilot AI пока не способна резюмировать каждое видео на YouTube](https://habr.com/ru/news/779472/?utm_campaign=779472&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь купил дешёвый китайский БП и обнаружил там модуль с железной стружкой и землёй для утяжеления](https://habr.com/ru/news/779420/?utm_campaign=779420&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft признала, что баг в Windows 10/11 с переименованием всех принтеров в продукцию HP произошёл не по вине HP](https://habr.com/ru/news/779404/?utm_campaign=779404&utm_source=habrahabr&utm_medium=rss)
 - [В раннем доступе вышел шутер The Day Before, но пользователи жалуются на низкое качество игры](https://habr.com/ru/news/779384/?utm_campaign=779384&utm_source=habrahabr&utm_medium=rss)
-- [Google призналась, что демонстрация мультимодальности Gemini — это постановка](https://habr.com/ru/news/779372/?utm_campaign=779372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
