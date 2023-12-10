@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Rostelecom Tech Day представлена ОС «Аврора 5.0» и проект Aurora Foundation](https://habr.com/ru/news/779630/?utm_campaign=779630&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 120](https://habr.com/ru/news/779582/?utm_campaign=779582&utm_source=habrahabr&utm_medium=rss)
 - [Google представила ИИ-блокнот NotebookLM с нейросетью Gemini Pro](https://habr.com/ru/news/779578/?utm_campaign=779578&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: ChatGPT начал «лениться» и иногда не отвечает на вопросы](https://habr.com/ru/news/779576/?utm_campaign=779576&utm_source=habrahabr&utm_medium=rss)
 - [Ромеро выпустил новый эпизод для Doom под названием Sigil II в день тридцатилетия культового шутера](https://habr.com/ru/news/779568/?utm_campaign=779568&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge Copilot AI пока не способна резюмировать каждое видео на YouTube](https://habr.com/ru/news/779472/?utm_campaign=779472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
