@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia откроет во Вьетнаме центр производства микрочипов](https://habr.com/ru/news/779746/?utm_campaign=779746&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила трёхмерный многослойный CMOS-транзистор с питанием и прямым контактом с обратной стороны](https://habr.com/ru/news/779728/?utm_campaign=779728&utm_source=habrahabr&utm_medium=rss)
 - [Наделла: Windows Copilot AI — это новая кнопка «Пуск»](https://habr.com/ru/news/779720/?utm_campaign=779720&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия PowerToys v0.76](https://habr.com/ru/news/779688/?utm_campaign=779688&utm_source=habrahabr&utm_medium=rss)
 - [К 30-летнему юбилею вышли продолжения сразу двух культовых мегавадов для DOOM-а](https://habr.com/ru/news/779680/?utm_campaign=779680&utm_source=habrahabr&utm_medium=rss)
-- [Apple: режим блокировки iPhone пока никому не удалось взломать](https://habr.com/ru/news/779648/?utm_campaign=779648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
