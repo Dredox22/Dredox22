@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/779878/?utm_campaign=779878&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux 6.6.6](https://habr.com/ru/news/779868/?utm_campaign=779868&utm_source=habrahabr&utm_medium=rss)
 - [Спамеры используют сайт Epic Games для продвижения «пиратских» потоковых сервисов](https://habr.com/ru/news/779848/?utm_campaign=779848&utm_source=habrahabr&utm_medium=rss)
 - [Клиент банка получил уведомление безопасности бумажным письмом](https://habr.com/ru/news/779834/?utm_campaign=779834&utm_source=habrahabr&utm_medium=rss)
 - [В Санкт-Петербурге будет проходить марафон по безопасности детей в цифровой среде «Безопасная цифра»](https://habr.com/ru/news/779778/?utm_campaign=779778&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia откроет во Вьетнаме центр производства микрочипов](https://habr.com/ru/news/779746/?utm_campaign=779746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
