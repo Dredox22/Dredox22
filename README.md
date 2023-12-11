@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [К 30-летнему юбилею вышли продолжения сразу двух культовых мегавадов для DOOM-а](https://habr.com/ru/news/779680/?utm_campaign=779680&utm_source=habrahabr&utm_medium=rss)
 - [Apple: режим блокировки iPhone пока никому не удалось взломать](https://habr.com/ru/news/779648/?utm_campaign=779648&utm_source=habrahabr&utm_medium=rss)
 - [На Rostelecom Tech Day представлена ОС «Аврора 5.0» и проект Aurora Foundation](https://habr.com/ru/news/779630/?utm_campaign=779630&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 120](https://habr.com/ru/news/779582/?utm_campaign=779582&utm_source=habrahabr&utm_medium=rss)
 - [Google представила ИИ-блокнот NotebookLM с нейросетью Gemini Pro](https://habr.com/ru/news/779578/?utm_campaign=779578&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI: ChatGPT начал «лениться» и иногда не отвечает на вопросы](https://habr.com/ru/news/779576/?utm_campaign=779576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
