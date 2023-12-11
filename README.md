@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Спамеры используют сайт Epic Games для продвижения «пиратских» потоковых сервисов](https://habr.com/ru/news/779848/?utm_campaign=779848&utm_source=habrahabr&utm_medium=rss)
+- [Клиент банка получил уведомление безопасности бумажным письмом](https://habr.com/ru/news/779834/?utm_campaign=779834&utm_source=habrahabr&utm_medium=rss)
 - [В Санкт-Петербурге будет проходить марафон по безопасности детей в цифровой среде «Безопасная цифра»](https://habr.com/ru/news/779778/?utm_campaign=779778&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia откроет во Вьетнаме центр производства микрочипов](https://habr.com/ru/news/779746/?utm_campaign=779746&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила трёхмерный многослойный CMOS-транзистор с питанием и прямым контактом с обратной стороны](https://habr.com/ru/news/779728/?utm_campaign=779728&utm_source=habrahabr&utm_medium=rss)
-- [Наделла: Windows Copilot AI — это новая кнопка «Пуск»](https://habr.com/ru/news/779720/?utm_campaign=779720&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия PowerToys v0.76](https://habr.com/ru/news/779688/?utm_campaign=779688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
