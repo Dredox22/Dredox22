@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Московская область запустила программу поиска уязвимостей на Standoff 365 Bug Bounty](https://habr.com/ru/companies/pt/news/779992/?utm_campaign=779992&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» в конце 2024 года локализует производство своих умных телевизоров в Новгородской области](https://habr.com/ru/news/780044/?utm_campaign=780044&utm_source=habrahabr&utm_medium=rss)
-- [В России ввели штраф до 1 млн рублей за нарушения при обращении с биометрией](https://habr.com/ru/news/780032/?utm_campaign=780032&utm_source=habrahabr&utm_medium=rss)
-- [Альянс в сфере ИИ раскритиковал законопроект об обезличенных данных](https://habr.com/ru/news/780012/?utm_campaign=780012&utm_source=habrahabr&utm_medium=rss)
-- [Apple исправила уязвимости «нулевого дня» в старых iPhone](https://habr.com/ru/news/779982/?utm_campaign=779982&utm_source=habrahabr&utm_medium=rss)
+- [В Google Messages появится возможность редактировать текст сообщения после отправки](https://habr.com/ru/news/780086/?utm_campaign=780086&utm_source=habrahabr&utm_medium=rss)
+- [Apple удалила возможность покупать телешоу и фильмы из приложения iTunes Store для iOS 17.2](https://habr.com/ru/news/780084/?utm_campaign=780084&utm_source=habrahabr&utm_medium=rss)
+- [Вышла бета-версия браузера Arc для Windows](https://habr.com/ru/news/780070/?utm_campaign=780070&utm_source=habrahabr&utm_medium=rss)
+- [Apple ищет инженера со знанием русского языка и пониманием русской культуры](https://habr.com/ru/news/780054/?utm_campaign=780054&utm_source=habrahabr&utm_medium=rss)
+- [«Базальт СПО» за 3 квартала 2023 года предоставила образовательным организациям более 77 тысяч лицензий «Альт»](https://habr.com/ru/companies/basealtspo/news/780052/?utm_campaign=780052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
