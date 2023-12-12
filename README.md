@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После недавнего обновления Avira загружает систему на 100% и блокирует ПК](https://habr.com/ru/news/780182/?utm_campaign=780182&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies рассказала об исследовании «Кибербезопасность в 2023–2024 гг.: тренды и прогнозы»](https://habr.com/ru/news/780180/?utm_campaign=780180&utm_source=habrahabr&utm_medium=rss)
 - [Книга о разработке расширений под CMS Joomla 5](https://habr.com/ru/news/780176/?utm_campaign=780176&utm_source=habrahabr&utm_medium=rss)
 - [Магазин приложений RuStore станет доступен для установки на ридерах и медиаплеерах](https://habr.com/ru/news/780148/?utm_campaign=780148&utm_source=habrahabr&utm_medium=rss)
 - [Организаторы официально закрыли выставку E3, которая была главным игровым мероприятием больше 20 лет](https://habr.com/ru/news/780144/?utm_campaign=780144&utm_source=habrahabr&utm_medium=rss)
-- [Apple собирается открыть доступ к NFC-чипу iPhone в Европе для конкурентов Apple Pay](https://habr.com/ru/news/780130/?utm_campaign=780130&utm_source=habrahabr&utm_medium=rss)
-- [МТС анонсировал выход корпоративного мессенджера «Линк чаты» в 2024 году](https://habr.com/ru/news/780122/?utm_campaign=780122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
