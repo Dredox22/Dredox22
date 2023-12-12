@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Якутская студия Fntastic сняла The Day Before с продаж в Steam, разработчики прорабатывают с Valve возврат денег игрокам](https://habr.com/ru/news/779938/?utm_campaign=779938&utm_source=habrahabr&utm_medium=rss)
 - [Google опубликовала топ запросов за 2023 год](https://habr.com/ru/news/779920/?utm_campaign=779920&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст повторил на GPT-4V три примера из видео про Google Gemini](https://habr.com/ru/news/779912/?utm_campaign=779912&utm_source=habrahabr&utm_medium=rss)
 - [Якутская студия Fntastic объявила о своём закрытии после провала MMO-шутера с открытым миром The Day Before](https://habr.com/ru/news/779906/?utm_campaign=779906&utm_source=habrahabr&utm_medium=rss)
 - [База данных претендентов на грин-карту США хранилась в незащищённом виде, часть ПД оказалась в общем доступе](https://habr.com/ru/news/779900/?utm_campaign=779900&utm_source=habrahabr&utm_medium=rss)
-- [«Аквариус» запустила производство ноутбуков с высоким разрешением Aquarius Cmp NS616](https://habr.com/ru/news/779886/?utm_campaign=779886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
