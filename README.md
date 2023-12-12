@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Магазин приложений RuStore станет доступен для установки на ридерах и медиаплеерах](https://habr.com/ru/news/780148/?utm_campaign=780148&utm_source=habrahabr&utm_medium=rss)
+- [Организаторы официально закрыли выставку E3, которая была главным игровым мероприятием больше 20 лет](https://habr.com/ru/news/780144/?utm_campaign=780144&utm_source=habrahabr&utm_medium=rss)
 - [Apple собирается открыть доступ к NFC-чипу iPhone в Европе для конкурентов Apple Pay](https://habr.com/ru/news/780130/?utm_campaign=780130&utm_source=habrahabr&utm_medium=rss)
 - [МТС анонсировал выход корпоративного мессенджера «Линк чаты» в 2024 году](https://habr.com/ru/news/780122/?utm_campaign=780122&utm_source=habrahabr&utm_medium=rss)
 - [Apple нашла способ заблокировать Beeper Mini](https://habr.com/ru/news/780112/?utm_campaign=780112&utm_source=habrahabr&utm_medium=rss)
-- [«День образования» с «Группой Астра»](https://habr.com/ru/companies/astralinux/news/780096/?utm_campaign=780096&utm_source=habrahabr&utm_medium=rss)
-- [В Google Messages появится возможность редактировать текст сообщения после отправки](https://habr.com/ru/news/780086/?utm_campaign=780086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
