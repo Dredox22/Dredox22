@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Московская область запустила программу поиска уязвимостей на Standoff 365 Bug Bounty](https://habr.com/ru/companies/pt/news/779992/?utm_campaign=779992&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» в конце 2024 года локализует производство своих умных телевизоров в Новгородской области](https://habr.com/ru/news/780044/?utm_campaign=780044&utm_source=habrahabr&utm_medium=rss)
+- [В России ввели штраф до 1 млн рублей за нарушения при обращении с биометрией](https://habr.com/ru/news/780032/?utm_campaign=780032&utm_source=habrahabr&utm_medium=rss)
 - [Альянс в сфере ИИ раскритиковал законопроект об обезличенных данных](https://habr.com/ru/news/780012/?utm_campaign=780012&utm_source=habrahabr&utm_medium=rss)
 - [Apple исправила уязвимости «нулевого дня» в старых iPhone](https://habr.com/ru/news/779982/?utm_campaign=779982&utm_source=habrahabr&utm_medium=rss)
-- [На «Госуслугах» в 2025 году появится реестр согласий на обработку персональных данных](https://habr.com/ru/news/779994/?utm_campaign=779994&utm_source=habrahabr&utm_medium=rss)
-- [Награду за найденные уязвимости теперь могут получать и иностранные исследователи](https://habr.com/ru/companies/pt/news/779978/?utm_campaign=779978&utm_source=habrahabr&utm_medium=rss)
-- [Car Connectivity Consortium объявил о новой сертификации NFC-ключей](https://habr.com/ru/news/779972/?utm_campaign=779972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
