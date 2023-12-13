@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI снова открыла регистрацию новых пользователей ChatGPT Plus](https://habr.com/ru/news/780478/?utm_campaign=780478&utm_source=habrahabr&utm_medium=rss)
+- [В Google работают над чат-ботом Ellmann, который сможет узнавать истории жизни пользователей](https://habr.com/ru/news/780474/?utm_campaign=780474&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты Positive Technologies выделили киберугрозы 2023 года и дали прогноз на 2024 год](https://habr.com/ru/news/780468/?utm_campaign=780468&utm_source=habrahabr&utm_medium=rss)
 - [В браузере Opera GX появилась функция Panic Button для защиты пользователя от посторонних взглядов](https://habr.com/ru/news/780466/?utm_campaign=780466&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla представила MemoryCache — локального чат-бота для работы с сохранёнными веб-страницами](https://habr.com/ru/news/780454/?utm_campaign=780454&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Dependency Track 4.10: важный переход на NVD API](https://habr.com/ru/companies/swordfish_security/news/780446/?utm_campaign=780446&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила самые скачиваемые приложения и игры 2023 года в App Store](https://habr.com/ru/news/780412/?utm_campaign=780412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
