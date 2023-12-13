@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Emerge Tools открыли код Pow — библиотеки эффектов SwiftUI](https://habr.com/ru/news/780484/?utm_campaign=780484&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила API и документацию по работе с новым системным приложением Journal в iOS](https://habr.com/ru/news/780480/?utm_campaign=780480&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI снова открыла регистрацию новых пользователей ChatGPT Plus](https://habr.com/ru/news/780478/?utm_campaign=780478&utm_source=habrahabr&utm_medium=rss)
 - [В Google работают над чат-ботом Ellmann, который сможет узнавать истории жизни пользователей](https://habr.com/ru/news/780474/?utm_campaign=780474&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты Positive Technologies выделили киберугрозы 2023 года и дали прогноз на 2024 год](https://habr.com/ru/news/780468/?utm_campaign=780468&utm_source=habrahabr&utm_medium=rss)
-- [В браузере Opera GX появилась функция Panic Button для защиты пользователя от посторонних взглядов](https://habr.com/ru/news/780466/?utm_campaign=780466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
