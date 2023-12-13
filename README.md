@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Dependency Track 4.10: важный переход на NVD API](https://habr.com/ru/companies/swordfish_security/news/780446/?utm_campaign=780446&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила самые скачиваемые приложения и игры 2023 года в App Store](https://habr.com/ru/news/780412/?utm_campaign=780412&utm_source=habrahabr&utm_medium=rss)
 - [Евгений Касперский рассказал о создании KasperskyOS, её функциях и запуске магазина приложений для защищённой ОС](https://habr.com/ru/news/780400/?utm_campaign=780400&utm_source=habrahabr&utm_medium=rss)
 - [Lesta Games представила игру Superball](https://habr.com/ru/news/780376/?utm_campaign=780376&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» разработает собственное решение для защиты от DDoS-атак](https://habr.com/ru/news/780348/?utm_campaign=780348&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуму внесён на рассмотрение законопроект, предполагающий легализацию в РФ деятельности белых хакеров](https://habr.com/ru/news/780326/?utm_campaign=780326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
