@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve не рекомендует вдыхать воздух из вентиляционных отверстий Steam Deck](https://habr.com/ru/news/780272/?utm_campaign=780272&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Cling 1.0](https://habr.com/ru/news/780258/?utm_campaign=780258&utm_source=habrahabr&utm_medium=rss)
 - [Snapchat позволит делиться обработанными ИИ снимками](https://habr.com/ru/news/780250/?utm_campaign=780250&utm_source=habrahabr&utm_medium=rss)
 - [Настройки в бета-версии iOS 17.3 усложнят доступ к учётным записям после кражи пароля](https://habr.com/ru/news/780246/?utm_campaign=780246&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft изменит принцип закрытия последней вкладки в Edge](https://habr.com/ru/news/780244/?utm_campaign=780244&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» назвал имена трёх лауреатов своей ежегодной Научной премии за 2023 год с выплатой каждому по 20 млн рублей](https://habr.com/ru/news/780236/?utm_campaign=780236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
