@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты Positive Technologies выделили киберугрозы 2023 года и дали прогноз на 2024 год](https://habr.com/ru/news/780468/?utm_campaign=780468&utm_source=habrahabr&utm_medium=rss)
+- [В браузере Opera GX появилась функция Panic Button для защиты пользователя от посторонних взглядов](https://habr.com/ru/news/780466/?utm_campaign=780466&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla представила MemoryCache — локального чат-бота для работы с сохранёнными веб-страницами](https://habr.com/ru/news/780454/?utm_campaign=780454&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Dependency Track 4.10: важный переход на NVD API](https://habr.com/ru/companies/swordfish_security/news/780446/?utm_campaign=780446&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила самые скачиваемые приложения и игры 2023 года в App Store](https://habr.com/ru/news/780412/?utm_campaign=780412&utm_source=habrahabr&utm_medium=rss)
-- [Евгений Касперский рассказал о создании KasperskyOS, её функциях и запуске магазина приложений для защищённой ОС](https://habr.com/ru/news/780400/?utm_campaign=780400&utm_source=habrahabr&utm_medium=rss)
-- [Lesta Games представила игру Superball](https://habr.com/ru/news/780376/?utm_campaign=780376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
