@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Lesta Games представила игру Superball](https://habr.com/ru/news/780376/?utm_campaign=780376&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» разработает собственное решение для защиты от DDoS-атак](https://habr.com/ru/news/780348/?utm_campaign=780348&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуму внесён на рассмотрение законопроект, предполагающий легализацию в РФ деятельности белых хакеров](https://habr.com/ru/news/780326/?utm_campaign=780326&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» разработал своё мобильное приложение под ОС «Аврора»](https://habr.com/ru/news/780320/?utm_campaign=780320&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp появилась возможность закреплять сообщения](https://habr.com/ru/news/780314/?utm_campaign=780314&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: ФГУП «ГРЧЦ» разослало хостинг-провайдерам письма с рекомендациями по выявлению и блокировке бота GPTBot от OpenAI](https://habr.com/ru/news/780294/?utm_campaign=780294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
