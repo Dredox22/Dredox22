@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony расследует предполагаемую атаку программы-вымогателя на Insomniac Games](https://habr.com/ru/news/780284/?utm_campaign=780284&utm_source=habrahabr&utm_medium=rss)
 - [Valve не рекомендует вдыхать воздух из вентиляционных отверстий Steam Deck](https://habr.com/ru/news/780272/?utm_campaign=780272&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Cling 1.0](https://habr.com/ru/news/780258/?utm_campaign=780258&utm_source=habrahabr&utm_medium=rss)
 - [Snapchat позволит делиться обработанными ИИ снимками](https://habr.com/ru/news/780250/?utm_campaign=780250&utm_source=habrahabr&utm_medium=rss)
 - [Настройки в бета-версии iOS 17.3 усложнят доступ к учётным записям после кражи пароля](https://habr.com/ru/news/780246/?utm_campaign=780246&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft изменит принцип закрытия последней вкладки в Edge](https://habr.com/ru/news/780244/?utm_campaign=780244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
