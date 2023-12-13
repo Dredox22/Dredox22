@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Билайн» разработал своё мобильное приложение под ОС «Аврора»](https://habr.com/ru/news/780320/?utm_campaign=780320&utm_source=habrahabr&utm_medium=rss)
+- [В WhatsApp появилась возможность закреплять сообщения](https://habr.com/ru/news/780314/?utm_campaign=780314&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: ФГУП «ГРЧЦ» разослало хостинг-провайдерам письма с рекомендациями по выявлению и блокировке бота GPTBot от OpenAI](https://habr.com/ru/news/780294/?utm_campaign=780294&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил персональный формат обучения на курсах по фронтенд- и фулстек-разработке](https://habr.com/ru/companies/yandex_praktikum/news/779962/?utm_campaign=779962&utm_source=habrahabr&utm_medium=rss)
 - [Sony расследует предполагаемую атаку программы-вымогателя на Insomniac Games](https://habr.com/ru/news/780284/?utm_campaign=780284&utm_source=habrahabr&utm_medium=rss)
-- [Valve не рекомендует вдыхать воздух из вентиляционных отверстий Steam Deck](https://habr.com/ru/news/780272/?utm_campaign=780272&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Cling 1.0](https://habr.com/ru/news/780258/?utm_campaign=780258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
