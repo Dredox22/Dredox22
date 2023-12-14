@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mundfish: DLC Atomic Heart «Узник Лимбо» станет доступно с 6 февраля 2024 года](https://habr.com/ru/news/780708/?utm_campaign=780708&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies выпустила новую версию PT NAD](https://habr.com/ru/news/780706/?utm_campaign=780706&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Гарда» рассказала об исследовании рынка сетевой безопасности в России](https://habr.com/ru/news/780682/?utm_campaign=780682&utm_source=habrahabr&utm_medium=rss)
 - [Учёные Томского политеха предложили новую технологию создания гибкой электроники](https://habr.com/ru/news/780678/?utm_campaign=780678&utm_source=habrahabr&utm_medium=rss)
 - [Китай запустил спутник «Тяньи-33» с двухъядерной архитектурой с ядром Linux реального времени на Rust](https://habr.com/ru/news/780668/?utm_campaign=780668&utm_source=habrahabr&utm_medium=rss)
-- [Мастерская Steam теперь поддерживает порядок загрузки и показывает зависимости модов](https://habr.com/ru/news/780664/?utm_campaign=780664&utm_source=habrahabr&utm_medium=rss)
-- [В Instagram** появился инструмент редактирования контента с помощью ИИ](https://habr.com/ru/news/780654/?utm_campaign=780654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
