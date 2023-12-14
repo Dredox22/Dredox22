@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft конфискует домены, используемые для продажи мошеннических учётных записей Outlook](https://habr.com/ru/news/780606/?utm_campaign=780606&utm_source=habrahabr&utm_medium=rss)
 - [Суд отказался снять блокировку VPN-провайдера HideMy.name в рамках иска компании к Роскомнадзору](https://habr.com/ru/news/780592/?utm_campaign=780592&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft App Store нашли вредонос под видом русскоязычной версии ПО 7Zip](https://habr.com/ru/news/780572/?utm_campaign=780572&utm_source=habrahabr&utm_medium=rss)
 - [Helm vs werf: практическое сравнение с демонстрацией и реальными примерами. Встреча с core-командой разработки werf](https://habr.com/ru/companies/flant/news/780570/?utm_campaign=780570&utm_source=habrahabr&utm_medium=rss)
 - [Разработчиков The Day Before уволили из Fntastic одним днём и без пособия](https://habr.com/ru/news/780566/?utm_campaign=780566&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила поддержку титров и субтитров к видео для веб-версии PowerPoint](https://habr.com/ru/news/780538/?utm_campaign=780538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
