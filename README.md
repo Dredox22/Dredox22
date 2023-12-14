@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Joomla User Group — вебинар-встреча организаторов 22 января 2024г](https://habr.com/ru/news/780528/?utm_campaign=780528&utm_source=habrahabr&utm_medium=rss)
 - [С сентября хакеры активно атакуют уязвимые серверы с TeamCity от JetBrains, глава ИБ компании: 98% серверов с патчами](https://habr.com/ru/news/780506/?utm_campaign=780506&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Emerge Tools открыли код Pow — библиотеки эффектов SwiftUI](https://habr.com/ru/news/780484/?utm_campaign=780484&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила API и документацию по работе с новым системным приложением Journal в iOS](https://habr.com/ru/news/780480/?utm_campaign=780480&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI снова открыла регистрацию новых пользователей ChatGPT Plus](https://habr.com/ru/news/780478/?utm_campaign=780478&utm_source=habrahabr&utm_medium=rss)
-- [В Google работают над чат-ботом Ellmann, который сможет узнавать истории жизни пользователей](https://habr.com/ru/news/780474/?utm_campaign=780474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
