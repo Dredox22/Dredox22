@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ComNews: записные книжки iPhone оказались переполнены повторяющимися десятки раз записями VK ID](https://habr.com/ru/news/780990/?utm_campaign=780990&utm_source=habrahabr&utm_medium=rss)
 - [Мобильное приложение TrueConf заработало на Astra Linux Mobile](https://habr.com/ru/news/780918/?utm_campaign=780918&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем 25 декабря на RSHB QA Meetup: От беты до экзотики](https://habr.com/ru/companies/rshb/news/780904/?utm_campaign=780904&utm_source=habrahabr&utm_medium=rss)
 - [Названы лауреаты международной премии Yandex ML Prize](https://habr.com/ru/news/780900/?utm_campaign=780900&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Word, Excel и PowerPoint вышли для гарнитур Meta Quest VR](https://habr.com/ru/news/780886/?utm_campaign=780886&utm_source=habrahabr&utm_medium=rss)
-- [Сбер открыл доступ разработчикам и бизнесу к GigaChat Lite и GigaChat Pro](https://habr.com/ru/news/780868/?utm_campaign=780868&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
