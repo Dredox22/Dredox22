@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем 25 декабря на RSHB QA Meetup: От беты до экзотики](https://habr.com/ru/companies/rshb/news/780904/?utm_campaign=780904&utm_source=habrahabr&utm_medium=rss)
+- [Названы лауреаты международной премии Yandex ML Prize](https://habr.com/ru/news/780900/?utm_campaign=780900&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Word, Excel и PowerPoint вышли для гарнитур Meta Quest VR](https://habr.com/ru/news/780886/?utm_campaign=780886&utm_source=habrahabr&utm_medium=rss)
 - [Сбер открыл доступ разработчикам и бизнесу к GigaChat Lite и GigaChat Pro](https://habr.com/ru/news/780868/?utm_campaign=780868&utm_source=habrahabr&utm_medium=rss)
 - [В российский реестр ПО включили операционную систему для платёжных кассовых терминалов — Atol OS](https://habr.com/ru/news/780862/?utm_campaign=780862&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.28: поддержка ARM, .NET 8, анализ Unreal Engine без Unity Build и не только](https://habr.com/ru/companies/pvs-studio/news/780854/?utm_campaign=780854&utm_source=habrahabr&utm_medium=rss)
-- [Naughty Dog отменила многопользовательскую игру во вселенной The Last of Us](https://habr.com/ru/news/780848/?utm_campaign=780848&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из ТГУ и ТПУ рассказали о создании аналогов керамических составов для корпусов микросхем](https://habr.com/ru/news/780842/?utm_campaign=780842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
