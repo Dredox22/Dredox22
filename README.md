@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбер открыл доступ разработчикам и бизнесу к GigaChat Lite и GigaChat Pro](https://habr.com/ru/news/780868/?utm_campaign=780868&utm_source=habrahabr&utm_medium=rss)
+- [В российский реестр ПО включили операционную систему для платёжных кассовых терминалов — Atol OS](https://habr.com/ru/news/780862/?utm_campaign=780862&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.28: поддержка ARM, .NET 8, анализ Unreal Engine без Unity Build и не только](https://habr.com/ru/companies/pvs-studio/news/780854/?utm_campaign=780854&utm_source=habrahabr&utm_medium=rss)
 - [Naughty Dog отменила многопользовательскую игру во вселенной The Last of Us](https://habr.com/ru/news/780848/?utm_campaign=780848&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из ТГУ и ТПУ рассказали о создании аналогов керамических составов для корпусов микросхем](https://habr.com/ru/news/780842/?utm_campaign=780842&utm_source=habrahabr&utm_medium=rss)
-- [Карты «Мир» впервые заняли более половины платёжного рынка России](https://habr.com/ru/news/780820/?utm_campaign=780820&utm_source=habrahabr&utm_medium=rss)
-- [А пруф есть? GigaSearch научился указывать ссылки на источники информации](https://habr.com/ru/companies/sberbank/news/780728/?utm_campaign=780728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
