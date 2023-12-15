@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Карты «Мир» впервые заняли более половины платёжного рынка России](https://habr.com/ru/news/780820/?utm_campaign=780820&utm_source=habrahabr&utm_medium=rss)
 - [А пруф есть? GigaSearch научился указывать ссылки на источники информации](https://habr.com/ru/companies/sberbank/news/780728/?utm_campaign=780728&utm_source=habrahabr&utm_medium=rss)
 - [Fntastic в 2022 году заработала $2,5 млн и потратила $150 тысяч на зарплату двум основателям](https://habr.com/ru/news/780758/?utm_campaign=780758&utm_source=habrahabr&utm_medium=rss)
 - [Совет при президенте РФ по кодификации выступил против идеи Минцифры по разработке Цифрового кодекса](https://habr.com/ru/news/780764/?utm_campaign=780764&utm_source=habrahabr&utm_medium=rss)
 - [Proton представила десктопное решение для Windows и macOS, которое включает приложения Proton Mail и Proton Calendar](https://habr.com/ru/news/780754/?utm_campaign=780754&utm_source=habrahabr&utm_medium=rss)
-- [Учёным удалось сделать открытия в математике при помощи DeepMind](https://habr.com/ru/news/780734/?utm_campaign=780734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
