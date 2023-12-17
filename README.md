@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ФСТЭК России 50 лет](https://habr.com/ru/news/781198/?utm_campaign=781198&utm_source=habrahabr&utm_medium=rss)
 - [Tesla: Powerwall с солнечной батареей стоит дешевле резервного генератора](https://habr.com/ru/news/781160/?utm_campaign=781160&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку режима консоли Legacy в Windows 11](https://habr.com/ru/news/781152/?utm_campaign=781152&utm_source=habrahabr&utm_medium=rss)
 - [При реверс-инжиниринге ПО контроллера гирлянды разработчику помог Хабр, но автор всё равно смог окирпичить устройство](https://habr.com/ru/news/781118/?utm_campaign=781118&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи сетевых устройств Ubiquiti получили доступ к чужим камерам и роутерам в сети UniFi](https://habr.com/ru/news/781116/?utm_campaign=781116&utm_source=habrahabr&utm_medium=rss)
-- [Apple в iOS 17.2 закрыла уязвимость, которая позволяла блокировать работу iPhone по Bluetooth с помощью Flipper Zero](https://habr.com/ru/news/781084/?utm_campaign=781084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
