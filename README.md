@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [При реверс-инжиниринге ПО контроллера гирлянды разработчику помог Хабр, но автор всё равно смог окирпичить устройство](https://habr.com/ru/news/781118/?utm_campaign=781118&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи сетевых устройств Ubiquiti получили доступ к чужим камерам и роутерам в сети UniFi](https://habr.com/ru/news/781116/?utm_campaign=781116&utm_source=habrahabr&utm_medium=rss)
 - [Apple в iOS 17.2 закрыла уязвимость, которая позволяла блокировать работу iPhone по Bluetooth с помощью Flipper Zero](https://habr.com/ru/news/781084/?utm_campaign=781084&utm_source=habrahabr&utm_medium=rss)
 - [Объявлены победители финала «Битвы роботов» 2023](https://habr.com/ru/news/781054/?utm_campaign=781054&utm_source=habrahabr&utm_medium=rss)
 - [Apple и Corellium урегулировали четырёхлетнюю судебную тяжбу](https://habr.com/ru/news/781014/?utm_campaign=781014&utm_source=habrahabr&utm_medium=rss)
-- [Twitch запретил показывать взрослый контент спустя двое суток после его разрешения](https://habr.com/ru/news/781012/?utm_campaign=781012&utm_source=habrahabr&utm_medium=rss)
-- [Версия Linux 6.6.6 прожила двое суток, вышел Linux 6.6.7](https://habr.com/ru/news/781004/?utm_campaign=781004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
