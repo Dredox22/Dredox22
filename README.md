@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель машинного обучения Gemini Pro от Google теперь доступна разработчикам](https://habr.com/ru/news/781396/?utm_campaign=781396&utm_source=habrahabr&utm_medium=rss)
 - [Разработчиков The Day Before уволили из Fntastic с полным расчётом за отработанные дни, отпускные и до 2 окладов сверху](https://habr.com/ru/news/781364/?utm_campaign=781364&utm_source=habrahabr&utm_medium=rss)
 - [Google с 4 января 2024 года начнёт тестировать отключение сторонних файлов cookie в Chrome для 1% пользователей](https://habr.com/ru/news/781352/?utm_campaign=781352&utm_source=habrahabr&utm_medium=rss)
 - [На BIM-форуме компания «Нанософт» представила опыт адаптации российских ТИМ/СОД для управления строительством](https://habr.com/ru/companies/nanosoft/news/781344/?utm_campaign=781344&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: ByteDance тайно использовала технологию OpenAI для разработки своего чат-бота с ИИ](https://habr.com/ru/news/781332/?utm_campaign=781332&utm_source=habrahabr&utm_medium=rss)
-- [Декабрьское обновление KB5033375 для Windows 11 нарушает работу Wi-Fi в университетах](https://habr.com/ru/news/781290/?utm_campaign=781290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
