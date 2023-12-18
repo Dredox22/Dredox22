@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Декабрьское обновление KB5033375 для Windows 11 нарушает работу Wi-Fi в университетах](https://habr.com/ru/news/781290/?utm_campaign=781290&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на конференцию по ИИ: Как новые технологии могут помочь с прикладными задачами бизнеса](https://habr.com/ru/companies/rshb/news/780942/?utm_campaign=780942&utm_source=habrahabr&utm_medium=rss)
 - [Существительное «нейросеть» стало словом года по версии «Грамоты.ру»](https://habr.com/ru/news/781268/?utm_campaign=781268&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила KB5034510 против бага в Windows 10/11 с переименованием всех принтеров в продукцию HP](https://habr.com/ru/news/781258/?utm_campaign=781258&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» заявила, что количество утёкших телефонных номеров в 2023 году в 1,5 раза превысило численность населения РФ](https://habr.com/ru/news/781254/?utm_campaign=781254&utm_source=habrahabr&utm_medium=rss)
-- [LG разработала прозрачную плёночную антенну &lpar;5G, Wi-Fi, GNSS&rpar; для машин](https://habr.com/ru/news/781244/?utm_campaign=781244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
