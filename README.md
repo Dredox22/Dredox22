@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [LG разработала прозрачную плёночную антенну &lpar;5G, Wi-Fi, GNSS&rpar; для машин](https://habr.com/ru/news/781244/?utm_campaign=781244&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предложит ИИ-разработчикам опцию «модели как услуга»](https://habr.com/ru/news/781234/?utm_campaign=781234&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила систему «условных цен» в App Store](https://habr.com/ru/news/781228/?utm_campaign=781228&utm_source=habrahabr&utm_medium=rss)
 - [Пятое поколение Xeon Scalable кроме Emerald Rapids получит и старые чипы Sapphire Rapids](https://habr.com/ru/companies/dcmiran/news/781202/?utm_campaign=781202&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК России 50 лет](https://habr.com/ru/news/781198/?utm_campaign=781198&utm_source=habrahabr&utm_medium=rss)
-- [Tesla: Powerwall с солнечной батареей стоит дешевле резервного генератора](https://habr.com/ru/news/781160/?utm_campaign=781160&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку режима консоли Legacy в Windows 11](https://habr.com/ru/news/781152/?utm_campaign=781152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
