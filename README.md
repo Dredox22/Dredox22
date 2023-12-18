@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонс A? Frontend #5: Гослинг, микросервисы, CI/CD, K8S, T-shape](https://habr.com/ru/companies/alfa/news/781336/?utm_campaign=781336&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/781410/?utm_campaign=781410&utm_source=habrahabr&utm_medium=rss)
 - [Модель машинного обучения Gemini Pro от Google теперь доступна разработчикам](https://habr.com/ru/news/781396/?utm_campaign=781396&utm_source=habrahabr&utm_medium=rss)
 - [Разработчиков The Day Before уволили из Fntastic с полным расчётом за отработанные дни, отпускные и до 2 окладов сверху](https://habr.com/ru/news/781364/?utm_campaign=781364&utm_source=habrahabr&utm_medium=rss)
 - [Google с 4 января 2024 года начнёт тестировать отключение сторонних файлов cookie в Chrome для 1% пользователей](https://habr.com/ru/news/781352/?utm_campaign=781352&utm_source=habrahabr&utm_medium=rss)
-- [На BIM-форуме компания «Нанософт» представила опыт адаптации российских ТИМ/СОД для управления строительством](https://habr.com/ru/companies/nanosoft/news/781344/?utm_campaign=781344&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: ByteDance тайно использовала технологию OpenAI для разработки своего чат-бота с ИИ](https://habr.com/ru/news/781332/?utm_campaign=781332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
