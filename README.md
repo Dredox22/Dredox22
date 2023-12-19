@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В API «Яндекс Карт» появился «Редактор стилей карт»](https://habr.com/ru/news/781646/?utm_campaign=781646&utm_source=habrahabr&utm_medium=rss)
+- [Google выплатит $700 млн в рамках урегулирования антимонопольного спора об ограничении компанией приложений на Android](https://habr.com/ru/news/781632/?utm_campaign=781632&utm_source=habrahabr&utm_medium=rss)
 - [LUN-а по клику и новое железо для выделенных серверов](https://habr.com/ru/companies/selectel/news/781604/?utm_campaign=781604&utm_source=habrahabr&utm_medium=rss)
 - [Туман кибервойны: шпионы из Cloud Atlas атакуют российские компании под видом поддержки участников СВО](https://habr.com/ru/companies/f_a_c_c_t/news/781552/?utm_campaign=781552&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Нанософт» оборудует современным ПО тысячу рабочих мест в Московском Политехе](https://habr.com/ru/companies/nanosoft/news/781572/?utm_campaign=781572&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 спустя год исправили ошибку автоматического открытия «Проводника»](https://habr.com/ru/news/781554/?utm_campaign=781554&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила ИИ-опцию по переименованию идентификаторов в Visual Studio Preview, согласно стилю кода разработчика](https://habr.com/ru/news/781558/?utm_campaign=781558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
