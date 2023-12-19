@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 спустя год исправили ошибку автоматического открытия «Проводника»](https://habr.com/ru/news/781554/?utm_campaign=781554&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила ИИ-опцию по переименованию идентификаторов в Visual Studio Preview, согласно стилю кода разработчика](https://habr.com/ru/news/781558/?utm_campaign=781558&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» перевёл мобильную разработку в сербскую юрисдикцию](https://habr.com/ru/news/781546/?utm_campaign=781546&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представил безопасный режим защищённой печати Windows](https://habr.com/ru/news/781540/?utm_campaign=781540&utm_source=habrahabr&utm_medium=rss)
 - [В Сеть утекли тестовые версии приложений из системы Apple TestFlight за период с 2012 по 2015 год](https://habr.com/ru/news/781476/?utm_campaign=781476&utm_source=habrahabr&utm_medium=rss)
-- [Администраторам Google Workspace потребуется двухэтапная аутентификация](https://habr.com/ru/news/781456/?utm_campaign=781456&utm_source=habrahabr&utm_medium=rss)
-- [Анонс A? Frontend #5: Гослинг, микросервисы, CI/CD, K8S, T-shape](https://habr.com/ru/companies/alfa/news/781336/?utm_campaign=781336&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/781410/?utm_campaign=781410&utm_source=habrahabr&utm_medium=rss)
-- [Модель машинного обучения Gemini Pro от Google теперь доступна разработчикам](https://habr.com/ru/news/781396/?utm_campaign=781396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
