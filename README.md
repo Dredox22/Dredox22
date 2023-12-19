@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РЖД разработают pwa‑приложение для ОС «Аврора»](https://habr.com/ru/news/781758/?utm_campaign=781758&utm_source=habrahabr&utm_medium=rss)
 - [В III квартале продажи корпоративных SSD превысили $1,5 млрд](https://habr.com/ru/companies/dcmiran/news/781736/?utm_campaign=781736&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» в 2,6 раза увеличил производство чипов для документов и банковских карт по итогам 2023 года](https://habr.com/ru/news/781704/?utm_campaign=781704&utm_source=habrahabr&utm_medium=rss)
 - [C 1 января 2024 года версия Микки Мауса из «Пароходика Вилли» станет общественным достоянием](https://habr.com/ru/news/781686/?utm_campaign=781686&utm_source=habrahabr&utm_medium=rss)
 - [В API «Яндекс Карт» появился «Редактор стилей карт»](https://habr.com/ru/news/781646/?utm_campaign=781646&utm_source=habrahabr&utm_medium=rss)
-- [Google выплатит $700 млн в рамках урегулирования антимонопольного спора об ограничении компанией приложений на Android](https://habr.com/ru/news/781632/?utm_campaign=781632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
