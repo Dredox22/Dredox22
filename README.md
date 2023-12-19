@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Микрон» в 2,6 раза увеличил производство чипов для документов и банковских карт по итогам 2023 года](https://habr.com/ru/news/781704/?utm_campaign=781704&utm_source=habrahabr&utm_medium=rss)
+- [C 1 января 2024 года версия Микки Мауса из «Пароходика Вилли» станет общественным достоянием](https://habr.com/ru/news/781686/?utm_campaign=781686&utm_source=habrahabr&utm_medium=rss)
 - [В API «Яндекс Карт» появился «Редактор стилей карт»](https://habr.com/ru/news/781646/?utm_campaign=781646&utm_source=habrahabr&utm_medium=rss)
 - [Google выплатит $700 млн в рамках урегулирования антимонопольного спора об ограничении компанией приложений на Android](https://habr.com/ru/news/781632/?utm_campaign=781632&utm_source=habrahabr&utm_medium=rss)
 - [LUN-а по клику и новое железо для выделенных серверов](https://habr.com/ru/companies/selectel/news/781604/?utm_campaign=781604&utm_source=habrahabr&utm_medium=rss)
-- [Туман кибервойны: шпионы из Cloud Atlas атакуют российские компании под видом поддержки участников СВО](https://habr.com/ru/companies/f_a_c_c_t/news/781552/?utm_campaign=781552&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Нанософт» оборудует современным ПО тысячу рабочих мест в Московском Политехе](https://habr.com/ru/companies/nanosoft/news/781572/?utm_campaign=781572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
