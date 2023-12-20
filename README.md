@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Defold Foundation отменила плату с разработчиков консольных игр за полный доступ к исходному коду игрового движка Defold](https://habr.com/ru/news/781860/?utm_campaign=781860&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики фреймворка Vue напомнили, что цикл поддержки Vue 2 завершается в конце 2023 года](https://habr.com/ru/news/781776/?utm_campaign=781776&utm_source=habrahabr&utm_medium=rss)
 - [РЖД разработают pwa‑приложение для ОС «Аврора»](https://habr.com/ru/news/781758/?utm_campaign=781758&utm_source=habrahabr&utm_medium=rss)
 - [В III квартале продажи корпоративных SSD превысили $1,5 млрд](https://habr.com/ru/companies/dcmiran/news/781736/?utm_campaign=781736&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» в 2,6 раза увеличил производство чипов для документов и банковских карт по итогам 2023 года](https://habr.com/ru/news/781704/?utm_campaign=781704&utm_source=habrahabr&utm_medium=rss)
-- [C 1 января 2024 года версия Микки Мауса из «Пароходика Вилли» станет общественным достоянием](https://habr.com/ru/news/781686/?utm_campaign=781686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
