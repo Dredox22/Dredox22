@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GlowByte стала первым российским партнером FanRuan с международной наградой MVP](https://habr.com/ru/companies/glowbyte/news/781958/?utm_campaign=781958&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в РФ создали нейросеть для деанонимизации владельцев Telegram-каналов под названием «Товарищ майор»](https://habr.com/ru/news/781938/?utm_campaign=781938&utm_source=habrahabr&utm_medium=rss)
 - [Что важного в PHP 8.3, как готовить Composer и ускорить работу кода — обсудим в онлайне 23 декабря](https://habr.com/ru/companies/skyeng/news/781816/?utm_campaign=781816&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 121](https://habr.com/ru/news/781910/?utm_campaign=781910&utm_source=habrahabr&utm_medium=rss)
 - [В ЕРАИ хотят обязать разработчиков игр подключиться к его информсистемам и передавать данные о продажах](https://habr.com/ru/news/781908/?utm_campaign=781908&utm_source=habrahabr&utm_medium=rss)
-- [Defold Foundation отменила плату с разработчиков консольных игр за полный доступ к исходному коду игрового движка Defold](https://habr.com/ru/news/781860/?utm_campaign=781860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
