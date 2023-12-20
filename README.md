@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что важного в PHP 8.3, как готовить Composer и ускорить работу кода — обсудим в онлайне 23 декабря](https://habr.com/ru/companies/skyeng/news/781816/?utm_campaign=781816&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Firefox 121](https://habr.com/ru/news/781910/?utm_campaign=781910&utm_source=habrahabr&utm_medium=rss)
+- [В ЕРАИ хотят обязать разработчиков игр подключиться к его информсистемам и передавать данные о продажах](https://habr.com/ru/news/781908/?utm_campaign=781908&utm_source=habrahabr&utm_medium=rss)
 - [Defold Foundation отменила плату с разработчиков консольных игр за полный доступ к исходному коду игрового движка Defold](https://habr.com/ru/news/781860/?utm_campaign=781860&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики фреймворка Vue напомнили, что цикл поддержки Vue 2 завершается в конце 2023 года](https://habr.com/ru/news/781776/?utm_campaign=781776&utm_source=habrahabr&utm_medium=rss)
-- [РЖД разработают pwa‑приложение для ОС «Аврора»](https://habr.com/ru/news/781758/?utm_campaign=781758&utm_source=habrahabr&utm_medium=rss)
-- [В III квартале продажи корпоративных SSD превысили $1,5 млрд](https://habr.com/ru/companies/dcmiran/news/781736/?utm_campaign=781736&utm_source=habrahabr&utm_medium=rss)
-- [«Микрон» в 2,6 раза увеличил производство чипов для документов и банковских карт по итогам 2023 года](https://habr.com/ru/news/781704/?utm_campaign=781704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
