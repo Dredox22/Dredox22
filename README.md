@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Intel купила шесть из десяти имеющихся передовых литографических машин ASML](https://habr.com/ru/companies/dcmiran/news/782174/?utm_campaign=782174&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Defender Application Guard для Edge](https://habr.com/ru/news/782138/?utm_campaign=782138&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила нативную поддержку Speedtest от Ookla в поиск Bing](https://habr.com/ru/news/782078/?utm_campaign=782078&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte стала первым российским партнером FanRuan с международной наградой MVP](https://habr.com/ru/companies/glowbyte/news/781958/?utm_campaign=781958&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в РФ создали нейросеть для деанонимизации владельцев Telegram-каналов под названием «Товарищ майор»](https://habr.com/ru/news/781938/?utm_campaign=781938&utm_source=habrahabr&utm_medium=rss)
-- [Что важного в PHP 8.3, как готовить Composer и ускорить работу кода — обсудим в онлайне 23 декабря](https://habr.com/ru/companies/skyeng/news/781816/?utm_campaign=781816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
