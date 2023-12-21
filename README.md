@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В рейтинге Ookla по Speedtest РФ в 2023 году заняла 102 место в мире по средней скорости мобильного интернета](https://habr.com/ru/news/782410/?utm_campaign=782410&utm_source=habrahabr&utm_medium=rss)
 - [Суд вынес 18-летнему хакеру приговор к пожизненной госпитализации в психиатрической клинике за слив геймплея GTA VI](https://habr.com/ru/news/782402/?utm_campaign=782402&utm_source=habrahabr&utm_medium=rss)
 - [На VK Play открылся предзаказ «Смуты» из-за рубежа по российской карте](https://habr.com/ru/news/782396/?utm_campaign=782396&utm_source=habrahabr&utm_medium=rss)
 - [«Бюро 1440» планирует запустить коммерческий спутниковый интернет в 2027 году](https://habr.com/ru/news/782386/?utm_campaign=782386&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь Google Brain Эндрю Ын пытался заставить ChatGPT придумать, как уничтожить человечество, но не смог](https://habr.com/ru/news/782376/?utm_campaign=782376&utm_source=habrahabr&utm_medium=rss)
-- [Генпрокуратура России получила разрешение от властей Казахстана на экстрадицию Никиты Кислицина](https://habr.com/ru/news/782334/?utm_campaign=782334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
