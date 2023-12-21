@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft временно решила проблему с Wi-Fi из-за обновления Windows](https://habr.com/ru/news/782186/?utm_campaign=782186&utm_source=habrahabr&utm_medium=rss)
+- [Вышел эмулятор QEMU 8.2](https://habr.com/ru/news/782190/?utm_campaign=782190&utm_source=habrahabr&utm_medium=rss)
+- [Результаты исследования VK Cloud о том, как компании работают с Kubernetes в России](https://habr.com/ru/companies/vk/news/782182/?utm_campaign=782182&utm_source=habrahabr&utm_medium=rss)
 - [Компания Intel купила шесть из десяти имеющихся передовых литографических машин ASML](https://habr.com/ru/companies/dcmiran/news/782174/?utm_campaign=782174&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Defender Application Guard для Edge](https://habr.com/ru/news/782138/?utm_campaign=782138&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила нативную поддержку Speedtest от Ookla в поиск Bing](https://habr.com/ru/news/782078/?utm_campaign=782078&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte стала первым российским партнером FanRuan с международной наградой MVP](https://habr.com/ru/companies/glowbyte/news/781958/?utm_campaign=781958&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в РФ создали нейросеть для деанонимизации владельцев Telegram-каналов под названием «Товарищ майор»](https://habr.com/ru/news/781938/?utm_campaign=781938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
