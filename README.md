@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генпрокуратура России получила разрешение от казахских властей на экстрадицию Никиты Кислицина](https://habr.com/ru/news/782334/?utm_campaign=782334&utm_source=habrahabr&utm_medium=rss)
+- [Лауреаты Пулитцеровской премии присоединились к иску против OpenAI и Microsoft о нарушении авторских прав](https://habr.com/ru/news/782332/?utm_campaign=782332&utm_source=habrahabr&utm_medium=rss)
 - [В утечке данных студии Insomniac Games нашли график её будущих игр](https://habr.com/ru/news/782320/?utm_campaign=782320&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Windows Mixed Reality объявлена устаревшей и будет удалена в будущем выпуске Windows 11](https://habr.com/ru/news/782294/?utm_campaign=782294&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Пэй» стал доступен для офлайн‑покупок](https://habr.com/ru/news/782290/?utm_campaign=782290&utm_source=habrahabr&utm_medium=rss)
-- [Вышла предварительная версия Catalyst v0.1.0, которую разработчики называют современным UI-kit для React](https://habr.com/ru/news/782258/?utm_campaign=782258&utm_source=habrahabr&utm_medium=rss)
-- [Skillbox в 2024 году запустит онлайн-колледж по программированию и графическому дизайну](https://habr.com/ru/news/782254/?utm_campaign=782254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
