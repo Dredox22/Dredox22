@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Генпрокуратура России получила разрешение от казахских властей на экстрадицию Никиты Кислицина](https://habr.com/ru/news/782334/?utm_campaign=782334&utm_source=habrahabr&utm_medium=rss)
+- [Генпрокуратура России получила разрешение от властей Казахстана на экстрадицию Никиты Кислицина](https://habr.com/ru/news/782334/?utm_campaign=782334&utm_source=habrahabr&utm_medium=rss)
 - [Лауреаты Пулитцеровской премии присоединились к иску против OpenAI и Microsoft о нарушении авторских прав](https://habr.com/ru/news/782332/?utm_campaign=782332&utm_source=habrahabr&utm_medium=rss)
 - [В утечке данных студии Insomniac Games нашли график её будущих игр](https://habr.com/ru/news/782320/?utm_campaign=782320&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Windows Mixed Reality объявлена устаревшей и будет удалена в будущем выпуске Windows 11](https://habr.com/ru/news/782294/?utm_campaign=782294&utm_source=habrahabr&utm_medium=rss)
