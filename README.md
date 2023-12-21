@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На VK Play открылся предзаказ «Смуты» из-за рубежа по российской карте](https://habr.com/ru/news/782396/?utm_campaign=782396&utm_source=habrahabr&utm_medium=rss)
 - [«Бюро 1440» планирует запустить коммерческий спутниковый интернет в 2027 году](https://habr.com/ru/news/782386/?utm_campaign=782386&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь Google Brain Эндрю Ын пытался заставить ChatGPT придумать, как уничтожить человечество, но не смог](https://habr.com/ru/news/782376/?utm_campaign=782376&utm_source=habrahabr&utm_medium=rss)
 - [Генпрокуратура России получила разрешение от властей Казахстана на экстрадицию Никиты Кислицина](https://habr.com/ru/news/782334/?utm_campaign=782334&utm_source=habrahabr&utm_medium=rss)
 - [Лауреаты Пулитцеровской премии присоединились к иску против OpenAI и Microsoft о нарушении авторских прав](https://habr.com/ru/news/782332/?utm_campaign=782332&utm_source=habrahabr&utm_medium=rss)
-- [В утечке данных студии Insomniac Games нашли график её будущих игр](https://habr.com/ru/news/782320/?utm_campaign=782320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
