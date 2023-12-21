@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла предварительная версия Catalyst v0.1.0, которую разработчики называют современным UI-kit для React](https://habr.com/ru/news/782258/?utm_campaign=782258&utm_source=habrahabr&utm_medium=rss)
+- [Skillbox в 2024 году запустит онлайн-колледж по программированию и графическому дизайну](https://habr.com/ru/news/782254/?utm_campaign=782254&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft временно решила проблему с Wi-Fi из-за обновления Windows](https://habr.com/ru/news/782186/?utm_campaign=782186&utm_source=habrahabr&utm_medium=rss)
 - [Вышел эмулятор QEMU 8.2](https://habr.com/ru/news/782190/?utm_campaign=782190&utm_source=habrahabr&utm_medium=rss)
 - [Результаты исследования VK Cloud о том, как компании работают с Kubernetes в России](https://habr.com/ru/companies/vk/news/782182/?utm_campaign=782182&utm_source=habrahabr&utm_medium=rss)
-- [Компания Intel купила шесть из десяти имеющихся передовых литографических машин ASML](https://habr.com/ru/companies/dcmiran/news/782174/?utm_campaign=782174&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку Defender Application Guard для Edge](https://habr.com/ru/news/782138/?utm_campaign=782138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
