@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В рейтинге Ookla по Speedtest РФ в 2023 году заняла 102 место в мире по средней скорости мобильного интернета](https://habr.com/ru/news/782410/?utm_campaign=782410&utm_source=habrahabr&utm_medium=rss)
-- [Суд вынес 18-летнему хакеру приговор к пожизненной госпитализации в психиатрической клинике за слив геймплея GTA VI](https://habr.com/ru/news/782402/?utm_campaign=782402&utm_source=habrahabr&utm_medium=rss)
-- [На VK Play открылся предзаказ «Смуты» из-за рубежа по российской карте](https://habr.com/ru/news/782396/?utm_campaign=782396&utm_source=habrahabr&utm_medium=rss)
-- [«Бюро 1440» планирует запустить коммерческий спутниковый интернет в 2027 году](https://habr.com/ru/news/782386/?utm_campaign=782386&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь Google Brain Эндрю Ын пытался заставить ChatGPT придумать, как уничтожить человечество, но не смог](https://habr.com/ru/news/782376/?utm_campaign=782376&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик: у Finder в macOS нет утечки памяти, её заполняет миниатюрами](https://habr.com/ru/news/782446/?utm_campaign=782446&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзору планируют расширить полномочия для контроля утечек данных](https://habr.com/ru/news/782444/?utm_campaign=782444&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила поддержку новых процессоров Intel в Windows 11, но забыла про чипы AMD](https://habr.com/ru/news/782440/?utm_campaign=782440&utm_source=habrahabr&utm_medium=rss)
+- [Торвальдс: выпуск стабильной версии Linux 6.7 переносится с 31 декабря на 7 января для уменьшения стресса мейнтейнеров](https://habr.com/ru/news/782438/?utm_campaign=782438&utm_source=habrahabr&utm_medium=rss)
+- [В WebKit появилась первоначальная поддержка WebGPU](https://habr.com/ru/news/782436/?utm_campaign=782436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
