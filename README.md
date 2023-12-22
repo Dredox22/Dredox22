@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сторонние площадки продают ключи к закрытой The Day Before за $200 и выше](https://habr.com/ru/news/782468/?utm_campaign=782468&utm_source=habrahabr&utm_medium=rss)
+- [Beeper Mini предложил владельцам iPhone сделать джейлбрейк для работы iMessage на Android](https://habr.com/ru/news/782458/?utm_campaign=782458&utm_source=habrahabr&utm_medium=rss)
+- [Смартфоны на Android, возможно, наконец-то получат штатный индикатор состояния батареи](https://habr.com/ru/news/782460/?utm_campaign=782460&utm_source=habrahabr&utm_medium=rss)
+- [Инструмент безопасности паролей Chrome будет автоматически запускаться в фоновом режиме](https://habr.com/ru/news/782450/?utm_campaign=782450&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик: у Finder в macOS нет утечки памяти, её заполняет миниатюрами](https://habr.com/ru/news/782446/?utm_campaign=782446&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзору планируют расширить полномочия для контроля утечек данных](https://habr.com/ru/news/782444/?utm_campaign=782444&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила поддержку новых процессоров Intel в Windows 11, но забыла про чипы AMD](https://habr.com/ru/news/782440/?utm_campaign=782440&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс: выпуск стабильной версии Linux 6.7 переносится с 31 декабря на 7 января для уменьшения стресса мейнтейнеров](https://habr.com/ru/news/782438/?utm_campaign=782438&utm_source=habrahabr&utm_medium=rss)
-- [В WebKit появилась первоначальная поддержка WebGPU](https://habr.com/ru/news/782436/?utm_campaign=782436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
