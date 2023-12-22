@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователь обнаружил прозрачный микрочип в компьютере HP 1977 года](https://habr.com/ru/news/782478/?utm_campaign=782478&utm_source=habrahabr&utm_medium=rss)
 - [Сторонние площадки продают ключи к закрытой The Day Before за $200 и выше](https://habr.com/ru/news/782468/?utm_campaign=782468&utm_source=habrahabr&utm_medium=rss)
 - [Beeper Mini предложил владельцам iPhone сделать джейлбрейк для работы iMessage на Android](https://habr.com/ru/news/782458/?utm_campaign=782458&utm_source=habrahabr&utm_medium=rss)
 - [Смартфоны на Android, возможно, наконец-то получат штатный индикатор состояния батареи](https://habr.com/ru/news/782460/?utm_campaign=782460&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент безопасности паролей Chrome будет автоматически запускаться в фоновом режиме](https://habr.com/ru/news/782450/?utm_campaign=782450&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик: у Finder в macOS нет утечки памяти, её заполняет миниатюрами](https://habr.com/ru/news/782446/?utm_campaign=782446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
