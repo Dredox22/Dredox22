@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Якутская студия Fntastic: серверы The Day Before прекратят работу 22 января 2024 года, деньги за игру всем вернут](https://habr.com/ru/news/782550/?utm_campaign=782550&utm_source=habrahabr&utm_medium=rss)
+- [Как боты адаптировались к новой GPT-реальности? Кейсы, инструменты и разбор полетов на Conversations’23](https://habr.com/ru/companies/just_ai/news/782542/?utm_campaign=782542&utm_source=habrahabr&utm_medium=rss)
 - [Ученые Smart Engines создали ИИ, сканирующий обрезанные QR-коды для платежей](https://habr.com/ru/companies/smartengines/news/782536/?utm_campaign=782536&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь обнаружил прозрачный микрочип в компьютере HP 1977 года](https://habr.com/ru/news/782478/?utm_campaign=782478&utm_source=habrahabr&utm_medium=rss)
 - [Сторонние площадки продают ключи к закрытой The Day Before за $200 и выше](https://habr.com/ru/news/782468/?utm_campaign=782468&utm_source=habrahabr&utm_medium=rss)
-- [Beeper Mini предложил владельцам iPhone сделать джейлбрейк для работы iMessage на Android](https://habr.com/ru/news/782458/?utm_campaign=782458&utm_source=habrahabr&utm_medium=rss)
-- [Смартфоны на Android, возможно, наконец-то получат штатный индикатор состояния батареи](https://habr.com/ru/news/782460/?utm_campaign=782460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
