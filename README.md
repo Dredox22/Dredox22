@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Китайская компания SMEE создала литографический сканер для выпуска 28 нм чипов](https://habr.com/ru/news/782658/?utm_campaign=782658&utm_source=habrahabr&utm_medium=rss)
 - [Автор WaveDrom, он же инженер SiFive — на Школе Синтеза Цифровых Схем в субботу](https://habr.com/ru/news/782642/?utm_campaign=782642&utm_source=habrahabr&utm_medium=rss)
 - [В РФ занялись вопросом оптимизации числа типов услуг связи, которые подлежат лицензированию](https://habr.com/ru/news/782604/?utm_campaign=782604&utm_source=habrahabr&utm_medium=rss)
 - [Учёные предложили использовать компьютерное зрение для оценки качества фруктов и овощей](https://habr.com/ru/news/782596/?utm_campaign=782596&utm_source=habrahabr&utm_medium=rss)
 - [Якутская студия Fntastic: серверы The Day Before прекратят работу 22 января 2024 года, деньги за игру всем вернут](https://habr.com/ru/news/782550/?utm_campaign=782550&utm_source=habrahabr&utm_medium=rss)
-- [Как боты адаптировались к новой GPT-реальности? Кейсы, инструменты и разбор полетов на Conversations’23](https://habr.com/ru/companies/just_ai/news/782542/?utm_campaign=782542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
