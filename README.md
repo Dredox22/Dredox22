@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На GitHub вышло превью Appcopier для локального/автономного резервного копирования и восстановления настроек Windows 11](https://habr.com/ru/news/782692/?utm_campaign=782692&utm_source=habrahabr&utm_medium=rss)
 - [Mundfish рассказала как создавались Близняшки](https://habr.com/ru/news/782688/?utm_campaign=782688&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал альфа-тест Midjourney V6](https://habr.com/ru/news/782670/?utm_campaign=782670&utm_source=habrahabr&utm_medium=rss)
 - [Расширенные курсы по мобильной разработке от Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/782140/?utm_campaign=782140&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GNU Autoconf 2.72 с поддержкой стандарта C23 и опцией безопасности --enable-year2038](https://habr.com/ru/news/782662/?utm_campaign=782662&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Китайская компания SMEE создала литографический сканер для выпуска 28 нм чипов](https://habr.com/ru/news/782658/?utm_campaign=782658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
