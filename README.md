@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Insomniac Games подтвердила факт взлома своих IT‑систем](https://habr.com/ru/news/782786/?utm_campaign=782786&utm_source=habrahabr&utm_medium=rss)
 - [Python-проект Wall of Flippers обнаруживает и логирует спам-атаки по Bluetooth c Flipper Zero и смартфонов на Android](https://habr.com/ru/news/782756/?utm_campaign=782756&utm_source=habrahabr&utm_medium=rss)
 - [На GitHub вышло превью Appcopier для локального/автономного резервного копирования и восстановления настроек Windows 11](https://habr.com/ru/news/782692/?utm_campaign=782692&utm_source=habrahabr&utm_medium=rss)
 - [Mundfish рассказала как создавались Близняшки](https://habr.com/ru/news/782688/?utm_campaign=782688&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал альфа-тест Midjourney V6](https://habr.com/ru/news/782670/?utm_campaign=782670&utm_source=habrahabr&utm_medium=rss)
-- [Расширенные курсы по мобильной разработке от Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/782140/?utm_campaign=782140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
