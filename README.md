@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SK Hynix форсирует разработку новой памяти HBM4 для нужд NVIDIA](https://habr.com/ru/companies/dcmiran/news/783136/?utm_campaign=783136&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман опубликовал самые популярные запросы пользователей для OpenAI на 2024 год: GPT-5, AGI, видео и многое другое](https://habr.com/ru/news/783122/?utm_campaign=783122&utm_source=habrahabr&utm_medium=rss)
 - [В Apple разрабатывают способ запуска больших языков моделей с использованием флеш-памяти мобильных устройств](https://habr.com/ru/news/783100/?utm_campaign=783100&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть PIGEON научилась определять местоположение объектов на фотографиях](https://habr.com/ru/news/783090/?utm_campaign=783090&utm_source=habrahabr&utm_medium=rss)
 - [Gems Development c помощью облака CloudMTS создает платформу для управления городами на основе данных](https://habr.com/ru/companies/cloud_mts/news/783086/?utm_campaign=783086&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Ruby 3.3](https://habr.com/ru/news/783084/?utm_campaign=783084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
