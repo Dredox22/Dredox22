@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Издатель инди-игр Versus Evil закрывается и увольняет всю команду разработчиков](https://habr.com/ru/news/782890/?utm_campaign=782890&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик из Дании Андерс Борх раскрыл свою стратегию по найму инженеров-программистов в команду](https://habr.com/ru/news/782840/?utm_campaign=782840&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон Секьюрити Принтинг» открыла первую линию по корпусированию микросхем для карт «Тройка»](https://habr.com/ru/news/782790/?utm_campaign=782790&utm_source=habrahabr&utm_medium=rss)
 - [Insomniac Games подтвердила факт взлома своих IT‑систем](https://habr.com/ru/news/782786/?utm_campaign=782786&utm_source=habrahabr&utm_medium=rss)
 - [Python-проект Wall of Flippers обнаруживает и логирует спам-атаки по Bluetooth c Flipper Zero и смартфонов на Android](https://habr.com/ru/news/782756/?utm_campaign=782756&utm_source=habrahabr&utm_medium=rss)
-- [На GitHub вышло превью Appcopier для локального/автономного резервного копирования и восстановления настроек Windows 11](https://habr.com/ru/news/782692/?utm_campaign=782692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
