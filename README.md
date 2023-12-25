@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России стартовали продажи первых ноутбуков отечественной сборки от бренда OSiO](https://habr.com/ru/companies/mvideo/news/783028/?utm_campaign=783028&utm_source=habrahabr&utm_medium=rss)
+- [Теперь на трех российских ОС: вышла новая версия Платформы nanoCAD для ОС Astra Linux, Alt Linux и РЕД ОС](https://habr.com/ru/companies/nanosoft/news/783016/?utm_campaign=783016&utm_source=habrahabr&utm_medium=rss)
+- [В Самарской области запустили завод по производству гражданских беспилотников](https://habr.com/ru/news/783010/?utm_campaign=783010&utm_source=habrahabr&utm_medium=rss)
 - [Российские операторы связи приступили к тестированию отечественных M2M SIM-карт для IoT](https://habr.com/ru/news/783000/?utm_campaign=783000&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» купил 50% в производителе электроники Kraftway](https://habr.com/ru/news/782992/?utm_campaign=782992&utm_source=habrahabr&utm_medium=rss)
-- [Российские разработчики выпустили аналог Tinder с ИИ-ассистентом](https://habr.com/ru/news/782968/?utm_campaign=782968&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь обновил Hue Bridge до Matter и сломал систему умного дома](https://habr.com/ru/news/782956/?utm_campaign=782956&utm_source=habrahabr&utm_medium=rss)
-- [Совместное европейское предприятие пяти крупных производителей будет продвигать архитектуру RISC-V](https://habr.com/ru/companies/dcmiran/news/782948/?utm_campaign=782948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
