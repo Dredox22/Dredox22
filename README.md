@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские разработчики выпустили аналог Tinder с ИИ-ассистентом](https://habr.com/ru/news/782968/?utm_campaign=782968&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь обновил Hue Bridge до Matter и сломал систему умного дома](https://habr.com/ru/news/782956/?utm_campaign=782956&utm_source=habrahabr&utm_medium=rss)
 - [Совместное европейское предприятие пяти крупных производителей будет продвигать архитектуру RISC-V](https://habr.com/ru/companies/dcmiran/news/782948/?utm_campaign=782948&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: оформление каналов, репосты из каналов в истории, статистика](https://habr.com/ru/news/782934/?utm_campaign=782934&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт уговорил чат-бота автодилера на базе ChatGPT продать ему новый внедорожник GM за $1](https://habr.com/ru/news/782926/?utm_campaign=782926&utm_source=habrahabr&utm_medium=rss)
-- [Beeper Mini удалили из Google Play](https://habr.com/ru/news/782904/?utm_campaign=782904&utm_source=habrahabr&utm_medium=rss)
-- [Apple планирует обучить свой ИИ на статьях в СМИ в рамках контрактов с издательствами на сумму $50 млн](https://habr.com/ru/news/782908/?utm_campaign=782908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
