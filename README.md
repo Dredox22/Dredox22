@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Apple разрабатывают способ запуска больших языков моделей с использованием флеш-памяти мобильных устройств](https://habr.com/ru/news/783100/?utm_campaign=783100&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть PIGEON научилась определять местоположение объектов на фотографиях](https://habr.com/ru/news/783090/?utm_campaign=783090&utm_source=habrahabr&utm_medium=rss)
 - [Gems Development c помощью облака CloudMTS создает платформу для управления городами на основе данных](https://habr.com/ru/companies/cloud_mts/news/783086/?utm_campaign=783086&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Ruby 3.3](https://habr.com/ru/news/783084/?utm_campaign=783084&utm_source=habrahabr&utm_medium=rss)
 - [МШЭ МГУ переводит обучение аналитиков на Visiology](https://habr.com/ru/companies/visiology/news/783070/?utm_campaign=783070&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/783068/?utm_campaign=783068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
