@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МШЭ МГУ переводит обучение аналитиков на Visiology](https://habr.com/ru/companies/visiology/news/783070/?utm_campaign=783070&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/783068/?utm_campaign=783068&utm_source=habrahabr&utm_medium=rss)
 - [В России стартовали продажи первых ноутбуков отечественной сборки от бренда OSiO](https://habr.com/ru/companies/mvideo/news/783028/?utm_campaign=783028&utm_source=habrahabr&utm_medium=rss)
 - [Теперь на трех российских ОС: вышла новая версия Платформы nanoCAD для ОС Astra Linux, Alt Linux и РЕД ОС](https://habr.com/ru/companies/nanosoft/news/783016/?utm_campaign=783016&utm_source=habrahabr&utm_medium=rss)
 - [В Самарской области запустили завод по производству гражданских беспилотников](https://habr.com/ru/news/783010/?utm_campaign=783010&utm_source=habrahabr&utm_medium=rss)
-- [Российские операторы связи приступили к тестированию отечественных M2M SIM-карт для IoT](https://habr.com/ru/news/783000/?utm_campaign=783000&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» купил 50% в производителе электроники Kraftway](https://habr.com/ru/news/782992/?utm_campaign=782992&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
