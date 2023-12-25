@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские операторы связи приступили к тестированию отечественных M2M SIM-карт для IoT](https://habr.com/ru/news/783000/?utm_campaign=783000&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» купил 50% в производителе электроники Kraftway](https://habr.com/ru/news/782992/?utm_campaign=782992&utm_source=habrahabr&utm_medium=rss)
 - [Российские разработчики выпустили аналог Tinder с ИИ-ассистентом](https://habr.com/ru/news/782968/?utm_campaign=782968&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь обновил Hue Bridge до Matter и сломал систему умного дома](https://habr.com/ru/news/782956/?utm_campaign=782956&utm_source=habrahabr&utm_medium=rss)
 - [Совместное европейское предприятие пяти крупных производителей будет продвигать архитектуру RISC-V](https://habr.com/ru/companies/dcmiran/news/782948/?utm_campaign=782948&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: оформление каналов, репосты из каналов в истории, статистика](https://habr.com/ru/news/782934/?utm_campaign=782934&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт уговорил чат-бота автодилера на базе ChatGPT продать ему новый внедорожник GM за $1](https://habr.com/ru/news/782926/?utm_campaign=782926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
