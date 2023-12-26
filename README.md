@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Canva стала партнёром GitHub для сканирования секретных токенов компании в публичных репозиториях](https://habr.com/ru/news/783158/?utm_campaign=783158&utm_source=habrahabr&utm_medium=rss)
+- [Huawei заняла пятое место в рейтинге крупнейших разработчиков процессоров, на первом — Qualcomm](https://habr.com/ru/news/783162/?utm_campaign=783162&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила версию носителя Windows 11 23H2 для чистой установки ОС](https://habr.com/ru/news/783156/?utm_campaign=783156&utm_source=habrahabr&utm_medium=rss)
 - [SK Hynix форсирует разработку новой памяти HBM4 для нужд NVIDIA](https://habr.com/ru/companies/dcmiran/news/783136/?utm_campaign=783136&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман опубликовал самые популярные запросы пользователей для OpenAI на 2024 год: GPT-5, AGI, видео и многое другое](https://habr.com/ru/news/783122/?utm_campaign=783122&utm_source=habrahabr&utm_medium=rss)
-- [В Apple разрабатывают способ запуска больших языков моделей с использованием флеш-памяти мобильных устройств](https://habr.com/ru/news/783100/?utm_campaign=783100&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть PIGEON научилась определять местоположение объектов на фотографиях](https://habr.com/ru/news/783090/?utm_campaign=783090&utm_source=habrahabr&utm_medium=rss)
-- [Gems Development c помощью облака CloudMTS создает платформу для управления городами на основе данных](https://habr.com/ru/companies/cloud_mts/news/783086/?utm_campaign=783086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
