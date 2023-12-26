@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» завершил перенос серверов yandex.kz в Казахстан](https://habr.com/ru/news/783340/?utm_campaign=783340&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия Postgres Pro Enterprise 16.1.1](https://habr.com/ru/news/783318/?utm_campaign=783318&utm_source=habrahabr&utm_medium=rss)
 - [Представлена дата релиза пошаговой инди‑тактики с элементами roguelike «Песнь Копья»](https://habr.com/ru/news/783308/?utm_campaign=783308&utm_source=habrahabr&utm_medium=rss)
 - [Кибершпионы Sticky Werewolf опять попытались атаковать российскую фарму](https://habr.com/ru/companies/f_a_c_c_t/news/783294/?utm_campaign=783294&utm_source=habrahabr&utm_medium=rss)
 - [Две российские ассоциации разработчиков видеоигр подготовили предложения по развитию отрасли](https://habr.com/ru/news/783258/?utm_campaign=783258&utm_source=habrahabr&utm_medium=rss)
-- [Бортовой ПК Ford из-за ошибки при обновлении ПО не смог установить апдейт и заблокировал опцию передвижения машины](https://habr.com/ru/news/783256/?utm_campaign=783256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
