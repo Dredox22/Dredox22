@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла система документирования Doxygen 1.10](https://habr.com/ru/news/783370/?utm_campaign=783370&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для аналитики пулл реквестов и процесса код ревью](https://habr.com/ru/news/783366/?utm_campaign=783366&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» завершил перенос серверов yandex.kz в Казахстан](https://habr.com/ru/news/783340/?utm_campaign=783340&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия Postgres Pro Enterprise 16.1.1](https://habr.com/ru/news/783318/?utm_campaign=783318&utm_source=habrahabr&utm_medium=rss)
 - [Представлена дата релиза пошаговой инди‑тактики с элементами roguelike «Песнь Копья»](https://habr.com/ru/news/783308/?utm_campaign=783308&utm_source=habrahabr&utm_medium=rss)
-- [Кибершпионы Sticky Werewolf опять попытались атаковать российскую фарму](https://habr.com/ru/companies/f_a_c_c_t/news/783294/?utm_campaign=783294&utm_source=habrahabr&utm_medium=rss)
-- [Две российские ассоциации разработчиков видеоигр подготовили предложения по развитию отрасли](https://habr.com/ru/news/783258/?utm_campaign=783258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
