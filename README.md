@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователь выяснил, может ли ИИ заменить фермы по вводу капчи](https://habr.com/ru/news/783176/?utm_campaign=783176&utm_source=habrahabr&utm_medium=rss)
+- [В сети опубликована новая часть утёкшего ранее исходного кода GTA V](https://habr.com/ru/news/783170/?utm_campaign=783170&utm_source=habrahabr&utm_medium=rss)
+- [Представлены подробности атаки спуфинга почтовых сообщений SMTP Smuggling](https://habr.com/ru/news/783164/?utm_campaign=783164&utm_source=habrahabr&utm_medium=rss)
 - [Canva стала партнёром GitHub для сканирования секретных токенов компании в публичных репозиториях](https://habr.com/ru/news/783158/?utm_campaign=783158&utm_source=habrahabr&utm_medium=rss)
 - [Huawei заняла пятое место в рейтинге крупнейших разработчиков процессоров, на первом — Qualcomm](https://habr.com/ru/news/783162/?utm_campaign=783162&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила версию носителя Windows 11 23H2 для чистой установки ОС](https://habr.com/ru/news/783156/?utm_campaign=783156&utm_source=habrahabr&utm_medium=rss)
-- [SK Hynix форсирует разработку новой памяти HBM4 для нужд NVIDIA](https://habr.com/ru/companies/dcmiran/news/783136/?utm_campaign=783136&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман опубликовал самые популярные запросы пользователей для OpenAI на 2024 год: GPT-5, AGI, видео и многое другое](https://habr.com/ru/news/783122/?utm_campaign=783122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
