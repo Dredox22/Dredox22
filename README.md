@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия Postgres Pro Enterprise 16.1.1](https://habr.com/ru/news/783318/?utm_campaign=783318&utm_source=habrahabr&utm_medium=rss)
+- [Представлена дата релиза пошаговой инди‑тактики с элементами roguelike «Песнь Копья»](https://habr.com/ru/news/783308/?utm_campaign=783308&utm_source=habrahabr&utm_medium=rss)
+- [Кибершпионы Sticky Werewolf опять попытались атаковать российскую фарму](https://habr.com/ru/companies/f_a_c_c_t/news/783294/?utm_campaign=783294&utm_source=habrahabr&utm_medium=rss)
 - [Две российские ассоциации разработчиков видеоигр подготовили предложения по развитию отрасли](https://habr.com/ru/news/783258/?utm_campaign=783258&utm_source=habrahabr&utm_medium=rss)
 - [Бортовой ПК Ford из-за ошибки при обновлении ПО не смог установить апдейт и заблокировал опцию передвижения машины](https://habr.com/ru/news/783256/?utm_campaign=783256&utm_source=habrahabr&utm_medium=rss)
-- [Поехали!? Новая игра от RUVDS позволит прочувствовать проблему космического мусора](https://habr.com/ru/companies/ruvds/news/783246/?utm_campaign=783246&utm_source=habrahabr&utm_medium=rss)
-- [Правительство хочет ввести обязательный минимум ассортимента российской электроники в магазинах](https://habr.com/ru/news/783194/?utm_campaign=783194&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь выяснил, может ли ИИ заменить фермы по вводу капчи](https://habr.com/ru/news/783176/?utm_campaign=783176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
