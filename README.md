@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поехали!? Новая игра от RUVDS позволит прочувствовать проблему космического мусора](https://habr.com/ru/companies/ruvds/news/783246/?utm_campaign=783246&utm_source=habrahabr&utm_medium=rss)
 - [Правительство хочет ввести обязательный минимум ассортимента российской электроники в магазинах](https://habr.com/ru/news/783194/?utm_campaign=783194&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь выяснил, может ли ИИ заменить фермы по вводу капчи](https://habr.com/ru/news/783176/?utm_campaign=783176&utm_source=habrahabr&utm_medium=rss)
 - [В сети опубликована новая часть утёкшего ранее исходного кода GTA V](https://habr.com/ru/news/783170/?utm_campaign=783170&utm_source=habrahabr&utm_medium=rss)
 - [Представлены подробности атаки спуфинга почтовых сообщений SMTP Smuggling](https://habr.com/ru/news/783164/?utm_campaign=783164&utm_source=habrahabr&utm_medium=rss)
-- [Canva стала партнёром GitHub для сканирования секретных токенов компании в публичных репозиториях](https://habr.com/ru/news/783158/?utm_campaign=783158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
