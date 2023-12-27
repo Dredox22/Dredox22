@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили расширение для Chrome, которое показывает ссылки на пиратские версии игр в Steam](https://habr.com/ru/news/783628/?utm_campaign=783628&utm_source=habrahabr&utm_medium=rss)
+- [LG показала прототип домашнего робота на колёсиках с ИИ](https://habr.com/ru/news/783626/?utm_campaign=783626&utm_source=habrahabr&utm_medium=rss)
 - [Задача о хитрых ACL. Сможете решить?](https://habr.com/ru/companies/selectel/news/783552/?utm_campaign=783552&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» открыл приём заявок на ранний доступ к своему AI-ассистенту для кодинга GigaCode &lpar;аналогу GitHub Copilot&rpar;](https://habr.com/ru/news/783522/?utm_campaign=783522&utm_source=habrahabr&utm_medium=rss)
 - [Япония разрабатывает антимонопольный законопроект, требующий разрешить сторонние магазины приложений на iOS и Android](https://habr.com/ru/news/783500/?utm_campaign=783500&utm_source=habrahabr&utm_medium=rss)
-- [С 1 января вся бухгалтерия — только на серверах в РФ](https://habr.com/ru/companies/ruvds/news/783468/?utm_campaign=783468&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Музее» открылась выставка «Знакомьтесь, робот-доставщик»](https://habr.com/ru/news/783490/?utm_campaign=783490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
