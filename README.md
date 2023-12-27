@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России создадут базу данных IP-адресов для «охраны цифрового периметра»](https://habr.com/ru/news/783434/?utm_campaign=783434&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг отказался смягчать систему баллов для отечественной электроники](https://habr.com/ru/news/783430/?utm_campaign=783430&utm_source=habrahabr&utm_medium=rss)
+- [GitHub напомнил о необходимости включить 2FA до 19 января](https://habr.com/ru/news/783422/?utm_campaign=783422&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Copilot на Android теперь доступен в виде мобильного приложения](https://habr.com/ru/news/783418/?utm_campaign=783418&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует опцию переустановки Windows 11 самой по себе через «Центр обновления Windows»](https://habr.com/ru/news/783414/?utm_campaign=783414&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система документирования Doxygen 1.10](https://habr.com/ru/news/783370/?utm_campaign=783370&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для аналитики пулл реквестов и процесса код ревью](https://habr.com/ru/news/783366/?utm_campaign=783366&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» завершил перенос серверов yandex.kz в Казахстан](https://habr.com/ru/news/783340/?utm_campaign=783340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
