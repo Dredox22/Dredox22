@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Copilot на Android теперь доступен в виде мобильного приложения](https://habr.com/ru/news/783418/?utm_campaign=783418&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует опцию переустановки Windows 11 самой по себе через «Центр обновления Windows»](https://habr.com/ru/news/783414/?utm_campaign=783414&utm_source=habrahabr&utm_medium=rss)
 - [Вышла система документирования Doxygen 1.10](https://habr.com/ru/news/783370/?utm_campaign=783370&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для аналитики пулл реквестов и процесса код ревью](https://habr.com/ru/news/783366/?utm_campaign=783366&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» завершил перенос серверов yandex.kz в Казахстан](https://habr.com/ru/news/783340/?utm_campaign=783340&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия Postgres Pro Enterprise 16.1.1](https://habr.com/ru/news/783318/?utm_campaign=783318&utm_source=habrahabr&utm_medium=rss)
-- [Представлена дата релиза пошаговой инди‑тактики с элементами roguelike «Песнь Копья»](https://habr.com/ru/news/783308/?utm_campaign=783308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
