@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» открыл приём заявок на ранний доступ к своему AI-ассистенту для кодинга GigaCode &lpar;аналогу GitHub Copilot&rpar;](https://habr.com/ru/news/783522/?utm_campaign=783522&utm_source=habrahabr&utm_medium=rss)
 - [Япония разрабатывает антимонопольный законопроект, требующий разрешить сторонние магазины приложений на iOS и Android](https://habr.com/ru/news/783500/?utm_campaign=783500&utm_source=habrahabr&utm_medium=rss)
 - [С 1 января вся бухгалтерия — только на серверах в РФ](https://habr.com/ru/companies/ruvds/news/783468/?utm_campaign=783468&utm_source=habrahabr&utm_medium=rss)
 - [В музее «Яндекса» открылась выставка «Знакомьтесь, робот-доставщик»](https://habr.com/ru/news/783490/?utm_campaign=783490&utm_source=habrahabr&utm_medium=rss)
 - [В Windows для ЕС поменяется способ доступа приложений к аккаунту Microsoft](https://habr.com/ru/news/783482/?utm_campaign=783482&utm_source=habrahabr&utm_medium=rss)
-- [Steam прекратит поддержку Windows 7 и Windows 8 уже с 1 января 2024 года](https://habr.com/ru/companies/dcmiran/news/783454/?utm_campaign=783454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
