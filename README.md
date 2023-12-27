@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Япония разрабатывает антимонопольный законопроект, требующий разрешить сторонние магазины приложений на iOS и Android](https://habr.com/ru/news/783500/?utm_campaign=783500&utm_source=habrahabr&utm_medium=rss)
+- [С 1 января вся бухгалтерия — только на серверах в РФ](https://habr.com/ru/companies/ruvds/news/783468/?utm_campaign=783468&utm_source=habrahabr&utm_medium=rss)
 - [В музее «Яндекса» открылась выставка «Знакомьтесь, робот-доставщик»](https://habr.com/ru/news/783490/?utm_campaign=783490&utm_source=habrahabr&utm_medium=rss)
 - [В Windows для ЕС поменяется способ доступа приложений к аккаунту Microsoft](https://habr.com/ru/news/783482/?utm_campaign=783482&utm_source=habrahabr&utm_medium=rss)
 - [Steam прекратит поддержку Windows 7 и Windows 8 уже с 1 января 2024 года](https://habr.com/ru/companies/dcmiran/news/783454/?utm_campaign=783454&utm_source=habrahabr&utm_medium=rss)
-- [В России создадут базу данных IP-адресов для «охраны цифрового периметра»](https://habr.com/ru/news/783434/?utm_campaign=783434&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг отказался смягчать систему баллов для отечественной электроники](https://habr.com/ru/news/783430/?utm_campaign=783430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
