@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В музее «Яндекса» открылась выставка «Знакомьтесь, робот-доставщик»](https://habr.com/ru/news/783490/?utm_campaign=783490&utm_source=habrahabr&utm_medium=rss)
+- [В Windows для ЕС поменяется способ доступа приложений к аккаунту Microsoft](https://habr.com/ru/news/783482/?utm_campaign=783482&utm_source=habrahabr&utm_medium=rss)
 - [Steam прекратит поддержку Windows 7 и Windows 8 уже с 1 января 2024 года](https://habr.com/ru/companies/dcmiran/news/783454/?utm_campaign=783454&utm_source=habrahabr&utm_medium=rss)
 - [В России создадут базу данных IP-адресов для «охраны цифрового периметра»](https://habr.com/ru/news/783434/?utm_campaign=783434&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг отказался смягчать систему баллов для отечественной электроники](https://habr.com/ru/news/783430/?utm_campaign=783430&utm_source=habrahabr&utm_medium=rss)
-- [GitHub напомнил о необходимости включить 2FA до 19 января](https://habr.com/ru/news/783422/?utm_campaign=783422&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Copilot на Android теперь доступен в виде мобильного приложения](https://habr.com/ru/news/783418/?utm_campaign=783418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
