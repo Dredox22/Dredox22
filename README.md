@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 622 млн звонков с подменных номеров](https://habr.com/ru/news/783684/?utm_campaign=783684&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ отменил комиссию за переводы между своими счетами в разных банках по СБП](https://habr.com/ru/news/783674/?utm_campaign=783674&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» раскрыла аппаратную загадку атаки «Операция Триангуляция»](https://habr.com/ru/news/783676/?utm_campaign=783676&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили расширение для Chrome, которое показывает ссылки на пиратские версии игр в Steam](https://habr.com/ru/news/783628/?utm_campaign=783628&utm_source=habrahabr&utm_medium=rss)
 - [LG показала прототип домашнего робота на колёсиках с ИИ](https://habr.com/ru/news/783626/?utm_campaign=783626&utm_source=habrahabr&utm_medium=rss)
-- [Задача о хитрых ACL. Сможете решить?](https://habr.com/ru/companies/selectel/news/783552/?utm_campaign=783552&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» открыл приём заявок на ранний доступ к своему AI-ассистенту для кодинга GigaCode &lpar;аналогу GitHub Copilot&rpar;](https://habr.com/ru/news/783522/?utm_campaign=783522&utm_source=habrahabr&utm_medium=rss)
-- [Япония разрабатывает антимонопольный законопроект, требующий разрешить сторонние магазины приложений на iOS и Android](https://habr.com/ru/news/783500/?utm_campaign=783500&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
