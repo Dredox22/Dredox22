@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Власти поручили внедрить биометрию в университетах](https://habr.com/ru/news/783788/?utm_campaign=783788&utm_source=habrahabr&utm_medium=rss)
+- [Власти Беларуси сократят финансирование космической программы ради картофелехранилища](https://habr.com/ru/news/783774/?utm_campaign=783774&utm_source=habrahabr&utm_medium=rss)
+- [В Минцифры разработают способы распознавания дипфейков](https://habr.com/ru/news/783786/?utm_campaign=783786&utm_source=habrahabr&utm_medium=rss)
 - [Запуск ежегодного исследования PHP-сообщества и первые 400 ответов](https://habr.com/ru/companies/skyeng/news/783750/?utm_campaign=783750&utm_source=habrahabr&utm_medium=rss)
 - [В 2023 году Роскомнадзор внёс в реестр запрещённой информации 529 тыс. страниц — на 10% меньше, чем в прошлом году](https://habr.com/ru/news/783730/?utm_campaign=783730&utm_source=habrahabr&utm_medium=rss)
-- [Мы выпустили новую версию API с поддержкой спецификации OpenAPI 3.0.0](https://habr.com/ru/companies/ruvds/news/783718/?utm_campaign=783718&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 622 млн звонков с подменных номеров](https://habr.com/ru/news/783684/?utm_campaign=783684&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ отменил комиссию за переводы между своими счетами в разных банках по СБП](https://habr.com/ru/news/783674/?utm_campaign=783674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
