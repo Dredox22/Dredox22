@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработана технология прямой лазерной записи дифракционных структур на двухслойных материалах](https://habr.com/ru/news/783862/?utm_campaign=783862&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из NTU создали ИИ-модель, помогающую обойти ограничения в чат-ботах](https://habr.com/ru/news/783886/?utm_campaign=783886&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» рассказала о категориях сайтов и приложений, представляющих интерес для фишинга в 2023 году](https://habr.com/ru/news/783852/?utm_campaign=783852&utm_source=habrahabr&utm_medium=rss)
 - [В Латвии регуляторно запретили доступ ко всем сайтам сервисов «Яндекса»](https://habr.com/ru/news/783844/?utm_campaign=783844&utm_source=habrahabr&utm_medium=rss)
 - [Baidu: число пользователей чат-бота Ernie Bot достигло 100 млн](https://habr.com/ru/news/783818/?utm_campaign=783818&utm_source=habrahabr&utm_medium=rss)
-- [Власти поручили внедрить биометрию в университетах](https://habr.com/ru/news/783788/?utm_campaign=783788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
