@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запуск ежегодного исследования PHP-сообщества и первые 400 ответов](https://habr.com/ru/companies/skyeng/news/783750/?utm_campaign=783750&utm_source=habrahabr&utm_medium=rss)
+- [В 2023 году Роскомнадзор внёс в реестр запрещённой информации 529 тыс. страниц — на 10% меньше, чем в прошлом году](https://habr.com/ru/news/783730/?utm_campaign=783730&utm_source=habrahabr&utm_medium=rss)
 - [Мы выпустили новую версию API с поддержкой спецификации OpenAPI 3.0.0](https://habr.com/ru/companies/ruvds/news/783718/?utm_campaign=783718&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 622 млн звонков с подменных номеров](https://habr.com/ru/news/783684/?utm_campaign=783684&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ отменил комиссию за переводы между своими счетами в разных банках по СБП](https://habr.com/ru/news/783674/?utm_campaign=783674&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» раскрыла аппаратную загадку атаки «Операция Триангуляция»](https://habr.com/ru/news/783676/?utm_campaign=783676&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили расширение для Chrome, которое показывает ссылки на пиратские версии игр в Steam](https://habr.com/ru/news/783628/?utm_campaign=783628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
