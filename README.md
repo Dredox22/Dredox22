@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мы выпустили новую версию API с поддержкой спецификации OpenAPI 3.0.0](https://habr.com/ru/companies/ruvds/news/783718/?utm_campaign=783718&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: платформа «Антифрод» с момента запуска заблокировала 622 млн звонков с подменных номеров](https://habr.com/ru/news/783684/?utm_campaign=783684&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ отменил комиссию за переводы между своими счетами в разных банках по СБП](https://habr.com/ru/news/783674/?utm_campaign=783674&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» раскрыла аппаратную загадку атаки «Операция Триангуляция»](https://habr.com/ru/news/783676/?utm_campaign=783676&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили расширение для Chrome, которое показывает ссылки на пиратские версии игр в Steam](https://habr.com/ru/news/783628/?utm_campaign=783628&utm_source=habrahabr&utm_medium=rss)
-- [LG показала прототип домашнего робота на колёсиках с ИИ](https://habr.com/ru/news/783626/?utm_campaign=783626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
