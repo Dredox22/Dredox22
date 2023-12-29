@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа nanoCAD 23 работает на ОС Astra Linux](https://habr.com/ru/companies/nanosoft/news/783982/?utm_campaign=783982&utm_source=habrahabr&utm_medium=rss)
+- [Google удалила из Chrome Web Store три фейковых VPN-расширения с 1 млн скачиваний](https://habr.com/ru/news/783978/?utm_campaign=783978&utm_source=habrahabr&utm_medium=rss)
+- [Wired назвало Маска и Альтмана самыми опасными людьми в Интернете в 2023 году](https://habr.com/ru/news/783962/?utm_campaign=783962&utm_source=habrahabr&utm_medium=rss)
 - [Марсоход «Кьюриосити» запечатлел марсианский день от рассвета до заката](https://habr.com/ru/news/783954/?utm_campaign=783954&utm_source=habrahabr&utm_medium=rss)
 - [Dell показала поиск меню в ОС и изменение параметров настроек с помощью Windows Copilot](https://habr.com/ru/news/783950/?utm_campaign=783950&utm_source=habrahabr&utm_medium=rss)
-- [РЖД в 2024 году выпустит PWA-приложение по продаже билетов онлайн](https://habr.com/ru/news/783944/?utm_campaign=783944&utm_source=habrahabr&utm_medium=rss)
-- [Новогодний ML-чемпионат от hh.ru](https://habr.com/ru/companies/hh/news/783832/?utm_campaign=783832&utm_source=habrahabr&utm_medium=rss)
-- [Квест по замещению закрытых сервисов и блокированного ПО на аналоги или доступные альтернативы [ver. 29.12.23]](https://habr.com/ru/news/783936/?utm_campaign=783936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
