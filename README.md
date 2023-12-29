@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Марсоход «Кьюриосити» запечатлел марсианский день от рассвета до заката](https://habr.com/ru/news/783954/?utm_campaign=783954&utm_source=habrahabr&utm_medium=rss)
+- [Dell показала поиск меню в ОС и изменение параметров настроек с помощью Windows Copilot](https://habr.com/ru/news/783950/?utm_campaign=783950&utm_source=habrahabr&utm_medium=rss)
 - [РЖД в 2024 году выпустит PWA-приложение по продаже билетов онлайн](https://habr.com/ru/news/783944/?utm_campaign=783944&utm_source=habrahabr&utm_medium=rss)
 - [Новогодний ML-чемпионат от hh.ru](https://habr.com/ru/companies/hh/news/783832/?utm_campaign=783832&utm_source=habrahabr&utm_medium=rss)
 - [Квест по замещению закрытых сервисов и блокированного ПО на аналоги или доступные альтернативы [ver. 29.12.23]](https://habr.com/ru/news/783936/?utm_campaign=783936&utm_source=habrahabr&utm_medium=rss)
-- [Резидент «Сколково» зарегистрировал ИИ-систему для диагностики онкологических заболеваний кожи](https://habr.com/ru/news/783872/?utm_campaign=783872&utm_source=habrahabr&utm_medium=rss)
-- [Разработана технология прямой лазерной записи дифракционных структур на двухслойных материалах](https://habr.com/ru/news/783862/?utm_campaign=783862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
