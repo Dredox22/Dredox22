@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новогодний ML-чемпионат от hh.ru](https://habr.com/ru/companies/hh/news/783832/?utm_campaign=783832&utm_source=habrahabr&utm_medium=rss)
+- [Квест по замещению закрытых сервисов и блокированного ПО на аналоги или доступные альтернативы [ver. 29.12.23]](https://habr.com/ru/news/783936/?utm_campaign=783936&utm_source=habrahabr&utm_medium=rss)
 - [Резидент «Сколково» зарегистрировал ИИ-систему для диагностики онкологических заболеваний кожи](https://habr.com/ru/news/783872/?utm_campaign=783872&utm_source=habrahabr&utm_medium=rss)
 - [Разработана технология прямой лазерной записи дифракционных структур на двухслойных материалах](https://habr.com/ru/news/783862/?utm_campaign=783862&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из NTU создали ИИ-модель, помогающую обойти ограничения в чат-ботах](https://habr.com/ru/news/783886/?utm_campaign=783886&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» рассказала о категориях сайтов и приложений, представляющих интерес для фишинга в 2023 году](https://habr.com/ru/news/783852/?utm_campaign=783852&utm_source=habrahabr&utm_medium=rss)
-- [В Латвии регуляторно запретили доступ ко всем сайтам сервисов «Яндекса»](https://habr.com/ru/news/783844/?utm_campaign=783844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
