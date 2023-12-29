@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа VK Play подвела игровые итоги 2023 года](https://habr.com/ru/news/784094/?utm_campaign=784094&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты ИБ‑компании выявили три уязвимости в устройствах учёта энергоресурсов производства компании «Энергомера»](https://habr.com/ru/news/784024/?utm_campaign=784024&utm_source=habrahabr&utm_medium=rss)
 - [В России предложили создать реестр каналов телеграм-блогеров](https://habr.com/ru/news/784018/?utm_campaign=784018&utm_source=habrahabr&utm_medium=rss)
 - [Пирамида инфраструктурного стека «Группы Астра», или Как быстро зарядиться праздничным настроением](https://habr.com/ru/companies/astralinux/news/784008/?utm_campaign=784008&utm_source=habrahabr&utm_medium=rss)
 - [Платформа nanoCAD 23 работает на ОС Astra Linux](https://habr.com/ru/companies/nanosoft/news/783982/?utm_campaign=783982&utm_source=habrahabr&utm_medium=rss)
-- [Google удалила из Chrome Web Store три фейковых VPN-расширения с 1 млн скачиваний](https://habr.com/ru/news/783978/?utm_campaign=783978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
