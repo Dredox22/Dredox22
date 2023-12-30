@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло приложение Microsoft Copilot для iOS и iPadOS](https://habr.com/ru/news/784160/?utm_campaign=784160&utm_source=habrahabr&utm_medium=rss)
+- [Фанатский мод Downfall для карточной roguelike‑игры Slay the Spire был заражён вредоносом Epsilon](https://habr.com/ru/news/784154/?utm_campaign=784154&utm_source=habrahabr&utm_medium=rss)
 - [Smart Engines обучила ИИ видеть скрытые пространства и запатентовала технологию в США](https://habr.com/ru/companies/smartengines/news/784132/?utm_campaign=784132&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot Chat стал общедоступным &lpar;по подписке&rpar; для организаций и частных лиц](https://habr.com/ru/news/784120/?utm_campaign=784120&utm_source=habrahabr&utm_medium=rss)
 - [Платформа VK Play подвела игровые итоги 2023 года](https://habr.com/ru/news/784094/?utm_campaign=784094&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты ИБ‑компании выявили три уязвимости в устройствах учёта энергоресурсов производства компании «Энергомера»](https://habr.com/ru/news/784024/?utm_campaign=784024&utm_source=habrahabr&utm_medium=rss)
-- [В России предложили создать реестр каналов телеграм-блогеров](https://habr.com/ru/news/784018/?utm_campaign=784018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
