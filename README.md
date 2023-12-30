@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Smart Engines обучила ИИ видеть скрытые пространства и запатентовала технологию в США](https://habr.com/ru/companies/smartengines/news/784132/?utm_campaign=784132&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot Chat стал общедоступным для организаций и частных лиц](https://habr.com/ru/news/784120/?utm_campaign=784120&utm_source=habrahabr&utm_medium=rss)
 - [Платформа VK Play подвела игровые итоги 2023 года](https://habr.com/ru/news/784094/?utm_campaign=784094&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты ИБ‑компании выявили три уязвимости в устройствах учёта энергоресурсов производства компании «Энергомера»](https://habr.com/ru/news/784024/?utm_campaign=784024&utm_source=habrahabr&utm_medium=rss)
 - [В России предложили создать реестр каналов телеграм-блогеров](https://habr.com/ru/news/784018/?utm_campaign=784018&utm_source=habrahabr&utm_medium=rss)
-- [Пирамида инфраструктурного стека «Группы Астра», или Как быстро зарядиться праздничным настроением](https://habr.com/ru/companies/astralinux/news/784008/?utm_campaign=784008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
