@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Линус Торвальдс выпустил 31 декабря Linux 6.7-rc8 и поздравил мейнтейнеров проекта с новым годом](https://habr.com/ru/news/784310/?utm_campaign=784310&utm_source=habrahabr&utm_medium=rss)
 - [С 1 января 2024 года Steam прекратила поддержку Windows 7 и Windows 8/8.1 в игровом клиенте](https://habr.com/ru/news/784306/?utm_campaign=784306&utm_source=habrahabr&utm_medium=rss)
 - [Vizio согласилась выплатить компенсацию в $3 млн за заявления о «ложной» частоте обновления &lpar;120 Гц и 240 Гц&rpar; в своих ТВ](https://habr.com/ru/news/784232/?utm_campaign=784232&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры «Смута» рассказали о влиянии образов героя на геймплей и о мире игры](https://habr.com/ru/news/784198/?utm_campaign=784198&utm_source=habrahabr&utm_medium=rss)
 - [Вышло приложение Microsoft Copilot для iOS и iPadOS](https://habr.com/ru/news/784160/?utm_campaign=784160&utm_source=habrahabr&utm_medium=rss)
-- [Фанатский мод Downfall для карточной roguelike‑игры Slay the Spire был заражён вредоносом Epsilon](https://habr.com/ru/news/784154/?utm_campaign=784154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
