@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Часть пользователей после обновления iPhone до iOS 17.2.1 не могут совершать звонки или использовать мобильный интернет](https://habr.com/ru/news/784366/?utm_campaign=784366&utm_source=habrahabr&utm_medium=rss)
 - [Версия Микки Мауса из «Пароходика Вилли» стала общественным достоянием, по ней представлена игра Infestation 88](https://habr.com/ru/news/784338/?utm_campaign=784338&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Scribus 1.6](https://habr.com/ru/news/784336/?utm_campaign=784336&utm_source=habrahabr&utm_medium=rss)
 - [В Японии запустят летающие базовые станции в 2025 году](https://habr.com/ru/news/784314/?utm_campaign=784314&utm_source=habrahabr&utm_medium=rss)
 - [Nikon, Sony и Canon представили технологию камер для борьбы с дипфейками](https://habr.com/ru/news/784312/?utm_campaign=784312&utm_source=habrahabr&utm_medium=rss)
-- [Линус Торвальдс выпустил 31 декабря Linux 6.7-rc8 и поздравил мейнтейнеров проекта с новым годом](https://habr.com/ru/news/784310/?utm_campaign=784310&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
