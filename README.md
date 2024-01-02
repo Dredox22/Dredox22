@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Microsoft занялись устранением проблемы в меню «Пуск» в Windows](https://habr.com/ru/news/784390/?utm_campaign=784390&utm_source=habrahabr&utm_medium=rss)
+- [CloudSEK раскрыла метод взлома OAuth 2.0 для компрометации аккаунтов Google](https://habr.com/ru/news/784380/?utm_campaign=784380&utm_source=habrahabr&utm_medium=rss)
 - [PyPI перешёл на обязательную двухфакторную аутентификацию &lpar;2FA&rpar; для всех пользователей](https://habr.com/ru/news/784370/?utm_campaign=784370&utm_source=habrahabr&utm_medium=rss)
 - [Часть пользователей после обновления iPhone до iOS 17.2.1 не могут совершать звонки или использовать мобильный интернет](https://habr.com/ru/news/784366/?utm_campaign=784366&utm_source=habrahabr&utm_medium=rss)
 - [Версия Микки Мауса из «Пароходика Вилли» стала общественным достоянием, по ней представлена игра Infestation 88](https://habr.com/ru/news/784338/?utm_campaign=784338&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Scribus 1.6](https://habr.com/ru/news/784336/?utm_campaign=784336&utm_source=habrahabr&utm_medium=rss)
-- [В Японии запустят летающие базовые станции в 2025 году](https://habr.com/ru/news/784314/?utm_campaign=784314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
