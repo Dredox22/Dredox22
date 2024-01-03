@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила патч для OneNote 2016 из-за сбоев синхронизации](https://habr.com/ru/news/784498/?utm_campaign=784498&utm_source=habrahabr&utm_medium=rss)
 - [13-летний игрок Вилли &lpar;aka Blue Scuti&rpar; в «Тетрис» на оригинальной NES стал первым человеком, кто победил в игре](https://habr.com/ru/news/784486/?utm_campaign=784486&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Vim 9.1, который посвящён его создателю Браму Моленару](https://habr.com/ru/news/784472/?utm_campaign=784472&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft занялись устранением проблемы в меню «Пуск» в Windows](https://habr.com/ru/news/784390/?utm_campaign=784390&utm_source=habrahabr&utm_medium=rss)
 - [CloudSEK раскрыла метод взлома OAuth 2.0 для компрометации аккаунтов Google](https://habr.com/ru/news/784380/?utm_campaign=784380&utm_source=habrahabr&utm_medium=rss)
-- [PyPI перешёл на обязательную двухфакторную аутентификацию &lpar;2FA&rpar; для всех пользователей](https://habr.com/ru/news/784370/?utm_campaign=784370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
