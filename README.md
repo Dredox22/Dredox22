@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение рефлексивных игр и задач информационного управления в модели «наступление – оборона» на тактическом уровне](https://habr.com/ru/news/739356/?utm_campaign=739356&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт показал концепцию GUI современной версии Windows XP, если бы она вышла вместо Windows 11](https://habr.com/ru/news/784546/?utm_campaign=784546&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила патч для OneNote 2016 из-за сбоев синхронизации](https://habr.com/ru/news/784498/?utm_campaign=784498&utm_source=habrahabr&utm_medium=rss)
 - [13-летний игрок Вилли &lpar;aka Blue Scuti&rpar; в «Тетрис» на оригинальной NES стал первым человеком, кто победил в игре](https://habr.com/ru/news/784486/?utm_campaign=784486&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Vim 9.1, который посвящён его создателю Браму Моленару](https://habr.com/ru/news/784472/?utm_campaign=784472&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft занялись устранением проблемы в меню «Пуск» в Windows](https://habr.com/ru/news/784390/?utm_campaign=784390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
