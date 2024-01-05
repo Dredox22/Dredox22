@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генпрокуратура Казахстана подтвердила факт выдачи в Россию сотрудника бывшей Group-IB Никиты Кислицина](https://habr.com/ru/news/784662/?utm_campaign=784662&utm_source=habrahabr&utm_medium=rss)
+- [Clicks Technology представила чехол для iPhone со встроенной клавиатурой внизу Clicks Creator Keyboard за $139](https://habr.com/ru/news/784658/?utm_campaign=784658&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила о замене одной из кнопок Win на всех новых клавиатурах на кнопку для запуска ИИ-помощника Copilot](https://habr.com/ru/news/784614/?utm_campaign=784614&utm_source=habrahabr&utm_medium=rss)
 - [Apple отозвала iOS 17.3 beta 2 спустя несколько часов после релиза из-за жалоб на окирпичивание iPhone у тестеров](https://habr.com/ru/news/784588/?utm_campaign=784588&utm_source=habrahabr&utm_medium=rss)
 - [LastPass ограничил минимальную длину мастер-паролей 12 символами](https://habr.com/ru/news/784586/?utm_campaign=784586&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила голосовые ярлыки в Windows 11](https://habr.com/ru/news/784578/?utm_campaign=784578&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный UEVR мод делает из «плоских» ПК игр полноценные 6DoF VR игры &lpar;1000+ игр уже в VR!&rpar;](https://habr.com/ru/news/784570/?utm_campaign=784570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
