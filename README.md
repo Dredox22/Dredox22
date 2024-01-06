@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для Linux вышел патч против неожиданной перезагрузки ПК на AMD Ryzen при подключении устройств по FireWire](https://habr.com/ru/news/784780/?utm_campaign=784780&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия эмулятора Qemu процессора Эльбрус](https://habr.com/ru/news/784752/?utm_campaign=784752&utm_source=habrahabr&utm_medium=rss)
 - [Пакет Everything, охватывающий зависимостями все пакеты в репозитории NPM, случайно чуть не сломал NPM](https://habr.com/ru/news/784714/?utm_campaign=784714&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX запустила первые тестовые спутники Starlink для подключения мобильных телефонов напрямую через Direct to Cell](https://habr.com/ru/news/784694/?utm_campaign=784694&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI откроет официальный GPT Store на следующей неделе](https://habr.com/ru/news/784676/?utm_campaign=784676&utm_source=habrahabr&utm_medium=rss)
-- [RIPE NCC заявил о компрометации учётных данных](https://habr.com/ru/news/784672/?utm_campaign=784672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
