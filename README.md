@@ -72,7 +72,7 @@
 - [Google DeepMind представила «Конституцию роботов»](https://habr.com/ru/news/784796/?utm_campaign=784796&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft напомнила, что поддержка Visual Studio 2013 заканчивается 9 апреля 2024 года](https://habr.com/ru/news/784794/?utm_campaign=784794&utm_source=habrahabr&utm_medium=rss)
 - [Для Linux вышел патч против неожиданной перезагрузки ПК на AMD Ryzen при подключении устройств по FireWire](https://habr.com/ru/news/784780/?utm_campaign=784780&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия эмулятора Qemu процессора Эльбрус](https://habr.com/ru/news/784752/?utm_campaign=784752&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия эмулятора Qemu процессора Эльбрус](https://habr.com/ru/companies/icl_group/news/784752/?utm_campaign=784752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
