@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple назвала дату старта продаж Vision Pro в США за $3499 — 2 февраля, предзаказы откроются с 19 января](https://habr.com/ru/news/785042/?utm_campaign=785042&utm_source=habrahabr&utm_medium=rss)
 - [Новый ускоритель H20 NVIDIA для рынка Китая планируется выпустить уже весной 2024 года](https://habr.com/ru/companies/dcmiran/news/785018/?utm_campaign=785018&utm_source=habrahabr&utm_medium=rss)
 - [В Counter-Strike 2 на ПК со старыми видеокартами &lpar;типа GeForce GTX 650 Ti&rpar; не видно дыма от дымовых гранат](https://habr.com/ru/news/785002/?utm_campaign=785002&utm_source=habrahabr&utm_medium=rss)
 - [Samsung и LG представили рабочие версии прозрачных экранов для ТВ и мониторов](https://habr.com/ru/news/784998/?utm_campaign=784998&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux 6.7](https://habr.com/ru/news/784982/?utm_campaign=784982&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила инструмент AppCAT для миграции локальных приложений .NET в Azure](https://habr.com/ru/news/784970/?utm_campaign=784970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
