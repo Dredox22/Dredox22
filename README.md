@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung и LG представили рабочие версии прозрачных экранов для ТВ и мониторов](https://habr.com/ru/news/784998/?utm_campaign=784998&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux 6.7](https://habr.com/ru/news/784982/?utm_campaign=784982&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила инструмент AppCAT для миграции локальных приложений .NET в Azure](https://habr.com/ru/news/784970/?utm_campaign=784970&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Memtest86+ 7.0](https://habr.com/ru/news/784938/?utm_campaign=784938&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила удаление WordPad в будущем выпуске Windows 11](https://habr.com/ru/news/784884/?utm_campaign=784884&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind представила «Конституцию роботов»](https://habr.com/ru/news/784796/?utm_campaign=784796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
