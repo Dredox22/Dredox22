@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub заблокировала репозиторий открытого игрового движка OpenXRay по требованию GSC Game World](https://habr.com/ru/news/785128/?utm_campaign=785128&utm_source=habrahabr&utm_medium=rss)
+- [«Системный администратор» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/783672/?utm_campaign=783672&utm_source=habrahabr&utm_medium=rss)
+- [GitHub заблокировала репозиторий открытого игрового движка OpenXRay по требованию Anti-Piracy Protection](https://habr.com/ru/news/785128/?utm_campaign=785128&utm_source=habrahabr&utm_medium=rss)
 - [Samsung обновила дизайн домашнего робота-компаньона Ballie и добавила в него проектор](https://habr.com/ru/news/785116/?utm_campaign=785116&utm_source=habrahabr&utm_medium=rss)
 - [Acer представила ноутбуки Aspire Go и Swift Go с кнопкой Copilot на клавиатуре](https://habr.com/ru/news/785098/?utm_campaign=785098&utm_source=habrahabr&utm_medium=rss)
 - [Apple назвала дату старта продаж Vision Pro в США за $3499 — 2 февраля, предзаказы откроются с 19 января](https://habr.com/ru/news/785042/?utm_campaign=785042&utm_source=habrahabr&utm_medium=rss)
-- [Новый ускоритель H20 NVIDIA для рынка Китая планируется выпустить уже весной 2024 года](https://habr.com/ru/companies/dcmiran/news/785018/?utm_campaign=785018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
