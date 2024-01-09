@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/785292/?utm_campaign=785292&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI назвала иск New York Times о нарушении авторских прав необоснованным](https://habr.com/ru/news/785262/?utm_campaign=785262&utm_source=habrahabr&utm_medium=rss)
 - [Аудитория Telegram в России выросла более чем на 30 млн человек за два года](https://habr.com/ru/news/785248/?utm_campaign=785248&utm_source=habrahabr&utm_medium=rss)
 - [Аккаунты Netgear и Hyundai в соцсети X взломали криптоскамеры](https://habr.com/ru/news/785152/?utm_campaign=785152&utm_source=habrahabr&utm_medium=rss)
 - [Сертификация GitHub Certifications &lpar;по $200&rpar; стала общедоступной, чтобы улучшить карьерные перспективы разработчиков](https://habr.com/ru/news/785154/?utm_campaign=785154&utm_source=habrahabr&utm_medium=rss)
-- [«Системный администратор» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/783672/?utm_campaign=783672&utm_source=habrahabr&utm_medium=rss)
-- [GitHub заблокировала репозиторий открытого игрового движка OpenXRay по требованию Anti-Piracy Protection](https://habr.com/ru/news/785128/?utm_campaign=785128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
