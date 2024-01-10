@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xreal представила AR-очки с 3D-камерами для отслеживания движения рук](https://habr.com/ru/news/785606/?utm_campaign=785606&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI официально запустила GPT Store — магазин кастомных чат-ботов](https://habr.com/ru/news/785600/?utm_campaign=785600&utm_source=habrahabr&utm_medium=rss)
 - [SEC объяснила взломом фейковый пост в X об одобрении биткоин-ETF](https://habr.com/ru/news/785580/?utm_campaign=785580&utm_source=habrahabr&utm_medium=rss)
 - [GitHub разблокировала репозиторий открытого игрового движка OpenXRay после DMCA-страйка от Anti-Piracy Protection](https://habr.com/ru/news/785578/?utm_campaign=785578&utm_source=habrahabr&utm_medium=rss)
 - [Компания Intel планирует производить ИИ-процессоры для автомобильной промышленности](https://habr.com/ru/companies/dcmiran/news/785568/?utm_campaign=785568&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Rabbit представил компактное устройство с ИИ-ассистентом, управляющим любыми приложениями](https://habr.com/ru/news/785566/?utm_campaign=785566&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Wine пытаются заставить игру Nuclear Strike 1997 года работать на Linux в 2024 году](https://habr.com/ru/news/785552/?utm_campaign=785552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
