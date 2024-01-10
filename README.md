@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Kodi «Nexus» 20.3 от 10/01/2024](https://habr.com/ru/news/785534/?utm_campaign=785534&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный курс Base Cloud Security](https://habr.com/ru/companies/beeline_tech/news/785504/?utm_campaign=785504&utm_source=habrahabr&utm_medium=rss)
 - [Google начал определять 2ГИС как вредоносное приложение и просить его удалить](https://habr.com/ru/news/785496/?utm_campaign=785496&utm_source=habrahabr&utm_medium=rss)
 - [Кибершпионы Sticky Werewolf вышли из новогодней спячки](https://habr.com/ru/companies/f_a_c_c_t/news/785472/?utm_campaign=785472&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь обнаружил, что его стиральная машина LG потребляет 3,66 ГБ трафика в сутки &lpar;97% на процесс Upload&rpar;](https://habr.com/ru/news/785470/?utm_campaign=785470&utm_source=habrahabr&utm_medium=rss)
-- [Основная поддержка Microsoft Exchange Server 2019 закончилась 9 января](https://habr.com/ru/news/785448/?utm_campaign=785448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
