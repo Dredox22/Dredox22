@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кибершпионы Sticky Werewolf вышли из новогодней спячки](https://habr.com/ru/companies/f_a_c_c_t/news/785472/?utm_campaign=785472&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь обнаружил, что его стиральная машина LG потребляет 3,66 ГБ трафика в сутки &lpar;97% на процесс Upload&rpar;](https://habr.com/ru/news/785470/?utm_campaign=785470&utm_source=habrahabr&utm_medium=rss)
 - [Основная поддержка Microsoft Exchange Server 2019 закончилась 9 января](https://habr.com/ru/news/785448/?utm_campaign=785448&utm_source=habrahabr&utm_medium=rss)
 - [Valve представила правила публикации игрового ИИ-контента в Steam](https://habr.com/ru/news/785446/?utm_campaign=785446&utm_source=habrahabr&utm_medium=rss)
 - [Hewlett Packard Enterprise объявила о покупке Juniper Networks за $14 млрд](https://habr.com/ru/news/785440/?utm_campaign=785440&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавит в «Блокнот» функцию помощи ИИ при написании текста](https://habr.com/ru/news/785434/?utm_campaign=785434&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: власти Китая взломали AirDrop и теперь могут отслеживать номера телефонов и адреса электронной почты отправителей](https://habr.com/ru/news/785428/?utm_campaign=785428&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
