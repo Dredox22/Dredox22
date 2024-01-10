@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энциклопедию «Рувики» &lpar;аналог русскоязычной «Википедии»&rpar; после бета-теста запустят в полномасштабной версии 15 января](https://habr.com/ru/news/785388/?utm_campaign=785388&utm_source=habrahabr&utm_medium=rss)
+- [Вышли релизы Joomla 5.0.2 и Joomla 4.4.2](https://habr.com/ru/news/785386/?utm_campaign=785386&utm_source=habrahabr&utm_medium=rss)
 - [Портал поддержки GitHub теперь доступен только через учётную запись GitHub](https://habr.com/ru/news/785348/?utm_campaign=785348&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft готовится выпустить PowerToys 0.77 c новой утилитой Command Not Found и возможностью использовать PowerShell](https://habr.com/ru/news/785318/?utm_campaign=785318&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/785292/?utm_campaign=785292&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI назвала иск New York Times о нарушении авторских прав необоснованным](https://habr.com/ru/news/785262/?utm_campaign=785262&utm_source=habrahabr&utm_medium=rss)
-- [Аудитория Telegram в России выросла более чем на 30 млн человек за два года](https://habr.com/ru/news/785248/?utm_campaign=785248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
