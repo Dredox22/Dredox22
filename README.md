@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC объяснила взломом фейковый пост в X об одобрении биткоин-ETF](https://habr.com/ru/news/785580/?utm_campaign=785580&utm_source=habrahabr&utm_medium=rss)
+- [GitHub разблокировала репозиторий открытого игрового движка OpenXRay после DMCA-страйка от Anti-Piracy Protection](https://habr.com/ru/news/785578/?utm_campaign=785578&utm_source=habrahabr&utm_medium=rss)
 - [Компания Intel планирует производить ИИ-процессоры для автомобильной промышленности](https://habr.com/ru/companies/dcmiran/news/785568/?utm_campaign=785568&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Rabbit представил компактное устройство с ИИ-ассистентом, управляющим любыми приложениями](https://habr.com/ru/news/785566/?utm_campaign=785566&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Wine пытаются заставить игру Nuclear Strike 1997 года работать на Linux в 2024 году](https://habr.com/ru/news/785552/?utm_campaign=785552&utm_source=habrahabr&utm_medium=rss)
-- [DeathGPT: датские исследователи разработали алгоритм, предсказывающий события в жизни человека, в том числе, его смерть](https://habr.com/ru/news/785544/?utm_campaign=785544&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Kodi «Nexus» 20.3 от 10/01/2024](https://habr.com/ru/news/785534/?utm_campaign=785534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
