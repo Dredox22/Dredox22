@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик разъяснил «вредность» Auto-Suggest от Github Copilot](https://habr.com/ru/news/785722/?utm_campaign=785722&utm_source=habrahabr&utm_medium=rss)
 - [Тесты iGPU Lunar Lake дают надежду на возрождение встроенной графики](https://habr.com/ru/companies/dcmiran/news/785698/?utm_campaign=785698&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило изменить подход к формированию реестра организаторов распространения информации](https://habr.com/ru/news/785696/?utm_campaign=785696&utm_source=habrahabr&utm_medium=rss)
 - [Intel выпустила драйверы Wi-Fi и Bluetooth с исправлениями BSOD и ошибки поиска сетей](https://habr.com/ru/news/785684/?utm_campaign=785684&utm_source=habrahabr&utm_medium=rss)
 - [Rabbit получила заказы на 10 тыс. карманных ИИ-компаньонов R1 за сутки](https://habr.com/ru/news/785688/?utm_campaign=785688&utm_source=habrahabr&utm_medium=rss)
-- [Журналист CNET протестировал чехол для iPhone со встроенной клавиатурой внизу Clicks Creator Keyboard](https://habr.com/ru/news/785682/?utm_campaign=785682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
