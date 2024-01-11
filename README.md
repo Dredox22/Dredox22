@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В блоге Raspberry Pi показали официальные PCB-бейджи участников конференции GitHub Universe](https://habr.com/ru/news/785812/?utm_campaign=785812&utm_source=habrahabr&utm_medium=rss)
 - [В Slack появилась функция Catch Up, похожая на свайпы в Tinder](https://habr.com/ru/news/785786/?utm_campaign=785786&utm_source=habrahabr&utm_medium=rss)
 - [Российские разработчики работают над аналогом SimCity](https://habr.com/ru/news/785736/?utm_campaign=785736&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик разъяснил «вредность» Auto-Suggest от Github Copilot](https://habr.com/ru/news/785722/?utm_campaign=785722&utm_source=habrahabr&utm_medium=rss)
 - [Тесты iGPU Lunar Lake дают надежду на возрождение встроенной графики](https://habr.com/ru/companies/dcmiran/news/785698/?utm_campaign=785698&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предложило изменить подход к формированию реестра организаторов распространения информации](https://habr.com/ru/news/785696/?utm_campaign=785696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
