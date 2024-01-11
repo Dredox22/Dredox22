@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Официальная поддержка ядра Linux 4.14 LTS прекращена, всем рекомендуется перейти на более новые версии ядер Linux](https://habr.com/ru/news/785640/?utm_campaign=785640&utm_source=habrahabr&utm_medium=rss)
+- [Производительность Joomla на PHP 8.3 достигла показателя в 341 RPS, показав прирост в 30%](https://habr.com/ru/news/785634/?utm_campaign=785634&utm_source=habrahabr&utm_medium=rss)
+- [На презентации Samsung домашнего робота-компаньона Ballie cо встроенным проектором что-то пошло не так](https://habr.com/ru/news/785632/?utm_campaign=785632&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты смогли повторить ситуацию с отслеживанием хешей номера телефона и адреса электронной почты через AirDrop](https://habr.com/ru/news/785628/?utm_campaign=785628&utm_source=habrahabr&utm_medium=rss)
 - [Xreal представила AR-очки с 3D-камерами для отслеживания движения рук](https://habr.com/ru/news/785606/?utm_campaign=785606&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI официально запустила GPT Store — магазин кастомных чат-ботов](https://habr.com/ru/news/785600/?utm_campaign=785600&utm_source=habrahabr&utm_medium=rss)
-- [SEC объяснила взломом фейковый пост в X об одобрении биткоин-ETF](https://habr.com/ru/news/785580/?utm_campaign=785580&utm_source=habrahabr&utm_medium=rss)
-- [GitHub разблокировала репозиторий открытого игрового движка OpenXRay после DMCA-страйка от Anti-Piracy Protection](https://habr.com/ru/news/785578/?utm_campaign=785578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
