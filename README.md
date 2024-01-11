@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Состоялся релиз GodotOS v1.0.0 — оболочки операционной системы на открытом игровом движке Godot](https://habr.com/ru/news/785656/?utm_campaign=785656&utm_source=habrahabr&utm_medium=rss)
-- [Бастион стал методическим партнером международной IT-олимпиады «Траектория будущего»](https://habr.com/ru/companies/bastion/news/785654/?utm_campaign=785654&utm_source=habrahabr&utm_medium=rss)
-- [МВД привлечёт нейросети к поиску правонарушителей](https://habr.com/ru/news/785648/?utm_campaign=785648&utm_source=habrahabr&utm_medium=rss)
-- [Официальная поддержка ядра Linux 4.14 LTS прекращена, всем рекомендуется перейти на более новые версии ядер Linux](https://habr.com/ru/news/785640/?utm_campaign=785640&utm_source=habrahabr&utm_medium=rss)
-- [Производительность Joomla на PHP 8.3 достигла показателя в 341 RPS, показав прирост в 30%](https://habr.com/ru/news/785634/?utm_campaign=785634&utm_source=habrahabr&utm_medium=rss)
+- [Тесты iGPU Lunar Lake дают надежду на возрождение встроенной графики](https://habr.com/ru/companies/dcmiran/news/785698/?utm_campaign=785698&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило изменить подход к формированию реестра организаторов распространения информации](https://habr.com/ru/news/785696/?utm_campaign=785696&utm_source=habrahabr&utm_medium=rss)
+- [Intel выпустила драйверы Wi-Fi и Bluetooth с исправлениями BSOD и ошибки поиска сетей](https://habr.com/ru/news/785684/?utm_campaign=785684&utm_source=habrahabr&utm_medium=rss)
+- [Rabbit получила заказы на 10 тыс. карманных ИИ-компаньонов R1 за сутки](https://habr.com/ru/news/785688/?utm_campaign=785688&utm_source=habrahabr&utm_medium=rss)
+- [Журналист CNET протестировал чехол для iPhone со встроенной клавиатурой внизу Clicks Creator Keyboard](https://habr.com/ru/news/785682/?utm_campaign=785682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
