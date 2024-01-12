@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Замена кнопки Win на клавиатуре на кнопку для ИИ-помощника Copilot не нужна для официальной сертификации Microsoft](https://habr.com/ru/news/786094/?utm_campaign=786094&utm_source=habrahabr&utm_medium=rss)
 - [Сервис ФНС снова не выдает актуальные данные по юрлицам и ИП](https://habr.com/ru/companies/hflabs/news/786020/?utm_campaign=786020&utm_source=habrahabr&utm_medium=rss)
 - [Создатели NordVPN выпустили eSIM под названием Saily](https://habr.com/ru/news/785974/?utm_campaign=785974&utm_source=habrahabr&utm_medium=rss)
 - [Японский стартап One By One Music запустил стриминговый сервис для скучающих домашних собак](https://habr.com/ru/news/785954/?utm_campaign=785954&utm_source=habrahabr&utm_medium=rss)
 - [Apple предложит покупателям Apple Vision Pro просканировать свои лица для точного подбора и подгонки аксессуаров](https://habr.com/ru/news/785948/?utm_campaign=785948&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик ОС «Альт» в МГУ учит программировать и управлять сетями под Linux](https://habr.com/ru/companies/basealtspo/news/785946/?utm_campaign=785946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
