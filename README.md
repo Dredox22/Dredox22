@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик ОС «Альт» в МГУ учит программировать и управлять сетями под Linux](https://habr.com/ru/companies/basealtspo/news/785946/?utm_campaign=785946&utm_source=habrahabr&utm_medium=rss)
+- [Unity заблокировала в Store официальный проект с открытым исходным кодом VLC для интеграции с движком](https://habr.com/ru/news/785928/?utm_campaign=785928&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Роскомнадзор в 2023 году выявил нарушения в данных владельцев 43 млн сим-карт](https://habr.com/ru/news/785924/?utm_campaign=785924&utm_source=habrahabr&utm_medium=rss)
 - [Leica представила камеру M11-P за $9500 с защитой от дипфейков](https://habr.com/ru/news/785912/?utm_campaign=785912&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует поддержку USB 80 Гбит/с в Windows 11 и Copilot при входе в систему](https://habr.com/ru/news/785906/?utm_campaign=785906&utm_source=habrahabr&utm_medium=rss)
-- [Discord сокращает 17% штата — 170 сотрудников](https://habr.com/ru/news/785898/?utm_campaign=785898&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз редактора кода BBEdit 15 с поддержкой ChatGPT и новой мини-картой файла](https://habr.com/ru/news/785852/?utm_campaign=785852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
