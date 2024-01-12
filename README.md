@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord сокращает 17% штата — 170 сотрудников](https://habr.com/ru/news/785898/?utm_campaign=785898&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз редактора кода BBEdit 15 с поддержкой ChatGPT и новой мини-картой файла](https://habr.com/ru/news/785852/?utm_campaign=785852&utm_source=habrahabr&utm_medium=rss)
 - [Apple устранила уязвимость в Magic Keyboard, которая позволяла перехватывать данные по Bluetooth](https://habr.com/ru/news/785834/?utm_campaign=785834&utm_source=habrahabr&utm_medium=rss)
 - [Ikea отзывает ранее проданные зарядные устройства Åskstorm 40W USB из-за некачественного внешнего электрокабеля](https://habr.com/ru/news/785830/?utm_campaign=785830&utm_source=habrahabr&utm_medium=rss)
 - [В блоге Raspberry Pi показали официальные PCB-бейджи участников конференции GitHub Universe](https://habr.com/ru/news/785812/?utm_campaign=785812&utm_source=habrahabr&utm_medium=rss)
-- [В Slack появилась функция Catch Up, похожая на свайпы в Tinder](https://habr.com/ru/news/785786/?utm_campaign=785786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
