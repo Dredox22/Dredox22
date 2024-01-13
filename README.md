@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торвальдс обозвал %^!@$% код Intel Xe для DRM в Linux 6.8, сам исправил его и призвал разработчиков тестировать патчи](https://habr.com/ru/news/786196/?utm_campaign=786196&utm_source=habrahabr&utm_medium=rss)
+- [На Amazon нашлись товары, названия которым написал ChatGPT](https://habr.com/ru/news/786194/?utm_campaign=786194&utm_source=habrahabr&utm_medium=rss)
 - [Starlink и T-Mobile протестировали передачу текстовых сообщений с мобильных телефонов напрямую через Direct to Cell](https://habr.com/ru/news/786156/?utm_campaign=786156&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила дополнительные опции в службы Windows 365 Boot and Switch для облачных ПК](https://habr.com/ru/news/786148/?utm_campaign=786148&utm_source=habrahabr&utm_medium=rss)
 - [GitLab предупредила о критической уязвимости для взлома учётной записи и выполнения команд](https://habr.com/ru/news/786144/?utm_campaign=786144&utm_source=habrahabr&utm_medium=rss)
-- [Локализованная версия «Аллоды Онлайн» будет удалена из Steam с 30 января, версия Allods Online останется доступной](https://habr.com/ru/news/786132/?utm_campaign=786132&utm_source=habrahabr&utm_medium=rss)
-- [Замена кнопки Win на клавиатуре на кнопку для ИИ-помощника Copilot не нужна для официальной сертификации Microsoft](https://habr.com/ru/news/786094/?utm_campaign=786094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
