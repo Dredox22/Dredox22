@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда молодых исследователей из ДВФУ разрабатывает сервис по анализу смертности от ССЗ в регионах РФ](https://habr.com/ru/news/786218/?utm_campaign=786218&utm_source=habrahabr&utm_medium=rss)
 - [Ученые ДВФУ разработали сервис, объясняющий динамику показателя смертности населения от туберкулеза в регионах РФ](https://habr.com/ru/news/786214/?utm_campaign=786214&utm_source=habrahabr&utm_medium=rss)
 - [Торвальдс обозвал %^!@$% код Intel Xe для DRM в Linux 6.8, сам исправил его и призвал разработчиков тестировать патчи](https://habr.com/ru/news/786196/?utm_campaign=786196&utm_source=habrahabr&utm_medium=rss)
 - [На Amazon нашлись товары, названия которым написал ChatGPT](https://habr.com/ru/news/786194/?utm_campaign=786194&utm_source=habrahabr&utm_medium=rss)
 - [Starlink и T-Mobile протестировали передачу текстовых сообщений с мобильных телефонов напрямую через Direct to Cell](https://habr.com/ru/news/786156/?utm_campaign=786156&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила дополнительные опции в службы Windows 365 Boot and Switch для облачных ПК](https://habr.com/ru/news/786148/?utm_campaign=786148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
