@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink и T-Mobile протестировали передачу текстовых сообщений с мобильных телефонов напрямую через Direct to Cell](https://habr.com/ru/news/786156/?utm_campaign=786156&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила дополнительные опции в службы Windows 365 Boot and Switch для облачных ПК](https://habr.com/ru/news/786148/?utm_campaign=786148&utm_source=habrahabr&utm_medium=rss)
+- [GitLab предупредила о критической уязвимости для взлома учётной записи и выполнения команд](https://habr.com/ru/news/786144/?utm_campaign=786144&utm_source=habrahabr&utm_medium=rss)
 - [Локализованная версия «Аллоды Онлайн» будет удалена из Steam с 30 января, версия Allods Online останется доступной](https://habr.com/ru/news/786132/?utm_campaign=786132&utm_source=habrahabr&utm_medium=rss)
 - [Замена кнопки Win на клавиатуре на кнопку для ИИ-помощника Copilot не нужна для официальной сертификации Microsoft](https://habr.com/ru/news/786094/?utm_campaign=786094&utm_source=habrahabr&utm_medium=rss)
-- [Сервис ФНС снова не выдает актуальные данные по юрлицам и ИП](https://habr.com/ru/companies/hflabs/news/786020/?utm_campaign=786020&utm_source=habrahabr&utm_medium=rss)
-- [Создатели NordVPN выпустили eSIM под названием Saily](https://habr.com/ru/news/785974/?utm_campaign=785974&utm_source=habrahabr&utm_medium=rss)
-- [Японский стартап One By One Music запустил стриминговый сервис для скучающих домашних собак](https://habr.com/ru/news/785954/?utm_campaign=785954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
