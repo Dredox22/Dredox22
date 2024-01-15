@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 2023 году мошенники зарегистрировали 76 доменных имён, созвучных с ЦБ РФ](https://habr.com/ru/news/786618/?utm_campaign=786618&utm_source=habrahabr&utm_medium=rss)
 - [Физики‑теоретики из МФТИ исследовали свойства нового ферромагнетика Fe2C](https://habr.com/ru/news/786564/?utm_campaign=786564&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/786556/?utm_campaign=786556&utm_source=habrahabr&utm_medium=rss)
 - [PERFXPERT. Новая возможность анализа влияния ожиданий CXPACKET на производительность](https://habr.com/ru/companies/softpoint/news/786548/?utm_campaign=786548&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия DLP‑системы Solar Dozor 7.11](https://habr.com/ru/news/786534/?utm_campaign=786534&utm_source=habrahabr&utm_medium=rss)
-- [GitHub подвела итоги геймдев-джема Game Off 2023](https://habr.com/ru/news/786530/?utm_campaign=786530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
