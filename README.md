@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub подвела итоги геймдев-джема Game Off 2023](https://habr.com/ru/news/786530/?utm_campaign=786530&utm_source=habrahabr&utm_medium=rss)
+- [В МАИ создали новое средство для металлизации печатных плат](https://habr.com/ru/news/786522/?utm_campaign=786522&utm_source=habrahabr&utm_medium=rss)
 - [Atari в партнёрстве с MyArcade разработала консоль с 7&amp;quot; экраном за $150 для ретрогейминга](https://habr.com/ru/news/786504/?utm_campaign=786504&utm_source=habrahabr&utm_medium=rss)
 - [Релиз обновления редактора кода Fleet 1.29: создание файлов из фрагментов кода и встроенный рефакторинг переменных](https://habr.com/ru/news/786500/?utm_campaign=786500&utm_source=habrahabr&utm_medium=rss)
 - [Санкции нипочём: за первые 9 дней января компания NVIDIA подорожала на $128 млрд](https://habr.com/ru/companies/dcmiran/news/786490/?utm_campaign=786490&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик «Базальт СПО» создал приложение для запуска популярных видеоигр на операционных системах Linux](https://habr.com/ru/companies/basealtspo/news/786476/?utm_campaign=786476&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи жалуются, что macOS сама обновляется с Monterey до Sonoma после перезагрузки](https://habr.com/ru/news/786472/?utm_campaign=786472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
