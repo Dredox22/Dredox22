@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи жалуются, что macOS сама обновилась с Monterey до Sonoma после перезагрузки](https://habr.com/ru/news/786472/?utm_campaign=786472&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Limine 7.0 Bootloader](https://habr.com/ru/news/786462/?utm_campaign=786462&utm_source=habrahabr&utm_medium=rss)
 - [Премьера Платформы nanoCAD 24](https://habr.com/ru/companies/nanosoft/news/786446/?utm_campaign=786446&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики браузера Arc выпустили первое обновление в 2024 году](https://habr.com/ru/news/786442/?utm_campaign=786442&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Recorded Future: хакеры чаще используют GitHub для проведения кибератак](https://habr.com/ru/news/786422/?utm_campaign=786422&utm_source=habrahabr&utm_medium=rss)
-- [Математики описали синхронизацию колебаний нейронов мозга](https://habr.com/ru/news/786420/?utm_campaign=786420&utm_source=habrahabr&utm_medium=rss)
-- [Сообщество продолжит поддерживать проекты с Flash Player в 2024 году](https://habr.com/ru/news/786400/?utm_campaign=786400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
