@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Премьера Платформы nanoCAD 24](https://habr.com/ru/companies/nanosoft/news/786446/?utm_campaign=786446&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики браузера Arc выпустили первое обновление в 2024 году](https://habr.com/ru/news/786442/?utm_campaign=786442&utm_source=habrahabr&utm_medium=rss)
+- [Исследование Recorded Future: хакеры чаще используют GitHub для проведения кибератак](https://habr.com/ru/news/786422/?utm_campaign=786422&utm_source=habrahabr&utm_medium=rss)
 - [Математики описали синхронизацию колебаний нейронов мозга](https://habr.com/ru/news/786420/?utm_campaign=786420&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество продолжит поддерживать проекты с Flash Player в 2024 году](https://habr.com/ru/news/786400/?utm_campaign=786400&utm_source=habrahabr&utm_medium=rss)
-- [Учёные МТИ запустили открытый инструмент для оценки объёмов космического мусора](https://habr.com/ru/news/786396/?utm_campaign=786396&utm_source=habrahabr&utm_medium=rss)
-- [Минспорта утвердило стандарт физподготовки по спортивному программированию](https://habr.com/ru/news/786392/?utm_campaign=786392&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PulseAudio 17.0](https://habr.com/ru/news/786378/?utm_campaign=786378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
