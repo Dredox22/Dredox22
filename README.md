@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пользователи жалуются, что macOS сама обновилась с Monterey до Sonoma после перезагрузки](https://habr.com/ru/news/786472/?utm_campaign=786472&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Limine 7.0 Bootloader](https://habr.com/ru/news/786462/?utm_campaign=786462&utm_source=habrahabr&utm_medium=rss)
-- [Премьера Платформы nanoCAD 24](https://habr.com/ru/companies/nanosoft/news/786446/?utm_campaign=786446&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики браузера Arc выпустили первое обновление в 2024 году](https://habr.com/ru/news/786442/?utm_campaign=786442&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Recorded Future: хакеры чаще используют GitHub для проведения кибератак](https://habr.com/ru/news/786422/?utm_campaign=786422&utm_source=habrahabr&utm_medium=rss)
+- [Atari в партнёрстве с MyArcade разработала консоль с 7&amp;quot; экраном за $150 для ретрогейминга](https://habr.com/ru/news/786504/?utm_campaign=786504&utm_source=habrahabr&utm_medium=rss)
+- [Релиз обновления редактора кода Fleet 1.29: создание файлов из фрагментов кода и встроенный рефакторинг переменных](https://habr.com/ru/news/786500/?utm_campaign=786500&utm_source=habrahabr&utm_medium=rss)
+- [Санкции нипочём: за первые 9 дней января компания NVIDIA подорожала на $128 млрд](https://habr.com/ru/companies/dcmiran/news/786490/?utm_campaign=786490&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик «Базальт СПО» создал приложение для запуска популярных видеоигр на операционных системах Linux](https://habr.com/ru/companies/basealtspo/news/786476/?utm_campaign=786476&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи жалуются, что macOS сама обновляется с Monterey до Sonoma после перезагрузки](https://habr.com/ru/news/786472/?utm_campaign=786472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
