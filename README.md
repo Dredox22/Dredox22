@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сообщество продолжит поддерживать проекты с Flash Player в 2024 году](https://habr.com/ru/news/786400/?utm_campaign=786400&utm_source=habrahabr&utm_medium=rss)
+- [Учёные МТИ запустили открытый инструмент для оценки объёмов космического мусора](https://habr.com/ru/news/786396/?utm_campaign=786396&utm_source=habrahabr&utm_medium=rss)
+- [Минспорта утвердило стандарт физподготовки по спортивному программированию](https://habr.com/ru/news/786392/?utm_campaign=786392&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PulseAudio 17.0](https://habr.com/ru/news/786378/?utm_campaign=786378&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi Foundation теперь выпускает по 70 тыс. Raspberry Pi 5 в неделю](https://habr.com/ru/news/786364/?utm_campaign=786364&utm_source=habrahabr&utm_medium=rss)
-- [Flappie представил умную дверку для кошек, которая обнаруживает добычу в зубах животных и не пускает их в дом](https://habr.com/ru/news/786244/?utm_campaign=786244&utm_source=habrahabr&utm_medium=rss)
-- [РКН опубликовал в общем доступе первую версию реестра хостинг-провайдеров, работающих в РФ](https://habr.com/ru/news/786238/?utm_campaign=786238&utm_source=habrahabr&utm_medium=rss)
-- [Команда молодых исследователей из ДВФУ разрабатывает сервис по анализу смертности от ССЗ в регионах РФ](https://habr.com/ru/news/786218/?utm_campaign=786218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
