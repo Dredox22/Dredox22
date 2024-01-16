@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прототип робота Tesla Optimus Gen 2 второго поколения научился складывать футболку по заранее заложенной программе](https://habr.com/ru/news/786666/?utm_campaign=786666&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор разработал проект приказа создания базы данных геолокации IP-адресов в рамках создания цифровой границы](https://habr.com/ru/news/786662/?utm_campaign=786662&utm_source=habrahabr&utm_medium=rss)
 - [В 2023 году мошенники зарегистрировали 76 доменных имён, созвучных с ЦБ РФ](https://habr.com/ru/news/786618/?utm_campaign=786618&utm_source=habrahabr&utm_medium=rss)
 - [Физики‑теоретики из МФТИ исследовали свойства нового ферромагнетика Fe2C](https://habr.com/ru/news/786564/?utm_campaign=786564&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/786556/?utm_campaign=786556&utm_source=habrahabr&utm_medium=rss)
-- [PERFXPERT. Новая возможность анализа влияния ожиданий CXPACKET на производительность](https://habr.com/ru/companies/softpoint/news/786548/?utm_campaign=786548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
