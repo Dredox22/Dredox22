@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Модуль по работе с самозанятыми от R-Style Softlab вошел в шорт-лист премии RB Digital Awards 2024](https://habr.com/ru/companies/rshb/news/786814/?utm_campaign=786814&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Meta* Research выпустили нейросеть для генерации жестов и мимики 3D-аватаров на основе записанной речи](https://habr.com/ru/news/786806/?utm_campaign=786806&utm_source=habrahabr&utm_medium=rss)
 - [Релиз языка программирования ReScript 11.0](https://habr.com/ru/news/786788/?utm_campaign=786788&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики улучшили Vroomba — модификацию робота-пылесоса Roomba, которая разгоняется до 60 км/ч](https://habr.com/ru/news/786772/?utm_campaign=786772&utm_source=habrahabr&utm_medium=rss)
 - [Релиз libvirt 10.0](https://habr.com/ru/news/786764/?utm_campaign=786764&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft открыла подписку Copilot Pro за $20 для добавления инструмента в Office](https://habr.com/ru/news/786734/?utm_campaign=786734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
