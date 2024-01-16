@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Х5 Backend Meetup #3](https://habr.com/ru/companies/X5Tech/news/786866/?utm_campaign=786866&utm_source=habrahabr&utm_medium=rss)
+- [R-Style Softlab представила решение для взаимодействия с ГИС — RS-Connect Pro 2.0](https://habr.com/ru/companies/rshb/news/786820/?utm_campaign=786820&utm_source=habrahabr&utm_medium=rss)
+- [«Росэлектроника» рассказала о поставках телеком‑оборудования для переоснащения МЧС России](https://habr.com/ru/news/786862/?utm_campaign=786862&utm_source=habrahabr&utm_medium=rss)
+- [VK начала набор на курс тестировщиков для студентов и выпускников вузов Санкт‑Петербурга](https://habr.com/ru/news/786860/?utm_campaign=786860&utm_source=habrahabr&utm_medium=rss)
 - [Модуль по работе с самозанятыми от R-Style Softlab вошел в шорт-лист премии RB Digital Awards 2024](https://habr.com/ru/companies/rshb/news/786814/?utm_campaign=786814&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Meta* Research выпустили нейросеть для генерации жестов и мимики 3D-аватаров на основе записанной речи](https://habr.com/ru/news/786806/?utm_campaign=786806&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования ReScript 11.0](https://habr.com/ru/news/786788/?utm_campaign=786788&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики улучшили Vroomba — модификацию робота-пылесоса Roomba, которая разгоняется до 60 км/ч](https://habr.com/ru/news/786772/?utm_campaign=786772&utm_source=habrahabr&utm_medium=rss)
-- [Релиз libvirt 10.0](https://habr.com/ru/news/786764/?utm_campaign=786764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
