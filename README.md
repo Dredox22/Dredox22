@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Восстановление портала Британской библиотеки после киберинцидента займёт намного больше времени](https://habr.com/ru/news/786718/?utm_campaign=786718&utm_source=habrahabr&utm_medium=rss)
+- [Дело против Cisco о запугивании клиентов скорее всего дойдет до суда](https://habr.com/ru/companies/dcmiran/news/786714/?utm_campaign=786714&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Beeper Mini обнаружили, что Mac запрещены в сети iMessage](https://habr.com/ru/news/786702/?utm_campaign=786702&utm_source=habrahabr&utm_medium=rss)
 - [Релиз мода инжектора постобработки ReShade 6.0](https://habr.com/ru/news/786688/?utm_campaign=786688&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил отчёт по улучшению ИБ в своих сервисах за 2023 год](https://habr.com/ru/news/786632/?utm_campaign=786632&utm_source=habrahabr&utm_medium=rss)
-- [Прототип робота Tesla Optimus Gen 2 второго поколения научился складывать футболку по заранее заложенной программе](https://habr.com/ru/news/786666/?utm_campaign=786666&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор разработал проект приказа создания базы данных геолокации IP-адресов в рамках создания цифровой границы](https://habr.com/ru/news/786662/?utm_campaign=786662&utm_source=habrahabr&utm_medium=rss)
-- [В 2023 году мошенники зарегистрировали 76 доменных имён, созвучных с ЦБ РФ](https://habr.com/ru/news/786618/?utm_campaign=786618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
