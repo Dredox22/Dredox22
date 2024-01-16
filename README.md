@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple рассказала про развлечения, которые будут доступны в Vision Pro на старте](https://habr.com/ru/news/786902/?utm_campaign=786902&utm_source=habrahabr&utm_medium=rss)
+- [Установка обновления KB5034129 на Windows Server 2022 приводит к сбою Edge, Chrome, Firefox и продуктов Adobe](https://habr.com/ru/news/786900/?utm_campaign=786900&utm_source=habrahabr&utm_medium=rss)
+- [АБД попросила уточнить формулировки об уголовной ответственности за работу со слитыми данными](https://habr.com/ru/news/786898/?utm_campaign=786898&utm_source=habrahabr&utm_medium=rss)
 - [Тесты автозапуска Windows Copilot ограничены дисплеями с диагональю 27 дюймов и более](https://habr.com/ru/news/786870/?utm_campaign=786870&utm_source=habrahabr&utm_medium=rss)
 - [Х5 Backend Meetup #3](https://habr.com/ru/companies/X5Tech/news/786866/?utm_campaign=786866&utm_source=habrahabr&utm_medium=rss)
-- [R-Style Softlab представила решение для взаимодействия с ГИС — RS-Connect Pro 2.0](https://habr.com/ru/companies/rshb/news/786820/?utm_campaign=786820&utm_source=habrahabr&utm_medium=rss)
-- [«Росэлектроника» рассказала о поставках телеком‑оборудования для переоснащения МЧС России](https://habr.com/ru/news/786862/?utm_campaign=786862&utm_source=habrahabr&utm_medium=rss)
-- [VK начала набор на курс тестировщиков для студентов и выпускников вузов Санкт‑Петербурга](https://habr.com/ru/news/786860/?utm_campaign=786860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
