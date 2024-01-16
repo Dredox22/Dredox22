@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики улучшили Vroomba — модификацию рбота-пылесоса Roomba, которая разгоняется до 60 км/ч](https://habr.com/ru/news/786772/?utm_campaign=786772&utm_source=habrahabr&utm_medium=rss)
+- [Релиз libvirt 10.0](https://habr.com/ru/news/786764/?utm_campaign=786764&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft открыла подписку Copilot Pro за $20 для добавления инструмента в Office](https://habr.com/ru/news/786734/?utm_campaign=786734&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на образовательную программу ВТБ и Финтех Хаба Банка России](https://habr.com/ru/companies/vtb/news/786740/?utm_campaign=786740&utm_source=habrahabr&utm_medium=rss)
 - [Восстановление портала Британской библиотеки после киберинцидента займёт намного больше времени](https://habr.com/ru/news/786718/?utm_campaign=786718&utm_source=habrahabr&utm_medium=rss)
-- [Дело против Cisco о запугивании клиентов скорее всего дойдет до суда](https://habr.com/ru/companies/dcmiran/news/786714/?utm_campaign=786714&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Beeper Mini обнаружили, что Mac запрещены в сети iMessage](https://habr.com/ru/news/786702/?utm_campaign=786702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
