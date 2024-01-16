@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple запустила App Store для Vision Pro, но пока только для разработчиков](https://habr.com/ru/news/786908/?utm_campaign=786908&utm_source=habrahabr&utm_medium=rss)
+- [У пользователей из Европы будет отдельный App Store, соответствующий требованиям Евросоюза](https://habr.com/ru/news/786906/?utm_campaign=786906&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассказала про развлечения, которые будут доступны в Vision Pro на старте](https://habr.com/ru/news/786902/?utm_campaign=786902&utm_source=habrahabr&utm_medium=rss)
 - [Установка обновления KB5034129 на Windows Server 2022 приводит к сбою Edge, Chrome, Firefox и продуктов Adobe](https://habr.com/ru/news/786900/?utm_campaign=786900&utm_source=habrahabr&utm_medium=rss)
 - [АБД попросила уточнить формулировки об уголовной ответственности за работу со слитыми данными](https://habr.com/ru/news/786898/?utm_campaign=786898&utm_source=habrahabr&utm_medium=rss)
-- [Тесты автозапуска Windows Copilot ограничены дисплеями с диагональю 27 дюймов и более](https://habr.com/ru/news/786870/?utm_campaign=786870&utm_source=habrahabr&utm_medium=rss)
-- [Х5 Backend Meetup #3](https://habr.com/ru/companies/X5Tech/news/786866/?utm_campaign=786866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
