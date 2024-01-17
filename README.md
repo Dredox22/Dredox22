@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink запустила тариф для провайдеров Community Gateways со скоростью до 10 Гбит/с и ценой от $75 тыс. в месяц](https://habr.com/ru/news/787026/?utm_campaign=787026&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из ОАЭ представили нейросеть, правдоподобно имитирующую почерк человека](https://habr.com/ru/news/787012/?utm_campaign=787012&utm_source=habrahabr&utm_medium=rss)
 - [Политика Apple App Store теперь позволяет разработчикам из США проводить внешние платежи](https://habr.com/ru/news/787004/?utm_campaign=787004&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» разработала новый метод обнаружения шпионской программы Pegasus на iPhone](https://habr.com/ru/news/786996/?utm_campaign=786996&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wine 9.0 с начальной поддержкой Wayland](https://habr.com/ru/news/786982/?utm_campaign=786982&utm_source=habrahabr&utm_medium=rss)
-- [В Картах Google появилась возможность прокладывать маршруты внутри туннелей](https://habr.com/ru/news/786976/?utm_campaign=786976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
