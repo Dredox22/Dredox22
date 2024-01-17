@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [За 2023 год в сеть утекли 240 млн номеров телефонов россиян](https://habr.com/ru/news/786938/?utm_campaign=786938&utm_source=habrahabr&utm_medium=rss)
-- [Apple запустила App Store для Vision Pro, но пока только для разработчиков](https://habr.com/ru/news/786908/?utm_campaign=786908&utm_source=habrahabr&utm_medium=rss)
-- [У пользователей из Европы будет отдельный App Store, соответствующий требованиям Евросоюза](https://habr.com/ru/news/786906/?utm_campaign=786906&utm_source=habrahabr&utm_medium=rss)
-- [Apple рассказала про развлечения, которые будут доступны в Vision Pro на старте](https://habr.com/ru/news/786902/?utm_campaign=786902&utm_source=habrahabr&utm_medium=rss)
-- [Установка обновления KB5034129 на Windows Server 2022 приводит к сбою Edge, Chrome, Firefox и продуктов Adobe](https://habr.com/ru/news/786900/?utm_campaign=786900&utm_source=habrahabr&utm_medium=rss)
+- [Система охлаждения для серверных стоек на 300 кВт](https://habr.com/ru/companies/dcmiran/news/786972/?utm_campaign=786972&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi RP2040 Macropad получил поддержку магнитных модулей для расширения](https://habr.com/ru/news/786956/?utm_campaign=786956&utm_source=habrahabr&utm_medium=rss)
+- [Google обновила предупреждение Chrome о режиме инкогнито после иска об отслеживании](https://habr.com/ru/news/786948/?utm_campaign=786948&utm_source=habrahabr&utm_medium=rss)
+- [Исходные коды оригинальных тайтлов Doom, Doom II и инструментарий idsetup официально получили лицензию GPL-2.0](https://habr.com/ru/news/786950/?utm_campaign=786950&utm_source=habrahabr&utm_medium=rss)
+- [Мейнтейнер блочной подсистемы ядра Linux увеличил число операций ввода/вывода в секунду на 6%, потратив 5 минут на код](https://habr.com/ru/news/786944/?utm_campaign=786944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
