@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия PT ISIM с поддержкой РСУ Emerson](https://habr.com/ru/news/787124/?utm_campaign=787124&utm_source=habrahabr&utm_medium=rss)
+- [Распространение нюдс-дипфейков реальных людей предлагают признать федеральным преступлением в США](https://habr.com/ru/news/787120/?utm_campaign=787120&utm_source=habrahabr&utm_medium=rss)
 - [Учёные разработали электроды для точечных наблюдений за работой нейронов, расположенных на большой глубине в мозге](https://habr.com/ru/news/787114/?utm_campaign=787114&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: Google и другие поисковики действительно становятся хуже и предлагают всё менее качественный контент](https://habr.com/ru/news/787104/?utm_campaign=787104&utm_source=habrahabr&utm_medium=rss)
 - [Мейнтейнер из Red Hat представил наработки инструмента с ИИ под названием Log Detective для помощи разработчикам](https://habr.com/ru/news/787090/?utm_campaign=787090&utm_source=habrahabr&utm_medium=rss)
-- [Разработка игры «Поезда» будет продолжена под новым названием Trains: Electrostorm и с новой концепцией](https://habr.com/ru/news/787086/?utm_campaign=787086&utm_source=habrahabr&utm_medium=rss)
-- [Ookla и TelecomDaily: в России выросла зона покрытия сотовой связью](https://habr.com/ru/news/787082/?utm_campaign=787082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
