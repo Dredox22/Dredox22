@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Система охлаждения для серверных стоек на 300 кВт](https://habr.com/ru/companies/dcmiran/news/786972/?utm_campaign=786972&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi RP2040 Macropad получил поддержку магнитных модулей для расширения](https://habr.com/ru/news/786956/?utm_campaign=786956&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила предупреждение Chrome о режиме инкогнито после иска об отслеживании](https://habr.com/ru/news/786948/?utm_campaign=786948&utm_source=habrahabr&utm_medium=rss)
-- [Исходные коды оригинальных тайтлов Doom, Doom II и инструментарий idsetup официально получили лицензию GPL-2.0](https://habr.com/ru/news/786950/?utm_campaign=786950&utm_source=habrahabr&utm_medium=rss)
-- [Мейнтейнер блочной подсистемы ядра Linux увеличил число операций ввода/вывода в секунду на 6%, потратив 5 минут на код](https://habr.com/ru/news/786944/?utm_campaign=786944&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Wine 9.0 с начальной поддержкой Wayland](https://habr.com/ru/news/786982/?utm_campaign=786982&utm_source=habrahabr&utm_medium=rss)
+- [В Картах Google появилась возможность прокладывать маршруты внутри туннелей](https://habr.com/ru/news/786976/?utm_campaign=786976&utm_source=habrahabr&utm_medium=rss)
+- [Synopsys приобрела компанию в сфере программной инженерии Ansys за $35 млрд](https://habr.com/ru/news/786978/?utm_campaign=786978&utm_source=habrahabr&utm_medium=rss)
+- [CROC&amp;amp;TALK. Руководитель 1С в потоке: как управлять собой и командой](https://habr.com/ru/companies/croc/news/786892/?utm_campaign=786892&utm_source=habrahabr&utm_medium=rss)
+- [Google удалила игру из загрузок пользователей без их ведома](https://habr.com/ru/news/786966/?utm_campaign=786966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
