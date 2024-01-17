@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные разработали электроды для точечных наблюдений за работой нейронов, расположенных на большой глубине в мозге](https://habr.com/ru/news/787114/?utm_campaign=787114&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: Google и другие поисковики действительно становятся хуже и предлагают всё менее качественный контент](https://habr.com/ru/news/787104/?utm_campaign=787104&utm_source=habrahabr&utm_medium=rss)
 - [Мейнтейнер из Red Hat представил наработки инструмента с ИИ под названием Log Detective для помощи разработчикам](https://habr.com/ru/news/787090/?utm_campaign=787090&utm_source=habrahabr&utm_medium=rss)
 - [Разработка игры «Поезда» будет продолжена под новым названием Trains: Electrostorm и с новой концепцией](https://habr.com/ru/news/787086/?utm_campaign=787086&utm_source=habrahabr&utm_medium=rss)
 - [Ookla и TelecomDaily: в России выросла зона покрытия сотовой связью](https://habr.com/ru/news/787082/?utm_campaign=787082&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi Compute Module 5 находится в разработке](https://habr.com/ru/news/787056/?utm_campaign=787056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
