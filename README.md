@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи из ОАЭ представили нейросеть, правдоподобно имитирующую почерк человека](https://habr.com/ru/news/787012/?utm_campaign=787012&utm_source=habrahabr&utm_medium=rss)
+- [Политика Apple App Store теперь позволяет разработчикам из США проводить внешние платежи](https://habr.com/ru/news/787004/?utm_campaign=787004&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» разработала новый метод обнаружения шпионской программы Pegasus на iPhone](https://habr.com/ru/news/786996/?utm_campaign=786996&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wine 9.0 с начальной поддержкой Wayland](https://habr.com/ru/news/786982/?utm_campaign=786982&utm_source=habrahabr&utm_medium=rss)
 - [В Картах Google появилась возможность прокладывать маршруты внутри туннелей](https://habr.com/ru/news/786976/?utm_campaign=786976&utm_source=habrahabr&utm_medium=rss)
-- [Synopsys приобрела компанию в сфере программной инженерии Ansys за $35 млрд](https://habr.com/ru/news/786978/?utm_campaign=786978&utm_source=habrahabr&utm_medium=rss)
-- [CROC&amp;amp;TALK. Руководитель 1С в потоке: как управлять собой и командой](https://habr.com/ru/companies/croc/news/786892/?utm_campaign=786892&utm_source=habrahabr&utm_medium=rss)
-- [Google удалила игру из загрузок пользователей без их ведома](https://habr.com/ru/news/786966/?utm_campaign=786966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
