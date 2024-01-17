@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия Tantor 3.3 с поддержкой русского языка](https://habr.com/ru/news/787140/?utm_campaign=787140&utm_source=habrahabr&utm_medium=rss)
+- [Найдена уязвимость загрузчике GRUB2, позволяющая обойти проверку пароля](https://habr.com/ru/news/787102/?utm_campaign=787102&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия PT ISIM с поддержкой РСУ Emerson](https://habr.com/ru/news/787124/?utm_campaign=787124&utm_source=habrahabr&utm_medium=rss)
 - [Распространение нюдс-дипфейков реальных людей предлагают признать федеральным преступлением в США](https://habr.com/ru/news/787120/?utm_campaign=787120&utm_source=habrahabr&utm_medium=rss)
 - [Учёные разработали электроды для точечных наблюдений за работой нейронов, расположенных на большой глубине в мозге](https://habr.com/ru/news/787114/?utm_campaign=787114&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: Google и другие поисковики действительно становятся хуже и предлагают всё менее качественный контент](https://habr.com/ru/news/787104/?utm_campaign=787104&utm_source=habrahabr&utm_medium=rss)
-- [Мейнтейнер из Red Hat представил наработки инструмента с ИИ под названием Log Detective для помощи разработчикам](https://habr.com/ru/news/787090/?utm_campaign=787090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
