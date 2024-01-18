@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лауреат самой престижной в Японии литературной премии рассказала, что использовала помощь ChatGPT при написании романа](https://habr.com/ru/news/787426/?utm_campaign=787426&utm_source=habrahabr&utm_medium=rss)
 - [Запуск первого завода TSMC в Аризоне откладывается минимум на год](https://habr.com/ru/companies/dcmiran/news/787412/?utm_campaign=787412&utm_source=habrahabr&utm_medium=rss)
 - [VK Cloud открыл платформу Cloud Spark на базе технологий Apache Spark и Kubernetes для МСП](https://habr.com/ru/news/787406/?utm_campaign=787406&utm_source=habrahabr&utm_medium=rss)
 - [«Рукэп» представила усовершенствованную разработку ультразвукового «зрения» для слабовидящих](https://habr.com/ru/news/787402/?utm_campaign=787402&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость CVE-2023–4969 помогает локально красть данные через ПО для GPU AMD, Apple, Qualcomm и Imagination](https://habr.com/ru/news/787394/?utm_campaign=787394&utm_source=habrahabr&utm_medium=rss)
-- [В Казани с 24 по 26 февраля 2024 года пройдёт суперфинал «Битвы роботов»](https://habr.com/ru/news/787356/?utm_campaign=787356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
