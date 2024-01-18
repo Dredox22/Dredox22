@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Spark от VK Cloud — простой доступ к инструментам анализа больших данных](https://habr.com/ru/companies/vk/news/787308/?utm_campaign=787308&utm_source=habrahabr&utm_medium=rss)
 - [Apple Vision Pro имеет ограничение на две учётные записи пользователей: самого покупателя и гостевую](https://habr.com/ru/news/787294/?utm_campaign=787294&utm_source=habrahabr&utm_medium=rss)
 - [GitHub изменил секретные ключи для корпоративных пользователей из-за критической уязвимости](https://habr.com/ru/news/787258/?utm_campaign=787258&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ от DeepMind научился решать задачи по геометрии](https://habr.com/ru/news/787240/?utm_campaign=787240&utm_source=habrahabr&utm_medium=rss)
 - [В полку “ратников” прибыло: эксперты  F.A.C.C.T. проанализировали новый троян удаленного доступа RADX RAT](https://habr.com/ru/companies/f_a_c_c_t/news/787168/?utm_campaign=787168&utm_source=habrahabr&utm_medium=rss)
-- [КРОК Облачные сервисы и Arenadata наведут порядок в клиентских данных](https://habr.com/ru/companies/croc/news/787206/?utm_campaign=787206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
