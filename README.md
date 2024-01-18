@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Рукэп» представила усовершенствованную разработку ультразвукового «зрения» для слабовидящих](https://habr.com/ru/news/787402/?utm_campaign=787402&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость CVE-2023–4969 помогает локально красть данные через ПО для GPU AMD, Apple, Qualcomm и Imagination](https://habr.com/ru/news/787394/?utm_campaign=787394&utm_source=habrahabr&utm_medium=rss)
 - [В Казани с 24 по 26 февраля 2024 года пройдёт суперфинал «Битвы роботов»](https://habr.com/ru/news/787356/?utm_campaign=787356&utm_source=habrahabr&utm_medium=rss)
 - [Учёные показали влияние примесей в термоэлектрические материалы на их механические свойства](https://habr.com/ru/news/787350/?utm_campaign=787350&utm_source=habrahabr&utm_medium=rss)
 - [Кот-гурман попал на главную страницу приложения в App Store](https://habr.com/ru/news/787346/?utm_campaign=787346&utm_source=habrahabr&utm_medium=rss)
-- [Syrmia представила Autocheck — проект на базе LLVM/Clang для проверки кода C/C++ на соответствие стандарту AUTOSAR](https://habr.com/ru/news/787342/?utm_campaign=787342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
