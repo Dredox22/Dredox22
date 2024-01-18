@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В полку “ратников” прибыло: эксперты  F.A.C.C.T. проанализировали новый троян удаленного доступа RADX RAT](https://habr.com/ru/companies/f_a_c_c_t/news/787168/?utm_campaign=787168&utm_source=habrahabr&utm_medium=rss)
 - [КРОК Облачные сервисы и Arenadata наведут порядок в клиентских данных](https://habr.com/ru/companies/croc/news/787206/?utm_campaign=787206&utm_source=habrahabr&utm_medium=rss)
 - [В НАСА протестировали самособирающуюся робосистему для строительства на других планетах](https://habr.com/ru/news/787200/?utm_campaign=787200&utm_source=habrahabr&utm_medium=rss)
 - [Bethesda анонсировала The Elder Scrolls: Castles — мобильную игру от команды Fallout Shelter](https://habr.com/ru/news/787194/?utm_campaign=787194&utm_source=habrahabr&utm_medium=rss)
 - [Google добавит в чат-бота Bard опцию генерации картинок](https://habr.com/ru/news/787192/?utm_campaign=787192&utm_source=habrahabr&utm_medium=rss)
-- [Упавшее дерево и PGE &lpar;Portland General Electric&rpar; пять суток противостояли Линусу Торвальдсу и разработке ядра Linux 6.8](https://habr.com/ru/news/787162/?utm_campaign=787162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
