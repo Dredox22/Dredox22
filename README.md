@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [КРОК Облачные сервисы и Arenadata наведут порядок в клиентских данных](https://habr.com/ru/companies/croc/news/787206/?utm_campaign=787206&utm_source=habrahabr&utm_medium=rss)
+- [В НАСА протестировали самособирающуюся робосистему для строительства на других планетах](https://habr.com/ru/news/787200/?utm_campaign=787200&utm_source=habrahabr&utm_medium=rss)
+- [Bethesda анонсировала The Elder Scrolls: Castles — мобильную игру от команды Fallout Shelter](https://habr.com/ru/news/787194/?utm_campaign=787194&utm_source=habrahabr&utm_medium=rss)
+- [Google добавит в чат-бота Bard опцию генерации картинок](https://habr.com/ru/news/787192/?utm_campaign=787192&utm_source=habrahabr&utm_medium=rss)
 - [Упавшее дерево и PGE &lpar;Portland General Electric&rpar; пять суток противостояли Линусу Торвальдсу и разработке ядра Linux 6.8](https://habr.com/ru/news/787162/?utm_campaign=787162&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия Tantor 3.3 с поддержкой русского языка](https://habr.com/ru/news/787140/?utm_campaign=787140&utm_source=habrahabr&utm_medium=rss)
-- [Найдена уязвимость в загрузчике GRUB2, позволяющая обойти проверку пароля](https://habr.com/ru/news/787102/?utm_campaign=787102&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия PT ISIM с поддержкой РСУ Emerson](https://habr.com/ru/news/787124/?utm_campaign=787124&utm_source=habrahabr&utm_medium=rss)
-- [Распространение нюдс-дипфейков реальных людей предлагают признать федеральным преступлением в США](https://habr.com/ru/news/787120/?utm_campaign=787120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
