@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На шестые сутки после аварии Portland General Electric убрала два упавших дерева и дала Линусу Торвальдсу электричество](https://habr.com/ru/news/787476/?utm_campaign=787476&utm_source=habrahabr&utm_medium=rss)
 - [Студия Halfbrick рассказала об опыте переноса культовой игры Super Fruit Ninja на Apple Vision Pro](https://habr.com/ru/news/787430/?utm_campaign=787430&utm_source=habrahabr&utm_medium=rss)
 - [Лауреат самой престижной в Японии литературной премии рассказала, что использовала помощь ChatGPT при написании романа](https://habr.com/ru/news/787426/?utm_campaign=787426&utm_source=habrahabr&utm_medium=rss)
 - [Запуск первого завода TSMC в Аризоне откладывается минимум на год](https://habr.com/ru/companies/dcmiran/news/787412/?utm_campaign=787412&utm_source=habrahabr&utm_medium=rss)
 - [VK Cloud открыл платформу Cloud Spark на базе технологий Apache Spark и Kubernetes для МСП](https://habr.com/ru/news/787406/?utm_campaign=787406&utm_source=habrahabr&utm_medium=rss)
-- [«Рукэп» представила усовершенствованную разработку ультразвукового «зрения» для слабовидящих](https://habr.com/ru/news/787402/?utm_campaign=787402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
