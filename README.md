@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple откроет  доступ к NFC создателям мобильных кошельков и поставщикам платёжных услуг в ЕС](https://habr.com/ru/news/787676/?utm_campaign=787676&utm_source=habrahabr&utm_medium=rss)
 - [ФАС РФ: американская компания Corning оплатила антимонопольный штраф в размере 47,7 млн рублей](https://habr.com/ru/news/787648/?utm_campaign=787648&utm_source=habrahabr&utm_medium=rss)
 - [Innostage представила в Саудовской Аравии и Объединённых Арабских Эмиратах проект межвузовского SOC](https://habr.com/ru/news/787604/?utm_campaign=787604&utm_source=habrahabr&utm_medium=rss)
 - [Angara Security: 40% публикаций в открытых Telegram-каналах на тему криптовалют оказались мошенническими](https://habr.com/ru/news/787592/?utm_campaign=787592&utm_source=habrahabr&utm_medium=rss)
 - [Создатель ReiserFS в письмах из тюрьмы сообществу Open Source прокомментировал прекращение поддержки файловой системы](https://habr.com/ru/news/787584/?utm_campaign=787584&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует мгновенный доступ к фото и скриншотам Android в Windows 11](https://habr.com/ru/news/787570/?utm_campaign=787570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
