@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Innostage представила в Саудовской Аравии и Объединённых Арабских Эмиратах проект межвузовского](https://habr.com/ru/news/787604/?utm_campaign=787604&utm_source=habrahabr&utm_medium=rss)
+- [Angara Security: 40% публикаций в открытых Telegram-каналах на тему криптовалют оказались мошенническими](https://habr.com/ru/news/787592/?utm_campaign=787592&utm_source=habrahabr&utm_medium=rss)
+- [Создатель ReiserFS в письмах из тюрьмы сообществу Open Source прокомментировал прекращение поддержки файловой системы](https://habr.com/ru/news/787584/?utm_campaign=787584&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует мгновенный доступ к фото и скриншотам Android в Windows 11](https://habr.com/ru/news/787570/?utm_campaign=787570&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Лаборатория Касперского» представила прогнозы по утечкам и рынку даркнета на 2024 год](https://habr.com/ru/news/787572/?utm_campaign=787572&utm_source=habrahabr&utm_medium=rss)
-- [В приложении X на Android появилась поддержка аудио- и видеозвонков](https://habr.com/ru/news/787564/?utm_campaign=787564&utm_source=habrahabr&utm_medium=rss)
-- [Huawei представила HarmonyOS Next — мобильную ОС без компонентов AOSP](https://habr.com/ru/news/787560/?utm_campaign=787560&utm_source=habrahabr&utm_medium=rss)
-- [Казахстан с 1 марта перейдёт на единый часовой пояс](https://habr.com/ru/news/787544/?utm_campaign=787544&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость экосистемы виртуализации Space и операционных систем «Альт»](https://habr.com/ru/companies/basealtspo/news/787536/?utm_campaign=787536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
