@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания «Лаборатория Касперского» представила прогнозы по утечкам и рынку даркнета на 2024 год](https://habr.com/ru/news/787572/?utm_campaign=787572&utm_source=habrahabr&utm_medium=rss)
+- [В приложении X на Android появилась поддержка аудио- и видеозвонков](https://habr.com/ru/news/787564/?utm_campaign=787564&utm_source=habrahabr&utm_medium=rss)
+- [Huawei представила HarmonyOS Next — мобильную ОС без компонентов AOSP](https://habr.com/ru/news/787560/?utm_campaign=787560&utm_source=habrahabr&utm_medium=rss)
 - [Казахстан с 1 марта перейдёт на единый часовой пояс](https://habr.com/ru/news/787544/?utm_campaign=787544&utm_source=habrahabr&utm_medium=rss)
 - [Подтверждена совместимость экосистемы виртуализации Space и операционных систем «Альт»](https://habr.com/ru/companies/basealtspo/news/787536/?utm_campaign=787536&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на вебинар по автоматизации закупок](https://habr.com/ru/companies/rshb/news/787518/?utm_campaign=787518&utm_source=habrahabr&utm_medium=rss)
-- [На шестые сутки после аварии Portland General Electric убрала два упавших дерева и дала Линусу Торвальдсу электричество](https://habr.com/ru/news/787476/?utm_campaign=787476&utm_source=habrahabr&utm_medium=rss)
-- [Студия Halfbrick рассказала об опыте переноса культовой игры Super Fruit Ninja на Apple Vision Pro](https://habr.com/ru/news/787430/?utm_campaign=787430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
