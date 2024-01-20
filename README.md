@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TrendForce: ПК с Windows AI требуется минимум 16 ГБ DRAM и 40 TOPS вычислительной мощности](https://habr.com/ru/news/787714/?utm_campaign=787714&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик Реймонд Чен раскрыл тайну появления названия ошибки hard error в Windows](https://habr.com/ru/news/787712/?utm_campaign=787712&utm_source=habrahabr&utm_medium=rss)
 - [На заводе BMW в Южной Каролине начали тестировать роботов-гуманоидов Figure](https://habr.com/ru/news/787710/?utm_campaign=787710&utm_source=habrahabr&utm_medium=rss)
 - [Ушёл из жизни изобретатель протокола сетевого времени &lpar;NTP&rpar; Дэвид Л. Миллс](https://habr.com/ru/news/787698/?utm_campaign=787698&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» перечислила потенциальные векторы цифровых угроз для детей в 2024 году](https://habr.com/ru/news/787682/?utm_campaign=787682&utm_source=habrahabr&utm_medium=rss)
-- [Edge получил расширенные опции для создания скриншотов, включая Copilot, OCR и быстрый поиск](https://habr.com/ru/news/787680/?utm_campaign=787680&utm_source=habrahabr&utm_medium=rss)
-- [Apple откроет  доступ к NFC создателям мобильных кошельков и поставщикам платёжных услуг в ЕС](https://habr.com/ru/news/787676/?utm_campaign=787676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
