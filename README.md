@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ушёл из жизни изобретатель протокола сетевого времени &lpar;NTP&rpar; Дэвид Л. Миллс](https://habr.com/ru/news/787698/?utm_campaign=787698&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» перечислила потенциальные векторы цифровых угроз для детей в 2024 году](https://habr.com/ru/news/787682/?utm_campaign=787682&utm_source=habrahabr&utm_medium=rss)
 - [Edge получил расширенные опции для создания скриншотов, включая Copilot, OCR и быстрый поиск](https://habr.com/ru/news/787680/?utm_campaign=787680&utm_source=habrahabr&utm_medium=rss)
 - [Apple откроет  доступ к NFC создателям мобильных кошельков и поставщикам платёжных услуг в ЕС](https://habr.com/ru/news/787676/?utm_campaign=787676&utm_source=habrahabr&utm_medium=rss)
 - [ФАС РФ: американская компания Corning оплатила антимонопольный штраф в размере 47,7 млн рублей](https://habr.com/ru/news/787648/?utm_campaign=787648&utm_source=habrahabr&utm_medium=rss)
-- [Innostage представила в Саудовской Аравии и Объединённых Арабских Эмиратах проект межвузовского SOC](https://habr.com/ru/news/787604/?utm_campaign=787604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
