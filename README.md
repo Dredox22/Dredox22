@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD убрала с процессоров Ryzen маркировку о тайваньском происхождении чипов](https://habr.com/ru/news/787812/?utm_campaign=787812&utm_source=habrahabr&utm_medium=rss)
 - [Релиз React Email 2.0](https://habr.com/ru/news/787806/?utm_campaign=787806&utm_source=habrahabr&utm_medium=rss)
 - [TrendForce: ПК с Windows AI требуется минимум 16 ГБ DRAM и 40 TOPS вычислительной мощности](https://habr.com/ru/news/787714/?utm_campaign=787714&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик Реймонд Чен раскрыл тайну появления названия ошибки hard error в Windows](https://habr.com/ru/news/787712/?utm_campaign=787712&utm_source=habrahabr&utm_medium=rss)
 - [На заводе BMW в Южной Каролине начали тестировать роботов-гуманоидов Figure](https://habr.com/ru/news/787710/?utm_campaign=787710&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни изобретатель протокола сетевого времени &lpar;NTP&rpar; Дэвид Л. Миллс](https://habr.com/ru/news/787698/?utm_campaign=787698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
