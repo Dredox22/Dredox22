@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CD Projekt RED прекратит поддержку Windows 7 и Windows 8.1 в The Witcher 3 после 17 мая 2024 года](https://habr.com/ru/news/787862/?utm_campaign=787862&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Hangover 9.0](https://habr.com/ru/news/787858/?utm_campaign=787858&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из корейского института науки и технологий создали лёгкий экзоскелет с ИИ для ходьбы и подъёмов в гору](https://habr.com/ru/news/787846/?utm_campaign=787846&utm_source=habrahabr&utm_medium=rss)
 - [AMD убрала с процессоров Ryzen маркировку о тайваньском происхождении чипов](https://habr.com/ru/news/787812/?utm_campaign=787812&utm_source=habrahabr&utm_medium=rss)
 - [Релиз React Email 2.0](https://habr.com/ru/news/787806/?utm_campaign=787806&utm_source=habrahabr&utm_medium=rss)
-- [TrendForce: ПК с Windows AI требуется минимум 16 ГБ DRAM и 40 TOPS вычислительной мощности](https://habr.com/ru/news/787714/?utm_campaign=787714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
