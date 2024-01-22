@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло приложение платного стримингового сервиса Winamp для iOS](https://habr.com/ru/news/788174/?utm_campaign=788174&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft изучает проблему со сбоем приложений в Windows Server 2022 после установки обновления KB5034129](https://habr.com/ru/news/788164/?utm_campaign=788164&utm_source=habrahabr&utm_medium=rss)
 - [Контакт Центр «Открытая Линия» запускает передовую технологию определения эмоций с помощью искусственного интеллекта](https://habr.com/ru/news/788162/?utm_campaign=788162&utm_source=habrahabr&utm_medium=rss)
 - [Немецкий суд оштрафовал программиста-фрилансера на €3000 — он нашёл и сообщил заказчику о серьёзной уязвимости](https://habr.com/ru/news/788132/?utm_campaign=788132&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: по новому законопроекту топ‑менеджерам банков по ИБ запретят занимать свои должности на 10 лет за утечки данных](https://habr.com/ru/news/788124/?utm_campaign=788124&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» будет привлекать родственников и психологов при общении с клиентами, находящимися под влиянием мошенников](https://habr.com/ru/news/788090/?utm_campaign=788090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
