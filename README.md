@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: по новому законопроекту топ‑менеджерам банков по ИБ запретят занимать свои должности на 10 лет за утечки данных](https://habr.com/ru/news/788124/?utm_campaign=788124&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» будет привлекать родственников и психологов при общении с клиентами, находящимися под влиянием мошенников](https://habr.com/ru/news/788090/?utm_campaign=788090&utm_source=habrahabr&utm_medium=rss)
 - [Журналисты рассказали о приложениях, которые будут работать на Vision Pro в нативном режиме](https://habr.com/ru/news/788082/?utm_campaign=788082&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Epicyon 1.5.0](https://habr.com/ru/news/788078/?utm_campaign=788078&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Практикум» запустил курс по развитию цифровой грамотности](https://habr.com/ru/news/788072/?utm_campaign=788072&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/788054/?utm_campaign=788054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
