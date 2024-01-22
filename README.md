@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-3.5 выдаёт ошибку при избыточном использовании параметра useRalativeImagePath](https://habr.com/ru/news/787968/?utm_campaign=787968&utm_source=habrahabr&utm_medium=rss)
+- [Brave отключит режим Strict Mode из-за опасности раскрытия пользователей](https://habr.com/ru/news/787962/?utm_campaign=787962&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи РФ ищут новые способы защиты мобильных номеров от кражи мошенниками](https://habr.com/ru/news/787942/?utm_campaign=787942&utm_source=habrahabr&utm_medium=rss)
 - [В рамках Xbox Developer_Direct 2024 было показано 5 игр, включая игру про Индиану Джонса](https://habr.com/ru/news/787888/?utm_campaign=787888&utm_source=habrahabr&utm_medium=rss)
 - [В преддверии конференции GDC 2024 года организаторы опросили разработчиков игр о состоянии игровой индустрии](https://habr.com/ru/news/787874/?utm_campaign=787874&utm_source=habrahabr&utm_medium=rss)
-- [CD Projekt RED прекратит поддержку Windows 7 и Windows 8.1 в The Witcher 3 после 17 мая 2024 года](https://habr.com/ru/news/787862/?utm_campaign=787862&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Hangover 9.0](https://habr.com/ru/news/787858/?utm_campaign=787858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
