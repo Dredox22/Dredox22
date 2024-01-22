@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Parallels Desktop теперь может запускать Arm-версию Windows 11 на M3](https://habr.com/ru/news/787988/?utm_campaign=787988&utm_source=habrahabr&utm_medium=rss)
+- [Tesla открыла доступ клиентам к бета-версии Full Self-Driving 12.12](https://habr.com/ru/news/787984/?utm_campaign=787984&utm_source=habrahabr&utm_medium=rss)
+- [В сети поделились примером работы чат-бота Bard в Google Messages](https://habr.com/ru/news/787980/?utm_campaign=787980&utm_source=habrahabr&utm_medium=rss)
+- [Радиовещатели в РФ в 2023 году заместили большую часть иностранного оборудования, которое попало под ограничения США](https://habr.com/ru/news/787970/?utm_campaign=787970&utm_source=habrahabr&utm_medium=rss)
 - [GPT-3.5 выдаёт ошибку при избыточном использовании параметра useRalativeImagePath](https://habr.com/ru/news/787968/?utm_campaign=787968&utm_source=habrahabr&utm_medium=rss)
-- [Brave отключит режим Strict Mode из-за опасности раскрытия пользователей](https://habr.com/ru/news/787962/?utm_campaign=787962&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи РФ ищут новые способы защиты мобильных номеров от кражи мошенниками](https://habr.com/ru/news/787942/?utm_campaign=787942&utm_source=habrahabr&utm_medium=rss)
-- [В рамках Xbox Developer_Direct 2024 было показано 5 игр, включая игру про Индиану Джонса](https://habr.com/ru/news/787888/?utm_campaign=787888&utm_source=habrahabr&utm_medium=rss)
-- [В преддверии конференции GDC 2024 года организаторы опросили разработчиков игр о состоянии игровой индустрии](https://habr.com/ru/news/787874/?utm_campaign=787874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
