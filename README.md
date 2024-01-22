@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Фотограф-энтузиаст проверил, что произойдёт, если поместить в объектив фотоаппарата самый чёрный в мире материал](https://habr.com/ru/news/787908/?utm_campaign=787908&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи РФ ищут новые способы защиты мобильных номеров от кражи мошенниками](https://habr.com/ru/news/787942/?utm_campaign=787942&utm_source=habrahabr&utm_medium=rss)
 - [В рамках Xbox Developer_Direct 2024 было показано 5 игр, включая игру про Индиану Джонса](https://habr.com/ru/news/787888/?utm_campaign=787888&utm_source=habrahabr&utm_medium=rss)
 - [В преддверии конференции GDC 2024 года организаторы опросили разработчиков игр о состоянии игровой индустрии](https://habr.com/ru/news/787874/?utm_campaign=787874&utm_source=habrahabr&utm_medium=rss)
 - [CD Projekt RED прекратит поддержку Windows 7 и Windows 8.1 в The Witcher 3 после 17 мая 2024 года](https://habr.com/ru/news/787862/?utm_campaign=787862&utm_source=habrahabr&utm_medium=rss)
