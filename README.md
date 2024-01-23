@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Администратору хакерского форума BreachForums суд США дал 20 лет освобождения под надзором](https://habr.com/ru/news/788390/?utm_campaign=788390&utm_source=habrahabr&utm_medium=rss)
+- [Notimaps приглашает к партнёрству](https://habr.com/ru/news/788388/?utm_campaign=788388&utm_source=habrahabr&utm_medium=rss)
+- [RAWRLAB Games представила инструментарий по портированию игр на движке Godot на платформу Nintendo Switch](https://habr.com/ru/news/788386/?utm_campaign=788386&utm_source=habrahabr&utm_medium=rss)
+- [8 лет werf — утилите для построения CI/CD с любой CI-системой: главные события и полезные материалы](https://habr.com/ru/companies/flant/news/788378/?utm_campaign=788378&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia запустила открытое тестирование платформы RTX Remix](https://habr.com/ru/news/788366/?utm_campaign=788366&utm_source=habrahabr&utm_medium=rss)
-- [Госдума в первом чтении приняла законопроект об усилении ответственности за утечку персональных данных](https://habr.com/ru/news/788354/?utm_campaign=788354&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный онлайн-курс для начинающих специалистов UserGate](https://habr.com/ru/companies/usergate/news/788326/?utm_campaign=788326&utm_source=habrahabr&utm_medium=rss)
-- [Вышел проект оконного менеджера RubyWM, написанного полностью на Ruby](https://habr.com/ru/news/788318/?utm_campaign=788318&utm_source=habrahabr&utm_medium=rss)
-- [Конференция для специалистов по ИБ OFFZONE 2024 пройдёт в Москве 22–23 августа 2024 года](https://habr.com/ru/news/788312/?utm_campaign=788312&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
