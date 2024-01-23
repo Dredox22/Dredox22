@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia запустила открытое тестирование платформы RTX Remix](https://habr.com/ru/news/788366/?utm_campaign=788366&utm_source=habrahabr&utm_medium=rss)
+- [Госдума в первом чтении приняла законопроект об усилении ответственности за утечку персональных данных](https://habr.com/ru/news/788354/?utm_campaign=788354&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный онлайн-курс для начинающих специалистов UserGate](https://habr.com/ru/companies/usergate/news/788326/?utm_campaign=788326&utm_source=habrahabr&utm_medium=rss)
 - [Вышел проект оконного менеджера RubyWM, написанного полностью на Ruby](https://habr.com/ru/news/788318/?utm_campaign=788318&utm_source=habrahabr&utm_medium=rss)
 - [Конференция для специалистов по ИБ OFFZONE 2024 пройдёт в Москве 22–23 августа 2024 года](https://habr.com/ru/news/788312/?utm_campaign=788312&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи начали жаловаться на проблемы с производительностью у Microsoft Copilot Pro](https://habr.com/ru/news/788272/?utm_campaign=788272&utm_source=habrahabr&utm_medium=rss)
-- [В РФ планируют запустить эксперимент по маркировке электроники и печатных плат](https://habr.com/ru/news/788270/?utm_campaign=788270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
