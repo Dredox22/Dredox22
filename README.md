@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera заплатит счастливчику $10 тыс. за неделю просмотра веб-страниц на уединённом острове](https://habr.com/ru/news/788462/?utm_campaign=788462&utm_source=habrahabr&utm_medium=rss)
 - [Решите задачу и помогите Саше перестать прокрастинировать](https://habr.com/ru/companies/selectel/news/788384/?utm_campaign=788384&utm_source=habrahabr&utm_medium=rss)
 - [Администратору хакерского форума BreachForums суд США дал 20 лет освобождения под надзором](https://habr.com/ru/news/788390/?utm_campaign=788390&utm_source=habrahabr&utm_medium=rss)
 - [Notimaps приглашает к партнёрству](https://habr.com/ru/news/788388/?utm_campaign=788388&utm_source=habrahabr&utm_medium=rss)
 - [RAWRLAB Games представила инструментарий по портированию игр на движке Godot на платформу Nintendo Switch](https://habr.com/ru/news/788386/?utm_campaign=788386&utm_source=habrahabr&utm_medium=rss)
-- [8 лет werf — утилите для построения CI/CD с любой CI-системой: главные события и полезные материалы](https://habr.com/ru/companies/flant/news/788378/?utm_campaign=788378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
