@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В «Ножницах» в Windows 11 появится возможность добавлять фигуры и стрелки на скриншоты](https://habr.com/ru/news/788222/?utm_campaign=788222&utm_source=habrahabr&utm_medium=rss)
-- [HPE Aruba отключила регион RU в последних версиях прошивок для своих новых точек доступа](https://habr.com/ru/news/788214/?utm_campaign=788214&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил веб-приложение на базе GPT-4 и Dall-E 3 для генерации фигурок Lego по фотографии](https://habr.com/ru/news/788192/?utm_campaign=788192&utm_source=habrahabr&utm_medium=rss)
-- [Вышло приложение платного стримингового сервиса Winamp для iOS](https://habr.com/ru/news/788174/?utm_campaign=788174&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft изучает проблему со сбоем приложений в Windows Server 2022 после установки обновления KB5034129](https://habr.com/ru/news/788164/?utm_campaign=788164&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи начали жаловаться на проблемы с производительностью у Microsoft Copilot Pro](https://habr.com/ru/news/788272/?utm_campaign=788272&utm_source=habrahabr&utm_medium=rss)
+- [В РФ планируют запустить эксперимент по маркировке электроники и печатных плат](https://habr.com/ru/news/788270/?utm_campaign=788270&utm_source=habrahabr&utm_medium=rss)
+- [Как компаниям работать с ИНН физлиц](https://habr.com/ru/companies/hflabs/news/788266/?utm_campaign=788266&utm_source=habrahabr&utm_medium=rss)
+- [SEC подтвердила взлом своей учётной записи в X после атаки с подменой СИМ-карты](https://habr.com/ru/news/788262/?utm_campaign=788262&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Windows 11 24H2 может заменить выпуск Windows 12](https://habr.com/ru/news/788252/?utm_campaign=788252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
