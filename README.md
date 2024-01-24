@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker представила Build Cloud — облачную платформу для сборки проектов](https://habr.com/ru/news/788726/?utm_campaign=788726&utm_source=habrahabr&utm_medium=rss)
+- [Греф считает, что ИИ не заменит человека, а они будут работать вместе](https://habr.com/ru/news/788720/?utm_campaign=788720&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила сервис Music Classical в Китае, Японии, Южной Корее, Тайване, Гонконге и Макао](https://habr.com/ru/news/788714/?utm_campaign=788714&utm_source=habrahabr&utm_medium=rss)
 - [Глава HP назвал клиентов, использующих неоригинальные картриджи для принтеров, «убыточными клиентами»](https://habr.com/ru/news/788712/?utm_campaign=788712&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» и «Школа 21» объявили о запуске «Цифрового марафона»](https://habr.com/ru/news/788702/?utm_campaign=788702&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи безопасности обнаружили БД с 26 млрд записей слитых учётных данных](https://habr.com/ru/news/788700/?utm_campaign=788700&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики развивают проект Jan — открытую альтернативу ChatGPT, которая работает локально](https://habr.com/ru/news/788698/?utm_campaign=788698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
