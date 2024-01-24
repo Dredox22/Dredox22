@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» добавил «фильтрумы» для стилизации изображений в приложение «Шедеврум»](https://habr.com/ru/news/788548/?utm_campaign=788548&utm_source=habrahabr&utm_medium=rss)
+- [Газпромбанк разработал технологическую платформу для создания клиентских сервисов](https://habr.com/ru/companies/gazprombank/news/788546/?utm_campaign=788546&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft организует команду для создания небольших и дешёвых моделей ИИ](https://habr.com/ru/news/788522/?utm_campaign=788522&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар. Защита учетных записей: требования регуляторов и лучшие практики](https://habr.com/ru/companies/nubes/news/788526/?utm_campaign=788526&utm_source=habrahabr&utm_medium=rss)
 - [Приём заявок на Apple Swift Student Challenge 2024 открывается 5 февраля](https://habr.com/ru/news/788520/?utm_campaign=788520&utm_source=habrahabr&utm_medium=rss)
-- [API Trello использовали для выявления e-mail 15 млн учётных записей сервиса](https://habr.com/ru/news/788514/?utm_campaign=788514&utm_source=habrahabr&utm_medium=rss)
-- [«Закрытие» и неверные локации в Apple Maps обошлась ресторану в Австралии в тысячи долларов](https://habr.com/ru/news/788506/?utm_campaign=788506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
