@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел многофункциональный инструмент для отладки оборудования с открытым исходным кодом Bus Pirate 5](https://habr.com/ru/news/788634/?utm_campaign=788634&utm_source=habrahabr&utm_medium=rss)
+- [«Тинькофф», Центральный университет и НИУ ВШЭ запустили олимпиаду по промышленному программированию для школьников](https://habr.com/ru/news/788628/?utm_campaign=788628&utm_source=habrahabr&utm_medium=rss)
 - [ML-подкаст. Как машинное обучение защищает от спам-атак и звонков от мошенников](https://habr.com/ru/companies/beeline_tech/news/788620/?utm_campaign=788620&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры The Day Before отвергли обвинения в обмане пользователей и увольнениях без компенсаций](https://habr.com/ru/news/788610/?utm_campaign=788610&utm_source=habrahabr&utm_medium=rss)
 - [«Ъ»: россияне стали чаще просить помощи в удалении информации из сети](https://habr.com/ru/news/788600/?utm_campaign=788600&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни профессор Николас Дж. Хайэм — разработчик LAPACK и библиотеки NAG, а также автор части кода MATLAB](https://habr.com/ru/news/788598/?utm_campaign=788598&utm_source=habrahabr&utm_medium=rss)
-- [С начала 2017 года Apple купила 21 стартап в области искусственного интеллекта](https://habr.com/ru/news/788582/?utm_campaign=788582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
