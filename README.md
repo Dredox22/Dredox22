@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Руководитель разработки игры «Смута» рассказал про развитие проекта](https://habr.com/ru/news/788744/?utm_campaign=788744&utm_source=habrahabr&utm_medium=rss)
 - [Docker представила Build Cloud — облачную платформу для сборки проектов](https://habr.com/ru/news/788726/?utm_campaign=788726&utm_source=habrahabr&utm_medium=rss)
 - [Греф считает, что ИИ не заменит человека, а они будут работать вместе](https://habr.com/ru/news/788720/?utm_campaign=788720&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила сервис Music Classical в Китае, Японии, Южной Корее, Тайване, Гонконге и Макао](https://habr.com/ru/news/788714/?utm_campaign=788714&utm_source=habrahabr&utm_medium=rss)
 - [Глава HP назвал клиентов, использующих неоригинальные картриджи для принтеров, «убыточными клиентами»](https://habr.com/ru/news/788712/?utm_campaign=788712&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» и «Школа 21» объявили о запуске «Цифрового марафона»](https://habr.com/ru/news/788702/?utm_campaign=788702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
