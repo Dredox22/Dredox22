@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ъ»: россияне стали чаще просить помощи в удалении информации из сети](https://habr.com/ru/news/788600/?utm_campaign=788600&utm_source=habrahabr&utm_medium=rss)
+- [Ушёл из жизни профессор Николас Дж. Хайэм — разработчик LAPACK и библиотеки NAG, а также автор части кода MATLAB](https://habr.com/ru/news/788598/?utm_campaign=788598&utm_source=habrahabr&utm_medium=rss)
+- [С начала 2017 года Apple купила 21 стартап в области искусственного интеллект](https://habr.com/ru/news/788582/?utm_campaign=788582&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз iOS и iPadOS 17.3](https://habr.com/ru/news/788568/?utm_campaign=788568&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» добавил «фильтрумы» для стилизации изображений в приложение «Шедеврум»](https://habr.com/ru/news/788548/?utm_campaign=788548&utm_source=habrahabr&utm_medium=rss)
-- [Газпромбанк разработал технологическую платформу для создания клиентских сервисов](https://habr.com/ru/companies/gazprombank/news/788546/?utm_campaign=788546&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft организует команду для создания небольших и дешёвых моделей ИИ](https://habr.com/ru/news/788522/?utm_campaign=788522&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар. Защита учетных записей: требования регуляторов и лучшие практики](https://habr.com/ru/companies/nubes/news/788526/?utm_campaign=788526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
