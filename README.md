@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» и «Школа 21» объявили о запуске «Цифрового марафона»](https://habr.com/ru/news/788702/?utm_campaign=788702&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи безопасности обнаружили БД с 26 млрд записей слитых учётных данных](https://habr.com/ru/news/788700/?utm_campaign=788700&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики развивают проект Jan — открытую альтернативу ChatGPT, которая работает локально](https://habr.com/ru/news/788698/?utm_campaign=788698&utm_source=habrahabr&utm_medium=rss)
 - [АНБ раскрыло документы о боязни Фёрби, накрывшей сотрудников агентства в 1998-1999 годах](https://habr.com/ru/news/788664/?utm_campaign=788664&utm_source=habrahabr&utm_medium=rss)
 - [В российских компаниях в 2023 году вдвое вырос спрос на киберучения](https://habr.com/ru/news/788644/?utm_campaign=788644&utm_source=habrahabr&utm_medium=rss)
-- [Вышел многофункциональный инструмент для отладки оборудования с открытым исходным кодом Bus Pirate 5](https://habr.com/ru/news/788634/?utm_campaign=788634&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф», Центральный университет и НИУ ВШЭ запустили олимпиаду по промышленному программированию для школьников](https://habr.com/ru/news/788628/?utm_campaign=788628&utm_source=habrahabr&utm_medium=rss)
-- [ML-подкаст. Как машинное обучение защищает от спам-атак и звонков от мошенников](https://habr.com/ru/companies/beeline_tech/news/788620/?utm_campaign=788620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
