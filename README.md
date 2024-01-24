@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Expo SDK 50](https://habr.com/ru/news/788778/?utm_campaign=788778&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge представил доступ к Copilot Pro с GPT-4 Turbo на iOS и Android](https://habr.com/ru/news/788768/?utm_campaign=788768&utm_source=habrahabr&utm_medium=rss)
 - [Руководитель разработки игры «Смута» рассказал про развитие проекта](https://habr.com/ru/news/788744/?utm_campaign=788744&utm_source=habrahabr&utm_medium=rss)
 - [Docker представила Build Cloud — облачную платформу для сборки проектов](https://habr.com/ru/news/788726/?utm_campaign=788726&utm_source=habrahabr&utm_medium=rss)
 - [Греф считает, что ИИ не заменит человека, а они будут работать вместе](https://habr.com/ru/news/788720/?utm_campaign=788720&utm_source=habrahabr&utm_medium=rss)
-- [Apple запустила сервис Music Classical в Китае, Японии, Южной Корее, Тайване, Гонконге и Макао](https://habr.com/ru/news/788714/?utm_campaign=788714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
