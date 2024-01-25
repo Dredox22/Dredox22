@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России появился аналог Microsoft Certificate для обеспечения безопасности корпоративных сетей](https://habr.com/ru/news/788868/?utm_campaign=788868&utm_source=habrahabr&utm_medium=rss)
+- [В коде WhatsApp обнаружили опцию поддержки чатов с пользователями других приложений](https://habr.com/ru/news/788864/?utm_campaign=788864&utm_source=habrahabr&utm_medium=rss)
+- [Oxygen продлил действие сертификатов ISO 9001\27001](https://habr.com/ru/companies/oxygendc/news/788866/?utm_campaign=788866&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 121](https://habr.com/ru/news/788856/?utm_campaign=788856&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: аудиодипфейки используют для мошеннических звонков в мессенджерах](https://habr.com/ru/news/788846/?utm_campaign=788846&utm_source=habrahabr&utm_medium=rss)
-- [Автопроизводители отказались лицензировать автопилот Tesla](https://habr.com/ru/news/788832/?utm_campaign=788832&utm_source=habrahabr&utm_medium=rss)
-- [В России предлагают приравнять сим-карты к средствам платежа](https://habr.com/ru/news/788826/?utm_campaign=788826&utm_source=habrahabr&utm_medium=rss)
-- [У Weaveworks &lpar;создатели Flux CD&rpar; проблемы](https://habr.com/ru/news/788814/?utm_campaign=788814&utm_source=habrahabr&utm_medium=rss)
-- [Редактор кода Zed стал проектом Open-Source](https://habr.com/ru/news/788810/?utm_campaign=788810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
