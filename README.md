@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи: аудиодипфейки используют для мошеннических звонков в мессенджерах](https://habr.com/ru/news/788846/?utm_campaign=788846&utm_source=habrahabr&utm_medium=rss)
+- [Автопроизводители отказались лицензировать автопилот Tesla](https://habr.com/ru/news/788832/?utm_campaign=788832&utm_source=habrahabr&utm_medium=rss)
+- [В России предлагают приравнять сим-карты к средствам платежа](https://habr.com/ru/news/788826/?utm_campaign=788826&utm_source=habrahabr&utm_medium=rss)
 - [У Weaveworks &lpar;создатели Flux CD&rpar; проблемы](https://habr.com/ru/news/788814/?utm_campaign=788814&utm_source=habrahabr&utm_medium=rss)
 - [Редактор кода Zed стал проектом Open-Source](https://habr.com/ru/news/788810/?utm_campaign=788810&utm_source=habrahabr&utm_medium=rss)
-- [Библиотеки Ollama Python Library и Ollama JavaScript Library стали доступны на GitHub](https://habr.com/ru/news/788802/?utm_campaign=788802&utm_source=habrahabr&utm_medium=rss)
-- [Рассекречивая государственные тайны. Суперкомпьютер Colossus](https://habr.com/ru/news/788800/?utm_campaign=788800&utm_source=habrahabr&utm_medium=rss)
-- [Вступил в силу стандарт Минспорта с нормами физподготовки по дисциплине «спортивное программирование»](https://habr.com/ru/news/788794/?utm_campaign=788794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
