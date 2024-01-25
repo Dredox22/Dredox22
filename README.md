@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Россияне совершили более 0,5 млрд платежей по QR-кодам в 2023 году с использованием софта Smart Engines](https://habr.com/ru/companies/smartengines/news/788964/?utm_campaign=788964&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар Tarantool «Строим кэши и витрины данных»](https://habr.com/ru/companies/vk/news/788956/?utm_campaign=788956&utm_source=habrahabr&utm_medium=rss)
 - [Китайский разработчик процессоров для нейросетей Sophgo предложил российским компаниям создание совместных продуктов](https://habr.com/ru/news/788938/?utm_campaign=788938&utm_source=habrahabr&utm_medium=rss)
 - [Первым получателем новых 2 нм процессоров TSMC станет Apple](https://habr.com/ru/companies/dcmiran/news/788934/?utm_campaign=788934&utm_source=habrahabr&utm_medium=rss)
 - [В России появился аналог Microsoft Certificate для обеспечения безопасности корпоративных сетей](https://habr.com/ru/news/788868/?utm_campaign=788868&utm_source=habrahabr&utm_medium=rss)
-- [В коде WhatsApp обнаружили опцию поддержки чатов с пользователями других приложений](https://habr.com/ru/news/788864/?utm_campaign=788864&utm_source=habrahabr&utm_medium=rss)
-- [Oxygen продлил действие сертификатов ISO 9001\27001](https://habr.com/ru/companies/oxygendc/news/788866/?utm_campaign=788866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
