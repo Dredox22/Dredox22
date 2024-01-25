@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Аквариус» открыла два новых центра разработок](https://habr.com/ru/news/789066/?utm_campaign=789066&utm_source=habrahabr&utm_medium=rss)
 - [Joomla Pizza, Bugs &amp;amp; Fun 2024 — первая сессия в этом году 24 февраля](https://habr.com/ru/news/789040/?utm_campaign=789040&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты Kaspersky DFI обнаружили в даркнете почти 3000 постов об использовании чат-ботов в кибератаках](https://habr.com/ru/news/788996/?utm_campaign=788996&utm_source=habrahabr&utm_medium=rss)
 - [Россияне совершили более 0,5 млрд платежей по QR-кодам в 2023 году с использованием софта Smart Engines](https://habr.com/ru/companies/smartengines/news/788964/?utm_campaign=788964&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар Tarantool «Строим кэши и витрины данных»](https://habr.com/ru/companies/vk/news/788956/?utm_campaign=788956&utm_source=habrahabr&utm_medium=rss)
-- [Китайский разработчик процессоров для нейросетей Sophgo предложил российским компаниям создание совместных продуктов](https://habr.com/ru/news/788938/?utm_campaign=788938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
