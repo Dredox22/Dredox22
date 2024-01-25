@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Состоялся релиз Expo SDK 50](https://habr.com/ru/news/788778/?utm_campaign=788778&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge представил доступ к Copilot Pro с GPT-4 Turbo на iOS и Android](https://habr.com/ru/news/788768/?utm_campaign=788768&utm_source=habrahabr&utm_medium=rss)
-- [Руководитель разработки игры «Смута» рассказал про развитие проекта](https://habr.com/ru/news/788744/?utm_campaign=788744&utm_source=habrahabr&utm_medium=rss)
-- [Docker представила Build Cloud — облачную платформу для сборки проектов](https://habr.com/ru/news/788726/?utm_campaign=788726&utm_source=habrahabr&utm_medium=rss)
-- [Греф считает, что ИИ не заменит человека, а они будут работать вместе](https://habr.com/ru/news/788720/?utm_campaign=788720&utm_source=habrahabr&utm_medium=rss)
+- [У Weaveworks &lpar;создатели Flux CD&rpar; проблемы](https://habr.com/ru/news/788814/?utm_campaign=788814&utm_source=habrahabr&utm_medium=rss)
+- [Редактор кода Zed стал проектом Open-Source](https://habr.com/ru/news/788810/?utm_campaign=788810&utm_source=habrahabr&utm_medium=rss)
+- [Библиотеки Ollama Python Library и Ollama JavaScript Library стали доступны на GitHub](https://habr.com/ru/news/788802/?utm_campaign=788802&utm_source=habrahabr&utm_medium=rss)
+- [Рассекречивая государственные тайны. Суперкомпьютер Colossus](https://habr.com/ru/news/788800/?utm_campaign=788800&utm_source=habrahabr&utm_medium=rss)
+- [Вступил в силу стандарт Минспорта с нормами физподготовки по дисциплине «спортивное программирование»](https://habr.com/ru/news/788794/?utm_campaign=788794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
