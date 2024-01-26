@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные из ЛЭТИ создали прототип установки для изучения новых типов полупроводниковых плёнок](https://habr.com/ru/news/789364/?utm_campaign=789364&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила устанавливать приложения из сторонних маркетплейсов в EC](https://habr.com/ru/companies/friflex/news/789178/?utm_campaign=789178&utm_source=habrahabr&utm_medium=rss)
 - [Мобильное приложение Microsoft Xbox скоро позволит удалённо играть с помощью всего лишь сенсорного управления](https://habr.com/ru/news/789338/?utm_campaign=789338&utm_source=habrahabr&utm_medium=rss)
 - [Privacy Day 2024 пройдёт онлайн 29 января](https://habr.com/ru/news/789292/?utm_campaign=789292&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил Shittier — утилиту, которая делает код нечитаемым](https://habr.com/ru/news/789286/?utm_campaign=789286&utm_source=habrahabr&utm_medium=rss)
-- [Создатели «Русы против ящеров» заявили о создании кооперативного режима и выпуске большого обновления](https://habr.com/ru/news/789276/?utm_campaign=789276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
