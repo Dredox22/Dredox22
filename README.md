@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил Shittier — утилиту, которая делает код нечитаемым](https://habr.com/ru/news/789286/?utm_campaign=789286&utm_source=habrahabr&utm_medium=rss)
+- [Создатели «Русы против ящеров» заявили о создании кооперативного режима и выпуске большого обновления](https://habr.com/ru/news/789276/?utm_campaign=789276&utm_source=habrahabr&utm_medium=rss)
+- [Apple Podcasts получит автоматически генерируемые расшифровки в iOS 17.4](https://habr.com/ru/news/789274/?utm_campaign=789274&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Firefox 122](https://habr.com/ru/news/789270/?utm_campaign=789270&utm_source=habrahabr&utm_medium=rss)
 - [RuStore назвал самые популярные приложения и игры в 2023 году](https://habr.com/ru/news/789264/?utm_campaign=789264&utm_source=habrahabr&utm_medium=rss)
-- [«Гарда» и «К2 Кибербезопасность» защитят данные российских компаний](https://habr.com/ru/companies/k2tech/news/789228/?utm_campaign=789228&utm_source=habrahabr&utm_medium=rss)
-- [Конференция по робототехнике Robot Operating System Meetup 3 февраля 2024](https://habr.com/ru/companies/sberbank/news/789204/?utm_campaign=789204&utm_source=habrahabr&utm_medium=rss)
-- [Производители и продавцы электроники пытаются добиться полного оформления в РФ стандарта Wi-Fi 6E](https://habr.com/ru/news/789216/?utm_campaign=789216&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI объявила об обновлениях GPT-4 Turbo для борьбы с «ленью» модели](https://habr.com/ru/news/789210/?utm_campaign=789210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
