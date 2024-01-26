@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Российские производители в 2024 году планируют увеличить объёмы производства материнских плат](https://habr.com/ru/news/789198/?utm_campaign=789198&utm_source=habrahabr&utm_medium=rss)
-- [FIREBIRD CONF 2024: открываем регистрацию и принимаем заявки спикеров](https://habr.com/ru/companies/redsoft/news/789136/?utm_campaign=789136&utm_source=habrahabr&utm_medium=rss)
-- [Национальный научный фонд США обеспечил доступ гражданам страны к государственным ИИ-ресурсам](https://habr.com/ru/news/789180/?utm_campaign=789180&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Palworld взяли на позицию аниматора оружия самоучку из круглосуточного магазина](https://habr.com/ru/news/789172/?utm_campaign=789172&utm_source=habrahabr&utm_medium=rss)
-- [Российского разработчика вредоносного ПО TrickBot приговорили к 5 годам 4 месяцам тюрьмы](https://habr.com/ru/news/789170/?utm_campaign=789170&utm_source=habrahabr&utm_medium=rss)
+- [«Гарда» и «К2 Кибербезопасность» защитят данные российских компаний](https://habr.com/ru/companies/k2tech/news/789228/?utm_campaign=789228&utm_source=habrahabr&utm_medium=rss)
+- [Конференция по робототехнике Robot Operating System Meetup 3 февраля 2024](https://habr.com/ru/companies/sberbank/news/789204/?utm_campaign=789204&utm_source=habrahabr&utm_medium=rss)
+- [Производители и продавцы электроники пытаются добиться полного оформления в РФ стандарта Wi-Fi 6E](https://habr.com/ru/news/789216/?utm_campaign=789216&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI объявила об обновлениях GPT-4 Turbo для борьбы с «ленью» модели](https://habr.com/ru/news/789210/?utm_campaign=789210&utm_source=habrahabr&utm_medium=rss)
+- [Платформа nanoCAD 24: новое 3D, корпоративные функции и техническая поддержка](https://habr.com/ru/companies/nanosoft/news/789214/?utm_campaign=789214&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
