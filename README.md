@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy Day 2024 пройдёт онлайн 29 января](https://habr.com/ru/news/789292/?utm_campaign=789292&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил Shittier — утилиту, которая делает код нечитаемым](https://habr.com/ru/news/789286/?utm_campaign=789286&utm_source=habrahabr&utm_medium=rss)
 - [Создатели «Русы против ящеров» заявили о создании кооперативного режима и выпуске большого обновления](https://habr.com/ru/news/789276/?utm_campaign=789276&utm_source=habrahabr&utm_medium=rss)
 - [Apple Podcasts получит автоматически генерируемые расшифровки в iOS 17.4](https://habr.com/ru/news/789274/?utm_campaign=789274&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 122](https://habr.com/ru/news/789270/?utm_campaign=789270&utm_source=habrahabr&utm_medium=rss)
-- [RuStore назвал самые популярные приложения и игры в 2023 году](https://habr.com/ru/news/789264/?utm_campaign=789264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
