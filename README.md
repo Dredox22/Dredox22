@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила ИИ-функции для учебных процессов](https://habr.com/ru/news/789154/?utm_campaign=789154&utm_source=habrahabr&utm_medium=rss)
+- [Тим Суини из Epic Games раскритиковал изменения в Apple App Store](https://habr.com/ru/news/789150/?utm_campaign=789150&utm_source=habrahabr&utm_medium=rss)
 - [Учёные МФТИ ускорили поиск новых лекарств с помощью машинного обучения](https://habr.com/ru/news/789114/?utm_campaign=789114&utm_source=habrahabr&utm_medium=rss)
 - [Apple подробно рассказала об изменениях в iOS, Safari и App Store для пользователей из Европы](https://habr.com/ru/news/789070/?utm_campaign=789070&utm_source=habrahabr&utm_medium=rss)
 - [Apple открыла стриминговым приложениям для игр доступ к App Store](https://habr.com/ru/news/789068/?utm_campaign=789068&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Аквариус» открыла два новых центра разработок](https://habr.com/ru/news/789066/?utm_campaign=789066&utm_source=habrahabr&utm_medium=rss)
-- [Joomla Pizza, Bugs &amp;amp; Fun 2024 — первая сессия в этом году 24 февраля](https://habr.com/ru/news/789040/?utm_campaign=789040&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
