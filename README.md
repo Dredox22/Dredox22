@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google представила ИИ-функции для учебных процессов](https://habr.com/ru/news/789154/?utm_campaign=789154&utm_source=habrahabr&utm_medium=rss)
-- [Тим Суини из Epic Games раскритиковал изменения в Apple App Store](https://habr.com/ru/news/789150/?utm_campaign=789150&utm_source=habrahabr&utm_medium=rss)
-- [Учёные МФТИ ускорили поиск новых лекарств с помощью машинного обучения](https://habr.com/ru/news/789114/?utm_campaign=789114&utm_source=habrahabr&utm_medium=rss)
-- [Apple подробно рассказала об изменениях в iOS, Safari и App Store для пользователей из Европы](https://habr.com/ru/news/789070/?utm_campaign=789070&utm_source=habrahabr&utm_medium=rss)
-- [Apple открыла стриминговым приложениям для игр доступ к App Store](https://habr.com/ru/news/789068/?utm_campaign=789068&utm_source=habrahabr&utm_medium=rss)
+- [FIREBIRD CONF 2024: открываем регистрацию и принимаем заявки спикеров](https://habr.com/ru/companies/redsoft/news/789136/?utm_campaign=789136&utm_source=habrahabr&utm_medium=rss)
+- [Национальный научный фонд США обеспечил доступ гражданам страны к государственным ИИ-ресурсам](https://habr.com/ru/news/789180/?utm_campaign=789180&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Palworld взяли на позицию аниматора оружия самоучку из круглосуточного магазина](https://habr.com/ru/news/789172/?utm_campaign=789172&utm_source=habrahabr&utm_medium=rss)
+- [Российского разработчика вредоносного ПО TrickBot приговорили к 5 годам 4 месяцам тюрьмы](https://habr.com/ru/news/789170/?utm_campaign=789170&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Normal Computing представил термодинамический компьютер](https://habr.com/ru/news/789164/?utm_campaign=789164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
