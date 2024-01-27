@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla назвала новые правила Apple для других браузеров в ЕС «максимально болезненными» для Firefox](https://habr.com/ru/news/789410/?utm_campaign=789410&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила первую предварительную сборку Windows Server 2025](https://habr.com/ru/news/789406/?utm_campaign=789406&utm_source=habrahabr&utm_medium=rss)
 - [SeeedStudio выпустили СВО для Raspberry Pi 5](https://habr.com/ru/news/789396/?utm_campaign=789396&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из ЛЭТИ создали прототип установки для изучения новых типов полупроводниковых плёнок](https://habr.com/ru/news/789364/?utm_campaign=789364&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила устанавливать приложения из сторонних маркетплейсов в EC](https://habr.com/ru/companies/friflex/news/789178/?utm_campaign=789178&utm_source=habrahabr&utm_medium=rss)
-- [Мобильное приложение Microsoft Xbox скоро позволит удалённо играть с помощью всего лишь сенсорного управления](https://habr.com/ru/news/789338/?utm_campaign=789338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
