@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На GitHub опубликовали план изучения информационной безопасности за 90 дней](https://habr.com/ru/news/789558/?utm_campaign=789558&utm_source=habrahabr&utm_medium=rss)
+- [Blizzard временно отключила обмен предметами в Diablo IV](https://habr.com/ru/news/789556/?utm_campaign=789556&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь обнаружил DoS-уязвимость двери с электроприводом санузла в поезде Intercity Express](https://habr.com/ru/news/789554/?utm_campaign=789554&utm_source=habrahabr&utm_medium=rss)
 - [«Инфосистемы Джет» представила отчёт о киберугрозах, зафиксированных в течение 2023 года](https://habr.com/ru/news/789546/?utm_campaign=789546&utm_source=habrahabr&utm_medium=rss)
 - [Релиз фреймворка AdonisJS v6](https://habr.com/ru/news/789542/?utm_campaign=789542&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains поделилась статистикой магазина плагинов для своих IDE за 2023 год](https://habr.com/ru/news/789480/?utm_campaign=789480&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой сборке Windows 11 Insider появилась возможность изменения параметров сжатия для архивов tar, 7-zip и zip](https://habr.com/ru/news/789450/?utm_campaign=789450&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla назвала новые правила Apple для других браузеров в ЕС «максимально болезненными» для Firefox](https://habr.com/ru/news/789410/?utm_campaign=789410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
