@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Edge 121: поддержка AVIF и AV1, виртуальное дерево в Wallet и не только](https://habr.com/ru/news/789600/?utm_campaign=789600&utm_source=habrahabr&utm_medium=rss)
+- [В технопарке «Кванториум» создали прототип прибора для повышения уровня безопасности шахт](https://habr.com/ru/news/789596/?utm_campaign=789596&utm_source=habrahabr&utm_medium=rss)
 - [На GitHub опубликовали план изучения информационной безопасности за 90 дней](https://habr.com/ru/news/789558/?utm_campaign=789558&utm_source=habrahabr&utm_medium=rss)
 - [Blizzard временно отключила обмен предметами в Diablo IV](https://habr.com/ru/news/789556/?utm_campaign=789556&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь обнаружил DoS-уязвимость двери с электроприводом санузла в поезде Intercity Express](https://habr.com/ru/news/789554/?utm_campaign=789554&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет» представила отчёт о киберугрозах, зафиксированных в течение 2023 года](https://habr.com/ru/news/789546/?utm_campaign=789546&utm_source=habrahabr&utm_medium=rss)
-- [Релиз фреймворка AdonisJS v6](https://habr.com/ru/news/789542/?utm_campaign=789542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
