@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon отказалась от покупки производителя роботов-пылесосов iRobot из-за давления регуляторов ЕС](https://habr.com/ru/news/789926/?utm_campaign=789926&utm_source=habrahabr&utm_medium=rss)
+- [Google представила обновление чат-бота для Android, теперь он читает личные сообщения пользователей](https://habr.com/ru/news/789924/?utm_campaign=789924&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила тестовую сборку Windows 11 Canary без WordPad](https://habr.com/ru/news/789920/?utm_campaign=789920&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия системы обезличивания данных «Гарда Маскирование 1.6»](https://habr.com/ru/news/789914/?utm_campaign=789914&utm_source=habrahabr&utm_medium=rss)
 - [Финская полиция смогла отследить транзакции Monero в деле хакера-вымогателя](https://habr.com/ru/news/789902/?utm_campaign=789902&utm_source=habrahabr&utm_medium=rss)
-- [ПАО «МТС» получило государственную аккредитацию для работы с биометрическими данными](https://habr.com/ru/news/789900/?utm_campaign=789900&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ опровергло информацию о хранении биометрии на портале «Госуслуги»](https://habr.com/ru/news/789888/?utm_campaign=789888&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст рассказал про успешный сброс счётчика для фильтра очистителя воздуха Xiaomi Mi Air Purifier](https://habr.com/ru/news/789836/?utm_campaign=789836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
