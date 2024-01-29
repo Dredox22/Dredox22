@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда Unity Sentis начала публиковать на Hugging Face адаптированные под Unity модели машинного обучения](https://habr.com/ru/news/789762/?utm_campaign=789762&utm_source=habrahabr&utm_medium=rss)
 - [Рост объёма премий по направлению киберстрахования в РФ за 2023 год составил около 80%](https://habr.com/ru/news/789758/?utm_campaign=789758&utm_source=habrahabr&utm_medium=rss)
 - [Docker открыла доступ к Scout разработчикам проектов в Open Source](https://habr.com/ru/news/789754/?utm_campaign=789754&utm_source=habrahabr&utm_medium=rss)
 - [Мобильные процессоры Lunar Lake-MX будут оснащаться встроенной памятью от Samsung](https://habr.com/ru/companies/dcmiran/news/789746/?utm_campaign=789746&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики iOS-приложений теперь могут отказаться от использования Sign in with Apple](https://habr.com/ru/news/789732/?utm_campaign=789732&utm_source=habrahabr&utm_medium=rss)
-- [В будущем Apple Vision Pro будет учитывать нагрузку на тело пользователя](https://habr.com/ru/news/789724/?utm_campaign=789724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
