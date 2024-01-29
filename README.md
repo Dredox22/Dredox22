@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Robotiz3d представила робот-каток ARRES для ремонта дорог](https://habr.com/ru/news/789944/?utm_campaign=789944&utm_source=habrahabr&utm_medium=rss)
 - [Amazon отказалась от покупки производителя роботов-пылесосов iRobot из-за давления регуляторов ЕС](https://habr.com/ru/news/789926/?utm_campaign=789926&utm_source=habrahabr&utm_medium=rss)
 - [Google представила обновление чат-бота для Android, теперь он читает личные сообщения пользователей](https://habr.com/ru/news/789924/?utm_campaign=789924&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила тестовую сборку Windows 11 Canary без WordPad](https://habr.com/ru/news/789920/?utm_campaign=789920&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия системы обезличивания данных «Гарда Маскирование 1.6»](https://habr.com/ru/news/789914/?utm_campaign=789914&utm_source=habrahabr&utm_medium=rss)
-- [Финская полиция смогла отследить транзакции Monero в деле хакера-вымогателя](https://habr.com/ru/news/789902/?utm_campaign=789902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
