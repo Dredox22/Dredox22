@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI добавила забытую ссылку на научную работу, на которой построен продукт компании](https://habr.com/ru/news/789778/?utm_campaign=789778&utm_source=habrahabr&utm_medium=rss)
+- [Greenplum: как грамотно вакуумировать распределенную СУБД и избежать серьезных проблем](https://habr.com/ru/companies/itsumma/news/789814/?utm_campaign=789814&utm_source=habrahabr&utm_medium=rss)
+- [Сервис ByteByteGo опубликовал репозиторий с визуальными материалами для изучения IT-систем](https://habr.com/ru/news/789808/?utm_campaign=789808&utm_source=habrahabr&utm_medium=rss)
+- [«Смута» выйдет 4 апреля 2024 года](https://habr.com/ru/news/789806/?utm_campaign=789806&utm_source=habrahabr&utm_medium=rss)
 - [Команда Unity Sentis начала публиковать на Hugging Face адаптированные под Unity модели машинного обучения](https://habr.com/ru/news/789762/?utm_campaign=789762&utm_source=habrahabr&utm_medium=rss)
-- [Рост объёма премий по направлению киберстрахования в РФ за 2023 год составил около 80%](https://habr.com/ru/news/789758/?utm_campaign=789758&utm_source=habrahabr&utm_medium=rss)
-- [Docker открыла доступ к Scout разработчикам проектов в Open Source](https://habr.com/ru/news/789754/?utm_campaign=789754&utm_source=habrahabr&utm_medium=rss)
-- [Мобильные процессоры Lunar Lake-MX будут оснащаться встроенной памятью от Samsung](https://habr.com/ru/companies/dcmiran/news/789746/?utm_campaign=789746&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики iOS-приложений теперь могут отказаться от использования Sign in with Apple](https://habr.com/ru/news/789732/?utm_campaign=789732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
