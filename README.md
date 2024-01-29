@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст рассказал про успешный сброс счётчика для фильтра очистителя воздуха Xiaomi Mi Air Purifier](https://habr.com/ru/news/789836/?utm_campaign=789836&utm_source=habrahabr&utm_medium=rss)
+- [Под фейковым сертификатом от Минцифры скрывался MetaStealer](https://habr.com/ru/companies/f_a_c_c_t/news/789850/?utm_campaign=789850&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/789830/?utm_campaign=789830&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI добавила забытую ссылку на научную работу, на которой построен продукт компании](https://habr.com/ru/news/789778/?utm_campaign=789778&utm_source=habrahabr&utm_medium=rss)
 - [Greenplum: как грамотно вакуумировать распределенную СУБД и избежать серьезных проблем](https://habr.com/ru/companies/itsumma/news/789814/?utm_campaign=789814&utm_source=habrahabr&utm_medium=rss)
-- [Сервис ByteByteGo опубликовал репозиторий с визуальными материалами для изучения IT-систем](https://habr.com/ru/news/789808/?utm_campaign=789808&utm_source=habrahabr&utm_medium=rss)
-- [«Смута» выйдет 4 апреля 2024 года](https://habr.com/ru/news/789806/?utm_campaign=789806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
