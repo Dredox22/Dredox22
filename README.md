@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В будущем Apple Vision Pro будет учитывать нагрузку на тело пользователя](https://habr.com/ru/news/789724/?utm_campaign=789724&utm_source=habrahabr&utm_medium=rss)
+- [X временно заблокировала поиск по словам Taylor Swift из-за большого количества дипфейк-порно с изображениями певицы](https://habr.com/ru/news/789710/?utm_campaign=789710&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст создал внутри Excel рабочий 16-битный процессор](https://habr.com/ru/news/789704/?utm_campaign=789704&utm_source=habrahabr&utm_medium=rss)
+- [Arc Search объединит браузер, поиск и ИИ](https://habr.com/ru/news/789700/?utm_campaign=789700&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик Виктор Фрай представил веб-сайт под названием «Кладбище проектов компании Microsoft»](https://habr.com/ru/news/789672/?utm_campaign=789672&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует опцию Voice Clarity в Windows 11 со встроенным исправлением плохого звука на собраниях](https://habr.com/ru/news/789664/?utm_campaign=789664&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Lumiere — нейросеть для генерации реалистичных видео](https://habr.com/ru/news/789650/?utm_campaign=789650&utm_source=habrahabr&utm_medium=rss)
-- [Анализ 153 млн строк позволяет обвинить Copilot в снижении качества кода разработчиков](https://habr.com/ru/news/789628/?utm_campaign=789628&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Edge 121: поддержка AVIF и AV1, виртуальное дерево в Wallet и не только](https://habr.com/ru/news/789600/?utm_campaign=789600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
