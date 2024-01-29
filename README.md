@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия системы обезличивания данных «Гарда Маскирование 1.6»](https://habr.com/ru/news/789914/?utm_campaign=789914&utm_source=habrahabr&utm_medium=rss)
 - [Финская полиция смогла отследить транзакции Monero в деле хакера-вымогателя](https://habr.com/ru/news/789902/?utm_campaign=789902&utm_source=habrahabr&utm_medium=rss)
 - [ПАО «МТС» получило государственную аккредитацию для работы с биометрическими данными](https://habr.com/ru/news/789900/?utm_campaign=789900&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры РФ опровергло информацию о хранении биометрии на портале «Госуслуги»](https://habr.com/ru/news/789888/?utm_campaign=789888&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст рассказал про успешный сброс счётчика для фильтра очистителя воздуха Xiaomi Mi Air Purifier](https://habr.com/ru/news/789836/?utm_campaign=789836&utm_source=habrahabr&utm_medium=rss)
-- [Под фейковым сертификатом от Минцифры скрывался MetaStealer](https://habr.com/ru/companies/f_a_c_c_t/news/789850/?utm_campaign=789850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
