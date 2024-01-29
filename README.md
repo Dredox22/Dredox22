@@ -71,7 +71,7 @@
 - [Разработчик Виктор Фрай представил веб-сайт под названием «Кладбище проектов компании Microsoft»](https://habr.com/ru/news/789672/?utm_campaign=789672&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует опцию Voice Clarity в Windows 11 со встроенным исправлением плохого звука на собраниях](https://habr.com/ru/news/789664/?utm_campaign=789664&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Lumiere — нейросеть для генерации реалистичных видео](https://habr.com/ru/news/789650/?utm_campaign=789650&utm_source=habrahabr&utm_medium=rss)
-- [Анализ 153 млн строк обвиняет Copilot в снижении качества кода разработчиков](https://habr.com/ru/news/789628/?utm_campaign=789628&utm_source=habrahabr&utm_medium=rss)
+- [Анализ 153 млн строк позволяет обвинить Copilot в снижении качества кода разработчиков](https://habr.com/ru/news/789628/?utm_campaign=789628&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Edge 121: поддержка AVIF и AV1, виртуальное дерево в Wallet и не только](https://habr.com/ru/news/789600/?utm_campaign=789600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
