@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После установки обновления KB5034204 для Windows 11 браузер Microsoft Edge автоматически открывает все вкладки из Chrome](https://habr.com/ru/news/789986/?utm_campaign=789986&utm_source=habrahabr&utm_medium=rss)
 - [Найден перспективный материал для наномоторов](https://habr.com/ru/news/789962/?utm_campaign=789962&utm_source=habrahabr&utm_medium=rss)
 - [Компания Robotiz3d представила робот-каток ARRES для ремонта дорог](https://habr.com/ru/news/789944/?utm_campaign=789944&utm_source=habrahabr&utm_medium=rss)
 - [Amazon отказалась от покупки производителя роботов-пылесосов iRobot из-за давления регуляторов ЕС](https://habr.com/ru/news/789926/?utm_campaign=789926&utm_source=habrahabr&utm_medium=rss)
 - [Google представила обновление чат-бота для Android, теперь он читает личные сообщения пользователей](https://habr.com/ru/news/789924/?utm_campaign=789924&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила тестовую сборку Windows 11 Canary без WordPad](https://habr.com/ru/news/789920/?utm_campaign=789920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
