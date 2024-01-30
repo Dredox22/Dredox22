@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Масштабирование постмодернизма. И проблема подмены фактов](https://habr.com/ru/news/790068/?utm_campaign=790068&utm_source=habrahabr&utm_medium=rss)
+- [ByteDance представила Coze — платформу-конструктор для создания чат-ботов на базе GPT](https://habr.com/ru/news/790066/?utm_campaign=790066&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT раскрывает пароли из частных разговоров своих пользователей](https://habr.com/ru/news/790022/?utm_campaign=790022&utm_source=habrahabr&utm_medium=rss)
 - [Автор Nitter объявил о закрытии проекта из-за изменений в гостевых учётных записях X](https://habr.com/ru/news/789998/?utm_campaign=789998&utm_source=habrahabr&utm_medium=rss)
 - [После установки обновления KB5034204 для Windows 11 браузер Microsoft Edge автоматически открывает все вкладки из Chrome](https://habr.com/ru/news/789986/?utm_campaign=789986&utm_source=habrahabr&utm_medium=rss)
-- [Найден перспективный материал для наномоторов](https://habr.com/ru/news/789962/?utm_campaign=789962&utm_source=habrahabr&utm_medium=rss)
-- [Компания Robotiz3d представила робот-каток ARRES для ремонта дорог](https://habr.com/ru/news/789944/?utm_campaign=789944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
