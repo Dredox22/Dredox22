@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Автор диплома от ChatGPT рассказал, как языковая модель нашла ему жену](https://habr.com/ru/news/790222/?utm_campaign=790222&utm_source=habrahabr&utm_medium=rss)
+- [Координационный центр доменов .RU/.РФ: официальное заявление о доступности сайтов в зоне .RU](https://habr.com/ru/news/790214/?utm_campaign=790214&utm_source=habrahabr&utm_medium=rss)
+- [В студенческом КБ МФТИ создан пилотный образец российского терминала космической лазерной связи](https://habr.com/ru/news/790210/?utm_campaign=790210&utm_source=habrahabr&utm_medium=rss)
 - [Лихтенштейн начал принимать криптовалюту для оплаты части госуслуг](https://habr.com/ru/news/790166/?utm_campaign=790166&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило создать в Москве сегмент Единой биометрической системы для развития городских сервисов](https://habr.com/ru/news/790136/?utm_campaign=790136&utm_source=habrahabr&utm_medium=rss)
-- [Международная группа учёных рассказала о новом способе предсказания свойств магнитных сплавов с помощью ML](https://habr.com/ru/news/790134/?utm_campaign=790134&utm_source=habrahabr&utm_medium=rss)
-- [Mercedes-Benz оставила в сети токен к GitHub Enterprise Server Mercedes, дававший доступ к исходному коду компании](https://habr.com/ru/news/790130/?utm_campaign=790130&utm_source=habrahabr&utm_medium=rss)
-- [Сбер в два раза увеличил контекст GigaChat Lite и GigaChat Pro](https://habr.com/ru/news/790094/?utm_campaign=790094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
