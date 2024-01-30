@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбер в два раза увеличил контекст GigaChat Lite и GigaChat Pro](https://habr.com/ru/news/790094/?utm_campaign=790094&utm_source=habrahabr&utm_medium=rss)
 - [Scaly Wolf атакует российские промышленные и логистические предприятия с помощью вредоноса White Snake](https://habr.com/ru/news/790074/?utm_campaign=790074&utm_source=habrahabr&utm_medium=rss)
 - [Масштабирование постмодернизма. И проблема подмены фактов](https://habr.com/ru/news/790068/?utm_campaign=790068&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance представила Coze — платформу-конструктор для создания чат-ботов на базе GPT](https://habr.com/ru/news/790066/?utm_campaign=790066&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT раскрывает пароли из частных разговоров своих пользователей](https://habr.com/ru/news/790022/?utm_campaign=790022&utm_source=habrahabr&utm_medium=rss)
-- [Автор Nitter объявил о закрытии проекта из-за изменений в гостевых учётных записях X](https://habr.com/ru/news/789998/?utm_campaign=789998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
