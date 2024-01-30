@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лихтенштейн начал принимать криптовалюту для оплаты части госуслуг](https://habr.com/ru/news/790166/?utm_campaign=790166&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило создать в Москве сегмент Единой биометрической системы для развития городских сервисов](https://habr.com/ru/news/790136/?utm_campaign=790136&utm_source=habrahabr&utm_medium=rss)
 - [Международная группа учёных рассказала о новом способе предсказания свойств магнитных сплавов с помощью ML](https://habr.com/ru/news/790134/?utm_campaign=790134&utm_source=habrahabr&utm_medium=rss)
 - [Mercedes-Benz оставила в сети токен к GitHub Enterprise Server Mercedes, дававший доступ к исходному коду компании](https://habr.com/ru/news/790130/?utm_campaign=790130&utm_source=habrahabr&utm_medium=rss)
 - [Сбер в два раза увеличил контекст GigaChat Lite и GigaChat Pro](https://habr.com/ru/news/790094/?utm_campaign=790094&utm_source=habrahabr&utm_medium=rss)
-- [Scaly Wolf атакует российские промышленные и логистические предприятия с помощью вредоноса White Snake](https://habr.com/ru/news/790074/?utm_campaign=790074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
