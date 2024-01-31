@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЦБ РФ: К проекту цифрового рубля готовятся подключиться ещё 17 банков](https://habr.com/ru/news/790500/?utm_campaign=790500&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies и «Тинькофф» запустили совместные курсы по подготовке ИБ-специалистов](https://habr.com/ru/news/790494/?utm_campaign=790494&utm_source=habrahabr&utm_medium=rss)
 - [Причиной масштабного сбоя в работе сайтов в доменной зоне .ru назвали несовершенство ПО DNSSEC](https://habr.com/ru/news/790424/?utm_campaign=790424&utm_source=habrahabr&utm_medium=rss)
 - [Тесты штатной батареи Apple Vision Pro показали, что гарнитура работает три часа без подзарядки](https://habr.com/ru/news/790418/?utm_campaign=790418&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор пояснил дальнейшие действия российским провайдерам и владельцам автономных систем после инцидента с DNSSEC](https://habr.com/ru/news/790414/?utm_campaign=790414&utm_source=habrahabr&utm_medium=rss)
-- [Трое экс-сотрудников Министерства внутренней безопасности США осуждены за кражу данных госслужащих](https://habr.com/ru/news/790310/?utm_campaign=790310&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
