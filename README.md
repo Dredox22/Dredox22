@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Трое экс-сотрудников Министерства внутренней безопасности США осуждены за кражу данных госслужащих](https://habr.com/ru/news/790310/?utm_campaign=790310&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» выпустил в App Store мобильное приложение для iOS под названием «Учёт Онлайн» от разработчика Prabhleen Hora](https://habr.com/ru/news/790306/?utm_campaign=790306&utm_source=habrahabr&utm_medium=rss)
 - [PayPal сократит примерно 2,5 тыс. рабочих мест](https://habr.com/ru/news/790298/?utm_campaign=790298&utm_source=habrahabr&utm_medium=rss)
 - [Apple Watch могут реагировать на некоторые жесты управления Vision Pro](https://habr.com/ru/news/790290/?utm_campaign=790290&utm_source=habrahabr&utm_medium=rss)
 - [Avast закрыла доступ пользователям из РФ к антивирусам Avast и AVG, а также к CCleaner](https://habr.com/ru/news/790266/?utm_campaign=790266&utm_source=habrahabr&utm_medium=rss)
-- [Таймлайн инцидента и вероятная причина проблемы с резолвом доменных имен в зоне RU &lpar;сломался DNSSEC&rpar;](https://habr.com/ru/news/790264/?utm_campaign=790264&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил Wren — минималистичный CLI-трекер задач с поддержкой Telegram-бота](https://habr.com/ru/news/790238/?utm_campaign=790238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
