@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Весь офисный пакет Microsoft будет доступен на Apple Vision Pro](https://habr.com/ru/news/790778/?utm_campaign=790778&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия системы аудита и управления информационными активами Makves DCAP 4.3](https://habr.com/ru/news/790764/?utm_campaign=790764&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс 360»: объёмы присылаемых мошенниками спам-писем снизились](https://habr.com/ru/news/790762/?utm_campaign=790762&utm_source=habrahabr&utm_medium=rss)
 - [Выступите на VK Kubernetes Conf! Прием заявок спикеров до 12 февраля](https://habr.com/ru/companies/vk/news/790744/?utm_campaign=790744&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE обнаружила 25 тысяч фишинговых сайтов, маскирующихся под «Столото», и рассказала схему обмана на этих сайтах](https://habr.com/ru/news/790702/?utm_campaign=790702&utm_source=habrahabr&utm_medium=rss)
-- [Российским банкам предложили выявлять клиентов-нерезидентов по геолокации](https://habr.com/ru/news/790698/?utm_campaign=790698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
