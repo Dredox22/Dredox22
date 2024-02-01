@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стань спикером киберфестиваля PHDays](https://habr.com/ru/companies/pt/news/790628/?utm_campaign=790628&utm_source=habrahabr&utm_medium=rss)
+- [Вышел первый геймплейный трейлер Death Stranding 2: On the Beach](https://habr.com/ru/news/790638/?utm_campaign=790638&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры расследует инцидент с DNSSEC, затронувший зону *.RU, и обещает опубликовать результаты технического разбора](https://habr.com/ru/news/790596/?utm_campaign=790596&utm_source=habrahabr&utm_medium=rss)
 - [Meta* выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/?utm_campaign=790590&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI объяснили публикацию личных данных в ChatGPT взломом аккаунта](https://habr.com/ru/news/790580/?utm_campaign=790580&utm_source=habrahabr&utm_medium=rss)
-- [Лазерная система Starlink передает 42 Петабайт данных в день](https://habr.com/ru/news/790574/?utm_campaign=790574&utm_source=habrahabr&utm_medium=rss)
-- [На образовательном портале Neal Fun вышла новая бесплатная онлайн-игра Infinite Craft](https://habr.com/ru/news/790568/?utm_campaign=790568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
