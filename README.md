@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В OpenAI объяснили публикацию личных данных в ChatGPT взломом аккаунта](https://habr.com/ru/news/790580/?utm_campaign=790580&utm_source=habrahabr&utm_medium=rss)
+- [Лазерная система Starlink передает 42 Петабайт данных в день](https://habr.com/ru/news/790574/?utm_campaign=790574&utm_source=habrahabr&utm_medium=rss)
 - [На образовательном портале Neal Fun вышла новая бесплатная онлайн-игра Infinite Craft](https://habr.com/ru/news/790568/?utm_campaign=790568&utm_source=habrahabr&utm_medium=rss)
 - [В Таиланде водитель доверился навигатору и заехал на машине на пешеходный подвесной мост](https://habr.com/ru/news/790558/?utm_campaign=790558&utm_source=habrahabr&utm_medium=rss)
 - [Настольное устройство на Arduino для обучения студентов основам парусного спорта](https://habr.com/ru/news/790520/?utm_campaign=790520&utm_source=habrahabr&utm_medium=rss)
-- [Unity добавила поддержку Apple Vision Pro для всех разработчиков игр](https://habr.com/ru/news/790536/?utm_campaign=790536&utm_source=habrahabr&utm_medium=rss)
-- [Juniper Networks представила Marvis Minis — ИИ-помощника  для сетевых инженеров и системных администраторов](https://habr.com/ru/news/790534/?utm_campaign=790534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
