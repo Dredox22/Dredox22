@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Таиланде водитель доверился навигатору и заехал на машине на пешеходный подвесной мост](https://habr.com/ru/news/790558/?utm_campaign=790558&utm_source=habrahabr&utm_medium=rss)
 - [Настольное устройство на Arduino для обучения студентов основам парусного спорта](https://habr.com/ru/news/790520/?utm_campaign=790520&utm_source=habrahabr&utm_medium=rss)
 - [Unity добавила поддержку Apple Vision Pro для всех разработчиков игр](https://habr.com/ru/news/790536/?utm_campaign=790536&utm_source=habrahabr&utm_medium=rss)
 - [Juniper Networks представила Marvis Minis — ИИ-помощника  для сетевых инженеров и системных администраторов](https://habr.com/ru/news/790534/?utm_campaign=790534&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ РФ: К проекту цифрового рубля готовятся подключиться ещё 17 банков](https://habr.com/ru/news/790500/?utm_campaign=790500&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies и «Тинькофф» запустили совместные курсы по подготовке ИБ-специалистов](https://habr.com/ru/news/790494/?utm_campaign=790494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
