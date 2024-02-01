@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выступите на VK Kubernetes Conf! Прием заявок спикеров до 12 февраля](https://habr.com/ru/companies/vk/news/790744/?utm_campaign=790744&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE обнаружила 25 тысяч фишинговых сайтов, маскирующихся под «Столото», и рассказала схему обмана на этих сайтах](https://habr.com/ru/news/790702/?utm_campaign=790702&utm_source=habrahabr&utm_medium=rss)
 - [Российским банкам предложили выявлять клиентов-нерезидентов по геолокации](https://habr.com/ru/news/790698/?utm_campaign=790698&utm_source=habrahabr&utm_medium=rss)
 - [Новый запуск курса Natural Language Processing](https://habr.com/ru/companies/ru_mts/news/790640/?utm_campaign=790640&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в феврале](https://habr.com/ru/companies/netologyru/news/790674/?utm_campaign=790674&utm_source=habrahabr&utm_medium=rss)
-- [«Гравитон» рассказала о новой материнской плате «Инга» для линейки настольных ПК](https://habr.com/ru/news/790672/?utm_campaign=790672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
