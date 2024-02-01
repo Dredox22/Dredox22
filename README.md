@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Стань спикером киберфестиваля PHDays](https://habr.com/ru/companies/pt/news/790628/?utm_campaign=790628&utm_source=habrahabr&utm_medium=rss)
-- [Вышел первый геймплейный трейлер Death Stranding 2: On the Beach](https://habr.com/ru/news/790638/?utm_campaign=790638&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры расследует инцидент с DNSSEC, затронувший зону *.RU, и обещает опубликовать результаты технического разбора](https://habr.com/ru/news/790596/?utm_campaign=790596&utm_source=habrahabr&utm_medium=rss)
-- [Meta* выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/?utm_campaign=790590&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI объяснили публикацию личных данных в ChatGPT взломом аккаунта](https://habr.com/ru/news/790580/?utm_campaign=790580&utm_source=habrahabr&utm_medium=rss)
+- [Новый запуск курса Natural Language Processing](https://habr.com/ru/companies/ru_mts/news/790640/?utm_campaign=790640&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в феврале](https://habr.com/ru/companies/netologyru/news/790674/?utm_campaign=790674&utm_source=habrahabr&utm_medium=rss)
+- [«Гравитон» рассказала о новой материнской плате «Инга» для линейки настольных ПК](https://habr.com/ru/news/790672/?utm_campaign=790672&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик порта TensorFlow Lite для Raspberry Pi Pico впервые за три года выпустил крупное обновление](https://habr.com/ru/news/790668/?utm_campaign=790668&utm_source=habrahabr&utm_medium=rss)
+- [Словили звезду: вымогатели из группы Shadow атакуют российские компании уже под новым именем — DARKSTAR](https://habr.com/ru/companies/f_a_c_c_t/news/790664/?utm_campaign=790664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
