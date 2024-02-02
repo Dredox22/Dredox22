@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Чат-бот Google Bard теперь работает на Gemini Pro и поддерживает Imagen 2](https://habr.com/ru/news/790876/?utm_campaign=790876&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит встроенную команду sudo](https://habr.com/ru/news/790854/?utm_campaign=790854&utm_source=habrahabr&utm_medium=rss)
 - [Учёным удалось взломать GPT-4, используя такие редкие языки, как зулусский, гэльский, хмонг и гуарани](https://habr.com/ru/news/790818/?utm_campaign=790818&utm_source=habrahabr&utm_medium=rss)
 - [Весь офисный пакет Microsoft будет доступен на Apple Vision Pro](https://habr.com/ru/news/790778/?utm_campaign=790778&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия системы аудита и управления информационными активами Makves DCAP 4.3](https://habr.com/ru/news/790764/?utm_campaign=790764&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс 360»: объёмы присылаемых мошенниками спам-писем снизились](https://habr.com/ru/news/790762/?utm_campaign=790762&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
