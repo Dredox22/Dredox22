@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies и Тинькофф объединяют усилия и запускают cовместные образовательные программы](https://habr.com/ru/companies/pt/news/790902/?utm_campaign=790902&utm_source=habrahabr&utm_medium=rss)
+- [Вышел PowerToys 0.78](https://habr.com/ru/news/790898/?utm_campaign=790898&utm_source=habrahabr&utm_medium=rss)
+- [Вышел ONLYOFFICE DocumentServer 8.0.0](https://habr.com/ru/news/790888/?utm_campaign=790888&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Google Bard теперь работает на Gemini Pro и поддерживает Imagen 2](https://habr.com/ru/news/790876/?utm_campaign=790876&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит встроенную команду sudo](https://habr.com/ru/news/790854/?utm_campaign=790854&utm_source=habrahabr&utm_medium=rss)
-- [Учёным удалось взломать GPT-4, используя такие редкие языки, как зулусский, гэльский, хмонг и гуарани](https://habr.com/ru/news/790818/?utm_campaign=790818&utm_source=habrahabr&utm_medium=rss)
-- [Весь офисный пакет Microsoft будет доступен на Apple Vision Pro](https://habr.com/ru/news/790778/?utm_campaign=790778&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия системы аудита и управления информационными активами Makves DCAP 4.3](https://habr.com/ru/news/790764/?utm_campaign=790764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
