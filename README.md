@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter-движ от Surf — 19-22 февраля 2024, онлайн](https://habr.com/ru/companies/surfstudio/news/790974/?utm_campaign=790974&utm_source=habrahabr&utm_medium=rss)
+- [«Оператор cache:» в поиске Google в ближайшее время перестанет работать](https://habr.com/ru/news/790958/?utm_campaign=790958&utm_source=habrahabr&utm_medium=rss)
+- [R-Style Softlab выпустила новую версию модуля для работы со СМЭВ4](https://habr.com/ru/companies/rshb/news/790950/?utm_campaign=790950&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, Apple, Mozilla, Google и другие разработчики продолжат улучшать браузеры в рамках проекта Interop 2024](https://habr.com/ru/news/790954/?utm_campaign=790954&utm_source=habrahabr&utm_medium=rss)
 - [Mastercard внедрила ИИ для выявления мошенников](https://habr.com/ru/news/790928/?utm_campaign=790928&utm_source=habrahabr&utm_medium=rss)
-- [Компания аутентификации Okta уволит 7% штата](https://habr.com/ru/news/790904/?utm_campaign=790904&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies и Тинькофф объединяют усилия и запускают cовместные образовательные программы](https://habr.com/ru/companies/pt/news/790902/?utm_campaign=790902&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PowerToys 0.78](https://habr.com/ru/news/790898/?utm_campaign=790898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
