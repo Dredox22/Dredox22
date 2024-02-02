@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Под гарнитуру смешанной реальности Vision Pro от Apple выпущено два приложения 2ГИС](https://habr.com/ru/news/791024/?utm_campaign=791024&utm_source=habrahabr&utm_medium=rss)
 - [Innostage подписала с IT‑кампусом «Неймарк» соглашение, в рамках которого будет создан студенческий SOC](https://habr.com/ru/news/791016/?utm_campaign=791016&utm_source=habrahabr&utm_medium=rss)
 - [Google Bard начал генерировать фотографии](https://habr.com/ru/news/791008/?utm_campaign=791008&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Windows 10 после установки обновлений от Microsoft сообщили о неработающих приложениях на ПК со старыми ЦП](https://habr.com/ru/news/791000/?utm_campaign=791000&utm_source=habrahabr&utm_medium=rss)
-- [Flutter-движ от Surf — 19-22 февраля 2024, онлайн](https://habr.com/ru/companies/surfstudio/news/790974/?utm_campaign=790974&utm_source=habrahabr&utm_medium=rss)
-- [«Оператор cache:» в поиске Google в ближайшее время перестанет работать](https://habr.com/ru/news/790958/?utm_campaign=790958&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия плагина Flutter &amp;amp; Dart для VSCode 3.82.0](https://habr.com/ru/companies/friflex/news/790934/?utm_campaign=790934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
