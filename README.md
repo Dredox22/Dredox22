@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastercard внедрила ИИ для выявления мошенников](https://habr.com/ru/news/790928/?utm_campaign=790928&utm_source=habrahabr&utm_medium=rss)
+- [Компания аутентификации Okta уволит 7% штата](https://habr.com/ru/news/790904/?utm_campaign=790904&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies и Тинькофф объединяют усилия и запускают cовместные образовательные программы](https://habr.com/ru/companies/pt/news/790902/?utm_campaign=790902&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PowerToys 0.78](https://habr.com/ru/news/790898/?utm_campaign=790898&utm_source=habrahabr&utm_medium=rss)
 - [Вышел ONLYOFFICE DocumentServer 8.0.0](https://habr.com/ru/news/790888/?utm_campaign=790888&utm_source=habrahabr&utm_medium=rss)
-- [Чат-бот Google Bard теперь работает на Gemini Pro и поддерживает Imagen 2](https://habr.com/ru/news/790876/?utm_campaign=790876&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 получит встроенную команду sudo](https://habr.com/ru/news/790854/?utm_campaign=790854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
