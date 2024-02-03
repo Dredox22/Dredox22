@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Полиция в США остановила за нарушение водителя в гарнитуре Vision Pro](https://habr.com/ru/news/791118/?utm_campaign=791118&utm_source=habrahabr&utm_medium=rss)
+- [Apple: что делать, если Vision Pro вызывает дискомфорт или укачивает](https://habr.com/ru/news/791112/?utm_campaign=791112&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Заправки» и «Яндекс Драйв» обязали хранить и делиться данными пользователей](https://habr.com/ru/news/791110/?utm_campaign=791110&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Учёт Онлайн», аналог «Сбербанк Онлайн», удалили из App Store](https://habr.com/ru/news/791102/?utm_campaign=791102&utm_source=habrahabr&utm_medium=rss)
 - [Релиз AMD Brotli-G 1.0](https://habr.com/ru/news/791100/?utm_campaign=791100&utm_source=habrahabr&utm_medium=rss)
-- [Под гарнитуру смешанной реальности Vision Pro от Apple выпущено два приложения 2ГИС](https://habr.com/ru/news/791024/?utm_campaign=791024&utm_source=habrahabr&utm_medium=rss)
-- [Innostage подписала с IT‑кампусом «Неймарк» соглашение, в рамках которого будет создан студенческий SOC](https://habr.com/ru/news/791016/?utm_campaign=791016&utm_source=habrahabr&utm_medium=rss)
-- [Google Bard начал генерировать фотографии](https://habr.com/ru/news/791008/?utm_campaign=791008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
