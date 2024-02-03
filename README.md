@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователь смог взломать гарнитуру Vision Pro в день старта продаж](https://habr.com/ru/news/791156/?utm_campaign=791156&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедрила предварительную поддержку нейропроцессоров Intel для DirectML API](https://habr.com/ru/news/791120/?utm_campaign=791120&utm_source=habrahabr&utm_medium=rss)
 - [Полиция в США остановила за нарушение водителя в гарнитуре Vision Pro](https://habr.com/ru/news/791118/?utm_campaign=791118&utm_source=habrahabr&utm_medium=rss)
 - [Apple: что делать, если Vision Pro вызывает дискомфорт или укачивает](https://habr.com/ru/news/791112/?utm_campaign=791112&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Заправки» и «Яндекс Драйв» обязали хранить и делиться данными пользователей](https://habr.com/ru/news/791110/?utm_campaign=791110&utm_source=habrahabr&utm_medium=rss)
-- [Приложение «Учёт Онлайн», аналог «Сбербанк Онлайн», удалили из App Store](https://habr.com/ru/news/791102/?utm_campaign=791102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
