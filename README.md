@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китай впервые в мире запустил спутник с искусственным интеллектом](https://habr.com/ru/news/791244/?utm_campaign=791244&utm_source=habrahabr&utm_medium=rss)
+- [Google переименует Bard в Gemini](https://habr.com/ru/news/791234/?utm_campaign=791234&utm_source=habrahabr&utm_medium=rss)
 - [AnyDesk сообщила о взломе серверов и сбросе паролей пользователей](https://habr.com/ru/news/791232/?utm_campaign=791232&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик отремонтировал старую умную кормушку для кошек PetNet с помощью ESP8266](https://habr.com/ru/news/791230/?utm_campaign=791230&utm_source=habrahabr&utm_medium=rss)
 - [В iFixit разобрали Vision Pro](https://habr.com/ru/news/791222/?utm_campaign=791222&utm_source=habrahabr&utm_medium=rss)
-- [В США в гарнитуре Vision Pro пользователи начали ходить по пешеходному переходу и улицам, а также сидеть в спортзале](https://habr.com/ru/news/791172/?utm_campaign=791172&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь смог взломать гарнитуру Vision Pro в день старта продаж](https://habr.com/ru/news/791156/?utm_campaign=791156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
