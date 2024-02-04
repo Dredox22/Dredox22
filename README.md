@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз языка программирования от Apple для определения конфигурации под названием Pkl &lpar;произносится как Pickle&rpar;](https://habr.com/ru/news/791296/?utm_campaign=791296&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь выяснил, как камера видеонаблюдения видит людей в Vision Pro](https://habr.com/ru/news/791292/?utm_campaign=791292&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mesa 24.0](https://habr.com/ru/news/791266/?utm_campaign=791266&utm_source=habrahabr&utm_medium=rss)
 - [Китай впервые в мире запустил спутник с искусственным интеллектом](https://habr.com/ru/news/791244/?utm_campaign=791244&utm_source=habrahabr&utm_medium=rss)
 - [Google переименует Bard в Gemini](https://habr.com/ru/news/791234/?utm_campaign=791234&utm_source=habrahabr&utm_medium=rss)
-- [AnyDesk сообщила о взломе серверов и сбросе паролей пользователей](https://habr.com/ru/news/791232/?utm_campaign=791232&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик отремонтировал старую умную кормушку для кошек PetNet с помощью ESP8266](https://habr.com/ru/news/791230/?utm_campaign=791230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
