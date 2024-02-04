@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик отремонтировал старую умную кормушку для кошек PetNet с помощью ESP8266](https://habr.com/ru/news/791230/?utm_campaign=791230&utm_source=habrahabr&utm_medium=rss)
 - [В iFixit разобрали Vision Pro](https://habr.com/ru/news/791222/?utm_campaign=791222&utm_source=habrahabr&utm_medium=rss)
 - [В США в гарнитуре Vision Pro пользователи начали ходить по пешеходному переходу и улицам, а также сидеть в спортзале](https://habr.com/ru/news/791172/?utm_campaign=791172&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь смог взломать гарнитуру Vision Pro в день старта продаж](https://habr.com/ru/news/791156/?utm_campaign=791156&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедрила предварительную поддержку нейропроцессоров Intel для DirectML API](https://habr.com/ru/news/791120/?utm_campaign=791120&utm_source=habrahabr&utm_medium=rss)
-- [Полиция в США остановила за нарушение водителя в гарнитуре Vision Pro](https://habr.com/ru/news/791118/?utm_campaign=791118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
