@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение ChatGPT вышло для visionOS](https://habr.com/ru/news/791490/?utm_campaign=791490&utm_source=habrahabr&utm_medium=rss)
+- [В магазине приложений Xiaomi обнаружили подделки российского магазина RuStore](https://habr.com/ru/news/791472/?utm_campaign=791472&utm_source=habrahabr&utm_medium=rss)
 - [HFLabs приглашает интеграторов на деловой завтрак](https://habr.com/ru/companies/hflabs/news/791436/?utm_campaign=791436&utm_source=habrahabr&utm_medium=rss)
 - [АНО «Цифровые платформы» планирует создать российский магазин приложений для устройств на iOS](https://habr.com/ru/news/791434/?utm_campaign=791434&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE сообщила о пяти уязвимостях в Websoft HCM](https://habr.com/ru/news/791432/?utm_campaign=791432&utm_source=habrahabr&utm_medium=rss)
-- [Директор Координационного центра доменов .RU/.РФ рассказал о причинах сбоя в работе доменной зоны RU от 30 января](https://habr.com/ru/news/791418/?utm_campaign=791418&utm_source=habrahabr&utm_medium=rss)
-- [К гарнитуре Vision Pro нельзя подключить Bluetooth-мыши и старые клавиатуры Apple](https://habr.com/ru/news/791392/?utm_campaign=791392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
