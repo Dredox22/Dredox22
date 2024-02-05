@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/791552/?utm_campaign=791552&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия динамического анализатора приложений, работающего методом чёрного ящика PT BlackBox](https://habr.com/ru/news/791538/?utm_campaign=791538&utm_source=habrahabr&utm_medium=rss)
 - [Система «Яга» от «Ростелекома» появилась в реестре отечественного ПО](https://habr.com/ru/news/791516/?utm_campaign=791516&utm_source=habrahabr&utm_medium=rss)
 - [Приложение ChatGPT вышло для visionOS](https://habr.com/ru/news/791490/?utm_campaign=791490&utm_source=habrahabr&utm_medium=rss)
 - [В магазине приложений Xiaomi обнаружили подделки российского магазина RuStore](https://habr.com/ru/news/791472/?utm_campaign=791472&utm_source=habrahabr&utm_medium=rss)
-- [HFLabs приглашает интеграторов на деловой завтрак](https://habr.com/ru/companies/hflabs/news/791436/?utm_campaign=791436&utm_source=habrahabr&utm_medium=rss)
-- [АНО «Цифровые платформы» планирует создать российский магазин приложений для устройств на iOS](https://habr.com/ru/news/791434/?utm_campaign=791434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
