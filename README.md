@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [К гарнитуре Vision Pro нельзя подключить Bluetooth-мыши старые клавиатуры Apple](https://habr.com/ru/news/791392/?utm_campaign=791392&utm_source=habrahabr&utm_medium=rss)
+- [Протестируйте nanoCAD Механика PRO и выиграйте приз](https://habr.com/ru/companies/nanosoft/news/791384/?utm_campaign=791384&utm_source=habrahabr&utm_medium=rss)
+- [Bambu Lab отзывает все 3D-принтеры A1 &lpar;кроме A1 Mini&rpar; из-за неправильно спроектированного элемента электрокабеля](https://habr.com/ru/news/791382/?utm_campaign=791382&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: в картах памяти microSD и USB-накопителях нашли контрафактные или неработающие штатно чипы памяти](https://habr.com/ru/news/791376/?utm_campaign=791376&utm_source=habrahabr&utm_medium=rss)
 - [Компания потеряла $25,6 млн из-за обмана сотрудника по видеосвязи](https://habr.com/ru/news/791370/?utm_campaign=791370&utm_source=habrahabr&utm_medium=rss)
-- [Intel выпустила патчи для планировщика потоков Thread Director в Linux, улучшающие производительность от 3% до 14%](https://habr.com/ru/news/791364/?utm_campaign=791364&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования от Apple для определения конфигурации под названием Pkl &lpar;произносится как Pickle&rpar;](https://habr.com/ru/news/791296/?utm_campaign=791296&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь выяснил, как камера видеонаблюдения видит людей в Vision Pro](https://habr.com/ru/news/791292/?utm_campaign=791292&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mesa 24.0](https://habr.com/ru/news/791266/?utm_campaign=791266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
