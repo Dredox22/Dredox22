@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Watt Studio представила второй тизер игры Trains: Electrostorm](https://habr.com/ru/news/791900/?utm_campaign=791900&utm_source=habrahabr&utm_medium=rss)
 - [Минорное обновление CLion Nova: ИИ-ассистент и улучшения из ReSharper v2024.1](https://habr.com/ru/news/791888/?utm_campaign=791888&utm_source=habrahabr&utm_medium=rss)
 - [Бывший сотрудник ЦРУ, считающийся информатором WikiLeaks, был приговорён к 40 годам тюрьмы](https://habr.com/ru/news/791884/?utm_campaign=791884&utm_source=habrahabr&utm_medium=rss)
 - [AWS отчиталась о квартальной выручке в $24,2 млрд превысив ожидания аналитиков](https://habr.com/ru/companies/dcmiran/news/791880/?utm_campaign=791880&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» проведёт онлайн-олимпиаду по информатике для учеников 5-11 классов](https://habr.com/ru/news/791864/?utm_campaign=791864&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mundfish: DLC Atomic Heart «Узник Лимбо»](https://habr.com/ru/news/791854/?utm_campaign=791854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
