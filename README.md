@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies заплатит белым хакерам 60 млн рублей за закладку в коде своих продуктов](https://habr.com/ru/companies/pt/news/791686/?utm_campaign=791686&utm_source=habrahabr&utm_medium=rss)
+- [Конференция AtlassianConf 2024 пройдёт в Москве 13 февраля](https://habr.com/ru/companies/evateam/news/791680/?utm_campaign=791680&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс.Еда» создала собственный остров в Fortnite](https://habr.com/ru/news/791672/?utm_campaign=791672&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала показывать пользователям Windows 10 полноэкранные уведомления об обновлении до Windows 11](https://habr.com/ru/news/791658/?utm_campaign=791658&utm_source=habrahabr&utm_medium=rss)
 - [Открылся приём заявок на Apple Swift Student Challenge 2024](https://habr.com/ru/news/791650/?utm_campaign=791650&utm_source=habrahabr&utm_medium=rss)
-- [Конференция разработчиков Microsoft Build пройдёт 21-23 мая](https://habr.com/ru/news/791648/?utm_campaign=791648&utm_source=habrahabr&utm_medium=rss)
-- [Взаимное импортозамещение: РЕД СОФТ перешел на отечественный аналог Jira от EvaTeam, а они в ответ перешли на РЕД ОС](https://habr.com/ru/companies/evateam/news/791646/?utm_campaign=791646&utm_source=habrahabr&utm_medium=rss)
-- [Инструкция: как удалить приложения из Apple Vision Pro](https://habr.com/ru/news/791638/?utm_campaign=791638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
