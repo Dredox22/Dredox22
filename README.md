@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft объявила о партнёрстве с новостными медиа-компаниями, чтобы предоставить им доступ к генеративному ИИ](https://habr.com/ru/news/791632/?utm_campaign=791632&utm_source=habrahabr&utm_medium=rss)
-- [Weaveworks объявила о закрытии](https://habr.com/ru/news/791628/?utm_campaign=791628&utm_source=habrahabr&utm_medium=rss)
-- [Mediascope: почти половина населения России пользуется Telegram](https://habr.com/ru/news/791622/?utm_campaign=791622&utm_source=habrahabr&utm_medium=rss)
-- [«I’ll be back». Новый браузер Supermium доступен для Windows XP и Windows Server 2003](https://habr.com/ru/news/791526/?utm_campaign=791526&utm_source=habrahabr&utm_medium=rss)
-- [Towa получила в 10 раз больше заказов на свое оборудование для упаковки HBM-памяти](https://habr.com/ru/companies/dcmiran/news/791556/?utm_campaign=791556&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала показывать пользователям Windows 10 полноэкранные уведомления об обновлении до Windows 11](https://habr.com/ru/news/791658/?utm_campaign=791658&utm_source=habrahabr&utm_medium=rss)
+- [Открылся приём заявок на Apple Swift Student Challenge 2024](https://habr.com/ru/news/791650/?utm_campaign=791650&utm_source=habrahabr&utm_medium=rss)
+- [Конференция разработчиков Microsoft Build пройдёт 21-23 мая](https://habr.com/ru/news/791648/?utm_campaign=791648&utm_source=habrahabr&utm_medium=rss)
+- [Взаимное импортозамещение: РЕД СОФТ перешел на отечественный аналог Jira от EvaTeam, а они в ответ перешли на РЕД ОС](https://habr.com/ru/companies/evateam/news/791646/?utm_campaign=791646&utm_source=habrahabr&utm_medium=rss)
+- [Инструкция: как удалить приложения из Apple Vision Pro](https://habr.com/ru/news/791638/?utm_campaign=791638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
