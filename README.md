@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft объявила о партнёрстве с новостными медиа-компаниями, чтобы предоставить им доступ к генеративному ИИ](https://habr.com/ru/news/791632/?utm_campaign=791632&utm_source=habrahabr&utm_medium=rss)
+- [Weaveworks объявила о закрытии](https://habr.com/ru/news/791628/?utm_campaign=791628&utm_source=habrahabr&utm_medium=rss)
 - [Mediascope: почти половина населения России пользуется Telegram](https://habr.com/ru/news/791622/?utm_campaign=791622&utm_source=habrahabr&utm_medium=rss)
 - [«I’ll be back». Новый браузер Supermium доступен для Windows XP и Windows Server 2003](https://habr.com/ru/news/791526/?utm_campaign=791526&utm_source=habrahabr&utm_medium=rss)
 - [Towa получила в 10 раз больше заказов на свое оборудование для упаковки HBM-памяти](https://habr.com/ru/companies/dcmiran/news/791556/?utm_campaign=791556&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/791552/?utm_campaign=791552&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия динамического анализатора приложений, работающего методом чёрного ящика PT BlackBox](https://habr.com/ru/news/791538/?utm_campaign=791538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
