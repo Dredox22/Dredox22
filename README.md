@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Angara Security: в 2023 году Telegram стал одной из самых востребованных площадок для продажи слитых баз данных](https://habr.com/ru/news/791820/?utm_campaign=791820&utm_source=habrahabr&utm_medium=rss)
 - [Релиз CheerpJ 3.0](https://habr.com/ru/news/791802/?utm_campaign=791802&utm_source=habrahabr&utm_medium=rss)
 - [«Сферум» и проект «Твой Ход» представили результаты опроса молодёжи по использованию мессенджеров в развитии софт скилов](https://habr.com/ru/news/791754/?utm_campaign=791754&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Nuitka 2.0 — компилятора для языка Python](https://habr.com/ru/news/791744/?utm_campaign=791744&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Astro 4.3: конфигурация доменов для i18n и больше контроля над HTML-файлами](https://habr.com/ru/news/791732/?utm_campaign=791732&utm_source=habrahabr&utm_medium=rss)
-- [Стартует цикл лекций по работе с архитектурой RISC-V от разработчика из «Базальт СПО»](https://habr.com/ru/companies/basealtspo/news/791706/?utm_campaign=791706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
