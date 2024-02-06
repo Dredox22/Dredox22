@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сферум» и проект «Твой Ход» представили результаты опроса молодёжи по использованию мессенджеров в развитии софт скилов](https://habr.com/ru/news/791754/?utm_campaign=791754&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Nuitka 2.0 — компилятора для языка Python](https://habr.com/ru/news/791744/?utm_campaign=791744&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Astro 4.3: конфигурация доменов для i18n и больше контроля над HTML-файлами](https://habr.com/ru/news/791732/?utm_campaign=791732&utm_source=habrahabr&utm_medium=rss)
 - [Стартует цикл лекций по работе с архитектурой RISC-V от разработчика из «Базальт СПО»](https://habr.com/ru/companies/basealtspo/news/791706/?utm_campaign=791706&utm_source=habrahabr&utm_medium=rss)
 - [Тихоокеанский рубеж: кибершпионы из RedCurl нацелились на Австралию, Сингапур и Гонконг](https://habr.com/ru/companies/f_a_c_c_t/news/791698/?utm_campaign=791698&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies заплатит белым хакерам 60 млн рублей за закладку в коде своих продуктов](https://habr.com/ru/companies/pt/news/791686/?utm_campaign=791686&utm_source=habrahabr&utm_medium=rss)
-- [Конференция AtlassianConf 2024 пройдёт в Москве 13 февраля](https://habr.com/ru/companies/evateam/news/791680/?utm_campaign=791680&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
