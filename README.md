@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TEN group приступила к производству экзоскелета с номинальной грузоподъёмностью до 60 кг](https://habr.com/ru/news/792076/?utm_campaign=792076&utm_source=habrahabr&utm_medium=rss)
 - [Роснано инициировало банкротство разработчика гибкой электроники Plastic Logic](https://habr.com/ru/news/792034/?utm_campaign=792034&utm_source=habrahabr&utm_medium=rss)
 - [К системе «Антифрод» подключились свыше 700 операторов связи России](https://habr.com/ru/news/791972/?utm_campaign=791972&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» увеличил вознаграждение для багхантеров за найденные в умных устройствах компании уязвимости](https://habr.com/ru/news/791892/?utm_campaign=791892&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI добавит водяные знаки в DALL-E 3](https://habr.com/ru/news/791958/?utm_campaign=791958&utm_source=habrahabr&utm_medium=rss)
-- [Google представила открытый набор localllm для работы ИИ-приложений на локальных процессорах без GPU](https://habr.com/ru/news/791952/?utm_campaign=791952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
