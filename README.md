@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Маркет» представил свой бренд компьютерной техники Lunnen и открыл продажи ноутбуков линейки Ground](https://habr.com/ru/news/791944/?utm_campaign=791944&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Store официально представил функцию «Аркады» для игр без загрузки в Windows 11](https://habr.com/ru/news/791940/?utm_campaign=791940&utm_source=habrahabr&utm_medium=rss)
+- [Открыт исходный код утилиты командной строки DotSlash &lpar;dotslash&rpar;](https://habr.com/ru/news/791928/?utm_campaign=791928&utm_source=habrahabr&utm_medium=rss)
 - [Найден способ сломать Windows 11 — выставить системную дату и время на 23:59 31 декабря 9999 года и подождать](https://habr.com/ru/news/791922/?utm_campaign=791922&utm_source=habrahabr&utm_medium=rss)
 - [Watt Studio представила второй тизер игры Trains: Electrostorm](https://habr.com/ru/news/791900/?utm_campaign=791900&utm_source=habrahabr&utm_medium=rss)
-- [Минорное обновление CLion Nova: ИИ-ассистент и улучшения из ReSharper v2024.1](https://habr.com/ru/news/791888/?utm_campaign=791888&utm_source=habrahabr&utm_medium=rss)
-- [Бывший сотрудник ЦРУ, считающийся информатором WikiLeaks, был приговорён к 40 годам тюрьмы](https://habr.com/ru/news/791884/?utm_campaign=791884&utm_source=habrahabr&utm_medium=rss)
-- [AWS отчиталась о квартальной выручке в $24,2 млрд превысив ожидания аналитиков](https://habr.com/ru/companies/dcmiran/news/791880/?utm_campaign=791880&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
