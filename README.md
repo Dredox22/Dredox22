@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар 14 февраля. Сокращаем время на тестирование приложений](https://habr.com/ru/companies/selectel/news/792144/?utm_campaign=792144&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Go 1.22](https://habr.com/ru/news/792138/?utm_campaign=792138&utm_source=habrahabr&utm_medium=rss)
+- [Холдинг «Росэлектроника» показал систему «Зенит» для мониторинга наземной инфраструктуры аэропортов](https://habr.com/ru/news/792128/?utm_campaign=792128&utm_source=habrahabr&utm_medium=rss)
 - [TEN group приступила к производству экзоскелета с номинальной грузоподъёмностью до 60 кг](https://habr.com/ru/news/792076/?utm_campaign=792076&utm_source=habrahabr&utm_medium=rss)
 - [Роснано инициировало банкротство разработчика гибкой электроники Plastic Logic](https://habr.com/ru/news/792034/?utm_campaign=792034&utm_source=habrahabr&utm_medium=rss)
-- [К системе «Антифрод» подключились свыше 700 операторов связи России](https://habr.com/ru/news/791972/?utm_campaign=791972&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» увеличил вознаграждение для багхантеров за найденные в умных устройствах компании уязвимости](https://habr.com/ru/news/791892/?utm_campaign=791892&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI добавит водяные знаки в DALL-E 3](https://habr.com/ru/news/791958/?utm_campaign=791958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
