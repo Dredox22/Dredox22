@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Блогер взял на обзор мини-ПК, зараженный вредоносами](https://habr.com/ru/news/792154/?utm_campaign=792154&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар 14 февраля. Сокращаем время на тестирование приложений](https://habr.com/ru/companies/selectel/news/792144/?utm_campaign=792144&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Go 1.22](https://habr.com/ru/news/792138/?utm_campaign=792138&utm_source=habrahabr&utm_medium=rss)
 - [Холдинг «Росэлектроника» показал систему «Зенит» для мониторинга наземной инфраструктуры аэропортов](https://habr.com/ru/news/792128/?utm_campaign=792128&utm_source=habrahabr&utm_medium=rss)
 - [TEN group приступила к производству экзоскелета с номинальной грузоподъёмностью до 60 кг](https://habr.com/ru/news/792076/?utm_campaign=792076&utm_source=habrahabr&utm_medium=rss)
-- [Роснано инициировало банкротство разработчика гибкой электроники Plastic Logic](https://habr.com/ru/news/792034/?utm_campaign=792034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
