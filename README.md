@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Яндекс» увеличила вознаграждение для багхантеров за найденные уязвимости в умных устройствах компании](https://habr.com/ru/news/791892/?utm_campaign=791892&utm_source=habrahabr&utm_medium=rss)
+- [К системе «Антифрод» подключились свыше 700 операторов связи России](https://habr.com/ru/news/791972/?utm_campaign=791972&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» увеличил вознаграждение для багхантеров за найденные в умных устройствах компании уязвимости](https://habr.com/ru/news/791892/?utm_campaign=791892&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI добавит водяные знаки в DALL-E 3](https://habr.com/ru/news/791958/?utm_campaign=791958&utm_source=habrahabr&utm_medium=rss)
 - [Google представила открытый набор localllm для работы ИИ-приложений на локальных процессорах без GPU](https://habr.com/ru/news/791952/?utm_campaign=791952&utm_source=habrahabr&utm_medium=rss)
 - [Релиз VS Code v1.86](https://habr.com/ru/news/791956/?utm_campaign=791956&utm_source=habrahabr&utm_medium=rss)
-- [Стартует конкурс студенческих проектов «САПР-Перспектива – 2024»](https://habr.com/ru/companies/nanosoft/news/791954/?utm_campaign=791954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
