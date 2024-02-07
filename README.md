@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Яндекс Маркет» представил свой бренд компьютерной техники Lunnen и открыл продажи ноутбуков линейки Ground](https://habr.com/ru/news/791944/?utm_campaign=791944&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Store официально представил функцию «Аркады» для игр без загрузки в Windows 11](https://habr.com/ru/news/791940/?utm_campaign=791940&utm_source=habrahabr&utm_medium=rss)
-- [Открыт исходный код утилиты командной строки DotSlash &lpar;dotslash&rpar;](https://habr.com/ru/news/791928/?utm_campaign=791928&utm_source=habrahabr&utm_medium=rss)
-- [Найден способ сломать Windows 11 — выставить системную дату и время на 23:59 31 декабря 9999 года и подождать](https://habr.com/ru/news/791922/?utm_campaign=791922&utm_source=habrahabr&utm_medium=rss)
-- [Watt Studio представила второй тизер игры Trains: Electrostorm](https://habr.com/ru/news/791900/?utm_campaign=791900&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» увеличила вознаграждение для багхантеров за найденные уязвимости в умных устройствах компании](https://habr.com/ru/news/791892/?utm_campaign=791892&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI добавит водяные знаки в DALL-E 3](https://habr.com/ru/news/791958/?utm_campaign=791958&utm_source=habrahabr&utm_medium=rss)
+- [Google представила открытый набор localllm для работы ИИ-приложений на локальных процессорах без GPU](https://habr.com/ru/news/791952/?utm_campaign=791952&utm_source=habrahabr&utm_medium=rss)
+- [Релиз VS Code v1.86](https://habr.com/ru/news/791956/?utm_campaign=791956&utm_source=habrahabr&utm_medium=rss)
+- [Стартует конкурс студенческих проектов «САПР-Перспектива – 2024»](https://habr.com/ru/companies/nanosoft/news/791954/?utm_campaign=791954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
