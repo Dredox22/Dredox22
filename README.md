@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность конфигураций веб-сервера Angie PRO теперь контролирует X-Config](https://habr.com/ru/news/792334/?utm_campaign=792334&utm_source=habrahabr&utm_medium=rss)
+- [Министерство внутренней безопасности США создало новое подразделение под названием AI Corps](https://habr.com/ru/news/792332/?utm_campaign=792332&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила версии приложений Apple Music и Apple TV для Windows 10/11](https://habr.com/ru/news/792298/?utm_campaign=792298&utm_source=habrahabr&utm_medium=rss)
 - [Fplus запустила в России собственное производство принтеров](https://habr.com/ru/news/792274/?utm_campaign=792274&utm_source=habrahabr&utm_medium=rss)
 - [VisionOS beta 1.1 обеспечивает управление корпоративными гарнитурами Vision Pro](https://habr.com/ru/news/792260/?utm_campaign=792260&utm_source=habrahabr&utm_medium=rss)
-- [Открытый проект SafeDiscShim помогает обойти DRM в классических играх на ПК с Windows](https://habr.com/ru/news/792238/?utm_campaign=792238&utm_source=habrahabr&utm_medium=rss)
-- [Исследователя, который помог Apple в поиске уязвимости Wi-Fi, арестовали за мошенничество](https://habr.com/ru/news/792230/?utm_campaign=792230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
