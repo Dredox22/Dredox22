@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые материнские платы AMD на чипсете X870E будут дороже из-за чипа ASMedia ASM4242 USB4](https://habr.com/ru/companies/dcmiran/news/792216/?utm_campaign=792216&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запускает предварительную поддержку Universal Print для macOS](https://habr.com/ru/news/792212/?utm_campaign=792212&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила нейросеть MGIE для редактирования изображений по текстовому описанию](https://habr.com/ru/news/792178/?utm_campaign=792178&utm_source=habrahabr&utm_medium=rss)
 - [В «Техническом центре Интернет» &lpar;ТЦИ&rpar; сообщили провайдерам о причинах сбоя в работе доменной зоны RU от 30 января](https://habr.com/ru/news/792176/?utm_campaign=792176&utm_source=habrahabr&utm_medium=rss)
 - [Rust Foundation получила от Google грант на улучшение взаимодействия между языками C++ и Rust](https://habr.com/ru/news/792174/?utm_campaign=792174&utm_source=habrahabr&utm_medium=rss)
-- [Блогер взял на обзор мини-ПК, заражённый вредоносами](https://habr.com/ru/news/792154/?utm_campaign=792154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
