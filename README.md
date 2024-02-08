@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила версии приложений Apple Music и Apple TV для Windows 10/11](https://habr.com/ru/news/792298/?utm_campaign=792298&utm_source=habrahabr&utm_medium=rss)
 - [Fplus запустила в России собственное производство принтеров](https://habr.com/ru/news/792274/?utm_campaign=792274&utm_source=habrahabr&utm_medium=rss)
 - [VisionOS beta 1.1 обеспечивает управление корпоративными гарнитурами Vision Pro](https://habr.com/ru/news/792260/?utm_campaign=792260&utm_source=habrahabr&utm_medium=rss)
 - [Открытый проект SafeDiscShim помогает обойти DRM в классических играх на ПК с Windows](https://habr.com/ru/news/792238/?utm_campaign=792238&utm_source=habrahabr&utm_medium=rss)
 - [Исследователя, который помог Apple в поиске уязвимости Wi-Fi, арестовали за мошенничество](https://habr.com/ru/news/792230/?utm_campaign=792230&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила, что в Windows 11 Build 26052 появится общедоступная предварительная версия «Sudo для Windows»](https://habr.com/ru/news/792228/?utm_campaign=792228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
