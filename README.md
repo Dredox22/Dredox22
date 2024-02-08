@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft изменила интерфейс Copilot для Windows, чтобы сервис по умолчанию запускался с большим окном чата](https://habr.com/ru/news/792350/?utm_campaign=792350&utm_source=habrahabr&utm_medium=rss)
+- [Российские банки выступили против оборотных штрафов до 500 млн рублей за утечки данных](https://habr.com/ru/news/792348/?utm_campaign=792348&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность конфигураций веб-сервера Angie PRO теперь контролирует X-Config](https://habr.com/ru/news/792334/?utm_campaign=792334&utm_source=habrahabr&utm_medium=rss)
 - [Министерство внутренней безопасности США создало новое подразделение под названием AI Corps](https://habr.com/ru/news/792332/?utm_campaign=792332&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила версии приложений Apple Music и Apple TV для Windows 10/11](https://habr.com/ru/news/792298/?utm_campaign=792298&utm_source=habrahabr&utm_medium=rss)
-- [Fplus запустила в России собственное производство принтеров](https://habr.com/ru/news/792274/?utm_campaign=792274&utm_source=habrahabr&utm_medium=rss)
-- [VisionOS beta 1.1 обеспечивает управление корпоративными гарнитурами Vision Pro](https://habr.com/ru/news/792260/?utm_campaign=792260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
