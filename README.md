@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Акции Arm за сутки взлетели на 48%](https://habr.com/ru/companies/dcmiran/news/792504/?utm_campaign=792504&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft официально представила новую функцию «Sudo для Windows» и выложила проект утилиты sudo на GitHub](https://habr.com/ru/news/792470/?utm_campaign=792470&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся публичный выпуск VirtualBox KVM](https://habr.com/ru/news/792438/?utm_campaign=792438&utm_source=habrahabr&utm_medium=rss)
 - [Google переименовала чат-бот Bard в Gemini и открыла подписку на Gemini Ultra 1.0](https://habr.com/ru/news/792436/?utm_campaign=792436&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft изменила интерфейс Copilot для Windows, чтобы сервис по умолчанию запускался с большим окном чата](https://habr.com/ru/news/792350/?utm_campaign=792350&utm_source=habrahabr&utm_medium=rss)
-- [Российские банки выступили против оборотных штрафов до 500 млн рублей за утечки данных](https://habr.com/ru/news/792348/?utm_campaign=792348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
