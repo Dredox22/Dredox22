@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кибершпионы Sticky Werewolf решили почистить компании в Беларуси под видом загрузки CCleaner](https://habr.com/ru/companies/f_a_c_c_t/news/792672/?utm_campaign=792672&utm_source=habrahabr&utm_medium=rss)
+- [Платформа для создания чат-ботов AGIMA AI попала в госреестр ПО](https://habr.com/ru/companies/agima/news/792640/?utm_campaign=792640&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» обеспечит АКБ для оборудования операторов связи РФ](https://habr.com/ru/news/792650/?utm_campaign=792650&utm_source=habrahabr&utm_medium=rss)
 - [В ответ на появление sudo в Windows разработчики сообщества Open Source решили перенести Word в OpenBSD](https://habr.com/ru/news/792636/?utm_campaign=792636&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies проанализировали реакции вендоров на раскрытие уязвимостей](https://habr.com/ru/news/792616/?utm_campaign=792616&utm_source=habrahabr&utm_medium=rss)
-- [Как анализировать процессы? Мы научим вас бесплатно](https://habr.com/ru/companies/sberbank/news/792528/?utm_campaign=792528&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: Windows 12 не выйдет в 2024 году, а следующей версией Windows будет Windows 11 24H2](https://habr.com/ru/news/792582/?utm_campaign=792582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
