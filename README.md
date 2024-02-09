@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Росэлектроника» обеспечит АКБ для оборудования операторов связи РФ](https://habr.com/ru/news/792650/?utm_campaign=792650&utm_source=habrahabr&utm_medium=rss)
+- [В ответ на появление sudo в Windows разработчики сообщества Open Source решили перенести Word в OpenBSD](https://habr.com/ru/news/792636/?utm_campaign=792636&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies проанализировали реакции вендоров на раскрытие уязвимостей](https://habr.com/ru/news/792616/?utm_campaign=792616&utm_source=habrahabr&utm_medium=rss)
 - [Как анализировать процессы? Мы научим вас бесплатно](https://habr.com/ru/companies/sberbank/news/792528/?utm_campaign=792528&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Windows 12 не выйдет в 2024 году, а следующей версией Windows будет Windows 11 24H2](https://habr.com/ru/news/792582/?utm_campaign=792582&utm_source=habrahabr&utm_medium=rss)
-- [В бете iOS 17.4 отключили PWA для Евросоюза](https://habr.com/ru/news/792578/?utm_campaign=792578&utm_source=habrahabr&utm_medium=rss)
-- [Brave выпустил нативную версию браузера для ПК с Arm на Windows](https://habr.com/ru/news/792558/?utm_campaign=792558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
