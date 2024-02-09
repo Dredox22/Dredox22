@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies проанализировали реакции вендоров на раскрытие уязвимостей](https://habr.com/ru/news/792616/?utm_campaign=792616&utm_source=habrahabr&utm_medium=rss)
+- [Как анализировать процессы? Мы научим вас бесплатно](https://habr.com/ru/companies/sberbank/news/792528/?utm_campaign=792528&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Windows 12 не выйдет в 2024 году, а следующей версией Windows будет Windows 11 24H2](https://habr.com/ru/news/792582/?utm_campaign=792582&utm_source=habrahabr&utm_medium=rss)
 - [В бете iOS 17.4 отключили PWA для Евросоюза](https://habr.com/ru/news/792578/?utm_campaign=792578&utm_source=habrahabr&utm_medium=rss)
 - [Brave выпустил нативную версию браузера для ПК с Arm на Windows](https://habr.com/ru/news/792558/?utm_campaign=792558&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор раскрыл предварительные данные об обороте рекламного рынка в Рунете по итогам 2023 года](https://habr.com/ru/news/792552/?utm_campaign=792552&utm_source=habrahabr&utm_medium=rss)
-- [Proton запустил открытый менеджер паролей со сквозным шифрованием для бизнеса](https://habr.com/ru/news/792538/?utm_campaign=792538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
