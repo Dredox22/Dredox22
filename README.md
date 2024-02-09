@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Акции Arm за сутки взлетели на 48%](https://habr.com/ru/companies/dcmiran/news/792504/?utm_campaign=792504&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft официально представила новую функцию «Sudo для Windows» и выложила проект утилиты sudo на GitHub](https://habr.com/ru/news/792470/?utm_campaign=792470&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся публичный выпуск VirtualBox KVM](https://habr.com/ru/news/792438/?utm_campaign=792438&utm_source=habrahabr&utm_medium=rss)
-- [Google переименовала чат-бот Bard в Gemini и открыла подписку на Gemini Ultra 1.0](https://habr.com/ru/news/792436/?utm_campaign=792436&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft изменила интерфейс Copilot для Windows, чтобы сервис по умолчанию запускался с большим окном чата](https://habr.com/ru/news/792350/?utm_campaign=792350&utm_source=habrahabr&utm_medium=rss)
+- [Будут ли PWA в следующей версии iOS?](https://habr.com/ru/news/792532/?utm_campaign=792532&utm_source=habrahabr&utm_medium=rss)
+- [Hidden Path Entertainment приостановила разработку ролевой D&amp;amp;D-игры в открытом мире и уволила 44 сотрудников](https://habr.com/ru/news/792524/?utm_campaign=792524&utm_source=habrahabr&utm_medium=rss)
+- [FCC объявила незаконными роботизированные звонки с ИИ-озвучкой](https://habr.com/ru/news/792518/?utm_campaign=792518&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила баг с Windows Copilot, приводящий к хаосу со значками на рабочем столе с несколькими мониторами](https://habr.com/ru/news/792508/?utm_campaign=792508&utm_source=habrahabr&utm_medium=rss)
+- [Brilliant Labs представила умные очки с мультимодальными «сверхспособностями ИИ» за $349](https://habr.com/ru/news/792506/?utm_campaign=792506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
