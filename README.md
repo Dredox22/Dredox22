@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Windows 12 не выйдет в 2024 году, а следующей версией Windows будет Windows 11 24H2](https://habr.com/ru/news/792582/?utm_campaign=792582&utm_source=habrahabr&utm_medium=rss)
+- [В бете iOS 17.4 отключили PWA для Евросоюза](https://habr.com/ru/news/792578/?utm_campaign=792578&utm_source=habrahabr&utm_medium=rss)
 - [Brave выпустил нативную версию браузера для ПК с Arm на Windows](https://habr.com/ru/news/792558/?utm_campaign=792558&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор раскрыл предварительные данные об обороте рекламного рынка в Рунете по итогам 2023 года](https://habr.com/ru/news/792552/?utm_campaign=792552&utm_source=habrahabr&utm_medium=rss)
 - [Proton запустил открытый менеджер паролей со сквозным шифрованием для бизнеса](https://habr.com/ru/news/792538/?utm_campaign=792538&utm_source=habrahabr&utm_medium=rss)
-- [Будут ли PWA в следующей версии iOS?](https://habr.com/ru/news/792532/?utm_campaign=792532&utm_source=habrahabr&utm_medium=rss)
-- [Hidden Path Entertainment приостановила разработку ролевой D&amp;amp;D-игры в открытом мире и уволила 44 сотрудников](https://habr.com/ru/news/792524/?utm_campaign=792524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
