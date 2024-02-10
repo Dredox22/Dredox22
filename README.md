@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В рамках реструктуризации платформа Grammarly увольняет 230 сотрудников](https://habr.com/ru/news/792738/?utm_campaign=792738&utm_source=habrahabr&utm_medium=rss)
 - [История DDoS-атаки с использованием 3 млн зубных щёток оказалась гипотетическим предположением](https://habr.com/ru/news/792710/?utm_campaign=792710&utm_source=habrahabr&utm_medium=rss)
 - [Центральный университет, «Тинькофф» и Университет ИТМО начали приём заявок на  турнир по математике для студентов](https://habr.com/ru/news/792706/?utm_campaign=792706&utm_source=habrahabr&utm_medium=rss)
 - [Афганистан строит систему массового видеонаблюдения по американскому плану на китайских технологиях](https://habr.com/ru/companies/xeovo/news/792702/?utm_campaign=792702&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты Angara Security рассказали о новой хакерской группировке M0r0k T34m](https://habr.com/ru/news/792692/?utm_campaign=792692&utm_source=habrahabr&utm_medium=rss)
-- [Кибершпионы Sticky Werewolf решили почистить компании в Беларуси под видом загрузки CCleaner](https://habr.com/ru/companies/f_a_c_c_t/news/792672/?utm_campaign=792672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
