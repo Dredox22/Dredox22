@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство Канады запретило продажу Flipper Zero и аналогичных гаджетов, чтобы остановить всплеск угонов автомобилей](https://habr.com/ru/news/792826/?utm_campaign=792826&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia создаст подразделение для выпуска чипов на заказ](https://habr.com/ru/news/792780/?utm_campaign=792780&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Copilot появился в «Блокноте» Windows 11](https://habr.com/ru/news/792776/?utm_campaign=792776&utm_source=habrahabr&utm_medium=rss)
 - [Суд: Reddit не обязан раскрывать IP-адреса связанных с пиратством комментаторов](https://habr.com/ru/news/792760/?utm_campaign=792760&utm_source=habrahabr&utm_medium=rss)
 - [В рамках реструктуризации платформа Grammarly увольняет 230 сотрудников](https://habr.com/ru/news/792738/?utm_campaign=792738&utm_source=habrahabr&utm_medium=rss)
-- [История DDoS-атаки с использованием 3 млн зубных щёток оказалась гипотетическим предположением](https://habr.com/ru/news/792710/?utm_campaign=792710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
