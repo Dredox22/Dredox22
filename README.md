@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала «Сезон документации» с поддержкой проектов с открытым исходным кодом и улучшения их документации](https://habr.com/ru/news/792914/?utm_campaign=792914&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи в ЕС смогут удалить Microsoft Edge в Windows 11](https://habr.com/ru/news/792892/?utm_campaign=792892&utm_source=habrahabr&utm_medium=rss)
 - [Notion купит ориентированную на конфиденциальность платформу Skiff](https://habr.com/ru/news/792882/?utm_campaign=792882&utm_source=habrahabr&utm_medium=rss)
 - [Вышел проект revert8plus для смены интерфейса Windows 8/10/11 на Windows 7 или Vista с помощью одной команды](https://habr.com/ru/news/792838/?utm_campaign=792838&utm_source=habrahabr&utm_medium=rss)
 - [Правительство Канады запретило продажу Flipper Zero и аналогичных гаджетов, чтобы остановить всплеск угонов автомобилей](https://habr.com/ru/news/792826/?utm_campaign=792826&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia создаст подразделение для выпуска чипов на заказ](https://habr.com/ru/news/792780/?utm_campaign=792780&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
