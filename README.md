@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ъ»: «Аквариус» начал создавать собственную мобильную операционную систему на основе AOSP](https://habr.com/ru/news/793046/?utm_campaign=793046&utm_source=habrahabr&utm_medium=rss)
+- [Потребители покупают меньше HDD, но их суммарная ёмкость растет](https://habr.com/ru/companies/dcmiran/news/793040/?utm_campaign=793040&utm_source=habrahabr&utm_medium=rss)
 - [Опция «Sudo для Windows» работает не только в Windows 11, но и в Windows 10 и даже Windows 7](https://habr.com/ru/news/793034/?utm_campaign=793034&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик сделал из коммутатора Ubiquiti c Etherlighting дисплей 24x2 RGB LED с возможностью запускать разные игры](https://habr.com/ru/news/792966/?utm_campaign=792966&utm_source=habrahabr&utm_medium=rss)
 - [Google начала «Сезон документации» с поддержкой проектов с открытым исходным кодом и улучшения их документации](https://habr.com/ru/news/792914/?utm_campaign=792914&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи в ЕС смогут удалить Microsoft Edge в Windows 11](https://habr.com/ru/news/792892/?utm_campaign=792892&utm_source=habrahabr&utm_medium=rss)
-- [Notion купит ориентированную на конфиденциальность платформу Skiff](https://habr.com/ru/news/792882/?utm_campaign=792882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
