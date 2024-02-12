@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fplus запустила собственное производство в Подмосковье](https://habr.com/ru/news/793190/?utm_campaign=793190&utm_source=habrahabr&utm_medium=rss)
+- [В январе в России зафиксировали всплеск активности фишинговых сайтов](https://habr.com/ru/news/793176/?utm_campaign=793176&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз инструмента Galileo AI для генерации дизайна интерфейсов](https://habr.com/ru/news/793162/?utm_campaign=793162&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор ГК «Солар» рассказал о защите Госуслуг в 2023 году от краж учётных данных](https://habr.com/ru/news/793136/?utm_campaign=793136&utm_source=habrahabr&utm_medium=rss)
 - [РБК: «Ростелеком» и Tele2 предложили обсудить условия замены местной связи на мобильную](https://habr.com/ru/news/793108/?utm_campaign=793108&utm_source=habrahabr&utm_medium=rss)
-- [ModSecurity &lpar;WAF&rpar;: пользоваться нельзя переходить?](https://habr.com/ru/companies/cloud4y/news/793096/?utm_campaign=793096&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 получит встроенную ИИ-функцию Super Resolution](https://habr.com/ru/news/793082/?utm_campaign=793082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
