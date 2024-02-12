@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генеральный директор ГК «Солар» рассказал о защите Госуслуг в 2023 году от краж учётных данных](https://habr.com/ru/news/793136/?utm_campaign=793136&utm_source=habrahabr&utm_medium=rss)
 - [РБК: «Ростелеком» и Tele2 предложили обсудить условия замены местной связи на мобильную](https://habr.com/ru/news/793108/?utm_campaign=793108&utm_source=habrahabr&utm_medium=rss)
 - [ModSecurity &lpar;WAF&rpar;: пользоваться нельзя переходить?](https://habr.com/ru/companies/cloud4y/news/793096/?utm_campaign=793096&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит встроенную ИИ-функцию Super Resolution](https://habr.com/ru/news/793082/?utm_campaign=793082&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp оштрафовали на 500 тыс. рублей за нарушение правил деятельности в РФ](https://habr.com/ru/news/793070/?utm_campaign=793070&utm_source=habrahabr&utm_medium=rss)
-- [Релиз системы индексации сетевого трафика Arkime 5.0](https://habr.com/ru/news/793056/?utm_campaign=793056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
