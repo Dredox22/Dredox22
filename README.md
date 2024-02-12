@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ModSecurity &lpar;WAF&rpar;: пользоваться нельзя переходить?](https://habr.com/ru/companies/cloud4y/news/793096/?utm_campaign=793096&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 получит встроенную ИИ-функцию Super Resolution](https://habr.com/ru/news/793082/?utm_campaign=793082&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp оштрафовали на 500 тыс. рублей за нарушение правил деятельности в РФ](https://habr.com/ru/news/793070/?utm_campaign=793070&utm_source=habrahabr&utm_medium=rss)
 - [Релиз системы индексации сетевого трафика Arkime 5.0](https://habr.com/ru/news/793056/?utm_campaign=793056&utm_source=habrahabr&utm_medium=rss)
 - [«Ъ»: «Аквариус» начал создавать собственную мобильную операционную систему на основе AOSP](https://habr.com/ru/news/793046/?utm_campaign=793046&utm_source=habrahabr&utm_medium=rss)
-- [Потребители покупают меньше HDD, но их суммарная ёмкость растет](https://habr.com/ru/companies/dcmiran/news/793040/?utm_campaign=793040&utm_source=habrahabr&utm_medium=rss)
-- [Опция «Sudo для Windows» работает не только в Windows 11, но и в Windows 10 и даже Windows 7](https://habr.com/ru/news/793034/?utm_campaign=793034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
