@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/793202/?utm_campaign=793202&utm_source=habrahabr&utm_medium=rss)
 - [Fplus запустила собственное производство в Подмосковье](https://habr.com/ru/news/793190/?utm_campaign=793190&utm_source=habrahabr&utm_medium=rss)
 - [В январе в России зафиксировали всплеск активности фишинговых сайтов](https://habr.com/ru/news/793176/?utm_campaign=793176&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз инструмента Galileo AI для генерации дизайна интерфейсов](https://habr.com/ru/news/793162/?utm_campaign=793162&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор ГК «Солар» рассказал о защите Госуслуг в 2023 году от краж учётных данных](https://habr.com/ru/news/793136/?utm_campaign=793136&utm_source=habrahabr&utm_medium=rss)
-- [РБК: «Ростелеком» и Tele2 предложили обсудить условия замены местной связи на мобильную](https://habr.com/ru/news/793108/?utm_campaign=793108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
