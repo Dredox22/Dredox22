@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кибершпионы Sticky Werewolf атакуют польские организации](https://habr.com/ru/companies/f_a_c_c_t/news/793418/?utm_campaign=793418&utm_source=habrahabr&utm_medium=rss)
+- [Баг в коде клиентов ExpressVPN для Windows &lpar;версий 12.23.1 — 12.72.0&rpar; приводил к утечке некоторых DNS-запросов](https://habr.com/ru/news/793512/?utm_campaign=793512&utm_source=habrahabr&utm_medium=rss)
+- [Новый кейс: аудит, редизайн и сайт для индустриального парка «Краснодар»](https://habr.com/ru/companies/agima/news/793492/?utm_campaign=793492&utm_source=habrahabr&utm_medium=rss)
 - [Flipper Devices представила модуль Video Game для Flipper Zero](https://habr.com/ru/news/793452/?utm_campaign=793452&utm_source=habrahabr&utm_medium=rss)
 - [РКН: с начала 2024 года выявлено 19 утечек персональных данных россиян](https://habr.com/ru/news/793462/?utm_campaign=793462&utm_source=habrahabr&utm_medium=rss)
-- [Норвежский стартап 1X показал роботов-гуманоидов Eve, которые были разработаны при поддержке OpenAI](https://habr.com/ru/news/793454/?utm_campaign=793454&utm_source=habrahabr&utm_medium=rss)
-- [В РФ с 31 марта 2024 года перестанет работать сервис Adidas Running, данные российских пользователей будут удалены](https://habr.com/ru/news/793404/?utm_campaign=793404&utm_source=habrahabr&utm_medium=rss)
-- [Облако NGcloud получило сертификат PCI DSS 4.0](https://habr.com/ru/companies/nubes/news/793396/?utm_campaign=793396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
