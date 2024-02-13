@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Облако NGcloud получило сертификат PCI DSS 4.0](https://habr.com/ru/companies/nubes/news/793396/?utm_campaign=793396&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики из КубГТУ создали нейросеть, способную распознавать сообщения от мошенников в чатах](https://habr.com/ru/news/793390/?utm_campaign=793390&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.29: проверка Java-кода в VS Code, умные указатели Boost, плагин для Qt Creator на macOS](https://habr.com/ru/companies/pvs-studio/news/793374/?utm_campaign=793374&utm_source=habrahabr&utm_medium=rss)
 - [«Одноклассники» рассказали о самых распространённых схемах мошенничества в соцсетях](https://habr.com/ru/news/793360/?utm_campaign=793360&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в требования к процессору в Windows 11 24H2 поддержку инструкции POPCNT, которой нет в старых CPU](https://habr.com/ru/news/793330/?utm_campaign=793330&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик опубликовал код инструментария ZLUDA для запуска CUDA-приложений на GPU AMD](https://habr.com/ru/news/793312/?utm_campaign=793312&utm_source=habrahabr&utm_medium=rss)
-- [Чат-бот Gemini стал доступен в приложении Google для Android и iOS](https://habr.com/ru/news/793304/?utm_campaign=793304&utm_source=habrahabr&utm_medium=rss)
-- [Новая дешевая карта от AMD с производительностью RX 7900 XTX/RTX 4090 ожидается уже в этом году](https://habr.com/ru/companies/dcmiran/news/793290/?utm_campaign=793290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
