@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РФ с 31 марта 2024 года перестанет работать сервис Adidas Running, данные российских пользователей будут удалены](https://habr.com/ru/news/793404/?utm_campaign=793404&utm_source=habrahabr&utm_medium=rss)
 - [Облако NGcloud получило сертификат PCI DSS 4.0](https://habr.com/ru/companies/nubes/news/793396/?utm_campaign=793396&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из КубГТУ создали нейросеть, способную распознавать сообщения от мошенников в чатах](https://habr.com/ru/news/793390/?utm_campaign=793390&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.29: проверка Java-кода в VS Code, умные указатели Boost, плагин для Qt Creator на macOS](https://habr.com/ru/companies/pvs-studio/news/793374/?utm_campaign=793374&utm_source=habrahabr&utm_medium=rss)
 - [«Одноклассники» рассказали о самых распространённых схемах мошенничества в соцсетях](https://habr.com/ru/news/793360/?utm_campaign=793360&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила в требования к процессору в Windows 11 24H2 поддержку инструкции POPCNT, которой нет в старых CPU](https://habr.com/ru/news/793330/?utm_campaign=793330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
