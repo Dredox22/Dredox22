@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Чат-бот Gemini стал доступен в приложении Google для Android и iOS](https://habr.com/ru/news/793304/?utm_campaign=793304&utm_source=habrahabr&utm_medium=rss)
 - [Новая дешевая карта от AMD с производительностью RX 7900 XTX/RTX 4090 ожидается уже в этом году](https://habr.com/ru/companies/dcmiran/news/793290/?utm_campaign=793290&utm_source=habrahabr&utm_medium=rss)
 - [Лидеры в сфере электронной торговли снова соберутся на митапе «Ecom и Вино»](https://habr.com/ru/companies/agima/news/793218/?utm_campaign=793218&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/793202/?utm_campaign=793202&utm_source=habrahabr&utm_medium=rss)
 - [Fplus запустила собственное производство в Подмосковье](https://habr.com/ru/news/793190/?utm_campaign=793190&utm_source=habrahabr&utm_medium=rss)
-- [В январе в России зафиксировали всплеск активности фишинговых сайтов](https://habr.com/ru/news/793176/?utm_campaign=793176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
