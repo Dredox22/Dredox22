@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Devices представила модуль Video Game для Flipper Zero](https://habr.com/ru/news/793452/?utm_campaign=793452&utm_source=habrahabr&utm_medium=rss)
+- [РКН: с начала 2024 года выявлено 19 утечек персональных данных россиян](https://habr.com/ru/news/793462/?utm_campaign=793462&utm_source=habrahabr&utm_medium=rss)
 - [Норвежский стартап 1X показал роботов-гуманоидов Eve, которые были разработаны при поддержке OpenAI](https://habr.com/ru/news/793454/?utm_campaign=793454&utm_source=habrahabr&utm_medium=rss)
 - [В РФ с 31 марта 2024 года перестанет работать сервис Adidas Running, данные российских пользователей будут удалены](https://habr.com/ru/news/793404/?utm_campaign=793404&utm_source=habrahabr&utm_medium=rss)
 - [Облако NGcloud получило сертификат PCI DSS 4.0](https://habr.com/ru/companies/nubes/news/793396/?utm_campaign=793396&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из КубГТУ создали нейросеть, способную распознавать сообщения от мошенников в чатах](https://habr.com/ru/news/793390/?utm_campaign=793390&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.29: проверка Java-кода в VS Code, умные указатели Boost, плагин для Qt Creator на macOS](https://habr.com/ru/companies/pvs-studio/news/793374/?utm_campaign=793374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
