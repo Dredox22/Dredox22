@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Savant 0.2.7: фреймворк компьютерного зрения, оптимизированный для NVIDIA](https://habr.com/ru/news/793720/?utm_campaign=793720&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила пиратское стриминговое приложение Kimi, которое попало в тренды App Store](https://habr.com/ru/news/793706/?utm_campaign=793706&utm_source=habrahabr&utm_medium=rss)
 - [РАТЭК предложил Минпромторгу отказаться от идеи маркировки потребительской электроники](https://habr.com/ru/news/793686/?utm_campaign=793686&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила первую предварительную версию .NET 9 и раскрыла цели разработки новой версии открытой платформы](https://habr.com/ru/news/793656/?utm_campaign=793656&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит улучшенную возможность обнаружения Bluetooth-устройств](https://habr.com/ru/news/793644/?utm_campaign=793644&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Chromium тестируют автоматические микроплатежи для монетизации сайтов](https://habr.com/ru/news/793632/?utm_campaign=793632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
