@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст нашёл способ ускорить установку обновлений в Windows Update в Windows 11 на 18% с помощью одного клика мышки](https://habr.com/ru/news/793778/?utm_campaign=793778&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies представила отчёт о фишинговых атаках на организации за 2022-2023 года](https://habr.com/ru/news/793760/?utm_campaign=793760&utm_source=habrahabr&utm_medium=rss)
 - [По отчёту ГК «Солар», за 2023 год число кибератак на финансовый сектор выросло на 25%](https://habr.com/ru/news/793756/?utm_campaign=793756&utm_source=habrahabr&utm_medium=rss)
 - [В Думу внесут законопроект о запрете избыточной обработки персональных данных](https://habr.com/ru/news/793750/?utm_campaign=793750&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Savant 0.2.7: фреймворк компьютерного зрения, оптимизированный для NVIDIA](https://habr.com/ru/news/793720/?utm_campaign=793720&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила пиратское стриминговое приложение Kimi, которое попало в тренды App Store](https://habr.com/ru/news/793706/?utm_campaign=793706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
