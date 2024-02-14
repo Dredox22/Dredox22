@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как банкам получать информацию о клиентах из государственных информационных систем](https://habr.com/ru/companies/rshb/news/793516/?utm_campaign=793516&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем мобильных разработчиков поделиться опытом публикации приложений](https://habr.com/ru/companies/atom/news/793600/?utm_campaign=793600&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla планирует сократить 60 сотрудников — 5% персонала](https://habr.com/ru/news/793592/?utm_campaign=793592&utm_source=habrahabr&utm_medium=rss)
 - [Абсурдно много для CPU. Новый i9-14900KS во время тестов потреблял до 410 Вт](https://habr.com/ru/companies/dcmiran/news/793588/?utm_campaign=793588&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл набор на бесплатные интенсивы по информатике для студентов](https://habr.com/ru/news/793546/?utm_campaign=793546&utm_source=habrahabr&utm_medium=rss)
-- [В Firefox появится функция предпросмотра вкладок](https://habr.com/ru/news/793556/?utm_campaign=793556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
