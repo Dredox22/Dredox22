@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» подвёл итоги реализации проекта устранения цифрового неравенства &lpar;УЦН 2.0&rpar;](https://habr.com/ru/news/793970/?utm_campaign=793970&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар Tarantool «Анализируем данные в real-time»](https://habr.com/ru/companies/vk/news/793956/?utm_campaign=793956&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар для тех, кто работает с аналитикой данных и ML](https://habr.com/ru/companies/selectel/news/793954/?utm_campaign=793954&utm_source=habrahabr&utm_medium=rss)
 - [Суперкомпьютер К2Тех на базе НГУ победил в конкурсе «Проект года»](https://habr.com/ru/companies/k2tech/news/793950/?utm_campaign=793950&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Build 2024 пройдёт с 21 по 23 мая](https://habr.com/ru/news/793946/?utm_campaign=793946&utm_source=habrahabr&utm_medium=rss)
-- [Немецкий производитель аккумуляторов Varta остановил линии заводов после кибератаки на IT-системы компании](https://habr.com/ru/news/793942/?utm_campaign=793942&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
