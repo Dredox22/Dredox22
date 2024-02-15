@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предупредила о потере данных при откате после установки предварительной сборки Windows 11](https://habr.com/ru/news/794068/?utm_campaign=794068&utm_source=habrahabr&utm_medium=rss)
 - [Дизайнер создал хромированный шар для Vision Pro, чтобы визуализировать процесс освещения на гаджете](https://habr.com/ru/news/794050/?utm_campaign=794050&utm_source=habrahabr&utm_medium=rss)
 - [Суд в Калифорнии частично отклонил иск писателей о плагиате в адрес разработчиков ChatGPT](https://habr.com/ru/news/794020/?utm_campaign=794020&utm_source=habrahabr&utm_medium=rss)
 - [Олимпиада по криптографии CryptoFox 2024](https://habr.com/ru/companies/aktiv-company/news/794018/?utm_campaign=794018&utm_source=habrahabr&utm_medium=rss)
 - [Палиндром, ты ли это? Простая задачка для программистов](https://habr.com/ru/companies/selectel/news/793990/?utm_campaign=793990&utm_source=habrahabr&utm_medium=rss)
-- [В России утвердили частоты для 5G](https://habr.com/ru/news/793986/?utm_campaign=793986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
