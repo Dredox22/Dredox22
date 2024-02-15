@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Палиндром, ты ли это? Задачка для начинающих питонистов](https://habr.com/ru/companies/selectel/news/793990/?utm_campaign=793990&utm_source=habrahabr&utm_medium=rss)
+- [Суд в Калифорнии частично отклонил иск писателей о плагиате в адрес разработчиков ChatGPT](https://habr.com/ru/news/794020/?utm_campaign=794020&utm_source=habrahabr&utm_medium=rss)
+- [Олимпиада по криптографии CryptoFox 2024](https://habr.com/ru/companies/aktiv-company/news/794018/?utm_campaign=794018&utm_source=habrahabr&utm_medium=rss)
+- [Палиндром, ты ли это? Простая задачка для программистов](https://habr.com/ru/companies/selectel/news/793990/?utm_campaign=793990&utm_source=habrahabr&utm_medium=rss)
 - [В России утвердили частоты для 5G](https://habr.com/ru/news/793986/?utm_campaign=793986&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» подвёл итоги реализации проекта устранения цифрового неравенства &lpar;УЦН 2.0&rpar;](https://habr.com/ru/news/793970/?utm_campaign=793970&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар Tarantool «Анализируем данные в real-time»](https://habr.com/ru/companies/vk/news/793956/?utm_campaign=793956&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар для тех, кто работает с аналитикой данных и ML](https://habr.com/ru/companies/selectel/news/793954/?utm_campaign=793954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
