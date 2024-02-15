@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Покупатели в США начали возвращать гарнитуры Vision Pro в магазины из-за дискомфорта, головной боли и усталости глаз](https://habr.com/ru/news/793846/?utm_campaign=793846&utm_source=habrahabr&utm_medium=rss)
+- [Сборка Skype Preview теперь умеет расшифровывать голосовые сообщения](https://habr.com/ru/news/793836/?utm_campaign=793836&utm_source=habrahabr&utm_medium=rss)
 - [МВД РФ: Telegram — основной инструмент коммуникаций киберпреступников](https://habr.com/ru/news/793816/?utm_campaign=793816&utm_source=habrahabr&utm_medium=rss)
 - [Максим Дунин, один из разработчиков nginx, создал собственный форк веб-сервера](https://habr.com/ru/news/793808/?utm_campaign=793808&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI выпустила модель Stable Cascade для генерации изображений](https://habr.com/ru/news/793800/?utm_campaign=793800&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст нашёл способ ускорить установку обновлений в Windows Update в Windows 11 на 18% с помощью одного клика мышки](https://habr.com/ru/news/793778/?utm_campaign=793778&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies представила отчёт о фишинговых атаках на организации за 2022-2023 года](https://habr.com/ru/news/793760/?utm_campaign=793760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
