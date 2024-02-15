@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ъ»: производители электроники предложили ввести баллы локализации за совместимость устройств с российскими ОС](https://habr.com/ru/news/793884/?utm_campaign=793884&utm_source=habrahabr&utm_medium=rss)
 - [Новые взломы сайтов. Битрикс не виноват](https://habr.com/ru/companies/cyberok/news/793872/?utm_campaign=793872&utm_source=habrahabr&utm_medium=rss)
 - [Браузер DuckDuckGo получил опцию синхронизации со сквозным шифрованием паролей и логинов на нескольких устройствах](https://habr.com/ru/news/793870/?utm_campaign=793870&utm_source=habrahabr&utm_medium=rss)
 - [Автоматические бэкапы: настроим вместе с помощью сервиса Veeam на вебинаре Cloud.ru 27 февраля](https://habr.com/ru/companies/cloud_ru/news/793866/?utm_campaign=793866&utm_source=habrahabr&utm_medium=rss)
 - [Покупатели в США начали возвращать гарнитуры Vision Pro в магазины из-за дискомфорта, головной боли и усталости глаз](https://habr.com/ru/news/793846/?utm_campaign=793846&utm_source=habrahabr&utm_medium=rss)
-- [Сборка Skype Preview теперь умеет расшифровывать голосовые сообщения](https://habr.com/ru/news/793836/?utm_campaign=793836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
