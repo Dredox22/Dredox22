@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok выпустила приложение для Apple Vision Pro](https://habr.com/ru/news/794110/?utm_campaign=794110&utm_source=habrahabr&utm_medium=rss)
 - [Slack представил опцию пересказа бесед в каналах с помощью ИИ](https://habr.com/ru/news/794088/?utm_campaign=794088&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила пространственные игры на Vision Pro в рамках Apple Arcade](https://habr.com/ru/news/794084/?utm_campaign=794084&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI может представить поисковик](https://habr.com/ru/news/794070/?utm_campaign=794070&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предупредила о потере данных при откате после установки предварительной сборки Windows 11](https://habr.com/ru/news/794068/?utm_campaign=794068&utm_source=habrahabr&utm_medium=rss)
-- [Дизайнер создал хромированный шар для Vision Pro, чтобы визуализировать процесс освещения на гаджете](https://habr.com/ru/news/794050/?utm_campaign=794050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
