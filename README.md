@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ведомство по патентам и товарным знакам США отклонило заявку OpenAI на регистрацию товарного знака GPT](https://habr.com/ru/news/794128/?utm_campaign=794128&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила в требованиях к процессору в Windows 11 24H2 поддержку инструкции PopCnt, которой нет в старых CPU](https://habr.com/ru/news/794120/?utm_campaign=794120&utm_source=habrahabr&utm_medium=rss)
 - [TikTok выпустила приложение для Apple Vision Pro](https://habr.com/ru/news/794110/?utm_campaign=794110&utm_source=habrahabr&utm_medium=rss)
 - [Slack представил опцию пересказа бесед в каналах с помощью ИИ](https://habr.com/ru/news/794088/?utm_campaign=794088&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила пространственные игры на Vision Pro в рамках Apple Arcade](https://habr.com/ru/news/794084/?utm_campaign=794084&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI может представить поисковик](https://habr.com/ru/news/794070/?utm_campaign=794070&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила о потере данных при откате после установки предварительной сборки Windows 11](https://habr.com/ru/news/794068/?utm_campaign=794068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
