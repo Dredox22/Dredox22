@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратит поддержку Publisher в октябре 2026 года и исключит проект из Microsoft 365](https://habr.com/ru/news/794158/?utm_campaign=794158&utm_source=habrahabr&utm_medium=rss)
+- [Apple подтвердила, что в iOS 17.4 полностью отключит поддержку PWA для пользователей из ЕС](https://habr.com/ru/news/794154/?utm_campaign=794154&utm_source=habrahabr&utm_medium=rss)
+- [Google открыла код проекта Magika для определения типа содержимого файлов](https://habr.com/ru/news/794152/?utm_campaign=794152&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft Edge исправлен баг с автоматическим открытием без разрешения пользователя вкладок из других браузеров](https://habr.com/ru/news/794136/?utm_campaign=794136&utm_source=habrahabr&utm_medium=rss)
 - [Ведомство по патентам и товарным знакам США отклонило заявку OpenAI на регистрацию товарного знака GPT](https://habr.com/ru/news/794128/?utm_campaign=794128&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила в требованиях к процессору в Windows 11 24H2 поддержку инструкции PopCnt, которой нет в старых CPU](https://habr.com/ru/news/794120/?utm_campaign=794120&utm_source=habrahabr&utm_medium=rss)
-- [TikTok выпустила приложение для Apple Vision Pro](https://habr.com/ru/news/794110/?utm_campaign=794110&utm_source=habrahabr&utm_medium=rss)
-- [Slack представил опцию пересказа бесед в каналах с помощью ИИ](https://habr.com/ru/news/794088/?utm_campaign=794088&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила пространственные игры на Vision Pro в рамках Apple Arcade](https://habr.com/ru/news/794084/?utm_campaign=794084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
