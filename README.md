@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла новая версия Flutter 3.19 c Dart 3.3](https://habr.com/ru/companies/friflex/news/794256/?utm_campaign=794256&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся первый версионный релиз языка программирования Hare &lpar;0.24.0&rpar; и представлена новая политика выпуска версий](https://habr.com/ru/news/794276/?utm_campaign=794276&utm_source=habrahabr&utm_medium=rss)
 - [RCE-уязвимость в Outlook приводит к удаленному выполнению кода](https://habr.com/ru/news/794260/?utm_campaign=794260&utm_source=habrahabr&utm_medium=rss)
 - [«ГалоПолимер» переводит производственные процессы на отечественную цифровую платформу](https://habr.com/ru/companies/k2tech/news/794228/?utm_campaign=794228&utm_source=habrahabr&utm_medium=rss)
 - [Apple работает над аналогом GitHub Copilot для Spotlight и Xcode](https://habr.com/ru/news/794204/?utm_campaign=794204&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отключит кнопку «Показать рабочий стол» в Windows 11 ради Copilot](https://habr.com/ru/news/794194/?utm_campaign=794194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
