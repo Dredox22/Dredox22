@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple работает над аналогом GitHub Copilot для Spotlight и Xcode](https://habr.com/ru/news/794204/?utm_campaign=794204&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отключит кнопку «Показать рабочий стол» в Windows 11 ради Copilot](https://habr.com/ru/news/794194/?utm_campaign=794194&utm_source=habrahabr&utm_medium=rss)
 - [В DLBI проанализировали скомпрометированные уникальные пары почты и паролей за 2023 год](https://habr.com/ru/news/794172/?utm_campaign=794172&utm_source=habrahabr&utm_medium=rss)
 - [VisionLabs и NTech Lab заявили о выходе на рынок распознавания и анализа медицинских изображений](https://habr.com/ru/news/794174/?utm_campaign=794174&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Publisher в октябре 2026 года и исключит проект из Microsoft 365](https://habr.com/ru/news/794158/?utm_campaign=794158&utm_source=habrahabr&utm_medium=rss)
-- [Apple подтвердила, что в iOS 17.4 полностью отключит поддержку PWA для пользователей из ЕС](https://habr.com/ru/news/794154/?utm_campaign=794154&utm_source=habrahabr&utm_medium=rss)
-- [Google открыла код проекта Magika для определения типа содержимого файлов](https://habr.com/ru/news/794152/?utm_campaign=794152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
