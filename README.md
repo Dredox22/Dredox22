@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи обнаружили троян для iOS, похищающий биометрию пользователей](https://habr.com/ru/news/794434/?utm_campaign=794434&utm_source=habrahabr&utm_medium=rss)
 - [Watt Studio показала дебютный трейлер элетропанк-игры Trains: Electrostorm](https://habr.com/ru/news/794404/?utm_campaign=794404&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик рассказал про свой опыт программирования в Vision Pro](https://habr.com/ru/news/794372/?utm_campaign=794372&utm_source=habrahabr&utm_medium=rss)
 - [Журналист ArsTechnica испытал Vision Pro в людных местах](https://habr.com/ru/news/794364/?utm_campaign=794364&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила внутри компании модель Goose для помощи программистам](https://habr.com/ru/news/794354/?utm_campaign=794354&utm_source=habrahabr&utm_medium=rss)
-- [Баг в Microsoft Edge не позволяет открывать загруженный файл одним щелчком мыши, приходится кликать много раз](https://habr.com/ru/news/794352/?utm_campaign=794352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
