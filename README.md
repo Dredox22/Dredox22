@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запустила внутри компании модель Goose для помощи программистам](https://habr.com/ru/news/794354/?utm_campaign=794354&utm_source=habrahabr&utm_medium=rss)
+- [Баг в Microsoft Edge не позволяет открывать загруженный файл одним щелчком мыши, приходится кликать много раз](https://habr.com/ru/news/794352/?utm_campaign=794352&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 позволит подключаться к сетям Wi-Fi с помощью QR-кодов и приложения «Камера»](https://habr.com/ru/news/794350/?utm_campaign=794350&utm_source=habrahabr&utm_medium=rss)
 - [«Сайберия Нова» представила геймплейное видео игры «Смута»](https://habr.com/ru/news/794328/?utm_campaign=794328&utm_source=habrahabr&utm_medium=rss)
 - [Президент Microsoft рассказал, как компания будет бороться с «оскорбительным контентом, созданным ИИ»](https://habr.com/ru/news/794324/?utm_campaign=794324&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся первый версионный релиз языка программирования Hare &lpar;0.24.0&rpar; и представлена новая политика выпуска версий](https://habr.com/ru/news/794276/?utm_campaign=794276&utm_source=habrahabr&utm_medium=rss)
-- [RCE-уязвимость в Outlook приводит к удаленному выполнению кода](https://habr.com/ru/news/794260/?utm_campaign=794260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
