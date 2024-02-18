@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз LineageOS 21 на основе Android 14](https://habr.com/ru/news/794496/?utm_campaign=794496&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в облачном сервисе Wyze открыл некоторым пользователям доступ к камерам в чужих домах](https://habr.com/ru/news/794482/?utm_campaign=794482&utm_source=habrahabr&utm_medium=rss)
 - [Новая функция Google Chrome блокирует атаки на домашние сети](https://habr.com/ru/news/794474/?utm_campaign=794474&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила обновление Sticky Notes для Windows](https://habr.com/ru/news/794472/?utm_campaign=794472&utm_source=habrahabr&utm_medium=rss)
 - [Водитель рассказал, как бета-версия Tesla FSD спасла его и дважды пыталась убить](https://habr.com/ru/news/794466/?utm_campaign=794466&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft скрыла из установленных приложений в Windows 10/11 приложение Windows Backup на корпоративных системах](https://habr.com/ru/news/794464/?utm_campaign=794464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
