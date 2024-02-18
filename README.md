@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая функция Google Chrome блокирует атаки на домашние сети](https://habr.com/ru/news/794474/?utm_campaign=794474&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила обновление Sticky Notes для Windows](https://habr.com/ru/news/794472/?utm_campaign=794472&utm_source=habrahabr&utm_medium=rss)
+- [Водитель рассказал, как бета-версия Tesla FSD спасла его и дважды пыталась убить](https://habr.com/ru/news/794466/?utm_campaign=794466&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft скрыла из установленных приложений в Windows 10/11 приложение Windows Backup на корпоративных системах](https://habr.com/ru/news/794464/?utm_campaign=794464&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи обнаружили троян для iOS, похищающий биометрию пользователей](https://habr.com/ru/news/794434/?utm_campaign=794434&utm_source=habrahabr&utm_medium=rss)
-- [Watt Studio показала дебютный трейлер элетропанк-игры Trains: Electrostorm](https://habr.com/ru/news/794404/?utm_campaign=794404&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик рассказал про свой опыт программирования в Vision Pro](https://habr.com/ru/news/794372/?utm_campaign=794372&utm_source=habrahabr&utm_medium=rss)
-- [Журналист ArsTechnica испытал Vision Pro в людных местах](https://habr.com/ru/news/794364/?utm_campaign=794364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
