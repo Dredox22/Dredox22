@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft пояснила свои планы по доработкам проекта «Sudo для Windows», чтобы в будущем уйти от runas](https://habr.com/ru/news/794710/?utm_campaign=794710&utm_source=habrahabr&utm_medium=rss)
+- [Команда UX-редакторов Apple опубликовала ответы на вопросы разработчиков приложений](https://habr.com/ru/news/794702/?utm_campaign=794702&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики выпустили NotesGPT — веб-приложение для транскрибации голосовых заметок](https://habr.com/ru/news/794690/?utm_campaign=794690&utm_source=habrahabr&utm_medium=rss)
 - [В IT-инфраструктуре BMW произошла утечка данных из-за неправильно настроенного сервера в Microsoft Azure](https://habr.com/ru/news/794652/?utm_campaign=794652&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь: через портал поддержки для клиентов Juniper доступны данные об устройствах и контрактах](https://habr.com/ru/news/794648/?utm_campaign=794648&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft переносит Spotlight на рабочий стол в Windows 10](https://habr.com/ru/news/794622/?utm_campaign=794622&utm_source=habrahabr&utm_medium=rss)
-- [AMD и Microsoft добавят поддержку Ryzen NPU в диспетчер задач Windows](https://habr.com/ru/news/794612/?utm_campaign=794612&utm_source=habrahabr&utm_medium=rss)
-- [Проект Izanagi совместно с Arm планирует конкурировать с NVIDIA в сфере ИИ-ускорителей](https://habr.com/ru/companies/dcmiran/news/794610/?utm_campaign=794610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
