@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел changelog-генератор с широкими возможностями настройки Git-cliff 2.0](https://habr.com/ru/news/794726/?utm_campaign=794726&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Tempo — библиотеки для работы с датами в JavaScript и TypeScript](https://habr.com/ru/news/794720/?utm_campaign=794720&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пояснила свои планы по доработкам проекта «Sudo для Windows», чтобы в будущем уйти от runas](https://habr.com/ru/news/794710/?utm_campaign=794710&utm_source=habrahabr&utm_medium=rss)
 - [Команда UX-редакторов Apple опубликовала ответы на вопросы разработчиков приложений](https://habr.com/ru/news/794702/?utm_campaign=794702&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили NotesGPT — веб-приложение для транскрибации голосовых заметок](https://habr.com/ru/news/794690/?utm_campaign=794690&utm_source=habrahabr&utm_medium=rss)
-- [В IT-инфраструктуре BMW произошла утечка данных из-за неправильно настроенного сервера в Microsoft Azure](https://habr.com/ru/news/794652/?utm_campaign=794652&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь: через портал поддержки для клиентов Juniper доступны данные об устройствах и контрактах](https://habr.com/ru/news/794648/?utm_campaign=794648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
