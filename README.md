@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft переносит Spotlight на рабочий стол в Windows 10](https://habr.com/ru/news/794622/?utm_campaign=794622&utm_source=habrahabr&utm_medium=rss)
 - [AMD и Microsoft добавят поддержку Ryzen NPU в диспетчер задач Windows](https://habr.com/ru/news/794612/?utm_campaign=794612&utm_source=habrahabr&utm_medium=rss)
 - [Проект Izanagi совместно с Arm планирует конкурировать с NVIDIA в сфере ИИ-ускорителей](https://habr.com/ru/companies/dcmiran/news/794610/?utm_campaign=794610&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows за февраль 2024 года удаляет панель задач](https://habr.com/ru/news/794606/?utm_campaign=794606&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь обнаружил зловред для ПК в электронике гаджета для взрослых, который изучили эксперты](https://habr.com/ru/news/794518/?utm_campaign=794518&utm_source=habrahabr&utm_medium=rss)
-- [Релиз LineageOS 21 на основе Android 14](https://habr.com/ru/news/794496/?utm_campaign=794496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
