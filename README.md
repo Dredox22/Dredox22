@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/794771/?utm_campaign=794771&utm_source=habrahabr&utm_medium=rss)
 - [В Петербурге разработали мобильную станцию быстрой зарядки для электромобилей](https://habr.com/ru/news/794742/?utm_campaign=794742&utm_source=habrahabr&utm_medium=rss)
 - [Вышел changelog-генератор с широкими возможностями настройки Git-cliff 2.0](https://habr.com/ru/news/794726/?utm_campaign=794726&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Tempo — библиотеки для работы с датами в JavaScript и TypeScript](https://habr.com/ru/news/794720/?utm_campaign=794720&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пояснила свои планы по доработкам проекта «Sudo для Windows», чтобы в будущем уйти от runas](https://habr.com/ru/news/794710/?utm_campaign=794710&utm_source=habrahabr&utm_medium=rss)
-- [Команда UX-редакторов Apple опубликовала ответы на вопросы разработчиков приложений](https://habr.com/ru/news/794702/?utm_campaign=794702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
