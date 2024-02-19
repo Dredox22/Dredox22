@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google может заблокировать разработку портов Google Camera](https://habr.com/ru/news/794815/?utm_campaign=794815&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество Rust опубликовало результаты ежегодного опроса за 2023 год](https://habr.com/ru/news/794803/?utm_campaign=794803&utm_source=habrahabr&utm_medium=rss)
 - [«К2 Кибербезопасность» предупреждает один из крупных органов государственной власти о возможных кибератаках](https://habr.com/ru/companies/k2tech/news/794791/?utm_campaign=794791&utm_source=habrahabr&utm_medium=rss)
 - [Мнение: производители оборудования для ЦОД в РФ расширяют ассортимент, но испытывают сложности с поставкой части систем](https://habr.com/ru/news/794781/?utm_campaign=794781&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/794771/?utm_campaign=794771&utm_source=habrahabr&utm_medium=rss)
-- [В Петербурге разработали мобильную станцию быстрой зарядки для электромобилей](https://habr.com/ru/news/794742/?utm_campaign=794742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
