@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар: информационная безопасность финансовых организаций](https://habr.com/ru/companies/rshb/news/794933/?utm_campaign=794933&utm_source=habrahabr&utm_medium=rss)
+- [«МегаФон» поможет Минцифры бороться с фишингом и утечками персональных данных](https://habr.com/ru/news/794935/?utm_campaign=794935&utm_source=habrahabr&utm_medium=rss)
+- [Fujifilm представила камеру X100VI на базе решений X100V](https://habr.com/ru/news/794915/?utm_campaign=794915&utm_source=habrahabr&utm_medium=rss)
 - [ФБР и Национальное агентство по борьбе с преступностью Великобритании пресекли деятельность хакеров LockBit](https://habr.com/ru/news/794911/?utm_campaign=794911&utm_source=habrahabr&utm_medium=rss)
 - [ESET устранила критическую уязвимость в антивирусных продуктах для Windows](https://habr.com/ru/news/794907/?utm_campaign=794907&utm_source=habrahabr&utm_medium=rss)
-- [Valve открыла исходный код Steam Audio SDK под лицензией Apache 2.0](https://habr.com/ru/news/794891/?utm_campaign=794891&utm_source=habrahabr&utm_medium=rss)
-- [Wyze: сбой в работе камер позволил 13 тысячам клиентов заглянуть в дома других людей](https://habr.com/ru/news/794889/?utm_campaign=794889&utm_source=habrahabr&utm_medium=rss)
-- [NTDEV представил установку Windows 10 на базе tiny10 за 104 секунды](https://habr.com/ru/news/794871/?utm_campaign=794871&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
