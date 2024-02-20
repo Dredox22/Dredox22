@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Шадаев: сбой зоны .ru в конце января был техническим, без внешнего вмешательства](https://habr.com/ru/news/794957/?utm_campaign=794957&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Firefox 123: улучшенный перевод и нововведения для разработчиков](https://habr.com/ru/news/794955/?utm_campaign=794955&utm_source=habrahabr&utm_medium=rss)
+- [Взломана защита портативной локальной консоли Sony PlayStation Portal, на гаджете запущен эмулятор PPSSPP](https://habr.com/ru/news/794951/?utm_campaign=794951&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: информационная безопасность финансовых организаций](https://habr.com/ru/companies/rshb/news/794933/?utm_campaign=794933&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» поможет Минцифры бороться с фишингом и утечками персональных данных](https://habr.com/ru/news/794935/?utm_campaign=794935&utm_source=habrahabr&utm_medium=rss)
-- [Fujifilm представила камеру X100VI на базе решений X100V](https://habr.com/ru/news/794915/?utm_campaign=794915&utm_source=habrahabr&utm_medium=rss)
-- [ФБР и Национальное агентство по борьбе с преступностью Великобритании пресекли деятельность хакеров LockBit](https://habr.com/ru/news/794911/?utm_campaign=794911&utm_source=habrahabr&utm_medium=rss)
-- [ESET устранила критическую уязвимость в антивирусных продуктах для Windows](https://habr.com/ru/news/794907/?utm_campaign=794907&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
