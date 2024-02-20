@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Glur — библиотеки для добавления SwiftUI-блюра на шейдерах Metal](https://habr.com/ru/news/794989/?utm_campaign=794989&utm_source=habrahabr&utm_medium=rss)
+- [Аудитория RuStore достигла 29 млн в месяц](https://habr.com/ru/news/794979/?utm_campaign=794979&utm_source=habrahabr&utm_medium=rss)
 - [Облако Linx Cloud аттестовано на соответствие первому уровню защищенности УЗ-1 и К1 &lpar;ГИС&rpar;](https://habr.com/ru/companies/Linx/news/794973/?utm_campaign=794973&utm_source=habrahabr&utm_medium=rss)
 - [Шадаев: сбой зоны .ru в конце января был техническим, без внешнего вмешательства](https://habr.com/ru/news/794957/?utm_campaign=794957&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Firefox 123: улучшенный перевод и нововведения для разработчиков](https://habr.com/ru/news/794955/?utm_campaign=794955&utm_source=habrahabr&utm_medium=rss)
-- [Взломана защита портативной локальной консоли Sony PlayStation Portal, на гаджете запущен эмулятор PPSSPP](https://habr.com/ru/news/794951/?utm_campaign=794951&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: информационная безопасность финансовых организаций](https://habr.com/ru/companies/rshb/news/794933/?utm_campaign=794933&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
