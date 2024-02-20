@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МВД задержало трёх участников хакерской группировки SugarLocker](https://habr.com/ru/news/795097/?utm_campaign=795097&utm_source=habrahabr&utm_medium=rss)
 - [Swift 5.11 не выйдет в 2024 году, вместо него Apple выпустит Swift 6](https://habr.com/ru/news/795073/?utm_campaign=795073&utm_source=habrahabr&utm_medium=rss)
 - [Telegram будет давать Premium в обмен на отправку SMS-сообщений с кодами авторизации другим пользователям](https://habr.com/ru/news/794995/?utm_campaign=794995&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Glur — библиотеки для добавления SwiftUI-блюра на шейдерах Metal](https://habr.com/ru/news/794989/?utm_campaign=794989&utm_source=habrahabr&utm_medium=rss)
 - [Аудитория RuStore достигла 29 млн в месяц](https://habr.com/ru/news/794979/?utm_campaign=794979&utm_source=habrahabr&utm_medium=rss)
-- [Облако Linx Cloud аттестовано на соответствие первому уровню защищенности УЗ-1 и К1 &lpar;ГИС&rpar;](https://habr.com/ru/companies/Linx/news/794973/?utm_campaign=794973&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
