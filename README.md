@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ФБР и Национальное агентство по борьбе с преступностью Великобритании пресекли деятельность хакеров LockBit](https://habr.com/ru/news/794911/?utm_campaign=794911&utm_source=habrahabr&utm_medium=rss)
+- [ESET устранила критическую уязвимость в антивирусных продуктах для Windows](https://habr.com/ru/news/794907/?utm_campaign=794907&utm_source=habrahabr&utm_medium=rss)
+- [Valve открыла исходный код Steam Audio SDK под лицензией Apache 2.0](https://habr.com/ru/news/794891/?utm_campaign=794891&utm_source=habrahabr&utm_medium=rss)
+- [Wyze: сбой в работе камер позволил 13 тысячам клиентов заглянуть в дома других людей](https://habr.com/ru/news/794889/?utm_campaign=794889&utm_source=habrahabr&utm_medium=rss)
 - [NTDEV представил установку Windows 10 на базе tiny10 за 104 секунды](https://habr.com/ru/news/794871/?utm_campaign=794871&utm_source=habrahabr&utm_medium=rss)
-- [Кембриджский университет и другие британские учебные заведения подверглись DDoS-атаке внутри научной сети Janet Network](https://habr.com/ru/news/794865/?utm_campaign=794865&utm_source=habrahabr&utm_medium=rss)
-- [Google может заблокировать разработку портов Google Camera](https://habr.com/ru/news/794815/?utm_campaign=794815&utm_source=habrahabr&utm_medium=rss)
-- [Сообщество Rust опубликовало результаты ежегодного опроса за 2023 год](https://habr.com/ru/news/794803/?utm_campaign=794803&utm_source=habrahabr&utm_medium=rss)
-- [Мнение: производители оборудования для ЦОД в РФ расширяют ассортимент, но испытывают сложности с поставкой части систем](https://habr.com/ru/news/794781/?utm_campaign=794781&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
