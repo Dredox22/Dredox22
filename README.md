@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На macOS вышло приложение JuxtaCode для анализа истории кода](https://habr.com/ru/news/795353/?utm_campaign=795353&utm_source=habrahabr&utm_medium=rss)
+- [Операционные системы семейства «Альт» доступны на облачной платформе RCloud by 3data](https://habr.com/ru/companies/basealtspo/news/795331/?utm_campaign=795331&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил сервис для прогнозирования распространения вулканического пепла](https://habr.com/ru/news/795329/?utm_campaign=795329&utm_source=habrahabr&utm_medium=rss)
 - [Поисковая система, на основе распознавания речи в видеоклипах на 10+ языках — inPhrase.com](https://habr.com/ru/news/795323/?utm_campaign=795323&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи обратили внимание, что Gemini не любит рисовать европеоиодов](https://habr.com/ru/news/795309/?utm_campaign=795309&utm_source=habrahabr&utm_medium=rss)
-- [Российские компании стали чаще скрывать утечки персональных данных из-за закона об оборотных штрафах](https://habr.com/ru/news/795241/?utm_campaign=795241&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в Tele2 считают нелегитимной схему Telegram «Premium в обмен на отправку СМС-сообщений с кодами авторизации»](https://habr.com/ru/news/795219/?utm_campaign=795219&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
