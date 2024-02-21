@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз RawTherapee v5.10](https://habr.com/ru/news/795419/?utm_campaign=795419&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp запретит делать скриншоты профилей сторонних пользователей](https://habr.com/ru/news/795415/?utm_campaign=795415&utm_source=habrahabr&utm_medium=rss)
 - [Релиз образовательного пакета для детей GCompris 4.0](https://habr.com/ru/news/795403/?utm_campaign=795403&utm_source=habrahabr&utm_medium=rss)
 - [Google представила открытые языковые модели Gemma](https://habr.com/ru/news/795401/?utm_campaign=795401&utm_source=habrahabr&utm_medium=rss)
 - [РКН: новый рекорд компенсации морального вреда за незаконное использование ПД составляет 150 тысяч рублей](https://habr.com/ru/news/795393/?utm_campaign=795393&utm_source=habrahabr&utm_medium=rss)
-- [В Signal теперь можно использовать никнеймы вместо номеров телефонов](https://habr.com/ru/news/795371/?utm_campaign=795371&utm_source=habrahabr&utm_medium=rss)
-- [АО «Микрон» начало массовые продажи российского микроконтроллера MIK32 «Амур» на архитектуре RISC‑V](https://habr.com/ru/news/795355/?utm_campaign=795355&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
