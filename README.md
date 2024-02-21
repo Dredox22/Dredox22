@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Национальное агентство по борьбе с преступностью Великобритании: каждый пятый ребёнок от 10 до 16 лет — киберпреступник](https://habr.com/ru/news/795193/?utm_campaign=795193&utm_source=habrahabr&utm_medium=rss)
 - [Акции NVIDIA стали самыми активно торгуемыми бумагами в США](https://habr.com/ru/companies/dcmiran/news/795171/?utm_campaign=795171&utm_source=habrahabr&utm_medium=rss)
 - [YandexGPT поможет редактировать тексты на английском в Яндекс Переводчике](https://habr.com/ru/companies/yandex/news/795081/?utm_campaign=795081&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft в SwiftKey переименовала Bing Chat в Copilot и включила GPT-4 Turbo](https://habr.com/ru/news/795159/?utm_campaign=795159&utm_source=habrahabr&utm_medium=rss)
 - [Вышли релизы безопасности Joomla 5.0.3 и Joomla 4.4.3](https://habr.com/ru/news/795161/?utm_campaign=795161&utm_source=habrahabr&utm_medium=rss)
-- [В Adobe Acrobat появится ИИ-ассистент для «лёгкого общения с документами»](https://habr.com/ru/news/795153/?utm_campaign=795153&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
