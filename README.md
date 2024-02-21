@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил сервис для прогнозирования распространения вулканического пепла](https://habr.com/ru/news/795329/?utm_campaign=795329&utm_source=habrahabr&utm_medium=rss)
+- [Поисковая система, на основе распознавания речи в видеоклипах на 10+ языках — inPhrase.com](https://habr.com/ru/news/795323/?utm_campaign=795323&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи обратили внимание, что Gemini не любит рисовать европеоиодов](https://habr.com/ru/news/795309/?utm_campaign=795309&utm_source=habrahabr&utm_medium=rss)
 - [Российские компании стали чаще скрывать утечки персональных данных из-за закона об оборотных штрафах](https://habr.com/ru/news/795241/?utm_campaign=795241&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в Tele2 считают нелегитимной схему Telegram «Premium в обмен на отправку СМС-сообщений с кодами авторизации»](https://habr.com/ru/news/795219/?utm_campaign=795219&utm_source=habrahabr&utm_medium=rss)
-- [Национальное агентство по борьбе с преступностью Великобритании: каждый пятый ребёнок от 10 до 16 лет — киберпреступник](https://habr.com/ru/news/795193/?utm_campaign=795193&utm_source=habrahabr&utm_medium=rss)
-- [Акции NVIDIA стали самыми активно торгуемыми бумагами в США](https://habr.com/ru/companies/dcmiran/news/795171/?utm_campaign=795171&utm_source=habrahabr&utm_medium=rss)
-- [YandexGPT поможет редактировать тексты на английском в Яндекс Переводчике](https://habr.com/ru/companies/yandex/news/795081/?utm_campaign=795081&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
