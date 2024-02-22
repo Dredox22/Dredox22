@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кибершпионы, хактивисты, вымогатели: аналитики F.A.С.С.T. назвали главные киберугрозы 2024 года](https://habr.com/ru/companies/f_a_c_c_t/news/795651/?utm_campaign=795651&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp добавил четыре новых способа форматирования текста](https://habr.com/ru/news/795647/?utm_campaign=795647&utm_source=habrahabr&utm_medium=rss)
 - [Первый очный тест-драйв по программе nanoCAD BIM Вентиляция прошел в Москве 20 февраля](https://habr.com/ru/companies/nanosoft/news/795595/?utm_campaign=795595&utm_source=habrahabr&utm_medium=rss)
 - [Gboard представила инструмент для распознавания текста Scan Text на Android](https://habr.com/ru/news/795575/?utm_campaign=795575&utm_source=habrahabr&utm_medium=rss)
 - [Google принесла извинения за «промах» в работе Gemini по генерации изображений людей в разные исторические периоды](https://habr.com/ru/news/795551/?utm_campaign=795551&utm_source=habrahabr&utm_medium=rss)
-- [В PlayStation появилась поддержка Passkey](https://habr.com/ru/news/795543/?utm_campaign=795543&utm_source=habrahabr&utm_medium=rss)
-- [Зачем и как распределенным командам использовать виртуальные рабочие места &lpar;VDI&rpar; — узнаете на вебинаре Cloud.ru 5 марта](https://habr.com/ru/companies/cloud_ru/news/795515/?utm_campaign=795515&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
