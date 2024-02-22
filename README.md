@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google принесла извинения за «промах» в работе Gemini по генерации изображений людей в разные исторические периоды](https://habr.com/ru/news/795551/?utm_campaign=795551&utm_source=habrahabr&utm_medium=rss)
+- [В PlayStation появилась поддержка Passkey](https://habr.com/ru/news/795543/?utm_campaign=795543&utm_source=habrahabr&utm_medium=rss)
+- [Зачем и как распределенным командам использовать виртуальные рабочие места &lpar;VDI&rpar; — узнаете на вебинаре Cloud.ru 5 марта](https://habr.com/ru/companies/cloud_ru/news/795515/?utm_campaign=795515&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Надежное облако для команды разработки: как увеличить маржинальность проектов»](https://habr.com/ru/news/795529/?utm_campaign=795529&utm_source=habrahabr&utm_medium=rss)
 - [«Ъ»: Минтранс хочет обязать перевозчиков предоставлять IP-адреса и телефоны пассажиров](https://habr.com/ru/news/795521/?utm_campaign=795521&utm_source=habrahabr&utm_medium=rss)
-- [АСВ опубликовало инструкцию для владельцев Qiwi-кошельков по возврату денег](https://habr.com/ru/news/795517/?utm_campaign=795517&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft автоматически обновит совместимые ПК пользователей на Windows 11 21H2 и 22H2 до Windows 11 23H2](https://habr.com/ru/news/795513/?utm_campaign=795513&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT галлюцинировал несколько часов, проблему уже исправили](https://habr.com/ru/news/795507/?utm_campaign=795507&utm_source=habrahabr&utm_medium=rss)
-- [Больше гибкости: вышла новая версия российской BI-платформы Visiology 3.6](https://habr.com/ru/companies/visiology/news/795509/?utm_campaign=795509&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
