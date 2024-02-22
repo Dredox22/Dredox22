@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gboard представила инструмент для распознавания текста Scan Text на Android](https://habr.com/ru/news/795575/?utm_campaign=795575&utm_source=habrahabr&utm_medium=rss)
 - [Google принесла извинения за «промах» в работе Gemini по генерации изображений людей в разные исторические периоды](https://habr.com/ru/news/795551/?utm_campaign=795551&utm_source=habrahabr&utm_medium=rss)
 - [В PlayStation появилась поддержка Passkey](https://habr.com/ru/news/795543/?utm_campaign=795543&utm_source=habrahabr&utm_medium=rss)
 - [Зачем и как распределенным командам использовать виртуальные рабочие места &lpar;VDI&rpar; — узнаете на вебинаре Cloud.ru 5 марта](https://habr.com/ru/companies/cloud_ru/news/795515/?utm_campaign=795515&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Надежное облако для команды разработки: как увеличить маржинальность проектов»](https://habr.com/ru/news/795529/?utm_campaign=795529&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: Минтранс хочет обязать перевозчиков предоставлять IP-адреса и телефоны пассажиров](https://habr.com/ru/news/795521/?utm_campaign=795521&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
