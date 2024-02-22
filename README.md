@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар: Российский BI в мессенджере с ИИ. Новые возможности](https://habr.com/ru/companies/sapiens_solutions/news/795485/?utm_campaign=795485&utm_source=habrahabr&utm_medium=rss)
-- [Иностранной электронике станет проще получить российское «гражданство»](https://habr.com/ru/companies/oxygendc/news/795481/?utm_campaign=795481&utm_source=habrahabr&utm_medium=rss)
-- [Google Gemma: Открытый доступ к драгоценному камню ИИ](https://habr.com/ru/news/795465/?utm_campaign=795465&utm_source=habrahabr&utm_medium=rss)
-- [Apple запустила приложение Apple Sports с результатами матчей и коэффициентами ставок](https://habr.com/ru/news/795433/?utm_campaign=795433&utm_source=habrahabr&utm_medium=rss)
-- [Релиз RawTherapee v5.10](https://habr.com/ru/news/795419/?utm_campaign=795419&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: Минтранс хочет обязать перевозчиков предоставлять IP-адреса и телефоны пассажиров](https://habr.com/ru/news/795521/?utm_campaign=795521&utm_source=habrahabr&utm_medium=rss)
+- [АСВ опубликовало инструкцию для владельцев Qiwi-кошельков по возврату денег](https://habr.com/ru/news/795517/?utm_campaign=795517&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft автоматически обновит совместимые ПК пользователей на Windows 11 21H2 и 22H2 до Windows 11 23H2](https://habr.com/ru/news/795513/?utm_campaign=795513&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT галлюцинировал несколько часов, проблему уже исправили](https://habr.com/ru/news/795507/?utm_campaign=795507&utm_source=habrahabr&utm_medium=rss)
+- [Больше гибкости: вышла новая версия российской BI-платформы Visiology 3.6](https://habr.com/ru/companies/visiology/news/795509/?utm_campaign=795509&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
