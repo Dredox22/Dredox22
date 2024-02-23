@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН отчитался об утечке 510 млн записей в результате одного инцидента](https://habr.com/ru/news/795761/?utm_campaign=795761&utm_source=habrahabr&utm_medium=rss)
+- [В Минтрансе пояснили необходимость получения от перевозчиков IP-адресов, данных карт оплаты и телефонов пассажиров](https://habr.com/ru/news/795755/?utm_campaign=795755&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains запустила в своих IDE бета-тест нового терминала](https://habr.com/ru/news/795747/?utm_campaign=795747&utm_source=habrahabr&utm_medium=rss)
 - [Десятичный разделитель оказался на 150 лет старше, чем считалось ранее](https://habr.com/ru/news/795737/?utm_campaign=795737&utm_source=habrahabr&utm_medium=rss)
 - [Deutsche Telekom и Tele2 представили новый формат СИМ-карты rSIM &lpar;resilient SIM&rpar; с поддержкой двух операторов связи](https://habr.com/ru/news/795709/?utm_campaign=795709&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Quarto 1.4](https://habr.com/ru/news/795683/?utm_campaign=795683&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft работает над новыми функциями Paint](https://habr.com/ru/news/795677/?utm_campaign=795677&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
