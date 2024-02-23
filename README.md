@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google закроет Google Pay в США летом 2024 года](https://habr.com/ru/news/795829/?utm_campaign=795829&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи нашли уязвимость, с помощью которой можно обойти сканер отпечатков пальцев](https://habr.com/ru/news/795825/?utm_campaign=795825&utm_source=habrahabr&utm_medium=rss)
 - [Очень хочется сверхприбылей. Samsung не собирается продавать NAND-память дешево и сокращает производство](https://habr.com/ru/companies/dcmiran/news/795817/?utm_campaign=795817&utm_source=habrahabr&utm_medium=rss)
 - [Некоторые владельцы Apple Vision Pro столкнулись с возникновением трещин на защитном стекле гарнитуры](https://habr.com/ru/news/795789/?utm_campaign=795789&utm_source=habrahabr&utm_medium=rss)
 - [Вышел CrossOver 24.0 для Linux и macOS](https://habr.com/ru/news/795777/?utm_campaign=795777&utm_source=habrahabr&utm_medium=rss)
-- [РКН отчитался об утечке 510 млн записей в результате одного инцидента](https://habr.com/ru/news/795761/?utm_campaign=795761&utm_source=habrahabr&utm_medium=rss)
-- [В Минтрансе пояснили необходимость получения от перевозчиков IP-адресов, данных карт оплаты и телефонов пассажиров](https://habr.com/ru/news/795755/?utm_campaign=795755&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
