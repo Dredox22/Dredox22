@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Некоторые владельцы Apple Vision Pro столкнулись с возникновением трещин на защитном стекле гарнитуры](https://habr.com/ru/news/795789/?utm_campaign=795789&utm_source=habrahabr&utm_medium=rss)
 - [Вышел CrossOver 24.0 для Linux и macOS](https://habr.com/ru/news/795777/?utm_campaign=795777&utm_source=habrahabr&utm_medium=rss)
 - [РКН отчитался об утечке 510 млн записей в результате одного инцидента](https://habr.com/ru/news/795761/?utm_campaign=795761&utm_source=habrahabr&utm_medium=rss)
 - [В Минтрансе пояснили необходимость получения от перевозчиков IP-адресов, данных карт оплаты и телефонов пассажиров](https://habr.com/ru/news/795755/?utm_campaign=795755&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains запустила в своих IDE бета-тест нового терминала](https://habr.com/ru/news/795747/?utm_campaign=795747&utm_source=habrahabr&utm_medium=rss)
-- [Десятичный разделитель оказался на 150 лет старше, чем считалось ранее](https://habr.com/ru/news/795737/?utm_campaign=795737&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
