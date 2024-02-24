@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минфин США ввёл санкции против российских провайдеров ЦОД, НСПК, интеграторов, разработчиков ПО и компьютерных вендоров](https://habr.com/ru/news/795893/?utm_campaign=795893&utm_source=habrahabr&utm_medium=rss)
 - [Банк Sparkasse отправляет клиентам по почте USB-флэшку с файлом ToS &lpar;условиями пользовательского соглашения&rpar;](https://habr.com/ru/news/795853/?utm_campaign=795853&utm_source=habrahabr&utm_medium=rss)
 - [Google закроет Google Pay в США летом 2024 года](https://habr.com/ru/news/795829/?utm_campaign=795829&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи нашли уязвимость, с помощью которой можно обойти сканер отпечатков пальцев](https://habr.com/ru/news/795825/?utm_campaign=795825&utm_source=habrahabr&utm_medium=rss)
 - [Очень хочется сверхприбылей. Samsung не собирается продавать NAND-память дешево и сокращает производство](https://habr.com/ru/companies/dcmiran/news/795817/?utm_campaign=795817&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые владельцы Apple Vision Pro столкнулись с возникновением трещин на защитном стекле гарнитуры](https://habr.com/ru/news/795789/?utm_campaign=795789&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
