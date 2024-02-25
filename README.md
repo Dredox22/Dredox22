@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple добавит в iMessage квантово-устойчивое шифрование PQ3](https://habr.com/ru/news/796009/?utm_campaign=796009&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор США оштрафовал Avast на $16,5 млн за продажу данных пользователей](https://habr.com/ru/news/796007/?utm_campaign=796007&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 122](https://habr.com/ru/news/796005/?utm_campaign=796005&utm_source=habrahabr&utm_medium=rss)
 - [Бывший сотрудник Gizmodo сменил имя на Slackbot и месяцы оставался незамеченным на этой платформе внутри компании](https://habr.com/ru/news/795951/?utm_campaign=795951&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Git 2.44.0](https://habr.com/ru/news/795941/?utm_campaign=795941&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft исправят баг в Windows 10 с неработающими приложениями на ПК со старыми процессорами &lpar;без SSE 4.2&rpar;](https://habr.com/ru/news/795917/?utm_campaign=795917&utm_source=habrahabr&utm_medium=rss)
-- [Минфин США ввёл санкции против российских провайдеров ЦОД, НСПК, интеграторов, разработчиков ПО и компьютерных вендоров](https://habr.com/ru/news/795893/?utm_campaign=795893&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
