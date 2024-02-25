@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Microsoft Edge 122](https://habr.com/ru/news/796121/?utm_campaign=796121&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили атаку VoltSchemer, позволяющую портить смартфоны и другие гаджеты через беспроводную зарядку](https://habr.com/ru/news/796111/?utm_campaign=796111&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь случайно купил на eBay б/у прозрачный ноутбук Securebook 5 для использования в тюрьмах и с паролем на BIOS](https://habr.com/ru/news/796095/?utm_campaign=796095&utm_source=habrahabr&utm_medium=rss)
 - [Google представила кастомизированный талисман для Android, теперь пользователи могут создать собственного Android-бота](https://habr.com/ru/news/796057/?utm_campaign=796057&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили интерактивное руководство по работе со SwiftUI](https://habr.com/ru/news/796041/?utm_campaign=796041&utm_source=habrahabr&utm_medium=rss)
-- [Вендинговый аппарат в университете Канады использовал систему распознавания лиц без предупреждения](https://habr.com/ru/news/796037/?utm_campaign=796037&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
