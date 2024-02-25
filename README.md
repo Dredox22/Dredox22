@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В iOS 17.4 заметили экран проверки приложений для пользователей из ЕС](https://habr.com/ru/news/796023/?utm_campaign=796023&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила проект PyRIT для генерации вредоносных запросов при тестировании ИИ-моделей и оценке их реакций](https://habr.com/ru/news/796015/?utm_campaign=796015&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia выпустила видеодрайвер для не поддерживаемых видеокарт и старых версий Windows](https://habr.com/ru/news/796011/?utm_campaign=796011&utm_source=habrahabr&utm_medium=rss)
+- [МВД РФ: в 2023 году в стране зарегистрировано рекордное количество IT-преступлений](https://habr.com/ru/news/796013/?utm_campaign=796013&utm_source=habrahabr&utm_medium=rss)
 - [Apple добавит в iMessage квантово-устойчивое шифрование PQ3](https://habr.com/ru/news/796009/?utm_campaign=796009&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор США оштрафовал Avast на $16,5 млн за продажу данных пользователей](https://habr.com/ru/news/796007/?utm_campaign=796007&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 122](https://habr.com/ru/news/796005/?utm_campaign=796005&utm_source=habrahabr&utm_medium=rss)
-- [Бывший сотрудник Gizmodo сменил имя на Slackbot и месяцы оставался незамеченным на этой платформе внутри компании](https://habr.com/ru/news/795951/?utm_campaign=795951&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Git 2.44.0](https://habr.com/ru/news/795941/?utm_campaign=795941&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
