@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Юристы попросили ChatGPT обосновать их гонорар, судья срезал им выплаты вдвое](https://habr.com/ru/news/796359/?utm_campaign=796359&utm_source=habrahabr&utm_medium=rss)
 - [В новой версии BI.ZONE Compliance Platform появился модуль управления соответствием требованиям ИБ по КИИ](https://habr.com/ru/news/796349/?utm_campaign=796349&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Copyleaks: 60% ответов GPT-3.5 содержат плагиат](https://habr.com/ru/news/796343/?utm_campaign=796343&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» рассказала, что с начала 2024 года число высококритичных атак выросло в три раза](https://habr.com/ru/news/796305/?utm_campaign=796305&utm_source=habrahabr&utm_medium=rss)
 - [Вышел k8s-image-availability-exporter 0.7.0 — инструмент для проверки доступности образов в container registry](https://habr.com/ru/companies/flant/news/796297/?utm_campaign=796297&utm_source=habrahabr&utm_medium=rss)
-- [Lamoda Tech 1C Meetup. Вжух, и готово! Как быстро запустить розничный бизнес?](https://habr.com/ru/companies/lamoda/news/795679/?utm_campaign=795679&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
