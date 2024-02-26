@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [АСВ опубликовало данные по объёму средств на виртуальных кошельках в Qiwi-банке](https://habr.com/ru/news/796381/?utm_campaign=796381&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск опубликовал фотографии первого сервера DGX-1, который Nvidia поставила OpenAI](https://habr.com/ru/news/796375/?utm_campaign=796375&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX опубликовала первый пост в X напрямую через Direct to Cell](https://habr.com/ru/news/796373/?utm_campaign=796373&utm_source=habrahabr&utm_medium=rss)
 - [Юристы попросили ChatGPT обосновать их гонорар, судья срезал им выплаты вдвое](https://habr.com/ru/news/796359/?utm_campaign=796359&utm_source=habrahabr&utm_medium=rss)
 - [В новой версии BI.ZONE Compliance Platform появился модуль управления соответствием требованиям ИБ по КИИ](https://habr.com/ru/news/796349/?utm_campaign=796349&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Copyleaks: 60% ответов GPT-3.5 содержат плагиат](https://habr.com/ru/news/796343/?utm_campaign=796343&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» рассказала, что с начала 2024 года число высококритичных атак выросло в три раза](https://habr.com/ru/news/796305/?utm_campaign=796305&utm_source=habrahabr&utm_medium=rss)
-- [Вышел k8s-image-availability-exporter 0.7.0 — инструмент для проверки доступности образов в container registry](https://habr.com/ru/companies/flant/news/796297/?utm_campaign=796297&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
