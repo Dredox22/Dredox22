@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Солар» рассказала, что с начала 2024 года число высококритичных атак выросло в три раза](https://habr.com/ru/news/796305/?utm_campaign=796305&utm_source=habrahabr&utm_medium=rss)
+- [Вышел k8s-image-availability-exporter 0.7.0 — инструмент для проверки доступности образов в container registry](https://habr.com/ru/companies/flant/news/796297/?utm_campaign=796297&utm_source=habrahabr&utm_medium=rss)
 - [Lamoda Tech 1C Meetup. Вжух, и готово! Как быстро запустить розничный бизнес?](https://habr.com/ru/companies/lamoda/news/795679/?utm_campaign=795679&utm_source=habrahabr&utm_medium=rss)
 - [«Бештау» и «РостИнтех» создали совместную компанию по разработке станков для радиоэлектроники и микроэлектроники](https://habr.com/ru/news/796283/?utm_campaign=796283&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия российского сервиса для разработчиков GitFlic 3.0.0](https://habr.com/ru/companies/astralinux/news/796277/?utm_campaign=796277&utm_source=habrahabr&utm_medium=rss)
-- [JAXA восстановило связь с модулем SLIM на Луне после лунной ночи](https://habr.com/ru/news/796269/?utm_campaign=796269&utm_source=habrahabr&utm_medium=rss)
-- [Платформа для защиты от кибератак «Вебмониторэкс» совместима с ОС семейства «Альт» от «Базальт СПО»](https://habr.com/ru/companies/basealtspo/news/796263/?utm_campaign=796263&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
