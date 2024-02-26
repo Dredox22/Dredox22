@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows Server 2025 тестируют оповещения о входе в учётную запись Microsoft в меню «Пуск»](https://habr.com/ru/news/796195/?utm_campaign=796195&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры подготовило законопроект, обязывающий Apple разрешить установку приложений в обход App Store](https://habr.com/ru/news/796197/?utm_campaign=796197&utm_source=habrahabr&utm_medium=rss)
+- [Google представила Gemini 1.5](https://habr.com/ru/news/796191/?utm_campaign=796191&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой версии Windows 11 появилась опция Hotpatching — возможность установки обновлений без частых перезагрузок](https://habr.com/ru/news/796177/?utm_campaign=796177&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo показала прототип ноутбука с прозрачным дисплеем](https://habr.com/ru/news/796173/?utm_campaign=796173&utm_source=habrahabr&utm_medium=rss)
-- [Гендир Nvidia говорит айтишники скоро будут не нужны](https://habr.com/ru/news/796139/?utm_campaign=796139&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Microsoft Edge 122](https://habr.com/ru/news/796121/?utm_campaign=796121&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили атаку VoltSchemer, позволяющую портить смартфоны и другие гаджеты через беспроводную зарядку](https://habr.com/ru/news/796111/?utm_campaign=796111&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
