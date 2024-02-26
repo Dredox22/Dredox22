@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [JAXA восстановило связь с модулем SLIM на Луне после лунной ночи](https://habr.com/ru/news/796269/?utm_campaign=796269&utm_source=habrahabr&utm_medium=rss)
+- [Платформа для защиты от кибератак «Вебмониторэкс» совместима с ОС семейства «Альт» от «Базальт СПО»](https://habr.com/ru/companies/basealtspo/news/796263/?utm_campaign=796263&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Albedo запустит спутник с опцией распознавания лиц](https://habr.com/ru/news/796207/?utm_campaign=796207&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT получила виджет домашнего экрана для Android](https://habr.com/ru/news/796203/?utm_campaign=796203&utm_source=habrahabr&utm_medium=rss)
 - [В Windows Server 2025 тестируют оповещения о входе в учётную запись Microsoft в меню «Пуск»](https://habr.com/ru/news/796195/?utm_campaign=796195&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры подготовило законопроект, обязывающий Apple разрешить установку приложений в обход App Store](https://habr.com/ru/news/796197/?utm_campaign=796197&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Gemini 1.5](https://habr.com/ru/news/796191/?utm_campaign=796191&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
