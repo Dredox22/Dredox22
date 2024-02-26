@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm представила платформу AI Hub с доступом к 75 моделям искусственного интеллекта](https://habr.com/ru/news/796427/?utm_campaign=796427&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики выпустили обновление Reor — ИИ-заметочника с функцией локального запуска ML-моделей](https://habr.com/ru/news/796425/?utm_campaign=796425&utm_source=habrahabr&utm_medium=rss)
 - [В России создали образец рекордно быстрого аналогового фотонного процессора](https://habr.com/ru/news/796417/?utm_campaign=796417&utm_source=habrahabr&utm_medium=rss)
 - [В России представили дорожную карту развития видеоигровой индустрии в 2024-2029 годах](https://habr.com/ru/news/796407/?utm_campaign=796407&utm_source=habrahabr&utm_medium=rss)
 - [2ГИС подал второй иск к компании Google и её структурам в РФ](https://habr.com/ru/news/796401/?utm_campaign=796401&utm_source=habrahabr&utm_medium=rss)
-- [Исследование «Яндекс Погоды»: в российских городах растёт доля тёплых дней](https://habr.com/ru/news/796395/?utm_campaign=796395&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/796387/?utm_campaign=796387&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
