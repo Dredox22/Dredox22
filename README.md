@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Lamoda Tech 1C Meetup. Вжух, и готово! Как быстро запустить розничный бизнес?](https://habr.com/ru/companies/lamoda/news/795679/?utm_campaign=795679&utm_source=habrahabr&utm_medium=rss)
+- [«Бештау» и «РостИнтех» создали совместную компанию по разработке станков для радиоэлектроники и микроэлектроники](https://habr.com/ru/news/796283/?utm_campaign=796283&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия российского сервиса для разработчиков GitFlic 3.0.0](https://habr.com/ru/companies/astralinux/news/796277/?utm_campaign=796277&utm_source=habrahabr&utm_medium=rss)
 - [JAXA восстановило связь с модулем SLIM на Луне после лунной ночи](https://habr.com/ru/news/796269/?utm_campaign=796269&utm_source=habrahabr&utm_medium=rss)
 - [Платформа для защиты от кибератак «Вебмониторэкс» совместима с ОС семейства «Альт» от «Базальт СПО»](https://habr.com/ru/companies/basealtspo/news/796263/?utm_campaign=796263&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Albedo запустит спутник с опцией распознавания лиц](https://habr.com/ru/news/796207/?utm_campaign=796207&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT получила виджет домашнего экрана для Android](https://habr.com/ru/news/796203/?utm_campaign=796203&utm_source=habrahabr&utm_medium=rss)
-- [В Windows Server 2025 тестируют оповещения о входе в учётную запись Microsoft в меню «Пуск»](https://habr.com/ru/news/796195/?utm_campaign=796195&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
