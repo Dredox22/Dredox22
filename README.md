@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [2ГИС подал второй иск к компании Google и её структурам в РФ](https://habr.com/ru/news/796401/?utm_campaign=796401&utm_source=habrahabr&utm_medium=rss)
+- [Исследование «Яндекс Погоды»: в российских городах растёт доля тёплых дней](https://habr.com/ru/news/796395/?utm_campaign=796395&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/796387/?utm_campaign=796387&utm_source=habrahabr&utm_medium=rss)
 - [АСВ опубликовало данные по объёму средств на виртуальных кошельках в Qiwi-банке](https://habr.com/ru/news/796381/?utm_campaign=796381&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск опубликовал фотографии первого сервера DGX-1, который Nvidia поставила OpenAI](https://habr.com/ru/news/796375/?utm_campaign=796375&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX опубликовала первый пост в X напрямую через Direct to Cell](https://habr.com/ru/news/796373/?utm_campaign=796373&utm_source=habrahabr&utm_medium=rss)
-- [Юристы попросили ChatGPT обосновать их гонорар, судья срезал им выплаты вдвое](https://habr.com/ru/news/796359/?utm_campaign=796359&utm_source=habrahabr&utm_medium=rss)
-- [В новой версии BI.ZONE Compliance Platform появился модуль управления соответствием требованиям ИБ по КИИ](https://habr.com/ru/news/796349/?utm_campaign=796349&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
