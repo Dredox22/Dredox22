@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В тестовой версии Windows 11 появилась опция Hotpatching — возможность установки обновлений без частых перезагрузок](https://habr.com/ru/news/796177/?utm_campaign=796177&utm_source=habrahabr&utm_medium=rss)
+- [Lenovo показала прототип ноутбука с прозрачным дисплеем](https://habr.com/ru/news/796173/?utm_campaign=796173&utm_source=habrahabr&utm_medium=rss)
 - [Гендир Nvidia говорит айтишники скоро будут не нужны](https://habr.com/ru/news/796139/?utm_campaign=796139&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 122](https://habr.com/ru/news/796121/?utm_campaign=796121&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили атаку VoltSchemer, позволяющую портить смартфоны и другие гаджеты через беспроводную зарядку](https://habr.com/ru/news/796111/?utm_campaign=796111&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь случайно купил на eBay б/у прозрачный ноутбук Securebook 5 для использования в тюрьмах и с паролем на BIOS](https://habr.com/ru/news/796095/?utm_campaign=796095&utm_source=habrahabr&utm_medium=rss)
-- [Google представила кастомизированный талисман для Android, теперь пользователи могут создать собственного Android-бота](https://habr.com/ru/news/796057/?utm_campaign=796057&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
