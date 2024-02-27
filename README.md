@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal подала заявку на патент с новым методом обнаружения украденных файлов cookie](https://habr.com/ru/news/796481/?utm_campaign=796481&utm_source=habrahabr&utm_medium=rss)
 - [РКН прокомментировал утечку данных с 500 млн записей в результате одного инцидента](https://habr.com/ru/news/796479/?utm_campaign=796479&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдёт «ламповая» выставка по автоматизации инженерных систем](https://habr.com/ru/companies/wirenboard/news/795805/?utm_campaign=795805&utm_source=habrahabr&utm_medium=rss)
 - [Приложения Национальной системы платёжных карт &lpar;НСПК&rpar; «СБПэй» и «Привет!» пропали из AppStore](https://habr.com/ru/news/796463/?utm_campaign=796463&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm представила платформу AI Hub с доступом к 75 моделям искусственного интеллекта](https://habr.com/ru/news/796427/?utm_campaign=796427&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили обновление Reor — ИИ-заметочника с функцией локального запуска ML-моделей](https://habr.com/ru/news/796425/?utm_campaign=796425&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
