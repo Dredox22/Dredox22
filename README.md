@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В работе Telegram и других сервисов в РФ произошел глобальный сбой](https://habr.com/ru/news/796569/?utm_campaign=796569&utm_source=habrahabr&utm_medium=rss)
+- [Skype оштрафовали на 500 тыс. рублей за нарушение правил распространения информации](https://habr.com/ru/news/796563/?utm_campaign=796563&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс ID» запустил вход по лицу или отпечатку пальца](https://habr.com/ru/news/796557/?utm_campaign=796557&utm_source=habrahabr&utm_medium=rss)
 - [Релиз САПР KiCad 8.0](https://habr.com/ru/news/796505/?utm_campaign=796505&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь выяснил, что ChatGPT не хочет лишний раз переходить на веб-страницы и кэширует ответы](https://habr.com/ru/news/796501/?utm_campaign=796501&utm_source=habrahabr&utm_medium=rss)
-- [PayPal подала заявку на патент с новым методом обнаружения украденных файлов cookie](https://habr.com/ru/news/796481/?utm_campaign=796481&utm_source=habrahabr&utm_medium=rss)
-- [РКН прокомментировал утечку данных с 500 млн записей в результате одного инцидента](https://habr.com/ru/news/796479/?utm_campaign=796479&utm_source=habrahabr&utm_medium=rss)
-- [В Москве пройдёт «ламповая» выставка по автоматизации инженерных систем](https://habr.com/ru/companies/wirenboard/news/795805/?utm_campaign=795805&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
