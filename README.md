@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В работе Telegram и других сервисов в РФ произошел глобальный сбой](https://habr.com/ru/news/796569/?utm_campaign=796569&utm_source=habrahabr&utm_medium=rss)
+- [Очереди на ускорители H100 уменьшились в три раза. Индустрия ждет релиза NVIDIA H200](https://habr.com/ru/companies/dcmiran/news/796593/?utm_campaign=796593&utm_source=habrahabr&utm_medium=rss)
+- [Релиз React Print — инструмента для создания PDF-файлов с использованием React и TypeScript](https://habr.com/ru/news/796591/?utm_campaign=796591&utm_source=habrahabr&utm_medium=rss)
+- [VK использовала пользовательский контент для создания генеративной нейросети](https://habr.com/ru/news/796577/?utm_campaign=796577&utm_source=habrahabr&utm_medium=rss)
+- [&lpar;upd#4&rpar; В работе Telegram и других сервисов в РФ произошел глобальный сбой, спустя час доступ к ним вернулся](https://habr.com/ru/news/796569/?utm_campaign=796569&utm_source=habrahabr&utm_medium=rss)
 - [Skype оштрафовали на 500 тыс. рублей за нарушение правил распространения информации](https://habr.com/ru/news/796563/?utm_campaign=796563&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс ID» запустил вход по лицу или отпечатку пальца](https://habr.com/ru/news/796557/?utm_campaign=796557&utm_source=habrahabr&utm_medium=rss)
-- [Релиз САПР KiCad 8.0](https://habr.com/ru/news/796505/?utm_campaign=796505&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь выяснил, что ChatGPT не хочет лишний раз переходить на веб-страницы и кэширует ответы](https://habr.com/ru/news/796501/?utm_campaign=796501&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
