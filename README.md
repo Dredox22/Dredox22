@@ -70,8 +70,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Очереди на ускорители H100 уменьшились в три раза. Индустрия ждет релиза NVIDIA H200](https://habr.com/ru/companies/dcmiran/news/796593/?utm_campaign=796593&utm_source=habrahabr&utm_medium=rss)
 - [Релиз React Print — инструмента для создания PDF-файлов с использованием React и TypeScript](https://habr.com/ru/news/796591/?utm_campaign=796591&utm_source=habrahabr&utm_medium=rss)
-- [VK использовала пользовательский контент для создания генеративной нейросети](https://habr.com/ru/news/796577/?utm_campaign=796577&utm_source=habrahabr&utm_medium=rss)
-- [&lpar;upd#4&rpar; В работе Telegram и других сервисов в РФ произошел глобальный сбой, спустя час доступ к ним вернулся](https://habr.com/ru/news/796569/?utm_campaign=796569&utm_source=habrahabr&utm_medium=rss)
+- [VK использовала общедоступный пользовательский контент для создания генеративной нейросети](https://habr.com/ru/news/796577/?utm_campaign=796577&utm_source=habrahabr&utm_medium=rss)
+- [В работе Telegram и других сервисов в РФ произошел глобальный сбой, спустя час доступ к ним вернулся](https://habr.com/ru/news/796569/?utm_campaign=796569&utm_source=habrahabr&utm_medium=rss)
 - [Skype оштрафовали на 500 тыс. рублей за нарушение правил распространения информации](https://habr.com/ru/news/796563/?utm_campaign=796563&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
