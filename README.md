@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI утверждает, что New York Times «взломала» ChatGPT, чтобы подать иск о нарушении авторских прав](https://habr.com/ru/news/796719/?utm_campaign=796719&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия IdM‑системы Solar inRights 3.3](https://habr.com/ru/news/796711/?utm_campaign=796711&utm_source=habrahabr&utm_medium=rss)
 - [«Тантор Лабс» и «Аквариус» представили программно‑аппаратную платформу для работы с БД Tantor XDatа](https://habr.com/ru/news/796705/?utm_campaign=796705&utm_source=habrahabr&utm_medium=rss)
 - [Индийская команда выиграла суперфинал «Битвы роботов»](https://habr.com/ru/news/796671/?utm_campaign=796671&utm_source=habrahabr&utm_medium=rss)
 - [В Перми началось серийное производство управляемых коммутаторов с уровнем локализации производства 70%](https://habr.com/ru/news/796661/?utm_campaign=796661&utm_source=habrahabr&utm_medium=rss)
-- [Доля фишинговых ресурсов, расположенных в доменной зоне .ru, выросла за год в 3,6 раза](https://habr.com/ru/news/796657/?utm_campaign=796657&utm_source=habrahabr&utm_medium=rss)
-- [Возможности облачных сервисов Cloud.ru Evolution — разберем 29 февраля на вебинаре](https://habr.com/ru/companies/cloud_ru/news/796473/?utm_campaign=796473&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
