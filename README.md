@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Индийская команда выиграла суперфинал «Битвы роботов»](https://habr.com/ru/news/796671/?utm_campaign=796671&utm_source=habrahabr&utm_medium=rss)
+- [В Перми началось серийное производство управляемых коммутаторов с уровнем локализации производства 70%](https://habr.com/ru/news/796661/?utm_campaign=796661&utm_source=habrahabr&utm_medium=rss)
+- [Доля фишинговых ресурсов, расположенных в доменной зоне .ru, выросла за год в 3,6 раза](https://habr.com/ru/news/796657/?utm_campaign=796657&utm_source=habrahabr&utm_medium=rss)
 - [Возможности облачных сервисов Cloud.ru Evolution — разберем 29 февраля на вебинаре](https://habr.com/ru/companies/cloud_ru/news/796473/?utm_campaign=796473&utm_source=habrahabr&utm_medium=rss)
 - [Очереди на ускорители H100 уменьшились в три раза. Индустрия ждет релиза NVIDIA H200](https://habr.com/ru/companies/dcmiran/news/796593/?utm_campaign=796593&utm_source=habrahabr&utm_medium=rss)
-- [Релиз React Print — инструмента для создания PDF-файлов с использованием React и TypeScript](https://habr.com/ru/news/796591/?utm_campaign=796591&utm_source=habrahabr&utm_medium=rss)
-- [VK использовала общедоступный пользовательский контент для создания генеративной нейросети](https://habr.com/ru/news/796577/?utm_campaign=796577&utm_source=habrahabr&utm_medium=rss)
-- [В работе Telegram и других сервисов в РФ произошел глобальный сбой, спустя час доступ к ним вернулся](https://habr.com/ru/news/796569/?utm_campaign=796569&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
