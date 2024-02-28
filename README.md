@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания «Лайтком» подала в суд на блогера Максима Горшенина](https://habr.com/ru/news/796947/?utm_campaign=796947&utm_source=habrahabr&utm_medium=rss)
+- [Telegram будет делиться с владельцами каналов частью выручки от показов рекламы](https://habr.com/ru/news/796937/?utm_campaign=796937&utm_source=habrahabr&utm_medium=rss)
+- [«ВКонтакте» внедрила систему страйков для модерации](https://habr.com/ru/news/796935/?utm_campaign=796935&utm_source=habrahabr&utm_medium=rss)
 - [Билайн и поисково-спасательный отряд «ЛизаАлерт» — итоги сотрудничества в 2023 году](https://habr.com/ru/companies/beeline_tech/news/796907/?utm_campaign=796907&utm_source=habrahabr&utm_medium=rss)
 - [Офис по кибербезопасности Белого дома США призвал разработчиков переходить на безопасные ЯП типа Rust](https://habr.com/ru/news/796901/?utm_campaign=796901&utm_source=habrahabr&utm_medium=rss)
-- [У «МегаФона» и МТС оказалось больше всего виртуальных арендных номеров](https://habr.com/ru/news/796893/?utm_campaign=796893&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме объяснили, почему в РФ запрещённые сайты заработали без VPN, и пообещали «устранить уязвимости»](https://habr.com/ru/news/796845/?utm_campaign=796845&utm_source=habrahabr&utm_medium=rss)
-- [Apple получила патент на датчики для прикосновений и ощущения вещей в AR и VR](https://habr.com/ru/news/796817/?utm_campaign=796817&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
