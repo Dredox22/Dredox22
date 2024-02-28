@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У «МегаФона» и МТС оказалось больше всего виртуальных арендных номеров](https://habr.com/ru/news/796893/?utm_campaign=796893&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме объяснили, почему в РФ запрещённые сайты заработали без VPN, и пообещали «устранить уязвимости»](https://habr.com/ru/news/796845/?utm_campaign=796845&utm_source=habrahabr&utm_medium=rss)
 - [Apple получила патент на датчики для прикосновений и ощущения вещей в AR и VR](https://habr.com/ru/news/796817/?utm_campaign=796817&utm_source=habrahabr&utm_medium=rss)
 - [Бизнес нарастил закупки российских компьютеров на 71% за год](https://habr.com/ru/news/796819/?utm_campaign=796819&utm_source=habrahabr&utm_medium=rss)
 - [Vodafone и Broadcom разработают API для сокращения веб-отходов](https://habr.com/ru/news/796805/?utm_campaign=796805&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого музыкального ПО Giada 1.0](https://habr.com/ru/news/796801/?utm_campaign=796801&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
