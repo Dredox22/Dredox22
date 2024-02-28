@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix открыл исходный код инструмента bpftop для оптимизации производительность программ BPF в ядре Linux](https://habr.com/ru/news/796771/?utm_campaign=796771&utm_source=habrahabr&utm_medium=rss)
 - [Google представляет Genie: Революционное создание персонализированных 2D-платформеров с помощью ИИ](https://habr.com/ru/news/796767/?utm_campaign=796767&utm_source=habrahabr&utm_medium=rss)
 - [АО «НИИ телевидения» разработало тепловизионную камеру для работы при температуре до 1,8 тысячи °C](https://habr.com/ru/news/796739/?utm_campaign=796739&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи обнаружили, что GitHub Copilot генерирует уязвимый код](https://habr.com/ru/news/796733/?utm_campaign=796733&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI утверждает, что New York Times «взломала» ChatGPT, чтобы подать иск о нарушении авторских прав](https://habr.com/ru/news/796719/?utm_campaign=796719&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия IdM‑системы Solar inRights 3.3](https://habr.com/ru/news/796711/?utm_campaign=796711&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
