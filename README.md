@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Tails 6.0](https://habr.com/ru/news/796951/?utm_campaign=796951&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Лайтком» подала в суд на блогера Максима Горшенина](https://habr.com/ru/news/796947/?utm_campaign=796947&utm_source=habrahabr&utm_medium=rss)
 - [Telegram будет делиться с владельцами каналов частью выручки от показов рекламы](https://habr.com/ru/news/796937/?utm_campaign=796937&utm_source=habrahabr&utm_medium=rss)
 - [«ВКонтакте» внедрила систему страйков для модерации](https://habr.com/ru/news/796935/?utm_campaign=796935&utm_source=habrahabr&utm_medium=rss)
 - [Билайн и поисково-спасательный отряд «ЛизаАлерт» — итоги сотрудничества в 2023 году](https://habr.com/ru/companies/beeline_tech/news/796907/?utm_campaign=796907&utm_source=habrahabr&utm_medium=rss)
-- [Офис по кибербезопасности Белого дома США призвал разработчиков переходить на безопасные ЯП типа Rust](https://habr.com/ru/news/796901/?utm_campaign=796901&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
