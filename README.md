@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В App Store появились фейковые приложения «Тинькофф-банка»](https://habr.com/ru/news/797017/?utm_campaign=797017&utm_source=habrahabr&utm_medium=rss)
 - [В Viber появится функция организации чатов под названием «Папки»](https://habr.com/ru/news/797001/?utm_campaign=797001&utm_source=habrahabr&utm_medium=rss)
 - [Starlink предложил клиентам в Новой Зеландии скидку в 50% в обмен на более низкую скорость связи](https://habr.com/ru/news/796983/?utm_campaign=796983&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: хакеры Mogilevich проникли во внутреннюю сеть Epic Games и украли 189 ГБ данных компании](https://habr.com/ru/news/796979/?utm_campaign=796979&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tails 6.0](https://habr.com/ru/news/796951/?utm_campaign=796951&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Лайтком» подала в суд на блогера Максима Горшенина](https://habr.com/ru/news/796947/?utm_campaign=796947&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
