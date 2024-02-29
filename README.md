@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar CPT — новый сервис для постоянного контроля защищенности внешнего ИТ-периметра](https://habr.com/ru/companies/solarsecurity/news/797299/?utm_campaign=797299&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик с помощью ИИ и Raspberry Pi научился в некоторых случаях глушить громкие Bluetooth-колонки за стеной](https://habr.com/ru/news/797281/?utm_campaign=797281&utm_source=habrahabr&utm_medium=rss)
 - [В Ростовской области создали технопарк «Бештау»](https://habr.com/ru/news/797267/?utm_campaign=797267&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» обнаружила уязвимости в умной детской игрушке в виде робота](https://habr.com/ru/news/797255/?utm_campaign=797255&utm_source=habrahabr&utm_medium=rss)
 - [Средства информационной безопасности для ОС Astra Linux](https://habr.com/ru/companies/astralinux/news/796939/?utm_campaign=796939&utm_source=habrahabr&utm_medium=rss)
-- [Spring One Day Offer — Sportmaster Lab в поиске Java-разработчиков](https://habr.com/ru/companies/sportmaster_lab/news/797199/?utm_campaign=797199&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
