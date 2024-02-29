@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» обнаружила уязвимости в умной детской игрушке в виде робота](https://habr.com/ru/news/797255/?utm_campaign=797255&utm_source=habrahabr&utm_medium=rss)
 - [Средства информационной безопасности для ОС Astra Linux](https://habr.com/ru/companies/astralinux/news/796939/?utm_campaign=796939&utm_source=habrahabr&utm_medium=rss)
 - [Spring One Day Offer — Sportmaster Lab в поиске Java-разработчиков](https://habr.com/ru/companies/sportmaster_lab/news/797199/?utm_campaign=797199&utm_source=habrahabr&utm_medium=rss)
 - [Росстандарт получит дизайн-центр для стандартизации чипов и плат](https://habr.com/ru/news/797197/?utm_campaign=797197&utm_source=habrahabr&utm_medium=rss)
 - [Стартовало публичное обсуждение ГОСТа по организации защиты от утечек информации в Росстандарте](https://habr.com/ru/news/797169/?utm_campaign=797169&utm_source=habrahabr&utm_medium=rss)
-- [В RuStore появилась поддержка формата публикации Android App Bundle](https://habr.com/ru/news/797161/?utm_campaign=797161&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
