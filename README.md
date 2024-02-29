@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартовало публичное обсуждение ГОСТа по организации защиты от утечек информации в Росстандарте](https://habr.com/ru/news/797169/?utm_campaign=797169&utm_source=habrahabr&utm_medium=rss)
+- [В RuStore появилась поддержка формата публикации Android App Bundle](https://habr.com/ru/news/797161/?utm_campaign=797161&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил RecurseChat — приложения для локального запуска LLM на macOS](https://habr.com/ru/news/797153/?utm_campaign=797153&utm_source=habrahabr&utm_medium=rss)
 - [Samsung представила карты памяти microSD с интерфейсом SD Express и скоростью передачи данных до 800 МБ/с](https://habr.com/ru/news/797107/?utm_campaign=797107&utm_source=habrahabr&utm_medium=rss)
 - [Подписка GitHub Copilot Enterprise открылась для всех компаний по $39 за пользователя](https://habr.com/ru/news/797091/?utm_campaign=797091&utm_source=habrahabr&utm_medium=rss)
-- [Opensource.org полностью мигрировал на WordPress с Drupal](https://habr.com/ru/news/797087/?utm_campaign=797087&utm_source=habrahabr&utm_medium=rss)
-- [3D-принтеры Anycubic по всему миру взломали, чтобы заявить об уязвимости](https://habr.com/ru/news/797075/?utm_campaign=797075&utm_source=habrahabr&utm_medium=rss)
-- [Rockstar Games возвращает разработчиков на пятидневку в офисы с апреля 2024 года ради безопасности проекта GTA VI](https://habr.com/ru/news/797077/?utm_campaign=797077&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
