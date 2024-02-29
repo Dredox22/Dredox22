@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предложит с апреля обновить не управляемые IT-отделами корпоративные ПК с Windows 10 Pro до Windows 11](https://habr.com/ru/news/797061/?utm_campaign=797061&utm_source=habrahabr&utm_medium=rss)
+- [Автоматизированные АЗС в Новой Зеландии отключены из-за проблем с некорректной отработкой их ПО даты 29 февраля](https://habr.com/ru/news/797047/?utm_campaign=797047&utm_source=habrahabr&utm_medium=rss)
 - [На сайте JetBrains появилась страница SpacePort — оркестратора удалённой разработки](https://habr.com/ru/news/797021/?utm_campaign=797021&utm_source=habrahabr&utm_medium=rss)
 - [В App Store появились фейковые приложения «Тинькофф-банка»](https://habr.com/ru/news/797017/?utm_campaign=797017&utm_source=habrahabr&utm_medium=rss)
 - [В Viber появится функция организации чатов под названием «Папки»](https://habr.com/ru/news/797001/?utm_campaign=797001&utm_source=habrahabr&utm_medium=rss)
-- [Starlink предложил клиентам в Новой Зеландии скидку в 50% в обмен на более низкую скорость связи](https://habr.com/ru/news/796983/?utm_campaign=796983&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: хакеры Mogilevich проникли во внутреннюю сеть Epic Games и украли 189 ГБ данных компании](https://habr.com/ru/news/796979/?utm_campaign=796979&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
