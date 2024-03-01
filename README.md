@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российская игровая студия Case разрабатывает новый игровой движка Case Engine](https://habr.com/ru/news/797449/?utm_campaign=797449&utm_source=habrahabr&utm_medium=rss)
 - [В 2024 году выяснилось, что ПО многих крупных IT-компаний всё ещё не может корректно обрабатывать дату 29 февраля](https://habr.com/ru/news/797417/?utm_campaign=797417&utm_source=habrahabr&utm_medium=rss)
 - [«СберТех» приглашает разработчиков протестировать свой аналог GitHub — веб-сервис GitVerse](https://habr.com/ru/news/797401/?utm_campaign=797401&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Brave запускает ИИ-помощника Leo на Android](https://habr.com/ru/news/797373/?utm_campaign=797373&utm_source=habrahabr&utm_medium=rss)
 - [MacWorld открывает в ЕС магазин приложений для iOS Setapp и только по подписке](https://habr.com/ru/news/797365/?utm_campaign=797365&utm_source=habrahabr&utm_medium=rss)
-- [GitHub по умолчанию включил защиту от push-уведомлений для борьбы с утечками](https://habr.com/ru/news/797359/?utm_campaign=797359&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
