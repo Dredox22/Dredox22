@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Российская игровая студия Case разрабатывает новый игровой движка Case Engine](https://habr.com/ru/news/797449/?utm_campaign=797449&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году выяснилось, что ПО многих крупных IT-компаний всё ещё не может корректно обрабатывать дату 29 февраля](https://habr.com/ru/news/797417/?utm_campaign=797417&utm_source=habrahabr&utm_medium=rss)
-- [«СберТех» приглашает разработчиков протестировать свой аналог GitHub — веб-сервис GitVerse](https://habr.com/ru/news/797401/?utm_campaign=797401&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Brave запускает ИИ-помощника Leo на Android](https://habr.com/ru/news/797373/?utm_campaign=797373&utm_source=habrahabr&utm_medium=rss)
-- [MacWorld открывает в ЕС магазин приложений для iOS Setapp и только по подписке](https://habr.com/ru/news/797365/?utm_campaign=797365&utm_source=habrahabr&utm_medium=rss)
+- [Joomla 3 EOL — патчи безопасности после выхода Joomla 5.0.3 и 4.4.3](https://habr.com/ru/news/797473/?utm_campaign=797473&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в марте](https://habr.com/ru/companies/netologyru/news/797377/?utm_campaign=797377&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies открыла набор на стажировку для студентов и выпускников вузов по кибербезопасности](https://habr.com/ru/news/797459/?utm_campaign=797459&utm_source=habrahabr&utm_medium=rss)
+- [Впервые: онлайн-курс «Информационное моделирование в строительстве» от «Нанософт»](https://habr.com/ru/companies/nanosoft/news/797455/?utm_campaign=797455&utm_source=habrahabr&utm_medium=rss)
+- [Российская игровая студия Case разрабатывает новый игровой движок Case Engine](https://habr.com/ru/news/797449/?utm_campaign=797449&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
