@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MacWorld открывает в ЕС магазин приложений для iOS Setapp и только по подписке](https://habr.com/ru/news/797365/?utm_campaign=797365&utm_source=habrahabr&utm_medium=rss)
+- [GitHub по умолчанию включил защиту от push-уведомлений для борьбы с утечками](https://habr.com/ru/news/797359/?utm_campaign=797359&utm_source=habrahabr&utm_medium=rss)
+- [Закрытие школы Loftschool](https://habr.com/ru/news/797331/?utm_campaign=797331&utm_source=habrahabr&utm_medium=rss)
 - [Тестовая версия Windows 11 позволяет использовать Android-смартфоны в качестве веб-камер](https://habr.com/ru/news/797345/?utm_campaign=797345&utm_source=habrahabr&utm_medium=rss)
 - [Бывшая игровая студия Activision Toys for Bobs стала независимой](https://habr.com/ru/news/797339/?utm_campaign=797339&utm_source=habrahabr&utm_medium=rss)
-- [Intel перезапустила компанию Altera по производству ПЛИС и обновила линейку программируемых чипов Agilex](https://habr.com/ru/news/797337/?utm_campaign=797337&utm_source=habrahabr&utm_medium=rss)
-- [С 1 марта в РФ вступил в силу запрет на популяризацию средств обхода блокировок](https://habr.com/ru/news/797333/?utm_campaign=797333&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила бесплатный курс «Генеративный ИИ для начинающих»](https://habr.com/ru/news/797317/?utm_campaign=797317&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
