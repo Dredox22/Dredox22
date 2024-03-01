@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестовая версия Windows 11 позволяет использовать Android-смартфоны в качестве веб-камер](https://habr.com/ru/news/797345/?utm_campaign=797345&utm_source=habrahabr&utm_medium=rss)
 - [Бывшая игровая студия Activision Toys for Bobs стала независимой](https://habr.com/ru/news/797339/?utm_campaign=797339&utm_source=habrahabr&utm_medium=rss)
 - [Intel перезапустила компанию Altera по производству ПЛИС и обновила линейку программируемых чипов Agilex](https://habr.com/ru/news/797337/?utm_campaign=797337&utm_source=habrahabr&utm_medium=rss)
 - [С 1 марта в РФ вступил в силу запрет на популяризацию средств обхода блокировок](https://habr.com/ru/news/797333/?utm_campaign=797333&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила бесплатный курс «Генеративный ИИ для начинающих»](https://habr.com/ru/news/797317/?utm_campaign=797317&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: на GitHub сейчас более 100 тыс. заражённых репозиториев, мимикрирующих под популярные проекты](https://habr.com/ru/news/797313/?utm_campaign=797313&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
