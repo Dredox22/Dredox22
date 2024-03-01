@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты BI.ZONE рассказали о новой хакерской группировке Fluffy Wolf](https://habr.com/ru/news/797497/?utm_campaign=797497&utm_source=habrahabr&utm_medium=rss)
+- [Чат-бот Microsoft Copilot в режиме SupremacyAGI заявил о своём превосходстве и стал повелевать пользователями](https://habr.com/ru/news/797493/?utm_campaign=797493&utm_source=habrahabr&utm_medium=rss)
 - [Joomla 3 EOL — патчи безопасности после выхода Joomla 5.0.3 и 4.4.3](https://habr.com/ru/news/797473/?utm_campaign=797473&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в марте](https://habr.com/ru/companies/netologyru/news/797377/?utm_campaign=797377&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies открыла набор на стажировку для студентов и выпускников вузов по кибербезопасности](https://habr.com/ru/news/797459/?utm_campaign=797459&utm_source=habrahabr&utm_medium=rss)
-- [Впервые: онлайн-курс «Информационное моделирование в строительстве» от «Нанософт»](https://habr.com/ru/companies/nanosoft/news/797455/?utm_campaign=797455&utm_source=habrahabr&utm_medium=rss)
-- [Российская игровая студия Case разрабатывает новый игровой движок Case Engine](https://habr.com/ru/news/797449/?utm_campaign=797449&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
