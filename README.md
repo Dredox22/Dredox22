@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отозвала обновление Edge из-за ошибки Out of memory при открытии вкладок, включая настройки браузера](https://habr.com/ru/news/797599/?utm_campaign=797599&utm_source=habrahabr&utm_medium=rss)
 - [Последняя версия Roblox блокирует работу с Wine, выдавая сообщение об ошибке «Wine не поддерживается»](https://habr.com/ru/news/797593/?utm_campaign=797593&utm_source=habrahabr&utm_medium=rss)
 - [Apple опровергла блокировку PWA для iPhone в ЕС](https://habr.com/ru/news/797589/?utm_campaign=797589&utm_source=habrahabr&utm_medium=rss)
 - [Google начала блокировать доступ к RCS-чатам на рутированных устройствах Android](https://habr.com/ru/news/797585/?utm_campaign=797585&utm_source=habrahabr&utm_medium=rss)
 - [Учёные тренируют нейросеть для поисков идеальной молекулы для защиты от коррозии](https://habr.com/ru/news/797529/?utm_campaign=797529&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск подал в суд на OpenAI и Альтмана за нарушение договора о разработке ИИ на благо человечества, а не для прибыли](https://habr.com/ru/news/797519/?utm_campaign=797519&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
