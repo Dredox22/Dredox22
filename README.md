@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple опровергла блокировку PWA для iPhone в ЕС](https://habr.com/ru/news/797589/?utm_campaign=797589&utm_source=habrahabr&utm_medium=rss)
+- [Google начала блокировать доступ к RCS-чатам на рутированных устройствах Android](https://habr.com/ru/news/797585/?utm_campaign=797585&utm_source=habrahabr&utm_medium=rss)
 - [Учёные тренируют нейросеть для поисков идеальной молекулы для защиты от коррозии](https://habr.com/ru/news/797529/?utm_campaign=797529&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск подал в суд на OpenAI и Альтмана за нарушение договора о разработке ИИ на благо человечества, а не для прибыли](https://habr.com/ru/news/797519/?utm_campaign=797519&utm_source=habrahabr&utm_medium=rss)
 - [В 2023 году пользователи из РФ потратили в App Store 172 млн долларов](https://habr.com/ru/news/797505/?utm_campaign=797505&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты BI.ZONE рассказали о новой хакерской группировке Fluffy Wolf](https://habr.com/ru/news/797497/?utm_campaign=797497&utm_source=habrahabr&utm_medium=rss)
-- [Чат-бот Microsoft Copilot в режиме SupremacyAGI заявил о своём превосходстве и стал повелевать пользователями](https://habr.com/ru/news/797493/?utm_campaign=797493&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
