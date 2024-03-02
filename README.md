@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CMS Joomla победила в премии CMS Critics Awards — People&#39;s Choice Awards 2023](https://habr.com/ru/news/797611/?utm_campaign=797611&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отозвала обновление Edge из-за ошибки Out of memory при открытии вкладок, включая настройки браузера](https://habr.com/ru/news/797599/?utm_campaign=797599&utm_source=habrahabr&utm_medium=rss)
 - [Последняя версия Roblox блокирует работу с Wine, выдавая сообщение об ошибке «Wine не поддерживается»](https://habr.com/ru/news/797593/?utm_campaign=797593&utm_source=habrahabr&utm_medium=rss)
 - [Apple опровергла блокировку PWA для iPhone в ЕС](https://habr.com/ru/news/797589/?utm_campaign=797589&utm_source=habrahabr&utm_medium=rss)
 - [Google начала блокировать доступ к RCS-чатам на рутированных устройствах Android](https://habr.com/ru/news/797585/?utm_campaign=797585&utm_source=habrahabr&utm_medium=rss)
-- [Учёные тренируют нейросеть для поисков идеальной молекулы для защиты от коррозии](https://habr.com/ru/news/797529/?utm_campaign=797529&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
