@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM представила технологию защиты от киберугроз для SSD с помощью ИИ](https://habr.com/ru/news/797703/?utm_campaign=797703&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX достигла скорости загрузки 17 Мбит/с со спутника напрямую на немодифицированный смартфон Samsung на Android](https://habr.com/ru/news/797693/?utm_campaign=797693&utm_source=habrahabr&utm_medium=rss)
 - [Релиз MenuetOS 1.50, которая написана на ассемблере и умещается на дискету](https://habr.com/ru/news/797637/?utm_campaign=797637&utm_source=habrahabr&utm_medium=rss)
 - [CMS Joomla победила в премии CMS Critics Awards — People&#39;s Choice Awards 2023](https://habr.com/ru/news/797611/?utm_campaign=797611&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отозвала обновление Edge из-за ошибки Out of memory при открытии вкладок, включая настройки браузера](https://habr.com/ru/news/797599/?utm_campaign=797599&utm_source=habrahabr&utm_medium=rss)
-- [Последняя версия Roblox блокирует работу с Wine, выдавая сообщение об ошибке «Wine не поддерживается»](https://habr.com/ru/news/797593/?utm_campaign=797593&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
