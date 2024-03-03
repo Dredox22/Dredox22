@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел CVBasic v0.1.0 — первый релиз компилятора Basic для приставки ColecoVision 1982 года выпуска](https://habr.com/ru/news/797727/?utm_campaign=797727&utm_source=habrahabr&utm_medium=rss)
+- [Meta* удалит все учётные записи Oculus в конце марта](https://habr.com/ru/news/797715/?utm_campaign=797715&utm_source=habrahabr&utm_medium=rss)
 - [Acemagic признала наличие вредоносов в моделях ПК AceMagic на уровне мастер-копий Windows](https://habr.com/ru/news/797705/?utm_campaign=797705&utm_source=habrahabr&utm_medium=rss)
 - [IBM представила технологию защиты от киберугроз для SSD с помощью ИИ](https://habr.com/ru/news/797703/?utm_campaign=797703&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX достигла скорости загрузки 17 Мбит/с со спутника напрямую на немодифицированный смартфон Samsung на Android](https://habr.com/ru/news/797693/?utm_campaign=797693&utm_source=habrahabr&utm_medium=rss)
-- [Релиз MenuetOS 1.50, которая написана на ассемблере и умещается на дискету](https://habr.com/ru/news/797637/?utm_campaign=797637&utm_source=habrahabr&utm_medium=rss)
-- [CMS Joomla победила в премии CMS Critics Awards — People&#39;s Choice Awards 2023](https://habr.com/ru/news/797611/?utm_campaign=797611&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
