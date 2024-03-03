@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Vortex — библиотека для создания эффекта частиц на SwiftUI](https://habr.com/ru/news/797791/?utm_campaign=797791&utm_source=habrahabr&utm_medium=rss)
 - [Intel выпустила драйвер WLAN версии 23.30 для Windows, где устранена проблема с BSoD](https://habr.com/ru/news/797765/?utm_campaign=797765&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: цензуру языковых моделей можно обойти с помощью ASCII-арта](https://habr.com/ru/news/797737/?utm_campaign=797737&utm_source=habrahabr&utm_medium=rss)
 - [Вышел CVBasic v0.1.0 — первый релиз компилятора Basic для приставки ColecoVision 1982 года выпуска](https://habr.com/ru/news/797727/?utm_campaign=797727&utm_source=habrahabr&utm_medium=rss)
 - [Meta* удалит все учётные записи Oculus в конце марта](https://habr.com/ru/news/797715/?utm_campaign=797715&utm_source=habrahabr&utm_medium=rss)
-- [Acemagic признала наличие вредоносов в моделях ПК AceMagic на уровне мастер-копий Windows](https://habr.com/ru/news/797705/?utm_campaign=797705&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
