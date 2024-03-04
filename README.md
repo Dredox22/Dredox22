@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Compose Multiplatform 1.6.0: API для тестирования интерфейса и доступность на iOS](https://habr.com/ru/news/797865/?utm_campaign=797865&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь обнаружил у чат-бота Gemini опцию для выдачи «более смешных» ответов](https://habr.com/ru/news/797857/?utm_campaign=797857&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 будет поддерживать больше процессоров Intel, но не AMD](https://habr.com/ru/news/797855/?utm_campaign=797855&utm_source=habrahabr&utm_medium=rss)
-- [DocuSign начала использовать данные пользователей для обучения ИИ](https://habr.com/ru/news/797843/?utm_campaign=797843&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты рассказали о работе функции сторонних чатов WhatsApp](https://habr.com/ru/news/797835/?utm_campaign=797835&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты из Angara Security рассказали о новых уязвимостях в FreeIPA и React Native Image Picker](https://habr.com/ru/news/797929/?utm_campaign=797929&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Погода» рассказала, какой будет весна 2024 года в России](https://habr.com/ru/news/797913/?utm_campaign=797913&utm_source=habrahabr&utm_medium=rss)
+- [Представлен ещё один способ для ускорения работы «Проводника» в Windows 11 при открытии папок с тысячами файлов](https://habr.com/ru/news/797911/?utm_campaign=797911&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: из-за блокировки электронных кошельков Qiwi подорожали подписки на ChatGPT и другие иностранные сервисы](https://habr.com/ru/news/797897/?utm_campaign=797897&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: продолжается работа по включению в антипиратский меморандум контента правообладателей музыкальных композиций и книг](https://habr.com/ru/news/797889/?utm_campaign=797889&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
