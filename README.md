@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/798013/?utm_campaign=798013&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила два новых MacBook Air с процессором M3](https://habr.com/ru/news/797997/?utm_campaign=797997&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи показали сетевого червя, который распространяется с помощью генеративных ИИ-сервисов](https://habr.com/ru/news/797989/?utm_campaign=797989&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты Kitten Labs запустили GTA: Vice City на Wi-Fi роутере TP-Link TL-WDR4900](https://habr.com/ru/news/797973/?utm_campaign=797973&utm_source=habrahabr&utm_medium=rss)
 - [Postgres Professional рассказала о новой распределённой СУБД для крупных предприятий Shardman](https://habr.com/ru/news/797955/?utm_campaign=797955&utm_source=habrahabr&utm_medium=rss)
-- [Безопасность на новом уровне: сервис «Альфа-ID» совместим с операционными системами «Альт СП»](https://habr.com/ru/companies/basealtspo/news/797947/?utm_campaign=797947&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
