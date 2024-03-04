@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар 12 марта: «Поднимаем динамические окружения для stateless- и stateful-сервисов»](https://habr.com/ru/companies/kts/news/797813/?utm_campaign=797813&utm_source=habrahabr&utm_medium=rss)
+- [Обновление от SberDevices для бюджетных умных ТВ Sber снизило разрешение экрана с 1080p до 720p для «повышения отклика»](https://habr.com/ru/news/797823/?utm_campaign=797823&utm_source=habrahabr&utm_medium=rss)
 - [Вышла открытая платформа для создания сетевых хранилищ OpenMediaVault 7.0](https://habr.com/ru/news/797809/?utm_campaign=797809&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Vortex — библиотека для создания эффекта частиц на SwiftUI](https://habr.com/ru/news/797791/?utm_campaign=797791&utm_source=habrahabr&utm_medium=rss)
 - [Intel выпустила драйвер WLAN версии 23.30 для Windows, где устранена проблема с BSoD](https://habr.com/ru/news/797765/?utm_campaign=797765&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: цензуру языковых моделей можно обойти с помощью ASCII-арта](https://habr.com/ru/news/797737/?utm_campaign=797737&utm_source=habrahabr&utm_medium=rss)
-- [Вышел CVBasic v0.1.0 — первый релиз компилятора Basic для приставки ColecoVision 1982 года выпуска](https://habr.com/ru/news/797727/?utm_campaign=797727&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
