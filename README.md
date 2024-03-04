@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты РКН проводят проверку совместно с операторами связи сбоя в работе Telegram](https://habr.com/ru/news/798041/?utm_campaign=798041&utm_source=habrahabr&utm_medium=rss)
 - [Radeon добавит ИИ-алгоритмы в свою технологию FSR для конкуренции с DLSS от NVIDIA](https://habr.com/ru/companies/dcmiran/news/798039/?utm_campaign=798039&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Роскомнадзор с 1 марта направил 34 уведомления веб-сайтам с требованием удалить контент с рекламой VPN](https://habr.com/ru/news/798027/?utm_campaign=798027&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/798013/?utm_campaign=798013&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила два новых MacBook Air с процессором M3](https://habr.com/ru/news/797997/?utm_campaign=797997&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи показали сетевого червя, который распространяется с помощью генеративных ИИ-сервисов](https://habr.com/ru/news/797989/?utm_campaign=797989&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
