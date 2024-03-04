@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Radeon добавит ИИ-алгоритмы в свою технологию FSR для конкуренции с DLSS от NVIDIA](https://habr.com/ru/companies/dcmiran/news/798039/?utm_campaign=798039&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Роскомнадзор с 1 марта направил 34 уведомления веб-сайтам с требованием удалить контент с рекламой VPN](https://habr.com/ru/news/798027/?utm_campaign=798027&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/798013/?utm_campaign=798013&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила два новых MacBook Air с процессором M3](https://habr.com/ru/news/797997/?utm_campaign=797997&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи показали сетевого червя, который распространяется с помощью генеративных ИИ-сервисов](https://habr.com/ru/news/797989/?utm_campaign=797989&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты Kitten Labs запустили GTA: Vice City на Wi-Fi роутере TP-Link TL-WDR4900](https://habr.com/ru/news/797973/?utm_campaign=797973&utm_source=habrahabr&utm_medium=rss)
-- [Postgres Professional рассказала о новой распределённой СУБД для крупных предприятий Shardman](https://habr.com/ru/news/797955/?utm_campaign=797955&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
