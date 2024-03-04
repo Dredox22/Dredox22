@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres Professional рассказала о новой распределённой СУБД для крупных предприятий Shardman](https://habr.com/ru/news/797955/?utm_campaign=797955&utm_source=habrahabr&utm_medium=rss)
+- [Безопасность на новом уровне: сервис «Альфа-ID» совместим с операционными системами «Альт СП»](https://habr.com/ru/companies/basealtspo/news/797947/?utm_campaign=797947&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты из Angara Security рассказали о новых уязвимостях в FreeIPA и React Native Image Picker](https://habr.com/ru/news/797929/?utm_campaign=797929&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Погода» рассказала, какой будет весна 2024 года в России](https://habr.com/ru/news/797913/?utm_campaign=797913&utm_source=habrahabr&utm_medium=rss)
 - [Представлен ещё один способ для ускорения работы «Проводника» в Windows 11 при открытии папок с тысячами файлов](https://habr.com/ru/news/797911/?utm_campaign=797911&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: из-за блокировки электронных кошельков Qiwi подорожали подписки на ChatGPT и другие иностранные сервисы](https://habr.com/ru/news/797897/?utm_campaign=797897&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: продолжается работа по включению в антипиратский меморандум контента правообладателей музыкальных композиций и книг](https://habr.com/ru/news/797889/?utm_campaign=797889&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
