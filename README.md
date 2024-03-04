@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар 12 марта: «Поднимаем динамические окружения для stateless- и stateful-сервисов»](https://habr.com/ru/companies/kts/news/797813/?utm_campaign=797813&utm_source=habrahabr&utm_medium=rss)
-- [Обновление от SberDevices для бюджетных умных ТВ Sber снизило разрешение экрана с 1080p до 720p для «повышения отклика»](https://habr.com/ru/news/797823/?utm_campaign=797823&utm_source=habrahabr&utm_medium=rss)
-- [Вышла открытая платформа для создания сетевых хранилищ OpenMediaVault 7.0](https://habr.com/ru/news/797809/?utm_campaign=797809&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Vortex — библиотека для создания эффекта частиц на SwiftUI](https://habr.com/ru/news/797791/?utm_campaign=797791&utm_source=habrahabr&utm_medium=rss)
-- [Intel выпустила драйвер WLAN версии 23.30 для Windows, где устранена проблема с BSoD](https://habr.com/ru/news/797765/?utm_campaign=797765&utm_source=habrahabr&utm_medium=rss)
+- [Compose Multiplatform 1.6.0: API для тестирования интерфейса и доступность на iOS](https://habr.com/ru/news/797865/?utm_campaign=797865&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь обнаружил у чат-бота Gemini опцию для выдачи «более смешных» ответов](https://habr.com/ru/news/797857/?utm_campaign=797857&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 будет поддерживать больше процессоров Intel, но не AMD](https://habr.com/ru/news/797855/?utm_campaign=797855&utm_source=habrahabr&utm_medium=rss)
+- [DocuSign начала использовать данные пользователей для обучения ИИ](https://habr.com/ru/news/797843/?utm_campaign=797843&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты рассказали о работе функции сторонних чатов WhatsApp](https://habr.com/ru/news/797835/?utm_campaign=797835&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
