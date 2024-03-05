@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проекты-клоны эмулятора Switch Yuzu от команд Nuzu и Suyu переведены на GitHub в режим Public archive](https://habr.com/ru/news/798299/?utm_campaign=798299&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Supermaven — нейросети для генерации кода с контекстным окном 300 тыс. токенов](https://habr.com/ru/news/798297/?utm_campaign=798297&utm_source=habrahabr&utm_medium=rss)
 - [Технические лидеры «‎Гринатома»‎, «‎Магнита»‎ и «‎М.Видео»‎ поделятся экспертизой 21 марта на IT-конференции GoCloud](https://habr.com/ru/companies/cloud_ru/news/797347/?utm_campaign=797347&utm_source=habrahabr&utm_medium=rss)
 - [Спустя почти шесть лет после релиза Nvidia прекращает выпуск линейки GTX 16 начального уровня](https://habr.com/ru/news/798243/?utm_campaign=798243&utm_source=habrahabr&utm_medium=rss)
 - [Вышел rpki-client 9.0](https://habr.com/ru/news/798241/?utm_campaign=798241&utm_source=habrahabr&utm_medium=rss)
-- [Как не потерять бизнес из-за хакерских атак и утечек данных?](https://habr.com/ru/companies/selectel/news/798231/?utm_campaign=798231&utm_source=habrahabr&utm_medium=rss)
-- [На базе СПбПУ создан Авторизованный учебный центр Академии Нанософт](https://habr.com/ru/companies/nanosoft/news/798227/?utm_campaign=798227&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
