@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Canon: ни одна камера не может снимать видео для Apple Vision Pro](https://habr.com/ru/news/798103/?utm_campaign=798103&utm_source=habrahabr&utm_medium=rss)
+- [«Вымпелком» выкупил права на исходный код ядра биллинговой системы американо-израильской компании Amdocs](https://habr.com/ru/news/798099/?utm_campaign=798099&utm_source=habrahabr&utm_medium=rss)
 - [Вышел аудиокодек Opus 1.5 с поддержкой машинного обучения](https://habr.com/ru/news/798087/?utm_campaign=798087&utm_source=habrahabr&utm_medium=rss)
 - [РКН: к системе «Антифрод» подключились свыше 900 операторов связи России](https://habr.com/ru/news/798085/?utm_campaign=798085&utm_source=habrahabr&utm_medium=rss)
 - [Проекты эмуляторов Switch Yuzu и Citra закрываются, Tropic Haze заплатит $2,4 млн Nintendo на урегулирование иска](https://habr.com/ru/news/798083/?utm_campaign=798083&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустила Claude 3](https://habr.com/ru/news/798081/?utm_campaign=798081&utm_source=habrahabr&utm_medium=rss)
-- [Разница в 26 лет, а совместимость есть: Microsoft Office 95 &lpar;version 7.0&rpar; запустили на Windows 10 Enterprise](https://habr.com/ru/news/798055/?utm_campaign=798055&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
