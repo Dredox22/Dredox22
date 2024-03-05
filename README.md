@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic выпустила Claude 3](https://habr.com/ru/news/798081/?utm_campaign=798081&utm_source=habrahabr&utm_medium=rss)
 - [Разница в 26 лет, а совместимость есть: Microsoft Office 95 &lpar;version 7.0&rpar; запустили на Windows 10 Enterprise](https://habr.com/ru/news/798055/?utm_campaign=798055&utm_source=habrahabr&utm_medium=rss)
 - [Новое приложение для смартфона, работающее на основе ИИ, точно диагностирует ушные инфекции](https://habr.com/ru/news/798049/?utm_campaign=798049&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты РКН проводят проверку совместно с операторами связи сбоя в работе Telegram](https://habr.com/ru/news/798041/?utm_campaign=798041&utm_source=habrahabr&utm_medium=rss)
 - [Radeon добавит ИИ-алгоритмы в свою технологию FSR для конкуренции с DLSS от NVIDIA](https://habr.com/ru/companies/dcmiran/news/798039/?utm_campaign=798039&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Роскомнадзор с 1 марта направил 34 уведомления веб-сайтам с требованием удалить контент с рекламой VPN](https://habr.com/ru/news/798027/?utm_campaign=798027&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
