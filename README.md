@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел rpki-client 9.0](https://habr.com/ru/news/798241/?utm_campaign=798241&utm_source=habrahabr&utm_medium=rss)
+- [Как не потерять бизнес из-за хакерских атак и утечек данных?](https://habr.com/ru/companies/selectel/news/798231/?utm_campaign=798231&utm_source=habrahabr&utm_medium=rss)
+- [На базе СПбПУ создан Авторизованный учебный центр Академии Нанософт](https://habr.com/ru/companies/nanosoft/news/798227/?utm_campaign=798227&utm_source=habrahabr&utm_medium=rss)
 - [VK Kubernetes Conf — первая Kubernetes-конференция 2024 года](https://habr.com/ru/companies/vk/news/798199/?utm_campaign=798199&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети «Яндекса» составят прогноз погоды для погодозависимых отраслей бизнеса](https://habr.com/ru/news/798197/?utm_campaign=798197&utm_source=habrahabr&utm_medium=rss)
-- [Издание N + 1 опубликовало результаты первого исследования опенсорса в России](https://habr.com/ru/news/798195/?utm_campaign=798195&utm_source=habrahabr&utm_medium=rss)
-- [Греф: РФ отстаёт на 1,5 года в разработке моделей ИИ от лидеров рынка из-за недостатка вычислительных мощностей](https://habr.com/ru/news/798187/?utm_campaign=798187&utm_source=habrahabr&utm_medium=rss)
-- [Работа с требованиями в системном и бизнес-анализе. Обсудим лучшие кейсы, инструменты и практики на митапе AGIMA](https://habr.com/ru/companies/agima/news/798163/?utm_campaign=798163&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
