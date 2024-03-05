@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Нейросети «Яндекса» составят прогноз погоды на полгода для погодозависимых отраслей бизнеса](https://habr.com/ru/news/798197/?utm_campaign=798197&utm_source=habrahabr&utm_medium=rss)
+- [VK Kubernetes Conf — первая Kubernetes-конференция 2024 года](https://habr.com/ru/companies/vk/news/798199/?utm_campaign=798199&utm_source=habrahabr&utm_medium=rss)
+- [Нейросети «Яндекса» составят прогноз погоды для погодозависимых отраслей бизнеса](https://habr.com/ru/news/798197/?utm_campaign=798197&utm_source=habrahabr&utm_medium=rss)
 - [Издание N + 1 опубликовало результаты первого исследования опенсорса в России](https://habr.com/ru/news/798195/?utm_campaign=798195&utm_source=habrahabr&utm_medium=rss)
 - [Греф: РФ отстаёт на 1,5 года в разработке моделей ИИ от лидеров рынка из-за недостатка вычислительных мощностей](https://habr.com/ru/news/798187/?utm_campaign=798187&utm_source=habrahabr&utm_medium=rss)
 - [Работа с требованиями в системном и бизнес-анализе. Обсудим лучшие кейсы, инструменты и практики на митапе AGIMA](https://habr.com/ru/companies/agima/news/798163/?utm_campaign=798163&utm_source=habrahabr&utm_medium=rss)
-- [Weekend Offer для QA-инженеров в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/news/798155/?utm_campaign=798155&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
