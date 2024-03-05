@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с требованиями в системном и бизнес-анализе. Обсудим лучшие кейсы, инструменты и практики на митапе AGIMA](https://habr.com/ru/companies/agima/news/798163/?utm_campaign=798163&utm_source=habrahabr&utm_medium=rss)
+- [Weekend Offer для QA-инженеров в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/news/798155/?utm_campaign=798155&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» запустил услугу выезда сотрудника для установки своего приложения для iOS](https://habr.com/ru/news/798147/?utm_campaign=798147&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PowerToys 0.79](https://habr.com/ru/news/798137/?utm_campaign=798137&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Организация защищенной рабочей среды с помощью VDI»](https://habr.com/ru/companies/nubes/news/798143/?utm_campaign=798143&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст создал реплику временных схем «Назад в будущее» на основе Raspberry Pi Pico](https://habr.com/ru/news/798127/?utm_campaign=798127&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Copilot добавили плагины для Suno, Adobe Express и Spotify](https://habr.com/ru/news/798109/?utm_campaign=798109&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
