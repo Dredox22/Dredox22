@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Spotify не будет встроенных покупок в приложении на iOS в Евросоюзе, чтобы не платить Apple комиссию 30%](https://habr.com/ru/news/798467/?utm_campaign=798467&utm_source=habrahabr&utm_medium=rss)
-- [Amazon убрала Amazon Appstore для загрузки из Microsoft Store в Windows 11 из-за прекращения поддержки WSA](https://habr.com/ru/news/798445/?utm_campaign=798445&utm_source=habrahabr&utm_medium=rss)
-- [Клиентский MDM в 2024 году: какой он? Расскажем на вебинаре](https://habr.com/ru/companies/hflabs/news/798439/?utm_campaign=798439&utm_source=habrahabr&utm_medium=rss)
-- [Релиз FreeBSD 13.3](https://habr.com/ru/news/798429/?utm_campaign=798429&utm_source=habrahabr&utm_medium=rss)
-- [ОС «Альт» совместимы с программным комплексом для двухфакторной аутентификации Secure Authentication Server](https://habr.com/ru/companies/basealtspo/news/798401/?utm_campaign=798401&utm_source=habrahabr&utm_medium=rss)
+- [GigaChat поможет поздравить с 8 марта и другими знаменательными датами](https://habr.com/ru/companies/sberdevices/news/798471/?utm_campaign=798471&utm_source=habrahabr&utm_medium=rss)
+- [Тень пентестера: эксперты F.A.C.C.T. исследовали неизвестные атаки вымогателей Shadow](https://habr.com/ru/companies/f_a_c_c_t/news/798449/?utm_campaign=798449&utm_source=habrahabr&utm_medium=rss)
+- [Альтернативные магазины приложений для iPhone в iOS 17.4 перестанут работать, если пользователь покинет пределы ЕС](https://habr.com/ru/news/798483/?utm_campaign=798483&utm_source=habrahabr&utm_medium=rss)
+- [One Day Offer — для cистемных аналитиков и BI-аналитиков в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/news/798481/?utm_campaign=798481&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft переименовала проект своего дистрибутива Linux под названием CBL-Mariner в Azure Linux](https://habr.com/ru/news/798479/?utm_campaign=798479&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
