@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прикладной инструмент для каждого ИБ-специалиста: результаты независимого тестирования решений класса NGFW/UTM](https://habr.com/ru/companies/jetinfosystems/news/798525/?utm_campaign=798525&utm_source=habrahabr&utm_medium=rss)
 - [Российские инженеры разрабатывают робота-кентавра, предназначенного для колонизации Луны](https://habr.com/ru/news/798507/?utm_campaign=798507&utm_source=habrahabr&utm_medium=rss)
 - [Тень пентестера: эксперты F.A.C.C.T. исследовали неизвестные атаки вымогателей Shadow](https://habr.com/ru/companies/f_a_c_c_t/news/798449/?utm_campaign=798449&utm_source=habrahabr&utm_medium=rss)
 - [Альтернативные магазины приложений для iPhone в iOS 17.4 перестанут работать, если пользователь покинет пределы ЕС](https://habr.com/ru/news/798483/?utm_campaign=798483&utm_source=habrahabr&utm_medium=rss)
 - [One Day Offer — для cистемных аналитиков и BI-аналитиков в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/news/798481/?utm_campaign=798481&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft переименовала проект своего дистрибутива Linux под названием CBL-Mariner в Azure Linux](https://habr.com/ru/news/798479/?utm_campaign=798479&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
