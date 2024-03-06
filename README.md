@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление движка рендеринга 2D-графики PixiJS](https://habr.com/ru/news/798557/?utm_campaign=798557&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Supermium позволяет запустить рабочий аналог Chrome на устаревших Windows XP, 2003, Vista, 7 и 8.x](https://habr.com/ru/news/798537/?utm_campaign=798537&utm_source=habrahabr&utm_medium=rss)
 - [Прикладной инструмент для каждого ИБ-специалиста: результаты независимого тестирования решений класса NGFW/UTM](https://habr.com/ru/companies/jetinfosystems/news/798525/?utm_campaign=798525&utm_source=habrahabr&utm_medium=rss)
 - [Российские инженеры разрабатывают робота-кентавра, предназначенного для колонизации Луны](https://habr.com/ru/news/798507/?utm_campaign=798507&utm_source=habrahabr&utm_medium=rss)
 - [Тень пентестера: эксперты F.A.C.C.T. исследовали неизвестные атаки вымогателей Shadow](https://habr.com/ru/companies/f_a_c_c_t/news/798449/?utm_campaign=798449&utm_source=habrahabr&utm_medium=rss)
-- [Альтернативные магазины приложений для iPhone в iOS 17.4 перестанут работать, если пользователь покинет пределы ЕС](https://habr.com/ru/news/798483/?utm_campaign=798483&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
