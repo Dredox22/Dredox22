@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon убрала Amazon Appstore для загрузки из Microsoft Store в Windows 11 из-за прекращения поддержки WSA](https://habr.com/ru/news/798445/?utm_campaign=798445&utm_source=habrahabr&utm_medium=rss)
+- [Клиентский MDM в 2024 году: какой он? Расскажем на вебинаре](https://habr.com/ru/companies/hflabs/news/798439/?utm_campaign=798439&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FreeBSD 13.3](https://habr.com/ru/news/798429/?utm_campaign=798429&utm_source=habrahabr&utm_medium=rss)
 - [ОС «Альт» совместимы с программным комплексом для двухфакторной аутентификации Secure Authentication Server](https://habr.com/ru/companies/basealtspo/news/798401/?utm_campaign=798401&utm_source=habrahabr&utm_medium=rss)
 - [Google представила новый движок Text-To-Speech для Wear OS](https://habr.com/ru/news/798395/?utm_campaign=798395&utm_source=habrahabr&utm_medium=rss)
-- [Google начала бороться со спамом ИИ в результатах поиска](https://habr.com/ru/news/798389/?utm_campaign=798389&utm_source=habrahabr&utm_medium=rss)
-- [Немецкий поставщик IT-услуг Mobivention запустит свой корпоративный магазин приложений Mobivention для iOS c 7 марта](https://habr.com/ru/news/798383/?utm_campaign=798383&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
