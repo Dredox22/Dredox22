@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Немецкий поставщик IT-услуг Mobivention запустит свой корпоративный магазин приложений Mobivention для iOS c 7 марта](https://habr.com/ru/news/798383/?utm_campaign=798383&utm_source=habrahabr&utm_medium=rss)
+- [В «Шедевруме» появилась возможность редактировать изображения по текстовому запросу с помощью нейросети YandexART](https://habr.com/ru/news/798377/?utm_campaign=798377&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft анонсировала рекламное API с сохранением конфиденциальности для Edge](https://habr.com/ru/news/798375/?utm_campaign=798375&utm_source=habrahabr&utm_medium=rss)
+- [Разработчикам Play Store разрешили ссылаться на внешние платёжные предложения в ЕС](https://habr.com/ru/news/798365/?utm_campaign=798365&utm_source=habrahabr&utm_medium=rss)
 - [Принят новый стандарт памяти для видеокарт GDDR7](https://habr.com/ru/companies/dcmiran/news/798359/?utm_campaign=798359&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку подсистемы Windows Subsystem for Android &lpar;WSA&rpar; в Windows 11 с 5 марта 2025 года](https://habr.com/ru/news/798351/?utm_campaign=798351&utm_source=habrahabr&utm_medium=rss)
-- [В Signal 7.0 появилась возможность использовать никнеймы вместо номеров телефонов для всех пользователей](https://habr.com/ru/news/798343/?utm_campaign=798343&utm_source=habrahabr&utm_medium=rss)
-- [Вышла iOS 17.4 с поддержкой сторонних магазинов приложений в Европе](https://habr.com/ru/news/798327/?utm_campaign=798327&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Puter — браузерной среды рабочего стола](https://habr.com/ru/news/798321/?utm_campaign=798321&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
