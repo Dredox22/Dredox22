@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ОС «Альт» совместимы с программным комплексом для двухфакторной аутентификации Secure Authentication Server](https://habr.com/ru/companies/basealtspo/news/798401/?utm_campaign=798401&utm_source=habrahabr&utm_medium=rss)
+- [Google представила новый движок Text-To-Speech для Wear OS](https://habr.com/ru/news/798395/?utm_campaign=798395&utm_source=habrahabr&utm_medium=rss)
+- [Google начала бороться со спамом ИИ в результатах поиска](https://habr.com/ru/news/798389/?utm_campaign=798389&utm_source=habrahabr&utm_medium=rss)
 - [Немецкий поставщик IT-услуг Mobivention запустит свой корпоративный магазин приложений Mobivention для iOS c 7 марта](https://habr.com/ru/news/798383/?utm_campaign=798383&utm_source=habrahabr&utm_medium=rss)
 - [В «Шедевруме» появилась возможность редактировать изображения по текстовому запросу с помощью нейросети YandexART](https://habr.com/ru/news/798377/?utm_campaign=798377&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала рекламное API с сохранением конфиденциальности для Edge](https://habr.com/ru/news/798375/?utm_campaign=798375&utm_source=habrahabr&utm_medium=rss)
-- [Разработчикам Play Store разрешили ссылаться на внешние платёжные предложения в ЕС](https://habr.com/ru/news/798365/?utm_campaign=798365&utm_source=habrahabr&utm_medium=rss)
-- [Принят новый стандарт памяти для видеокарт GDDR7](https://habr.com/ru/companies/dcmiran/news/798359/?utm_campaign=798359&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
