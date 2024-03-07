@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram теперь позволяет превращать личные учётные записи в бизнес-аккаунты](https://habr.com/ru/news/798709/?utm_campaign=798709&utm_source=habrahabr&utm_medium=rss)
+- [В России предложили отнести использование IT при совершении преступления к отягчающим обстоятельствам](https://habr.com/ru/news/798699/?utm_campaign=798699&utm_source=habrahabr&utm_medium=rss)
 - [Белые хакеры взломали ИИ Google и заработали $50 тысяч](https://habr.com/ru/news/798687/?utm_campaign=798687&utm_source=habrahabr&utm_medium=rss)
 - [ML-кодек VideoMost для суперсжатия видео получил патенты в РФ и в США](https://habr.com/ru/news/798683/?utm_campaign=798683&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» получил двух операторов IP-телефонии и разработки ПО для корпоративных коммуникаций](https://habr.com/ru/news/798671/?utm_campaign=798671&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики раскрыли детали работы сквозного шифрования чатов в WhatsApp со сторонними сервисами](https://habr.com/ru/news/798653/?utm_campaign=798653&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare работает над корпоративным фаерволом для ИИ](https://habr.com/ru/news/798639/?utm_campaign=798639&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
