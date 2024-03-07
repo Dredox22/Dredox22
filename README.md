@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare работает над корпоративным фаерволом для ИИ](https://habr.com/ru/news/798639/?utm_campaign=798639&utm_source=habrahabr&utm_medium=rss)
+- [Apple заблокировала аккаунт разработчика Epic во второй раз](https://habr.com/ru/news/798633/?utm_campaign=798633&utm_source=habrahabr&utm_medium=rss)
+- [Сергей Брин: Google «напортачила» при тестировании чат-бота Gemini](https://habr.com/ru/news/798627/?utm_campaign=798627&utm_source=habrahabr&utm_medium=rss)
 - [Из-за сбоя в работе сервисов Meta* 5 марта на время перестали работать VR-гарнитуры Quest 2 и Quest 3](https://habr.com/ru/news/798613/?utm_campaign=798613&utm_source=habrahabr&utm_medium=rss)
 - [Минюст США предъявил обвинение гражданину КНР Линьвэю Дину за кражу коммерческой тайны Google](https://habr.com/ru/news/798609/?utm_campaign=798609&utm_source=habrahabr&utm_medium=rss)
-- [Баг в Gboard приводит к маленькому размеру шрифта или крошечной клавиатуре на смартфонах Pixel и Fold](https://habr.com/ru/news/798603/?utm_campaign=798603&utm_source=habrahabr&utm_medium=rss)
-- [Intel выпустила набор инструментов OpenVINO 2024.0 с открытым исходным кодом для оптимизации и развёртывания ИИ-систем](https://habr.com/ru/news/798597/?utm_campaign=798597&utm_source=habrahabr&utm_medium=rss)
-- [Apple упростила правила создания сторонних магазинов приложений после критики со стороны разработчиков](https://habr.com/ru/news/798581/?utm_campaign=798581&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
