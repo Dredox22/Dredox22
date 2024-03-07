@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи: профессия промпт-инженера умерла, не успев появиться](https://habr.com/ru/news/798807/?utm_campaign=798807&utm_source=habrahabr&utm_medium=rss)
 - [Linux Upscale – программа обучения Linux и погружение в DevOps](https://habr.com/ru/companies/croc/news/798721/?utm_campaign=798721&utm_source=habrahabr&utm_medium=rss)
 - [«Авроид» открыла доступ &lpar;с ограничениями&rpar; для всех к приложению Tavro — мобильному клиенту Telegram для ОС «Аврора»](https://habr.com/ru/news/798791/?utm_campaign=798791&utm_source=habrahabr&utm_medium=rss)
 - [Tele2 заплатил почти 6 млрд рублей за 85% разработчика ПАК для операторов связи «ТДМ ТЕХ»](https://habr.com/ru/news/798729/?utm_campaign=798729&utm_source=habrahabr&utm_medium=rss)
 - [Telegram теперь позволяет превращать личные учётные записи в бизнес-аккаунты](https://habr.com/ru/news/798709/?utm_campaign=798709&utm_source=habrahabr&utm_medium=rss)
-- [В России предложили отнести использование IT при совершении преступления к отягчающим обстоятельствам](https://habr.com/ru/news/798699/?utm_campaign=798699&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
