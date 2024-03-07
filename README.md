@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» получил двух операторов IP-телефонии и разработки ПО для корпоративных коммуникаций](https://habr.com/ru/news/798671/?utm_campaign=798671&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики раскрыли детали работы сквозного шифрования чатов в WhatsApp со сторонними сервисами](https://habr.com/ru/news/798653/?utm_campaign=798653&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare работает над корпоративным фаерволом для ИИ](https://habr.com/ru/news/798639/?utm_campaign=798639&utm_source=habrahabr&utm_medium=rss)
 - [Apple заблокировала аккаунт разработчика Epic во второй раз](https://habr.com/ru/news/798633/?utm_campaign=798633&utm_source=habrahabr&utm_medium=rss)
 - [Сергей Брин: Google «напортачила» при тестировании чат-бота Gemini](https://habr.com/ru/news/798627/?utm_campaign=798627&utm_source=habrahabr&utm_medium=rss)
-- [Из-за сбоя в работе сервисов Meta* 5 марта на время перестали работать VR-гарнитуры Quest 2 и Quest 3](https://habr.com/ru/news/798613/?utm_campaign=798613&utm_source=habrahabr&utm_medium=rss)
-- [Минюст США предъявил обвинение гражданину КНР Линьвэю Дину за кражу коммерческой тайны Google](https://habr.com/ru/news/798609/?utm_campaign=798609&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
