@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple пообещала упростить перенос данных с iPhone на Android-устройства в ЕС к осени 2025 года](https://habr.com/ru/news/798903/?utm_campaign=798903&utm_source=habrahabr&utm_medium=rss)
 - [Discord сотрудничает с разработчиками игр для продажи тематических аватаров и эффектов профиля пользователей](https://habr.com/ru/news/798875/?utm_campaign=798875&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи iOS 17.4 жалуются на большой расход батареи после установки](https://habr.com/ru/news/798867/?utm_campaign=798867&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует одновременную загрузку нескольких приложений для Android](https://habr.com/ru/news/798865/?utm_campaign=798865&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик эмуляторов Game Boy Advance и Game Boy Color для Android удалил свои приложения из Google Play Store](https://habr.com/ru/news/798849/?utm_campaign=798849&utm_source=habrahabr&utm_medium=rss)
-- [Apple раскрыла срок получения обновлений из альтернативных магазинов в iOS 17.4, если пользователь покинет пределы ЕС](https://habr.com/ru/news/798843/?utm_campaign=798843&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
