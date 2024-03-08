@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик эмуляторов Game Boy Advance и Game Boy Color для Android&rpar;, удалил свои приложения из Google Play Store](https://habr.com/ru/news/798849/?utm_campaign=798849&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи iOS 17.4 жалуются на большой расход батареи после установки](https://habr.com/ru/news/798867/?utm_campaign=798867&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует одновременную загрузку нескольких приложений для Android](https://habr.com/ru/news/798865/?utm_campaign=798865&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик эмуляторов Game Boy Advance и Game Boy Color для Android удалил свои приложения из Google Play Store](https://habr.com/ru/news/798849/?utm_campaign=798849&utm_source=habrahabr&utm_medium=rss)
 - [Apple раскрыла срок получения обновлений из альтернативных магазинов в iOS 17.4, если пользователь покинет пределы ЕС](https://habr.com/ru/news/798843/?utm_campaign=798843&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: профессия промпт-инженера умерла, не успев появиться](https://habr.com/ru/news/798807/?utm_campaign=798807&utm_source=habrahabr&utm_medium=rss)
-- [Linux Upscale – программа обучения Linux и погружение в DevOps](https://habr.com/ru/companies/croc/news/798721/?utm_campaign=798721&utm_source=habrahabr&utm_medium=rss)
-- [«Авроид» открыла доступ &lpar;с ограничениями&rpar; для всех к приложению Tavro — мобильному клиенту Telegram для ОС «Аврора»](https://habr.com/ru/news/798791/?utm_campaign=798791&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
