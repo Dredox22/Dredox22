@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome позволит сохранить любую веб-страницу как настольное приложение](https://habr.com/ru/news/798983/?utm_campaign=798983&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила на экран блокировки Windows 11 картинку QR-кода со ссылкой на приложения ИИ-помощника Copilot](https://habr.com/ru/news/798971/?utm_campaign=798971&utm_source=habrahabr&utm_medium=rss)
 - [Дэйв Пламмер: про VisualZIP, покупку проекта Microsoft для встраивания в Windows 9х, код решения остаётся в Windows 11](https://habr.com/ru/news/798965/?utm_campaign=798965&utm_source=habrahabr&utm_medium=rss)
 - [Signal и Threema не будут подключаться к функции сторонних чатов WhatsApp из-за необходимости обезопасить пользователей](https://habr.com/ru/news/798915/?utm_campaign=798915&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft с 29 марта закроет доступ к опции загрузки файлов по URL-адресу в OneDrive](https://habr.com/ru/news/798907/?utm_campaign=798907&utm_source=habrahabr&utm_medium=rss)
-- [Apple пообещала упростить перенос данных с iPhone на Android-устройства в ЕС к осени 2025 года](https://habr.com/ru/news/798903/?utm_campaign=798903&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
