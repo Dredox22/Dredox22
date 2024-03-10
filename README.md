@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AnyCubic устранила критическую уязвимость в API службы MQTT 3D-принтеров компании после глобального взлома белым хакером](https://habr.com/ru/news/799111/?utm_campaign=799111&utm_source=habrahabr&utm_medium=rss)
 - [Обнародование данных о взломе б/у прозрачного тюремного ноутбука привело к изъятию 1200 таких рабочих устройств из тюрем](https://habr.com/ru/news/799015/?utm_campaign=799015&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome позволит сохранить любую веб-страницу как настольное приложение](https://habr.com/ru/news/798983/?utm_campaign=798983&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила на экран блокировки Windows 11 картинку QR-кода со ссылкой на приложения ИИ-помощника Copilot](https://habr.com/ru/news/798971/?utm_campaign=798971&utm_source=habrahabr&utm_medium=rss)
 - [Дэйв Пламмер: про VisualZIP, покупку проекта Microsoft для встраивания в Windows 9х, код решения остаётся в Windows 11](https://habr.com/ru/news/798965/?utm_campaign=798965&utm_source=habrahabr&utm_medium=rss)
-- [Signal и Threema не будут подключаться к функции сторонних чатов WhatsApp из-за необходимости обезопасить пользователей](https://habr.com/ru/news/798915/?utm_campaign=798915&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
