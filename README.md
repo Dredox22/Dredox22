@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [CNBC: руководители компаний тратят деньги на ИИ-проекты, но только 38% из них обучают сотрудников работе с нейросетями](https://habr.com/ru/news/799423/?utm_campaign=799423&utm_source=habrahabr&utm_medium=rss)
-- [Митап A?.Frontend Community #6: про TypeScript](https://habr.com/ru/companies/alfa/news/799327/?utm_campaign=799327&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE и НИУ МИЭТ рассказали о запуске нового совместного обучающего проекта по ИБ на базе вуза](https://habr.com/ru/news/799361/?utm_campaign=799361&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила бесплатный курс Security-101 для изучения основ кибербезопасности](https://habr.com/ru/news/799359/?utm_campaign=799359&utm_source=habrahabr&utm_medium=rss)
-- [Apple заблокировала приложения разработки «КриптоПро CSP» и отозвала сертификат подписи продуктов](https://habr.com/ru/news/799347/?utm_campaign=799347&utm_source=habrahabr&utm_medium=rss)
+- [Telegram предварительно оценили в $30 млрд перед возможным IPO](https://habr.com/ru/news/799457/?utm_campaign=799457&utm_source=habrahabr&utm_medium=rss)
+- [3 апреля проведём бесплатный онлайн-митап про анализ в B2B](https://habr.com/ru/companies/naumen/news/799405/?utm_campaign=799405&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры с помощью MiTM-атаки показали, как можно разблокировать и угнать электромобиль Tesla](https://habr.com/ru/news/799451/?utm_campaign=799451&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch: объём слитых персональных данных в России вырос почти на 60%](https://habr.com/ru/news/799445/?utm_campaign=799445&utm_source=habrahabr&utm_medium=rss)
+- [Для iPad вышло приложение Muse Pro, позволяющее рисовать с помощью ИИ в реальном времени](https://habr.com/ru/news/799431/?utm_campaign=799431&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
