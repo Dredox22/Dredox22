@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Linux 6.8](https://habr.com/ru/news/799219/?utm_campaign=799219&utm_source=habrahabr&utm_medium=rss)
 - [Подростков из Флориды арестовали за создание голых дипфейков одноклассников](https://habr.com/ru/news/799153/?utm_campaign=799153&utm_source=habrahabr&utm_medium=rss)
 - [В Испании запретили работу криптопроекта Worldcoin с биометрией для защиты данных пользователей](https://habr.com/ru/news/799147/?utm_campaign=799147&utm_source=habrahabr&utm_medium=rss)
 - [AnyCubic устранила критическую уязвимость в API службы MQTT 3D-принтеров компании после глобального взлома белым хакером](https://habr.com/ru/news/799111/?utm_campaign=799111&utm_source=habrahabr&utm_medium=rss)
 - [Обнародование данных о взломе б/у прозрачного тюремного ноутбука привело к изъятию 1200 таких рабочих устройств из тюрем](https://habr.com/ru/news/799015/?utm_campaign=799015&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome позволит сохранить любую веб-страницу как настольное приложение](https://habr.com/ru/news/798983/?utm_campaign=798983&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
