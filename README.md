@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект PUBG: Battlegrounds в 2024 году перейдёт на Unreal Engine 5 и получит разрушаемое окружение](https://habr.com/ru/news/799501/?utm_campaign=799501&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты Positive Technologies нашли критическую уязвимость в промышленных беспроводных преобразователях компании Moxa](https://habr.com/ru/news/799489/?utm_campaign=799489&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» объявила о старте нового этапа отбора на стажировку в центр Solar JSOC](https://habr.com/ru/news/799479/?utm_campaign=799479&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/799461/?utm_campaign=799461&utm_source=habrahabr&utm_medium=rss)
 - [Samsung показала новые возможности ИИ-помощника Copilot в Windows 11 до официального анонса со стороны Microsoft](https://habr.com/ru/news/799465/?utm_campaign=799465&utm_source=habrahabr&utm_medium=rss)
-- [Telegram предварительно оценили в $30 млрд перед возможным IPO](https://habr.com/ru/news/799457/?utm_campaign=799457&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
