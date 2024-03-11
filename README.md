@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/799461/?utm_campaign=799461&utm_source=habrahabr&utm_medium=rss)
+- [Samsung показала новые возможности ИИ-помощника Copilot в Windows 11 до официального анонса со стороны Microsoft](https://habr.com/ru/news/799465/?utm_campaign=799465&utm_source=habrahabr&utm_medium=rss)
 - [Telegram предварительно оценили в $30 млрд перед возможным IPO](https://habr.com/ru/news/799457/?utm_campaign=799457&utm_source=habrahabr&utm_medium=rss)
 - [3 апреля проведём бесплатный онлайн-митап про анализ в B2B](https://habr.com/ru/companies/naumen/news/799405/?utm_campaign=799405&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры с помощью MiTM-атаки показали, как можно разблокировать и угнать электромобиль Tesla](https://habr.com/ru/news/799451/?utm_campaign=799451&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch: объём слитых персональных данных в России вырос почти на 60%](https://habr.com/ru/news/799445/?utm_campaign=799445&utm_source=habrahabr&utm_medium=rss)
-- [Для iPad вышло приложение Muse Pro, позволяющее рисовать с помощью ИИ в реальном времени](https://habr.com/ru/news/799431/?utm_campaign=799431&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
