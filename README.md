@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp тестирует возможность индикации случаев сквозного шифрования чатов на Android](https://habr.com/ru/news/799267/?utm_campaign=799267&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подробно описала процесс удаления OneDrive для пользователей Windows 10/11](https://habr.com/ru/news/799245/?utm_campaign=799245&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux 6.8](https://habr.com/ru/news/799219/?utm_campaign=799219&utm_source=habrahabr&utm_medium=rss)
 - [Подростков из Флориды арестовали за создание голых дипфейков одноклассников](https://habr.com/ru/news/799153/?utm_campaign=799153&utm_source=habrahabr&utm_medium=rss)
 - [В Испании запретили работу криптопроекта Worldcoin с биометрией для защиты данных пользователей](https://habr.com/ru/news/799147/?utm_campaign=799147&utm_source=habrahabr&utm_medium=rss)
-- [AnyCubic устранила критическую уязвимость в API службы MQTT 3D-принтеров компании после глобального взлома белым хакером](https://habr.com/ru/news/799111/?utm_campaign=799111&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
