@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Митап A?.Frontend Community #6: про TypeScript](https://habr.com/ru/companies/alfa/news/799327/?utm_campaign=799327&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE и НИУ МИЭТ рассказали о запуске нового совместного обучающего проекта по ИБ на базе вуза](https://habr.com/ru/news/799361/?utm_campaign=799361&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила бесплатный курс Security-101 для изучения основ кибербезопасности](https://habr.com/ru/news/799359/?utm_campaign=799359&utm_source=habrahabr&utm_medium=rss)
 - [Apple заблокировала приложения разработки «КриптоПро CSP» и отозвала сертификат подписи продуктов](https://habr.com/ru/news/799347/?utm_campaign=799347&utm_source=habrahabr&utm_medium=rss)
 - [Крупнейший коммерческий SOC в России открывает двери молодым специалистам](https://habr.com/ru/companies/solarsecurity/news/799335/?utm_campaign=799335&utm_source=habrahabr&utm_medium=rss)
-- [Getty открыла доступ к коллекции из десятков тысяч изображений с произведениями искусства](https://habr.com/ru/news/799295/?utm_campaign=799295&utm_source=habrahabr&utm_medium=rss)
-- [Опрос: люди плохо отличают видео, сгенерированные с помощью нейросети Sora, от настоящих](https://habr.com/ru/news/799293/?utm_campaign=799293&utm_source=habrahabr&utm_medium=rss)
-- [#ТехТурUserGate](https://habr.com/ru/companies/usergate/news/799291/?utm_campaign=799291&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
