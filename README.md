@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Midjourney заблокировала сотрудников Stability AI из-за предполагаемого сбора данных](https://habr.com/ru/news/799723/?utm_campaign=799723&utm_source=habrahabr&utm_medium=rss)
+- [Apple: пользователи из ЕС смогут устанавливать iOS-приложения с веб-сайтов](https://habr.com/ru/news/799719/?utm_campaign=799719&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI открыла код Transformer Debugger — отладчика для моделей машинного обучения](https://habr.com/ru/news/799707/?utm_campaign=799707&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Windows 10 Enterprise &lpar;а также Education и IoT Enterprise&rpar; версии 21H2 с 11 июня 2024 года](https://habr.com/ru/news/799683/?utm_campaign=799683&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз WinterJS — среды выполнения JavaScript](https://habr.com/ru/news/799671/?utm_campaign=799671&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила Copilot GPT Builder для подписчиков Copilot Pro](https://habr.com/ru/news/799669/?utm_campaign=799669&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: современные VR-гарнитуры можно взломать с помощью атаки типа Inception](https://habr.com/ru/news/799649/?utm_campaign=799649&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
