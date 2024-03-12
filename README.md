@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI открыла код Transformer Debugger — отладчика для моделей машинного обучения](https://habr.com/ru/news/799707/?utm_campaign=799707&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Windows 10 Enterprise &lpar;а также Education и IoT Enterprise&rpar; версии 21H2 с 11 июня 2024 года](https://habr.com/ru/news/799683/?utm_campaign=799683&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз WinterJS — среды выполнения JavaScript](https://habr.com/ru/news/799671/?utm_campaign=799671&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила Copilot GPT Builder для подписчиков Copilot Pro](https://habr.com/ru/news/799669/?utm_campaign=799669&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: современные VR-гарнитуры можно взломать с помощью атаки типа Inception](https://habr.com/ru/news/799649/?utm_campaign=799649&utm_source=habrahabr&utm_medium=rss)
-- [МТС: ежемесячное количество пользователей Telegram в РФ по итогам 2023 года превысило 85 млн пользователей](https://habr.com/ru/news/799627/?utm_campaign=799627&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
