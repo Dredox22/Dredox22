@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст нашёл секретные опции в коде установщика Windows 11 OOBE &lpar;Windows Out of Box Experience&rpar;](https://habr.com/ru/news/799593/?utm_campaign=799593&utm_source=habrahabr&utm_medium=rss)
 - [Positive week на TS University](https://habr.com/ru/companies/tssolution/news/799441/?utm_campaign=799441&utm_source=habrahabr&utm_medium=rss)
 - [Qrator Labs: сбой при настройке оборудования в сети МТС привёл к инциденту в работе азиатских операторов связи](https://habr.com/ru/news/799549/?utm_campaign=799549&utm_source=habrahabr&utm_medium=rss)
 - [Airbnb запретила устанавливать камеры видеонаблюдения даже в «общих помещениях» внутри сдаваемой в аренду площади](https://habr.com/ru/news/799523/?utm_campaign=799523&utm_source=habrahabr&utm_medium=rss)
 - [Проект PUBG: Battlegrounds в 2024 году перейдёт на Unreal Engine 5 и получит разрушаемое окружение](https://habr.com/ru/news/799501/?utm_campaign=799501&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты Positive Technologies нашли критическую уязвимость в промышленных беспроводных преобразователях компании Moxa](https://habr.com/ru/news/799489/?utm_campaign=799489&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
