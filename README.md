@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратила рекламировать Edge в Windows 11 и 10 при изменении настроек по умолчанию](https://habr.com/ru/news/799789/?utm_campaign=799789&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует в Windows 11 ИИ-фильтры для веб-камеры](https://habr.com/ru/news/799787/?utm_campaign=799787&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала блокировать промпты, которые позволяют создавать запрещённые изображения](https://habr.com/ru/news/799777/?utm_campaign=799777&utm_source=habrahabr&utm_medium=rss)
 - [Российские производители электроники попросили ограничить госкомпании в закупках иностранной техники](https://habr.com/ru/news/799767/?utm_campaign=799767&utm_source=habrahabr&utm_medium=rss)
 - [«Фитбейс» в мобильном приложении сделала возможность использовать динамический QR‑код для прохода в фитнес‑клубы](https://habr.com/ru/news/799753/?utm_campaign=799753&utm_source=habrahabr&utm_medium=rss)
-- [Midjourney заблокировала сотрудников Stability AI из-за предполагаемого сбора данных](https://habr.com/ru/news/799723/?utm_campaign=799723&utm_source=habrahabr&utm_medium=rss)
-- [Apple: пользователи из ЕС смогут устанавливать iOS-приложения с веб-сайтов](https://habr.com/ru/news/799719/?utm_campaign=799719&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI открыла код Transformer Debugger — отладчика для моделей машинного обучения](https://habr.com/ru/news/799707/?utm_campaign=799707&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
