@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: современные VR-гарнитуры можно взломать с помощью атаки типа Inception](https://habr.com/ru/news/799649/?utm_campaign=799649&utm_source=habrahabr&utm_medium=rss)
 - [МТС: ежемесячное количество пользователей Telegram в РФ по итогам 2023 года превысило 85 млн пользователей](https://habr.com/ru/news/799627/?utm_campaign=799627&utm_source=habrahabr&utm_medium=rss)
 - [VK тестирует модель ИИ для обучения на независимых дата-сетах](https://habr.com/ru/news/799623/?utm_campaign=799623&utm_source=habrahabr&utm_medium=rss)
 - [В 2023 году «Яндекс» выплатил этичным хакерам в рамках «Охоты за ошибками» ₽70 млн](https://habr.com/ru/news/799621/?utm_campaign=799621&utm_source=habrahabr&utm_medium=rss)
 - [Вышел бенчмарк для измерения скорости отклика веб-приложений Speedometer 3.0 от Mozilla, Google, Microsoft и Apple](https://habr.com/ru/news/799611/?utm_campaign=799611&utm_source=habrahabr&utm_medium=rss)
-- [Apple показала своё представление модернизации здравоохранения с помощью Vision Pro](https://habr.com/ru/news/799607/?utm_campaign=799607&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
