@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за ошибки «Локатора» iPhone полиция пришла с обыском к пожилой женщине и теперь должна выплатить $3,76 млн](https://habr.com/ru/news/799911/?utm_campaign=799911&utm_source=habrahabr&utm_medium=rss)
+- [Число установок Brave резко выросло после обновления iOS в соответствии с DMA](https://habr.com/ru/news/799907/?utm_campaign=799907&utm_source=habrahabr&utm_medium=rss)
 - [В Великобритании провели первую операцию с помощью Apple Vision Pro](https://habr.com/ru/news/799881/?utm_campaign=799881&utm_source=habrahabr&utm_medium=rss)
 - [В 2023 году Google выплатила $10 млн в качестве вознаграждения исследователям за выявление уязвимостей в своих сервисах](https://habr.com/ru/news/799813/?utm_campaign=799813&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила рекламировать Edge в Windows 11 и 10 при изменении настроек по умолчанию](https://habr.com/ru/news/799789/?utm_campaign=799789&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует в Windows 11 ИИ-фильтры для веб-камеры](https://habr.com/ru/news/799787/?utm_campaign=799787&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала блокировать промпты, которые позволяют создавать запрещённые изображения](https://habr.com/ru/news/799777/?utm_campaign=799777&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
