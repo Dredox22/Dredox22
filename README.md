@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на онлайн-конференцию Fine Day](https://habr.com/ru/companies/glowbyte/news/799935/?utm_campaign=799935&utm_source=habrahabr&utm_medium=rss)
+- [Обновление ОС «Альт Сервер» 10.2 и «Альт Рабочая станция» 10.2: выбор конфигурации, режим OEM-установки и многое другое](https://habr.com/ru/companies/basealtspo/news/799929/?utm_campaign=799929&utm_source=habrahabr&utm_medium=rss)
 - [Из-за ошибки «Локатора» iPhone полиция пришла с обыском к пожилой женщине и теперь должна выплатить $3,76 млн](https://habr.com/ru/news/799911/?utm_campaign=799911&utm_source=habrahabr&utm_medium=rss)
 - [Число установок Brave резко выросло после обновления iOS в соответствии с DMA](https://habr.com/ru/news/799907/?utm_campaign=799907&utm_source=habrahabr&utm_medium=rss)
 - [В Великобритании провели первую операцию с помощью Apple Vision Pro](https://habr.com/ru/news/799881/?utm_campaign=799881&utm_source=habrahabr&utm_medium=rss)
-- [В 2023 году Google выплатила $10 млн в качестве вознаграждения исследователям за выявление уязвимостей в своих сервисах](https://habr.com/ru/news/799813/?utm_campaign=799813&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила рекламировать Edge в Windows 11 и 10 при изменении настроек по умолчанию](https://habr.com/ru/news/799789/?utm_campaign=799789&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
