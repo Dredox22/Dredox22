@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приглашаем на онлайн-конференцию Fine Day](https://habr.com/ru/companies/glowbyte/news/799935/?utm_campaign=799935&utm_source=habrahabr&utm_medium=rss)
-- [Обновление ОС «Альт Сервер» 10.2 и «Альт Рабочая станция» 10.2: выбор конфигурации, режим OEM-установки и многое другое](https://habr.com/ru/companies/basealtspo/news/799929/?utm_campaign=799929&utm_source=habrahabr&utm_medium=rss)
-- [Из-за ошибки «Локатора» iPhone полиция пришла с обыском к пожилой женщине и теперь должна выплатить $3,76 млн](https://habr.com/ru/news/799911/?utm_campaign=799911&utm_source=habrahabr&utm_medium=rss)
-- [Число установок Brave резко выросло после обновления iOS в соответствии с DMA](https://habr.com/ru/news/799907/?utm_campaign=799907&utm_source=habrahabr&utm_medium=rss)
-- [В Великобритании провели первую операцию с помощью Apple Vision Pro](https://habr.com/ru/news/799881/?utm_campaign=799881&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила GPT-4 Turbo в бесплатную версию Copilot](https://habr.com/ru/news/799975/?utm_campaign=799975&utm_source=habrahabr&utm_medium=rss)
+- [Cognition представила нейросеть Devin, которая умеет осуществлять полный цикл разработки ПО вместо инженера-программиста](https://habr.com/ru/news/799973/?utm_campaign=799973&utm_source=habrahabr&utm_medium=rss)
+- [Шадаев: в России установлено более 1 млн камер видеонаблюдения](https://habr.com/ru/news/799971/?utm_campaign=799971&utm_source=habrahabr&utm_medium=rss)
+- [Новые интерфейсы, шаг в 16 нм и поддержка до 2040 года. Анонсирован новый FGPA линейки Spartan](https://habr.com/ru/companies/dcmiran/news/799963/?utm_campaign=799963&utm_source=habrahabr&utm_medium=rss)
+- [«Салютдевайсы» займётся выпуском терминалов для видео-конференц-связи](https://habr.com/ru/news/799959/?utm_campaign=799959&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
