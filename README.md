@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Канаде СЦ начали предлагать увеличить объём распаянной памяти чипов SSD на MacBook M1](https://habr.com/ru/news/800071/?utm_campaign=800071&utm_source=habrahabr&utm_medium=rss)
 - [Европейская комиссия нарушила правила защиты данных ЕС, используя Microsoft 365](https://habr.com/ru/news/800055/?utm_campaign=800055&utm_source=habrahabr&utm_medium=rss)
 - [Apple начала собирать в Бразилии базовую модель линейки iPhone 15](https://habr.com/ru/news/800041/?utm_campaign=800041&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила GPT-4 Turbo в бесплатную версию Copilot](https://habr.com/ru/news/799975/?utm_campaign=799975&utm_source=habrahabr&utm_medium=rss)
 - [Cognition представила нейросеть Devin, которая умеет осуществлять полный цикл разработки ПО вместо инженера-программиста](https://habr.com/ru/news/799973/?utm_campaign=799973&utm_source=habrahabr&utm_medium=rss)
-- [Шадаев: в России установлено более 1 млн камер видеонаблюдения](https://habr.com/ru/news/799971/?utm_campaign=799971&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
