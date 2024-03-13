@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple начала собирать в Бразилии базовую модель линейки iPhone 15](https://habr.com/ru/news/800041/?utm_campaign=800041&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила GPT-4 Turbo в бесплатную версию Copilot](https://habr.com/ru/news/799975/?utm_campaign=799975&utm_source=habrahabr&utm_medium=rss)
 - [Cognition представила нейросеть Devin, которая умеет осуществлять полный цикл разработки ПО вместо инженера-программиста](https://habr.com/ru/news/799973/?utm_campaign=799973&utm_source=habrahabr&utm_medium=rss)
 - [Шадаев: в России установлено более 1 млн камер видеонаблюдения](https://habr.com/ru/news/799971/?utm_campaign=799971&utm_source=habrahabr&utm_medium=rss)
 - [Новые интерфейсы, шаг в 16 нм и поддержка до 2040 года. Анонсирован новый FGPA линейки Spartan](https://habr.com/ru/companies/dcmiran/news/799963/?utm_campaign=799963&utm_source=habrahabr&utm_medium=rss)
-- [«Салютдевайсы» займётся выпуском терминалов для видео-конференц-связи](https://habr.com/ru/news/799959/?utm_campaign=799959&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
