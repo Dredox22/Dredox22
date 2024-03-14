@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft запустит Copilot for Security для специалистов в области кибербезопасности](https://habr.com/ru/news/800351/?utm_campaign=800351&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE рассказала, что мошенники подделывают сайты почти 90% крупных российских компаний из различных рейтингов](https://habr.com/ru/news/800313/?utm_campaign=800313&utm_source=habrahabr&utm_medium=rss)
 - [В конце апреля Epic Games вводит новый тариф для Unreal Engine 5.4](https://habr.com/ru/news/800307/?utm_campaign=800307&utm_source=habrahabr&utm_medium=rss)
 - [Viber оштрафовали на 800 тыс. рублей за неудаление контента](https://habr.com/ru/news/800253/?utm_campaign=800253&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» подключил к «Антифроду» более 20 региональных и виртуальных операторов](https://habr.com/ru/news/800211/?utm_campaign=800211&utm_source=habrahabr&utm_medium=rss)
-- [В сообществе пользователей утилиты для сборки и деплоя werf — уже 1000 участников](https://habr.com/ru/companies/flant/news/800209/?utm_campaign=800209&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
