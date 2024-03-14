@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонс разработки нового квеста](https://habr.com/ru/news/800267/?utm_campaign=800267&utm_source=habrahabr&utm_medium=rss)
 - [Viber оштрафовали на 800 тыс. рублей за неудаление контента](https://habr.com/ru/news/800253/?utm_campaign=800253&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» подключил к «Антифроду» более 20 региональных и виртуальных операторов](https://habr.com/ru/news/800211/?utm_campaign=800211&utm_source=habrahabr&utm_medium=rss)
 - [В сообществе пользователей утилиты для сборки и деплоя werf — уже 1000 участников](https://habr.com/ru/companies/flant/news/800209/?utm_campaign=800209&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи macOS Sonoma 14.4 заявили о проблемах подключения USB-хабов к Mac](https://habr.com/ru/news/800197/?utm_campaign=800197&utm_source=habrahabr&utm_medium=rss)
-- [В России подписали декларацию об ответственной разработке и использовании сервисов на основе генеративного ИИ](https://habr.com/ru/news/800193/?utm_campaign=800193&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
