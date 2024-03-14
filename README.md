@@ -72,7 +72,7 @@
 - [14 марта отмечают Международный день числа «Пи»](https://habr.com/ru/news/800129/?utm_campaign=800129&utm_source=habrahabr&utm_medium=rss)
 - [Discord открыл возможность создавать игры и приложения, которые работают внутри платформы](https://habr.com/ru/news/800117/?utm_campaign=800117&utm_source=habrahabr&utm_medium=rss)
 - [Что нового в AI за неделю?](https://habr.com/ru/news/800065/?utm_campaign=800065&utm_source=habrahabr&utm_medium=rss)
-- [В Канаде СЦ начали предлагать увеличить объём распаянной памяти чипов SSD на MacBook M1](https://habr.com/ru/news/800071/?utm_campaign=800071&utm_source=habrahabr&utm_medium=rss)
+- [В Канаде СЦ предлагают увеличить объём распаянной памяти чипов SSD на MacBook M1](https://habr.com/ru/news/800071/?utm_campaign=800071&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
