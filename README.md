@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitGuardian: в 2023 году на GitHub утекло 12,8 млн токенов API и ключей аутентификации](https://habr.com/ru/news/800177/?utm_campaign=800177&utm_source=habrahabr&utm_medium=rss)
+- [Объявлен конкурс среди русскоязычных Rust-контрибьюторов в СПО «100 за Rust»](https://habr.com/ru/news/800169/?utm_campaign=800169&utm_source=habrahabr&utm_medium=rss)
 - [Dr.Web Family Security — новое мобильное приложение от «Доктор Веб» для цифровой безопасности всей семьи](https://habr.com/ru/companies/drweb/news/799595/?utm_campaign=799595&utm_source=habrahabr&utm_medium=rss)
 - [Вышел WingetUI &lpar;UnigetUI&rpar; 3.0](https://habr.com/ru/news/800151/?utm_campaign=800151&utm_source=habrahabr&utm_medium=rss)
 - [Discord начал блокировать серверы с запрещенной в РФ информацией](https://habr.com/ru/news/800133/?utm_campaign=800133&utm_source=habrahabr&utm_medium=rss)
-- [14 марта отмечают Международный день числа «Пи»](https://habr.com/ru/news/800129/?utm_campaign=800129&utm_source=habrahabr&utm_medium=rss)
-- [Discord открыл возможность создавать игры и приложения, которые работают внутри платформы](https://habr.com/ru/news/800117/?utm_campaign=800117&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
