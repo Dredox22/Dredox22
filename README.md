@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи macOS Sonoma 14.4 заявили о проблемах подключения USB-хабов к Mac](https://habr.com/ru/news/800197/?utm_campaign=800197&utm_source=habrahabr&utm_medium=rss)
+- [В России подписали декларацию об ответственной разработке и использовании сервисов на основе генеративного ИИ](https://habr.com/ru/news/800193/?utm_campaign=800193&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустит предварительную версию Copilot в Intune 1 апреля](https://habr.com/ru/news/800187/?utm_campaign=800187&utm_source=habrahabr&utm_medium=rss)
 - [GitGuardian: в 2023 году на GitHub утекло 12,8 млн токенов API и ключей аутентификации](https://habr.com/ru/news/800177/?utm_campaign=800177&utm_source=habrahabr&utm_medium=rss)
 - [Объявлен конкурс среди русскоязычных Rust-контрибьюторов в СПО «100 за Rust»](https://habr.com/ru/news/800169/?utm_campaign=800169&utm_source=habrahabr&utm_medium=rss)
-- [Dr.Web Family Security — новое мобильное приложение от «Доктор Веб» для цифровой безопасности всей семьи](https://habr.com/ru/companies/drweb/news/799595/?utm_campaign=799595&utm_source=habrahabr&utm_medium=rss)
-- [Вышел WingetUI &lpar;UnigetUI&rpar; 3.0](https://habr.com/ru/news/800151/?utm_campaign=800151&utm_source=habrahabr&utm_medium=rss)
-- [Discord начал блокировать серверы с запрещенной в РФ информацией](https://habr.com/ru/news/800133/?utm_campaign=800133&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
