@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft обновила серверную часть своих сервисов для показа новой всплывающей рекламы Bing в Chrome в Windows 10/11](https://habr.com/ru/news/800501/?utm_campaign=800501&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» готовит новое поколение тестировщиков и открыл для сотрудников курсы по Python и SQL](https://habr.com/ru/news/800443/?utm_campaign=800443&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор перестал обновлять выгрузку реестра запрещённых сайтов](https://habr.com/ru/news/800439/?utm_campaign=800439&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз приложения Proton Mail для Windows и macOS, а также вышло бета-приложение сервиса для Linux](https://habr.com/ru/news/800437/?utm_campaign=800437&utm_source=habrahabr&utm_medium=rss)
 - [Chrome обновил стандарт безопасного просмотра для работы в режиме реального времени](https://habr.com/ru/news/800431/?utm_campaign=800431&utm_source=habrahabr&utm_medium=rss)
-- [В Firefox заявили о росте числа установок браузера на iOS на 30-50% в ЕС](https://habr.com/ru/news/800425/?utm_campaign=800425&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
