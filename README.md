@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome обновил стандарт безопасного просмотра для работы в режиме реального времени](https://habr.com/ru/news/800431/?utm_campaign=800431&utm_source=habrahabr&utm_medium=rss)
+- [В Firefox заявили о росте числа установок браузера на iOS на 30-50% в ЕС](https://habr.com/ru/news/800425/?utm_campaign=800425&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft открыла глобальный доступ к Copilot Pro с месячной бесплатной пробной версией](https://habr.com/ru/news/800415/?utm_campaign=800415&utm_source=habrahabr&utm_medium=rss)
 - [Рекламу без согласия чаще всего присылают банки и микрофинансовые организации. Более 60% жалоб заканчиваются штрафами](https://habr.com/ru/companies/hflabs/news/800409/?utm_campaign=800409&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустит Copilot for Security для специалистов в области кибербезопасности](https://habr.com/ru/news/800351/?utm_campaign=800351&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE рассказала, что мошенники подделывают сайты почти 90% крупных российских компаний из различных рейтингов](https://habr.com/ru/news/800313/?utm_campaign=800313&utm_source=habrahabr&utm_medium=rss)
-- [В конце апреля Epic Games вводит новый тариф для Unreal Engine 5.4](https://habr.com/ru/news/800307/?utm_campaign=800307&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
