@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [R-Style Softlab вывела на рынок новый сервис комплексной автоматизации HR-процессов](https://habr.com/ru/companies/rshb/news/800573/?utm_campaign=800573&utm_source=habrahabr&utm_medium=rss)
-- [Upd: Microsoft и Amazon с 20 марта 2024 года приостанавливают доступ к своим облачным продуктам на территории РФ](https://habr.com/ru/news/800603/?utm_campaign=800603&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и Amazon с 20 марта 2024 года приостанавливают доступ к своим облачным продуктам на территории РФ](https://habr.com/ru/news/800603/?utm_campaign=800603&utm_source=habrahabr&utm_medium=rss)
 - [Mojang предупредила пользователей не обновлять Minecraft через приложение Xbox в Windows 10/11 ради сохранения миров](https://habr.com/ru/news/800589/?utm_campaign=800589&utm_source=habrahabr&utm_medium=rss)
 - [Детский банкинг. Как выглядит решение для быстрого запуска](https://habr.com/ru/companies/rshb/news/800559/?utm_campaign=800559&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь Glassdoor заявил, что компания деанонимизирует тех, кто регистрировался на сервисе без указания имени](https://habr.com/ru/news/800523/?utm_campaign=800523&utm_source=habrahabr&utm_medium=rss)
