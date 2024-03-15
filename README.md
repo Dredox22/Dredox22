@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft и Amazon с 20 марта 2024 года приостанавливают доступ к своим облачным продуктам на территории РФ](https://habr.com/ru/news/800603/?utm_campaign=800603&utm_source=habrahabr&utm_medium=rss)
+- [Mojang предупредила пользователей не обновлять Minecraft через приложение Xbox в Windows 10/11 ради сохранения миров](https://habr.com/ru/news/800589/?utm_campaign=800589&utm_source=habrahabr&utm_medium=rss)
 - [Детский банкинг. Как выглядит решение для быстрого запуска](https://habr.com/ru/companies/rshb/news/800559/?utm_campaign=800559&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь Glassdoor заявил, что компания деанонимизирует тех, кто регистрировался на сервисе без указания имени](https://habr.com/ru/news/800523/?utm_campaign=800523&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила серверную часть своих сервисов для показа новой всплывающей рекламы Bing в Chrome в Windows 10/11](https://habr.com/ru/news/800501/?utm_campaign=800501&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» готовит новое поколение тестировщиков и открыл для сотрудников курсы по Python и SQL](https://habr.com/ru/news/800443/?utm_campaign=800443&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор перестал обновлять выгрузку реестра запрещённых сайтов](https://habr.com/ru/news/800439/?utm_campaign=800439&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
