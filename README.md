@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: удаление ИИ-помощника Copilot в обновлённой версии Windows 10 на данный момент не поддерживается](https://habr.com/ru/news/800719/?utm_campaign=800719&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закроет через год Центр приложений Visual Studio и рекомендует Azure Pipelines и BrowserStack App Automate](https://habr.com/ru/news/800673/?utm_campaign=800673&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила новый ползунок в инструменты «Карандаш», «Кисти» и «Ластик» в Paint](https://habr.com/ru/news/800669/?utm_campaign=800669&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива TileOS 1.0 &lpar;T-Rex&rpar;](https://habr.com/ru/news/800643/?utm_campaign=800643&utm_source=habrahabr&utm_medium=rss)
 - [Оригинал письма от Microsoft по блокировке в РФ ПО для управления или проектирования &lpar;+ облачные решения&rpar; с 20 марта](https://habr.com/ru/news/800639/?utm_campaign=800639&utm_source=habrahabr&utm_medium=rss)
-- [R-Style Softlab вывела на рынок новый сервис комплексной автоматизации HR-процессов](https://habr.com/ru/companies/rshb/news/800573/?utm_campaign=800573&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
