@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 8.0](https://habr.com/ru/news/800759/?utm_campaign=800759&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый инструмент «всё в одном» &lpar;виртуальная среда и менеджер пакетов&rpar; Flox 1.0](https://habr.com/ru/news/800755/?utm_campaign=800755&utm_source=habrahabr&utm_medium=rss)
 - [Java падает на arm маках с macOS 14.4](https://habr.com/ru/news/800721/?utm_campaign=800721&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: удаление ИИ-помощника Copilot в обновлённой версии Windows 10 на данный момент не поддерживается](https://habr.com/ru/news/800719/?utm_campaign=800719&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закроет через год Центр приложений Visual Studio и рекомендует Azure Pipelines и BrowserStack App Automate](https://habr.com/ru/news/800673/?utm_campaign=800673&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила новый ползунок в инструменты «Карандаш», «Кисти» и «Ластик» в Paint](https://habr.com/ru/news/800669/?utm_campaign=800669&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива TileOS 1.0 &lpar;T-Rex&rpar;](https://habr.com/ru/news/800643/?utm_campaign=800643&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
