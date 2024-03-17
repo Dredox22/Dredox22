@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи раскрыли три способа определения сеансов OpenVPN в транзитном трафике](https://habr.com/ru/news/800823/?utm_campaign=800823&utm_source=habrahabr&utm_medium=rss)
 - [«Аквариус» подала два иска к «дочке» F‑plus на общую сумму ₽108 млн](https://habr.com/ru/news/800817/?utm_campaign=800817&utm_source=habrahabr&utm_medium=rss)
 - [Прокурор рекомендует приговорить Сэма Бэнкмана-Фрида к тюремному заключению на срок от 40 до 50 лет](https://habr.com/ru/news/800783/?utm_campaign=800783&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: SpaceX разрабатывает сеть шпионских спутников в рамках проекта Starshield для разведки США](https://habr.com/ru/news/800779/?utm_campaign=800779&utm_source=habrahabr&utm_medium=rss)
 - [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 8.0](https://habr.com/ru/news/800759/?utm_campaign=800759&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый инструмент «всё в одном» &lpar;виртуальная среда и менеджер пакетов&rpar; Flox 1.0](https://habr.com/ru/news/800755/?utm_campaign=800755&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
