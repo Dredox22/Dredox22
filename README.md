@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/801107/?utm_campaign=801107&utm_source=habrahabr&utm_medium=rss)
 - [Fashion is ML Profession! Приглашаем на митап Lamoda Tech](https://habr.com/ru/companies/lamoda/news/801083/?utm_campaign=801083&utm_source=habrahabr&utm_medium=rss)
-- [В России у части провайдеров перестал открываться поисковик от Microsoft Bing &lpar;bing.com&rpar;](https://habr.com/ru/news/801087/?utm_campaign=801087&utm_source=habrahabr&utm_medium=rss)
+- [В России у части провайдеров перестал на время открываться поисковик от Microsoft Bing &lpar;bing.com&rpar;](https://habr.com/ru/news/801087/?utm_campaign=801087&utm_source=habrahabr&utm_medium=rss)
 - [22 и 23 марта — Big Hiring Day от SM lab](https://habr.com/ru/companies/sportmaster_lab/news/801081/?utm_campaign=801081&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдёт первый митап игровых разработчиков и разработчиков ОС «Аврора»](https://habr.com/ru/news/801035/?utm_campaign=801035&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play добавят ПК-игры и YouTube-ролики от разработчиков](https://habr.com/ru/news/801025/?utm_campaign=801025&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
