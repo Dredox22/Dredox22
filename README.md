@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-приложение Microsoft Excel теперь может экспортировать листы в формате CSV](https://habr.com/ru/news/801179/?utm_campaign=801179&utm_source=habrahabr&utm_medium=rss)
 - [Softline: Microsoft обсуждает перенос срока приостановки доступа к облачным сервисам в РФ с 20 марта на конец месяца](https://habr.com/ru/news/801139/?utm_campaign=801139&utm_source=habrahabr&utm_medium=rss)
 - [RTVI: Microsoft пообещала не закрывать с 20 марта доступ к своим облачным сервисам для физлиц из РФ](https://habr.com/ru/news/801135/?utm_campaign=801135&utm_source=habrahabr&utm_medium=rss)
 - [Beeper запускает обновлённую бета-версию своего приложения для Android с новыми функциями, но без iMessage](https://habr.com/ru/news/801129/?utm_campaign=801129&utm_source=habrahabr&utm_medium=rss)
 - [Неофициальный скрипт позволяет выполнять переключение между редакциями Windows 10 и 11](https://habr.com/ru/news/801127/?utm_campaign=801127&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/801107/?utm_campaign=801107&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
