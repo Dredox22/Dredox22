@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В LinkedIn появятся мини-игры](https://habr.com/ru/news/800873/?utm_campaign=800873&utm_source=habrahabr&utm_medium=rss)
 - [xAI открыл веса и архитектуру языковой модели Grok-1](https://habr.com/ru/news/800859/?utm_campaign=800859&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи раскрыли три способа определения сеансов OpenVPN в транзитном трафике](https://habr.com/ru/news/800823/?utm_campaign=800823&utm_source=habrahabr&utm_medium=rss)
 - [«Аквариус» подала два иска к «дочке» F‑plus на общую сумму ₽108 млн](https://habr.com/ru/news/800817/?utm_campaign=800817&utm_source=habrahabr&utm_medium=rss)
 - [Прокурор рекомендует приговорить Сэма Бэнкмана-Фрида к тюремному заключению на срок от 40 до 50 лет](https://habr.com/ru/news/800783/?utm_campaign=800783&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: SpaceX разрабатывает сеть шпионских спутников в рамках проекта Starshield для разведки США](https://habr.com/ru/news/800779/?utm_campaign=800779&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
