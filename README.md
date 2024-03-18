@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Softline: Microsoft обсуждает перенос срока приостановки доступа к облачным сервисам в РФ с 20 марта на конец месяца](https://habr.com/ru/news/801139/?utm_campaign=801139&utm_source=habrahabr&utm_medium=rss)
+- [RTVI: Microsoft пообещала не закрывать с 20 марта доступ к своим облачным сервисам для физлиц из РФ](https://habr.com/ru/news/801135/?utm_campaign=801135&utm_source=habrahabr&utm_medium=rss)
 - [Beeper запускает обновлённую бета-версию своего приложения для Android с новыми функциями, но без iMessage](https://habr.com/ru/news/801129/?utm_campaign=801129&utm_source=habrahabr&utm_medium=rss)
 - [Неофициальный скрипт позволяет выполнять переключение между редакциями Windows 10 и 11](https://habr.com/ru/news/801127/?utm_campaign=801127&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/801107/?utm_campaign=801107&utm_source=habrahabr&utm_medium=rss)
-- [Fashion is ML Profession! Приглашаем на митап Lamoda Tech](https://habr.com/ru/companies/lamoda/news/801083/?utm_campaign=801083&utm_source=habrahabr&utm_medium=rss)
-- [В России у части провайдеров перестал на время открываться поисковик от Microsoft Bing &lpar;bing.com&rpar;](https://habr.com/ru/news/801087/?utm_campaign=801087&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
