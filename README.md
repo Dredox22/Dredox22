@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры получит полномочия по проверке российских геоинформационных сервисов на соответствие требованиям закона](https://habr.com/ru/news/800991/?utm_campaign=800991&utm_source=habrahabr&utm_medium=rss)
+- [К цифровой медплатформе «Ростеха» подключат приборы удалённого контроля состояния беременных](https://habr.com/ru/news/800987/?utm_campaign=800987&utm_source=habrahabr&utm_medium=rss)
+- [Google представила нейросеть VLOGGER для генерации анимированных роликов с реалистичной мимикой человека по фотографии](https://habr.com/ru/news/800967/?utm_campaign=800967&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь Hobby World занялся консолидацией видеоигровых студий](https://habr.com/ru/news/800947/?utm_campaign=800947&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm представила чип Snapdragon 8s Gen 3 с ведущим ядром Cortex-X4](https://habr.com/ru/news/800937/?utm_campaign=800937&utm_source=habrahabr&utm_medium=rss)
-- [Открыта продажа билетов на киберфестиваль PHDays](https://habr.com/ru/companies/pt/news/800869/?utm_campaign=800869&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Apple обсуждает с Google локальную интеграцию чат-бота Gemini в iOS 18](https://habr.com/ru/news/800917/?utm_campaign=800917&utm_source=habrahabr&utm_medium=rss)
-- [Примите участие в соревновании Data Fusion Contest](https://habr.com/ru/companies/vtb/news/800915/?utm_campaign=800915&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
