@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сооснователь Hobby World занялся консолидацией видеоигровых студий](https://habr.com/ru/news/800947/?utm_campaign=800947&utm_source=habrahabr&utm_medium=rss)
+- [Qualcomm представила чип Snapdragon 8s Gen 3 с ведущим ядром Cortex-X4](https://habr.com/ru/news/800937/?utm_campaign=800937&utm_source=habrahabr&utm_medium=rss)
+- [Открыта продажа билетов на киберфестиваль PHDays](https://habr.com/ru/companies/pt/news/800869/?utm_campaign=800869&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Apple обсуждает с Google локальную интеграцию чат-бота Gemini в iOS 18](https://habr.com/ru/news/800917/?utm_campaign=800917&utm_source=habrahabr&utm_medium=rss)
 - [Примите участие в соревновании Data Fusion Contest](https://habr.com/ru/companies/vtb/news/800915/?utm_campaign=800915&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила поддерживать 1024-битный TLS для борьбы с загрузкой устаревших теневых приложений](https://habr.com/ru/news/800905/?utm_campaign=800905&utm_source=habrahabr&utm_medium=rss)
-- [Android 15 позволит находить даже выключенные устройства Pixel](https://habr.com/ru/news/800899/?utm_campaign=800899&utm_source=habrahabr&utm_medium=rss)
-- [Новая акустическая атака определяет нажатия клавиш по шаблонам набора текста](https://habr.com/ru/news/800897/?utm_campaign=800897&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
