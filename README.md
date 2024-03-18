@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая акустическая атака определяет нажатия клавиш по шаблонам набора текста](https://habr.com/ru/news/800897/?utm_campaign=800897&utm_source=habrahabr&utm_medium=rss)
+- [Билл Гейтс: ИИ плохо играет в судоку и не может решить волшебным образом вопросы, в которых люди ещё не компетентны сами](https://habr.com/ru/news/800895/?utm_campaign=800895&utm_source=habrahabr&utm_medium=rss)
+- [Cloudseller: Google не рассылала партнёрам уведомления о прекращении работы своих сервисов в РФ с 20 марта 2024 года](https://habr.com/ru/news/800881/?utm_campaign=800881&utm_source=habrahabr&utm_medium=rss)
 - [В LinkedIn появятся мини-игры](https://habr.com/ru/news/800873/?utm_campaign=800873&utm_source=habrahabr&utm_medium=rss)
 - [xAI открыл веса и архитектуру языковой модели Grok-1](https://habr.com/ru/news/800859/?utm_campaign=800859&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи раскрыли три способа определения сеансов OpenVPN в транзитном трафике](https://habr.com/ru/news/800823/?utm_campaign=800823&utm_source=habrahabr&utm_medium=rss)
-- [«Аквариус» подала два иска к «дочке» F‑plus на общую сумму ₽108 млн](https://habr.com/ru/news/800817/?utm_campaign=800817&utm_source=habrahabr&utm_medium=rss)
-- [Прокурор рекомендует приговорить Сэма Бэнкмана-Фрида к тюремному заключению на срок от 40 до 50 лет](https://habr.com/ru/news/800783/?utm_campaign=800783&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
