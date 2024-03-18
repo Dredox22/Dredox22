@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Москве пройдёт первый митап игровых разработчиков и разработчиков ОС «Аврора»](https://habr.com/ru/news/801035/?utm_campaign=801035&utm_source=habrahabr&utm_medium=rss)
+- [В Google Play добавят ПК-игры и YouTube-ролики от разработчиков](https://habr.com/ru/news/801025/?utm_campaign=801025&utm_source=habrahabr&utm_medium=rss)
+- [«Бауманка» заявила о запуске производства сверхпроводниковых квантовых процессоров и рассказала о технологии их создания](https://habr.com/ru/news/801023/?utm_campaign=801023&utm_source=habrahabr&utm_medium=rss)
+- [Игры для консоли Playdate теперь можно разрабатывать на языке программирования Swift](https://habr.com/ru/news/801015/?utm_campaign=801015&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры получит полномочия по проверке российских геоинформационных сервисов на соответствие требованиям закона](https://habr.com/ru/news/800991/?utm_campaign=800991&utm_source=habrahabr&utm_medium=rss)
-- [К цифровой медплатформе «Ростеха» подключат приборы удалённого контроля состояния беременных](https://habr.com/ru/news/800987/?utm_campaign=800987&utm_source=habrahabr&utm_medium=rss)
-- [Google представила нейросеть VLOGGER для генерации анимированных роликов с реалистичной мимикой человека по фотографии](https://habr.com/ru/news/800967/?utm_campaign=800967&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь Hobby World занялся консолидацией видеоигровых студий](https://habr.com/ru/news/800947/?utm_campaign=800947&utm_source=habrahabr&utm_medium=rss)
-- [Qualcomm представила чип Snapdragon 8s Gen 3 с ведущим ядром Cortex-X4](https://habr.com/ru/news/800937/?utm_campaign=800937&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
