@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fashion is ML Profession! Приглашаем на митап Lamoda Tech](https://habr.com/ru/companies/lamoda/news/801083/?utm_campaign=801083&utm_source=habrahabr&utm_medium=rss)
+- [В России у части провайдеров перестал открываться поисковик от Microsoft Bing &lpar;bing.com&rpar;](https://habr.com/ru/news/801087/?utm_campaign=801087&utm_source=habrahabr&utm_medium=rss)
+- [22 и 23 марта — Big Hiring Day от SM lab](https://habr.com/ru/companies/sportmaster_lab/news/801081/?utm_campaign=801081&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдёт первый митап игровых разработчиков и разработчиков ОС «Аврора»](https://habr.com/ru/news/801035/?utm_campaign=801035&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play добавят ПК-игры и YouTube-ролики от разработчиков](https://habr.com/ru/news/801025/?utm_campaign=801025&utm_source=habrahabr&utm_medium=rss)
-- [«Бауманка» заявила о запуске производства сверхпроводниковых квантовых процессоров и рассказала о технологии их создания](https://habr.com/ru/news/801023/?utm_campaign=801023&utm_source=habrahabr&utm_medium=rss)
-- [Игры для консоли Playdate теперь можно разрабатывать на языке программирования Swift](https://habr.com/ru/news/801015/?utm_campaign=801015&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры получит полномочия по проверке российских геоинформационных сервисов на соответствие требованиям закона](https://habr.com/ru/news/800991/?utm_campaign=800991&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
