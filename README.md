@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Спустя 20 лет разработки проект GnuCOBOL готов к использованию в промышленных системах](https://habr.com/ru/news/801209/?utm_campaign=801209&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft интегрирует Copilot в контекстное меню проводника Windows 11](https://habr.com/ru/news/801207/?utm_campaign=801207&utm_source=habrahabr&utm_medium=rss)
 - [Valve представила Steam Families — семейные группы Steam для совместного доступа к играм](https://habr.com/ru/news/801199/?utm_campaign=801199&utm_source=habrahabr&utm_medium=rss)
 - [Копирование текста из ChatGPT нашли в рецензируемых научных журналах](https://habr.com/ru/news/801195/?utm_campaign=801195&utm_source=habrahabr&utm_medium=rss)
 - [Веб-приложение Microsoft Excel теперь может экспортировать листы в формате CSV](https://habr.com/ru/news/801179/?utm_campaign=801179&utm_source=habrahabr&utm_medium=rss)
-- [Softline: Microsoft обсуждает перенос срока приостановки доступа к облачным сервисам в РФ с 20 марта на конец месяца](https://habr.com/ru/news/801139/?utm_campaign=801139&utm_source=habrahabr&utm_medium=rss)
-- [RTVI: Microsoft пообещала не закрывать с 20 марта доступ к своим облачным сервисам для физлиц из РФ](https://habr.com/ru/news/801135/?utm_campaign=801135&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
