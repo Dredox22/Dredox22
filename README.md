@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Крупнейшие работодатели Санкт-Петербурга стали участниками Дня карьеры СПбГАСУ](https://habr.com/ru/companies/nanosoft/news/801413/?utm_campaign=801413&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Research представила открытое решение для создания кэш-хранилища под названием Garnet](https://habr.com/ru/news/801401/?utm_campaign=801401&utm_source=habrahabr&utm_medium=rss)
 - [Клиент Epic Games Store перестанет поддерживать операционные системы Windows 7/8 с июня 2024 года](https://habr.com/ru/news/801391/?utm_campaign=801391&utm_source=habrahabr&utm_medium=rss)
 - [«Гарда» рассказала о выпуске межсетевого экрана для веб‑приложений «Гарда WAF»](https://habr.com/ru/news/801325/?utm_campaign=801325&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «All-Flash Datacenter: модернизировать и забыть» от ITGLOBAL.COM KZ](https://habr.com/ru/news/801291/?utm_campaign=801291&utm_source=habrahabr&utm_medium=rss)
-- [Samsung запустит доступ к ёмким хранилищам данных на SSD по подписке](https://habr.com/ru/news/801311/?utm_campaign=801311&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила базовую ИИ-модель GR00T для роботов-гуманоидов](https://habr.com/ru/news/801297/?utm_campaign=801297&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
