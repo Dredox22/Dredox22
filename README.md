@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fujitsu сообщила о крупном киберинциденте в своей IT-инфраструктуре с утечкой данных](https://habr.com/ru/news/801447/?utm_campaign=801447&utm_source=habrahabr&utm_medium=rss)
+- [Mediascope: за два года аудитория заблокированных соцсетей упала в разы](https://habr.com/ru/news/801443/?utm_campaign=801443&utm_source=habrahabr&utm_medium=rss)
+- [Х5 Tech Talk: Наводим порядок в данных](https://habr.com/ru/companies/X5Tech/news/801437/?utm_campaign=801437&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Teams переходит на одно приложение для личного и корпоративного использования](https://habr.com/ru/news/801423/?utm_campaign=801423&utm_source=habrahabr&utm_medium=rss)
 - [Крупнейшие работодатели Санкт-Петербурга стали участниками Дня карьеры СПбГАСУ](https://habr.com/ru/companies/nanosoft/news/801413/?utm_campaign=801413&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Research представила открытое решение для создания кэш-хранилища под названием Garnet](https://habr.com/ru/news/801401/?utm_campaign=801401&utm_source=habrahabr&utm_medium=rss)
-- [Клиент Epic Games Store перестанет поддерживать операционные системы Windows 7/8 с июня 2024 года](https://habr.com/ru/news/801391/?utm_campaign=801391&utm_source=habrahabr&utm_medium=rss)
-- [«Гарда» рассказала о выпуске межсетевого экрана для веб‑приложений «Гарда WAF»](https://habr.com/ru/news/801325/?utm_campaign=801325&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
