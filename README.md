@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Большая часть банков Армении перестанут обслуживать карты «Мир» с 30 марта 2024 года](https://habr.com/ru/news/801269/?utm_campaign=801269&utm_source=habrahabr&utm_medium=rss)
-- [Правительство предложило расширить перечень информации о россиянах в единой базе](https://habr.com/ru/news/801255/?utm_campaign=801255&utm_source=habrahabr&utm_medium=rss)
-- [Обладатели ноутбуков на Amd и Asus Rog Ally заявили о падении производительности после установки обновления Windows 11](https://habr.com/ru/news/801245/?utm_campaign=801245&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo начала агрессивно блокировать на GitHub инструменты для обхода защиты игр на Switch](https://habr.com/ru/news/801231/?utm_campaign=801231&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» с 1 мая 2024 года повысит на 10% свои тарифы на услуги присоединения и пропуска трафика для операторов](https://habr.com/ru/news/801219/?utm_campaign=801219&utm_source=habrahabr&utm_medium=rss)
+- [«Гарда» рассказала о выпуске межсетевого экрана для веб‑приложений «Гарда WAF»](https://habr.com/ru/news/801325/?utm_campaign=801325&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «All-Flash Datacenter: модернизировать и забыть» от ITGLOBAL.COM KZ](https://habr.com/ru/news/801291/?utm_campaign=801291&utm_source=habrahabr&utm_medium=rss)
+- [Samsung запустит доступ к ёмким хранилищам данных на SSD по подписке](https://habr.com/ru/news/801311/?utm_campaign=801311&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила базовую ИИ-модель GR00T для роботов-гуманоидов](https://habr.com/ru/news/801297/?utm_campaign=801297&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила Blackwell B200 — «самый мощный ИИ-чип в мире»](https://habr.com/ru/news/801279/?utm_campaign=801279&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
