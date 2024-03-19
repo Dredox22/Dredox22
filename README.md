@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Страуструп ответил на призыв Белого дома США переходить на языки с безопасностью памяти](https://habr.com/ru/news/801525/?utm_campaign=801525&utm_source=habrahabr&utm_medium=rss)
+- [В блоге Docker рассказали про сервисы Nvidia AI, которые доступны разработчикам](https://habr.com/ru/news/801523/?utm_campaign=801523&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заблокирует корпдоступ к 50 облачным продуктам на территории РФ, включая Visual Studio &lpar;Code&rpar; и Visual C++](https://habr.com/ru/news/801495/?utm_campaign=801495&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты Positive Technologies нашли две критические уязвимости в контроллерах ABB](https://habr.com/ru/news/801483/?utm_campaign=801483&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Java 22](https://habr.com/ru/news/801467/?utm_campaign=801467&utm_source=habrahabr&utm_medium=rss)
-- [Fujitsu сообщила о крупном киберинциденте в своей IT-инфраструктуре с утечкой данных](https://habr.com/ru/news/801447/?utm_campaign=801447&utm_source=habrahabr&utm_medium=rss)
-- [Mediascope: за два года аудитория заблокированных соцсетей упала в разы](https://habr.com/ru/news/801443/?utm_campaign=801443&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
