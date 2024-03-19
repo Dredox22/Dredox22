@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты Positive Technologies нашли две критические уязвимости в контроллерах ABB](https://habr.com/ru/news/801483/?utm_campaign=801483&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Java 22](https://habr.com/ru/news/801467/?utm_campaign=801467&utm_source=habrahabr&utm_medium=rss)
 - [Fujitsu сообщила о крупном киберинциденте в своей IT-инфраструктуре с утечкой данных](https://habr.com/ru/news/801447/?utm_campaign=801447&utm_source=habrahabr&utm_medium=rss)
 - [Mediascope: за два года аудитория заблокированных соцсетей упала в разы](https://habr.com/ru/news/801443/?utm_campaign=801443&utm_source=habrahabr&utm_medium=rss)
 - [Х5 Tech Talk: Наводим порядок в данных](https://habr.com/ru/companies/X5Tech/news/801437/?utm_campaign=801437&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Teams переходит на одно приложение для личного и корпоративного использования](https://habr.com/ru/news/801423/?utm_campaign=801423&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
