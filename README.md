@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Большая часть банков Армении перестанут обслуживать карты «Мир» с 30 марта 2024 года](https://habr.com/ru/news/801269/?utm_campaign=801269&utm_source=habrahabr&utm_medium=rss)
+- [Правительство предложило расширить перечень информации о россиянах в единой базе](https://habr.com/ru/news/801255/?utm_campaign=801255&utm_source=habrahabr&utm_medium=rss)
+- [Обладатели ноутбуков на Amd и Asus Rog Ally заявили о падении производительности после установки обновления Windows 11](https://habr.com/ru/news/801245/?utm_campaign=801245&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo начала агрессивно блокировать на GitHub инструменты для обхода защиты игр на Switch](https://habr.com/ru/news/801231/?utm_campaign=801231&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» с 1 мая 2024 года повысит на 10% свои тарифы на услуги присоединения и пропуска трафика для операторов](https://habr.com/ru/news/801219/?utm_campaign=801219&utm_source=habrahabr&utm_medium=rss)
-- [Вышел 4MLinux 45.0](https://habr.com/ru/news/801211/?utm_campaign=801211&utm_source=habrahabr&utm_medium=rss)
-- [Спустя 20 лет разработки проект GnuCOBOL готов к использованию в промышленных системах](https://habr.com/ru/news/801209/?utm_campaign=801209&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft интегрирует Copilot в контекстное меню проводника Windows 11](https://habr.com/ru/news/801207/?utm_campaign=801207&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
