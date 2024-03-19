@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел 4MLinux 45.0](https://habr.com/ru/news/801211/?utm_campaign=801211&utm_source=habrahabr&utm_medium=rss)
 - [Спустя 20 лет разработки проект GnuCOBOL готов к использованию в промышленных системах](https://habr.com/ru/news/801209/?utm_campaign=801209&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft интегрирует Copilot в контекстное меню проводника Windows 11](https://habr.com/ru/news/801207/?utm_campaign=801207&utm_source=habrahabr&utm_medium=rss)
 - [Valve представила Steam Families — семейные группы Steam для совместного доступа к играм](https://habr.com/ru/news/801199/?utm_campaign=801199&utm_source=habrahabr&utm_medium=rss)
 - [Копирование текста из ChatGPT нашли в рецензируемых научных журналах](https://habr.com/ru/news/801195/?utm_campaign=801195&utm_source=habrahabr&utm_medium=rss)
-- [Веб-приложение Microsoft Excel теперь может экспортировать листы в формате CSV](https://habr.com/ru/news/801179/?utm_campaign=801179&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
