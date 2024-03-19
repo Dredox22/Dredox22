@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo начала агрессивно блокировать на GitHub инструменты для обхода защиты игр на Switch](https://habr.com/ru/news/801231/?utm_campaign=801231&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» с 1 мая 2024 года повысит на 10% свои тарифы на услуги присоединения и пропуска трафика для операторов](https://habr.com/ru/news/801219/?utm_campaign=801219&utm_source=habrahabr&utm_medium=rss)
 - [Вышел 4MLinux 45.0](https://habr.com/ru/news/801211/?utm_campaign=801211&utm_source=habrahabr&utm_medium=rss)
 - [Спустя 20 лет разработки проект GnuCOBOL готов к использованию в промышленных системах](https://habr.com/ru/news/801209/?utm_campaign=801209&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft интегрирует Copilot в контекстное меню проводника Windows 11](https://habr.com/ru/news/801207/?utm_campaign=801207&utm_source=habrahabr&utm_medium=rss)
-- [Valve представила Steam Families — семейные группы Steam для совместного доступа к играм](https://habr.com/ru/news/801199/?utm_campaign=801199&utm_source=habrahabr&utm_medium=rss)
-- [Копирование текста из ChatGPT нашли в рецензируемых научных журналах](https://habr.com/ru/news/801195/?utm_campaign=801195&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
