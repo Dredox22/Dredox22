@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Цены на «пробив» данных о гражданах РФ выросли в 2,5 раза к началу 2024 года](https://habr.com/ru/news/801633/?utm_campaign=801633&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем в Великий Новгород: на конференции по системному программированию и анализу данных в медицине](https://habr.com/ru/companies/isp_ras/news/801627/?utm_campaign=801627&utm_source=habrahabr&utm_medium=rss)
 - [Flipper Zero ответила на запрет продажи устройства в Канаде, показав, как перехватить радиосигнал с помощью куска кабеля](https://habr.com/ru/news/801611/?utm_campaign=801611&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой сборке Windows 11 теперь можно использовать Android-устройства как веб-камеры](https://habr.com/ru/news/801589/?utm_campaign=801589&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia и Dell представили ИИ-систему AI Factory для объединения ПК, СХД и сетевых устройств](https://habr.com/ru/news/801581/?utm_campaign=801581&utm_source=habrahabr&utm_medium=rss)
-- [Из неправильно настроенных экземпляров Firebase утекло 19 млн паролей в виде открытого текста](https://habr.com/ru/news/801577/?utm_campaign=801577&utm_source=habrahabr&utm_medium=rss)
-- [Не пропусти самое крутое событие этого года — кибербитву Standoff 13](https://habr.com/ru/companies/pt/news/801571/?utm_campaign=801571&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
