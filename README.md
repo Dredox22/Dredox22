@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia и Dell представили ИИ-систему AI Factory для объединения ПК, СХД и сетевых устройств](https://habr.com/ru/news/801581/?utm_campaign=801581&utm_source=habrahabr&utm_medium=rss)
+- [Из неправильно настроенных экземпляров Firebase утекло 19 млн паролей в виде открытого текста](https://habr.com/ru/news/801577/?utm_campaign=801577&utm_source=habrahabr&utm_medium=rss)
 - [Не пропусти самое крутое событие этого года — кибербитву Standoff 13](https://habr.com/ru/companies/pt/news/801571/?utm_campaign=801571&utm_source=habrahabr&utm_medium=rss)
 - [Samsung представила свои первые модули памяти GDDR7 для видеокарт](https://habr.com/ru/companies/dcmiran/news/801573/?utm_campaign=801573&utm_source=habrahabr&utm_medium=rss)
 - [Российский аналог GitHub от РФРИТ и Минцифры отложен на неопределённый срок в связи с отсутствием финансирования](https://habr.com/ru/news/801557/?utm_campaign=801557&utm_source=habrahabr&utm_medium=rss)
-- [Stability AI представила систему синтеза 3D-объектов из отдельных изображений Stable Video 3D](https://habr.com/ru/news/801539/?utm_campaign=801539&utm_source=habrahabr&utm_medium=rss)
-- [Страуструп ответил на призыв Белого дома США переходить на языки с безопасностью памяти](https://habr.com/ru/news/801525/?utm_campaign=801525&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
