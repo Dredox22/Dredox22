@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Softline: Microsoft может не закрыть доступ к облачным продуктам в РФ в ночь с 20 на 21 марта из-за нерешённых вопросов](https://habr.com/ru/news/801799/?utm_campaign=801799&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft готовит выпуск Office 2024 без подписки](https://habr.com/ru/news/801725/?utm_campaign=801725&utm_source=habrahabr&utm_medium=rss)
 - [Россияне смогут получать компенсации от «Госуслуг» за утечки данных](https://habr.com/ru/news/801697/?utm_campaign=801697&utm_source=habrahabr&utm_medium=rss)
 - [Российские банки обяжут получать согласие родителей на открытие счетов подросткам](https://habr.com/ru/news/801687/?utm_campaign=801687&utm_source=habrahabr&utm_medium=rss)
 - [МТС открыла доступ к бета-версии геосоциального мобильного приложения «Кто/Где» на iOS и Android](https://habr.com/ru/news/801685/?utm_campaign=801685&utm_source=habrahabr&utm_medium=rss)
-- [Цены на «пробив» данных о гражданах РФ выросли в 2,5 раза к началу 2024 года](https://habr.com/ru/news/801633/?utm_campaign=801633&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
