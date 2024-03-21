@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Баг в iOS 17.4 испортил работу автокоррекции на старых моделях iPhone](https://habr.com/ru/news/801989/?utm_campaign=801989&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры займётся созданием платформы для выявления дипфейков](https://habr.com/ru/news/801985/?utm_campaign=801985&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила ещё больше виджетов на экран блокировки Windows 10](https://habr.com/ru/news/801975/?utm_campaign=801975&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Элемент» запустила новые линии по сборке микросхем на заводе Микрон](https://habr.com/ru/news/801965/?utm_campaign=801965&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge откажется от встроенного PDF-движка в пользу Adobe в 2025 году](https://habr.com/ru/news/801923/?utm_campaign=801923&utm_source=habrahabr&utm_medium=rss)
-- [В «Блокноте» в Windows 11 появится опция корректуры текста](https://habr.com/ru/news/801901/?utm_campaign=801901&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик с помощью дипфейка в реальном времени прошёл собеседование за друга](https://habr.com/ru/news/801905/?utm_campaign=801905&utm_source=habrahabr&utm_medium=rss)
-- [Flightradar24 представил глобальную обновляемую карту помех GPS](https://habr.com/ru/news/801889/?utm_campaign=801889&utm_source=habrahabr&utm_medium=rss)
-- [Релиз рабочего окружения GNOME 46](https://habr.com/ru/news/801875/?utm_campaign=801875&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
