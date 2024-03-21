@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз рабочего окружения GNOME 46](https://habr.com/ru/news/801875/?utm_campaign=801875&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 123](https://habr.com/ru/news/801869/?utm_campaign=801869&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Firefox 124](https://habr.com/ru/news/801865/?utm_campaign=801865&utm_source=habrahabr&utm_medium=rss)
 - [Минюст США обсуждает с адвокатами Ассанжа возможность смягчения обвинений и даже свободу в обмен на «признание вины»](https://habr.com/ru/news/801861/?utm_campaign=801861&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind показала ИИ-инструмент для анализа футбольной тактики](https://habr.com/ru/news/801859/?utm_campaign=801859&utm_source=habrahabr&utm_medium=rss)
-- [Cisco закрыла сделку по покупке Splunk за $28 млрд](https://habr.com/ru/news/801819/?utm_campaign=801819&utm_source=habrahabr&utm_medium=rss)
-- [Softline: Microsoft может не закрыть доступ к облачным продуктам в РФ в ночь с 20 на 21 марта из-за нерешённых вопросов](https://habr.com/ru/news/801799/?utm_campaign=801799&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft готовит выпуск Office 2024 без подписки](https://habr.com/ru/news/801725/?utm_campaign=801725&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
