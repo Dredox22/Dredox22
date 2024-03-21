@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Издание TechCrunch разбило GPT-нарушителей в магазине OpenAI на категории](https://habr.com/ru/news/802049/?utm_campaign=802049&utm_source=habrahabr&utm_medium=rss)
 - [Финорганизации обяжут определять налоговое резидентство определённых клиентов](https://habr.com/ru/news/802035/?utm_campaign=802035&utm_source=habrahabr&utm_medium=rss)
 - [Апгрейд облачных баз данных, готовое облако 1С и другие продуктовые релизы февраля](https://habr.com/ru/companies/selectel/news/801655/?utm_campaign=801655&utm_source=habrahabr&utm_medium=rss)
 - [Баг в iOS 17.4 испортил работу автокоррекции на старых моделях iPhone](https://habr.com/ru/news/801989/?utm_campaign=801989&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры займётся созданием платформы для выявления дипфейков](https://habr.com/ru/news/801985/?utm_campaign=801985&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила ещё больше виджетов на экран блокировки Windows 10](https://habr.com/ru/news/801975/?utm_campaign=801975&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
