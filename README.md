@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge откажется от встроенного PDF-движка в пользу Adobe в 2025 году](https://habr.com/ru/news/801923/?utm_campaign=801923&utm_source=habrahabr&utm_medium=rss)
 - [В «Блокноте» в Windows 11 появится опция корректуры текста](https://habr.com/ru/news/801901/?utm_campaign=801901&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик с помощью дипфейка в реальном времени прошёл собеседование за друга](https://habr.com/ru/news/801905/?utm_campaign=801905&utm_source=habrahabr&utm_medium=rss)
 - [Flightradar24 представил глобальную обновляемую карту помех GPS](https://habr.com/ru/news/801889/?utm_campaign=801889&utm_source=habrahabr&utm_medium=rss)
 - [Релиз рабочего окружения GNOME 46](https://habr.com/ru/news/801875/?utm_campaign=801875&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 123](https://habr.com/ru/news/801869/?utm_campaign=801869&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
