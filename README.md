@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минюст США обсуждает с адвокатами Ассанжа возможность смягчения обвинений и даже свободу в обмен на «признание вины»](https://habr.com/ru/news/801861/?utm_campaign=801861&utm_source=habrahabr&utm_medium=rss)
+- [Google DeepMind показала ИИ-инструмент для анализа футбольной тактики](https://habr.com/ru/news/801859/?utm_campaign=801859&utm_source=habrahabr&utm_medium=rss)
 - [Cisco закрыла сделку по покупке Splunk за $28 млрд](https://habr.com/ru/news/801819/?utm_campaign=801819&utm_source=habrahabr&utm_medium=rss)
 - [Softline: Microsoft может не закрыть доступ к облачным продуктам в РФ в ночь с 20 на 21 марта из-за нерешённых вопросов](https://habr.com/ru/news/801799/?utm_campaign=801799&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft готовит выпуск Office 2024 без подписки](https://habr.com/ru/news/801725/?utm_campaign=801725&utm_source=habrahabr&utm_medium=rss)
-- [Россияне смогут получать компенсации от «Госуслуг» за утечки данных](https://habr.com/ru/news/801697/?utm_campaign=801697&utm_source=habrahabr&utm_medium=rss)
-- [Российские банки обяжут получать согласие родителей на открытие счетов подросткам](https://habr.com/ru/news/801687/?utm_campaign=801687&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
