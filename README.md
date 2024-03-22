@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь ИТ-инженера: оффлайн ивент для студентов](https://habr.com/ru/companies/croc/news/802093/?utm_campaign=802093&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm представила Snapdragon 7+ Gen 3 для смартфонов среднего уровня](https://habr.com/ru/news/802209/?utm_campaign=802209&utm_source=habrahabr&utm_medium=rss)
 - [Присоединяйтесь к обсуждению фреймворков и архитектуры в Python](https://habr.com/ru/companies/selectel/news/802203/?utm_campaign=802203&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры выделит 3,8 млрд рублей на создание электронного реестра воинского учёта](https://habr.com/ru/news/802195/?utm_campaign=802195&utm_source=habrahabr&utm_medium=rss)
 - [Запускаем программу багбаунти для MaxPatrol SIEM и MaxPatrol VM](https://habr.com/ru/companies/pt/news/802193/?utm_campaign=802193&utm_source=habrahabr&utm_medium=rss)
-- [Авто.ру запустил нейросеть, которая определяет состояние автомобиля по фото](https://habr.com/ru/news/802187/?utm_campaign=802187&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
