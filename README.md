@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm представила Snapdragon 7+ Gen 3 для смартфонов среднего уровня](https://habr.com/ru/news/802209/?utm_campaign=802209&utm_source=habrahabr&utm_medium=rss)
+- [Присоединяйтесь к обсуждению фреймворков и архитектуры в Python](https://habr.com/ru/companies/selectel/news/802203/?utm_campaign=802203&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры выделит 3,8 млрд рублей на создание электронного реестра воинского учёта](https://habr.com/ru/news/802195/?utm_campaign=802195&utm_source=habrahabr&utm_medium=rss)
+- [Запускаем программу багбаунти для MaxPatrol SIEM и MaxPatrol VM](https://habr.com/ru/companies/pt/news/802193/?utm_campaign=802193&utm_source=habrahabr&utm_medium=rss)
 - [Авто.ру запустил нейросеть, которая определяет состояние автомобиля по фото](https://habr.com/ru/news/802187/?utm_campaign=802187&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила общедоступную предварительную версию Copilot в базе данных SQL Azure](https://habr.com/ru/news/802169/?utm_campaign=802169&utm_source=habrahabr&utm_medium=rss)
-- [«СберТех» и платформа GitVerse запустили конкурсы для разработчиков с призовым фондом 500 тыс. рублей](https://habr.com/ru/news/802149/?utm_campaign=802149&utm_source=habrahabr&utm_medium=rss)
-- [GitHub начала тестирование системы Code Scanning Autofix для обработки оповещений об уязвимостях в коде](https://habr.com/ru/news/802145/?utm_campaign=802145&utm_source=habrahabr&utm_medium=rss)
-- [GitLab удалила проект Suyu &lpar;форк эмулятора Nintendo Switch Yuzu&rpar; по запросу Nintendo и отключила учётки разработчиков](https://habr.com/ru/news/802143/?utm_campaign=802143&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
