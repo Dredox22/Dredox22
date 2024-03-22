@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Авто.ру запустил нейросеть, которая определяет состояние автомобиля по фото](https://habr.com/ru/news/802187/?utm_campaign=802187&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft запустила общедоступную предварительную версию Copilot в базе данных SQL Azure](https://habr.com/ru/news/802169/?utm_campaign=802169&utm_source=habrahabr&utm_medium=rss)
 - [«СберТех» и платформа GitVerse запустили конкурсы для разработчиков с призовым фондом 500 тыс. рублей](https://habr.com/ru/news/802149/?utm_campaign=802149&utm_source=habrahabr&utm_medium=rss)
 - [GitHub начала тестирование системы Code Scanning Autofix для обработки оповещений об уязвимостях в коде](https://habr.com/ru/news/802145/?utm_campaign=802145&utm_source=habrahabr&utm_medium=rss)
 - [GitLab удалила проект Suyu &lpar;форк эмулятора Nintendo Switch Yuzu&rpar; по запросу Nintendo и отключила учётки разработчиков](https://habr.com/ru/news/802143/?utm_campaign=802143&utm_source=habrahabr&utm_medium=rss)
-- [Издание TechCrunch разбило GPT-нарушителей в магазине OpenAI на категории](https://habr.com/ru/news/802049/?utm_campaign=802049&utm_source=habrahabr&utm_medium=rss)
-- [Финорганизации обяжут определять налоговое резидентство определённых клиентов](https://habr.com/ru/news/802035/?utm_campaign=802035&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
