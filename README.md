@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Fitbit не смогут загружать сторонние приложения в ЕС](https://habr.com/ru/news/802395/?utm_campaign=802395&utm_source=habrahabr&utm_medium=rss)
+- [Суд в Испании постановил заблокировать Telegram](https://habr.com/ru/news/802393/?utm_campaign=802393&utm_source=habrahabr&utm_medium=rss)
 - [Apple отказалась от защищённых маршрутизаторов HomeKit](https://habr.com/ru/news/802391/?utm_campaign=802391&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из Apple установили даты развертывания прошивки 2.0.73 для метки AirTag на «м/д/24» вместо «м/д/2024»](https://habr.com/ru/news/802375/?utm_campaign=802375&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft по умолчанию включила DNS-туннелирование в новой версии подсистемы Windows для Linux &lpar;WSL&rpar; 2.2.1](https://habr.com/ru/news/802371/?utm_campaign=802371&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.77](https://habr.com/ru/news/802369/?utm_campaign=802369&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» рассказала про продажу компаний для нелегальной активности за 2023 и 2024 года](https://habr.com/ru/news/802291/?utm_campaign=802291&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
