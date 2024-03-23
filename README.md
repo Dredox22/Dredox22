@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft по умолчанию включила DNS-туннелирование в новой версии подсистемы Windows для Linux &lpar;WSL&rpar; 2.2.1](https://habr.com/ru/news/802371/?utm_campaign=802371&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Rust 1.77](https://habr.com/ru/news/802369/?utm_campaign=802369&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» рассказала про продажу компаний для нелегальной активности за 2023 и 2024 года](https://habr.com/ru/news/802291/?utm_campaign=802291&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» и ИТМО открыли набор на онлайн-магистратуру «ПО высоконагруженных систем»](https://habr.com/ru/news/802287/?utm_campaign=802287&utm_source=habrahabr&utm_medium=rss)
 - [МТС перешла на собственную антифрод-систему, заменив иностранное ПО](https://habr.com/ru/news/802281/?utm_campaign=802281&utm_source=habrahabr&utm_medium=rss)
-- [KDE: проблема с неофициальными глобальными темами и виджетами из каталога KDE Store после инцидента с удалением данных](https://habr.com/ru/news/802247/?utm_campaign=802247&utm_source=habrahabr&utm_medium=rss)
-- [Путь ИТ-инженера: оффлайн ивент для студентов](https://habr.com/ru/companies/croc/news/802093/?utm_campaign=802093&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
