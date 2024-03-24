@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда инженеров из StorageReview рассчитала число «Пи» до 105 трлн знаков после запятой за 75 суток](https://habr.com/ru/news/802475/?utm_campaign=802475&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики «Смуты» выпустили очередной дневник, посвящённый боевой системе](https://habr.com/ru/news/802407/?utm_campaign=802407&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Fitbit не смогут загружать сторонние приложения в ЕС](https://habr.com/ru/news/802395/?utm_campaign=802395&utm_source=habrahabr&utm_medium=rss)
 - [Суд в Испании постановил заблокировать Telegram](https://habr.com/ru/news/802393/?utm_campaign=802393&utm_source=habrahabr&utm_medium=rss)
 - [Apple отказалась от защищённых маршрутизаторов HomeKit](https://habr.com/ru/news/802391/?utm_campaign=802391&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из Apple установили даты развертывания прошивки 2.0.73 для метки AirTag на «м/д/24» вместо «м/д/2024»](https://habr.com/ru/news/802375/?utm_campaign=802375&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
