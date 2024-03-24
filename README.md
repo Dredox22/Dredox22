@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple получила патент на датчики мозговых волн для Vision Pro](https://habr.com/ru/news/802503/?utm_campaign=802503&utm_source=habrahabr&utm_medium=rss)
 - [Google начала добавлять ответы ИИ в результаты поиска без согласия пользователей](https://habr.com/ru/news/802497/?utm_campaign=802497&utm_source=habrahabr&utm_medium=rss)
 - [Вышла opensource-платформа OpenCat для создания четвероногих роботов-питомцев](https://habr.com/ru/news/802487/?utm_campaign=802487&utm_source=habrahabr&utm_medium=rss)
 - [Команда инженеров из StorageReview рассчитала число «Пи» до 105 трлн знаков после запятой за 75 суток](https://habr.com/ru/news/802475/?utm_campaign=802475&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики «Смуты» выпустили очередной дневник, посвящённый боевой системе](https://habr.com/ru/news/802407/?utm_campaign=802407&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Fitbit не смогут загружать сторонние приложения в ЕС](https://habr.com/ru/news/802395/?utm_campaign=802395&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
