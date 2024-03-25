@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Маркет» выпустил портативные внешние аккумуляторы Commo AEON на 30000/20000/10000 мА·ч с PD 45/35/20 Вт](https://habr.com/ru/news/802535/?utm_campaign=802535&utm_source=habrahabr&utm_medium=rss)
+- [EvaConf 2024 — первая конференция по аналогам Jira и Confluence](https://habr.com/ru/companies/evateam/news/802607/?utm_campaign=802607&utm_source=habrahabr&utm_medium=rss)
 - [Релиз проекта Aegis Authenticator v3.0 &lpar;бесплатное и безопасное 2FA-приложение с открытым исходным кодом для Android&rpar;](https://habr.com/ru/news/802597/?utm_campaign=802597&utm_source=habrahabr&utm_medium=rss)
 - [Полиция США потребовала от Google идентифицировать пользователей, смотревших определённые видео на YouTube](https://habr.com/ru/news/802573/?utm_campaign=802573&utm_source=habrahabr&utm_medium=rss)
 - [Apple получила патент на датчики мозговых волн для Vision Pro](https://habr.com/ru/news/802503/?utm_campaign=802503&utm_source=habrahabr&utm_medium=rss)
-- [Google начала добавлять ответы ИИ в результаты поиска без согласия пользователей](https://habr.com/ru/news/802497/?utm_campaign=802497&utm_source=habrahabr&utm_medium=rss)
-- [Вышла opensource-платформа OpenCat для создания четвероногих роботов-питомцев](https://habr.com/ru/news/802487/?utm_campaign=802487&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
