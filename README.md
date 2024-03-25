@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В блоге Apple рассказали про Adwaita — фреймворк для разработки GNOME-приложений на Swift](https://habr.com/ru/news/802837/?utm_campaign=802837&utm_source=habrahabr&utm_medium=rss)
 - [Для Apple TV анонсировали джейлбрейк](https://habr.com/ru/news/802825/?utm_campaign=802825&utm_source=habrahabr&utm_medium=rss)
 - [Электромобиль Xiaomi SU7 будет стоить менее $70 тыс](https://habr.com/ru/news/802781/?utm_campaign=802781&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/802771/?utm_campaign=802771&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты фирменных магазинов Apple Store с апреля 2024 года смогут обновлять iPhone без вскрытия упаковки](https://habr.com/ru/news/802765/?utm_campaign=802765&utm_source=habrahabr&utm_medium=rss)
-- [Суд Испании приостановил решение о блокировке Telegram в стране](https://habr.com/ru/news/802739/?utm_campaign=802739&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
