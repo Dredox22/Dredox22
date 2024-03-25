@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Электромобиль Xiaomi SU7 будет стоить менее $70 тыс](https://habr.com/ru/news/802781/?utm_campaign=802781&utm_source=habrahabr&utm_medium=rss)
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/802771/?utm_campaign=802771&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты фирменных магазинов Apple Store с апреля 2024 года смогут обновлять iPhone без вскрытия упаковки](https://habr.com/ru/news/802765/?utm_campaign=802765&utm_source=habrahabr&utm_medium=rss)
 - [Суд Испании приостановил решение о блокировке Telegram в стране](https://habr.com/ru/news/802739/?utm_campaign=802739&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 123](https://habr.com/ru/news/802737/?utm_campaign=802737&utm_source=habrahabr&utm_medium=rss)
-- [Дэйв Пламмер: про создание временной формы диалогового окна Format для Windows NT, которая в итоге прижилась на 30 лет](https://habr.com/ru/news/802693/?utm_campaign=802693&utm_source=habrahabr&utm_medium=rss)
-- [Робот-гуманоид Unitree H1 сделал сальто назад без гидравлики](https://habr.com/ru/news/802691/?utm_campaign=802691&utm_source=habrahabr&utm_medium=rss)
-- [В РФ распространилась новая мошенническая схема, связанная с атаками на абонентов крупных операторов связи](https://habr.com/ru/news/802681/?utm_campaign=802681&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
