@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз проекта Aegis Authenticator v3.0 &lpar;бесплатное и безопасное 2FA-приложение с открытым исходным кодом для Android&rpar;](https://habr.com/ru/news/802597/?utm_campaign=802597&utm_source=habrahabr&utm_medium=rss)
 - [Полиция США потребовала от Google идентифицировать пользователей, смотревших определённые видео на YouTube](https://habr.com/ru/news/802573/?utm_campaign=802573&utm_source=habrahabr&utm_medium=rss)
 - [Apple получила патент на датчики мозговых волн для Vision Pro](https://habr.com/ru/news/802503/?utm_campaign=802503&utm_source=habrahabr&utm_medium=rss)
 - [Google начала добавлять ответы ИИ в результаты поиска без согласия пользователей](https://habr.com/ru/news/802497/?utm_campaign=802497&utm_source=habrahabr&utm_medium=rss)
 - [Вышла opensource-платформа OpenCat для создания четвероногих роботов-питомцев](https://habr.com/ru/news/802487/?utm_campaign=802487&utm_source=habrahabr&utm_medium=rss)
-- [Команда инженеров из StorageReview рассчитала число «Пи» до 105 трлн знаков после запятой за 75 суток](https://habr.com/ru/news/802475/?utm_campaign=802475&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
