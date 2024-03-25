@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дэйв Пламмер: про создание временной формы диалогового окна Format для Windows NT, которая в итоге прижилась на 30 лет](https://habr.com/ru/news/802693/?utm_campaign=802693&utm_source=habrahabr&utm_medium=rss)
+- [Робот-гуманоид Unitree H1 сделал сальто назад без гидравлики](https://habr.com/ru/news/802691/?utm_campaign=802691&utm_source=habrahabr&utm_medium=rss)
 - [В РФ распространилась новая мошенническая схема, связанная с атаками на абонентов крупных операторов связи](https://habr.com/ru/news/802681/?utm_campaign=802681&utm_source=habrahabr&utm_medium=rss)
 - [Volley представила теннисную пушку с искусственным интеллектом, которая имитирует реальную игру](https://habr.com/ru/news/802677/?utm_campaign=802677&utm_source=habrahabr&utm_medium=rss)
 - [Языковую модель Mistral-7B научили играть в Doom](https://habr.com/ru/news/802667/?utm_campaign=802667&utm_source=habrahabr&utm_medium=rss)
-- [Google открыла бесплатный доступ к Gemini 1.5 Pro](https://habr.com/ru/news/802665/?utm_campaign=802665&utm_source=habrahabr&utm_medium=rss)
-- [Worldcoin Foundation открыл исходные коды компонентов проекта и сферы Orb](https://habr.com/ru/news/802655/?utm_campaign=802655&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
