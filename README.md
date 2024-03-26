@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI показала, как Sora используют творческие профессионалы](https://habr.com/ru/news/802931/?utm_campaign=802931&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD Механика PRO: развиваем новый продукт вместе с пользователями](https://habr.com/ru/companies/nanosoft/news/802929/?utm_campaign=802929&utm_source=habrahabr&utm_medium=rss)
+- [Ассоциация банков России попросила власти отказаться от введения оборотных штрафов за утечки информации](https://habr.com/ru/news/802927/?utm_campaign=802927&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на Международную научную конференцию «Математика в созвездии наук»](https://habr.com/ru/companies/usetech/news/802923/?utm_campaign=802923&utm_source=habrahabr&utm_medium=rss)
 - [Результаты поиска Google с ИИ продвигают сайты с вредоносным ПО](https://habr.com/ru/news/802919/?utm_campaign=802919&utm_source=habrahabr&utm_medium=rss)
-- [Tesla будет проводить инструктаж по FSD для покупателей и давать пробную версию на месяц](https://habr.com/ru/news/802911/?utm_campaign=802911&utm_source=habrahabr&utm_medium=rss)
-- [Призрак в архиве: эксперты F.A.C.C.T. обнаружили атаки новой группы кибершпионов](https://habr.com/ru/companies/f_a_c_c_t/news/802907/?utm_campaign=802907&utm_source=habrahabr&utm_medium=rss)
-- [Платформа управления виртуализацией VMmanager пройдет сертификацию ФСТЭК](https://habr.com/ru/companies/ispsystem/news/786790/?utm_campaign=786790&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз генератора статических сайтов VitePress 1.0](https://habr.com/ru/news/802893/?utm_campaign=802893&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
