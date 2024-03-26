@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд в Лондоне отказался немедленно экстрадировать Джулиана Ассанжа в США](https://habr.com/ru/news/802987/?utm_campaign=802987&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft улучшила рендеринг шрифтов Chrome в Windows 11 и Windows 10](https://habr.com/ru/news/802971/?utm_campaign=802971&utm_source=habrahabr&utm_medium=rss)
 - [«Байкал Электроникс» расширит эксперимент по корпусированию своих чипов в России](https://habr.com/ru/news/802955/?utm_campaign=802955&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI показала, как Sora используют творческие профессионалы](https://habr.com/ru/news/802931/?utm_campaign=802931&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD Механика PRO: развиваем новый продукт вместе с пользователями](https://habr.com/ru/companies/nanosoft/news/802929/?utm_campaign=802929&utm_source=habrahabr&utm_medium=rss)
-- [Ассоциация банков России попросила власти отказаться от введения оборотных штрафов за утечки информации](https://habr.com/ru/news/802927/?utm_campaign=802927&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на Международную научную конференцию «Математика в созвездии наук»](https://habr.com/ru/companies/usetech/news/802923/?utm_campaign=802923&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
