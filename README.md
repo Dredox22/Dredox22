@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты предупредили об опасности участия в схеме Telegram «Premium в обмен на отправку СМС с кодами авторизации»](https://habr.com/ru/news/802855/?utm_campaign=802855&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp работает над размещением чат-бота с ИИ от Meta* прямо в строке поиска мессенджера](https://habr.com/ru/news/802853/?utm_campaign=802853&utm_source=habrahabr&utm_medium=rss)
 - [В РФ появилась онлайн-платформа myChess — аналог шахматного портала Chess.com](https://habr.com/ru/news/802851/?utm_campaign=802851&utm_source=habrahabr&utm_medium=rss)
 - [В блоге Apple рассказали про Adwaita — фреймворк для разработки GNOME-приложений на Swift](https://habr.com/ru/news/802837/?utm_campaign=802837&utm_source=habrahabr&utm_medium=rss)
 - [Для Apple TV анонсировали джейлбрейк](https://habr.com/ru/news/802825/?utm_campaign=802825&utm_source=habrahabr&utm_medium=rss)
-- [Электромобиль Xiaomi SU7 будет стоить менее $70 тыс](https://habr.com/ru/news/802781/?utm_campaign=802781&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/802771/?utm_campaign=802771&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
