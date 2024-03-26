@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp начинает внедрять функцию перемотки видео](https://habr.com/ru/news/803095/?utm_campaign=803095&utm_source=habrahabr&utm_medium=rss)
+- [Xbox Cloud Gaming теперь поддерживает мышь и клавиатуру в некоторых играх](https://habr.com/ru/news/803093/?utm_campaign=803093&utm_source=habrahabr&utm_medium=rss)
+- [WWDC 2024 пройдет с 10 по 14 июня](https://habr.com/ru/news/803089/?utm_campaign=803089&utm_source=habrahabr&utm_medium=rss)
 - [IT‑кампус НЕЙМАРК и Angara Security опросили студентов по теме работы и учёбы в информационной безопасности](https://habr.com/ru/news/803087/?utm_campaign=803087&utm_source=habrahabr&utm_medium=rss)
 - [Федеральный суд США оштрафовал физлицо на $9 918 000 за совершение тысяч робозвонков](https://habr.com/ru/news/803023/?utm_campaign=803023&utm_source=habrahabr&utm_medium=rss)
-- [Воронеж, приглашаем на офлайн-митап по мобильной разработке](https://habr.com/ru/companies/surfstudio/news/803009/?utm_campaign=803009&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft откатили обновление Windows Terminal из-за проблемы с запуском на ПК со старыми процессорами](https://habr.com/ru/news/803003/?utm_campaign=803003&utm_source=habrahabr&utm_medium=rss)
-- [«Медплант» запатентовала портативный электрический аспиратор](https://habr.com/ru/news/802999/?utm_campaign=802999&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
