@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Microsoft откатили обновление Windows Terminal из-за проблемы с запуском на ПК со старыми процессорами](https://habr.com/ru/news/803003/?utm_campaign=803003&utm_source=habrahabr&utm_medium=rss)
+- [«Медплант» запатентовала портативный электрический аспиратор](https://habr.com/ru/news/802999/?utm_campaign=802999&utm_source=habrahabr&utm_medium=rss)
 - [Суд в Лондоне отказался немедленно экстрадировать Джулиана Ассанжа в США](https://habr.com/ru/news/802987/?utm_campaign=802987&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft улучшила рендеринг шрифтов Chrome в Windows 11 и Windows 10](https://habr.com/ru/news/802971/?utm_campaign=802971&utm_source=habrahabr&utm_medium=rss)
 - [«Байкал Электроникс» расширит эксперимент по корпусированию своих чипов в России](https://habr.com/ru/news/802955/?utm_campaign=802955&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI показала, как Sora используют творческие профессионалы](https://habr.com/ru/news/802931/?utm_campaign=802931&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD Механика PRO: развиваем новый продукт вместе с пользователями](https://habr.com/ru/companies/nanosoft/news/802929/?utm_campaign=802929&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
