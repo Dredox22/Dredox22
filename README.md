@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Результаты поиска Google с ИИ продвигают сайты с вредоносным ПО](https://habr.com/ru/news/802919/?utm_campaign=802919&utm_source=habrahabr&utm_medium=rss)
+- [Tesla будет проводить инструктаж по FSD для покупателей и давать пробную версию на месяц](https://habr.com/ru/news/802911/?utm_campaign=802911&utm_source=habrahabr&utm_medium=rss)
+- [Призрак в архиве: эксперты F.A.C.C.T. обнаружили атаки новой группы кибершпионов](https://habr.com/ru/companies/f_a_c_c_t/news/802907/?utm_campaign=802907&utm_source=habrahabr&utm_medium=rss)
 - [Платформа управления виртуализацией VMmanager пройдет сертификацию ФСТЭК](https://habr.com/ru/companies/ispsystem/news/786790/?utm_campaign=786790&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз генератора статических сайтов VitePress 1.0](https://habr.com/ru/news/802893/?utm_campaign=802893&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры внедрили вредонос в крупнейшую бот-платформу Discord](https://habr.com/ru/news/802883/?utm_campaign=802883&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «‎Альтернатива коммуника­ционным платформам Microsoft и Google: CommuniGate Pro»](https://habr.com/ru/companies/nubes/news/802873/?utm_campaign=802873&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты предупредили об опасности участия в схеме Telegram «Premium в обмен на отправку СМС с кодами авторизации»](https://habr.com/ru/news/802855/?utm_campaign=802855&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
