@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «‎Альтернатива коммуника­ционным платформам Microsoft и Google: CommuniGate Pro»](https://habr.com/ru/companies/nubes/news/802873/?utm_campaign=802873&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты предупредили об опасности участия в схеме Telegram «Premium в обмен на отправку СМС с кодами авторизации»](https://habr.com/ru/news/802855/?utm_campaign=802855&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp работает над размещением чат-бота с ИИ от Meta* прямо в строке поиска мессенджера](https://habr.com/ru/news/802853/?utm_campaign=802853&utm_source=habrahabr&utm_medium=rss)
 - [В РФ появилась онлайн-платформа myChess — аналог шахматного портала Chess.com](https://habr.com/ru/news/802851/?utm_campaign=802851&utm_source=habrahabr&utm_medium=rss)
 - [В блоге Apple рассказали про Adwaita — фреймворк для разработки GNOME-приложений на Swift](https://habr.com/ru/news/802837/?utm_campaign=802837&utm_source=habrahabr&utm_medium=rss)
-- [Для Apple TV анонсировали джейлбрейк](https://habr.com/ru/news/802825/?utm_campaign=802825&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
