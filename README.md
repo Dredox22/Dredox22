@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Начался этап бета-тестирования Fedora Linux 40](https://habr.com/ru/news/803133/?utm_campaign=803133&utm_source=habrahabr&utm_medium=rss)
 - [«Веб-сервер» обновила Angie Ingress Controller &lpar;ANIC&rpar;](https://habr.com/ru/news/803115/?utm_campaign=803115&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp начинает внедрять функцию перемотки видео](https://habr.com/ru/news/803095/?utm_campaign=803095&utm_source=habrahabr&utm_medium=rss)
 - [Xbox Cloud Gaming теперь поддерживает мышь и клавиатуру в некоторых играх](https://habr.com/ru/news/803093/?utm_campaign=803093&utm_source=habrahabr&utm_medium=rss)
 - [WWDC 2024 пройдет с 10 по 14 июня](https://habr.com/ru/news/803089/?utm_campaign=803089&utm_source=habrahabr&utm_medium=rss)
-- [IT‑кампус НЕЙМАРК и Angara Security опросили студентов по теме работы и учёбы в информационной безопасности](https://habr.com/ru/news/803087/?utm_campaign=803087&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
