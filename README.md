@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Hack Days впервые пройдет в Бангкоке](https://habr.com/ru/companies/pt/news/802915/?utm_campaign=802915&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт обнаружил в новых версиях Windows 11 старый диспетчер задач, который в Microsoft решили не удалять из системы](https://habr.com/ru/news/803145/?utm_campaign=803145&utm_source=habrahabr&utm_medium=rss)
+- [Apple объявит 28 марта победителей конкурса Swift Student Challenge 2024](https://habr.com/ru/news/803143/?utm_campaign=803143&utm_source=habrahabr&utm_medium=rss)
 - [QEMU-форум пройдёт 17 мая в Великом Новгороде](https://habr.com/ru/companies/isp_ras/news/797867/?utm_campaign=797867&utm_source=habrahabr&utm_medium=rss)
 - [Релиз планетария с открытым кодом Stellarium 24.1](https://habr.com/ru/news/803139/?utm_campaign=803139&utm_source=habrahabr&utm_medium=rss)
-- [Начался этап бета-тестирования Fedora Linux 40](https://habr.com/ru/news/803133/?utm_campaign=803133&utm_source=habrahabr&utm_medium=rss)
-- [«Веб-сервер» обновила Angie Ingress Controller &lpar;ANIC&rpar;](https://habr.com/ru/news/803115/?utm_campaign=803115&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp начинает внедрять функцию перемотки видео](https://habr.com/ru/news/803095/?utm_campaign=803095&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
