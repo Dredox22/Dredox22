@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Слухи: Apple провела внутреннее тестирование нового Apple Pencil с поддержкой VisionOS](https://habr.com/ru/news/803391/?utm_campaign=803391&utm_source=habrahabr&utm_medium=rss)
 - [В «Байкал Электроникс» прокомментировали сообщения в СМИ об эксперименте по корпусированию чипов](https://habr.com/ru/news/803367/?utm_campaign=803367&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft автоматически ставит приложение Copilot на многие ПК с Windows 11, файл весит 0 байт, его можно удалить](https://habr.com/ru/news/803331/?utm_campaign=803331&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила крупное обновление под названием Moment 5 для Windows 11 для всех пользователей](https://habr.com/ru/news/803307/?utm_campaign=803307&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия Security Vision 5](https://habr.com/ru/news/803265/?utm_campaign=803265&utm_source=habrahabr&utm_medium=rss)
-- [Президент дал поручение о производстве игровых приставок и консолей в России](https://habr.com/ru/news/803263/?utm_campaign=803263&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
