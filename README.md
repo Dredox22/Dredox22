@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия Security Vision 5](https://habr.com/ru/news/803265/?utm_campaign=803265&utm_source=habrahabr&utm_medium=rss)
+- [Президент дал поручение о производстве игровых приставок и консолей в России](https://habr.com/ru/news/803263/?utm_campaign=803263&utm_source=habrahabr&utm_medium=rss)
+- [«МегаФон» начал внедрение отечественных маршрутизаторов в работающую сотовую сеть](https://habr.com/ru/news/803243/?utm_campaign=803243&utm_source=habrahabr&utm_medium=rss)
 - [Плагин модерации изображений для компонента конкурсов NorrCompetition](https://habr.com/ru/news/803235/?utm_campaign=803235&utm_source=habrahabr&utm_medium=rss)
 - [VK проведёт открытые уроки по кибербезопасности для школьников](https://habr.com/ru/news/803231/?utm_campaign=803231&utm_source=habrahabr&utm_medium=rss)
-- [Приложения Mir Pay, «СБПэй» и «Привет!» пропали из Google Play](https://habr.com/ru/news/803217/?utm_campaign=803217&utm_source=habrahabr&utm_medium=rss)
-- [У Meta* был секретный проект Project Ghostbusters по расшифровке трафика Snapchat методом атаки Man-in-the-Middle](https://habr.com/ru/news/803213/?utm_campaign=803213&utm_source=habrahabr&utm_medium=rss)
-- [«Дочка» «Ростелекома» зарегистрировала бренд под производство ноутбуков](https://habr.com/ru/news/803209/?utm_campaign=803209&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
