@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Плагин модерации изображений для компонента конкурсов NorrCompetition](https://habr.com/ru/news/803235/?utm_campaign=803235&utm_source=habrahabr&utm_medium=rss)
+- [VK проведёт открытые уроки по кибербезопасности для школьников](https://habr.com/ru/news/803231/?utm_campaign=803231&utm_source=habrahabr&utm_medium=rss)
+- [Приложения Mir Pay, «СБПэй» и «Привет!» пропали из Google Play](https://habr.com/ru/news/803217/?utm_campaign=803217&utm_source=habrahabr&utm_medium=rss)
 - [У Meta* был секретный проект Project Ghostbusters по расшифровке трафика Snapchat методом атаки Man-in-the-Middle](https://habr.com/ru/news/803213/?utm_campaign=803213&utm_source=habrahabr&utm_medium=rss)
 - [«Дочка» «Ростелекома» зарегистрировала бренд под производство ноутбуков](https://habr.com/ru/news/803209/?utm_campaign=803209&utm_source=habrahabr&utm_medium=rss)
-- [Samsung Pay перестанет работать в России](https://habr.com/ru/news/803205/?utm_campaign=803205&utm_source=habrahabr&utm_medium=rss)
-- [ПО Geobox для Raspberry Pi превращает  мини-ПК в анонимные инструменты кибератак](https://habr.com/ru/news/803175/?utm_campaign=803175&utm_source=habrahabr&utm_medium=rss)
-- [Новая эра ПК с ИИ от Microsoft потребует клавиши Copilot на клавиатуре и дополнительных инструментов для разработчиков](https://habr.com/ru/news/803187/?utm_campaign=803187&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
