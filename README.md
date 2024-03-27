@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила крупное обновление под названием Moment 5 для Windows 11 для всех пользователей](https://habr.com/ru/news/803307/?utm_campaign=803307&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия Security Vision 5](https://habr.com/ru/news/803265/?utm_campaign=803265&utm_source=habrahabr&utm_medium=rss)
 - [Президент дал поручение о производстве игровых приставок и консолей в России](https://habr.com/ru/news/803263/?utm_campaign=803263&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» начал внедрение отечественных маршрутизаторов в работающую сотовую сеть](https://habr.com/ru/news/803243/?utm_campaign=803243&utm_source=habrahabr&utm_medium=rss)
 - [Плагин модерации изображений для компонента конкурсов NorrCompetition](https://habr.com/ru/news/803235/?utm_campaign=803235&utm_source=habrahabr&utm_medium=rss)
-- [VK проведёт открытые уроки по кибербезопасности для школьников](https://habr.com/ru/news/803231/?utm_campaign=803231&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
