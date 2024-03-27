@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У Meta* был секретный проект Project Ghostbusters по расшифровке трафика Snapchat методом атаки Man-in-the-Middle](https://habr.com/ru/news/803213/?utm_campaign=803213&utm_source=habrahabr&utm_medium=rss)
+- [«Дочка» «Ростелекома» зарегистрировала бренд под производство ноутбуков](https://habr.com/ru/news/803209/?utm_campaign=803209&utm_source=habrahabr&utm_medium=rss)
+- [Samsung Pay перестанет работать в России](https://habr.com/ru/news/803205/?utm_campaign=803205&utm_source=habrahabr&utm_medium=rss)
+- [ПО Geobox для Raspberry Pi превращает  мини-ПК в анонимные инструменты кибератак](https://habr.com/ru/news/803175/?utm_campaign=803175&utm_source=habrahabr&utm_medium=rss)
 - [Новая эра ПК с ИИ от Microsoft потребует клавиши Copilot на клавиатуре и дополнительных инструментов для разработчиков](https://habr.com/ru/news/803187/?utm_campaign=803187&utm_source=habrahabr&utm_medium=rss)
-- [IT-администраторам в компаниях упростили установку не связанных с безопасностью обновлений Windows 11](https://habr.com/ru/news/803165/?utm_campaign=803165&utm_source=habrahabr&utm_medium=rss)
-- [ИИ применили для восстановления утраченного полотна Веласкеса](https://habr.com/ru/news/803161/?utm_campaign=803161&utm_source=habrahabr&utm_medium=rss)
-- [Unity выпустила многопользовательскую демку Megacity Metro](https://habr.com/ru/news/803155/?utm_campaign=803155&utm_source=habrahabr&utm_medium=rss)
-- [В KrebsOnSecurity предупредили пользователей iPhone о продвинутой фишинговой атаке с сотнями запросов на сброс Apple ID](https://habr.com/ru/news/803153/?utm_campaign=803153&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
