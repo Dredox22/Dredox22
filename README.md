@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров анонсировал опцию по ограничению в Telegram тех пользователей, кто может писать в личку](https://habr.com/ru/news/803773/?utm_campaign=803773&utm_source=habrahabr&utm_medium=rss)
+- [Дизайнер разработал Tiles — устройство, которое возвращает музыку в физический мир](https://habr.com/ru/news/803771/?utm_campaign=803771&utm_source=habrahabr&utm_medium=rss)
 - [Adobe представила GenStudio — ИИ-платформу для маркетинга](https://habr.com/ru/news/803759/?utm_campaign=803759&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Бэнкман-Фрид получил 25 лет тюрьмы за мошенничество](https://habr.com/ru/news/803741/?utm_campaign=803741&utm_source=habrahabr&utm_medium=rss)
 - [Евросоюз назвал главные угрозы в области кибербезопасности на ближайшие шесть лет](https://habr.com/ru/news/803705/?utm_campaign=803705&utm_source=habrahabr&utm_medium=rss)
-- [Market.CNews опубликовал рейтинг российских операционных систем-2024](https://habr.com/ru/news/803681/?utm_campaign=803681&utm_source=habrahabr&utm_medium=rss)
-- [JAXA восстановило связь с модулем SLIM на Луне после второй лунной ночи](https://habr.com/ru/news/803675/?utm_campaign=803675&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
