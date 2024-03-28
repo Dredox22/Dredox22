@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратит поддержку .NET 7 после 14 мая 2024 года](https://habr.com/ru/news/803455/?utm_campaign=803455&utm_source=habrahabr&utm_medium=rss)
+- [Oligo сообщила о массовом взломе сотен кластеров с системами искусственного интеллекта Anyscale Ray](https://habr.com/ru/news/803451/?utm_campaign=803451&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: VK может получить проект на создание российской консоли, а контрактным выпуском устройств займётся GS Group](https://habr.com/ru/news/803449/?utm_campaign=803449&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft будет поставлять Windows 11 24H2 и Windows Server 2025 без WordPad](https://habr.com/ru/news/803429/?utm_campaign=803429&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил приложение с помощью которого можно следить за ходом галактической войны в Helldivers 2](https://habr.com/ru/news/803407/?utm_campaign=803407&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила оптимизированную Arm-версию браузера Chrome](https://habr.com/ru/news/803401/?utm_campaign=803401&utm_source=habrahabr&utm_medium=rss)
-- [Слухи: Apple провела внутреннее тестирование нового Apple Pencil с поддержкой VisionOS](https://habr.com/ru/news/803391/?utm_campaign=803391&utm_source=habrahabr&utm_medium=rss)
-- [В «Байкал Электроникс» прокомментировали сообщения в СМИ об эксперименте по корпусированию чипов](https://habr.com/ru/news/803367/?utm_campaign=803367&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил приложение, с помощью которого можно следить за ходом галактической войны в Helldivers 2](https://habr.com/ru/news/803407/?utm_campaign=803407&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
