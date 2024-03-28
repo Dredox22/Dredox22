@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России подготовят законопроект об усиленной блокировке противоправного контента](https://habr.com/ru/news/803593/?utm_campaign=803593&utm_source=habrahabr&utm_medium=rss)
 - [Знакомство с GitFlic — платформой для разработчиков](https://habr.com/ru/companies/astralinux/news/803583/?utm_campaign=803583&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс представил третье поколение больших языковых моделей YandexGPT](https://habr.com/ru/companies/yandex/news/803271/?utm_campaign=803271&utm_source=habrahabr&utm_medium=rss)
 - [Журналисты показали первое фото специальной системы Presto для обновления iPhone в Apple Store без вскрытия упаковки](https://habr.com/ru/news/803475/?utm_campaign=803475&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил аналог AI Pin с открытым исходным кодом на базе ИИ](https://habr.com/ru/news/803483/?utm_campaign=803483&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку .NET 7 после 14 мая 2024 года](https://habr.com/ru/news/803455/?utm_campaign=803455&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
