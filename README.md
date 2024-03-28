@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Market.CNews опубликовал рейтинг российских операционных систем-2024](https://habr.com/ru/news/803681/?utm_campaign=803681&utm_source=habrahabr&utm_medium=rss)
+- [JAXA восстановило связь с модулем SLIM на Луне после второй лунной ночи](https://habr.com/ru/news/803675/?utm_campaign=803675&utm_source=habrahabr&utm_medium=rss)
 - [На «АТОМЭКСПО-2024» компания «Нанософт» представила инженерное ПО для комплексной автоматизации предприятий](https://habr.com/ru/companies/nanosoft/news/803661/?utm_campaign=803661&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge позволит ограничить объём потребляемой оперативной памяти](https://habr.com/ru/news/803659/?utm_campaign=803659&utm_source=habrahabr&utm_medium=rss)
 - [Всё выше и выше: лучшие специалисты в области BIM-решений «Нанософт» повысили уровень компетенций](https://habr.com/ru/companies/nanosoft/news/803613/?utm_campaign=803613&utm_source=habrahabr&utm_medium=rss)
-- [В России подготовят законопроект об усиленной блокировке противоправного контента](https://habr.com/ru/news/803593/?utm_campaign=803593&utm_source=habrahabr&utm_medium=rss)
-- [Знакомство с GitFlic — платформой для разработчиков](https://habr.com/ru/companies/astralinux/news/803583/?utm_campaign=803583&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
