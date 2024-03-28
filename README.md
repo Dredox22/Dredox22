@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс представил третье поколение больших языковых моделей YandexGPT](https://habr.com/ru/companies/yandex/news/803271/?utm_campaign=803271&utm_source=habrahabr&utm_medium=rss)
+- [Журналисты показали первое фото специальной системы Presto для обновления iPhone в Apple Store без вскрытия упаковки](https://habr.com/ru/news/803475/?utm_campaign=803475&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик представил аналог AI Pin с открытым исходным кодом на базе ИИ](https://habr.com/ru/news/803483/?utm_campaign=803483&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку .NET 7 после 14 мая 2024 года](https://habr.com/ru/news/803455/?utm_campaign=803455&utm_source=habrahabr&utm_medium=rss)
 - [Oligo сообщила о массовом взломе сотен кластеров с системами искусственного интеллекта Anyscale Ray](https://habr.com/ru/news/803451/?utm_campaign=803451&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: VK может получить проект на создание российской консоли, а контрактным выпуском устройств займётся GS Group](https://habr.com/ru/news/803449/?utm_campaign=803449&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft будет поставлять Windows 11 24H2 и Windows Server 2025 без WordPad](https://habr.com/ru/news/803429/?utm_campaign=803429&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил приложение, с помощью которого можно следить за ходом галактической войны в Helldivers 2](https://habr.com/ru/news/803407/?utm_campaign=803407&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
