@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi получила 50 тыс. заказов за 27 минут после старта продаж электромобиля SU7](https://habr.com/ru/news/803939/?utm_campaign=803939&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила руководство по Swift и SwiftUI](https://habr.com/ru/news/803929/?utm_campaign=803929&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» начал выявлять фишинговые сайты с помощью ИИ](https://habr.com/ru/news/803925/?utm_campaign=803925&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» обеспечил связь под водой для сотрудников Нижегородской ГЭС](https://habr.com/ru/news/803871/?utm_campaign=803871&utm_source=habrahabr&utm_medium=rss)
 - [Декомпилятор rev.ng стал открытым](https://habr.com/ru/news/803863/?utm_campaign=803863&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разработала систему для выявления галлюцинаций в ИИ-приложениях клиентов](https://habr.com/ru/news/803857/?utm_campaign=803857&utm_source=habrahabr&utm_medium=rss)
-- [Apple подала в суд на бывшего сотрудника за утечку информации о гарнитуре Vision Pro и приложении Journal](https://habr.com/ru/news/803849/?utm_campaign=803849&utm_source=habrahabr&utm_medium=rss)
-- [В коде утилиты wall из util-linux 10 лет была уязвимость, позволяющая выполнить атаку на терминалы других пользователей](https://habr.com/ru/news/803821/?utm_campaign=803821&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
