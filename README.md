@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МегаФон» обеспечил связь под водой для сотрудников Нижегородской ГЭС](https://habr.com/ru/news/803871/?utm_campaign=803871&utm_source=habrahabr&utm_medium=rss)
+- [Декомпилятор rev.ng стал открытым](https://habr.com/ru/news/803863/?utm_campaign=803863&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разработала систему для выявления галлюцинаций в ИИ-приложениях клиентов](https://habr.com/ru/news/803857/?utm_campaign=803857&utm_source=habrahabr&utm_medium=rss)
 - [Apple подала в суд на бывшего сотрудника за утечку информации о гарнитуре Vision Pro и приложении Journal](https://habr.com/ru/news/803849/?utm_campaign=803849&utm_source=habrahabr&utm_medium=rss)
 - [В коде утилиты wall из util-linux 10 лет была уязвимость, позволяющая выполнить атаку на терминалы других пользователей](https://habr.com/ru/news/803821/?utm_campaign=803821&utm_source=habrahabr&utm_medium=rss)
-- [PyPI временно приостановил регистрацию пользователей](https://habr.com/ru/news/803825/?utm_campaign=803825&utm_source=habrahabr&utm_medium=rss)
-- [Suno представила третью версию нейросети для генерации музыки](https://habr.com/ru/news/803785/?utm_campaign=803785&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
