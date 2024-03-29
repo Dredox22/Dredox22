@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Palmsy — это локальная «социальная сеть», предназначенная только для одного пользователя iPhone или iPad](https://habr.com/ru/news/803981/?utm_campaign=803981&utm_source=habrahabr&utm_medium=rss)
+- [В лаборатории «ФабЛаб» КФУ разработали одноплатный компьютер для малогабаритной беспилотной техники](https://habr.com/ru/news/803975/?utm_campaign=803975&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Элемент» инвестирует в производство диодов и транзисторов на заводе «Микрон» ₽20 млрд](https://habr.com/ru/news/803957/?utm_campaign=803957&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi получила 50 тыс. заказов за 27 минут после старта продаж электромобиля SU7](https://habr.com/ru/news/803939/?utm_campaign=803939&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила руководство по Swift и SwiftUI](https://habr.com/ru/news/803929/?utm_campaign=803929&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» начал выявлять фишинговые сайты с помощью ИИ](https://habr.com/ru/news/803925/?utm_campaign=803925&utm_source=habrahabr&utm_medium=rss)
-- [«МегаФон» обеспечил связь под водой для сотрудников Нижегородской ГЭС](https://habr.com/ru/news/803871/?utm_campaign=803871&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
