@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI анонсировала ИИ-модель Grok-1.5](https://habr.com/ru/news/804023/?utm_campaign=804023&utm_source=habrahabr&utm_medium=rss)
 - [«Швабе» представил лазерный микроскоп для ранней диагностики онкологии](https://habr.com/ru/news/804005/?utm_campaign=804005&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» обновился режим парковки](https://habr.com/ru/news/804003/?utm_campaign=804003&utm_source=habrahabr&utm_medium=rss)
 - [Проект Palmsy — это локальная «социальная сеть», предназначенная только для одного пользователя iPhone или iPad](https://habr.com/ru/news/803981/?utm_campaign=803981&utm_source=habrahabr&utm_medium=rss)
 - [В лаборатории «ФабЛаб» КФУ разработали одноплатный компьютер для малогабаритной беспилотной техники](https://habr.com/ru/news/803975/?utm_campaign=803975&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Элемент» инвестирует в производство диодов и транзисторов на заводе «Микрон» ₽20 млрд](https://habr.com/ru/news/803957/?utm_campaign=803957&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
