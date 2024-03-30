@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 получит встроенный генератор QR-кодов](https://habr.com/ru/news/804045/?utm_campaign=804045&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft построит дата-центр Stargrate для OpenAI за $100 млрд](https://habr.com/ru/news/804043/?utm_campaign=804043&utm_source=habrahabr&utm_medium=rss)
 - [CVE-2024-3094: бэкдор в популярной утилите XZ затрагивает множество популярных дистрибутивов Linux](https://habr.com/ru/news/804039/?utm_campaign=804039&utm_source=habrahabr&utm_medium=rss)
 - [xAI анонсировала ИИ-модель Grok-1.5](https://habr.com/ru/news/804023/?utm_campaign=804023&utm_source=habrahabr&utm_medium=rss)
 - [«Швабе» представил лазерный микроскоп для ранней диагностики онкологии](https://habr.com/ru/news/804005/?utm_campaign=804005&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» обновился режим парковки](https://habr.com/ru/news/804003/?utm_campaign=804003&utm_source=habrahabr&utm_medium=rss)
-- [Проект Palmsy — это локальная «социальная сеть», предназначенная только для одного пользователя iPhone или iPad](https://habr.com/ru/news/803981/?utm_campaign=803981&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
