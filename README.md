@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для модели Voice Engine от OpenAI требуется всего лишь 15-секундный образец для клонирования голоса](https://habr.com/ru/news/804051/?utm_campaign=804051&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила инструмент для веб-разработки Babylon.js 7.0 с новыми опциями процедурной геометрии](https://habr.com/ru/news/804047/?utm_campaign=804047&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит встроенный генератор QR-кодов](https://habr.com/ru/news/804045/?utm_campaign=804045&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft построит дата-центр Stargrate для OpenAI за $100 млрд](https://habr.com/ru/news/804043/?utm_campaign=804043&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft построит дата-центр Stargate для OpenAI за $100 млрд](https://habr.com/ru/news/804043/?utm_campaign=804043&utm_source=habrahabr&utm_medium=rss)
 - [CVE-2024-3094: бэкдор в популярной утилите XZ затрагивает множество популярных дистрибутивов Linux](https://habr.com/ru/news/804039/?utm_campaign=804039&utm_source=habrahabr&utm_medium=rss)
-- [xAI анонсировала ИИ-модель Grok-1.5](https://habr.com/ru/news/804023/?utm_campaign=804023&utm_source=habrahabr&utm_medium=rss)
-- [«Швабе» представил лазерный микроскоп для ранней диагностики онкологии](https://habr.com/ru/news/804005/?utm_campaign=804005&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
