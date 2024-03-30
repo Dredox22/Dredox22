@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AT&amp;amp;T подтвердила утечку данных 73 млн клиентов](https://habr.com/ru/news/804137/?utm_campaign=804137&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» рассказала  о Linux-версии вредоноса DinodasRAT](https://habr.com/ru/news/804117/?utm_campaign=804117&utm_source=habrahabr&utm_medium=rss)
 - [Дайджест конференций по проектированию программ и архитектуре на апрель и май 2024](https://habr.com/ru/news/804109/?utm_campaign=804109&utm_source=habrahabr&utm_medium=rss)
 - [Windows Defender vs Check Point Harmony Endpoint Protection](https://habr.com/ru/companies/tssolution/news/803313/?utm_campaign=803313&utm_source=habrahabr&utm_medium=rss)
 - [Книги, созданные искусственным интеллектом, заполонили экраны блокировки пользователей Kindle](https://habr.com/ru/news/804065/?utm_campaign=804065&utm_source=habrahabr&utm_medium=rss)
-- [Исправлена проблема падения производительности после обновления Windows 11 на ноутбуках с AMD и в Asus Rog Ally](https://habr.com/ru/news/804057/?utm_campaign=804057&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
