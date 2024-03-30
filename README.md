@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Defender vs Check Point Harmony Endpoint Protection](https://habr.com/ru/companies/tssolution/news/803313/?utm_campaign=803313&utm_source=habrahabr&utm_medium=rss)
+- [Книги, созданные искусственным интеллектом, заполонили экраны блокировки пользователей Kindle](https://habr.com/ru/news/804065/?utm_campaign=804065&utm_source=habrahabr&utm_medium=rss)
 - [Исправлена проблема падения производительности после обновления Windows 11 на ноутбуках с AMD и в Asus Rog Ally](https://habr.com/ru/news/804057/?utm_campaign=804057&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в апреле](https://habr.com/ru/companies/netologyru/news/803819/?utm_campaign=803819&utm_source=habrahabr&utm_medium=rss)
 - [Для модели Voice Engine от OpenAI требуется всего лишь 15-секундный образец для клонирования голоса](https://habr.com/ru/news/804051/?utm_campaign=804051&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила инструмент для веб-разработки Babylon.js 7.0 с новыми опциями процедурной геометрии](https://habr.com/ru/news/804047/?utm_campaign=804047&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 получит встроенный генератор QR-кодов](https://habr.com/ru/news/804045/?utm_campaign=804045&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
