@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В FFmpeg ускорили декодинг HEVC на Apple M1 на 60 %](https://habr.com/ru/news/804269/?utm_campaign=804269&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft вернула возможность перетаскивания файлов в адресную строку в проводнике Windows 11](https://habr.com/ru/news/804257/?utm_campaign=804257&utm_source=habrahabr&utm_medium=rss)
 - [«Сайберия нова» представила демо‑режим игры «Смута» под названием «Смутное время»](https://habr.com/ru/news/804229/?utm_campaign=804229&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia создала цифровой двойник Земли](https://habr.com/ru/news/804191/?utm_campaign=804191&utm_source=habrahabr&utm_medium=rss)
 - [Инженер представил прототип видеоадаптера FuryGpu на базе ПЛИС Xilinx Zynq UltraScale+](https://habr.com/ru/news/804179/?utm_campaign=804179&utm_source=habrahabr&utm_medium=rss)
-- [Dropbox стал доступен в Microsoft Store в Windows 10 и 11](https://habr.com/ru/news/804167/?utm_campaign=804167&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
