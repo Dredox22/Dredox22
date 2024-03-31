@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia создала цифровой двойник Земли](https://habr.com/ru/news/804191/?utm_campaign=804191&utm_source=habrahabr&utm_medium=rss)
 - [Dropbox стал доступен в Microsoft Store в Windows 10 и 11](https://habr.com/ru/news/804167/?utm_campaign=804167&utm_source=habrahabr&utm_medium=rss)
 - [Бэкдор в xz нашли из-за замедления работы sshd в полсекунды](https://habr.com/ru/news/804163/?utm_campaign=804163&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NetBSD 10.0](https://habr.com/ru/news/804159/?utm_campaign=804159&utm_source=habrahabr&utm_medium=rss)
 - [AT&amp;amp;T подтвердила утечку данных 73 млн клиентов](https://habr.com/ru/news/804137/?utm_campaign=804137&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» рассказала  о Linux-версии вредоноса DinodasRAT](https://habr.com/ru/news/804117/?utm_campaign=804117&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
