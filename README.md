@@ -68,10 +68,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT теперь доступен без регистрации](https://habr.com/ru/news/804627/?utm_campaign=804627&utm_source=habrahabr&utm_medium=rss)
 - [Apple отказалась разблокировать iPhone конкурента премьер-министра Индии на выборах](https://habr.com/ru/news/804623/?utm_campaign=804623&utm_source=habrahabr&utm_medium=rss)
 - [Intel планирует опередить TSMC в выпуске чипов 2 нм](https://habr.com/ru/companies/dcmiran/news/804611/?utm_campaign=804611&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» приобрела часть компании-разработчика решений по повышению киберграмотности Secure-T](https://habr.com/ru/news/804593/?utm_campaign=804593&utm_source=habrahabr&utm_medium=rss)
-- [MacPaw выпустила приложение-клинер для iPhone](https://habr.com/ru/news/804583/?utm_campaign=804583&utm_source=habrahabr&utm_medium=rss)
 - [В Signal признали ошибку с реализацией привязки номера к имени](https://habr.com/ru/news/804571/?utm_campaign=804571&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
