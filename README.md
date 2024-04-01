@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Автор Letsblock.it объявил о закрытии проекта в конце июня 2024 года](https://habr.com/ru/news/804545/?utm_campaign=804545&utm_source=habrahabr&utm_medium=rss)
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/804543/?utm_campaign=804543&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор, вероятно, начал блокировать подключения к Cloudflare по TLS fingerprint](https://habr.com/ru/news/804531/?utm_campaign=804531&utm_source=habrahabr&utm_medium=rss)
+- [Softline: Microsoft по состоянию на 1 апреля не заблокировала свои облачные продукты в РФ](https://habr.com/ru/news/804527/?utm_campaign=804527&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия СУБД Postgres Pro Enterprise 16.2.1](https://habr.com/ru/news/804487/?utm_campaign=804487&utm_source=habrahabr&utm_medium=rss)
-- [Системный анализ в 2024 году: открытый митап группы ЛАНИТ](https://habr.com/ru/companies/lanit/news/804469/?utm_campaign=804469&utm_source=habrahabr&utm_medium=rss)
-- [Yadro начала продажи планшета KVADRA_T](https://habr.com/ru/news/804463/?utm_campaign=804463&utm_source=habrahabr&utm_medium=rss)
-- [Конкурс на выбывание: как у медиаменеджеров угоняют аккаунты в Telegram](https://habr.com/ru/companies/f_a_c_c_t/news/804417/?utm_campaign=804417&utm_source=habrahabr&utm_medium=rss)
-- [Форк Newspaper4k продолжает развитие библиотеки Newspaper3k](https://habr.com/ru/news/804355/?utm_campaign=804355&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
