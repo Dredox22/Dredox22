@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MacPaw выпустила приложение-клинер для iPhone](https://habr.com/ru/news/804583/?utm_campaign=804583&utm_source=habrahabr&utm_medium=rss)
+- [В Signal признали ошибку с реализацией привязки номера к имени](https://habr.com/ru/news/804571/?utm_campaign=804571&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры из США представили моноколёсного робота Ringbot](https://habr.com/ru/news/804567/?utm_campaign=804567&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила для тестеров экспериментальную версию MSBuild](https://habr.com/ru/news/804561/?utm_campaign=804561&utm_source=habrahabr&utm_medium=rss)
 - [Автор Letsblock.it объявил о закрытии проекта в конце июня 2024 года](https://habr.com/ru/news/804545/?utm_campaign=804545&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/804543/?utm_campaign=804543&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор, вероятно, начал блокировать подключения к Cloudflare по TLS fingerprint](https://habr.com/ru/news/804531/?utm_campaign=804531&utm_source=habrahabr&utm_medium=rss)
-- [Softline: Microsoft по состоянию на 1 апреля не заблокировала свои облачные продукты в РФ](https://habr.com/ru/news/804527/?utm_campaign=804527&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия СУБД Postgres Pro Enterprise 16.2.1](https://habr.com/ru/news/804487/?utm_campaign=804487&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
