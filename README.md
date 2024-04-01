@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык программирования Mojo вышел в опенсорс](https://habr.com/ru/news/804637/?utm_campaign=804637&utm_source=habrahabr&utm_medium=rss)
+- [Более 14 тыс. владельцев Qiwi-кошельков подали требования кредиторов онлайн с 26 марта](https://habr.com/ru/news/804635/?utm_campaign=804635&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь доступен без регистрации](https://habr.com/ru/news/804627/?utm_campaign=804627&utm_source=habrahabr&utm_medium=rss)
 - [Apple отказалась разблокировать iPhone конкурента премьер-министра Индии на выборах](https://habr.com/ru/news/804623/?utm_campaign=804623&utm_source=habrahabr&utm_medium=rss)
 - [Intel планирует опередить TSMC в выпуске чипов 2 нм](https://habr.com/ru/companies/dcmiran/news/804611/?utm_campaign=804611&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» приобрела часть компании-разработчика решений по повышению киберграмотности Secure-T](https://habr.com/ru/news/804593/?utm_campaign=804593&utm_source=habrahabr&utm_medium=rss)
-- [В Signal признали ошибку с реализацией привязки номера к имени](https://habr.com/ru/news/804571/?utm_campaign=804571&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
