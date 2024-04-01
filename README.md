@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yadro начала продажи планшета KVADRA_T](https://habr.com/ru/news/804463/?utm_campaign=804463&utm_source=habrahabr&utm_medium=rss)
 - [Конкурс на выбывание: как у медиаменеджеров угоняют аккаунты в Telegram](https://habr.com/ru/companies/f_a_c_c_t/news/804417/?utm_campaign=804417&utm_source=habrahabr&utm_medium=rss)
 - [Форк Newspaper4k продолжает развитие библиотеки Newspaper3k](https://habr.com/ru/news/804355/?utm_campaign=804355&utm_source=habrahabr&utm_medium=rss)
 - [Slow Mo Guys показали работу внутренних ИК-светодиодов гарнитуры Vision Pro, которые сканируют глаза пользователя](https://habr.com/ru/news/804353/?utm_campaign=804353&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft инвестирует $10 млн на создание российского аналога GitHub](https://habr.com/ru/news/804347/?utm_campaign=804347&utm_source=habrahabr&utm_medium=rss)
-- [В России появится свой JavaScript](https://habr.com/ru/news/804319/?utm_campaign=804319&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
