@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Солар» приобрела часть компании-разработчика решений по повышению киберграмотности Secure-T](https://habr.com/ru/news/804593/?utm_campaign=804593&utm_source=habrahabr&utm_medium=rss)
 - [MacPaw выпустила приложение-клинер для iPhone](https://habr.com/ru/news/804583/?utm_campaign=804583&utm_source=habrahabr&utm_medium=rss)
 - [В Signal признали ошибку с реализацией привязки номера к имени](https://habr.com/ru/news/804571/?utm_campaign=804571&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры из США представили моноколёсного робота Ringbot](https://habr.com/ru/news/804567/?utm_campaign=804567&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила для тестеров экспериментальную версию MSBuild](https://habr.com/ru/news/804561/?utm_campaign=804561&utm_source=habrahabr&utm_medium=rss)
-- [Автор Letsblock.it объявил о закрытии проекта в конце июня 2024 года](https://habr.com/ru/news/804545/?utm_campaign=804545&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
