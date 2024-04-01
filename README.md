@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft инвестирует $10 млн на создание российского аналога GitHub](https://habr.com/ru/news/804347/?utm_campaign=804347&utm_source=habrahabr&utm_medium=rss)
 - [В России появится свой JavaScript](https://habr.com/ru/news/804319/?utm_campaign=804319&utm_source=habrahabr&utm_medium=rss)
 - [Huawei и метеобюро Шэньчжэня запустили ИИ-модель прогнозирования погоды с точностью до 3 км](https://habr.com/ru/news/804309/?utm_campaign=804309&utm_source=habrahabr&utm_medium=rss)
 - [Telegram обновил программу монетизации для владельцев каналов](https://habr.com/ru/news/804307/?utm_campaign=804307&utm_source=habrahabr&utm_medium=rss)
 - [В FFmpeg ускорили декодинг HEVC на Apple M1 на 60 %](https://habr.com/ru/news/804269/?utm_campaign=804269&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft вернула возможность перетаскивания файлов в адресную строку в проводнике Windows 11](https://habr.com/ru/news/804257/?utm_campaign=804257&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
