@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [США предлагают награду в $10 млн за информацию о хакерах BlackCat за атаку на сервисы UnitedHealth](https://habr.com/ru/news/804889/?utm_campaign=804889&utm_source=habrahabr&utm_medium=rss)
 - [«По горячим ссылкам». Участвуйте в квесте от Selectel и получайте до 15 000 бонусов](https://habr.com/ru/companies/selectel/news/804855/?utm_campaign=804855&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на стажировку по направлению QA ГНИВЦ](https://habr.com/ru/news/804859/?utm_campaign=804859&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на стажировку ГНИВЦ по направлению QA](https://habr.com/ru/news/804859/?utm_campaign=804859&utm_source=habrahabr&utm_medium=rss)
 - [Российские разработчики мобильных ОС и Минцифры обсуждают совместимость с ними приложений из списка отечественного ПО](https://habr.com/ru/news/804849/?utm_campaign=804849&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Edge Canary для Android можно устанавливать любые браузерные расширения](https://habr.com/ru/news/804809/?utm_campaign=804809&utm_source=habrahabr&utm_medium=rss)
-- [Четвероногий робот научился паркуру для преодоления препятствий](https://habr.com/ru/news/804765/?utm_campaign=804765&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
