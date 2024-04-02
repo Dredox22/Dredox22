@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтернативный магазин приложений AltStore в ЕС будет предлагать приложения на iOS, поддерживаемые через Patreon](https://habr.com/ru/news/804677/?utm_campaign=804677&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Bun 1.1 — среды выполнения JavaScript и TypeScript](https://habr.com/ru/news/804665/?utm_campaign=804665&utm_source=habrahabr&utm_medium=rss)
 - [Язык программирования Mojo вышел в опенсорс](https://habr.com/ru/news/804637/?utm_campaign=804637&utm_source=habrahabr&utm_medium=rss)
 - [Более 14 тыс. владельцев Qiwi-кошельков подали требования кредиторов онлайн с 26 марта](https://habr.com/ru/news/804635/?utm_campaign=804635&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь доступен без регистрации](https://habr.com/ru/news/804627/?utm_campaign=804627&utm_source=habrahabr&utm_medium=rss)
-- [Apple отказалась разблокировать iPhone конкурента премьер-министра Индии на выборах](https://habr.com/ru/news/804623/?utm_campaign=804623&utm_source=habrahabr&utm_medium=rss)
-- [Intel планирует опередить TSMC в выпуске чипов 2 нм](https://habr.com/ru/companies/dcmiran/news/804611/?utm_campaign=804611&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
