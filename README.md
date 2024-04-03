@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло расширение для Chrome, превращающее в квадрат круглый аватар пользователя GitHub](https://habr.com/ru/news/804949/?utm_campaign=804949&utm_source=habrahabr&utm_medium=rss)
+- [Telegram будет предупреждать пользователей без подписки о сниженной скорости загрузки](https://habr.com/ru/news/804963/?utm_campaign=804963&utm_source=habrahabr&utm_medium=rss)
+- [Amazon представила AWS Deadline Cloud для быстрой настройки облачной высокопроизводительной платформы для рендеринга](https://habr.com/ru/news/804959/?utm_campaign=804959&utm_source=habrahabr&utm_medium=rss)
 - [Amazon закрыла в США магазины Just Walk Out, где клиенты могли брать товары и выходить без прохода через кассу](https://habr.com/ru/news/804947/?utm_campaign=804947&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики стратегии «Космос — пространство будущего»: игра дошла до состояния альфа-версии](https://habr.com/ru/news/804945/?utm_campaign=804945&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи не смогли получить от ИИ-сервисов Midjourney и DALL-E от OpenAI картинку с чистым белым фоном](https://habr.com/ru/news/804933/?utm_campaign=804933&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры опубликовали проект бюджетной робо-руки GELLO](https://habr.com/ru/news/804925/?utm_campaign=804925&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
