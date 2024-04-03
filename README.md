@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WSJ: OpenAI рассматривает возможность использования транскрипций с YouTube для обучения GPT-5](https://habr.com/ru/news/805063/?utm_campaign=805063&utm_source=habrahabr&utm_medium=rss)
+- [Joomla Community Magazine. Март 2024](https://habr.com/ru/news/805059/?utm_campaign=805059&utm_source=habrahabr&utm_medium=rss)
 - [Апрельский «Ecom и Вино»: что будет на третьей встрече экспертов электронной торговли](https://habr.com/ru/companies/agima/news/804995/?utm_campaign=804995&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «ПО для промышленности: защитить и монетизировать»](https://habr.com/ru/companies/aktiv-company/news/805025/?utm_campaign=805025&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз WordPress 6.5 Regina](https://habr.com/ru/news/804999/?utm_campaign=804999&utm_source=habrahabr&utm_medium=rss)
-- [Google начала блокировать массовые рассылки e-mail — у пользователей Outlook проблемы](https://habr.com/ru/news/804979/?utm_campaign=804979&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE представила ИБ‑исследование Threat Zone 2024, посвящённое российскому ландшафту киберугроз и хаккластеров](https://habr.com/ru/news/804909/?utm_campaign=804909&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
