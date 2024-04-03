@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала блокировать массовые рассылки e-mail — у пользователей Outlook проблемы](https://habr.com/ru/news/804979/?utm_campaign=804979&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE представила ИБ‑исследование Threat Zone 2024, посвящённое российскому ландшафту киберугроз и хаккластеров](https://habr.com/ru/news/804909/?utm_campaign=804909&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft объявила цены на расширенные обновления безопасности Windows 10](https://habr.com/ru/news/804971/?utm_campaign=804971&utm_source=habrahabr&utm_medium=rss)
 - [Telegram будет предупреждать пользователей без подписки о сниженной скорости загрузки](https://habr.com/ru/news/804963/?utm_campaign=804963&utm_source=habrahabr&utm_medium=rss)
 - [Amazon представила AWS Deadline Cloud для быстрой настройки облачной высокопроизводительной платформы для рендеринга](https://habr.com/ru/news/804959/?utm_campaign=804959&utm_source=habrahabr&utm_medium=rss)
-- [Amazon закрыла в США магазины Just Walk Out, где клиенты могли брать товары и выходить без прохода через кассу](https://habr.com/ru/news/804947/?utm_campaign=804947&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики стратегии «Космос — пространство будущего»: игра дошла до состояния альфа-версии](https://habr.com/ru/news/804945/?utm_campaign=804945&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи не смогли получить от ИИ-сервисов Midjourney и DALL-E от OpenAI картинку с чистым белым фоном](https://habr.com/ru/news/804933/?utm_campaign=804933&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
