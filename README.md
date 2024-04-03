@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики стратегии «Космос — пространство будущего»: игра дошла до состояния альфа-версии](https://habr.com/ru/news/804945/?utm_campaign=804945&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи не смогли получить от ИИ-сервисов Midjourney и DALL-E от OpenAI картинку с чистым белым фоном](https://habr.com/ru/news/804933/?utm_campaign=804933&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры опубликовали проект бюджетной робо-руки GELLO](https://habr.com/ru/news/804925/?utm_campaign=804925&utm_source=habrahabr&utm_medium=rss)
 - [Режим аватара &lpar;Persona&rpar; в Apple Vision Pro превратили в пространственные видео и добавили в разные приложения](https://habr.com/ru/news/804913/?utm_campaign=804913&utm_source=habrahabr&utm_medium=rss)
 - [США предлагают награду в $10 млн за информацию о хакерах BlackCat за атаку на сервисы UnitedHealth](https://habr.com/ru/news/804889/?utm_campaign=804889&utm_source=habrahabr&utm_medium=rss)
-- [«По горячим ссылкам». Участвуйте в квесте от Selectel и получайте до 15 000 бонусов](https://habr.com/ru/companies/selectel/news/804855/?utm_campaign=804855&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
