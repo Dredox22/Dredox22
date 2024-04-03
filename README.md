@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Предприятие Роскосмоса приступило к созданию наземной инфраструктуры для новой версии «Гонца»](https://habr.com/ru/news/805121/?utm_campaign=805121&utm_source=habrahabr&utm_medium=rss)
 - [TSMC и UMC приостановили выпуск процессоров и эвакуировали сотрудников со всех заводов после землетрясения на Тайване](https://habr.com/ru/news/805089/?utm_campaign=805089&utm_source=habrahabr&utm_medium=rss)
 - [Flutter-разработчики, приглашаем на большой митап в Москве](https://habr.com/ru/companies/surfstudio/news/805085/?utm_campaign=805085&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» представила технологический комплекс для сборки программного обеспечения «Альт Платформа»](https://habr.com/ru/news/805083/?utm_campaign=805083&utm_source=habrahabr&utm_medium=rss)
 - [WSJ: OpenAI рассматривает возможность использования транскрипций с YouTube для обучения GPT-5](https://habr.com/ru/news/805063/?utm_campaign=805063&utm_source=habrahabr&utm_medium=rss)
-- [Joomla Community Magazine. Март 2024](https://habr.com/ru/news/805059/?utm_campaign=805059&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
