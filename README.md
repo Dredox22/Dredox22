@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На портале репозиториев PyPI заблокировали 174 учётным записям из‑за неавторизированного доступа к ним хакеров](https://habr.com/ru/news/805445/?utm_campaign=805445&utm_source=habrahabr&utm_medium=rss)
+- [На портале репозиториев PyPI заблокировали 174 учётные записи из‑за неавторизированного доступа к ним хакеров](https://habr.com/ru/news/805445/?utm_campaign=805445&utm_source=habrahabr&utm_medium=rss)
 - [One Day Offer для Системных аналитиков 1С в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/news/805441/?utm_campaign=805441&utm_source=habrahabr&utm_medium=rss)
 - [«Все делают это...» — Data People by GlowByte приглашает на весенний митап](https://habr.com/ru/companies/glowbyte/news/805439/?utm_campaign=805439&utm_source=habrahabr&utm_medium=rss)
 - [В VK Play состоялся релиз игры «Смута» от студии Cyberia Nova](https://habr.com/ru/news/805415/?utm_campaign=805415&utm_source=habrahabr&utm_medium=rss)
