@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На портале репозиториев PyPI заблокировали 174 учётным записям из‑за неавторизированного доступа к ним хакеров](https://habr.com/ru/news/805445/?utm_campaign=805445&utm_source=habrahabr&utm_medium=rss)
+- [One Day Offer для Системных аналитиков 1С в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/news/805441/?utm_campaign=805441&utm_source=habrahabr&utm_medium=rss)
+- [«Все делают это...» — Data People by GlowByte приглашает на весенний митап](https://habr.com/ru/companies/glowbyte/news/805439/?utm_campaign=805439&utm_source=habrahabr&utm_medium=rss)
 - [В VK Play состоялся релиз игры «Смута» от студии Cyberia Nova](https://habr.com/ru/news/805415/?utm_campaign=805415&utm_source=habrahabr&utm_medium=rss)
 - [В России предлагают создать единый центр исследования безопасности в области ИИ](https://habr.com/ru/news/805391/?utm_campaign=805391&utm_source=habrahabr&utm_medium=rss)
-- [Opera стал первым крупным браузером со встроенным доступом к локальным моделям искусственного интеллекта](https://habr.com/ru/news/805383/?utm_campaign=805383&utm_source=habrahabr&utm_medium=rss)
-- [Вышел LibrePCB 1.1.0](https://habr.com/ru/news/805339/?utm_campaign=805339&utm_source=habrahabr&utm_medium=rss)
-- [Вымогатели Werewolves позвали россиян на военные сборы](https://habr.com/ru/companies/f_a_c_c_t/news/805333/?utm_campaign=805333&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
