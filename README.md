@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В VK Play состоялся релиз игры «Смута» от студии Cyberia Nova](https://habr.com/ru/news/805415/?utm_campaign=805415&utm_source=habrahabr&utm_medium=rss)
+- [В России предлагают создать единый центр исследования безопасности в области ИИ](https://habr.com/ru/news/805391/?utm_campaign=805391&utm_source=habrahabr&utm_medium=rss)
+- [Opera стал первым крупным браузером со встроенным доступом к локальным моделям искусственного интеллекта](https://habr.com/ru/news/805383/?utm_campaign=805383&utm_source=habrahabr&utm_medium=rss)
 - [Вышел LibrePCB 1.1.0](https://habr.com/ru/news/805339/?utm_campaign=805339&utm_source=habrahabr&utm_medium=rss)
 - [Вымогатели Werewolves позвали россиян на военные сборы](https://habr.com/ru/companies/f_a_c_c_t/news/805333/?utm_campaign=805333&utm_source=habrahabr&utm_medium=rss)
-- [Учёные создали цифровую камеру размером с автомобиль для исследования Вселенной](https://habr.com/ru/news/805323/?utm_campaign=805323&utm_source=habrahabr&utm_medium=rss)
-- [Google намерена ввести платный поиск с ИИ](https://habr.com/ru/news/805283/?utm_campaign=805283&utm_source=habrahabr&utm_medium=rss)
-- [Надстройка Script Lab Office теперь принадлежит Microsoft, её код закроют](https://habr.com/ru/news/805269/?utm_campaign=805269&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
