@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «Билайн» предложил законодательно ограничить число регистрируемых на один паспорт сим-карт](https://habr.com/ru/news/805247/?utm_campaign=805247&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch представила исследование по киберинцидентам в АСУ ТП за 2023 год](https://habr.com/ru/news/805165/?utm_campaign=805165&utm_source=habrahabr&utm_medium=rss)
 - [Предприятие Роскосмоса приступило к созданию наземной инфраструктуры для новой версии «Гонца»](https://habr.com/ru/news/805121/?utm_campaign=805121&utm_source=habrahabr&utm_medium=rss)
 - [TSMC и UMC приостановили выпуск процессоров и эвакуировали сотрудников со всех заводов после землетрясения на Тайване](https://habr.com/ru/news/805089/?utm_campaign=805089&utm_source=habrahabr&utm_medium=rss)
 - [Flutter-разработчики, приглашаем на большой митап в Москве](https://habr.com/ru/companies/surfstudio/news/805085/?utm_campaign=805085&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» представила технологический комплекс для сборки программного обеспечения «Альт Платформа»](https://habr.com/ru/news/805083/?utm_campaign=805083&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
