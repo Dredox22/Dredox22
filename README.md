@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел LibrePCB 1.1.0](https://habr.com/ru/news/805339/?utm_campaign=805339&utm_source=habrahabr&utm_medium=rss)
+- [Вымогатели Werewolves позвали россиян на военные сборы](https://habr.com/ru/companies/f_a_c_c_t/news/805333/?utm_campaign=805333&utm_source=habrahabr&utm_medium=rss)
+- [Учёные создали цифровую камеру размером с автомобиль для исследования Вселенной](https://habr.com/ru/news/805323/?utm_campaign=805323&utm_source=habrahabr&utm_medium=rss)
 - [Google намерена ввести платный поиск с ИИ](https://habr.com/ru/news/805283/?utm_campaign=805283&utm_source=habrahabr&utm_medium=rss)
 - [Надстройка Script Lab Office теперь принадлежит Microsoft, её код закроют](https://habr.com/ru/news/805269/?utm_campaign=805269&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Билайн» предложил законодательно ограничить число регистрируемых на один паспорт сим-карт](https://habr.com/ru/news/805247/?utm_campaign=805247&utm_source=habrahabr&utm_medium=rss)
-- [ГК InfoWatch представила исследование по киберинцидентам в АСУ ТП за 2023 год](https://habr.com/ru/news/805165/?utm_campaign=805165&utm_source=habrahabr&utm_medium=rss)
-- [Предприятие Роскосмоса приступило к созданию наземной инфраструктуры для новой версии «Гонца»](https://habr.com/ru/news/805121/?utm_campaign=805121&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
