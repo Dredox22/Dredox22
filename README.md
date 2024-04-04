@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google намерена ввести платный поиск с ИИ](https://habr.com/ru/news/805283/?utm_campaign=805283&utm_source=habrahabr&utm_medium=rss)
+- [Надстройка Script Lab Office теперь принадлежит Microsoft, её код закроют](https://habr.com/ru/news/805269/?utm_campaign=805269&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Билайн» предложил законодательно ограничить число регистрируемых на один паспорт сим-карт](https://habr.com/ru/news/805247/?utm_campaign=805247&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch представила исследование по киберинцидентам в АСУ ТП за 2023 год](https://habr.com/ru/news/805165/?utm_campaign=805165&utm_source=habrahabr&utm_medium=rss)
 - [Предприятие Роскосмоса приступило к созданию наземной инфраструктуры для новой версии «Гонца»](https://habr.com/ru/news/805121/?utm_campaign=805121&utm_source=habrahabr&utm_medium=rss)
-- [TSMC и UMC приостановили выпуск процессоров и эвакуировали сотрудников со всех заводов после землетрясения на Тайване](https://habr.com/ru/news/805089/?utm_campaign=805089&utm_source=habrahabr&utm_medium=rss)
-- [Flutter-разработчики, приглашаем на большой митап в Москве](https://habr.com/ru/companies/surfstudio/news/805085/?utm_campaign=805085&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
