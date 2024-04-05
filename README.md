@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Блогер Росс Скотт запустил кампанию против уничтожения игр издателями](https://habr.com/ru/news/805575/?utm_campaign=805575&utm_source=habrahabr&utm_medium=rss)
+- [Flutter на ОС Аврора: Friflex и ОМП выпустили манифест сообщества разработчиков](https://habr.com/ru/companies/friflex/news/805249/?utm_campaign=805249&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft блокирует обновления сборок Windows 11 в системах с помощью StartAllBack](https://habr.com/ru/news/805571/?utm_campaign=805571&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг включил в реестр радиоэлектронной продукции первый российский расширяемый серверный ИИ-модуль](https://habr.com/ru/news/805567/?utm_campaign=805567&utm_source=habrahabr&utm_medium=rss)
 - [Google наносит ответный удар по совместному проекту Microsoft и OpenAI](https://habr.com/ru/companies/bothub/news/805511/?utm_campaign=805511&utm_source=habrahabr&utm_medium=rss)
-- [На портале репозиториев PyPI заблокировали 174 учётные записи из‑за неавторизированного доступа к ним хакеров](https://habr.com/ru/news/805445/?utm_campaign=805445&utm_source=habrahabr&utm_medium=rss)
-- [One Day Offer для Системных аналитиков 1С в Sportmaster Lab](https://habr.com/ru/companies/sportmaster_lab/news/805441/?utm_campaign=805441&utm_source=habrahabr&utm_medium=rss)
-- [«Все делают это...» — Data People by GlowByte приглашает на весенний митап](https://habr.com/ru/companies/glowbyte/news/805439/?utm_campaign=805439&utm_source=habrahabr&utm_medium=rss)
-- [В VK Play состоялся релиз игры «Смута» от студии Cyberia Nova](https://habr.com/ru/news/805415/?utm_campaign=805415&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
