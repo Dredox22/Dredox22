@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз среды разработки Qt Creator 13](https://habr.com/ru/news/805615/?utm_campaign=805615&utm_source=habrahabr&utm_medium=rss)
+- [Unity прекращает поддержку Ziva Dynamics, чтобы сосредоточиться на своих основных продуктах](https://habr.com/ru/news/805613/?utm_campaign=805613&utm_source=habrahabr&utm_medium=rss)
 - [Google начала привязывать cookie в Chrome к конкретному устройству для защиты от хакеров](https://habr.com/ru/news/805591/?utm_campaign=805591&utm_source=habrahabr&utm_medium=rss)
 - [«Почта России» планирует запустить трёхлетнюю программу Bug Bounty для проверки своих IT-систем](https://habr.com/ru/news/805589/?utm_campaign=805589&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия Intel PresentMon 2.0.0](https://habr.com/ru/news/805579/?utm_campaign=805579&utm_source=habrahabr&utm_medium=rss)
-- [TSMC вернула к работе 80% производственных линий после землетрясения на восточном побережье Тайваня](https://habr.com/ru/news/805587/?utm_campaign=805587&utm_source=habrahabr&utm_medium=rss)
-- [Блогер Росс Скотт запустил кампанию против уничтожения игр издателями](https://habr.com/ru/news/805575/?utm_campaign=805575&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
