@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В системе IT-мониторинга Nagios XI нашли и устранили 8 критических уязвимостей](https://habr.com/ru/news/805755/?utm_campaign=805755&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Ghost Autonomy, работавший над ПО для автономного вождения, объявил о закрытии](https://habr.com/ru/news/805693/?utm_campaign=805693&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выпустил Yandex Mobile Ads SDK 7](https://habr.com/ru/news/805687/?utm_campaign=805687&utm_source=habrahabr&utm_medium=rss)
 - [Конференция по робототехнике и Reinforcement learning ROS Meetup 27-28 апреля 2024](https://habr.com/ru/companies/sberbank/news/805535/?utm_campaign=805535&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» открыла ежегодный весенний набор на оплачиваемую стажировку для студентов SafeBoard](https://habr.com/ru/news/805647/?utm_campaign=805647&utm_source=habrahabr&utm_medium=rss)
-- [Новый митап от МТС для разработчиков: True Tech Java](https://habr.com/ru/companies/ru_mts/news/805645/?utm_campaign=805645&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
