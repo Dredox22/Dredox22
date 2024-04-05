@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Конференция по робототехнике и Reinforcement learning ROS Meetup 27-28 апреля 2024](https://habr.com/ru/companies/sberbank/news/805535/?utm_campaign=805535&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» открыла ежегодный весенний набор на оплачиваемую стажировку для студентов SafeBoard](https://habr.com/ru/news/805647/?utm_campaign=805647&utm_source=habrahabr&utm_medium=rss)
 - [Новый митап от МТС для разработчиков: True Tech Java](https://habr.com/ru/companies/ru_mts/news/805645/?utm_campaign=805645&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды разработки Qt Creator 13](https://habr.com/ru/news/805615/?utm_campaign=805615&utm_source=habrahabr&utm_medium=rss)
 - [Unity прекращает поддержку Ziva Dynamics, чтобы сосредоточиться на своих основных продуктах](https://habr.com/ru/news/805613/?utm_campaign=805613&utm_source=habrahabr&utm_medium=rss)
-- [Google начала привязывать cookie в Chrome к конкретному устройству для защиты от хакеров](https://habr.com/ru/news/805591/?utm_campaign=805591&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
