@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» открыла ежегодный весенний набор на оплачиваемую стажировку для студентов SafeBoard](https://habr.com/ru/news/805647/?utm_campaign=805647&utm_source=habrahabr&utm_medium=rss)
+- [Новый митап от МТС для разработчиков: True Tech Java](https://habr.com/ru/companies/ru_mts/news/805645/?utm_campaign=805645&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды разработки Qt Creator 13](https://habr.com/ru/news/805615/?utm_campaign=805615&utm_source=habrahabr&utm_medium=rss)
 - [Unity прекращает поддержку Ziva Dynamics, чтобы сосредоточиться на своих основных продуктах](https://habr.com/ru/news/805613/?utm_campaign=805613&utm_source=habrahabr&utm_medium=rss)
 - [Google начала привязывать cookie в Chrome к конкретному устройству для защиты от хакеров](https://habr.com/ru/news/805591/?utm_campaign=805591&utm_source=habrahabr&utm_medium=rss)
-- [«Почта России» планирует запустить трёхлетнюю программу Bug Bounty для проверки своих IT-систем](https://habr.com/ru/news/805589/?utm_campaign=805589&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Intel PresentMon 2.0.0](https://habr.com/ru/news/805579/?utm_campaign=805579&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
