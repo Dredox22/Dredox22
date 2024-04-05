@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала привязывать cookie в Chrome к конкретному устройству для защиты от хакеров](https://habr.com/ru/news/805591/?utm_campaign=805591&utm_source=habrahabr&utm_medium=rss)
+- [«Почта России» планирует запустить трёхлетнюю программу Bug Bounty для проверки своих IT-систем](https://habr.com/ru/news/805589/?utm_campaign=805589&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Intel PresentMon 2.0.0](https://habr.com/ru/news/805579/?utm_campaign=805579&utm_source=habrahabr&utm_medium=rss)
+- [TSMC вернула к работе 80% производственных линий после землетрясения на восточном побережье Тайваня](https://habr.com/ru/news/805587/?utm_campaign=805587&utm_source=habrahabr&utm_medium=rss)
 - [Блогер Росс Скотт запустил кампанию против уничтожения игр издателями](https://habr.com/ru/news/805575/?utm_campaign=805575&utm_source=habrahabr&utm_medium=rss)
-- [Flutter на ОС Аврора: Friflex и ОМП выпустили манифест сообщества разработчиков](https://habr.com/ru/companies/friflex/news/805249/?utm_campaign=805249&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft блокирует обновления сборок Windows 11 в системах с помощью StartAllBack](https://habr.com/ru/news/805571/?utm_campaign=805571&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг включил в реестр радиоэлектронной продукции первый российский расширяемый серверный ИИ-модуль](https://habr.com/ru/news/805567/?utm_campaign=805567&utm_source=habrahabr&utm_medium=rss)
-- [Google наносит ответный удар по совместному проекту Microsoft и OpenAI](https://habr.com/ru/companies/bothub/news/805511/?utm_campaign=805511&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
