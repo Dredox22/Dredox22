@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunbird снова попытается перенести iMessage на Android](https://habr.com/ru/news/805815/?utm_campaign=805815&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft пока не определилась с ценами на расширенную поддержку Windows 10 для пользователей](https://habr.com/ru/news/805803/?utm_campaign=805803&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила публиковать эмуляторы ретро-игр в App Store](https://habr.com/ru/news/805787/?utm_campaign=805787&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare выпустила первый публичный релиз Pingora v0.1.0](https://habr.com/ru/news/805785/?utm_campaign=805785&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FFmpeg 7.0 Dijkstra](https://habr.com/ru/news/805761/?utm_campaign=805761&utm_source=habrahabr&utm_medium=rss)
-- [В системе IT-мониторинга Nagios XI нашли и устранили 8 критических уязвимостей](https://habr.com/ru/news/805755/?utm_campaign=805755&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Ghost Autonomy, работавший над ПО для автономного вождения, объявил о закрытии](https://habr.com/ru/news/805693/?utm_campaign=805693&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
