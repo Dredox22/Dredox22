@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple добавит контроллер к зарядке и ручку к Vision Pro, Samsung придумал умную маску: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/805731/?utm_campaign=805731&utm_source=habrahabr&utm_medium=rss)
 - [Sunbird снова попытается перенести iMessage на Android](https://habr.com/ru/news/805815/?utm_campaign=805815&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пока не определилась с ценами на расширенную поддержку Windows 10 для пользователей](https://habr.com/ru/news/805803/?utm_campaign=805803&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила публиковать эмуляторы ретро-игр в App Store](https://habr.com/ru/news/805787/?utm_campaign=805787&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare выпустила первый публичный релиз Pingora v0.1.0](https://habr.com/ru/news/805785/?utm_campaign=805785&utm_source=habrahabr&utm_medium=rss)
-- [Релиз FFmpeg 7.0 Dijkstra](https://habr.com/ru/news/805761/?utm_campaign=805761&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
