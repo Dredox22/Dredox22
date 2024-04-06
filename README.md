@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый медиацентр Kodi 21.0 Omega](https://habr.com/ru/news/805879/?utm_campaign=805879&utm_source=habrahabr&utm_medium=rss)
 - [Apple добавит контроллер к зарядке и ручку к Vision Pro, Samsung придумал умную маску: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/805731/?utm_campaign=805731&utm_source=habrahabr&utm_medium=rss)
 - [Sunbird снова попытается перенести iMessage на Android](https://habr.com/ru/news/805815/?utm_campaign=805815&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пока не определилась с ценами на расширенную поддержку Windows 10 для пользователей](https://habr.com/ru/news/805803/?utm_campaign=805803&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила публиковать эмуляторы ретро-игр в App Store](https://habr.com/ru/news/805787/?utm_campaign=805787&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare выпустила первый публичный релиз Pingora v0.1.0](https://habr.com/ru/news/805785/?utm_campaign=805785&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
