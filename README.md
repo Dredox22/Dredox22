@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел открытый медиацентр Kodi 21.0 Omega](https://habr.com/ru/news/805879/?utm_campaign=805879&utm_source=habrahabr&utm_medium=rss)
-- [Apple добавит контроллер к зарядке и ручку к Vision Pro, Samsung придумал умную маску: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/805731/?utm_campaign=805731&utm_source=habrahabr&utm_medium=rss)
-- [Sunbird снова попытается перенести iMessage на Android](https://habr.com/ru/news/805815/?utm_campaign=805815&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пока не определилась с ценами на расширенную поддержку Windows 10 для пользователей](https://habr.com/ru/news/805803/?utm_campaign=805803&utm_source=habrahabr&utm_medium=rss)
-- [Apple разрешила публиковать эмуляторы ретро-игр в App Store](https://habr.com/ru/news/805787/?utm_campaign=805787&utm_source=habrahabr&utm_medium=rss)
+- [Google работает над кнопкой «Поиск» для неизвестных абонентов на Android](https://habr.com/ru/news/805903/?utm_campaign=805903&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI транскрибировала более миллиона часов видео с YouTube для обучения GPT-4](https://habr.com/ru/news/805907/?utm_campaign=805907&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует ограничение потребления оперативной памяти в Edge](https://habr.com/ru/news/805899/?utm_campaign=805899&utm_source=habrahabr&utm_medium=rss)
+- [Мейнтейнер PiVPN объявил о прекращении работы над проектом и скором переводе в архив репозитория на GitHub](https://habr.com/ru/news/805901/?utm_campaign=805901&utm_source=habrahabr&utm_medium=rss)
+- [Asus возместила покупателю Zenfone деньги за отсутствие инструментов для разблокировки загрузчика](https://habr.com/ru/news/805897/?utm_campaign=805897&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
