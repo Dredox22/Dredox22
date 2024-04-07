@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Stability AI представила обновление модели Stable Audio 2.0](https://habr.com/ru/news/805929/?utm_campaign=805929&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструментария Netplan 1.0](https://habr.com/ru/news/805921/?utm_campaign=805921&utm_source=habrahabr&utm_medium=rss)
 - [Google работает над кнопкой «Поиск» для неизвестных абонентов на Android](https://habr.com/ru/news/805903/?utm_campaign=805903&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI транскрибировала более миллиона часов видео с YouTube для обучения GPT-4](https://habr.com/ru/news/805907/?utm_campaign=805907&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует ограничение потребления оперативной памяти в Edge](https://habr.com/ru/news/805899/?utm_campaign=805899&utm_source=habrahabr&utm_medium=rss)
-- [Мейнтейнер PiVPN объявил о прекращении работы над проектом и скором переводе в архив репозитория на GitHub](https://habr.com/ru/news/805901/?utm_campaign=805901&utm_source=habrahabr&utm_medium=rss)
-- [Asus возместила покупателю Zenfone деньги за отсутствие инструментов для разблокировки загрузчика](https://habr.com/ru/news/805897/?utm_campaign=805897&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
