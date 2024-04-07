@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI обновила API для файнтюнинга GPT](https://habr.com/ru/news/806005/?utm_campaign=806005&utm_source=habrahabr&utm_medium=rss)
 - [Дизайнеры представили Nuca — ИИ-фотокамеру, которая раздевает людей на снимках](https://habr.com/ru/news/805933/?utm_campaign=805933&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI представила обновление модели Stable Audio 2.0](https://habr.com/ru/news/805929/?utm_campaign=805929&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструментария Netplan 1.0](https://habr.com/ru/news/805921/?utm_campaign=805921&utm_source=habrahabr&utm_medium=rss)
 - [Google работает над кнопкой «Поиск» для неизвестных абонентов на Android](https://habr.com/ru/news/805903/?utm_campaign=805903&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI транскрибировала более миллиона часов видео с YouTube для обучения GPT-4](https://habr.com/ru/news/805907/?utm_campaign=805907&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
