@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: операторы связи РФ в 2023 году обновили свою инфраструктуру, несмотря на санкционные и другие ограничения](https://habr.com/ru/news/806067/?utm_campaign=806067&utm_source=habrahabr&utm_medium=rss)
 - [Производители электроники предложили Минцифры запретить параллельный импорт смартфонов и ноутбуков иностранных брендов](https://habr.com/ru/news/806049/?utm_campaign=806049&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обновила API для файнтюнинга GPT](https://habr.com/ru/news/806005/?utm_campaign=806005&utm_source=habrahabr&utm_medium=rss)
 - [Дизайнеры представили Nuca — ИИ-фотокамеру, которая раздевает людей на снимках](https://habr.com/ru/news/805933/?utm_campaign=805933&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI представила обновление модели Stable Audio 2.0](https://habr.com/ru/news/805929/?utm_campaign=805929&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструментария Netplan 1.0](https://habr.com/ru/news/805921/?utm_campaign=805921&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
