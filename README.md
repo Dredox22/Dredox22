@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple лицензировала миллионы изображений с Shutterstock для обучения своих ИИ-моделей](https://habr.com/ru/news/806161/?utm_campaign=806161&utm_source=habrahabr&utm_medium=rss)
+- [Компания Fplus профинансирует портирование 10 видеоигр на операционную систему «Аврора» до конца 2024 года](https://habr.com/ru/news/806155/?utm_campaign=806155&utm_source=habrahabr&utm_medium=rss)
+- [Spotify тестирует ИИ-плейлисты](https://habr.com/ru/news/806143/?utm_campaign=806143&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс открыл набор в бесплатные летние школы](https://habr.com/ru/companies/yandex/news/806113/?utm_campaign=806113&utm_source=habrahabr&utm_medium=rss)
 - [«Анимационная студия Воронеж» представила 3D-редактор «Анимационная 3D платформа»](https://habr.com/ru/news/806107/?utm_campaign=806107&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия PowerToys 0.80](https://habr.com/ru/news/806081/?utm_campaign=806081&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила открытый инструментарий zx v8.0.0](https://habr.com/ru/news/806083/?utm_campaign=806083&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты составили список мешающих обновлению до Windows 11 24H2 приложений](https://habr.com/ru/news/806079/?utm_campaign=806079&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
