@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик взломал компилятор C++ 28-летней давности, чтобы проект поддерживал исключения](https://habr.com/ru/news/806239/?utm_campaign=806239&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/806229/?utm_campaign=806229&utm_source=habrahabr&utm_medium=rss)
 - [Автор эмулятора PPSSPP обещает выпустить версию для iOS в App Store после пояснения новых правил площадки](https://habr.com/ru/news/806219/?utm_campaign=806219&utm_source=habrahabr&utm_medium=rss)
 - [Попробуйте себя в роли сыщика. Детективный квест по поиску затерянных ссылок](https://habr.com/ru/companies/selectel/news/806153/?utm_campaign=806153&utm_source=habrahabr&utm_medium=rss)
 - [Apple лицензировала миллионы изображений с Shutterstock для обучения своих ИИ-моделей](https://habr.com/ru/news/806161/?utm_campaign=806161&utm_source=habrahabr&utm_medium=rss)
-- [Компания Fplus профинансирует портирование 10 видеоигр на операционную систему «Аврора» до конца 2024 года](https://habr.com/ru/news/806155/?utm_campaign=806155&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
