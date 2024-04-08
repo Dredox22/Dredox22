@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Попробуйте себя в роли сыщика. Детективный квест по поиску затерянных ссылок](https://habr.com/ru/companies/selectel/news/806153/?utm_campaign=806153&utm_source=habrahabr&utm_medium=rss)
 - [Apple лицензировала миллионы изображений с Shutterstock для обучения своих ИИ-моделей](https://habr.com/ru/news/806161/?utm_campaign=806161&utm_source=habrahabr&utm_medium=rss)
 - [Компания Fplus профинансирует портирование 10 видеоигр на операционную систему «Аврора» до конца 2024 года](https://habr.com/ru/news/806155/?utm_campaign=806155&utm_source=habrahabr&utm_medium=rss)
 - [Spotify тестирует ИИ-плейлисты](https://habr.com/ru/news/806143/?utm_campaign=806143&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс открыл набор в бесплатные летние школы](https://habr.com/ru/companies/yandex/news/806113/?utm_campaign=806113&utm_source=habrahabr&utm_medium=rss)
-- [«Анимационная студия Воронеж» представила 3D-редактор «Анимационная 3D платформа»](https://habr.com/ru/news/806107/?utm_campaign=806107&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
