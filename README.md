@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс открыл набор в бесплатные летние школы](https://habr.com/ru/companies/yandex/news/806113/?utm_campaign=806113&utm_source=habrahabr&utm_medium=rss)
 - [«Анимационная студия Воронеж» представила 3D-редактор «Анимационная 3D платформа»](https://habr.com/ru/news/806107/?utm_campaign=806107&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия PowerToys 0.80](https://habr.com/ru/news/806081/?utm_campaign=806081&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила открытый инструментарий zx v8.0.0](https://habr.com/ru/news/806083/?utm_campaign=806083&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты составили список мешающих обновлению до Windows 11 24H2 приложений](https://habr.com/ru/news/806079/?utm_campaign=806079&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила проблемы с кэшированием в Windows 10 после установки KB5034203 и более поздних обновлений](https://habr.com/ru/news/806073/?utm_campaign=806073&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
