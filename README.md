@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google обновила Find My Device для поиска смартфонов без интернета](https://habr.com/ru/news/806361/?utm_campaign=806361&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на онлайн-конференцию по цифровизации вузов](https://habr.com/ru/companies/rshb/news/806359/?utm_campaign=806359&utm_source=habrahabr&utm_medium=rss)
 - [Oracle выпускает DTrace 2.0.0-1.14 для систем Linux](https://habr.com/ru/news/806341/?utm_campaign=806341&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: хакеры утверждают, что смогли проникнуть в сеть ДИТ Москвы](https://habr.com/ru/news/806325/?utm_campaign=806325&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Shorebird 1.0 &lpar;Flutter Code Push&rpar;](https://habr.com/ru/news/806309/?utm_campaign=806309&utm_source=habrahabr&utm_medium=rss)
-- [Бэкдор в сетевых хранилищах D-Link DNS-340L, DNS-320L, DNS-327L и DNS-32 позволяет выполнить код без аутентификации](https://habr.com/ru/news/806291/?utm_campaign=806291&utm_source=habrahabr&utm_medium=rss)
-- [Gemini Pro теперь доступен в Android Studio](https://habr.com/ru/news/806281/?utm_campaign=806281&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
