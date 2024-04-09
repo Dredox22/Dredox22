@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Антенны с метаповерхностью обеспечат РФ спутниковой связью](https://habr.com/ru/news/806557/?utm_campaign=806557&utm_source=habrahabr&utm_medium=rss)
 - [АО ОНИИП увеличило производственные мощности по выпуску печатных плат](https://habr.com/ru/news/806543/?utm_campaign=806543&utm_source=habrahabr&utm_medium=rss)
 - [Новый UCPD-драйвер в Windows 10 запрещает менять браузер по умолчанию через стороннее ПО](https://habr.com/ru/news/806527/?utm_campaign=806527&utm_source=habrahabr&utm_medium=rss)
 - [«Дизайн Центр „Союз“» разработал образцы ПЛИС для космической и специальной аппаратуры](https://habr.com/ru/news/806507/?utm_campaign=806507&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на Observability Meetup](https://habr.com/ru/companies/magnit/news/806233/?utm_campaign=806233&utm_source=habrahabr&utm_medium=rss)
-- [One Day Offer для системных аналитиков](https://habr.com/ru/companies/alfa/news/806467/?utm_campaign=806467&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
