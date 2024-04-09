@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бэкдор в сетевых хранилищах D-Link DNS-340L, DNS-320L, DNS-327L и DNS-32 позволяет выполнить код без аутентификации](https://habr.com/ru/news/806291/?utm_campaign=806291&utm_source=habrahabr&utm_medium=rss)
 - [Gemini Pro теперь доступен в Android Studio](https://habr.com/ru/news/806281/?utm_campaign=806281&utm_source=habrahabr&utm_medium=rss)
 - [Злоумышленники воруют данные пользователей Facebook** с помощью профилей, замаскированных под аккаунты ИИ-сервисов](https://habr.com/ru/news/806273/?utm_campaign=806273&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик взломал компилятор C++ 28-летней давности, чтобы проект поддерживал исключения](https://habr.com/ru/news/806239/?utm_campaign=806239&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/806229/?utm_campaign=806229&utm_source=habrahabr&utm_medium=rss)
-- [Автор эмулятора PPSSPP обещает выпустить версию для iOS в App Store после пояснения новых правил площадки](https://habr.com/ru/news/806219/?utm_campaign=806219&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
