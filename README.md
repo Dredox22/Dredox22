@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI потребуется для обучения Grok 3 100 тысяч GPU Nvidia H100 AI](https://habr.com/ru/news/806399/?utm_campaign=806399&utm_source=habrahabr&utm_medium=rss)
+- [Автор Notepad++ ищет помощи в удалении копии своего веб-сайта](https://habr.com/ru/news/806379/?utm_campaign=806379&utm_source=habrahabr&utm_medium=rss)
 - [Google обновила Find My Device для поиска смартфонов без интернета](https://habr.com/ru/news/806361/?utm_campaign=806361&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на онлайн-конференцию по цифровизации вузов](https://habr.com/ru/companies/rshb/news/806359/?utm_campaign=806359&utm_source=habrahabr&utm_medium=rss)
 - [Oracle выпускает DTrace 2.0.0-1.14 для систем Linux](https://habr.com/ru/news/806341/?utm_campaign=806341&utm_source=habrahabr&utm_medium=rss)
-- [DLBI: хакеры утверждают, что смогли проникнуть в сеть ДИТ Москвы](https://habr.com/ru/news/806325/?utm_campaign=806325&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Shorebird 1.0 &lpar;Flutter Code Push&rpar;](https://habr.com/ru/news/806309/?utm_campaign=806309&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
