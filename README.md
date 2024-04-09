@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Observability Meetup](https://habr.com/ru/companies/magnit/news/806233/?utm_campaign=806233&utm_source=habrahabr&utm_medium=rss)
+- [One Day Offer для системных аналитиков](https://habr.com/ru/companies/alfa/news/806467/?utm_campaign=806467&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики выпустили Cally — библиотеку UI-компонентов календаря](https://habr.com/ru/news/806455/?utm_campaign=806455&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструмента для сетевого мониторинга Sniffnet 1.3.0](https://habr.com/ru/news/806437/?utm_campaign=806437&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» приглашает разработчиков 23 апреля на первый Yandex Open Source Jam](https://habr.com/ru/news/806417/?utm_campaign=806417&utm_source=habrahabr&utm_medium=rss)
-- [xAI потребуется для обучения Grok 3 100 тысяч GPU Nvidia H100 AI](https://habr.com/ru/news/806399/?utm_campaign=806399&utm_source=habrahabr&utm_medium=rss)
-- [Автор Notepad++ ищет помощи в удалении копии своего веб-сайта](https://habr.com/ru/news/806379/?utm_campaign=806379&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила Find My Device для поиска смартфонов без интернета](https://habr.com/ru/news/806361/?utm_campaign=806361&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
