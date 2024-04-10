@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия GPT-4 и она уже покоряет математические олимпиады](https://habr.com/ru/companies/bothub/news/806775/?utm_campaign=806775&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies опубликовала финансовые итоги за 2023 год](https://habr.com/ru/news/806759/?utm_campaign=806759&utm_source=habrahabr&utm_medium=rss)
 - [AIRI выложил мультимодальную модель искусственного интеллекта OmniFusion в открытый доступ](https://habr.com/ru/news/806733/?utm_campaign=806733&utm_source=habrahabr&utm_medium=rss)
 - [Вебмониторэкс приглашает на вебинар на тему «Защита API» 17 апреля в 12:00 &lpar;мск&rpar;](https://habr.com/ru/companies/webmonitorx/news/806719/?utm_campaign=806719&utm_source=habrahabr&utm_medium=rss)
 - [Команда EndeavourOS Arm объявила о закрытии проекта](https://habr.com/ru/news/806705/?utm_campaign=806705&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представила Алису нового поколения и улучшенную Алису Про](https://habr.com/ru/news/806703/?utm_campaign=806703&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
