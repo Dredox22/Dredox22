@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда EndeavourOS Arm объявила о закрытии проекта](https://habr.com/ru/news/806705/?utm_campaign=806705&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» представила Алису нового поколения и улучшенную Алису Про](https://habr.com/ru/news/806703/?utm_campaign=806703&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 1.5 Pro научили «слушать» аудиофайлы](https://habr.com/ru/news/806669/?utm_campaign=806669&utm_source=habrahabr&utm_medium=rss)
 - [Топ-менеджер «Яндекса» заявил о конкурентной победе над Google в России](https://habr.com/ru/news/806655/?utm_campaign=806655&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты F.A.С.С.T. обнаружили новую группу вымогателей — Muliaka](https://habr.com/ru/companies/f_a_c_c_t/news/806651/?utm_campaign=806651&utm_source=habrahabr&utm_medium=rss)
-- [В VK Play вышла альфа-версия стратегии «Космос — пространство будущего»](https://habr.com/ru/news/806637/?utm_campaign=806637&utm_source=habrahabr&utm_medium=rss)
-- [Управление в ИБ: про переход из смежных сфер и специфику проектов](https://habr.com/ru/companies/k2tech/news/806531/?utm_campaign=806531&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
