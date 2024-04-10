@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: власти США намерены запретить американским гражданам и частным компаниям использовать ПО «Лаборатории Касперского»](https://habr.com/ru/news/806607/?utm_campaign=806607&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор запустил в РФ аналог сервиса Whois и публичный сервис РАНР &lpar;реестр адресно-номерных ресурсов&rpar; Рунета](https://habr.com/ru/news/806591/?utm_campaign=806591&utm_source=habrahabr&utm_medium=rss)
 - [Beeper: универсальный мессенджер ушёл в релиз](https://habr.com/ru/news/806581/?utm_campaign=806581&utm_source=habrahabr&utm_medium=rss)
 - [TON Society и HumanCode интегрируют биометрическую ИИ-аутентификацию для пользователей Telegram в течение пяти лет](https://habr.com/ru/news/806577/?utm_campaign=806577&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление ESLint 9.0](https://habr.com/ru/news/806575/?utm_campaign=806575&utm_source=habrahabr&utm_medium=rss)
-- [Антенны с метаповерхностью обеспечат РФ спутниковой связью](https://habr.com/ru/news/806557/?utm_campaign=806557&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
