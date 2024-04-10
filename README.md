@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio 17.10 получит унифицированный интерфейс Copilot, объединяющий функции Copilot и Copilot Chat](https://habr.com/ru/news/806817/?utm_campaign=806817&utm_source=habrahabr&utm_medium=rss)
+- [Президент США заявил, что рассматривает просьбу властей Австралии закрыть дело против гражданина этой страны Ассанжа](https://habr.com/ru/news/806807/?utm_campaign=806807&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать пилотный проект NGFW без использования собственных ресурсов](https://habr.com/ru/companies/tssolution/news/806793/?utm_campaign=806793&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносный код в проектах Visual Studio на GitHub распространяет зловред Keyzetsu](https://habr.com/ru/news/806783/?utm_campaign=806783&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия GPT-4 и она уже покоряет математические олимпиады](https://habr.com/ru/companies/bothub/news/806775/?utm_campaign=806775&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies опубликовала финансовые итоги за 2023 год](https://habr.com/ru/news/806759/?utm_campaign=806759&utm_source=habrahabr&utm_medium=rss)
-- [AIRI выложил мультимодальную модель искусственного интеллекта OmniFusion в открытый доступ](https://habr.com/ru/news/806733/?utm_campaign=806733&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
