@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК InfoWatch представила отчёт об утечках персональных данных в 2023 году](https://habr.com/ru/news/807095/?utm_campaign=807095&utm_source=habrahabr&utm_medium=rss)
 - [Вышел инструментарий для встраивания оверлейных сетей в приложения OpenZiti 1.0](https://habr.com/ru/news/807077/?utm_campaign=807077&utm_source=habrahabr&utm_medium=rss)
 - [X5 Data Science meetup #3](https://habr.com/ru/companies/X5Tech/news/807035/?utm_campaign=807035&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструментария для дизайна и прототипирования Penpot 2.0](https://habr.com/ru/news/807011/?utm_campaign=807011&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст встроил Raspberry Pi RP2040 в плату для циферблата наручных часов](https://habr.com/ru/news/806985/?utm_campaign=806985&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» представил отчёт «Ключевые уязвимости информационных систем российских компаний»](https://habr.com/ru/news/806979/?utm_campaign=806979&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
