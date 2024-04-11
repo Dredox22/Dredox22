@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Создатель саундтрека к игре «Dune» 1992 года, выпустил ремастер CD OST «Dune Spice Opera» в формате цифрового альбома](https://habr.com/ru/news/806863/?utm_campaign=806863&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф Банк» представил утилиту T‑Mazing для восстановления и установки своих приложений, удалённых из AppStore](https://habr.com/ru/news/806835/?utm_campaign=806835&utm_source=habrahabr&utm_medium=rss)
 - [Visual Studio 17.10 получит унифицированный интерфейс Copilot, объединяющий функции Copilot и Copilot Chat](https://habr.com/ru/news/806817/?utm_campaign=806817&utm_source=habrahabr&utm_medium=rss)
 - [Президент США заявил, что рассматривает просьбу властей Австралии закрыть дело против гражданина этой страны Ассанжа](https://habr.com/ru/news/806807/?utm_campaign=806807&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать пилотный проект NGFW без использования собственных ресурсов](https://habr.com/ru/companies/tssolution/news/806793/?utm_campaign=806793&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносный код в проектах Visual Studio на GitHub распространяет зловред Keyzetsu](https://habr.com/ru/news/806783/?utm_campaign=806783&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
