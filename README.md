@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инструментария для дизайна и прототипирования Penpot 2.0](https://habr.com/ru/news/807011/?utm_campaign=807011&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст встроил Raspberry Pi RP2040 в плату для циферблата наручных часов](https://habr.com/ru/news/806985/?utm_campaign=806985&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» представил отчёт «Ключевые уязвимости информационных систем российских компаний»](https://habr.com/ru/news/806979/?utm_campaign=806979&utm_source=habrahabr&utm_medium=rss)
 - [Apple разослала уведомления об угрозах шпионских атак пользователям iPhone в 92 странах](https://habr.com/ru/news/806963/?utm_campaign=806963&utm_source=habrahabr&utm_medium=rss)
 - [Недолго Suno хайпили или знакомьтесь — Udio: AI для создания музыки с $10M инвестиций и поддержкой знаменитостей](https://habr.com/ru/companies/bothub/news/806951/?utm_campaign=806951&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Grafana Loki 3.0](https://habr.com/ru/news/806935/?utm_campaign=806935&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
