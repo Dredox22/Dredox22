@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Техасе специалистов, проверяющих результаты экзаменов, заменят системой на базе ИИ](https://habr.com/ru/news/806895/?utm_campaign=806895&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: иностранные граждане смогут приобретать сим-карты операторов связи РФ только при наличии аккаунта на «Госуслугах»](https://habr.com/ru/news/806893/?utm_campaign=806893&utm_source=habrahabr&utm_medium=rss)
-- [Серверы с GPU все чаще арендуют для тренировок ИИ, а за год операторы заработали на них 6,6 млрд рублей](https://habr.com/ru/companies/oxygendc/news/806843/?utm_campaign=806843&utm_source=habrahabr&utm_medium=rss)
-- [Создатель саундтрека к игре «Dune» 1992 года, выпустил ремастер CD OST «Dune Spice Opera» в формате цифрового альбома](https://habr.com/ru/news/806863/?utm_campaign=806863&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф Банк» представил утилиту T‑Mazing для восстановления и установки своих приложений, удалённых из AppStore](https://habr.com/ru/news/806835/?utm_campaign=806835&utm_source=habrahabr&utm_medium=rss)
+- [Google добавит в Chrome песочницу для V8](https://habr.com/ru/news/806927/?utm_campaign=806927&utm_source=habrahabr&utm_medium=rss)
+- [Google анонсировала версию браузера для организаций с подпиской](https://habr.com/ru/news/806921/?utm_campaign=806921&utm_source=habrahabr&utm_medium=rss)
+- [Репозиторий проекта XZ снова доступен на GitHub](https://habr.com/ru/news/806901/?utm_campaign=806901&utm_source=habrahabr&utm_medium=rss)
+- [Как анализировать данные юрлиц и управлять ими: расскажем на вебинаре](https://habr.com/ru/companies/hflabs/news/806797/?utm_campaign=806797&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл сбор заявок на тестирование игрового облачного сервиса «Плюс Гейминг»](https://habr.com/ru/news/806907/?utm_campaign=806907&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
