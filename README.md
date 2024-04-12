@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили бенчмарк для языковых моделей, в котором нейросетям надо играть в Street Fighter III](https://habr.com/ru/news/807207/?utm_campaign=807207&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила первую публичную бета-версию Android 15](https://habr.com/ru/news/807205/?utm_campaign=807205&utm_source=habrahabr&utm_medium=rss)
+- [SiFive выпустила новую плату HiFive Premier P550 для разработчиков RISC-V](https://habr.com/ru/news/807195/?utm_campaign=807195&utm_source=habrahabr&utm_medium=rss)
+- [Опубликована русская версия глоссария Cloud Native &lpar;проект CNCF&rpar; — присоединяйтесь к команде локализации](https://habr.com/ru/companies/flant/news/807191/?utm_campaign=807191&utm_source=habrahabr&utm_medium=rss)
 - [DuckDuckGo запускает подписку Privacy Pro с продвинутыми функциями безопасности](https://habr.com/ru/news/807185/?utm_campaign=807185&utm_source=habrahabr&utm_medium=rss)
-- [Discord отключила серверы эмуляторов Nintendo Switch Suyu и Sudachi и удалила учётки ведущих разработчиков проектов](https://habr.com/ru/news/807167/?utm_campaign=807167&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начинает показывать полноэкранное уведомление об окончании поддержки Windows 10](https://habr.com/ru/news/807121/?utm_campaign=807121&utm_source=habrahabr&utm_medium=rss)
-- [Instagram** начал обнаруживать и размывать обнажённые фото, пересылаемые подросткам](https://habr.com/ru/news/807109/?utm_campaign=807109&utm_source=habrahabr&utm_medium=rss)
-- [ГК InfoWatch представила отчёт об утечках персональных данных в 2023 году](https://habr.com/ru/news/807095/?utm_campaign=807095&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
