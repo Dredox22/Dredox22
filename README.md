@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.5](https://habr.com/ru/news/807253/?utm_campaign=807253&utm_source=habrahabr&utm_medium=rss)
+- [Митап про новые тренды и инструменты ML](https://habr.com/ru/companies/selectel/news/807239/?utm_campaign=807239&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: китайские банки начали блокировать оплату от российских компаний за компоненты для сборки электроники](https://habr.com/ru/news/807237/?utm_campaign=807237&utm_source=habrahabr&utm_medium=rss)
 - [Серверы Intel и Lenovo пострадали от уязвимости в Lighttpd шестилетней давности](https://habr.com/ru/news/807231/?utm_campaign=807231&utm_source=habrahabr&utm_medium=rss)
 - [Знаете Python? Попробуйте решить задачу](https://habr.com/ru/companies/selectel/news/806959/?utm_campaign=806959&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили бенчмарк для языковых моделей, в котором нейросетям надо играть в Street Fighter III](https://habr.com/ru/news/807207/?utm_campaign=807207&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила первую публичную бета-версию Android 15](https://habr.com/ru/news/807205/?utm_campaign=807205&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
