@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст собрал стулья по чертежам нейросетей Mistral и ChatGPT](https://habr.com/ru/news/807339/?utm_campaign=807339&utm_source=habrahabr&utm_medium=rss)
 - [Universal-1 от AssemblyAI превзошел Whisper от OpenAI: новый лидер в гонке решений для распознавания речи](https://habr.com/ru/companies/bothub/news/807323/?utm_campaign=807323&utm_source=habrahabr&utm_medium=rss)
 - [EA закрыла отдел тестирования Apex Legends в Великобритании](https://habr.com/ru/news/807307/?utm_campaign=807307&utm_source=habrahabr&utm_medium=rss)
 - [Transcend представила промышленные SSD PCI-e 4.0 объемом до 2 Тбайт](https://habr.com/ru/companies/dcmiran/news/807305/?utm_campaign=807305&utm_source=habrahabr&utm_medium=rss)
 - [Российские роботы выполняют задачи на естественном языке. Зимний ROS Meetup 2024 — как это было и как это будет?](https://habr.com/ru/companies/sberbank/news/807287/?utm_campaign=807287&utm_source=habrahabr&utm_medium=rss)
-- [Canonical представила бета-выпуск Ubuntu 24.04 LTS Noble Numbat](https://habr.com/ru/news/807285/?utm_campaign=807285&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
