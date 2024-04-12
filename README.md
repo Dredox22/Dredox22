@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [EA закрыла отдел тестирования Apex Legends в Великобритании](https://habr.com/ru/news/807307/?utm_campaign=807307&utm_source=habrahabr&utm_medium=rss)
+- [Transcend представила промышленные SSD PCI-e 4.0 объемом до 2 Тбайт](https://habr.com/ru/companies/dcmiran/news/807305/?utm_campaign=807305&utm_source=habrahabr&utm_medium=rss)
+- [Российские роботы выполняют задачи на естественном языке. Зимний ROS Meetup 2024 — как это было и как это будет?](https://habr.com/ru/companies/sberbank/news/807287/?utm_campaign=807287&utm_source=habrahabr&utm_medium=rss)
+- [Canonical представила бета-выпуск Ubuntu 24.04 LTS Noble Numbat](https://habr.com/ru/news/807285/?utm_campaign=807285&utm_source=habrahabr&utm_medium=rss)
 - [В США против HP подан групповой иск с требованием разблокировать возможность установки сторонних картриджей в принтерах](https://habr.com/ru/news/807273/?utm_campaign=807273&utm_source=habrahabr&utm_medium=rss)
-- [Модель GPT-4 Turbo стала доступна пользователям ChatGPT Plus](https://habr.com/ru/news/807269/?utm_campaign=807269&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.5](https://habr.com/ru/news/807253/?utm_campaign=807253&utm_source=habrahabr&utm_medium=rss)
-- [Митап про новые тренды и инструменты ML](https://habr.com/ru/companies/selectel/news/807239/?utm_campaign=807239&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: китайские банки начали блокировать оплату от российских компаний за компоненты для сборки электроники](https://habr.com/ru/news/807237/?utm_campaign=807237&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
