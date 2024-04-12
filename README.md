@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord отключила серверы эмуляторов Nintendo Switch Suyu и Sudachi и удалила учётки ведущих разработчиков проектов](https://habr.com/ru/news/807167/?utm_campaign=807167&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начинает показывать полноэкранное уведомление об окончании поддержки Windows 10](https://habr.com/ru/news/807121/?utm_campaign=807121&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** начал обнаруживать и размывать обнажённые фото, пересылаемые подросткам](https://habr.com/ru/news/807109/?utm_campaign=807109&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch представила отчёт об утечках персональных данных в 2023 году](https://habr.com/ru/news/807095/?utm_campaign=807095&utm_source=habrahabr&utm_medium=rss)
 - [Вышел инструментарий для встраивания оверлейных сетей в приложения OpenZiti 1.0](https://habr.com/ru/news/807077/?utm_campaign=807077&utm_source=habrahabr&utm_medium=rss)
-- [X5 Data Science meetup #3](https://habr.com/ru/companies/X5Tech/news/807035/?utm_campaign=807035&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
