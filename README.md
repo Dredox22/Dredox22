@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструмент «Ножницы» в Windows 11 получит поддержку эмодзи, HDR и QR-кодов](https://habr.com/ru/news/807519/?utm_campaign=807519&utm_source=habrahabr&utm_medium=rss)
 - [Lightning Studio: Альтернатива Google Colab от создателей PyTorch Lighting](https://habr.com/ru/companies/bothub/news/807407/?utm_campaign=807407&utm_source=habrahabr&utm_medium=rss)
 - [Великобританию наводнили поддельные почтовые марки со штрих-кодами, продающиеся в официальных магазинах](https://habr.com/ru/news/807503/?utm_campaign=807503&utm_source=habrahabr&utm_medium=rss)
 - [У робота Tesla будут проворные пальцы, а зарядка Microsoft предскажет будущее: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/807399/?utm_campaign=807399&utm_source=habrahabr&utm_medium=rss)
 - [Postman приобрела платформу Orbit](https://habr.com/ru/news/807483/?utm_campaign=807483&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft устранила ошибку с раскрытием файлов и учётных данных сотрудников](https://habr.com/ru/news/807481/?utm_campaign=807481&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
