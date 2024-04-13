@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google откроет доступ к ИИ-инструментам редактирования фотографий Magic Editor и другим всем пользователям «Google Фото»](https://habr.com/ru/news/807465/?utm_campaign=807465&utm_source=habrahabr&utm_medium=rss)
+- [Firefly от Adobe уличили в обучении на изображениях Midjourney](https://habr.com/ru/news/807461/?utm_campaign=807461&utm_source=habrahabr&utm_medium=rss)
 - [Киберполиция Японии арестовала 36-летнего взломщика файлов сохранений игр Pokémon Scarlet и Violet для Nintendo Switch](https://habr.com/ru/news/807447/?utm_campaign=807447&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры «Смута» пообещали хотфикс, мегапатч в мае, большое дополнение и новые локации в образовательном режиме](https://habr.com/ru/news/807373/?utm_campaign=807373&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор заблокировал доступ к сайтам 8 иностранных провайдеров хостинга, подлежащих «приземлению»](https://habr.com/ru/news/807363/?utm_campaign=807363&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст собрал стулья по чертежам нейросетей Mistral и ChatGPT](https://habr.com/ru/news/807339/?utm_campaign=807339&utm_source=habrahabr&utm_medium=rss)
-- [Universal-1 от AssemblyAI превзошел Whisper от OpenAI: новый лидер в гонке решений для распознавания речи](https://habr.com/ru/companies/bothub/news/807323/?utm_campaign=807323&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
