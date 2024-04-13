@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightning Studio: Альтернатива Google Colab от создателей PyTorch Lighting](https://habr.com/ru/companies/bothub/news/807407/?utm_campaign=807407&utm_source=habrahabr&utm_medium=rss)
+- [Великобританию наводнили поддельные почтовые марки со штрих-кодами, продающиеся в официальных магазинах](https://habr.com/ru/news/807503/?utm_campaign=807503&utm_source=habrahabr&utm_medium=rss)
 - [У робота Tesla будут проворные пальцы, а зарядка Microsoft предскажет будущее: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/807399/?utm_campaign=807399&utm_source=habrahabr&utm_medium=rss)
 - [Postman приобрела платформу Orbit](https://habr.com/ru/news/807483/?utm_campaign=807483&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft устранила ошибку с раскрытием файлов и учётных данных сотрудников](https://habr.com/ru/news/807481/?utm_campaign=807481&utm_source=habrahabr&utm_medium=rss)
-- [Утечка в Roku затронула 576 тысяч аккаунтов](https://habr.com/ru/news/807479/?utm_campaign=807479&utm_source=habrahabr&utm_medium=rss)
-- [Google откроет доступ к ИИ-инструментам редактирования фотографий Magic Editor и другим всем пользователям «Google Фото»](https://habr.com/ru/news/807465/?utm_campaign=807465&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
