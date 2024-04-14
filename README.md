@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Блиц-кейс] Как BILLmanager помогает продавать облачные сервисы и эффективно взаимодействовать с клиентами](https://habr.com/ru/companies/ispsystem/news/786798/?utm_campaign=786798&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива Lakka 5.0 для создания игровых консолей и запуска ретроигр](https://habr.com/ru/news/807623/?utm_campaign=807623&utm_source=habrahabr&utm_medium=rss)
+- [Проект doom-htop позволяет играть в Doom при использовании консольной утилиты htop](https://habr.com/ru/news/807619/?utm_campaign=807619&utm_source=habrahabr&utm_medium=rss)
 - [Garner представила вибростенд DiskMantler для разбора на запчасти жёстких дисков за пару минут](https://habr.com/ru/news/807611/?utm_campaign=807611&utm_source=habrahabr&utm_medium=rss)
 - [Telegram исправил уязвимость нулевого дня для клиента Windows](https://habr.com/ru/news/807587/?utm_campaign=807587&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Vana представил платформу «аренды» данных Reddit для обучения ИИ](https://habr.com/ru/news/807577/?utm_campaign=807577&utm_source=habrahabr&utm_medium=rss)
-- [Как изучить информационную безопасность? Рассказываем в новом бесплатном курсе](https://habr.com/ru/companies/selectel/news/807573/?utm_campaign=807573&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые разработчики из-за ошибки в системе статистики App Store Connect на время стали миллионерами](https://habr.com/ru/news/807555/?utm_campaign=807555&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
