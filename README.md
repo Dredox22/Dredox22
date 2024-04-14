@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram исправил уязвимость нулевого дня для клиента Windows](https://habr.com/ru/news/807587/?utm_campaign=807587&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Vana представил платформу «аренды» данных Reddit для обучения ИИ](https://habr.com/ru/news/807577/?utm_campaign=807577&utm_source=habrahabr&utm_medium=rss)
+- [Как изучить информационную безопасность и не стать хакером? Рассказываем в новом бесплатном курсе](https://habr.com/ru/companies/selectel/news/807573/?utm_campaign=807573&utm_source=habrahabr&utm_medium=rss)
 - [Некоторые разработчики из-за ошибки в системе статистики App Store Connect на время стали миллионерами](https://habr.com/ru/news/807555/?utm_campaign=807555&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент «Ножницы» в Windows 11 получит поддержку эмодзи, HDR и QR-кодов](https://habr.com/ru/news/807519/?utm_campaign=807519&utm_source=habrahabr&utm_medium=rss)
-- [Lightning Studio: Альтернатива Google Colab от создателей PyTorch Lighting](https://habr.com/ru/companies/bothub/news/807407/?utm_campaign=807407&utm_source=habrahabr&utm_medium=rss)
-- [Великобританию наводнили поддельные почтовые марки со штрих-кодами, продающиеся в официальных магазинах](https://habr.com/ru/news/807503/?utm_campaign=807503&utm_source=habrahabr&utm_medium=rss)
-- [У робота Tesla будут проворные пальцы, а зарядка Microsoft предскажет будущее: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/807399/?utm_campaign=807399&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
