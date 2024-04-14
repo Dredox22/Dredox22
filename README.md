@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [[Блиц-кейс] Как BILLmanager помогает продавать облачные сервисы и эффективно взаимодействовать с клиентами](https://habr.com/ru/companies/ispsystem/news/786798/?utm_campaign=786798&utm_source=habrahabr&utm_medium=rss)
+- [Массовые проблемы с аутентификацией на github.com](https://habr.com/ru/news/807653/?utm_campaign=807653&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Lakka 5.0 для создания игровых консолей и запуска ретроигр](https://habr.com/ru/news/807623/?utm_campaign=807623&utm_source=habrahabr&utm_medium=rss)
 - [Проект doom-htop позволяет играть в Doom при использовании консольной утилиты htop](https://habr.com/ru/news/807619/?utm_campaign=807619&utm_source=habrahabr&utm_medium=rss)
 - [Garner представила вибростенд DiskMantler для разбора на запчасти жёстких дисков за пару минут](https://habr.com/ru/news/807611/?utm_campaign=807611&utm_source=habrahabr&utm_medium=rss)
-- [Telegram исправил уязвимость нулевого дня для клиента Windows](https://habr.com/ru/news/807587/?utm_campaign=807587&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
