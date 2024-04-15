@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратит поддержку приложений и серверов Office 2016 и Office 2019 с 14 октября 2025 года](https://habr.com/ru/news/807941/?utm_campaign=807941&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила специальную модель GPT-4, оптимизированную для японского языка](https://habr.com/ru/news/807937/?utm_campaign=807937&utm_source=habrahabr&utm_medium=rss)
 - [Национальный координационный центр по компьютерным инцидентам &lpar;НКЦКИ&rpar; запустил портал проверки утечек ПД пользователей](https://habr.com/ru/news/807933/?utm_campaign=807933&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram добавили редактор стикеров](https://habr.com/ru/news/807905/?utm_campaign=807905&utm_source=habrahabr&utm_medium=rss)
 - [Опция Crash Detection в iPhone помогла полиции обнаружить место ДТП в Новой Зеландии](https://habr.com/ru/news/807903/?utm_campaign=807903&utm_source=habrahabr&utm_medium=rss)
-- [Apple потеряла лидерство по мировым поставкам смартфонов](https://habr.com/ru/news/807897/?utm_campaign=807897&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
