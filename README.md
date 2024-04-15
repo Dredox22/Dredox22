@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик добавил микротранзакции с QR-кодом в оригинальную версию Doom 1993 года выпуска](https://habr.com/ru/news/807767/?utm_campaign=807767&utm_source=habrahabr&utm_medium=rss)
 - [В App Store опубликовано фейковое приложение «Сбера» под названием «Сбер: Онлайн Банк»](https://habr.com/ru/news/807749/?utm_campaign=807749&utm_source=habrahabr&utm_medium=rss)
 - [xAI представила нейросеть Grok-1.5 Vision &lpar;Grok-1.5V&rpar;, способную работать с изображениями](https://habr.com/ru/news/807747/?utm_campaign=807747&utm_source=habrahabr&utm_medium=rss)
 - [«Стингрей Технолоджиз» – партнер RuMarket: повышаем безопасность мобильных приложений](https://habr.com/ru/companies/swordfish_security/news/807745/?utm_campaign=807745&utm_source=habrahabr&utm_medium=rss)
 - [Первый одобренный Apple эмулятор ретро-игр iGBA для iPhone удалили из App Store](https://habr.com/ru/news/807737/?utm_campaign=807737&utm_source=habrahabr&utm_medium=rss)
-- [Кошка предупредила инженера-программиста о ночной DDoS-атаке](https://habr.com/ru/news/807713/?utm_campaign=807713&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
