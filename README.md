@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В App Store опубликовано фейковое приложение «Сбера» под названием «Сбер: Онлайн Банк»](https://habr.com/ru/news/807749/?utm_campaign=807749&utm_source=habrahabr&utm_medium=rss)
+- [xAI представила нейросеть Grok-1.5 Vision &lpar;Grok-1.5V&rpar;, способную работать с изображениями](https://habr.com/ru/news/807747/?utm_campaign=807747&utm_source=habrahabr&utm_medium=rss)
+- [«Стингрей Технолоджиз» – партнер RuMarket: повышаем безопасность мобильных приложений](https://habr.com/ru/companies/swordfish_security/news/807745/?utm_campaign=807745&utm_source=habrahabr&utm_medium=rss)
 - [Первый одобренный Apple эмулятор ретро-игр iGBA для iPhone удалили из App Store](https://habr.com/ru/news/807737/?utm_campaign=807737&utm_source=habrahabr&utm_medium=rss)
 - [Кошка предупредила инженера-программиста о ночной DDoS-атаке](https://habr.com/ru/news/807713/?utm_campaign=807713&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появилась страница настроек для управления связанными устройствами](https://habr.com/ru/news/807717/?utm_campaign=807717&utm_source=habrahabr&utm_medium=rss)
-- [Запустили проект с НСИС по повышению качества данных](https://habr.com/ru/companies/hflabs/news/807705/?utm_campaign=807705&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в Госдуме предупредили пользователей об опасности запуска VPN-клиентов](https://habr.com/ru/news/807689/?utm_campaign=807689&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
