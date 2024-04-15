@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кошка предупредила инженера-программиста о ночной DDoS-атаке](https://habr.com/ru/news/807713/?utm_campaign=807713&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 появилась страница настроек для управления связанными устройствами](https://habr.com/ru/news/807717/?utm_campaign=807717&utm_source=habrahabr&utm_medium=rss)
+- [Запустили проект с НСИС по повышению качества данных](https://habr.com/ru/companies/hflabs/news/807705/?utm_campaign=807705&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в Госдуме предупредили пользователей об опасности запуска VPN-клиентов](https://habr.com/ru/news/807689/?utm_campaign=807689&utm_source=habrahabr&utm_medium=rss)
 - [[Блиц-кейс] Как BILLmanager помогает продавать облачные сервисы и эффективно взаимодействовать с клиентами](https://habr.com/ru/companies/ispsystem/news/786798/?utm_campaign=786798&utm_source=habrahabr&utm_medium=rss)
-- [Массовые проблемы с аутентификацией на github.com](https://habr.com/ru/news/807653/?utm_campaign=807653&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива Lakka 5.0 для создания игровых консолей и запуска ретроигр](https://habr.com/ru/news/807623/?utm_campaign=807623&utm_source=habrahabr&utm_medium=rss)
-- [Проект doom-htop позволяет играть в Doom при использовании консольной утилиты htop](https://habr.com/ru/news/807619/?utm_campaign=807619&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
