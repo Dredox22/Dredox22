@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первый одобренный Apple эмулятор ретро-игр iGBA для iPhone удалили из App Store](https://habr.com/ru/news/807737/?utm_campaign=807737&utm_source=habrahabr&utm_medium=rss)
 - [Кошка предупредила инженера-программиста о ночной DDoS-атаке](https://habr.com/ru/news/807713/?utm_campaign=807713&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появилась страница настроек для управления связанными устройствами](https://habr.com/ru/news/807717/?utm_campaign=807717&utm_source=habrahabr&utm_medium=rss)
 - [Запустили проект с НСИС по повышению качества данных](https://habr.com/ru/companies/hflabs/news/807705/?utm_campaign=807705&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в Госдуме предупредили пользователей об опасности запуска VPN-клиентов](https://habr.com/ru/news/807689/?utm_campaign=807689&utm_source=habrahabr&utm_medium=rss)
-- [[Блиц-кейс] Как BILLmanager помогает продавать облачные сервисы и эффективно взаимодействовать с клиентами](https://habr.com/ru/companies/ispsystem/news/786798/?utm_campaign=786798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
