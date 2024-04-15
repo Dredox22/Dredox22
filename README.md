@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: в Госдуме предупредили пользователей об опасности запуска VPN-клиентов](https://habr.com/ru/news/807689/?utm_campaign=807689&utm_source=habrahabr&utm_medium=rss)
 - [[Блиц-кейс] Как BILLmanager помогает продавать облачные сервисы и эффективно взаимодействовать с клиентами](https://habr.com/ru/companies/ispsystem/news/786798/?utm_campaign=786798&utm_source=habrahabr&utm_medium=rss)
 - [Массовые проблемы с аутентификацией на github.com](https://habr.com/ru/news/807653/?utm_campaign=807653&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Lakka 5.0 для создания игровых консолей и запуска ретроигр](https://habr.com/ru/news/807623/?utm_campaign=807623&utm_source=habrahabr&utm_medium=rss)
 - [Проект doom-htop позволяет играть в Doom при использовании консольной утилиты htop](https://habr.com/ru/news/807619/?utm_campaign=807619&utm_source=habrahabr&utm_medium=rss)
-- [Garner представила вибростенд DiskMantler для разбора на детали жёстких дисков за пару минут](https://habr.com/ru/news/807611/?utm_campaign=807611&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
