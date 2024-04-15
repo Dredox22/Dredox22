@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Telegram добавили редактор стикеров](https://habr.com/ru/news/807905/?utm_campaign=807905&utm_source=habrahabr&utm_medium=rss)
+- [Опция Crash Detection в iPhone помогла полиции обнаружить место ДТП в Новой Зеландии](https://habr.com/ru/news/807903/?utm_campaign=807903&utm_source=habrahabr&utm_medium=rss)
+- [Apple потеряла лидерство по мировым поставкам смартфонов](https://habr.com/ru/news/807897/?utm_campaign=807897&utm_source=habrahabr&utm_medium=rss)
 - [Евгений Касперский представил смартфон «Аквариус» с защищённой ОС KasperskyOS](https://habr.com/ru/news/807895/?utm_campaign=807895&utm_source=habrahabr&utm_medium=rss)
 - [R-Style Softlab подтвердила совместимость RS-Bank V.6 с СУБД Postgres Pro](https://habr.com/ru/companies/rshb/news/807877/?utm_campaign=807877&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники стали создавать поддельные сайты техподдержки операторов связи для кражи аккаунтов «Госуслуг»](https://habr.com/ru/news/807867/?utm_campaign=807867&utm_source=habrahabr&utm_medium=rss)
-- [SpaceHopper протестировала трёхногого робота, который сможет прыгать по астероидам и изучать их](https://habr.com/ru/news/807865/?utm_campaign=807865&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/807855/?utm_campaign=807855&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
