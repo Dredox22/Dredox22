@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик добавил микротранзакции с QR-кодом в оригинальную версию Doom 1993 года выпуска](https://habr.com/ru/news/807767/?utm_campaign=807767&utm_source=habrahabr&utm_medium=rss)
-- [В App Store опубликовано фейковое приложение «Сбера» под названием «Сбер: Онлайн Банк»](https://habr.com/ru/news/807749/?utm_campaign=807749&utm_source=habrahabr&utm_medium=rss)
-- [xAI представила нейросеть Grok-1.5 Vision &lpar;Grok-1.5V&rpar;, способную работать с изображениями](https://habr.com/ru/news/807747/?utm_campaign=807747&utm_source=habrahabr&utm_medium=rss)
-- [«Стингрей Технолоджиз» – партнер RuMarket: повышаем безопасность мобильных приложений](https://habr.com/ru/companies/swordfish_security/news/807745/?utm_campaign=807745&utm_source=habrahabr&utm_medium=rss)
-- [Первый одобренный Apple эмулятор ретро-игр iGBA для iPhone удалили из App Store](https://habr.com/ru/news/807737/?utm_campaign=807737&utm_source=habrahabr&utm_medium=rss)
+- [R-Style Softlab подтвердила совместимость RS-Bank V.6 с СУБД Postgres Pro](https://habr.com/ru/companies/rshb/news/807877/?utm_campaign=807877&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники стали создавать поддельные сайты техподдержки операторов связи для кражи аккаунтов «Госуслуг»](https://habr.com/ru/news/807867/?utm_campaign=807867&utm_source=habrahabr&utm_medium=rss)
+- [SpaceHopper протестировала трёхногого робота, который сможет прыгать по астероидам и изучать их](https://habr.com/ru/news/807865/?utm_campaign=807865&utm_source=habrahabr&utm_medium=rss)
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/807855/?utm_campaign=807855&utm_source=habrahabr&utm_medium=rss)
+- [Дискуссионный клуб Музея криптографии открывает новый сезон](https://habr.com/ru/companies/kryptonite/news/807849/?utm_campaign=807849&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
