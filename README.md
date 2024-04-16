@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Со слезами на глазах: мошенники подготовили атаку на ветеранов ко Дню Победы](https://habr.com/ru/companies/f_a_c_c_t/news/808067/?utm_campaign=808067&utm_source=habrahabr&utm_medium=rss)
+- [НОЦ ФМН представил новую технологию создания фотонных интегральных схем](https://habr.com/ru/news/808053/?utm_campaign=808053&utm_source=habrahabr&utm_medium=rss)
 - [GitLab по запросу DMCA заблокировал репозиторий с дополнением для обхода Paywall](https://habr.com/ru/news/808039/?utm_campaign=808039&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft ограничит количество адресов e-mail для внешних получателей в Exchange Online](https://habr.com/ru/news/808027/?utm_campaign=808027&utm_source=habrahabr&utm_medium=rss)
 - [VK планирует выпустить умную колонку с датчиками умного дома](https://habr.com/ru/news/808031/?utm_campaign=808031&utm_source=habrahabr&utm_medium=rss)
-- [АСКОН выпустил бета-версию КОМПАС-3D v23 и приглашает на открытое тестирование](https://habr.com/ru/companies/ascon/news/807327/?utm_campaign=807327&utm_source=habrahabr&utm_medium=rss)
-- [Nubes запустил услугу комплексного аудита информационной безопасности](https://habr.com/ru/companies/nubes/news/808007/?utm_campaign=808007&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
