@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчиков ИБ-решений хотят освободить от аттестации ФСТЭК](https://habr.com/ru/companies/oxygendc/news/807975/?utm_campaign=807975&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 теперь доступна для большего числа ПК на процессорах Intel с Windows 10](https://habr.com/ru/news/807967/?utm_campaign=807967&utm_source=habrahabr&utm_medium=rss)
+- [Критическая уязвимость CVE-2024-31497 в PuTTY версий от 0.68 до 0.80 позволяет провести компрометацию закрытого ключа](https://habr.com/ru/news/807965/?utm_campaign=807965&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс решил бороться с парсерами Kconfig, которые не могут правильно обрабатывать табуляции](https://habr.com/ru/news/807963/?utm_campaign=807963&utm_source=habrahabr&utm_medium=rss)
 - [В Южной Корее молодым разработчикам игр компенсируют до половины арендной платы за жильё](https://habr.com/ru/news/807947/?utm_campaign=807947&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку приложений и серверов Office 2016 и Office 2019 с 14 октября 2025 года](https://habr.com/ru/news/807941/?utm_campaign=807941&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила специальную модель GPT-4, оптимизированную для японского языка](https://habr.com/ru/news/807937/?utm_campaign=807937&utm_source=habrahabr&utm_medium=rss)
-- [Национальный координационный центр по компьютерным инцидентам &lpar;НКЦКИ&rpar; запустил портал проверки утечек ПД пользователей](https://habr.com/ru/news/807933/?utm_campaign=807933&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
