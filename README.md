@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitLab по запросу DMCA заблокировал репозиторий с дополнением для обхода Paywall](https://habr.com/ru/news/808039/?utm_campaign=808039&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft ограничит количество адресов e-mail для внешних получателей в Exchange Online](https://habr.com/ru/news/808027/?utm_campaign=808027&utm_source=habrahabr&utm_medium=rss)
+- [VK планирует выпустить умную колонку с датчиками умного дома](https://habr.com/ru/news/808031/?utm_campaign=808031&utm_source=habrahabr&utm_medium=rss)
 - [АСКОН выпустил бета-версию КОМПАС-3D v23 и приглашает на открытое тестирование](https://habr.com/ru/companies/ascon/news/807327/?utm_campaign=807327&utm_source=habrahabr&utm_medium=rss)
 - [Nubes запустил услугу комплексного аудита информационной безопасности](https://habr.com/ru/companies/nubes/news/808007/?utm_campaign=808007&utm_source=habrahabr&utm_medium=rss)
-- [От технологий “под капотом” сложных ИТ-продуктов до принципов технического лидерства: Сравни запускает ИТ-подкаст](https://habr.com/ru/companies/sravni/news/807999/?utm_campaign=807999&utm_source=habrahabr&utm_medium=rss)
-- [Тысячи приложений портировали на Windows 95 с помощью .NET Framework](https://habr.com/ru/news/808003/?utm_campaign=808003&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI даст скидку в 50% на использование ChatGPT в непиковые часы](https://habr.com/ru/news/807995/?utm_campaign=807995&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
