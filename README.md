@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple подтвердила, что разрешает эмуляторам для iPhone скачивать ретро-игры из различных источников](https://habr.com/ru/news/808189/?utm_campaign=808189&utm_source=habrahabr&utm_medium=rss)
+- [Российская компания «Катюша» запустила производство принтеров и МФУ на собственных печатных платах](https://habr.com/ru/news/808181/?utm_campaign=808181&utm_source=habrahabr&utm_medium=rss)
 - [В ЮАР с 30 апреля прекратится обслуживание терминалов Starlink](https://habr.com/ru/news/808171/?utm_campaign=808171&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты Positive Technologies приняли участие в запуске «поезда кибербезопасности»](https://habr.com/ru/companies/pt/news/808159/?utm_campaign=808159&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия «Kubernetes The Hard Way»: руководство теперь cloud provider agnostic и требует четырех ARM-машин](https://habr.com/ru/companies/flant/news/808145/?utm_campaign=808145&utm_source=habrahabr&utm_medium=rss)
-- [РКН заблокировал доступ к основным сайтам компаний Amazon Web Services и GoDaddy](https://habr.com/ru/news/808119/?utm_campaign=808119&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил «Нейро» — поисковик на базе нейросетей](https://habr.com/ru/news/808095/?utm_campaign=808095&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
