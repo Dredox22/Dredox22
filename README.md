@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 125](https://habr.com/ru/news/807991/?utm_campaign=807991&utm_source=habrahabr&utm_medium=rss)
+- [Meta* планирует выдавать студентам и преподавателям гарнитуры Quest VR для учебных целей](https://habr.com/ru/news/807989/?utm_campaign=807989&utm_source=habrahabr&utm_medium=rss)
 - [Разработчиков ИБ-решений хотят освободить от аттестации ФСТЭК](https://habr.com/ru/companies/oxygendc/news/807975/?utm_campaign=807975&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 теперь доступна для большего числа ПК на процессорах Intel с Windows 10](https://habr.com/ru/news/807967/?utm_campaign=807967&utm_source=habrahabr&utm_medium=rss)
 - [Критическая уязвимость CVE-2024-31497 в PuTTY версий от 0.68 до 0.80 позволяет провести компрометацию закрытого ключа](https://habr.com/ru/news/807965/?utm_campaign=807965&utm_source=habrahabr&utm_medium=rss)
-- [Линус Торвальдс решил бороться с парсерами Kconfig, которые не могут правильно обрабатывать табуляции](https://habr.com/ru/news/807963/?utm_campaign=807963&utm_source=habrahabr&utm_medium=rss)
-- [В Южной Корее молодым разработчикам игр компенсируют до половины арендной платы за жильё](https://habr.com/ru/news/807947/?utm_campaign=807947&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
