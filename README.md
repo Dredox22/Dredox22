@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [1C Game Studios и Московский драматический театр им М.Н. Ермоловой работают вместе над экшеном «Война Миров: Сибирь»](https://habr.com/ru/news/808215/?utm_campaign=808215&utm_source=habrahabr&utm_medium=rss)
 - [Вышли релизы Joomla 5.1.0 и Joomla 4.4.4](https://habr.com/ru/news/808193/?utm_campaign=808193&utm_source=habrahabr&utm_medium=rss)
 - [Apple подтвердила, что разрешает эмуляторам для iPhone скачивать ретро-игры из различных источников](https://habr.com/ru/news/808189/?utm_campaign=808189&utm_source=habrahabr&utm_medium=rss)
 - [Российская компания «Катюша» запустила производство принтеров и МФУ на собственных печатных платах](https://habr.com/ru/news/808181/?utm_campaign=808181&utm_source=habrahabr&utm_medium=rss)
 - [В ЮАР с 30 апреля прекратится обслуживание терминалов Starlink](https://habr.com/ru/news/808171/?utm_campaign=808171&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты Positive Technologies приняли участие в запуске «поезда кибербезопасности»](https://habr.com/ru/companies/pt/news/808159/?utm_campaign=808159&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
