@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия «Kubernetes The Hard Way»: руководство теперь cloud provider agnostic и требует четырех ARM-машин](https://habr.com/ru/companies/flant/news/808145/?utm_campaign=808145&utm_source=habrahabr&utm_medium=rss)
 - [РКН заблокировал доступ к основным сайтам компаний Amazon Web Services и GoDaddy](https://habr.com/ru/news/808119/?utm_campaign=808119&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил «Нейро» — поисковик на базе нейросетей](https://habr.com/ru/news/808095/?utm_campaign=808095&utm_source=habrahabr&utm_medium=rss)
 - [МТС открыла регистрацию на хакатон True Tech Hack](https://habr.com/ru/news/808075/?utm_campaign=808075&utm_source=habrahabr&utm_medium=rss)
 - [Со слезами на глазах: мошенники подготовили атаку на ветеранов ко Дню Победы](https://habr.com/ru/companies/f_a_c_c_t/news/808067/?utm_campaign=808067&utm_source=habrahabr&utm_medium=rss)
-- [НОЦ ФМН представил новую технологию создания фотонных интегральных схем](https://habr.com/ru/news/808053/?utm_campaign=808053&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
