@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик Descent 3 опубликовал исходные коды игры под лицензией MIT](https://habr.com/ru/news/808403/?utm_campaign=808403&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.30: улучшение работы с Unreal Engine, новые возможности C++ анализатора и многое другое](https://habr.com/ru/companies/pvs-studio/news/808379/?utm_campaign=808379&utm_source=habrahabr&utm_medium=rss)
 - [В команде проекта Gentoo запретили принятие изменений в коде, подготовленных при помощи ИИ](https://habr.com/ru/news/808361/?utm_campaign=808361&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «‎Как запустить 1С с нуля по технологии быстрого внедрения»](https://habr.com/ru/companies/nubes/news/808339/?utm_campaign=808339&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp появились фильтры для чатов](https://habr.com/ru/news/808337/?utm_campaign=808337&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты с помощью Raspberry Pi «оживили» Октокэта — маскота GitHub](https://habr.com/ru/news/808325/?utm_campaign=808325&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
