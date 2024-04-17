@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cisco предупредила об атаках методом перебора на VPN-сервисы](https://habr.com/ru/news/808315/?utm_campaign=808315&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» заключила соглашение с Министерством цифрового развития и связи Оренбургской области](https://habr.com/ru/companies/basealtspo/news/808307/?utm_campaign=808307&utm_source=habrahabr&utm_medium=rss)
-- [Конкурс написания гейм-дизайнерской документации «Космические приключения»](https://habr.com/ru/companies/justgamedesign/news/807951/?utm_campaign=807951&utm_source=habrahabr&utm_medium=rss)
-- [Figma запустила бета-версию Code Connect для дизайн-систем клиентов](https://habr.com/ru/news/808293/?utm_campaign=808293&utm_source=habrahabr&utm_medium=rss)
-- [Павел Дуров рассказал американскому журналисту Такеру Карлсону о развитии проекта Telegram](https://habr.com/ru/news/808285/?utm_campaign=808285&utm_source=habrahabr&utm_medium=rss)
+- [В команде проекта Gentoo запретили принятие изменений в коде, подготовленных при помощи ИИ](https://habr.com/ru/news/808361/?utm_campaign=808361&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «‎Как запустить 1С с нуля по технологии быстрого внедрения»](https://habr.com/ru/companies/nubes/news/808339/?utm_campaign=808339&utm_source=habrahabr&utm_medium=rss)
+- [В WhatsApp появились фильтры для чатов](https://habr.com/ru/news/808337/?utm_campaign=808337&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиасты с помощью Raspberry Pi «оживили» Октокэта — маскота GitHub](https://habr.com/ru/news/808325/?utm_campaign=808325&utm_source=habrahabr&utm_medium=rss)
+- [Будущие версии Apple Vision Pro могут помочь пользователю получить жизненно важную медицинскую консультацию](https://habr.com/ru/news/808323/?utm_campaign=808323&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
