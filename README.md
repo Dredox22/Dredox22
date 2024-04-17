@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Boston Dynamics представила новое поколение роботов Atlas, разработанное вместе с Hyundai](https://habr.com/ru/news/808487/?utm_campaign=808487&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость браузера позволяет получить доступ к компьютеру через видеокарту](https://habr.com/ru/companies/cloud4y/news/808479/?utm_campaign=808479&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве за март 2024 года](https://habr.com/ru/companies/ussc/news/808485/?utm_campaign=808485&utm_source=habrahabr&utm_medium=rss)
 - [Boston Dynamics свернула разработку проекта антропоморфного робота Atlas](https://habr.com/ru/news/808443/?utm_campaign=808443&utm_source=habrahabr&utm_medium=rss)
 - [Новый хакатон от МТС: True Tech Hack стартует уже 26 апреля](https://habr.com/ru/companies/ru_mts/news/808419/?utm_campaign=808419&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Descent 3 опубликовал исходные коды игры под лицензией MIT](https://habr.com/ru/news/808403/?utm_campaign=808403&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.30: улучшение работы с Unreal Engine, новые возможности C++ анализатора и многое другое](https://habr.com/ru/companies/pvs-studio/news/808379/?utm_campaign=808379&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
