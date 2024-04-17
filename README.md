@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Павел Дуров рассказал американскому журналисту Такеру Карлсону о развитии проекта Telegram](https://habr.com/ru/news/808285/?utm_campaign=808285&utm_source=habrahabr&utm_medium=rss)
 - [Релиз утилиты HD Tune Pro 6.00](https://habr.com/ru/news/808267/?utm_campaign=808267&utm_source=habrahabr&utm_medium=rss)
 - [Take-Two Interactive сокращает 5% штата](https://habr.com/ru/news/808265/?utm_campaign=808265&utm_source=habrahabr&utm_medium=rss)
 - [Есть ли жизнь в проекте command-line утилиты replxx после смерти автора](https://habr.com/ru/news/808249/?utm_campaign=808249&utm_source=habrahabr&utm_medium=rss)
 - [1C Game Studios и Московский драматический театр им М.Н. Ермоловой работают вместе над экшеном «Война Миров: Сибирь»](https://habr.com/ru/news/808215/?utm_campaign=808215&utm_source=habrahabr&utm_medium=rss)
-- [Вышли релизы Joomla 5.1.0 и Joomla 4.4.4](https://habr.com/ru/news/808193/?utm_campaign=808193&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
