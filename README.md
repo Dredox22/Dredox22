@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco предупредила об атаках методом перебора на VPN-сервисы](https://habr.com/ru/news/808315/?utm_campaign=808315&utm_source=habrahabr&utm_medium=rss)
+- [«Базальт СПО» заключила соглашение с Министерством цифрового развития и связи Оренбургской области](https://habr.com/ru/companies/basealtspo/news/808307/?utm_campaign=808307&utm_source=habrahabr&utm_medium=rss)
+- [Конкурс написания гейм-дизайнерской документации «Космические приключения»](https://habr.com/ru/companies/justgamedesign/news/807951/?utm_campaign=807951&utm_source=habrahabr&utm_medium=rss)
+- [Figma запустила бета-версию Code Connect для дизайн-систем клиентов](https://habr.com/ru/news/808293/?utm_campaign=808293&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров рассказал американскому журналисту Такеру Карлсону о развитии проекта Telegram](https://habr.com/ru/news/808285/?utm_campaign=808285&utm_source=habrahabr&utm_medium=rss)
-- [Релиз утилиты HD Tune Pro 6.00](https://habr.com/ru/news/808267/?utm_campaign=808267&utm_source=habrahabr&utm_medium=rss)
-- [Take-Two Interactive сокращает 5% штата](https://habr.com/ru/news/808265/?utm_campaign=808265&utm_source=habrahabr&utm_medium=rss)
-- [Есть ли жизнь в проекте command-line утилиты replxx после смерти автора](https://habr.com/ru/news/808249/?utm_campaign=808249&utm_source=habrahabr&utm_medium=rss)
-- [1C Game Studios и Московский драматический театр им М.Н. Ермоловой работают вместе над экшеном «Война Миров: Сибирь»](https://habr.com/ru/news/808215/?utm_campaign=808215&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
