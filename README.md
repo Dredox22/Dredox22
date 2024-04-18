@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Игровой движок Unigine включили обратно в реестре отечественного ПО Минцифры после необходимых доработок](https://habr.com/ru/news/808561/?utm_campaign=808561&utm_source=habrahabr&utm_medium=rss)
+- [Магазин сторонних приложений для iOS AltStore PAL стал доступен в ЕС](https://habr.com/ru/news/808569/?utm_campaign=808569&utm_source=habrahabr&utm_medium=rss)
+- [Игровой движок Unigine включили обратно в реестр отечественного ПО Минцифры после необходимых доработок](https://habr.com/ru/news/808561/?utm_campaign=808561&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры пересмотрит эксперимент по созданию российского аналога GitHub для его развёртывания на существующей платформе](https://habr.com/ru/news/808557/?utm_campaign=808557&utm_source=habrahabr&utm_medium=rss)
 - [РКН заблокировал доступ только к инфоресурсам Amazon Web Services и GoDaddy и рекомендует отечественные хостинги](https://habr.com/ru/news/808555/?utm_campaign=808555&utm_source=habrahabr&utm_medium=rss)
 - [Boston Dynamics представила новое поколение роботов Atlas, разработанное вместе с Hyundai](https://habr.com/ru/news/808487/?utm_campaign=808487&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость браузера позволяет получить доступ к компьютеру через видеокарту](https://habr.com/ru/companies/cloud4y/news/808479/?utm_campaign=808479&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
