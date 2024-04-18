@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Студия Case заморозила разработку игрового движка Case Engine](https://habr.com/ru/news/808815/?utm_campaign=808815&utm_source=habrahabr&utm_medium=rss)
 - [Релиз профайлера данных Desbordante 2.0.0](https://habr.com/ru/news/808779/?utm_campaign=808779&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК опубликовал информацию о патчах в Netcat CMS: устранены 13 уязвимостей, выявленных исследователем Сайбер ОК](https://habr.com/ru/companies/cyberok/news/808709/?utm_campaign=808709&utm_source=habrahabr&utm_medium=rss)
 - [Большая ежегодная EvaConf 2024 прошла в Москве](https://habr.com/ru/companies/evateam/news/808741/?utm_campaign=808741&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой сборке Windows 10 появилось уведомление о необходимости перехода с локального аккаунта на учётку Microsoft](https://habr.com/ru/news/808727/?utm_campaign=808727&utm_source=habrahabr&utm_medium=rss)
-- [Искусственный интеллект достигает нового уровня реализма с VASA от Microsoft](https://habr.com/ru/companies/bothub/news/808723/?utm_campaign=808723&utm_source=habrahabr&utm_medium=rss)
+- [В тестовой сборке Windows 10 появилось уведомление о просьбе перехода с локального аккаунта на учётку Microsoft](https://habr.com/ru/news/808727/?utm_campaign=808727&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
