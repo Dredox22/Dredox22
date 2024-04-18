@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В тестовой сборке Windows 10 появилось уведомление о необходимости перехода с локального аккаунта на учётку Microsoft](https://habr.com/ru/news/808727/?utm_campaign=808727&utm_source=habrahabr&utm_medium=rss)
+- [Искусственный интеллект достигает нового уровня реализма с VASA от Microsoft](https://habr.com/ru/companies/bothub/news/808723/?utm_campaign=808723&utm_source=habrahabr&utm_medium=rss)
+- [«Авито», «Билайн», «Тинькофф» и «Яндекс» подписали отраслевой стандарт защиты данных](https://habr.com/ru/news/808715/?utm_campaign=808715&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды рабочего стола LXQt 2.0.0](https://habr.com/ru/news/808671/?utm_campaign=808671&utm_source=habrahabr&utm_medium=rss)
 - [Российские сервисы начали предупреждать о запрете авторизации через Apple и Google ID](https://habr.com/ru/news/808661/?utm_campaign=808661&utm_source=habrahabr&utm_medium=rss)
-- [«Р-Фарм» может начать импортировать в Россию медтехнику китайской MinFound](https://habr.com/ru/news/808653/?utm_campaign=808653&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс открыл регистрацию на конференцию «Я Железо 2024»](https://habr.com/ru/companies/yandex/news/808651/?utm_campaign=808651&utm_source=habrahabr&utm_medium=rss)
-- [«Оптиковолоконные системы» запустил серийное производство оптоволокна с сердцевиной из чистого кварца](https://habr.com/ru/news/808637/?utm_campaign=808637&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
