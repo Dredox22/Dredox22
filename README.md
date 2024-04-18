@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Роскомнадзор: в 2023 году российские рекламодатели потратили на продвижение в Telegram 3,7 млрд рублей](https://habr.com/ru/news/808621/?utm_campaign=808621&utm_source=habrahabr&utm_medium=rss)
-- [Metable объявила о запуске бета-версии метавселенной «Научись зарабатывать»](https://habr.com/ru/news/808591/?utm_campaign=808591&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заявила о случайном добавлении Copilot в Windows Server 2022](https://habr.com/ru/news/808579/?utm_campaign=808579&utm_source=habrahabr&utm_medium=rss)
-- [Магазин сторонних приложений для iOS AltStore PAL стал доступен в ЕС](https://habr.com/ru/news/808569/?utm_campaign=808569&utm_source=habrahabr&utm_medium=rss)
-- [Игровой движок Unigine включили обратно в реестр отечественного ПО Минцифры после необходимых доработок](https://habr.com/ru/news/808561/?utm_campaign=808561&utm_source=habrahabr&utm_medium=rss)
+- [Релиз среды рабочего стола LXQt 2.0.0](https://habr.com/ru/news/808671/?utm_campaign=808671&utm_source=habrahabr&utm_medium=rss)
+- [Российские сервисы начали предупреждать о запрете авторизации через Apple и Google ID](https://habr.com/ru/news/808661/?utm_campaign=808661&utm_source=habrahabr&utm_medium=rss)
+- [«Р-Фарм» может начать импортировать в Россию медтехнику китайской MinFound](https://habr.com/ru/news/808653/?utm_campaign=808653&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс открыл регистрацию на конференцию «Я Железо 2024»](https://habr.com/ru/companies/yandex/news/808651/?utm_campaign=808651&utm_source=habrahabr&utm_medium=rss)
+- [«Оптиковолоконные системы» запустил серийное производство оптоволокна с сердцевиной из чистого кварца](https://habr.com/ru/news/808637/?utm_campaign=808637&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
