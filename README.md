@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отговаривает от использования iPerf3 для тестирования сети в Windows и рекомендует ntttcp и ctsTraffic](https://habr.com/ru/news/808967/?utm_campaign=808967&utm_source=habrahabr&utm_medium=rss)
+- [Sentry представила первые в мире банковские карты со встроенными OLED–экранами](https://habr.com/ru/news/808961/?utm_campaign=808961&utm_source=habrahabr&utm_medium=rss)
+- [Alfa Frontend Meetup #3 — только технические доклады](https://habr.com/ru/companies/alfa/news/808933/?utm_campaign=808933&utm_source=habrahabr&utm_medium=rss)
+- [МИД планирует расширить полноценный доступ к «Госуслугам» из-за границы](https://habr.com/ru/news/808959/?utm_campaign=808959&utm_source=habrahabr&utm_medium=rss)
 - [Apple убрала из китайского App Store Telegram, Signal, WhatsApp и сервис микроблогов Threads по запросу властей](https://habr.com/ru/news/808921/?utm_campaign=808921&utm_source=habrahabr&utm_medium=rss)
-- [Киберпреступники выдают себя за сотрудников LastPass, чтобы взломать хранилища паролей компаний](https://habr.com/ru/news/808913/?utm_campaign=808913&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 124](https://habr.com/ru/news/808897/?utm_campaign=808897&utm_source=habrahabr&utm_medium=rss)
-- [Уже 25 и 26 апреля больше 100 Хабровчан встретятся в Москве в «Физтехпарке»](https://habr.com/ru/companies/wirenboard/news/808893/?utm_campaign=808893&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала тестировать в Edge на iOS аналог Google Circle](https://habr.com/ru/news/808891/?utm_campaign=808891&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
