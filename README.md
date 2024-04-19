@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть добавила 4 миллиона деревьев в Яндекс Карты](https://habr.com/ru/companies/yandex/news/808649/?utm_campaign=808649&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на вебинар «Container Security: обеспечиваем безопасную среду разработки»](https://habr.com/ru/companies/ussc/news/808875/?utm_campaign=808875&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструментария Autodafe 0.2 для замены Autotools на обычный Makefile](https://habr.com/ru/news/808873/?utm_campaign=808873&utm_source=habrahabr&utm_medium=rss)
 - [Llama 3 — новое поколение AI моделей. Open-source конкурент GPT от Meta и интервью Марка Цукерберга](https://habr.com/ru/companies/bothub/news/808839/?utm_campaign=808839&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft OneNote теперь можно использовать на Apple Vision Pro вместе с другими приложениями Office](https://habr.com/ru/news/808819/?utm_campaign=808819&utm_source=habrahabr&utm_medium=rss)
-- [Студия Case заморозила разработку игрового движка Case Engine](https://habr.com/ru/news/808815/?utm_campaign=808815&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
