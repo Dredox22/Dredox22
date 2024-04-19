@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотрудники T-Mobile и Verizon в США получили предложения по участию в свапе SIM-карт по $300 за штуку](https://habr.com/ru/news/808971/?utm_campaign=808971&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отговаривает от использования iPerf3 для тестирования сети в Windows и рекомендует ntttcp и ctsTraffic](https://habr.com/ru/news/808967/?utm_campaign=808967&utm_source=habrahabr&utm_medium=rss)
 - [Sentry представила первые в мире банковские карты со встроенными OLED–экранами](https://habr.com/ru/news/808961/?utm_campaign=808961&utm_source=habrahabr&utm_medium=rss)
 - [Alfa Frontend Meetup #3 — только технические доклады](https://habr.com/ru/companies/alfa/news/808933/?utm_campaign=808933&utm_source=habrahabr&utm_medium=rss)
 - [МИД планирует расширить полноценный доступ к «Госуслугам» из-за границы](https://habr.com/ru/news/808959/?utm_campaign=808959&utm_source=habrahabr&utm_medium=rss)
-- [Apple убрала из китайского App Store Telegram, Signal, WhatsApp и сервис микроблогов Threads по запросу властей](https://habr.com/ru/news/808921/?utm_campaign=808921&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
