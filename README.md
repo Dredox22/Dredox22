@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Завершены финалы чемпионатов мира по программированию ICPC-46 и ICPC-47, где ВШЭ и МФТИ взяли золото и серебро](https://habr.com/ru/news/809045/?utm_campaign=809045&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты ГК «Солар» выявили масштабную сеть вредоносных сайтов с картинками для кражи Telegram‑аккаунтов](https://habr.com/ru/news/809029/?utm_campaign=809029&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники T-Mobile и Verizon в США получили предложения по участию в свапе SIM-карт по $300 за штуку](https://habr.com/ru/news/808971/?utm_campaign=808971&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отговаривает от использования iPerf3 для тестирования сети в Windows и рекомендует ntttcp и ctsTraffic](https://habr.com/ru/news/808967/?utm_campaign=808967&utm_source=habrahabr&utm_medium=rss)
 - [Sentry представила первые в мире банковские карты со встроенными OLED–экранами](https://habr.com/ru/news/808961/?utm_campaign=808961&utm_source=habrahabr&utm_medium=rss)
-- [Alfa Frontend Meetup #3 — только технические доклады](https://habr.com/ru/companies/alfa/news/808933/?utm_campaign=808933&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
