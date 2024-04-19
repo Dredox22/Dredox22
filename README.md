@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Chrome 124](https://habr.com/ru/news/808897/?utm_campaign=808897&utm_source=habrahabr&utm_medium=rss)
+- [Уже 25 и 26 апреля больше 100 Хабровчан встретятся в Москве в «Физтехпарке»](https://habr.com/ru/companies/wirenboard/news/808893/?utm_campaign=808893&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала тестировать в Edge на iOS аналог Google Circle](https://habr.com/ru/news/808891/?utm_campaign=808891&utm_source=habrahabr&utm_medium=rss)
+- [Google объединит команды разработчиков аппаратного обеспечения и Android в одно подразделение](https://habr.com/ru/news/808889/?utm_campaign=808889&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть добавила 4 миллиона деревьев в Яндекс Карты](https://habr.com/ru/companies/yandex/news/808649/?utm_campaign=808649&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на вебинар «Container Security: обеспечиваем безопасную среду разработки»](https://habr.com/ru/companies/ussc/news/808875/?utm_campaign=808875&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструментария Autodafe 0.2 для замены Autotools на обычный Makefile](https://habr.com/ru/news/808873/?utm_campaign=808873&utm_source=habrahabr&utm_medium=rss)
-- [Llama 3 — новое поколение AI моделей. Open-source конкурент GPT от Meta и интервью Марка Цукерберга](https://habr.com/ru/companies/bothub/news/808839/?utm_campaign=808839&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft OneNote теперь можно использовать на Apple Vision Pro вместе с другими приложениями Office](https://habr.com/ru/news/808819/?utm_campaign=808819&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
