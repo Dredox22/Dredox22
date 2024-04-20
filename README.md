@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Wildberries подтвердила, что тестирует возможность подключения «Госуслуг» при доставке товаров из-за Китая и Узбекистана](https://habr.com/ru/news/809177/?utm_campaign=809177&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries подтвердила, что тестирует возможность подключения «Госуслуг» при доставке товаров из Китая и Узбекистана](https://habr.com/ru/news/809177/?utm_campaign=809177&utm_source=habrahabr&utm_medium=rss)
 - [В Android 15 появится опция с информированием о сроке службы чипов памяти смартфона](https://habr.com/ru/news/809167/?utm_campaign=809167&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст обнаружил, что в ретро-игре Car Builder для Apple II корпус Cybertruck — «идеальная» конструкция для шасси](https://habr.com/ru/news/809165/?utm_campaign=809165&utm_source=habrahabr&utm_medium=rss)
 - [Token 2049: Павел Дуров рассказал о токенизации Telegram](https://habr.com/ru/news/809153/?utm_campaign=809153&utm_source=habrahabr&utm_medium=rss)
