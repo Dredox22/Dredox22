@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Token 2049: Павел Дуров рассказал о токенизации Telegram](https://habr.com/ru/news/809153/?utm_campaign=809153&utm_source=habrahabr&utm_medium=rss)
+- [Apple патентует складной смартфон, а ICON лунный 3D-принтер: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/808929/?utm_campaign=808929&utm_source=habrahabr&utm_medium=rss)
 - [Asus в США продлила гарантию на консоль ROG Ally и возместит ущерб за поврежденные SD-карты](https://habr.com/ru/news/809121/?utm_campaign=809121&utm_source=habrahabr&utm_medium=rss)
 - [Спидраннер 4shockblast поставил новый рекорд скоростного прохождения первого уровня Doom II: Hell on Earth — 4,97 секунд](https://habr.com/ru/news/809119/?utm_campaign=809119&utm_source=habrahabr&utm_medium=rss)
 - [Топ-8 ключевых обновлений BILLmanager за 2023 год](https://habr.com/ru/companies/ispsystem/news/809069/?utm_campaign=809069&utm_source=habrahabr&utm_medium=rss)
-- [GitHub начал обсуждение запрета размещения на платформе мошеннических или неэтичных ИИ-проектов для создания дипфейков](https://habr.com/ru/news/809061/?utm_campaign=809061&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT-4: новый помощник офтальмолога или замена стажерам? Исследование Кембриджского университета](https://habr.com/ru/companies/bothub/news/809059/?utm_campaign=809059&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
