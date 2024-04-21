@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики DolphiniOS объяснили, почему эмулятора GameCube и Wii не будет в App Store](https://habr.com/ru/news/809229/?utm_campaign=809229&utm_source=habrahabr&utm_medium=rss)
 - [В GitHub подтвердили распространение вредоносов через URL-адреса репозитория Microsoft](https://habr.com/ru/news/809223/?utm_campaign=809223&utm_source=habrahabr&utm_medium=rss)
 - [Meta* добавила в WhatsApp генерацию изображений в реальном времени](https://habr.com/ru/news/809217/?utm_campaign=809217&utm_source=habrahabr&utm_medium=rss)
 - [Инженер представил мобильный гаджет Doomscroller для промотки контента в лентах соцсетей](https://habr.com/ru/news/809211/?utm_campaign=809211&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: МТС с 1 мая повышает цены на домашний интернет до 12% в Москве и Московской области](https://habr.com/ru/news/809207/?utm_campaign=809207&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries подтвердила, что тестирует возможность подключения «Госуслуг» при доставке товаров из Китая и Узбекистана](https://habr.com/ru/news/809177/?utm_campaign=809177&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
