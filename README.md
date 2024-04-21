@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Микрон» представил российский ПЛК на базе RISC‑V на выставке ExpoElectronica 2024](https://habr.com/ru/news/809285/?utm_campaign=809285&utm_source=habrahabr&utm_medium=rss)
+- [Новый игровой фонд Global Games Fund будет поддерживать игровые стартапы «за пределами западного мира»](https://habr.com/ru/news/809283/?utm_campaign=809283&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого терминального мультиплексора Zellij 0.40.0](https://habr.com/ru/news/809253/?utm_campaign=809253&utm_source=habrahabr&utm_medium=rss)
 - [Для Windows представлен Vulkan-видеодрайвер с открытым исходным кодом проекта Terakan для видеокарт серии Radeon HD 6000](https://habr.com/ru/news/809251/?utm_campaign=809251&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» заявил о разработке нового поколения радиационно стойких камер для атомных станций](https://habr.com/ru/news/809239/?utm_campaign=809239&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики DolphiniOS объяснили, почему эмулятора GameCube и Wii не будет в App Store](https://habr.com/ru/news/809229/?utm_campaign=809229&utm_source=habrahabr&utm_medium=rss)
-- [В GitHub подтвердили распространение вредоносов через URL-адреса репозитория Microsoft](https://habr.com/ru/news/809223/?utm_campaign=809223&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
