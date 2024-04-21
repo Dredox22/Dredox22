@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженер представил мобильный гаджет Doomscroller для промотки контента в лентах соцсетей](https://habr.com/ru/news/809211/?utm_campaign=809211&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: МТС с 1 мая повышает цены на домашний интернет до 12% в Москве и Московской области](https://habr.com/ru/news/809207/?utm_campaign=809207&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries подтвердила, что тестирует возможность подключения «Госуслуг» при доставке товаров из Китая и Узбекистана](https://habr.com/ru/news/809177/?utm_campaign=809177&utm_source=habrahabr&utm_medium=rss)
 - [В Android 15 появится опция с информированием о сроке службы чипов памяти смартфона](https://habr.com/ru/news/809167/?utm_campaign=809167&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст обнаружил, что в ретро-игре Car Builder для Apple II корпус Cybertruck — «идеальная» конструкция для шасси](https://habr.com/ru/news/809165/?utm_campaign=809165&utm_source=habrahabr&utm_medium=rss)
-- [Token 2049: Павел Дуров рассказал о токенизации Telegram](https://habr.com/ru/news/809153/?utm_campaign=809153&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
