@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начала тестировать запрет настройки Edge на неактивированных Windows 11](https://habr.com/ru/news/809329/?utm_campaign=809329&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разрешила загружать исполняемые файлы приложений с веб-сайта Store](https://habr.com/ru/news/809325/?utm_campaign=809325&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Windrecorder с открытым исходным кодом для записи и поиска всего, что происходило на экране в Windows](https://habr.com/ru/news/809295/?utm_campaign=809295&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» представил российский ПЛК на базе RISC‑V на выставке ExpoElectronica 2024](https://habr.com/ru/news/809285/?utm_campaign=809285&utm_source=habrahabr&utm_medium=rss)
 - [Новый игровой фонд Global Games Fund будет поддерживать игровые стартапы «за пределами западного мира»](https://habr.com/ru/news/809283/?utm_campaign=809283&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого терминального мультиплексора Zellij 0.40.0](https://habr.com/ru/news/809253/?utm_campaign=809253&utm_source=habrahabr&utm_medium=rss)
-- [Для Windows представлен Vulkan-видеодрайвер с открытым исходным кодом проекта Terakan для видеокарт серии Radeon HD 6000](https://habr.com/ru/news/809251/?utm_campaign=809251&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
