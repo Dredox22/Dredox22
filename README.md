@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Информационная безопасность госсайтов: усиление безответственности](https://habr.com/ru/news/809387/?utm_campaign=809387&utm_source=habrahabr&utm_medium=rss)
+- [Bloomberg: ИИ-функции в iOS 18 не потребуют подключения к интернету](https://habr.com/ru/news/809383/?utm_campaign=809383&utm_source=habrahabr&utm_medium=rss)
+- [22 апреля – День программиста. Почему это неофициальный праздник и как отмечать его три раза в год?](https://habr.com/ru/companies/oxygendc/news/809381/?utm_campaign=809381&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: система «Антифрод» РКН помимо обработки голосовых вызовов будет выявлять «инциденты» в мессенджерах](https://habr.com/ru/news/809353/?utm_campaign=809353&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-камера вместо фотографии выдаёт распечатку с поэзией на композицию](https://habr.com/ru/news/809333/?utm_campaign=809333&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала тестировать запрет настройки Edge на неактивированных Windows 11](https://habr.com/ru/news/809329/?utm_campaign=809329&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешила загружать исполняемые файлы приложений с веб-сайта Store](https://habr.com/ru/news/809325/?utm_campaign=809325&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Windrecorder с открытым исходным кодом для записи и поиска всего, что происходило на экране в Windows](https://habr.com/ru/news/809295/?utm_campaign=809295&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
