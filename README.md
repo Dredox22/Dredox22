@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские учёные создали робота-поводыря](https://habr.com/ru/news/809423/?utm_campaign=809423&utm_source=habrahabr&utm_medium=rss)
+- [Релиз wasmCloud 1.0](https://habr.com/ru/news/809413/?utm_campaign=809413&utm_source=habrahabr&utm_medium=rss)
 - [Информационная безопасность госсайтов: усиление безответственности](https://habr.com/ru/news/809387/?utm_campaign=809387&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg: ИИ-функции в iOS 18 не потребуют подключения к интернету](https://habr.com/ru/news/809383/?utm_campaign=809383&utm_source=habrahabr&utm_medium=rss)
 - [22 апреля – День программиста. Почему это неофициальный праздник и как отмечать его три раза в год?](https://habr.com/ru/companies/oxygendc/news/809381/?utm_campaign=809381&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: система «Антифрод» РКН помимо обработки голосовых вызовов будет выявлять «инциденты» в мессенджерах](https://habr.com/ru/news/809353/?utm_campaign=809353&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-камера вместо фотографии выдаёт распечатку с поэзией на композицию](https://habr.com/ru/news/809333/?utm_campaign=809333&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
