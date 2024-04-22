@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Proton Mail предлагает мониторинг даркнета для клиентов с платными планами](https://habr.com/ru/news/809563/?utm_campaign=809563&utm_source=habrahabr&utm_medium=rss)
+- [Участники рынка попросили Минпромторг упростить механизм признания электроники российской](https://habr.com/ru/news/809559/?utm_campaign=809559&utm_source=habrahabr&utm_medium=rss)
 - [1C Game Studios рассказала о некоторых деталях игры «Война Миров: Сибирь»](https://habr.com/ru/news/809547/?utm_campaign=809547&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/809533/?utm_campaign=809533&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст из США обнаружил, что футболка с изображением знака «Стоп» может приостанавливать на дороге беспилотные такси](https://habr.com/ru/news/809507/?utm_campaign=809507&utm_source=habrahabr&utm_medium=rss)
-- [Softline создаст хаб в Алматы](https://habr.com/ru/news/809501/?utm_campaign=809501&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Spy Pet отслеживает и архивирует миллиарды сообщений на открытых серверах Discord](https://habr.com/ru/news/809499/?utm_campaign=809499&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
