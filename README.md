@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи из Offensive AI Lab рассказали, как хакеры могут читать переписку пользователей с чат-ботами](https://habr.com/ru/news/809583/?utm_campaign=809583&utm_source=habrahabr&utm_medium=rss)
+- [Релиз свободного редактора звука Audacity 3.5](https://habr.com/ru/news/809581/?utm_campaign=809581&utm_source=habrahabr&utm_medium=rss)
 - [Proton Mail предлагает мониторинг даркнета для клиентов с платными планами](https://habr.com/ru/news/809563/?utm_campaign=809563&utm_source=habrahabr&utm_medium=rss)
 - [Участники рынка попросили Минпромторг упростить механизм признания электроники российской](https://habr.com/ru/news/809559/?utm_campaign=809559&utm_source=habrahabr&utm_medium=rss)
 - [1C Game Studios рассказала о некоторых деталях игры «Война Миров: Сибирь»](https://habr.com/ru/news/809547/?utm_campaign=809547&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/809533/?utm_campaign=809533&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст из США обнаружил, что футболка с изображением знака «Стоп» может приостанавливать на дороге беспилотные такси](https://habr.com/ru/news/809507/?utm_campaign=809507&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
