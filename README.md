@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст из США обнаружил, что футболка с изображением знака «Стоп» может приостанавливать на дороге беспилотные такси](https://habr.com/ru/news/809507/?utm_campaign=809507&utm_source=habrahabr&utm_medium=rss)
+- [Softline создаст хаб в Алматы](https://habr.com/ru/news/809501/?utm_campaign=809501&utm_source=habrahabr&utm_medium=rss)
 - [Сервис Spy Pet отслеживает и архивирует миллиарды сообщений на открытых серверах Discord](https://habr.com/ru/news/809499/?utm_campaign=809499&utm_source=habrahabr&utm_medium=rss)
 - [Новые возможности, реализованные в версии nanoCAD BIM ОПС 24, представлены на выставке «Securika Moscow 2024»](https://habr.com/ru/companies/nanosoft/news/809479/?utm_campaign=809479&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: отсутствие в китайском App Store приложения Telegram не повлияло на количество пользователей сервиса в стране](https://habr.com/ru/news/809435/?utm_campaign=809435&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 124](https://habr.com/ru/news/809429/?utm_campaign=809429&utm_source=habrahabr&utm_medium=rss)
-- [Российские учёные создали робота-поводыря](https://habr.com/ru/news/809423/?utm_campaign=809423&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
