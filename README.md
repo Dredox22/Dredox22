@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст создал умные очки с Raspberry Pi Zero 2 W, способные переводить язык жестов в речь](https://habr.com/ru/news/809921/?utm_campaign=809921&utm_source=habrahabr&utm_medium=rss)
+- [Исследование Mozilla: многие приложения для знакомств не соблюдают правила конфиденциальности](https://habr.com/ru/news/809919/?utm_campaign=809919&utm_source=habrahabr&utm_medium=rss)
 - [МТС представила корпоративный мессенджер «МТС Линк Чаты»](https://habr.com/ru/news/809915/?utm_campaign=809915&utm_source=habrahabr&utm_medium=rss)
 - [Учёные нашли недорогой способ изготовления узорчатых плёнок из углеродных нанотрубок](https://habr.com/ru/news/809903/?utm_campaign=809903&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА и ИнфоТеКС завершили внедрение новой российской системы учета электроэнергии в 11 регионах РФ](https://habr.com/ru/companies/sigma/news/809861/?utm_campaign=809861&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Fedora Linux 40](https://habr.com/ru/news/809853/?utm_campaign=809853&utm_source=habrahabr&utm_medium=rss)
-- [Adobe выпустила приложение Adobe Express с ИИ Firefly для iOS и Android](https://habr.com/ru/news/809799/?utm_campaign=809799&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
