@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В словарном запасе ChatGPT усмотрели влияние обучавших его африканцев](https://habr.com/ru/news/809779/?utm_campaign=809779&utm_source=habrahabr&utm_medium=rss)
+- [Приложение 2ГИС снова доступно в Google Play](https://habr.com/ru/news/809781/?utm_campaign=809781&utm_source=habrahabr&utm_medium=rss)
+- [Серия кибератак группировки Scaly Wolf на российские компании провалилась из-за ошибки хакеров в подмене файлов](https://habr.com/ru/news/809767/?utm_campaign=809767&utm_source=habrahabr&utm_medium=rss)
+- [В 2ГИС появилась первая реалистичная 3D-модель аэропорта в России](https://habr.com/ru/news/809759/?utm_campaign=809759&utm_source=habrahabr&utm_medium=rss)
 - [Практика построения СОИБ: проблемы, решения, кейсы. Приглашаем специалистов на вебинар](https://habr.com/ru/companies/ussc/news/809729/?utm_campaign=809729&utm_source=habrahabr&utm_medium=rss)
-- [Техноблогер заработал более $80 тыс. в TON, продав Telegram-никнейм @pavel на аукционе](https://habr.com/ru/news/809723/?utm_campaign=809723&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Роскомнадзор блокирует около 150 популярных VPN-сервисов и ограничил доступ к 700 материалам за рекламу VPN](https://habr.com/ru/news/809717/?utm_campaign=809717&utm_source=habrahabr&utm_medium=rss)
-- [Ecosia запустила веб-браузер с «зелёными» функциями](https://habr.com/ru/news/809677/?utm_campaign=809677&utm_source=habrahabr&utm_medium=rss)
-- [Много примеров в контексте повышают качество ответов от LLM &lpar;Code Review и не только&rpar;](https://habr.com/ru/news/809675/?utm_campaign=809675&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
