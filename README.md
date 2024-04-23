@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС представила корпоративный мессенджер «МТС Линк Чаты»](https://habr.com/ru/news/809915/?utm_campaign=809915&utm_source=habrahabr&utm_medium=rss)
+- [Учёные нашли недорогой способ изготовления узорчатых плёнок из углеродных нанотрубок](https://habr.com/ru/news/809903/?utm_campaign=809903&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА и ИнфоТеКС завершили внедрение новой российской системы учета электроэнергии в 11 регионах РФ](https://habr.com/ru/companies/sigma/news/809861/?utm_campaign=809861&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Fedora Linux 40](https://habr.com/ru/news/809853/?utm_campaign=809853&utm_source=habrahabr&utm_medium=rss)
 - [Adobe выпустила приложение Adobe Express с ИИ Firefly для iOS и Android](https://habr.com/ru/news/809799/?utm_campaign=809799&utm_source=habrahabr&utm_medium=rss)
-- [Apple приобрела компанию Datakalab, занимающуюся проектами на базе ИИ](https://habr.com/ru/news/809793/?utm_campaign=809793&utm_source=habrahabr&utm_medium=rss)
-- [В словарном запасе ChatGPT усмотрели влияние обучавших его африканцев](https://habr.com/ru/news/809779/?utm_campaign=809779&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
