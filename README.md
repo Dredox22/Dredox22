@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Много примеров в контексте повышают качество ответов от LLM](https://habr.com/ru/news/809675/?utm_campaign=809675&utm_source=habrahabr&utm_medium=rss)
+- [Apple столкнулась с падением спроса на Vision Pro в США](https://habr.com/ru/news/809665/?utm_campaign=809665&utm_source=habrahabr&utm_medium=rss)
+- [GitLab тоже подвержен уязвимости GitHub для размещения вредоносного ПО](https://habr.com/ru/news/809657/?utm_campaign=809657&utm_source=habrahabr&utm_medium=rss)
+- [Dell предложила способ проверки поддержки ИИ в компьютерах с Windows 11](https://habr.com/ru/news/809647/?utm_campaign=809647&utm_source=habrahabr&utm_medium=rss)
 - [Торгово-промышленная палата предложила ФАС ввести маркировку всех товаров, поставляемых в РФ по параллельному импорту](https://habr.com/ru/news/809641/?utm_campaign=809641&utm_source=habrahabr&utm_medium=rss)
-- [Seagate объявила партнёрам о повышении цен на всю свою продукцию](https://habr.com/ru/news/809627/?utm_campaign=809627&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой версии Windows 11 24H2 build 26080 для установки ОС требуется процессор с полноценной поддержкой SSE4.2](https://habr.com/ru/news/809623/?utm_campaign=809623&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из Offensive AI Lab рассказали, как хакеры могут читать переписку пользователей с чат-ботами](https://habr.com/ru/news/809583/?utm_campaign=809583&utm_source=habrahabr&utm_medium=rss)
-- [Релиз свободного редактора звука Audacity 3.5](https://habr.com/ru/news/809581/?utm_campaign=809581&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
