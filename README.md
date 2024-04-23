@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe выпустила приложение Adobe Express с ИИ Firefly для iOS и Android](https://habr.com/ru/news/809799/?utm_campaign=809799&utm_source=habrahabr&utm_medium=rss)
+- [Apple приобрела компанию Datakalab, занимающуюся проектами на базе ИИ](https://habr.com/ru/news/809793/?utm_campaign=809793&utm_source=habrahabr&utm_medium=rss)
 - [В словарном запасе ChatGPT усмотрели влияние обучавших его африканцев](https://habr.com/ru/news/809779/?utm_campaign=809779&utm_source=habrahabr&utm_medium=rss)
 - [Приложение 2ГИС снова доступно в Google Play](https://habr.com/ru/news/809781/?utm_campaign=809781&utm_source=habrahabr&utm_medium=rss)
 - [Серия кибератак группировки Scaly Wolf на российские компании провалилась из-за ошибки хакеров в подмене файлов](https://habr.com/ru/news/809767/?utm_campaign=809767&utm_source=habrahabr&utm_medium=rss)
-- [В 2ГИС появилась первая реалистичная 3D-модель аэропорта в России](https://habr.com/ru/news/809759/?utm_campaign=809759&utm_source=habrahabr&utm_medium=rss)
-- [Практика построения СОИБ: проблемы, решения, кейсы. Приглашаем специалистов на вебинар](https://habr.com/ru/companies/ussc/news/809729/?utm_campaign=809729&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
