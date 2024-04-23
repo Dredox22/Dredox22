@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торгово-промышленная палата предложила ФАС ввести маркировку всех товаров, поставляемых в РФ по параллельному импорту](https://habr.com/ru/news/809641/?utm_campaign=809641&utm_source=habrahabr&utm_medium=rss)
+- [Seagate объявила партнёрам о повышении цен на всю свою продукцию](https://habr.com/ru/news/809627/?utm_campaign=809627&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой версии Windows 11 24H2 build 26080 для установки ОС требуется процессор с полноценной поддержкой SSE4.2](https://habr.com/ru/news/809623/?utm_campaign=809623&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из Offensive AI Lab рассказали, как хакеры могут читать переписку пользователей с чат-ботами](https://habr.com/ru/news/809583/?utm_campaign=809583&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного редактора звука Audacity 3.5](https://habr.com/ru/news/809581/?utm_campaign=809581&utm_source=habrahabr&utm_medium=rss)
-- [Proton Mail предлагает мониторинг даркнета для клиентов с платными планами](https://habr.com/ru/news/809563/?utm_campaign=809563&utm_source=habrahabr&utm_medium=rss)
-- [Участники рынка попросили Минпромторг упростить механизм признания электроники российской](https://habr.com/ru/news/809559/?utm_campaign=809559&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
