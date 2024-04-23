@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Много примеров в контексте повышают качество ответов от LLM](https://habr.com/ru/news/809675/?utm_campaign=809675&utm_source=habrahabr&utm_medium=rss)
+- [Ecosia запустила веб-браузер с «зелёными» функциями](https://habr.com/ru/news/809677/?utm_campaign=809677&utm_source=habrahabr&utm_medium=rss)
+- [Много примеров в контексте повышают качество ответов от LLM &lpar;Code Review и не только&rpar;](https://habr.com/ru/news/809675/?utm_campaign=809675&utm_source=habrahabr&utm_medium=rss)
 - [Apple столкнулась с падением спроса на Vision Pro в США](https://habr.com/ru/news/809665/?utm_campaign=809665&utm_source=habrahabr&utm_medium=rss)
 - [GitLab тоже подвержен уязвимости GitHub для размещения вредоносного ПО](https://habr.com/ru/news/809657/?utm_campaign=809657&utm_source=habrahabr&utm_medium=rss)
 - [Dell предложила способ проверки поддержки ИИ в компьютерах с Windows 11](https://habr.com/ru/news/809647/?utm_campaign=809647&utm_source=habrahabr&utm_medium=rss)
-- [Торгово-промышленная палата предложила ФАС ввести маркировку всех товаров, поставляемых в РФ по параллельному импорту](https://habr.com/ru/news/809641/?utm_campaign=809641&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
