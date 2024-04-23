@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В тестовой версии Windows 11 24H2 build 26080 для установки ОС требуется процессор с полноценной поддержкой SSE4.2](https://habr.com/ru/news/809623/?utm_campaign=809623&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из Offensive AI Lab рассказали, как хакеры могут читать переписку пользователей с чат-ботами](https://habr.com/ru/news/809583/?utm_campaign=809583&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного редактора звука Audacity 3.5](https://habr.com/ru/news/809581/?utm_campaign=809581&utm_source=habrahabr&utm_medium=rss)
 - [Proton Mail предлагает мониторинг даркнета для клиентов с платными планами](https://habr.com/ru/news/809563/?utm_campaign=809563&utm_source=habrahabr&utm_medium=rss)
 - [Участники рынка попросили Минпромторг упростить механизм признания электроники российской](https://habr.com/ru/news/809559/?utm_campaign=809559&utm_source=habrahabr&utm_medium=rss)
-- [1C Game Studios рассказала о некоторых деталях игры «Война Миров: Сибирь»](https://habr.com/ru/news/809547/?utm_campaign=809547&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
