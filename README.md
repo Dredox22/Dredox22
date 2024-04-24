@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amvera добавила поддержку Go, Ruby и С# &lpar;dotnet и mono&rpar; окружений](https://habr.com/ru/news/809813/?utm_campaign=809813&utm_source=habrahabr&utm_medium=rss)
+- [Вышел эмулятор QEMU 9.0](https://habr.com/ru/news/809981/?utm_campaign=809981&utm_source=habrahabr&utm_medium=rss)
 - [Проект Fedora и компания Slimbook представили ультрабук Slimbook Fedora 2 с Fedora Linux 40](https://habr.com/ru/news/809973/?utm_campaign=809973&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Microsoft продолжает продлевать лицензии российским корпоративным клиентам](https://habr.com/ru/news/809967/?utm_campaign=809967&utm_source=habrahabr&utm_medium=rss)
 - [Steam перестанет возвращать деньги, если в игре проведено более двух часов в рамках раннего или расширенного доступа](https://habr.com/ru/news/809963/?utm_campaign=809963&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст создал умные очки с Raspberry Pi Zero 2 W, способные переводить язык жестов в речь](https://habr.com/ru/news/809921/?utm_campaign=809921&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Mozilla: многие приложения для знакомств не соблюдают правила конфиденциальности](https://habr.com/ru/news/809919/?utm_campaign=809919&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
