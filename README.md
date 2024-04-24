@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK Cloud запустила облачный сервис Cloud Kafka для сбора и обработки потоков данных](https://habr.com/ru/news/810109/?utm_campaign=810109&utm_source=habrahabr&utm_medium=rss)
+- [«Тинькофф» представил «вселенную» из шести ИИ-ассистентов](https://habr.com/ru/news/810089/?utm_campaign=810089&utm_source=habrahabr&utm_medium=rss)
 - [Вышел nginx 1.26.0](https://habr.com/ru/news/810071/?utm_campaign=810071&utm_source=habrahabr&utm_medium=rss)
 - [Сенат США проголосовал за закон о мерах по блокировке TikTok в стране](https://habr.com/ru/news/810035/?utm_campaign=810035&utm_source=habrahabr&utm_medium=rss)
 - [Google опять отложила блокировку сторонних cookie в Chrome](https://habr.com/ru/news/810025/?utm_campaign=810025&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс обновил диффузионную нейросеть YandexART до версии 1.3](https://habr.com/ru/companies/yandex/news/809829/?utm_campaign=809829&utm_source=habrahabr&utm_medium=rss)
-- [Mercedes-Benz начала продавать машины с автопилотом 3-го уровня в США](https://habr.com/ru/news/810013/?utm_campaign=810013&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
