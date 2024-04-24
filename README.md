@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* открыла ОС для VR-устройств сторонним производителям и выпустит ограниченную серию Quest VR вместе с Microsoft](https://habr.com/ru/news/810201/?utm_campaign=810201&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» рассказала о новой мошеннической схеме по «заработку» на криптовалюте TON в Telegram](https://habr.com/ru/news/810189/?utm_campaign=810189&utm_source=habrahabr&utm_medium=rss)
 - [Тинькофф запускает фрод-рулетку: пранкеры против мошенников](https://habr.com/ru/companies/bothub/news/810163/?utm_campaign=810163&utm_source=habrahabr&utm_medium=rss)
 - [Бета версия Telegram Desktop для Windows теперь позволяет задать свой шрифт по умолчанию](https://habr.com/ru/news/810131/?utm_campaign=810131&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети «Яндекса» дают предпринимателям, не имеющим сайта, возможность привлекать клиентов](https://habr.com/ru/news/810117/?utm_campaign=810117&utm_source=habrahabr&utm_medium=rss)
-- [VK Cloud запустила облачный сервис Cloud Kafka для сбора и обработки потоков данных](https://habr.com/ru/news/810109/?utm_campaign=810109&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф» представил «вселенную» из шести ИИ-ассистентов](https://habr.com/ru/news/810089/?utm_campaign=810089&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
