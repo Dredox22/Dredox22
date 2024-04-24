@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Amvera добавила поддержку Go, Ruby и С# &lpar;dotnet и mono&rpar; окружений](https://habr.com/ru/news/809813/?utm_campaign=809813&utm_source=habrahabr&utm_medium=rss)
-- [Вышел эмулятор QEMU 9.0](https://habr.com/ru/news/809981/?utm_campaign=809981&utm_source=habrahabr&utm_medium=rss)
-- [Проект Fedora и компания Slimbook представили ультрабук Slimbook Fedora 2 с Fedora Linux 40](https://habr.com/ru/news/809973/?utm_campaign=809973&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Microsoft продолжает продлевать лицензии российским корпоративным клиентам](https://habr.com/ru/news/809967/?utm_campaign=809967&utm_source=habrahabr&utm_medium=rss)
-- [Steam перестанет возвращать деньги, если в игре проведено более двух часов в рамках раннего или расширенного доступа](https://habr.com/ru/news/809963/?utm_campaign=809963&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс обновил диффузионную нейросеть YandexART до версии 1.3](https://habr.com/ru/companies/yandex/news/809829/?utm_campaign=809829&utm_source=habrahabr&utm_medium=rss)
+- [Mercedes-Benz начала продавать машины с автопилотом 3-го уровня в США](https://habr.com/ru/news/810013/?utm_campaign=810013&utm_source=habrahabr&utm_medium=rss)
+- [«МегаФон» импортозаместил связь для экстренных служб и бизнеса](https://habr.com/ru/news/810011/?utm_campaign=810011&utm_source=habrahabr&utm_medium=rss)
+- [JAXA восстановило связь с модулем SLIM на Луне после третьей лунной ночи](https://habr.com/ru/news/810009/?utm_campaign=810009&utm_source=habrahabr&utm_medium=rss)
+- [В руки хакеров попала база данных World-Check для проверки благонадёжности пользователей](https://habr.com/ru/news/810003/?utm_campaign=810003&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
