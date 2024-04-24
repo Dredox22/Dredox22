@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сенат США проголосовал за закон о мерах по блокировке TikTok в стране](https://habr.com/ru/news/810035/?utm_campaign=810035&utm_source=habrahabr&utm_medium=rss)
+- [Google опять отложила блокировку сторонних cookie в Chrome](https://habr.com/ru/news/810025/?utm_campaign=810025&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс обновил диффузионную нейросеть YandexART до версии 1.3](https://habr.com/ru/companies/yandex/news/809829/?utm_campaign=809829&utm_source=habrahabr&utm_medium=rss)
 - [Mercedes-Benz начала продавать машины с автопилотом 3-го уровня в США](https://habr.com/ru/news/810013/?utm_campaign=810013&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» импортозаместил связь для экстренных служб и бизнеса](https://habr.com/ru/news/810011/?utm_campaign=810011&utm_source=habrahabr&utm_medium=rss)
-- [JAXA восстановило связь с модулем SLIM на Луне после третьей лунной ночи](https://habr.com/ru/news/810009/?utm_campaign=810009&utm_source=habrahabr&utm_medium=rss)
-- [В руки хакеров попала база данных World-Check для проверки благонадёжности пользователей](https://habr.com/ru/news/810003/?utm_campaign=810003&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
