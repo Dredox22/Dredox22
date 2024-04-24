@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бета версия Telegram Desktop для Windows теперь позволяет задать свой шрифт по умолчанию](https://habr.com/ru/news/810131/?utm_campaign=810131&utm_source=habrahabr&utm_medium=rss)
+- [Нейросети «Яндекса» дают предпринимателям, не имеющим сайта, возможность привлекать клиентов](https://habr.com/ru/news/810117/?utm_campaign=810117&utm_source=habrahabr&utm_medium=rss)
 - [VK Cloud запустила облачный сервис Cloud Kafka для сбора и обработки потоков данных](https://habr.com/ru/news/810109/?utm_campaign=810109&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф» представил «вселенную» из шести ИИ-ассистентов](https://habr.com/ru/news/810089/?utm_campaign=810089&utm_source=habrahabr&utm_medium=rss)
 - [Вышел nginx 1.26.0](https://habr.com/ru/news/810071/?utm_campaign=810071&utm_source=habrahabr&utm_medium=rss)
-- [Сенат США проголосовал за закон о мерах по блокировке TikTok в стране](https://habr.com/ru/news/810035/?utm_campaign=810035&utm_source=habrahabr&utm_medium=rss)
-- [Google опять отложила блокировку сторонних cookie в Chrome](https://habr.com/ru/news/810025/?utm_campaign=810025&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
