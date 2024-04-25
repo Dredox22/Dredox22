@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Умный телевизор Hisense на Android может приводить к нестабильной работе ПК под управлением Windows](https://habr.com/ru/news/810503/?utm_campaign=810503&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm представила процессор Snapdragon X Plus для ПК на ARM с Windows 11](https://habr.com/ru/news/810501/?utm_campaign=810501&utm_source=habrahabr&utm_medium=rss)
 - [Вышел некстген Fallout 4 для ПК, Xbox Series X|S и PS5](https://habr.com/ru/news/810497/?utm_campaign=810497&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies: в 2023 году выкупы операторам шифровальщиков составили $1 млрд](https://habr.com/ru/news/810485/?utm_campaign=810485&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт сообщил об обнаружении уязвимости в технологии защиты контента PlayReady от Microsoft](https://habr.com/ru/news/810469/?utm_campaign=810469&utm_source=habrahabr&utm_medium=rss)
-- [Стриминговый сервис Атлас.Музыка модернизирует отрасль музыкального продакшена за счёт применения машинного обучения](https://habr.com/ru/news/810465/?utm_campaign=810465&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
