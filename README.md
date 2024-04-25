@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Яндекс проведёт фестиваль Young Con — для тех, кто хочет начать карьеру в IT](https://habr.com/ru/companies/yandex/news/810303/?utm_campaign=810303&utm_source=habrahabr&utm_medium=rss)
-- [Файлы Microsoft 365 теперь можно редактировать в ChromeOS на Chromebook](https://habr.com/ru/news/810335/?utm_campaign=810335&utm_source=habrahabr&utm_medium=rss)
-- [В Google Meet зашифрованные звонки стали доступны для пользователей без аккаунта](https://habr.com/ru/news/810333/?utm_campaign=810333&utm_source=habrahabr&utm_medium=rss)
-- [Опрос: две трети россиян сталкивались с попытками мошенников украсть их аккаунты в сети](https://habr.com/ru/news/810329/?utm_campaign=810329&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выделит календарь в отдельное приложение и сделает из сервиса «полноценный планировщик задач»](https://habr.com/ru/news/810321/?utm_campaign=810321&utm_source=habrahabr&utm_medium=rss)
+- [VK Play подвела итоги двухлетней работы и анонсировала запуск раздела «Лаборатория»](https://habr.com/ru/news/810363/?utm_campaign=810363&utm_source=habrahabr&utm_medium=rss)
+- [Объём рынка контрактного производства электроники России в 2023 году вырос на 42%](https://habr.com/ru/news/810357/?utm_campaign=810357&utm_source=habrahabr&utm_medium=rss)
+- [Готовится к запуску ИИ-платформа Augment, конкурент GitHub Copilot, с бюджетом в $252 млн](https://habr.com/ru/news/810349/?utm_campaign=810349&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Unreal Engine 5.4](https://habr.com/ru/news/810347/?utm_campaign=810347&utm_source=habrahabr&utm_medium=rss)
+- [Представлен вариант вычислительного модуля Raspberry Pi 4S](https://habr.com/ru/news/810343/?utm_campaign=810343&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
