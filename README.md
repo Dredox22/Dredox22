@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс проведёт фестиваль Young Con — для тех, кто хочет начать карьеру в IT](https://habr.com/ru/companies/yandex/news/810303/?utm_campaign=810303&utm_source=habrahabr&utm_medium=rss)
+- [Файлы Microsoft 365 теперь можно редактировать в ChromeOS на Chromebook](https://habr.com/ru/news/810335/?utm_campaign=810335&utm_source=habrahabr&utm_medium=rss)
+- [В Google Meet зашифрованные звонки стали доступны для пользователей без аккаунта](https://habr.com/ru/news/810333/?utm_campaign=810333&utm_source=habrahabr&utm_medium=rss)
+- [Опрос: две трети россиян сталкивались с попытками мошенников украсть их аккаунты в сети](https://habr.com/ru/news/810329/?utm_campaign=810329&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выделит календарь в отдельное приложение и сделает из сервиса «полноценный планировщик задач»](https://habr.com/ru/news/810321/?utm_campaign=810321&utm_source=habrahabr&utm_medium=rss)
-- [«Гравитон» запустил в серийное производство новое поколение SSD M.2 2280 объёмом от 256 ГБ до 2 ТБ](https://habr.com/ru/news/810307/?utm_campaign=810307&utm_source=habrahabr&utm_medium=rss)
-- [Сегодня и завтра в Москве в Физтехпарке пройдёт выставка и конференция по автоматизации зданий и умным домам](https://habr.com/ru/companies/wirenboard/news/810305/?utm_campaign=810305&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla переписала Firefox Crash Reporter на Rust](https://habr.com/ru/news/810301/?utm_campaign=810301&utm_source=habrahabr&utm_medium=rss)
-- [Отель Grand Hyatt в Токио запустил роскошную коллаборацию с Pokémon Sleep в честь годовщины релиза приложения](https://habr.com/ru/news/810233/?utm_campaign=810233&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
