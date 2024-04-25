@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Музыкальный стриминговый сервис Атлас.Музыка революционизирует отрасль с помощью систем машинного обучения](https://habr.com/ru/news/810465/?utm_campaign=810465&utm_source=habrahabr&utm_medium=rss)
+- [В США взялись за крипто-миксеры](https://habr.com/ru/news/810455/?utm_campaign=810455&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp работает над функцией набора номера](https://habr.com/ru/news/810423/?utm_campaign=810423&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-система обработки фото на смартфоне Huawei Pura 70 может частично «раздевать» людей на изображениях](https://habr.com/ru/news/810407/?utm_campaign=810407&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрабатывает собственный серверный процессор для ИИ с использованием 3-нм техпроцесса TSMC](https://habr.com/ru/news/810399/?utm_campaign=810399&utm_source=habrahabr&utm_medium=rss)
-- [Ученые Smart Engines нашли способ повысить эффективность работы нейросетей на 40%](https://habr.com/ru/companies/smartengines/news/810373/?utm_campaign=810373&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в мае](https://habr.com/ru/companies/netologyru/news/810191/?utm_campaign=810191&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
