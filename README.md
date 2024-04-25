@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-система обработки фото на смартфоне Huawei Pura 70 может частично «раздевать» людей на изображениях](https://habr.com/ru/news/810407/?utm_campaign=810407&utm_source=habrahabr&utm_medium=rss)
+- [Apple разрабатывает собственный серверный процессор для ИИ с использованием 3-нм техпроцесса TSMC](https://habr.com/ru/news/810399/?utm_campaign=810399&utm_source=habrahabr&utm_medium=rss)
 - [Ученые Smart Engines нашли способ повысить эффективность работы нейросетей на 40%](https://habr.com/ru/companies/smartengines/news/810373/?utm_campaign=810373&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в мае](https://habr.com/ru/companies/netologyru/news/810191/?utm_campaign=810191&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Node.js 22](https://habr.com/ru/news/810371/?utm_campaign=810371&utm_source=habrahabr&utm_medium=rss)
-- [VK Play подвела итоги двухлетней работы и анонсировала запуск раздела «Лаборатория»](https://habr.com/ru/news/810363/?utm_campaign=810363&utm_source=habrahabr&utm_medium=rss)
-- [Объём рынка контрактного производства электроники России в 2023 году вырос на 42%](https://habr.com/ru/news/810357/?utm_campaign=810357&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
