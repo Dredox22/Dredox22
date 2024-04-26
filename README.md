@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [HP добавила уведомление о включении Caps Lock в Windows 11](https://habr.com/ru/news/810701/?utm_campaign=810701&utm_source=habrahabr&utm_medium=rss)
+- [Flexy — отечественный Midjourney?](https://habr.com/ru/news/810693/?utm_campaign=810693&utm_source=habrahabr&utm_medium=rss)
 - [Google открыла доступ к Gemini для смартфонов на Android 10 и Android 11](https://habr.com/ru/news/810671/?utm_campaign=810671&utm_source=habrahabr&utm_medium=rss)
 - [Новое, это хорошо забытое старое](https://habr.com/ru/news/810647/?utm_campaign=810647&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» объявил о старте международного конкурса по искусственному интеллекту для молодежи AI Challenge 2024](https://habr.com/ru/news/810641/?utm_campaign=810641&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: раздел «Мой профиль» и массовая модерация](https://habr.com/ru/news/810631/?utm_campaign=810631&utm_source=habrahabr&utm_medium=rss)
-- [В Counter-Strike 2 добавили спринт и возможность смены рук с оружием](https://habr.com/ru/news/810621/?utm_campaign=810621&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
