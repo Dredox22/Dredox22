@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минздрав РФ объявило тендер на закупку серверов базе Intel и СХД, совместимых с СХД Huawei и Yadro](https://habr.com/ru/news/810771/?utm_campaign=810771&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Pharo 12 &lpar;диалекта языка Smalltalk&rpar;](https://habr.com/ru/news/810759/?utm_campaign=810759&utm_source=habrahabr&utm_medium=rss)
 - [WD фиксирует новый тренд на рынке HDD. Объём продаж в штуках падает, но выручка растет](https://habr.com/ru/companies/dcmiran/news/810755/?utm_campaign=810755&utm_source=habrahabr&utm_medium=rss)
 - [Релиз iMazing 3 для Mac и ПК на Windows](https://habr.com/ru/news/810731/?utm_campaign=810731&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф» запустил систему мониторинга для выявления карт подставных лиц](https://habr.com/ru/news/810729/?utm_campaign=810729&utm_source=habrahabr&utm_medium=rss)
-- [HP добавила уведомление о включении Caps Lock в Windows 11](https://habr.com/ru/news/810701/?utm_campaign=810701&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
