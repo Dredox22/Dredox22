@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Telegram: раздел «Мой профиль» и массовая модерация](https://habr.com/ru/news/810631/?utm_campaign=810631&utm_source=habrahabr&utm_medium=rss)
+- [В Counter-Strike 2 добавили спринт и возможность смены рук с оружием](https://habr.com/ru/news/810621/?utm_campaign=810621&utm_source=habrahabr&utm_medium=rss)
 - [На GitHub опубликован исходный код MS-DOS 4.00 под лицензией MIT](https://habr.com/ru/news/810613/?utm_campaign=810613&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст представил порт Doom для Paint](https://habr.com/ru/news/810603/?utm_campaign=810603&utm_source=habrahabr&utm_medium=rss)
 - [Бывший хакер АНБ и исследователь Apple запустили ИБ-стартап](https://habr.com/ru/news/810597/?utm_campaign=810597&utm_source=habrahabr&utm_medium=rss)
-- [Apple по ошибке сообщила клиентам о несостоявшемся обмене их iPhone](https://habr.com/ru/news/810593/?utm_campaign=810593&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft убрала из открытого доступа не прошедшую тест на токсичность WizardLM 2 LLM, но пользователи сохранили проект](https://habr.com/ru/news/810555/?utm_campaign=810555&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
