@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Администраторы Google Workspace смогут переносить сообщения Slack в Google Chat](https://habr.com/ru/news/810905/?utm_campaign=810905&utm_source=habrahabr&utm_medium=rss)
+- [Apple обсуждает с OpenAI внедрение ИИ-функций на iPhone](https://habr.com/ru/news/810891/?utm_campaign=810891&utm_source=habrahabr&utm_medium=rss)
+- [Начните учиться бесплатно на курсе «Python для анализа данных» в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/810895/?utm_campaign=810895&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь из Австралии нашёл способ подключить геолокацию iPhone к ЕС](https://habr.com/ru/news/810887/?utm_campaign=810887&utm_source=habrahabr&utm_medium=rss)
 - [Для Bun вышел свой компактный crash reporter](https://habr.com/ru/news/810885/?utm_campaign=810885&utm_source=habrahabr&utm_medium=rss)
-- [Расследование NHTSA: автопилот Tesla и FSD связаны с сотнями аварий и десятками смертей](https://habr.com/ru/news/810845/?utm_campaign=810845&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила из App Store несколько генераторов картинок, обещающих «раздеть любую девушку»](https://habr.com/ru/news/810841/?utm_campaign=810841&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила Infra Copilot, который использует GitHub Copilot для генерации инфраструктурного кода](https://habr.com/ru/news/810839/?utm_campaign=810839&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
