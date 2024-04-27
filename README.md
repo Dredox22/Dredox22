@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь из Австралии нашёл способ подключить геолокацию iPhone к ЕС](https://habr.com/ru/news/810887/?utm_campaign=810887&utm_source=habrahabr&utm_medium=rss)
+- [Для Bun вышел свой компактный crash reporter](https://habr.com/ru/news/810885/?utm_campaign=810885&utm_source=habrahabr&utm_medium=rss)
 - [Расследование NHTSA: автопилот Tesla и FSD связаны с сотнями аварий и десятками смертей](https://habr.com/ru/news/810845/?utm_campaign=810845&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила из App Store несколько генераторов картинок, обещающих «раздеть любую девушку»](https://habr.com/ru/news/810841/?utm_campaign=810841&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Infra Copilot, который использует GitHub Copilot для генерации инфраструктурного кода](https://habr.com/ru/news/810839/?utm_campaign=810839&utm_source=habrahabr&utm_medium=rss)
-- [Команда Nau Engine обновила FAQ и ответила на популярные вопросы по проекту игрового движка](https://habr.com/ru/news/810823/?utm_campaign=810823&utm_source=habrahabr&utm_medium=rss)
-- [Открытие электронного сейфа с помощью Flipper Zero с использованием уязвимости в протоколе управления контроллера](https://habr.com/ru/news/810815/?utm_campaign=810815&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
