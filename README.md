@@ -72,7 +72,7 @@
 - [Apple удалила из App Store несколько генераторов картинок, обещающих «раздеть любую девушку»](https://habr.com/ru/news/810841/?utm_campaign=810841&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Infra Copilot, который использует GitHub Copilot для генерации инфраструктурного кода](https://habr.com/ru/news/810839/?utm_campaign=810839&utm_source=habrahabr&utm_medium=rss)
 - [Команда Nau Engine обновила FAQ и ответила на популярные вопросы по проекту игрового движка](https://habr.com/ru/news/810823/?utm_campaign=810823&utm_source=habrahabr&utm_medium=rss)
-- [Показано открытие электронного сейфа с помощью Flipper Zero, используя уязвимость в протоколе управления контроллера](https://habr.com/ru/news/810815/?utm_campaign=810815&utm_source=habrahabr&utm_medium=rss)
+- [Открытие электронного сейфа с помощью Flipper Zero с использованием уязвимости в протоколе управления контроллера](https://habr.com/ru/news/810815/?utm_campaign=810815&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
