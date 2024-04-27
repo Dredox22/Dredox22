@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пекин будет субсидировать местным предприятиям закупки отечественных чипов](https://habr.com/ru/news/811093/?utm_campaign=811093&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 22H2 и 23H2 появится возможность создания архивов tar и 7-zip](https://habr.com/ru/news/811085/?utm_campaign=811085&utm_source=habrahabr&utm_medium=rss)
 - [FTC обвинила руководство Amazon в уничтожении данных по антимонопольному делу через автоудаление сообщений в Signal](https://habr.com/ru/news/811083/?utm_campaign=811083&utm_source=habrahabr&utm_medium=rss)
 - [В ОАЭ начались первые в мире гонки ИИ–болидов](https://habr.com/ru/news/811061/?utm_campaign=811061&utm_source=habrahabr&utm_medium=rss)
 - [Мир не готов к Apple Vision Pro, а Sony будет играть за геймера: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/811053/?utm_campaign=811053&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты ГК «Солар» рассказали о новой мошеннической кампании по краже денег со счетов граждан](https://habr.com/ru/news/811045/?utm_campaign=811045&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
