@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мир не готов к Apple Vision Pro, а Sony будет играть за геймера: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/811053/?utm_campaign=811053&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты ГК «Солар» рассказали о новой мошеннической кампании по краже денег со счетов граждан](https://habr.com/ru/news/811045/?utm_campaign=811045&utm_source=habrahabr&utm_medium=rss)
 - [16-17 мая ВСК запускает «One Day Offer»](https://habr.com/ru/companies/vsk_insurance/news/811035/?utm_campaign=811035&utm_source=habrahabr&utm_medium=rss)
 - [Производитель электроники «Рикор электроникс» планирует выйти в потребительский сегмент со своими ноутбуками](https://habr.com/ru/news/811019/?utm_campaign=811019&utm_source=habrahabr&utm_medium=rss)
 - [Discord запретила шпионскому сервису Spy Pet доступ к своей платформе](https://habr.com/ru/news/811017/?utm_campaign=811017&utm_source=habrahabr&utm_medium=rss)
-- [Google пофиксили уязвимость в Android-TV, из-за которой пользователи могли потерять доступ к аккаунту в Gmail](https://habr.com/ru/companies/bothub/news/811005/?utm_campaign=811005&utm_source=habrahabr&utm_medium=rss)
-- [Lipsar Studio представила геймплейный трейлер игры Sparta](https://habr.com/ru/news/810989/?utm_campaign=810989&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
