@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [16-17 мая ВСК запускает «One Day Offer»](https://habr.com/ru/companies/vsk_insurance/news/811035/?utm_campaign=811035&utm_source=habrahabr&utm_medium=rss)
+- [Производитель электроники «Рикор электроникс» планирует выйти в потребительский сегмент со своими ноутбуками](https://habr.com/ru/news/811019/?utm_campaign=811019&utm_source=habrahabr&utm_medium=rss)
 - [Discord запретила шпионскому сервису Spy Pet доступ к своей платформе](https://habr.com/ru/news/811017/?utm_campaign=811017&utm_source=habrahabr&utm_medium=rss)
 - [Google пофиксили уязвимость в Android-TV, из-за которой пользователи могли потерять доступ к аккаунту в Gmail](https://habr.com/ru/companies/bothub/news/811005/?utm_campaign=811005&utm_source=habrahabr&utm_medium=rss)
 - [Lipsar Studio представила геймплейный трейлер игры Sparta](https://habr.com/ru/news/810989/?utm_campaign=810989&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи по всему миру жалуются на вылет из Apple ID на нескольких устройствах и принудительный сброс пароля](https://habr.com/ru/news/810973/?utm_campaign=810973&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» начал приём заявок на Научную премию за 2024 год с призовым фондом в 60 млн рублей](https://habr.com/ru/news/810925/?utm_campaign=810925&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
