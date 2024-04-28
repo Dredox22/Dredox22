@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: фишинговые сайты почты США получают столько же трафика, сколько и реальный](https://habr.com/ru/news/811225/?utm_campaign=811225&utm_source=habrahabr&utm_medium=rss)
 - [В Android 15 появится функция постепенного затихания уведомлений, чтобы не переводить смартфон в беззвучный режим](https://habr.com/ru/news/811177/?utm_campaign=811177&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: Apple прекратила увеличивать объём ОЗУ в базовых Mac с 2012 года, в MacBook Air с 2017 года](https://habr.com/ru/news/811175/?utm_campaign=811175&utm_source=habrahabr&utm_medium=rss)
 - [Из-за бага в системе бронирования в авиакомпании American Airlines принимают 101-летнюю женщину за годовалого ребёнка](https://habr.com/ru/news/811149/?utm_campaign=811149&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Японии разработала поддельные платёжные карты для борьбы с мошенничеством](https://habr.com/ru/news/811133/?utm_campaign=811133&utm_source=habrahabr&utm_medium=rss)
-- [Kaiser сообщила об утечке данных 13,4 млн пациентов](https://habr.com/ru/news/811129/?utm_campaign=811129&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
