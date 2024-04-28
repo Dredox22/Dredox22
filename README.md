@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Полиция Японии разработала поддельные платёжные карты для борьбы с мошенничеством](https://habr.com/ru/news/811133/?utm_campaign=811133&utm_source=habrahabr&utm_medium=rss)
 - [Kaiser сообщила об утечке данных 13,4 млн пациентов](https://habr.com/ru/news/811129/?utm_campaign=811129&utm_source=habrahabr&utm_medium=rss)
 - [Belka Games сократит 20% команды разработчиков](https://habr.com/ru/news/811117/?utm_campaign=811117&utm_source=habrahabr&utm_medium=rss)
 - [В последней бета-версии Windows 11 проводник позволяет дублировать вкладки](https://habr.com/ru/news/811113/?utm_campaign=811113&utm_source=habrahabr&utm_medium=rss)
 - [Пекин будет субсидировать местным предприятиям закупки отечественных чипов](https://habr.com/ru/news/811093/?utm_campaign=811093&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 22H2 и 23H2 появится возможность создания архивов tar и 7-zip](https://habr.com/ru/news/811085/?utm_campaign=811085&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
