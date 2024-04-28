@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Из-за бага в системе бронирования в авиакомпании American Airlines принимают 101-летнюю женщину за годовалого ребёнка](https://habr.com/ru/news/811149/?utm_campaign=811149&utm_source=habrahabr&utm_medium=rss)
+- [Из-за бага в системе бронирования в ПНДавиакомпании American Airlines принимают 101-летнюю женщину за годовалого ребёнка](https://habr.com/ru/news/811149/?utm_campaign=811149&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Японии разработала поддельные платёжные карты для борьбы с мошенничеством](https://habr.com/ru/news/811133/?utm_campaign=811133&utm_source=habrahabr&utm_medium=rss)
 - [Kaiser сообщила об утечке данных 13,4 млн пациентов](https://habr.com/ru/news/811129/?utm_campaign=811129&utm_source=habrahabr&utm_medium=rss)
 - [Belka Games сократит 20% команды разработчиков](https://habr.com/ru/news/811117/?utm_campaign=811117&utm_source=habrahabr&utm_medium=rss)
