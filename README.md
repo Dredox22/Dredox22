@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начала показывать полноэкранные уведомления на ПК с установленными Windows 11 для продвижения свих сервисов](https://habr.com/ru/news/811299/?utm_campaign=811299&utm_source=habrahabr&utm_medium=rss)
 - [Постквантовая криптография Google Chrome 124 может нарушить криптографию TLS](https://habr.com/ru/news/811291/?utm_campaign=811291&utm_source=habrahabr&utm_medium=rss)
 - [Okta заявила о «беспрецедентных» атаках с подстановкой учётных данных](https://habr.com/ru/news/811281/?utm_campaign=811281&utm_source=habrahabr&utm_medium=rss)
 - [Эмулятор ретро-игр Delta скоро будет доступен для iPad](https://habr.com/ru/news/811287/?utm_campaign=811287&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play стало возможно загружать два приложения одновременно](https://habr.com/ru/news/811271/?utm_campaign=811271&utm_source=habrahabr&utm_medium=rss)
-- [«Инженер данных с нуля» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/804457/?utm_campaign=804457&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
