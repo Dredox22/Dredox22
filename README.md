@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi выпустила 10 тыс. электромобилей SU7 за 32 дня](https://habr.com/ru/news/811363/?utm_campaign=811363&utm_source=habrahabr&utm_medium=rss)
 - [В Fallout 3 уже 15 лет неправильно светит солнце из-за ошибки в одном символе кода игры](https://habr.com/ru/news/811359/?utm_campaign=811359&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого аудиоплеера Amarok 3.0.0](https://habr.com/ru/news/811343/?utm_campaign=811343&utm_source=habrahabr&utm_medium=rss)
 - [Бостонскому радиопирату грозит штраф в $600 тыс. за то, что он оставался в эфире даже после ранее наложенных штрафов FCC](https://habr.com/ru/news/811341/?utm_campaign=811341&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала показывать полноэкранные уведомления на ПК с установленными Windows 11 для продвижения своих сервисов](https://habr.com/ru/news/811299/?utm_campaign=811299&utm_source=habrahabr&utm_medium=rss)
-- [Постквантовая криптография Google Chrome 124 может нарушить криптографию TLS](https://habr.com/ru/news/811291/?utm_campaign=811291&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
