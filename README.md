@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Инженер данных с нуля» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/804457/?utm_campaign=804457&utm_source=habrahabr&utm_medium=rss)
+- [720p, сотни попыток и необходимость постобработки: авторы поделились впечатлениями от Sora](https://habr.com/ru/news/811249/?utm_campaign=811249&utm_source=habrahabr&utm_medium=rss)
 - [В Huawei Pura 70 более 90% компонентов производятся китайскими компаниями](https://habr.com/ru/news/811231/?utm_campaign=811231&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: фишинговые сайты почты США получают столько же трафика, сколько и реальный](https://habr.com/ru/news/811225/?utm_campaign=811225&utm_source=habrahabr&utm_medium=rss)
 - [В Android 15 появится функция постепенного затихания уведомлений, чтобы не переводить смартфон в беззвучный режим](https://habr.com/ru/news/811177/?utm_campaign=811177&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: Apple прекратила увеличивать объём ОЗУ в базовых Mac с 2012 года, в MacBook Air с 2017 года](https://habr.com/ru/news/811175/?utm_campaign=811175&utm_source=habrahabr&utm_medium=rss)
-- [Из-за бага в системе бронирования в авиакомпании American Airlines принимают 101-летнюю женщину за годовалого ребёнка](https://habr.com/ru/news/811149/?utm_campaign=811149&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
