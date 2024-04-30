@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз браузера Arc 1.0 для Windows 11](https://habr.com/ru/news/811509/?utm_campaign=811509&utm_source=habrahabr&utm_medium=rss)
+- [Ежегодное игровое шоу Xbox Games Showcase пройдёт 9 июня](https://habr.com/ru/news/811505/?utm_campaign=811505&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры «Смута» выпустили четвёртый патч для игры с большим количеством исправлений](https://habr.com/ru/news/811501/?utm_campaign=811501&utm_source=habrahabr&utm_medium=rss)
 - [Российская игра 2001 года «Самогонки» переиздается на базе Open Source версии](https://habr.com/ru/news/811499/?utm_campaign=811499&utm_source=habrahabr&utm_medium=rss)
 - [В 2023 году Google отклонила публикацию 2,28 млн опасных приложений в Google Play](https://habr.com/ru/news/811491/?utm_campaign=811491&utm_source=habrahabr&utm_medium=rss)
-- [Starlink предложила тестовый доступ к своей сети за $1, но только до месяца](https://habr.com/ru/news/811481/?utm_campaign=811481&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Telegram не удалил более 120 тыс. противоправных материалов после требований Роскомнадзора выполнить эти действия](https://habr.com/ru/news/811475/?utm_campaign=811475&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
