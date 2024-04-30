@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Nvidia RTX Remix 0.5](https://habr.com/ru/news/811493/?utm_campaign=811493&utm_source=habrahabr&utm_medium=rss)
 - [По слухам, iPhone 16 получат заднюю панель из цветного стекла, как iPhone 15, но расположение камер будет другим](https://habr.com/ru/news/811513/?utm_campaign=811513&utm_source=habrahabr&utm_medium=rss)
 - [Релиз браузера Arc 1.0 для Windows 11](https://habr.com/ru/news/811509/?utm_campaign=811509&utm_source=habrahabr&utm_medium=rss)
 - [Ежегодное игровое шоу Xbox Games Showcase пройдёт 9 июня](https://habr.com/ru/news/811505/?utm_campaign=811505&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры «Смута» выпустили четвёртый патч для игры с большим количеством исправлений](https://habr.com/ru/news/811501/?utm_campaign=811501&utm_source=habrahabr&utm_medium=rss)
-- [Российская игра 2001 года «Самогонки» переиздается на базе Open Source версии](https://habr.com/ru/news/811499/?utm_campaign=811499&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
