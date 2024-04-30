@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Boston Dynamics показала мохнатого робопса Sparkles на базе Spot](https://habr.com/ru/news/811395/?utm_campaign=811395&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT получил возможность запоминать предпочтения пользователей](https://habr.com/ru/news/811391/?utm_campaign=811391&utm_source=habrahabr&utm_medium=rss)
 - [GitHub представила платформу GitHub Copilot Workspace для помощи в старте нового проекта по разработке кода](https://habr.com/ru/news/811379/?utm_campaign=811379&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi выпустила 10 тыс. электромобилей SU7 за 32 дня](https://habr.com/ru/news/811363/?utm_campaign=811363&utm_source=habrahabr&utm_medium=rss)
 - [В Fallout 3 уже 15 лет неправильно светит солнце из-за ошибки в одном символе кода игры](https://habr.com/ru/news/811359/?utm_campaign=811359&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого аудиоплеера Amarok 3.0.0](https://habr.com/ru/news/811343/?utm_campaign=811343&utm_source=habrahabr&utm_medium=rss)
-- [Бостонскому радиопирату грозит штраф в $600 тыс. за то, что он оставался в эфире даже после ранее наложенных штрафов FCC](https://habr.com/ru/news/811341/?utm_campaign=811341&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
