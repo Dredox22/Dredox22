@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink предложила тестовый доступ к своей сети за $1, но только до месяца](https://habr.com/ru/news/811481/?utm_campaign=811481&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Telegram не удалил более 120 тыс. противоправных материалов после требований Роскомнадзора выполнить эти действия](https://habr.com/ru/news/811475/?utm_campaign=811475&utm_source=habrahabr&utm_medium=rss)
 - [Глава AMD Лиза Су получила титул «гендиректор года»](https://habr.com/ru/news/811473/?utm_campaign=811473&utm_source=habrahabr&utm_medium=rss)
 - [Хотите обезопасить контейнеры? Все о профилактике Docker — в одном курсе](https://habr.com/ru/companies/selectel/news/811441/?utm_campaign=811441&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор оштрафовал крупнейших операторов связи США почти на $200 млн за разглашение данных о местонахождении клиентов](https://habr.com/ru/news/811431/?utm_campaign=811431&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge прекращает поддержку устаревших свойств для высококонтрастных тем](https://habr.com/ru/news/811397/?utm_campaign=811397&utm_source=habrahabr&utm_medium=rss)
-- [Boston Dynamics показала мохнатого робопса Sparkles на базе Spot](https://habr.com/ru/news/811395/?utm_campaign=811395&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
