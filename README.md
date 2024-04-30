@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge прекращает поддержку устаревших свойств для высококонтрастных тем](https://habr.com/ru/news/811397/?utm_campaign=811397&utm_source=habrahabr&utm_medium=rss)
 - [Boston Dynamics показала мохнатого робопса Sparkles на базе Spot](https://habr.com/ru/news/811395/?utm_campaign=811395&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT получил возможность запоминать предпочтения пользователей](https://habr.com/ru/news/811391/?utm_campaign=811391&utm_source=habrahabr&utm_medium=rss)
 - [GitHub представила платформу GitHub Copilot Workspace для помощи в старте нового проекта по разработке кода](https://habr.com/ru/news/811379/?utm_campaign=811379&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi выпустила 10 тыс. электромобилей SU7 за 32 дня](https://habr.com/ru/news/811363/?utm_campaign=811363&utm_source=habrahabr&utm_medium=rss)
-- [В Fallout 3 уже 15 лет неправильно светит солнце из-за ошибки в одном символе кода игры](https://habr.com/ru/news/811359/?utm_campaign=811359&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
