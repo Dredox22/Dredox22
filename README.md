@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Установка на iPhone 100 приложений из App Store показала большое количество DNS-запросов к внешним серверам в простое](https://habr.com/ru/news/811551/?utm_campaign=811551&utm_source=habrahabr&utm_medium=rss)
+- [Google Chrome в Windows начал предупреждать о рассылке спама сайтами](https://habr.com/ru/news/811531/?utm_campaign=811531&utm_source=habrahabr&utm_medium=rss)
+- [Google добавила в приложение Google Phone для Android опцию Audio Emoji](https://habr.com/ru/news/811545/?utm_campaign=811545&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Nvidia RTX Remix 0.5](https://habr.com/ru/news/811493/?utm_campaign=811493&utm_source=habrahabr&utm_medium=rss)
 - [По слухам, iPhone 16 получат заднюю панель из цветного стекла, как iPhone 15, но расположение камер будет другим](https://habr.com/ru/news/811513/?utm_campaign=811513&utm_source=habrahabr&utm_medium=rss)
-- [Релиз браузера Arc 1.0 для Windows 11](https://habr.com/ru/news/811509/?utm_campaign=811509&utm_source=habrahabr&utm_medium=rss)
-- [Ежегодное игровое шоу Xbox Games Showcase пройдёт 9 июня](https://habr.com/ru/news/811505/?utm_campaign=811505&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики игры «Смута» выпустили четвёртый патч для игры с большим количеством исправлений](https://habr.com/ru/news/811501/?utm_campaign=811501&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
