@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Восемь американских газет подали в суд на Microsoft и ChatGPT, обвинив компании в нарушении авторских прав](https://habr.com/ru/news/811579/?utm_campaign=811579&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-устройство Rabbit R1 работает не на собственной ОС Rabbit OS, а на Android с кастомной оболочкой](https://habr.com/ru/news/811571/?utm_campaign=811571&utm_source=habrahabr&utm_medium=rss)
 - [В 1995 году Маск написал стек веб-программ для Zip2 на C и C++](https://habr.com/ru/news/811535/?utm_campaign=811535&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft через патч для Edge отменила возможность установки Copilot на ПК с Windows 11 без ведома пользователя](https://habr.com/ru/news/811559/?utm_campaign=811559&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила открытые шрифты Cascadia Code для эмуляторов терминалов и редакторов кода и выпустила Nerd Font](https://habr.com/ru/news/811555/?utm_campaign=811555&utm_source=habrahabr&utm_medium=rss)
-- [Установка на iPhone 100 приложений из App Store показала большое количество DNS-запросов к внешним серверам в простое](https://habr.com/ru/news/811551/?utm_campaign=811551&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
