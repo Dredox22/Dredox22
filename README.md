@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Роскомнадзор порекомендовал хостинг-провайдерам РФ ограничить сбор информации с российских ресурсов иностранными ботами](https://habr.com/ru/news/811691/?utm_campaign=811691&utm_source=habrahabr&utm_medium=rss)
-- [Число пользователей Tor в РФ снизилось двукратно](https://habr.com/ru/news/811687/?utm_campaign=811687&utm_source=habrahabr&utm_medium=rss)
-- [Создатель Kerbal Space Program 2 студия Intercept Games закрывается с 28 июня](https://habr.com/ru/news/811677/?utm_campaign=811677&utm_source=habrahabr&utm_medium=rss)
-- [Asus отказалась уточнить по поводу физической перекомпоновки устройства чтения SD-карт консоли ROG Ally](https://habr.com/ru/news/811663/?utm_campaign=811663&utm_source=habrahabr&utm_medium=rss)
-- [gpt2-chatbot превзошла GPT-4 и исчезла: новый проект OpenAI или скрытое тестирование GPT-5?](https://habr.com/ru/companies/bothub/news/811643/?utm_campaign=811643&utm_source=habrahabr&utm_medium=rss)
+- [Минфин США ввёл санкции против крупных игроков российского IT-рынка, включая «Ланит», часть IBS и группу «Астра»](https://habr.com/ru/news/811751/?utm_campaign=811751&utm_source=habrahabr&utm_medium=rss)
+- [Хакер Алексантери Кивимяки получил 6,3 года тюрьмы за взлом сети клиник Vastaamo](https://habr.com/ru/news/811745/?utm_campaign=811745&utm_source=habrahabr&utm_medium=rss)
+- [Google начала платить до $450 тысяч за ошибки RCE в некоторых Android-приложениях](https://habr.com/ru/news/811733/?utm_campaign=811733&utm_source=habrahabr&utm_medium=rss)
+- [Релиз текстового редактора GNU nano 8.0](https://habr.com/ru/news/811723/?utm_campaign=811723&utm_source=habrahabr&utm_medium=rss)
+- [1Password переименовал бизнес-хранилища из-за путаницы с хранением данных](https://habr.com/ru/news/811721/?utm_campaign=811721&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
