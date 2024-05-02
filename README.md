@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на вебинар «Защита Kubernetes: настройки безопасности, которые редко используют»](https://habr.com/ru/companies/ussc/news/811809/?utm_campaign=811809&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустила мобильное приложение для Claude](https://habr.com/ru/news/811789/?utm_campaign=811789&utm_source=habrahabr&utm_medium=rss)
 - [Dropbox: хакеры получили доступ к Dropbox Sign eSignature, токенам аутентификации, МФА и хешированным паролям клиентов](https://habr.com/ru/news/811785/?utm_campaign=811785&utm_source=habrahabr&utm_medium=rss)
 - [Google исправила ошибку, из-за которой с помощью Android TV можно было получить доступ к аккаунту пользователя](https://habr.com/ru/news/811767/?utm_campaign=811767&utm_source=habrahabr&utm_medium=rss)
 - [Минфин США ввёл санкции против крупных игроков российского IT-рынка, включая «Ланит», часть IBS и группу «Астра»](https://habr.com/ru/news/811751/?utm_campaign=811751&utm_source=habrahabr&utm_medium=rss)
-- [Хакер Алексантери Кивимяки получил 6 лет и 3 месяца тюрьмы за взлом сети клиник Vastaamo](https://habr.com/ru/news/811745/?utm_campaign=811745&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
