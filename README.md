@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор порекомендовал хостинг-провайдерам РФ ограничить сбор информации с российских ресурсов иностранными ботами](https://habr.com/ru/news/811691/?utm_campaign=811691&utm_source=habrahabr&utm_medium=rss)
 - [Число пользователей Tor в РФ снизилось двукратно](https://habr.com/ru/news/811687/?utm_campaign=811687&utm_source=habrahabr&utm_medium=rss)
 - [Создатель Kerbal Space Program 2 студия Intercept Games закрывается с 28 июня](https://habr.com/ru/news/811677/?utm_campaign=811677&utm_source=habrahabr&utm_medium=rss)
 - [Asus отказалась уточнить по поводу физической перекомпоновки устройства чтения SD-карт консоли ROG Ally](https://habr.com/ru/news/811663/?utm_campaign=811663&utm_source=habrahabr&utm_medium=rss)
 - [gpt2-chatbot превзошла GPT-4 и исчезла: новый проект OpenAI или скрытое тестирование GPT-5?](https://habr.com/ru/companies/bothub/news/811643/?utm_campaign=811643&utm_source=habrahabr&utm_medium=rss)
-- [Спутниковый интернет OneWeb заработает в Казахстане в 2024 году](https://habr.com/ru/news/811653/?utm_campaign=811653&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
