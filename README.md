@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ремастер российской игры «Периметр» выходит в Steam и в браузере](https://habr.com/ru/news/811861/?utm_campaign=811861&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструментария Yocto Project 5.0](https://habr.com/ru/news/811853/?utm_campaign=811853&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия плагина Flutter &amp;amp; Dart для VSCode 3.88.0](https://habr.com/ru/companies/friflex/news/811705/?utm_campaign=811705&utm_source=habrahabr&utm_medium=rss)
 - [Бастион — первый дайджест весны](https://habr.com/ru/companies/bastion/news/811823/?utm_campaign=811823&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Защита Kubernetes: настройки безопасности, которые редко используют»](https://habr.com/ru/companies/ussc/news/811809/?utm_campaign=811809&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ внедряет в приложение «Свой Бизнес» ИИ-сервис «Валютные торги»](https://habr.com/ru/companies/rshb/news/811803/?utm_campaign=811803&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустила мобильное приложение для Claude](https://habr.com/ru/news/811789/?utm_campaign=811789&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
