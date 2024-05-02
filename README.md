@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия плагина Flutter &amp;amp; Dart для VSCode 3.88.0](https://habr.com/ru/companies/friflex/news/811705/?utm_campaign=811705&utm_source=habrahabr&utm_medium=rss)
 - [Бастион — первый дайджест весны](https://habr.com/ru/companies/bastion/news/811823/?utm_campaign=811823&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Защита Kubernetes: настройки безопасности, которые редко используют»](https://habr.com/ru/companies/ussc/news/811809/?utm_campaign=811809&utm_source=habrahabr&utm_medium=rss)
+- [РСХБ внедряет в приложение «Свой Бизнес» ИИ-сервис «Валютные торги»](https://habr.com/ru/companies/rshb/news/811803/?utm_campaign=811803&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустила мобильное приложение для Claude](https://habr.com/ru/news/811789/?utm_campaign=811789&utm_source=habrahabr&utm_medium=rss)
-- [Dropbox: хакеры получили доступ к Dropbox Sign eSignature, токенам аутентификации, МФА и хешированным паролям клиентов](https://habr.com/ru/news/811785/?utm_campaign=811785&utm_source=habrahabr&utm_medium=rss)
-- [Google исправила ошибку, из-за которой с помощью Android TV можно было получить доступ к аккаунту пользователя](https://habr.com/ru/news/811767/?utm_campaign=811767&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
