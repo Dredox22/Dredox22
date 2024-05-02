@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [gpt2-chatbot превзошла GPT-4 и исчезла: новый проект OpenAI или скрытое тестирование GPT-5?](https://habr.com/ru/companies/bothub/news/811643/?utm_campaign=811643&utm_source=habrahabr&utm_medium=rss)
+- [Спутниковый интернет OneWeb заработает в Казахстане в 2024 году](https://habr.com/ru/news/811653/?utm_campaign=811653&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи разработали принципиально новую архитектуру нейросетей, которая работает лучше перцептрона](https://habr.com/ru/news/811619/?utm_campaign=811619&utm_source=habrahabr&utm_medium=rss)
 - [Восемь американских газет подали в суд на Microsoft и ChatGPT, обвинив компании в нарушении авторских прав](https://habr.com/ru/news/811579/?utm_campaign=811579&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-устройство Rabbit R1 работает не на собственной ОС Rabbit OS, а на Android с кастомной оболочкой](https://habr.com/ru/news/811571/?utm_campaign=811571&utm_source=habrahabr&utm_medium=rss)
-- [В 1995 году Маск написал стек веб-программ для Zip2 на C и C++](https://habr.com/ru/news/811535/?utm_campaign=811535&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft через патч для Edge отменила возможность установки Copilot на ПК с Windows 11 без ведома пользователя](https://habr.com/ru/news/811559/?utm_campaign=811559&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
