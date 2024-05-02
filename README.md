@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Steam стартовал первый фестиваль российских игр](https://habr.com/ru/news/811893/?utm_campaign=811893&utm_source=habrahabr&utm_medium=rss)
 - [СМИ сообщают о возобновлении работы TikTok в России](https://habr.com/ru/news/811889/?utm_campaign=811889&utm_source=habrahabr&utm_medium=rss)
 - [Ремастер российской игры «Периметр» выходит в Steam и в браузере](https://habr.com/ru/news/811861/?utm_campaign=811861&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструментария Yocto Project 5.0](https://habr.com/ru/news/811853/?utm_campaign=811853&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия плагина Flutter &amp;amp; Dart для VSCode 3.88.0](https://habr.com/ru/companies/friflex/news/811705/?utm_campaign=811705&utm_source=habrahabr&utm_medium=rss)
-- [Бастион — первый дайджест весны](https://habr.com/ru/companies/bastion/news/811823/?utm_campaign=811823&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
