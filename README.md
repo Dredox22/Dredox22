@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Asus отказалась пояснить по поводу физической перекомпоновки устройства чтения SD-карт консоли ROG Ally](https://habr.com/ru/news/811663/?utm_campaign=811663&utm_source=habrahabr&utm_medium=rss)
+- [Число пользователей Tor в РФ снизилось двукратно](https://habr.com/ru/news/811687/?utm_campaign=811687&utm_source=habrahabr&utm_medium=rss)
+- [Создатель Kerbal Space Program 2 студия Intercept Games закрывается с 28 июня](https://habr.com/ru/news/811677/?utm_campaign=811677&utm_source=habrahabr&utm_medium=rss)
+- [Asus отказалась уточнить по поводу физической перекомпоновки устройства чтения SD-карт консоли ROG Ally](https://habr.com/ru/news/811663/?utm_campaign=811663&utm_source=habrahabr&utm_medium=rss)
 - [gpt2-chatbot превзошла GPT-4 и исчезла: новый проект OpenAI или скрытое тестирование GPT-5?](https://habr.com/ru/companies/bothub/news/811643/?utm_campaign=811643&utm_source=habrahabr&utm_medium=rss)
 - [Спутниковый интернет OneWeb заработает в Казахстане в 2024 году](https://habr.com/ru/news/811653/?utm_campaign=811653&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи разработали принципиально новую архитектуру нейросетей, которая работает лучше перцептрона](https://habr.com/ru/news/811619/?utm_campaign=811619&utm_source=habrahabr&utm_medium=rss)
-- [Восемь американских газет подали в суд на Microsoft и ChatGPT, обвинив компании в нарушении авторских прав](https://habr.com/ru/news/811579/?utm_campaign=811579&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
