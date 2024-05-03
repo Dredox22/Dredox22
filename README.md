@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первый официальный музыкальный клип, сделанный с помощью OpenAI Sora](https://habr.com/ru/companies/bothub/news/812167/?utm_campaign=812167&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатории Касперского»: 10 млн систем в 2023 году было заражено инфостилерами](https://habr.com/ru/news/812155/?utm_campaign=812155&utm_source=habrahabr&utm_medium=rss)
 - [В России представили первую дорожную карту по ИИ для ИБ‑специалистов](https://habr.com/ru/news/812121/?utm_campaign=812121&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp планирует ввести ограничения для аккаунтов, злоупотребляющих рассылкой нежелательных сообщений](https://habr.com/ru/news/812105/?utm_campaign=812105&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Windows 10/11 столкнулись со всплывающим окном с рекламой Bing на базе ChatGPT при работе в Google Chrome](https://habr.com/ru/news/812061/?utm_campaign=812061&utm_source=habrahabr&utm_medium=rss)
-- [3 мая – день спама. Кто отправил первую такую рассылку и что в ней рекламировали?](https://habr.com/ru/companies/oxygendc/news/812033/?utm_campaign=812033&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play появился значок для маркировки правительственных приложений](https://habr.com/ru/news/812007/?utm_campaign=812007&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
