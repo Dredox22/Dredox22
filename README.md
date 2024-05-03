@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple пообещала исправить баг с отключением звука будильника в iOS](https://habr.com/ru/news/811961/?utm_campaign=811961&utm_source=habrahabr&utm_medium=rss)
+- [Fujifilm X-T50 получит физический переключатель для выбора режимов видеосъёмки](https://habr.com/ru/news/811957/?utm_campaign=811957&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.78](https://habr.com/ru/news/811945/?utm_campaign=811945&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: VK, «Сбер» и «Яндекс» не смогли договориться о создании мобильной ОС на основе Android](https://habr.com/ru/news/811937/?utm_campaign=811937&utm_source=habrahabr&utm_medium=rss)
 - [Alphabet заплатила Apple $20 млрд, чтобы поисковик Google оставался системой по умолчанию в Safari](https://habr.com/ru/news/811933/?utm_campaign=811933&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft признала отсутствие исправления ошибки после обновления Windows 10 KB5034441](https://habr.com/ru/news/811927/?utm_campaign=811927&utm_source=habrahabr&utm_medium=rss)
-- [В Steam стартовал первый фестиваль российских игр](https://habr.com/ru/news/811893/?utm_campaign=811893&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
