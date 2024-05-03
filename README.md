@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Windows 10/11 столкнулись со всплывающим окном с рекламой Bing на базе ChatGPT при работе в Google Chrome](https://habr.com/ru/news/812061/?utm_campaign=812061&utm_source=habrahabr&utm_medium=rss)
 - [3 мая – день спама. Кто отправил первую такую рассылку и что в ней рекламировали?](https://habr.com/ru/companies/oxygendc/news/812033/?utm_campaign=812033&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play появился значок для маркировки правительственных приложений](https://habr.com/ru/news/812007/?utm_campaign=812007&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило ввести штрафы до 2 млн рублей за нарушения правил продаж Sim-карт иностранцам](https://habr.com/ru/news/812005/?utm_campaign=812005&utm_source=habrahabr&utm_medium=rss)
 - [Valve выпустила Proton 9.0](https://habr.com/ru/news/811995/?utm_campaign=811995&utm_source=habrahabr&utm_medium=rss)
-- [«Газинформсервис» открыл собственный Аналитический центр кибербезопасности](https://habr.com/ru/companies/gaz-is/news/811979/?utm_campaign=811979&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
