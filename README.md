@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Paladin Studios объявила о закрытии](https://habr.com/ru/news/812235/?utm_campaign=812235&utm_source=habrahabr&utm_medium=rss)
+- [В РФ запущено сборочное производство отечественного смартфона AYYA T1 из российских и зарубежных компонентов](https://habr.com/ru/news/812233/?utm_campaign=812233&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ и Минцифры РФ готовят к запуску пилот платформы коммерческих согласий на базе портала «Госуслуг»](https://habr.com/ru/news/812175/?utm_campaign=812175&utm_source=habrahabr&utm_medium=rss)
 - [Первый официальный музыкальный клип, сделанный с помощью OpenAI Sora](https://habr.com/ru/companies/bothub/news/812167/?utm_campaign=812167&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатории Касперского»: 10 млн систем в 2023 году было заражено инфостилерами](https://habr.com/ru/news/812155/?utm_campaign=812155&utm_source=habrahabr&utm_medium=rss)
-- [В России представили первую дорожную карту по ИИ для ИБ‑специалистов](https://habr.com/ru/news/812121/?utm_campaign=812121&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp планирует ввести ограничения для аккаунтов, злоупотребляющих рассылкой нежелательных сообщений](https://habr.com/ru/news/812105/?utm_campaign=812105&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
