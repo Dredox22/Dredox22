@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновления в генераторе музыки на базе ИИ — Udio](https://habr.com/ru/companies/bothub/news/812309/?utm_campaign=812309&utm_source=habrahabr&utm_medium=rss)
 - [«Сайберия Нова» представила план патчей, дорожную карту обновлений и анонс сюжетного дополнения игры «Смута»](https://habr.com/ru/news/812289/?utm_campaign=812289&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи браузера Firefox на Windows более суток ждали фикса от Google на неработающую капчу reCAPTCHA](https://habr.com/ru/news/812277/?utm_campaign=812277&utm_source=habrahabr&utm_medium=rss)
 - [Иэн Хиксон попытался оценить количество участников проекта Flutter и получил 94 357 за всю историю фреймворка](https://habr.com/ru/news/812259/?utm_campaign=812259&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик поддерживает работу 7470 вкладок в браузере Firefox на своём Maс в течение двух лет](https://habr.com/ru/news/812247/?utm_campaign=812247&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft встроила в Edge тест скорости Интернета](https://habr.com/ru/news/812241/?utm_campaign=812241&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
