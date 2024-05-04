@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Иэн Хиксон попытался оценить количество участников проекта Flutter и получил цифру 94 357 за всю историю фреймворка](https://habr.com/ru/news/812259/?utm_campaign=812259&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик поддерживает работу 7470 вкладок в браузере Firefox на своём Maс в течение двух лет](https://habr.com/ru/news/812247/?utm_campaign=812247&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft встроила в Edge тест скорости Интернета](https://habr.com/ru/news/812241/?utm_campaign=812241&utm_source=habrahabr&utm_medium=rss)
 - [Google удаляет поддержку RISC-V из общего ядра Android](https://habr.com/ru/news/812239/?utm_campaign=812239&utm_source=habrahabr&utm_medium=rss)
 - [Paladin Studios объявила о закрытии](https://habr.com/ru/news/812235/?utm_campaign=812235&utm_source=habrahabr&utm_medium=rss)
-- [В РФ запущено сборочное производство отечественного смартфона AYYA T1 из российских и зарубежных компонентов](https://habr.com/ru/news/812233/?utm_campaign=812233&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
