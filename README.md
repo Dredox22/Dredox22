@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft выпустила бета-версию Edge с опцией ограничение потребления оперативной памяти](https://habr.com/ru/news/812347/?utm_campaign=812347&utm_source=habrahabr&utm_medium=rss)
+- [В App Store появились консультации со специалистом по видео](https://habr.com/ru/news/812367/?utm_campaign=812367&utm_source=habrahabr&utm_medium=rss)
+- [Google запретила рекламодателям продвигать порносервисы с дипфейками](https://habr.com/ru/news/812359/?utm_campaign=812359&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила бета-версию Edge с опцией ограничения потребления оперативной памяти](https://habr.com/ru/news/812347/?utm_campaign=812347&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Uninstalr 2.4](https://habr.com/ru/news/812333/?utm_campaign=812333&utm_source=habrahabr&utm_medium=rss)
 - [Представлено открытое приложение OFGB &lpar;Oh Frick Go Back&rpar; для отключения рекламы в Windows 11](https://habr.com/ru/news/812345/?utm_campaign=812345&utm_source=habrahabr&utm_medium=rss)
-- [Обновления в генераторе музыки на базе ИИ — Udio](https://habr.com/ru/companies/bothub/news/812309/?utm_campaign=812309&utm_source=habrahabr&utm_medium=rss)
-- [«Сайберия Нова» представила план патчей, дорожную карту обновлений и анонс сюжетного дополнения игры «Смута»](https://habr.com/ru/news/812289/?utm_campaign=812289&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
