@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В App Store появились консультации со специалистом по видео](https://habr.com/ru/news/812367/?utm_campaign=812367&utm_source=habrahabr&utm_medium=rss)
+- [Релиз минималистичного веб-браузера Dillo3.1.0 спустя 9 лет перерыва в разработке проекта](https://habr.com/ru/news/812381/?utm_campaign=812381&utm_source=habrahabr&utm_medium=rss)
+- [В России появится День математика, его планируют отмечать 1 декабря](https://habr.com/ru/news/812373/?utm_campaign=812373&utm_source=habrahabr&utm_medium=rss)
+- [В Apple Store появились консультации со специалистом по видео](https://habr.com/ru/news/812367/?utm_campaign=812367&utm_source=habrahabr&utm_medium=rss)
 - [Google запретила рекламодателям продвигать порносервисы с дипфейками](https://habr.com/ru/news/812359/?utm_campaign=812359&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила бета-версию Edge с опцией ограничения потребления оперативной памяти](https://habr.com/ru/news/812347/?utm_campaign=812347&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Uninstalr 2.4](https://habr.com/ru/news/812333/?utm_campaign=812333&utm_source=habrahabr&utm_medium=rss)
-- [Представлено открытое приложение OFGB &lpar;Oh Frick Go Back&rpar; для отключения рекламы в Windows 11](https://habr.com/ru/news/812345/?utm_campaign=812345&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
