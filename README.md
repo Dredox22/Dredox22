@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft заявила, что отныне «сделает безопасность своим главным приоритетом»](https://habr.com/ru/news/812559/?utm_campaign=812559&utm_source=habrahabr&utm_medium=rss)
+- [РБК: власти планируют направить деньги от продажи долей в Yandex и Ozon на поддержку производителей электроники](https://habr.com/ru/news/812557/?utm_campaign=812557&utm_source=habrahabr&utm_medium=rss)
+- [Tesla поделились новым видео с Optimus, демонстрирующим способность робота сортировать ячейки аккумуляторов](https://habr.com/ru/companies/bothub/news/812463/?utm_campaign=812463&utm_source=habrahabr&utm_medium=rss)
 - [Генеративные нейросети поменяли подходы в обучении программированию](https://habr.com/ru/news/812535/?utm_campaign=812535&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован проект добавления к Asus ROG Ally второго экрана](https://habr.com/ru/news/812527/?utm_campaign=812527&utm_source=habrahabr&utm_medium=rss)
-- [AI Explorer в Windows 11 будет фиксировать действия и искать информацию в режимах snapshots и recall](https://habr.com/ru/news/812517/?utm_campaign=812517&utm_source=habrahabr&utm_medium=rss)
-- [Релиз композитного оконного менеджера Hyprland 0.40.0](https://habr.com/ru/news/812493/?utm_campaign=812493&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует включить поддержку Zero Trust DNS в будущую версию Windows](https://habr.com/ru/news/812483/?utm_campaign=812483&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
