@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft создаёт новую LLM под названием MAI-1, которая может конкурировать с ChatGPT](https://habr.com/ru/news/812727/?utm_campaign=812727&utm_source=habrahabr&utm_medium=rss)
 - [Stack Overflow и OpenAI объявили о сотрудничестве, ChatGPT будут обучать на ответах со Stack Overflow](https://habr.com/ru/news/812717/?utm_campaign=812717&utm_source=habrahabr&utm_medium=rss)
 - [Учёные НГУ проанализировали ошибки, полученные открытой системой «Писец» в «Тотальном диктанте»](https://habr.com/ru/news/812687/?utm_campaign=812687&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты «Доктор Веб» обнаружили троян-кликер в приложении умных игрушек для взрослых](https://habr.com/ru/news/812677/?utm_campaign=812677&utm_source=habrahabr&utm_medium=rss)
 - [Apple запрещает использовать модели реалистичного оружия в приложениях для Vision Pro](https://habr.com/ru/news/812651/?utm_campaign=812651&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» начала регистрацию на летнюю практику «Долина технологий» для школьников и студентов колледжей](https://habr.com/ru/news/812645/?utm_campaign=812645&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
