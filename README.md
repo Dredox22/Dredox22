@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple запрещает использовать модели реалистичного оружия в приложениях для Vision Pro](https://habr.com/ru/news/812651/?utm_campaign=812651&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» начала регистрацию на летнюю практику «Долина технологий» для школьников и студентов колледжей](https://habr.com/ru/news/812645/?utm_campaign=812645&utm_source=habrahabr&utm_medium=rss)
 - [Объединяй и властвуй: как объединить два кластера Kubernetes без даунтайма — расскажем на бесплатном вебинаре 14 мая](https://habr.com/ru/companies/cloud_ru/news/811683/?utm_campaign=811683&utm_source=habrahabr&utm_medium=rss)
-- [Google закрывает доступ к Google Fit API, разработчиков просят перейти н Android Health](https://habr.com/ru/news/812627/?utm_campaign=812627&utm_source=habrahabr&utm_medium=rss)
+- [Google закрывает доступ к Google Fit API, разработчиков просят перейти на Android Health](https://habr.com/ru/news/812627/?utm_campaign=812627&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/812625/?utm_campaign=812625&utm_source=habrahabr&utm_medium=rss)
-- [Представлен график выхода Ubuntu 24.10 Oracular Oriole &lpar;Предвещающая Иволга&rpar;](https://habr.com/ru/news/812583/?utm_campaign=812583&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
