@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен график выхода Ubuntu 24.10 Oracular Oriole &lpar;Предвещающая Иволга&rpar;](https://habr.com/ru/news/812583/?utm_campaign=812583&utm_source=habrahabr&utm_medium=rss)
 - [Завод «Микрон» частично перенёс корпусирование микроконтроллеров «MIK32 Амур» в Калининград](https://habr.com/ru/news/812579/?utm_campaign=812579&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: Быстрые отчеты из 1С с помощью искусственного интеллекта](https://habr.com/ru/companies/sapiens_solutions/news/812565/?utm_campaign=812565&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заявила, что отныне «сделает безопасность своим главным приоритетом»](https://habr.com/ru/news/812559/?utm_campaign=812559&utm_source=habrahabr&utm_medium=rss)
 - [РБК: власти планируют направить деньги от продажи долей в Yandex и Ozon на поддержку производителей электроники](https://habr.com/ru/news/812557/?utm_campaign=812557&utm_source=habrahabr&utm_medium=rss)
-- [Tesla поделились новым видео с Optimus, демонстрирующим способность робота сортировать ячейки аккумуляторов](https://habr.com/ru/companies/bothub/news/812463/?utm_campaign=812463&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
