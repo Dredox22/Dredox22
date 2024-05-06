@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Минцифры планирует, чтобы ОРИ передавали госведомствам по запросу вместе с IP-адресом и номер порта пользователя](https://habr.com/ru/news/812473/?utm_campaign=812473&utm_source=habrahabr&utm_medium=rss)
 - [Релиз минималистичного веб-браузера Dillo3.1.0 спустя 9 лет перерыва в разработке проекта](https://habr.com/ru/news/812381/?utm_campaign=812381&utm_source=habrahabr&utm_medium=rss)
 - [В России появится День математика, его планируют отмечать 1 декабря](https://habr.com/ru/news/812373/?utm_campaign=812373&utm_source=habrahabr&utm_medium=rss)
 - [В Apple Store появились консультации со специалистом по видео](https://habr.com/ru/news/812367/?utm_campaign=812367&utm_source=habrahabr&utm_medium=rss)
 - [Google запретила рекламодателям продвигать порносервисы с дипфейками](https://habr.com/ru/news/812359/?utm_campaign=812359&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила бета-версию Edge с опцией ограничения потребления оперативной памяти](https://habr.com/ru/news/812347/?utm_campaign=812347&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
