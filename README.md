@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генеративные нейросети поменяли подходы в обучении программированию](https://habr.com/ru/news/812535/?utm_campaign=812535&utm_source=habrahabr&utm_medium=rss)
+- [Опубликован проект добавления к Asus ROG Ally второго экрана](https://habr.com/ru/news/812527/?utm_campaign=812527&utm_source=habrahabr&utm_medium=rss)
+- [AI Explorer в Windows 11 будет фиксировать действия и искать информацию в режимах snapshots и recall](https://habr.com/ru/news/812517/?utm_campaign=812517&utm_source=habrahabr&utm_medium=rss)
 - [Релиз композитного оконного менеджера Hyprland 0.40.0](https://habr.com/ru/news/812493/?utm_campaign=812493&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft планирует включить поддержку Zero Trust DNS в будущую версию Windows](https://habr.com/ru/news/812483/?utm_campaign=812483&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Минцифры планирует, чтобы ОРИ передавали госведомствам по запросу вместе с IP-адресом и номер порта пользователя](https://habr.com/ru/news/812473/?utm_campaign=812473&utm_source=habrahabr&utm_medium=rss)
-- [Релиз минималистичного веб-браузера Dillo 3.1.0 спустя 9 лет перерыва в разработке проекта](https://habr.com/ru/news/812381/?utm_campaign=812381&utm_source=habrahabr&utm_medium=rss)
-- [В России появится День математика, его планируют отмечать 1 декабря](https://habr.com/ru/news/812373/?utm_campaign=812373&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
