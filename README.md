@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты Leviathan раскрыли детали атаки TunnelVision, позволяющей перенаправить VPN-трафик через манипуляции с DHCP](https://habr.com/ru/news/812867/?utm_campaign=812867&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия FlatValidator, теперь 2.3.0](https://habr.com/ru/news/812859/?utm_campaign=812859&utm_source=habrahabr&utm_medium=rss)
 - [WSJ: Apple разрабатывает собственные серверные процессоры в рамках проекта ACDC](https://habr.com/ru/news/812855/?utm_campaign=812855&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» и «Аквариус» создадут СП по разработке и производству микроконтроллеров для шифрования данных](https://habr.com/ru/news/812851/?utm_campaign=812851&utm_source=habrahabr&utm_medium=rss)
 - [МТС купит тестовый беспилотник для наблюдения за базовыми станциями](https://habr.com/ru/news/812837/?utm_campaign=812837&utm_source=habrahabr&utm_medium=rss)
-- [Тьма наступает: новая группа вымогателей MorLock увеличила интенсивность атак на российский бизнес](https://habr.com/ru/companies/f_a_c_c_t/news/812831/?utm_campaign=812831&utm_source=habrahabr&utm_medium=rss)
-- [Для российской электроники готовят новые стандарты: зачем это нужно и к чему приведет?](https://habr.com/ru/companies/oxygendc/news/812829/?utm_campaign=812829&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
