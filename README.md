@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT2 Chatbot вернулся?](https://habr.com/ru/companies/bothub/news/812993/?utm_campaign=812993&utm_source=habrahabr&utm_medium=rss)
 - [Релиз macOS Scripted Setup 1.4.0](https://habr.com/ru/news/812987/?utm_campaign=812987&utm_source=habrahabr&utm_medium=rss)
 - [Artificial Analysis собрали топ 100 LLM в одном месте](https://habr.com/ru/companies/bothub/news/812945/?utm_campaign=812945&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закрыла четыре игровые студии после покупки Bethesda](https://habr.com/ru/news/812939/?utm_campaign=812939&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила инструмент экономии памяти ПК в браузере Edge](https://habr.com/ru/news/812925/?utm_campaign=812925&utm_source=habrahabr&utm_medium=rss)
-- [Подписано постановление о проведении в РФ эксперимента по маркировке кабелей и проводов на напряжение 1000 В](https://habr.com/ru/news/812913/?utm_campaign=812913&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
