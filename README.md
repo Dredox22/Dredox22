@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WSJ: Apple разрабатывает собственные серверные процессоры в рамках проекта ACDC](https://habr.com/ru/news/812855/?utm_campaign=812855&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» и «Аквариус» создадут СП по разработке и производству микроконтроллеров для шифрования данных](https://habr.com/ru/news/812851/?utm_campaign=812851&utm_source=habrahabr&utm_medium=rss)
+- [МТС купит тестовый беспилотник для наблюдения за базовыми станциями](https://habr.com/ru/news/812837/?utm_campaign=812837&utm_source=habrahabr&utm_medium=rss)
+- [Тьма наступает: новая группа вымогателей MorLock увеличила интенсивность атак на российский бизнес](https://habr.com/ru/companies/f_a_c_c_t/news/812831/?utm_campaign=812831&utm_source=habrahabr&utm_medium=rss)
 - [Для российской электроники готовят новые стандарты: зачем это нужно и к чему приведет?](https://habr.com/ru/companies/oxygendc/news/812829/?utm_campaign=812829&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни изобретатель DRAM и автор теории масштабирования Роберт Деннард](https://habr.com/ru/news/812817/?utm_campaign=812817&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты: реализация проекта российской игровой консоли займёт три-четыре года](https://habr.com/ru/news/812815/?utm_campaign=812815&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует отображение скорости памяти в диспетчере задач Windows 11 в МТ/с](https://habr.com/ru/news/812777/?utm_campaign=812777&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome получит встроенную поддержку видеоглав в стиле YouTube](https://habr.com/ru/news/812763/?utm_campaign=812763&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
