@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышли майские рейтинги самых популярных языков программирования от Tiobe и PYPL](https://habr.com/ru/news/812749/?utm_campaign=812749&utm_source=habrahabr&utm_medium=rss)
+- [7 мая — праздник Дня радио](https://habr.com/ru/news/812747/?utm_campaign=812747&utm_source=habrahabr&utm_medium=rss)
+- [Фонд свободного программного обеспечения объявил победителей премии Free Software Awards 2023](https://habr.com/ru/news/812745/?utm_campaign=812745&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для поиска пропавших людей Lacmus 1.0.0](https://habr.com/ru/news/812741/?utm_campaign=812741&utm_source=habrahabr&utm_medium=rss)
 - [Bethesda Softworks и id Software проведут QuakeCon 2024 в Техасе с 8 по 11 августа](https://habr.com/ru/news/812739/?utm_campaign=812739&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft создаёт новую LLM под названием MAI-1, которая может конкурировать с ChatGPT](https://habr.com/ru/news/812727/?utm_campaign=812727&utm_source=habrahabr&utm_medium=rss)
-- [Stack Overflow и OpenAI объявили о сотрудничестве, ChatGPT будут обучать на ответах со Stack Overflow](https://habr.com/ru/news/812717/?utm_campaign=812717&utm_source=habrahabr&utm_medium=rss)
-- [Учёные НГУ проанализировали ошибки, полученные открытой системой «Писец» в «Тотальном диктанте»](https://habr.com/ru/news/812687/?utm_campaign=812687&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты «Доктор Веб» обнаружили троян-кликер в приложении умных игрушек для взрослых](https://habr.com/ru/news/812677/?utm_campaign=812677&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
