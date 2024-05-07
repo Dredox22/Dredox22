@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft тестирует отображение скорости памяти в диспетчере задач Windows 11 в МТ/с](https://habr.com/ru/news/812777/?utm_campaign=812777&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome получит встроенную поддержку видеоглав в стиле YouTube](https://habr.com/ru/news/812763/?utm_campaign=812763&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Минпромторг и Росстандарт планируют актуализировать советские стандарты электроники](https://habr.com/ru/news/812759/?utm_campaign=812759&utm_source=habrahabr&utm_medium=rss)
 - [Вышли майские рейтинги самых популярных языков программирования от Tiobe и PYPL](https://habr.com/ru/news/812749/?utm_campaign=812749&utm_source=habrahabr&utm_medium=rss)
 - [7 мая — праздник Дня радио](https://habr.com/ru/news/812747/?utm_campaign=812747&utm_source=habrahabr&utm_medium=rss)
-- [Фонд свободного программного обеспечения объявил победителей премии Free Software Awards 2023](https://habr.com/ru/news/812745/?utm_campaign=812745&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
