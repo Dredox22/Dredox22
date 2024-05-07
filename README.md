@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила инструмент экономии памяти ПК в браузере Edge](https://habr.com/ru/news/812925/?utm_campaign=812925&utm_source=habrahabr&utm_medium=rss)
+- [Подписано постановление о проведении в РФ эксперимента по маркировке кабелей и проводов на напряжение 1000 В](https://habr.com/ru/news/812913/?utm_campaign=812913&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Open Server Panel 6.0](https://habr.com/ru/news/812897/?utm_campaign=812897&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты Leviathan раскрыли детали атаки TunnelVision, позволяющей перенаправить VPN-трафик через манипуляции с DHCP](https://habr.com/ru/news/812867/?utm_campaign=812867&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия FlatValidator, теперь 2.3.0](https://habr.com/ru/news/812859/?utm_campaign=812859&utm_source=habrahabr&utm_medium=rss)
-- [WSJ: Apple разрабатывает собственные серверные процессоры в рамках проекта ACDC](https://habr.com/ru/news/812855/?utm_campaign=812855&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» и «Аквариус» создадут СП по разработке и производству микроконтроллеров для шифрования данных](https://habr.com/ru/news/812851/?utm_campaign=812851&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
