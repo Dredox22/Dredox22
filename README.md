@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России пройдёт третий международный киберчемпионат по информационной безопасности](https://habr.com/ru/news/813171/?utm_campaign=813171&utm_source=habrahabr&utm_medium=rss)
 - [Международный киберчемпионат стартует 15 мая](https://habr.com/ru/companies/solarsecurity/news/813145/?utm_campaign=813145&utm_source=habrahabr&utm_medium=rss)
 - [Standoff 13: два клана белых хакеров сразятся за призовой фонд в 15 млн рублей](https://habr.com/ru/companies/pt/news/813107/?utm_campaign=813107&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой версии Windows 11 24H2 шифрование BitLocker включается по умолчанию при установке обновления ОС](https://habr.com/ru/news/813129/?utm_campaign=813129&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся бета-релиз Raspberry Pi Connect — приложение для удалённого доступа к одноплатнику](https://habr.com/ru/news/813127/?utm_campaign=813127&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: 80% го­сор­га­нов в Рос­сии пе­решли на «Гособлако»](https://habr.com/ru/news/813099/?utm_campaign=813099&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
