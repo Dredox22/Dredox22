@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google меняет способ обновления Android Studio с помощью Feature Drops](https://habr.com/ru/news/813041/?utm_campaign=813041&utm_source=habrahabr&utm_medium=rss)
 - [Минторг США аннулировал лицензии Intel и Qualcomm на экспорт чипов Huawei](https://habr.com/ru/news/813039/?utm_campaign=813039&utm_source=habrahabr&utm_medium=rss)
 - [Stardock представила бесплатное для клиентов настольное приложение DesktopGPT](https://habr.com/ru/news/813033/?utm_campaign=813033&utm_source=habrahabr&utm_medium=rss)
 - [Минюст США предъявил обвинения админу LockBit и предложил вознаграждение $10 млн за информацию об его нахождении](https://habr.com/ru/news/813027/?utm_campaign=813027&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представит инструмент Media Manager для информирования о нарушении копирайта создателями контента](https://habr.com/ru/news/813023/?utm_campaign=813023&utm_source=habrahabr&utm_medium=rss)
-- [В iFixit показали процесс замены модуля памяти LPCAMM2 в ноутбуке Lenovo ThinkPad P1](https://habr.com/ru/news/813021/?utm_campaign=813021&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
