@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минюст США предъявил обвинения админу LockBit и предложил вознаграждение $10 млн за информацию об его нахождении](https://habr.com/ru/news/813027/?utm_campaign=813027&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представит инструмент Media Manager для информирования о нарушении копирайта создателями контента](https://habr.com/ru/news/813023/?utm_campaign=813023&utm_source=habrahabr&utm_medium=rss)
+- [В iFixit показали процесс замены модуля памяти LPCAMM2 в ноутбуке Lenovo ThinkPad P1](https://habr.com/ru/news/813021/?utm_campaign=813021&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Microsoft создала и запустила изолированную ИИ-систему для госведомств и спецслужб США на базе GPT-4](https://habr.com/ru/news/813017/?utm_campaign=813017&utm_source=habrahabr&utm_medium=rss)
 - [GPT2 Chatbot вернулся?](https://habr.com/ru/companies/bothub/news/812993/?utm_campaign=812993&utm_source=habrahabr&utm_medium=rss)
-- [Релиз macOS Scripted Setup 1.4.0](https://habr.com/ru/news/812987/?utm_campaign=812987&utm_source=habrahabr&utm_medium=rss)
-- [Artificial Analysis собрали топ 100 LLM в одном месте](https://habr.com/ru/companies/bothub/news/812945/?utm_campaign=812945&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрыла четыре игровые студии после покупки Bethesda](https://habr.com/ru/news/812939/?utm_campaign=812939&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
