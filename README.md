@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Standoff 13: два клана белых хакеров сразятся за призовой фонд в 15 млн рублей](https://habr.com/ru/companies/pt/news/813107/?utm_campaign=813107&utm_source=habrahabr&utm_medium=rss)
+- [В тестовой версии Windows 11 24H2 шифрование BitLocker включается по умолчанию при установке обновления ОС](https://habr.com/ru/news/813129/?utm_campaign=813129&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся бета-релиз Raspberry Pi Connect — приложение для удалённого доступа к одноплатнику](https://habr.com/ru/news/813127/?utm_campaign=813127&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: 80% го­сор­га­нов в Рос­сии пе­решли на «Гособлако»](https://habr.com/ru/news/813099/?utm_campaign=813099&utm_source=habrahabr&utm_medium=rss)
 - [«Известия»: iPad 2024 появится в российских интернет-магазинах в день мирового старта продаж](https://habr.com/ru/news/813087/?utm_campaign=813087&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует создать сеть интернета вещей на базе LTE-450 в 2026 году](https://habr.com/ru/news/813075/?utm_campaign=813075&utm_source=habrahabr&utm_medium=rss)
-- [Google меняет способ обновления Android Studio с помощью Feature Drops](https://habr.com/ru/news/813041/?utm_campaign=813041&utm_source=habrahabr&utm_medium=rss)
-- [Минторг США аннулировал лицензии Intel и Qualcomm на экспорт чипов Huawei](https://habr.com/ru/news/813039/?utm_campaign=813039&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
