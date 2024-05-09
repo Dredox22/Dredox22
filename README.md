@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI делают свой поисковик, который сможет конкурировать с Google и Perplexity](https://habr.com/ru/companies/bothub/news/813381/?utm_campaign=813381&utm_source=habrahabr&utm_medium=rss)
 - [Lego представила конструктор Retro Radio в виде ретро-радио в стиле 70-80-х для взрослых фанатов](https://habr.com/ru/news/813369/?utm_campaign=813369&utm_source=habrahabr&utm_medium=rss)
 - [Баг в работе приложения t:connect для iOS затронул 224 пользователя инсулиновых помп t:slim X2](https://habr.com/ru/news/813367/?utm_campaign=813367&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован открытый проект для использования AirPods в качестве передатчика Морзе](https://habr.com/ru/news/813337/?utm_campaign=813337&utm_source=habrahabr&utm_medium=rss)
 - [Proton Mail раскрыла данные пользователя, что привело к аресту в Испании](https://habr.com/ru/news/813323/?utm_campaign=813323&utm_source=habrahabr&utm_medium=rss)
-- [В Google Messages появились 3-секундные «селфи-гифки»](https://habr.com/ru/news/813317/?utm_campaign=813317&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
