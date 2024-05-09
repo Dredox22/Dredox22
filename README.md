@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован открытый проект для использования AirPods в качестве передатчика Морзе](https://habr.com/ru/news/813337/?utm_campaign=813337&utm_source=habrahabr&utm_medium=rss)
 - [Proton Mail раскрыла данные пользователя, что привело к аресту в Испании](https://habr.com/ru/news/813323/?utm_campaign=813323&utm_source=habrahabr&utm_medium=rss)
 - [В Google Messages появились 3-секундные «селфи-гифки»](https://habr.com/ru/news/813317/?utm_campaign=813317&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предлагает сотрудникам ZeniMax согласиться на выходное пособие](https://habr.com/ru/news/813293/?utm_campaign=813293&utm_source=habrahabr&utm_medium=rss)
 - [Intel опять теряет позиции — 33% выручки серверного рынка за AMD](https://habr.com/ru/companies/dcmiran/news/813277/?utm_campaign=813277&utm_source=habrahabr&utm_medium=rss)
-- [Вышла первая бета-версия языка программирования Python 3.13.0b1](https://habr.com/ru/news/813271/?utm_campaign=813271&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
