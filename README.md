@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла первая бета-версия языка программирования Python 3.13.0b1](https://habr.com/ru/news/813271/?utm_campaign=813271&utm_source=habrahabr&utm_medium=rss)
 - [Neuralink представила обновление, спустя 100 дней после проведения первой имплантации у человека](https://habr.com/ru/companies/bothub/news/813243/?utm_campaign=813243&utm_source=habrahabr&utm_medium=rss)
 - [Открытый проект CCTV позволяет определить места нахождения пользователей Telegram с опцией «Люди рядом»](https://habr.com/ru/news/813209/?utm_campaign=813209&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram &lpar;в отличии от Signal&rpar; позволяет проверить, что все его приложения используют один и тот же открытый код](https://habr.com/ru/news/813205/?utm_campaign=813205&utm_source=habrahabr&utm_medium=rss)
 - [В России пройдёт третий международный киберчемпионат по информационной безопасности](https://habr.com/ru/news/813171/?utm_campaign=813171&utm_source=habrahabr&utm_medium=rss)
-- [Международный киберчемпионат стартует 15 мая](https://habr.com/ru/companies/solarsecurity/news/813145/?utm_campaign=813145&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
