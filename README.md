@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Будущее робототехники: революционный подход к обучению мягких роботов с помощью ML](https://habr.com/ru/companies/bothub/news/813503/?utm_campaign=813503&utm_source=habrahabr&utm_medium=rss)
 - [Проект AI Raspberry Pi Cat Detection обнаруживает кошек в доме и озвучивает их действия в стиле документального фильма](https://habr.com/ru/news/813477/?utm_campaign=813477&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован открытый проект игрового лаунчера Hydra Launcher со встроенным торрент-клиентом и поисковиком репаков игр](https://habr.com/ru/news/813473/?utm_campaign=813473&utm_source=habrahabr&utm_medium=rss)
 - [Улучшим ИИ на хакатоне X5 Tech AI Hack](https://habr.com/ru/companies/X5Tech/news/813463/?utm_campaign=813463&utm_source=habrahabr&utm_medium=rss)
 - [Dell предупредила клиентов о вероятной утечке данных 49 млн пользователей своего портала](https://habr.com/ru/news/813449/?utm_campaign=813449&utm_source=habrahabr&utm_medium=rss)
-- [Google расширила сеть Find My Device за пределы США и Канады](https://habr.com/ru/news/813419/?utm_campaign=813419&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
