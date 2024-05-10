@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Dell предупредила клиентов о вероятной утечке данных 49 млн пользователей своего портала](https://habr.com/ru/news/813449/?utm_campaign=813449&utm_source=habrahabr&utm_medium=rss)
 - [Google расширила сеть Find My Device за пределы США и Канады](https://habr.com/ru/news/813419/?utm_campaign=813419&utm_source=habrahabr&utm_medium=rss)
 - [В Пекине и Шанхае заработал заблокированный в 2017 году WhatsApp](https://habr.com/ru/news/813417/?utm_campaign=813417&utm_source=habrahabr&utm_medium=rss)
 - [В Стэнфорде представили технологию голографической визуализации](https://habr.com/ru/news/813413/?utm_campaign=813413&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI делают свой поисковик, который сможет конкурировать с Google и Perplexity](https://habr.com/ru/companies/bothub/news/813381/?utm_campaign=813381&utm_source=habrahabr&utm_medium=rss)
-- [Lego представила конструктор Retro Radio в виде ретро-радио в стиле 70-80-х для взрослых фанатов](https://habr.com/ru/news/813369/?utm_campaign=813369&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
