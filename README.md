@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Commodore 64 запустили ИИ-генератор изображений](https://habr.com/ru/news/813565/?utm_campaign=813565&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg: Apple завершает сделку с OpenAI по внедрению функций ChatGPT в iOS 18](https://habr.com/ru/news/813555/?utm_campaign=813555&utm_source=habrahabr&utm_medium=rss)
 - [В инструмент «Ножницы» в Windows 11 интегрирован Microsoft Bing](https://habr.com/ru/news/813553/?utm_campaign=813553&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Just Color Picker 6.0](https://habr.com/ru/news/813543/?utm_campaign=813543&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного набора компиляторов GCC 14.1](https://habr.com/ru/news/813541/?utm_campaign=813541&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для изучения логики LogiCola 3.0](https://habr.com/ru/news/813507/?utm_campaign=813507&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
