@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Just Color Picker 6.0](https://habr.com/ru/news/813543/?utm_campaign=813543&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного набора компиляторов GCC 14.1](https://habr.com/ru/news/813541/?utm_campaign=813541&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для изучения логики LogiCola 3.0](https://habr.com/ru/news/813507/?utm_campaign=813507&utm_source=habrahabr&utm_medium=rss)
 - [Будущее робототехники: революционный подход к обучению мягких роботов с помощью ML](https://habr.com/ru/companies/bothub/news/813503/?utm_campaign=813503&utm_source=habrahabr&utm_medium=rss)
 - [Проект AI Raspberry Pi Cat Detection обнаруживает кошек в доме и озвучивает их действия в стиле документального фильма](https://habr.com/ru/news/813477/?utm_campaign=813477&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован открытый проект игрового лаунчера Hydra Launcher со встроенным торрент-клиентом и поисковиком репаков игр](https://habr.com/ru/news/813473/?utm_campaign=813473&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
