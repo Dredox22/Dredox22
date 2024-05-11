@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloomberg: Apple завершает сделку с OpenAI по внедрению функций ChatGPT в iOS 18](https://habr.com/ru/news/813555/?utm_campaign=813555&utm_source=habrahabr&utm_medium=rss)
+- [В инструмент «Ножницы» в Windows 11 интегрирован Microsoft Bing](https://habr.com/ru/news/813553/?utm_campaign=813553&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Just Color Picker 6.0](https://habr.com/ru/news/813543/?utm_campaign=813543&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного набора компиляторов GCC 14.1](https://habr.com/ru/news/813541/?utm_campaign=813541&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для изучения логики LogiCola 3.0](https://habr.com/ru/news/813507/?utm_campaign=813507&utm_source=habrahabr&utm_medium=rss)
-- [Будущее робототехники: революционный подход к обучению мягких роботов с помощью ML](https://habr.com/ru/companies/bothub/news/813503/?utm_campaign=813503&utm_source=habrahabr&utm_medium=rss)
-- [Проект AI Raspberry Pi Cat Detection обнаруживает кошек в доме и озвучивает их действия в стиле документального фильма](https://habr.com/ru/news/813477/?utm_campaign=813477&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
