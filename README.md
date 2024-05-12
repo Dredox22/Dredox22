@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve: платформа Steam сняла с продажи Helldivers 2 и Ghost of Tsushima в более чем 180 странах по запросу Sony](https://habr.com/ru/news/813661/?utm_campaign=813661&utm_source=habrahabr&utm_medium=rss)
 - [Торвальдс посоветовал Кису Куку из Google быть решением, а не проблемой в работе с кодом и мейнтейнерами ядра Linux](https://habr.com/ru/news/813637/?utm_campaign=813637&utm_source=habrahabr&utm_medium=rss)
 - [Ученые выпустили xLSTM – достойного конкурента трансформерам](https://habr.com/ru/news/813623/?utm_campaign=813623&utm_source=habrahabr&utm_medium=rss)
 - [LockBitSupp заявил, что он не тот человек, кого деанонимизировал Минюст США](https://habr.com/ru/news/813619/?utm_campaign=813619&utm_source=habrahabr&utm_medium=rss)
 - [На Commodore 64 запустили ИИ-генератор изображений](https://habr.com/ru/news/813565/?utm_campaign=813565&utm_source=habrahabr&utm_medium=rss)
-- [Bloomberg: Apple завершает сделку с OpenAI по внедрению функций ChatGPT в iOS 18](https://habr.com/ru/news/813555/?utm_campaign=813555&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
