@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представит мультимодального цифрового помощника с ИИ](https://habr.com/ru/news/813673/?utm_campaign=813673&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Files 3.4 — открытой альтернативы стандартному проводнику Windows 11](https://habr.com/ru/news/813663/?utm_campaign=813663&utm_source=habrahabr&utm_medium=rss)
 - [Valve: платформа Steam сняла с продажи Helldivers 2 и Ghost of Tsushima в более чем 180 странах по запросу Sony](https://habr.com/ru/news/813661/?utm_campaign=813661&utm_source=habrahabr&utm_medium=rss)
 - [Торвальдс посоветовал Кису Куку из Google быть решением, а не проблемой в работе с кодом и мейнтейнерами ядра Linux](https://habr.com/ru/news/813637/?utm_campaign=813637&utm_source=habrahabr&utm_medium=rss)
 - [Ученые выпустили xLSTM – достойного конкурента трансформерам](https://habr.com/ru/news/813623/?utm_campaign=813623&utm_source=habrahabr&utm_medium=rss)
-- [LockBitSupp заявил, что он не тот человек, кого деанонимизировал Минюст США](https://habr.com/ru/news/813619/?utm_campaign=813619&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
