@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat объявила о выпуске дистрибутива RHEL AI для ML-разработчиков](https://habr.com/ru/news/813983/?utm_campaign=813983&utm_source=habrahabr&utm_medium=rss)
 - [ТАСС: Роскомнадзор потребовал от TikTok отчитаться о соблюдении российских законов](https://habr.com/ru/news/813971/?utm_campaign=813971&utm_source=habrahabr&utm_medium=rss)
 - [Найти все API — важная задача в процессе выстраивания их успешной защиты](https://habr.com/ru/companies/webmonitorx/news/813965/?utm_campaign=813965&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 9.8](https://habr.com/ru/news/813897/?utm_campaign=813897&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: только 38 из 65 тыс. разработчиков подали заявки на внешние платёжные ссылки в App Store](https://habr.com/ru/news/813895/?utm_campaign=813895&utm_source=habrahabr&utm_medium=rss)
-- [Невидимые связи: специалисты F.A.C.C.T. обнаружили и атрибутировали ранее неизвестный загрузчик группе PhantomCore](https://habr.com/ru/companies/f_a_c_c_t/news/813889/?utm_campaign=813889&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
