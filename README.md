@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 9.8](https://habr.com/ru/news/813897/?utm_campaign=813897&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: только 38 из 65 тыс. разработчиков подали заявки на внешние платёжные ссылки в App Store](https://habr.com/ru/news/813895/?utm_campaign=813895&utm_source=habrahabr&utm_medium=rss)
+- [Невидимые связи: специалисты F.A.C.C.T. обнаружили и атрибутировали ранее неизвестный загрузчик группе PhantomCore](https://habr.com/ru/companies/f_a_c_c_t/news/813889/?utm_campaign=813889&utm_source=habrahabr&utm_medium=rss)
 - [Власти тестируют программу для сдачи ЕГЭ на отечественных ОС](https://habr.com/ru/news/813861/?utm_campaign=813861&utm_source=habrahabr&utm_medium=rss)
 - [Отечественный производитель вычислительной техники GS Group переходит на модель ODM-производства](https://habr.com/ru/news/813839/?utm_campaign=813839&utm_source=habrahabr&utm_medium=rss)
-- [Солнечные бури нарушили работу GPS-систем у фермеров в США](https://habr.com/ru/news/813823/?utm_campaign=813823&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавит ИИ-генератор тем для браузера Edge в июне](https://habr.com/ru/news/813819/?utm_campaign=813819&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку Windows 10 версии 21H2 через месяц](https://habr.com/ru/news/813817/?utm_campaign=813817&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
