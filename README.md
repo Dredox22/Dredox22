@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Солнечные бури нарушили работу GPS-систем у фермеров в США](https://habr.com/ru/news/813823/?utm_campaign=813823&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавит ИИ-генератор тем для браузера Edge в июне](https://habr.com/ru/news/813819/?utm_campaign=813819&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку Windows 10 версии 21H2 через месяц](https://habr.com/ru/news/813817/?utm_campaign=813817&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» расширил зону доставки роботами-курьерами в Москве](https://habr.com/ru/news/813809/?utm_campaign=813809&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: самые популярные вузы у победителей олимпиад по математике и информатике](https://habr.com/ru/companies/yandex/news/813783/?utm_campaign=813783&utm_source=habrahabr&utm_medium=rss)
-- [Практический семинар «TERMIDESK 5.0: уникальные технологии и практика»](https://habr.com/ru/companies/astralinux/news/813061/?utm_campaign=813061&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 6.9](https://habr.com/ru/news/813785/?utm_campaign=813785&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Microsoft разблокировала получение обновлений для Windows и Office пользователям из РФ](https://habr.com/ru/news/813775/?utm_campaign=813775&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Bulk Crap Uninstaller 5.8 — бесплатного открытого деинсталятора приложений для Windows](https://habr.com/ru/news/813723/?utm_campaign=813723&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
