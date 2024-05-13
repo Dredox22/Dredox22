@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenAI представила GPT-4o](https://habr.com/ru/news/814051/?utm_campaign=814051&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая, улучшенная версия GPT-4 Omni, которая уже бьет все рекорды](https://habr.com/ru/news/814037/?utm_campaign=814037&utm_source=habrahabr&utm_medium=rss)
 - [Весеннее обновление OpenAI: новая модель GPT-4o и десктопная версия](https://habr.com/ru/companies/bothub/news/814033/?utm_campaign=814033&utm_source=habrahabr&utm_medium=rss)
 - [Unitree представила гибкого робота-гуманоида стоимостью от $16 тыс., которого можно сложить и перенести](https://habr.com/ru/news/814031/?utm_campaign=814031&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat объявила о выпуске дистрибутива RHEL AI для ML-разработчиков](https://habr.com/ru/news/813983/?utm_campaign=813983&utm_source=habrahabr&utm_medium=rss)
-- [ТАСС: Роскомнадзор потребовал от TikTok отчитаться о соблюдении российских законов](https://habr.com/ru/news/813971/?utm_campaign=813971&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
