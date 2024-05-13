@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Весеннее обновление OpenAI: новая модель GPT-4o и десктопная версия](https://habr.com/ru/companies/bothub/news/814033/?utm_campaign=814033&utm_source=habrahabr&utm_medium=rss)
+- [Unitree представила гибкого робота-гуманоида стоимостью от $16 тыс., которого можно сложить и перенести](https://habr.com/ru/news/814031/?utm_campaign=814031&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat объявила о выпуске дистрибутива RHEL AI для ML-разработчиков](https://habr.com/ru/news/813983/?utm_campaign=813983&utm_source=habrahabr&utm_medium=rss)
 - [ТАСС: Роскомнадзор потребовал от TikTok отчитаться о соблюдении российских законов](https://habr.com/ru/news/813971/?utm_campaign=813971&utm_source=habrahabr&utm_medium=rss)
 - [Найти все API — важная задача в процессе выстраивания их успешной защиты](https://habr.com/ru/companies/webmonitorx/news/813965/?utm_campaign=813965&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 9.8](https://habr.com/ru/news/813897/?utm_campaign=813897&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: только 38 из 65 тыс. разработчиков подали заявки на внешние платёжные ссылки в App Store](https://habr.com/ru/news/813895/?utm_campaign=813895&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
