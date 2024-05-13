@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Власти тестируют программу для сдачи ЕГЭ на отечественных ОС](https://habr.com/ru/news/813861/?utm_campaign=813861&utm_source=habrahabr&utm_medium=rss)
 - [Отечественный производитель вычислительной техники GS Group переходит на модель ODM-производства](https://habr.com/ru/news/813839/?utm_campaign=813839&utm_source=habrahabr&utm_medium=rss)
 - [Солнечные бури нарушили работу GPS-систем у фермеров в США](https://habr.com/ru/news/813823/?utm_campaign=813823&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавит ИИ-генератор тем для браузера Edge в июне](https://habr.com/ru/news/813819/?utm_campaign=813819&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Windows 10 версии 21H2 через месяц](https://habr.com/ru/news/813817/?utm_campaign=813817&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» расширил зону доставки роботами-курьерами в Москве](https://habr.com/ru/news/813809/?utm_campaign=813809&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
