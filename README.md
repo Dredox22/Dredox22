@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fine Talks by GlowByte: Восток vs Запад в визуализации данных](https://habr.com/ru/companies/glowbyte/news/814251/?utm_campaign=814251&utm_source=habrahabr&utm_medium=rss)
+- [GitButler и GitHub объявили о проведении офлайн конференции Git Merge 2024 с 19 по 20 сентября в Берлине](https://habr.com/ru/news/814247/?utm_campaign=814247&utm_source=habrahabr&utm_medium=rss)
+- [Разворачиваем приватные инсталляции Kubernetes с помощью Terraform](https://habr.com/ru/companies/selectel/news/814243/?utm_campaign=814243&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 126.0](https://habr.com/ru/news/814219/?utm_campaign=814219&utm_source=habrahabr&utm_medium=rss)
 - [В Стиме вышли «Самогонки»](https://habr.com/ru/news/814211/?utm_campaign=814211&utm_source=habrahabr&utm_medium=rss)
-- [Утечка: Red Dead Redemption выйдет на ПК](https://habr.com/ru/news/814203/?utm_campaign=814203&utm_source=habrahabr&utm_medium=rss)
-- [Google I/O 2024 снова будет посвящена искусственному интеллекту](https://habr.com/ru/news/814189/?utm_campaign=814189&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Claude стал доступен в Европе](https://habr.com/ru/news/814177/?utm_campaign=814177&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
