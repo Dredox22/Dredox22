@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 126.0](https://habr.com/ru/news/814219/?utm_campaign=814219&utm_source=habrahabr&utm_medium=rss)
+- [В Стиме вышли «Самогонки»](https://habr.com/ru/news/814211/?utm_campaign=814211&utm_source=habrahabr&utm_medium=rss)
+- [Утечка: Red Dead Redemption выйдет на ПК](https://habr.com/ru/news/814203/?utm_campaign=814203&utm_source=habrahabr&utm_medium=rss)
 - [Google I/O 2024 снова будет посвящена искусственному интеллекту](https://habr.com/ru/news/814189/?utm_campaign=814189&utm_source=habrahabr&utm_medium=rss)
 - [Сервис Claude стал доступен в Европе](https://habr.com/ru/news/814177/?utm_campaign=814177&utm_source=habrahabr&utm_medium=rss)
-- [Курс на дно: рынок онлайн-пиратства сократился на 16% в 2023 году](https://habr.com/ru/companies/f_a_c_c_t/news/814163/?utm_campaign=814163&utm_source=habrahabr&utm_medium=rss)
-- [Оператора карт «Мир» хотят привлечь к борьбе с отмыванием денег](https://habr.com/ru/news/814145/?utm_campaign=814145&utm_source=habrahabr&utm_medium=rss)
-- [Starlink предупредила часть клиентов в США о повышении абонентплаты из-за «ограниченной пропускной способности» сети](https://habr.com/ru/news/814139/?utm_campaign=814139&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
