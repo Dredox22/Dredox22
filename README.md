@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2024 снова будет посвящена искусственному интеллекту](https://habr.com/ru/news/814189/?utm_campaign=814189&utm_source=habrahabr&utm_medium=rss)
+- [Сервис Claude стал доступен в Европе](https://habr.com/ru/news/814177/?utm_campaign=814177&utm_source=habrahabr&utm_medium=rss)
+- [Курс на дно: рынок онлайн-пиратства сократился на 16% в 2023 году](https://habr.com/ru/companies/f_a_c_c_t/news/814163/?utm_campaign=814163&utm_source=habrahabr&utm_medium=rss)
 - [Оператора карт «Мир» хотят привлечь к борьбе с отмыванием денег](https://habr.com/ru/news/814145/?utm_campaign=814145&utm_source=habrahabr&utm_medium=rss)
 - [Starlink предупредила часть клиентов в США о повышении абонентплаты из-за «ограниченной пропускной способности» сети](https://habr.com/ru/news/814139/?utm_campaign=814139&utm_source=habrahabr&utm_medium=rss)
-- [Хостинг Ru–Center открыл физлицам возможность регистрировать сайты в зонах *.ru и *.рф на портале «Госуслуги»](https://habr.com/ru/news/814123/?utm_campaign=814123&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление операционной системы «Альт Рабочая станция К» 10.3](https://habr.com/ru/companies/basealtspo/news/814109/?utm_campaign=814109&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: кошельки Ozon стали использовать для нелегальных p2p-операций](https://habr.com/ru/news/814095/?utm_campaign=814095&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
