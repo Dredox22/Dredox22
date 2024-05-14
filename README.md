@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Оператора карт «Мир» хотят привлечь к борьбе с отмыванием денег](https://habr.com/ru/news/814145/?utm_campaign=814145&utm_source=habrahabr&utm_medium=rss)
 - [Starlink предупредила часть клиентов в США о повышении абонентплаты из-за «ограниченной пропускной способности» сети](https://habr.com/ru/news/814139/?utm_campaign=814139&utm_source=habrahabr&utm_medium=rss)
 - [Хостинг Ru–Center открыл физлицам возможность регистрировать сайты в зонах *.ru и *.рф на портале «Госуслуги»](https://habr.com/ru/news/814123/?utm_campaign=814123&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление операционной системы «Альт Рабочая станция К» 10.3](https://habr.com/ru/companies/basealtspo/news/814109/?utm_campaign=814109&utm_source=habrahabr&utm_medium=rss)
 - [Forbes: кошельки Ozon стали использовать для нелегальных p2p-операций](https://habr.com/ru/news/814095/?utm_campaign=814095&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики ОС «Аврора» создают мобильный браузер на базе Chromium](https://habr.com/ru/news/814103/?utm_campaign=814103&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
