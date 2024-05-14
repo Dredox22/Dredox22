@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление операционной системы «Альт Рабочая станция К» 10.3](https://habr.com/ru/companies/basealtspo/news/814109/?utm_campaign=814109&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: кошельки Ozon стали использовать для нелегальных p2p-операций](https://habr.com/ru/news/814095/?utm_campaign=814095&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики ОС «Аврора» создают мобильный браузер на базе Chromium](https://habr.com/ru/news/814103/?utm_campaign=814103&utm_source=habrahabr&utm_medium=rss)
 - [Apple готовится к старту продаж Vision Pro за пределами США](https://habr.com/ru/news/814087/?utm_campaign=814087&utm_source=habrahabr&utm_medium=rss)
 - [Британский институт проблем безопасности ИИ открыл доступ к платформе для тестирования ИИ-моделей](https://habr.com/ru/news/814081/?utm_campaign=814081&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Gamma — эмулятора PS1 для iPhone и iPad](https://habr.com/ru/news/814089/?utm_campaign=814089&utm_source=habrahabr&utm_medium=rss)
-- [Google внедрит технологию видеоконференций Project Starline в звонки Zoom и Meet](https://habr.com/ru/news/814075/?utm_campaign=814075&utm_source=habrahabr&utm_medium=rss)
-- [Apple добавила в iOS 17.5 оповещения iPhone о сторонних Bluetooth-трекерах](https://habr.com/ru/news/814073/?utm_campaign=814073&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
