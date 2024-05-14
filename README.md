@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Презентация Google I/O 2024: Gemini 1.5 Pro, новые процессоры TPU, Android 15 c ИИ и многое другое](https://habr.com/ru/companies/bothub/news/814347/?utm_campaign=814347&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» представила релизное «железо» ПАК Solar NGFW](https://habr.com/ru/news/814005/?utm_campaign=814005&utm_source=habrahabr&utm_medium=rss)
 - [TikTok тестирует функцию поиска с использованием ИИ](https://habr.com/ru/news/814303/?utm_campaign=814303&utm_source=habrahabr&utm_medium=rss)
 - [В Москве с 23 по 26 мая пройдет международный киберфестиваль Positive Hack Days 2](https://habr.com/ru/companies/pt/news/814279/?utm_campaign=814279&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила рассылку Hello Developer за май](https://habr.com/ru/news/814259/?utm_campaign=814259&utm_source=habrahabr&utm_medium=rss)
-- [Fine Talks by GlowByte: Восток vs Запад в визуализации данных](https://habr.com/ru/companies/glowbyte/news/814251/?utm_campaign=814251&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
