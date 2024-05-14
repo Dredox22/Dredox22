@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple готовится к старту продаж Vision Pro за пределами США](https://habr.com/ru/news/814087/?utm_campaign=814087&utm_source=habrahabr&utm_medium=rss)
+- [Британский институт проблем безопасности ИИ открыл доступ к платформе для тестирования ИИ-моделей](https://habr.com/ru/news/814081/?utm_campaign=814081&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Gamma — эмулятора PS1 для iPhone и iPad](https://habr.com/ru/news/814089/?utm_campaign=814089&utm_source=habrahabr&utm_medium=rss)
+- [Google внедрит технологию видеоконференций Project Starline в звонки Zoom и Meet](https://habr.com/ru/news/814075/?utm_campaign=814075&utm_source=habrahabr&utm_medium=rss)
 - [Apple добавила в iOS 17.5 оповещения iPhone о сторонних Bluetooth-трекерах](https://habr.com/ru/news/814073/?utm_campaign=814073&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила GPT-4o](https://habr.com/ru/news/814051/?utm_campaign=814051&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая, улучшенная версия GPT-4 Omni, которая уже бьет все рекорды](https://habr.com/ru/news/814037/?utm_campaign=814037&utm_source=habrahabr&utm_medium=rss)
-- [Весеннее обновление OpenAI: новая модель GPT-4o и десктопная версия](https://habr.com/ru/companies/bothub/news/814033/?utm_campaign=814033&utm_source=habrahabr&utm_medium=rss)
-- [Unitree представила гибкого робота-гуманоида стоимостью от $16 тыс., которого можно сложить и перенести](https://habr.com/ru/news/814031/?utm_campaign=814031&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
