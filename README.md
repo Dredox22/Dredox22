@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сооснователь OpenAI Илья Суцкевер покидает компанию](https://habr.com/ru/news/814365/?utm_campaign=814365&utm_source=habrahabr&utm_medium=rss)
 - [Презентация Google I/O 2024: Gemini 1.5 Pro, новые процессоры TPU, Android 15 c ИИ и многое другое](https://habr.com/ru/companies/bothub/news/814347/?utm_campaign=814347&utm_source=habrahabr&utm_medium=rss)
+- [VMware Workstation Pro для Windows и Linux и Fusion Pro для Mac больше не требуют лицензии для личного использования](https://habr.com/ru/news/814333/?utm_campaign=814333&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» представила релизное «железо» ПАК Solar NGFW](https://habr.com/ru/news/814005/?utm_campaign=814005&utm_source=habrahabr&utm_medium=rss)
 - [TikTok тестирует функцию поиска с использованием ИИ](https://habr.com/ru/news/814303/?utm_campaign=814303&utm_source=habrahabr&utm_medium=rss)
-- [В Москве с 23 по 26 мая пройдет международный киберфестиваль Positive Hack Days 2](https://habr.com/ru/companies/pt/news/814279/?utm_campaign=814279&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила рассылку Hello Developer за май](https://habr.com/ru/news/814259/?utm_campaign=814259&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
