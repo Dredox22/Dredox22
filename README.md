@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Опубликован рейтинг Tор500 суперкомпьютеров. На первом месте — Frontier](https://habr.com/ru/news/814389/?utm_campaign=814389&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила конкурс для разработчиков Gemini API с призовым фондом в $3 млн и Custom Electric 1981 DeLorean](https://habr.com/ru/news/814387/?utm_campaign=814387&utm_source=habrahabr&utm_medium=rss)
-- [GitLab объявил ограничения в тарифах по доступу к API проектов, групп и пользователей](https://habr.com/ru/news/814381/?utm_campaign=814381&utm_source=habrahabr&utm_medium=rss)
-- [Автора любовных романов заблокировали в Google Docs за «неприемлемый» контент](https://habr.com/ru/companies/cloud4y/news/814373/?utm_campaign=814373&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь OpenAI Илья Суцкевер покидает компанию](https://habr.com/ru/news/814365/?utm_campaign=814365&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг: к 2030 году на российских предприятиях должно появиться более 94 тыс. роботов](https://habr.com/ru/news/814427/?utm_campaign=814427&utm_source=habrahabr&utm_medium=rss)
+- [Видеопоиск Gemini от Google дал неверный совет фотографам](https://habr.com/ru/news/814421/?utm_campaign=814421&utm_source=habrahabr&utm_medium=rss)
+- [GPT-4o доступна в предварительной версии службы Microsoft Azure](https://habr.com/ru/news/814399/?utm_campaign=814399&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: российские разработчики электроники всё чаще стали искать китайских посредников для проведения финансовых операций](https://habr.com/ru/news/814405/?utm_campaign=814405&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Expo SDK 51](https://habr.com/ru/news/814403/?utm_campaign=814403&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
