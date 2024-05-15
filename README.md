@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi представила M.2 Hat+ — плату для подключения NVMe-накопителей](https://habr.com/ru/news/814575/?utm_campaign=814575&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: разработчики из ПГУ создали антивирус, который использует ИИ и не требует обновлений](https://habr.com/ru/news/814525/?utm_campaign=814525&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: Единую биометрическую систему нельзя использовать для розыска людей](https://habr.com/ru/news/814521/?utm_campaign=814521&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» и «Ростелеком» подписали соглашение о сотрудничестве в сфере ИБ](https://habr.com/ru/news/814509/?utm_campaign=814509&utm_source=habrahabr&utm_medium=rss)
 - [Google сообщила об отключении с 20 июня 2024 года опции VPN в сервисе One](https://habr.com/ru/news/814487/?utm_campaign=814487&utm_source=habrahabr&utm_medium=rss)
-- [«Элемент» приобрёл разработчика ERP-систем и софта для блокчейна](https://habr.com/ru/news/814481/?utm_campaign=814481&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
