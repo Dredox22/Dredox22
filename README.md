@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для iOS вышел PPSSPP — эмулятор PlayStation Portable](https://habr.com/ru/news/814641/?utm_campaign=814641&utm_source=habrahabr&utm_medium=rss)
 - [Руководитель отдела разработки ИИ в OpenAI Ян Лейке покинул компанию после ухода Ильи Суцкевера](https://habr.com/ru/news/814619/?utm_campaign=814619&utm_source=habrahabr&utm_medium=rss)
 - [В НИЯУ МИФИ открыта новая лаборатория по работе с устройствами на ОС «Аврора»](https://habr.com/ru/news/814613/?utm_campaign=814613&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры «Смута» выпустили пятый патч для игры с большим количеством исправлений и улучшений](https://habr.com/ru/news/814611/?utm_campaign=814611&utm_source=habrahabr&utm_medium=rss)
 - [Yandex Cloud запустил межсетевой экран в рамках сервиса Smart Web Security](https://habr.com/ru/news/814585/?utm_campaign=814585&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi представила M.2 Hat+ — плату для подключения NVMe-накопителей](https://habr.com/ru/news/814575/?utm_campaign=814575&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
