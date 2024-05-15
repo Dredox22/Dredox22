@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован рейтинг Tор500 суперкомпьютеров. На первом месте — Frontier](https://habr.com/ru/news/814389/?utm_campaign=814389&utm_source=habrahabr&utm_medium=rss)
+- [Google объявила конкурс для разработчиков Gemini API с призовым фондом в $3 млн и Custom Electric 1981 DeLorean](https://habr.com/ru/news/814387/?utm_campaign=814387&utm_source=habrahabr&utm_medium=rss)
+- [GitLab объявил ограничения в тарифах по доступу к API проектов, групп и пользователей](https://habr.com/ru/news/814381/?utm_campaign=814381&utm_source=habrahabr&utm_medium=rss)
 - [Автора любовных романов заблокировали в Google Docs за «неприемлемый» контент](https://habr.com/ru/companies/cloud4y/news/814373/?utm_campaign=814373&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь OpenAI Илья Суцкевер покидает компанию](https://habr.com/ru/news/814365/?utm_campaign=814365&utm_source=habrahabr&utm_medium=rss)
-- [Презентация Google I/O 2024: Gemini 1.5 Pro, новые процессоры TPU, Android 15 c ИИ и многое другое](https://habr.com/ru/companies/bothub/news/814347/?utm_campaign=814347&utm_source=habrahabr&utm_medium=rss)
-- [VMware Workstation Pro для Windows и Linux и Fusion Pro для Mac больше не требуют лицензии для личного использования](https://habr.com/ru/news/814333/?utm_campaign=814333&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» представила релизное «железо» ПАК Solar NGFW](https://habr.com/ru/news/814005/?utm_campaign=814005&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
