@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: разработчики из ПГУ создали антивирус, который использует ИИ и не требует обновлений](https://habr.com/ru/news/814525/?utm_campaign=814525&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: Единую биометрическую систему нельзя использовать для розыска людей](https://habr.com/ru/news/814521/?utm_campaign=814521&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» и «Ростелеком» подписали соглашение о сотрудничестве в сфере ИБ](https://habr.com/ru/news/814509/?utm_campaign=814509&utm_source=habrahabr&utm_medium=rss)
 - [Google сообщила об отключении с 20 июня 2024 года опции VPN в сервисе One](https://habr.com/ru/news/814487/?utm_campaign=814487&utm_source=habrahabr&utm_medium=rss)
 - [«Элемент» приобрёл разработчика ERP-систем и софта для блокчейна](https://habr.com/ru/news/814481/?utm_campaign=814481&utm_source=habrahabr&utm_medium=rss)
-- [В 2023 году Apple удалила более 118 тыс. учётных записей разработчиков](https://habr.com/ru/news/814475/?utm_campaign=814475&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг: к 2030 году на российских предприятиях должно появиться более 94 тыс. роботов](https://habr.com/ru/news/814427/?utm_campaign=814427&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
