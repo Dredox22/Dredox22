@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Моторика» запустит производство киберпротезов в ОЭЗ «Технополис Москва» в третьем квартале 2024 года](https://habr.com/ru/news/814827/?utm_campaign=814827&utm_source=habrahabr&utm_medium=rss)
+- [В финал Международного киберчемпионата по ИБ прошло семь команд из России, Туркменистана и Мьянмы](https://habr.com/ru/news/814815/?utm_campaign=814815&utm_source=habrahabr&utm_medium=rss)
+- [OSChina вместе с 3Logic Group локализовала в РФ платформу для совместной разработки ПО Gitee](https://habr.com/ru/news/814807/?utm_campaign=814807&utm_source=habrahabr&utm_medium=rss)
 - [21 мая расскажем, как развернуть приватные инсталляции Kubernetes в публичном облаке с помощью Terraform](https://habr.com/ru/companies/selectel/news/814197/?utm_campaign=814197&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Безопасное хранение цифрового контента с помощью отечественной DAM-платформы»](https://habr.com/ru/companies/nubes/news/814795/?utm_campaign=814795&utm_source=habrahabr&utm_medium=rss)
-- [Fplus сообщила о начале производства мониторов](https://habr.com/ru/news/814765/?utm_campaign=814765&utm_source=habrahabr&utm_medium=rss)
-- [Представлено открытое приложение TranslucentSM для скрытия панели поиска с рекламой в меню «Пуск» Windows 10/11](https://habr.com/ru/news/814723/?utm_campaign=814723&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и OpenAI запустили фонд по борьбе с дипфейками](https://habr.com/ru/news/814689/?utm_campaign=814689&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
