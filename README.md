@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлено открытое приложение TranslucentSM для скрытия панели поиска с рекламой в меню «Пуск» Windows 10/11](https://habr.com/ru/news/814723/?utm_campaign=814723&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и OpenAI запустили фонд по борьбе с дипфейками](https://habr.com/ru/news/814689/?utm_campaign=814689&utm_source=habrahabr&utm_medium=rss)
 - [В Android 15 появится опция выявления кражи смартфона](https://habr.com/ru/news/814687/?utm_campaign=814687&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор после сбоя зоны RU меняет порядок работы «суверенного рунета»](https://habr.com/ru/news/814701/?utm_campaign=814701&utm_source=habrahabr&utm_medium=rss)
 - [Приложения для Android позволят управлять курсором с помощью лица](https://habr.com/ru/news/814681/?utm_campaign=814681&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила сбои в работе VPN после апрельских обновлений Windows](https://habr.com/ru/news/814679/?utm_campaign=814679&utm_source=habrahabr&utm_medium=rss)
-- [В команде проекта NetBSD запретили принятие изменений в коде, подготовленных при помощи ИИ](https://habr.com/ru/news/814693/?utm_campaign=814693&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
