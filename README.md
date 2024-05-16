@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Wireshark 4.2.5](https://habr.com/ru/news/814889/?utm_campaign=814889&utm_source=habrahabr&utm_medium=rss)
+- [Россия, Туркменистан и Мьянма в финале Международного киберчемпионата по информационной безопасности](https://habr.com/ru/companies/solarsecurity/news/814885/?utm_campaign=814885&utm_source=habrahabr&utm_medium=rss)
+- [Технический митап ITFB Group вместе с Почтатех, МКБ и Яндекс Такси про системный и бизнес-анализ](https://habr.com/ru/companies/itfb/news/814879/?utm_campaign=814879&utm_source=habrahabr&utm_medium=rss)
 - [«Моторика» запустит производство киберпротезов в ОЭЗ «Технополис Москва» в третьем квартале 2024 года](https://habr.com/ru/news/814827/?utm_campaign=814827&utm_source=habrahabr&utm_medium=rss)
 - [В финал Международного киберчемпионата по ИБ прошло семь команд из России, Туркменистана и Мьянмы](https://habr.com/ru/news/814815/?utm_campaign=814815&utm_source=habrahabr&utm_medium=rss)
-- [OSChina вместе с 3Logic Group локализовала в РФ платформу для совместной разработки ПО Gitee](https://habr.com/ru/news/814807/?utm_campaign=814807&utm_source=habrahabr&utm_medium=rss)
-- [21 мая расскажем, как развернуть приватные инсталляции Kubernetes в публичном облаке с помощью Terraform](https://habr.com/ru/companies/selectel/news/814197/?utm_campaign=814197&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Безопасное хранение цифрового контента с помощью отечественной DAM-платформы»](https://habr.com/ru/companies/nubes/news/814795/?utm_campaign=814795&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
