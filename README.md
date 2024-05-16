@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [21 мая расскажем, как развернуть приватные инсталляции Kubernetes в публичном облаке с помощью Terraform](https://habr.com/ru/companies/selectel/news/814197/?utm_campaign=814197&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Безопасное хранение цифрового контента с помощью отечественной DAM-платформы»](https://habr.com/ru/companies/nubes/news/814795/?utm_campaign=814795&utm_source=habrahabr&utm_medium=rss)
 - [Fplus сообщила о начале производства мониторов](https://habr.com/ru/news/814765/?utm_campaign=814765&utm_source=habrahabr&utm_medium=rss)
 - [Представлено открытое приложение TranslucentSM для скрытия панели поиска с рекламой в меню «Пуск» Windows 10/11](https://habr.com/ru/news/814723/?utm_campaign=814723&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и OpenAI запустили фонд по борьбе с дипфейками](https://habr.com/ru/news/814689/?utm_campaign=814689&utm_source=habrahabr&utm_medium=rss)
-- [В Android 15 появится опция выявления кражи смартфона](https://habr.com/ru/news/814687/?utm_campaign=814687&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор после сбоя зоны RU меняет порядок работы «суверенного рунета»](https://habr.com/ru/news/814701/?utm_campaign=814701&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
