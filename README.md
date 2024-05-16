@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Android 15 появится опция выявления кражи смартфона](https://habr.com/ru/news/814687/?utm_campaign=814687&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор после сбоя зоны RU меняет порядок работы «суверенного рунета»](https://habr.com/ru/news/814701/?utm_campaign=814701&utm_source=habrahabr&utm_medium=rss)
 - [Приложения для Android позволят управлять курсором с помощью лица](https://habr.com/ru/news/814681/?utm_campaign=814681&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила сбои в работе VPN после апрельских обновлений Windows](https://habr.com/ru/news/814679/?utm_campaign=814679&utm_source=habrahabr&utm_medium=rss)
 - [В команде проекта NetBSD запретили принятие изменений в коде, подготовленных при помощи ИИ](https://habr.com/ru/news/814693/?utm_campaign=814693&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила обновлённые функции доступности: управление взглядом и систему против укачивания в машине](https://habr.com/ru/news/814673/?utm_campaign=814673&utm_source=habrahabr&utm_medium=rss)
-- [RetroArch — ещё один эмулятор консолей для iOS](https://habr.com/ru/news/814659/?utm_campaign=814659&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
