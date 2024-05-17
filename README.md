@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Llama Group решила открыть исходный код Winamp и перевести проект на модель на совместного развития](https://habr.com/ru/news/815099/?utm_campaign=815099&utm_source=habrahabr&utm_medium=rss)
+- [В Arduino Cloud появилась возможность брендировать облачное рабочее пространство](https://habr.com/ru/news/815097/?utm_campaign=815097&utm_source=habrahabr&utm_medium=rss)
+- [Бастион на Positive Hack Day Fest](https://habr.com/ru/companies/bastion/news/815087/?utm_campaign=815087&utm_source=habrahabr&utm_medium=rss)
 - [Платформа nanoCAD доступна на операционной системе AlterOS](https://habr.com/ru/companies/nanosoft/news/815079/?utm_campaign=815079&utm_source=habrahabr&utm_medium=rss)
 - [Softline: Microsoft с 16 мая начал веерные отключения подписок корпоративных заказчиков из РФ на облачные продукты](https://habr.com/ru/news/815075/?utm_campaign=815075&utm_source=habrahabr&utm_medium=rss)
-- [VK тестирует технологию Data Clean Room для безопасной совместной работы с данными](https://habr.com/ru/news/815069/?utm_campaign=815069&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face поделится вычислительными ресурсами на $10 млн для борьбы с монополией крупных компаний в области ИИ](https://habr.com/ru/news/815065/?utm_campaign=815065&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT теперь поддерживает Google Drive и OneDrive](https://habr.com/ru/news/815037/?utm_campaign=815037&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
