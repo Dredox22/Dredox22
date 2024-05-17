@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Основатель «Мойофис» создал компанию для разработки систем BIOS для производимых в России компьютеров](https://habr.com/ru/news/814985/?utm_campaign=814985&utm_source=habrahabr&utm_medium=rss)
 - [От 4.4.0 до 4.5.1: важнейшие обновления в CodeIgniter 4](https://habr.com/ru/news/814961/?utm_campaign=814961&utm_source=habrahabr&utm_medium=rss)
 - [Yadro представила операционную систему kvadraOS](https://habr.com/ru/news/814919/?utm_campaign=814919&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь по ИБ Брайан Кребс раскрыл способы, как Минюст США пытался деанонимизировать админа LockBit](https://habr.com/ru/news/814905/?utm_campaign=814905&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wireshark 4.2.5](https://habr.com/ru/news/814889/?utm_campaign=814889&utm_source=habrahabr&utm_medium=rss)
-- [Россия, Туркменистан и Мьянма в финале Международного киберчемпионата по информационной безопасности](https://habr.com/ru/companies/solarsecurity/news/814885/?utm_campaign=814885&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
