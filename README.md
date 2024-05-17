@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый GPU от Intel будет потреблять 1500 Вт](https://habr.com/ru/companies/dcmiran/news/815169/?utm_campaign=815169&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал квест для читателей журнала «Хакер»](https://habr.com/ru/news/815165/?utm_campaign=815165&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты Positive Technologies обнаружили неизвестный кейлоггер, встраиваемый в Microsoft Exchange Server](https://habr.com/ru/news/815163/?utm_campaign=815163&utm_source=habrahabr&utm_medium=rss)
 - [Activision открыла новую внутреннюю студию Elsewhere Entertainment](https://habr.com/ru/news/815117/?utm_campaign=815117&utm_source=habrahabr&utm_medium=rss)
 - [Llama Group решила открыть исходный код Winamp и перевести проект на модель для совместного развития](https://habr.com/ru/news/815099/?utm_campaign=815099&utm_source=habrahabr&utm_medium=rss)
-- [В Arduino Cloud появилась возможность брендировать облачное рабочее пространство](https://habr.com/ru/news/815097/?utm_campaign=815097&utm_source=habrahabr&utm_medium=rss)
-- [Бастион на Positive Hack Day Fest](https://habr.com/ru/companies/bastion/news/815087/?utm_campaign=815087&utm_source=habrahabr&utm_medium=rss)
-- [Платформа nanoCAD доступна на операционной системе AlterOS](https://habr.com/ru/companies/nanosoft/news/815079/?utm_campaign=815079&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
