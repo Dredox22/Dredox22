@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа nanoCAD доступна на операционной системе AlterOS](https://habr.com/ru/companies/nanosoft/news/815079/?utm_campaign=815079&utm_source=habrahabr&utm_medium=rss)
+- [Softline: Microsoft с 16 мая начал веерные отключения подписок корпоративных заказчиков из РФ на облачные продукты](https://habr.com/ru/news/815075/?utm_campaign=815075&utm_source=habrahabr&utm_medium=rss)
+- [VK тестирует технологию Data Clean Room для безопасной совместной работы с данными](https://habr.com/ru/news/815069/?utm_campaign=815069&utm_source=habrahabr&utm_medium=rss)
+- [Hugging Face поделится вычислительными ресурсами на $10 млн для борьбы с монополией крупных компаний в области ИИ](https://habr.com/ru/news/815065/?utm_campaign=815065&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь поддерживает Google Drive и OneDrive](https://habr.com/ru/news/815037/?utm_campaign=815037&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI подписала соглашение о доступе к контенту в реальном времени из API Reddit для обучения ChatGPT](https://habr.com/ru/news/815009/?utm_campaign=815009&utm_source=habrahabr&utm_medium=rss)
-- [Apple закрывает свою программу разработчиков iOS для студентов](https://habr.com/ru/news/815007/?utm_campaign=815007&utm_source=habrahabr&utm_medium=rss)
-- [Основатель «Мойофис» создал компанию для разработки систем BIOS для производимых в России компьютеров](https://habr.com/ru/news/814985/?utm_campaign=814985&utm_source=habrahabr&utm_medium=rss)
-- [От 4.4.0 до 4.5.1: важнейшие обновления в CodeIgniter 4](https://habr.com/ru/news/814961/?utm_campaign=814961&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
