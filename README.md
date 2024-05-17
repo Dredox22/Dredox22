@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI подписала соглашение о доступе к контенту в реальном времени из API Reddit для обучения ChatGPT](https://habr.com/ru/news/815009/?utm_campaign=815009&utm_source=habrahabr&utm_medium=rss)
 - [Apple закрывает свою программу разработчиков iOS для студентов](https://habr.com/ru/news/815007/?utm_campaign=815007&utm_source=habrahabr&utm_medium=rss)
 - [Основатель «Мойофис» создал компанию для разработки систем BIOS для производимых в России компьютеров](https://habr.com/ru/news/814985/?utm_campaign=814985&utm_source=habrahabr&utm_medium=rss)
 - [От 4.4.0 до 4.5.1: важнейшие обновления в CodeIgniter 4](https://habr.com/ru/news/814961/?utm_campaign=814961&utm_source=habrahabr&utm_medium=rss)
 - [Yadro представила операционную систему kvadraOS](https://habr.com/ru/news/814919/?utm_campaign=814919&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь по ИБ Брайан Кребс раскрыл способы, как Минюст США пытался деанонимизировать админа LockBit](https://habr.com/ru/news/814905/?utm_campaign=814905&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
