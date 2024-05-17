@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Activision открыла новую внутреннюю студию Elsewhere Entertainment](https://habr.com/ru/news/815117/?utm_campaign=815117&utm_source=habrahabr&utm_medium=rss)
 - [Llama Group решила открыть исходный код Winamp и перевести проект на модель на совместного развития](https://habr.com/ru/news/815099/?utm_campaign=815099&utm_source=habrahabr&utm_medium=rss)
 - [В Arduino Cloud появилась возможность брендировать облачное рабочее пространство](https://habr.com/ru/news/815097/?utm_campaign=815097&utm_source=habrahabr&utm_medium=rss)
 - [Бастион на Positive Hack Day Fest](https://habr.com/ru/companies/bastion/news/815087/?utm_campaign=815087&utm_source=habrahabr&utm_medium=rss)
 - [Платформа nanoCAD доступна на операционной системе AlterOS](https://habr.com/ru/companies/nanosoft/news/815079/?utm_campaign=815079&utm_source=habrahabr&utm_medium=rss)
-- [Softline: Microsoft с 16 мая начал веерные отключения подписок корпоративных заказчиков из РФ на облачные продукты](https://habr.com/ru/news/815075/?utm_campaign=815075&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
