@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Глава спецслужбы Канады предостерёг канадцев не использовать TikTok](https://habr.com/ru/news/815233/?utm_campaign=815233&utm_source=habrahabr&utm_medium=rss)
+- [Студенты нашли баг в работе мобильного сервиса прачечных CSC ServiceWorks, который позволяет бесплатно стирать вещи](https://habr.com/ru/news/815237/?utm_campaign=815237&utm_source=habrahabr&utm_medium=rss)
+- [Глава спецслужбы Канады предостерёг канадцев от использования TikTok](https://habr.com/ru/news/815233/?utm_campaign=815233&utm_source=habrahabr&utm_medium=rss)
 - [Tesla предупредила о прекращении поддержки Steam для новых Model X](https://habr.com/ru/news/815201/?utm_campaign=815201&utm_source=habrahabr&utm_medium=rss)
 - [Платный проект Desktop Cat Cursor меняет штатный курсор на мимишную кошачью лапку в Windows 10/11](https://habr.com/ru/news/815191/?utm_campaign=815191&utm_source=habrahabr&utm_medium=rss)
 - [В ТРЦ «Авиапарк» откроется центр кибербезопасности для детей и подростков](https://habr.com/ru/news/815183/?utm_campaign=815183&utm_source=habrahabr&utm_medium=rss)
-- [BIA Technologies запускает бесплатную «Школу разработчиков 1С» в Санкт‑Петербурге](https://habr.com/ru/news/815175/?utm_campaign=815175&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
