@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve опубликовала ответы на актуальные вопросы от разработчиков игр о Steam](https://habr.com/ru/news/815289/?utm_campaign=815289&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Process mining через призму реальных кейсов»](https://habr.com/ru/news/815231/?utm_campaign=815231&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-марафон: универсальный GPT против россыпи анонсов от Google](https://habr.com/ru/companies/onlinepatent/news/815177/?utm_campaign=815177&utm_source=habrahabr&utm_medium=rss)
 - [Looking Glass запустила продажи 3D-мониторов, которые работают без очков](https://habr.com/ru/news/815253/?utm_campaign=815253&utm_source=habrahabr&utm_medium=rss)
 - [Студенты нашли баг в работе мобильного сервиса прачечных CSC ServiceWorks, который позволяет бесплатно стирать вещи](https://habr.com/ru/news/815237/?utm_campaign=815237&utm_source=habrahabr&utm_medium=rss)
-- [Глава спецслужбы Канады предостерёг канадцев от использования TikTok](https://habr.com/ru/news/815233/?utm_campaign=815233&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
