@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтман и Брокман заявили об отсутствии проблем безопасности в ИИ-продуктах OpenAI после ухода Суцкевера и Лейке](https://habr.com/ru/news/815363/?utm_campaign=815363&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 125](https://habr.com/ru/news/815343/?utm_campaign=815343&utm_source=habrahabr&utm_medium=rss)
 - [Valve опубликовала ответы на актуальные вопросы от разработчиков игр о Steam](https://habr.com/ru/news/815289/?utm_campaign=815289&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Process mining через призму реальных кейсов»](https://habr.com/ru/news/815231/?utm_campaign=815231&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-марафон: универсальный GPT против россыпи анонсов от Google](https://habr.com/ru/companies/onlinepatent/news/815177/?utm_campaign=815177&utm_source=habrahabr&utm_medium=rss)
-- [Looking Glass запустила продажи 3D-мониторов, которые работают без очков](https://habr.com/ru/news/815253/?utm_campaign=815253&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
