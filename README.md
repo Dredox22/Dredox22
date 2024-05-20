@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Катюша» расширила производство принтеров и МФУ с российскими комплектующими](https://habr.com/ru/news/815533/?utm_campaign=815533&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: объёмы производства оптоволоконных кабелей в РФ за первый квартал 2024 года сократились на 11%](https://habr.com/ru/news/815523/?utm_campaign=815523&utm_source=habrahabr&utm_medium=rss)
+- [Релиз интегрированной среды разработки Red Panda C++ 3.0](https://habr.com/ru/news/815521/?utm_campaign=815521&utm_source=habrahabr&utm_medium=rss)
+- [Кибератака на Американскую радиорелейную лигу привела к отключению IT-инфраструктуры LoTW](https://habr.com/ru/news/815495/?utm_campaign=815495&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил Windows XP на ретро-компьютере i486](https://habr.com/ru/news/815493/?utm_campaign=815493&utm_source=habrahabr&utm_medium=rss)
-- [Спящий режим Android 15 улучшили для увеличения времени автономной работы](https://habr.com/ru/news/815485/?utm_campaign=815485&utm_source=habrahabr&utm_medium=rss)
-- [Slack уличили в сборе данных клиентов для обучения своих ИИ-инструментов](https://habr.com/ru/news/815477/?utm_campaign=815477&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Яндекс» готовится начать серийное производство роботов-курьеров](https://habr.com/ru/news/815471/?utm_campaign=815471&utm_source=habrahabr&utm_medium=rss)
-- [Starlink предупредила клиентов о повышении абонентплаты по тарифу Mobile Global в 2 раза с $200 до $400 в месяц](https://habr.com/ru/news/815401/?utm_campaign=815401&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
