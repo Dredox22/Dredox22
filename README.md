@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор изменений в законодательстве за апрель 2024 года](https://habr.com/ru/companies/ussc/news/815679/?utm_campaign=815679&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI временно отключает голос Скай в ChatGPT из-за его сходства с голосом Скарлетт Йоханссон](https://habr.com/ru/companies/bothub/news/815673/?utm_campaign=815673&utm_source=habrahabr&utm_medium=rss)
 - [Werewolves сработали через ru: вымогатели провели новую массовую атаку на российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/815607/?utm_campaign=815607&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Figproxy — плагин связывающий макет в Figma с платой Arduino](https://habr.com/ru/news/815613/?utm_campaign=815613&utm_source=habrahabr&utm_medium=rss)
 - [«Бюро 1440» запустила три российских низкоорбитальных спутника связи](https://habr.com/ru/news/815603/?utm_campaign=815603&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на вебинар «Платформы для быстрой разработки, тестирования и развертывания ПО»](https://habr.com/ru/companies/rshb/news/815561/?utm_campaign=815561&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
