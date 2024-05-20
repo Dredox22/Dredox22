@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на вебинар «Платформы для быстрой разработки, тестирования и развертывания ПО»](https://habr.com/ru/companies/rshb/news/815561/?utm_campaign=815561&utm_source=habrahabr&utm_medium=rss)
 - [«Промобот» запустила производство роботов‑манипуляторов для промышленности](https://habr.com/ru/news/815555/?utm_campaign=815555&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из Южного федерального университета создают приключенческую ролевую игру «Первый богатырь»](https://habr.com/ru/news/815547/?utm_campaign=815547&utm_source=habrahabr&utm_medium=rss)
 - [«Катюша» расширила производство принтеров и МФУ с российскими комплектующими](https://habr.com/ru/news/815533/?utm_campaign=815533&utm_source=habrahabr&utm_medium=rss)
 - [«Ъ»: объёмы производства оптоволоконных кабелей в РФ за первый квартал 2024 года сократились на 11%](https://habr.com/ru/news/815523/?utm_campaign=815523&utm_source=habrahabr&utm_medium=rss)
-- [Релиз интегрированной среды разработки Red Panda C++ 3.0](https://habr.com/ru/news/815521/?utm_campaign=815521&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
