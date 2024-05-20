@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/815747/?utm_campaign=815747&utm_source=habrahabr&utm_medium=rss)
+- [Google представила план использования Gemini для школ с дополнительной защитой данных](https://habr.com/ru/news/815735/?utm_campaign=815735&utm_source=habrahabr&utm_medium=rss)
+- [«Группа Астра» и «ICL Техно» на ЦИПРе представят новый ПАК для создания частного облака](https://habr.com/ru/news/815733/?utm_campaign=815733&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве за апрель 2024 года](https://habr.com/ru/companies/ussc/news/815679/?utm_campaign=815679&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI временно отключает голос Скай в ChatGPT из-за его сходства с голосом Скарлетт Йоханссон](https://habr.com/ru/companies/bothub/news/815673/?utm_campaign=815673&utm_source=habrahabr&utm_medium=rss)
-- [Werewolves сработали через ru: вымогатели провели новую массовую атаку на российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/815607/?utm_campaign=815607&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Figproxy — плагин, связывающий макет в Figma с платой Arduino](https://habr.com/ru/news/815613/?utm_campaign=815613&utm_source=habrahabr&utm_medium=rss)
-- [«Бюро 1440» запустила три российских низкоорбитальных спутника связи](https://habr.com/ru/news/815603/?utm_campaign=815603&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
