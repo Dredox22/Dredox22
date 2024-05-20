@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Werewolves сработали через ru: вымогатели провели новую массовую атаку на российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/815607/?utm_campaign=815607&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Figproxy — плагин связывающий макет в Figma с платой Arduino](https://habr.com/ru/news/815613/?utm_campaign=815613&utm_source=habrahabr&utm_medium=rss)
+- [«Бюро 1440» запустила три российских низкоорбитальных спутника связи](https://habr.com/ru/news/815603/?utm_campaign=815603&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Платформы для быстрой разработки, тестирования и развертывания ПО»](https://habr.com/ru/companies/rshb/news/815561/?utm_campaign=815561&utm_source=habrahabr&utm_medium=rss)
 - [«Промобот» запустила производство роботов‑манипуляторов для промышленности](https://habr.com/ru/news/815555/?utm_campaign=815555&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из Южного федерального университета создают приключенческую ролевую игру «Первый богатырь»](https://habr.com/ru/news/815547/?utm_campaign=815547&utm_source=habrahabr&utm_medium=rss)
-- [«Катюша» расширила производство принтеров и МФУ с российскими комплектующими](https://habr.com/ru/news/815533/?utm_campaign=815533&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: объёмы производства оптоволоконных кабелей в РФ за первый квартал 2024 года сократились на 11%](https://habr.com/ru/news/815523/?utm_campaign=815523&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
