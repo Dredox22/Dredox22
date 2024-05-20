@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты раскрыли детали уязвимости CVE-2023-52424 в работе Wi-Fi под названием SSID Confusion Attack](https://habr.com/ru/news/815775/?utm_campaign=815775&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/815747/?utm_campaign=815747&utm_source=habrahabr&utm_medium=rss)
 - [Google представила план использования Gemini для школ с дополнительной защитой данных](https://habr.com/ru/news/815735/?utm_campaign=815735&utm_source=habrahabr&utm_medium=rss)
 - [«Группа Астра» и «ICL Техно» на ЦИПРе представят новый ПАК для создания частного облака](https://habr.com/ru/news/815733/?utm_campaign=815733&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве за апрель 2024 года](https://habr.com/ru/companies/ussc/news/815679/?utm_campaign=815679&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI временно отключает голос Скай в ChatGPT из-за его сходства с голосом Скарлетт Йоханссон](https://habr.com/ru/companies/bothub/news/815673/?utm_campaign=815673&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
