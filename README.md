@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack уличили в сборе данных клиентов для обучения своих ИИ-инструментов](https://habr.com/ru/news/815477/?utm_campaign=815477&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Яндекс» готовится начать серийное производство роботов-курьеров](https://habr.com/ru/news/815471/?utm_campaign=815471&utm_source=habrahabr&utm_medium=rss)
 - [Starlink предупредила клиентов о повышении абонентплаты по тарифу Mobile Global в 2 раза с $200 до $400 в месяц](https://habr.com/ru/news/815401/?utm_campaign=815401&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: атака GhostStripe заставляет автопилот автомобилей игнорировать дорожные знаки](https://habr.com/ru/news/815383/?utm_campaign=815383&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft PC Manager предлагает «починить» Windows 11 через поиск Bing](https://habr.com/ru/news/815371/?utm_campaign=815371&utm_source=habrahabr&utm_medium=rss)
-- [Альтман и Брокман заявили об отсутствии проблем безопасности в ИИ-продуктах OpenAI после ухода Суцкевера и Лейке](https://habr.com/ru/news/815363/?utm_campaign=815363&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 125](https://habr.com/ru/news/815343/?utm_campaign=815343&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
