@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple исправила ошибку iOS, которая восстанавливала на устройствах давно удалённые фото](https://habr.com/ru/news/815917/?utm_campaign=815917&utm_source=habrahabr&utm_medium=rss)
 - [В России появится программа развития фотоники](https://habr.com/ru/news/815901/?utm_campaign=815901&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo купила у Embracer студию Shiver Entertainment](https://habr.com/ru/news/815891/?utm_campaign=815891&utm_source=habrahabr&utm_medium=rss)
 - [Российский смартфон «Р‑ФОН» поступит в розничную продажу в 2025 году](https://habr.com/ru/news/815881/?utm_campaign=815881&utm_source=habrahabr&utm_medium=rss)
 - [Технический директор Tele2 рассказал, как развиваются мобильные сети](https://habr.com/ru/news/815875/?utm_campaign=815875&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: подводные ЦОД оказались уязвимыми для акустических атак](https://habr.com/ru/news/815855/?utm_campaign=815855&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
