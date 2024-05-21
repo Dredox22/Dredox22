@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: подводные ЦОД оказались уязвимыми для акустических атак](https://habr.com/ru/news/815855/?utm_campaign=815855&utm_source=habrahabr&utm_medium=rss)
+- [Panoramik Games сократила около 50 сотрудников](https://habr.com/ru/news/815849/?utm_campaign=815849&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила требования к аппаратному обеспечению функции Recall AI](https://habr.com/ru/news/815843/?utm_campaign=815843&utm_source=habrahabr&utm_medium=rss)
 - [Данные обучения китайских токенов GPT-4o оказались заспамлены и содержат порнозапросы](https://habr.com/ru/news/815835/?utm_campaign=815835&utm_source=habrahabr&utm_medium=rss)
 - [Переиздание игры «Периметр: Legate Edition» вышло в Steam](https://habr.com/ru/news/815823/?utm_campaign=815823&utm_source=habrahabr&utm_medium=rss)
-- [Минэкономразвития РФ упростило процесс патентования IТ-разработок](https://habr.com/ru/news/815805/?utm_campaign=815805&utm_source=habrahabr&utm_medium=rss)
-- [Скандал с OpenAI разгорается: Скарлетт Йоханссон обвинила OpenAI в незаконном использовании ее голоса](https://habr.com/ru/companies/bothub/news/815801/?utm_campaign=815801&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft встроит Copilot в Minecraft и другие игры для Xbox и ПК](https://habr.com/ru/news/815789/?utm_campaign=815789&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
