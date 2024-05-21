@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российский смартфон «Р‑ФОН» поступит в розничную продажу в 2025 году](https://habr.com/ru/news/815881/?utm_campaign=815881&utm_source=habrahabr&utm_medium=rss)
+- [Технический директор Tele2 рассказал, как развиваются мобильные сети](https://habr.com/ru/news/815875/?utm_campaign=815875&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: подводные ЦОД оказались уязвимыми для акустических атак](https://habr.com/ru/news/815855/?utm_campaign=815855&utm_source=habrahabr&utm_medium=rss)
 - [Panoramik Games сократила около 50 сотрудников](https://habr.com/ru/news/815849/?utm_campaign=815849&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила требования к аппаратному обеспечению функции Recall AI](https://habr.com/ru/news/815843/?utm_campaign=815843&utm_source=habrahabr&utm_medium=rss)
-- [Данные обучения китайских токенов GPT-4o оказались заспамлены и содержат порнозапросы](https://habr.com/ru/news/815835/?utm_campaign=815835&utm_source=habrahabr&utm_medium=rss)
-- [Переиздание игры «Периметр: Legate Edition» вышло в Steam](https://habr.com/ru/news/815823/?utm_campaign=815823&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
