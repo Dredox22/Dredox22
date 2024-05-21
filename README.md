@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Данные обучения китайских токенов GPT-4o оказались заспамлены и содержат порнозапросы](https://habr.com/ru/news/815835/?utm_campaign=815835&utm_source=habrahabr&utm_medium=rss)
+- [Переиздание игры «Периметр: Legate Edition» вышло в Steam](https://habr.com/ru/news/815823/?utm_campaign=815823&utm_source=habrahabr&utm_medium=rss)
 - [Минэкономразвития РФ упростило процесс патентования IТ-разработок](https://habr.com/ru/news/815805/?utm_campaign=815805&utm_source=habrahabr&utm_medium=rss)
 - [Скандал с OpenAI разгорается: Скарлетт Йоханссон обвинила OpenAI в незаконном использовании ее голоса](https://habr.com/ru/companies/bothub/news/815801/?utm_campaign=815801&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft встроит Copilot в Minecraft и другие игры для Xbox и ПК](https://habr.com/ru/news/815789/?utm_campaign=815789&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила предварительную версию Wear OS 5 для разработчиков](https://habr.com/ru/news/815785/?utm_campaign=815785&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты раскрыли детали уязвимости CVE-2023-52424 в работе Wi-Fi под названием SSID Confusion Attack](https://habr.com/ru/news/815775/?utm_campaign=815775&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
