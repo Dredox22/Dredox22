@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe объявила о повышении комиссии на свои услуги](https://habr.com/ru/news/816043/?utm_campaign=816043&utm_source=habrahabr&utm_medium=rss)
+- [ДИТ Москвы открыл разработчикам доступ к двум новым сервисам технологической платформы Mos.Tech — Mos.Track и Mos.Wiki](https://habr.com/ru/news/816041/?utm_campaign=816041&utm_source=habrahabr&utm_medium=rss)
+- [JEDEC поделилась характеристиками будущего стандарта DDR6](https://habr.com/ru/companies/dcmiran/news/816037/?utm_campaign=816037&utm_source=habrahabr&utm_medium=rss)
 - [Lightroom получил новые функции на базе искусственного интеллекта](https://habr.com/ru/news/816029/?utm_campaign=816029&utm_source=habrahabr&utm_medium=rss)
 - [30 мая проведем Naumen Java Meetup #3 для опытных разработчиков](https://habr.com/ru/companies/naumen/news/815937/?utm_campaign=815937&utm_source=habrahabr&utm_medium=rss)
-- [Apple исправила ошибку iOS, которая восстанавливала на устройствах давно удалённые фото](https://habr.com/ru/news/815917/?utm_campaign=815917&utm_source=habrahabr&utm_medium=rss)
-- [Через тернии к «Астре»: Google надеется на умные очки с ИИ](https://habr.com/ru/companies/onlinepatent/news/815909/?utm_campaign=815909&utm_source=habrahabr&utm_medium=rss)
-- [В России появится программа развития фотоники](https://habr.com/ru/news/815901/?utm_campaign=815901&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
