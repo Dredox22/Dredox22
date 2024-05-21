@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минэкономразвития РФ упростило процесс патентования IТ-разработок](https://habr.com/ru/news/815805/?utm_campaign=815805&utm_source=habrahabr&utm_medium=rss)
+- [Скандал с OpenAI разгорается: Скарлетт Йоханссон обвинила OpenAI в незаконном использовании ее голоса](https://habr.com/ru/companies/bothub/news/815801/?utm_campaign=815801&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft встроит Copilot в Minecraft и другие игры для Xbox и ПК](https://habr.com/ru/news/815789/?utm_campaign=815789&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила предварительную версию Wear OS 5 для разработчиков](https://habr.com/ru/news/815785/?utm_campaign=815785&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты раскрыли детали уязвимости CVE-2023-52424 в работе Wi-Fi под названием SSID Confusion Attack](https://habr.com/ru/news/815775/?utm_campaign=815775&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/815747/?utm_campaign=815747&utm_source=habrahabr&utm_medium=rss)
-- [Google представила план использования Gemini для школ с дополнительной защитой данных](https://habr.com/ru/news/815735/?utm_campaign=815735&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
