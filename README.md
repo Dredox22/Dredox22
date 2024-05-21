@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Lightroom получил новые функции на базе искусственного интеллекта](https://habr.com/ru/news/816029/?utm_campaign=816029&utm_source=habrahabr&utm_medium=rss)
 - [30 мая проведем Naumen Java Meetup #3 для опытных разработчиков](https://habr.com/ru/companies/naumen/news/815937/?utm_campaign=815937&utm_source=habrahabr&utm_medium=rss)
 - [Apple исправила ошибку iOS, которая восстанавливала на устройствах давно удалённые фото](https://habr.com/ru/news/815917/?utm_campaign=815917&utm_source=habrahabr&utm_medium=rss)
 - [Через тернии к «Астре»: Google надеется на умные очки с ИИ](https://habr.com/ru/companies/onlinepatent/news/815909/?utm_campaign=815909&utm_source=habrahabr&utm_medium=rss)
 - [В России появится программа развития фотоники](https://habr.com/ru/news/815901/?utm_campaign=815901&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo купила у Embracer студию Shiver Entertainment](https://habr.com/ru/news/815891/?utm_campaign=815891&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
