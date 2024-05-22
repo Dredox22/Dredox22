@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратит поддержку VBScript во второй половине 2024 года](https://habr.com/ru/news/816453/?utm_campaign=816453&utm_source=habrahabr&utm_medium=rss)
+- [Цифровые глаза, как у насекомых](https://habr.com/ru/news/816449/?utm_campaign=816449&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, OpenAI, Google и другие крупные IT-компании заключили соглашение о безопасности ИИ](https://habr.com/ru/news/816441/?utm_campaign=816441&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты раскрыли метод запуска широкомасштабных DDoS-атак с использованием DNS-трафика под название DNSBomb](https://habr.com/ru/news/816437/?utm_campaign=816437&utm_source=habrahabr&utm_medium=rss)
 - [Rockwell Automation обратился к клиентам с требованием немедленно отключить от сети свои устройства ICS из-за багов](https://habr.com/ru/news/816433/?utm_campaign=816433&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Росатом» представила на ЦИПР прототип Национальной вычислительной CAD/CАЕ‑платформы](https://habr.com/ru/news/816405/?utm_campaign=816405&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies получила благодарность от Mitsubishi Electric за выявление 5 критических уязвимостей](https://habr.com/ru/news/816401/?utm_campaign=816401&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
