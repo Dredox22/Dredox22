@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» представил отечественную базовую станцию стандарта GSM/LTE](https://habr.com/ru/news/816081/?utm_campaign=816081&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot теперь поддерживает пользовательские расширения](https://habr.com/ru/news/816065/?utm_campaign=816065&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг сообщил о возможном исключении серверов и СХД из параллельного импорта](https://habr.com/ru/news/816049/?utm_campaign=816049&utm_source=habrahabr&utm_medium=rss)
 - [Stripe объявила о повышении комиссии на свои услуги](https://habr.com/ru/news/816043/?utm_campaign=816043&utm_source=habrahabr&utm_medium=rss)
-- [ДИТ Москвы открыл разработчикам доступ к двум новым сервисам технологической платформы Mos.Tech — Mos.Track и Mos.Wiki](https://habr.com/ru/news/816041/?utm_campaign=816041&utm_source=habrahabr&utm_medium=rss)
-- [JEDEC поделилась характеристиками будущего стандарта DDR6](https://habr.com/ru/companies/dcmiran/news/816037/?utm_campaign=816037&utm_source=habrahabr&utm_medium=rss)
+- [ДИТ Москвы открыл разработчикам доступ к двум новым сервисам технологической платформы Mos.Tech: Mos.Track и Mos.Wiki](https://habr.com/ru/news/816041/?utm_campaign=816041&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
