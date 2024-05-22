@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг готовит меры поддержки отрасли промышленных роботов](https://habr.com/ru/news/816167/?utm_campaign=816167&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI показали GPT-5 на конференции Microsoft](https://habr.com/ru/news/816161/?utm_campaign=816161&utm_source=habrahabr&utm_medium=rss)
 - [Объявляем набор на стажировку](https://habr.com/ru/companies/bastion/news/816003/?utm_campaign=816003&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Paint внедрили генератор изображений на базе ИИ](https://habr.com/ru/news/816111/?utm_campaign=816111&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm выпустит Snapdragon Dev Kit для создания приложений на Copilot+ PC](https://habr.com/ru/news/816097/?utm_campaign=816097&utm_source=habrahabr&utm_medium=rss)
-- [Руководитель сервиса VK Play назвал игру «Смута» праздником российского геймдева](https://habr.com/ru/news/816099/?utm_campaign=816099&utm_source=habrahabr&utm_medium=rss)
-- [ASML заявила о возможности отключить «самые сложные в мире» станки для производства чипов в Тайване](https://habr.com/ru/news/816091/?utm_campaign=816091&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
