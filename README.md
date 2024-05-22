@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия PowerToys 0.81 с функцией Advanced Paste на базе искусственного интеллекта](https://habr.com/ru/news/816387/?utm_campaign=816387&utm_source=habrahabr&utm_medium=rss)
+- [«Аквариус» представила на ЦИПР новый ноутбук с процессором AMD Ryzen 5 6000](https://habr.com/ru/news/816383/?utm_campaign=816383&utm_source=habrahabr&utm_medium=rss)
 - [Большой прорыв в понимании работы LLM — Anthropic опубликовала исследование](https://habr.com/ru/news/816333/?utm_campaign=816333&utm_source=habrahabr&utm_medium=rss)
 - [Продолжается регистрация на 5-ю конференцию ConfQA от команды «ЛАНИТ Экспертизы»](https://habr.com/ru/companies/lanit/news/816315/?utm_campaign=816315&utm_source=habrahabr&utm_medium=rss)
 - [Orion soft и Positive Technologies повысят защищенность сред виртуализации](https://habr.com/ru/companies/orion_soft/news/816319/?utm_campaign=816319&utm_source=habrahabr&utm_medium=rss)
-- [В России создали и тестируют собственный литограф](https://habr.com/ru/news/816317/?utm_campaign=816317&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX показала ролик с первым видеозвонком между обычными смартфонами напрямую через спутники Starlink и Direct to Cell](https://habr.com/ru/news/816313/?utm_campaign=816313&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
