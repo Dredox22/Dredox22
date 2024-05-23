@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony готовит собственный магазин мобильных игр](https://habr.com/ru/news/816607/?utm_campaign=816607&utm_source=habrahabr&utm_medium=rss)
+- [Пивные дрожжи можно использовать для переработки металлов из электронных отходов](https://habr.com/ru/companies/cloud4y/news/816539/?utm_campaign=816539&utm_source=habrahabr&utm_medium=rss)
+- [ОМП рассказала о старте продаж устройств с новой ОС «Аврора» 5.1 с 27 мая 2024 года](https://habr.com/ru/news/816591/?utm_campaign=816591&utm_source=habrahabr&utm_medium=rss)
 - [Innostage запустила новую bug bounty программу в формате кибериспытаний](https://habr.com/ru/news/816575/?utm_campaign=816575&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: как защитить бизнес от вирусов-шифровальщиков](https://habr.com/ru/companies/Linx/news/816501/?utm_campaign=816501&utm_source=habrahabr&utm_medium=rss)
-- [МТС планирует замену базовых станций Nokia на решения от «Иртея»](https://habr.com/ru/news/816557/?utm_campaign=816557&utm_source=habrahabr&utm_medium=rss)
-- [Минтранс предложил подключить электросамокаты к системе ЭРА-ГЛОНАСС для ограничения скорости](https://habr.com/ru/news/816551/?utm_campaign=816551&utm_source=habrahabr&utm_medium=rss)
-- [Zoom внедрит постквантовое сквозное шифрование в Workplace](https://habr.com/ru/news/816503/?utm_campaign=816503&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
