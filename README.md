@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Atari приобрела бренд Intellivision, купив его товарные знаки и объединив конкурирующие бренды 1970-х и 1980-х годов](https://habr.com/ru/news/816715/?utm_campaign=816715&utm_source=habrahabr&utm_medium=rss)
+- [Truecaller и Microsoft дадут пользователям возможность создавать искусственную версию своего голоса для ответа на звонки](https://habr.com/ru/news/816713/?utm_campaign=816713&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила обновлённое приложение Copilot для Windows 11, похожее на ChatGPT](https://habr.com/ru/news/816697/?utm_campaign=816697&utm_source=habrahabr&utm_medium=rss)
 - [Из-за масштабного сбоя у Microsoft на несколько часов перестали работать поисковики и популярные ИИ-сервисы](https://habr.com/ru/news/816693/?utm_campaign=816693&utm_source=habrahabr&utm_medium=rss)
 - [Сохранили 2024 в безопасности: лидер III Международного киберчемпионата победил с красивым счетом](https://habr.com/ru/companies/solarsecurity/news/816689/?utm_campaign=816689&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Edge появится перевод видео в реальном времени и генератор субтитров](https://habr.com/ru/news/816685/?utm_campaign=816685&utm_source=habrahabr&utm_medium=rss)
-- [1 миллион долларов получит тот, кто научит ИИ решать математические задачи](https://habr.com/ru/news/816653/?utm_campaign=816653&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
