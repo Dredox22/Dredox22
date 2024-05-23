@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за масштабного сбоя у Microsoft на несколько часов перестали работать поисковики и популярные ИИ-сервисы](https://habr.com/ru/news/816693/?utm_campaign=816693&utm_source=habrahabr&utm_medium=rss)
+- [Сохранили 2024 в безопасности: лидер III Международного киберчемпионата победил с красивым счетом](https://habr.com/ru/companies/solarsecurity/news/816689/?utm_campaign=816689&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft Edge появится перевод видео в реальном времени и генератор субтитров](https://habr.com/ru/news/816685/?utm_campaign=816685&utm_source=habrahabr&utm_medium=rss)
 - [1 миллион долларов получит тот, кто научит ИИ решать математические задачи](https://habr.com/ru/news/816653/?utm_campaign=816653&utm_source=habrahabr&utm_medium=rss)
 - [Sony готовит собственный магазин мобильных игр](https://habr.com/ru/news/816607/?utm_campaign=816607&utm_source=habrahabr&utm_medium=rss)
-- [Пивные дрожжи можно использовать для переработки металлов из электронных отходов](https://habr.com/ru/companies/cloud4y/news/816539/?utm_campaign=816539&utm_source=habrahabr&utm_medium=rss)
-- [ОМП рассказала о старте продаж устройств с новой ОС «Аврора» 5.1 с 27 мая 2024 года](https://habr.com/ru/news/816591/?utm_campaign=816591&utm_source=habrahabr&utm_medium=rss)
-- [Innostage запустила новую bug bounty программу в формате кибериспытаний](https://habr.com/ru/news/816575/?utm_campaign=816575&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
