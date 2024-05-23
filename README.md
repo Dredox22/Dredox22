@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Innostage запустила новую bug bounty программу в формате кибериспытаний](https://habr.com/ru/news/816575/?utm_campaign=816575&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: как защитить бизнес от вирусов-шифровальщиков](https://habr.com/ru/companies/Linx/news/816501/?utm_campaign=816501&utm_source=habrahabr&utm_medium=rss)
+- [МТС планирует замену базовых станций Nokia на решения от «Иртея»](https://habr.com/ru/news/816557/?utm_campaign=816557&utm_source=habrahabr&utm_medium=rss)
+- [Минтранс предложил подключить электросамокаты к системе ЭРА-ГЛОНАСС для ограничения скорости](https://habr.com/ru/news/816551/?utm_campaign=816551&utm_source=habrahabr&utm_medium=rss)
 - [Zoom внедрит постквантовое сквозное шифрование в Workplace](https://habr.com/ru/news/816503/?utm_campaign=816503&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует ввести новый сбор с иностранных производителей телекоммуникационного оборудования](https://habr.com/ru/news/816505/?utm_campaign=816505&utm_source=habrahabr&utm_medium=rss)
-- [The Intercept: уязвимость в WhatsApp позволяет правительствам отслеживать переписку пользователей](https://habr.com/ru/news/816497/?utm_campaign=816497&utm_source=habrahabr&utm_medium=rss)
-- [Google планирует показывать рекламу в ответах ИИ на запросы в поиске](https://habr.com/ru/news/816499/?utm_campaign=816499&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram появится новая валюта для оплаты покупок в ботах](https://habr.com/ru/news/816487/?utm_campaign=816487&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
