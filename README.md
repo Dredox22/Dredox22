@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила обновлённое приложение Copilot для Windows 11, похожее на ChatGPT](https://habr.com/ru/news/816697/?utm_campaign=816697&utm_source=habrahabr&utm_medium=rss)
 - [Из-за масштабного сбоя у Microsoft на несколько часов перестали работать поисковики и популярные ИИ-сервисы](https://habr.com/ru/news/816693/?utm_campaign=816693&utm_source=habrahabr&utm_medium=rss)
 - [Сохранили 2024 в безопасности: лидер III Международного киберчемпионата победил с красивым счетом](https://habr.com/ru/companies/solarsecurity/news/816689/?utm_campaign=816689&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Edge появится перевод видео в реальном времени и генератор субтитров](https://habr.com/ru/news/816685/?utm_campaign=816685&utm_source=habrahabr&utm_medium=rss)
 - [1 миллион долларов получит тот, кто научит ИИ решать математические задачи](https://habr.com/ru/news/816653/?utm_campaign=816653&utm_source=habrahabr&utm_medium=rss)
-- [Sony готовит собственный магазин мобильных игр](https://habr.com/ru/news/816607/?utm_campaign=816607&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
