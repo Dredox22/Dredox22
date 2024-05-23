@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoom внедрит постквантовое сквозное шифрование в Workplace](https://habr.com/ru/news/816503/?utm_campaign=816503&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует ввести новый сбор с иностранных производителей телекоммуникационного оборудования](https://habr.com/ru/news/816505/?utm_campaign=816505&utm_source=habrahabr&utm_medium=rss)
 - [The Intercept: уязвимость в WhatsApp позволяет правительствам отслеживать переписку пользователей](https://habr.com/ru/news/816497/?utm_campaign=816497&utm_source=habrahabr&utm_medium=rss)
 - [Google планирует показывать рекламу в ответах ИИ на запросы в поиске](https://habr.com/ru/news/816499/?utm_campaign=816499&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram появится новая валюта для оплаты покупок в ботах](https://habr.com/ru/news/816487/?utm_campaign=816487&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» решил отказаться от Oracle и создаёт собственную биллинговую систему на базе Platform V Pangolin от «Сбера»](https://habr.com/ru/news/816485/?utm_campaign=816485&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
