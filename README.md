@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи объяснили ошибку с восстановлением удалённых изображений багом в iOS, а не проблемой iCloud](https://habr.com/ru/news/816771/?utm_campaign=816771&utm_source=habrahabr&utm_medium=rss)
+- [LastPass начал шифровать URL-адреса в хранилищах паролей для повышения безопасности](https://habr.com/ru/news/816767/?utm_campaign=816767&utm_source=habrahabr&utm_medium=rss)
+- [Чехол для iPhone со встроенной клавиатурой внизу Clicks Creator Keyboard подходит к Nothing Phone &lpar;1&rpar; на Android](https://habr.com/ru/news/816763/?utm_campaign=816763&utm_source=habrahabr&utm_medium=rss)
 - [Arc Search позволяет выполнять поиск по запросу c помощью имитации телефонного звонка в поисковую систему](https://habr.com/ru/news/816759/?utm_campaign=816759&utm_source=habrahabr&utm_medium=rss)
 - [Google начала выпускать ИИ-функции для обработки фотографий для старых смартфонов Pixel](https://habr.com/ru/news/816735/?utm_campaign=816735&utm_source=habrahabr&utm_medium=rss)
-- [Atari приобрела бренд Intellivision, купив его товарные знаки и объединив конкурирующие бренды 1970-х и 1980-х годов](https://habr.com/ru/news/816715/?utm_campaign=816715&utm_source=habrahabr&utm_medium=rss)
-- [Truecaller и Microsoft дадут пользователям возможность создавать искусственную версию своего голоса для ответа на звонки](https://habr.com/ru/news/816713/?utm_campaign=816713&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила обновлённое приложение Copilot для Windows 11, похожее на ChatGPT](https://habr.com/ru/news/816697/?utm_campaign=816697&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
