@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» намерен выпускать новые версии ОС «Аврора» раз в полтора‑два года](https://habr.com/ru/news/816879/?utm_campaign=816879&utm_source=habrahabr&utm_medium=rss)
+- [Власти обсудили с бизнесом разделение ответственности за реагирование на кибератаки](https://habr.com/ru/news/816877/?utm_campaign=816877&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Как создавать высокопроизводительные очереди сообщений с различной архитектурой»](https://habr.com/ru/companies/vk/news/816875/?utm_campaign=816875&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть от Google советует добавлять клей в сырную пиццу и ежедневно употреблять камни для пищеварения](https://habr.com/ru/news/816871/?utm_campaign=816871&utm_source=habrahabr&utm_medium=rss)
 - [PRO32: 55% российских аналогов TeamViewer уступают зарубежному софту в обеспечении безопасности](https://habr.com/ru/news/816865/?utm_campaign=816865&utm_source=habrahabr&utm_medium=rss)
-- [Разработана система обучения ИИ на повреждённых данных для защиты разработчиков от претензий правообладателей](https://habr.com/ru/news/816833/?utm_campaign=816833&utm_source=habrahabr&utm_medium=rss)
-- [Суперкомпьютер «Оракул» на базе НГУ стал финалистом премии CIPR Digital-2024](https://habr.com/ru/companies/k2tech/news/816831/?utm_campaign=816831&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge будет блокировать создание скриншотов защищённых веб-страниц](https://habr.com/ru/news/816829/?utm_campaign=816829&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты ГК «Солар» рассказали о новой хакгруппировке Shedding Zmiy, атаковавшей десятки российских компаний](https://habr.com/ru/news/816761/?utm_campaign=816761&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
