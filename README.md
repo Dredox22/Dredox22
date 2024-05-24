@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В GNOME Foundation начали обсуждение плана, определяющего стратегию, цели и приоритеты проекта GNOME на следующие 5 лет](https://habr.com/ru/news/816935/?utm_campaign=816935&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies рассказала о готовности российских компаний к кибератакам](https://habr.com/ru/news/816923/?utm_campaign=816923&utm_source=habrahabr&utm_medium=rss)
+- [«Северсталь» создаёт контроллер на базе открытой платформы при участии компаний металлургической и химической отраслей](https://habr.com/ru/news/816921/?utm_campaign=816921&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» намерен выпускать новые версии ОС «Аврора» раз в полтора‑два года](https://habr.com/ru/news/816879/?utm_campaign=816879&utm_source=habrahabr&utm_medium=rss)
 - [Власти обсудили с бизнесом разделение ответственности за реагирование на кибератаки](https://habr.com/ru/news/816877/?utm_campaign=816877&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Как создавать высокопроизводительные очереди сообщений с различной архитектурой»](https://habr.com/ru/companies/vk/news/816875/?utm_campaign=816875&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть от Google советует добавлять клей в сырную пиццу и ежедневно употреблять камни для пищеварения](https://habr.com/ru/news/816871/?utm_campaign=816871&utm_source=habrahabr&utm_medium=rss)
-- [PRO32: 55% российских аналогов TeamViewer уступают зарубежному софту в обеспечении безопасности](https://habr.com/ru/news/816865/?utm_campaign=816865&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
