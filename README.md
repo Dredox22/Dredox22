@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK планирует приостановить проект мессенджера ICQ с 26 июня 2024 года](https://habr.com/ru/news/816967/?utm_campaign=816967&utm_source=habrahabr&utm_medium=rss)
+- [Полиции Северной Ирландии грозит штраф в размере £750 тыс. за раскрытие информации о сотрудниках](https://habr.com/ru/news/816957/?utm_campaign=816957&utm_source=habrahabr&utm_medium=rss)
+- [В Китае разрабатывают Chat Xi PT — чат-бота, обученного на социалистических ценностях](https://habr.com/ru/news/816955/?utm_campaign=816955&utm_source=habrahabr&utm_medium=rss)
 - [«Архитектура программного обеспечения» — обновлённый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/816941/?utm_campaign=816941&utm_source=habrahabr&utm_medium=rss)
 - [В GNOME Foundation начали обсуждение плана, определяющего стратегию, цели и приоритеты проекта GNOME на следующие 5 лет](https://habr.com/ru/news/816935/?utm_campaign=816935&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies рассказала о готовности российских компаний к кибератакам](https://habr.com/ru/news/816923/?utm_campaign=816923&utm_source=habrahabr&utm_medium=rss)
-- [«Северсталь» создаёт контроллер на базе открытой платформы при участии компаний металлургической и химической отраслей](https://habr.com/ru/news/816921/?utm_campaign=816921&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» намерен выпускать новые версии ОС «Аврора» раз в полтора‑два года](https://habr.com/ru/news/816879/?utm_campaign=816879&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
