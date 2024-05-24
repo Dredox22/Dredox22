@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PRO32: 55% российских аналогов TeamViewer уступают зарубежному софту в обеспечении безопасности](https://habr.com/ru/news/816865/?utm_campaign=816865&utm_source=habrahabr&utm_medium=rss)
+- [Разработана система обучения ИИ на повреждённых данных для защиты разработчиков от претензий правообладателей](https://habr.com/ru/news/816833/?utm_campaign=816833&utm_source=habrahabr&utm_medium=rss)
+- [Суперкомпьютер «Оракул» на базе НГУ стал финалистом премии CIPR Digital-2024](https://habr.com/ru/companies/k2tech/news/816831/?utm_campaign=816831&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge будет блокировать создание скриншотов защищённых веб-страниц](https://habr.com/ru/news/816829/?utm_campaign=816829&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты ГК «Солар» рассказали о новой хакгруппировке Shedding Zmiy, атаковавшей десятки российских компаний](https://habr.com/ru/news/816761/?utm_campaign=816761&utm_source=habrahabr&utm_medium=rss)
-- [Газпромбанк тестирует Открытые API для создания PFM-сервиса](https://habr.com/ru/companies/gazprombank/news/816805/?utm_campaign=816805&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft рассказала о средствах контроля конфиденциальности Recall в Windows 11](https://habr.com/ru/news/816787/?utm_campaign=816787&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи объяснили ошибку с восстановлением удалённых изображений багом в iOS, а не проблемой iCloud](https://habr.com/ru/news/816771/?utm_campaign=816771&utm_source=habrahabr&utm_medium=rss)
-- [LastPass начал шифровать URL-адреса в хранилищах паролей для повышения безопасности](https://habr.com/ru/news/816767/?utm_campaign=816767&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
