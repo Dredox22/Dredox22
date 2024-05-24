@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты ГК «Солар» рассказали о новой хакгруппировке Shedding Zmiy, атаковавшей десятки российских компаний](https://habr.com/ru/news/816761/?utm_campaign=816761&utm_source=habrahabr&utm_medium=rss)
+- [Газпромбанк тестирует Открытые API для создания PFM-сервиса](https://habr.com/ru/companies/gazprombank/news/816805/?utm_campaign=816805&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft рассказала о средствах контроля конфиденциальности Recall в Windows 11](https://habr.com/ru/news/816787/?utm_campaign=816787&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи объяснили ошибку с восстановлением удалённых изображений багом в iOS, а не проблемой iCloud](https://habr.com/ru/news/816771/?utm_campaign=816771&utm_source=habrahabr&utm_medium=rss)
 - [LastPass начал шифровать URL-адреса в хранилищах паролей для повышения безопасности](https://habr.com/ru/news/816767/?utm_campaign=816767&utm_source=habrahabr&utm_medium=rss)
-- [Чехол для iPhone со встроенной клавиатурой внизу Clicks Creator Keyboard подходит к Nothing Phone &lpar;1&rpar; на Android](https://habr.com/ru/news/816763/?utm_campaign=816763&utm_source=habrahabr&utm_medium=rss)
-- [Arc Search позволяет выполнять поиск по запросу c помощью имитации телефонного звонка в поисковую систему](https://habr.com/ru/news/816759/?utm_campaign=816759&utm_source=habrahabr&utm_medium=rss)
-- [Google начала выпускать ИИ-функции для обработки фотографий для старых смартфонов Pixel](https://habr.com/ru/news/816735/?utm_campaign=816735&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
