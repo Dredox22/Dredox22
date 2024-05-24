@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Arc Search позволяет выполнять поиск по запросу c помощью имитации телефонного звонка в поисковую систему](https://habr.com/ru/news/816759/?utm_campaign=816759&utm_source=habrahabr&utm_medium=rss)
 - [Google начала выпускать ИИ-функции для обработки фотографий для старых смартфонов Pixel](https://habr.com/ru/news/816735/?utm_campaign=816735&utm_source=habrahabr&utm_medium=rss)
 - [Atari приобрела бренд Intellivision, купив его товарные знаки и объединив конкурирующие бренды 1970-х и 1980-х годов](https://habr.com/ru/news/816715/?utm_campaign=816715&utm_source=habrahabr&utm_medium=rss)
 - [Truecaller и Microsoft дадут пользователям возможность создавать искусственную версию своего голоса для ответа на звонки](https://habr.com/ru/news/816713/?utm_campaign=816713&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила обновлённое приложение Copilot для Windows 11, похожее на ChatGPT](https://habr.com/ru/news/816697/?utm_campaign=816697&utm_source=habrahabr&utm_medium=rss)
-- [Из-за масштабного сбоя у Microsoft на несколько часов перестали работать поисковики и популярные ИИ-сервисы](https://habr.com/ru/news/816693/?utm_campaign=816693&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
