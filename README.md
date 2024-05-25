@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft восстановила работу Copilot после более суток простоя](https://habr.com/ru/news/817049/?utm_campaign=817049&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 не будет Cortana и WordPad](https://habr.com/ru/news/817039/?utm_campaign=817039&utm_source=habrahabr&utm_medium=rss)
-- [Показан прототип iPod с неизданным клоном «Тетрис» от Apple под названием Stacker](https://habr.com/ru/news/817021/?utm_campaign=817021&utm_source=habrahabr&utm_medium=rss)
+- [Найден прототип iPod с неизданным клоном «Тетрис» от Apple под названием Stacker](https://habr.com/ru/news/817021/?utm_campaign=817021&utm_source=habrahabr&utm_medium=rss)
 - [Innostage и ДВФУ подписали соглашение о создании студенческого Центра мониторинга информационной безопасности](https://habr.com/ru/news/817019/?utm_campaign=817019&utm_source=habrahabr&utm_medium=rss)
 - [Разработку неприбыльного системного и инженерного ПО в РФ предложено распределить по IT-компаниям](https://habr.com/ru/news/817017/?utm_campaign=817017&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
