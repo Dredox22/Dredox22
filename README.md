@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен прототип iPod с неизданным клоном «Тетрис» от Apple под названием Stacker](https://habr.com/ru/news/817021/?utm_campaign=817021&utm_source=habrahabr&utm_medium=rss)
+- [Innostage и ДВФУ подписали соглашение о создании студенческого Центра мониторинга информационной безопасности](https://habr.com/ru/news/817019/?utm_campaign=817019&utm_source=habrahabr&utm_medium=rss)
+- [Разработку неприбыльного системного и инженерного ПО в РФ предложено распределить по IT-компаниям](https://habr.com/ru/news/817017/?utm_campaign=817017&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предложит использовать ИИ-помощника на базе Copilot в качестве виртуального сотрудника для рутинных задач](https://habr.com/ru/news/816977/?utm_campaign=816977&utm_source=habrahabr&utm_medium=rss)
 - [VK планирует приостановить проект мессенджера ICQ с 26 июня 2024 года](https://habr.com/ru/news/816967/?utm_campaign=816967&utm_source=habrahabr&utm_medium=rss)
-- [Полиции Северной Ирландии грозит штраф в размере £750 тыс. за раскрытие информации о сотрудниках](https://habr.com/ru/news/816957/?utm_campaign=816957&utm_source=habrahabr&utm_medium=rss)
-- [В Китае разрабатывают Chat Xi PT — чат-бота, обученного на социалистических ценностях](https://habr.com/ru/news/816955/?utm_campaign=816955&utm_source=habrahabr&utm_medium=rss)
-- [«Архитектура программного обеспечения» — обновлённый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/816941/?utm_campaign=816941&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
