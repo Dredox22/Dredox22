@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Play теперь можно купить приложение другому пользователю](https://habr.com/ru/news/817197/?utm_campaign=817197&utm_source=habrahabr&utm_medium=rss)
 - [В Санкт-Петербурге открылся первый государственный центр киберспорта](https://habr.com/ru/news/817189/?utm_campaign=817189&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft опубликовала минимальные системные требования и список поддерживаемых процессоров для Windows 11 LTSC 2024](https://habr.com/ru/news/817185/?utm_campaign=817185&utm_source=habrahabr&utm_medium=rss)
 - [В тестах опция записи действий Windows 11 Recall AI показала высокую производительность и работу без интернета](https://habr.com/ru/news/817141/?utm_campaign=817141&utm_source=habrahabr&utm_medium=rss)
 - [SunFounder представила оригинальный корпус Pironman 5 для микрокомпьютера Raspberry Pi 5](https://habr.com/ru/news/817123/?utm_campaign=817123&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила в Telegram официального чат-бота своего ИИ-помощника Copilot](https://habr.com/ru/news/817099/?utm_campaign=817099&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
