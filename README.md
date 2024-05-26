@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SunFounder представила оригинальный корпус Pironman 5 для микрокомпьютера Raspberry Pi 5](https://habr.com/ru/news/817123/?utm_campaign=817123&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила в Telegram официального чат-бота своего ИИ-помощника Copilot](https://habr.com/ru/news/817099/?utm_campaign=817099&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Prism — эмулятор для быстрой работы x86-приложений на новых ПК с чипами на Arm](https://habr.com/ru/news/817089/?utm_campaign=817089&utm_source=habrahabr&utm_medium=rss)
 - [Спустя 18 лет: новая версия NumPy 2.0 выходит 16 июня](https://habr.com/ru/news/817075/?utm_campaign=817075&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft восстановила работу Copilot после более суток простоя](https://habr.com/ru/news/817049/?utm_campaign=817049&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 24H2 не будет Cortana и WordPad](https://habr.com/ru/news/817039/?utm_campaign=817039&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
