@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CyberOK на PHDays 2](https://habr.com/ru/companies/cyberok/news/817263/?utm_campaign=817263&utm_source=habrahabr&utm_medium=rss)
+- [Опцию Recall для Copilot+ запустили на более простых чипах без NPU](https://habr.com/ru/news/817283/?utm_campaign=817283&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты раскрыли способ по избавлению от советов ИИ в поиске Google](https://habr.com/ru/news/817277/?utm_campaign=817277&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play теперь можно купить приложение другому пользователю](https://habr.com/ru/news/817197/?utm_campaign=817197&utm_source=habrahabr&utm_medium=rss)
 - [В Санкт-Петербурге открылся первый государственный центр киберспорта](https://habr.com/ru/news/817189/?utm_campaign=817189&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft опубликовала минимальные системные требования и список поддерживаемых процессоров для Windows 11 LTSC 2024](https://habr.com/ru/news/817185/?utm_campaign=817185&utm_source=habrahabr&utm_medium=rss)
-- [В тестах опция записи действий Windows 11 Recall AI показала высокую производительность и работу без интернета](https://habr.com/ru/news/817141/?utm_campaign=817141&utm_source=habrahabr&utm_medium=rss)
-- [SunFounder представила оригинальный корпус Pironman 5 для микрокомпьютера Raspberry Pi 5](https://habr.com/ru/news/817123/?utm_campaign=817123&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
