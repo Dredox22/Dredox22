@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китай создал госфонд с капиталом в $47,5 млрд для поддержки развития полупроводниковой промышленности в стране](https://habr.com/ru/news/817387/?utm_campaign=817387&utm_source=habrahabr&utm_medium=rss)
 - [Хранилище секретов StarVault вошло в реестр российского ПО](https://habr.com/ru/companies/orion_soft/news/817371/?utm_campaign=817371&utm_source=habrahabr&utm_medium=rss)
 - [xAI привлек 6 миллиардов долларов чтобы бросить вызов OpenAI](https://habr.com/ru/companies/bothub/news/817353/?utm_campaign=817353&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram добавят функцию проверки фактов](https://habr.com/ru/news/817341/?utm_campaign=817341&utm_source=habrahabr&utm_medium=rss)
 - [В России в два раза выросло количество кибератак через Android-игры](https://habr.com/ru/news/817337/?utm_campaign=817337&utm_source=habrahabr&utm_medium=rss)
-- [Ростех начал поставки комплектующих для первого полностью отечественного спутника](https://habr.com/ru/news/817313/?utm_campaign=817313&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
