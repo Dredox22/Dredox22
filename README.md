@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросети добрались до Minecraft: ютубер создал AI на редстоуне](https://habr.com/ru/companies/bothub/news/817449/?utm_campaign=817449&utm_source=habrahabr&utm_medium=rss)
+- [Google пытается вручную удалить странные ответы ИИ в поиске](https://habr.com/ru/news/817439/?utm_campaign=817439&utm_source=habrahabr&utm_medium=rss)
 - [Новое радио как этап техно-эволюции…](https://habr.com/ru/news/817427/?utm_campaign=817427&utm_source=habrahabr&utm_medium=rss)
 - [Российские банки отразили 13,9 млн попыток киберхищений за I квартал](https://habr.com/ru/news/817415/?utm_campaign=817415&utm_source=habrahabr&utm_medium=rss)
 - [Китай создал госфонд с капиталом в $47,5 млрд для поддержки развития полупроводниковой промышленности в стране](https://habr.com/ru/news/817387/?utm_campaign=817387&utm_source=habrahabr&utm_medium=rss)
-- [Хранилище секретов StarVault вошло в реестр российского ПО](https://habr.com/ru/companies/orion_soft/news/817371/?utm_campaign=817371&utm_source=habrahabr&utm_medium=rss)
-- [xAI привлек 6 миллиардов долларов чтобы бросить вызов OpenAI](https://habr.com/ru/companies/bothub/news/817353/?utm_campaign=817353&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
