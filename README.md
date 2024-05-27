@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tuxedo представила тонкий и лёгкий игровой ультрабук с ОС Linux Tuxedo Stellaris Slim 15 Gen6](https://habr.com/ru/news/817525/?utm_campaign=817525&utm_source=habrahabr&utm_medium=rss)
 - [YouTube Music на Android позволит искать музыку, напевая в телефон](https://habr.com/ru/news/817505/?utm_campaign=817505&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies, РКЦ, «КуБорд» и QApp назвали пять главных киберугроз квантовых технологий](https://habr.com/ru/news/817487/?utm_campaign=817487&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/817475/?utm_campaign=817475&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети добрались до Minecraft: ютубер создал AI на редстоуне](https://habr.com/ru/companies/bothub/news/817449/?utm_campaign=817449&utm_source=habrahabr&utm_medium=rss)
-- [Google пытается вручную удалить странные ответы ИИ в поиске](https://habr.com/ru/news/817439/?utm_campaign=817439&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
