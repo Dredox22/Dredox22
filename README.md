@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ростех начал поставки комплектующих для первого полностью отечественного спутника](https://habr.com/ru/news/817313/?utm_campaign=817313&utm_source=habrahabr&utm_medium=rss)
+- [Intel и AMD надеются потеснить NVIDIA на рынке серверных ускорителей](https://habr.com/ru/companies/dcmiran/news/817303/?utm_campaign=817303&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст написал клон Unix примерно за месяц](https://habr.com/ru/news/817297/?utm_campaign=817297&utm_source=habrahabr&utm_medium=rss)
 - [CyberOK на PHDays 2](https://habr.com/ru/companies/cyberok/news/817263/?utm_campaign=817263&utm_source=habrahabr&utm_medium=rss)
 - [Опцию Recall для Copilot+ запустили на более простых чипах без NPU](https://habr.com/ru/news/817283/?utm_campaign=817283&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты раскрыли способ по избавлению от советов ИИ в поиске Google](https://habr.com/ru/news/817277/?utm_campaign=817277&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play теперь можно купить приложение другому пользователю](https://habr.com/ru/news/817197/?utm_campaign=817197&utm_source=habrahabr&utm_medium=rss)
-- [В Санкт-Петербурге открылся первый государственный центр киберспорта](https://habr.com/ru/news/817189/?utm_campaign=817189&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
