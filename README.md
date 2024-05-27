@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Telegram добавят функцию проверки фактов](https://habr.com/ru/news/817341/?utm_campaign=817341&utm_source=habrahabr&utm_medium=rss)
+- [В России в два раза выросло количество кибератак через Android-игры](https://habr.com/ru/news/817337/?utm_campaign=817337&utm_source=habrahabr&utm_medium=rss)
 - [Ростех начал поставки комплектующих для первого полностью отечественного спутника](https://habr.com/ru/news/817313/?utm_campaign=817313&utm_source=habrahabr&utm_medium=rss)
 - [Intel и AMD надеются потеснить NVIDIA на рынке серверных ускорителей](https://habr.com/ru/companies/dcmiran/news/817303/?utm_campaign=817303&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст написал клон Unix примерно за месяц](https://habr.com/ru/news/817297/?utm_campaign=817297&utm_source=habrahabr&utm_medium=rss)
-- [CyberOK на PHDays 2](https://habr.com/ru/companies/cyberok/news/817263/?utm_campaign=817263&utm_source=habrahabr&utm_medium=rss)
-- [Опцию Recall для Copilot+ запустили на более простых чипах без NPU](https://habr.com/ru/news/817283/?utm_campaign=817283&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
