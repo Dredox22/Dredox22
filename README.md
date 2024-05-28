@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Pyodide v0.26.0](https://habr.com/ru/news/817633/?utm_campaign=817633&utm_source=habrahabr&utm_medium=rss)
+- [Slack: компания не обучает свой ИИ на сообщениях пользователей](https://habr.com/ru/news/817619/?utm_campaign=817619&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Google Messages стали получать искажённые GIF-файлы с iPhone](https://habr.com/ru/news/817611/?utm_campaign=817611&utm_source=habrahabr&utm_medium=rss)
+- [Windows позволит распознавать текст из фотографий с устройств на Android](https://habr.com/ru/news/817603/?utm_campaign=817603&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: GPT-4 может принести больше денег в сфере инвестиций](https://habr.com/ru/news/817595/?utm_campaign=817595&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: причиной продолжающегося сбоя в работе сервисов СДЭК может быть вирус-шифровальщик и хакерская атака](https://habr.com/ru/news/817587/?utm_campaign=817587&utm_source=habrahabr&utm_medium=rss)
-- [Южная Корея объявила о пакете поддержки в размере $19 млрд для индустрии микросхем](https://habr.com/ru/news/817583/?utm_campaign=817583&utm_source=habrahabr&utm_medium=rss)
-- [В документации Docker появился ИИ-ассистент](https://habr.com/ru/news/817565/?utm_campaign=817565&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг и российские ИТ-компании разрабатывают «дорожную карту» для развития САПР в микроэлектронике](https://habr.com/ru/news/817551/?utm_campaign=817551&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
