@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar inRights 3.4: повышение эффективности в управлении правами доступа](https://habr.com/ru/companies/solarsecurity/news/817725/?utm_campaign=817725&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных курсов и занятий, которые стоит пройти в июне](https://habr.com/ru/companies/netologyru/news/817669/?utm_campaign=817669&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» ведёт переговоры о покупке научно-технического центра «Модуль»](https://habr.com/ru/news/817715/?utm_campaign=817715&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Windows 11 лучше, чем Windows 10, для сплетен о знаменитостях, виджетов погоды, спорта и акций](https://habr.com/ru/news/817683/?utm_campaign=817683&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс представил YandexGPT 3 Lite](https://habr.com/ru/companies/yandex/news/817545/?utm_campaign=817545&utm_source=habrahabr&utm_medium=rss)
-- [Анонс настольных CPU Ryzen 9000 ожидается в начале июня, новых APU — в августе](https://habr.com/ru/companies/dcmiran/news/817663/?utm_campaign=817663&utm_source=habrahabr&utm_medium=rss)
-- [Вышел первый трейлер космического симулятора Verse Project от российской студии Synthes Games](https://habr.com/ru/news/817661/?utm_campaign=817661&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры атаковали финорганизации с помощью трояна-клона Minesweeper](https://habr.com/ru/news/817641/?utm_campaign=817641&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
