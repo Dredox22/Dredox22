@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: GPT-4 может принести больше денег в сфере инвестиций](https://habr.com/ru/news/817595/?utm_campaign=817595&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: причиной продолжающегося сбоя в работе сервисов СДЭК может быть вирус-шифровальщик и хакерская атака](https://habr.com/ru/news/817587/?utm_campaign=817587&utm_source=habrahabr&utm_medium=rss)
 - [Южная Корея объявила о пакете поддержки в размере $19 млрд для индустрии микросхем](https://habr.com/ru/news/817583/?utm_campaign=817583&utm_source=habrahabr&utm_medium=rss)
 - [В документации Docker появился ИИ-ассистент](https://habr.com/ru/news/817565/?utm_campaign=817565&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг и российские ИТ-компании разрабатывают «дорожную карту» для развития САПР в микроэлектронике](https://habr.com/ru/news/817551/?utm_campaign=817551&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp работает над опцией генерации фотографий профиля с помощью ИИ](https://habr.com/ru/news/817535/?utm_campaign=817535&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
