@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Windows 11 лучше, чем Windows 10, для сплетен о знаменитостях, виджетов погоды, спорта и акций](https://habr.com/ru/news/817683/?utm_campaign=817683&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс представил YandexGPT 3 Lite](https://habr.com/ru/companies/yandex/news/817545/?utm_campaign=817545&utm_source=habrahabr&utm_medium=rss)
 - [Анонс настольных CPU Ryzen 9000 ожидается в начале июня, новых APU — в августе](https://habr.com/ru/companies/dcmiran/news/817663/?utm_campaign=817663&utm_source=habrahabr&utm_medium=rss)
 - [Вышел первый трейлер космического симулятора Verse Project от российской студии Synthes Games](https://habr.com/ru/news/817661/?utm_campaign=817661&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры атаковали финорганизации с помощью трояна-клона Minesweeper](https://habr.com/ru/news/817641/?utm_campaign=817641&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Минцифры провело ребрендинг сервисов для госслужащих, платформа для коммуникаций получила название «Среда»](https://habr.com/ru/news/817653/?utm_campaign=817653&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
