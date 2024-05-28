@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI создала комитет по безопасности ИИ-проектов и подтвердила, что работает над новой ИИ-моделью](https://habr.com/ru/news/817821/?utm_campaign=817821&utm_source=habrahabr&utm_medium=rss)
 - [Innostage на Positive Hack Days-2: ключевые моменты и итоги киберфестиваля](https://habr.com/ru/companies/innostage/news/817793/?utm_campaign=817793&utm_source=habrahabr&utm_medium=rss)
 - [Solar Staff выделит часть бизнеса под брендом Mellow для продвижения в США, Великобритании и Европе](https://habr.com/ru/news/817775/?utm_campaign=817775&utm_source=habrahabr&utm_medium=rss)
 - [В СДЭК пообещали после масштабного сбоя восстановить выдачу посылок клиентам в ПВЗ «не позднее» 29 мая](https://habr.com/ru/news/817759/?utm_campaign=817759&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты BI.ZONE рассказали о хакерской группировке Sapphire Werewolf и её инструментах кибератак](https://habr.com/ru/news/817753/?utm_campaign=817753&utm_source=habrahabr&utm_medium=rss)
-- [Solar inRights 3.4: повышение эффективности в управлении правами доступа](https://habr.com/ru/companies/solarsecurity/news/817725/?utm_campaign=817725&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
