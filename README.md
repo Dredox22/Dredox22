@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РОЦИТ предложили РКН блокировать доступ не только к сайтам хостинг-провайдеров, а ко всем ресурсам на их серверах](https://habr.com/ru/news/818153/?utm_campaign=818153&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Repo2txt — утилита для сохранения GitHub-репозиториев в виде текстового файла](https://habr.com/ru/news/818151/?utm_campaign=818151&utm_source=habrahabr&utm_medium=rss)
 - [В МЭИ открылась Лаборатория по криптографической защите объектов энергетики](https://habr.com/ru/news/818133/?utm_campaign=818133&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь нашёл способ создавать анимированные иконки для приложений в iOS](https://habr.com/ru/news/818125/?utm_campaign=818125&utm_source=habrahabr&utm_medium=rss)
 - [Apple объявила финалистов премии Design Awards 2024](https://habr.com/ru/news/818103/?utm_campaign=818103&utm_source=habrahabr&utm_medium=rss)
-- [Южнокорейский регулятор проверяет Samsung из-за пострадавших от радиации двух сотрудников фабрики чипов](https://habr.com/ru/news/818091/?utm_campaign=818091&utm_source=habrahabr&utm_medium=rss)
-- [ИТМО и Positive Technologies создали совместную магистратуру по кибербезопасности](https://habr.com/ru/news/818073/?utm_campaign=818073&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
