@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Южнокорейский регулятор проверяет Samsung из-за заражения радиацией двух сотрудников фабрики чипов](https://habr.com/ru/news/818091/?utm_campaign=818091&utm_source=habrahabr&utm_medium=rss)
+- [Apple объявила финалистов премии Design Awards 2024](https://habr.com/ru/news/818103/?utm_campaign=818103&utm_source=habrahabr&utm_medium=rss)
+- [Южнокорейский регулятор проверяет Samsung из-за пострадавших от радиации двух сотрудников фабрики чипов](https://habr.com/ru/news/818091/?utm_campaign=818091&utm_source=habrahabr&utm_medium=rss)
 - [ИТМО и Positive Technologies создали совместную магистратуру по кибербезопасности](https://habr.com/ru/news/818073/?utm_campaign=818073&utm_source=habrahabr&utm_medium=rss)
-- [CДЭК начал выдачу готовых отправлений на всех пунктах выдачи заказов и предупредил клиентов об активации мошенников](https://habr.com/ru/news/818051/?utm_campaign=818051&utm_source=habrahabr&utm_medium=rss)
+- [CДЭК начал выдачу готовых отправлений на всех пунктах выдачи заказов и предупредил клиентов об активизации мошенников](https://habr.com/ru/news/818051/?utm_campaign=818051&utm_source=habrahabr&utm_medium=rss)
 - [В России запустят программу цифровой грамотности граждан](https://habr.com/ru/news/818033/?utm_campaign=818033&utm_source=habrahabr&utm_medium=rss)
-- [ВТБ на Data Fest 2024](https://habr.com/ru/companies/vtb/news/818017/?utm_campaign=818017&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
