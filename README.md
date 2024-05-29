@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [JFrog и GitHub объявили о партнёрстве и тесной интеграции исходного кода и бинарных платформ](https://habr.com/ru/news/818171/?utm_campaign=818171&utm_source=habrahabr&utm_medium=rss)
 - [Huawei запатентовала технологию производства чипов 3 нм методом SAQP](https://habr.com/ru/news/818159/?utm_campaign=818159&utm_source=habrahabr&utm_medium=rss)
 - [В РОЦИТ предложили РКН блокировать доступ не только к сайтам хостинг-провайдеров, а ко всем ресурсам на их серверах](https://habr.com/ru/news/818153/?utm_campaign=818153&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Repo2txt — утилита для сохранения GitHub-репозиториев в виде текстового файла](https://habr.com/ru/news/818151/?utm_campaign=818151&utm_source=habrahabr&utm_medium=rss)
 - [В МЭИ открылась Лаборатория по криптографической защите объектов энергетики](https://habr.com/ru/news/818133/?utm_campaign=818133&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь нашёл способ создавать анимированные иконки для приложений в iOS](https://habr.com/ru/news/818125/?utm_campaign=818125&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
