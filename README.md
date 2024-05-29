@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft сделала загрузку меню «Основные элементы браузера» в Edge быстрее на 42%](https://habr.com/ru/news/817941/?utm_campaign=817941&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Образование» запустит с сентября 2024 года единые программы для студентов‑разработчиков в 19 российских вузах](https://habr.com/ru/news/817953/?utm_campaign=817953&utm_source=habrahabr&utm_medium=rss)
 - [Google отказалась комментировать утечку документации поискового алгоритма](https://habr.com/ru/news/817919/?utm_campaign=817919&utm_source=habrahabr&utm_medium=rss)
-- [PayPal планирует запустить рекламную сеть, основанную на истории покупок пользователей](https://habr.com/ru/companies/bothub/news/817915/?utm_campaign=817915&utm_source=habrahabr&utm_medium=rss)
+- [PayPal планирует запустить рекламную сеть, основанную на данных пользователей](https://habr.com/ru/companies/bothub/news/817915/?utm_campaign=817915&utm_source=habrahabr&utm_medium=rss)
 - [Сайт СДЭК частично возобновил работу после масштабного сбоя](https://habr.com/ru/news/817913/?utm_campaign=817913&utm_source=habrahabr&utm_medium=rss)
-- [Ушедший из OpenAI руководитель отдела разработки ИИ Ян Лейке вышел на работу в ИИ-стартап Anthropic](https://habr.com/ru/news/817909/?utm_campaign=817909&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft вернёт поддержку приложений Android в Windows 11 для клиентов в Китае](https://habr.com/ru/news/817897/?utm_campaign=817897&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
