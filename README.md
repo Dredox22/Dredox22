@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CДЭК начал выдачу готовых отправлений на всех пунктах выдачи заказов и предупредил клиентов об активации мошенников](https://habr.com/ru/news/818051/?utm_campaign=818051&utm_source=habrahabr&utm_medium=rss)
 - [В России запустят программу цифровой грамотности граждан](https://habr.com/ru/news/818033/?utm_campaign=818033&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ на Data Fest 2024](https://habr.com/ru/companies/vtb/news/818017/?utm_campaign=818017&utm_source=habrahabr&utm_medium=rss)
 - [Internet Archive с 26 мая отражает DDoS-атаки](https://habr.com/ru/news/818005/?utm_campaign=818005&utm_source=habrahabr&utm_medium=rss)
 - [НИЯУ МИФИ в новом учебном году откроет две новых программы: по ИИ и науке о данных](https://habr.com/ru/news/817997/?utm_campaign=817997&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сделала загрузку меню «Основные элементы браузера» в Edge быстрее на 42%](https://habr.com/ru/news/817941/?utm_campaign=817941&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
