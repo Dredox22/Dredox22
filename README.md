@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России запустят программу цифровой грамотности граждан](https://habr.com/ru/news/818033/?utm_campaign=818033&utm_source=habrahabr&utm_medium=rss)
+- [ВТБ на Data Fest 2024](https://habr.com/ru/companies/vtb/news/818017/?utm_campaign=818017&utm_source=habrahabr&utm_medium=rss)
+- [Internet Archive с 26 мая отражает DDoS-атаки](https://habr.com/ru/news/818005/?utm_campaign=818005&utm_source=habrahabr&utm_medium=rss)
 - [НИЯУ МИФИ в новом учебном году откроет две новых программы: по ИИ и науке о данных](https://habr.com/ru/news/817997/?utm_campaign=817997&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сделала загрузку меню «Основные элементы браузера» в Edge быстрее на 42%](https://habr.com/ru/news/817941/?utm_campaign=817941&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Образование» запустит с сентября 2024 года единые программы для студентов‑разработчиков в 19 российских вузах](https://habr.com/ru/news/817953/?utm_campaign=817953&utm_source=habrahabr&utm_medium=rss)
-- [Google отказалась комментировать утечку документации поискового алгоритма](https://habr.com/ru/news/817919/?utm_campaign=817919&utm_source=habrahabr&utm_medium=rss)
-- [PayPal планирует запустить рекламную сеть, основанную на данных пользователей](https://habr.com/ru/companies/bothub/news/817915/?utm_campaign=817915&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
