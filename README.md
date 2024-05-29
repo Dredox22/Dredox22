@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft вернёт поддержку приложений Android в Windows 11 для клиентов в Китае](https://habr.com/ru/news/817897/?utm_campaign=817897&utm_source=habrahabr&utm_medium=rss)
+- [Nomad выпустила карту для отслеживания кошельков](https://habr.com/ru/news/817893/?utm_campaign=817893&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Роскомнадзор не получал уведомлений от СДЭК о возможной утечке данных клиентов компании](https://habr.com/ru/news/817855/?utm_campaign=817855&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Gemini появится в браузере Opera One](https://habr.com/ru/news/817853/?utm_campaign=817853&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Outlook Lite для Android появилась поддержка SMS](https://habr.com/ru/news/817845/?utm_campaign=817845&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупреждает о группе киберпреступников, нацеленных на подарочные карты](https://habr.com/ru/news/817831/?utm_campaign=817831&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI создала комитет по безопасности ИИ-проектов и подтвердила, что работает над новой ИИ-моделью](https://habr.com/ru/news/817821/?utm_campaign=817821&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
