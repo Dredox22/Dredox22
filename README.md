@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAi Анонсировали новый ChatGPT Edu, созданный специально для учебы](https://habr.com/ru/news/818511/?utm_campaign=818511&utm_source=habrahabr&utm_medium=rss)
+- [Mistral AI выпустила Codestral — модель машинного обучения для генерации кода](https://habr.com/ru/news/818503/?utm_campaign=818503&utm_source=habrahabr&utm_medium=rss)
 - [Sony разрабатывает адаптер для подключения VR-шлема PlayStation VR2 к ПК](https://habr.com/ru/news/818491/?utm_campaign=818491&utm_source=habrahabr&utm_medium=rss)
 - [Эксперимент по маркировке смартфонов и ноутбуков пройдёт в России с 10 июня 2024 года по 30 апреля 2025 года](https://habr.com/ru/news/818487/?utm_campaign=818487&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обеспокоена будущим партнёрством по ИИ-проектам между OpenAI и Apple](https://habr.com/ru/news/818475/?utm_campaign=818475&utm_source=habrahabr&utm_medium=rss)
-- [Cooler Master пострадала от утечки данных, раскрывающей информацию о клиентах](https://habr.com/ru/news/818467/?utm_campaign=818467&utm_source=habrahabr&utm_medium=rss)
-- [В Китае представили AR-смартфон Beam Pro без поддержки SIM-карты](https://habr.com/ru/news/818459/?utm_campaign=818459&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
