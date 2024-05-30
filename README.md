@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Организация развития видеоигровой индустрии готовит к запуску проект по маркировке видеоигр](https://habr.com/ru/news/818325/?utm_campaign=818325&utm_source=habrahabr&utm_medium=rss)
+- [Кастомные чат-боты GPTs стали доступны в бесплатном тарифе ChatGPT](https://habr.com/ru/news/818305/?utm_campaign=818305&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Apache NetBeans 22](https://habr.com/ru/news/818297/?utm_campaign=818297&utm_source=habrahabr&utm_medium=rss)
 - [Google подтвердила утечку документации по поисковому алгоритму](https://habr.com/ru/news/818293/?utm_campaign=818293&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный прокси к Docker Hub](https://habr.com/ru/companies/timeweb/news/818291/?utm_campaign=818291&utm_source=habrahabr&utm_medium=rss)
-- [Гибридное облако и безопасность данных. Тренды IT-инфраструктуры в 2024 году](https://habr.com/ru/companies/selectel/news/818269/?utm_campaign=818269&utm_source=habrahabr&utm_medium=rss)
-- [В Яндексе стартует открытый Лекторий летних школ](https://habr.com/ru/companies/yandex/news/818267/?utm_campaign=818267&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
