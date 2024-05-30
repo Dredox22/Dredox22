@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PAM или пропал: как обеспечить эффективное управление привилегированным доступом для защиты КИИ](https://habr.com/ru/companies/ussc/news/818193/?utm_campaign=818193&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики фотопроекта Halide выпустили Kino — профессиональное iOS-приложение для записи видео](https://habr.com/ru/news/818175/?utm_campaign=818175&utm_source=habrahabr&utm_medium=rss)
 - [JFrog и GitHub объявили о партнёрстве и тесной интеграции исходного кода и бинарных платформ](https://habr.com/ru/news/818171/?utm_campaign=818171&utm_source=habrahabr&utm_medium=rss)
 - [Huawei запатентовала технологию производства чипов 3 нм методом SAQP](https://habr.com/ru/news/818159/?utm_campaign=818159&utm_source=habrahabr&utm_medium=rss)
 - [В РОЦИТ предложили РКН блокировать доступ не только к сайтам хостинг-провайдеров, а ко всем ресурсам на их серверах](https://habr.com/ru/news/818153/?utm_campaign=818153&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Repo2txt — утилита для сохранения GitHub-репозиториев в виде текстового файла](https://habr.com/ru/news/818151/?utm_campaign=818151&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
