@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft обеспокоена будущим партнёрством по ИИ-проектам между OpenAI и Apple](https://habr.com/ru/news/818475/?utm_campaign=818475&utm_source=habrahabr&utm_medium=rss)
 - [Cooler Master пострадала от утечки данных, раскрывающей информацию о клиентах](https://habr.com/ru/news/818467/?utm_campaign=818467&utm_source=habrahabr&utm_medium=rss)
 - [В Китае представили AR-смартфон Beam Pro без поддержки SIM-карты](https://habr.com/ru/news/818459/?utm_campaign=818459&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-серверы Apple будут использовать методы «конфиденциальных вычислений» для обработки данных](https://habr.com/ru/news/818457/?utm_campaign=818457&utm_source=habrahabr&utm_medium=rss)
 - [НСПК разрабатывает единую платформу биометрических сервисов](https://habr.com/ru/news/818453/?utm_campaign=818453&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 24H2 разрывает соединение с некоторыми сторонними NAS с SMB](https://habr.com/ru/news/818451/?utm_campaign=818451&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
