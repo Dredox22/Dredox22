@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ru-Center: у администраторов доменов всего 9% крупнейших компаний России действует двухфакторная аутентификация](https://habr.com/ru/news/818233/?utm_campaign=818233&utm_source=habrahabr&utm_medium=rss)
-- [Вышли обновления Guardant SLK 3.29](https://habr.com/ru/companies/aktiv-company/news/818221/?utm_campaign=818221&utm_source=habrahabr&utm_medium=rss)
-- [PAM или пропал: как обеспечить эффективное управление привилегированным доступом для защиты КИИ](https://habr.com/ru/companies/ussc/news/818193/?utm_campaign=818193&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики фотопроекта Halide выпустили Kino — профессиональное iOS-приложение для записи видео](https://habr.com/ru/news/818175/?utm_campaign=818175&utm_source=habrahabr&utm_medium=rss)
-- [JFrog и GitHub объявили о партнёрстве и тесной интеграции исходного кода и бинарных платформ](https://habr.com/ru/news/818171/?utm_campaign=818171&utm_source=habrahabr&utm_medium=rss)
+- [Вышла интегрированная среда разработки Apache NetBeans 22](https://habr.com/ru/news/818297/?utm_campaign=818297&utm_source=habrahabr&utm_medium=rss)
+- [Google подтвердила утечку документации по поисковому алгоритму](https://habr.com/ru/news/818293/?utm_campaign=818293&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатный прокси к Docker Hub](https://habr.com/ru/companies/timeweb/news/818291/?utm_campaign=818291&utm_source=habrahabr&utm_medium=rss)
+- [Гибридное облако и безопасность данных. Тренды IT-инфраструктуры в 2024 году](https://habr.com/ru/companies/selectel/news/818269/?utm_campaign=818269&utm_source=habrahabr&utm_medium=rss)
+- [В Яндексе стартует открытый Лекторий летних школ](https://habr.com/ru/companies/yandex/news/818267/?utm_campaign=818267&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
