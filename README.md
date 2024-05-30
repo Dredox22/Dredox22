@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженер помог восстановить пароль от криптокошелька с 43,6 биткойнами, который был утерян в 2013 году](https://habr.com/ru/news/818415/?utm_campaign=818415&utm_source=habrahabr&utm_medium=rss)
 - [Apple ищет разработчиков для создания приложения Apple TV на Android](https://habr.com/ru/news/818381/?utm_campaign=818381&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар. Как банки управляют разрозненными данными?](https://habr.com/ru/companies/beeline_cloud/news/818371/?utm_campaign=818371&utm_source=habrahabr&utm_medium=rss)
 - [Check Point штормит](https://habr.com/ru/companies/cyberok/news/818359/?utm_campaign=818359&utm_source=habrahabr&utm_medium=rss)
 - [Организация развития видеоигровой индустрии готовит к запуску проект по маркировке видеоигр](https://habr.com/ru/news/818325/?utm_campaign=818325&utm_source=habrahabr&utm_medium=rss)
-- [Кастомные чат-боты GPTs стали доступны в бесплатном тарифе ChatGPT](https://habr.com/ru/news/818305/?utm_campaign=818305&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
