@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [НСПК разрабатывает единую платформу биометрических сервисов](https://habr.com/ru/news/818453/?utm_campaign=818453&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 24H2 разрывает соединение с некоторыми сторонними NAS с SMB](https://habr.com/ru/news/818451/?utm_campaign=818451&utm_source=habrahabr&utm_medium=rss)
+- [Discord возвращается к игровым корням](https://habr.com/ru/news/818445/?utm_campaign=818445&utm_source=habrahabr&utm_medium=rss)
 - [Docker умер. Да здравствует Docker](https://habr.com/ru/companies/ussc/news/818435/?utm_campaign=818435&utm_source=habrahabr&utm_medium=rss)
 - [Проект tdf &lpar;terminal-based PDF viewer&rpar; позволяет просматривать файлы формата pdf прямо в терминале](https://habr.com/ru/news/818427/?utm_campaign=818427&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из ИТМО разработали рекордно маленький нанолазер для сверхкомпактных чипов](https://habr.com/ru/news/818425/?utm_campaign=818425&utm_source=habrahabr&utm_medium=rss)
-- [Минюст США и ФБР ликвидировали глобальную сеть вредоносного ПО 911 S5, которая привела к краже почти $6 млрд](https://habr.com/ru/news/818423/?utm_campaign=818423&utm_source=habrahabr&utm_medium=rss)
-- [Инженер помог восстановить пароль от криптокошелька с 43,6 биткойнами, который был утерян в 2013 году](https://habr.com/ru/news/818415/?utm_campaign=818415&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
