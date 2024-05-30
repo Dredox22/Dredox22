@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cooler Master пострадала от утечки данных, раскрывающей информацию о клиентах](https://habr.com/ru/news/818467/?utm_campaign=818467&utm_source=habrahabr&utm_medium=rss)
+- [В Китае представили AR-смартфон Beam Pro без поддержки SIM-карты](https://habr.com/ru/news/818459/?utm_campaign=818459&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-серверы Apple будут использовать методы «конфиденциальных вычислений» для обработки данных](https://habr.com/ru/news/818457/?utm_campaign=818457&utm_source=habrahabr&utm_medium=rss)
 - [НСПК разрабатывает единую платформу биометрических сервисов](https://habr.com/ru/news/818453/?utm_campaign=818453&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 24H2 разрывает соединение с некоторыми сторонними NAS с SMB](https://habr.com/ru/news/818451/?utm_campaign=818451&utm_source=habrahabr&utm_medium=rss)
-- [Discord возвращается к игровым корням](https://habr.com/ru/news/818445/?utm_campaign=818445&utm_source=habrahabr&utm_medium=rss)
-- [Docker умер. Да здравствует Docker](https://habr.com/ru/companies/ussc/news/818435/?utm_campaign=818435&utm_source=habrahabr&utm_medium=rss)
-- [Проект tdf &lpar;terminal-based PDF viewer&rpar; позволяет просматривать файлы формата pdf прямо в терминале](https://habr.com/ru/news/818427/?utm_campaign=818427&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
