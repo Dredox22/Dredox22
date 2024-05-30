@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker умер. Да здравствует Docker](https://habr.com/ru/companies/ussc/news/818435/?utm_campaign=818435&utm_source=habrahabr&utm_medium=rss)
+- [Проект tdf &lpar;terminal-based PDF viewer&rpar; позволяет просматривать файлы формата pdf прямо в терминале](https://habr.com/ru/news/818427/?utm_campaign=818427&utm_source=habrahabr&utm_medium=rss)
+- [Учёные из ИТМО разработали рекордно маленький нанолазер для сверхкомпактных чипов](https://habr.com/ru/news/818425/?utm_campaign=818425&utm_source=habrahabr&utm_medium=rss)
+- [Минюст США и ФБР ликвидировали глобальную сеть вредоносного ПО 911 S5, которая привела к краже почти $6 млрд](https://habr.com/ru/news/818423/?utm_campaign=818423&utm_source=habrahabr&utm_medium=rss)
 - [Инженер помог восстановить пароль от криптокошелька с 43,6 биткойнами, который был утерян в 2013 году](https://habr.com/ru/news/818415/?utm_campaign=818415&utm_source=habrahabr&utm_medium=rss)
-- [Apple ищет разработчиков для создания приложения Apple TV на Android](https://habr.com/ru/news/818381/?utm_campaign=818381&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар. Как банки управляют разрозненными данными?](https://habr.com/ru/companies/beeline_cloud/news/818371/?utm_campaign=818371&utm_source=habrahabr&utm_medium=rss)
-- [Check Point штормит](https://habr.com/ru/companies/cyberok/news/818359/?utm_campaign=818359&utm_source=habrahabr&utm_medium=rss)
-- [Организация развития видеоигровой индустрии готовит к запуску проект по маркировке видеоигр](https://habr.com/ru/news/818325/?utm_campaign=818325&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
