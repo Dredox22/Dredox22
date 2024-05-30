@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony разрабатывает адаптер для подключения VR-шлема PlayStation VR2 к ПК](https://habr.com/ru/news/818491/?utm_campaign=818491&utm_source=habrahabr&utm_medium=rss)
+- [Эксперимент по маркировке смартфонов и ноутбуков пройдёт в России с 10 июня 2024 года по 30 апреля 2025 года](https://habr.com/ru/news/818487/?utm_campaign=818487&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обеспокоена будущим партнёрством по ИИ-проектам между OpenAI и Apple](https://habr.com/ru/news/818475/?utm_campaign=818475&utm_source=habrahabr&utm_medium=rss)
 - [Cooler Master пострадала от утечки данных, раскрывающей информацию о клиентах](https://habr.com/ru/news/818467/?utm_campaign=818467&utm_source=habrahabr&utm_medium=rss)
 - [В Китае представили AR-смартфон Beam Pro без поддержки SIM-карты](https://habr.com/ru/news/818459/?utm_campaign=818459&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-серверы Apple будут использовать методы «конфиденциальных вычислений» для обработки данных](https://habr.com/ru/news/818457/?utm_campaign=818457&utm_source=habrahabr&utm_medium=rss)
-- [НСПК разрабатывает единую платформу биометрических сервисов](https://habr.com/ru/news/818453/?utm_campaign=818453&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
