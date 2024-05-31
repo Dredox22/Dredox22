@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google объяснила, почему нейросеть Gemini советовала использовать клей для пиццы и есть камни](https://habr.com/ru/news/818731/?utm_campaign=818731&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wayland 1.23](https://habr.com/ru/news/818729/?utm_campaign=818729&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies сообщила о 10 популярных техник атак, используемых вредоносным ПО в России](https://habr.com/ru/news/818717/?utm_campaign=818717&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи пожаловались на запрет строить базовые станции вблизи жилых домов](https://habr.com/ru/news/818715/?utm_campaign=818715&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: хакеры переключились с краж персональных данных на коммерческую тайну](https://habr.com/ru/news/818701/?utm_campaign=818701&utm_source=habrahabr&utm_medium=rss)
-- [СДЭК восстановил возможность отслеживать посылки на сайте](https://habr.com/ru/news/818671/?utm_campaign=818671&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
