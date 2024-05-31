@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Wayland 1.23](https://habr.com/ru/news/818729/?utm_campaign=818729&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies сообщила о 10 популярных техник атак, используемых вредоносным ПО в России](https://habr.com/ru/news/818717/?utm_campaign=818717&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи пожаловались на запрет строить базовые станции вблизи жилых домов](https://habr.com/ru/news/818715/?utm_campaign=818715&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: хакеры переключились с краж персональных данных на коммерческую тайну](https://habr.com/ru/news/818701/?utm_campaign=818701&utm_source=habrahabr&utm_medium=rss)
 - [СДЭК восстановил возможность отслеживать посылки на сайте](https://habr.com/ru/news/818671/?utm_campaign=818671&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс объявил победителей Программы грантов Yandex Open Source](https://habr.com/ru/companies/yandex/news/818611/?utm_campaign=818611&utm_source=habrahabr&utm_medium=rss)
-- [«Тинькофф» разработал собственное ПО для банкоматов на Linux](https://habr.com/ru/news/818657/?utm_campaign=818657&utm_source=habrahabr&utm_medium=rss)
-- [Хакатон для ИТ-архитекторов](https://habr.com/ru/companies/vtb/news/818589/?utm_campaign=818589&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
