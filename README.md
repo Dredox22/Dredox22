@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СДЭК с 1 июня возобновит прием отправлений во всех ПВЗ](https://habr.com/ru/news/818763/?utm_campaign=818763&utm_source=habrahabr&utm_medium=rss)
+- [Вышла 11-я платформа от «Базальт СПО» — новая стабильная ветка репозиториев ALT &lpar;p11, кодовое имя Salvia — Шалфей&rpar;](https://habr.com/ru/news/818757/?utm_campaign=818757&utm_source=habrahabr&utm_medium=rss)
 - [Sightful анонсировала новую версию ноутбука, работающий в режиме дополненной реальности с AR-гарнитурой Spacetop G1](https://habr.com/ru/news/818745/?utm_campaign=818745&utm_source=habrahabr&utm_medium=rss)
 - [Google объяснила, почему нейросеть Gemini советовала использовать клей для пиццы и есть камни](https://habr.com/ru/news/818731/?utm_campaign=818731&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wayland 1.23](https://habr.com/ru/news/818729/?utm_campaign=818729&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies сообщила о 10 популярных техник атак, используемых вредоносным ПО в России](https://habr.com/ru/news/818717/?utm_campaign=818717&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи пожаловались на запрет строить базовые станции вблизи жилых домов](https://habr.com/ru/news/818715/?utm_campaign=818715&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
