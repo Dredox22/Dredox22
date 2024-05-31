@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СДЭК восстановил возможность отслеживать посылки на сайте](https://habr.com/ru/news/818671/?utm_campaign=818671&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс объявил победителей Программы грантов Yandex Open Source](https://habr.com/ru/companies/yandex/news/818611/?utm_campaign=818611&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф» разработал собственное ПО для банкоматов на Linux](https://habr.com/ru/news/818657/?utm_campaign=818657&utm_source=habrahabr&utm_medium=rss)
 - [Хакатон для ИТ-архитекторов](https://habr.com/ru/companies/vtb/news/818589/?utm_campaign=818589&utm_source=habrahabr&utm_medium=rss)
 - [Записи голосов россиян после их смерти предлагается использовать в общественных интересах без согласия родственников](https://habr.com/ru/news/818617/?utm_campaign=818617&utm_source=habrahabr&utm_medium=rss)
-- [Япония сделает все научные исследования открытыми для сообщества](https://habr.com/ru/news/818585/?utm_campaign=818585&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
