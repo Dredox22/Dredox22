@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакатон для ИТ-архитекторов](https://habr.com/ru/companies/vtb/news/818589/?utm_campaign=818589&utm_source=habrahabr&utm_medium=rss)
 - [Записи голосов россиян после их смерти предлагается использовать в общественных интересах без согласия родственников](https://habr.com/ru/news/818617/?utm_campaign=818617&utm_source=habrahabr&utm_medium=rss)
 - [Япония сделает все научные исследования открытыми для сообщества](https://habr.com/ru/news/818585/?utm_campaign=818585&utm_source=habrahabr&utm_medium=rss)
 - [Вышел nginx 1.27.0](https://habr.com/ru/news/818577/?utm_campaign=818577&utm_source=habrahabr&utm_medium=rss)
 - [Ситуация с Greenplum не окажет негативного влияния на развитие Arenadata DB](https://habr.com/ru/companies/arenadata/news/818543/?utm_campaign=818543&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI заявила о пресечении информационных кампаний с помощью её ИИ–технологий](https://habr.com/ru/news/818571/?utm_campaign=818571&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
