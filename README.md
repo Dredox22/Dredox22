@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Подсистема Windows для Linux получит графический интерфейс для настроек памяти и хранилище](https://habr.com/ru/news/818797/?utm_campaign=818797&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносное ПО заблокировало за 72 часа 600 тыс. маршрутизаторов клиентов одного интернет-провайдера в США](https://habr.com/ru/news/818789/?utm_campaign=818789&utm_source=habrahabr&utm_medium=rss)
 - [СДЭК с 1 июня возобновит прием отправлений во всех ПВЗ](https://habr.com/ru/news/818763/?utm_campaign=818763&utm_source=habrahabr&utm_medium=rss)
 - [Вышла 11-я платформа от «Базальт СПО» — новая стабильная ветка репозиториев ALT &lpar;p11, кодовое имя Salvia — Шалфей&rpar;](https://habr.com/ru/news/818757/?utm_campaign=818757&utm_source=habrahabr&utm_medium=rss)
 - [Sightful анонсировала новую версию ноутбука, работающую в режиме дополненной реальности с AR-гарнитурой Spacetop G1](https://habr.com/ru/news/818745/?utm_campaign=818745&utm_source=habrahabr&utm_medium=rss)
-- [Google объяснила, почему нейросеть Gemini советовала использовать клей для пиццы и есть камни](https://habr.com/ru/news/818731/?utm_campaign=818731&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
