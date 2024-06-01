@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Квест для читателей журнала «Хакер» продлён, так как его прошёл пока что один пользователь](https://habr.com/ru/news/818879/?utm_campaign=818879&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» выпустила приложение KVRT для сканирования ПК на Linux на наличие угроз и вредоносов](https://habr.com/ru/news/818869/?utm_campaign=818869&utm_source=habrahabr&utm_medium=rss)
 - [Take-Two планирует продать или закрыть издательство Private Division](https://habr.com/ru/news/818863/?utm_campaign=818863&utm_source=habrahabr&utm_medium=rss)
 - [Precision Neuroscience устанавливает рекорд с 4096 электродами в мозге человека](https://habr.com/ru/news/818815/?utm_campaign=818815&utm_source=habrahabr&utm_medium=rss)
 - [Биометрические карты и кольца, промышленная безопасность и возрождение рунет-экономики: дайджест Онлайн Патента](https://habr.com/ru/companies/onlinepatent/news/818707/?utm_campaign=818707&utm_source=habrahabr&utm_medium=rss)
-- [Хакер показал джейлбрейк Godmode нейросети GPT-4o](https://habr.com/ru/news/818807/?utm_campaign=818807&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
