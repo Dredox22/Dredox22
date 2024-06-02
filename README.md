@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СДЭК: со 2 июня возобновлён приём отправлений курьерами, с оформленными заказами до сбоя всё в порядке](https://habr.com/ru/news/818881/?utm_campaign=818881&utm_source=habrahabr&utm_medium=rss)
+- [Проект Amperage помогает запустить опцию записи действий пользователя Windows Recall на ПК с чипами ARM64](https://habr.com/ru/news/818895/?utm_campaign=818895&utm_source=habrahabr&utm_medium=rss)
+- [СДЭК: со 2 июня возобновлён приём отправлений курьерами, с оформленными до сбоя заказами всё в порядке](https://habr.com/ru/news/818881/?utm_campaign=818881&utm_source=habrahabr&utm_medium=rss)
 - [Квест для читателей журнала «Хакер» продлён, так как его прошёл пока что один пользователь](https://habr.com/ru/news/818879/?utm_campaign=818879&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» выпустила приложение KVRT для сканирования ПК на Linux на наличие угроз и вредоносов](https://habr.com/ru/news/818869/?utm_campaign=818869&utm_source=habrahabr&utm_medium=rss)
 - [Take-Two планирует продать или закрыть издательство Private Division](https://habr.com/ru/news/818863/?utm_campaign=818863&utm_source=habrahabr&utm_medium=rss)
-- [Precision Neuroscience устанавливает рекорд с 4096 электродами в мозге человека](https://habr.com/ru/news/818815/?utm_campaign=818815&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
