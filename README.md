@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» разрабатывает единую нейросеть для речи и текста](https://habr.com/ru/news/819105/?utm_campaign=819105&utm_source=habrahabr&utm_medium=rss)
+- [Производитель «Рикор» запустит производство собственных корпусов для ПК к концу 2024 года](https://habr.com/ru/news/819103/?utm_campaign=819103&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Telegram: сообщения с анимированными эффектами, поиск по хештегам и подписи над файлами](https://habr.com/ru/news/819099/?utm_campaign=819099&utm_source=habrahabr&utm_medium=rss)
 - [Банки оценили перспективы единой биометрической площадки НСПК](https://habr.com/ru/news/819089/?utm_campaign=819089&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на митап в Москве «Инструменты обеспечения безопасной разработки»](https://habr.com/ru/companies/1cupis/news/819077/?utm_campaign=819077&utm_source=habrahabr&utm_medium=rss)
-- [«Бауманка» заявила о выпуске на рынок модуля считывания для сверхпроводниковых квантовых компьютеров](https://habr.com/ru/news/819073/?utm_campaign=819073&utm_source=habrahabr&utm_medium=rss)
-- [«Додо Пицца» подала в суд на Telegram, чтобы получить ник @dodopizza](https://habr.com/ru/news/819049/?utm_campaign=819049&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-функции в iOS 18 будут поддерживать только iPhone 15 Pro и Pro Max](https://habr.com/ru/news/819047/?utm_campaign=819047&utm_source=habrahabr&utm_medium=rss)
+- [Docker Hub разблокировали по геоайпи в России](https://habr.com/ru/news/819081/?utm_campaign=819081&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
