@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia анонсировала ИИ-помощника Project G-Assist для геймеров](https://habr.com/ru/news/818993/?utm_campaign=818993&utm_source=habrahabr&utm_medium=rss)
 - [Ticketmaster подтвердила утечку пользовательских данных через Snowflake](https://habr.com/ru/companies/itsumma/news/818977/?utm_campaign=818977&utm_source=habrahabr&utm_medium=rss)
 - [На выставке COMPUTEX 2024 Nvidia озвучила свои планы на будущее](https://habr.com/ru/news/818969/?utm_campaign=818969&utm_source=habrahabr&utm_medium=rss)
 - [Проект Amperage помогает запустить опцию записи действий пользователя Windows Recall на ПК с чипами ARM64](https://habr.com/ru/news/818895/?utm_campaign=818895&utm_source=habrahabr&utm_medium=rss)
 - [СДЭК: со 2 июня возобновлён приём отправлений курьерами, с оформленными до сбоя заказами всё в порядке](https://habr.com/ru/news/818881/?utm_campaign=818881&utm_source=habrahabr&utm_medium=rss)
-- [Квест для читателей журнала «Хакер» продлён, так как его прошёл пока что один пользователь](https://habr.com/ru/news/818879/?utm_campaign=818879&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
