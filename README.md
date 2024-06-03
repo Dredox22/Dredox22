@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Скетчи Arduino теперь можно запускать одновременно с MicroPython, но только на многоядерных микроконтроллерах](https://habr.com/ru/news/819239/?utm_campaign=819239&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили ToonCrafter — нейросеть для генерации анимационных видео](https://habr.com/ru/news/819185/?utm_campaign=819185&utm_source=habrahabr&utm_medium=rss)
 - [В ЛЭТИ создали прототип резервуарного компьютера для аппаратных нейроморфных вычислений на принципах магноники](https://habr.com/ru/news/819179/?utm_campaign=819179&utm_source=habrahabr&utm_medium=rss)
 - [Репозиторий браузера Supermium на GitHub больше недоступен](https://habr.com/ru/news/819171/?utm_campaign=819171&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/819167/?utm_campaign=819167&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» разрабатывает единую нейросеть для речи и текста](https://habr.com/ru/news/819105/?utm_campaign=819105&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
