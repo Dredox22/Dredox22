@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Банки оценили перспективы единой биометрической площадки НСПК](https://habr.com/ru/news/819089/?utm_campaign=819089&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на митап в Москве «Инструменты обеспечения безопасной разработки»](https://habr.com/ru/companies/1cupis/news/819077/?utm_campaign=819077&utm_source=habrahabr&utm_medium=rss)
 - [«Бауманка» заявила о выпуске на рынок модуля считывания для сверхпроводниковых квантовых компьютеров](https://habr.com/ru/news/819073/?utm_campaign=819073&utm_source=habrahabr&utm_medium=rss)
 - [«Додо Пицца» подала в суд на Telegram, чтобы получить ник @dodopizza](https://habr.com/ru/news/819049/?utm_campaign=819049&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-функции в iOS 18 будут поддерживать только iPhone 15 Pro и Pro Max](https://habr.com/ru/news/819047/?utm_campaign=819047&utm_source=habrahabr&utm_medium=rss)
-- [Сеть продуктовых магазинов «Верный» атаковали хакеры](https://habr.com/ru/news/819039/?utm_campaign=819039&utm_source=habrahabr&utm_medium=rss)
-- [Российские ученые обучили ИИ читать свитки и книги, не раскрывая их](https://habr.com/ru/companies/smartengines/news/819021/?utm_campaign=819021&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
