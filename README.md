@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Додо Пицца» подала в суд на Telegram, чтобы получить ник @dodopizza](https://habr.com/ru/news/819049/?utm_campaign=819049&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-функции в iOS 18 будут поддерживать только iPhone 15 Pro и Pro Max](https://habr.com/ru/news/819047/?utm_campaign=819047&utm_source=habrahabr&utm_medium=rss)
+- [Сеть продуктовых магазинов «Верный» атаковали хакеры](https://habr.com/ru/news/819039/?utm_campaign=819039&utm_source=habrahabr&utm_medium=rss)
 - [Российские ученые обучили ИИ читать свитки и книги, не раскрывая их](https://habr.com/ru/companies/smartengines/news/819021/?utm_campaign=819021&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia анонсировала ИИ-помощника Project G-Assist для геймеров](https://habr.com/ru/news/818993/?utm_campaign=818993&utm_source=habrahabr&utm_medium=rss)
-- [Ticketmaster подтвердила утечку пользовательских данных через Snowflake](https://habr.com/ru/companies/itsumma/news/818977/?utm_campaign=818977&utm_source=habrahabr&utm_medium=rss)
-- [На выставке COMPUTEX 2024 Nvidia озвучила свои планы на будущее](https://habr.com/ru/news/818969/?utm_campaign=818969&utm_source=habrahabr&utm_medium=rss)
-- [Проект Amperage помогает запустить опцию записи действий пользователя Windows Recall на ПК с чипами ARM64](https://habr.com/ru/news/818895/?utm_campaign=818895&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
