@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT упал](https://habr.com/ru/companies/bothub/news/819347/?utm_campaign=819347&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: после сбоя в СДЭК информация об отправлениях части клиентов оказалась в открытом доступе](https://habr.com/ru/news/819337/?utm_campaign=819337&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft может отключить установку Copilot+ Recall ​​по умолчанию](https://habr.com/ru/news/819317/?utm_campaign=819317&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm: чипы Snapdragon X Elite появятся во всех типах форм-факторов ПК](https://habr.com/ru/news/819311/?utm_campaign=819311&utm_source=habrahabr&utm_medium=rss)
 - [Avalanche Studios объявила об увольнении 50 сотрудников и закрытии двух офисов](https://habr.com/ru/news/819307/?utm_campaign=819307&utm_source=habrahabr&utm_medium=rss)
-- [В Hugging Face подтвердили взлом платформы Spaces](https://habr.com/ru/news/819301/?utm_campaign=819301&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
