@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратила поддержку графического интерфейса Windows Driver Verifier и удалит его из будущих выпусков Windows](https://habr.com/ru/news/819433/?utm_campaign=819433&utm_source=habrahabr&utm_medium=rss)
+- [ГК InfoWatch будет бесплатно предоставлять свой софт для обучения студентов](https://habr.com/ru/news/819431/?utm_campaign=819431&utm_source=habrahabr&utm_medium=rss)
 - [Российские мощности по производству блоков питания и корпусов для вычислительной техники оказались недозагружены](https://habr.com/ru/news/819403/?utm_campaign=819403&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» представил обновлённую линейку сервисных маршрутизаторов для банков](https://habr.com/ru/news/819397/?utm_campaign=819397&utm_source=habrahabr&utm_medium=rss)
 - [«Роскосмос» обеспокоен нехваткой средств на геостационарные спутники](https://habr.com/ru/news/819381/?utm_campaign=819381&utm_source=habrahabr&utm_medium=rss)
-- [СДЭК опровергла информацию об утечке данных и бэкапах, делающихся раз в полгода](https://habr.com/ru/news/819375/?utm_campaign=819375&utm_source=habrahabr&utm_medium=rss)
-- [Сравни запускает бесплатный онлайн-курс «Дизайн систем машинного обучения»](https://habr.com/ru/companies/sravni/news/819369/?utm_campaign=819369&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
