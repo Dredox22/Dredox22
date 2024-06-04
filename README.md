@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Роскосмос» обеспокоен нехваткой средств на геостационарные спутники](https://habr.com/ru/news/819381/?utm_campaign=819381&utm_source=habrahabr&utm_medium=rss)
+- [СДЭК опровергла информацию об утечке данных и бэкапах, делающихся раз в полгода](https://habr.com/ru/news/819375/?utm_campaign=819375&utm_source=habrahabr&utm_medium=rss)
+- [Сравни запускает бесплатный онлайн-курс «Дизайн систем машинного обучения»](https://habr.com/ru/companies/sravni/news/819369/?utm_campaign=819369&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT упал](https://habr.com/ru/companies/bothub/news/819347/?utm_campaign=819347&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: после сбоя в СДЭК информация об отправлениях части клиентов оказалась в открытом доступе](https://habr.com/ru/news/819337/?utm_campaign=819337&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft может отключить установку Copilot+ Recall ​​по умолчанию](https://habr.com/ru/news/819317/?utm_campaign=819317&utm_source=habrahabr&utm_medium=rss)
-- [Qualcomm: чипы Snapdragon X Elite появятся во всех типах форм-факторов ПК](https://habr.com/ru/news/819311/?utm_campaign=819311&utm_source=habrahabr&utm_medium=rss)
-- [Avalanche Studios объявила об увольнении 50 сотрудников и закрытии двух офисов](https://habr.com/ru/news/819307/?utm_campaign=819307&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
