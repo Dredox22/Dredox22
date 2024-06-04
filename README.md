@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft закрыла в Windows 11 способ создания локальной учётки с помощью несуществующей электронной почты](https://habr.com/ru/news/819539/?utm_campaign=819539&utm_source=habrahabr&utm_medium=rss)
+- [Ретейлер «Верный» после атаки хакеров восстановил безналичную оплату в 75% магазинов торговой сети](https://habr.com/ru/news/819529/?utm_campaign=819529&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla планирует использовать ИИ в Firefox для улучшения доступности](https://habr.com/ru/companies/bothub/news/819517/?utm_campaign=819517&utm_source=habrahabr&utm_medium=rss)
 - [ГК Солар: на московские организации приходится 40% всех DDoS‑атак с начала 2024 года](https://habr.com/ru/news/819501/?utm_campaign=819501&utm_source=habrahabr&utm_medium=rss)
 - [Релиз системы мониторинга Zabbix 7.0 LTS](https://habr.com/ru/news/819463/?utm_campaign=819463&utm_source=habrahabr&utm_medium=rss)
-- [Подводим итоги хакатона X5 Tech AI Hack](https://habr.com/ru/companies/X5Tech/news/819453/?utm_campaign=819453&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила поддержку графического интерфейса Windows Driver Verifier и удалит его из будущих выпусков Windows](https://habr.com/ru/news/819433/?utm_campaign=819433&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
