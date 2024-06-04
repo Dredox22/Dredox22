@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала тестировать функцию Android Device Streaming на базе Firebase](https://habr.com/ru/news/819275/?utm_campaign=819275&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован проект L&lpar;o*62&rpar;.ong для удлинения урлов](https://habr.com/ru/news/819251/?utm_campaign=819251&utm_source=habrahabr&utm_medium=rss)
 - [AMD представила новые Ryzen 9000 и серверные процессоры Turin](https://habr.com/ru/companies/dcmiran/news/819249/?utm_campaign=819249&utm_source=habrahabr&utm_medium=rss)
 - [Скетчи Arduino теперь можно запускать одновременно с MicroPython, но только на многоядерных микроконтроллерах](https://habr.com/ru/news/819239/?utm_campaign=819239&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили ToonCrafter — нейросеть для генерации анимационных видео](https://habr.com/ru/news/819185/?utm_campaign=819185&utm_source=habrahabr&utm_medium=rss)
-- [В ЛЭТИ создали прототип резервуарного компьютера для аппаратных нейроморфных вычислений на принципах магноники](https://habr.com/ru/news/819179/?utm_campaign=819179&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
