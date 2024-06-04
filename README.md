@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз системы мониторинга Zabbix 7.0 LTS](https://habr.com/ru/news/819463/?utm_campaign=819463&utm_source=habrahabr&utm_medium=rss)
 - [Подводим итоги хакатона X5 Tech AI Hack](https://habr.com/ru/companies/X5Tech/news/819453/?utm_campaign=819453&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила поддержку графического интерфейса Windows Driver Verifier и удалит его из будущих выпусков Windows](https://habr.com/ru/news/819433/?utm_campaign=819433&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch будет бесплатно предоставлять свой софт для обучения студентов](https://habr.com/ru/news/819431/?utm_campaign=819431&utm_source=habrahabr&utm_medium=rss)
 - [Российские мощности по производству блоков питания и корпусов для вычислительной техники оказались недозагружены](https://habr.com/ru/news/819403/?utm_campaign=819403&utm_source=habrahabr&utm_medium=rss)
-- [«Росэлектроника» представил обновлённую линейку сервисных маршрутизаторов для банков](https://habr.com/ru/news/819397/?utm_campaign=819397&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
