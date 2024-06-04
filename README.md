@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Avalanche Studios объявила об увольнении 50 сотрудников и закрытии двух офисов](https://habr.com/ru/news/819307/?utm_campaign=819307&utm_source=habrahabr&utm_medium=rss)
+- [В Hugging Face подтвердили взлом платформы Spaces](https://habr.com/ru/news/819301/?utm_campaign=819301&utm_source=habrahabr&utm_medium=rss)
+- [Глава ВАК: ChatGPT надо осторожно использовать при написании диссертаций](https://habr.com/ru/news/819297/?utm_campaign=819297&utm_source=habrahabr&utm_medium=rss)
 - [Google начала тестировать функцию Android Device Streaming на базе Firebase](https://habr.com/ru/news/819275/?utm_campaign=819275&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован проект L&lpar;o*62&rpar;.ong для удлинения урлов](https://habr.com/ru/news/819251/?utm_campaign=819251&utm_source=habrahabr&utm_medium=rss)
-- [AMD представила новые Ryzen 9000 и серверные процессоры Turin](https://habr.com/ru/companies/dcmiran/news/819249/?utm_campaign=819249&utm_source=habrahabr&utm_medium=rss)
-- [Скетчи Arduino теперь можно запускать одновременно с MicroPython, но только на многоядерных микроконтроллерах](https://habr.com/ru/news/819239/?utm_campaign=819239&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили ToonCrafter — нейросеть для генерации анимационных видео](https://habr.com/ru/news/819185/?utm_campaign=819185&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
