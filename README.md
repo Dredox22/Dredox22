@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Важные новости о Stable Diffusion 3 &lpar;SD3&rpar;, назначена дата выхода](https://habr.com/ru/news/819707/?utm_campaign=819707&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом», GS Group и «Аквариус» планируют создать предприятие по производству печатных плат полного цикла](https://habr.com/ru/news/819617/?utm_campaign=819617&utm_source=habrahabr&utm_medium=rss)
 - [AMD запустила программу Bug Bounty с вознаграждением до $30 тысяч](https://habr.com/ru/news/819601/?utm_campaign=819601&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг заказал разработку аналога интегральной схемы Intel](https://habr.com/ru/news/819605/?utm_campaign=819605&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia сделала общедоступным набор инструментов RTX Video SDK](https://habr.com/ru/news/819597/?utm_campaign=819597&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 можно открывать старый проводник без хаков](https://habr.com/ru/news/819587/?utm_campaign=819587&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
