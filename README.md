@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» объявила о проведении хакатона по созданию инклюзивных навыков Алисы](https://habr.com/ru/news/819777/?utm_campaign=819777&utm_source=habrahabr&utm_medium=rss)
 - [Apple и Сэм Альтман: неожиданный союз в погоне за ИИ](https://habr.com/ru/companies/bothub/news/819761/?utm_campaign=819761&utm_source=habrahabr&utm_medium=rss)
 - [Найден самый лучший промт для улучшения качества ответов ChatGPT делающий её научным экспертом](https://habr.com/ru/news/819759/?utm_campaign=819759&utm_source=habrahabr&utm_medium=rss)
 - [Важные новости о Stable Diffusion 3 &lpar;SD3&rpar;, назначена дата выхода](https://habr.com/ru/news/819707/?utm_campaign=819707&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом», GS Group и «Аквариус» планируют создать предприятие по производству печатных плат полного цикла](https://habr.com/ru/news/819617/?utm_campaign=819617&utm_source=habrahabr&utm_medium=rss)
-- [AMD запустила программу Bug Bounty с вознаграждением до $30 тысяч](https://habr.com/ru/news/819601/?utm_campaign=819601&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
