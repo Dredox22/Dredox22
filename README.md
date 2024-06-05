@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD запустила программу Bug Bounty с вознаграждением до $30 тысяч](https://habr.com/ru/news/819601/?utm_campaign=819601&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг заказал разработку аналога интегральной схемы Intel](https://habr.com/ru/news/819605/?utm_campaign=819605&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia сделала общедоступным набор инструментов RTX Video SDK](https://habr.com/ru/news/819597/?utm_campaign=819597&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 можно открывать старый проводник без хаков](https://habr.com/ru/news/819587/?utm_campaign=819587&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники OpenAI и Google DeepMind написали письмо о рисках технологии ИИ](https://habr.com/ru/news/819577/?utm_campaign=819577&utm_source=habrahabr&utm_medium=rss)
-- [В СДЭК подтвердили, что технический сбой в IT-инфрастуктуре компании был вызван внешним воздействием](https://habr.com/ru/news/819569/?utm_campaign=819569&utm_source=habrahabr&utm_medium=rss)
-- [Canonical представила релиз Ubuntu Core 24](https://habr.com/ru/news/819567/?utm_campaign=819567&utm_source=habrahabr&utm_medium=rss)
-- [Apple отказалась выплатить «Лаборатории Касперского» вознаграждение за обнаруженные в 2023 году уязвимости в iOS](https://habr.com/ru/news/819545/?utm_campaign=819545&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрыла в Windows 11 способ создания локальной учётки с помощью несуществующей электронной почты](https://habr.com/ru/news/819539/?utm_campaign=819539&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
