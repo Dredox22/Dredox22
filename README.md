@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Создатели смартфона «Р‑фон» представили планшет «Р‑Таб» на ПМЭФ-2024](https://habr.com/ru/news/820085/?utm_campaign=820085&utm_source=habrahabr&utm_medium=rss)
 - [Nerpa и «Лаборатория Касперского» создали два ПАК для повышения корпоративной кибербезопасности](https://habr.com/ru/news/820069/?utm_campaign=820069&utm_source=habrahabr&utm_medium=rss)
 - [Платформа nanoCAD 24 доступна на ОС Astra Linux, Alt Linux и РЕД ОС](https://habr.com/ru/companies/nanosoft/news/820067/?utm_campaign=820067&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на Lamoda Tech PHP/Go Meetup](https://habr.com/ru/companies/lamoda/news/819985/?utm_campaign=819985&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia выпустила новые версии своих графических драйверов для Windows 7/8](https://habr.com/ru/news/820029/?utm_campaign=820029&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ: в первом квартале 2024 года мошенники пытались украсть у россиян 2 трлн рублей](https://habr.com/ru/news/820025/?utm_campaign=820025&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
