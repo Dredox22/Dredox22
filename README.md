@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Kali Linux 2024.2 с 18 новыми крутыми инструментами и решением Проблемы 2038 года](https://habr.com/ru/news/819975/?utm_campaign=819975&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft планирует добавить новые функции в Windows 10](https://habr.com/ru/news/819967/?utm_campaign=819967&utm_source=habrahabr&utm_medium=rss)
 - [«Рикор» пообещала выпускать по 150-200 тысяч мониторов ежегодно с 2025 года](https://habr.com/ru/news/819951/?utm_campaign=819951&utm_source=habrahabr&utm_medium=rss)
 - [К2Тех и Arenadata: «Ситуация с Greenplum не является неожиданностью»](https://habr.com/ru/companies/k2tech/news/819949/?utm_campaign=819949&utm_source=habrahabr&utm_medium=rss)
 - [«Р7-Офис» стало первым партнёрским нативным приложением для ОС «Роса Мобайл»](https://habr.com/ru/news/819943/?utm_campaign=819943&utm_source=habrahabr&utm_medium=rss)
-- [До конца 2024 года в продажу поступят ноутбуки OSiO с предустановленной OC Astra Linux 1.8](https://habr.com/ru/news/819935/?utm_campaign=819935&utm_source=habrahabr&utm_medium=rss)
-- [Полезный промпт, который превратит ChatGPT в крутого маркетолога](https://habr.com/ru/news/819919/?utm_campaign=819919&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
