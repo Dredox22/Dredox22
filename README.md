@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Полезный промпт, который превратит ChatGPT в крутого маркетолога](https://habr.com/ru/news/819919/?utm_campaign=819919&utm_source=habrahabr&utm_medium=rss)
+- [Наш спутник помог выявить самые слабозащищенные элементы космических систем](https://habr.com/ru/companies/ruvds/news/819883/?utm_campaign=819883&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила поддержку USB4 в Windows 11 с пояснением об ограничении её работы](https://habr.com/ru/news/819895/?utm_campaign=819895&utm_source=habrahabr&utm_medium=rss)
+- [В продаже появился модуль Raspberry Pi AI Kit](https://habr.com/ru/news/819891/?utm_campaign=819891&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Kali Linux 2024.2](https://habr.com/ru/news/819881/?utm_campaign=819881&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала первую бета-версию Windows 10 с 2021 года](https://habr.com/ru/news/819871/?utm_campaign=819871&utm_source=habrahabr&utm_medium=rss)
-- [«Тетрису» исполнилось 40 лет](https://habr.com/ru/news/819865/?utm_campaign=819865&utm_source=habrahabr&utm_medium=rss)
-- [Humane попросила клиентов перестать использовать фирменный чехол для подзарядки устройства AI Pin из-за риска возгорания](https://habr.com/ru/news/819857/?utm_campaign=819857&utm_source=habrahabr&utm_medium=rss)
-- [Stability AI опубликовала открытую модель Stable Audio для генерации музыки](https://habr.com/ru/news/819823/?utm_campaign=819823&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
