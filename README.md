@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла Kali Linux 2024.2 с 18 новыми крутыми инструментами и решением Проблемы 2038 года](https://habr.com/ru/news/819975/?utm_campaign=819975&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует добавить новые функции в Windows 10](https://habr.com/ru/news/819967/?utm_campaign=819967&utm_source=habrahabr&utm_medium=rss)
-- [«Рикор» пообещала выпускать по 150-200 тысяч мониторов ежегодно с 2025 года](https://habr.com/ru/news/819951/?utm_campaign=819951&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех и Arenadata: «Ситуация с Greenplum не является неожиданностью»](https://habr.com/ru/companies/k2tech/news/819949/?utm_campaign=819949&utm_source=habrahabr&utm_medium=rss)
-- [«Р7-Офис» стало первым партнёрским нативным приложением для ОС «Роса Мобайл»](https://habr.com/ru/news/819943/?utm_campaign=819943&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ: в первом квартале 2024 года мошенники пытались украсть у россиян 2 трлн рублей](https://habr.com/ru/news/820025/?utm_campaign=820025&utm_source=habrahabr&utm_medium=rss)
+- [Рейтинг 20 крупнейших IT-компаний России по итогам 2023 года](https://habr.com/ru/news/819991/?utm_campaign=819991&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры по рекомендации ФАС планирует ввести межрегиональный перенос номера от оператора к оператору](https://habr.com/ru/news/820013/?utm_campaign=820013&utm_source=habrahabr&utm_medium=rss)
+- [Россия запустит шесть новых спутников связи в 2028-2030 годах и семь спутников интернета вещей до 2026 года](https://habr.com/ru/news/820009/?utm_campaign=820009&utm_source=habrahabr&utm_medium=rss)
+- [В Университете Лобачевского открыли первую в РФ кафедру киберпсихологии](https://habr.com/ru/news/819989/?utm_campaign=819989&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
