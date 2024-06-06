@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Тетрису» исполнилось 40 лет](https://habr.com/ru/news/819865/?utm_campaign=819865&utm_source=habrahabr&utm_medium=rss)
 - [Humane попросила клиентов перестать использовать фирменный чехол для подзарядки устройства AI Pin из-за риска возгорания](https://habr.com/ru/news/819857/?utm_campaign=819857&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI опубликовала открытую модель Stable Audio для генерации музыки](https://habr.com/ru/news/819823/?utm_campaign=819823&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» объявил о проведении хакатона по созданию инклюзивных навыков Алисы](https://habr.com/ru/news/819777/?utm_campaign=819777&utm_source=habrahabr&utm_medium=rss)
 - [Apple и Сэм Альтман: неожиданный союз в погоне за ИИ](https://habr.com/ru/companies/bothub/news/819761/?utm_campaign=819761&utm_source=habrahabr&utm_medium=rss)
-- [Найден самый лучший промт для улучшения качества ответов ChatGPT делающий её научным экспертом](https://habr.com/ru/news/819759/?utm_campaign=819759&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
