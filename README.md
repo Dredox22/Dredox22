@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Павел Дуров представил «Звёзды» — внутреннюю валюту Telegram](https://habr.com/ru/news/820115/?utm_campaign=820115&utm_source=habrahabr&utm_medium=rss)
 - [ИИ может столкнуться с дефицитом данных с 2026 г. по 2032 г](https://habr.com/ru/companies/bothub/news/820101/?utm_campaign=820101&utm_source=habrahabr&utm_medium=rss)
 - [Создатели смартфона «Р‑фон» представили планшет «Р‑Таб» на ПМЭФ-2024](https://habr.com/ru/news/820085/?utm_campaign=820085&utm_source=habrahabr&utm_medium=rss)
 - [Nerpa и «Лаборатория Касперского» создали два ПАК для повышения корпоративной кибербезопасности](https://habr.com/ru/news/820069/?utm_campaign=820069&utm_source=habrahabr&utm_medium=rss)
 - [Платформа nanoCAD 24 доступна на ОС Astra Linux, Alt Linux и РЕД ОС](https://habr.com/ru/companies/nanosoft/news/820067/?utm_campaign=820067&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на Lamoda Tech PHP/Go Meetup](https://habr.com/ru/companies/lamoda/news/819985/?utm_campaign=819985&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
