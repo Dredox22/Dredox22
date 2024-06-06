@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Рикор» пообещала выпускать по 150-200 тысяч мониторов ежегодно с 2025 года](https://habr.com/ru/news/819951/?utm_campaign=819951&utm_source=habrahabr&utm_medium=rss)
+- [К2Тех и Arenadata: «Ситуация с Greenplum не является неожиданностью»](https://habr.com/ru/companies/k2tech/news/819949/?utm_campaign=819949&utm_source=habrahabr&utm_medium=rss)
+- [«Р7-Офис» стало первым партнёрским нативным приложением для ОС «Роса Мобайл»](https://habr.com/ru/news/819943/?utm_campaign=819943&utm_source=habrahabr&utm_medium=rss)
+- [До конца 2024 года в продажу поступят ноутбуки OSiO с предустановленной OC Astra Linux 1.8](https://habr.com/ru/news/819935/?utm_campaign=819935&utm_source=habrahabr&utm_medium=rss)
 - [Полезный промпт, который превратит ChatGPT в крутого маркетолога](https://habr.com/ru/news/819919/?utm_campaign=819919&utm_source=habrahabr&utm_medium=rss)
-- [Наш спутник помог выявить самые слабозащищенные элементы космических систем](https://habr.com/ru/companies/ruvds/news/819883/?utm_campaign=819883&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила поддержку USB4 в Windows 11 с пояснением об ограничении её работы](https://habr.com/ru/news/819895/?utm_campaign=819895&utm_source=habrahabr&utm_medium=rss)
-- [В продаже появился модуль Raspberry Pi AI Kit](https://habr.com/ru/news/819891/?utm_campaign=819891&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Kali Linux 2024.2](https://habr.com/ru/news/819881/?utm_campaign=819881&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
