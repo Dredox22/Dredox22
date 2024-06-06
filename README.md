@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на Lamoda Tech PHP/Go Meetup](https://habr.com/ru/companies/lamoda/news/819985/?utm_campaign=819985&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia выпустила новые версии своих графических драйверов для Windows 7/8](https://habr.com/ru/news/820029/?utm_campaign=820029&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ: в первом квартале 2024 года мошенники пытались украсть у россиян 2 трлн рублей](https://habr.com/ru/news/820025/?utm_campaign=820025&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг 20 крупнейших IT-компаний России по итогам 2023 года](https://habr.com/ru/news/819991/?utm_campaign=819991&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры по рекомендации ФАС планирует ввести межрегиональный перенос номера от оператора к оператору](https://habr.com/ru/news/820013/?utm_campaign=820013&utm_source=habrahabr&utm_medium=rss)
-- [Россия запустит шесть новых спутников связи в 2028-2030 годах и семь спутников интернета вещей до 2026 года](https://habr.com/ru/news/820009/?utm_campaign=820009&utm_source=habrahabr&utm_medium=rss)
-- [В Университете Лобачевского открыли первую в РФ кафедру киберпсихологии](https://habr.com/ru/news/819989/?utm_campaign=819989&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
