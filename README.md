@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс представил новую версию машинного перевода, обученную с помощью YandexGPT](https://habr.com/ru/companies/yandex/news/820185/?utm_campaign=820185&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft ответила на вопросы по безопасности и конфиденциальности в Windows 11 Recall](https://habr.com/ru/news/820187/?utm_campaign=820187&utm_source=habrahabr&utm_medium=rss)
+- [Telegram запустил Telegram Stars](https://habr.com/ru/news/820163/?utm_campaign=820163&utm_source=habrahabr&utm_medium=rss)
 - [Google Карты будут хранить историю местоположений на устройстве пользователя](https://habr.com/ru/news/820157/?utm_campaign=820157&utm_source=habrahabr&utm_medium=rss)
 - [Студия Believer Entertainment открыла исходный код инструмента для тестирования игр Friendshipper](https://habr.com/ru/news/820155/?utm_campaign=820155&utm_source=habrahabr&utm_medium=rss)
-- [Глава «Т-Мобайла» рассказал о конкуренции виртуальных мобильных операторов связи с «большой четвёркой»](https://habr.com/ru/news/820143/?utm_campaign=820143&utm_source=habrahabr&utm_medium=rss)
-- [«Элемент» начнёт производить комплектующие для электромобиля «Атом»](https://habr.com/ru/news/820137/?utm_campaign=820137&utm_source=habrahabr&utm_medium=rss)
-- [Qwen2 — самый мощный релиз открытых LLM со времен Llama 3](https://habr.com/ru/news/820119/?utm_campaign=820119&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
