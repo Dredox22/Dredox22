@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Leica позволяет iPhone имитировать камеры и классические объективы](https://habr.com/ru/news/820245/?utm_campaign=820245&utm_source=habrahabr&utm_medium=rss)
+- [«ЦСР „Северо‑Запад“» и Positive Technologies представили исследование по дефициту кадров на рынке кибербеза РФ](https://habr.com/ru/news/820237/?utm_campaign=820237&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Солар» вошла в топ-5 европейских сервис-провайдеров кибербезопасности](https://habr.com/ru/news/820233/?utm_campaign=820233&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс представил новую версию машинного перевода, обученную с помощью YandexGPT](https://habr.com/ru/companies/yandex/news/820185/?utm_campaign=820185&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft ответила на вопросы по безопасности и конфиденциальности в Windows 11 Recall](https://habr.com/ru/news/820187/?utm_campaign=820187&utm_source=habrahabr&utm_medium=rss)
-- [Telegram запустил Telegram Stars](https://habr.com/ru/news/820163/?utm_campaign=820163&utm_source=habrahabr&utm_medium=rss)
-- [Google Карты будут хранить историю местоположений на устройстве пользователя](https://habr.com/ru/news/820157/?utm_campaign=820157&utm_source=habrahabr&utm_medium=rss)
-- [Студия Believer Entertainment открыла исходный код инструмента для тестирования игр Friendshipper](https://habr.com/ru/news/820155/?utm_campaign=820155&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
