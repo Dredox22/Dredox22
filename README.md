@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Элемент» начнёт производить комплектующие для электромобиля «Атом»](https://habr.com/ru/news/820137/?utm_campaign=820137&utm_source=habrahabr&utm_medium=rss)
 - [Qwen2 — самый мощный релиз открытых LLM со времен Llama 3](https://habr.com/ru/news/820119/?utm_campaign=820119&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров представил «Звёзды» — внутреннюю валюту Telegram](https://habr.com/ru/news/820115/?utm_campaign=820115&utm_source=habrahabr&utm_medium=rss)
 - [ИИ может столкнуться с дефицитом данных с 2026 г. по 2032 г](https://habr.com/ru/companies/bothub/news/820101/?utm_campaign=820101&utm_source=habrahabr&utm_medium=rss)
 - [Создатели смартфона «Р‑фон» представили планшет «Р‑Таб» на ПМЭФ-2024](https://habr.com/ru/news/820085/?utm_campaign=820085&utm_source=habrahabr&utm_medium=rss)
-- [Nerpa и «Лаборатория Касперского» создали два ПАК для повышения корпоративной кибербезопасности](https://habr.com/ru/news/820069/?utm_campaign=820069&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
