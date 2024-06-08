@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Контроль осанки от Apple, рейтинг университетов и суд на опережение: дайджест главных новостей](https://habr.com/ru/companies/onlinepatent/news/820297/?utm_campaign=820297&utm_source=habrahabr&utm_medium=rss)
 - [Представлен первый кинематографический трейлер Sid Meier&#39;s Civilization VII](https://habr.com/ru/news/820365/?utm_campaign=820365&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Элемент» и «ЛЭТИ» создали совместное предприятие по разработке силовых приборов и оптических генераторов сигнала](https://habr.com/ru/news/820323/?utm_campaign=820323&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор опубликовал в RuStore инструмент «ПроСеть» — мобильный аналог сервиса SpeedTest](https://habr.com/ru/news/820313/?utm_campaign=820313&utm_source=habrahabr&utm_medium=rss)
 - [Из-за «неприемлемо высоких» комиссий eBay перестанет принимать карты American Express](https://habr.com/ru/news/820273/?utm_campaign=820273&utm_source=habrahabr&utm_medium=rss)
-- [На ПМЭФ-2024 показали человекоподобного робота Женю, отвечающего на вопросы по ЖКХ](https://habr.com/ru/news/820251/?utm_campaign=820251&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
