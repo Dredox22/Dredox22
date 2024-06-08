@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Массовый сбой в Telegram мессенджер уже не работает более получаса](https://habr.com/ru/news/820449/?utm_campaign=820449&utm_source=habrahabr&utm_medium=rss)
-- [В работе Telegram произошел глобальный сбой](https://habr.com/ru/news/820447/?utm_campaign=820447&utm_source=habrahabr&utm_medium=rss)
+- [В работе Telegram произошел глобальный сбой, спустя более часа простоя сервис заработал снова](https://habr.com/ru/news/820447/?utm_campaign=820447&utm_source=habrahabr&utm_medium=rss)
 - [В США разработчикам в рамках эксперимента платят за программирование в режиме изменённого сознания](https://habr.com/ru/news/820399/?utm_campaign=820399&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве за май 2024 года](https://habr.com/ru/companies/ussc/news/820393/?utm_campaign=820393&utm_source=habrahabr&utm_medium=rss)
 - [Контроль осанки от Apple, рейтинг университетов и суд на опережение: дайджест главных новостей](https://habr.com/ru/companies/onlinepatent/news/820297/?utm_campaign=820297&utm_source=habrahabr&utm_medium=rss)
