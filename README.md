@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В TikTok был обнаружен серьезный баг, позволивший взломать аккаунты звезд CNN и Пэрис Хилтон](https://habr.com/ru/news/820511/?utm_campaign=820511&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начнёт обновлять компоненты Visual Studio через Центр обновления Windows, но с разрешения разработчиков](https://habr.com/ru/news/820507/?utm_campaign=820507&utm_source=habrahabr&utm_medium=rss)
 - [Массовый сбой в Telegram мессенджер уже не работает более получаса](https://habr.com/ru/news/820449/?utm_campaign=820449&utm_source=habrahabr&utm_medium=rss)
 - [В работе Telegram произошел глобальный сбой, спустя более часа простоя сервис заработал снова](https://habr.com/ru/news/820447/?utm_campaign=820447&utm_source=habrahabr&utm_medium=rss)
 - [В США разработчикам в рамках эксперимента платят за программирование в режиме изменённого сознания](https://habr.com/ru/news/820399/?utm_campaign=820399&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве за май 2024 года](https://habr.com/ru/companies/ussc/news/820393/?utm_campaign=820393&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
