@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс прочтёт вслух 13 000 книг: Букмейт запустил виртуального рассказчика](https://habr.com/ru/companies/yandex/news/820525/?utm_campaign=820525&utm_source=habrahabr&utm_medium=rss)
 - [Вышел первый трейлер DOOM: The Dark Ages от Microsoft и id Software, тайтл выйдет в 2025 году](https://habr.com/ru/news/820537/?utm_campaign=820537&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты SlashData попытались оценить размеры сообществ разработчиков различных языков программирования](https://habr.com/ru/news/820519/?utm_campaign=820519&utm_source=habrahabr&utm_medium=rss)
 - [GPT-4 научилась находить и использовать уязвимости нулевого дня](https://habr.com/ru/companies/bothub/news/820517/?utm_campaign=820517&utm_source=habrahabr&utm_medium=rss)
 - [В TikTok был обнаружен серьезный баг, позволивший взломать аккаунты звезд CNN и Пэрис Хилтон](https://habr.com/ru/news/820511/?utm_campaign=820511&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начнёт обновлять компоненты Visual Studio через Центр обновления Windows, но с разрешения разработчиков](https://habr.com/ru/news/820507/?utm_campaign=820507&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
