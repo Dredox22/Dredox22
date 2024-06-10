@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Элемент» и «Кама» подписали соглашение о сотрудничестве в области создания ЭКБ для электроавтомобилей](https://habr.com/ru/news/820683/?utm_campaign=820683&utm_source=habrahabr&utm_medium=rss)
 - [В Токио запускают обязывающее жениться приложение для знакомств](https://habr.com/ru/news/820655/?utm_campaign=820655&utm_source=habrahabr&utm_medium=rss)
 - [Компания QSOFT разработала мобильное приложение для ГК АВТОДОМ](https://habr.com/ru/news/820649/?utm_campaign=820649&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Positive Technologies нашли новый бэкдор в арсенале группировки ExCobalt, атакующей компании из России](https://habr.com/ru/news/820647/?utm_campaign=820647&utm_source=habrahabr&utm_medium=rss)
 - [Глава комитета Госдумы по информполитике: в РФ следует сделать «белые VPN»](https://habr.com/ru/news/820643/?utm_campaign=820643&utm_source=habrahabr&utm_medium=rss)
-- [Злоумышленник похитил исходный код New York Times при помощи открытого токена GitHub](https://habr.com/ru/news/820635/?utm_campaign=820635&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
