@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple объявила победителей Design Awards 2024](https://habr.com/ru/news/820609/?utm_campaign=820609&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Flight Simulator 2024 выйдет в ноябре](https://habr.com/ru/news/820607/?utm_campaign=820607&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс прочтёт вслух 13 000 книг: Букмейт запустил виртуального рассказчика](https://habr.com/ru/companies/yandex/news/820525/?utm_campaign=820525&utm_source=habrahabr&utm_medium=rss)
-- [Вышел первый трейлер DOOM: The Dark Ages от Microsoft и id Software, тайтл выйдет в 2025 году](https://habr.com/ru/news/820537/?utm_campaign=820537&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты SlashData попытались оценить размеры сообществ разработчиков различных языков программирования](https://habr.com/ru/news/820519/?utm_campaign=820519&utm_source=habrahabr&utm_medium=rss)
+- [В Токио запускают обязывающее жениться приложение для знакомств](https://habr.com/ru/news/820655/?utm_campaign=820655&utm_source=habrahabr&utm_medium=rss)
+- [Компания QSOFT разработала мобильное приложение для ГК АВТОДОМ](https://habr.com/ru/news/820649/?utm_campaign=820649&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Positive Technologies нашли новый бэкдор в арсенале группировки ExCobalt, атакующей компании из России](https://habr.com/ru/news/820647/?utm_campaign=820647&utm_source=habrahabr&utm_medium=rss)
+- [Глава комитета Госдумы по информполитике: в РФ следует сделать «белые VPN»](https://habr.com/ru/news/820643/?utm_campaign=820643&utm_source=habrahabr&utm_medium=rss)
+- [Злоумышленник похитил исходный код New York Times при помощи открытого токена GitHub](https://habr.com/ru/news/820635/?utm_campaign=820635&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
