@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На BIM-форуме 2024 «Нанософт» представил BIM/ТИМ/СОД-решения и планы развития инженерной экосистемы](https://habr.com/ru/companies/nanosoft/news/821117/?utm_campaign=821117&utm_source=habrahabr&utm_medium=rss)
-- [На IT IS conf эксперты со всей России обсудят самые актуальные темы в ИТ и ИБ](https://habr.com/ru/companies/ussc/news/821107/?utm_campaign=821107&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Winlator 7.0, окружения для запуска Windows-приложений в Android](https://habr.com/ru/news/821095/?utm_campaign=821095&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies получила благодарность от Pandora FMS за выявление уязвимостей в одноимённой системе мониторинга](https://habr.com/ru/news/821089/?utm_campaign=821089&utm_source=habrahabr&utm_medium=rss)
-- [Apple позволит записывать звонки и будет предупреждать о конфиденциальности в iOS 18](https://habr.com/ru/news/821075/?utm_campaign=821075&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики выпустили нейросеть Unique3D для генерации трёхмерных моделей](https://habr.com/ru/news/821139/?utm_campaign=821139&utm_source=habrahabr&utm_medium=rss)
+- [Роспатент аннулировал патент судившегося с Apple изобретателя Икономова](https://habr.com/ru/news/821135/?utm_campaign=821135&utm_source=habrahabr&utm_medium=rss)
+- [«Росэлектроника» запатентовал уникальный клей для электроники](https://habr.com/ru/news/821131/?utm_campaign=821131&utm_source=habrahabr&utm_medium=rss)
+- [Язык программирования Swift переезжает в отдельную GitHub-организацию](https://habr.com/ru/news/821129/?utm_campaign=821129&utm_source=habrahabr&utm_medium=rss)
+- [В Москве появится первый в РФ кластер видеоигр и анимации](https://habr.com/ru/news/821127/?utm_campaign=821127&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
