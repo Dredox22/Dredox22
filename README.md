@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты «Лаборатории Касперского» нашли 24 уязвимости в биометрическом терминале ZKTeco](https://habr.com/ru/news/821017/?utm_campaign=821017&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выложил в свободный доступ библиотеку, ускоряющую работу больших языковых моделей до 25%](https://habr.com/ru/news/820989/?utm_campaign=820989&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустила сервис для ИИ-генерации веб-сайтов Solo 1.0](https://habr.com/ru/news/820969/?utm_campaign=820969&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил Android 13 на Rabbit R1 вместо штатной Rabbit OS](https://habr.com/ru/news/820963/?utm_campaign=820963&utm_source=habrahabr&utm_medium=rss)
 - [Apple не пропустила в App Store приложение эмулятора ПК для iPhone и iPad — UTM](https://habr.com/ru/news/820949/?utm_campaign=820949&utm_source=habrahabr&utm_medium=rss)
-- [iPadOS 18: кастомизация, калькулятор и математические заметки](https://habr.com/ru/news/820941/?utm_campaign=820941&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
