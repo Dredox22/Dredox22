@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla выпустила сервис для ИИ-генерации веб-сайтов Solo 1.0](https://habr.com/ru/news/820969/?utm_campaign=820969&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст запустил Android 13 на Rabbit R1 вместо штатной Rabbit OS](https://habr.com/ru/news/820963/?utm_campaign=820963&utm_source=habrahabr&utm_medium=rss)
 - [Apple не пропустила в App Store приложение эмулятора ПК для iPhone и iPad — UTM](https://habr.com/ru/news/820949/?utm_campaign=820949&utm_source=habrahabr&utm_medium=rss)
 - [iPadOS 18: кастомизация, калькулятор и математические заметки](https://habr.com/ru/news/820941/?utm_campaign=820941&utm_source=habrahabr&utm_medium=rss)
 - [В DLBI обнаружили данные своих сотрудников в опубликованном в открытом доступе файле с ПД пользователей ДИТ Москвы](https://habr.com/ru/news/820929/?utm_campaign=820929&utm_source=habrahabr&utm_medium=rss)
-- [В visionOS 2 внедрили новые жесты и настройки разрешения виртуального монитора](https://habr.com/ru/news/820915/?utm_campaign=820915&utm_source=habrahabr&utm_medium=rss)
-- [iOS 18: больше персонализации и кастомизации](https://habr.com/ru/news/820883/?utm_campaign=820883&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
