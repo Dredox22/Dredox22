@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В visionOS 2 внедрили новые жесты и настройки разрешения виртуального монитора](https://habr.com/ru/news/820915/?utm_campaign=820915&utm_source=habrahabr&utm_medium=rss)
 - [iOS 18: больше персонализации и кастомизации](https://habr.com/ru/news/820883/?utm_campaign=820883&utm_source=habrahabr&utm_medium=rss)
 - [macOS Sequoia: дублирование iPhone, игры и новый Safari](https://habr.com/ru/news/820873/?utm_campaign=820873&utm_source=habrahabr&utm_medium=rss)
 - [Apple Intelligence: попытка Apple ворваться в ИИ-гонку](https://habr.com/ru/news/820863/?utm_campaign=820863&utm_source=habrahabr&utm_medium=rss)
 - [В ДИТ Москвы назвали компиляцией опубликованную в открытом доступе базу с персональными данными пользователей](https://habr.com/ru/news/820831/?utm_campaign=820831&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/820815/?utm_campaign=820815&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
