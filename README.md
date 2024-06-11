@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Perl 5.40](https://habr.com/ru/news/821173/?utm_campaign=821173&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили нейросеть Unique3D для генерации трёхмерных моделей](https://habr.com/ru/news/821139/?utm_campaign=821139&utm_source=habrahabr&utm_medium=rss)
 - [Роспатент аннулировал патент судившегося с Apple изобретателя Икономова](https://habr.com/ru/news/821135/?utm_campaign=821135&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» запатентовал уникальный клей для электроники](https://habr.com/ru/news/821131/?utm_campaign=821131&utm_source=habrahabr&utm_medium=rss)
 - [Язык программирования Swift переезжает в отдельную GitHub-организацию](https://habr.com/ru/news/821129/?utm_campaign=821129&utm_source=habrahabr&utm_medium=rss)
-- [В Москве появится первый в РФ кластер видеоигр и анимации](https://habr.com/ru/news/821127/?utm_campaign=821127&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
