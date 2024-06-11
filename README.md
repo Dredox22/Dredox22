@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На IT IS conf эксперты со всей России обсудят самые актуальные темы в ИТ и ИБ](https://habr.com/ru/companies/ussc/news/821107/?utm_campaign=821107&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Winlator 7.0, окружения для запуска Windows-приложений в Android](https://habr.com/ru/news/821095/?utm_campaign=821095&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies получила благодарность от Pandora FMS за выявление уязвимостей в одноимённой системе мониторинга](https://habr.com/ru/news/821089/?utm_campaign=821089&utm_source=habrahabr&utm_medium=rss)
 - [Apple позволит записывать звонки и будет предупреждать о конфиденциальности в iOS 18](https://habr.com/ru/news/821075/?utm_campaign=821075&utm_source=habrahabr&utm_medium=rss)
 - [DuckDuckGo представила собственный ИИ-чат](https://habr.com/ru/news/821047/?utm_campaign=821047&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты «Лаборатории Касперского» нашли 24 уязвимости в биометрическом терминале ZKTeco](https://habr.com/ru/news/821017/?utm_campaign=821017&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
