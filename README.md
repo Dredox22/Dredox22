@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В iOS 18 появятся предупреждения об использовании медленной зарядки](https://habr.com/ru/news/821235/?utm_campaign=821235&utm_source=habrahabr&utm_medium=rss)
 - [Товальдс в роли великодушного пожизненного диктатора Linux решил перенести код sched_ext в ветку Linux 6.11](https://habr.com/ru/news/821207/?utm_campaign=821207&utm_source=habrahabr&utm_medium=rss)
 - [Проводник Windows 11 вскоре может предоставить доступ к файлам на смартфоне](https://habr.com/ru/news/821205/?utm_campaign=821205&utm_source=habrahabr&utm_medium=rss)
 - [Вышла стабильная версия systemd 256](https://habr.com/ru/news/821201/?utm_campaign=821201&utm_source=habrahabr&utm_medium=rss)
 - [Firefox временно ограничил работу нескольких расширений VPN в России](https://habr.com/ru/news/821189/?utm_campaign=821189&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Perl 5.40](https://habr.com/ru/news/821173/?utm_campaign=821173&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
