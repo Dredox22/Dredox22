@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчикам стала доступна опция создания своих кнопок для пункта управления в iOS 18](https://habr.com/ru/news/821519/?utm_campaign=821519&utm_source=habrahabr&utm_medium=rss)
+- [Bloomberg: Apple не платит OpenAI за использование ChatGPT в iOS](https://habr.com/ru/news/821513/?utm_campaign=821513&utm_source=habrahabr&utm_medium=rss)
+- [Kaspersky: пользователи смартфонов на Android теперь смогут узнавать о слежке по Bluetooth](https://habr.com/ru/news/821497/?utm_campaign=821497&utm_source=habrahabr&utm_medium=rss)
 - [Хакер взломал производителя смарт-меток Tile](https://habr.com/ru/news/821467/?utm_campaign=821467&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» разработала мини‑компьютер на «Эльбрусе»](https://habr.com/ru/news/821465/?utm_campaign=821465&utm_source=habrahabr&utm_medium=rss)
-- [Лаборатория «МегаФона» протестировала «Р-ФОН»](https://habr.com/ru/news/821449/?utm_campaign=821449&utm_source=habrahabr&utm_medium=rss)
-- [ГК Softline: Safari хуже всех выявляет фишинговые сайты](https://habr.com/ru/news/821437/?utm_campaign=821437&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 127.0](https://habr.com/ru/news/821435/?utm_campaign=821435&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
