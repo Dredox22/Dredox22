@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг сделает полигоны для тестирования оборудования для производства чипов](https://habr.com/ru/news/821421/?utm_campaign=821421&utm_source=habrahabr&utm_medium=rss)
+- [МТС сообщила о мощной DDoS-атаке из Турции, Испании, Польши, Эквадора и Китая](https://habr.com/ru/news/821413/?utm_campaign=821413&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре рассматривают возможность блокировки звонков из-за границы по умолчанию](https://habr.com/ru/news/821403/?utm_campaign=821403&utm_source=habrahabr&utm_medium=rss)
 - [Курсы «C++ для бэкенда» и «Асинхронное программирование на Python» закрываются: успейте поступить на последний поток](https://habr.com/ru/companies/yandex_praktikum/news/821393/?utm_campaign=821393&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик из РФ вкатился в японское IT и описал весь процесс — от обучения языкам до тонкостей на собеседованиях](https://habr.com/ru/news/821365/?utm_campaign=821365&utm_source=habrahabr&utm_medium=rss)
-- [С 12 сентября США запретило предоставлять любые IT-услуги в Россию. Или нет](https://habr.com/ru/news/821315/?utm_campaign=821315&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: «Эксмо‑АСТ» более трех лет не передает в Российскую книжную палату электронные экземпляры книг из-за пиратства](https://habr.com/ru/news/821305/?utm_campaign=821305&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
