@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик из РФ вкатился в японское IT и описал весь процесс — от обучения языкам до тонкостей на собеседованиях](https://habr.com/ru/news/821365/?utm_campaign=821365&utm_source=habrahabr&utm_medium=rss)
 - [С 12 сентября США запретило предоставлять любые IT-услуги в Россию. Или нет](https://habr.com/ru/news/821315/?utm_campaign=821315&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: «Эксмо‑АСТ» более трех лет не передает в Российскую книжную палату электронные экземпляры книг из-за пиратства](https://habr.com/ru/news/821305/?utm_campaign=821305&utm_source=habrahabr&utm_medium=rss)
 - [Только что вышла Stable Diffusion3. Самая лучшая бесплатная модель генерации изображений](https://habr.com/ru/news/821301/?utm_campaign=821301&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила об отказе от DirectAccess в Windows](https://habr.com/ru/news/821255/?utm_campaign=821255&utm_source=habrahabr&utm_medium=rss)
-- [Для входа в личные аккаунты электронной почты Outlook потребуется больше, чем просто ввод логина и пароля](https://habr.com/ru/news/821241/?utm_campaign=821241&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
