@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел True Burner 10.0](https://habr.com/ru/news/821539/?utm_campaign=821539&utm_source=habrahabr&utm_medium=rss)
 - [Разработчикам стала доступна опция создания своих кнопок для пункта управления в iOS 18](https://habr.com/ru/news/821519/?utm_campaign=821519&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg: Apple не платит OpenAI за использование ChatGPT в iOS](https://habr.com/ru/news/821513/?utm_campaign=821513&utm_source=habrahabr&utm_medium=rss)
 - [Kaspersky: пользователи смартфонов на Android теперь смогут узнавать о слежке по Bluetooth](https://habr.com/ru/news/821497/?utm_campaign=821497&utm_source=habrahabr&utm_medium=rss)
 - [Хакер взломал производителя смарт-меток Tile](https://habr.com/ru/news/821467/?utm_campaign=821467&utm_source=habrahabr&utm_medium=rss)
-- [«Росэлектроника» разработала мини‑компьютер на «Эльбрусе»](https://habr.com/ru/news/821465/?utm_campaign=821465&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
