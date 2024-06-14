@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Rust 1.79](https://habr.com/ru/news/821729/?utm_campaign=821729&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft на неопределённое время отложила запуск опции Recall из-за проблем конфиденциальности и безопасности](https://habr.com/ru/news/821725/?utm_campaign=821725&utm_source=habrahabr&utm_medium=rss)
 - [Три транзистора для силовой электроники от «Микрона» включили в реестр Минпромторга РФ](https://habr.com/ru/news/821703/?utm_campaign=821703&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» создала открытую библиотеку libdomain для управления службами каталогов](https://habr.com/ru/companies/basealtspo/news/821701/?utm_campaign=821701&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: экс-бригадира предприятия РФ обвинили в удалении папки «Хлам» с критически важными расчетами с рабочего ПК](https://habr.com/ru/news/821685/?utm_campaign=821685&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft будет оценивать сотрудников по вкладу в кибербезопасность](https://habr.com/ru/news/821681/?utm_campaign=821681&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры украли исходный код New York Times с использованием открытого токена GitHub](https://habr.com/ru/news/821675/?utm_campaign=821675&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
