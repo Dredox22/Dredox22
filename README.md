@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фотограф занял одно из призовых мест на конкурсе ИИ–изображений с реальной фотографией, потом его дисквалифицировали](https://habr.com/ru/news/821667/?utm_campaign=821667&utm_source=habrahabr&utm_medium=rss)
 - [[RU] Состоялся релиз инструмента v1.4.1 поиска по нику — Snoop Project](https://habr.com/ru/news/821655/?utm_campaign=821655&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla восстановила россиянам доступ к расширениям для обхода блокировок](https://habr.com/ru/news/821635/?utm_campaign=821635&utm_source=habrahabr&utm_medium=rss)
 - [Luma AI выпустила Dream Machine — нейросеть для генерации видео](https://habr.com/ru/news/821623/?utm_campaign=821623&utm_source=habrahabr&utm_medium=rss)
 - [Релиз irc-клиента mIRC 7.77](https://habr.com/ru/news/821621/?utm_campaign=821621&utm_source=habrahabr&utm_medium=rss)
-- [PaaS-платформа App.Farm разработки РСХБ вошла в шорт-лист премии FinNext](https://habr.com/ru/companies/rshb/news/821595/?utm_campaign=821595&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
