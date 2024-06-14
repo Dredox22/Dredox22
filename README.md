@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple показала тест передачи сообщений через спутник на iPhone в iOS 18](https://habr.com/ru/news/821823/?utm_campaign=821823&utm_source=habrahabr&utm_medium=rss)
+- [Президент РФ внёс поправки в указ о повышении кибербезопасности РФ](https://habr.com/ru/news/821821/?utm_campaign=821821&utm_source=habrahabr&utm_medium=rss)
 - [В Великом Новгороде стартовало строительство первого в стране центра полупроводников](https://habr.com/ru/news/821799/?utm_campaign=821799&utm_source=habrahabr&utm_medium=rss)
 - [VK запустила сервис для тестирования и анализа новых функций в приложениях и сайтах](https://habr.com/ru/news/821789/?utm_campaign=821789&utm_source=habrahabr&utm_medium=rss)
 - [Создатели VRChat уволили 30% сотрудников](https://habr.com/ru/news/821751/?utm_campaign=821751&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.79](https://habr.com/ru/news/821729/?utm_campaign=821729&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft на неопределённое время отложила запуск опции Recall из-за проблем конфиденциальности и безопасности](https://habr.com/ru/news/821725/?utm_campaign=821725&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
