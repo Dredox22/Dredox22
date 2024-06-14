@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Великом Новгороде стартовало строительство первого в стране центра полупроводников](https://habr.com/ru/news/821799/?utm_campaign=821799&utm_source=habrahabr&utm_medium=rss)
+- [VK запустила сервис для тестирования и анализа новых функций в приложениях и сайтах](https://habr.com/ru/news/821789/?utm_campaign=821789&utm_source=habrahabr&utm_medium=rss)
 - [Создатели VRChat уволили 30% сотрудников](https://habr.com/ru/news/821751/?utm_campaign=821751&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.79](https://habr.com/ru/news/821729/?utm_campaign=821729&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft на неопределённое время отложила запуск опции Recall из-за проблем конфиденциальности и безопасности](https://habr.com/ru/news/821725/?utm_campaign=821725&utm_source=habrahabr&utm_medium=rss)
-- [Три транзистора для силовой электроники от «Микрона» включили в реестр Минпромторга РФ](https://habr.com/ru/news/821703/?utm_campaign=821703&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» создала открытую библиотеку libdomain для управления службами каталогов](https://habr.com/ru/companies/basealtspo/news/821701/?utm_campaign=821701&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
