@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Три транзистора для силовой электроники от «Микрона» включили в реестр Минпромторга РФ](https://habr.com/ru/news/821703/?utm_campaign=821703&utm_source=habrahabr&utm_medium=rss)
+- [«Базальт СПО» создала открытую библиотеку libdomain для управления службами каталогов](https://habr.com/ru/companies/basealtspo/news/821701/?utm_campaign=821701&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: экс-бригадира предприятия РФ обвинили в удалении папки «Хлам» с критически важными расчетами с рабочего ПК](https://habr.com/ru/news/821685/?utm_campaign=821685&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft будет оценивать сотрудников по вкладу в кибербезопасность](https://habr.com/ru/news/821681/?utm_campaign=821681&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры украли исходный код New York Times с использованием открытого токена GitHub](https://habr.com/ru/news/821675/?utm_campaign=821675&utm_source=habrahabr&utm_medium=rss)
-- [Фотограф занял одно из призовых мест на конкурсе ИИ–изображений с реальной фотографией, потом его дисквалифицировали](https://habr.com/ru/news/821667/?utm_campaign=821667&utm_source=habrahabr&utm_medium=rss)
-- [[RU] Состоялся релиз инструмента v1.4.1 поиска по нику — Snoop Project](https://habr.com/ru/news/821655/?utm_campaign=821655&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla восстановила россиянам доступ к расширениям для обхода блокировок](https://habr.com/ru/news/821635/?utm_campaign=821635&utm_source=habrahabr&utm_medium=rss)
-- [Luma AI выпустила Dream Machine — нейросеть для генерации видео](https://habr.com/ru/news/821623/?utm_campaign=821623&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
