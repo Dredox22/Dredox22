@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple погружается в пространственное аудио и ИИ, а аккумулятор в линзе заряжается от слез: дайджест главных новостей](https://habr.com/ru/companies/onlinepatent/news/821897/?utm_campaign=821897&utm_source=habrahabr&utm_medium=rss)
+- [Google проиграла попытку завершить антимонопольное дело США по поводу цифровой рекламы](https://habr.com/ru/news/822003/?utm_campaign=822003&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики EMXControls поделились опытом миграции большого приложения с WinForms на Avalonia](https://habr.com/ru/news/821999/?utm_campaign=821999&utm_source=habrahabr&utm_medium=rss)
 - [Slack начал рассылку предупреждений пользователям из РФ о приостановке их учетных записей](https://habr.com/ru/news/821987/?utm_campaign=821987&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удалила ранее установленный на ПК с Windows «безобидный» Copilot](https://habr.com/ru/news/821979/?utm_campaign=821979&utm_source=habrahabr&utm_medium=rss)
-- [В Японии для iOS заработают сторонние магазины приложений](https://habr.com/ru/news/821975/?utm_campaign=821975&utm_source=habrahabr&utm_medium=rss)
-- [Бывший глава АНБ присоединился к совету директоров OpenAI и комитету по безопасности компании](https://habr.com/ru/news/821909/?utm_campaign=821909&utm_source=habrahabr&utm_medium=rss)
-- [Первый курс «Информационное моделирование в строительстве» от «Нанософт» и СПбГАСУ собрал более двух тысяч слушателей](https://habr.com/ru/companies/nanosoft/news/821899/?utm_campaign=821899&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
