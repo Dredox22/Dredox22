@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack начал рассылку предупреждений пользователям из РФ о приостановке их учетных записей](https://habr.com/ru/news/821987/?utm_campaign=821987&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удалила ранее установленный на ПК с Windows «безобидный» Copilot](https://habr.com/ru/news/821979/?utm_campaign=821979&utm_source=habrahabr&utm_medium=rss)
 - [В Японии для iOS заработают сторонние магазины приложений](https://habr.com/ru/news/821975/?utm_campaign=821975&utm_source=habrahabr&utm_medium=rss)
 - [Бывший глава АНБ присоединился к совету директоров OpenAI и комитету по безопасности компании](https://habr.com/ru/news/821909/?utm_campaign=821909&utm_source=habrahabr&utm_medium=rss)
 - [Первый курс «Информационное моделирование в строительстве» от «Нанософт» и СПбГАСУ собрал более двух тысяч слушателей](https://habr.com/ru/companies/nanosoft/news/821899/?utm_campaign=821899&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Any Video Converter Free 9.0](https://habr.com/ru/news/821863/?utm_campaign=821863&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
