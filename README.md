@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг начал искать разработчиков российской игровой приставки](https://habr.com/ru/news/822345/?utm_campaign=822345&utm_source=habrahabr&utm_medium=rss)
 - [Функция Recall в Windows 11 будет анализировать содержимое рабочего стола по запросу пользователя](https://habr.com/ru/news/822337/?utm_campaign=822337&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 126](https://habr.com/ru/news/822311/?utm_campaign=822311&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Облачная криминалистика: как защитить данные и расследовать киберпреступления»](https://habr.com/ru/companies/nubes/news/822307/?utm_campaign=822307&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг заморозил программы господдержки развития радиоэлектроники](https://habr.com/ru/news/822303/?utm_campaign=822303&utm_source=habrahabr&utm_medium=rss)
-- [Основные компоненты электромобиля «Атом» будут делать вместе с КНР](https://habr.com/ru/news/822281/?utm_campaign=822281&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
