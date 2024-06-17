@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст сделал ретро-плеер с интерфейсом классического Winamp](https://habr.com/ru/news/822273/?utm_campaign=822273&utm_source=habrahabr&utm_medium=rss)
 - [Apple обновила встроенную в macOS игру Chess впервые с 2012 года](https://habr.com/ru/news/822251/?utm_campaign=822251&utm_source=habrahabr&utm_medium=rss)
 - [В Турции арестовали студента, который использовал ИИ, камеру и портативный роутер для списывания на экзамене](https://habr.com/ru/news/822247/?utm_campaign=822247&utm_source=habrahabr&utm_medium=rss)
 - [Продукты на PCIe 6.0 ожидаются до конца этого года. Новый интерфейс PCIe 7.0 — только в 2028 году](https://habr.com/ru/companies/dcmiran/news/822243/?utm_campaign=822243&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NumPy 2.0.0](https://habr.com/ru/news/822219/?utm_campaign=822219&utm_source=habrahabr&utm_medium=rss)
-- [Мастерская Центра кибербезопасности на IT IS conf](https://habr.com/ru/companies/ussc/news/822213/?utm_campaign=822213&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
