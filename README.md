@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован открытый скрипт MS Edge Tweaker для разблокировки и отключения ненужных функций в Microsoft Edge](https://habr.com/ru/news/822433/?utm_campaign=822433&utm_source=habrahabr&utm_medium=rss)
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/822429/?utm_campaign=822429&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг начал искать разработчиков российской игровой приставки](https://habr.com/ru/news/822345/?utm_campaign=822345&utm_source=habrahabr&utm_medium=rss)
 - [Функция Recall в Windows 11 будет анализировать содержимое рабочего стола по запросу пользователя](https://habr.com/ru/news/822337/?utm_campaign=822337&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 126](https://habr.com/ru/news/822311/?utm_campaign=822311&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Облачная криминалистика: как защитить данные и расследовать киберпреступления»](https://habr.com/ru/companies/nubes/news/822307/?utm_campaign=822307&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг заморозил программы господдержки развития радиоэлектроники](https://habr.com/ru/news/822303/?utm_campaign=822303&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
