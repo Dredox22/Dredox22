@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз NumPy 2.0.0](https://habr.com/ru/news/822219/?utm_campaign=822219&utm_source=habrahabr&utm_medium=rss)
 - [Мастерская Центра кибербезопасности на IT IS conf](https://habr.com/ru/companies/ussc/news/822213/?utm_campaign=822213&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован полный исходный код Doom для SNES](https://habr.com/ru/news/822091/?utm_campaign=822091&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 126](https://habr.com/ru/news/822079/?utm_campaign=822079&utm_source=habrahabr&utm_medium=rss)
 - [Apple погружается в пространственное аудио и ИИ, а аккумулятор в линзе заряжается от слез: дайджест главных новостей](https://habr.com/ru/companies/onlinepatent/news/821897/?utm_campaign=821897&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики EMXControls поделились опытом миграции большого приложения с WinForms на Avalonia](https://habr.com/ru/news/821999/?utm_campaign=821999&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
