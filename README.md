@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Роса» выпустила новую версию платформы оркестрации ОС и ПО с возможностью миграции с Windows на российские системы](https://habr.com/ru/news/822465/?utm_campaign=822465&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован открытый скрипт MS Edge Tweaker для разблокировки и отключения ненужных функций в Microsoft Edge](https://habr.com/ru/news/822433/?utm_campaign=822433&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/822429/?utm_campaign=822429&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг начал искать разработчиков российской игровой приставки](https://habr.com/ru/news/822345/?utm_campaign=822345&utm_source=habrahabr&utm_medium=rss)
 - [Функция Recall в Windows 11 будет анализировать содержимое рабочего стола по запросу пользователя](https://habr.com/ru/news/822337/?utm_campaign=822337&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 126](https://habr.com/ru/news/822311/?utm_campaign=822311&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
