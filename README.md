@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple обновила встроенную в macOS игру Chess впервые с 2012 года](https://habr.com/ru/news/822251/?utm_campaign=822251&utm_source=habrahabr&utm_medium=rss)
+- [В Турции арестовали студента, который использовал ИИ, камеру и портативный роутер для списывания на экзамене](https://habr.com/ru/news/822247/?utm_campaign=822247&utm_source=habrahabr&utm_medium=rss)
+- [Продукты на PCIe 6.0 ожидаются до конца этого года. Новый интерфейс PCIe 7.0 — только в 2028 году](https://habr.com/ru/companies/dcmiran/news/822243/?utm_campaign=822243&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NumPy 2.0.0](https://habr.com/ru/news/822219/?utm_campaign=822219&utm_source=habrahabr&utm_medium=rss)
 - [Мастерская Центра кибербезопасности на IT IS conf](https://habr.com/ru/companies/ussc/news/822213/?utm_campaign=822213&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован полный исходный код Doom для SNES](https://habr.com/ru/news/822091/?utm_campaign=822091&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Microsoft Edge 126](https://habr.com/ru/news/822079/?utm_campaign=822079&utm_source=habrahabr&utm_medium=rss)
-- [Apple погружается в пространственное аудио и ИИ, а аккумулятор в линзе заряжается от слез: дайджест главных новостей](https://habr.com/ru/companies/onlinepatent/news/821897/?utm_campaign=821897&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
