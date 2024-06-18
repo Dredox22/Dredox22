@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge начал показывать пользователям баннер с просьбой изменить браузер Windows 11 по умолчанию](https://habr.com/ru/news/822795/?utm_campaign=822795&utm_source=habrahabr&utm_medium=rss)
 - [На Reddit пытаются понять, почему пользователь Windows блокируется каждый день, когда идёт на обед](https://habr.com/ru/news/822789/?utm_campaign=822789&utm_source=habrahabr&utm_medium=rss)
 - [Открылась регистрация на всероссийский турнир по программированию для студентов Codemasters Code Cup 2024](https://habr.com/ru/news/822781/?utm_campaign=822781&utm_source=habrahabr&utm_medium=rss)
 - [Представлен новый способ использования Linux на устройствах на базе Android — проект Lindroid](https://habr.com/ru/news/822759/?utm_campaign=822759&utm_source=habrahabr&utm_medium=rss)
 - [Apple заплатила $5 тыс. за критическую уязвимость в iOS и macOS и отказала в увеличении награды](https://habr.com/ru/news/822725/?utm_campaign=822725&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.31: новые возможности C++ анализатора, расширение функционала пользовательских аннотаций](https://habr.com/ru/companies/pvs-studio/news/822689/?utm_campaign=822689&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
