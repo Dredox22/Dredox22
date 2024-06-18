@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» выпустил новую версию мобильного приложения для iOS под названием «Умный Онлайн»](https://habr.com/ru/news/822549/?utm_campaign=822549&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила приложение Rutube из российского App Store](https://habr.com/ru/news/822519/?utm_campaign=822519&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Luma AI выпустили официальное руководство по составлению запросов для Dream Machine](https://habr.com/ru/news/822479/?utm_campaign=822479&utm_source=habrahabr&utm_medium=rss)
 - [iPhone с разряженной батареей будет показывать текущее время на экране](https://habr.com/ru/news/822473/?utm_campaign=822473&utm_source=habrahabr&utm_medium=rss)
 - [«Роса» выпустила новую версию платформы оркестрации ОС и ПО с возможностью миграции с Windows на российские системы](https://habr.com/ru/news/822465/?utm_campaign=822465&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован открытый скрипт MS Edge Tweaker для разблокировки и отключения ненужных функций в Microsoft Edge](https://habr.com/ru/news/822433/?utm_campaign=822433&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
