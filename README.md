@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Биржа ИБ и IT-стартапов» расскажи о своем проекте и получи возможность выиграть 1 млн рублей на его реализацию](https://habr.com/ru/companies/gaz-is/news/822579/?utm_campaign=822579&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Thunderbird 127.0](https://habr.com/ru/news/822577/?utm_campaign=822577&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX представила портативную антенну Starlink Mini Dish без поворотного механизма и со встроенным Wi-Fi-роутером](https://habr.com/ru/news/822575/?utm_campaign=822575&utm_source=habrahabr&utm_medium=rss)
+- [Сервис Apple Pay Later закрывается всего через несколько месяцев после своего полного запуска в США](https://habr.com/ru/news/822561/?utm_campaign=822561&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» выпустил новую версию мобильного приложения для iOS под названием «Умный Онлайн»](https://habr.com/ru/news/822549/?utm_campaign=822549&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила приложение Rutube из российского App Store](https://habr.com/ru/news/822519/?utm_campaign=822519&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Luma AI выпустили официальное руководство по составлению запросов для Dream Machine](https://habr.com/ru/news/822479/?utm_campaign=822479&utm_source=habrahabr&utm_medium=rss)
-- [iPhone с разряженной батареей будет показывать текущее время на экране](https://habr.com/ru/news/822473/?utm_campaign=822473&utm_source=habrahabr&utm_medium=rss)
-- [«Роса» выпустила новую версию платформы оркестрации ОС и ПО с возможностью миграции с Windows на российские системы](https://habr.com/ru/news/822465/?utm_campaign=822465&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
