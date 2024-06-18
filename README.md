@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открылась регистрация на всероссийский турнир по программированию для студентов Codemasters Code Cup 2024](https://habr.com/ru/news/822781/?utm_campaign=822781&utm_source=habrahabr&utm_medium=rss)
 - [Представлен новый способ использования Linux на устройствах на базе Android — проект Lindroid](https://habr.com/ru/news/822759/?utm_campaign=822759&utm_source=habrahabr&utm_medium=rss)
 - [Apple заплатила $5 тыс. за критическую уязвимость в iOS и macOS и отказала в увеличении награды](https://habr.com/ru/news/822725/?utm_campaign=822725&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.31: новые возможности C++ анализатора, расширение функционала пользовательских аннотаций](https://habr.com/ru/companies/pvs-studio/news/822689/?utm_campaign=822689&utm_source=habrahabr&utm_medium=rss)
 - [Telegram запустил TON Dating — сервис для знакомств, разработанный на блокчейне TON](https://habr.com/ru/news/822687/?utm_campaign=822687&utm_source=habrahabr&utm_medium=rss)
-- [«Росэлектроника» разработала устройство «три в одном» для криптозащиты сетей спецсвязи](https://habr.com/ru/news/822685/?utm_campaign=822685&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
