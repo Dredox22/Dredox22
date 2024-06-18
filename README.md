@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PVS-Studio 7.31: новые возможности C++ анализатора, расширение функционала пользовательских аннотаций](https://habr.com/ru/companies/pvs-studio/news/822689/?utm_campaign=822689&utm_source=habrahabr&utm_medium=rss)
+- [Telegram запустил TON Dating — сервис для знакомств, разработанный на блокчейне TON](https://habr.com/ru/news/822687/?utm_campaign=822687&utm_source=habrahabr&utm_medium=rss)
+- [«Росэлектроника» разработала устройство «три в одном» для криптозащиты сетей спецсвязи](https://habr.com/ru/news/822685/?utm_campaign=822685&utm_source=habrahabr&utm_medium=rss)
 - [«Биржа ИБ и IT-стартапов» расскажи о своем проекте и получи возможность выиграть 1 млн рублей на его реализацию](https://habr.com/ru/companies/gaz-is/news/822579/?utm_campaign=822579&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Thunderbird 127.0](https://habr.com/ru/news/822577/?utm_campaign=822577&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX представила портативную антенну Starlink Mini Dish без поворотного механизма и со встроенным Wi-Fi-роутером](https://habr.com/ru/news/822575/?utm_campaign=822575&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Apple Pay Later закрывается всего через несколько месяцев после своего полного запуска в США](https://habr.com/ru/news/822561/?utm_campaign=822561&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» выпустил новую версию мобильного приложения для iOS под названием «Умный Онлайн»](https://habr.com/ru/news/822549/?utm_campaign=822549&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
