@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ассоциация больших данных и HFLabs презентовали результаты тестирования риск-модели деобезличивания](https://habr.com/ru/companies/hflabs/news/822755/?utm_campaign=822755&utm_source=habrahabr&utm_medium=rss)
+- [Автоматические бэкапы: на вебинаре 26 июня покажем, как их быстро настроить в облаке](https://habr.com/ru/companies/cloud_ru/news/822857/?utm_campaign=822857&utm_source=habrahabr&utm_medium=rss)
+- [Опубликованы подробности техпроцесса Intel 3](https://habr.com/ru/companies/dcmiran/news/822949/?utm_campaign=822949&utm_source=habrahabr&utm_medium=rss)
 - [Операторов связи хотят обязать предупреждать о расторжении договоров и изъятии номеров](https://habr.com/ru/news/822899/?utm_campaign=822899&utm_source=habrahabr&utm_medium=rss)
 - [МТС проводит пятый True Tech Arch: все для IT-архитекторов и не только](https://habr.com/ru/companies/ru_mts/news/822891/?utm_campaign=822891&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» проверила 193 млн паролей на устойчивость к взлому](https://habr.com/ru/news/822885/?utm_campaign=822885&utm_source=habrahabr&utm_medium=rss)
-- [Amazon тестировала свои камеры с ИИ на ЖД-вокзалах Великобритании](https://habr.com/ru/news/822881/?utm_campaign=822881&utm_source=habrahabr&utm_medium=rss)
-- [Старт всероссийской программы стажировок CODE4ALL](https://habr.com/ru/companies/cyberok/news/822867/?utm_campaign=822867&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
