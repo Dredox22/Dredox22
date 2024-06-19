@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС проводит пятый True Tech Arch: все для IT-архитекторов и не только](https://habr.com/ru/companies/ru_mts/news/822891/?utm_campaign=822891&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» проверила 193 млн паролей на устойчивость к взлому](https://habr.com/ru/news/822885/?utm_campaign=822885&utm_source=habrahabr&utm_medium=rss)
+- [Amazon тестировала свои камеры с ИИ на ЖД-вокзалах Великобритании](https://habr.com/ru/news/822881/?utm_campaign=822881&utm_source=habrahabr&utm_medium=rss)
 - [Старт всероссийской программы стажировок CODE4ALL](https://habr.com/ru/companies/cyberok/news/822867/?utm_campaign=822867&utm_source=habrahabr&utm_medium=rss)
 - [Postgres Professional выпустила в свободном доступе книгу «PostgreSQL 16 изнутри»](https://habr.com/ru/news/822853/?utm_campaign=822853&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила приложение для iOS под названием «Умный Онлайн» &lpar;аналог «СберБанк Онлайн»&rpar; из App Store](https://habr.com/ru/news/822845/?utm_campaign=822845&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила об ошибке, из-за которой приложения Windows 10 отображают диалоговое окно «Открыть с помощью»](https://habr.com/ru/news/822839/?utm_campaign=822839&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть от Google на просьбу «как улучшить оливковую заправку чесноком» дала рабочий совет по созданию биотоксина](https://habr.com/ru/news/822831/?utm_campaign=822831&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
