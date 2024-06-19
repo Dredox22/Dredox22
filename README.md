@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Конкурс-Quiz по настольной игре СУПЕРТАНК](https://habr.com/ru/news/823047/?utm_campaign=823047&utm_source=habrahabr&utm_medium=rss)
 - [Seagate начала продавать восстановленные б/у HDD из дата-центров и хранилищ на eBay](https://habr.com/ru/news/823027/?utm_campaign=823027&utm_source=habrahabr&utm_medium=rss)
 - [«Ведомости»: «Элемент» в 2025 году начнёт выпуск компонентов для базовых станций](https://habr.com/ru/news/822993/?utm_campaign=822993&utm_source=habrahabr&utm_medium=rss)
 - [Google, OpenAI и другие компании усилили проверку персонала и соискателей из-за опасений властей США по поводу шпионажа](https://habr.com/ru/news/822981/?utm_campaign=822981&utm_source=habrahabr&utm_medium=rss)
 - [Ассоциация больших данных и HFLabs презентовали результаты тестирования риск-модели деобезличивания](https://habr.com/ru/companies/hflabs/news/822755/?utm_campaign=822755&utm_source=habrahabr&utm_medium=rss)
-- [Автоматические бэкапы: на вебинаре 26 июня покажем, как их быстро настроить в облаке](https://habr.com/ru/companies/cloud_ru/news/822857/?utm_campaign=822857&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
