@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предупредила об ошибке, из-за которой приложения Windows 10 отображают диалоговое окно «Открыть с помощью»](https://habr.com/ru/news/822839/?utm_campaign=822839&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть от Google на просьбу «как улучшить оливковую заправку чесноком» дала рабочий совет по созданию биотоксина](https://habr.com/ru/news/822831/?utm_campaign=822831&utm_source=habrahabr&utm_medium=rss)
 - [iOS 18 ускоряет смартфоны: iPhone 15 Pro Max в тестах стал на 25% производительнее в задачах ИИ](https://habr.com/ru/news/822813/?utm_campaign=822813&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains исправила баг в IntelliJ IDE, который позволяет получить доступ к токенам GitHub](https://habr.com/ru/news/822807/?utm_campaign=822807&utm_source=habrahabr&utm_medium=rss)
 - [Runway представила Gen-3 Alpha — очередную нейросеть для генерации видео](https://habr.com/ru/news/822801/?utm_campaign=822801&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge начал показывать пользователям баннер с просьбой изменить браузер Windows 11 по умолчанию](https://habr.com/ru/news/822795/?utm_campaign=822795&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
