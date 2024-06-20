@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запуск альфа-тестирования ОС Selectel, релиз почтового сервиса и другие апдейты мая](https://habr.com/ru/companies/selectel/news/823126/?utm_campaign=823126&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Debian 10 напомнили пользователям о необходимости обновления до конца месяца](https://habr.com/ru/news/823304/?utm_campaign=823304&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: продажи антивирусного ПО от «Лаборатории Касперского» будут запрещены в США с 29 сентября](https://habr.com/ru/news/823300/?utm_campaign=823300&utm_source=habrahabr&utm_medium=rss)
 - [Samsung показала список неподдерживаемых приложений в Windows 11 на ноутбуке Galaxy Book 4 Edge с Qualcomm Snapdragon X](https://habr.com/ru/news/823274/?utm_campaign=823274&utm_source=habrahabr&utm_medium=rss)
 - [В работе оператора карт «Мир» произошёл масштабный сбой](https://habr.com/ru/news/823270/?utm_campaign=823270&utm_source=habrahabr&utm_medium=rss)
-- [AMD подтвердила утечку данных — злоумышленник взломал сайт стороннего поставщика](https://habr.com/ru/news/823220/?utm_campaign=823220&utm_source=habrahabr&utm_medium=rss)
-- [Snapchat AI научилась изменять фон и одежду пользователя в реальном времени](https://habr.com/ru/news/823204/?utm_campaign=823204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
