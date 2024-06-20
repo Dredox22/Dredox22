@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сооснователь OpenAI Илья Суцкевер запустил компанию Safe Superintelligence Inc. с офисами в Калифорнии и Израиле](https://habr.com/ru/news/823094/?utm_campaign=823094&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила разрабатывать сторонние приложения для записи пространственных видео на iPhone](https://habr.com/ru/news/823084/?utm_campaign=823084&utm_source=habrahabr&utm_medium=rss)
 - [Apple пояснила, почему функции Apple Intelligence будут работать только на iPhone 15 Pro](https://habr.com/ru/news/823072/?utm_campaign=823072&utm_source=habrahabr&utm_medium=rss)
 - [Конкурс-Quiz по настольной игре СУПЕРТАНК](https://habr.com/ru/news/823047/?utm_campaign=823047&utm_source=habrahabr&utm_medium=rss)
 - [Seagate начала продавать восстановленные б/у HDD из дата-центров и хранилищ на eBay](https://habr.com/ru/news/823027/?utm_campaign=823027&utm_source=habrahabr&utm_medium=rss)
-- [«Ведомости»: «Элемент» в 2025 году начнёт выпуск компонентов для базовых станций](https://habr.com/ru/news/822993/?utm_campaign=822993&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
