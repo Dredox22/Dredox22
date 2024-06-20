@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AMD подтвердила утечку данных — злоумышленник взломал сайт стороннего поставщика](https://habr.com/ru/news/823220/?utm_campaign=823220&utm_source=habrahabr&utm_medium=rss)
-- [Snapchat AI научилась изменять задний фон и одежду пользователя в реальном времени](https://habr.com/ru/news/823204/?utm_campaign=823204&utm_source=habrahabr&utm_medium=rss)
+- [Snapchat AI научилась изменять фон и одежду пользователя в реальном времени](https://habr.com/ru/news/823204/?utm_campaign=823204&utm_source=habrahabr&utm_medium=rss)
 - [Кряк-бряк: более тысячи ресурсов  заражали пользователей шпионами и стилерами под видом установки взломанного софта](https://habr.com/ru/companies/f_a_c_c_t/news/823182/?utm_campaign=823182&utm_source=habrahabr&utm_medium=rss)
 - [Технологии под летним небом Москвы — на GigaConf от Сбера](https://habr.com/ru/companies/sberbank/news/823142/?utm_campaign=823142&utm_source=habrahabr&utm_medium=rss)
 - [AMD расследует инцидент с возможной утечкой своих данных](https://habr.com/ru/news/823138/?utm_campaign=823138&utm_source=habrahabr&utm_medium=rss)
