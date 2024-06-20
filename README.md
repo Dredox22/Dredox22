@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Технологии под летним небом Москвы — на GigaConf от Сбера](https://habr.com/ru/companies/sberbank/news/823142/?utm_campaign=823142&utm_source=habrahabr&utm_medium=rss)
+- [AMD расследует инцидент с возможной утечкой своих данных](https://habr.com/ru/news/823138/?utm_campaign=823138&utm_source=habrahabr&utm_medium=rss)
 - [Хакер взломал Apple и получил исходные коды трёх сервисов](https://habr.com/ru/news/823114/?utm_campaign=823114&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заявила о проблеме с приложением «Фото» из-за конфликта с групповой политикой](https://habr.com/ru/news/823108/?utm_campaign=823108&utm_source=habrahabr&utm_medium=rss)
 - [В systemd 256.1 исправлена проблема в systemd-tmpfiles, приводившая к удалению всех домашних каталогов раздела /home](https://habr.com/ru/news/823104/?utm_campaign=823104&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь OpenAI Илья Суцкевер запустил компанию Safe Superintelligence Inc. с офисами в Калифорнии и Израиле](https://habr.com/ru/news/823094/?utm_campaign=823094&utm_source=habrahabr&utm_medium=rss)
-- [Apple разрешила разрабатывать сторонние приложения для записи пространственных видео на iPhone](https://habr.com/ru/news/823084/?utm_campaign=823084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
