@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft заявила о проблеме с приложением «Фото» из-за конфликта с групповой политикой](https://habr.com/ru/news/823108/?utm_campaign=823108&utm_source=habrahabr&utm_medium=rss)
+- [В systemd 256.1 исправлена проблема в systemd-tmpfiles, приводившая к удалению всех домашних каталогов раздела /home](https://habr.com/ru/news/823104/?utm_campaign=823104&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь OpenAI Илья Суцкевер запустил компанию Safe Superintelligence Inc. с офисами в Калифорнии и Израиле](https://habr.com/ru/news/823094/?utm_campaign=823094&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила разрабатывать сторонние приложения для записи пространственных видео на iPhone](https://habr.com/ru/news/823084/?utm_campaign=823084&utm_source=habrahabr&utm_medium=rss)
 - [Apple пояснила, почему функции Apple Intelligence будут работать только на iPhone 15 Pro](https://habr.com/ru/news/823072/?utm_campaign=823072&utm_source=habrahabr&utm_medium=rss)
-- [Конкурс-Quiz по настольной игре СУПЕРТАНК](https://habr.com/ru/news/823047/?utm_campaign=823047&utm_source=habrahabr&utm_medium=rss)
-- [Seagate начала продавать восстановленные б/у HDD из дата-центров и хранилищ на eBay](https://habr.com/ru/news/823027/?utm_campaign=823027&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
