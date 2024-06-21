@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прокуратура впервые потребовала с сотового оператора похищенные мошенниками деньги](https://habr.com/ru/news/823466/?utm_campaign=823466&utm_source=habrahabr&utm_medium=rss)
+- [На Камчатке приступили к строительству ВОЛС протяжённостью около 440 км](https://habr.com/ru/news/823454/?utm_campaign=823454&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг предложил ужесточить требования к открытым мобильным ОС](https://habr.com/ru/news/823446/?utm_campaign=823446&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского»: санкции Минторга США против компании способствуют развитию киберпреступности](https://habr.com/ru/news/823420/?utm_campaign=823420&utm_source=habrahabr&utm_medium=rss)
 - [Японские исследователи разработали CatsMe — нейросеть для анализа кошачьих эмоций](https://habr.com/ru/news/823416/?utm_campaign=823416&utm_source=habrahabr&utm_medium=rss)
-- [Новые способы авторизации. Новые условия багхантинга. И новые места в рейтингах! Новости Timeweb Cloud в мае](https://habr.com/ru/companies/timeweb/news/823358/?utm_campaign=823358&utm_source=habrahabr&utm_medium=rss)
-- [Сбер планирует ввести оплату проезда в общественном транспорте по геолокации](https://habr.com/ru/news/823348/?utm_campaign=823348&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic анонсировала новую модель Claude 3.5 Sonnet](https://habr.com/ru/companies/bothub/news/823338/?utm_campaign=823338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
