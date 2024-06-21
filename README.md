@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России к 2030 году планируют создать компьютер с мощностью свыше ста кубитов](https://habr.com/ru/news/823482/?utm_campaign=823482&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo попросила GitHub удалить инструмент Heaven Studio для создания ремиксов Rhythm Heaven и 250 его форков](https://habr.com/ru/news/823478/?utm_campaign=823478&utm_source=habrahabr&utm_medium=rss)
 - [Прокуратура впервые потребовала с сотового оператора похищенные мошенниками деньги](https://habr.com/ru/news/823466/?utm_campaign=823466&utm_source=habrahabr&utm_medium=rss)
 - [На Камчатке приступили к строительству ВОЛС протяжённостью около 440 км](https://habr.com/ru/news/823454/?utm_campaign=823454&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг предложил ужесточить требования к открытым мобильным ОС](https://habr.com/ru/news/823446/?utm_campaign=823446&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского»: санкции Минторга США против компании способствуют развитию киберпреступности](https://habr.com/ru/news/823420/?utm_campaign=823420&utm_source=habrahabr&utm_medium=rss)
-- [Японские исследователи разработали CatsMe — нейросеть для анализа кошачьих эмоций](https://habr.com/ru/news/823416/?utm_campaign=823416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
