@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты обменялись опытом и лучшие практиками по применению 1С в химии](https://habr.com/ru/companies/k2tech/news/823546/?utm_campaign=823546&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Minecraft начали тестировать нативную версию игры для PlayStation 5](https://habr.com/ru/news/823532/?utm_campaign=823532&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст установил Windows XP Tablet PC Edition 2005 на старый MacBook с сенсорным экраном и запустил там Half-Life](https://habr.com/ru/news/823492/?utm_campaign=823492&utm_source=habrahabr&utm_medium=rss)
 - [В России к 2030 году планируют создать компьютер с мощностью свыше ста кубитов](https://habr.com/ru/news/823482/?utm_campaign=823482&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo попросила GitHub удалить инструмент Heaven Studio для создания ремиксов Rhythm Heaven и 250 его форков](https://habr.com/ru/news/823478/?utm_campaign=823478&utm_source=habrahabr&utm_medium=rss)
-- [Прокуратура впервые потребовала с сотового оператора похищенные мошенниками деньги](https://habr.com/ru/news/823466/?utm_campaign=823466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
