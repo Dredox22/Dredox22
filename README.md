@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Японские исследователи разработали CatsMe — нейросеть для анализа кошачьих эмоций](https://habr.com/ru/news/823416/?utm_campaign=823416&utm_source=habrahabr&utm_medium=rss)
 - [Новые способы авторизации. Новые условия багхантинга. И новые места в рейтингах! Новости Timeweb Cloud в мае](https://habr.com/ru/companies/timeweb/news/823358/?utm_campaign=823358&utm_source=habrahabr&utm_medium=rss)
 - [Сбер планирует ввести оплату проезда в общественном транспорте по геолокации](https://habr.com/ru/news/823348/?utm_campaign=823348&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic анонсировала новую модель Claude 3.5 Sonnet](https://habr.com/ru/companies/bothub/news/823338/?utm_campaign=823338&utm_source=habrahabr&utm_medium=rss)
 - [Запуск альфа-тестирования ОС Selectel, релиз почтового сервиса и другие апдейты мая](https://habr.com/ru/companies/selectel/news/823126/?utm_campaign=823126&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Debian 10 напомнили пользователям о необходимости обновления до конца месяца](https://habr.com/ru/news/823304/?utm_campaign=823304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
