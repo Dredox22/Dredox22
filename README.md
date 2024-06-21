@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Linux может появиться «чёрный экран смерти» при Kernel Panic](https://habr.com/ru/news/823598/?utm_campaign=823598&utm_source=habrahabr&utm_medium=rss)
+- [Минфин США ввёл санкции против 12 топ-менеджеров «Лаборатории Касперского»](https://habr.com/ru/news/823594/?utm_campaign=823594&utm_source=habrahabr&utm_medium=rss)
 - [Android Authority: в Android 15 появится опция диагностики устройства](https://habr.com/ru/news/823588/?utm_campaign=823588&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты обменялись опытом и лучшими практиками по применению 1С в химии](https://habr.com/ru/companies/k2tech/news/823546/?utm_campaign=823546&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Minecraft начали тестировать нативную версию игры для PlayStation 5](https://habr.com/ru/news/823532/?utm_campaign=823532&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст установил Windows XP Tablet PC Edition 2005 на старый MacBook с сенсорным экраном и запустил там Half-Life](https://habr.com/ru/news/823492/?utm_campaign=823492&utm_source=habrahabr&utm_medium=rss)
-- [В России к 2030 году планируют создать компьютер с мощностью свыше ста кубитов](https://habr.com/ru/news/823482/?utm_campaign=823482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
