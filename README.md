@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple отложила запуск ИИ-функций iOS 18 в ЕС из-за проблем с местным законодательством](https://habr.com/ru/news/823738/?utm_campaign=823738&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила в продажу набор Chrome Dino в стиле Lego](https://habr.com/ru/news/823736/?utm_campaign=823736&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI предсказали выход «интеллектуальной» версии ChatGPT в конце 2025 года](https://habr.com/ru/news/823730/?utm_campaign=823730&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики смогут интегрировать Apple Translate в свои приложения для iOS](https://habr.com/ru/news/823728/?utm_campaign=823728&utm_source=habrahabr&utm_medium=rss)
 - [В 1Password появились коды для восстановления доступа к учётной записи](https://habr.com/ru/news/823634/?utm_campaign=823634&utm_source=habrahabr&utm_medium=rss)
-- [В Linux может появиться «чёрный экран смерти» при Kernel Panic](https://habr.com/ru/news/823598/?utm_campaign=823598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
