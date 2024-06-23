@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запустила в продажу набор Chrome Dino в стиле Lego](https://habr.com/ru/news/823736/?utm_campaign=823736&utm_source=habrahabr&utm_medium=rss)
+- [В OpenAI предсказали выход «интеллектуальной» версии ChatGPT в конце 2025 года](https://habr.com/ru/news/823730/?utm_campaign=823730&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики смогут интегрировать Apple Translate в свои приложения для iOS](https://habr.com/ru/news/823728/?utm_campaign=823728&utm_source=habrahabr&utm_medium=rss)
 - [В 1Password появились коды для восстановления доступа к учётной записи](https://habr.com/ru/news/823634/?utm_campaign=823634&utm_source=habrahabr&utm_medium=rss)
 - [В Linux может появиться «чёрный экран смерти» при Kernel Panic](https://habr.com/ru/news/823598/?utm_campaign=823598&utm_source=habrahabr&utm_medium=rss)
-- [Минфин США ввёл санкции против 12 топ-менеджеров «Лаборатории Касперского»](https://habr.com/ru/news/823594/?utm_campaign=823594&utm_source=habrahabr&utm_medium=rss)
-- [Android Authority: в Android 15 появится опция диагностики устройства](https://habr.com/ru/news/823588/?utm_campaign=823588&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты обменялись опытом и лучшими практиками по применению 1С в химии](https://habr.com/ru/companies/k2tech/news/823546/?utm_campaign=823546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
