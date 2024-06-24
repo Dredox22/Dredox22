@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Инженер с помощью ИИ автоматически сбрасывает панамы из окна на головы жителям Нью-Йорка](https://habr.com/ru/news/823880/?utm_campaign=823880&utm_source=habrahabr&utm_medium=rss)
-- [Ежегодная премия для этичных хакеров — Pentest award возвращается](https://habr.com/ru/news/823218/?utm_campaign=823218&utm_source=habrahabr&utm_medium=rss)
-- [Релиз планетария с открытым кодом Stellarium 24.2](https://habr.com/ru/news/823864/?utm_campaign=823864&utm_source=habrahabr&utm_medium=rss)
-- [В магазине Apple Store можно бесплатно скопировать с помощью AirDrop на принесённый Mac приложения с витринных MacBook](https://habr.com/ru/news/823856/?utm_campaign=823856&utm_source=habrahabr&utm_medium=rss)
-- [Вышло приложение Final Cut Camera для iPhone и iPad](https://habr.com/ru/news/823854/?utm_campaign=823854&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники в РФ стали представляться сотрудниками техподдержки](https://habr.com/ru/news/823902/?utm_campaign=823902&utm_source=habrahabr&utm_medium=rss)
+- [Мира Мурати: ИИ убьёт некоторые профессии, но они изначально не должны были существовать](https://habr.com/ru/news/823904/?utm_campaign=823904&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: Wi-Fi 7 поддерживается только в Windows 11 24H2](https://habr.com/ru/news/823890/?utm_campaign=823890&utm_source=habrahabr&utm_medium=rss)
+- [Reuters: ByteDance и Broadcom разрабатывают чипы для машинного обучения](https://habr.com/ru/news/823888/?utm_campaign=823888&utm_source=habrahabr&utm_medium=rss)
+- [AMD отказалась провести публичное тестирование ИИ-ускорителя Instinct MI300X](https://habr.com/ru/companies/dcmiran/news/823886/?utm_campaign=823886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
