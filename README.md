@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ежегодная премия для этичных хакеров — Pentest award возвращается](https://habr.com/ru/news/823218/?utm_campaign=823218&utm_source=habrahabr&utm_medium=rss)
+- [Релиз планетария с открытым кодом Stellarium 24.2](https://habr.com/ru/news/823864/?utm_campaign=823864&utm_source=habrahabr&utm_medium=rss)
 - [В магазине Apple Store можно бесплатно скопировать с помощью AirDrop на принесённый Mac приложения с витринных MacBook](https://habr.com/ru/news/823856/?utm_campaign=823856&utm_source=habrahabr&utm_medium=rss)
 - [Вышло приложение Final Cut Camera для iPhone и iPad](https://habr.com/ru/news/823854/?utm_campaign=823854&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого менеджера буфера обмена с функциями редактирования и создания скриптов CopyQ 9.0](https://habr.com/ru/news/823770/?utm_campaign=823770&utm_source=habrahabr&utm_medium=rss)
-- [Apple отложила запуск ИИ-функций iOS 18 в ЕС из-за проблем с местным законодательством](https://habr.com/ru/news/823738/?utm_campaign=823738&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила в продажу набор Chrome Dino в стиле Lego](https://habr.com/ru/news/823736/?utm_campaign=823736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
