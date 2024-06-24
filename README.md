@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженер с помощью ИИ автоматически сбрасывает панамы из окна на головы жителям Нью-Йорка](https://habr.com/ru/news/823880/?utm_campaign=823880&utm_source=habrahabr&utm_medium=rss)
 - [Ежегодная премия для этичных хакеров — Pentest award возвращается](https://habr.com/ru/news/823218/?utm_campaign=823218&utm_source=habrahabr&utm_medium=rss)
 - [Релиз планетария с открытым кодом Stellarium 24.2](https://habr.com/ru/news/823864/?utm_campaign=823864&utm_source=habrahabr&utm_medium=rss)
 - [В магазине Apple Store можно бесплатно скопировать с помощью AirDrop на принесённый Mac приложения с витринных MacBook](https://habr.com/ru/news/823856/?utm_campaign=823856&utm_source=habrahabr&utm_medium=rss)
 - [Вышло приложение Final Cut Camera для iPhone и iPad](https://habr.com/ru/news/823854/?utm_campaign=823854&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого менеджера буфера обмена с функциями редактирования и создания скриптов CopyQ 9.0](https://habr.com/ru/news/823770/?utm_campaign=823770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
