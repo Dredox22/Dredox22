@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Злоумышленники потребовали десятки миллионов долларов после взлома систем поставщика ПО для автосалонов США CDK Global](https://habr.com/ru/news/824038/?utm_campaign=824038&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуму внесли законопроект для появления RuStore на айфонах](https://habr.com/ru/news/824030/?utm_campaign=824030&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Defender считает трояном текстовый файл с одной строкой «This content is no longer available.»](https://habr.com/ru/news/823994/?utm_campaign=823994&utm_source=habrahabr&utm_medium=rss)
 - [Можем, умеем, практикуем. Новый бесплатный курс об информационной безопасности на практике](https://habr.com/ru/companies/selectel/news/823986/?utm_campaign=823986&utm_source=habrahabr&utm_medium=rss)
 - [Apple устранила в VisionOS 1.2 уязвимость CVE-2024-27812, позволяющую вызвать в пространстве пользователя пауков и мышей](https://habr.com/ru/news/823956/?utm_campaign=823956&utm_source=habrahabr&utm_medium=rss)
-- [На заводе Samsung в Калуге запустили производство телевизоров от «М.Видео-Эльдорадо»](https://habr.com/ru/news/823948/?utm_campaign=823948&utm_source=habrahabr&utm_medium=rss)
-- [Лучшим стажерам GlowByte по направлению «Практический ModelOps» предложат трудоустройство в компании](https://habr.com/ru/companies/glowbyte/news/823934/?utm_campaign=823934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
