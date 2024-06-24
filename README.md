@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple устранила в VisionOS 1.2 уязвимость CVE-2024-27812, позволяющую вызвать в пространстве пользователя пауков и мышей](https://habr.com/ru/news/823956/?utm_campaign=823956&utm_source=habrahabr&utm_medium=rss)
+- [На заводе Samsung в Калуге запустили производство телевизоров от «М.Видео-Эльдорадо»](https://habr.com/ru/news/823948/?utm_campaign=823948&utm_source=habrahabr&utm_medium=rss)
+- [Лучшим стажерам GlowByte по направлению «Практический ModelOps» предложат трудоустройство в компании](https://habr.com/ru/companies/glowbyte/news/823934/?utm_campaign=823934&utm_source=habrahabr&utm_medium=rss)
 - [Защитите свою компанию от фишинга и повысьте знания ИБ на бесплатном вебинаре](https://habr.com/ru/companies/beeline_cloud/news/823930/?utm_campaign=823930&utm_source=habrahabr&utm_medium=rss)
 - [Найден способ восстановить работу «Проводника» и WordPad в Windows 11](https://habr.com/ru/news/823918/?utm_campaign=823918&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг отказался от требования отчётов по закупкам отечественной электроники](https://habr.com/ru/news/823914/?utm_campaign=823914&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники в РФ стали представляться сотрудниками техподдержки](https://habr.com/ru/news/823902/?utm_campaign=823902&utm_source=habrahabr&utm_medium=rss)
-- [Мира Мурати: ИИ убьёт некоторые профессии, но они изначально не должны были существовать](https://habr.com/ru/news/823904/?utm_campaign=823904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
