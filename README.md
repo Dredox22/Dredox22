@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Музыкальная индустрия объявляет войну ИИ: иск на создателей хита «BBL Drizzy»](https://habr.com/ru/companies/bothub/news/824182/?utm_campaign=824182&utm_source=habrahabr&utm_medium=rss)
 - [Для «Роса Мобайл» разработали приложение по управлению проектами](https://habr.com/ru/news/824176/?utm_campaign=824176&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/824124/?utm_campaign=824124&utm_source=habrahabr&utm_medium=rss)
 - [Злоумышленники потребовали десятки миллионов долларов после взлома систем поставщика ПО для автосалонов США CDK Global](https://habr.com/ru/news/824038/?utm_campaign=824038&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуму внесли законопроект для появления RuStore на айфонах](https://habr.com/ru/news/824030/?utm_campaign=824030&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Defender считает трояном текстовый файл с одной строкой «This content is no longer available.»](https://habr.com/ru/news/823994/?utm_campaign=823994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
