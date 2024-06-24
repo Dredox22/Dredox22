@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Защитите свою компанию от фишинга и повысьте знания ИБ на бесплатном вебинаре](https://habr.com/ru/companies/beeline_cloud/news/823930/?utm_campaign=823930&utm_source=habrahabr&utm_medium=rss)
+- [Найден способ восстановить работу «Проводника» и WordPad в Windows 11](https://habr.com/ru/news/823918/?utm_campaign=823918&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг отказался от требования отчётов по закупкам отечественной электроники](https://habr.com/ru/news/823914/?utm_campaign=823914&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники в РФ стали представляться сотрудниками техподдержки](https://habr.com/ru/news/823902/?utm_campaign=823902&utm_source=habrahabr&utm_medium=rss)
 - [Мира Мурати: ИИ убьёт некоторые профессии, но они изначально не должны были существовать](https://habr.com/ru/news/823904/?utm_campaign=823904&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: Wi-Fi 7 поддерживается только в Windows 11 24H2](https://habr.com/ru/news/823890/?utm_campaign=823890&utm_source=habrahabr&utm_medium=rss)
-- [Reuters: ByteDance и Broadcom разрабатывают чипы для машинного обучения](https://habr.com/ru/news/823888/?utm_campaign=823888&utm_source=habrahabr&utm_medium=rss)
-- [AMD отказалась провести публичное тестирование ИИ-ускорителя Instinct MI300X](https://habr.com/ru/companies/dcmiran/news/823886/?utm_campaign=823886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
