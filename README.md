@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK и НИУ ВШЭ подготовят специалистов по работе с искусственным интеллектом и высоконагруженными системами](https://habr.com/ru/companies/vk/news/824512/?utm_campaign=824512&utm_source=habrahabr&utm_medium=rss)
+- [Планшет Kvadra_T стал доступен для корпоративного сегмента под управлением ОС «Аврора 5.1»](https://habr.com/ru/news/824510/?utm_campaign=824510&utm_source=habrahabr&utm_medium=rss)
+- [В «Р‑фон» реализовали поддержку смарт‑карт и USB‑токенов «Рутокен ЭЦП 3.0 NFC»](https://habr.com/ru/news/824508/?utm_campaign=824508&utm_source=habrahabr&utm_medium=rss)
+- [LockBit заявила о взломе Федерального резерва США](https://habr.com/ru/news/824506/?utm_campaign=824506&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратила поддержку проекта Material Web Components &lpar;MWC&rpar;](https://habr.com/ru/news/824492/?utm_campaign=824492&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году 25 июня — международный день «генератора случайных чисел» &lpar;определяется каждый раз рандомно&rpar;](https://habr.com/ru/news/824488/?utm_campaign=824488&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Бюро 1440» провела первые успешные тесты спутниковой связи 5G](https://habr.com/ru/news/824422/?utm_campaign=824422&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты по безопасности считают, что штат из всего 30 инженеров в Telegram — тревожный знак для пользователей](https://habr.com/ru/news/824370/?utm_campaign=824370&utm_source=habrahabr&utm_medium=rss)
-- [В России растут продажи ноутбуков собственных торговых марок](https://habr.com/ru/news/824366/?utm_campaign=824366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
