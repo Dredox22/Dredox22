@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK закрыла проект мессенджера ICQ](https://habr.com/ru/news/824518/?utm_campaign=824518&utm_source=habrahabr&utm_medium=rss)
+- [Reddit ужесточает правила использования своих данных для обучения ИИ](https://habr.com/ru/companies/bothub/news/824564/?utm_campaign=824564&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили нейросеть See-2-Sound для генерации звуков окружения по картинке или видео](https://habr.com/ru/news/824552/?utm_campaign=824552&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI начала предупреждать разработчиков в Китае о том, что скоро заблокирует им доступ к инструментам ChatGPT](https://habr.com/ru/news/824546/?utm_campaign=824546&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила разработчикам загружать в App Store приложения объёмом до 4 ГБ](https://habr.com/ru/news/824534/?utm_campaign=824534&utm_source=habrahabr&utm_medium=rss)
-- [VK и НИУ ВШЭ подготовят специалистов по работе с искусственным интеллектом и высоконагруженными системами](https://habr.com/ru/companies/vk/news/824512/?utm_campaign=824512&utm_source=habrahabr&utm_medium=rss)
-- [Планшет Kvadra_T стал доступен для корпоративного сегмента под управлением ОС «Аврора 5.1»](https://habr.com/ru/news/824510/?utm_campaign=824510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
