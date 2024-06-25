@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ушёл из жизни культовый разработчик драйверов для беспроводной сети в Linux Ларри Фингер](https://habr.com/ru/news/824256/?utm_campaign=824256&utm_source=habrahabr&utm_medium=rss)
 - [Ассандж на свободе](https://habr.com/ru/news/824254/?utm_campaign=824254&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из Стэнфорда представили HumanPlus — открытый проект человекоподобного робота](https://habr.com/ru/news/824202/?utm_campaign=824202&utm_source=habrahabr&utm_medium=rss)
 - [В iPadOS 18 появилась возможность форматировать внешние накопители](https://habr.com/ru/news/824200/?utm_campaign=824200&utm_source=habrahabr&utm_medium=rss)
 - [Музыкальная индустрия объявляет войну ИИ: иск на создателей хита «BBL Drizzy»](https://habr.com/ru/companies/bothub/news/824182/?utm_campaign=824182&utm_source=habrahabr&utm_medium=rss)
-- [Для «Роса Мобайл» разработали приложение по управлению проектами](https://habr.com/ru/news/824176/?utm_campaign=824176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
