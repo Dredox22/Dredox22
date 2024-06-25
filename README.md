@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloomberg: Apple отказалась от сотрудничества с Meta из-за опасений о конфиденциальности](https://habr.com/ru/companies/bothub/news/824302/?utm_campaign=824302&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft порекомендовала перейти с приложений «Почта» и «Календарь» на обновлённый Outlook из соображений безопасности](https://habr.com/ru/news/824300/?utm_campaign=824300&utm_source=habrahabr&utm_medium=rss)
+- [Резервное копирование OneDrive в Windows 11 стало обязательным](https://habr.com/ru/news/824294/?utm_campaign=824294&utm_source=habrahabr&utm_medium=rss)
 - [Huawei представила язык программирования Cangjie](https://habr.com/ru/news/824288/?utm_campaign=824288&utm_source=habrahabr&utm_medium=rss)
 - [Apple не пропустила в App Store ещё два приложения эмуляторов ПК для iPhone и iPad](https://habr.com/ru/news/824276/?utm_campaign=824276&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни культовый разработчик драйверов для беспроводной сети в Linux Ларри Фингер](https://habr.com/ru/news/824256/?utm_campaign=824256&utm_source=habrahabr&utm_medium=rss)
-- [Ассанж на свободе](https://habr.com/ru/news/824254/?utm_campaign=824254&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из Стэнфорда представили HumanPlus — открытый проект человекоподобного робота](https://habr.com/ru/news/824202/?utm_campaign=824202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
