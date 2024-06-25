@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Бюро 1440» провела первые успешные тесты спутниковой связи 5G](https://habr.com/ru/news/824422/?utm_campaign=824422&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты по безопасности считают, что штат из всего 30 инженеров в Telegram — тревожный знак для пользователей](https://habr.com/ru/news/824370/?utm_campaign=824370&utm_source=habrahabr&utm_medium=rss)
 - [В России растут продажи ноутбуков собственных торговых марок](https://habr.com/ru/news/824366/?utm_campaign=824366&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного видеоредактора OpenShot 3.2.0](https://habr.com/ru/news/824358/?utm_campaign=824358&utm_source=habrahabr&utm_medium=rss)
 - [Входящего в «Ростех» разработчика базовых станций связи попросили признать банкротом](https://habr.com/ru/news/824354/?utm_campaign=824354&utm_source=habrahabr&utm_medium=rss)
-- [«Известия»: сайты вузов переживают нашествие ботов абитуриентов](https://habr.com/ru/news/824344/?utm_campaign=824344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
