@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России растут продажи ноутбуков собственных торговых марок](https://habr.com/ru/news/824366/?utm_campaign=824366&utm_source=habrahabr&utm_medium=rss)
+- [Релиз кроссплатформенного видеоредактора OpenShot 3.2.0](https://habr.com/ru/news/824358/?utm_campaign=824358&utm_source=habrahabr&utm_medium=rss)
+- [Входящего в «Ростех» разработчика базовых станций связи попросили признать банкротом](https://habr.com/ru/news/824354/?utm_campaign=824354&utm_source=habrahabr&utm_medium=rss)
 - [«Известия»: сайты вузов переживают нашествие ботов абитуриентов](https://habr.com/ru/news/824344/?utm_campaign=824344&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует опцию под названием Digital Credential API для Chrome на Android](https://habr.com/ru/news/824312/?utm_campaign=824312&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар про ИИ в BI: Сокращаем путь от данных к бизнес-решениям до секунд](https://habr.com/ru/companies/sapiens_solutions/news/824314/?utm_campaign=824314&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалила «безобидный» Copilot из Edge](https://habr.com/ru/news/824304/?utm_campaign=824304&utm_source=habrahabr&utm_medium=rss)
-- [Bloomberg: Apple отказалась от сотрудничества с Meta из-за опасений о конфиденциальности](https://habr.com/ru/companies/bothub/news/824302/?utm_campaign=824302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
