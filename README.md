@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Известия»: сайты вузов переживают нашествие ботов абитуриентов](https://habr.com/ru/news/824344/?utm_campaign=824344&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует опцию под названием Digital Credential API для Chrome на Android](https://habr.com/ru/news/824312/?utm_campaign=824312&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар про ИИ в BI: Сокращаем путь от данных к бизнес-решениям до секунд](https://habr.com/ru/companies/sapiens_solutions/news/824314/?utm_campaign=824314&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft удалила «безобидный» Copilot из Edge](https://habr.com/ru/news/824304/?utm_campaign=824304&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg: Apple отказалась от сотрудничества с Meta из-за опасений о конфиденциальности](https://habr.com/ru/companies/bothub/news/824302/?utm_campaign=824302&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft порекомендовала перейти с приложений «Почта» и «Календарь» на обновлённый Outlook из соображений безопасности](https://habr.com/ru/news/824300/?utm_campaign=824300&utm_source=habrahabr&utm_medium=rss)
-- [Резервное копирование OneDrive в Windows 11 стало обязательным](https://habr.com/ru/news/824294/?utm_campaign=824294&utm_source=habrahabr&utm_medium=rss)
-- [Huawei представила язык программирования Cangjie](https://habr.com/ru/news/824288/?utm_campaign=824288&utm_source=habrahabr&utm_medium=rss)
-- [Apple не пропустила в App Store ещё два приложения эмуляторов ПК для iPhone и iPad](https://habr.com/ru/news/824276/?utm_campaign=824276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
