@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Карты биты: новая группа ReaverBits атакует российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/824670/?utm_campaign=824670&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс выпустил отчёт об устойчивом развитии за 2023 год: подборка фактов для Хабра](https://habr.com/ru/companies/yandex/news/824660/?utm_campaign=824660&utm_source=habrahabr&utm_medium=rss)
+- [Google закроет проект Stack: PDF Scanner в сентябре 2024 года](https://habr.com/ru/news/824646/?utm_campaign=824646&utm_source=habrahabr&utm_medium=rss)
+- [Настольное приложение ChatGPT для macOS стало общедоступным](https://habr.com/ru/news/824640/?utm_campaign=824640&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст создал декодер азбуки Морзе на базе Arduino Nano](https://habr.com/ru/news/824634/?utm_campaign=824634&utm_source=habrahabr&utm_medium=rss)
-- [В какой кибербитве мы стали шестикратными чемпионами?](https://habr.com/ru/companies/sovcombank_technologies/news/823140/?utm_campaign=823140&utm_source=habrahabr&utm_medium=rss)
-- [Для IT-инфраструктуры социально значимых объектов разработают общие правила](https://habr.com/ru/news/824632/?utm_campaign=824632&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome тестирует метод разгрузки звука для экономии заряда батареи в Windows 10/11](https://habr.com/ru/news/824626/?utm_campaign=824626&utm_source=habrahabr&utm_medium=rss)
-- [Apple работает над функцией параллельного использования Mac с iPhone или iPad для обработки задач](https://habr.com/ru/news/824620/?utm_campaign=824620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
