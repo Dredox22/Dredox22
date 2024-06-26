@@ -71,7 +71,7 @@
 - [В Telegram раскритиковали заявления экспертов по безопасности TechCrunch по поводу 30 инженеров и серверов в ОАЭ](https://habr.com/ru/news/824588/?utm_campaign=824588&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi Connect теперь поддерживает больше устройств и позволяет получать удалённый доступ к командной оболочке](https://habr.com/ru/news/824576/?utm_campaign=824576&utm_source=habrahabr&utm_medium=rss)
 - [В Notion появилась возможность создавать полноценные веб-сайты](https://habr.com/ru/news/824572/?utm_campaign=824572&utm_source=habrahabr&utm_medium=rss)
-- [VK закрывает проект мессенджера ICQ](https://habr.com/ru/news/824518/?utm_campaign=824518&utm_source=habrahabr&utm_medium=rss)
+- [VK закрыла проект мессенджера ICQ](https://habr.com/ru/news/824518/?utm_campaign=824518&utm_source=habrahabr&utm_medium=rss)
 - [Reddit ужесточает правила использования своих данных для обучения ИИ](https://habr.com/ru/companies/bothub/news/824564/?utm_campaign=824564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
