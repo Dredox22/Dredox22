@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Telegram раскритиковали заявления экспертов по безопасности TechCrunch по поводу 30 инженеров и серверов в ОАЭ](https://habr.com/ru/news/824588/?utm_campaign=824588&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi Connect теперь поддерживает больше устройств и позволяет получать удалённый доступ к командной оболочке](https://habr.com/ru/news/824576/?utm_campaign=824576&utm_source=habrahabr&utm_medium=rss)
-- [В Notion появилась возможность создавать полноценные веб-сайты](https://habr.com/ru/news/824572/?utm_campaign=824572&utm_source=habrahabr&utm_medium=rss)
-- [VK закрыла проект мессенджера ICQ](https://habr.com/ru/news/824518/?utm_campaign=824518&utm_source=habrahabr&utm_medium=rss)
-- [Reddit ужесточает правила использования своих данных для обучения ИИ](https://habr.com/ru/companies/bothub/news/824564/?utm_campaign=824564&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст создал декодер азбуки Морзе на базе Arduino Nano](https://habr.com/ru/news/824634/?utm_campaign=824634&utm_source=habrahabr&utm_medium=rss)
+- [В какой кибербитве мы стали шестикратными чемпионами?](https://habr.com/ru/companies/sovcombank_technologies/news/823140/?utm_campaign=823140&utm_source=habrahabr&utm_medium=rss)
+- [Для IT-инфраструктуры социально значимых объектов разработают общие правила](https://habr.com/ru/news/824632/?utm_campaign=824632&utm_source=habrahabr&utm_medium=rss)
+- [Google Chrome тестирует метод разгрузки звука для экономии заряда батареи в Windows 10/11](https://habr.com/ru/news/824626/?utm_campaign=824626&utm_source=habrahabr&utm_medium=rss)
+- [Apple работает над функцией параллельного использования Mac с iPhone или iPad для обработки задач](https://habr.com/ru/news/824620/?utm_campaign=824620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
