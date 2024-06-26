@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: заявление Google, что менее 1% установок из интернет-магазина Chrome содержат вредоносное ПО, неправда](https://habr.com/ru/news/824880/?utm_campaign=824880&utm_source=habrahabr&utm_medium=rss)
 - [«Бештау» начнёт производство микропроцессоров](https://habr.com/ru/news/824856/?utm_campaign=824856&utm_source=habrahabr&utm_medium=rss)
 - [«Гравитон» открыла производство печатной техники](https://habr.com/ru/news/824852/?utm_campaign=824852&utm_source=habrahabr&utm_medium=rss)
 - [1С Game Studios разрабатывает новую игру «Корея. Ил–2»](https://habr.com/ru/news/824848/?utm_campaign=824848&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудника избирательной комиссии в США арестовали по подозрению в краже цифрового ключа от машин для подсчёта голосов](https://habr.com/ru/news/824836/?utm_campaign=824836&utm_source=habrahabr&utm_medium=rss)
-- [Apple исправила ошибку AirPods, которая позволяла получить несанкционированный доступ к наушникам](https://habr.com/ru/news/824818/?utm_campaign=824818&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
