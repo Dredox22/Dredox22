@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [1С Game Studios разрабатывает новую игру «Корея. Ил–2»](https://habr.com/ru/news/824848/?utm_campaign=824848&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудника избирательной комиссии в США арестовали по подозрению в краже цифрового ключа от машин для подсчёта голосов](https://habr.com/ru/news/824836/?utm_campaign=824836&utm_source=habrahabr&utm_medium=rss)
+- [Apple исправила ошибку AirPods, которая позволяла получить несанкционированный доступ к наушникам](https://habr.com/ru/news/824818/?utm_campaign=824818&utm_source=habrahabr&utm_medium=rss)
 - [В Google Wallet добавили поддержку ключей от умных замков отелей](https://habr.com/ru/news/824780/?utm_campaign=824780&utm_source=habrahabr&utm_medium=rss)
 - [VK запустила единый сервис авторизации для бизнеса и разработчиков](https://habr.com/ru/news/824766/?utm_campaign=824766&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила патч против ошибки, когда приложения Windows 10 отображают диалоговое окно «Открыть с помощью»](https://habr.com/ru/news/824734/?utm_campaign=824734&utm_source=habrahabr&utm_medium=rss)
-- [Карты биты: новая группа ReaverBits атакует российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/824670/?utm_campaign=824670&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс выпустил отчёт об устойчивом развитии за 2023 год: подборка фактов для Хабра](https://habr.com/ru/companies/yandex/news/824660/?utm_campaign=824660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
