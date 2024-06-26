@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Скачать GitHub: пользователи заметили китайский аналог GitHub с клонами оригинальных репозиториев](https://habr.com/ru/news/824896/?utm_campaign=824896&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft грозит штраф за продажу Teams совместно с Office 365 и Microsoft 365](https://habr.com/ru/news/824894/?utm_campaign=824894&utm_source=habrahabr&utm_medium=rss)
 - [В macOS больше не требуется в два раза больше свободного места, чем требуется для установки приложения из App Store](https://habr.com/ru/news/824884/?utm_campaign=824884&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: заявление Google, что менее 1% установок из интернет-магазина Chrome содержат вредоносное ПО, неправда](https://habr.com/ru/news/824880/?utm_campaign=824880&utm_source=habrahabr&utm_medium=rss)
 - [«Бештау» начнёт производство микропроцессоров](https://habr.com/ru/news/824856/?utm_campaign=824856&utm_source=habrahabr&utm_medium=rss)
-- [«Гравитон» открыла производство печатной техники](https://habr.com/ru/news/824852/?utm_campaign=824852&utm_source=habrahabr&utm_medium=rss)
-- [1С Game Studios разрабатывает новую игру «Корея. Ил–2»](https://habr.com/ru/news/824848/?utm_campaign=824848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
