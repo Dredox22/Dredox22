@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Wallet добавили поддержку ключей от умных замков отелей](https://habr.com/ru/news/824780/?utm_campaign=824780&utm_source=habrahabr&utm_medium=rss)
+- [VK запустила единый сервис авторизации для бизнеса и разработчиков](https://habr.com/ru/news/824766/?utm_campaign=824766&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила патч против ошибки, когда приложения Windows 10 отображают диалоговое окно «Открыть с помощью»](https://habr.com/ru/news/824734/?utm_campaign=824734&utm_source=habrahabr&utm_medium=rss)
 - [Карты биты: новая группа ReaverBits атакует российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/824670/?utm_campaign=824670&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс выпустил отчёт об устойчивом развитии за 2023 год: подборка фактов для Хабра](https://habr.com/ru/companies/yandex/news/824660/?utm_campaign=824660&utm_source=habrahabr&utm_medium=rss)
-- [Google закроет проект Stack: PDF Scanner в сентябре 2024 года](https://habr.com/ru/news/824646/?utm_campaign=824646&utm_source=habrahabr&utm_medium=rss)
-- [Настольное приложение ChatGPT для macOS стало общедоступным](https://habr.com/ru/news/824640/?utm_campaign=824640&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
