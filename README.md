@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес выступил против передачи силовикам данных о сетевых портах](https://habr.com/ru/news/825046/?utm_campaign=825046&utm_source=habrahabr&utm_medium=rss)
+- [Атом собирает команду внешних разработчиков приложений для AR HUD](https://habr.com/ru/companies/atom/news/825026/?utm_campaign=825026&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор предложил упростить отказ от обработки персональных данных](https://habr.com/ru/news/825036/?utm_campaign=825036&utm_source=habrahabr&utm_medium=rss)
+- [Вышло исследование CISA 172 ключевых Open Source проектов на предмет уязвимости к ошибкам памяти](https://habr.com/ru/news/825024/?utm_campaign=825024&utm_source=habrahabr&utm_medium=rss)
 - [Вкалывают роботы: в МФТИ создали математическую модель идеального автоматизированного склада](https://habr.com/ru/companies/mipt/news/825006/?utm_campaign=825006&utm_source=habrahabr&utm_medium=rss)
-- [Opera представила One R2 — браузер с нейросетями, раздвоенным экраном и переработанным интерфейсом](https://habr.com/ru/news/825000/?utm_campaign=825000&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 18 и macOS 15 появилась опция «Оставлять загруженным» для папок в iCloud](https://habr.com/ru/news/824976/?utm_campaign=824976&utm_source=habrahabr&utm_medium=rss)
-- [У пользователей Apple Pay в Венгрии без авторизации начали списывать средства с карт](https://habr.com/ru/news/824962/?utm_campaign=824962&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на новый тренинг FineBI: Разработка от v5.0 к 6.0](https://habr.com/ru/companies/glowbyte/news/824968/?utm_campaign=824968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
