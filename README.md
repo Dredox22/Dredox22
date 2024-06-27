@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инструмента для просмотра и обработки JSON в командной строке Fx 35.0.0](https://habr.com/ru/news/825062/?utm_campaign=825062&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains представила Grazie — ИИ-писателя, который доступен в IDE и браузере](https://habr.com/ru/news/825056/?utm_campaign=825056&utm_source=habrahabr&utm_medium=rss)
+- [Стала доступна российская среда разработки Giga IDE со встроенным ИИ-ассистентом от «Сбера» и «СберТеха»](https://habr.com/ru/news/825052/?utm_campaign=825052&utm_source=habrahabr&utm_medium=rss)
 - [Бизнес выступил против передачи силовикам данных о сетевых портах](https://habr.com/ru/news/825046/?utm_campaign=825046&utm_source=habrahabr&utm_medium=rss)
 - [Атом собирает команду внешних разработчиков приложений для AR HUD](https://habr.com/ru/companies/atom/news/825026/?utm_campaign=825026&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор предложил упростить отказ от обработки персональных данных](https://habr.com/ru/news/825036/?utm_campaign=825036&utm_source=habrahabr&utm_medium=rss)
-- [Вышло исследование CISA 172 ключевых Open Source проектов на предмет уязвимости к ошибкам памяти](https://habr.com/ru/news/825024/?utm_campaign=825024&utm_source=habrahabr&utm_medium=rss)
-- [Вкалывают роботы: в МФТИ создали математическую модель идеального автоматизированного склада](https://habr.com/ru/companies/mipt/news/825006/?utm_campaign=825006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
