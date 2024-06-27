@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В iOS 18 и macOS 15 появилась опция «Оставлять загруженным» для папок в iCloud](https://habr.com/ru/news/824976/?utm_campaign=824976&utm_source=habrahabr&utm_medium=rss)
+- [У пользователей Apple Pay в Венгрии без авторизации начали списывать средства с карт](https://habr.com/ru/news/824962/?utm_campaign=824962&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на новый тренинг FineBI: Разработка от v5.0 к 6.0](https://habr.com/ru/companies/glowbyte/news/824968/?utm_campaign=824968&utm_source=habrahabr&utm_medium=rss)
+- [В Rabbit R1 нашли уязвимость, которая раскрывает личные данные владельцев](https://habr.com/ru/news/824956/?utm_campaign=824956&utm_source=habrahabr&utm_medium=rss)
 - [Canonical представила 12-летнюю программу поддержки Everything LTS для образов Docker в рамках подписки Ubuntu Pro](https://habr.com/ru/news/824948/?utm_campaign=824948&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии Steam появилась встроенная опция записи и отправки видео с игровым процессом](https://habr.com/ru/news/824932/?utm_campaign=824932&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на любительском сервере, совместимом с ICQ](https://habr.com/ru/news/824920/?utm_campaign=824920&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla тестирует браузерного ИИ-ассистента в Nightly-сборках Firefox](https://habr.com/ru/news/824910/?utm_campaign=824910&utm_source=habrahabr&utm_medium=rss)
-- [Скачать GitHub: пользователи заметили китайский аналог GitHub с клонами оригинальных репозиториев](https://habr.com/ru/news/824896/?utm_campaign=824896&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
