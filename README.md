@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В бета-версии Steam появилась встроенная опция записи и отправки видео с игровым процессом](https://habr.com/ru/news/824932/?utm_campaign=824932&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на любительском сервере, совместимом с ICQ](https://habr.com/ru/news/824920/?utm_campaign=824920&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla тестирует браузерного ИИ-ассистента в Nightly-сборках Firefox](https://habr.com/ru/news/824910/?utm_campaign=824910&utm_source=habrahabr&utm_medium=rss)
 - [Скачать GitHub: пользователи заметили китайский аналог GitHub с клонами оригинальных репозиториев](https://habr.com/ru/news/824896/?utm_campaign=824896&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft грозит штраф за продажу Teams совместно с Office 365 и Microsoft 365](https://habr.com/ru/news/824894/?utm_campaign=824894&utm_source=habrahabr&utm_medium=rss)
-- [В macOS больше не требуется в два раза больше свободного места, чем требуется для установки приложения из App Store](https://habr.com/ru/news/824884/?utm_campaign=824884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
