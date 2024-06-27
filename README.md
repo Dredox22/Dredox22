@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия TrueConf Server 5.4](https://habr.com/ru/news/825192/?utm_campaign=825192&utm_source=habrahabr&utm_medium=rss)
 - [Apple вернула приложение Rutube в российский App Store](https://habr.com/ru/news/825186/?utm_campaign=825186&utm_source=habrahabr&utm_medium=rss)
 - [Сбер создаёт собственную среду разработки и исполнения Java-приложений SberJDK](https://habr.com/ru/news/825182/?utm_campaign=825182&utm_source=habrahabr&utm_medium=rss)
 - [Google представил Gemma 2: ещё доступнее, ещё мощнее](https://habr.com/ru/companies/bothub/news/825176/?utm_campaign=825176&utm_source=habrahabr&utm_medium=rss)
 - [Новый китайский владелец популярного проекта Polyfill JS внедрил вредоносное ПО более чем на 100 тысяч сайтов](https://habr.com/ru/news/825122/?utm_campaign=825122&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» представил сервис GigaChek для определения текстов, написанных ИИ](https://habr.com/ru/news/825118/?utm_campaign=825118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
