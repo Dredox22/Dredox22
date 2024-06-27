@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вкалывают роботы: в МФТИ создали математическую модель идеального автоматизированного склада](https://habr.com/ru/companies/mipt/news/825006/?utm_campaign=825006&utm_source=habrahabr&utm_medium=rss)
+- [Opera представила One R2 — браузер с нейросетями, раздвоенным экраном и переработанным интерфейсом](https://habr.com/ru/news/825000/?utm_campaign=825000&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 18 и macOS 15 появилась опция «Оставлять загруженным» для папок в iCloud](https://habr.com/ru/news/824976/?utm_campaign=824976&utm_source=habrahabr&utm_medium=rss)
 - [У пользователей Apple Pay в Венгрии без авторизации начали списывать средства с карт](https://habr.com/ru/news/824962/?utm_campaign=824962&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на новый тренинг FineBI: Разработка от v5.0 к 6.0](https://habr.com/ru/companies/glowbyte/news/824968/?utm_campaign=824968&utm_source=habrahabr&utm_medium=rss)
-- [В Rabbit R1 нашли уязвимость, которая раскрывает личные данные владельцев](https://habr.com/ru/news/824956/?utm_campaign=824956&utm_source=habrahabr&utm_medium=rss)
-- [Canonical представила 12-летнюю программу поддержки Everything LTS для образов Docker в рамках подписки Ubuntu Pro](https://habr.com/ru/news/824948/?utm_campaign=824948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
