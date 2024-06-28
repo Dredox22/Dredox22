@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В процедуру переноса номера от одного оператора к другому планируют добавить «независимого арбитра» НИИ Радио](https://habr.com/ru/news/825462/?utm_campaign=825462&utm_source=habrahabr&utm_medium=rss)
 - [В МГТУ заработал новый четырёхкубитный российский квантовый процессор](https://habr.com/ru/news/825444/?utm_campaign=825444&utm_source=habrahabr&utm_medium=rss)
 - [Российские производители электроники попросили исключить технику HP и Fujitsu из параллельного импорта](https://habr.com/ru/news/825310/?utm_campaign=825310&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер», «Альфа» и Т-Банк объединились для создания единого платёжного QR-кода](https://habr.com/ru/news/825286/?utm_campaign=825286&utm_source=habrahabr&utm_medium=rss)
 - [Подтверждена совместимость ОС «Альт» с системой предотвращения утечек данных Solar Dozor](https://habr.com/ru/companies/basealtspo/news/825284/?utm_campaign=825284&utm_source=habrahabr&utm_medium=rss)
-- [Инструмент DIVID обучили находить ИИ-видео в 93,7% случаев](https://habr.com/ru/news/825258/?utm_campaign=825258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
