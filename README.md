@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст запустил сайт с миллионом чекбоксов, которые можно активировать или выключать онлайн](https://habr.com/ru/news/825226/?utm_campaign=825226&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила CriticGPT — нейросеть-ментора по поиску и исправлению ошибок в коде ChatGPT](https://habr.com/ru/news/825204/?utm_campaign=825204&utm_source=habrahabr&utm_medium=rss)
 - [Yadro, возможно, выпустит планшет на собственном RISC‑V-процессоре в 2025 году](https://habr.com/ru/news/825202/?utm_campaign=825202&utm_source=habrahabr&utm_medium=rss)
 - [Apple вернула приложение Rutube в российский App Store](https://habr.com/ru/news/825186/?utm_campaign=825186&utm_source=habrahabr&utm_medium=rss)
 - [Сбер создаёт собственную среду разработки и исполнения Java-приложений SberJDK](https://habr.com/ru/news/825182/?utm_campaign=825182&utm_source=habrahabr&utm_medium=rss)
-- [Google представил Gemma 2: ещё доступнее, ещё мощнее](https://habr.com/ru/companies/bothub/news/825176/?utm_campaign=825176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
