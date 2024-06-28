@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские производители электроники попросили исключить технику HP и Fujitsu из параллельного импорта](https://habr.com/ru/news/825310/?utm_campaign=825310&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер», «Альфа» и Т-Банк объединились для создания единого платёжного QR-кода](https://habr.com/ru/news/825286/?utm_campaign=825286&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость ОС «Альт» с системой предотвращения утечек данных Solar Dozor](https://habr.com/ru/companies/basealtspo/news/825284/?utm_campaign=825284&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент DIVID обучили находить ИИ-видео в 93,7% случаев](https://habr.com/ru/news/825258/?utm_campaign=825258&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Аквариус» запустит в Твери производство корпоративных роутеров](https://habr.com/ru/news/825260/?utm_campaign=825260&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft приостановила развёртывание обновления KB5039302 для Windows 11](https://habr.com/ru/news/825248/?utm_campaign=825248&utm_source=habrahabr&utm_medium=rss)
-- [Google убрала бесконечную прокрутку результатов поиска в веб-версии](https://habr.com/ru/news/825246/?utm_campaign=825246&utm_source=habrahabr&utm_medium=rss)
-- [Научная премия «Сбера» пополнилась номинацией «AI в науке» с призовым фондом 16,5 млн рублей](https://habr.com/ru/news/825244/?utm_campaign=825244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
