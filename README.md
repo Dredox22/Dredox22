@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Руководитель Microsoft по ИИ: использовать контент, если он находится в открытом доступе в Сети, совершенно нормально](https://habr.com/ru/news/825550/?utm_campaign=825550&utm_source=habrahabr&utm_medium=rss)
 - [В TeamViewer сообщили о хакерской атаке на корпоративную среду компании](https://habr.com/ru/news/825524/?utm_campaign=825524&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot Enterprise теперь помогает с pull request и файлами в проектах](https://habr.com/ru/news/825518/?utm_campaign=825518&utm_source=habrahabr&utm_medium=rss)
 - [В Китае состоялся релиз обновлённой ИИ-модели от Baidu — Ernie 4.0 Turbo](https://habr.com/ru/news/825492/?utm_campaign=825492&utm_source=habrahabr&utm_medium=rss)
 - [НАСА представило 3D-визуализацию «Столпов Творения» в туманности Орла](https://habr.com/ru/news/825490/?utm_campaign=825490&utm_source=habrahabr&utm_medium=rss)
-- [Автор сайта с миллионом чекбоксов отказался его монетизировать и раскрыл детали и ошибки проекта](https://habr.com/ru/news/825488/?utm_campaign=825488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
