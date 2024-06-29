@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [10 бесплатных курсов и мастер-классов, которые стоит пройти в июле](https://habr.com/ru/companies/netologyru/news/825496/?utm_campaign=825496&utm_source=habrahabr&utm_medium=rss)
+- [Slack перестанет предоставлять бесплатным пользователям опцию пожизненного хранения истории](https://habr.com/ru/news/825570/?utm_campaign=825570&utm_source=habrahabr&utm_medium=rss)
 - [Руководитель Microsoft по ИИ: использовать контент, если он находится в открытом доступе в Сети, совершенно нормально](https://habr.com/ru/news/825550/?utm_campaign=825550&utm_source=habrahabr&utm_medium=rss)
 - [В TeamViewer сообщили о хакерской атаке на корпоративную среду компании](https://habr.com/ru/news/825524/?utm_campaign=825524&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot Enterprise теперь помогает с pull request и файлами в проектах](https://habr.com/ru/news/825518/?utm_campaign=825518&utm_source=habrahabr&utm_medium=rss)
-- [В Китае состоялся релиз обновлённой ИИ-модели от Baidu — Ernie 4.0 Turbo](https://habr.com/ru/news/825492/?utm_campaign=825492&utm_source=habrahabr&utm_medium=rss)
-- [НАСА представило 3D-визуализацию «Столпов Творения» в туманности Орла](https://habr.com/ru/news/825490/?utm_campaign=825490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
