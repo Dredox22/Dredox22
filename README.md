@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenDNS заблокировала свои сервисы во Франции &lpar;включая внешние территории&rpar; и в Португалии](https://habr.com/ru/news/825594/?utm_campaign=825594&utm_source=habrahabr&utm_medium=rss)
 - [Опубликованы результаты исследования, можем ли мы научить языковые модели истолковывать исчезающие языки?](https://habr.com/ru/news/825584/?utm_campaign=825584&utm_source=habrahabr&utm_medium=rss)
 - [Центр журналистских расследований &lpar;CIR&rpar; подал в суд на Microsoft и OpenAI за нарушение авторских прав](https://habr.com/ru/news/825578/?utm_campaign=825578&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных курсов и мастер-классов, которые стоит пройти в июле](https://habr.com/ru/companies/netologyru/news/825496/?utm_campaign=825496&utm_source=habrahabr&utm_medium=rss)
 - [Slack перестанет предоставлять бесплатным пользователям опцию пожизненного хранения истории](https://habr.com/ru/news/825570/?utm_campaign=825570&utm_source=habrahabr&utm_medium=rss)
-- [Руководитель Microsoft по ИИ: использовать контент, если он находится в открытом доступе в Сети, совершенно нормально](https://habr.com/ru/news/825550/?utm_campaign=825550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
