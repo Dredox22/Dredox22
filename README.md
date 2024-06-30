@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Оригинальная гарнитура Meta* Quest VR потеряет аппаратную поддержку 31 августа](https://habr.com/ru/news/825628/?utm_campaign=825628&utm_source=habrahabr&utm_medium=rss)
 - [Канада начинает работу над новым робоманипулятором Canadarm3 для окололунной станции НАСА Gateway](https://habr.com/ru/news/825624/?utm_campaign=825624&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи нашли критическую уязвимость в приложении KakaoTalk, но награда по bug bounty доступна только для корейцев](https://habr.com/ru/news/825620/?utm_campaign=825620&utm_source=habrahabr&utm_medium=rss)
 - [Google Таблицы получили обновление производительности в Chrome и Edge](https://habr.com/ru/news/825604/?utm_campaign=825604&utm_source=habrahabr&utm_medium=rss)
 - [Sony сократит 250 сотрудников команды по производству оптических носителей](https://habr.com/ru/news/825602/?utm_campaign=825602&utm_source=habrahabr&utm_medium=rss)
-- [OpenDNS заблокировала свои сервисы во Франции &lpar;включая внешние территории&rpar; и в Португалии](https://habr.com/ru/news/825594/?utm_campaign=825594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
