@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз GnuCash 5.7](https://habr.com/ru/news/825842/?utm_campaign=825842&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram-каналах с вакансиями начали появляться мошеннические объявления об удалённой работе в IT](https://habr.com/ru/news/825836/?utm_campaign=825836&utm_source=habrahabr&utm_medium=rss)
+- [Как развернуть веб-приложение или Telegram-бота с сервисом Evolution Container Apps: покажем 4 июля на вебинаре](https://habr.com/ru/companies/cloud_ru/news/825328/?utm_campaign=825328&utm_source=habrahabr&utm_medium=rss)
+- [Для Mac выпустили приложение с мухами для очистки корзины](https://habr.com/ru/news/825824/?utm_campaign=825824&utm_source=habrahabr&utm_medium=rss)
 - [В РФ к 2028 году должны наладить серийное производство процессоров на 65 нм](https://habr.com/ru/news/825808/?utm_campaign=825808&utm_source=habrahabr&utm_medium=rss)
-- [Запустили бесплатный курс Deep Security – основы криптографии, защита сети, приложений и пользователей](https://habr.com/ru/companies/beeline_cloud/news/825798/?utm_campaign=825798&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст подключил Windows XP к интернету, и она за пару минут нахватала вирусов](https://habr.com/ru/companies/cloud4y/news/825790/?utm_campaign=825790&utm_source=habrahabr&utm_medium=rss)
-- [В Австралии задержали мужчину, создававшего поддельные сети Wi–Fi на авиарейсах для сбора учётных данных пассажиров](https://habr.com/ru/news/825784/?utm_campaign=825784&utm_source=habrahabr&utm_medium=rss)
-- [Учёные Австралии получили высокопроизводительную систему Virga](https://habr.com/ru/news/825760/?utm_campaign=825760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
