@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РФ к 2028 году должны наладить серийное производство процессоров на 65 нм](https://habr.com/ru/news/825808/?utm_campaign=825808&utm_source=habrahabr&utm_medium=rss)
+- [Запустили бесплатный курс Deep Security – основы криптографии, защита сети, приложений и пользователей](https://habr.com/ru/companies/beeline_cloud/news/825798/?utm_campaign=825798&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст подключил Windows XP к интернету, и она за пару минут нахватала вирусов](https://habr.com/ru/companies/cloud4y/news/825790/?utm_campaign=825790&utm_source=habrahabr&utm_medium=rss)
 - [В Австралии задержали мужчину, создававшего поддельные сети Wi–Fi на авиарейсах для сбора учётных данных пассажиров](https://habr.com/ru/news/825784/?utm_campaign=825784&utm_source=habrahabr&utm_medium=rss)
 - [Учёные Австралии получили высокопроизводительную систему Virga](https://habr.com/ru/news/825760/?utm_campaign=825760&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: панель мини-приложений, оплата медиаконтента «Звёздами», поиск историй](https://habr.com/ru/news/825762/?utm_campaign=825762&utm_source=habrahabr&utm_medium=rss)
-- [Jetbrains ограничили загрузку IntelliJ IDEA из РФ](https://habr.com/ru/news/825756/?utm_campaign=825756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
