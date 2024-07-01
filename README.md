@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [За последние 3 года доля внедрения российских BI-решений выросла почти в 8 раз](https://habr.com/ru/companies/k2tech/news/825388/?utm_campaign=825388&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome разрешит изолированным веб-приложениям получать доступ к конфиденциальным USB-устройствам](https://habr.com/ru/news/825744/?utm_campaign=825744&utm_source=habrahabr&utm_medium=rss)
-- [Полиции Детройта запретили проводить аресты исключительно на основании работы систем распознавания лиц](https://habr.com/ru/news/825728/?utm_campaign=825728&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыты кодовые названия Apple iOS 19 и macOS 16](https://habr.com/ru/news/825720/?utm_campaign=825720&utm_source=habrahabr&utm_medium=rss)
-- [Epic отправила на проверку приложения Fortnite и Epic Games Store для iPhone в Евросоюзе](https://habr.com/ru/news/825672/?utm_campaign=825672&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст подключил Windows XP к интернету, и она за пару минут нахватала вирусов](https://habr.com/ru/companies/cloud4y/news/825790/?utm_campaign=825790&utm_source=habrahabr&utm_medium=rss)
+- [В Австралии задержали мужчину, создававшего поддельные сети Wi–Fi на авиарейсах для сбора учётных данных пассажиров](https://habr.com/ru/news/825784/?utm_campaign=825784&utm_source=habrahabr&utm_medium=rss)
+- [Учёные Австралии получили высокопроизводительную систему Virga](https://habr.com/ru/news/825760/?utm_campaign=825760&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Telegram: панель мини-приложений, оплата медиаконтента «Звёздами», поиск историй](https://habr.com/ru/news/825762/?utm_campaign=825762&utm_source=habrahabr&utm_medium=rss)
+- [Jetbrains ограничили загрузку IntelliJ IDEA из РФ](https://habr.com/ru/news/825756/?utm_campaign=825756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
