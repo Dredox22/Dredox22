@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В OpenSSH обнаружена критическая уязвимость, позволяющая удалённо выполнить код с правами root на серверах с Glibc](https://habr.com/ru/news/825958/?utm_campaign=825958&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор ИРИ назвал негатив вокруг игры «Смута» дополнительной рекламой](https://habr.com/ru/news/825968/?utm_campaign=825968&utm_source=habrahabr&utm_medium=rss)
+- [В OpenSSH найдена критическая уязвимость, позволяющая удалённо выполнить код с правами root на 32-bit серверах с Glibc](https://habr.com/ru/news/825958/?utm_campaign=825958&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/825930/?utm_campaign=825930&utm_source=habrahabr&utm_medium=rss)
 - [Месяц в WordPress: июнь 2024](https://habr.com/ru/news/825904/?utm_campaign=825904&utm_source=habrahabr&utm_medium=rss)
 - [Капибаре скоро 1 год. День рождения сообщества Новый Старый Пикабу](https://habr.com/ru/news/825890/?utm_campaign=825890&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт: расследованием утечек персональных данных должны заниматься цифровые криминалисты](https://habr.com/ru/news/825872/?utm_campaign=825872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
