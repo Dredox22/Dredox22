@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Раскрыты кодовые названия Apple iOS 19 и macOS 16](https://habr.com/ru/news/825720/?utm_campaign=825720&utm_source=habrahabr&utm_medium=rss)
 - [Epic отправила на проверку приложения Fortnite и Epic Games Store для iPhone в Евросоюзе](https://habr.com/ru/news/825672/?utm_campaign=825672&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: последнее обновление KB5039302 для Windows 11 нарушает работу панели задач](https://habr.com/ru/news/825666/?utm_campaign=825666&utm_source=habrahabr&utm_medium=rss)
 - [Первые 5 тысяч карт «Тройка» с российским чипом нового поколения поступили в продажу](https://habr.com/ru/news/825644/?utm_campaign=825644&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» предупредила об опасности использования USB-имитаторов компьютерной мыши](https://habr.com/ru/news/825640/?utm_campaign=825640&utm_source=habrahabr&utm_medium=rss)
-- [Поддержка оригинальной гарнитуры Meta* Quest VR прекратится 31 августа](https://habr.com/ru/news/825628/?utm_campaign=825628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
