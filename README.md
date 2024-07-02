@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [11 июля — архитектурный митап от билайна: Новосибирск + онлайн](https://habr.com/ru/companies/beeline_tech/news/826140/?utm_campaign=826140&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft рассказала о работе функции безопасности VBS Enclave в Windows 11](https://habr.com/ru/news/826058/?utm_campaign=826058&utm_source=habrahabr&utm_medium=rss)
 - [Встречаемся 11 июля на InfraTech в Новосибирске](https://habr.com/ru/companies/vk/news/825964/?utm_campaign=825964&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenSSH 9.8](https://habr.com/ru/news/826052/?utm_campaign=826052&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Образование» проведёт онлайн-конференцию для учителей информатики по теме нейросетей в современной школе](https://habr.com/ru/news/826040/?utm_campaign=826040&utm_source=habrahabr&utm_medium=rss)
-- [Samsung и Samsung Display вводят 6-дневную 64-часовую рабочую неделю для своих команд](https://habr.com/ru/news/826034/?utm_campaign=826034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
