@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Образование» проведёт онлайн-конференцию для учителей информатики по теме нейросетей в современной школе](https://habr.com/ru/news/826040/?utm_campaign=826040&utm_source=habrahabr&utm_medium=rss)
 - [Samsung и Samsung Display вводят 6-дневную 64-часовую рабочую неделю для своих команд](https://habr.com/ru/news/826034/?utm_campaign=826034&utm_source=habrahabr&utm_medium=rss)
 - [Астрофотограф Мигель Кларо сделал покадровую фотографию прохода МКС по диску Солнца](https://habr.com/ru/news/826030/?utm_campaign=826030&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор ИРИ назвал негатив вокруг игры «Смута» дополнительной рекламой](https://habr.com/ru/news/825968/?utm_campaign=825968&utm_source=habrahabr&utm_medium=rss)
 - [В OpenSSH найдена критическая уязвимость, позволяющая удалённо выполнить код с правами root на серверах с Glibc](https://habr.com/ru/news/825958/?utm_campaign=825958&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/825930/?utm_campaign=825930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
