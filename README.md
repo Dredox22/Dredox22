@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GigaIDE — новая IDE от Сбера](https://habr.com/ru/companies/spring_aio/news/826164/?utm_campaign=826164&utm_source=habrahabr&utm_medium=rss)
+- [В РФ предложили распространить правовую охрану на цифровые образы человека](https://habr.com/ru/news/826160/?utm_campaign=826160&utm_source=habrahabr&utm_medium=rss)
+- [Cистема Termit поддерживает безопасное удаленное подписание документов через КриптоПро CSP](https://habr.com/ru/companies/orion_soft/news/826144/?utm_campaign=826144&utm_source=habrahabr&utm_medium=rss)
 - [11 июля — архитектурный митап от билайна: Новосибирск + онлайн](https://habr.com/ru/companies/beeline_tech/news/826140/?utm_campaign=826140&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft рассказала о работе функции безопасности VBS Enclave в Windows 11](https://habr.com/ru/news/826058/?utm_campaign=826058&utm_source=habrahabr&utm_medium=rss)
-- [Встречаемся 11 июля на InfraTech в Новосибирске](https://habr.com/ru/companies/vk/news/825964/?utm_campaign=825964&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenSSH 9.8](https://habr.com/ru/news/826052/?utm_campaign=826052&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Образование» проведёт онлайн-конференцию для учителей информатики по теме нейросетей в современной школе](https://habr.com/ru/news/826040/?utm_campaign=826040&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
