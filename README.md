@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сброс на заводские настройки смартфонов серии Pixel 6 привёл к «окирпичиванию» устройств](https://habr.com/ru/news/826206/?utm_campaign=826206&utm_source=habrahabr&utm_medium=rss)
 - [Новый выпуск подкаста «Безопасный выход»: Управление рисками ИБ](https://habr.com/ru/companies/aktiv-company/news/826194/?utm_campaign=826194&utm_source=habrahabr&utm_medium=rss)
 - [GigaIDE — новая IDE от Сбера](https://habr.com/ru/companies/spring_aio/news/826164/?utm_campaign=826164&utm_source=habrahabr&utm_medium=rss)
 - [В РФ предложили распространить правовую охрану на цифровые образы человека](https://habr.com/ru/news/826160/?utm_campaign=826160&utm_source=habrahabr&utm_medium=rss)
 - [Cистема Termit поддерживает безопасное удаленное подписание документов через КриптоПро CSP](https://habr.com/ru/companies/orion_soft/news/826144/?utm_campaign=826144&utm_source=habrahabr&utm_medium=rss)
-- [11 июля — архитектурный митап от билайна: Новосибирск + онлайн](https://habr.com/ru/companies/beeline_tech/news/826140/?utm_campaign=826140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
