@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МЦСТ» раскрыла исходные коды компонентов Linux, системных библиотек и ПО для платформы «Эльбрус»](https://habr.com/ru/news/826490/?utm_campaign=826490&utm_source=habrahabr&utm_medium=rss)
+- [Samsung представила свой QLC SSD на 61,44 Тбайт](https://habr.com/ru/companies/dcmiran/news/826484/?utm_campaign=826484&utm_source=habrahabr&utm_medium=rss)
 - [XIX ежегодная конференция «СПО в высшей школе»: чему учить студентов ИТ-специальностей и как сэкономить на виртуализации](https://habr.com/ru/companies/basealtspo/news/826240/?utm_campaign=826240&utm_source=habrahabr&utm_medium=rss)
 - [Вышла утилита xd-AntiSpy — аналог xp-AntiSpy &lpar;инструмент эпохи Windows XP&rpar;, но для отключения части функций в Windows 11](https://habr.com/ru/news/826436/?utm_campaign=826436&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на вебинар «Безопасная разработка ПО для значимых объектов КИИ»](https://habr.com/ru/companies/ussc/news/826410/?utm_campaign=826410&utm_source=habrahabr&utm_medium=rss)
-- [GPU «научили» использовать подключённую по PCIe память](https://habr.com/ru/news/826366/?utm_campaign=826366&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и IBM объявили о партнёрстве в сфере кибербеза](https://habr.com/ru/news/826358/?utm_campaign=826358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
