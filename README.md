@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МЦСТ» раскроет исходные коды компонентов Linux, системных библиотек, патчей совместимости и ПО для платформы «Эльбрус»](https://habr.com/ru/news/826298/?utm_campaign=826298&utm_source=habrahabr&utm_medium=rss)
+- [Автор сайта с миллионом чекбоксов перевёл проект на Go для улучшения производительности и противостояния ботам](https://habr.com/ru/news/826290/?utm_campaign=826290&utm_source=habrahabr&utm_medium=rss)
 - [Figma отключила свою новую ИИ-опцию из-за проверки, почему Figma AI скопировала дизайн приложения «Погода» от Apple](https://habr.com/ru/news/826276/?utm_campaign=826276&utm_source=habrahabr&utm_medium=rss)
 - [Память GDDR7 даст видеокартам буст производительности на 30%](https://habr.com/ru/companies/dcmiran/news/826274/?utm_campaign=826274&utm_source=habrahabr&utm_medium=rss)
 - [Ondřej Surý заблокировал свой PPA с пакетами PHP в России](https://habr.com/ru/news/826262/?utm_campaign=826262&utm_source=habrahabr&utm_medium=rss)
-- [Сброс на заводские настройки смартфонов серии Pixel 6 привёл к «окирпичиванию» устройств](https://habr.com/ru/news/826206/?utm_campaign=826206&utm_source=habrahabr&utm_medium=rss)
-- [Новый выпуск подкаста «Безопасный выход»: Управление рисками ИБ](https://habr.com/ru/companies/aktiv-company/news/826194/?utm_campaign=826194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
