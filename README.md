@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные открыли способ «выращивания» транзисторов субнанометрового размера](https://habr.com/ru/news/826528/?utm_campaign=826528&utm_source=habrahabr&utm_medium=rss)
 - [Всемирная организация интеллектуальной собственности &lpar;ВОИС&rpar; выпустила отчет о патентном ландшафте в генеративном ИИ 2024](https://habr.com/ru/news/826522/?utm_campaign=826522&utm_source=habrahabr&utm_medium=rss)
 - [Google теперь платит $250 тыс. за уязвимости нулевого дня Kernel-based Virtual Machine &lpar;KVM&rpar;](https://habr.com/ru/news/826498/?utm_campaign=826498&utm_source=habrahabr&utm_medium=rss)
 - [«МЦСТ» раскрыла исходные коды компонентов Linux, системных библиотек и ПО для платформы «Эльбрус»](https://habr.com/ru/news/826490/?utm_campaign=826490&utm_source=habrahabr&utm_medium=rss)
 - [Samsung представила свой QLC SSD на 61,44 Тбайт](https://habr.com/ru/companies/dcmiran/news/826484/?utm_campaign=826484&utm_source=habrahabr&utm_medium=rss)
-- [XIX ежегодная конференция «СПО в высшей школе»: чему учить студентов ИТ-специальностей и как сэкономить на виртуализации](https://habr.com/ru/companies/basealtspo/news/826240/?utm_campaign=826240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
