@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открыта регистрация на вебинар «Безопасная разработка ПО для значимых объектов КИИ»](https://habr.com/ru/companies/ussc/news/826410/?utm_campaign=826410&utm_source=habrahabr&utm_medium=rss)
 - [GPU «научили» использовать подключённую по PCIe память](https://habr.com/ru/news/826366/?utm_campaign=826366&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и IBM объявили о партнёрстве в сфере кибербеза](https://habr.com/ru/news/826358/?utm_campaign=826358&utm_source=habrahabr&utm_medium=rss)
 - [Google рассказала о правильном сбросе настроек в смартфонах Pixel 6](https://habr.com/ru/news/826354/?utm_campaign=826354&utm_source=habrahabr&utm_medium=rss)
 - [«Зеленые» обещания Google под угрозой: выбросы компании выросли на 50% из-за развития ИИ](https://habr.com/ru/companies/bothub/news/826362/?utm_campaign=826362&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies: перед кибермошенниками уязвимы 96% организаций](https://habr.com/ru/news/826348/?utm_campaign=826348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
