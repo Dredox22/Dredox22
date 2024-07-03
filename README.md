@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [XIX ежегодная конференция «СПО в высшей школе»: чему учить студентов ИТ-специальностей и как сэкономить на виртуализации](https://habr.com/ru/companies/basealtspo/news/826240/?utm_campaign=826240&utm_source=habrahabr&utm_medium=rss)
 - [Вышла утилита xd-AntiSpy — аналог xp-AntiSpy &lpar;инструмент эпохи Windows XP&rpar;, но для отключения части функций в Windows 11](https://habr.com/ru/news/826436/?utm_campaign=826436&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на вебинар «Безопасная разработка ПО для значимых объектов КИИ»](https://habr.com/ru/companies/ussc/news/826410/?utm_campaign=826410&utm_source=habrahabr&utm_medium=rss)
 - [GPU «научили» использовать подключённую по PCIe память](https://habr.com/ru/news/826366/?utm_campaign=826366&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и IBM объявили о партнёрстве в сфере кибербеза](https://habr.com/ru/news/826358/?utm_campaign=826358&utm_source=habrahabr&utm_medium=rss)
-- [Google рассказала о правильном сбросе настроек в смартфонах Pixel 6](https://habr.com/ru/news/826354/?utm_campaign=826354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
