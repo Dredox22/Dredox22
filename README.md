@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPU «научили» использовать подключённую по PCIe память](https://habr.com/ru/news/826366/?utm_campaign=826366&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и IBM объявили о партнёрстве в сфере кибербеза](https://habr.com/ru/news/826358/?utm_campaign=826358&utm_source=habrahabr&utm_medium=rss)
 - [Google рассказала о правильном сбросе настроек в смартфонах Pixel 6](https://habr.com/ru/news/826354/?utm_campaign=826354&utm_source=habrahabr&utm_medium=rss)
 - [«Зеленые» обещания Google под угрозой: выбросы компании выросли на 50% из-за развития ИИ](https://habr.com/ru/companies/bothub/news/826362/?utm_campaign=826362&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies: перед кибермошенниками уязвимы 96% организаций](https://habr.com/ru/news/826348/?utm_campaign=826348&utm_source=habrahabr&utm_medium=rss)
-- [Вышла СУБД MySQL 9.0.0](https://habr.com/ru/news/826328/?utm_campaign=826328&utm_source=habrahabr&utm_medium=rss)
-- [«МЦСТ» раскроет исходные коды компонентов Linux, системных библиотек, патчей совместимости и ПО для платформы «Эльбрус»](https://habr.com/ru/news/826298/?utm_campaign=826298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
