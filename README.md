@@ -70,9 +70,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Figma отключила свою новую ИИ-опцию из-за проверки, почему Figma AI скопировала дизайн приложения «Погода» от Apple](https://habr.com/ru/news/826276/?utm_campaign=826276&utm_source=habrahabr&utm_medium=rss)
 - [Память GDDR7 даст видеокартам буст производительности на 30%](https://habr.com/ru/companies/dcmiran/news/826274/?utm_campaign=826274&utm_source=habrahabr&utm_medium=rss)
-- [Совет по фиксу нехватки места на Mac для разработчиков](https://habr.com/ru/news/826270/?utm_campaign=826270&utm_source=habrahabr&utm_medium=rss)
 - [Ondřej Surý заблокировал свой PPA с пакетами PHP в России](https://habr.com/ru/news/826262/?utm_campaign=826262&utm_source=habrahabr&utm_medium=rss)
 - [Сброс на заводские настройки смартфонов серии Pixel 6 привёл к «окирпичиванию» устройств](https://habr.com/ru/news/826206/?utm_campaign=826206&utm_source=habrahabr&utm_medium=rss)
+- [Новый выпуск подкаста «Безопасный выход»: Управление рисками ИБ](https://habr.com/ru/companies/aktiv-company/news/826194/?utm_campaign=826194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
