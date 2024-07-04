@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon закрывает проект корпоративных версий робота Astro](https://habr.com/ru/news/826600/?utm_campaign=826600&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар по фаззингу REST API: научим закрывать риски безопасности 10 июля](https://habr.com/ru/companies/swordfish_security/news/826568/?utm_campaign=826568&utm_source=habrahabr&utm_medium=rss)
-- [РБК: спецслужбы потребовали от операторов связи ограничить услуги IP-телефонии](https://habr.com/ru/news/826604/?utm_campaign=826604&utm_source=habrahabr&utm_medium=rss)
-- [Proton запустил бесплатную и приватную альтернативу Google Docs](https://habr.com/ru/news/826594/?utm_campaign=826594&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare открыла доступ своим клиентам к опции бесплатной блокировки веб-сканеров поисковых ботов с ИИ](https://habr.com/ru/news/826564/?utm_campaign=826564&utm_source=habrahabr&utm_medium=rss)
+- [Генеративные нейросети в «Яндекс Клавиатуре» помогут исправить и улучшить текст](https://habr.com/ru/news/826654/?utm_campaign=826654&utm_source=habrahabr&utm_medium=rss)
+- [Нейросети помогут исправить и улучшить текст в Яндекс Клавиатуре](https://habr.com/ru/companies/yandex/news/826574/?utm_campaign=826574&utm_source=habrahabr&utm_medium=rss)
+- [Приложение ChatGPT для Mac сохраняло разговоры в виде обычного текста](https://habr.com/ru/news/826630/?utm_campaign=826630&utm_source=habrahabr&utm_medium=rss)
+- [Apple по требованию Роскомнадзора удалила несколько приложений VPN сервисов из российского App Store](https://habr.com/ru/news/826640/?utm_campaign=826640&utm_source=habrahabr&utm_medium=rss)
+- [Kyutai представил голосового помощника Moshi, который превзошёл ChatGPT](https://habr.com/ru/news/826610/?utm_campaign=826610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
