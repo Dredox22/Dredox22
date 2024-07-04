@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг планирует субсидировать конечную стоимость отечественных процессоров, чтобы снизить цену и повысить спрос](https://habr.com/ru/news/826762/?utm_campaign=826762&utm_source=habrahabr&utm_medium=rss)
+- [Руководство «Формулы-1» сообщило об утечке данных после фишинговой атаки по электронной почте](https://habr.com/ru/news/826758/?utm_campaign=826758&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз 0.8.0 Open Source-платформы Cozystack: fluxcd-оператор, e2e-тесты, поддержа ARM, etcd-operator 0.3.0](https://habr.com/ru/companies/aenix/news/826698/?utm_campaign=826698&utm_source=habrahabr&utm_medium=rss)
 - [Apple по требованию РКН удалила из российского App Store 25 VPN-сервисов](https://habr.com/ru/news/826694/?utm_campaign=826694&utm_source=habrahabr&utm_medium=rss)
 - [В сервисе Tracer для сбора и анализа ошибок в приложениях появился генеративный ИИ](https://habr.com/ru/news/826676/?utm_campaign=826676&utm_source=habrahabr&utm_medium=rss)
-- [Нейросети помогут исправить и улучшить текст в Яндекс Клавиатуре](https://habr.com/ru/companies/yandex/news/826574/?utm_campaign=826574&utm_source=habrahabr&utm_medium=rss)
-- [Приложение ChatGPT для Mac сохраняло разговоры в виде обычного текста](https://habr.com/ru/news/826630/?utm_campaign=826630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
