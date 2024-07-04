@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Генеративные нейросети в «Яндекс Клавиатуре» помогут исправить и улучшить текст](https://habr.com/ru/news/826654/?utm_campaign=826654&utm_source=habrahabr&utm_medium=rss)
+- [Генеративные нейросети в «Яндекс Клавиатуре» будут помогать исправить и улучшить текст](https://habr.com/ru/news/826654/?utm_campaign=826654&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети помогут исправить и улучшить текст в Яндекс Клавиатуре](https://habr.com/ru/companies/yandex/news/826574/?utm_campaign=826574&utm_source=habrahabr&utm_medium=rss)
 - [Приложение ChatGPT для Mac сохраняло разговоры в виде обычного текста](https://habr.com/ru/news/826630/?utm_campaign=826630&utm_source=habrahabr&utm_medium=rss)
 - [Apple по требованию Роскомнадзора удалила несколько приложений VPN сервисов из российского App Store](https://habr.com/ru/news/826640/?utm_campaign=826640&utm_source=habrahabr&utm_medium=rss)
