@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В открытом доступе появилась online-версия книги «Руководство по эффективному программированию на платформе «Эльбрус»»](https://habr.com/ru/news/826556/?utm_campaign=826556&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare открыла доступ своим клиентам к опции по бесплатной блокировке веб-сканеров поисковых ботов с ИИ](https://habr.com/ru/news/826564/?utm_campaign=826564&utm_source=habrahabr&utm_medium=rss)
+- [На портале dev.mcst.ru вышла online-версия книги «Руководство по эффективному программированию на платформе «Эльбрус»»](https://habr.com/ru/news/826556/?utm_campaign=826556&utm_source=habrahabr&utm_medium=rss)
 - [В предлагаемых к реализации патчах Linux к логотипу пингвина на «экран смерти» при Kernel Panic добавили QR-код](https://habr.com/ru/news/826546/?utm_campaign=826546&utm_source=habrahabr&utm_medium=rss)
 - [Учёные открыли способ «выращивания» транзисторов субнанометрового размера](https://habr.com/ru/news/826528/?utm_campaign=826528&utm_source=habrahabr&utm_medium=rss)
 - [Всемирная организация интеллектуальной собственности &lpar;ВОИС&rpar; выпустила отчет о патентном ландшафте в генеративном ИИ 2024](https://habr.com/ru/news/826522/?utm_campaign=826522&utm_source=habrahabr&utm_medium=rss)
-- [Google теперь платит $250 тыс. за уязвимости нулевого дня Kernel-based Virtual Machine &lpar;KVM&rpar;](https://habr.com/ru/news/826498/?utm_campaign=826498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
