@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare открыла доступ своим клиентам к опции по бесплатной блокировке веб-сканеров поисковых ботов с ИИ](https://habr.com/ru/news/826564/?utm_campaign=826564&utm_source=habrahabr&utm_medium=rss)
-- [На портале dev.mcst.ru вышла online-версия книги «Руководство по эффективному программированию на платформе «Эльбрус»»](https://habr.com/ru/news/826556/?utm_campaign=826556&utm_source=habrahabr&utm_medium=rss)
-- [В предлагаемых к реализации патчах Linux к логотипу пингвина на «экран смерти» при Kernel Panic добавили QR-код](https://habr.com/ru/news/826546/?utm_campaign=826546&utm_source=habrahabr&utm_medium=rss)
-- [Учёные открыли способ «выращивания» транзисторов субнанометрового размера](https://habr.com/ru/news/826528/?utm_campaign=826528&utm_source=habrahabr&utm_medium=rss)
-- [Всемирная организация интеллектуальной собственности &lpar;ВОИС&rpar; выпустила отчет о патентном ландшафте в генеративном ИИ 2024](https://habr.com/ru/news/826522/?utm_campaign=826522&utm_source=habrahabr&utm_medium=rss)
+- [Amazon закрывает проект корпоративных версий робота Astro](https://habr.com/ru/news/826600/?utm_campaign=826600&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар по фаззингу REST API: научим закрывать риски безопасности 10 июля](https://habr.com/ru/companies/swordfish_security/news/826568/?utm_campaign=826568&utm_source=habrahabr&utm_medium=rss)
+- [РБК: спецслужбы потребовали от операторов связи ограничить услуги IP-телефонии](https://habr.com/ru/news/826604/?utm_campaign=826604&utm_source=habrahabr&utm_medium=rss)
+- [Proton запустил бесплатную и приватную альтернативу Google Docs](https://habr.com/ru/news/826594/?utm_campaign=826594&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare открыла доступ своим клиентам к опции бесплатной блокировки веб-сканеров поисковых ботов с ИИ](https://habr.com/ru/news/826564/?utm_campaign=826564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
