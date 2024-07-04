@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Вышел релиз 0.8.0 Open Source-платформы Cozystack: fluxcd-оператор, e2e-тесты, поддержа ARM, etcd-operator 0.3.0](https://habr.com/ru/companies/aenix/news/826698/?utm_campaign=826698&utm_source=habrahabr&utm_medium=rss)
-- [Замглавы комитета Госдумы по информполитике: Apple по требованию РКН удалила из российского App Store четыре VPN-сервиса](https://habr.com/ru/news/826694/?utm_campaign=826694&utm_source=habrahabr&utm_medium=rss)
+- [Apple по требованию РКН удалила из российского App Store несколько VPN-сервисов](https://habr.com/ru/news/826694/?utm_campaign=826694&utm_source=habrahabr&utm_medium=rss)
 - [В сервисе Tracer для сбора и анализа ошибок в приложениях появился генеративный ИИ](https://habr.com/ru/news/826676/?utm_campaign=826676&utm_source=habrahabr&utm_medium=rss)
 - [Генеративные нейросети в «Яндекс Клавиатуре» будут помогать исправить и улучшить текст](https://habr.com/ru/news/826654/?utm_campaign=826654&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети помогут исправить и улучшить текст в Яндекс Клавиатуре](https://habr.com/ru/companies/yandex/news/826574/?utm_campaign=826574&utm_source=habrahabr&utm_medium=rss)
