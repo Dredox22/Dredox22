@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Открыт набор в новый состав Молодёжного совета Координационного центра доменов *.RU/*.РФ 2024-2025 годов](https://habr.com/ru/news/826786/?utm_campaign=826786&utm_source=habrahabr&utm_medium=rss)
 - [Apple Game Porting Toolkit теперь помогает разработчикам портировать игры с macOS на iOS](https://habr.com/ru/news/826784/?utm_campaign=826784&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг планирует субсидировать конечную стоимость отечественных процессоров, чтобы снизить цену и повысить спрос](https://habr.com/ru/news/826762/?utm_campaign=826762&utm_source=habrahabr&utm_medium=rss)
 - [Руководство «Формулы-1» сообщило об утечке данных после фишинговой атаки по электронной почте](https://habr.com/ru/news/826758/?utm_campaign=826758&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз 0.8.0 Open Source-платформы Cozystack: fluxcd-оператор, e2e-тесты, поддержа ARM, etcd-operator 0.3.0](https://habr.com/ru/companies/aenix/news/826698/?utm_campaign=826698&utm_source=habrahabr&utm_medium=rss)
+- [Apple по требованию РКН удалила из российского App Store 25 VPN-сервисов](https://habr.com/ru/news/826694/?utm_campaign=826694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
