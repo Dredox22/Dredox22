@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Merlion стал новым владельцем брендов Vitek, Röndell, Maxwell и Coolfort](https://habr.com/ru/news/826906/?utm_campaign=826906&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft Store вышло неофициальное приложение для установки Windows 11 на Surface Duo](https://habr.com/ru/news/826886/?utm_campaign=826886&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс научил Нейро точнее отвечать на вопросы пользователей и добавил голосовой ввод](https://habr.com/ru/companies/yandex/news/826878/?utm_campaign=826878&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft временно удалит некоторые из бесплатных виртуальных машин с Windows 11](https://habr.com/ru/news/826870/?utm_campaign=826870&utm_source=habrahabr&utm_medium=rss)
 - [С помощью блок-схем можно заставить GPT-4o выдавать заблокированный текстовый ответ](https://habr.com/ru/news/826866/?utm_campaign=826866&utm_source=habrahabr&utm_medium=rss)
-- [Кроссовки Nike Adapt BB с автоматической шнуровкой лишатся в августе мобильного приложения с дистанционным управлением](https://habr.com/ru/news/826864/?utm_campaign=826864&utm_source=habrahabr&utm_medium=rss)
-- [4000 звёзд на GitHub у werf — нашей Open Source-утилиты для CI/CD](https://habr.com/ru/companies/flant/news/826860/?utm_campaign=826860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
