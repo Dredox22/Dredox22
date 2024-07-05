@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Федеральная торговая комиссия США предупредила ASRock, Gigabyte и Zotac, что наклейки Warranty Void If Removed незаконны](https://habr.com/ru/news/827024/?utm_campaign=827024&utm_source=habrahabr&utm_medium=rss)
+- [GS Nanotech завершил корпусирование тестовой партии сложных многовыводных микросхем для стратегического партнёра](https://habr.com/ru/news/827020/?utm_campaign=827020&utm_source=habrahabr&utm_medium=rss)
+- [На производстве OpenYard стартовало контрактное производство для компании «Гравитон»](https://habr.com/ru/news/827014/?utm_campaign=827014&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo не планирует использовать ИИ в разработке игр](https://habr.com/ru/news/827006/?utm_campaign=827006&utm_source=habrahabr&utm_medium=rss)
 - [ИИ в разработке: что он может и куда идем?](https://habr.com/ru/news/826982/?utm_campaign=826982&utm_source=habrahabr&utm_medium=rss)
-- [Merlion стал новым владельцем брендов Vitek, Röndell, Maxwell и Coolfort](https://habr.com/ru/news/826906/?utm_campaign=826906&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Store вышло неофициальное приложение для установки Windows 11 на Surface Duo](https://habr.com/ru/news/826886/?utm_campaign=826886&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс научил Нейро точнее отвечать на вопросы пользователей и добавил голосовой ввод](https://habr.com/ru/companies/yandex/news/826878/?utm_campaign=826878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
