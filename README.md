@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кроссовки Nike Adapt BB с автоматической шнуровкой лишатся в августе мобильного приложения с дистанционным управлением](https://habr.com/ru/news/826864/?utm_campaign=826864&utm_source=habrahabr&utm_medium=rss)
+- [4000 звёзд на GitHub у werf — нашей Open Source-утилиты для CI/CD](https://habr.com/ru/companies/flant/news/826860/?utm_campaign=826860&utm_source=habrahabr&utm_medium=rss)
+- [Процессоры Intel Arrow Lake-S будут поддерживать только память DDR5](https://habr.com/ru/news/826858/?utm_campaign=826858&utm_source=habrahabr&utm_medium=rss)
 - [Cognitive Pilot разработала игнорирующую «глушилки» GPS систему навигации для трамваев](https://habr.com/ru/news/826796/?utm_campaign=826796&utm_source=habrahabr&utm_medium=rss)
 - [Apple Game Porting Toolkit теперь помогает разработчикам портировать игры с macOS на iOS](https://habr.com/ru/news/826784/?utm_campaign=826784&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг планирует субсидировать конечную стоимость отечественных процессоров, чтобы снизить цену и повысить спрос](https://habr.com/ru/news/826762/?utm_campaign=826762&utm_source=habrahabr&utm_medium=rss)
-- [Руководство «Формулы-1» сообщило об утечке данных после фишинговой атаки по электронной почте](https://habr.com/ru/news/826758/?utm_campaign=826758&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз 0.8.0 Open Source-платформы Cozystack: fluxcd-оператор, e2e-тесты, поддержа ARM, etcd-operator 0.3.0](https://habr.com/ru/companies/aenix/news/826698/?utm_campaign=826698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
