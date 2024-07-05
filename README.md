@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo не планирует использовать ИИ в разработке игр](https://habr.com/ru/news/827006/?utm_campaign=827006&utm_source=habrahabr&utm_medium=rss)
 - [ИИ в разработке: что он может и куда идем?](https://habr.com/ru/news/826982/?utm_campaign=826982&utm_source=habrahabr&utm_medium=rss)
 - [Merlion стал новым владельцем брендов Vitek, Röndell, Maxwell и Coolfort](https://habr.com/ru/news/826906/?utm_campaign=826906&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Store вышло неофициальное приложение для установки Windows 11 на Surface Duo](https://habr.com/ru/news/826886/?utm_campaign=826886&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс научил Нейро точнее отвечать на вопросы пользователей и добавил голосовой ввод](https://habr.com/ru/companies/yandex/news/826878/?utm_campaign=826878&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft временно удалит некоторые из бесплатных виртуальных машин с Windows 11](https://habr.com/ru/news/826870/?utm_campaign=826870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
