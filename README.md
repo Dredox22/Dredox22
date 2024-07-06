@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Настольная версия приложения Signal для Mac &lpar;и не только&rpar; хранит ключи шифрования на ПК в виде обычного текста](https://habr.com/ru/news/827104/?utm_campaign=827104&utm_source=habrahabr&utm_medium=rss)
 - [Tesla патентует самоочистку в роботакси, Apple телескопные линзы, а Google систему навигации для машин: дайджест](https://habr.com/ru/companies/onlinepatent/news/826992/?utm_campaign=826992&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI стала бесплатной для пользователей и малого бизнеса](https://habr.com/ru/news/827064/?utm_campaign=827064&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры опубликовали базу с 9,9 миллиардами утёкших паролей](https://habr.com/ru/news/827060/?utm_campaign=827060&utm_source=habrahabr&utm_medium=rss)
 - [В сети появился сайт с одним чекбоксом онлайн — это антагонист сайта с миллионом чекбоксов](https://habr.com/ru/news/827030/?utm_campaign=827030&utm_source=habrahabr&utm_medium=rss)
-- [Федеральная торговая комиссия США предупредила ASRock, Gigabyte и Zotac, что наклейки Warranty Void If Removed незаконны](https://habr.com/ru/news/827024/?utm_campaign=827024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
