@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Stability AI стала бесплатной для пользователей и малого бизнеса](https://habr.com/ru/news/827064/?utm_campaign=827064&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры опубликовали базу с 9,9 миллиардами утёкших паролей](https://habr.com/ru/news/827060/?utm_campaign=827060&utm_source=habrahabr&utm_medium=rss)
 - [Федеральная торговая комиссия США предупредила ASRock, Gigabyte и Zotac, что наклейки Warranty Void If Removed незаконны](https://habr.com/ru/news/827024/?utm_campaign=827024&utm_source=habrahabr&utm_medium=rss)
 - [GS Nanotech завершил корпусирование тестовой партии сложных многовыводных микросхем для стратегического партнёра](https://habr.com/ru/news/827020/?utm_campaign=827020&utm_source=habrahabr&utm_medium=rss)
 - [На производстве OpenYard стартовало контрактное производство для компании «Гравитон»](https://habr.com/ru/news/827014/?utm_campaign=827014&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo не планирует использовать ИИ в разработке игр](https://habr.com/ru/news/827006/?utm_campaign=827006&utm_source=habrahabr&utm_medium=rss)
-- [ИИ в разработке: что он может и куда идем?](https://habr.com/ru/news/826982/?utm_campaign=826982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
