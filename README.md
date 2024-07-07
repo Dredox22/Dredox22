@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ryzen 9 9900X конкурент всего лишь для core i7-14700K, но есть нюанс](https://habr.com/ru/companies/dcmiran/news/827218/?utm_campaign=827218&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Контакты» от Google можно будет использовать без учётной записи](https://habr.com/ru/news/827160/?utm_campaign=827160&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia открыла исходный код инструментария Creator Toolkit для работы с RTX Remix](https://habr.com/ru/news/827154/?utm_campaign=827154&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Store появится окно поиска для раздела «Библиотека»](https://habr.com/ru/news/827150/?utm_campaign=827150&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT в ответ на приветствие от пользователя случайно поделился своими ограничениями и секретными правилами](https://habr.com/ru/news/827144/?utm_campaign=827144&utm_source=habrahabr&utm_medium=rss)
-- [Настольная версия приложения Signal для Mac &lpar;и не только&rpar; хранит ключи шифрования на ПК в виде обычного текста](https://habr.com/ru/news/827104/?utm_campaign=827104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
