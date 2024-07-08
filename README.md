@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram оштрафовали на 3 млн рублей за неудаление запрещённой информации](https://habr.com/ru/news/827334/?utm_campaign=827334&utm_source=habrahabr&utm_medium=rss)
+- [AiConf — прикладная конференция по Data Science 26 и 27 сентября в Москве](https://habr.com/ru/companies/oleg-bunin/news/827322/?utm_campaign=827322&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК предложила увеличить штрафы за нарушение требований к защите информации до 25 раз](https://habr.com/ru/news/827308/?utm_campaign=827308&utm_source=habrahabr&utm_medium=rss)
 - [Тысячи сотрудников Samsung устроили забастовку с требованием поднять зарплаты](https://habr.com/ru/news/827310/?utm_campaign=827310&utm_source=habrahabr&utm_medium=rss)
 - [В Zotac по ошибке выгрузили в открытый доступ в облако Google файлы с данными клиентов](https://habr.com/ru/news/827302/?utm_campaign=827302&utm_source=habrahabr&utm_medium=rss)
-- [PowerToys получит модуль для исправления работы тусклых контекстных меню Windows 11](https://habr.com/ru/news/827284/?utm_campaign=827284&utm_source=habrahabr&utm_medium=rss)
-- [Apple одобрила запуск iOS Epic Games Store в ЕС](https://habr.com/ru/news/827294/?utm_campaign=827294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
