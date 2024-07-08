@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Asus добавила поддержку RGB Windows Dynamic Lighting в бета-версию BIOS для двух серий материнских плат](https://habr.com/ru/news/827482/?utm_campaign=827482&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/827464/?utm_campaign=827464&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Роскомнадзор обнаружил в РФ 256 абонентов с более чем 1000 зарегистрированных сим-карт у каждого](https://habr.com/ru/news/827450/?utm_campaign=827450&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Роскомнадзор обнаружил в РФ 265 абонентов с более чем 1000 зарегистрированных сим-карт у каждого](https://habr.com/ru/news/827450/?utm_campaign=827450&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: пользователи из регионов пожаловались на сбои в работе WhatsApp](https://habr.com/ru/news/827436/?utm_campaign=827436&utm_source=habrahabr&utm_medium=rss)
 - [Whoosh будет выборочно тестировать самокатчиков на реакцию перед поездкой](https://habr.com/ru/news/827414/?utm_campaign=827414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
