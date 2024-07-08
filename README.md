@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован скрипт, который создаёт анимированный GIF-файл в стиле Tetris на основе вкладов пользователя GitHub за год](https://habr.com/ru/news/827256/?utm_campaign=827256&utm_source=habrahabr&utm_medium=rss)
+- [Технология Нитро поможет пользователям Яндекс Музыки найти близкие по интересам треки начинающих исполнителей](https://habr.com/ru/companies/yandex/news/827226/?utm_campaign=827226&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст представил шаблон электронной таблицы в Google Sheets для компилятора микрокода самодельного процессора](https://habr.com/ru/news/827224/?utm_campaign=827224&utm_source=habrahabr&utm_medium=rss)
 - [Ryzen 9 9900X конкурент всего лишь для core i7-14700K, но есть нюанс](https://habr.com/ru/companies/dcmiran/news/827218/?utm_campaign=827218&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Контакты» от Google можно будет использовать без учётной записи](https://habr.com/ru/news/827160/?utm_campaign=827160&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia открыла исходный код инструментария Creator Toolkit для работы с RTX Remix](https://habr.com/ru/news/827154/?utm_campaign=827154&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Store появится окно поиска для раздела «Библиотека»](https://habr.com/ru/news/827150/?utm_campaign=827150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
