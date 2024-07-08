@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Роскомнадзор обнаружил в РФ 256 абонентов с более чем 1000 зарегистрированных сим-карт у каждого](https://habr.com/ru/news/827450/?utm_campaign=827450&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: пользователи из регионов пожаловались на сбои в работе WhatsApp](https://habr.com/ru/news/827436/?utm_campaign=827436&utm_source=habrahabr&utm_medium=rss)
 - [Whoosh будет выборочно тестировать самокатчиков на реакцию перед поездкой](https://habr.com/ru/news/827414/?utm_campaign=827414&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обязала своих сотрудников в Китае сменить смартфоны Android на iPhone из-за корпоративных правил безопасности](https://habr.com/ru/news/827378/?utm_campaign=827378&utm_source=habrahabr&utm_medium=rss)
 - [Крепкая финансовая связь: эксперты F.A.C.C.T. вскрыли киберпреступников VasyGrek и Mr.Burns](https://habr.com/ru/companies/f_a_c_c_t/news/827346/?utm_campaign=827346&utm_source=habrahabr&utm_medium=rss)
-- [Telegram оштрафовали на 3 млн рублей за неудаление запрещённой информации](https://habr.com/ru/news/827334/?utm_campaign=827334&utm_source=habrahabr&utm_medium=rss)
-- [AiConf — прикладная конференция по Data Science 26 и 27 сентября в Москве](https://habr.com/ru/companies/oleg-bunin/news/827322/?utm_campaign=827322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
