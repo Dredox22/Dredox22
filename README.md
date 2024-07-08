@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft выпустила прошивку для исправления проблемы с неработающими портами USB-C в Surface Pro 7+](https://habr.com/ru/news/827278/?utm_campaign=827278&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован скрипт, который создаёт анимированный GIF-файл в стиле Tetris на основе вкладов пользователя GitHub за год](https://habr.com/ru/news/827256/?utm_campaign=827256&utm_source=habrahabr&utm_medium=rss)
-- [Технология Нитро поможет пользователям Яндекс Музыки найти близкие по интересам треки начинающих исполнителей](https://habr.com/ru/companies/yandex/news/827226/?utm_campaign=827226&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст представил шаблон электронной таблицы в Google Sheets для компилятора микрокода самодельного процессора](https://habr.com/ru/news/827224/?utm_campaign=827224&utm_source=habrahabr&utm_medium=rss)
-- [Ryzen 9 9900X конкурент всего лишь для core i7-14700K, но есть нюанс](https://habr.com/ru/companies/dcmiran/news/827218/?utm_campaign=827218&utm_source=habrahabr&utm_medium=rss)
+- [ФСТЭК предложила увеличить штрафы за нарушение требований к защите информации до 25 раз](https://habr.com/ru/news/827308/?utm_campaign=827308&utm_source=habrahabr&utm_medium=rss)
+- [Тысячи сотрудников Samsung устроили забастовку с требованием поднять зарплаты](https://habr.com/ru/news/827310/?utm_campaign=827310&utm_source=habrahabr&utm_medium=rss)
+- [В Zotac по ошибке выгрузили в открытый доступ в облако Google файлы с данными клиентов](https://habr.com/ru/news/827302/?utm_campaign=827302&utm_source=habrahabr&utm_medium=rss)
+- [PowerToys получит модуль для исправления работы тусклых контекстных меню Windows 11](https://habr.com/ru/news/827284/?utm_campaign=827284&utm_source=habrahabr&utm_medium=rss)
+- [Apple одобрила запуск iOS Epic Games Store в ЕС](https://habr.com/ru/news/827294/?utm_campaign=827294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
