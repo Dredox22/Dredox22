@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD объявила о планах стать компанией-разработчиком программного обеспечения](https://habr.com/ru/news/827652/?utm_campaign=827652&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: хакер в 2023 году украл информацию о технологии искусственного интеллекта OpenAI, но компания хранила это в тайне](https://habr.com/ru/news/827638/?utm_campaign=827638&utm_source=habrahabr&utm_medium=rss)
+- [В Турции и Казахстане вырос спрос на услуги российских хостинг-провайдеров](https://habr.com/ru/news/827636/?utm_campaign=827636&utm_source=habrahabr&utm_medium=rss)
 - [«Додо Пицца» объяснила, почему подала в суд на Telegram из-за юзернейма канала](https://habr.com/ru/news/827624/?utm_campaign=827624&utm_source=habrahabr&utm_medium=rss)
 - [В сентябре начнётся добровольный эксперимент по маркировке видеоигр в РФ](https://habr.com/ru/news/827622/?utm_campaign=827622&utm_source=habrahabr&utm_medium=rss)
-- [В РФ можно будет заключить брак и сменить фамилию по биометрии](https://habr.com/ru/news/827604/?utm_campaign=827604&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Freeaim представил обувь с моторизованными колёсами Freeaim VR Shoes для виртуальной реальности](https://habr.com/ru/news/827598/?utm_campaign=827598&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи MIT представили генеративный ИИ для баз данных](https://habr.com/ru/news/827588/?utm_campaign=827588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
