@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi открыла полностью автономную фабрику Xiaomi Smart Factory, где роботы собирают по одному смартфону в секунду](https://habr.com/ru/news/827722/?utm_campaign=827722&utm_source=habrahabr&utm_medium=rss)
+- [Ajv-ts версии 0.7 и щепотка typescript](https://habr.com/ru/news/827708/?utm_campaign=827708&utm_source=habrahabr&utm_medium=rss)
 - [«Роскосмос» разработал устройство персональной спутниковой связи размером с мобильник](https://habr.com/ru/news/827706/?utm_campaign=827706&utm_source=habrahabr&utm_medium=rss)
 - [В России за два года втрое вырос спрос на электронику и технику китайских брендов](https://habr.com/ru/news/827702/?utm_campaign=827702&utm_source=habrahabr&utm_medium=rss)
 - [Новый пользовательский интерфейс по-умолчанию в IDE от JetBrains версии 2024.2](https://habr.com/ru/news/827676/?utm_campaign=827676&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры выложили в общий доступ 38 745 оригинальных билетов из базы сервиса Ticketmaster на 154 концерта](https://habr.com/ru/news/827666/?utm_campaign=827666&utm_source=habrahabr&utm_medium=rss)
-- [AMD объявила о планах стать компанией-разработчиком программного обеспечения](https://habr.com/ru/news/827652/?utm_campaign=827652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
