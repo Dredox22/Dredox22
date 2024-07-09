@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Роскосмос» разработал устройство персональной спутниковой связи размером с мобильник](https://habr.com/ru/news/827706/?utm_campaign=827706&utm_source=habrahabr&utm_medium=rss)
+- [В России за два года втрое вырос спрос на электронику и технику китайских брендов](https://habr.com/ru/news/827702/?utm_campaign=827702&utm_source=habrahabr&utm_medium=rss)
+- [Новый пользовательский интерфейс по-умолчанию в IDE от JetBrains версии 2024.2](https://habr.com/ru/news/827676/?utm_campaign=827676&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры выложили в общий доступ 38 745 оригинальных билетов из базы сервиса Ticketmaster на 154 концерта](https://habr.com/ru/news/827666/?utm_campaign=827666&utm_source=habrahabr&utm_medium=rss)
 - [AMD объявила о планах стать компанией-разработчиком программного обеспечения](https://habr.com/ru/news/827652/?utm_campaign=827652&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: хакер в 2023 году украл информацию о технологии искусственного интеллекта OpenAI, но компания хранила это в тайне](https://habr.com/ru/news/827638/?utm_campaign=827638&utm_source=habrahabr&utm_medium=rss)
-- [В Турции и Казахстане вырос спрос на услуги российских хостинг-провайдеров](https://habr.com/ru/news/827636/?utm_campaign=827636&utm_source=habrahabr&utm_medium=rss)
-- [«Додо Пицца» объяснила, почему подала в суд на Telegram из-за юзернейма канала](https://habr.com/ru/news/827624/?utm_campaign=827624&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
