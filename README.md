@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 128.0 с патчем против бага 25-летней давности](https://habr.com/ru/news/827568/?utm_campaign=827568&utm_source=habrahabr&utm_medium=rss)
 - [Создатели игры «Смута» выпустят ещё два новых образовательных режима игры](https://habr.com/ru/news/827542/?utm_campaign=827542&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» расширил сборочное производство микросхем](https://habr.com/ru/news/827536/?utm_campaign=827536&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия «Аврора Центр 5.0»](https://habr.com/ru/news/827532/?utm_campaign=827532&utm_source=habrahabr&utm_medium=rss)
 - [Asus добавила поддержку RGB Windows Dynamic Lighting в бета-версию BIOS для двух серий материнских плат](https://habr.com/ru/news/827482/?utm_campaign=827482&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/827464/?utm_campaign=827464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
