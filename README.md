@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: в РФ открыли доступ к базовой опции системы социального рейтинга «Мы» от РГСУ](https://habr.com/ru/news/827780/?utm_campaign=827780&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi открыла полностью автономную фабрику Xiaomi Smart Factory, где роботы собирают по одному смартфону в секунду](https://habr.com/ru/news/827722/?utm_campaign=827722&utm_source=habrahabr&utm_medium=rss)
 - [Ajv-ts версии 0.7 и щепотка typescript](https://habr.com/ru/news/827708/?utm_campaign=827708&utm_source=habrahabr&utm_medium=rss)
 - [«Роскосмос» разработал устройство персональной спутниковой связи размером с мобильник](https://habr.com/ru/news/827706/?utm_campaign=827706&utm_source=habrahabr&utm_medium=rss)
 - [В России за два года втрое вырос спрос на электронику и технику китайских брендов](https://habr.com/ru/news/827702/?utm_campaign=827702&utm_source=habrahabr&utm_medium=rss)
-- [Новый пользовательский интерфейс по-умолчанию в IDE от JetBrains версии 2024.2](https://habr.com/ru/news/827676/?utm_campaign=827676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
