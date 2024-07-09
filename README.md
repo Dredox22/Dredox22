@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Додо Пицца» объяснила, почему подала в суд на Telegram из-за юзернейма канала](https://habr.com/ru/news/827624/?utm_campaign=827624&utm_source=habrahabr&utm_medium=rss)
+- [В сентябре начнётся добровольный эксперимент по маркировке видеоигр в РФ](https://habr.com/ru/news/827622/?utm_campaign=827622&utm_source=habrahabr&utm_medium=rss)
+- [В РФ можно будет заключить брак и сменить фамилию по биометрии](https://habr.com/ru/news/827604/?utm_campaign=827604&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Freeaim представил обувь с моторизованными колёсами Freeaim VR Shoes для виртуальной реальности](https://habr.com/ru/news/827598/?utm_campaign=827598&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи MIT представили генеративный ИИ для баз данных](https://habr.com/ru/news/827588/?utm_campaign=827588&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft напомнила о прекращении поддержки Windows 11 22H2 и необходимости обновления до версии 23H2](https://habr.com/ru/news/827592/?utm_campaign=827592&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft потребовала от корпоративных клиентов перехода на новый Outlook в июле-августе](https://habr.com/ru/news/827582/?utm_campaign=827582&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 128.0 с патчем против бага 25-летней давности](https://habr.com/ru/news/827568/?utm_campaign=827568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
