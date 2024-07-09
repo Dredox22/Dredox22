@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап Freeaim представил обувь с моторизованными колёсами Freeaim VR Shoes для виртуальной реальности](https://habr.com/ru/news/827598/?utm_campaign=827598&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи MIT представили генеративный ИИ для баз данных](https://habr.com/ru/news/827588/?utm_campaign=827588&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft напомнила о прекращении поддержки Windows 11 22H2 и необходимости обновления до версии 23H2](https://habr.com/ru/news/827592/?utm_campaign=827592&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft потребовала от корпоративных клиентов перехода на новый Outlook в июле-августе](https://habr.com/ru/news/827582/?utm_campaign=827582&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 128.0 с патчем против бага 25-летней давности](https://habr.com/ru/news/827568/?utm_campaign=827568&utm_source=habrahabr&utm_medium=rss)
-- [Создатели игры «Смута» выпустят ещё два новых образовательных режима игры](https://habr.com/ru/news/827542/?utm_campaign=827542&utm_source=habrahabr&utm_medium=rss)
-- [«Микрон» расширил сборочное производство микросхем](https://habr.com/ru/news/827536/?utm_campaign=827536&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия «Аврора Центр 5.0»](https://habr.com/ru/news/827532/?utm_campaign=827532&utm_source=habrahabr&utm_medium=rss)
-- [Asus добавила поддержку RGB Windows Dynamic Lighting в бета-версию BIOS для двух серий материнских плат](https://habr.com/ru/news/827482/?utm_campaign=827482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
