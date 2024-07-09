@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» запустила платформу для приложений на KasperskyOS](https://habr.com/ru/news/827792/?utm_campaign=827792&utm_source=habrahabr&utm_medium=rss)
+- [В «Блокноте» для Windows 11 появилась проверка орфографии и автозамена](https://habr.com/ru/news/827786/?utm_campaign=827786&utm_source=habrahabr&utm_medium=rss)
+- [Вышли обновление «Мессенджера» для «Яндекс 360» для бизнеса](https://habr.com/ru/news/827784/?utm_campaign=827784&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в РФ открыли доступ к базовой опции системы социального рейтинга «Мы» от РГСУ](https://habr.com/ru/news/827780/?utm_campaign=827780&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi открыла полностью автономную фабрику Xiaomi Smart Factory, где роботы собирают по одному смартфону в секунду](https://habr.com/ru/news/827722/?utm_campaign=827722&utm_source=habrahabr&utm_medium=rss)
-- [Ajv-ts версии 0.7 и щепотка typescript](https://habr.com/ru/news/827708/?utm_campaign=827708&utm_source=habrahabr&utm_medium=rss)
-- [«Роскосмос» разработал устройство персональной спутниковой связи размером с мобильник](https://habr.com/ru/news/827706/?utm_campaign=827706&utm_source=habrahabr&utm_medium=rss)
-- [В России за два года втрое вырос спрос на электронику и технику китайских брендов](https://habr.com/ru/news/827702/?utm_campaign=827702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
