@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление инструмента для отслеживания Github-звезд](https://habr.com/ru/news/827818/?utm_campaign=827818&utm_source=habrahabr&utm_medium=rss)
+- [Владелец комплекта PS5 для разработчиков продал устройство за €6 тысяч как PlayStation Pizza kit](https://habr.com/ru/news/827826/?utm_campaign=827826&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз инструмента для отслеживания Github-звезд](https://habr.com/ru/news/827818/?utm_campaign=827818&utm_source=habrahabr&utm_medium=rss)
 - [Компания World AI Creator Awards представила победителей первого конкурса красоты для виртуальных ИИ-моделей](https://habr.com/ru/news/827816/?utm_campaign=827816&utm_source=habrahabr&utm_medium=rss)
 - [Apple по требованию РКН удалила из российского App Store ещё 10 VPN-сервисов](https://habr.com/ru/news/827810/?utm_campaign=827810&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» запустила платформу для приложений на KasperskyOS](https://habr.com/ru/news/827792/?utm_campaign=827792&utm_source=habrahabr&utm_medium=rss)
-- [В «Блокноте» для Windows 11 появилась проверка орфографии и автозамена](https://habr.com/ru/news/827786/?utm_campaign=827786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
