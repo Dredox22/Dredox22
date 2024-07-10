@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Операторы связи в РФ столкнулись с проблемой оценки рисков для своей инфраструктуры](https://habr.com/ru/news/827890/?utm_campaign=827890&utm_source=habrahabr&utm_medium=rss)
+- [В Роскосмосе пообещали запустить конвейерное производство спутников](https://habr.com/ru/news/827888/?utm_campaign=827888&utm_source=habrahabr&utm_medium=rss)
+- [Check Point открыла код View8 для анализа байт-кода V8](https://habr.com/ru/news/827870/?utm_campaign=827870&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia выпустила драйвер для старых видеокарт Kepler с поддержкой Windows 7/8/8.1](https://habr.com/ru/news/827844/?utm_campaign=827844&utm_source=habrahabr&utm_medium=rss)
 - [В суде США разваливается коллективный иск «разработчики против Microsoft, GitHub и OpenAI из-за работы GitHub Copilot»](https://habr.com/ru/news/827836/?utm_campaign=827836&utm_source=habrahabr&utm_medium=rss)
-- [Владелец комплекта PS5 для разработчиков продал устройство за €6 тысяч как PlayStation Pizza kit](https://habr.com/ru/news/827826/?utm_campaign=827826&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз инструмента для отслеживания Github-звезд](https://habr.com/ru/news/827818/?utm_campaign=827818&utm_source=habrahabr&utm_medium=rss)
-- [Компания World AI Creator Awards представила победителей первого конкурса красоты для виртуальных ИИ-моделей](https://habr.com/ru/news/827816/?utm_campaign=827816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
