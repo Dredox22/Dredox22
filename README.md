@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление инструмента для отслеживания Github-звезд](https://habr.com/ru/news/827818/?utm_campaign=827818&utm_source=habrahabr&utm_medium=rss)
+- [Компания World AI Creator Awards представила победителей первого конкурса красоты для виртуальных ИИ-моделей](https://habr.com/ru/news/827816/?utm_campaign=827816&utm_source=habrahabr&utm_medium=rss)
+- [Apple по требованию РКН удалила из российского App Store ещё 10 VPN-сервисов](https://habr.com/ru/news/827810/?utm_campaign=827810&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» запустила платформу для приложений на KasperskyOS](https://habr.com/ru/news/827792/?utm_campaign=827792&utm_source=habrahabr&utm_medium=rss)
 - [В «Блокноте» для Windows 11 появилась проверка орфографии и автозамена](https://habr.com/ru/news/827786/?utm_campaign=827786&utm_source=habrahabr&utm_medium=rss)
-- [Вышли обновление «Мессенджера» для «Яндекс 360» для бизнеса](https://habr.com/ru/news/827784/?utm_campaign=827784&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в РФ открыли доступ к базовой опции системы социального рейтинга «Мы» от РГСУ](https://habr.com/ru/news/827780/?utm_campaign=827780&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi открыла полностью автономную фабрику Xiaomi Smart Factory, где роботы собирают по одному смартфону в секунду](https://habr.com/ru/news/827722/?utm_campaign=827722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
