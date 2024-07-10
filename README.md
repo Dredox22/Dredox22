@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т-Банк» проведёт профессиональную конференцию по машинному обучению Turbo ML Conf](https://habr.com/ru/news/828020/?utm_campaign=828020&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила инструкцию по защите Apple ID от мошенников](https://habr.com/ru/news/827994/?utm_campaign=827994&utm_source=habrahabr&utm_medium=rss)
 - [В Техасе используют приложение сети быстрого питания Whataburger для мониторинга отключения электроэнергии при урагане](https://habr.com/ru/news/827942/?utm_campaign=827942&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи в РФ столкнулись с проблемой оценки рисков для своей инфраструктуры](https://habr.com/ru/news/827890/?utm_campaign=827890&utm_source=habrahabr&utm_medium=rss)
 - [В Роскосмосе пообещали запустить конвейерное производство спутников](https://habr.com/ru/news/827888/?utm_campaign=827888&utm_source=habrahabr&utm_medium=rss)
-- [Check Point открыла код View8 для анализа байт-кода V8](https://habr.com/ru/news/827870/?utm_campaign=827870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
