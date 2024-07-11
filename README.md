@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представляем Open Source-инструмент etcd-await-election для leader-election на нескольких нодах](https://habr.com/ru/companies/aenix/news/828050/?utm_campaign=828050&utm_source=habrahabr&utm_medium=rss)
+- [Еженедельные обновления ChatApp: улучшили блок GPT в Конструкторе ботов](https://habr.com/ru/companies/chatapp/news/828088/?utm_campaign=828088&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи выявили уязвимость Blast-RADIUS в протоколе RADIUS, позволяющую подделать ответ при аутентификации](https://habr.com/ru/news/828086/?utm_campaign=828086&utm_source=habrahabr&utm_medium=rss)
 - [Релиз утилиты CatLock 1.0.0 для Windows, предназначенной для предотвращения случайного ввода с клавиатуры котом](https://habr.com/ru/news/828072/?utm_campaign=828072&utm_source=habrahabr&utm_medium=rss)
 - [Уфимская компания «АйВиСистемз» готовится к запуску производства шлемов виртуальной реальности](https://habr.com/ru/news/828030/?utm_campaign=828030&utm_source=habrahabr&utm_medium=rss)
-- [Большинство специалистов по безопасности признались, что пользуются теневым ИТ и ИИ](https://habr.com/ru/news/828028/?utm_campaign=828028&utm_source=habrahabr&utm_medium=rss)
-- [«Т-Банк» проведёт профессиональную конференцию по машинному обучению Turbo ML Conf](https://habr.com/ru/news/828020/?utm_campaign=828020&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила инструкцию по защите Apple ID от мошенников](https://habr.com/ru/news/827994/?utm_campaign=827994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
