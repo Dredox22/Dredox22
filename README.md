@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Регуляторы ЕС добились от Apple открытия доступа к NFC в iPhone для всех приложений](https://habr.com/ru/companies/dcmiran/news/828284/?utm_campaign=828284&utm_source=habrahabr&utm_medium=rss)
 - [Что мы делали на ПМЭФ-2024?](https://habr.com/ru/companies/sovcombank_technologies/news/827896/?utm_campaign=827896&utm_source=habrahabr&utm_medium=rss)
 - [«Гособлако» для размещения информсистем госорганов запустят в 2025 году](https://habr.com/ru/news/828232/?utm_campaign=828232&utm_source=habrahabr&utm_medium=rss)
 - [«Швабе» представил первые российские анаморфотные кинообъективы](https://habr.com/ru/news/828218/?utm_campaign=828218&utm_source=habrahabr&utm_medium=rss)
 - [Московские интернет-провайдеры обратились в суд из-за роста расценок «Россетей» на подвес оптических кабелей](https://habr.com/ru/news/828214/?utm_campaign=828214&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Wireshark 4.2.6](https://habr.com/ru/news/828196/?utm_campaign=828196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
