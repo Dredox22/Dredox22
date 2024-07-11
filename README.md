@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла первая стабильная версия открытого редактора кода Zed для Linux](https://habr.com/ru/news/828102/?utm_campaign=828102&utm_source=habrahabr&utm_medium=rss)
+- [Инсайдерам Microsoft 365 станет доступен редактор Python в Excel](https://habr.com/ru/news/828098/?utm_campaign=828098&utm_source=habrahabr&utm_medium=rss)
+- [Горнодобывающая компания «Хайлэнд Голд» перешла на nanoCAD](https://habr.com/ru/companies/nanosoft/news/827764/?utm_campaign=827764&utm_source=habrahabr&utm_medium=rss)
 - [Представляем Open Source-инструмент etcd-await-election для leader-election на нескольких нодах](https://habr.com/ru/companies/aenix/news/828050/?utm_campaign=828050&utm_source=habrahabr&utm_medium=rss)
 - [Еженедельные обновления ChatApp: улучшили блок GPT в Конструкторе ботов](https://habr.com/ru/companies/chatapp/news/828088/?utm_campaign=828088&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи выявили уязвимость Blast-RADIUS в протоколе RADIUS, позволяющую подделать ответ при аутентификации](https://habr.com/ru/news/828086/?utm_campaign=828086&utm_source=habrahabr&utm_medium=rss)
-- [Релиз утилиты CatLock 1.0.0 для Windows, предназначенной для предотвращения случайного ввода с клавиатуры котом](https://habr.com/ru/news/828072/?utm_campaign=828072&utm_source=habrahabr&utm_medium=rss)
-- [Уфимская компания «АйВиСистемз» готовится к запуску производства шлемов виртуальной реальности](https://habr.com/ru/news/828030/?utm_campaign=828030&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
