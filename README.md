@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз утилиты CatLock 1.0.0 для Windows, предназначенной для предотвращения случайного ввода с клавиатуры котом](https://habr.com/ru/news/828072/?utm_campaign=828072&utm_source=habrahabr&utm_medium=rss)
 - [Уфимская компания «АйВиСистемз» готовится к запуску производства шлемов виртуальной реальности](https://habr.com/ru/news/828030/?utm_campaign=828030&utm_source=habrahabr&utm_medium=rss)
 - [Большинство специалистов по безопасности признались, что пользуются теневым ИТ и ИИ](https://habr.com/ru/news/828028/?utm_campaign=828028&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Банк» проведёт профессиональную конференцию по машинному обучению Turbo ML Conf](https://habr.com/ru/news/828020/?utm_campaign=828020&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила инструкцию по защите Apple ID от мошенников](https://habr.com/ru/news/827994/?utm_campaign=827994&utm_source=habrahabr&utm_medium=rss)
-- [В Техасе используют приложение сети быстрого питания Whataburger для мониторинга отключения электроэнергии при урагане](https://habr.com/ru/news/827942/?utm_campaign=827942&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
