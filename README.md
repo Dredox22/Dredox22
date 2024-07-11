@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple предупредила пользователей iPhone из 98 стран о потенциальных шпионских атаках](https://habr.com/ru/news/828170/?utm_campaign=828170&utm_source=habrahabr&utm_medium=rss)
 - [На Xbox Series X|S теперь можно запускать игры для PlayStation 3](https://habr.com/ru/news/828140/?utm_campaign=828140&utm_source=habrahabr&utm_medium=rss)
 - [В Google Картах для iPhone появились поддержка спидометра и уведомления об ограничении скорости в CarPlay](https://habr.com/ru/news/828150/?utm_campaign=828150&utm_source=habrahabr&utm_medium=rss)
 - [Российский рынок разработки видеоигр за год вырос на 18%](https://habr.com/ru/news/828146/?utm_campaign=828146&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры используют уязвимость в Internet Explorer для атак на ПК с Windows 10 и 11](https://habr.com/ru/news/828116/?utm_campaign=828116&utm_source=habrahabr&utm_medium=rss)
-- [Приложение цифровой идентификации во Флориде внезапно перестало работать](https://habr.com/ru/news/828106/?utm_campaign=828106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
