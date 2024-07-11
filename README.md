@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Гособлако» для размещения информсистем госорганов запустят в 2025 году](https://habr.com/ru/news/828232/?utm_campaign=828232&utm_source=habrahabr&utm_medium=rss)
+- [«Швабе» представил первые российские анаморфотные кинообъективы](https://habr.com/ru/news/828218/?utm_campaign=828218&utm_source=habrahabr&utm_medium=rss)
+- [Московские интернет-провайдеры обратились в суд из-за роста расценок «Россетей» на подвес оптических кабелей](https://habr.com/ru/news/828214/?utm_campaign=828214&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Wireshark 4.2.6](https://habr.com/ru/news/828196/?utm_campaign=828196&utm_source=habrahabr&utm_medium=rss)
 - [Российская аудитория Telegram за год выросла на 9 млн человек](https://habr.com/ru/news/828194/?utm_campaign=828194&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз v0.9.0 Open Source-платформы Cozystack: бесшовное обновление K8s-кластеров и свежие версии приложений](https://habr.com/ru/companies/aenix/news/828054/?utm_campaign=828054&utm_source=habrahabr&utm_medium=rss)
-- [Apple предупредила пользователей iPhone из 98 стран о потенциальных шпионских атаках](https://habr.com/ru/news/828170/?utm_campaign=828170&utm_source=habrahabr&utm_medium=rss)
-- [На Xbox Series X|S теперь можно запускать игры для PlayStation 3](https://habr.com/ru/news/828140/?utm_campaign=828140&utm_source=habrahabr&utm_medium=rss)
-- [В Google Картах для iPhone появились поддержка спидометра и уведомления об ограничении скорости в CarPlay](https://habr.com/ru/news/828150/?utm_campaign=828150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
