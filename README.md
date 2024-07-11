@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры используют уязвимость в Internet Explorer для атак на ПК с Windows 10 и 11](https://habr.com/ru/news/828116/?utm_campaign=828116&utm_source=habrahabr&utm_medium=rss)
+- [Приложение цифровой идентификации во Флориде внезапно перестало работать](https://habr.com/ru/news/828106/?utm_campaign=828106&utm_source=habrahabr&utm_medium=rss)
 - [Вышла первая стабильная версия открытого редактора кода Zed для Linux](https://habr.com/ru/news/828102/?utm_campaign=828102&utm_source=habrahabr&utm_medium=rss)
 - [Инсайдерам Microsoft 365 станет доступен редактор Python в Excel](https://habr.com/ru/news/828098/?utm_campaign=828098&utm_source=habrahabr&utm_medium=rss)
 - [Горнодобывающая компания «Хайлэнд Голд» перешла на nanoCAD](https://habr.com/ru/companies/nanosoft/news/827764/?utm_campaign=827764&utm_source=habrahabr&utm_medium=rss)
-- [Представляем Open Source-инструмент etcd-await-election для leader-election на нескольких нодах](https://habr.com/ru/companies/aenix/news/828050/?utm_campaign=828050&utm_source=habrahabr&utm_medium=rss)
-- [Еженедельные обновления ChatApp: улучшили блок GPT в Конструкторе ботов](https://habr.com/ru/companies/chatapp/news/828088/?utm_campaign=828088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
