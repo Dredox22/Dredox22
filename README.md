@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Xbox Series X|S теперь можно запускать игры для PlayStation 3](https://habr.com/ru/news/828140/?utm_campaign=828140&utm_source=habrahabr&utm_medium=rss)
+- [В Google Картах для iPhone появились поддержка спидометра и уведомления об ограничении скорости в CarPlay](https://habr.com/ru/news/828150/?utm_campaign=828150&utm_source=habrahabr&utm_medium=rss)
+- [Российский рынок разработки видеоигр за год вырос на 18%](https://habr.com/ru/news/828146/?utm_campaign=828146&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры используют уязвимость в Internet Explorer для атак на ПК с Windows 10 и 11](https://habr.com/ru/news/828116/?utm_campaign=828116&utm_source=habrahabr&utm_medium=rss)
 - [Приложение цифровой идентификации во Флориде внезапно перестало работать](https://habr.com/ru/news/828106/?utm_campaign=828106&utm_source=habrahabr&utm_medium=rss)
-- [Вышла первая стабильная версия открытого редактора кода Zed для Linux](https://habr.com/ru/news/828102/?utm_campaign=828102&utm_source=habrahabr&utm_medium=rss)
-- [Инсайдерам Microsoft 365 станет доступен редактор Python в Excel](https://habr.com/ru/news/828098/?utm_campaign=828098&utm_source=habrahabr&utm_medium=rss)
-- [Горнодобывающая компания «Хайлэнд Голд» перешла на nanoCAD](https://habr.com/ru/companies/nanosoft/news/827764/?utm_campaign=827764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
