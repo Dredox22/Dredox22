@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В интернете нашли сеть из 570 ресурсов по продаже поддельных документов](https://habr.com/ru/news/828528/?utm_campaign=828528&utm_source=habrahabr&utm_medium=rss)
 - [«М.видео» обратилась в МВД и СКР из-за «потребительского экстремизма»](https://habr.com/ru/news/828490/?utm_campaign=828490&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Copilot AI научился понимать ужасный почерк](https://habr.com/ru/news/828448/?utm_campaign=828448&utm_source=habrahabr&utm_medium=rss)
 - [Apple патентует групповой аудиочат без необходимости использования сотовой связи или Wi-Fi](https://habr.com/ru/news/828436/?utm_campaign=828436&utm_source=habrahabr&utm_medium=rss)
 - [С нашего спутника за год приняли более 600 тыс. пакетов данных](https://habr.com/ru/companies/ruvds/news/828392/?utm_campaign=828392&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp тестирует расшифровку голосовых сообщений](https://habr.com/ru/news/828404/?utm_campaign=828404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
