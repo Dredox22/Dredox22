@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify теперь предлагает защиту аккаунта с 2FA, но только в связке с электронной почтой](https://habr.com/ru/news/828380/?utm_campaign=828380&utm_source=habrahabr&utm_medium=rss)
+- [AMD рассказала о технологии NTBC для уменьшения объёма игр на 70%](https://habr.com/ru/news/828362/?utm_campaign=828362&utm_source=habrahabr&utm_medium=rss)
+- [Под открытым небом || кодом](https://habr.com/ru/companies/T1Holding/news/828260/?utm_campaign=828260&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Signal после критики усилят безопасность настольного клиента и изменят способ хранения ключей шифрования](https://habr.com/ru/news/828356/?utm_campaign=828356&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft дала рекомендации из-за ошибки 30088-27 при обновлении Microsoft 365](https://habr.com/ru/news/828354/?utm_campaign=828354&utm_source=habrahabr&utm_medium=rss)
-- [После установки июльских обновлений в Windows 11 появилось больше отображаемой рекламы и рекомендаций сервисов Microsoft](https://habr.com/ru/news/828350/?utm_campaign=828350&utm_source=habrahabr&utm_medium=rss)
-- [Банк России определил шесть признаков мошеннических операций](https://habr.com/ru/news/828310/?utm_campaign=828310&utm_source=habrahabr&utm_medium=rss)
-- [Регуляторы ЕС добились от Apple открытия доступа к NFC в iPhone для всех приложений](https://habr.com/ru/companies/dcmiran/news/828284/?utm_campaign=828284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
