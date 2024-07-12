@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple патентует групповой аудиочат без необходимости использования сотовой связи или Wi-Fi](https://habr.com/ru/news/828436/?utm_campaign=828436&utm_source=habrahabr&utm_medium=rss)
 - [С нашего спутника за год приняли более 600 тыс. пакетов данных](https://habr.com/ru/companies/ruvds/news/828392/?utm_campaign=828392&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp тестирует расшифровку голосовых сообщений](https://habr.com/ru/news/828404/?utm_campaign=828404&utm_source=habrahabr&utm_medium=rss)
 - [TON Dating на неделю снизит стоимость подписки из–за нехватки мужской аудитории](https://habr.com/ru/news/828382/?utm_campaign=828382&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила дорожную карту развития AGI](https://habr.com/ru/news/828372/?utm_campaign=828372&utm_source=habrahabr&utm_medium=rss)
-- [Google увеличила размер вознаграждений за обнаружение ошибок в пять раз](https://habr.com/ru/news/828368/?utm_campaign=828368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
