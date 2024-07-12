@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TON Dating на неделю снизит стоимость подписки из–за нехватки мужской аудитории](https://habr.com/ru/news/828382/?utm_campaign=828382&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила дорожную карту развития AGI](https://habr.com/ru/news/828372/?utm_campaign=828372&utm_source=habrahabr&utm_medium=rss)
+- [Google увеличила размер вознаграждений за обнаружение ошибок в пять раз](https://habr.com/ru/news/828368/?utm_campaign=828368&utm_source=habrahabr&utm_medium=rss)
 - [Spotify теперь предлагает защиту аккаунта с 2FA, но только в связке с электронной почтой](https://habr.com/ru/news/828380/?utm_campaign=828380&utm_source=habrahabr&utm_medium=rss)
 - [AMD рассказала о технологии NTBC для уменьшения объёма игр на 70%](https://habr.com/ru/news/828362/?utm_campaign=828362&utm_source=habrahabr&utm_medium=rss)
-- [Под открытым небом || кодом](https://habr.com/ru/companies/T1Holding/news/828260/?utm_campaign=828260&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Signal после критики усилят безопасность настольного клиента и изменят способ хранения ключей шифрования](https://habr.com/ru/news/828356/?utm_campaign=828356&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft дала рекомендации из-за ошибки 30088-27 при обновлении Microsoft 365](https://habr.com/ru/news/828354/?utm_campaign=828354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
