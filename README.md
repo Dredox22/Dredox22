@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Signal после критики усилят безопасность настольного клиента и изменят способ хранения ключей шифрования](https://habr.com/ru/news/828356/?utm_campaign=828356&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft дала рекомендации из-за ошибки 30088-27 при обновлении Microsoft 365](https://habr.com/ru/news/828354/?utm_campaign=828354&utm_source=habrahabr&utm_medium=rss)
+- [После установки июльских обновлений в Windows 11 появилось больше отображаемой рекламы и рекомендаций сервисов Microsoft](https://habr.com/ru/news/828350/?utm_campaign=828350&utm_source=habrahabr&utm_medium=rss)
 - [Банк России определил шесть признаков мошеннических операций](https://habr.com/ru/news/828310/?utm_campaign=828310&utm_source=habrahabr&utm_medium=rss)
 - [Регуляторы ЕС добились от Apple открытия доступа к NFC в iPhone для всех приложений](https://habr.com/ru/companies/dcmiran/news/828284/?utm_campaign=828284&utm_source=habrahabr&utm_medium=rss)
-- [Что мы делали на ПМЭФ-2024?](https://habr.com/ru/companies/sovcombank_technologies/news/827896/?utm_campaign=827896&utm_source=habrahabr&utm_medium=rss)
-- [«Гособлако» для размещения информсистем госорганов запустят в 2025 году](https://habr.com/ru/news/828232/?utm_campaign=828232&utm_source=habrahabr&utm_medium=rss)
-- [«Швабе» представил первые российские анаморфотные кинообъективы](https://habr.com/ru/news/828218/?utm_campaign=828218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
