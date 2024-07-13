@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Взлом AT&amp;amp;T привёл к утечке записей звонков и сообщений клиентов беспроводной связи за шесть месяцев 2022 года](https://habr.com/ru/news/828662/?utm_campaign=828662&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг разрабатывает экспертизу для ИИ-технологий](https://habr.com/ru/news/828638/?utm_campaign=828638&utm_source=habrahabr&utm_medium=rss)
 - [Владелец нашёл Apple Watch с помощью Find My спустя год после их потери в океане](https://habr.com/ru/news/828590/?utm_campaign=828590&utm_source=habrahabr&utm_medium=rss)
 - [В Rabbit R1 обнаружили записи чатов пользователей без возможности их удаления](https://habr.com/ru/news/828584/?utm_campaign=828584&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Thunderbird 128.0 ESR](https://habr.com/ru/news/828582/?utm_campaign=828582&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Tesla отложила презентацию проекта Robotaxi с августа на октябрь](https://habr.com/ru/news/828534/?utm_campaign=828534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
