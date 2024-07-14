@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена открытая лёгковесная библиотека gpu.cpp для проведения низкоуровневых вычислений на GPU с помощью C++](https://habr.com/ru/news/828706/?utm_campaign=828706&utm_source=habrahabr&utm_medium=rss)
 - [Apple одобрила выпуск в App Store первого эмулятора ПК для iPhone и iPad под названием UTM SE](https://habr.com/ru/news/828702/?utm_campaign=828702&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare выпустила Pingora v0.3.0 с поддержкой HTTP-модулей](https://habr.com/ru/news/828678/?utm_campaign=828678&utm_source=habrahabr&utm_medium=rss)
 - [Взлом AT&amp;amp;T привёл к утечке записей звонков и сообщений клиентов беспроводной связи за шесть месяцев 2022 года](https://habr.com/ru/news/828662/?utm_campaign=828662&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг разрабатывает экспертизу для ИИ-технологий](https://habr.com/ru/news/828638/?utm_campaign=828638&utm_source=habrahabr&utm_medium=rss)
-- [Владелец нашёл Apple Watch с помощью Find My спустя год после их потери в океане](https://habr.com/ru/news/828590/?utm_campaign=828590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
