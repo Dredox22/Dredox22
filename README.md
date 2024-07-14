@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Показан прототип игровой консоли на ОС «Аврора» на железе Advan x Play индонезийского производителя на Ryzen 7 7840U](https://habr.com/ru/news/828742/?utm_campaign=828742&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI работает над продвинутой технологией ИИ под названием Strawberry](https://habr.com/ru/news/828724/?utm_campaign=828724&utm_source=habrahabr&utm_medium=rss)
 - [Представлена открытая лёгковесная библиотека gpu.cpp для проведения низкоуровневых вычислений на GPU с помощью C++](https://habr.com/ru/news/828706/?utm_campaign=828706&utm_source=habrahabr&utm_medium=rss)
 - [Apple одобрила выпуск в App Store первого эмулятора ПК для iPhone и iPad под названием UTM SE](https://habr.com/ru/news/828702/?utm_campaign=828702&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare выпустила Pingora v0.3.0 с поддержкой HTTP-модулей](https://habr.com/ru/news/828678/?utm_campaign=828678&utm_source=habrahabr&utm_medium=rss)
-- [Взлом AT&amp;amp;T привёл к утечке записей звонков и сообщений клиентов беспроводной связи за шесть месяцев 2022 года](https://habr.com/ru/news/828662/?utm_campaign=828662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
