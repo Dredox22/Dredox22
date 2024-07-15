@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini уличили в сканировании файлов на Google Диске без разрешения](https://habr.com/ru/news/828982/?utm_campaign=828982&utm_source=habrahabr&utm_medium=rss)
+- [AT&amp;amp;T заплатила хакеру $370 тыс. за удаление украденных метаданных клиентов](https://habr.com/ru/news/828978/?utm_campaign=828978&utm_source=habrahabr&utm_medium=rss)
+- [Brain Dance Day @ SPb&#39;24](https://habr.com/ru/news/828970/?utm_campaign=828970&utm_source=habrahabr&utm_medium=rss)
+- [Новые спутники Starlink оказались в пять раз ярче предшественников](https://habr.com/ru/news/828964/?utm_campaign=828964&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили метод DG-Mesh для генерации высококачественных полигональных сеток из видео](https://habr.com/ru/news/828946/?utm_campaign=828946&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники стали активно подключаться к чатам жильцов многоквартирных домов](https://habr.com/ru/news/828916/?utm_campaign=828916&utm_source=habrahabr&utm_medium=rss)
-- [Tencent опубликовала MiraData — большой датасет видеоданных для обучения нейросетей](https://habr.com/ru/news/828914/?utm_campaign=828914&utm_source=habrahabr&utm_medium=rss)
-- [Правительство и бизнес обсудили вопросы производства игровых консолей в РФ](https://habr.com/ru/news/828870/?utm_campaign=828870&utm_source=habrahabr&utm_medium=rss)
-- [Ozon и F.A.C.C.T. предупредили об основных мошеннических схемах при онлайн-покупках](https://habr.com/ru/companies/f_a_c_c_t/news/828864/?utm_campaign=828864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
