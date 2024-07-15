@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пентестеры УЦСБ нашли уязвимости в ПО известных компаний](https://habr.com/ru/companies/ussc/news/828860/?utm_campaign=828860&utm_source=habrahabr&utm_medium=rss)
+- [«Искра Технологии» запустила серийное производство роутеров в Екатеринбурге](https://habr.com/ru/news/828858/?utm_campaign=828858&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Linux 6.10](https://habr.com/ru/news/828856/?utm_campaign=828856&utm_source=habrahabr&utm_medium=rss)
 - [Релиз бесплатного эмулятора PlayStation 2 с открытым исходным кодом PCSX2 2.0](https://habr.com/ru/news/828822/?utm_campaign=828822&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил веб-сайт, который имитирует работу утилиты Disk Defragmenter в Windows 98, включая звуки HDD](https://habr.com/ru/news/828810/?utm_campaign=828810&utm_source=habrahabr&utm_medium=rss)
-- [Показан прототип игровой консоли на ОС «Аврора» на железе Advan x Play индонезийского производителя на Ryzen 7 7840U](https://habr.com/ru/news/828742/?utm_campaign=828742&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI работает над продвинутой технологией ИИ под названием Strawberry](https://habr.com/ru/news/828724/?utm_campaign=828724&utm_source=habrahabr&utm_medium=rss)
-- [Представлена открытая лёгковесная библиотека gpu.cpp для проведения низкоуровневых вычислений на GPU с помощью C++](https://habr.com/ru/news/828706/?utm_campaign=828706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
