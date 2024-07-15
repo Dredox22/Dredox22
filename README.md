@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: ФБР пытается взломать смартфон стрелка на митинге Трампа, но пока безрезультатно](https://habr.com/ru/news/829078/?utm_campaign=829078&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия платформы разработки программного обеспечения GitFlic 3.2.0](https://habr.com/ru/news/829066/?utm_campaign=829066&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Google близка к покупке ИБ-компании Wiz за $23 млрд](https://habr.com/ru/news/829062/?utm_campaign=829062&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/829038/?utm_campaign=829038&utm_source=habrahabr&utm_medium=rss)
 - [Еженедельные обновления ChatApp](https://habr.com/ru/companies/chatapp/news/829026/?utm_campaign=829026&utm_source=habrahabr&utm_medium=rss)
-- [R-Style Softlab вывела на рынок коннектор «Цифровой профиль организации»](https://habr.com/ru/companies/rshb/news/829018/?utm_campaign=829018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
