@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Меню «Пуск» в Windows 11 получит новые категории и сетку](https://habr.com/ru/news/828990/?utm_campaign=828990&utm_source=habrahabr&utm_medium=rss)
 - [Gemini уличили в сканировании файлов на Google Диске без разрешения](https://habr.com/ru/news/828982/?utm_campaign=828982&utm_source=habrahabr&utm_medium=rss)
 - [AT&amp;amp;T заплатила хакеру $370 тыс. за удаление украденных метаданных клиентов](https://habr.com/ru/news/828978/?utm_campaign=828978&utm_source=habrahabr&utm_medium=rss)
 - [Brain Dance Day @ SPb&#39;24](https://habr.com/ru/news/828970/?utm_campaign=828970&utm_source=habrahabr&utm_medium=rss)
 - [Новые спутники Starlink оказались в пять раз ярче предшественников](https://habr.com/ru/news/828964/?utm_campaign=828964&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили метод DG-Mesh для генерации высококачественных полигональных сеток из видео](https://habr.com/ru/news/828946/?utm_campaign=828946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
