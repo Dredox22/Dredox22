@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи представили метод DG-Mesh для генерации высококачественных полигональных сеток из видео](https://habr.com/ru/news/828946/?utm_campaign=828946&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники стали активно подключаться к чатам жильцов многоквартирных домов](https://habr.com/ru/news/828916/?utm_campaign=828916&utm_source=habrahabr&utm_medium=rss)
 - [Tencent опубликовала MiraData — большой датасет видеоданных для обучения нейросетей](https://habr.com/ru/news/828914/?utm_campaign=828914&utm_source=habrahabr&utm_medium=rss)
 - [Правительство и бизнес обсудили вопросы производства игровых консолей в РФ](https://habr.com/ru/news/828870/?utm_campaign=828870&utm_source=habrahabr&utm_medium=rss)
 - [Ozon и F.A.C.C.T. предупредили об основных мошеннических схемах при онлайн-покупках](https://habr.com/ru/companies/f_a_c_c_t/news/828864/?utm_campaign=828864&utm_source=habrahabr&utm_medium=rss)
-- [Пентестеры УЦСБ нашли уязвимости в ПО известных компаний](https://habr.com/ru/companies/ussc/news/828860/?utm_campaign=828860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
