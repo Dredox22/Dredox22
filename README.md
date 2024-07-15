@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство и бизнес обсудили вопросы производства игровых консолей в РФ](https://habr.com/ru/news/828870/?utm_campaign=828870&utm_source=habrahabr&utm_medium=rss)
+- [Ozon и F.A.C.C.T. предупредили об основных мошеннических схемах при онлайн-покупках](https://habr.com/ru/companies/f_a_c_c_t/news/828864/?utm_campaign=828864&utm_source=habrahabr&utm_medium=rss)
 - [Пентестеры УЦСБ нашли уязвимости в ПО известных компаний](https://habr.com/ru/companies/ussc/news/828860/?utm_campaign=828860&utm_source=habrahabr&utm_medium=rss)
 - [«Искра Технологии» запустила серийное производство роутеров в Екатеринбурге](https://habr.com/ru/news/828858/?utm_campaign=828858&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 6.10](https://habr.com/ru/news/828856/?utm_campaign=828856&utm_source=habrahabr&utm_medium=rss)
-- [Релиз бесплатного эмулятора PlayStation 2 с открытым исходным кодом PCSX2 2.0](https://habr.com/ru/news/828822/?utm_campaign=828822&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил веб-сайт, который имитирует работу утилиты Disk Defragmenter в Windows 98, включая звуки HDD](https://habr.com/ru/news/828810/?utm_campaign=828810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
