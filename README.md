@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/829038/?utm_campaign=829038&utm_source=habrahabr&utm_medium=rss)
 - [Еженедельные обновления ChatApp](https://habr.com/ru/companies/chatapp/news/829026/?utm_campaign=829026&utm_source=habrahabr&utm_medium=rss)
 - [R-Style Softlab вывела на рынок коннектор «Цифровой профиль организации»](https://habr.com/ru/companies/rshb/news/829018/?utm_campaign=829018&utm_source=habrahabr&utm_medium=rss)
 - [Меню «Пуск» в Windows 11 получит новые категории и сетку](https://habr.com/ru/news/828990/?utm_campaign=828990&utm_source=habrahabr&utm_medium=rss)
 - [Gemini уличили в сканировании файлов на Google Диске без разрешения](https://habr.com/ru/news/828982/?utm_campaign=828982&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T заплатила хакеру $370 тыс. за удаление украденных метаданных клиентов](https://habr.com/ru/news/828978/?utm_campaign=828978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
