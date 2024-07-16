@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Китае разработали систему по отслеживанию военных кораблей по всему миру](https://habr.com/ru/news/829128/?utm_campaign=829128&utm_source=habrahabr&utm_medium=rss)
+- [АНБ не смогло просмотреть запись 1980-х годов из-за отсутствия подходящего магнитофона](https://habr.com/ru/news/829120/?utm_campaign=829120&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» увольняет сотрудников американского офиса и закрывает свой бизнес в США](https://habr.com/ru/news/829102/?utm_campaign=829102&utm_source=habrahabr&utm_medium=rss)
 - [ФБР взломала смартфон стрелка на митинге Трампа](https://habr.com/ru/news/829078/?utm_campaign=829078&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия платформы разработки программного обеспечения GitFlic 3.2.0](https://habr.com/ru/news/829066/?utm_campaign=829066&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Google близка к покупке ИБ-компании Wiz за $23 млрд](https://habr.com/ru/news/829062/?utm_campaign=829062&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/829038/?utm_campaign=829038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
