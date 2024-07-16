@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные создали компактные фотоэлектрические преобразователи на основе арсенида галлия](https://habr.com/ru/news/829300/?utm_campaign=829300&utm_source=habrahabr&utm_medium=rss)
 - [SwiftKey для Android теперь позволяет диктовать и печатать одновременно](https://habr.com/ru/news/829260/?utm_campaign=829260&utm_source=habrahabr&utm_medium=rss)
 - [Удаленное тестирование приложений без телефонов и эмуляторов? Реальность с Мобильной фермой Selectel](https://habr.com/ru/companies/selectel/news/828784/?utm_campaign=828784&utm_source=habrahabr&utm_medium=rss)
 - [«Ъ»: в устройствах российского бренда Digma обнаружили вредоносное ПО](https://habr.com/ru/news/829214/?utm_campaign=829214&utm_source=habrahabr&utm_medium=rss)
 - [В Китае разработали систему по отслеживанию военных кораблей по всему миру](https://habr.com/ru/news/829128/?utm_campaign=829128&utm_source=habrahabr&utm_medium=rss)
-- [АНБ не смогло просмотреть запись 1980-х годов из-за отсутствия подходящего магнитофона](https://habr.com/ru/news/829120/?utm_campaign=829120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
