@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Удаленное тестирование приложений без телефонов и эмуляторов? Реальность с Мобильной фермой Selectel](https://habr.com/ru/companies/selectel/news/828784/?utm_campaign=828784&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: в устройствах российского бренда Digma обнаружили вредоносное ПО](https://habr.com/ru/news/829214/?utm_campaign=829214&utm_source=habrahabr&utm_medium=rss)
 - [В Китае разработали систему по отслеживанию военных кораблей по всему миру](https://habr.com/ru/news/829128/?utm_campaign=829128&utm_source=habrahabr&utm_medium=rss)
 - [АНБ не смогло просмотреть запись 1980-х годов из-за отсутствия подходящего магнитофона](https://habr.com/ru/news/829120/?utm_campaign=829120&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» увольняет сотрудников американского офиса и закрывает свой бизнес в США](https://habr.com/ru/news/829102/?utm_campaign=829102&utm_source=habrahabr&utm_medium=rss)
-- [ФБР взломала смартфон стрелка на митинге Трампа](https://habr.com/ru/news/829078/?utm_campaign=829078&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия платформы разработки программного обеспечения GitFlic 3.2.0](https://habr.com/ru/news/829066/?utm_campaign=829066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
