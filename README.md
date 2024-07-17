@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft улучшит драйверы Windows с помощью WDK NuGet и с установщиками ISO и MSI](https://habr.com/ru/news/829484/?utm_campaign=829484&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве за июнь 2024 года](https://habr.com/ru/companies/ussc/news/829476/?utm_campaign=829476&utm_source=habrahabr&utm_medium=rss)
-- [Google перенесёт разработку приложений Android Studio в веб через Project IDX](https://habr.com/ru/news/829462/?utm_campaign=829462&utm_source=habrahabr&utm_medium=rss)
-- [В России учёные cобираются научить ИИ проектировать цифровые микросхемы к 2026 году](https://habr.com/ru/news/829434/?utm_campaign=829434&utm_source=habrahabr&utm_medium=rss)
-- [Онлайн-дискуссия: «Всегда буду делать бэкапы или подумаю об этом завтра»](https://habr.com/ru/companies/mws/news/829426/?utm_campaign=829426&utm_source=habrahabr&utm_medium=rss)
+- [В Tinder появится ИИ-инструмент, который анализирует галерею пользователя и делает подборку лучших фотографий](https://habr.com/ru/news/829514/?utm_campaign=829514&utm_source=habrahabr&utm_medium=rss)
+- [GS Nanotech отгрузила первую стотысячную партию микроконтроллеров «MIK32 Амур»](https://habr.com/ru/news/829504/?utm_campaign=829504&utm_source=habrahabr&utm_medium=rss)
+- [Группа российских разработчиков работает над сервисом знакомств «Спутник» с проверкой кредитов и алиментов](https://habr.com/ru/news/829500/?utm_campaign=829500&utm_source=habrahabr&utm_medium=rss)
+- [Релиз свободного редактора звука Audacity 3.6](https://habr.com/ru/news/829494/?utm_campaign=829494&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp перестал работать на кнопочных телефонах под управлением KaiOS 2.5.4 и более поздних версий](https://habr.com/ru/news/829486/?utm_campaign=829486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
