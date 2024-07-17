@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Шесть месяцев бесплатной безопасности — прощальный подарок «Лаборатории Касперского» пользователям в США](https://habr.com/ru/news/829356/?utm_campaign=829356&utm_source=habrahabr&utm_medium=rss)
 - [Proof News: Apple, Nvidia и Anthropic использовали 170 тыс. видео YouTube для обучения своих моделей ИИ без разрешения](https://habr.com/ru/news/829316/?utm_campaign=829316&utm_source=habrahabr&utm_medium=rss)
 - [Маск подтвердил, что Tesla отложила презентацию проекта Robotaxi](https://habr.com/ru/news/829304/?utm_campaign=829304&utm_source=habrahabr&utm_medium=rss)
 - [Учёные создали компактные фотоэлектрические преобразователи на основе арсенида галлия](https://habr.com/ru/news/829300/?utm_campaign=829300&utm_source=habrahabr&utm_medium=rss)
 - [SwiftKey для Android теперь позволяет диктовать и печатать одновременно](https://habr.com/ru/news/829260/?utm_campaign=829260&utm_source=habrahabr&utm_medium=rss)
-- [Удаленное тестирование приложений без телефонов и эмуляторов? Реальность с Мобильной фермой Selectel](https://habr.com/ru/companies/selectel/news/828784/?utm_campaign=828784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
