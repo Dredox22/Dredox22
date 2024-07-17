@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [За год количество игровых разработчиков в официальном магазине приложений RuStore увеличилось в 3 раза](https://habr.com/ru/news/829606/?utm_campaign=829606&utm_source=habrahabr&utm_medium=rss)
 - [В Думе предложили распространить меры для операторов связи на мессенджеры](https://habr.com/ru/news/829604/?utm_campaign=829604&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует функцию генерации видеопрезентаций с помощью Gemini AI](https://habr.com/ru/news/829602/?utm_campaign=829602&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры слили терабайт внутренних данных Disney, протестуя против политики компании в отношении ИИ](https://habr.com/ru/companies/bothub/news/829596/?utm_campaign=829596&utm_source=habrahabr&utm_medium=rss)
 - [Google завершает эксперимент «Заметки», позволяющий пользователям комментировать результаты поиска](https://habr.com/ru/news/829586/?utm_campaign=829586&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили метод EchoMimic для генерации лицевой анимации по аудио и редактируемым маркерам](https://habr.com/ru/news/829552/?utm_campaign=829552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
