@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Digma: в кнопочных телефонах бренда нет функционала, который можно классифицировать как бэкдор или встроенную уязвимость](https://habr.com/ru/news/829394/?utm_campaign=829394&utm_source=habrahabr&utm_medium=rss)
 - [Релиз языка программирования Hare 0.24.2](https://habr.com/ru/news/829378/?utm_campaign=829378&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PeerTube 6.2](https://habr.com/ru/news/829368/?utm_campaign=829368&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte: Долгожданное обновление FineBI 6.1](https://habr.com/ru/companies/glowbyte/news/829366/?utm_campaign=829366&utm_source=habrahabr&utm_medium=rss)
 - [Дэйв Пламмер раскрыл историю создания меню «Пуск» для Windows NT](https://habr.com/ru/news/829358/?utm_campaign=829358&utm_source=habrahabr&utm_medium=rss)
-- [Шесть месяцев бесплатной безопасности — прощальный подарок «Лаборатории Касперского» пользователям в США](https://habr.com/ru/news/829356/?utm_campaign=829356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
