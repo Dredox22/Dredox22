@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google тестирует функцию генерации видеопрезентаций с помощью Gemini AI](https://habr.com/ru/news/829602/?utm_campaign=829602&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры слили терабайт внутренних данных Disney, протестуя против политики компании в отношении ИИ](https://habr.com/ru/companies/bothub/news/829596/?utm_campaign=829596&utm_source=habrahabr&utm_medium=rss)
 - [Google завершает эксперимент «Заметки», позволяющий пользователям комментировать результаты поиска](https://habr.com/ru/news/829586/?utm_campaign=829586&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили метод EchoMimic для генерации лицевой анимации по аудио и редактируемым маркерам](https://habr.com/ru/news/829552/?utm_campaign=829552&utm_source=habrahabr&utm_medium=rss)
 - [В новом рейтинге TIOBE язык Rust поднялся с 17-го на 13-е место](https://habr.com/ru/news/829518/?utm_campaign=829518&utm_source=habrahabr&utm_medium=rss)
-- [В Tinder появится ИИ-инструмент, который анализирует галерею пользователя и делает подборку лучших фотографий](https://habr.com/ru/news/829514/?utm_campaign=829514&utm_source=habrahabr&utm_medium=rss)
-- [GS Nanotech отгрузила первую стотысячную партию микроконтроллеров «MIK32 Амур»](https://habr.com/ru/news/829504/?utm_campaign=829504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
