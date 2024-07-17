@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России учёные cобираются научить ИИ проектировать цифровые микросхемы к 2026 году](https://habr.com/ru/news/829434/?utm_campaign=829434&utm_source=habrahabr&utm_medium=rss)
 - [Онлайн-дискуссия: «Всегда буду делать бэкапы или подумаю об этом завтра»](https://habr.com/ru/companies/mws/news/829426/?utm_campaign=829426&utm_source=habrahabr&utm_medium=rss)
 - [«Роса» оценила разработку отечественной игровой консоли в 1 млрд рублей](https://habr.com/ru/news/829418/?utm_campaign=829418&utm_source=habrahabr&utm_medium=rss)
 - [Digma: в кнопочных телефонах бренда нет функционала, который можно классифицировать как бэкдор или встроенную уязвимость](https://habr.com/ru/news/829394/?utm_campaign=829394&utm_source=habrahabr&utm_medium=rss)
 - [Релиз языка программирования Hare 0.24.2](https://habr.com/ru/news/829378/?utm_campaign=829378&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PeerTube 6.2](https://habr.com/ru/news/829368/?utm_campaign=829368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
