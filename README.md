@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral выпустила модели машинного обучения для кода и математики](https://habr.com/ru/news/829884/?utm_campaign=829884&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представляет GPT-4o mini: более компактную и доступную модель ИИ](https://habr.com/ru/companies/bothub/news/829878/?utm_campaign=829878&utm_source=habrahabr&utm_medium=rss)
 - [Meteor 3.0 — Релиз спустя 3 года](https://habr.com/ru/news/829868/?utm_campaign=829868&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Designer доступен на iOS и Android с функциями редактирования и создания контента с помощью ИИ](https://habr.com/ru/news/829862/?utm_campaign=829862&utm_source=habrahabr&utm_medium=rss)
 - [Для игры «Смута» и бесплатного режима «Смутное время» вышли новые патчи](https://habr.com/ru/news/829856/?utm_campaign=829856&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила новую бесплатную модель GPT-4o-mini, она заменит GPT-3.5 Turbo](https://habr.com/ru/news/829848/?utm_campaign=829848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
