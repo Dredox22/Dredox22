@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: GitLab рассматривает возможность продажи своего бизнеса компании Datadog](https://habr.com/ru/news/829840/?utm_campaign=829840&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Mistral NeMo — многоязычная 12B модель с поддержкой русского и 128К контекстом](https://habr.com/ru/news/829822/?utm_campaign=829822&utm_source=habrahabr&utm_medium=rss)
 - [США угрожают Tokyo Electron и ASML жёсткими санкциями за поставки оборудования для производства полупроводников в Китай](https://habr.com/ru/news/829792/?utm_campaign=829792&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры украли $235 млн у крупнейшей индийской криптобиржи WazirX](https://habr.com/ru/news/829784/?utm_campaign=829784&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: информация о том, что мошенники могут завладеть чужой квартирой на Госуслугах, фейк](https://habr.com/ru/news/829766/?utm_campaign=829766&utm_source=habrahabr&utm_medium=rss)
-- [DeepL представляет новую модель ИИ, превосходящую GPT-4 в переводе и редактировании](https://habr.com/ru/companies/bothub/news/829754/?utm_campaign=829754&utm_source=habrahabr&utm_medium=rss)
-- [За месяц в сервисе для знакомств TON Dating зарегистрировались 570 тыс. пользователей Telegram](https://habr.com/ru/news/829724/?utm_campaign=829724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
