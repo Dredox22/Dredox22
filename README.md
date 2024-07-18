@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: информация о том, что мошенники могут завладеть чужой квартирой на Госуслугах, фейк](https://habr.com/ru/news/829766/?utm_campaign=829766&utm_source=habrahabr&utm_medium=rss)
+- [DeepL представляет новую модель ИИ, превосходящую GPT-4 в переводе и редактировании](https://habr.com/ru/companies/bothub/news/829754/?utm_campaign=829754&utm_source=habrahabr&utm_medium=rss)
 - [За месяц в сервисе для знакомств TON Dating зарегистрировались 570 тыс. пользователей Telegram](https://habr.com/ru/news/829724/?utm_campaign=829724&utm_source=habrahabr&utm_medium=rss)
 - [Релиз digiKam 8.4.0](https://habr.com/ru/news/829714/?utm_campaign=829714&utm_source=habrahabr&utm_medium=rss)
 - [Apple опровергла использование видео YouTube для обучения ИИ Intelligence](https://habr.com/ru/news/829692/?utm_campaign=829692&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст запустил Windows NT 4 на ПК Apple с чипом PowerPC](https://habr.com/ru/news/829672/?utm_campaign=829672&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Blender 4.2 LTS](https://habr.com/ru/news/829666/?utm_campaign=829666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
