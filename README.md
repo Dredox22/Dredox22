@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI скоро предоставит всем пользователям доступ к новой бесплатной модели GPT-4o-mini, она заменит GPT-3.5 Turbo](https://habr.com/ru/news/829848/?utm_campaign=829848&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: GitLab рассматривает возможность продажи своего бизнеса компании Datadog](https://habr.com/ru/news/829840/?utm_campaign=829840&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Mistral NeMo — многоязычная 12B модель с поддержкой русского и 128К контекстом](https://habr.com/ru/news/829822/?utm_campaign=829822&utm_source=habrahabr&utm_medium=rss)
 - [США угрожают Tokyo Electron и ASML жёсткими санкциями за поставки оборудования для производства полупроводников в Китай](https://habr.com/ru/news/829792/?utm_campaign=829792&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры украли $235 млн у крупнейшей индийской криптобиржи WazirX](https://habr.com/ru/news/829784/?utm_campaign=829784&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: информация о том, что мошенники могут завладеть чужой квартирой на Госуслугах, фейк](https://habr.com/ru/news/829766/?utm_campaign=829766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
