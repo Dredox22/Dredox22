@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Designer доступен на iOS и Android с функциями редактирования и создания контента с помощью ИИ](https://habr.com/ru/news/829862/?utm_campaign=829862&utm_source=habrahabr&utm_medium=rss)
 - [Для игры «Смута» и бесплатного режима «Смутное время» вышли новые патчи](https://habr.com/ru/news/829856/?utm_campaign=829856&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила новую бесплатную модель GPT-4o-mini, она заменит GPT-3.5 Turbo](https://habr.com/ru/news/829848/?utm_campaign=829848&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: GitLab рассматривает возможность продажи своего бизнеса компании Datadog](https://habr.com/ru/news/829840/?utm_campaign=829840&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Mistral NeMo — многоязычная 12B модель с поддержкой русского и 128К контекстом](https://habr.com/ru/news/829822/?utm_campaign=829822&utm_source=habrahabr&utm_medium=rss)
-- [США угрожают Tokyo Electron и ASML жёсткими санкциями за поставки оборудования для производства полупроводников в Китай](https://habr.com/ru/news/829792/?utm_campaign=829792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
