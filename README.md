@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость в работе Cisco SSM On-Prem позволяла менять пароли пользователей](https://habr.com/ru/news/829952/?utm_campaign=829952&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia переходит на модули ядра графического процессора с открытым исходным кодом](https://habr.com/ru/news/829948/?utm_campaign=829948&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: ситуация с Microsoft показывает значимость импортозамещения иностранного ПО](https://habr.com/ru/news/829950/?utm_campaign=829950&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разработала ИИ-систему SpreadsheetLLM для работы с таблицами в Excel](https://habr.com/ru/news/829942/?utm_campaign=829942&utm_source=habrahabr&utm_medium=rss)
 - [Starlink достигла скорости загрузки 8 Гбит/с с помощью технологии мобильного шлюза](https://habr.com/ru/news/829928/?utm_campaign=829928&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в Windows на ПК и серверах после обновления CrowdStrike затронул IT-инфраструктуру компаний, банков и аэропортов](https://habr.com/ru/news/829912/?utm_campaign=829912&utm_source=habrahabr&utm_medium=rss)
-- [В Figma объяснили, почему новая ИИ-опция Make Designs скопировала дизайн приложения «Погода» от Apple](https://habr.com/ru/news/829908/?utm_campaign=829908&utm_source=habrahabr&utm_medium=rss)
-- [Mistral выпустила модели машинного обучения для кода и математики](https://habr.com/ru/news/829884/?utm_campaign=829884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
