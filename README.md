@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава CrowdStrike Джордж Куртц: мы понимаем серьезность ситуации и глубоко сожалеем о неудобствах и сбоях у клиентов](https://habr.com/ru/news/830080/?utm_campaign=830080&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: чтобы исправить «синий экран смерти» из-за CrowdStrike, просто перезагрузите компьютер 15 раз подряд](https://habr.com/ru/news/830078/?utm_campaign=830078&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, Nvidia, Google и другие IT-компании образовали Коалицию за безопасный искусственный интеллект](https://habr.com/ru/news/830006/?utm_campaign=830006&utm_source=habrahabr&utm_medium=rss)
 - [Глава CrowdStrike Джордж Куртц: хосты Mac и Linux не затронуты, дефект был в коде обновления контента для хостов Windows](https://habr.com/ru/news/830000/?utm_campaign=830000&utm_source=habrahabr&utm_medium=rss)
 - [Цифровой апокалипсис сегодня](https://habr.com/ru/companies/f_a_c_c_t/news/829978/?utm_campaign=829978&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte приглашает на хакатон PIX BI для лидеров рынка](https://habr.com/ru/companies/glowbyte/news/829976/?utm_campaign=829976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
