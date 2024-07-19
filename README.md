@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Игнорировать все инструкции&amp;quot; больше не работает: что придумала OpenAI?](https://habr.com/ru/companies/bothub/news/830092/?utm_campaign=830092&utm_source=habrahabr&utm_medium=rss)
+- [«Игнорировать все инструкции» больше не работает: что придумала OpenAI?](https://habr.com/ru/companies/bothub/news/830092/?utm_campaign=830092&utm_source=habrahabr&utm_medium=rss)
 - [Глава CrowdStrike Джордж Куртц: мы понимаем серьёзность ситуации и глубоко сожалеем о неудобствах и сбоях у клиентов](https://habr.com/ru/news/830080/?utm_campaign=830080&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: чтобы исправить «синий экран смерти» из-за CrowdStrike, просто перезагрузите компьютер 15 раз подряд](https://habr.com/ru/news/830078/?utm_campaign=830078&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, Nvidia, Google и другие IT-компании образовали Коалицию за безопасный искусственный интеллект](https://habr.com/ru/news/830006/?utm_campaign=830006&utm_source=habrahabr&utm_medium=rss)
