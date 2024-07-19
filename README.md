@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Цифровой апокалипсис сегодня](https://habr.com/ru/companies/f_a_c_c_t/news/829978/?utm_campaign=829978&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte приглашает на хакатон PIX BI для лидеров рынка](https://habr.com/ru/companies/glowbyte/news/829976/?utm_campaign=829976&utm_source=habrahabr&utm_medium=rss)
+- [ФБР проникло в смартфон стрелка Трампа с помощью тестового ПО от Cellebrite](https://habr.com/ru/news/829968/?utm_campaign=829968&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость в работе Cisco SSM On-Prem позволяла менять пароли пользователей](https://habr.com/ru/news/829952/?utm_campaign=829952&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia переходит на модули ядра графического процессора с открытым исходным кодом](https://habr.com/ru/news/829948/?utm_campaign=829948&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: ситуация с Microsoft показывает значимость импортозамещения иностранного ПО](https://habr.com/ru/news/829950/?utm_campaign=829950&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разработала ИИ-систему SpreadsheetLLM для работы с таблицами в Excel](https://habr.com/ru/news/829942/?utm_campaign=829942&utm_source=habrahabr&utm_medium=rss)
-- [Starlink достигла скорости загрузки 8 Гбит/с с помощью технологии мобильного шлюза](https://habr.com/ru/news/829928/?utm_campaign=829928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
