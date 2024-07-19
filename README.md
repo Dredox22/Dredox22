@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбой с BSOD на ПК и серверах после обновления CrowdStrike затронул IT-инфраструктуру компаний, банков и аэропортов](https://habr.com/ru/news/829912/?utm_campaign=829912&utm_source=habrahabr&utm_medium=rss)
 - [В Figma объяснили, почему новая ИИ-опция Make Designs скопировала дизайн приложения «Погода» от Apple](https://habr.com/ru/news/829908/?utm_campaign=829908&utm_source=habrahabr&utm_medium=rss)
 - [Mistral выпустила модели машинного обучения для кода и математики](https://habr.com/ru/news/829884/?utm_campaign=829884&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представляет GPT-4o mini: более компактную и доступную модель ИИ](https://habr.com/ru/companies/bothub/news/829878/?utm_campaign=829878&utm_source=habrahabr&utm_medium=rss)
 - [Meteor 3.0 — Релиз спустя 3 года](https://habr.com/ru/news/829868/?utm_campaign=829868&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Designer доступен на iOS и Android с функциями редактирования и создания контента с помощью ИИ](https://habr.com/ru/news/829862/?utm_campaign=829862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
