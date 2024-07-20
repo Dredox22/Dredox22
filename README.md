@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI ведёт переговоры с Broadcom о разработке нового чипа для ИИ и нанимает бывших разработчиков процессоров в Google](https://habr.com/ru/news/830180/?utm_campaign=830180&utm_source=habrahabr&utm_medium=rss)
 - [Сервис сокращения ссылок goo.gl перестанет работать в 2025 году](https://habr.com/ru/news/830148/?utm_campaign=830148&utm_source=habrahabr&utm_medium=rss)
 - [В Италии разработали робота для уборки окурков на пляжах](https://habr.com/ru/news/830142/?utm_campaign=830142&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike сломал Debian и Rocky Linux в апреле и мае, но никто не заметил, а ИБ-разработчики не торопились с патчем](https://habr.com/ru/news/830132/?utm_campaign=830132&utm_source=habrahabr&utm_medium=rss)
 - [«Игнорировать все инструкции» больше не работает: что придумала OpenAI?](https://habr.com/ru/companies/bothub/news/830092/?utm_campaign=830092&utm_source=habrahabr&utm_medium=rss)
-- [Глава CrowdStrike Джордж Куртц: мы понимаем серьёзность ситуации и глубоко сожалеем о неудобствах и сбоях у клиентов](https://habr.com/ru/news/830080/?utm_campaign=830080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
