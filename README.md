@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Т-Банк открыл доступ к собственной русскоязычной языковой модели T-lite](https://habr.com/ru/news/830204/?utm_campaign=830204&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 18 появилась функция восстановления повреждённых фото](https://habr.com/ru/news/830196/?utm_campaign=830196&utm_source=habrahabr&utm_medium=rss)
 - [Восстановление работоспособности IT-систем клиентов из-за сбоя ПО CrowdStrike в Windows может занять недели](https://habr.com/ru/news/830192/?utm_campaign=830192&utm_source=habrahabr&utm_medium=rss)
 - [Selectel представила «мобильную ферму» для удалённого тестирования приложений на различных смартфонах](https://habr.com/ru/news/830190/?utm_campaign=830190&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI ведёт переговоры с Broadcom о разработке нового чипа для ИИ и нанимает бывших разработчиков процессоров в Google](https://habr.com/ru/news/830180/?utm_campaign=830180&utm_source=habrahabr&utm_medium=rss)
-- [Сервис сокращения ссылок goo.gl перестанет работать в 2025 году](https://habr.com/ru/news/830148/?utm_campaign=830148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
