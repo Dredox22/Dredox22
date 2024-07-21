@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: у виртуальных машин клиентов Azure из-за ошибки в ПО CrowdStrike возник BSOD на 8,5 млн хостов с Windows](https://habr.com/ru/news/830256/?utm_campaign=830256&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» обнаружила две волны почтовых рассылок с вредоносными архивами или ссылками внутри](https://habr.com/ru/news/830216/?utm_campaign=830216&utm_source=habrahabr&utm_medium=rss)
 - [Т-Банк открыл доступ к собственной русскоязычной языковой модели T-lite](https://habr.com/ru/news/830204/?utm_campaign=830204&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 18 появилась функция восстановления повреждённых фото](https://habr.com/ru/news/830196/?utm_campaign=830196&utm_source=habrahabr&utm_medium=rss)
 - [Восстановление работоспособности IT-систем клиентов из-за сбоя ПО CrowdStrike в Windows может занять недели](https://habr.com/ru/news/830192/?utm_campaign=830192&utm_source=habrahabr&utm_medium=rss)
-- [Selectel представила «мобильную ферму» для удалённого тестирования приложений на различных смартфонах](https://habr.com/ru/news/830190/?utm_campaign=830190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
