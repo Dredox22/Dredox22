@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел плагин Revars 2.0.0](https://habr.com/ru/news/830286/?utm_campaign=830286&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI добавила инструменты для комплаенса и администрирования в ChatGPT Enterprise](https://habr.com/ru/news/830274/?utm_campaign=830274&utm_source=habrahabr&utm_medium=rss)
 - [Telegram открыл монетизацию российским каналам](https://habr.com/ru/news/830270/?utm_campaign=830270&utm_source=habrahabr&utm_medium=rss)
 - [Эмулятор PS1 Gamma для iOS получил поддержку Multitap и улучшенный звук](https://habr.com/ru/news/830272/?utm_campaign=830272&utm_source=habrahabr&utm_medium=rss)
 - [Пользователям Windows 11 предложили попробовать OneDrive для «полного резервного копирования» ПК](https://habr.com/ru/news/830266/?utm_campaign=830266&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: у виртуальных машин клиентов Azure из-за ошибки в ПО CrowdStrike возник BSOD на 8,5 млн хостов с Windows](https://habr.com/ru/news/830256/?utm_campaign=830256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
