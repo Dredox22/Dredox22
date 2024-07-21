@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI добавила инструменты для комплаенса и администрирования в ChatGPT Enterprise](https://habr.com/ru/news/830274/?utm_campaign=830274&utm_source=habrahabr&utm_medium=rss)
+- [Telegram открыл монетизацию российским каналам](https://habr.com/ru/news/830270/?utm_campaign=830270&utm_source=habrahabr&utm_medium=rss)
+- [Эмулятор PS1 Gamma для iOS получил поддержку Multitap и улучшенный звук](https://habr.com/ru/news/830272/?utm_campaign=830272&utm_source=habrahabr&utm_medium=rss)
 - [Пользователям Windows 11 предложили попробовать OneDrive для «полного резервного копирования» ПК](https://habr.com/ru/news/830266/?utm_campaign=830266&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: у виртуальных машин клиентов Azure из-за ошибки в ПО CrowdStrike возник BSOD на 8,5 млн хостов с Windows](https://habr.com/ru/news/830256/?utm_campaign=830256&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» обнаружила две волны почтовых рассылок с вредоносными архивами или ссылками внутри](https://habr.com/ru/news/830216/?utm_campaign=830216&utm_source=habrahabr&utm_medium=rss)
-- [Т-Банк открыл доступ к собственной русскоязычной языковой модели T-lite](https://habr.com/ru/news/830204/?utm_campaign=830204&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 18 появилась функция восстановления повреждённых фото](https://habr.com/ru/news/830196/?utm_campaign=830196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
