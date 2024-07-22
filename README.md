@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России планируют организовать производство отечественных корпусов и кристаллов, необходимых для светодиодов](https://habr.com/ru/news/830480/?utm_campaign=830480&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Google DeepMind выпустили набор видеоданных на языке жестов](https://habr.com/ru/news/830476/?utm_campaign=830476&utm_source=habrahabr&utm_medium=rss)
+- [Samsung купила британскую компанию в сфере графов знаний Oxford Semantic Technologies](https://habr.com/ru/news/830466/?utm_campaign=830466&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры начали использовать хаос из-за CrowdStrike для распространения вредоноса Crowdstrike-hotfix.zip](https://habr.com/ru/news/830436/?utm_campaign=830436&utm_source=habrahabr&utm_medium=rss)
 - [Вышел датасет подсчета калорий на основе описания блюда на естественном языке](https://habr.com/ru/news/830438/?utm_campaign=830438&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare: 6,8% интернет-трафика является потенциально мусорным](https://habr.com/ru/news/830420/?utm_campaign=830420&utm_source=habrahabr&utm_medium=rss)
-- [Подсистема Windows для Android получила обновление перед прекращением поддержки](https://habr.com/ru/news/830412/?utm_campaign=830412&utm_source=habrahabr&utm_medium=rss)
-- [Link-Busters отправила в Google Search миллиард запросов на удаление в рамках DMCA](https://habr.com/ru/news/830408/?utm_campaign=830408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
