@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft объявила о планах закрыть вспомогательный сервис для пользователей Azure Lab Services в июне 2027 года](https://habr.com/ru/news/830554/?utm_campaign=830554&utm_source=habrahabr&utm_medium=rss)
+- [В июне Red Hat предупреждала о критической проблеме в Red Hat Enterprise Linux 9.4 после обновления ПО CrowdStrike](https://habr.com/ru/news/830550/?utm_campaign=830550&utm_source=habrahabr&utm_medium=rss)
+- [РЖД, «Аэрофлот», «Автодор» и другой крупный бизнес раскритиковали законопроект об оборотных штрафах за утечки данных](https://habr.com/ru/news/830530/?utm_campaign=830530&utm_source=habrahabr&utm_medium=rss)
 - [В России планируют организовать производство отечественных корпусов и кристаллов, необходимых для светодиодов](https://habr.com/ru/news/830480/?utm_campaign=830480&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Google DeepMind выпустили набор видеоданных на языке жестов](https://habr.com/ru/news/830476/?utm_campaign=830476&utm_source=habrahabr&utm_medium=rss)
-- [Samsung купила британскую компанию в сфере графов знаний Oxford Semantic Technologies](https://habr.com/ru/news/830466/?utm_campaign=830466&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали использовать хаос из-за CrowdStrike для распространения вредоноса Crowdstrike-hotfix.zip](https://habr.com/ru/news/830436/?utm_campaign=830436&utm_source=habrahabr&utm_medium=rss)
-- [Вышел датасет подсчета калорий на основе описания блюда на естественном языке](https://habr.com/ru/news/830438/?utm_campaign=830438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
