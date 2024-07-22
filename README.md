@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры начали использовать хаос из-за CrowdStrike для распространения вредоноса Crowdstrike-hotfix.zip](https://habr.com/ru/news/830436/?utm_campaign=830436&utm_source=habrahabr&utm_medium=rss)
+- [Вышел датасет подсчета калорий на основе описания блюда на естественном языке](https://habr.com/ru/news/830438/?utm_campaign=830438&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare: 6,8% интернет-трафика является потенциально мусорным](https://habr.com/ru/news/830420/?utm_campaign=830420&utm_source=habrahabr&utm_medium=rss)
 - [Подсистема Windows для Android получила обновление перед прекращением поддержки](https://habr.com/ru/news/830412/?utm_campaign=830412&utm_source=habrahabr&utm_medium=rss)
 - [Link-Busters отправила в Google Search миллиард запросов на удаление в рамках DMCA](https://habr.com/ru/news/830408/?utm_campaign=830408&utm_source=habrahabr&utm_medium=rss)
-- [Сегодня, 22.07.24, языку Kotlin — 12 лет](https://habr.com/ru/companies/ssp-soft/news/830164/?utm_campaign=830164&utm_source=habrahabr&utm_medium=rss)
-- [Системные администраторы по всему миру третьи сутки исправляют BSOD в парках ПК на Windows из-за ошибки в ПО CrowdStrike](https://habr.com/ru/news/830382/?utm_campaign=830382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
