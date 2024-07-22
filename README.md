@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/830590/?utm_campaign=830590&utm_source=habrahabr&utm_medium=rss)
 - [Маск: в 2025 году в Tesla появятся человекоподобные роботы для внутреннего пользования](https://habr.com/ru/news/830576/?utm_campaign=830576&utm_source=habrahabr&utm_medium=rss)
 - [В России планируют построить первый завод по производству преформ для оптоволокна](https://habr.com/ru/news/830570/?utm_campaign=830570&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила о планах закрыть вспомогательный сервис для пользователей Azure Lab Services в июне 2027 года](https://habr.com/ru/news/830554/?utm_campaign=830554&utm_source=habrahabr&utm_medium=rss)
 - [В июне Red Hat предупреждала о критической проблеме в Red Hat Enterprise Linux 9.4 после обновления ПО CrowdStrike](https://habr.com/ru/news/830550/?utm_campaign=830550&utm_source=habrahabr&utm_medium=rss)
-- [РЖД, «Аэрофлот», «Автодор» и другой крупный бизнес раскритиковали законопроект об оборотных штрафах за утечки данных](https://habr.com/ru/news/830530/?utm_campaign=830530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
