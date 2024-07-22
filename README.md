@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare: 6,8% интернет-трафика является потенциально мусорным](https://habr.com/ru/news/830420/?utm_campaign=830420&utm_source=habrahabr&utm_medium=rss)
+- [Подсистема Windows для Android получила обновление перед прекращением поддержки](https://habr.com/ru/news/830412/?utm_campaign=830412&utm_source=habrahabr&utm_medium=rss)
+- [Link-Busters отправила в Google Search миллиард запросов на удаление в рамках DMCA](https://habr.com/ru/news/830408/?utm_campaign=830408&utm_source=habrahabr&utm_medium=rss)
 - [Сегодня, 22.07.24, языку Kotlin — 12 лет](https://habr.com/ru/companies/ssp-soft/news/830164/?utm_campaign=830164&utm_source=habrahabr&utm_medium=rss)
 - [Системные администраторы по всему миру третьи сутки исправляют BSOD в парках ПК на Windows из-за ошибки в ПО CrowdStrike](https://habr.com/ru/news/830382/?utm_campaign=830382&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила инструмент для исправления BSOD в Windows из-за CrowdStrike с помощью загрузочного USB-накопителя](https://habr.com/ru/news/830330/?utm_campaign=830330&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Chrome будет просить пользователя указать причину загрузки подозрительного файла](https://habr.com/ru/news/830296/?utm_campaign=830296&utm_source=habrahabr&utm_medium=rss)
-- [Вышел плагин Revars 2.0.0](https://habr.com/ru/news/830286/?utm_campaign=830286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
