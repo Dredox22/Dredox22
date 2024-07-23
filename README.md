@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сливы нового урожая: в 2024 году в публичном доступе оказалось 150 баз российских компаний](https://habr.com/ru/companies/f_a_c_c_t/news/830754/?utm_campaign=830754&utm_source=habrahabr&utm_medium=rss)
-- [T-Bank AI Research и Центральный университет создали лабораторию для развития безопасного ИИ под названием Omut AI](https://habr.com/ru/news/830736/?utm_campaign=830736&utm_source=habrahabr&utm_medium=rss)
-- [Отключение сторонних файлов cookie в Chrome станет необязательным для пользователей](https://habr.com/ru/news/830712/?utm_campaign=830712&utm_source=habrahabr&utm_medium=rss)
-- [Приложение «Авито» удалили из AppStore](https://habr.com/ru/news/830714/?utm_campaign=830714&utm_source=habrahabr&utm_medium=rss)
-- [Павел Дуров зарегистрировался в TON Dating — сервисе для знакомств, разработанном на блокчейне TON](https://habr.com/ru/news/830708/?utm_campaign=830708&utm_source=habrahabr&utm_medium=rss)
+- [ИБ-стартап Wiz отказал Google в сделке по приобретению за $23 млрд](https://habr.com/ru/news/830816/?utm_campaign=830816&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи РФ начали запускать системы выявления и блокировки мошеннических звонков в мессенджерах](https://habr.com/ru/news/830812/?utm_campaign=830812&utm_source=habrahabr&utm_medium=rss)
+- [В WhatsApp работают над аналогом AirDrop для пользователей iOS и Android](https://habr.com/ru/news/830800/?utm_campaign=830800&utm_source=habrahabr&utm_medium=rss)
+- [Облако Linx Cloud аттестовано по первому уровню защищенности](https://habr.com/ru/companies/Linx/news/830798/?utm_campaign=830798&utm_source=habrahabr&utm_medium=rss)
+- [Chrome Canary стал показывать оповещения о проблемах с производительностью для ресурсоёмких вкладок в Windows 11](https://habr.com/ru/news/830792/?utm_campaign=830792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
