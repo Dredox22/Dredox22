@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженерам Mercedes F1 Team пришлось чинить на командном мостике ПК с BSOD из-за своего титульного спонсора CrowdStrike](https://habr.com/ru/news/830952/?utm_campaign=830952&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE рассказала об киберугрозах и киберинцидентах за первое полугодие 2024](https://habr.com/ru/news/830936/?utm_campaign=830936&utm_source=habrahabr&utm_medium=rss)
 - [Meta выпустила Llama 3.1](https://habr.com/ru/companies/bothub/news/830930/?utm_campaign=830930&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая — Llama 3.1 405B](https://habr.com/ru/news/830928/?utm_campaign=830928&utm_source=habrahabr&utm_medium=rss)
 - [В Thunderbird реализован запрос 25-летней давности о добавлении в почтовый клиент иконки с уведомлением о новых письмах](https://habr.com/ru/news/830920/?utm_campaign=830920&utm_source=habrahabr&utm_medium=rss)
-- [Вышел симулятор электронных схем с открытым кодом Qucs-S v24.3.0](https://habr.com/ru/news/830910/?utm_campaign=830910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
