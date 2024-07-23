@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia не смогла получить от TSMC выделенную линию для упаковки ИИ-чипов](https://habr.com/ru/companies/dcmiran/news/830898/?utm_campaign=830898&utm_source=habrahabr&utm_medium=rss)
+- [За успешную фишинговую атаку этичный хакер получит от Innostage 100 тысяч рублей](https://habr.com/ru/companies/innostage/news/830890/?utm_campaign=830890&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-стартап Wiz отказал Google в сделке по приобретению за $23 млрд](https://habr.com/ru/news/830816/?utm_campaign=830816&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи РФ начали запускать системы выявления и блокировки мошеннических звонков в мессенджерах](https://habr.com/ru/news/830812/?utm_campaign=830812&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp работают над аналогом AirDrop для пользователей iOS и Android](https://habr.com/ru/news/830800/?utm_campaign=830800&utm_source=habrahabr&utm_medium=rss)
-- [Облако Linx Cloud аттестовано по первому уровню защищенности](https://habr.com/ru/companies/Linx/news/830798/?utm_campaign=830798&utm_source=habrahabr&utm_medium=rss)
-- [Chrome Canary стал показывать оповещения о проблемах с производительностью для ресурсоёмких вкладок в Windows 11](https://habr.com/ru/news/830792/?utm_campaign=830792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
