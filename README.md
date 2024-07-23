@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сеть японских супермаркетов Aeon начала использовать нейросети для отслеживания «дружелюбности» кассиров](https://habr.com/ru/news/830674/?utm_campaign=830674&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск сообщил, что x.ai запускает одну из самых мощных систем для обучения нейросетей](https://habr.com/ru/news/830660/?utm_campaign=830660&utm_source=habrahabr&utm_medium=rss)
-- [Postgres Professional обновила бесплатный курс по администрированию PostgreSQL 16](https://habr.com/ru/news/830646/?utm_campaign=830646&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: разработчикам игры «Смута» выделили ещё до 100 млн рублей на расширение бесплатного режима «Смутное время»](https://habr.com/ru/news/830642/?utm_campaign=830642&utm_source=habrahabr&utm_medium=rss)
-- [Еженедельные обновления ChatApp](https://habr.com/ru/companies/chatapp/news/830626/?utm_campaign=830626&utm_source=habrahabr&utm_medium=rss)
+- [Павел Дуров зарегистрировался в TON Dating — сервисе для знакомств, разработанный на блокчейне TON](https://habr.com/ru/news/830708/?utm_campaign=830708&utm_source=habrahabr&utm_medium=rss)
+- [Представлен скрипт для самого «высокоцитируемого кота в мире Ларри»](https://habr.com/ru/news/830700/?utm_campaign=830700&utm_source=habrahabr&utm_medium=rss)
+- [Дуров: Telegram достиг отметки в 950 миллионов активных пользователей](https://habr.com/ru/news/830702/?utm_campaign=830702&utm_source=habrahabr&utm_medium=rss)
+- [Samsung Galaxy Ring можно использовать с любым смартфоном Android](https://habr.com/ru/news/830692/?utm_campaign=830692&utm_source=habrahabr&utm_medium=rss)
+- [Сборку tiny11 core запустили на Apple iPhone 15 Pro через эмулятор UTM SE](https://habr.com/ru/news/830690/?utm_campaign=830690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
