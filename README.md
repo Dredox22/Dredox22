@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Павел Дуров зарегистрировался в TON Dating — сервисе для знакомств, разработанный на блокчейне TON](https://habr.com/ru/news/830708/?utm_campaign=830708&utm_source=habrahabr&utm_medium=rss)
+- [Отключение сторонних файлов cookie в Chrome станет необязательным для пользователей](https://habr.com/ru/news/830712/?utm_campaign=830712&utm_source=habrahabr&utm_medium=rss)
+- [Приложение «Авито» удалили из AppStore](https://habr.com/ru/news/830714/?utm_campaign=830714&utm_source=habrahabr&utm_medium=rss)
+- [Павел Дуров зарегистрировался в TON Dating — сервисе для знакомств, разработанном на блокчейне TON](https://habr.com/ru/news/830708/?utm_campaign=830708&utm_source=habrahabr&utm_medium=rss)
 - [Представлен скрипт для самого «высокоцитируемого кота в мире Ларри»](https://habr.com/ru/news/830700/?utm_campaign=830700&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram достиг отметки в 950 миллионов активных пользователей](https://habr.com/ru/news/830702/?utm_campaign=830702&utm_source=habrahabr&utm_medium=rss)
-- [Samsung Galaxy Ring можно использовать с любым смартфоном Android](https://habr.com/ru/news/830692/?utm_campaign=830692&utm_source=habrahabr&utm_medium=rss)
-- [Сборку tiny11 core запустили на Apple iPhone 15 Pro через эмулятор UTM SE](https://habr.com/ru/news/830690/?utm_campaign=830690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
