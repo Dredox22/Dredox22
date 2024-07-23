@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сливы нового урожая: в 2024 году в публичном доступе оказалось 150 баз российских компаний](https://habr.com/ru/companies/f_a_c_c_t/news/830754/?utm_campaign=830754&utm_source=habrahabr&utm_medium=rss)
+- [T-Bank AI Research и Центральный университет создали лабораторию для развития безопасного ИИ под названием Omut AI](https://habr.com/ru/news/830736/?utm_campaign=830736&utm_source=habrahabr&utm_medium=rss)
 - [Отключение сторонних файлов cookie в Chrome станет необязательным для пользователей](https://habr.com/ru/news/830712/?utm_campaign=830712&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Авито» удалили из AppStore](https://habr.com/ru/news/830714/?utm_campaign=830714&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров зарегистрировался в TON Dating — сервисе для знакомств, разработанном на блокчейне TON](https://habr.com/ru/news/830708/?utm_campaign=830708&utm_source=habrahabr&utm_medium=rss)
-- [Представлен скрипт для самого «высокоцитируемого кота в мире Ларри»](https://habr.com/ru/news/830700/?utm_campaign=830700&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: Telegram достиг отметки в 950 миллионов активных пользователей](https://habr.com/ru/news/830702/?utm_campaign=830702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
