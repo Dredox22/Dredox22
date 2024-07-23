@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая — Llama 3.1 405B &lpar;слив&rpar;](https://habr.com/ru/news/830928/?utm_campaign=830928&utm_source=habrahabr&utm_medium=rss)
 - [В Thunderbird реализован запрос 25-летней давности о добавлении в почтовый клиент иконки с уведомлением о новых письмах](https://habr.com/ru/news/830920/?utm_campaign=830920&utm_source=habrahabr&utm_medium=rss)
 - [Вышел симулятор электронных схем с открытым кодом Qucs-S v24.3.0](https://habr.com/ru/news/830910/?utm_campaign=830910&utm_source=habrahabr&utm_medium=rss)
 - [В НИУ ВШЭ разрабатывают технологию идентификации текстов, сгенерированных ИИ любого типа](https://habr.com/ru/news/830904/?utm_campaign=830904&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia не смогла получить от TSMC выделенную линию для упаковки ИИ-чипов](https://habr.com/ru/companies/dcmiran/news/830898/?utm_campaign=830898&utm_source=habrahabr&utm_medium=rss)
-- [За успешную фишинговую атаку этичный хакер получит от Innostage 100 тысяч рублей](https://habr.com/ru/companies/innostage/news/830890/?utm_campaign=830890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
