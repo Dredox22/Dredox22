@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Самые интересные новости AI и машинного обучения 24.07.2024](https://habr.com/ru/news/831070/?utm_campaign=831070&utm_source=habrahabr&utm_medium=rss)
-- [В аэропортах США можно отказаться от сканирования лица при прохождении контроля](https://habr.com/ru/news/831054/?utm_campaign=831054&utm_source=habrahabr&utm_medium=rss)
-- [билайн в Новосибирске: первый митап для ИТ-сообщества](https://habr.com/ru/companies/beeline_tech/news/831066/?utm_campaign=831066&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Arc получил встроенную блокировку рекламы](https://habr.com/ru/news/831050/?utm_campaign=831050&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge начал использовать встроенную в Windows 11 функцию энергосбережения](https://habr.com/ru/news/831042/?utm_campaign=831042&utm_source=habrahabr&utm_medium=rss)
+- [«Почте Mail.ru» запустила сервис в сфере информационной безопасности](https://habr.com/ru/news/831102/?utm_campaign=831102&utm_source=habrahabr&utm_medium=rss)
+- [Вышел релиз свободной платформы Cozystack 0.10.0: MongoDB, NATS в базовой конфигурации и другие обновления](https://habr.com/ru/companies/aenix/news/831098/?utm_campaign=831098&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры Toyota Research Institute научили ИИ синхронному дрифту на паре машин Supra](https://habr.com/ru/news/831086/?utm_campaign=831086&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Shiny для Python 1.0](https://habr.com/ru/news/831078/?utm_campaign=831078&utm_source=habrahabr&utm_medium=rss)
+- [Telegram убрал монетизацию для российских каналов спустя пять дней](https://habr.com/ru/news/831074/?utm_campaign=831074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
