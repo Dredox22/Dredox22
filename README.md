@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ESR представила кошелёк Geo Wallet с поддержкой Apple «Локатора»](https://habr.com/ru/news/830974/?utm_campaign=830974&utm_source=habrahabr&utm_medium=rss)
 - [В Slack для iOS появились виджеты](https://habr.com/ru/news/830960/?utm_campaign=830960&utm_source=habrahabr&utm_medium=rss)
 - [Инженерам Mercedes F1 Team пришлось чинить на командном мостике ПК с BSOD из-за своего титульного спонсора CrowdStrike](https://habr.com/ru/news/830952/?utm_campaign=830952&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE рассказала об киберугрозах и киберинцидентах за первое полугодие 2024](https://habr.com/ru/news/830936/?utm_campaign=830936&utm_source=habrahabr&utm_medium=rss)
 - [Meta выпустила Llama 3.1](https://habr.com/ru/companies/bothub/news/830930/?utm_campaign=830930&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая — Llama 3.1 405B](https://habr.com/ru/news/830928/?utm_campaign=830928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
