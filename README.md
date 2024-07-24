@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CrowdStrike: BSOD на миллионах ПК с Windows произошёл из-за неправильной проверки файла с помощью тестового ПО компании](https://habr.com/ru/news/831158/?utm_campaign=831158&utm_source=habrahabr&utm_medium=rss)
-- [Реймонд Чен из Microsoft пожаловался на отчёты о путях к службам без кавычек](https://habr.com/ru/news/831132/?utm_campaign=831132&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт протестировал iPad с Windows XP под эмулятором UTM SE](https://habr.com/ru/news/831116/?utm_campaign=831116&utm_source=habrahabr&utm_medium=rss)
 - [«Почта Mail.ru» запустила сервис в сфере информационной безопасности](https://habr.com/ru/news/831102/?utm_campaign=831102&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз свободной платформы Cozystack 0.10.0: MongoDB, NATS в базовой конфигурации и другие обновления](https://habr.com/ru/companies/aenix/news/831098/?utm_campaign=831098&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры Toyota Research Institute научили ИИ синхронному дрифту на паре машин Supra](https://habr.com/ru/news/831086/?utm_campaign=831086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
