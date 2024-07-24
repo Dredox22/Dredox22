@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD представила процессор с самым мощным NPU в мире](https://habr.com/ru/companies/dcmiran/news/831234/?utm_campaign=831234&utm_source=habrahabr&utm_medium=rss)
 - [РЕД Эксперт 2024.07. Обновленный интерфейс и продвинутая работа с ER-диаграммами](https://habr.com/ru/companies/redsoft/news/831212/?utm_campaign=831212&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike: BSOD на миллионах ПК с Windows произошёл из-за неправильной проверки файла с помощью тестового ПО компании](https://habr.com/ru/news/831158/?utm_campaign=831158&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт протестировал iPad с Windows XP под эмулятором UTM SE](https://habr.com/ru/news/831116/?utm_campaign=831116&utm_source=habrahabr&utm_medium=rss)
 - [«Почта Mail.ru» запустила сервис в сфере информационной безопасности](https://habr.com/ru/news/831102/?utm_campaign=831102&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз свободной платформы Cozystack 0.10.0: MongoDB, NATS в базовой конфигурации и другие обновления](https://habr.com/ru/companies/aenix/news/831098/?utm_campaign=831098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
