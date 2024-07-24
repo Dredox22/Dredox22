@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Совфеде предложили запретить услугу сокрытия номера](https://habr.com/ru/news/831044/?utm_campaign=831044&utm_source=habrahabr&utm_medium=rss)
-- [Как масштабировать миграцию на отечественные ERP-системы 1С в химической отрасли?](https://habr.com/ru/companies/k2tech/news/831030/?utm_campaign=831030&utm_source=habrahabr&utm_medium=rss)
-- [Второй день отбиваем DDoS-атаки](https://habr.com/ru/companies/rshb/news/831028/?utm_campaign=831028&utm_source=habrahabr&utm_medium=rss)
-- [Telegram будет показывать данные о стране и времени регистрации публичных аккаунтов](https://habr.com/ru/news/831020/?utm_campaign=831020&utm_source=habrahabr&utm_medium=rss)
-- [Как оценить защищенность ОКИИ и почему пентесты — эффективный инструмент](https://habr.com/ru/companies/ussc/news/831008/?utm_campaign=831008&utm_source=habrahabr&utm_medium=rss)
+- [Самые интересные новости AI и машинного обучения 24.07.2024](https://habr.com/ru/news/831070/?utm_campaign=831070&utm_source=habrahabr&utm_medium=rss)
+- [В аэропортах США можно отказаться от сканирования лица при прохождении контроля](https://habr.com/ru/news/831054/?utm_campaign=831054&utm_source=habrahabr&utm_medium=rss)
+- [билайн в Новосибирске: первый митап для ИТ-сообщества](https://habr.com/ru/companies/beeline_tech/news/831066/?utm_campaign=831066&utm_source=habrahabr&utm_medium=rss)
+- [Браузер Arc получил встроенную блокировку рекламы](https://habr.com/ru/news/831050/?utm_campaign=831050&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge начал использовать встроенную в Windows 11 функцию энергосбережения](https://habr.com/ru/news/831042/?utm_campaign=831042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
