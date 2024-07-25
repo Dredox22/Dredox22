@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI анонсировала свой поисковик на основе ИИ SearchGPT](https://habr.com/ru/news/831574/?utm_campaign=831574&utm_source=habrahabr&utm_medium=rss)
 - [Американская ИБ-компания случайно наняла на работу северокорейского хакера](https://habr.com/ru/news/831548/?utm_campaign=831548&utm_source=habrahabr&utm_medium=rss)
 - [Apple откроет новую лабораторию в Шэньчжэне для тестирования iPhone, iPad и Vision Pro экстремальных условиях](https://habr.com/ru/news/831536/?utm_campaign=831536&utm_source=habrahabr&utm_medium=rss)
 - [Проект Overture Maps представил открытые наборы картографических данных](https://habr.com/ru/news/831530/?utm_campaign=831530&utm_source=habrahabr&utm_medium=rss)
 - [Хинштейн: до конца текущей недели скорость загрузки YouTube на стационарных ПК в РФ может снизиться до 40%](https://habr.com/ru/news/831518/?utm_campaign=831518&utm_source=habrahabr&utm_medium=rss)
-- [Марк Цукерберг объяснил, почему ИИ с открытым исходным кодом полезен для разработчиков](https://habr.com/ru/news/831516/?utm_campaign=831516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
