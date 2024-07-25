@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Бюро 1440» завершило программу тестов межспутниковой лазерной связи в космосе](https://habr.com/ru/news/831480/?utm_campaign=831480&utm_source=habrahabr&utm_medium=rss)
+- [Selectel на­чала пуб­лич­ное бе­та-тес­ти­рова­ние сер­вер­ной ОС кор­по­ратив­но­го клас­са на ба­зе Linux](https://habr.com/ru/news/831468/?utm_campaign=831468&utm_source=habrahabr&utm_medium=rss)
 - [В приложении Apple Music Classical появился чарт Топ-100](https://habr.com/ru/news/831424/?utm_campaign=831424&utm_source=habrahabr&utm_medium=rss)
 - [Бизнес Индии отстаёт в инновациях: когда проснётся спящий гигант?](https://habr.com/ru/companies/onlinepatent/news/831404/?utm_campaign=831404&utm_source=habrahabr&utm_medium=rss)
 - [Генпрокурор РФ анонсировал ужесточение ответственности за киберпреступления](https://habr.com/ru/news/831392/?utm_campaign=831392&utm_source=habrahabr&utm_medium=rss)
-- [Программа по поиску уязвимостей в платформе управления виртуализацией VMmanager на BI.ZONE Bug Bounty](https://habr.com/ru/companies/astralinux/news/831370/?utm_campaign=831370&utm_source=habrahabr&utm_medium=rss)
-- [«Билайн» отказался от аутсорсингового обслуживания своего домашнего интернета](https://habr.com/ru/news/831366/?utm_campaign=831366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
