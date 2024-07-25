@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Даже ИБшник в итоге станет разработчиком: вышел новый Sravni Podcast](https://habr.com/ru/companies/sravni/news/831206/?utm_campaign=831206&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike предложила жертвам глобального сбоя нерабочие подарочные карты на доставку еды в Uber Eats размером $10](https://habr.com/ru/news/831240/?utm_campaign=831240&utm_source=habrahabr&utm_medium=rss)
 - [AMD представила процессор с самым мощным NPU в мире](https://habr.com/ru/companies/dcmiran/news/831234/?utm_campaign=831234&utm_source=habrahabr&utm_medium=rss)
 - [РЕД Эксперт 2024.07. Обновленный интерфейс и продвинутая работа с ER-диаграммами](https://habr.com/ru/companies/redsoft/news/831212/?utm_campaign=831212&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike: BSOD на миллионах ПК с Windows произошёл из-за неправильной проверки файла с помощью тестового ПО компании](https://habr.com/ru/news/831158/?utm_campaign=831158&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт протестировал iPad с Windows XP под эмулятором UTM SE](https://habr.com/ru/news/831116/?utm_campaign=831116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
