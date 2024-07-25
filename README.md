@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple запустила веб-версию Apple Maps](https://habr.com/ru/news/831318/?utm_campaign=831318&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме предложили ограничить до 20 штук число SIM-карт, оформленных на одного человека](https://habr.com/ru/news/831328/?utm_campaign=831328&utm_source=habrahabr&utm_medium=rss)
-- [В «Шедевруме» теперь можно создавать клипы и добавлять музыку](https://habr.com/ru/news/831308/?utm_campaign=831308&utm_source=habrahabr&utm_medium=rss)
-- [Reddit начал блокировать поисковые системы и ботов с ИИ без оплаты](https://habr.com/ru/news/831300/?utm_campaign=831300&utm_source=habrahabr&utm_medium=rss)
-- [RuStore перевёл рекомендации и поиск на технологии ИИ](https://habr.com/ru/news/831314/?utm_campaign=831314&utm_source=habrahabr&utm_medium=rss)
+- [Программа по поиску уязвимостей в платформе управления виртуализацией VMmanager на BI.ZONE Bug Bounty](https://habr.com/ru/companies/astralinux/news/831370/?utm_campaign=831370&utm_source=habrahabr&utm_medium=rss)
+- [«Билайн» отказался от аутсорсингового обслуживания своего домашнего интернета](https://habr.com/ru/news/831366/?utm_campaign=831366&utm_source=habrahabr&utm_medium=rss)
+- [Тайные послания группы ТА558 в кибератаках на предприятия России и Беларуси](https://habr.com/ru/companies/f_a_c_c_t/news/831208/?utm_campaign=831208&utm_source=habrahabr&utm_medium=rss)
+- [iPhone с  iOS 18 смогут транслировать live video при звонках в службу 911](https://habr.com/ru/news/831324/?utm_campaign=831324&utm_source=habrahabr&utm_medium=rss)
+- [Банк России скорректирует список подозрительных контрагентов](https://habr.com/ru/news/831354/?utm_campaign=831354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
