@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [НАСА протестировало систему лазерной связи с МКС](https://habr.com/ru/news/831290/?utm_campaign=831290&utm_source=habrahabr&utm_medium=rss)
-- [Малайзия попросила Microsoft и CrowdStrike покрыть убытки от сбоя, компаниям в США IT-коллапс принёс убытков на $5 млрд](https://habr.com/ru/news/831286/?utm_campaign=831286&utm_source=habrahabr&utm_medium=rss)
-- [Proton запустила биткоин-кошелёк Proton Wallet](https://habr.com/ru/news/831282/?utm_campaign=831282&utm_source=habrahabr&utm_medium=rss)
-- [Даже ИБшник в итоге станет разработчиком: вышел новый Sravni Podcast](https://habr.com/ru/companies/sravni/news/831206/?utm_campaign=831206&utm_source=habrahabr&utm_medium=rss)
-- [CrowdStrike предложила жертвам глобального сбоя нерабочие подарочные карты на доставку еды в Uber Eats размером $10](https://habr.com/ru/news/831240/?utm_campaign=831240&utm_source=habrahabr&utm_medium=rss)
+- [Apple запустила веб-версию Apple Maps](https://habr.com/ru/news/831318/?utm_campaign=831318&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуме предложили ограничить до 20 штук число SIM-карт, оформленных на одного человека](https://habr.com/ru/news/831328/?utm_campaign=831328&utm_source=habrahabr&utm_medium=rss)
+- [В «Шедевруме» теперь можно создавать клипы и добавлять музыку](https://habr.com/ru/news/831308/?utm_campaign=831308&utm_source=habrahabr&utm_medium=rss)
+- [Reddit начал блокировать поисковые системы и ботов с ИИ без оплаты](https://habr.com/ru/news/831300/?utm_campaign=831300&utm_source=habrahabr&utm_medium=rss)
+- [RuStore перевёл рекомендации и поиск на технологии ИИ](https://habr.com/ru/news/831314/?utm_campaign=831314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
