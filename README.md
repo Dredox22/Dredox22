@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес Индии отстаёт в инновациях: когда проснётся спящий гигант?](https://habr.com/ru/companies/onlinepatent/news/831404/?utm_campaign=831404&utm_source=habrahabr&utm_medium=rss)
+- [Генпрокурор РФ анонсировал ужесточение ответственности за киберпреступления](https://habr.com/ru/news/831392/?utm_campaign=831392&utm_source=habrahabr&utm_medium=rss)
 - [Программа по поиску уязвимостей в платформе управления виртуализацией VMmanager на BI.ZONE Bug Bounty](https://habr.com/ru/companies/astralinux/news/831370/?utm_campaign=831370&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» отказался от аутсорсингового обслуживания своего домашнего интернета](https://habr.com/ru/news/831366/?utm_campaign=831366&utm_source=habrahabr&utm_medium=rss)
 - [Тайные послания группы ТА558 в кибератаках на предприятия России и Беларуси](https://habr.com/ru/companies/f_a_c_c_t/news/831208/?utm_campaign=831208&utm_source=habrahabr&utm_medium=rss)
-- [iPhone с  iOS 18 смогут транслировать live video при звонках в службу 911](https://habr.com/ru/news/831324/?utm_campaign=831324&utm_source=habrahabr&utm_medium=rss)
-- [Банк России скорректирует список подозрительных контрагентов](https://habr.com/ru/news/831354/?utm_campaign=831354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
