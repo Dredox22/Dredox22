@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС RED: за первую половину 2024 года медицинские учреждения РФ на 32% чаще становились жертвами кибератак](https://habr.com/ru/news/831676/?utm_campaign=831676&utm_source=habrahabr&utm_medium=rss)
+- [Обнаружены атаки группы XDSpy с использованием нового загрузчика XDSpy.DSDownloader](https://habr.com/ru/companies/f_a_c_c_t/news/831420/?utm_campaign=831420&utm_source=habrahabr&utm_medium=rss)
+- [Роскосмос и «Группа Астра»: в ОС Astra Linux 1.8 зажгутся звезды и зазвучит живая музыка сфер](https://habr.com/ru/companies/astralinux/news/831478/?utm_campaign=831478&utm_source=habrahabr&utm_medium=rss)
 - [Релиз платформы обмена сообщениями Zulip 9.0](https://habr.com/ru/news/831658/?utm_campaign=831658&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries удвоит вознаграждение за найденные уязвимости](https://habr.com/ru/news/831646/?utm_campaign=831646&utm_source=habrahabr&utm_medium=rss)
-- [Поисковик SearchGPT выдавал бесполезные ответы на презентации](https://habr.com/ru/news/831614/?utm_campaign=831614&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Qt Creator 14](https://habr.com/ru/news/831612/?utm_campaign=831612&utm_source=habrahabr&utm_medium=rss)
-- [Boeing запечатлел Starliner во время приближения к МКС в реальном времени](https://habr.com/ru/news/831610/?utm_campaign=831610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
