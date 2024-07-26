@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поисковик SearchGPT выдавал бесполезные ответы на презентации](https://habr.com/ru/news/831614/?utm_campaign=831614&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Qt Creator 14](https://habr.com/ru/news/831612/?utm_campaign=831612&utm_source=habrahabr&utm_medium=rss)
+- [Boeing запечатлел Starliner во время приближения к МКС в реальном времени](https://habr.com/ru/news/831610/?utm_campaign=831610&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи: в Южной Корее не работает Find My для поиска потерянных iPhone](https://habr.com/ru/news/831606/?utm_campaign=831606&utm_source=habrahabr&utm_medium=rss)
 - [Глава CrowdStrike Джордж Куртц: по состоянию на 25 июля 97% ПК клиентов компании на Windows снова в работе после IT-сбоя](https://habr.com/ru/news/831602/?utm_campaign=831602&utm_source=habrahabr&utm_medium=rss)
-- [Netflix для Windows 11 теряет загрузки и переходит на веб-приложение на базе Microsoft Edge](https://habr.com/ru/news/831596/?utm_campaign=831596&utm_source=habrahabr&utm_medium=rss)
-- [Из-за повышения цен Oracle на Java клиенты компании переходят на OpenJDK](https://habr.com/ru/news/831594/?utm_campaign=831594&utm_source=habrahabr&utm_medium=rss)
-- [SearchGPT от OpenAI — убийца Google?](https://habr.com/ru/news/831578/?utm_campaign=831578&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI анонсировала свой поисковик на основе ИИ SearchGPT](https://habr.com/ru/news/831574/?utm_campaign=831574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
