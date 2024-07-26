@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Gran Turismo 7 извинились за баг, который заставляет машины взлетать и крутиться в обычном и VR-режиме](https://habr.com/ru/news/831840/?utm_campaign=831840&utm_source=habrahabr&utm_medium=rss)
 - [В Steam появились новые инструменты для продвижения демо игр: отдельные страницы магазина, отзывы и многое другое](https://habr.com/ru/news/831830/?utm_campaign=831830&utm_source=habrahabr&utm_medium=rss)
 - [Обновление «Яндекс Музыки» для Apple Watch: переработанный интерфейс плеера и управление волной](https://habr.com/ru/news/831828/?utm_campaign=831828&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар»: в первом полугодии 2024 года число киберинцидентов с высокой критичностью выросло в несколько раз](https://habr.com/ru/news/831812/?utm_campaign=831812&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор заявил СМИ, что оставляет за собой право на меры против YouTube](https://habr.com/ru/news/831784/?utm_campaign=831784&utm_source=habrahabr&utm_medium=rss)
-- [YouTube начал показывать чёрный экран на время рекламы пользователям с включённым блокировщиком](https://habr.com/ru/news/831764/?utm_campaign=831764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
