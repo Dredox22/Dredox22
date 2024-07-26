@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В матплатах Acer, Dell, Fujitsu, Gigabyte, HP, Intel, Lenovo и Supermicro есть тестовый ключ для обхода UEFI Secure Boot](https://habr.com/ru/news/831752/?utm_campaign=831752&utm_source=habrahabr&utm_medium=rss)
+- [ИИ от Google решает задачи на уровне серебряного медалиста Международной математической олимпиады](https://habr.com/ru/companies/bothub/news/831740/?utm_campaign=831740&utm_source=habrahabr&utm_medium=rss)
+- [Stability AI показала модель Stable Video 4D для генерации новых ракурсов для видео](https://habr.com/ru/news/831738/?utm_campaign=831738&utm_source=habrahabr&utm_medium=rss)
 - [МТС RED: за первую половину 2024 года медицинские учреждения РФ на 32% чаще становились жертвами кибератак](https://habr.com/ru/news/831676/?utm_campaign=831676&utm_source=habrahabr&utm_medium=rss)
 - [Обнаружены атаки группы XDSpy с использованием нового загрузчика XDSpy.DSDownloader](https://habr.com/ru/companies/f_a_c_c_t/news/831420/?utm_campaign=831420&utm_source=habrahabr&utm_medium=rss)
-- [Роскосмос и «Группа Астра»: в ОС Astra Linux 1.8 зажгутся звезды и зазвучит живая музыка сфер](https://habr.com/ru/companies/astralinux/news/831478/?utm_campaign=831478&utm_source=habrahabr&utm_medium=rss)
-- [Релиз платформы обмена сообщениями Zulip 9.0](https://habr.com/ru/news/831658/?utm_campaign=831658&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries удвоит вознаграждение за найденные уязвимости](https://habr.com/ru/news/831646/?utm_campaign=831646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
