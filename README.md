@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор заявил СМИ, что оставляет за собой право на меры против YouTube](https://habr.com/ru/news/831784/?utm_campaign=831784&utm_source=habrahabr&utm_medium=rss)
 - [YouTube начал показывать чёрный экран на время рекламы пользователям с включённым блокировщиком](https://habr.com/ru/news/831764/?utm_campaign=831764&utm_source=habrahabr&utm_medium=rss)
 - [В матплатах Acer, Dell, Fujitsu, Gigabyte, HP, Intel, Lenovo и Supermicro есть тестовый ключ для обхода UEFI Secure Boot](https://habr.com/ru/news/831752/?utm_campaign=831752&utm_source=habrahabr&utm_medium=rss)
 - [ИИ от Google решает задачи на уровне серебряного медалиста Международной математической олимпиады](https://habr.com/ru/companies/bothub/news/831740/?utm_campaign=831740&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI показала модель Stable Video 4D для генерации новых ракурсов для видео](https://habr.com/ru/news/831738/?utm_campaign=831738&utm_source=habrahabr&utm_medium=rss)
-- [МТС RED: за первую половину 2024 года медицинские учреждения РФ на 32% чаще становились жертвами кибератак](https://habr.com/ru/news/831676/?utm_campaign=831676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
