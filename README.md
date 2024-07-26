@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз платформы обмена сообщениями Zulip 9.0](https://habr.com/ru/news/831658/?utm_campaign=831658&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries удвоит вознаграждение за найденные уязвимости](https://habr.com/ru/news/831646/?utm_campaign=831646&utm_source=habrahabr&utm_medium=rss)
 - [Поисковик SearchGPT выдавал бесполезные ответы на презентации](https://habr.com/ru/news/831614/?utm_campaign=831614&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Qt Creator 14](https://habr.com/ru/news/831612/?utm_campaign=831612&utm_source=habrahabr&utm_medium=rss)
 - [Boeing запечатлел Starliner во время приближения к МКС в реальном времени](https://habr.com/ru/news/831610/?utm_campaign=831610&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи: в Южной Корее не работает Find My для поиска потерянных iPhone](https://habr.com/ru/news/831606/?utm_campaign=831606&utm_source=habrahabr&utm_medium=rss)
-- [Глава CrowdStrike Джордж Куртц: по состоянию на 25 июля 97% ПК клиентов компании на Windows снова в работе после IT-сбоя](https://habr.com/ru/news/831602/?utm_campaign=831602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
