@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженеры Grant Thornton Australia использовали сканеры штрих-кодов для быстрой починки ПК после сбоя из-за CrowdStrike](https://habr.com/ru/news/831896/?utm_campaign=831896&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Rust 1.80](https://habr.com/ru/news/831862/?utm_campaign=831862&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: ограничение в 20 CИМ–карт на одного пользователя в РФ затронет порядка 34 тыс. абонентов по всей стране](https://habr.com/ru/news/831870/?utm_campaign=831870&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 24H2 позволяет легко настраивать направление колеса прокрутки мыши](https://habr.com/ru/news/831860/?utm_campaign=831860&utm_source=habrahabr&utm_medium=rss)
 - [Intel не сможет исправить причину сбоя в работе процессоров 13-го и 14-го поколения](https://habr.com/ru/news/831858/?utm_campaign=831858&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Gran Turismo 7 извинились за баг, который заставляет машины взлетать и крутиться в обычном и VR-режиме](https://habr.com/ru/news/831840/?utm_campaign=831840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
