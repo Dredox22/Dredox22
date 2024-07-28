@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alderon Games добавила предупреждение о сбоях в своих играх для ПК на процессорах Intel 13-го и 14-го поколений](https://habr.com/ru/news/831992/?utm_campaign=831992&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 исправили сбой при безопасном извлечении USB-накопителей](https://habr.com/ru/news/831986/?utm_campaign=831986&utm_source=habrahabr&utm_medium=rss)
 - [Новая нейросеть значительно упрощает рендеринг тканей в реальном времени](https://habr.com/ru/companies/bothub/news/831932/?utm_campaign=831932&utm_source=habrahabr&utm_medium=rss)
 - [Силы Ван-дер-Ваальса позволили создать фотонный суперкристалл](https://habr.com/ru/news/831916/?utm_campaign=831916&utm_source=habrahabr&utm_medium=rss)
 - [Ответ Александра Хинштейна по поводу замедления YouTube](https://habr.com/ru/news/831910/?utm_campaign=831910&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры Grant Thornton Australia использовали сканеры штрих-кодов для быстрой починки ПК после сбоя из-за CrowdStrike](https://habr.com/ru/news/831896/?utm_campaign=831896&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
