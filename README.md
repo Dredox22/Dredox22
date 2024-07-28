@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Telegram появилась новая мошенническая схема кражи аккаунтов](https://habr.com/ru/news/832056/?utm_campaign=832056&utm_source=habrahabr&utm_medium=rss)
 - [Федеральный суд США: для досмотра содержимого мобильных устройств на границе требуется ордер](https://habr.com/ru/news/832034/?utm_campaign=832034&utm_source=habrahabr&utm_medium=rss)
 - [Соцсеть X начала собирать данные пользователей для обучения нейросети Grok](https://habr.com/ru/news/832030/?utm_campaign=832030&utm_source=habrahabr&utm_medium=rss)
 - [Провайдер интернета и ТВ «Дом.ру» предупредил клиентов о возможном замедлении сервисов Google и YouTube](https://habr.com/ru/news/832018/?utm_campaign=832018&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia планирует выпустить мобильную видеокарту GeForce RTX 3050 A](https://habr.com/ru/news/832002/?utm_campaign=832002&utm_source=habrahabr&utm_medium=rss)
-- [Alphabet планирует вывести на рынок «повседневный» экзоскелет под одежду](https://habr.com/ru/news/831998/?utm_campaign=831998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
