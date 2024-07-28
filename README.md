@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia планирует выпустить мобильную видеокарту GeForce RTX 3050 A](https://habr.com/ru/news/832002/?utm_campaign=832002&utm_source=habrahabr&utm_medium=rss)
 - [Alphabet планирует вывести на рынок «повседневный» экзоскелет под одежду](https://habr.com/ru/news/831998/?utm_campaign=831998&utm_source=habrahabr&utm_medium=rss)
 - [Alderon Games добавила предупреждение о сбоях в своих играх для ПК на процессорах Intel 13-го и 14-го поколений](https://habr.com/ru/news/831992/?utm_campaign=831992&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 исправили сбой при безопасном извлечении USB-накопителей](https://habr.com/ru/news/831986/?utm_campaign=831986&utm_source=habrahabr&utm_medium=rss)
 - [Новая нейросеть значительно упрощает рендеринг тканей в реальном времени](https://habr.com/ru/companies/bothub/news/831932/?utm_campaign=831932&utm_source=habrahabr&utm_medium=rss)
-- [Силы Ван-дер-Ваальса позволили создать фотонный суперкристалл](https://habr.com/ru/news/831916/?utm_campaign=831916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
