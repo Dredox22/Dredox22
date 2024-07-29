@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные предсказали ИИ деградацию из-за обучения на сгенерированных данных](https://habr.com/ru/news/832184/?utm_campaign=832184&utm_source=habrahabr&utm_medium=rss)
 - [Сергей Кирюшкин об ЭДО и его современных возможностях в подкасте «Безопасный вход»](https://habr.com/ru/companies/gaz-is/news/832178/?utm_campaign=832178&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сотрудничает с Capcom, чтобы выпустить больше игр на консолях Xbox](https://habr.com/ru/news/832154/?utm_campaign=832154&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 теперь отображает полноэкранное всплывающее окно для рекламы OneDrive и защиты ПК](https://habr.com/ru/news/832140/?utm_campaign=832140&utm_source=habrahabr&utm_medium=rss)
 - [IBM закладывает основу GenAI с помощью программного обеспечения и услуг](https://habr.com/ru/news/832112/?utm_campaign=832112&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст показал реверс-инжиниринг API колонок для управления громкостью](https://habr.com/ru/news/832106/?utm_campaign=832106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
