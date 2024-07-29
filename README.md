@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM закладывает основу GenAI с помощью программного обеспечения и услуг](https://habr.com/ru/news/832112/?utm_campaign=832112&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст показал реверс-инжиниринг API колонок для управления громкостью](https://habr.com/ru/news/832106/?utm_campaign=832106&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 127](https://habr.com/ru/news/832114/?utm_campaign=832114&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появилась скрытая опция End Task](https://habr.com/ru/news/832102/?utm_campaign=832102&utm_source=habrahabr&utm_medium=rss)
 - [Представлена версия ps aux, полностью написанная на bash](https://habr.com/ru/news/832082/?utm_campaign=832082&utm_source=habrahabr&utm_medium=rss)
-- [Apple подписала обязательство Белого дома по разработке безопасного, надёжного и заслуживающего доверия ИИ](https://habr.com/ru/news/832064/?utm_campaign=832064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
