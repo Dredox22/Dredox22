@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Friflex открыла доступ к своим плагинам для Flutter-приложений на ОС Аврора 5](https://habr.com/ru/companies/friflex/news/832268/?utm_campaign=832268&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил Deaddit — аналог Reddit, в котором весь контент сгенерирован нейросетями](https://habr.com/ru/news/832266/?utm_campaign=832266&utm_source=habrahabr&utm_medium=rss)
 - [Как Большой Брат может следить за монитором через HDMI](https://habr.com/ru/companies/bothub/news/832254/?utm_campaign=832254&utm_source=habrahabr&utm_medium=rss)
 - [RuStore запустил регистрацию для физических лиц-иностранцев](https://habr.com/ru/news/832230/?utm_campaign=832230&utm_source=habrahabr&utm_medium=rss)
 - [Apple Intelligence не выйдет вместе с iOS 18, релиз перенесли на конец осени 2024 года](https://habr.com/ru/news/832222/?utm_campaign=832222&utm_source=habrahabr&utm_medium=rss)
-- [Свыше половины компаний с КИИ не успеют перейти на российский ИБ-софт до 2025 года](https://habr.com/ru/news/832208/?utm_campaign=832208&utm_source=habrahabr&utm_medium=rss)
-- [Студент-биотехнолог из РФ создал проект Girlfriend AI, помогающий общаться с девушками](https://habr.com/ru/news/832204/?utm_campaign=832204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
