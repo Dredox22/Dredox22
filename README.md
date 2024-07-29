@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бывший разработчик Runway рассказал, что нейросеть обучали на пиратском контенте и видео с YouTube](https://habr.com/ru/news/832314/?utm_campaign=832314&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры представило новую версию законопроекта об обезличенных данных](https://habr.com/ru/news/832312/?utm_campaign=832312&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: разработчики используют нейросети, несмотря на запреты в компаниях](https://habr.com/ru/news/832306/?utm_campaign=832306&utm_source=habrahabr&utm_medium=rss)
+- [Arc&#39;teryx и Skip представили экзоскелетные штаны, упрощающие ходьбу](https://habr.com/ru/news/832304/?utm_campaign=832304&utm_source=habrahabr&utm_medium=rss)
 - [AMD выпустила Amuse 2.0 — приложение для локального запуска моделей Stable Diffusion](https://habr.com/ru/news/832296/?utm_campaign=832296&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из T-Bank AI Research и AIRI представили датасет для обучения ИИ на 100 млрд демонстрационных действий](https://habr.com/ru/news/832290/?utm_campaign=832290&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp достиг отметки в 100 млн ежемесячных пользователей в США](https://habr.com/ru/news/832286/?utm_campaign=832286&utm_source=habrahabr&utm_medium=rss)
-- [Friflex открыла доступ к своим плагинам для Flutter-приложений на ОС Аврора 5](https://habr.com/ru/companies/friflex/news/832268/?utm_campaign=832268&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил Deaddit — аналог Reddit, в котором весь контент сгенерирован нейросетями](https://habr.com/ru/news/832266/?utm_campaign=832266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
