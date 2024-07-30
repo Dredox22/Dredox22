@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/832476/?utm_campaign=832476&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/832448/?utm_campaign=832448&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» протестировал отечественные маршрутизаторы для банкоматов](https://habr.com/ru/news/832444/?utm_campaign=832444&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome на время «забыл» пароли 15 млн пользователей Windows](https://habr.com/ru/news/832434/?utm_campaign=832434&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила экспериментальную версию GPT-4o с большим числом выходных токенов](https://habr.com/ru/news/832416/?utm_campaign=832416&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies: Россия заняла первое место в мире по количеству слитых в даркнет баз данных](https://habr.com/ru/news/832420/?utm_campaign=832420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
