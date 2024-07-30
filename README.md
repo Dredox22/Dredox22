@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome на время «забыл» пароли 15 млн пользователей Windows](https://habr.com/ru/news/832434/?utm_campaign=832434&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила экспериментальную версию GPT-4o с большим числом выходных токенов](https://habr.com/ru/news/832416/?utm_campaign=832416&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies: Россия заняла первое место в мире по количеству слитых в даркнет баз данных](https://habr.com/ru/news/832420/?utm_campaign=832420&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость в системе безопасности Google Workspace сделала уязвимыми тысячи аккаунтов](https://habr.com/ru/news/832410/?utm_campaign=832410&utm_source=habrahabr&utm_medium=rss)
 - [Блогеров с аудиторией больше 10 тыс. подписчиков могут обязать проходить верификацию и подать данные о себе в реестр РКН](https://habr.com/ru/news/832406/?utm_campaign=832406&utm_source=habrahabr&utm_medium=rss)
-- [Открыт набор на обучение для начинающих инженеров данных](https://habr.com/ru/companies/sapiens_solutions/news/832232/?utm_campaign=832232&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: РКН получит право управлять сетями связи на основании требования генпрокурора для удаления запрещенной информации](https://habr.com/ru/news/832348/?utm_campaign=832348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
