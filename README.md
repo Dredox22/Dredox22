@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открыт набор на обучение для начинающих инженеров данных](https://habr.com/ru/companies/sapiens_solutions/news/832232/?utm_campaign=832232&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: РКН получит право управлять сетями связи на основании требования генпрокурора для удаления запрещенной информации](https://habr.com/ru/news/832348/?utm_campaign=832348&utm_source=habrahabr&utm_medium=rss)
 - [Бывший разработчик Runway рассказал, что нейросеть обучали на пиратском контенте и видео с YouTube](https://habr.com/ru/news/832314/?utm_campaign=832314&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры представило новую версию законопроекта об обезличенных данных](https://habr.com/ru/news/832312/?utm_campaign=832312&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: разработчики используют нейросети, несмотря на запреты в компаниях](https://habr.com/ru/news/832306/?utm_campaign=832306&utm_source=habrahabr&utm_medium=rss)
-- [Arc&#39;teryx и Skip представили экзоскелетные штаны, упрощающие ходьбу](https://habr.com/ru/news/832304/?utm_campaign=832304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
