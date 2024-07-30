@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Раскрыт новый инструмент группы XDSpy, получивший название XDSpy.CHMDownloader](https://habr.com/ru/companies/f_a_c_c_t/news/832548/?utm_campaign=832548&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты «Лаборатории Касперского» и «Авито» дали рекомендации, как безопасно покупать и продавать гаджеты](https://habr.com/ru/news/832546/?utm_campaign=832546&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме поддержали запрет на звонки с незнакомых номеров в мессенджерах](https://habr.com/ru/news/832532/?utm_campaign=832532&utm_source=habrahabr&utm_medium=rss)
 - [В Центральном университете готовят команду старшеклассников из РФ для участия в первой Международной олимпиаде по ИИ](https://habr.com/ru/news/832512/?utm_campaign=832512&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ РФ готовится к массовому внедрению цифрового рубля летом следующего года](https://habr.com/ru/news/832508/?utm_campaign=832508&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/832476/?utm_campaign=832476&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» протестировал отечественные маршрутизаторы для банкоматов](https://habr.com/ru/news/832444/?utm_campaign=832444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
