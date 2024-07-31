@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft возродит Skype в Windows 11](https://habr.com/ru/news/832666/?utm_campaign=832666&utm_source=habrahabr&utm_medium=rss)
 - [Южнокорейская комиссия по связи сообщила, что не запрещала «Локатор» в стране, решение об ограничении приняла сама Apple](https://habr.com/ru/news/832664/?utm_campaign=832664&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: чёрные рамки в «Проводнике» Windows 11 — это фича, а не ошибка](https://habr.com/ru/news/832654/?utm_campaign=832654&utm_source=habrahabr&utm_medium=rss)
 - [Delta Airlines планирует через суд получить компенсацию в размере до $500 млн от CrowdStrike и Microsoft из-за IT-сбоя](https://habr.com/ru/news/832642/?utm_campaign=832642&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» и МТС начали предупреждать своих абонентов о возможных сбоях в работе видеохостинга YouTube](https://habr.com/ru/news/832626/?utm_campaign=832626&utm_source=habrahabr&utm_medium=rss)
-- [Для macOS вышла утилита Catboard для защиты от случайных нажатий клавиш котом](https://habr.com/ru/news/832576/?utm_campaign=832576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
