@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Activision опубликовала карту Caldera из Call of Duty: Warzone в общий доступ](https://habr.com/ru/news/832986/?utm_campaign=832986&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики из ведущих IT-компаний запустили бесплатные уроки по машинному обучению](https://habr.com/ru/news/832982/?utm_campaign=832982&utm_source=habrahabr&utm_medium=rss)
 - [С 28 ноября по 1 декабря в Москве пройдёт выставка игр РЭД ЭКСПО](https://habr.com/ru/news/832962/?utm_campaign=832962&utm_source=habrahabr&utm_medium=rss)
 - [Открылись предзаказы «Друга» — носимого ИИ-компаньона](https://habr.com/ru/news/832948/?utm_campaign=832948&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Telegram: встроенный браузер, мини-магазин приложений и другие нововведения](https://habr.com/ru/news/832946/?utm_campaign=832946&utm_source=habrahabr&utm_medium=rss)
-- [РКН планирует признать научно–техническую и статистическую информацию о VPN для обхода блокировок запрещённой в РФ](https://habr.com/ru/news/832904/?utm_campaign=832904&utm_source=habrahabr&utm_medium=rss)
-- [Как оценить токсичность комментариев на Хабре с помощью ML? Узнайте в бесплатном курсе Академии Selectel](https://habr.com/ru/companies/selectel/news/832840/?utm_campaign=832840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
