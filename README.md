@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что скрывают письма: в 97% обнаруженных рассылок вредоносные программы были спрятаны во вложениях](https://habr.com/ru/companies/f_a_c_c_t/news/832750/?utm_campaign=832750&utm_source=habrahabr&utm_medium=rss)
 - [Google вскоре может разрешить обновлять сторонние приложения через Play Store](https://habr.com/ru/news/832714/?utm_campaign=832714&utm_source=habrahabr&utm_medium=rss)
 - [Огромный Тирекс, крутой мерч и сахарная вата. Приглашаем на стенд Selectel на ИТ-пикнике](https://habr.com/ru/companies/selectel/news/832598/?utm_campaign=832598&utm_source=habrahabr&utm_medium=rss)
 - [Объединяем системных и бизнес-аналитиков в IT. Ну и тех, кто выполняет эти роли. Конференция 22 и 24 августа](https://habr.com/ru/companies/skbkontur/news/832510/?utm_campaign=832510&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft возродит Skype в Windows 11](https://habr.com/ru/news/832666/?utm_campaign=832666&utm_source=habrahabr&utm_medium=rss)
-- [Южнокорейская комиссия по связи сообщила, что не запрещала «Локатор» в стране, решение об ограничении приняла сама Apple](https://habr.com/ru/news/832664/?utm_campaign=832664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
