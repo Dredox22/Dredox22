@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: 8,5 млн ПК c BSOD из-за CrowdStrike — это небольшая «подгруппа» фактически затронутых IT-сбоем систем](https://habr.com/ru/news/833022/?utm_campaign=833022&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик приложения для macOS прекратил его многолетнюю поддержку из-за блокировки API](https://habr.com/ru/news/833008/?utm_campaign=833008&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Vanilla OS 2 «Orchid» на базе Debian](https://habr.com/ru/news/832954/?utm_campaign=832954&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft поменяла способ включения секунд в системном трее в Windows 11](https://habr.com/ru/news/832944/?utm_campaign=832944&utm_source=habrahabr&utm_medium=rss)
 - [Activision опубликовала карту Caldera из Call of Duty: Warzone в общий доступ](https://habr.com/ru/news/832986/?utm_campaign=832986&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из ведущих IT-компаний запустили бесплатные уроки по машинному обучению](https://habr.com/ru/news/832982/?utm_campaign=832982&utm_source=habrahabr&utm_medium=rss)
-- [С 28 ноября по 1 декабря в Москве пройдёт выставка игр РЭД ЭКСПО](https://habr.com/ru/news/832962/?utm_campaign=832962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
