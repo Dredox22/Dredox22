@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гендиректор Reddit: Microsoft должна платить за сбор данных платформы](https://habr.com/ru/news/833010/?utm_campaign=833010&utm_source=habrahabr&utm_medium=rss)
+- [Аналог YouTube из РФ под названием «Платформа» закрыли на технические работы](https://habr.com/ru/news/833032/?utm_campaign=833032&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: 8,5 млн ПК c BSOD из-за CrowdStrike — это небольшая «подгруппа» фактически затронутых IT-сбоем систем](https://habr.com/ru/news/833022/?utm_campaign=833022&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик приложения для macOS прекратил его многолетнюю поддержку из-за блокировки API](https://habr.com/ru/news/833008/?utm_campaign=833008&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Vanilla OS 2 «Orchid» на базе Debian](https://habr.com/ru/news/832954/?utm_campaign=832954&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft поменяла способ включения секунд в системном трее в Windows 11](https://habr.com/ru/news/832944/?utm_campaign=832944&utm_source=habrahabr&utm_medium=rss)
-- [Activision опубликовала карту Caldera из Call of Duty: Warzone в общий доступ](https://habr.com/ru/news/832986/?utm_campaign=832986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
