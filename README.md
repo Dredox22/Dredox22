@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Группа Астра» представляет операционную систему нового поколения](https://habr.com/ru/companies/astralinux/news/833048/?utm_campaign=833048&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Reddit: Microsoft должна платить за сбор данных платформы](https://habr.com/ru/news/833010/?utm_campaign=833010&utm_source=habrahabr&utm_medium=rss)
 - [Аналог YouTube из РФ под названием «Платформа» закрыли на технические работы](https://habr.com/ru/news/833032/?utm_campaign=833032&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: 8,5 млн ПК c BSOD из-за CrowdStrike — это небольшая «подгруппа» фактически затронутых IT-сбоем систем](https://habr.com/ru/news/833022/?utm_campaign=833022&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик приложения для macOS прекратил его многолетнюю поддержку из-за блокировки API](https://habr.com/ru/news/833008/?utm_campaign=833008&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Vanilla OS 2 «Orchid» на базе Debian](https://habr.com/ru/news/832954/?utm_campaign=832954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
