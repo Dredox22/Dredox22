@@ -72,7 +72,7 @@
 - [Вышел новый COSI-драйвер для SeaweedFS, который позволит автоматически заказывать бакеты прямо из Kubernetes](https://habr.com/ru/companies/aenix/news/833030/?utm_campaign=833030&utm_source=habrahabr&utm_medium=rss)
 - [«Группа Астра» представляет операционную систему нового поколения](https://habr.com/ru/companies/astralinux/news/833048/?utm_campaign=833048&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Reddit: Microsoft должна платить за сбор данных платформы](https://habr.com/ru/news/833010/?utm_campaign=833010&utm_source=habrahabr&utm_medium=rss)
-- [Аналог YouTube из РФ под названием «Платформа» закрыли на технические работы](https://habr.com/ru/news/833032/?utm_campaign=833032&utm_source=habrahabr&utm_medium=rss)
+- [Аналог YouTube из РФ под названием «Платформа» закрыли на технические работы, сервис заработал штатно](https://habr.com/ru/news/833032/?utm_campaign=833032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
