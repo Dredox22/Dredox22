@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Предприятие «Ростеха» разработало лампу бегущей волны для скоростного интернета на Северном полюсе](https://habr.com/ru/news/833230/?utm_campaign=833230&utm_source=habrahabr&utm_medium=rss)
 - [Робот российского разработчика побил мировой рекорд по сборке кубика Рубика](https://habr.com/ru/news/833194/?utm_campaign=833194&utm_source=habrahabr&utm_medium=rss)
 - [Addlink представила новые SSD емкостью от 1,92 до 15,36 Тб для NAS](https://habr.com/ru/companies/dcmiran/news/833182/?utm_campaign=833182&utm_source=habrahabr&utm_medium=rss)
 - [DevOps-челлендж: решите задачку и выиграйте крутой мерч](https://habr.com/ru/companies/kts/news/833080/?utm_campaign=833080&utm_source=habrahabr&utm_medium=rss)
 - [Вышел новый COSI-драйвер для SeaweedFS, который позволит автоматически заказывать бакеты прямо из Kubernetes](https://habr.com/ru/companies/aenix/news/833030/?utm_campaign=833030&utm_source=habrahabr&utm_medium=rss)
-- [«Группа Астра» представляет операционную систему нового поколения](https://habr.com/ru/companies/astralinux/news/833048/?utm_campaign=833048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
