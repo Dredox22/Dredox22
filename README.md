@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Innostage выявила уязвимость в веб-приложении BPMSoft](https://habr.com/ru/companies/innostage/news/833428/?utm_campaign=833428&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты ФСБ рекомендуют отказаться от российского браузера «Спутник» из-за проблем с безопасностью проекта](https://habr.com/ru/news/833412/?utm_campaign=833412&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Black Forest Labs выпустил модели генерации изображений FLUX.1](https://habr.com/ru/news/833404/?utm_campaign=833404&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор США начал два антимонопольных расследования против Nvidia](https://habr.com/ru/news/833380/?utm_campaign=833380&utm_source=habrahabr&utm_medium=rss)
 - [Первый подкаст ГНИВЦ – IT`s GNIVC с темой «Что нужно знать тестировщику»](https://habr.com/ru/companies/gnivc/news/833350/?utm_campaign=833350&utm_source=habrahabr&utm_medium=rss)
-- [Google расширяет «Школьное время» на телефоны и планшеты](https://habr.com/ru/news/833340/?utm_campaign=833340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
