@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эмуляторы ПК теперь официально разрешены на iPhone и iPad](https://habr.com/ru/news/833302/?utm_campaign=833302&utm_source=habrahabr&utm_medium=rss)
+- [У Intel много проблем: $1,61 млрд убытков, судебные иски, сокращение штата и обвал акций на 19%](https://habr.com/ru/companies/dcmiran/news/833306/?utm_campaign=833306&utm_source=habrahabr&utm_medium=rss)
+- [В рамках сокращения расходов Intel планирует уволить 15% сотрудников — около 19 тысяч человек](https://habr.com/ru/news/833304/?utm_campaign=833304&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик воссоздал алгоритм Shazam с помощью Go](https://habr.com/ru/news/833288/?utm_campaign=833288&utm_source=habrahabr&utm_medium=rss)
 - [Акционеры CrowdStrike подали в суд на компанию](https://habr.com/ru/news/833286/?utm_campaign=833286&utm_source=habrahabr&utm_medium=rss)
-- [В Google заявили о непричастности к проблемам в работе сервиса YouTube в РФ](https://habr.com/ru/news/833284/?utm_campaign=833284&utm_source=habrahabr&utm_medium=rss)
-- [Google начала использовать ИИ для балансировки трафика](https://habr.com/ru/news/833276/?utm_campaign=833276&utm_source=habrahabr&utm_medium=rss)
-- [GitHub представила Models — маркетплейс моделей машинного обучения](https://habr.com/ru/news/833256/?utm_campaign=833256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
