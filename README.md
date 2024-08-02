@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала использовать ИИ для балансировки трафика](https://habr.com/ru/news/833276/?utm_campaign=833276&utm_source=habrahabr&utm_medium=rss)
 - [GitHub представила Models — маркетплейс моделей машинного обучения](https://habr.com/ru/news/833256/?utm_campaign=833256&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Twitter для Mac исчезло из App Store, пользователям предлагают использовать вместо него X для iPad](https://habr.com/ru/news/833248/?utm_campaign=833248&utm_source=habrahabr&utm_medium=rss)
 - [Предприятие «Ростеха» разработало лампу бегущей волны для скоростного интернета на Северном полюсе](https://habr.com/ru/news/833230/?utm_campaign=833230&utm_source=habrahabr&utm_medium=rss)
 - [Робот российского разработчика побил мировой рекорд по сборке кубика Рубика](https://habr.com/ru/news/833194/?utm_campaign=833194&utm_source=habrahabr&utm_medium=rss)
-- [Addlink представила новые SSD емкостью от 1,92 до 15,36 Тб для NAS](https://habr.com/ru/companies/dcmiran/news/833182/?utm_campaign=833182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
