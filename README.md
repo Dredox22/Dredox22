@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Регулятор США начал два антимонопольных расследования против Nvidia](https://habr.com/ru/news/833380/?utm_campaign=833380&utm_source=habrahabr&utm_medium=rss)
 - [Первый подкаст ГНИВЦ – IT`s GNIVC с темой «Что нужно знать тестировщику»](https://habr.com/ru/companies/gnivc/news/833350/?utm_campaign=833350&utm_source=habrahabr&utm_medium=rss)
 - [Google расширяет «Школьное время» на телефоны и планшеты](https://habr.com/ru/news/833340/?utm_campaign=833340&utm_source=habrahabr&utm_medium=rss)
 - [Эмуляторы ПК теперь официально разрешены на iPhone и iPad](https://habr.com/ru/news/833302/?utm_campaign=833302&utm_source=habrahabr&utm_medium=rss)
 - [У Intel много проблем: $1,61 млрд убытков, судебные иски, сокращение штата и обвал акций на 19%](https://habr.com/ru/companies/dcmiran/news/833306/?utm_campaign=833306&utm_source=habrahabr&utm_medium=rss)
-- [В рамках сокращения расходов Intel планирует уволить 15% сотрудников — около 19 тысяч человек](https://habr.com/ru/news/833304/?utm_campaign=833304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
