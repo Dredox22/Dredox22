@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google получила исследователей и технологии Character.ai](https://habr.com/ru/news/833558/?utm_campaign=833558&utm_source=habrahabr&utm_medium=rss)
 - [Представлен Hackberry-Pi_Zero — карманный Linux на базе Raspberry Pi Zero 2W с 4&amp;quot; TFT, клавиатурой BlackBerry и 2хBL-5C](https://habr.com/ru/news/833546/?utm_campaign=833546&utm_source=habrahabr&utm_medium=rss)
 - [Разблокировка iPhone сердцем, эпидемия утечек данных и обида Amazon на Nokia: дайджест главных новостей](https://habr.com/ru/companies/onlinepatent/news/833504/?utm_campaign=833504&utm_source=habrahabr&utm_medium=rss)
 - [В Индонезии заблокировали DuckDuckGo из-за порнографического и игорного контента в поисковой выдаче](https://habr.com/ru/news/833524/?utm_campaign=833524&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Apache Kafka 3.8](https://habr.com/ru/news/833516/?utm_campaign=833516&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила обновление KB5001716 для Windows 10/11 с предупреждением о необходимости обновить ОС или ПК](https://habr.com/ru/news/833514/?utm_campaign=833514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
