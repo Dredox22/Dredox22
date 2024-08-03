@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Индонезии заблокировали DuckDuckGo из-за порнографического и игорного контента в поисковой выдаче](https://habr.com/ru/news/833524/?utm_campaign=833524&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Apache Kafka 3.8](https://habr.com/ru/news/833516/?utm_campaign=833516&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила обновление KB5001716 для Windows 10/11 с предупреждением о необходимости обновить ОС или ПК](https://habr.com/ru/news/833514/?utm_campaign=833514&utm_source=habrahabr&utm_medium=rss)
 - [Orion soft представил обновленную СУБД Proxima DB 3.0.1 с уникальными для рынка баз данных функциями](https://habr.com/ru/companies/orion_soft/news/833434/?utm_campaign=833434&utm_source=habrahabr&utm_medium=rss)
 - [Innostage выявила уязвимость в веб-приложении BPMSoft](https://habr.com/ru/companies/innostage/news/833428/?utm_campaign=833428&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты ФСБ рекомендуют отказаться от российского браузера «Спутник» из-за проблем с безопасностью проекта](https://habr.com/ru/news/833412/?utm_campaign=833412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
