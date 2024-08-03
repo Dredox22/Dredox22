@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила обновление KB5001716 для Windows 10/11 с предупреждением о необходимости обновить ОС или ПК](https://habr.com/ru/news/833514/?utm_campaign=833514&utm_source=habrahabr&utm_medium=rss)
 - [Orion soft представил обновленную СУБД Proxima DB 3.0.1 с уникальными для рынка баз данных функциями](https://habr.com/ru/companies/orion_soft/news/833434/?utm_campaign=833434&utm_source=habrahabr&utm_medium=rss)
 - [Innostage выявила уязвимость в веб-приложении BPMSoft](https://habr.com/ru/companies/innostage/news/833428/?utm_campaign=833428&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты ФСБ рекомендуют отказаться от российского браузера «Спутник» из-за проблем с безопасностью проекта](https://habr.com/ru/news/833412/?utm_campaign=833412&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Black Forest Labs выпустил модели генерации изображений FLUX.1](https://habr.com/ru/news/833404/?utm_campaign=833404&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор США начал два антимонопольных расследования против Nvidia](https://habr.com/ru/news/833380/?utm_campaign=833380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
