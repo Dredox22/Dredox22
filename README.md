@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Баг в Google Chrome нарушает функцию перетаскивания из окна «Загрузки»](https://habr.com/ru/news/833706/?utm_campaign=833706&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила пакет для гомоморфного шифрования в Swift](https://habr.com/ru/news/833704/?utm_campaign=833704&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome предупреждает об отключении uBlock Origin](https://habr.com/ru/news/833700/?utm_campaign=833700&utm_source=habrahabr&utm_medium=rss)
 - [Сайт ROMhacking перешёл в режим «только для чтения» и выложил 11 ГБ файлов в Интернет-архиве для сохранения](https://habr.com/ru/news/833620/?utm_campaign=833620&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в Китае планируют присвоить пользователям интернета индивидуальные ID, чтобы деанонимизировать все действия в сети](https://habr.com/ru/news/833616/?utm_campaign=833616&utm_source=habrahabr&utm_medium=rss)
-- [Twilio прекратила поддержку Authy for Desktop, принудительно отключив всех пользователей настольных ПК](https://habr.com/ru/news/833582/?utm_campaign=833582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
