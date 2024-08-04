@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сайт ROMhacking перешёл в режим «только для чтения» и выложил 11 ГБ файлов в Интернет-архиве для сохранения](https://habr.com/ru/news/833620/?utm_campaign=833620&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в Китае планируют присвоить пользователям интернета индивидуальные ID, чтобы деанонимизировать все действия в сети](https://habr.com/ru/news/833616/?utm_campaign=833616&utm_source=habrahabr&utm_medium=rss)
 - [Twilio прекратила поддержку Authy for Desktop, принудительно отключив всех пользователей настольных ПК](https://habr.com/ru/news/833582/?utm_campaign=833582&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: YouTube не работает в высоком качестве в РФ в Chrome, Opera, Mozilla Firefox, в Safari и «Яндекс Браузере» норм](https://habr.com/ru/news/833572/?utm_campaign=833572&utm_source=habrahabr&utm_medium=rss)
 - [1C Game Studios представила первый дневник разработки приключенческого экшена «Война Миров: Сибирь»](https://habr.com/ru/news/833570/?utm_campaign=833570&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Hackberry-Pi_Zero — карманный Linux на базе Raspberry Pi Zero 2W с 4&amp;quot; TFT, клавиатурой BlackBerry и 2хBL-5C](https://habr.com/ru/news/833546/?utm_campaign=833546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
