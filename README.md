@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CrowdStrike заявила о невиновности в отключении IT-систем Delta Airlines и сбоя ПК на Windows из-за обновления своего ПО](https://habr.com/ru/news/833952/?utm_campaign=833952&utm_source=habrahabr&utm_medium=rss)
 - [Служба каталогов ALD Pro сертифицирована ФСТЭК России](https://habr.com/ru/companies/astralinux/news/833944/?utm_campaign=833944&utm_source=habrahabr&utm_medium=rss)
 - [Британское правительство отменило два контракта на $1,7 млрд по созданию нового суперкомпьютера и инфраструктуры для ИИ](https://habr.com/ru/news/833928/?utm_campaign=833928&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI разработала метод водяных знаков для обнаружения текста, написанного ChatGPT, с надёжностью 99,9%](https://habr.com/ru/news/833902/?utm_campaign=833902&utm_source=habrahabr&utm_medium=rss)
 - [МТС приглашает Golang-разработчиков на митап True Tech Go](https://habr.com/ru/companies/ru_mts/news/833890/?utm_campaign=833890&utm_source=habrahabr&utm_medium=rss)
-- [Аргентина внедряет ИИ для предсказания преступлений](https://habr.com/ru/companies/bothub/news/833876/?utm_campaign=833876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
