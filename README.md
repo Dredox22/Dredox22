@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз MoonShine v2.20.0 “Desert Rose”](https://habr.com/ru/news/833980/?utm_campaign=833980&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/833970/?utm_campaign=833970&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike заявила о невиновности в отключении IT-систем Delta Airlines и сбоя ПК на Windows из-за обновления своего ПО](https://habr.com/ru/news/833952/?utm_campaign=833952&utm_source=habrahabr&utm_medium=rss)
 - [Служба каталога ALD Pro сертифицирована ФСТЭК России](https://habr.com/ru/companies/astralinux/news/833944/?utm_campaign=833944&utm_source=habrahabr&utm_medium=rss)
 - [Британское правительство отменило два контракта на $1,7 млрд по созданию нового суперкомпьютера и инфраструктуры для ИИ](https://habr.com/ru/news/833928/?utm_campaign=833928&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI разработала метод водяных знаков для обнаружения текста, написанного ChatGPT, с надёжностью 99,9%](https://habr.com/ru/news/833902/?utm_campaign=833902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
