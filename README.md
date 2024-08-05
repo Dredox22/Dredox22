@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Британское правительство отменило два контракта на $1,7 млрд по созданию нового суперкомпьютера и инфраструктуры для ИИ](https://habr.com/ru/news/833928/?utm_campaign=833928&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI разработала метод водяных знаков для обнаружения текста, написанного ChatGPT, с надёжностью 99,9%](https://habr.com/ru/news/833902/?utm_campaign=833902&utm_source=habrahabr&utm_medium=rss)
 - [МТС приглашает Golang-разработчиков на митап True Tech Go](https://habr.com/ru/companies/ru_mts/news/833890/?utm_campaign=833890&utm_source=habrahabr&utm_medium=rss)
 - [Аргентина внедряет ИИ для предсказания преступлений](https://habr.com/ru/companies/bothub/news/833876/?utm_campaign=833876&utm_source=habrahabr&utm_medium=rss)
 - [Минобороны США готовит транслятор TRACTOR &lpar;Translating All C to Rust&rpar; для автопреобразования проектов на C в код на Rust](https://habr.com/ru/news/833874/?utm_campaign=833874&utm_source=habrahabr&utm_medium=rss)
-- [В Новосибирске откроют научно-образовательный центр для подготовки телеком-специалистов](https://habr.com/ru/news/833844/?utm_campaign=833844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
