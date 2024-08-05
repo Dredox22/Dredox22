@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Лаборатория Касперского» выявила слежку за россиянами через Android-устройства](https://habr.com/ru/news/833784/?utm_campaign=833784&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Hibernate 7.0.0.Beta1](https://habr.com/ru/companies/spring_aio/news/833774/?utm_campaign=833774&utm_source=habrahabr&utm_medium=rss)
+- [ФСТЭК разработала новые требования к защите информации в госорганах и компаниях КИИ](https://habr.com/ru/news/833816/?utm_campaign=833816&utm_source=habrahabr&utm_medium=rss)
+- [Стартап по разработке БД в реальном времени купит PeerDB для расширения поддержки Postgres](https://habr.com/ru/news/833788/?utm_campaign=833788&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» обнаружила троян на Android-устройствах россиян](https://habr.com/ru/news/833784/?utm_campaign=833784&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи выложили фото ещё не вышедшего Google Pixel 9 Pro Fold](https://habr.com/ru/news/833778/?utm_campaign=833778&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia не спешит поставлять в Китай урезанные ускорители B20 опасаясь новых санкций США](https://habr.com/ru/companies/dcmiran/news/833772/?utm_campaign=833772&utm_source=habrahabr&utm_medium=rss)
-- [«Столото» и F.A.C.C.T. заблокировали почти 3,5 тыс. мошеннических ресурсов в I полугодии 2024 года](https://habr.com/ru/companies/f_a_c_c_t/news/833744/?utm_campaign=833744&utm_source=habrahabr&utm_medium=rss)
-- [Драйверы Nvidia 555 и новее вызывают BSOD на ПК с Windows 10/11 со старыми процессорами &lpar;без поддержки PopCnt&rpar;](https://habr.com/ru/news/833730/?utm_campaign=833730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
