@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Новосибирске откроют научно-образовательный центр для подготовки телеком-специалистов](https://habr.com/ru/news/833844/?utm_campaign=833844&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Hibernate 7.0.0.Beta1](https://habr.com/ru/companies/spring_aio/news/833774/?utm_campaign=833774&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК разработала новые требования к защите информации в госорганах и компаниях КИИ](https://habr.com/ru/news/833816/?utm_campaign=833816&utm_source=habrahabr&utm_medium=rss)
 - [Стартап по разработке БД в реальном времени купит PeerDB для расширения поддержки Postgres](https://habr.com/ru/news/833788/?utm_campaign=833788&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» обнаружила троян на Android-устройствах россиян](https://habr.com/ru/news/833784/?utm_campaign=833784&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи выложили фото ещё не вышедшего Google Pixel 9 Pro Fold](https://habr.com/ru/news/833778/?utm_campaign=833778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
