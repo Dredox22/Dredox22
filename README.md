@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Аргентина внедряет ИИ для предсказания преступлений](https://habr.com/ru/companies/bothub/news/833876/?utm_campaign=833876&utm_source=habrahabr&utm_medium=rss)
+- [Минобороны США готовит транслятор TRACTOR &lpar;Translating All C to Rust&rpar; для автопреобразования проектов на C в код на Rust](https://habr.com/ru/news/833874/?utm_campaign=833874&utm_source=habrahabr&utm_medium=rss)
 - [В Новосибирске откроют научно-образовательный центр для подготовки телеком-специалистов](https://habr.com/ru/news/833844/?utm_campaign=833844&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Hibernate 7.0.0.Beta1](https://habr.com/ru/companies/spring_aio/news/833774/?utm_campaign=833774&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК разработала новые требования к защите информации в госорганах и компаниях КИИ](https://habr.com/ru/news/833816/?utm_campaign=833816&utm_source=habrahabr&utm_medium=rss)
-- [Стартап по разработке БД в реальном времени купит PeerDB для расширения поддержки Postgres](https://habr.com/ru/news/833788/?utm_campaign=833788&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» обнаружила троян на Android-устройствах россиян](https://habr.com/ru/news/833784/?utm_campaign=833784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
