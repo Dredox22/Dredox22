@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Столото» и F.A.C.C.T. заблокировали почти 3,5 тыс. мошеннических ресурсов в I полугодии 2024 года](https://habr.com/ru/companies/f_a_c_c_t/news/833744/?utm_campaign=833744&utm_source=habrahabr&utm_medium=rss)
 - [Драйверы Nvidia 555 и новее вызывают BSOD на ПК с Windows 10/11 со старыми процессорами &lpar;без поддержки PopCnt&rpar;](https://habr.com/ru/news/833730/?utm_campaign=833730&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Google Chrome нарушает функцию перетаскивания из окна «Загрузки»](https://habr.com/ru/news/833706/?utm_campaign=833706&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила пакет для гомоморфного шифрования в Swift](https://habr.com/ru/news/833704/?utm_campaign=833704&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome предупреждает об отключении uBlock Origin](https://habr.com/ru/news/833700/?utm_campaign=833700&utm_source=habrahabr&utm_medium=rss)
-- [Сайт ROMhacking перешёл в режим «только для чтения» и выложил 11 ГБ файлов в Интернет-архиве для сохранения](https://habr.com/ru/news/833620/?utm_campaign=833620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
