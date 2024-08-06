@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Intelligence отдаёт приоритет фишинговым письмам в приложении почты](https://habr.com/ru/news/834068/?utm_campaign=834068&utm_source=habrahabr&utm_medium=rss)
+- [Приложение RevertSV позволяет преобразовать Windows 11 в Windows 10 «в один клик»](https://habr.com/ru/news/834058/?utm_campaign=834058&utm_source=habrahabr&utm_medium=rss)
 - [Google Cloud предложила выделенный кластер GPU Nvidia для стартапов Y Combinator](https://habr.com/ru/news/834048/?utm_campaign=834048&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» изменил условия пропуска трафика телефонной связи на местном уровне для других операторов связи](https://habr.com/ru/news/834046/?utm_campaign=834046&utm_source=habrahabr&utm_medium=rss)
 - [Суд в США признал Google монополистом на рынке поисковиков](https://habr.com/ru/news/834040/?utm_campaign=834040&utm_source=habrahabr&utm_medium=rss)
-- [Из OpenAI ушёл ещё один соучредитель и ключевой специалист по безопасности ИИ Джон Шульман](https://habr.com/ru/news/834036/?utm_campaign=834036&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» — компания перевела Единую отраслевую систему документооборота &lpar;ЕОСДО&rpar; на импортонезависимое ПО](https://habr.com/ru/news/834006/?utm_campaign=834006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
