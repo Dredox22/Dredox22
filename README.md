@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд в США признал Google монополистом на рынке поисковиков](https://habr.com/ru/news/834040/?utm_campaign=834040&utm_source=habrahabr&utm_medium=rss)
+- [Из OpenAI ушёл ещё один соучредитель и ключевой специалист по безопасности ИИ Джон Шульман](https://habr.com/ru/news/834036/?utm_campaign=834036&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» — компания перевела Единую отраслевую систему документооборота &lpar;ЕОСДО&rpar; на импортонезависимое ПО](https://habr.com/ru/news/834006/?utm_campaign=834006&utm_source=habrahabr&utm_medium=rss)
 - [Релиз MoonShine v2.20.0 “Desert Rose”](https://habr.com/ru/news/833980/?utm_campaign=833980&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/833970/?utm_campaign=833970&utm_source=habrahabr&utm_medium=rss)
-- [CrowdStrike заявила о невиновности в отключении IT-систем Delta Airlines и сбоя ПК на Windows из-за обновления своего ПО](https://habr.com/ru/news/833952/?utm_campaign=833952&utm_source=habrahabr&utm_medium=rss)
-- [Служба каталога ALD Pro сертифицирована ФСТЭК России](https://habr.com/ru/companies/astralinux/news/833944/?utm_campaign=833944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
