@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud предложила выделенный кластер GPU Nvidia для стартапов Y Combinator](https://habr.com/ru/news/834048/?utm_campaign=834048&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» изменил условия пропуска трафика телефонной связи на местном уровне для других операторов связи](https://habr.com/ru/news/834046/?utm_campaign=834046&utm_source=habrahabr&utm_medium=rss)
 - [Суд в США признал Google монополистом на рынке поисковиков](https://habr.com/ru/news/834040/?utm_campaign=834040&utm_source=habrahabr&utm_medium=rss)
 - [Из OpenAI ушёл ещё один соучредитель и ключевой специалист по безопасности ИИ Джон Шульман](https://habr.com/ru/news/834036/?utm_campaign=834036&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» — компания перевела Единую отраслевую систему документооборота &lpar;ЕОСДО&rpar; на импортонезависимое ПО](https://habr.com/ru/news/834006/?utm_campaign=834006&utm_source=habrahabr&utm_medium=rss)
-- [Релиз MoonShine v2.20.0 “Desert Rose”](https://habr.com/ru/news/833980/?utm_campaign=833980&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/833970/?utm_campaign=833970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
