@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Не галлюцинируй»: реддитор достал из macOS 15.1 Beta 1 системные промпты Apple Intelligence](https://habr.com/ru/news/834292/?utm_campaign=834292&utm_source=habrahabr&utm_medium=rss)
 - [Google приглашает принять участие в эксперименте со встроенным искусственным интеллектом в Chrome](https://habr.com/ru/news/834252/?utm_campaign=834252&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI не будет анонсировать свою следующую крупную передовую модель на DevDay 2024](https://habr.com/ru/news/834218/?utm_campaign=834218&utm_source=habrahabr&utm_medium=rss)
 - [До Пекина за 42 минуты? Подкаст о том, как всё устроено в трансграничном ЭДО](https://habr.com/ru/companies/aktiv-company/news/834170/?utm_campaign=834170&utm_source=habrahabr&utm_medium=rss)
 - [Intel расширила на 2 года гарантию на проблемные OEM-версии процессоров](https://habr.com/ru/news/834140/?utm_campaign=834140&utm_source=habrahabr&utm_medium=rss)
-- [Apple Intelligence отдаёт приоритет фишинговым письмам в приложении почты](https://habr.com/ru/news/834068/?utm_campaign=834068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
