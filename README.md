@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel расширила на 2 года гарантию на проблемные OEM-версии процессоров](https://habr.com/ru/news/834140/?utm_campaign=834140&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск подал в суд на OpenAI из-за AGI](https://habr.com/ru/companies/bothub/news/834096/?utm_campaign=834096&utm_source=habrahabr&utm_medium=rss)
 - [Apple Intelligence отдаёт приоритет фишинговым письмам в приложении почты](https://habr.com/ru/news/834068/?utm_campaign=834068&utm_source=habrahabr&utm_medium=rss)
 - [Приложение RevertSV позволяет преобразовать Windows 11 в Windows 10 «в один клик»](https://habr.com/ru/news/834058/?utm_campaign=834058&utm_source=habrahabr&utm_medium=rss)
 - [Google Cloud предложила выделенный кластер GPU Nvidia для стартапов Y Combinator](https://habr.com/ru/news/834048/?utm_campaign=834048&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» изменил условия пропуска трафика телефонной связи на местном уровне для других операторов связи](https://habr.com/ru/news/834046/?utm_campaign=834046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
