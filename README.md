@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В macOS Sequoia приложения для записи экрана и скриншотов каждую неделю должны будут получать разрешения от пользователя](https://habr.com/ru/news/834594/?utm_campaign=834594&utm_source=habrahabr&utm_medium=rss)
+- [Абонентам Теле2 стала доступна проверка на утечки от «Солар»](https://habr.com/ru/news/834584/?utm_campaign=834584&utm_source=habrahabr&utm_medium=rss)
 - [Sentry переходит на Post Open Source: что это значит для сообщества](https://habr.com/ru/companies/flant/news/834576/?utm_campaign=834576&utm_source=habrahabr&utm_medium=rss)
 - [Технологии в агрокомплексе: мастера, подмастерье и искусственный интеллект](https://habr.com/ru/companies/X5Tech/news/834574/?utm_campaign=834574&utm_source=habrahabr&utm_medium=rss)
 - [Роадмап и чейнджлог](https://habr.com/ru/companies/timeweb/news/834552/?utm_campaign=834552&utm_source=habrahabr&utm_medium=rss)
-- [Мобильные разработчики, общий сбор](https://habr.com/ru/companies/vk/news/834510/?utm_campaign=834510&utm_source=habrahabr&utm_medium=rss)
-- [Способы улучшить работу YouTube на Windows, macOS и ТВ, так и на смартфонах и роутерах](https://habr.com/ru/news/834490/?utm_campaign=834490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
