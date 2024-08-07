@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Власти обсуждают уголовную ответственность для сотрудников салонов связи за нарушение порядка при регистрации абонентов](https://habr.com/ru/news/834476/?utm_campaign=834476&utm_source=habrahabr&utm_medium=rss)
+- [В сети показали фото прототипа игровой приставки на базе «Эльбрус-2С3» под названием «Эльбрус 2C3 for gamers»](https://habr.com/ru/news/834470/?utm_campaign=834470&utm_source=habrahabr&utm_medium=rss)
 - [Многоликий ransom: кто стоит за атаками вымогателей Nokoyawa и INC Ransom](https://habr.com/ru/companies/f_a_c_c_t/news/834436/?utm_campaign=834436&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome позволит вам отправлять деньги на любимые сайты в рамках веб-монетизации](https://habr.com/ru/news/834426/?utm_campaign=834426&utm_source=habrahabr&utm_medium=rss)
 - [Хакер стёр данные с 13 тысяч ученических iPad и Chromebook после взлома партнёра Google](https://habr.com/ru/news/834390/?utm_campaign=834390&utm_source=habrahabr&utm_medium=rss)
-- [Google прекратила выпуск Chromecast](https://habr.com/ru/news/834380/?utm_campaign=834380&utm_source=habrahabr&utm_medium=rss)
-- [Прошел ежегодный Pentest award — лучших этичных хакеров России снова наградили премией и призами](https://habr.com/ru/news/834332/?utm_campaign=834332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
