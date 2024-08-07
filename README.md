@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонсирована игра российского художника и инди-разработчика «В час ночи по московскому времени»](https://habr.com/ru/news/834354/?utm_campaign=834354&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Delta Airlines отказалась от бесплатной помощи и проигнорировала электронное письмо от Сатьи Наделла](https://habr.com/ru/news/834324/?utm_campaign=834324&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 129.0](https://habr.com/ru/news/834316/?utm_campaign=834316&utm_source=habrahabr&utm_medium=rss)
 - [«Не галлюцинируй»: реддитор достал из macOS 15.1 Beta 1 системные промпты Apple Intelligence](https://habr.com/ru/news/834292/?utm_campaign=834292&utm_source=habrahabr&utm_medium=rss)
 - [Google приглашает принять участие в эксперименте со встроенным искусственным интеллектом в Chrome](https://habr.com/ru/news/834252/?utm_campaign=834252&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI не будет анонсировать свою следующую крупную передовую модель на DevDay 2024](https://habr.com/ru/news/834218/?utm_campaign=834218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
