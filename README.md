@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Многоликий ransom: кто стоит за атаками вымогателей Nokoyawa и INC Ransom](https://habr.com/ru/companies/f_a_c_c_t/news/834436/?utm_campaign=834436&utm_source=habrahabr&utm_medium=rss)
+- [Google Chrome позволит вам отправлять деньги на любимые сайты в рамках веб-монетизации](https://habr.com/ru/news/834426/?utm_campaign=834426&utm_source=habrahabr&utm_medium=rss)
 - [Хакер стёр данные с 13 тысяч ученических iPad и Chromebook после взлома партнёра Google](https://habr.com/ru/news/834390/?utm_campaign=834390&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратила выпуск Chromecast](https://habr.com/ru/news/834380/?utm_campaign=834380&utm_source=habrahabr&utm_medium=rss)
 - [Прошел ежегодный Pentest award — лучших этичных хакеров России снова наградили премией и призами](https://habr.com/ru/news/834332/?utm_campaign=834332&utm_source=habrahabr&utm_medium=rss)
-- [В Azure произошел третий за последний месяц глобальный сбой](https://habr.com/ru/companies/dcmiran/news/834378/?utm_campaign=834378&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI представили структурированные выводы в API](https://habr.com/ru/news/834368/?utm_campaign=834368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
