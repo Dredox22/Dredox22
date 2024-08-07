@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакер стёр данные с 13 тысяч ученических iPad и Chromebook после взлома партнёра Google](https://habr.com/ru/news/834390/?utm_campaign=834390&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратила выпуск Chromecast](https://habr.com/ru/news/834380/?utm_campaign=834380&utm_source=habrahabr&utm_medium=rss)
 - [Прошел ежегодный Pentest award — лучших этичных хакеров России снова наградили премией и призами](https://habr.com/ru/news/834332/?utm_campaign=834332&utm_source=habrahabr&utm_medium=rss)
 - [В Azure произошел третий за последний месяц глобальный сбой](https://habr.com/ru/companies/dcmiran/news/834378/?utm_campaign=834378&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI представили структурированные выводы в API](https://habr.com/ru/news/834368/?utm_campaign=834368&utm_source=habrahabr&utm_medium=rss)
-- [CrowdStrike: 99% ПК клиентов на Windows снова в работе после IT-сбоя, проблема была в лишнем 21 поле в файле обновления](https://habr.com/ru/news/834366/?utm_campaign=834366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
