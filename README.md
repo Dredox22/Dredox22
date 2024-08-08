@@ -68,8 +68,8 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: трафик Google на стыках с Piter-IX сократился с 1 августа в два раза и 8 августа — ещё вдвое, РКН уточняет где GGC](https://habr.com/ru/news/834882/?utm_campaign=834882&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст запустил игру в стиле Pong внутри прошивки мыши для отображения на экране ПК](https://habr.com/ru/news/834878/?utm_campaign=834878&utm_source=habrahabr&utm_medium=rss)
+- [Cайт для NestJS-Mod — https://nestjs-mod.com](https://habr.com/ru/news/834886/?utm_campaign=834886&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: трафик Google на стыках с Piter-IX сократился с 1 августа в два раза и 8 августа — ещё вдвое, РКН уточняет, где GGC](https://habr.com/ru/news/834882/?utm_campaign=834882&utm_source=habrahabr&utm_medium=rss)
 - [ГК Yadro объявила о расширении мощностей в Дубне за 10 млрд рублей](https://habr.com/ru/news/834866/?utm_campaign=834866&utm_source=habrahabr&utm_medium=rss)
 - [Визуальный программный редактор cables.gl стал доступен офлайн с открытым исходным кодом под лицензией MIT](https://habr.com/ru/news/834864/?utm_campaign=834864&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft инвестирует $25 млн в стартап с открытым исходным кодом Neon](https://habr.com/ru/news/834794/?utm_campaign=834794&utm_source=habrahabr&utm_medium=rss)
