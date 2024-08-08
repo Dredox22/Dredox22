@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз SeaORM 1.0 — открытой реляционной ORM-системы для помощи в создании веб-сервисов на Rust](https://habr.com/ru/news/834678/?utm_campaign=834678&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-специалисты предупредили, что «ускорители» YouTube являются скамом, зловредами или крадут личные данные пользователей](https://habr.com/ru/news/834662/?utm_campaign=834662&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку шрифтов Adobe Type 1 в Windows 11](https://habr.com/ru/news/834652/?utm_campaign=834652&utm_source=habrahabr&utm_medium=rss)
 - [Reddit протестирует функцию поиска с помощью ИИ](https://habr.com/ru/news/834648/?utm_campaign=834648&utm_source=habrahabr&utm_medium=rss)
 - [Релиз библиотеки для автоматизации управления браузером Puppeteer 23](https://habr.com/ru/news/834658/?utm_campaign=834658&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила приложение Sticky Notes для всех пользователей](https://habr.com/ru/news/834644/?utm_campaign=834644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
