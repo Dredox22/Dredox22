@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила приложение Sticky Notes для всех пользователей](https://habr.com/ru/news/834644/?utm_campaign=834644&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик убрал часть кода ZLUDA для запуска CUDA-приложений на GPU по требованию юристов AMD](https://habr.com/ru/news/834642/?utm_campaign=834642&utm_source=habrahabr&utm_medium=rss)
 - [В бета-версии Safari появилась функция удаления объектов на веб-страницах](https://habr.com/ru/news/834628/?utm_campaign=834628&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: у Google в РФ могут конфисковать российские сервера Google Global Cache в часть уплаты долга в 10 млрд рублей](https://habr.com/ru/news/834614/?utm_campaign=834614&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: у Google в РФ могут конфисковать российские сервера Google Global Cache в счёт уплаты долга в 10 млрд рублей](https://habr.com/ru/news/834614/?utm_campaign=834614&utm_source=habrahabr&utm_medium=rss)
 - [В macOS Sequoia приложения для записи экрана и скриншотов каждую неделю должны будут получать разрешения от пользователя](https://habr.com/ru/news/834594/?utm_campaign=834594&utm_source=habrahabr&utm_medium=rss)
-- [Абонентам Теле2 стала доступна проверка на утечки от «Солар»](https://habr.com/ru/news/834584/?utm_campaign=834584&utm_source=habrahabr&utm_medium=rss)
-- [Sentry переходит на Post Open Source: что это значит для сообщества](https://habr.com/ru/companies/flant/news/834576/?utm_campaign=834576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
