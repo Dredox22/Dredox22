@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИБ-специалисты предупредили, что «ускорители» YouTube являются скамом, зловредами или крадут личные данные пользователей](https://habr.com/ru/news/834662/?utm_campaign=834662&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку шрифтов Adobe Type 1 в Windows 11](https://habr.com/ru/news/834652/?utm_campaign=834652&utm_source=habrahabr&utm_medium=rss)
+- [Reddit протестирует функцию поиска с помощью ИИ](https://habr.com/ru/news/834648/?utm_campaign=834648&utm_source=habrahabr&utm_medium=rss)
+- [Релиз библиотеки для автоматизации управления браузером Puppeteer 23](https://habr.com/ru/news/834658/?utm_campaign=834658&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила приложение Sticky Notes для всех пользователей](https://habr.com/ru/news/834644/?utm_campaign=834644&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик убрал часть кода ZLUDA для запуска CUDA-приложений на GPU по требованию юристов AMD](https://habr.com/ru/news/834642/?utm_campaign=834642&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии Safari появилась функция удаления объектов на веб-страницах](https://habr.com/ru/news/834628/?utm_campaign=834628&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: у Google в РФ могут конфисковать российские сервера Google Global Cache в счёт уплаты долга в 10 млрд рублей](https://habr.com/ru/news/834614/?utm_campaign=834614&utm_source=habrahabr&utm_medium=rss)
-- [В macOS Sequoia приложения для записи экрана и скриншотов каждую неделю должны будут получать разрешения от пользователя](https://habr.com/ru/news/834594/?utm_campaign=834594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
