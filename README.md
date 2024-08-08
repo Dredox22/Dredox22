@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК Yadro объявила о расширении мощностей в Дубне за 10 млрд рублей](https://habr.com/ru/news/834866/?utm_campaign=834866&utm_source=habrahabr&utm_medium=rss)
+- [Визуальный программный редактор cables.gl стал доступен офлайн с открытым исходным кодом под лицензией MIT](https://habr.com/ru/news/834864/?utm_campaign=834864&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft инвестирует $25 млн в стартап с открытым исходным кодом Neon](https://habr.com/ru/news/834794/?utm_campaign=834794&utm_source=habrahabr&utm_medium=rss)
 - [Список блокируемых доменов YouTube у российских провайдеров](https://habr.com/ru/news/834792/?utm_campaign=834792&utm_source=habrahabr&utm_medium=rss)
 - [Meta* закрывает студию-разработчика игр Ready at Dawn спустя 21 год после её основания](https://habr.com/ru/news/834774/?utm_campaign=834774&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех: профилактика оборудования защищает бизнес-процессы](https://habr.com/ru/companies/k2tech/news/834742/?utm_campaign=834742&utm_source=habrahabr&utm_medium=rss)
-- [«МойОфис» объявил о выходе нового продукта — «МойОфис для дома»](https://habr.com/ru/news/834730/?utm_campaign=834730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
