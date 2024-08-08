@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МойОфис» объявил о выходе нового продукта — «МойОфис для дома»](https://habr.com/ru/news/834730/?utm_campaign=834730&utm_source=habrahabr&utm_medium=rss)
 - [Конструктор интернет-магазинов Ecwid перестанет работать в России с 9 сентября](https://habr.com/ru/news/834688/?utm_campaign=834688&utm_source=habrahabr&utm_medium=rss)
 - [Релиз SeaORM 1.0 — открытой реляционной ORM-системы для помощи в создании веб-сервисов на Rust](https://habr.com/ru/news/834678/?utm_campaign=834678&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-специалисты предупредили, что «ускорители» YouTube являются скамом, зловредами или крадут личные данные пользователей](https://habr.com/ru/news/834662/?utm_campaign=834662&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку шрифтов Adobe Type 1 в Windows 11](https://habr.com/ru/news/834652/?utm_campaign=834652&utm_source=habrahabr&utm_medium=rss)
-- [Reddit протестирует функцию поиска с помощью ИИ](https://habr.com/ru/news/834648/?utm_campaign=834648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
