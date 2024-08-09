@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекращает поддержку Windows 11 версий 21H2 и 22H2 через 60 дней](https://habr.com/ru/news/834974/?utm_campaign=834974&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: модель GPT-4o имеет «средний» риск в рамках оценки безопасности проекта](https://habr.com/ru/news/834958/?utm_campaign=834958&utm_source=habrahabr&utm_medium=rss)
 - [Samsung запустила программу bug bounty для мобильных устройств с выплатой до $1 млн](https://habr.com/ru/news/834950/?utm_campaign=834950&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал несколько законов, касающихся персональных данных](https://habr.com/ru/news/834944/?utm_campaign=834944&utm_source=habrahabr&utm_medium=rss)
 - [Релиз SuperSplat 1.0 — бесплатного инструмента с открытым исходным кодом для проверки и редактирования 3D Gaussian Splat](https://habr.com/ru/news/834938/?utm_campaign=834938&utm_source=habrahabr&utm_medium=rss)
-- [Атаки «на понижение версии» отменяют исправления обновлённых систем Windows 10 и 11](https://habr.com/ru/news/834936/?utm_campaign=834936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
