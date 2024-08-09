@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена плата Raspberry Pi Pico 2 за $5 на базе нового микроконтроллера RP2350](https://habr.com/ru/news/835088/?utm_campaign=835088&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект PhAI расшифровывает фазы рентгеновских лучей для предсказания структуры молекул](https://habr.com/ru/companies/bothub/news/835064/?utm_campaign=835064&utm_source=habrahabr&utm_medium=rss)
 - [Что нового в Dart 3.5](https://habr.com/ru/companies/friflex/news/835052/?utm_campaign=835052&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» планирует открыть ещё один офис в Петербурге](https://habr.com/ru/news/835028/?utm_campaign=835028&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ начал пилотирование технологии универсального платежного QR](https://habr.com/ru/companies/rshb/news/835006/?utm_campaign=835006&utm_source=habrahabr&utm_medium=rss)
-- [Китайская автошкола перешла на робомобили, чтобы те с помощью ИИ сами обучали будущих водителей](https://habr.com/ru/news/834994/?utm_campaign=834994&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст показал, как можно с помощью Edge, Bing и GitHub активировать Windows 10/11 за 55 секунд](https://habr.com/ru/news/835016/?utm_campaign=835016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
