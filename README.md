@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз SuperSplat 1.0 — бесплатного инструмента с открытым исходным кодом для проверки и редактирования 3D Gaussian Splat](https://habr.com/ru/news/834938/?utm_campaign=834938&utm_source=habrahabr&utm_medium=rss)
+- [Атаки «на понижение версии» отменяют исправления обновлённых систем Windows 10 и 11](https://habr.com/ru/news/834936/?utm_campaign=834936&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи бесплатной версии ChatGPT теперь смогут генерировать до двух изображений в день при помощи DALL-E 3](https://habr.com/ru/news/834920/?utm_campaign=834920&utm_source=habrahabr&utm_medium=rss)
 - [Bethesda выпустила переиздание Doom + Doom II c обновлениями и кроссплатформенным режимом Deathmatch](https://habr.com/ru/news/834904/?utm_campaign=834904&utm_source=habrahabr&utm_medium=rss)
-- [Cайт для NestJS-Mod — https://nestjs-mod.com](https://habr.com/ru/news/834886/?utm_campaign=834886&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: трафик Google на стыках с Piter-IX сократился с 1 августа в два раза и 8 августа — ещё вдвое, РКН уточняет, где GGC](https://habr.com/ru/news/834882/?utm_campaign=834882&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст запустил игру в стиле Pong внутри RP2040, подключённого к мыши, для отображения на экране ПК](https://habr.com/ru/news/834878/?utm_campaign=834878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
