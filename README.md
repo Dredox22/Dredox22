@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» планирует открыть ещё один офис в Петербурге](https://habr.com/ru/news/835028/?utm_campaign=835028&utm_source=habrahabr&utm_medium=rss)
 - [РСХБ начал пилотирование технологии универсального платежного QR](https://habr.com/ru/companies/rshb/news/835006/?utm_campaign=835006&utm_source=habrahabr&utm_medium=rss)
 - [Китайская автошкола перешла на робомобили, чтобы те с помощью ИИ сами обучали будущих водителей](https://habr.com/ru/news/834994/?utm_campaign=834994&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку Windows 11 версий 21H2 и 22H2 через 60 дней](https://habr.com/ru/news/834974/?utm_campaign=834974&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: модель GPT-4o имеет «средний» риск в рамках оценки безопасности проекта](https://habr.com/ru/news/834958/?utm_campaign=834958&utm_source=habrahabr&utm_medium=rss)
-- [Samsung запустила программу bug bounty для мобильных устройств с выплатой до $1 млн](https://habr.com/ru/news/834950/?utm_campaign=834950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
