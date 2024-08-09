@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI: модель GPT-4o имеет «средний» риск в рамках оценки безопасности проекта](https://habr.com/ru/news/834958/?utm_campaign=834958&utm_source=habrahabr&utm_medium=rss)
+- [Samsung запустила программу bug bounty для мобильных устройств с выплатой до $1 млн](https://habr.com/ru/news/834950/?utm_campaign=834950&utm_source=habrahabr&utm_medium=rss)
+- [Президент РФ подписал несколько законов, касающихся персональных данных](https://habr.com/ru/news/834944/?utm_campaign=834944&utm_source=habrahabr&utm_medium=rss)
 - [Релиз SuperSplat 1.0 — бесплатного инструмента с открытым исходным кодом для проверки и редактирования 3D Gaussian Splat](https://habr.com/ru/news/834938/?utm_campaign=834938&utm_source=habrahabr&utm_medium=rss)
 - [Атаки «на понижение версии» отменяют исправления обновлённых систем Windows 10 и 11](https://habr.com/ru/news/834936/?utm_campaign=834936&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи бесплатной версии ChatGPT теперь смогут генерировать до двух изображений в день при помощи DALL-E 3](https://habr.com/ru/news/834920/?utm_campaign=834920&utm_source=habrahabr&utm_medium=rss)
-- [Bethesda выпустила переиздание Doom + Doom II c обновлениями и кроссплатформенным режимом Deathmatch](https://habr.com/ru/news/834904/?utm_campaign=834904&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: трафик Google на стыках с Piter-IX сократился с 1 августа в два раза и 8 августа — ещё вдвое, РКН уточняет, где GGC](https://habr.com/ru/news/834882/?utm_campaign=834882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
