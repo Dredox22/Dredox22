@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Трафик YouTube в РФ начал перетекать из GGC &lpar;серверов Global Cache&rpar; в магистрали](https://habr.com/ru/news/835182/?utm_campaign=835182&utm_source=habrahabr&utm_medium=rss)
 - [Новые чернила для 3D-принтера позволяют создавать перерабатываемые электрические схемы без нагрева](https://habr.com/ru/news/835152/?utm_campaign=835152&utm_source=habrahabr&utm_medium=rss)
 - [Micron анонсировала твердотельный накопитель PCIe Gen 6 со скоростью 26 ГБ/с](https://habr.com/ru/news/835148/?utm_campaign=835148&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Rutube удалили из App Store в третий раз](https://habr.com/ru/news/835144/?utm_campaign=835144&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: 9 августа Роскомнадзор заблокировал мессенджер Signal в России](https://habr.com/ru/news/835102/?utm_campaign=835102&utm_source=habrahabr&utm_medium=rss)
-- [Представлена плата Raspberry Pi Pico 2 за $5 на базе нового микроконтроллера RP2350](https://habr.com/ru/news/835088/?utm_campaign=835088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
