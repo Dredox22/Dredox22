@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Micron анонсировала твердотельный накопитель PCIe Gen 6 со скоростью 26 Гбит/с](https://habr.com/ru/news/835148/?utm_campaign=835148&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Rutube удалили из App Store в третий раз](https://habr.com/ru/news/835144/?utm_campaign=835144&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: 9 августа Роскомнадзор заблокировал мессенджер Signal в России](https://habr.com/ru/news/835102/?utm_campaign=835102&utm_source=habrahabr&utm_medium=rss)
 - [Представлена плата Raspberry Pi Pico 2 за $5 на базе нового микроконтроллера RP2350](https://habr.com/ru/news/835088/?utm_campaign=835088&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект PhAI расшифровывает фазы рентгеновских лучей для предсказания структуры молекул](https://habr.com/ru/companies/bothub/news/835064/?utm_campaign=835064&utm_source=habrahabr&utm_medium=rss)
-- [Что нового в Dart 3.5](https://habr.com/ru/companies/friflex/news/835052/?utm_campaign=835052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
