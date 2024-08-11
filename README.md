@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nokia и Swisscom Broadcast запустили в Швейцарии сеть Drones-as-a-Service](https://habr.com/ru/news/835254/?utm_campaign=835254&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку проекта Paint 3D с 4 ноября](https://habr.com/ru/news/835248/?utm_campaign=835248&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст нашёл способ исправить зависшее ПО в умной колонке Apple HomePod &lpar;A1639&rpar;](https://habr.com/ru/news/835220/?utm_campaign=835220&utm_source=habrahabr&utm_medium=rss)
 - [Трафик YouTube в РФ начал перетекать из GGC &lpar;серверов Global Cache&rpar; в магистрали](https://habr.com/ru/news/835182/?utm_campaign=835182&utm_source=habrahabr&utm_medium=rss)
 - [Новые чернила для 3D-принтера позволяют создавать перерабатываемые электрические схемы без нагрева](https://habr.com/ru/news/835152/?utm_campaign=835152&utm_source=habrahabr&utm_medium=rss)
-- [Micron анонсировала твердотельный накопитель PCIe Gen 6 со скоростью 26 ГБ/с](https://habr.com/ru/news/835148/?utm_campaign=835148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
