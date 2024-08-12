@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Президент CrowdStrike лично принял награду за самый эпичный провал года на ИБ-конференции DEF CON 2024](https://habr.com/ru/news/835566/?utm_campaign=835566&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» научил «Поиск» и «Браузер» распознавать ролики с медленной загрузкой и предлагать их аналоги на других сайтах](https://habr.com/ru/news/835556/?utm_campaign=835556&utm_source=habrahabr&utm_medium=rss)
 - [Статистика VK: с сентября 2023 года приложение «VK Видео» установили 20 млн раз](https://habr.com/ru/news/835546/?utm_campaign=835546&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/835538/?utm_campaign=835538&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в работе почтового сервиса @mail.ru](https://habr.com/ru/news/835512/?utm_campaign=835512&utm_source=habrahabr&utm_medium=rss)
-- [Krafton выкупил разработчика Hi-Fi Rush у Microsoft](https://habr.com/ru/news/835462/?utm_campaign=835462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
