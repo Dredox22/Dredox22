@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google AdSense полностью уходит из РФ — аккаунты российских пользователей будут деактивированы](https://habr.com/ru/news/835392/?utm_campaign=835392&utm_source=habrahabr&utm_medium=rss)
 - [AMD не будет закрывать уязвимость Sinkclose в старых Ryzen и Threadripper 1-го и 2-го поколения](https://habr.com/ru/companies/dcmiran/news/835372/?utm_campaign=835372&utm_source=habrahabr&utm_medium=rss)
 - [Региональные операторы РФ обратились к Минцифры и РКН за помощью на фоне ухода абонентов из-за проблем с работой YouTube](https://habr.com/ru/news/835356/?utm_campaign=835356&utm_source=habrahabr&utm_medium=rss)
 - [В проект curl официально вошёл проект wcurl вдобавок к trurl](https://habr.com/ru/news/835312/?utm_campaign=835312&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор потребовал от Apple объяснить причину удаления Rutube из App Store и вернуть приложение обратно](https://habr.com/ru/news/835302/?utm_campaign=835302&utm_source=habrahabr&utm_medium=rss)
-- [Nokia и Swisscom Broadcast запустили в Швейцарии сеть Drones-as-a-Service](https://habr.com/ru/news/835254/?utm_campaign=835254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
