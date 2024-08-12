@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбой в работе почтового сервиса @mail.ru](https://habr.com/ru/news/835512/?utm_campaign=835512&utm_source=habrahabr&utm_medium=rss)
 - [Krafton выкупил разработчика Hi-Fi Rush у Microsoft](https://habr.com/ru/news/835462/?utm_campaign=835462&utm_source=habrahabr&utm_medium=rss)
 - [Как устроено объектное хранилище на базе SDS &lpar;Software-Defined Storage&rpar;: расскажем на вебинаре 22 августа](https://habr.com/ru/companies/cloud_ru/news/835416/?utm_campaign=835416&utm_source=habrahabr&utm_medium=rss)
 - [Qwen2-Math — Alibaba Cloud выпустила серию LLM для решения математических задач любой сложности](https://habr.com/ru/companies/bothub/news/835456/?utm_campaign=835456&utm_source=habrahabr&utm_medium=rss)
 - [Хакер создал лазер для удалённого считывания текста и звука на ноутбуке](https://habr.com/ru/news/835454/?utm_campaign=835454&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Box2D 3.0](https://habr.com/ru/news/835438/?utm_campaign=835438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
