@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» научил «Поиск» и «Браузер» распознавать ролики с медленной загрузкой и предлагать их аналоги на других сайтах](https://habr.com/ru/news/835556/?utm_campaign=835556&utm_source=habrahabr&utm_medium=rss)
+- [Статистика VK: с сентября 2023 года приложение «VK Видео» установили 20 млн раз](https://habr.com/ru/news/835546/?utm_campaign=835546&utm_source=habrahabr&utm_medium=rss)
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/835538/?utm_campaign=835538&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в работе почтового сервиса @mail.ru](https://habr.com/ru/news/835512/?utm_campaign=835512&utm_source=habrahabr&utm_medium=rss)
 - [Krafton выкупил разработчика Hi-Fi Rush у Microsoft](https://habr.com/ru/news/835462/?utm_campaign=835462&utm_source=habrahabr&utm_medium=rss)
-- [Как устроено объектное хранилище на базе SDS &lpar;Software-Defined Storage&rpar;: расскажем на вебинаре 22 августа](https://habr.com/ru/companies/cloud_ru/news/835416/?utm_campaign=835416&utm_source=habrahabr&utm_medium=rss)
-- [Qwen2-Math — Alibaba Cloud выпустила серию LLM для решения математических задач любой сложности](https://habr.com/ru/companies/bothub/news/835456/?utm_campaign=835456&utm_source=habrahabr&utm_medium=rss)
-- [Хакер создал лазер для удалённого считывания текста и звука на ноутбуке](https://habr.com/ru/news/835454/?utm_campaign=835454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
