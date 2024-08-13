@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Magit 4.0 — текстовый клиент для Git в Emacs](https://habr.com/ru/news/835616/?utm_campaign=835616&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление видеоредактора Microsoft Clipchamp Mobile на iOS](https://habr.com/ru/news/835608/?utm_campaign=835608&utm_source=habrahabr&utm_medium=rss)
+- [Найден способ обхода защиты LSASS в Windows](https://habr.com/ru/news/835606/?utm_campaign=835606&utm_source=habrahabr&utm_medium=rss)
 - [Президент CrowdStrike лично принял награду за самый эпичный провал года на ИБ-конференции DEF CON 2024](https://habr.com/ru/news/835566/?utm_campaign=835566&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» научил «Поиск» и «Браузер» распознавать ролики с медленной загрузкой и предлагать их аналоги на других сайтах](https://habr.com/ru/news/835556/?utm_campaign=835556&utm_source=habrahabr&utm_medium=rss)
-- [Статистика VK: с сентября 2023 года приложение «VK Видео» установили 20 млн раз](https://habr.com/ru/news/835546/?utm_campaign=835546&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/835538/?utm_campaign=835538&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе почтового сервиса @mail.ru](https://habr.com/ru/news/835512/?utm_campaign=835512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
