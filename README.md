@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Whoosh разработал технологию безопасного и комфортного маршрута для самокатов](https://habr.com/ru/news/835690/?utm_campaign=835690&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» начала разработку собственной ОС AltPhone для мобильных устройств](https://habr.com/ru/news/835674/?utm_campaign=835674&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Meta* выпустили VFusion3D — нейросеть для генерации 3D-моделей по фотографии](https://habr.com/ru/news/835672/?utm_campaign=835672&utm_source=habrahabr&utm_medium=rss)
-- [Telegram оштрафовали за неудаление запрещённой в РФ информации](https://habr.com/ru/news/835668/?utm_campaign=835668&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила технологию распознавания лиц Face Check для корпоративных клиентов](https://habr.com/ru/news/835646/?utm_campaign=835646&utm_source=habrahabr&utm_medium=rss)
+- [На платформе All Cups открылась регистрация на Всероссийскую физико-техническую контрольную «Выходи решать!»](https://habr.com/ru/news/835746/?utm_campaign=835746&utm_source=habrahabr&utm_medium=rss)
+- [Opera представила обновлённый браузер Opera One для iOS](https://habr.com/ru/news/835738/?utm_campaign=835738&utm_source=habrahabr&utm_medium=rss)
+- [WAFГУСТ — новый сезон кибербезопасности](https://habr.com/ru/companies/garda/news/835730/?utm_campaign=835730&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты УЦСБ — в рейтинге лучших этичных хакеров России](https://habr.com/ru/companies/ussc/news/835728/?utm_campaign=835728&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты электронной торговли обсудят кибербезопасность на митапе «Ecom и Вино» в Москве](https://habr.com/ru/companies/agima/news/835714/?utm_campaign=835714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
