@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram оштрафовали за неудаление запрещённой в РФ информации](https://habr.com/ru/news/835668/?utm_campaign=835668&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила технологию распознавания лиц Face Check для корпоративных клиентов](https://habr.com/ru/news/835646/?utm_campaign=835646&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Magit 4.0 — текстовый клиент для Git в Emacs](https://habr.com/ru/news/835616/?utm_campaign=835616&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление видеоредактора Microsoft Clipchamp Mobile на iOS](https://habr.com/ru/news/835608/?utm_campaign=835608&utm_source=habrahabr&utm_medium=rss)
 - [Найден способ обхода защиты LSASS в Windows](https://habr.com/ru/news/835606/?utm_campaign=835606&utm_source=habrahabr&utm_medium=rss)
-- [Президент CrowdStrike лично принял награду за самый эпичный провал года на ИБ-конференции DEF CON 2024](https://habr.com/ru/news/835566/?utm_campaign=835566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
