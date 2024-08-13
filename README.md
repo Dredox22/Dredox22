@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Whoosh разработал технологию безопасного и комфортного маршрута для самокатов](https://habr.com/ru/news/835690/?utm_campaign=835690&utm_source=habrahabr&utm_medium=rss)
+- [«Базальт СПО» начала разработку собственной ОС AltPhone для мобильных устройств](https://habr.com/ru/news/835674/?utm_campaign=835674&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Meta* выпустили VFusion3D — нейросеть для генерации 3D-моделей по фотографии](https://habr.com/ru/news/835672/?utm_campaign=835672&utm_source=habrahabr&utm_medium=rss)
 - [Telegram оштрафовали за неудаление запрещённой в РФ информации](https://habr.com/ru/news/835668/?utm_campaign=835668&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила технологию распознавания лиц Face Check для корпоративных клиентов](https://habr.com/ru/news/835646/?utm_campaign=835646&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Magit 4.0 — текстовый клиент для Git в Emacs](https://habr.com/ru/news/835616/?utm_campaign=835616&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление видеоредактора Microsoft Clipchamp Mobile на iOS](https://habr.com/ru/news/835608/?utm_campaign=835608&utm_source=habrahabr&utm_medium=rss)
-- [Найден способ обхода защиты LSASS в Windows](https://habr.com/ru/news/835606/?utm_campaign=835606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
