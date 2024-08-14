@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel продала более миллиона акций Arm Holdings](https://habr.com/ru/news/835986/?utm_campaign=835986&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Go 1.23](https://habr.com/ru/news/835982/?utm_campaign=835982&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила режим голосового чата для Gemini — Gemini Live, похожий на голосового ассистента от ChatGPT](https://habr.com/ru/news/835978/?utm_campaign=835978&utm_source=habrahabr&utm_medium=rss)
+- [«МегаФон» проанализировал данные о DDoS‑атаках на своих корпоративных клиентов](https://habr.com/ru/news/835976/?utm_campaign=835976&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор назвал критерии для возможных уполномоченных операторов персональных данных](https://habr.com/ru/news/835968/?utm_campaign=835968&utm_source=habrahabr&utm_medium=rss)
-- [Стартап xAI выпустил бета-версии ИИ-моделей Grok-2 и Grok-2 mini](https://habr.com/ru/news/835966/?utm_campaign=835966&utm_source=habrahabr&utm_medium=rss)
-- [«Группа Астра» ответила на угрозы экспертов CFR задействовать спецслужбы и специалистов Open Source против Astra Linux](https://habr.com/ru/news/835956/?utm_campaign=835956&utm_source=habrahabr&utm_medium=rss)
-- [CocoaPods переходит в режим поддержки проекта](https://habr.com/ru/news/835954/?utm_campaign=835954&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость в Microsoft Azure Health Bot Service сделала доступными кросс-тенантные ресурсы](https://habr.com/ru/news/835868/?utm_campaign=835868&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
