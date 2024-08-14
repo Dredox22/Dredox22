@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Итоги DevOps-челленджа: 15 победителей и разбор задачи по диагностике сломанного приложения](https://habr.com/ru/companies/kts/news/836002/?utm_campaign=836002&utm_source=habrahabr&utm_medium=rss)
 - [Intel продала более миллиона акций Arm Holdings](https://habr.com/ru/news/835986/?utm_campaign=835986&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Go 1.23](https://habr.com/ru/news/835982/?utm_campaign=835982&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила режим голосового чата для Gemini — Gemini Live, похожий на голосового ассистента от ChatGPT](https://habr.com/ru/news/835978/?utm_campaign=835978&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» проанализировал данные о DDoS‑атаках на своих корпоративных клиентов](https://habr.com/ru/news/835976/?utm_campaign=835976&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор назвал критерии для возможных уполномоченных операторов персональных данных](https://habr.com/ru/news/835968/?utm_campaign=835968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
