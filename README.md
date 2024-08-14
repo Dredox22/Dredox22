@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор назвал критерии для возможных уполномоченных операторов персональных данных](https://habr.com/ru/news/835968/?utm_campaign=835968&utm_source=habrahabr&utm_medium=rss)
+- [Стартап xAI выпустил бета-версии ИИ-моделей Grok-2 и Grok-2 mini](https://habr.com/ru/news/835966/?utm_campaign=835966&utm_source=habrahabr&utm_medium=rss)
+- [«Группа Астра» ответила на угрозы экспертов CFR задействовать спецслужбы и специалистов Open Source против Astra Linux](https://habr.com/ru/news/835956/?utm_campaign=835956&utm_source=habrahabr&utm_medium=rss)
+- [CocoaPods переходит в режим поддержки проекта](https://habr.com/ru/news/835954/?utm_campaign=835954&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость в Microsoft Azure Health Bot Service сделала доступными кросс-тенантные ресурсы](https://habr.com/ru/news/835868/?utm_campaign=835868&utm_source=habrahabr&utm_medium=rss)
-- [Proton запустила план Proton Duo для доступа к электронной почте и сервисам](https://habr.com/ru/news/835862/?utm_campaign=835862&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз v0.11 Open Source-платформы Cozystack: S3, улучшенная изоляция тенантов, UI и другие фичи](https://habr.com/ru/companies/aenix/news/835732/?utm_campaign=835732&utm_source=habrahabr&utm_medium=rss)
-- [После жалоб жителей Waymo оперативно выпустила обновление для своих роботакси, чтобы машины ночью не гудели на парковках](https://habr.com/ru/news/835864/?utm_campaign=835864&utm_source=habrahabr&utm_medium=rss)
-- [Обзор продуктовых релизов Arenadata за май — июль](https://habr.com/ru/companies/arenadata/news/835860/?utm_campaign=835860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
