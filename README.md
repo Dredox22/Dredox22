@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РФ запущен сервис «Национальный мультисканер» для проверки файлов на вредоносное ПО — аналог VirusTotal](https://habr.com/ru/news/835854/?utm_campaign=835854&utm_source=habrahabr&utm_medium=rss)
 - [Аналитический центр США призвал задействовать спецслужбы и сообщество Open Source для оценки уровня защиты Astra Linux](https://habr.com/ru/news/835852/?utm_campaign=835852&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: уязвимости в умных колонках Sonos позволяли хакерам подслушивать пользователей](https://habr.com/ru/news/835828/?utm_campaign=835828&utm_source=habrahabr&utm_medium=rss)
 - [Банк России аннулировал лицензию «дочки» American Express](https://habr.com/ru/news/835826/?utm_campaign=835826&utm_source=habrahabr&utm_medium=rss)
 - [На платформе All Cups открылась регистрация на Всероссийскую физико-техническую контрольную «Выходи решать!»](https://habr.com/ru/news/835746/?utm_campaign=835746&utm_source=habrahabr&utm_medium=rss)
-- [Opera представила обновлённый браузер Opera One для iOS](https://habr.com/ru/news/835738/?utm_campaign=835738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
