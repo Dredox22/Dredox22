@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Национальный институт стандартов и технологий США &lpar;NIST&rpar; стандартизировал три алгоритма постквантового шифрования](https://habr.com/ru/news/836094/?utm_campaign=836094&utm_source=habrahabr&utm_medium=rss)
+- [Apple потребовала у Patreon проводить платежи через внутреннюю систему App Store под угрозой удаления приложения](https://habr.com/ru/news/836086/?utm_campaign=836086&utm_source=habrahabr&utm_medium=rss)
 - [Команда старшеклассников из РФ завоевала золотые медали на первой Международной олимпиаде по ИИ](https://habr.com/ru/news/836076/?utm_campaign=836076&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия Hydrogen &lpar;v2024.7.3&rpar;](https://habr.com/ru/news/836050/?utm_campaign=836050&utm_source=habrahabr&utm_medium=rss)
 - [Праздничное обновление Telegram: платные реакции, платные каналы и ридер документов для iOS](https://habr.com/ru/news/836022/?utm_campaign=836022&utm_source=habrahabr&utm_medium=rss)
-- [Итоги DevOps-челленджа: 15 победителей и разбор задачи по диагностике сломанного приложения](https://habr.com/ru/companies/kts/news/836002/?utm_campaign=836002&utm_source=habrahabr&utm_medium=rss)
-- [Intel продала более миллиона акций Arm Holdings](https://habr.com/ru/news/835986/?utm_campaign=835986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
