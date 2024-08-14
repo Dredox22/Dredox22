@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В РФ запущен сервис «Национальный мультисканер» для проверки файлов на вредоносное ПО — аналог VirusTotal](https://habr.com/ru/news/835854/?utm_campaign=835854&utm_source=habrahabr&utm_medium=rss)
-- [Аналитический центр США призвал задействовать спецслужбы и сообщество Open Source для оценки уровня защиты Astra Linux](https://habr.com/ru/news/835852/?utm_campaign=835852&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи: уязвимости в умных колонках Sonos позволяли хакерам подслушивать пользователей](https://habr.com/ru/news/835828/?utm_campaign=835828&utm_source=habrahabr&utm_medium=rss)
-- [Банк России аннулировал лицензию «дочки» American Express](https://habr.com/ru/news/835826/?utm_campaign=835826&utm_source=habrahabr&utm_medium=rss)
-- [На платформе All Cups открылась регистрация на Всероссийскую физико-техническую контрольную «Выходи решать!»](https://habr.com/ru/news/835746/?utm_campaign=835746&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость в Microsoft Azure Health Bot Service сделала доступными кросс-тенантные ресурсы](https://habr.com/ru/news/835868/?utm_campaign=835868&utm_source=habrahabr&utm_medium=rss)
+- [Proton запустила план Proton Duo для доступа к электронной почте и сервисам](https://habr.com/ru/news/835862/?utm_campaign=835862&utm_source=habrahabr&utm_medium=rss)
+- [Вышел релиз v0.11 Open Source-платформы Cozystack: S3, улучшенная изоляция тенантов, UI и другие фичи](https://habr.com/ru/companies/aenix/news/835732/?utm_campaign=835732&utm_source=habrahabr&utm_medium=rss)
+- [После жалоб жителей Waymo оперативно выпустила обновление для своих роботакси, чтобы машины ночью не гудели на парковках](https://habr.com/ru/news/835864/?utm_campaign=835864&utm_source=habrahabr&utm_medium=rss)
+- [Обзор продуктовых релизов Arenadata за май — июль](https://habr.com/ru/companies/arenadata/news/835860/?utm_campaign=835860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
