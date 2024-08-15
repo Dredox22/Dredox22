@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Конференция Guardant Day. Новый взгляд на монетизацию и защиту софта](https://habr.com/ru/companies/aktiv-company/news/834554/?utm_campaign=834554&utm_source=habrahabr&utm_medium=rss)
 - [Система для судей на базе десятков iPhone поможет определять офсайды в английской Премьер-лиге](https://habr.com/ru/news/836244/?utm_campaign=836244&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» представит собственного антропоморфного робота в 2025 году](https://habr.com/ru/news/836236/?utm_campaign=836236&utm_source=habrahabr&utm_medium=rss)
 - [Как сократить расходы на инференс LLM? Разберемся на вебинаре](https://habr.com/ru/companies/selectel/news/836224/?utm_campaign=836224&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» купил дата-центр «Медведково» на 4800 стойко-мест](https://habr.com/ru/news/836212/?utm_campaign=836212&utm_source=habrahabr&utm_medium=rss)
-- [Apple откроет доступ к чипу NFC для всех разработчиков с выпуском iOS 18.1](https://habr.com/ru/news/836162/?utm_campaign=836162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
