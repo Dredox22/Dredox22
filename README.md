@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» купил дата-центр «Медведково» на 4800 стойко-мест](https://habr.com/ru/news/836212/?utm_campaign=836212&utm_source=habrahabr&utm_medium=rss)
 - [Apple откроет доступ к чипу NFC для всех разработчиков с выпуском iOS 18.1](https://habr.com/ru/news/836162/?utm_campaign=836162&utm_source=habrahabr&utm_medium=rss)
 - [AltStore PAL откажется от ежегодной подписки благодаря гранту от Epic](https://habr.com/ru/news/836154/?utm_campaign=836154&utm_source=habrahabr&utm_medium=rss)
 - [Представлены цели развития проекта Rust в 2024 году](https://habr.com/ru/news/836148/?utm_campaign=836148&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект avante.nvim — плагин для Neovim, разработанный для эмуляции поведения Cursor AI IDE](https://habr.com/ru/news/836150/?utm_campaign=836150&utm_source=habrahabr&utm_medium=rss)
-- [В Steam появилась отдельная вкладка для популярных бесплатных игр](https://habr.com/ru/news/836120/?utm_campaign=836120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
