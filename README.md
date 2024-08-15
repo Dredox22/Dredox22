@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AltStore PAL откажется от ежегодной подписки благодаря гранту от Epic](https://habr.com/ru/news/836154/?utm_campaign=836154&utm_source=habrahabr&utm_medium=rss)
+- [Представлены цели развития проекта Rust в 2024 году](https://habr.com/ru/news/836148/?utm_campaign=836148&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект avante.nvim — плагин для Neovim, разработанный для эмуляции поведения Cursor AI IDE](https://habr.com/ru/news/836150/?utm_campaign=836150&utm_source=habrahabr&utm_medium=rss)
 - [В Steam появилась отдельная вкладка для популярных бесплатных игр](https://habr.com/ru/news/836120/?utm_campaign=836120&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» запустила тренинг по цифровой криминалистике в Windows](https://habr.com/ru/news/836108/?utm_campaign=836108&utm_source=habrahabr&utm_medium=rss)
-- [Приложение «VK Видео» совместимо с ОС «РОСА Мобайл» и работает на смартфоне «Р-ФОН»](https://habr.com/ru/news/836102/?utm_campaign=836102&utm_source=habrahabr&utm_medium=rss)
-- [Национальный институт стандартов и технологий США &lpar;NIST&rpar; стандартизировал три алгоритма постквантового шифрования](https://habr.com/ru/news/836094/?utm_campaign=836094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
