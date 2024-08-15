@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инструментария Netplan 1.1](https://habr.com/ru/news/836330/?utm_campaign=836330&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появились персональные рекомендации мест для прогулок и развлечений](https://habr.com/ru/news/836326/?utm_campaign=836326&utm_source=habrahabr&utm_medium=rss)
+- [НАСА выпустило релиз открытого инструментария OpenMCT 4.0 &lpar;Open Mission Control Technologies&rpar;](https://habr.com/ru/news/836324/?utm_campaign=836324&utm_source=habrahabr&utm_medium=rss)
+- [SoftBank отказался от совместного с Intel плана по выпуску ИИ-чипов](https://habr.com/ru/news/836322/?utm_campaign=836322&utm_source=habrahabr&utm_medium=rss)
 - [Конференция Guardant Day. Новый взгляд на монетизацию и защиту софта](https://habr.com/ru/companies/aktiv-company/news/834554/?utm_campaign=834554&utm_source=habrahabr&utm_medium=rss)
-- [Система для судей на базе десятков iPhone поможет определять офсайды в английской Премьер-лиге](https://habr.com/ru/news/836244/?utm_campaign=836244&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» представит собственного антропоморфного робота в 2025 году](https://habr.com/ru/news/836236/?utm_campaign=836236&utm_source=habrahabr&utm_medium=rss)
-- [Как сократить расходы на инференс LLM? Разберемся на вебинаре](https://habr.com/ru/companies/selectel/news/836224/?utm_campaign=836224&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» купил дата-центр «Медведково» на 4800 стойко-мест](https://habr.com/ru/news/836212/?utm_campaign=836212&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
