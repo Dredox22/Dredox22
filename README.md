@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В фотоприложении Halide для iOS появился режим фотографии без штатной постобработки](https://habr.com/ru/news/836416/?utm_campaign=836416&utm_source=habrahabr&utm_medium=rss)
 - [На Product Hunt появился сайт, который подскажет, какие продукты не стоит давать кошкам](https://habr.com/ru/news/836414/?utm_campaign=836414&utm_source=habrahabr&utm_medium=rss)
 - [API для Apps](https://habr.com/ru/companies/timeweb/news/836410/?utm_campaign=836410&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заморозит нелицензированные учетные записи OneDrive Business и будет взимать плату за их восстановление](https://habr.com/ru/news/836394/?utm_campaign=836394&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструментария Netplan 1.1](https://habr.com/ru/news/836330/?utm_campaign=836330&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появились персональные рекомендации мест для прогулок и развлечений](https://habr.com/ru/news/836326/?utm_campaign=836326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
