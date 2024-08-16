@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В реализации IPv6 в Windows обнаружили уязвимость для удалённого заражения ПК](https://habr.com/ru/news/836448/?utm_campaign=836448&utm_source=habrahabr&utm_medium=rss)
+- [Сервис Apple Search Ads больше недоступен для аккаунтов из РФ и Беларуси, активные аккаунты уже остановили](https://habr.com/ru/news/836442/?utm_campaign=836442&utm_source=habrahabr&utm_medium=rss)
 - [В Geekbench появился тест производительности ИИ-систем на ПК](https://habr.com/ru/news/836434/?utm_campaign=836434&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: банки США начали блокировать счета россиянам при использовании их карт в России, вычисляя вход в приложение по IP](https://habr.com/ru/news/836436/?utm_campaign=836436&utm_source=habrahabr&utm_medium=rss)
 - [В PowerToys можно будет создавать рабочие пространства приложений по клику](https://habr.com/ru/news/836428/?utm_campaign=836428&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сняла ограничение на размер раздела FAT32 в Windows 11](https://habr.com/ru/news/836424/?utm_campaign=836424&utm_source=habrahabr&utm_medium=rss)
-- [В фотоприложении Halide для iOS появился режим фотографии без штатной постобработки](https://habr.com/ru/news/836416/?utm_campaign=836416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
