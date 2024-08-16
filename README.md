@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение «VK Видео» стало доступно на iPad](https://habr.com/ru/news/836470/?utm_campaign=836470&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.32: оптимизация анализа, новые плагины и многое другое](https://habr.com/ru/companies/pvs-studio/news/836462/?utm_campaign=836462&utm_source=habrahabr&utm_medium=rss)
+- [Cisco представила выпуск свободного антивирусного инструментария ClamAV 1.4.0](https://habr.com/ru/news/836454/?utm_campaign=836454&utm_source=habrahabr&utm_medium=rss)
 - [В реализации IPv6 в Windows обнаружили уязвимость для удалённого заражения ПК](https://habr.com/ru/news/836448/?utm_campaign=836448&utm_source=habrahabr&utm_medium=rss)
 - [Сервис Apple Search Ads больше недоступен для аккаунтов из РФ и Беларуси, активные аккаунты уже остановили](https://habr.com/ru/news/836442/?utm_campaign=836442&utm_source=habrahabr&utm_medium=rss)
-- [В Geekbench появился тест производительности ИИ-систем на ПК](https://habr.com/ru/news/836434/?utm_campaign=836434&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: банки США начали блокировать счета россиянам при использовании их карт в России, вычисляя вход в приложение по IP](https://habr.com/ru/news/836436/?utm_campaign=836436&utm_source=habrahabr&utm_medium=rss)
-- [В PowerToys можно будет создавать рабочие пространства приложений по клику](https://habr.com/ru/news/836428/?utm_campaign=836428&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
