@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Geekbench появился тест производительности ИИ-систем на ПК](https://habr.com/ru/news/836434/?utm_campaign=836434&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: банки США начали блокировать счета россиянам при использовании их карт в России, вычисляя вход в приложение по IP](https://habr.com/ru/news/836436/?utm_campaign=836436&utm_source=habrahabr&utm_medium=rss)
+- [В PowerToys можно будет создавать рабочие пространства приложений по клику](https://habr.com/ru/news/836428/?utm_campaign=836428&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сняла ограничение на размер раздела FAT32 в Windows 11](https://habr.com/ru/news/836424/?utm_campaign=836424&utm_source=habrahabr&utm_medium=rss)
 - [В фотоприложении Halide для iOS появился режим фотографии без штатной постобработки](https://habr.com/ru/news/836416/?utm_campaign=836416&utm_source=habrahabr&utm_medium=rss)
-- [На Product Hunt появился сайт, который подскажет, какие продукты не стоит давать кошкам](https://habr.com/ru/news/836414/?utm_campaign=836414&utm_source=habrahabr&utm_medium=rss)
-- [API для Apps](https://habr.com/ru/companies/timeweb/news/836410/?utm_campaign=836410&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заморозит нелицензированные учетные записи OneDrive Business и будет взимать плату за их восстановление](https://habr.com/ru/news/836394/?utm_campaign=836394&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструментария Netplan 1.1](https://habr.com/ru/news/836330/?utm_campaign=836330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
