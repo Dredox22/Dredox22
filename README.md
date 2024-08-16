@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Модуль для работы с самозанятыми от R-Style Softlab зарегистрирован в реестре российского ПО](https://habr.com/ru/companies/rshb/news/836592/?utm_campaign=836592&utm_source=habrahabr&utm_medium=rss)
 - [Самое актуальное из мира ИБ на одной странице: знакомство с Security Center](https://habr.com/ru/companies/selectel/news/836558/?utm_campaign=836558&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты из T-Bank AI Research создали новую архитектуру быстрых языковых моделей](https://habr.com/ru/news/836528/?utm_campaign=836528&utm_source=habrahabr&utm_medium=rss)
 - [iVerify: Google Pixel продаются с заводским ПО, которое может использоваться для слежки или удалённого управления](https://habr.com/ru/news/836520/?utm_campaign=836520&utm_source=habrahabr&utm_medium=rss)
 - [Activision сокращает размеры загружаемых файлов для игр Call of Duty](https://habr.com/ru/news/836490/?utm_campaign=836490&utm_source=habrahabr&utm_medium=rss)
-- [Приложение «VK Видео» стало доступно на iPad](https://habr.com/ru/news/836470/?utm_campaign=836470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
