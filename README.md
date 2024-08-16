@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Activision сокращает размеры загружаемых файлов для игр Call of Duty](https://habr.com/ru/news/836490/?utm_campaign=836490&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «VK Видео» стало доступно на iPad](https://habr.com/ru/news/836470/?utm_campaign=836470&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.32: оптимизация анализа, новые плагины и многое другое](https://habr.com/ru/companies/pvs-studio/news/836462/?utm_campaign=836462&utm_source=habrahabr&utm_medium=rss)
 - [Cisco представила выпуск свободного антивирусного инструментария ClamAV 1.4.0](https://habr.com/ru/news/836454/?utm_campaign=836454&utm_source=habrahabr&utm_medium=rss)
 - [В реализации IPv6 в Windows обнаружили уязвимость для удалённого заражения ПК](https://habr.com/ru/news/836448/?utm_campaign=836448&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Apple Search Ads больше недоступен для аккаунтов из РФ и Беларуси, активные аккаунты уже остановили](https://habr.com/ru/news/836442/?utm_campaign=836442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
