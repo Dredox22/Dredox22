@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Водительские права и удостоверения личности штата в Apple Wallet скоро появятся в Калифорнии](https://habr.com/ru/news/836692/?utm_campaign=836692&utm_source=habrahabr&utm_medium=rss)
 - [Steam начинает взимать 30% налог с российских разработчиков](https://habr.com/ru/news/836676/?utm_campaign=836676&utm_source=habrahabr&utm_medium=rss)
 - [Приложения Office начали выдавать сбой при проверке орфографии](https://habr.com/ru/news/836660/?utm_campaign=836660&utm_source=habrahabr&utm_medium=rss)
 - [Вход в веб-версию приложения «СберБанк Онлайн» стал доступен с помощью пятизначного цифрового кода](https://habr.com/ru/news/836652/?utm_campaign=836652&utm_source=habrahabr&utm_medium=rss)
 - [Модуль для работы с самозанятыми от R-Style Softlab зарегистрирован в реестре российского ПО](https://habr.com/ru/companies/rshb/news/836592/?utm_campaign=836592&utm_source=habrahabr&utm_medium=rss)
-- [Самое актуальное из мира ИБ на одной странице: знакомство с Security Center](https://habr.com/ru/companies/selectel/news/836558/?utm_campaign=836558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
