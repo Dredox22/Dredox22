@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложения Office начали выдавать сбой при проверке орфографии](https://habr.com/ru/news/836660/?utm_campaign=836660&utm_source=habrahabr&utm_medium=rss)
 - [Вход в веб-версию приложения «СберБанк Онлайн» стал доступен с помощью пятизначного цифрового кода](https://habr.com/ru/news/836652/?utm_campaign=836652&utm_source=habrahabr&utm_medium=rss)
 - [Модуль для работы с самозанятыми от R-Style Softlab зарегистрирован в реестре российского ПО](https://habr.com/ru/companies/rshb/news/836592/?utm_campaign=836592&utm_source=habrahabr&utm_medium=rss)
 - [Самое актуальное из мира ИБ на одной странице: знакомство с Security Center](https://habr.com/ru/companies/selectel/news/836558/?utm_campaign=836558&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты из T-Bank AI Research создали новую архитектуру быстрых языковых моделей](https://habr.com/ru/news/836528/?utm_campaign=836528&utm_source=habrahabr&utm_medium=rss)
-- [iVerify: Google Pixel продаются с заводским ПО, которое может использоваться для слежки или удалённого управления](https://habr.com/ru/news/836520/?utm_campaign=836520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
