@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открылась регистрация на конкурс по открытому системному ПО Open OS Challenge 2024 с призовым фондом в 1 млн рублей](https://habr.com/ru/news/836744/?utm_campaign=836744&utm_source=habrahabr&utm_medium=rss)
 - [Всё, что вы хотели знать про Apple Vision Pro, очередной спор про права на данные для ИИ: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/836694/?utm_campaign=836694&utm_source=habrahabr&utm_medium=rss)
 - [Водительские права и удостоверения личности штата в Apple Wallet скоро появятся в Калифорнии](https://habr.com/ru/news/836692/?utm_campaign=836692&utm_source=habrahabr&utm_medium=rss)
 - [Steam начинает взимать 30% налог с российских разработчиков](https://habr.com/ru/news/836676/?utm_campaign=836676&utm_source=habrahabr&utm_medium=rss)
 - [Приложения Office начали выдавать сбой при проверке орфографии](https://habr.com/ru/news/836660/?utm_campaign=836660&utm_source=habrahabr&utm_medium=rss)
-- [Вход в веб-версию приложения «СберБанк Онлайн» стал доступен с помощью пятизначного цифрового кода](https://habr.com/ru/news/836652/?utm_campaign=836652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
