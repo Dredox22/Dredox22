@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик трилогии Grand Theft Auto объяснил, почему из San Andreas исчёз мусор](https://habr.com/ru/news/836798/?utm_campaign=836798&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик трилогии Grand Theft Auto объяснил, почему из San Andreas исчез мусор](https://habr.com/ru/news/836798/?utm_campaign=836798&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в Windows 11 новые настройки режима электропитания](https://habr.com/ru/news/836768/?utm_campaign=836768&utm_source=habrahabr&utm_medium=rss)
 - [В МТИ представили батареи меньше песчинки для питания микророботов](https://habr.com/ru/news/836764/?utm_campaign=836764&utm_source=habrahabr&utm_medium=rss)
 - [Семья из Британии отравилась грибами, купив пособие для начинающих грибников, не зная, что книгу написала нейросеть](https://habr.com/ru/news/836758/?utm_campaign=836758&utm_source=habrahabr&utm_medium=rss)
