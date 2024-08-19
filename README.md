@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Муниципалитет Амстердама запретил госслужащим использовать Telegram на рабочих телефонах «из–за риска шпионажа»](https://habr.com/ru/news/837138/?utm_campaign=837138&utm_source=habrahabr&utm_medium=rss)
 - [Tesla ищет людей от 155 до 180 см для обучения робота Optimus](https://habr.com/ru/news/837122/?utm_campaign=837122&utm_source=habrahabr&utm_medium=rss)
 - [Aider: большие языковые модели хуже пишут код, если просить возвращать JSON](https://habr.com/ru/news/837120/?utm_campaign=837120&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз игрового движка Godot 4.3](https://habr.com/ru/news/837116/?utm_campaign=837116&utm_source=habrahabr&utm_medium=rss)
 - [НКО призвали FCC приостановить запуски мегасозвездий спутников до оценки их воздействия на окружающую среду](https://habr.com/ru/news/837106/?utm_campaign=837106&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/837082/?utm_campaign=837082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
