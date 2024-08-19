@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI даст доступ к SearchGPT только 10 тысячам исследователей](https://habr.com/ru/news/836862/?utm_campaign=836862&utm_source=habrahabr&utm_medium=rss)
+- [Все для клиента: AMD и Supermicro готовы поставлять кастомные серверы без предустановленного CPU](https://habr.com/ru/companies/dcmiran/news/836858/?utm_campaign=836858&utm_source=habrahabr&utm_medium=rss)
+- [Роботакси Waymo продолжают гудеть на парковках и поблизости, хотя разработчики выпустили против этого бага уже два фикса](https://habr.com/ru/news/836854/?utm_campaign=836854&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик реализовал файловую систему, которая хранит данные в событиях Google Calendar](https://habr.com/ru/news/836852/?utm_campaign=836852&utm_source=habrahabr&utm_medium=rss)
 - [FatIce Games готовит релиз стратегии «Боевой приказ: Денис Давыдов» с реконструкциями сражений эпохи наполеоновских войн](https://habr.com/ru/news/836848/?utm_campaign=836848&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик трилогии Grand Theft Auto объяснил, почему из San Andreas исчез мусор](https://habr.com/ru/news/836798/?utm_campaign=836798&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила в Windows 11 новые настройки режима электропитания](https://habr.com/ru/news/836768/?utm_campaign=836768&utm_source=habrahabr&utm_medium=rss)
-- [В МТИ представили батареи меньше песчинки для питания микророботов](https://habr.com/ru/news/836764/?utm_campaign=836764&utm_source=habrahabr&utm_medium=rss)
-- [Семья из Британии отравилась грибами, купив пособие для начинающих грибников, не зная, что книгу написала нейросеть](https://habr.com/ru/news/836758/?utm_campaign=836758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
