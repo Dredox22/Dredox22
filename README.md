@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/837082/?utm_campaign=837082&utm_source=habrahabr&utm_medium=rss)
+- [Новая, более производительная версия PostgreSQL теперь доступна VK Cloud](https://habr.com/ru/companies/vk/news/837064/?utm_campaign=837064&utm_source=habrahabr&utm_medium=rss)
 - [Google play прекращает принимать отчёты об ошибках 31 августа](https://habr.com/ru/news/837040/?utm_campaign=837040&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic представила функцию кэширования запросов Claude для API](https://habr.com/ru/news/836996/?utm_campaign=836996&utm_source=habrahabr&utm_medium=rss)
 - [YandexGPT научат переводить текст с изображений, аудио- и видеофайлов](https://habr.com/ru/news/836988/?utm_campaign=836988&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Погода» рассказала, какой будет осень 2024 года в России](https://habr.com/ru/news/836966/?utm_campaign=836966&utm_source=habrahabr&utm_medium=rss)
-- [Как упростить работу с большими данными — поделимся опытом на вебинаре 27 августа](https://habr.com/ru/companies/cloud_ru/news/836912/?utm_campaign=836912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
