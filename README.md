@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft сократила ещё 45 сотрудников офисов в Калифорнии и Северной Каролине](https://habr.com/ru/news/836872/?utm_campaign=836872&utm_source=habrahabr&utm_medium=rss)
+- [Со сборками Windows 11 Canary возникла путаница](https://habr.com/ru/news/836868/?utm_campaign=836868&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI даст доступ к SearchGPT только 10 тысячам исследователей](https://habr.com/ru/news/836862/?utm_campaign=836862&utm_source=habrahabr&utm_medium=rss)
 - [Все для клиента: AMD и Supermicro готовы поставлять кастомные серверы без предустановленного CPU](https://habr.com/ru/companies/dcmiran/news/836858/?utm_campaign=836858&utm_source=habrahabr&utm_medium=rss)
 - [Роботакси Waymo продолжают гудеть на парковках и поблизости, хотя разработчики выпустили против этого бага уже два фикса](https://habr.com/ru/news/836854/?utm_campaign=836854&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик реализовал файловую систему, которая хранит данные в событиях Google Calendar](https://habr.com/ru/news/836852/?utm_campaign=836852&utm_source=habrahabr&utm_medium=rss)
-- [FatIce Games готовит релиз стратегии «Боевой приказ: Денис Давыдов» с реконструкциями сражений эпохи наполеоновских войн](https://habr.com/ru/news/836848/?utm_campaign=836848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
