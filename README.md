@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Секретные ловушки от спецслужб. Ханипоты](https://habr.com/ru/news/836906/?utm_campaign=836906&utm_source=habrahabr&utm_medium=rss)
+- [National Public Data признала утечку номеров социального страхования](https://habr.com/ru/news/836892/?utm_campaign=836892&utm_source=habrahabr&utm_medium=rss)
+- [Лента MSN в Windows 10 стала занимать более половины экрана рабочего стола](https://habr.com/ru/news/836874/?utm_campaign=836874&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft сократила ещё 45 сотрудников офисов в Калифорнии и Северной Каролине](https://habr.com/ru/news/836872/?utm_campaign=836872&utm_source=habrahabr&utm_medium=rss)
 - [Со сборками Windows 11 Canary возникла путаница](https://habr.com/ru/news/836868/?utm_campaign=836868&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI даст доступ к SearchGPT только 10 тысячам исследователей](https://habr.com/ru/news/836862/?utm_campaign=836862&utm_source=habrahabr&utm_medium=rss)
-- [Все для клиента: AMD и Supermicro готовы поставлять кастомные серверы без предустановленного CPU](https://habr.com/ru/companies/dcmiran/news/836858/?utm_campaign=836858&utm_source=habrahabr&utm_medium=rss)
-- [Роботакси Waymo продолжают гудеть на парковках и поблизости, хотя разработчики выпустили против этого бага уже два фикса](https://habr.com/ru/news/836854/?utm_campaign=836854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
