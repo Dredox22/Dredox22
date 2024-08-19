@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как упростить работу с большими данными — поделимся опытом на вебинаре 27 августа](https://habr.com/ru/companies/cloud_ru/news/836912/?utm_campaign=836912&utm_source=habrahabr&utm_medium=rss)
+- [Google анонсировала Imagen 3 — нейросеть для генерации изображений по текстовому описанию](https://habr.com/ru/news/836954/?utm_campaign=836954&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: беспроводные системы переключения передач в современных премиальных велосипедах уязвимы для кибератак](https://habr.com/ru/news/836952/?utm_campaign=836952&utm_source=habrahabr&utm_medium=rss)
 - [Свыше половины американских компаний из списка Fortune 500 считают ИИ угрозой для своего бизнеса](https://habr.com/ru/news/836930/?utm_campaign=836930&utm_source=habrahabr&utm_medium=rss)
 - [National Public Data признала утечку номеров социального страхования](https://habr.com/ru/news/836892/?utm_campaign=836892&utm_source=habrahabr&utm_medium=rss)
-- [Лента MSN в Windows 10 стала занимать более половины экрана рабочего стола](https://habr.com/ru/news/836874/?utm_campaign=836874&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft сократила ещё 45 сотрудников офисов в Калифорнии и Северной Каролине](https://habr.com/ru/news/836872/?utm_campaign=836872&utm_source=habrahabr&utm_medium=rss)
-- [Со сборками Windows 11 Canary возникла путаница](https://habr.com/ru/news/836868/?utm_campaign=836868&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
