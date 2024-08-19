@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Погода» рассказала, какой будет осень 2024 года в России](https://habr.com/ru/news/836966/?utm_campaign=836966&utm_source=habrahabr&utm_medium=rss)
 - [Как упростить работу с большими данными — поделимся опытом на вебинаре 27 августа](https://habr.com/ru/companies/cloud_ru/news/836912/?utm_campaign=836912&utm_source=habrahabr&utm_medium=rss)
 - [Google анонсировала Imagen 3 — нейросеть для генерации изображений по текстовому описанию](https://habr.com/ru/news/836954/?utm_campaign=836954&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: беспроводные системы переключения передач в современных премиальных велосипедах уязвимы для кибератак](https://habr.com/ru/news/836952/?utm_campaign=836952&utm_source=habrahabr&utm_medium=rss)
 - [Свыше половины американских компаний из списка Fortune 500 считают ИИ угрозой для своего бизнеса](https://habr.com/ru/news/836930/?utm_campaign=836930&utm_source=habrahabr&utm_medium=rss)
-- [National Public Data признала утечку номеров социального страхования](https://habr.com/ru/news/836892/?utm_campaign=836892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
