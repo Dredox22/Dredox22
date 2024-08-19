@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Секретные ловушки от спецслужб. Ханипоты](https://habr.com/ru/news/836906/?utm_campaign=836906&utm_source=habrahabr&utm_medium=rss)
+- [Свыше половины американских компаний из списка Fortune 500 считают ИИ угрозой для своего бизнеса](https://habr.com/ru/news/836930/?utm_campaign=836930&utm_source=habrahabr&utm_medium=rss)
 - [National Public Data признала утечку номеров социального страхования](https://habr.com/ru/news/836892/?utm_campaign=836892&utm_source=habrahabr&utm_medium=rss)
 - [Лента MSN в Windows 10 стала занимать более половины экрана рабочего стола](https://habr.com/ru/news/836874/?utm_campaign=836874&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft сократила ещё 45 сотрудников офисов в Калифорнии и Северной Каролине](https://habr.com/ru/news/836872/?utm_campaign=836872&utm_source=habrahabr&utm_medium=rss)
