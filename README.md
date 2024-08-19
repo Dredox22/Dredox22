@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [НКО призвали FCC приостановить запуски мегасозвездий спутников до оценки их воздействия на окружающую среду](https://habr.com/ru/news/837106/?utm_campaign=837106&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/837082/?utm_campaign=837082&utm_source=habrahabr&utm_medium=rss)
 - [Новая, более производительная версия PostgreSQL теперь доступна VK Cloud](https://habr.com/ru/companies/vk/news/837064/?utm_campaign=837064&utm_source=habrahabr&utm_medium=rss)
 - [Google play прекращает принимать отчёты об ошибках 31 августа](https://habr.com/ru/news/837040/?utm_campaign=837040&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic представила функцию кэширования запросов Claude для API](https://habr.com/ru/news/836996/?utm_campaign=836996&utm_source=habrahabr&utm_medium=rss)
-- [YandexGPT научат переводить текст с изображений, аудио- и видеофайлов](https://habr.com/ru/news/836988/?utm_campaign=836988&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
