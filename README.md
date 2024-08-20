@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Портал iXBT games анонсирует ежегодное игрового шоу «НашЫ игры 24» для поддержки разработчиков игр](https://habr.com/ru/news/837168/?utm_campaign=837168&utm_source=habrahabr&utm_medium=rss)
+- [Valve выпустила драйверы для Windows на Steam Deck с OLED-дисплеем](https://habr.com/ru/news/837166/?utm_campaign=837166&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в РФ выросли продажи WiFi-роутеров с кастомизируемыми конфигурациями и с предустановленными сетевыми дополнениями](https://habr.com/ru/news/837164/?utm_campaign=837164&utm_source=habrahabr&utm_medium=rss)
 - [В продаже появился бюджетный одноплатник семейства Raspberry Pi 5 с 2 ГБ ОЗУ](https://habr.com/ru/news/837160/?utm_campaign=837160&utm_source=habrahabr&utm_medium=rss)
 - [Муниципалитет Амстердама запретил госслужащим использовать Telegram на рабочих телефонах «из–за риска шпионажа»](https://habr.com/ru/news/837138/?utm_campaign=837138&utm_source=habrahabr&utm_medium=rss)
-- [Tesla ищет людей от 155 до 180 см для обучения робота Optimus](https://habr.com/ru/news/837122/?utm_campaign=837122&utm_source=habrahabr&utm_medium=rss)
-- [Aider: большие языковые модели хуже пишут код, если требовать ответ в формате JSON](https://habr.com/ru/news/837120/?utm_campaign=837120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
