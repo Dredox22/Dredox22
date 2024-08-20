@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Toyota подтвердила взлом своей сети после публикации украденных данных на хакерском форуме](https://habr.com/ru/news/837236/?utm_campaign=837236&utm_source=habrahabr&utm_medium=rss)
+- [27 августа — DevOps митап от билайна: Пермь + онлайн](https://habr.com/ru/companies/beeline_tech/news/837228/?utm_campaign=837228&utm_source=habrahabr&utm_medium=rss)
+- [Да будет IT Elements! Главное событие осени про сети, инфру и ИБ](https://habr.com/ru/companies/jetinfosystems/news/837214/?utm_campaign=837214&utm_source=habrahabr&utm_medium=rss)
 - [Вышло приложение для превращения Apple Pencil в пульт управления камерой iPad](https://habr.com/ru/news/837194/?utm_campaign=837194&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты будут помогать учёным искать чёрные дыры с помощью мобильного приложения](https://habr.com/ru/news/837178/?utm_campaign=837178&utm_source=habrahabr&utm_medium=rss)
-- [Google три месяца не удаляла мошенническое приложение для кражи криптовалюты](https://habr.com/ru/news/837174/?utm_campaign=837174&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: для белых хакеров в РФ планируют создать отдельный реестр](https://habr.com/ru/news/837170/?utm_campaign=837170&utm_source=habrahabr&utm_medium=rss)
-- [Портал iXBT games анонсирует ежегодное игрового шоу «НашЫ игры 24» для поддержки разработчиков игр](https://habr.com/ru/news/837168/?utm_campaign=837168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
