@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Спутниковая система «Гонец» закончила тестирование персонального терминала связи](https://habr.com/ru/news/837352/?utm_campaign=837352&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи RuStore обновили скачанные через магазин приложения более 1,5 млрд раз](https://habr.com/ru/news/837290/?utm_campaign=837290&utm_source=habrahabr&utm_medium=rss)
 - [Секреты скорости — почему онлайн-кинотеатр загружается быстрее, чем одностраничный сайт](https://habr.com/ru/companies/mws/news/837282/?utm_campaign=837282&utm_source=habrahabr&utm_medium=rss)
 - [Гонконгский производитель электроники хочет прекратить охрану товарного знака Nokia в РФ](https://habr.com/ru/news/837266/?utm_campaign=837266&utm_source=habrahabr&utm_medium=rss)
 - [Настраиваем GPU-ноды в кластерах Kubernetes на практическом вебинаре](https://habr.com/ru/companies/selectel/news/837240/?utm_campaign=837240&utm_source=habrahabr&utm_medium=rss)
-- [ВЦИОМ представил результаты опроса по теме обязательной предустановки российского ПО на смартфоны в РФ](https://habr.com/ru/news/837248/?utm_campaign=837248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
