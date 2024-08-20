@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен первый геймлейный трейлер Sid Meier&#39;s Civilization VII, игра выйдет 11 февраля 2025 года](https://habr.com/ru/news/837408/?utm_campaign=837408&utm_source=habrahabr&utm_medium=rss)
 - [Сервис «Агент Mail.ru» завершил работу](https://habr.com/ru/news/837388/?utm_campaign=837388&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка конфигурации FlightAware привела к утечке данных пользователей в течение нескольких лет](https://habr.com/ru/news/837386/?utm_campaign=837386&utm_source=habrahabr&utm_medium=rss)
 - [Релиз игрового движка Unigine 2.19](https://habr.com/ru/news/837368/?utm_campaign=837368&utm_source=habrahabr&utm_medium=rss)
 - [Спутниковая система «Гонец» закончила тестирование персонального терминала связи](https://habr.com/ru/news/837352/?utm_campaign=837352&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи RuStore обновили скачанные через магазин приложения более 1,5 млрд раз](https://habr.com/ru/news/837290/?utm_campaign=837290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
