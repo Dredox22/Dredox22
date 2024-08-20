@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гонконгский производитель электроники хочет прекратить охрану товарного знака Nokia в РФ](https://habr.com/ru/news/837266/?utm_campaign=837266&utm_source=habrahabr&utm_medium=rss)
+- [Настраиваем GPU-ноды в кластерах Kubernetes на практическом вебинаре](https://habr.com/ru/companies/selectel/news/837240/?utm_campaign=837240&utm_source=habrahabr&utm_medium=rss)
+- [ВЦИОМ: 74% россиян никогда не пользовались RuStore](https://habr.com/ru/news/837248/?utm_campaign=837248&utm_source=habrahabr&utm_medium=rss)
 - [Toyota подтвердила взлом своей сети после публикации украденных данных на хакерском форуме](https://habr.com/ru/news/837236/?utm_campaign=837236&utm_source=habrahabr&utm_medium=rss)
 - [27 августа — DevOps митап от билайна: Пермь + онлайн](https://habr.com/ru/companies/beeline_tech/news/837228/?utm_campaign=837228&utm_source=habrahabr&utm_medium=rss)
-- [Да будет IT Elements! Главное событие осени про сети, инфру и ИБ](https://habr.com/ru/companies/jetinfosystems/news/837214/?utm_campaign=837214&utm_source=habrahabr&utm_medium=rss)
-- [Вышло приложение для превращения Apple Pencil в пульт управления камерой iPad](https://habr.com/ru/news/837194/?utm_campaign=837194&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты будут помогать учёным искать чёрные дыры с помощью мобильного приложения](https://habr.com/ru/news/837178/?utm_campaign=837178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
