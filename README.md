@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция призрака: новые атаки и инструменты кибершпионов PhantomCore](https://habr.com/ru/companies/f_a_c_c_t/news/837458/?utm_campaign=837458&utm_source=habrahabr&utm_medium=rss)
+- [«Мегапьютер» и К2Тех обеспечат российские компании комплексными решениями для управления данными](https://habr.com/ru/companies/k2tech/news/837198/?utm_campaign=837198&utm_source=habrahabr&utm_medium=rss)
 - [Вышли релизы безопасности Joomla 5.1.3 и Joomla 4.4.7](https://habr.com/ru/news/837464/?utm_campaign=837464&utm_source=habrahabr&utm_medium=rss)
 - [GitHub представил Copilot Autofix для устранения ошибок в коде](https://habr.com/ru/news/837442/?utm_campaign=837442&utm_source=habrahabr&utm_medium=rss)
 - [Британский IT-специалист застрял в африканской стране из-за нерабочего телетайпа](https://habr.com/ru/news/837440/?utm_campaign=837440&utm_source=habrahabr&utm_medium=rss)
-- [Проект Bypass Paywalls Clean и все его форки убрали с GitHub по требованию DMCA](https://habr.com/ru/news/837438/?utm_campaign=837438&utm_source=habrahabr&utm_medium=rss)
-- [Авторы подали в суд на Anthropic за обучение ИИ с использованием пиратских книг](https://habr.com/ru/news/837436/?utm_campaign=837436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
