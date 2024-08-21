@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Британский IT-специалист застрял в африканской стране из-за нерабочего телетайпа](https://habr.com/ru/news/837440/?utm_campaign=837440&utm_source=habrahabr&utm_medium=rss)
+- [Проект Bypass Paywalls Clean и все его форки убрали с GitHub по требованию DMCA](https://habr.com/ru/news/837438/?utm_campaign=837438&utm_source=habrahabr&utm_medium=rss)
+- [Авторы подали в суд на Anthropic за обучение ИИ с использованием пиратских книг](https://habr.com/ru/news/837436/?utm_campaign=837436&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp будет поддерживать имена пользователей и PIN-коды](https://habr.com/ru/news/837432/?utm_campaign=837432&utm_source=habrahabr&utm_medium=rss)
 - [Языковая модель GPT-4o теперь открыта для файнтюнинга](https://habr.com/ru/news/837424/?utm_campaign=837424&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Skip — фреймворк для разработки кроссплатформенных мобильных приложений](https://habr.com/ru/news/837422/?utm_campaign=837422&utm_source=habrahabr&utm_medium=rss)
-- [Представлен первый геймплейный трейлер Sid Meier&#39;s Civilization VII, игра выйдет 11 февраля 2025 года](https://habr.com/ru/news/837408/?utm_campaign=837408&utm_source=habrahabr&utm_medium=rss)
-- [Сервис «Агент Mail.ru» завершил работу](https://habr.com/ru/news/837388/?utm_campaign=837388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
