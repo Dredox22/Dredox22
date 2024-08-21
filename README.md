@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор объяснил сбой в рунете DDoS-атакой на операторов связи, которая была оперативно отражена](https://habr.com/ru/news/837582/?utm_campaign=837582&utm_source=habrahabr&utm_medium=rss)
 - [Опубликована полная программа Offzone 2024](https://habr.com/ru/news/837576/?utm_campaign=837576&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных рескилл-курсов и занятий по программированию](https://habr.com/ru/companies/netologyru/news/837142/?utm_campaign=837142&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры нарушили работу IT-систем Microchip Technology](https://habr.com/ru/news/837562/?utm_campaign=837562&utm_source=habrahabr&utm_medium=rss)
 - [ComNews: 3Logic Group от­ка­залась от проек­та с OSChina &lpar;создателем Gitee&rpar; и запустила систему Gitlife](https://habr.com/ru/news/837560/?utm_campaign=837560&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Cisco Talos обнаружили уязвимости в ряде приложений Microsoft для macOS](https://habr.com/ru/news/837552/?utm_campaign=837552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
