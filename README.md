@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новый Kubernetes](https://habr.com/ru/companies/timeweb/news/837650/?utm_campaign=837650&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba представила мультимодальную нейросеть, которая может за четыре секунды проанализировать двухчасовое видео](https://habr.com/ru/news/837686/?utm_campaign=837686&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор объяснил сбой в рунете DDoS-атакой на операторов связи, которая была оперативно отражена](https://habr.com/ru/news/837582/?utm_campaign=837582&utm_source=habrahabr&utm_medium=rss)
 - [Опубликована полная программа Offzone 2024](https://habr.com/ru/news/837576/?utm_campaign=837576&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных рескилл-курсов и занятий по программированию](https://habr.com/ru/companies/netologyru/news/837142/?utm_campaign=837142&utm_source=habrahabr&utm_medium=rss)
