@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи Cisco Talos обнаружили уязвимости в ряде приложений Microsoft для macOS](https://habr.com/ru/news/837552/?utm_campaign=837552&utm_source=habrahabr&utm_medium=rss)
+- [Postgres Professional обновила свободно доступный курс DEV2 по разработке приложений в PostgreSQL 16](https://habr.com/ru/news/837544/?utm_campaign=837544&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт по ЖКХ рассказал об ответственности за подключение к соседскому Wi-Fi](https://habr.com/ru/news/837534/?utm_campaign=837534&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Браузере» появились субтитры на английском языке и их перевод для всех сайтов](https://habr.com/ru/news/837520/?utm_campaign=837520&utm_source=habrahabr&utm_medium=rss)
 - [Эволюция призрака: новые атаки и инструменты кибершпионов PhantomCore](https://habr.com/ru/companies/f_a_c_c_t/news/837458/?utm_campaign=837458&utm_source=habrahabr&utm_medium=rss)
-- [«Мегапьютер» и К2Тех обеспечат российские компании комплексными решениями для управления данными](https://habr.com/ru/companies/k2tech/news/837198/?utm_campaign=837198&utm_source=habrahabr&utm_medium=rss)
-- [Вышли релизы безопасности Joomla 5.1.3 и Joomla 4.4.7](https://habr.com/ru/news/837464/?utm_campaign=837464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
