@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперт по ЖКХ рассказал об ответственности за подключение к соседскому Wi-Fi](https://habr.com/ru/news/837534/?utm_campaign=837534&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Браузере» появились субтитры на английском языке и их перевод для всех сайтов](https://habr.com/ru/news/837520/?utm_campaign=837520&utm_source=habrahabr&utm_medium=rss)
 - [Эволюция призрака: новые атаки и инструменты кибершпионов PhantomCore](https://habr.com/ru/companies/f_a_c_c_t/news/837458/?utm_campaign=837458&utm_source=habrahabr&utm_medium=rss)
 - [«Мегапьютер» и К2Тех обеспечат российские компании комплексными решениями для управления данными](https://habr.com/ru/companies/k2tech/news/837198/?utm_campaign=837198&utm_source=habrahabr&utm_medium=rss)
 - [Вышли релизы безопасности Joomla 5.1.3 и Joomla 4.4.7](https://habr.com/ru/news/837464/?utm_campaign=837464&utm_source=habrahabr&utm_medium=rss)
-- [GitHub представил Copilot Autofix для устранения ошибок в коде](https://habr.com/ru/news/837442/?utm_campaign=837442&utm_source=habrahabr&utm_medium=rss)
-- [Британский IT-специалист застрял в африканской стране из-за нерабочего телетайпа](https://habr.com/ru/news/837440/?utm_campaign=837440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
