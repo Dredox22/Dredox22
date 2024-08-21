@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликована полная программа Offzone 2024](https://habr.com/ru/news/837576/?utm_campaign=837576&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных рескилл-курсов и занятий по программированию](https://habr.com/ru/companies/netologyru/news/837142/?utm_campaign=837142&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры нарушили работу IT-систем Microchip Technology](https://habr.com/ru/news/837562/?utm_campaign=837562&utm_source=habrahabr&utm_medium=rss)
+- [ComNews: 3Logic Group от­ка­залась от проек­та с OSChina &lpar;создателем Gitee&rpar; и запустила систему Gitlife](https://habr.com/ru/news/837560/?utm_campaign=837560&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Cisco Talos обнаружили уязвимости в ряде приложений Microsoft для macOS](https://habr.com/ru/news/837552/?utm_campaign=837552&utm_source=habrahabr&utm_medium=rss)
-- [Postgres Professional обновила свободно доступный курс DEV2 по разработке приложений в PostgreSQL 16](https://habr.com/ru/news/837544/?utm_campaign=837544&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт по ЖКХ рассказал об ответственности за подключение к соседскому Wi-Fi](https://habr.com/ru/news/837534/?utm_campaign=837534&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Браузере» появились субтитры на английском языке и их перевод для всех сайтов](https://habr.com/ru/news/837520/?utm_campaign=837520&utm_source=habrahabr&utm_medium=rss)
-- [Эволюция призрака: новые атаки и инструменты кибершпионов PhantomCore](https://habr.com/ru/companies/f_a_c_c_t/news/837458/?utm_campaign=837458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
