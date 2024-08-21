@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Языковая модель GPT-4o теперь открыта для файнтюнинга](https://habr.com/ru/news/837424/?utm_campaign=837424&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Skip — фреймворк для разработки кроссплатформенных мобильных приложений](https://habr.com/ru/news/837422/?utm_campaign=837422&utm_source=habrahabr&utm_medium=rss)
-- [Представлен первый геймлейный трейлер Sid Meier&#39;s Civilization VII, игра выйдет 11 февраля 2025 года](https://habr.com/ru/news/837408/?utm_campaign=837408&utm_source=habrahabr&utm_medium=rss)
+- [Представлен первый геймплейный трейлер Sid Meier&#39;s Civilization VII, игра выйдет 11 февраля 2025 года](https://habr.com/ru/news/837408/?utm_campaign=837408&utm_source=habrahabr&utm_medium=rss)
 - [Сервис «Агент Mail.ru» завершил работу](https://habr.com/ru/news/837388/?utm_campaign=837388&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка конфигурации FlightAware привела к утечке данных пользователей в течение нескольких лет](https://habr.com/ru/news/837386/?utm_campaign=837386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
