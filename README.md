@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России появится ещё один дизайн-центр для тестирования микросхем](https://habr.com/ru/news/837798/?utm_campaign=837798&utm_source=habrahabr&utm_medium=rss)
+- [Нейросети помогли «Яндексу» заблокировать 197 тыс. рекламных аккаунтов мошенников за полгода](https://habr.com/ru/news/837784/?utm_campaign=837784&utm_source=habrahabr&utm_medium=rss)
 - [Доступ к данным пользователя в закрытом канале Slack можно получить благодаря манипуляциям с ИИ](https://habr.com/ru/news/837764/?utm_campaign=837764&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники стали отправлять фишинговые письма жертвам через их коллег](https://habr.com/ru/news/837766/?utm_campaign=837766&utm_source=habrahabr&utm_medium=rss)
 - [Сервис «QIWI Кошелёк» переехал на новый домен](https://habr.com/ru/news/837758/?utm_campaign=837758&utm_source=habrahabr&utm_medium=rss)
-- [В «Лаборатории Касперского» подтвердили усиление в этом году DDoS-атак на операторов связи РФ](https://habr.com/ru/news/837726/?utm_campaign=837726&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 128](https://habr.com/ru/news/837718/?utm_campaign=837718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
