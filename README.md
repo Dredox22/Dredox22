@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Chrome 128](https://habr.com/ru/news/837718/?utm_campaign=837718&utm_source=habrahabr&utm_medium=rss)
+- [Альтернатива есть! 20+ российских ИТ-продуктов на выставке Tech2b Conf 3 сентября](https://habr.com/ru/companies/k2tech/news/837680/?utm_campaign=837680&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Ideogram 2.0](https://habr.com/ru/news/837714/?utm_campaign=837714&utm_source=habrahabr&utm_medium=rss)
 - [Релиз WinToUSB 9.0](https://habr.com/ru/news/837712/?utm_campaign=837712&utm_source=habrahabr&utm_medium=rss)
 - [Midjourney запустила веб-приложение для генерации изображений](https://habr.com/ru/news/837696/?utm_campaign=837696&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia «оживит» NPC в игре Mecha Break с помощью нейротехнологии ACE](https://habr.com/ru/news/837694/?utm_campaign=837694&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba представила мультимодальную нейросеть, которая может за четыре секунды проанализировать двухчасовое видео](https://habr.com/ru/news/837686/?utm_campaign=837686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
