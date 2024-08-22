@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакер лишил персонал Unicoin доступа к аккаунтам Google Workspace на 4 дня](https://habr.com/ru/news/837878/?utm_campaign=837878&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила семейство моделей Phi-3.5, которые превосходят конкурирующие ИИ-модели](https://habr.com/ru/news/837856/?utm_campaign=837856&utm_source=habrahabr&utm_medium=rss)
 - [Второе место на Data Fusion Contest 2024](https://habr.com/ru/companies/sberbank/news/837824/?utm_campaign=837824&utm_source=habrahabr&utm_medium=rss)
 - [Уровень «цифровой зрелости» компаний в России выше, чем в среднем по миру](https://habr.com/ru/companies/X5Tech/news/837820/?utm_campaign=837820&utm_source=habrahabr&utm_medium=rss)
 - [В России появится ещё один дизайн-центр для тестирования микросхем](https://habr.com/ru/news/837798/?utm_campaign=837798&utm_source=habrahabr&utm_medium=rss)
-- [Нейросети помогли «Яндексу» заблокировать 197 тыс. рекламных аккаунтов мошенников за полгода](https://habr.com/ru/news/837784/?utm_campaign=837784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
