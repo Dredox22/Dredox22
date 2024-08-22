@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Доступ к данным пользователя в закрытом канале Slack можно получить благодаря манипуляциям с ИИ](https://habr.com/ru/news/837764/?utm_campaign=837764&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники стали отправлять фишинговые письма жертвам через их коллег](https://habr.com/ru/news/837766/?utm_campaign=837766&utm_source=habrahabr&utm_medium=rss)
+- [Сервис «QIWI Кошелёк» переехал на новый домен](https://habr.com/ru/news/837758/?utm_campaign=837758&utm_source=habrahabr&utm_medium=rss)
 - [В «Лаборатории Касперского» подтвердили усиление в этом году DDoS-атак на операторов связи РФ](https://habr.com/ru/news/837726/?utm_campaign=837726&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 128](https://habr.com/ru/news/837718/?utm_campaign=837718&utm_source=habrahabr&utm_medium=rss)
-- [Альтернатива есть! 20+ российских ИТ-продуктов на выставке Tech2b Conf 3 сентября](https://habr.com/ru/companies/k2tech/news/837680/?utm_campaign=837680&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Ideogram 2.0](https://habr.com/ru/news/837714/?utm_campaign=837714&utm_source=habrahabr&utm_medium=rss)
-- [Релиз WinToUSB 9.0](https://habr.com/ru/news/837712/?utm_campaign=837712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
