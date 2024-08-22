@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Ideogram 2.0](https://habr.com/ru/news/837714/?utm_campaign=837714&utm_source=habrahabr&utm_medium=rss)
+- [Релиз WinToUSB 9.0](https://habr.com/ru/news/837712/?utm_campaign=837712&utm_source=habrahabr&utm_medium=rss)
 - [Midjourney запустила веб-приложение для генерации изображений](https://habr.com/ru/news/837696/?utm_campaign=837696&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia «оживит» NPC в игре Mecha Break с помощью нейротехнологии ACE](https://habr.com/ru/news/837694/?utm_campaign=837694&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba представила мультимодальную нейросеть, которая может за четыре секунды проанализировать двухчасовое видео](https://habr.com/ru/news/837686/?utm_campaign=837686&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор объяснил сбой в рунете DDoS-атакой на операторов связи, которая была оперативно отражена](https://habr.com/ru/news/837582/?utm_campaign=837582&utm_source=habrahabr&utm_medium=rss)
-- [Опубликована полная программа Offzone 2024](https://habr.com/ru/news/837576/?utm_campaign=837576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
