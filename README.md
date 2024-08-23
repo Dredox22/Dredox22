@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla разрабатывает функцию локального перевода аудио в текст](https://habr.com/ru/news/838162/?utm_campaign=838162&utm_source=habrahabr&utm_medium=rss)
+- [В поиске «Яндекса» по видео появился фильтр с роликами только с тех платформ, «где нет проблем с загрузкой контента»](https://habr.com/ru/news/838150/?utm_campaign=838150&utm_source=habrahabr&utm_medium=rss)
 - [Представлены 9 минут геймплея в пошаговую стратегию Heroes of Might and Magic: Olden Era](https://habr.com/ru/news/838096/?utm_campaign=838096&utm_source=habrahabr&utm_medium=rss)
 - [Вышла книга WebGPU Unleashed для практического изучения технологии WebGPU](https://habr.com/ru/news/838068/?utm_campaign=838068&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft реструктурировала свой бизнес](https://habr.com/ru/news/838060/?utm_campaign=838060&utm_source=habrahabr&utm_medium=rss)
-- [Группа «Элемент» начнёт выпуск оборудования для силовой электроники в 2024 году](https://habr.com/ru/news/838058/?utm_campaign=838058&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Microsoft Edge 128](https://habr.com/ru/news/838056/?utm_campaign=838056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
