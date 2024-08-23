@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft подтвердила отказ от «Панели управления» в пользу «Настроек»](https://habr.com/ru/news/837986/?utm_campaign=837986&utm_source=habrahabr&utm_medium=rss)
+- [Представлен ИИ-помощник для возвращения взломанных YouTube-каналов](https://habr.com/ru/news/838002/?utm_campaign=838002&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила отказ от «Панели управления» в пользу «Параметров»](https://habr.com/ru/news/837986/?utm_campaign=837986&utm_source=habrahabr&utm_medium=rss)
 - [iFixit: Samsung Galaxy Ring — одноразовый аксессуар, который не подлежит ремонту](https://habr.com/ru/news/837978/?utm_campaign=837978&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты разошлись во мнении, что сбой 21 августа в РФ Telegram и других сервисов был DDoS-атакой на операторов связи](https://habr.com/ru/news/837960/?utm_campaign=837960&utm_source=habrahabr&utm_medium=rss)
 - [Анонсирована пошаговая стратегия Heroes of Might and Magic: Olden Era](https://habr.com/ru/news/837924/?utm_campaign=837924&utm_source=habrahabr&utm_medium=rss)
-- [Сбер запускает три программы по поиску уязвимостей с выплатами до 500 тысяч рублей](https://habr.com/ru/news/837920/?utm_campaign=837920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
