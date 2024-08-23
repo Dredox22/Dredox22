@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлены 9 минут геймплея в пошаговую стратегию Heroes of Might and Magic: Olden Era](https://habr.com/ru/news/838096/?utm_campaign=838096&utm_source=habrahabr&utm_medium=rss)
 - [Вышла книга WebGPU Unleashed для практического изучения технологии WebGPU](https://habr.com/ru/news/838068/?utm_campaign=838068&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft реструктурировала свой бизнес](https://habr.com/ru/news/838060/?utm_campaign=838060&utm_source=habrahabr&utm_medium=rss)
 - [Группа «Элемент» начнёт выпуск оборудования для силовой электроники в 2024 году](https://habr.com/ru/news/838058/?utm_campaign=838058&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 128](https://habr.com/ru/news/838056/?utm_campaign=838056&utm_source=habrahabr&utm_medium=rss)
-- [Россияне жалуются на блокировки карт и счетов из-за нового закона](https://habr.com/ru/news/838042/?utm_campaign=838042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
