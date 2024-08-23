@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла книга WebGPU Unleashed для практического изучения технологии WebGPU](https://habr.com/ru/news/838068/?utm_campaign=838068&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft реструктурировала свой бизнес](https://habr.com/ru/news/838060/?utm_campaign=838060&utm_source=habrahabr&utm_medium=rss)
+- [Группа «Элемент» начнёт выпуск оборудования для силовой электроники в 2024 году](https://habr.com/ru/news/838058/?utm_campaign=838058&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Microsoft Edge 128](https://habr.com/ru/news/838056/?utm_campaign=838056&utm_source=habrahabr&utm_medium=rss)
 - [Россияне жалуются на блокировки карт и счетов из-за нового закона](https://habr.com/ru/news/838042/?utm_campaign=838042&utm_source=habrahabr&utm_medium=rss)
-- [Представлен ИИ-помощник для возвращения взломанных YouTube-каналов](https://habr.com/ru/news/838002/?utm_campaign=838002&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила отказ от «Панели управления» в пользу «Параметров»](https://habr.com/ru/news/837986/?utm_campaign=837986&utm_source=habrahabr&utm_medium=rss)
-- [iFixit: Samsung Galaxy Ring — одноразовый аксессуар, который не подлежит ремонту](https://habr.com/ru/news/837978/?utm_campaign=837978&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты разошлись во мнении, что сбой 21 августа в РФ Telegram и других сервисов был DDoS-атакой на операторов связи](https://habr.com/ru/news/837960/?utm_campaign=837960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
