@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты разошлись во мнении, что сбой 21 августа в РФ Telegram и других сервисов был DDoS-атакой на операторов связи](https://habr.com/ru/news/837960/?utm_campaign=837960&utm_source=habrahabr&utm_medium=rss)
 - [Анонсирована пошаговая стратегия Heroes of Might and Magic: Olden Era](https://habr.com/ru/news/837924/?utm_campaign=837924&utm_source=habrahabr&utm_medium=rss)
 - [Сбер запускает три программы по поиску уязвимостей с выплатами до 500 тысяч рублей](https://habr.com/ru/news/837920/?utm_campaign=837920&utm_source=habrahabr&utm_medium=rss)
 - [Хакер лишил персонал Unicoin доступа к аккаунтам Google Workspace на 4 дня](https://habr.com/ru/news/837878/?utm_campaign=837878&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила семейство моделей Phi-3.5, которые превосходят конкурирующие ИИ-модели](https://habr.com/ru/news/837856/?utm_campaign=837856&utm_source=habrahabr&utm_medium=rss)
-- [Второе место на Data Fusion Contest 2024](https://habr.com/ru/companies/sberbank/news/837824/?utm_campaign=837824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
