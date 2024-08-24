@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сентябре Microsoft проведёт специальный саммит по безопасности, в котором примет участие CrowdStrike](https://habr.com/ru/news/838292/?utm_campaign=838292&utm_source=habrahabr&utm_medium=rss)
 - [Представлено расширение Website Blocker для Chrome с открытым исходным кодом для блокировки отвлекающих факторов в сети](https://habr.com/ru/news/838284/?utm_campaign=838284&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик получил перманентный бан от Reddit за создание некоммерческого клиента с открытым исходным кодом](https://habr.com/ru/news/838278/?utm_campaign=838278&utm_source=habrahabr&utm_medium=rss)
 - [Опрос GitHub показал, что почти все разработчики используют инструменты ИИ для программирования](https://habr.com/ru/news/838264/?utm_campaign=838264&utm_source=habrahabr&utm_medium=rss)
 - [Проект Архана Чаудхари: сколько знаковых компьютерных чисел вы можете узнать?](https://habr.com/ru/news/838262/?utm_campaign=838262&utm_source=habrahabr&utm_medium=rss)
-- [Apple разрешит удаление предустановленных приложений для пользователей в ЕС](https://habr.com/ru/news/838250/?utm_campaign=838250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
