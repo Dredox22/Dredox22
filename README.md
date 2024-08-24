@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опрос GitHub показал, что почти все разработчики используют инструменты ИИ для программирования](https://habr.com/ru/news/838264/?utm_campaign=838264&utm_source=habrahabr&utm_medium=rss)
 - [Проект Архана Чаудхари: сколько знаковых компьютерных чисел вы можете узнать?](https://habr.com/ru/news/838262/?utm_campaign=838262&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешит удаление предустановленных приложений для пользователей в ЕС](https://habr.com/ru/news/838250/?utm_campaign=838250&utm_source=habrahabr&utm_medium=rss)
 - [Камала Харрис угрожает патентам, на Китай приходится половина зелёных технологий мира: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/838244/?utm_campaign=838244&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, Amazon и Google планируют вложить около $1 трлн в развитие ИИ](https://habr.com/ru/news/838232/?utm_campaign=838232&utm_source=habrahabr&utm_medium=rss)
-- [ИИ сэкономил Amazon 4500 лет разработки при обновлении Java](https://habr.com/ru/news/838218/?utm_campaign=838218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
