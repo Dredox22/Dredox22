@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ сэкономил Amazon 4500 лет разработки при обновлении Java](https://habr.com/ru/news/838218/?utm_campaign=838218&utm_source=habrahabr&utm_medium=rss)
 - [Starlink начала бороться с перекупщиками комплектов с помощью штрафов](https://habr.com/ru/news/838212/?utm_campaign=838212&utm_source=habrahabr&utm_medium=rss)
 - [Опубликовано сравнение производительности игр в Windows 11 и Fedora Linux 40 на ноутбуке Framework 13 с Ryzen 7 7840U](https://habr.com/ru/news/838210/?utm_campaign=838210&utm_source=habrahabr&utm_medium=rss)
 - [Valve анонсировала командный шутер от третьего лица Deadlock](https://habr.com/ru/news/838206/?utm_campaign=838206&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla разрабатывает функцию локального перевода аудио в текст](https://habr.com/ru/news/838162/?utm_campaign=838162&utm_source=habrahabr&utm_medium=rss)
-- [В поиске «Яндекса» по видео появился фильтр с роликами только с тех платформ, «где нет проблем с загрузкой контента»](https://habr.com/ru/news/838150/?utm_campaign=838150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
