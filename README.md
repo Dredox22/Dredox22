@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve анонсировала командный шутер от третьего лица Deadlock](https://habr.com/ru/news/838206/?utm_campaign=838206&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla разрабатывает функцию локального перевода аудио в текст](https://habr.com/ru/news/838162/?utm_campaign=838162&utm_source=habrahabr&utm_medium=rss)
 - [В поиске «Яндекса» по видео появился фильтр с роликами только с тех платформ, «где нет проблем с загрузкой контента»](https://habr.com/ru/news/838150/?utm_campaign=838150&utm_source=habrahabr&utm_medium=rss)
 - [Представлены 9 минут геймплея в пошаговую стратегию Heroes of Might and Magic: Olden Era](https://habr.com/ru/news/838096/?utm_campaign=838096&utm_source=habrahabr&utm_medium=rss)
 - [Вышла книга WebGPU Unleashed для практического изучения технологии WebGPU](https://habr.com/ru/news/838068/?utm_campaign=838068&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft реструктурировала свой бизнес](https://habr.com/ru/news/838060/?utm_campaign=838060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
