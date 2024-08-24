@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple разрешит удаление предустановленных приложений для пользователей в ЕС](https://habr.com/ru/news/838250/?utm_campaign=838250&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, Amazon и Google планируют вложить около $1 трлн в развитие ИИ](https://habr.com/ru/news/838232/?utm_campaign=838232&utm_source=habrahabr&utm_medium=rss)
 - [ИИ сэкономил Amazon 4500 лет разработки при обновлении Java](https://habr.com/ru/news/838218/?utm_campaign=838218&utm_source=habrahabr&utm_medium=rss)
 - [Опубликовано сравнение производительности игр в Windows 11 и Fedora Linux 40 на ноутбуке Framework 13 с Ryzen 7 7840U](https://habr.com/ru/news/838210/?utm_campaign=838210&utm_source=habrahabr&utm_medium=rss)
 - [Valve анонсировала командный шутер от третьего лица Deadlock](https://habr.com/ru/news/838206/?utm_campaign=838206&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla разрабатывает функцию локального перевода аудио в текст](https://habr.com/ru/news/838162/?utm_campaign=838162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
