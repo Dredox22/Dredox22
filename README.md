@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила Loop 2.0 с обновлённым пользовательским интерфейсом](https://habr.com/ru/news/838376/?utm_campaign=838376&utm_source=habrahabr&utm_medium=rss)
+- [Американская радиорелейная лига подтвердила выплату $1 млн хакерам](https://habr.com/ru/news/838374/?utm_campaign=838374&utm_source=habrahabr&utm_medium=rss)
 - [Инструкция по созданию бэкап Telegram, чтобы не потерять все переписки и фото](https://habr.com/ru/news/838356/?utm_campaign=838356&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft перенесла рекламу из меню «Пуск» Windows 11 в Windows 10](https://habr.com/ru/news/838346/?utm_campaign=838346&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть Llama3 получила улучшенное понимание речи](https://habr.com/ru/news/838340/?utm_campaign=838340&utm_source=habrahabr&utm_medium=rss)
-- [Android 15 позволит настраивать разрешение и поворот внешних дисплеев](https://habr.com/ru/news/838334/?utm_campaign=838334&utm_source=habrahabr&utm_medium=rss)
-- [Квест для читателей журнала «Хакер» завершён, его прошли четыре специалиста](https://habr.com/ru/news/838332/?utm_campaign=838332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
