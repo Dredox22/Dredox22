@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: российским чиновникам и некоторым крупным бизнесменам РФ пришло поручение удалить служебные переписки в Telegram](https://habr.com/ru/news/838418/?utm_campaign=838418&utm_source=habrahabr&utm_medium=rss)
+- [Прокуратура Парижа не спешит озвучить детали дела задержанного по прилёту во Францию основателя Telegram Павла Дурова](https://habr.com/ru/news/838416/?utm_campaign=838416&utm_source=habrahabr&utm_medium=rss)
 - [Итак… Паша сел во Франции. Можем ли мы предположить, как так вышло?](https://habr.com/ru/news/838384/?utm_campaign=838384&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Loop 2.0 с обновлённым пользовательским интерфейсом](https://habr.com/ru/news/838376/?utm_campaign=838376&utm_source=habrahabr&utm_medium=rss)
 - [Американская радиорелейная лига подтвердила выплату $1 млн хакерам](https://habr.com/ru/news/838374/?utm_campaign=838374&utm_source=habrahabr&utm_medium=rss)
-- [Инструкция по созданию бэкап Telegram, чтобы не потерять все переписки и фото](https://habr.com/ru/news/838356/?utm_campaign=838356&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft перенесла рекламу из меню «Пуск» Windows 11 в Windows 10](https://habr.com/ru/news/838346/?utm_campaign=838346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
