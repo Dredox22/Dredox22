@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 15 позволит настраивать разрешение и поворот внешних дисплеев](https://habr.com/ru/news/838334/?utm_campaign=838334&utm_source=habrahabr&utm_medium=rss)
 - [Квест для читателей журнала «Хакер» завершён, его прошли четыре специалиста](https://habr.com/ru/news/838332/?utm_campaign=838332&utm_source=habrahabr&utm_medium=rss)
 - [Следователи поместили Дурова под стражу во Франции, суд через несколько часов как гражданина этой страны](https://habr.com/ru/news/838326/?utm_campaign=838326&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров, основатель Telegram, задержан в аэропорту Парижа](https://habr.com/ru/news/838314/?utm_campaign=838314&utm_source=habrahabr&utm_medium=rss)
 - [Пропавший наушник AirPods помог арестовать водителя, который сбил подростка](https://habr.com/ru/news/838308/?utm_campaign=838308&utm_source=habrahabr&utm_medium=rss)
-- [В Москве прошла пятая конференции по практической кибербезопасности Offzone](https://habr.com/ru/news/838298/?utm_campaign=838298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
