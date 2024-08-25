@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Следователи поместили Дурова под стражу во Франции, суд через несколько часов как гражданина этой страны](https://habr.com/ru/news/838326/?utm_campaign=838326&utm_source=habrahabr&utm_medium=rss)
+- [Павел Дуров, основатель Telegram, задержан в аэропорту Парижа](https://habr.com/ru/news/838314/?utm_campaign=838314&utm_source=habrahabr&utm_medium=rss)
 - [Пропавший наушник AirPods помог арестовать водителя, который сбил подростка](https://habr.com/ru/news/838308/?utm_campaign=838308&utm_source=habrahabr&utm_medium=rss)
 - [В Москве прошла пятая конференции по практической кибербезопасности Offzone](https://habr.com/ru/news/838298/?utm_campaign=838298&utm_source=habrahabr&utm_medium=rss)
 - [В сентябре Microsoft проведёт специальный саммит по безопасности, в котором примет участие CrowdStrike](https://habr.com/ru/news/838292/?utm_campaign=838292&utm_source=habrahabr&utm_medium=rss)
-- [Представлено расширение Website Blocker для Chrome с открытым исходным кодом для блокировки отвлекающих факторов в сети](https://habr.com/ru/news/838284/?utm_campaign=838284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
