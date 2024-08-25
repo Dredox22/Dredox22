@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструкция по созданию бэкап Telegram, чтобы не потерять все переписки и фото](https://habr.com/ru/news/838356/?utm_campaign=838356&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft перенесла рекламу из меню «Пуск» Windows 11 в Windows 10](https://habr.com/ru/news/838346/?utm_campaign=838346&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть Llama3 получила улучшенное понимание речи](https://habr.com/ru/news/838340/?utm_campaign=838340&utm_source=habrahabr&utm_medium=rss)
 - [Android 15 позволит настраивать разрешение и поворот внешних дисплеев](https://habr.com/ru/news/838334/?utm_campaign=838334&utm_source=habrahabr&utm_medium=rss)
 - [Квест для читателей журнала «Хакер» завершён, его прошли четыре специалиста](https://habr.com/ru/news/838332/?utm_campaign=838332&utm_source=habrahabr&utm_medium=rss)
-- [Следователи поместили Дурова под стражу во Франции, суд через несколько часов как гражданина этой страны](https://habr.com/ru/news/838326/?utm_campaign=838326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
