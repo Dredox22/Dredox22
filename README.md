@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Французский суд продлил срок содержания Дурова под стражей ещё на 48 часов](https://habr.com/ru/news/838470/?utm_campaign=838470&utm_source=habrahabr&utm_medium=rss)
 - [Команда Telegram прокомментировала арест Павла Дурова](https://habr.com/ru/news/838444/?utm_campaign=838444&utm_source=habrahabr&utm_medium=rss)
 - [«Известия»: мошенники начали подделывать в Viber вызовы с номера Сбербанка](https://habr.com/ru/news/838442/?utm_campaign=838442&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: российским чиновникам и некоторым крупным бизнесменам РФ пришло поручение удалить служебные переписки в Telegram](https://habr.com/ru/news/838418/?utm_campaign=838418&utm_source=habrahabr&utm_medium=rss)
 - [Прокуратура Парижа не спешит озвучить детали дела задержанного по прилёту во Францию основателя Telegram Павла Дурова](https://habr.com/ru/news/838416/?utm_campaign=838416&utm_source=habrahabr&utm_medium=rss)
-- [Итак… Паша сел во Франции. Можем ли мы предположить, как так вышло?](https://habr.com/ru/news/838384/?utm_campaign=838384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
