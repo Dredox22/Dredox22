@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram грозит запрет в Индии за «причастность к преступной деятельности»](https://habr.com/ru/news/838654/?utm_campaign=838654&utm_source=habrahabr&utm_medium=rss)
 - [Французские сайты подверглись волне DDoS-атак после задержания Дурова правоохранительными органами страны](https://habr.com/ru/news/838632/?utm_campaign=838632&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил CatBot — камеру, которая фотографирует бродячих котов на заднем дворе](https://habr.com/ru/news/838616/?utm_campaign=838616&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Как подготовиться к прохождению госконтроля в области защиты КИИ»](https://habr.com/ru/companies/ussc/news/838582/?utm_campaign=838582&utm_source=habrahabr&utm_medium=rss)
 - [«Ведомости»: Telegram интересовал власти ЕС как минимум с весны 2024 года](https://habr.com/ru/news/838520/?utm_campaign=838520&utm_source=habrahabr&utm_medium=rss)
-- [Innostage запустила лабораторию тестирования Innostage Network Security and Infrastructure &lpar;INSI&rpar;](https://habr.com/ru/companies/innostage/news/838516/?utm_campaign=838516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
