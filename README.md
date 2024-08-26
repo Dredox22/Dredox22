@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux исполнилось 33 года](https://habr.com/ru/news/838506/?utm_campaign=838506&utm_source=habrahabr&utm_medium=rss)
+- [Telegram предложили скрыть число подписчиков каналов для обхода закона о блогерах](https://habr.com/ru/news/838498/?utm_campaign=838498&utm_source=habrahabr&utm_medium=rss)
 - [Стань спикером 10-го SOC Forum – Security Opportunities and Challenges](https://habr.com/ru/companies/solarsecurity/news/838158/?utm_campaign=838158&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на конференцию разработчиков свободных программ в Переславле-Залесском &lpar;состоится 4-6 октября&rpar;](https://habr.com/ru/news/838500/?utm_campaign=838500&utm_source=habrahabr&utm_medium=rss)
 - [В сети появился скрытый майнер под видом клиента YouTube](https://habr.com/ru/news/838488/?utm_campaign=838488&utm_source=habrahabr&utm_medium=rss)
-- [Copilot ложно обвинил судебного репортёра в освещаемых им преступлениях](https://habr.com/ru/news/838484/?utm_campaign=838484&utm_source=habrahabr&utm_medium=rss)
-- [Проект Calculating Empires наглядно показывает изобретения и достижения человечества за 500 лет](https://habr.com/ru/news/838472/?utm_campaign=838472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
