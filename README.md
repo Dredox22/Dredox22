@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование VK и ИТМО: что ИИ-специалисты считают высшей точкой карьеры](https://habr.com/ru/companies/vk/news/838672/?utm_campaign=838672&utm_source=habrahabr&utm_medium=rss)
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/838670/?utm_campaign=838670&utm_source=habrahabr&utm_medium=rss)
+- [Макрон заявил, что решение об аресте основателя Telegram Павла Дурова не является политическим](https://habr.com/ru/news/838668/?utm_campaign=838668&utm_source=habrahabr&utm_medium=rss)
 - [Telegram грозит запрет в Индии за «причастность к преступной деятельности»](https://habr.com/ru/news/838654/?utm_campaign=838654&utm_source=habrahabr&utm_medium=rss)
 - [Французские сайты подверглись волне DDoS-атак после задержания Дурова правоохранительными органами страны](https://habr.com/ru/news/838632/?utm_campaign=838632&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил CatBot — камеру, которая фотографирует бродячих котов на заднем дворе](https://habr.com/ru/news/838616/?utm_campaign=838616&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на вебинар «Как подготовиться к прохождению госконтроля в области защиты КИИ»](https://habr.com/ru/companies/ussc/news/838582/?utm_campaign=838582&utm_source=habrahabr&utm_medium=rss)
-- [«Ведомости»: Telegram интересовал власти ЕС как минимум с весны 2024 года](https://habr.com/ru/news/838520/?utm_campaign=838520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
