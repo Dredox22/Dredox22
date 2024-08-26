@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Calculating Empires наглядно показывает изобретения и достижения человечества за 500 лет](https://habr.com/ru/news/838472/?utm_campaign=838472&utm_source=habrahabr&utm_medium=rss)
 - [Французский суд продлил срок содержания Дурова под стражей ещё на 48 часов](https://habr.com/ru/news/838470/?utm_campaign=838470&utm_source=habrahabr&utm_medium=rss)
 - [Команда Telegram прокомментировала арест Павла Дурова](https://habr.com/ru/news/838444/?utm_campaign=838444&utm_source=habrahabr&utm_medium=rss)
 - [«Известия»: мошенники начали подделывать в Viber вызовы с номера Сбербанка](https://habr.com/ru/news/838442/?utm_campaign=838442&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: российским чиновникам и некоторым крупным бизнесменам РФ пришло поручение удалить служебные переписки в Telegram](https://habr.com/ru/news/838418/?utm_campaign=838418&utm_source=habrahabr&utm_medium=rss)
-- [Прокуратура Парижа не спешит озвучить детали дела задержанного по прилёту во Францию основателя Telegram Павла Дурова](https://habr.com/ru/news/838416/?utm_campaign=838416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
