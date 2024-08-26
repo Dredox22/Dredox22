@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на вебинар «Как подготовиться к прохождению госконтроля в области защиты КИИ»](https://habr.com/ru/companies/ussc/news/838582/?utm_campaign=838582&utm_source=habrahabr&utm_medium=rss)
 - [«Ведомости»: Telegram интересовал власти ЕС как минимум с весны 2024 года](https://habr.com/ru/news/838520/?utm_campaign=838520&utm_source=habrahabr&utm_medium=rss)
 - [Innostage запустила лабораторию тестирования Innostage Network Security and Infrastructure &lpar;INSI&rpar;](https://habr.com/ru/companies/innostage/news/838516/?utm_campaign=838516&utm_source=habrahabr&utm_medium=rss)
 - [Linux исполнилось 33 года](https://habr.com/ru/news/838506/?utm_campaign=838506&utm_source=habrahabr&utm_medium=rss)
 - [Telegram предложили скрыть число подписчиков каналов для обхода закона о блогерах](https://habr.com/ru/news/838498/?utm_campaign=838498&utm_source=habrahabr&utm_medium=rss)
-- [Стань спикером 10-го SOC Forum – Security Opportunities and Challenges](https://habr.com/ru/companies/solarsecurity/news/838158/?utm_campaign=838158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
