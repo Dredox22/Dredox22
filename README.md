@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минфин РФ предложил ввести полный запрет на покупку госорганами и госкомпаниями иностранного ПО и микросхем](https://habr.com/ru/news/838874/?utm_campaign=838874&utm_source=habrahabr&utm_medium=rss)
+- [АРПЭ: импортное оборудование для производства электроники в России подорожало на 40-50%](https://habr.com/ru/news/838860/?utm_campaign=838860&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники под видом службы поддержки Telegram начали предлагать пользователям перенести данные на «безопасный ресурс»](https://habr.com/ru/news/838850/?utm_campaign=838850&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» полностью отказался от 3G в Москве](https://habr.com/ru/news/838838/?utm_campaign=838838&utm_source=habrahabr&utm_medium=rss)
 - [Французские судебные органы продлили срок содержания Дурова под стражей ещё на 48 часов](https://habr.com/ru/news/838826/?utm_campaign=838826&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte и DataYoga запускают образовательный ретрит по FineBI](https://habr.com/ru/companies/glowbyte/news/838808/?utm_campaign=838808&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: Exchange Online ошибочно помечает электронные письма как вредоносы](https://habr.com/ru/news/838780/?utm_campaign=838780&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустит ИИ с «личностью» для роботизированных устройств](https://habr.com/ru/news/838778/?utm_campaign=838778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
