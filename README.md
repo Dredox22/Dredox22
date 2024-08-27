@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI решила нанять технического специалиста по расследованию инсайдерских рисков](https://habr.com/ru/news/838992/?utm_campaign=838992&utm_source=habrahabr&utm_medium=rss)
 - [19 сентября проведем Naumen Java Junior Meetup #2 для начинающих разработчиков](https://habr.com/ru/companies/naumen/news/838880/?utm_campaign=838880&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку закруглённых вкладок в браузере Edge](https://habr.com/ru/news/838964/?utm_campaign=838964&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» запускает лицензирование и техподдержку программного комплекса «Альт Домен»](https://habr.com/ru/companies/basealtspo/news/838938/?utm_campaign=838938&utm_source=habrahabr&utm_medium=rss)
 - [Cкрипт Windows Super God Mode получил обновление с улучшениями опыта использования](https://habr.com/ru/news/838924/?utm_campaign=838924&utm_source=habrahabr&utm_medium=rss)
-- [IBM представила свой процессор Telum II и ИИ-ускоритель Spyre](https://habr.com/ru/companies/dcmiran/news/838902/?utm_campaign=838902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
