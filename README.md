@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram самым скачиваемым приложением во Франции, в консульстве ОАЭ требуют доступ к Дурову после его задержания](https://habr.com/ru/news/838746/?utm_campaign=838746&utm_source=habrahabr&utm_medium=rss)
 - [Инженер представил проект миниатюрного ретро-компьютера на базе Raspberry Pi](https://habr.com/ru/news/838738/?utm_campaign=838738&utm_source=habrahabr&utm_medium=rss)
 - [Прокуратура Франции опубликовала список обвинений в рамках расследования и задержания Дурова](https://habr.com/ru/news/838684/?utm_campaign=838684&utm_source=habrahabr&utm_medium=rss)
 - [Исследование VK и ИТМО: что ИИ-специалисты считают высшей точкой карьеры](https://habr.com/ru/companies/vk/news/838672/?utm_campaign=838672&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/838670/?utm_campaign=838670&utm_source=habrahabr&utm_medium=rss)
-- [Макрон заявил, что решение об аресте основателя Telegram Павла Дурова не является политическим](https://habr.com/ru/news/838668/?utm_campaign=838668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
