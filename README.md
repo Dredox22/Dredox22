@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram самым скачиваемым приложением во Франции, в консульстве ОАЭ требуют доступ к Дурову после его задержания](https://habr.com/ru/news/838746/?utm_campaign=838746&utm_source=habrahabr&utm_medium=rss)
+- [Telegram стал самым скачиваемым приложением во Франции, в консульстве ОАЭ требуют доступ к Дурову после его задержания](https://habr.com/ru/news/838746/?utm_campaign=838746&utm_source=habrahabr&utm_medium=rss)
 - [Инженер представил проект миниатюрного ретро-компьютера на базе Raspberry Pi](https://habr.com/ru/news/838738/?utm_campaign=838738&utm_source=habrahabr&utm_medium=rss)
 - [Прокуратура Франции опубликовала список обвинений в рамках расследования и задержания Дурова](https://habr.com/ru/news/838684/?utm_campaign=838684&utm_source=habrahabr&utm_medium=rss)
 - [Исследование VK и ИТМО: что ИИ-специалисты считают высшей точкой карьеры](https://habr.com/ru/companies/vk/news/838672/?utm_campaign=838672&utm_source=habrahabr&utm_medium=rss)
