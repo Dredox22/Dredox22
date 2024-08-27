@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GlowByte и DataYoga запускают образовательный ретрит по FineBI](https://habr.com/ru/companies/glowbyte/news/838808/?utm_campaign=838808&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: Exchange Online ошибочно помечает электронные письма как вредоносы](https://habr.com/ru/news/838780/?utm_campaign=838780&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустит ИИ с «личностью» для роботизированных устройств](https://habr.com/ru/news/838778/?utm_campaign=838778&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft передумала полностью отказываться от «Панели управления» в Windows](https://habr.com/ru/news/838766/?utm_campaign=838766&utm_source=habrahabr&utm_medium=rss)
 - [Telegram стал самым скачиваемым приложением во Франции, в консульстве ОАЭ требуют доступ к Дурову после его задержания](https://habr.com/ru/news/838746/?utm_campaign=838746&utm_source=habrahabr&utm_medium=rss)
-- [Инженер представил проект миниатюрного ретро-компьютера на базе Raspberry Pi](https://habr.com/ru/news/838738/?utm_campaign=838738&utm_source=habrahabr&utm_medium=rss)
-- [Прокуратура Франции опубликовала список обвинений в рамках расследования и задержания Дурова](https://habr.com/ru/news/838684/?utm_campaign=838684&utm_source=habrahabr&utm_medium=rss)
-- [Исследование VK и ИТМО: что ИИ-специалисты считают высшей точкой карьеры](https://habr.com/ru/companies/vk/news/838672/?utm_campaign=838672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
