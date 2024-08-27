@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитики IEEE Spectrum опубликовали рейтинг языков программирования за 2024 год](https://habr.com/ru/news/839024/?utm_campaign=839024&utm_source=habrahabr&utm_medium=rss)
 - [Команда TON Society сделала мини-приложение с требованием отпустить Дурова](https://habr.com/ru/news/839018/?utm_campaign=839018&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI решила нанять технического специалиста по расследованию инсайдерских рисков](https://habr.com/ru/news/838992/?utm_campaign=838992&utm_source=habrahabr&utm_medium=rss)
 - [19 сентября проведем Naumen Java Junior Meetup #2 для начинающих разработчиков](https://habr.com/ru/companies/naumen/news/838880/?utm_campaign=838880&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку закруглённых вкладок в браузере Edge](https://habr.com/ru/news/838964/?utm_campaign=838964&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» запускает лицензирование и техподдержку программного комплекса «Альт Домен»](https://habr.com/ru/companies/basealtspo/news/838938/?utm_campaign=838938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
