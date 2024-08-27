@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cкрипт Windows Super God Mode получил обновление с улучшениями опыта использования](https://habr.com/ru/news/838924/?utm_campaign=838924&utm_source=habrahabr&utm_medium=rss)
 - [IBM представила свой процессор Telum II и ИИ-ускоритель Spyre](https://habr.com/ru/companies/dcmiran/news/838902/?utm_campaign=838902&utm_source=habrahabr&utm_medium=rss)
 - [Минфин РФ предложил ввести полный запрет на покупку госорганами и госкомпаниями иностранного ПО и микросхем](https://habr.com/ru/news/838874/?utm_campaign=838874&utm_source=habrahabr&utm_medium=rss)
 - [АРПЭ: импортное оборудование для производства электроники в России подорожало на 40-50%](https://habr.com/ru/news/838860/?utm_campaign=838860&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники под видом службы поддержки Telegram начали предлагать пользователям перенести данные на «безопасный ресурс»](https://habr.com/ru/news/838850/?utm_campaign=838850&utm_source=habrahabr&utm_medium=rss)
-- [«Билайн» полностью отказался от 3G в Москве](https://habr.com/ru/news/838838/?utm_campaign=838838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
