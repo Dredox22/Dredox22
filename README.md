@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Билайн» полностью отказался от 3G в Москве](https://habr.com/ru/news/838838/?utm_campaign=838838&utm_source=habrahabr&utm_medium=rss)
+- [Французские судебные органы продлили срок содержания Дурова под стражей ещё на 48 часов](https://habr.com/ru/news/838826/?utm_campaign=838826&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte и DataYoga запускают образовательный ретрит по FineBI](https://habr.com/ru/companies/glowbyte/news/838808/?utm_campaign=838808&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Exchange Online ошибочно помечает электронные письма как вредоносы](https://habr.com/ru/news/838780/?utm_campaign=838780&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустит ИИ с «личностью» для роботизированных устройств](https://habr.com/ru/news/838778/?utm_campaign=838778&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft передумала полностью отказываться от «Панели управления» в Windows](https://habr.com/ru/news/838766/?utm_campaign=838766&utm_source=habrahabr&utm_medium=rss)
-- [Telegram стал самым скачиваемым приложением во Франции, в консульстве ОАЭ требуют доступ к Дурову после его задержания](https://habr.com/ru/news/838746/?utm_campaign=838746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
