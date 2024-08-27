@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» опубликовала рекомендации по безопасной работе в Telegram после задержания Павла Дурова](https://habr.com/ru/news/839056/?utm_campaign=839056&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** позволит добавлять текст к фотографиям прямо из редактора постов](https://habr.com/ru/news/839040/?utm_campaign=839040&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных курсов и мастер-классов, которые стоит пройти в сентябре](https://habr.com/ru/companies/netologyru/news/838642/?utm_campaign=838642&utm_source=habrahabr&utm_medium=rss)
 - [Аналитики IEEE Spectrum опубликовали рейтинг языков программирования за 2024 год](https://habr.com/ru/news/839024/?utm_campaign=839024&utm_source=habrahabr&utm_medium=rss)
 - [Команда TON Society сделала мини-приложение с требованием отпустить Дурова](https://habr.com/ru/news/839018/?utm_campaign=839018&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI решила нанять технического специалиста по расследованию инсайдерских рисков](https://habr.com/ru/news/838992/?utm_campaign=838992&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
