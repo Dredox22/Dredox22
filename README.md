@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка LED Экрана с управлением через Node-Red просто и понятно](https://habr.com/ru/news/839328/?utm_campaign=839328&utm_source=habrahabr&utm_medium=rss)
 - [Apple добавила возможность перенести плейлисты Apple Music в YouTube Music](https://habr.com/ru/news/839324/?utm_campaign=839324&utm_source=habrahabr&utm_medium=rss)
 - [Приложение для оптимизации Windows 11 xd-AntiSpy получило новую панель управления и магазин плагинов](https://habr.com/ru/news/839314/?utm_campaign=839314&utm_source=habrahabr&utm_medium=rss)
-- [Дурова освободили из-под стражи с целью первичного допроса и возможного предъявления обвинений](https://habr.com/ru/news/838914/?utm_campaign=838914&utm_source=habrahabr&utm_medium=rss)
+- [upd: Павел Дуров освобождён из-под стражи в зале суда, далее суд и вердикт](https://habr.com/ru/news/838914/?utm_campaign=838914&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Франция выдала ордер на арест Николая Дурова, разработчика и брата главы Telegram, за отказ сотрудничать с полицией](https://habr.com/ru/news/839300/?utm_campaign=839300&utm_source=habrahabr&utm_medium=rss)
-- [«Сферум» представил обновления к приближающемуся учебному году](https://habr.com/ru/news/839294/?utm_campaign=839294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
