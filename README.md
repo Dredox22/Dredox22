@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сферум» представил обновления к приближающемуся учебному году](https://habr.com/ru/news/839294/?utm_campaign=839294&utm_source=habrahabr&utm_medium=rss)
+- [VK WorkSpace открыла доступ к API для резервного копирования данных](https://habr.com/ru/news/839286/?utm_campaign=839286&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft передала разработку проекта Mono в руки сообщества Wine](https://habr.com/ru/news/839264/?utm_campaign=839264&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики раскрыли детали работы распашных дверей электромобиля «Атом»](https://habr.com/ru/news/839240/?utm_campaign=839240&utm_source=habrahabr&utm_medium=rss)
 - [Что такое Open Source AI: новая версия определения OSI](https://habr.com/ru/companies/flant/news/839234/?utm_campaign=839234&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: LLM не могут справиться с подсчётом букв «r» в слове «strawberry»](https://habr.com/ru/news/839116/?utm_campaign=839116&utm_source=habrahabr&utm_medium=rss)
-- [Релиз офисного пакета Calligra 4.0 &lpar;бывший KOffice&rpar; от проекта KDE](https://habr.com/ru/news/839124/?utm_campaign=839124&utm_source=habrahabr&utm_medium=rss)
-- [Google Messages позволит отправлять медиафайлы оригинального качества в чатах RCS](https://habr.com/ru/news/839104/?utm_campaign=839104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
