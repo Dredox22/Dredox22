@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Дурова доставили из СИЗО в суд Парижа, французские судебные органы решают его судьбу](https://habr.com/ru/news/838914/?utm_campaign=838914&utm_source=habrahabr&utm_medium=rss)
+- [Apple добавила возможность перенести плейлисты Apple Music в YouTube Music](https://habr.com/ru/news/839324/?utm_campaign=839324&utm_source=habrahabr&utm_medium=rss)
+- [Приложение для оптимизации Windows 11 xd-AntiSpy получило новую панель управления и магазин плагинов](https://habr.com/ru/news/839314/?utm_campaign=839314&utm_source=habrahabr&utm_medium=rss)
+- [Дурова освободили из-под стражи с целью первичного допроса и возможного предъявления обвинений](https://habr.com/ru/news/838914/?utm_campaign=838914&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Франция выдала ордер на арест Николая Дурова, разработчика и брата главы Telegram, за отказ сотрудничать с полицией](https://habr.com/ru/news/839300/?utm_campaign=839300&utm_source=habrahabr&utm_medium=rss)
 - [«Сферум» представил обновления к приближающемуся учебному году](https://habr.com/ru/news/839294/?utm_campaign=839294&utm_source=habrahabr&utm_medium=rss)
-- [VK WorkSpace открыла доступ к API для резервного копирования данных](https://habr.com/ru/news/839286/?utm_campaign=839286&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft передала разработку проекта Mono в руки сообщества Wine](https://habr.com/ru/news/839264/?utm_campaign=839264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
