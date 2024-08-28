@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [StatCounter: доля десктопной версии Linux в августе 2024 года впервые превысила 4,5%](https://habr.com/ru/news/839086/?utm_campaign=839086&utm_source=habrahabr&utm_medium=rss)
 - [VK и ИТМО опубликовали первое исследование ML-сообщества России](https://habr.com/ru/news/839082/?utm_campaign=839082&utm_source=habrahabr&utm_medium=rss)
 - [Meta* закрывает Spark AR — платформу для создания AR-масок и фильтров](https://habr.com/ru/news/839080/?utm_campaign=839080&utm_source=habrahabr&utm_medium=rss)
 - [Инженер представил «третий глаз» на Raspberry Pi — камеру, которая помогает слабовидящим ориентироваться в пространстве](https://habr.com/ru/news/839078/?utm_campaign=839078&utm_source=habrahabr&utm_medium=rss)
 - [Вероятно утекли сведения о лицах, пересекавших границу России](https://habr.com/ru/news/839076/?utm_campaign=839076&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на Usetech Mobile Meetup #2](https://habr.com/ru/companies/usetech/news/838994/?utm_campaign=838994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
