@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Раскрыты детали судебного надзора, под который помещён основатель Telegram Павел Дуров во Франции](https://habr.com/ru/news/839614/?utm_campaign=839614&utm_source=habrahabr&utm_medium=rss)
+- [Turn10 Studios запускает программу Forza Insiders с ранним доступом к обновлениям Forza Motorsport](https://habr.com/ru/news/839600/?utm_campaign=839600&utm_source=habrahabr&utm_medium=rss)
 - [К2 НейроТех — новый бренд на рынке суперкомпьютеров России](https://habr.com/ru/companies/k2tech/news/839586/?utm_campaign=839586&utm_source=habrahabr&utm_medium=rss)
 - [ТАСС и Mash: офис Telegram в Дубае закрыт и не используется сотрудниками](https://habr.com/ru/news/839560/?utm_campaign=839560&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rspack 1.0 — упаковщика JavaScript следующего поколения, написанного на Rust и совместимого с Webpack](https://habr.com/ru/news/839548/?utm_campaign=839548&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Безопасность веб-приложений: от потребности до запуска в проде PT Cloud Application Firewall»](https://habr.com/ru/companies/nubes/news/839552/?utm_campaign=839552&utm_source=habrahabr&utm_medium=rss)
-- [Amplicode – конвейер для Spring-приложений прямо в IntelliJ IDEA](https://habr.com/ru/companies/haulmont/news/839536/?utm_campaign=839536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
