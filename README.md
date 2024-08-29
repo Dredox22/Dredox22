@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Bubble Tea 1.0 — Go-фреймворка на основе архитектуры Elm для быстрого создания консольных приложений](https://habr.com/ru/news/839518/?utm_campaign=839518&utm_source=habrahabr&utm_medium=rss)
 - [Росавиация предложила рассмотреть возможность производить беспилотники в «дружественных» странах](https://habr.com/ru/news/839502/?utm_campaign=839502&utm_source=habrahabr&utm_medium=rss)
 - [Сборник Tetris Forever выйдет на ПК, Nintendo Switch и других платформах в конце этого года](https://habr.com/ru/news/839486/?utm_campaign=839486&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс разработал нейросеть на основе YandexGPT, которая в шесть раз точнее создаёт описания локаций в Картах](https://habr.com/ru/companies/yandex/news/839166/?utm_campaign=839166&utm_source=habrahabr&utm_medium=rss)
 - [VK объединила видеоконтент платформ «VK Видео», «Дзен» и «ОК.Видео» в едином хранилище на основе собственной разработки](https://habr.com/ru/news/839448/?utm_campaign=839448&utm_source=habrahabr&utm_medium=rss)
-- [OpenTofu удалил российских провайдеров: реакция сообщества](https://habr.com/ru/companies/flant/news/839442/?utm_campaign=839442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
