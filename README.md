@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu удалил российских провайдеров из списка: реакция сообщества](https://habr.com/ru/companies/flant/news/839442/?utm_campaign=839442&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс разработал нейросеть на основе YandexGPT, которая в шесть раз точнее создаёт описания локаций в Картах](https://habr.com/ru/companies/yandex/news/839166/?utm_campaign=839166&utm_source=habrahabr&utm_medium=rss)
+- [VK объединила видеоконтент платформ «VK Видео», «Дзен» и «ОК.Видео» в едином хранилище на основе собственной разработки](https://habr.com/ru/news/839448/?utm_campaign=839448&utm_source=habrahabr&utm_medium=rss)
+- [OpenTofu удалил российских провайдеров: реакция сообщества](https://habr.com/ru/companies/flant/news/839442/?utm_campaign=839442&utm_source=habrahabr&utm_medium=rss)
 - [Платформа LinkedIn мигрировала с CentOS на Azure Linux &lpar;бывший проект CBL-Mariner&rpar;](https://habr.com/ru/news/839438/?utm_campaign=839438&utm_source=habrahabr&utm_medium=rss)
 - [ЕК начала «техническое расследование» против Telegram](https://habr.com/ru/news/839430/?utm_campaign=839430&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Wireshark 4.4.0](https://habr.com/ru/news/839426/?utm_campaign=839426&utm_source=habrahabr&utm_medium=rss)
-- [Меню «Пуск» в Windows 11 получило новую компоновку и улучшения](https://habr.com/ru/news/839424/?utm_campaign=839424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
