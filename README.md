@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЕК начала «техническое расследование» против Telegram](https://habr.com/ru/news/839430/?utm_campaign=839430&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Wireshark 4.4.0](https://habr.com/ru/news/839426/?utm_campaign=839426&utm_source=habrahabr&utm_medium=rss)
+- [Меню «Пуск» в Windows 11 получило новую компоновку и улучшения](https://habr.com/ru/news/839424/?utm_campaign=839424&utm_source=habrahabr&utm_medium=rss)
+- [Google увеличила вознаграждение за обнаружение уязвимостей в Chrome до $250 тысяч](https://habr.com/ru/news/839420/?utm_campaign=839420&utm_source=habrahabr&utm_medium=rss)
 - [Адвокат Павла Дурова назвал абсурдными обвинения в его адрес в причастности к преступлениям, совершенным через Telegram](https://habr.com/ru/news/839354/?utm_campaign=839354&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic открыла доступ к функции Artifacts](https://habr.com/ru/news/839408/?utm_campaign=839408&utm_source=habrahabr&utm_medium=rss)
-- [Операторов связи в РФ предостерегли от «ускорения» YouTube](https://habr.com/ru/news/839388/?utm_campaign=839388&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» открыла офис в Колумбии](https://habr.com/ru/news/839370/?utm_campaign=839370&utm_source=habrahabr&utm_medium=rss)
-- [Проект OpenTofu заблокировал доступ к реестру с российских IP и удалил провайдеры российских облачных сервисов](https://habr.com/ru/news/839336/?utm_campaign=839336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
