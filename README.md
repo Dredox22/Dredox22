@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Адвокат Павла Дурова назвал абсурдными обвинения в его адрес в причастности к преступлениям, совершенным через Telegram](https://habr.com/ru/news/839354/?utm_campaign=839354&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic открыла доступ к функции Artifacts](https://habr.com/ru/news/839408/?utm_campaign=839408&utm_source=habrahabr&utm_medium=rss)
 - [Операторов связи в РФ предостерегли от «ускорения» YouTube](https://habr.com/ru/news/839388/?utm_campaign=839388&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» открыла офис в Колумбии](https://habr.com/ru/news/839370/?utm_campaign=839370&utm_source=habrahabr&utm_medium=rss)
 - [Проект OpenTofu заблокировал доступ к реестру с российских IP и удалил провайдеры российских облачных сервисов](https://habr.com/ru/news/839336/?utm_campaign=839336&utm_source=habrahabr&utm_medium=rss)
-- [Разработка LED Экрана с управлением через Node-Red просто и понятно](https://habr.com/ru/news/839328/?utm_campaign=839328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
