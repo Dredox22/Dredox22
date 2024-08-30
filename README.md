@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сообщество HDMI Forum отклонило драйвер AMD HDMI 2.1 с открытым исходным кодом](https://habr.com/ru/news/839722/?utm_campaign=839722&utm_source=habrahabr&utm_medium=rss)
 - [В «Ъ» подтвердили, что РКН потребовал от операторов связи перестать искажать интернет-трафик для антизамедления YouTube](https://habr.com/ru/news/839708/?utm_campaign=839708&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Google представили игровой нейродвижок, который покадрово генерирует Doom](https://habr.com/ru/news/839700/?utm_campaign=839700&utm_source=habrahabr&utm_medium=rss)
 - [Google Play теперь позволяет загружать и обновлять три приложения одновременно](https://habr.com/ru/news/839674/?utm_campaign=839674&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GNU Screen 5.0](https://habr.com/ru/news/839670/?utm_campaign=839670&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыты детали судебного надзора, под который помещён основатель Telegram Павел Дуров во Франции](https://habr.com/ru/news/839614/?utm_campaign=839614&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
