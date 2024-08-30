@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ограничение оперативной памяти в Edge в Windows 11 переманивает нас с Chrome?](https://habr.com/ru/news/839894/?utm_campaign=839894&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик рассказал об опыте деминификации чужого кода с помощью GPT — нейросеть справилась с задачей](https://habr.com/ru/news/839826/?utm_campaign=839826&utm_source=habrahabr&utm_medium=rss)
 - [Чистая прибыль Dell выросла на 85% благодаря ИИ-технологиям](https://habr.com/ru/companies/dcmiran/news/839808/?utm_campaign=839808&utm_source=habrahabr&utm_medium=rss)
 - [В KDE Plasma разработчики добавили ежегодное всплывающее уведомление с запросом пожертвований на развитие проекта](https://habr.com/ru/news/839796/?utm_campaign=839796&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Карты» начали показывать загруженность организаций](https://habr.com/ru/news/839794/?utm_campaign=839794&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс опубликовал программу ежегодной конференции Practical ML Conf](https://habr.com/ru/companies/yandex/news/839162/?utm_campaign=839162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
