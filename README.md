@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Financial Times: Telegram за 2023 год получил выручку в размере $342 млн, но ушёл в убыток после уплаты налогов](https://habr.com/ru/news/839912/?utm_campaign=839912&utm_source=habrahabr&utm_medium=rss)
 - [Ограничение оперативной памяти в Edge в Windows 11 переманивает нас с Chrome?](https://habr.com/ru/news/839894/?utm_campaign=839894&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик рассказал об опыте деминификации чужого кода с помощью GPT — нейросеть справилась с задачей](https://habr.com/ru/news/839826/?utm_campaign=839826&utm_source=habrahabr&utm_medium=rss)
 - [Чистая прибыль Dell выросла на 85% благодаря ИИ-технологиям](https://habr.com/ru/companies/dcmiran/news/839808/?utm_campaign=839808&utm_source=habrahabr&utm_medium=rss)
 - [В KDE Plasma разработчики добавили ежегодное всплывающее уведомление с запросом пожертвований на развитие проекта](https://habr.com/ru/news/839796/?utm_campaign=839796&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» начали показывать загруженность организаций](https://habr.com/ru/news/839794/?utm_campaign=839794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
