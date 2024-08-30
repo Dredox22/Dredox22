@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс опубликовал программу ежегодной конференции Practical ML Conf](https://habr.com/ru/companies/yandex/news/839162/?utm_campaign=839162&utm_source=habrahabr&utm_medium=rss)
+- [Tumblr перенесёт полмиллиарда своих блогов на WordPress](https://habr.com/ru/news/839746/?utm_campaign=839746&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Vivaldi 6.9](https://habr.com/ru/news/839738/?utm_campaign=839738&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft рассказала о первом ИИ-чипе Maia 100](https://habr.com/ru/news/839734/?utm_campaign=839734&utm_source=habrahabr&utm_medium=rss)
 - [Основатель швейцарской компании Proton Энди Йен заявил, что владельцам стартапов и IT-компаний опасно посещать Францию](https://habr.com/ru/news/839736/?utm_campaign=839736&utm_source=habrahabr&utm_medium=rss)
-- [Сообщество HDMI Forum отклонило драйвер AMD HDMI 2.1 с открытым исходным кодом](https://habr.com/ru/news/839722/?utm_campaign=839722&utm_source=habrahabr&utm_medium=rss)
-- [В «Ъ» подтвердили, что РКН потребовал от операторов связи перестать искажать интернет-трафик для антизамедления YouTube](https://habr.com/ru/news/839708/?utm_campaign=839708&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Google представили игровой нейродвижок, который покадрово генерирует Doom](https://habr.com/ru/news/839700/?utm_campaign=839700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
