@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Провайдеры Бразилии начали глобальную блокировку X &lpar;Twitter&rpar; в стране, пользователи прощаются с X](https://habr.com/ru/news/840010/?utm_campaign=840010&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Дуров на допросе в Париже заявил, что поддерживал связи с представителями контрразведки Франции](https://habr.com/ru/news/840008/?utm_campaign=840008&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пытается уменьшить беспорядок на рабочем столе Windows 11](https://habr.com/ru/news/839986/?utm_campaign=839986&utm_source=habrahabr&utm_medium=rss)
 - [Спидраннер EIM64 поставил новый рекорд скоростного прохождения уровня Installation &lpar;E2M1&rpar; в Quake — 6,99 секунды](https://habr.com/ru/news/839972/?utm_campaign=839972&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike ухудшила прогноз по выручке и прибыли после глобального сбоя у клиентов](https://habr.com/ru/news/839926/?utm_campaign=839926&utm_source=habrahabr&utm_medium=rss)
-- [Financial Times: Telegram за 2023 год получил выручку в размере $342 млн, но ушёл в убыток после уплаты налогов](https://habr.com/ru/news/839912/?utm_campaign=839912&utm_source=habrahabr&utm_medium=rss)
-- [Ограничение оперативной памяти в Edge в Windows 11 переманивает нас с Chrome?](https://habr.com/ru/news/839894/?utm_campaign=839894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
