@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Спидраннер EIM64 поставил новый рекорд скоростного прохождения уровня Installation &lpar;E2M1&rpar; в Quake — 6,99 секунды](https://habr.com/ru/news/839972/?utm_campaign=839972&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike ухудшила прогноз по выручке и прибыли после глобального сбоя у клиентов](https://habr.com/ru/news/839926/?utm_campaign=839926&utm_source=habrahabr&utm_medium=rss)
 - [Financial Times: Telegram за 2023 год получил выручку в размере $342 млн, но ушёл в убыток после уплаты налогов](https://habr.com/ru/news/839912/?utm_campaign=839912&utm_source=habrahabr&utm_medium=rss)
 - [Ограничение оперативной памяти в Edge в Windows 11 переманивает нас с Chrome?](https://habr.com/ru/news/839894/?utm_campaign=839894&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик рассказал об опыте деминификации чужого кода с помощью GPT — нейросеть справилась с задачей](https://habr.com/ru/news/839826/?utm_campaign=839826&utm_source=habrahabr&utm_medium=rss)
-- [Чистая прибыль Dell выросла на 85% благодаря ИИ-технологиям](https://habr.com/ru/companies/dcmiran/news/839808/?utm_campaign=839808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
