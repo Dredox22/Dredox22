@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres Professional проведёт 9 октября конференцию PGConf.Academy 2024 для преподавателей PostgreSQL](https://habr.com/ru/news/840048/?utm_campaign=840048&utm_source=habrahabr&utm_medium=rss)
 - [Институт безопасности искусственного интеллекта США получит ранний доступ к новым моделям от OpenAI и Anthropic](https://habr.com/ru/news/840032/?utm_campaign=840032&utm_source=habrahabr&utm_medium=rss)
 - [Крупные интернет-ресурсы запретили Apple собирать их данные для обучения Apple Intelligence](https://habr.com/ru/news/840020/?utm_campaign=840020&utm_source=habrahabr&utm_medium=rss)
 - [Провайдеры Бразилии начали глобальную блокировку X &lpar;Twitter&rpar; в стране, пользователи прощаются с X](https://habr.com/ru/news/840010/?utm_campaign=840010&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Дуров на допросе в Париже заявил, что поддерживал связи с представителями контрразведки Франции](https://habr.com/ru/news/840008/?utm_campaign=840008&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пытается уменьшить беспорядок на рабочем столе Windows 11](https://habr.com/ru/news/839986/?utm_campaign=839986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
