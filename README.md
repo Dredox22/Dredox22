@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Появились первые фотографии основателя Telegram Дурова после четырёх суток СИЗО во Франции](https://habr.com/ru/news/840168/?utm_campaign=840168&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Техаса потратит $5,3 млн на инструмент с технологией геозонирования](https://habr.com/ru/news/840164/?utm_campaign=840164&utm_source=habrahabr&utm_medium=rss)
 - [Mastercard решила отказаться от паролей и кодов подтверждения и перейти на биометрическую аутентификацию](https://habr.com/ru/news/840154/?utm_campaign=840154&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» поздравил с Днём знаний на главной странице ya.ru с помощью школьной доски с рисунками, правилами и примерами](https://habr.com/ru/news/840140/?utm_campaign=840140&utm_source=habrahabr&utm_medium=rss)
 - [Tesla представит Robotaxi 10 октября](https://habr.com/ru/news/840134/?utm_campaign=840134&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft позволит удалить ИИ-функцию Recall из Windows 11](https://habr.com/ru/news/840096/?utm_campaign=840096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
