@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla представит Robotaxi 10 октября](https://habr.com/ru/news/840134/?utm_campaign=840134&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволит удалить ИИ-функцию Recall из Windows 11](https://habr.com/ru/news/840096/?utm_campaign=840096&utm_source=habrahabr&utm_medium=rss)
 - [Компания 1X представила реалистичного робота NEO для помощи в домашних задачах](https://habr.com/ru/news/840090/?utm_campaign=840090&utm_source=habrahabr&utm_medium=rss)
 - [Postgres Professional проведёт 9 октября конференцию PGConf.Academy 2024 для преподавателей PostgreSQL](https://habr.com/ru/news/840048/?utm_campaign=840048&utm_source=habrahabr&utm_medium=rss)
 - [Институт безопасности искусственного интеллекта США получит ранний доступ к новым моделям от OpenAI и Anthropic](https://habr.com/ru/news/840032/?utm_campaign=840032&utm_source=habrahabr&utm_medium=rss)
-- [Крупные интернет-ресурсы запретили Apple собирать их данные для обучения Apple Intelligence](https://habr.com/ru/news/840020/?utm_campaign=840020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
