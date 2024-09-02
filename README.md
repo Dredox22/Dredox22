@@ -71,7 +71,7 @@
 - [Новый запуск курса Natural Language Processing](https://habr.com/ru/companies/ru_mts/news/839476/?utm_campaign=839476&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор уточнил статью КоАП РФ, по которой операторы связи могут быть наказаны за искажение интернет-трафика](https://habr.com/ru/news/840290/?utm_campaign=840290&utm_source=habrahabr&utm_medium=rss)
 - [Softline: Microsoft начала плановое отключение облачных подписок, попавших под ограничения, для компаний из РФ](https://habr.com/ru/news/840276/?utm_campaign=840276&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики эмуляторов EmuDeck выпустили консоль EmuDeck Machines](https://habr.com/ru/news/840250/?utm_campaign=840250&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики эмуляторов EmuDeck выпустят консоль EmuDeck Machines](https://habr.com/ru/news/840250/?utm_campaign=840250&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ начнёт замораживать работу приложения при подозрении на мошенничество](https://habr.com/ru/news/840252/?utm_campaign=840252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
