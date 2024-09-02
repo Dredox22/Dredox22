@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ВТБ начнёт замораживать работу приложения при подозрении на мошенничество](https://habr.com/ru/news/840252/?utm_campaign=840252&utm_source=habrahabr&utm_medium=rss)
+- [Комментарии GitHub стали применять для распространения вредоноса Lumma Stealer](https://habr.com/ru/news/840238/?utm_campaign=840238&utm_source=habrahabr&utm_medium=rss)
+- [Южная Корея открыла расследование в отношении Telegram](https://habr.com/ru/news/840230/?utm_campaign=840230&utm_source=habrahabr&utm_medium=rss)
+- [55% Python-разработчиков используют Linux-окружение и 22% — редактор Visual Studio Code](https://habr.com/ru/news/840224/?utm_campaign=840224&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отказала сообществу Feedback Hub в создании официального очистителя реестра Windows 11](https://habr.com/ru/news/840212/?utm_campaign=840212&utm_source=habrahabr&utm_medium=rss)
-- [Starliner на МКС начал издавать повторяющийся «пульсирующий» звук из динамика](https://habr.com/ru/news/840204/?utm_campaign=840204&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft переименовала приложение Remote Desktop в Windows App для Mac, iPhone и iPad, создав путаницу у пользователей](https://habr.com/ru/news/840198/?utm_campaign=840198&utm_source=habrahabr&utm_medium=rss)
-- [Банк России объявил о начале второго этапа пилотирования цифрового рубля](https://habr.com/ru/news/840180/?utm_campaign=840180&utm_source=habrahabr&utm_medium=rss)
-- [Появились первые фотографии основателя Telegram Дурова после четырёх суток СИЗО во Франции](https://habr.com/ru/news/840168/?utm_campaign=840168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
