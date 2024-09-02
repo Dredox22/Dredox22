@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отказала сообществу Feedback Hub в создании официального очистителя реестра Windows 11](https://habr.com/ru/news/840212/?utm_campaign=840212&utm_source=habrahabr&utm_medium=rss)
 - [Starliner на МКС начал издавать повторяющийся «пульсирующий» звук из динамика](https://habr.com/ru/news/840204/?utm_campaign=840204&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft переименовала приложение Remote Desktop в Windows App для Mac, iPhone и iPad, создав путаницу у пользователей](https://habr.com/ru/news/840198/?utm_campaign=840198&utm_source=habrahabr&utm_medium=rss)
 - [Банк России объявил о начале второго этапа пилотирования цифрового рубля](https://habr.com/ru/news/840180/?utm_campaign=840180&utm_source=habrahabr&utm_medium=rss)
 - [Появились первые фотографии основателя Telegram Дурова после четырёх суток СИЗО во Франции](https://habr.com/ru/news/840168/?utm_campaign=840168&utm_source=habrahabr&utm_medium=rss)
-- [Полиция Техаса потратит $5,3 млн на инструмент с технологией геозонирования](https://habr.com/ru/news/840164/?utm_campaign=840164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
