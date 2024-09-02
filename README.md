@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft переименовала приложение Remote Desktop в Windows App для Mac, iPhone и iPad, создав путаницу у пользователей](https://habr.com/ru/news/840198/?utm_campaign=840198&utm_source=habrahabr&utm_medium=rss)
 - [Банк России объявил о начале второго этапа пилотирования цифрового рубля](https://habr.com/ru/news/840180/?utm_campaign=840180&utm_source=habrahabr&utm_medium=rss)
 - [Появились первые фотографии основателя Telegram Дурова после четырёх суток СИЗО во Франции](https://habr.com/ru/news/840168/?utm_campaign=840168&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Техаса потратит $5,3 млн на инструмент с технологией геозонирования](https://habr.com/ru/news/840164/?utm_campaign=840164&utm_source=habrahabr&utm_medium=rss)
 - [Mastercard решила отказаться от паролей и кодов подтверждения и перейти на биометрическую аутентификацию](https://habr.com/ru/news/840154/?utm_campaign=840154&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» поздравил с Днём знаний на главной странице ya.ru с помощью школьной доски с рисунками, правилами и примерами](https://habr.com/ru/news/840140/?utm_campaign=840140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
