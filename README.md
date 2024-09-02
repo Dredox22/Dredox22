@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В НАСА выяснили причину повторяющегося «пульсирующего» звука из динамика Starliner на МКС, который уже прекратился](https://habr.com/ru/news/840382/?utm_campaign=840382&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» перевёл выпуск банковских карт на собственную платформу на базе Platform V DataGrid](https://habr.com/ru/news/840380/?utm_campaign=840380&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты проанализировали информацию от Financial Times по финансовому отчёту Telegram за 2023 год](https://habr.com/ru/news/840354/?utm_campaign=840354&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/840350/?utm_campaign=840350&utm_source=habrahabr&utm_medium=rss)
 - [Новый запуск курса Natural Language Processing](https://habr.com/ru/companies/ru_mts/news/839476/?utm_campaign=839476&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор уточнил статью КоАП РФ, по которой операторы связи могут быть наказаны за искажение интернет-трафика](https://habr.com/ru/news/840290/?utm_campaign=840290&utm_source=habrahabr&utm_medium=rss)
-- [Softline: Microsoft начала плановое отключение облачных подписок, попавших под ограничения, для компаний из РФ](https://habr.com/ru/news/840276/?utm_campaign=840276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
