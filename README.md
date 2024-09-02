@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Регулятор уточнил статью КоАП РФ, по которой операторы связи могут быть наказаны за искажение интернет-трафика](https://habr.com/ru/news/840290/?utm_campaign=840290&utm_source=habrahabr&utm_medium=rss)
 - [Softline: Microsoft начала плановое отключение облачных подписок, попавших под ограничения, для компаний из РФ](https://habr.com/ru/news/840276/?utm_campaign=840276&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики эмуляторов EmuDeck выпустили консоль EmuDeck Machines](https://habr.com/ru/news/840250/?utm_campaign=840250&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ начнёт замораживать работу приложения при подозрении на мошенничество](https://habr.com/ru/news/840252/?utm_campaign=840252&utm_source=habrahabr&utm_medium=rss)
 - [Комментарии GitHub стали применять для распространения вредоноса Lumma Stealer](https://habr.com/ru/news/840238/?utm_campaign=840238&utm_source=habrahabr&utm_medium=rss)
-- [Южная Корея открыла расследование в отношении Telegram](https://habr.com/ru/news/840230/?utm_campaign=840230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
