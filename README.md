@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple работает над дешёвой клавиатурой Magic Keyboard для iPad](https://habr.com/ru/news/840428/?utm_campaign=840428&utm_source=habrahabr&utm_medium=rss)
+- [Коллегия Верховного суда Бразилии поддержала запрет X &lpar;Twitter&rpar; в стране, Starlink отказывается подчиняться регулятору](https://habr.com/ru/news/840426/?utm_campaign=840426&utm_source=habrahabr&utm_medium=rss)
 - [404 Media: Instagram** в рекламных целях прослушивает каждого пользователя, признался один из партнёров соцсети](https://habr.com/ru/news/840424/?utm_campaign=840424&utm_source=habrahabr&utm_medium=rss)
 - [В НАСА выяснили причину повторяющегося «пульсирующего» звука из динамика Starliner на МКС, который уже прекратился](https://habr.com/ru/news/840382/?utm_campaign=840382&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» перевёл выпуск банковских карт на собственную платформу на базе Platform V DataGrid](https://habr.com/ru/news/840380/?utm_campaign=840380&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты проанализировали информацию от Financial Times по финансовому отчёту Telegram за 2023 год](https://habr.com/ru/news/840354/?utm_campaign=840354&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/840350/?utm_campaign=840350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
