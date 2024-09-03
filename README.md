@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple работает над дешёвой клавиатурой Magic Keyboard для iPad](https://habr.com/ru/news/840428/?utm_campaign=840428&utm_source=habrahabr&utm_medium=rss)
-- [Коллегия Верховного суда Бразилии поддержала запрет X &lpar;Twitter&rpar; в стране, Starlink отказывается подчиняться регулятору](https://habr.com/ru/news/840426/?utm_campaign=840426&utm_source=habrahabr&utm_medium=rss)
-- [404 Media: Instagram** в рекламных целях прослушивает каждого пользователя, признался один из партнёров соцсети](https://habr.com/ru/news/840424/?utm_campaign=840424&utm_source=habrahabr&utm_medium=rss)
-- [В НАСА выяснили причину повторяющегося «пульсирующего» звука из динамика Starliner на МКС, который уже прекратился](https://habr.com/ru/news/840382/?utm_campaign=840382&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» перевёл выпуск банковских карт на собственную платформу на базе Platform V DataGrid](https://habr.com/ru/news/840380/?utm_campaign=840380&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: расследование материалов дела против основателя Telegram Дурова во Франции может продлиться несколько месяцев](https://habr.com/ru/news/840442/?utm_campaign=840442&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправит «Диспетчер учётных записей» в Windows 11](https://habr.com/ru/news/840434/?utm_campaign=840434&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик обнаружил UI-баг в двоичном калькуляторе macOS](https://habr.com/ru/news/840438/?utm_campaign=840438&utm_source=habrahabr&utm_medium=rss)
+- [Google Play Store скоро будет автоматически открывать приложения после установки](https://habr.com/ru/news/840432/?utm_campaign=840432&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft назвала багом опцию удаления Recall на Windows 11](https://habr.com/ru/news/840430/?utm_campaign=840430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
