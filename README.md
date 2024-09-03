@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Транспортное управление Лондона расследует продолжающуюся кибератаку на IT-системы](https://habr.com/ru/news/840456/?utm_campaign=840456&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Firefox 130.0](https://habr.com/ru/news/840450/?utm_campaign=840450&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: расследование материалов дела против основателя Telegram Дурова во Франции может продлиться несколько месяцев](https://habr.com/ru/news/840442/?utm_campaign=840442&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправит «Диспетчер учётных записей» в Windows 11](https://habr.com/ru/news/840434/?utm_campaign=840434&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик обнаружил UI-баг в двоичном калькуляторе macOS](https://habr.com/ru/news/840438/?utm_campaign=840438&utm_source=habrahabr&utm_medium=rss)
-- [Google Play Store скоро будет автоматически открывать приложения после установки](https://habr.com/ru/news/840432/?utm_campaign=840432&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft назвала багом опцию удаления Recall на Windows 11](https://habr.com/ru/news/840430/?utm_campaign=840430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
