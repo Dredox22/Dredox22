@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker-OSX удалили с Docker Hub после жалобы Apple](https://habr.com/ru/news/840642/?utm_campaign=840642&utm_source=habrahabr&utm_medium=rss)
 - [Samsung и SK hynix значительно увеличивают производство DRAM-памяти](https://habr.com/ru/companies/dcmiran/news/840578/?utm_campaign=840578&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появится возможность поиска определённых фрагментов в локальных видео- и аудиофайлах](https://habr.com/ru/news/840544/?utm_campaign=840544&utm_source=habrahabr&utm_medium=rss)
 - [Игрок добрался до края карты в Minecraft в «Далёкие земли», потратив несколько лет жизни на этот поход](https://habr.com/ru/news/840536/?utm_campaign=840536&utm_source=habrahabr&utm_medium=rss)
 - [Команда Rust для Linux терпит поражение в сражении с разработчиками на С, её лидер ушёл из-за «нетехнической ерунды»](https://habr.com/ru/news/840520/?utm_campaign=840520&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг объявил конкурс на разработку станка для нарезания заготовок из кремниевых пластин](https://habr.com/ru/news/840534/?utm_campaign=840534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
