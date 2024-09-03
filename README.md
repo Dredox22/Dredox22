@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На BreachForums утекли данные более 390 млн. пользователей VK](https://habr.com/ru/news/840674/?utm_campaign=840674&utm_source=habrahabr&utm_medium=rss)
+- [На BreachForums утекли данные более 390 млн. профилей VK](https://habr.com/ru/news/840674/?utm_campaign=840674&utm_source=habrahabr&utm_medium=rss)
 - [Sony решила закрыть проект шутера Concord за $200 млн спустя две недели после провального релиза](https://habr.com/ru/news/840658/?utm_campaign=840658&utm_source=habrahabr&utm_medium=rss)
 - [Docker-OSX удалили с Docker Hub после жалобы Apple](https://habr.com/ru/news/840642/?utm_campaign=840642&utm_source=habrahabr&utm_medium=rss)
 - [Samsung и SK hynix значительно увеличивают производство DRAM-памяти](https://habr.com/ru/companies/dcmiran/news/840578/?utm_campaign=840578&utm_source=habrahabr&utm_medium=rss)
