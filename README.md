@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сотрудники студии Hopoo Games перешли в Valve](https://habr.com/ru/news/840518/?utm_campaign=840518&utm_source=habrahabr&utm_medium=rss)
-- [«Группа Астра» проводит первую практическую конференцию для разработчиков Astra DevConf 2024](https://habr.com/ru/companies/astralinux/news/840512/?utm_campaign=840512&utm_source=habrahabr&utm_medium=rss)
-- [Транспортное управление Лондона расследует продолжающуюся кибератаку на IT-системы](https://habr.com/ru/news/840456/?utm_campaign=840456&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 130.0](https://habr.com/ru/news/840450/?utm_campaign=840450&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: расследование материалов дела против основателя Telegram Дурова во Франции может продлиться несколько месяцев](https://habr.com/ru/news/840442/?utm_campaign=840442&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 появится возможность поиска определённых фрагментов в локальных видео- и аудиофайлах](https://habr.com/ru/news/840544/?utm_campaign=840544&utm_source=habrahabr&utm_medium=rss)
+- [Игрок добрался до края карты в Minecraft в «Далёкие земли», потратив несколько лет жизни на этот поход](https://habr.com/ru/news/840536/?utm_campaign=840536&utm_source=habrahabr&utm_medium=rss)
+- [Команда Rust для Linux терпит поражение в сражении с разработчиками на С, её лидер ушёл из-за «нетехнической ерунды»](https://habr.com/ru/news/840520/?utm_campaign=840520&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг объявил конкурс на разработку станка для нарезания заготовок из кремниевых пластин](https://habr.com/ru/news/840534/?utm_campaign=840534&utm_source=habrahabr&utm_medium=rss)
+- [ФСТЭК порекомендовала ресурсам госорганов включить защиту от зарубежных поисковых роботов](https://habr.com/ru/news/840526/?utm_campaign=840526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
