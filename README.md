@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотрудники студии Hopoo Games перешли в Valve](https://habr.com/ru/news/840518/?utm_campaign=840518&utm_source=habrahabr&utm_medium=rss)
+- [«Группа Астра» проводит первую практическую конференцию для разработчиков Astra DevConf 2024](https://habr.com/ru/companies/astralinux/news/840512/?utm_campaign=840512&utm_source=habrahabr&utm_medium=rss)
 - [Транспортное управление Лондона расследует продолжающуюся кибератаку на IT-системы](https://habr.com/ru/news/840456/?utm_campaign=840456&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 130.0](https://habr.com/ru/news/840450/?utm_campaign=840450&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: расследование материалов дела против основателя Telegram Дурова во Франции может продлиться несколько месяцев](https://habr.com/ru/news/840442/?utm_campaign=840442&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправит «Диспетчер учётных записей» в Windows 11](https://habr.com/ru/news/840434/?utm_campaign=840434&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик обнаружил UI-баг в двоичном калькуляторе macOS](https://habr.com/ru/news/840438/?utm_campaign=840438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
