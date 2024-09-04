@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source перестаёт быть бесплатным: OSS Pledge как новый подход к поддержке разработчиков](https://habr.com/ru/companies/flant/news/840872/?utm_campaign=840872&utm_source=habrahabr&utm_medium=rss)
+- [beeline cloud запустил бесплатную академию «вАЙТИ»](https://habr.com/ru/companies/beeline_tech/news/840854/?utm_campaign=840854&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты на русском: интеграция Gitflic и Test IT TMS](https://habr.com/ru/companies/astralinux/news/840864/?utm_campaign=840864&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «VK Видео» станет доступным для пользователей планшетов на Android](https://habr.com/ru/news/840850/?utm_campaign=840850&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила клавиатуру-геймпад в Windows 11, которая позволяет печатать с помощью контроллера Xbox](https://habr.com/ru/news/840842/?utm_campaign=840842&utm_source=habrahabr&utm_medium=rss)
-- [Orion soft дополнил систему StarVault утилитой для быстрой миграции секретов](https://habr.com/ru/companies/orion_soft/news/840826/?utm_campaign=840826&utm_source=habrahabr&utm_medium=rss)
-- [Опенсорс конференция для вузовских преподавателей](https://habr.com/ru/companies/postgrespro/news/840802/?utm_campaign=840802&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила в Windows 11 возможность печатать на экранной клавиатуре с помощью контроллера Xbox](https://habr.com/ru/news/840842/?utm_campaign=840842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
