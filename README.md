@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Автотесты на русском: интеграция Gitflic и Test IT TMS](https://habr.com/ru/companies/astralinux/news/840864/?utm_campaign=840864&utm_source=habrahabr&utm_medium=rss)
+- [Приложение «VK Видео» станет доступным для пользователей планшетов на Android](https://habr.com/ru/news/840850/?utm_campaign=840850&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила клавиатуру-геймпад в Windows 11, которая позволяет печатать с помощью контроллера Xbox](https://habr.com/ru/news/840842/?utm_campaign=840842&utm_source=habrahabr&utm_medium=rss)
 - [Orion soft дополнил систему StarVault утилитой для быстрой миграции секретов](https://habr.com/ru/companies/orion_soft/news/840826/?utm_campaign=840826&utm_source=habrahabr&utm_medium=rss)
 - [Опенсорс конференция для вузовских преподавателей](https://habr.com/ru/companies/postgrespro/news/840802/?utm_campaign=840802&utm_source=habrahabr&utm_medium=rss)
-- [Ущерб от IT-преступлений в 2024 году уже достиг 99 млрд рублей](https://habr.com/ru/news/840774/?utm_campaign=840774&utm_source=habrahabr&utm_medium=rss)
-- [Softline: Microsoft начала вводить ограничения, у клиентов из РФ статус подписок М365, О365, EMS изменился на disabled](https://habr.com/ru/news/840746/?utm_campaign=840746&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты оценили возможность аннулирования лицензии и штрафы по статье КоАП РФ для операторов связи за искажение трафика](https://habr.com/ru/news/840742/?utm_campaign=840742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
