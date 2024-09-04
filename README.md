@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ущерб от IT-преступлений в 2024 году уже достиг 99 млрд рублей](https://habr.com/ru/news/840774/?utm_campaign=840774&utm_source=habrahabr&utm_medium=rss)
 - [Softline: Microsoft начала вводить ограничения, у клиентов из РФ статус подписок М365, О365, EMS изменился на disabled](https://habr.com/ru/news/840746/?utm_campaign=840746&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты оценили возможность аннулирования лицензии и штрафы по статье КоАП РФ для операторов связи за искажение трафика](https://habr.com/ru/news/840742/?utm_campaign=840742&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PowerToys 0.84 с модулем Workspaces](https://habr.com/ru/news/840734/?utm_campaign=840734&utm_source=habrahabr&utm_medium=rss)
 - [Zyxel предупредила о критической уязвимости внедрения команд ОС в маршрутизаторы](https://habr.com/ru/news/840728/?utm_campaign=840728&utm_source=habrahabr&utm_medium=rss)
-- [Telegram удалил запрещённые материалы по запросу Южной Кореи](https://habr.com/ru/news/840720/?utm_campaign=840720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
