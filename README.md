@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source перестаёт быть бесплатным: OSS Pledge как новый подход к поддержке разработчиков](https://habr.com/ru/companies/flant/news/840872/?utm_campaign=840872&utm_source=habrahabr&utm_medium=rss)
+- [Open Source заслуживает оплаты: OSS Pledge как новый подход к поддержке разработчиков](https://habr.com/ru/companies/flant/news/840872/?utm_campaign=840872&utm_source=habrahabr&utm_medium=rss)
 - [beeline cloud запустил бесплатную академию «вАЙТИ»](https://habr.com/ru/companies/beeline_tech/news/840854/?utm_campaign=840854&utm_source=habrahabr&utm_medium=rss)
 - [Автотесты на русском: интеграция Gitflic и Test IT TMS](https://habr.com/ru/companies/astralinux/news/840864/?utm_campaign=840864&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «VK Видео» станет доступным для пользователей планшетов на Android](https://habr.com/ru/news/840850/?utm_campaign=840850&utm_source=habrahabr&utm_medium=rss)
