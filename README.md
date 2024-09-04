@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Zyxel предупредила о критической уязвимости внедрения команд ОС в маршрутизаторы](https://habr.com/ru/news/840728/?utm_campaign=840728&utm_source=habrahabr&utm_medium=rss)
+- [Telegram удалил запрещённые материалы по запросу Южной Кореи](https://habr.com/ru/news/840720/?utm_campaign=840720&utm_source=habrahabr&utm_medium=rss)
+- [NEO и TRINITY вместе навсегда: УЦСБ открыл вторую лабораторию кибербезопасности в УрФУ](https://habr.com/ru/companies/ussc/news/840722/?utm_campaign=840722&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала выпускать Windows 11 24H2 для ПК без Copilot+](https://habr.com/ru/news/840712/?utm_campaign=840712&utm_source=habrahabr&utm_medium=rss)
 - [На BreachForums утекли данные более 390 млн. профилей VK](https://habr.com/ru/news/840674/?utm_campaign=840674&utm_source=habrahabr&utm_medium=rss)
-- [Sony решила закрыть проект шутера Concord за $200 млн спустя две недели после провального релиза](https://habr.com/ru/news/840658/?utm_campaign=840658&utm_source=habrahabr&utm_medium=rss)
-- [Docker-OSX удалили с Docker Hub после жалобы Apple](https://habr.com/ru/news/840642/?utm_campaign=840642&utm_source=habrahabr&utm_medium=rss)
-- [Samsung и SK hynix значительно увеличивают производство DRAM-памяти](https://habr.com/ru/companies/dcmiran/news/840578/?utm_campaign=840578&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появится возможность поиска определённых фрагментов в локальных видео- и аудиофайлах](https://habr.com/ru/news/840544/?utm_campaign=840544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
