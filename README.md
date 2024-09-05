@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартуем: серия бесплатных ИБ-конференций в 27 городах](https://habr.com/ru/companies/searchinform/news/840916/?utm_campaign=840916&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты СайберОК помогли выявить уязвимость в Webmin UDP/10000: Loop DoS &lpar;COK-2024-05-05&rpar;](https://habr.com/ru/companies/cyberok/news/840940/?utm_campaign=840940&utm_source=habrahabr&utm_medium=rss)
+- [Представлен стандарт Bluetooth 6.0](https://habr.com/ru/news/841002/?utm_campaign=841002&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: в 2023 году Telegram терял по $0,3 на каждом пользователе](https://habr.com/ru/news/840932/?utm_campaign=840932&utm_source=habrahabr&utm_medium=rss)
 - [Вышел первый тизер фильма Minecraft, где показали кубический мир и Стива](https://habr.com/ru/news/840908/?utm_campaign=840908&utm_source=habrahabr&utm_medium=rss)
-- [Open Source заслуживает оплаты: OSS Pledge как новый подход к поддержке разработчиков](https://habr.com/ru/companies/flant/news/840872/?utm_campaign=840872&utm_source=habrahabr&utm_medium=rss)
-- [beeline cloud запустил бесплатную академию «вАЙТИ»](https://habr.com/ru/companies/beeline_tech/news/840854/?utm_campaign=840854&utm_source=habrahabr&utm_medium=rss)
-- [Автотесты на русском: интеграция Gitflic и Test IT TMS](https://habr.com/ru/companies/astralinux/news/840864/?utm_campaign=840864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
