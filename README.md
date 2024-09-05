@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор изменений в законодательстве за июль 2024 года](https://habr.com/ru/companies/ussc/news/841134/?utm_campaign=841134&utm_source=habrahabr&utm_medium=rss)
+- [Совместный бандл «Кода Безопасности» и Orion soft защитит IT-инфраструктуру в короткие сроки](https://habr.com/ru/companies/orion_soft/news/840832/?utm_campaign=840832&utm_source=habrahabr&utm_medium=rss)
+- [Discord сократила лимит загрузки файлов с 25 МБ до 10 МБ для пользователей без подписки](https://habr.com/ru/news/841114/?utm_campaign=841114&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на Lamoda Tech QA back Meetup](https://habr.com/ru/companies/lamoda/news/841106/?utm_campaign=841106&utm_source=habrahabr&utm_medium=rss)
 - [За первое полугодие 2024 года в России скомпрометировали 986 млн строк персональных данных пользователей](https://habr.com/ru/news/841100/?utm_campaign=841100&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи из России больше не могут скачивать плагины в Android Studio из-за экспортных ограничений](https://habr.com/ru/news/841070/?utm_campaign=841070&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» представили детализированные дороги Краснодара, Ростова-на-Дону и Сочи](https://habr.com/ru/news/841064/?utm_campaign=841064&utm_source=habrahabr&utm_medium=rss)
-- [Второй выпуск подкаста — IT`s GNIVC с темой &amp;quot; QA: как развиваться тестировщику&amp;quot;](https://habr.com/ru/companies/gnivc/news/841052/?utm_campaign=841052&utm_source=habrahabr&utm_medium=rss)
-- [Разбираем подходы к архитектуре на Selectel Python MeetUp](https://habr.com/ru/companies/selectel/news/840360/?utm_campaign=840360&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
