@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Arduino CLI 1.0.0](https://habr.com/ru/news/841230/?utm_campaign=841230&utm_source=habrahabr&utm_medium=rss)
 - [Дурову запретили покидать Францию до марта 2025 года](https://habr.com/ru/news/841202/?utm_campaign=841202&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры оценило затраты операторов на передачу данных о сим-картах](https://habr.com/ru/news/841164/?utm_campaign=841164&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве за июль 2024 года](https://habr.com/ru/companies/ussc/news/841134/?utm_campaign=841134&utm_source=habrahabr&utm_medium=rss)
 - [Совместный бандл «Кода Безопасности» и Orion soft защитит IT-инфраструктуру в короткие сроки](https://habr.com/ru/companies/orion_soft/news/840832/?utm_campaign=840832&utm_source=habrahabr&utm_medium=rss)
-- [Discord сократила лимит загрузки файлов с 25 МБ до 10 МБ для пользователей без подписки](https://habr.com/ru/news/841114/?utm_campaign=841114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
