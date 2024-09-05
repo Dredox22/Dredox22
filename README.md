@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Одноклассники» стали скрывать сообщения от незнакомцев в переписк](https://habr.com/ru/news/841044/?utm_campaign=841044&utm_source=habrahabr&utm_medium=rss)
-- [Axios: «Лаборатория Касперского» передала около 1 млн своих американских клиентов на поддержку в компанию Pango](https://habr.com/ru/news/841042/?utm_campaign=841042&utm_source=habrahabr&utm_medium=rss)
-- [Стартуем: серия бесплатных ИБ-конференций в 27 городах](https://habr.com/ru/companies/searchinform/news/840916/?utm_campaign=840916&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты СайберОК помогли выявить уязвимость в Webmin UDP/10000: Loop DoS &lpar;COK-2024-05-05&rpar;](https://habr.com/ru/companies/cyberok/news/840940/?utm_campaign=840940&utm_source=habrahabr&utm_medium=rss)
-- [Представлен стандарт Bluetooth 6.0](https://habr.com/ru/news/841002/?utm_campaign=841002&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Карты» представили детализированные дороги Краснодара, Ростова-на-Дону и Сочи](https://habr.com/ru/news/841064/?utm_campaign=841064&utm_source=habrahabr&utm_medium=rss)
+- [Второй выпуск подкаста — IT`s GNIVC с темой &amp;quot; QA: как развиваться тестировщику&amp;quot;](https://habr.com/ru/companies/gnivc/news/841052/?utm_campaign=841052&utm_source=habrahabr&utm_medium=rss)
+- [Разбираем подходы к архитектуре на Selectel Python MeetUp](https://habr.com/ru/companies/selectel/news/840360/?utm_campaign=840360&utm_source=habrahabr&utm_medium=rss)
+- [В РФ предложили ввести уголовную ответственность для дропперов](https://habr.com/ru/news/841046/?utm_campaign=841046&utm_source=habrahabr&utm_medium=rss)
+- [«Одноклассники» стали скрывать сообщения от незнакомцев в переписке](https://habr.com/ru/news/841044/?utm_campaign=841044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
