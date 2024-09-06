@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Студия Firewalk отключила серверы недавно вышедшего шутера Concord](https://habr.com/ru/news/841468/?utm_campaign=841468&utm_source=habrahabr&utm_medium=rss)
+- [На платформе Coursera вышел новый курс Барбары Оакли: «Ускорьте свое обучение с ChatGPT»](https://habr.com/ru/news/841434/?utm_campaign=841434&utm_source=habrahabr&utm_medium=rss)
 - [Генеративный ИИ может утроить выбросы углекислого газа от дата-центров](https://habr.com/ru/companies/bothub/news/841440/?utm_campaign=841440&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram убрал функцию «Люди рядом», которую использовали боты и мошенники, и отключил загрузку медиа в Telegraph](https://habr.com/ru/news/841430/?utm_campaign=841430&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария Tellico 4.0 для управления цифровыми коллекциями](https://habr.com/ru/news/841406/?utm_campaign=841406&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик закрыл игровую инди-студию StarlightLabsCo и опубликовал код всех проектов](https://habr.com/ru/news/841394/?utm_campaign=841394&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала сотрудничать с StopNCII для удаления из Bing интимных фотографий, опубликованных без согласия жертв](https://habr.com/ru/news/841386/?utm_campaign=841386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
