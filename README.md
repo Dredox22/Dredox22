@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские операторы связи начали внедрять решения для защиты абонентов от повторных мошеннических вызовов](https://habr.com/ru/news/841320/?utm_campaign=841320&utm_source=habrahabr&utm_medium=rss)
+- [Разбор тестового задания для QA-инженера](https://habr.com/ru/companies/2gis/news/841316/?utm_campaign=841316&utm_source=habrahabr&utm_medium=rss)
+- [Многофакторная аутентификация из облака – отечественное решение для защиты от несанкционированного доступа к ресурсам](https://habr.com/ru/companies/Linx/news/841304/?utm_campaign=841304&utm_source=habrahabr&utm_medium=rss)
 - [Команда Smart Engines выступила с докладами на ведущей научной конференции по распознаванию документов ICDAR-2024](https://habr.com/ru/companies/smartengines/news/840858/?utm_campaign=840858&utm_source=habrahabr&utm_medium=rss)
 - [Apple снимет ограничения приложения «Локатор» в Южной Корее](https://habr.com/ru/news/841302/?utm_campaign=841302&utm_source=habrahabr&utm_medium=rss)
-- [Генераторы порно и инструменты для мошенничества: инструменты в GPT Store вызвали вопросы](https://habr.com/ru/news/841296/?utm_campaign=841296&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила новую ИИ-функцию Ask Photos для сервиса Google Photos](https://habr.com/ru/news/841300/?utm_campaign=841300&utm_source=habrahabr&utm_medium=rss)
-- [CD Projekt RED представила трейлер настольной игры по миру Cyberpunk 2077](https://habr.com/ru/news/841292/?utm_campaign=841292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
