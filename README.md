@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram обновил раздел FAQ, касающийся нелегального контента, после задержания и выпуска под судебный надзор Дурова](https://habr.com/ru/news/841286/?utm_campaign=841286&utm_source=habrahabr&utm_medium=rss)
-- [«Гравитон» представила серию компьютерных и периферийных устройств «Автор» в премиальном дизайне](https://habr.com/ru/news/841280/?utm_campaign=841280&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: школьники хуже усваивают материал с помощью ChatGPT](https://habr.com/ru/news/841276/?utm_campaign=841276&utm_source=habrahabr&utm_medium=rss)
-- [D-Link заявила о неисправленных уязвимостях в роутерах DIR-846W](https://habr.com/ru/news/841266/?utm_campaign=841266&utm_source=habrahabr&utm_medium=rss)
-- [Clearview AI заплатит 30,5 млн евро за нарушение конфиденциальности](https://habr.com/ru/companies/bothub/news/841268/?utm_campaign=841268&utm_source=habrahabr&utm_medium=rss)
+- [Команда Smart Engines выступила с докладами на ведущей научной конференции по распознаванию документов ICDAR-2024](https://habr.com/ru/companies/smartengines/news/840858/?utm_campaign=840858&utm_source=habrahabr&utm_medium=rss)
+- [Apple снимет ограничения приложения «Локатор» в Южной Корее](https://habr.com/ru/news/841302/?utm_campaign=841302&utm_source=habrahabr&utm_medium=rss)
+- [Генераторы порно и инструменты для мошенничества: инструменты в GPT Store вызвали вопросы](https://habr.com/ru/news/841296/?utm_campaign=841296&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила новую ИИ-функцию Ask Photos для сервиса Google Photos](https://habr.com/ru/news/841300/?utm_campaign=841300&utm_source=habrahabr&utm_medium=rss)
+- [CD Projekt RED представила трейлер настольной игры по миру Cyberpunk 2077](https://habr.com/ru/news/841292/?utm_campaign=841292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
