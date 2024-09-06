@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram обновил раздел FAQ, касающийся нелегального контента, после задержания и выпуска под судебный надзор Дурова](https://habr.com/ru/news/841286/?utm_campaign=841286&utm_source=habrahabr&utm_medium=rss)
+- [«Гравитон» представила серию компьютерных и периферийных устройств «Автор» в премиальном дизайне](https://habr.com/ru/news/841280/?utm_campaign=841280&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: школьники хуже усваивают материал с помощью ChatGPT](https://habr.com/ru/news/841276/?utm_campaign=841276&utm_source=habrahabr&utm_medium=rss)
 - [D-Link заявила о неисправленных уязвимостях в роутерах DIR-846W](https://habr.com/ru/news/841266/?utm_campaign=841266&utm_source=habrahabr&utm_medium=rss)
 - [Clearview AI заплатит 30,5 млн евро за нарушение конфиденциальности](https://habr.com/ru/companies/bothub/news/841268/?utm_campaign=841268&utm_source=habrahabr&utm_medium=rss)
-- [Tesla выпустила умную опцию Actually Smart Summon для удалённого управления](https://habr.com/ru/news/841256/?utm_campaign=841256&utm_source=habrahabr&utm_medium=rss)
-- [РКН раскрыл перечень данных от блогеров с 10 тыс. подписчиков: ФИО, номер телефона, эл.почта, рабочие IP-адреса](https://habr.com/ru/news/841248/?utm_campaign=841248&utm_source=habrahabr&utm_medium=rss)
-- [Дуров прокомментировал своё задержание, предъявленные ему во Франции обвинения и анонсировал изменения в Telegram](https://habr.com/ru/news/841242/?utm_campaign=841242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
