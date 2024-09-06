@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel нужны деньги и она планирует продать свой очередной «непрофильный» бизнес](https://habr.com/ru/companies/dcmiran/news/841352/?utm_campaign=841352&utm_source=habrahabr&utm_medium=rss)
+- [РКН объяснил технической ошибкой преждевременную публикацию перечня данных от блогеров с 10 тыс. подписчиков](https://habr.com/ru/news/841346/?utm_campaign=841346&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic запустила тариф Claude Enterprise для компаний](https://habr.com/ru/news/841344/?utm_campaign=841344&utm_source=habrahabr&utm_medium=rss)
 - [Российские операторы связи начали внедрять решения для защиты абонентов от повторных мошеннических вызовов](https://habr.com/ru/news/841320/?utm_campaign=841320&utm_source=habrahabr&utm_medium=rss)
 - [Разбор тестового задания для QA-инженера](https://habr.com/ru/companies/2gis/news/841316/?utm_campaign=841316&utm_source=habrahabr&utm_medium=rss)
-- [Многофакторная аутентификация из облака – отечественное решение для защиты от несанкционированного доступа к ресурсам](https://habr.com/ru/companies/Linx/news/841304/?utm_campaign=841304&utm_source=habrahabr&utm_medium=rss)
-- [Команда Smart Engines выступила с докладами на ведущей научной конференции по распознаванию документов ICDAR-2024](https://habr.com/ru/companies/smartengines/news/840858/?utm_campaign=840858&utm_source=habrahabr&utm_medium=rss)
-- [Apple снимет ограничения приложения «Локатор» в Южной Корее](https://habr.com/ru/news/841302/?utm_campaign=841302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
