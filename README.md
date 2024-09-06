@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого инструментария Tellico 4.0 для управления цифровыми коллекциями](https://habr.com/ru/news/841406/?utm_campaign=841406&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик закрыл игровую инди-студию StarlightLabsCo и опубликовал код всех проектов](https://habr.com/ru/news/841394/?utm_campaign=841394&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала сотрудничать с StopNCII для удаления из Bing интимных фотографий, опубликованных без согласия жертв](https://habr.com/ru/news/841386/?utm_campaign=841386&utm_source=habrahabr&utm_medium=rss)
 - [«Слушая подкасты, ничего не узнаешь, ты должен устать, упасть без задних ног — такой должна быть встреча с образованием»](https://habr.com/ru/companies/X5Tech/news/841374/?utm_campaign=841374&utm_source=habrahabr&utm_medium=rss)
 - [Американский школьник заработал 1 млн долларов на ИИ-стартапе — приложении, которое считает калории по фото](https://habr.com/ru/news/841370/?utm_campaign=841370&utm_source=habrahabr&utm_medium=rss)
-- [Чего ждать от IT Elements, или Почему организаторы опасаются обесточить одну из стильных площадок Москвы](https://habr.com/ru/companies/jetinfosystems/news/841368/?utm_campaign=841368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
