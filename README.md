@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз композитного сервера Weston 14.0](https://habr.com/ru/news/841554/?utm_campaign=841554&utm_source=habrahabr&utm_medium=rss)
 - [Palo Alto Networks завершила приобретение активов IBM QRadar](https://habr.com/ru/news/841522/?utm_campaign=841522&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ПК с Windows 11 может показывать разную производительность без явной причины](https://habr.com/ru/news/841510/?utm_campaign=841510&utm_source=habrahabr&utm_medium=rss)
 - [Российские школьники получили четыре золотые медали на Международной олимпиаде по информатике IOI 2024](https://habr.com/ru/news/841458/?utm_campaign=841458&utm_source=habrahabr&utm_medium=rss)
 - [ИИ помогает отличить тёмную материю от космического шума](https://habr.com/ru/news/841470/?utm_campaign=841470&utm_source=habrahabr&utm_medium=rss)
-- [Студия Firewalk отключила серверы недавно вышедшего шутера Concord](https://habr.com/ru/news/841468/?utm_campaign=841468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
