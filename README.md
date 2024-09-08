@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глагол «гуглить» потерял популярность среди зумеров](https://habr.com/ru/news/841632/?utm_campaign=841632&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat выпустила дистрибутив Red Hat Enterprise Linux AI для задач машинного обучения](https://habr.com/ru/news/841628/?utm_campaign=841628&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество KDE представило шестое поколение ноутбуков Slimbook](https://habr.com/ru/news/841622/?utm_campaign=841622&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель ИИ может предсказывать крупные землетрясения за месяцы до их наступления](https://habr.com/ru/companies/bothub/news/841610/?utm_campaign=841610&utm_source=habrahabr&utm_medium=rss)
 - [Разработка Nginx перешла с Mercurial на Git и GitHub](https://habr.com/ru/news/841592/?utm_campaign=841592&utm_source=habrahabr&utm_medium=rss)
-- [Релиз композитного сервера Weston 14.0](https://habr.com/ru/news/841554/?utm_campaign=841554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
