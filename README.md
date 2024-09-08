@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сопровождающий утилиты man для Linux объявил об окончании работы над проектом из-за финансовых проблем](https://habr.com/ru/news/841672/?utm_campaign=841672&utm_source=habrahabr&utm_medium=rss)
 - [Новый процессор iPhone 16 будет построен на архитектуре armv9](https://habr.com/ru/companies/dcmiran/news/841648/?utm_campaign=841648&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 24H2 по-прежнему поставляется с God Mode](https://habr.com/ru/news/841636/?utm_campaign=841636&utm_source=habrahabr&utm_medium=rss)
 - [Глагол «гуглить» потерял популярность среди зумеров](https://habr.com/ru/news/841632/?utm_campaign=841632&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat выпустила дистрибутив Red Hat Enterprise Linux AI для задач машинного обучения](https://habr.com/ru/news/841628/?utm_campaign=841628&utm_source=habrahabr&utm_medium=rss)
-- [Сообщество KDE представило шестое поколение ноутбуков Slimbook](https://habr.com/ru/news/841622/?utm_campaign=841622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
