@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: ФАС РФ сообщила о жалобах граждан на ограничение скорости при раздаче интернета со смартфона](https://habr.com/ru/news/841798/?utm_campaign=841798&utm_source=habrahabr&utm_medium=rss)
 - [Гильдия актёров США достигла соглашения об ограничении использования ИИ со студиями-разработчиками 80 игр](https://habr.com/ru/news/841786/?utm_campaign=841786&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PyDPainter 2.0.0 — открытый проект для создания пиксельной графики, написанный на Python](https://habr.com/ru/news/841778/?utm_campaign=841778&utm_source=habrahabr&utm_medium=rss)
 - [The New York Times назвало Telegram глобальной канализацией криминальной активности, дезинформации и раскрытия запретов](https://habr.com/ru/news/841730/?utm_campaign=841730&utm_source=habrahabr&utm_medium=rss)
 - [Вышел эмулятор QEMU 9.1](https://habr.com/ru/news/841722/?utm_campaign=841722&utm_source=habrahabr&utm_medium=rss)
-- [Сопровождающий man-pages для Linux объявил об окончании работы над проектом из-за финансовых проблем](https://habr.com/ru/news/841672/?utm_campaign=841672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
