@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: ФАС РФ сообщила о жалобах граждан на ограничение скорости при раздаче интернета со смартфона](https://habr.com/ru/news/841798/?utm_campaign=841798&utm_source=habrahabr&utm_medium=rss)
-- [Гильдия актёров США достигла соглашения об ограничении использования ИИ со студиями-разработчиками 80 игр](https://habr.com/ru/news/841786/?utm_campaign=841786&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PyDPainter 2.0.0 — открытый проект для создания пиксельной графики, написанный на Python](https://habr.com/ru/news/841778/?utm_campaign=841778&utm_source=habrahabr&utm_medium=rss)
-- [The New York Times назвало Telegram глобальной канализацией криминальной активности, дезинформации и раскрытия запретов](https://habr.com/ru/news/841730/?utm_campaign=841730&utm_source=habrahabr&utm_medium=rss)
-- [Вышел эмулятор QEMU 9.1](https://habr.com/ru/news/841722/?utm_campaign=841722&utm_source=habrahabr&utm_medium=rss)
+- [Приложение «Фото» в Windows будет работать в фоновом режиме для более быстрого запуска](https://habr.com/ru/news/841848/?utm_campaign=841848&utm_source=habrahabr&utm_medium=rss)
+- [В «Ростелекоме» заявили об «избалованных» ИБ-специалистах](https://habr.com/ru/news/841838/?utm_campaign=841838&utm_source=habrahabr&utm_medium=rss)
+- [США, ЕС, Великобритания и ещё семь стран подписали первый международный договор в области использования ИИ](https://habr.com/ru/news/841830/?utm_campaign=841830&utm_source=habrahabr&utm_medium=rss)
+- [Киберучения-2024: отрыта регистрация студенческих команд из России и других стран](https://habr.com/ru/companies/ussc/news/841818/?utm_campaign=841818&utm_source=habrahabr&utm_medium=rss)
+- [Сообщество KDE определило цели развития открытого проекта на ближайшие два года](https://habr.com/ru/news/841816/?utm_campaign=841816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
