@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reuters: Apple делает ставку на ИИ, а Huawei наступает на пятки](https://habr.com/ru/companies/bothub/news/842014/?utm_campaign=842014&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/842004/?utm_campaign=842004&utm_source=habrahabr&utm_medium=rss)
 - [Google перестал подтверждать подлинность аккаунта пользователя по номеру телефона из РФ — непонятно, сбой или блокировка](https://habr.com/ru/news/841966/?utm_campaign=841966&utm_source=habrahabr&utm_medium=rss)
 - [CyberCamp 2024: главный онлайн-кэмп по практической кибербезопасности открыл регистрацию](https://habr.com/ru/companies/jetinfosystems/news/841960/?utm_campaign=841960&utm_source=habrahabr&utm_medium=rss)
 - [МТС проведет ИТ-чемпионат с шоу-кодингом и гонками роботов. Призовой фонд — свыше 10 млн рублей](https://habr.com/ru/companies/ru_mts/news/841956/?utm_campaign=841956&utm_source=habrahabr&utm_medium=rss)
-- [МТС открыла приём заявок на участие в чемпионате True Tech Champ 2024 с призовым фондом 10,25 млн рублей](https://habr.com/ru/news/841922/?utm_campaign=841922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
