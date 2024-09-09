@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Microsoft Office 2024 по умолчанию будут отключены элементы управления ActiveX](https://habr.com/ru/news/841894/?utm_campaign=841894&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Android 15 для разработчиков](https://habr.com/ru/news/841882/?utm_campaign=841882&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс и НИУ ВШЭ проведут международную олимпиаду по ИИ для студентов](https://habr.com/ru/companies/yandex/news/841854/?utm_campaign=841854&utm_source=habrahabr&utm_medium=rss)
 - [Атака RAMBO позволила красть данные из оперативной памяти в изолированных ПК с помощью ЭМ-излучения](https://habr.com/ru/news/841860/?utm_campaign=841860&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Фото» в Windows будет работать в фоновом режиме для более быстрого запуска](https://habr.com/ru/news/841848/?utm_campaign=841848&utm_source=habrahabr&utm_medium=rss)
-- [В «Ростелекоме» заявили об «избалованных» ИБ-специалистах](https://habr.com/ru/news/841838/?utm_campaign=841838&utm_source=habrahabr&utm_medium=rss)
-- [США, ЕС, Великобритания и ещё семь стран подписали первый международный договор в области использования ИИ](https://habr.com/ru/news/841830/?utm_campaign=841830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
