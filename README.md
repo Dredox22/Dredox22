@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The New York Times назвало Telegram глобальной канализацией криминальной активности, дезинформации и раскрытия запретов](https://habr.com/ru/news/841730/?utm_campaign=841730&utm_source=habrahabr&utm_medium=rss)
 - [Вышел эмулятор QEMU 9.1](https://habr.com/ru/news/841722/?utm_campaign=841722&utm_source=habrahabr&utm_medium=rss)
-- [Сопровождающий утилиты man-pages для Linux объявил об окончании работы над проектом из-за финансовых проблем](https://habr.com/ru/news/841672/?utm_campaign=841672&utm_source=habrahabr&utm_medium=rss)
+- [Сопровождающий man-pages для Linux объявил об окончании работы над проектом из-за финансовых проблем](https://habr.com/ru/news/841672/?utm_campaign=841672&utm_source=habrahabr&utm_medium=rss)
 - [Новый процессор iPhone 16 будет построен на архитектуре armv9](https://habr.com/ru/companies/dcmiran/news/841648/?utm_campaign=841648&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 24H2 по-прежнему поставляется с God Mode](https://habr.com/ru/news/841636/?utm_campaign=841636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
