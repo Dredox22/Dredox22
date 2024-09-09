@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CyberCamp 2024: главный онлайн-кэмп по практической кибербезопасности открыл регистрацию](https://habr.com/ru/companies/jetinfosystems/news/841960/?utm_campaign=841960&utm_source=habrahabr&utm_medium=rss)
+- [МТС проведет ИТ-чемпионат с шоу-кодингом и гонками роботов. Призовой фонд — свыше 10 млн рублей](https://habr.com/ru/companies/ru_mts/news/841956/?utm_campaign=841956&utm_source=habrahabr&utm_medium=rss)
 - [МТС открыла приём заявок на участие в чемпионате True Tech Champ 2024 с призовым фондом 10,25 млн рублей](https://habr.com/ru/news/841922/?utm_campaign=841922&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Office 2024 по умолчанию будут отключены элементы управления ActiveX](https://habr.com/ru/news/841894/?utm_campaign=841894&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Android 15 для разработчиков](https://habr.com/ru/news/841882/?utm_campaign=841882&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс и НИУ ВШЭ проведут международную олимпиаду по ИИ для студентов](https://habr.com/ru/companies/yandex/news/841854/?utm_campaign=841854&utm_source=habrahabr&utm_medium=rss)
-- [Атака RAMBO позволила красть данные из оперативной памяти в изолированных ПК с помощью ЭМ-излучения](https://habr.com/ru/news/841860/?utm_campaign=841860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
