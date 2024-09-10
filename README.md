@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI выпустит новую ИИ модель «Strawberry» уже через 2 недели](https://habr.com/ru/companies/bothub/news/842306/?utm_campaign=842306&utm_source=habrahabr&utm_medium=rss)
 - [Gartner: Шумиха вокруг генеративного ИИ не соответствует его реальным возможностям](https://habr.com/ru/companies/bothub/news/842300/?utm_campaign=842300&utm_source=habrahabr&utm_medium=rss)
 - [Вышла прошивка 1.0 для Flipper Zero](https://habr.com/ru/news/842278/?utm_campaign=842278&utm_source=habrahabr&utm_medium=rss)
 - [Sony представила PlayStation 5 Pro без дисковода за $700](https://habr.com/ru/news/842268/?utm_campaign=842268&utm_source=habrahabr&utm_medium=rss)
 - [Moscow QA #5 x X5 Tech](https://habr.com/ru/companies/X5Tech/news/842262/?utm_campaign=842262&utm_source=habrahabr&utm_medium=rss)
-- [«СИЛА ПЛАТФОРМЫ» – ключевой форум о проектировании и цифровизации в строительстве](https://habr.com/ru/companies/nanosoft/news/842258/?utm_campaign=842258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
