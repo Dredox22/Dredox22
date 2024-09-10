@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Перекрёсток» запустил суперапп для сотрудников супермаркетов](https://habr.com/ru/companies/X5Tech/news/842212/?utm_campaign=842212&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: генеративный ИИ улучшает обучение на курсах по разработке ПО](https://habr.com/ru/news/842152/?utm_campaign=842152&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст представил проект ходячего стола](https://habr.com/ru/news/842144/?utm_campaign=842144&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи смогли добавить поддельных пилотов в списки Управления транспортной безопасности США](https://habr.com/ru/news/842114/?utm_campaign=842114&utm_source=habrahabr&utm_medium=rss)
 - [Релиз TypeScript 5.6](https://habr.com/ru/news/842108/?utm_campaign=842108&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla продлила поддержку Firefox в старых версиях ОС до марта 2025 года](https://habr.com/ru/news/842102/?utm_campaign=842102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
