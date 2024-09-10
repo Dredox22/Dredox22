@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователи через SQL-инъекцию смогли добавить поддельных пилотов в списки Управления транспортной безопасности США](https://habr.com/ru/news/842114/?utm_campaign=842114&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: генеративный ИИ улучшает обучение на курсах по разработке ПО](https://habr.com/ru/news/842152/?utm_campaign=842152&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст представил проект ходячего стола](https://habr.com/ru/news/842144/?utm_campaign=842144&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи смогли добавить поддельных пилотов в списки Управления транспортной безопасности США](https://habr.com/ru/news/842114/?utm_campaign=842114&utm_source=habrahabr&utm_medium=rss)
 - [Релиз TypeScript 5.6](https://habr.com/ru/news/842108/?utm_campaign=842108&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla продлила поддержку Firefox в старых версиях ОС до марта 2025 года](https://habr.com/ru/news/842102/?utm_campaign=842102&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: РКН в течение следующих пяти лет планирует потратить 59 млрд рублей на обновление системы блокировки в Рунете](https://habr.com/ru/news/842096/?utm_campaign=842096&utm_source=habrahabr&utm_medium=rss)
-- [Как ИИ в BI меняет взаимодействие с данными. Вебинар](https://habr.com/ru/companies/sapiens_solutions/news/842094/?utm_campaign=842094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
