@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google вернул возможность регистрировать новые аккаунты с российским номерами](https://habr.com/ru/news/842080/?utm_campaign=842080&utm_source=habrahabr&utm_medium=rss)
 - [Конструктор сайтов Wix прекращает работу в России с 12 сентября](https://habr.com/ru/news/842066/?utm_campaign=842066&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: Apple делает ставку на ИИ, а Huawei наступает на пятки](https://habr.com/ru/companies/bothub/news/842014/?utm_campaign=842014&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/842004/?utm_campaign=842004&utm_source=habrahabr&utm_medium=rss)
 - [Google перестал подтверждать подлинность аккаунта пользователя по номеру телефона из РФ — непонятно, сбой или блокировка](https://habr.com/ru/news/841966/?utm_campaign=841966&utm_source=habrahabr&utm_medium=rss)
-- [CyberCamp 2024: главный онлайн-кэмп по практической кибербезопасности открыл регистрацию](https://habr.com/ru/companies/jetinfosystems/news/841960/?utm_campaign=841960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
