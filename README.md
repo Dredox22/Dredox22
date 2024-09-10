@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: РКН в течение следующих пяти лет планирует потратить 59 млрд рублей на обновление системы блокировки в Рунете](https://habr.com/ru/news/842096/?utm_campaign=842096&utm_source=habrahabr&utm_medium=rss)
+- [Как ИИ в BI меняет взаимодействие с данными. Вебинар](https://habr.com/ru/companies/sapiens_solutions/news/842094/?utm_campaign=842094&utm_source=habrahabr&utm_medium=rss)
+- [DataTalks 5.0: два дня обмена опытом и знаниями в сфере работы с данными и искусственного интеллекта](https://habr.com/ru/companies/rostelecom/news/841968/?utm_campaign=841968&utm_source=habrahabr&utm_medium=rss)
+- [Как мы обновили курсы для разработчиков C++](https://habr.com/ru/companies/yandex_praktikum/news/841404/?utm_campaign=841404&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Redox OS 0.9.0 — операционной системы на языке Rust и концепции микроядра](https://habr.com/ru/news/842088/?utm_campaign=842088&utm_source=habrahabr&utm_medium=rss)
-- [За год после открытия около 1,5 млн новых пользователей перешло на почту для российских сервисов xmail](https://habr.com/ru/news/842084/?utm_campaign=842084&utm_source=habrahabr&utm_medium=rss)
-- [Google вернул возможность регистрировать новые аккаунты с российским номерами](https://habr.com/ru/news/842080/?utm_campaign=842080&utm_source=habrahabr&utm_medium=rss)
-- [Конструктор сайтов Wix прекращает работу в России с 12 сентября](https://habr.com/ru/news/842066/?utm_campaign=842066&utm_source=habrahabr&utm_medium=rss)
-- [Reuters: Apple делает ставку на ИИ, а Huawei наступает на пятки](https://habr.com/ru/companies/bothub/news/842014/?utm_campaign=842014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
