@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи через SQL-инъекцию смогли добавить поддельных пилотов в списки Управления транспортной безопасности США](https://habr.com/ru/news/842114/?utm_campaign=842114&utm_source=habrahabr&utm_medium=rss)
 - [Релиз TypeScript 5.6](https://habr.com/ru/news/842108/?utm_campaign=842108&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla продлила поддержку Firefox в старых версиях ОС до марта 2025 года](https://habr.com/ru/news/842102/?utm_campaign=842102&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: РКН в течение следующих пяти лет планирует потратить 59 млрд рублей на обновление системы блокировки в Рунете](https://habr.com/ru/news/842096/?utm_campaign=842096&utm_source=habrahabr&utm_medium=rss)
 - [Как ИИ в BI меняет взаимодействие с данными. Вебинар](https://habr.com/ru/companies/sapiens_solutions/news/842094/?utm_campaign=842094&utm_source=habrahabr&utm_medium=rss)
-- [DataTalks 5.0: два дня обмена опытом и знаниями в сфере работы с данными и искусственного интеллекта](https://habr.com/ru/companies/rostelecom/news/841968/?utm_campaign=841968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
