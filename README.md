@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gartner: Шумиха вокруг генеративного ИИ не соответствует его реальным возможностям](https://habr.com/ru/companies/bothub/news/842300/?utm_campaign=842300&utm_source=habrahabr&utm_medium=rss)
 - [Вышла прошивка 1.0 для Flipper Zero](https://habr.com/ru/news/842278/?utm_campaign=842278&utm_source=habrahabr&utm_medium=rss)
 - [Sony представила PlayStation 5 Pro без дисковода за $700](https://habr.com/ru/news/842268/?utm_campaign=842268&utm_source=habrahabr&utm_medium=rss)
 - [Moscow QA #5 x X5 Tech](https://habr.com/ru/companies/X5Tech/news/842262/?utm_campaign=842262&utm_source=habrahabr&utm_medium=rss)
 - [«СИЛА ПЛАТФОРМЫ» – ключевой форум о проектировании и цифровизации в строительстве](https://habr.com/ru/companies/nanosoft/news/842258/?utm_campaign=842258&utm_source=habrahabr&utm_medium=rss)
-- [VK проведет митап по информационной безопасности — VK Security Confab](https://habr.com/ru/companies/vk/news/842222/?utm_campaign=842222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
