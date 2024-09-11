@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» и «Атом» представили прототип шлюза безопасности автомобиля и выбрали партнёра для его выпуска](https://habr.com/ru/news/842438/?utm_campaign=842438&utm_source=habrahabr&utm_medium=rss)
+- [Экс-президент PlayStation Europe: уволенным разработчикам игр стоит «пойти в Uber» или «уехать на год к пляжу»](https://habr.com/ru/news/842416/?utm_campaign=842416&utm_source=habrahabr&utm_medium=rss)
+- [В Росфинмониторинге поддержали введение уголовной ответственности для дропперов](https://habr.com/ru/news/842414/?utm_campaign=842414&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft напоминает, что прекращает обслуживание Windows 11 версий 21H2 и 22H2 через месяц](https://habr.com/ru/news/842382/?utm_campaign=842382&utm_source=habrahabr&utm_medium=rss)
 - [В Австралии планируют запретить доступ в соцсети для детей младше 16 лет](https://habr.com/ru/news/842360/?utm_campaign=842360&utm_source=habrahabr&utm_medium=rss)
-- [Экс-руководителей Samsung арестовали за передачу данных Китаю](https://habr.com/ru/news/842354/?utm_campaign=842354&utm_source=habrahabr&utm_medium=rss)
-- [Европейский суд обязал Google выплатить штраф €2,42 млрд](https://habr.com/ru/news/842358/?utm_campaign=842358&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Droidian 99 — сборки на базе Debian для смартфонов](https://habr.com/ru/news/842356/?utm_campaign=842356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
