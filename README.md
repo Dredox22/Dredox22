@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прокурор Парижа: дело против Дурова является показательным в плане борьбы с киберпреступностью](https://habr.com/ru/news/842460/?utm_campaign=842460&utm_source=habrahabr&utm_medium=rss)
 - [Python VS С# – новый выпуск ютуб-шоу «Согласен / Не согласен»](https://habr.com/ru/companies/skbkontur/news/842434/?utm_campaign=842434&utm_source=habrahabr&utm_medium=rss)
 - [CrossConf Awards: как принять участие в первой премии в области кроссплатформенной разработки](https://habr.com/ru/companies/friflex/news/842452/?utm_campaign=842452&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» и «Атом» представили прототип шлюза безопасности автомобиля и выбрали партнёра для его выпуска](https://habr.com/ru/news/842438/?utm_campaign=842438&utm_source=habrahabr&utm_medium=rss)
 - [Экс-президент PlayStation Europe: уволенным разработчикам игр стоит «пойти в Uber» или «уехать на год к пляжу»](https://habr.com/ru/news/842416/?utm_campaign=842416&utm_source=habrahabr&utm_medium=rss)
-- [В Росфинмониторинге поддержали введение уголовной ответственности для дропперов](https://habr.com/ru/news/842414/?utm_campaign=842414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
