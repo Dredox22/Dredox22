@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Экс-руководителей Samsung арестовали за передачу данных Китаю](https://habr.com/ru/news/842354/?utm_campaign=842354&utm_source=habrahabr&utm_medium=rss)
+- [Европейский суд обязал Google выплатить штраф €2,42 млрд](https://habr.com/ru/news/842358/?utm_campaign=842358&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Droidian 99 — сборки на базе Debian для смартфонов](https://habr.com/ru/news/842356/?utm_campaign=842356&utm_source=habrahabr&utm_medium=rss)
 - [Sony готовит к продаже восстановленные PS5, которые в два раза дешевле, чем новая PS5 Pro](https://habr.com/ru/news/842348/?utm_campaign=842348&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила фреймворк для работы с кнопкой Camera Control в iPhone 16 и 16 Pro](https://habr.com/ru/news/842318/?utm_campaign=842318&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустит новую ИИ модель «Strawberry» уже через 2 недели](https://habr.com/ru/companies/bothub/news/842306/?utm_campaign=842306&utm_source=habrahabr&utm_medium=rss)
-- [Gartner: Шумиха вокруг генеративного ИИ не соответствует его реальным возможностям](https://habr.com/ru/companies/bothub/news/842300/?utm_campaign=842300&utm_source=habrahabr&utm_medium=rss)
-- [Вышла прошивка 1.0 для Flipper Zero](https://habr.com/ru/news/842278/?utm_campaign=842278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
