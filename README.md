@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ чат-боты имеют политические предубеждения, которые могут влиять на общество](https://habr.com/ru/companies/bothub/news/842630/?utm_campaign=842630&utm_source=habrahabr&utm_medium=rss)
 - [Интуитивный десктопный API-клиент Yaak стал Open Source проектом](https://habr.com/ru/news/842612/?utm_campaign=842612&utm_source=habrahabr&utm_medium=rss)
 - [Вышла книга — Управление риском ИТ. Основы](https://habr.com/ru/news/842606/?utm_campaign=842606&utm_source=habrahabr&utm_medium=rss)
 - [Технология искусственного интеллекта может обнаружить ранние признаки более 1000 заболеваний, согласно исследователям](https://habr.com/ru/companies/bothub/news/842600/?utm_campaign=842600&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики смогут блокировать Android-приложения, установленные из сторонних магазинов](https://habr.com/ru/news/842588/?utm_campaign=842588&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Pixtral 12B — модель Mistral common с поддержкой картинок](https://habr.com/ru/news/842544/?utm_campaign=842544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
