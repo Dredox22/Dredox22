@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Интуитивный десктопный API-клиент Yaak стал Open Source проектом](https://habr.com/ru/news/842612/?utm_campaign=842612&utm_source=habrahabr&utm_medium=rss)
+- [Вышла книга — Управление риском ИТ. Основы](https://habr.com/ru/news/842606/?utm_campaign=842606&utm_source=habrahabr&utm_medium=rss)
 - [Технология искусственного интеллекта может обнаружить ранние признаки более 1000 заболеваний, согласно исследователям](https://habr.com/ru/companies/bothub/news/842600/?utm_campaign=842600&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики смогут блокировать Android-приложения, установленные из сторонних магазинов](https://habr.com/ru/news/842588/?utm_campaign=842588&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Pixtral 12B — модель Mistral common с поддержкой картинок](https://habr.com/ru/news/842544/?utm_campaign=842544&utm_source=habrahabr&utm_medium=rss)
-- [MapKit SDK и NaviKit SDK в API «Яндекс Карт» получили поддержку Flutter](https://habr.com/ru/news/842542/?utm_campaign=842542&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome будет предлагать пользователям продолжение просмотра посещённых страниц](https://habr.com/ru/news/842478/?utm_campaign=842478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
