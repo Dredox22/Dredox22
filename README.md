@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Технология искусственного интеллекта может обнаружить ранние признаки более 1000 заболеваний, согласно исследователям](https://habr.com/ru/companies/bothub/news/842600/?utm_campaign=842600&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики смогут блокировать Android-приложения, установленные из сторонних магазинов](https://habr.com/ru/news/842588/?utm_campaign=842588&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Pixtral 12B — модель Mistral common с поддержкой картинок](https://habr.com/ru/news/842544/?utm_campaign=842544&utm_source=habrahabr&utm_medium=rss)
 - [MapKit SDK и NaviKit SDK в API «Яндекс Карт» получили поддержку Flutter](https://habr.com/ru/news/842542/?utm_campaign=842542&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome будет предлагать пользователям продолжение просмотра посещённых страниц](https://habr.com/ru/news/842478/?utm_campaign=842478&utm_source=habrahabr&utm_medium=rss)
-- [Прокурор Парижа: дело против Дурова является показательным в плане борьбы с киберпреступностью](https://habr.com/ru/news/842460/?utm_campaign=842460&utm_source=habrahabr&utm_medium=rss)
-- [Python VS С# – новый выпуск ютуб-шоу «Согласен / Не согласен»](https://habr.com/ru/companies/skbkontur/news/842434/?utm_campaign=842434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
