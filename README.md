@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Система F.A.C.C.T. Threat Intelligence интегрирована с Security Capsule SIEM](https://habr.com/ru/companies/f_a_c_c_t/news/842798/?utm_campaign=842798&utm_source=habrahabr&utm_medium=rss)
+- [Как создать масштабируемую инфраструктуру для AI/ML на базе GPU Cloud: вебинар от ITGLOBAL.COM и Ainergy](https://habr.com/ru/news/842794/?utm_campaign=842794&utm_source=habrahabr&utm_medium=rss)
+- [T-Mobile и SpaceX успешно протестировали беспроводное оповещение на смартфоны клиентов о ЧС через спутники](https://habr.com/ru/news/842788/?utm_campaign=842788&utm_source=habrahabr&utm_medium=rss)
+- [В «Облаке Mail» стал доступен редактор PDF‑файлов](https://habr.com/ru/news/842782/?utm_campaign=842782&utm_source=habrahabr&utm_medium=rss)
 - [Лидерство в коде: технологии, сообщества и корпоративная среда](https://habr.com/ru/companies/alfa/news/842766/?utm_campaign=842766&utm_source=habrahabr&utm_medium=rss)
-- [Ольга Васильева представила свою книгу «Цифровая трансформация бизнеса» на ММКЯ-2024](https://habr.com/ru/news/842758/?utm_campaign=842758&utm_source=habrahabr&utm_medium=rss)
-- [Обновления KB5041872/KB5038603 для Windows 11 останавливаются на 8% при 90% загрузке ЦП](https://habr.com/ru/news/842752/?utm_campaign=842752&utm_source=habrahabr&utm_medium=rss)
-- [Apple позволит пользователям остаться на iOS 17, а не обновляться сразу до iOS 18 после релиза](https://habr.com/ru/news/842750/?utm_campaign=842750&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Погода открыла бесплатный API для умного дома](https://habr.com/ru/companies/yandex/news/842738/?utm_campaign=842738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
