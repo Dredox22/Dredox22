@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пустота захватила более миллиона ТВ-приставок на Android](https://habr.com/ru/companies/drweb/news/842848/?utm_campaign=842848&utm_source=habrahabr&utm_medium=rss)
+- [Августовский дайджест. Новый Кубер, BGP и репликация MySQL](https://habr.com/ru/companies/timeweb/news/842844/?utm_campaign=842844&utm_source=habrahabr&utm_medium=rss)
 - [РСХБ Факторинг перешла на «1С: Предприятие 8.3»](https://habr.com/ru/companies/rshb/news/842830/?utm_campaign=842830&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑Банк» представил платёжную карту со светодиодами](https://habr.com/ru/news/842790/?utm_campaign=842790&utm_source=habrahabr&utm_medium=rss)
 - [Система F.A.C.C.T. Threat Intelligence интегрирована с Security Capsule SIEM](https://habr.com/ru/companies/f_a_c_c_t/news/842798/?utm_campaign=842798&utm_source=habrahabr&utm_medium=rss)
-- [Как создать масштабируемую инфраструктуру для AI/ML на базе GPU Cloud: вебинар от ITGLOBAL.COM и Ainergy](https://habr.com/ru/news/842794/?utm_campaign=842794&utm_source=habrahabr&utm_medium=rss)
-- [T-Mobile и SpaceX успешно протестировали беспроводное оповещение на смартфоны клиентов о ЧС через спутники](https://habr.com/ru/news/842788/?utm_campaign=842788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
