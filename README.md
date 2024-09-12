@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лидерство в коде: технологии, сообщества и корпоративная среда](https://habr.com/ru/companies/alfa/news/842766/?utm_campaign=842766&utm_source=habrahabr&utm_medium=rss)
+- [Ольга Васильева представила свою книгу «Цифровая трансформация бизнеса» на ММКЯ-2024](https://habr.com/ru/news/842758/?utm_campaign=842758&utm_source=habrahabr&utm_medium=rss)
+- [Обновления KB5041872/KB5038603 для Windows 11 останавливаются на 8% при 90% загрузке ЦП](https://habr.com/ru/news/842752/?utm_campaign=842752&utm_source=habrahabr&utm_medium=rss)
+- [Apple позволит пользователям остаться на iOS 17, а не обновляться сразу до iOS 18 после релиза](https://habr.com/ru/news/842750/?utm_campaign=842750&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Погода открыла бесплатный API для умного дома](https://habr.com/ru/companies/yandex/news/842738/?utm_campaign=842738&utm_source=habrahabr&utm_medium=rss)
-- [ФНС ищет исполнителя для поддержки своих информсистем за 3,2 млрд рублей](https://habr.com/ru/news/842716/?utm_campaign=842716&utm_source=habrahabr&utm_medium=rss)
-- [В PowerToys появятся утилиты ZoomIt, New+ и File Actions](https://habr.com/ru/news/842710/?utm_campaign=842710&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: в 2024 году только 0,5% из топ-200 веб-сайтов мира используют валидный HTML](https://habr.com/ru/news/842708/?utm_campaign=842708&utm_source=habrahabr&utm_medium=rss)
-- [Google придумал, как оживить ваши заметки с помощью ИИ](https://habr.com/ru/companies/bothub/news/842698/?utm_campaign=842698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
