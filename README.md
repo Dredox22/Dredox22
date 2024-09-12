@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила новую модель —  o1, которая значительно лучше GPT-4o](https://habr.com/ru/companies/bothub/news/842930/?utm_campaign=842930&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила новую революционную модель o1](https://habr.com/ru/news/842928/?utm_campaign=842928&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила o1 — свою первую ИИ-модель с возможностями «рассуждения»](https://habr.com/ru/news/842918/?utm_campaign=842918&utm_source=habrahabr&utm_medium=rss)
+- [Google удалила демонстрационное видео Gemini из-за сомнений в его достоверности](https://habr.com/ru/companies/bothub/news/842912/?utm_campaign=842912&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество Flappy Bird Foundation объявило о перезапуске проекта мобильной игры Flappy Bird](https://habr.com/ru/news/842910/?utm_campaign=842910&utm_source=habrahabr&utm_medium=rss)
-- [Unity отменила комиссию за установки](https://habr.com/ru/news/842898/?utm_campaign=842898&utm_source=habrahabr&utm_medium=rss)
-- [Консорциум Юникод утвердил 8 новых эмодзи, в том числе нас под конец недели](https://habr.com/ru/news/842872/?utm_campaign=842872&utm_source=habrahabr&utm_medium=rss)
-- [Пустота захватила более миллиона ТВ-приставок на Android](https://habr.com/ru/companies/drweb/news/842848/?utm_campaign=842848&utm_source=habrahabr&utm_medium=rss)
-- [Августовский дайджест. Новый Кубер, BGP и репликация MySQL](https://habr.com/ru/companies/timeweb/news/842844/?utm_campaign=842844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
