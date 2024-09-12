@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Поиск Google стал получать доступ к страницам сайта Wayback Machine](https://habr.com/ru/news/842662/?utm_campaign=842662&utm_source=habrahabr&utm_medium=rss)
-- [Samsung уволит до 30% персонала за рубежом](https://habr.com/ru/news/842660/?utm_campaign=842660&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Яндекс» работает над сервисом помощи разработчикам под названием Yandex Code Assistant](https://habr.com/ru/news/842658/?utm_campaign=842658&utm_source=habrahabr&utm_medium=rss)
-- [Представлен первый релиз-кандидат FreeCAD 1.0 спустя 21 год после начала разработки проекта](https://habr.com/ru/news/842654/?utm_campaign=842654&utm_source=habrahabr&utm_medium=rss)
-- [ИИ чат-боты имеют политические предубеждения, которые могут влиять на общество](https://habr.com/ru/companies/bothub/news/842630/?utm_campaign=842630&utm_source=habrahabr&utm_medium=rss)
+- [Премьера nanoCAD BIM Строительство – смотрите онлайн 26 сентября](https://habr.com/ru/companies/nanosoft/news/842548/?utm_campaign=842548&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» разработал собственного помощника для работы с кодом на базе нейросетей Yandex Code Assistant](https://habr.com/ru/news/842680/?utm_campaign=842680&utm_source=habrahabr&utm_medium=rss)
+- [В iOS 18 появился инструмент для настройки оригинальных сменных деталей](https://habr.com/ru/news/842684/?utm_campaign=842684&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft запустила публичную предварительную версию поддержки приложений UWP для .NET 9](https://habr.com/ru/news/842676/?utm_campaign=842676&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: Мигрируем аналитическую отчетность с SAP BW на импортонезависимый стек](https://habr.com/ru/companies/sapiens_solutions/news/842674/?utm_campaign=842674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
