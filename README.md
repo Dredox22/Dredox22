@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сообщество Flappy Bird Foundation объявило о перезапуске проекта мобильной игры Flappy Bird](https://habr.com/ru/news/842910/?utm_campaign=842910&utm_source=habrahabr&utm_medium=rss)
+- [Unity отменила комиссию за установки](https://habr.com/ru/news/842898/?utm_campaign=842898&utm_source=habrahabr&utm_medium=rss)
 - [Консорциум Юникод утвердил 8 новых эмодзи, в том числе нас под конец недели](https://habr.com/ru/news/842872/?utm_campaign=842872&utm_source=habrahabr&utm_medium=rss)
 - [Пустота захватила более миллиона ТВ-приставок на Android](https://habr.com/ru/companies/drweb/news/842848/?utm_campaign=842848&utm_source=habrahabr&utm_medium=rss)
 - [Августовский дайджест. Новый Кубер, BGP и репликация MySQL](https://habr.com/ru/companies/timeweb/news/842844/?utm_campaign=842844&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ Факторинг перешла на «1С: Предприятие 8.3»](https://habr.com/ru/companies/rshb/news/842830/?utm_campaign=842830&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» представил платёжную карту со светодиодами](https://habr.com/ru/news/842790/?utm_campaign=842790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
