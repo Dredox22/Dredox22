@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ахиллесова пята ИИ: простая задача, обнажившая слабости всех языковых моделей — решено в GPT 1o](https://habr.com/ru/news/842956/?utm_campaign=842956&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE рассказала о киберзащите  IT‑инфраструктуры ВЭФ-2024](https://habr.com/ru/news/842942/?utm_campaign=842942&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из института AIRI, МТУСИ и «Сколтеха» представили новую ИИ‑модель для борьбы с голосовым мошенничеством](https://habr.com/ru/news/842938/?utm_campaign=842938&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила новую модель —  o1, которая значительно лучше GPT-4o](https://habr.com/ru/companies/bothub/news/842930/?utm_campaign=842930&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила новую революционную модель o1](https://habr.com/ru/news/842928/?utm_campaign=842928&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила o1 — свою первую ИИ-модель с возможностями «рассуждения»](https://habr.com/ru/news/842918/?utm_campaign=842918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
