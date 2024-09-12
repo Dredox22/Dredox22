@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Премьера nanoCAD BIM Строительство – смотрите онлайн 26 сентября](https://habr.com/ru/companies/nanosoft/news/842548/?utm_campaign=842548&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» разработал собственного помощника для работы с кодом на базе нейросетей Yandex Code Assistant](https://habr.com/ru/news/842680/?utm_campaign=842680&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 18 появился инструмент для настройки оригинальных сменных деталей](https://habr.com/ru/news/842684/?utm_campaign=842684&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила публичную предварительную версию поддержки приложений UWP для .NET 9](https://habr.com/ru/news/842676/?utm_campaign=842676&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: Мигрируем аналитическую отчетность с SAP BW на импортонезависимый стек](https://habr.com/ru/companies/sapiens_solutions/news/842674/?utm_campaign=842674&utm_source=habrahabr&utm_medium=rss)
+- [ФНС ищет исполнителя для поддержки своих информсистем за 3,2 млрд рублей](https://habr.com/ru/news/842716/?utm_campaign=842716&utm_source=habrahabr&utm_medium=rss)
+- [В PowerToys появятся утилиты ZoomIt, New+ и File Actions](https://habr.com/ru/news/842710/?utm_campaign=842710&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: в 2024 году только 0,5% из топ-200 веб-сайтов мира используют валидный HTML](https://habr.com/ru/news/842708/?utm_campaign=842708&utm_source=habrahabr&utm_medium=rss)
+- [Google придумал, как оживить ваши заметки с помощью ИИ](https://habr.com/ru/companies/bothub/news/842698/?utm_campaign=842698&utm_source=habrahabr&utm_medium=rss)
+- [В октябре выйдет документальный фильм об истории компьютера ZX Spectrum](https://habr.com/ru/news/842692/?utm_campaign=842692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
