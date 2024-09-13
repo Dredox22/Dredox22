@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект кроссплатформенного консольного музыкального плеера Maestro 2.0](https://habr.com/ru/news/843210/?utm_campaign=843210&utm_source=habrahabr&utm_medium=rss)
 - [Netflix прекращает поддержку некоторых старых iPhone и iPad](https://habr.com/ru/news/843156/?utm_campaign=843156&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор официально признал, что замедляет YouTube](https://habr.com/ru/news/843112/?utm_campaign=843112&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-компания Fortinet подтвердила утечку данных со своего сервера Microsoft Sharepoint](https://habr.com/ru/news/843120/?utm_campaign=843120&utm_source=habrahabr&utm_medium=rss)
 - [Хакер заставил ChatGPT предоставить подробные инструкции по изготовлению самодельных взрывных устройств](https://habr.com/ru/companies/hostkey/news/843102/?utm_campaign=843102&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил Библиотеку знаний своего поисковика на базе нейросетей «Нейро»](https://habr.com/ru/news/843090/?utm_campaign=843090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
