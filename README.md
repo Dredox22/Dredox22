@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил Библиотеку знаний своего поисковика на базе нейросетей «Нейро»](https://habr.com/ru/news/843090/?utm_campaign=843090&utm_source=habrahabr&utm_medium=rss)
 - [Covers: Suno запустили бета-тестирование новой функции для создания каверов](https://habr.com/ru/companies/bothub/news/843084/?utm_campaign=843084&utm_source=habrahabr&utm_medium=rss)
 - [Студенты РТУ МИРЭА будут писать приложения для ОС «РОСА Мобайл»](https://habr.com/ru/news/843072/?utm_campaign=843072&utm_source=habrahabr&utm_medium=rss)
 - [В Великобритании 17-летнего подростка арестовали за кибератаку на транспортное управление Лондона](https://habr.com/ru/news/843028/?utm_campaign=843028&utm_source=habrahabr&utm_medium=rss)
 - [ИИ поможет «Перекрёстку» рассчитать нагрузку сотрудников](https://habr.com/ru/companies/X5Tech/news/843022/?utm_campaign=843022&utm_source=habrahabr&utm_medium=rss)
-- [SWIFT анонсировала создание инфраструктуры для операций с цифровыми активами](https://habr.com/ru/news/843020/?utm_campaign=843020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
