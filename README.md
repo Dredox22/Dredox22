@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Великобритании 17-летнего подростка арестовали за кибератаку на транспортное управление Лондона](https://habr.com/ru/news/843028/?utm_campaign=843028&utm_source=habrahabr&utm_medium=rss)
+- [ИИ поможет «Перекрёстку» рассчитать нагрузку сотрудников](https://habr.com/ru/companies/X5Tech/news/843022/?utm_campaign=843022&utm_source=habrahabr&utm_medium=rss)
+- [SWIFT анонсировала создание инфраструктуры для операций с цифровыми активами](https://habr.com/ru/news/843020/?utm_campaign=843020&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован документ Safe C++ для продвижения внедрения безопасного кода на C++ вместо перевода проектов на Rust](https://habr.com/ru/news/842994/?utm_campaign=842994&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Windows 11 24H2 жалуются на проблемы с отображением и откат настроек мониторов](https://habr.com/ru/news/842998/?utm_campaign=842998&utm_source=habrahabr&utm_medium=rss)
-- [В DeepMind научили роборуки чинить роботов](https://habr.com/ru/news/842986/?utm_campaign=842986&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сокращает ещё около 650 сотрудников игрового подразделения](https://habr.com/ru/news/842984/?utm_campaign=842984&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система виртуализации VirtualBox 7.1](https://habr.com/ru/news/842982/?utm_campaign=842982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
