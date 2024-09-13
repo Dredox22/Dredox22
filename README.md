@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован документ Safe C++ для продвижения внедрения безопасного кода на C++ вместо перевода проектов на Rust](https://habr.com/ru/news/842994/?utm_campaign=842994&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Windows 11 24H2 жалуются на проблемы с отображением и откат настроек мониторов](https://habr.com/ru/news/842998/?utm_campaign=842998&utm_source=habrahabr&utm_medium=rss)
 - [В DeepMind научили роборуки чинить роботов](https://habr.com/ru/news/842986/?utm_campaign=842986&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сокращает ещё около 650 сотрудников игрового подразделения](https://habr.com/ru/news/842984/?utm_campaign=842984&utm_source=habrahabr&utm_medium=rss)
 - [Вышла система виртуализации VirtualBox 7.1](https://habr.com/ru/news/842982/?utm_campaign=842982&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс создал компанию для производства и продажи роботов](https://habr.com/ru/news/842960/?utm_campaign=842960&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: YouTube замедлили в РФ почти в 10 раз по сравнению с июньскими показателями скорости загрузки роликов](https://habr.com/ru/news/842968/?utm_campaign=842968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
