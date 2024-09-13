@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасное будущее после ClickUp: Как METEOR Спасет Ваши Проекты?](https://habr.com/ru/news/843158/?utm_campaign=843158&utm_source=habrahabr&utm_medium=rss)
+- [Netflix прекращает поддержку некоторых старых iPhone и iPad](https://habr.com/ru/news/843156/?utm_campaign=843156&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор официально признал, что замедляет YouTube](https://habr.com/ru/news/843112/?utm_campaign=843112&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-компания Fortinet подтвердила утечку данных со своего сервера Microsoft Sharepoint](https://habr.com/ru/news/843120/?utm_campaign=843120&utm_source=habrahabr&utm_medium=rss)
 - [Хакер заставил ChatGPT предоставить подробные инструкции по изготовлению самодельных взрывных устройств](https://habr.com/ru/companies/hostkey/news/843102/?utm_campaign=843102&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил Библиотеку знаний своего поисковика на базе нейросетей «Нейро»](https://habr.com/ru/news/843090/?utm_campaign=843090&utm_source=habrahabr&utm_medium=rss)
-- [Covers: Suno запустили бета-тестирование новой функции для создания каверов](https://habr.com/ru/companies/bothub/news/843084/?utm_campaign=843084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
