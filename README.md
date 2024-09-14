@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft пообещала улучшить алгоритмы обновлений безопасности Windows после глобального инцидента с CrowdStrike](https://habr.com/ru/news/843266/?utm_campaign=843266&utm_source=habrahabr&utm_medium=rss)
 - [«Крестная мать ИИ» Фей-Фей Ли привлекла 230 миллионов долларов для запуска стартапа в области ИИ](https://habr.com/ru/companies/bothub/news/843240/?utm_campaign=843240&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI признает, что их новая серия ИИ-моделей несет повышенный риск создания биооружия](https://habr.com/ru/companies/bothub/news/843218/?utm_campaign=843218&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект кроссплатформенного консольного музыкального плеера Maestro 2.0](https://habr.com/ru/news/843210/?utm_campaign=843210&utm_source=habrahabr&utm_medium=rss)
 - [Netflix прекращает поддержку некоторых старых iPhone и iPad](https://habr.com/ru/news/843156/?utm_campaign=843156&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор официально признал, что замедляет YouTube](https://habr.com/ru/news/843112/?utm_campaign=843112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
