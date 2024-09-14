@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС разработала систему для поиска потерявшихся в лесу людей](https://habr.com/ru/news/843362/?utm_campaign=843362&utm_source=habrahabr&utm_medium=rss)
 - [Суперкомпьютер «Сергей Годунов» Института математики СО РАН стал вдвое мощнее](https://habr.com/ru/news/843330/?utm_campaign=843330&utm_source=habrahabr&utm_medium=rss)
 - [Ford патентует голографических собак, Tesla — зарядный коврик, а Google — изогнутые волноводы. Дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/843312/?utm_campaign=843312&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует оконный режим рабочего стола для планшетов Android](https://habr.com/ru/news/843286/?utm_campaign=843286&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пообещала улучшить алгоритмы обновлений безопасности Windows после глобального инцидента с CrowdStrike](https://habr.com/ru/news/843266/?utm_campaign=843266&utm_source=habrahabr&utm_medium=rss)
-- [«Крестная мать ИИ» Фей-Фей Ли привлекла 230 миллионов долларов для запуска стартапа в области ИИ](https://habr.com/ru/companies/bothub/news/843240/?utm_campaign=843240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
