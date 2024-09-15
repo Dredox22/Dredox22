@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple: все iPhone 16 получили 8 ГБ оперативной памяти](https://habr.com/ru/news/843422/?utm_campaign=843422&utm_source=habrahabr&utm_medium=rss)
+- [«ВКонтакте» убрала опцию отключения безопасного поиска по видео](https://habr.com/ru/news/843420/?utm_campaign=843420&utm_source=habrahabr&utm_medium=rss)
 - [Международный союз электросвязи опубликовал индекс стран по уровню кибербезопасности 2024, где РФ во втором эшелоне](https://habr.com/ru/news/843390/?utm_campaign=843390&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассказала о 250 новых функциях и изменениях, которые появятся в iOS 18](https://habr.com/ru/news/843384/?utm_campaign=843384&utm_source=habrahabr&utm_medium=rss)
 - [МТС разработала систему для поиска потерявшихся в лесу людей](https://habr.com/ru/news/843362/?utm_campaign=843362&utm_source=habrahabr&utm_medium=rss)
-- [Суперкомпьютер «Сергей Годунов» Института математики СО РАН стал вдвое мощнее](https://habr.com/ru/news/843330/?utm_campaign=843330&utm_source=habrahabr&utm_medium=rss)
-- [Ford патентует голографических собак, Tesla — зарядный коврик, а Google — изогнутые волноводы. Дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/843312/?utm_campaign=843312&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
