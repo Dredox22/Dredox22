@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс, Сбер и Т-Банк: ИТМО назвал лидеров Open Source в России](https://habr.com/ru/companies/spbifmo/news/843698/?utm_campaign=843698&utm_source=habrahabr&utm_medium=rss)
+- [Производители телекомоборудования попросили правительство скорректировать темпы импортозамещения](https://habr.com/ru/news/843680/?utm_campaign=843680&utm_source=habrahabr&utm_medium=rss)
 - [Лидеры ИТ-рынка обсудят технопартнерства и русификацию мировых трендов на Orion Digital Day](https://habr.com/ru/companies/orion_soft/news/843674/?utm_campaign=843674&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Windows Agent Arena — бенчмарк для тестирования ИИ-агентов](https://habr.com/ru/news/843670/?utm_campaign=843670&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получает новые виджеты «Таймер» и «Обратный отсчёт дней»](https://habr.com/ru/news/843642/?utm_campaign=843642&utm_source=habrahabr&utm_medium=rss)
-- [В Chrome Canary стал доступен полностью кастомизируемый &amp;lt;Select&amp;gt;](https://habr.com/ru/news/843632/?utm_campaign=843632&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пообещала «невероятный прирост производительности» современных приложений Windows 11](https://habr.com/ru/news/843602/?utm_campaign=843602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
