@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic Games совместно с Coursera запустили курс для геймдизайнеров](https://habr.com/ru/news/843872/?utm_campaign=843872&utm_source=habrahabr&utm_medium=rss)
 - [Число подписчиков опции ИИ-сервиса «Алиса Про» достигло одного миллиона](https://habr.com/ru/news/843840/?utm_campaign=843840&utm_source=habrahabr&utm_medium=rss)
 - [PowerToys вскоре позволит изменять настройки Windows по расписанию](https://habr.com/ru/news/843832/?utm_campaign=843832&utm_source=habrahabr&utm_medium=rss)
 - [Обучение инженеров данных с нуля до оплачиваемой стажировки: старт набора](https://habr.com/ru/companies/sapiens_solutions/news/843738/?utm_campaign=843738&utm_source=habrahabr&utm_medium=rss)
 - [В РФ планируют законодательно закрепить деятельность белых хакеров](https://habr.com/ru/news/843732/?utm_campaign=843732&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники от лица операторов связи начали массово предлагать россиянам мобильные тарифы со скидкой](https://habr.com/ru/news/843720/?utm_campaign=843720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
