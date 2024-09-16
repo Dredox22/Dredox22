@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена игра Tux-vs-Mutant-Window в Bash](https://habr.com/ru/news/843574/?utm_campaign=843574&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть OpenAI o1 прошла авторитетный норвежский IQ-тест Mensa на 120 баллов](https://habr.com/ru/news/843570/?utm_campaign=843570&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT научился писать первым пользователю в роли внимательного родителя](https://habr.com/ru/news/843568/?utm_campaign=843568&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 6.11](https://habr.com/ru/news/843516/?utm_campaign=843516&utm_source=habrahabr&utm_medium=rss)
 - [ИИ приближает климатический кризис, согласно ведущему эксперту](https://habr.com/ru/companies/bothub/news/843508/?utm_campaign=843508&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft и студия Unfrozen раскрыли подробности режимов игры Heroes of Might and Magic: Olden Era](https://habr.com/ru/news/843502/?utm_campaign=843502&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.7](https://habr.com/ru/news/843482/?utm_campaign=843482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
