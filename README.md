@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft пообещала «невероятный прирост производительности» современных приложений Windows 11](https://habr.com/ru/news/843602/?utm_campaign=843602&utm_source=habrahabr&utm_medium=rss)
+- [Связь через HaLow Wi-Fi протестировали на расстоянии 16 км](https://habr.com/ru/news/843588/?utm_campaign=843588&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» и GitFlic объявили о сотрудничестве](https://habr.com/ru/news/843592/?utm_campaign=843592&utm_source=habrahabr&utm_medium=rss)
 - [Проект DryMerge обещает объединить разные приложения](https://habr.com/ru/news/843584/?utm_campaign=843584&utm_source=habrahabr&utm_medium=rss)
 - [Представлена игра Tux-vs-Mutant-Window в Bash](https://habr.com/ru/news/843574/?utm_campaign=843574&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть OpenAI o1 прошла авторитетный норвежский IQ-тест Mensa на 120 баллов](https://habr.com/ru/news/843570/?utm_campaign=843570&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT научился писать первым пользователю в роли внимательного родителя](https://habr.com/ru/news/843568/?utm_campaign=843568&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 6.11](https://habr.com/ru/news/843516/?utm_campaign=843516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
