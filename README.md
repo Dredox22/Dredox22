@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучение инженеров данных с нуля до оплачиваемой стажировки: старт набора](https://habr.com/ru/companies/sapiens_solutions/news/843738/?utm_campaign=843738&utm_source=habrahabr&utm_medium=rss)
 - [В РФ планируют законодательно закрепить деятельность белых хакеров](https://habr.com/ru/news/843732/?utm_campaign=843732&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники от лица операторов связи начали массово предлагать россиянам мобильные тарифы со скидкой](https://habr.com/ru/news/843720/?utm_campaign=843720&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть ChatGPT o1 написала код для докторской диссертации за час и шесть промтов, инженер потратил на него 10 месяцев](https://habr.com/ru/news/843718/?utm_campaign=843718&utm_source=habrahabr&utm_medium=rss)
 - [В GitHub Copilot начали тестировать модель o1 от OpenAI](https://habr.com/ru/news/843702/?utm_campaign=843702&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс, Сбер и Т-Банк: ИТМО назвал лидеров Open Source в России](https://habr.com/ru/companies/spbifmo/news/843698/?utm_campaign=843698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
