@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT научился писать первым пользователю в роли внимательного родителя](https://habr.com/ru/news/843568/?utm_campaign=843568&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 6.11](https://habr.com/ru/news/843516/?utm_campaign=843516&utm_source=habrahabr&utm_medium=rss)
 - [ИИ приближает климатический кризис, согласно ведущему эксперту](https://habr.com/ru/companies/bothub/news/843508/?utm_campaign=843508&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft и студия Unfrozen раскрыли подробности режимов игры Heroes of Might and Magic: Olden Era](https://habr.com/ru/news/843502/?utm_campaign=843502&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.7](https://habr.com/ru/news/843482/?utm_campaign=843482&utm_source=habrahabr&utm_medium=rss)
-- [Apple: все iPhone 16 получили 8 ГБ оперативной памяти](https://habr.com/ru/news/843422/?utm_campaign=843422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
