@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Видеоигра Garry&#39;s Mod попала в «Книгу рекордов Гиннесса. Геймеры» как самый продаваемый ПК-эксклюзив в истории](https://habr.com/ru/news/843906/?utm_campaign=843906&utm_source=habrahabr&utm_medium=rss)
-- [Релиз iOS 18: переработанный интерфейс и кастомизация на главном экране](https://habr.com/ru/news/843896/?utm_campaign=843896&utm_source=habrahabr&utm_medium=rss)
-- [Runway анонсирует API для своих ИИ-моделей, генерирующих видео](https://habr.com/ru/companies/bothub/news/843892/?utm_campaign=843892&utm_source=habrahabr&utm_medium=rss)
-- [Epic Games совместно с Coursera запустили курс для геймдизайнеров](https://habr.com/ru/news/843872/?utm_campaign=843872&utm_source=habrahabr&utm_medium=rss)
-- [Число подписчиков опции ИИ-сервиса «Алиса Про» достигло одного миллиона](https://habr.com/ru/news/843840/?utm_campaign=843840&utm_source=habrahabr&utm_medium=rss)
+- [В Apple Music появился плейлист «Тактильная музыка» для iOS 18](https://habr.com/ru/news/843920/?utm_campaign=843920&utm_source=habrahabr&utm_medium=rss)
+- [Java 23 — Launch Stream](https://habr.com/ru/companies/spring_aio/news/843914/?utm_campaign=843914&utm_source=habrahabr&utm_medium=rss)
+- [Вышла децентрализованная платформа совместной разработки Radicle 1.0](https://habr.com/ru/news/843918/?utm_campaign=843918&utm_source=habrahabr&utm_medium=rss)
+- [21 сентября в Москве пройдёт конференция Perl-Conf.Ru/24](https://habr.com/ru/news/843916/?utm_campaign=843916&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила Copilot Pages для совместной работы с ИИ-функциями в Microsoft 365](https://habr.com/ru/news/843910/?utm_campaign=843910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
