@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила баг аварийного завершения работы приложений Microsoft 365](https://habr.com/ru/news/843930/?utm_campaign=843930&utm_source=habrahabr&utm_medium=rss)
+- [Основатель Oracle Ларри Эллисон: глобальная система наблюдения на базе ИИ гарантирует контроль над непослушными людьми](https://habr.com/ru/news/843932/?utm_campaign=843932&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI создала «независимый» совет по безопасности для принятия решений о новых ИИ-моделях](https://habr.com/ru/news/843924/?utm_campaign=843924&utm_source=habrahabr&utm_medium=rss)
 - [В Apple Music появился плейлист «Тактильная музыка» для iOS 18](https://habr.com/ru/news/843920/?utm_campaign=843920&utm_source=habrahabr&utm_medium=rss)
 - [Java 23 — Launch Stream](https://habr.com/ru/companies/spring_aio/news/843914/?utm_campaign=843914&utm_source=habrahabr&utm_medium=rss)
-- [Вышла децентрализованная платформа совместной разработки Radicle 1.0](https://habr.com/ru/news/843918/?utm_campaign=843918&utm_source=habrahabr&utm_medium=rss)
-- [21 сентября в Москве пройдёт конференция Perl-Conf.Ru/24](https://habr.com/ru/news/843916/?utm_campaign=843916&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила Copilot Pages для совместной работы с ИИ-функциями в Microsoft 365](https://habr.com/ru/news/843910/?utm_campaign=843910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
