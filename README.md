@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft исправила баг аварийного завершения работы приложений Microsoft 365](https://habr.com/ru/news/843930/?utm_campaign=843930&utm_source=habrahabr&utm_medium=rss)
-- [Основатель Oracle Ларри Эллисон: глобальная система наблюдения на базе ИИ гарантирует контроль над непослушными людьми](https://habr.com/ru/news/843932/?utm_campaign=843932&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI создала «независимый» совет по безопасности для принятия решений о новых ИИ-моделях](https://habr.com/ru/news/843924/?utm_campaign=843924&utm_source=habrahabr&utm_medium=rss)
-- [В Apple Music появился плейлист «Тактильная музыка» для iOS 18](https://habr.com/ru/news/843920/?utm_campaign=843920&utm_source=habrahabr&utm_medium=rss)
-- [Java 23 — Launch Stream](https://habr.com/ru/companies/spring_aio/news/843914/?utm_campaign=843914&utm_source=habrahabr&utm_medium=rss)
+- [Петиция об освобождении торговой марки Javascript &lpar;владеет Oracle&rpar;](https://habr.com/ru/news/843966/?utm_campaign=843966&utm_source=habrahabr&utm_medium=rss)
+- [Релиз FreeBSD 13.4](https://habr.com/ru/news/843962/?utm_campaign=843962&utm_source=habrahabr&utm_medium=rss)
+- [FriendlyElec представила одноплатный компьютер NanoPi Zero2](https://habr.com/ru/news/843956/?utm_campaign=843956&utm_source=habrahabr&utm_medium=rss)
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/843946/?utm_campaign=843946&utm_source=habrahabr&utm_medium=rss)
+- [Intel выделит бизнес по производству чипов в независимую дочернюю компанию](https://habr.com/ru/news/843934/?utm_campaign=843934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
