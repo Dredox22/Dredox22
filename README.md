@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст интегрировал ChatGPT в графический калькулятор TI-84](https://habr.com/ru/news/844032/?utm_campaign=844032&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг поддержал банкротство микроэлектронного предприятия «Ангстрем»](https://habr.com/ru/news/844030/?utm_campaign=844030&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отключила «базовую аутентификацию» в Outlook](https://habr.com/ru/news/844012/?utm_campaign=844012&utm_source=habrahabr&utm_medium=rss)
 - [В RuStore появился раздел «Киоск» для пополнения баланса внутриигровых покупок](https://habr.com/ru/news/843986/?utm_campaign=843986&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс открыл регистрацию на международный чемпионат по программированию Yandex Cup с призовым фондом 12,5 млн рублей](https://habr.com/ru/companies/yandex/news/843974/?utm_campaign=843974&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на бесплатный обучающий курс по основам сетевых технологий](https://habr.com/ru/companies/mws/news/843868/?utm_campaign=843868&utm_source=habrahabr&utm_medium=rss)
-- [Релиз FreeBSD 13.4](https://habr.com/ru/news/843962/?utm_campaign=843962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
