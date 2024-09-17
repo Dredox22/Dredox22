@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Видеоигра Garry&#39;s Mod попала в «Книгу рекордов Гиннесса. Геймеры» как самый продаваемый ПК-эксклюзив в истории](https://habr.com/ru/news/843906/?utm_campaign=843906&utm_source=habrahabr&utm_medium=rss)
 - [Релиз iOS 18: переработанный интерфейс и кастомизация на главном экране](https://habr.com/ru/news/843896/?utm_campaign=843896&utm_source=habrahabr&utm_medium=rss)
 - [Runway анонсирует API для своих ИИ-моделей, генерирующих видео](https://habr.com/ru/companies/bothub/news/843892/?utm_campaign=843892&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games совместно с Coursera запустили курс для геймдизайнеров](https://habr.com/ru/news/843872/?utm_campaign=843872&utm_source=habrahabr&utm_medium=rss)
 - [Число подписчиков опции ИИ-сервиса «Алиса Про» достигло одного миллиона](https://habr.com/ru/news/843840/?utm_campaign=843840&utm_source=habrahabr&utm_medium=rss)
-- [PowerToys вскоре позволит изменять настройки Windows по расписанию](https://habr.com/ru/news/843832/?utm_campaign=843832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
