@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple отозвала иск к разработчику Pegasus из-за возможности раскрытия своих секретов](https://habr.com/ru/news/844086/?utm_campaign=844086&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Java 23](https://habr.com/ru/news/844060/?utm_campaign=844060&utm_source=habrahabr&utm_medium=rss)
 - [ИТМО провёл исследование open source в сферах машинного обучения и анализа данных](https://habr.com/ru/news/844072/?utm_campaign=844072&utm_source=habrahabr&utm_medium=rss)
 - [Франчайзинг «Пятёрочки» представил цифровизированный личный кабинет для партнёров](https://habr.com/ru/companies/X5Tech/news/844068/?utm_campaign=844068&utm_source=habrahabr&utm_medium=rss)
 - [Акции Intel взлетели на 14% на фоне новостей о разделении компании и приостановке строительства заводов в Европе](https://habr.com/ru/companies/dcmiran/news/844052/?utm_campaign=844052&utm_source=habrahabr&utm_medium=rss)
-- [Минэкономразвития одобрило проект по добровольной позитивной маркировке видеоигр](https://habr.com/ru/news/844046/?utm_campaign=844046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
