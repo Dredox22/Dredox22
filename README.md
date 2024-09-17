@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Петиция об освобождении торговой марки Javascript &lpar;владеет Oracle&rpar;](https://habr.com/ru/news/843966/?utm_campaign=843966&utm_source=habrahabr&utm_medium=rss)
+- [В RuStore появился раздел «Киоск» для пополнения баланса внутриигровых покупок](https://habr.com/ru/news/843986/?utm_campaign=843986&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс открыл регистрацию на международный чемпионат по программированию Yandex Cup с призовым фондом 12,5 млн рублей](https://habr.com/ru/companies/yandex/news/843974/?utm_campaign=843974&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на бесплатный обучающий курс по основам сетевых технологий](https://habr.com/ru/companies/mws/news/843868/?utm_campaign=843868&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FreeBSD 13.4](https://habr.com/ru/news/843962/?utm_campaign=843962&utm_source=habrahabr&utm_medium=rss)
 - [FriendlyElec представила одноплатный компьютер NanoPi Zero2](https://habr.com/ru/news/843956/?utm_campaign=843956&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/843946/?utm_campaign=843946&utm_source=habrahabr&utm_medium=rss)
-- [Intel выделит бизнес по производству чипов в независимую дочернюю компанию](https://habr.com/ru/news/843934/?utm_campaign=843934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
