@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Акции Intel взлетели на 14% на фоне новостей о разделении компании и приостановке строительства заводов в Европе](https://habr.com/ru/companies/dcmiran/news/844052/?utm_campaign=844052&utm_source=habrahabr&utm_medium=rss)
+- [Минэкономразвития одобрило проект по добровольной позитивной маркировке видеоигр](https://habr.com/ru/news/844046/?utm_campaign=844046&utm_source=habrahabr&utm_medium=rss)
+- [«Отечественный аналог Starlink» может обойтись в 445 млрд рублей, из которых 116 млрд средств будут бюджетные](https://habr.com/ru/news/844044/?utm_campaign=844044&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст интегрировал ChatGPT в графический калькулятор TI-84](https://habr.com/ru/news/844032/?utm_campaign=844032&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг поддержал банкротство микроэлектронного предприятия «Ангстрем»](https://habr.com/ru/news/844030/?utm_campaign=844030&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отключила «базовую аутентификацию» в Outlook](https://habr.com/ru/news/844012/?utm_campaign=844012&utm_source=habrahabr&utm_medium=rss)
-- [В RuStore появился раздел «Киоск» для пополнения баланса внутриигровых покупок](https://habr.com/ru/news/843986/?utm_campaign=843986&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс открыл регистрацию на международный чемпионат по программированию Yandex Cup с призовым фондом 12,5 млн рублей](https://habr.com/ru/companies/yandex/news/843974/?utm_campaign=843974&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
