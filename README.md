@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google планирует внедрить новую технологию, связанную с изображениями](https://habr.com/ru/companies/bothub/news/844162/?utm_campaign=844162&utm_source=habrahabr&utm_medium=rss)
 - [Магазин приложений Epic Games Store для iPad стал доступен в Европе](https://habr.com/ru/news/844152/?utm_campaign=844152&utm_source=habrahabr&utm_medium=rss)
 - [Wake-on-die: cотни членов «Хезболлы» пострадали при взрыве пейджеров](https://habr.com/ru/news/844146/?utm_campaign=844146&utm_source=habrahabr&utm_medium=rss)
 - [Релиз macOS Sequoia: дублирование экрана iPhone и встроенный менеджер окон](https://habr.com/ru/news/844136/?utm_campaign=844136&utm_source=habrahabr&utm_medium=rss)
 - [Electronic Arts отменила The Sims 5 и будет дорабатывать The Sims 4](https://habr.com/ru/news/844112/?utm_campaign=844112&utm_source=habrahabr&utm_medium=rss)
-- [Apple отозвала иск к разработчику Pegasus из-за возможности раскрытия своих секретов](https://habr.com/ru/news/844086/?utm_campaign=844086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
