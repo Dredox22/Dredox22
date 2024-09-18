@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В iOS 18 внедрили опцию беспроводного восстановления iPhone 16 с помощью другого iPhone или iPad](https://habr.com/ru/news/844202/?utm_campaign=844202&utm_source=habrahabr&utm_medium=rss)
+- [AT&amp;amp;T выплатит регулятору США $13 млн за утечку данных клиентов в 2023 году](https://habr.com/ru/news/844200/?utm_campaign=844200&utm_source=habrahabr&utm_medium=rss)
+- [В OpenAI устранили баг, из-за которого ChatGPT мог писать первым пользователю](https://habr.com/ru/news/844210/?utm_campaign=844210&utm_source=habrahabr&utm_medium=rss)
+- [Apple отменила выпуск обновления iPadOS 18 из-за «окирпичивания» iPad Pro M4](https://habr.com/ru/news/844196/?utm_campaign=844196&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge изменит дизайн настроек ради конкуренции с Google Chrome](https://habr.com/ru/news/844194/?utm_campaign=844194&utm_source=habrahabr&utm_medium=rss)
-- [Google Photos наконец-то позволяет переворачивать изображения и видео по горизонтали](https://habr.com/ru/news/844198/?utm_campaign=844198&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи в мире жалуются на быструю разрядку АКБ и сбои в работе iPhone после обновления до iOS 18](https://habr.com/ru/news/844192/?utm_campaign=844192&utm_source=habrahabr&utm_medium=rss)
-- [Mistral запустила бесплатный тариф для разработчиков и снизила цены на доступ к API](https://habr.com/ru/news/844174/?utm_campaign=844174&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи: новая модель OpenAI не только рассуждает, но и вводит в заблуждение](https://habr.com/ru/companies/bothub/news/844170/?utm_campaign=844170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
