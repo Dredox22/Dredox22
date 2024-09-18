@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [14 сентября «Доктор Веб» подверглась целевой атаке, в IT-инфраструктуре компании произошёл инцидент с нарушением ИБ](https://habr.com/ru/news/844320/?utm_campaign=844320&utm_source=habrahabr&utm_medium=rss)
 - [В macOS Sequoia нашли ошибку, которая отправляет некоторые запросы мимо DNS-прокси](https://habr.com/ru/news/844310/?utm_campaign=844310&utm_source=habrahabr&utm_medium=rss)
 - [Как развернуть кластер Kubernetes за несколько кликов — покажем на бесплатном вебинаре 8 октября](https://habr.com/ru/companies/cloud_ru/news/844294/?utm_campaign=844294&utm_source=habrahabr&utm_medium=rss)
 - [Страховая компания «Спасские ворота» уведомила Роскомнадзор об утечке данных клиентов](https://habr.com/ru/news/844292/?utm_campaign=844292&utm_source=habrahabr&utm_medium=rss)
 - [Apple стала первым клиентом нового завода TSMC в Аризоне](https://habr.com/ru/news/844290/?utm_campaign=844290&utm_source=habrahabr&utm_medium=rss)
-- [В сервис для знакомств TON Dating интегрировали ChatGPT для проверки совместимости потенциального партнёра на основе ИИ](https://habr.com/ru/news/844282/?utm_campaign=844282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
