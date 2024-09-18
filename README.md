@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord представил Dave — протокол сквозного шифрования для звонков](https://habr.com/ru/news/844452/?utm_campaign=844452&utm_source=habrahabr&utm_medium=rss)
 - [Расширенный голосовой режим ChatGPT будет доступен всем пользователям Plus в следующий вторник](https://habr.com/ru/companies/bothub/news/844448/?utm_campaign=844448&utm_source=habrahabr&utm_medium=rss)
 - [Сайт реестра электронных повесток слил персональные данные пользователей](https://habr.com/ru/news/844446/?utm_campaign=844446&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Office LTSC 2024: Новый офисный пакет без ИИ-функций, с поддержкой в течение 5 лет](https://habr.com/ru/news/844424/?utm_campaign=844424&utm_source=habrahabr&utm_medium=rss)
 - [В Москве стартовала технологическая конфа IT Elements — главное место встречи ИТ-комьюнити](https://habr.com/ru/companies/jetinfosystems/news/844402/?utm_campaign=844402&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia выпустила NVLM 1.0 – собственную мультимодальную LLM, которая на некоторых тестах опережает GPT-4o](https://habr.com/ru/news/844392/?utm_campaign=844392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
