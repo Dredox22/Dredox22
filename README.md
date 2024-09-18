@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Москве стартовала технологическая конфа IT Elements — главное место встречи ИТ-комьюнити](https://habr.com/ru/companies/jetinfosystems/news/844402/?utm_campaign=844402&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia выпустила NVLM 1.0 – собственную мультимодальную LLM, которая на некоторых тестах опережает GPT-4o](https://habr.com/ru/news/844392/?utm_campaign=844392&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-эксперты выявили новый способ получения доступа к банковским приложениям через демонстрацию экрана](https://habr.com/ru/news/844382/?utm_campaign=844382&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: Kubernetes для enterprise из облака, полностью готовый к эксплуатации. А так можно было?](https://habr.com/ru/companies/Linx/news/844366/?utm_campaign=844366&utm_source=habrahabr&utm_medium=rss)
 - [ОМП проведёт мероприятие «Аврора. Своя конференция»](https://habr.com/ru/news/844362/?utm_campaign=844362&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на осенний Data Science Meetup Lamoda Tech](https://habr.com/ru/companies/lamoda/news/844354/?utm_campaign=844354&utm_source=habrahabr&utm_medium=rss)
-- [14 сентября «Доктор Веб» подверглась целевой атаке, в IT-инфраструктуре компании произошёл инцидент с нарушением ИБ](https://habr.com/ru/news/844320/?utm_campaign=844320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
