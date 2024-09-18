@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи в мире жалуются на быструю разрядку АКБ и сбои в работе iPhone после обновления до iOS 18](https://habr.com/ru/news/844192/?utm_campaign=844192&utm_source=habrahabr&utm_medium=rss)
 - [Mistral запустила бесплатный тариф для разработчиков и снизила цены на доступ к API](https://habr.com/ru/news/844174/?utm_campaign=844174&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: новая модель OpenAI не только рассуждает, но и вводит в заблуждение](https://habr.com/ru/companies/bothub/news/844170/?utm_campaign=844170&utm_source=habrahabr&utm_medium=rss)
 - [Google планирует внедрить новую технологию, связанную с изображениями](https://habr.com/ru/companies/bothub/news/844162/?utm_campaign=844162&utm_source=habrahabr&utm_medium=rss)
 - [Магазин приложений Epic Games Store для iPad стал доступен в Европе](https://habr.com/ru/news/844152/?utm_campaign=844152&utm_source=habrahabr&utm_medium=rss)
-- [Wake-on-die: cотни членов «Хезболлы» пострадали при взрыве пейджеров](https://habr.com/ru/news/844146/?utm_campaign=844146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
