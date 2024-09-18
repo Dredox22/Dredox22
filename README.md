@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как развернуть кластер Kubernetes за несколько кликов — покажем на бесплатном вебинаре 8 октября](https://habr.com/ru/companies/cloud_ru/news/844294/?utm_campaign=844294&utm_source=habrahabr&utm_medium=rss)
+- [Страховая компания «Спасские ворота» уведомила Роскомнадзор об утечке данных клиентов](https://habr.com/ru/news/844292/?utm_campaign=844292&utm_source=habrahabr&utm_medium=rss)
+- [Apple стала первым клиентом нового завода TSMC в Аризоне](https://habr.com/ru/news/844290/?utm_campaign=844290&utm_source=habrahabr&utm_medium=rss)
+- [В сервис для знакомств TON Dating интегрировали ChatGPT для проверки совместимости потенциального партнёра на основе ИИ](https://habr.com/ru/news/844282/?utm_campaign=844282&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft потребовала от сотрудников работать в офисе не менее трёх дней в неделю](https://habr.com/ru/news/844266/?utm_campaign=844266&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта хранилища данных «in-memory data store» Valkey 8.0.0](https://habr.com/ru/news/844256/?utm_campaign=844256&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 18 внедрили опцию беспроводного восстановления iPhone 16 с помощью другого iPhone или iPad](https://habr.com/ru/news/844202/?utm_campaign=844202&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T выплатит регулятору США $13 млн за утечку данных клиентов в 2023 году](https://habr.com/ru/news/844200/?utm_campaign=844200&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI устранили баг, из-за которого ChatGPT мог писать первым пользователю](https://habr.com/ru/news/844210/?utm_campaign=844210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
