@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Ростелекоме» исключили утечку данных из реестра электронных повесток](https://habr.com/ru/news/844558/?utm_campaign=844558&utm_source=habrahabr&utm_medium=rss)
+- [Поспорили как-то разработчик с безопасником о том, как построить дом…](https://habr.com/ru/companies/bastion/news/843646/?utm_campaign=843646&utm_source=habrahabr&utm_medium=rss)
+- [Число фальшивых сайтов с «дешёвыми iPhone 16» выросло почти в 30 раз](https://habr.com/ru/news/844546/?utm_campaign=844546&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносный ответ: эксперты ЦК F.A.C.C.T. обнаружили необычный способ рассылки майнера](https://habr.com/ru/companies/f_a_c_c_t/news/843614/?utm_campaign=843614&utm_source=habrahabr&utm_medium=rss)
 - [Доклады про ИИ на конференции YappiDays в Ярославле](https://habr.com/ru/companies/raft/news/844434/?utm_campaign=844434&utm_source=habrahabr&utm_medium=rss)
-- [LinkedIn обучает модели ИИ на данных пользователей](https://habr.com/ru/news/844524/?utm_campaign=844524&utm_source=habrahabr&utm_medium=rss)
-- [Соцсеть X &lpar;Twitter&rpar; смогла обойти блокировку регулятора в Бразилии с помощью Cloudflare](https://habr.com/ru/news/844498/?utm_campaign=844498&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка iMessage в iOS 18 привела к повторяющимся сбоям](https://habr.com/ru/news/844482/?utm_campaign=844482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
