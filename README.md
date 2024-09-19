@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз обновления языка программирования Swift 6.0](https://habr.com/ru/news/844698/?utm_campaign=844698&utm_source=habrahabr&utm_medium=rss)
+- [Автоматизация бюджетирования: новые подходы для многофилиальных банков — вебинар от ПрограмБанк](https://habr.com/ru/companies/programbank/news/844692/?utm_campaign=844692&utm_source=habrahabr&utm_medium=rss)
+- [Второй день IT Elements: тренды в инфре, NGFW и все о ЦОДах](https://habr.com/ru/companies/jetinfosystems/news/844690/?utm_campaign=844690&utm_source=habrahabr&utm_medium=rss)
 - [На SOC Forum-2024 развернется Кибербитва за колонизацию Марса](https://habr.com/ru/companies/solarsecurity/news/844684/?utm_campaign=844684&utm_source=habrahabr&utm_medium=rss)
 - [Еврокомиссары продолжают давить Apple: компанию обяжут предоставить конкурентам доступ к экосистеме iPhone](https://habr.com/ru/companies/dcmiran/news/844672/?utm_campaign=844672&utm_source=habrahabr&utm_medium=rss)
-- [PayPal с 7 октября введёт комиссию для россиян за неактивные в течение года счета](https://habr.com/ru/news/844626/?utm_campaign=844626&utm_source=habrahabr&utm_medium=rss)
-- [FineDay by GlowByte: BI 360 – BI со всех сторон](https://habr.com/ru/companies/glowbyte/news/844610/?utm_campaign=844610&utm_source=habrahabr&utm_medium=rss)
-- [VK обновила «VK Мессенджер»](https://habr.com/ru/news/844602/?utm_campaign=844602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
