@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Snap представила пятое поколение умных очков Spectacles со временем работы аккумулятора 45 минут](https://habr.com/ru/news/844472/?utm_campaign=844472&utm_source=habrahabr&utm_medium=rss)
+- [В Минцифры опровергли сообщения от исследователей, что можно получить данные граждан из реестра электронных повесток](https://habr.com/ru/news/844468/?utm_campaign=844468&utm_source=habrahabr&utm_medium=rss)
 - [Discord представил Dave — протокол сквозного шифрования для звонков](https://habr.com/ru/news/844452/?utm_campaign=844452&utm_source=habrahabr&utm_medium=rss)
 - [Расширенный голосовой режим ChatGPT будет доступен всем пользователям Plus в следующий вторник](https://habr.com/ru/companies/bothub/news/844448/?utm_campaign=844448&utm_source=habrahabr&utm_medium=rss)
 - [Сайт реестра электронных повесток слил персональные данные пользователей](https://habr.com/ru/news/844446/?utm_campaign=844446&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Office LTSC 2024: Новый офисный пакет без ИИ-функций, с поддержкой в течение 5 лет](https://habr.com/ru/news/844424/?utm_campaign=844424&utm_source=habrahabr&utm_medium=rss)
-- [В Москве стартовала технологическая конфа IT Elements — главное место встречи ИТ-комьюнити](https://habr.com/ru/companies/jetinfosystems/news/844402/?utm_campaign=844402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
