@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FineDay by GlowByte: BI 360 – BI со всех сторон](https://habr.com/ru/companies/glowbyte/news/844610/?utm_campaign=844610&utm_source=habrahabr&utm_medium=rss)
+- [VK обновила «VK Мессенджер»](https://habr.com/ru/news/844602/?utm_campaign=844602&utm_source=habrahabr&utm_medium=rss)
 - [В «Ростелекоме» исключили утечку данных из реестра электронных повесток](https://habr.com/ru/news/844558/?utm_campaign=844558&utm_source=habrahabr&utm_medium=rss)
 - [Поспорили как-то разработчик с безопасником о том, как построить дом…](https://habr.com/ru/companies/bastion/news/843646/?utm_campaign=843646&utm_source=habrahabr&utm_medium=rss)
 - [Число фальшивых сайтов с «дешёвыми iPhone 16» выросло почти в 30 раз](https://habr.com/ru/news/844546/?utm_campaign=844546&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносный ответ: эксперты ЦК F.A.C.C.T. обнаружили необычный способ рассылки майнера](https://habr.com/ru/companies/f_a_c_c_t/news/843614/?utm_campaign=843614&utm_source=habrahabr&utm_medium=rss)
-- [Доклады про ИИ на конференции YappiDays в Ярославле](https://habr.com/ru/companies/raft/news/844434/?utm_campaign=844434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
