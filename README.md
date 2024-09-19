@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суперкомпьютер Summit в Ок-Риджской национальной лаборатории выведут из эксплуатации в ноябре](https://habr.com/ru/news/844716/?utm_campaign=844716&utm_source=habrahabr&utm_medium=rss)
 - [В App Store появилась соцсеть SocialAI, в которой с пользователем общаются только боты](https://habr.com/ru/news/844710/?utm_campaign=844710&utm_source=habrahabr&utm_medium=rss)
 - [В сети начался конкурс вопросов для сложнейшего в мире теста для ИИ: за каждый можно получить до $5000](https://habr.com/ru/news/844700/?utm_campaign=844700&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз обновления языка программирования Swift 6.0](https://habr.com/ru/news/844698/?utm_campaign=844698&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация бюджетирования: новые подходы для многофилиальных банков — вебинар от ПрограмБанк](https://habr.com/ru/companies/programbank/news/844692/?utm_campaign=844692&utm_source=habrahabr&utm_medium=rss)
-- [Второй день IT Elements: тренды в инфре, NGFW и все о ЦОДах](https://habr.com/ru/companies/jetinfosystems/news/844690/?utm_campaign=844690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
