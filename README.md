@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вредоносный ответ: эксперты ЦК F.A.C.C.T. обнаружили необычный способ рассылки майнера](https://habr.com/ru/companies/f_a_c_c_t/news/843614/?utm_campaign=843614&utm_source=habrahabr&utm_medium=rss)
+- [Доклады про ИИ на конференции YappiDays в Ярославле](https://habr.com/ru/companies/raft/news/844434/?utm_campaign=844434&utm_source=habrahabr&utm_medium=rss)
+- [LinkedIn обучает модели ИИ на данных пользователей](https://habr.com/ru/news/844524/?utm_campaign=844524&utm_source=habrahabr&utm_medium=rss)
 - [Соцсеть X &lpar;Twitter&rpar; смогла обойти блокировку регулятора в Бразилии с помощью Cloudflare](https://habr.com/ru/news/844498/?utm_campaign=844498&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка iMessage в iOS 18 привела к повторяющимся сбоям](https://habr.com/ru/news/844482/?utm_campaign=844482&utm_source=habrahabr&utm_medium=rss)
-- [Компания 1X рассказала о создании алгоритмов для домашних роботов-гуманоидов](https://habr.com/ru/news/844478/?utm_campaign=844478&utm_source=habrahabr&utm_medium=rss)
-- [Релиз рабочего окружения GNOME 47 Denver](https://habr.com/ru/news/844484/?utm_campaign=844484&utm_source=habrahabr&utm_medium=rss)
-- [Snap представила пятое поколение умных очков Spectacles со временем работы аккумулятора 45 минут](https://habr.com/ru/news/844472/?utm_campaign=844472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
