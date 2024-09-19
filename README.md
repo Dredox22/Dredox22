@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Еврокомиссары продолжают давить Apple: компанию обяжут предоставить конкурентам доступ к экосистеме iPhone](https://habr.com/ru/companies/dcmiran/news/844672/?utm_campaign=844672&utm_source=habrahabr&utm_medium=rss)
 - [PayPal с 7 октября введёт комиссию для россиян за неактивные в течение года счета](https://habr.com/ru/news/844626/?utm_campaign=844626&utm_source=habrahabr&utm_medium=rss)
 - [FineDay by GlowByte: BI 360 – BI со всех сторон](https://habr.com/ru/companies/glowbyte/news/844610/?utm_campaign=844610&utm_source=habrahabr&utm_medium=rss)
 - [VK обновила «VK Мессенджер»](https://habr.com/ru/news/844602/?utm_campaign=844602&utm_source=habrahabr&utm_medium=rss)
 - [В «Ростелекоме» исключили утечку данных из реестра электронных повесток](https://habr.com/ru/news/844558/?utm_campaign=844558&utm_source=habrahabr&utm_medium=rss)
-- [Поспорили как-то разработчик с безопасником о том, как построить дом…](https://habr.com/ru/companies/bastion/news/843646/?utm_campaign=843646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
