@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Соцсеть X &lpar;Twitter&rpar; смогла обойти блокировку регулятора в Бразилии с помощью Cloudflare](https://habr.com/ru/news/844498/?utm_campaign=844498&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка iMessage в iOS 18 привела к повторяющимся сбоям](https://habr.com/ru/news/844482/?utm_campaign=844482&utm_source=habrahabr&utm_medium=rss)
 - [Компания 1X рассказала о создании алгоритмов для домашних роботов-гуманоидов](https://habr.com/ru/news/844478/?utm_campaign=844478&utm_source=habrahabr&utm_medium=rss)
 - [Релиз рабочего окружения GNOME 47 Denver](https://habr.com/ru/news/844484/?utm_campaign=844484&utm_source=habrahabr&utm_medium=rss)
 - [Snap представила пятое поколение умных очков Spectacles со временем работы аккумулятора 45 минут](https://habr.com/ru/news/844472/?utm_campaign=844472&utm_source=habrahabr&utm_medium=rss)
-- [В Минцифры опровергли сообщения от исследователей, что можно получить данные граждан из реестра электронных повесток](https://habr.com/ru/news/844468/?utm_campaign=844468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
