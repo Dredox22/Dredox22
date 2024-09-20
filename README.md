@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Распространители вредоносного ПО начали использовать отправку вредоносных писем от имени команды безопасности GitHub](https://habr.com/ru/news/844800/?utm_campaign=844800&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Браузере» добавили текстовый нейроредактор и другие инструменты для улучшения продуктивности на базе YandexGPT](https://habr.com/ru/news/844796/?utm_campaign=844796&utm_source=habrahabr&utm_medium=rss)
+- [Геймдиректор проекта Concord ушёл в отставку, сотрудники студии Firewalk ожидают худшего развития событий](https://habr.com/ru/news/844788/?utm_campaign=844788&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила стабильное приложение Windows App &lpar;Remote Desktop&rpar; для Windows, macOS, iOS, iPadOS и веб-браузеров](https://habr.com/ru/news/844778/?utm_campaign=844778&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила новый детектор производительности расширений браузера для Edge](https://habr.com/ru/news/844762/?utm_campaign=844762&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 18 iPhone начал показывать время, будучи разряженным](https://habr.com/ru/news/844758/?utm_campaign=844758&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: GPT-4 для создания 100 слов потребляет до трёх бутылок воды](https://habr.com/ru/news/844756/?utm_campaign=844756&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba Group обновила семейство языковых моделей Qwen 2.5](https://habr.com/ru/news/844746/?utm_campaign=844746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
