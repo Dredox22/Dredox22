@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российская команда получила золотые медали на финале чемпионата по алгоритмическому программированию ICPC 2024](https://habr.com/ru/news/844958/?utm_campaign=844958&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи сообщили, что YouTube заработал в России без ограничений по замедлению у некоторых провайдеров](https://habr.com/ru/news/844940/?utm_campaign=844940&utm_source=habrahabr&utm_medium=rss)
 - [Amazon представила нейросеть для генерации рекламных роликов](https://habr.com/ru/news/844914/?utm_campaign=844914&utm_source=habrahabr&utm_medium=rss)
 - [«Количество желающих повышать квалификацию в больших компаниях меньше, чем среди предпринимателей»](https://habr.com/ru/companies/X5Tech/news/844900/?utm_campaign=844900&utm_source=habrahabr&utm_medium=rss)
 - [Верховный суд Бразилии постановил штрафовать X &lpar;Twitter&rpar; на $922 250 в сутки за обход блокировки соцсети в стране](https://habr.com/ru/news/844894/?utm_campaign=844894&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили Reader-LM — языковую модель для конвертации HTML в Markdown](https://habr.com/ru/news/844868/?utm_campaign=844868&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
