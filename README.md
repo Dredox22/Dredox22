@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: GPT-4 для создания 100 слов потребляет до трёх бутылок воды](https://habr.com/ru/news/844756/?utm_campaign=844756&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba Group обновила семейство языковых моделей Qwen 2.5](https://habr.com/ru/news/844746/?utm_campaign=844746&utm_source=habrahabr&utm_medium=rss)
 - [В iPadOS 18 появился калькулятор с режимом «Математические заметки»](https://habr.com/ru/news/844742/?utm_campaign=844742&utm_source=habrahabr&utm_medium=rss)
 - [Суперкомпьютер Summit в Ок-Риджской национальной лаборатории выведут из эксплуатации в ноябре](https://habr.com/ru/news/844716/?utm_campaign=844716&utm_source=habrahabr&utm_medium=rss)
 - [В App Store появилась соцсеть SocialAI, в которой с пользователем общаются только боты](https://habr.com/ru/news/844710/?utm_campaign=844710&utm_source=habrahabr&utm_medium=rss)
-- [В сети начался конкурс вопросов для сложнейшего в мире теста для ИИ: за каждый можно получить до $5000](https://habr.com/ru/news/844700/?utm_campaign=844700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
