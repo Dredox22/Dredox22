@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики представили Reader-LM — языковую модель для конвертации HTML в Markdown](https://habr.com/ru/news/844868/?utm_campaign=844868&utm_source=habrahabr&utm_medium=rss)
+- [В сервисе «Яндекс Карты» добавили более миллиона комфортных точек для завершения маршрута во всех крупных городах России](https://habr.com/ru/news/844852/?utm_campaign=844852&utm_source=habrahabr&utm_medium=rss)
+- [Совместный митап для Java-разработчиков от ITFB Group, «МТС Банка» и «СберТеха»](https://habr.com/ru/companies/itfb/news/844844/?utm_campaign=844844&utm_source=habrahabr&utm_medium=rss)
 - [Законопроект об оборотных штрафах за утечки персональных данных планируют принять до конца 2024 года](https://habr.com/ru/news/844816/?utm_campaign=844816&utm_source=habrahabr&utm_medium=rss)
 - [Распространители вредоносного ПО начали использовать отправку вредоносных писем от имени команды безопасности GitHub](https://habr.com/ru/news/844800/?utm_campaign=844800&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Браузере» добавили текстовый нейроредактор и другие инструменты для улучшения продуктивности на базе YandexGPT](https://habr.com/ru/news/844796/?utm_campaign=844796&utm_source=habrahabr&utm_medium=rss)
-- [Геймдиректор проекта Concord ушёл в отставку, сотрудники студии Firewalk ожидают худшего развития событий](https://habr.com/ru/news/844788/?utm_campaign=844788&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила стабильное приложение Windows App &lpar;Remote Desktop&rpar; для Windows, macOS, iOS, iPadOS и веб-браузеров](https://habr.com/ru/news/844778/?utm_campaign=844778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
