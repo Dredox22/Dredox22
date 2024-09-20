@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Верховный суд Бразилии постановил штрафовать X &lpar;Twitter&rpar; на $922 250 в сутки за обход блокировки соцсети в стране](https://habr.com/ru/news/844894/?utm_campaign=844894&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Reader-LM — языковую модель для конвертации HTML в Markdown](https://habr.com/ru/news/844868/?utm_campaign=844868&utm_source=habrahabr&utm_medium=rss)
 - [В сервисе «Яндекс Карты» добавили более миллиона комфортных точек для завершения маршрута во всех крупных городах России](https://habr.com/ru/news/844852/?utm_campaign=844852&utm_source=habrahabr&utm_medium=rss)
 - [Совместный митап для Java-разработчиков от ITFB Group, «МТС Банка» и «СберТеха»](https://habr.com/ru/companies/itfb/news/844844/?utm_campaign=844844&utm_source=habrahabr&utm_medium=rss)
 - [Законопроект об оборотных штрафах за утечки персональных данных планируют принять до конца 2024 года](https://habr.com/ru/news/844816/?utm_campaign=844816&utm_source=habrahabr&utm_medium=rss)
-- [Распространители вредоносного ПО начали использовать отправку вредоносных писем от имени команды безопасности GitHub](https://habr.com/ru/news/844800/?utm_campaign=844800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
