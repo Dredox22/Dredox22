@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз OpenSSH 9.9](https://habr.com/ru/news/845038/?utm_campaign=845038&utm_source=habrahabr&utm_medium=rss)
 - [Поддержка API Claude от Anthropic стала доступна в Amvera Cloud](https://habr.com/ru/companies/amvera/news/845028/?utm_campaign=845028&utm_source=habrahabr&utm_medium=rss)
 - [Патент на ловлю покемона, фонарик для Apple-часов и техномиллиардеры в десятке самых богатых: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/844972/?utm_campaign=844972&utm_source=habrahabr&utm_medium=rss)
 - [В X &lpar;Twitter&rpar; заявили, что не планировали обход блокировки в Бразилии, переходя на динамические IP-адреса серверов](https://habr.com/ru/news/845012/?utm_campaign=845012&utm_source=habrahabr&utm_medium=rss)
 - [Tor Project заявил о «безопасности» на фоне сообщений о деанонимизации пользователей](https://habr.com/ru/news/845008/?utm_campaign=845008&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила разработку и поддержку Windows Server Update Services](https://habr.com/ru/news/845006/?utm_campaign=845006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
