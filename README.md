@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tor Project заявил о «безопасности» на фоне сообщений о деанонимизации пользователей](https://habr.com/ru/news/845008/?utm_campaign=845008&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратила разработку и поддержку Windows Server Update Services](https://habr.com/ru/news/845006/?utm_campaign=845006&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь выявил «катастрофическую» уязвимость безопасности в браузере Arc](https://habr.com/ru/news/845004/?utm_campaign=845004&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm объявила о решении купить Intel полностью, а не часть подразделений](https://habr.com/ru/news/845002/?utm_campaign=845002&utm_source=habrahabr&utm_medium=rss)
 - [Российская команда получила золотые медали на финале чемпионата по алгоритмическому программированию ICPC 2024](https://habr.com/ru/news/844958/?utm_campaign=844958&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи сообщили, что YouTube заработал в России без ограничений по замедлению у некоторых провайдеров](https://habr.com/ru/news/844940/?utm_campaign=844940&utm_source=habrahabr&utm_medium=rss)
-- [Amazon представила нейросеть для генерации рекламных роликов](https://habr.com/ru/news/844914/?utm_campaign=844914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
