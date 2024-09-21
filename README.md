@@ -71,7 +71,7 @@
 - [Проект по анализу использования языка людьми в интернете закрылся, потому что нейросети слишком загрязнили данные](https://habr.com/ru/news/845072/?utm_campaign=845072&utm_source=habrahabr&utm_medium=rss)
 - [Le Figaro: Telegram после задержания Дурова начал отвечать на запросы разных стран по расследованию киберпреступлений](https://habr.com/ru/news/845044/?utm_campaign=845044&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenSSH 9.9](https://habr.com/ru/news/845038/?utm_campaign=845038&utm_source=habrahabr&utm_medium=rss)
-- [Поддержка API Claude от Anthropic стала доступна в Amvera Cloud](https://habr.com/ru/companies/amvera/news/845028/?utm_campaign=845028&utm_source=habrahabr&utm_medium=rss)
+- [Встроенное проксирование до API Claude от Anthropic теперь доступно в Amvera Cloud](https://habr.com/ru/companies/amvera/news/845028/?utm_campaign=845028&utm_source=habrahabr&utm_medium=rss)
 - [Патент на ловлю покемона, фонарик для Apple-часов и техномиллиардеры в десятке самых богатых: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/844972/?utm_campaign=844972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
