@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Sequoia нарушает работу инструментов безопасности от CrowdStrike, Microsoft и других компаний](https://habr.com/ru/news/845108/?utm_campaign=845108&utm_source=habrahabr&utm_medium=rss)
 - [Disney решила отказаться от Slack после масштабной утечки данных](https://habr.com/ru/news/845100/?utm_campaign=845100&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ РФ с 1 октября откроет сервис «Знай своего клиента» для получения данных об уровне риска ИП или юрлица](https://habr.com/ru/news/845096/?utm_campaign=845096&utm_source=habrahabr&utm_medium=rss)
 - [Владельцев автомобилей предупредили о новом виде мошенничества с QR-кодами на парковочных автоматах](https://habr.com/ru/news/845088/?utm_campaign=845088&utm_source=habrahabr&utm_medium=rss)
 - [Проект по анализу использования языка людьми в интернете закрылся, потому что нейросети слишком загрязнили данные](https://habr.com/ru/news/845072/?utm_campaign=845072&utm_source=habrahabr&utm_medium=rss)
-- [Le Figaro: Telegram после задержания Дурова начал отвечать на запросы разных стран по расследованию киберпреступлений](https://habr.com/ru/news/845044/?utm_campaign=845044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
