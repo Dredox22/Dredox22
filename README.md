@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженер запустил Linux на Intel 4004](https://habr.com/ru/news/845142/?utm_campaign=845142&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволила изменить папку для скриншотов экрана по умолчанию в Windows 11](https://habr.com/ru/news/845130/?utm_campaign=845130&utm_source=habrahabr&utm_medium=rss)
 - [Вышел веб-сервер Angie 1.7.0, созданный бывшей командой Nginx](https://habr.com/ru/news/845136/?utm_campaign=845136&utm_source=habrahabr&utm_medium=rss)
 - [macOS Sequoia нарушает работу инструментов безопасности от CrowdStrike, Microsoft и других компаний](https://habr.com/ru/news/845108/?utm_campaign=845108&utm_source=habrahabr&utm_medium=rss)
 - [Disney решила отказаться от Slack после масштабной утечки данных](https://habr.com/ru/news/845100/?utm_campaign=845100&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ РФ с 1 октября откроет сервис «Знай своего клиента» для получения данных об уровне риска ИП или юрлица](https://habr.com/ru/news/845096/?utm_campaign=845096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
