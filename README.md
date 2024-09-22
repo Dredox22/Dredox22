@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dell расследует заявления об утечке данных после того, как хакер слил информацию о сотрудниках](https://habr.com/ru/news/845186/?utm_campaign=845186&utm_source=habrahabr&utm_medium=rss)
-- [В сеть попала копия CD-диска от разработчиков с бетой-версией Half-Life за 20 октября 1998 года](https://habr.com/ru/news/845184/?utm_campaign=845184&utm_source=habrahabr&utm_medium=rss)
+- [В сеть попала копия CD-диска от разработчиков с бета-версией Half-Life за 20 октября 1998 года](https://habr.com/ru/news/845184/?utm_campaign=845184&utm_source=habrahabr&utm_medium=rss)
 - [Steam обновила редактор создания и описания игр](https://habr.com/ru/news/845182/?utm_campaign=845182&utm_source=habrahabr&utm_medium=rss)
 - [IT‑кроссворд Selectel — старт уже завтра](https://habr.com/ru/companies/selectel/news/845094/?utm_campaign=845094&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm не исключает распродажи активов Intel после покупки компании](https://habr.com/ru/companies/dcmiran/news/845152/?utm_campaign=845152&utm_source=habrahabr&utm_medium=rss)
