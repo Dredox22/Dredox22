@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик представил версию Flappy Bird только на C &lpar;без Java/Kotlin&rpar; для Andorid c весом APK менее 100 КБ](https://habr.com/ru/news/845168/?utm_campaign=845168&utm_source=habrahabr&utm_medium=rss)
 - [IT‑кроссворд Selectel — старт уже завтра](https://habr.com/ru/companies/selectel/news/845094/?utm_campaign=845094&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm не исключает распродажи активов Intel после покупки компании](https://habr.com/ru/companies/dcmiran/news/845152/?utm_campaign=845152&utm_source=habrahabr&utm_medium=rss)
 - [Инженер запустил Linux на Intel 4004](https://habr.com/ru/news/845142/?utm_campaign=845142&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволила изменить папку для скриншотов экрана по умолчанию в Windows 11](https://habr.com/ru/news/845130/?utm_campaign=845130&utm_source=habrahabr&utm_medium=rss)
-- [Вышел веб-сервер Angie 1.7.0, созданный бывшей командой Nginx](https://habr.com/ru/news/845136/?utm_campaign=845136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
