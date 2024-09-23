@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/845448/?utm_campaign=845448&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запускает OpenAI Academy: инициатива направлена на поддержку разработчиков и организаций, использующих ИИ](https://habr.com/ru/news/845444/?utm_campaign=845444&utm_source=habrahabr&utm_medium=rss)
 - [Telegram меняет политику конфиденциальности](https://habr.com/ru/news/845442/?utm_campaign=845442&utm_source=habrahabr&utm_medium=rss)
 - [Релиз CRIU 4.0 — открытой системы для сохранения и восстановления состояния процессов в Linux](https://habr.com/ru/news/845438/?utm_campaign=845438&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: поиск в Telegram стал безопаснее, IP-адреса и номера телефонов нарушителей правил могут быть раскрыты по запросу](https://habr.com/ru/news/845420/?utm_campaign=845420&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries запустила новую платформу для разработчиков WB API](https://habr.com/ru/news/845414/?utm_campaign=845414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
