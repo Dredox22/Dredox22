@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Neowin: «Лаборатория Касперского» перевела свои ИБ-решения на ПК американских клиентов на антивирус UltraAV](https://habr.com/ru/news/845304/?utm_campaign=845304&utm_source=habrahabr&utm_medium=rss)
+- [3-4 октября встречаемся на форуме GIS DAYS 2024](https://habr.com/ru/companies/gaz-is/news/845302/?utm_campaign=845302&utm_source=habrahabr&utm_medium=rss)
 - [Кабмин поддержал законопроект, обязывающий Apple разрешить установку RuStore](https://habr.com/ru/news/845284/?utm_campaign=845284&utm_source=habrahabr&utm_medium=rss)
 - [Valve тестирует поддержку ARM64 для популярных игр](https://habr.com/ru/news/845280/?utm_campaign=845280&utm_source=habrahabr&utm_medium=rss)
 - [Google призывает прекратить использование WHOIS для проверки доменов TLS](https://habr.com/ru/news/845276/?utm_campaign=845276&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 129](https://habr.com/ru/news/845278/?utm_campaign=845278&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla выпустила открытый набор голосовых данных Common Voice 19.0](https://habr.com/ru/news/845250/?utm_campaign=845250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
