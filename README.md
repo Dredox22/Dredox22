@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кабмин поддержал законопроект, обязывающий Apple разрешить установку RuStore](https://habr.com/ru/news/845284/?utm_campaign=845284&utm_source=habrahabr&utm_medium=rss)
+- [Valve тестирует поддержку ARM64 для популярных игр](https://habr.com/ru/news/845280/?utm_campaign=845280&utm_source=habrahabr&utm_medium=rss)
+- [Google призывает прекратить использование WHOIS для проверки доменов TLS](https://habr.com/ru/news/845276/?utm_campaign=845276&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 129](https://habr.com/ru/news/845278/?utm_campaign=845278&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустила открытый набор голосовых данных Common Voice 19.0](https://habr.com/ru/news/845250/?utm_campaign=845250&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome будет переводить сложные комплексные страницы в режиме реального времени](https://habr.com/ru/news/845246/?utm_campaign=845246&utm_source=habrahabr&utm_medium=rss)
-- [Покажем вживую, как мы мигрируем аналитическую отчетность с SAP BW на импортонезависимый стек](https://habr.com/ru/companies/sapiens_solutions/news/844860/?utm_campaign=844860&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Hy 1.0.0 — диалекта Lisp для Python](https://habr.com/ru/news/845240/?utm_campaign=845240&utm_source=habrahabr&utm_medium=rss)
-- [Dell расследует заявления об утечке данных после того, как хакер слил информацию о сотрудниках](https://habr.com/ru/news/845186/?utm_campaign=845186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
