@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Клиенты системно значимых банков смогут подавать заявления о мошенничестве через их приложения](https://habr.com/ru/news/845326/?utm_campaign=845326&utm_source=habrahabr&utm_medium=rss)
+- [AT&amp;amp;T согласилась демонтировать почти 13 км старых телекоммуникационных кабелей со дна озера Тахо](https://habr.com/ru/news/845324/?utm_campaign=845324&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи рассказали о волнах «шумовых бурь» с искажённым трафиком](https://habr.com/ru/news/845322/?utm_campaign=845322&utm_source=habrahabr&utm_medium=rss)
 - [Neowin: «Лаборатория Касперского» перевела свои ИБ-решения на ПК американских клиентов на антивирус UltraAV](https://habr.com/ru/news/845304/?utm_campaign=845304&utm_source=habrahabr&utm_medium=rss)
 - [3-4 октября встречаемся на форуме GIS DAYS 2024](https://habr.com/ru/companies/gaz-is/news/845302/?utm_campaign=845302&utm_source=habrahabr&utm_medium=rss)
-- [Кабмин поддержал законопроект, обязывающий Apple разрешить установку RuStore](https://habr.com/ru/news/845284/?utm_campaign=845284&utm_source=habrahabr&utm_medium=rss)
-- [Valve тестирует поддержку ARM64 для популярных игр](https://habr.com/ru/news/845280/?utm_campaign=845280&utm_source=habrahabr&utm_medium=rss)
-- [Google призывает прекратить использование WHOIS для проверки доменов TLS](https://habr.com/ru/news/845276/?utm_campaign=845276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
