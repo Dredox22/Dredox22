@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили Time Ghost — демо игрового движка Unity 6](https://habr.com/ru/news/845470/?utm_campaign=845470&utm_source=habrahabr&utm_medium=rss)
+- [Франция назначает первого министра ИИ на фоне политических волнений](https://habr.com/ru/companies/bothub/news/845460/?utm_campaign=845460&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: BI в действии. Кейсы и решения для бизнеса](https://habr.com/ru/companies/rshb/news/845336/?utm_campaign=845336&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/845448/?utm_campaign=845448&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запускает OpenAI Academy: инициатива направлена на поддержку разработчиков и организаций, использующих ИИ](https://habr.com/ru/news/845444/?utm_campaign=845444&utm_source=habrahabr&utm_medium=rss)
-- [Telegram меняет политику конфиденциальности](https://habr.com/ru/news/845442/?utm_campaign=845442&utm_source=habrahabr&utm_medium=rss)
-- [Релиз CRIU 4.0 — открытой системы для сохранения и восстановления состояния процессов в Linux](https://habr.com/ru/news/845438/?utm_campaign=845438&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: поиск в Telegram стал безопаснее, IP-адреса и номера телефонов нарушителей правил могут быть раскрыты по запросу](https://habr.com/ru/news/845420/?utm_campaign=845420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
