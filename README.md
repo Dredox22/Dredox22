@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лиза Су: через 5 лет новые чипы для ИИ должны заменить GPU](https://habr.com/ru/companies/dcmiran/news/845366/?utm_campaign=845366&utm_source=habrahabr&utm_medium=rss)
+- [В среду выполнения JavaScript и TypeScript Bun 1.1.28 добавлена поддержка вызова кода на языке C](https://habr.com/ru/news/845358/?utm_campaign=845358&utm_source=habrahabr&utm_medium=rss)
 - [Клиенты системно значимых банков смогут подавать заявления о мошенничестве через их приложения](https://habr.com/ru/news/845326/?utm_campaign=845326&utm_source=habrahabr&utm_medium=rss)
 - [AT&amp;amp;T согласилась демонтировать почти 13 км старых телекоммуникационных кабелей со дна озера Тахо](https://habr.com/ru/news/845324/?utm_campaign=845324&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи рассказали о волнах «шумовых бурь» с искажённым трафиком](https://habr.com/ru/news/845322/?utm_campaign=845322&utm_source=habrahabr&utm_medium=rss)
-- [Neowin: «Лаборатория Касперского» перевела свои ИБ-решения на ПК американских клиентов на антивирус UltraAV](https://habr.com/ru/news/845304/?utm_campaign=845304&utm_source=habrahabr&utm_medium=rss)
-- [3-4 октября встречаемся на форуме GIS DAYS 2024](https://habr.com/ru/companies/gaz-is/news/845302/?utm_campaign=845302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
