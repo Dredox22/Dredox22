@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров: поиск в Telegram стал безопаснее, IP-адреса и номера телефонов нарушителей правил могут быть раскрыты по запросу](https://habr.com/ru/news/845420/?utm_campaign=845420&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries запустила новую платформу для разработчиков WB API](https://habr.com/ru/news/845414/?utm_campaign=845414&utm_source=habrahabr&utm_medium=rss)
+- [«Диспетчер задач» в Windows 11 теперь показывает больше информации об установленном накопителе](https://habr.com/ru/news/845396/?utm_campaign=845396&utm_source=habrahabr&utm_medium=rss)
 - [Лиза Су: через 5 лет новые чипы для ИИ должны заменить GPU](https://habr.com/ru/companies/dcmiran/news/845366/?utm_campaign=845366&utm_source=habrahabr&utm_medium=rss)
 - [В среду выполнения JavaScript и TypeScript Bun 1.1.28 добавлена поддержка вызова кода на языке C](https://habr.com/ru/news/845358/?utm_campaign=845358&utm_source=habrahabr&utm_medium=rss)
-- [Клиенты системно значимых банков смогут подавать заявления о мошенничестве через их приложения](https://habr.com/ru/news/845326/?utm_campaign=845326&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T согласилась демонтировать почти 13 км старых телекоммуникационных кабелей со дна озера Тахо](https://habr.com/ru/news/845324/?utm_campaign=845324&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи рассказали о волнах «шумовых бурь» с искажённым трафиком](https://habr.com/ru/news/845322/?utm_campaign=845322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
