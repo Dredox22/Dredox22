@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Греф: дефицит кадров в микроэлектронике РФ к 2030 году составит 50 тыс. человек](https://habr.com/ru/news/845502/?utm_campaign=845502&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили Time Ghost — демо игрового движка Unity 6](https://habr.com/ru/news/845470/?utm_campaign=845470&utm_source=habrahabr&utm_medium=rss)
 - [Франция назначает первого министра ИИ на фоне политических волнений](https://habr.com/ru/companies/bothub/news/845460/?utm_campaign=845460&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: BI в действии. Кейсы и решения для бизнеса](https://habr.com/ru/companies/rshb/news/845336/?utm_campaign=845336&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/845448/?utm_campaign=845448&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запускает OpenAI Academy: инициатива направлена на поддержку разработчиков и организаций, использующих ИИ](https://habr.com/ru/news/845444/?utm_campaign=845444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
