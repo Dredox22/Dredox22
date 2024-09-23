@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome будет переводить сложные комплексные страницы в режиме реального времени](https://habr.com/ru/news/845246/?utm_campaign=845246&utm_source=habrahabr&utm_medium=rss)
 - [Покажем вживую, как мы мигрируем аналитическую отчетность с SAP BW на импортонезависимый стек](https://habr.com/ru/companies/sapiens_solutions/news/844860/?utm_campaign=844860&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Hy 1.0.0 — диалекта Lisp для Python](https://habr.com/ru/news/845240/?utm_campaign=845240&utm_source=habrahabr&utm_medium=rss)
 - [Dell расследует заявления об утечке данных после того, как хакер слил информацию о сотрудниках](https://habr.com/ru/news/845186/?utm_campaign=845186&utm_source=habrahabr&utm_medium=rss)
 - [В сеть попала копия CD-диска от разработчиков с бета-версией Half-Life за 20 октября 1998 года](https://habr.com/ru/news/845184/?utm_campaign=845184&utm_source=habrahabr&utm_medium=rss)
-- [Steam обновила редактор создания и описания игр](https://habr.com/ru/news/845182/?utm_campaign=845182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
