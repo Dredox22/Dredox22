@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Положение подводного аппарата «Титан» отслеживали с помощью Microsoft Excel](https://habr.com/ru/news/845600/?utm_campaign=845600&utm_source=habrahabr&utm_medium=rss)
 - [В Android 15 отключат старые уведомления](https://habr.com/ru/news/845580/?utm_campaign=845580&utm_source=habrahabr&utm_medium=rss)
 - [Владельцы смартфонов iPhone 16 Pro жалуются на проблемы с экраном](https://habr.com/ru/news/845574/?utm_campaign=845574&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 позволит пользователю продолжить работу c Android и iPhone](https://habr.com/ru/news/845568/?utm_campaign=845568&utm_source=habrahabr&utm_medium=rss)
 - [FlatValidator for .NET обновился до версии 2.4.0](https://habr.com/ru/news/845560/?utm_campaign=845560&utm_source=habrahabr&utm_medium=rss)
-- [Эмулятор Delta получил многопользовательский режим для игр Nintendo DS](https://habr.com/ru/news/845558/?utm_campaign=845558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
