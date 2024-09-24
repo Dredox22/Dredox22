@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM и НАСА выпустили ИИ-модель с открытым исходным кодом для приложений по изучению погоды и климата](https://habr.com/ru/news/845640/?utm_campaign=845640&utm_source=habrahabr&utm_medium=rss)
+- [Только 4% ИТ-специалистов считают инфраструктуру своей компании полностью защищенной](https://habr.com/ru/companies/orion_soft/news/845628/?utm_campaign=845628&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила установочные образы Defender для Windows 10/11](https://habr.com/ru/news/845608/?utm_campaign=845608&utm_source=habrahabr&utm_medium=rss)
 - [Положение подводного аппарата «Титан» отслеживали с помощью Microsoft Excel](https://habr.com/ru/news/845600/?utm_campaign=845600&utm_source=habrahabr&utm_medium=rss)
 - [В Android 15 отключат старые уведомления](https://habr.com/ru/news/845580/?utm_campaign=845580&utm_source=habrahabr&utm_medium=rss)
-- [Владельцы смартфонов iPhone 16 Pro жалуются на проблемы с экраном](https://habr.com/ru/news/845574/?utm_campaign=845574&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 позволит пользователю продолжить работу c Android и iPhone](https://habr.com/ru/news/845568/?utm_campaign=845568&utm_source=habrahabr&utm_medium=rss)
-- [FlatValidator for .NET обновился до версии 2.4.0](https://habr.com/ru/news/845560/?utm_campaign=845560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
