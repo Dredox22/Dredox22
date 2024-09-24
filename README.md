@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как внедрить процессы безопасной разработки: кейс СИГМЫ](https://habr.com/ru/companies/sigma/news/845768/?utm_campaign=845768&utm_source=habrahabr&utm_medium=rss)
+- [Липкий клон: MimiStick — подражатели или эволюция Sticky Werewolf](https://habr.com/ru/companies/f_a_c_c_t/news/845766/?utm_campaign=845766&utm_source=habrahabr&utm_medium=rss)
+- [Llama Group открыла исходный код Winamp в рамках перевода проекта на модель для совместного развития](https://habr.com/ru/news/845760/?utm_campaign=845760&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик процессоров на архитектуре «Эльбрус» «МЦСТ» присоединяется к экосистеме ОС «Аврора»](https://habr.com/ru/news/845700/?utm_campaign=845700&utm_source=habrahabr&utm_medium=rss)
 - [Интервью с директором компании IDX](https://habr.com/ru/companies/idx/news/845666/?utm_campaign=845666&utm_source=habrahabr&utm_medium=rss)
-- [На GitHub опубликован скрипт ReplicateUI для копирования любого веб-сайта со всем кодом и картинками](https://habr.com/ru/news/845720/?utm_campaign=845720&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 18 появилась функция управления смартфоном взглядом](https://habr.com/ru/news/845684/?utm_campaign=845684&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» стал предлагать своим абонентам проверить личные данные на утечки](https://habr.com/ru/news/845658/?utm_campaign=845658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
