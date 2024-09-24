@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик процессоров на архитектуре «Эльбрус» «МЦСТ» присоединяется к экосистеме ОС «Аврора»](https://habr.com/ru/news/845700/?utm_campaign=845700&utm_source=habrahabr&utm_medium=rss)
+- [Интервью с директором компании IDX](https://habr.com/ru/companies/idx/news/845666/?utm_campaign=845666&utm_source=habrahabr&utm_medium=rss)
+- [На GitHub опубликован скрипт ReplicateUI для копирования любого веб-сайта со всем кодом и картинками](https://habr.com/ru/news/845720/?utm_campaign=845720&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 18 появилась функция управления смартфоном взглядом](https://habr.com/ru/news/845684/?utm_campaign=845684&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» стал предлагать своим абонентам проверить личные данные на утечки](https://habr.com/ru/news/845658/?utm_campaign=845658&utm_source=habrahabr&utm_medium=rss)
-- [Президент РФ поручил выделить из бюджета средства на поддержку разработчиков российских видеоигр](https://habr.com/ru/news/845646/?utm_campaign=845646&utm_source=habrahabr&utm_medium=rss)
-- [IBM и НАСА выпустили ИИ-модель с открытым исходным кодом для приложений по изучению погоды и климата](https://habr.com/ru/news/845640/?utm_campaign=845640&utm_source=habrahabr&utm_medium=rss)
-- [Только 4% ИТ-специалистов считают инфраструктуру своей компании полностью защищенной](https://habr.com/ru/companies/orion_soft/news/845628/?utm_campaign=845628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
