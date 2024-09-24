@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FlatValidator for .NET обновился до версии 2.4.0](https://habr.com/ru/news/845560/?utm_campaign=845560&utm_source=habrahabr&utm_medium=rss)
 - [Эмулятор Delta получил многопользовательский режим для игр Nintendo DS](https://habr.com/ru/news/845558/?utm_campaign=845558&utm_source=habrahabr&utm_medium=rss)
 - [Релиз планетария с открытым кодом Stellarium 24.3](https://habr.com/ru/news/845546/?utm_campaign=845546&utm_source=habrahabr&utm_medium=rss)
 - [В ЕС пока не собираются блокировать Telegram](https://habr.com/ru/news/845542/?utm_campaign=845542&utm_source=habrahabr&utm_medium=rss)
 - [Греф: дефицит кадров в микроэлектронике РФ к 2030 году составит 50 тыс. человек](https://habr.com/ru/news/845502/?utm_campaign=845502&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили Time Ghost — демо игрового движка Unity 6](https://habr.com/ru/news/845470/?utm_campaign=845470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
