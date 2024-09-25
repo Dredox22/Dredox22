@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CTO OpenAI Мира Мурати заявила, что покидает компанию](https://habr.com/ru/companies/bothub/news/846128/?utm_campaign=846128&utm_source=habrahabr&utm_medium=rss)
+- [Meta* Connect 2024: Очки Orion, гарнитура Quest 3S, обновления Meta* AI и многое другое](https://habr.com/ru/companies/bothub/news/846122/?utm_campaign=846122&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объединила приложения Xbox и Xbox Game Pass для iOS и Android в одно](https://habr.com/ru/news/846118/?utm_campaign=846118&utm_source=habrahabr&utm_medium=rss)
 - [Meta выпустила Llama 3.2: это первая мультимодальная LLM в опенсорс](https://habr.com/ru/news/846116/?utm_campaign=846116&utm_source=habrahabr&utm_medium=rss)
 - [Meta* выпустила свою первую открытую модель ИИ, способную обрабатывать изображения](https://habr.com/ru/companies/bothub/news/846108/?utm_campaign=846108&utm_source=habrahabr&utm_medium=rss)
-- [Платформу Cozystack включили в CNCF Landscape](https://habr.com/ru/companies/aenix/news/846102/?utm_campaign=846102&utm_source=habrahabr&utm_medium=rss)
-- [Глава Radiance Star представил руководство для разработчиков игр по получению гранта «Института развития интернета»](https://habr.com/ru/news/846090/?utm_campaign=846090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
