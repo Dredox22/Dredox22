@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex Cloud анонсировал платформу для комплексного управления облачной безопасностью с YandexGPT внутри](https://habr.com/ru/companies/yandex/news/845818/?utm_campaign=845818&utm_source=habrahabr&utm_medium=rss)
+- [Блогер MKBHD выпустил приложение с обоями для смартфонов по подписке, но разработчики нашли способ скачать весь архив](https://habr.com/ru/news/845888/?utm_campaign=845888&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструмента для поддержки формирования текста HarfBuzz 10.0.0](https://habr.com/ru/news/845880/?utm_campaign=845880&utm_source=habrahabr&utm_medium=rss)
 - [Компания Sysdig рассказала, ради чего чаще всего крадут ключи API провайдеров БЯМ](https://habr.com/ru/news/845870/?utm_campaign=845870&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила из российского AppStore 98 VPN-сервисов](https://habr.com/ru/news/845866/?utm_campaign=845866&utm_source=habrahabr&utm_medium=rss)
-- [В открытый доступ утекла информация о 100 млн пользователей MC2 Data из США](https://habr.com/ru/news/845856/?utm_campaign=845856&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Wolvic Chromium — браузер для AR-систем](https://habr.com/ru/news/845840/?utm_campaign=845840&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 18 появилась новая опция, позволяющая продолжать воспроизведение звука во время записи видео](https://habr.com/ru/news/845816/?utm_campaign=845816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
