@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Sysdig рассказала, ради чего чаще всего крадут ключи API провайдеров БЯМ](https://habr.com/ru/news/845870/?utm_campaign=845870&utm_source=habrahabr&utm_medium=rss)
+- [Apple удалила из российского AppStore 98 VPN-сервисов](https://habr.com/ru/news/845866/?utm_campaign=845866&utm_source=habrahabr&utm_medium=rss)
 - [В открытый доступ утекла информация о 100 млн пользователей MC2 Data из США](https://habr.com/ru/news/845856/?utm_campaign=845856&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wolvic Chromium — браузер для AR-систем](https://habr.com/ru/news/845840/?utm_campaign=845840&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 18 появилась новая опция, позволяющая продолжать воспроизведение звука во время записи видео](https://habr.com/ru/news/845816/?utm_campaign=845816&utm_source=habrahabr&utm_medium=rss)
-- [Zimbra-шторм! Нужно укрыться](https://habr.com/ru/companies/cyberok/news/845812/?utm_campaign=845812&utm_source=habrahabr&utm_medium=rss)
-- [На изображениях, созданных с помощью DALL-E на сервисе Azure OpenAI, появятся невидимые водяные знаки](https://habr.com/ru/news/845810/?utm_campaign=845810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
