@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* выпустила свою первую открытую модель ИИ, способную обрабатывать изображения](https://habr.com/ru/companies/bothub/news/846108/?utm_campaign=846108&utm_source=habrahabr&utm_medium=rss)
 - [Платформу Cozystack включили в CNCF Landscape](https://habr.com/ru/companies/aenix/news/846102/?utm_campaign=846102&utm_source=habrahabr&utm_medium=rss)
 - [Глава Radiance Star представил руководство для разработчиков игр по получению гранта «Института развития интернета»](https://habr.com/ru/news/846090/?utm_campaign=846090&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем студентов и начинающих специалистов в области ИБ принять участие в киберсоревнованиях](https://habr.com/ru/companies/gaz-is/news/845916/?utm_campaign=845916&utm_source=habrahabr&utm_medium=rss)
 - [Старший исполнительный директор CrowdStrike извинился на слушаниях в Конгрессе США за появление BSOD на миллионах ПК](https://habr.com/ru/news/846056/?utm_campaign=846056&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: треть персонала в российских компаниях доверяет сымитированным фишинговым письмам](https://habr.com/ru/news/846052/?utm_campaign=846052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
