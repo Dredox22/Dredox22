@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндекс Браузере» для организаций появилась функция аттестации устройств](https://habr.com/ru/news/845996/?utm_campaign=845996&utm_source=habrahabr&utm_medium=rss)
+- [Hibernate 7.0 уже близко](https://habr.com/ru/companies/spring_aio/news/845986/?utm_campaign=845986&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Музыке» появилась функция «Трейлеры»](https://habr.com/ru/news/845932/?utm_campaign=845932&utm_source=habrahabr&utm_medium=rss)
 - [HP представила ИИ для принтеров Print AI в рамках развития интеллектуальной печати](https://habr.com/ru/news/845910/?utm_campaign=845910&utm_source=habrahabr&utm_medium=rss)
 - [В Сеуле разработали летающую тележку Palletrone для перемещения грузов](https://habr.com/ru/news/845904/?utm_campaign=845904&utm_source=habrahabr&utm_medium=rss)
-- [Конференция Guardant Day в Санкт-Петербурге &lpar;4 октября&rpar;](https://habr.com/ru/companies/aktiv-company/news/845908/?utm_campaign=845908&utm_source=habrahabr&utm_medium=rss)
-- [60% мейнтейнеров Open Source-проектов не получают оплату за свой труд и подумывают бросить проект](https://habr.com/ru/companies/flant/news/845892/?utm_campaign=845892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
