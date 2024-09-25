@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [И на силу платформы сходить и призов выиграть](https://habr.com/ru/news/846034/?utm_campaign=846034&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Браузере» для организаций появилась функция аттестации устройств](https://habr.com/ru/news/845996/?utm_campaign=845996&utm_source=habrahabr&utm_medium=rss)
 - [Hibernate 7.0 уже близко](https://habr.com/ru/companies/spring_aio/news/845986/?utm_campaign=845986&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Музыке» появилась функция «Трейлеры»](https://habr.com/ru/news/845932/?utm_campaign=845932&utm_source=habrahabr&utm_medium=rss)
 - [HP представила ИИ для принтеров Print AI в рамках развития интеллектуальной печати](https://habr.com/ru/news/845910/?utm_campaign=845910&utm_source=habrahabr&utm_medium=rss)
-- [В Сеуле разработали летающую тележку Palletrone для перемещения грузов](https://habr.com/ru/news/845904/?utm_campaign=845904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
