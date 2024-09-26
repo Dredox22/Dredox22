@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В СибГУТИ разработали алгоритм для быстрого и точного прогнозирования курсов валют, погоды и других процессов](https://habr.com/ru/news/846364/?utm_campaign=846364&utm_source=habrahabr&utm_medium=rss)
 - [За год после открытия около 1,6 млн новых пользователей перешло на почту для российских сервисов xmail](https://habr.com/ru/news/846342/?utm_campaign=846342&utm_source=habrahabr&utm_medium=rss)
 - [LoRA How2Draw рисует пошаговые руководства](https://habr.com/ru/news/846336/?utm_campaign=846336&utm_source=habrahabr&utm_medium=rss)
 - [Последние изменения в Open Source-платформе Cozystack: Opencost, система сбора логов, bridge binding в виртуалках](https://habr.com/ru/companies/aenix/news/846334/?utm_campaign=846334&utm_source=habrahabr&utm_medium=rss)
-- [Интеллект искусственный — задачи настоящие. Предложи свой проект крупнейшему энергетическому комплексу России](https://habr.com/ru/companies/sigma/news/846252/?utm_campaign=846252&utm_source=habrahabr&utm_medium=rss)
-- [Калифорнийский университет в Беркли создал систему для анализа текстов DocETL](https://habr.com/ru/news/846300/?utm_campaign=846300&utm_source=habrahabr&utm_medium=rss)
+- [Интеллект искусственный — задачи настоящие. Предложи свой проект крупнейшему энергетическому холдингу России](https://habr.com/ru/companies/sigma/news/846252/?utm_campaign=846252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
