@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Дуров на допросе во Франции заявил, что зарабатывает за год один эмиратский дирхам &lpar;25 рублей&rpar;](https://habr.com/ru/news/846152/?utm_campaign=846152&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики тестируют Napkin — сервис для генерации схем и диаграмм](https://habr.com/ru/news/846150/?utm_campaign=846150&utm_source=habrahabr&utm_medium=rss)
 - [CTO OpenAI Мира Мурати заявила, что покидает компанию](https://habr.com/ru/companies/bothub/news/846128/?utm_campaign=846128&utm_source=habrahabr&utm_medium=rss)
 - [Meta* Connect 2024: Очки Orion, гарнитура Quest 3S, обновления Meta* AI и многое другое](https://habr.com/ru/companies/bothub/news/846122/?utm_campaign=846122&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объединила приложения Xbox и Xbox Game Pass для iOS и Android в одно](https://habr.com/ru/news/846118/?utm_campaign=846118&utm_source=habrahabr&utm_medium=rss)
-- [Meta выпустила Llama 3.2: это первая мультимодальная LLM в опенсорс](https://habr.com/ru/news/846116/?utm_campaign=846116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
