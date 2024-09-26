@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз ELKS 0.8 — проекта ядра Linux для устаревших 16-разрядных процессоров Intel](https://habr.com/ru/news/846178/?utm_campaign=846178&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект Frog для ускорения продвижения новых протоколов Wayland](https://habr.com/ru/news/846168/?utm_campaign=846168&utm_source=habrahabr&utm_medium=rss)
+- [Meta* показала прототип голографических очков дополненной реальности Orion](https://habr.com/ru/news/846166/?utm_campaign=846166&utm_source=habrahabr&utm_medium=rss)
 - [На Mozilla Firefox подали жалобу из-за «отслеживание по умолчанию»](https://habr.com/ru/news/846164/?utm_campaign=846164&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» и «Открытая мобильная платформа» &lpar;ОМП&rpar; приглашают разработчиков на мероприятие «Аврора. Своя конференция»](https://habr.com/ru/news/846162/?utm_campaign=846162&utm_source=habrahabr&utm_medium=rss)
-- [Tesla опубликовала наработки по реализации своего сетевого протокола TTPoE](https://habr.com/ru/news/846160/?utm_campaign=846160&utm_source=habrahabr&utm_medium=rss)
-- [Monster Hunter Wilds нужна генерация кадров, чтобы вытянуть 60 кадров в секунду на 1080p на RTX 4060](https://habr.com/ru/news/846154/?utm_campaign=846154&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Дуров на допросе во Франции заявил, что зарабатывает за год один эмиратский дирхам &lpar;25 рублей&rpar;](https://habr.com/ru/news/846152/?utm_campaign=846152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
