@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [За год после открытия около 1,6 млн новых пользователей перешло на почту для российских сервисов xmail](https://habr.com/ru/news/846342/?utm_campaign=846342&utm_source=habrahabr&utm_medium=rss)
+- [LoRA How2Draw рисует пошаговые руководства](https://habr.com/ru/news/846336/?utm_campaign=846336&utm_source=habrahabr&utm_medium=rss)
+- [Последние изменения в Open Source-платформе Cozystack: Opencost, система сбора логов, bridge binding в виртуалках](https://habr.com/ru/companies/aenix/news/846334/?utm_campaign=846334&utm_source=habrahabr&utm_medium=rss)
 - [Интеллект искусственный — задачи настоящие. Предложи свой проект крупнейшему энергетическому комплексу России](https://habr.com/ru/companies/sigma/news/846252/?utm_campaign=846252&utm_source=habrahabr&utm_medium=rss)
 - [Калифорнийский университет в Беркли создал систему для анализа текстов DocETL](https://habr.com/ru/news/846300/?utm_campaign=846300&utm_source=habrahabr&utm_medium=rss)
-- [Регистрируйся на ИТ-хакатон MORE.Tech от ВТБ](https://habr.com/ru/companies/vtb/news/846276/?utm_campaign=846276&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных курсов и занятий, которые стоит пройти в октябре](https://habr.com/ru/companies/netologyru/news/846226/?utm_campaign=846226&utm_source=habrahabr&utm_medium=rss)
-- [Galaxy Store теперь требует учётную запись Samsung перед загрузкой и даже обновлением приложений](https://habr.com/ru/news/846258/?utm_campaign=846258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
