@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакер внедрил ложные воспоминания в ChatGPT, чтобы украсть данные пользователей](https://habr.com/ru/news/846236/?utm_campaign=846236&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер», «Альфа‑банк» и «Т‑банк» подписали меморандум о создании консорциума для развития единого QR‑кода](https://habr.com/ru/news/846210/?utm_campaign=846210&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Airbyte 1.0 — платформы интеграции данных для конвейеров ELT от API, баз данных и файлов в базы и хранилища данных](https://habr.com/ru/news/846202/?utm_campaign=846202&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Карты» научились строить маршруты внутри зданий](https://habr.com/ru/news/846146/?utm_campaign=846146&utm_source=habrahabr&utm_medium=rss)
 - [Релиз ELKS 0.8 — проекта ядра Linux для устаревших 16-разрядных процессоров Intel](https://habr.com/ru/news/846178/?utm_campaign=846178&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Frog для ускорения продвижения новых протоколов Wayland](https://habr.com/ru/news/846168/?utm_campaign=846168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
