@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Калифорнийский университет в Беркли создал систему для анализа текстов DocETL](https://habr.com/ru/news/846300/?utm_campaign=846300&utm_source=habrahabr&utm_medium=rss)
 - [Регистрируйся на ИТ-хакатон MORE.Tech от ВТБ](https://habr.com/ru/companies/vtb/news/846276/?utm_campaign=846276&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных курсов и занятий, которые стоит пройти в октябре](https://habr.com/ru/companies/netologyru/news/846226/?utm_campaign=846226&utm_source=habrahabr&utm_medium=rss)
 - [Galaxy Store теперь требует учётную запись Samsung перед загрузкой и даже обновлением приложений](https://habr.com/ru/news/846258/?utm_campaign=846258&utm_source=habrahabr&utm_medium=rss)
 - [Инструкция по бэкапу данных из сервисов Google после предупреждения Минцифры](https://habr.com/ru/news/846248/?utm_campaign=846248&utm_source=habrahabr&utm_medium=rss)
-- [Хакер внедрил ложные воспоминания в ChatGPT, чтобы украсть данные пользователей](https://habr.com/ru/news/846236/?utm_campaign=846236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
