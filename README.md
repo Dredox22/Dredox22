@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Mozilla Firefox подали жалобу из-за «отслеживание по умолчанию»](https://habr.com/ru/news/846164/?utm_campaign=846164&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» и «Открытая мобильная платформа» &lpar;ОМП&rpar; приглашают разработчиков на мероприятие «Аврора. Своя конференция»](https://habr.com/ru/news/846162/?utm_campaign=846162&utm_source=habrahabr&utm_medium=rss)
+- [Tesla опубликовала наработки по реализации своего сетевого протокола TTPoE](https://habr.com/ru/news/846160/?utm_campaign=846160&utm_source=habrahabr&utm_medium=rss)
 - [Monster Hunter Wilds нужна генерация кадров, чтобы вытянуть 60 кадров в секунду на 1080p на RTX 4060](https://habr.com/ru/news/846154/?utm_campaign=846154&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Дуров на допросе во Франции заявил, что зарабатывает за год один эмиратский дирхам &lpar;25 рублей&rpar;](https://habr.com/ru/news/846152/?utm_campaign=846152&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики тестируют Napkin — сервис для генерации схем и диаграмм](https://habr.com/ru/news/846150/?utm_campaign=846150&utm_source=habrahabr&utm_medium=rss)
-- [CTO OpenAI Мира Мурати заявила, что покидает компанию](https://habr.com/ru/companies/bothub/news/846128/?utm_campaign=846128&utm_source=habrahabr&utm_medium=rss)
-- [Meta* Connect 2024: Очки Orion, гарнитура Quest 3S, обновления Meta* AI и многое другое](https://habr.com/ru/companies/bothub/news/846122/?utm_campaign=846122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
