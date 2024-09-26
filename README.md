@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Monster Hunter Wilds нужна генерация кадров, чтобы вытянуть 60 кадров в секунду на 1080p на RTX 4060](https://habr.com/ru/news/846154/?utm_campaign=846154&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Дуров на допросе во Франции заявил, что зарабатывает за год один эмиратский дирхам &lpar;25 рублей&rpar;](https://habr.com/ru/news/846152/?utm_campaign=846152&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики тестируют Napkin — сервис для генерации схем и диаграмм](https://habr.com/ru/news/846150/?utm_campaign=846150&utm_source=habrahabr&utm_medium=rss)
 - [CTO OpenAI Мира Мурати заявила, что покидает компанию](https://habr.com/ru/companies/bothub/news/846128/?utm_campaign=846128&utm_source=habrahabr&utm_medium=rss)
 - [Meta* Connect 2024: Очки Orion, гарнитура Quest 3S, обновления Meta* AI и многое другое](https://habr.com/ru/companies/bothub/news/846122/?utm_campaign=846122&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объединила приложения Xbox и Xbox Game Pass для iOS и Android в одно](https://habr.com/ru/news/846118/?utm_campaign=846118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
