@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Galaxy Store теперь требует учётную запись Samsung перед загрузкой и даже обновлением приложений](https://habr.com/ru/news/846258/?utm_campaign=846258&utm_source=habrahabr&utm_medium=rss)
 - [Инструкция по бэкапу данных из сервисов Google после предупреждения Минцифры](https://habr.com/ru/news/846248/?utm_campaign=846248&utm_source=habrahabr&utm_medium=rss)
 - [Хакер внедрил ложные воспоминания в ChatGPT, чтобы украсть данные пользователей](https://habr.com/ru/news/846236/?utm_campaign=846236&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер», «Альфа‑банк» и «Т‑банк» подписали меморандум о создании консорциума для развития единого QR‑кода](https://habr.com/ru/news/846210/?utm_campaign=846210&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Airbyte 1.0 — платформы интеграции данных для конвейеров ELT от API, баз данных и файлов в базы и хранилища данных](https://habr.com/ru/news/846202/?utm_campaign=846202&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» научились строить маршруты внутри зданий](https://habr.com/ru/news/846146/?utm_campaign=846146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
