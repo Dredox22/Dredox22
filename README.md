@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Яндекс приглашает на Mobile PeerLab #2 — камерную встречу для мобильных разработчиков](https://habr.com/ru/companies/yandex/news/846476/?utm_campaign=846476&utm_source=habrahabr&utm_medium=rss)
-- [В Google стремятся сохранить бесплатные сервисы доступными пользователям в России](https://habr.com/ru/news/846480/?utm_campaign=846480&utm_source=habrahabr&utm_medium=rss)
-- [Работа с k8s нодами через kui](https://habr.com/ru/news/846472/?utm_campaign=846472&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PostgreSQL 17](https://habr.com/ru/news/846470/?utm_campaign=846470&utm_source=habrahabr&utm_medium=rss)
-- [Индийская страховая компания подала в суд на Telegram из-за кражи хакером персональных данных клиентов](https://habr.com/ru/news/846454/?utm_campaign=846454&utm_source=habrahabr&utm_medium=rss)
+- [28 сентября состоится открытие контрольной «Выходи решать!» в Технопарке Физтех-лицея им. П.Л. Капицы](https://habr.com/ru/news/846488/?utm_campaign=846488&utm_source=habrahabr&utm_medium=rss)
+- [Tesla начала рассылать приглашения на презентацию своего роботакси](https://habr.com/ru/news/846492/?utm_campaign=846492&utm_source=habrahabr&utm_medium=rss)
+- [Более 500 специалистов ИТ-отрасли обсудили развитие рынка инфраструктурных решений на Tech2b Conf](https://habr.com/ru/companies/k2tech/news/846496/?utm_campaign=846496&utm_source=habrahabr&utm_medium=rss)
+- [Куда катятся кольца? Взгляд в будущее smart rings через патенты](https://habr.com/ru/companies/onlinepatent/news/846494/?utm_campaign=846494&utm_source=habrahabr&utm_medium=rss)
+- [Учить русский жестовый язык стало проще](https://habr.com/ru/companies/sberbank/news/846240/?utm_campaign=846240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
