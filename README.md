@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи раскрыли способ доступа к автомобилям KIA с помощью только данных с номерного знака](https://habr.com/ru/news/846422/?utm_campaign=846422&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PostgreSQL 17](https://habr.com/ru/news/846414/?utm_campaign=846414&utm_source=habrahabr&utm_medium=rss)
 - [EA объявила о закрытии игрового проекта The Simpsons: Tapped Out спустя 12 лет работы](https://habr.com/ru/news/846412/?utm_campaign=846412&utm_source=habrahabr&utm_medium=rss)
 - [Tor Project и Tails решили объединить усилия, чтобы сделать интернет безопаснее и свободнее](https://habr.com/ru/news/846408/?utm_campaign=846408&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заблокирует новое приложение Teams на старых версиях Windows 10 и 11](https://habr.com/ru/news/846372/?utm_campaign=846372&utm_source=habrahabr&utm_medium=rss)
-- [В СибГУТИ разработали алгоритм для быстрого и точного прогнозирования курсов валют, погоды и других процессов](https://habr.com/ru/news/846364/?utm_campaign=846364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
