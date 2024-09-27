@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс приглашает на Mobile PeerLab #2 — камерную встречу для мобильных разработчиков](https://habr.com/ru/companies/yandex/news/846476/?utm_campaign=846476&utm_source=habrahabr&utm_medium=rss)
+- [В Google стремятся сохранить бесплатные сервисы доступными пользователям в России](https://habr.com/ru/news/846480/?utm_campaign=846480&utm_source=habrahabr&utm_medium=rss)
+- [Работа с k8s нодами через kui](https://habr.com/ru/news/846472/?utm_campaign=846472&utm_source=habrahabr&utm_medium=rss)
+- [Вышел PostgreSQL 17](https://habr.com/ru/news/846470/?utm_campaign=846470&utm_source=habrahabr&utm_medium=rss)
 - [Индийская страховая компания подала в суд на Telegram из-за кражи хакером персональных данных клиентов](https://habr.com/ru/news/846454/?utm_campaign=846454&utm_source=habrahabr&utm_medium=rss)
-- [К 2030 году в России начнут разработку программы для проектировки процессоров 28 нм](https://habr.com/ru/news/846452/?utm_campaign=846452&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: Discord могут заблокировать в России](https://habr.com/ru/news/846442/?utm_campaign=846442&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи раскрыли способ доступа к автомобилям KIA с помощью только данных с номерного знака](https://habr.com/ru/news/846422/?utm_campaign=846422&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PostgreSQL 17](https://habr.com/ru/news/846414/?utm_campaign=846414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
