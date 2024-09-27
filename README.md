@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Индийская страховая компания подала в суд на Telegram из-за кражи хакером персональных данных клиентов](https://habr.com/ru/news/846454/?utm_campaign=846454&utm_source=habrahabr&utm_medium=rss)
+- [К 2030 году в России начнут разработку программы для проектировки процессоров 28 нм](https://habr.com/ru/news/846452/?utm_campaign=846452&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: Discord могут заблокировать в России](https://habr.com/ru/news/846442/?utm_campaign=846442&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи раскрыли способ доступа к автомобилям KIA с помощью только данных с номерного знака](https://habr.com/ru/news/846422/?utm_campaign=846422&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PostgreSQL 17](https://habr.com/ru/news/846414/?utm_campaign=846414&utm_source=habrahabr&utm_medium=rss)
-- [EA объявила о закрытии игрового проекта The Simpsons: Tapped Out спустя 12 лет работы](https://habr.com/ru/news/846412/?utm_campaign=846412&utm_source=habrahabr&utm_medium=rss)
-- [Tor Project и Tails решили объединить усилия, чтобы сделать интернет безопаснее и свободнее](https://habr.com/ru/news/846408/?utm_campaign=846408&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заблокирует новое приложение Teams на старых версиях Windows 10 и 11](https://habr.com/ru/news/846372/?utm_campaign=846372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
