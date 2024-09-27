@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Бюро 1440» разрабатывает универсальный терминал спутниковой связи для поездов РЖД](https://habr.com/ru/news/846630/?utm_campaign=846630&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: умные ТВ Samsung и LG отсылают скриншоты и аудиоданные на свои серверы для таргетирования рекламы](https://habr.com/ru/news/846624/?utm_campaign=846624&utm_source=habrahabr&utm_medium=rss)
 - [Deadlock превращает читеров в лягушек](https://habr.com/ru/news/846606/?utm_campaign=846606&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил демо-версию платформы для разработки IT-продуктов под названием SourceCraft](https://habr.com/ru/news/846514/?utm_campaign=846514&utm_source=habrahabr&utm_medium=rss)
 - [28 сентября состоится открытие контрольной «Выходи решать!» в Технопарке Физтех-лицея им. П.Л. Капицы](https://habr.com/ru/news/846488/?utm_campaign=846488&utm_source=habrahabr&utm_medium=rss)
-- [Tesla начала рассылать приглашения на презентацию своего роботакси](https://habr.com/ru/news/846492/?utm_campaign=846492&utm_source=habrahabr&utm_medium=rss)
-- [Более 500 специалистов ИТ-отрасли обсудили развитие рынка инфраструктурных решений на Tech2b Conf](https://habr.com/ru/companies/k2tech/news/846496/?utm_campaign=846496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
