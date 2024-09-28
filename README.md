@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram вводит новую функцию: подарки](https://habr.com/ru/news/846758/?utm_campaign=846758&utm_source=habrahabr&utm_medium=rss)
 - [В открытом коде Winamp от Llama Group эксперты обнаружили нарушение лицензий GPL и LGPL](https://habr.com/ru/news/846756/?utm_campaign=846756&utm_source=habrahabr&utm_medium=rss)
 - [В ГК «Солар» предупредили, что у хакеров может быть база данных с информацией почти по каждому россиянину](https://habr.com/ru/news/846754/?utm_campaign=846754&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры представили роборуку, которая может отсоединяться от основы, чтобы хватать предметы](https://habr.com/ru/news/846752/?utm_campaign=846752&utm_source=habrahabr&utm_medium=rss)
 - [Представлены работы финалистов премии Comedy Wildlife Photography Awards 2024](https://habr.com/ru/news/846734/?utm_campaign=846734&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Google Maps начал активно бороться с фейковыми отзывами](https://habr.com/ru/news/846680/?utm_campaign=846680&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
