@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз языка программирования Tcl 9.0 и библиотеки базовых элементов графического интерфейса Tk 9.0](https://habr.com/ru/news/846672/?utm_campaign=846672&utm_source=habrahabr&utm_medium=rss)
 - [WordPress.org заблокировал доступ к своим ресурсам для WP Engine](https://habr.com/ru/companies/flant/news/846638/?utm_campaign=846638&utm_source=habrahabr&utm_medium=rss)
 - [«Бюро 1440» разрабатывает универсальный терминал спутниковой связи для поездов РЖД](https://habr.com/ru/news/846630/?utm_campaign=846630&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: умные ТВ Samsung и LG отсылают скриншоты и аудиоданные на свои серверы для таргетирования рекламы](https://habr.com/ru/news/846624/?utm_campaign=846624&utm_source=habrahabr&utm_medium=rss)
 - [Deadlock превращает читеров в лягушек](https://habr.com/ru/news/846606/?utm_campaign=846606&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил демо-версию платформы для разработки IT-продуктов под названием SourceCraft](https://habr.com/ru/news/846514/?utm_campaign=846514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
