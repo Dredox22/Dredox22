@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В открытом коде Winamp от Llama Group эксперты обнаружили нарушение лицензий GPL и LGPL](https://habr.com/ru/news/846756/?utm_campaign=846756&utm_source=habrahabr&utm_medium=rss)
+- [В ГК «Солар» предупредили, что у хакеров может быть база данных с информацией почти по каждому россиянину](https://habr.com/ru/news/846754/?utm_campaign=846754&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры представили роборуку, которая может отсоединяться от основы, чтобы хватать предметы](https://habr.com/ru/news/846752/?utm_campaign=846752&utm_source=habrahabr&utm_medium=rss)
 - [Представлены работы финалистов премии Comedy Wildlife Photography Awards 2024](https://habr.com/ru/news/846734/?utm_campaign=846734&utm_source=habrahabr&utm_medium=rss)
 - [Сервис Google Maps начал активно бороться с фейковыми отзывами](https://habr.com/ru/news/846680/?utm_campaign=846680&utm_source=habrahabr&utm_medium=rss)
-- [В браузере Arc появятся бюллетени безопасности и программа багбаунти](https://habr.com/ru/news/846678/?utm_campaign=846678&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила тестовую 90-дневную триальную сборку Windows 11 24H2 Evaluation ISO](https://habr.com/ru/news/846674/?utm_campaign=846674&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования Tcl 9.0 и библиотеки базовых элементов графического интерфейса Tk 9.0](https://habr.com/ru/news/846672/?utm_campaign=846672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
