@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отключает функцию Edge Sidebar для новых и неактивных пользователей](https://habr.com/ru/news/846844/?utm_campaign=846844&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры ограбили «Детский мир», подобрав на сайте номера и ПИН-коды к почти 4,5 тыс. подарочных сертификатов](https://habr.com/ru/news/846838/?utm_campaign=846838&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft использует Flight Simulator для создания «цифрового двойника» Земли](https://habr.com/ru/news/846834/?utm_campaign=846834&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи сумели с помощью ИИ пройти капчу reCAPTCHAv2](https://habr.com/ru/news/846814/?utm_campaign=846814&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Windows Recall можно будет удалить](https://habr.com/ru/news/846808/?utm_campaign=846808&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Fedify 1.0.0 — открытой TypeScript-библиотеки, которая упрощает создание серверных приложений на базе ActivityPub](https://habr.com/ru/news/846802/?utm_campaign=846802&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
