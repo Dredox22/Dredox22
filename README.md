@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft использует Flight Simulator для создания «цифрового двойника» Земли](https://habr.com/ru/news/846834/?utm_campaign=846834&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи сумели с помощью ИИ пройти капчу reCAPTCHAv2](https://habr.com/ru/news/846814/?utm_campaign=846814&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Windows Recall можно будет удалить](https://habr.com/ru/news/846808/?utm_campaign=846808&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Fedify 1.0.0 — открытой TypeScript-библиотеки, которая упрощает создание серверных приложений на базе ActivityPub](https://habr.com/ru/news/846802/?utm_campaign=846802&utm_source=habrahabr&utm_medium=rss)
 - [Valve и Arch Linux объявили о сотрудничестве](https://habr.com/ru/news/846800/?utm_campaign=846800&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» адаптировала Telegram на KasperskyOS](https://habr.com/ru/news/846774/?utm_campaign=846774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
