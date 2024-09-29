@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: Windows Recall можно будет удалить](https://habr.com/ru/news/846808/?utm_campaign=846808&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Fedify 1.0.0 — открытой TypeScript-библиотеки, которая упрощает создание серверных приложений на базе ActivityPub](https://habr.com/ru/news/846802/?utm_campaign=846802&utm_source=habrahabr&utm_medium=rss)
 - [Valve и Arch Linux объявили о сотрудничестве](https://habr.com/ru/news/846800/?utm_campaign=846800&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» адаптировала Telegram на KasperskyOS](https://habr.com/ru/news/846774/?utm_campaign=846774&utm_source=habrahabr&utm_medium=rss)
 - [Telegram вводит новую функцию: подарки](https://habr.com/ru/news/846758/?utm_campaign=846758&utm_source=habrahabr&utm_medium=rss)
-- [В открытом коде Winamp от Llama Group эксперты обнаружили нарушение лицензий GPL и LGPL](https://habr.com/ru/news/846756/?utm_campaign=846756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
