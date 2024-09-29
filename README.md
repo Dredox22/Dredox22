@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google заплатила $2.7 млрд за возвращение бывшего сотрудника](https://habr.com/ru/news/846922/?utm_campaign=846922&utm_source=habrahabr&utm_medium=rss)
 - [Конкурс «Security Gadget Challenge» – Создание Будущего Кибербезопасности](https://habr.com/ru/news/846910/?utm_campaign=846910&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст сделал камеру на Raspberry Pi, которая генерирует на основе фото новые картинки](https://habr.com/ru/news/846894/?utm_campaign=846894&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил Doom внутри приложения «Фото» в iOS](https://habr.com/ru/news/846876/?utm_campaign=846876&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отключает функцию Edge Sidebar для новых и неактивных пользователей](https://habr.com/ru/news/846844/?utm_campaign=846844&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры ограбили «Детский мир», подобрав на сайте номера и ПИН-коды к почти 4,5 тыс. подарочных сертификатов](https://habr.com/ru/news/846838/?utm_campaign=846838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
