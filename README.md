@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Подведены итоги всероссийского турнира по программированию для студентов Codemasters Code Cup 2024](https://habr.com/ru/news/847182/?utm_campaign=847182&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/847156/?utm_campaign=847156&utm_source=habrahabr&utm_medium=rss)
 - [Релиз qBittorrent 5.0](https://habr.com/ru/news/847140/?utm_campaign=847140&utm_source=habrahabr&utm_medium=rss)
 - [В Москве прошла презентация настольной книги ИТ-директора «Внедрять нельзя откладывать. Карта рынка ИТ-инфраструктуры»](https://habr.com/ru/companies/k2tech/news/847104/?utm_campaign=847104&utm_source=habrahabr&utm_medium=rss)
 - [Месяц в WordPress: Сентябрь 2024](https://habr.com/ru/news/847100/?utm_campaign=847100&utm_source=habrahabr&utm_medium=rss)
-- [«МегаФон»: VK и Telegram стали лидерами по объёму российского мобильного трафика](https://habr.com/ru/news/847070/?utm_campaign=847070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
