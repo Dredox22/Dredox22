@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [freeCodeCamp выпустила бесплатный курс по программированию CUDA](https://habr.com/ru/news/846984/?utm_campaign=846984&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-редактор кода PearAI обвинили в копировании проекта Continue](https://habr.com/ru/news/846956/?utm_campaign=846956&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Quandoom — порт Doom для квантового компьютера](https://habr.com/ru/news/846950/?utm_campaign=846950&utm_source=habrahabr&utm_medium=rss)
 - [«МЦСТ» &lpar;разработчик процессоров «Эльбрус»&rpar; передан во внешнее управление НПЦ «Элвис» &lpar;создатель мобильных чипов «Скиф»&rpar;](https://habr.com/ru/news/846946/?utm_campaign=846946&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия BitTorrent-клиента rTorrent 0.10.0](https://habr.com/ru/news/846942/?utm_campaign=846942&utm_source=habrahabr&utm_medium=rss)
-- [Google заплатила $2.7 млрд за возвращение бывшего сотрудника](https://habr.com/ru/news/846922/?utm_campaign=846922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
