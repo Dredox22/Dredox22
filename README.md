@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МегаФон»: VK и Telegram стали лидерами по объёму российского мобильного трафика](https://habr.com/ru/news/847070/?utm_campaign=847070&utm_source=habrahabr&utm_medium=rss)
+- [Россиян атакует троян с имитацией уведомлений от банков](https://habr.com/ru/news/847066/?utm_campaign=847066&utm_source=habrahabr&utm_medium=rss)
+- [VK начала поиск разработчиков для IT-системы «Пушкинской карты»](https://habr.com/ru/news/847054/?utm_campaign=847054&utm_source=habrahabr&utm_medium=rss)
 - [Компания-оператор клиентской экосистемы Газпром начинает комплексное импортозамещение Jira](https://habr.com/ru/news/847010/?utm_campaign=847010&utm_source=habrahabr&utm_medium=rss)
 - [freeCodeCamp выпустила бесплатный курс по программированию CUDA](https://habr.com/ru/news/846984/?utm_campaign=846984&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-редактор кода PearAI обвинили в копировании проекта Continue](https://habr.com/ru/news/846956/?utm_campaign=846956&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Quandoom — порт Doom для квантового компьютера](https://habr.com/ru/news/846950/?utm_campaign=846950&utm_source=habrahabr&utm_medium=rss)
-- [«МЦСТ» &lpar;разработчик процессоров «Эльбрус»&rpar; передан во внешнее управление НПЦ «Элвис» &lpar;создатель мобильных чипов «Скиф»&rpar;](https://habr.com/ru/news/846946/?utm_campaign=846946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
