@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [19 сентября провели Business Day в Москве — наше регулярное мероприятие для ИТ-руководителей](https://habr.com/ru/companies/timeweb/news/847212/?utm_campaign=847212&utm_source=habrahabr&utm_medium=rss)
 - [Греф: «Сбер» является крупнейшим потребителем микроэлектроники в России](https://habr.com/ru/news/847204/?utm_campaign=847204&utm_source=habrahabr&utm_medium=rss)
 - [Подведены итоги всероссийского турнира по программированию для студентов Codemasters Code Cup 2024](https://habr.com/ru/news/847182/?utm_campaign=847182&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/847156/?utm_campaign=847156&utm_source=habrahabr&utm_medium=rss)
 - [Релиз qBittorrent 5.0](https://habr.com/ru/news/847140/?utm_campaign=847140&utm_source=habrahabr&utm_medium=rss)
-- [В Москве прошла презентация настольной книги ИТ-директора «Внедрять нельзя откладывать. Карта рынка ИТ-инфраструктуры»](https://habr.com/ru/companies/k2tech/news/847104/?utm_campaign=847104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
