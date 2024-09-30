@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз qBittorrent 5.0](https://habr.com/ru/news/847140/?utm_campaign=847140&utm_source=habrahabr&utm_medium=rss)
 - [В Москве прошла презентация настольной книги ИТ-директора «Внедрять нельзя откладывать. Карта рынка ИТ-инфраструктуры»](https://habr.com/ru/companies/k2tech/news/847104/?utm_campaign=847104&utm_source=habrahabr&utm_medium=rss)
 - [Месяц в WordPress: Сентябрь 2024](https://habr.com/ru/news/847100/?utm_campaign=847100&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон»: VK и Telegram стали лидерами по объёму российского мобильного трафика](https://habr.com/ru/news/847070/?utm_campaign=847070&utm_source=habrahabr&utm_medium=rss)
 - [Россиян атакует троян с имитацией уведомлений от банков](https://habr.com/ru/news/847066/?utm_campaign=847066&utm_source=habrahabr&utm_medium=rss)
-- [VK начала поиск разработчиков для IT-системы «Пушкинской карты»](https://habr.com/ru/news/847054/?utm_campaign=847054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
