@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МЦСТ» &lpar;разработчик процессоров «Эльбрус»&rpar; передан во внешнее управление НПЦ «Элвис» &lpar;создатель мобильных чипов «Скиф»&rpar;](https://habr.com/ru/news/846946/?utm_campaign=846946&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия BitTorrent-клиента rTorrent 0.10.0](https://habr.com/ru/news/846942/?utm_campaign=846942&utm_source=habrahabr&utm_medium=rss)
 - [Google заплатила $2.7 млрд за возвращение бывшего сотрудника](https://habr.com/ru/news/846922/?utm_campaign=846922&utm_source=habrahabr&utm_medium=rss)
 - [Конкурс «Security Gadget Challenge» – Создание Будущего Кибербезопасности](https://habr.com/ru/news/846910/?utm_campaign=846910&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст сделал камеру на Raspberry Pi, которая генерирует на основе фото новые картинки](https://habr.com/ru/news/846894/?utm_campaign=846894&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст запустил Doom внутри приложения «Фото» в iOS](https://habr.com/ru/news/846876/?utm_campaign=846876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
