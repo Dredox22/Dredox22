@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [BI.ZONE: хакеры отказываются от вредоносных программ в пользу редких инструментов для пентеста](https://habr.com/ru/news/847456/?utm_campaign=847456&utm_source=habrahabr&utm_medium=rss)
+- [Белые хакеры в РФ начали получать приглашения найти уязвимости в электронном реестре воинского учёта](https://habr.com/ru/news/847450/?utm_campaign=847450&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь продемонстрировал обновлённый голосовой режим ChatGPT: чат-бот смог скопировать акцент скамера из Индии](https://habr.com/ru/news/847448/?utm_campaign=847448&utm_source=habrahabr&utm_medium=rss)
 - [РСХБ: собственные финтех-решения позволили отразить массированную кибератаку](https://habr.com/ru/companies/rshb/news/847418/?utm_campaign=847418&utm_source=habrahabr&utm_medium=rss)
 - [В России к 2030 году запустят 119 проектов по разработке оборудования для микроэлектроники](https://habr.com/ru/news/847400/?utm_campaign=847400&utm_source=habrahabr&utm_medium=rss)
-- [Мероприятия октября: Аквариус &amp;amp; АЭРОДИСК](https://habr.com/ru/companies/aquarius/news/847388/?utm_campaign=847388&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 131.0](https://habr.com/ru/news/847352/?utm_campaign=847352&utm_source=habrahabr&utm_medium=rss)
-- [На единую госплатформу по противодействию мошенничеству в интернете планируют выделить более 6 млрд рублей из бюджета](https://habr.com/ru/news/847338/?utm_campaign=847338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
