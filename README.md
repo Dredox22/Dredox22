@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 131.0](https://habr.com/ru/news/847352/?utm_campaign=847352&utm_source=habrahabr&utm_medium=rss)
 - [На единую госплатформу по противодействию мошенничеству в интернете планируют выделить более 6 млрд рублей из бюджета](https://habr.com/ru/news/847338/?utm_campaign=847338&utm_source=habrahabr&utm_medium=rss)
 - [Победители CyberCamp рассказали, как киберучения помогают в реальной жизни](https://habr.com/ru/companies/jetinfosystems/news/847312/?utm_campaign=847312&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс проведёт второй Yandex Open Source Jam](https://habr.com/ru/companies/yandex/news/847294/?utm_campaign=847294&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FFmpeg 7.1 Péter](https://habr.com/ru/news/847292/?utm_campaign=847292&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare запустила мастер настройки для управления файлом security.txt](https://habr.com/ru/news/847276/?utm_campaign=847276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
