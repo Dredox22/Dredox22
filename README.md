@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глобальный сбой в PlayStation Network](https://habr.com/ru/news/847264/?utm_campaign=847264&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» подтвердил многократное списание средств клиентов в сервисах «Сплит», «Пэй» и «Такси» из-за технического сбоя](https://habr.com/ru/news/847258/?utm_campaign=847258&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi представила внешнюю камеру для ИИ-проектов](https://habr.com/ru/news/847238/?utm_campaign=847238&utm_source=habrahabr&utm_medium=rss)
 - [В блоге Unity рассказали, как эффективно использовать Muse Chat — встроенного в редактор чат-бота](https://habr.com/ru/news/847226/?utm_campaign=847226&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует кнопки для приёма и отклонения звонков в приложении Google Phone](https://habr.com/ru/news/847222/?utm_campaign=847222&utm_source=habrahabr&utm_medium=rss)
-- [19 сентября провели Business Day в Москве — наше регулярное мероприятие для ИТ-руководителей](https://habr.com/ru/companies/timeweb/news/847212/?utm_campaign=847212&utm_source=habrahabr&utm_medium=rss)
-- [Греф: «Сбер» является крупнейшим потребителем микроэлектроники в России](https://habr.com/ru/news/847204/?utm_campaign=847204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
