@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» и Компания «Актив» представили совместное портативное решение для защиты промышленности](https://habr.com/ru/companies/aktiv-company/news/847678/?utm_campaign=847678&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг и Генпрокуратура внепланово проверит, как производители электроники тратят субсидии](https://habr.com/ru/news/847672/?utm_campaign=847672&utm_source=habrahabr&utm_medium=rss)
+- [Rutube пропал из Google Play](https://habr.com/ru/news/847652/?utm_campaign=847652&utm_source=habrahabr&utm_medium=rss)
+- [Google планирует выпустить Android 16 под кодовым названием Baklava](https://habr.com/ru/news/847634/?utm_campaign=847634&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты F.A.C.C.T. предупредили об атаках Narketing163 на российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/847398/?utm_campaign=847398&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: Telegram с 2018 года раскрывает IP-адреса и номера телефонов преступников властям по запросу](https://habr.com/ru/news/847600/?utm_campaign=847600&utm_source=habrahabr&utm_medium=rss)
-- [Вышла PowerToys 0.85 с новой утилитой и выбором языка](https://habr.com/ru/news/847590/?utm_campaign=847590&utm_source=habrahabr&utm_medium=rss)
-- [Павел Дуров прояснил политику Telegram по раскрытию данных](https://habr.com/ru/news/847594/?utm_campaign=847594&utm_source=habrahabr&utm_medium=rss)
-- [Приложение для просмотра YouTube-видео Juno для Apple Vision Pro удалили из App Store по требованию Google](https://habr.com/ru/news/847592/?utm_campaign=847592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
