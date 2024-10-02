@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китай обучает новую ИИ-модель на 100 миллиардов параметров](https://habr.com/ru/companies/bothub/news/847758/?utm_campaign=847758&utm_source=habrahabr&utm_medium=rss)
+- [Udemy дала преподавателям три недели на отказ от обучения ИИ на их контенте, но многие не увидели этого предупреждения](https://habr.com/ru/news/847756/?utm_campaign=847756&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia выпустила LLM с открытым исходным кодом с 72 миллиардами параметров](https://habr.com/ru/companies/bothub/news/847750/?utm_campaign=847750&utm_source=habrahabr&utm_medium=rss)
 - [Японское подразделение Google создало 208-клавишную двухстороннюю клавиатуру Мёбиуса для печати втроём](https://habr.com/ru/news/847712/?utm_campaign=847712&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» и Компания «Актив» представили совместное портативное решение для защиты промышленности](https://habr.com/ru/companies/aktiv-company/news/847678/?utm_campaign=847678&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг и Генпрокуратура внепланово проверят, как производители электроники тратят субсидии](https://habr.com/ru/news/847672/?utm_campaign=847672&utm_source=habrahabr&utm_medium=rss)
-- [Rutube пропал из Google Play](https://habr.com/ru/news/847652/?utm_campaign=847652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
