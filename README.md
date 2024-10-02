@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NIST предложил новые требования к паролям ради удобства пользователей](https://habr.com/ru/news/847574/?utm_campaign=847574&utm_source=habrahabr&utm_medium=rss)
+- [В приложении YouTube TV появится фоновое воспроизведение](https://habr.com/ru/news/847564/?utm_campaign=847564&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила проблему отправки мейлов Outlook для пользователей с большим числом папок](https://habr.com/ru/news/847560/?utm_campaign=847560&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows 11 24H2 стало доступно для всех пользователей](https://habr.com/ru/news/847552/?utm_campaign=847552&utm_source=habrahabr&utm_medium=rss)
 - [НОТА КУПОЛ и Orion soft обеспечили совместимость решений в области защиты и управления Kubernetes](https://habr.com/ru/companies/orion_soft/news/847554/?utm_campaign=847554&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Образование» и факультет компьютерных наук НИУ ВШЭ создали совместный онлайн-гайд, посвящённый промтингу](https://habr.com/ru/news/847520/?utm_campaign=847520&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила Office 2024 без подписки для обычных пользователей от $150](https://habr.com/ru/news/847536/?utm_campaign=847536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
