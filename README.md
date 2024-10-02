@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты F.A.C.C.T. предупредили об атаках Narketing163 на российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/847398/?utm_campaign=847398&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram с 2018 года раскрывает IP-адреса и номера телефонов преступников властям по запросу](https://habr.com/ru/news/847600/?utm_campaign=847600&utm_source=habrahabr&utm_medium=rss)
 - [Вышла PowerToys 0.85 с новой утилитой и выбором языка](https://habr.com/ru/news/847590/?utm_campaign=847590&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров прояснил политику Telegram по раскрытию данных](https://habr.com/ru/news/847594/?utm_campaign=847594&utm_source=habrahabr&utm_medium=rss)
 - [Приложение для просмотра YouTube-видео Juno для Apple Vision Pro удалили из App Store по требованию Google](https://habr.com/ru/news/847592/?utm_campaign=847592&utm_source=habrahabr&utm_medium=rss)
-- [NIST предложил новые требования к паролям ради удобства пользователей](https://habr.com/ru/news/847574/?utm_campaign=847574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
