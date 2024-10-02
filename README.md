@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила проблему отправки мейлов Outlook для пользователей с большим числом папок](https://habr.com/ru/news/847560/?utm_campaign=847560&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Windows 11 24H2 стало доступно для всех пользователей](https://habr.com/ru/news/847552/?utm_campaign=847552&utm_source=habrahabr&utm_medium=rss)
+- [НОТА КУПОЛ и Orion soft обеспечили совместимость решений в области защиты и управления Kubernetes](https://habr.com/ru/companies/orion_soft/news/847554/?utm_campaign=847554&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Образование» и факультет компьютерных наук НИУ ВШЭ создали совместный онлайн-гайд, посвящённый промтингу](https://habr.com/ru/news/847520/?utm_campaign=847520&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила Office 2024 без подписки для обычных пользователей от $150](https://habr.com/ru/news/847536/?utm_campaign=847536&utm_source=habrahabr&utm_medium=rss)
-- [От Spring Framework 6.2 до 7.0](https://habr.com/ru/companies/spring_aio/news/847460/?utm_campaign=847460&utm_source=habrahabr&utm_medium=rss)
-- [Создатель эмулятора Nintendo Switch с открытым исходным кодом Ryujinx закрыл проект и удалил репозиторий с GitHub](https://habr.com/ru/news/847526/?utm_campaign=847526&utm_source=habrahabr&utm_medium=rss)
-- [Google снова стал подтверждать подлинность аккаунта пользователя по номеру телефона из РФ](https://habr.com/ru/news/847506/?utm_campaign=847506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
