@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров: Telegram с 2018 года раскрывает IP-адреса и номера телефонов преступников властям по запросу](https://habr.com/ru/news/847600/?utm_campaign=847600&utm_source=habrahabr&utm_medium=rss)
+- [Вышла PowerToys 0.85 с новой утилитой и выбором языка](https://habr.com/ru/news/847590/?utm_campaign=847590&utm_source=habrahabr&utm_medium=rss)
+- [Павел Дуров прояснил политику Telegram по раскрытию данных](https://habr.com/ru/news/847594/?utm_campaign=847594&utm_source=habrahabr&utm_medium=rss)
+- [Приложение для просмотра YouTube-видео Juno для Apple Vision Pro удалили из App Store по требованию Google](https://habr.com/ru/news/847592/?utm_campaign=847592&utm_source=habrahabr&utm_medium=rss)
 - [NIST предложил новые требования к паролям ради удобства пользователей](https://habr.com/ru/news/847574/?utm_campaign=847574&utm_source=habrahabr&utm_medium=rss)
-- [В приложении YouTube TV появится фоновое воспроизведение](https://habr.com/ru/news/847564/?utm_campaign=847564&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила проблему отправки мейлов Outlook для пользователей с большим числом папок](https://habr.com/ru/news/847560/?utm_campaign=847560&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Windows 11 24H2 стало доступно для всех пользователей](https://habr.com/ru/news/847552/?utm_campaign=847552&utm_source=habrahabr&utm_medium=rss)
-- [НОТА КУПОЛ и Orion soft обеспечили совместимость решений в области защиты и управления Kubernetes](https://habr.com/ru/companies/orion_soft/news/847554/?utm_campaign=847554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
