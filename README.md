@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google снова стал подтверждать подлинность аккаунта пользователя по номеру телефона из РФ](https://habr.com/ru/news/847506/?utm_campaign=847506&utm_source=habrahabr&utm_medium=rss)
 - [Вышла пятая бета-версия операционной системы Haiku](https://habr.com/ru/news/847486/?utm_campaign=847486&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE: хакеры отказываются от вредоносных программ в пользу редких инструментов для пентеста](https://habr.com/ru/news/847456/?utm_campaign=847456&utm_source=habrahabr&utm_medium=rss)
 - [Белые хакеры в РФ начали получать приглашения найти уязвимости в электронном реестре воинского учёта](https://habr.com/ru/news/847450/?utm_campaign=847450&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь продемонстрировал обновлённый голосовой режим ChatGPT: чат-бот смог скопировать акцент скамера из Индии](https://habr.com/ru/news/847448/?utm_campaign=847448&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ: собственные финтех-решения позволили отразить массированную кибератаку](https://habr.com/ru/companies/rshb/news/847418/?utm_campaign=847418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
