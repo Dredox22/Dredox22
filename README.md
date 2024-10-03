@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: ИИ не повышает продуктивность программистов, но добавляет ошибок](https://habr.com/ru/news/847840/?utm_campaign=847840&utm_source=habrahabr&utm_medium=rss)
+- [1С в облаке. Нам точно туда нужно?](https://habr.com/ru/companies/mws/news/847732/?utm_campaign=847732&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Store обновил домашнюю страницу с категориями приложений](https://habr.com/ru/news/847826/?utm_campaign=847826&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp тестируют фильтры и виртуальные фоны для видеозвонков](https://habr.com/ru/news/847822/?utm_campaign=847822&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Авито» стало недоступно в Google Play](https://habr.com/ru/news/847824/?utm_campaign=847824&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Manjaro Linux 24.1](https://habr.com/ru/news/847812/?utm_campaign=847812&utm_source=habrahabr&utm_medium=rss)
-- [Gmail на iOS перестал работать в России у части пользователей](https://habr.com/ru/news/847800/?utm_campaign=847800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
