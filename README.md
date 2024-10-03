@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI просит инвесторов не поддерживать конкурирующие стартапы, такие как xAI Илона Маска](https://habr.com/ru/companies/bothub/news/848066/?utm_campaign=848066&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 24H2 добавили файловую систему ReFS](https://habr.com/ru/companies/dcmiran/news/848058/?utm_campaign=848058&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запускает новый интерфейс ChatGPT «Canvas», предназначенный для написания текстов и программирования](https://habr.com/ru/companies/bothub/news/848056/?utm_campaign=848056&utm_source=habrahabr&utm_medium=rss)
 - [Два студента собрали деанонилку на основе умных очков](https://habr.com/ru/news/848042/?utm_campaign=848042&utm_source=habrahabr&utm_medium=rss)
 - [ГК Юзтех и Orion soft создадут комплексное решение для эффективного управления виртуальной инфраструктурой ЦОД](https://habr.com/ru/companies/usetech/news/848028/?utm_campaign=848028&utm_source=habrahabr&utm_medium=rss)
-- [Telegram запустил второй раунд конкурса для дизайнеров с призовым фондом 30 тыс. долларов](https://habr.com/ru/news/848026/?utm_campaign=848026&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Star Citizen в студии Cloud Imperium Games временно перешли на семидневный рабочий график](https://habr.com/ru/news/848018/?utm_campaign=848018&utm_source=habrahabr&utm_medium=rss)
-- [Приманка для злоумышленников: сервер с уязвимой версией базы данных Redis](https://habr.com/ru/companies/drweb/news/847990/?utm_campaign=847990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
