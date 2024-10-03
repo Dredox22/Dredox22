@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В работе Telegram в РФ фиксируется сбой, не открываются чаты и не отправляются сообщения](https://habr.com/ru/news/847934/?utm_campaign=847934&utm_source=habrahabr&utm_medium=rss)
+- [Релиз NetworkManager 1.50](https://habr.com/ru/news/847930/?utm_campaign=847930&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил «Поиск» с «Нейро»](https://habr.com/ru/news/847894/?utm_campaign=847894&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» и акселератор Indie Go создадут фонд поддержки независимых разработчиков видеоигр](https://habr.com/ru/news/847880/?utm_campaign=847880&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила, что вскоре Edge станет «очень быстрым»](https://habr.com/ru/news/847844/?utm_campaign=847844&utm_source=habrahabr&utm_medium=rss)
-- [Российская электроника оказалась зависимой от иностранных конденсаторов и резисторов](https://habr.com/ru/news/847862/?utm_campaign=847862&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare предотвратила масштабную DDoS-атаку мощностью 3,8 Тбит/с](https://habr.com/ru/news/847860/?utm_campaign=847860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
