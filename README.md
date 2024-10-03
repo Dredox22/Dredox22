@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» запустил «Поиск» с «Нейро»](https://habr.com/ru/news/847894/?utm_campaign=847894&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» и акселератор Indie Go создадут фонд поддержки независимых разработчиков видеоигр](https://habr.com/ru/news/847880/?utm_campaign=847880&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила, что вскоре Edge станет «очень быстрым»](https://habr.com/ru/news/847844/?utm_campaign=847844&utm_source=habrahabr&utm_medium=rss)
 - [Российская электроника оказалась зависимой от иностранных конденсаторов и резисторов](https://habr.com/ru/news/847862/?utm_campaign=847862&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare предотвратила масштабную DDoS-атаку мощностью 3,8 Тбит/с](https://habr.com/ru/news/847860/?utm_campaign=847860&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ не повышает продуктивность программистов, но добавляет ошибок](https://habr.com/ru/news/847840/?utm_campaign=847840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
