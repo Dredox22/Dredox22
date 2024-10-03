@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Star Citizen в студии Cloud Imperium Games временно перешли на семидневный рабочий график](https://habr.com/ru/news/848018/?utm_campaign=848018&utm_source=habrahabr&utm_medium=rss)
 - [Приманка для злоумышленников: сервер с уязвимой версией базы данных Redis](https://habr.com/ru/companies/drweb/news/847990/?utm_campaign=847990&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи: iPhone с iOS 18 разряжается на 30% всего за час](https://habr.com/ru/news/847966/?utm_campaign=847966&utm_source=habrahabr&utm_medium=rss)
 - [В работе Telegram фиксировался глобальный сбой, спустя более часа сервисы мессенджера начали подниматься](https://habr.com/ru/news/847934/?utm_campaign=847934&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NetworkManager 1.50](https://habr.com/ru/news/847930/?utm_campaign=847930&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустил «Поиск» с «Нейро»](https://habr.com/ru/news/847894/?utm_campaign=847894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
