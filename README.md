@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В работе Telegram в РФ фиксируется сбой, не открываются чаты и не отправляются сообщения](https://habr.com/ru/news/847934/?utm_campaign=847934&utm_source=habrahabr&utm_medium=rss)
+- [В работе Telegram фиксируется глобальный сбой, спустя более часа сервисы мессенджера начали подниматься](https://habr.com/ru/news/847934/?utm_campaign=847934&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NetworkManager 1.50](https://habr.com/ru/news/847930/?utm_campaign=847930&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил «Поиск» с «Нейро»](https://habr.com/ru/news/847894/?utm_campaign=847894&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» и акселератор Indie Go создадут фонд поддержки независимых разработчиков видеоигр](https://habr.com/ru/news/847880/?utm_campaign=847880&utm_source=habrahabr&utm_medium=rss)
