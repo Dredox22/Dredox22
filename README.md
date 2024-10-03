@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Manjaro Linux 24.1](https://habr.com/ru/news/847812/?utm_campaign=847812&utm_source=habrahabr&utm_medium=rss)
 - [Gmail на iOS перестал работать в России у части пользователей](https://habr.com/ru/news/847800/?utm_campaign=847800&utm_source=habrahabr&utm_medium=rss)
 - [CEO WakaTime: на ProductHunt зарегистрировано более 1 млн пользователей, но больше половины из них — боты](https://habr.com/ru/news/847786/?utm_campaign=847786&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Paint и Photos появились ИИ-функции](https://habr.com/ru/news/847782/?utm_campaign=847782&utm_source=habrahabr&utm_medium=rss)
 - [Китай обучает новую ИИ-модель на 100 миллиардов параметров](https://habr.com/ru/companies/bothub/news/847758/?utm_campaign=847758&utm_source=habrahabr&utm_medium=rss)
-- [Udemy дала преподавателям три недели на отказ от обучения ИИ на их контенте, но многие не увидели этого предупреждения](https://habr.com/ru/news/847756/?utm_campaign=847756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
