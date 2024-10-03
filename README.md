@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» и акселератор Indie Go создадут фонд поддержки независимых разработчиков видеоигр](https://habr.com/ru/news/847880/?utm_campaign=847880&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила, что вскоре Edge станет «очень быстрым»](https://habr.com/ru/news/847844/?utm_campaign=847844&utm_source=habrahabr&utm_medium=rss)
+- [Российская электроника оказалась зависимой от иностранных конденсаторов и резисторов](https://habr.com/ru/news/847862/?utm_campaign=847862&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare предотвратила масштабную DDoS-атаку мощностью 3,8 Тбит/с](https://habr.com/ru/news/847860/?utm_campaign=847860&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ИИ не повышает продуктивность программистов, но добавляет ошибок](https://habr.com/ru/news/847840/?utm_campaign=847840&utm_source=habrahabr&utm_medium=rss)
-- [1С в облаке. Нам точно туда нужно?](https://habr.com/ru/companies/mws/news/847732/?utm_campaign=847732&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Store обновил домашнюю страницу с категориями приложений](https://habr.com/ru/news/847826/?utm_campaign=847826&utm_source=habrahabr&utm_medium=rss)
-- [В WhatsApp тестируют фильтры и виртуальные фоны для видеозвонков](https://habr.com/ru/news/847822/?utm_campaign=847822&utm_source=habrahabr&utm_medium=rss)
-- [Приложение «Авито» стало недоступно в Google Play](https://habr.com/ru/news/847824/?utm_campaign=847824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
