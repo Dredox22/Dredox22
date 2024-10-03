@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Молдавии по запросу службы безопасности заблокировали сайты Yandex, «Дзен» и Rutube, сообщил провайдер Orange Moldova](https://habr.com/ru/news/848034/?utm_campaign=848034&utm_source=habrahabr&utm_medium=rss)
 - [ГК Юзтех и Orion soft создадут комплексное решение для эффективного управления виртуальной инфраструктурой ЦОД](https://habr.com/ru/companies/usetech/news/848028/?utm_campaign=848028&utm_source=habrahabr&utm_medium=rss)
 - [Telegram запустил второй раунд конкурса для дизайнеров с призовым фондом 30 тыс. долларов](https://habr.com/ru/news/848026/?utm_campaign=848026&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Star Citizen в студии Cloud Imperium Games временно перешли на семидневный рабочий график](https://habr.com/ru/news/848018/?utm_campaign=848018&utm_source=habrahabr&utm_medium=rss)
 - [Приманка для злоумышленников: сервер с уязвимой версией базы данных Redis](https://habr.com/ru/companies/drweb/news/847990/?utm_campaign=847990&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи: iPhone с iOS 18 разряжается на 30% всего за час](https://habr.com/ru/news/847966/?utm_campaign=847966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
