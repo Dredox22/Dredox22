@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» открыла ежегодный осенний набор на оплачиваемую стажировку для студентов SafeBoard](https://habr.com/ru/news/848230/?utm_campaign=848230&utm_source=habrahabr&utm_medium=rss)
+- [В Муромском институте открыта базовая кафедра РЕД СОФТ](https://habr.com/ru/news/848228/?utm_campaign=848228&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Карты» оцифровали более 47 тыс. км улиц крупных городов России](https://habr.com/ru/news/848206/?utm_campaign=848206&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия Open Source-платформы Cozystck 0.16.0: система алертов с уведомлениями в Telegram и другие улучшения](https://habr.com/ru/companies/aenix/news/847838/?utm_campaign=847838&utm_source=habrahabr&utm_medium=rss)
 - [Sravni Tech запустила бесплатную платформу для лайвкодинга на технических собеседованиях](https://habr.com/ru/news/848192/?utm_campaign=848192&utm_source=habrahabr&utm_medium=rss)
-- [Apple планирует добавить в iOS гостевой режим](https://habr.com/ru/news/848186/?utm_campaign=848186&utm_source=habrahabr&utm_medium=rss)
-- [Инструкция: как вернуть WordPad в Windows 11 24H2](https://habr.com/ru/news/848164/?utm_campaign=848164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
