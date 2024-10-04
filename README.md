@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sravni Tech запустила бесплатную платформу для лайвкодинга на технических собеседованиях](https://habr.com/ru/news/848192/?utm_campaign=848192&utm_source=habrahabr&utm_medium=rss)
+- [Apple планирует добавить в iOS гостевой режим](https://habr.com/ru/news/848186/?utm_campaign=848186&utm_source=habrahabr&utm_medium=rss)
+- [Инструкция: как вернуть WordPad в Windows 11 24H2](https://habr.com/ru/news/848164/?utm_campaign=848164&utm_source=habrahabr&utm_medium=rss)
+- [«М.Видео-Эльдорадо»: число предзаказов PS5 Pro в три раза превысило прогнозы](https://habr.com/ru/news/848172/?utm_campaign=848172&utm_source=habrahabr&utm_medium=rss)
 - [Бизнес предложили проверить на передачу информации за рубеж](https://habr.com/ru/news/848148/?utm_campaign=848148&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст представил дрон для сбора собачьих отходов Poopcopter с использованием камеры и системы захвата](https://habr.com/ru/news/848154/?utm_campaign=848154&utm_source=habrahabr&utm_medium=rss)
-- [В YouTube сообщили, что некоторые каналы авторов и аккаунты «неправильно помечаются как спам и удаляются» с платформы](https://habr.com/ru/news/848140/?utm_campaign=848140&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи 2ГИС начали получать уведомления о необходимости привязать к учетной записи номер телефона](https://habr.com/ru/news/848098/?utm_campaign=848098&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI просит инвесторов не поддерживать конкурирующие стартапы, такие как xAI Илона Маска](https://habr.com/ru/companies/bothub/news/848066/?utm_campaign=848066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
