@@ -70,7 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Пользователи 2ГИС начали получать уведомления о необходимости привязать к учетной записи номер телефона](https://habr.com/ru/news/848098/?utm_campaign=848098&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI просит инвесторов не поддерживать конкурирующие стартапы, такие как xAI Илона Маска](https://habr.com/ru/companies/bothub/news/848066/?utm_campaign=848066&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 24H2 добавили файловую систему ReFS](https://habr.com/ru/companies/dcmiran/news/848058/?utm_campaign=848058&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 24H2 добавили поддержку блочного клонирования в ReFS](https://habr.com/ru/companies/dcmiran/news/848058/?utm_campaign=848058&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запускает новый интерфейс ChatGPT «Canvas», предназначенный для написания текстов и программирования](https://habr.com/ru/companies/bothub/news/848056/?utm_campaign=848056&utm_source=habrahabr&utm_medium=rss)
 - [Два студента собрали деанонилку на основе умных очков](https://habr.com/ru/news/848042/?utm_campaign=848042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
