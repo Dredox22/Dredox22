@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram восстанавливает стабильную работу после повышенной нагрузки](https://habr.com/ru/news/848312/?utm_campaign=848312&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект для тестировщиков и пентестеров USB Army Knife](https://habr.com/ru/news/848308/?utm_campaign=848308&utm_source=habrahabr&utm_medium=rss)
 - [«ИИ можно использовать для помощи в кризисных ситуациях, например, при буллинге или потере работы»](https://habr.com/ru/companies/X5Tech/news/848280/?utm_campaign=848280&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за сентябрь 2024 года](https://habr.com/ru/companies/ussc/news/848242/?utm_campaign=848242&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» открыла ежегодный осенний набор на оплачиваемую стажировку для студентов SafeBoard](https://habr.com/ru/news/848230/?utm_campaign=848230&utm_source=habrahabr&utm_medium=rss)
-- [В Муромском институте открыта базовая кафедра РЕД СОФТ](https://habr.com/ru/news/848228/?utm_campaign=848228&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» оцифровали более 47 тыс. км улиц крупных городов России](https://habr.com/ru/news/848206/?utm_campaign=848206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
