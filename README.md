@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google удалила приложения Kaspersky из магазина Google Play и отключила учётные записи разработчиков российской компании](https://habr.com/ru/news/848326/?utm_campaign=848326&utm_source=habrahabr&utm_medium=rss)
 - [Telegram восстанавливает стабильную работу после повышенной нагрузки](https://habr.com/ru/news/848312/?utm_campaign=848312&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект для тестировщиков и пентестеров USB Army Knife](https://habr.com/ru/news/848308/?utm_campaign=848308&utm_source=habrahabr&utm_medium=rss)
 - [«ИИ можно использовать для помощи в кризисных ситуациях, например, при буллинге или потере работы»](https://habr.com/ru/companies/X5Tech/news/848280/?utm_campaign=848280&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за сентябрь 2024 года](https://habr.com/ru/companies/ussc/news/848242/?utm_campaign=848242&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» открыла ежегодный осенний набор на оплачиваемую стажировку для студентов SafeBoard](https://habr.com/ru/news/848230/?utm_campaign=848230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
