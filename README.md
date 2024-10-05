@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные СПбГЭТУ «ЛЭТИ» создали робота-художника, который умеет перенимать технику нанесения мазков у великих живописцев](https://habr.com/ru/news/848442/?utm_campaign=848442&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.8](https://habr.com/ru/news/848436/?utm_campaign=848436&utm_source=habrahabr&utm_medium=rss)
 - [Samsung на фоне проблем с производством форсирует внедрение 2 нм техпроцесса на своих фабриках](https://habr.com/ru/companies/dcmiran/news/848416/?utm_campaign=848416&utm_source=habrahabr&utm_medium=rss)
 - [В Apple изобразили басы, в Samsung уменьшили батарею, а в крипте воюют с троллями: дайджест главных новостей](https://habr.com/ru/companies/onlinepatent/news/848330/?utm_campaign=848330&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp тестирует новую опцию для синхронизации контактов](https://habr.com/ru/news/848384/?utm_campaign=848384&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила iOS 18.0.1 с исправлениями ошибок](https://habr.com/ru/news/848380/?utm_campaign=848380&utm_source=habrahabr&utm_medium=rss)
-- [Google в тестовом режиме начал показывать в поиске галочку рядом с официальными ресурсами](https://habr.com/ru/news/848376/?utm_campaign=848376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
