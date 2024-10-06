@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На завершающейся неделе наконец-то допилили первые рабочие образцы высоковольтных источников питания 25 кВ](https://habr.com/ru/news/848528/?utm_campaign=848528&utm_source=habrahabr&utm_medium=rss)
 - [Готовим вопросы для подкаста с Джеффри Рихтером – поделитесь своими идеями](https://habr.com/ru/news/848508/?utm_campaign=848508&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0](https://habr.com/ru/news/848498/?utm_campaign=848498&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик утилиты Rufus попросил пользователей ПК со старыми процессорами принять проблему с Windows 11 24H2](https://habr.com/ru/news/848494/?utm_campaign=848494&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: подарки, платформа для отправки кодов и обновлённые видеочаты на iOS](https://habr.com/ru/news/848450/?utm_campaign=848450&utm_source=habrahabr&utm_medium=rss)
-- [Учёные СПбГЭТУ «ЛЭТИ» создали робота-художника, который умеет перенимать технику нанесения мазков у великих живописцев](https://habr.com/ru/news/848442/?utm_campaign=848442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
