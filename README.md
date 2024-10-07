@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В школах и вузах РФ появятся уроки по кибербезопасности](https://habr.com/ru/news/848708/?utm_campaign=848708&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователь My.Games создал игровой холдинг Utmost Games на Кипре](https://habr.com/ru/news/848698/?utm_campaign=848698&utm_source=habrahabr&utm_medium=rss)
+- [343 Industries стала Halo Studios и будет выпускать игры серии Halo на базе Unreal Engine 5](https://habr.com/ru/news/848692/?utm_campaign=848692&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила платформу Data Change Processing с открытым исходным кодом](https://habr.com/ru/news/848686/?utm_campaign=848686&utm_source=habrahabr&utm_medium=rss)
 - [«Газета.ru»: IT-системы ВГТРК подверглись хакерской атаке](https://habr.com/ru/news/848682/?utm_campaign=848682&utm_source=habrahabr&utm_medium=rss)
-- [Пользуйтесь: CODE Interview, инструмент для лайвкодинга от Sravni Tech](https://habr.com/ru/companies/sravni/news/847694/?utm_campaign=847694&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play вышла Android-версия браузера Arc Search](https://habr.com/ru/news/848674/?utm_campaign=848674&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого сетевого анализатора Mitmproxy 11 с поддержкой HTTP/3](https://habr.com/ru/news/848612/?utm_campaign=848612&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Databye для анонимизации и преобразования конфиденциальных данных в базах](https://habr.com/ru/news/848600/?utm_campaign=848600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
