@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Какая роль аналитика в кросс-командной разработке](https://habr.com/ru/companies/agima/news/848838/?utm_campaign=848838&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/848822/?utm_campaign=848822&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс борется со страдательным залогом в коммитах](https://habr.com/ru/news/848814/?utm_campaign=848814&utm_source=habrahabr&utm_medium=rss)
 - [Записи докладов с M2 Data Meetup](https://habr.com/ru/companies/m2tech/news/848792/?utm_campaign=848792&utm_source=habrahabr&utm_medium=rss)
 - [В продажу поступил маршрутизатор OpenWrt One от сообществ OpenWrt и Banana Pi](https://habr.com/ru/news/848786/?utm_campaign=848786&utm_source=habrahabr&utm_medium=rss)
-- [Telegram позволил жалобы по причине «не нравится» и «законно, но удалить»](https://habr.com/ru/news/848790/?utm_campaign=848790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
