@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В «Яндекс Браузере» добавили «Сплит» и промокоды](https://habr.com/ru/news/848746/?utm_campaign=848746&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Браузер» добавили «Сплит» и промокоды](https://habr.com/ru/news/848746/?utm_campaign=848746&utm_source=habrahabr&utm_medium=rss)
 - [В ВГТРК подтвердили факт хакерской атаки на компанию, специалисты работают над устранением последствий инцидента по ИБ](https://habr.com/ru/news/848732/?utm_campaign=848732&utm_source=habrahabr&utm_medium=rss)
 - [В России с начала года заблокировали 6,2 млн серых сим-карт](https://habr.com/ru/news/848724/?utm_campaign=848724&utm_source=habrahabr&utm_medium=rss)
 - [Учёные объединили возможности протоколов Wi-Fi и LoRa](https://habr.com/ru/news/848712/?utm_campaign=848712&utm_source=habrahabr&utm_medium=rss)
