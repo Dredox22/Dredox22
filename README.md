@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России с начала года заблокировали 6,2 млн серых сим-карт](https://habr.com/ru/news/848724/?utm_campaign=848724&utm_source=habrahabr&utm_medium=rss)
+- [Учёные объединили возможности протоколов Wi-Fi и LoRa](https://habr.com/ru/news/848712/?utm_campaign=848712&utm_source=habrahabr&utm_medium=rss)
 - [В школах и вузах РФ появятся уроки по кибербезопасности](https://habr.com/ru/news/848708/?utm_campaign=848708&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь My.Games создал игровой холдинг Utmost Games на Кипре](https://habr.com/ru/news/848698/?utm_campaign=848698&utm_source=habrahabr&utm_medium=rss)
 - [343 Industries стала Halo Studios и будет выпускать игры серии Halo на базе Unreal Engine 5](https://habr.com/ru/news/848692/?utm_campaign=848692&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила платформу Data Change Processing с открытым исходным кодом](https://habr.com/ru/news/848686/?utm_campaign=848686&utm_source=habrahabr&utm_medium=rss)
-- [«Газета.ru»: IT-системы ВГТРК подверглись хакерской атаке](https://habr.com/ru/news/848682/?utm_campaign=848682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
