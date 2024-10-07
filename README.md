@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Газета.ru»: IT-системы ВГТРК подверглись хакерской атаке](https://habr.com/ru/news/848682/?utm_campaign=848682&utm_source=habrahabr&utm_medium=rss)
+- [Пользуйтесь: CODE Interview, инструмент для лайвкодинга от Sravni Tech](https://habr.com/ru/companies/sravni/news/847694/?utm_campaign=847694&utm_source=habrahabr&utm_medium=rss)
+- [В Google Play вышла Android-версия браузера Arc Search](https://habr.com/ru/news/848674/?utm_campaign=848674&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого сетевого анализатора Mitmproxy 11 с поддержкой HTTP/3](https://habr.com/ru/news/848612/?utm_campaign=848612&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Databye для анонимизации и преобразования конфиденциальных данных в базах](https://habr.com/ru/news/848600/?utm_campaign=848600&utm_source=habrahabr&utm_medium=rss)
-- [На завершающейся неделе наконец-то допилили первые рабочие образцы высоковольтных источников питания 25 кВ](https://habr.com/ru/news/848528/?utm_campaign=848528&utm_source=habrahabr&utm_medium=rss)
-- [Готовим вопросы для подкаста с Джеффри Рихтером – поделитесь своими идеями](https://habr.com/ru/news/848508/?utm_campaign=848508&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0](https://habr.com/ru/news/848498/?utm_campaign=848498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
