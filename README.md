@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple добавила поддержку проводного контроллера Xbox в iOS, iPadOS и macOS](https://habr.com/ru/news/848928/?utm_campaign=848928&utm_source=habrahabr&utm_medium=rss)
+- [Cуд США официально признал Google Play Store монополистом](https://habr.com/ru/news/848918/?utm_campaign=848918&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка в Word удаляет документы вместо того, чтобы сохранять их](https://habr.com/ru/news/848914/?utm_campaign=848914&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Windows 11 24H2 приводит к исчезновению курсора мыши в полях ввода текста, есть способ исправить](https://habr.com/ru/news/848910/?utm_campaign=848910&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Python 3.13](https://habr.com/ru/news/848906/?utm_campaign=848906&utm_source=habrahabr&utm_medium=rss)
-- [Электромобили Volvo и Polestar используют Rust в коде электронного блока управления](https://habr.com/ru/news/848888/?utm_campaign=848888&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Android сообщили о появлении новых функций защиты от кражи](https://habr.com/ru/news/848874/?utm_campaign=848874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
