@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple добавила поддержку проводного контроллера Xbox в iOS, iPadOS и macOS](https://habr.com/ru/news/848928/?utm_campaign=848928&utm_source=habrahabr&utm_medium=rss)
-- [Cуд США официально признал Google Play Store монополистом](https://habr.com/ru/news/848918/?utm_campaign=848918&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка в Word удаляет документы вместо того, чтобы сохранять их](https://habr.com/ru/news/848914/?utm_campaign=848914&utm_source=habrahabr&utm_medium=rss)
-- [Баг в Windows 11 24H2 приводит к исчезновению курсора мыши в полях ввода текста, есть способ исправить](https://habr.com/ru/news/848910/?utm_campaign=848910&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Python 3.13](https://habr.com/ru/news/848906/?utm_campaign=848906&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: ИИ-ассистенты прослушивают разговоры и способны раскрыть секреты компании](https://habr.com/ru/news/848954/?utm_campaign=848954&utm_source=habrahabr&utm_medium=rss)
+- [ВТБ открыл прием заявок на API-хакатон](https://habr.com/ru/companies/vtb/news/847972/?utm_campaign=847972&utm_source=habrahabr&utm_medium=rss)
+- [Apple опубликовала трейлер первого иммерсивного фильма для Vision Pro](https://habr.com/ru/news/848942/?utm_campaign=848942&utm_source=habrahabr&utm_medium=rss)
+- [УЦСБ запустил облачную платформу анализа защищенности приложений Apsafe](https://habr.com/ru/companies/ussc/news/848950/?utm_campaign=848950&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи в РФ жалуются на проблемы с доступом к Discord](https://habr.com/ru/news/848944/?utm_campaign=848944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
