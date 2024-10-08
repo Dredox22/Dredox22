@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: блокировка Discord направлена на «обеспечение безопасности российских пользователей»](https://habr.com/ru/news/849140/?utm_campaign=849140&utm_source=habrahabr&utm_medium=rss)
+- [ТАСС: Discord официально заблокировали в России](https://habr.com/ru/news/849134/?utm_campaign=849134&utm_source=habrahabr&utm_medium=rss)
 - [Робот-панголин откладывает из задней части корпуса семена деревьев в вырытые им же ямы](https://habr.com/ru/news/849126/?utm_campaign=849126&utm_source=habrahabr&utm_medium=rss)
 - [В ходе кампании по распространению трояна для добычи и кражи криптовалюты пострадали более 28 тысяч пользователей](https://habr.com/ru/companies/drweb/news/849096/?utm_campaign=849096&utm_source=habrahabr&utm_medium=rss)
 - [Исследование ООН: Telegram стал площадкой для подпольной торговли преступных азиатских группировок](https://habr.com/ru/news/849090/?utm_campaign=849090&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi выпустила фирменную SD-карту класса A2 и кейс-бампер для платы Raspberry Pi 5](https://habr.com/ru/news/849084/?utm_campaign=849084&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского»: Google удалила приложения Kaspersky из магазина Google Play, превысив санкции Минторга США](https://habr.com/ru/news/849060/?utm_campaign=849060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
