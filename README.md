@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Python 3.13](https://habr.com/ru/news/848906/?utm_campaign=848906&utm_source=habrahabr&utm_medium=rss)
 - [Электромобили Volvo и Polestar используют Rust в коде электронного блока управления](https://habr.com/ru/news/848888/?utm_campaign=848888&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Android сообщили о появлении новых функций защиты от кражи](https://habr.com/ru/news/848874/?utm_campaign=848874&utm_source=habrahabr&utm_medium=rss)
 - [После критики MKBHD выпустил обновление приложения с обоями: в нём стало меньше рекламы](https://habr.com/ru/news/848846/?utm_campaign=848846&utm_source=habrahabr&utm_medium=rss)
 - [Какая роль аналитика в кросс-командной разработке](https://habr.com/ru/companies/agima/news/848838/?utm_campaign=848838&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/848822/?utm_campaign=848822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
