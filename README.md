@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Минцифры для защиты абонентов предложили блокировать анонимные спам-звонки от компаний](https://habr.com/ru/news/848982/?utm_campaign=848982&utm_source=habrahabr&utm_medium=rss)
+- [Приходите в гости: РСХБ.цифра в Санкт-Петербурге на Joker и Heisenbug 15-18 октября](https://habr.com/ru/companies/rshb/news/848974/?utm_campaign=848974&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ИИ-ассистенты прослушивают разговоры и способны раскрыть секреты компании](https://habr.com/ru/news/848954/?utm_campaign=848954&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ открыл прием заявок на API-хакатон](https://habr.com/ru/companies/vtb/news/847972/?utm_campaign=847972&utm_source=habrahabr&utm_medium=rss)
 - [Apple опубликовала трейлер первого иммерсивного фильма для Vision Pro](https://habr.com/ru/news/848942/?utm_campaign=848942&utm_source=habrahabr&utm_medium=rss)
-- [УЦСБ запустил облачную платформу анализа защищенности приложений Apsafe](https://habr.com/ru/companies/ussc/news/848950/?utm_campaign=848950&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи в РФ жалуются на проблемы с доступом к Discord](https://habr.com/ru/news/848944/?utm_campaign=848944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
