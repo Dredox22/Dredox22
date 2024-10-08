@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование ООН: Telegram стал площадкой для подпольной торговли преступных азиатских группировок](https://habr.com/ru/news/849090/?utm_campaign=849090&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi выпустила фирменную SD-карту класса A2 и кейс-бампер для платы Raspberry Pi 5](https://habr.com/ru/news/849084/?utm_campaign=849084&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского»: Google удалила приложения Kaspersky из магазина Google Play, превысив санкции Минторга США](https://habr.com/ru/news/849060/?utm_campaign=849060&utm_source=habrahabr&utm_medium=rss)
 - [Google Pay сообщил пользователям о случайном добавлении «новой карты»](https://habr.com/ru/news/849054/?utm_campaign=849054&utm_source=habrahabr&utm_medium=rss)
 - [Mediascope: аудитория YouTube снизилась на 5 млн человек за год, до 47 млн пользователей](https://habr.com/ru/news/849024/?utm_campaign=849024&utm_source=habrahabr&utm_medium=rss)
-- [«Человеческий фактор» — новый подкаст о работе с данными](https://habr.com/ru/companies/hflabs/news/849006/?utm_campaign=849006&utm_source=habrahabr&utm_medium=rss)
-- [В Минцифры для защиты абонентов предложили блокировать анонимные спам-звонки от компаний](https://habr.com/ru/news/848982/?utm_campaign=848982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
