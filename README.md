@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mediascope: аудитория YouTube снизилась на 5 млн человек за год, до 47 млн пользователей](https://habr.com/ru/news/849024/?utm_campaign=849024&utm_source=habrahabr&utm_medium=rss)
 - [«Человеческий фактор» — новый подкаст о работе с данными](https://habr.com/ru/companies/hflabs/news/849006/?utm_campaign=849006&utm_source=habrahabr&utm_medium=rss)
 - [В Минцифры для защиты абонентов предложили блокировать анонимные спам-звонки от компаний](https://habr.com/ru/news/848982/?utm_campaign=848982&utm_source=habrahabr&utm_medium=rss)
 - [Приходите в гости: РСХБ.цифра в Санкт-Петербурге на Joker и Heisenbug 15-18 октября](https://habr.com/ru/companies/rshb/news/848974/?utm_campaign=848974&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ИИ-ассистенты прослушивают разговоры и способны раскрыть секреты компании](https://habr.com/ru/news/848954/?utm_campaign=848954&utm_source=habrahabr&utm_medium=rss)
-- [ВТБ открыл прием заявок на API-хакатон](https://habr.com/ru/companies/vtb/news/847972/?utm_campaign=847972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
