@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сохранить всё: безопасность информации](https://habr.com/ru/companies/garda/news/849156/?utm_campaign=849156&utm_source=habrahabr&utm_medium=rss)
 - [Аналоги Discord для пользователей в РФ после блокировки сервиса](https://habr.com/ru/news/849148/?utm_campaign=849148&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс», ИСП РАН и Сеченовский Университет создали нейросеть, используя подход федеративного машинного обучения](https://habr.com/ru/news/849144/?utm_campaign=849144&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: блокировка Discord направлена на «обеспечение безопасности российских пользователей»](https://habr.com/ru/news/849140/?utm_campaign=849140&utm_source=habrahabr&utm_medium=rss)
 - [ТАСС: Discord официально заблокировали в России](https://habr.com/ru/news/849134/?utm_campaign=849134&utm_source=habrahabr&utm_medium=rss)
-- [Робот-панголин откладывает из задней части корпуса семена деревьев в вырытые им же ямы](https://habr.com/ru/news/849126/?utm_campaign=849126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
