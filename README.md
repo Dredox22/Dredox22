@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Duake — мод Quake с главным персонажем и оружием из Doom](https://habr.com/ru/news/849210/?utm_campaign=849210&utm_source=habrahabr&utm_medium=rss)
-- [Netblocks: провайдеры связи в РФ заблокировали своим пользователям доступ к ресурсам платформы Discord](https://habr.com/ru/news/849204/?utm_campaign=849204&utm_source=habrahabr&utm_medium=rss)
-- [Вице-спикер Госдумы готовит обращение в Роскомнадзор с призывом пересмотреть решение о блокировке Discord](https://habr.com/ru/news/849202/?utm_campaign=849202&utm_source=habrahabr&utm_medium=rss)
-- [DLBI: хакеры заявила о взломе IT-инфраструктуры компании «Доктор Веб»](https://habr.com/ru/news/849198/?utm_campaign=849198&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор зафиксировал мощные DDoS-атаки на свои ресурсы после информации в СМИ о блокировке Discord в РФ](https://habr.com/ru/news/849196/?utm_campaign=849196&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge начинает тестирование Copilot Vision](https://habr.com/ru/news/849222/?utm_campaign=849222&utm_source=habrahabr&utm_medium=rss)
+- [В Турции заблокировали Discord](https://habr.com/ru/news/849234/?utm_campaign=849234&utm_source=habrahabr&utm_medium=rss)
+- [Релиз KDE Plasma 6.2](https://habr.com/ru/news/849224/?utm_campaign=849224&utm_source=habrahabr&utm_medium=rss)
+- [Foxconn объявила о строительстве завода по производству суперчипов GB200 для Nvidia в Мексике](https://habr.com/ru/news/849220/?utm_campaign=849220&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 24H2 ломает DirectAccess ради использования Always On VPN](https://habr.com/ru/news/849208/?utm_campaign=849208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
