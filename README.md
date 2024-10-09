@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» увеличила награду для охотников за ошибками в мобильных приложениях до миллиона рублей](https://habr.com/ru/news/849496/?utm_campaign=849496&utm_source=habrahabr&utm_medium=rss)
 - [«Моторика» зарегистрировала медицинские изделия для системы стимуляции блуждающего нерва от компании Rishena](https://habr.com/ru/news/849492/?utm_campaign=849492&utm_source=habrahabr&utm_medium=rss)
 - [22 октября — митап для системных аналитиков от билайна: Нижний Новгород + онлайн](https://habr.com/ru/companies/beeline_tech/news/849474/?utm_campaign=849474&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила, что новый Outlook для Windows скоро будет запускаться без интернета](https://habr.com/ru/news/849428/?utm_campaign=849428&utm_source=habrahabr&utm_medium=rss)
 - [Samsung извинилась перед инвесторами за отсутствие успехов в области ИИ](https://habr.com/ru/news/849416/?utm_campaign=849416&utm_source=habrahabr&utm_medium=rss)
-- [Weekend Оffer ПСБ для системных аналитиков](https://habr.com/ru/companies/psb/news/849346/?utm_campaign=849346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
