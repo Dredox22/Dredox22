@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз OpenBSD 7.6](https://habr.com/ru/news/849354/?utm_campaign=849354&utm_source=habrahabr&utm_medium=rss)
-- [Casio пострадала от кибератаки после того, как злоумышленник получил доступ к сетям компании](https://habr.com/ru/news/849344/?utm_campaign=849344&utm_source=habrahabr&utm_medium=rss)
-- [Роскачество: 76,7% приложений для заказа такси имеют проблемы с защитой персональных данных](https://habr.com/ru/news/849334/?utm_campaign=849334&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ChatGPT может распознавать «лица» и определять возраст](https://habr.com/ru/companies/bothub/news/849326/?utm_campaign=849326&utm_source=habrahabr&utm_medium=rss)
-- [В «Доктор Веб» подтвердили факт инцидента с атакой на IT-инфраструктуру компании хакерами и требование выкупа](https://habr.com/ru/news/849324/?utm_campaign=849324&utm_source=habrahabr&utm_medium=rss)
+- [Weekend Оffer ПСБ для системных аналитиков](https://habr.com/ru/companies/psb/news/849346/?utm_campaign=849346&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на митап: Эволюция управления данными: облако и open-source на службе качества](https://habr.com/ru/companies/oleg-bunin/news/849396/?utm_campaign=849396&utm_source=habrahabr&utm_medium=rss)
+- [Подкаст «Айтидо» №2: как балансировать между менеджментом и разработкой](https://habr.com/ru/companies/alfa/news/849386/?utm_campaign=849386&utm_source=habrahabr&utm_medium=rss)
+- [Минюст США заявил, что может потребовать от Alphabet продать часть бизнеса Google, включая браузер Chrome и ОС Android](https://habr.com/ru/news/849380/?utm_campaign=849380&utm_source=habrahabr&utm_medium=rss)
+- [В Discord сообщили, что принимают меры в связи с блокировкой](https://habr.com/ru/news/849376/?utm_campaign=849376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
