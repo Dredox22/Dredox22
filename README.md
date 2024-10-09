@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ассоциация разработчиков и производителей электроники попросила проверить передачу управления «МЦСТ» в НПЦ «Элвис»](https://habr.com/ru/news/849250/?utm_campaign=849250&utm_source=habrahabr&utm_medium=rss)
+- [Rockstar анонсировала Red Dead Redemption для ПК, в Steam появились скриншоты и системные требования игры](https://habr.com/ru/news/849248/?utm_campaign=849248&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge начинает тестирование Copilot Vision](https://habr.com/ru/news/849222/?utm_campaign=849222&utm_source=habrahabr&utm_medium=rss)
 - [В Турции заблокировали Discord](https://habr.com/ru/news/849234/?utm_campaign=849234&utm_source=habrahabr&utm_medium=rss)
 - [Релиз KDE Plasma 6.2](https://habr.com/ru/news/849224/?utm_campaign=849224&utm_source=habrahabr&utm_medium=rss)
-- [Foxconn объявила о строительстве завода по производству суперчипов GB200 для Nvidia в Мексике](https://habr.com/ru/news/849220/?utm_campaign=849220&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 24H2 ломает DirectAccess ради использования Always On VPN](https://habr.com/ru/news/849208/?utm_campaign=849208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
