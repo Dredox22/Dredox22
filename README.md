@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Моторика» зарегистрировала медицинские изделия для системы стимуляции блуждающего нерва от компании Rishena](https://habr.com/ru/news/849492/?utm_campaign=849492&utm_source=habrahabr&utm_medium=rss)
+- [22 октября — митап для системных аналитиков от билайна: Нижний Новгород + онлайн](https://habr.com/ru/companies/beeline_tech/news/849474/?utm_campaign=849474&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила, что новый Outlook для Windows скоро будет запускаться без интернета](https://habr.com/ru/news/849428/?utm_campaign=849428&utm_source=habrahabr&utm_medium=rss)
 - [Samsung извинилась перед инвесторами за отсутствие успехов в области ИИ](https://habr.com/ru/news/849416/?utm_campaign=849416&utm_source=habrahabr&utm_medium=rss)
 - [Weekend Оffer ПСБ для системных аналитиков](https://habr.com/ru/companies/psb/news/849346/?utm_campaign=849346&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на митап: Эволюция управления данными: облако и open-source на службе качества](https://habr.com/ru/companies/oleg-bunin/news/849396/?utm_campaign=849396&utm_source=habrahabr&utm_medium=rss)
-- [Подкаст «Айтидо» №2: как балансировать между менеджментом и разработкой](https://habr.com/ru/companies/alfa/news/849386/?utm_campaign=849386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
