@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Netblocks: основные провайдеры связи в РФ заблокировали своим пользователям доступ к ресурсам платформы Discord](https://habr.com/ru/news/849204/?utm_campaign=849204&utm_source=habrahabr&utm_medium=rss)
+- [Вице-спикер Госдумы готовит обращение к Роскомнадзора с призывом пересмотреть решение о блокировке Discord](https://habr.com/ru/news/849202/?utm_campaign=849202&utm_source=habrahabr&utm_medium=rss)
+- [DLBI: хакеры заявила о взломе IT-инфраструктуры компании «Доктор Веб»](https://habr.com/ru/news/849198/?utm_campaign=849198&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор зафиксировал мощные DDoS-атаки на свои ресурсы после информации в СМИ о блокировке Discord в РФ](https://habr.com/ru/news/849196/?utm_campaign=849196&utm_source=habrahabr&utm_medium=rss)
 - [Глобальный сбой в работе Roblox](https://habr.com/ru/news/849194/?utm_campaign=849194&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи: Google проверяет местоположение Android-смартфонов каждые 15 минут](https://habr.com/ru/news/849184/?utm_campaign=849184&utm_source=habrahabr&utm_medium=rss)
-- [Сохранить всё: безопасность информации](https://habr.com/ru/companies/garda/news/849156/?utm_campaign=849156&utm_source=habrahabr&utm_medium=rss)
-- [Аналоги Discord для пользователей в РФ после блокировки сервиса](https://habr.com/ru/news/849148/?utm_campaign=849148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
