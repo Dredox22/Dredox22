@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакатон для студентов ведущих вузов при поддержке ПСБ](https://habr.com/ru/companies/psb/news/849304/?utm_campaign=849304&utm_source=habrahabr&utm_medium=rss)
+- [TechCrunch: «Лаборатория Касперского» закроет лондонский офис и сократит сотрудников в Великобритании](https://habr.com/ru/news/849282/?utm_campaign=849282&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи РФ считают, что блокировка анонимных спам-звонков потребует инвестиций](https://habr.com/ru/news/849270/?utm_campaign=849270&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Qt 6.8](https://habr.com/ru/news/849258/?utm_campaign=849258&utm_source=habrahabr&utm_medium=rss)
 - [Ассоциация разработчиков и производителей электроники попросила проверить передачу управления «МЦСТ» в НПЦ «Элвис»](https://habr.com/ru/news/849250/?utm_campaign=849250&utm_source=habrahabr&utm_medium=rss)
-- [Rockstar анонсировала Red Dead Redemption для ПК, в Steam появились скриншоты и системные требования игры](https://habr.com/ru/news/849248/?utm_campaign=849248&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge начинает тестирование Copilot Vision](https://habr.com/ru/news/849222/?utm_campaign=849222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
