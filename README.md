@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Netblocks: основные провайдеры связи в РФ заблокировали своим пользователям доступ к ресурсам платформы Discord](https://habr.com/ru/news/849204/?utm_campaign=849204&utm_source=habrahabr&utm_medium=rss)
-- [Вице-спикер Госдумы готовит обращение к Роскомнадзора с призывом пересмотреть решение о блокировке Discord](https://habr.com/ru/news/849202/?utm_campaign=849202&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Duake — мод Quake с главным персонажем и оружием из Doom](https://habr.com/ru/news/849210/?utm_campaign=849210&utm_source=habrahabr&utm_medium=rss)
+- [Netblocks: провайдеры связи в РФ заблокировали своим пользователям доступ к ресурсам платформы Discord](https://habr.com/ru/news/849204/?utm_campaign=849204&utm_source=habrahabr&utm_medium=rss)
+- [Вице-спикер Госдумы готовит обращение в Роскомнадзор с призывом пересмотреть решение о блокировке Discord](https://habr.com/ru/news/849202/?utm_campaign=849202&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: хакеры заявила о взломе IT-инфраструктуры компании «Доктор Веб»](https://habr.com/ru/news/849198/?utm_campaign=849198&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор зафиксировал мощные DDoS-атаки на свои ресурсы после информации в СМИ о блокировке Discord в РФ](https://habr.com/ru/news/849196/?utm_campaign=849196&utm_source=habrahabr&utm_medium=rss)
-- [Глобальный сбой в работе Roblox](https://habr.com/ru/news/849194/?utm_campaign=849194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
