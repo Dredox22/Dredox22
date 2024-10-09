@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз OpenBSD 7.6](https://habr.com/ru/news/849354/?utm_campaign=849354&utm_source=habrahabr&utm_medium=rss)
+- [Casio пострадала от кибератаки после того, как злоумышленник получил доступ к сетям компании](https://habr.com/ru/news/849344/?utm_campaign=849344&utm_source=habrahabr&utm_medium=rss)
+- [Роскачество: 76,7% приложений для заказа такси имеют проблемы с защитой персональных данных](https://habr.com/ru/news/849334/?utm_campaign=849334&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ChatGPT может распознавать «лица» и определять возраст](https://habr.com/ru/companies/bothub/news/849326/?utm_campaign=849326&utm_source=habrahabr&utm_medium=rss)
 - [В «Доктор Веб» подтвердили факт инцидента с атакой на IT-инфраструктуру компании хакерами и требование выкупа](https://habr.com/ru/news/849324/?utm_campaign=849324&utm_source=habrahabr&utm_medium=rss)
-- [Хакатон для студентов ведущих вузов при поддержке ПСБ](https://habr.com/ru/companies/psb/news/849304/?utm_campaign=849304&utm_source=habrahabr&utm_medium=rss)
-- [TechCrunch: «Лаборатория Касперского» закроет лондонский офис и сократит сотрудников в Великобритании](https://habr.com/ru/news/849282/?utm_campaign=849282&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи РФ считают, что блокировка анонимных спам-звонков потребует инвестиций](https://habr.com/ru/news/849270/?utm_campaign=849270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
