@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор советует не использовать сторонние сайты для проверки доступности заблокированных ресурсов в РФ](https://habr.com/ru/news/849806/?utm_campaign=849806&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: нет оснований для разблокировки Discord в РФ, Steam блокировать пока не планируется](https://habr.com/ru/news/849794/?utm_campaign=849794&utm_source=habrahabr&utm_medium=rss)
 - [В открытый доступ попали данные миллионов клиентов «Детского мира» и «Бургер Кинга»](https://habr.com/ru/news/849742/?utm_campaign=849742&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выпустил мобильное приложение «Алиса»](https://habr.com/ru/news/849684/?utm_campaign=849684&utm_source=habrahabr&utm_medium=rss)
 - [Драма в опенсорс-сообществе: как поссорились WordPress с WP Engine](https://habr.com/ru/news/849678/?utm_campaign=849678&utm_source=habrahabr&utm_medium=rss)
-- [Злоумышленник украл базу данных аутентификации пользователей Internet Archive с 31 млн уникальных записей](https://habr.com/ru/news/849662/?utm_campaign=849662&utm_source=habrahabr&utm_medium=rss)
-- [Selectel представил собственные серверы. Зачем и что внутри?](https://habr.com/ru/companies/selectel/news/849568/?utm_campaign=849568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
