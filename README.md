@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic Games запустила раздел для инди-разработчиков игр в Epic Developer Community](https://habr.com/ru/news/849834/?utm_campaign=849834&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила Ink API — Jetpack-библиотеку для работы со стилусами на Android](https://habr.com/ru/news/849824/?utm_campaign=849824&utm_source=habrahabr&utm_medium=rss)
 - [Apple анонсировала конкурс Swift Student Challenge 2025](https://habr.com/ru/news/849820/?utm_campaign=849820&utm_source=habrahabr&utm_medium=rss)
 - [Proton запустила подписку Pass Family с доступом ко всем услугам для шести человек](https://habr.com/ru/news/849814/?utm_campaign=849814&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Copilot теперь доступен в виде бота в WhatsApp](https://habr.com/ru/news/849812/?utm_campaign=849812&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор советует не использовать сторонние сайты для проверки доступности заблокированных ресурсов в РФ](https://habr.com/ru/news/849806/?utm_campaign=849806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
