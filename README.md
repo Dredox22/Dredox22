@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [«Яндекс» выпустил мобильное приложение «Алиса»](https://habr.com/ru/news/849684/?utm_campaign=849684&utm_source=habrahabr&utm_medium=rss)
-- [Драма в опенсорсе-сообществе: как поссорились WordPress с WP Engine](https://habr.com/ru/news/849678/?utm_campaign=849678&utm_source=habrahabr&utm_medium=rss)
+- [Драма в опенсорс-сообществе: как поссорились WordPress с WP Engine](https://habr.com/ru/news/849678/?utm_campaign=849678&utm_source=habrahabr&utm_medium=rss)
 - [Злоумышленник украл базу данных аутентификации пользователей Internet Archive с 31 млн уникальных записей](https://habr.com/ru/news/849662/?utm_campaign=849662&utm_source=habrahabr&utm_medium=rss)
 - [Selectel представил собственные серверы. Зачем и что внутри?](https://habr.com/ru/companies/selectel/news/849568/?utm_campaign=849568&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс представил диффузионную нейросеть YandexART 2.0 — в её основе новая гибридная архитектура](https://habr.com/ru/companies/yandex/news/849438/?utm_campaign=849438&utm_source=habrahabr&utm_medium=rss)
