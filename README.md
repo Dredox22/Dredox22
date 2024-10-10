@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз языка программирования Julia 1.11](https://habr.com/ru/news/849572/?utm_campaign=849572&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo принимает заявки на участие в таинственном игровом тестировании Switch Online](https://habr.com/ru/news/849566/?utm_campaign=849566&utm_source=habrahabr&utm_medium=rss)
 - [ОМП анонсировала программу «Аврора+» для развёртывания ОС «Аврора» на устройствах автоэлектроники, ТВ и роутерах](https://habr.com/ru/news/849562/?utm_campaign=849562&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Deno 2.0](https://habr.com/ru/news/849510/?utm_campaign=849510&utm_source=habrahabr&utm_medium=rss)
 - [Информация о том, что в Discord начались появляться предложения зайти на платформу через VK ID, является фейком](https://habr.com/ru/news/849506/?utm_campaign=849506&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» увеличила награду для охотников за ошибками в мобильных приложениях до миллиона рублей](https://habr.com/ru/news/849496/?utm_campaign=849496&utm_source=habrahabr&utm_medium=rss)
-- [«Моторика» зарегистрировала медицинские изделия для системы стимуляции блуждающего нерва от компании Rishena](https://habr.com/ru/news/849492/?utm_campaign=849492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
