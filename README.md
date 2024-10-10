@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запустили Inference-платформу для сокращения time-to-market AI-продуктов](https://habr.com/ru/companies/selectel/news/849478/?utm_campaign=849478&utm_source=habrahabr&utm_medium=rss)
+- [Сценарий шифрования дисков при помощи Рутокен MFA по стандарту LUKS](https://habr.com/ru/companies/aktiv-company/news/849638/?utm_campaign=849638&utm_source=habrahabr&utm_medium=rss)
+- [Партнерство Selectel и Arenadata](https://habr.com/ru/companies/selectel/news/849518/?utm_campaign=849518&utm_source=habrahabr&utm_medium=rss)
+- [Как перейти на российские BI-решения без потери эффективности](https://habr.com/ru/companies/mws/news/849612/?utm_campaign=849612&utm_source=habrahabr&utm_medium=rss)
 - [Discord стал доступен части пользователей в РФ](https://habr.com/ru/news/849624/?utm_campaign=849624&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила ошибку в Word, которая удаляла документы вместо того, чтобы сохранять их](https://habr.com/ru/news/849610/?utm_campaign=849610&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Teams будет предупреждать или блокировать сотрудников при доступе в нерабочее время](https://habr.com/ru/news/849598/?utm_campaign=849598&utm_source=habrahabr&utm_medium=rss)
-- [51% российских компаний не готовы к внедрению искусственного интеллекта](https://habr.com/ru/companies/k2tech/news/849594/?utm_campaign=849594&utm_source=habrahabr&utm_medium=rss)
-- [Баг в Windows 11 24H2 приводит к неудаляемому кэшу обновления ОС объёмом 8,63 ГБ](https://habr.com/ru/news/849586/?utm_campaign=849586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
