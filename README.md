@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Баг в Windows 11 24H2 приводит к неудаляемому кэшу обновления ОС объёмом 8,63 ГБ](https://habr.com/ru/news/849586/?utm_campaign=849586&utm_source=habrahabr&utm_medium=rss)
+- [«Мидл Android-разработчик» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/849484/?utm_campaign=849484&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft удалила возможность переназначения клавиши Copilot в новой тестовой версии Windows 11](https://habr.com/ru/news/849580/?utm_campaign=849580&utm_source=habrahabr&utm_medium=rss)
 - [Релиз языка программирования Julia 1.11](https://habr.com/ru/news/849572/?utm_campaign=849572&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo принимает заявки на участие в таинственном игровом тестировании Switch Online](https://habr.com/ru/news/849566/?utm_campaign=849566&utm_source=habrahabr&utm_medium=rss)
-- [ОМП анонсировала программу «Аврора+» для развёртывания ОС «Аврора» на устройствах автоэлектроники, ТВ и роутерах](https://habr.com/ru/news/849562/?utm_campaign=849562&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Deno 2.0](https://habr.com/ru/news/849510/?utm_campaign=849510&utm_source=habrahabr&utm_medium=rss)
-- [Информация о том, что в Discord начались появляться предложения зайти на платформу через VK ID, является фейком](https://habr.com/ru/news/849506/?utm_campaign=849506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
