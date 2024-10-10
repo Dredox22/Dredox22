@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord стал доступен части пользователей в РФ](https://habr.com/ru/news/849624/?utm_campaign=849624&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила ошибку в Word, которая удаляла документы вместо того, чтобы сохранять их](https://habr.com/ru/news/849610/?utm_campaign=849610&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Teams будет предупреждать или блокировать сотрудников при доступе в нерабочее время](https://habr.com/ru/news/849598/?utm_campaign=849598&utm_source=habrahabr&utm_medium=rss)
+- [51% российских компаний не готовы к внедрению искусственного интеллекта](https://habr.com/ru/companies/k2tech/news/849594/?utm_campaign=849594&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Windows 11 24H2 приводит к неудаляемому кэшу обновления ОС объёмом 8,63 ГБ](https://habr.com/ru/news/849586/?utm_campaign=849586&utm_source=habrahabr&utm_medium=rss)
-- [«Мидл Android-разработчик» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/849484/?utm_campaign=849484&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалила возможность переназначения клавиши Copilot в новой тестовой версии Windows 11](https://habr.com/ru/news/849580/?utm_campaign=849580&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования Julia 1.11](https://habr.com/ru/news/849572/?utm_campaign=849572&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo принимает заявки на участие в таинственном игровом тестировании Switch Online](https://habr.com/ru/news/849566/?utm_campaign=849566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
