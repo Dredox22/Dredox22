@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple анонсировала конкурс Swift Student Challenge 2025](https://habr.com/ru/news/849820/?utm_campaign=849820&utm_source=habrahabr&utm_medium=rss)
 - [Proton запустила подписку Pass Family с доступом ко всем услугам для шести человек](https://habr.com/ru/news/849814/?utm_campaign=849814&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Copilot теперь доступен в виде бота в WhatsApp](https://habr.com/ru/news/849812/?utm_campaign=849812&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор советует не использовать сторонние сайты для проверки доступности заблокированных ресурсов в РФ](https://habr.com/ru/news/849806/?utm_campaign=849806&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: нет оснований для разблокировки Discord в РФ, Steam блокировать пока не планируется](https://habr.com/ru/news/849794/?utm_campaign=849794&utm_source=habrahabr&utm_medium=rss)
-- [В открытый доступ попали данные миллионов клиентов «Детского мира» и «Бургер Кинга»](https://habr.com/ru/news/849742/?utm_campaign=849742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
