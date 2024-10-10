@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ОМП анонсировала программу «Аврора+» для развёртывания ОС «Аврора» на устройствах автоэлектроники, ТВ и роутерах](https://habr.com/ru/news/849562/?utm_campaign=849562&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Deno 2.0](https://habr.com/ru/news/849510/?utm_campaign=849510&utm_source=habrahabr&utm_medium=rss)
 - [Информация о том, что в Discord начались появляться предложения зайти на платформу через VK ID, является фейком](https://habr.com/ru/news/849506/?utm_campaign=849506&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» увеличила награду для охотников за ошибками в мобильных приложениях до миллиона рублей](https://habr.com/ru/news/849496/?utm_campaign=849496&utm_source=habrahabr&utm_medium=rss)
 - [«Моторика» зарегистрировала медицинские изделия для системы стимуляции блуждающего нерва от компании Rishena](https://habr.com/ru/news/849492/?utm_campaign=849492&utm_source=habrahabr&utm_medium=rss)
-- [22 октября — митап для системных аналитиков от билайна: Нижний Новгород + онлайн](https://habr.com/ru/companies/beeline_tech/news/849474/?utm_campaign=849474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
