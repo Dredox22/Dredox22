@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Запустили Inference-платформу для сокращения time-to-market AI-продуктов](https://habr.com/ru/companies/selectel/news/849478/?utm_campaign=849478&utm_source=habrahabr&utm_medium=rss)
-- [Сценарий шифрования дисков при помощи Рутокен MFA по стандарту LUKS](https://habr.com/ru/companies/aktiv-company/news/849638/?utm_campaign=849638&utm_source=habrahabr&utm_medium=rss)
-- [Партнерство Selectel и Arenadata](https://habr.com/ru/companies/selectel/news/849518/?utm_campaign=849518&utm_source=habrahabr&utm_medium=rss)
-- [Как перейти на российские BI-решения без потери эффективности](https://habr.com/ru/companies/mws/news/849612/?utm_campaign=849612&utm_source=habrahabr&utm_medium=rss)
-- [Discord стал доступен части пользователей в РФ](https://habr.com/ru/news/849624/?utm_campaign=849624&utm_source=habrahabr&utm_medium=rss)
+- [Злоумышленник украл базу данных аутентификации пользователей Internet Archive с 31 млн уникальных записей](https://habr.com/ru/news/849662/?utm_campaign=849662&utm_source=habrahabr&utm_medium=rss)
+- [Selectel представил собственные серверы. Зачем и что внутри?](https://habr.com/ru/companies/selectel/news/849568/?utm_campaign=849568&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс представил диффузионную нейросеть YandexART 2.0 — в её основе новая гибридная архитектура](https://habr.com/ru/companies/yandex/news/849438/?utm_campaign=849438&utm_source=habrahabr&utm_medium=rss)
+- [Новый сезон подкаста «Деньги любят техно»: говорим о data science в разных отраслях бизнеса](https://habr.com/ru/companies/vtb/news/849648/?utm_campaign=849648&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты UserGate обнаружили критическую уязвимость в «безопасном» мессенджере](https://habr.com/ru/companies/usergate/news/849650/?utm_campaign=849650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
