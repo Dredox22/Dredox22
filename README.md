@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры готовит общее регулирование существующих аналогов GitHub в РФ и отказывается от проекта единого репозитория](https://habr.com/ru/news/849856/?utm_campaign=849856&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Pyramid Flow — нейросеть с открытым исходным кодом для генерации видео](https://habr.com/ru/news/849840/?utm_campaign=849840&utm_source=habrahabr&utm_medium=rss)
 - [В Epic Developer Community появился раздел для разработчиков инди-игр](https://habr.com/ru/news/849834/?utm_campaign=849834&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила Ink API — Jetpack-библиотеку для работы со стилусами на Android](https://habr.com/ru/news/849824/?utm_campaign=849824&utm_source=habrahabr&utm_medium=rss)
 - [Apple анонсировала конкурс Swift Student Challenge 2025](https://habr.com/ru/news/849820/?utm_campaign=849820&utm_source=habrahabr&utm_medium=rss)
-- [Proton запустила подписку Pass Family с доступом ко всем услугам для шести человек](https://habr.com/ru/news/849814/?utm_campaign=849814&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
