@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Платформа Guilded &lpar;аналог Discord&rpar; закрыла доступ к ресурсу для пользователей из РФ](https://habr.com/ru/news/850110/?utm_campaign=850110&utm_source=habrahabr&utm_medium=rss)
+- [Игра-кликер от создателей Плюс Сити собрала 1 млн пользователей за неделю](https://habr.com/ru/news/850102/?utm_campaign=850102&utm_source=habrahabr&utm_medium=rss)
 - [Федерация лифтов Франции призывает отложить отключение сетей 2G и 3G](https://habr.com/ru/news/850088/?utm_campaign=850088&utm_source=habrahabr&utm_medium=rss)
 - [Managed Kubernetes на выделенных серверах, новые процессоры Intel и другие апдейты: что мы обновили в сентябре](https://habr.com/ru/companies/selectel/news/849652/?utm_campaign=849652&utm_source=habrahabr&utm_medium=rss)
 - [Сентябрьский дайджест. Конфигуратор S3, корпоративная почта и Business Day в Москве](https://habr.com/ru/companies/timeweb/news/850028/?utm_campaign=850028&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс приглашает на митап для продуктовых бэкенд-разработчиков об интеграциях систем](https://habr.com/ru/companies/yandex/news/849952/?utm_campaign=849952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
