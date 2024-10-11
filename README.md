@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» предложила создать в РФ центр безопасности ИИ](https://habr.com/ru/news/849944/?utm_campaign=849944&utm_source=habrahabr&utm_medium=rss)
 - [20 лет свободного обмена идеями и кодом: юбилейная конференция разработчиков СПО](https://habr.com/ru/companies/basealtspo/news/849940/?utm_campaign=849940&utm_source=habrahabr&utm_medium=rss)
 - [Представлен самопрограммирующийся робот без электроники](https://habr.com/ru/news/849934/?utm_campaign=849934&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс впервые применил LLM для фотоперевода с учётом контекста](https://habr.com/ru/companies/yandex/news/849892/?utm_campaign=849892&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Microsoft Outlook заблокировал вход в систему электронной почты](https://habr.com/ru/news/849900/?utm_campaign=849900&utm_source=habrahabr&utm_medium=rss)
-- [Свежие EPYC, Ryzen AI Pro и Instinct: Лиза Су представила корпоративные новинки в рамках Advancing AI](https://habr.com/ru/companies/dcmiran/news/849888/?utm_campaign=849888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
