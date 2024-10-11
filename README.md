@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сентябрьский дайджест. Конфигуратор S3, корпоративная почта и Business Day в Москве](https://habr.com/ru/companies/timeweb/news/850028/?utm_campaign=850028&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс приглашает на митап для продуктовых бэкенд-разработчиков об интеграциях систем](https://habr.com/ru/companies/yandex/news/849952/?utm_campaign=849952&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обновил технологию фотоперевода на базе нейросетей](https://habr.com/ru/news/849998/?utm_campaign=849998&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies представила PT Dephaz для автоматического пентеста](https://habr.com/ru/news/849994/?utm_campaign=849994&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Windows 11 24H2 заставляет средство проверки sfc /scannow обнаруживать повреждённые файлы при каждом запуске](https://habr.com/ru/news/849960/?utm_campaign=849960&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» предложила создать в РФ центр безопасности ИИ](https://habr.com/ru/news/849944/?utm_campaign=849944&utm_source=habrahabr&utm_medium=rss)
-- [20 лет свободного обмена идеями и кодом: юбилейная конференция разработчиков СПО](https://habr.com/ru/companies/basealtspo/news/849940/?utm_campaign=849940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
