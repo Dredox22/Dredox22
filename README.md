@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс впервые применил LLM для фотоперевода с учётом контекста](https://habr.com/ru/companies/yandex/news/849892/?utm_campaign=849892&utm_source=habrahabr&utm_medium=rss)
+- [Баг в Microsoft Outlook заблокировал вход в систему электронной почты](https://habr.com/ru/news/849900/?utm_campaign=849900&utm_source=habrahabr&utm_medium=rss)
 - [Свежие EPYC, Ryzen AI Pro и Instinct: Лиза Су представила корпоративные новинки в рамках Advancing AI](https://habr.com/ru/companies/dcmiran/news/849888/?utm_campaign=849888&utm_source=habrahabr&utm_medium=rss)
 - [В ходе массового взлома пылесосы Ecovacs начали ругаться матом](https://habr.com/ru/companies/cloud4y/news/849884/?utm_campaign=849884&utm_source=habrahabr&utm_medium=rss)
 - [В «Ростелекоме» не видят технических проблем с оповещением на «Госуслугах» граждан об утечках их персональных данных](https://habr.com/ru/news/849878/?utm_campaign=849878&utm_source=habrahabr&utm_medium=rss)
-- [Google Photos будет сообщать о сгенерированных ИИ изображениях](https://habr.com/ru/news/849876/?utm_campaign=849876&utm_source=habrahabr&utm_medium=rss)
-- [Visiology и Conteq разыгрывают бесплатный пилотный проект в Санкт-Петербурге](https://habr.com/ru/companies/visiology/news/849872/?utm_campaign=849872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
