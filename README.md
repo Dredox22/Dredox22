@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Свежие EPYC, Ryzen AI Pro и Instinct: Лиза Су представила корпоративные новинки в рамках Advancing AI](https://habr.com/ru/companies/dcmiran/news/849888/?utm_campaign=849888&utm_source=habrahabr&utm_medium=rss)
+- [В ходе массового взлома пылесосы Ecovacs начали ругаться матом](https://habr.com/ru/companies/cloud4y/news/849884/?utm_campaign=849884&utm_source=habrahabr&utm_medium=rss)
+- [В «Ростелекоме» не видят технических проблем с оповещением на «Госуслугах» граждан об утечках их персональных данных](https://habr.com/ru/news/849878/?utm_campaign=849878&utm_source=habrahabr&utm_medium=rss)
+- [Google Photos будет сообщать о сгенерированных ИИ изображениях](https://habr.com/ru/news/849876/?utm_campaign=849876&utm_source=habrahabr&utm_medium=rss)
 - [Visiology и Conteq разыгрывают бесплатный пилотный проект в Санкт-Петербурге](https://habr.com/ru/companies/visiology/news/849872/?utm_campaign=849872&utm_source=habrahabr&utm_medium=rss)
-- [Tesla показала автономный электромобиль-роботакси Cybercab и микроавтобус Robovan](https://habr.com/ru/news/849870/?utm_campaign=849870&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Ubuntu 24.10 Oracular Oriole &lpar;Предвещающая Иволга&rpar;](https://habr.com/ru/news/849864/?utm_campaign=849864&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры готовит общее регулирование существующих аналогов GitHub в РФ и отказывается от проекта единого репозитория](https://habr.com/ru/news/849856/?utm_campaign=849856&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Pyramid Flow — нейросеть с открытым исходным кодом для генерации видео](https://habr.com/ru/news/849840/?utm_campaign=849840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
