@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Баг в Windows 11 24H2 вызывыает BSOD при установке системы на SSD WD SN770 и SN580, есть способ исправить ситуацию](https://habr.com/ru/news/850216/?utm_campaign=850216&utm_source=habrahabr&utm_medium=rss)
+- [«Глонасс» и «Газпром космические системы» планируют разрабатывать низкоорбитальные спутники связи](https://habr.com/ru/news/850214/?utm_campaign=850214&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-помощник Apple Intelligence в iPhone 15 Pro рассказал программисту из Нью-Йорка о том, что того бросила девушка](https://habr.com/ru/news/850196/?utm_campaign=850196&utm_source=habrahabr&utm_medium=rss)
 - [Sony подала запрос на ликвидацию юридического лица в России](https://habr.com/ru/news/850158/?utm_campaign=850158&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в Snipping Tool возможность копирования таблиц данных](https://habr.com/ru/news/850154/?utm_campaign=850154&utm_source=habrahabr&utm_medium=rss)
-- [Casio создала пушистого робота Moflin, который может ласкаться и успокаивать пользователя](https://habr.com/ru/news/850152/?utm_campaign=850152&utm_source=habrahabr&utm_medium=rss)
-- [Discord снова заработал у части российских пользователей через проводной интернет](https://habr.com/ru/news/850142/?utm_campaign=850142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
