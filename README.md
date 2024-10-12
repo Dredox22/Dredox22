@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Casio создала пушистого робота Moflin, который может ласкаться и успокаивать пользователя](https://habr.com/ru/news/850152/?utm_campaign=850152&utm_source=habrahabr&utm_medium=rss)
 - [Discord снова заработал у части российских пользователей через проводной интернет](https://habr.com/ru/news/850142/?utm_campaign=850142&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор подготовил приказ, который позволит регулятору замедлять любые сервисы в рамках управления сетями связи](https://habr.com/ru/news/850140/?utm_campaign=850140&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Guilded &lpar;аналог Discord&rpar; закрыла доступ к ресурсу для пользователей из РФ](https://habr.com/ru/news/850110/?utm_campaign=850110&utm_source=habrahabr&utm_medium=rss)
 - [Игра-кликер от создателей Плюс Сити собрала 1 млн пользователей за неделю](https://habr.com/ru/news/850102/?utm_campaign=850102&utm_source=habrahabr&utm_medium=rss)
-- [Федерация лифтов Франции призывает отложить отключение сетей 2G и 3G](https://habr.com/ru/news/850088/?utm_campaign=850088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
