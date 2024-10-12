@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony подала запрос на ликвидацию юридического лица в России](https://habr.com/ru/news/850158/?utm_campaign=850158&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в Snipping Tool возможность копирования таблиц данных](https://habr.com/ru/news/850154/?utm_campaign=850154&utm_source=habrahabr&utm_medium=rss)
 - [Casio создала пушистого робота Moflin, который может ласкаться и успокаивать пользователя](https://habr.com/ru/news/850152/?utm_campaign=850152&utm_source=habrahabr&utm_medium=rss)
 - [Discord снова заработал у части российских пользователей через проводной интернет](https://habr.com/ru/news/850142/?utm_campaign=850142&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор подготовил приказ, который позволит регулятору замедлять любые сервисы в рамках управления сетями связи](https://habr.com/ru/news/850140/?utm_campaign=850140&utm_source=habrahabr&utm_medium=rss)
-- [Платформа Guilded &lpar;аналог Discord&rpar; закрыла доступ к ресурсу для пользователей из РФ](https://habr.com/ru/news/850110/?utm_campaign=850110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
