@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз фреймворка Tauri 2.0](https://habr.com/ru/news/850250/?utm_campaign=850250&utm_source=habrahabr&utm_medium=rss)
 - [Вышел мод Doom III &lpar;Doom II Mod&rpar;](https://habr.com/ru/news/850246/?utm_campaign=850246&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные создали систему защиты файлов на переносных носителях информации](https://habr.com/ru/news/850220/?utm_campaign=850220&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Windows 11 24H2 вызывыает BSOD при установке системы на SSD WD SN770 и SN580, есть способ исправить ситуацию](https://habr.com/ru/news/850216/?utm_campaign=850216&utm_source=habrahabr&utm_medium=rss)
 - [«Глонасс» и «Газпром космические системы» планируют разрабатывать низкоорбитальные спутники связи](https://habr.com/ru/news/850214/?utm_campaign=850214&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-помощник Apple Intelligence в iPhone 15 Pro рассказал программисту из Нью-Йорка о том, что того бросила девушка](https://habr.com/ru/news/850196/?utm_campaign=850196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
