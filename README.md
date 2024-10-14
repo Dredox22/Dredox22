@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI: злоумышленники используют ChatGPT для создания вредоносного ПО](https://habr.com/ru/news/850364/?utm_campaign=850364&utm_source=habrahabr&utm_medium=rss)
+- [На восстановление Internet Archive уйдёт несколько дней](https://habr.com/ru/news/850358/?utm_campaign=850358&utm_source=habrahabr&utm_medium=rss)
+- [В iOS 18.1 пользователи смогут менять основной адрес электронной почты](https://habr.com/ru/news/850356/?utm_campaign=850356&utm_source=habrahabr&utm_medium=rss)
 - [Postgres Professional инвестирует 3 млрд рублей в развитие продуктов «Флант» &lpar;разработчик Deckhouse Kubernetes Platform&rpar;](https://habr.com/ru/news/850350/?utm_campaign=850350&utm_source=habrahabr&utm_medium=rss)
 - [Ушёл из жизни создатель XMODEM и пионер технологий компьютерных коммуникаций Уорд Кристенсен](https://habr.com/ru/news/850304/?utm_campaign=850304&utm_source=habrahabr&utm_medium=rss)
-- [Apple открыла в Шэньчжэне лабораторию для экстремальных тестов продуктов](https://habr.com/ru/news/850262/?utm_campaign=850262&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекращает поддержку протоколов VPN PPTP и L2TP в Windows Server](https://habr.com/ru/news/850260/?utm_campaign=850260&utm_source=habrahabr&utm_medium=rss)
-- [Релиз фреймворка Tauri 2.0](https://habr.com/ru/news/850250/?utm_campaign=850250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
