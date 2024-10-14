@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres Professional инвестирует 3 млрд рублей в развитие продуктов «Флант» &lpar;разработчик Deckhouse Kubernetes Platform&rpar;](https://habr.com/ru/news/850350/?utm_campaign=850350&utm_source=habrahabr&utm_medium=rss)
 - [Ушёл из жизни создатель XMODEM и пионер технологий компьютерных коммуникаций Уорд Кристенсен](https://habr.com/ru/news/850304/?utm_campaign=850304&utm_source=habrahabr&utm_medium=rss)
 - [Apple открыла в Шэньчжэне лабораторию для экстремальных тестов продуктов](https://habr.com/ru/news/850262/?utm_campaign=850262&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку протоколов VPN PPTP и L2TP в Windows Server](https://habr.com/ru/news/850260/?utm_campaign=850260&utm_source=habrahabr&utm_medium=rss)
 - [Релиз фреймворка Tauri 2.0](https://habr.com/ru/news/850250/?utm_campaign=850250&utm_source=habrahabr&utm_medium=rss)
-- [Вышел мод Doom III &lpar;Doom II Mod&rpar;](https://habr.com/ru/news/850246/?utm_campaign=850246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
