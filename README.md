@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование Apple выявило недостатки в LLM от OpenAI, Google и Meta*](https://habr.com/ru/companies/bothub/news/850630/?utm_campaign=850630&utm_source=habrahabr&utm_medium=rss)
 - [Вторая экспериментальная сборка Firefox для ОС Haiku](https://habr.com/ru/news/850600/?utm_campaign=850600&utm_source=habrahabr&utm_medium=rss)
 - [HivisionIDPhotos — нейросеть для генерации фотографий для документов](https://habr.com/ru/news/850576/?utm_campaign=850576&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор зафиксировал мощную DDoS-атаку на системы операторов связи РФ, которая была оперативно отражена](https://habr.com/ru/news/850574/?utm_campaign=850574&utm_source=habrahabr&utm_medium=rss)
 - [Telegram запускает Telegram Gateway: аутентификация номеров за $0,01 для бизнеса](https://habr.com/ru/news/850572/?utm_campaign=850572&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили нейросеть, которая в реальном времени генерирует геймплей CS:GO](https://habr.com/ru/news/850552/?utm_campaign=850552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
