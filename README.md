@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дочка «Ростелекома» ГК «Солар» приобрела компанию-пентестера &lpar;аудитора в сфере информбезопасности&rpar; Digital Security](https://habr.com/ru/news/850388/?utm_campaign=850388&utm_source=habrahabr&utm_medium=rss)
+- [Google предупредила о скором отключении uBlock Origin и других расширений](https://habr.com/ru/news/850370/?utm_campaign=850370&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: злоумышленники используют ChatGPT для создания вредоносного ПО](https://habr.com/ru/news/850364/?utm_campaign=850364&utm_source=habrahabr&utm_medium=rss)
 - [На восстановление Internet Archive уйдёт несколько дней](https://habr.com/ru/news/850358/?utm_campaign=850358&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 18.1 пользователи смогут менять основной адрес электронной почты](https://habr.com/ru/news/850356/?utm_campaign=850356&utm_source=habrahabr&utm_medium=rss)
-- [Postgres Professional инвестирует 3 млрд рублей в развитие продуктов «Флант» &lpar;разработчик Deckhouse Kubernetes Platform&rpar;](https://habr.com/ru/news/850350/?utm_campaign=850350&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни создатель XMODEM и пионер технологий компьютерных коммуникаций Уорд Кристенсен](https://habr.com/ru/news/850304/?utm_campaign=850304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
