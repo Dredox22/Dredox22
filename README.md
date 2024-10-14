@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России создали Ассоциацию игровой индустрии](https://habr.com/ru/news/850486/?utm_campaign=850486&utm_source=habrahabr&utm_medium=rss)
+- [Internet Archive возобновил работу в режиме read-only и только для сервиса Wayback Machine](https://habr.com/ru/news/850480/?utm_campaign=850480&utm_source=habrahabr&utm_medium=rss)
+- [Как управлять согласиями на обработку персональных данных? Расскажем на вебинаре](https://habr.com/ru/companies/hflabs/news/850478/?utm_campaign=850478&utm_source=habrahabr&utm_medium=rss)
 - [«Флант» получает 3 миллиарда рублей от Postgres Professional: новый этап в развитии Deckhouse](https://habr.com/ru/companies/flant/news/850452/?utm_campaign=850452&utm_source=habrahabr&utm_medium=rss)
 - [Telegram откроет офис в Казахстане](https://habr.com/ru/news/850444/?utm_campaign=850444&utm_source=habrahabr&utm_medium=rss)
-- [Новые курсы Яндекс Практикума для специалистов с опытом](https://habr.com/ru/companies/yandex_praktikum/news/850430/?utm_campaign=850430&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл регистрацию на чемпионат по программированию Yandex Cup 2024 с призовым фондом 12,5 млн рублей](https://habr.com/ru/news/850426/?utm_campaign=850426&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ-модели лишь имитируют мышление человека](https://habr.com/ru/news/850384/?utm_campaign=850384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
