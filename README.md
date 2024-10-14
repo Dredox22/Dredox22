@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор зафиксировал мощную DDoS-атаку на системы операторов связи РФ, которая была оперативно отражена](https://habr.com/ru/news/850574/?utm_campaign=850574&utm_source=habrahabr&utm_medium=rss)
+- [Telegram запускает Telegram Gateway: аутентификация номеров за $0,01 для бизнеса](https://habr.com/ru/news/850572/?utm_campaign=850572&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили нейросеть, которая в реальном времени генерирует геймплей CS:GO](https://habr.com/ru/news/850552/?utm_campaign=850552&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI незаметно выпустили Swarm – фреймворк для создания целых систем ИИ-агентов](https://habr.com/ru/news/850542/?utm_campaign=850542&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: киберугрозы легче обнаружить, когда злоумышленники используют ChatGPT](https://habr.com/ru/news/850530/?utm_campaign=850530&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила серию уроков по работе с Instruments — набором инструментов для анализа производительности приложений](https://habr.com/ru/news/850518/?utm_campaign=850518&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/850514/?utm_campaign=850514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
