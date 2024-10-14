@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики представили нейросеть, которая в реальном времени генерирует геймплей CS:GO](https://habr.com/ru/news/850552/?utm_campaign=850552&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI незаметно выпустили Swarm – фреймворк для создания целых систем ИИ-агентов](https://habr.com/ru/news/850542/?utm_campaign=850542&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: киберугрозы легче обнаружить, когда злоумышленники используют ChatGPT](https://habr.com/ru/news/850530/?utm_campaign=850530&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила серию уроков по работе с Instruments — набором инструментов для анализа производительности приложений](https://habr.com/ru/news/850518/?utm_campaign=850518&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/850514/?utm_campaign=850514&utm_source=habrahabr&utm_medium=rss)
-- [В России создали Ассоциацию игровой индустрии](https://habr.com/ru/news/850486/?utm_campaign=850486&utm_source=habrahabr&utm_medium=rss)
-- [Internet Archive возобновил работу в режиме read-only и только для сервиса Wayback Machine](https://habr.com/ru/news/850480/?utm_campaign=850480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
