@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram откроет офис в Казахстане](https://habr.com/ru/news/850444/?utm_campaign=850444&utm_source=habrahabr&utm_medium=rss)
 - [Новые курсы Яндекс Практикума для специалистов с опытом](https://habr.com/ru/companies/yandex_praktikum/news/850430/?utm_campaign=850430&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл регистрацию на чемпионат по программированию Yandex Cup 2024 с призовым фондом 12,5 млн рублей](https://habr.com/ru/news/850426/?utm_campaign=850426&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ИИ-модели лишь имитируют мышление человека](https://habr.com/ru/news/850384/?utm_campaign=850384&utm_source=habrahabr&utm_medium=rss)
 - [Дочка «Ростелекома» ГК «Солар» приобрела компанию-пентестера &lpar;аудитора в сфере информбезопасности&rpar; Digital Security](https://habr.com/ru/news/850388/?utm_campaign=850388&utm_source=habrahabr&utm_medium=rss)
-- [Google предупредила о скором отключении uBlock Origin и других расширений](https://habr.com/ru/news/850370/?utm_campaign=850370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
