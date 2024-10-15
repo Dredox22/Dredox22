@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Перевели 20 новых определений из глоссария CNCF на русский](https://habr.com/ru/companies/flant/news/850694/?utm_campaign=850694&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст сделал Windows 11 похожей на ОС из 90-х годов](https://habr.com/ru/news/850692/?utm_campaign=850692&utm_source=habrahabr&utm_medium=rss)
 - [Вице-президент «Ростелекома» по ИТ: Android-сервисы Google могут быть заблокированы самой компанией на территории РФ](https://habr.com/ru/news/850668/?utm_campaign=850668&utm_source=habrahabr&utm_medium=rss)
 - [Компания-разработчик Pokemon столкнулась с крупной утечкой данных](https://habr.com/ru/news/850664/?utm_campaign=850664&utm_source=habrahabr&utm_medium=rss)
 - [Релиз редактора векторной графики Inkscape 1.4](https://habr.com/ru/news/850660/?utm_campaign=850660&utm_source=habrahabr&utm_medium=rss)
-- [Google добавила в кодовую базу Android приложение Terminal для запуска эмулятора терминала с доступом к Linux-окружению](https://habr.com/ru/news/850656/?utm_campaign=850656&utm_source=habrahabr&utm_medium=rss)
-- [Ознакомительная версия игры «Спарта 2035» выходит 15 октября](https://habr.com/ru/news/850636/?utm_campaign=850636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
