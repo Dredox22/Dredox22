@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Солар» запускает отраслевой венчурный фонд в сфере кибербезопасности объёмом 1,1 млрд рублей](https://habr.com/ru/news/850850/?utm_campaign=850850&utm_source=habrahabr&utm_medium=rss)
 - [Discord удалил все запрещённые в РФ материалы по требованию РКН, но это может быть баг реестра](https://habr.com/ru/news/850828/?utm_campaign=850828&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: Steam пока не планируется блокировать, платформа удалила у себя запрещённые в РФ материалы](https://habr.com/ru/news/850816/?utm_campaign=850816&utm_source=habrahabr&utm_medium=rss)
 - [IntelBroker вновь шалит с подельниками: взлом Cisco](https://habr.com/ru/news/850806/?utm_campaign=850806&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз EvaProject 2.25 «Казань»](https://habr.com/ru/news/850792/?utm_campaign=850792&utm_source=habrahabr&utm_medium=rss)
-- [Хэллоуин с Firefox: жуткие костюмы для онлайн-праздника](https://habr.com/ru/news/850784/?utm_campaign=850784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
