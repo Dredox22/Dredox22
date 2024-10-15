@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord удалил все запрещённые в РФ материалы по требованию РКН, но это может быть баг реестра](https://habr.com/ru/news/850828/?utm_campaign=850828&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: Steam пока не планируется блокировать, платформа удалила у себя запрещённые в РФ материалы](https://habr.com/ru/news/850816/?utm_campaign=850816&utm_source=habrahabr&utm_medium=rss)
 - [IntelBroker вновь шалит с подельниками: взлом Cisco](https://habr.com/ru/news/850806/?utm_campaign=850806&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз EvaProject 2.25 «Казань»](https://habr.com/ru/news/850792/?utm_campaign=850792&utm_source=habrahabr&utm_medium=rss)
 - [Хэллоуин с Firefox: жуткие костюмы для онлайн-праздника](https://habr.com/ru/news/850784/?utm_campaign=850784&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia: xAI достигла инженерного чуда, установив суперкластер из 100 тысяч графических чипов H200 Blackwell за 19 суток](https://habr.com/ru/news/850772/?utm_campaign=850772&utm_source=habrahabr&utm_medium=rss)
-- [Хостинг Ru–Center &lpar;«Руцентр»&rpar; меняет систему работы с клиентами и намерен сосредоточиться на среднем и крупном бизнесе](https://habr.com/ru/news/850768/?utm_campaign=850768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
