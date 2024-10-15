@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Журналист выяснил, что Starlink Mini работает даже в рюкзаке](https://habr.com/ru/news/850948/?utm_campaign=850948&utm_source=habrahabr&utm_medium=rss)
+- [Windows 10 получит переработанный раздел «О системе» с более подробными характеристиками ПК](https://habr.com/ru/news/850944/?utm_campaign=850944&utm_source=habrahabr&utm_medium=rss)
+- [«‎Героев Меча и Магии III» портировали на платформу «1С»](https://habr.com/ru/news/850942/?utm_campaign=850942&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI украли идею и название компании: об этом сообщает Bloomberg](https://habr.com/ru/news/850934/?utm_campaign=850934&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор второй раз: нет оснований для разблокировки Discord в РФ](https://habr.com/ru/news/850932/?utm_campaign=850932&utm_source=habrahabr&utm_medium=rss)
-- [Новый институт МФТИ займется решением стратегических для РФ научных и прикладных задач](https://habr.com/ru/companies/mipt/news/850886/?utm_campaign=850886&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» запускает отраслевой венчурный фонд в сфере кибербезопасности объёмом 1,1 млрд рублей](https://habr.com/ru/news/850850/?utm_campaign=850850&utm_source=habrahabr&utm_medium=rss)
-- [Discord удалил все запрещённые в РФ материалы по требованию РКН, но это может быть баг реестра](https://habr.com/ru/news/850828/?utm_campaign=850828&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
