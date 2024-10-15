@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco расследует утечку после того, как украденные данные компании были проданы на хакерском форуме](https://habr.com/ru/news/850734/?utm_campaign=850734&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft в курсе бага в Windows 11 24H2 с 8,63 ГБ неудаляемого кэша](https://habr.com/ru/news/850716/?utm_campaign=850716&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» выпустил в продажу «Яндекс ТВ Станцию Бейсик»](https://habr.com/ru/news/850666/?utm_campaign=850666&utm_source=habrahabr&utm_medium=rss)
 - [Перевели 20 новых определений из глоссария CNCF на русский](https://habr.com/ru/companies/flant/news/850694/?utm_campaign=850694&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст сделал Windows 11 похожей на ОС из 90-х годов](https://habr.com/ru/news/850692/?utm_campaign=850692&utm_source=habrahabr&utm_medium=rss)
-- [Вице-президент «Ростелекома» по ИТ: Android-сервисы Google могут быть заблокированы самой компанией на территории РФ](https://habr.com/ru/news/850668/?utm_campaign=850668&utm_source=habrahabr&utm_medium=rss)
-- [Компания-разработчик Pokemon столкнулась с крупной утечкой данных](https://habr.com/ru/news/850664/?utm_campaign=850664&utm_source=habrahabr&utm_medium=rss)
-- [Релиз редактора векторной графики Inkscape 1.4](https://habr.com/ru/news/850660/?utm_campaign=850660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
