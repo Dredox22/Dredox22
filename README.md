@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что скрывается в тени: F.A.С.С.T. проанализировал атаки вымогателей Shadow/Twelve на российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/850720/?utm_campaign=850720&utm_source=habrahabr&utm_medium=rss)
+- [Apple развернёт в приложении Wallet поддержку цифровых ключей для автомобилей Volvo, Polestar и Audi](https://habr.com/ru/news/850746/?utm_campaign=850746&utm_source=habrahabr&utm_medium=rss)
 - [Cisco расследует утечку после того, как украденные данные компании были проданы на хакерском форуме](https://habr.com/ru/news/850734/?utm_campaign=850734&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft в курсе бага в Windows 11 24H2 с 8,63 ГБ неудаляемого кэша](https://habr.com/ru/news/850716/?utm_campaign=850716&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выпустил в продажу «Яндекс ТВ Станцию Бейсик»](https://habr.com/ru/news/850666/?utm_campaign=850666&utm_source=habrahabr&utm_medium=rss)
-- [Перевели 20 новых определений из глоссария CNCF на русский](https://habr.com/ru/companies/flant/news/850694/?utm_campaign=850694&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст сделал Windows 11 похожей на ОС из 90-х годов](https://habr.com/ru/news/850692/?utm_campaign=850692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
