@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia: xAI достигла инженерного чуда, установив суперкластер из 100 тысяч графических чипов H200 Blackwell за 19 суток](https://habr.com/ru/news/850772/?utm_campaign=850772&utm_source=habrahabr&utm_medium=rss)
+- [Хостинг Ru–Center &lpar;«Руцентр»&rpar; меняет систему работы с клиентами и намерен сосредоточиться на среднем и крупном бизнесе](https://habr.com/ru/news/850768/?utm_campaign=850768&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.33: критические ошибки, пользовательские аннотации в C#, поддержка SN-DBS и многое другое](https://habr.com/ru/companies/pvs-studio/news/850762/?utm_campaign=850762&utm_source=habrahabr&utm_medium=rss)
+- [Deckhouse Kubernetes Platform стала первой сертифицированной платформой контейнеризации в России](https://habr.com/ru/companies/flant/news/850752/?utm_campaign=850752&utm_source=habrahabr&utm_medium=rss)
 - [Что скрывается в тени: F.A.С.С.T. проанализировал атаки вымогателей Shadow/Twelve на российские компании](https://habr.com/ru/companies/f_a_c_c_t/news/850720/?utm_campaign=850720&utm_source=habrahabr&utm_medium=rss)
-- [Apple развернёт в приложении Wallet поддержку цифровых ключей для автомобилей Volvo, Polestar и Audi](https://habr.com/ru/news/850746/?utm_campaign=850746&utm_source=habrahabr&utm_medium=rss)
-- [Cisco расследует утечку после того, как украденные данные компании были проданы на хакерском форуме](https://habr.com/ru/news/850734/?utm_campaign=850734&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft в курсе бага в Windows 11 24H2 с 8,63 ГБ неудаляемого кэша](https://habr.com/ru/news/850716/?utm_campaign=850716&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выпустил в продажу «Яндекс ТВ Станцию Бейсик»](https://habr.com/ru/news/850666/?utm_campaign=850666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
