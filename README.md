@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз LibreSSL 4.0.0](https://habr.com/ru/news/851010/?utm_campaign=851010&utm_source=habrahabr&utm_medium=rss)
-- [Intel и AMD создали консультативную группу c Торвальдсом и Суини по экосистеме x86](https://habr.com/ru/news/851008/?utm_campaign=851008&utm_source=habrahabr&utm_medium=rss)
-- [Вышли релизы Joomla 5.2.0 и Joomla 4.4.9](https://habr.com/ru/news/850988/?utm_campaign=850988&utm_source=habrahabr&utm_medium=rss)
-- [В работе сайтов МВД и ГИБДД РФ произошел многочасовой сбой по техническим причинам](https://habr.com/ru/news/850986/?utm_campaign=850986&utm_source=habrahabr&utm_medium=rss)
-- [«Сайберия Нова» объявила о планах перезаписать озвучку «Смуты»](https://habr.com/ru/news/850958/?utm_campaign=850958&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 24H2 скорость передачи данных по протоколу SMB упала до 100 Мбит/с](https://habr.com/ru/news/851036/?utm_campaign=851036&utm_source=habrahabr&utm_medium=rss)
+- [We will IT+Rock you: как мы делаем конференцию про ИТ в рок-стиле](https://habr.com/ru/companies/orion_soft/news/851028/?utm_campaign=851028&utm_source=habrahabr&utm_medium=rss)
+- [Начался поэтапный отказ от uBlock Origin в Google Chrome](https://habr.com/ru/news/851022/?utm_campaign=851022&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Карты» обновили навигацию для пешеходов и велосипедистов](https://habr.com/ru/news/851020/?utm_campaign=851020&utm_source=habrahabr&utm_medium=rss)
+- [В 2025 году из-за санкций ASML потеряет больше половины заказов из Китая](https://habr.com/ru/companies/dcmiran/news/851014/?utm_campaign=851014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
