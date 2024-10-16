@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз LibreSSL 4.0.0](https://habr.com/ru/news/851010/?utm_campaign=851010&utm_source=habrahabr&utm_medium=rss)
 - [Intel и AMD создали консультативную группу c Торвальдсом и Суини по экосистеме x86](https://habr.com/ru/news/851008/?utm_campaign=851008&utm_source=habrahabr&utm_medium=rss)
 - [Вышли релизы Joomla 5.2.0 и Joomla 4.4.9](https://habr.com/ru/news/850988/?utm_campaign=850988&utm_source=habrahabr&utm_medium=rss)
 - [В работе сайтов МВД и ГИБДД РФ произошел многочасовой сбой по техническим причинам](https://habr.com/ru/news/850986/?utm_campaign=850986&utm_source=habrahabr&utm_medium=rss)
 - [«Сайберия Нова» объявила о планах перезаписать озвучку «Смуты»](https://habr.com/ru/news/850958/?utm_campaign=850958&utm_source=habrahabr&utm_medium=rss)
-- [Журналист выяснил, что Starlink Mini работает даже в рюкзаке](https://habr.com/ru/news/850948/?utm_campaign=850948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
