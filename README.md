@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженер София Тунг из США смогла бесплатно кататься на роботакси Waymo до окончания заряда аккумулятора авто](https://habr.com/ru/news/851150/?utm_campaign=851150&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и HID объединяются, чтобы внедрить физические карты доступа для многофакторной аутентификации](https://habr.com/ru/news/851144/?utm_campaign=851144&utm_source=habrahabr&utm_medium=rss)
 - [С начала 2024 года РКН зарегистрировал 110 утечек персональных данных](https://habr.com/ru/news/851138/?utm_campaign=851138&utm_source=habrahabr&utm_medium=rss)
 - [Riot Games объявила об увольнениях в команде League of Legends](https://habr.com/ru/news/851134/?utm_campaign=851134&utm_source=habrahabr&utm_medium=rss)
 - [Американские клиенты продолжают использовать антивирус «Лаборатории Касперского» после его запрета в стране, но с VPN](https://habr.com/ru/news/851096/?utm_campaign=851096&utm_source=habrahabr&utm_medium=rss)
-- [Налоговые IT-льготы распространят на производителей печатных плат](https://habr.com/ru/news/851084/?utm_campaign=851084&utm_source=habrahabr&utm_medium=rss)
-- [Новый iPad mini будет поставляться без зарядки в ЕС и Великобританию](https://habr.com/ru/news/851058/?utm_campaign=851058&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
