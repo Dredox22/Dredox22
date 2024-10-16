@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Налоговые IT-льготы распространят на производителей печатных плат](https://habr.com/ru/news/851084/?utm_campaign=851084&utm_source=habrahabr&utm_medium=rss)
 - [Новый iPad mini будет поставляться без зарядки в ЕС и Великобританию](https://habr.com/ru/news/851058/?utm_campaign=851058&utm_source=habrahabr&utm_medium=rss)
 - [Продукты для лицензирования софта Guardant VTC и Guardant HW Net добавлены в Реестр российского ПО](https://habr.com/ru/companies/aktiv-company/news/851054/?utm_campaign=851054&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 скорость передачи данных по протоколу SMB упала до 100 Мбит/с](https://habr.com/ru/news/851036/?utm_campaign=851036&utm_source=habrahabr&utm_medium=rss)
 - [We will IT+Rock you: как мы делаем конференцию про ИТ в рок-стиле](https://habr.com/ru/companies/orion_soft/news/851028/?utm_campaign=851028&utm_source=habrahabr&utm_medium=rss)
-- [Начался поэтапный отказ от uBlock Origin в Google Chrome](https://habr.com/ru/news/851022/?utm_campaign=851022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
