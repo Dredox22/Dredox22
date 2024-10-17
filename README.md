@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WD выпустила новую прошивку на некоторые свои SSD для исправления BSOD при установке Windows 11 24H2](https://habr.com/ru/news/851402/?utm_campaign=851402&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь пожаловался, что его девушка использует ChatGPT, чтобы выигрывать все личные споры](https://habr.com/ru/news/851376/?utm_campaign=851376&utm_source=habrahabr&utm_medium=rss)
 - [В России появится сервис, который позволит оплачивать покупки смартфонами на Android и iOS](https://habr.com/ru/news/851368/?utm_campaign=851368&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Node.js 23](https://habr.com/ru/news/851364/?utm_campaign=851364&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на митап «Люди в роботизации»](https://habr.com/ru/companies/X5Tech/news/851342/?utm_campaign=851342&utm_source=habrahabr&utm_medium=rss)
-- [Вскоре выйдет вторая статья посвященная пониманию прогноза глюкозы в AndroidAPS](https://habr.com/ru/news/851340/?utm_campaign=851340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
