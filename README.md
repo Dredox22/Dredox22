@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 24H2 обнаружен баг с пустой историей буфера обмена](https://habr.com/ru/news/851276/?utm_campaign=851276&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила открытый проект диспетчера виртуальных машин OpenVMM, написанный на Rust](https://habr.com/ru/news/851274/?utm_campaign=851274&utm_source=habrahabr&utm_medium=rss)
+- [Apple запатентовала проектор контента дополненной реальности](https://habr.com/ru/news/851266/?utm_campaign=851266&utm_source=habrahabr&utm_medium=rss)
 - [В РФ планируют запретить использование российскими операторами связи сервиса SpeedTest](https://habr.com/ru/news/851250/?utm_campaign=851250&utm_source=habrahabr&utm_medium=rss)
 - [Представлен Ditto — открытый генератор исходного кода приложений во Flask по текстовому запросу](https://habr.com/ru/news/851246/?utm_campaign=851246&utm_source=habrahabr&utm_medium=rss)
-- [Llama Group удалила репозиторий на GitHub с исходным кодом Winamp](https://habr.com/ru/news/851242/?utm_campaign=851242&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик нашёл ошибку в Zendesk, которая позволяла просматривать чужие тикеты, но так и не получил вознаграждение](https://habr.com/ru/news/851226/?utm_campaign=851226&utm_source=habrahabr&utm_medium=rss)
-- [MAB Robotics научила свою робособаку Honey Badger передвигаться под водой](https://habr.com/ru/news/851216/?utm_campaign=851216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
