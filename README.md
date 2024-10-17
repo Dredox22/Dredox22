@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Excel и PowerPoint получили функцию, которая помогает рисовать идеальные фигуры](https://habr.com/ru/news/851474/?utm_campaign=851474&utm_source=habrahabr&utm_medium=rss)
 - [Meta* увольняет сотрудников WhatsApp, Instagram** и других компаний](https://habr.com/ru/news/851442/?utm_campaign=851442&utm_source=habrahabr&utm_medium=rss)
 - [Positive Education запускает новый поток бесплатного обучения по практической кибербезопасности для преподавателей](https://habr.com/ru/companies/pt/news/851294/?utm_campaign=851294&utm_source=habrahabr&utm_medium=rss)
 - [WD выпустила новую прошивку на некоторые свои SSD для исправления BSOD при установке Windows 11 24H2](https://habr.com/ru/news/851402/?utm_campaign=851402&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь пожаловался, что его девушка использует ChatGPT, чтобы выигрывать все личные споры](https://habr.com/ru/news/851376/?utm_campaign=851376&utm_source=habrahabr&utm_medium=rss)
-- [В России появится сервис, который позволит оплачивать покупки смартфонами на Android и iOS](https://habr.com/ru/news/851368/?utm_campaign=851368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
