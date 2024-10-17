@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord: повестка о пиратстве нарушает права пользователей](https://habr.com/ru/news/851290/?utm_campaign=851290&utm_source=habrahabr&utm_medium=rss)
+- [В билайне и Сеченовском университете создали ИИ-модель для оценки отторжения пересаженной почки](https://habr.com/ru/companies/beeline_tech/news/851278/?utm_campaign=851278&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 обнаружен баг с пустой историей буфера обмена](https://habr.com/ru/news/851276/?utm_campaign=851276&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила открытый проект диспетчера виртуальных машин OpenVMM, написанный на Rust](https://habr.com/ru/news/851274/?utm_campaign=851274&utm_source=habrahabr&utm_medium=rss)
 - [Apple запатентовала проектор контента дополненной реальности](https://habr.com/ru/news/851266/?utm_campaign=851266&utm_source=habrahabr&utm_medium=rss)
-- [В РФ планируют запретить использование российскими операторами связи сервиса SpeedTest](https://habr.com/ru/news/851250/?utm_campaign=851250&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Ditto — открытый генератор исходного кода приложений во Flask по текстовому запросу](https://habr.com/ru/news/851246/?utm_campaign=851246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
