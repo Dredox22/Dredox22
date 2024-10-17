@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT теперь доступна в Windows](https://habr.com/ru/companies/bothub/news/851502/?utm_campaign=851502&utm_source=habrahabr&utm_medium=rss)
 - [Вышла YOLO 11](https://habr.com/ru/news/851486/?utm_campaign=851486&utm_source=habrahabr&utm_medium=rss)
 - [Excel и PowerPoint получили функцию, которая помогает рисовать идеальные фигуры](https://habr.com/ru/news/851474/?utm_campaign=851474&utm_source=habrahabr&utm_medium=rss)
 - [Meta* увольняет сотрудников WhatsApp, Instagram** и других компаний](https://habr.com/ru/news/851442/?utm_campaign=851442&utm_source=habrahabr&utm_medium=rss)
 - [Positive Education запускает новый поток бесплатного обучения по практической кибербезопасности для преподавателей](https://habr.com/ru/companies/pt/news/851294/?utm_campaign=851294&utm_source=habrahabr&utm_medium=rss)
-- [WD выпустила новую прошивку на некоторые свои SSD для исправления BSOD при установке Windows 11 24H2](https://habr.com/ru/news/851402/?utm_campaign=851402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
