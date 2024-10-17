@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Canonical объявила кодовое имя Ubuntu 25.04 — Plucky Puffin &lpar;Отважный Тупик&rpar;](https://habr.com/ru/news/851332/?utm_campaign=851332&utm_source=habrahabr&utm_medium=rss)
+- [Гиперперсонализация: как сделать предложение пользователю релевантным](https://habr.com/ru/companies/X5Tech/news/851326/?utm_campaign=851326&utm_source=habrahabr&utm_medium=rss)
+- [Идеальный кандидат: обзор требований и ожиданий на рынке ИБ-кадров](https://habr.com/ru/companies/searchinform/news/851324/?utm_campaign=851324&utm_source=habrahabr&utm_medium=rss)
 - [Discord: повестка о пиратстве нарушает права пользователей](https://habr.com/ru/news/851290/?utm_campaign=851290&utm_source=habrahabr&utm_medium=rss)
 - [В билайне и Сеченовском университете создали ИИ-модель для оценки отторжения пересаженной почки](https://habr.com/ru/companies/beeline_tech/news/851278/?utm_campaign=851278&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 24H2 обнаружен баг с пустой историей буфера обмена](https://habr.com/ru/news/851276/?utm_campaign=851276&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила открытый проект диспетчера виртуальных машин OpenVMM, написанный на Rust](https://habr.com/ru/news/851274/?utm_campaign=851274&utm_source=habrahabr&utm_medium=rss)
-- [Apple запатентовала проектор контента дополненной реальности](https://habr.com/ru/news/851266/?utm_campaign=851266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
