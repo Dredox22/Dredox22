@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reuters: Meta* выпускает модель искусственного интеллекта, которая может проверять работу других ИИ-моделей](https://habr.com/ru/companies/bothub/news/851824/?utm_campaign=851824&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты запустили Doom в Telegram Mini Apps](https://habr.com/ru/news/851784/?utm_campaign=851784&utm_source=habrahabr&utm_medium=rss)
 - [Starlink планирует запуск ещё 30 тысяч спутников на земную орбиту для каналов с гигабитной скоростью и низкой задержкой](https://habr.com/ru/news/851778/?utm_campaign=851778&utm_source=habrahabr&utm_medium=rss)
 - [Решение СИГМЫ для Водоканала Санкт-Петербурга — победитель конкурса «1С: Проект года»](https://habr.com/ru/companies/sigma/news/851678/?utm_campaign=851678&utm_source=habrahabr&utm_medium=rss)
 - [Почему Cerebras может стать головной болью для Nvidia](https://habr.com/ru/companies/onlinepatent/news/851754/?utm_campaign=851754&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» полностью перешёл на собственное решение хранилищ данных SberData Platform](https://habr.com/ru/news/851690/?utm_campaign=851690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
