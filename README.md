@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» полностью перешёл на собственное решение хранилищ данных SberData Platform](https://habr.com/ru/news/851690/?utm_campaign=851690&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор США заподозрил TSMC в продолжении сотрудничества с Huawei в обход санкций](https://habr.com/ru/news/851650/?utm_campaign=851650&utm_source=habrahabr&utm_medium=rss)
 - [Новый релиз VPN4TV — клиента VLESS/Reality/Outline/Amnezia для смарт-ТВ и приставок](https://habr.com/ru/news/851636/?utm_campaign=851636&utm_source=habrahabr&utm_medium=rss)
 - [Крупные хостинг провайдеры РФ повышают цены на свои услуги](https://habr.com/ru/news/851634/?utm_campaign=851634&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.10](https://habr.com/ru/news/851618/?utm_campaign=851618&utm_source=habrahabr&utm_medium=rss)
-- [Проект Альфа-Лизинга и К2Тех одержал победу в номинации «Лучший проект в отрасли» на конкурсе от фирмы «1С»](https://habr.com/ru/companies/k2tech/news/851456/?utm_campaign=851456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
