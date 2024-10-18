@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый релиз VPN4TV — клиента VLESS/Reality/Outline/Amnezia для смарт-ТВ и приставок](https://habr.com/ru/news/851636/?utm_campaign=851636&utm_source=habrahabr&utm_medium=rss)
+- [Крупные хостинг провайдеры РФ повышают цены на свои услуги](https://habr.com/ru/news/851634/?utm_campaign=851634&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.10](https://habr.com/ru/news/851618/?utm_campaign=851618&utm_source=habrahabr&utm_medium=rss)
 - [Проект Альфа-Лизинга и К2Тех одержал победу в номинации «Лучший проект в отрасли» на конкурсе от фирмы «1С»](https://habr.com/ru/companies/k2tech/news/851456/?utm_campaign=851456&utm_source=habrahabr&utm_medium=rss)
 - [Клон iOS Handoff для Windows 11 называется Resume и работает с Android](https://habr.com/ru/news/851586/?utm_campaign=851586&utm_source=habrahabr&utm_medium=rss)
-- [Инженер Red Hat Никита Попов стал ведущим мейнтейнером проекта LLVM](https://habr.com/ru/news/851566/?utm_campaign=851566&utm_source=habrahabr&utm_medium=rss)
-- [Robot Era показала забег роботов-гуманоидов Star1 в пустыне Гоби](https://habr.com/ru/news/851550/?utm_campaign=851550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
