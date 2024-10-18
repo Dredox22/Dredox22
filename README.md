@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Robot Era показала забег роботов-гуманоидов Star1 в пустыне Гоби](https://habr.com/ru/news/851550/?utm_campaign=851550&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm отменила выпуск мини-ПК с процессором Snapdragon X Elite](https://habr.com/ru/news/851540/?utm_campaign=851540&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики обновили Mothbox — бюджетную систему для мониторинга насекомых](https://habr.com/ru/news/851524/?utm_campaign=851524&utm_source=habrahabr&utm_medium=rss)
 - [Fplus начнёт выпуск серверов с отечественными нейроускорителями от компании НТЦ «Модуль»](https://habr.com/ru/news/851518/?utm_campaign=851518&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь доступна в Windows](https://habr.com/ru/companies/bothub/news/851502/?utm_campaign=851502&utm_source=habrahabr&utm_medium=rss)
-- [Вышла YOLO 11](https://habr.com/ru/news/851486/?utm_campaign=851486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
