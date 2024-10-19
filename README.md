@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Activision исправила баг в античите Ricochet из-за бана игроков Call of Duty за два слова](https://habr.com/ru/news/851854/?utm_campaign=851854&utm_source=habrahabr&utm_medium=rss)
 - [Релиз платформы совместной разработки Forgejo v9.0](https://habr.com/ru/news/851842/?utm_campaign=851842&utm_source=habrahabr&utm_medium=rss)
 - [Вакуумная мультиспектральная лампа для научных применений](https://habr.com/ru/news/851828/?utm_campaign=851828&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: Meta* выпускает модель искусственного интеллекта, которая может проверять работу других ИИ-моделей](https://habr.com/ru/companies/bothub/news/851824/?utm_campaign=851824&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты запустили Doom в Telegram Mini Apps](https://habr.com/ru/news/851784/?utm_campaign=851784&utm_source=habrahabr&utm_medium=rss)
-- [Starlink планирует запуск ещё 30 тысяч спутников на земную орбиту для каналов с гигабитной скоростью и низкой задержкой](https://habr.com/ru/news/851778/?utm_campaign=851778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
