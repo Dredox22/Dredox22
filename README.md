@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Релиз Microsoft Edge 130](https://habr.com/ru/news/851936/?utm_campaign=851936&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил проект nubmoan, который заставляет ноутбук ThinkPad стонать, когда кто-то касается трекпоинта](https://habr.com/ru/news/851912/?utm_campaign=851912&utm_source=habrahabr&utm_medium=rss)
 - [В BattleEye обнаружена серьезная уязвимость позволяющая забанить любого игрока](https://habr.com/ru/news/851900/?utm_campaign=851900&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ предложил сдавать биометрические данные в приложениях банков](https://habr.com/ru/news/851898/?utm_campaign=851898&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты прогнали из дома компьютерных ломастеров—«‎домушников» и нашли на забытом HDD прайсы и зловредные инструкции](https://habr.com/ru/news/851868/?utm_campaign=851868&utm_source=habrahabr&utm_medium=rss)
+- [Activision исправила баг в античите Ricochet из-за бана игроков Call of Duty за два слова](https://habr.com/ru/news/851854/?utm_campaign=851854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
