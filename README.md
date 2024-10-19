@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Энтузиасты прогнали из дома компьютерных ломастеров—«‎домушников» и нашли на забытом HDD прайсы и зловередные инструкции](https://habr.com/ru/news/851868/?utm_campaign=851868&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиасты прогнали из дома компьютерных ломастеров—«‎домушников» и нашли на забытом HDD прайсы и зловредные инструкции](https://habr.com/ru/news/851868/?utm_campaign=851868&utm_source=habrahabr&utm_medium=rss)
 - [Activision исправила баг в античите Ricochet из-за бана игроков Call of Duty за два слова](https://habr.com/ru/news/851854/?utm_campaign=851854&utm_source=habrahabr&utm_medium=rss)
 - [Релиз платформы совместной разработки Forgejo v9.0](https://habr.com/ru/news/851842/?utm_campaign=851842&utm_source=habrahabr&utm_medium=rss)
 - [Вакуумная мультиспектральная лампа для научных применений](https://habr.com/ru/news/851828/?utm_campaign=851828&utm_source=habrahabr&utm_medium=rss)
