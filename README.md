@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд в США временно приостановил действие ранее принятого решения об открытии Android для сторонних магазинов приложений](https://habr.com/ru/news/851998/?utm_campaign=851998&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare активировала ECH на своих серверах](https://habr.com/ru/news/851994/?utm_campaign=851994&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft создаёт поддельные клиенты Azure в качестве приманки для фишеров](https://habr.com/ru/news/851986/?utm_campaign=851986&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила в Windows 11 24H2 зависание приложений при использовании камеры и BSOD при запуске Voicemeeter](https://habr.com/ru/news/851972/?utm_campaign=851972&utm_source=habrahabr&utm_medium=rss)
 - [Стажёр устроился в ByteDance и изнутри два месяца саботировал выполнение проекта по разработке нейросетей](https://habr.com/ru/news/851968/?utm_campaign=851968&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 130](https://habr.com/ru/news/851936/?utm_campaign=851936&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил проект nubmoan, который заставляет ноутбук ThinkPad стонать, когда кто-то касается трекпоинта](https://habr.com/ru/news/851912/?utm_campaign=851912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
