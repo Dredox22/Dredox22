@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Midjourney планирует выпустить инструмент, который позволит пользователям редактировать любые изображения](https://habr.com/ru/companies/bothub/news/852050/?utm_campaign=852050&utm_source=habrahabr&utm_medium=rss)
+- [Проекту Ubuntu Linux исполнилось 20 лет](https://habr.com/ru/news/852044/?utm_campaign=852044&utm_source=habrahabr&utm_medium=rss)
 - [Открытый проект kv4p HT позволяет превратить смартфон на Android в современный любительский радиопередатчик](https://habr.com/ru/news/852012/?utm_campaign=852012&utm_source=habrahabr&utm_medium=rss)
 - [Суд в США временно приостановил действие ранее принятого решения об открытии Android для сторонних магазинов приложений](https://habr.com/ru/news/851998/?utm_campaign=851998&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare активировала ECH на своих серверах](https://habr.com/ru/news/851994/?utm_campaign=851994&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft создаёт поддельные клиенты Azure в качестве приманки для фишеров](https://habr.com/ru/news/851986/?utm_campaign=851986&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила в Windows 11 24H2 зависание приложений при использовании камеры и BSOD при запуске Voicemeeter](https://habr.com/ru/news/851972/?utm_campaign=851972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
