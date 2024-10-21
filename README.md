@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerToys получит опцию группировки утилит](https://habr.com/ru/news/852134/?utm_campaign=852134&utm_source=habrahabr&utm_medium=rss)
+- [Internet Archive снова взломали с помощью украденных токенов доступа](https://habr.com/ru/news/852128/?utm_campaign=852128&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft потеряла логи безопасности Entra, Defender Cloud и Purview за несколько недель](https://habr.com/ru/news/852124/?utm_campaign=852124&utm_source=habrahabr&utm_medium=rss)
 - [Сенсорные экраны начали терять популярность, так как пользователи предпочитают кнопочные гаджеты](https://habr.com/ru/news/852122/?utm_campaign=852122&utm_source=habrahabr&utm_medium=rss)
 - [МВД РФ: мошенники стали рассылать в Telegram вирусы под видом фотографий](https://habr.com/ru/news/852120/?utm_campaign=852120&utm_source=habrahabr&utm_medium=rss)
-- [Mistral AI готовится к выпуску новой модели Pandragon с расширенными функциями](https://habr.com/ru/companies/bothub/news/852094/?utm_campaign=852094&utm_source=habrahabr&utm_medium=rss)
-- [Midjourney планирует выпустить инструмент, который позволит пользователям редактировать любые изображения](https://habr.com/ru/companies/bothub/news/852050/?utm_campaign=852050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
