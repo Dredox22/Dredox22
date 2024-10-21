@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представляет 10 ИИ-агентов для продаж, финансов и цепочки поставок и других задач в Dynamics 365](https://habr.com/ru/companies/bothub/news/852298/?utm_campaign=852298&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/852292/?utm_campaign=852292&utm_source=habrahabr&utm_medium=rss)
 - [Cisco отключила свой публичный портал DevHub после утечки данных](https://habr.com/ru/news/852290/?utm_campaign=852290&utm_source=habrahabr&utm_medium=rss)
 - [Сообщается, что Perplexity планирует привлечь $500 млн при оценке в $8 млрд](https://habr.com/ru/companies/bothub/news/852282/?utm_campaign=852282&utm_source=habrahabr&utm_medium=rss)
 - [Критическая уязвимость Grafana создает угрозу удаленного выполнения кода](https://habr.com/ru/companies/cloud4y/news/852260/?utm_campaign=852260&utm_source=habrahabr&utm_medium=rss)
-- [Компания JetBrains начала блокировать оплаченные лицензии пользователей, находящихся на территории РФ](https://habr.com/ru/news/852254/?utm_campaign=852254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
