@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Chatbot Arena выпустили Copilot Arena — инструмент оценки чат-ботов для генерации кода](https://habr.com/ru/news/852202/?utm_campaign=852202&utm_source=habrahabr&utm_medium=rss)
 - [Представлен прототип платёжного терминала на ОС «Аврора»](https://habr.com/ru/news/852182/?utm_campaign=852182&utm_source=habrahabr&utm_medium=rss)
 - [LimX Dynamics представила модульного двуногого робота Tron 1](https://habr.com/ru/news/852152/?utm_campaign=852152&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи iPhone 16 Pro жалуются на случайные перезагрузки смартфонов](https://habr.com/ru/news/852144/?utm_campaign=852144&utm_source=habrahabr&utm_medium=rss)
 - [Pixar и Robosen выпустили роботизированного Базза Лайтера из «Истории игрушек»](https://habr.com/ru/news/852142/?utm_campaign=852142&utm_source=habrahabr&utm_medium=rss)
-- [В Италии пользователям на несколько часов закрыли доступ к серверам Google Drive по запросу от частных правообладателей](https://habr.com/ru/news/852146/?utm_campaign=852146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
