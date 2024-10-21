@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МВД РФ: мошенники стали рассылать в Telegram вирусы под видом фотографий](https://habr.com/ru/news/852120/?utm_campaign=852120&utm_source=habrahabr&utm_medium=rss)
 - [Mistral AI готовится к выпуску новой модели Pandragon с расширенными функциями](https://habr.com/ru/companies/bothub/news/852094/?utm_campaign=852094&utm_source=habrahabr&utm_medium=rss)
 - [Midjourney планирует выпустить инструмент, который позволит пользователям редактировать любые изображения](https://habr.com/ru/companies/bothub/news/852050/?utm_campaign=852050&utm_source=habrahabr&utm_medium=rss)
 - [Проекту Ubuntu Linux исполнилось 20 лет](https://habr.com/ru/news/852044/?utm_campaign=852044&utm_source=habrahabr&utm_medium=rss)
 - [Открытый проект kv4p HT позволяет превратить смартфон на Android в современный любительский радиопередатчик](https://habr.com/ru/news/852012/?utm_campaign=852012&utm_source=habrahabr&utm_medium=rss)
-- [Суд в США временно приостановил действие ранее принятого решения об открытии Android для сторонних магазинов приложений](https://habr.com/ru/news/851998/?utm_campaign=851998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
