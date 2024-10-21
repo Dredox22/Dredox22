@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/852292/?utm_campaign=852292&utm_source=habrahabr&utm_medium=rss)
+- [Cisco отключила свой публичный портал DevHub после утечки данных](https://habr.com/ru/news/852290/?utm_campaign=852290&utm_source=habrahabr&utm_medium=rss)
+- [Сообщается, что Perplexity планирует привлечь $500 млн при оценке в $8 млрд](https://habr.com/ru/companies/bothub/news/852282/?utm_campaign=852282&utm_source=habrahabr&utm_medium=rss)
 - [Критическая уязвимость Grafana создает угрозу удаленного выполнения кода](https://habr.com/ru/companies/cloud4y/news/852260/?utm_campaign=852260&utm_source=habrahabr&utm_medium=rss)
 - [Компания JetBrains начала блокировать оплаченные лицензии пользователей, находящихся на территории РФ](https://habr.com/ru/news/852254/?utm_campaign=852254&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Chatbot Arena выпустили Copilot Arena — инструмент оценки чат-ботов для генерации кода](https://habr.com/ru/news/852202/?utm_campaign=852202&utm_source=habrahabr&utm_medium=rss)
-- [Представлен прототип платёжного терминала на ОС «Аврора»](https://habr.com/ru/news/852182/?utm_campaign=852182&utm_source=habrahabr&utm_medium=rss)
-- [LimX Dynamics представила модульного двуногого робота Tron 1](https://habr.com/ru/news/852152/?utm_campaign=852152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
