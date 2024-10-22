@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft запустила автономные ИИ-агенты в Copilot Studio](https://habr.com/ru/news/852412/?utm_campaign=852412&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» выпустил новую версию мобильного приложения для iOS под названием «Бюджет Онлайн» &lpar;Budget Оnline&rpar;](https://habr.com/ru/news/852410/?utm_campaign=852410&utm_source=habrahabr&utm_medium=rss)
 - [Найдено рекордное простое число из 41 млн цифр](https://habr.com/ru/news/852400/?utm_campaign=852400&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 130](https://habr.com/ru/news/852406/?utm_campaign=852406&utm_source=habrahabr&utm_medium=rss)
 - [Запущена облачная платформа, которая ускоряет процесс автотестов в 8 раз](https://habr.com/ru/companies/avito/news/851738/?utm_campaign=851738&utm_source=habrahabr&utm_medium=rss)
-- [Релиз iwd 3.0 &lpar;iNet Wireless Daemon&rpar; — открытого пакета для организации подключения к Wi-Fi в Linux](https://habr.com/ru/news/852392/?utm_campaign=852392&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rufus 4.6 с обходом неподдерживаемых процессоров в ПК для Windows 11 24H2](https://habr.com/ru/news/852382/?utm_campaign=852382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
