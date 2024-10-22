@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Foursquare объявила о закрытии оригинального приложения](https://habr.com/ru/news/852426/?utm_campaign=852426&utm_source=habrahabr&utm_medium=rss)
+- [DLBI: в 2024 году в открытый доступ попали 286 млн номеров телефонов пользователей из РФ](https://habr.com/ru/news/852416/?utm_campaign=852416&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила автономные ИИ-агенты в Copilot Studio](https://habr.com/ru/news/852412/?utm_campaign=852412&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» выпустил новую версию мобильного приложения для iOS под названием «Бюджет Онлайн» &lpar;Budget Оnline&rpar;](https://habr.com/ru/news/852410/?utm_campaign=852410&utm_source=habrahabr&utm_medium=rss)
 - [Найдено рекордное простое число из 41 млн цифр](https://habr.com/ru/news/852400/?utm_campaign=852400&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 130](https://habr.com/ru/news/852406/?utm_campaign=852406&utm_source=habrahabr&utm_medium=rss)
-- [Запущена облачная платформа, которая ускоряет процесс автотестов в 8 раз](https://habr.com/ru/companies/avito/news/851738/?utm_campaign=851738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
