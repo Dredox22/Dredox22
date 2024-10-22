@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предупредила о появлении BSOD на некоторых моделях ноутбуков Asus при попытке обновления до Windows 11 24H2](https://habr.com/ru/news/852498/?utm_campaign=852498&utm_source=habrahabr&utm_medium=rss)
 - [Карты сокровищ: F.A.C.C.T. зафиксировал 50% рост публикаций данных скомпрометированных карт белорусских банков](https://habr.com/ru/companies/f_a_c_c_t/news/852458/?utm_campaign=852458&utm_source=habrahabr&utm_medium=rss)
 - [Google работает над менеджером загрузок для Play Store](https://habr.com/ru/news/852442/?utm_campaign=852442&utm_source=habrahabr&utm_medium=rss)
 - [Foursquare объявила о закрытии оригинального приложения](https://habr.com/ru/news/852426/?utm_campaign=852426&utm_source=habrahabr&utm_medium=rss)
 - [DLBI: в 2024 году в открытый доступ попали 286 млн номеров телефонов пользователей из РФ](https://habr.com/ru/news/852416/?utm_campaign=852416&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила автономные ИИ-агенты в Copilot Studio](https://habr.com/ru/news/852412/?utm_campaign=852412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
