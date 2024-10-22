@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Rufus 4.6 с обходом неподдерживаемых процессоров в ПК для Windows 11 24H2](https://habr.com/ru/news/852382/?utm_campaign=852382&utm_source=habrahabr&utm_medium=rss)
 - [На Product Hunt запустили сервис, который автоматически размещает текст на фоне фото](https://habr.com/ru/news/852366/?utm_campaign=852366&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть Suno теперь может генерировать саундтреки для фотографий и видео](https://habr.com/ru/news/852364/?utm_campaign=852364&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PyTorch 2.5 с расширенной поддержкой GPU от Intel](https://habr.com/ru/news/852346/?utm_campaign=852346&utm_source=habrahabr&utm_medium=rss)
 - [В ByteDance признали, что стажёр «злонамеренно вмешался» в обучение моделей ИИ, используемых в исследовательском проекте](https://habr.com/ru/news/852324/?utm_campaign=852324&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представляет 10 ИИ-агентов для продаж, финансов и цепочки поставок и других задач в Dynamics 365](https://habr.com/ru/companies/bothub/news/852298/?utm_campaign=852298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
