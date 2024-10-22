@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix закрыл свою игровую ААА-студию Team Blue спустя всего два года после её открытия](https://habr.com/ru/news/852562/?utm_campaign=852562&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар»: хакеры активно используют Steam, X &lpar;Twitter&rpar;, Pastebin, Telegram и YouTube для координации кибератак](https://habr.com/ru/news/852532/?utm_campaign=852532&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила о появлении BSOD на некоторых моделях ноутбуков Asus при попытке обновления до Windows 11 24H2](https://habr.com/ru/news/852498/?utm_campaign=852498&utm_source=habrahabr&utm_medium=rss)
-- [Карты сокровищ: F.A.C.C.T. зафиксировал 50% рост публикаций данных скомпрометированных карт белорусских банков](https://habr.com/ru/companies/f_a_c_c_t/news/852458/?utm_campaign=852458&utm_source=habrahabr&utm_medium=rss)
-- [Google работает над менеджером загрузок для Play Store](https://habr.com/ru/news/852442/?utm_campaign=852442&utm_source=habrahabr&utm_medium=rss)
+- [GOAT – мемкоин, который создал ИИ, меньше чем за две недели существования достиг капитализации $331.82 M](https://habr.com/ru/news/852616/?utm_campaign=852616&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпускает новую ИИ-модель, которая управляет компьютером](https://habr.com/ru/companies/bothub/news/852610/?utm_campaign=852610&utm_source=habrahabr&utm_medium=rss)
+- [Обновление до Android 15 приводит к «окирпичиванию» смартфонов Google Pixel 6](https://habr.com/ru/news/852608/?utm_campaign=852608&utm_source=habrahabr&utm_medium=rss)
+- [Stability AI опубликовала Stable Diffusion 3.5 Large — модель text-to-image с 8 млрд. параметров](https://habr.com/ru/news/852604/?utm_campaign=852604&utm_source=habrahabr&utm_medium=rss)
+- [РБК: в конце 2024 у некоторых российских банков истекут сертификаты безопасности Visa и Mastercard](https://habr.com/ru/news/852594/?utm_campaign=852594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
