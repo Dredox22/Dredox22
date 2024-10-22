@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У Canva появился новый ИИ-инструмент —  генератор преобразования текста в изображение](https://habr.com/ru/companies/bothub/news/852634/?utm_campaign=852634&utm_source=habrahabr&utm_medium=rss)
+- [Из списка мейнтейнеров проекта ядра Linux удалили 11 разработчиков, предположительно работающих в российских компаниях](https://habr.com/ru/news/852632/?utm_campaign=852632&utm_source=habrahabr&utm_medium=rss)
+- [xAI, стартап Илона Маска, запустил API для ИИ-модели Grok](https://habr.com/ru/companies/bothub/news/852628/?utm_campaign=852628&utm_source=habrahabr&utm_medium=rss)
 - [GOAT – мемкоин, который создал ИИ, меньше чем за две недели существования достиг капитализации $331.82 M](https://habr.com/ru/news/852616/?utm_campaign=852616&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпускает новую ИИ-модель, которая управляет компьютером](https://habr.com/ru/companies/bothub/news/852610/?utm_campaign=852610&utm_source=habrahabr&utm_medium=rss)
-- [Обновление до Android 15 приводит к «окирпичиванию» смартфонов Google Pixel 6](https://habr.com/ru/news/852608/?utm_campaign=852608&utm_source=habrahabr&utm_medium=rss)
-- [Stability AI опубликовала Stable Diffusion 3.5 Large — модель text-to-image с 8 млрд. параметров](https://habr.com/ru/news/852604/?utm_campaign=852604&utm_source=habrahabr&utm_medium=rss)
-- [РБК: в конце 2024 у некоторых российских банков истекут сертификаты безопасности Visa и Mastercard](https://habr.com/ru/news/852594/?utm_campaign=852594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
