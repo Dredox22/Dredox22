@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Найдено рекордное простое число из 41 млн цифр](https://habr.com/ru/news/852400/?utm_campaign=852400&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 130](https://habr.com/ru/news/852406/?utm_campaign=852406&utm_source=habrahabr&utm_medium=rss)
+- [Запущена облачная платформа, которая ускоряет процесс автотестов в 8 раз](https://habr.com/ru/companies/avito/news/851738/?utm_campaign=851738&utm_source=habrahabr&utm_medium=rss)
+- [Релиз iwd 3.0 &lpar;iNet Wireless Daemon&rpar; — открытого пакета для организации подключения к Wi-Fi в Linux](https://habr.com/ru/news/852392/?utm_campaign=852392&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rufus 4.6 с обходом неподдерживаемых процессоров в ПК для Windows 11 24H2](https://habr.com/ru/news/852382/?utm_campaign=852382&utm_source=habrahabr&utm_medium=rss)
-- [На Product Hunt запустили сервис, который автоматически размещает текст на фоне фото](https://habr.com/ru/news/852366/?utm_campaign=852366&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть Suno теперь может генерировать саундтреки для фотографий и видео](https://habr.com/ru/news/852364/?utm_campaign=852364&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PyTorch 2.5 с расширенной поддержкой GPU от Intel](https://habr.com/ru/news/852346/?utm_campaign=852346&utm_source=habrahabr&utm_medium=rss)
-- [В ByteDance признали, что стажёр «злонамеренно вмешался» в обучение моделей ИИ, используемых в исследовательском проекте](https://habr.com/ru/news/852324/?utm_campaign=852324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
