@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила технологию SynthID Text, которая позволяет добавлять водяные знаки и распознавать текст, созданный ИИ](https://habr.com/ru/companies/bothub/news/852946/?utm_campaign=852946&utm_source=habrahabr&utm_medium=rss)
+- [Character.ai обвиняют в самоубийстве подростка](https://habr.com/ru/news/852938/?utm_campaign=852938&utm_source=habrahabr&utm_medium=rss)
 - [Information: Apple резко сократила производство Vision Pro](https://habr.com/ru/news/852934/?utm_campaign=852934&utm_source=habrahabr&utm_medium=rss)
 - [Character.AI обвиняется в смерти 14-летнего подростка](https://habr.com/ru/companies/bothub/news/852932/?utm_campaign=852932&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор может блокировать звонки через мессенджеры, но основания для этого будут прорабатываться](https://habr.com/ru/news/852928/?utm_campaign=852928&utm_source=habrahabr&utm_medium=rss)
-- [System76 представила настольный компьютер Thelio Astra на базе процессора Ampere ARM64](https://habr.com/ru/news/852916/?utm_campaign=852916&utm_source=habrahabr&utm_medium=rss)
-- [РКН фиксирует падение трафика на YouTube по причине деградации серверов Google](https://habr.com/ru/news/852914/?utm_campaign=852914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
