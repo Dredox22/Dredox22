@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Линус Торвальдс прокомментировал исключение российских разработчиков из списка мейнтейнеров Linux](https://habr.com/ru/news/852962/?utm_campaign=852962&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs запустил генератор голосов по текстовым промптам](https://habr.com/ru/companies/bothub/news/852950/?utm_campaign=852950&utm_source=habrahabr&utm_medium=rss)
 - [Google представила технологию SynthID Text, которая позволяет добавлять водяные знаки и распознавать текст, созданный ИИ](https://habr.com/ru/companies/bothub/news/852946/?utm_campaign=852946&utm_source=habrahabr&utm_medium=rss)
 - [Character.ai обвиняют в самоубийстве подростка](https://habr.com/ru/news/852938/?utm_campaign=852938&utm_source=habrahabr&utm_medium=rss)
 - [Information: Apple резко сократила производство Vision Pro](https://habr.com/ru/news/852934/?utm_campaign=852934&utm_source=habrahabr&utm_medium=rss)
-- [Character.AI обвиняется в смерти 14-летнего подростка](https://habr.com/ru/companies/bothub/news/852932/?utm_campaign=852932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
