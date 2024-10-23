@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft расформировала команду разработчиков Prince of Persia: The Lost Crown, сиквел отменён](https://habr.com/ru/news/852888/?utm_campaign=852888&utm_source=habrahabr&utm_medium=rss)
+- [Новости из мира машинного обучения 23.10.24](https://habr.com/ru/news/852886/?utm_campaign=852886&utm_source=habrahabr&utm_medium=rss)
 - [Rambler&amp;amp;Co проверит свою защищенность на платформе Standoff Bug Bounty при помощи белых хакеров](https://habr.com/ru/companies/pt/news/852770/?utm_campaign=852770&utm_source=habrahabr&utm_medium=rss)
 - [Huawei выпустила мобильную ОC под названием HarmonyOS NEXT, где нет компонентов от Android](https://habr.com/ru/news/852850/?utm_campaign=852850&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ переходит на принтеры российского производителя офисной техники ГК «Катюша»](https://habr.com/ru/news/852842/?utm_campaign=852842&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс анонсировал продолжение ежегодной программы грантов Yandex Open Source](https://habr.com/ru/companies/yandex/news/852776/?utm_campaign=852776&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Tor Browser 14.0](https://habr.com/ru/news/852804/?utm_campaign=852804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
