@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Власти Гонконга запретили госслужащим использовать WhatsApp, WeChat и Google Диск на рабочих компьютерах](https://habr.com/ru/news/852892/?utm_campaign=852892&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft расформировала команду разработчиков Prince of Persia: The Lost Crown, сиквел отменён](https://habr.com/ru/news/852888/?utm_campaign=852888&utm_source=habrahabr&utm_medium=rss)
-- [Новости из мира машинного обучения 23.10.24](https://habr.com/ru/news/852886/?utm_campaign=852886&utm_source=habrahabr&utm_medium=rss)
-- [Rambler&amp;amp;Co проверит свою защищенность на платформе Standoff Bug Bounty при помощи белых хакеров](https://habr.com/ru/companies/pt/news/852770/?utm_campaign=852770&utm_source=habrahabr&utm_medium=rss)
-- [Huawei выпустила мобильную ОC под названием HarmonyOS NEXT, где нет компонентов от Android](https://habr.com/ru/news/852850/?utm_campaign=852850&utm_source=habrahabr&utm_medium=rss)
+- [Information: Apple резко сократила производство Vision Pro](https://habr.com/ru/news/852934/?utm_campaign=852934&utm_source=habrahabr&utm_medium=rss)
+- [Character.AI обвиняется в смерти 14-летнего подростка](https://habr.com/ru/companies/bothub/news/852932/?utm_campaign=852932&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор может блокировать звонки через мессенджеры, но основания для этого будут прорабатываться](https://habr.com/ru/news/852928/?utm_campaign=852928&utm_source=habrahabr&utm_medium=rss)
+- [System76 представила настольный компьютер Thelio Astra на базе процессора Ampere ARM64](https://habr.com/ru/news/852916/?utm_campaign=852916&utm_source=habrahabr&utm_medium=rss)
+- [РКН фиксирует падение трафика на YouTube по причине деградации серверов Google](https://habr.com/ru/news/852914/?utm_campaign=852914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
