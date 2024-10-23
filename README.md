@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MTS AI открыла общий доступ к демо-версии нейросети для генерации кода Kodify](https://habr.com/ru/companies/ru_mts/news/852724/?utm_campaign=852724&utm_source=habrahabr&utm_medium=rss)
 - [1С VS Python – новый выпуск ютуб-шоу «Согласен / Не согласен»](https://habr.com/ru/companies/skbkontur/news/852712/?utm_campaign=852712&utm_source=habrahabr&utm_medium=rss)
 - [Обновления Windows 11 24H2 устанавливаются быстрее из-за улучшений Центра обновления Windows](https://habr.com/ru/news/852700/?utm_campaign=852700&utm_source=habrahabr&utm_medium=rss)
 - [Bethesda выпустила коллекционный набор Doom Anthology c основными играми серии и копией культовой BFG](https://habr.com/ru/news/852690/?utm_campaign=852690&utm_source=habrahabr&utm_medium=rss)
 - [Runway представила Act-One — функцию генерации анимированных персонажей с помощью мимики и жестов пользователя](https://habr.com/ru/news/852678/?utm_campaign=852678&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-стартап Genmo запускает открытую модель для генерации видео Mochi 1, которая может стать конкурентом Runway](https://habr.com/ru/companies/bothub/news/852638/?utm_campaign=852638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
