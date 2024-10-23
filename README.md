@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ВТБ переходит на принтеры российского производителя офисной техники ГК «Катюша»](https://habr.com/ru/news/852842/?utm_campaign=852842&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс анонсировал продолжение ежегодной программы грантов Yandex Open Source](https://habr.com/ru/companies/yandex/news/852776/?utm_campaign=852776&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tor Browser 14.0](https://habr.com/ru/news/852804/?utm_campaign=852804&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила из App Store «Бюджет Онлайн» &lpar;аналог «СберБанк Онлайн»&rpar;, а «Сбер» сразу выложил «Бюджет Онлайн-2»](https://habr.com/ru/news/852762/?utm_campaign=852762&utm_source=habrahabr&utm_medium=rss)
 - [Arm отказывает в лицензии Qualcomm на разработку чипов](https://habr.com/ru/news/852738/?utm_campaign=852738&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из проекта AlmaLinux представили дистрибутив Kitten 10 на пакетной базе CentOS Stream 10](https://habr.com/ru/news/852732/?utm_campaign=852732&utm_source=habrahabr&utm_medium=rss)
-- [MTS AI открыла общий доступ к демо-версии нейросети для генерации кода Kodify](https://habr.com/ru/companies/ru_mts/news/852724/?utm_campaign=852724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
