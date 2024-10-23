@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rambler&amp;amp;Co проверит свою защищенность на платформе Standoff Bug Bounty при помощи белых хакеров](https://habr.com/ru/companies/pt/news/852770/?utm_campaign=852770&utm_source=habrahabr&utm_medium=rss)
+- [Huawei выпустила мобильную ОC под названием HarmonyOS NEXT, где нет компонентов от Android](https://habr.com/ru/news/852850/?utm_campaign=852850&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ переходит на принтеры российского производителя офисной техники ГК «Катюша»](https://habr.com/ru/news/852842/?utm_campaign=852842&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс анонсировал продолжение ежегодной программы грантов Yandex Open Source](https://habr.com/ru/companies/yandex/news/852776/?utm_campaign=852776&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tor Browser 14.0](https://habr.com/ru/news/852804/?utm_campaign=852804&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила из App Store «Бюджет Онлайн» &lpar;аналог «СберБанк Онлайн»&rpar;, а «Сбер» сразу выложил «Бюджет Онлайн-2»](https://habr.com/ru/news/852762/?utm_campaign=852762&utm_source=habrahabr&utm_medium=rss)
-- [Arm отказывает в лицензии Qualcomm на разработку чипов](https://habr.com/ru/news/852738/?utm_campaign=852738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
