@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bethesda выпустила коллекционный набор Doom Anthology c основными играми серии и копией культовой BFG](https://habr.com/ru/news/852690/?utm_campaign=852690&utm_source=habrahabr&utm_medium=rss)
 - [Runway представила Act-One — функцию генерации анимированных персонажей с помощью мимики и жестов пользователя](https://habr.com/ru/news/852678/?utm_campaign=852678&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-стартап Genmo запускает открытую модель для генерации видео Mochi 1, которая может стать конкурентом Runway](https://habr.com/ru/companies/bothub/news/852638/?utm_campaign=852638&utm_source=habrahabr&utm_medium=rss)
 - [У Canva появился новый ИИ-инструмент —  генератор преобразования текста в изображение](https://habr.com/ru/companies/bothub/news/852634/?utm_campaign=852634&utm_source=habrahabr&utm_medium=rss)
 - [Из списка мейнтейнеров проекта ядра Linux удалили 11 разработчиков, предположительно работающих в российских компаниях](https://habr.com/ru/news/852632/?utm_campaign=852632&utm_source=habrahabr&utm_medium=rss)
-- [xAI, стартап Илона Маска, запустил API для ИИ-модели Grok](https://habr.com/ru/companies/bothub/news/852628/?utm_campaign=852628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
