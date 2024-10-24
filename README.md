@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve на несколько часов удалила античит VAC из Counter-Strike 2, Dota 2 и Team Fortress 2](https://habr.com/ru/news/853008/?utm_campaign=853008&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi представила фирменный SSD-накопитель для использования со своими платами](https://habr.com/ru/news/852984/?utm_campaign=852984&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс прокомментировал исключение российских разработчиков из списка мейнтейнеров Linux](https://habr.com/ru/news/852962/?utm_campaign=852962&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs запустил генератор голосов по текстовым промптам](https://habr.com/ru/companies/bothub/news/852950/?utm_campaign=852950&utm_source=habrahabr&utm_medium=rss)
 - [Google представила технологию SynthID Text, которая позволяет добавлять водяные знаки и распознавать текст, созданный ИИ](https://habr.com/ru/companies/bothub/news/852946/?utm_campaign=852946&utm_source=habrahabr&utm_medium=rss)
-- [Character.ai обвиняют в самоубийстве подростка](https://habr.com/ru/news/852938/?utm_campaign=852938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
