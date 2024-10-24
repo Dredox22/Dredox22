@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел релиз v0.17 платформы Cozystack: Windows на ВМ, приложение для загрузки образов ВМ, веб-интерфейс к S3-бакетам](https://habr.com/ru/companies/aenix/news/853074/?utm_campaign=853074&utm_source=habrahabr&utm_medium=rss)
+- [Компания Nvidia начинает сотрудничество с индийскими компаниями для внедрения своих чипов и ИИ-технологий](https://habr.com/ru/companies/bothub/news/853218/?utm_campaign=853218&utm_source=habrahabr&utm_medium=rss)
 - [Закупки VPN органами власти НЕ выросли на 683%](https://habr.com/ru/news/853154/?utm_campaign=853154&utm_source=habrahabr&utm_medium=rss)
 - [В Ideogram появился нейроредактор изображений](https://habr.com/ru/news/853144/?utm_campaign=853144&utm_source=habrahabr&utm_medium=rss)
 - [Российские сервисы знакомств в интернете показали значительный рост популярности в 2024 году](https://habr.com/ru/news/853140/?utm_campaign=853140&utm_source=habrahabr&utm_medium=rss)
-- [Приложение для рисования и живописи Adobe Fresco теперь полностью бесплатно для всех пользователей](https://habr.com/ru/news/853134/?utm_campaign=853134&utm_source=habrahabr&utm_medium=rss)
-- [RISC-V объявила о ратификации стандарта профиля RVA23](https://habr.com/ru/news/853114/?utm_campaign=853114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
