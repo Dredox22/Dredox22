@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Counter-Strike 2 появился режим обучения в стиле Fruit Ninja](https://habr.com/ru/news/853268/?utm_campaign=853268&utm_source=habrahabr&utm_medium=rss)
 - [В России разрабатывают аналог американского ПО для выявления брака в электронике](https://habr.com/ru/news/853258/?utm_campaign=853258&utm_source=habrahabr&utm_medium=rss)
 - [Один из директоров Linux Foundation объяснил причину удаления российских мантейнеров](https://habr.com/ru/news/853250/?utm_campaign=853250&utm_source=habrahabr&utm_medium=rss)
 - [Claude от Anthropic теперь может писать и запускать код](https://habr.com/ru/companies/bothub/news/853248/?utm_campaign=853248&utm_source=habrahabr&utm_medium=rss)
 - [РКН: в России заблокировано 197 VPN-сервисов](https://habr.com/ru/news/853240/?utm_campaign=853240&utm_source=habrahabr&utm_medium=rss)
-- [Вышла релизная версия игры «Василиса и Баба Яга»](https://habr.com/ru/news/853238/?utm_campaign=853238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
