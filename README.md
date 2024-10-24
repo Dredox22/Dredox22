@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение для рисования и живописи Adobe Fresco теперь полностью бесплатно для всех пользователей](https://habr.com/ru/news/853134/?utm_campaign=853134&utm_source=habrahabr&utm_medium=rss)
+- [RISC-V объявила о ратификации стандарта профиля RVA23](https://habr.com/ru/news/853114/?utm_campaign=853114&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp начал шифровать базы данных контактов для синхронизации с сохранением конфиденциальности](https://habr.com/ru/news/853106/?utm_campaign=853106&utm_source=habrahabr&utm_medium=rss)
 - [Вышла iOS 18.2 beta 1 с нейросетевыми функциями Apple Intelligence](https://habr.com/ru/news/853094/?utm_campaign=853094&utm_source=habrahabr&utm_medium=rss)
 - [Компания eM Client приобрела Postbox](https://habr.com/ru/news/853082/?utm_campaign=853082&utm_source=habrahabr&utm_medium=rss)
-- [F.A.C.C.T. объявляет об интеграции Threat Intelligence с SIEM-системой САВРУС](https://habr.com/ru/companies/f_a_c_c_t/news/853078/?utm_campaign=853078&utm_source=habrahabr&utm_medium=rss)
-- [Официальное заявление разработчика «Байкал Электроникс» Сергея Сёмина по поводу исключения из списка мейнтейнеров Linux](https://habr.com/ru/news/853072/?utm_campaign=853072&utm_source=habrahabr&utm_medium=rss)
-- [Улей получил максимальный уровень компетенции «Крупные корпоративные внедрения» от 1С-Битрикс](https://habr.com/ru/companies/wehive/news/853052/?utm_campaign=853052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
