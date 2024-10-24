@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Улей получил максимальный уровень компетенции «Крупные корпоративные внедрения» от 1С-Битрикс](https://habr.com/ru/companies/wehive/news/853052/?utm_campaign=853052&utm_source=habrahabr&utm_medium=rss)
+- [Opera выпустила первую стабильную версию браузера Opera One R2](https://habr.com/ru/news/853034/?utm_campaign=853034&utm_source=habrahabr&utm_medium=rss)
 - [Продвижение закона о «белых хакерах». Случилось не то, чего ждали](https://habr.com/ru/news/853030/?utm_campaign=853030&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила функции защиты листов в Excel для iPad](https://habr.com/ru/news/853024/?utm_campaign=853024&utm_source=habrahabr&utm_medium=rss)
 - [Закупки сервисов VPN органами власти в РФ выросли на 683%](https://habr.com/ru/news/853022/?utm_campaign=853022&utm_source=habrahabr&utm_medium=rss)
-- [В NetUp и «Открытой мобильной платформе» прокомментировали исключение своих разработчиков из списка мейнтейнеров Linux](https://habr.com/ru/news/853016/?utm_campaign=853016&utm_source=habrahabr&utm_medium=rss)
-- [Valve на несколько часов удалила античит VAC из Counter-Strike 2, Dota 2 и Team Fortress 2](https://habr.com/ru/news/853008/?utm_campaign=853008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
