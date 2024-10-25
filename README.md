@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор значительно обновил в RuStore инструмент «ПроСеть» — мобильный аналог сервиса SpeedTest](https://habr.com/ru/news/853376/?utm_campaign=853376&utm_source=habrahabr&utm_medium=rss)
+- [Стартовало тестирование масштабирования изображений и распознавания текста в «Фотографиях» в Windows 11 на ПК Copilot+](https://habr.com/ru/news/853364/?utm_campaign=853364&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Apple TestFlight: переработанный дизайн и критерии тестирования](https://habr.com/ru/news/853344/?utm_campaign=853344&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила виртуальную машину Private Cloud Compute](https://habr.com/ru/news/853338/?utm_campaign=853338&utm_source=habrahabr&utm_medium=rss)
 - [Google будет бороться с мошенническими ссылками в приложении «Сообщения» с помощью ИИ](https://habr.com/ru/news/853332/?utm_campaign=853332&utm_source=habrahabr&utm_medium=rss)
-- [РКН в 2024 году с помощью «Сканера безопасности» выявил 26 тыс. критических уязвимостей в сетях 300 компаний в РФ](https://habr.com/ru/news/853330/?utm_campaign=853330&utm_source=habrahabr&utm_medium=rss)
-- [Verge: OpenAI планирует выпустить свою следующую большую модель ИИ под названием Orion. Альтман назвал это фейком](https://habr.com/ru/news/853320/?utm_campaign=853320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
