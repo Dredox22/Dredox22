@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» увеличил увеличил призовой фонд международного чемпионате по программированию Yandex Cup 2024 до 16 млн рублей](https://habr.com/ru/news/853562/?utm_campaign=853562&utm_source=habrahabr&utm_medium=rss)
 - [Математик-любитель обнаружил самое большое из известных простых чисел, и оно огромно](https://habr.com/ru/news/853550/?utm_campaign=853550&utm_source=habrahabr&utm_medium=rss)
 - [Выяснилось, что LLM могут считать, что 9.8 &amp;lt; 9.11, из-за Библии, физики или даже теракта 11 сентября](https://habr.com/ru/news/853500/?utm_campaign=853500&utm_source=habrahabr&utm_medium=rss)
 - [«Гравитон» представила свой первый ноутбук на процессорах AMD с материнской платой «Ахтуба»](https://habr.com/ru/news/853484/?utm_campaign=853484&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft временно закрыла доступ к официальным виртуальным машинам Windows 11](https://habr.com/ru/news/853478/?utm_campaign=853478&utm_source=habrahabr&utm_medium=rss)
-- [В коде популярных приложений нашли незашифрованные ключи AWS и Azure](https://habr.com/ru/news/853466/?utm_campaign=853466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
