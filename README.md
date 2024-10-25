@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Lesta Games, Astrum Entertainment, VK Play и RuStore начали эксперимент по сюжетной маркировке игрового контента](https://habr.com/ru/news/853314/?utm_campaign=853314&utm_source=habrahabr&utm_medium=rss)
+- [Платформа для создания заметок, списков и таблиц Notion тестирует почтовый клиент Mail](https://habr.com/ru/news/853308/?utm_campaign=853308&utm_source=habrahabr&utm_medium=rss)
 - [Раскрыт алгоритм возврата в список мейнтейнеров Linux разработчиков из компаний в РФ, Huawei эти санкции не затронули](https://habr.com/ru/news/853298/?utm_campaign=853298&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi выпустила AI HAT+ — улучшенную плату для задач машинного обучения](https://habr.com/ru/news/853278/?utm_campaign=853278&utm_source=habrahabr&utm_medium=rss)
 - [В Counter-Strike 2 появился режим обучения в стиле Fruit Ninja](https://habr.com/ru/news/853268/?utm_campaign=853268&utm_source=habrahabr&utm_medium=rss)
-- [В России разрабатывают аналог американского ПО для выявления брака в электронике](https://habr.com/ru/news/853258/?utm_campaign=853258&utm_source=habrahabr&utm_medium=rss)
-- [Один из директоров Linux Foundation объяснил причину удаления российских мантейнеров](https://habr.com/ru/news/853250/?utm_campaign=853250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
