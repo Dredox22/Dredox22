@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучающая платформа Skillbox запустила ИИ-помощника для учителей](https://habr.com/ru/news/853412/?utm_campaign=853412&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость Luxms BI и РЕД ОС 8](https://habr.com/ru/companies/luxms_bi/news/853390/?utm_campaign=853390&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор значительно обновил в RuStore инструмент «ПроСеть» — мобильный аналог сервиса SpeedTest](https://habr.com/ru/news/853376/?utm_campaign=853376&utm_source=habrahabr&utm_medium=rss)
 - [Стартовало тестирование масштабирования изображений и распознавания текста в «Фотографиях» в Windows 11 на ПК Copilot+](https://habr.com/ru/news/853364/?utm_campaign=853364&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Apple TestFlight: переработанный дизайн и критерии тестирования](https://habr.com/ru/news/853344/?utm_campaign=853344&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила виртуальную машину Private Cloud Compute](https://habr.com/ru/news/853338/?utm_campaign=853338&utm_source=habrahabr&utm_medium=rss)
-- [Google будет бороться с мошенническими ссылками в приложении «Сообщения» с помощью ИИ](https://habr.com/ru/news/853332/?utm_campaign=853332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
