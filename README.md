@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Apple TestFlight: переработанный дизайн и критерии тестирования](https://habr.com/ru/news/853344/?utm_campaign=853344&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила виртуальную машину Private Cloud Compute](https://habr.com/ru/news/853338/?utm_campaign=853338&utm_source=habrahabr&utm_medium=rss)
+- [Google будет бороться с мошенническими ссылками в приложении «Сообщения» с помощью ИИ](https://habr.com/ru/news/853332/?utm_campaign=853332&utm_source=habrahabr&utm_medium=rss)
 - [РКН в 2024 году с помощью «Сканера безопасности» выявил 26 тыс. критических уязвимостей в сетях 300 компаний в РФ](https://habr.com/ru/news/853330/?utm_campaign=853330&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI планирует выпустить свою следующую большую модель ИИ под кодовым названием Orion к декабрю](https://habr.com/ru/news/853320/?utm_campaign=853320&utm_source=habrahabr&utm_medium=rss)
-- [The Browser Company начала разрабатывать более простой браузер](https://habr.com/ru/news/853318/?utm_campaign=853318&utm_source=habrahabr&utm_medium=rss)
-- [Lesta Games, Astrum Entertainment, VK Play и RuStore начали эксперимент по сюжетной маркировке игрового контента](https://habr.com/ru/news/853314/?utm_campaign=853314&utm_source=habrahabr&utm_medium=rss)
-- [Платформа для создания заметок, списков и таблиц Notion тестирует почтовый клиент Mail](https://habr.com/ru/news/853308/?utm_campaign=853308&utm_source=habrahabr&utm_medium=rss)
+- [Verge: OpenAI планирует выпустить свою следующую большую модель ИИ под названием Orion. Альтман назвал это фейком](https://habr.com/ru/news/853320/?utm_campaign=853320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
