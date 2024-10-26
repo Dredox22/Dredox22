@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Реакция на удаление участников из списка мэйнтейнеров Linux](https://habr.com/ru/news/853640/?utm_campaign=853640&utm_source=habrahabr&utm_medium=rss)
 - [Apple тестирует приложение для контроля уровня сахара в крови](https://habr.com/ru/news/853624/?utm_campaign=853624&utm_source=habrahabr&utm_medium=rss)
 - [Delta подала в суд на CrowdStrike из-за глобального сбоя](https://habr.com/ru/news/853620/?utm_campaign=853620&utm_source=habrahabr&utm_medium=rss)
 - [Суд РФ приговорил четырёх предполагаемых участников группы REvil к тюремному заключению на срок от 4,5 до 6 лет](https://habr.com/ru/news/853610/?utm_campaign=853610&utm_source=habrahabr&utm_medium=rss)
 - [Apple заплатит вам до 1 миллиона долларов, если вы сможете взломать серверы Apple Intelligence](https://habr.com/ru/companies/bothub/news/853588/?utm_campaign=853588&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI заявляет, что не будет выпускать модель под названием Orion в этом году](https://habr.com/ru/companies/bothub/news/853574/?utm_campaign=853574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
