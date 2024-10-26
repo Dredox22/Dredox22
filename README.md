@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Хакерская группа Black Basta начала выдавать себя службу поддержки через Microsoft Teams для атак на сети](https://habr.com/ru/news/853644/?utm_campaign=853644&utm_source=habrahabr&utm_medium=rss)
+- [Машинное обучение: Новости 24.10.2024-26.10.2024](https://habr.com/ru/news/853654/?utm_campaign=853654&utm_source=habrahabr&utm_medium=rss)
+- [Хакерская группа Black Basta начала выдавать себя за службу поддержки через Microsoft Teams для атак на сети](https://habr.com/ru/news/853644/?utm_campaign=853644&utm_source=habrahabr&utm_medium=rss)
 - [Реакция на удаление участников из списка мэйнтейнеров Linux](https://habr.com/ru/news/853640/?utm_campaign=853640&utm_source=habrahabr&utm_medium=rss)
 - [Apple тестирует приложение для контроля уровня сахара в крови](https://habr.com/ru/news/853624/?utm_campaign=853624&utm_source=habrahabr&utm_medium=rss)
 - [Delta подала в суд на CrowdStrike из-за глобального сбоя](https://habr.com/ru/news/853620/?utm_campaign=853620&utm_source=habrahabr&utm_medium=rss)
-- [Суд РФ приговорил четырёх предполагаемых участников группы REvil к тюремному заключению на срок от 4,5 до 6 лет](https://habr.com/ru/news/853610/?utm_campaign=853610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
