@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reuters: TSMC приостановила некоторые поставки в Китай на фоне подозрений в импорте чипов Huawei](https://habr.com/ru/news/853802/?utm_campaign=853802&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp тестирует QR-коды для каналов](https://habr.com/ru/news/853758/?utm_campaign=853758&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 ускорили работу ПК за счёт снижения нагрузки на ЦП для Центра обновления](https://habr.com/ru/news/853756/?utm_campaign=853756&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Opera планирует сохранить поддержку uBlock Origin](https://habr.com/ru/news/853754/?utm_campaign=853754&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Loro 1.0 — открытой библиотеки Conflict-Free Replicated Data Type &lpar;CRDT&rpar;](https://habr.com/ru/news/853750/?utm_campaign=853750&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.0](https://habr.com/ru/news/853710/?utm_campaign=853710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
