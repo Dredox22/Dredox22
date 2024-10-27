@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google планирует анонсировать следующую версию модели Gemini в ближайшее время](https://habr.com/ru/companies/bothub/news/853852/?utm_campaign=853852&utm_source=habrahabr&utm_medium=rss)
+- [Meta* тестирует распознавание лиц для обнаружения мошенников и упрощения восстановления аккаунта](https://habr.com/ru/news/853850/?utm_campaign=853850&utm_source=habrahabr&utm_medium=rss)
+- [Google готовит выпуск ИИ-агента для управления компьютером](https://habr.com/ru/companies/bothub/news/853846/?utm_campaign=853846&utm_source=habrahabr&utm_medium=rss)
 - [Apple показала лабораторию для тестирования AirPods Pro 2 с функцией слухового аппарата](https://habr.com/ru/news/853830/?utm_campaign=853830&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: TSMC приостановила некоторые поставки в Китай на фоне подозрений в импорте чипов Huawei](https://habr.com/ru/news/853802/?utm_campaign=853802&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp тестирует QR-коды для каналов](https://habr.com/ru/news/853758/?utm_campaign=853758&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 24H2 ускорили работу ПК за счёт снижения нагрузки на ЦП для Центра обновления](https://habr.com/ru/news/853756/?utm_campaign=853756&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Opera планирует сохранить поддержку uBlock Origin](https://habr.com/ru/news/853754/?utm_campaign=853754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
