@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Студенты из РФ создают игру-симулятор оленеводства Yakut &lpar;«Якут»&rpar;](https://habr.com/ru/news/853926/?utm_campaign=853926&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: медицинский ИИ Whisper на основе модели OpenAI склонен к галлюцинациям](https://habr.com/ru/news/853916/?utm_campaign=853916&utm_source=habrahabr&utm_medium=rss)
 - [SQLite мигрировала с GNU Autotools на Autosetup](https://habr.com/ru/news/853898/?utm_campaign=853898&utm_source=habrahabr&utm_medium=rss)
 - [Объявлены победители международного соревнования по ИБ SAS CTF 2024](https://habr.com/ru/news/853892/?utm_campaign=853892&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило создать в России своё Linux-сообщество](https://habr.com/ru/news/853888/?utm_campaign=853888&utm_source=habrahabr&utm_medium=rss)
-- [Согласно исследованию Google, более 75% разработчиков полагаются на ИИ, но есть нюанс](https://habr.com/ru/companies/bothub/news/853866/?utm_campaign=853866&utm_source=habrahabr&utm_medium=rss)
-- [Meta* выпускает «открытую»  версию генератора подкастов Google](https://habr.com/ru/companies/bothub/news/853858/?utm_campaign=853858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
