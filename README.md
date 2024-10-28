@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло PocketPal AI — приложение для локального запуска языковых моделей на смартфоне](https://habr.com/ru/news/854178/?utm_campaign=854178&utm_source=habrahabr&utm_medium=rss)
+- [К 2030 году генеративный ИИ может привести к образованию 10 миллиардов электронных отходов в год](https://habr.com/ru/companies/bothub/news/854174/?utm_campaign=854174&utm_source=habrahabr&utm_medium=rss)
+- [Среда разработки Arduino Lab for MicroPython теперь доступна в браузере](https://habr.com/ru/news/854170/?utm_campaign=854170&utm_source=habrahabr&utm_medium=rss)
+- [Компания xAI добавила в свою ИИ-модель Grok возможность распознавания изображений](https://habr.com/ru/companies/bothub/news/854166/?utm_campaign=854166&utm_source=habrahabr&utm_medium=rss)
 - [Привет спектрумистам. Получена схема ULA](https://habr.com/ru/news/854148/?utm_campaign=854148&utm_source=habrahabr&utm_medium=rss)
-- [В российских колледжах начнут готовить разработчиков видеоигр и специалистов по работе с ИИ](https://habr.com/ru/news/854142/?utm_campaign=854142&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft 365 Copilot в Excel приведёт таблицу в порядок одним щелчком мыши](https://habr.com/ru/news/854130/?utm_campaign=854130&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили сервис, который превращает текст PDF-документов в СДВГ-видео для подростков](https://habr.com/ru/news/854100/?utm_campaign=854100&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/854092/?utm_campaign=854092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
