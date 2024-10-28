@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 2021–2022 годах «Яндекс» чуть не закрыл «Навигатор», чтобы перевести его функционал в «Карты»](https://habr.com/ru/news/854048/?utm_campaign=854048&utm_source=habrahabr&utm_medium=rss)
+- [ML-хакатон от Авито с призом в 600 000 рублей](https://habr.com/ru/companies/avito/news/854044/?utm_campaign=854044&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные придумали, как заменить дорогие компоненты схем на более дешёвый кремний](https://habr.com/ru/news/854042/?utm_campaign=854042&utm_source=habrahabr&utm_medium=rss)
 - [Calendar Filter — модуль для фильтрации материалов Joomla](https://habr.com/ru/news/854020/?utm_campaign=854020&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tinygo 0.34 — компилятора языка Go для маломощных систем](https://habr.com/ru/news/854012/?utm_campaign=854012&utm_source=habrahabr&utm_medium=rss)
-- [Введение утильсбора на ввоз в Россию иностранного IT-оборудования отложили](https://habr.com/ru/news/854002/?utm_campaign=854002&utm_source=habrahabr&utm_medium=rss)
-- [ML в медицине: дайджест за 21 — 27 октября 2024 г](https://habr.com/ru/news/853978/?utm_campaign=853978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
