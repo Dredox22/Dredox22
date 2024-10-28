@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские учёные придумали, как заменить дорогие компоненты схем на более дешёвый кремний](https://habr.com/ru/news/854042/?utm_campaign=854042&utm_source=habrahabr&utm_medium=rss)
+- [Calendar Filter — модуль для фильтрации материалов Joomla](https://habr.com/ru/news/854020/?utm_campaign=854020&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Tinygo 0.34 — компилятора языка Go для маломощных систем](https://habr.com/ru/news/854012/?utm_campaign=854012&utm_source=habrahabr&utm_medium=rss)
+- [Введение утильсбора на ввоз в Россию иностранного IT-оборудования отложили](https://habr.com/ru/news/854002/?utm_campaign=854002&utm_source=habrahabr&utm_medium=rss)
 - [ML в медицине: дайджест за 21 — 27 октября 2024 г](https://habr.com/ru/news/853978/?utm_campaign=853978&utm_source=habrahabr&utm_medium=rss)
-- [«Роскосмос» предложил освободить почти 300 МГц для мобильных операторов](https://habr.com/ru/news/853948/?utm_campaign=853948&utm_source=habrahabr&utm_medium=rss)
-- [Студенты из РФ создают игру-симулятор оленеводства Yakut &lpar;«Якут»&rpar;](https://habr.com/ru/news/853926/?utm_campaign=853926&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: медицинский ИИ Whisper на основе модели OpenAI склонен к галлюцинациям](https://habr.com/ru/news/853916/?utm_campaign=853916&utm_source=habrahabr&utm_medium=rss)
-- [SQLite мигрировала с GNU Autotools на Autosetup](https://habr.com/ru/news/853898/?utm_campaign=853898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
