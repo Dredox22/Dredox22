@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики представили сервис, который превращает текст PDF-документов в СДВГ-видео для подростков](https://habr.com/ru/news/854100/?utm_campaign=854100&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/854092/?utm_campaign=854092&utm_source=habrahabr&utm_medium=rss)
 - [Релиз пользовательского окружения Sway 1.10](https://habr.com/ru/news/854072/?utm_campaign=854072&utm_source=habrahabr&utm_medium=rss)
 - [В 2021–2022 годах «Яндекс» чуть не закрыл «Навигатор», чтобы перевести его функционал в «Карты»](https://habr.com/ru/news/854048/?utm_campaign=854048&utm_source=habrahabr&utm_medium=rss)
 - [ML-хакатон от Авито с призом в 600 000 рублей](https://habr.com/ru/companies/avito/news/854044/?utm_campaign=854044&utm_source=habrahabr&utm_medium=rss)
-- [Российские учёные придумали, как заменить дорогие компоненты схем на более дешёвый кремний](https://habr.com/ru/news/854042/?utm_campaign=854042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
