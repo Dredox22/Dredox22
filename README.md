@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Conversations, 6 декабря: 25 докладов – про генеративный и разговорный AI](https://habr.com/ru/companies/just_ai/news/852494/?utm_campaign=852494&utm_source=habrahabr&utm_medium=rss)
+- [Представлен Flock — форк фреймворка Flutter, созданный после разочарования ресурсами, которые Google вкладывает в проект](https://habr.com/ru/news/854326/?utm_campaign=854326&utm_source=habrahabr&utm_medium=rss)
+- [GitHub ограничивает доступ к базе уязвимостей Trivy](https://habr.com/ru/companies/flant/news/854318/?utm_campaign=854318&utm_source=habrahabr&utm_medium=rss)
+- [RAG, self-hosting, обучение и оптимизация LLM – 25 докладов про генеративный AI на Conversations 6 декабря](https://habr.com/ru/companies/just_ai/news/852494/?utm_campaign=852494&utm_source=habrahabr&utm_medium=rss)
 - [Ищем таланты: новый CTF-марафон от «Доктор Веб»](https://habr.com/ru/news/854282/?utm_campaign=854282&utm_source=habrahabr&utm_medium=rss)
 - [В Intel Arrow Lake есть около сотни «лишних» контактов](https://habr.com/ru/news/854238/?utm_campaign=854238&utm_source=habrahabr&utm_medium=rss)
-- [Подкаст «Айтидо» №3: олимпийский путь в backend-разработку](https://habr.com/ru/companies/alfa/news/854246/?utm_campaign=854246&utm_source=habrahabr&utm_medium=rss)
-- [Французский оператор связи Free подтвердил взлом его системы и кражу личной информации миллионов клиентов](https://habr.com/ru/news/854226/?utm_campaign=854226&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
