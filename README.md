@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Intel Arrow Lake есть около сотни «лишних» контактов](https://habr.com/ru/news/854238/?utm_campaign=854238&utm_source=habrahabr&utm_medium=rss)
+- [Подкаст «Айтидо» №3: олимпийский путь в backend-разработку](https://habr.com/ru/companies/alfa/news/854246/?utm_campaign=854246&utm_source=habrahabr&utm_medium=rss)
 - [Французский оператор связи Free подтвердил взлом его системы и кражу личной информации миллионов клиентов](https://habr.com/ru/news/854226/?utm_campaign=854226&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 132.0](https://habr.com/ru/news/854218/?utm_campaign=854218&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi OS теперь по умолчанию использует Wayland на всех моделях плат](https://habr.com/ru/news/854202/?utm_campaign=854202&utm_source=habrahabr&utm_medium=rss)
-- [Студия Ninsar Games выпустит 29 октября в VK Play и Steam бесплатную научно-фантастическую ролевую игру «Сатурн»](https://habr.com/ru/news/854198/?utm_campaign=854198&utm_source=habrahabr&utm_medium=rss)
-- [Вышел патч для ядра Linux со значительной оптимизацией реализации алгоритма CRC32C](https://habr.com/ru/news/854194/?utm_campaign=854194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
