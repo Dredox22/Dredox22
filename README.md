@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* работает над собственной поисковой системой на базе искусственного интеллекта](https://habr.com/ru/news/854418/?utm_campaign=854418&utm_source=habrahabr&utm_medium=rss)
 - [Мы выводим на орбиту спутник-платформу для разработчиков](https://habr.com/ru/companies/ruvds/news/854360/?utm_campaign=854360&utm_source=habrahabr&utm_medium=rss)
 - [Маскируемся: как защитить данные в эпоху цифровой трансформации](https://habr.com/ru/companies/garda/news/854394/?utm_campaign=854394&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» обновил веб-версию «СберБанк Онлайн» до уровня дизайна и навигации мобильной версии «СБОЛ»](https://habr.com/ru/news/854372/?utm_campaign=854372&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА на конференции PGConf.Russia](https://habr.com/ru/companies/sigma/news/854254/?utm_campaign=854254&utm_source=habrahabr&utm_medium=rss)
-- [Российская Java теперь свободно доступна для скачивания](https://habr.com/ru/companies/axiomjdk/news/854356/?utm_campaign=854356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
