@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn запускает своего первого ИИ-агента, который возьмет на себя роль рекрутера](https://habr.com/ru/companies/bothub/news/854502/?utm_campaign=854502&utm_source=habrahabr&utm_medium=rss)
+- [Tabnine запускает ИИ-агента для проверки кода](https://habr.com/ru/companies/bothub/news/854498/?utm_campaign=854498&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость в Microsoft Exchange Server](https://habr.com/ru/companies/cyberok/news/854468/?utm_campaign=854468&utm_source=habrahabr&utm_medium=rss)
 - [На ПК вышла игра Red Dead Redemption](https://habr.com/ru/news/854466/?utm_campaign=854466&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил Niagara LiDAR Point Cloud — плагин, который добавляет поддержку облака точек в Unreal Engine](https://habr.com/ru/news/854452/?utm_campaign=854452&utm_source=habrahabr&utm_medium=rss)
-- [Meta* работает над собственной поисковой системой на базе искусственного интеллекта](https://habr.com/ru/news/854418/?utm_campaign=854418&utm_source=habrahabr&utm_medium=rss)
-- [Мы выводим на орбиту спутник-платформу для разработчиков](https://habr.com/ru/companies/ruvds/news/854360/?utm_campaign=854360&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
