@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сообщается, что компания xAI Илона Маска пытается привлечь новое финансирование](https://habr.com/ru/companies/bothub/news/854522/?utm_campaign=854522&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI начнёт использовать чипы AMD и сможет создать собственное оборудование для ИИ в 2026 году](https://habr.com/ru/companies/bothub/news/854510/?utm_campaign=854510&utm_source=habrahabr&utm_medium=rss)
 - [LinkedIn запускает своего первого ИИ-агента, который возьмет на себя роль рекрутера](https://habr.com/ru/companies/bothub/news/854502/?utm_campaign=854502&utm_source=habrahabr&utm_medium=rss)
 - [Tabnine запускает ИИ-агента для проверки кода](https://habr.com/ru/companies/bothub/news/854498/?utm_campaign=854498&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость в Microsoft Exchange Server](https://habr.com/ru/companies/cyberok/news/854468/?utm_campaign=854468&utm_source=habrahabr&utm_medium=rss)
-- [На ПК вышла игра Red Dead Redemption](https://habr.com/ru/news/854466/?utm_campaign=854466&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил Niagara LiDAR Point Cloud — плагин, который добавляет поддержку облака точек в Unreal Engine](https://habr.com/ru/news/854452/?utm_campaign=854452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
