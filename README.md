@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi OS теперь по умолчанию использует Wayland на всех моделях плат](https://habr.com/ru/news/854202/?utm_campaign=854202&utm_source=habrahabr&utm_medium=rss)
+- [Студия Ninsar Games выпустит 29 октября в VK Play и Steam бесплатную научно-фантастическую ролевую игру «Сатурн»](https://habr.com/ru/news/854198/?utm_campaign=854198&utm_source=habrahabr&utm_medium=rss)
 - [Вышел патч для ядра Linux со значительной оптимизацией реализации алгоритма CRC32C](https://habr.com/ru/news/854194/?utm_campaign=854194&utm_source=habrahabr&utm_medium=rss)
 - [OSI выпустила официальное определение «открытого» ИИ, и некоторые модели не соответствуют этому определению](https://habr.com/ru/companies/bothub/news/854184/?utm_campaign=854184&utm_source=habrahabr&utm_medium=rss)
 - [Появилась загадочная новая модель генерации изображений — red_panda](https://habr.com/ru/companies/bothub/news/854182/?utm_campaign=854182&utm_source=habrahabr&utm_medium=rss)
-- [Вышло PocketPal AI — приложение для локального запуска языковых моделей на смартфоне](https://habr.com/ru/news/854178/?utm_campaign=854178&utm_source=habrahabr&utm_medium=rss)
-- [К 2030 году генеративный ИИ может привести к образованию 10 миллиардов электронных отходов в год](https://habr.com/ru/companies/bothub/news/854174/?utm_campaign=854174&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
