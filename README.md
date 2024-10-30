@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple запустит систему, использующую все отзывы пользователей в App Store для создания краткой сводки о приложении](https://habr.com/ru/news/854710/?utm_campaign=854710&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft не будет тайно устанавливать Recall на ПК с Windows](https://habr.com/ru/news/854700/?utm_campaign=854700&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» зафиксировал почти двукратный рост спроса на продукты для защиты персональных устройств от киберугроз](https://habr.com/ru/news/854692/?utm_campaign=854692&utm_source=habrahabr&utm_medium=rss)
 - [«Доктор Веб» приглашает на свой CTF-марафон студентов и молодых IT-специалистов, кто связан с кибербезопасностью](https://habr.com/ru/news/854688/?utm_campaign=854688&utm_source=habrahabr&utm_medium=rss)
 - [«Госуслуги» начали предлагать пользователям поменять почту для доступа к сервису с Gmail на xmail](https://habr.com/ru/news/854676/?utm_campaign=854676&utm_source=habrahabr&utm_medium=rss)
-- [VK проведёт с 5 по 24 ноября этап всероссийского образовательного проекта «Урок цифры» по теме «Магазин приложений»](https://habr.com/ru/news/854668/?utm_campaign=854668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
