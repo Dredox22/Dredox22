@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стоимость содержания инфраструктуры для е-com выросла в 1,5-2 раза](https://habr.com/ru/companies/k2tech/news/854622/?utm_campaign=854622&utm_source=habrahabr&utm_medium=rss)
+- [Крысиный король: Android-троян CraxsRAT ворует данные пользователей под видом мобильных приложений госучреждений](https://habr.com/ru/companies/f_a_c_c_t/news/854568/?utm_campaign=854568&utm_source=habrahabr&utm_medium=rss)
 - [VK создала WARP — внутреннюю ИИ-систему защиты от DDoS-атак и вредоносных ботов с анализом пользовательской активности](https://habr.com/ru/news/854588/?utm_campaign=854588&utm_source=habrahabr&utm_medium=rss)
 - [Форум «СИЛА ПЛАТФОРМЫ» продемонстрировал достижения российских разработчиков инженерного ПО](https://habr.com/ru/companies/nanosoft/news/854572/?utm_campaign=854572&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры и ФСИН попросили создать сервис «Письмо заключённому» внутри «Госуслуг»](https://habr.com/ru/news/854552/?utm_campaign=854552&utm_source=habrahabr&utm_medium=rss)
-- [GitHub запустил ИИ-модель Spark для генерации веб-приложений](https://habr.com/ru/news/854542/?utm_campaign=854542&utm_source=habrahabr&utm_medium=rss)
-- [В Chrome появились опции для улучшения работы с памятью и оптимизации вкладок](https://habr.com/ru/news/854538/?utm_campaign=854538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
