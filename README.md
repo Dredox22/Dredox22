@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft не будет тайно устанавливать Recall на ПК с Windows](https://habr.com/ru/news/854700/?utm_campaign=854700&utm_source=habrahabr&utm_medium=rss)
+- [«МегаФон» зафиксировал почти двукратный рост спроса на продукты для защиты персональных устройств от киберугроз](https://habr.com/ru/news/854692/?utm_campaign=854692&utm_source=habrahabr&utm_medium=rss)
+- [«Доктор Веб» приглашает на свой CTF-марафон студентов и молодых IT-специалистов, кто связан с кибербезопасностью](https://habr.com/ru/news/854688/?utm_campaign=854688&utm_source=habrahabr&utm_medium=rss)
 - [«Госуслуги» начали предлагать пользователям поменять почту для доступа к сервису с Gmail на xmail](https://habr.com/ru/news/854676/?utm_campaign=854676&utm_source=habrahabr&utm_medium=rss)
 - [VK проведёт с 5 по 24 ноября этап всероссийского образовательного проекта «Урок цифры» по теме «Магазин приложений»](https://habr.com/ru/news/854668/?utm_campaign=854668&utm_source=habrahabr&utm_medium=rss)
-- [Профильные ассоциации попросили Минпромторг уточнить правила маркировки электронных компонентов](https://habr.com/ru/news/854652/?utm_campaign=854652&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи, IT-компании и девелоперы подготовили стандарты умных домов](https://habr.com/ru/news/854644/?utm_campaign=854644&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wasmer 5.0 — открытого инструментария для создания приложений на базе WebAssembly](https://habr.com/ru/news/854642/?utm_campaign=854642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
