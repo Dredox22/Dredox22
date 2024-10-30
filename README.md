@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого видеоредактора Shotcut 24.10](https://habr.com/ru/news/854744/?utm_campaign=854744&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI работает над созданием своего первого чипа совместно с Broadcom и TSMC](https://habr.com/ru/news/854742/?utm_campaign=854742&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустит систему, использующую все отзывы пользователей в App Store для создания краткой сводки о приложении](https://habr.com/ru/news/854710/?utm_campaign=854710&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft не будет тайно устанавливать Recall на ПК с Windows](https://habr.com/ru/news/854700/?utm_campaign=854700&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» зафиксировал почти двукратный рост спроса на продукты для защиты персональных устройств от киберугроз](https://habr.com/ru/news/854692/?utm_campaign=854692&utm_source=habrahabr&utm_medium=rss)
-- [«Доктор Веб» приглашает на свой CTF-марафон студентов и молодых IT-специалистов, кто связан с кибербезопасностью](https://habr.com/ru/news/854688/?utm_campaign=854688&utm_source=habrahabr&utm_medium=rss)
-- [«Госуслуги» начали предлагать пользователям поменять почту для доступа к сервису с Gmail на xmail](https://habr.com/ru/news/854676/?utm_campaign=854676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
