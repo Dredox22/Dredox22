@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры и ФСИН попросили создать сервис «Письмо заключённому» внутри «Госуслуг»](https://habr.com/ru/news/854552/?utm_campaign=854552&utm_source=habrahabr&utm_medium=rss)
+- [GitHub запустил ИИ-модель Spark для генерации веб-приложений](https://habr.com/ru/news/854542/?utm_campaign=854542&utm_source=habrahabr&utm_medium=rss)
 - [В Chrome появились опции для улучшения работы с памятью и оптимизации вкладок](https://habr.com/ru/news/854538/?utm_campaign=854538&utm_source=habrahabr&utm_medium=rss)
 - [Sony решила закрыть разработчика Concord студию Firewalk Studios](https://habr.com/ru/news/854544/?utm_campaign=854544&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Fedora Linux 41](https://habr.com/ru/news/854536/?utm_campaign=854536&utm_source=habrahabr&utm_medium=rss)
-- [Сообщается, что компания xAI Илона Маска пытается привлечь новое финансирование](https://habr.com/ru/companies/bothub/news/854522/?utm_campaign=854522&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI начнёт использовать чипы AMD и сможет создать собственное оборудование для ИИ в 2026 году](https://habr.com/ru/companies/bothub/news/854510/?utm_campaign=854510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
