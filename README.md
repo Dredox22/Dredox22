@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [JetBrains отменяет корпоративные скидки за длительное использование своих продуктов](https://habr.com/ru/news/854770/?utm_campaign=854770&utm_source=habrahabr&utm_medium=rss)
-- [Платформа Kaggle запустила конкурс, где нужно тестировать увеличенное в 1,5 раза контекстное окно Gemini 1.5](https://habr.com/ru/companies/bothub/news/854766/?utm_campaign=854766&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого видеоредактора Shotcut 24.10](https://habr.com/ru/news/854744/?utm_campaign=854744&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI работает над созданием своего первого чипа совместно с Broadcom и TSMC](https://habr.com/ru/news/854742/?utm_campaign=854742&utm_source=habrahabr&utm_medium=rss)
-- [Apple запустит систему, использующую все отзывы пользователей в App Store для создания краткой сводки о приложении](https://habr.com/ru/news/854710/?utm_campaign=854710&utm_source=habrahabr&utm_medium=rss)
+- [Бывший глава Google: Саудовская Аравия может стать центром искусственного интеллекта](https://habr.com/ru/companies/bothub/news/854788/?utm_campaign=854788&utm_source=habrahabr&utm_medium=rss)
+- [Портал IXBT Games объявил сроки проведения игрового шоу «НашЫ игры 2024» для поддержки разработчиков игр](https://habr.com/ru/news/854786/?utm_campaign=854786&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск хочет, чтобы вы отправили свои медицинские данные его чат-боту с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/854784/?utm_campaign=854784&utm_source=habrahabr&utm_medium=rss)
+- [Искусственный интеллект теперь пишет более 25% кода в Google](https://habr.com/ru/companies/bothub/news/854782/?utm_campaign=854782&utm_source=habrahabr&utm_medium=rss)
+- [Вышла первая стабильная версия почтового клиента Thunderbird для Android](https://habr.com/ru/news/854774/?utm_campaign=854774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
