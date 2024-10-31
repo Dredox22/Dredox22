@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Экс-работник Disney провёл серию кибератак на систему меню ресторанов в тематическом парке Walt Disney World](https://habr.com/ru/news/855112/?utm_campaign=855112&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс наградил 14 учёных за достижения в сфере машинного обучения](https://habr.com/ru/companies/yandex/news/855110/?utm_campaign=855110&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила ошибку с неправильным отображением Super Resolution на несовместимых ПК с Windows](https://habr.com/ru/news/855090/?utm_campaign=855090&utm_source=habrahabr&utm_medium=rss)
 - [Обновления в GitHub Copilot: Perplexity, Claude &amp;amp; Edits](https://habr.com/ru/news/854810/?utm_campaign=854810&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из T-Bank AI Research, МИСИС и МФТИ разработали метод распознавания неизвестных объектов на фото с помощью ИИ](https://habr.com/ru/news/855054/?utm_campaign=855054&utm_source=habrahabr&utm_medium=rss)
-- [Аналитики сообщили об утечке базы данных ВТБ. В банке это опровергли](https://habr.com/ru/news/855048/?utm_campaign=855048&utm_source=habrahabr&utm_medium=rss)
-- [Соображения совести: ученые из МФТИ представили концепцию этических паспортов для систем искусственного интеллекта](https://habr.com/ru/companies/mipt/news/855022/?utm_campaign=855022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
