@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Telegram: переработанный видеоплеер, добавление фотографий к сообщениям после отправки и реклама в ботах](https://habr.com/ru/news/855168/?utm_campaign=855168&utm_source=habrahabr&utm_medium=rss)
 - [В качестве поставщика данных для GitHub Copilot можно будет использовать языковые модели от Anthropic и Google](https://habr.com/ru/news/855156/?utm_campaign=855156&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила поисковую систему ChatGPT Search](https://habr.com/ru/news/855138/?utm_campaign=855138&utm_source=habrahabr&utm_medium=rss)
 - [Экс-работник Disney провёл серию кибератак на систему меню ресторанов в тематическом парке Walt Disney World](https://habr.com/ru/news/855112/?utm_campaign=855112&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс наградил 14 учёных за достижения в сфере машинного обучения](https://habr.com/ru/companies/yandex/news/855110/?utm_campaign=855110&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» назвал и наградил лауреатов международной премии Yandex ML Prize 2024](https://habr.com/ru/news/855026/?utm_campaign=855026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
