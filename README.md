@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитики сообщили об утечке базы данных ВТБ. В банке это опровергли](https://habr.com/ru/news/855048/?utm_campaign=855048&utm_source=habrahabr&utm_medium=rss)
+- [Соображения совести: ученые из МФТИ представили концепцию этических паспортов для систем искусственного интеллекта](https://habr.com/ru/companies/mipt/news/855022/?utm_campaign=855022&utm_source=habrahabr&utm_medium=rss)
+- [В рамках закрытия студий Firewalk Studios и Neon Koi Sony уволит 210 сотрудников](https://habr.com/ru/news/855004/?utm_campaign=855004&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила патч для проблемы с закрытием части приложений в Windows 10 при запуске без прав администратора](https://habr.com/ru/news/854980/?utm_campaign=854980&utm_source=habrahabr&utm_medium=rss)
 - [Подтверждена совместимость платформы мониторинга производительности SOFTPOINT PerfExpert с российской СУБД Postgres Pro](https://habr.com/ru/companies/softpoint/news/854960/?utm_campaign=854960&utm_source=habrahabr&utm_medium=rss)
-- [Siemens договорилась о покупке разработчика инженерного софта Altair за $10 млрд](https://habr.com/ru/news/854938/?utm_campaign=854938&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo создала мобильное приложение для потоковой передачи музыки, доступное подписчикам Switch Online](https://habr.com/ru/news/854926/?utm_campaign=854926&utm_source=habrahabr&utm_medium=rss)
-- [«Т-Банк» начал предлагать клиентам установить приложение на iOS через сторонний Apple ID](https://habr.com/ru/news/854922/?utm_campaign=854922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
