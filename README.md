@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CD Projekt Red пообещала выпустить Cyberpunk 2077 на компьютерах Mac в 2025 году](https://habr.com/ru/news/854874/?utm_campaign=854874&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных занятий и курсов, которые стоит пройти в ноябре](https://habr.com/ru/companies/netologyru/news/854866/?utm_campaign=854866&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного редактора звука Audacity 3.7](https://habr.com/ru/news/854860/?utm_campaign=854860&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из Ninsar Games рассказали об игре «Сатурн» и попросили присылать им баги для анализа и устранения](https://habr.com/ru/news/854856/?utm_campaign=854856&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 с обновлением KB5044384 количество запущенных приложений и фоновых процессов на вкладке «Процессы» — 0](https://habr.com/ru/news/854852/?utm_campaign=854852&utm_source=habrahabr&utm_medium=rss)
-- [GitHub Copilot стал доступен в Xcode и в Windows Terminal](https://habr.com/ru/news/854844/?utm_campaign=854844&utm_source=habrahabr&utm_medium=rss)
-- [Avride представила новое поколение роботов-курьеров, у которых колёса могут поворачиваться независимо друг от друга](https://habr.com/ru/news/854838/?utm_campaign=854838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
