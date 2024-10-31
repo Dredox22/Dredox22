@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Siemens договорилась о покупке разработчика инженерного софта Altair за $10 млрд](https://habr.com/ru/news/854938/?utm_campaign=854938&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo создала мобильное приложение для потоковой передачи музыки, доступное подписчикам Switch Online](https://habr.com/ru/news/854926/?utm_campaign=854926&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Банк» начал предлагать клиентам установить приложение на iOS через сторонний Apple ID](https://habr.com/ru/news/854922/?utm_campaign=854922&utm_source=habrahabr&utm_medium=rss)
 - [Минфин США ввёл санкции против OCS, поставщика электронных компонентов «Чип и Дип», НПО «Ангстрем» и АО «ФАБ Рассвет»](https://habr.com/ru/news/854916/?utm_campaign=854916&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD BIM Строительство: новое BIM/ТИМ-решение от «Нанософт» для архитекторов и конструкторов](https://habr.com/ru/companies/nanosoft/news/854682/?utm_campaign=854682&utm_source=habrahabr&utm_medium=rss)
-- [CD Projekt Red пообещала выпустить Cyberpunk 2077 на компьютерах Mac в 2025 году](https://habr.com/ru/news/854874/?utm_campaign=854874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
