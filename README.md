@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила патч для проблемы с закрытием части приложений в Windows 10 при запуске без прав администратора](https://habr.com/ru/news/854980/?utm_campaign=854980&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость платформы мониторинга производительности SOFTPOINT PerfExpert с российской СУБД Postgres Pro](https://habr.com/ru/companies/softpoint/news/854960/?utm_campaign=854960&utm_source=habrahabr&utm_medium=rss)
 - [Siemens договорилась о покупке разработчика инженерного софта Altair за $10 млрд](https://habr.com/ru/news/854938/?utm_campaign=854938&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo создала мобильное приложение для потоковой передачи музыки, доступное подписчикам Switch Online](https://habr.com/ru/news/854926/?utm_campaign=854926&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Банк» начал предлагать клиентам установить приложение на iOS через сторонний Apple ID](https://habr.com/ru/news/854922/?utm_campaign=854922&utm_source=habrahabr&utm_medium=rss)
-- [Минфин США ввёл санкции против OCS, поставщика электронных компонентов «Чип и Дип», НПО «Ангстрем» и АО «ФАБ Рассвет»](https://habr.com/ru/news/854916/?utm_campaign=854916&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD BIM Строительство: новое BIM/ТИМ-решение от «Нанософт» для архитекторов и конструкторов](https://habr.com/ru/companies/nanosoft/news/854682/?utm_campaign=854682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
