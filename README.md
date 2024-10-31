@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила поисковую систему ChatGPT Search](https://habr.com/ru/news/855138/?utm_campaign=855138&utm_source=habrahabr&utm_medium=rss)
 - [Экс-работник Disney провёл серию кибератак на систему меню ресторанов в тематическом парке Walt Disney World](https://habr.com/ru/news/855112/?utm_campaign=855112&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс наградил 14 учёных за достижения в сфере машинного обучения](https://habr.com/ru/companies/yandex/news/855110/?utm_campaign=855110&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» назвал и наградил лауреатов международной премии Yandex ML Prize 2024](https://habr.com/ru/news/855026/?utm_campaign=855026&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила ошибку с неправильным отображением Super Resolution на несовместимых ПК с Windows](https://habr.com/ru/news/855090/?utm_campaign=855090&utm_source=habrahabr&utm_medium=rss)
-- [Обновления в GitHub Copilot: Perplexity, Claude &amp;amp; Edits](https://habr.com/ru/news/854810/?utm_campaign=854810&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из T-Bank AI Research, МИСИС и МФТИ разработали метод распознавания неизвестных объектов на фото с помощью ИИ](https://habr.com/ru/news/855054/?utm_campaign=855054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
