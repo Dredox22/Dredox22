@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз свободного редактора звука Audacity 3.7](https://habr.com/ru/news/854860/?utm_campaign=854860&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики из Ninsar Games рассказали об игре «Сатурн» и попросили присылать им баги для анализа и устранения](https://habr.com/ru/news/854856/?utm_campaign=854856&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 с обновлением KB5044384 количество запущенных приложений и фоновых процессов на вкладке «Процессы» — 0](https://habr.com/ru/news/854852/?utm_campaign=854852&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot стал доступен в Xcode и в Windows Terminal](https://habr.com/ru/news/854844/?utm_campaign=854844&utm_source=habrahabr&utm_medium=rss)
 - [Avride представила новое поколение роботов-курьеров, у которых колёса могут поворачиваться независимо друг от друга](https://habr.com/ru/news/854838/?utm_campaign=854838&utm_source=habrahabr&utm_medium=rss)
-- [Бывший глава Google: Саудовская Аравия может стать центром искусственного интеллекта](https://habr.com/ru/companies/bothub/news/854788/?utm_campaign=854788&utm_source=habrahabr&utm_medium=rss)
-- [Портал IXBT Games объявил сроки проведения игрового шоу «НашЫ игры 2024» для поддержки разработчиков игр](https://habr.com/ru/news/854786/?utm_campaign=854786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
