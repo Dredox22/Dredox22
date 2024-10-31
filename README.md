@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила ошибку с неправильным отображением Super Resolution на несовместимых ПК с Windows](https://habr.com/ru/news/855090/?utm_campaign=855090&utm_source=habrahabr&utm_medium=rss)
 - [Обновления в GitHub Copilot: Perplexity, Claude &amp;amp; Edits](https://habr.com/ru/news/854810/?utm_campaign=854810&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из T-Bank AI Research, МИСИС и МФТИ разработали метод распознавания неизвестных объектов на фото с помощью ИИ](https://habr.com/ru/news/855054/?utm_campaign=855054&utm_source=habrahabr&utm_medium=rss)
 - [Аналитики сообщили об утечке базы данных ВТБ. В банке это опровергли](https://habr.com/ru/news/855048/?utm_campaign=855048&utm_source=habrahabr&utm_medium=rss)
 - [Соображения совести: ученые из МФТИ представили концепцию этических паспортов для систем искусственного интеллекта](https://habr.com/ru/companies/mipt/news/855022/?utm_campaign=855022&utm_source=habrahabr&utm_medium=rss)
-- [В рамках закрытия студий Firewalk Studios и Neon Koi Sony уволит 210 сотрудников](https://habr.com/ru/news/855004/?utm_campaign=855004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
