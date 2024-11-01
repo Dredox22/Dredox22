@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован микрокод Raptor Lake для Linux с исправлением проблем с напряжением](https://habr.com/ru/news/855244/?utm_campaign=855244&utm_source=habrahabr&utm_medium=rss)
+- [VMware Workstation переходит от проприетарного кода к использованию KVM &lpar;Linux Kernel-based Virtual Machine&rpar;](https://habr.com/ru/news/855246/?utm_campaign=855246&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отложила выпуск Windows Recall до декабря](https://habr.com/ru/news/855232/?utm_campaign=855232&utm_source=habrahabr&utm_medium=rss)
+- [«Характер и амбиции сотрудников создают атмосферу для новых идей»](https://habr.com/ru/companies/X5Tech/news/855238/?utm_campaign=855238&utm_source=habrahabr&utm_medium=rss)
 - [Казахстан сохранит общий с Россией телефонный код +7](https://habr.com/ru/news/855220/?utm_campaign=855220&utm_source=habrahabr&utm_medium=rss)
-- [EA прекратила поддержку Steam Deck со SteamOS и ПК на Linux в Apex Legends из-за добавления античита](https://habr.com/ru/news/855210/?utm_campaign=855210&utm_source=habrahabr&utm_medium=rss)
-- [Вышел 21-строчный патч для ядра Linux, ускоряющий прохождение теста per_thread_ops на 2.6%](https://habr.com/ru/news/855204/?utm_campaign=855204&utm_source=habrahabr&utm_medium=rss)
-- [Команда коммерческого проекта Ondsel &lpar;облачные инструменты совместной работы для САПР FreeCAD&rpar; объявила о закрытии](https://habr.com/ru/news/855198/?utm_campaign=855198&utm_source=habrahabr&utm_medium=rss)
-- [Noma создает инструменты для выявления проблем безопасности в приложениях с ИИ](https://habr.com/ru/companies/bothub/news/855192/?utm_campaign=855192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
