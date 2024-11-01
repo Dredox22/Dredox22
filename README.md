@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Казахстан сохранит общий с Россией телефонный код +7](https://habr.com/ru/news/855220/?utm_campaign=855220&utm_source=habrahabr&utm_medium=rss)
+- [EA прекратила поддержку Steam Deck со SteamOS и ПК на Linux в Apex Legends из-за добавления античита](https://habr.com/ru/news/855210/?utm_campaign=855210&utm_source=habrahabr&utm_medium=rss)
 - [Вышел 21-строчный патч для ядра Linux, ускоряющий прохождение теста per_thread_ops на 2.6%](https://habr.com/ru/news/855204/?utm_campaign=855204&utm_source=habrahabr&utm_medium=rss)
 - [Команда коммерческого проекта Ondsel &lpar;облачные инструменты совместной работы для САПР FreeCAD&rpar; объявила о закрытии](https://habr.com/ru/news/855198/?utm_campaign=855198&utm_source=habrahabr&utm_medium=rss)
 - [Noma создает инструменты для выявления проблем безопасности в приложениях с ИИ](https://habr.com/ru/companies/bothub/news/855192/?utm_campaign=855192&utm_source=habrahabr&utm_medium=rss)
-- [Buddy.ai использует ИИ и игровые технологии, чтобы помочь детям выучить английский как второй язык](https://habr.com/ru/companies/bothub/news/855188/?utm_campaign=855188&utm_source=habrahabr&utm_medium=rss)
-- [CEO OpenAI Сэм Альтман заявил, что нехватка вычислительных мощностей задерживает выпуск продуктов компании](https://habr.com/ru/companies/bothub/news/855186/?utm_campaign=855186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
