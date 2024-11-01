@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запускает «Learn About» —  интерактивное обучение на базе искусственного интеллекта](https://habr.com/ru/companies/bothub/news/855500/?utm_campaign=855500&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: китайские военные исследователи использовали Meta* AI для разработки оборонного чат-бота](https://habr.com/ru/companies/bothub/news/855496/?utm_campaign=855496&utm_source=habrahabr&utm_medium=rss)
 - [Apple покупает приложение для редактирования фотографий Pixelmator](https://habr.com/ru/companies/bothub/news/855494/?utm_campaign=855494&utm_source=habrahabr&utm_medium=rss)
 - [Более 1500 ИТ-экспертов обсудили рост бизнеса на базе российских технологий на Orion Digital Day](https://habr.com/ru/companies/orion_soft/news/855418/?utm_campaign=855418&utm_source=habrahabr&utm_medium=rss)
 - [В qBittorrent 5.0.1 разработчики исправили баг с неправильной валидацией TLS-сертификатов, который был в проекте 14 лет](https://habr.com/ru/news/855320/?utm_campaign=855320&utm_source=habrahabr&utm_medium=rss)
-- [«Мамонт» штурмует банки: мошенники атакуют клиентов финансовых организаций](https://habr.com/ru/companies/f_a_c_c_t/news/855318/?utm_campaign=855318&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
