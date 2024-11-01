@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В qBittorrent 5.0.1 разработчики исправили баг с неправильной валидацией TLS-сертификатов, который был в проекте 14 лет](https://habr.com/ru/news/855320/?utm_campaign=855320&utm_source=habrahabr&utm_medium=rss)
+- [«Мамонт» штурмует банки: мошенники атакуют клиентов финансовых организаций](https://habr.com/ru/companies/f_a_c_c_t/news/855318/?utm_campaign=855318&utm_source=habrahabr&utm_medium=rss)
+- [Как создать гибкое и устойчивое архитектурное решение на Python? Делимся опытом](https://habr.com/ru/companies/selectel/news/855300/?utm_campaign=855300&utm_source=habrahabr&utm_medium=rss)
 - [Семинар «Astra Linux Embedded — уникальное предложение для производителей специализированных устройств»](https://habr.com/ru/companies/astralinux/news/855250/?utm_campaign=855250&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован микрокод Raptor Lake для Linux с исправлением проблем с напряжением](https://habr.com/ru/news/855244/?utm_campaign=855244&utm_source=habrahabr&utm_medium=rss)
-- [VMware Workstation переходит от проприетарного кода к использованию KVM &lpar;Linux Kernel-based Virtual Machine&rpar;](https://habr.com/ru/news/855246/?utm_campaign=855246&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отложила выпуск Windows Recall до декабря](https://habr.com/ru/news/855232/?utm_campaign=855232&utm_source=habrahabr&utm_medium=rss)
-- [«Характер и амбиции сотрудников создают атмосферу для новых идей»](https://habr.com/ru/companies/X5Tech/news/855238/?utm_campaign=855238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
