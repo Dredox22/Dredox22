@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Семинар «Astra Linux Embedded — уникальное предложение для производителей специализированных устройств»](https://habr.com/ru/companies/astralinux/news/855250/?utm_campaign=855250&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован микрокод Raptor Lake для Linux с исправлением проблем с напряжением](https://habr.com/ru/news/855244/?utm_campaign=855244&utm_source=habrahabr&utm_medium=rss)
 - [VMware Workstation переходит от проприетарного кода к использованию KVM &lpar;Linux Kernel-based Virtual Machine&rpar;](https://habr.com/ru/news/855246/?utm_campaign=855246&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отложила выпуск Windows Recall до декабря](https://habr.com/ru/news/855232/?utm_campaign=855232&utm_source=habrahabr&utm_medium=rss)
 - [«Характер и амбиции сотрудников создают атмосферу для новых идей»](https://habr.com/ru/companies/X5Tech/news/855238/?utm_campaign=855238&utm_source=habrahabr&utm_medium=rss)
-- [Казахстан сохранит общий с Россией телефонный код +7](https://habr.com/ru/news/855220/?utm_campaign=855220&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
