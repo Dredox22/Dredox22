@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Третий Alfa Analyze IT Meetup: генерация документации, LLM и уязвимости](https://habr.com/ru/companies/alfa/news/855664/?utm_campaign=855664&utm_source=habrahabr&utm_medium=rss)
+- [Apple запустила программу ремонта iPhone 14 Plus с задней камерой, которая не показывает изображение в режиме превью](https://habr.com/ru/news/855654/?utm_campaign=855654&utm_source=habrahabr&utm_medium=rss)
+- [Google будет обновлять Android 2 раза в год с релизом Android 16](https://habr.com/ru/news/855650/?utm_campaign=855650&utm_source=habrahabr&utm_medium=rss)
 - [VK внедрил ИИ в RuStore для анализа отзывов пользователей о приложениях и играх](https://habr.com/ru/news/855552/?utm_campaign=855552&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» открыта форма для регистрации владельцев каналов с 10 тыс. подписчиков в соцсетях](https://habr.com/ru/news/855512/?utm_campaign=855512&utm_source=habrahabr&utm_medium=rss)
-- [Google запускает «Learn About» —  интерактивное обучение на базе искусственного интеллекта](https://habr.com/ru/companies/bothub/news/855500/?utm_campaign=855500&utm_source=habrahabr&utm_medium=rss)
-- [Reuters: китайские военные исследователи использовали Meta* AI для разработки оборонного чат-бота](https://habr.com/ru/companies/bothub/news/855496/?utm_campaign=855496&utm_source=habrahabr&utm_medium=rss)
-- [Apple покупает приложение для редактирования фотографий Pixelmator](https://habr.com/ru/companies/bothub/news/855494/?utm_campaign=855494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
