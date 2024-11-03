@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare выпустила Pingora v0.4.0 с экспериментальной поддержкой Windows и Rustls в качестве альтернативы OpenSSL](https://habr.com/ru/news/855724/?utm_campaign=855724&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка входа в учётку Okta позволяла обойти проверку пароля при вводе имени пользователя с более чем 52 символами](https://habr.com/ru/news/855682/?utm_campaign=855682&utm_source=habrahabr&utm_medium=rss)
 - [Третий Alfa Analyze IT Meetup: генерация документации, LLM и уязвимости](https://habr.com/ru/companies/alfa/news/855664/?utm_campaign=855664&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила программу ремонта iPhone 14 Plus с задней камерой, которая не показывает изображение в режиме превью](https://habr.com/ru/news/855654/?utm_campaign=855654&utm_source=habrahabr&utm_medium=rss)
 - [Google будет обновлять Android 2 раза в год с релизом Android 16](https://habr.com/ru/news/855650/?utm_campaign=855650&utm_source=habrahabr&utm_medium=rss)
-- [VK внедрил ИИ в RuStore для анализа отзывов пользователей о приложениях и играх](https://habr.com/ru/news/855552/?utm_campaign=855552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
