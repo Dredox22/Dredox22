@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google работает над режимом Quick Share для iOS и macOS](https://habr.com/ru/news/855760/?utm_campaign=855760&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge планирует переместить адресную строку вниз на Android](https://habr.com/ru/news/855748/?utm_campaign=855748&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Windows 11 24H2 приводит к показу части меню «Подробнее» приложения «Проводник» за пределами рабочего окна](https://habr.com/ru/news/855730/?utm_campaign=855730&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare выпустила Pingora v0.4.0 с экспериментальной поддержкой Windows и Rustls в качестве альтернативы OpenSSL](https://habr.com/ru/news/855724/?utm_campaign=855724&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка входа в учётку Okta позволяла обойти проверку пароля при вводе имени пользователя с более чем 52 символами](https://habr.com/ru/news/855682/?utm_campaign=855682&utm_source=habrahabr&utm_medium=rss)
-- [Третий Alfa Analyze IT Meetup: генерация документации, LLM и уязвимости](https://habr.com/ru/companies/alfa/news/855664/?utm_campaign=855664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
