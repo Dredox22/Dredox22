@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: ChatGPT-4o можно использовать для автономного голосового мошенничества](https://habr.com/ru/news/855870/?utm_campaign=855870&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предложит пользователям платную поддержку Windows 10 с октября 2025 года](https://habr.com/ru/news/855860/?utm_campaign=855860&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предложит пользователям платную поддержку Windows 10 с октября 2025 года](https://habr.com/ru/news/855858/?utm_campaign=855858&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил Doom на умном будильнике Nintendo Alarmo](https://habr.com/ru/news/855854/?utm_campaign=855854&utm_source=habrahabr&utm_medium=rss)
 - [Провайдер «Сибсети» подвергся продолжительной DDoS-атаке, затронуты четыре сибирских региона РФ](https://habr.com/ru/news/855820/?utm_campaign=855820&utm_source=habrahabr&utm_medium=rss)
-- [10 новых функций для мини-приложений в Telegram](https://habr.com/ru/news/855796/?utm_campaign=855796&utm_source=habrahabr&utm_medium=rss)
-- [DigiTimes: Nvidia выпустит свои процессоры, компания совместно с MediaTek работает над проектом ARM-чипа для ПК](https://habr.com/ru/news/855776/?utm_campaign=855776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
