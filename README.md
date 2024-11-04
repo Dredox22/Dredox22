@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предложит пользователям платную поддержку Windows 10 с октября 2025 года](https://habr.com/ru/news/855858/?utm_campaign=855858&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст запустил Doom на умном будильнике Nintendo Alarmo](https://habr.com/ru/news/855854/?utm_campaign=855854&utm_source=habrahabr&utm_medium=rss)
 - [Провайдер «Сибсети» подвергся продолжительной DDoS-атаке, затронуты четыре сибирских региона РФ](https://habr.com/ru/news/855820/?utm_campaign=855820&utm_source=habrahabr&utm_medium=rss)
 - [10 новых функций для мини-приложений в Telegram](https://habr.com/ru/news/855796/?utm_campaign=855796&utm_source=habrahabr&utm_medium=rss)
 - [DigiTimes: Nvidia выпустит свои процессоры, компания совместно с MediaTek работает над проектом ARM-чипа для ПК](https://habr.com/ru/news/855776/?utm_campaign=855776&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft советует отказаться от Windows 10 в пользу Windows 11 для большей скорости, эффективности и ИИ](https://habr.com/ru/news/855772/?utm_campaign=855772&utm_source=habrahabr&utm_medium=rss)
-- [Google работает над режимом Quick Share для iOS и macOS](https://habr.com/ru/news/855760/?utm_campaign=855760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
