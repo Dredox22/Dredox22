@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia сообщила о наличии критических уязвимостей в драйверах и ПО для RTX, Quadro, NVS, Tesla и GeForce](https://habr.com/ru/news/855978/?utm_campaign=855978&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ-ускоритель Trillium от Google уже доступен в облаке GCP](https://habr.com/ru/companies/dcmiran/news/855898/?utm_campaign=855898&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отложила выпуск опции в Windows 11 с возможностью печатать на экранной клавиатуре при помощи контроллера Xbox](https://habr.com/ru/news/855896/?utm_campaign=855896&utm_source=habrahabr&utm_medium=rss)
 - [Водители-испытатели Tesla FSD рассказали о Project Rodeo](https://habr.com/ru/news/855876/?utm_campaign=855876&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ChatGPT-4o можно использовать для автономного голосового мошенничества](https://habr.com/ru/news/855870/?utm_campaign=855870&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предложит пользователям платную поддержку Windows 10 с октября 2025 года](https://habr.com/ru/news/855858/?utm_campaign=855858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
