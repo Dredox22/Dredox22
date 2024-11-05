@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытой ИИ-модели hertz-dev для полнодуплексного голосового общения](https://habr.com/ru/news/856042/?utm_campaign=856042&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды разработки Tizen Studio 6.0](https://habr.com/ru/news/856040/?utm_campaign=856040&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic повышает цену на свою новую ИИ-модель Claude 3.5 Haiku](https://habr.com/ru/companies/bothub/news/856034/?utm_campaign=856034&utm_source=habrahabr&utm_medium=rss)
 - [Meta* заявила, что модели Llama теперь доступны в проектах, связанных с национальной безопасностью США](https://habr.com/ru/companies/bothub/news/856032/?utm_campaign=856032&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI наняла сооснователя конкурента Twitter](https://habr.com/ru/companies/bothub/news/856030/?utm_campaign=856030&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый мобильный проект PacCam, в котором Pacman управляется с помощью лица пользователя](https://habr.com/ru/news/856000/?utm_campaign=856000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
