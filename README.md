@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Schneider Electric подтвердила взлом своей платформы разработки после кражи хакером 40 ГБ данных с сервера Jira компании](https://habr.com/ru/news/856094/?utm_campaign=856094&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PC Manager 3.14 для Windows 10/11 с показом скорости интернета в панели задач и улучшенным алгоритмом чистки диска](https://habr.com/ru/news/856080/?utm_campaign=856080&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пообещала удалить Paint 3D из Microsoft Store 4 ноября, хотя сервис до сих пор можно скачать из магазина](https://habr.com/ru/news/856068/?utm_campaign=856068&utm_source=habrahabr&utm_medium=rss)
 - [Названы победители Microsoft Store Awards 2024](https://habr.com/ru/news/856062/?utm_campaign=856062&utm_source=habrahabr&utm_medium=rss)
 - [Для PlayStation 5 Pro улучшат 55 игр](https://habr.com/ru/news/856052/?utm_campaign=856052&utm_source=habrahabr&utm_medium=rss)
-- [Японская компания по выпуску фототехники Tamron переводит часть производства из Китая во Вьетнам](https://habr.com/ru/news/856058/?utm_campaign=856058&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
