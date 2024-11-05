@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains попрощалась со «Stiver» создателем Флибусты](https://habr.com/ru/news/856270/?utm_campaign=856270&utm_source=habrahabr&utm_medium=rss)
 - [Отчёт о методах кибератак на российские компании по данным BI.ZONE](https://habr.com/ru/news/856260/?utm_campaign=856260&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» вывела свои решения для промышленной безопасности на рынок стран Ближнего Востока](https://habr.com/ru/news/856258/?utm_campaign=856258&utm_source=habrahabr&utm_medium=rss)
 - [Обезьяны никогда не напечатают Шекспира, утверждают математики](https://habr.com/ru/news/856218/?utm_campaign=856218&utm_source=habrahabr&utm_medium=rss)
 - [Explyt Spring плагин открыл исходный код](https://habr.com/ru/companies/explyt/news/856242/?utm_campaign=856242&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/856230/?utm_campaign=856230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
