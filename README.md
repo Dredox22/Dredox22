@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple предложила инвестировать $10 млн в производство Индонезии, чтобы снять запрет на продажу iPhone 16](https://habr.com/ru/news/856184/?utm_campaign=856184&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi представила сенсорный дисплей Touch Display 2 за $60](https://habr.com/ru/news/856198/?utm_campaign=856198&utm_source=habrahabr&utm_medium=rss)
+- [Apple предложила инвестировать $10 млн в производство в Индонезии, чтобы снять запрет на продажу iPhone 16](https://habr.com/ru/news/856184/?utm_campaign=856184&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft попросила не открывать в Outlook Classic более 60 писем сразу из-за ошибки «Недостаточно памяти или ресурсов»](https://habr.com/ru/news/856178/?utm_campaign=856178&utm_source=habrahabr&utm_medium=rss)
 - [Schneider Electric подтвердила взлом своей платформы разработки после кражи хакером 40 ГБ данных с сервера Jira компании](https://habr.com/ru/news/856094/?utm_campaign=856094&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PC Manager 3.14 для Windows 10/11 с показом скорости интернета в панели задач и улучшенным алгоритмом чистки диска](https://habr.com/ru/news/856080/?utm_campaign=856080&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пообещала удалить Paint 3D из Microsoft Store 4 ноября, хотя сервис до сих пор можно скачать из магазина](https://habr.com/ru/news/856068/?utm_campaign=856068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
