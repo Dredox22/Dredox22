@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google открывает центр искусственного интеллекта в Саудовской Аравии](https://habr.com/ru/companies/bothub/news/856336/?utm_campaign=856336&utm_source=habrahabr&utm_medium=rss)
+- [Python сместил JavaScript с первого места популярных языков программирования по версии GitHub](https://habr.com/ru/news/856332/?utm_campaign=856332&utm_source=habrahabr&utm_medium=rss)
 - [Последний пользователь онлайн-серверов Nintendo Network продержался в сети 209 дней после отключения поддержки серверов](https://habr.com/ru/news/856304/?utm_campaign=856304&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: форму в «Госуслугах» для регистрации владельцев каналов с 10 тыс. подписчиков в соцсетях заполнили 13 тыс. раз](https://habr.com/ru/news/856286/?utm_campaign=856286&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains попрощалась с «Stiver» создателем Флибусты](https://habr.com/ru/news/856270/?utm_campaign=856270&utm_source=habrahabr&utm_medium=rss)
-- [Отчёт о методах кибератак на российские компании по данным BI.ZONE](https://habr.com/ru/news/856260/?utm_campaign=856260&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» вывела свои решения для промышленной безопасности на рынок стран Ближнего Востока](https://habr.com/ru/news/856258/?utm_campaign=856258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
