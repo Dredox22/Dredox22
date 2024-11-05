@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз открытой ИИ-модели hertz-dev для полнодуплексного голосового общения](https://habr.com/ru/news/856042/?utm_campaign=856042&utm_source=habrahabr&utm_medium=rss)
-- [Релиз среды разработки Tizen Studio 6.0](https://habr.com/ru/news/856040/?utm_campaign=856040&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic повышает цену на свою новую ИИ-модель Claude 3.5 Haiku](https://habr.com/ru/companies/bothub/news/856034/?utm_campaign=856034&utm_source=habrahabr&utm_medium=rss)
-- [Meta* заявила, что модели Llama теперь доступны в проектах, связанных с национальной безопасностью США](https://habr.com/ru/companies/bothub/news/856032/?utm_campaign=856032&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI наняла сооснователя конкурента Twitter](https://habr.com/ru/companies/bothub/news/856030/?utm_campaign=856030&utm_source=habrahabr&utm_medium=rss)
+- [Названы победители Microsoft Store Awards 2024](https://habr.com/ru/news/856062/?utm_campaign=856062&utm_source=habrahabr&utm_medium=rss)
+- [Для PlayStation 5 Pro улучшат 55 игр](https://habr.com/ru/news/856052/?utm_campaign=856052&utm_source=habrahabr&utm_medium=rss)
+- [Японская компания по выпуску фототехники Tamron переводит часть производства из Китая во Вьетнам](https://habr.com/ru/news/856058/?utm_campaign=856058&utm_source=habrahabr&utm_medium=rss)
+- [Nokia начала расследовать инцидент со взломом IT-инфраструктуры. До этого хакер заявил о краже исходного кода компании](https://habr.com/ru/news/856054/?utm_campaign=856054&utm_source=habrahabr&utm_medium=rss)
+- [В России предложили запретить детям до 14 лет доступ в соцсети](https://habr.com/ru/news/856048/?utm_campaign=856048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
