@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН заблокировал ECH [SNI]: пользователи Cloudflare под ударом, что дальше?](https://habr.com/ru/news/856344/?utm_campaign=856344&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор, вероятно, начал блокировать подключение к CloudFlare с использованием TLS ECH &lpar;Encrypted Client Hello&rpar;](https://habr.com/ru/news/856342/?utm_campaign=856342&utm_source=habrahabr&utm_medium=rss)
 - [Google открывает центр искусственного интеллекта в Саудовской Аравии](https://habr.com/ru/companies/bothub/news/856336/?utm_campaign=856336&utm_source=habrahabr&utm_medium=rss)
 - [Python сместил JavaScript с первого места популярных языков программирования по версии GitHub](https://habr.com/ru/news/856332/?utm_campaign=856332&utm_source=habrahabr&utm_medium=rss)
 - [Последний пользователь онлайн-серверов Nintendo Network продержался в сети 209 дней после отключения поддержки серверов](https://habr.com/ru/news/856304/?utm_campaign=856304&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: форму в «Госуслугах» для регистрации владельцев каналов с 10 тыс. подписчиков в соцсетях заполнили 13 тыс. раз](https://habr.com/ru/news/856286/?utm_campaign=856286&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains попрощалась с «Stiver» создателем Флибусты](https://habr.com/ru/news/856270/?utm_campaign=856270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
