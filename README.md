@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google случайно разместила информацию о своем новом ИИ-агенте «Jarvis», который может управлять компьютером](https://habr.com/ru/companies/bothub/news/856630/?utm_campaign=856630&utm_source=habrahabr&utm_medium=rss)
+- [Как победа Трампа повлияет на вопросы регулирования искусственного интеллекта](https://habr.com/ru/companies/bothub/news/856620/?utm_campaign=856620&utm_source=habrahabr&utm_medium=rss)
 - [Компания OpenAI купила домен Chat.com](https://habr.com/ru/companies/bothub/news/856618/?utm_campaign=856618&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на онлайн-хакатон AgroCode Hack Genetics 2024](https://habr.com/ru/companies/rshb/news/856552/?utm_campaign=856552&utm_source=habrahabr&utm_medium=rss)
 - [Релиз утилиты curl 8.11](https://habr.com/ru/news/856562/?utm_campaign=856562&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» оценил долю утекших данных российских пользователей в 90%](https://habr.com/ru/news/856550/?utm_campaign=856550&utm_source=habrahabr&utm_medium=rss)
-- [Часть серверов на Windows Server 2022 автоматически обновились до Windows Server 2025 без необходимой лицензии](https://habr.com/ru/news/856500/?utm_campaign=856500&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
