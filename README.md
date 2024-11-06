@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Часть серверов на Windows Server 2022 автоматически обновились до Windows Server 2025 без необходимой лицензии](https://habr.com/ru/news/856500/?utm_campaign=856500&utm_source=habrahabr&utm_medium=rss)
+- [В Канаде арестовали хакера, которого подозревают в масштабных взломах клиентов Snowflake](https://habr.com/ru/news/856502/?utm_campaign=856502&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: миграция на российское ПО и решения для информационной безопасности](https://habr.com/ru/companies/rshb/news/856492/?utm_campaign=856492&utm_source=habrahabr&utm_medium=rss)
+- [В мобильной версии Stardew Valley появился кооператив, но пока режим скрыт от большинства пользователей](https://habr.com/ru/news/856456/?utm_campaign=856456&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» обнаружила новый троян, который крадёт данные и скрытно майнит криптовалюту](https://habr.com/ru/news/856450/?utm_campaign=856450&utm_source=habrahabr&utm_medium=rss)
-- [Вышел containerd 2.0: первый мажорный релиз проекта за 7 лет](https://habr.com/ru/companies/flant/news/856420/?utm_campaign=856420&utm_source=habrahabr&utm_medium=rss)
-- [Модуль СОРМ в BILLmanager помогает хостинг-провайдерам выполнять требования законодательства в области связи](https://habr.com/ru/companies/ispsystem/news/856418/?utm_campaign=856418&utm_source=habrahabr&utm_medium=rss)
-- [Cбрендили: 80% создаваемых фейковых ресурсов маскируются под известные бренды](https://habr.com/ru/companies/f_a_c_c_t/news/856430/?utm_campaign=856430&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за октябрь 2024 года](https://habr.com/ru/companies/ussc/news/856364/?utm_campaign=856364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
