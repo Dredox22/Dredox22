@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» обнаружила новый троян, который крадёт данные и скрытно майнит криптовалюту](https://habr.com/ru/news/856450/?utm_campaign=856450&utm_source=habrahabr&utm_medium=rss)
+- [Вышел containerd 2.0: первый мажорный релиз проекта за 7 лет](https://habr.com/ru/companies/flant/news/856420/?utm_campaign=856420&utm_source=habrahabr&utm_medium=rss)
+- [Модуль СОРМ в BILLmanager помогает хостинг-провайдерам выполнять требования законодательства в области связи](https://habr.com/ru/companies/ispsystem/news/856418/?utm_campaign=856418&utm_source=habrahabr&utm_medium=rss)
+- [Cбрендили: 80% создаваемых фейковых ресурсов маскируются под известные бренды](https://habr.com/ru/companies/f_a_c_c_t/news/856430/?utm_campaign=856430&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за октябрь 2024 года](https://habr.com/ru/companies/ussc/news/856364/?utm_campaign=856364&utm_source=habrahabr&utm_medium=rss)
-- [Tencent представила Hunyuan-Large — крупнейшую открытую модель с 389 миллиардами параметров](https://habr.com/ru/news/856358/?utm_campaign=856358&utm_source=habrahabr&utm_medium=rss)
-- [Cnews: Роскомнадзор планирует создать в России собственную инфраструктуру для валидации маршрутизации IP-адресов](https://habr.com/ru/news/856354/?utm_campaign=856354&utm_source=habrahabr&utm_medium=rss)
-- [РКН заблокировал ECH [SNI]: пользователи Cloudflare под ударом, что дальше?](https://habr.com/ru/news/856344/?utm_campaign=856344&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор, вероятно, начал блокировать подключение к CloudFlare с использованием TLS ECH &lpar;Encrypted Client Hello&rpar;](https://habr.com/ru/news/856342/?utm_campaign=856342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
