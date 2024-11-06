@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Сбер» оценил долю утекших данных росских пользователей в 90%](https://habr.com/ru/news/856550/?utm_campaign=856550&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» оценил долю утекших данных российских пользователей в 90%](https://habr.com/ru/news/856550/?utm_campaign=856550&utm_source=habrahabr&utm_medium=rss)
 - [Часть серверов на Windows Server 2022 автоматически обновились до Windows Server 2025 без необходимой лицензии](https://habr.com/ru/news/856500/?utm_campaign=856500&utm_source=habrahabr&utm_medium=rss)
 - [В Канаде арестовали хакера, которого подозревают в масштабных взломах клиентов Snowflake](https://habr.com/ru/news/856502/?utm_campaign=856502&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: миграция на российское ПО и решения для информационной безопасности](https://habr.com/ru/companies/rshb/news/856492/?utm_campaign=856492&utm_source=habrahabr&utm_medium=rss)
