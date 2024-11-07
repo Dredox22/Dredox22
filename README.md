@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Абоненты Т2 и «Ростелекома» за три месяца заказали более 650 тыс. проверок утечек персональных данных](https://habr.com/ru/news/856766/?utm_campaign=856766&utm_source=habrahabr&utm_medium=rss)
 - [Российские банки рассказали о наличии легальных клиентов в мошеннической базе ЦБ](https://habr.com/ru/news/856744/?utm_campaign=856744&utm_source=habrahabr&utm_medium=rss)
 - [Предприятие китайской TPV Technology в Шушарах прекратило выпуск телевизоров Sony, Sharp, Philips и других брендов](https://habr.com/ru/news/856736/?utm_campaign=856736&utm_source=habrahabr&utm_medium=rss)
 - [Как обосновать бизнесу затраты на кибер­безопасность](https://habr.com/ru/companies/mws/news/856724/?utm_campaign=856724&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор рекомендует владельцам ресурсов в интернете отказаться от использования CDN-сервиса CloudFlare](https://habr.com/ru/news/856722/?utm_campaign=856722&utm_source=habrahabr&utm_medium=rss)
-- [Опубликовали результаты State of CSS 2024](https://habr.com/ru/news/856714/?utm_campaign=856714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
