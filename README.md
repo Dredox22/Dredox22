@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral запустила API для модерации контента](https://habr.com/ru/companies/bothub/news/856902/?utm_campaign=856902&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic объединяется с Palantir и AWS, чтобы продавать ИИ оборонным заказчикам](https://habr.com/ru/companies/bothub/news/856900/?utm_campaign=856900&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft поделилась решением проблемы зависания Outlook при копировании текста](https://habr.com/ru/news/856874/?utm_campaign=856874&utm_source=habrahabr&utm_medium=rss)
 - [Squadus PRO признан лучшим цифровым рабочим пространством 2024 года](https://habr.com/ru/companies/ncloudtech/news/856848/?utm_campaign=856848&utm_source=habrahabr&utm_medium=rss)
 - [Агент ушёл чёрным ходом: F.A.C.C.T. зафиксировал новых лидеров в почтовых рассылках вредоносного ПО](https://habr.com/ru/companies/f_a_c_c_t/news/856792/?utm_campaign=856792&utm_source=habrahabr&utm_medium=rss)
-- [Функция записи в Steam вышла из стадии бета-тестирования](https://habr.com/ru/news/856770/?utm_campaign=856770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
