@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские банки рассказали о наличии легальных клиентов в мошеннической базе ЦБ](https://habr.com/ru/news/856744/?utm_campaign=856744&utm_source=habrahabr&utm_medium=rss)
+- [Предприятие китайской TPV Technology в Шушарах прекратило выпуск телевизоров Sony, Sharp, Philips и других брендов](https://habr.com/ru/news/856736/?utm_campaign=856736&utm_source=habrahabr&utm_medium=rss)
 - [Как обосновать бизнесу затраты на кибер­безопасность](https://habr.com/ru/companies/mws/news/856724/?utm_campaign=856724&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор рекомендует владельцам ресурсов в интернете отказаться от использования CDN-сервиса CloudFlare](https://habr.com/ru/news/856722/?utm_campaign=856722&utm_source=habrahabr&utm_medium=rss)
 - [Опубликовали результаты State of CSS 2024](https://habr.com/ru/news/856714/?utm_campaign=856714&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила участникам программы Windows Insider новые ИИ-функции для Paint и Notepad](https://habr.com/ru/news/856702/?utm_campaign=856702&utm_source=habrahabr&utm_medium=rss)
-- [Discord: решено, из-за недавних изменений услуги платформы могут быть недоступны в России и Турции](https://habr.com/ru/news/856682/?utm_campaign=856682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
