@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Агент ушёл чёрным ходом: F.A.C.C.T. зафиксировал новых лидеров в почтовых рассылках вредоносного ПО](https://habr.com/ru/companies/f_a_c_c_t/news/856792/?utm_campaign=856792&utm_source=habrahabr&utm_medium=rss)
+- [Функция записи в Steam вышла из стадии бета-тестирования](https://habr.com/ru/news/856770/?utm_campaign=856770&utm_source=habrahabr&utm_medium=rss)
 - [Абоненты Т2 и «Ростелекома» за три месяца заказали более 650 тыс. проверок утечек персональных данных](https://habr.com/ru/news/856766/?utm_campaign=856766&utm_source=habrahabr&utm_medium=rss)
 - [Российские банки рассказали о наличии легальных клиентов в мошеннической базе ЦБ](https://habr.com/ru/news/856744/?utm_campaign=856744&utm_source=habrahabr&utm_medium=rss)
 - [Предприятие китайской TPV Technology в Шушарах прекратило выпуск телевизоров Sony, Sharp, Philips и других брендов](https://habr.com/ru/news/856736/?utm_campaign=856736&utm_source=habrahabr&utm_medium=rss)
-- [Как обосновать бизнесу затраты на кибер­безопасность](https://habr.com/ru/companies/mws/news/856724/?utm_campaign=856724&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор рекомендует владельцам ресурсов в интернете отказаться от использования CDN-сервиса CloudFlare](https://habr.com/ru/news/856722/?utm_campaign=856722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
