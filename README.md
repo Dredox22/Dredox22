@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord: решено, из-за недавних изменений услуги платформы могут быть недоступны в России и Турции](https://habr.com/ru/news/856682/?utm_campaign=856682&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 24H2 показывает чёрный экран на 10 секунд при использовании сочетания клавиш Alt+Tab, есть способ исправить](https://habr.com/ru/news/856676/?utm_campaign=856676&utm_source=habrahabr&utm_medium=rss)
+- [Туристические достопримечательности городов России стали трёхмерными в «Яндекс Картах»](https://habr.com/ru/news/856680/?utm_campaign=856680&utm_source=habrahabr&utm_medium=rss)
 - [В браузере Opera для Android появилась функция распознавания изображений](https://habr.com/ru/news/856668/?utm_campaign=856668&utm_source=habrahabr&utm_medium=rss)
 - [Вышел первый релиз-кандидат GIMP 3.0 &lpar;RC1&rpar; для открытого тестирования](https://habr.com/ru/news/856664/?utm_campaign=856664&utm_source=habrahabr&utm_medium=rss)
-- [Rust Foundation начала обсуждение правил использования товарных знаков, связанных с Rust и пакетным менеджером Cargo](https://habr.com/ru/news/856652/?utm_campaign=856652&utm_source=habrahabr&utm_medium=rss)
-- [Google случайно разместила информацию о своем новом ИИ-агенте «Jarvis», который может управлять компьютером](https://habr.com/ru/companies/bothub/news/856630/?utm_campaign=856630&utm_source=habrahabr&utm_medium=rss)
-- [Как победа Трампа повлияет на вопросы регулирования искусственного интеллекта](https://habr.com/ru/companies/bothub/news/856620/?utm_campaign=856620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
