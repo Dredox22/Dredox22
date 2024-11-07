@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft поделилась решением проблемы зависания Outlook при копировании текста](https://habr.com/ru/news/856874/?utm_campaign=856874&utm_source=habrahabr&utm_medium=rss)
 - [Squadus PRO признан лучшим цифровым рабочим пространством 2024 года](https://habr.com/ru/companies/ncloudtech/news/856848/?utm_campaign=856848&utm_source=habrahabr&utm_medium=rss)
 - [Агент ушёл чёрным ходом: F.A.C.C.T. зафиксировал новых лидеров в почтовых рассылках вредоносного ПО](https://habr.com/ru/companies/f_a_c_c_t/news/856792/?utm_campaign=856792&utm_source=habrahabr&utm_medium=rss)
 - [Функция записи в Steam вышла из стадии бета-тестирования](https://habr.com/ru/news/856770/?utm_campaign=856770&utm_source=habrahabr&utm_medium=rss)
 - [Абоненты Т2 и «Ростелекома» за три месяца заказали более 650 тыс. проверок утечек персональных данных](https://habr.com/ru/news/856766/?utm_campaign=856766&utm_source=habrahabr&utm_medium=rss)
-- [Российские банки рассказали о наличии легальных клиентов в мошеннической базе ЦБ](https://habr.com/ru/news/856744/?utm_campaign=856744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
