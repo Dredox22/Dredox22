@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обосновать бизнесу затраты на кибер­безопасность](https://habr.com/ru/companies/mws/news/856724/?utm_campaign=856724&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор рекомендует владельцам ресурсов в интернете отказаться от использования CDN-сервиса CloudFlare](https://habr.com/ru/news/856722/?utm_campaign=856722&utm_source=habrahabr&utm_medium=rss)
+- [Опубликовали результаты State of CSS 2024](https://habr.com/ru/news/856714/?utm_campaign=856714&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила участникам программы Windows Insider новые ИИ-функции для Paint и Notepad](https://habr.com/ru/news/856702/?utm_campaign=856702&utm_source=habrahabr&utm_medium=rss)
 - [Discord: решено, из-за недавних изменений услуги платформы могут быть недоступны в России и Турции](https://habr.com/ru/news/856682/?utm_campaign=856682&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 24H2 показывает чёрный экран на 10 секунд при использовании сочетания клавиш Alt+Tab, есть способ исправить](https://habr.com/ru/news/856676/?utm_campaign=856676&utm_source=habrahabr&utm_medium=rss)
-- [Туристические достопримечательности городов России стали трёхмерными в «Яндекс Картах»](https://habr.com/ru/news/856680/?utm_campaign=856680&utm_source=habrahabr&utm_medium=rss)
-- [В браузере Opera для Android появилась функция распознавания изображений](https://habr.com/ru/news/856668/?utm_campaign=856668&utm_source=habrahabr&utm_medium=rss)
-- [Вышел первый релиз-кандидат GIMP 3.0 &lpar;RC1&rpar; для открытого тестирования](https://habr.com/ru/news/856664/?utm_campaign=856664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
