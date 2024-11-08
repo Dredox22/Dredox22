@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Фабрика» запустила продажи умных ТВ своего бренда Tuvio с технологиями OLED и Mini-LED и с диагоналями 55&amp;quot; и 65&amp;quot;](https://habr.com/ru/news/856884/?utm_campaign=856884&utm_source=habrahabr&utm_medium=rss)
+- [«VK Видео» запустил новую систему рекомендаций](https://habr.com/ru/news/856970/?utm_campaign=856970&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз v0.18 платформы Cozystack: публичный API server, метрики и логи с тенант-кластеров и другие улучшения](https://habr.com/ru/companies/aenix/news/856694/?utm_campaign=856694&utm_source=habrahabr&utm_medium=rss)
 - [В iRobot пройдёт вторая за год волна увольнений](https://habr.com/ru/news/856954/?utm_campaign=856954&utm_source=habrahabr&utm_medium=rss)
 - [От разработчика из России не приняли Pull Request в Open source проект Spring](https://habr.com/ru/news/856946/?utm_campaign=856946&utm_source=habrahabr&utm_medium=rss)
-- [Kojima Productions объявила о получении всех прав на франшизу Death Stranding](https://habr.com/ru/news/856940/?utm_campaign=856940&utm_source=habrahabr&utm_medium=rss)
-- [«Специалист по информационной безопасности» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/855672/?utm_campaign=855672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
