@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Kojima Productions объявила о получении всех прав на франшизу Death Stranding](https://habr.com/ru/news/856940/?utm_campaign=856940&utm_source=habrahabr&utm_medium=rss)
+- [«Специалист по информационной безопасности» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/855672/?utm_campaign=855672&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обсуждает с ИТ-отраслью РФ создание консорциума для разработки отечественного аналога Android на базе AOSP](https://habr.com/ru/news/856932/?utm_campaign=856932&utm_source=habrahabr&utm_medium=rss)
+- [Liquibase теперь собирает статистику использования](https://habr.com/ru/companies/spring_aio/news/856930/?utm_campaign=856930&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты оценили последствия рекомендации РКН владельцам ресурсов в интернете отказаться от CDN-сервиса CloudFlare](https://habr.com/ru/news/856928/?utm_campaign=856928&utm_source=habrahabr&utm_medium=rss)
-- [Mistral запустила API для модерации контента](https://habr.com/ru/companies/bothub/news/856902/?utm_campaign=856902&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic объединяется с Palantir и AWS, чтобы продавать ИИ оборонным заказчикам](https://habr.com/ru/companies/bothub/news/856900/?utm_campaign=856900&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft поделилась решением проблемы зависания Outlook при копировании текста](https://habr.com/ru/news/856874/?utm_campaign=856874&utm_source=habrahabr&utm_medium=rss)
-- [Squadus PRO признан лучшим цифровым рабочим пространством 2024 года](https://habr.com/ru/companies/ncloudtech/news/856848/?utm_campaign=856848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
