@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая версия СУБД РЕД База Данных 5.0: необходимый компонент безопасных информационных систем](https://habr.com/ru/companies/redsoft/news/857006/?utm_campaign=857006&utm_source=habrahabr&utm_medium=rss)
+- [Готовы вывести свои веб-приложения на новый уровень? Проходите бесплатный курс в Академии Selectel](https://habr.com/ru/companies/selectel/news/856998/?utm_campaign=856998&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Фабрика» запустила продажи умных ТВ своего бренда Tuvio с технологиями OLED и Mini-LED и с диагоналями 55&amp;quot; и 65&amp;quot;](https://habr.com/ru/news/856884/?utm_campaign=856884&utm_source=habrahabr&utm_medium=rss)
 - [«VK Видео» запустил новую систему рекомендаций](https://habr.com/ru/news/856970/?utm_campaign=856970&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз v0.18 платформы Cozystack: публичный API server, метрики и логи с тенант-кластеров и другие улучшения](https://habr.com/ru/companies/aenix/news/856694/?utm_campaign=856694&utm_source=habrahabr&utm_medium=rss)
-- [В iRobot пройдёт вторая за год волна увольнений](https://habr.com/ru/news/856954/?utm_campaign=856954&utm_source=habrahabr&utm_medium=rss)
-- [От разработчика из России не приняли Pull Request в Open source проект Spring](https://habr.com/ru/news/856946/?utm_campaign=856946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
