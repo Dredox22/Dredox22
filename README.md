@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Владельцы iPhone столкнулись с багом после обновления iCloud на iOS 18](https://habr.com/ru/news/857170/?utm_campaign=857170&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта GSmartControl 2.0 — GUI к инструментарию smartmontools для оценки состояния HDD и SSD](https://habr.com/ru/news/857062/?utm_campaign=857062&utm_source=habrahabr&utm_medium=rss)
 - [В поддержке Xbox стал доступен чат-бот для быстрого ответа на вопросы пользователей](https://habr.com/ru/news/857052/?utm_campaign=857052&utm_source=habrahabr&utm_medium=rss)
 - [Хакер утверждает, что забанил «тысячи» игроков Call of Duty, воспользовавшись уязвимостью античит-системы](https://habr.com/ru/news/857046/?utm_campaign=857046&utm_source=habrahabr&utm_medium=rss)
 - [Nokia признала кражу исходного кода приложения, принадлежащего третьей стороне. Данные компании и клиентов не пострадали](https://habr.com/ru/news/857036/?utm_campaign=857036&utm_source=habrahabr&utm_medium=rss)
-- [BlackBerry QNX открыла для бесплатного использования в некоммерческих целях микроядерную ОС реального времени QNX](https://habr.com/ru/news/857034/?utm_campaign=857034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
