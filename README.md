@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел релиз v0.18 платформы Cozystack: публичный API server, метрики и логи с тенант-кластеров и другие улучшения](https://habr.com/ru/companies/aenix/news/856694/?utm_campaign=856694&utm_source=habrahabr&utm_medium=rss)
+- [В iRobot пройдёт вторая за год волна увольнений](https://habr.com/ru/news/856954/?utm_campaign=856954&utm_source=habrahabr&utm_medium=rss)
+- [От разработчика из России не приняли Pull Request в Open source проект Spring](https://habr.com/ru/news/856946/?utm_campaign=856946&utm_source=habrahabr&utm_medium=rss)
 - [Kojima Productions объявила о получении всех прав на франшизу Death Stranding](https://habr.com/ru/news/856940/?utm_campaign=856940&utm_source=habrahabr&utm_medium=rss)
 - [«Специалист по информационной безопасности» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/855672/?utm_campaign=855672&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обсуждает с ИТ-отраслью РФ создание консорциума для разработки отечественного аналога Android на базе AOSP](https://habr.com/ru/news/856932/?utm_campaign=856932&utm_source=habrahabr&utm_medium=rss)
-- [Liquibase теперь собирает статистику использования](https://habr.com/ru/companies/spring_aio/news/856930/?utm_campaign=856930&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты оценили последствия рекомендации РКН владельцам ресурсов в интернете отказаться от CDN-сервиса CloudFlare](https://habr.com/ru/news/856928/?utm_campaign=856928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
