@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Lima 1.0 — инструментария для запуска виртуальных машин с Linux](https://habr.com/ru/news/857304/?utm_campaign=857304&utm_source=habrahabr&utm_medium=rss)
 - [Баг в коде прошивки Cisco позволял хакерам запускать команды с правами root на промышленных точках доступа UWRB](https://habr.com/ru/news/857294/?utm_campaign=857294&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Outlook смогут добавлять произношение имени в карточки профиля со следующего года](https://habr.com/ru/news/857280/?utm_campaign=857280&utm_source=habrahabr&utm_medium=rss)
 - [ФБР: хакеры получают личную информацию пользователей от американских технологических компаний](https://habr.com/ru/news/857274/?utm_campaign=857274&utm_source=habrahabr&utm_medium=rss)
 - [РКН: в РФ в октябре зафиксирована утечка 9,7 млн записей с данными российских пользователей, с начала года — 600 млн](https://habr.com/ru/news/857260/?utm_campaign=857260&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» представил онлайн-тахограф на российской компонентной базе](https://habr.com/ru/news/857254/?utm_campaign=857254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
