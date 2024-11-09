@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компанию OpenAI покинул ещё один специалист по безопасности](https://habr.com/ru/companies/bothub/news/857334/?utm_campaign=857334&utm_source=habrahabr&utm_medium=rss)
 - [«Почта России» предупредила о возможном мошенничестве от имени госкомпании](https://habr.com/ru/news/857326/?utm_campaign=857326&utm_source=habrahabr&utm_medium=rss)
 - [Последняя версия Steam перестала работать на ПК с Windows 7/8/8.1](https://habr.com/ru/news/857324/?utm_campaign=857324&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Lima 1.0 — инструментария для запуска виртуальных машин с Linux](https://habr.com/ru/news/857304/?utm_campaign=857304&utm_source=habrahabr&utm_medium=rss)
 - [Баг в коде прошивки Cisco позволял хакерам запускать команды с правами root на промышленных точках доступа UWRB](https://habr.com/ru/news/857294/?utm_campaign=857294&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Outlook смогут добавлять произношение имени в карточки профиля со следующего года](https://habr.com/ru/news/857280/?utm_campaign=857280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
