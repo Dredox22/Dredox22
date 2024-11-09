@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Outlook смогут добавлять произношение имени в карточки профиля со следующего года](https://habr.com/ru/news/857280/?utm_campaign=857280&utm_source=habrahabr&utm_medium=rss)
+- [ФБР: хакеры получают личную информацию пользователей от американских технологических компаний](https://habr.com/ru/news/857274/?utm_campaign=857274&utm_source=habrahabr&utm_medium=rss)
 - [РКН: в РФ в октябре зафиксирована утечка 9,7 млн записей с данными российских пользователей, с начала года — 600 млн](https://habr.com/ru/news/857260/?utm_campaign=857260&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» представил онлайн-тахограф на российской компонентной базе](https://habr.com/ru/news/857254/?utm_campaign=857254&utm_source=habrahabr&utm_medium=rss)
 - [Sega продала создатели Endless Legend и Humankind](https://habr.com/ru/news/857240/?utm_campaign=857240&utm_source=habrahabr&utm_medium=rss)
-- [D-Link решила не исправлять критическую уязвимость на 60 старых устройствах NAS](https://habr.com/ru/news/857236/?utm_campaign=857236&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-6 Focal](https://habr.com/ru/news/857232/?utm_campaign=857232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
