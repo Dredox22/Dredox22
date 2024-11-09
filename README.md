@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс планирует инвестировать в искусственный интеллект Индонезии](https://habr.com/ru/companies/bothub/news/857218/?utm_campaign=857218&utm_source=habrahabr&utm_medium=rss)
+- [Портрет Алана Тьюринга, созданный роботом, продан за 1 миллион евро](https://habr.com/ru/companies/bothub/news/857216/?utm_campaign=857216&utm_source=habrahabr&utm_medium=rss)
 - [Google выпускает приложение для видеопрезентаций на базе Gemini](https://habr.com/ru/companies/bothub/news/857210/?utm_campaign=857210&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» оптимизировал сервис QMS для измерения скорости интернет-соединения с высокой пропускной способностью](https://habr.com/ru/news/857188/?utm_campaign=857188&utm_source=habrahabr&utm_medium=rss)
 - [Владельцы iPhone столкнулись с багом после обновления iCloud на iOS 18](https://habr.com/ru/news/857170/?utm_campaign=857170&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта GSmartControl 2.0 — GUI к инструментарию smartmontools для оценки состояния HDD и SSD](https://habr.com/ru/news/857062/?utm_campaign=857062&utm_source=habrahabr&utm_medium=rss)
-- [В поддержке Xbox стал доступен чат-бот для быстрого ответа на вопросы пользователей](https://habr.com/ru/news/857052/?utm_campaign=857052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
