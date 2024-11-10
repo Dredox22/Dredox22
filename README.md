@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Siri будет игнорировать команды из рекламы Apple](https://habr.com/ru/news/857360/?utm_campaign=857360&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила проблемы с OpenSSH после установки обновлений KB5044380 и KB5044285 в Windows 11 22H2 и 23H2](https://habr.com/ru/news/857358/?utm_campaign=857358&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Ratarmount 1.0.0 &lpar;Random Access To Archived Resources&rpar; — утилиты для монтирования архивов как файловых систем](https://habr.com/ru/news/857356/?utm_campaign=857356&utm_source=habrahabr&utm_medium=rss)
 - [Компанию OpenAI покинул ещё один специалист по безопасности](https://habr.com/ru/companies/bothub/news/857334/?utm_campaign=857334&utm_source=habrahabr&utm_medium=rss)
 - [«Почта России» предупредила о возможном мошенничестве от имени госкомпании](https://habr.com/ru/news/857326/?utm_campaign=857326&utm_source=habrahabr&utm_medium=rss)
-- [Последняя версия Steam перестала работать на ПК с Windows 7/8/8.1](https://habr.com/ru/news/857324/?utm_campaign=857324&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Lima 1.0 — инструментария для запуска виртуальных машин с Linux](https://habr.com/ru/news/857304/?utm_campaign=857304&utm_source=habrahabr&utm_medium=rss)
-- [Баг в коде прошивки Cisco позволял хакерам запускать команды с правами root на промышленных точках доступа UWRB](https://habr.com/ru/news/857294/?utm_campaign=857294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
