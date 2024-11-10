@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимости в Mazda Connect позволяют устанавливать вредоносное ПО для выполнения произвольного кода с правами root](https://habr.com/ru/news/857446/?utm_campaign=857446&utm_source=habrahabr&utm_medium=rss)
 - [Старые приложения Windows Mail, Calendar и People перестанут работать 31 декабря 2024 года](https://habr.com/ru/news/857366/?utm_campaign=857366&utm_source=habrahabr&utm_medium=rss)
 - [TSMC прекратит выпуск 7-нм чипов для китайских заказчиков](https://habr.com/ru/news/857370/?utm_campaign=857370&utm_source=habrahabr&utm_medium=rss)
 - [Siri будет игнорировать команды из рекламы Apple](https://habr.com/ru/news/857360/?utm_campaign=857360&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила проблемы с OpenSSH после установки обновлений KB5044380 и KB5044285 в Windows 11 22H2 и 23H2](https://habr.com/ru/news/857358/?utm_campaign=857358&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Ratarmount 1.0.0 &lpar;Random Access To Archived Resources&rpar; — утилиты для монтирования архивов как файловых систем](https://habr.com/ru/news/857356/?utm_campaign=857356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
