@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры планирует закрепить государственные тарифы на выплаты за участие «белых хакеров» в Bug Bounty](https://habr.com/ru/news/857502/?utm_campaign=857502&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 добавили кнопку «Поделиться» в меню «Пуск» и на панель задач](https://habr.com/ru/news/857494/?utm_campaign=857494&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo подала в суд на стримера пиратских игр компании до их релиза, использовавшего эмуляторы и утекшие ROM](https://habr.com/ru/news/857492/?utm_campaign=857492&utm_source=habrahabr&utm_medium=rss)
 - [Определены победители международного хакатона «Цифровой прорыв. Сезон: искусственный интеллект» 2024](https://habr.com/ru/news/857484/?utm_campaign=857484&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимости в Mazda Connect позволяют устанавливать вредоносное ПО для выполнения произвольного кода с правами root](https://habr.com/ru/news/857446/?utm_campaign=857446&utm_source=habrahabr&utm_medium=rss)
-- [Старые приложения Windows Mail, Calendar и People перестанут работать 31 декабря 2024 года](https://habr.com/ru/news/857366/?utm_campaign=857366&utm_source=habrahabr&utm_medium=rss)
-- [TSMC прекратит выпуск 7-нм чипов для китайских заказчиков](https://habr.com/ru/news/857370/?utm_campaign=857370&utm_source=habrahabr&utm_medium=rss)
-- [Siri будет игнорировать команды из рекламы Apple](https://habr.com/ru/news/857360/?utm_campaign=857360&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
