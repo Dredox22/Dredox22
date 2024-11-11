@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi представила фирменный USB-хаб за 12 долларов](https://habr.com/ru/news/857512/?utm_campaign=857512&utm_source=habrahabr&utm_medium=rss)
+- [Ошибка с зелёным экраном в WhatsApp делает бета-версию приложения непригодной для использования](https://habr.com/ru/news/857510/?utm_campaign=857510&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует автономное ИИ-приложение Gemini для iPhone](https://habr.com/ru/news/857504/?utm_campaign=857504&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует закрепить государственные тарифы на выплаты за участие «белых хакеров» в Bug Bounty](https://habr.com/ru/news/857502/?utm_campaign=857502&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 добавили кнопку «Поделиться» в меню «Пуск» и на панель задач](https://habr.com/ru/news/857494/?utm_campaign=857494&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo подала в суд на стримера пиратских игр компании до их релиза, использовавшего эмуляторы и утекшие ROM](https://habr.com/ru/news/857492/?utm_campaign=857492&utm_source=habrahabr&utm_medium=rss)
-- [Определены победители международного хакатона «Цифровой прорыв. Сезон: искусственный интеллект» 2024](https://habr.com/ru/news/857484/?utm_campaign=857484&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимости в Mazda Connect позволяют устанавливать вредоносное ПО для выполнения произвольного кода с правами root](https://habr.com/ru/news/857446/?utm_campaign=857446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
