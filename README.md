@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открылась регистрация на хакатон по обнаружению голосовых дипфейков SafeSpeak 2024](https://habr.com/ru/news/857626/?utm_campaign=857626&utm_source=habrahabr&utm_medium=rss)
 - [МТС представило итоги чемпионата True Tech Champ 2024](https://habr.com/ru/news/857592/?utm_campaign=857592&utm_source=habrahabr&utm_medium=rss)
 - [В России сим-карты можно будет купить удалённо](https://habr.com/ru/news/857582/?utm_campaign=857582&utm_source=habrahabr&utm_medium=rss)
 - [Пострадавшим от утечек персональных данных пользователям из РФ предложили платить до 5 тысяч рублей компенсации](https://habr.com/ru/news/857576/?utm_campaign=857576&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг разработает стандарты промышленного софта](https://habr.com/ru/news/857560/?utm_campaign=857560&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар о том, как повысить безопасность в контейнерных средах](https://habr.com/ru/companies/flant/news/857156/?utm_campaign=857156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
