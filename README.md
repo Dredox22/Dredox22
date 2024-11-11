@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [X тестирует бесплатную версию чат-бота Grok](https://habr.com/ru/companies/bothub/news/857762/?utm_campaign=857762&utm_source=habrahabr&utm_medium=rss)
 - [Опубликованы результаты народного голосования среди игр представленных на «Нашы Игры 2024»](https://habr.com/ru/news/857742/?utm_campaign=857742&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo стала владельцем закрытого ранее сайта эмулятора Nintendo Switch с открытым исходным кодом Ryujinx](https://habr.com/ru/news/857706/?utm_campaign=857706&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Элемент» начнёт поставлять компоненты для самолётов SSJ 100 и МС-21](https://habr.com/ru/news/857676/?utm_campaign=857676&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/857658/?utm_campaign=857658&utm_source=habrahabr&utm_medium=rss)
-- [Открылась регистрация на хакатон по обнаружению голосовых дипфейков SafeSpeak 2024](https://habr.com/ru/news/857626/?utm_campaign=857626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
