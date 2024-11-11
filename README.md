@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС представило итоги чемпионата True Tech Champ 2024](https://habr.com/ru/news/857592/?utm_campaign=857592&utm_source=habrahabr&utm_medium=rss)
+- [В России сим-карты можно будет купить удалённо](https://habr.com/ru/news/857582/?utm_campaign=857582&utm_source=habrahabr&utm_medium=rss)
+- [Пострадавшим от утечек персональных данных пользователям из РФ предложили платить до 5 тысяч рублей компенсации](https://habr.com/ru/news/857576/?utm_campaign=857576&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг разработает стандарты промышленного софта](https://habr.com/ru/news/857560/?utm_campaign=857560&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар о том, как повысить безопасность в контейнерных средах](https://habr.com/ru/companies/flant/news/857156/?utm_campaign=857156&utm_source=habrahabr&utm_medium=rss)
-- [Компания AMD продолжает наращивать долю на рынке серверных CPU](https://habr.com/ru/companies/dcmiran/news/857554/?utm_campaign=857554&utm_source=habrahabr&utm_medium=rss)
-- [Заразное приложение: фейки под сотовых операторов, коммунальные платежи и OnlyFans потеснили APK-подделки банков](https://habr.com/ru/companies/f_a_c_c_t/news/857550/?utm_campaign=857550&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала показывать баннеры с рекламой Windows 11 24H2 на ПК с Windows 10 для ускорения миграции](https://habr.com/ru/news/857542/?utm_campaign=857542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
