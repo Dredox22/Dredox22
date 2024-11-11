@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг разработает стандарты промышленного софта](https://habr.com/ru/news/857560/?utm_campaign=857560&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар о том, как повысить безопасность в контейнерных средах](https://habr.com/ru/companies/flant/news/857156/?utm_campaign=857156&utm_source=habrahabr&utm_medium=rss)
+- [Компания AMD продолжает наращивать долю на рынке серверных CPU](https://habr.com/ru/companies/dcmiran/news/857554/?utm_campaign=857554&utm_source=habrahabr&utm_medium=rss)
+- [Заразное приложение: фейки под сотовых операторов, коммунальные платежи и OnlyFans потеснили APK-подделки банков](https://habr.com/ru/companies/f_a_c_c_t/news/857550/?utm_campaign=857550&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала показывать баннеры с рекламой Windows 11 24H2 на ПК с Windows 10 для ускорения миграции](https://habr.com/ru/news/857542/?utm_campaign=857542&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой системы распознавания текста Tesseract 5.5.0](https://habr.com/ru/news/857522/?utm_campaign=857522&utm_source=habrahabr&utm_medium=rss)
-- [Sony прекращает выпуск бесплатного адаптера PlayStation Camera для работы PS VR на PS5](https://habr.com/ru/news/857526/?utm_campaign=857526&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi представила фирменный USB-хаб за 12 долларов](https://habr.com/ru/news/857512/?utm_campaign=857512&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка с зелёным экраном в WhatsApp делает бета-версию приложения непригодной для использования](https://habr.com/ru/news/857510/?utm_campaign=857510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
