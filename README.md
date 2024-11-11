@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начала показывать баннеры с рекламой Windows 11 24H2 на ПК с Windows 10 для ускорения миграции](https://habr.com/ru/news/857542/?utm_campaign=857542&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой системы распознавания текста Tesseract 5.5.0](https://habr.com/ru/news/857522/?utm_campaign=857522&utm_source=habrahabr&utm_medium=rss)
 - [Sony прекращает выпуск бесплатного адаптера PlayStation Camera для работы PS VR на PS5](https://habr.com/ru/news/857526/?utm_campaign=857526&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi представила фирменный USB-хаб за 12 долларов](https://habr.com/ru/news/857512/?utm_campaign=857512&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка с зелёным экраном в WhatsApp делает бета-версию приложения непригодной для использования](https://habr.com/ru/news/857510/?utm_campaign=857510&utm_source=habrahabr&utm_medium=rss)
-- [Google тестирует автономное ИИ-приложение Gemini для iPhone](https://habr.com/ru/news/857504/?utm_campaign=857504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
