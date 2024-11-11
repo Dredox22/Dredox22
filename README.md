@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытой системы распознавания текста Tesseract 5.5.0](https://habr.com/ru/news/857522/?utm_campaign=857522&utm_source=habrahabr&utm_medium=rss)
+- [Sony прекращает выпуск бесплатного адаптера PlayStation Camera для работы PS VR на PS5](https://habr.com/ru/news/857526/?utm_campaign=857526&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi представила фирменный USB-хаб за 12 долларов](https://habr.com/ru/news/857512/?utm_campaign=857512&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка с зелёным экраном в WhatsApp делает бета-версию приложения непригодной для использования](https://habr.com/ru/news/857510/?utm_campaign=857510&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует автономное ИИ-приложение Gemini для iPhone](https://habr.com/ru/news/857504/?utm_campaign=857504&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует закрепить государственные тарифы на выплаты за участие «белых хакеров» в Bug Bounty](https://habr.com/ru/news/857502/?utm_campaign=857502&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 добавили кнопку «Поделиться» в меню «Пуск» и на панель задач](https://habr.com/ru/news/857494/?utm_campaign=857494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
