@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Элемент» начнёт поставлять компоненты для самолётов SSJ 100 и МС-21](https://habr.com/ru/news/857676/?utm_campaign=857676&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/857658/?utm_campaign=857658&utm_source=habrahabr&utm_medium=rss)
 - [Открылась регистрация на хакатон по обнаружению голосовых дипфейков SafeSpeak 2024](https://habr.com/ru/news/857626/?utm_campaign=857626&utm_source=habrahabr&utm_medium=rss)
 - [МТС представило итоги чемпионата True Tech Champ 2024](https://habr.com/ru/news/857592/?utm_campaign=857592&utm_source=habrahabr&utm_medium=rss)
 - [В России сим-карты можно будет купить удалённо](https://habr.com/ru/news/857582/?utm_campaign=857582&utm_source=habrahabr&utm_medium=rss)
-- [Пострадавшим от утечек персональных данных пользователям из РФ предложили платить до 5 тысяч рублей компенсации](https://habr.com/ru/news/857576/?utm_campaign=857576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
