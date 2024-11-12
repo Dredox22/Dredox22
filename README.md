@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft пытается решить проблему с приложением OneDrive, которое мешает работать системным инструментам macOS](https://habr.com/ru/news/857970/?utm_campaign=857970&utm_source=habrahabr&utm_medium=rss)
 - [В Android 16 можно будет выбирать устройство ввода звука для записи](https://habr.com/ru/news/857946/?utm_campaign=857946&utm_source=habrahabr&utm_medium=rss)
 - [Usetech FronTalk #3: Bun — всё ещё экзотика или уже можно?](https://habr.com/ru/companies/usetech/news/857944/?utm_campaign=857944&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи iPhone теперь могут делиться местоположением потерянной вещи с трекером AirTag](https://habr.com/ru/news/857938/?utm_campaign=857938&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind открыла исходные коды ИИ-системы моделирования структуры белков AlphaFold 3](https://habr.com/ru/news/857936/?utm_campaign=857936&utm_source=habrahabr&utm_medium=rss)
-- [AI copilot программист приличного уровня теперь оффлайн — Qwen 2.5.1 Coder 7B](https://habr.com/ru/news/857930/?utm_campaign=857930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
