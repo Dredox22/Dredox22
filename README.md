@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: часть Windows Server 2019/2022 обновились до Server 2025 из-за ошибки в настройках сторонних инструментов](https://habr.com/ru/news/857798/?utm_campaign=857798&utm_source=habrahabr&utm_medium=rss)
 - [VMware Fusion и Workstation стали бесплатны для всех пользователей](https://habr.com/ru/news/857792/?utm_campaign=857792&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-стартап 11x привлек 50 миллионов долларов](https://habr.com/ru/companies/bothub/news/857772/?utm_campaign=857772&utm_source=habrahabr&utm_medium=rss)
 - [Tencent выпустила Hunyuan3D — нейросеть для генерации 3D-моделей](https://habr.com/ru/news/857768/?utm_campaign=857768&utm_source=habrahabr&utm_medium=rss)
 - [Американцы призывают Дональда Трампа назначить Илона Маска своим советником по искусственному интеллекту](https://habr.com/ru/companies/bothub/news/857766/?utm_campaign=857766&utm_source=habrahabr&utm_medium=rss)
-- [X тестирует бесплатную версию чат-бота Grok](https://habr.com/ru/companies/bothub/news/857762/?utm_campaign=857762&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
