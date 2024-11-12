@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил «Станцию Мини 3» c LED-экраном](https://habr.com/ru/news/857794/?utm_campaign=857794&utm_source=habrahabr&utm_medium=rss)
+- [YADRO и Orion soft подтвердили возможность создавать Persistent Storage в контейнерных средах на базе реестровых решений](https://habr.com/ru/companies/orion_soft/news/857832/?utm_campaign=857832&utm_source=habrahabr&utm_medium=rss)
 - [Компания 1X показала работу реалистичного робота NEO на кухне с шеф-поваром](https://habr.com/ru/news/857816/?utm_campaign=857816&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Memtest86+ v7.20](https://habr.com/ru/news/857824/?utm_campaign=857824&utm_source=habrahabr&utm_medium=rss)
 - [Amazon подтвердила утечку данных сотрудников после взлома стороннего поставщика услуг компании](https://habr.com/ru/news/857820/?utm_campaign=857820&utm_source=habrahabr&utm_medium=rss)
-- [Полицейские в США столкнулись с трудностями при взломе изъятых iPhone из-за новой функции безопасности в iOS 18](https://habr.com/ru/news/857818/?utm_campaign=857818&utm_source=habrahabr&utm_medium=rss)
-- [Исследование MIT: генеративный ИИ не понимает устройство мира](https://habr.com/ru/news/857808/?utm_campaign=857808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
