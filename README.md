@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление Ankey ASAP с интеграцией с Luxms BI](https://habr.com/ru/companies/luxms_bi/news/857884/?utm_campaign=857884&utm_source=habrahabr&utm_medium=rss)
-- [16 октября СВД ВС провела конференцию «Встраиваемые системы реального времени»](https://habr.com/ru/companies/swd_es/news/857120/?utm_campaign=857120&utm_source=habrahabr&utm_medium=rss)
-- [За 2024 год операторы связи увеличили долю использования технологии 4G до 96%](https://habr.com/ru/news/857864/?utm_campaign=857864&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил «Станцию Мини 3» c LED-экраном](https://habr.com/ru/news/857794/?utm_campaign=857794&utm_source=habrahabr&utm_medium=rss)
-- [YADRO и Orion soft подтвердили возможность создавать Persistent Storage в контейнерных средах на базе реестровых решений](https://habr.com/ru/companies/orion_soft/news/857832/?utm_campaign=857832&utm_source=habrahabr&utm_medium=rss)
+- [В Android 16 можно будет выбирать устройство ввода звука для записи](https://habr.com/ru/news/857946/?utm_campaign=857946&utm_source=habrahabr&utm_medium=rss)
+- [Usetech FronTalk #3: Bun — всё ещё экзотика или уже можно?](https://habr.com/ru/companies/usetech/news/857944/?utm_campaign=857944&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи iPhone теперь могут делиться местоположением потерянной вещи с трекером AirTag](https://habr.com/ru/news/857938/?utm_campaign=857938&utm_source=habrahabr&utm_medium=rss)
+- [Google DeepMind открыла исходные коды ИИ-системы моделирования структуры белков AlphaFold 3](https://habr.com/ru/news/857936/?utm_campaign=857936&utm_source=habrahabr&utm_medium=rss)
+- [AI copilot программист приличного уровня теперь оффлайн — Qwen 2.5.1 Coder 7B](https://habr.com/ru/news/857930/?utm_campaign=857930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
