@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: VK планирует закрыть проект производства умных колонок «Капсула» с голосовым ассистентом «Маруся»](https://habr.com/ru/news/858090/?utm_campaign=858090&utm_source=habrahabr&utm_medium=rss)
 - [Вышла MoonShine 3 beta.2!](https://habr.com/ru/news/858062/?utm_campaign=858062&utm_source=habrahabr&utm_medium=rss)
 - [Почтовые ящики «Яндекса» взломали через платформу рассылки SMS](https://habr.com/ru/news/858058/?utm_campaign=858058&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры атаковали российскую платформу по управлению рассылками «Раппорто»](https://habr.com/ru/news/858046/?utm_campaign=858046&utm_source=habrahabr&utm_medium=rss)
 - [Ноябрьский рейтинг TIOBE: Go снова занял седьмое место, после долгого перерыва](https://habr.com/ru/news/858028/?utm_campaign=858028&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пытается решить проблему с приложением OneDrive, которое мешает работать системным инструментам macOS](https://habr.com/ru/news/857970/?utm_campaign=857970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
