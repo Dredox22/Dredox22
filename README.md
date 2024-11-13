@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление для Android упростит вход в общедоступные сети Wi-Fi](https://habr.com/ru/news/858206/?utm_campaign=858206&utm_source=habrahabr&utm_medium=rss)
+- [Функция «Улучшенная защита» в Chrome теперь использует ИИ](https://habr.com/ru/news/858200/?utm_campaign=858200&utm_source=habrahabr&utm_medium=rss)
+- [Баг в Windows 11 23H2 приводит к появлению оповещения «достигнут конец срока службы, получите более новую версию»](https://habr.com/ru/news/858210/?utm_campaign=858210&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует функцию Smart Resume для Play Store для управления загрузками](https://habr.com/ru/news/858194/?utm_campaign=858194&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила баги с BSOD в Windows Server 2025 и проблемы с установкой](https://habr.com/ru/news/858188/?utm_campaign=858188&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила открытый проект гипервизора для изоляции отдельных функций в приложениях Hyperlight](https://habr.com/ru/news/858190/?utm_campaign=858190&utm_source=habrahabr&utm_medium=rss)
-- [Умелец создал голосового ассистента на базе Raspberry Pi и ChatGPT](https://habr.com/ru/news/858162/?utm_campaign=858162&utm_source=habrahabr&utm_medium=rss)
-- [МВД РФ столкнулось с невозможностью замены серверов на отечественных процессорах](https://habr.com/ru/news/858142/?utm_campaign=858142&utm_source=habrahabr&utm_medium=rss)
-- [Куда летят Telegramы: угонщики аккаунтов в мессенджерах могут зарабатывать до 2 500 000 рублей в месяц](https://habr.com/ru/companies/f_a_c_c_t/news/858128/?utm_campaign=858128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
