@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Умелец создал голосового ассистента на базе Raspberry Pi и ChatGPT](https://habr.com/ru/news/858162/?utm_campaign=858162&utm_source=habrahabr&utm_medium=rss)
 - [МВД РФ столкнулось с невозможностью замены серверов на отечественных процессорах](https://habr.com/ru/news/858142/?utm_campaign=858142&utm_source=habrahabr&utm_medium=rss)
 - [Куда летят Telegramы: угонщики аккаунтов в мессенджерах могут зарабатывать до 2 500 000 рублей в месяц](https://habr.com/ru/companies/f_a_c_c_t/news/858128/?utm_campaign=858128&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс запустит нейросетевого помощника для школьников и платформу для студентов](https://habr.com/ru/companies/yandex/news/858122/?utm_campaign=858122&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запускает нейросетевых чат-ботов для школьников, студентов и преподавателей](https://habr.com/ru/news/858098/?utm_campaign=858098&utm_source=habrahabr&utm_medium=rss)
-- [Red Hat приобрела компанию Neural Magic для поддержки ИИ с открытым исходным кодом](https://habr.com/ru/news/858100/?utm_campaign=858100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
