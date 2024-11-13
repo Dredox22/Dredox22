@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сооснователь OpenAI Грег Брокман вернулся в OpenAI](https://habr.com/ru/companies/bothub/news/858342/?utm_campaign=858342&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» и Третьяковская галерея открыли приём заявок в арт-лабораторию «Человек и нейросети: кто кого создаёт?»](https://habr.com/ru/news/858312/?utm_campaign=858312&utm_source=habrahabr&utm_medium=rss)
 - [В Signal обновили групповые звонки: ссылки-приглашения, реакции и отдельная вкладка с историей звонков](https://habr.com/ru/news/858296/?utm_campaign=858296&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры начали использовать тактику объединения ZIP-файлов, чтобы избежать обнаружения системами ИБ в Windows](https://habr.com/ru/news/858288/?utm_campaign=858288&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила о первом повышении цен на Power BI за 10 лет](https://habr.com/ru/news/858282/?utm_campaign=858282&utm_source=habrahabr&utm_medium=rss)
-- [Дочка «Ростелекома» компания «РТК ИТ Плюс» представила российскую no-code платформу «Акола»](https://habr.com/ru/news/858230/?utm_campaign=858230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
