@@ -72,7 +72,7 @@
 - [Вышла MoonShine 3 beta.2!](https://habr.com/ru/news/858062/?utm_campaign=858062&utm_source=habrahabr&utm_medium=rss)
 - [Почтовые ящики «Яндекса» взломали через платформу рассылки SMS](https://habr.com/ru/news/858058/?utm_campaign=858058&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры атаковали российскую платформу по управлению рассылками «Раппорто»](https://habr.com/ru/news/858046/?utm_campaign=858046&utm_source=habrahabr&utm_medium=rss)
-- [Ноябрьский рейтинг TIOBE: Go снова занял седьмое место, после долгого перерыва](https://habr.com/ru/news/858028/?utm_campaign=858028&utm_source=habrahabr&utm_medium=rss)
+- [Ноябрьский рейтинг TIOBE: Go снова занял седьмое место после долгого перерыва](https://habr.com/ru/news/858028/?utm_campaign=858028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
