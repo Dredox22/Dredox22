@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google ускорила Android эмулятор и повысила его стабильность](https://habr.com/ru/news/858364/?utm_campaign=858364&utm_source=habrahabr&utm_medium=rss)
+- [Postgres Professional выпустила новую версию Postgres Pro Standard 17.0.1](https://habr.com/ru/news/858360/?utm_campaign=858360&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE рассказала об обеспечении мониторинга IT-инфраструктуры на министерской конференции Россия — Африка](https://habr.com/ru/news/858356/?utm_campaign=858356&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь OpenAI Грег Брокман вернулся в OpenAI](https://habr.com/ru/companies/bothub/news/858342/?utm_campaign=858342&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» и Третьяковская галерея открыли приём заявок в арт-лабораторию «Человек и нейросети: кто кого создаёт?»](https://habr.com/ru/news/858312/?utm_campaign=858312&utm_source=habrahabr&utm_medium=rss)
-- [В Signal обновили групповые звонки: ссылки-приглашения, реакции и отдельная вкладка с историей звонков](https://habr.com/ru/news/858296/?utm_campaign=858296&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали использовать тактику объединения ZIP-файлов, чтобы избежать обнаружения системами ИБ в Windows](https://habr.com/ru/news/858288/?utm_campaign=858288&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объявила о первом повышении цен на Power BI за 10 лет](https://habr.com/ru/news/858282/?utm_campaign=858282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
