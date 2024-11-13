@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дочка «Ростелекома» компания «РТК ИТ Плюс» представила российскую no-code платформу «Акола»](https://habr.com/ru/news/858230/?utm_campaign=858230&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» купит 50% новосибирского производителя телеком-оборудования «Файбертрейд»](https://habr.com/ru/news/858238/?utm_campaign=858238&utm_source=habrahabr&utm_medium=rss)
+- [Tencent предоставила пользователям в Китае доступ к играм Android в Microsoft Store на Windows 11](https://habr.com/ru/news/858208/?utm_campaign=858208&utm_source=habrahabr&utm_medium=rss)
+- [Первое сравнение AI Copilotов — Arena результаты 10000 голосов](https://habr.com/ru/news/858228/?utm_campaign=858228&utm_source=habrahabr&utm_medium=rss)
 - [Обновление для Android упростит вход в общедоступные сети Wi-Fi](https://habr.com/ru/news/858206/?utm_campaign=858206&utm_source=habrahabr&utm_medium=rss)
-- [Функция «Улучшенная защита» в Chrome теперь использует ИИ](https://habr.com/ru/news/858200/?utm_campaign=858200&utm_source=habrahabr&utm_medium=rss)
-- [Баг в Windows 11 23H2 приводит к появлению оповещения «достигнут конец срока службы, получите более новую версию»](https://habr.com/ru/news/858210/?utm_campaign=858210&utm_source=habrahabr&utm_medium=rss)
-- [Google тестирует функцию Smart Resume для Play Store для управления загрузками](https://habr.com/ru/news/858194/?utm_campaign=858194&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила баги с BSOD в Windows Server 2025 и проблемы с установкой](https://habr.com/ru/news/858188/?utm_campaign=858188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
