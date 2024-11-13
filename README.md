@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры начали использовать тактику объединения ZIP-файлов, чтобы избежать обнаружения системами ИБ в Windows](https://habr.com/ru/news/858288/?utm_campaign=858288&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft объявила о первом повышении цен на Power BI за 10 лет](https://habr.com/ru/news/858282/?utm_campaign=858282&utm_source=habrahabr&utm_medium=rss)
 - [Дочка «Ростелекома» компания «РТК ИТ Плюс» представила российскую no-code платформу «Акола»](https://habr.com/ru/news/858230/?utm_campaign=858230&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» купит 50% новосибирского производителя телеком-оборудования «Файбертрейд»](https://habr.com/ru/news/858238/?utm_campaign=858238&utm_source=habrahabr&utm_medium=rss)
 - [Tencent предоставила пользователям в Китае доступ к играм Android в Microsoft Store на Windows 11](https://habr.com/ru/news/858208/?utm_campaign=858208&utm_source=habrahabr&utm_medium=rss)
-- [Обновление для Android упростит вход в общедоступные сети Wi-Fi](https://habr.com/ru/news/858206/?utm_campaign=858206&utm_source=habrahabr&utm_medium=rss)
-- [Функция «Улучшенная защита» в Chrome теперь использует ИИ](https://habr.com/ru/news/858200/?utm_campaign=858200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
