@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Осеннее обострение: прогосударственные хакерские группы атакуют российские предприятия, связанные с СВО](https://habr.com/ru/companies/f_a_c_c_t/news/858532/?utm_campaign=858532&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Epoch AI представили набор математических задач, которые не могут решить нейросети](https://habr.com/ru/news/858514/?utm_campaign=858514&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI, Google и Anthropic столкнулись с проблемами при создании более сложных моделей](https://habr.com/ru/news/858500/?utm_campaign=858500&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Jaeger v2: OpenTelemetry в основе для нового уровня трассировки](https://habr.com/ru/companies/flant/news/858494/?utm_campaign=858494&utm_source=habrahabr&utm_medium=rss)
 - [Supermaven и Cursor объединились ради конкуренции с GitHub Copilot](https://habr.com/ru/news/858484/?utm_campaign=858484&utm_source=habrahabr&utm_medium=rss)
-- [Российские госкомпании продолжают закупать продукцию Microsoft](https://habr.com/ru/news/858478/?utm_campaign=858478&utm_source=habrahabr&utm_medium=rss)
-- [Вышла TypeScript-библиотека для распознавания изображений с помощью нейросети Llama Vision](https://habr.com/ru/news/858476/?utm_campaign=858476&utm_source=habrahabr&utm_medium=rss)
-- [Micron представила первый в мире твердотельный накопитель PCIe Gen 5 ёмкостью 60 ТБ](https://habr.com/ru/news/858450/?utm_campaign=858450&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики VS Code представили Copilot Edits — режим работы GitHub Copilot с несколькими файлами](https://habr.com/ru/news/858452/?utm_campaign=858452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
