@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Supermaven и Cursor объединились ради конкуренции с GitHub Copilot](https://habr.com/ru/news/858484/?utm_campaign=858484&utm_source=habrahabr&utm_medium=rss)
+- [Российские госкомпании продолжают закупать продукцию Microsoft](https://habr.com/ru/news/858478/?utm_campaign=858478&utm_source=habrahabr&utm_medium=rss)
+- [Вышла TypeScript-библиотека для распознавания изображений с помощью нейросети Llama Vision](https://habr.com/ru/news/858476/?utm_campaign=858476&utm_source=habrahabr&utm_medium=rss)
 - [Micron представила первый в мире твердотельный накопитель PCIe Gen 5 ёмкостью 60 ТБ](https://habr.com/ru/news/858450/?utm_campaign=858450&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики VS Code представили Copilot Edits — режим работы GitHub Copilot с несколькими файлами](https://habr.com/ru/news/858452/?utm_campaign=858452&utm_source=habrahabr&utm_medium=rss)
-- [Популярный техноблогер протестировал AI-программистов и пришел к неожиданным выводам](https://habr.com/ru/companies/lanit/news/858280/?utm_campaign=858280&utm_source=habrahabr&utm_medium=rss)
-- [Запустили голосование за фичи, которые появятся в продуктах ISPsystem](https://habr.com/ru/companies/ispsystem/news/858316/?utm_campaign=858316&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 24H2 остался доступ к Центру уведомлений Windows 10](https://habr.com/ru/news/858440/?utm_campaign=858440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
