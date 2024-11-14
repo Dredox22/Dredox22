@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи РФ жалуются на сбой в работе Telegram](https://habr.com/ru/news/858406/?utm_campaign=858406&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 вскоре сможет определять, сколько энергии потребляет ПК](https://habr.com/ru/news/858380/?utm_campaign=858380&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила TinyTroupe — библиотеку для моделирования поведения людей](https://habr.com/ru/news/858370/?utm_campaign=858370&utm_source=habrahabr&utm_medium=rss)
 - [Google ускорила Android эмулятор и повысила его стабильность](https://habr.com/ru/news/858364/?utm_campaign=858364&utm_source=habrahabr&utm_medium=rss)
 - [Postgres Professional выпустила новую версию Postgres Pro Standard 17.0.1](https://habr.com/ru/news/858360/?utm_campaign=858360&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь OpenAI Грег Брокман вернулся в OpenAI](https://habr.com/ru/companies/bothub/news/858342/?utm_campaign=858342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
