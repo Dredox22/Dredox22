@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD уволит 4% сотрудников по всему миру](https://habr.com/ru/news/858432/?utm_campaign=858432&utm_source=habrahabr&utm_medium=rss)
+- [Apple обновила Logic Pro новыми звуками и функциями поиска](https://habr.com/ru/news/858430/?utm_campaign=858430&utm_source=habrahabr&utm_medium=rss)
+- [РКН запатентовал систему мониторинга интернета «Вепрь» на базе Ubuntu 20.04, проект написан на Python 3.7 и Go 1.17](https://habr.com/ru/news/858428/?utm_campaign=858428&utm_source=habrahabr&utm_medium=rss)
 - [Blizzard выпустила ремастеры Warcraft I и Warcraft II](https://habr.com/ru/news/858414/?utm_campaign=858414&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи РФ столкнулись со сбоем в работе Telegram](https://habr.com/ru/news/858406/?utm_campaign=858406&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 вскоре сможет определять, сколько энергии потребляет ПК](https://habr.com/ru/news/858380/?utm_campaign=858380&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила TinyTroupe — библиотеку для моделирования поведения людей](https://habr.com/ru/news/858370/?utm_campaign=858370&utm_source=habrahabr&utm_medium=rss)
-- [Google ускорила Android эмулятор и повысила его стабильность](https://habr.com/ru/news/858364/?utm_campaign=858364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
