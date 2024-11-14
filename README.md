@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD уволит 4% сотрудников по всему миру](https://habr.com/ru/news/858432/?utm_campaign=858432&utm_source=habrahabr&utm_medium=rss)
-- [Apple обновила Logic Pro новыми звуками и функциями поиска](https://habr.com/ru/news/858430/?utm_campaign=858430&utm_source=habrahabr&utm_medium=rss)
-- [РКН запатентовал систему мониторинга интернета «Вепрь» на базе Ubuntu 20.04, проект написан на Python 3.7 и Go 1.17](https://habr.com/ru/news/858428/?utm_campaign=858428&utm_source=habrahabr&utm_medium=rss)
-- [Blizzard выпустила ремастеры Warcraft I и Warcraft II](https://habr.com/ru/news/858414/?utm_campaign=858414&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи РФ столкнулись со сбоем в работе Telegram](https://habr.com/ru/news/858406/?utm_campaign=858406&utm_source=habrahabr&utm_medium=rss)
+- [Micron представила первый в мире твердотельный накопитель PCIe Gen 5 ёмкостью 60 ТБ](https://habr.com/ru/news/858450/?utm_campaign=858450&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики VS Code представили Copilot Edits — режим работы GitHub Copilot с несколькими файлами](https://habr.com/ru/news/858452/?utm_campaign=858452&utm_source=habrahabr&utm_medium=rss)
+- [Популярный техноблогер протестировал AI-программистов и пришел к неожиданным выводам](https://habr.com/ru/companies/lanit/news/858280/?utm_campaign=858280&utm_source=habrahabr&utm_medium=rss)
+- [Запустили голосование за фичи, которые появятся в продуктах ISPsystem](https://habr.com/ru/companies/ispsystem/news/858316/?utm_campaign=858316&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 24H2 остался доступ к Центру уведомлений Windows 10](https://habr.com/ru/news/858440/?utm_campaign=858440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
