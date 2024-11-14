@@ -72,7 +72,7 @@
 - [Microsoft представила TinyTroupe — библиотеку для моделирования поведения людей](https://habr.com/ru/news/858370/?utm_campaign=858370&utm_source=habrahabr&utm_medium=rss)
 - [Google ускорила Android эмулятор и повысила его стабильность](https://habr.com/ru/news/858364/?utm_campaign=858364&utm_source=habrahabr&utm_medium=rss)
 - [Postgres Professional выпустила новую версию Postgres Pro Standard 17.0.1](https://habr.com/ru/news/858360/?utm_campaign=858360&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE рассказала об обеспечении мониторинга IT-инфраструктуры на министерской конференции Россия — Африка](https://habr.com/ru/news/858356/?utm_campaign=858356&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователь OpenAI Грег Брокман вернулся в OpenAI](https://habr.com/ru/companies/bothub/news/858342/?utm_campaign=858342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
