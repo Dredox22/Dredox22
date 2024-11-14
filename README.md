@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс зовёт на Ночь опенсорс-библиотек](https://habr.com/ru/companies/yandex/news/858294/?utm_campaign=858294&utm_source=habrahabr&utm_medium=rss)
+- [Standoff 14: в ноябре на крупнейшей кибербитве сразятся сотни белых хакеров со всего мира](https://habr.com/ru/companies/pt/news/858564/?utm_campaign=858564&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть Google Gemini вежливо пожелала умереть пользователю после множества запросов по выполнению домашнего задания](https://habr.com/ru/news/858560/?utm_campaign=858560&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила .NET 9 с тысячами улучшений](https://habr.com/ru/news/858550/?utm_campaign=858550&utm_source=habrahabr&utm_medium=rss)
 - [Осеннее обострение: прогосударственные хакерские группы атакуют российские предприятия, связанные с СВО](https://habr.com/ru/companies/f_a_c_c_t/news/858532/?utm_campaign=858532&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Epoch AI представили набор математических задач, которые не могут решить нейросети](https://habr.com/ru/news/858514/?utm_campaign=858514&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI, Google и Anthropic столкнулись с проблемами при создании более сложных моделей](https://habr.com/ru/news/858500/?utm_campaign=858500&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Jaeger v2: OpenTelemetry в основе для нового уровня трассировки](https://habr.com/ru/companies/flant/news/858494/?utm_campaign=858494&utm_source=habrahabr&utm_medium=rss)
-- [Supermaven и Cursor объединились ради конкуренции с GitHub Copilot](https://habr.com/ru/news/858484/?utm_campaign=858484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
