@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор: учения по проверке работы интернета не затронут сегмент доступа в сеть российских пользователей](https://habr.com/ru/news/858658/?utm_campaign=858658&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» и ICL Services связали подразделения ДГТУ с помощью российского софта](https://habr.com/ru/companies/icl_group/news/858656/?utm_campaign=858656&utm_source=habrahabr&utm_medium=rss)
+- [Рейтинг BI-систем: Luxms BI в топе](https://habr.com/ru/companies/luxms_bi/news/858652/?utm_campaign=858652&utm_source=habrahabr&utm_medium=rss)
 - [VK впервые проведёт конференцию по практической кибербезопасности](https://habr.com/ru/news/858624/?utm_campaign=858624&utm_source=habrahabr&utm_medium=rss)
 - [В сети нашли базы рекрутинговой IT-компании Alltech Consulting Services с данными 216 тыс. соискателей](https://habr.com/ru/news/858618/?utm_campaign=858618&utm_source=habrahabr&utm_medium=rss)
-- [Как подготовить и внедрить большие языковые модели](https://habr.com/ru/companies/mws/news/858614/?utm_campaign=858614&utm_source=habrahabr&utm_medium=rss)
-- [В декабре 2024 года ожидаются учения по «выключению международного интернета» в РФ](https://habr.com/ru/news/858608/?utm_campaign=858608&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ремейка Resident Evil 2 для устройств Apple перенесли на 10 декабря](https://habr.com/ru/news/858572/?utm_campaign=858572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
