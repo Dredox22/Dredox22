@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Росэлектроника» начала поставки кабелей нового поколения для мобильной спецсвязи](https://habr.com/ru/news/858918/?utm_campaign=858918&utm_source=habrahabr&utm_medium=rss)
+- [Ai4Dev опубликовал рейтинг лучших LLM копайлотов для программирования](https://habr.com/ru/companies/lanit/news/858912/?utm_campaign=858912&utm_source=habrahabr&utm_medium=rss)
+- [РКН: GlobalCheck не проверяет качество работы сервиса, изменений в качестве работы видеосервиса YouTube не наблюдается](https://habr.com/ru/news/858908/?utm_campaign=858908&utm_source=habrahabr&utm_medium=rss)
+- [Собственный сервер Selectel, Inference-платформа, сертифицированный WAF и другие обновления октября](https://habr.com/ru/companies/selectel/news/858892/?utm_campaign=858892&utm_source=habrahabr&utm_medium=rss)
 - [Британский оператор O2 запустил нейробабушку, которая перехватывает звонки мошенников и заговаривает их](https://habr.com/ru/news/858848/?utm_campaign=858848&utm_source=habrahabr&utm_medium=rss)
-- [Запущена облачная платформа, которая ускоряет процесс автотестов в 8 раз](https://habr.com/ru/companies/avito/news/858850/?utm_campaign=858850&utm_source=habrahabr&utm_medium=rss)
-- [Кибератаки на фермы могут привести к смерти животных](https://habr.com/ru/companies/rshb/news/858842/?utm_campaign=858842&utm_source=habrahabr&utm_medium=rss)
-- [Red Hat передаёт свои разработки в CNCF: Podman, Buildah и Skopeo](https://habr.com/ru/companies/flant/news/858840/?utm_campaign=858840&utm_source=habrahabr&utm_medium=rss)
-- [Обновление JetBrains AI Assistant: поддержка Gemini и улучшенное дополнение кода](https://habr.com/ru/news/858834/?utm_campaign=858834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
