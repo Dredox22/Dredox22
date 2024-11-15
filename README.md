@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз системы мониторинга с открытым исходным кодом Prometheus 3.0](https://habr.com/ru/news/858754/?utm_campaign=858754&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект по воссозданию классической среды разработки Visual Basic 6 с использованием Avalonia](https://habr.com/ru/news/858750/?utm_campaign=858750&utm_source=habrahabr&utm_medium=rss)
+- [Приложение ChatGPT для ПК на Windows теперь доступно всем пользователям](https://habr.com/ru/news/858748/?utm_campaign=858748&utm_source=habrahabr&utm_medium=rss)
 - [«Целимся в то, чтобы клиент приходил покупать продукты, а мы ему ещё и доплачивали»](https://habr.com/ru/companies/X5Tech/news/858696/?utm_campaign=858696&utm_source=habrahabr&utm_medium=rss)
 - [Проект Debian Junior представил Live-сборку дистрибутива Debian GNU/Linux для детей до 12 лет](https://habr.com/ru/news/858694/?utm_campaign=858694&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: учения по проверке работы интернета не затронут сегмент доступа в сеть российских пользователей](https://habr.com/ru/news/858658/?utm_campaign=858658&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» и ICL Services связали подразделения ДГТУ с помощью российского софта](https://habr.com/ru/companies/icl_group/news/858656/?utm_campaign=858656&utm_source=habrahabr&utm_medium=rss)
-- [Рейтинг BI-систем: Luxms BI в топе](https://habr.com/ru/companies/luxms_bi/news/858652/?utm_campaign=858652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
