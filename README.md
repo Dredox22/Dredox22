@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Инженеры представили способ обучения роботов путём подражания действиям человека](https://habr.com/ru/news/858812/?utm_campaign=858812&utm_source=habrahabr&utm_medium=rss)
-- [Snapchat позволит родителям запрашивать местоположение подростков в реальном времени](https://habr.com/ru/news/858826/?utm_campaign=858826&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Gemini от Google теперь доступно для iOS](https://habr.com/ru/news/858790/?utm_campaign=858790&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрыла канал бета-тестирования Windows 10 через пять месяцев после его возрождения](https://habr.com/ru/news/858786/?utm_campaign=858786&utm_source=habrahabr&utm_medium=rss)
-- [НАСА и Microsoft работают над чат-ботом на основе ИИ, который упростит доступ к научным данным о Земле и их понимание](https://habr.com/ru/news/858784/?utm_campaign=858784&utm_source=habrahabr&utm_medium=rss)
+- [Запущена облачная платформа, которая ускоряет процесс автотестов в 8 раз](https://habr.com/ru/companies/avito/news/858850/?utm_campaign=858850&utm_source=habrahabr&utm_medium=rss)
+- [Кибератаки на фермы могут привести к смерти животных](https://habr.com/ru/companies/rshb/news/858842/?utm_campaign=858842&utm_source=habrahabr&utm_medium=rss)
+- [Red Hat передаёт свои разработки в CNCF: Podman, Buildah и Skopeo](https://habr.com/ru/companies/flant/news/858840/?utm_campaign=858840&utm_source=habrahabr&utm_medium=rss)
+- [Обновление JetBrains AI Assistant: поддержка Gemini и улучшенное дополнение кода](https://habr.com/ru/news/858834/?utm_campaign=858834&utm_source=habrahabr&utm_medium=rss)
+- [Google позволит создавать одноразовые или ограниченно используемые псевдонимы электронной почты](https://habr.com/ru/news/858816/?utm_campaign=858816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
