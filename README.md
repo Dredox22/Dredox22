@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики из Ninsar Games выпустили в Steam бесплатную научно-фантастическую ролевую игру «Сатурн»](https://habr.com/ru/news/858984/?utm_campaign=858984&utm_source=habrahabr&utm_medium=rss)
+- [Операционная система «Альт Рабочая станция» совместима с моноблоком Гигант Альтаис 24-515](https://habr.com/ru/companies/basealtspo/news/858970/?utm_campaign=858970&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» начала поставки кабелей нового поколения для мобильной спецсвязи](https://habr.com/ru/news/858918/?utm_campaign=858918&utm_source=habrahabr&utm_medium=rss)
 - [Ai4Dev опубликовал рейтинг лучших LLM копайлотов для программирования](https://habr.com/ru/companies/lanit/news/858912/?utm_campaign=858912&utm_source=habrahabr&utm_medium=rss)
 - [РКН: GlobalCheck не проверяет качество работы сервиса, изменений в качестве работы видеосервиса YouTube не наблюдается](https://habr.com/ru/news/858908/?utm_campaign=858908&utm_source=habrahabr&utm_medium=rss)
-- [Собственный сервер Selectel, Inference-платформа, сертифицированный WAF и другие обновления октября](https://habr.com/ru/companies/selectel/news/858892/?utm_campaign=858892&utm_source=habrahabr&utm_medium=rss)
-- [Британский оператор O2 запустил нейробабушку, которая перехватывает звонки мошенников и заговаривает их](https://habr.com/ru/news/858848/?utm_campaign=858848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
