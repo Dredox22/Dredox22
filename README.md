@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженеры представили способ обучения роботов путём подражания действиям человека](https://habr.com/ru/news/858812/?utm_campaign=858812&utm_source=habrahabr&utm_medium=rss)
+- [Snapchat позволит родителям запрашивать местоположение подростков в реальном времени](https://habr.com/ru/news/858826/?utm_campaign=858826&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Gemini от Google теперь доступно для iOS](https://habr.com/ru/news/858790/?utm_campaign=858790&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закрыла канал бета-тестирования Windows 10 через пять месяцев после его возрождения](https://habr.com/ru/news/858786/?utm_campaign=858786&utm_source=habrahabr&utm_medium=rss)
 - [НАСА и Microsoft работают над чат-ботом на основе ИИ, который упростит доступ к научным данным о Земле и их понимание](https://habr.com/ru/news/858784/?utm_campaign=858784&utm_source=habrahabr&utm_medium=rss)
-- [Huawei разработала гибридный ленточный SSD-накопитель ёмкостью 72 ТБ](https://habr.com/ru/news/858772/?utm_campaign=858772&utm_source=habrahabr&utm_medium=rss)
-- [Mediascope: месячная аудитория интернета в РФ составляет 103 млн человек](https://habr.com/ru/news/858782/?utm_campaign=858782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
