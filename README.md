@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Маск вносит изменения в иск против OpenAI, добавляя Microsoft в число ответчиков](https://habr.com/ru/companies/bothub/news/859010/?utm_campaign=859010&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск #1: Java или Go? Новый подкаст команды Axiom JDK](https://habr.com/ru/companies/axiomjdk/news/858958/?utm_campaign=858958&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из Ninsar Games выпустили в Steam бесплатную научно-фантастическую ролевую игру «Сатурн»](https://habr.com/ru/news/858984/?utm_campaign=858984&utm_source=habrahabr&utm_medium=rss)
 - [Операционная система «Альт Рабочая станция» совместима с моноблоком Гигант Альтаис 24-515](https://habr.com/ru/companies/basealtspo/news/858970/?utm_campaign=858970&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» начала поставки кабелей нового поколения для мобильной спецсвязи](https://habr.com/ru/news/858918/?utm_campaign=858918&utm_source=habrahabr&utm_medium=rss)
-- [Ai4Dev опубликовал рейтинг лучших LLM копайлотов для программирования](https://habr.com/ru/companies/lanit/news/858912/?utm_campaign=858912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
