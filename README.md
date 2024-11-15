@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз системы мониторинга с открытым исходным кодом Prometheus 3.0](https://habr.com/ru/news/858754/?utm_campaign=858754&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект по воссозданию классической среды разработки Visual Basic 6 с использованием Avalonia](https://habr.com/ru/news/858750/?utm_campaign=858750&utm_source=habrahabr&utm_medium=rss)
-- [Приложение ChatGPT для ПК на Windows теперь доступно всем пользователям](https://habr.com/ru/news/858748/?utm_campaign=858748&utm_source=habrahabr&utm_medium=rss)
-- [«Целимся в то, чтобы клиент приходил покупать продукты, а мы ему ещё и доплачивали»](https://habr.com/ru/companies/X5Tech/news/858696/?utm_campaign=858696&utm_source=habrahabr&utm_medium=rss)
-- [Проект Debian Junior представил Live-сборку дистрибутива Debian GNU/Linux для детей до 12 лет](https://habr.com/ru/news/858694/?utm_campaign=858694&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Gemini от Google теперь доступно для iOS](https://habr.com/ru/news/858790/?utm_campaign=858790&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft закрыла канал бета-тестирования Windows 10 через пять месяцев после его возрождения](https://habr.com/ru/news/858786/?utm_campaign=858786&utm_source=habrahabr&utm_medium=rss)
+- [НАСА и Microsoft работают над чат-ботом на основе ИИ, который упростит доступ к научным данным о Земле и их понимание](https://habr.com/ru/news/858784/?utm_campaign=858784&utm_source=habrahabr&utm_medium=rss)
+- [Huawei разработала гибридный ленточный SSD-накопитель ёмкостью 72 ТБ](https://habr.com/ru/news/858772/?utm_campaign=858772&utm_source=habrahabr&utm_medium=rss)
+- [Mediascope: месячная аудитория интернета в РФ составляет 103 млн человек](https://habr.com/ru/news/858782/?utm_campaign=858782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
