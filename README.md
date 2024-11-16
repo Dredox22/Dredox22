@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ушёл из жизни один из разработчиков BASIC и пионер компьютерных технологий Томас Е. Курц](https://habr.com/ru/news/859052/?utm_campaign=859052&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: более 5 тыс. страниц владельцев каналов с 10 тыс. подписчиков в соцсетях зарегистрировано в перечне РКН](https://habr.com/ru/news/859044/?utm_campaign=859044&utm_source=habrahabr&utm_medium=rss)
 - [Обновлённая Half-Life 2 с Episode One, Episode Two и Deathmatch стала бесплатной в Steam в честь 20-летия проекта](https://habr.com/ru/news/859042/?utm_campaign=859042&utm_source=habrahabr&utm_medium=rss)
 - [Маск вносит изменения в иск против OpenAI, добавляя Microsoft в число ответчиков](https://habr.com/ru/companies/bothub/news/859010/?utm_campaign=859010&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск #1: Java или Go? Новый подкаст команды Axiom JDK](https://habr.com/ru/companies/axiomjdk/news/858958/?utm_campaign=858958&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из Ninsar Games выпустили в Steam бесплатную научно-фантастическую ролевую игру «Сатурн»](https://habr.com/ru/news/858984/?utm_campaign=858984&utm_source=habrahabr&utm_medium=rss)
-- [Операционная система «Альт Рабочая станция» совместима с моноблоком Гигант Альтаис 24-515](https://habr.com/ru/companies/basealtspo/news/858970/?utm_campaign=858970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
