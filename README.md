@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Росэлектроника» и РАН будут разрабатывать суперкомпьютер нового поколения на базе системы интерконнекта «Ангара»](https://habr.com/ru/news/859098/?utm_campaign=859098&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 131](https://habr.com/ru/news/859090/?utm_campaign=859090&utm_source=habrahabr&utm_medium=rss)
 - [Представлен стандарт параллельного программирования OpenMP 6.0](https://habr.com/ru/news/859078/?utm_campaign=859078&utm_source=habrahabr&utm_medium=rss)
 - [Специалист получил широкий доступ к песочнице ChatGPT с опцией запуска сторонних скриптов](https://habr.com/ru/news/859076/?utm_campaign=859076&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp теперь позволяет сохранять черновики сообщений](https://habr.com/ru/news/859064/?utm_campaign=859064&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни один из разработчиков BASIC и пионер компьютерных технологий Томас Е. Курц](https://habr.com/ru/news/859052/?utm_campaign=859052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
