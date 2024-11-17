@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз digiKam 8.5.0](https://habr.com/ru/news/859168/?utm_campaign=859168&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-помощник Apple Intelligence при попытке резюмировать уведомления пишет пользователям глупости](https://habr.com/ru/news/859164/?utm_campaign=859164&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» автоматизирует тестирование устройств на KasperskyOS](https://habr.com/ru/news/859128/?utm_campaign=859128&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** запретила разблокировать или взламывать забаненные аккаунты](https://habr.com/ru/news/859118/?utm_campaign=859118&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» и РАН будут разрабатывать суперкомпьютер нового поколения на базе системы интерконнекта «Ангара»](https://habr.com/ru/news/859098/?utm_campaign=859098&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 131](https://habr.com/ru/news/859090/?utm_campaign=859090&utm_source=habrahabr&utm_medium=rss)
-- [Представлен стандарт параллельного программирования OpenMP 6.0](https://habr.com/ru/news/859078/?utm_campaign=859078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
