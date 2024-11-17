@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft объяснила преимущества нового Outlook перед Windows Mail и Calendar](https://habr.com/ru/news/859212/?utm_campaign=859212&utm_source=habrahabr&utm_medium=rss)
 - [Проекты GitHub подверглись атаке с вредоносными коммитами](https://habr.com/ru/news/859204/?utm_campaign=859204&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил визуализацию данных в реальном времени Bluesky Firehose в стиле заставки Windows XP](https://habr.com/ru/news/859202/?utm_campaign=859202&utm_source=habrahabr&utm_medium=rss)
 - [Релиз digiKam 8.5.0](https://habr.com/ru/news/859168/?utm_campaign=859168&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-помощник Apple Intelligence при попытке резюмировать уведомления пишет пользователям глупости](https://habr.com/ru/news/859164/?utm_campaign=859164&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» автоматизирует тестирование устройств на KasperskyOS](https://habr.com/ru/news/859128/?utm_campaign=859128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
