@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инсайдер: Apple планирует выпустить AirTag второго поколения в середине 2025 года](https://habr.com/ru/news/859366/?utm_campaign=859366&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE: треть взломов в российских организациях провели через IT-администраторов](https://habr.com/ru/news/859352/?utm_campaign=859352&utm_source=habrahabr&utm_medium=rss)
+- [Скам от первого лица: F.A.C.C.T. зафиксировал использование дипфейков Дональда Трампа в криптомошенничестве](https://habr.com/ru/companies/f_a_c_c_t/news/859356/?utm_campaign=859356&utm_source=habrahabr&utm_medium=rss)
 - [UserGate представила новое поколение NGFW-решений](https://habr.com/ru/news/859242/?utm_campaign=859242&utm_source=habrahabr&utm_medium=rss)
 - [UserGate открывает новую страницу в истории российского NGFW-строения](https://habr.com/ru/companies/usergate/news/859350/?utm_campaign=859350&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры стали чаще использовать вложения SVG для фишинга и доставки вредоносов](https://habr.com/ru/news/859336/?utm_campaign=859336&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: VK планирует выкладывать часть проектов в Open Source](https://habr.com/ru/news/859338/?utm_campaign=859338&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft с 14 декабря уберёт расширение Autofill из Chrome Web Store](https://habr.com/ru/news/859332/?utm_campaign=859332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
