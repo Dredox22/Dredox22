@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google пояснили, что ответ нейросети Gemini с просьбой умереть пользователю нарушил политики компании](https://habr.com/ru/news/859456/?utm_campaign=859456&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: разработчики X внесли изменения на уровне платформы, чтобы повысить рейтинг постов Илона Маска](https://habr.com/ru/news/859452/?utm_campaign=859452&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инсталлятора Archinstall 3.0.0](https://habr.com/ru/news/859434/?utm_campaign=859434&utm_source=habrahabr&utm_medium=rss)
 - [Linx Cloud запустил сервис управляемых баз данных в облаке](https://habr.com/ru/companies/Linx/news/859412/?utm_campaign=859412&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети в «Яндекс Браузере» предотвратили более 350 млн переходов на сайты мошенников за полгода](https://habr.com/ru/news/859398/?utm_campaign=859398&utm_source=habrahabr&utm_medium=rss)
-- [Инсайдер: Apple планирует выпустить AirTag второго поколения в середине 2025 года](https://habr.com/ru/news/859366/?utm_campaign=859366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
