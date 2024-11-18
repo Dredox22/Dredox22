@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs теперь позволяет создавать голосовых AI-ботов](https://habr.com/ru/companies/bothub/news/859570/?utm_campaign=859570&utm_source=habrahabr&utm_medium=rss)
 - [Mistral представил новые ИИ-модели и функции чата](https://habr.com/ru/companies/bothub/news/859552/?utm_campaign=859552&utm_source=habrahabr&utm_medium=rss)
 - [Проект OpenWrt переходит на пакетный менеджер APK](https://habr.com/ru/news/859542/?utm_campaign=859542&utm_source=habrahabr&utm_medium=rss)
 - [Robust AI представила складского робота Carter Pro с системой безопасного взаимодействия с людьми](https://habr.com/ru/news/859532/?utm_campaign=859532&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар. Заблуждения в ИБ, от которых страдает безопасность компаний](https://habr.com/ru/companies/beeline_cloud/news/859500/?utm_campaign=859500&utm_source=habrahabr&utm_medium=rss)
-- [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/859494/?utm_campaign=859494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
