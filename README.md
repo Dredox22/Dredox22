@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект OpenWrt переходит на пакетный менеджер APK](https://habr.com/ru/news/859542/?utm_campaign=859542&utm_source=habrahabr&utm_medium=rss)
 - [Robust AI представила складского робота Carter Pro с системой безопасного взаимодействия с людьми](https://habr.com/ru/news/859532/?utm_campaign=859532&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар. Заблуждения в ИБ, от которых страдает безопасность компаний](https://habr.com/ru/companies/beeline_cloud/news/859500/?utm_campaign=859500&utm_source=habrahabr&utm_medium=rss)
 - [Топ-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/859494/?utm_campaign=859494&utm_source=habrahabr&utm_medium=rss)
 - [Осторожно, GoIssue! Новый кошмар для разработчиков](https://habr.com/ru/news/859488/?utm_campaign=859488&utm_source=habrahabr&utm_medium=rss)
-- [В Google пояснили, что ответ нейросети Gemini с просьбой умереть пользователю нарушил политики компании](https://habr.com/ru/news/859456/?utm_campaign=859456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
