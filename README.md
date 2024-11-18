@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Chrome 131](https://habr.com/ru/news/859322/?utm_campaign=859322&utm_source=habrahabr&utm_medium=rss)
+- [Epic Games официально не против публикаций в Internet Archive игр Unreal и Unreal Tournament](https://habr.com/ru/news/859314/?utm_campaign=859314&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 6.12](https://habr.com/ru/news/859304/?utm_campaign=859304&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объяснила преимущества нового Outlook перед Windows Mail и Calendar](https://habr.com/ru/news/859212/?utm_campaign=859212&utm_source=habrahabr&utm_medium=rss)
 - [Проекты GitHub подверглись атаке с вредоносными коммитами](https://habr.com/ru/news/859204/?utm_campaign=859204&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил визуализацию данных в реальном времени Bluesky Firehose в стиле заставки Windows XP](https://habr.com/ru/news/859202/?utm_campaign=859202&utm_source=habrahabr&utm_medium=rss)
-- [Релиз digiKam 8.5.0](https://habr.com/ru/news/859168/?utm_campaign=859168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
