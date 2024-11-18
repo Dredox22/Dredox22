@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linx Cloud запустил сервис управляемых баз данных в облаке](https://habr.com/ru/companies/Linx/news/859412/?utm_campaign=859412&utm_source=habrahabr&utm_medium=rss)
+- [Нейросети в «Яндекс Браузере» предотвратили более 350 млн переходов на сайты мошенников за полгода](https://habr.com/ru/news/859398/?utm_campaign=859398&utm_source=habrahabr&utm_medium=rss)
 - [Инсайдер: Apple планирует выпустить AirTag второго поколения в середине 2025 года](https://habr.com/ru/news/859366/?utm_campaign=859366&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE: треть взломов в российских организациях провели через IT-администраторов](https://habr.com/ru/news/859352/?utm_campaign=859352&utm_source=habrahabr&utm_medium=rss)
 - [Скам от первого лица: F.A.C.C.T. зафиксировал использование дипфейков Дональда Трампа в криптомошенничестве](https://habr.com/ru/companies/f_a_c_c_t/news/859356/?utm_campaign=859356&utm_source=habrahabr&utm_medium=rss)
-- [UserGate представила новое поколение NGFW-решений](https://habr.com/ru/news/859242/?utm_campaign=859242&utm_source=habrahabr&utm_medium=rss)
-- [UserGate открывает новую страницу в истории российского NGFW-строения](https://habr.com/ru/companies/usergate/news/859350/?utm_campaign=859350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
