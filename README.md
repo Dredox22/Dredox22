@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Chrome 131](https://habr.com/ru/news/859322/?utm_campaign=859322&utm_source=habrahabr&utm_medium=rss)
-- [Epic Games официально не против публикаций в Internet Archive игр Unreal и Unreal Tournament](https://habr.com/ru/news/859314/?utm_campaign=859314&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 6.12](https://habr.com/ru/news/859304/?utm_campaign=859304&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила преимущества нового Outlook перед Windows Mail и Calendar](https://habr.com/ru/news/859212/?utm_campaign=859212&utm_source=habrahabr&utm_medium=rss)
-- [Проекты GitHub подверглись атаке с вредоносными коммитами](https://habr.com/ru/news/859204/?utm_campaign=859204&utm_source=habrahabr&utm_medium=rss)
+- [UserGate представила новое поколение NGFW-решений](https://habr.com/ru/news/859242/?utm_campaign=859242&utm_source=habrahabr&utm_medium=rss)
+- [UserGate открывает новую страницу в истории российского NGFW-строения](https://habr.com/ru/companies/usergate/news/859350/?utm_campaign=859350&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры стали чаще использовать вложения SVG для фишинга и доставки вредоносов](https://habr.com/ru/news/859336/?utm_campaign=859336&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: VK планирует выкладывать часть проектов в Open Source](https://habr.com/ru/news/859338/?utm_campaign=859338&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft с 14 декабря уберёт расширение Autofill из Chrome Web Store](https://habr.com/ru/news/859332/?utm_campaign=859332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
