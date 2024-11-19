@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес-аналитики, приглашаем на эфир по развитию команды 21 ноября](https://habr.com/ru/companies/surfstudio/news/859682/?utm_campaign=859682&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры планирует сформировать базу биометрии телефонных мошенников](https://habr.com/ru/news/859772/?utm_campaign=859772&utm_source=habrahabr&utm_medium=rss)
+- [Пилотная версия национальной платформы по противодействию телефонным и интернет-мошенникам в России появится в 2025 году](https://habr.com/ru/news/859770/?utm_campaign=859770&utm_source=habrahabr&utm_medium=rss)
 - [Робособака Raibo2 инженеров Корейского института передовых технологий пробежала марафон на 42 км без внешней подзарядки](https://habr.com/ru/news/859754/?utm_campaign=859754&utm_source=habrahabr&utm_medium=rss)
 - [Spotify стал музыкальным проигрывателем по умолчанию в браузере Opera One](https://habr.com/ru/news/859716/?utm_campaign=859716&utm_source=habrahabr&utm_medium=rss)
-- [Минюст США будет добиваться продажи браузера Chrome](https://habr.com/ru/news/859704/?utm_campaign=859704&utm_source=habrahabr&utm_medium=rss)
-- [Go-митап в Новосибирске: лучшие инженерные практики и живое общение](https://habr.com/ru/companies/mws/news/859698/?utm_campaign=859698&utm_source=habrahabr&utm_medium=rss)
-- [Октябрьский дайджест. Конфигуратор нод Kubernetes, графики СУБД и кейс AGIMA](https://habr.com/ru/companies/timeweb/news/859696/?utm_campaign=859696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
