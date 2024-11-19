@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google объявила номинантов премии Google Play Best 2024](https://habr.com/ru/news/859660/?utm_campaign=859660&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского»: мошенники присылают подарки в виде премиум-подписки на Telegram](https://habr.com/ru/news/859662/?utm_campaign=859662&utm_source=habrahabr&utm_medium=rss)
 - [Покупатели процессоров Blackwell от Nvidia столкнулись с проблемой перегрева](https://habr.com/ru/news/859650/?utm_campaign=859650&utm_source=habrahabr&utm_medium=rss)
 - [Воры начали красть посылки с iPhone прямо с порога клиентов благодаря данным отслеживания AT&amp;amp;T](https://habr.com/ru/news/859644/?utm_campaign=859644&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: президент «Ростелекома» сообщил, что личные персональные данные всех россиян утекли в сеть](https://habr.com/ru/news/859640/?utm_campaign=859640&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила «Напоминания об экранном времени» на Android](https://habr.com/ru/news/859634/?utm_campaign=859634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
