@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google объявила номинантов премии Google Play Best 2024](https://habr.com/ru/news/859660/?utm_campaign=859660&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского»: мошенники присылают подарки в виде премиум-подписки на Telegram](https://habr.com/ru/news/859662/?utm_campaign=859662&utm_source=habrahabr&utm_medium=rss)
-- [Покупатели процессоров Blackwell от Nvidia столкнулись с проблемой перегрева](https://habr.com/ru/news/859650/?utm_campaign=859650&utm_source=habrahabr&utm_medium=rss)
-- [Воры начали красть посылки с iPhone прямо с порога клиентов благодаря данным отслеживания AT&amp;amp;T](https://habr.com/ru/news/859644/?utm_campaign=859644&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: президент «Ростелекома» сообщил, что личные персональные данные всех россиян утекли в сеть](https://habr.com/ru/news/859640/?utm_campaign=859640&utm_source=habrahabr&utm_medium=rss)
+- [Минюст США будет добиваться продажи браузера Chrome](https://habr.com/ru/news/859704/?utm_campaign=859704&utm_source=habrahabr&utm_medium=rss)
+- [Go-митап в Новосибирске: лучшие инженерные практики и живое общение](https://habr.com/ru/companies/mws/news/859698/?utm_campaign=859698&utm_source=habrahabr&utm_medium=rss)
+- [Октябрьский дайджест. Конфигуратор нод Kubernetes, графики СУБД и кейс AGIMA](https://habr.com/ru/companies/timeweb/news/859696/?utm_campaign=859696&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: российские компании всё чаще отдают на аутсорсинг собственную кибербезопасность](https://habr.com/ru/news/859694/?utm_campaign=859694&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар «Информация и автоматизация — лучшая защита»](https://habr.com/ru/companies/ussc/news/859690/?utm_campaign=859690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
