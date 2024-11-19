@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [КРОК создал сообщество рецензентов ИТ-литературы](https://habr.com/ru/companies/croc/news/859636/?utm_campaign=859636&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи пожаловались на неизвестные голоса из динамиков iPhone](https://habr.com/ru/news/859626/?utm_campaign=859626&utm_source=habrahabr&utm_medium=rss)
-- [Apple прекратит поддержку бэкапов iCloud на iPhone с iOS 8](https://habr.com/ru/news/859616/?utm_campaign=859616&utm_source=habrahabr&utm_medium=rss)
-- [Релиз AlmaLinux 9.5](https://habr.com/ru/news/859614/?utm_campaign=859614&utm_source=habrahabr&utm_medium=rss)
-- [Плагин Really Simple Security для WordPress содержит критическую уязвимость с возможностью компрометации 4 млн сайтов](https://habr.com/ru/news/859594/?utm_campaign=859594&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского»: мошенники присылают подарки в виде премиум-подписки на Telegram](https://habr.com/ru/news/859662/?utm_campaign=859662&utm_source=habrahabr&utm_medium=rss)
+- [Покупатели процессоров Blackwell от Nvidia столкнулись с проблемой перегрева](https://habr.com/ru/news/859650/?utm_campaign=859650&utm_source=habrahabr&utm_medium=rss)
+- [Воры начали красть посылки с iPhone прямо с порога клиентов благодаря данным отслеживания AT&amp;amp;T](https://habr.com/ru/news/859644/?utm_campaign=859644&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: президент «Ростелекома» сообщил, что личные персональные данные всех россиян утекли в сеть](https://habr.com/ru/news/859640/?utm_campaign=859640&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила «Напоминания об экранном времени» на Android](https://habr.com/ru/news/859634/?utm_campaign=859634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
