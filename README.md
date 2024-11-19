@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Робособака Raibo2 инженеров Корейского института передовых технологий пробежала марафон на 42 км без внешней подзарядки](https://habr.com/ru/news/859754/?utm_campaign=859754&utm_source=habrahabr&utm_medium=rss)
 - [Spotify стал музыкальным проигрывателем по умолчанию в браузере Opera One](https://habr.com/ru/news/859716/?utm_campaign=859716&utm_source=habrahabr&utm_medium=rss)
 - [Минюст США будет добиваться продажи браузера Chrome](https://habr.com/ru/news/859704/?utm_campaign=859704&utm_source=habrahabr&utm_medium=rss)
 - [Go-митап в Новосибирске: лучшие инженерные практики и живое общение](https://habr.com/ru/companies/mws/news/859698/?utm_campaign=859698&utm_source=habrahabr&utm_medium=rss)
 - [Октябрьский дайджест. Конфигуратор нод Kubernetes, графики СУБД и кейс AGIMA](https://habr.com/ru/companies/timeweb/news/859696/?utm_campaign=859696&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: российские компании всё чаще отдают на аутсорсинг собственную кибербезопасность](https://habr.com/ru/news/859694/?utm_campaign=859694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
