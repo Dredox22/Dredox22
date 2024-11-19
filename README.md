@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [КРОК создал сообщество рецензентов ИТ-литературы](https://habr.com/ru/companies/croc/news/859636/?utm_campaign=859636&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи пожаловались на неизвестные голоса из динамиков iPhone](https://habr.com/ru/news/859626/?utm_campaign=859626&utm_source=habrahabr&utm_medium=rss)
+- [Apple прекратит поддержку бэкапов iCloud на iPhone с iOS 8](https://habr.com/ru/news/859616/?utm_campaign=859616&utm_source=habrahabr&utm_medium=rss)
+- [Релиз AlmaLinux 9.5](https://habr.com/ru/news/859614/?utm_campaign=859614&utm_source=habrahabr&utm_medium=rss)
 - [Плагин Really Simple Security для WordPress содержит критическую уязвимость с возможностью компрометации 4 млн сайтов](https://habr.com/ru/news/859594/?utm_campaign=859594&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком»: компания технически не ограничивала работу YouTube в РФ, деградация сервиса связана с устареванием GGC](https://habr.com/ru/news/859590/?utm_campaign=859590&utm_source=habrahabr&utm_medium=rss)
-- [ElevenLabs теперь позволяет создавать голосовых AI-ботов](https://habr.com/ru/companies/bothub/news/859570/?utm_campaign=859570&utm_source=habrahabr&utm_medium=rss)
-- [Mistral представил новые ИИ-модели и функции чата](https://habr.com/ru/companies/bothub/news/859552/?utm_campaign=859552&utm_source=habrahabr&utm_medium=rss)
-- [Проект OpenWrt переходит на пакетный менеджер APK](https://habr.com/ru/news/859542/?utm_campaign=859542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
