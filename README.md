@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РЕД АДМ Промышленная редакция 1.2.2. Настройка ACL‑прав для файлового хранилища через веб‑интерфейс](https://habr.com/ru/companies/redsoft/news/859986/?utm_campaign=859986&utm_source=habrahabr&utm_medium=rss)
 - [Figure улучшила человекоподобных роботов, которые обучаются на заводе BMW](https://habr.com/ru/news/859970/?utm_campaign=859970&utm_source=habrahabr&utm_medium=rss)
 - [Mail улучшила работу справочного центра и службы поддержки пользователей с помощью ИИ](https://habr.com/ru/news/859958/?utm_campaign=859958&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» разработал «Хартию цифровой безопасности»](https://habr.com/ru/news/859956/?utm_campaign=859956&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила хакерское состязание Zero Day Quest с наградой в $4 млн](https://habr.com/ru/news/859946/?utm_campaign=859946&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft работает над устранением проблем, которые привели к долгой загрузке и сбоям в Flight Simulator 2024](https://habr.com/ru/news/859950/?utm_campaign=859950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
