@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Figure улучшила человекоподобных роботов, которые обучаются на заводе BMW](https://habr.com/ru/news/859970/?utm_campaign=859970&utm_source=habrahabr&utm_medium=rss)
+- [Mail улучшила работу справочного центра и службы поддержки пользователей с помощью ИИ](https://habr.com/ru/news/859958/?utm_campaign=859958&utm_source=habrahabr&utm_medium=rss)
+- [«Билайн» разработал «Хартию цифровой безопасности»](https://habr.com/ru/news/859956/?utm_campaign=859956&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила хакерское состязание Zero Day Quest с наградой в $4 млн](https://habr.com/ru/news/859946/?utm_campaign=859946&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над устранением проблем, которые привели к долгой загрузке и сбоям в Flight Simulator 2024](https://habr.com/ru/news/859950/?utm_campaign=859950&utm_source=habrahabr&utm_medium=rss)
-- [Безопасность VS Программист — свежий выпуск шоу «Согласен / Не согласен»](https://habr.com/ru/companies/skbkontur/news/859880/?utm_campaign=859880&utm_source=habrahabr&utm_medium=rss)
-- [Google представила первый предварительный выпуск Android 16](https://habr.com/ru/news/859942/?utm_campaign=859942&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на QAртирник Мир Plat.Form](https://habr.com/ru/companies/nspk/news/859750/?utm_campaign=859750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
