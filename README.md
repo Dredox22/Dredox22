@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила руководство для учителей по ChatGPT, но некоторые педагоги настроены скептически](https://habr.com/ru/companies/bothub/news/860126/?utm_campaign=860126&utm_source=habrahabr&utm_medium=rss)
 - [Китайская лаборатория представила «рассуждающую» ИИ-модель, которая может стать конкурентом o1 от OpenAI](https://habr.com/ru/companies/bothub/news/860124/?utm_campaign=860124&utm_source=habrahabr&utm_medium=rss)
 - [Ford расследует инцидент с утечкой данных клиентов](https://habr.com/ru/news/860112/?utm_campaign=860112&utm_source=habrahabr&utm_medium=rss)
 - [Роспатент зарегистрировал заявку китайского института на систему объединения механической руки с роботизированной кистью](https://habr.com/ru/news/860090/?utm_campaign=860090&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Браузер для образования» представил курс для школьников, как защищать свои данные в интернете](https://habr.com/ru/news/860080/?utm_campaign=860080&utm_source=habrahabr&utm_medium=rss)
-- [Присоединяйтесь к AI Journey — международной конференции по искусственному интеллекту и ML](https://habr.com/ru/companies/sberbank/news/859954/?utm_campaign=859954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
