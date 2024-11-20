@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google представила Android 16 BAKLAVA](https://habr.com/ru/news/859928/?utm_campaign=859928&utm_source=habrahabr&utm_medium=rss)
-- [Новым лидером рейтинга Top500 стал суперкомпьютер El Capitan Минэнерго США](https://habr.com/ru/news/859922/?utm_campaign=859922&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обсуждает с операторами связи запрет на отправку СМС во время звонка](https://habr.com/ru/news/859906/?utm_campaign=859906&utm_source=habrahabr&utm_medium=rss)
-- [Strava закрывает доступ к обмену фитнес-данными с другими приложениями](https://habr.com/ru/news/859888/?utm_campaign=859888&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 Quick Machine Recovery поможет восстановить ПК, которые не загружаются](https://habr.com/ru/news/859882/?utm_campaign=859882&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft запустила хакерское состязание Zero Day Quest с наградой в $4 млн](https://habr.com/ru/news/859946/?utm_campaign=859946&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft работает над устранением проблем, которые привели к долгой загрузке и сбоям в Flight Simulator 2024](https://habr.com/ru/news/859950/?utm_campaign=859950&utm_source=habrahabr&utm_medium=rss)
+- [Безопасность VS Программист — свежий выпуск шоу «Согласен / Не согласен»](https://habr.com/ru/companies/skbkontur/news/859880/?utm_campaign=859880&utm_source=habrahabr&utm_medium=rss)
+- [Google представила первый предварительный выпуск Android 16](https://habr.com/ru/news/859942/?utm_campaign=859942&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на QAртирник Мир Plat.Form](https://habr.com/ru/companies/nspk/news/859750/?utm_campaign=859750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
