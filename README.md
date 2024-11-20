@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила Android 16 BAKLAVA](https://habr.com/ru/news/859928/?utm_campaign=859928&utm_source=habrahabr&utm_medium=rss)
+- [Новым лидером рейтинга Top500 стал суперкомпьютер El Capitan Минэнерго США](https://habr.com/ru/news/859922/?utm_campaign=859922&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обсуждает с операторами связи запрет на отправку СМС во время звонка](https://habr.com/ru/news/859906/?utm_campaign=859906&utm_source=habrahabr&utm_medium=rss)
+- [Strava закрывает доступ к обмену фитнес-данными с другими приложениями](https://habr.com/ru/news/859888/?utm_campaign=859888&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 Quick Machine Recovery поможет восстановить ПК, которые не загружаются](https://habr.com/ru/news/859882/?utm_campaign=859882&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар Tarantool «Анализируем транзакции в реальном времени»](https://habr.com/ru/companies/vk/news/859876/?utm_campaign=859876&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз FreeCAD 1.0.0 спустя 21 год после начала разработки проекта](https://habr.com/ru/news/859862/?utm_campaign=859862&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Microsoft Flight Simulator 2024](https://habr.com/ru/news/859860/?utm_campaign=859860&utm_source=habrahabr&utm_medium=rss)
-- [Как мы обновили курсы для Python-разработчиков](https://habr.com/ru/companies/yandex_praktikum/news/859368/?utm_campaign=859368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
