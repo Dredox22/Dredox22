@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приходите на AI Journey — международную конференцию по искусственному интеллекту и ML](https://habr.com/ru/companies/sberbank/news/859954/?utm_campaign=859954&utm_source=habrahabr&utm_medium=rss)
+- [Роспатент зарегистрировал заявку китайского института на систему объединения механической руки с роботизированной кистью](https://habr.com/ru/news/860090/?utm_campaign=860090&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Браузер для образования» представил курс для школьников, как защищать свои данные в интернете](https://habr.com/ru/news/860080/?utm_campaign=860080&utm_source=habrahabr&utm_medium=rss)
+- [Присоединяйтесь к AI Journey — международной конференции по искусственному интеллекту и ML](https://habr.com/ru/companies/sberbank/news/859954/?utm_campaign=859954&utm_source=habrahabr&utm_medium=rss)
 - [В Asobo раскрыли причины сбоя, из-за которого релиз Microsoft Flight Simulator 2024 стал проблемой для пользователей](https://habr.com/ru/news/860058/?utm_campaign=860058&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление для редактора маинд карт MIND IN MAP  от 18.11.2024](https://habr.com/ru/news/860048/?utm_campaign=860048&utm_source=habrahabr&utm_medium=rss)
-- [Niantic обучает большую геопространственную модель на данных игроков Pokémon Go](https://habr.com/ru/news/860034/?utm_campaign=860034&utm_source=habrahabr&utm_medium=rss)
-- [Flutter-разработчики, велком на открытое код-ревью 27 ноября](https://habr.com/ru/companies/surfstudio/news/860018/?utm_campaign=860018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
