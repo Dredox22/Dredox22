@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Microsoft Flight Simulator 2024](https://habr.com/ru/news/859860/?utm_campaign=859860&utm_source=habrahabr&utm_medium=rss)
+- [Как мы обновили курсы для Python-разработчиков](https://habr.com/ru/companies/yandex_praktikum/news/859368/?utm_campaign=859368&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Suno: лучшее качество звука и расширенный генератор текстов](https://habr.com/ru/news/859838/?utm_campaign=859838&utm_source=habrahabr&utm_medium=rss)
 - [Angular 19 здесь, что нового?](https://habr.com/ru/news/859832/?utm_campaign=859832&utm_source=habrahabr&utm_medium=rss)
 - [Владельцы сайтов с пиратским ПО используют плейлисты Spotify для продвижения](https://habr.com/ru/news/859818/?utm_campaign=859818&utm_source=habrahabr&utm_medium=rss)
-- [Бизнес-аналитики, приглашаем на эфир по развитию команды 21 ноября](https://habr.com/ru/companies/surfstudio/news/859682/?utm_campaign=859682&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует сформировать базу биометрии телефонных мошенников](https://habr.com/ru/news/859772/?utm_campaign=859772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
