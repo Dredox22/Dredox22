@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс Практикум и Пироговский университет помогут медикам освоить актуальные IT‑навыки](https://habr.com/ru/companies/yandex_praktikum/news/860262/?utm_campaign=860262&utm_source=habrahabr&utm_medium=rss)
+- [Портал «Грамота.ру» опубликовал шорт-лист вариантов «Слова года» в сфере ИТ](https://habr.com/ru/news/860268/?utm_campaign=860268&utm_source=habrahabr&utm_medium=rss)
 - [Представлена инициатива GitHub Secure Open Source Fund с $1,25 млн для усиления безопасности 125 открытых проектов](https://habr.com/ru/news/860240/?utm_campaign=860240&utm_source=habrahabr&utm_medium=rss)
 - [Shazam празднует 100 миллиардов распознаваний песен](https://habr.com/ru/news/860230/?utm_campaign=860230&utm_source=habrahabr&utm_medium=rss)
 - [MITRE опубликовала список 25 самых опасных уязвимостей 2024 года](https://habr.com/ru/news/860214/?utm_campaign=860214&utm_source=habrahabr&utm_medium=rss)
-- [D-Link попросила прекратить использование маршрутизаторов DSR из-за критической уязвимости](https://habr.com/ru/news/860202/?utm_campaign=860202&utm_source=habrahabr&utm_medium=rss)
-- [В подсистему Windows для Linux внедрили совместимость с Intune и интеграцию Entra ID](https://habr.com/ru/news/860188/?utm_campaign=860188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
