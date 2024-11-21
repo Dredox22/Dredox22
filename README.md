@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Jedi: Survivor и Silent Hill 2 работают над исправлением проблем с графикой на PS5 Pro](https://habr.com/ru/news/860144/?utm_campaign=860144&utm_source=habrahabr&utm_medium=rss)
+- [В работе Reddit произошёл глобальный пятичасовой сбой из-за ошибки в коде обновления платформы](https://habr.com/ru/news/860164/?utm_campaign=860164&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила GitHub Copilot для Azure](https://habr.com/ru/news/860140/?utm_campaign=860140&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила руководство для учителей по ChatGPT, но некоторые педагоги настроены скептически](https://habr.com/ru/companies/bothub/news/860126/?utm_campaign=860126&utm_source=habrahabr&utm_medium=rss)
 - [Китайская лаборатория представила «рассуждающую» ИИ-модель, которая может стать конкурентом o1 от OpenAI](https://habr.com/ru/companies/bothub/news/860124/?utm_campaign=860124&utm_source=habrahabr&utm_medium=rss)
-- [Ford расследует инцидент с утечкой данных клиентов](https://habr.com/ru/news/860112/?utm_campaign=860112&utm_source=habrahabr&utm_medium=rss)
-- [Роспатент зарегистрировал заявку китайского института на систему объединения механической руки с роботизированной кистью](https://habr.com/ru/news/860090/?utm_campaign=860090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
