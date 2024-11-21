@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел PHP 8.4](https://habr.com/ru/news/860350/?utm_campaign=860350&utm_source=habrahabr&utm_medium=rss)
+- [Министерство юстиции США: Google должна продать Chrome, чтобы «положить конец монополии»](https://habr.com/ru/news/860344/?utm_campaign=860344&utm_source=habrahabr&utm_medium=rss)
 - [Bria AI выпустили RMBG 2.0 — нейросеть для удаления фона на фотографиях](https://habr.com/ru/news/860330/?utm_campaign=860330&utm_source=habrahabr&utm_medium=rss)
 - [Bjorn — викинг-тамагочи для сканирования сетей, атак и кражи данных](https://habr.com/ru/companies/hostkey/news/860328/?utm_campaign=860328&utm_source=habrahabr&utm_medium=rss)
 - [Решение Managed XDR от компании F.A.C.C.T. защитит пользователей РЕД ОС от сложных и неизвестных киберугроз](https://habr.com/ru/companies/f_a_c_c_t/news/860320/?utm_campaign=860320&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи жалуются на ошибку в iOS 18, которая мешает сохранять отредактированные фотографии](https://habr.com/ru/news/860306/?utm_campaign=860306&utm_source=habrahabr&utm_medium=rss)
-- [Android Headlines: Google отменила разработку Pixel Tablet 3](https://habr.com/ru/news/860288/?utm_campaign=860288&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
