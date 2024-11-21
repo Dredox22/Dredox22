@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В подсистему Windows для Linux внедрили совместимость с Intune и интеграцию Entra ID](https://habr.com/ru/news/860188/?utm_campaign=860188&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft проводили стресс-тест Microsoft Flight Simulator 2024 на 200 тыс. игроков, но для релиза этого не хватило](https://habr.com/ru/news/860182/?utm_campaign=860182&utm_source=habrahabr&utm_medium=rss)
 - [Национальный координационный центр по компьютерным инцидентам &lpar;НКЦКИ&rpar; расторг сотрудничество с Positive Technologies](https://habr.com/ru/news/860176/?utm_campaign=860176&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 24H2 громкость звука в играх выставляется на 100% при использовании внешних аудиосистем USB DAC](https://habr.com/ru/news/860174/?utm_campaign=860174&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Jedi: Survivor и Silent Hill 2 работают над исправлением проблем с графикой на PS5 Pro](https://habr.com/ru/news/860144/?utm_campaign=860144&utm_source=habrahabr&utm_medium=rss)
-- [В работе Reddit произошёл глобальный пятичасовой сбой из-за ошибки в коде обновления платформы](https://habr.com/ru/news/860164/?utm_campaign=860164&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила GitHub Copilot для Azure](https://habr.com/ru/news/860140/?utm_campaign=860140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
