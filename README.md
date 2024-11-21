@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bria AI выпустили RMBG 2.0 — нейросеть для удаления фона на фотографиях](https://habr.com/ru/news/860330/?utm_campaign=860330&utm_source=habrahabr&utm_medium=rss)
+- [Bjorn — викинг-тамагочи для сканирования сетей, атак и кражи данных](https://habr.com/ru/companies/hostkey/news/860328/?utm_campaign=860328&utm_source=habrahabr&utm_medium=rss)
+- [Решение Managed XDR от компании F.A.C.C.T. защитит пользователей РЕД ОС от сложных и неизвестных киберугроз](https://habr.com/ru/companies/f_a_c_c_t/news/860320/?utm_campaign=860320&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи жалуются на ошибку в iOS 18, которая мешает сохранять отредактированные фотографии](https://habr.com/ru/news/860306/?utm_campaign=860306&utm_source=habrahabr&utm_medium=rss)
 - [Android Headlines: Google отменила разработку Pixel Tablet 3](https://habr.com/ru/news/860288/?utm_campaign=860288&utm_source=habrahabr&utm_medium=rss)
-- [В Google обеспокоены предложением Минюста продать Chrome](https://habr.com/ru/news/860284/?utm_campaign=860284&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум и Пироговский университет помогут медикам освоить актуальные IT‑навыки](https://habr.com/ru/companies/yandex_praktikum/news/860262/?utm_campaign=860262&utm_source=habrahabr&utm_medium=rss)
-- [Портал «Грамота.ру» опубликовал шорт-лист вариантов «Слова года» в сфере ИТ](https://habr.com/ru/news/860268/?utm_campaign=860268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
