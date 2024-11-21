@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи жалуются на ошибку в iOS 18, которая мешает сохранять отредактированные фотографии](https://habr.com/ru/news/860306/?utm_campaign=860306&utm_source=habrahabr&utm_medium=rss)
+- [Android Headlines: Google отменила разработку Pixel Tablet 3](https://habr.com/ru/news/860288/?utm_campaign=860288&utm_source=habrahabr&utm_medium=rss)
+- [В Google обеспокоены предложением Минюста продать Chrome](https://habr.com/ru/news/860284/?utm_campaign=860284&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум и Пироговский университет помогут медикам освоить актуальные IT‑навыки](https://habr.com/ru/companies/yandex_praktikum/news/860262/?utm_campaign=860262&utm_source=habrahabr&utm_medium=rss)
 - [Портал «Грамота.ру» опубликовал шорт-лист вариантов «Слова года» в сфере ИТ](https://habr.com/ru/news/860268/?utm_campaign=860268&utm_source=habrahabr&utm_medium=rss)
-- [Представлена инициатива GitHub Secure Open Source Fund с $1,25 млн для усиления безопасности 125 открытых проектов](https://habr.com/ru/news/860240/?utm_campaign=860240&utm_source=habrahabr&utm_medium=rss)
-- [Shazam празднует 100 миллиардов распознаваний песен](https://habr.com/ru/news/860230/?utm_campaign=860230&utm_source=habrahabr&utm_medium=rss)
-- [MITRE опубликовала список 25 самых опасных уязвимостей 2024 года](https://habr.com/ru/news/860214/?utm_campaign=860214&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
