@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Структура «Сбера» стала владельцем 12% производителя IT-оборудования «Аквариус»](https://habr.com/ru/news/860560/?utm_campaign=860560&utm_source=habrahabr&utm_medium=rss)
+- [Automattic приобрела программу проверки грамматики Harper](https://habr.com/ru/news/860552/?utm_campaign=860552&utm_source=habrahabr&utm_medium=rss)
 - [LG объявила о проведении реорганизации](https://habr.com/ru/news/860540/?utm_campaign=860540&utm_source=habrahabr&utm_medium=rss)
 - [Beam Chain: простое объяснение](https://habr.com/ru/companies/metalamp/news/860532/?utm_campaign=860532&utm_source=habrahabr&utm_medium=rss)
-- [Beam Chain: простое объяснение](https://habr.com/ru/companies/metalamp/news/860526/?utm_campaign=860526&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI планирует запустить браузер для конкуренции с Chrome](https://habr.com/ru/news/860514/?utm_campaign=860514&utm_source=habrahabr&utm_medium=rss)
-- [Стрим PHP 8.4: крутые спикеры и немного оверрана](https://habr.com/ru/news/860520/?utm_campaign=860520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
