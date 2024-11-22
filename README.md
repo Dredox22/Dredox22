@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple планирует сделать Siri конкурентом ChatGPT, запустив «LLM Siri»](https://habr.com/ru/companies/bothub/news/860682/?utm_campaign=860682&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic привлекла дополнительные $4 млрд от Amazon и делает AWS своим основным партнером для обучения ИИ](https://habr.com/ru/companies/bothub/news/860680/?utm_campaign=860680&utm_source=habrahabr&utm_medium=rss)
 - [Зеленоградский завод «НМ-Тех» начнет четыре новых проекта по производству чипов с 2025 года](https://habr.com/ru/news/860630/?utm_campaign=860630&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты Positive Technologies нашли уязвимость в системе видеоконференций Yеalink](https://habr.com/ru/companies/pt/news/860582/?utm_campaign=860582&utm_source=habrahabr&utm_medium=rss)
 - [Бухгалтер из Торонто целый год выходил на пробежки, чтобы нарисовать из своих GPS-маршрутов анимацию](https://habr.com/ru/news/860594/?utm_campaign=860594&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила наличие проблем с обновлением и удалением приложений в Windows 10](https://habr.com/ru/news/860590/?utm_campaign=860590&utm_source=habrahabr&utm_medium=rss)
-- [Структура «Сбера» стала владельцем 12% производителя IT-оборудования «Аквариус»](https://habr.com/ru/news/860560/?utm_campaign=860560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
