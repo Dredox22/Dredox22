@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [5 декабря проведем Naumen Java Meetup #4](https://habr.com/ru/companies/naumen/news/860468/?utm_campaign=860468&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры скомпрометировали две тысячи межсетевых экранов Palo Alto Networks](https://habr.com/ru/news/860496/?utm_campaign=860496&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-гаджет Rabbit R1 можно научить выполнять задачи за пользователя](https://habr.com/ru/news/860494/?utm_campaign=860494&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: Z-Library помогает студентам преодолеть академическую бедность](https://habr.com/ru/news/860492/?utm_campaign=860492&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Blender 4.3](https://habr.com/ru/news/860460/?utm_campaign=860460&utm_source=habrahabr&utm_medium=rss)
+- [LG объявила о проведении реорганизации](https://habr.com/ru/news/860540/?utm_campaign=860540&utm_source=habrahabr&utm_medium=rss)
+- [Beam Chain: простое объяснение](https://habr.com/ru/companies/metalamp/news/860532/?utm_campaign=860532&utm_source=habrahabr&utm_medium=rss)
+- [Beam Chain: простое объяснение](https://habr.com/ru/companies/metalamp/news/860526/?utm_campaign=860526&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI планирует запустить браузер для конкуренции с Chrome](https://habr.com/ru/news/860514/?utm_campaign=860514&utm_source=habrahabr&utm_medium=rss)
+- [Стрим PHP 8.4: крутые спикеры и немного оверрана](https://habr.com/ru/news/860520/?utm_campaign=860520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
