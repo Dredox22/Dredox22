@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 декабря проведем Naumen Java Meetup #4](https://habr.com/ru/companies/naumen/news/860468/?utm_campaign=860468&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры скомпрометировали две тысячи межсетевых экранов Palo Alto Networks](https://habr.com/ru/news/860496/?utm_campaign=860496&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-гаджет Rabbit R1 можно научить выполнять задачи за пользователя](https://habr.com/ru/news/860494/?utm_campaign=860494&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: Z-Library помогает студентам преодолеть академическую бедность](https://habr.com/ru/news/860492/?utm_campaign=860492&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Blender 4.3](https://habr.com/ru/news/860460/?utm_campaign=860460&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mullvad Browser 14.0](https://habr.com/ru/news/860454/?utm_campaign=860454&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wireshark 4.4.2](https://habr.com/ru/news/860452/?utm_campaign=860452&utm_source=habrahabr&utm_medium=rss)
-- [Google Deepmind разработала архитектуру для симуляции поведения группы людей](https://habr.com/ru/news/860436/?utm_campaign=860436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
