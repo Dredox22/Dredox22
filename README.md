@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бухгалтер из Торонто целый год выходил на пробежки, чтобы нарисовать из своих GPS-маршрутов анимацию](https://habr.com/ru/news/860594/?utm_campaign=860594&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила наличие проблем с обновлением и удалением приложений в Windows 10](https://habr.com/ru/news/860590/?utm_campaign=860590&utm_source=habrahabr&utm_medium=rss)
 - [Структура «Сбера» стала владельцем 12% производителя IT-оборудования «Аквариус»](https://habr.com/ru/news/860560/?utm_campaign=860560&utm_source=habrahabr&utm_medium=rss)
 - [Automattic приобрела программу проверки грамматики Harper](https://habr.com/ru/news/860552/?utm_campaign=860552&utm_source=habrahabr&utm_medium=rss)
 - [LG объявила о проведении реорганизации](https://habr.com/ru/news/860540/?utm_campaign=860540&utm_source=habrahabr&utm_medium=rss)
-- [Beam Chain: простое объяснение](https://habr.com/ru/companies/metalamp/news/860532/?utm_campaign=860532&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI планирует запустить браузер для конкуренции с Chrome](https://habr.com/ru/news/860514/?utm_campaign=860514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
