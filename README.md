@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Wireshark 4.4.2](https://habr.com/ru/news/860452/?utm_campaign=860452&utm_source=habrahabr&utm_medium=rss)
 - [Google Deepmind разработала архитектуру для симуляции поведения группы людей](https://habr.com/ru/news/860436/?utm_campaign=860436&utm_source=habrahabr&utm_medium=rss)
 - [GitHub выпустил «уродливый» рождественский свитер v.2024](https://habr.com/ru/news/860402/?utm_campaign=860402&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Microsoft Flight Simulator 2024 могут ходить по воде и встречают везде фигурку с табличкой ERROR](https://habr.com/ru/news/860384/?utm_campaign=860384&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PHP 8.4](https://habr.com/ru/news/860350/?utm_campaign=860350&utm_source=habrahabr&utm_medium=rss)
-- [Министерство юстиции США: Google должна продать Chrome, чтобы «положить конец монополии»](https://habr.com/ru/news/860344/?utm_campaign=860344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
