@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Copilot раскрывал сотрудникам переписки гендиректоров и документы отделов HR](https://habr.com/ru/news/860714/?utm_campaign=860714&utm_source=habrahabr&utm_medium=rss)
+- [Компания Q.ANT представила первый коммерческий фотонный процессор](https://habr.com/ru/news/860688/?utm_campaign=860688&utm_source=habrahabr&utm_medium=rss)
 - [Консорциум Khronos вместо Nvidia продолжит разработку открытого компилятора шейдеров Slang](https://habr.com/ru/news/860702/?utm_campaign=860702&utm_source=habrahabr&utm_medium=rss)
 - [Apple планирует сделать Siri конкурентом ChatGPT, запустив «LLM Siri»](https://habr.com/ru/companies/bothub/news/860682/?utm_campaign=860682&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic привлекла дополнительные $4 млрд от Amazon и делает AWS своим основным партнером для обучения ИИ](https://habr.com/ru/companies/bothub/news/860680/?utm_campaign=860680&utm_source=habrahabr&utm_medium=rss)
-- [Зеленоградский завод «НМ-Тех» начнет четыре новых проекта по производству чипов с 2025 года](https://habr.com/ru/news/860630/?utm_campaign=860630&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты Positive Technologies нашли уязвимость в системе видеоконференций Yеalink](https://habr.com/ru/companies/pt/news/860582/?utm_campaign=860582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
