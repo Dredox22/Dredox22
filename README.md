@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик запустил рендеринг «современных» скинов Winamp в браузере после реверс-инжиниринга байт-кода MAKI](https://habr.com/ru/news/860726/?utm_campaign=860726&utm_source=habrahabr&utm_medium=rss)
+- [В Индии мошенники некоторое время с помощью ошибки Timeout Error снимали деньги из банкомата без списывания их со счетов](https://habr.com/ru/news/860724/?utm_campaign=860724&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Copilot раскрывал сотрудникам переписки гендиректоров и документы отделов HR](https://habr.com/ru/news/860714/?utm_campaign=860714&utm_source=habrahabr&utm_medium=rss)
 - [Компания Q.ANT представила первый коммерческий фотонный процессор](https://habr.com/ru/news/860688/?utm_campaign=860688&utm_source=habrahabr&utm_medium=rss)
 - [Консорциум Khronos вместо Nvidia продолжит разработку открытого компилятора шейдеров Slang](https://habr.com/ru/news/860702/?utm_campaign=860702&utm_source=habrahabr&utm_medium=rss)
-- [Apple планирует сделать Siri конкурентом ChatGPT, запустив «LLM Siri»](https://habr.com/ru/companies/bothub/news/860682/?utm_campaign=860682&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic привлекла дополнительные $4 млрд от Amazon и делает AWS своим основным партнером для обучения ИИ](https://habr.com/ru/companies/bothub/news/860680/?utm_campaign=860680&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
