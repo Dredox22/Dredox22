@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила сбой с открытием нового окна «Проводника» Windows 11](https://habr.com/ru/news/860826/?utm_campaign=860826&utm_source=habrahabr&utm_medium=rss)
 - [Представлены умные часы Pocuter Spectra, которые просто разобрать и собрать](https://habr.com/ru/news/860816/?utm_campaign=860816&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила внутриигровой браузерный оверлей Edge Game Assist для Windows 11](https://habr.com/ru/news/860806/?utm_campaign=860806&utm_source=habrahabr&utm_medium=rss)
 - [Японское агентство по делам потребителей порекомендовало пользователям хранить в завещании цифровые данные к сервисам](https://habr.com/ru/news/860768/?utm_campaign=860768&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил рендеринг «современных» скинов Winamp в браузере после реверс-инжиниринга байт-кода MAKI](https://habr.com/ru/news/860726/?utm_campaign=860726&utm_source=habrahabr&utm_medium=rss)
-- [В Индии мошенники некоторое время с помощью ошибки Timeout Error снимали деньги из банкомата без списывания их со счетов](https://habr.com/ru/news/860724/?utm_campaign=860724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
