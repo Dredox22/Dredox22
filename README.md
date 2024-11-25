@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» выпустила «Киберазбуку» для дошкольников и учащихся младших классов](https://habr.com/ru/news/861150/?utm_campaign=861150&utm_source=habrahabr&utm_medium=rss)
 - [GitHub закрыл 42 старых issue в рамках улучшения списка базовой функциональности своей дорожной карты](https://habr.com/ru/news/861100/?utm_campaign=861100&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: выросло количество жалоб в ЦБ РФ на попадание в чёрные списки банков](https://habr.com/ru/news/861116/?utm_campaign=861116&utm_source=habrahabr&utm_medium=rss)
 - [[Блиц-кейс] Как успешно мигрировать с зарубежного решения на отечественный биллинг от ISPsystem](https://habr.com/ru/companies/ispsystem/news/861090/?utm_campaign=861090&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила Edify 3D — нейросеть для генерации 3D-моделей](https://habr.com/ru/news/861082/?utm_campaign=861082&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: в определенных сценариях Recall игнорирует список сайтов, скриншоты с которых система не должна сохранять](https://habr.com/ru/news/861080/?utm_campaign=861080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
