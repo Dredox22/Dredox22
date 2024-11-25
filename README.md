@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: выросло количество жалоб в ЦБ РФ на попадание в чёрные списки банков](https://habr.com/ru/news/861116/?utm_campaign=861116&utm_source=habrahabr&utm_medium=rss)
 - [[Блиц-кейс] Как успешно мигрировать с зарубежного решения на отечественный биллинг от ISPsystem](https://habr.com/ru/companies/ispsystem/news/861090/?utm_campaign=861090&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила Edify 3D — нейросеть для генерации 3D-моделей](https://habr.com/ru/news/861082/?utm_campaign=861082&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: в определенных сценариях Recall игнорирует список сайтов, скриншоты с которых система не должен сохранять](https://habr.com/ru/news/861080/?utm_campaign=861080&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: в определенных сценариях Recall игнорирует список сайтов, скриншоты с которых система не должна сохранять](https://habr.com/ru/news/861080/?utm_campaign=861080&utm_source=habrahabr&utm_medium=rss)
 - [Чем больше знаний о Kubernetes — тем громче оркестр: Orion soft запустил спецпроект с ИИ-генерацией музыки](https://habr.com/ru/companies/orion_soft/news/861068/?utm_campaign=861068&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: компании в области кибербезопасности пожаловались на законопроект об ответственности за утечки данных](https://habr.com/ru/news/861056/?utm_campaign=861056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
