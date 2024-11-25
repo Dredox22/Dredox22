@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies представила официально PT NGFW](https://habr.com/ru/news/861260/?utm_campaign=861260&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic предлагает новый способ подключения данных к чат-ботам с ИИ](https://habr.com/ru/companies/bothub/news/861258/?utm_campaign=861258&utm_source=habrahabr&utm_medium=rss)
+- [Google разработал AI для поиска ошибок в квантовых компьютерах](https://habr.com/ru/companies/bothub/news/861254/?utm_campaign=861254&utm_source=habrahabr&utm_medium=rss)
 - [Центробанк рассмотрит идею создания единого мобильного приложения для цифрового рубля](https://habr.com/ru/news/861214/?utm_campaign=861214&utm_source=habrahabr&utm_medium=rss)
 - [RuStore и НТЦ ИТ РОСА подписали соглашение о сотрудничестве и интеграции в ОС «РОСА Мобайл» магазина приложений RuStore](https://habr.com/ru/news/861196/?utm_campaign=861196&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» выпустила «Киберазбуку» для дошкольников и учащихся младших классов](https://habr.com/ru/news/861150/?utm_campaign=861150&utm_source=habrahabr&utm_medium=rss)
-- [GitHub закрыл 42 старых issue в рамках улучшения списка базовой функциональности своей дорожной карты](https://habr.com/ru/news/861100/?utm_campaign=861100&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: выросло количество жалоб в ЦБ РФ на попадание в чёрные списки банков](https://habr.com/ru/news/861116/?utm_campaign=861116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
