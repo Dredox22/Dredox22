@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft заблокировала обновление Windows 11 24H2 из-за сбоя USB-модемов, принтеров и сканеров](https://habr.com/ru/news/861042/?utm_campaign=861042&utm_source=habrahabr&utm_medium=rss)
-- [На очередном митапе Сообщества FinDevSecOps подвели итоги первого DevSecOps-хакатона](https://habr.com/ru/companies/rshb/news/861040/?utm_campaign=861040&utm_source=habrahabr&utm_medium=rss)
-- [В Google рассказали о будущем WebGPU](https://habr.com/ru/news/861036/?utm_campaign=861036&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта звуковой станции Zrythm 1.0.0](https://habr.com/ru/news/861028/?utm_campaign=861028&utm_source=habrahabr&utm_medium=rss)
-- [Вышла превью-версия Xogot — редактора Godot для iPadOS](https://habr.com/ru/news/861022/?utm_campaign=861022&utm_source=habrahabr&utm_medium=rss)
+- [[Блиц-кейс] Как успешно мигрировать с зарубежного решения на отечественный биллинг от ISPsystem](https://habr.com/ru/companies/ispsystem/news/861090/?utm_campaign=861090&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила Edify 3D — нейросеть для генерации 3D-моделей](https://habr.com/ru/news/861082/?utm_campaign=861082&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: в определенных сценариях Recall игнорирует список сайтов, скриншоты с которых система не должен сохранять](https://habr.com/ru/news/861080/?utm_campaign=861080&utm_source=habrahabr&utm_medium=rss)
+- [Чем больше знаний о Kubernetes — тем громче оркестр: Orion soft запустил спецпроект с ИИ-генерацией музыки](https://habr.com/ru/companies/orion_soft/news/861068/?utm_campaign=861068&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: компании в области кибербезопасности пожаловались на законопроект об ответственности за утечки данных](https://habr.com/ru/news/861056/?utm_campaign=861056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
