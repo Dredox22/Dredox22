@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователи продемонстрировали джейлбрейк по взлому роботов с ИИ](https://habr.com/ru/news/861008/?utm_campaign=861008&utm_source=habrahabr&utm_medium=rss)
-- [Apple разрабатывает большую языковую модель для Siri](https://habr.com/ru/news/860998/?utm_campaign=860998&utm_source=habrahabr&utm_medium=rss)
-- [Huawei пообещала в течение года запустить 100 тысяч приложений для HarmonyOS](https://habr.com/ru/news/860904/?utm_campaign=860904&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Files 3.8 — открытой альтернативы стандартному проводнику Windows 10/11](https://habr.com/ru/news/860894/?utm_campaign=860894&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила проблемы некоторых игр Ubisoft на Windows 11 24H2](https://habr.com/ru/news/860876/?utm_campaign=860876&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft заблокировала обновление Windows 11 24H2 из-за сбоя USB-модемов, принтеров и сканеров](https://habr.com/ru/news/861042/?utm_campaign=861042&utm_source=habrahabr&utm_medium=rss)
+- [На очередном митапе Сообщества FinDevSecOps подвели итоги первого DevSecOps-хакатона](https://habr.com/ru/companies/rshb/news/861040/?utm_campaign=861040&utm_source=habrahabr&utm_medium=rss)
+- [В Google рассказали о будущем WebGPU](https://habr.com/ru/news/861036/?utm_campaign=861036&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта звуковой станции Zrythm 1.0.0](https://habr.com/ru/news/861028/?utm_campaign=861028&utm_source=habrahabr&utm_medium=rss)
+- [Вышла превью-версия Xogot — редактора Godot для iPadOS](https://habr.com/ru/news/861022/?utm_campaign=861022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
