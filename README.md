@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчиков антивирусов и ИБ-компании в РФ будут штрафовать за утечки данных](https://habr.com/ru/news/861394/?utm_campaign=861394&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи MIT разработали способ обучения более надёжных ИИ-агентов](https://habr.com/ru/news/861372/?utm_campaign=861372&utm_source=habrahabr&utm_medium=rss)
+- [Google Play Store будет предупреждать пользователей о некачественных приложениях](https://habr.com/ru/news/861370/?utm_campaign=861370&utm_source=habrahabr&utm_medium=rss)
+- [НАСА тестирует небольших подводных роботов для будущих миссий](https://habr.com/ru/news/861366/?utm_campaign=861366&utm_source=habrahabr&utm_medium=rss)
 - [В Google Developer Program появился платный уровень для коммерциализации инструментов разработчиков](https://habr.com/ru/news/861358/?utm_campaign=861358&utm_source=habrahabr&utm_medium=rss)
-- [Суд в Москве оштрафовал Telegram на 7 млн рублей за отказ ограничить доступ к запрещённой информации](https://habr.com/ru/news/861350/?utm_campaign=861350&utm_source=habrahabr&utm_medium=rss)
-- [Полиция Таиланда задержала фургон со специальной электроникой для массовой рассылки фишинговых СМС](https://habr.com/ru/news/861344/?utm_campaign=861344&utm_source=habrahabr&utm_medium=rss)
-- [Компания IronTech Dolls создает «душевных» кибердевушек, которые умеют рассказывать истории](https://habr.com/ru/news/861340/?utm_campaign=861340&utm_source=habrahabr&utm_medium=rss)
-- [На платформе Fragment появилось требование к пользователям пройти верификацию на сторонних сервисах](https://habr.com/ru/news/861328/?utm_campaign=861328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
