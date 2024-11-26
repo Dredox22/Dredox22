@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В работе Microsoft 365, Exchange Online, Outlook и Teams произошёл глобальный восьмичасовой сбой](https://habr.com/ru/news/861326/?utm_campaign=861326&utm_source=habrahabr&utm_medium=rss)
 - [Новый PHP-фреймворк Imhotep: быстродействие, оптимизация и импортозамещение](https://habr.com/ru/news/861314/?utm_campaign=861314&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi выпустила плату Pico 2 W с поддержкой Wi-Fi и Bluetooth за $7](https://habr.com/ru/news/861308/?utm_campaign=861308&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies представила официально PT NGFW](https://habr.com/ru/news/861260/?utm_campaign=861260&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic предлагает новый способ подключения данных к чат-ботам с ИИ](https://habr.com/ru/companies/bothub/news/861258/?utm_campaign=861258&utm_source=habrahabr&utm_medium=rss)
-- [Google разработал AI для поиска ошибок в квантовых компьютерах](https://habr.com/ru/companies/bothub/news/861254/?utm_campaign=861254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
