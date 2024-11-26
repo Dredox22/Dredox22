@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Developer Program появился платный уровень для коммерциализации инструментов разработчиков](https://habr.com/ru/news/861358/?utm_campaign=861358&utm_source=habrahabr&utm_medium=rss)
+- [Суд в Москве оштрафовал Telegram на 7 млн рублей за отказ ограничить доступ к запрещённой информации](https://habr.com/ru/news/861350/?utm_campaign=861350&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Таиланда задержала фургон со специальной электроникой для массовой рассылки фишинговых СМС](https://habr.com/ru/news/861344/?utm_campaign=861344&utm_source=habrahabr&utm_medium=rss)
 - [Компания IronTech Dolls создает «душевных» кибердевушек, которые умеют рассказывать истории](https://habr.com/ru/news/861340/?utm_campaign=861340&utm_source=habrahabr&utm_medium=rss)
 - [На платформе Fragment появилось требование к пользователям пройти верификацию на сторонних сервисах](https://habr.com/ru/news/861328/?utm_campaign=861328&utm_source=habrahabr&utm_medium=rss)
-- [В работе Microsoft 365, Exchange Online, Outlook и Teams произошёл глобальный восьмичасовой сбой](https://habr.com/ru/news/861326/?utm_campaign=861326&utm_source=habrahabr&utm_medium=rss)
-- [Новый PHP-фреймворк Imhotep: быстродействие, оптимизация и импортозамещение](https://habr.com/ru/news/861314/?utm_campaign=861314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
