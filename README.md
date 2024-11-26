@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 133.0](https://habr.com/ru/news/861422/?utm_campaign=861422&utm_source=habrahabr&utm_medium=rss)
+- [Neuralink объявила об испытаниях технологии управления роборукой силой мысли](https://habr.com/ru/news/861402/?utm_campaign=861402&utm_source=habrahabr&utm_medium=rss)
+- [Google начала вставлять ссылки поиска в веб-страницы в приложении](https://habr.com/ru/news/861388/?utm_campaign=861388&utm_source=habrahabr&utm_medium=rss)
 - [Разработчиков антивирусов и ИБ-компании в РФ будут штрафовать за утечки данных](https://habr.com/ru/news/861394/?utm_campaign=861394&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи MIT разработали способ обучения более надёжных ИИ-агентов](https://habr.com/ru/news/861372/?utm_campaign=861372&utm_source=habrahabr&utm_medium=rss)
-- [Google Play Store будет предупреждать пользователей о некачественных приложениях](https://habr.com/ru/news/861370/?utm_campaign=861370&utm_source=habrahabr&utm_medium=rss)
-- [НАСА тестирует небольших подводных роботов для будущих миссий](https://habr.com/ru/news/861366/?utm_campaign=861366&utm_source=habrahabr&utm_medium=rss)
-- [В Google Developer Program появился платный уровень для коммерциализации инструментов разработчиков](https://habr.com/ru/news/861358/?utm_campaign=861358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
