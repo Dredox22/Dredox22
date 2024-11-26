@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia представила Fugatto — ИИ, создающий звуки, которых раньше не существовало](https://habr.com/ru/companies/bothub/news/861602/?utm_campaign=861602&utm_source=habrahabr&utm_medium=rss)
+- [Huawei планирует выпустить около 100 тысяч приложений для HarmonyOS в ближайшие полгода](https://habr.com/ru/news/861598/?utm_campaign=861598&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть Sora от OpenAI попала в открытый доступ](https://habr.com/ru/companies/bothub/news/861596/?utm_campaign=861596&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала самовольно собирать данные из документов Word и Excel для обучения ИИ](https://habr.com/ru/news/861590/?utm_campaign=861590&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: 9,5% программистов в крупных IT-компаниях практически ничего не делают и являются сотрудниками-призраками](https://habr.com/ru/news/861568/?utm_campaign=861568&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила об обновлении официальной документации по стратегиям тестирования для разработчиков Android](https://habr.com/ru/news/861530/?utm_campaign=861530&utm_source=habrahabr&utm_medium=rss)
-- [Облачная платформа Timeweb запустила программу по поиску уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/861474/?utm_campaign=861474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
