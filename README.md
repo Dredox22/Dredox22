@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор сообщил о «локальных проблемах», которые 26 ноября произошли на отдельных участках сетей операторов связи](https://habr.com/ru/news/861636/?utm_campaign=861636&utm_source=habrahabr&utm_medium=rss)
 - [Вышел nginx 1.27.3](https://habr.com/ru/news/861634/?utm_campaign=861634&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи жалуются, что Word и Excel собирают данные для обучения нейросетей, но Microsoft отрицает это](https://habr.com/ru/news/861630/?utm_campaign=861630&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила Fugatto — ИИ, создающий звуки, которых раньше не существовало](https://habr.com/ru/companies/bothub/news/861602/?utm_campaign=861602&utm_source=habrahabr&utm_medium=rss)
 - [Huawei планирует выпустить около 100 тысяч приложений для HarmonyOS в ближайшие полгода](https://habr.com/ru/news/861598/?utm_campaign=861598&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть Sora от OpenAI попала в открытый доступ](https://habr.com/ru/companies/bothub/news/861596/?utm_campaign=861596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
