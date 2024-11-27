@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Leica представила камеру Leica M11 и объектив Noctilux-M 50 f/1.2 ASPH](https://habr.com/ru/news/861700/?utm_campaign=861700&utm_source=habrahabr&utm_medium=rss)
+- [Число активных вакансий для разработчиков ПО за последние 5 лет в США сократилось на 56%](https://habr.com/ru/news/861694/?utm_campaign=861694&utm_source=habrahabr&utm_medium=rss)
 - [МВД РФ предупредило о новой схеме мошенничества с блокировкой iPhone](https://habr.com/ru/news/861680/?utm_campaign=861680&utm_source=habrahabr&utm_medium=rss)
 - [В сети выложили скриншоты интерфейса Windows CPC для облачного ПК Microsoft Link](https://habr.com/ru/news/861676/?utm_campaign=861676&utm_source=habrahabr&utm_medium=rss)
 - [Минюст США в своём иске назвал Google «трижды монополистом»](https://habr.com/ru/news/861662/?utm_campaign=861662&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор сообщил о «локальных проблемах», которые 26 ноября произошли на отдельных участках сетей операторов связи](https://habr.com/ru/news/861636/?utm_campaign=861636&utm_source=habrahabr&utm_medium=rss)
-- [Вышел nginx 1.27.3](https://habr.com/ru/news/861634/?utm_campaign=861634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
