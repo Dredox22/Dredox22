@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен дистрибутив elementary OS 8](https://habr.com/ru/news/861856/?utm_campaign=861856&utm_source=habrahabr&utm_medium=rss)
 - [CNews: в РФ доставлена 1 тыс. штук серверных процессоров Baikal-S по заказу разработчика проекта «Байкал Электроникс»](https://habr.com/ru/news/861816/?utm_campaign=861816&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз безопасности Joomla 5.2.2](https://habr.com/ru/news/861804/?utm_campaign=861804&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi представила Compute Module 5 и дополнительные платы для неё](https://habr.com/ru/news/861796/?utm_campaign=861796&utm_source=habrahabr&utm_medium=rss)
 - [Usetech Mobile Meetup #3: Встречаемся в оффлайне](https://habr.com/ru/companies/usetech/news/861786/?utm_campaign=861786&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face выпустила SmolTalk — синтетический датасет для обучения языковых моделей](https://habr.com/ru/news/861780/?utm_campaign=861780&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
