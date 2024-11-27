@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Usetech Mobile Meetup #3: Встречаемся в оффлайне](https://habr.com/ru/companies/usetech/news/861786/?utm_campaign=861786&utm_source=habrahabr&utm_medium=rss)
+- [Hugging Face выпустила SmolTalk — синтетический датасет для обучения языковых моделей](https://habr.com/ru/news/861780/?utm_campaign=861780&utm_source=habrahabr&utm_medium=rss)
+- [Готовьте свои лайки: пора выбрать автора самого красивого кода](https://habr.com/ru/companies/sberbank/news/861764/?utm_campaign=861764&utm_source=habrahabr&utm_medium=rss)
+- [«Смуту» и учебные приложения «Смутное время» скачали 1 млн раз — столько нужно для нового госфинансирования проекта](https://habr.com/ru/news/861766/?utm_campaign=861766&utm_source=habrahabr&utm_medium=rss)
 - [Словом года в номинации «Информационные технологии» по версии портала «Грамота.ру» стал «промпт»](https://habr.com/ru/news/861760/?utm_campaign=861760&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор в США разрешил SpaceX протестировать спутниковый интернет напрямую на смартфонах](https://habr.com/ru/news/861758/?utm_campaign=861758&utm_source=habrahabr&utm_medium=rss)
-- [Релиз набора инструментов для фронтенда Vite 6.0](https://habr.com/ru/news/861750/?utm_campaign=861750&utm_source=habrahabr&utm_medium=rss)
-- [Клиентам банков предложили предоставлять доступ к информации о дроперах](https://habr.com/ru/news/861722/?utm_campaign=861722&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предложило меры по защите от кибермошенников](https://habr.com/ru/news/861712/?utm_campaign=861712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
