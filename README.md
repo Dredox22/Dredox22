@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Словом года в номинации «Информационные технологии» по версии портала «Грамота.ру» стал «промпт»](https://habr.com/ru/news/861760/?utm_campaign=861760&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор в США разрешил SpaceX протестировать спутниковый интернет напрямую на смартфонах](https://habr.com/ru/news/861758/?utm_campaign=861758&utm_source=habrahabr&utm_medium=rss)
 - [Релиз набора инструментов для фронтенда Vite 6.0](https://habr.com/ru/news/861750/?utm_campaign=861750&utm_source=habrahabr&utm_medium=rss)
 - [Клиентам банков предложили предоставлять доступ к информации о дроперах](https://habr.com/ru/news/861722/?utm_campaign=861722&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предложило меры по защите от кибермошенников](https://habr.com/ru/news/861712/?utm_campaign=861712&utm_source=habrahabr&utm_medium=rss)
-- [Uber расширила состав фрилансеров для аннотации и маркировки данных ИИ](https://habr.com/ru/news/861704/?utm_campaign=861704&utm_source=habrahabr&utm_medium=rss)
-- [Leica представила камеру Leica M11 и объектив Noctilux-M 50 f/1.2 ASPH](https://habr.com/ru/news/861700/?utm_campaign=861700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
