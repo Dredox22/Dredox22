@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno Land потребовала лишить Oracle прав на товарный знак JavaScript](https://habr.com/ru/news/861884/?utm_campaign=861884&utm_source=habrahabr&utm_medium=rss)
 - [АРПП предложила создать критерии доверенности мобильных ОС, используемых на критической инфраструктуре](https://habr.com/ru/news/861864/?utm_campaign=861864&utm_source=habrahabr&utm_medium=rss)
 - [Представлен дистрибутив elementary OS 8](https://habr.com/ru/news/861856/?utm_campaign=861856&utm_source=habrahabr&utm_medium=rss)
 - [CNews: в РФ доставлена 1 тыс. штук серверных процессоров Baikal-S по заказу разработчика проекта «Байкал Электроникс»](https://habr.com/ru/news/861816/?utm_campaign=861816&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз безопасности Joomla 5.2.2](https://habr.com/ru/news/861804/?utm_campaign=861804&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi представила Compute Module 5 и дополнительные платы для неё](https://habr.com/ru/news/861796/?utm_campaign=861796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
