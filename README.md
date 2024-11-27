@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CNews: в РФ доставлена 1 тыс. штук серверных процессоров Baikal-S по заказу разработчика проекта «Байкал Электроникс»](https://habr.com/ru/news/861816/?utm_campaign=861816&utm_source=habrahabr&utm_medium=rss)
+- [Вышел релиз безопасности Joomla 5.2.2](https://habr.com/ru/news/861804/?utm_campaign=861804&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi представила Compute Module 5 и дополнительные платы для неё](https://habr.com/ru/news/861796/?utm_campaign=861796&utm_source=habrahabr&utm_medium=rss)
 - [Usetech Mobile Meetup #3: Встречаемся в оффлайне](https://habr.com/ru/companies/usetech/news/861786/?utm_campaign=861786&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face выпустила SmolTalk — синтетический датасет для обучения языковых моделей](https://habr.com/ru/news/861780/?utm_campaign=861780&utm_source=habrahabr&utm_medium=rss)
-- [Готовьте свои лайки: пора выбрать автора самого красивого кода](https://habr.com/ru/companies/sberbank/news/861764/?utm_campaign=861764&utm_source=habrahabr&utm_medium=rss)
-- [«Смуту» и учебные приложения «Смутное время» скачали 1 млн раз — столько нужно для нового госфинансирования проекта](https://habr.com/ru/news/861766/?utm_campaign=861766&utm_source=habrahabr&utm_medium=rss)
-- [Словом года в номинации «Информационные технологии» по версии портала «Грамота.ру» стал «промпт»](https://habr.com/ru/news/861760/?utm_campaign=861760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
