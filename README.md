@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз набора инструментов для фронтенда Vite 6.0](https://habr.com/ru/news/861750/?utm_campaign=861750&utm_source=habrahabr&utm_medium=rss)
+- [Клиентам банков предложили предоставлять доступ к информации о дроперах](https://habr.com/ru/news/861722/?utm_campaign=861722&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило меры по защите от кибермошенников](https://habr.com/ru/news/861712/?utm_campaign=861712&utm_source=habrahabr&utm_medium=rss)
+- [Uber расширила состав фрилансеров для аннотации и маркировки данных ИИ](https://habr.com/ru/news/861704/?utm_campaign=861704&utm_source=habrahabr&utm_medium=rss)
 - [Leica представила камеру Leica M11 и объектив Noctilux-M 50 f/1.2 ASPH](https://habr.com/ru/news/861700/?utm_campaign=861700&utm_source=habrahabr&utm_medium=rss)
-- [Число активных вакансий для разработчиков ПО за последние 5 лет в США сократилось на 56%](https://habr.com/ru/news/861694/?utm_campaign=861694&utm_source=habrahabr&utm_medium=rss)
-- [МВД РФ предупредило о новой схеме мошенничества с блокировкой iPhone](https://habr.com/ru/news/861680/?utm_campaign=861680&utm_source=habrahabr&utm_medium=rss)
-- [В сети выложили скриншоты интерфейса Windows CPC для облачного ПК Microsoft Link](https://habr.com/ru/news/861676/?utm_campaign=861676&utm_source=habrahabr&utm_medium=rss)
-- [Минюст США в своём иске назвал Google «трижды монополистом»](https://habr.com/ru/news/861662/?utm_campaign=861662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
