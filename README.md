@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs представила GenFM, нового конкурента NotebookLM для создания AI-подкастов](https://habr.com/ru/companies/bothub/news/862154/?utm_campaign=862154&utm_source=habrahabr&utm_medium=rss)
+- [Java Rock Stars Meetup для Java- и Spring-разработчиков](https://habr.com/ru/companies/axiomjdk/news/862064/?utm_campaign=862064&utm_source=habrahabr&utm_medium=rss)
+- [Squadus PRO стал победителем TAdviser IT Prize](https://habr.com/ru/companies/ncloudtech/news/862126/?utm_campaign=862126&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Flux привлекают $200 млн по оценке более чем в $1 млрд](https://habr.com/ru/companies/bothub/news/862140/?utm_campaign=862140&utm_source=habrahabr&utm_medium=rss)
 - [Игра без лагов и зависаний: интегрировали BILLmanager с панелью Pterodactyl](https://habr.com/ru/companies/ispsystem/news/861098/?utm_campaign=861098&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Фабрика» доработала линейку ноутбуков Lunnen Ground 16](https://habr.com/ru/news/861942/?utm_campaign=861942&utm_source=habrahabr&utm_medium=rss)
-- [Вовлечение россиян в невольное пособничество мошенникам увеличилось на 20%](https://habr.com/ru/news/862072/?utm_campaign=862072&utm_source=habrahabr&utm_medium=rss)
-- [Zello попросила пользователей срочно сбросить пароли в учётках, если их аккаунт создан до 2 ноября 2024 года](https://habr.com/ru/news/862062/?utm_campaign=862062&utm_source=habrahabr&utm_medium=rss)
-- [В Дагестане задержали мошенника, который брал кредиты на граждан по данным из слитых баз](https://habr.com/ru/news/862044/?utm_campaign=862044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
