@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные представили цифровой леденец для VR](https://habr.com/ru/news/862208/?utm_campaign=862208&utm_source=habrahabr&utm_medium=rss)
 - [В лицензионном соглашении Assassin&#39;s Creed: Shadows требуется предоставить Ubisoft полный доступ к мониторингу RAM на ПК](https://habr.com/ru/news/862194/?utm_campaign=862194&utm_source=habrahabr&utm_medium=rss)
 - [В России начнут оснащать автомобили отечественными системами защиты от кибератак](https://habr.com/ru/news/862162/?utm_campaign=862162&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs представила GenFM, нового конкурента NotebookLM для создания AI-подкастов](https://habr.com/ru/companies/bothub/news/862154/?utm_campaign=862154&utm_source=habrahabr&utm_medium=rss)
 - [Java Rock Stars Meetup для Java- и Spring-разработчиков](https://habr.com/ru/companies/axiomjdk/news/862064/?utm_campaign=862064&utm_source=habrahabr&utm_medium=rss)
-- [Squadus PRO стал победителем TAdviser IT Prize](https://habr.com/ru/companies/ncloudtech/news/862126/?utm_campaign=862126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
