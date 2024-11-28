@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Игра без лагов и зависаний: интегрировали BILLmanager с панелью Pterodactyl](https://habr.com/ru/companies/ispsystem/news/861098/?utm_campaign=861098&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Фабрика» доработала линейку ноутбуков Lunnen Ground 16](https://habr.com/ru/news/861942/?utm_campaign=861942&utm_source=habrahabr&utm_medium=rss)
+- [Вовлечение россиян в невольное пособничество мошенникам увеличилось на 20%](https://habr.com/ru/news/862072/?utm_campaign=862072&utm_source=habrahabr&utm_medium=rss)
+- [Zello попросила пользователей срочно сбросить пароли в учётках, если их аккаунт создан до 2 ноября 2024 года](https://habr.com/ru/news/862062/?utm_campaign=862062&utm_source=habrahabr&utm_medium=rss)
 - [В Дагестане задержали мошенника, который брал кредиты на граждан по данным из слитых баз](https://habr.com/ru/news/862044/?utm_campaign=862044&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных курсов и занятий, которые можно посетить в декабре](https://habr.com/ru/companies/netologyru/news/862040/?utm_campaign=862040&utm_source=habrahabr&utm_medium=rss)
-- [Странный баг в Android Auto добавляет в конце звук «О» при чтении сообщений из WhatsApp с помощью Google Assistant](https://habr.com/ru/news/862034/?utm_campaign=862034&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь обнаружил в сети незащищённую паролем базу данных инфоброкера SL Data Services/Propertyrec](https://habr.com/ru/news/862010/?utm_campaign=862010&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объединит свои видеопредложения под брендом Clipchamp](https://habr.com/ru/news/862004/?utm_campaign=862004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
