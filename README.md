@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Регулятор США начал антимонопольное расследование деятельности Microsoft](https://habr.com/ru/news/861948/?utm_campaign=861948&utm_source=habrahabr&utm_medium=rss)
 - [Веб-версия Word получила улучшенную нумерацию строк](https://habr.com/ru/news/861902/?utm_campaign=861902&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует добавить в перечень сведений о хостинг-провайдерах данные о вычислительной мощности IT-инфраструктуры](https://habr.com/ru/news/861934/?utm_campaign=861934&utm_source=habrahabr&utm_medium=rss)
 - [Вышла OminiControl — нейросеть для перемещения объектов с одного изображения на другое](https://habr.com/ru/news/861914/?utm_campaign=861914&utm_source=habrahabr&utm_medium=rss)
 - [В опенсорс вышел VZ Editor — японский текстовый редактор эпохи MS-DOS](https://habr.com/ru/news/861910/?utm_campaign=861910&utm_source=habrahabr&utm_medium=rss)
-- [Deno Land потребовала лишить Oracle прав на товарный знак JavaScript](https://habr.com/ru/news/861884/?utm_campaign=861884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
