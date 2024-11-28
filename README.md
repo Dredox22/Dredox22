@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TelecomDaily: скорость мобильного интернета в метро Москвы за год снизилась на 10,6%](https://habr.com/ru/news/861998/?utm_campaign=861998&utm_source=habrahabr&utm_medium=rss)
+- [В Minecraft запустили около тысячи персонажей с ИИ](https://habr.com/ru/news/861988/?utm_campaign=861988&utm_source=habrahabr&utm_medium=rss)
+- [Митап для Java- и Kotlin-разработчиков в Минске](https://habr.com/ru/companies/mws/news/861982/?utm_campaign=861982&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba представила открытую ИИ-модель QwQ-32B-Preview](https://habr.com/ru/news/861978/?utm_campaign=861978&utm_source=habrahabr&utm_medium=rss)
 - [Корутины, итераторы и асинхронность. Приглашаем на Lamoda Tech Golang Meetup](https://habr.com/ru/companies/lamoda/news/861960/?utm_campaign=861960&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft создала магазин игр Xbox на Android, но не может его запустить](https://habr.com/ru/news/861954/?utm_campaign=861954&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь опубликовал инструменты для перепрошивки и управления светодиодом веб-камеры на ThinkPad X230](https://habr.com/ru/news/861952/?utm_campaign=861952&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор США начал антимонопольное расследование деятельности Microsoft](https://habr.com/ru/news/861948/?utm_campaign=861948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
