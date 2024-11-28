@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft создала магазин игр Xbox на Android, но не может его запустить](https://habr.com/ru/news/861954/?utm_campaign=861954&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь опубликовал инструменты для перепрошивки и управления светодиодом веб-камеры на ThinkPad X230](https://habr.com/ru/news/861952/?utm_campaign=861952&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор США начал антимонопольное расследование деятельности Microsoft](https://habr.com/ru/news/861948/?utm_campaign=861948&utm_source=habrahabr&utm_medium=rss)
 - [Веб-версия Word получила улучшенную нумерацию строк](https://habr.com/ru/news/861902/?utm_campaign=861902&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует добавить в перечень сведений о хостинг-провайдерах данные о вычислительной мощности IT-инфраструктуры](https://habr.com/ru/news/861934/?utm_campaign=861934&utm_source=habrahabr&utm_medium=rss)
-- [Вышла OminiControl — нейросеть для перемещения объектов с одного изображения на другое](https://habr.com/ru/news/861914/?utm_campaign=861914&utm_source=habrahabr&utm_medium=rss)
-- [В опенсорс вышел VZ Editor — японский текстовый редактор эпохи MS-DOS](https://habr.com/ru/news/861910/?utm_campaign=861910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
