@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis Inc. потребовала передать ей клиентскую библиотеку Rust redis-rs](https://habr.com/ru/news/862302/?utm_campaign=862302&utm_source=habrahabr&utm_medium=rss)
+- [Spotify закрыл несколько своих endpoint API](https://habr.com/ru/news/862280/?utm_campaign=862280&utm_source=habrahabr&utm_medium=rss)
 - [Глава VK Play заявил, что площадка не позиционируется как полноценная замена Steam](https://habr.com/ru/news/862274/?utm_campaign=862274&utm_source=habrahabr&utm_medium=rss)
 - [Спустя неделю после релиза серверы Microsoft Flight Simulator 2024 заработали с доступностью 99,999% для всех игроков](https://habr.com/ru/news/862254/?utm_campaign=862254&utm_source=habrahabr&utm_medium=rss)
 - [Google Labs запустила GenChess — сервис генерации уникальных шахматных фигур](https://habr.com/ru/news/862230/?utm_campaign=862230&utm_source=habrahabr&utm_medium=rss)
-- [Учёные представили цифровой леденец для VR](https://habr.com/ru/news/862208/?utm_campaign=862208&utm_source=habrahabr&utm_medium=rss)
-- [В лицензионном соглашении Assassin&#39;s Creed: Shadows требуется предоставить Ubisoft полный доступ к мониторингу RAM на ПК](https://habr.com/ru/news/862194/?utm_campaign=862194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
