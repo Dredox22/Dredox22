@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon разрабатывает собственную мультимодальную модель машинного обучения](https://habr.com/ru/news/862596/?utm_campaign=862596&utm_source=habrahabr&utm_medium=rss)
 - [В МГУ создали двухколесного балансирующего робота, который сможет работать официантом или курьером](https://habr.com/ru/news/862580/?utm_campaign=862580&utm_source=habrahabr&utm_medium=rss)
 - [Производители печатных плат настаивают на обязательном использовании российских плат в электронике](https://habr.com/ru/news/862574/?utm_campaign=862574&utm_source=habrahabr&utm_medium=rss)
 - [GigaChat Сбера сдал ещё один экзамен на врача](https://habr.com/ru/news/862568/?utm_campaign=862568&utm_source=habrahabr&utm_medium=rss)
 - [Активы F.A.C.C.T. перейдут Фонду результативной кибербезопасности «Сайберус» и группе частных инвесторов](https://habr.com/ru/news/862564/?utm_campaign=862564&utm_source=habrahabr&utm_medium=rss)
-- [К эксперименту по добровольной маркировке видеоигр в VK Play присоединилось уже несколько сотен разработчиков](https://habr.com/ru/news/862548/?utm_campaign=862548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
