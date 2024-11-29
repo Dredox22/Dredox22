@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis Inc. потребовала передать ей клиентскую библиотеку Rust redis-rs](https://habr.com/ru/news/862302/?utm_campaign=862302&utm_source=habrahabr&utm_medium=rss)
-- [Spotify закрыл несколько своих endpoint API](https://habr.com/ru/news/862280/?utm_campaign=862280&utm_source=habrahabr&utm_medium=rss)
-- [Глава VK Play заявил, что площадка не позиционируется как полноценная замена Steam](https://habr.com/ru/news/862274/?utm_campaign=862274&utm_source=habrahabr&utm_medium=rss)
-- [Спустя неделю после релиза серверы Microsoft Flight Simulator 2024 заработали с доступностью 99,999% для всех игроков](https://habr.com/ru/news/862254/?utm_campaign=862254&utm_source=habrahabr&utm_medium=rss)
-- [Google Labs запустила GenChess — сервис генерации уникальных шахматных фигур](https://habr.com/ru/news/862230/?utm_campaign=862230&utm_source=habrahabr&utm_medium=rss)
+- [Релиз среды рабочего стола Cinnamon 6.4](https://habr.com/ru/news/862368/?utm_campaign=862368&utm_source=habrahabr&utm_medium=rss)
+- [Иск Wolfire Studios и Dark Catt Studios против Steam стал коллективным](https://habr.com/ru/news/862362/?utm_campaign=862362&utm_source=habrahabr&utm_medium=rss)
+- [В Chatbot Arena появился режим тестов RepoChat](https://habr.com/ru/news/862342/?utm_campaign=862342&utm_source=habrahabr&utm_medium=rss)
+- [Учёные из T-Bank AI Research и AIRI создали первую открытую среду для контекстного обучения с подкреплением](https://habr.com/ru/news/862328/?utm_campaign=862328&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Tails 6.10](https://habr.com/ru/news/862316/?utm_campaign=862316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
