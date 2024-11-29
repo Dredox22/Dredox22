@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Активы F.A.C.C.T. перейдут Фонду результативной кибербезопасности «Сайберус» и группе частных инвесторов](https://habr.com/ru/news/862564/?utm_campaign=862564&utm_source=habrahabr&utm_medium=rss)
+- [К эксперименту по добровольной маркировке видеоигр в VK Play присоединилось уже несколько сотен разработчиков](https://habr.com/ru/news/862548/?utm_campaign=862548&utm_source=habrahabr&utm_medium=rss)
 - [РКН подтвердил сбой в работе банковских сервисов, служб доставки и операторов связи &lpar;инцидент с Yandex Cloud&rpar;](https://habr.com/ru/news/862528/?utm_campaign=862528&utm_source=habrahabr&utm_medium=rss)
 - [Шпионская сага: новые подробности в деле WhatsApp vs NSO Group](https://habr.com/ru/news/862526/?utm_campaign=862526&utm_source=habrahabr&utm_medium=rss)
 - [Google работает над упрощённым пользовательским интерфейсом для чат-бота Gemini](https://habr.com/ru/news/862488/?utm_campaign=862488&utm_source=habrahabr&utm_medium=rss)
-- [Приходите на HighLoad++, чтобы узнать больше про разработку в Авито](https://habr.com/ru/companies/avito/news/862456/?utm_campaign=862456&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.83](https://habr.com/ru/news/862408/?utm_campaign=862408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
