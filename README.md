@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел первый хотфикс для бета-версии игрового движка Nau Engine](https://habr.com/ru/news/862650/?utm_campaign=862650&utm_source=habrahabr&utm_medium=rss)
 - [GM получила патент на систему защиты роботакси от «враждебных» пешеходов](https://habr.com/ru/news/862642/?utm_campaign=862642&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над приложением File Search Companion для панели задач Windows](https://habr.com/ru/news/862638/?utm_campaign=862638&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Sniper Elite считают повторное использование ассетов хорошей практикой](https://habr.com/ru/news/862634/?utm_campaign=862634&utm_source=habrahabr&utm_medium=rss)
 - [Hyundai представила проект экзоскелета X-ble Shoulder](https://habr.com/ru/news/862632/?utm_campaign=862632&utm_source=habrahabr&utm_medium=rss)
-- [В суд РФ передано дело хакера, объявленного в розыск ФБР с наградой $10 млн за участие в проектах Hive и LockBit](https://habr.com/ru/news/862626/?utm_campaign=862626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
