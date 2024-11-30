@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В суд РФ передано дело хакера, объявленного в розыск ФБР с наградой $10 млн за участие в проектах Hive и LockBit](https://habr.com/ru/news/862626/?utm_campaign=862626&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-7 Focal](https://habr.com/ru/news/862618/?utm_campaign=862618&utm_source=habrahabr&utm_medium=rss)
 - [В Yandex Cloud восстановили связность облачных ресурсов после глобального инцидента 29 ноября](https://habr.com/ru/news/862614/?utm_campaign=862614&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» приобрёл платёжный сервис NewPay](https://habr.com/ru/news/862588/?utm_campaign=862588&utm_source=habrahabr&utm_medium=rss)
 - [Официальное API Tesla становится платным, некоторые разработчики должны будут платить компании по 60 млн долларов в год](https://habr.com/ru/news/862608/?utm_campaign=862608&utm_source=habrahabr&utm_medium=rss)
-- [Amazon разрабатывает собственную мультимодальную модель машинного обучения](https://habr.com/ru/news/862596/?utm_campaign=862596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
