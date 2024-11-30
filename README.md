@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GM получила патент на систему защиты роботакси от «враждебных» пешеходов](https://habr.com/ru/news/862642/?utm_campaign=862642&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft работает над приложением File Search Companion для панели задач Windows](https://habr.com/ru/news/862638/?utm_campaign=862638&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Sniper Elite считают повторное использование ассетов хорошей практикой](https://habr.com/ru/news/862634/?utm_campaign=862634&utm_source=habrahabr&utm_medium=rss)
+- [Hyundai представила проект экзоскелета X-ble Shoulder](https://habr.com/ru/news/862632/?utm_campaign=862632&utm_source=habrahabr&utm_medium=rss)
 - [В суд РФ передано дело хакера, объявленного в розыск ФБР с наградой $10 млн за участие в проектах Hive и LockBit](https://habr.com/ru/news/862626/?utm_campaign=862626&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-7 Focal](https://habr.com/ru/news/862618/?utm_campaign=862618&utm_source=habrahabr&utm_medium=rss)
-- [В Yandex Cloud восстановили связность облачных ресурсов после глобального инцидента 29 ноября](https://habr.com/ru/news/862614/?utm_campaign=862614&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» приобрёл платёжный сервис NewPay](https://habr.com/ru/news/862588/?utm_campaign=862588&utm_source=habrahabr&utm_medium=rss)
-- [Официальное API Tesla становится платным, некоторые разработчики должны будут платить компании по 60 млн долларов в год](https://habr.com/ru/news/862608/?utm_campaign=862608&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
