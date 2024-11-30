@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Advent of Code 2024 — адвент-календарь с задачами по программированию](https://habr.com/ru/news/862724/?utm_campaign=862724&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp начал тестирование QR-кодов каналов на iPhone и Android](https://habr.com/ru/news/862714/?utm_campaign=862714&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome тестирует новую функцию Store Reviews на базе ИИ](https://habr.com/ru/news/862712/?utm_campaign=862712&utm_source=habrahabr&utm_medium=rss)
 - [FTC поменяла правила телемаркетинговых продаж для борьбы с поддельной техподдержкой](https://habr.com/ru/news/862708/?utm_campaign=862708&utm_source=habrahabr&utm_medium=rss)
 - [1С Game Studios показала первый геймплейный трейлер игры «Война Миров: Сибирь»](https://habr.com/ru/news/862706/?utm_campaign=862706&utm_source=habrahabr&utm_medium=rss)
-- [Для S.T.A.L.K.E.R. 2: Heart of Chornobyl вышел первый крупный патч 1.0.1 с исправлениями 650 багов](https://habr.com/ru/news/862684/?utm_campaign=862684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
