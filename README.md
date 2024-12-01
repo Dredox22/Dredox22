@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 3.5 Sonnet официально больше не доступен для бесплатных пользователей](https://habr.com/ru/news/862818/?utm_campaign=862818&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники начали использовать ПО Scareware, которое имитирует повреждённый экран смартфона](https://habr.com/ru/news/862764/?utm_campaign=862764&utm_source=habrahabr&utm_medium=rss)
 - [Tesla тестирует новую роборуку для Optimus](https://habr.com/ru/news/862760/?utm_campaign=862760&utm_source=habrahabr&utm_medium=rss)
 - [В России значительно увеличили штрафы компаниям за утечку персональных данных пользователей](https://habr.com/ru/news/862744/?utm_campaign=862744&utm_source=habrahabr&utm_medium=rss)
 - [В открытую продажу поступила релизная версия открытого маршрутизатора OpenWrt One от сообществ OpenWrt и Banana Pi](https://habr.com/ru/news/862742/?utm_campaign=862742&utm_source=habrahabr&utm_medium=rss)
-- [В России ввели уголовное наказание за незаконные сбор и передачу персональных данных](https://habr.com/ru/news/862738/?utm_campaign=862738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
