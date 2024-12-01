@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России значительно увеличили штрафы компаниям за утечку персональных данных пользователей](https://habr.com/ru/news/862744/?utm_campaign=862744&utm_source=habrahabr&utm_medium=rss)
+- [В открытую продажу поступила релизная версия открытого маршрутизатора OpenWrt One от сообществ OpenWrt и Banana Pi](https://habr.com/ru/news/862742/?utm_campaign=862742&utm_source=habrahabr&utm_medium=rss)
 - [В России ввели уголовное наказание за незаконные сбор и передачу персональных данных](https://habr.com/ru/news/862738/?utm_campaign=862738&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Advent of Code 2024 — адвент-календарь с задачами по программированию](https://habr.com/ru/news/862724/?utm_campaign=862724&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp начал тестирование QR-кодов каналов на iPhone и Android](https://habr.com/ru/news/862714/?utm_campaign=862714&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome тестирует новую функцию Store Reviews на базе ИИ](https://habr.com/ru/news/862712/?utm_campaign=862712&utm_source=habrahabr&utm_medium=rss)
-- [FTC поменяла правила телемаркетинговых продаж для борьбы с поддельной техподдержкой](https://habr.com/ru/news/862708/?utm_campaign=862708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
