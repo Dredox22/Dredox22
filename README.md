@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эмулятор терминала на Android — Termux получил европейский грант на развитие](https://habr.com/ru/news/862884/?utm_campaign=862884&utm_source=habrahabr&utm_medium=rss)
 - [Вышла QWQ 32b — только без цензуры](https://habr.com/ru/news/862856/?utm_campaign=862856&utm_source=habrahabr&utm_medium=rss)
 - [В РФ зафиксирован масштабный сбой в работе мессенджера Viber](https://habr.com/ru/news/862828/?utm_campaign=862828&utm_source=habrahabr&utm_medium=rss)
 - [Claude 3.5 Sonnet официально больше не доступен для бесплатных пользователей](https://habr.com/ru/news/862818/?utm_campaign=862818&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники начали использовать ПО Scareware, которое имитирует повреждённый экран смартфона](https://habr.com/ru/news/862764/?utm_campaign=862764&utm_source=habrahabr&utm_medium=rss)
-- [Tesla тестирует новую роборуку для Optimus](https://habr.com/ru/news/862760/?utm_campaign=862760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
