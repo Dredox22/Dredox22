@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft разрешила устанавливать Windows 11 на старые ПК, но их пользователи должны подписать отказ от ответственности](https://habr.com/ru/news/862900/?utm_campaign=862900&utm_source=habrahabr&utm_medium=rss)
 - [Эмулятор терминала на Android — Termux получил европейский грант на развитие](https://habr.com/ru/news/862884/?utm_campaign=862884&utm_source=habrahabr&utm_medium=rss)
 - [Вышла QWQ 32b — только без цензуры](https://habr.com/ru/news/862856/?utm_campaign=862856&utm_source=habrahabr&utm_medium=rss)
 - [В РФ зафиксирован масштабный сбой в работе мессенджера Viber](https://habr.com/ru/news/862828/?utm_campaign=862828&utm_source=habrahabr&utm_medium=rss)
 - [Claude 3.5 Sonnet официально больше не доступен для бесплатных пользователей](https://habr.com/ru/news/862818/?utm_campaign=862818&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники начали использовать ПО Scareware, которое имитирует повреждённый экран смартфона](https://habr.com/ru/news/862764/?utm_campaign=862764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
