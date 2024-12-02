@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Игра «Смута» номинант на премию «Знание.Премия» в разделе «Народный выбор»](https://habr.com/ru/news/863088/?utm_campaign=863088&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face выпустила SmolVLM — коллекцию компактных визуально-текстовых моделей](https://habr.com/ru/news/863060/?utm_campaign=863060&utm_source=habrahabr&utm_medium=rss)
 - [Производитель «Кама» показал интерфейс управления на руле электромобиля «Атом»](https://habr.com/ru/news/863056/?utm_campaign=863056&utm_source=habrahabr&utm_medium=rss)
 - [Российские ученые разработали виртуальный полигон для обучения студентов по дисциплине «криминалистика»](https://habr.com/ru/news/863040/?utm_campaign=863040&utm_source=habrahabr&utm_medium=rss)
 - [VK расширила список опций сервиса «Телеком Радар» для операторов широкополосного доступа](https://habr.com/ru/news/863030/?utm_campaign=863030&utm_source=habrahabr&utm_medium=rss)
-- [AWS представила сервис для автоматизированного реагирования на киберугрозы](https://habr.com/ru/news/863024/?utm_campaign=863024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
