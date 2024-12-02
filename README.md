@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильное приложение Death Clock предсказывает дату смерти и даёт советы, как её отодвинуть](https://habr.com/ru/news/863208/?utm_campaign=863208&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик Half-Life 2 Overcharged 2.0 внедрил в мод код для блокировки по ID пользователей-критиков из Steam](https://habr.com/ru/news/863160/?utm_campaign=863160&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/863142/?utm_campaign=863142&utm_source=habrahabr&utm_medium=rss)
 - [Запустили новый сезон подкаста «Деньги любят техно» — «Лица Data Fusion»](https://habr.com/ru/companies/vtb/news/863122/?utm_campaign=863122&utm_source=habrahabr&utm_medium=rss)
 - [Пиво, моки, три доклада](https://habr.com/ru/companies/2gis/news/863104/?utm_campaign=863104&utm_source=habrahabr&utm_medium=rss)
-- [Маркетплейсы как шанс для бизнеса и вызов для ИТ](https://habr.com/ru/companies/korus_consulting/news/863114/?utm_campaign=863114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
