@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft решила развернуть поддержку файлов .pst в новом Outlook до закрытия Mail](https://habr.com/ru/news/862922/?utm_campaign=862922&utm_source=habrahabr&utm_medium=rss)
+- [Производительность 1С: Intel vs AMD — что эффективнее? Расскажем на вебинаре 5 декабря](https://habr.com/ru/companies/mclouds/news/862912/?utm_campaign=862912&utm_source=habrahabr&utm_medium=rss)
+- [Блогер создал шлем для выключения света силой мысли](https://habr.com/ru/news/862916/?utm_campaign=862916&utm_source=habrahabr&utm_medium=rss)
+- [AT&amp;amp;T демонтировала почти 13 километров старых телекоммуникационных кабелей со дна озера Тахо](https://habr.com/ru/news/862918/?utm_campaign=862918&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрешила устанавливать Windows 11 на старые ПК, но их пользователи должны подписать отказ от ответственности](https://habr.com/ru/news/862900/?utm_campaign=862900&utm_source=habrahabr&utm_medium=rss)
-- [Эмулятор терминала на Android — Termux получил европейский грант на развитие](https://habr.com/ru/news/862884/?utm_campaign=862884&utm_source=habrahabr&utm_medium=rss)
-- [Вышла QWQ 32b — только без цензуры](https://habr.com/ru/news/862856/?utm_campaign=862856&utm_source=habrahabr&utm_medium=rss)
-- [В РФ зафиксирован масштабный сбой в работе мессенджера Viber](https://habr.com/ru/news/862828/?utm_campaign=862828&utm_source=habrahabr&utm_medium=rss)
-- [Claude 3.5 Sonnet официально больше не доступен для бесплатных пользователей](https://habr.com/ru/news/862818/?utm_campaign=862818&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
