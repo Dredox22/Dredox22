@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запустили новый сезон подкаста «Деньги любят техно» — «Лица Data Fusion»](https://habr.com/ru/companies/vtb/news/863122/?utm_campaign=863122&utm_source=habrahabr&utm_medium=rss)
+- [Пиво, моки, три доклада](https://habr.com/ru/companies/2gis/news/863104/?utm_campaign=863104&utm_source=habrahabr&utm_medium=rss)
 - [Маркетплейсы как шанс для бизнеса и вызов для ИТ](https://habr.com/ru/companies/korus_consulting/news/863114/?utm_campaign=863114&utm_source=habrahabr&utm_medium=rss)
 - [Организатор даркнет-маркетплейса Hydra получил пожизненный срок](https://habr.com/ru/news/863112/?utm_campaign=863112&utm_source=habrahabr&utm_medium=rss)
 - [Игра «Смута» номинант на премию «Знание.Премия» в разделе «Народный выбор»](https://habr.com/ru/news/863088/?utm_campaign=863088&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face выпустила SmolVLM — коллекцию компактных визуально-текстовых моделей](https://habr.com/ru/news/863060/?utm_campaign=863060&utm_source=habrahabr&utm_medium=rss)
-- [Производитель «Кама» показал интерфейс управления на руле электромобиля «Атом»](https://habr.com/ru/news/863056/?utm_campaign=863056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
