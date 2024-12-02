@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugging Face выпустила SmolVLM — коллекцию компактных визуально-текстовых моделей](https://habr.com/ru/news/863060/?utm_campaign=863060&utm_source=habrahabr&utm_medium=rss)
+- [Производитель «Кама» показал интерфейс управления на руле электромобиля «Атом»](https://habr.com/ru/news/863056/?utm_campaign=863056&utm_source=habrahabr&utm_medium=rss)
+- [Российские ученые разработали виртуальный полигон для обучения студентов по дисциплине «криминалистика»](https://habr.com/ru/news/863040/?utm_campaign=863040&utm_source=habrahabr&utm_medium=rss)
+- [VK расширила список опций сервиса «Телеком Радар» для операторов широкополосного доступа](https://habr.com/ru/news/863030/?utm_campaign=863030&utm_source=habrahabr&utm_medium=rss)
 - [AWS представила сервис для автоматизированного реагирования на киберугрозы](https://habr.com/ru/news/863024/?utm_campaign=863024&utm_source=habrahabr&utm_medium=rss)
-- [Поговорим о защите API в ближайшей перспективе](https://habr.com/ru/companies/webmonitorx/news/863008/?utm_campaign=863008&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики вычислительной техники из РФ в 2024 году на 40% увеличили инвестиции в оборудование для ИИ](https://habr.com/ru/news/862990/?utm_campaign=862990&utm_source=habrahabr&utm_medium=rss)
-- [TheBratans опубликовала игровой трейлер российской игры «Русы против ящеров 2»](https://habr.com/ru/news/862988/?utm_campaign=862988&utm_source=habrahabr&utm_medium=rss)
-- [Luxms BI 10.2 — новая версия платформы](https://habr.com/ru/companies/luxms_bi/news/862982/?utm_campaign=862982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
