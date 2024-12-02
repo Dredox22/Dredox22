@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пред­ста­вите­ли вузов и телекоммуникационных ком­па­ний считают, что в IT-сфе­ре РФ ос­трый де­фицит инженеров](https://habr.com/ru/news/862956/?utm_campaign=862956&utm_source=habrahabr&utm_medium=rss)
+- [В InfoWatch предложили профинансировать создание языка разработки для ИИ](https://habr.com/ru/news/862952/?utm_campaign=862952&utm_source=habrahabr&utm_medium=rss)
+- [СМИ сообщили о снижении трафика поисковика Google из-за «негуглящей» молодёжи](https://habr.com/ru/news/862948/?utm_campaign=862948&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры создали «одеяло» из сложных радиочастотных антенн](https://habr.com/ru/news/862932/?utm_campaign=862932&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft решила развернуть поддержку файлов .pst в новом Outlook до закрытия Mail](https://habr.com/ru/news/862922/?utm_campaign=862922&utm_source=habrahabr&utm_medium=rss)
-- [Производительность 1С: Intel vs AMD — что эффективнее? Расскажем на вебинаре 5 декабря](https://habr.com/ru/companies/mclouds/news/862912/?utm_campaign=862912&utm_source=habrahabr&utm_medium=rss)
-- [Блогер создал шлем для выключения света силой мысли](https://habr.com/ru/news/862916/?utm_campaign=862916&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T демонтировала почти 13 километров старых телекоммуникационных кабелей со дна озера Тахо](https://habr.com/ru/news/862918/?utm_campaign=862918&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешила устанавливать Windows 11 на старые ПК, но их пользователи должны подписать отказ от ответственности](https://habr.com/ru/news/862900/?utm_campaign=862900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
