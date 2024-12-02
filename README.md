@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS представила сервис для автоматизированного реагирования на киберугрозы](https://habr.com/ru/news/863024/?utm_campaign=863024&utm_source=habrahabr&utm_medium=rss)
+- [Поговорим о защите API в ближайшей перспективе](https://habr.com/ru/companies/webmonitorx/news/863008/?utm_campaign=863008&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики вычислительной техники из РФ в 2024 году на 40% увеличили инвестиции в оборудование для ИИ](https://habr.com/ru/news/862990/?utm_campaign=862990&utm_source=habrahabr&utm_medium=rss)
+- [TheBratans опубликовала игровой трейлер российской игры «Русы против ящеров 2»](https://habr.com/ru/news/862988/?utm_campaign=862988&utm_source=habrahabr&utm_medium=rss)
 - [Luxms BI 10.2 — новая версия платформы](https://habr.com/ru/companies/luxms_bi/news/862982/?utm_campaign=862982&utm_source=habrahabr&utm_medium=rss)
-- [Сайберус создает новую ИБ-компанию на основе технологий и экспертизы F.A.C.C.T](https://habr.com/ru/companies/f_a_c_c_t/news/862970/?utm_campaign=862970&utm_source=habrahabr&utm_medium=rss)
-- [Пред­ста­вите­ли вузов и телекоммуникационных ком­па­ний считают, что в IT-сфе­ре РФ острый дефицит инженеров](https://habr.com/ru/news/862956/?utm_campaign=862956&utm_source=habrahabr&utm_medium=rss)
-- [В InfoWatch предложили профинансировать создание языка разработки для ИИ](https://habr.com/ru/news/862952/?utm_campaign=862952&utm_source=habrahabr&utm_medium=rss)
-- [СМИ сообщили о снижении трафика поисковика Google из-за «негуглящей» молодёжи](https://habr.com/ru/news/862948/?utm_campaign=862948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
