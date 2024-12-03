@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновленная ОС «Альт Образование» 10.4: усиленные меры безопасности и версия браузера для школ](https://habr.com/ru/companies/basealtspo/news/863300/?utm_campaign=863300&utm_source=habrahabr&utm_medium=rss)
 - [Представлен графический стандарт Vulkan 1.4](https://habr.com/ru/news/863270/?utm_campaign=863270&utm_source=habrahabr&utm_medium=rss)
 - [Apple запатентовала iPhone с четырьмя кнопками действия](https://habr.com/ru/news/863262/?utm_campaign=863262&utm_source=habrahabr&utm_medium=rss)
 - [В ByteDance подали в суд на стажёра, который «злонамеренно вмешался» в обучение моделей ИИ и саботировал проект](https://habr.com/ru/news/863260/?utm_campaign=863260&utm_source=habrahabr&utm_medium=rss)
 - [Релиз AnyDesk 9.0 для Windows](https://habr.com/ru/news/863250/?utm_campaign=863250&utm_source=habrahabr&utm_medium=rss)
-- [В Google Chat появилась функция Huddles, с помощью которой можно начать быстрый звонок с коллегами](https://habr.com/ru/news/863218/?utm_campaign=863218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
