@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [4 декабря Numenta проведет онлайн-симпозиум по запуску ИИ-фреймворка Thousand Brains Project](https://habr.com/ru/news/863442/?utm_campaign=863442&utm_source=habrahabr&utm_medium=rss)
+- [Zabbix предупредила о критической уязвимости CVE-2024-42327 в своём решении с открытым исходным кодом для мониторинга](https://habr.com/ru/news/863440/?utm_campaign=863440&utm_source=habrahabr&utm_medium=rss)
 - [Мобильная операционная система ALT Mobile внесена в Реестр российского ПО](https://habr.com/ru/companies/basealtspo/news/863410/?utm_campaign=863410&utm_source=habrahabr&utm_medium=rss)
 - [На бывшем заводе Samsung в Калуге началась сборка серверов «Гравитон»](https://habr.com/ru/news/863386/?utm_campaign=863386&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Ответственность за утечки персональных данных»](https://habr.com/ru/companies/ussc/news/863354/?utm_campaign=863354&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» и ВШЭ назвали победителей международной олимпиады Artificial Intelligence and Data Analysis Olympiad &lpar;AIDAO&rpar;](https://habr.com/ru/news/863312/?utm_campaign=863312&utm_source=habrahabr&utm_medium=rss)
-- [Обновленная ОС «Альт Образование» 10.4: усиленные меры безопасности и версия браузера для школ](https://habr.com/ru/companies/basealtspo/news/863300/?utm_campaign=863300&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
