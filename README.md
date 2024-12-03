@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры запускает эксперимент для подтверждения разработчикам ПО навыков и получения сертификата ИТ-компетенций](https://habr.com/ru/news/863560/?utm_campaign=863560&utm_source=habrahabr&utm_medium=rss)
+- [Дуглас Крокфорд выступил с резкой критикой неправильного применения ИИ](https://habr.com/ru/news/863532/?utm_campaign=863532&utm_source=habrahabr&utm_medium=rss)
+- [В Южной Корее арестованы шесть сотрудников компании за производство спутниковых ресиверов с функцией DDoS-атак](https://habr.com/ru/news/863530/?utm_campaign=863530&utm_source=habrahabr&utm_medium=rss)
 - [Google объявил о том, что их модель для генерации видео Veo теперь доступна для подписчиков Google Cloud](https://habr.com/ru/news/863506/?utm_campaign=863506&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры взломали систему лицензирования Microsoft с возможностью получить долгосрочную активацию Windows и Office](https://habr.com/ru/news/863496/?utm_campaign=863496&utm_source=habrahabr&utm_medium=rss)
-- [ComNews: в да­та-цен­тре «ММТС-9» закончилось место для установки новых телекоммуникационных стоек для клиентов](https://habr.com/ru/news/863484/?utm_campaign=863484&utm_source=habrahabr&utm_medium=rss)
-- [4 декабря Numenta проведет онлайн-симпозиум по запуску ИИ-фреймворка Thousand Brains Project](https://habr.com/ru/news/863442/?utm_campaign=863442&utm_source=habrahabr&utm_medium=rss)
-- [Zabbix предупредила о критической уязвимости CVE-2024-42327 в своём решении с открытым исходным кодом для мониторинга](https://habr.com/ru/news/863440/?utm_campaign=863440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
