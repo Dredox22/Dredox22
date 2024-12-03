@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен графический стандарт Vulkan 1.4](https://habr.com/ru/news/863270/?utm_campaign=863270&utm_source=habrahabr&utm_medium=rss)
+- [Apple запатентовала iPhone с четырьмя кнопками действия](https://habr.com/ru/news/863262/?utm_campaign=863262&utm_source=habrahabr&utm_medium=rss)
+- [В ByteDance подали в суд на стажёра, который «злонамеренно вмешался» в обучение моделей ИИ и саботировал проект](https://habr.com/ru/news/863260/?utm_campaign=863260&utm_source=habrahabr&utm_medium=rss)
 - [Релиз AnyDesk 9.0 для Windows](https://habr.com/ru/news/863250/?utm_campaign=863250&utm_source=habrahabr&utm_medium=rss)
 - [В Google Chat появилась функция Huddles, с помощью которой можно начать быстрый звонок с коллегами](https://habr.com/ru/news/863218/?utm_campaign=863218&utm_source=habrahabr&utm_medium=rss)
-- [Мобильное приложение Death Clock предсказывает дату смерти и даёт советы, как её отодвинуть](https://habr.com/ru/news/863208/?utm_campaign=863208&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Half-Life 2 Overcharged 2.0 внедрил в мод код для блокировки по ID пользователей-критиков из Steam](https://habr.com/ru/news/863160/?utm_campaign=863160&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/863142/?utm_campaign=863142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
