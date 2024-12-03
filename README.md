@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел релиз Roc Integration 2.0 с гибким разграничением ролей и обновлениями в компонентах мониторинга](https://habr.com/ru/companies/k2tech/news/863282/?utm_campaign=863282&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры запускает эксперимент для подтверждения разработчикам ПО навыков и получения сертификата ИТ-компетенций](https://habr.com/ru/news/863560/?utm_campaign=863560&utm_source=habrahabr&utm_medium=rss)
 - [Дуглас Крокфорд выступил с резкой критикой неправильного применения ИИ](https://habr.com/ru/news/863532/?utm_campaign=863532&utm_source=habrahabr&utm_medium=rss)
 - [В Южной Корее арестованы шесть сотрудников компании за производство спутниковых ресиверов с функцией DDoS-атак](https://habr.com/ru/news/863530/?utm_campaign=863530&utm_source=habrahabr&utm_medium=rss)
 - [Google объявил о том, что их модель для генерации видео Veo теперь доступна для подписчиков Google Cloud](https://habr.com/ru/news/863506/?utm_campaign=863506&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали систему лицензирования Microsoft с возможностью получить долгосрочную активацию Windows и Office](https://habr.com/ru/news/863496/?utm_campaign=863496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
