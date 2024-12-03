@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на вебинар «Ответственность за утечки персональных данных»](https://habr.com/ru/companies/ussc/news/863354/?utm_campaign=863354&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» и ВШЭ назвали победителей международной олимпиады Artificial Intelligence and Data Analysis Olympiad &lpar;AIDAO&rpar;](https://habr.com/ru/news/863312/?utm_campaign=863312&utm_source=habrahabr&utm_medium=rss)
 - [Обновленная ОС «Альт Образование» 10.4: усиленные меры безопасности и версия браузера для школ](https://habr.com/ru/companies/basealtspo/news/863300/?utm_campaign=863300&utm_source=habrahabr&utm_medium=rss)
 - [Представлен графический стандарт Vulkan 1.4](https://habr.com/ru/news/863270/?utm_campaign=863270&utm_source=habrahabr&utm_medium=rss)
 - [Apple запатентовала iPhone с четырьмя кнопками действия](https://habr.com/ru/news/863262/?utm_campaign=863262&utm_source=habrahabr&utm_medium=rss)
-- [В ByteDance подали в суд на стажёра, который «злонамеренно вмешался» в обучение моделей ИИ и саботировал проект](https://habr.com/ru/news/863260/?utm_campaign=863260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
