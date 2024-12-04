@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google инвестирует в Cake — новую платформу управления AI-инфраструктурой](https://habr.com/ru/companies/bothub/news/863832/?utm_campaign=863832&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Telegram: партнёрские программы, ИИ-поиск стикеров и коллажи в историях](https://habr.com/ru/news/863818/?utm_campaign=863818&utm_source=habrahabr&utm_medium=rss)
 - [Компании активно мигрируют с VMware после многократного повышения цен](https://habr.com/ru/companies/itsumma/news/863804/?utm_campaign=863804&utm_source=habrahabr&utm_medium=rss)
 - [У игры «Сатурн» появились полноценная озвучка от GamesVoice и анонс новых дополнений](https://habr.com/ru/news/863796/?utm_campaign=863796&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft закрывает проект XDefiant, отключает серверы игры и возвращает деньги игрокам за внутриигровые покупки](https://habr.com/ru/news/863786/?utm_campaign=863786&utm_source=habrahabr&utm_medium=rss)
-- [В «Google Картах» появятся сообщения о ДТП и полицейских патрулях из приложения Waze](https://habr.com/ru/news/863740/?utm_campaign=863740&utm_source=habrahabr&utm_medium=rss)
-- [Релиз среды разработки Qt Creator 15](https://habr.com/ru/news/863746/?utm_campaign=863746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
