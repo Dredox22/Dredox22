@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз FreeBSD 14.2](https://habr.com/ru/news/863698/?utm_campaign=863698&utm_source=habrahabr&utm_medium=rss)
+- [Береги аккаунт смолоду: F.A.C.C.T. установил мошенников, оформлявших кредиты с украденных аккаунтов госсервиса](https://habr.com/ru/companies/f_a_c_c_t/news/863694/?utm_campaign=863694&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI объяснила отказ ChatGPT написать «David Mayer»](https://habr.com/ru/news/863680/?utm_campaign=863680&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» приглашает на конференцию «Свободное программное обеспечение в высшей школе» 7-9 февраля](https://habr.com/ru/companies/basealtspo/news/863660/?utm_campaign=863660&utm_source=habrahabr&utm_medium=rss)
 - [Apple предупредила, что в период зимних праздников модераторы App Store могут дольше проверять приложения](https://habr.com/ru/news/863570/?utm_campaign=863570&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз Roc Integration 2.0 с гибким разграничением ролей и обновлениями в компонентах мониторинга](https://habr.com/ru/companies/k2tech/news/863282/?utm_campaign=863282&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры запускает эксперимент для подтверждения разработчиками ПО навыков и получения сертификата ИТ-компетенций](https://habr.com/ru/news/863560/?utm_campaign=863560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
