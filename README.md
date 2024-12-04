@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компании активно мигрируют с VMware после многократного повышения цен](https://habr.com/ru/companies/itsumma/news/863804/?utm_campaign=863804&utm_source=habrahabr&utm_medium=rss)
+- [У игры «Сатурн» появились полноценная озвучка от GamesVoice и анонс новых дополнений](https://habr.com/ru/news/863796/?utm_campaign=863796&utm_source=habrahabr&utm_medium=rss)
+- [Ubisoft закрывает проект XDefiant, отключает серверы игры и возвращает деньги игрокам за внутриигровые покупки](https://habr.com/ru/news/863786/?utm_campaign=863786&utm_source=habrahabr&utm_medium=rss)
 - [В «Google Картах» появятся сообщения о ДТП и полицейских патрулях из приложения Waze](https://habr.com/ru/news/863740/?utm_campaign=863740&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды разработки Qt Creator 15](https://habr.com/ru/news/863746/?utm_campaign=863746&utm_source=habrahabr&utm_medium=rss)
-- [Fplus выпустит первые отечественные МФУ, рассчитанные на цветную печать формата А3](https://habr.com/ru/news/863738/?utm_campaign=863738&utm_source=habrahabr&utm_medium=rss)
-- [Google представила закрытую предварительную версию Veo для генерации видео](https://habr.com/ru/news/863708/?utm_campaign=863708&utm_source=habrahabr&utm_medium=rss)
-- [Релиз FreeBSD 14.2](https://habr.com/ru/news/863698/?utm_campaign=863698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
