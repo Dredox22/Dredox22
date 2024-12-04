@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Итоги Standoff 14: полсотни команд белых хакеров из разных стран нашли рекордное число уязвимостей](https://habr.com/ru/companies/pt/news/863736/?utm_campaign=863736&utm_source=habrahabr&utm_medium=rss)
 - [Глава Hugging Face обеспокоен влиянием китайских опенсорс моделей AI](https://habr.com/ru/companies/bothub/news/863862/?utm_campaign=863862&utm_source=habrahabr&utm_medium=rss)
 - [Представлен одноплатный ПК Orange Pi 5 Ultra](https://habr.com/ru/news/863852/?utm_campaign=863852&utm_source=habrahabr&utm_medium=rss)
-- [Как развивать игры на российском железе — обсудим на Selectel GameDev Meetup](https://habr.com/ru/companies/selectel/news/863772/?utm_campaign=863772&utm_source=habrahabr&utm_medium=rss)
+- [Обсудим инфраструктуру для разработки игр на Selectel GameDev Meetup](https://habr.com/ru/companies/selectel/news/863772/?utm_campaign=863772&utm_source=habrahabr&utm_medium=rss)
 - [Google инвестирует в Cake — новую платформу управления AI-инфраструктурой](https://habr.com/ru/companies/bothub/news/863832/?utm_campaign=863832&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: партнёрские программы, ИИ-поиск стикеров и коллажи в историях](https://habr.com/ru/news/863818/?utm_campaign=863818&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
