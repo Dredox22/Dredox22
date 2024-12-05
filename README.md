@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla начала ребрендинг с логотипом в виде кричащего зелёного динозавра](https://habr.com/ru/news/863992/?utm_campaign=863992&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи продемонстрировали самособирающуюся электронику](https://habr.com/ru/news/863962/?utm_campaign=863962&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор ограничил доступ к популярным сайтам с аниме-контентом](https://habr.com/ru/news/863946/?utm_campaign=863946&utm_source=habrahabr&utm_medium=rss)
 - [Российские банки смогут протестировать новый сервис оплаты смартфономи с ОС Android и iOS весной 2025 года](https://habr.com/ru/news/863914/?utm_campaign=863914&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Каперского» представила прогноз кибератак  на 2025 год: новые угрозы и их особенности](https://habr.com/ru/news/863910/?utm_campaign=863910&utm_source=habrahabr&utm_medium=rss)
-- [Итоги Standoff 14: полсотни команд белых хакеров из разных стран нашли рекордное число уязвимостей](https://habr.com/ru/companies/pt/news/863736/?utm_campaign=863736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
