@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PLM-решение АСКОН совместимо с операционными системами «Альт»](https://habr.com/ru/companies/ascon/news/863930/?utm_campaign=863930&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» встроил в «Алису Про» свою самую мощную языковую модель YandexGPT 4 Pro](https://habr.com/ru/news/864052/?utm_campaign=864052&utm_source=habrahabr&utm_medium=rss)
 - [10 лет эволюции нейросетей в Яндекс Поиске: от поиска похожих картинок до мультимодальности в Нейро](https://habr.com/ru/companies/yandex/news/863768/?utm_campaign=863768&utm_source=habrahabr&utm_medium=rss)
 - [СберЛогистика запустила программу по поиску уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/863948/?utm_campaign=863948&utm_source=habrahabr&utm_medium=rss)
 - [Apple позволяет синхронизировать пароли с Firefox, но не в Windows](https://habr.com/ru/news/864030/?utm_campaign=864030&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft по-прежнему рекомендует пользователям Windows 10/11 решение для резервного копирования 15-летней давности](https://habr.com/ru/news/864034/?utm_campaign=864034&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp упростит обмен сообщениями и медиафайлами с другими приложениями](https://habr.com/ru/news/864028/?utm_campaign=864028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
