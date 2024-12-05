@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI тизерит модель GPT-o1 pro mode](https://habr.com/ru/news/864294/?utm_campaign=864294&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind представила модель для создания игровых 3D‑миров Genie 2](https://habr.com/ru/news/864272/?utm_campaign=864272&utm_source=habrahabr&utm_medium=rss)
 - [Релиз SSH-клиента PuTTY 0.82](https://habr.com/ru/news/864266/?utm_campaign=864266&utm_source=habrahabr&utm_medium=rss)
 - [CosmOS: новая ОС от Humane и переосмысление роли AI в повседневной технике](https://habr.com/ru/companies/bothub/news/864256/?utm_campaign=864256&utm_source=habrahabr&utm_medium=rss)
 - [В Ташкенте завершился финал международного чемпионата по программированию Yandex Cup 2024](https://habr.com/ru/news/864216/?utm_campaign=864216&utm_source=habrahabr&utm_medium=rss)
-- [Виртуальная лаборатория: AI открывает новые горизонты в биомедицине](https://habr.com/ru/companies/bothub/news/864172/?utm_campaign=864172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
