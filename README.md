@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google DeepMind представила модель для создания игровых 3D‑миров Genie 2](https://habr.com/ru/news/864272/?utm_campaign=864272&utm_source=habrahabr&utm_medium=rss)
+- [Релиз SSH-клиента PuTTY 0.82](https://habr.com/ru/news/864266/?utm_campaign=864266&utm_source=habrahabr&utm_medium=rss)
 - [CosmOS: новая ОС от Humane и переосмысление роли AI в повседневной технике](https://habr.com/ru/companies/bothub/news/864256/?utm_campaign=864256&utm_source=habrahabr&utm_medium=rss)
 - [В Ташкенте завершился финал международного чемпионата по программированию Yandex Cup 2024](https://habr.com/ru/news/864216/?utm_campaign=864216&utm_source=habrahabr&utm_medium=rss)
 - [Виртуальная лаборатория: AI открывает новые горизонты в биомедицине](https://habr.com/ru/companies/bothub/news/864172/?utm_campaign=864172&utm_source=habrahabr&utm_medium=rss)
-- [Власти Италии одобрили инвестиции AWS в €1,2 млрд на расширение облачной инфраструктуры и услуг в стране](https://habr.com/ru/news/864160/?utm_campaign=864160&utm_source=habrahabr&utm_medium=rss)
-- [«Бештау» перенесла запуск заводов по производству ноутбуков на 2025 год](https://habr.com/ru/news/864158/?utm_campaign=864158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
