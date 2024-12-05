@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РИА «Новости»: российские приставы не могут взыскать штраф с Telegram](https://habr.com/ru/news/864134/?utm_campaign=864134&utm_source=habrahabr&utm_medium=rss)
 - [«Почта России» начала аудит безопасности после публикаций о новой утечке данных клиентов](https://habr.com/ru/news/864082/?utm_campaign=864082&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА в ТОП-10 разработчиков мобильных приложений](https://habr.com/ru/companies/sigma/news/864054/?utm_campaign=864054&utm_source=habrahabr&utm_medium=rss)
 - [PLM-решение АСКОН совместимо с операционными системами «Альт»](https://habr.com/ru/companies/ascon/news/863930/?utm_campaign=863930&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» встроил в «Алису Про» свою самую мощную языковую модель YandexGPT 4 Pro](https://habr.com/ru/news/864052/?utm_campaign=864052&utm_source=habrahabr&utm_medium=rss)
-- [10 лет эволюции нейросетей в Яндекс Поиске: от поиска похожих картинок до мультимодальности в Нейро](https://habr.com/ru/companies/yandex/news/863768/?utm_campaign=863768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
