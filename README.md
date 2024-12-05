@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Photos теперь позволяет отменить резервное копирование](https://habr.com/ru/news/864016/?utm_campaign=864016&utm_source=habrahabr&utm_medium=rss)
-- [Интеграционная шина Атом.Мост получила сертификат совместимости с платформой Java Axiom JDK Certified](https://habr.com/ru/companies/greenatom/news/863462/?utm_campaign=863462&utm_source=habrahabr&utm_medium=rss)
-- [Агроголоволомки для IT-специалистов: РСХБ и RUSEED подвели итоги хакатона AgroCode Hack Genetics](https://habr.com/ru/companies/rshb/news/863820/?utm_campaign=863820&utm_source=habrahabr&utm_medium=rss)
-- [«Авито» и МЧС России запустили онлайн-игру для обучения правилам офлайн и онлайн-безопасности](https://habr.com/ru/news/864010/?utm_campaign=864010&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla начала ребрендинг с логотипом в виде кричащего зелёного динозавра](https://habr.com/ru/news/863992/?utm_campaign=863992&utm_source=habrahabr&utm_medium=rss)
+- [10 лет эволюции нейросетей в Яндекс Поиске: от поиска похожих картинок до мультимодальности в Нейро](https://habr.com/ru/companies/yandex/news/863768/?utm_campaign=863768&utm_source=habrahabr&utm_medium=rss)
+- [СберЛогистика запустила программу по поиску уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/863948/?utm_campaign=863948&utm_source=habrahabr&utm_medium=rss)
+- [Apple позволяет синхронизировать пароли с Firefox, но не в Windows](https://habr.com/ru/news/864030/?utm_campaign=864030&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft по-прежнему рекомендует пользователям Windows 10/11 решение для резервного копирования 15-летней давности](https://habr.com/ru/news/864034/?utm_campaign=864034&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp упростит обмен сообщениями и медиафайлами с другими приложениями](https://habr.com/ru/news/864028/?utm_campaign=864028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
