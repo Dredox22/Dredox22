@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI o1 получила ​​поддержку загрузки изображений](https://habr.com/ru/news/864412/?utm_campaign=864412&utm_source=habrahabr&utm_medium=rss)
+- [Функция Copilot Vision от Microsoft стала доступна в ограниченной версии](https://habr.com/ru/news/864406/?utm_campaign=864406&utm_source=habrahabr&utm_medium=rss)
+- [Срок поддержки ядра Linux 6.11 истёк, всем рекомендуется перейти на ядро Linux 6.12 LTS](https://habr.com/ru/news/864418/?utm_campaign=864418&utm_source=habrahabr&utm_medium=rss)
 - [Spotify внезапно отрезал разработчикам приложений доступ к части своих данных](https://habr.com/ru/news/864386/?utm_campaign=864386&utm_source=habrahabr&utm_medium=rss)
 - [Совместимость ELMA365 с Nova Container Platform и Proxima DB поможет автоматизировать бизнес-процессы](https://habr.com/ru/companies/orion_soft/news/864400/?utm_campaign=864400&utm_source=habrahabr&utm_medium=rss)
-- [Рок-группа Nanowar of Steel выпустила композицию HelloWorld.java, где все слова — это код из программы на Java](https://habr.com/ru/news/864380/?utm_campaign=864380&utm_source=habrahabr&utm_medium=rss)
-- [Smart Engines представила новую систему ИИ для удостоверения личности с нейросетевыми “Шерлоком” и “Да Винчи”](https://habr.com/ru/companies/smartengines/news/864392/?utm_campaign=864392&utm_source=habrahabr&utm_medium=rss)
-- [Google предложит для Pixel 6, 7 и Fold ещё два года обновлений ОС](https://habr.com/ru/news/864374/?utm_campaign=864374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
