@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торвальдс: уровни функций архитектуры AMD64 и x86-64 — это «полностью сломанный мусор», который «должен умереть»](https://habr.com/ru/news/864356/?utm_campaign=864356&utm_source=habrahabr&utm_medium=rss)
+- [Linux 6.12 официально стал выпуском ядра с долгосрочной поддержкой &lpar;LTS&rpar;](https://habr.com/ru/news/864350/?utm_campaign=864350&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники придумали новую схему распространения вредоносного ПО через объявления об удалённой работе](https://habr.com/ru/news/864332/?utm_campaign=864332&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI официально представила модель GPT-o1 Pro за 200 долларов в месяц](https://habr.com/ru/news/864308/?utm_campaign=864308&utm_source=habrahabr&utm_medium=rss)
 - [Новая ChatGPT o1 Pro за 200$ в месяц](https://habr.com/ru/companies/bothub/news/864306/?utm_campaign=864306&utm_source=habrahabr&utm_medium=rss)
-- [[UPD] OpenAI тизерит модель GPT-o1 pro mode](https://habr.com/ru/news/864294/?utm_campaign=864294&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind представила модель для создания игровых 3D‑миров Genie 2](https://habr.com/ru/news/864272/?utm_campaign=864272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
