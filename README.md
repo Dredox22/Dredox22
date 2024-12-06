@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Peloton запустила аудиоприложение для силовых тренировок](https://habr.com/ru/news/864650/?utm_campaign=864650&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: на учениях с операторами связи проверяется работа ключевых сервисов на случай внешнего воздействия](https://habr.com/ru/news/864622/?utm_campaign=864622&utm_source=habrahabr&utm_medium=rss)
 - [Tech on the Toilet: Google рассказала, как обучает своих сотрудников техническим навыкам в офисных уборных](https://habr.com/ru/news/864612/?utm_campaign=864612&utm_source=habrahabr&utm_medium=rss)
 - [Google представила открытый проект статического анализатора Vanir для выявления неисправленных уязвимостей](https://habr.com/ru/news/864590/?utm_campaign=864590&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Festivitas — утилита, которая поможет украсить Dock и рабочий стол Mac виртуальной гирляндой](https://habr.com/ru/news/864578/?utm_campaign=864578&utm_source=habrahabr&utm_medium=rss)
-- [Новый раунд финансирования xAI](https://habr.com/ru/companies/bothub/news/864570/?utm_campaign=864570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
