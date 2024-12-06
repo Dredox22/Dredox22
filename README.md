@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила открытый проект статического анализатора Vanir для выявления неисправленных уязвимостей](https://habr.com/ru/news/864590/?utm_campaign=864590&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Festivitas — утилита, которая поможет украсить Dock и рабочий стол Mac виртуальной гирляндой](https://habr.com/ru/news/864578/?utm_campaign=864578&utm_source=habrahabr&utm_medium=rss)
 - [Новый раунд финансирования xAI](https://habr.com/ru/companies/bothub/news/864570/?utm_campaign=864570&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование новой модели o1 от OpenAI показало, что она способна жульничать и лгать ради достижения собственных целей](https://habr.com/ru/news/864566/?utm_campaign=864566&utm_source=habrahabr&utm_medium=rss)
 - [Google упростила отключение персонализированных результатов поиска](https://habr.com/ru/news/864564/?utm_campaign=864564&utm_source=habrahabr&utm_medium=rss)
-- [Подводим итоги хакатона Avito ML Cup](https://habr.com/ru/companies/avito/news/864532/?utm_campaign=864532&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
