@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitFlic и Nova Container Platform помогут построить конвейер для разработки и эксплуатации микросервисных приложений](https://habr.com/ru/companies/orion_soft/news/864404/?utm_campaign=864404&utm_source=habrahabr&utm_medium=rss)
+- [Робот Toyota установил рекорд по дальности броска в баскетбольное кольцо — 24,55 метра](https://habr.com/ru/news/864476/?utm_campaign=864476&utm_source=habrahabr&utm_medium=rss)
 - [«Сравни» и Бауманка выпустили курс по оптимизации аналитических запросов](https://habr.com/ru/news/864454/?utm_campaign=864454&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пояснила, что требование TPM 2.0 для Windows 11 остаётся обязательным стандартом](https://habr.com/ru/news/864446/?utm_campaign=864446&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD Облака точек 24.1 – техническое обновление решения на Платформе nanoCAD 24.1](https://habr.com/ru/companies/nanosoft/news/864440/?utm_campaign=864440&utm_source=habrahabr&utm_medium=rss)
-- [Новым гендиректором GitLab стал Билл Стэплз](https://habr.com/ru/news/864442/?utm_campaign=864442&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI o1 получила ​​поддержку загрузки изображений](https://habr.com/ru/news/864412/?utm_campaign=864412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
