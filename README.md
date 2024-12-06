@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Festivitas — утилита, которая поможет украсить Dock и рабочий стол Mac виртуальной гирляндой](https://habr.com/ru/news/864578/?utm_campaign=864578&utm_source=habrahabr&utm_medium=rss)
+- [Новый раунд финансирования xAI](https://habr.com/ru/companies/bothub/news/864570/?utm_campaign=864570&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование новой модели o1 от OpenAI показало, что она способна жульничать и лгать ради достижения собственных целей](https://habr.com/ru/news/864566/?utm_campaign=864566&utm_source=habrahabr&utm_medium=rss)
+- [Google упростила отключение персонализированных результатов поиска](https://habr.com/ru/news/864564/?utm_campaign=864564&utm_source=habrahabr&utm_medium=rss)
 - [Подводим итоги хакатона Avito ML Cup](https://habr.com/ru/companies/avito/news/864532/?utm_campaign=864532&utm_source=habrahabr&utm_medium=rss)
-- [Студия Rummy Games и издательство Pulsart создадут первую игру по сеттингу Metronomicon](https://habr.com/ru/companies/miip/news/863562/?utm_campaign=863562&utm_source=habrahabr&utm_medium=rss)
-- [GitFlic и Nova Container Platform помогут построить конвейер для разработки и эксплуатации микросервисных приложений](https://habr.com/ru/companies/orion_soft/news/864404/?utm_campaign=864404&utm_source=habrahabr&utm_medium=rss)
-- [Робот Toyota установил рекорд по дальности броска в баскетбольное кольцо — 24,55 метра](https://habr.com/ru/news/864476/?utm_campaign=864476&utm_source=habrahabr&utm_medium=rss)
-- [«Сравни» и Бауманка выпустили курс по оптимизации аналитических запросов](https://habr.com/ru/news/864454/?utm_campaign=864454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
