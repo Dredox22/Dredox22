@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сравни» и Бауманка выпустили курс по оптимизации аналитических запросов](https://habr.com/ru/news/864454/?utm_campaign=864454&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft пояснила, что требование TPM 2.0 для Windows 11 остаётся обязательным стандартом](https://habr.com/ru/news/864446/?utm_campaign=864446&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD Облака точек 24.1 – техническое обновление решения на Платформе nanoCAD 24.1](https://habr.com/ru/companies/nanosoft/news/864440/?utm_campaign=864440&utm_source=habrahabr&utm_medium=rss)
+- [Новым гендиректором GitLab стал Билл Стэплз](https://habr.com/ru/news/864442/?utm_campaign=864442&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI o1 получила ​​поддержку загрузки изображений](https://habr.com/ru/news/864412/?utm_campaign=864412&utm_source=habrahabr&utm_medium=rss)
-- [Функция Copilot Vision от Microsoft стала доступна в ограниченной версии](https://habr.com/ru/news/864406/?utm_campaign=864406&utm_source=habrahabr&utm_medium=rss)
-- [Срок поддержки ядра Linux 6.11 истёк, всем рекомендуется перейти на ядро Linux 6.12 LTS](https://habr.com/ru/news/864418/?utm_campaign=864418&utm_source=habrahabr&utm_medium=rss)
-- [Spotify внезапно отрезал разработчикам приложений доступ к части своих данных](https://habr.com/ru/news/864386/?utm_campaign=864386&utm_source=habrahabr&utm_medium=rss)
-- [Совместимость ELMA365 с Nova Container Platform и Proxima DB поможет автоматизировать бизнес-процессы](https://habr.com/ru/companies/orion_soft/news/864400/?utm_campaign=864400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
