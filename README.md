@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Photos представила функцию Recap 2024 для воспоминаний](https://habr.com/ru/news/864706/?utm_campaign=864706&utm_source=habrahabr&utm_medium=rss)
+- [В работе Sticky Notes в Windows возник сбой из-за проверки почтового ящика](https://habr.com/ru/news/864702/?utm_campaign=864702&utm_source=habrahabr&utm_medium=rss)
 - [РКН может заблокировать в РФ работу GoDaddy, Kamatera, Network Solutions, Ionos, HostGator, DigitalOcean, AWS и Hetzner](https://habr.com/ru/news/864700/?utm_campaign=864700&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft остановила обслуживание Skype Number, пользователи больше не могут покупать кредиты для общения](https://habr.com/ru/news/864688/?utm_campaign=864688&utm_source=habrahabr&utm_medium=rss)
 - [Peloton запустила аудиоприложение для силовых тренировок](https://habr.com/ru/news/864650/?utm_campaign=864650&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: на учениях с операторами связи проверяется работа ключевых сервисов на случай внешнего воздействия](https://habr.com/ru/news/864622/?utm_campaign=864622&utm_source=habrahabr&utm_medium=rss)
-- [Tech on the Toilet: Google рассказала, как обучает своих сотрудников техническим навыкам в офисных уборных](https://habr.com/ru/news/864612/?utm_campaign=864612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
