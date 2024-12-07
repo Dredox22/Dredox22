@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН может заблокировать в РФ работу GoDaddy, Kamatera, Network Solutions, Ionos, HostGator, DigitalOcean, AWS и Hetzner](https://habr.com/ru/news/864700/?utm_campaign=864700&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft остановила обслуживание Skype Number, пользователи больше не могут покупать кредиты для общения](https://habr.com/ru/news/864688/?utm_campaign=864688&utm_source=habrahabr&utm_medium=rss)
 - [Peloton запустила аудиоприложение для силовых тренировок](https://habr.com/ru/news/864650/?utm_campaign=864650&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: на учениях с операторами связи проверяется работа ключевых сервисов на случай внешнего воздействия](https://habr.com/ru/news/864622/?utm_campaign=864622&utm_source=habrahabr&utm_medium=rss)
 - [Tech on the Toilet: Google рассказала, как обучает своих сотрудников техническим навыкам в офисных уборных](https://habr.com/ru/news/864612/?utm_campaign=864612&utm_source=habrahabr&utm_medium=rss)
-- [Google представила открытый проект статического анализатора Vanir для выявления неисправленных уязвимостей](https://habr.com/ru/news/864590/?utm_campaign=864590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
