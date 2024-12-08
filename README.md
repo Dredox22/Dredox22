@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok AI от Илона Маска стал доступен без подписки](https://habr.com/ru/news/864848/?utm_campaign=864848&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассматривает возможность добавить в MacBook модуль сотовой связи благодаря модему собственной разработки](https://habr.com/ru/news/864834/?utm_campaign=864834&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит обновлённый индикатор батареи](https://habr.com/ru/news/864828/?utm_campaign=864828&utm_source=habrahabr&utm_medium=rss)
 - [Злоумышленники смогли выполнить код с правами обработчика GitHub Actions в репозитории Python-библиотеки Ultralytics](https://habr.com/ru/news/864802/?utm_campaign=864802&utm_source=habrahabr&utm_medium=rss)
 - [МВД РФ: появился новый мошеннический шаблон, имитирующий «Госуслуги» — gosuslugiforms[.]ru](https://habr.com/ru/news/864786/?utm_campaign=864786&utm_source=habrahabr&utm_medium=rss)
-- [Netblocks: учения с отключением доступа к зарубежному сегменту интернета в определённом регионе РФ продолжались сутки](https://habr.com/ru/news/864752/?utm_campaign=864752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
