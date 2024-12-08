@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МВД РФ: появился новый мошеннический шаблон, имитирующий «Госуслуги» — gosuslugiforms[.]ru](https://habr.com/ru/news/864786/?utm_campaign=864786&utm_source=habrahabr&utm_medium=rss)
+- [Netblocks: учения с отключением доступа к зарубежному сегменту интернета в определённом регионе РФ продолжались сутки](https://habr.com/ru/news/864752/?utm_campaign=864752&utm_source=habrahabr&utm_medium=rss)
 - [Релиз системы потокового видеовещания OBS Studio 31.0](https://habr.com/ru/news/864744/?utm_campaign=864744&utm_source=habrahabr&utm_medium=rss)
 - [Фреймворк имитационного обучения улучшает навыки локоманипуляции у четвероногих роботов в реальных условиях](https://habr.com/ru/news/864726/?utm_campaign=864726&utm_source=habrahabr&utm_medium=rss)
 - [Google Photos представила функцию Recap 2024 для воспоминаний](https://habr.com/ru/news/864706/?utm_campaign=864706&utm_source=habrahabr&utm_medium=rss)
-- [В работе Sticky Notes в Windows возник сбой из-за проверки почтового ящика](https://habr.com/ru/news/864702/?utm_campaign=864702&utm_source=habrahabr&utm_medium=rss)
-- [РКН может заблокировать в РФ работу GoDaddy, Kamatera, Network Solutions, Ionos, HostGator, DigitalOcean, AWS и Hetzner](https://habr.com/ru/news/864700/?utm_campaign=864700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
