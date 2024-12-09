@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На создание отечественных базовых станций до 2030 года направят 16,84 млрд рублей](https://habr.com/ru/news/865068/?utm_campaign=865068&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» рассказала о новой волне атак стилерами через активатор пиратского ПО](https://habr.com/ru/news/865056/?utm_campaign=865056&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: процесс перехода учителей и родителей на единый школьный мессенджер «Сферум» столкнулся со сложностями](https://habr.com/ru/news/865048/?utm_campaign=865048&utm_source=habrahabr&utm_medium=rss)
 - [Инженер из РФ обвиняется в Нидерландах в краже секретных документов с производств ASML и Mapper Lithography](https://habr.com/ru/news/865034/?utm_campaign=865034&utm_source=habrahabr&utm_medium=rss)
 - [В инструментарии ASU &lpar;Attended SysUpgrade&rpar; найдены уязвимости, позволяющие скомпрометировать сборочные артефакты OpenWrt](https://habr.com/ru/news/865028/?utm_campaign=865028&utm_source=habrahabr&utm_medium=rss)
-- [Новый Solar webProxy 4.2 с функциями централизованного управления](https://habr.com/ru/companies/solarsecurity/news/865020/?utm_campaign=865020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
