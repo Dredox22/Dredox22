@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В СПбГУ, «Лартех» и «Энергомере» создали электросчётчик со встроенным ИИ для борьбы с нелегальным майнингом](https://habr.com/ru/news/864916/?utm_campaign=864916&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NWinfo 1.0.5 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/864864/?utm_campaign=864864&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Manjaro Linux 24.2](https://habr.com/ru/news/864858/?utm_campaign=864858&utm_source=habrahabr&utm_medium=rss)
 - [Grok AI от Илона Маска стал доступен без подписки](https://habr.com/ru/news/864848/?utm_campaign=864848&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассматривает возможность добавить в MacBook модуль сотовой связи благодаря модему собственной разработки](https://habr.com/ru/news/864834/?utm_campaign=864834&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 получит обновлённый индикатор батареи](https://habr.com/ru/news/864828/?utm_campaign=864828&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
