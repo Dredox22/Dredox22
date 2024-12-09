@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИТ-компания Innostage блокировала 780 тысяч атак на свою инфраструктуру](https://habr.com/ru/companies/innostage/news/864244/?utm_campaign=864244&utm_source=habrahabr&utm_medium=rss)
+- [В YouTube Music теперь можно делиться временными метками](https://habr.com/ru/news/864958/?utm_campaign=864958&utm_source=habrahabr&utm_medium=rss)
+- [Студенческая команда Uvuik Smoniti разрабатывает игру «Дети берёзы» в стиле славянской дарк-фэнтези метроидвании](https://habr.com/ru/news/864940/?utm_campaign=864940&utm_source=habrahabr&utm_medium=rss)
 - [Против Apple подали в суд за хранение в iCloud материалов с насилием](https://habr.com/ru/news/864928/?utm_campaign=864928&utm_source=habrahabr&utm_medium=rss)
 - [Неофициальная версия Windows 11 Mobile доступна на бюджетных смартфонах с помощью бесплатной утилиты Renegade Project](https://habr.com/ru/news/864932/?utm_campaign=864932&utm_source=habrahabr&utm_medium=rss)
-- [В СПбГУ, «Лартех» и «Энергомере» создали электросчётчик со встроенным ИИ для борьбы с нелегальным майнингом](https://habr.com/ru/news/864916/?utm_campaign=864916&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NWinfo 1.0.5 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/864864/?utm_campaign=864864&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Manjaro Linux 24.2](https://habr.com/ru/news/864858/?utm_campaign=864858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
