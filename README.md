@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В инструментарии ASU &lpar;Attended SysUpgrade&rpar; найдены уязвимости, позволяющие скомпрометировать сборочные артефакты OpenWrt](https://habr.com/ru/news/865028/?utm_campaign=865028&utm_source=habrahabr&utm_medium=rss)
+- [Новый Solar webProxy 4.2 с функциями централизованного управления](https://habr.com/ru/companies/solarsecurity/news/865020/?utm_campaign=865020&utm_source=habrahabr&utm_medium=rss)
 - [НПО «Андроидная техника»: в России не хватает 60 тыс. специалистов по робототехнике](https://habr.com/ru/news/865010/?utm_campaign=865010&utm_source=habrahabr&utm_medium=rss)
 - [У банков РФ появилась возможность внедрить систему мониторинга в реальном времени мошенничества против их клиентов](https://habr.com/ru/news/864990/?utm_campaign=864990&utm_source=habrahabr&utm_medium=rss)
 - [ИТ-компания Innostage блокировала 780 тысяч атак на свою инфраструктуру](https://habr.com/ru/companies/innostage/news/864244/?utm_campaign=864244&utm_source=habrahabr&utm_medium=rss)
-- [В YouTube Music теперь можно делиться временными метками](https://habr.com/ru/news/864958/?utm_campaign=864958&utm_source=habrahabr&utm_medium=rss)
-- [Студенческая команда Uvuik Smoniti разрабатывает игру «Дети берёзы» в стиле славянской дарк-фэнтези метроидвании](https://habr.com/ru/news/864940/?utm_campaign=864940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
