@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГБУ СК «Проектный институт» оптимизировало процесс проектирования с помощью nanoCAD BIM Конструкции](https://habr.com/ru/companies/nanosoft/news/864930/?utm_campaign=864930&utm_source=habrahabr&utm_medium=rss)
 - [Trellis — нейросеть для генерации 3D-моделей от Microsoft](https://habr.com/ru/news/865104/?utm_campaign=865104&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/865060/?utm_campaign=865060&utm_source=habrahabr&utm_medium=rss)
 - [На создание отечественных базовых станций до 2030 года направят 16,84 млрд рублей](https://habr.com/ru/news/865068/?utm_campaign=865068&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» рассказала о новой волне атак стилерами через активатор пиратского ПО](https://habr.com/ru/news/865056/?utm_campaign=865056&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: процесс перехода учителей и родителей на единый школьный мессенджер «Сферум» столкнулся со сложностями](https://habr.com/ru/news/865048/?utm_campaign=865048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
