@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi представила компьютер Pi 500 в формате клавиатуры и фирменный монитор](https://habr.com/ru/news/865184/?utm_campaign=865184&utm_source=habrahabr&utm_medium=rss)
 - [Учёные синтезировали и описали управляемый магнитный материал для высокоточной электроники](https://habr.com/ru/news/865136/?utm_campaign=865136&utm_source=habrahabr&utm_medium=rss)
 - [Capcom проведёт для японских студентов конкурс по разработке игр с использованием RE Engine](https://habr.com/ru/news/865160/?utm_campaign=865160&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предлагает ограничить использование иностранных мессенджеров для сотрудников банков и госведомств](https://habr.com/ru/news/865144/?utm_campaign=865144&utm_source=habrahabr&utm_medium=rss)
 - [ГБУ СК «Проектный институт» оптимизировало процесс проектирования с помощью nanoCAD BIM Конструкции](https://habr.com/ru/companies/nanosoft/news/864930/?utm_campaign=864930&utm_source=habrahabr&utm_medium=rss)
-- [Trellis — нейросеть для генерации 3D-моделей от Microsoft](https://habr.com/ru/news/865104/?utm_campaign=865104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
