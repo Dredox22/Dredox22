@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У банков РФ появилась возможность внедрить систему мониторинга в реальном времени мошенничества против их клиентов](https://habr.com/ru/news/864990/?utm_campaign=864990&utm_source=habrahabr&utm_medium=rss)
 - [ИТ-компания Innostage блокировала 780 тысяч атак на свою инфраструктуру](https://habr.com/ru/companies/innostage/news/864244/?utm_campaign=864244&utm_source=habrahabr&utm_medium=rss)
 - [В YouTube Music теперь можно делиться временными метками](https://habr.com/ru/news/864958/?utm_campaign=864958&utm_source=habrahabr&utm_medium=rss)
 - [Студенческая команда Uvuik Smoniti разрабатывает игру «Дети берёзы» в стиле славянской дарк-фэнтези метроидвании](https://habr.com/ru/news/864940/?utm_campaign=864940&utm_source=habrahabr&utm_medium=rss)
 - [Против Apple подали в суд за хранение в iCloud материалов с насилием](https://habr.com/ru/news/864928/?utm_campaign=864928&utm_source=habrahabr&utm_medium=rss)
-- [Неофициальная версия Windows 11 Mobile доступна на бюджетных смартфонах с помощью бесплатной утилиты Renegade Project](https://habr.com/ru/news/864932/?utm_campaign=864932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
