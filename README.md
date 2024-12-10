@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор изменений в законодательстве ИТ и ИБ за ноябрь 2024 года](https://habr.com/ru/companies/ussc/news/865354/?utm_campaign=865354&utm_source=habrahabr&utm_medium=rss)
+- [Tesla показала тесты робота Optimus на пересечённой местности](https://habr.com/ru/news/865350/?utm_campaign=865350&utm_source=habrahabr&utm_medium=rss)
+- [В России появится еще один производитель компьютерных мышек и клавиатур — ABR Technology](https://habr.com/ru/news/865330/?utm_campaign=865330&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» и МойОфис объявили о совместимости своих продуктов – Solar Dozor и Mailion](https://habr.com/ru/companies/solarsecurity/news/865318/?utm_campaign=865318&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: открытое ПО поддерживает работу 96% современных приложений](https://habr.com/ru/news/865290/?utm_campaign=865290&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи раскрыли бэкдор в защите браузеров от атаки с помощью QR-кодов](https://habr.com/ru/news/865270/?utm_campaign=865270&utm_source=habrahabr&utm_medium=rss)
-- [Google представила квантовый чип Willow с квантовой коррекцией ошибок](https://habr.com/ru/news/865268/?utm_campaign=865268&utm_source=habrahabr&utm_medium=rss)
-- [В Норвегии запустили альтернативу Apple Pay с технологией NFC от Apple](https://habr.com/ru/news/865246/?utm_campaign=865246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
