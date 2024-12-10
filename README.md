@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После 21 года разработки вышел системный менеджер GNU Shepherd 1.0.0](https://habr.com/ru/news/865474/?utm_campaign=865474&utm_source=habrahabr&utm_medium=rss)
 - [Cloud DevSecops: новый бесплатный курс по основам безопасной разработки](https://habr.com/ru/companies/beeline_cloud/news/865462/?utm_campaign=865462&utm_source=habrahabr&utm_medium=rss)
 - [Как Google и Meta* тайно таргетировали рекламу на подростков](https://habr.com/ru/companies/bothub/news/865444/?utm_campaign=865444&utm_source=habrahabr&utm_medium=rss)
 - [Прогресс в AGI вызывает сомнения](https://habr.com/ru/companies/bothub/news/865432/?utm_campaign=865432&utm_source=habrahabr&utm_medium=rss)
 - [Вторая часть книги «Искусство схемотехники» скоро в продаже](https://habr.com/ru/news/865418/?utm_campaign=865418&utm_source=habrahabr&utm_medium=rss)
-- [Объявлены лауреаты созданной при поддержке Газпромбанка научной премии «Вызов»](https://habr.com/ru/news/865424/?utm_campaign=865424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
