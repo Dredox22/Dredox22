@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Норвегии запустили альтернативу Apple Pay с технологией NFC от Apple](https://habr.com/ru/news/865246/?utm_campaign=865246&utm_source=habrahabr&utm_medium=rss)
+- [Киберполиция Японии арестовала 32-летнего взломщика файлов сохранений игр Pokémon Sun для Nintendo 3DS](https://habr.com/ru/news/865248/?utm_campaign=865248&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива для съёмных носителей MiniOS 4.0](https://habr.com/ru/news/865236/?utm_campaign=865236&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft устранила конфликты в Windows 11 24H2, приводящие к сбоям в играх](https://habr.com/ru/news/865232/?utm_campaign=865232&utm_source=habrahabr&utm_medium=rss)
 - [Релиз утилиты для автоматизации сборки и тестирования ПО Bazel 8.0 LTS &lpar;с долгосрочной поддержкой&rpar;](https://habr.com/ru/news/865220/?utm_campaign=865220&utm_source=habrahabr&utm_medium=rss)
-- [Sora от OpenAI вышла: обзор, примеры видео и ограничения](https://habr.com/ru/news/865210/?utm_campaign=865210&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi представила компьютер Pi 500 в формате клавиатуры и фирменный монитор](https://habr.com/ru/news/865184/?utm_campaign=865184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
