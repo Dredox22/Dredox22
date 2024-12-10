@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор изменений в законодательстве ИТ и ИБ за ноябрь 2024 года](https://habr.com/ru/companies/ussc/news/865354/?utm_campaign=865354&utm_source=habrahabr&utm_medium=rss)
-- [Tesla показала тесты робота Optimus на пересечённой местности](https://habr.com/ru/news/865350/?utm_campaign=865350&utm_source=habrahabr&utm_medium=rss)
-- [В России появится еще один производитель компьютерных мышек и клавиатур — ABR Technology](https://habr.com/ru/news/865330/?utm_campaign=865330&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» и МойОфис объявили о совместимости своих продуктов – Solar Dozor и Mailion](https://habr.com/ru/companies/solarsecurity/news/865318/?utm_campaign=865318&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: открытое ПО поддерживает работу 96% современных приложений](https://habr.com/ru/news/865290/?utm_campaign=865290&utm_source=habrahabr&utm_medium=rss)
+- [Вторая часть книги «Искусство схемотехники» скоро в продаже](https://habr.com/ru/news/865418/?utm_campaign=865418&utm_source=habrahabr&utm_medium=rss)
+- [Объявлены лауреаты созданной при поддержке Газпромбанка научной премии «Вызов»](https://habr.com/ru/news/865424/?utm_campaign=865424&utm_source=habrahabr&utm_medium=rss)
+- [Центральный университет и AIRI создают лабораторию ИИ, анализа данных и моделирования](https://habr.com/ru/news/865422/?utm_campaign=865422&utm_source=habrahabr&utm_medium=rss)
+- [Релиз бесплатного портативного фоторедактора для Windows — проекта с открытым исходным кодом PhotoDemon 2024.12](https://habr.com/ru/news/865412/?utm_campaign=865412&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Практикум» запустил курс подготовки специалистов по информационной безопасности](https://habr.com/ru/news/865406/?utm_campaign=865406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
