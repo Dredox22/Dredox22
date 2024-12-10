@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как Google и Meta* тайно таргетировали рекламу на подростков](https://habr.com/ru/companies/bothub/news/865444/?utm_campaign=865444&utm_source=habrahabr&utm_medium=rss)
+- [Прогресс в AGI вызывает сомнения](https://habr.com/ru/companies/bothub/news/865432/?utm_campaign=865432&utm_source=habrahabr&utm_medium=rss)
 - [Вторая часть книги «Искусство схемотехники» скоро в продаже](https://habr.com/ru/news/865418/?utm_campaign=865418&utm_source=habrahabr&utm_medium=rss)
 - [Объявлены лауреаты созданной при поддержке Газпромбанка научной премии «Вызов»](https://habr.com/ru/news/865424/?utm_campaign=865424&utm_source=habrahabr&utm_medium=rss)
 - [Центральный университет и AIRI создают лабораторию ИИ, анализа данных и моделирования](https://habr.com/ru/news/865422/?utm_campaign=865422&utm_source=habrahabr&utm_medium=rss)
-- [Релиз бесплатного портативного фоторедактора для Windows — проекта с открытым исходным кодом PhotoDemon 2024.12](https://habr.com/ru/news/865412/?utm_campaign=865412&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Практикум» запустил курс подготовки специалистов по информационной безопасности](https://habr.com/ru/news/865406/?utm_campaign=865406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
