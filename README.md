@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз дистрибутива для съёмных носителей MiniOS 4.0](https://habr.com/ru/news/865236/?utm_campaign=865236&utm_source=habrahabr&utm_medium=rss)
+- [Ubisoft устранила конфликты в Windows 11 24H2, приводящие к сбоям в играх](https://habr.com/ru/news/865232/?utm_campaign=865232&utm_source=habrahabr&utm_medium=rss)
 - [Релиз утилиты для автоматизации сборки и тестирования ПО Bazel 8.0 LTS &lpar;с долгосрочной поддержкой&rpar;](https://habr.com/ru/news/865220/?utm_campaign=865220&utm_source=habrahabr&utm_medium=rss)
 - [Sora от OpenAI вышла: обзор, примеры видео и ограничения](https://habr.com/ru/news/865210/?utm_campaign=865210&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi представила компьютер Pi 500 в формате клавиатуры и фирменный монитор](https://habr.com/ru/news/865184/?utm_campaign=865184&utm_source=habrahabr&utm_medium=rss)
-- [Учёные синтезировали и описали управляемый магнитный материал для высокоточной электроники](https://habr.com/ru/news/865136/?utm_campaign=865136&utm_source=habrahabr&utm_medium=rss)
-- [Capcom проведёт для японских студентов конкурс по разработке игр с использованием RE Engine](https://habr.com/ru/news/865160/?utm_campaign=865160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
