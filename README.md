@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбер представил семейство роботов-аниматроников Топу и Кубу, а также роботов-помощников Краба и Слона](https://habr.com/ru/news/865830/?utm_campaign=865830&utm_source=habrahabr&utm_medium=rss)
 - [5 вопросов к эксперту: Коннектор к 1С: Шина, возможности  интеграции с контуром EDI, расширенный REST сервер](https://habr.com/ru/news/865780/?utm_campaign=865780&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI Canvas теперь доступен всем пользователям и может запускать код в браузере](https://habr.com/ru/news/865768/?utm_campaign=865768&utm_source=habrahabr&utm_medium=rss)
 - [Издательство «Просвещение» выпустило первые учебные пособия по искусственному интеллекту для 5-9 классов](https://habr.com/ru/news/865756/?utm_campaign=865756&utm_source=habrahabr&utm_medium=rss)
 - [В НСПК обсуждают создание резервного офиса платёжной инфраструктуры за пределами Москвы](https://habr.com/ru/news/865752/?utm_campaign=865752&utm_source=habrahabr&utm_medium=rss)
-- [Киберфестиваль Positive Hack Days пройдет 22-24 мая 2025 года](https://habr.com/ru/companies/pt/news/865748/?utm_campaign=865748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
