@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple подвела итоги ежегодной премии App Store Award](https://habr.com/ru/news/865870/?utm_campaign=865870&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» в новой версии inRights расширяет возможности для интеграции с 1С](https://habr.com/ru/companies/solarsecurity/news/865846/?utm_campaign=865846&utm_source=habrahabr&utm_medium=rss)
 - [Объявлены победители премии Comedy Wildlife Photography Awards 2024](https://habr.com/ru/news/865840/?utm_campaign=865840&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на QA-митап РСХБ․цифра «AI в тестировании»](https://habr.com/ru/companies/rshb/news/865832/?utm_campaign=865832&utm_source=habrahabr&utm_medium=rss)
 - [Сбер представил семейство роботов-аниматроников Топу и Кубу, а также роботов-помощников Краба и Слона](https://habr.com/ru/news/865830/?utm_campaign=865830&utm_source=habrahabr&utm_medium=rss)
-- [5 вопросов к эксперту: Коннектор к 1С: Шина, возможности  интеграции с контуром EDI, расширенный REST сервер](https://habr.com/ru/news/865780/?utm_campaign=865780&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
