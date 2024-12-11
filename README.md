@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запустила страницу с трендами поиска в 2024 году](https://habr.com/ru/news/865630/?utm_campaign=865630&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «ГАЗСНАБ» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/865616/?utm_campaign=865616&utm_source=habrahabr&utm_medium=rss)
 - [Сбой синхронизации Vivaldi длится уже пятый день](https://habr.com/ru/news/865606/?utm_campaign=865606&utm_source=habrahabr&utm_medium=rss)
 - [Automattic обязали прекратить блокировку WP Engine в WordPress](https://habr.com/ru/news/865598/?utm_campaign=865598&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Музее» открылась выставка «Игра в технологии» про развитие игровой индустрии от старинных игрушек до видеоигр](https://habr.com/ru/news/865600/?utm_campaign=865600&utm_source=habrahabr&utm_medium=rss)
-- [Игровая студия People Can Fly увольняет более 120 сотрудников](https://habr.com/ru/news/865594/?utm_campaign=865594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
