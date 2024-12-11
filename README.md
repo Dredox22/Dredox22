@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая версия операционной системы для дома Simply Linux 10.4: больше совместимых компьютеров, защита от потери файлов](https://habr.com/ru/companies/basealtspo/news/865692/?utm_campaign=865692&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила страницу с трендами поиска в 2024 году](https://habr.com/ru/news/865630/?utm_campaign=865630&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «ГАЗСНАБ» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/865616/?utm_campaign=865616&utm_source=habrahabr&utm_medium=rss)
 - [Сбой синхронизации Vivaldi длится уже пятый день](https://habr.com/ru/news/865606/?utm_campaign=865606&utm_source=habrahabr&utm_medium=rss)
 - [Automattic обязали прекратить блокировку WP Engine в WordPress](https://habr.com/ru/news/865598/?utm_campaign=865598&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Музее» открылась выставка «Игра в технологии» про развитие игровой индустрии от старинных игрушек до видеоигр](https://habr.com/ru/news/865600/?utm_campaign=865600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
