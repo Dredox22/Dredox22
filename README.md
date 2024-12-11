@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Игровая студия People Can Fly увольняет более 120 сотрудников](https://habr.com/ru/news/865594/?utm_campaign=865594&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году решения «Лаборатории Касперского» обнаруживали в среднем 467 тысяч новых вредоносных файлов ежедневно](https://habr.com/ru/news/865590/?utm_campaign=865590&utm_source=habrahabr&utm_medium=rss)
 - [YouTube Kids получил новый дизайн и стал более похожим на YouTube](https://habr.com/ru/news/865578/?utm_campaign=865578&utm_source=habrahabr&utm_medium=rss)
 - [Вышло расширение GitHub Skyline CLI для визуализации в ASCII достижений на платформе и экспорта данных для 3D-печати](https://habr.com/ru/news/865564/?utm_campaign=865564&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» обнаружила новую схему кражи данных геймеров в Roblox и Brawl Stars](https://habr.com/ru/news/865492/?utm_campaign=865492&utm_source=habrahabr&utm_medium=rss)
-- [После 21 года разработки вышел системный менеджер GNU Shepherd 1.0.0](https://habr.com/ru/news/865474/?utm_campaign=865474&utm_source=habrahabr&utm_medium=rss)
-- [Cloud DevSecOps: новый бесплатный курс по основам безопасной разработки](https://habr.com/ru/companies/beeline_cloud/news/865462/?utm_campaign=865462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
