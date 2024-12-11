@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [База оборудования компании «ГАЗСНАБ» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/865616/?utm_campaign=865616&utm_source=habrahabr&utm_medium=rss)
+- [Сбой синхронизации Vivaldi длится уже пятый день](https://habr.com/ru/news/865606/?utm_campaign=865606&utm_source=habrahabr&utm_medium=rss)
+- [Automattic обязали прекратить блокировку WP Engine в WordPress](https://habr.com/ru/news/865598/?utm_campaign=865598&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Музее» открылась выставка «Игра в технологии» про развитие игровой индустрии от старинных игрушек до видеоигр](https://habr.com/ru/news/865600/?utm_campaign=865600&utm_source=habrahabr&utm_medium=rss)
 - [Игровая студия People Can Fly увольняет более 120 сотрудников](https://habr.com/ru/news/865594/?utm_campaign=865594&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году решения «Лаборатории Касперского» обнаруживали в среднем 467 тысяч новых вредоносных файлов ежедневно](https://habr.com/ru/news/865590/?utm_campaign=865590&utm_source=habrahabr&utm_medium=rss)
-- [YouTube Kids получил новый дизайн и стал более похожим на YouTube](https://habr.com/ru/news/865578/?utm_campaign=865578&utm_source=habrahabr&utm_medium=rss)
-- [Вышло расширение GitHub Skyline CLI для визуализации в ASCII достижений на платформе и экспорта данных для 3D-печати](https://habr.com/ru/news/865564/?utm_campaign=865564&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» обнаружила новую схему кражи данных геймеров в Roblox и Brawl Stars](https://habr.com/ru/news/865492/?utm_campaign=865492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
