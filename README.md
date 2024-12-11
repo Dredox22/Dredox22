@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новая версия операционной системы для дома Simply Linux 10.4: больше совместимых компьютеров, защита от потери файлов](https://habr.com/ru/companies/basealtspo/news/865692/?utm_campaign=865692&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила страницу с трендами поиска в 2024 году](https://habr.com/ru/news/865630/?utm_campaign=865630&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования компании «ГАЗСНАБ» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/865616/?utm_campaign=865616&utm_source=habrahabr&utm_medium=rss)
-- [Сбой синхронизации Vivaldi длится уже пятый день](https://habr.com/ru/news/865606/?utm_campaign=865606&utm_source=habrahabr&utm_medium=rss)
-- [Automattic обязали прекратить блокировку WP Engine в WordPress](https://habr.com/ru/news/865598/?utm_campaign=865598&utm_source=habrahabr&utm_medium=rss)
+- [Издательство «Просвещение» выпустило первые учебные пособия по искусственному интеллекту для 5-9 классов](https://habr.com/ru/news/865756/?utm_campaign=865756&utm_source=habrahabr&utm_medium=rss)
+- [В НСПК обсуждают создание резервного офиса платёжной инфраструктуры за пределами Москвы](https://habr.com/ru/news/865752/?utm_campaign=865752&utm_source=habrahabr&utm_medium=rss)
+- [Киберфестиваль Positive Hack Days пройдет 22-24 мая 2025 года](https://habr.com/ru/companies/pt/news/865748/?utm_campaign=865748&utm_source=habrahabr&utm_medium=rss)
+- [Вышла стабильная версия systemd 257](https://habr.com/ru/news/865740/?utm_campaign=865740&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар про релиз «Штурвал 2.8» и все, что связано с Community Edition](https://habr.com/ru/companies/chislitellab/news/865736/?utm_campaign=865736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
