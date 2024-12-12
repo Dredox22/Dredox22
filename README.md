@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В США подали в суд на Character.AI: чат-бот показывал детям непристойный контент и детально описывал селфхарм](https://habr.com/ru/news/866186/?utm_campaign=866186&utm_source=habrahabr&utm_medium=rss)
+- [Android XR — ОС для XR гарнитуры от Samsung](https://habr.com/ru/news/866184/?utm_campaign=866184&utm_source=habrahabr&utm_medium=rss)
 - [Google Play прекращает все отношения с российскими разработчиками](https://habr.com/ru/news/866182/?utm_campaign=866182&utm_source=habrahabr&utm_medium=rss)
 - [Инициатива о регулировании видеоигр вызывает серьёзные вопросы у профессионального сообщества](https://habr.com/ru/news/866178/?utm_campaign=866178&utm_source=habrahabr&utm_medium=rss)
 - [Слух: на The Game Awards 2024 могут представить Half‑Life 3](https://habr.com/ru/news/866174/?utm_campaign=866174&utm_source=habrahabr&utm_medium=rss)
-- [На сайте Telegram появился раздел «Модерация», где собрана статистика по заблокированным чатам и каналам](https://habr.com/ru/news/866162/?utm_campaign=866162&utm_source=habrahabr&utm_medium=rss)
-- [Являются ли принципиальные схемы объектом авторского права](https://habr.com/ru/news/866108/?utm_campaign=866108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
