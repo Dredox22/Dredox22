@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Аудитория «VK знакомств» за год выросла на 40%](https://habr.com/ru/news/866010/?utm_campaign=866010&utm_source=habrahabr&utm_medium=rss)
 - [Стартап роботов эмоциональной поддержки Moxie закроют без гарантий возврата денег](https://habr.com/ru/news/865954/?utm_campaign=865954&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft решила проблему обновления Windows 11 24H2 на ПК с USB-модемами, принтерами и сканерами](https://habr.com/ru/news/865940/?utm_campaign=865940&utm_source=habrahabr&utm_medium=rss)
 - [Льготы от бота: мошенники распространяют фейки о предновогодних выплатах через сеть Telegram-каналов](https://habr.com/ru/companies/f_a_c_c_t/news/865944/?utm_campaign=865944&utm_source=habrahabr&utm_medium=rss)
 - [vLLM стал частью экосистемы PyTorch](https://habr.com/ru/news/865942/?utm_campaign=865942&utm_source=habrahabr&utm_medium=rss)
-- [IBM заявила о прорыве в обучении ИИ с помощью оптики](https://habr.com/ru/news/865936/?utm_campaign=865936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
