@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Госуслугах начали тестировать робота-помощника Макса с ответами от двух российских БЯМ на конкурентной основе](https://habr.com/ru/news/865892/?utm_campaign=865892&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуме готовят законопроект для идентифицирования компьютерных игроков по мобильному номеру или через «Госуслуги»](https://habr.com/ru/news/865890/?utm_campaign=865890&utm_source=habrahabr&utm_medium=rss)
 - [Apple подвела итоги ежегодной премии App Store Award](https://habr.com/ru/news/865870/?utm_campaign=865870&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» в новой версии inRights расширяет возможности для интеграции с 1С](https://habr.com/ru/companies/solarsecurity/news/865846/?utm_campaign=865846&utm_source=habrahabr&utm_medium=rss)
 - [Объявлены победители премии Comedy Wildlife Photography Awards 2024](https://habr.com/ru/news/865840/?utm_campaign=865840&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на QA-митап РСХБ․цифра «AI в тестировании»](https://habr.com/ru/companies/rshb/news/865832/?utm_campaign=865832&utm_source=habrahabr&utm_medium=rss)
-- [Сбер представил семейство роботов-аниматроников Топу и Кубу, а также роботов-помощников Краба и Слона](https://habr.com/ru/news/865830/?utm_campaign=865830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
