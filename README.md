@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google открыла для чат-бота Gemini возможность «рассуждать» над исследовательскими задачами](https://habr.com/ru/news/865914/?utm_campaign=865914&utm_source=habrahabr&utm_medium=rss)
+- [В «Ростелекоме» заявили о полном импортозамещении серверов и СХД в РФ](https://habr.com/ru/news/865916/?utm_campaign=865916&utm_source=habrahabr&utm_medium=rss)
 - [В РФ разрабатывают цифровые метки для маркировки сгенерированного ИИ контента](https://habr.com/ru/news/865900/?utm_campaign=865900&utm_source=habrahabr&utm_medium=rss)
 - [На Госуслугах начали тестировать робота-помощника Макса с ответами от двух российских БЯМ на конкурентной основе](https://habr.com/ru/news/865892/?utm_campaign=865892&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме готовят законопроект для идентифицирования компьютерных игроков по мобильному номеру или через «Госуслуги»](https://habr.com/ru/news/865890/?utm_campaign=865890&utm_source=habrahabr&utm_medium=rss)
-- [Apple подвела итоги ежегодной премии App Store Award](https://habr.com/ru/news/865870/?utm_campaign=865870&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» в новой версии inRights расширяет возможности для интеграции с 1С](https://habr.com/ru/companies/solarsecurity/news/865846/?utm_campaign=865846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
