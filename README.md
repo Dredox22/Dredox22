@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google открыла для чат-бота Gemini возможность «рассуждать» над исследовательскими задачами](https://habr.com/ru/news/865914/?utm_campaign=865914&utm_source=habrahabr&utm_medium=rss)
-- [В «Ростелекоме» заявили о полном импортозамещении серверов и СХД в РФ](https://habr.com/ru/news/865916/?utm_campaign=865916&utm_source=habrahabr&utm_medium=rss)
-- [В РФ разрабатывают цифровые метки для маркировки сгенерированного ИИ контента](https://habr.com/ru/news/865900/?utm_campaign=865900&utm_source=habrahabr&utm_medium=rss)
-- [На Госуслугах начали тестировать робота-помощника Макса с ответами от двух российских БЯМ на конкурентной основе](https://habr.com/ru/news/865892/?utm_campaign=865892&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме готовят законопроект для идентифицирования компьютерных игроков по мобильному номеру или через «Госуслуги»](https://habr.com/ru/news/865890/?utm_campaign=865890&utm_source=habrahabr&utm_medium=rss)
+- [Льготы от бота: мошенники распространяют фейки о предновогодних выплатах через сеть Telegram-каналов](https://habr.com/ru/companies/f_a_c_c_t/news/865944/?utm_campaign=865944&utm_source=habrahabr&utm_medium=rss)
+- [vLLM стал частью экосистемы PyTorch](https://habr.com/ru/news/865942/?utm_campaign=865942&utm_source=habrahabr&utm_medium=rss)
+- [IBM заявила о прорыве в обучении ИИ с помощью оптики](https://habr.com/ru/news/865936/?utm_campaign=865936&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует ИИ-агентов Gemini для помощи в видеоиграх](https://habr.com/ru/news/865926/?utm_campaign=865926&utm_source=habrahabr&utm_medium=rss)
+- [Google представила Gemini 2.0 Flash и ИИ-агентов](https://habr.com/ru/news/865918/?utm_campaign=865918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
