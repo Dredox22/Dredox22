@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Аудитория «VK знакомств» за год выросла на 40%](https://habr.com/ru/news/866010/?utm_campaign=866010&utm_source=habrahabr&utm_medium=rss)
-- [Стартап роботов эмоциональной поддержки Moxie закроют без гарантий возврата денег](https://habr.com/ru/news/865954/?utm_campaign=865954&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft решила проблему обновления Windows 11 24H2 на ПК с USB-модемами, принтерами и сканерами](https://habr.com/ru/news/865940/?utm_campaign=865940&utm_source=habrahabr&utm_medium=rss)
-- [Льготы от бота: мошенники распространяют фейки о предновогодних выплатах через сеть Telegram-каналов](https://habr.com/ru/companies/f_a_c_c_t/news/865944/?utm_campaign=865944&utm_source=habrahabr&utm_medium=rss)
-- [vLLM стал частью экосистемы PyTorch](https://habr.com/ru/news/865942/?utm_campaign=865942&utm_source=habrahabr&utm_medium=rss)
+- [Android упрощает поиск неизвестных трекеров для предотвращения сталкинга](https://habr.com/ru/news/866040/?utm_campaign=866040&utm_source=habrahabr&utm_medium=rss)
+- [С 2030 года производителей электроники обяжут использовать российские печатные платы](https://habr.com/ru/news/866032/?utm_campaign=866032&utm_source=habrahabr&utm_medium=rss)
+- [МТС приглашает на митап True Tech QA](https://habr.com/ru/companies/ru_mts/news/866024/?utm_campaign=866024&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры пока не планирует отключать от «Госуслуг» аккаунты российских пользователей, привязанные к сервису Gmail](https://habr.com/ru/news/866022/?utm_campaign=866022&utm_source=habrahabr&utm_medium=rss)
+- [Гарвард при поддержке Microsoft собрал открытый дата-сет из ~500 000 книг, но Google не дает его опубликовать](https://habr.com/ru/companies/itsumma/news/866020/?utm_campaign=866020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
