@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс представляет YaC 2024](https://habr.com/ru/companies/yandex/news/866036/?utm_campaign=866036&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Apache NetBeans 24](https://habr.com/ru/news/866082/?utm_campaign=866082&utm_source=habrahabr&utm_medium=rss)
 - [Cartesia бросает вызов гигантам AI и обещает революцию в эффективности](https://habr.com/ru/companies/bothub/news/866078/?utm_campaign=866078&utm_source=habrahabr&utm_medium=rss)
 - [LG прекратила выпуск проигрывателей Blu-ray](https://habr.com/ru/news/866074/?utm_campaign=866074&utm_source=habrahabr&utm_medium=rss)
 - [В собственном SOCу: эффективные методы защиты от мошенников на шоу «Инфобез со вкусом»](https://habr.com/ru/companies/gaz-is/news/866072/?utm_campaign=866072&utm_source=habrahabr&utm_medium=rss)
-- [Платформа Standoff Bug Bounty внесена в единый реестр российского ПО](https://habr.com/ru/companies/pt/news/866044/?utm_campaign=866044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
