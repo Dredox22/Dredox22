@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Являются ли принципиальные схемы авторским правом?](https://habr.com/ru/news/866108/?utm_campaign=866108&utm_source=habrahabr&utm_medium=rss)
+- [Являются ли принципиальные схемы объектом авторского права](https://habr.com/ru/news/866108/?utm_campaign=866108&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс представляет YaC 2024](https://habr.com/ru/companies/yandex/news/866036/?utm_campaign=866036&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Apache NetBeans 24](https://habr.com/ru/news/866082/?utm_campaign=866082&utm_source=habrahabr&utm_medium=rss)
 - [Cartesia бросает вызов гигантам AI и обещает революцию в эффективности](https://habr.com/ru/companies/bothub/news/866078/?utm_campaign=866078&utm_source=habrahabr&utm_medium=rss)
