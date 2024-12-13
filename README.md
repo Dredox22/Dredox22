@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор ограничил доступ к Viber, как это отразилось на работе мессенджера в РФ](https://habr.com/ru/news/866522/?utm_campaign=866522&utm_source=habrahabr&utm_medium=rss)
 - [Viber заблокирован в России — РКН](https://habr.com/ru/news/866502/?utm_campaign=866502&utm_source=habrahabr&utm_medium=rss)
 - [R-Style Softlab представила коробочную версию АБС RS-Bank V.6](https://habr.com/ru/companies/rshb/news/866286/?utm_campaign=866286&utm_source=habrahabr&utm_medium=rss)
 - [Meta* разрабатывает маркировку водяными знаками для AI видео](https://habr.com/ru/companies/bothub/news/866444/?utm_campaign=866444&utm_source=habrahabr&utm_medium=rss)
 - [Новые возможности GigaChat — функция генерации музыки и песен по текстовому запросу](https://habr.com/ru/companies/sberdevices/news/866118/?utm_campaign=866118&utm_source=habrahabr&utm_medium=rss)
-- [VK выделила «VK Видео» в отдельный проект своей программы по поиску уязвимостей](https://habr.com/ru/news/866408/?utm_campaign=866408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
