@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [United Airlines добавила инструмент Apple AirTag Share Item Location в своё мобильное приложение для отслеживания багажа](https://habr.com/ru/news/866280/?utm_campaign=866280&utm_source=habrahabr&utm_medium=rss)
+- [Adobe представила инструмент для устранения некрасивых отражений окон на фотографиях](https://habr.com/ru/news/866266/?utm_campaign=866266&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила новую ИИ-модель Phi-4](https://habr.com/ru/news/866248/?utm_campaign=866248&utm_source=habrahabr&utm_medium=rss)
 - [Полиция закрыла рынок киберпреступности Rydox, арестованы три админа площадки](https://habr.com/ru/news/866242/?utm_campaign=866242&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: модераторы Telegram последние годы удаляли каждый месяц около 1 млн каналов и групп и более 10 млн пользователей](https://habr.com/ru/news/866238/?utm_campaign=866238&utm_source=habrahabr&utm_medium=rss)
-- [CD Projekt Red анонсировала «Ведьмака 4»](https://habr.com/ru/news/866234/?utm_campaign=866234&utm_source=habrahabr&utm_medium=rss)
-- [Обновление open source-платформы Cozystack: Terraform, Keycloak, улучшения стабильности и безопасности](https://habr.com/ru/companies/aenix/news/866076/?utm_campaign=866076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
