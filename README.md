@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Бауманке создали ИИ-модель, которая умеет вычислять мошенников](https://habr.com/ru/news/866340/?utm_campaign=866340&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla объявила об удалении опции Do Not Track в браузере Firefox с версии 135](https://habr.com/ru/news/866302/?utm_campaign=866302&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и OpenAI объявили о поддержке Инициативы по институциональным данным](https://habr.com/ru/news/866310/?utm_campaign=866310&utm_source=habrahabr&utm_medium=rss)
 - [Итоги CTF 2024 от «Доктор Веб»](https://habr.com/ru/companies/drweb/news/866308/?utm_campaign=866308&utm_source=habrahabr&utm_medium=rss)
 - [United Airlines добавила инструмент Apple AirTag Share Item Location в своё мобильное приложение для отслеживания багажа](https://habr.com/ru/news/866280/?utm_campaign=866280&utm_source=habrahabr&utm_medium=rss)
-- [Adobe представила инструмент для устранения некрасивых отражений окон на фотографиях](https://habr.com/ru/news/866266/?utm_campaign=866266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
