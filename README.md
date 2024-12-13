@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила новую ИИ-модель Phi-4](https://habr.com/ru/news/866248/?utm_campaign=866248&utm_source=habrahabr&utm_medium=rss)
+- [Полиция закрыла рынок киберпреступности Rydox, арестованы три админа площадки](https://habr.com/ru/news/866242/?utm_campaign=866242&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: модераторы Telegram последние годы удаляли каждый месяц около 1 млн каналов и групп и более 10 млн пользователей](https://habr.com/ru/news/866238/?utm_campaign=866238&utm_source=habrahabr&utm_medium=rss)
 - [CD Projekt Red анонсировала «Ведьмака 4»](https://habr.com/ru/news/866234/?utm_campaign=866234&utm_source=habrahabr&utm_medium=rss)
 - [Обновление open source-платформы Cozystack: Terraform, Keycloak, улучшения стабильности и безопасности](https://habr.com/ru/companies/aenix/news/866076/?utm_campaign=866076&utm_source=habrahabr&utm_medium=rss)
-- [В США подали в суд на Character.AI: чат-бот показывал детям непристойный контент и детально описывал селфхарм](https://habr.com/ru/news/866186/?utm_campaign=866186&utm_source=habrahabr&utm_medium=rss)
-- [Android XR — ОС для XR гарнитуры от Samsung](https://habr.com/ru/news/866184/?utm_campaign=866184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
