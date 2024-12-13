@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые возможности GigaChat — функция генерации музыки и песен по текстовому запросу](https://habr.com/ru/companies/sberdevices/news/866118/?utm_campaign=866118&utm_source=habrahabr&utm_medium=rss)
 - [VK выделила «VK Видео» в отдельный проект своей программы по поиску уязвимостей](https://habr.com/ru/news/866408/?utm_campaign=866408&utm_source=habrahabr&utm_medium=rss)
 - [Итоги анонсов The Game Awards 2024](https://habr.com/ru/news/866404/?utm_campaign=866404&utm_source=habrahabr&utm_medium=rss)
 - [В Бауманке создали ИИ-модель, которая умеет вычислять мошенников](https://habr.com/ru/news/866340/?utm_campaign=866340&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla объявила об удалении опции Do Not Track в браузере Firefox с версии 135](https://habr.com/ru/news/866302/?utm_campaign=866302&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и OpenAI объявили о поддержке Инициативы по институциональным данным](https://habr.com/ru/news/866310/?utm_campaign=866310&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
