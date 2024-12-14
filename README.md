@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Квантовый чип Willow оказался не способен взломать современную криптографию](https://habr.com/ru/news/866554/?utm_campaign=866554&utm_source=habrahabr&utm_medium=rss)
 - [Илья Суцкевер заявил об изменениях в обучении ИИ](https://habr.com/ru/news/866548/?utm_campaign=866548&utm_source=habrahabr&utm_medium=rss)
 - [Frontend Адвент-Календарь 2024](https://habr.com/ru/news/866532/?utm_campaign=866532&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор ограничил доступ к Viber, как это отразилось на работе мессенджера в РФ](https://habr.com/ru/news/866522/?utm_campaign=866522&utm_source=habrahabr&utm_medium=rss)
 - [Viber заблокирован в России — РКН](https://habr.com/ru/news/866502/?utm_campaign=866502&utm_source=habrahabr&utm_medium=rss)
-- [R-Style Softlab представила коробочную версию АБС RS-Bank V.6](https://habr.com/ru/companies/rshb/news/866286/?utm_campaign=866286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
