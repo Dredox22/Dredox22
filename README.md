@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Аэрофлот» будет использовать нейросети для прогнозирования спроса на билеты](https://habr.com/ru/news/866656/?utm_campaign=866656&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты пояснили, что приостановка выплат Google Play затронет инди-разработчиков и небольшие студии из РФ](https://habr.com/ru/news/866610/?utm_campaign=866610&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники начали звонить студентам и требовать зарегистрироваться через «Госуслуги» в СЦОС с показом экрана](https://habr.com/ru/news/866608/?utm_campaign=866608&utm_source=habrahabr&utm_medium=rss)
 - [Квантовый чип Willow оказался не способен взломать современную криптографию](https://habr.com/ru/news/866554/?utm_campaign=866554&utm_source=habrahabr&utm_medium=rss)
 - [Илья Суцкевер заявил об изменениях в обучении ИИ](https://habr.com/ru/news/866548/?utm_campaign=866548&utm_source=habrahabr&utm_medium=rss)
-- [Frontend Адвент-Календарь 2024](https://habr.com/ru/news/866532/?utm_campaign=866532&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
