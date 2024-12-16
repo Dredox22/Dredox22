@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз среды рабочего стола Xfce 4.20](https://habr.com/ru/news/866828/?utm_campaign=866828&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи взломали информационную систему автомобилей Škoda по Bluetooth и смогли следить за происходящим в салоне](https://habr.com/ru/news/866792/?utm_campaign=866792&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Sora обучали на игровом контенте, защищённом авторским правом](https://habr.com/ru/news/866708/?utm_campaign=866708&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор США предупредил о значительном росте «мошенничества с заданиями» в интернете](https://habr.com/ru/news/866680/?utm_campaign=866680&utm_source=habrahabr&utm_medium=rss)
 - [ChromeOS теперь может сбрасывать настройки без удаления данных с хромбука](https://habr.com/ru/news/866676/?utm_campaign=866676&utm_source=habrahabr&utm_medium=rss)
-- [Покупатели стали возвращать в магазины Arm-ноутбуки из-за проблем совместимости приложений](https://habr.com/ru/news/866672/?utm_campaign=866672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
