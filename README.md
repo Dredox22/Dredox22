@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [T-Mobile и Starlink: спутниковая связь для смартфонов. Регистрация на бета-тест открыта](https://habr.com/ru/news/867122/?utm_campaign=867122&utm_source=habrahabr&utm_medium=rss)
 - [На фестивале «Хомякон» покажут VR-игру по мотивам «Кибердеревни» под названием «Буля в пустыне»](https://habr.com/ru/news/867070/?utm_campaign=867070&utm_source=habrahabr&utm_medium=rss)
 - [Klarna прекратила найм сотрудников год назад, решив заменить их работу искусственным интеллектом](https://habr.com/ru/news/867066/?utm_campaign=867066&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/867036/?utm_campaign=867036&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» запустил первую лабораторию сертификации для КИИ](https://habr.com/ru/news/867034/?utm_campaign=867034&utm_source=habrahabr&utm_medium=rss)
-- [Google представила ОС Android XR для AR\VR‑шлемов и умных очков](https://habr.com/ru/news/867026/?utm_campaign=867026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
