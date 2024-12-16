@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила функцию для обмена файлами между iPhone и ПК на Windows](https://habr.com/ru/news/866848/?utm_campaign=866848&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры готовит пакет законопроектов, которые ограничат возможность использования в РФ сим-боксов и виртуальных АТС](https://habr.com/ru/news/866844/?utm_campaign=866844&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды рабочего стола Xfce 4.20](https://habr.com/ru/news/866828/?utm_campaign=866828&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи взломали информационную систему автомобилей Škoda по Bluetooth и смогли следить за происходящим в салоне](https://habr.com/ru/news/866792/?utm_campaign=866792&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Sora обучали на игровом контенте, защищённом авторским правом](https://habr.com/ru/news/866708/?utm_campaign=866708&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор США предупредил о значительном росте «мошенничества с заданиями» в интернете](https://habr.com/ru/news/866680/?utm_campaign=866680&utm_source=habrahabr&utm_medium=rss)
-- [ChromeOS теперь может сбрасывать настройки без удаления данных с хромбука](https://habr.com/ru/news/866676/?utm_campaign=866676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
