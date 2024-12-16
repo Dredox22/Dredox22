@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект минималистичного веб-браузера Dillo празднует 25 лет с начала разработки](https://habr.com/ru/news/866936/?utm_campaign=866936&utm_source=habrahabr&utm_medium=rss)
+- [Масштабное обновление Guardant SLK 4.0 — платформы для монетизации программных продуктов](https://habr.com/ru/companies/aktiv-company/news/866918/?utm_campaign=866918&utm_source=habrahabr&utm_medium=rss)
+- [«Группа Астра» представила новую открытую среду разработки OpenIDE](https://habr.com/ru/news/866916/?utm_campaign=866916&utm_source=habrahabr&utm_medium=rss)
 - [Циклон угроз: эксперты F.A.C.C.T. назвали основные тренды вымогателей, утечек и фишинга в 2024 году](https://habr.com/ru/companies/f_a_c_c_t/news/866890/?utm_campaign=866890&utm_source=habrahabr&utm_medium=rss)
 - [Phone Link не будет отображать «конфиденциальные» уведомления в Android 15](https://habr.com/ru/news/866870/?utm_campaign=866870&utm_source=habrahabr&utm_medium=rss)
-- [На AI Journey «Сбер» представил нейросеть для генерации музыки](https://habr.com/ru/news/866868/?utm_campaign=866868&utm_source=habrahabr&utm_medium=rss)
-- [В Мексике запустили приложение на базе ИИ для предотвращения самоубийств](https://habr.com/ru/news/866864/?utm_campaign=866864&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила функцию для обмена файлами между iPhone и ПК на Windows](https://habr.com/ru/news/866848/?utm_campaign=866848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
