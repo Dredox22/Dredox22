@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Циклон угроз: эксперты F.A.C.C.T. назвали основные тренды вымогателей, утечек и фишинга в 2024 году](https://habr.com/ru/companies/f_a_c_c_t/news/866890/?utm_campaign=866890&utm_source=habrahabr&utm_medium=rss)
 - [Phone Link не будет отображать «конфиденциальные» уведомления в Android 15](https://habr.com/ru/news/866870/?utm_campaign=866870&utm_source=habrahabr&utm_medium=rss)
 - [На AI Journey «Сбер» представил нейросеть для генерации музыки](https://habr.com/ru/news/866868/?utm_campaign=866868&utm_source=habrahabr&utm_medium=rss)
 - [В Мексике запустили приложение на базе ИИ для предотвращения самоубийств](https://habr.com/ru/news/866864/?utm_campaign=866864&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила функцию для обмена файлами между iPhone и ПК на Windows](https://habr.com/ru/news/866848/?utm_campaign=866848&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры готовит пакет законопроектов, которые ограничат возможность использования в РФ сим-боксов и виртуальных АТС](https://habr.com/ru/news/866844/?utm_campaign=866844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
