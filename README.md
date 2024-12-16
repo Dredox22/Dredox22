@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/867036/?utm_campaign=867036&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» запустил первую лабораторию сертификации для КИИ](https://habr.com/ru/news/867034/?utm_campaign=867034&utm_source=habrahabr&utm_medium=rss)
+- [Google представила ОС Android XR для AR\VR‑шлемов и умных очков](https://habr.com/ru/news/867026/?utm_campaign=867026&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники крадут данные российских блогеров под видом предложений о сотрудничестве](https://habr.com/ru/news/867024/?utm_campaign=867024&utm_source=habrahabr&utm_medium=rss)
 - [Apple работает над меткой AirTag 2 с увеличенной дальностью отслеживания](https://habr.com/ru/news/867022/?utm_campaign=867022&utm_source=habrahabr&utm_medium=rss)
-- [Школьников предлагают готовить к цифровой среде с раннего возраста](https://habr.com/ru/news/867010/?utm_campaign=867010&utm_source=habrahabr&utm_medium=rss)
-- [Проект минималистичного веб-браузера Dillo празднует 25 лет с начала разработки](https://habr.com/ru/news/866936/?utm_campaign=866936&utm_source=habrahabr&utm_medium=rss)
-- [Масштабное обновление Guardant SLK 4.0 — платформы для монетизации программных продуктов](https://habr.com/ru/companies/aktiv-company/news/866918/?utm_campaign=866918&utm_source=habrahabr&utm_medium=rss)
-- [«Группа Астра» представила новую открытую среду разработки OpenIDE](https://habr.com/ru/news/866916/?utm_campaign=866916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
