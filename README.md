@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple работает над меткой AirTag 2 с увеличенной дальностью отслеживания](https://habr.com/ru/news/867022/?utm_campaign=867022&utm_source=habrahabr&utm_medium=rss)
+- [Школьников предлагают готовить к цифровой среде с раннего возраста](https://habr.com/ru/news/867010/?utm_campaign=867010&utm_source=habrahabr&utm_medium=rss)
 - [Проект минималистичного веб-браузера Dillo празднует 25 лет с начала разработки](https://habr.com/ru/news/866936/?utm_campaign=866936&utm_source=habrahabr&utm_medium=rss)
 - [Масштабное обновление Guardant SLK 4.0 — платформы для монетизации программных продуктов](https://habr.com/ru/companies/aktiv-company/news/866918/?utm_campaign=866918&utm_source=habrahabr&utm_medium=rss)
 - [«Группа Астра» представила новую открытую среду разработки OpenIDE](https://habr.com/ru/news/866916/?utm_campaign=866916&utm_source=habrahabr&utm_medium=rss)
-- [Циклон угроз: эксперты F.A.C.C.T. назвали основные тренды вымогателей, утечек и фишинга в 2024 году](https://habr.com/ru/companies/f_a_c_c_t/news/866890/?utm_campaign=866890&utm_source=habrahabr&utm_medium=rss)
-- [Phone Link не будет отображать «конфиденциальные» уведомления в Android 15](https://habr.com/ru/news/866870/?utm_campaign=866870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
