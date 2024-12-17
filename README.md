@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: данные 59% российских компаний можно найти в даркнете](https://habr.com/ru/news/867260/?utm_campaign=867260&utm_source=habrahabr&utm_medium=rss)
 - [Операционные системы «Альт» совместимы с сервисом Контур.Доступ](https://habr.com/ru/companies/basealtspo/news/867222/?utm_campaign=867222&utm_source=habrahabr&utm_medium=rss)
 - [Команда из Малайзии Cyber1000 повысила уровень навыков своих специалистов благодаря участию в кибербитве Standoff](https://habr.com/ru/companies/pt/news/867098/?utm_campaign=867098&utm_source=habrahabr&utm_medium=rss)
 - [Очки Ray-Ban Meta* получили функции Live AI и Live Translation](https://habr.com/ru/news/867212/?utm_campaign=867212&utm_source=habrahabr&utm_medium=rss)
 - [YouTube позволит компаниям обучать модели ИИ на контенте с согласия авторов](https://habr.com/ru/news/867198/?utm_campaign=867198&utm_source=habrahabr&utm_medium=rss)
-- [BlackBerry продала Cylance за $160 млн](https://habr.com/ru/news/867194/?utm_campaign=867194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
