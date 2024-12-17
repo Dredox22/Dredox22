@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз sq 1.0 — инструмента командной строки для управления шифрованием и подписями OpenPGP](https://habr.com/ru/news/867168/?utm_campaign=867168&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Китая начала тестировать антивандального робота-колобка Rotunbot, который может гоняться за преступниками](https://habr.com/ru/news/867140/?utm_campaign=867140&utm_source=habrahabr&utm_medium=rss)
 - [T-Mobile и Starlink: спутниковая связь для смартфонов. Регистрация на бета-тест открыта](https://habr.com/ru/news/867122/?utm_campaign=867122&utm_source=habrahabr&utm_medium=rss)
 - [На фестивале «Хомякон» покажут VR-игру по мотивам «Кибердеревни» под названием «Буля в пустыне»](https://habr.com/ru/news/867070/?utm_campaign=867070&utm_source=habrahabr&utm_medium=rss)
 - [Klarna прекратила найм сотрудников год назад, решив заменить их работу искусственным интеллектом](https://habr.com/ru/news/867066/?utm_campaign=867066&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/867036/?utm_campaign=867036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
