@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Альт Рабочая станция» 10.4: управление USB-устройствами, новые инструменты для системных администраторов](https://habr.com/ru/companies/basealtspo/news/867324/?utm_campaign=867324&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» выпустил программу, которая позволяет пользователю самостоятельно установить «Сбербанк Онлайн» на iPhone](https://habr.com/ru/news/867322/?utm_campaign=867322&utm_source=habrahabr&utm_medium=rss)
 - [«Инфосистемы Джет» представила анализ ландшафта угроз кибербезопасности](https://habr.com/ru/companies/jetinfosystems/news/866424/?utm_campaign=866424&utm_source=habrahabr&utm_medium=rss)
 - [Поисковик ChatGPT стал доступен всем пользователям](https://habr.com/ru/news/867284/?utm_campaign=867284&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: данные 59% российских компаний можно найти в даркнете](https://habr.com/ru/news/867260/?utm_campaign=867260&utm_source=habrahabr&utm_medium=rss)
-- [Операционные системы «Альт» совместимы с сервисом Контур.Доступ](https://habr.com/ru/companies/basealtspo/news/867222/?utm_campaign=867222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
