@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Браузер» предложил пользователям узнать их персональные итоги года](https://habr.com/ru/news/867792/?utm_campaign=867792&utm_source=habrahabr&utm_medium=rss)
 - [Apple предоставила возможность оплачивать покупки в эмуляторе Delta для iOS в обход App Store](https://habr.com/ru/news/867790/?utm_campaign=867790&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустила открытый набор голосовых данных Common Voice 20](https://habr.com/ru/news/867774/?utm_campaign=867774&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила MarkItDown — открытый инструмент на Python для преобразования файлов и офисных документов в Markdown](https://habr.com/ru/news/867770/?utm_campaign=867770&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Explyt — форк Database Navigator с поддержкой последней версии IntelliJ IDEA](https://habr.com/ru/companies/explyt/news/867758/?utm_campaign=867758&utm_source=habrahabr&utm_medium=rss)
-- [Минторг США рассматривает запрет на использование в стране роутеров TP-Link из-за проблем с безопасностью](https://habr.com/ru/news/867740/?utm_campaign=867740&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
