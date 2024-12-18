@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия PowerToys 0.87](https://habr.com/ru/news/867450/?utm_campaign=867450&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Acronis получило поддержку BitLocker в Windows 11 24H2](https://habr.com/ru/news/867442/?utm_campaign=867442&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустила финансовый отчёт за 2023 год](https://habr.com/ru/news/867440/?utm_campaign=867440&utm_source=habrahabr&utm_medium=rss)
 - [Стартап EvenUp обещал с помощью нейросетей анализировать медицинские карты пользователей, но всю работу делают люди](https://habr.com/ru/news/867432/?utm_campaign=867432&utm_source=habrahabr&utm_medium=rss)
 - [Суд отказал компании Lightcom в удовлетворении иска против блогера Максима Горшенина](https://habr.com/ru/news/867396/?utm_campaign=867396&utm_source=habrahabr&utm_medium=rss)
-- [Google, вероятно, планирует ввести функцию загрузки файлов для того, чтобы задавать вопросы об этих файлах](https://habr.com/ru/news/867344/?utm_campaign=867344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
