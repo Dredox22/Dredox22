@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» создал отдельное юрлицо для роботов‑доставщиков](https://habr.com/ru/news/867658/?utm_campaign=867658&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор разработал порядок сбора информации для идентификаций средств связи и пользовательского оборудования по IP](https://habr.com/ru/news/867640/?utm_campaign=867640&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE рассказала о росте шпионских атак, новых тенденций и разрушительных последствиях](https://habr.com/ru/news/867604/?utm_campaign=867604&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies представила анализ текущих трендов кибербезопасности в 2024 и прогнозы на 2025 год](https://habr.com/ru/news/867518/?utm_campaign=867518&utm_source=habrahabr&utm_medium=rss)
 - [ГК Softline стала партнером года F.A.C.C.T. по объему продаж](https://habr.com/ru/companies/f_a_c_c_t/news/867488/?utm_campaign=867488&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия PowerToys 0.87](https://habr.com/ru/news/867450/?utm_campaign=867450&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Acronis получило поддержку BitLocker в Windows 11 24H2](https://habr.com/ru/news/867442/?utm_campaign=867442&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla выпустила финансовый отчёт за 2023 год](https://habr.com/ru/news/867440/?utm_campaign=867440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
