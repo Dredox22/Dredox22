@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минторг США рассматривает запрет на использование в стране роутеров TP-Link из-за проблем с безопасностью](https://habr.com/ru/news/867740/?utm_campaign=867740&utm_source=habrahabr&utm_medium=rss)
 - [Итоги года Solar NGFW: проекты в финансовом и государственном сегментах, 373 новые функции и стратегия на 2025 год](https://habr.com/ru/companies/solarsecurity/news/867692/?utm_campaign=867692&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пиринговый видеохостинг PeerTube 7.0](https://habr.com/ru/news/867682/?utm_campaign=867682&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.34: поддержка Apple Silicon ARM64, проектов для .NET 9, taint-анализа в Java анализаторе](https://habr.com/ru/companies/pvs-studio/news/867674/?utm_campaign=867674&utm_source=habrahabr&utm_medium=rss)
 - [МТС выведет IT-подразделения в самостоятельную структуру](https://habr.com/ru/news/867668/?utm_campaign=867668&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» создал отдельное юрлицо для роботов‑доставщиков](https://habr.com/ru/news/867658/?utm_campaign=867658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
