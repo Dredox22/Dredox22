@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies представила анализ текущих трендов кибербезопасности в 2024 и прогнозы на 2025 год](https://habr.com/ru/news/867518/?utm_campaign=867518&utm_source=habrahabr&utm_medium=rss)
 - [ГК Softline стала партнером года F.A.C.C.T. по объему продаж](https://habr.com/ru/companies/f_a_c_c_t/news/867488/?utm_campaign=867488&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия PowerToys 0.87](https://habr.com/ru/news/867450/?utm_campaign=867450&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Acronis получило поддержку BitLocker в Windows 11 24H2](https://habr.com/ru/news/867442/?utm_campaign=867442&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустила финансовый отчёт за 2023 год](https://habr.com/ru/news/867440/?utm_campaign=867440&utm_source=habrahabr&utm_medium=rss)
-- [Стартап EvenUp обещал с помощью нейросетей анализировать медицинские карты пользователей, но всю работу делают люди](https://habr.com/ru/news/867432/?utm_campaign=867432&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
