@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Итоги года Solar NGFW: проекты в финансовом и государственном сегментах, 373 новые функции и стратегия на 2025 год](https://habr.com/ru/companies/solarsecurity/news/867692/?utm_campaign=867692&utm_source=habrahabr&utm_medium=rss)
+- [Вышел пиринговый видеохостинг PeerTube 7.0](https://habr.com/ru/news/867682/?utm_campaign=867682&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.34: поддержка Apple Silicon ARM64, проектов для .NET 9, taint-анализа в Java анализаторе](https://habr.com/ru/companies/pvs-studio/news/867674/?utm_campaign=867674&utm_source=habrahabr&utm_medium=rss)
+- [МТС выведет IT-подразделения в самостоятельную структуру](https://habr.com/ru/news/867668/?utm_campaign=867668&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» создал отдельное юрлицо для роботов‑доставщиков](https://habr.com/ru/news/867658/?utm_campaign=867658&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор разработал порядок сбора информации для идентификаций средств связи и пользовательского оборудования по IP](https://habr.com/ru/news/867640/?utm_campaign=867640&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE рассказала о росте шпионских атак, новых тенденций и разрушительных последствиях](https://habr.com/ru/news/867604/?utm_campaign=867604&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies представила анализ текущих трендов кибербезопасности в 2024 и прогнозы на 2025 год](https://habr.com/ru/news/867518/?utm_campaign=867518&utm_source=habrahabr&utm_medium=rss)
-- [ГК Softline стала партнером года F.A.C.C.T. по объему продаж](https://habr.com/ru/companies/f_a_c_c_t/news/867488/?utm_campaign=867488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
