@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla выпустила открытый набор голосовых данных Common Voice 20](https://habr.com/ru/news/867774/?utm_campaign=867774&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила MarkItDown — открытый инструмент на Python для преобразования файлов и офисных документов в Markdown](https://habr.com/ru/news/867770/?utm_campaign=867770&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Explyt — форк Database Navigator с поддержкой последней версии IntelliJ IDEA](https://habr.com/ru/companies/explyt/news/867758/?utm_campaign=867758&utm_source=habrahabr&utm_medium=rss)
 - [Минторг США рассматривает запрет на использование в стране роутеров TP-Link из-за проблем с безопасностью](https://habr.com/ru/news/867740/?utm_campaign=867740&utm_source=habrahabr&utm_medium=rss)
 - [Итоги года Solar NGFW: проекты в финансовом и государственном сегментах, 373 новые функции и стратегия на 2025 год](https://habr.com/ru/companies/solarsecurity/news/867692/?utm_campaign=867692&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пиринговый видеохостинг PeerTube 7.0](https://habr.com/ru/news/867682/?utm_campaign=867682&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.34: поддержка Apple Silicon ARM64, проектов для .NET 9, taint-анализа в Java анализаторе](https://habr.com/ru/companies/pvs-studio/news/867674/?utm_campaign=867674&utm_source=habrahabr&utm_medium=rss)
-- [МТС выведет IT-подразделения в самостоятельную структуру](https://habr.com/ru/news/867668/?utm_campaign=867668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
