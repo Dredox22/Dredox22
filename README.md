@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Suki расширяет возможности AI-помощника с интеграцией Google Cloud](https://habr.com/ru/companies/bothub/news/868032/?utm_campaign=868032&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» наградили за вклад в безопасную разработку](https://habr.com/ru/companies/basealtspo/news/868002/?utm_campaign=868002&utm_source=habrahabr&utm_medium=rss)
 - [YouTube сообщает, что вскоре его технология сможет находить АИ-копии знаменитостей и авторов](https://habr.com/ru/companies/bothub/news/867974/?utm_campaign=867974&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: по итогам 2024 года отечественный рынок информационной безопасности вырастет на 30%](https://habr.com/ru/news/867994/?utm_campaign=867994&utm_source=habrahabr&utm_medium=rss)
 - [SandboxAQ создает новое поколение AI для бизнеса](https://habr.com/ru/companies/bothub/news/867982/?utm_campaign=867982&utm_source=habrahabr&utm_medium=rss)
-- [MSI откроет первый завод по производству ноутбуков в Индии](https://habr.com/ru/news/867954/?utm_campaign=867954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
