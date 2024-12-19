@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI: в США теперь можно общаться с ChatGPT по стационарному телефону и через WhatsApp](https://habr.com/ru/news/867868/?utm_campaign=867868&utm_source=habrahabr&utm_medium=rss)
+- [В Сети появились фишинговые сайты с «разблокировкой Viber»](https://habr.com/ru/news/867860/?utm_campaign=867860&utm_source=habrahabr&utm_medium=rss)
 - [ГРЧЦ закупает ПО для создания ложных сервисов, ханипотов, фейковых баз данных и серверов-ловушек для хакеров](https://habr.com/ru/news/867848/?utm_campaign=867848&utm_source=habrahabr&utm_medium=rss)
 - [Представлен BoN &lpar;Best-of-N&rpar; — открытый метод обхода фильтров больших языковых моделей](https://habr.com/ru/news/867828/?utm_campaign=867828&utm_source=habrahabr&utm_medium=rss)
 - [РКН: проект приказа о выявлении интернет-трафика не подразумевает сбор данных о личных устройствах пользователей](https://habr.com/ru/news/867824/?utm_campaign=867824&utm_source=habrahabr&utm_medium=rss)
-- [В GitHub Copilot для VS Code теперь доступен бесплатный тариф](https://habr.com/ru/news/867818/?utm_campaign=867818&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пока не знает как использовать клавишу Copilot в Windows 11](https://habr.com/ru/news/867812/?utm_campaign=867812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
