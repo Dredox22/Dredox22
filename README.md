@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты F.A.C.C.T. обеспечат дополнительные меры контроля проведения розыгрыша «Новогоднего миллиарда»](https://habr.com/ru/companies/f_a_c_c_t/news/867878/?utm_campaign=867878&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: в США теперь можно общаться с ChatGPT по стационарному телефону и через WhatsApp](https://habr.com/ru/news/867868/?utm_campaign=867868&utm_source=habrahabr&utm_medium=rss)
 - [В Сети появились фишинговые сайты с «разблокировкой Viber»](https://habr.com/ru/news/867860/?utm_campaign=867860&utm_source=habrahabr&utm_medium=rss)
 - [ГРЧЦ закупает ПО для создания ложных сервисов, ханипотов, фейковых баз данных и серверов-ловушек для хакеров](https://habr.com/ru/news/867848/?utm_campaign=867848&utm_source=habrahabr&utm_medium=rss)
 - [Представлен BoN &lpar;Best-of-N&rpar; — открытый метод обхода фильтров больших языковых моделей](https://habr.com/ru/news/867828/?utm_campaign=867828&utm_source=habrahabr&utm_medium=rss)
-- [РКН: проект приказа о выявлении интернет-трафика не подразумевает сбор данных о личных устройствах пользователей](https://habr.com/ru/news/867824/?utm_campaign=867824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
