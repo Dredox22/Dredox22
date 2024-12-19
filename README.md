@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [19 мировых лабораторий совместно выпустили в опенсорс Genesis – самый быстрый в мире ИИ-движок для симуляции физики в 4D](https://habr.com/ru/news/868130/?utm_campaign=868130&utm_source=habrahabr&utm_medium=rss)
+- [AI в 2025: Роботы Tesla, новые горизонты и вызовы](https://habr.com/ru/companies/bothub/news/868128/?utm_campaign=868128&utm_source=habrahabr&utm_medium=rss)
 - [В VK Рекламе улучшилось продвижение мобильных приложений](https://habr.com/ru/companies/vk/news/868122/?utm_campaign=868122&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity покупает стартап Carbon, который специализируется на технологии RAG](https://habr.com/ru/news/868096/?utm_campaign=868096&utm_source=habrahabr&utm_medium=rss)
 - [Al генератор Google Whisk «переделает» загруженные изображения](https://habr.com/ru/companies/bothub/news/868064/?utm_campaign=868064&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» провёл «Ночь опенсорс-библиотек» — мероприятие для тех, кто интересуется открытым кодом](https://habr.com/ru/news/868070/?utm_campaign=868070&utm_source=habrahabr&utm_medium=rss)
-- [Gemini вынуждает подрядчиков оценивать ответы АИ, выходящие за рамки их компетенции](https://habr.com/ru/companies/bothub/news/868034/?utm_campaign=868034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
