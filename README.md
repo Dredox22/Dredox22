@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В GitHub Copilot для VS Code теперь доступен бесплатный тариф](https://habr.com/ru/news/867818/?utm_campaign=867818&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пока не знает как использовать клавишу Copilot в Windows 11](https://habr.com/ru/news/867812/?utm_campaign=867812&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Браузер» предложил пользователям узнать их персональные итоги года](https://habr.com/ru/news/867792/?utm_campaign=867792&utm_source=habrahabr&utm_medium=rss)
 - [Apple предоставила возможность оплачивать покупки в эмуляторе Delta для iOS в обход App Store](https://habr.com/ru/news/867790/?utm_campaign=867790&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустила открытый набор голосовых данных Common Voice 20](https://habr.com/ru/news/867774/?utm_campaign=867774&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила MarkItDown — открытый инструмент на Python для преобразования файлов и офисных документов в Markdown](https://habr.com/ru/news/867770/?utm_campaign=867770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
