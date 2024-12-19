@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft подтвердила удаление паролей у 1 млрд пользователей в рамках внедрения Passkeys](https://habr.com/ru/news/867908/?utm_campaign=867908&utm_source=habrahabr&utm_medium=rss)
-- [Обсудили IT-инфраструктуру для игровой разработки на GameDev Meetup](https://habr.com/ru/companies/selectel/news/867886/?utm_campaign=867886&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на митап Мир Plat.Form](https://habr.com/ru/companies/nspk/news/867016/?utm_campaign=867016&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты F.A.C.C.T. обеспечат дополнительные меры контроля проведения розыгрыша «Новогоднего миллиарда»](https://habr.com/ru/companies/f_a_c_c_t/news/867878/?utm_campaign=867878&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI: в США теперь можно общаться с ChatGPT по стационарному телефону и через WhatsApp](https://habr.com/ru/news/867868/?utm_campaign=867868&utm_source=habrahabr&utm_medium=rss)
+- [MSI откроет первый завод по производству ноутбуков в Индии](https://habr.com/ru/news/867954/?utm_campaign=867954&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD BIM Вентиляция 24.1 – новая версия на Платформе nanoCAD 24.1](https://habr.com/ru/companies/nanosoft/news/867766/?utm_campaign=867766&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: ИИ не хочет менять свои взгляды при обучении](https://habr.com/ru/news/867944/?utm_campaign=867944&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» объявил имена лауреатов своей Научной премии за 2024 год с призовым фондом в 76,5 млн рублей](https://habr.com/ru/news/867948/?utm_campaign=867948&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры используют Google Calendar для обхода спам-фильтров](https://habr.com/ru/news/867920/?utm_campaign=867920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
