@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские ученые запатентовали в США ИИ-метод КТ-диагностики, который снижает радиационную нагрузку на пациентов](https://habr.com/ru/companies/smartengines/news/868326/?utm_campaign=868326&utm_source=habrahabr&utm_medium=rss)
+- [Вредоносный троянец Mamont распространяется через фальшивые магазины и приложения‑трекеры](https://habr.com/ru/news/868318/?utm_campaign=868318&utm_source=habrahabr&utm_medium=rss)
 - [SanDisk объявила о ребрендинге и представила новый логотип](https://habr.com/ru/news/868256/?utm_campaign=868256&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome тестирует опцию на базе ИИ для обнаружения мошенничества](https://habr.com/ru/news/868248/?utm_campaign=868248&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого видеоредактора Flowblade 2.18](https://habr.com/ru/news/868250/?utm_campaign=868250&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Microsoft 365 столкнулись со случайными ошибками деактивации продукта](https://habr.com/ru/news/868234/?utm_campaign=868234&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Google Street View помог полиции раскрыть дело о пропаже человека](https://habr.com/ru/news/868228/?utm_campaign=868228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
