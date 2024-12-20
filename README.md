@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сервис Google Street View помог полиции раскрыть дело о пропаже человека](https://habr.com/ru/news/868228/?utm_campaign=868228&utm_source=habrahabr&utm_medium=rss)
 - [Проект Overture Maps представил открытую картографическую базу данных Transportation с 86 млн километров дорог мира](https://habr.com/ru/news/868206/?utm_campaign=868206&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи из РФ массово жалуются на проблемы с YouTube — сайт\приложение загружается, но видео не запускается](https://habr.com/ru/news/868190/?utm_campaign=868190&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: на GitHub есть около 4,5 млн фейковых оценок, которые путают разработчиков](https://habr.com/ru/news/868182/?utm_campaign=868182&utm_source=habrahabr&utm_medium=rss)
 - [Релиз игрового движка Unigine 2.19.1](https://habr.com/ru/news/868166/?utm_campaign=868166&utm_source=habrahabr&utm_medium=rss)
-- [19 мировых лабораторий совместно выпустили в опенсорс Genesis – самый быстрый в мире ИИ-движок для симуляции физики в 4D](https://habr.com/ru/news/868130/?utm_campaign=868130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
