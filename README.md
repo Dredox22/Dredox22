@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Создатель PUBG Брендан Грин возвращается с амбициозными проектами: Prologue, Preface и Project Artemis](https://habr.com/ru/companies/bothub/news/868510/?utm_campaign=868510&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp, Skype, Wire, Element, KakaoTalk, DUST, Keybase, Trillian, Status и Crypviser внесены в реестр ОРИ РКН](https://habr.com/ru/news/868502/?utm_campaign=868502&utm_source=habrahabr&utm_medium=rss)
 - [Pinokio 3.0: Революционные обновления для управления моделями AI](https://habr.com/ru/companies/bothub/news/868490/?utm_campaign=868490&utm_source=habrahabr&utm_medium=rss)
 - [В Google Search скоро появится специальный «режим AI»](https://habr.com/ru/companies/bothub/news/868488/?utm_campaign=868488&utm_source=habrahabr&utm_medium=rss)
 - [Новая методика оптимизации LLM сокращает затраты памяти до 75%](https://habr.com/ru/companies/cloud4y/news/868462/?utm_campaign=868462&utm_source=habrahabr&utm_medium=rss)
-- [Кинорежиссёр попытался заставить ChatGPT написать сценарий, но чат-бот постоянно срывал сроки и искал отговорки](https://habr.com/ru/news/868460/?utm_campaign=868460&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Kali Linux 2024.4](https://habr.com/ru/news/868458/?utm_campaign=868458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
