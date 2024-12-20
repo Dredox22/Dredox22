@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая методика оптимизации LLM сокращает затраты памяти до 75%](https://habr.com/ru/companies/cloud4y/news/868462/?utm_campaign=868462&utm_source=habrahabr&utm_medium=rss)
+- [Кинорежиссёр попытался заставить ChatGPT написать сценарий, но чат-бот постоянно срывал сроки и искал отговорки](https://habr.com/ru/news/868460/?utm_campaign=868460&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Kali Linux 2024.4](https://habr.com/ru/news/868458/?utm_campaign=868458&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор зафиксировал утечку более 680 млн записей о россиянах](https://habr.com/ru/news/868426/?utm_campaign=868426&utm_source=habrahabr&utm_medium=rss)
 - [ЕС Одобряет Поглощение Run:ai компанией Nvidia](https://habr.com/ru/news/868422/?utm_campaign=868422&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries и «Сбер» запустили систему защиты клиентов маркетплейса от мошенников](https://habr.com/ru/news/868386/?utm_campaign=868386&utm_source=habrahabr&utm_medium=rss)
-- [Опция Recall в Windows 11 делает скриншоты номеров банковских карт](https://habr.com/ru/news/868340/?utm_campaign=868340&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT теперь может взаимодействовать со сторонними приложениями в macOS](https://habr.com/ru/news/868338/?utm_campaign=868338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
