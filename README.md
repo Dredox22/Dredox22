@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз веб-сервера Angie и Angie Pro 1.8.0](https://habr.com/ru/news/868536/?utm_campaign=868536&utm_source=habrahabr&utm_medium=rss)
+- [Tencent выпустила ColorFlow — нейросеть для автоматического раскрашивания манги](https://habr.com/ru/news/868534/?utm_campaign=868534&utm_source=habrahabr&utm_medium=rss)
 - [Подводим итоги 12 дней адвент-календаря OpenAI: полный список релизов](https://habr.com/ru/news/868522/?utm_campaign=868522&utm_source=habrahabr&utm_medium=rss)
 - [Создатель PUBG Брендан Грин возвращается с амбициозными проектами: Prologue, Preface и Project Artemis](https://habr.com/ru/companies/bothub/news/868510/?utm_campaign=868510&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp, Skype, Wire, Element, KakaoTalk, DUST, Keybase, Trillian, Status и Crypviser внесены в реестр ОРИ РКН](https://habr.com/ru/news/868502/?utm_campaign=868502&utm_source=habrahabr&utm_medium=rss)
-- [Pinokio 3.0: Революционные обновления для управления моделями AI](https://habr.com/ru/companies/bothub/news/868490/?utm_campaign=868490&utm_source=habrahabr&utm_medium=rss)
-- [В Google Search скоро появится специальный «режим AI»](https://habr.com/ru/companies/bothub/news/868488/?utm_campaign=868488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
