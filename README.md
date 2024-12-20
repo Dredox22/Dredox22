@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Wildberries и «Сбер» запустили систему защиты клиентов маркетплейса от мошенников](https://habr.com/ru/news/868386/?utm_campaign=868386&utm_source=habrahabr&utm_medium=rss)
 - [Опция Recall в Windows 11 делает скриншоты номеров банковских карт](https://habr.com/ru/news/868340/?utm_campaign=868340&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь может взаимодействовать со сторонними приложениями в macOS](https://habr.com/ru/news/868338/?utm_campaign=868338&utm_source=habrahabr&utm_medium=rss)
 - [Российские ученые запатентовали в США ИИ-метод КТ-диагностики, который снижает радиационную нагрузку на пациентов](https://habr.com/ru/companies/smartengines/news/868326/?utm_campaign=868326&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносный троянец Mamont распространяется через фальшивые магазины и приложения‑трекеры](https://habr.com/ru/news/868318/?utm_campaign=868318&utm_source=habrahabr&utm_medium=rss)
-- [SanDisk объявила о ребрендинге и представила новый логотип](https://habr.com/ru/news/868256/?utm_campaign=868256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
