@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Подводим итоги 12 дней адвент-календаря OpenAI: полный список релизов](https://habr.com/ru/news/868522/?utm_campaign=868522&utm_source=habrahabr&utm_medium=rss)
 - [Создатель PUBG Брендан Грин возвращается с амбициозными проектами: Prologue, Preface и Project Artemis](https://habr.com/ru/companies/bothub/news/868510/?utm_campaign=868510&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp, Skype, Wire, Element, KakaoTalk, DUST, Keybase, Trillian, Status и Crypviser внесены в реестр ОРИ РКН](https://habr.com/ru/news/868502/?utm_campaign=868502&utm_source=habrahabr&utm_medium=rss)
 - [Pinokio 3.0: Революционные обновления для управления моделями AI](https://habr.com/ru/companies/bothub/news/868490/?utm_campaign=868490&utm_source=habrahabr&utm_medium=rss)
 - [В Google Search скоро появится специальный «режим AI»](https://habr.com/ru/companies/bothub/news/868488/?utm_campaign=868488&utm_source=habrahabr&utm_medium=rss)
-- [Новая методика оптимизации LLM сокращает затраты памяти до 75%](https://habr.com/ru/companies/cloud4y/news/868462/?utm_campaign=868462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
