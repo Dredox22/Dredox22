@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta* планирует несколько выпусков Llama 4 в 2025 году](https://habr.com/ru/companies/bothub/news/868652/?utm_campaign=868652&utm_source=habrahabr&utm_medium=rss)
+- [Meta* планирует выпустить несколько версий Llama 4 в 2025 году](https://habr.com/ru/companies/bothub/news/868652/?utm_campaign=868652&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs представила Flash, свой самый быстрый AI для преобразования текста в речь](https://habr.com/ru/companies/bothub/news/868638/?utm_campaign=868638&utm_source=habrahabr&utm_medium=rss)
 - [Google предлагает компромисс в антимонопольном споре о поисковой системе](https://habr.com/ru/companies/bothub/news/868610/?utm_campaign=868610&utm_source=habrahabr&utm_medium=rss)
 - [Google расширяет режим углублённого исследования Gemini до 40 языков](https://habr.com/ru/companies/bothub/news/868592/?utm_campaign=868592&utm_source=habrahabr&utm_medium=rss)
