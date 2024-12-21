@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд в США признал NSO Group виновной во взломе WhatsApp](https://habr.com/ru/news/868572/?utm_campaign=868572&utm_source=habrahabr&utm_medium=rss)
+- [Сможет ли AI совершать покупки за человека к следующему новому году?](https://habr.com/ru/companies/bothub/news/868570/?utm_campaign=868570&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект raycaster in bash](https://habr.com/ru/news/868568/?utm_campaign=868568&utm_source=habrahabr&utm_medium=rss)
+- [Исследование Hugging Face: Как малые языковые модели превосходят гигантов благодаря масштабированию](https://habr.com/ru/companies/bothub/news/868564/?utm_campaign=868564&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI анонсировала передовые модели o3 и o3-mini](https://habr.com/ru/companies/bothub/news/868558/?utm_campaign=868558&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft поделилась годовой статистикой работы браузера Edge, включая 7 трлн МБайт сэкономленной оперативной памяти](https://habr.com/ru/news/868552/?utm_campaign=868552&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила чат-бота Radar the Elf на базе ИИ в трекер для отслеживания Санта-Клауса NORAD](https://habr.com/ru/news/868548/?utm_campaign=868548&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз веб-сервера Angie и Angie Pro 1.8.0](https://habr.com/ru/news/868536/?utm_campaign=868536&utm_source=habrahabr&utm_medium=rss)
-- [Tencent выпустила ColorFlow — нейросеть для автоматического раскрашивания манги](https://habr.com/ru/news/868534/?utm_campaign=868534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
