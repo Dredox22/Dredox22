@@ -68,10 +68,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google расширяет режим углублённого исследования Gemini до 40 языков](https://habr.com/ru/companies/bothub/news/868592/?utm_campaign=868592&utm_source=habrahabr&utm_medium=rss)
 - [Intel прекратит поддержку 64-битной архитектуры x86S](https://habr.com/ru/news/868580/?utm_campaign=868580&utm_source=habrahabr&utm_medium=rss)
 - [В Китае разработали квантовый чип Zuchongzhi 3.0 уровня Willow от Google](https://habr.com/ru/news/868576/?utm_campaign=868576&utm_source=habrahabr&utm_medium=rss)
 - [Суд в США признал NSO Group виновной во взломе WhatsApp](https://habr.com/ru/news/868572/?utm_campaign=868572&utm_source=habrahabr&utm_medium=rss)
-- [Сможет ли AI совершать покупки за человека к следующему новому году?](https://habr.com/ru/companies/bothub/news/868570/?utm_campaign=868570&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект raycaster in bash](https://habr.com/ru/news/868568/?utm_campaign=868568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
