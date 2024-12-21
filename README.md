@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel прекратит поддержку 64-битной архитектуры x86S](https://habr.com/ru/news/868580/?utm_campaign=868580&utm_source=habrahabr&utm_medium=rss)
+- [В Китае разработали квантовый чип Zuchongzhi 3.0 уровня Willow от Google](https://habr.com/ru/news/868576/?utm_campaign=868576&utm_source=habrahabr&utm_medium=rss)
 - [Суд в США признал NSO Group виновной во взломе WhatsApp](https://habr.com/ru/news/868572/?utm_campaign=868572&utm_source=habrahabr&utm_medium=rss)
 - [Сможет ли AI совершать покупки за человека к следующему новому году?](https://habr.com/ru/companies/bothub/news/868570/?utm_campaign=868570&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект raycaster in bash](https://habr.com/ru/news/868568/?utm_campaign=868568&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Hugging Face: Как малые языковые модели превосходят гигантов благодаря масштабированию](https://habr.com/ru/companies/bothub/news/868564/?utm_campaign=868564&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI анонсировала передовые модели o3 и o3-mini](https://habr.com/ru/companies/bothub/news/868558/?utm_campaign=868558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
