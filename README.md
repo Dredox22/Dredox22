@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Darktable 5.0 — открытого графического редактора для обработки фотографий в формате RAW](https://habr.com/ru/news/868684/?utm_campaign=868684&utm_source=habrahabr&utm_medium=rss)
 - [Команда разработчиков расширения «ЮБуст» сообщила о его «полной краже» и необходимости забанить проект в Google](https://habr.com/ru/news/868682/?utm_campaign=868682&utm_source=habrahabr&utm_medium=rss)
 - [Meta* планирует выпустить несколько версий Llama 4 в 2025 году](https://habr.com/ru/companies/bothub/news/868652/?utm_campaign=868652&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs представила Flash, свой самый быстрый AI для преобразования текста в речь](https://habr.com/ru/companies/bothub/news/868638/?utm_campaign=868638&utm_source=habrahabr&utm_medium=rss)
 - [Google предлагает компромисс в антимонопольном споре о поисковой системе](https://habr.com/ru/companies/bothub/news/868610/?utm_campaign=868610&utm_source=habrahabr&utm_medium=rss)
-- [Google расширяет режим углублённого исследования Gemini до 40 языков](https://habr.com/ru/companies/bothub/news/868592/?utm_campaign=868592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
