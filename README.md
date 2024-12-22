@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Маленькая модель, большой эффект: Glider от Patronus AI превосходит GPT-4 в ключевых задачах оценки AI](https://habr.com/ru/companies/bothub/news/868774/?utm_campaign=868774&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI внедряет улучшенную память для ChatGPT, позволяя ему ссылаться на предыдущие чаты](https://habr.com/ru/companies/bothub/news/868746/?utm_campaign=868746&utm_source=habrahabr&utm_medium=rss)
 - [Answer.AI и LightOn представляют ModernBERT: Новая веха в NLP](https://habr.com/ru/companies/bothub/news/868724/?utm_campaign=868724&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5: Стратегии OpenAI не оправдывают ожиданий?](https://habr.com/ru/companies/bothub/news/868706/?utm_campaign=868706&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Anthropic показало, что AI-модели могут имитировать поведение, соответствующее человеческим нормам](https://habr.com/ru/companies/bothub/news/868704/?utm_campaign=868704&utm_source=habrahabr&utm_medium=rss)
-- [В США пользователь потерял $500 тысяч из-за звонка «сотрудника» Google](https://habr.com/ru/news/868702/?utm_campaign=868702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
