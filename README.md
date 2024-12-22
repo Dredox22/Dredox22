@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5: Стратегии OpenAI не оправдывают ожиданий?](https://habr.com/ru/companies/bothub/news/868706/?utm_campaign=868706&utm_source=habrahabr&utm_medium=rss)
+- [Исследование Anthropic показало, что AI-модели могут имитировать поведение, соответствующее человеческим нормам](https://habr.com/ru/companies/bothub/news/868704/?utm_campaign=868704&utm_source=habrahabr&utm_medium=rss)
+- [В США пользователь потерял $500 тысяч из-за звонка «сотрудника» Google](https://habr.com/ru/news/868702/?utm_campaign=868702&utm_source=habrahabr&utm_medium=rss)
 - [Gemini теперь может определить, когда PDF-файл находится на экране вашего телефона](https://habr.com/ru/companies/bothub/news/868696/?utm_campaign=868696&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила проблемы со звуком и играми в Windows 11 24H2](https://habr.com/ru/news/868688/?utm_campaign=868688&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Darktable 5.0 — открытого графического редактора для обработки фотографий в формате RAW](https://habr.com/ru/news/868684/?utm_campaign=868684&utm_source=habrahabr&utm_medium=rss)
-- [Команда разработчиков расширения «ЮБуст» сообщила о его «полной краже» и необходимости забанить проект в Google](https://habr.com/ru/news/868682/?utm_campaign=868682&utm_source=habrahabr&utm_medium=rss)
-- [Meta* планирует выпустить несколько версий Llama 4 в 2025 году](https://habr.com/ru/companies/bothub/news/868652/?utm_campaign=868652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
