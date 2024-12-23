@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инновационная функция от Clarifai: универсальное управление AI в любой среде](https://habr.com/ru/companies/bothub/news/868812/?utm_campaign=868812&utm_source=habrahabr&utm_medium=rss)
+- [Релиз планетария с открытым кодом Stellarium 24.4](https://habr.com/ru/news/868810/?utm_campaign=868810&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обучила модели o1 и o3 «следовать» политике безопасности компании](https://habr.com/ru/companies/bothub/news/868808/?utm_campaign=868808&utm_source=habrahabr&utm_medium=rss)
 - [Большой ежегодный опрос по PHP](https://habr.com/ru/news/868728/?utm_campaign=868728&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи iPhone жалуются на перегрев и быстрый разряд батареи после обновления приложения Telegram до версии 11.5.2](https://habr.com/ru/news/868802/?utm_campaign=868802&utm_source=habrahabr&utm_medium=rss)
-- [Маленькая модель, большой эффект: Glider от Patronus AI превосходит GPT-4 в ключевых задачах оценки AI](https://habr.com/ru/companies/bothub/news/868774/?utm_campaign=868774&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI внедряет улучшенную память для ChatGPT, позволяя ему ссылаться на предыдущие чаты](https://habr.com/ru/companies/bothub/news/868746/?utm_campaign=868746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
