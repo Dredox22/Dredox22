@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google: резкое падение трафика YouTube в РФ не связано с техническими сбоями или действиями американской компании](https://habr.com/ru/news/869108/?utm_campaign=869108&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/869106/?utm_campaign=869106&utm_source=habrahabr&utm_medium=rss)
+- [Как Claude от Anthropic меняет правила игры для разработчиков программного обеспечения](https://habr.com/ru/companies/bothub/news/869104/?utm_campaign=869104&utm_source=habrahabr&utm_medium=rss)
 - [В России провели операцию по имплантации нейростимулятора блуждающего нерва нового поколения пациенту с эпилепсией](https://habr.com/ru/news/869074/?utm_campaign=869074&utm_source=habrahabr&utm_medium=rss)
 - [Проблемы с программным обеспечением у AMD оставляют Nvidia без конкурентов на рынке чипов для AI](https://habr.com/ru/companies/bothub/news/869058/?utm_campaign=869058&utm_source=habrahabr&utm_medium=rss)
-- [Утилита Raspberry Pi Connect стала доступна для организаций](https://habr.com/ru/news/869052/?utm_campaign=869052&utm_source=habrahabr&utm_medium=rss)
-- [Apple ведёт переговоры с Tencent и ByteDance о внедрении функций искусственного интеллекта в Китае](https://habr.com/ru/companies/bothub/news/869050/?utm_campaign=869050&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного видеоредактора OpenShot 3.3.0](https://habr.com/ru/news/869048/?utm_campaign=869048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
