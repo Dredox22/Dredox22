@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Modus BI 3.7: новые возможности дизайна отчетов, форматирование таблиц и оптимизация форм ввода данных](https://habr.com/ru/companies/modusbi/news/869036/?utm_campaign=869036&utm_source=habrahabr&utm_medium=rss)
+- [AI-стартап Basis привлек 34 миллиона долларов на автоматизацию бухгалтерского учёта](https://habr.com/ru/companies/bothub/news/869030/?utm_campaign=869030&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила исправление проблемы с деактивацией приложений Microsoft 365](https://habr.com/ru/news/869028/?utm_campaign=869028&utm_source=habrahabr&utm_medium=rss)
+- [AI нового поколения нуждается в эмоциях, чтобы ставить цели и осознавать последствия](https://habr.com/ru/companies/bothub/news/869012/?utm_campaign=869012&utm_source=habrahabr&utm_medium=rss)
 - [Вице-президент МТС: к 2027 году компания планирует полностью отказаться от 3G](https://habr.com/ru/news/869008/?utm_campaign=869008&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: Telegram впервые за три года монетизации стал прибыльным, выручка платформы в этом году превысила $1 млрд](https://habr.com/ru/news/869000/?utm_campaign=869000&utm_source=habrahabr&utm_medium=rss)
-- [xAI запускает тестирование автономного приложения для iOS с чат-ботом Grok](https://habr.com/ru/companies/bothub/news/868986/?utm_campaign=868986&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft всё ещё пытается заставить новый Outlook работать в автономном режиме на Windows 11](https://habr.com/ru/news/868976/?utm_campaign=868976&utm_source=habrahabr&utm_medium=rss)
-- [«МЦСТ» раскрыла исходный код binutils-2.39 с поддержкой платформы «Эльбрус»](https://habr.com/ru/news/868948/?utm_campaign=868948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
