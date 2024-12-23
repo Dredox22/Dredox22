@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«МЦСТ» раскрыла исходный код binutils-2.39 с поддержкой платформы «Эльбрус»](https://habr.com/ru/news/868948/?utm_campaign=868948&utm_source=habrahabr&utm_medium=rss)
+- [xAI тестирует автономное iOS-приложение для своего чат-бота Grok](https://habr.com/ru/news/868916/?utm_campaign=868916&utm_source=habrahabr&utm_medium=rss)
 - [В КНИТУ-КАИ рассказали о разработке устройства для высокоскоростной связи в сетях 5G и 6G](https://habr.com/ru/news/868922/?utm_campaign=868922&utm_source=habrahabr&utm_medium=rss)
 - [WordPress добавил при входе в аккаунт вопрос о пицце с ананасом](https://habr.com/ru/news/868908/?utm_campaign=868908&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА в топ-3 интеграторов и аутсорсеров поддержки решений 1С](https://habr.com/ru/companies/sigma/news/868906/?utm_campaign=868906&utm_source=habrahabr&utm_medium=rss)
-- [Трафик YouTube в РФ упал до 20% от нормального состояния](https://habr.com/ru/news/868896/?utm_campaign=868896&utm_source=habrahabr&utm_medium=rss)
-- [Криминалисты F.A.C.C.T. проанализировали атаки новой группы вымогателей Masque](https://habr.com/ru/companies/f_a_c_c_t/news/868858/?utm_campaign=868858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
