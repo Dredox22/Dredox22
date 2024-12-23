@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI обучила модели o1 и o3 «следовать» политике безопасности компании](https://habr.com/ru/companies/bothub/news/868808/?utm_campaign=868808&utm_source=habrahabr&utm_medium=rss)
+- [Большой ежегодный опрос по PHP](https://habr.com/ru/news/868728/?utm_campaign=868728&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи iPhone жалуются на перегрев и быстрый разряд батареи после обновления приложения Telegram до версии 11.5.2](https://habr.com/ru/news/868802/?utm_campaign=868802&utm_source=habrahabr&utm_medium=rss)
 - [Маленькая модель, большой эффект: Glider от Patronus AI превосходит GPT-4 в ключевых задачах оценки AI](https://habr.com/ru/companies/bothub/news/868774/?utm_campaign=868774&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI внедряет улучшенную память для ChatGPT, позволяя ему ссылаться на предыдущие чаты](https://habr.com/ru/companies/bothub/news/868746/?utm_campaign=868746&utm_source=habrahabr&utm_medium=rss)
-- [Answer.AI и LightOn представляют ModernBERT: Новая веха в NLP](https://habr.com/ru/companies/bothub/news/868724/?utm_campaign=868724&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5: Стратегии OpenAI не оправдывают ожиданий?](https://habr.com/ru/companies/bothub/news/868706/?utm_campaign=868706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
