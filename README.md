@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания «Нанософт» представила российские BIM/ТИМ/СОД-решения для проектирования на IX Международном BIM-форуме](https://habr.com/ru/companies/nanosoft/news/868492/?utm_campaign=868492&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft удалила календарь «Мой день» из приложения Microsoft 365](https://habr.com/ru/news/868838/?utm_campaign=868838&utm_source=habrahabr&utm_medium=rss)
 - [Tetsuwan Scientific создает роботов-ученых с AI, которые могут самостоятельно проводить эксперименты](https://habr.com/ru/companies/bothub/news/868840/?utm_campaign=868840&utm_source=habrahabr&utm_medium=rss)
 - [Asus начала показывать на ПК с Windows 11 рождественский баннер christmas.exe, похожий на вредоносное ПО](https://habr.com/ru/news/868834/?utm_campaign=868834&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обучила модели o1 и o3 «размышлять» о своей политике безопасности](https://habr.com/ru/companies/bothub/news/868832/?utm_campaign=868832&utm_source=habrahabr&utm_medium=rss)
-- [AMD не указала поддержку Windows 10 на на ПК с Ryzen 3 7320U Mendocino](https://habr.com/ru/news/868830/?utm_campaign=868830&utm_source=habrahabr&utm_medium=rss)
-- [В миллиард раз быстрее: лазерные нейроны «зажигают» будущее искусственного интеллекта](https://habr.com/ru/companies/bothub/news/868816/?utm_campaign=868816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
