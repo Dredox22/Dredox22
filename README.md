@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Modus BI 3.7: новые возможности дизайна отчетов, форматирование таблиц и оптимизация форм ввода данных](https://habr.com/ru/companies/modusbi/news/869036/?utm_campaign=869036&utm_source=habrahabr&utm_medium=rss)
-- [AI-стартап Basis привлек 34 миллиона долларов на автоматизацию бухгалтерского учёта](https://habr.com/ru/companies/bothub/news/869030/?utm_campaign=869030&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила исправление проблемы с деактивацией приложений Microsoft 365](https://habr.com/ru/news/869028/?utm_campaign=869028&utm_source=habrahabr&utm_medium=rss)
-- [AI нового поколения нуждается в эмоциях, чтобы ставить цели и осознавать последствия](https://habr.com/ru/companies/bothub/news/869012/?utm_campaign=869012&utm_source=habrahabr&utm_medium=rss)
-- [Вице-президент МТС: к 2027 году компания планирует полностью отказаться от 3G](https://habr.com/ru/news/869008/?utm_campaign=869008&utm_source=habrahabr&utm_medium=rss)
+- [В России операцию по имплантации нейростимулятора блуждающего нерва нового поколения пациенту с эпилепсией](https://habr.com/ru/news/869074/?utm_campaign=869074&utm_source=habrahabr&utm_medium=rss)
+- [Проблемы с программным обеспечением у AMD оставляют Nvidia без конкурентов на рынке чипов для AI](https://habr.com/ru/companies/bothub/news/869058/?utm_campaign=869058&utm_source=habrahabr&utm_medium=rss)
+- [Утилита Raspberry Pi Connect стала доступна для организаций](https://habr.com/ru/news/869052/?utm_campaign=869052&utm_source=habrahabr&utm_medium=rss)
+- [Apple ведёт переговоры с Tencent и ByteDance о внедрении функций искусственного интеллекта в Китае](https://habr.com/ru/companies/bothub/news/869050/?utm_campaign=869050&utm_source=habrahabr&utm_medium=rss)
+- [Релиз кроссплатформенного видеоредактора OpenShot 3.3.0](https://habr.com/ru/news/869048/?utm_campaign=869048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
