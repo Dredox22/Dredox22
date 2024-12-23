@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вице-президент МТС: к 2027 году компания планирует полностью отказаться от 3G](https://habr.com/ru/news/869008/?utm_campaign=869008&utm_source=habrahabr&utm_medium=rss)
+- [Дуров: Telegram впервые за три года монетизации стал прибыльным, выручка платформы в этом году превысила $1 млрд](https://habr.com/ru/news/869000/?utm_campaign=869000&utm_source=habrahabr&utm_medium=rss)
+- [xAI запускает тестирование автономного приложения для iOS с чат-ботом Grok](https://habr.com/ru/companies/bothub/news/868986/?utm_campaign=868986&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft всё ещё пытается заставить новый Outlook работать в автономном режиме на Windows 11](https://habr.com/ru/news/868976/?utm_campaign=868976&utm_source=habrahabr&utm_medium=rss)
 - [«МЦСТ» раскрыла исходный код binutils-2.39 с поддержкой платформы «Эльбрус»](https://habr.com/ru/news/868948/?utm_campaign=868948&utm_source=habrahabr&utm_medium=rss)
-- [xAI тестирует автономное iOS-приложение для своего чат-бота Grok](https://habr.com/ru/news/868916/?utm_campaign=868916&utm_source=habrahabr&utm_medium=rss)
-- [В КНИТУ-КАИ рассказали о разработке устройства для высокоскоростной связи в сетях 5G и 6G](https://habr.com/ru/news/868922/?utm_campaign=868922&utm_source=habrahabr&utm_medium=rss)
-- [WordPress добавил при входе в аккаунт вопрос о пицце с ананасом](https://habr.com/ru/news/868908/?utm_campaign=868908&utm_source=habrahabr&utm_medium=rss)
-- [СИГМА в топ-3 интеграторов и аутсорсеров поддержки решений 1С](https://habr.com/ru/companies/sigma/news/868906/?utm_campaign=868906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
