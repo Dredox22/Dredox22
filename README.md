@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tetsuwan Scientific создает роботов-ученых с AI, которые могут самостоятельно проводить эксперименты](https://habr.com/ru/companies/bothub/news/868840/?utm_campaign=868840&utm_source=habrahabr&utm_medium=rss)
+- [Asus начала показывать на ПК с Windows 11 рождественский баннер christmas.exe, похожий на вредоносное ПО](https://habr.com/ru/news/868834/?utm_campaign=868834&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI обучила модели o1 и o3 «размышлять» о своей политике безопасности](https://habr.com/ru/companies/bothub/news/868832/?utm_campaign=868832&utm_source=habrahabr&utm_medium=rss)
+- [AMD не указала поддержку Windows 10 на на ПК с Ryzen 3 7320U Mendocino](https://habr.com/ru/news/868830/?utm_campaign=868830&utm_source=habrahabr&utm_medium=rss)
 - [В миллиард раз быстрее: лазерные нейроны «зажигают» будущее искусственного интеллекта](https://habr.com/ru/companies/bothub/news/868816/?utm_campaign=868816&utm_source=habrahabr&utm_medium=rss)
-- [Инновационная функция от Clarifai: универсальное управление AI в любой среде](https://habr.com/ru/companies/bothub/news/868812/?utm_campaign=868812&utm_source=habrahabr&utm_medium=rss)
-- [Релиз планетария с открытым кодом Stellarium 24.4](https://habr.com/ru/news/868810/?utm_campaign=868810&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI обучила модели o1 и o3 «следовать» политике безопасности компании](https://habr.com/ru/companies/bothub/news/868808/?utm_campaign=868808&utm_source=habrahabr&utm_medium=rss)
-- [Большой ежегодный опрос по PHP](https://habr.com/ru/news/868728/?utm_campaign=868728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
