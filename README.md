@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В КНИТУ-КАИ рассказали о разработке устройства для высокоскоростной связи в сетях 5G и 6G](https://habr.com/ru/news/868922/?utm_campaign=868922&utm_source=habrahabr&utm_medium=rss)
+- [WordPress добавил при входе в аккаунт вопрос о пицце с ананасом](https://habr.com/ru/news/868908/?utm_campaign=868908&utm_source=habrahabr&utm_medium=rss)
+- [СИГМА в топ-3 интеграторов и аутсорсеров поддержки решений 1С](https://habr.com/ru/companies/sigma/news/868906/?utm_campaign=868906&utm_source=habrahabr&utm_medium=rss)
+- [Трафик YouTube в РФ упал до 20% от нормального состояния](https://habr.com/ru/news/868896/?utm_campaign=868896&utm_source=habrahabr&utm_medium=rss)
 - [Криминалисты F.A.C.C.T. проанализировали атаки новой группы вымогателей Masque](https://habr.com/ru/companies/f_a_c_c_t/news/868858/?utm_campaign=868858&utm_source=habrahabr&utm_medium=rss)
-- [Проект Home Assistant представил открытый голосовой AI-ассистент](https://habr.com/ru/news/868874/?utm_campaign=868874&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Нанософт» представила российские BIM/ТИМ/СОД-решения для проектирования на IX Международном BIM-форуме](https://habr.com/ru/companies/nanosoft/news/868492/?utm_campaign=868492&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалила календарь «Мой день» из приложения Microsoft 365](https://habr.com/ru/news/868838/?utm_campaign=868838&utm_source=habrahabr&utm_medium=rss)
-- [Tetsuwan Scientific создает роботов-ученых с AI, которые могут самостоятельно проводить эксперименты](https://habr.com/ru/companies/bothub/news/868840/?utm_campaign=868840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
