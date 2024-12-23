@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В России операцию по имплантации нейростимулятора блуждающего нерва нового поколения пациенту с эпилепсией](https://habr.com/ru/news/869074/?utm_campaign=869074&utm_source=habrahabr&utm_medium=rss)
+- [В России провели операцию по имплантации нейростимулятора блуждающего нерва нового поколения пациенту с эпилепсией](https://habr.com/ru/news/869074/?utm_campaign=869074&utm_source=habrahabr&utm_medium=rss)
 - [Проблемы с программным обеспечением у AMD оставляют Nvidia без конкурентов на рынке чипов для AI](https://habr.com/ru/companies/bothub/news/869058/?utm_campaign=869058&utm_source=habrahabr&utm_medium=rss)
 - [Утилита Raspberry Pi Connect стала доступна для организаций](https://habr.com/ru/news/869052/?utm_campaign=869052&utm_source=habrahabr&utm_medium=rss)
 - [Apple ведёт переговоры с Tencent и ByteDance о внедрении функций искусственного интеллекта в Китае](https://habr.com/ru/companies/bothub/news/869050/?utm_campaign=869050&utm_source=habrahabr&utm_medium=rss)
