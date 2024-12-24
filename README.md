@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Steam анонсирована игра Desktop Survivors 98 про выживание на рабочем столе Windows, релиз проекта в 2025 году](https://habr.com/ru/news/869492/?utm_campaign=869492&utm_source=habrahabr&utm_medium=rss)
+- [РКН: запрет звонков из зарубежных стран может быть введён в России в качестве меры борьбы с мошенничеством](https://habr.com/ru/news/869486/?utm_campaign=869486&utm_source=habrahabr&utm_medium=rss)
+- [Google экспериментирует над AI-инструментом Illuminate для преобразования сложных научных статей в аудио-беседы](https://habr.com/ru/companies/bothub/news/869484/?utm_campaign=869484&utm_source=habrahabr&utm_medium=rss)
 - [Создатель Rosetta 2 покинул Apple, чтобы полностью посвятить себя работе над Lean](https://habr.com/ru/news/869456/?utm_campaign=869456&utm_source=habrahabr&utm_medium=rss)
 - [Система o3 от OpenAI достигла уровня человека в тесте на общий интеллект. Что это значит?](https://habr.com/ru/companies/bothub/news/869438/?utm_campaign=869438&utm_source=habrahabr&utm_medium=rss)
-- [Как искусственный интеллект-галлюциноген помогает науке мечтать о великих прорывах](https://habr.com/ru/companies/bothub/news/869394/?utm_campaign=869394&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Gemini 2.0 Flash Thinking](https://habr.com/ru/companies/bothub/news/869370/?utm_campaign=869370&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала тестировать новую функцию защиты аккаунта администратора — Administrator protection](https://habr.com/ru/news/869368/?utm_campaign=869368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
