@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Электромобилем-роботакси Tesla Cybercab можно управлять с помощью геймпада](https://habr.com/ru/news/869542/?utm_campaign=869542&utm_source=habrahabr&utm_medium=rss)
 - [Исследование утверждает, что OpenAI o1-preview превосходит врачей в диагностике сложных медицинских случаев](https://habr.com/ru/companies/bothub/news/869532/?utm_campaign=869532&utm_source=habrahabr&utm_medium=rss)
 - [Синтетические данные в обучении AI: возможности и ограничения](https://habr.com/ru/companies/bothub/news/869526/?utm_campaign=869526&utm_source=habrahabr&utm_medium=rss)
 - [Google использует Claude от Anthropic для улучшения своего AI Gemini](https://habr.com/ru/companies/bothub/news/869516/?utm_campaign=869516&utm_source=habrahabr&utm_medium=rss)
 - [Японская полиция и агентства США обвинили северокорейских хакеров во взломе криптобиржи DMM](https://habr.com/ru/news/869508/?utm_campaign=869508&utm_source=habrahabr&utm_medium=rss)
-- [В Steam анонсирована игра Desktop Survivors 98 про выживание на рабочем столе Windows, релиз проекта в 2025 году](https://habr.com/ru/news/869492/?utm_campaign=869492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
