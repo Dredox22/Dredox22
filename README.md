@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe выпустила внеплановые обновления для устранения критической уязвимости ColdFusion](https://habr.com/ru/news/869210/?utm_campaign=869210&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: власти РФ обсуждают запрет на звонки в мессенджерах для защиты от мошенничества](https://habr.com/ru/news/869206/?utm_campaign=869206&utm_source=habrahabr&utm_medium=rss)
 - [Один из ключевых разработчиков CPython Тим Питерс вернулся в сообщество Python после трехмесячного бана](https://habr.com/ru/news/869196/?utm_campaign=869196&utm_source=habrahabr&utm_medium=rss)
 - [Обновление базы оборудования компании «Промрукав» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/868138/?utm_campaign=868138&utm_source=habrahabr&utm_medium=rss)
 - [Провайдеры связи РФ: нет ограничений по трафику YouTube, сложности возникли на стороне сервиса или по внешним причинам](https://habr.com/ru/news/869182/?utm_campaign=869182&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз CAD Recode — нейросети для генерации САПР-моделей из облака точек](https://habr.com/ru/news/869172/?utm_campaign=869172&utm_source=habrahabr&utm_medium=rss)
-- [Google: резкое падение трафика YouTube в РФ не связано с техническими сбоями или действиями американской компании](https://habr.com/ru/news/869108/?utm_campaign=869108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
