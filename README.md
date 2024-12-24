@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Агенты — это «третья волна» революции искусственного интеллекта](https://habr.com/ru/companies/bothub/news/869322/?utm_campaign=869322&utm_source=habrahabr&utm_medium=rss)
+- [За 2024 год специалисты Positive Technologies нашли в софте 100 уязвимостей нулевого дня](https://habr.com/ru/news/869352/?utm_campaign=869352&utm_source=habrahabr&utm_medium=rss)
+- [Основной доклад Nvidia на выставке CES 2025: как смотреть](https://habr.com/ru/companies/bothub/news/869342/?utm_campaign=869342&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты Positive Technologies определили главные тренды 2025 года в сфере уязвимостей](https://habr.com/ru/companies/pt/news/869176/?utm_campaign=869176&utm_source=habrahabr&utm_medium=rss)
 - [Агенты — это «третья волна» революции искусственного интеллекта](https://habr.com/ru/companies/bothub/news/869320/?utm_campaign=869320&utm_source=habrahabr&utm_medium=rss)
 - [Новая функция Gemini может стать будущим просмотра веб-страниц](https://habr.com/ru/companies/bothub/news/869304/?utm_campaign=869304&utm_source=habrahabr&utm_medium=rss)
-- [Coralogix приобрела платформу наблюдения за искусственным интеллектом Aporia](https://habr.com/ru/companies/bothub/news/869288/?utm_campaign=869288&utm_source=habrahabr&utm_medium=rss)
-- [Новая база данных НЗПО для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/869282/?utm_campaign=869282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
