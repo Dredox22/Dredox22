@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Провайдеры связи РФ: нет ограничений по трафику YouTube, сложности возникли на стороне сервиса или по внешним причинам](https://habr.com/ru/news/869182/?utm_campaign=869182&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз CAD Recode — нейросети для генерации САПР-моделей из облака точек](https://habr.com/ru/news/869172/?utm_campaign=869172&utm_source=habrahabr&utm_medium=rss)
 - [Google: резкое падение трафика YouTube в РФ не связано с техническими сбоями или действиями американской компании](https://habr.com/ru/news/869108/?utm_campaign=869108&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/869106/?utm_campaign=869106&utm_source=habrahabr&utm_medium=rss)
 - [Как Claude от Anthropic меняет правила игры для разработчиков программного обеспечения](https://habr.com/ru/companies/bothub/news/869104/?utm_campaign=869104&utm_source=habrahabr&utm_medium=rss)
-- [В России провели операцию по имплантации нейростимулятора блуждающего нерва нового поколения пациенту с эпилепсией](https://habr.com/ru/news/869074/?utm_campaign=869074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
