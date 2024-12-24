@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [За 2024 год специалисты Positive Technologies нашли в софте 100 уязвимостей нулевого дня](https://habr.com/ru/news/869352/?utm_campaign=869352&utm_source=habrahabr&utm_medium=rss)
-- [Основной доклад Nvidia на выставке CES 2025: как смотреть](https://habr.com/ru/companies/bothub/news/869342/?utm_campaign=869342&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты Positive Technologies определили главные тренды 2025 года в сфере уязвимостей](https://habr.com/ru/companies/pt/news/869176/?utm_campaign=869176&utm_source=habrahabr&utm_medium=rss)
-- [Агенты — это «третья волна» революции искусственного интеллекта](https://habr.com/ru/companies/bothub/news/869320/?utm_campaign=869320&utm_source=habrahabr&utm_medium=rss)
-- [Новая функция Gemini может стать будущим просмотра веб-страниц](https://habr.com/ru/companies/bothub/news/869304/?utm_campaign=869304&utm_source=habrahabr&utm_medium=rss)
+- [Как искусственный интеллект-галлюциноген помогает науке мечтать о великих прорывах](https://habr.com/ru/companies/bothub/news/869394/?utm_campaign=869394&utm_source=habrahabr&utm_medium=rss)
+- [Новый AI-инструмент от Microsoft: Copilot Vision — как он меняет интернет-поиск](https://habr.com/ru/companies/bothub/news/869392/?utm_campaign=869392&utm_source=habrahabr&utm_medium=rss)
+- [Google представила Gemini 2.0 Flash Thinking](https://habr.com/ru/companies/bothub/news/869370/?utm_campaign=869370&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала тестировать новую функцию защиты аккаунта администратора — Administrator protection](https://habr.com/ru/news/869368/?utm_campaign=869368&utm_source=habrahabr&utm_medium=rss)
+- [Популярная техника повышения эффективности AI имеет свои недостатки](https://habr.com/ru/companies/bothub/news/869358/?utm_campaign=869358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
