@@ -68,8 +68,8 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Система o3 от OpenAI достигла уровня человека в тесте на общий интеллект. Что это значит?](https://habr.com/ru/companies/bothub/news/869438/?utm_campaign=869438&utm_source=habrahabr&utm_medium=rss)
 - [Как искусственный интеллект-галлюциноген помогает науке мечтать о великих прорывах](https://habr.com/ru/companies/bothub/news/869394/?utm_campaign=869394&utm_source=habrahabr&utm_medium=rss)
-- [Новый AI-инструмент от Microsoft: Copilot Vision — как он меняет интернет-поиск](https://habr.com/ru/companies/bothub/news/869392/?utm_campaign=869392&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Gemini 2.0 Flash Thinking](https://habr.com/ru/companies/bothub/news/869370/?utm_campaign=869370&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала тестировать новую функцию защиты аккаунта администратора — Administrator protection](https://habr.com/ru/news/869368/?utm_campaign=869368&utm_source=habrahabr&utm_medium=rss)
 - [Популярная техника повышения эффективности AI имеет свои недостатки](https://habr.com/ru/companies/bothub/news/869358/?utm_campaign=869358&utm_source=habrahabr&utm_medium=rss)
