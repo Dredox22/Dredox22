@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GE Healthcare и AWS представили первую 3D-модель AI для анализа МРТ всего тела](https://habr.com/ru/companies/bothub/news/869260/?utm_campaign=869260&utm_source=habrahabr&utm_medium=rss)
 - [VK запустила инициативу OpenVK для публикации ПО с открытым кодом](https://habr.com/ru/news/869238/?utm_campaign=869238&utm_source=habrahabr&utm_medium=rss)
 - [Apache выпустила обновление безопасности для веб-сервера Tomcat](https://habr.com/ru/news/869228/?utm_campaign=869228&utm_source=habrahabr&utm_medium=rss)
 - [Фанаты создали собственный порт Nintendo Star Fox 64 для ПК](https://habr.com/ru/news/869220/?utm_campaign=869220&utm_source=habrahabr&utm_medium=rss)
 - [Adobe выпустила внеплановые обновления для устранения критической уязвимости ColdFusion](https://habr.com/ru/news/869210/?utm_campaign=869210&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: власти РФ обсуждают запрет на звонки в мессенджерах для защиты от мошенничества](https://habr.com/ru/news/869206/?utm_campaign=869206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
