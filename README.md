@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Робот Boston Dynamics Atlas научился делать сальто назад](https://habr.com/ru/news/869588/?utm_campaign=869588&utm_source=habrahabr&utm_medium=rss)
+- [Новый ботнет использует уязвимости в сетевых видеорегистраторах и маршрутизаторах TP-Link](https://habr.com/ru/news/869582/?utm_campaign=869582&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавит поддержку функций PST в новый Outlook](https://habr.com/ru/news/869576/?utm_campaign=869576&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp прекратит поддержку старых смартфонов Android с января 2025 года](https://habr.com/ru/news/869580/?utm_campaign=869580&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры разрабатывает сервис сбора обезличенных геотреков абонентов сотовой связи на платформе «Гостех»](https://habr.com/ru/news/869572/?utm_campaign=869572&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость Платформы nanoCAD 24 с СУБД Tantor](https://habr.com/ru/companies/nanosoft/news/869490/?utm_campaign=869490&utm_source=habrahabr&utm_medium=rss)
-- [Баг в systeminformation позволяет удалённо выполнить код и повысить привилегии в Windows после подключения к SSID Wi-Fi](https://habr.com/ru/news/869568/?utm_campaign=869568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
