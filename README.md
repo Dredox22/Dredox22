@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложение ISSStream для macOS в режиме реального времени показывает уровень загрузки бака с уриной на МКС](https://habr.com/ru/news/869562/?utm_campaign=869562&utm_source=habrahabr&utm_medium=rss)
-- [The Guardian: владельцы сайтов могут обмануть поиск ChatGPT с помощью скрытого текста](https://habr.com/ru/news/869556/?utm_campaign=869556&utm_source=habrahabr&utm_medium=rss)
-- [Электромобилем-роботакси Tesla Cybercab можно управлять с помощью геймпада](https://habr.com/ru/news/869542/?utm_campaign=869542&utm_source=habrahabr&utm_medium=rss)
-- [Исследование утверждает, что OpenAI o1-preview превосходит врачей в диагностике сложных медицинских случаев](https://habr.com/ru/companies/bothub/news/869532/?utm_campaign=869532&utm_source=habrahabr&utm_medium=rss)
-- [Синтетические данные в обучении AI: возможности и ограничения](https://habr.com/ru/companies/bothub/news/869526/?utm_campaign=869526&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавит поддержку функций PST в новый Outlook](https://habr.com/ru/news/869576/?utm_campaign=869576&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp прекратит поддержку старых смартфонов Android с января 2025 года](https://habr.com/ru/news/869580/?utm_campaign=869580&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры разрабатывает сервис сбора обезличенных геотреков абонентов сотовой связи на платформе «Гостех»](https://habr.com/ru/news/869572/?utm_campaign=869572&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость Платформы nanoCAD 24 с СУБД Tantor](https://habr.com/ru/companies/nanosoft/news/869490/?utm_campaign=869490&utm_source=habrahabr&utm_medium=rss)
+- [Баг в systeminformation позволяет удалённо выполнить код и повысить привилегии в Windows после подключения к SSID Wi-Fi](https://habr.com/ru/news/869568/?utm_campaign=869568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
