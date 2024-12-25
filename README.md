@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Открытое приложение ISSStream для macOS в режиме реального времени показывает уровень загрузки бака с уриной на МКС](https://habr.com/ru/news/869562/?utm_campaign=869562&utm_source=habrahabr&utm_medium=rss)
+- [Приложение ISSStream для macOS в режиме реального времени показывает уровень загрузки бака с уриной на МКС](https://habr.com/ru/news/869562/?utm_campaign=869562&utm_source=habrahabr&utm_medium=rss)
 - [The Guardian: владельцы сайтов могут обмануть поиск ChatGPT с помощью скрытого текста](https://habr.com/ru/news/869556/?utm_campaign=869556&utm_source=habrahabr&utm_medium=rss)
 - [Электромобилем-роботакси Tesla Cybercab можно управлять с помощью геймпада](https://habr.com/ru/news/869542/?utm_campaign=869542&utm_source=habrahabr&utm_medium=rss)
 - [Исследование утверждает, что OpenAI o1-preview превосходит врачей в диагностике сложных медицинских случаев](https://habr.com/ru/companies/bothub/news/869532/?utm_campaign=869532&utm_source=habrahabr&utm_medium=rss)
