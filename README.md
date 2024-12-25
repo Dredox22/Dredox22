@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первую российскую игровую консоль проектируют на процессоре «Эльбрус» и других отечественных компонентах](https://habr.com/ru/news/869822/?utm_campaign=869822&utm_source=habrahabr&utm_medium=rss)
+- [Генассамблея ООН приняла Конвенцию по киберпреступности](https://habr.com/ru/news/869820/?utm_campaign=869820&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные разработали новую технологию перехода к гибридным квантовым вычислениям](https://habr.com/ru/news/869772/?utm_campaign=869772&utm_source=habrahabr&utm_medium=rss)
 - [Банк России разрабатывает платформу для выявления дропперов](https://habr.com/ru/news/869726/?utm_campaign=869726&utm_source=habrahabr&utm_medium=rss)
 - [«Гравитон» начал поставки сервера С2124Б для высокопроизводительных вычислений](https://habr.com/ru/news/869712/?utm_campaign=869712&utm_source=habrahabr&utm_medium=rss)
-- [Linux Foundation в 2024 года выделила на разработку ядра Linux $6,8 млн, что на $1 млн меньше, чем в 2023 году](https://habr.com/ru/news/869692/?utm_campaign=869692&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» предложила создать общероссийский атлас киберугроз](https://habr.com/ru/news/869678/?utm_campaign=869678&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
