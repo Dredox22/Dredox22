@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатории Касперского» предложила создать общероссийский атлас киберугроз](https://habr.com/ru/news/869678/?utm_campaign=869678&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники воспользовались рекордным замедлением YouTube в России](https://habr.com/ru/news/869676/?utm_campaign=869676&utm_source=habrahabr&utm_medium=rss)
+- [Вышел первый тестовый выпуск минималистичного веб-браузера FixBrowser 0.1](https://habr.com/ru/news/869672/?utm_campaign=869672&utm_source=habrahabr&utm_medium=rss)
+- [AI-прогресс в 2025 году будет «еще более драматичным» говорит сооснователь Anthropic](https://habr.com/ru/companies/bothub/news/869662/?utm_campaign=869662&utm_source=habrahabr&utm_medium=rss)
 - [Вышел 4MLinux 47.0](https://habr.com/ru/news/869652/?utm_campaign=869652&utm_source=habrahabr&utm_medium=rss)
-- [Фото за пять минут: F.A.C.C.T. предупреждает о новой волне мошенничества с фейковой продажей документов](https://habr.com/ru/companies/f_a_c_c_t/news/869642/?utm_campaign=869642&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия libcamera 0.4 для стека камер с открытым исходным кодом](https://habr.com/ru/news/869616/?utm_campaign=869616&utm_source=habrahabr&utm_medium=rss)
-- [Minisforum выпустила портативный монитор с двумя дисплеями 1080p](https://habr.com/ru/news/869604/?utm_campaign=869604&utm_source=habrahabr&utm_medium=rss)
-- [Злоумышленники взломали официальный магазин Европейского космического агентства с целью кражи данных платёжных карт](https://habr.com/ru/news/869620/?utm_campaign=869620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
