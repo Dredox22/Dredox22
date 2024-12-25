@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Лаборатории Касперского» предложила создать общероссийский атлас киберугроз](https://habr.com/ru/news/869678/?utm_campaign=869678&utm_source=habrahabr&utm_medium=rss)
+- [«Гравитон» начал поставки сервера С2124Б для высокопроизводительных вычислений](https://habr.com/ru/news/869712/?utm_campaign=869712&utm_source=habrahabr&utm_medium=rss)
+- [Linux Foundation в 2024 года выделила на разработку ядра Linux $6,8 млн, что на $1 млн меньше, чем в 2023 году](https://habr.com/ru/news/869692/?utm_campaign=869692&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» предложила создать общероссийский атлас киберугроз](https://habr.com/ru/news/869678/?utm_campaign=869678&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники воспользовались рекордным замедлением YouTube в России](https://habr.com/ru/news/869676/?utm_campaign=869676&utm_source=habrahabr&utm_medium=rss)
 - [Вышел первый тестовый выпуск минималистичного веб-браузера FixBrowser 0.1](https://habr.com/ru/news/869672/?utm_campaign=869672&utm_source=habrahabr&utm_medium=rss)
-- [AI-прогресс в 2025 году будет «еще более драматичным» говорит сооснователь Anthropic](https://habr.com/ru/companies/bothub/news/869662/?utm_campaign=869662&utm_source=habrahabr&utm_medium=rss)
-- [Вышел 4MLinux 47.0](https://habr.com/ru/news/869652/?utm_campaign=869652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
