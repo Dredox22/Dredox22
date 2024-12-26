@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представитель Госдумы: в РФ не планируется вводить штрафы за использование VPN-сервисов](https://habr.com/ru/news/869976/?utm_campaign=869976&utm_source=habrahabr&utm_medium=rss)
+- [Учёные из МГУ и РКЦ успешно протестировали квантовый компьютер на основе 50 кубитов](https://habr.com/ru/news/869968/?utm_campaign=869968&utm_source=habrahabr&utm_medium=rss)
 - [ИИ превзошёл экспертов-людей в различении виски и скотча](https://habr.com/ru/news/869908/?utm_campaign=869908&utm_source=habrahabr&utm_medium=rss)
 - [PowerToys Run получит крупное обновление в 2025 году](https://habr.com/ru/news/869900/?utm_campaign=869900&utm_source=habrahabr&utm_medium=rss)
 - [Japan Airlines отменила рейсы из-за кибератаки](https://habr.com/ru/news/869894/?utm_campaign=869894&utm_source=habrahabr&utm_medium=rss)
-- [Оценка защищенности ПО Avanpost FAM от F.A.C.C.T.: миссия пройдена](https://habr.com/ru/companies/f_a_c_c_t/news/869896/?utm_campaign=869896&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка в обновлении Windows 11 нарушает работу меню «Пуск» и Wi-Fi](https://habr.com/ru/news/869886/?utm_campaign=869886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
