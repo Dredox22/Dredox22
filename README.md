@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple планирует полностью разорвать отношения с Nvidia и разработать собственный серверный ИИ-чип с Broadcom](https://habr.com/ru/news/870046/?utm_campaign=870046&utm_source=habrahabr&utm_medium=rss)
+- [Предприятие «ЦТС» в Калининградской области запустило производство IP-камер и коммутаторов Qtech](https://habr.com/ru/news/870024/?utm_campaign=870024&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge не перестанет уговаривать пользователей установить себя в качестве браузера по умолчанию в Windows 11](https://habr.com/ru/news/870010/?utm_campaign=870010&utm_source=habrahabr&utm_medium=rss)
 - [5 проектов c Luxms BI на конкурсе «Проект Года 2024» от GlobalCIO](https://habr.com/ru/companies/luxms_bi/news/869996/?utm_campaign=869996&utm_source=habrahabr&utm_medium=rss)
 - [Зал славы российской видеоигровой индустрии пополнился новыми именами](https://habr.com/ru/news/869992/?utm_campaign=869992&utm_source=habrahabr&utm_medium=rss)
-- [Представитель Госдумы: в РФ не планируется вводить штрафы за использование VPN-сервисов](https://habr.com/ru/news/869976/?utm_campaign=869976&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из МГУ и РКЦ успешно протестировали квантовый компьютер на основе 50 кубитов](https://habr.com/ru/news/869968/?utm_campaign=869968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
