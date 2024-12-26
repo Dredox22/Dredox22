@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Итальянская энергетическая компания Eni запустила самый мощный суперкомпьютер за пределами США](https://habr.com/ru/news/870168/?utm_campaign=870168&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила из App Store приложение «Купер» от «Сбера»](https://habr.com/ru/news/870132/?utm_campaign=870132&utm_source=habrahabr&utm_medium=rss)
 - [Власти Южной Кореи намерены создать конкурента TSMC, компанию KSMC; в предприятие планируют инвестировать $13,9 млрд](https://habr.com/ru/news/870126/?utm_campaign=870126&utm_source=habrahabr&utm_medium=rss)
 - [Это долго и дорого: Apple рассказала, почему не будет разрабатывать собственный поисковик](https://habr.com/ru/news/870094/?utm_campaign=870094&utm_source=habrahabr&utm_medium=rss)
 - [Сервис облачного гейминга «Плюс Гейминг» теперь работает во всех браузерах на базе Chromium](https://habr.com/ru/news/870062/?utm_campaign=870062&utm_source=habrahabr&utm_medium=rss)
-- [Компании по кибербезопасности увидели риски в новых положениях УК](https://habr.com/ru/news/870064/?utm_campaign=870064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
