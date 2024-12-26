@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава ASML: Китай отстаёт на 10–15 лет в производстве чипов](https://habr.com/ru/news/869878/?utm_campaign=869878&utm_source=habrahabr&utm_medium=rss)
+- [НАСА показало «венок» и «ёлку» в космосе](https://habr.com/ru/news/869876/?utm_campaign=869876&utm_source=habrahabr&utm_medium=rss)
+- [Муравьи оказались успешнее людей в решении командных задач](https://habr.com/ru/companies/cloud4y/news/869872/?utm_campaign=869872&utm_source=habrahabr&utm_medium=rss)
+- [Юристы и IT-эксперты допустили введение в РФ штрафов за использование VPN, но считают это маловероятным событием](https://habr.com/ru/news/869870/?utm_campaign=869870&utm_source=habrahabr&utm_medium=rss)
 - [Qwen выпустила QVQ: конкурент OpenAI и Google в визуальном мышлении](https://habr.com/ru/companies/bothub/news/869864/?utm_campaign=869864&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор Китая выдал более 1416 игровых лицензий за 2024 год](https://habr.com/ru/news/869860/?utm_campaign=869860&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила из российского App Store VPN‑сервисы, чтобы соответствовать требованиям национального законодательства](https://habr.com/ru/news/869850/?utm_campaign=869850&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek-V3: Китайская языковая модель превзошла Claude 3.5 Sonnet в работе с кодом](https://habr.com/ru/news/869840/?utm_campaign=869840&utm_source=habrahabr&utm_medium=rss)
-- [Первую российскую игровую консоль проектируют на процессоре «Эльбрус» и других отечественных компонентах](https://habr.com/ru/news/869822/?utm_campaign=869822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
