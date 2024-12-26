@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek-V3: Китайская языковая модель превзошла Claude 3.5 Sonnet в работе с кодом](https://habr.com/ru/news/869840/?utm_campaign=869840&utm_source=habrahabr&utm_medium=rss)
 - [Первую российскую игровую консоль проектируют на процессоре «Эльбрус» и других отечественных компонентах](https://habr.com/ru/news/869822/?utm_campaign=869822&utm_source=habrahabr&utm_medium=rss)
 - [Генассамблея ООН приняла Конвенцию по киберпреступности](https://habr.com/ru/news/869820/?utm_campaign=869820&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные разработали новую технологию перехода к гибридным квантовым вычислениям](https://habr.com/ru/news/869772/?utm_campaign=869772&utm_source=habrahabr&utm_medium=rss)
 - [Банк России разрабатывает платформу для выявления дропперов](https://habr.com/ru/news/869726/?utm_campaign=869726&utm_source=habrahabr&utm_medium=rss)
-- [«Гравитон» начал поставки сервера С2124Б для высокопроизводительных вычислений](https://habr.com/ru/news/869712/?utm_campaign=869712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
