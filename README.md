@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Это долго и дорого: Apple рассказала, почему не будет разрабатывать собственный поисковик](https://habr.com/ru/news/870094/?utm_campaign=870094&utm_source=habrahabr&utm_medium=rss)
 - [Компании по кибербезопасности увидели риски в новых положениях УК](https://habr.com/ru/news/870064/?utm_campaign=870064&utm_source=habrahabr&utm_medium=rss)
 - [Apple планирует полностью разорвать отношения с Nvidia и разработать собственный серверный ИИ-чип с Broadcom](https://habr.com/ru/news/870046/?utm_campaign=870046&utm_source=habrahabr&utm_medium=rss)
 - [Предприятие «ЦТС» в Калининградской области запустило производство IP-камер и коммутаторов Qtech](https://habr.com/ru/news/870024/?utm_campaign=870024&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge не перестанет уговаривать пользователей установить себя в качестве браузера по умолчанию в Windows 11](https://habr.com/ru/news/870010/?utm_campaign=870010&utm_source=habrahabr&utm_medium=rss)
-- [5 проектов c Luxms BI на конкурсе «Проект Года 2024» от GlobalCIO](https://habr.com/ru/companies/luxms_bi/news/869996/?utm_campaign=869996&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
