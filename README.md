@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Перспективы и опасности синтетических данных](https://habr.com/ru/companies/bothub/news/870286/?utm_campaign=870286&utm_source=habrahabr&utm_medium=rss)
-- [Google Play с 26 декабря 2024 года приостановила проведение платежей за приложения разработчикам из РФ](https://habr.com/ru/news/870280/?utm_campaign=870280&utm_source=habrahabr&utm_medium=rss)
-- [Доступ к ChatGPT восстанавливается после отключения в четверг](https://habr.com/ru/companies/bothub/news/870276/?utm_campaign=870276&utm_source=habrahabr&utm_medium=rss)
-- [Новая система AI определяет нарушения правил в футболе, их серьёзность и комментирует ключевые эпизоды матча](https://habr.com/ru/companies/bothub/news/870268/?utm_campaign=870268&utm_source=habrahabr&utm_medium=rss)
-- [Сертификат совместимости Luxms BI v10 и Astra Linux 1.8](https://habr.com/ru/companies/luxms_bi/news/870072/?utm_campaign=870072&utm_source=habrahabr&utm_medium=rss)
+- [Поисковую систему ChatGPT можно обманом ввести в заблуждение](https://habr.com/ru/companies/bothub/news/870318/?utm_campaign=870318&utm_source=habrahabr&utm_medium=rss)
+- [В тестах Raspberry Pi 500 обеспечил отличную производительность по сравнению с Raspberry Pi 400](https://habr.com/ru/news/870302/?utm_campaign=870302&utm_source=habrahabr&utm_medium=rss)
+- [У Microsoft и OpenAI есть финансовое определение AGI](https://habr.com/ru/companies/bothub/news/870300/?utm_campaign=870300&utm_source=habrahabr&utm_medium=rss)
+- [Три миллиона школьников получили знания о работе алгоритмов и ИИ в городских сервисах «Урок цифры» от «Яндекса»](https://habr.com/ru/news/870296/?utm_campaign=870296&utm_source=habrahabr&utm_medium=rss)
+- [Telegram и WeChat начали процесс лицензирования в Малайзии](https://habr.com/ru/news/870292/?utm_campaign=870292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
