@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Агро-Строительные Технологии»: повышение производительности при проектировании в nanoCAD](https://habr.com/ru/companies/nanosoft/news/869698/?utm_campaign=869698&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор опроверг сообщения о возможных штрафах для граждан РФ за использование VPN-сервисов](https://habr.com/ru/news/870198/?utm_campaign=870198&utm_source=habrahabr&utm_medium=rss)
 - [В обновлении Telegram для iOS исправлен баг с перегревом iPhone](https://habr.com/ru/news/870190/?utm_campaign=870190&utm_source=habrahabr&utm_medium=rss)
 - [Итальянская энергетическая компания Eni запустила самый мощный суперкомпьютер за пределами США](https://habr.com/ru/news/870168/?utm_campaign=870168&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила из App Store приложение «Купер» от «Сбера»](https://habr.com/ru/news/870132/?utm_campaign=870132&utm_source=habrahabr&utm_medium=rss)
-- [Власти Южной Кореи намерены создать конкурента TSMC, компанию KSMC; в предприятие планируют инвестировать $13,9 млрд](https://habr.com/ru/news/870126/?utm_campaign=870126&utm_source=habrahabr&utm_medium=rss)
-- [Это долго и дорого: Apple рассказала, почему не будет разрабатывать собственный поисковик](https://habr.com/ru/news/870094/?utm_campaign=870094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
