@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование модели Google Gemini-Exp-1206: Комплексный анализ данных и сложные визуализации менее чем за минуту](https://habr.com/ru/companies/bothub/news/870514/?utm_campaign=870514&utm_source=habrahabr&utm_medium=rss)
+- [«Каждый год 31 декабря...» или вышла новая LTS версия XWiki – 16.10.12](https://habr.com/ru/news/870512/?utm_campaign=870512&utm_source=habrahabr&utm_medium=rss)
+- [Почему новая модель AI от DeepSeek считает себя ChatGPT](https://habr.com/ru/companies/bothub/news/870510/?utm_campaign=870510&utm_source=habrahabr&utm_medium=rss)
 - [Deepseek V3 становится самой мощной открытой языковой моделью в Китае на сегодня](https://habr.com/ru/companies/bothub/news/870508/?utm_campaign=870508&utm_source=habrahabr&utm_medium=rss)
 - [Samsung позволит отключить слишком яркий HDR-контент во всех приложениях](https://habr.com/ru/news/870506/?utm_campaign=870506&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость в ChatGPT Search: The Guardian выявила способ манипуляции результатами поиска](https://habr.com/ru/companies/bothub/news/870490/?utm_campaign=870490&utm_source=habrahabr&utm_medium=rss)
-- [Пресс-конференция AMD на выставке CES 2025: чего ожидать](https://habr.com/ru/companies/bothub/news/870486/?utm_campaign=870486&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовится к трансформации: баланс между коммерцией и общественным благом в новой структуре компании](https://habr.com/ru/companies/bothub/news/870480/?utm_campaign=870480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
