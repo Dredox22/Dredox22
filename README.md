@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты: Microsoft сделала Copilot для защиты GitHub](https://habr.com/ru/news/870226/?utm_campaign=870226&utm_source=habrahabr&utm_medium=rss)
+- [МТС займется выпуском игровых консолей для облачного гейминга](https://habr.com/ru/news/870232/?utm_campaign=870232&utm_source=habrahabr&utm_medium=rss)
+- [Представлен сервер Minecraft, написанный на COBOL](https://habr.com/ru/news/870228/?utm_campaign=870228&utm_source=habrahabr&utm_medium=rss)
 - [НАСА выбрало четыре компании для обеспечения космической связи](https://habr.com/ru/news/870212/?utm_campaign=870212&utm_source=habrahabr&utm_medium=rss)
 - [GAC представила гуманоидного робота GoMate с 38 степенями свободы](https://habr.com/ru/news/870206/?utm_campaign=870206&utm_source=habrahabr&utm_medium=rss)
-- [У пользователей T-Mobile в настройках Samsung появилась опция «Спутниковые сети»](https://habr.com/ru/news/870202/?utm_campaign=870202&utm_source=habrahabr&utm_medium=rss)
-- [«Агро-Строительные Технологии»: повышение производительности при проектировании в nanoCAD](https://habr.com/ru/companies/nanosoft/news/869698/?utm_campaign=869698&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор опроверг сообщения о возможных штрафах для граждан РФ за использование VPN-сервисов](https://habr.com/ru/news/870198/?utm_campaign=870198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
