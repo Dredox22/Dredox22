@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китайский сервис Boox отказывается от GPT в пользу китайского LLM](https://habr.com/ru/companies/bothub/news/870260/?utm_campaign=870260&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты: Microsoft сделала Copilot для защиты GitHub](https://habr.com/ru/news/870226/?utm_campaign=870226&utm_source=habrahabr&utm_medium=rss)
 - [МТС займется выпуском игровых консолей для облачного гейминга](https://habr.com/ru/news/870232/?utm_campaign=870232&utm_source=habrahabr&utm_medium=rss)
 - [Представлен сервер Minecraft, написанный на COBOL](https://habr.com/ru/news/870228/?utm_campaign=870228&utm_source=habrahabr&utm_medium=rss)
 - [НАСА выбрало четыре компании для обеспечения космической связи](https://habr.com/ru/news/870212/?utm_campaign=870212&utm_source=habrahabr&utm_medium=rss)
-- [GAC представила гуманоидного робота GoMate с 38 степенями свободы](https://habr.com/ru/news/870206/?utm_campaign=870206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
