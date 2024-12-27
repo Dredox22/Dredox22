@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [НАСА выбрало четыре компании для обеспечения космической связи](https://habr.com/ru/news/870212/?utm_campaign=870212&utm_source=habrahabr&utm_medium=rss)
+- [GAC представила гуманоидного робота GoMate с 38 степенями свободы](https://habr.com/ru/news/870206/?utm_campaign=870206&utm_source=habrahabr&utm_medium=rss)
+- [У пользователей T-Mobile в настройках Samsung появилась опция «Спутниковые сети»](https://habr.com/ru/news/870202/?utm_campaign=870202&utm_source=habrahabr&utm_medium=rss)
 - [«Агро-Строительные Технологии»: повышение производительности при проектировании в nanoCAD](https://habr.com/ru/companies/nanosoft/news/869698/?utm_campaign=869698&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор опроверг сообщения о возможных штрафах для граждан РФ за использование VPN-сервисов](https://habr.com/ru/news/870198/?utm_campaign=870198&utm_source=habrahabr&utm_medium=rss)
-- [В обновлении Telegram для iOS исправлен баг с перегревом iPhone](https://habr.com/ru/news/870190/?utm_campaign=870190&utm_source=habrahabr&utm_medium=rss)
-- [Итальянская энергетическая компания Eni запустила самый мощный суперкомпьютер за пределами США](https://habr.com/ru/news/870168/?utm_campaign=870168&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила из App Store приложение «Купер» от «Сбера»](https://habr.com/ru/news/870132/?utm_campaign=870132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
