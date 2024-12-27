@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запустили подкаст про инженерную культуру в IT-компании](https://habr.com/ru/companies/surfstudio/news/870412/?utm_campaign=870412&utm_source=habrahabr&utm_medium=rss)
 - [Поисковую систему ChatGPT можно обманом ввести в заблуждение](https://habr.com/ru/companies/bothub/news/870318/?utm_campaign=870318&utm_source=habrahabr&utm_medium=rss)
 - [В тестах Raspberry Pi 500 обеспечил отличную производительность по сравнению с Raspberry Pi 400](https://habr.com/ru/news/870302/?utm_campaign=870302&utm_source=habrahabr&utm_medium=rss)
 - [У Microsoft и OpenAI есть финансовое определение AGI](https://habr.com/ru/companies/bothub/news/870300/?utm_campaign=870300&utm_source=habrahabr&utm_medium=rss)
 - [Три миллиона школьников получили знания о работе алгоритмов и ИИ в городских сервисах «Урок цифры» от «Яндекса»](https://habr.com/ru/news/870296/?utm_campaign=870296&utm_source=habrahabr&utm_medium=rss)
-- [Telegram и WeChat начали процесс лицензирования в Малайзии](https://habr.com/ru/news/870292/?utm_campaign=870292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
