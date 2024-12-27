@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Китайский сервис Boox отказывается от GPT в пользу китайского LLM](https://habr.com/ru/companies/bothub/news/870260/?utm_campaign=870260&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты: Microsoft сделала Copilot для защиты GitHub](https://habr.com/ru/news/870226/?utm_campaign=870226&utm_source=habrahabr&utm_medium=rss)
-- [МТС займется выпуском игровых консолей для облачного гейминга](https://habr.com/ru/news/870232/?utm_campaign=870232&utm_source=habrahabr&utm_medium=rss)
-- [Представлен сервер Minecraft, написанный на COBOL](https://habr.com/ru/news/870228/?utm_campaign=870228&utm_source=habrahabr&utm_medium=rss)
-- [НАСА выбрало четыре компании для обеспечения космической связи](https://habr.com/ru/news/870212/?utm_campaign=870212&utm_source=habrahabr&utm_medium=rss)
+- [Перспективы и опасности синтетических данных](https://habr.com/ru/companies/bothub/news/870286/?utm_campaign=870286&utm_source=habrahabr&utm_medium=rss)
+- [Google Play с 26 декабря 2024 года приостановила проведение платежей за приложения разработчикам из РФ](https://habr.com/ru/news/870280/?utm_campaign=870280&utm_source=habrahabr&utm_medium=rss)
+- [Доступ к ChatGPT восстанавливается после отключения в четверг](https://habr.com/ru/companies/bothub/news/870276/?utm_campaign=870276&utm_source=habrahabr&utm_medium=rss)
+- [Новая система AI определяет нарушения правил в футболе, их серьёзность и комментирует ключевые эпизоды матча](https://habr.com/ru/companies/bothub/news/870268/?utm_campaign=870268&utm_source=habrahabr&utm_medium=rss)
+- [Сертификат совместимости Luxms BI v10 и Astra Linux 1.8](https://habr.com/ru/companies/luxms_bi/news/870072/?utm_campaign=870072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
