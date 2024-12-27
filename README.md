@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [В «РЖД» тестируют робопсов для работы на потенциально опасных участках железной дороги](https://habr.com/ru/news/870458/?utm_campaign=870458&utm_source=habrahabr&utm_medium=rss)
-- [Программно-аппаратные комплексы Solar NGFW зарегистрированы в Реестре отечественного ПО Минцифры России](https://habr.com/ru/companies/solarsecurity/news/870430/?utm_campaign=870430&utm_source=habrahabr&utm_medium=rss)
+- [Программно-аппаратный комплекс Solar NGFW зарегистрирован в Реестре отечественного ПО Минцифры России](https://habr.com/ru/companies/solarsecurity/news/870430/?utm_campaign=870430&utm_source=habrahabr&utm_medium=rss)
 - [Функция генерации идентификаторов формата UUIDv7 уже закоммичена в PostgreSQL](https://habr.com/ru/news/870428/?utm_campaign=870428&utm_source=habrahabr&utm_medium=rss)
 - [Запустили подкаст про инженерную культуру в IT-компании](https://habr.com/ru/companies/surfstudio/news/870412/?utm_campaign=870412&utm_source=habrahabr&utm_medium=rss)
 - [Поисковую систему ChatGPT можно обманом ввести в заблуждение](https://habr.com/ru/companies/bothub/news/870318/?utm_campaign=870318&utm_source=habrahabr&utm_medium=rss)
