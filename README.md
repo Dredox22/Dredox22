@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость в ChatGPT Search: The Guardian выявила способ манипуляции результатами поиска](https://habr.com/ru/companies/bothub/news/870490/?utm_campaign=870490&utm_source=habrahabr&utm_medium=rss)
 - [Пресс-конференция AMD на выставке CES 2025: чего ожидать](https://habr.com/ru/companies/bothub/news/870486/?utm_campaign=870486&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI готовится к трансформации: баланс между коммерцией и общественным благом в новой структуре компании](https://habr.com/ru/companies/bothub/news/870480/?utm_campaign=870480&utm_source=habrahabr&utm_medium=rss)
 - [Made in Japan: TSMC начала производить чипы в Японии](https://habr.com/ru/news/870472/?utm_campaign=870472&utm_source=habrahabr&utm_medium=rss)
 - [В «РЖД» тестируют робопсов для работы на потенциально опасных участках железной дороги](https://habr.com/ru/news/870458/?utm_campaign=870458&utm_source=habrahabr&utm_medium=rss)
-- [Программно-аппаратный комплекс Solar NGFW зарегистрирован в Реестре отечественного ПО Минцифры России](https://habr.com/ru/companies/solarsecurity/news/870430/?utm_campaign=870430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
