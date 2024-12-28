@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлен хак как на 100% CSS &lpar;без JavaScript&rpar; получить IP‑адрес пользователя на :root](https://habr.com/ru/news/870542/?utm_campaign=870542&utm_source=habrahabr&utm_medium=rss)
+- [YouTube тестирует кнопку «Воспроизвести что-нибудь» на Android](https://habr.com/ru/news/870548/?utm_campaign=870548&utm_source=habrahabr&utm_medium=rss)
+- [Представлен хак, как на 100% CSS &lpar;без JavaScript&rpar; получить IP‑адрес пользователя на :root](https://habr.com/ru/news/870542/?utm_campaign=870542&utm_source=habrahabr&utm_medium=rss)
 - [РКН зарегистрировал 49 тыс. каналов с 10К+ подписчиками, пока нет ответственности за неисполнение этого требования](https://habr.com/ru/news/870528/?utm_campaign=870528&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование модели Google Gemini-Exp-1206: Комплексный анализ данных и сложные визуализации менее чем за минуту](https://habr.com/ru/companies/bothub/news/870514/?utm_campaign=870514&utm_source=habrahabr&utm_medium=rss)
 - [«Каждый год 31 декабря...» или вышла новая LTS версия XWiki – 16.10.12](https://habr.com/ru/news/870512/?utm_campaign=870512&utm_source=habrahabr&utm_medium=rss)
-- [Почему новая модель AI от DeepSeek считает себя ChatGPT](https://habr.com/ru/companies/bothub/news/870510/?utm_campaign=870510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
