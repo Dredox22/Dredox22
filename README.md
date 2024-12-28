@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI готовит к выпуску модель o3: прорыв в тестах на адаптивность AI, но до AGI еще далеко](https://habr.com/ru/companies/bothub/news/870614/?utm_campaign=870614&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» создала руководство по безопасной разработке ИИ](https://habr.com/ru/news/870610/?utm_campaign=870610&utm_source=habrahabr&utm_medium=rss)
 - [Yadro выпускает первые четырёхсокетные серверы в демо](https://habr.com/ru/news/870606/?utm_campaign=870606&utm_source=habrahabr&utm_medium=rss)
 - [Китай лидер по патентам, компании провели масштабные ребрендинги, а ЕС ввел санкции: главные события 2024 года](https://habr.com/ru/companies/onlinepatent/news/870586/?utm_campaign=870586&utm_source=habrahabr&utm_medium=rss)
 - [Японские учёные представили экзоскелет для гимнастики](https://habr.com/ru/news/870574/?utm_campaign=870574&utm_source=habrahabr&utm_medium=rss)
-- [Центры обработки данных AI становятся «поразительно большими»](https://habr.com/ru/companies/bothub/news/870564/?utm_campaign=870564&utm_source=habrahabr&utm_medium=rss)
-- [В ЕС вступил в силу закон об использовании разъёмов USB-C](https://habr.com/ru/news/870560/?utm_campaign=870560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
