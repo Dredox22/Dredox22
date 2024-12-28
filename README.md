@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepseek V3: технический прорыв китайского AI, ограниченный государственной цензурой](https://habr.com/ru/companies/bothub/news/870648/?utm_campaign=870648&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры пояснило изменения в сфере связи в рамках усиления защиты от мошенников, IP-телефония продолжает работать](https://habr.com/ru/news/870644/?utm_campaign=870644&utm_source=habrahabr&utm_medium=rss)
+- [По данным BI.ZONE, две трети хостов у российских компаний уязвимы для кибератак из‑за неправильных настроек](https://habr.com/ru/news/870624/?utm_campaign=870624&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI готовит к выпуску модель o3: прорыв в тестах на адаптивность AI, но до AGI еще далеко](https://habr.com/ru/companies/bothub/news/870614/?utm_campaign=870614&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» создала руководство по безопасной разработке ИИ](https://habr.com/ru/news/870610/?utm_campaign=870610&utm_source=habrahabr&utm_medium=rss)
-- [Yadro выпускает первые четырёхсокетные серверы в демо](https://habr.com/ru/news/870606/?utm_campaign=870606&utm_source=habrahabr&utm_medium=rss)
-- [Китай лидер по патентам, компании провели масштабные ребрендинги, а ЕС ввел санкции: главные события 2024 года](https://habr.com/ru/companies/onlinepatent/news/870586/?utm_campaign=870586&utm_source=habrahabr&utm_medium=rss)
-- [Японские учёные представили экзоскелет для гимнастики](https://habr.com/ru/news/870574/?utm_campaign=870574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
