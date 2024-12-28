@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Время новогодних подарков для мира жестов](https://habr.com/ru/news/870738/?utm_campaign=870738&utm_source=habrahabr&utm_medium=rss)
 - [Adobe повышает цены на ежемесячные планы для фотографов](https://habr.com/ru/news/870716/?utm_campaign=870716&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры начали взламывать расширения компаний для Chrome](https://habr.com/ru/news/870708/?utm_campaign=870708&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи разработали первую систему AI для анализа медицинских изображений на английском и арабском языках](https://habr.com/ru/companies/bothub/news/870692/?utm_campaign=870692&utm_source=habrahabr&utm_medium=rss)
 - [Deepseek V3: технический прорыв китайского AI, ограниченный государственной цензурой](https://habr.com/ru/companies/bothub/news/870648/?utm_campaign=870648&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры пояснило изменения в сфере связи в рамках усиления защиты от мошенников, IP-телефония продолжает работать](https://habr.com/ru/news/870644/?utm_campaign=870644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
