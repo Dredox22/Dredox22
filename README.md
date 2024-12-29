@@ -72,7 +72,7 @@
 - [Данные более 800 тысяч владельцев электромобилей Volkswagen Group несколько месяцев оставались в открытом доступе](https://habr.com/ru/news/870770/?utm_campaign=870770&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил NetBSD 10.1 &lpar;16.12.24&rpar; на Toshiba 1998 года &lpar;i586 Satellite Pro с 81 МБ ОЗУ и 1 ГБ IBM 2.5&amp;quot; IDE HDD&rpar;](https://habr.com/ru/news/870768/?utm_campaign=870768&utm_source=habrahabr&utm_medium=rss)
 - [Следующий год будет трудным: Сундар Пичаи сотрудникам Google](https://habr.com/ru/news/870764/?utm_campaign=870764&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный директор Microsoft Сатья Наделла рассматривает OpenAI как «Google, Microsoft или Meta* нашего времени»](https://habr.com/ru/companies/bothub/news/870758/?utm_campaign=870758&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор Google говорит, что модель AI Gemini станет главным приоритетом компании в 2025 году](https://habr.com/ru/companies/bothub/news/870756/?utm_campaign=870756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
