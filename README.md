@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генеральный директор Google говорит, что модель AI Gemini станет главным приоритетом компании в 2025 году](https://habr.com/ru/companies/bothub/news/870756/?utm_campaign=870756&utm_source=habrahabr&utm_medium=rss)
+- [Релиз open source-платформы Cozystack v0.21: дашборд для конечных пользователей, обновление Talos и другие фичи](https://habr.com/ru/companies/aenix/news/870734/?utm_campaign=870734&utm_source=habrahabr&utm_medium=rss)
 - [Время новогодних подарков для мира жестов](https://habr.com/ru/news/870738/?utm_campaign=870738&utm_source=habrahabr&utm_medium=rss)
 - [Adobe повышает цены на ежемесячные планы для фотографов](https://habr.com/ru/news/870716/?utm_campaign=870716&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры начали взламывать расширения компаний для Chrome](https://habr.com/ru/news/870708/?utm_campaign=870708&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи разработали первую систему AI для анализа медицинских изображений на английском и арабском языках](https://habr.com/ru/companies/bothub/news/870692/?utm_campaign=870692&utm_source=habrahabr&utm_medium=rss)
-- [Deepseek V3: технический прорыв китайского AI, ограниченный государственной цензурой](https://habr.com/ru/companies/bothub/news/870648/?utm_campaign=870648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
