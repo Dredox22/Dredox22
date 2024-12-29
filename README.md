@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Следующий год будет трудным: Сундар Пичаи сотрудникам Google](https://habr.com/ru/news/870764/?utm_campaign=870764&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор Microsoft Сатья Наделла рассматривает OpenAI как «Google, Microsoft или Meta* нашего времени»](https://habr.com/ru/companies/bothub/news/870758/?utm_campaign=870758&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор Google говорит, что модель AI Gemini станет главным приоритетом компании в 2025 году](https://habr.com/ru/companies/bothub/news/870756/?utm_campaign=870756&utm_source=habrahabr&utm_medium=rss)
 - [Релиз open source-платформы Cozystack v0.21: дашборд для конечных пользователей, обновление Talos и другие фичи](https://habr.com/ru/companies/aenix/news/870734/?utm_campaign=870734&utm_source=habrahabr&utm_medium=rss)
 - [Время новогодних подарков для мира жестов](https://habr.com/ru/news/870738/?utm_campaign=870738&utm_source=habrahabr&utm_medium=rss)
-- [Adobe повышает цены на ежемесячные планы для фотографов](https://habr.com/ru/news/870716/?utm_campaign=870716&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали взламывать расширения компаний для Chrome](https://habr.com/ru/news/870708/?utm_campaign=870708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
