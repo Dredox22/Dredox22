@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Ruby 3.4.0: идентификатор it, парсер Prism и оптимизация YJIT](https://habr.com/ru/news/870828/?utm_campaign=870828&utm_source=habrahabr&utm_medium=rss)
+- [Новый уровень дискриминации: слепые дети остаются «за бортом» AI-революции](https://habr.com/ru/companies/bothub/news/870820/?utm_campaign=870820&utm_source=habrahabr&utm_medium=rss)
 - [«Крестный отец AI» определил вероятность уничтожения человечества от технологии в ближайшие 30 лет](https://habr.com/ru/companies/bothub/news/870816/?utm_campaign=870816&utm_source=habrahabr&utm_medium=rss)
 - [От медицинских компаний в США потребуют шифровать данные клиентов](https://habr.com/ru/news/870814/?utm_campaign=870814&utm_source=habrahabr&utm_medium=rss)
 - [Meta* внедряет искусственный интеллект в социальные сети, создавая профили для взаимодействия с пользователями](https://habr.com/ru/companies/bothub/news/870812/?utm_campaign=870812&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft создаёт AI Shell для командной строки Windows 11](https://habr.com/ru/news/870808/?utm_campaign=870808&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Lemontron, портативный 3D-принтер с открытым исходным кодом](https://habr.com/ru/news/870802/?utm_campaign=870802&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
