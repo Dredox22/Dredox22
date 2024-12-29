@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мексика запускает приложение для отправки уведомлений в консульство при аресте мексиканцев в США](https://habr.com/ru/news/870860/?utm_campaign=870860&utm_source=habrahabr&utm_medium=rss)
+- [Заключённые в округе Колумбия проходят курсы МТИ по веб-разработке и ремонту телеком-оборудования](https://habr.com/ru/news/870858/?utm_campaign=870858&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтверждает проблемы с установкой обновлений после Windows 11 24H2](https://habr.com/ru/news/870850/?utm_campaign=870850&utm_source=habrahabr&utm_medium=rss)
 - [Пять достижений, которые делают o3 от OpenAI поворотным моментом в развитии AI, и одна серьезная проблема](https://habr.com/ru/companies/bothub/news/870846/?utm_campaign=870846&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Ruby 3.4.0: идентификатор it, парсер Prism и оптимизация YJIT](https://habr.com/ru/news/870828/?utm_campaign=870828&utm_source=habrahabr&utm_medium=rss)
-- [Новый уровень дискриминации: слепые дети остаются «за бортом» AI-революции](https://habr.com/ru/companies/bothub/news/870820/?utm_campaign=870820&utm_source=habrahabr&utm_medium=rss)
-- [«Крестный отец AI» определил вероятность уничтожения человечества от технологии в ближайшие 30 лет](https://habr.com/ru/companies/bothub/news/870816/?utm_campaign=870816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
