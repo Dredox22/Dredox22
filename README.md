@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia откроет исходный код Run:ai](https://habr.com/ru/news/871032/?utm_campaign=871032&utm_source=habrahabr&utm_medium=rss)
+- [Вышла бета-версия дистрибутива Chimera Linux](https://habr.com/ru/news/871026/?utm_campaign=871026&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare открыла код проекта h3i для тестирования HTTP/3](https://habr.com/ru/news/871022/?utm_campaign=871022&utm_source=habrahabr&utm_medium=rss)
 - [Девять телеком-операторов, включая AT&amp;amp;T и Verizon, подверглись атаке Salt Typhoon](https://habr.com/ru/news/870982/?utm_campaign=870982&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого аудиоплеера Amarok 3.2.0](https://habr.com/ru/news/870976/?utm_campaign=870976&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект 8-битного Cody Computer](https://habr.com/ru/news/870900/?utm_campaign=870900&utm_source=habrahabr&utm_medium=rss)
-- [Китайский художник создал игру для Game Boy в память о своей покойной бабушке](https://habr.com/ru/news/870902/?utm_campaign=870902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
