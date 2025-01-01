@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI не успела выпустить обещанный Media Manager к 2025 году](https://habr.com/ru/companies/bothub/news/871198/?utm_campaign=871198&utm_source=habrahabr&utm_medium=rss)
+- [Силиконовая долина подавила движение «AI doom» в 2024 году](https://habr.com/ru/companies/bothub/news/871192/?utm_campaign=871192&utm_source=habrahabr&utm_medium=rss)
 - [Ядро Linux достигло десятилетнего минимума в 2024 году по количеству новых коммитов в год](https://habr.com/ru/news/871158/?utm_campaign=871158&utm_source=habrahabr&utm_medium=rss)
 - [С 1 января 2025 года у части карт Visa и Mastercard в РФ перестали действовать сертификаты безопасности](https://habr.com/ru/news/871150/?utm_campaign=871150&utm_source=habrahabr&utm_medium=rss)
 - [Релиз IM клиента Pidgin 3.0 Experimental 1 &lpar;pre alpha release 2.90.0&rpar;](https://habr.com/ru/news/871146/?utm_campaign=871146&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни Мартин Браун — сооснователь Team17 и руководитель игровых проектов Worms и Alien Breed](https://habr.com/ru/news/871138/?utm_campaign=871138&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: «Российские пользователи Telegram будут пользоваться большей свободой, чем Европейские ?»](https://habr.com/ru/news/871120/?utm_campaign=871120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
