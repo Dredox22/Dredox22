@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ушёл из жизни Мартин Браун — сооснователь Team17 и руководитель игровых проектов Worms и Alien Breed](https://habr.com/ru/news/871138/?utm_campaign=871138&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: «Российские пользователи Telegram будут пользоваться большей свободой, чем Европейские ?»](https://habr.com/ru/news/871120/?utm_campaign=871120&utm_source=habrahabr&utm_medium=rss)
 - [Релиз LineageOS 22 на основе Android 15](https://habr.com/ru/news/871066/?utm_campaign=871066&utm_source=habrahabr&utm_medium=rss)
 - [Россиян стали чаще обманывать для взлома WhatsApp и Telegram](https://habr.com/ru/news/871062/?utm_campaign=871062&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предупредила разработчиков о необходимости обновления ссылки на установщик .NET](https://habr.com/ru/news/871052/?utm_campaign=871052&utm_source=habrahabr&utm_medium=rss)
-- [Связанные с Китаем хакеры взломали системы Минфина США](https://habr.com/ru/news/871054/?utm_campaign=871054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
