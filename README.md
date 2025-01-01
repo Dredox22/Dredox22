@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ядро Linux достигло десятилетнего минимума в 2024 году по количеству новых коммитов в год](https://habr.com/ru/news/871158/?utm_campaign=871158&utm_source=habrahabr&utm_medium=rss)
 - [С 1 января 2025 года у части карт Visa и Mastercard в РФ перестали действовать сертификаты безопасности](https://habr.com/ru/news/871150/?utm_campaign=871150&utm_source=habrahabr&utm_medium=rss)
 - [Релиз IM клиента Pidgin 3.0 Experimental 1 &lpar;pre alpha release 2.90.0&rpar;](https://habr.com/ru/news/871146/?utm_campaign=871146&utm_source=habrahabr&utm_medium=rss)
 - [Ушёл из жизни Мартин Браун — сооснователь Team17 и руководитель игровых проектов Worms и Alien Breed](https://habr.com/ru/news/871138/?utm_campaign=871138&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: «Российские пользователи Telegram будут пользоваться большей свободой, чем Европейские ?»](https://habr.com/ru/news/871120/?utm_campaign=871120&utm_source=habrahabr&utm_medium=rss)
-- [Релиз LineageOS 22 на основе Android 15](https://habr.com/ru/news/871066/?utm_campaign=871066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
