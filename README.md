@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сёрфер из Санта-Круса покорил 32-метровую волну](https://habr.com/ru/news/871264/?utm_campaign=871264&utm_source=habrahabr&utm_medium=rss)
 - [Попай и Тинтин, а также многие первые звуковые фильмы стали общественным достоянием](https://habr.com/ru/news/871260/?utm_campaign=871260&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор X анонсировала на 2025 год запуск платёжной системы X Money](https://habr.com/ru/news/871250/?utm_campaign=871250&utm_source=habrahabr&utm_medium=rss)
 - [В США арестовали 20-летнего подозреваемого в продаже украденных личных данных абонентов AT&amp;amp;T и Verizon](https://habr.com/ru/news/871248/?utm_campaign=871248&utm_source=habrahabr&utm_medium=rss)
 - [Вышел GCC Front End для языка программирования Algol 68](https://habr.com/ru/news/871246/?utm_campaign=871246&utm_source=habrahabr&utm_medium=rss)
-- [Вышла капча DOOM CAPTCHA, где нужно убить минимум трёх монстров на секретной карте E1M9 в режиме Nightmare](https://habr.com/ru/news/871238/?utm_campaign=871238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
