@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Лос-Анджелесе произошло необычное ДТП и без робожертв: столкнулись роботакси Waymo и робот для доставки Serve Robotics](https://habr.com/ru/news/871310/?utm_campaign=871310&utm_source=habrahabr&utm_medium=rss)
 - [Представлен инструмент Minecraft для создания масштабных копий реальных мест](https://habr.com/ru/news/871302/?utm_campaign=871302&utm_source=habrahabr&utm_medium=rss)
 - [[RU] Состоялся релиз инструмента v1.4.2 поиска по нику — Snoop Project](https://habr.com/ru/news/871282/?utm_campaign=871282&utm_source=habrahabr&utm_medium=rss)
 - [Сёрфер из Санта-Круса покорил 32-метровую волну](https://habr.com/ru/news/871264/?utm_campaign=871264&utm_source=habrahabr&utm_medium=rss)
 - [Попай и Тинтин, а также многие первые звуковые фильмы стали общественным достоянием](https://habr.com/ru/news/871260/?utm_campaign=871260&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный директор X анонсировала на 2025 год запуск платёжной системы X Money](https://habr.com/ru/news/871250/?utm_campaign=871250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
