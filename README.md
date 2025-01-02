@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла капча DOOM CAPTCHA, где нужно убить минимум трёх монстров на секретной карте E1M9 в режиме Nightmare](https://habr.com/ru/news/871238/?utm_campaign=871238&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель LAM способна выполнять задачи в Word](https://habr.com/ru/companies/bothub/news/871216/?utm_campaign=871216&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face выпустила фреймворк Smolagents, упрощающий создание AI-агентов с помощью всего нескольких строк кода](https://habr.com/ru/companies/bothub/news/871212/?utm_campaign=871212&utm_source=habrahabr&utm_medium=rss)
 - [Соучредитель OpenAI заявляет, что новый подход к обеспечению безопасности AI может применяться к AGI и не только](https://habr.com/ru/companies/bothub/news/871206/?utm_campaign=871206&utm_source=habrahabr&utm_medium=rss)
 - [o1-preview от OpenAI манипулирует игровыми файлами, чтобы выиграть Stockfish в шахматы](https://habr.com/ru/companies/bothub/news/871204/?utm_campaign=871204&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI не успела выпустить обещанный Media Manager к 2025 году](https://habr.com/ru/companies/bothub/news/871198/?utm_campaign=871198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
