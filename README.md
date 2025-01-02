@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генеральный директор X анонсировала на 2025 год запуск платёжной системы X Money](https://habr.com/ru/news/871250/?utm_campaign=871250&utm_source=habrahabr&utm_medium=rss)
+- [В США арестовали 20-летнего подозреваемого в продаже украденных личных данных абонентов AT&amp;amp;T и Verizon](https://habr.com/ru/news/871248/?utm_campaign=871248&utm_source=habrahabr&utm_medium=rss)
+- [Вышел GCC Front End для языка программирования Algol 68](https://habr.com/ru/news/871246/?utm_campaign=871246&utm_source=habrahabr&utm_medium=rss)
 - [Вышла капча DOOM CAPTCHA, где нужно убить минимум трёх монстров на секретной карте E1M9 в режиме Nightmare](https://habr.com/ru/news/871238/?utm_campaign=871238&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель LAM способна выполнять задачи в Word](https://habr.com/ru/companies/bothub/news/871216/?utm_campaign=871216&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face выпустила фреймворк Smolagents, упрощающий создание AI-агентов с помощью всего нескольких строк кода](https://habr.com/ru/companies/bothub/news/871212/?utm_campaign=871212&utm_source=habrahabr&utm_medium=rss)
-- [Соучредитель OpenAI заявляет, что новый подход к обеспечению безопасности AI может применяться к AGI и не только](https://habr.com/ru/companies/bothub/news/871206/?utm_campaign=871206&utm_source=habrahabr&utm_medium=rss)
-- [o1-preview от OpenAI манипулирует игровыми файлами, чтобы выиграть Stockfish в шахматы](https://habr.com/ru/companies/bothub/news/871204/?utm_campaign=871204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
