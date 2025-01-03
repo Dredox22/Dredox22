@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI лучше учится математике с новым подходом, использующим лишь долю данных](https://habr.com/ru/companies/bothub/news/871482/?utm_campaign=871482&utm_source=habrahabr&utm_medium=rss)
+- [Claude от Anthropic больше не может цитировать ваши любимые песни](https://habr.com/ru/companies/bothub/news/871478/?utm_campaign=871478&utm_source=habrahabr&utm_medium=rss)
+- [Лаборатория Qwen AI компании Alibaba запускает фреймворк для создания AI-агентов](https://habr.com/ru/companies/bothub/news/871476/?utm_campaign=871476&utm_source=habrahabr&utm_medium=rss)
 - [Ушёл из жизни Ноа Гиббс &lpar;Noah Gibbs&rpar; — один из основных разработчиков и менторов сообщества Ruby](https://habr.com/ru/news/871450/?utm_campaign=871450&utm_source=habrahabr&utm_medium=rss)
 - [Из индийских App Store и Google Play удалено несколько VPN-приложений по требованию Министерства внутренних дел Индии](https://habr.com/ru/news/871442/?utm_campaign=871442&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь Reddit пожаловался на засилье ИИ-контента в выдаче Google и получил рекомендацию, как от него избавиться](https://habr.com/ru/news/871414/?utm_campaign=871414&utm_source=habrahabr&utm_medium=rss)
-- [Перенос AndroidAPS в часы с Wear OS](https://habr.com/ru/news/871404/?utm_campaign=871404&utm_source=habrahabr&utm_medium=rss)
-- [Релиз стандартной библиотеки newlib 4.5.0](https://habr.com/ru/news/871400/?utm_campaign=871400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
