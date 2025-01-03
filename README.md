@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь Reddit пожаловался на засилье ИИ-контента в выдаче Google и получил рекомендацию, как от него избавиться](https://habr.com/ru/news/871414/?utm_campaign=871414&utm_source=habrahabr&utm_medium=rss)
 - [Перенос AndroidAPS в часы с Wear OS](https://habr.com/ru/news/871404/?utm_campaign=871404&utm_source=habrahabr&utm_medium=rss)
 - [Релиз стандартной библиотеки newlib 4.5.0](https://habr.com/ru/news/871400/?utm_campaign=871400&utm_source=habrahabr&utm_medium=rss)
 - [Музыкальные издатели достигли соглашения с Anthropic по поводу обучения ИИ и текстов песен, защищённых авторским правом](https://habr.com/ru/news/871398/?utm_campaign=871398&utm_source=habrahabr&utm_medium=rss)
 - [Американский судья во время заседания использовал VR-шлем Oculus Quest 2 для реконструкции ситуации по самообороне](https://habr.com/ru/news/871396/?utm_campaign=871396&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI так и не выпустила инструмент Media Manager для защиты авторских прав к 2025 году](https://habr.com/ru/news/871378/?utm_campaign=871378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
