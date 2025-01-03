@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI так и не выпустила инструмент Media Manager для защиты авторских прав к 2025 году](https://habr.com/ru/news/871378/?utm_campaign=871378&utm_source=habrahabr&utm_medium=rss)
 - [Apple выплатит $95 млн в рамках урегулирования коллективного иска, связанного с подслушиванием голосового помощника Siri](https://habr.com/ru/news/871372/?utm_campaign=871372&utm_source=habrahabr&utm_medium=rss)
 - [Релиз ZLUDA 4.0 — инструментария для запуска CUDA-приложений на GPU AMD](https://habr.com/ru/news/871362/?utm_campaign=871362&utm_source=habrahabr&utm_medium=rss)
 - [В Лос-Анджелесе произошло необычное ДТП и без робожертв: столкнулись роботакси Waymo и робот для доставки Serve Robotics](https://habr.com/ru/news/871310/?utm_campaign=871310&utm_source=habrahabr&utm_medium=rss)
 - [Представлен инструмент Minecraft для создания масштабных копий реальных мест](https://habr.com/ru/news/871302/?utm_campaign=871302&utm_source=habrahabr&utm_medium=rss)
-- [[RU] Состоялся релиз инструмента v1.4.2 поиска по нику — Snoop Project](https://habr.com/ru/news/871282/?utm_campaign=871282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
