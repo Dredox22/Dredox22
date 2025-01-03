@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ушёл из жизни Ноа Гиббс &lpar;Noah Gibbs&rpar; — один из основных разработчиков и менторов сообщества Ruby](https://habr.com/ru/news/871450/?utm_campaign=871450&utm_source=habrahabr&utm_medium=rss)
 - [Из индийских App Store и Google Play удалено несколько VPN-приложений по требованию Министерства внутренних дел Индии](https://habr.com/ru/news/871442/?utm_campaign=871442&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь Reddit пожаловался на засилье ИИ-контента в выдаче Google и получил рекомендацию, как от него избавиться](https://habr.com/ru/news/871414/?utm_campaign=871414&utm_source=habrahabr&utm_medium=rss)
 - [Перенос AndroidAPS в часы с Wear OS](https://habr.com/ru/news/871404/?utm_campaign=871404&utm_source=habrahabr&utm_medium=rss)
 - [Релиз стандартной библиотеки newlib 4.5.0](https://habr.com/ru/news/871400/?utm_campaign=871400&utm_source=habrahabr&utm_medium=rss)
-- [Музыкальные издатели достигли соглашения с Anthropic по поводу обучения ИИ и текстов песен, защищённых авторским правом](https://habr.com/ru/news/871398/?utm_campaign=871398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
