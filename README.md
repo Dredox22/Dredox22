@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Перенос AndroidAPS в часы с Wear OS](https://habr.com/ru/news/871404/?utm_campaign=871404&utm_source=habrahabr&utm_medium=rss)
+- [Релиз стандартной библиотеки newlib 4.5.0](https://habr.com/ru/news/871400/?utm_campaign=871400&utm_source=habrahabr&utm_medium=rss)
+- [Музыкальные издатели достигли соглашения с Anthropic по поводу обучения ИИ и текстов песен, защищённых авторским правом](https://habr.com/ru/news/871398/?utm_campaign=871398&utm_source=habrahabr&utm_medium=rss)
+- [Американский судья во время заседания использовал VR-шлем Oculus Quest 2 для реконструкции ситуации по самообороне](https://habr.com/ru/news/871396/?utm_campaign=871396&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI так и не выпустила инструмент Media Manager для защиты авторских прав к 2025 году](https://habr.com/ru/news/871378/?utm_campaign=871378&utm_source=habrahabr&utm_medium=rss)
-- [Apple выплатит $95 млн в рамках урегулирования коллективного иска, связанного с подслушиванием голосового помощника Siri](https://habr.com/ru/news/871372/?utm_campaign=871372&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ZLUDA 4.0 — инструментария для запуска CUDA-приложений на GPU AMD](https://habr.com/ru/news/871362/?utm_campaign=871362&utm_source=habrahabr&utm_medium=rss)
-- [В Лос-Анджелесе произошло необычное ДТП и без робожертв: столкнулись роботакси Waymo и робот для доставки Serve Robotics](https://habr.com/ru/news/871310/?utm_campaign=871310&utm_source=habrahabr&utm_medium=rss)
-- [Представлен инструмент Minecraft для создания масштабных копий реальных мест](https://habr.com/ru/news/871302/?utm_campaign=871302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
