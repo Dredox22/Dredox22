@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC обязала стартап accessiBe, занимающийся обеспечением доступности AI, выплатить 1 млн $ за недостоверную рекламу](https://habr.com/ru/companies/bothub/news/871652/?utm_campaign=871652&utm_source=habrahabr&utm_medium=rss)
+- [AI-модель нового поколения xAI не была представлена вовремя, что стало тенденцией](https://habr.com/ru/companies/bothub/news/871650/?utm_campaign=871650&utm_source=habrahabr&utm_medium=rss)
 - [Дебаты о будущем AI: безопасность против инноваций в 2024 году и перспективы на 2025](https://habr.com/ru/companies/bothub/news/871640/?utm_campaign=871640&utm_source=habrahabr&utm_medium=rss)
 - [Необычные AI-тесты: от Уилла Смита с пастой до Minecraft](https://habr.com/ru/companies/bothub/news/871636/?utm_campaign=871636&utm_source=habrahabr&utm_medium=rss)
 - [Бразильский стартап Carecode, при поддержке a16z и QED, внедряет AI-агентов в медицину](https://habr.com/ru/companies/bothub/news/871632/?utm_campaign=871632&utm_source=habrahabr&utm_medium=rss)
-- [Центры обработки данных искусственного интеллекта могут ‘искажать’ работу энергосистемы США](https://habr.com/ru/companies/bothub/news/871628/?utm_campaign=871628&utm_source=habrahabr&utm_medium=rss)
-- [GenEx пытается научить AI представлять, что находится «за углом»](https://habr.com/ru/companies/bothub/news/871590/?utm_campaign=871590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
