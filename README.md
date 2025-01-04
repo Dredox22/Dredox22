@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дебаты о будущем AI: безопасность против инноваций в 2024 году и перспективы на 2025](https://habr.com/ru/companies/bothub/news/871640/?utm_campaign=871640&utm_source=habrahabr&utm_medium=rss)
+- [Необычные AI-тесты: от Уилла Смита с пастой до Minecraft](https://habr.com/ru/companies/bothub/news/871636/?utm_campaign=871636&utm_source=habrahabr&utm_medium=rss)
+- [Бразильский стартап Carecode, при поддержке a16z и QED, внедряет AI-агентов в медицину](https://habr.com/ru/companies/bothub/news/871632/?utm_campaign=871632&utm_source=habrahabr&utm_medium=rss)
 - [Центры обработки данных искусственного интеллекта могут ‘искажать’ работу энергосистемы США](https://habr.com/ru/companies/bothub/news/871628/?utm_campaign=871628&utm_source=habrahabr&utm_medium=rss)
 - [GenEx пытается научить AI представлять, что находится «за углом»](https://habr.com/ru/companies/bothub/news/871590/?utm_campaign=871590&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Winlator 9.0, окружения для запуска Windows-приложений в Android](https://habr.com/ru/news/871584/?utm_campaign=871584&utm_source=habrahabr&utm_medium=rss)
-- [Meta* показывает, что языковые модели все еще не могут пройти сложные тесты по теории разума](https://habr.com/ru/companies/bothub/news/871548/?utm_campaign=871548&utm_source=habrahabr&utm_medium=rss)
-- [Чем заняться в новогодние праздники: 15 бесплатных курсов и занятий для тех, кто хочет научиться чему-то новому](https://habr.com/ru/companies/netologyru/news/870364/?utm_campaign=870364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
