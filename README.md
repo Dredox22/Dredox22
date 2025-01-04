@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем заняться в новогодние праздники: 15 бесплатных курсов и занятий для тех, кто хочет научиться чему-то новому](https://habr.com/ru/companies/netologyru/news/870364/?utm_campaign=870364&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты ESET рекомендуют в 2025 году установить Linux на ПК с Windows 10, которые нельзя обновить до Windows 11](https://habr.com/ru/news/871524/?utm_campaign=871524&utm_source=habrahabr&utm_medium=rss)
 - [Getty Images изучает возможность слияния с Shutterstock](https://habr.com/ru/news/871522/?utm_campaign=871522&utm_source=habrahabr&utm_medium=rss)
 - [Компьютерные системы Федеральной полиции вышли из строя в аэропортах по всей Германии](https://habr.com/ru/news/871514/?utm_campaign=871514&utm_source=habrahabr&utm_medium=rss)
 - [Релиз менеджера файлов Total Commander 11.50](https://habr.com/ru/news/871512/?utm_campaign=871512&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.2](https://habr.com/ru/news/871506/?utm_campaign=871506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
