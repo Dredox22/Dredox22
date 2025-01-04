@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компьютерные системы Федеральной полиции вышли из строя в аэропортах по всей Германии](https://habr.com/ru/news/871514/?utm_campaign=871514&utm_source=habrahabr&utm_medium=rss)
+- [Релиз менеджера файлов Total Commander 11.50](https://habr.com/ru/news/871512/?utm_campaign=871512&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.2](https://habr.com/ru/news/871506/?utm_campaign=871506&utm_source=habrahabr&utm_medium=rss)
 - [AI лучше учится математике с новым подходом, использующим лишь долю данных](https://habr.com/ru/companies/bothub/news/871482/?utm_campaign=871482&utm_source=habrahabr&utm_medium=rss)
 - [Claude от Anthropic больше не может цитировать ваши любимые песни](https://habr.com/ru/companies/bothub/news/871478/?utm_campaign=871478&utm_source=habrahabr&utm_medium=rss)
-- [Лаборатория Qwen AI компании Alibaba запускает фреймворк для создания AI-агентов](https://habr.com/ru/companies/bothub/news/871476/?utm_campaign=871476&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни Ноа Гиббс &lpar;Noah Gibbs&rpar; — один из основных разработчиков и менторов сообщества Ruby](https://habr.com/ru/news/871450/?utm_campaign=871450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
