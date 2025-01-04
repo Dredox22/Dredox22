@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GenEx пытается научить AI представлять, что находится «за углом»](https://habr.com/ru/companies/bothub/news/871590/?utm_campaign=871590&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Winlator 9.0, окружения для запуска Windows-приложений в Android](https://habr.com/ru/news/871584/?utm_campaign=871584&utm_source=habrahabr&utm_medium=rss)
 - [Meta* показывает, что языковые модели все еще не могут пройти сложные тесты по теории разума](https://habr.com/ru/companies/bothub/news/871548/?utm_campaign=871548&utm_source=habrahabr&utm_medium=rss)
 - [Чем заняться в новогодние праздники: 15 бесплатных курсов и занятий для тех, кто хочет научиться чему-то новому](https://habr.com/ru/companies/netologyru/news/870364/?utm_campaign=870364&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты ESET рекомендуют в 2025 году установить Linux на ПК с Windows 10, которые нельзя обновить до Windows 11](https://habr.com/ru/news/871524/?utm_campaign=871524&utm_source=habrahabr&utm_medium=rss)
-- [Getty Images изучает возможность слияния с Shutterstock](https://habr.com/ru/news/871522/?utm_campaign=871522&utm_source=habrahabr&utm_medium=rss)
-- [Компьютерные системы Федеральной полиции вышли из строя в аэропортах по всей Германии](https://habr.com/ru/news/871514/?utm_campaign=871514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
