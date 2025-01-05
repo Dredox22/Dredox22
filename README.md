@@ -72,7 +72,7 @@
 - [Apple Intelligence на iPhone теперь требует вдвое больше памяти](https://habr.com/ru/news/871696/?utm_campaign=871696&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустила расширение для обобщения контента в Firefox с помощью ИИ](https://habr.com/ru/news/871688/?utm_campaign=871688&utm_source=habrahabr&utm_medium=rss)
 - [Вышла стабильная версия свободного 2D САПР LibreCAD 2.2.1](https://habr.com/ru/news/871680/?utm_campaign=871680&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала начала сканировать с помощью ИИ локальные пользовательские фотографии на предмет достопримечательностей](https://habr.com/ru/news/871678/?utm_campaign=871678&utm_source=habrahabr&utm_medium=rss)
+- [Apple начала сканировать с помощью ИИ локальные пользовательские фотографии на предмет достопримечательностей](https://habr.com/ru/news/871678/?utm_campaign=871678&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
