@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в январе](https://habr.com/ru/companies/netologyru/news/870516/?utm_campaign=870516&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи при поиске Google в Bing попадают на поддельную страницу поисковика](https://habr.com/ru/news/871924/?utm_campaign=871924&utm_source=habrahabr&utm_medium=rss)
+- [Deepseek v3 на уровне o1 OpenAI: что показывают независимые бенчмарки](https://habr.com/ru/companies/bothub/news/871926/?utm_campaign=871926&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: причиной массового сбоя сервисов в РФ стала авария на магистральной сети у одного из операторов связи](https://habr.com/ru/news/871886/?utm_campaign=871886&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик запустил удалённое выполнение кода на уровне прошивки на синтезаторе Yamaha PSR-E433 через MIDI-сообщения](https://habr.com/ru/news/871882/?utm_campaign=871882&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи рунета сообщили о проблемах с доступом к различным сервисам в сети](https://habr.com/ru/news/871874/?utm_campaign=871874&utm_source=habrahabr&utm_medium=rss)
-- [В Индии объявили о премии в размере $1 млн за расшифровку письменности долины Инда](https://habr.com/ru/news/871866/?utm_campaign=871866&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил проект Killed by LLM, где опубликованы бенчмарки, которые были побеждены прогрессом ИИ](https://habr.com/ru/news/871838/?utm_campaign=871838&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект удалённого выполнения кода на уровне прошивки на синтезаторе Yamaha PSR-E433 через MIDI-сообщения](https://habr.com/ru/news/871882/?utm_campaign=871882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
