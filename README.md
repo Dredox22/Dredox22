@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube-блогер подал в суд на PayPal из-за расширения Honey с подменой ссылок](https://habr.com/ru/news/871812/?utm_campaign=871812&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект TypeScript Type Predicate Generator](https://habr.com/ru/news/871774/?utm_campaign=871774&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Poetry 2.0 — инструмента для управления зависимостями в Python проектах](https://habr.com/ru/news/871770/?utm_campaign=871770&utm_source=habrahabr&utm_medium=rss)
 - [Google запускает SALT: Новый способ ускоренного обучения больших моделей AI с помощью малых](https://habr.com/ru/companies/bothub/news/871742/?utm_campaign=871742&utm_source=habrahabr&utm_medium=rss)
 - [Apple Intelligence на iPhone теперь требует вдвое больше памяти](https://habr.com/ru/news/871696/?utm_campaign=871696&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla выпустила расширение для обобщения контента в Firefox с помощью ИИ](https://habr.com/ru/news/871688/?utm_campaign=871688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
