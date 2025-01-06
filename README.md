@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи рунета сообщили о проблемах с доступом к различным сервисам в сети](https://habr.com/ru/news/871874/?utm_campaign=871874&utm_source=habrahabr&utm_medium=rss)
 - [В Индии объявили о премии в размере $1 млн за расшифровку письменности долины Инда](https://habr.com/ru/news/871866/?utm_campaign=871866&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил проект Killed by LLM, где опубликованы бенчмарки, которые были побеждены прогрессом ИИ](https://habr.com/ru/news/871838/?utm_campaign=871838&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект DOOM: The Gallery Experience, где можно оценивать произведения мирового искусства на игровой карте](https://habr.com/ru/news/871832/?utm_campaign=871832&utm_source=habrahabr&utm_medium=rss)
 - [YouTube-блогер подал в суд на PayPal из-за расширения Honey с подменой ссылок](https://habr.com/ru/news/871812/?utm_campaign=871812&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект TypeScript Type Predicate Generator](https://habr.com/ru/news/871774/?utm_campaign=871774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
