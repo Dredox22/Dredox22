@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RetroLLM: расширение возможностей больших языковых моделей для получения точных данных в процессе генерации](https://habr.com/ru/companies/bothub/news/871708/?utm_campaign=871708&utm_source=habrahabr&utm_medium=rss)
+- [Inworld AI в партнёрстве с Nvidia и Streamlabs представляет первого в мире AI-помощника для потокового вещания](https://habr.com/ru/companies/bothub/news/872062/?utm_campaign=872062&utm_source=habrahabr&utm_medium=rss)
 - [Instagram* начал тестировать рекламу с лицами пользователей](https://habr.com/ru/companies/bothub/news/872058/?utm_campaign=872058&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представляет автономных игровых персонажей ACE с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/872048/?utm_campaign=872048&utm_source=habrahabr&utm_medium=rss)
 - [Google формирует AI-команду для создания виртуальных миров в играх и обучения роботов](https://habr.com/ru/companies/bothub/news/872036/?utm_campaign=872036&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 134.0](https://habr.com/ru/news/872028/?utm_campaign=872028&utm_source=habrahabr&utm_medium=rss)
-- [Python — язык программирования 2024 года по версии рейтинга TIOBE](https://habr.com/ru/news/872022/?utm_campaign=872022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
