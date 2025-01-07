@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 134.0](https://habr.com/ru/news/872028/?utm_campaign=872028&utm_source=habrahabr&utm_medium=rss)
+- [Python — язык программирования 2024 года по версии рейтинга TIOBE](https://habr.com/ru/news/872022/?utm_campaign=872022&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft настаивает на переходе к Windows 11, не оставляя выбора пользователям](https://habr.com/ru/news/871996/?utm_campaign=871996&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры Eutelsat забыли про 366-й день в 2024 году, что привело к сбою на двое суток в работе сервисов сети OneWeb](https://habr.com/ru/news/871994/?utm_campaign=871994&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NWinfo 1.1.0 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/871974/?utm_campaign=871974&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в январе](https://habr.com/ru/companies/netologyru/news/870516/?utm_campaign=870516&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи при поиске Google в Bing попадают на поддельную страницу поисковика](https://habr.com/ru/news/871924/?utm_campaign=871924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
