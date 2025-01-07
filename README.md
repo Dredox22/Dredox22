@@ -70,9 +70,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Samsung утверждает, что AI-робот Ballie действительно будет выпущен в этом году](https://habr.com/ru/companies/bothub/news/872070/?utm_campaign=872070&utm_source=habrahabr&utm_medium=rss)
 - [Telegram передал данные 2253 пользователей‑«преступников» &lpar;IP-адреса и номера телефонов&rpar; правоохранительным органам США](https://habr.com/ru/news/872074/?utm_campaign=872074&utm_source=habrahabr&utm_medium=rss)
-- [Apple обновит отображение уведомлений для предотвращения искажений текста искусственным интеллектом](https://habr.com/ru/companies/bothub/news/872064/?utm_campaign=872064&utm_source=habrahabr&utm_medium=rss)
 - [RetroLLM: расширение возможностей больших языковых моделей для получения точных данных в процессе генерации](https://habr.com/ru/companies/bothub/news/871708/?utm_campaign=871708&utm_source=habrahabr&utm_medium=rss)
 - [Inworld AI в партнёрстве с Nvidia и Streamlabs представляет первого в мире AI-помощника для потокового вещания](https://habr.com/ru/companies/bothub/news/872062/?utm_campaign=872062&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представляет автономных игровых персонажей ACE с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/872048/?utm_campaign=872048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
