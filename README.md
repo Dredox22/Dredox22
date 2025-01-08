@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm: чипы Snapdragon X для ноутбуков и настольных компьютеров на Windows](https://habr.com/ru/companies/bothub/news/872106/?utm_campaign=872106&utm_source=habrahabr&utm_medium=rss)
 - [Новый экзоскелет German Bionic выдерживает вес до 36 кг](https://habr.com/ru/companies/bothub/news/872100/?utm_campaign=872100&utm_source=habrahabr&utm_medium=rss)
 - [Uber объединяется с Nvidia, чтобы ускорить внедрение автономного вождения](https://habr.com/ru/companies/bothub/news/872102/?utm_campaign=872102&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI на пороге выпуска AI-агента «Operator» с упором на безопасность и автоматизацию процессов](https://habr.com/ru/companies/bothub/news/872092/?utm_campaign=872092&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман о будущем OpenAI: путь к AGI и вызовы на пути к сверхразуму](https://habr.com/ru/companies/bothub/news/872082/?utm_campaign=872082&utm_source=habrahabr&utm_medium=rss)
-- [Samsung утверждает, что AI-робот Ballie действительно будет выпущен в этом году](https://habr.com/ru/companies/bothub/news/872070/?utm_campaign=872070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
