@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* предлагает новые масштабируемые слои памяти](https://habr.com/ru/companies/bothub/news/872194/?utm_campaign=872194&utm_source=habrahabr&utm_medium=rss)
 - [Вышли релизы безопасности Joomla 5.2.3 и Joomla 4.4.10](https://habr.com/ru/news/872172/?utm_campaign=872172&utm_source=habrahabr&utm_medium=rss)
 - [Getty Images и Shutterstock объединяются в один крупный фотобанк](https://habr.com/ru/news/872144/?utm_campaign=872144&utm_source=habrahabr&utm_medium=rss)
 - [Ноутбук со сворачивающимся дисплеем Lenovo ThinkBook Plus Gen 6 Rollable выйдет на рынок в этом году по цене от $3500](https://habr.com/ru/news/872136/?utm_campaign=872136&utm_source=habrahabr&utm_medium=rss)
 - [Росреестр опроверг крупную утечку данных пользователей из Единого государственного реестра объектов недвижимости &lpar;ЕГРН&rpar;](https://habr.com/ru/news/872126/?utm_campaign=872126&utm_source=habrahabr&utm_medium=rss)
-- [Qualcomm: чипы Snapdragon X для ноутбуков и настольных компьютеров на Windows](https://habr.com/ru/companies/bothub/news/872106/?utm_campaign=872106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
