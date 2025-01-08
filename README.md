@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компании отдают приоритет подготовке специалистов по работе с AI, а не сокращению рабочих мест](https://habr.com/ru/companies/bothub/news/872280/?utm_campaign=872280&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпускает полную модель Phi-4 с весами по лицензии MIT](https://habr.com/ru/companies/bothub/news/872274/?utm_campaign=872274&utm_source=habrahabr&utm_medium=rss)
 - [Футбольные тренеры вскоре смогут обратиться к искусственному интеллекту, чтобы найти следующую суперзвезду](https://habr.com/ru/companies/bothub/news/872272/?utm_campaign=872272&utm_source=habrahabr&utm_medium=rss)
 - [В 2024 году финансирование AI-стартапов достигло рекордной суммы в 97 млрд $](https://habr.com/ru/companies/bothub/news/872266/?utm_campaign=872266&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo анонсировала портативный игровой ПК на SteamOS за $500](https://habr.com/ru/news/872262/?utm_campaign=872262&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia анонсировала персональный ИИ-суперкомпьютер за $3 тысячи](https://habr.com/ru/news/872246/?utm_campaign=872246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
