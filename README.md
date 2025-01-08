@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпускает полную модель Phi-4 с весами по лицензии MIT](https://habr.com/ru/companies/bothub/news/872274/?utm_campaign=872274&utm_source=habrahabr&utm_medium=rss)
+- [Футбольные тренеры вскоре смогут обратиться к искусственному интеллекту, чтобы найти следующую суперзвезду](https://habr.com/ru/companies/bothub/news/872272/?utm_campaign=872272&utm_source=habrahabr&utm_medium=rss)
 - [В 2024 году финансирование AI-стартапов достигло рекордной суммы в 97 млрд $](https://habr.com/ru/companies/bothub/news/872266/?utm_campaign=872266&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo анонсировала портативный игровой ПК на SteamOS за $500](https://habr.com/ru/news/872262/?utm_campaign=872262&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia анонсировала персональный ИИ-суперкомпьютер за $3 тысячи](https://habr.com/ru/news/872246/?utm_campaign=872246&utm_source=habrahabr&utm_medium=rss)
-- [Meta* предлагает новые масштабируемые слои памяти](https://habr.com/ru/companies/bothub/news/872194/?utm_campaign=872194&utm_source=habrahabr&utm_medium=rss)
-- [Вышли релизы безопасности Joomla 5.2.3 и Joomla 4.4.10](https://habr.com/ru/news/872172/?utm_campaign=872172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
