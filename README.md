@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ноутбук со сворачивающимся дисплеем Lenovo ThinkBook Plus Gen 6 Rollable выйдет на рынок в этом году по цене от $3500](https://habr.com/ru/news/872136/?utm_campaign=872136&utm_source=habrahabr&utm_medium=rss)
 - [Росреестр опроверг крупную утечку данных пользователей из Единого государственного реестра объектов недвижимости &lpar;ЕГРН&rpar;](https://habr.com/ru/news/872126/?utm_campaign=872126&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm: чипы Snapdragon X для ноутбуков и настольных компьютеров на Windows](https://habr.com/ru/companies/bothub/news/872106/?utm_campaign=872106&utm_source=habrahabr&utm_medium=rss)
 - [Новый экзоскелет German Bionic выдерживает вес до 36 кг](https://habr.com/ru/companies/bothub/news/872100/?utm_campaign=872100&utm_source=habrahabr&utm_medium=rss)
 - [Uber объединяется с Nvidia, чтобы ускорить внедрение автономного вождения](https://habr.com/ru/companies/bothub/news/872102/?utm_campaign=872102&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI на пороге выпуска AI-агента «Operator» с упором на безопасность и автоматизацию процессов](https://habr.com/ru/companies/bothub/news/872092/?utm_campaign=872092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
