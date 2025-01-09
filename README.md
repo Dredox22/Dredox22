@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Илон Маск согласен с тем, что достигнут предел данных по обучению AI](https://habr.com/ru/companies/bothub/news/872594/?utm_campaign=872594&utm_source=habrahabr&utm_medium=rss)
 - [Grok, вероятно, в скором времени получит «безумный режим»](https://habr.com/ru/companies/bothub/news/872588/?utm_campaign=872588&utm_source=habrahabr&utm_medium=rss)
 - [Маск заявил, что объём доступных знаний для обучения ИИ исчерпан](https://habr.com/ru/news/872586/?utm_campaign=872586&utm_source=habrahabr&utm_medium=rss)
 - [Франсуа Шоле является соучредителем некоммерческой организации по разработке бенчмарков для AGI](https://habr.com/ru/companies/bothub/news/872584/?utm_campaign=872584&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tails 6.11](https://habr.com/ru/news/872576/?utm_campaign=872576&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: власти выделят на технологии 5G Advanced и 6G в пять раз меньше запрошенной суммы](https://habr.com/ru/news/872542/?utm_campaign=872542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
