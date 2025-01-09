@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Премьера Платформы nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/872214/?utm_campaign=872214&utm_source=habrahabr&utm_medium=rss)
 - [В PyPI появилась опция карантина, с помощью которой можно временно закрывать заражённые проекты](https://habr.com/ru/news/872336/?utm_campaign=872336&utm_source=habrahabr&utm_medium=rss)
 - [Based Hardware повысит производительность пользователей с помощью ИИ, мозгового интерфейса и носимого гаджета Omi](https://habr.com/ru/news/872330/?utm_campaign=872330&utm_source=habrahabr&utm_medium=rss)
 - [MIK32 Амур на Озон](https://habr.com/ru/news/872302/?utm_campaign=872302&utm_source=habrahabr&utm_medium=rss)
 - [В работе GitHub произошёл глобальный сбой](https://habr.com/ru/news/872318/?utm_campaign=872318&utm_source=habrahabr&utm_medium=rss)
-- [Компании отдают приоритет подготовке специалистов по работе с AI, а не сокращению рабочих мест](https://habr.com/ru/companies/bothub/news/872280/?utm_campaign=872280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
