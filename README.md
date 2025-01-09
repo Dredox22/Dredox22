@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т‑Банк» завершил интеграцию «Росбанка». Часть клиентов пожаловалась на технический сбой во время этого процесса](https://habr.com/ru/news/872452/?utm_campaign=872452&utm_source=habrahabr&utm_medium=rss)
+- [Власти США запустили маркировку безопасности Cyber ​​Trust для умных устройств](https://habr.com/ru/news/872448/?utm_campaign=872448&utm_source=habrahabr&utm_medium=rss)
 - [В РФ утвердили концепцию госсистемы противодействия преступлениям, совершаемым с помощью цифровых технологий](https://habr.com/ru/news/872436/?utm_campaign=872436&utm_source=habrahabr&utm_medium=rss)
 - [В РФ хотят «защитить детей от деструктивного контента»](https://habr.com/ru/news/872414/?utm_campaign=872414&utm_source=habrahabr&utm_medium=rss)
 - [В МВД определили две схемы доступа мошенников к «Госуслугам»](https://habr.com/ru/news/872412/?utm_campaign=872412&utm_source=habrahabr&utm_medium=rss)
-- [Дым, отражения и порталы: Adobe TransPixar выводит AI VFX на новый уровень](https://habr.com/ru/companies/bothub/news/872286/?utm_campaign=872286&utm_source=habrahabr&utm_medium=rss)
-- [Популярный ДНК-секвенатор оказался уязвим из-за 7-летней прошивки](https://habr.com/ru/news/872372/?utm_campaign=872372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
