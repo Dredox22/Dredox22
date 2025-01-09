@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дым, отражения и порталы: Adobe TransPixar выводит AI VFX на новый уровень](https://habr.com/ru/companies/bothub/news/872286/?utm_campaign=872286&utm_source=habrahabr&utm_medium=rss)
 - [Популярный ДНК-секвенатор оказался уязвим из-за 7-летней прошивки](https://habr.com/ru/news/872372/?utm_campaign=872372&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила заявление по поводу иска о прослушке Siri](https://habr.com/ru/news/872356/?utm_campaign=872356&utm_source=habrahabr&utm_medium=rss)
 - [Премьера Платформы nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/872214/?utm_campaign=872214&utm_source=habrahabr&utm_medium=rss)
 - [В PyPI появилась опция карантина, с помощью которой можно временно закрывать заражённые проекты](https://habr.com/ru/news/872336/?utm_campaign=872336&utm_source=habrahabr&utm_medium=rss)
-- [Based Hardware повысит производительность пользователей с помощью ИИ, мозгового интерфейса и носимого гаджета Omi](https://habr.com/ru/news/872330/?utm_campaign=872330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
