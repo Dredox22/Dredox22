@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Франсуа Шоле является соучредителем некоммерческой организации по разработке бенчмарков для AGI](https://habr.com/ru/companies/bothub/news/872584/?utm_campaign=872584&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tails 6.11](https://habr.com/ru/news/872576/?utm_campaign=872576&utm_source=habrahabr&utm_medium=rss)
 - [Forbes: власти выделят на технологии 5G Advanced и 6G в пять раз меньше запрошенной суммы](https://habr.com/ru/news/872542/?utm_campaign=872542&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg: власти США разделят мир на три зоны доступности ИИ-технологий](https://habr.com/ru/news/872528/?utm_campaign=872528&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wireshark 4.4.3](https://habr.com/ru/news/872466/?utm_campaign=872466&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» завершил интеграцию «Росбанка». Часть клиентов пожаловалась на технический сбой во время этого процесса](https://habr.com/ru/news/872452/?utm_campaign=872452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
