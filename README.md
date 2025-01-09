@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MIK32 Амур на Озон](https://habr.com/ru/news/872302/?utm_campaign=872302&utm_source=habrahabr&utm_medium=rss)
 - [В работе GitHub произошёл глобальный сбой](https://habr.com/ru/news/872318/?utm_campaign=872318&utm_source=habrahabr&utm_medium=rss)
 - [Повторяющиеся команды «напиши код лучше» могут ускорить код, сгенерированный AI, в 100 раз](https://habr.com/ru/companies/bothub/news/872288/?utm_campaign=872288&utm_source=habrahabr&utm_medium=rss)
 - [Компании отдают приоритет подготовке специалистов по работе с AI, а не сокращению рабочих мест](https://habr.com/ru/companies/bothub/news/872280/?utm_campaign=872280&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпускает полную модель Phi-4 с весами по лицензии MIT](https://habr.com/ru/companies/bothub/news/872274/?utm_campaign=872274&utm_source=habrahabr&utm_medium=rss)
-- [Футбольные тренеры вскоре смогут обратиться к искусственному интеллекту, чтобы найти следующую суперзвезду](https://habr.com/ru/companies/bothub/news/872272/?utm_campaign=872272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
