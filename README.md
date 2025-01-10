@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Весной Samsung Display начнёт массовое производство первого в мире сворачивающегося OLED-дисплея для ноутбуков](https://habr.com/ru/news/872772/?utm_campaign=872772&utm_source=habrahabr&utm_medium=rss)
+- [xAI запускает отдельное приложение Grok для iOS](https://habr.com/ru/companies/bothub/news/872730/?utm_campaign=872730&utm_source=habrahabr&utm_medium=rss)
+- [Экс-сотрудник Microsoft: пиратство Windows 11 компанию не волнует, так как сами пользователи и есть продукт](https://habr.com/ru/news/872770/?utm_campaign=872770&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Qwen запустили собственный чат в виде веб-приложения](https://habr.com/ru/news/872768/?utm_campaign=872768&utm_source=habrahabr&utm_medium=rss)
 - [Новая функция ChatGPT позволяет пользователям присваивать ему такие характеристики, как «болтливый» и «поколение Z»](https://habr.com/ru/companies/bothub/news/872724/?utm_campaign=872724&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» повысил цены архивных тарифов домашнего интернета на 5%](https://habr.com/ru/news/872688/?utm_campaign=872688&utm_source=habrahabr&utm_medium=rss)
-- [Google, Microsoft, Opera и Linux Foundation объявили о запуске коалиции «Сторонников браузеров на основе Chromium»](https://habr.com/ru/news/872686/?utm_campaign=872686&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники стали отправлять письма с вакансиями от CrowdStrike для заражения Monero](https://habr.com/ru/news/872662/?utm_campaign=872662&utm_source=habrahabr&utm_medium=rss)
-- [Новых вопросов от пользователей на платформе Stack Overflow становится всё меньше с каждым месяцем из-за ChatGPT](https://habr.com/ru/news/872660/?utm_campaign=872660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
