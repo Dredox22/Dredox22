@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* заплатила $100 тыс. за уязвимость, позволявшую выполнять команды на сервере Facebook**](https://habr.com/ru/news/872824/?utm_campaign=872824&utm_source=habrahabr&utm_medium=rss)
 - [Meta* использует пиратские книги для обучения ИИ](https://habr.com/ru/companies/cloud4y/news/872816/?utm_campaign=872816&utm_source=habrahabr&utm_medium=rss)
 - [Тренды ИИ-2025](https://habr.com/ru/companies/doubletapp/news/870688/?utm_campaign=870688&utm_source=habrahabr&utm_medium=rss)
 - [Весной Samsung Display начнёт массовое производство первого в мире сворачивающегося OLED-дисплея для ноутбуков](https://habr.com/ru/news/872772/?utm_campaign=872772&utm_source=habrahabr&utm_medium=rss)
 - [xAI запускает отдельное приложение Grok для iOS](https://habr.com/ru/companies/bothub/news/872730/?utm_campaign=872730&utm_source=habrahabr&utm_medium=rss)
-- [Экс-сотрудник Microsoft: пиратство Windows 11 компанию не волнует, так как сами пользователи и есть продукт](https://habr.com/ru/news/872770/?utm_campaign=872770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
