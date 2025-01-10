@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [1000 звезд на GitHub у Open Source-платформы Cozystack: какой путь мы прошли за год](https://habr.com/ru/companies/aenix/news/872882/?utm_campaign=872882&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект pdftris — тетрис в PDF в браузере](https://habr.com/ru/news/872880/?utm_campaign=872880&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» проанализировал новогодний трафик абонентов](https://habr.com/ru/news/872862/?utm_campaign=872862&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского»: популярными провайдерами облачных решений в РФ стали Yandex Cloud и VK Cloud](https://habr.com/ru/news/872858/?utm_campaign=872858&utm_source=habrahabr&utm_medium=rss)
 - [Meta* заплатила $100 тыс. за уязвимость, позволявшую выполнять команды на сервере Facebook**](https://habr.com/ru/news/872824/?utm_campaign=872824&utm_source=habrahabr&utm_medium=rss)
-- [Meta* использует пиратские книги для обучения ИИ](https://habr.com/ru/companies/cloud4y/news/872816/?utm_campaign=872816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
