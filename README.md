@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [nanoCAD Механика PRO 1.1: новая версия 3D САПР для машиностроения](https://habr.com/ru/companies/nanosoft/news/872220/?utm_campaign=872220&utm_source=habrahabr&utm_medium=rss)
 - [Telegram передал данные более 33 тыс. пользователей &lpar;IP-адреса и номера телефонов&rpar; правоохранительным органам 29 стран](https://habr.com/ru/news/872644/?utm_campaign=872644&utm_source=habrahabr&utm_medium=rss)
 - [Произошёл глобальный сбой в работе сервисов Proton](https://habr.com/ru/news/872636/?utm_campaign=872636&utm_source=habrahabr&utm_medium=rss)
 - [Различия в генерации вопросов между людьми и AI: результаты исследования](https://habr.com/ru/companies/bothub/news/872602/?utm_campaign=872602&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск согласен с тем, что достигнут предел данных по обучению AI](https://habr.com/ru/companies/bothub/news/872594/?utm_campaign=872594&utm_source=habrahabr&utm_medium=rss)
-- [Grok, вероятно, в скором времени получит «безумный режим»](https://habr.com/ru/companies/bothub/news/872588/?utm_campaign=872588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
