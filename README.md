@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мгновенная 3D-реконструкция: Stability AI выпустила SPAR3D](https://habr.com/ru/companies/bothub/news/873008/?utm_campaign=873008&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft устраняет зависания OneDrive на macOS и предлагает пользователям обходной путь](https://habr.com/ru/news/873006/?utm_campaign=873006&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT раскритиковал культ саморазвития](https://habr.com/ru/news/873004/?utm_campaign=873004&utm_source=habrahabr&utm_medium=rss)
+- [Asus представила мини-ПК NUC 14 Pro AI+ с цветным экраном E-Ink](https://habr.com/ru/news/873000/?utm_campaign=873000&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой утилиты для оптимизации энергопотребления и производительности auto-cpufreq 2.5](https://habr.com/ru/news/872982/?utm_campaign=872982&utm_source=habrahabr&utm_medium=rss)
-- [Открытый проект Go Haystack позволяет отслеживать персональные Bluetooth-устройства через сеть Apple Find My](https://habr.com/ru/news/872980/?utm_campaign=872980&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia критикует попытки властей США разделить мир на три зоны доступности ИИ-технологий](https://habr.com/ru/news/872974/?utm_campaign=872974&utm_source=habrahabr&utm_medium=rss)
-- [Netflix перешел от защиты к нападению в патентном споре, компании борются за технологии солнечных панелей: дайджест](https://habr.com/ru/companies/onlinepatent/news/872812/?utm_campaign=872812&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Git 2.48](https://habr.com/ru/news/872922/?utm_campaign=872922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
