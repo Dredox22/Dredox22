@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гиганты AI скупают неопубликованные видео для обучения моделей](https://habr.com/ru/companies/bothub/news/873010/?utm_campaign=873010&utm_source=habrahabr&utm_medium=rss)
 - [Мгновенная 3D-реконструкция: Stability AI выпустила SPAR3D](https://habr.com/ru/companies/bothub/news/873008/?utm_campaign=873008&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft устраняет зависания OneDrive на macOS и предлагает пользователям обходной путь](https://habr.com/ru/news/873006/?utm_campaign=873006&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT раскритиковал культ саморазвития](https://habr.com/ru/news/873004/?utm_campaign=873004&utm_source=habrahabr&utm_medium=rss)
 - [Asus представила мини-ПК NUC 14 Pro AI+ с цветным экраном E-Ink](https://habr.com/ru/news/873000/?utm_campaign=873000&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой утилиты для оптимизации энергопотребления и производительности auto-cpufreq 2.5](https://habr.com/ru/news/872982/?utm_campaign=872982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
