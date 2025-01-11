@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Git 2.48](https://habr.com/ru/news/872922/?utm_campaign=872922&utm_source=habrahabr&utm_medium=rss)
 - [Цукерберг на подкасте у Джо Рогана раскрыл правду про цензуру от администрации США](https://habr.com/ru/news/872912/?utm_campaign=872912&utm_source=habrahabr&utm_medium=rss)
 - [1000 звезд на GitHub у Open Source-платформы Cozystack: какой путь мы прошли за год](https://habr.com/ru/companies/aenix/news/872882/?utm_campaign=872882&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект pdftris — тетрис в PDF в браузере](https://habr.com/ru/news/872880/?utm_campaign=872880&utm_source=habrahabr&utm_medium=rss)
 - [«МегаФон» проанализировал новогодний трафик абонентов](https://habr.com/ru/news/872862/?utm_campaign=872862&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского»: популярными провайдерами облачных решений в РФ стали Yandex Cloud и VK Cloud](https://habr.com/ru/news/872858/?utm_campaign=872858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
