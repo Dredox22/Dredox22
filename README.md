@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи открыли Sky-T1, модель AI с «рассуждающими» возможностями](https://habr.com/ru/companies/bothub/news/873100/?utm_campaign=873100&utm_source=habrahabr&utm_medium=rss)
 - [Adobe с 15 января отменит возможность новой подписки на планы Photoshop и Lightroom на 20 ГБ](https://habr.com/ru/news/873058/?utm_campaign=873058&utm_source=habrahabr&utm_medium=rss)
 - [Хакер успешно протестировал передачу данных через Toslink на расстоянии до 143 км](https://habr.com/ru/news/873052/?utm_campaign=873052&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Sigil 2.4.0 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/873042/?utm_campaign=873042&utm_source=habrahabr&utm_medium=rss)
 - [Agent Laboratory: как платформа на базе AI помогает учёным проводить исследования](https://habr.com/ru/companies/bothub/news/873020/?utm_campaign=873020&utm_source=habrahabr&utm_medium=rss)
-- [Гиганты AI скупают неопубликованные видео для обучения моделей](https://habr.com/ru/companies/bothub/news/873010/?utm_campaign=873010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
