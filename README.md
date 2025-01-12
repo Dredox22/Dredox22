@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Sigil 2.4.0 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/873042/?utm_campaign=873042&utm_source=habrahabr&utm_medium=rss)
 - [Agent Laboratory: как платформа на базе AI помогает учёным проводить исследования](https://habr.com/ru/companies/bothub/news/873020/?utm_campaign=873020&utm_source=habrahabr&utm_medium=rss)
 - [Гиганты AI скупают неопубликованные видео для обучения моделей](https://habr.com/ru/companies/bothub/news/873010/?utm_campaign=873010&utm_source=habrahabr&utm_medium=rss)
 - [Мгновенная 3D-реконструкция: Stability AI выпустила SPAR3D](https://habr.com/ru/companies/bothub/news/873008/?utm_campaign=873008&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft устраняет зависания OneDrive на macOS и предлагает пользователям обходной путь](https://habr.com/ru/news/873006/?utm_campaign=873006&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT раскритиковал культ саморазвития](https://habr.com/ru/news/873004/?utm_campaign=873004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
