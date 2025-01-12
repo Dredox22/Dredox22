@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Podio v0.1 — библиотеки обработки звука для Go](https://habr.com/ru/news/873122/?utm_campaign=873122&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Podio v0.1 — библиотеки для подключения к веб-сервису по обработке звука для Go](https://habr.com/ru/news/873122/?utm_campaign=873122&utm_source=habrahabr&utm_medium=rss)
 - [Релиз UCM Desktop v1.0.0](https://habr.com/ru/news/873106/?utm_campaign=873106&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи открыли Sky-T1, модель AI с «рассуждающими» возможностями](https://habr.com/ru/companies/bothub/news/873100/?utm_campaign=873100&utm_source=habrahabr&utm_medium=rss)
 - [Adobe с 15 января отменит возможность новой подписки на планы Photoshop и Lightroom на 20 ГБ](https://habr.com/ru/news/873058/?utm_campaign=873058&utm_source=habrahabr&utm_medium=rss)
