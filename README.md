@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Podio v0.1 — библиотеки для подключения к веб-сервису по обработке звука для Go](https://habr.com/ru/news/873122/?utm_campaign=873122&utm_source=habrahabr&utm_medium=rss)
-- [Релиз UCM Desktop v1.0.0](https://habr.com/ru/news/873106/?utm_campaign=873106&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи открыли Sky-T1, модель AI с «рассуждающими» возможностями](https://habr.com/ru/companies/bothub/news/873100/?utm_campaign=873100&utm_source=habrahabr&utm_medium=rss)
-- [Adobe с 15 января отменит возможность новой подписки на планы Photoshop и Lightroom на 20 ГБ](https://habr.com/ru/news/873058/?utm_campaign=873058&utm_source=habrahabr&utm_medium=rss)
-- [Хакер успешно протестировал передачу данных через Toslink на расстоянии до 143 км](https://habr.com/ru/news/873052/?utm_campaign=873052&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Debian 12.9](https://habr.com/ru/news/873190/?utm_campaign=873190&utm_source=habrahabr&utm_medium=rss)
+- [Вышла плата Raspberry Pi 5 c 16 ГБ оперативной памяти](https://habr.com/ru/news/873188/?utm_campaign=873188&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft упростила страницу техподдержки с пояснением правил обновления с Windows 10 до Windows 11](https://habr.com/ru/news/873186/?utm_campaign=873186&utm_source=habrahabr&utm_medium=rss)
+- [Software Freedom Conservancy выиграла суд с AVM из-за невыполнения условий лицензии LGPL в прошивках маршрутизаторов](https://habr.com/ru/news/873178/?utm_campaign=873178&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft принудительно установит новый Outlook на Windows 10](https://habr.com/ru/news/873160/?utm_campaign=873160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
