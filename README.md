@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Загрузка одного и того же файла 102+ раз в браузерах Edge/Chrome и Firefox приводит к разным результатам](https://habr.com/ru/news/873334/?utm_campaign=873334&utm_source=habrahabr&utm_medium=rss)
 - [Google Play Защита начала блокировать приложение Т-Банка](https://habr.com/ru/news/873292/?utm_campaign=873292&utm_source=habrahabr&utm_medium=rss)
 - [«Почта Mail» заблокировала более 6 млрд спам-писем за 4 квартал 2024 года](https://habr.com/ru/news/873276/?utm_campaign=873276&utm_source=habrahabr&utm_medium=rss)
 - [Встроенное проксирование до API Gemini теперь доступно в Amvera Cloud](https://habr.com/ru/companies/amvera/news/873256/?utm_campaign=873256&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила модель rStar-Math для математических рассуждений и решения задач](https://habr.com/ru/news/873232/?utm_campaign=873232&utm_source=habrahabr&utm_medium=rss)
-- [В Steam анонсирован выход российского инди-симулятора продавца ночного киоска «Размена не будет»](https://habr.com/ru/news/873252/?utm_campaign=873252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
