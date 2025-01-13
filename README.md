@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Встроенное проксирование до API Gemini теперь доступно в Amvera Cloud](https://habr.com/ru/companies/amvera/news/873256/?utm_campaign=873256&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила модель rStar-Math для математических рассуждений и решения задач](https://habr.com/ru/news/873232/?utm_campaign=873232&utm_source=habrahabr&utm_medium=rss)
+- [В Steam анонсирован выход российского инди-симулятора продавца ночного киоска «Размена не будет»](https://habr.com/ru/news/873252/?utm_campaign=873252&utm_source=habrahabr&utm_medium=rss)
+- [Поисковые боты OpenAI на время вывели из строя сайт Triplegangers](https://habr.com/ru/news/873226/?utm_campaign=873226&utm_source=habrahabr&utm_medium=rss)
 - [Киберпреступники обманом заставляют пользователей iMessage отключить защиту от фишинга](https://habr.com/ru/news/873220/?utm_campaign=873220&utm_source=habrahabr&utm_medium=rss)
-- [Приложение для отслеживания лесных пожаров Watch Duty скачали 2 млн раз во время распространения огня в Лос-Анджелесе](https://habr.com/ru/news/873218/?utm_campaign=873218&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» раскрыл работу «университета» в даркнете для подготовки кибермошенников](https://habr.com/ru/news/873214/?utm_campaign=873214&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект DoomPDF — Doom в PDF в браузере](https://habr.com/ru/news/873194/?utm_campaign=873194&utm_source=habrahabr&utm_medium=rss)
-- [Docker Desktop заблокирован на компьютерах Mac из-за ложного оповещения о вредоносном ПО](https://habr.com/ru/news/873164/?utm_campaign=873164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
