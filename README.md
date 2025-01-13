@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Киберпреступники обманом заставляют пользователей iMessage отключить защиту от фишинга](https://habr.com/ru/news/873220/?utm_campaign=873220&utm_source=habrahabr&utm_medium=rss)
+- [Приложение для отслеживания лесных пожаров Watch Duty скачали 2 млн раз во время распространения огня в Лос-Анджелесе](https://habr.com/ru/news/873218/?utm_campaign=873218&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» раскрыл работу «университета» в даркнете для подготовки кибермошенников](https://habr.com/ru/news/873214/?utm_campaign=873214&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект DoomPDF — Doom в PDF в браузере](https://habr.com/ru/news/873194/?utm_campaign=873194&utm_source=habrahabr&utm_medium=rss)
 - [Docker Desktop заблокирован на компьютерах Mac из-за ложного оповещения о вредоносном ПО](https://habr.com/ru/news/873164/?utm_campaign=873164&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD GeoniCS 24.1 – первый выпуск под Astra Linux, Alt Linux, Alter Linux, РОСА ХРОМ и РЕД ОС](https://habr.com/ru/companies/nanosoft/news/872226/?utm_campaign=872226&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Debian 12.9](https://habr.com/ru/news/873190/?utm_campaign=873190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
