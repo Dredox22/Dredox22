@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект DoomPDF — Doom в PDF в браузере](https://habr.com/ru/news/873194/?utm_campaign=873194&utm_source=habrahabr&utm_medium=rss)
+- [Docker Desktop заблокирован на компьютерах Mac из-за ложного оповещения о вредоносном ПО](https://habr.com/ru/news/873164/?utm_campaign=873164&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD GeoniCS 24.1 – первый выпуск под Astra Linux, Alt Linux, Alter Linux, РОСА ХРОМ и РЕД ОС](https://habr.com/ru/companies/nanosoft/news/872226/?utm_campaign=872226&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Debian 12.9](https://habr.com/ru/news/873190/?utm_campaign=873190&utm_source=habrahabr&utm_medium=rss)
 - [Вышла плата Raspberry Pi 5 c 16 ГБ оперативной памяти](https://habr.com/ru/news/873188/?utm_campaign=873188&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft упростила страницу техподдержки с пояснением правил обновления с Windows 10 до Windows 11](https://habr.com/ru/news/873186/?utm_campaign=873186&utm_source=habrahabr&utm_medium=rss)
-- [Software Freedom Conservancy выиграла суд с AVM из-за невыполнения условий лицензии LGPL в прошивках маршрутизаторов](https://habr.com/ru/news/873178/?utm_campaign=873178&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft принудительно установит новый Outlook на Windows 10](https://habr.com/ru/news/873160/?utm_campaign=873160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
