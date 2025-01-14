@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Версии: сбой в работе Рунета, что произошло](https://habr.com/ru/news/873640/?utm_campaign=873640&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре зафиксировали «кратковременное нарушение связности» интернета](https://habr.com/ru/news/873630/?utm_campaign=873630&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI заблокировала инженера, который создал роботизированную винтовку-часового на базе ChatGPT](https://habr.com/ru/news/873598/?utm_campaign=873598&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» начал тестировать вставки с текстовой рекламой прямо в выдаче нейросети «Нейро»](https://habr.com/ru/news/873588/?utm_campaign=873588&utm_source=habrahabr&utm_medium=rss)
 - [Математический подход приоткрыл «чёрный ящик» принятия решений ИИ](https://habr.com/ru/news/873584/?utm_campaign=873584&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft повысит цены на подписку на Microsoft 365 до 46% на шести азиатских рынках для финансирования функций ИИ](https://habr.com/ru/news/873540/?utm_campaign=873540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
