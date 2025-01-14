@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мулленвег деактивировал часть учёток сообщества WordPress.org, Automattic свела к минимуму участие в проекте WordPress](https://habr.com/ru/news/873420/?utm_campaign=873420&utm_source=habrahabr&utm_medium=rss)
 - [Власти США утвердили новые ограничения на экспорт ИИ-чипов](https://habr.com/ru/news/873378/?utm_campaign=873378&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/873350/?utm_campaign=873350&utm_source=habrahabr&utm_medium=rss)
 - [Загрузка одного и того же файла 102+ раз в браузерах Edge/Chrome и Firefox приводит к разным результатам](https://habr.com/ru/news/873334/?utm_campaign=873334&utm_source=habrahabr&utm_medium=rss)
 - [Google Play Защита начала блокировать приложение Т-Банка](https://habr.com/ru/news/873292/?utm_campaign=873292&utm_source=habrahabr&utm_medium=rss)
-- [«Почта Mail» заблокировала более 6 млрд спам-писем за 4 квартал 2024 года](https://habr.com/ru/news/873276/?utm_campaign=873276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
