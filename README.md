@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Математический подход приоткрыл «чёрный ящик» принятия решений ИИ](https://habr.com/ru/news/873584/?utm_campaign=873584&utm_source=habrahabr&utm_medium=rss)
+- [Актуализирована статья «Как не потеряться в отечественных изданиях «Искусства схемотехники»»](https://habr.com/ru/news/873570/?utm_campaign=873570&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft повысит цены на подписку на Microsoft 365 до 46% на шести азиатских рынках для финансирования функций ИИ](https://habr.com/ru/news/873540/?utm_campaign=873540&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ-инструмент от Adobe позволит редактировать 10 тысяч изображений за один клик](https://habr.com/ru/news/873494/?utm_campaign=873494&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер», «Альфа-банк» и «Т-Банк» создали дочернюю компанию для развития платёжных решений и сервисов](https://habr.com/ru/news/873500/?utm_campaign=873500&utm_source=habrahabr&utm_medium=rss)
-- [Константин Белкин рассказал про App.Farm на радио «Эхо Лосей» в рамках FINOPOLIS-2024](https://habr.com/ru/companies/rshb/news/873498/?utm_campaign=873498&utm_source=habrahabr&utm_medium=rss)
-- [Форум разработчиков USB упростил систему маркировки док-станций и кабелей USB](https://habr.com/ru/news/873484/?utm_campaign=873484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
