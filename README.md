@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Форум разработчиков USB упростил систему маркировки док-станций и кабелей USB](https://habr.com/ru/news/873484/?utm_campaign=873484&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Nextra 4 x App Router: что нового?](https://habr.com/ru/news/873470/?utm_campaign=873470&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge вскоре сможет быстрее загружать PDF в Windows 11 на недорогих ПК](https://habr.com/ru/news/873458/?utm_campaign=873458&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА — лауреат ComNews Awards](https://habr.com/ru/companies/sigma/news/872750/?utm_campaign=872750&utm_source=habrahabr&utm_medium=rss)
 - [Мулленвег деактивировал часть учёток сообщества WordPress.org, Automattic свела к минимуму участие в проекте WordPress](https://habr.com/ru/news/873420/?utm_campaign=873420&utm_source=habrahabr&utm_medium=rss)
-- [Власти США утвердили новые ограничения на экспорт ИИ-чипов](https://habr.com/ru/news/873378/?utm_campaign=873378&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/873350/?utm_campaign=873350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
