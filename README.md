@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз утилиты для синхронизации файлов Rsync 3.4.0](https://habr.com/ru/news/873696/?utm_campaign=873696&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исследует безопасность AI: выявление уязвимостей и этических вызовов в генеративных системах](https://habr.com/ru/companies/bothub/news/873658/?utm_campaign=873658&utm_source=habrahabr&utm_medium=rss)
 - [Модель искусственного интеллекта OpenAI иногда «думает» на китайском, и никто не знает почему](https://habr.com/ru/companies/bothub/news/873660/?utm_campaign=873660&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft формирует отдел CoreAI по разработке инструментов искусственного интеллекта](https://habr.com/ru/companies/bothub/news/873652/?utm_campaign=873652&utm_source=habrahabr&utm_medium=rss)
 - [Версии: сбой в работе Рунета, что произошло](https://habr.com/ru/news/873640/?utm_campaign=873640&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре зафиксировали «кратковременное нарушение связности» интернета](https://habr.com/ru/news/873630/?utm_campaign=873630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
