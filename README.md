@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Intel выяснили, что принятый без проверки в код ядра Linux 6.13 патч от сотрудника Microsoft оказался проблемным](https://habr.com/ru/news/873830/?utm_campaign=873830&utm_source=habrahabr&utm_medium=rss)
+- [СК расширил штат IT-специалистов и намерен развивать биометрическую идентификацию для сыска](https://habr.com/ru/news/873826/?utm_campaign=873826&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи наладили пресечение незаконного доступа к «Госуслугам»](https://habr.com/ru/news/873822/?utm_campaign=873822&utm_source=habrahabr&utm_medium=rss)
 - [Хакер взломал USB-контроллер ACE3, который Apple использует в своих устройствах](https://habr.com/ru/news/873812/?utm_campaign=873812&utm_source=habrahabr&utm_medium=rss)
 - [В Индии внедряют платёжный сервис RuPay на базе UPI для конкуренции с Visa и Mastercard](https://habr.com/ru/news/873788/?utm_campaign=873788&utm_source=habrahabr&utm_medium=rss)
-- [Вышел ShareX 17.0](https://habr.com/ru/news/873794/?utm_campaign=873794&utm_source=habrahabr&utm_medium=rss)
-- [Brave: сайты «тестирования блокировщика рекламы» могут навредить пользователям и самой экосистеме](https://habr.com/ru/news/873782/?utm_campaign=873782&utm_source=habrahabr&utm_medium=rss)
-- [Pixelfed, децентрализованный конкурент Instagram**, стал доступен на iOS и Android](https://habr.com/ru/news/873778/?utm_campaign=873778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
