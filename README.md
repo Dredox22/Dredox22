@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [К 2030 году в России планируют выделить 15 млрд рублей на создание более 30 центров развития робототехники](https://habr.com/ru/news/873840/?utm_campaign=873840&utm_source=habrahabr&utm_medium=rss)
 - [В Intel выяснили, что принятый без проверки в код ядра Linux 6.13 патч от сотрудника Microsoft оказался проблемным](https://habr.com/ru/news/873830/?utm_campaign=873830&utm_source=habrahabr&utm_medium=rss)
 - [СК расширил штат IT-специалистов и намерен развивать биометрическую идентификацию для сыска](https://habr.com/ru/news/873826/?utm_campaign=873826&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи наладили пресечение незаконного доступа к «Госуслугам»](https://habr.com/ru/news/873822/?utm_campaign=873822&utm_source=habrahabr&utm_medium=rss)
 - [Хакер взломал USB-контроллер ACE3, который Apple использует в своих устройствах](https://habr.com/ru/news/873812/?utm_campaign=873812&utm_source=habrahabr&utm_medium=rss)
-- [В Индии внедряют платёжный сервис RuPay на базе UPI для конкуренции с Visa и Mastercard](https://habr.com/ru/news/873788/?utm_campaign=873788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
