@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MiniMax представляет AI-модели с самой большой длиной контекста для агентов с «долговременной памятью»](https://habr.com/ru/companies/bothub/news/873956/?utm_campaign=873956&utm_source=habrahabr&utm_medium=rss)
 - [Частое использование AI может снижать навыки критического мышления, особенно у молодежи](https://habr.com/ru/companies/bothub/news/873930/?utm_campaign=873930&utm_source=habrahabr&utm_medium=rss)
 - [Будущее AI в бизнесе: только 25% предприятий внедрили его, и лишь немногие получают выгоду](https://habr.com/ru/companies/bothub/news/873926/?utm_campaign=873926&utm_source=habrahabr&utm_medium=rss)
 - [Новейший план Microsoft Copilot для бизнеса — это оплата по факту использования](https://habr.com/ru/companies/bothub/news/873924/?utm_campaign=873924&utm_source=habrahabr&utm_medium=rss)
 - [К 2030 году в России планируют выделить 15 млрд рублей на создание более 30 центров развития робототехники](https://habr.com/ru/news/873840/?utm_campaign=873840&utm_source=habrahabr&utm_medium=rss)
-- [В Intel выяснили, что принятый без проверки в код ядра Linux 6.13 патч от сотрудника Microsoft оказался проблемным](https://habr.com/ru/news/873830/?utm_campaign=873830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
