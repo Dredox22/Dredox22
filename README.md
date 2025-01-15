@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Linux Mint 22.1 «Xia»](https://habr.com/ru/news/873700/?utm_campaign=873700&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft советует пользователям обновиться до Windows 11, пока этот бесплатно и только в течение ограниченного времени](https://habr.com/ru/news/873698/?utm_campaign=873698&utm_source=habrahabr&utm_medium=rss)
 - [Релиз утилиты для синхронизации файлов Rsync 3.4.0](https://habr.com/ru/news/873696/?utm_campaign=873696&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исследует безопасность AI: выявление уязвимостей и этических вызовов в генеративных системах](https://habr.com/ru/companies/bothub/news/873658/?utm_campaign=873658&utm_source=habrahabr&utm_medium=rss)
 - [Модель искусственного интеллекта OpenAI иногда «думает» на китайском, и никто не знает почему](https://habr.com/ru/companies/bothub/news/873660/?utm_campaign=873660&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft формирует отдел CoreAI по разработке инструментов искусственного интеллекта](https://habr.com/ru/companies/bothub/news/873652/?utm_campaign=873652&utm_source=habrahabr&utm_medium=rss)
-- [Версии: сбой в работе Рунета, что произошло](https://habr.com/ru/news/873640/?utm_campaign=873640&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
