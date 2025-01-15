@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Миллионы аккаунтов оказались уязвимы из-за Google OAuth](https://habr.com/ru/news/873758/?utm_campaign=873758&utm_source=habrahabr&utm_medium=rss)
-- [В Китае представили самую быструю в мире робособаку](https://habr.com/ru/news/873748/?utm_campaign=873748&utm_source=habrahabr&utm_medium=rss)
-- [Открытый &lpar;почти&rpar; проект Cosmos Keyboard предлагает адаптивный генератор для эргономичных механических клавиатур](https://habr.com/ru/news/873746/?utm_campaign=873746&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT начали развёртывать фичу «Задачи» для напоминаний и планирования задач](https://habr.com/ru/news/873736/?utm_campaign=873736&utm_source=habrahabr&utm_medium=rss)
-- [ФБР взломало более 4,2 тысяч компьютеров в США, чтобы удалить с них вредоносное ПО](https://habr.com/ru/news/873728/?utm_campaign=873728&utm_source=habrahabr&utm_medium=rss)
+- [Brave: сайты «тестирования блокировщика рекламы» могут навредить пользователям и самой экосистеме](https://habr.com/ru/news/873782/?utm_campaign=873782&utm_source=habrahabr&utm_medium=rss)
+- [Pixelfed, децентрализованный конкурент Instagram**, стал доступен на iOS и Android](https://habr.com/ru/news/873778/?utm_campaign=873778&utm_source=habrahabr&utm_medium=rss)
+- [Около 9 млн россиян каждый месяц сталкиваются с мошенническими сайтами](https://habr.com/ru/news/873774/?utm_campaign=873774&utm_source=habrahabr&utm_medium=rss)
+- [F.A.C.C.T. обнаружил новые атаки проукраинских кибершпионов Sticky Werewolf](https://habr.com/ru/companies/f_a_c_c_t/news/873762/?utm_campaign=873762&utm_source=habrahabr&utm_medium=rss)
+- [Apple участвует в разработке «межсоединения для производительности кластера ИИ следующего поколения»](https://habr.com/ru/news/873768/?utm_campaign=873768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
