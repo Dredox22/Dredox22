@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИТ-эксперты разработали сравнительную карту телеком-решений](https://habr.com/ru/companies/k2tech/news/874118/?utm_campaign=874118&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь обнаружил обошедшее спам-фильтры Gmail фишинговое письмо](https://habr.com/ru/news/874090/?utm_campaign=874090&utm_source=habrahabr&utm_medium=rss)
+- [Bing перестал «притворяться» поисковиком Google](https://habr.com/ru/news/874080/?utm_campaign=874080&utm_source=habrahabr&utm_medium=rss)
 - [Deckhouse Conf 2025: новая техническая конференция о DevOps, Kubernetes и платформенной разработке](https://habr.com/ru/companies/flant/news/873884/?utm_campaign=873884&utm_source=habrahabr&utm_medium=rss)
 - [Билет, которого нет: специалисты F.A.C.C.T. обнаружили новую угрозу – FakeTicketer](https://habr.com/ru/companies/f_a_c_c_t/news/874046/?utm_campaign=874046&utm_source=habrahabr&utm_medium=rss)
-- [Россияне всё чаще переходят на авторизацию в интернет-сервисах без паролей](https://habr.com/ru/news/874074/?utm_campaign=874074&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия инструмента мониторинга HWiNFO 8.20](https://habr.com/ru/news/874032/?utm_campaign=874032&utm_source=habrahabr&utm_medium=rss)
-- [Прокуратура организовала проверку «Аэрофлота» из-за жалоб пилотов на плохую работу российского аэронавигационного ПО](https://habr.com/ru/news/874024/?utm_campaign=874024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
