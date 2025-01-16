@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 1 марта 2025 года мобильное приложение Keenetic и система удалённого мониторинга и управления перестанут работать в РФ](https://habr.com/ru/news/874148/?utm_campaign=874148&utm_source=habrahabr&utm_medium=rss)
+- [За 2024 год белые хакеры обнаружили более 6 тыс. уязвимостей в российских IТ-системах](https://habr.com/ru/news/874142/?utm_campaign=874142&utm_source=habrahabr&utm_medium=rss)
+- [Новый релиз Luxms BI 10.3](https://habr.com/ru/companies/luxms_bi/news/874126/?utm_campaign=874126&utm_source=habrahabr&utm_medium=rss)
 - [ИТ-эксперты разработали сравнительную карту телеком-решений](https://habr.com/ru/companies/k2tech/news/874118/?utm_campaign=874118&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь обнаружил обошедшее спам-фильтры Gmail фишинговое письмо](https://habr.com/ru/news/874090/?utm_campaign=874090&utm_source=habrahabr&utm_medium=rss)
-- [Bing перестал «притворяться» поисковиком Google](https://habr.com/ru/news/874080/?utm_campaign=874080&utm_source=habrahabr&utm_medium=rss)
-- [Deckhouse Conf 2025: новая техническая конференция о DevOps, Kubernetes и платформенной разработке](https://habr.com/ru/companies/flant/news/873884/?utm_campaign=873884&utm_source=habrahabr&utm_medium=rss)
-- [Билет, которого нет: специалисты F.A.C.C.T. обнаружили новую угрозу – FakeTicketer](https://habr.com/ru/companies/f_a_c_c_t/news/874046/?utm_campaign=874046&utm_source=habrahabr&utm_medium=rss)
+- [Google Colab обновился до Python 3.11.11](https://habr.com/ru/news/874110/?utm_campaign=874110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
