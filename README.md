@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deckhouse Conf 2025: новая техническая конференция о DevOps, Kubernetes и платформенной разработке](https://habr.com/ru/companies/flant/news/873884/?utm_campaign=873884&utm_source=habrahabr&utm_medium=rss)
+- [Билет, которого нет: специалисты F.A.C.C.T. обнаружили новую угрозу – FakeTicketer](https://habr.com/ru/companies/f_a_c_c_t/news/874046/?utm_campaign=874046&utm_source=habrahabr&utm_medium=rss)
+- [Россияне всё чаще переходят на авторизацию в интернет-сервисах без паролей](https://habr.com/ru/news/874074/?utm_campaign=874074&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия инструмента мониторинга HWiNFO 8.20](https://habr.com/ru/news/874032/?utm_campaign=874032&utm_source=habrahabr&utm_medium=rss)
 - [Прокуратура организовала проверку «Аэрофлота» из-за жалоб пилотов на плохую работу российского аэронавигационного ПО](https://habr.com/ru/news/874024/?utm_campaign=874024&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры Татарстана: повреждение волоконно-оптического магистрального кабеля на территории республики устранено](https://habr.com/ru/news/874020/?utm_campaign=874020&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор зафиксировал за 2024 год 135 случаев утечек данных, в которых содержалось более 710 млн записей о россиянах](https://habr.com/ru/news/874016/?utm_campaign=874016&utm_source=habrahabr&utm_medium=rss)
-- [Проект DIY FOSS-киборга позволяет работать с Linux, включая Guix и Emacs, в режиме передвижения](https://habr.com/ru/news/874014/?utm_campaign=874014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
