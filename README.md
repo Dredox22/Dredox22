@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прокуратура организовала проверку «Аэрофлота» из-за жалоб пилотов на плохую работу российского аэронавигационного ПО](https://habr.com/ru/news/874024/?utm_campaign=874024&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры Татарстана: повреждение волоконно-оптического магистрального кабеля на территории республики устранено](https://habr.com/ru/news/874020/?utm_campaign=874020&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор зафиксировал за 2024 год 135 случаев утечек данных, в которых содержалось более 710 млн записей о россиянах](https://habr.com/ru/news/874016/?utm_campaign=874016&utm_source=habrahabr&utm_medium=rss)
 - [Проект DIY FOSS-киборга позволяет работать с Linux, включая Guix и Emacs, в режиме передвижения](https://habr.com/ru/news/874014/?utm_campaign=874014&utm_source=habrahabr&utm_medium=rss)
 - [«Окружающие агенты»: автоматизация повседневных задач и будущее AGI](https://habr.com/ru/companies/bothub/news/873964/?utm_campaign=873964&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax представляет AI-модели с самой большой длиной контекста для агентов с «долговременной памятью»](https://habr.com/ru/companies/bothub/news/873956/?utm_campaign=873956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
