@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представили Titan: архитектуру нейросетей, которая может стать новой серебряной пулей LLM](https://habr.com/ru/news/874170/?utm_campaign=874170&utm_source=habrahabr&utm_medium=rss)
+- [Как создать веб-приложение на Django? 4 инструкций для новичков](https://habr.com/ru/companies/selectel/news/874168/?utm_campaign=874168&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году на платформе Standoff Bug Bounty доля отчетов о самых опасных уязвимостях вдвое превысила мировой показатель](https://habr.com/ru/companies/pt/news/874150/?utm_campaign=874150&utm_source=habrahabr&utm_medium=rss)
 - [С 1 марта 2025 года мобильное приложение Keenetic и система удалённого мониторинга и управления перестанут работать в РФ](https://habr.com/ru/news/874148/?utm_campaign=874148&utm_source=habrahabr&utm_medium=rss)
 - [За 2024 год белые хакеры обнаружили более 6 тыс. уязвимостей в российских IТ-системах](https://habr.com/ru/news/874142/?utm_campaign=874142&utm_source=habrahabr&utm_medium=rss)
-- [Новый релиз Luxms BI 10.3](https://habr.com/ru/companies/luxms_bi/news/874126/?utm_campaign=874126&utm_source=habrahabr&utm_medium=rss)
-- [ИТ-эксперты разработали сравнительную карту телеком-решений](https://habr.com/ru/companies/k2tech/news/874118/?utm_campaign=874118&utm_source=habrahabr&utm_medium=rss)
-- [Google Colab обновился до Python 3.11.11](https://habr.com/ru/news/874110/?utm_campaign=874110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
