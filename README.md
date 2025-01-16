@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Импортозамещенные решения EvaTeam в ЦИТ «Госфинансы» — филиал АО «Гознак» для «Электронного бюджета» и ИТ-инфраструктуры](https://habr.com/ru/news/874214/?utm_campaign=874214&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила двухлетнюю ошибку безопасности Windows 11, которая отключала защиту от фишинга](https://habr.com/ru/news/874210/?utm_campaign=874210&utm_source=habrahabr&utm_medium=rss)
 - [Google представили Titan: архитектуру нейросетей, которая может стать новой серебряной пулей LLM](https://habr.com/ru/news/874170/?utm_campaign=874170&utm_source=habrahabr&utm_medium=rss)
 - [Как создать веб-приложение на Django? 4 инструкций для новичков](https://habr.com/ru/companies/selectel/news/874168/?utm_campaign=874168&utm_source=habrahabr&utm_medium=rss)
 - [В 2024 году на платформе Standoff Bug Bounty доля отчетов о самых опасных уязвимостях вдвое превысила мировой показатель](https://habr.com/ru/companies/pt/news/874150/?utm_campaign=874150&utm_source=habrahabr&utm_medium=rss)
-- [С 1 марта 2025 года мобильное приложение Keenetic и система удалённого мониторинга и управления перестанут работать в РФ](https://habr.com/ru/news/874148/?utm_campaign=874148&utm_source=habrahabr&utm_medium=rss)
-- [За 2024 год белые хакеры обнаружили более 6 тыс. уязвимостей в российских IТ-системах](https://habr.com/ru/news/874142/?utm_campaign=874142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
