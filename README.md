@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [nanoCAD GeoniCS 24.1 – второе техническое обновление на базе Платформы nanoCAD 24.1 под Windows](https://habr.com/ru/companies/nanosoft/news/872886/?utm_campaign=872886&utm_source=habrahabr&utm_medium=rss)
+- [Bluesky запускает приложение для обмена фотографиями Flashes](https://habr.com/ru/news/874246/?utm_campaign=874246&utm_source=habrahabr&utm_medium=rss)
 - [Импортозамещенные решения EvaTeam в ЦИТ «Госфинансы» — филиал АО «Гознак» для «Электронного бюджета» и ИТ-инфраструктуры](https://habr.com/ru/news/874214/?utm_campaign=874214&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила двухлетнюю ошибку безопасности Windows 11, которая отключала защиту от фишинга](https://habr.com/ru/news/874210/?utm_campaign=874210&utm_source=habrahabr&utm_medium=rss)
 - [Google представили Titan: архитектуру нейросетей, которая может стать новой серебряной пулей LLM](https://habr.com/ru/news/874170/?utm_campaign=874170&utm_source=habrahabr&utm_medium=rss)
-- [Как создать веб-приложение на Django? 4 инструкций для новичков](https://habr.com/ru/companies/selectel/news/874168/?utm_campaign=874168&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году на платформе Standoff Bug Bounty доля отчетов о самых опасных уязвимостях вдвое превысила мировой показатель](https://habr.com/ru/companies/pt/news/874150/?utm_campaign=874150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
