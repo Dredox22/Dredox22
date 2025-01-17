@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гендиректор Replit о прорывах ИИ: «Мы больше не заботимся о профессиональных кодерах»](https://habr.com/ru/news/874344/?utm_campaign=874344&utm_source=habrahabr&utm_medium=rss)
+- [Google решила не соблюдать закон ЕС о проверке фактов](https://habr.com/ru/news/874348/?utm_campaign=874348&utm_source=habrahabr&utm_medium=rss)
+- [На Admin MeetUp обсудили все, что волнует сисадминов, DevOps, техлидов и тимлидов](https://habr.com/ru/companies/selectel/news/874200/?utm_campaign=874200&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Японии арестовала продавца модифицированной Nintendo Switch с пиратскими играми](https://habr.com/ru/news/874310/?utm_campaign=874310&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: обновление до Windows 11 для ПК на Windows 10 будет бесплатно всё время](https://habr.com/ru/news/874306/?utm_campaign=874306&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T закрыла свой домашний интернет в Нью-Йорке из-за закона, требующего тарифы по $15 пользователям с низким доходом](https://habr.com/ru/news/874286/?utm_campaign=874286&utm_source=habrahabr&utm_medium=rss)
-- [Опубликовано решение первых 100 задач Проекта Эйлера с использованием 100 разных языков программирования](https://habr.com/ru/news/874284/?utm_campaign=874284&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face представила бесплатный курс по работе с нейросетевыми агентами](https://habr.com/ru/news/874266/?utm_campaign=874266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
