@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Kama Flow: потенциал частных инвестиций в электронику составляет 336 млрд рублей](https://habr.com/ru/news/874426/?utm_campaign=874426&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар «Управляй и развивай: роль систем класса IdM в оптимизации бизнес-процессов»](https://habr.com/ru/companies/ussc/news/874422/?utm_campaign=874422&utm_source=habrahabr&utm_medium=rss)
 - [В Huawei заявили о нарушении дуополии Android и iOS на рынке ОС](https://habr.com/ru/news/874384/?utm_campaign=874384&utm_source=habrahabr&utm_medium=rss)
 - [В VK Cloud добавили полнотекстовый поисковый движок MeiliSearch](https://habr.com/ru/news/874382/?utm_campaign=874382&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 132](https://habr.com/ru/news/874372/?utm_campaign=874372&utm_source=habrahabr&utm_medium=rss)
-- [Представлена технология управления мобильными приложениями на ходу с помощью ног](https://habr.com/ru/news/874366/?utm_campaign=874366&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Replit о прорывах ИИ: «Мы больше не заботимся о профессиональных кодерах»](https://habr.com/ru/news/874344/?utm_campaign=874344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
