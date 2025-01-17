@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В VK Cloud добавили полнотекстовый поисковый движок MeiliSearch](https://habr.com/ru/news/874382/?utm_campaign=874382&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 132](https://habr.com/ru/news/874372/?utm_campaign=874372&utm_source=habrahabr&utm_medium=rss)
+- [Представлена технология управления мобильными приложениями на ходу с помощью ног](https://habr.com/ru/news/874366/?utm_campaign=874366&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Replit о прорывах ИИ: «Мы больше не заботимся о профессиональных кодерах»](https://habr.com/ru/news/874344/?utm_campaign=874344&utm_source=habrahabr&utm_medium=rss)
 - [Google решила не соблюдать закон ЕС о проверке фактов](https://habr.com/ru/news/874348/?utm_campaign=874348&utm_source=habrahabr&utm_medium=rss)
-- [На Admin MeetUp обсудили все, что волнует сисадминов, DevOps, техлидов и тимлидов](https://habr.com/ru/companies/selectel/news/874200/?utm_campaign=874200&utm_source=habrahabr&utm_medium=rss)
-- [Полиция Японии арестовала продавца модифицированной Nintendo Switch с пиратскими играми](https://habr.com/ru/news/874310/?utm_campaign=874310&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: обновление до Windows 11 для ПК на Windows 10 будет бесплатно всё время](https://habr.com/ru/news/874306/?utm_campaign=874306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
