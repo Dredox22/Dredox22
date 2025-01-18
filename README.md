@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity купила платформу Read.cv](https://habr.com/ru/news/874572/?utm_campaign=874572&utm_source=habrahabr&utm_medium=rss)
+- [Amazon приостанавливает доставку дронами в США после аварии на испытательном полигоне](https://habr.com/ru/news/874570/?utm_campaign=874570&utm_source=habrahabr&utm_medium=rss)
+- [Рост штрафов за нарушение авторских прав, новые патенты Apple и лидерство Samsung: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/874458/?utm_campaign=874458&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft расширила тестирование функции защиты аккаунта администратора — Administrator protection](https://habr.com/ru/news/874566/?utm_campaign=874566&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Research: системы ИИ невозможно сделать полностью безопасными](https://habr.com/ru/news/874562/?utm_campaign=874562&utm_source=habrahabr&utm_medium=rss)
-- [Google начинает требовать JavaScript для поиска Google](https://habr.com/ru/news/874556/?utm_campaign=874556&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 132](https://habr.com/ru/news/874554/?utm_campaign=874554&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 получит индикатор процента заряда батареи](https://habr.com/ru/news/874550/?utm_campaign=874550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
