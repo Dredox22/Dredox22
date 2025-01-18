@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft расширила тестирование функции защиты аккаунта администратора — Administrator protection](https://habr.com/ru/news/874566/?utm_campaign=874566&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Research: системы ИИ невозможно сделать полностью безопасными](https://habr.com/ru/news/874562/?utm_campaign=874562&utm_source=habrahabr&utm_medium=rss)
+- [Google начинает требовать JavaScript для поиска Google](https://habr.com/ru/news/874556/?utm_campaign=874556&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 132](https://habr.com/ru/news/874554/?utm_campaign=874554&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит индикатор процента заряда батареи](https://habr.com/ru/news/874550/?utm_campaign=874550&utm_source=habrahabr&utm_medium=rss)
-- [Дуров пообещал на допросах следователям во Франции улучшить модерацию Telegram](https://habr.com/ru/news/874534/?utm_campaign=874534&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор пояснил проблемы в работе сервиса Steam со сбоем в его инфраструктуре](https://habr.com/ru/news/874478/?utm_campaign=874478&utm_source=habrahabr&utm_medium=rss)
-- [Kama Flow: потенциал частных инвестиций в электронику составляет 336 млрд рублей](https://habr.com/ru/news/874426/?utm_campaign=874426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
