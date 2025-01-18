@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Точки доступа Wi‑Fi «Аквариус» внесены в реестр Минпромторга России](https://habr.com/ru/news/874628/?utm_campaign=874628&utm_source=habrahabr&utm_medium=rss)
+- [Canon требует ежемесячную абонентскую плату $5, чтобы в полной мере использовать свои камеры в качестве веб-камер на ПК](https://habr.com/ru/news/874624/?utm_campaign=874624&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры опубликовали в даркнете данные 15 тысяч устройств FortiGate](https://habr.com/ru/news/874604/?utm_campaign=874604&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель искусственного интеллекта «Тitans» от Google обеспечивает долговременную память языковых моделей](https://habr.com/ru/companies/bothub/news/874596/?utm_campaign=874596&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity купила платформу Read.cv](https://habr.com/ru/news/874572/?utm_campaign=874572&utm_source=habrahabr&utm_medium=rss)
-- [Amazon приостанавливает доставку дронами в США после аварии на испытательном полигоне](https://habr.com/ru/news/874570/?utm_campaign=874570&utm_source=habrahabr&utm_medium=rss)
-- [Рост штрафов за нарушение авторских прав, новые патенты Apple и лидерство Samsung: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/874458/?utm_campaign=874458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
