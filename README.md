@@ -68,8 +68,8 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ПК с Windows 10/11 TPM и шифрованием BitLocker столкнулись с ошибкой, связанной с администратором](https://habr.com/ru/news/874710/?utm_campaign=874710&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Origin от EA перестанет работать из-за окончания поддержки 32-битной версии](https://habr.com/ru/news/874706/?utm_campaign=874706&utm_source=habrahabr&utm_medium=rss)
+- [ПК с Windows 10/11 TPM и шифрованием BitLocker столкнулись с ошибкой](https://habr.com/ru/news/874710/?utm_campaign=874710&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Origin от EA перестанет работать в апреле](https://habr.com/ru/news/874706/?utm_campaign=874706&utm_source=habrahabr&utm_medium=rss)
 - [Первый в мире чат-бот на основе искусственного интеллекта ELIZA возродили спустя 60 лет](https://habr.com/ru/news/874702/?utm_campaign=874702&utm_source=habrahabr&utm_medium=rss)
 - [Apple заявила, что выполнила закон США, удалив TikTok и ещё 10 мобильных приложений ByteDance из App Store](https://habr.com/ru/news/874696/?utm_campaign=874696&utm_source=habrahabr&utm_medium=rss)
 - [Релиз минималистичного веб-браузера Dillo 3.2.0](https://habr.com/ru/news/874680/?utm_campaign=874680&utm_source=habrahabr&utm_medium=rss)
