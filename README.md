@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первый в мире чат-бот на основе искусственного интеллекта ELIZA возродили спустя 60 лет](https://habr.com/ru/news/874702/?utm_campaign=874702&utm_source=habrahabr&utm_medium=rss)
+- [Apple заявила, что выполнила закон США, удалив TikTok и ещё 10 мобильных приложений ByteDance из App Store](https://habr.com/ru/news/874696/?utm_campaign=874696&utm_source=habrahabr&utm_medium=rss)
 - [Релиз минималистичного веб-браузера Dillo 3.2.0](https://habr.com/ru/news/874680/?utm_campaign=874680&utm_source=habrahabr&utm_medium=rss)
 - [TikTok отключила свой собственный сервис в США](https://habr.com/ru/news/874672/?utm_campaign=874672&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Open Source-платформы Cozystack 0.22 &lpar;и немного 0.23&rpar;: телеметрия, пропатченный Talos, Workload и WorkloadMonitor](https://habr.com/ru/companies/aenix/news/874452/?utm_campaign=874452&utm_source=habrahabr&utm_medium=rss)
-- [Точки доступа Wi‑Fi «Аквариус» внесены в реестр Минпромторга России](https://habr.com/ru/news/874628/?utm_campaign=874628&utm_source=habrahabr&utm_medium=rss)
-- [Canon требует ежемесячную абонентскую плату $5, чтобы в полной мере использовать свои камеры в качестве веб-камер на ПК](https://habr.com/ru/news/874624/?utm_campaign=874624&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
