@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok отключила свой собственный сервис в США](https://habr.com/ru/news/874672/?utm_campaign=874672&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Open Source-платформы Cozystack 0.22 &lpar;и немного 0.23&rpar;: телеметрия, пропатченный Talos, Workload и WorkloadMonitor](https://habr.com/ru/companies/aenix/news/874452/?utm_campaign=874452&utm_source=habrahabr&utm_medium=rss)
 - [Точки доступа Wi‑Fi «Аквариус» внесены в реестр Минпромторга России](https://habr.com/ru/news/874628/?utm_campaign=874628&utm_source=habrahabr&utm_medium=rss)
 - [Canon требует ежемесячную абонентскую плату $5, чтобы в полной мере использовать свои камеры в качестве веб-камер на ПК](https://habr.com/ru/news/874624/?utm_campaign=874624&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры опубликовали в даркнете данные 15 тысяч устройств FortiGate](https://habr.com/ru/news/874604/?utm_campaign=874604&utm_source=habrahabr&utm_medium=rss)
-- [Новая модель искусственного интеллекта «Тitans» от Google обеспечивает долговременную память языковых моделей](https://habr.com/ru/companies/bothub/news/874596/?utm_campaign=874596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
