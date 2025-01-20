@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok ожил в США, приложение приветствует сообщением «добро пожаловать обратно»](https://habr.com/ru/news/874832/?utm_campaign=874832&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый медиацентр Kodi 21.2](https://habr.com/ru/news/874756/?utm_campaign=874756&utm_source=habrahabr&utm_medium=rss)
 - [Как создать веб-приложение на Django? 4 инструкции для новичков](https://habr.com/ru/companies/selectel/news/874734/?utm_campaign=874734&utm_source=habrahabr&utm_medium=rss)
 - [ПК с Windows 10/11 TPM и шифрованием BitLocker столкнулись с ошибкой](https://habr.com/ru/news/874710/?utm_campaign=874710&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Origin от EA перестанет работать в апреле](https://habr.com/ru/news/874706/?utm_campaign=874706&utm_source=habrahabr&utm_medium=rss)
-- [Первый в мире чат-бот на основе искусственного интеллекта ELIZA возродили спустя 60 лет](https://habr.com/ru/news/874702/?utm_campaign=874702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
