@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая база данных компании «ИнтерТех Связь» для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/874508/?utm_campaign=874508&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект DooM-docm — Doom в Microsoft Word](https://habr.com/ru/news/874858/?utm_campaign=874858&utm_source=habrahabr&utm_medium=rss)
 - [Минюст США подтвердил, что арестованный солдат армии США связан со взломом AT&amp;amp;T и Verizon](https://habr.com/ru/news/874852/?utm_campaign=874852&utm_source=habrahabr&utm_medium=rss)
 - [«Аналитик SOC» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/870540/?utm_campaign=870540&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 6.13](https://habr.com/ru/news/874842/?utm_campaign=874842&utm_source=habrahabr&utm_medium=rss)
-- [TikTok ожил в США, приложение приветствует сообщением «добро пожаловать обратно»](https://habr.com/ru/news/874832/?utm_campaign=874832&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый медиацентр Kodi 21.2](https://habr.com/ru/news/874756/?utm_campaign=874756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
