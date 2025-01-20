@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст превратил робот-пылесос Roomba в робо-кормушку для собак](https://habr.com/ru/news/874940/?utm_campaign=874940&utm_source=habrahabr&utm_medium=rss)
+- [Россиян предупредили о риске профинансировать террористов при переводе денег по номеру телефона](https://habr.com/ru/news/874944/?utm_campaign=874944&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила бесплатное руководство по работе с нейросетевыми агентами](https://habr.com/ru/news/874942/?utm_campaign=874942&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала тестировать ИИ-поиск по локальным файлам пользователей в Windows 11](https://habr.com/ru/news/874934/?utm_campaign=874934&utm_source=habrahabr&utm_medium=rss)
 - [Группа по стандартам PCIe выпустила драфт проекта спецификации PCIe 7.0](https://habr.com/ru/news/874928/?utm_campaign=874928&utm_source=habrahabr&utm_medium=rss)
-- [«Учи.ру» организует всероссийский IT‑хакатон для школьников](https://habr.com/ru/news/874618/?utm_campaign=874618&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году «Яндекс» защитил пользователей от 800 млн нежелательных звонков](https://habr.com/ru/news/874924/?utm_campaign=874924&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» и НСПК объединят системы оплаты по биометрии](https://habr.com/ru/news/874914/?utm_campaign=874914&utm_source=habrahabr&utm_medium=rss)
-- [Киберпреступники начали продавать заражённую вирусами технику на маркетплейсах](https://habr.com/ru/news/874890/?utm_campaign=874890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
