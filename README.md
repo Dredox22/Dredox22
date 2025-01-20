@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование ChatGPT в школе: результаты опроса подростков и учителей](https://habr.com/ru/companies/bothub/news/874984/?utm_campaign=874984&utm_source=habrahabr&utm_medium=rss)
+- [Meta* и другие технологические гиганты наращивают мощности за счёт возобновляемых источников энергии](https://habr.com/ru/companies/bothub/news/874976/?utm_campaign=874976&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты указали на риск взлома Telegram через небезопасные QR-коды](https://habr.com/ru/news/874964/?utm_campaign=874964&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст превратил робот-пылесос Roomba в робо-кормушку для собак](https://habr.com/ru/news/874940/?utm_campaign=874940&utm_source=habrahabr&utm_medium=rss)
 - [Россиян предупредили о риске профинансировать террористов при переводе денег по номеру телефона](https://habr.com/ru/news/874944/?utm_campaign=874944&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила бесплатное руководство по работе с нейросетевыми агентами](https://habr.com/ru/news/874942/?utm_campaign=874942&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала тестировать ИИ-поиск по локальным файлам пользователей в Windows 11](https://habr.com/ru/news/874934/?utm_campaign=874934&utm_source=habrahabr&utm_medium=rss)
-- [Группа по стандартам PCIe выпустила драфт проекта спецификации PCIe 7.0](https://habr.com/ru/news/874928/?utm_campaign=874928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
