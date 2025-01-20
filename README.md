@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Партнёрство Mistral AI с Agence France-Presse: интеграция новостей в чат-бот Le Chat](https://habr.com/ru/companies/bothub/news/875056/?utm_campaign=875056&utm_source=habrahabr&utm_medium=rss)
 - [Krea AI упрощает создание 3D-объектов для сцен, созданных искусственным интеллектом](https://habr.com/ru/companies/bothub/news/875030/?utm_campaign=875030&utm_source=habrahabr&utm_medium=rss)
 - [Character AI тестирует игры на платформе, чтобы повысить вовлечённость пользователей](https://habr.com/ru/companies/bothub/news/875020/?utm_campaign=875020&utm_source=habrahabr&utm_medium=rss)
 - [TSMC: производство передовых чипов в США стартует не раньше, чем на Тайване](https://habr.com/ru/news/875010/?utm_campaign=875010&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia предлагает решения для обеспечения безопасности и контроля AI-агентов на предприятиях](https://habr.com/ru/companies/bothub/news/875006/?utm_campaign=875006&utm_source=habrahabr&utm_medium=rss)
-- [«Ведомости»: средняя стоимость хакерской атаки в 2025 году достигла $20 тысяч](https://habr.com/ru/news/874992/?utm_campaign=874992&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
