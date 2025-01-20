@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Использование ChatGPT в школе: результаты опроса подростков и учителей](https://habr.com/ru/companies/bothub/news/874984/?utm_campaign=874984&utm_source=habrahabr&utm_medium=rss)
-- [Meta* и другие технологические гиганты наращивают мощности за счёт возобновляемых источников энергии](https://habr.com/ru/companies/bothub/news/874976/?utm_campaign=874976&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты указали на риск взлома Telegram через небезопасные QR-коды](https://habr.com/ru/news/874964/?utm_campaign=874964&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст превратил робот-пылесос Roomba в робо-кормушку для собак](https://habr.com/ru/news/874940/?utm_campaign=874940&utm_source=habrahabr&utm_medium=rss)
-- [Россиян предупредили о риске профинансировать террористов при переводе денег по номеру телефона](https://habr.com/ru/news/874944/?utm_campaign=874944&utm_source=habrahabr&utm_medium=rss)
+- [Character AI тестирует игры на платформе, чтобы повысить вовлечённость пользователей](https://habr.com/ru/companies/bothub/news/875020/?utm_campaign=875020&utm_source=habrahabr&utm_medium=rss)
+- [TSMC: производство передовых чипов в США стартует не раньше, чем на Тайване](https://habr.com/ru/news/875010/?utm_campaign=875010&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia предлагает решения для обеспечения безопасности и контроля AI-агентов на предприятиях](https://habr.com/ru/companies/bothub/news/875006/?utm_campaign=875006&utm_source=habrahabr&utm_medium=rss)
+- [«Ведомости»: средняя стоимость хакерской атаки в 2025 году достигла $20 тысяч](https://habr.com/ru/news/874992/?utm_campaign=874992&utm_source=habrahabr&utm_medium=rss)
+- [Parallels тестирует эмуляцию x86 на чипах Apple Silicon](https://habr.com/ru/news/874990/?utm_campaign=874990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
