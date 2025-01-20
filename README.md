@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Группа по стандартам PCIe выпустила драфт проекта спецификации PCIe 7.0](https://habr.com/ru/news/874928/?utm_campaign=874928&utm_source=habrahabr&utm_medium=rss)
+- [«Учи.ру» организует всероссийский IT‑хакатон для школьников](https://habr.com/ru/news/874618/?utm_campaign=874618&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году «Яндекс» защитил пользователей от 800 млн нежелательных звонков](https://habr.com/ru/news/874924/?utm_campaign=874924&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» и НСПК объединят системы оплаты по биометрии](https://habr.com/ru/news/874914/?utm_campaign=874914&utm_source=habrahabr&utm_medium=rss)
 - [Киберпреступники начали продавать заражённую вирусами технику на маркетплейсах](https://habr.com/ru/news/874890/?utm_campaign=874890&utm_source=habrahabr&utm_medium=rss)
-- [Новая база данных компании «ИнтерТех Связь» для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/874508/?utm_campaign=874508&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект DooM-docm — Doom в Microsoft Word](https://habr.com/ru/news/874858/?utm_campaign=874858&utm_source=habrahabr&utm_medium=rss)
-- [Минюст США подтвердил, что арестованный солдат армии США связан со взломом AT&amp;amp;T и Verizon](https://habr.com/ru/news/874852/?utm_campaign=874852&utm_source=habrahabr&utm_medium=rss)
-- [«Аналитик SOC» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/870540/?utm_campaign=870540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
