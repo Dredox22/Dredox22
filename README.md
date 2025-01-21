@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Китае пройдет первый в мире полумарафон человек-робот](https://habr.com/ru/news/875160/?utm_campaign=875160&utm_source=habrahabr&utm_medium=rss)
+- [Игра Sid Meier&#39;s Civilization VII ушла «на золото»](https://habr.com/ru/news/875156/?utm_campaign=875156&utm_source=habrahabr&utm_medium=rss)
 - [Canon выпустила Live Switcher Mobile — приложение для трансляции видео одновременно с трёх iOS-устройств](https://habr.com/ru/news/875146/?utm_campaign=875146&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek утверждает, что его модель рассуждений превосходит o1 от OpenAI по некоторым показателям](https://habr.com/ru/companies/bothub/news/875122/?utm_campaign=875122&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft AutoGen v0.4: поворотный момент на пути к более интеллектуальным AI-агентам](https://habr.com/ru/companies/bothub/news/875112/?utm_campaign=875112&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/875086/?utm_campaign=875086&utm_source=habrahabr&utm_medium=rss)
-- [Партнёрство Mistral AI с Agence France-Presse: интеграция новостей в чат-бот Le Chat](https://habr.com/ru/companies/bothub/news/875056/?utm_campaign=875056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
