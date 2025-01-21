@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На GitHub опубликован визуально привлекательный сервер стресс-тестирования Miku Miku Beam](https://habr.com/ru/news/875284/?utm_campaign=875284&utm_source=habrahabr&utm_medium=rss)
+- [В Steam вышла игра Joy of Programming — Software Engineering Simulator от разработчика на Python](https://habr.com/ru/news/875278/?utm_campaign=875278&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила патч для Windows Server 2022 против бага загрузки системы](https://habr.com/ru/news/875240/?utm_campaign=875240&utm_source=habrahabr&utm_medium=rss)
 - [Высокий сезон без потерь: готовим ИТ-системы к пиковым нагрузкам](https://habr.com/ru/companies/mws/news/875246/?utm_campaign=875246&utm_source=habrahabr&utm_medium=rss)
 - [HPE расследует инцидент со взломом IT-инфраструктуры](https://habr.com/ru/news/875230/?utm_campaign=875230&utm_source=habrahabr&utm_medium=rss)
-- [ЦРУ разработало чат-бота для общения с виртуальными версиями президентов и премьер-министров](https://habr.com/ru/news/875198/?utm_campaign=875198&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.4](https://habr.com/ru/news/875184/?utm_campaign=875184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
