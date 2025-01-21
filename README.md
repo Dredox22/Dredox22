@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила патч для Windows Server 2022 против бага загрузки системы](https://habr.com/ru/news/875240/?utm_campaign=875240&utm_source=habrahabr&utm_medium=rss)
+- [Высокий сезон без потерь: готовим ИТ-системы к пиковым нагрузкам](https://habr.com/ru/companies/mws/news/875246/?utm_campaign=875246&utm_source=habrahabr&utm_medium=rss)
+- [HPE расследует инцидент со взломом IT-инфраструктуры](https://habr.com/ru/news/875230/?utm_campaign=875230&utm_source=habrahabr&utm_medium=rss)
 - [ЦРУ разработало чат-бота для общения с виртуальными версиями президентов и премьер-министров](https://habr.com/ru/news/875198/?utm_campaign=875198&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.4](https://habr.com/ru/news/875184/?utm_campaign=875184&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме предупредили пользователей об опасности хранения конфиденциальной информации на ресурсах Google, включая Gmail](https://habr.com/ru/news/875170/?utm_campaign=875170&utm_source=habrahabr&utm_medium=rss)
-- [В Китае пройдет первый в мире полумарафон человек-робот](https://habr.com/ru/news/875160/?utm_campaign=875160&utm_source=habrahabr&utm_medium=rss)
-- [Игра Sid Meier&#39;s Civilization VII ушла «на золото»](https://habr.com/ru/news/875156/?utm_campaign=875156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
