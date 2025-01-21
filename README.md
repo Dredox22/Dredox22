@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Transformer² от Sakana AI — это новый подход, помогающий языковым моделям обучаться](https://habr.com/ru/companies/bothub/news/875324/?utm_campaign=875324&utm_source=habrahabr&utm_medium=rss)
+- [Новый продукт от OpenAI: что известно об инструменте на основе AI, который может управлять компьютером](https://habr.com/ru/companies/bothub/news/875318/?utm_campaign=875318&utm_source=habrahabr&utm_medium=rss)
+- [Мисконфигурация в Клеверенс Mobile SMARTS](https://habr.com/ru/companies/cyberok/news/875316/?utm_campaign=875316&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком»: утечка данных была в инфраструктуре подрядчика, пользователям рекомендуется сбросить пароли и включить 2FA](https://habr.com/ru/news/875312/?utm_campaign=875312&utm_source=habrahabr&utm_medium=rss)
 - [Функция Type Stripping в Node.js теперь доступна по умолчанию](https://habr.com/ru/news/875298/?utm_campaign=875298&utm_source=habrahabr&utm_medium=rss)
-- [DLBI: хакеры заявили, что получили доступ к данным «Ростелекома»](https://habr.com/ru/news/875294/?utm_campaign=875294&utm_source=habrahabr&utm_medium=rss)
-- [На GitHub опубликован визуально привлекательный сервер стресс-тестирования Miku Miku Beam](https://habr.com/ru/news/875284/?utm_campaign=875284&utm_source=habrahabr&utm_medium=rss)
-- [В Steam вышла игра Joy of Programming — Software Engineering Simulator от разработчика на Python](https://habr.com/ru/news/875278/?utm_campaign=875278&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила патч для Windows Server 2022 против бага загрузки системы](https://habr.com/ru/news/875240/?utm_campaign=875240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
