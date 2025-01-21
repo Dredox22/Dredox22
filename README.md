@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся, как устроена R1 – новая бесплатная ризонинг модель ИИ из Китая, работающая на уровне o1 от OpenAI](https://habr.com/ru/news/875456/?utm_campaign=875456&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: хакеры пытаются привлечь российских специалистов к инсайдерской работе](https://habr.com/ru/news/875434/?utm_campaign=875434&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор намерен потратить 125 млн на создание и развитие Единой системы мониторинга радиочастотного спектра](https://habr.com/ru/news/875412/?utm_campaign=875412&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского»: «2 миллиона успешных прохождений тренажёров за первую неделю проекта «Урок цифры»»](https://habr.com/ru/news/875392/?utm_campaign=875392&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: чувствительные данные абонентов «Ростелекома» не утекли, атака не затронула «Госуслуги»](https://habr.com/ru/news/875368/?utm_campaign=875368&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries Privacy Day — первое мероприятия в сфере приватности от команды DPO WB](https://habr.com/ru/companies/wildberries/news/875346/?utm_campaign=875346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
