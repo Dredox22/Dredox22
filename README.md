@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЦРУ разработало чат-бота для общения с виртуальными версиями президентов и премьер-министров](https://habr.com/ru/news/875198/?utm_campaign=875198&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.4](https://habr.com/ru/news/875184/?utm_campaign=875184&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме предупредили пользователей об опасности хранения конфиденциальной информации на ресурсах Google, включая Gmail](https://habr.com/ru/news/875170/?utm_campaign=875170&utm_source=habrahabr&utm_medium=rss)
 - [В Китае пройдет первый в мире полумарафон человек-робот](https://habr.com/ru/news/875160/?utm_campaign=875160&utm_source=habrahabr&utm_medium=rss)
 - [Игра Sid Meier&#39;s Civilization VII ушла «на золото»](https://habr.com/ru/news/875156/?utm_campaign=875156&utm_source=habrahabr&utm_medium=rss)
-- [Canon выпустила Live Switcher Mobile — приложение для трансляции видео одновременно с трёх iOS-устройств](https://habr.com/ru/news/875146/?utm_campaign=875146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
