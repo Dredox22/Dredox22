@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Функция Type Stripping в Node.js теперь доступна по умолчанию](https://habr.com/ru/news/875298/?utm_campaign=875298&utm_source=habrahabr&utm_medium=rss)
+- [DLBI: хакеры заявили, что получили доступ к данным «Ростелекома»](https://habr.com/ru/news/875294/?utm_campaign=875294&utm_source=habrahabr&utm_medium=rss)
 - [На GitHub опубликован визуально привлекательный сервер стресс-тестирования Miku Miku Beam](https://habr.com/ru/news/875284/?utm_campaign=875284&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышла игра Joy of Programming — Software Engineering Simulator от разработчика на Python](https://habr.com/ru/news/875278/?utm_campaign=875278&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила патч для Windows Server 2022 против бага загрузки системы](https://habr.com/ru/news/875240/?utm_campaign=875240&utm_source=habrahabr&utm_medium=rss)
-- [Высокий сезон без потерь: готовим ИТ-системы к пиковым нагрузкам](https://habr.com/ru/companies/mws/news/875246/?utm_campaign=875246&utm_source=habrahabr&utm_medium=rss)
-- [HPE расследует инцидент со взломом IT-инфраструктуры](https://habr.com/ru/news/875230/?utm_campaign=875230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
