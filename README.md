@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: чувствительные данные абонентов «Ростелекома» не утекли, атака не затронула «Госуслуги»](https://habr.com/ru/news/875368/?utm_campaign=875368&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries Privacy Day — первое мероприятия в сфере приватности от команды DPO WB](https://habr.com/ru/companies/wildberries/news/875346/?utm_campaign=875346&utm_source=habrahabr&utm_medium=rss)
 - [Дарио Амодеи, CEO Anthropic: «ИИ может превзойти человеческий разум к 2027 году»](https://habr.com/ru/news/875354/?utm_campaign=875354&utm_source=habrahabr&utm_medium=rss)
 - [Вышел учебник А.Л. Хейфеца «Инженерная 3D-компьютерная графика – Платформа nanoCAD»](https://habr.com/ru/companies/nanosoft/news/875344/?utm_campaign=875344&utm_source=habrahabr&utm_medium=rss)
 - [Transformer² от Sakana AI — это новый подход, помогающий языковым моделям обучаться](https://habr.com/ru/companies/bothub/news/875324/?utm_campaign=875324&utm_source=habrahabr&utm_medium=rss)
-- [Новый продукт от OpenAI: что известно об инструменте на основе AI, который может управлять компьютером](https://habr.com/ru/companies/bothub/news/875318/?utm_campaign=875318&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
