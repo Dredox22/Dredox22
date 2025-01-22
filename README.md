@@ -72,7 +72,7 @@
 - [Система «Антифрод» РКН в 2024 году проверила 158 млрд вызовов и предотвратила почти 606 млн звонков с подменных номеров](https://habr.com/ru/news/875688/?utm_campaign=875688&utm_source=habrahabr&utm_medium=rss)
 - [Китайская EngineAI провела тест походки робота-гуманоида SE01 возле своего офиса в Шэньчжэне](https://habr.com/ru/news/875686/?utm_campaign=875686&utm_source=habrahabr&utm_medium=rss)
 - [SwiftKV: как снизить затраты и ускорить логический вывод больших языковых моделей](https://habr.com/ru/companies/bothub/news/875672/?utm_campaign=875672&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление TeamSpeak: редизайн, трансляция экрана и мультистриминг](https://habr.com/ru/news/875636/?utm_campaign=875636&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект простой системы контроля версий Evo: The Evolution of Version Control, вот только зачем](https://habr.com/ru/news/875646/?utm_campaign=875646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
