@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Билл Гейтс: «Это одна из самых важных книг об искусственном интеллекте, когда-либо написанных»](https://habr.com/ru/companies/bothub/news/875680/?utm_campaign=875680&utm_source=habrahabr&utm_medium=rss)
+- [Система «Антифрод» РКН в 2024 году проверила 158 млрд вызовов и предотвратила почти 606 млн звонков с подменных номеров](https://habr.com/ru/news/875688/?utm_campaign=875688&utm_source=habrahabr&utm_medium=rss)
+- [Китайская EngineAI провела тест походки робота-гуманоида SE01 возле своего офиса в Шэньчжэне](https://habr.com/ru/news/875686/?utm_campaign=875686&utm_source=habrahabr&utm_medium=rss)
+- [SwiftKV: как снизить затраты и ускорить логический вывод больших языковых моделей](https://habr.com/ru/companies/bothub/news/875672/?utm_campaign=875672&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление TeamSpeak: редизайн, трансляция экрана и мультистриминг](https://habr.com/ru/news/875636/?utm_campaign=875636&utm_source=habrahabr&utm_medium=rss)
-- [Опция Microsoft Edge Game Assist стала доступна всем пользователям](https://habr.com/ru/news/875628/?utm_campaign=875628&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity запускает Sonar, API для поиска с помощью искусственного интеллекта](https://habr.com/ru/companies/bothub/news/875598/?utm_campaign=875598&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система виртуализации VirtualBox 7.1.6](https://habr.com/ru/news/875626/?utm_campaign=875626&utm_source=habrahabr&utm_medium=rss)
-- [7-Zip исправила ошибку обхода предупреждений безопасности Windows MoTW](https://habr.com/ru/news/875618/?utm_campaign=875618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
