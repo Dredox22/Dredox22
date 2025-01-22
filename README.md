@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел релиз СУБД Postgres Pro Enterprise 17](https://habr.com/ru/news/875786/?utm_campaign=875786&utm_source=habrahabr&utm_medium=rss)
 - [В Steam анонсирована ещё одна российская игра про продавца в киоске «Ларёк у дома»](https://habr.com/ru/news/875780/?utm_campaign=875780&utm_source=habrahabr&utm_medium=rss)
 - [«Бюро 1440» анонсировало создание абонентских спутниковых терминалов](https://habr.com/ru/news/875750/?utm_campaign=875750&utm_source=habrahabr&utm_medium=rss)
 - [Mobile Inform Group представила российский промышленный смартфон MIG S6 на базе Ред ОС М](https://habr.com/ru/news/875736/?utm_campaign=875736&utm_source=habrahabr&utm_medium=rss)
 - [РКН зарегистрировал 71 тыс. каналов с 10К+ подписчиками, пока нет ответственности за неисполнение этого требования](https://habr.com/ru/news/875734/?utm_campaign=875734&utm_source=habrahabr&utm_medium=rss)
-- [Компания Lumina AI выпускает PrismRCL 2.6.0 с расширенными параметрами обучения LLM](https://habr.com/ru/companies/bothub/news/875684/?utm_campaign=875684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
