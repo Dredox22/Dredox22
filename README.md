@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ДИТ Москвы разработал бота, способного помочь в защите от кибермошенников](https://habr.com/ru/news/875582/?utm_campaign=875582&utm_source=habrahabr&utm_medium=rss)
+- [Meta* разрабатывает умные очки Oakley для спортсменов](https://habr.com/ru/news/875562/?utm_campaign=875562&utm_source=habrahabr&utm_medium=rss)
 - [Moonshot AI представляет Kimi k1.5, следующего китайского конкурента o1](https://habr.com/ru/companies/bothub/news/875556/?utm_campaign=875556&utm_source=habrahabr&utm_medium=rss)
 - [Stripe уволила 300 сотрудников, включая инженеров и разработчиков](https://habr.com/ru/news/875540/?utm_campaign=875540&utm_source=habrahabr&utm_medium=rss)
 - [Квартирник по безопасной разработке: практика, эффективность и тренды](https://habr.com/ru/companies/ussc/news/875536/?utm_campaign=875536&utm_source=habrahabr&utm_medium=rss)
-- [Telegram помог полиции, раскрыв данные 17-летнего хакера, укравшего базу 19,2 млн клиентов мобильного оператора Free](https://habr.com/ru/news/875520/?utm_campaign=875520&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wine 10.0](https://habr.com/ru/news/875506/?utm_campaign=875506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
