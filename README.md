@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор не получал уведомления об утечке персональных данных клиентов от компании «Ростелеком»](https://habr.com/ru/news/875500/?utm_campaign=875500&utm_source=habrahabr&utm_medium=rss)
 - [Трамп помиловал создателя криптомаркетплейса Silk Road Росса Ульбрихта](https://habr.com/ru/news/875488/?utm_campaign=875488&utm_source=habrahabr&utm_medium=rss)
-- [Трамп сообщил о выделении до $500 млрд частному сектору для развития инфраструктуры искусственного интеллекта в США](https://habr.com/ru/news/875486/?utm_campaign=875486&utm_source=habrahabr&utm_medium=rss)
+- [Трамп сообщил об инвестировании от Softbank, OpenAI, Oracle и MGX до $500 млрд в развитие инфраструктуры ИИ в США](https://habr.com/ru/news/875486/?utm_campaign=875486&utm_source=habrahabr&utm_medium=rss)
 - [Tencent представила Hunyuan3D 2.0 — обновление нейросети для генерации 3D-моделей](https://habr.com/ru/news/875478/?utm_campaign=875478&utm_source=habrahabr&utm_medium=rss)
 - [Разбираемся, как устроена R1 – новая бесплатная ризонинг модель ИИ из Китая, работающая на уровне o1 от OpenAI](https://habr.com/ru/news/875456/?utm_campaign=875456&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: хакеры пытаются привлечь российских специалистов к инсайдерской работе](https://habr.com/ru/news/875434/?utm_campaign=875434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
