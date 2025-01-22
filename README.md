@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ДИТ Москвы разработал бота, способного помочь в защите от кибермошенников](https://habr.com/ru/news/875582/?utm_campaign=875582&utm_source=habrahabr&utm_medium=rss)
-- [Meta* разрабатывает умные очки Oakley для спортсменов](https://habr.com/ru/news/875562/?utm_campaign=875562&utm_source=habrahabr&utm_medium=rss)
-- [Moonshot AI представляет Kimi k1.5, следующего китайского конкурента o1](https://habr.com/ru/companies/bothub/news/875556/?utm_campaign=875556&utm_source=habrahabr&utm_medium=rss)
-- [Stripe уволила 300 сотрудников, включая инженеров и разработчиков](https://habr.com/ru/news/875540/?utm_campaign=875540&utm_source=habrahabr&utm_medium=rss)
-- [Квартирник по безопасной разработке: практика, эффективность и тренды](https://habr.com/ru/companies/ussc/news/875536/?utm_campaign=875536&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление TeamSpeak: редизайн, трансляция экрана и мультистриминг](https://habr.com/ru/news/875636/?utm_campaign=875636&utm_source=habrahabr&utm_medium=rss)
+- [Опция Microsoft Edge Game Assist стала доступна всем пользователям](https://habr.com/ru/news/875628/?utm_campaign=875628&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity запускает Sonar, API для поиска с помощью искусственного интеллекта](https://habr.com/ru/companies/bothub/news/875598/?utm_campaign=875598&utm_source=habrahabr&utm_medium=rss)
+- [Вышла система виртуализации VirtualBox 7.1.6](https://habr.com/ru/news/875626/?utm_campaign=875626&utm_source=habrahabr&utm_medium=rss)
+- [7-Zip исправила ошибку обхода предупреждений безопасности Windows MoTW](https://habr.com/ru/news/875618/?utm_campaign=875618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
