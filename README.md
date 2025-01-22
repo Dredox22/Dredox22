@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram помог полиции, раскрыв данные 17-летнего хакера, укравшего базу 19,2 млн клиентов мобильного оператора Free](https://habr.com/ru/news/875520/?utm_campaign=875520&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.0](https://habr.com/ru/news/875506/?utm_campaign=875506&utm_source=habrahabr&utm_medium=rss)
 - [Европол: крупные IT-компании несут ответственность за дешифровку сообщений подозреваемых](https://habr.com/ru/news/875504/?utm_campaign=875504&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор не получал уведомления об утечке персональных данных клиентов от компании «Ростелеком»](https://habr.com/ru/news/875500/?utm_campaign=875500&utm_source=habrahabr&utm_medium=rss)
 - [Трамп помиловал создателя криптомаркетплейса Silk Road Росса Ульбрихта](https://habr.com/ru/news/875488/?utm_campaign=875488&utm_source=habrahabr&utm_medium=rss)
-- [Трамп сообщил об инвестировании от Softbank, OpenAI, Oracle и MGX до $500 млрд в развитие инфраструктуры ИИ в США](https://habr.com/ru/news/875486/?utm_campaign=875486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
