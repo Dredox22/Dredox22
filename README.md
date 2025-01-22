@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobile Inform Group представила российский промышленный смартфон MIG S6 на базе Ред ОС М](https://habr.com/ru/news/875736/?utm_campaign=875736&utm_source=habrahabr&utm_medium=rss)
+- [РКН зарегистрировал 71 тыс. каналов с 10К+ подписчиками, пока нет ответственности за неисполнение этого требования](https://habr.com/ru/news/875734/?utm_campaign=875734&utm_source=habrahabr&utm_medium=rss)
+- [Компания Lumina AI выпускает PrismRCL 2.6.0 с расширенными параметрами обучения LLM](https://habr.com/ru/companies/bothub/news/875684/?utm_campaign=875684&utm_source=habrahabr&utm_medium=rss)
+- [Гуманоидные роботы UBTech будут собирать электромобили на заводах Foxconn](https://habr.com/ru/news/875728/?utm_campaign=875728&utm_source=habrahabr&utm_medium=rss)
 - [Билл Гейтс: «Это одна из самых важных книг об искусственном интеллекте, когда-либо написанных»](https://habr.com/ru/companies/bothub/news/875680/?utm_campaign=875680&utm_source=habrahabr&utm_medium=rss)
-- [Система «Антифрод» РКН в 2024 году проверила 158 млрд вызовов и предотвратила почти 606 млн звонков с подменных номеров](https://habr.com/ru/news/875688/?utm_campaign=875688&utm_source=habrahabr&utm_medium=rss)
-- [Китайская EngineAI провела тест походки робота-гуманоида SE01 возле своего офиса в Шэньчжэне](https://habr.com/ru/news/875686/?utm_campaign=875686&utm_source=habrahabr&utm_medium=rss)
-- [SwiftKV: как снизить затраты и ускорить логический вывод больших языковых моделей](https://habr.com/ru/companies/bothub/news/875672/?utm_campaign=875672&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект простой системы контроля версий Evo: The Evolution of Version Control, вот только зачем](https://habr.com/ru/news/875646/?utm_campaign=875646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
