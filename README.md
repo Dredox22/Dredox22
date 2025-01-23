@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Galileo предлагает инструменты для оценки работы AI-агентов](https://habr.com/ru/companies/bothub/news/876096/?utm_campaign=876096&utm_source=habrahabr&utm_medium=rss)
 - [Rutube представил функцию, позволяющую скачивать видео на устройствах с ОС Android](https://habr.com/ru/news/876128/?utm_campaign=876128&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance выпустила Trae AI — собственную IDE с нейросетями](https://habr.com/ru/news/876114/?utm_campaign=876114&utm_source=habrahabr&utm_medium=rss)
 - [Databricks привлекает рекордное финансирование: компания оценивается в 62 миллиарда долларов](https://habr.com/ru/companies/bothub/news/876050/?utm_campaign=876050&utm_source=habrahabr&utm_medium=rss)
 - [Приложения с искусственным интеллектом бьют рекорды по популярности и затратам пользователей](https://habr.com/ru/companies/bothub/news/876040/?utm_campaign=876040&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Tailwind CSS v4.0](https://habr.com/ru/news/876082/?utm_campaign=876082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
