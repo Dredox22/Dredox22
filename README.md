@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Tailwind CSS v4.0](https://habr.com/ru/news/876082/?utm_campaign=876082&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Карты» добавили пункты переработки новогодних ёлок](https://habr.com/ru/news/876070/?utm_campaign=876070&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор Anthropic: прорыв в области AI и запуск «виртуальных сотрудников»](https://habr.com/ru/companies/bothub/news/876000/?utm_campaign=876000&utm_source=habrahabr&utm_medium=rss)
-- [В работе ChatGPT и OpenAI API произошёл глобальный сбой](https://habr.com/ru/news/876052/?utm_campaign=876052&utm_source=habrahabr&utm_medium=rss)
-- [Участившиеся случаи утечек баз данных российских компаний привели к снижению их стоимости в Даркнете](https://habr.com/ru/news/876044/?utm_campaign=876044&utm_source=habrahabr&utm_medium=rss)
-- [Curator: число DDoS-атак на российские компании в 2024 году выросло на 53%](https://habr.com/ru/news/876032/?utm_campaign=876032&utm_source=habrahabr&utm_medium=rss)
-- [Напряжённость в отношениях между OpenAI и Microsoft: что стоит за разрывом партнёрства](https://habr.com/ru/companies/bothub/news/876008/?utm_campaign=876008&utm_source=habrahabr&utm_medium=rss)
+- [В работе ChatGPT и OpenAI API произошёл глобальный сбой, спустя час проблема исправлена](https://habr.com/ru/news/876052/?utm_campaign=876052&utm_source=habrahabr&utm_medium=rss)
+- [Участившиеся случаи утечек баз данных российских компаний привели к снижению их стоимости в даркнете](https://habr.com/ru/news/876044/?utm_campaign=876044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
