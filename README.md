@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Роскачество рассказало, как распознать фейковые банковские приложения](https://habr.com/ru/news/875988/?utm_campaign=875988&utm_source=habrahabr&utm_medium=rss)
-- [Улучшения в AI-помощнике Google Gemini для Android: новые функции и возможности](https://habr.com/ru/companies/bothub/news/875980/?utm_campaign=875980&utm_source=habrahabr&utm_medium=rss)
-- [Команда Obsidian подвела итоги ежегодной премии лучших расширений, инструментов и тем](https://habr.com/ru/news/875978/?utm_campaign=875978&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году российские и китайские IT-компании на 18% чаще просили помочь им выйти на дружественные рынки](https://habr.com/ru/news/875976/?utm_campaign=875976&utm_source=habrahabr&utm_medium=rss)
-- [Как сэкономить на IT-инфраструктуре? Дадим план действий на вебинаре](https://habr.com/ru/companies/selectel/news/875938/?utm_campaign=875938&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор Anthropic: прорыв в области AI и запуск «виртуальных сотрудников»](https://habr.com/ru/companies/bothub/news/876000/?utm_campaign=876000&utm_source=habrahabr&utm_medium=rss)
+- [В работе ChatGPT и OpenAI API произошёл глобальный сбой](https://habr.com/ru/news/876052/?utm_campaign=876052&utm_source=habrahabr&utm_medium=rss)
+- [Участившиеся случаи утечек баз данных российских компаний привели к снижению их стоимости в Даркнете](https://habr.com/ru/news/876044/?utm_campaign=876044&utm_source=habrahabr&utm_medium=rss)
+- [Curator: число DDoS-атак на российские компании в 2024 году выросло на 53%](https://habr.com/ru/news/876032/?utm_campaign=876032&utm_source=habrahabr&utm_medium=rss)
+- [Напряжённость в отношениях между OpenAI и Microsoft: что стоит за разрывом партнёрства](https://habr.com/ru/companies/bothub/news/876008/?utm_campaign=876008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
