@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Окей, chatgpt, зайди в мой Intsagram, отсмотри Reels и пришли лучшие моей девушке](https://habr.com/ru/news/876188/?utm_campaign=876188&utm_source=habrahabr&utm_medium=rss)
 - [Sony прекращает производство носителей Blu-ray спустя 18 лет, последний завод закроется в феврале](https://habr.com/ru/news/876186/?utm_campaign=876186&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала отключать приложения Mail и Calendar в Windows 11, устанавливая новый Outlook](https://habr.com/ru/news/876182/?utm_campaign=876182&utm_source=habrahabr&utm_medium=rss)
 - [LinkedIn обвиняют в передаче личных сообщений Premium-клиентов третьей стороне для обучения ИИ](https://habr.com/ru/news/876174/?utm_campaign=876174&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains анонсировала Junie – нейросетевого агента для программирования](https://habr.com/ru/news/876162/?utm_campaign=876162&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустили Operator – ИИ-агента для автономного управления компьютером](https://habr.com/ru/news/876158/?utm_campaign=876158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
