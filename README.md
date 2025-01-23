@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Cloudflare нашли уязвимость, с помощью которой можно отслеживать местоположение пользователей Signal, Discord и X](https://habr.com/ru/news/875896/?utm_campaign=875896&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры используют капчу в Telegram, чтобы заставлять пользователей запускать скрипты PowerShell](https://habr.com/ru/news/875890/?utm_campaign=875890&utm_source=habrahabr&utm_medium=rss)
+- [Инженер купил домен «OGOpenAI» для китайской DeepSeek](https://habr.com/ru/news/875882/?utm_campaign=875882&utm_source=habrahabr&utm_medium=rss)
 - [НИИ Радио поменял название на НИЦ Телеком](https://habr.com/ru/news/875872/?utm_campaign=875872&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта Ventoy 1.1.00 для создания мультизагрузочной флешки](https://habr.com/ru/news/875858/?utm_campaign=875858&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект astroterm — карта звёздного неба в терминале](https://habr.com/ru/news/875848/?utm_campaign=875848&utm_source=habrahabr&utm_medium=rss)
-- [VK Tech представила Secure Cloud — защищённую облачную платформу на базе VK Cloud](https://habr.com/ru/news/875818/?utm_campaign=875818&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз СУБД Postgres Pro Enterprise 17](https://habr.com/ru/news/875786/?utm_campaign=875786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
