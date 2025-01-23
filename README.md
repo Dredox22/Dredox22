@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs делится первыми результатами своего AI-агента поддержки](https://habr.com/ru/companies/bothub/news/875964/?utm_campaign=875964&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Bun 1.2 — среды выполнения JavaScript и TypeScript](https://habr.com/ru/news/875954/?utm_campaign=875954&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи 3D-принтеров Bambu Lab считают, что компания пытается ограничить использование стороннего софта](https://habr.com/ru/news/875918/?utm_campaign=875918&utm_source=habrahabr&utm_medium=rss)
-- [В Cloudflare нашли уязвимость, с помощью которой можно отслеживать местоположение пользователей Signal, Discord и X](https://habr.com/ru/news/875896/?utm_campaign=875896&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры используют капчу в Telegram, чтобы заставлять пользователей запускать скрипты PowerShell](https://habr.com/ru/news/875890/?utm_campaign=875890&utm_source=habrahabr&utm_medium=rss)
+- [Роскачество рассказало, как распознать фейковые банковские приложения](https://habr.com/ru/news/875988/?utm_campaign=875988&utm_source=habrahabr&utm_medium=rss)
+- [Улучшения в AI-помощнике Google Gemini для Android: новые функции и возможности](https://habr.com/ru/companies/bothub/news/875980/?utm_campaign=875980&utm_source=habrahabr&utm_medium=rss)
+- [Команда Obsidian подвела итоги ежегодной премии лучших расширений, инструментов и тем](https://habr.com/ru/news/875978/?utm_campaign=875978&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году российские и китайские IT-компании на 18% чаще просили помочь им выйти на дружественные рынки](https://habr.com/ru/news/875976/?utm_campaign=875976&utm_source=habrahabr&utm_medium=rss)
+- [Как сэкономить на IT-инфраструктуре? Дадим план действий на вебинаре](https://habr.com/ru/companies/selectel/news/875938/?utm_campaign=875938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
