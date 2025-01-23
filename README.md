@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Databricks привлекает рекордное финансирование: компания оценивается в 62 миллиарда долларов](https://habr.com/ru/companies/bothub/news/876050/?utm_campaign=876050&utm_source=habrahabr&utm_medium=rss)
+- [Приложения с искусственным интеллектом бьют рекорды по популярности и затратам пользователей](https://habr.com/ru/companies/bothub/news/876040/?utm_campaign=876040&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tailwind CSS v4.0](https://habr.com/ru/news/876082/?utm_campaign=876082&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Карты» добавили пункты переработки новогодних ёлок](https://habr.com/ru/news/876070/?utm_campaign=876070&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор Anthropic: прорыв в области AI и запуск «виртуальных сотрудников»](https://habr.com/ru/companies/bothub/news/876000/?utm_campaign=876000&utm_source=habrahabr&utm_medium=rss)
-- [В работе ChatGPT и OpenAI API произошёл глобальный сбой, спустя час проблема исправлена](https://habr.com/ru/news/876052/?utm_campaign=876052&utm_source=habrahabr&utm_medium=rss)
-- [Участившиеся случаи утечек баз данных российских компаний привели к снижению их стоимости в даркнете](https://habr.com/ru/news/876044/?utm_campaign=876044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
