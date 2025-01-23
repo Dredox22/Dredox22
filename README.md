@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains анонсировала Junie – нейросетевого агента для программирования](https://habr.com/ru/news/876162/?utm_campaign=876162&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустили Operator – ИИ-агента для автономного управления компьютером](https://habr.com/ru/news/876158/?utm_campaign=876158&utm_source=habrahabr&utm_medium=rss)
 - [Суд отказал в защите патента российскому изобретателю, который судился с Apple](https://habr.com/ru/news/876154/?utm_campaign=876154&utm_source=habrahabr&utm_medium=rss)
 - [Galileo предлагает инструменты для оценки работы AI-агентов](https://habr.com/ru/companies/bothub/news/876096/?utm_campaign=876096&utm_source=habrahabr&utm_medium=rss)
 - [Rutube представил функцию, позволяющую скачивать видео на устройствах с ОС Android](https://habr.com/ru/news/876128/?utm_campaign=876128&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance выпустила Trae AI — собственную IDE с нейросетями](https://habr.com/ru/news/876114/?utm_campaign=876114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
