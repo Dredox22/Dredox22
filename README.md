@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого проекта Ventoy 1.1.00 для создания мультизагрузочной флешки](https://habr.com/ru/news/875858/?utm_campaign=875858&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект astroterm — карта звёздного неба в терминале](https://habr.com/ru/news/875848/?utm_campaign=875848&utm_source=habrahabr&utm_medium=rss)
 - [VK Tech представила Secure Cloud — защищённую облачную платформу на базе VK Cloud](https://habr.com/ru/news/875818/?utm_campaign=875818&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз СУБД Postgres Pro Enterprise 17](https://habr.com/ru/news/875786/?utm_campaign=875786&utm_source=habrahabr&utm_medium=rss)
 - [В Steam анонсирована ещё одна российская игра про продавца в киоске «Ларёк у дома»](https://habr.com/ru/news/875780/?utm_campaign=875780&utm_source=habrahabr&utm_medium=rss)
-- [«Бюро 1440» анонсировало создание абонентских спутниковых терминалов](https://habr.com/ru/news/875750/?utm_campaign=875750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
