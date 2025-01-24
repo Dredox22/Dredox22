@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ФБР: северокорейские IT-специалисты крадут исходный код, чтобы вымогать деньги у работодателей](https://habr.com/ru/news/876230/?utm_campaign=876230&utm_source=habrahabr&utm_medium=rss)
 - [Появились системные требования к DOOM: The Dark Ages от Microsoft и id Software, тайтл выйдет 15 мая 2025 года](https://habr.com/ru/news/876214/?utm_campaign=876214&utm_source=habrahabr&utm_medium=rss)
 - [Bing в Microsoft Edge начал скрывать ссылку на загрузку Google Chrome в Windows 11](https://habr.com/ru/news/876204/?utm_campaign=876204&utm_source=habrahabr&utm_medium=rss)
 - [Окей, chatgpt, зайди в мой Intsagram, отсмотри Reels и пришли лучшие моей девушке](https://habr.com/ru/news/876188/?utm_campaign=876188&utm_source=habrahabr&utm_medium=rss)
 - [Sony прекращает производство носителей Blu-ray спустя 18 лет, последний завод закроется в феврале](https://habr.com/ru/news/876186/?utm_campaign=876186&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала отключать приложения Mail и Calendar в Windows 11, устанавливая новый Outlook](https://habr.com/ru/news/876182/?utm_campaign=876182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
