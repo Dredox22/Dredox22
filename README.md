@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ФБР: северокорейские IT-специалисты крадут исходный код, чтобы вымогать деньги у работодателей](https://habr.com/ru/news/876230/?utm_campaign=876230&utm_source=habrahabr&utm_medium=rss)
-- [Появились системные требования к DOOM: The Dark Ages от Microsoft и id Software, тайтл выйдет 15 мая 2025 года](https://habr.com/ru/news/876214/?utm_campaign=876214&utm_source=habrahabr&utm_medium=rss)
-- [Bing в Microsoft Edge начал скрывать ссылку на загрузку Google Chrome в Windows 11](https://habr.com/ru/news/876204/?utm_campaign=876204&utm_source=habrahabr&utm_medium=rss)
-- [Окей, chatgpt, зайди в мой Intsagram, отсмотри Reels и пришли лучшие моей девушке](https://habr.com/ru/news/876188/?utm_campaign=876188&utm_source=habrahabr&utm_medium=rss)
-- [Sony прекращает производство носителей Blu-ray спустя 18 лет, последний завод закроется в феврале](https://habr.com/ru/news/876186/?utm_campaign=876186&utm_source=habrahabr&utm_medium=rss)
+- [Индия хочет, чтобы Google и Apple разрешили пользователям устанавливать поддерживаемый правительством пакет приложений](https://habr.com/ru/news/876266/?utm_campaign=876266&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик создал бесконечный лабиринт для поимки ботов для обучения ИИ](https://habr.com/ru/news/876254/?utm_campaign=876254&utm_source=habrahabr&utm_medium=rss)
+- [Новая функция Citations от Anthropic направлена ​​на сокращение ошибок AI](https://habr.com/ru/companies/bothub/news/876256/?utm_campaign=876256&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI планирует хранить чаты и скриншоты клиентов ИИ-агента Operator до 90 суток ради безопасности](https://habr.com/ru/news/876250/?utm_campaign=876250&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила настраиваемые расширения Web Store for Enterprise](https://habr.com/ru/news/876242/?utm_campaign=876242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
