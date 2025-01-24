@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Pizza, Bugs &amp;amp; Fun — 22 февраля 2025 года](https://habr.com/ru/news/876332/?utm_campaign=876332&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор Великобритании заподозрил Google и Apple в монополизме на рынке мобильных экосистем](https://habr.com/ru/news/876322/?utm_campaign=876322&utm_source=habrahabr&utm_medium=rss)
+- [Банки предложили создать роуминг при приёме QR-платежей](https://habr.com/ru/news/876312/?utm_campaign=876312&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Нанософт» подписала соглашение о сотрудничестве с РГАТУ](https://habr.com/ru/companies/nanosoft/news/876300/?utm_campaign=876300&utm_source=habrahabr&utm_medium=rss)
 - [Brave Search разрешил пользователям «переоценивать» результаты поиска](https://habr.com/ru/news/876290/?utm_campaign=876290&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft убрала из Office Word функцию Smart Lookup](https://habr.com/ru/news/876276/?utm_campaign=876276&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе Рунета](https://habr.com/ru/news/876280/?utm_campaign=876280&utm_source=habrahabr&utm_medium=rss)
-- [Индия хочет, чтобы Google и Apple разрешили пользователям устанавливать поддерживаемый правительством пакет приложений](https://habr.com/ru/news/876266/?utm_campaign=876266&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик создал бесконечный лабиринт для поимки ботов для обучения ИИ](https://habr.com/ru/news/876254/?utm_campaign=876254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
