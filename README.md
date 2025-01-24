@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave Search разрешил пользователям «переоценивать» результаты поиска](https://habr.com/ru/news/876290/?utm_campaign=876290&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft убрала из Office Word функцию Smart Lookup](https://habr.com/ru/news/876276/?utm_campaign=876276&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе Рунета](https://habr.com/ru/news/876280/?utm_campaign=876280&utm_source=habrahabr&utm_medium=rss)
 - [Индия хочет, чтобы Google и Apple разрешили пользователям устанавливать поддерживаемый правительством пакет приложений](https://habr.com/ru/news/876266/?utm_campaign=876266&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик создал бесконечный лабиринт для поимки ботов для обучения ИИ](https://habr.com/ru/news/876254/?utm_campaign=876254&utm_source=habrahabr&utm_medium=rss)
-- [Новая функция Citations от Anthropic направлена ​​на сокращение ошибок AI](https://habr.com/ru/companies/bothub/news/876256/?utm_campaign=876256&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI планирует хранить чаты и скриншоты клиентов ИИ-агента Operator до 90 суток ради безопасности](https://habr.com/ru/news/876250/?utm_campaign=876250&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила настраиваемые расширения Web Store for Enterprise](https://habr.com/ru/news/876242/?utm_campaign=876242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
