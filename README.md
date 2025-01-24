@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ученые Smart Engines разработали сверхбыстрые алгоритмы для нового поколения компьютерных томографов под управлением ИИ](https://habr.com/ru/companies/smartengines/news/876432/?utm_campaign=876432&utm_source=habrahabr&utm_medium=rss)
 - [МТС выпустила продукт для приватной мобильной связи и интернет-серфинга Membrana](https://habr.com/ru/news/876392/?utm_campaign=876392&utm_source=habrahabr&utm_medium=rss)
 - [Элтекс поднял цены на 20%](https://habr.com/ru/news/876372/?utm_campaign=876372&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка DNS в системе MasterCard оставалась незамеченной в течение многих лет](https://habr.com/ru/news/876346/?utm_campaign=876346&utm_source=habrahabr&utm_medium=rss)
 - [eBay объявила о сотрудничестве с OpenAI](https://habr.com/ru/news/876340/?utm_campaign=876340&utm_source=habrahabr&utm_medium=rss)
-- [Pizza, Bugs &amp;amp; Fun — 22 февраля 2025 года](https://habr.com/ru/news/876332/?utm_campaign=876332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
