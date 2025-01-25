@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Студент собрал ноутбук с открытым исходным кодом за полгода](https://habr.com/ru/news/876538/?utm_campaign=876538&utm_source=habrahabr&utm_medium=rss)
+- [Canon представила 410-мегапиксельный датчик 35-мм камеры](https://habr.com/ru/news/876550/?utm_campaign=876550&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: устаревшие серверы Exchange не могут автоматически устранять ошибки безопасности](https://habr.com/ru/news/876544/?utm_campaign=876544&utm_source=habrahabr&utm_medium=rss)
+- [Студент разработал проект открытого ноутбука за полгода](https://habr.com/ru/news/876538/?utm_campaign=876538&utm_source=habrahabr&utm_medium=rss)
 - [Британский музей временно закрыл часть выставок после умышленной атаки бывшего IT-сотрудника подрядчика](https://habr.com/ru/news/876530/?utm_campaign=876530&utm_source=habrahabr&utm_medium=rss)
 - [Решения «Лаборатории Касперского» в 2024 году показали 100% эффективность против киберугроз по тестам SE Labs](https://habr.com/ru/news/876498/?utm_campaign=876498&utm_source=habrahabr&utm_medium=rss)
-- [Smart Engines проведет открытый вебинар «Распознавание банковских карт для онбординга и интернет-эквайринга»](https://habr.com/ru/companies/smartengines/news/876446/?utm_campaign=876446&utm_source=habrahabr&utm_medium=rss)
-- [Миллион человек воспользовались новой версией Робота Макса](https://habr.com/ru/news/876444/?utm_campaign=876444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
