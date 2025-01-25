@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia начинает поэтапный отказ от графических процессоров Maxwell, Pascal и Volta](https://habr.com/ru/news/876642/?utm_campaign=876642&utm_source=habrahabr&utm_medium=rss)
 - [Google раскрыла, как тестирует смартфоны Pixel на прочность](https://habr.com/ru/news/876630/?utm_campaign=876630&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка в обновлении сигнатур Zyxel USG FLEX и серии ATP приводит к перезагрузке, фикс только через физический доступ](https://habr.com/ru/news/876596/?utm_campaign=876596&utm_source=habrahabr&utm_medium=rss)
 - [ЕС инициировал спор против Китая, Трамп затруднил работу Патентного ведомства США: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/876370/?utm_campaign=876370&utm_source=habrahabr&utm_medium=rss)
 - [10-летний юбилей Android Studio](https://habr.com/ru/news/876554/?utm_campaign=876554&utm_source=habrahabr&utm_medium=rss)
-- [Canon представила 410-мегапиксельный датчик 35-мм камеры](https://habr.com/ru/news/876550/?utm_campaign=876550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
