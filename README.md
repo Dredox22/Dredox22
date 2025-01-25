@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЕС инициировал спор против Китая, Трамп затруднил работу Патентного ведомства США: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/876370/?utm_campaign=876370&utm_source=habrahabr&utm_medium=rss)
 - [10-летний юбилей Android Studio](https://habr.com/ru/news/876554/?utm_campaign=876554&utm_source=habrahabr&utm_medium=rss)
 - [Canon представила 410-мегапиксельный датчик 35-мм камеры](https://habr.com/ru/news/876550/?utm_campaign=876550&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: устаревшие серверы Exchange не могут автоматически устранять ошибки безопасности](https://habr.com/ru/news/876544/?utm_campaign=876544&utm_source=habrahabr&utm_medium=rss)
 - [Студент разработал проект открытого ноутбука за полгода](https://habr.com/ru/news/876538/?utm_campaign=876538&utm_source=habrahabr&utm_medium=rss)
-- [Британский музей временно закрыл часть выставок после умышленной атаки бывшего IT-сотрудника подрядчика](https://habr.com/ru/news/876530/?utm_campaign=876530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
