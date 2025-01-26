@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Kiwi Browser закрыт, репозиторий на GitHub переведён в Public archive, часть браузера будет жить в Microsoft Edge](https://habr.com/ru/news/876670/?utm_campaign=876670&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры используют перехват Windows RID для создания скрытой учётной записи администратора](https://habr.com/ru/news/876668/?utm_campaign=876668&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.3.0](https://habr.com/ru/news/876666/?utm_campaign=876666&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia начинает поэтапный отказ от графических процессоров Maxwell, Pascal и Volta](https://habr.com/ru/news/876642/?utm_campaign=876642&utm_source=habrahabr&utm_medium=rss)
 - [Google раскрыла, как тестирует смартфоны Pixel на прочность](https://habr.com/ru/news/876630/?utm_campaign=876630&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка в обновлении сигнатур Zyxel USG FLEX и серии ATP приводит к перезагрузке, фикс только через физический доступ](https://habr.com/ru/news/876596/?utm_campaign=876596&utm_source=habrahabr&utm_medium=rss)
-- [ЕС инициировал спор против Китая, Трамп затруднил работу Патентного ведомства США: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/876370/?utm_campaign=876370&utm_source=habrahabr&utm_medium=rss)
-- [10-летний юбилей Android Studio](https://habr.com/ru/news/876554/?utm_campaign=876554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
