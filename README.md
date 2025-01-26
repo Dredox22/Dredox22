@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft скоро уберёт простой способ загрузки всех бесплатных официальных тем Windows 10 и 11](https://habr.com/ru/news/876688/?utm_campaign=876688&utm_source=habrahabr&utm_medium=rss)
 - [Проект Kiwi Browser закрыт, репозиторий на GitHub переведён в Public archive, часть браузера будет жить в Microsoft Edge](https://habr.com/ru/news/876670/?utm_campaign=876670&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры используют перехват Windows RID для создания скрытой учётной записи администратора](https://habr.com/ru/news/876668/?utm_campaign=876668&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.3.0](https://habr.com/ru/news/876666/?utm_campaign=876666&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia начинает поэтапный отказ от графических процессоров Maxwell, Pascal и Volta](https://habr.com/ru/news/876642/?utm_campaign=876642&utm_source=habrahabr&utm_medium=rss)
-- [Google раскрыла, как тестирует смартфоны Pixel на прочность](https://habr.com/ru/news/876630/?utm_campaign=876630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
