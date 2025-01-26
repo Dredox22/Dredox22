@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст раскрыл фишинговую атаку с использованием сервиса сокращения URL от Google](https://habr.com/ru/news/876706/?utm_campaign=876706&utm_source=habrahabr&utm_medium=rss)
 - [Производитель 3D-принтеров Bambu Lab объяснил принудительное обновление тестированием](https://habr.com/ru/news/876700/?utm_campaign=876700&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получила новый способ обмена файлами](https://habr.com/ru/news/876696/?utm_campaign=876696&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft скоро уберёт простой способ загрузки всех бесплатных официальных тем Windows 10 и 11](https://habr.com/ru/news/876688/?utm_campaign=876688&utm_source=habrahabr&utm_medium=rss)
 - [Проект Kiwi Browser закрыт, репозиторий на GitHub переведён в Public archive, часть браузера будет жить в Microsoft Edge](https://habr.com/ru/news/876670/?utm_campaign=876670&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры используют перехват Windows RID для создания скрытой учётной записи администратора](https://habr.com/ru/news/876668/?utm_campaign=876668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
