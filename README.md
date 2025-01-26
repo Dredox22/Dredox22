@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект Steam Brick — Steam Deck 1 TB OLED без экрана, без контроллеров, только кнопка питания и порт USB](https://habr.com/ru/news/876748/?utm_campaign=876748&utm_source=habrahabr&utm_medium=rss)
 - [Nevalang v0.30.2 — Потоко-Ориентированный ЯП](https://habr.com/ru/news/876718/?utm_campaign=876718&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст раскрыл фишинговую атаку с использованием сервиса сокращения URL от Google](https://habr.com/ru/news/876706/?utm_campaign=876706&utm_source=habrahabr&utm_medium=rss)
 - [Производитель 3D-принтеров Bambu Lab объяснил принудительное обновление тестированием](https://habr.com/ru/news/876700/?utm_campaign=876700&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получила новый способ обмена файлами](https://habr.com/ru/news/876696/?utm_campaign=876696&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft скоро уберёт простой способ загрузки всех бесплатных официальных тем Windows 10 и 11](https://habr.com/ru/news/876688/?utm_campaign=876688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
