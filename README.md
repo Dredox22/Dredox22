@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/877072/?utm_campaign=877072&utm_source=habrahabr&utm_medium=rss)
 - [Сбер запустил в Костроме оплату проезда по геопозиции](https://habr.com/ru/news/877044/?utm_campaign=877044&utm_source=habrahabr&utm_medium=rss)
 - [Innostage в Казани представила ИИ-помощника для защиты от киберугроз](https://habr.com/ru/news/877036/?utm_campaign=877036&utm_source=habrahabr&utm_medium=rss)
 - [В России в 2024 году IT-преступления достигли пика за последние пять лет](https://habr.com/ru/news/877022/?utm_campaign=877022&utm_source=habrahabr&utm_medium=rss)
 - [«Корпоративный террорист» из Disney признал вину](https://habr.com/ru/companies/ddosguard/news/877018/?utm_campaign=877018&utm_source=habrahabr&utm_medium=rss)
-- [МТС представила мобильное приложение для монтажников и полевых инженеров](https://habr.com/ru/news/876988/?utm_campaign=876988&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
