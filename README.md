@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС представила мобильное приложение для монтажников и полевых инженеров](https://habr.com/ru/news/876988/?utm_campaign=876988&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Oracle Linux 10 Developer Preview](https://habr.com/ru/news/876972/?utm_campaign=876972&utm_source=habrahabr&utm_medium=rss)
+- [Исходный код ядра Linux превышает 40 миллионов строк — код проекта удвоился в размере за десятилетие](https://habr.com/ru/news/876962/?utm_campaign=876962&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft занимает первое место среди брендов, которые чаще всего используются мошенниками в фишинговых атаках](https://habr.com/ru/news/876940/?utm_campaign=876940&utm_source=habrahabr&utm_medium=rss)
 - [Российский предприниматель Икономов прокомментировал суть своих претензий к Apple из-за патента](https://habr.com/ru/news/876936/?utm_campaign=876936&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты назвали повышение цен на Copilot для Microsoft 365 катастрофой](https://habr.com/ru/news/876924/?utm_campaign=876924&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp начал тестировать функцию мультиаккаунтов для iOS](https://habr.com/ru/news/876922/?utm_campaign=876922&utm_source=habrahabr&utm_medium=rss)
-- [В России снизились продажи камер видеонаблюдения в коммерческом сегменте](https://habr.com/ru/news/876920/?utm_campaign=876920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
