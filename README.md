@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Innostage в Казани представила ИИ-помощника для защиты от киберугроз](https://habr.com/ru/news/877036/?utm_campaign=877036&utm_source=habrahabr&utm_medium=rss)
+- [В России в 2024 году IT-преступления достигли пика за последние пять лет](https://habr.com/ru/news/877022/?utm_campaign=877022&utm_source=habrahabr&utm_medium=rss)
+- [«Корпоративный террорист» из Disney признал вину](https://habr.com/ru/companies/ddosguard/news/877018/?utm_campaign=877018&utm_source=habrahabr&utm_medium=rss)
 - [МТС представила мобильное приложение для монтажников и полевых инженеров](https://habr.com/ru/news/876988/?utm_campaign=876988&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Oracle Linux 10 Developer Preview](https://habr.com/ru/news/876972/?utm_campaign=876972&utm_source=habrahabr&utm_medium=rss)
-- [Исходный код ядра Linux превышает 40 миллионов строк — код проекта удвоился в размере за десятилетие](https://habr.com/ru/news/876962/?utm_campaign=876962&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft занимает первое место среди брендов, которые чаще всего используются мошенниками в фишинговых атаках](https://habr.com/ru/news/876940/?utm_campaign=876940&utm_source=habrahabr&utm_medium=rss)
-- [Российский предприниматель Икономов прокомментировал суть своих претензий к Apple из-за патента](https://habr.com/ru/news/876936/?utm_campaign=876936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
