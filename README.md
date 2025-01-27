@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: нейросеть Devin, которую позиционируют как «ИИ-программиста», плохо справляется со своей работой](https://habr.com/ru/news/876794/?utm_campaign=876794&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ошибки ИИ сильно отличаются от человеческих](https://habr.com/ru/news/876778/?utm_campaign=876778&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Steam Brick — Steam Deck 1 TB OLED без экрана, без контроллеров, только кнопка питания и порт USB](https://habr.com/ru/news/876748/?utm_campaign=876748&utm_source=habrahabr&utm_medium=rss)
 - [Nevalang v0.30.2 — Потоко-Ориентированный ЯП](https://habr.com/ru/news/876718/?utm_campaign=876718&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст раскрыл фишинговую атаку с использованием сервиса сокращения URL от Google](https://habr.com/ru/news/876706/?utm_campaign=876706&utm_source=habrahabr&utm_medium=rss)
-- [Производитель 3D-принтеров Bambu Lab объяснил принудительное обновление тестированием](https://habr.com/ru/news/876700/?utm_campaign=876700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
