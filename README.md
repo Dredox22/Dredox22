@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Совместимость решений EMDEV и Orion soft расширяет возможности по созданию цифровых корпоративных пространств](https://habr.com/ru/companies/orion_soft/news/876902/?utm_campaign=876902&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку синхронизации драйверов WSUS через 90 дней](https://habr.com/ru/news/876886/?utm_campaign=876886&utm_source=habrahabr&utm_medium=rss)
+- [Google удалит URL-адреса из результатов мобильного поиска](https://habr.com/ru/news/876880/?utm_campaign=876880&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: небольшое изменение в коде ядра Linux, используемом в ЦОД, может сократить потребление энергии до 30%](https://habr.com/ru/news/876854/?utm_campaign=876854&utm_source=habrahabr&utm_medium=rss)
 - [UnitedHealth признала утечку данных 190 млн своих клиентов](https://habr.com/ru/news/876846/?utm_campaign=876846&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: нейросеть Devin, которую позиционируют как «ИИ-программиста», плохо справляется со своей работой](https://habr.com/ru/news/876794/?utm_campaign=876794&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ошибки ИИ сильно отличаются от человеческих](https://habr.com/ru/news/876778/?utm_campaign=876778&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Steam Brick — Steam Deck 1 TB OLED без экрана, без контроллеров, только кнопка питания и порт USB](https://habr.com/ru/news/876748/?utm_campaign=876748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
