@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Совместимость решений EMDEV и Orion soft расширяет возможности по созданию цифровых корпоративных пространств](https://habr.com/ru/companies/orion_soft/news/876902/?utm_campaign=876902&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку синхронизации драйверов WSUS через 90 дней](https://habr.com/ru/news/876886/?utm_campaign=876886&utm_source=habrahabr&utm_medium=rss)
-- [Google удалит URL-адреса из результатов мобильного поиска](https://habr.com/ru/news/876880/?utm_campaign=876880&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: небольшое изменение в коде ядра Linux, используемом в ЦОД, может сократить потребление энергии до 30%](https://habr.com/ru/news/876854/?utm_campaign=876854&utm_source=habrahabr&utm_medium=rss)
-- [UnitedHealth признала утечку данных 190 млн своих клиентов](https://habr.com/ru/news/876846/?utm_campaign=876846&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты назвали повышение цен на Copilot для Microsoft 365 катастрофой](https://habr.com/ru/news/876924/?utm_campaign=876924&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp начал тестировать функцию мультиаккаунтов для iOS](https://habr.com/ru/news/876922/?utm_campaign=876922&utm_source=habrahabr&utm_medium=rss)
+- [В России снизились продажи камер видеонаблюдения в коммерческом сегменте](https://habr.com/ru/news/876920/?utm_campaign=876920&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия игры «Змейка» на субпикселях дисплея](https://habr.com/ru/news/876906/?utm_campaign=876906&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek и её модель рассуждений R1: что говорят эксперты и потребители](https://habr.com/ru/companies/bothub/news/876914/?utm_campaign=876914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
