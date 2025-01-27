@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft занимает первое место среди брендов, которые чаще всего используются мошенниками в фишинговых атаках](https://habr.com/ru/news/876940/?utm_campaign=876940&utm_source=habrahabr&utm_medium=rss)
+- [Российский предприниматель Икономов прокомментировал суть своих претензий к Apple из-за патента](https://habr.com/ru/news/876936/?utm_campaign=876936&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты назвали повышение цен на Copilot для Microsoft 365 катастрофой](https://habr.com/ru/news/876924/?utm_campaign=876924&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp начал тестировать функцию мультиаккаунтов для iOS](https://habr.com/ru/news/876922/?utm_campaign=876922&utm_source=habrahabr&utm_medium=rss)
 - [В России снизились продажи камер видеонаблюдения в коммерческом сегменте](https://habr.com/ru/news/876920/?utm_campaign=876920&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия игры «Змейка» на субпикселях дисплея](https://habr.com/ru/news/876906/?utm_campaign=876906&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek и её модель рассуждений R1: что говорят эксперты и потребители](https://habr.com/ru/companies/bothub/news/876914/?utm_campaign=876914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
