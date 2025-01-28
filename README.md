@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* AI учится запоминать разговоры и давать персонализированные рекомендации](https://habr.com/ru/companies/bothub/news/877378/?utm_campaign=877378&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek вытесняет ChatGPT с поста топового приложения App Store](https://habr.com/ru/companies/bothub/news/877374/?utm_campaign=877374&utm_source=habrahabr&utm_medium=rss)
 - [Банки РФ ограничат внесение денег на виртуальные карты, выпущенные менее двух дней назад](https://habr.com/ru/news/877334/?utm_campaign=877334&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики заметили, что библиотеки DeepSeek полностью совместимы с библиотеками OpenAI](https://habr.com/ru/news/877316/?utm_campaign=877316&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 134.0](https://habr.com/ru/news/877306/?utm_campaign=877306&utm_source=habrahabr&utm_medium=rss)
-- [Мягкая робототехника: медуза и червь от Cornell University](https://habr.com/ru/news/877294/?utm_campaign=877294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
