@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome Sync перестанет работать в старых версиях браузера](https://habr.com/ru/news/877444/?utm_campaign=877444&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закрывает приложение для разработчиков Dev Home для Windows 10 и 11](https://habr.com/ru/news/877430/?utm_campaign=877430&utm_source=habrahabr&utm_medium=rss)
 - [У Atomic Heart вышло третье дополнение под названием «Чары морских глубин»](https://habr.com/ru/news/877396/?utm_campaign=877396&utm_source=habrahabr&utm_medium=rss)
 - [Meta* AI учится запоминать разговоры и давать персонализированные рекомендации](https://habr.com/ru/companies/bothub/news/877378/?utm_campaign=877378&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek вытесняет ChatGPT с поста топового приложения App Store](https://habr.com/ru/companies/bothub/news/877374/?utm_campaign=877374&utm_source=habrahabr&utm_medium=rss)
-- [Банки РФ ограничат внесение денег на виртуальные карты, выпущенные менее двух дней назад](https://habr.com/ru/news/877334/?utm_campaign=877334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
