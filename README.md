@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [У Atomic Heart выходит третье дополнение под названием «Чары морских глубин»](https://habr.com/ru/news/877396/?utm_campaign=877396&utm_source=habrahabr&utm_medium=rss)
+- [У Atomic Heart вышло третье дополнение под названием «Чары морских глубин»](https://habr.com/ru/news/877396/?utm_campaign=877396&utm_source=habrahabr&utm_medium=rss)
 - [Meta* AI учится запоминать разговоры и давать персонализированные рекомендации](https://habr.com/ru/companies/bothub/news/877378/?utm_campaign=877378&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek вытесняет ChatGPT с поста топового приложения App Store](https://habr.com/ru/companies/bothub/news/877374/?utm_campaign=877374&utm_source=habrahabr&utm_medium=rss)
 - [Банки РФ ограничат внесение денег на виртуальные карты, выпущенные менее двух дней назад](https://habr.com/ru/news/877334/?utm_campaign=877334&utm_source=habrahabr&utm_medium=rss)
