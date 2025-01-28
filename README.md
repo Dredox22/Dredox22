@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Qwen2.5-VL от Alibaba: распознавание часовых видео, агенты, структурные данные](https://habr.com/ru/news/877212/?utm_campaign=877212&utm_source=habrahabr&utm_medium=rss)
 - [Flutter-разработчики, приглашаем на код-ревью в прямом эфире: 31 января, в 17:00](https://habr.com/ru/companies/surfstudio/news/877186/?utm_campaign=877186&utm_source=habrahabr&utm_medium=rss)
 - [В Google Maps переименуют Мексиканский залив в «Залив Америки»](https://habr.com/ru/news/877176/?utm_campaign=877176&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD Облака точек 24.1 – первый выпуск на Платформе nanoCAD 24.1 под Linux](https://habr.com/ru/companies/nanosoft/news/876838/?utm_campaign=876838&utm_source=habrahabr&utm_medium=rss)
 - [Windows Latest: после ребрендинга Microsoft 365 Copilot путают с приложением Copilot](https://habr.com/ru/news/877170/?utm_campaign=877170&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи взломали модель DeepSeek-R1 для создания вредоносных выходных данных](https://habr.com/ru/news/877164/?utm_campaign=877164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
