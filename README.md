@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter-разработчики, приглашаем на код-ревью в прямом эфире: 31 января, в 17:00](https://habr.com/ru/companies/surfstudio/news/877186/?utm_campaign=877186&utm_source=habrahabr&utm_medium=rss)
+- [В Google Maps переименуют Мексиканский залив в «Залив Америки»](https://habr.com/ru/news/877176/?utm_campaign=877176&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD Облака точек 24.1 – первый выпуск на Платформе nanoCAD 24.1 под Linux](https://habr.com/ru/companies/nanosoft/news/876838/?utm_campaign=876838&utm_source=habrahabr&utm_medium=rss)
+- [Windows Latest: после ребрендинга Microsoft 365 Copilot путают с приложением Copilot](https://habr.com/ru/news/877170/?utm_campaign=877170&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи взломали модель DeepSeek-R1 для создания вредоносных выходных данных](https://habr.com/ru/news/877164/?utm_campaign=877164&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объявила об открытии исходного кода проекта СУБД DocumentDB](https://habr.com/ru/news/877148/?utm_campaign=877148&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia, OpenAI и Трамп прокомментировали ситуацию по поводу популярности проекта DeepSeek](https://habr.com/ru/news/877146/?utm_campaign=877146&utm_source=habrahabr&utm_medium=rss)
-- [В Adobe Premiere Pro появился визуальный поиск видеофайлов на базе нейросетей](https://habr.com/ru/news/877134/?utm_campaign=877134&utm_source=habrahabr&utm_medium=rss)
-- [Учёные предлагают заставить ИИ играть в игру «боль-удовольствие» для проверки разумности](https://habr.com/ru/news/877120/?utm_campaign=877120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
