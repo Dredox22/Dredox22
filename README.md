@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователи из Unsloth сжали DeepSeek R1 на 80% от оригинального размера](https://habr.com/ru/news/877280/?utm_campaign=877280&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выпустила модель Qwen с открытым исходным кодом, которая обрабатывает 1 миллион входных токенов](https://habr.com/ru/companies/bothub/news/877272/?utm_campaign=877272&utm_source=habrahabr&utm_medium=rss)
-- [AI-модель o1-mini продолжает улучшаться после критики и нескольких циклов обратной связи](https://habr.com/ru/companies/bothub/news/877258/?utm_campaign=877258&utm_source=habrahabr&utm_medium=rss)
-- [TOS DeepSeek: IP-адрес, user-agent, шаблоны нажатий клавиш, информация об устройстве, удаление аккаунта оставляет данные](https://habr.com/ru/news/877256/?utm_campaign=877256&utm_source=habrahabr&utm_medium=rss)
-- [Операторов обяжут блокировать звонки из-за границы с подставных стационарных номеров](https://habr.com/ru/news/877254/?utm_campaign=877254&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики заметили, что библиотеки DeepSeek полностью совместимы с библиотеками OpenAI](https://habr.com/ru/news/877316/?utm_campaign=877316&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mozilla Thunderbird 134.0](https://habr.com/ru/news/877306/?utm_campaign=877306&utm_source=habrahabr&utm_medium=rss)
+- [Мягкая робототехника: медуза и червь от Cornell University](https://habr.com/ru/news/877294/?utm_campaign=877294&utm_source=habrahabr&utm_medium=rss)
+- [Альтернатива приказу ФСТЭК №17: зачем она нужна и что изменит](https://habr.com/ru/companies/selectel/news/877288/?utm_campaign=877288&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году продажи антивирусного ПО выросли на 41%](https://habr.com/ru/news/877290/?utm_campaign=877290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
