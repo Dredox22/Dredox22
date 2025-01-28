@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Никто не коммитит в Spring, Java-милфа, таракашки не эволюционируют | Spring АйО Подкаст №4](https://habr.com/ru/companies/spring_aio/news/877250/?utm_campaign=877250&utm_source=habrahabr&utm_medium=rss)
+- [Обновление KB5050009 для Windows 11 ломает работу: Bluetooth-наушников, комбинации Alt+Tab, диспетчера задач, веб-камер](https://habr.com/ru/news/877236/?utm_campaign=877236&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» выпустил бесплатный курс по безопасной работе с персональными данными](https://habr.com/ru/news/877228/?utm_campaign=877228&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Как консолидировать данные из разрозненных хранилищ с помощью Tarantool CDC»](https://habr.com/ru/companies/vk/news/877226/?utm_campaign=877226&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Qwen2.5-VL от Alibaba: распознавание часовых видео, агенты, структурные данные](https://habr.com/ru/news/877212/?utm_campaign=877212&utm_source=habrahabr&utm_medium=rss)
-- [Flutter-разработчики, приглашаем на код-ревью в прямом эфире: 31 января, в 17:00](https://habr.com/ru/companies/surfstudio/news/877186/?utm_campaign=877186&utm_source=habrahabr&utm_medium=rss)
-- [В Google Maps переименуют Мексиканский залив в «Залив Америки»](https://habr.com/ru/news/877176/?utm_campaign=877176&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD Облака точек 24.1 – первый выпуск на Платформе nanoCAD 24.1 под Linux](https://habr.com/ru/companies/nanosoft/news/876838/?utm_campaign=876838&utm_source=habrahabr&utm_medium=rss)
-- [Windows Latest: после ребрендинга Microsoft 365 Copilot путают с приложением Copilot](https://habr.com/ru/news/877170/?utm_campaign=877170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
