@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia, OpenAI и Трамп прокомментировали ситуацию по поводу популярности проекта DeepSeek](https://habr.com/ru/news/877146/?utm_campaign=877146&utm_source=habrahabr&utm_medium=rss)
 - [В Adobe Premiere Pro появился визуальный поиск видеофайлов на базе нейросетей](https://habr.com/ru/news/877134/?utm_campaign=877134&utm_source=habrahabr&utm_medium=rss)
 - [Учёные предлагают заставить ИИ играть в игру «боль-удовольствие» для проверки разумности](https://habr.com/ru/news/877120/?utm_campaign=877120&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek выпустила мультимодальную нейросеть Janus-Pro-7B](https://habr.com/ru/news/877094/?utm_campaign=877094&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek сообщила о крупномасштабной вредоносной атаке на свои сервисы и об ограничении новых регистраций](https://habr.com/ru/news/877080/?utm_campaign=877080&utm_source=habrahabr&utm_medium=rss)
-- [«Базис» и ИСП РАН при поддержке «Фобос‑НТ» обнаружили уязвимости в популярном open source ПО виртуализации](https://habr.com/ru/news/877078/?utm_campaign=877078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
