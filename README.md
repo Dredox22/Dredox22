@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Никто не коммитит в Spring, Java-милфа, таракашки не эволюционируют | Spring АйО Подкаст №4](https://habr.com/ru/companies/spring_aio/news/877250/?utm_campaign=877250&utm_source=habrahabr&utm_medium=rss)
-- [Обновление KB5050009 для Windows 11 ломает работу: Bluetooth-наушников, комбинации Alt+Tab, диспетчера задач, веб-камер](https://habr.com/ru/news/877236/?utm_campaign=877236&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выпустил бесплатный курс по безопасной работе с персональными данными](https://habr.com/ru/news/877228/?utm_campaign=877228&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Как консолидировать данные из разрозненных хранилищ с помощью Tarantool CDC»](https://habr.com/ru/companies/vk/news/877226/?utm_campaign=877226&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Qwen2.5-VL от Alibaba: распознавание часовых видео, агенты, структурные данные](https://habr.com/ru/news/877212/?utm_campaign=877212&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи из Unsloth сжали DeepSeek R1 на 80% от оригинального размера](https://habr.com/ru/news/877280/?utm_campaign=877280&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba выпустила модель Qwen с открытым исходным кодом, которая обрабатывает 1 миллион входных токенов](https://habr.com/ru/companies/bothub/news/877272/?utm_campaign=877272&utm_source=habrahabr&utm_medium=rss)
+- [AI-модель o1-mini продолжает улучшаться после критики и нескольких циклов обратной связи](https://habr.com/ru/companies/bothub/news/877258/?utm_campaign=877258&utm_source=habrahabr&utm_medium=rss)
+- [TOS DeepSeek: IP-адрес, user-agent, шаблоны нажатий клавиш, информация об устройстве, удаление аккаунта оставляет данные](https://habr.com/ru/news/877256/?utm_campaign=877256&utm_source=habrahabr&utm_medium=rss)
+- [Операторов обяжут блокировать звонки из-за границы с подставных стационарных номеров](https://habr.com/ru/news/877254/?utm_campaign=877254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
