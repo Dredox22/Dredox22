@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Банки РФ ограничат внесение денег на виртуальные карты, выпущенные менее двух дней назад](https://habr.com/ru/news/877334/?utm_campaign=877334&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики заметили, что библиотеки DeepSeek полностью совместимы с библиотеками OpenAI](https://habr.com/ru/news/877316/?utm_campaign=877316&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 134.0](https://habr.com/ru/news/877306/?utm_campaign=877306&utm_source=habrahabr&utm_medium=rss)
 - [Мягкая робототехника: медуза и червь от Cornell University](https://habr.com/ru/news/877294/?utm_campaign=877294&utm_source=habrahabr&utm_medium=rss)
 - [Альтернатива приказу ФСТЭК №17: зачем она нужна и что изменит](https://habr.com/ru/companies/selectel/news/877288/?utm_campaign=877288&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году продажи антивирусного ПО выросли на 41%](https://habr.com/ru/news/877290/?utm_campaign=877290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
