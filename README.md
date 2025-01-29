@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [За первый месяц 2025 года количество сбоев в Рунете составило почти половину от всех жалоб за прошлый год](https://habr.com/ru/news/877686/?utm_campaign=877686&utm_source=habrahabr&utm_medium=rss)
 - [«Кама» показала предсерийные прототипы электромобиля «Атом»](https://habr.com/ru/news/877668/?utm_campaign=877668&utm_source=habrahabr&utm_medium=rss)
 - [В Совфеде появится рабочая группа по регулированию вопросов, связанных с ИИ](https://habr.com/ru/news/877654/?utm_campaign=877654&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи iPhone теперь могут взаимодействовать со своими смартфонами из меню «Пуск» Windows 11](https://habr.com/ru/news/877636/?utm_campaign=877636&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники организовали фишинговую рассылку со взломанного аккаунта Ozon в VK](https://habr.com/ru/news/877604/?utm_campaign=877604&utm_source=habrahabr&utm_medium=rss)
-- [TabularARGN – гибкая и эффективная авто-регрессивная структура для генерации высококачественных синтетических данных](https://habr.com/ru/news/877602/?utm_campaign=877602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
