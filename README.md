@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начала тестировать «блокировщик вредоносного ПО» для Edge](https://habr.com/ru/news/877544/?utm_campaign=877544&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и OpenAI расследуют, обучался ли DeepSeek на украденных данных американских компаний в сфере ИИ](https://habr.com/ru/news/877548/?utm_campaign=877548&utm_source=habrahabr&utm_medium=rss)
 - [Google утверждает, что огромные антимонопольные штрафы со стороны ЕС «наказали её привлекательность и инновационность»](https://habr.com/ru/news/877520/?utm_campaign=877520&utm_source=habrahabr&utm_medium=rss)
 - [Waymo предложит давать «чаевые» в роботакси на благотворительность](https://habr.com/ru/news/877518/?utm_campaign=877518&utm_source=habrahabr&utm_medium=rss)
 - [Приложение DeepSeek возглавило топ бесплатных в российских App Store и Google Play](https://habr.com/ru/news/877510/?utm_campaign=877510&utm_source=habrahabr&utm_medium=rss)
-- [Signal позволит синхронизировать старые сообщения при подключении новых устройств](https://habr.com/ru/news/877500/?utm_campaign=877500&utm_source=habrahabr&utm_medium=rss)
-- [Алгоритмы безопасности «Яндекс 360» за 2024 год заблокировали 21,1 млрд из 86,7 млрд электронных писем](https://habr.com/ru/news/877498/?utm_campaign=877498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
