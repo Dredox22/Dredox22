@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba заявляет, что её новая модель Qwen2.5-VL является полезным «визуальным агентом»](https://habr.com/ru/companies/bothub/news/877714/?utm_campaign=877714&utm_source=habrahabr&utm_medium=rss)
 - [Мнения 12 IT-экспертов по поводу DeepSeek](https://habr.com/ru/news/877620/?utm_campaign=877620&utm_source=habrahabr&utm_medium=rss)
 - [За первый месяц 2025 года количество сбоев в Рунете составило почти половину от всех жалоб за прошлый год](https://habr.com/ru/news/877686/?utm_campaign=877686&utm_source=habrahabr&utm_medium=rss)
 - [«Кама» показала предсерийные прототипы электромобиля «Атом»](https://habr.com/ru/news/877668/?utm_campaign=877668&utm_source=habrahabr&utm_medium=rss)
 - [В Совфеде появится рабочая группа по регулированию вопросов, связанных с ИИ](https://habr.com/ru/news/877654/?utm_campaign=877654&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи iPhone теперь могут взаимодействовать со своими смартфонами из меню «Пуск» Windows 11](https://habr.com/ru/news/877636/?utm_campaign=877636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
