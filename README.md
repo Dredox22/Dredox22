@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мошенники организовали фишинговую рассылку со взломанного аккаунта Ozon в VK](https://habr.com/ru/news/877604/?utm_campaign=877604&utm_source=habrahabr&utm_medium=rss)
+- [TabularARGN – гибкая и эффективная авто-регрессивная структура для генерации высококачественных синтетических данных](https://habr.com/ru/news/877602/?utm_campaign=877602&utm_source=habrahabr&utm_medium=rss)
 - [Не DeepSeek&#39;ом единым: вышел Qwen2.5-Max от Alibaba](https://habr.com/ru/news/877576/?utm_campaign=877576&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE: «В январе 2025 года зафиксирован рост атак с использованием стилера NOVA»](https://habr.com/ru/news/877572/?utm_campaign=877572&utm_source=habrahabr&utm_medium=rss)
 - [Ряд российских производителей телеком-оборудования с января повысил цены на свою продукцию](https://habr.com/ru/news/877564/?utm_campaign=877564&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала тестировать «блокировщик вредоносного ПО» для Edge](https://habr.com/ru/news/877544/?utm_campaign=877544&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и OpenAI расследуют, обучался ли DeepSeek на украденных данных американских компаний в сфере ИИ](https://habr.com/ru/news/877548/?utm_campaign=877548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
