@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Не DeepSeek&#39;ом единым: вышел Qwen2.5-Max от Alibaba](https://habr.com/ru/news/877576/?utm_campaign=877576&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE: «В январе 2025 года зафиксирован рост атак с использованием стилера NOVA»](https://habr.com/ru/news/877572/?utm_campaign=877572&utm_source=habrahabr&utm_medium=rss)
+- [Ряд российских производителей телеком-оборудования с января повысил цены на свою продукцию](https://habr.com/ru/news/877564/?utm_campaign=877564&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала тестировать «блокировщик вредоносного ПО» для Edge](https://habr.com/ru/news/877544/?utm_campaign=877544&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и OpenAI расследуют, обучался ли DeepSeek на украденных данных американских компаний в сфере ИИ](https://habr.com/ru/news/877548/?utm_campaign=877548&utm_source=habrahabr&utm_medium=rss)
-- [Google утверждает, что огромные антимонопольные штрафы со стороны ЕС «наказали её привлекательность и инновационность»](https://habr.com/ru/news/877520/?utm_campaign=877520&utm_source=habrahabr&utm_medium=rss)
-- [Waymo предложит давать «чаевые» в роботакси на благотворительность](https://habr.com/ru/news/877518/?utm_campaign=877518&utm_source=habrahabr&utm_medium=rss)
-- [Приложение DeepSeek возглавило топ бесплатных в российских App Store и Google Play](https://habr.com/ru/news/877510/?utm_campaign=877510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
