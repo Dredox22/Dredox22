@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal позволит синхронизировать старые сообщения при подключении новых устройств](https://habr.com/ru/news/877500/?utm_campaign=877500&utm_source=habrahabr&utm_medium=rss)
+- [Алгоритмы безопасности «Яндекс 360» за 2024 год заблокировали 21,1 млрд из 86,7 млрд электронных писем](https://habr.com/ru/news/877498/?utm_campaign=877498&utm_source=habrahabr&utm_medium=rss)
+- [Jetify запустила проект Testpilot — ИИ-инженера по контролю качества](https://habr.com/ru/news/877492/?utm_campaign=877492&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила чат-бота ChatGPT Gov эксклюзивно для правительства США](https://habr.com/ru/news/877488/?utm_campaign=877488&utm_source=habrahabr&utm_medium=rss)
 - [Block Джека Дорси выпустила локального ИИ-ассистента для разработчиков — проект codename goose](https://habr.com/ru/news/877484/?utm_campaign=877484&utm_source=habrahabr&utm_medium=rss)
-- [В США изучают последствия для безопасности из-за DeepSeek, эксперты советуют осторожничать с проектом из-за сбора данных](https://habr.com/ru/news/877470/?utm_campaign=877470&utm_source=habrahabr&utm_medium=rss)
-- [Сумма штрафа Google российским телеканалам выросла до 1,81 дуодециллиона рублей &lpar;10^39&rpar;](https://habr.com/ru/news/877462/?utm_campaign=877462&utm_source=habrahabr&utm_medium=rss)
-- [Chrome Sync перестанет работать в старых версиях браузера](https://habr.com/ru/news/877444/?utm_campaign=877444&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрывает приложение для разработчиков Dev Home для Windows 10 и 11](https://habr.com/ru/news/877430/?utm_campaign=877430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
