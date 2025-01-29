@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая модель искусственного интеллекта Alibaba превосходит DeepSeek-V3](https://habr.com/ru/companies/bothub/news/877740/?utm_campaign=877740&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Radical Multifield, Quantum Manager, JIntervention Image](https://habr.com/ru/news/877742/?utm_campaign=877742&utm_source=habrahabr&utm_medium=rss)
 - [93 % ИТ-руководители видят ценность в AI-агентах, но испытывают трудности с их внедрением](https://habr.com/ru/companies/bothub/news/877730/?utm_campaign=877730&utm_source=habrahabr&utm_medium=rss)
 - [X5 Tech разработал мобильное приложение для сотрудников Х5 Import](https://habr.com/ru/companies/X5Tech/news/877728/?utm_campaign=877728&utm_source=habrahabr&utm_medium=rss)
 - [1X приобретает Kind Humanoid, укрепляя свои позиции в сфере домашней робототехники](https://habr.com/ru/companies/bothub/news/877724/?utm_campaign=877724&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba заявляет, что её новая модель Qwen2.5-VL является полезным «визуальным агентом»](https://habr.com/ru/companies/bothub/news/877714/?utm_campaign=877714&utm_source=habrahabr&utm_medium=rss)
-- [Мнения 12 IT-экспертов по поводу DeepSeek](https://habr.com/ru/news/877620/?utm_campaign=877620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
