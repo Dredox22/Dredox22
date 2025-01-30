@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Wiz Research обнаружила открытую БД DeepSeek с чатами пользователей, секретными ключами и данными серверов](https://habr.com/ru/news/877806/?utm_campaign=877806&utm_source=habrahabr&utm_medium=rss)
 - [Умные часы Pebble вернутся на рынок](https://habr.com/ru/news/877792/?utm_campaign=877792&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Rust GPU перезапустили проект Rust CUDA](https://habr.com/ru/news/877784/?utm_campaign=877784&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель искусственного интеллекта Alibaba превосходит DeepSeek-V3](https://habr.com/ru/companies/bothub/news/877740/?utm_campaign=877740&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Radical Multifield, Quantum Manager, JIntervention Image](https://habr.com/ru/news/877742/?utm_campaign=877742&utm_source=habrahabr&utm_medium=rss)
-- [93 % ИТ-руководители видят ценность в AI-агентах, но испытывают трудности с их внедрением](https://habr.com/ru/companies/bothub/news/877730/?utm_campaign=877730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
