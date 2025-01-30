@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Солар»: Хакеры отключают антивирус, чтобы скрыть кибератаку»](https://habr.com/ru/news/877876/?utm_campaign=877876&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор впервые выписал протокол Discord за отказ в локализации данных](https://habr.com/ru/news/877856/?utm_campaign=877856&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.9](https://habr.com/ru/news/877830/?utm_campaign=877830&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сделала модель DeepSeek R1 доступной на Azure AI и в GitHub Models](https://habr.com/ru/news/877816/?utm_campaign=877816&utm_source=habrahabr&utm_medium=rss)
 - [Wiz Research обнаружила открытую БД DeepSeek с чатами пользователей, секретными ключами и данными серверов](https://habr.com/ru/news/877806/?utm_campaign=877806&utm_source=habrahabr&utm_medium=rss)
-- [Умные часы Pebble вернутся на рынок](https://habr.com/ru/news/877792/?utm_campaign=877792&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Rust GPU перезапустили проект Rust CUDA](https://habr.com/ru/news/877784/?utm_campaign=877784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
