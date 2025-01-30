@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в феврале](https://habr.com/ru/companies/netologyru/news/877690/?utm_campaign=877690&utm_source=habrahabr&utm_medium=rss)
+- [100 компаний проверят защищенность ИТ-систем от кибератак в рамках кибериспытаний на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/877962/?utm_campaign=877962&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Files 3.9 — открытой альтернативы стандартному проводнику Windows 10/11](https://habr.com/ru/news/877936/?utm_campaign=877936&utm_source=habrahabr&utm_medium=rss)
 - [Gemini научили создавать диаграммы и визуализировать данные в Google Таблицах](https://habr.com/ru/news/877918/?utm_campaign=877918&utm_source=habrahabr&utm_medium=rss)
 - [Facebook** блокирует темы, связанные с Linux, как угрозы кибербезопасности](https://habr.com/ru/news/877908/?utm_campaign=877908&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PyTorch 2.6: поддержка Python 3.13 в torch.compile и улучшения в AOTInductor](https://habr.com/ru/news/877904/?utm_campaign=877904&utm_source=habrahabr&utm_medium=rss)
-- [ФБР конфисковало хакерские форумы Cracked.io и Nulled.to](https://habr.com/ru/news/877894/?utm_campaign=877894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
