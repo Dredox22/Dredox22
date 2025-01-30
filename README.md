@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел RocketCake 6.0 — бесплатная версия веб-редактора для создания адаптивных сайтов в Windows и macOS](https://habr.com/ru/news/877976/?utm_campaign=877976&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в феврале](https://habr.com/ru/companies/netologyru/news/877690/?utm_campaign=877690&utm_source=habrahabr&utm_medium=rss)
 - [100 компаний проверят защищенность ИТ-систем от кибератак в рамках кибериспытаний на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/877962/?utm_campaign=877962&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Files 3.9 — открытой альтернативы стандартному проводнику Windows 10/11](https://habr.com/ru/news/877936/?utm_campaign=877936&utm_source=habrahabr&utm_medium=rss)
 - [Gemini научили создавать диаграммы и визуализировать данные в Google Таблицах](https://habr.com/ru/news/877918/?utm_campaign=877918&utm_source=habrahabr&utm_medium=rss)
-- [Facebook** блокирует темы, связанные с Linux, как угрозы кибербезопасности](https://habr.com/ru/news/877908/?utm_campaign=877908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
