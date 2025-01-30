@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [BioWare объявила о реструктуризации](https://habr.com/ru/news/878102/?utm_campaign=878102&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь из Wiz Research раскрыл действия в рамках пентеста сетевых ресурсов DeepSeek](https://habr.com/ru/news/878094/?utm_campaign=878094&utm_source=habrahabr&utm_medium=rss)
 - [Инференс нейросетей в Hugging Face теперь можно получать прямо со страницы модели](https://habr.com/ru/news/878052/?utm_campaign=878052&utm_source=habrahabr&utm_medium=rss)
 - [KION вдвое ускорил доставку контента для пользователей](https://habr.com/ru/companies/mws/news/877968/?utm_campaign=877968&utm_source=habrahabr&utm_medium=rss)
 - [Платформа nanoCAD 25: пакетный нормоконтроль, проверка коллизий, облачная СОД](https://habr.com/ru/companies/nanosoft/news/877854/?utm_campaign=877854&utm_source=habrahabr&utm_medium=rss)
-- [Вышел RocketCake 6.0 — бесплатная версия веб-редактора для создания адаптивных сайтов в Windows и macOS](https://habr.com/ru/news/877976/?utm_campaign=877976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
