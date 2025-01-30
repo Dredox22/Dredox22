@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инференс нейросетей в Hugging Face теперь можно получать прямо со страницы модели](https://habr.com/ru/news/878052/?utm_campaign=878052&utm_source=habrahabr&utm_medium=rss)
 - [KION вдвое ускорил доставку контента для пользователей](https://habr.com/ru/companies/mws/news/877968/?utm_campaign=877968&utm_source=habrahabr&utm_medium=rss)
 - [Платформа nanoCAD 25: пакетный нормоконтроль, проверка коллизий, облачная СОД](https://habr.com/ru/companies/nanosoft/news/877854/?utm_campaign=877854&utm_source=habrahabr&utm_medium=rss)
 - [Вышел RocketCake 6.0 — бесплатная версия веб-редактора для создания адаптивных сайтов в Windows и macOS](https://habr.com/ru/news/877976/?utm_campaign=877976&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в феврале](https://habr.com/ru/companies/netologyru/news/877690/?utm_campaign=877690&utm_source=habrahabr&utm_medium=rss)
-- [100 компаний проверят защищенность ИТ-систем от кибератак в рамках кибериспытаний на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/877962/?utm_campaign=877962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
