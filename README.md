@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Files 3.9 — открытой альтернативы стандартному проводнику Windows 10/11](https://habr.com/ru/news/877936/?utm_campaign=877936&utm_source=habrahabr&utm_medium=rss)
+- [Gemini научили создавать диаграммы и визуализировать данные в Google Таблицах](https://habr.com/ru/news/877918/?utm_campaign=877918&utm_source=habrahabr&utm_medium=rss)
+- [Facebook** блокирует темы, связанные с Linux, как угрозы кибербезопасности](https://habr.com/ru/news/877908/?utm_campaign=877908&utm_source=habrahabr&utm_medium=rss)
+- [Вышел PyTorch 2.6: поддержка Python 3.13 в torch.compile и улучшения в AOTInductor](https://habr.com/ru/news/877904/?utm_campaign=877904&utm_source=habrahabr&utm_medium=rss)
 - [ФБР конфисковало хакерские форумы Cracked.io и Nulled.to](https://habr.com/ru/news/877894/?utm_campaign=877894&utm_source=habrahabr&utm_medium=rss)
-- [РКН: самая долгая DDoS-атака на оператора связи в 2024 году длилась более четырёх суток](https://habr.com/ru/news/877892/?utm_campaign=877892&utm_source=habrahabr&utm_medium=rss)
-- [Крупнейшие цифровые платформы РФ за 2024 год нарастили выплаты авторам контент](https://habr.com/ru/news/877884/?utm_campaign=877884&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар»: Хакеры отключают антивирус, чтобы скрыть кибератаку](https://habr.com/ru/news/877876/?utm_campaign=877876&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор впервые выписал протокол Discord за отказ в локализации данных](https://habr.com/ru/news/877856/?utm_campaign=877856&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
