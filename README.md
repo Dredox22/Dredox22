@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пользователи iPhone смогут освободить 7 ГБ памяти, удалив Apple Intelligence](https://habr.com/ru/news/878274/?utm_campaign=878274&utm_source=habrahabr&utm_medium=rss)
-- [Медмониторы для пациентов незаметно отправляют их данные на удалённый IP-адрес в Китае](https://habr.com/ru/news/878238/?utm_campaign=878238&utm_source=habrahabr&utm_medium=rss)
-- [За 2024 год Google заблокировала 2,36 млн опасных приложений в Play Store](https://habr.com/ru/news/878246/?utm_campaign=878246&utm_source=habrahabr&utm_medium=rss)
-- [Тим Кук: DeepSeek демонстрирует «инновации, повышающие эффективность»](https://habr.com/ru/news/878232/?utm_campaign=878232&utm_source=habrahabr&utm_medium=rss)
-- [Vodafone провёл спутниковый видеозвонок в зоне без сети на стандартном смартфоне](https://habr.com/ru/news/878224/?utm_campaign=878224&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор ФГУП «Космическая связь» не видит в России спроса на 5G](https://habr.com/ru/news/878310/?utm_campaign=878310&utm_source=habrahabr&utm_medium=rss)
+- [Selectel выпустил бесплатный курс по Python](https://habr.com/ru/companies/selectel/news/878306/?utm_campaign=878306&utm_source=habrahabr&utm_medium=rss)
+- [«Группа Астра» приглашает исследователей безопасности протестировать BILLmanager на платформе BI.ZONE Bug Bounty](https://habr.com/ru/companies/astralinux/news/877978/?utm_campaign=877978&utm_source=habrahabr&utm_medium=rss)
+- [Facebook** признала ошибку при блокировке тем, связанных с Linux](https://habr.com/ru/news/878296/?utm_campaign=878296&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft расследует сбой с доступом к службам Microsoft 365](https://habr.com/ru/news/878284/?utm_campaign=878284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
