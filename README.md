@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз образовательного пакета для детей GCompris 25.0](https://habr.com/ru/news/878206/?utm_campaign=878206&utm_source=habrahabr&utm_medium=rss)
+- [В VK Play вышло обновление для демо-версии стратегии «Космос — пространство будущего»](https://habr.com/ru/news/878200/?utm_campaign=878200&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники Минобороны США подключали рабочие ПК к DeepSeek в течение двух суток, прежде чем ИБ-служба закрыла им доступ](https://habr.com/ru/news/878192/?utm_campaign=878192&utm_source=habrahabr&utm_medium=rss)
 - [США опередили Китай в разработке лучшего AI: новая модель из Сиэтла превосходит DeepSeek V3](https://habr.com/ru/companies/bothub/news/878158/?utm_campaign=878158&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PowerToys 0.88](https://habr.com/ru/news/878130/?utm_campaign=878130&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: почти каждый десятый человек использует один и тот же четырёхзначный PIN-код](https://habr.com/ru/news/878126/?utm_campaign=878126&utm_source=habrahabr&utm_medium=rss)
-- [BioWare объявила о реструктуризации](https://habr.com/ru/news/878102/?utm_campaign=878102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
