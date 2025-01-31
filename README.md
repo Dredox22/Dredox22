@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т‑банк» интегрировал платёжный QR-код от объединения трёх банков](https://habr.com/ru/news/878324/?utm_campaign=878324&utm_source=habrahabr&utm_medium=rss)
+- [Перезагрузка от Rezet: кибершпионская группировка снова атакует промышленные предприятия России](https://habr.com/ru/companies/f_a_c_c_t/news/878320/?utm_campaign=878320&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Нанософт» объявляет всероссийский конкурс грантов для вузов, развивающих инженерные дисциплины](https://habr.com/ru/companies/nanosoft/news/877860/?utm_campaign=877860&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор ФГУП «Космическая связь» не видит в России спроса на 5G](https://habr.com/ru/news/878310/?utm_campaign=878310&utm_source=habrahabr&utm_medium=rss)
 - [Selectel выпустил бесплатный курс по Python](https://habr.com/ru/companies/selectel/news/878306/?utm_campaign=878306&utm_source=habrahabr&utm_medium=rss)
-- [«Группа Астра» приглашает исследователей безопасности протестировать BILLmanager на платформе BI.ZONE Bug Bounty](https://habr.com/ru/companies/astralinux/news/877978/?utm_campaign=877978&utm_source=habrahabr&utm_medium=rss)
-- [Facebook** признала ошибку при блокировке тем, связанных с Linux](https://habr.com/ru/news/878296/?utm_campaign=878296&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft расследует сбой с доступом к службам Microsoft 365](https://habr.com/ru/news/878284/?utm_campaign=878284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
