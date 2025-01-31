@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Play и App Store стало недоступно приложение «Ингосстраха»](https://habr.com/ru/news/878342/?utm_campaign=878342&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑банк» интегрировал платёжный QR-код от объединения трёх банков](https://habr.com/ru/news/878324/?utm_campaign=878324&utm_source=habrahabr&utm_medium=rss)
 - [Перезагрузка от Rezet: кибершпионская группировка снова атакует промышленные предприятия России](https://habr.com/ru/companies/f_a_c_c_t/news/878320/?utm_campaign=878320&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Нанософт» объявляет всероссийский конкурс грантов для вузов, развивающих инженерные дисциплины](https://habr.com/ru/companies/nanosoft/news/877860/?utm_campaign=877860&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор ФГУП «Космическая связь» не видит в России спроса на 5G](https://habr.com/ru/news/878310/?utm_campaign=878310&utm_source=habrahabr&utm_medium=rss)
-- [Selectel выпустил бесплатный курс по Python](https://habr.com/ru/companies/selectel/news/878306/?utm_campaign=878306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
