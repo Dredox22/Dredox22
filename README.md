@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI только что выпустил o3-mini для всех. Она чуть качественнее и заметно быстрее o1](https://habr.com/ru/news/878478/?utm_campaign=878478&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX увеличила частоту свода с орбиты спутников Starlink до 3-4 аппаратов в сутки](https://habr.com/ru/news/878472/?utm_campaign=878472&utm_source=habrahabr&utm_medium=rss)
 - [НИУ ВШЭ и ГК «Элемент» создадут новую систему подготовки инженеров для высокотехнологичных отраслей](https://habr.com/ru/news/878468/?utm_campaign=878468&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия Solar CyberMir 7.0: командно-штабные тренировки, квизы, квесты и task-based для Blue Team в онлайн-формате](https://habr.com/ru/companies/solarsecurity/news/878464/?utm_campaign=878464&utm_source=habrahabr&utm_medium=rss)
 - [«OpenAI не боги, они не могут лидировать вечно»: самое интересное из интервью с основателем DeepSeek](https://habr.com/ru/news/878460/?utm_campaign=878460&utm_source=habrahabr&utm_medium=rss)
-- [В Steam вышло переиздание оригинальных The Sims 1 и The Sims 2 со всеми DLC](https://habr.com/ru/news/878442/?utm_campaign=878442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
