@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз образовательного пакета для детей GCompris 25.0](https://habr.com/ru/news/878206/?utm_campaign=878206&utm_source=habrahabr&utm_medium=rss)
-- [В VK Play вышло обновление для демо-версии стратегии «Космос — пространство будущего»](https://habr.com/ru/news/878200/?utm_campaign=878200&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудники Минобороны США подключали рабочие ПК к DeepSeek в течение двух суток, прежде чем ИБ-служба закрыла им доступ](https://habr.com/ru/news/878192/?utm_campaign=878192&utm_source=habrahabr&utm_medium=rss)
-- [США опередили Китай в разработке лучшего AI: новая модель из Сиэтла превосходит DeepSeek V3](https://habr.com/ru/companies/bothub/news/878158/?utm_campaign=878158&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PowerToys 0.88](https://habr.com/ru/news/878130/?utm_campaign=878130&utm_source=habrahabr&utm_medium=rss)
+- [Медмониторы для пациентов незаметно отправляет их данные на удалённый IP-адрес в Китае](https://habr.com/ru/news/878238/?utm_campaign=878238&utm_source=habrahabr&utm_medium=rss)
+- [За 2024 год Google заблокировала 2,36 млн опасных приложений в Play Store](https://habr.com/ru/news/878246/?utm_campaign=878246&utm_source=habrahabr&utm_medium=rss)
+- [Тим Кук: DeepSeek демонстрирует «инновации, повышающие эффективность»](https://habr.com/ru/news/878232/?utm_campaign=878232&utm_source=habrahabr&utm_medium=rss)
+- [Vodafone провёл спутниковый видеозвонок в зоне без сети на стандартном смартфоне](https://habr.com/ru/news/878224/?utm_campaign=878224&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch: утечку данных не считает серьезной проблемой каждая четвертая компания в России](https://habr.com/ru/companies/infowatch/news/878228/?utm_campaign=878228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
