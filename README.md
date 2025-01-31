@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [НИУ ВШЭ и ГК «Элемент» создадут новую систему подготовки инженеров для высокотехнологичных отраслей](https://habr.com/ru/news/878468/?utm_campaign=878468&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия Solar CyberMir 7.0: командно-штабные тренировки, квизы, квесты и task-based для Blue Team в онлайн-формате](https://habr.com/ru/companies/solarsecurity/news/878464/?utm_campaign=878464&utm_source=habrahabr&utm_medium=rss)
+- [«OpenAI не боги, они не могут лидировать вечно»: самое интересное из интервью с основателем DeepSeek](https://habr.com/ru/news/878460/?utm_campaign=878460&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышло переиздание оригинальных The Sims 1 и The Sims 2 со всеми DLC](https://habr.com/ru/news/878442/?utm_campaign=878442&utm_source=habrahabr&utm_medium=rss)
 - [Netflix предоставил кнопку «Загрузка сезона» пользователям iPhone и iPad](https://habr.com/ru/news/878430/?utm_campaign=878430&utm_source=habrahabr&utm_medium=rss)
-- [Mistral AI выпустила Small 3 — мощную языковую модель с 24 миллиардами параметров](https://habr.com/ru/companies/bothub/news/878409/?utm_campaign=878409&utm_source=habrahabr&utm_medium=rss)
-- [Проект Freedesktop.org ищет новый дом для своего инстанса GitLab](https://habr.com/ru/news/878384/?utm_campaign=878384&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play и App Store стало недоступно приложение «Ингосстраха»](https://habr.com/ru/news/878342/?utm_campaign=878342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
