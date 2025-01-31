@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral AI выпустила Small 3 — мощную языковую модель с 24 миллиардами параметров](https://habr.com/ru/companies/bothub/news/878409/?utm_campaign=878409&utm_source=habrahabr&utm_medium=rss)
 - [Проект Freedesktop.org ищет новый дом для своего инстанса GitLab](https://habr.com/ru/news/878384/?utm_campaign=878384&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play и App Store стало недоступно приложение «Ингосстраха»](https://habr.com/ru/news/878342/?utm_campaign=878342&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑банк» интегрировал платёжный QR-код от объединения трёх банков](https://habr.com/ru/news/878324/?utm_campaign=878324&utm_source=habrahabr&utm_medium=rss)
 - [Перезагрузка от Rezet: кибершпионская группировка снова атакует промышленные предприятия России](https://habr.com/ru/companies/f_a_c_c_t/news/878320/?utm_campaign=878320&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Нанософт» объявляет всероссийский конкурс грантов для вузов, развивающих инженерные дисциплины](https://habr.com/ru/companies/nanosoft/news/877860/?utm_campaign=877860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
