@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Добавление ругательств в поисковые запросы отключает функцию обзора на основе Gemini AI](https://habr.com/ru/news/878558/?utm_campaign=878558&utm_source=habrahabr&utm_medium=rss)
+- [Компания Allen AI: новая модель Tülu 3 405B с открытым исходным кодом конкурирует с лучшими моделями](https://habr.com/ru/companies/bothub/news/878556/?utm_campaign=878556&utm_source=habrahabr&utm_medium=rss)
+- [Google возвращает функцию звонков с помощью AI для назначения встреч и услуг](https://habr.com/ru/companies/bothub/news/878552/?utm_campaign=878552&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект LinuxPDF — Linux в PDF в браузере](https://habr.com/ru/news/878542/?utm_campaign=878542&utm_source=habrahabr&utm_medium=rss)
 - [Manticore Search 7.0.0: fuzzy search, автодополнение, Kafka, JSON индексы, Jieba, лёгкая пагинация](https://habr.com/ru/news/878272/?utm_campaign=878272&utm_source=habrahabr&utm_medium=rss)
-- [Уральский федеральный университет открыл регистрацию на хакатон «Инженерный код» для школьников и студентов](https://habr.com/ru/news/878540/?utm_campaign=878540&utm_source=habrahabr&utm_medium=rss)
-- [Sony по DMCA добилась удаления мода, позволяющего сыграть в Bloodborne на PS4 и PS5 с частотой 60 кадров в секунду](https://habr.com/ru/news/878524/?utm_campaign=878524&utm_source=habrahabr&utm_medium=rss)
-- [Цензуру DeepSeek можно обойти с помощью ASCII-арта](https://habr.com/ru/news/878494/?utm_campaign=878494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
