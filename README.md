@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В аэропорту Шереметьево напомнили об официальной Wi-Fi-точке аэровокзала и просят не подключаться к мошенническим ТД](https://habr.com/ru/news/878610/?utm_campaign=878610&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft формирует новое подразделение для изучения влияния искусственного интеллекта](https://habr.com/ru/companies/bothub/news/878572/?utm_campaign=878572&utm_source=habrahabr&utm_medium=rss)
 - [«Неконтролируемая человеческая речь»: какие опасности таит в себе новый набор данных для AI?](https://habr.com/ru/companies/bothub/news/878570/?utm_campaign=878570&utm_source=habrahabr&utm_medium=rss)
 - [Тест ChangeMyView: как OpenAI оценивает убедительность своих AI-моделей](https://habr.com/ru/companies/bothub/news/878562/?utm_campaign=878562&utm_source=habrahabr&utm_medium=rss)
 - [Deepseek произвел фурор и тут же облажался, а Гарвард не стал судиться с Samsung: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/878411/?utm_campaign=878411&utm_source=habrahabr&utm_medium=rss)
-- [Добавление ругательств в поисковые запросы отключает функцию обзора на основе Gemini AI](https://habr.com/ru/news/878558/?utm_campaign=878558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
