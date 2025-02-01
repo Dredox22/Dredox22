@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony по DMCA добилась удаления мода, позволяющего сыграть в Bloodborne на PS4 и PS5 с частотой 60 кадров в секунду](https://habr.com/ru/news/878524/?utm_campaign=878524&utm_source=habrahabr&utm_medium=rss)
 - [Цензуру DeepSeek можно обойти с помощью ASCII-арта](https://habr.com/ru/news/878494/?utm_campaign=878494&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI только что выпустил o3-mini для всех. Она чуть качественнее и заметно быстрее o1](https://habr.com/ru/news/878478/?utm_campaign=878478&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX увеличила частоту свода с орбиты спутников Starlink до 3-4 аппаратов в сутки](https://habr.com/ru/news/878472/?utm_campaign=878472&utm_source=habrahabr&utm_medium=rss)
 - [НИУ ВШЭ и ГК «Элемент» создадут новую систему подготовки инженеров для высокотехнологичных отраслей](https://habr.com/ru/news/878468/?utm_campaign=878468&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия Solar CyberMir 7.0: командно-штабные тренировки, квизы, квесты и task-based для Blue Team в онлайн-формате](https://habr.com/ru/companies/solarsecurity/news/878464/?utm_campaign=878464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
