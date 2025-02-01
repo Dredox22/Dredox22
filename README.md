@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft формирует новое подразделение для изучения влияния искусственного интеллекта](https://habr.com/ru/companies/bothub/news/878572/?utm_campaign=878572&utm_source=habrahabr&utm_medium=rss)
+- [«Неконтролируемая человеческая речь»: какие опасности таит в себе новый набор данных для AI?](https://habr.com/ru/companies/bothub/news/878570/?utm_campaign=878570&utm_source=habrahabr&utm_medium=rss)
 - [Тест ChangeMyView: как OpenAI оценивает убедительность своих AI-моделей](https://habr.com/ru/companies/bothub/news/878562/?utm_campaign=878562&utm_source=habrahabr&utm_medium=rss)
 - [Deepseek произвел фурор и тут же облажался, а Гарвард не стал судиться с Samsung: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/878411/?utm_campaign=878411&utm_source=habrahabr&utm_medium=rss)
 - [Добавление ругательств в поисковые запросы отключает функцию обзора на основе Gemini AI](https://habr.com/ru/news/878558/?utm_campaign=878558&utm_source=habrahabr&utm_medium=rss)
-- [Компания Allen AI: новая модель Tülu 3 405B с открытым исходным кодом конкурирует с лучшими моделями](https://habr.com/ru/companies/bothub/news/878556/?utm_campaign=878556&utm_source=habrahabr&utm_medium=rss)
-- [Google возвращает функцию звонков с помощью AI для назначения встреч и услуг](https://habr.com/ru/companies/bothub/news/878552/?utm_campaign=878552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
