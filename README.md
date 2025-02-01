@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект LinuxPDF — Linux в PDF в браузере](https://habr.com/ru/news/878542/?utm_campaign=878542&utm_source=habrahabr&utm_medium=rss)
+- [Manticore Search 7.0.0: fuzzy search, автодополнение, Kafka, JSON индексы, Jieba, лёгкая пагинация](https://habr.com/ru/news/878272/?utm_campaign=878272&utm_source=habrahabr&utm_medium=rss)
+- [Уральский федеральный университет открыл регистрацию на хакатон «Инженерный код» для школьников и студентов](https://habr.com/ru/news/878540/?utm_campaign=878540&utm_source=habrahabr&utm_medium=rss)
 - [Sony по DMCA добилась удаления мода, позволяющего сыграть в Bloodborne на PS4 и PS5 с частотой 60 кадров в секунду](https://habr.com/ru/news/878524/?utm_campaign=878524&utm_source=habrahabr&utm_medium=rss)
 - [Цензуру DeepSeek можно обойти с помощью ASCII-арта](https://habr.com/ru/news/878494/?utm_campaign=878494&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI только что выпустил o3-mini для всех. Она чуть качественнее и заметно быстрее o1](https://habr.com/ru/news/878478/?utm_campaign=878478&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX увеличила частоту свода с орбиты спутников Starlink до 3-4 аппаратов в сутки](https://habr.com/ru/news/878472/?utm_campaign=878472&utm_source=habrahabr&utm_medium=rss)
-- [НИУ ВШЭ и ГК «Элемент» создадут новую систему подготовки инженеров для высокотехнологичных отраслей](https://habr.com/ru/news/878468/?utm_campaign=878468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
