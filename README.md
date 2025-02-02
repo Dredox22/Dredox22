@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft добавила опции Copilot в Paint](https://habr.com/ru/news/878730/?utm_campaign=878730&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект по визуализации всех книг мира в ISBN-Space](https://habr.com/ru/news/878714/?utm_campaign=878714&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструмента для удобного архивирования, организации и распространения веб-ссылок LinkAce 2.0](https://habr.com/ru/news/878712/?utm_campaign=878712&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман: OpenAI оказался «не на той стороне истории» в отношении открытого исходного кода](https://habr.com/ru/companies/bothub/news/878672/?utm_campaign=878672&utm_source=habrahabr&utm_medium=rss)
 - [Конкуренция между ChatGPT и Deepseek: кто лидирует на рынке чат-ботов с искусственным интеллектом?](https://habr.com/ru/companies/bothub/news/878666/?utm_campaign=878666&utm_source=habrahabr&utm_medium=rss)
-- [Эндж Мидха о влиянии DeepSeek на рынок AI: спрос на графические процессоры не снизится](https://habr.com/ru/companies/bothub/news/878656/?utm_campaign=878656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
