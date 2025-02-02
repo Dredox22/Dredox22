@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект по визуализации всех книг мира в ISBN-Space](https://habr.com/ru/news/878714/?utm_campaign=878714&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструмента для удобного архивирования, организации и распространения веб-ссылок LinkAce 2.0](https://habr.com/ru/news/878712/?utm_campaign=878712&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман: OpenAI оказался «не на той стороне истории» в отношении открытого исходного кода](https://habr.com/ru/companies/bothub/news/878672/?utm_campaign=878672&utm_source=habrahabr&utm_medium=rss)
 - [Конкуренция между ChatGPT и Deepseek: кто лидирует на рынке чат-ботов с искусственным интеллектом?](https://habr.com/ru/companies/bothub/news/878666/?utm_campaign=878666&utm_source=habrahabr&utm_medium=rss)
 - [Эндж Мидха о влиянии DeepSeek на рынок AI: спрос на графические процессоры не снизится](https://habr.com/ru/companies/bothub/news/878656/?utm_campaign=878656&utm_source=habrahabr&utm_medium=rss)
-- [Открыт предзаказ на Minimal Phone с QWERTY-клавиатурой, E-Ink экраном и ОС Android](https://habr.com/ru/news/878630/?utm_campaign=878630&utm_source=habrahabr&utm_medium=rss)
-- [В аэропорту Шереметьево напомнили об официальной Wi-Fi-точке аэровокзала и просят не подключаться к мошенническим ТД](https://habr.com/ru/news/878610/?utm_campaign=878610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
