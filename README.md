@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI проверяет убедительность рассуждений o3-mini в сабреддите](https://habr.com/ru/news/878914/?utm_campaign=878914&utm_source=habrahabr&utm_medium=rss)
+- [Oracle столкнулась с восстанием клиентов Java после «хищнических» изменений цен](https://habr.com/ru/news/878904/?utm_campaign=878904&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустит новый iCloud-сервис для организации мероприятий](https://habr.com/ru/news/878888/?utm_campaign=878888&utm_source=habrahabr&utm_medium=rss)
 - [Linux Foundation дала рекомендации по международным санкциям Минфина США и разработке ПО с открытым исходным кодом](https://habr.com/ru/news/878886/?utm_campaign=878886&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпаты занялся вайб-программированием](https://habr.com/ru/news/878868/?utm_campaign=878868&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор в Японии призвал чиновников отказаться от DeepSeek](https://habr.com/ru/news/878858/?utm_campaign=878858&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI анонсировали Deep Research — самостоятельного агента для исследований](https://habr.com/ru/news/878852/?utm_campaign=878852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
