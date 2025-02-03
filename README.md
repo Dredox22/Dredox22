@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/879094/?utm_campaign=879094&utm_source=habrahabr&utm_medium=rss)
+- [«Доктор Веб»: обзор вирусной активности для Android-устройств за 2024 год](https://habr.com/ru/news/879090/?utm_campaign=879090&utm_source=habrahabr&utm_medium=rss)
+- [Cerebras Systems бросает вызов доминированию Nvidia на рынке AI-чипов, опережая графические процессоры в 57 раз](https://habr.com/ru/companies/bothub/news/879064/?utm_campaign=879064&utm_source=habrahabr&utm_medium=rss)
 - [MaxPatrol SIEM можно развернуть в среде виртуализации на базе платформы zVirt](https://habr.com/ru/companies/orion_soft/news/879062/?utm_campaign=879062&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия открытого проекта Discord Messenger for Windows с поддержкой Windows 95 и Windows 98](https://habr.com/ru/news/879030/?utm_campaign=879030&utm_source=habrahabr&utm_medium=rss)
-- [Первые пользователи протестировали ChatGPT Operator от OpenAI на реальных задачах](https://habr.com/ru/companies/bothub/news/878984/?utm_campaign=878984&utm_source=habrahabr&utm_medium=rss)
-- [Цифровая библиотека Video Game History Foundation открылась в раннем доступе](https://habr.com/ru/news/879004/?utm_campaign=879004&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla адаптировала Fakespot в дополнение к Firefox для обнаружения ИИ-контента](https://habr.com/ru/news/878986/?utm_campaign=878986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
