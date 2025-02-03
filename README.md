@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия открытого проекта Discord Messenger for Windows с поддержкой Windows 95 и Windows 98](https://habr.com/ru/news/879030/?utm_campaign=879030&utm_source=habrahabr&utm_medium=rss)
 - [Первые пользователи протестировали ChatGPT Operator от OpenAI на реальных задачах](https://habr.com/ru/companies/bothub/news/878984/?utm_campaign=878984&utm_source=habrahabr&utm_medium=rss)
 - [Цифровая библиотека Video Game History Foundation открылась в раннем доступе](https://habr.com/ru/news/879004/?utm_campaign=879004&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla адаптировала Fakespot в дополнение к Firefox для обнаружения ИИ-контента](https://habr.com/ru/news/878986/?utm_campaign=878986&utm_source=habrahabr&utm_medium=rss)
 - [Авторские права на контент, созданный искусственным интеллектом: что нужно знать](https://habr.com/ru/companies/bothub/news/878960/?utm_campaign=878960&utm_source=habrahabr&utm_medium=rss)
-- [Технология InfoWatch — в числе 10 главных изобретений в области IT и кибербезопасности с 2021 года](https://habr.com/ru/companies/infowatch/news/878982/?utm_campaign=878982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
