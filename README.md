@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Яндекс любит Фронтенд, а ты?…](https://habr.com/ru/companies/yandex/news/879108/?utm_campaign=879108&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс любит фронтенд, а ты?…](https://habr.com/ru/companies/yandex/news/879108/?utm_campaign=879108&utm_source=habrahabr&utm_medium=rss)
 - [Глава OpenAI Сэм Альтман не намерен подавать иск против создателей китайского чат-бота DeepSeek](https://habr.com/ru/news/879104/?utm_campaign=879104&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/879094/?utm_campaign=879094&utm_source=habrahabr&utm_medium=rss)
 - [«Доктор Веб»: обзор вирусной активности для Android-устройств за 2024 год](https://habr.com/ru/news/879090/?utm_campaign=879090&utm_source=habrahabr&utm_medium=rss)
