@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google X запускает стартап Heritable Agriculture, использующий AI для повышения урожайности](https://habr.com/ru/companies/bothub/news/878948/?utm_campaign=878948&utm_source=habrahabr&utm_medium=rss)
+- [AI-модели, такие как Deepseek-R1 и OpenAI o1, страдают от «недомыслия»: как это можно исправить](https://habr.com/ru/companies/bothub/news/878944/?utm_campaign=878944&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Vanilla CSS Design System](https://habr.com/ru/news/878924/?utm_campaign=878924&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI проверяет убедительность рассуждений o3-mini в сабреддите](https://habr.com/ru/news/878914/?utm_campaign=878914&utm_source=habrahabr&utm_medium=rss)
 - [Oracle столкнулась с восстанием клиентов Java после «хищнических» изменений цен](https://habr.com/ru/news/878904/?utm_campaign=878904&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустит новый iCloud-сервис для организации мероприятий](https://habr.com/ru/news/878888/?utm_campaign=878888&utm_source=habrahabr&utm_medium=rss)
-- [Linux Foundation дала рекомендации по международным санкциям Минфина США и разработке ПО с открытым исходным кодом](https://habr.com/ru/news/878886/?utm_campaign=878886&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпаты занялся вайб-программированием](https://habr.com/ru/news/878868/?utm_campaign=878868&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
