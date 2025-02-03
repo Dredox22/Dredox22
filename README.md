@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla адаптировала Fakespot в дополнение к Firefox для обнаружения ИИ-контента](https://habr.com/ru/news/878986/?utm_campaign=878986&utm_source=habrahabr&utm_medium=rss)
+- [Авторские права на контент, созданный искусственным интеллектом: что нужно знать](https://habr.com/ru/companies/bothub/news/878960/?utm_campaign=878960&utm_source=habrahabr&utm_medium=rss)
+- [Технология InfoWatch — в числе 10 главных изобретений в области IT и кибербезопасности с 2021 года](https://habr.com/ru/companies/infowatch/news/878982/?utm_campaign=878982&utm_source=habrahabr&utm_medium=rss)
+- [«T1 Интеграция» открыла демолабораторию с оборудованием Yadro](https://habr.com/ru/news/878972/?utm_campaign=878972&utm_source=habrahabr&utm_medium=rss)
 - [Google X запускает стартап Heritable Agriculture, использующий AI для повышения урожайности](https://habr.com/ru/companies/bothub/news/878948/?utm_campaign=878948&utm_source=habrahabr&utm_medium=rss)
-- [AI-модели, такие как Deepseek-R1 и OpenAI o1, страдают от «недомыслия»: как это можно исправить](https://habr.com/ru/companies/bothub/news/878944/?utm_campaign=878944&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Vanilla CSS Design System](https://habr.com/ru/news/878924/?utm_campaign=878924&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI проверяет убедительность рассуждений o3-mini в сабреддите](https://habr.com/ru/news/878914/?utm_campaign=878914&utm_source=habrahabr&utm_medium=rss)
-- [Oracle столкнулась с восстанием клиентов Java после «хищнических» изменений цен](https://habr.com/ru/news/878904/?utm_campaign=878904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
