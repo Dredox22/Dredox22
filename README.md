@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» рассказала про самые популярные вредоносные программы, для Android‑устройств в 2024 году](https://habr.com/ru/news/879464/?utm_campaign=879464&utm_source=habrahabr&utm_medium=rss)
+- [AI-помощник Adobe Acrobat теперь может расшифровывать контрактный жаргон](https://habr.com/ru/companies/bothub/news/879462/?utm_campaign=879462&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил Doom внутри поисковой строки Google](https://habr.com/ru/news/879406/?utm_campaign=879406&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского»: «Под видом приглашения на свадьбу в мессенджерах распространяется новый вредонос»](https://habr.com/ru/news/879390/?utm_campaign=879390&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ зафиксировал всплеск мифов о цифровом рубле в мессенджерах и соцсетях](https://habr.com/ru/news/879388/?utm_campaign=879388&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance выпустили OmniHuman-1: генерация видео по одной картинке и аудиодорожке](https://habr.com/ru/news/879384/?utm_campaign=879384&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 135.0](https://habr.com/ru/news/879378/?utm_campaign=879378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
