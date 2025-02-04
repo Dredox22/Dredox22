@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Snap представила модель преобразования текста в изображение с помощью AI для мобильных устройств](https://habr.com/ru/companies/bothub/news/879506/?utm_campaign=879506&utm_source=habrahabr&utm_medium=rss)
+- [Как небольшой набор данных и управление вычислениями могут улучшить работу языковых моделей](https://habr.com/ru/companies/bothub/news/879504/?utm_campaign=879504&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть «Сбера» GigaChat сдала экзамен в Волгоградском медуниверситете по специальности «Кардиология»](https://habr.com/ru/news/879500/?utm_campaign=879500&utm_source=habrahabr&utm_medium=rss)
 - [В Австралии запретили использовать DeepSeek в госсистемах и рабочих ПК чиновников по соображениям нацбезопасности](https://habr.com/ru/news/879480/?utm_campaign=879480&utm_source=habrahabr&utm_medium=rss)
 - [Тебе сюда нельзя: Flutter блокирует разработчиков по национальности](https://habr.com/ru/news/879478/?utm_campaign=879478&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» рассказала про самые популярные вредоносные программы, для Android‑устройств в 2024 году](https://habr.com/ru/news/879464/?utm_campaign=879464&utm_source=habrahabr&utm_medium=rss)
-- [AI-помощник Adobe Acrobat теперь может расшифровывать контрактный жаргон](https://habr.com/ru/companies/bothub/news/879462/?utm_campaign=879462&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик запустил Doom внутри поисковой строки Google](https://habr.com/ru/news/879406/?utm_campaign=879406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
