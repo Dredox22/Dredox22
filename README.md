@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple открыла код системы сборки проектов Swift Build](https://habr.com/ru/news/879242/?utm_campaign=879242&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.2](https://habr.com/ru/news/879234/?utm_campaign=879234&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.5](https://habr.com/ru/news/879228/?utm_campaign=879228&utm_source=habrahabr&utm_medium=rss)
-- [Управление данными в Deckhouse стало проще: интеграция с TATLIN.UNIFIED](https://habr.com/ru/companies/flant/news/878968/?utm_campaign=878968&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.11](https://habr.com/ru/news/879222/?utm_campaign=879222&utm_source=habrahabr&utm_medium=rss)
+- [Календарь хакатонов на февраль-март 2025](https://habr.com/ru/news/879216/?utm_campaign=879216&utm_source=habrahabr&utm_medium=rss)
+- [Кошки умнее СhatGPT / Никто не знает, что такое ООП / Агрессивные бобры  | Spring АйО Подкаст №5](https://habr.com/ru/companies/spring_aio/news/879286/?utm_campaign=879286&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала блокировать приложение Flyby11 для обхода системных требований Windows 11 24H2](https://habr.com/ru/news/879282/?utm_campaign=879282&utm_source=habrahabr&utm_medium=rss)
+- [«Авито» увеличила выплаты по программе поиска уязвимостей до 500 тысяч рублей](https://habr.com/ru/news/879158/?utm_campaign=879158&utm_source=habrahabr&utm_medium=rss)
+- [Защищенность СУБД Proxima DB разработчика Orion soft подтверждена сертификацией ФСТЭК](https://habr.com/ru/companies/orion_soft/news/879278/?utm_campaign=879278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
