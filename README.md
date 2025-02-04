@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.2](https://habr.com/ru/news/879234/?utm_campaign=879234&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.5](https://habr.com/ru/news/879228/?utm_campaign=879228&utm_source=habrahabr&utm_medium=rss)
 - [Управление данными в Deckhouse стало проще: интеграция с TATLIN.UNIFIED](https://habr.com/ru/companies/flant/news/878968/?utm_campaign=878968&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.11](https://habr.com/ru/news/879222/?utm_campaign=879222&utm_source=habrahabr&utm_medium=rss)
 - [SoftBank и OpenAI укрепляют партнёрство: миллиардные инвестиции и создание нового предприятия](https://habr.com/ru/companies/bothub/news/879146/?utm_campaign=879146&utm_source=habrahabr&utm_medium=rss)
-- [В Steam вышла игра «Скуфы против квадроберов»](https://habr.com/ru/news/879164/?utm_campaign=879164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
