@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.5](https://habr.com/ru/news/879228/?utm_campaign=879228&utm_source=habrahabr&utm_medium=rss)
+- [Управление данными в Deckhouse стало проще: интеграция с TATLIN.UNIFIED](https://habr.com/ru/companies/flant/news/878968/?utm_campaign=878968&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для профессиональной записи и обработки звука Ardour 8.11](https://habr.com/ru/news/879222/?utm_campaign=879222&utm_source=habrahabr&utm_medium=rss)
 - [SoftBank и OpenAI укрепляют партнёрство: миллиардные инвестиции и создание нового предприятия](https://habr.com/ru/companies/bothub/news/879146/?utm_campaign=879146&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышла игра «Скуфы против квадроберов»](https://habr.com/ru/news/879164/?utm_campaign=879164&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского»: мошенники осваивают новые схемы телефонного обмана](https://habr.com/ru/news/879150/?utm_campaign=879150&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare упрощает отслеживание подлинных изображений в Интернете](https://habr.com/ru/companies/bothub/news/879148/?utm_campaign=879148&utm_source=habrahabr&utm_medium=rss)
-- [The Beatles выиграли Грэмми благодаря треку, созданному с помощью AI](https://habr.com/ru/companies/bothub/news/879140/?utm_campaign=879140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
