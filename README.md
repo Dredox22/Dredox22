@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Opera Air — заботливый браузер, который помогает бороться со стрессом](https://habr.com/ru/news/879534/?utm_campaign=879534&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Astro 5.2: поддержка Tailwind 4, TOML и новая логика редиректов](https://habr.com/ru/news/879532/?utm_campaign=879532&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI укрепляет позиции на азиатском рынке: стратегические партнёрства с Kakao и SoftBank](https://habr.com/ru/companies/bothub/news/879516/?utm_campaign=879516&utm_source=habrahabr&utm_medium=rss)
 - [Челябинский госуниверситет получил грант в 20 млн рублей на лабораторию для импортозамещения микроэлектроники](https://habr.com/ru/news/879514/?utm_campaign=879514&utm_source=habrahabr&utm_medium=rss)
 - [Snap представила модель преобразования текста в изображение с помощью AI для мобильных устройств](https://habr.com/ru/companies/bothub/news/879506/?utm_campaign=879506&utm_source=habrahabr&utm_medium=rss)
-- [Как небольшой набор данных и управление вычислениями могут улучшить работу языковых моделей](https://habr.com/ru/companies/bothub/news/879504/?utm_campaign=879504&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть «Сбера» GigaChat сдала экзамен в Волгоградском медуниверситете по специальности «Кардиология»](https://habr.com/ru/news/879500/?utm_campaign=879500&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
