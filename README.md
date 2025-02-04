@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Цензура в DeepSeek работает при локальном запуске модели](https://habr.com/ru/news/879298/?utm_campaign=879298&utm_source=habrahabr&utm_medium=rss)
+- [В AltStore PAL в ЕС для iPhone вышел браузер контента для взрослых Hot Tub](https://habr.com/ru/news/879290/?utm_campaign=879290&utm_source=habrahabr&utm_medium=rss)
 - [Календарь хакатонов на февраль-март 2025](https://habr.com/ru/news/879216/?utm_campaign=879216&utm_source=habrahabr&utm_medium=rss)
 - [Кошки умнее СhatGPT / Никто не знает, что такое ООП / Агрессивные бобры  | Spring АйО Подкаст №5](https://habr.com/ru/companies/spring_aio/news/879286/?utm_campaign=879286&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала блокировать приложение Flyby11 для обхода системных требований Windows 11 24H2](https://habr.com/ru/news/879282/?utm_campaign=879282&utm_source=habrahabr&utm_medium=rss)
-- [«Авито» увеличила выплаты по программе поиска уязвимостей до 500 тысяч рублей](https://habr.com/ru/news/879158/?utm_campaign=879158&utm_source=habrahabr&utm_medium=rss)
-- [Защищенность СУБД Proxima DB разработчика Orion soft подтверждена сертификацией ФСТЭК](https://habr.com/ru/companies/orion_soft/news/879278/?utm_campaign=879278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
