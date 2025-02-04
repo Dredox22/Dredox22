@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 2024 году количество вакансий специалистов по кибербезопасности увеличилось, по данным разных сервисов, на 17–50%](https://habr.com/ru/news/879366/?utm_campaign=879366&utm_source=habrahabr&utm_medium=rss)
 - [В Совфеде предложили идентифицировать «белых хакеров» через «Госуслуги»](https://habr.com/ru/news/879344/?utm_campaign=879344&utm_source=habrahabr&utm_medium=rss)
 - [Европол и Американцы под руководством «Шта́зи» захватили крупнейшие хакерские форумы](https://habr.com/ru/news/879340/?utm_campaign=879340&utm_source=habrahabr&utm_medium=rss)
 - [Windows 10 и 11 могут не распознать RTX 5090 в некоторых случаях](https://habr.com/ru/news/879332/?utm_campaign=879332&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» выявила вирус для кражи данных снимков с iPhone](https://habr.com/ru/news/879312/?utm_campaign=879312&utm_source=habrahabr&utm_medium=rss)
-- [Цензура в DeepSeek работает при локальном запуске модели](https://habr.com/ru/news/879298/?utm_campaign=879298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
