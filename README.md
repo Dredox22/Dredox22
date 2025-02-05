@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российский разработчик средств защиты информации «ИнфоТеКС» с 1 марта повышает цены на свою продукцию и лицензии](https://habr.com/ru/news/879558/?utm_campaign=879558&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mozilla Thunderbird 135.0](https://habr.com/ru/news/879554/?utm_campaign=879554&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект WikiTok, где можно быстро узнавать новое, скролля ленту из рандомных статей Wikipedia](https://habr.com/ru/news/879544/?utm_campaign=879544&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил Open Deep Researcher — открытый аналог функции глубокого поиска от OpenAI](https://habr.com/ru/news/879538/?utm_campaign=879538&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Opera Air — заботливый браузер, который помогает бороться со стрессом](https://habr.com/ru/news/879534/?utm_campaign=879534&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Astro 5.2: поддержка Tailwind 4, TOML и новая логика редиректов](https://habr.com/ru/news/879532/?utm_campaign=879532&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI укрепляет позиции на азиатском рынке: стратегические партнёрства с Kakao и SoftBank](https://habr.com/ru/companies/bothub/news/879516/?utm_campaign=879516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
