@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дарим электронную версию книги «Вредные советы для С++ программистов»](https://habr.com/ru/companies/pvs-studio/news/878234/?utm_campaign=878234&utm_source=habrahabr&utm_medium=rss)
 - [Российский разработчик средств защиты информации «ИнфоТеКС» с 1 марта повышает цены на свою продукцию и лицензии](https://habr.com/ru/news/879558/?utm_campaign=879558&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 135.0](https://habr.com/ru/news/879554/?utm_campaign=879554&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект WikiTok, где можно быстро узнавать новое, скролля ленту из рандомных статей Wikipedia](https://habr.com/ru/news/879544/?utm_campaign=879544&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил Open Deep Researcher — открытый аналог функции глубокого поиска от OpenAI](https://habr.com/ru/news/879538/?utm_campaign=879538&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Opera Air — заботливый браузер, который помогает бороться со стрессом](https://habr.com/ru/news/879534/?utm_campaign=879534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
