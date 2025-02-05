@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открылся приём заявок на Apple Swift Student Challenge 2025](https://habr.com/ru/news/879760/?utm_campaign=879760&utm_source=habrahabr&utm_medium=rss)
 - [Новые правила безопасности Deepmind направлены на то, чтобы не дать системам перехитрить людей](https://habr.com/ru/companies/bothub/news/879748/?utm_campaign=879748&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект TaskExplorer 1.6.0](https://habr.com/ru/news/879702/?utm_campaign=879702&utm_source=habrahabr&utm_medium=rss)
 - [R-Style Softlab и вендор nocode-технологий Abanking подписали соглашение о партнерстве](https://habr.com/ru/companies/rshb/news/879444/?utm_campaign=879444&utm_source=habrahabr&utm_medium=rss)
 - [Какими цифровыми сервисами пользуются агрохолдинги?](https://habr.com/ru/companies/rshb/news/879684/?utm_campaign=879684&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объявила дату проведения конференции разработчиков Build 2025](https://habr.com/ru/news/879682/?utm_campaign=879682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
