@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект TaskExplorer 1.6.0](https://habr.com/ru/news/879702/?utm_campaign=879702&utm_source=habrahabr&utm_medium=rss)
+- [R-Style Softlab и вендор nocode-технологий Abanking подписали соглашение о партнерстве](https://habr.com/ru/companies/rshb/news/879444/?utm_campaign=879444&utm_source=habrahabr&utm_medium=rss)
 - [Какими цифровыми сервисами пользуются агрохолдинги?](https://habr.com/ru/companies/rshb/news/879684/?utm_campaign=879684&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила дату проведения конференции разработчиков Build 2025](https://habr.com/ru/news/879682/?utm_campaign=879682&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Нанософт» и СПбГАСУ повышают квалификацию преподавателей: реализована программа обучения работе в nanoCAD](https://habr.com/ru/companies/nanosoft/news/879678/?utm_campaign=879678&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила новый скрипт PowerShell для обновлённого загрузочного носителя Windows 10 и 11](https://habr.com/ru/news/879648/?utm_campaign=879648&utm_source=habrahabr&utm_medium=rss)
-- [EFF раскритиковал усилия властей США по борьбе с китайскими технологиями в сфере ИИ](https://habr.com/ru/news/879634/?utm_campaign=879634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
