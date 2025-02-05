@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз NWinfo 1.1.1 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/879638/?utm_campaign=879638&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешила настраивать виджеты экрана блокировки Windows 11](https://habr.com/ru/news/879632/?utm_campaign=879632&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст запустил Doom на переходнике Lightning/HDMI](https://habr.com/ru/news/879628/?utm_campaign=879628&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выявил представления разных нейросетей о среднестатистическом человеке](https://habr.com/ru/news/879618/?utm_campaign=879618&utm_source=habrahabr&utm_medium=rss)
-- [Календарь хакатонов на февраль-март 2025](https://habr.com/ru/news/879214/?utm_campaign=879214&utm_source=habrahabr&utm_medium=rss)
+- [Какими цифровыми сервисами пользуются агрохолдинги?](https://habr.com/ru/companies/rshb/news/879684/?utm_campaign=879684&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft объявила дату проведения конференции разработчиков Build 2025](https://habr.com/ru/news/879682/?utm_campaign=879682&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Нанософт» и СПбГАСУ повышают квалификацию преподавателей: реализована программа обучения работе в nanoCAD](https://habr.com/ru/companies/nanosoft/news/879678/?utm_campaign=879678&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила новый скрипт PowerShell для обновлённого загрузочного носителя Windows 10 и 11](https://habr.com/ru/news/879648/?utm_campaign=879648&utm_source=habrahabr&utm_medium=rss)
+- [EFF раскритиковал усилия властей США по борьбе с китайскими технологиями в сфере ИИ](https://habr.com/ru/news/879634/?utm_campaign=879634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
