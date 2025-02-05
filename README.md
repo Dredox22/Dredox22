@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Pickle — сервис для генерации цифровых аватаров, которых можно использовать на созвонах](https://habr.com/ru/news/879894/?utm_campaign=879894&utm_source=habrahabr&utm_medium=rss)
 - [Семейство моделей Gemini 2.0 от Google пополнилось Flash-Lite и Pro](https://habr.com/ru/companies/bothub/news/879878/?utm_campaign=879878&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Nvidia демонстрируют прогресс в обучении роботов](https://habr.com/ru/companies/bothub/news/879874/?utm_campaign=879874&utm_source=habrahabr&utm_medium=rss)
 - [Таганский районный суд Москвы оштрафовал Discord за отказ локализовать персональные данные российских пользователей](https://habr.com/ru/news/879870/?utm_campaign=879870&utm_source=habrahabr&utm_medium=rss)
 - [Тесты помогают быстрее и дешевле учить ИИ писать код. Новая работа китайских ученых: TDD для обучения ИИ](https://habr.com/ru/news/879826/?utm_campaign=879826&utm_source=habrahabr&utm_medium=rss)
-- [Представлен BoquilaHUB — проект открытого локального кроссплатформенного приложения для мониторинга природы с помощью ИИ](https://habr.com/ru/news/879824/?utm_campaign=879824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
