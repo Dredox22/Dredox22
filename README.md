@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тесты помогают быстрее и дешевле учить ИИ писать код. Новая работа китайских ученых: TDD для обучения ИИ](https://habr.com/ru/news/879826/?utm_campaign=879826&utm_source=habrahabr&utm_medium=rss)
+- [Представлен BoquilaHUB — проект открытого локального кроссплатформенного приложения для мониторинга природы с помощью ИИ](https://habr.com/ru/news/879824/?utm_campaign=879824&utm_source=habrahabr&utm_medium=rss)
 - [InfoWatch: половина российских компаний не страхуют риски от утечек данных](https://habr.com/ru/companies/infowatch/news/879804/?utm_campaign=879804&utm_source=habrahabr&utm_medium=rss)
 - [Разбор решения суда по делу «Лайтком» против блогера Максима Горшенина от проекта «Честный реестр»](https://habr.com/ru/news/879794/?utm_campaign=879794&utm_source=habrahabr&utm_medium=rss)
 - [Открылся приём заявок на Apple Swift Student Challenge 2025](https://habr.com/ru/news/879760/?utm_campaign=879760&utm_source=habrahabr&utm_medium=rss)
-- [Новые правила безопасности Deepmind направлены на то, чтобы не дать системам перехитрить людей](https://habr.com/ru/companies/bothub/news/879748/?utm_campaign=879748&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект TaskExplorer 1.6.0](https://habr.com/ru/news/879702/?utm_campaign=879702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
