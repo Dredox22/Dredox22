@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз NWinfo 1.1.1 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/879638/?utm_campaign=879638&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разрешила настраивать виджеты экрана блокировки Windows 11](https://habr.com/ru/news/879632/?utm_campaign=879632&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст запустил Doom на переходнике Lightning/HDMI](https://habr.com/ru/news/879628/?utm_campaign=879628&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выявил представления разных нейросетей о среднестатистическом человеке](https://habr.com/ru/news/879618/?utm_campaign=879618&utm_source=habrahabr&utm_medium=rss)
 - [Календарь хакатонов на февраль-март 2025](https://habr.com/ru/news/879214/?utm_campaign=879214&utm_source=habrahabr&utm_medium=rss)
-- [Zyxel отказалась исправлять уязвимости в 1500 старых маршрутизаторах](https://habr.com/ru/news/879598/?utm_campaign=879598&utm_source=habrahabr&utm_medium=rss)
-- [Дарим электронную версию книги «Вредные советы для С++ программистов»](https://habr.com/ru/companies/pvs-studio/news/878234/?utm_campaign=878234&utm_source=habrahabr&utm_medium=rss)
-- [Российский разработчик средств защиты информации «ИнфоТеКС» с 1 марта повышает цены на свою продукцию и лицензии](https://habr.com/ru/news/879558/?utm_campaign=879558&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mozilla Thunderbird 135.0](https://habr.com/ru/news/879554/?utm_campaign=879554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
