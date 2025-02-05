@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [InfoWatch: половина российских компаний не страхуют риски от утечек данных](https://habr.com/ru/companies/infowatch/news/879804/?utm_campaign=879804&utm_source=habrahabr&utm_medium=rss)
+- [Разбор решения суда по делу «Лайтком» против блогера Максима Горшенина от проекта «Честный реестр»](https://habr.com/ru/news/879794/?utm_campaign=879794&utm_source=habrahabr&utm_medium=rss)
 - [Открылся приём заявок на Apple Swift Student Challenge 2025](https://habr.com/ru/news/879760/?utm_campaign=879760&utm_source=habrahabr&utm_medium=rss)
 - [Новые правила безопасности Deepmind направлены на то, чтобы не дать системам перехитрить людей](https://habr.com/ru/companies/bothub/news/879748/?utm_campaign=879748&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект TaskExplorer 1.6.0](https://habr.com/ru/news/879702/?utm_campaign=879702&utm_source=habrahabr&utm_medium=rss)
-- [R-Style Softlab и вендор nocode-технологий Abanking подписали соглашение о партнерстве](https://habr.com/ru/companies/rshb/news/879444/?utm_campaign=879444&utm_source=habrahabr&utm_medium=rss)
-- [Какими цифровыми сервисами пользуются агрохолдинги?](https://habr.com/ru/companies/rshb/news/879684/?utm_campaign=879684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
