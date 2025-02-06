@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Произошли изменения в руководстве госкорпорации «Роскосмос»](https://habr.com/ru/news/879932/?utm_campaign=879932&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты Feroot Security выяснили, что после регистрации DeepSeek передаёт данные пользователей в China Mobile](https://habr.com/ru/news/879926/?utm_campaign=879926&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Дуров пробудет под надзором во Франции ещё как минимум год](https://habr.com/ru/news/879920/?utm_campaign=879920&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор зафиксировал за 2024 году больше всего утечек данных пользователей в сфере торговли и услуг](https://habr.com/ru/news/879908/?utm_campaign=879908&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор зафиксировал за 2024 год больше всего утечек данных пользователей в сфере торговли и услуг](https://habr.com/ru/news/879908/?utm_campaign=879908&utm_source=habrahabr&utm_medium=rss)
 - [Команда Hugging Face представила собственную открытую реализацию агента DeepResearch от OpenAI](https://habr.com/ru/news/879896/?utm_campaign=879896&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Pickle — сервис для генерации цифровых аватаров, которых можно использовать на созвонах](https://habr.com/ru/news/879894/?utm_campaign=879894&utm_source=habrahabr&utm_medium=rss)
-- [Семейство моделей Gemini 2.0 от Google пополнилось Flash-Lite и Pro](https://habr.com/ru/companies/bothub/news/879878/?utm_campaign=879878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
