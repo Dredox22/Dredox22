@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek приостановила пополнение счёта для оплаты доступа к API из-за нагрузки на серверы](https://habr.com/ru/news/880176/?utm_campaign=880176&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE представила исследование российского ландшафта угроз за 2024 год Threat Zone 2025](https://habr.com/ru/news/880130/?utm_campaign=880130&utm_source=habrahabr&utm_medium=rss)
 - [Paradox Interactive приобрела разработчика Jagged Alliance 3 и нескольких игр серии Tropico](https://habr.com/ru/news/880124/?utm_campaign=880124&utm_source=habrahabr&utm_medium=rss)
 - [Let&#39;s Encrypt прекратит уведомлять об истечении срока действия своих бесплатных HTTPS-сертификатов с 4 июня 2025 года](https://habr.com/ru/news/880102/?utm_campaign=880102&utm_source=habrahabr&utm_medium=rss)
 - [Steam начал предупреждать о низкой активности разработчиков проектов в раннем доступе](https://habr.com/ru/news/880092/?utm_campaign=880092&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект global-capslock для общей синхронизации состояния CAPS LOCK со всеми пользователями](https://habr.com/ru/news/880088/?utm_campaign=880088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
