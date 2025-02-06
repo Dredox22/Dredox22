@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nikon представила камеру Coolpix P1100 со 125-кратным оптическим зумом](https://habr.com/ru/news/880010/?utm_campaign=880010&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI сделала поисковую систему на основе ИИ более доступной](https://habr.com/ru/news/879994/?utm_campaign=879994&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры пообещало создать «тревожную кнопку» для защиты от мошенников](https://habr.com/ru/news/879986/?utm_campaign=879986&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries и Russ внедрили систему на базе ИИ для блокировки мошеннических аккаунтов](https://habr.com/ru/news/879978/?utm_campaign=879978&utm_source=habrahabr&utm_medium=rss)
 - [Тренажёры «Лаборатории Касперского» для проекта «Урок цифры» за три недели прошли 3,5 миллиона раз](https://habr.com/ru/news/879976/?utm_campaign=879976&utm_source=habrahabr&utm_medium=rss)
-- [Архитектура чат-ботов столкнулась с фундаментальными ограничениями](https://habr.com/ru/news/879966/?utm_campaign=879966&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс добавил в Шедеврум возможность протестировать визуальную модель от DeepSeek](https://habr.com/ru/companies/yandex/news/879936/?utm_campaign=879936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
