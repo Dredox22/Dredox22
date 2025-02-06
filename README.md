@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры пообещало создать «тревожную кнопку» для защиты от мошенников](https://habr.com/ru/news/879986/?utm_campaign=879986&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries и Russ внедрили систему на базе ИИ для блокировки мошеннических аккаунтов](https://habr.com/ru/news/879978/?utm_campaign=879978&utm_source=habrahabr&utm_medium=rss)
+- [Тренажёры «Лаборатории Касперского» для проекта «Урок цифры» за три недели прошли 3,5 миллиона раз](https://habr.com/ru/news/879976/?utm_campaign=879976&utm_source=habrahabr&utm_medium=rss)
 - [Архитектура чат-ботов столкнулась с фундаментальными ограничениями](https://habr.com/ru/news/879966/?utm_campaign=879966&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс добавил в Шедеврум возможность протестировать визуальную модель от DeepSeek](https://habr.com/ru/companies/yandex/news/879936/?utm_campaign=879936&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавит уведомления о входящих звонках в Edge](https://habr.com/ru/news/879950/?utm_campaign=879950&utm_source=habrahabr&utm_medium=rss)
-- [Спасительный круг: пираты удерживают падение доходов за счёт санкционных фильмов и сериалов](https://habr.com/ru/companies/f_a_c_c_t/news/879666/?utm_campaign=879666&utm_source=habrahabr&utm_medium=rss)
-- [Произошли изменения в руководстве госкорпорации «Роскосмос»](https://habr.com/ru/news/879932/?utm_campaign=879932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
