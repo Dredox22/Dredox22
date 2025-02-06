@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugging Face работает над копированием возможностей OpenAI Deep Research с помощью агента AI с открытым исходным кодом](https://habr.com/ru/companies/bothub/news/880216/?utm_campaign=880216&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic просит кандидатов не использовать нейросети в откликах на вакансии](https://habr.com/ru/news/880200/?utm_campaign=880200&utm_source=habrahabr&utm_medium=rss)
 - [GitHub представил Vision for Copilot: генерация кода по изображениям](https://habr.com/ru/companies/bothub/news/880194/?utm_campaign=880194&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek приостановила пополнение счёта для оплаты доступа к API из-за нагрузки на серверы](https://habr.com/ru/news/880176/?utm_campaign=880176&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE представила исследование российского ландшафта угроз за 2024 год Threat Zone 2025](https://habr.com/ru/news/880130/?utm_campaign=880130&utm_source=habrahabr&utm_medium=rss)
-- [Paradox Interactive приобрела разработчика Jagged Alliance 3 и нескольких игр серии Tropico](https://habr.com/ru/news/880124/?utm_campaign=880124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
