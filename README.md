@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз OpenWrt 24.10.0](https://habr.com/ru/news/880054/?utm_campaign=880054&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Store скоро позволит указать, какие части игр пользователь хочет загрузить](https://habr.com/ru/news/880046/?utm_campaign=880046&utm_source=habrahabr&utm_medium=rss)
-- [«Группа Астра» приглашает протестировать BILLmanager на платформе BI.ZONE Bug Bounty](https://habr.com/ru/companies/ispsystem/news/879802/?utm_campaign=879802&utm_source=habrahabr&utm_medium=rss)
-- [Nikon представила камеру Coolpix P1100 со 125-кратным оптическим зумом](https://habr.com/ru/news/880010/?utm_campaign=880010&utm_source=habrahabr&utm_medium=rss)
-- [VK запустила собственную систему мониторинга безопасности](https://habr.com/ru/news/880012/?utm_campaign=880012&utm_source=habrahabr&utm_medium=rss)
+- [Steam начал предупреждать о низкой активности разработчиков проектов в раннем доступе](https://habr.com/ru/news/880092/?utm_campaign=880092&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект global-capslock для общей синхронизации состояния CAPS LOCK со всеми пользователями](https://habr.com/ru/news/880088/?utm_campaign=880088&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского»: «Злоумышленники под видом надзорных органов крадут деньги у сотрудников российских компаний»](https://habr.com/ru/news/880086/?utm_campaign=880086&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 133](https://habr.com/ru/news/880078/?utm_campaign=880078&utm_source=habrahabr&utm_medium=rss)
+- [Правительство Таиланда отключило киберпреступникам свет](https://habr.com/ru/companies/ddosguard/news/880070/?utm_campaign=880070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
