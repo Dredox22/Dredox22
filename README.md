@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз OpenWrt 24.10.0](https://habr.com/ru/news/880054/?utm_campaign=880054&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Store скоро позволит указать, какие части игр пользователь хочет загрузить](https://habr.com/ru/news/880046/?utm_campaign=880046&utm_source=habrahabr&utm_medium=rss)
+- [«Группа Астра» приглашает протестировать BILLmanager на платформе BI.ZONE Bug Bounty](https://habr.com/ru/companies/ispsystem/news/879802/?utm_campaign=879802&utm_source=habrahabr&utm_medium=rss)
 - [Nikon представила камеру Coolpix P1100 со 125-кратным оптическим зумом](https://habr.com/ru/news/880010/?utm_campaign=880010&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сделала поисковую систему на основе ИИ более доступной](https://habr.com/ru/news/879994/?utm_campaign=879994&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры пообещало создать «тревожную кнопку» для защиты от мошенников](https://habr.com/ru/news/879986/?utm_campaign=879986&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries и Russ внедрили систему на базе ИИ для блокировки мошеннических аккаунтов](https://habr.com/ru/news/879978/?utm_campaign=879978&utm_source=habrahabr&utm_medium=rss)
-- [Тренажёры «Лаборатории Касперского» для проекта «Урок цифры» за три недели прошли 3,5 миллиона раз](https://habr.com/ru/news/879976/?utm_campaign=879976&utm_source=habrahabr&utm_medium=rss)
+- [VK запустила собственную систему мониторинга безопасности](https://habr.com/ru/news/880012/?utm_campaign=880012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
