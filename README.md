@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Encrypt прекратит уведомлять об истечении срока действия своих бесплатных HTTPS-сертификатов с 4 июня 2025 года](https://habr.com/ru/news/880102/?utm_campaign=880102&utm_source=habrahabr&utm_medium=rss)
 - [Steam начал предупреждать о низкой активности разработчиков проектов в раннем доступе](https://habr.com/ru/news/880092/?utm_campaign=880092&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект global-capslock для общей синхронизации состояния CAPS LOCK со всеми пользователями](https://habr.com/ru/news/880088/?utm_campaign=880088&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского»: «Злоумышленники под видом надзорных органов крадут деньги у сотрудников российских компаний»](https://habr.com/ru/news/880086/?utm_campaign=880086&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 133](https://habr.com/ru/news/880078/?utm_campaign=880078&utm_source=habrahabr&utm_medium=rss)
-- [Правительство Таиланда отключило киберпреступникам свет](https://habr.com/ru/companies/ddosguard/news/880070/?utm_campaign=880070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
