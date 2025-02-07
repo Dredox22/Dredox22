@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI теперь раскрывает больше информации о мыслительном процессе своей модели o3-mini](https://habr.com/ru/companies/bothub/news/880484/?utm_campaign=880484&utm_source=habrahabr&utm_medium=rss)
+- [Meta* запускает программу по сбору языковых данных для развития AI](https://habr.com/ru/companies/bothub/news/880474/?utm_campaign=880474&utm_source=habrahabr&utm_medium=rss)
+- [Организации требуют действий по смягчению вреда, наносимого AI окружающей среде](https://habr.com/ru/companies/bothub/news/880482/?utm_campaign=880482&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует новый ИИ-поиск на основе Gemini 2.0](https://habr.com/ru/companies/bothub/news/880478/?utm_campaign=880478&utm_source=habrahabr&utm_medium=rss)
 - [Meta* разрабатывает новую программу для изучения взаимодействия человека и робота](https://habr.com/ru/companies/bothub/news/880450/?utm_campaign=880450&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил новую функцию в расширенной версии корпоративного «Яндекс Браузера» для защиты данных вне сети](https://habr.com/ru/news/880440/?utm_campaign=880440&utm_source=habrahabr&utm_medium=rss)
-- [Composo помогает предприятиям отслеживать, насколько хорошо работают приложения с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/880432/?utm_campaign=880432&utm_source=habrahabr&utm_medium=rss)
-- [Служба безопасности Великобритании требует от Apple предоставить доступ к зашифрованным данным пользователей](https://habr.com/ru/news/880422/?utm_campaign=880422&utm_source=habrahabr&utm_medium=rss)
-- [Опрос показал, что ученые видят потенциал в искусственном интеллекте, но не решаются им воспользоваться](https://habr.com/ru/companies/bothub/news/880408/?utm_campaign=880408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
