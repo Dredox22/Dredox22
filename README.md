@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В приложение «Фотографии» Windows вернулась поддержка OCR](https://habr.com/ru/news/880358/?utm_campaign=880358&utm_source=habrahabr&utm_medium=rss)
+- [Открытое приложение NoBloatbox ускоряет работу Windows 10/11 с удалением раздутых файлов](https://habr.com/ru/news/880340/?utm_campaign=880340&utm_source=habrahabr&utm_medium=rss)
 - [Leica выпустила держатель Lux Grip для iPhone с MagSafe](https://habr.com/ru/news/880324/?utm_campaign=880324&utm_source=habrahabr&utm_medium=rss)
 - [Аудиторы F.A.C.C.T. подтвердили защищенность информационных систем Selectel](https://habr.com/ru/companies/f_a_c_c_t/news/880316/?utm_campaign=880316&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила SynthID в Magic Editor](https://habr.com/ru/news/880306/?utm_campaign=880306&utm_source=habrahabr&utm_medium=rss)
-- [В GitHub Copilot появилась возможность задать кастомные инструкции в репозитории проекта](https://habr.com/ru/news/880302/?utm_campaign=880302&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за январь 2025 года](https://habr.com/ru/companies/ussc/news/880300/?utm_campaign=880300&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
