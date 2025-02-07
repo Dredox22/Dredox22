@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [АНО «Цифровая экономика» открыла онлайн‑ресурс «Управление цифровой трансформацией в субъектах РФ»](https://habr.com/ru/news/880540/?utm_campaign=880540&utm_source=habrahabr&utm_medium=rss)
+- [Apple удалила из App Store вредоносные приложения с трояном SparkCat](https://habr.com/ru/news/880538/?utm_campaign=880538&utm_source=habrahabr&utm_medium=rss)
+- [Cognida.ai помогает предприятиям внедрить AI в производство: финансирование серии A на $15 миллионов](https://habr.com/ru/companies/bothub/news/880528/?utm_campaign=880528&utm_source=habrahabr&utm_medium=rss)
+- [Релиз офисного пакета LibreOffice 25.2](https://habr.com/ru/news/880532/?utm_campaign=880532&utm_source=habrahabr&utm_medium=rss)
 - [AlphaGeometry2: DeepMind превосходит олимпийцев по математике в выполнении заданий по геометрии](https://habr.com/ru/companies/bothub/news/880512/?utm_campaign=880512&utm_source=habrahabr&utm_medium=rss)
-- [В GitHub Copilot появилось превью «агентского режима»](https://habr.com/ru/news/880510/?utm_campaign=880510&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI теперь раскрывает больше информации о мыслительном процессе своей модели o3-mini](https://habr.com/ru/companies/bothub/news/880484/?utm_campaign=880484&utm_source=habrahabr&utm_medium=rss)
-- [Meta* запускает программу по сбору языковых данных для развития AI](https://habr.com/ru/companies/bothub/news/880474/?utm_campaign=880474&utm_source=habrahabr&utm_medium=rss)
-- [Организации требуют действий по смягчению вреда, наносимого AI окружающей среде](https://habr.com/ru/companies/bothub/news/880482/?utm_campaign=880482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
