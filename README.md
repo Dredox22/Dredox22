@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AlphaGeometry2: DeepMind превосходит олимпийцев по математике в выполнении заданий по геометрии](https://habr.com/ru/companies/bothub/news/880512/?utm_campaign=880512&utm_source=habrahabr&utm_medium=rss)
+- [В GitHub Copilot появилось превью «агентского режима»](https://habr.com/ru/news/880510/?utm_campaign=880510&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI теперь раскрывает больше информации о мыслительном процессе своей модели o3-mini](https://habr.com/ru/companies/bothub/news/880484/?utm_campaign=880484&utm_source=habrahabr&utm_medium=rss)
 - [Meta* запускает программу по сбору языковых данных для развития AI](https://habr.com/ru/companies/bothub/news/880474/?utm_campaign=880474&utm_source=habrahabr&utm_medium=rss)
 - [Организации требуют действий по смягчению вреда, наносимого AI окружающей среде](https://habr.com/ru/companies/bothub/news/880482/?utm_campaign=880482&utm_source=habrahabr&utm_medium=rss)
-- [Google тестирует новый ИИ-поиск на основе Gemini 2.0](https://habr.com/ru/companies/bothub/news/880478/?utm_campaign=880478&utm_source=habrahabr&utm_medium=rss)
-- [Meta* разрабатывает новую программу для изучения взаимодействия человека и робота](https://habr.com/ru/companies/bothub/news/880450/?utm_campaign=880450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
