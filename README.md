@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел OpenLDK — это компилятор Just-In-Time &lpar;JIT&rpar; и среда выполнения для Java, полностью реализованная в Common Lisp](https://habr.com/ru/news/880256/?utm_campaign=880256&utm_source=habrahabr&utm_medium=rss)
+- [Представлен неофициальный проект перевода документации для Rust &lpar;rust-lang-translations.org&rpar; на различные языки](https://habr.com/ru/news/880254/?utm_campaign=880254&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face работает над копированием возможностей OpenAI Deep Research с помощью агента AI с открытым исходным кодом](https://habr.com/ru/companies/bothub/news/880216/?utm_campaign=880216&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic просит кандидатов не использовать нейросети в откликах на вакансии](https://habr.com/ru/news/880200/?utm_campaign=880200&utm_source=habrahabr&utm_medium=rss)
 - [GitHub представил Vision for Copilot: генерация кода по изображениям](https://habr.com/ru/companies/bothub/news/880194/?utm_campaign=880194&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek приостановила пополнение счёта для оплаты доступа к API из-за нагрузки на серверы](https://habr.com/ru/news/880176/?utm_campaign=880176&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE представила исследование российского ландшафта угроз за 2024 год Threat Zone 2025](https://habr.com/ru/news/880130/?utm_campaign=880130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
