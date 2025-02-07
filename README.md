@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Composo помогает предприятиям отслеживать, насколько хорошо работают приложения с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/880432/?utm_campaign=880432&utm_source=habrahabr&utm_medium=rss)
+- [Служба безопасности Великобритании требует от Apple предоставить доступ к зашифрованным данным пользователей](https://habr.com/ru/news/880422/?utm_campaign=880422&utm_source=habrahabr&utm_medium=rss)
 - [Опрос показал, что ученые видят потенциал в искусственном интеллекте, но не решаются им воспользоваться](https://habr.com/ru/companies/bothub/news/880408/?utm_campaign=880408&utm_source=habrahabr&utm_medium=rss)
 - [Исследование предупреждает: развитие AI может привести к «постепенному ограничению наших возможностей»](https://habr.com/ru/companies/bothub/news/880400/?utm_campaign=880400&utm_source=habrahabr&utm_medium=rss)
 - [Tinder добавил новые категории Explore, чтобы помочь найти единомышленников](https://habr.com/ru/news/880398/?utm_campaign=880398&utm_source=habrahabr&utm_medium=rss)
-- [Le Chat: что внутри мобильного приложения с чат-ботом от Mistral](https://habr.com/ru/news/880376/?utm_campaign=880376&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Microsoft Edge 133](https://habr.com/ru/news/880362/?utm_campaign=880362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
