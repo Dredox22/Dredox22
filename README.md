@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Tails 6.12](https://habr.com/ru/news/880282/?utm_campaign=880282&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft создала фальшивое руководство «Как удалить Edge», чтобы вместо этого бросить тень на Chrome](https://habr.com/ru/news/880266/?utm_campaign=880266&utm_source=habrahabr&utm_medium=rss)
 - [Вышел OpenLDK — это компилятор Just-In-Time &lpar;JIT&rpar; и среда выполнения для Java, полностью реализованная в Common Lisp](https://habr.com/ru/news/880256/?utm_campaign=880256&utm_source=habrahabr&utm_medium=rss)
 - [Представлен неофициальный проект перевода документации для Rust &lpar;rust-lang-translations.org&rpar; на различные языки](https://habr.com/ru/news/880254/?utm_campaign=880254&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face работает над копированием возможностей OpenAI Deep Research с помощью агента AI с открытым исходным кодом](https://habr.com/ru/companies/bothub/news/880216/?utm_campaign=880216&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic просит кандидатов не использовать нейросети в откликах на вакансии](https://habr.com/ru/news/880200/?utm_campaign=880200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
