@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глобальный сбой в работе PlayStation Network продолжается более 16 часов, и никто не знает почему](https://habr.com/ru/news/880730/?utm_campaign=880730&utm_source=habrahabr&utm_medium=rss)
+- [Вышел мод DOOM Darkfall, который добавляет в классические части Doom оружие и геймплей из Doom: The Dark Ages](https://habr.com/ru/news/880726/?utm_campaign=880726&utm_source=habrahabr&utm_medium=rss)
 - [Новый цифро-аналоговый квантовый симулятор от Google и PSI: прорыв в квантовых вычислениях](https://habr.com/ru/news/880674/?utm_campaign=880674&utm_source=habrahabr&utm_medium=rss)
 - [Visiology представила 9 новых функций DAX для округления значений](https://habr.com/ru/companies/visiology/news/880660/?utm_campaign=880660&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo собирается устроить революцию в играх, а Apple обеспокоилась скрытой съемкой в умных очках: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/880442/?utm_campaign=880442&utm_source=habrahabr&utm_medium=rss)
-- [В NowSecure выяснили, что приложение DeepSeek для iOS не защищает данные пользователей](https://habr.com/ru/news/880652/?utm_campaign=880652&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Apple показали умную танцующую лампу в стиле Pixar](https://habr.com/ru/news/880644/?utm_campaign=880644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
