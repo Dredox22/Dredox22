@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В NowSecure выяснили, что приложение DeepSeek для iOS не защищает данные пользователей](https://habr.com/ru/news/880652/?utm_campaign=880652&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Apple показали умную танцующую лампу в стиле Pixar](https://habr.com/ru/news/880644/?utm_campaign=880644&utm_source=habrahabr&utm_medium=rss)
 - [Tinder внедрит создающий мэтчи ИИ для удержания пользователей](https://habr.com/ru/news/880640/?utm_campaign=880640&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила сбой настроек даты и времени в Windows 11](https://habr.com/ru/news/880636/?utm_campaign=880636&utm_source=habrahabr&utm_medium=rss)
 - [Apple отозвала иск против бывшего инженера iOS, обвиняемого в утечке информации о Vision Pro](https://habr.com/ru/news/880624/?utm_campaign=880624&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» прекратит поддержку технологии «Турбо», которая ускоряет загрузку страниц в браузере на мобильных устройствах](https://habr.com/ru/news/880612/?utm_campaign=880612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
