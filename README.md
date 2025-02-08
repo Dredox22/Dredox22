@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила сбой настроек даты и времени в Windows 11](https://habr.com/ru/news/880636/?utm_campaign=880636&utm_source=habrahabr&utm_medium=rss)
+- [Apple отозвала иск против бывшего инженера iOS, обвиняемого в утечке информации о Vision Pro](https://habr.com/ru/news/880624/?utm_campaign=880624&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» прекратит поддержку технологии «Турбо», которая ускоряет загрузку страниц в браузере на мобильных устройствах](https://habr.com/ru/news/880612/?utm_campaign=880612&utm_source=habrahabr&utm_medium=rss)
 - [Как вкатиться в машинное обучение?](https://habr.com/ru/news/880550/?utm_campaign=880550&utm_source=habrahabr&utm_medium=rss)
 - [АНО «Цифровая экономика» открыла онлайн‑ресурс «Управление цифровой трансформацией в субъектах РФ»](https://habr.com/ru/news/880540/?utm_campaign=880540&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила из App Store вредоносные приложения с трояном SparkCat](https://habr.com/ru/news/880538/?utm_campaign=880538&utm_source=habrahabr&utm_medium=rss)
-- [Cognida.ai помогает предприятиям внедрить AI в производство: финансирование серии A на $15 миллионов](https://habr.com/ru/companies/bothub/news/880528/?utm_campaign=880528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
