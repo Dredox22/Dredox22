@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony восстановила работу PlayStation Network после суточного глобального сбоя](https://habr.com/ru/news/880784/?utm_campaign=880784&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предлагает до $27,000 за уязвимости в M365](https://habr.com/ru/news/880740/?utm_campaign=880740&utm_source=habrahabr&utm_medium=rss)
 - [Вышел WinScript 1.1.1 — инструмент с открытым исходным кодом для уменьшения размера и оптимизации Windows 10/11](https://habr.com/ru/news/880736/?utm_campaign=880736&utm_source=habrahabr&utm_medium=rss)
 - [Глобальный сбой в работе PlayStation Network продолжается более 16 часов, и никто не знает почему](https://habr.com/ru/news/880730/?utm_campaign=880730&utm_source=habrahabr&utm_medium=rss)
 - [Вышел мод DOOM Darkfall, который добавляет в классические части Doom оружие и геймплей из Doom: The Dark Ages](https://habr.com/ru/news/880726/?utm_campaign=880726&utm_source=habrahabr&utm_medium=rss)
-- [Новый цифро-аналоговый квантовый симулятор от Google и PSI: прорыв в квантовых вычислениях](https://habr.com/ru/news/880674/?utm_campaign=880674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
