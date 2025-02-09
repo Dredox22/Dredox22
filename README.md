@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гендиректор Anthropic: DeepSeek показал себя «худшим» в тесте безопасности данных о биологическом оружии](https://habr.com/ru/news/880814/?utm_campaign=880814&utm_source=habrahabr&utm_medium=rss)
 - [Переиздание The Sims выявило проблемы крупных издателей и однопользовательских игр](https://habr.com/ru/news/880812/?utm_campaign=880812&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: reCAPTCHA стоила пользователям 819 млн часов времени](https://habr.com/ru/news/880802/?utm_campaign=880802&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Explorer Tab Utility v2.0.0 — утилиты для исправления недостающих функций в проводнике Windows 11](https://habr.com/ru/news/880790/?utm_campaign=880790&utm_source=habrahabr&utm_medium=rss)
 - [Sony восстановила работу PlayStation Network после суточного глобального сбоя](https://habr.com/ru/news/880784/?utm_campaign=880784&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предлагает до $27,000 за уязвимости в M365](https://habr.com/ru/news/880740/?utm_campaign=880740&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
