@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: reCAPTCHA стоила пользователям 819 млн часов времени](https://habr.com/ru/news/880802/?utm_campaign=880802&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Explorer Tab Utility v2.0.0 — утилиты для исправления недостающих функций в проводнике Windows 11](https://habr.com/ru/news/880790/?utm_campaign=880790&utm_source=habrahabr&utm_medium=rss)
 - [Sony восстановила работу PlayStation Network после суточного глобального сбоя](https://habr.com/ru/news/880784/?utm_campaign=880784&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предлагает до $27,000 за уязвимости в M365](https://habr.com/ru/news/880740/?utm_campaign=880740&utm_source=habrahabr&utm_medium=rss)
 - [Вышел WinScript 1.1.1 — инструмент с открытым исходным кодом для уменьшения размера и оптимизации Windows 10/11](https://habr.com/ru/news/880736/?utm_campaign=880736&utm_source=habrahabr&utm_medium=rss)
-- [Глобальный сбой в работе PlayStation Network продолжается более 16 часов, и никто не знает почему](https://habr.com/ru/news/880730/?utm_campaign=880730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
