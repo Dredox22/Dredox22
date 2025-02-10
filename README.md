@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugging Face выпускает небольшую языковую модель, которая в большинстве случаев превосходит Qwen и Llama](https://habr.com/ru/companies/bothub/news/881230/?utm_campaign=881230&utm_source=habrahabr&utm_medium=rss)
+- [Current AI: финансирование проектов AI, направленных на решение социальных проблем](https://habr.com/ru/companies/bothub/news/881212/?utm_campaign=881212&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI отвечает на вызовы конкурентов: что нового в последней модели рассуждений o3-mini?](https://habr.com/ru/companies/bothub/news/881194/?utm_campaign=881194&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики и издатели видеоигр попросили льготы у Госдумы](https://habr.com/ru/news/881178/?utm_campaign=881178&utm_source=habrahabr&utm_medium=rss)
 - [Китайские компании China Mobile, China Telecom, China Unicom, Lenovo и Tencent интегрировали в свои сервисы DeepSeek](https://habr.com/ru/news/881176/?utm_campaign=881176&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/881152/?utm_campaign=881152&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance выпустила Goku — семейство нейросетей для генерации видео](https://habr.com/ru/news/881136/?utm_campaign=881136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
