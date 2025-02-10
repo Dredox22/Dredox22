@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Искусственный интеллект в системе уголовного правосудия: угрозы и гарантии](https://habr.com/ru/companies/bothub/news/880982/?utm_campaign=880982&utm_source=habrahabr&utm_medium=rss)
-- [ГРЧЦ закупает курсы для сотрудников по «Методам Интернет-разведки и OSINT»](https://habr.com/ru/news/880972/?utm_campaign=880972&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI расширяет своё присутствие в Европе, предоставляя услуги хранения данных в ЕС](https://habr.com/ru/companies/bothub/news/880966/?utm_campaign=880966&utm_source=habrahabr&utm_medium=rss)
-- [Civilization VII получит порт на Quest VR этой весной](https://habr.com/ru/news/880962/?utm_campaign=880962&utm_source=habrahabr&utm_medium=rss)
-- [Новая система Meta* MILS обучает LLM работать с мультимедийными данными без специальной подготовки](https://habr.com/ru/companies/bothub/news/880956/?utm_campaign=880956&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи T-Mobile в США получили бесплатный доступ к Starlink на шесть месяцев](https://habr.com/ru/news/881010/?utm_campaign=881010&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI и концепция AGI: планы генерального директора Сэма Альтмана](https://habr.com/ru/companies/bothub/news/881012/?utm_campaign=881012&utm_source=habrahabr&utm_medium=rss)
+- [Brave разрешил вставлять собственные скрипты JavaScript для настройки веб-сайтов](https://habr.com/ru/news/880998/?utm_campaign=880998&utm_source=habrahabr&utm_medium=rss)
+- [В Ростехе разработали спутниковые трекеры для работы в Арктике](https://habr.com/ru/news/881000/?utm_campaign=881000&utm_source=habrahabr&utm_medium=rss)
+- [Журналист доверил свои задачи Operator, и тот провалил половину](https://habr.com/ru/news/880990/?utm_campaign=880990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
