@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики и издатели видеоигр попросили льготы у Госдумы](https://habr.com/ru/news/881178/?utm_campaign=881178&utm_source=habrahabr&utm_medium=rss)
+- [Китайские компании China Mobile, China Telecom, China Unicom, Lenovo и Tencent интегрировали в свои сервисы DeepSeek](https://habr.com/ru/news/881176/?utm_campaign=881176&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/881152/?utm_campaign=881152&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance выпустила Goku — семейство нейросетей для генерации видео](https://habr.com/ru/news/881136/?utm_campaign=881136&utm_source=habrahabr&utm_medium=rss)
 - [Релиз SSH-клиента PuTTY 0.83](https://habr.com/ru/news/881130/?utm_campaign=881130&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик RPA-системы Roomy bots масштабировал инфраструктуру с помощью Linx Cloud](https://habr.com/ru/companies/Linx/news/881126/?utm_campaign=881126&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи выпустили MedRAX — медицинского ИИ-агента для анализа рентгенограмм грудной клетки](https://habr.com/ru/news/881102/?utm_campaign=881102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
