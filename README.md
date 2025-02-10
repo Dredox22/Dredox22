@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance выпустила Goku — семейство нейросетей для генерации видео](https://habr.com/ru/news/881136/?utm_campaign=881136&utm_source=habrahabr&utm_medium=rss)
+- [Релиз SSH-клиента PuTTY 0.83](https://habr.com/ru/news/881130/?utm_campaign=881130&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик RPA-системы Roomy bots масштабировал инфраструктуру с помощью Linx Cloud](https://habr.com/ru/companies/Linx/news/881126/?utm_campaign=881126&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи выпустили MedRAX — медицинского ИИ-агента для анализа рентгенограмм грудной клетки](https://habr.com/ru/news/881102/?utm_campaign=881102&utm_source=habrahabr&utm_medium=rss)
 - [Представлена распределённая СУБД Citus 13.0, реализованная в форме расширения к PostgreSQL 17](https://habr.com/ru/news/881084/?utm_campaign=881084&utm_source=habrahabr&utm_medium=rss)
-- [Группа TA558 снова атаковала российские и белорусские компании](https://habr.com/ru/companies/f_a_c_c_t/news/881062/?utm_campaign=881062&utm_source=habrahabr&utm_medium=rss)
-- [Android 16 получит уведомления об изменении часового пояса](https://habr.com/ru/news/881054/?utm_campaign=881054&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой сборке Windows 11 появилась предварительная версия MIDI Services c поддержкой протокола MIDI 2.0](https://habr.com/ru/news/881024/?utm_campaign=881024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
