@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Фабрика» выпустила линейку ноутбуков Lunnen Ground 16 2025](https://habr.com/ru/news/880882/?utm_campaign=880882&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» подтвердил повреждение кабеля «Кингисепп-Калининград» в Балтийском море](https://habr.com/ru/news/880948/?utm_campaign=880948&utm_source=habrahabr&utm_medium=rss)
 - [C++ на стероидах: Бьёрн Страуструп представил «профили» для обеспечения безопасности ресурсов и типов](https://habr.com/ru/news/880866/?utm_campaign=880866&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Anthropic: DeepSeek показал себя «худшим» в тесте безопасности данных о биологическом оружии](https://habr.com/ru/news/880814/?utm_campaign=880814&utm_source=habrahabr&utm_medium=rss)
 - [Переиздание The Sims выявило проблемы крупных издателей и однопользовательских игр](https://habr.com/ru/news/880812/?utm_campaign=880812&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: reCAPTCHA стоила пользователям 819 млн часов времени](https://habr.com/ru/news/880802/?utm_campaign=880802&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
