@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Группа TA558 снова атаковала российские и белорусские компании](https://habr.com/ru/companies/f_a_c_c_t/news/881062/?utm_campaign=881062&utm_source=habrahabr&utm_medium=rss)
+- [Android 16 получит уведомления об изменении часового пояса](https://habr.com/ru/news/881054/?utm_campaign=881054&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой сборке Windows 11 появилась предварительная версия MIDI Services c поддержкой протокола MIDI 2.0](https://habr.com/ru/news/881024/?utm_campaign=881024&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи T-Mobile в США получили бесплатный доступ к Starlink на шесть месяцев](https://habr.com/ru/news/881010/?utm_campaign=881010&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI и концепция AGI: планы генерального директора Сэма Альтмана](https://habr.com/ru/companies/bothub/news/881012/?utm_campaign=881012&utm_source=habrahabr&utm_medium=rss)
-- [Brave разрешил вставлять собственные скрипты JavaScript для настройки веб-сайтов](https://habr.com/ru/news/880998/?utm_campaign=880998&utm_source=habrahabr&utm_medium=rss)
-- [В Ростехе разработали спутниковые трекеры для работы в Арктике](https://habr.com/ru/news/881000/?utm_campaign=881000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
