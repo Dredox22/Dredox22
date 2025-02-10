@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Искусственный интеллект в системе уголовного правосудия: угрозы и гарантии](https://habr.com/ru/companies/bothub/news/880982/?utm_campaign=880982&utm_source=habrahabr&utm_medium=rss)
+- [ГРЧЦ закупает курсы для сотрудников по «Методам Интернет-разведки и OSINT»](https://habr.com/ru/news/880972/?utm_campaign=880972&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI расширяет своё присутствие в Европе, предоставляя услуги хранения данных в ЕС](https://habr.com/ru/companies/bothub/news/880966/?utm_campaign=880966&utm_source=habrahabr&utm_medium=rss)
 - [Civilization VII получит порт на Quest VR этой весной](https://habr.com/ru/news/880962/?utm_campaign=880962&utm_source=habrahabr&utm_medium=rss)
 - [Новая система Meta* MILS обучает LLM работать с мультимедийными данными без специальной подготовки](https://habr.com/ru/companies/bothub/news/880956/?utm_campaign=880956&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 7.25](https://habr.com/ru/news/880954/?utm_campaign=880954&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Фабрика» выпустила линейку ноутбуков Lunnen Ground 16 2025](https://habr.com/ru/news/880882/?utm_campaign=880882&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» подтвердил повреждение кабеля «Кингисепп-Калининград» в Балтийском море](https://habr.com/ru/news/880948/?utm_campaign=880948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
