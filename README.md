@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google расширяет возможности NotebookLM Plus для индивидуальных пользователей](https://habr.com/ru/companies/bothub/news/881436/?utm_campaign=881436&utm_source=habrahabr&utm_medium=rss)
+- [Венчурные инвесторы предпочитают стартапы в сфере искусственного интеллекта другим технологиям](https://habr.com/ru/companies/bothub/news/881418/?utm_campaign=881418&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Typeconf  — инструмент TypeScript, добавляющий типы в конфигурации](https://habr.com/ru/news/881410/?utm_campaign=881410&utm_source=habrahabr&utm_medium=rss)
 - [AI на работе: помощь или автоматизация? Исследование компании Anthropic](https://habr.com/ru/companies/bothub/news/881394/?utm_campaign=881394&utm_source=habrahabr&utm_medium=rss)
 - [Кратковременный сбой электропитания на ММТС-9 в Москве мог привести к временным трудностям у отдельных операторов связи](https://habr.com/ru/news/881388/?utm_campaign=881388&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость Luxms BI и Platform V Pangolin DB](https://habr.com/ru/companies/luxms_bi/news/881382/?utm_campaign=881382&utm_source=habrahabr&utm_medium=rss)
-- [Хакер признал вину во взломе аккаунта SEC в соцсети X для публикации фейковых новостей о биткоине](https://habr.com/ru/news/881376/?utm_campaign=881376&utm_source=habrahabr&utm_medium=rss)
-- [Проект TypeScript HKT — реализация micro HKT &lpar;higher-kinded type&rpar; для TypeScript с гарантированной безопасностью типов](https://habr.com/ru/news/881366/?utm_campaign=881366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
