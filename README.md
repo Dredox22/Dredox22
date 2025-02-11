@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Маск предложил совету директоров OpenAI купить компанию за $97,4 млрд](https://habr.com/ru/news/881262/?utm_campaign=881262&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft закрыла доступ к своему фальшивому руководству «Как удалить Edge»](https://habr.com/ru/news/881266/?utm_campaign=881266&utm_source=habrahabr&utm_medium=rss)
+- [Маск предложил совету директоров OpenAI продать компанию за $97,4 млрд](https://habr.com/ru/news/881262/?utm_campaign=881262&utm_source=habrahabr&utm_medium=rss)
 - [Европейские компании объединяются, чтобы ускорить внедрение искусственного интеллекта](https://habr.com/ru/companies/bothub/news/881224/?utm_campaign=881224&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face выпускает небольшую языковую модель, которая в большинстве случаев превосходит Qwen и Llama](https://habr.com/ru/companies/bothub/news/881230/?utm_campaign=881230&utm_source=habrahabr&utm_medium=rss)
 - [Current AI: финансирование проектов AI, направленных на решение социальных проблем](https://habr.com/ru/companies/bothub/news/881212/?utm_campaign=881212&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI отвечает на вызовы конкурентов: что нового в последней модели рассуждений o3-mini?](https://habr.com/ru/companies/bothub/news/881194/?utm_campaign=881194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
