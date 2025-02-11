@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект TypeScript HKT — реализация micro HKT &lpar;higher-kinded type&rpar; для TypeScript с гарантированной безопасностью типов](https://habr.com/ru/news/881366/?utm_campaign=881366&utm_source=habrahabr&utm_medium=rss)
+- [Идеальный Spring Security / Правильные миграции / Мы идём в Valhalla | Spring АйО Подкаст №6](https://habr.com/ru/companies/spring_aio/news/881348/?utm_campaign=881348&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз игры Sid Meier&#39;s Civilization VII](https://habr.com/ru/news/881328/?utm_campaign=881328&utm_source=habrahabr&utm_medium=rss)
 - [С доставкой на дом: мошенники присылают жертвам фальшивые бумажные повестки с Лубянки](https://habr.com/ru/companies/f_a_c_c_t/news/881324/?utm_campaign=881324&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» появились анонимные водительские чаты](https://habr.com/ru/news/881316/?utm_campaign=881316&utm_source=habrahabr&utm_medium=rss)
-- [На AIRVent 2025 компания «Нанософт» представила BIM-технологии инженерных систем на Платформе nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/881318/?utm_campaign=881318&utm_source=habrahabr&utm_medium=rss)
-- [Баг в Google Play Store приводит к повторному обновлению приложений](https://habr.com/ru/news/881308/?utm_campaign=881308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
