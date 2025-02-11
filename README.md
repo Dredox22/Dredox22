@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google переименовала Мексиканский залив в Maps для пользователей из США](https://habr.com/ru/news/881306/?utm_campaign=881306&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выпустил в продажу «Яндекс ТВ Станцию» второго поколения с QLED-экраном](https://habr.com/ru/news/881160/?utm_campaign=881160&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft увеличила вознаграждение за программу по поиску уязвимостей в Copilot AI](https://habr.com/ru/news/881300/?utm_campaign=881300&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила экстренное обновление против 0-day уязвимости, используемой для шпионажа](https://habr.com/ru/news/881292/?utm_campaign=881292&utm_source=habrahabr&utm_medium=rss)
-- [Руководитель DeepMind опроверг прорыв DeepSeek в области ИИ](https://habr.com/ru/news/881286/?utm_campaign=881286&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз игры Sid Meier&#39;s Civilization VII](https://habr.com/ru/news/881328/?utm_campaign=881328&utm_source=habrahabr&utm_medium=rss)
+- [С доставкой на дом: мошенники присылают жертвам фальшивые бумажные повестки с Лубянки](https://habr.com/ru/companies/f_a_c_c_t/news/881324/?utm_campaign=881324&utm_source=habrahabr&utm_medium=rss)
+- [На «Госуслугах» появились анонимные водительские чаты](https://habr.com/ru/news/881316/?utm_campaign=881316&utm_source=habrahabr&utm_medium=rss)
+- [На AIRVent 2025 компания «Нанософт» представила BIM-технологии инженерных систем на Платформе nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/881318/?utm_campaign=881318&utm_source=habrahabr&utm_medium=rss)
+- [Баг в Google Play Store приводит к повторному обновлению приложений](https://habr.com/ru/news/881308/?utm_campaign=881308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
