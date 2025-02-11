@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google переименовала Мексиканский залив в Maps для пользователей из США](https://habr.com/ru/news/881306/?utm_campaign=881306&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» выпустил в продажу «Яндекс ТВ Станцию» второго поколения с QLED-экраном](https://habr.com/ru/news/881160/?utm_campaign=881160&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft увеличила вознаграждение за программу по поиску уязвимостей в Copilot AI](https://habr.com/ru/news/881300/?utm_campaign=881300&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила экстренное обновление против 0-day уязвимости, используемой для шпионажа](https://habr.com/ru/news/881292/?utm_campaign=881292&utm_source=habrahabr&utm_medium=rss)
 - [Руководитель DeepMind опроверг прорыв DeepSeek в области ИИ](https://habr.com/ru/news/881286/?utm_campaign=881286&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Media Player Classic — Home Cinema 2.4.0](https://habr.com/ru/news/881270/?utm_campaign=881270&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрыла доступ к своему фальшивому руководству «Как удалить Edge»](https://habr.com/ru/news/881266/?utm_campaign=881266&utm_source=habrahabr&utm_medium=rss)
-- [Маск предложил совету директоров OpenAI продать компанию за $97,4 млрд](https://habr.com/ru/news/881262/?utm_campaign=881262&utm_source=habrahabr&utm_medium=rss)
-- [Европейские компании объединяются, чтобы ускорить внедрение искусственного интеллекта](https://habr.com/ru/companies/bothub/news/881224/?utm_campaign=881224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
