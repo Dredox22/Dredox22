@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Вспомнить всё»: исследователи предложили архитектуру языковых моделей с большой памятью](https://habr.com/ru/news/881548/?utm_campaign=881548&utm_source=habrahabr&utm_medium=rss)
+- [«Невероятно маленькая и очень качественная». Zyphra представила Zonos, 1.6B модель для генерации речи любым голосом](https://habr.com/ru/news/881538/?utm_campaign=881538&utm_source=habrahabr&utm_medium=rss)
 - [Российские игровые студии предложили поправки к законопроекту по регулированию видеоигр](https://habr.com/ru/news/881480/?utm_campaign=881480&utm_source=habrahabr&utm_medium=rss)
 - [В МГТУ имени Баумана компания «ИВК» поставила промышленные компьютеры на «Эльбрусах»](https://habr.com/ru/news/881454/?utm_campaign=881454&utm_source=habrahabr&utm_medium=rss)
 - [Модели Goku от ByteDance могут создавать реалистичные видеоролики о продуктах без участия людей-актеров](https://habr.com/ru/companies/bothub/news/881452/?utm_campaign=881452&utm_source=habrahabr&utm_medium=rss)
-- [Крот или толпа хулиганов? Самая массовая причина утечек данных оказалась предсказуемой](https://habr.com/ru/companies/infowatch/news/881448/?utm_campaign=881448&utm_source=habrahabr&utm_medium=rss)
-- [Google расширяет возможности NotebookLM Plus для индивидуальных пользователей](https://habr.com/ru/companies/bothub/news/881436/?utm_campaign=881436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
