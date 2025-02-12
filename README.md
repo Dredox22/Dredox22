@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Защита 1С: чек-лист безопасности](https://habr.com/ru/companies/mws/news/881864/?utm_campaign=881864&utm_source=habrahabr&utm_medium=rss)
+- [Исследование показывает, что энергопотребление ChatGPT меньше, чем многие думают](https://habr.com/ru/companies/bothub/news/881862/?utm_campaign=881862&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Dart 3.7.0: ключевые изменения и комментарии от компании Friflex](https://habr.com/ru/companies/friflex/news/881838/?utm_campaign=881838&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity AI запускает новую сверхбыструю поисковую модель гидролокатора с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/881840/?utm_campaign=881840&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity AI запускает новую сверхбыструю поисковую модель с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/881840/?utm_campaign=881840&utm_source=habrahabr&utm_medium=rss)
 - [Дело Ross Intelligence: как суд США рассматривал использование материалов для обучения AI](https://habr.com/ru/companies/bothub/news/881834/?utm_campaign=881834&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» обновил дизайн своей главной страницы ya.ru](https://habr.com/ru/news/881798/?utm_campaign=881798&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Go 1.24](https://habr.com/ru/news/881742/?utm_campaign=881742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
