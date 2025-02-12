@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Dart 3.7.0: ключевые изменения и комментарии от компании Friflex](https://habr.com/ru/companies/friflex/news/881838/?utm_campaign=881838&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity AI запускает новую сверхбыструю поисковую модель гидролокатора с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/881840/?utm_campaign=881840&utm_source=habrahabr&utm_medium=rss)
+- [Дело Ross Intelligence: как суд США рассматривал использование материалов для обучения AI](https://habr.com/ru/companies/bothub/news/881834/?utm_campaign=881834&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обновил дизайн своей главной страницы ya.ru](https://habr.com/ru/news/881798/?utm_campaign=881798&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Go 1.24](https://habr.com/ru/news/881742/?utm_campaign=881742&utm_source=habrahabr&utm_medium=rss)
-- [Ассоциация больших данных попросила уточнить порядок доступа правоохранительных органов к персональным данным](https://habr.com/ru/news/881736/?utm_campaign=881736&utm_source=habrahabr&utm_medium=rss)
-- [«ВКонтакте» зафиксировала кратное снижение попыток взломов аккаунтов и токсичности в комментариях](https://habr.com/ru/news/881726/?utm_campaign=881726&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила новое расширение Swift для VS Code](https://habr.com/ru/news/881696/?utm_campaign=881696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
