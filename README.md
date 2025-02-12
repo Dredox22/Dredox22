@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Go 1.24](https://habr.com/ru/news/881742/?utm_campaign=881742&utm_source=habrahabr&utm_medium=rss)
+- [Ассоциация больших данных попросила уточнить порядок доступа правоохранительных органов к персональным данным](https://habr.com/ru/news/881736/?utm_campaign=881736&utm_source=habrahabr&utm_medium=rss)
+- [«ВКонтакте» зафиксировала кратное снижение попыток взломов аккаунтов и токсичности в комментариях](https://habr.com/ru/news/881726/?utm_campaign=881726&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила новое расширение Swift для VS Code](https://habr.com/ru/news/881696/?utm_campaign=881696&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains Fleet прекращает поддержку Kotlin Multiplatform](https://habr.com/ru/news/881672/?utm_campaign=881672&utm_source=habrahabr&utm_medium=rss)
-- [Сокращения — Performance review или всему виной AI: Usetech FronTalk #4](https://habr.com/ru/companies/usetech/news/881670/?utm_campaign=881670&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: большие языковые модели смогли клонировать сами себя](https://habr.com/ru/news/881658/?utm_campaign=881658&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Windows 10 KB5051974 принудительно устанавливает новое приложение Microsoft Outlook](https://habr.com/ru/news/881650/?utm_campaign=881650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
