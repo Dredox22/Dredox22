@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI планирует в 2025 году завершить разработку первого собственного ИИ-чипа](https://habr.com/ru/news/881920/?utm_campaign=881920&utm_source=habrahabr&utm_medium=rss)
 - [Во Франции правообладатели через суд хотят обязать VPN-сервисы блокировать пиратский контент](https://habr.com/ru/news/881892/?utm_campaign=881892&utm_source=habrahabr&utm_medium=rss)
 - [Защита 1С: чек-лист безопасности](https://habr.com/ru/companies/mws/news/881864/?utm_campaign=881864&utm_source=habrahabr&utm_medium=rss)
 - [Исследование показывает, что энергопотребление ChatGPT меньше, чем многие думают](https://habr.com/ru/companies/bothub/news/881862/?utm_campaign=881862&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Dart 3.7.0: ключевые изменения и комментарии от компании Friflex](https://habr.com/ru/companies/friflex/news/881838/?utm_campaign=881838&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity AI запускает новую сверхбыструю поисковую модель с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/881840/?utm_campaign=881840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
