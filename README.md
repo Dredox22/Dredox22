@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [nanoCAD GeoniCS 25.0 – обновление на Платформе nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/881432/?utm_campaign=881432&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратила выпуск HoloLens 2 и передаст армейскую версию очков компании Anduril](https://habr.com/ru/news/881604/?utm_campaign=881604&utm_source=habrahabr&utm_medium=rss)
 - [Релиз KDE Plasma 6.3](https://habr.com/ru/news/881600/?utm_campaign=881600&utm_source=habrahabr&utm_medium=rss)
 - [Apple не будет использовать DeepSeek в ИИ-помощнике Apple Intelligence в Китае](https://habr.com/ru/news/881596/?utm_campaign=881596&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в работе Telegram в РФ, спустя пять часов сервис заработал снова](https://habr.com/ru/news/881588/?utm_campaign=881588&utm_source=habrahabr&utm_medium=rss)
-- [«Вспомнить всё»: исследователи предложили архитектуру языковых моделей с большой памятью](https://habr.com/ru/news/881548/?utm_campaign=881548&utm_source=habrahabr&utm_medium=rss)
-- [«Невероятно маленькая и очень качественная». Zyphra представила Zonos, 1.6B модель для генерации речи любым голосом](https://habr.com/ru/news/881538/?utm_campaign=881538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
