@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз кодека FLAC 1.5 &lpar;Free Lossless Audio Codec&rpar;](https://habr.com/ru/news/881632/?utm_campaign=881632&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сделает меню «Пуск» в Windows 11 более удобным](https://habr.com/ru/news/881624/?utm_campaign=881624&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD GeoniCS 25.0 – обновление на Платформе nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/881432/?utm_campaign=881432&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила выпуск HoloLens 2 и передаст армейскую версию очков компании Anduril](https://habr.com/ru/news/881604/?utm_campaign=881604&utm_source=habrahabr&utm_medium=rss)
-- [Релиз KDE Plasma 6.3](https://habr.com/ru/news/881600/?utm_campaign=881600&utm_source=habrahabr&utm_medium=rss)
+- [Сокращения — Performance review или всему виной AI: Usetech FronTalk #4](https://habr.com/ru/companies/usetech/news/881670/?utm_campaign=881670&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: большие языковые модели смогли клонировать сами себя](https://habr.com/ru/news/881658/?utm_campaign=881658&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Windows 10 KB5051974 принудительно устанавливает новое приложение Microsoft Outlook](https://habr.com/ru/news/881650/?utm_campaign=881650&utm_source=habrahabr&utm_medium=rss)
+- [Apple разрешила пользователям переносить покупки из одной учётной записи в другую](https://habr.com/ru/news/881640/?utm_campaign=881640&utm_source=habrahabr&utm_medium=rss)
+- [Частные ЦОД и сервисы операторского уровня. Подтверждена совместимость dBrain.cloud и ZStack Cloud](https://habr.com/ru/companies/dbraincloud/news/881630/?utm_campaign=881630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
