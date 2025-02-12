@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила новое расширение Swift для VS Code](https://habr.com/ru/news/881696/?utm_campaign=881696&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains Fleet прекращает поддержку Kotlin Multiplatform](https://habr.com/ru/news/881672/?utm_campaign=881672&utm_source=habrahabr&utm_medium=rss)
 - [Сокращения — Performance review или всему виной AI: Usetech FronTalk #4](https://habr.com/ru/companies/usetech/news/881670/?utm_campaign=881670&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: большие языковые модели смогли клонировать сами себя](https://habr.com/ru/news/881658/?utm_campaign=881658&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows 10 KB5051974 принудительно устанавливает новое приложение Microsoft Outlook](https://habr.com/ru/news/881650/?utm_campaign=881650&utm_source=habrahabr&utm_medium=rss)
-- [Apple разрешила пользователям переносить покупки из одной учётной записи в другую](https://habr.com/ru/news/881640/?utm_campaign=881640&utm_source=habrahabr&utm_medium=rss)
-- [Частные ЦОД и сервисы операторского уровня. Подтверждена совместимость dBrain.cloud и ZStack Cloud](https://habr.com/ru/companies/dbraincloud/news/881630/?utm_campaign=881630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
