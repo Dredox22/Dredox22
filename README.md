@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз дистрибутива для одноплатных ПК DietPi 9.10](https://habr.com/ru/news/882326/?utm_campaign=882326&utm_source=habrahabr&utm_medium=rss)
 - [RSHB DA Meetup: Качество данных и Data Vault 2.0 в действии](https://habr.com/ru/companies/rshb/news/882292/?utm_campaign=882292&utm_source=habrahabr&utm_medium=rss)
 - [Reddit работает над нейросетевым поиском, который поможет пользователям находить ответы на сложные вопросы](https://habr.com/ru/news/882286/?utm_campaign=882286&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI планирует выпустить GPT-4.5 в течение нескольких недель, подготавливая почву для GPT-5](https://habr.com/ru/companies/bothub/news/882270/?utm_campaign=882270&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» разработал систему для противодействия программам‑шифровальщикам](https://habr.com/ru/news/882262/?utm_campaign=882262&utm_source=habrahabr&utm_medium=rss)
-- [В рамках киберучений школьников был представлен киберполигон Ampire Junior на операционной системе «Ред ОС»](https://habr.com/ru/news/882252/?utm_campaign=882252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
