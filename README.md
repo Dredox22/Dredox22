@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В рамках киберучений школьников был представлен киберполигон Ampire Junior на операционной системе «Ред ОС»](https://habr.com/ru/news/882252/?utm_campaign=882252&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Amazon начнёт показывать товары, которые Amazon не продаёт](https://habr.com/ru/news/882250/?utm_campaign=882250&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар ITGLOBAL.COM и vStack: «Тренд или надежное решение: кейсы применения гиперконвергенции»](https://habr.com/ru/news/882230/?utm_campaign=882230&utm_source=habrahabr&utm_medium=rss)
+- [Проект хранилища Monotone перешёл на лицензию MIT](https://habr.com/ru/news/882224/?utm_campaign=882224&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI отменяет выпуск своей AI-модели o3 в пользу «унифицированного» релиза нового поколения](https://habr.com/ru/companies/bothub/news/882218/?utm_campaign=882218&utm_source=habrahabr&utm_medium=rss)
-- [Intel выпустила обновление микрокода для своих процессоров с патчами против пяти уязвимостей](https://habr.com/ru/news/882206/?utm_campaign=882206&utm_source=habrahabr&utm_medium=rss)
-- [VMmanager: безопасность платформы подтверждена сертификатом ФСТЭК России](https://habr.com/ru/companies/ispsystem/news/882010/?utm_campaign=882010&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный директор Anthropic Дарио Амодей предупреждает о «гонке» за пониманием AI по мере его усиления](https://habr.com/ru/companies/bothub/news/882180/?utm_campaign=882180&utm_source=habrahabr&utm_medium=rss)
-- [Проблемы языковых моделей при анализе длинных текстов: выводы исследования](https://habr.com/ru/companies/bothub/news/882166/?utm_campaign=882166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
