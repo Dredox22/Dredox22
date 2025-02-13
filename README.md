@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI отменяет выпуск своей AI-модели o3 в пользу «унифицированного» релиза нового поколения](https://habr.com/ru/companies/bothub/news/882218/?utm_campaign=882218&utm_source=habrahabr&utm_medium=rss)
+- [Intel выпустила обновление микрокода для своих процессоров с патчами против пяти уязвимостей](https://habr.com/ru/news/882206/?utm_campaign=882206&utm_source=habrahabr&utm_medium=rss)
+- [VMmanager: безопасность платформы подтверждена сертификатом ФСТЭК России](https://habr.com/ru/companies/ispsystem/news/882010/?utm_campaign=882010&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор Anthropic Дарио Амодей предупреждает о «гонке» за пониманием AI по мере его усиления](https://habr.com/ru/companies/bothub/news/882180/?utm_campaign=882180&utm_source=habrahabr&utm_medium=rss)
 - [Проблемы языковых моделей при анализе длинных текстов: выводы исследования](https://habr.com/ru/companies/bothub/news/882166/?utm_campaign=882166&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» запустил первые базовые станции «Булат» в коммерческую эксплуатацию](https://habr.com/ru/news/882144/?utm_campaign=882144&utm_source=habrahabr&utm_medium=rss)
-- [Во ФСТЭК насчитали больше тысячи уязвимостей в государственных системах](https://habr.com/ru/news/882136/?utm_campaign=882136&utm_source=habrahabr&utm_medium=rss)
-- [Standoff 15: кибербитва в мае соберет около полусотни команд белых хакеров и защитников со всего мира](https://habr.com/ru/companies/pt/news/882112/?utm_campaign=882112&utm_source=habrahabr&utm_medium=rss)
-- [Google будет использовать машинное обучение для оценки возраста пользователя](https://habr.com/ru/news/882086/?utm_campaign=882086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
