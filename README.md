@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что внутри Flutter 3.29.0](https://habr.com/ru/companies/friflex/news/882012/?utm_campaign=882012&utm_source=habrahabr&utm_medium=rss)
+- [В рейтинге TIOBE начали расти «быстрые» языки программирования](https://habr.com/ru/news/882048/?utm_campaign=882048&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик «АйТи Бастион» обновил ПК «Синоникс»](https://habr.com/ru/companies/best_pam/news/882036/?utm_campaign=882036&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует в браузере Chrome ИИ-функцию для автоматической смены скомпрометированных паролей на сайтах](https://habr.com/ru/news/881994/?utm_campaign=881994&utm_source=habrahabr&utm_medium=rss)
 - [Git-хостинг Codeberg.org сообщил клиентам о массовой рассылке оскорбительных сообщений, включая спам в issue tracker](https://habr.com/ru/news/881992/?utm_campaign=881992&utm_source=habrahabr&utm_medium=rss)
-- [3D-принтер Form 4 от Formlabs построен на базе Raspberry Pi Compute Module 4](https://habr.com/ru/news/881984/?utm_campaign=881984&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: ИИ-поиск стикеров, обложки для видео и ссылки на тайм-коды](https://habr.com/ru/news/881970/?utm_campaign=881970&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман &lpar;OpenAI&rpar; только что рассказал про GPT-5, GPT-4.5 и когда они выйдут &lpar;спойлер: скоро&rpar;](https://habr.com/ru/news/881946/?utm_campaign=881946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
