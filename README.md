@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблемы языковых моделей при анализе длинных текстов: выводы исследования](https://habr.com/ru/companies/bothub/news/882166/?utm_campaign=882166&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» запустил первые базовые станции «Булат» в коммерческую эксплуатацию](https://habr.com/ru/news/882144/?utm_campaign=882144&utm_source=habrahabr&utm_medium=rss)
+- [Во ФСТЭК насчитали больше тысячи уязвимостей в государственных системах](https://habr.com/ru/news/882136/?utm_campaign=882136&utm_source=habrahabr&utm_medium=rss)
 - [Standoff 15: кибербитва в мае соберет около полусотни команд белых хакеров и защитников со всего мира](https://habr.com/ru/companies/pt/news/882112/?utm_campaign=882112&utm_source=habrahabr&utm_medium=rss)
 - [Google будет использовать машинное обучение для оценки возраста пользователя](https://habr.com/ru/news/882086/?utm_campaign=882086&utm_source=habrahabr&utm_medium=rss)
-- [Selectel проведет бесплатный воркшоп по развертыванию приложений в Managed Kubernetes на выделенном сервере](https://habr.com/ru/companies/selectel/news/881462/?utm_campaign=881462&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила официальное приложение Apple TV для телефонов и планшетов Android](https://habr.com/ru/news/882076/?utm_campaign=882076&utm_source=habrahabr&utm_medium=rss)
-- [Что внутри Flutter 3.29.0](https://habr.com/ru/companies/friflex/news/882012/?utm_campaign=882012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
