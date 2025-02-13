@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google тестирует в браузере Chrome ИИ-функцию для автоматической смены скомпрометированных паролей на сайтах](https://habr.com/ru/news/881994/?utm_campaign=881994&utm_source=habrahabr&utm_medium=rss)
+- [Git-хостинг Codeberg.org сообщил клиентам о массовой рассылке оскорбительных сообщений, включая спам в issue tracker](https://habr.com/ru/news/881992/?utm_campaign=881992&utm_source=habrahabr&utm_medium=rss)
 - [3D-принтер Form 4 от Formlabs построен на базе Raspberry Pi Compute Module 4](https://habr.com/ru/news/881984/?utm_campaign=881984&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: ИИ-поиск стикеров, обложки для видео и ссылки на тайм-коды](https://habr.com/ru/news/881970/?utm_campaign=881970&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман &lpar;OpenAI&rpar; только что рассказал про GPT-5, GPT-4.5 и когда они выйдут &lpar;спойлер: скоро&rpar;](https://habr.com/ru/news/881946/?utm_campaign=881946&utm_source=habrahabr&utm_medium=rss)
-- [Crytek заморозила продолжение Crysis и сократила 15% штата](https://habr.com/ru/news/881936/?utm_campaign=881936&utm_source=habrahabr&utm_medium=rss)
-- [Bing и Apple Maps также переименовали Мексиканский залив для пользователей из США](https://habr.com/ru/news/881926/?utm_campaign=881926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
