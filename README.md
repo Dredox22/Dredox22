@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google будет использовать машинное обучение для оценки возраста пользователя](https://habr.com/ru/news/882086/?utm_campaign=882086&utm_source=habrahabr&utm_medium=rss)
+- [Selectel проведет бесплатный воркшоп по развертыванию приложений в Managed Kubernetes на выделенном сервере](https://habr.com/ru/companies/selectel/news/881462/?utm_campaign=881462&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила официальное приложение Apple TV для телефонов и планшетов Android](https://habr.com/ru/news/882076/?utm_campaign=882076&utm_source=habrahabr&utm_medium=rss)
 - [Что внутри Flutter 3.29.0](https://habr.com/ru/companies/friflex/news/882012/?utm_campaign=882012&utm_source=habrahabr&utm_medium=rss)
 - [В рейтинге TIOBE начали расти «быстрые» языки программирования](https://habr.com/ru/news/882048/?utm_campaign=882048&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик «АйТи Бастион» обновил ПК «Синоникс»](https://habr.com/ru/companies/best_pam/news/882036/?utm_campaign=882036&utm_source=habrahabr&utm_medium=rss)
-- [Google тестирует в браузере Chrome ИИ-функцию для автоматической смены скомпрометированных паролей на сайтах](https://habr.com/ru/news/881994/?utm_campaign=881994&utm_source=habrahabr&utm_medium=rss)
-- [Git-хостинг Codeberg.org сообщил клиентам о массовой рассылке оскорбительных сообщений, включая спам в issue tracker](https://habr.com/ru/news/881992/?utm_campaign=881992&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
