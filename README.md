@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В JetBrains AI Assistant добавили поддержку локальных моделей через LM Studio](https://habr.com/ru/news/882352/?utm_campaign=882352&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: четыре самых популярных чат-бота с ИИ допускают много ошибок при подготовке сводок новостей](https://habr.com/ru/news/882344/?utm_campaign=882344&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива для одноплатных ПК DietPi 9.10](https://habr.com/ru/news/882326/?utm_campaign=882326&utm_source=habrahabr&utm_medium=rss)
 - [RSHB DA Meetup: Качество данных и Data Vault 2.0 в действии](https://habr.com/ru/companies/rshb/news/882292/?utm_campaign=882292&utm_source=habrahabr&utm_medium=rss)
 - [Reddit работает над нейросетевым поиском, который поможет пользователям находить ответы на сложные вопросы](https://habr.com/ru/news/882286/?utm_campaign=882286&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI планирует выпустить GPT-4.5 в течение нескольких недель, подготавливая почву для GPT-5](https://habr.com/ru/companies/bothub/news/882270/?utm_campaign=882270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
