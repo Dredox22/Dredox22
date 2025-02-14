@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IEEE Spectrum: скорость передачи данных снижается, пришло время переосмыслить 6G](https://habr.com/ru/news/882512/?utm_campaign=882512&utm_source=habrahabr&utm_medium=rss)
 - [Сайт Waste.gov Илона Маска оказался страницей-заглушкой WordPress](https://habr.com/ru/news/882476/?utm_campaign=882476&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp запустил настраиваемые темы и фоны для чата](https://habr.com/ru/news/882456/?utm_campaign=882456&utm_source=habrahabr&utm_medium=rss)
 - [CTO Oracle предложил обучить нейросетевого «большого брата» на данных граждан, включая их ДНК](https://habr.com/ru/news/882458/?utm_campaign=882458&utm_source=habrahabr&utm_medium=rss)
 - [Apple и Google вернули TikTok в свои магазины приложений для iOS и Android](https://habr.com/ru/news/882434/?utm_campaign=882434&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Фабрика» выпустила новую категорию устройств Lunnen — планшеты Ground](https://habr.com/ru/news/882334/?utm_campaign=882334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
