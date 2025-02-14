@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Код получился большим и неорганизованным»: пользователь Reddit рассказала про опыт программирования с Cursor](https://habr.com/ru/news/882720/?utm_campaign=882720&utm_source=habrahabr&utm_medium=rss)
 - [UserGate открыла специализированный компьютерный класс в Губкинском университете](https://habr.com/ru/companies/usergate/news/882714/?utm_campaign=882714&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запатентовала систему автопатчей кода ОС Windows на базе ИИ для анализа и исправления ошибок от пользователей](https://habr.com/ru/news/882708/?utm_campaign=882708&utm_source=habrahabr&utm_medium=rss)
 - [Как обстоят дела с DDoS-атаками в Selectel](https://habr.com/ru/companies/selectel/news/882666/?utm_campaign=882666&utm_source=habrahabr&utm_medium=rss)
 - [Центр Ростеха начал выдавать гражданам РФ за рубежом электронные подписи](https://habr.com/ru/news/882670/?utm_campaign=882670&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году по требованию Роскомнадзора удалили или заблокировали 704,8 тыс. интернет-страниц](https://habr.com/ru/news/882634/?utm_campaign=882634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
