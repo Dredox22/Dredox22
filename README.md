@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обстоят дела с DDoS-атаками в Selectel](https://habr.com/ru/companies/selectel/news/882666/?utm_campaign=882666&utm_source=habrahabr&utm_medium=rss)
+- [Центр Ростеха начал выдавать гражданам РФ за рубежом электронные подписи](https://habr.com/ru/news/882670/?utm_campaign=882670&utm_source=habrahabr&utm_medium=rss)
 - [В 2024 году по требованию Роскомнадзора удалили или заблокировали 704,8 тыс. интернет-страниц](https://habr.com/ru/news/882634/?utm_campaign=882634&utm_source=habrahabr&utm_medium=rss)
 - [В МФТИ разработали новый метод получения наноразмерной керамики](https://habr.com/ru/news/882628/?utm_campaign=882628&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия Solar appScreener снижает затраты на DevSecOps на 15%](https://habr.com/ru/companies/solarsecurity/news/882614/?utm_campaign=882614&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году на одну российскую компанию в среднем приходилось 50 DDoS-атак](https://habr.com/ru/news/882606/?utm_campaign=882606&utm_source=habrahabr&utm_medium=rss)
-- [В Google предложили повысить частоту генерации прерываний от таймера в ядре Linux до 1000 Гц по умолчанию вместо 250 Гц](https://habr.com/ru/news/882580/?utm_campaign=882580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
