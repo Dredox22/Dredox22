@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple и Google вернули TikTok в свои магазины приложений для iOS и Android](https://habr.com/ru/news/882434/?utm_campaign=882434&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Фабрика» выпустила новую категорию устройств Lunnen — планшеты Ground](https://habr.com/ru/news/882334/?utm_campaign=882334&utm_source=habrahabr&utm_medium=rss)
 - [Amazon закрывает лазейку в Kindle, которая упрощает удаление защиты DRM &lpar;Digital Rights Management&rpar;](https://habr.com/ru/news/882422/?utm_campaign=882422&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком»: было два повреждения кабеля «Кингисепп-Калининград» в Балтийском море, ущерб десятки миллионов рублей](https://habr.com/ru/news/882408/?utm_campaign=882408&utm_source=habrahabr&utm_medium=rss)
 - [Гектор Мартин, основатель Asahi Linux, покидает проект на фоне выгорания и разногласий с мейнтейнерами ядра Linux](https://habr.com/ru/news/882406/?utm_campaign=882406&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic готовит новую гибридную модель Claude, превосходящую o3-mini-high в кодинге](https://habr.com/ru/companies/bothub/news/882402/?utm_campaign=882402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
