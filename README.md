@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Яндекс Карты» выпустили обновления картографических и навигационных решений для курьеров](https://habr.com/ru/news/882576/?utm_campaign=882576&utm_source=habrahabr&utm_medium=rss)
-- [Продуктовые обновления января: меньше затрат, больше возможностей](https://habr.com/ru/companies/selectel/news/882564/?utm_campaign=882564&utm_source=habrahabr&utm_medium=rss)
-- [Google Gemini теперь может запоминать прошлые чаты для более точных ответов](https://habr.com/ru/news/882566/?utm_campaign=882566&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустил сервис для создания валентинок при помощи кода](https://habr.com/ru/news/882556/?utm_campaign=882556&utm_source=habrahabr&utm_medium=rss)
-- [Функция блокировки YouTube позволяла раскрывать адреса электронной почты](https://habr.com/ru/news/882548/?utm_campaign=882548&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году по требованию Роскомнадзора удалили или заблокировали 704,8 тыс. интернет-страниц](https://habr.com/ru/news/882634/?utm_campaign=882634&utm_source=habrahabr&utm_medium=rss)
+- [В МФТИ разработали новую метод получения наноразмерной керамики](https://habr.com/ru/news/882628/?utm_campaign=882628&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия Solar appScreener снижает затраты на DevSecOps на 15%](https://habr.com/ru/companies/solarsecurity/news/882614/?utm_campaign=882614&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году на одну российскую компанию в среднем приходилось 50 DDoS-атак](https://habr.com/ru/news/882606/?utm_campaign=882606&utm_source=habrahabr&utm_medium=rss)
+- [В Google предложили повысить частоту генерации прерываний от таймера в ядре Linux до 1000 Гц по умолчанию вместо 250 Гц](https://habr.com/ru/news/882580/?utm_campaign=882580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
