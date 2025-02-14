@@ -69,7 +69,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [В 2024 году по требованию Роскомнадзора удалили или заблокировали 704,8 тыс. интернет-страниц](https://habr.com/ru/news/882634/?utm_campaign=882634&utm_source=habrahabr&utm_medium=rss)
-- [В МФТИ разработали новую метод получения наноразмерной керамики](https://habr.com/ru/news/882628/?utm_campaign=882628&utm_source=habrahabr&utm_medium=rss)
+- [В МФТИ разработали новый метод получения наноразмерной керамики](https://habr.com/ru/news/882628/?utm_campaign=882628&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия Solar appScreener снижает затраты на DevSecOps на 15%](https://habr.com/ru/companies/solarsecurity/news/882614/?utm_campaign=882614&utm_source=habrahabr&utm_medium=rss)
 - [В 2024 году на одну российскую компанию в среднем приходилось 50 DDoS-атак](https://habr.com/ru/news/882606/?utm_campaign=882606&utm_source=habrahabr&utm_medium=rss)
 - [В Google предложили повысить частоту генерации прерываний от таймера в ядре Linux до 1000 Гц по умолчанию вместо 250 Гц](https://habr.com/ru/news/882580/?utm_campaign=882580&utm_source=habrahabr&utm_medium=rss)
