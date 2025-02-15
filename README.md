@@ -69,10 +69,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ElevenLabs начала банить пациентов с потерей голоса за использование неправильных слов при общении с помощью ИИ](https://habr.com/ru/news/882800/?utm_campaign=882800&utm_source=habrahabr&utm_medium=rss)
+- [Умный ремешок от Apple, прорыв в сфере литий-ионных аккумуляторов и перевод вывесок на русский язык: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/882620/?utm_campaign=882620&utm_source=habrahabr&utm_medium=rss)
 - [Netflix случайно открыла доступ к своему контенту в приложении Apple TV, но потом откатила эту интеграцию](https://habr.com/ru/news/882758/?utm_campaign=882758&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представляет рекомендации по эффективному использованию моделей серии O: акцент на прямом обучении](https://habr.com/ru/companies/bothub/news/882742/?utm_campaign=882742&utm_source=habrahabr&utm_medium=rss)
 - [Система вознаграждений RLSP: Как она меняет подход к обучению языковых моделей](https://habr.com/ru/companies/bothub/news/882738/?utm_campaign=882738&utm_source=habrahabr&utm_medium=rss)
-- [«Код получился большим и неорганизованным»: пользователь Reddit рассказала про опыт программирования с Cursor](https://habr.com/ru/news/882720/?utm_campaign=882720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
