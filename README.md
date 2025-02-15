@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила Android 16 Beta 2](https://habr.com/ru/news/882880/?utm_campaign=882880&utm_source=habrahabr&utm_medium=rss)
 - [В Японии робопсов посадили на цепь и наделили агрессией, чтобы они кидались на посетителей художественной выставки](https://habr.com/ru/news/882858/?utm_campaign=882858&utm_source=habrahabr&utm_medium=rss)
 - [Talon против «мусора» Windows 11](https://habr.com/ru/news/882840/?utm_campaign=882840&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs начала банить пациентов с потерей голоса за использование неправильных слов при общении с помощью ИИ](https://habr.com/ru/news/882800/?utm_campaign=882800&utm_source=habrahabr&utm_medium=rss)
 - [Умный ремешок от Apple, прорыв в сфере литий-ионных аккумуляторов и перевод вывесок на русский язык: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/882620/?utm_campaign=882620&utm_source=habrahabr&utm_medium=rss)
-- [Совет директоров OpenAI ответил Маску, что некоммерческая организация не продаётся даже за $97,4 млрд](https://habr.com/ru/news/882798/?utm_campaign=882798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
