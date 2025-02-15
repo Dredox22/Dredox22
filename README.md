@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Square Enix закрыла версию Final Fantasy Crystal Chronicles для iOS и удалила её из App Store из-за неустранимой ошибки](https://habr.com/ru/news/882766/?utm_campaign=882766&utm_source=habrahabr&utm_medium=rss)
 - [Netflix случайно открыла доступ к своему контенту в приложении Apple TV, но потом откатила эту интеграцию](https://habr.com/ru/news/882758/?utm_campaign=882758&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представляет рекомендации по эффективному использованию моделей серии O: акцент на прямом обучении](https://habr.com/ru/companies/bothub/news/882742/?utm_campaign=882742&utm_source=habrahabr&utm_medium=rss)
 - [Система вознаграждений RLSP: Как она меняет подход к обучению языковых моделей](https://habr.com/ru/companies/bothub/news/882738/?utm_campaign=882738&utm_source=habrahabr&utm_medium=rss)
 - [«Код получился большим и неорганизованным»: пользователь Reddit рассказала про опыт программирования с Cursor](https://habr.com/ru/news/882720/?utm_campaign=882720&utm_source=habrahabr&utm_medium=rss)
+- [UserGate открыла специализированный компьютерный класс в Губкинском университете](https://habr.com/ru/companies/usergate/news/882714/?utm_campaign=882714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
