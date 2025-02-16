@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon и Apple испытывают трудности с внедрением ИИ в цифровые помощники](https://habr.com/ru/news/882962/?utm_campaign=882962&utm_source=habrahabr&utm_medium=rss)
+- [Western Digital представит жёсткие диски HAMR ёмкостью 44 ТБ в 2026 году](https://habr.com/ru/news/882960/?utm_campaign=882960&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила кнопку в Outlook Mobile для сворачивания черновика письма](https://habr.com/ru/news/882956/?utm_campaign=882956&utm_source=habrahabr&utm_medium=rss)
 - [Представлена открытая интерактивная карта жизни, где каждая неделя — это маленький прямоугольник](https://habr.com/ru/news/882928/?utm_campaign=882928&utm_source=habrahabr&utm_medium=rss)
 - [Meta* присоединяется к гонке по созданию человекоподобных роботов](https://habr.com/ru/companies/bothub/news/882886/?utm_campaign=882886&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Android 16 Beta 2](https://habr.com/ru/news/882880/?utm_campaign=882880&utm_source=habrahabr&utm_medium=rss)
-- [В Японии робопсов посадили на цепь и наделили агрессией, чтобы они кидались на посетителей художественной выставки](https://habr.com/ru/news/882858/?utm_campaign=882858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
