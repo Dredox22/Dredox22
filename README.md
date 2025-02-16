@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Илон Маск показал скриншот, где Grok 3 оскорбляет издание The Information](https://habr.com/ru/companies/bothub/news/883046/?utm_campaign=883046&utm_source=habrahabr&utm_medium=rss)
 - [Эмулятор Nintendo DS Drastic убрали из Google Play](https://habr.com/ru/news/883010/?utm_campaign=883010&utm_source=habrahabr&utm_medium=rss)
 - [Amazon и Apple испытывают трудности с внедрением ИИ в цифровые помощники](https://habr.com/ru/news/882962/?utm_campaign=882962&utm_source=habrahabr&utm_medium=rss)
 - [Western Digital представит жёсткие диски HAMR ёмкостью 44 ТБ в 2026 году](https://habr.com/ru/news/882960/?utm_campaign=882960&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила кнопку в Outlook Mobile для сворачивания черновика письма](https://habr.com/ru/news/882956/?utm_campaign=882956&utm_source=habrahabr&utm_medium=rss)
-- [Представлена открытая интерактивная карта жизни, где каждая неделя — это маленький прямоугольник](https://habr.com/ru/news/882928/?utm_campaign=882928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
