@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Спарта 2035» выходит в ранний доступ 23 февраля 2025 года](https://habr.com/ru/news/883260/?utm_campaign=883260&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышел симулятор обустройства постсоветской квартиры Panelka](https://habr.com/ru/news/883240/?utm_campaign=883240&utm_source=habrahabr&utm_medium=rss)
 - [Опрос: 66% россиян в 2024 году сталкивались с попытками мошенников украсть их аккаунты](https://habr.com/ru/news/883218/?utm_campaign=883218&utm_source=habrahabr&utm_medium=rss)
 - [Правительство РФ разработало законопроект по борьбе с кибермошенничеством](https://habr.com/ru/news/883216/?utm_campaign=883216&utm_source=habrahabr&utm_medium=rss)
 - [Новый владелец F.A.C.C.T. сменил название компании на F6](https://habr.com/ru/news/883196/?utm_campaign=883196&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обнаружили, что больше не нужна тонна данных, чтобы обучить LLM выполнению логических задач](https://habr.com/ru/companies/bothub/news/883178/?utm_campaign=883178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
