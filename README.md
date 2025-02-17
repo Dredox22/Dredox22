@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СДЭК «восстановил» базу после инцидента. Вчера я узнал — как. И это 3.14…](https://habr.com/ru/news/883298/?utm_campaign=883298&utm_source=habrahabr&utm_medium=rss)
+- [ИИ научился клонировать себя: саморепликация больших языковых моделей](https://habr.com/ru/news/883250/?utm_campaign=883250&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект RustOwl для визуализации перемещения владения и времени жизни переменных](https://habr.com/ru/news/883278/?utm_campaign=883278&utm_source=habrahabr&utm_medium=rss)
 - [«Спарта 2035» выходит в ранний доступ 23 февраля 2025 года](https://habr.com/ru/news/883260/?utm_campaign=883260&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышел симулятор обустройства постсоветской квартиры Panelka](https://habr.com/ru/news/883240/?utm_campaign=883240&utm_source=habrahabr&utm_medium=rss)
-- [Опрос: 66% россиян в 2024 году сталкивались с попытками мошенников украсть их аккаунты](https://habr.com/ru/news/883218/?utm_campaign=883218&utm_source=habrahabr&utm_medium=rss)
-- [Правительство РФ разработало законопроект по борьбе с кибермошенничеством](https://habr.com/ru/news/883216/?utm_campaign=883216&utm_source=habrahabr&utm_medium=rss)
-- [Новый владелец F.A.C.C.T. сменил название компании на F6](https://habr.com/ru/news/883196/?utm_campaign=883196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
