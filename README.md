@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Singular 9 представила портативную игровую консоль Ink Console](https://habr.com/ru/news/883084/?utm_campaign=883084&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор Южной Кореи временно заблокировал доступ к DeepSeek на территории страны](https://habr.com/ru/news/883080/?utm_campaign=883080&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft не будет поддерживать в Windows 11 24H2 процессоры Intel 8-го, 9-го и 10-го поколений от OEM производителей](https://habr.com/ru/news/883078/?utm_campaign=883078&utm_source=habrahabr&utm_medium=rss)
 - [Расширение Chrome позволяет вернуть название «Мексиканского залива» для пользователей Google Maps в США](https://habr.com/ru/news/883066/?utm_campaign=883066&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT, по мнению исследователей, прошёл тест Тьюринга в области психотерапии](https://habr.com/ru/companies/bothub/news/883052/?utm_campaign=883052&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск показал скриншот, где Grok 3 оскорбляет издание The Information](https://habr.com/ru/companies/bothub/news/883046/?utm_campaign=883046&utm_source=habrahabr&utm_medium=rss)
-- [Эмулятор Nintendo DS Drastic убрали из Google Play](https://habr.com/ru/news/883010/?utm_campaign=883010&utm_source=habrahabr&utm_medium=rss)
-- [Amazon и Apple испытывают трудности с внедрением ИИ в цифровые помощники](https://habr.com/ru/news/882962/?utm_campaign=882962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
