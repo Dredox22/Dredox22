@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/883330/?utm_campaign=883330&utm_source=habrahabr&utm_medium=rss)
 - [Угроза безопасности: как злоумышленники могут манипулировать AI-агентами](https://habr.com/ru/companies/bothub/news/883328/?utm_campaign=883328&utm_source=habrahabr&utm_medium=rss)
 - [Визуальная новелла Zavod, про взаимоотношения на заводе, вышла в ранний доступ](https://habr.com/ru/news/883312/?utm_campaign=883312&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники начали использовать дипфейки для трудоустройства в компании под видом настоящих сотрудников](https://habr.com/ru/news/883308/?utm_campaign=883308&utm_source=habrahabr&utm_medium=rss)
 - [СДЭК «восстановил» базу после инцидента. Вчера я узнал — как. И это 3.14…](https://habr.com/ru/news/883298/?utm_campaign=883298&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект RustOwl для визуализации перемещения владения и времени жизни переменных](https://habr.com/ru/news/883278/?utm_campaign=883278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
