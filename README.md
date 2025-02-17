@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI пытается «не подвергать цензуре» ChatGPT](https://habr.com/ru/companies/bothub/news/883172/?utm_campaign=883172&utm_source=habrahabr&utm_medium=rss)
 - [Компании из реестра ОРИ обяжут три года хранить данные о сообщениях и их отправителях](https://habr.com/ru/news/883144/?utm_campaign=883144&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи возмутились слухами о возможном размещении рекламы в Apple Maps](https://habr.com/ru/news/883154/?utm_campaign=883154&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи обучают искусственный интеллект интерпретировать эмоции животных](https://habr.com/ru/companies/bothub/news/883152/?utm_campaign=883152&utm_source=habrahabr&utm_medium=rss)
 - [В базе данных системы социального обеспечения США есть пользователи 200+ лет, у которых поле смерти установлено на FALSE](https://habr.com/ru/news/883150/?utm_campaign=883150&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь получил адрес электронной почты чужого YouTube-канала через старое приложение для Pixel](https://habr.com/ru/companies/itsumma/news/402673/?utm_campaign=402673&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
