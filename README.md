@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Регулятор из Южной Кореи: когда пользователи получали доступ к DeepSeek, их информация также передавалась в ByteDance](https://habr.com/ru/news/883582/?utm_campaign=883582&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году госзаказчики на 15% увеличили расходы на закупки коммуникационного оборудования](https://habr.com/ru/news/883564/?utm_campaign=883564&utm_source=habrahabr&utm_medium=rss)
 - [Некоторые новые джуны на самом деле не умеют писать код без ИИ-помощников](https://habr.com/ru/news/883560/?utm_campaign=883560&utm_source=habrahabr&utm_medium=rss)
 - [«РТК‑Сервис» сообщил о полной поддержке телекоммуникационного оборудования Juniper в сетях «Ростелекома»](https://habr.com/ru/news/883554/?utm_campaign=883554&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft очистит интерфейс проводника Windows 11 для пользователей в ЕС](https://habr.com/ru/news/883528/?utm_campaign=883528&utm_source=habrahabr&utm_medium=rss)
-- [VVP Group начнёт производить смартфоны в Калуге](https://habr.com/ru/news/883512/?utm_campaign=883512&utm_source=habrahabr&utm_medium=rss)
-- [Вышел почтовый сервер Postfix 3.10.0](https://habr.com/ru/news/883540/?utm_campaign=883540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
