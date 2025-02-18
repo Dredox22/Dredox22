@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Эксперты пояснили, почему в базе данных системы социального обеспечения США есть пользователи 200+ лет](https://habr.com/ru/news/883436/?utm_campaign=883436&utm_source=habrahabr&utm_medium=rss)
+- [Соцсеть X начала блокировать ссылки на Signal](https://habr.com/ru/news/883480/?utm_campaign=883480&utm_source=habrahabr&utm_medium=rss)
+- [Чип-потрошитель: число атак на клиентов российских банков с использованием NFCGate за месяц выросло на 80%](https://habr.com/ru/companies/F6/news/883450/?utm_campaign=883450&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты пояснили, почему в базе данных системы социального обеспечения США есть пользователи с возрастом более 200 лет](https://habr.com/ru/news/883436/?utm_campaign=883436&utm_source=habrahabr&utm_medium=rss)
 - [Мексика пригрозила судом Google из-за названия «Залив Америки» вместо «Мексиканского залива» в Google Maps](https://habr.com/ru/news/883420/?utm_campaign=883420&utm_source=habrahabr&utm_medium=rss)
 - [Маск представил Grok-3 — новую и более продвинутую версию чат-бота от xAI](https://habr.com/ru/news/883414/?utm_campaign=883414&utm_source=habrahabr&utm_medium=rss)
-- [Сумма штрафа Google российским телеканалам выросла до 2,86 дуодециллиона рублей &lpar;10^39&rpar;](https://habr.com/ru/news/883410/?utm_campaign=883410&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.6](https://habr.com/ru/news/883406/?utm_campaign=883406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
