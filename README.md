@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Искусственный интеллект учится понимать физику: как AI развивает интуитивные знания о мире](https://habr.com/ru/companies/bothub/news/883724/?utm_campaign=883724&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Солар» рассказала, как киберпреступники атаковали банки в 2024 году](https://habr.com/ru/news/883696/?utm_campaign=883696&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI меняет стратегию в области разработки с открытым исходным кодом: что ждать дальше?](https://habr.com/ru/companies/bothub/news/883694/?utm_campaign=883694&utm_source=habrahabr&utm_medium=rss)
 - [Aomni привлекает $4 миллиона, доказывая, что AI может увеличить продажи, не заменяя людей](https://habr.com/ru/companies/bothub/news/883670/?utm_campaign=883670&utm_source=habrahabr&utm_medium=rss)
 - [«Сайберия Нова» представила обновление 2.1.0 игры «Смута»](https://habr.com/ru/news/883666/?utm_campaign=883666&utm_source=habrahabr&utm_medium=rss)
-- [Учёные разработали технологию, позволяющую создать гибкий транзистор с электролитическим затвором](https://habr.com/ru/news/883630/?utm_campaign=883630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
