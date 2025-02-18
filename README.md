@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные разработали технологию, позволяющую создать гибкий транзистор с электролитическим затвором](https://habr.com/ru/news/883630/?utm_campaign=883630&utm_source=habrahabr&utm_medium=rss)
 - [CNews: распродана 1 тыс. штук серверных процессоров Baikal-S, «Байкал Электроникс» ждёт новую партию в конце 2025 года](https://habr.com/ru/news/883614/?utm_campaign=883614&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор из Южной Кореи: когда пользователи получали доступ к DeepSeek, их информация также передавалась в ByteDance](https://habr.com/ru/news/883582/?utm_campaign=883582&utm_source=habrahabr&utm_medium=rss)
 - [В 2024 году госзаказчики на 15% увеличили расходы на закупки коммуникационного оборудования](https://habr.com/ru/news/883564/?utm_campaign=883564&utm_source=habrahabr&utm_medium=rss)
 - [Некоторые новые джуны на самом деле не умеют писать код без ИИ-помощников](https://habr.com/ru/news/883560/?utm_campaign=883560&utm_source=habrahabr&utm_medium=rss)
-- [«РТК‑Сервис» сообщил о полной поддержке телекоммуникационного оборудования Juniper в сетях «Ростелекома»](https://habr.com/ru/news/883554/?utm_campaign=883554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
