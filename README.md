@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты пояснили, почему в базе данных системы социального обеспечения США есть пользователи 200+ лет](https://habr.com/ru/news/883436/?utm_campaign=883436&utm_source=habrahabr&utm_medium=rss)
 - [Мексика пригрозила судом Google из-за названия «Залив Америки» вместо «Мексиканского залива» в Google Maps](https://habr.com/ru/news/883420/?utm_campaign=883420&utm_source=habrahabr&utm_medium=rss)
 - [Маск представил Grok-3 — новую и более продвинутую версию чат-бота от xAI](https://habr.com/ru/news/883414/?utm_campaign=883414&utm_source=habrahabr&utm_medium=rss)
 - [Сумма штрафа Google российским телеканалам выросла до 2,86 дуодециллиона рублей &lpar;10^39&rpar;](https://habr.com/ru/news/883410/?utm_campaign=883410&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.6](https://habr.com/ru/news/883406/?utm_campaign=883406&utm_source=habrahabr&utm_medium=rss)
-- [Mistral Saba: региональная LLM, ориентированная на восточные языки](https://habr.com/ru/companies/bothub/news/883402/?utm_campaign=883402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
