@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Соцсеть X начала блокировать ссылки на Signal](https://habr.com/ru/news/883480/?utm_campaign=883480&utm_source=habrahabr&utm_medium=rss)
-- [Чип-потрошитель: число атак на клиентов российских банков с использованием NFCGate за месяц выросло на 80%](https://habr.com/ru/companies/F6/news/883450/?utm_campaign=883450&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты пояснили, почему в базе данных системы социального обеспечения США есть пользователи с возрастом более 200 лет](https://habr.com/ru/news/883436/?utm_campaign=883436&utm_source=habrahabr&utm_medium=rss)
-- [Мексика пригрозила судом Google из-за названия «Залив Америки» вместо «Мексиканского залива» в Google Maps](https://habr.com/ru/news/883420/?utm_campaign=883420&utm_source=habrahabr&utm_medium=rss)
-- [Маск представил Grok-3 — новую и более продвинутую версию чат-бота от xAI](https://habr.com/ru/news/883414/?utm_campaign=883414&utm_source=habrahabr&utm_medium=rss)
+- [Параметры InfoWatch ARMA Стена &lpar;NGFW&rpar; подтверждены в тестировании ГК MONT](https://habr.com/ru/companies/infowatch/news/883520/?utm_campaign=883520&utm_source=habrahabr&utm_medium=rss)
+- [Параметры InfoWatch ARMA Стена &lpar;NGFW&rpar; подтверждены в тестировании ГК MONT](https://habr.com/ru/companies/infowatch/news/883516/?utm_campaign=883516&utm_source=habrahabr&utm_medium=rss)
+- [AMD устранила шесть уязвимостей в процессорах EPYC и Ryzen](https://habr.com/ru/news/883498/?utm_campaign=883498&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи обнаружили первые в Рунете киберпреступления, связанные с темой цифрового рубля](https://habr.com/ru/news/883506/?utm_campaign=883506&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft потребовала учётной записи для работы с Notepad на ПК с Copilot+](https://habr.com/ru/news/883492/?utm_campaign=883492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
