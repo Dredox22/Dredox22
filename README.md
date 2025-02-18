@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сумма штрафа Google российским телеканалам выросла до 2,86 дуодециллиона рублей &lpar;10^39&rpar;](https://habr.com/ru/news/883410/?utm_campaign=883410&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.6](https://habr.com/ru/news/883406/?utm_campaign=883406&utm_source=habrahabr&utm_medium=rss)
+- [Saba от Mistral: региональная LLM, ориентированная на восточные языки](https://habr.com/ru/companies/bothub/news/883402/?utm_campaign=883402&utm_source=habrahabr&utm_medium=rss)
 - [Техподдержку российского игрового движка Nau Engine вместо VK будет осуществлять университет ИТМО при участии АПРИОРИ](https://habr.com/ru/news/883396/?utm_campaign=883396&utm_source=habrahabr&utm_medium=rss)
 - [Представлено расширение для Chrome и Firefox для быстрого переключения между поиском Google, Yandex, Brave и Perplexity](https://habr.com/ru/news/883394/?utm_campaign=883394&utm_source=habrahabr&utm_medium=rss)
-- [В спектакле «Робот, шпион и любовь к ИИ» дебютировала китайская робот-собака Unitree Go2](https://habr.com/ru/news/883350/?utm_campaign=883350&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/883330/?utm_campaign=883330&utm_source=habrahabr&utm_medium=rss)
-- [Угроза безопасности: как злоумышленники могут манипулировать AI-агентами](https://habr.com/ru/companies/bothub/news/883328/?utm_campaign=883328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
