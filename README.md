@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Параметры InfoWatch ARMA Стена &lpar;NGFW&rpar; подтверждены в тестировании ГК MONT](https://habr.com/ru/companies/infowatch/news/883520/?utm_campaign=883520&utm_source=habrahabr&utm_medium=rss)
-- [Параметры InfoWatch ARMA Стена &lpar;NGFW&rpar; подтверждены в тестировании ГК MONT](https://habr.com/ru/companies/infowatch/news/883516/?utm_campaign=883516&utm_source=habrahabr&utm_medium=rss)
-- [AMD устранила шесть уязвимостей в процессорах EPYC и Ryzen](https://habr.com/ru/news/883498/?utm_campaign=883498&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обнаружили первые в Рунете киберпреступления, связанные с темой цифрового рубля](https://habr.com/ru/news/883506/?utm_campaign=883506&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft потребовала учётной записи для работы с Notepad на ПК с Copilot+](https://habr.com/ru/news/883492/?utm_campaign=883492&utm_source=habrahabr&utm_medium=rss)
+- [Некоторые новые джуны на самом деле не умеют писать код без ИИ-помощников](https://habr.com/ru/news/883560/?utm_campaign=883560&utm_source=habrahabr&utm_medium=rss)
+- [«РТК‑Сервис» сообщил о полной поддержке телекоммуникационного оборудования Juniper в сетях «Ростелекома»](https://habr.com/ru/news/883554/?utm_campaign=883554&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft очистит интерфейс проводника Windows 11 для пользователей в ЕС](https://habr.com/ru/news/883528/?utm_campaign=883528&utm_source=habrahabr&utm_medium=rss)
+- [VVP Group начнёт производить смартфоны в Калуге](https://habr.com/ru/news/883512/?utm_campaign=883512&utm_source=habrahabr&utm_medium=rss)
+- [Вышел почтовый сервер Postfix 3.10.0](https://habr.com/ru/news/883540/?utm_campaign=883540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
