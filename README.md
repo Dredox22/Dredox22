@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мнение: из-за языковых моделей джуниоры перестают думать, решая проблемы с кодом](https://habr.com/ru/news/883762/?utm_campaign=883762&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила бесплатный курс по работе с нейросетевыми агентами](https://habr.com/ru/news/883758/?utm_campaign=883758&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представили SWE-Lancer: как ИИ заменит разработчиков в задачах на $1,000,000?](https://habr.com/ru/news/883734/?utm_campaign=883734&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из Стэнфорда обучили ИИ играть в Among Us: их агенты выигрывают людей уже в 45% случаев](https://habr.com/ru/news/883726/?utm_campaign=883726&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект учится понимать физику: как AI развивает интуитивные знания о мире](https://habr.com/ru/companies/bothub/news/883724/?utm_campaign=883724&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар» рассказала, как киберпреступники атаковали банки в 2024 году](https://habr.com/ru/news/883696/?utm_campaign=883696&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI меняет стратегию в области разработки с открытым исходным кодом: что ждать дальше?](https://habr.com/ru/companies/bothub/news/883694/?utm_campaign=883694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
