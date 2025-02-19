@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Компания «Актив» представила новый продукт Guardant Chip](https://habr.com/ru/companies/aktiv-company/news/883918/?utm_campaign=883918&utm_source=habrahabr&utm_medium=rss)
-- [В OpenSSH найдены две критические уязвимости](https://habr.com/ru/news/883824/?utm_campaign=883824&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12-10.14 до сентября 2025 года](https://habr.com/ru/news/883896/?utm_campaign=883896&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия AIDA64 7.60 без поддержки Windows 95 и 98](https://habr.com/ru/news/883856/?utm_campaign=883856&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft работает над приложением для передачи данных между двумя ПК](https://habr.com/ru/news/883850/?utm_campaign=883850&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» выпустила для обычных пользователей антивирус Kaspersky для Linux](https://habr.com/ru/news/883974/?utm_campaign=883974&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи смогут проверить на «Госуслугах» количество оформленных на них сим-карт](https://habr.com/ru/news/883972/?utm_campaign=883972&utm_source=habrahabr&utm_medium=rss)
+- [Google получила разрешение продавать книги напрямую клиентам через приложение Google Play Books для iOS](https://habr.com/ru/news/883970/?utm_campaign=883970&utm_source=habrahabr&utm_medium=rss)
+- [Российский рынок средств для защиты данных в 2024 году увеличился на 20%, достигнув 23 млрд рублей](https://habr.com/ru/news/883958/?utm_campaign=883958&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Солар»: число вирусов-майнеров в системах госорганизаций выросло](https://habr.com/ru/news/883956/?utm_campaign=883956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
