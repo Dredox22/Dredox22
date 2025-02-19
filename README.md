@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Сэму Альтману пока не о чем беспокоиться»: Grok 3 не обгоняет топовые решения OpenAI](https://habr.com/ru/companies/bothub/news/883768/?utm_campaign=883768&utm_source=habrahabr&utm_medium=rss)
+- [«Сэму Альтману пока не о чем беспокоиться»: Grok-3 не обгоняет топовые решения OpenAI](https://habr.com/ru/companies/bothub/news/883768/?utm_campaign=883768&utm_source=habrahabr&utm_medium=rss)
 - [Мнение: из-за языковых моделей джуниоры перестают думать, решая проблемы с кодом](https://habr.com/ru/news/883762/?utm_campaign=883762&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила бесплатный курс по работе с нейросетевыми агентами](https://habr.com/ru/news/883758/?utm_campaign=883758&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представили SWE-Lancer: как ИИ заменит разработчиков в задачах на $1,000,000?](https://habr.com/ru/news/883734/?utm_campaign=883734&utm_source=habrahabr&utm_medium=rss)
