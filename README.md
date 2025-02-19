@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Грег Кроа-Хартман привёл убедительные доводы в пользу написания новых драйверов ядра Linux на Rust](https://habr.com/ru/news/884010/?utm_campaign=884010&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity AI удаляет китайскую цензуру из Deepseek R1](https://habr.com/ru/companies/bothub/news/884004/?utm_campaign=884004&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» выпустила для обычных пользователей антивирус Kaspersky для Linux](https://habr.com/ru/news/883974/?utm_campaign=883974&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи смогут проверить на «Госуслугах» количество оформленных на них сим-карт](https://habr.com/ru/news/883972/?utm_campaign=883972&utm_source=habrahabr&utm_medium=rss)
 - [Google получила разрешение продавать книги напрямую клиентам через приложение Google Play Books для iOS](https://habr.com/ru/news/883970/?utm_campaign=883970&utm_source=habrahabr&utm_medium=rss)
-- [Российский рынок средств для защиты данных в 2024 году увеличился на 20%, достигнув 23 млрд рублей](https://habr.com/ru/news/883958/?utm_campaign=883958&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар»: число вирусов-майнеров в системах госорганизаций выросло](https://habr.com/ru/news/883956/?utm_campaign=883956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
