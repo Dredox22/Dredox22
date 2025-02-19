@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания «Актив» представила новый продукт Guardant Chip](https://habr.com/ru/companies/aktiv-company/news/883918/?utm_campaign=883918&utm_source=habrahabr&utm_medium=rss)
+- [В OpenSSH найдены две критические уязвимости](https://habr.com/ru/news/883824/?utm_campaign=883824&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12-10.14 до сентября 2025 года](https://habr.com/ru/news/883896/?utm_campaign=883896&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия AIDA64 7.60 без поддержки Windows 95 и 98](https://habr.com/ru/news/883856/?utm_campaign=883856&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft работает над приложением для передачи данных между двумя ПК](https://habr.com/ru/news/883850/?utm_campaign=883850&utm_source=habrahabr&utm_medium=rss)
-- [Джунов больше не будет / JVM бывает глубокой / Нас всех отсертифицируют | Spring АйО Подкаст №7](https://habr.com/ru/companies/spring_aio/news/883830/?utm_campaign=883830&utm_source=habrahabr&utm_medium=rss)
-- [F6 назвала главные киберугрозы 2025 года — вышел подробный анализ хакерских групп, атакующих Россию и СНГ](https://habr.com/ru/companies/F6/news/883832/?utm_campaign=883832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
