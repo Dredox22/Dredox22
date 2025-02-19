@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Евросоюзе заработал Aptoide — альтстор со старыми версиями игр для iOS](https://habr.com/ru/news/884102/?utm_campaign=884102&utm_source=habrahabr&utm_medium=rss)
 - [В МФТИ разрабатывают трёхдиапазонную аппаратуру связи для наноспутников](https://habr.com/ru/news/884088/?utm_campaign=884088&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского»: злоумышленники заражали устройства пользователей майнером под видом игр-симуляторов](https://habr.com/ru/news/884060/?utm_campaign=884060&utm_source=habrahabr&utm_medium=rss)
 - [На «Сибирской строительной неделе» компания «Нанософт» представила решения для проектирования управления строительством](https://habr.com/ru/companies/nanosoft/news/883728/?utm_campaign=883728&utm_source=habrahabr&utm_medium=rss)
 - [Hyperlume решает проблемы энергопотребления и задержки данных в центрах обработки информации](https://habr.com/ru/companies/bothub/news/884034/?utm_campaign=884034&utm_source=habrahabr&utm_medium=rss)
-- [Логические модели OpenAI получили два полезных обновления](https://habr.com/ru/companies/bothub/news/884024/?utm_campaign=884024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
