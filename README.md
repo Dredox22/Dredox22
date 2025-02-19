@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperlume решает проблемы энергопотребления и задержки данных в центрах обработки информации](https://habr.com/ru/companies/bothub/news/884034/?utm_campaign=884034&utm_source=habrahabr&utm_medium=rss)
 - [Логические модели OpenAI получили два полезных обновления](https://habr.com/ru/companies/bothub/news/884024/?utm_campaign=884024&utm_source=habrahabr&utm_medium=rss)
 - [Alpha3D и MoonlanderAI объединяют усилия: революция в создании игр и 3D-приложений](https://habr.com/ru/companies/bothub/news/884014/?utm_campaign=884014&utm_source=habrahabr&utm_medium=rss)
 - [Грег Кроа-Хартман привёл убедительные доводы в пользу написания новых драйверов ядра Linux на Rust](https://habr.com/ru/news/884010/?utm_campaign=884010&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity AI удаляет китайскую цензуру из Deepseek R1](https://habr.com/ru/companies/bothub/news/884004/?utm_campaign=884004&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» выпустила для обычных пользователей антивирус Kaspersky для Linux](https://habr.com/ru/news/883974/?utm_campaign=883974&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
