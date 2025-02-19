@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышли релизы безопасности Joomla 5.2.4 и Joomla 4.4.11](https://habr.com/ru/news/883788/?utm_campaign=883788&utm_source=habrahabr&utm_medium=rss)
+- [Линус Торвальдс заявил, что продолжит интеграцию кода Rust, несмотря на возражения мейнтейнеров ядра Linux](https://habr.com/ru/news/883786/?utm_campaign=883786&utm_source=habrahabr&utm_medium=rss)
+- [Из-за отсутствия поддержки 32-битного PhysX ПК с RTX 5090 в старых играх выдаёт 10-30 FPS, а с RTX 4090 — 100 FPS](https://habr.com/ru/news/883778/?utm_campaign=883778&utm_source=habrahabr&utm_medium=rss)
 - [«Сэму Альтману пока не о чем беспокоиться»: Grok-3 не обгоняет топовые решения OpenAI](https://habr.com/ru/companies/bothub/news/883768/?utm_campaign=883768&utm_source=habrahabr&utm_medium=rss)
 - [Мнение: из-за языковых моделей джуниоры перестают думать, решая проблемы с кодом](https://habr.com/ru/news/883762/?utm_campaign=883762&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила бесплатный курс по работе с нейросетевыми агентами](https://habr.com/ru/news/883758/?utm_campaign=883758&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представили SWE-Lancer: как ИИ заменит разработчиков в задачах на $1,000,000?](https://habr.com/ru/news/883734/?utm_campaign=883734&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из Стэнфорда обучили ИИ играть в Among Us: их агенты выигрывают людей уже в 45% случаев](https://habr.com/ru/news/883726/?utm_campaign=883726&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
