@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Джунов больше не будет / JVM бывает глубокой / Нас всех отсертифицируют | Spring АйО Подкаст №7](https://habr.com/ru/companies/spring_aio/news/883830/?utm_campaign=883830&utm_source=habrahabr&utm_medium=rss)
+- [F6 назвала главные киберугрозы 2025 года — вышел подробный анализ хакерских групп, атакующих Россию и СНГ](https://habr.com/ru/companies/F6/news/883832/?utm_campaign=883832&utm_source=habrahabr&utm_medium=rss)
 - [Skyworth представил G7F Pro: умный телевизор со встроенным DeepSeek](https://habr.com/ru/companies/bothub/news/883814/?utm_campaign=883814&utm_source=habrahabr&utm_medium=rss)
 - [В МТС сообщили о рисках для тайны связи в идее РКН о сборе IP-адресов пользовательского оборудования](https://habr.com/ru/news/883806/?utm_campaign=883806&utm_source=habrahabr&utm_medium=rss)
 - [Valve добавила в набор инструментов Source SDK исходный код игр Team Fortress 2](https://habr.com/ru/news/883796/?utm_campaign=883796&utm_source=habrahabr&utm_medium=rss)
-- [Вышли релизы безопасности Joomla 5.2.4 и Joomla 4.4.11](https://habr.com/ru/news/883788/?utm_campaign=883788&utm_source=habrahabr&utm_medium=rss)
-- [Линус Торвальдс заявил, что продолжит интеграцию кода Rust, несмотря на возражения мейнтейнеров ядра Linux](https://habr.com/ru/news/883786/?utm_campaign=883786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
