@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия AIDA64 7.60 без поддержки Windows 95 и 98](https://habr.com/ru/news/883856/?utm_campaign=883856&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft работает над приложением для передачи данных между двумя ПК](https://habr.com/ru/news/883850/?utm_campaign=883850&utm_source=habrahabr&utm_medium=rss)
 - [Джунов больше не будет / JVM бывает глубокой / Нас всех отсертифицируют | Spring АйО Подкаст №7](https://habr.com/ru/companies/spring_aio/news/883830/?utm_campaign=883830&utm_source=habrahabr&utm_medium=rss)
 - [F6 назвала главные киберугрозы 2025 года — вышел подробный анализ хакерских групп, атакующих Россию и СНГ](https://habr.com/ru/companies/F6/news/883832/?utm_campaign=883832&utm_source=habrahabr&utm_medium=rss)
 - [Skyworth представил G7F Pro: умный телевизор со встроенным DeepSeek](https://habr.com/ru/companies/bothub/news/883814/?utm_campaign=883814&utm_source=habrahabr&utm_medium=rss)
-- [В МТС сообщили о рисках для тайны связи в идее РКН о сборе IP-адресов пользовательского оборудования](https://habr.com/ru/news/883806/?utm_campaign=883806&utm_source=habrahabr&utm_medium=rss)
-- [Valve добавила в набор инструментов Source SDK исходный код игр Team Fortress 2](https://habr.com/ru/news/883796/?utm_campaign=883796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
