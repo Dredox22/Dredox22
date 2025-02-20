@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot в Excel теперь может ссылаться на файлы Word, PowerPoint и других приложений](https://habr.com/ru/news/884222/?utm_campaign=884222&utm_source=habrahabr&utm_medium=rss)
+- [«Галлюцинации» ИИ в судебных документах создают проблемы для юристов](https://habr.com/ru/news/884214/?utm_campaign=884214&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила первый сотовый модем под названием C1](https://habr.com/ru/news/884202/?utm_campaign=884202&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пока не будет поддерживать автоматический вход в учётные записи](https://habr.com/ru/news/884188/?utm_campaign=884188&utm_source=habrahabr&utm_medium=rss)
 - [Релиз менеджера файлов Total Commander 11.51](https://habr.com/ru/news/884178/?utm_campaign=884178&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум запустил индивидуальный формат курса «Мидл Python-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/883446/?utm_campaign=883446&utm_source=habrahabr&utm_medium=rss)
-- [Соучредитель Mozilla Митчелл Бейкер покинула совет директоров компании](https://habr.com/ru/news/884156/?utm_campaign=884156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
