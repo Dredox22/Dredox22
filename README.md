@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon закрыла Inspire — ленту новостей о продуктах, похожую на TikTok](https://habr.com/ru/news/884294/?utm_campaign=884294&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Microsoft Activation Scripts 3.0 с эксплойтом на основе TSforge для перманентной активации Windows 8+ и Office](https://habr.com/ru/news/884288/?utm_campaign=884288&utm_source=habrahabr&utm_medium=rss)
+- [«Столото» и F6 заблокировали более 10,5 тысяч мошеннических ресурсов в 2024 году](https://habr.com/ru/companies/F6/news/884284/?utm_campaign=884284&utm_source=habrahabr&utm_medium=rss)
 - [Google начала удалять расширение для блокировки рекламы uBlock Origin из Chrome Web Store](https://habr.com/ru/news/884264/?utm_campaign=884264&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Store получил улучшенный AI Hub для демонстрации «волшебных возможностей ИИ»](https://habr.com/ru/news/884242/?utm_campaign=884242&utm_source=habrahabr&utm_medium=rss)
-- [Google Lens получила новые ИИ-функции на iPhone](https://habr.com/ru/news/884228/?utm_campaign=884228&utm_source=habrahabr&utm_medium=rss)
-- [Copilot в Excel теперь может ссылаться на файлы Word, PowerPoint и других приложений](https://habr.com/ru/news/884222/?utm_campaign=884222&utm_source=habrahabr&utm_medium=rss)
-- [«Галлюцинации» ИИ в судебных документах создают проблемы для юристов](https://habr.com/ru/news/884214/?utm_campaign=884214&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
