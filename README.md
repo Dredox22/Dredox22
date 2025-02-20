@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Метеорологическое управление Китая обдумывает использование DeepSeek для своей работы](https://habr.com/ru/news/884128/?utm_campaign=884128&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст восстановил код Research UNIX V2 Beta 1972 года](https://habr.com/ru/news/884126/?utm_campaign=884126&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mesa 25.0](https://habr.com/ru/news/884120/?utm_campaign=884120&utm_source=habrahabr&utm_medium=rss)
 - [Наблюдение: ИИ-генератор изображений от Apple предвзят в расовых вопросах](https://habr.com/ru/news/884114/?utm_campaign=884114&utm_source=habrahabr&utm_medium=rss)
 - [В Евросоюзе заработал Aptoide — альтстор со старыми версиями игр для iOS](https://habr.com/ru/news/884102/?utm_campaign=884102&utm_source=habrahabr&utm_medium=rss)
-- [В МФТИ разрабатывают трёхдиапазонную аппаратуру связи для наноспутников](https://habr.com/ru/news/884088/?utm_campaign=884088&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского»: злоумышленники заражали устройства пользователей майнером под видом игр-симуляторов](https://habr.com/ru/news/884060/?utm_campaign=884060&utm_source=habrahabr&utm_medium=rss)
-- [На «Сибирской строительной неделе» компания «Нанософт» представила решения для проектирования управления строительством](https://habr.com/ru/companies/nanosoft/news/883728/?utm_campaign=883728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
