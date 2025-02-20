@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon закрыла Inspire — ленту новостей о продуктах, похожую на TikTok](https://habr.com/ru/news/884294/?utm_campaign=884294&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Activation Scripts 3.0 с эксплойтом на основе TSforge для перманентной активации Windows 8+ и Office](https://habr.com/ru/news/884288/?utm_campaign=884288&utm_source=habrahabr&utm_medium=rss)
-- [«Столото» и F6 заблокировали более 10,5 тысяч мошеннических ресурсов в 2024 году](https://habr.com/ru/companies/F6/news/884284/?utm_campaign=884284&utm_source=habrahabr&utm_medium=rss)
-- [Google начала удалять расширение для блокировки рекламы uBlock Origin из Chrome Web Store](https://habr.com/ru/news/884264/?utm_campaign=884264&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Store получил улучшенный AI Hub для демонстрации «волшебных возможностей ИИ»](https://habr.com/ru/news/884242/?utm_campaign=884242&utm_source=habrahabr&utm_medium=rss)
+- [Шестая конференция по практической кибербезопасности OFFZONE 2025 пройдёт в Москве 21 и 22 августа](https://habr.com/ru/news/884338/?utm_campaign=884338&utm_source=habrahabr&utm_medium=rss)
+- [В Минцифры планируют жёстче наказывать кибермошенников за дипфейки](https://habr.com/ru/news/884334/?utm_campaign=884334&utm_source=habrahabr&utm_medium=rss)
+- [Вышла стабильная версия свободного 2D САПР LibreCAD 2.2.1.1](https://habr.com/ru/news/884330/?utm_campaign=884330&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Evo 2: ИИ генерирующий ДНК](https://habr.com/ru/news/884324/?utm_campaign=884324&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Солар»: 35% утечек конфиденциальной информации происходит через мессенджеры](https://habr.com/ru/companies/solarsecurity/news/884314/?utm_campaign=884314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
