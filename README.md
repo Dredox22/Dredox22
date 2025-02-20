@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Военнослужащий США признал вину во взломе AT&amp;amp;T и Verizon и краже данных абонентов](https://habr.com/ru/news/884408/?utm_campaign=884408&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte приглашает на презентацию книги Брюса Сильвера «BPMN метод и стиль»](https://habr.com/ru/companies/glowbyte/news/884392/?utm_campaign=884392&utm_source=habrahabr&utm_medium=rss)
 - [AI выигрывает 40% от бюджета в миллион долларов в последнем тесте кодирования OpenAI](https://habr.com/ru/companies/bothub/news/884390/?utm_campaign=884390&utm_source=habrahabr&utm_medium=rss)
 - [Google удаляет Gemini из основного поискового приложения на iOS](https://habr.com/ru/companies/bothub/news/884378/?utm_campaign=884378&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wireshark 4.4.4](https://habr.com/ru/news/884380/?utm_campaign=884380&utm_source=habrahabr&utm_medium=rss)
-- [Кто и зачем ворует данные финансовых компаний? Исследование InfoWatch](https://habr.com/ru/companies/infowatch/news/884366/?utm_campaign=884366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
