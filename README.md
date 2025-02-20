@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс Практикум запустил индивидуальный формат курса «Мидл Python-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/883446/?utm_campaign=883446&utm_source=habrahabr&utm_medium=rss)
+- [Соучредитель Mozilla Митчелл Бейкер покинула совет директоров компании](https://habr.com/ru/news/884156/?utm_campaign=884156&utm_source=habrahabr&utm_medium=rss)
 - [Murena начала продавать планшеты Pixel в рамках проекта deGoogled — без обычного набора приложений и сервисов Google](https://habr.com/ru/news/884140/?utm_campaign=884140&utm_source=habrahabr&utm_medium=rss)
 - [Метеорологическое управление Китая обдумывает использование DeepSeek для своей работы](https://habr.com/ru/news/884128/?utm_campaign=884128&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст восстановил код Research UNIX V2 Beta 1972 года](https://habr.com/ru/news/884126/?utm_campaign=884126&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mesa 25.0](https://habr.com/ru/news/884120/?utm_campaign=884120&utm_source=habrahabr&utm_medium=rss)
-- [Наблюдение: ИИ-генератор изображений от Apple предвзят в расовых вопросах](https://habr.com/ru/news/884114/?utm_campaign=884114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
