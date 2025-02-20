@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GlowByte приглашает на презентацию книги Брюса Сильвера «BPMN метод и стиль»](https://habr.com/ru/companies/glowbyte/news/884392/?utm_campaign=884392&utm_source=habrahabr&utm_medium=rss)
+- [AI выигрывает 40% от бюджета в миллион долларов в последнем тесте кодирования OpenAI](https://habr.com/ru/companies/bothub/news/884390/?utm_campaign=884390&utm_source=habrahabr&utm_medium=rss)
+- [Google удаляет Gemini из основного поискового приложения на iOS](https://habr.com/ru/companies/bothub/news/884378/?utm_campaign=884378&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Wireshark 4.4.4](https://habr.com/ru/news/884380/?utm_campaign=884380&utm_source=habrahabr&utm_medium=rss)
 - [Кто и зачем ворует данные финансовых компаний? Исследование InfoWatch](https://habr.com/ru/companies/infowatch/news/884366/?utm_campaign=884366&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.35: поддержка MISRA C 2023, плагин для Qt Creator 15 и многое другое](https://habr.com/ru/companies/pvs-studio/news/884360/?utm_campaign=884360&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и генеративный ИИ: как компания пытается сохранить интерес разработчиков и игроков](https://habr.com/ru/companies/bothub/news/884348/?utm_campaign=884348&utm_source=habrahabr&utm_medium=rss)
-- [Шестая конференция по практической кибербезопасности OFFZONE 2025 пройдёт в Москве 21 и 22 августа](https://habr.com/ru/news/884338/?utm_campaign=884338&utm_source=habrahabr&utm_medium=rss)
-- [В Минцифры планируют жёстче наказывать кибермошенников за дипфейки](https://habr.com/ru/news/884334/?utm_campaign=884334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
