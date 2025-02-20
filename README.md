@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто и зачем ворует данные финансовых компаний? Исследование InfoWatch](https://habr.com/ru/companies/infowatch/news/884366/?utm_campaign=884366&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.35: поддержка MISRA C 2023, плагин для Qt Creator 15 и многое другое](https://habr.com/ru/companies/pvs-studio/news/884360/?utm_campaign=884360&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и генеративный ИИ: как компания пытается сохранить интерес разработчиков и игроков](https://habr.com/ru/companies/bothub/news/884348/?utm_campaign=884348&utm_source=habrahabr&utm_medium=rss)
 - [Шестая конференция по практической кибербезопасности OFFZONE 2025 пройдёт в Москве 21 и 22 августа](https://habr.com/ru/news/884338/?utm_campaign=884338&utm_source=habrahabr&utm_medium=rss)
 - [В Минцифры планируют жёстче наказывать кибермошенников за дипфейки](https://habr.com/ru/news/884334/?utm_campaign=884334&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия свободного 2D САПР LibreCAD 2.2.1.1](https://habr.com/ru/news/884330/?utm_campaign=884330&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Evo 2: ИИ генерирующий ДНК](https://habr.com/ru/news/884324/?utm_campaign=884324&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар»: 35% утечек конфиденциальной информации происходит через мессенджеры](https://habr.com/ru/companies/solarsecurity/news/884314/?utm_campaign=884314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
