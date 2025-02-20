@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple представила первый сотовый модем под названием C1](https://habr.com/ru/news/884202/?utm_campaign=884202&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft пока не будет поддерживать автоматический вход в учётные записи](https://habr.com/ru/news/884188/?utm_campaign=884188&utm_source=habrahabr&utm_medium=rss)
+- [Релиз менеджера файлов Total Commander 11.51](https://habr.com/ru/news/884178/?utm_campaign=884178&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил индивидуальный формат курса «Мидл Python-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/883446/?utm_campaign=883446&utm_source=habrahabr&utm_medium=rss)
 - [Соучредитель Mozilla Митчелл Бейкер покинула совет директоров компании](https://habr.com/ru/news/884156/?utm_campaign=884156&utm_source=habrahabr&utm_medium=rss)
-- [Murena начала продавать планшеты Pixel в рамках проекта deGoogled — без обычного набора приложений и сервисов Google](https://habr.com/ru/news/884140/?utm_campaign=884140&utm_source=habrahabr&utm_medium=rss)
-- [Метеорологическое управление Китая обдумывает использование DeepSeek для своей работы](https://habr.com/ru/news/884128/?utm_campaign=884128&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст восстановил код Research UNIX V2 Beta 1972 года](https://habr.com/ru/news/884126/?utm_campaign=884126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
