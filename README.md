@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала удалять расширение для блокировки рекламы uBlock Origin из Chrome Web Store](https://habr.com/ru/news/884264/?utm_campaign=884264&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Store получил улучшенный AI Hub для демонстрации «волшебных возможностей ИИ»](https://habr.com/ru/news/884242/?utm_campaign=884242&utm_source=habrahabr&utm_medium=rss)
+- [Google Lens получила новые ИИ-функции на iPhone](https://habr.com/ru/news/884228/?utm_campaign=884228&utm_source=habrahabr&utm_medium=rss)
 - [Copilot в Excel теперь может ссылаться на файлы Word, PowerPoint и других приложений](https://habr.com/ru/news/884222/?utm_campaign=884222&utm_source=habrahabr&utm_medium=rss)
 - [«Галлюцинации» ИИ в судебных документах создают проблемы для юристов](https://habr.com/ru/news/884214/?utm_campaign=884214&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила первый сотовый модем под названием C1](https://habr.com/ru/news/884202/?utm_campaign=884202&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пока не будет поддерживать автоматический вход в учётные записи](https://habr.com/ru/news/884188/?utm_campaign=884188&utm_source=habrahabr&utm_medium=rss)
-- [Релиз менеджера файлов Total Commander 11.51](https://habr.com/ru/news/884178/?utm_campaign=884178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
