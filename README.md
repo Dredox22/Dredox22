@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Сети торгуют призовыми местами на олимпиадах, чтобы пройти в университет без экзаменов](https://habr.com/ru/news/884600/?utm_campaign=884600&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: тёмная тема не помогает сберечь заряд смартфона и ноутбука](https://habr.com/ru/news/884596/?utm_campaign=884596&utm_source=habrahabr&utm_medium=rss)
+- [Selectel прошел проверку с помощью пентеста](https://habr.com/ru/companies/selectel/news/884578/?utm_campaign=884578&utm_source=habrahabr&utm_medium=rss)
 - [Как масштабирование во время тестирования раскрывает скрытые способности к рассуждению в небольших языковых моделях](https://habr.com/ru/companies/bothub/news/884540/?utm_campaign=884540&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого каталогизатора домашней библиотеки MyLibrary 3.2](https://habr.com/ru/news/884552/?utm_campaign=884552&utm_source=habrahabr&utm_medium=rss)
-- [Студия Schell Games анонсировала выход Among Us 3D для ПК](https://habr.com/ru/news/884542/?utm_campaign=884542&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia запускает платформу искусственного интеллекта для обучения языку жестов](https://habr.com/ru/companies/bothub/news/884528/?utm_campaign=884528&utm_source=habrahabr&utm_medium=rss)
-- [Ставка ИИ на $305 миллионов: модели логического вывода увеличивают спрос на графические процессоры](https://habr.com/ru/companies/bothub/news/884524/?utm_campaign=884524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
