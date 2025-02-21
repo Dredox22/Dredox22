@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [1.4 миллиарда долларов: час назад Bybit сообщила о взломе. Это крупнейшая кража в истории криптовалют [обновляется]](https://habr.com/ru/news/884788/?utm_campaign=884788&utm_source=habrahabr&utm_medium=rss)
 - [Вышла бета-версия File Pilot для Windows 7+ — это продвинутый проводник для Windows с упором на удобство и быстроту](https://habr.com/ru/news/884782/?utm_campaign=884782&utm_source=habrahabr&utm_medium=rss)
 - [Apple отключила сквозное шифрование облачных данных Advanced Data Protection в Великобритании по требованию регулятора](https://habr.com/ru/news/884776/?utm_campaign=884776&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.85.0 &lpar;Rust 2024&rpar;](https://habr.com/ru/news/884768/?utm_campaign=884768&utm_source=habrahabr&utm_medium=rss)
 - [Руководство ЦБ РФ познакомилось с решениями ГК «Солар»](https://habr.com/ru/companies/solarsecurity/news/884764/?utm_campaign=884764&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft ускорит загрузку приложений в Windows 11 с помощью плагина Winget в PowerToys](https://habr.com/ru/news/884750/?utm_campaign=884750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
