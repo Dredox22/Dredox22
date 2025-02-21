@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Autodesk со 2 апреля 2025 года потребует двухфакторную аутентификацию](https://habr.com/ru/news/884630/?utm_campaign=884630&utm_source=habrahabr&utm_medium=rss)
+- [Релиз САПР KiCad 9.0](https://habr.com/ru/news/884626/?utm_campaign=884626&utm_source=habrahabr&utm_medium=rss)
+- [IT в реальном секторе: стань докладчиком на конференции Industrial++](https://habr.com/ru/companies/oleg-bunin/news/884614/?utm_campaign=884614&utm_source=habrahabr&utm_medium=rss)
+- [1С-Битрикс удерживает лидерство среди CMS-платформ в РФ](https://habr.com/ru/companies/bitrix/news/884602/?utm_campaign=884602&utm_source=habrahabr&utm_medium=rss)
 - [В Сети торгуют призовыми местами на олимпиадах, чтобы пройти в университет без экзаменов](https://habr.com/ru/news/884600/?utm_campaign=884600&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: тёмная тема не помогает сберечь заряд смартфона и ноутбука](https://habr.com/ru/news/884596/?utm_campaign=884596&utm_source=habrahabr&utm_medium=rss)
-- [Selectel прошел проверку с помощью пентеста](https://habr.com/ru/companies/selectel/news/884578/?utm_campaign=884578&utm_source=habrahabr&utm_medium=rss)
-- [Как масштабирование во время тестирования раскрывает скрытые способности к рассуждению в небольших языковых моделях](https://habr.com/ru/companies/bothub/news/884540/?utm_campaign=884540&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого каталогизатора домашней библиотеки MyLibrary 3.2](https://habr.com/ru/news/884552/?utm_campaign=884552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
