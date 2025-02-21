@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Банки выступили против безусловного возмещения даже части похищенных средств](https://habr.com/ru/news/884730/?utm_campaign=884730&utm_source=habrahabr&utm_medium=rss)
 - [14-летний подросток, известный как «человек-калькулятор», побил 6 мировых математических рекордов за один день](https://habr.com/ru/news/884714/?utm_campaign=884714&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор принудительно включил компанию Cloudflare в реестр организаторов распространения информации &lpar;ОРИ&rpar;](https://habr.com/ru/news/884710/?utm_campaign=884710&utm_source=habrahabr&utm_medium=rss)
 - [Северокорейские хакеры атакуют фрилансеров, притворяясь HR](https://habr.com/ru/companies/ddosguard/news/884682/?utm_campaign=884682&utm_source=habrahabr&utm_medium=rss)
-- [Релиз решения для администрирования Postgres Pro Enterprise Manager 2.0](https://habr.com/ru/companies/postgrespro/news/884672/?utm_campaign=884672&utm_source=habrahabr&utm_medium=rss)
-- [Autodesk со 2 апреля 2025 года потребует двухфакторную аутентификацию](https://habr.com/ru/news/884630/?utm_campaign=884630&utm_source=habrahabr&utm_medium=rss)
+- [Релиз решения для администрирования Postgres Pro Enterprise Manager 2.0.1](https://habr.com/ru/companies/postgrespro/news/884672/?utm_campaign=884672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
