@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого каталогизатора домашней библиотеки MyLibrary 3.2](https://habr.com/ru/news/884552/?utm_campaign=884552&utm_source=habrahabr&utm_medium=rss)
+- [Студия Schell Games анонсировала выход Among Us 3D для ПК](https://habr.com/ru/news/884542/?utm_campaign=884542&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia запускает платформу искусственного интеллекта для обучения языку жестов](https://habr.com/ru/companies/bothub/news/884528/?utm_campaign=884528&utm_source=habrahabr&utm_medium=rss)
 - [Ставка ИИ на $305 миллионов: модели логического вывода увеличивают спрос на графические процессоры](https://habr.com/ru/companies/bothub/news/884524/?utm_campaign=884524&utm_source=habrahabr&utm_medium=rss)
 - [Инновационный подход NYU Langone Health к медицинскому образованию с использованием искусственного интеллекта](https://habr.com/ru/companies/bothub/news/884520/?utm_campaign=884520&utm_source=habrahabr&utm_medium=rss)
-- [Партнёрство Voltron Data и Accenture: ускорение обработки данных для внедрения генеративного ИИ](https://habr.com/ru/companies/bothub/news/884514/?utm_campaign=884514&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс заявил о неконструктивном диалоге по коду Rust в ядре Linux и призвал сопровождающих отвечать за свой код](https://habr.com/ru/news/884512/?utm_campaign=884512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
