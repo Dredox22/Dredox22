@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Rust 1.85.0 &lpar;Rust 2024&rpar;](https://habr.com/ru/news/884768/?utm_campaign=884768&utm_source=habrahabr&utm_medium=rss)
+- [Руководство ЦБ РФ познакомилось с решениями ГК «Солар»](https://habr.com/ru/companies/solarsecurity/news/884764/?utm_campaign=884764&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft ускорит загрузку приложений в Windows 11 с помощью плагина Winget в PowerToys](https://habr.com/ru/news/884750/?utm_campaign=884750&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» разработал новый автопилот для самолетов малой авиации](https://habr.com/ru/news/884752/?utm_campaign=884752&utm_source=habrahabr&utm_medium=rss)
 - [Банки выступили против безусловного возмещения даже части похищенных средств](https://habr.com/ru/news/884730/?utm_campaign=884730&utm_source=habrahabr&utm_medium=rss)
-- [14-летний подросток, известный как «человек-калькулятор», побил 6 мировых математических рекордов за один день](https://habr.com/ru/news/884714/?utm_campaign=884714&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор принудительно включил компанию Cloudflare в реестр организаторов распространения информации &lpar;ОРИ&rpar;](https://habr.com/ru/news/884710/?utm_campaign=884710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
