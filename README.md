@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торвальдс заявил о неконструктивном диалоге по коду Rust в ядре Linux и призвал сопровождающих отвечать за свой код](https://habr.com/ru/news/884512/?utm_campaign=884512&utm_source=habrahabr&utm_medium=rss)
 - [Figure демонстрирует возможности Helix: Роботы без подготовки эффективно выполняют домашние задачи](https://habr.com/ru/companies/bothub/news/884486/?utm_campaign=884486&utm_source=habrahabr&utm_medium=rss)
 - [Вот уж действительно революция… Нейросети добрались до Minecraft](https://habr.com/ru/news/884476/?utm_campaign=884476&utm_source=habrahabr&utm_medium=rss)
 - [Военнослужащий США признал вину во взломе AT&amp;amp;T и Verizon и краже данных абонентов](https://habr.com/ru/news/884408/?utm_campaign=884408&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte приглашает на презентацию книги Брюса Сильвера «BPMN метод и стиль»](https://habr.com/ru/companies/glowbyte/news/884392/?utm_campaign=884392&utm_source=habrahabr&utm_medium=rss)
-- [AI выигрывает 40% от бюджета в миллион долларов в последнем тесте кодирования OpenAI](https://habr.com/ru/companies/bothub/news/884390/?utm_campaign=884390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
