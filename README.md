@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Angry Miao представила очень лёгкую беспроводную мышку AM Infinity Mouse с бесконечной «батареей»](https://habr.com/ru/news/884894/?utm_campaign=884894&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Limine 9.0 Bootloader](https://habr.com/ru/news/884886/?utm_campaign=884886&utm_source=habrahabr&utm_medium=rss)
 - [Взлет акций из-за кремния, воздушный стилус от Google и лидерство TSMC: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/884766/?utm_campaign=884766&utm_source=habrahabr&utm_medium=rss)
 - [Snipping Tool получил новую функцию для записи экрана](https://habr.com/ru/news/884844/?utm_campaign=884844&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia выпустила на рынок RTX 5090, RTX 5090D и RTX 5070 Ti без части блоков рендеринга из-за проблемы на производстве](https://habr.com/ru/news/884852/?utm_campaign=884852&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка Android Auto нарушает работу беспроводного подключения смартфонов](https://habr.com/ru/news/884838/?utm_campaign=884838&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры атаковали Bybit и смогли похитить 70% Ethereum-активов криптобиржи](https://habr.com/ru/news/884822/?utm_campaign=884822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
