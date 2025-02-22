@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ошибка Android Auto нарушает работу беспроводного подключения смартфонов](https://habr.com/ru/news/884838/?utm_campaign=884838&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры атаковали Bybit и смогли похитить 70% Ethereum-активов криптобиржи](https://habr.com/ru/news/884822/?utm_campaign=884822&utm_source=habrahabr&utm_medium=rss)
 - [1.4 миллиарда долларов: час назад Bybit сообщила о взломе. Это крупнейшая кража в истории криптовалют [UPD 3]](https://habr.com/ru/news/884788/?utm_campaign=884788&utm_source=habrahabr&utm_medium=rss)
 - [Вышла бета-версия File Pilot для Windows 7+ — это продвинутый проводник для Windows с упором на удобство и быстроту](https://habr.com/ru/news/884782/?utm_campaign=884782&utm_source=habrahabr&utm_medium=rss)
 - [Apple отключила сквозное шифрование облачных данных Advanced Data Protection в Великобритании по требованию регулятора](https://habr.com/ru/news/884776/?utm_campaign=884776&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.85.0 &lpar;Rust 2024&rpar;](https://habr.com/ru/news/884768/?utm_campaign=884768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
