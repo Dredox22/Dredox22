@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект PSTris — тетрис на PostScript](https://habr.com/ru/news/884958/?utm_campaign=884958&utm_source=habrahabr&utm_medium=rss)
+- [Bybit выплатит до $140 млн за помощь в поимке хакеров, укравших $1,4 млрд, хотя по багбаунти платит максимум 4 тыс. USDT](https://habr.com/ru/news/884956/?utm_campaign=884956&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники Meta* обсуждали использование защищенного авторским правом контента для обучения ИИ](https://habr.com/ru/companies/bothub/news/884934/?utm_campaign=884934&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI делает ставку на будущее: планы по строительству центров обработки данных и отказ от Microsoft](https://habr.com/ru/companies/bothub/news/884928/?utm_campaign=884928&utm_source=habrahabr&utm_medium=rss)
 - [Системы ИИ осознают собственные ограничения, когда у них больше времени на «размышления»](https://habr.com/ru/companies/bothub/news/884926/?utm_campaign=884926&utm_source=habrahabr&utm_medium=rss)
-- [Angry Miao представила очень лёгкую беспроводную мышку AM Infinity Mouse с бесконечной «батареей»](https://habr.com/ru/news/884894/?utm_campaign=884894&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Limine 9.0 Bootloader](https://habr.com/ru/news/884886/?utm_campaign=884886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
