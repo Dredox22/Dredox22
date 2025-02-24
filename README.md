@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские учёные с помощью нейросетей усовершенствовали процесс получения биотоплива](https://habr.com/ru/news/885226/?utm_campaign=885226&utm_source=habrahabr&utm_medium=rss)
+- [ИИ в сфере высшего образования: 7 основных выводов из отчёта OpenAI об использовании ChatGPT студентами](https://habr.com/ru/companies/bothub/news/885256/?utm_campaign=885256&utm_source=habrahabr&utm_medium=rss)
+- [Casio прекращает разработку новых электронных словарей](https://habr.com/ru/news/885244/?utm_campaign=885244&utm_source=habrahabr&utm_medium=rss)
 - [Деятели культуры Великобритании призывают сохранить авторское право на фоне развития искусственного интеллекта](https://habr.com/ru/companies/bothub/news/885240/?utm_campaign=885240&utm_source=habrahabr&utm_medium=rss)
 - [Московский метрополитен ищет поставщика серверов для оплаты проезда по лицу](https://habr.com/ru/news/885216/?utm_campaign=885216&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ может жульничать при риске проигрыша](https://habr.com/ru/news/885206/?utm_campaign=885206&utm_source=habrahabr&utm_medium=rss)
-- [Amazon закроет Appstore на Android](https://habr.com/ru/news/885192/?utm_campaign=885192&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сокращает аренду центров обработки данных: стратегия компании в сфере искусственного интеллекта под вопросом](https://habr.com/ru/companies/bothub/news/885176/?utm_campaign=885176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
