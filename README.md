@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Деятели культуры Великобритании призывают сохранить авторское право на фоне развития искусственного интеллекта](https://habr.com/ru/companies/bothub/news/885240/?utm_campaign=885240&utm_source=habrahabr&utm_medium=rss)
+- [Московский метрополитен ищет поставщика серверов для оплаты проезда по лицу](https://habr.com/ru/news/885216/?utm_campaign=885216&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: ИИ может жульничать при риске проигрыша](https://habr.com/ru/news/885206/?utm_campaign=885206&utm_source=habrahabr&utm_medium=rss)
 - [Amazon закроет Appstore на Android](https://habr.com/ru/news/885192/?utm_campaign=885192&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сокращает аренду центров обработки данных: стратегия компании в сфере искусственного интеллекта под вопросом](https://habr.com/ru/companies/bothub/news/885176/?utm_campaign=885176&utm_source=habrahabr&utm_medium=rss)
-- [Подсистема Windows 11 для Android получила обновление перед удалением](https://habr.com/ru/news/885172/?utm_campaign=885172&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники начали чаще выдавать себя за разработчиков софта](https://habr.com/ru/news/885168/?utm_campaign=885168&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies купила долю в «Вирусблокаде» и планирует выйти на рынок антивирусов](https://habr.com/ru/news/885166/?utm_campaign=885166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
