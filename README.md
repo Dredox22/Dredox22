@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Рост популярности агентов, использующих браузеры: почему Proxy превосходит Operator](https://habr.com/ru/companies/bothub/news/885358/?utm_campaign=885358&utm_source=habrahabr&utm_medium=rss)
+- [Стратегия Apple по укреплению позиций американской промышленности: инвестиции в США на $500 миллиардов](https://habr.com/ru/companies/bothub/news/885346/?utm_campaign=885346&utm_source=habrahabr&utm_medium=rss)
+- [В России продают контрафактную электронику под видом отечественной](https://habr.com/ru/news/885336/?utm_campaign=885336&utm_source=habrahabr&utm_medium=rss)
+- [Meta AI расширяет своё присутствие на Ближнем Востоке и в Северной Африке](https://habr.com/ru/companies/bothub/news/885334/?utm_campaign=885334&utm_source=habrahabr&utm_medium=rss)
 - [Building the Cloud — эпизод 3: Object Storage](https://habr.com/ru/companies/mws/news/885286/?utm_campaign=885286&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» запустила бесплатный онлайн‑курс о безопасности в интернете](https://habr.com/ru/news/885280/?utm_campaign=885280&utm_source=habrahabr&utm_medium=rss)
-- [В МФТИ разрабатывают HR-платформу для прогнозирования увольнения сотрудников](https://habr.com/ru/news/885278/?utm_campaign=885278&utm_source=habrahabr&utm_medium=rss)
-- [YandexGPT заняла первое место в англо‑русском переводе среди нейросетей по результатам бенчмарка DiBiMT](https://habr.com/ru/news/885268/?utm_campaign=885268&utm_source=habrahabr&utm_medium=rss)
-- [РКН: в РФ обеспечены технологические основы для устойчивого Рунета без зависимости от зарубежных сетевых центров](https://habr.com/ru/news/885264/?utm_campaign=885264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
