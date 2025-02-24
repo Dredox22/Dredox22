@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/885400/?utm_campaign=885400&utm_source=habrahabr&utm_medium=rss)
+- [Huginn: языковая модель, которая может углублять свои мыслительные процессы](https://habr.com/ru/companies/bothub/news/885398/?utm_campaign=885398&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики опубликовали LeKiwi — проект бюджетного робота с манипулятором](https://habr.com/ru/news/885396/?utm_campaign=885396&utm_source=habrahabr&utm_medium=rss)
 - [MongoDB приобретает Voyage AI для улучшения генерации с использованием расширенного поиска](https://habr.com/ru/companies/bothub/news/885368/?utm_campaign=885368&utm_source=habrahabr&utm_medium=rss)
 - [Рост популярности агентов, использующих браузеры: почему Proxy превосходит Operator](https://habr.com/ru/companies/bothub/news/885358/?utm_campaign=885358&utm_source=habrahabr&utm_medium=rss)
-- [Стратегия Apple по укреплению позиций американской промышленности: инвестиции в США на $500 миллиардов](https://habr.com/ru/companies/bothub/news/885346/?utm_campaign=885346&utm_source=habrahabr&utm_medium=rss)
-- [В России продают контрафактную электронику под видом отечественной](https://habr.com/ru/news/885336/?utm_campaign=885336&utm_source=habrahabr&utm_medium=rss)
-- [Meta AI расширяет своё присутствие на Ближнем Востоке и в Северной Африке](https://habr.com/ru/companies/bothub/news/885334/?utm_campaign=885334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
