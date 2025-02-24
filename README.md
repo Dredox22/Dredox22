@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Figure представила универсальную модель для управления роботами-гуманоидами](https://habr.com/ru/news/885160/?utm_campaign=885160&utm_source=habrahabr&utm_medium=rss)
-- [Google Cloud представила квантово-безопасные цифровые подписи](https://habr.com/ru/news/885152/?utm_campaign=885152&utm_source=habrahabr&utm_medium=rss)
-- [Вышла интегрированная среда разработки Apache NetBeans 25](https://habr.com/ru/news/885142/?utm_campaign=885142&utm_source=habrahabr&utm_medium=rss)
-- [Австралийский регулятор оштрафовал Telegram за задержку ответа на вопросы о насилии над детьми и терроризме](https://habr.com/ru/news/885136/?utm_campaign=885136&utm_source=habrahabr&utm_medium=rss)
-- [Релиз текстового редактора GNU Emacs 30.1](https://habr.com/ru/news/885114/?utm_campaign=885114&utm_source=habrahabr&utm_medium=rss)
+- [Amazon закроет Appstore на Android](https://habr.com/ru/news/885192/?utm_campaign=885192&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сокращает аренду центров обработки данных: стратегия компании в сфере искусственного интеллекта под вопросом](https://habr.com/ru/companies/bothub/news/885176/?utm_campaign=885176&utm_source=habrahabr&utm_medium=rss)
+- [Подсистема Windows 11 для Android получила обновление перед удалением](https://habr.com/ru/news/885172/?utm_campaign=885172&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники начали чаще выдавать себя за разработчиков софта](https://habr.com/ru/news/885168/?utm_campaign=885168&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies купила долю в «Вирусблокаде» и планирует выйти на рынок антивирусов](https://habr.com/ru/news/885166/?utm_campaign=885166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
