@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB приобретает Voyage AI для улучшения генерации с использованием расширенного поиска](https://habr.com/ru/companies/bothub/news/885368/?utm_campaign=885368&utm_source=habrahabr&utm_medium=rss)
 - [Рост популярности агентов, использующих браузеры: почему Proxy превосходит Operator](https://habr.com/ru/companies/bothub/news/885358/?utm_campaign=885358&utm_source=habrahabr&utm_medium=rss)
 - [Стратегия Apple по укреплению позиций американской промышленности: инвестиции в США на $500 миллиардов](https://habr.com/ru/companies/bothub/news/885346/?utm_campaign=885346&utm_source=habrahabr&utm_medium=rss)
 - [В России продают контрафактную электронику под видом отечественной](https://habr.com/ru/news/885336/?utm_campaign=885336&utm_source=habrahabr&utm_medium=rss)
 - [Meta AI расширяет своё присутствие на Ближнем Востоке и в Северной Африке](https://habr.com/ru/companies/bothub/news/885334/?utm_campaign=885334&utm_source=habrahabr&utm_medium=rss)
-- [Building the Cloud — эпизод 3: Object Storage](https://habr.com/ru/companies/mws/news/885286/?utm_campaign=885286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
