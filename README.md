@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как эффективно обучать крупные модели ИИ: руководство Hugging Face с открытым исходным кодом](https://habr.com/ru/companies/bothub/news/885402/?utm_campaign=885402&utm_source=habrahabr&utm_medium=rss)
-- [iPhone 15 Pro и 15 Pro Max получат поддержку функции Visual Intelligence](https://habr.com/ru/news/885406/?utm_campaign=885406&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/885400/?utm_campaign=885400&utm_source=habrahabr&utm_medium=rss)
-- [Huginn: языковая модель, которая может углублять свои мыслительные процессы](https://habr.com/ru/companies/bothub/news/885398/?utm_campaign=885398&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики опубликовали LeKiwi — открытый проект бюджетного робота с манипулятором](https://habr.com/ru/news/885396/?utm_campaign=885396&utm_source=habrahabr&utm_medium=rss)
+- [«Бюро1440» запустила автоматизированное производство солнечных батарей](https://habr.com/ru/news/885430/?utm_campaign=885430&utm_source=habrahabr&utm_medium=rss)
+- [НКЦКИ предупредил о компрометации информационной инфраструктуры группы компаний «Ланит»](https://habr.com/ru/news/885420/?utm_campaign=885420&utm_source=habrahabr&utm_medium=rss)
+- [Тактическая инди-игра «Спарта 2035» вышла в ранний доступ](https://habr.com/ru/news/885418/?utm_campaign=885418&utm_source=habrahabr&utm_medium=rss)
+- [Долгожданная модель от Anthropic: вышел Claude 3.7 &lpar;да, его и правда так назвали&rpar;](https://habr.com/ru/news/885416/?utm_campaign=885416&utm_source=habrahabr&utm_medium=rss)
+- [Началась работа над дополнением к «Смуте» под названием «Земский собор»](https://habr.com/ru/news/885412/?utm_campaign=885412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
