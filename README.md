@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Российские учёные с помощью нейросетей усовершенствовали процесс получения биотоплива](https://habr.com/ru/news/885226/?utm_campaign=885226&utm_source=habrahabr&utm_medium=rss)
-- [ИИ в сфере высшего образования: 7 основных выводов из отчёта OpenAI об использовании ChatGPT студентами](https://habr.com/ru/companies/bothub/news/885256/?utm_campaign=885256&utm_source=habrahabr&utm_medium=rss)
-- [Casio прекращает разработку новых электронных словарей](https://habr.com/ru/news/885244/?utm_campaign=885244&utm_source=habrahabr&utm_medium=rss)
-- [Деятели культуры Великобритании призывают сохранить авторское право на фоне развития искусственного интеллекта](https://habr.com/ru/companies/bothub/news/885240/?utm_campaign=885240&utm_source=habrahabr&utm_medium=rss)
-- [Московский метрополитен ищет поставщика серверов для оплаты проезда по лицу](https://habr.com/ru/news/885216/?utm_campaign=885216&utm_source=habrahabr&utm_medium=rss)
+- [Building the Cloud — эпизод 3: Object Storage](https://habr.com/ru/companies/mws/news/885286/?utm_campaign=885286&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» запустила бесплатный онлайн‑курс о безопасности в интернете](https://habr.com/ru/news/885280/?utm_campaign=885280&utm_source=habrahabr&utm_medium=rss)
+- [В МФТИ разрабатывают HR-платформу для прогнозирования увольнения сотрудников](https://habr.com/ru/news/885278/?utm_campaign=885278&utm_source=habrahabr&utm_medium=rss)
+- [YandexGPT заняла первое место в англо‑русском переводе среди нейросетей по результатам бенчмарка DiBiMT](https://habr.com/ru/news/885268/?utm_campaign=885268&utm_source=habrahabr&utm_medium=rss)
+- [РКН: в РФ обеспечены технологические основы для устойчивого Рунета без зависимости от зарубежных сетевых центров](https://habr.com/ru/news/885264/?utm_campaign=885264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
