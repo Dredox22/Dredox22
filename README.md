@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз текстового редактора GNU Emacs 30.1](https://habr.com/ru/news/885114/?utm_campaign=885114&utm_source=habrahabr&utm_medium=rss)
 - [Apple ограничила разработчикам из РФ доступ к инструментам Apple Developer Enterprise Program &lpar;ADEP&rpar;](https://habr.com/ru/news/885110/?utm_campaign=885110&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь заметил в RTX 5080 нехватку части блоков рендеринга, ранее Nvidia заявляла такое у RTX 5090/5090D и 5070 Ti](https://habr.com/ru/news/885102/?utm_campaign=885102&utm_source=habrahabr&utm_medium=rss)
 - [Бинду Редди посоветовала американским госслужащим использовать ИИ, чтобы избежать увольнения](https://habr.com/ru/news/885072/?utm_campaign=885072&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.3](https://habr.com/ru/news/885058/?utm_campaign=885058&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia подтвердила наличие проблем с видеокартами серии RTX 50 с BSOD и чёрным экраном после обновления драйверов](https://habr.com/ru/news/885016/?utm_campaign=885016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
