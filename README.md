@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МВД Австралии запретило госведомствам пользоваться продуктами «Лаборатории Касперского»](https://habr.com/ru/news/885480/?utm_campaign=885480&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК рекомендовала отказаться от использования мобильных ОС на базе AOSP в критически важных системах](https://habr.com/ru/news/885442/?utm_campaign=885442&utm_source=habrahabr&utm_medium=rss)
 - [Apple вложит более $500 млрд в расширение производства в США и создаст 20 тыс. новых рабочих мест](https://habr.com/ru/news/885438/?utm_campaign=885438&utm_source=habrahabr&utm_medium=rss)
 - [«Бюро1440» запустила автоматизированное производство солнечных батарей](https://habr.com/ru/news/885430/?utm_campaign=885430&utm_source=habrahabr&utm_medium=rss)
 - [НКЦКИ предупредил о компрометации информационной инфраструктуры группы компаний «Ланит»](https://habr.com/ru/news/885420/?utm_campaign=885420&utm_source=habrahabr&utm_medium=rss)
-- [Тактическая инди-игра «Спарта 2035» вышла в ранний доступ](https://habr.com/ru/news/885418/?utm_campaign=885418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
