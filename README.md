@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираем змеиные повадки: новые инструменты ReaverBits в атаках на российские компании](https://habr.com/ru/companies/F6/news/885566/?utm_campaign=885566&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity выпустит ИИ-браузер Comet](https://habr.com/ru/news/885578/?utm_campaign=885578&utm_source=habrahabr&utm_medium=rss)
 - [AT&amp;amp;T и Verizon провели первые видеозвонки со смартфонов на спутник AST SpaceMobile](https://habr.com/ru/news/885550/?utm_campaign=885550&utm_source=habrahabr&utm_medium=rss)
 - [Альянсы в мире облачных технологий: Salesforce и Google Cloud объединяют усилия](https://habr.com/ru/companies/bothub/news/885516/?utm_campaign=885516&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge позволяет ограничивать использование оперативной памяти во время игр на Windows 11](https://habr.com/ru/news/885538/?utm_campaign=885538&utm_source=habrahabr&utm_medium=rss)
-- [Intel запускает процессоры Xeon 6 с высокопроизводительными ядрами](https://habr.com/ru/companies/bothub/news/885512/?utm_campaign=885512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
