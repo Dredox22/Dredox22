@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AT&amp;amp;T и Verizon провели первые видеозвонки со смартфонов на спутник AST SpaceMobile](https://habr.com/ru/news/885550/?utm_campaign=885550&utm_source=habrahabr&utm_medium=rss)
+- [Альянсы в мире облачных технологий: Salesforce и Google Cloud объединяют усилия](https://habr.com/ru/companies/bothub/news/885516/?utm_campaign=885516&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge позволяет ограничивать использование оперативной памяти во время игр на Windows 11](https://habr.com/ru/news/885538/?utm_campaign=885538&utm_source=habrahabr&utm_medium=rss)
+- [Intel запускает процессоры Xeon 6 с производительными ядрами для 2-кратной обработки ИИ](https://habr.com/ru/companies/bothub/news/885512/?utm_campaign=885512&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity создаёт собственный браузер с функциями искусственного интеллекта](https://habr.com/ru/companies/bothub/news/885504/?utm_campaign=885504&utm_source=habrahabr&utm_medium=rss)
-- [Релиз CrystalDiskInfo 9.6.0](https://habr.com/ru/news/885508/?utm_campaign=885508&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT не единственный: Grok 3 от xAI набирает популярность среди пользователей](https://habr.com/ru/companies/bothub/news/885500/?utm_campaign=885500&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic протестировала модель Claude 3.7 Sonnet на игре Pokémon Red](https://habr.com/ru/companies/bothub/news/885496/?utm_campaign=885496&utm_source=habrahabr&utm_medium=rss)
-- [Apache выпускает WSS4J 4.0](https://habr.com/ru/companies/cloud4y/news/885494/?utm_campaign=885494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
