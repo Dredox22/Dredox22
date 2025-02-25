@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft сократила список поддерживаемых процессоров в Windows 11 24H2](https://habr.com/ru/companies/itsumma/news/885700/?utm_campaign=885700&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI заблокировала аккаунты ChatGPT, используемые северокорейскими хакерами](https://habr.com/ru/news/885704/?utm_campaign=885704&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики научили нейросетевых агентов общаться на только им понятном языке, чтобы экономить ресурсы](https://habr.com/ru/news/885684/?utm_campaign=885684&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia признала, что также выпустила графические чипы для видеокарт RTX 5080 без частей блоков рендеринга ROP](https://habr.com/ru/news/885680/?utm_campaign=885680&utm_source=habrahabr&utm_medium=rss)
 - [Google откажется от SMS-аутентификации в Gmail и внедрит QR-коды](https://habr.com/ru/news/885678/?utm_campaign=885678&utm_source=habrahabr&utm_medium=rss)
