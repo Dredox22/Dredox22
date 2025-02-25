@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity создаёт собственный браузер с функциями искусственного интеллекта](https://habr.com/ru/companies/bothub/news/885504/?utm_campaign=885504&utm_source=habrahabr&utm_medium=rss)
+- [Релиз CrystalDiskInfo 9.6.0](https://habr.com/ru/news/885508/?utm_campaign=885508&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT не единственный: Grok 3 от xAI набирает популярность среди пользователей](https://habr.com/ru/companies/bothub/news/885500/?utm_campaign=885500&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic протестировала модель Claude 3.7 Sonnet на игре Pokémon Red](https://habr.com/ru/companies/bothub/news/885496/?utm_campaign=885496&utm_source=habrahabr&utm_medium=rss)
 - [Apache выпускает WSS4J 4.0](https://habr.com/ru/companies/cloud4y/news/885494/?utm_campaign=885494&utm_source=habrahabr&utm_medium=rss)
-- [Музыканты выпустили «тихий альбом» в ответ на изменения в законодательстве об авторском праве](https://habr.com/ru/companies/bothub/news/885490/?utm_campaign=885490&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого музыкального плеера Aqualung 2.0,](https://habr.com/ru/news/885488/?utm_campaign=885488&utm_source=habrahabr&utm_medium=rss)
-- [Релиз мобильной ОС Sailfish 5.0](https://habr.com/ru/news/885484/?utm_campaign=885484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
