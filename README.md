@@ -68,7 +68,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [После критики в Y Combinator решили прекратили рекламу ИИ-системы Optifye.ai для контроля на потогонных фабриках](https://habr.com/ru/news/885742/?utm_campaign=885742&utm_source=habrahabr&utm_medium=rss)
+- [После критики в Y Combinator решили прекратить рекламу ИИ-системы Optifye.ai для контроля на потогонных фабриках](https://habr.com/ru/news/885742/?utm_campaign=885742&utm_source=habrahabr&utm_medium=rss)
 - [«Гарда» провела реструктуризацию](https://habr.com/ru/news/885726/?utm_campaign=885726&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI заблокировала аккаунты ChatGPT, используемые северокорейскими хакерами](https://habr.com/ru/news/885704/?utm_campaign=885704&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики научили нейросетевых агентов общаться на только им понятном языке, чтобы экономить ресурсы](https://habr.com/ru/news/885684/?utm_campaign=885684&utm_source=habrahabr&utm_medium=rss)
