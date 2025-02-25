@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft сократила список поддерживаемых процессоров в Windows 11 24H2](https://habr.com/ru/companies/itsumma/news/885700/?utm_campaign=885700&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики научили нейросетевых агентов общаться на только им понятном языке, чтобы экономить ресурсы](https://habr.com/ru/news/885684/?utm_campaign=885684&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia признала, что также выпустила графические чипы для видеокарт RTX 5080 без частей блоков рендеринга ROP](https://habr.com/ru/news/885680/?utm_campaign=885680&utm_source=habrahabr&utm_medium=rss)
+- [Google откажется от SMS-аутентификации в Gmail и внедрит QR-коды](https://habr.com/ru/news/885678/?utm_campaign=885678&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики мультисервисного мессенджера Beeper выпустили обновление клиентов](https://habr.com/ru/news/885640/?utm_campaign=885640&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует бесплатный Office для Windows 10/11, но с рекламой и с некоторыми ограничениями](https://habr.com/ru/news/885630/?utm_campaign=885630&utm_source=habrahabr&utm_medium=rss)
-- [Разбираем змеиные повадки: новые инструменты ReaverBits в атаках на российские компании](https://habr.com/ru/companies/F6/news/885566/?utm_campaign=885566&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity выпустит ИИ-браузер Comet](https://habr.com/ru/news/885578/?utm_campaign=885578&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T и Verizon провели первые видеозвонки со смартфонов на спутник AST SpaceMobile](https://habr.com/ru/news/885550/?utm_campaign=885550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
