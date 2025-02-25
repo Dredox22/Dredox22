@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google предлагает разработчикам бесплатный инструмент на основе ИИ для программирования](https://habr.com/ru/companies/bothub/news/885758/?utm_campaign=885758&utm_source=habrahabr&utm_medium=rss)
+- [PhotoDoodle: система ИИ для редактирования изображений с сохранением стиля и композиции](https://habr.com/ru/companies/bothub/news/885752/?utm_campaign=885752&utm_source=habrahabr&utm_medium=rss)
 - [После критики в Y Combinator решили прекратить рекламу ИИ-системы Optifye.ai для контроля на потогонных фабриках](https://habr.com/ru/news/885742/?utm_campaign=885742&utm_source=habrahabr&utm_medium=rss)
 - [«Гарда» провела реструктуризацию](https://habr.com/ru/news/885726/?utm_campaign=885726&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI заблокировала аккаунты ChatGPT, используемые северокорейскими хакерами](https://habr.com/ru/news/885704/?utm_campaign=885704&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики научили нейросетевых агентов общаться на только им понятном языке, чтобы экономить ресурсы](https://habr.com/ru/news/885684/?utm_campaign=885684&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia признала, что также выпустила графические чипы для видеокарт RTX 5080 без частей блоков рендеринга ROP](https://habr.com/ru/news/885680/?utm_campaign=885680&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
