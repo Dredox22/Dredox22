@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики мультисервисного мессенджера Beeper выпустили обновление клиентов](https://habr.com/ru/news/885640/?utm_campaign=885640&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует бесплатный Office для Windows 10/11, но с рекламой и с некоторыми ограничениями](https://habr.com/ru/news/885630/?utm_campaign=885630&utm_source=habrahabr&utm_medium=rss)
 - [Разбираем змеиные повадки: новые инструменты ReaverBits в атаках на российские компании](https://habr.com/ru/companies/F6/news/885566/?utm_campaign=885566&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity выпустит ИИ-браузер Comet](https://habr.com/ru/news/885578/?utm_campaign=885578&utm_source=habrahabr&utm_medium=rss)
 - [AT&amp;amp;T и Verizon провели первые видеозвонки со смартфонов на спутник AST SpaceMobile](https://habr.com/ru/news/885550/?utm_campaign=885550&utm_source=habrahabr&utm_medium=rss)
-- [Альянсы в мире облачных технологий: Salesforce и Google Cloud объединяют усилия](https://habr.com/ru/companies/bothub/news/885516/?utm_campaign=885516&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge позволяет ограничивать использование оперативной памяти во время игр на Windows 11](https://habr.com/ru/news/885538/?utm_campaign=885538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
