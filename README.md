@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновлено ПО InfoWatch по защите данных](https://habr.com/ru/companies/infowatch/news/885932/?utm_campaign=885932&utm_source=habrahabr&utm_medium=rss)
+- [Clicks Technology представила чехлы-клавиатуры для Android-смартфонов](https://habr.com/ru/news/885926/?utm_campaign=885926&utm_source=habrahabr&utm_medium=rss)
+- [Apple исправила баг голосовой диктовки с заменой «Трампа» на «расист»](https://habr.com/ru/news/885916/?utm_campaign=885916&utm_source=habrahabr&utm_medium=rss)
+- [Новая модель ИИ Anthropic позволяет пользователям решать, насколько она обоснованна](https://habr.com/ru/companies/bothub/news/885856/?utm_campaign=885856&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek возобновляет доступ к моделям ИИ на фоне обострения конкуренции с Китаем](https://habr.com/ru/companies/bothub/news/885848/?utm_campaign=885848&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft расширила возможности Copilot для бесплатных пользователей](https://habr.com/ru/companies/itsumma/news/885884/?utm_campaign=885884&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия Zlib-rs, написанная на Rust, не только безопаснее, но и теперь превосходит реализацию Zlib на C](https://habr.com/ru/news/885872/?utm_campaign=885872&utm_source=habrahabr&utm_medium=rss)
-- [Сеть без риска: контроль доступа для защиты данных и устройств](https://habr.com/ru/companies/ussc/news/885870/?utm_campaign=885870&utm_source=habrahabr&utm_medium=rss)
-- [Signal уйдёт из Швеции, если в стране одобрят закон о бэкдоре](https://habr.com/ru/news/885866/?utm_campaign=885866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
