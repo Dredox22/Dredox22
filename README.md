@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft удалила тему Material из маркетплейса VS Code, в ней нашли вредоносный код](https://habr.com/ru/news/886028/?utm_campaign=886028&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI начали выкатку GPT-4.5, публичный релиз ожидается сегодня-завтра](https://habr.com/ru/news/886006/?utm_campaign=886006&utm_source=habrahabr&utm_medium=rss)
+- [В работе оператора связи «Билайн» произошёл сбой из-за DDoS-атаки](https://habr.com/ru/news/886000/?utm_campaign=886000&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный ИИ-помощник Microsoft Copilot выдаёт скрипты MAS с GitHub для бесплатной активации Windows 7-11](https://habr.com/ru/news/885988/?utm_campaign=885988&utm_source=habrahabr&utm_medium=rss)
 - [Университет Шотландии получил грант на создание универсального терминала для подключения к спутникам на разных орбитах](https://habr.com/ru/news/885974/?utm_campaign=885974&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft приостановила выпуск обновлённого индикатора батареи для Windows 11](https://habr.com/ru/news/885964/?utm_campaign=885964&utm_source=habrahabr&utm_medium=rss)
-- [Международные игры по кибербезопасности пройдут в России в 2025 году](https://habr.com/ru/companies/pt/news/885960/?utm_campaign=885960&utm_source=habrahabr&utm_medium=rss)
-- [Warner Bros. Games подтвердила закрытие Monolith Productions, Player First Games и WB San Diego](https://habr.com/ru/news/885952/?utm_campaign=885952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
