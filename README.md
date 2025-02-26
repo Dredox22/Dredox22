@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs представил автономную модель преобразования речи в текст Scribe](https://habr.com/ru/companies/bothub/news/886176/?utm_campaign=886176&utm_source=habrahabr&utm_medium=rss)
+- [СУБД EdgeDB переименована в проект Gel](https://habr.com/ru/news/886174/?utm_campaign=886174&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft блокирует установку Windows 11 24H2 на ПК с AutoCAD](https://habr.com/ru/news/886162/?utm_campaign=886162&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: доступ к тысячам приватных GitHub-репозиториев можно получить с помощью Copilot](https://habr.com/ru/news/886160/?utm_campaign=886160&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» переходит на «Амиконнект» для безопасного подключения к сети Интернет сотрудников с удалённым режимом работы](https://habr.com/ru/news/886138/?utm_campaign=886138&utm_source=habrahabr&utm_medium=rss)
-- [Amazon представляет новую и улучшенную Alexa+](https://habr.com/ru/companies/bothub/news/886136/?utm_campaign=886136&utm_source=habrahabr&utm_medium=rss)
-- [xAI расширяет границы возможностей ИИ с новым голосовым режимом Grok 3](https://habr.com/ru/companies/bothub/news/886128/?utm_campaign=886128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
