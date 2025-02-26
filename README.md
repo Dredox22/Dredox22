@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs открывает возможность публикации аудиокниг для авторов](https://habr.com/ru/companies/bothub/news/885838/?utm_campaign=885838&utm_source=habrahabr&utm_medium=rss)
-- [Функция Deep Research в ChatGPT обновляется и становится общедоступной](https://habr.com/ru/companies/bothub/news/885832/?utm_campaign=885832&utm_source=habrahabr&utm_medium=rss)
-- [Релиз VidCoder 11.10 — открытого проекта для копирования DVD/Blu-ray и перекодирования видео для ПК на Windows](https://habr.com/ru/news/885820/?utm_campaign=885820&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустила SourceCraft — платформу для разработки, тестирования и сборки проектов](https://habr.com/ru/news/885816/?utm_campaign=885816&utm_source=habrahabr&utm_medium=rss)
-- [Argon 40 представила Upton One — ноутбук на базе Raspberry Pi Compute Module 5](https://habr.com/ru/news/885812/?utm_campaign=885812&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия Zlib-rs, написанная на Rust, не только безопаснее, но и теперь превосходит реализацию Zlib на C](https://habr.com/ru/news/885872/?utm_campaign=885872&utm_source=habrahabr&utm_medium=rss)
+- [Сеть без риска: контроль доступа для защиты данных и устройств](https://habr.com/ru/companies/ussc/news/885870/?utm_campaign=885870&utm_source=habrahabr&utm_medium=rss)
+- [Signal уйдёт из Швеции, если в стране одобрят закон о бэкдоре](https://habr.com/ru/news/885866/?utm_campaign=885866&utm_source=habrahabr&utm_medium=rss)
+- [Apptronik расширяет производство гуманоидных роботов: новое партнёрство и планы на будущее](https://habr.com/ru/companies/bothub/news/885842/?utm_campaign=885842&utm_source=habrahabr&utm_medium=rss)
+- [Сопровождающий ядра Linux Кристоф Хеллвиг ушёл из части проекта после критики Торвальдса на непринятие патчей с Rust](https://habr.com/ru/news/885860/?utm_campaign=885860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
