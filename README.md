@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Функция Deep Research в ChatGPT обновляется и становится общедоступной](https://habr.com/ru/companies/bothub/news/885832/?utm_campaign=885832&utm_source=habrahabr&utm_medium=rss)
 - [Релиз VidCoder 11.10 — открытого проекта для копирования DVD/Blu-ray и перекодирования видео для ПК на Windows](https://habr.com/ru/news/885820/?utm_campaign=885820&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустила SourceCraft — платформу для разработки, тестирования и сборки проектов](https://habr.com/ru/news/885816/?utm_campaign=885816&utm_source=habrahabr&utm_medium=rss)
 - [Argon 40 представила Upton One — ноутбук на базе Raspberry Pi Compute Module 5](https://habr.com/ru/news/885812/?utm_campaign=885812&utm_source=habrahabr&utm_medium=rss)
 - [Touch grass: разработчик анонсировал приложение, которое заставляет пользователя трогать траву, если тот засиделся](https://habr.com/ru/news/885806/?utm_campaign=885806&utm_source=habrahabr&utm_medium=rss)
-- [Google предлагает разработчикам бесплатный инструмент на основе ИИ для программирования](https://habr.com/ru/companies/bothub/news/885758/?utm_campaign=885758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
