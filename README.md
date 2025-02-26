@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft удалила тему Material из маркетплейса VS Code, в ней нашли вредоносный код](https://habr.com/ru/news/886028/?utm_campaign=886028&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI начали выкатку GPT-4.5, публичный релиз ожидается сегодня-завтра](https://habr.com/ru/news/886006/?utm_campaign=886006&utm_source=habrahabr&utm_medium=rss)
-- [В работе оператора связи «Билайн» произошёл сбой из-за DDoS-атаки](https://habr.com/ru/news/886000/?utm_campaign=886000&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный ИИ-помощник Microsoft Copilot выдаёт скрипты MAS с GitHub для бесплатной активации Windows 7-11](https://habr.com/ru/news/885988/?utm_campaign=885988&utm_source=habrahabr&utm_medium=rss)
-- [Университет Шотландии получил грант на создание универсального терминала для подключения к спутникам на разных орбитах](https://habr.com/ru/news/885974/?utm_campaign=885974&utm_source=habrahabr&utm_medium=rss)
+- [Когда ИИ-риэлтор убеждает лучше людей: новое исследование](https://habr.com/ru/news/886094/?utm_campaign=886094&utm_source=habrahabr&utm_medium=rss)
+- [Как не потерять деньги и команду, внедряя искусственный интеллект в e-commerce](https://habr.com/ru/companies/agima/news/886092/?utm_campaign=886092&utm_source=habrahabr&utm_medium=rss)
+- [НСПК сообщила о переходе на отечественные аппаратные модули безопасности](https://habr.com/ru/news/886084/?utm_campaign=886084&utm_source=habrahabr&utm_medium=rss)
+- [Обновление KB5052093 для Windows 11 24H2 исправляет ошибки и повышает производительность Проводника](https://habr.com/ru/news/886076/?utm_campaign=886076&utm_source=habrahabr&utm_medium=rss)
+- [В ответ на ИИ-систему Optifye.ai для контроля на потогонных фабриках вышел открытый проект Fire your own worker 17](https://habr.com/ru/news/886068/?utm_campaign=886068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
