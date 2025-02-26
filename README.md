@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» переходит на «Амиконнект» для безопасного подключения к сети Интернет сотрудников с удалённым режимом работы](https://habr.com/ru/news/886138/?utm_campaign=886138&utm_source=habrahabr&utm_medium=rss)
+- [Amazon представляет новую и улучшенную Alexa+](https://habr.com/ru/companies/bothub/news/886136/?utm_campaign=886136&utm_source=habrahabr&utm_medium=rss)
 - [xAI расширяет границы возможностей ИИ с новым голосовым режимом Grok 3](https://habr.com/ru/companies/bothub/news/886128/?utm_campaign=886128&utm_source=habrahabr&utm_medium=rss)
 - [Apple и Индонезия договорились об условиях снятия запрета на продажу iPhone 16](https://habr.com/ru/news/886102/?utm_campaign=886102&utm_source=habrahabr&utm_medium=rss)
 - [Когда ИИ-риэлтор убеждает лучше людей: новое исследование](https://habr.com/ru/news/886094/?utm_campaign=886094&utm_source=habrahabr&utm_medium=rss)
-- [Как не потерять деньги и команду, внедряя искусственный интеллект в e-commerce](https://habr.com/ru/companies/agima/news/886092/?utm_campaign=886092&utm_source=habrahabr&utm_medium=rss)
-- [НСПК сообщила о переходе на отечественные аппаратные модули безопасности](https://habr.com/ru/news/886084/?utm_campaign=886084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
