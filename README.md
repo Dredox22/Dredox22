@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram тестирует платные сообщения](https://habr.com/ru/news/886422/?utm_campaign=886422&utm_source=habrahabr&utm_medium=rss)
-- [В разработке находится эмулятор RPCS3 на Android для запуска игр PS3](https://habr.com/ru/news/886406/?utm_campaign=886406&utm_source=habrahabr&utm_medium=rss)
-- [Valve использовала наработки движка Godot в Team Fortress 2](https://habr.com/ru/news/886392/?utm_campaign=886392&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» подвёл итоги программы «Охота за ошибками» 2024 и выплатил более 50 млн рублей белым хакерам за уязвимости](https://habr.com/ru/news/886372/?utm_campaign=886372&utm_source=habrahabr&utm_medium=rss)
-- [Selectel выпустил бесплатный базовый курс по JavaScript](https://habr.com/ru/companies/selectel/news/886260/?utm_campaign=886260&utm_source=habrahabr&utm_medium=rss)
+- [Как хакеры атакуют АСУ ТП — исследование InfoWatch](https://habr.com/ru/companies/infowatch/news/886436/?utm_campaign=886436&utm_source=habrahabr&utm_medium=rss)
+- [CyberCamp открывает сезон митапом на тему DFIR](https://habr.com/ru/companies/jetinfosystems/news/886434/?utm_campaign=886434&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Mercury Coder: первая модель на принципиально новой архитектуре dLLM, в 10 раз быстрее LLM](https://habr.com/ru/news/886432/?utm_campaign=886432&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик мобильных игр Black Caviar Games заявил о своём возрождении](https://habr.com/ru/news/886428/?utm_campaign=886428&utm_source=habrahabr&utm_medium=rss)
+- [Сатья Наделла: ценность ИИ проявится, когда выйдет нейросетевое приложение, похожее на электронную почту или Excel](https://habr.com/ru/news/886426/?utm_campaign=886426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
