@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На вебинаре расскажем, как страховая компания автоматизировала комплаенс и процессы ПОД/ФТ](https://habr.com/ru/companies/hflabs/news/886146/?utm_campaign=886146&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой платформы для организации совместной работы Nextcloud Hub 10](https://habr.com/ru/news/886244/?utm_campaign=886244&utm_source=habrahabr&utm_medium=rss)
 - [Перевозчик ищет пару: F6 обнаружила новую схему шантажа компаний, допустивших утечку данных](https://habr.com/ru/companies/F6/news/886074/?utm_campaign=886074&utm_source=habrahabr&utm_medium=rss)
 - [PIX Robotics запускает «PIX Триатлон 2.0» — новый расширенный курс по работе с данными и бизнес-процессами](https://habr.com/ru/companies/pix_robotics/news/886118/?utm_campaign=886118&utm_source=habrahabr&utm_medium=rss)
 - [ФБР считает хакеров из Северной Кореи ответственными за кражу криптовалюты Ethereum на сумму $1,5 млрд с биржи Bybit](https://habr.com/ru/news/886230/?utm_campaign=886230&utm_source=habrahabr&utm_medium=rss)
-- [Obsidian отменила корпоративные лицензии, компании могут пользоваться инструментом бесплатно](https://habr.com/ru/news/886216/?utm_campaign=886216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
