@@ -41,6 +41,7 @@
   <!--<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;&nbsp;-->
   <!--<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp;-->
 </p>
+
 <br>
 
 <hr>
@@ -48,18 +49,29 @@
 <h3 align="center"> :fire: My Stats :</h3>
 <br>
 
-<p align="center"
+<p align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredox22&theme=radical&layout=compact&langs_count=6)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dredox22&hide=prs,issues,contribs&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 
-<p align="center"
+</p>
+
+<p align="center">
+  
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+</p>
+
+<p align="center">
 
   ![Карточка профиля:](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dredox22&theme=solarized_dark)
   ![Статистика языков в коммитах:](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dredox22&theme=solarized_dark)
   ![Статистика языков в репозиториях:](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dredox22&theme=solarized_dark)
   ![Статистика профиля:](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dredox22&theme=solarized_dark)
   ![Данные по коммитам за сутки:](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)
+  ![](https://komarev.com/ghpvc/?username=Dredox22)
+  
+</p>
 
 <br>
 
@@ -74,6 +86,7 @@
 - [«Яндекс» подвёл итоги программы «Охота за ошибками» 2024 и выплатил более 50 млн рублей белым хакерам за уязвимости](https://habr.com/ru/news/886372/?utm_campaign=886372&utm_source=habrahabr&utm_medium=rss)
 - [Selectel выпустил бесплатный базовый курс по JavaScript](https://habr.com/ru/companies/selectel/news/886260/?utm_campaign=886260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
+
 <br>
 
 <hr>
