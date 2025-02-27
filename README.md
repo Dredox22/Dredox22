@@ -63,10 +63,14 @@
   ![Статистика языков в репозиториях:](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dredox22&theme=solarized_dark)
   ![Статистика профиля:](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dredox22&theme=solarized_dark)
   ![Данные по коммитам за сутки:](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)
+  
   <br>
+  
   ![](https://komarev.com/ghpvc/?username=Dredox22)
   
 </p>
+
+<hr>
 
 <br>
 
@@ -75,12 +79,15 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 </p>
+
 <br>
 <p align="center">
-  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </p>
+
 <br>
+
 <hr>
 
 <h4 align="center"> :newspaper: Habr news :</h4>
