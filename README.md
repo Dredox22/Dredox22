@@ -72,12 +72,12 @@
 
 <p align="center">
   
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 </p>
 <br>
 <p align="center">
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </p>
 <br>
