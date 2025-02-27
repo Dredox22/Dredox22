@@ -68,11 +68,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» подвёл итоги программы «Охота за ошибками» 2024 и выплатил более 50 млн рублей белым хакерам за уязвимости](https://habr.com/ru/news/886372/?utm_campaign=886372&utm_source=habrahabr&utm_medium=rss)
+- [Selectel выпустил бесплатный базовый курс по JavaScript](https://habr.com/ru/companies/selectel/news/886260/?utm_campaign=886260&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla обновила условия использования Firefox](https://habr.com/ru/news/886328/?utm_campaign=886328&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудник Disney скачал с GitHub бесплатный ИИ-инструмент, что привело к масштабной утечке данных компании](https://habr.com/ru/news/886324/?utm_campaign=886324&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила проблему аутентификации Entra ID из-за изменений DNS](https://habr.com/ru/news/886310/?utm_campaign=886310&utm_source=habrahabr&utm_medium=rss)
-- [Orion soft выпустил серию обновлений ПО для управления виртуальной и облачной ИТ-инфраструктурой Cloudlink](https://habr.com/ru/companies/orion_soft/news/886290/?utm_campaign=886290&utm_source=habrahabr&utm_medium=rss)
-- [Покупатели антивирусов Avast в США получат компенсации](https://habr.com/ru/news/886282/?utm_campaign=886282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
