@@ -29,7 +29,7 @@
   <!--<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;-->
   <!--<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;-->
   <!--<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;-->
-  <!--<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">-->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
   <!--<img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />&nbsp;&nbsp;-->
   <!--<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;-->
   <!--<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp;-->
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <!--<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />&nbsp;&nbsp;-->
-  <!--<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;&nbsp;-->
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;&nbsp;
   <!--<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp;&nbsp;-->
 </p>
 
@@ -57,24 +57,30 @@
 </p>
 
 <p align="center">
-  
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-</p>
-
-<p align="center">
 
   ![Карточка профиля:](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dredox22&theme=solarized_dark)
   ![Статистика языков в коммитах:](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dredox22&theme=solarized_dark)
   ![Статистика языков в репозиториях:](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dredox22&theme=solarized_dark)
   ![Статистика профиля:](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dredox22&theme=solarized_dark)
   ![Данные по коммитам за сутки:](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dredox22&theme=solarized_dark)
+  <br>
   ![](https://komarev.com/ghpvc/?username=Dredox22)
   
 </p>
 
 <br>
 
+<p align="center">
+  
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+</p>
+<br>
+<p align="center">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</p>
+<br>
 <hr>
 
 <h4 align="center"> :newspaper: Habr news :</h4>
