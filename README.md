@@ -93,7 +93,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел GPT-4.5 от OpenAI [обновляется]](https://habr.com/ru/news/886532/?utm_campaign=886532&utm_source=habrahabr&utm_medium=rss)
+- [Вышел GPT-4.5 от OpenAI [обновляется, UPD 3]](https://habr.com/ru/news/886532/?utm_campaign=886532&utm_source=habrahabr&utm_medium=rss)
 - [Пишу unstyled UI потому что могу](https://habr.com/ru/news/886530/?utm_campaign=886530&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia выпустила видеодрайвер 572.60, который устраняет проблемы с чёрным экраном на ПК с видеокартами серии RTX 50](https://habr.com/ru/news/886490/?utm_campaign=886490&utm_source=habrahabr&utm_medium=rss)
 - [В январе 2025 года РКН выявил 10 фактов утечек персональных данных, содержащих 6,9 млн записей](https://habr.com/ru/news/886474/?utm_campaign=886474&utm_source=habrahabr&utm_medium=rss)
