@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple позволит родителям сообщать разработчикам возраст ребёнка без других личных данных](https://habr.com/ru/news/886808/?utm_campaign=886808&utm_source=habrahabr&utm_medium=rss)
+- [«Микрон» тестирует первый российский фоторезист для 90-нм производства](https://habr.com/ru/news/886804/?utm_campaign=886804&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games ввела бан сроком на год за первое использование читерских программ в Fortnite](https://habr.com/ru/news/886734/?utm_campaign=886734&utm_source=habrahabr&utm_medium=rss)
 - [Открыт приём заявок на Международные игры по кибербезопасности 2025 года](https://habr.com/ru/news/886728/?utm_campaign=886728&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft признала замедление работы проводника Windows 11 при использовании кнопок заголовка](https://habr.com/ru/news/886690/?utm_campaign=886690&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft назвала имена киберпреступников, стоявших за сетью по созданию дипфейков с помощью ИИ компании](https://habr.com/ru/news/886686/?utm_campaign=886686&utm_source=habrahabr&utm_medium=rss)
-- [Google: для обеспечения безопасности будущего ПО необходимо больше стандартов аудита утечек памяти](https://habr.com/ru/news/886676/?utm_campaign=886676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
