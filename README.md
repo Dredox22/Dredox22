@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Совершенно секретно: как расследуют киберпреступления](https://habr.com/ru/companies/F6/news/886486/?utm_campaign=886486&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытой платформы обмена файлами OpenCloud 1.0](https://habr.com/ru/news/886612/?utm_campaign=886612&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила приложение Copilot для macOS](https://habr.com/ru/news/886594/?utm_campaign=886594&utm_source=habrahabr&utm_medium=rss)
 - [В новой предварительной версии Skype для Windows появилась строка, что Microsoft закроет сервис в мае](https://habr.com/ru/news/886590/?utm_campaign=886590&utm_source=habrahabr&utm_medium=rss)
 - [EA опубликовала в открытом доступе исходный код классических игр серии Command &amp;amp; Conquer](https://habr.com/ru/news/886568/?utm_campaign=886568&utm_source=habrahabr&utm_medium=rss)
-- [Postgres Professional обновила книги «Postgres: первое знакомство» и «PostgreSQL 17 изнутри»](https://habr.com/ru/news/886566/?utm_campaign=886566&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» подал заявку на регистрацию товарного знака «Яндекс Нейроисследование»](https://habr.com/ru/news/886560/?utm_campaign=886560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
