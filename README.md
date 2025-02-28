@@ -93,7 +93,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi объединила журналы The MagPi и HackSpace в одно издание](https://habr.com/ru/news/886916/?utm_campaign=886916&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi переименовала журнал The MagPi в Raspberry Pi Official Magazine](https://habr.com/ru/news/886916/?utm_campaign=886916&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила проблемы с drag-and-drop в Outlook на Windows 11 24H2](https://habr.com/ru/news/886856/?utm_campaign=886856&utm_source=habrahabr&utm_medium=rss)
 - [Хакатон «Цифровые миры: VR-созидатели» для школьников и студентов](https://habr.com/ru/news/886830/?utm_campaign=886830&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE представила новый функционал на своём портале киберразведки BI.ZONE Threat Intelligence](https://habr.com/ru/news/886824/?utm_campaign=886824&utm_source=habrahabr&utm_medium=rss)
