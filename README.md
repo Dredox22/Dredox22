@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакатон «Цифровые миры: VR-созидатели» для школьников и студентов](https://habr.com/ru/news/886830/?utm_campaign=886830&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE представила новый функционал на своём портале киберразведки BI.ZONE Threat Intelligence](https://habr.com/ru/news/886824/?utm_campaign=886824&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила, что отключит Skype 5 мая 2025 года с переводом пользователей в Teams Free](https://habr.com/ru/news/886818/?utm_campaign=886818&utm_source=habrahabr&utm_medium=rss)
 - [Apple позволит родителям сообщать разработчикам возраст ребёнка без других личных данных](https://habr.com/ru/news/886808/?utm_campaign=886808&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» тестирует первый российский фоторезист для 90-нм производства](https://habr.com/ru/news/886804/?utm_campaign=886804&utm_source=habrahabr&utm_medium=rss)
-- [Epic Games ввела бан сроком на год за первое использование читерских программ в Fortnite](https://habr.com/ru/news/886734/?utm_campaign=886734&utm_source=habrahabr&utm_medium=rss)
-- [Открыт приём заявок на Международные игры по кибербезопасности 2025 года](https://habr.com/ru/news/886728/?utm_campaign=886728&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft признала замедление работы проводника Windows 11 при использовании кнопок заголовка](https://habr.com/ru/news/886690/?utm_campaign=886690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
