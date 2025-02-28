@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [EA опубликовала в открытом доступе исходный код классических игр серии Command &amp;amp; Conquer](https://habr.com/ru/news/886568/?utm_campaign=886568&utm_source=habrahabr&utm_medium=rss)
+- [Postgres Professional обновила книги «Postgres: первое знакомство» и «PostgreSQL 17 изнутри»](https://habr.com/ru/news/886566/?utm_campaign=886566&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» подал заявку на регистрацию товарного знака «Яндекс Нейроисследование»](https://habr.com/ru/news/886560/?utm_campaign=886560&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: фишинг-тесты в компаниях снижают эффективность реальных атак всего на 2%](https://habr.com/ru/news/886548/?utm_campaign=886548&utm_source=habrahabr&utm_medium=rss)
 - [Вышел GPT-4.5 от OpenAI [обновляется, UPD 3]](https://habr.com/ru/news/886532/?utm_campaign=886532&utm_source=habrahabr&utm_medium=rss)
-- [Пишу unstyled UI потому что могу](https://habr.com/ru/news/886530/?utm_campaign=886530&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia выпустила видеодрайвер 572.60, который устраняет проблемы с чёрным экраном на ПК с видеокартами серии RTX 50](https://habr.com/ru/news/886490/?utm_campaign=886490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
