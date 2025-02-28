@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила проблемы с drag-and-drop в Outlook на Windows 11 24H2](https://habr.com/ru/news/886856/?utm_campaign=886856&utm_source=habrahabr&utm_medium=rss)
 - [Хакатон «Цифровые миры: VR-созидатели» для школьников и студентов](https://habr.com/ru/news/886830/?utm_campaign=886830&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE представила новый функционал на своём портале киберразведки BI.ZONE Threat Intelligence](https://habr.com/ru/news/886824/?utm_campaign=886824&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила, что отключит Skype 5 мая 2025 года с переводом пользователей в Teams Free](https://habr.com/ru/news/886818/?utm_campaign=886818&utm_source=habrahabr&utm_medium=rss)
 - [Apple позволит родителям сообщать разработчикам возраст ребёнка без других личных данных](https://habr.com/ru/news/886808/?utm_campaign=886808&utm_source=habrahabr&utm_medium=rss)
-- [«Микрон» тестирует первый российский фоторезист для 90-нм производства](https://habr.com/ru/news/886804/?utm_campaign=886804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
