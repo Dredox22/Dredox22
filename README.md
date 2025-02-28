@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft признала замедление работы проводника Windows 11 при использовании кнопок заголовка](https://habr.com/ru/news/886690/?utm_campaign=886690&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft назвала имена киберпреступников, стоявших за сетью по созданию дипфейков с помощью ИИ компании](https://habr.com/ru/news/886686/?utm_campaign=886686&utm_source=habrahabr&utm_medium=rss)
 - [Google: для обеспечения безопасности будущего ПО необходимо больше стандартов аудита утечек памяти](https://habr.com/ru/news/886676/?utm_campaign=886676&utm_source=habrahabr&utm_medium=rss)
 - [Technicolor находится на грани закрытия](https://habr.com/ru/news/886674/?utm_campaign=886674&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft настойчиво предлагает пользователям Windows 11 делать резервные копии данных ПК в OneDrive](https://habr.com/ru/news/886668/?utm_campaign=886668&utm_source=habrahabr&utm_medium=rss)
-- [АНБ и ЦРУ проверят запрос МВД Великобритании к Apple по доступу ко всему зашифрованному контенту, загружаемому в iCloud](https://habr.com/ru/news/886654/?utm_campaign=886654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
