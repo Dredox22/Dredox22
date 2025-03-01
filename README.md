@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Zapier сообщила о взломе репозиториев кода и утечке данных клиентов](https://habr.com/ru/news/886980/?utm_campaign=886980&utm_source=habrahabr&utm_medium=rss)
+- [С 1 марта 2025 года в РФ вступил в силу закон о самозапрете на выдачу кредитов](https://habr.com/ru/news/886964/?utm_campaign=886964&utm_source=habrahabr&utm_medium=rss)
 - [Что думают эксперты и пользователи о выпуске модели GPT-4.5?](https://habr.com/ru/companies/bothub/news/886956/?utm_campaign=886956&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla пояснила, что изменения в условиях использования Firefox не дают ей права собственности на данные пользователей](https://habr.com/ru/news/886952/?utm_campaign=886952&utm_source=habrahabr&utm_medium=rss)
 - [Telegram будет показывать больше информации о собеседниках, включая страну, общие группы и дату регистрации](https://habr.com/ru/news/886926/?utm_campaign=886926&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi переименовала журнал The MagPi в Raspberry Pi Official Magazine](https://habr.com/ru/news/886916/?utm_campaign=886916&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила проблемы с drag-and-drop в Outlook на Windows 11 24H2](https://habr.com/ru/news/886856/?utm_campaign=886856&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
