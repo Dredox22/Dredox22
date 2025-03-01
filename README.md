@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuit создаёт автономные решения на основе ИИ для ускорения бизнес-процессов](https://habr.com/ru/companies/bothub/news/887072/?utm_campaign=887072&utm_source=habrahabr&utm_medium=rss)
+- [Cisco и Nvidia предлагают решения для преодоления технических барьеров при внедрении ИИ](https://habr.com/ru/companies/bothub/news/887062/?utm_campaign=887062&utm_source=habrahabr&utm_medium=rss)
 - [Возможное ограничение использования новой языковой модели OpenAI GPT-4.5 через API](https://habr.com/ru/companies/bothub/news/887056/?utm_campaign=887056&utm_source=habrahabr&utm_medium=rss)
 - [Deepseek: как превратить языковые модели в прибыльный бизнес, несмотря на снижение цен на рынке](https://habr.com/ru/companies/bothub/news/887054/?utm_campaign=887054&utm_source=habrahabr&utm_medium=rss)
 - [Проект Freedesktop.org раскрыл детали переезда на новую IT-инфраструктуру для своего инстанса GitLab](https://habr.com/ru/news/887038/?utm_campaign=887038&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует в Windows 11 размещение кнопки эмодзи на панели задач](https://habr.com/ru/news/886994/?utm_campaign=886994&utm_source=habrahabr&utm_medium=rss)
-- [Тестировщиков игр ИИ заменит, а неэффективных работников на фабриках уволит: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/886768/?utm_campaign=886768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
