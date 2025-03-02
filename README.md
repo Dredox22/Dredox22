@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз дистрибутива ROSA Fresh 13](https://habr.com/ru/news/887218/?utm_campaign=887218&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запретила бесплатному ИИ-помощнику Copilot выдавать скрипты MAS с GitHub для бесплатной активации Windows 7-11](https://habr.com/ru/news/887192/?utm_campaign=887192&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft раскрыла дополнительную информацию о настройках USB в Windows 11](https://habr.com/ru/news/887152/?utm_campaign=887152&utm_source=habrahabr&utm_medium=rss)
 - [НАСА работает над восстановлением связи с лунным зондом Lunar Trailblazer](https://habr.com/ru/news/887146/?utm_campaign=887146&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Winlator 10.0 beta, окружения для запуска Windows-приложений в Android](https://habr.com/ru/news/887128/?utm_campaign=887128&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft по ошибке ограничила выдачу наклеек о поддержке Windows 11 для новых ПК с чипами Intel 8, 9 и 10-го поколений](https://habr.com/ru/news/887124/?utm_campaign=887124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
