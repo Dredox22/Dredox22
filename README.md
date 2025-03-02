@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft раскрыла дополнительную информацию о настройках USB в Windows 11](https://habr.com/ru/news/887152/?utm_campaign=887152&utm_source=habrahabr&utm_medium=rss)
+- [НАСА работает над восстановлением связи с лунным зондом Lunar Trailblazer](https://habr.com/ru/news/887146/?utm_campaign=887146&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Winlator 10.0 beta, окружения для запуска Windows-приложений в Android](https://habr.com/ru/news/887128/?utm_campaign=887128&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft по ошибке ограничила выдачу наклеек о поддержке Windows 11 для новых ПК с чипами Intel 8, 9 и 10-го поколений](https://habr.com/ru/news/887124/?utm_campaign=887124&utm_source=habrahabr&utm_medium=rss)
 - [Sypex Geo перестал резолвиться: как восстановить работу сайтов](https://habr.com/ru/news/887112/?utm_campaign=887112&utm_source=habrahabr&utm_medium=rss)
-- [Intel отложила открытие завода по производству чипов в Огайо на шесть лет из-за проблем с финансами](https://habr.com/ru/news/887080/?utm_campaign=887080&utm_source=habrahabr&utm_medium=rss)
-- [Intuit создаёт автономные решения на основе ИИ для ускорения бизнес-процессов](https://habr.com/ru/companies/bothub/news/887072/?utm_campaign=887072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
