@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Солар» назвал топ 5 критических уязвимостей банковских приложений](https://habr.com/ru/news/887450/?utm_campaign=887450&utm_source=habrahabr&utm_medium=rss)
+- [В работе оператора связи «Билайн» в Москве и Подмосковье произошёл сбой из-за DDoS-атаки](https://habr.com/ru/news/887428/?utm_campaign=887428&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: за двое суток сервисом по самозапрету на кредиты через «Госуслуги» воспользовались 1,7 млн граждан](https://habr.com/ru/news/887420/?utm_campaign=887420&utm_source=habrahabr&utm_medium=rss)
 - [Вышла вторая бета-версия «Альт Рабочей станции» 11.0 с GNOME](https://habr.com/ru/companies/basealtspo/news/887404/?utm_campaign=887404&utm_source=habrahabr&utm_medium=rss)
 - [Страуструп призвал комитет WG21 заняться актуальностью C++ из-за продвижения языков для безопасной работы с памятью](https://habr.com/ru/news/887392/?utm_campaign=887392&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek сообщил о «теоретической» марже в 545%](https://habr.com/ru/news/887388/?utm_campaign=887388&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в марте](https://habr.com/ru/companies/netologyru/news/887384/?utm_campaign=887384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
