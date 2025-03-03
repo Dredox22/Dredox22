@@ -80,14 +80,6 @@
 
 </p>
 
-<br>
-<p align="center">
-  
-
-</p>
-
-<br>
-
 <hr>
 
 <h4 align="center"> :newspaper: Habr news :</h4>
