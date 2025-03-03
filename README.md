@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Диспетчер задач Windows 11 будет показывать точную загрузку ЦП](https://habr.com/ru/news/887366/?utm_campaign=887366&utm_source=habrahabr&utm_medium=rss)
+- [Есть контакт: серверы ITPOD успешно прошли тест на совместимость с решением F6 Managed XDR](https://habr.com/ru/companies/F6/news/887372/?utm_campaign=887372&utm_source=habrahabr&utm_medium=rss)
+- [Учёные придумали основу для создания меняющих форму роботов типа T-1000](https://habr.com/ru/news/887264/?utm_campaign=887264&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi представила прототип смартфона с магнитом для съёмного объектива](https://habr.com/ru/news/887352/?utm_campaign=887352&utm_source=habrahabr&utm_medium=rss)
 - [Meta* представила новую версию умных очков Aria Gen 2](https://habr.com/ru/news/887330/?utm_campaign=887330&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого растрового графического редактора Brushshe 1.2.0, написанного на Python для Windows 10/11](https://habr.com/ru/news/887314/?utm_campaign=887314&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект TaskExplorer 1.6.2](https://habr.com/ru/news/887298/?utm_campaign=887298&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NetworkManager 1.52](https://habr.com/ru/news/887296/?utm_campaign=887296&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива ROSA Fresh 13](https://habr.com/ru/news/887218/?utm_campaign=887218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
