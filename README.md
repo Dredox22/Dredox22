@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект TaskExplorer 1.6.2](https://habr.com/ru/news/887298/?utm_campaign=887298&utm_source=habrahabr&utm_medium=rss)
+- [Релиз NetworkManager 1.52](https://habr.com/ru/news/887296/?utm_campaign=887296&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива ROSA Fresh 13](https://habr.com/ru/news/887218/?utm_campaign=887218&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запретила бесплатному ИИ-помощнику Copilot выдавать скрипты MAS с GitHub для бесплатной активации Windows 7-11](https://habr.com/ru/news/887192/?utm_campaign=887192&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft раскрыла дополнительную информацию о настройках USB в Windows 11](https://habr.com/ru/news/887152/?utm_campaign=887152&utm_source=habrahabr&utm_medium=rss)
-- [НАСА работает над восстановлением связи с лунным зондом Lunar Trailblazer](https://habr.com/ru/news/887146/?utm_campaign=887146&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Winlator 10.0 beta, окружения для запуска Windows-приложений в Android](https://habr.com/ru/news/887128/?utm_campaign=887128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
