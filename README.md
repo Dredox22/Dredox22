@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Производитель химической продукции «Пигмент» повысил эффективность проектирования с переходом на продукты nanoCAD](https://habr.com/ru/companies/nanosoft/news/887550/?utm_campaign=887550&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты в Альфа-Банке: нейросети создают автотесты без участия человека](https://habr.com/ru/companies/alfa/news/887544/?utm_campaign=887544&utm_source=habrahabr&utm_medium=rss)
 - [Google расширяет возможности помощника Gemini: анализ видео и демонстрация экрана](https://habr.com/ru/companies/bothub/news/887518/?utm_campaign=887518&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/887516/?utm_campaign=887516&utm_source=habrahabr&utm_medium=rss)
 - [Использование ИИ для написания текстов стремительно растёт в различных сферах деятельности](https://habr.com/ru/companies/bothub/news/887506/?utm_campaign=887506&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-8](https://habr.com/ru/news/887488/?utm_campaign=887488&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» назвал топ 5 критических уязвимостей банковских приложений](https://habr.com/ru/news/887450/?utm_campaign=887450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
