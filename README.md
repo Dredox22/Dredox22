@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mathb.in закроется 16 марта 2025 года после 13 лет работы](https://habr.com/ru/news/887608/?utm_campaign=887608&utm_source=habrahabr&utm_medium=rss)
+- [Starlink признала, что её спутники не всегда сгорают полностью, но вероятность получтиь травму от обломков — 1 к 100 млн](https://habr.com/ru/news/887606/?utm_campaign=887606&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia и Broadcom тестируют передовой процесс производства чипов Intel](https://habr.com/ru/companies/bothub/news/887572/?utm_campaign=887572&utm_source=habrahabr&utm_medium=rss)
 - [НИИЭТ запустил серийное производство микросхем в металлополимерных корпусах](https://habr.com/ru/news/887562/?utm_campaign=887562&utm_source=habrahabr&utm_medium=rss)
 - [Производитель химической продукции «Пигмент» повысил эффективность проектирования с переходом на продукты nanoCAD](https://habr.com/ru/companies/nanosoft/news/887550/?utm_campaign=887550&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты в Альфа-Банке: нейросети создают автотесты без участия человека](https://habr.com/ru/companies/alfa/news/887544/?utm_campaign=887544&utm_source=habrahabr&utm_medium=rss)
-- [Google расширяет возможности помощника Gemini: анализ видео и демонстрация экрана](https://habr.com/ru/companies/bothub/news/887518/?utm_campaign=887518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
