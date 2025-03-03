@@ -93,11 +93,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Страуструп призвал комитет WG21 заняться актуальностью C++ из-за продвижения языков для безопасной работы с памятью](https://habr.com/ru/news/887392/?utm_campaign=887392&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek сообщил о «теоретической» марже в 545%](https://habr.com/ru/news/887388/?utm_campaign=887388&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в марте](https://habr.com/ru/companies/netologyru/news/887384/?utm_campaign=887384&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» представил новый формат таргетированной рекламы в «Картах»](https://habr.com/ru/news/887378/?utm_campaign=887378&utm_source=habrahabr&utm_medium=rss)
 - [Диспетчер задач Windows 11 будет показывать точную загрузку ЦП](https://habr.com/ru/news/887366/?utm_campaign=887366&utm_source=habrahabr&utm_medium=rss)
-- [Есть контакт: серверы ITPOD успешно прошли тест на совместимость с решением F6 Managed XDR](https://habr.com/ru/companies/F6/news/887372/?utm_campaign=887372&utm_source=habrahabr&utm_medium=rss)
-- [Учёные придумали основу для создания меняющих форму роботов типа T-1000](https://habr.com/ru/news/887264/?utm_campaign=887264&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi представила прототип смартфона с магнитом для съёмного объектива](https://habr.com/ru/news/887352/?utm_campaign=887352&utm_source=habrahabr&utm_medium=rss)
-- [Meta* представила новую версию умных очков Aria Gen 2](https://habr.com/ru/news/887330/?utm_campaign=887330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
