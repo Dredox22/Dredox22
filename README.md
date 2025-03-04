@@ -88,7 +88,7 @@
 - [Вышел Firefox 136.0](https://habr.com/ru/news/887638/?utm_campaign=887638&utm_source=habrahabr&utm_medium=rss)
 - [Релиз TypeScript 5.8](https://habr.com/ru/news/887630/?utm_campaign=887630&utm_source=habrahabr&utm_medium=rss)
 - [Mathb.in закроется 16 марта 2025 года после 13 лет работы](https://habr.com/ru/news/887608/?utm_campaign=887608&utm_source=habrahabr&utm_medium=rss)
-- [Starlink признала, что её спутники не всегда сгорают полностью, но вероятность получтиь травму от обломков — 1 к 100 млн](https://habr.com/ru/news/887606/?utm_campaign=887606&utm_source=habrahabr&utm_medium=rss)
+- [Starlink признала, что её спутники не всегда сгорают полностью, но вероятность получить травму от обломков — 1 к 100 млн](https://habr.com/ru/news/887606/?utm_campaign=887606&utm_source=habrahabr&utm_medium=rss)
 - [НИИЭТ запустил серийное производство микросхем в металлополимерных корпусах](https://habr.com/ru/news/887562/?utm_campaign=887562&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
