@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Бан России протестировал российские NGFW](https://habr.com/ru/news/887842/?utm_campaign=887842&utm_source=habrahabr&utm_medium=rss)
+- [Банк России протестировал российские NGFW](https://habr.com/ru/news/887842/?utm_campaign=887842&utm_source=habrahabr&utm_medium=rss)
 - [Говорим о строительстве облачной платформы на митапе в Сочи](https://habr.com/ru/companies/mws/news/887774/?utm_campaign=887774&utm_source=habrahabr&utm_medium=rss)
 - [TSMC инвестирует $100 млрд в американское производство микросхем](https://habr.com/ru/news/887824/?utm_campaign=887824&utm_source=habrahabr&utm_medium=rss)
 - [Tencent обошёл DeepSeek и стал самым популярным приложением в Китае на iPhone](https://habr.com/ru/companies/bothub/news/887796/?utm_campaign=887796&utm_source=habrahabr&utm_medium=rss)
