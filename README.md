@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс Dev Day&amp;amp;Night: конференция, которая уходит в ночь](https://habr.com/ru/companies/yandex/news/887686/?utm_campaign=887686&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi выпустила Compute Module 4 с расширенным диапазоном рабочей температуры](https://habr.com/ru/news/887680/?utm_campaign=887680&utm_source=habrahabr&utm_medium=rss)
+- [Игру Super Mario начали использовать для тестирования ИИ](https://habr.com/ru/news/887670/?utm_campaign=887670&utm_source=habrahabr&utm_medium=rss)
 - [Выставка «Мир Климата-2025» подтвердила востребованность решений «Нанософт» для проектирования](https://habr.com/ru/companies/nanosoft/news/887554/?utm_campaign=887554&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 136.0](https://habr.com/ru/news/887638/?utm_campaign=887638&utm_source=habrahabr&utm_medium=rss)
-- [Релиз TypeScript 5.8](https://habr.com/ru/news/887630/?utm_campaign=887630&utm_source=habrahabr&utm_medium=rss)
-- [Mathb.in закроется 16 марта 2025 года после 13 лет работы](https://habr.com/ru/news/887608/?utm_campaign=887608&utm_source=habrahabr&utm_medium=rss)
-- [Starlink признала, что её спутники не всегда сгорают полностью, но вероятность получить травму от обломков — 1 к 100 млн](https://habr.com/ru/news/887606/?utm_campaign=887606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
