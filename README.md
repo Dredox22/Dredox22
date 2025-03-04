@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Audio Open: генерация звука на мобильных устройствах без подключения к интернету](https://habr.com/ru/companies/bothub/news/887738/?utm_campaign=887738&utm_source=habrahabr&utm_medium=rss)
+- [Google Play начнёт выделять приложения с виджетами](https://habr.com/ru/news/887720/?utm_campaign=887720&utm_source=habrahabr&utm_medium=rss)
+- [Повышаем охват InfoWatch Traffic Monitor](https://habr.com/ru/companies/infowatch/news/887718/?utm_campaign=887718&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз игрового движка Godot 4.4](https://habr.com/ru/news/887694/?utm_campaign=887694&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Dev Day&amp;amp;Night: конференция, которая уходит в ночь](https://habr.com/ru/companies/yandex/news/887686/?utm_campaign=887686&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi выпустила Compute Module 4 с расширенным диапазоном рабочей температуры](https://habr.com/ru/news/887680/?utm_campaign=887680&utm_source=habrahabr&utm_medium=rss)
-- [Игру Super Mario начали использовать для тестирования ИИ](https://habr.com/ru/news/887670/?utm_campaign=887670&utm_source=habrahabr&utm_medium=rss)
-- [Выставка «Мир Климата-2025» подтвердила востребованность решений «Нанософт» для проектирования](https://habr.com/ru/companies/nanosoft/news/887554/?utm_campaign=887554&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 136.0](https://habr.com/ru/news/887638/?utm_campaign=887638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
