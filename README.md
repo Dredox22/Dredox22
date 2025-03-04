@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 2.0: бесплатный агент Google для обработки данных, который значительно экономит время](https://habr.com/ru/companies/bothub/news/887780/?utm_campaign=887780&utm_source=habrahabr&utm_medium=rss)
+- [Как сократить затраты на системы ИИ: новый метод исследователей Zoom Communications](https://habr.com/ru/companies/bothub/news/887768/?utm_campaign=887768&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры «отмыли» все 499 000 Ethereum на $1,5 млрд, украденные с Bybit](https://habr.com/ru/news/887766/?utm_campaign=887766&utm_source=habrahabr&utm_medium=rss)
 - [ИИ учится играть в Super Mario Bros.: какие модели показали лучшие результаты](https://habr.com/ru/companies/bothub/news/887754/?utm_campaign=887754&utm_source=habrahabr&utm_medium=rss)
 - [Stable Audio Open: генерация звука на мобильных устройствах без подключения к интернету](https://habr.com/ru/companies/bothub/news/887738/?utm_campaign=887738&utm_source=habrahabr&utm_medium=rss)
-- [Google Play начнёт выделять приложения с виджетами](https://habr.com/ru/news/887720/?utm_campaign=887720&utm_source=habrahabr&utm_medium=rss)
-- [Повышаем охват InfoWatch Traffic Monitor](https://habr.com/ru/companies/infowatch/news/887718/?utm_campaign=887718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
