@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бан России протестировал российские NGFW](https://habr.com/ru/news/887842/?utm_campaign=887842&utm_source=habrahabr&utm_medium=rss)
+- [Говорим о строительстве облачной платформы на митапе в Сочи](https://habr.com/ru/companies/mws/news/887774/?utm_campaign=887774&utm_source=habrahabr&utm_medium=rss)
 - [TSMC инвестирует $100 млрд в американское производство микросхем](https://habr.com/ru/news/887824/?utm_campaign=887824&utm_source=habrahabr&utm_medium=rss)
 - [Tencent обошёл DeepSeek и стал самым популярным приложением в Китае на iPhone](https://habr.com/ru/companies/bothub/news/887796/?utm_campaign=887796&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 2.0: бесплатный агент Google для обработки данных, который значительно экономит время](https://habr.com/ru/companies/bothub/news/887780/?utm_campaign=887780&utm_source=habrahabr&utm_medium=rss)
-- [Как сократить затраты на системы ИИ: новый метод исследователей Zoom Communications](https://habr.com/ru/companies/bothub/news/887768/?utm_campaign=887768&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры «отмыли» все 499 000 Ethereum на $1,5 млрд, украденные с Bybit](https://habr.com/ru/news/887766/?utm_campaign=887766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
