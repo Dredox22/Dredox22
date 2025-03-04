@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытой платформы OpenBot 0.8](https://habr.com/ru/news/887888/?utm_campaign=887888&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой системы непрерывного профилирования Perforator 0.0.5 от «Яндекс» со сменой лицензии с MIT на Apache 2.0](https://habr.com/ru/news/887880/?utm_campaign=887880&utm_source=habrahabr&utm_medium=rss)
 - [На ПК вышла Grand Theft Auto V Enhanced](https://habr.com/ru/news/887874/?utm_campaign=887874&utm_source=habrahabr&utm_medium=rss)
 - [Банк России протестировал российские NGFW](https://habr.com/ru/news/887842/?utm_campaign=887842&utm_source=habrahabr&utm_medium=rss)
 - [Говорим о строительстве облачной платформы на митапе в Сочи](https://habr.com/ru/companies/mws/news/887774/?utm_campaign=887774&utm_source=habrahabr&utm_medium=rss)
-- [TSMC инвестирует $100 млрд в американское производство микросхем](https://habr.com/ru/news/887824/?utm_campaign=887824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
