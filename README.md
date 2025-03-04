@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры «отмыли» все 499 000 Ethereum на $1,5 млрд, украденные с Bybit](https://habr.com/ru/news/887766/?utm_campaign=887766&utm_source=habrahabr&utm_medium=rss)
+- [ИИ учится играть в Super Mario Bros.: какие модели показали лучшие результаты](https://habr.com/ru/companies/bothub/news/887754/?utm_campaign=887754&utm_source=habrahabr&utm_medium=rss)
 - [Stable Audio Open: генерация звука на мобильных устройствах без подключения к интернету](https://habr.com/ru/companies/bothub/news/887738/?utm_campaign=887738&utm_source=habrahabr&utm_medium=rss)
 - [Google Play начнёт выделять приложения с виджетами](https://habr.com/ru/news/887720/?utm_campaign=887720&utm_source=habrahabr&utm_medium=rss)
 - [Повышаем охват InfoWatch Traffic Monitor](https://habr.com/ru/companies/infowatch/news/887718/?utm_campaign=887718&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз игрового движка Godot 4.4](https://habr.com/ru/news/887694/?utm_campaign=887694&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Dev Day&amp;amp;Night: конференция, которая уходит в ночь](https://habr.com/ru/companies/yandex/news/887686/?utm_campaign=887686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
