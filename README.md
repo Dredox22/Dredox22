@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rockstar Games приобрела студию Video Games Deluxe](https://habr.com/ru/news/887910/?utm_campaign=887910&utm_source=habrahabr&utm_medium=rss)
+- [Podcastle запускает модель преобразования текста в речь с более чем 450 голосами ИИ](https://habr.com/ru/companies/bothub/news/887908/?utm_campaign=887908&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой платформы OpenBot 0.8](https://habr.com/ru/news/887888/?utm_campaign=887888&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой системы непрерывного профилирования Perforator 0.0.5 от «Яндекс» со сменой лицензии с MIT на Apache 2.0](https://habr.com/ru/news/887880/?utm_campaign=887880&utm_source=habrahabr&utm_medium=rss)
 - [На ПК вышла Grand Theft Auto V Enhanced](https://habr.com/ru/news/887874/?utm_campaign=887874&utm_source=habrahabr&utm_medium=rss)
-- [Банк России протестировал российские NGFW](https://habr.com/ru/news/887842/?utm_campaign=887842&utm_source=habrahabr&utm_medium=rss)
-- [Говорим о строительстве облачной платформы на митапе в Сочи](https://habr.com/ru/companies/mws/news/887774/?utm_campaign=887774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
