@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel выпустила сетевые драйверы с улучшенным распознаванием Bluetooth и Wi-Fi](https://habr.com/ru/news/888056/?utm_campaign=888056&utm_source=habrahabr&utm_medium=rss)
+- [YouTube предупредил авторов контента об использовании дипфейков с гендиректором компании для фишинговых атак](https://habr.com/ru/news/888072/?utm_campaign=888072&utm_source=habrahabr&utm_medium=rss)
+- [Угнать за пару секунд: злоумышленники похищают аккаунты в Telegram ради звёзд и NFT-подарков](https://habr.com/ru/companies/F6/news/888070/?utm_campaign=888070&utm_source=habrahabr&utm_medium=rss)
+- [Sony анонсировала тестовую программу PlayStation Beta Program на PS5 и ПК](https://habr.com/ru/news/888044/?utm_campaign=888044&utm_source=habrahabr&utm_medium=rss)
 - [Представлена интерактивная карта Python-пакетов PyPI](https://habr.com/ru/news/888038/?utm_campaign=888038&utm_source=habrahabr&utm_medium=rss)
-- [Apple подала жалобу в британский трибунал из-за требования служб безопасности предоставить доступ к зашифрованным данным](https://habr.com/ru/news/888036/?utm_campaign=888036&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Data Science Agent в Colab для упрощения анализа](https://habr.com/ru/news/888032/?utm_campaign=888032&utm_source=habrahabr&utm_medium=rss)
-- [Тест BIG-Bench Extra Hard: как он выявляет недостатки в больших языковых моделях](https://habr.com/ru/companies/bothub/news/888018/?utm_campaign=888018&utm_source=habrahabr&utm_medium=rss)
-- [Релиз проекта Memsafe с механизмом безопасной работы со ссылочными типами и динамической памятью в коде для языка С++](https://habr.com/ru/news/888016/?utm_campaign=888016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
