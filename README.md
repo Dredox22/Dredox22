@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Manticore Search 7.4.6: Интеграция с Kibana, оптимизация производительности и важные исправления](https://habr.com/ru/news/887326/?utm_campaign=887326&utm_source=habrahabr&utm_medium=rss)
 - [Opera представила собственного нейросетевого агента для браузера](https://habr.com/ru/news/887986/?utm_campaign=887986&utm_source=habrahabr&utm_medium=rss)
 - [Вышла SQL Noir — игра для изучения SQL](https://habr.com/ru/news/887982/?utm_campaign=887982&utm_source=habrahabr&utm_medium=rss)
 - [Функция генерации UUIDv7 включена в стандартную библиотеку Python](https://habr.com/ru/news/887958/?utm_campaign=887958&utm_source=habrahabr&utm_medium=rss)
 - [В Москве начали тестировать оплату проезда в метро цифровыми рублями через QR-код](https://habr.com/ru/news/887922/?utm_campaign=887922&utm_source=habrahabr&utm_medium=rss)
-- [Rockstar Games приобрела студию Video Games Deluxe](https://habr.com/ru/news/887910/?utm_campaign=887910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
