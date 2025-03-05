@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [За два года Intel уволила 23 тысячи сотрудников](https://habr.com/ru/news/888148/?utm_campaign=888148&utm_source=habrahabr&utm_medium=rss)
+- [Исследование InfoWatch — сколько ПДн утекло в 2024 году](https://habr.com/ru/companies/infowatch/news/888144/?utm_campaign=888144&utm_source=habrahabr&utm_medium=rss)
+- [Один из российских банков замаскировал своё мобильное приложение в App Store под проект «Учёт надоя»](https://habr.com/ru/news/888138/?utm_campaign=888138&utm_source=habrahabr&utm_medium=rss)
 - [«Инфосистемы Джет» зафиксировала рост направления управления уязвимостями на 304%](https://habr.com/ru/companies/jetinfosystems/news/888132/?utm_campaign=888132&utm_source=habrahabr&utm_medium=rss)
 - [Meta* и Internet Society объединили усилия для расширения доступа в интернет по всему миру](https://habr.com/ru/news/888130/?utm_campaign=888130&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mozilla Thunderbird 136.0](https://habr.com/ru/news/888128/?utm_campaign=888128&utm_source=habrahabr&utm_medium=rss)
-- [Релиз гипервизора Xen 4.20](https://habr.com/ru/news/888116/?utm_campaign=888116&utm_source=habrahabr&utm_medium=rss)
-- [Представляем Trisigma — платформу для А/Б-тестирования и аналитики цифровых продуктов](https://habr.com/ru/companies/avito/news/888088/?utm_campaign=888088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
