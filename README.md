@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo направила GitHub уведомления на удаление форков эмулятора Ryujinx в соответствии с DMCA](https://habr.com/ru/news/888198/?utm_campaign=888198&utm_source=habrahabr&utm_medium=rss)
+- [IT-конференции в Сибири. Spring АйО Подкаст №8 с Иваном Углянским из JUGNsk с полей SnowOne](https://habr.com/ru/companies/spring_aio/news/888194/?utm_campaign=888194&utm_source=habrahabr&utm_medium=rss)
 - [За два года Intel уволила 23 тысячи сотрудников](https://habr.com/ru/news/888148/?utm_campaign=888148&utm_source=habrahabr&utm_medium=rss)
 - [Исследование InfoWatch — сколько ПДн утекло в 2024 году](https://habr.com/ru/companies/infowatch/news/888144/?utm_campaign=888144&utm_source=habrahabr&utm_medium=rss)
 - [Один из российских банков замаскировал своё мобильное приложение в App Store под проект «Учёт надоя»](https://habr.com/ru/news/888138/?utm_campaign=888138&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет» зафиксировала рост направления управления уязвимостями на 304%](https://habr.com/ru/companies/jetinfosystems/news/888132/?utm_campaign=888132&utm_source=habrahabr&utm_medium=rss)
-- [Meta* и Internet Society объединили усилия для расширения доступа в интернет по всему миру](https://habr.com/ru/news/888130/?utm_campaign=888130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
