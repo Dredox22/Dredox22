@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Инфосистемы Джет» зафиксировала рост направления управления уязвимостями на 304%](https://habr.com/ru/companies/jetinfosystems/news/888132/?utm_campaign=888132&utm_source=habrahabr&utm_medium=rss)
+- [Meta* и Internet Society объединили усилия для расширения доступа в интернет по всему миру](https://habr.com/ru/news/888130/?utm_campaign=888130&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mozilla Thunderbird 136.0](https://habr.com/ru/news/888128/?utm_campaign=888128&utm_source=habrahabr&utm_medium=rss)
+- [Релиз гипервизора Xen 4.20](https://habr.com/ru/news/888116/?utm_campaign=888116&utm_source=habrahabr&utm_medium=rss)
 - [Представляем Trisigma — платформу для А/Б-тестирования и аналитики цифровых продуктов](https://habr.com/ru/companies/avito/news/888088/?utm_campaign=888088&utm_source=habrahabr&utm_medium=rss)
-- [В «Блокноте» Windows 11 стала доступна функция Rewrite на базе ChatGPT](https://habr.com/ru/news/888086/?utm_campaign=888086&utm_source=habrahabr&utm_medium=rss)
-- [Intel выпустила сетевые драйверы с улучшенным распознаванием Bluetooth и Wi-Fi](https://habr.com/ru/news/888056/?utm_campaign=888056&utm_source=habrahabr&utm_medium=rss)
-- [YouTube предупредил авторов контента об использовании дипфейков с гендиректором компании для фишинговых атак](https://habr.com/ru/news/888072/?utm_campaign=888072&utm_source=habrahabr&utm_medium=rss)
-- [Угнать за пару секунд: злоумышленники похищают аккаунты в Telegram ради звёзд и NFT-подарков](https://habr.com/ru/companies/F6/news/888070/?utm_campaign=888070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
