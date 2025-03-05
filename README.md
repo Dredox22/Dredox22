@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [InfoWatch: «В России 50% компаний не защищена от утечек данных»](https://habr.com/ru/news/888256/?utm_campaign=888256&utm_source=habrahabr&utm_medium=rss)
+- [Алгоритмы 1980-х годов, лежащие в основе современного ИИ, получили премию А. М. Тьюринга](https://habr.com/ru/companies/bothub/news/888264/?utm_campaign=888264&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» научил определитель номера выявлять мошенников на iPhone с точностью 93%](https://habr.com/ru/news/888260/?utm_campaign=888260&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch: «В России 50% компаний не защищены от утечек данных»](https://habr.com/ru/news/888256/?utm_campaign=888256&utm_source=habrahabr&utm_medium=rss)
 - [Linx Cloud запустил облачный сервис по защите приложений Cloud WAF](https://habr.com/ru/companies/Linx/news/888216/?utm_campaign=888216&utm_source=habrahabr&utm_medium=rss)
 - [Freedesktop.org предупредил о недоступности своего инстанса GitLab с 16 марта из-за миграции на новую IT-инфраструктуру](https://habr.com/ru/news/888214/?utm_campaign=888214&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo направила GitHub уведомления на удаление форков эмулятора Ryujinx в соответствии с DMCA](https://habr.com/ru/news/888198/?utm_campaign=888198&utm_source=habrahabr&utm_medium=rss)
-- [IT-конференции в Сибири. Spring АйО Подкаст №8 с Иваном Углянским из JUGNsk с полей SnowOne](https://habr.com/ru/companies/spring_aio/news/888194/?utm_campaign=888194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
