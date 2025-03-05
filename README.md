@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представляем Trisigma — платформу для А/Б-тестирования и аналитики цифровых продуктов](https://habr.com/ru/companies/avito/news/888088/?utm_campaign=888088&utm_source=habrahabr&utm_medium=rss)
+- [В «Блокноте» Windows 11 стала доступна функция Rewrite на базе ChatGPT](https://habr.com/ru/news/888086/?utm_campaign=888086&utm_source=habrahabr&utm_medium=rss)
 - [Intel выпустила сетевые драйверы с улучшенным распознаванием Bluetooth и Wi-Fi](https://habr.com/ru/news/888056/?utm_campaign=888056&utm_source=habrahabr&utm_medium=rss)
 - [YouTube предупредил авторов контента об использовании дипфейков с гендиректором компании для фишинговых атак](https://habr.com/ru/news/888072/?utm_campaign=888072&utm_source=habrahabr&utm_medium=rss)
 - [Угнать за пару секунд: злоумышленники похищают аккаунты в Telegram ради звёзд и NFT-подарков](https://habr.com/ru/companies/F6/news/888070/?utm_campaign=888070&utm_source=habrahabr&utm_medium=rss)
-- [Sony анонсировала тестовую программу PlayStation Beta Program на PS5 и ПК](https://habr.com/ru/news/888044/?utm_campaign=888044&utm_source=habrahabr&utm_medium=rss)
-- [Представлена интерактивная карта Python-пакетов PyPI](https://habr.com/ru/news/888038/?utm_campaign=888038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
