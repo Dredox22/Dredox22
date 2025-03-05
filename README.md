@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена интерактивная карта Python-пакетов PyPI](https://habr.com/ru/news/888038/?utm_campaign=888038&utm_source=habrahabr&utm_medium=rss)
+- [Apple подала жалобу в британский трибунал из-за требования служб безопасности предоставить доступ к зашифрованным данным](https://habr.com/ru/news/888036/?utm_campaign=888036&utm_source=habrahabr&utm_medium=rss)
+- [Google представила Data Science Agent в Colab для упрощения анализа](https://habr.com/ru/news/888032/?utm_campaign=888032&utm_source=habrahabr&utm_medium=rss)
 - [Тест BIG-Bench Extra Hard: как он выявляет недостатки в больших языковых моделях](https://habr.com/ru/companies/bothub/news/888018/?utm_campaign=888018&utm_source=habrahabr&utm_medium=rss)
-- [Релиз проекта Memsafe с механизмом безопасной работы со ссылочными типами и динамической памятью в коде на языке С++](https://habr.com/ru/news/888016/?utm_campaign=888016&utm_source=habrahabr&utm_medium=rss)
-- [Перестал работать VK messenger на ПК. Причина — UBlock origin](https://habr.com/ru/news/888006/?utm_campaign=888006&utm_source=habrahabr&utm_medium=rss)
-- [Manticore Search 7.4.6: Интеграция с Kibana, оптимизация производительности и важные исправления](https://habr.com/ru/news/887326/?utm_campaign=887326&utm_source=habrahabr&utm_medium=rss)
-- [Opera представила собственного нейросетевого агента для браузера](https://habr.com/ru/news/887986/?utm_campaign=887986&utm_source=habrahabr&utm_medium=rss)
+- [Релиз проекта Memsafe с механизмом безопасной работы со ссылочными типами и динамической памятью в коде для языка С++](https://habr.com/ru/news/888016/?utm_campaign=888016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
