@@ -87,7 +87,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Скачок напряжения стал причиной сбоя в работе сайта МВД](https://habr.com/ru/news/888464/?utm_campaign=888464&utm_source=habrahabr&utm_medium=rss)
 - [Завершился заключительный этап олимпиады по промышленной разработке PROD 2025 среди школьников](https://habr.com/ru/news/888446/?utm_campaign=888446&utm_source=habrahabr&utm_medium=rss)
-- [НАСА получила сигналы GPS с Земли на Луне](https://habr.com/ru/news/888454/?utm_campaign=888454&utm_source=habrahabr&utm_medium=rss)
+- [НАСА получило сигналы GPS с Земли на Луне](https://habr.com/ru/news/888454/?utm_campaign=888454&utm_source=habrahabr&utm_medium=rss)
 - [«При неправильном обращении небольшая доза может убить миллионы людей»: Grok AI подсказал рецепт отравляющего вещества](https://habr.com/ru/news/888438/?utm_campaign=888438&utm_source=habrahabr&utm_medium=rss)
 - [В EFF представили открытый инструмент для выявления фальшивых базовых станций](https://habr.com/ru/news/888434/?utm_campaign=888434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
