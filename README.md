@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Браузер с искусственным интеллектом: как работает новый ассистент Opera](https://habr.com/ru/companies/bothub/news/888642/?utm_campaign=888642&utm_source=habrahabr&utm_medium=rss)
 - [Новая Postgres Pro Standard](https://habr.com/ru/companies/postgrespro/news/888636/?utm_campaign=888636&utm_source=habrahabr&utm_medium=rss)
 - [Прощай, Gemini, здравствуй, Pixel Sense? Что мы знаем об искусственном интеллекте Google для Pixel 10](https://habr.com/ru/companies/bothub/news/888630/?utm_campaign=888630&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NWinfo 1.1.2 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/888646/?utm_campaign=888646&utm_source=habrahabr&utm_medium=rss)
 - [За пять суток сервисом по самозапрету на кредиты через «Госуслуги» воспользовались 3,6 млн граждан](https://habr.com/ru/news/888632/?utm_campaign=888632&utm_source=habrahabr&utm_medium=rss)
-- [A-MEM: как новая структура памяти для агентов ИИ помогает решать сложные задачи](https://habr.com/ru/companies/bothub/news/888618/?utm_campaign=888618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
