@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Скачок напряжения стал причиной сбоя в работе сайта МВД](https://habr.com/ru/news/888464/?utm_campaign=888464&utm_source=habrahabr&utm_medium=rss)
+- [Завершился заключительный этап олимпиады по промышленной разработке PROD 2025 среди школьников](https://habr.com/ru/news/888446/?utm_campaign=888446&utm_source=habrahabr&utm_medium=rss)
+- [НАСА получила сигналы GPS с Земли на Луне](https://habr.com/ru/news/888454/?utm_campaign=888454&utm_source=habrahabr&utm_medium=rss)
 - [«При неправильном обращении небольшая доза может убить миллионы людей»: Grok AI подсказал рецепт отравляющего вещества](https://habr.com/ru/news/888438/?utm_campaign=888438&utm_source=habrahabr&utm_medium=rss)
 - [В EFF представили открытый инструмент для выявления фальшивых базовых станций](https://habr.com/ru/news/888434/?utm_campaign=888434&utm_source=habrahabr&utm_medium=rss)
-- [Reddit будет предупреждать пользователей при голосовании за запрещённый контент](https://habr.com/ru/news/888388/?utm_campaign=888388&utm_source=habrahabr&utm_medium=rss)
-- [Два миллиона за недопустимое событие: Positive Technologies проверит защищенность девяти своих продуктов](https://habr.com/ru/companies/pt/news/888312/?utm_campaign=888312&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 18.4 появятся ИИ-сводки отзывов для приложений в App Store](https://habr.com/ru/news/888376/?utm_campaign=888376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
