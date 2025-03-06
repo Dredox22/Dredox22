@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit будет предупреждать пользователей при голосовании за запрещённый контент](https://habr.com/ru/news/888388/?utm_campaign=888388&utm_source=habrahabr&utm_medium=rss)
+- [Два миллиона за недопустимое событие: Positive Technologies проверит защищенность девяти своих продуктов](https://habr.com/ru/companies/pt/news/888312/?utm_campaign=888312&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 18.4 появятся ИИ-сводки отзывов для приложений в App Store](https://habr.com/ru/news/888376/?utm_campaign=888376&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 134](https://habr.com/ru/news/888362/?utm_campaign=888362&utm_source=habrahabr&utm_medium=rss)
 - [TDMS Фарватер 24.2: техническое обновление системы управления проектами](https://habr.com/ru/companies/nanosoft/news/888136/?utm_campaign=888136&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс начал разрабатывать электронику гитарных педалей в рамках открытого проекта Random guitar pedal board](https://habr.com/ru/news/888354/?utm_campaign=888354&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo: европейские файлообменники должны удалять нелегальные копии игр или выплачивать штрафы за поддержку пиратства](https://habr.com/ru/news/888338/?utm_campaign=888338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
