@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«При неправильном обращении небольшая доза может убить миллионы людей»: Grok AI подсказал рецепт отравляющего вещества](https://habr.com/ru/news/888438/?utm_campaign=888438&utm_source=habrahabr&utm_medium=rss)
+- [В EFF представили открытый инструмент для выявления фальшивых базовых станций](https://habr.com/ru/news/888434/?utm_campaign=888434&utm_source=habrahabr&utm_medium=rss)
 - [Reddit будет предупреждать пользователей при голосовании за запрещённый контент](https://habr.com/ru/news/888388/?utm_campaign=888388&utm_source=habrahabr&utm_medium=rss)
 - [Два миллиона за недопустимое событие: Positive Technologies проверит защищенность девяти своих продуктов](https://habr.com/ru/companies/pt/news/888312/?utm_campaign=888312&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 18.4 появятся ИИ-сводки отзывов для приложений в App Store](https://habr.com/ru/news/888376/?utm_campaign=888376&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 134](https://habr.com/ru/news/888362/?utm_campaign=888362&utm_source=habrahabr&utm_medium=rss)
-- [TDMS Фарватер 24.2: техническое обновление системы управления проектами](https://habr.com/ru/companies/nanosoft/news/888136/?utm_campaign=888136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
