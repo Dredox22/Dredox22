@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [A-MEM: как новая структура памяти для агентов ИИ помогает решать сложные задачи](https://habr.com/ru/companies/bothub/news/888618/?utm_campaign=888618&utm_source=habrahabr&utm_medium=rss)
+- [Google представила инструментарий Zentool для анализа и изменения микрокода процессоров AMD микроархитектуры Zen &lpar;1-4&rpar;](https://habr.com/ru/news/888606/?utm_campaign=888606&utm_source=habrahabr&utm_medium=rss)
 - [Take-Two может установить беспрецедентную цену в $100 за GTA VI, предлагая бонусом внутриигровую валюту для GTA Online](https://habr.com/ru/news/888586/?utm_campaign=888586&utm_source=habrahabr&utm_medium=rss)
 - [Contextual AI предлагает решение проблемы фактических неточностей в корпоративных ИИ-системах](https://habr.com/ru/companies/bothub/news/888574/?utm_campaign=888574&utm_source=habrahabr&utm_medium=rss)
 - [VK обучит IT-специалистов цифровой доступности](https://habr.com/ru/companies/vk/news/888562/?utm_campaign=888562&utm_source=habrahabr&utm_medium=rss)
-- [GPT-4.5: самая большая модель ИИ от OpenAI или шаг назад в развитии технологий?](https://habr.com/ru/companies/bothub/news/888560/?utm_campaign=888560&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Тринити-Колледжа: Google начинает отслеживать устройства Android сразу после их включения](https://habr.com/ru/news/888556/?utm_campaign=888556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
