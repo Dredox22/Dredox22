@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая Postgres Pro Standard](https://habr.com/ru/companies/postgrespro/news/888636/?utm_campaign=888636&utm_source=habrahabr&utm_medium=rss)
+- [Прощай, Gemini, здравствуй, Pixel Sense? Что мы знаем об искусственном интеллекте Google для Pixel 10](https://habr.com/ru/companies/bothub/news/888630/?utm_campaign=888630&utm_source=habrahabr&utm_medium=rss)
+- [Релиз NWinfo 1.1.2 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/888646/?utm_campaign=888646&utm_source=habrahabr&utm_medium=rss)
+- [За пять суток сервисом по самозапрету на кредиты через «Госуслуги» воспользовались 3,6 млн граждан](https://habr.com/ru/news/888632/?utm_campaign=888632&utm_source=habrahabr&utm_medium=rss)
 - [A-MEM: как новая структура памяти для агентов ИИ помогает решать сложные задачи](https://habr.com/ru/companies/bothub/news/888618/?utm_campaign=888618&utm_source=habrahabr&utm_medium=rss)
-- [Google представила инструментарий Zentool для анализа и изменения микрокода процессоров AMD микроархитектуры Zen &lpar;1-4&rpar;](https://habr.com/ru/news/888606/?utm_campaign=888606&utm_source=habrahabr&utm_medium=rss)
-- [Take-Two может установить беспрецедентную цену в $100 за GTA VI, предлагая бонусом внутриигровую валюту для GTA Online](https://habr.com/ru/news/888586/?utm_campaign=888586&utm_source=habrahabr&utm_medium=rss)
-- [Contextual AI предлагает решение проблемы фактических неточностей в корпоративных ИИ-системах](https://habr.com/ru/companies/bothub/news/888574/?utm_campaign=888574&utm_source=habrahabr&utm_medium=rss)
-- [VK обучит IT-специалистов цифровой доступности](https://habr.com/ru/companies/vk/news/888562/?utm_campaign=888562&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
