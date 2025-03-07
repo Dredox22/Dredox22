@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft перед закрытием Publisher предложила пользователям сохранить данные pub в pdf](https://habr.com/ru/news/888800/?utm_campaign=888800&utm_source=habrahabr&utm_medium=rss)
 - [Соучредитель Hugging Face: ИИ становится «подхалимом на серверах»](https://habr.com/ru/news/888778/?utm_campaign=888778&utm_source=habrahabr&utm_medium=rss)
 - [В популярном датасете Common Crawl нашли около 12 000 рабочих API-ключей](https://habr.com/ru/news/888774/?utm_campaign=888774&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge Game Assist получил крупное обновление с поддержкой большего числа игр](https://habr.com/ru/news/888766/?utm_campaign=888766&utm_source=habrahabr&utm_medium=rss)
 - [Наш проект к 8 марта с ИИ-технологиями](https://habr.com/ru/companies/sberbank/news/888768/?utm_campaign=888768&utm_source=habrahabr&utm_medium=rss)
-- [У Apple есть 90 дней, чтобы разрешить стороннюю загрузку приложений в Бразилии](https://habr.com/ru/news/888760/?utm_campaign=888760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
