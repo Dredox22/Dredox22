@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Among Us объявили о прекращении поддержки версий игры 2022 года и более ранних](https://habr.com/ru/news/888726/?utm_campaign=888726&utm_source=habrahabr&utm_medium=rss)
 - [Подтверждена совместимость Платформы nanoCAD с российской СУБД Postgres Pro](https://habr.com/ru/companies/nanosoft/news/888648/?utm_campaign=888648&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia отрицает отсутствие части блоков рендеринга ROP в ноутбуках с RTX 50, но попросила партнёров проверить проблему](https://habr.com/ru/news/888718/?utm_campaign=888718&utm_source=habrahabr&utm_medium=rss)
 - [Sesame AI демонстрирует впечатляющего голосового помощника с открытым исходным кодом](https://habr.com/ru/companies/bothub/news/888654/?utm_campaign=888654&utm_source=habrahabr&utm_medium=rss)
 - [Браузер с искусственным интеллектом: как работает новый ассистент Opera](https://habr.com/ru/companies/bothub/news/888642/?utm_campaign=888642&utm_source=habrahabr&utm_medium=rss)
-- [Новая Postgres Pro Standard](https://habr.com/ru/companies/postgrespro/news/888636/?utm_campaign=888636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
