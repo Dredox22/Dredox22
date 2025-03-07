@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роботизация и BI: как перейти от данных к решениям](https://habr.com/ru/companies/mws/news/888902/?utm_campaign=888902&utm_source=habrahabr&utm_medium=rss)
+- [В 1Password упростили поиск паролей по местоположению](https://habr.com/ru/news/888900/?utm_campaign=888900&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Tails 6.13](https://habr.com/ru/news/888860/?utm_campaign=888860&utm_source=habrahabr&utm_medium=rss)
 - [DuckDuckGo внедрит инструмент поиска на основе ИИ](https://habr.com/ru/news/888842/?utm_campaign=888842&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft перед закрытием Publisher предложила пользователям сохранить данные pub в pdf](https://habr.com/ru/news/888800/?utm_campaign=888800&utm_source=habrahabr&utm_medium=rss)
-- [Соучредитель Hugging Face: ИИ становится «подхалимом на серверах»](https://habr.com/ru/news/888778/?utm_campaign=888778&utm_source=habrahabr&utm_medium=rss)
-- [В популярном датасете Common Crawl нашли около 12 000 рабочих API-ключей](https://habr.com/ru/news/888774/?utm_campaign=888774&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge Game Assist получил крупное обновление с поддержкой большего числа игр](https://habr.com/ru/news/888766/?utm_campaign=888766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
