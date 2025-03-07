@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Роботизация и BI: как перейти от данных к решениям](https://habr.com/ru/companies/mws/news/888902/?utm_campaign=888902&utm_source=habrahabr&utm_medium=rss)
-- [В 1Password упростили поиск паролей по местоположению](https://habr.com/ru/news/888900/?utm_campaign=888900&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Tails 6.13](https://habr.com/ru/news/888860/?utm_campaign=888860&utm_source=habrahabr&utm_medium=rss)
-- [DuckDuckGo внедрит инструмент поиска на основе ИИ](https://habr.com/ru/news/888842/?utm_campaign=888842&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft перед закрытием Publisher предложила пользователям сохранить данные pub в pdf](https://habr.com/ru/news/888800/?utm_campaign=888800&utm_source=habrahabr&utm_medium=rss)
+- [VR Concept и «Ред Софт» запустили VR‑хакатон «Цифровые миры: VR‑созидатели» 2025](https://habr.com/ru/news/888956/?utm_campaign=888956&utm_source=habrahabr&utm_medium=rss)
+- [Открылся новый завод по выпуску электронной продукции группы компаний «Бештау» в Ростове‑на‑Дону](https://habr.com/ru/news/888940/?utm_campaign=888940&utm_source=habrahabr&utm_medium=rss)
+- [Количество установок RuStore превысило 100 млн](https://habr.com/ru/news/888888/?utm_campaign=888888&utm_source=habrahabr&utm_medium=rss)
+- [AGNTCY и будущее агентских технологий: как обеспечить взаимодействие ИИ-агентов](https://habr.com/ru/companies/bothub/news/888930/?utm_campaign=888930&utm_source=habrahabr&utm_medium=rss)
+- [«Кама» запустит серийное производство российского электромобиля «Атом» в июле 2025 года](https://habr.com/ru/news/888924/?utm_campaign=888924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
