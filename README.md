@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Telegram: платные сообщения, информация о собеседниках и трансляция через Chromecast](https://habr.com/ru/news/889050/?utm_campaign=889050&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель ИИ Light-R1-32B с открытым исходным кодом превосходит аналоги в решении математических задач](https://habr.com/ru/companies/bothub/news/888980/?utm_campaign=888980&utm_source=habrahabr&utm_medium=rss)
 - [VR Concept и «Ред Софт» запустили VR‑хакатон «Цифровые миры: VR‑созидатели» 2025](https://habr.com/ru/news/888956/?utm_campaign=888956&utm_source=habrahabr&utm_medium=rss)
 - [Открылся новый завод по выпуску электронной продукции группы компаний «Бештау» в Ростове‑на‑Дону](https://habr.com/ru/news/888940/?utm_campaign=888940&utm_source=habrahabr&utm_medium=rss)
 - [Количество установок RuStore превысило 100 млн](https://habr.com/ru/news/888888/?utm_campaign=888888&utm_source=habrahabr&utm_medium=rss)
-- [AGNTCY и будущее агентских технологий: как обеспечить взаимодействие ИИ-агентов](https://habr.com/ru/companies/bothub/news/888930/?utm_campaign=888930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
