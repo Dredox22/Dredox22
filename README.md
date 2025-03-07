@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел мультимедийный сервер PipeWire 1.4 &lpar;Ambassador&rpar; для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/888740/?utm_campaign=888740&utm_source=habrahabr&utm_medium=rss)
-- [О версионировании в Manticore](https://habr.com/ru/news/888710/?utm_campaign=888710&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Among Us объявили о прекращении поддержки версий игры 2022 года и более ранних](https://habr.com/ru/news/888726/?utm_campaign=888726&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость Платформы nanoCAD с российской СУБД Postgres Pro](https://habr.com/ru/companies/nanosoft/news/888648/?utm_campaign=888648&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia отрицает отсутствие части блоков рендеринга ROP в ноутбуках с RTX 50, но попросила партнёров проверить проблему](https://habr.com/ru/news/888718/?utm_campaign=888718&utm_source=habrahabr&utm_medium=rss)
+- [Соучредитель Hugging Face: ИИ становится «подхалимом на серверах»](https://habr.com/ru/news/888778/?utm_campaign=888778&utm_source=habrahabr&utm_medium=rss)
+- [В популярном датасете Common Crawl нашли около 12 000 рабочих API-ключей](https://habr.com/ru/news/888774/?utm_campaign=888774&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge Game Assist получил крупное обновление с поддержкой большего числа игр](https://habr.com/ru/news/888766/?utm_campaign=888766&utm_source=habrahabr&utm_medium=rss)
+- [Наш проект к 8 марта с ИИ-технологиями](https://habr.com/ru/companies/sberbank/news/888768/?utm_campaign=888768&utm_source=habrahabr&utm_medium=rss)
+- [У Apple есть 90 дней, чтобы разрешить стороннюю загрузку приложений в Бразилии](https://habr.com/ru/news/888760/?utm_campaign=888760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
