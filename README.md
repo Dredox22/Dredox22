@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla открыла конкурентам патенты на электромобили, а США могут аннулировать 42000 китайских товарных знаков: дайджест](https://habr.com/ru/companies/onlinepatent/news/888990/?utm_campaign=888990&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 134](https://habr.com/ru/news/889108/?utm_campaign=889108&utm_source=habrahabr&utm_medium=rss)
 - [Reddit помечает слово «Луиджи» как потенциально жестокий контент](https://habr.com/ru/news/889102/?utm_campaign=889102&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.3](https://habr.com/ru/news/889104/?utm_campaign=889104&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Австралии использует CarPlay для распознавания номеров авто](https://habr.com/ru/news/889100/?utm_campaign=889100&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Clonezilla Live 3.2.1](https://habr.com/ru/news/889092/?utm_campaign=889092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
