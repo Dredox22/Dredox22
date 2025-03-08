@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Microsoft Edge 134](https://habr.com/ru/news/889108/?utm_campaign=889108&utm_source=habrahabr&utm_medium=rss)
+- [Reddit помечает слово «Луиджи» как потенциально жестокий контент](https://habr.com/ru/news/889102/?utm_campaign=889102&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.3](https://habr.com/ru/news/889104/?utm_campaign=889104&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Австралии использует CarPlay для распознавания номеров авто](https://habr.com/ru/news/889100/?utm_campaign=889100&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Clonezilla Live 3.2.1](https://habr.com/ru/news/889092/?utm_campaign=889092&utm_source=habrahabr&utm_medium=rss)
-- [xAI расширяет присутствие в Мемфисе: что известно о планах компании](https://habr.com/ru/companies/bothub/news/889080/?utm_campaign=889080&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: платные сообщения, информация о собеседниках и трансляция через Chromecast](https://habr.com/ru/news/889050/?utm_campaign=889050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
