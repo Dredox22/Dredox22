@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Kagi анонсировала выпуск веб-браузера Orion на базе Webkit для Linux](https://habr.com/ru/news/889308/?utm_campaign=889308&utm_source=habrahabr&utm_medium=rss)
 - [В Bluetooth-чипе ESP32 от Espressif нашли бэкдор](https://habr.com/ru/news/889248/?utm_campaign=889248&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: цифровым мусором оказались около 40% данных российских компаний](https://habr.com/ru/news/889250/?utm_campaign=889250&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-модели научили играть в «Мафию» друг с другом в рамках открытого проекта](https://habr.com/ru/news/889240/?utm_campaign=889240&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует круглые клавиши в Gboard](https://habr.com/ru/news/889236/?utm_campaign=889236&utm_source=habrahabr&utm_medium=rss)
-- [В 2024 году Google выплатила $11,8 млн в качестве вознаграждения экспертам за нахождение уязвимостей в своих сервисах](https://habr.com/ru/news/889152/?utm_campaign=889152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
