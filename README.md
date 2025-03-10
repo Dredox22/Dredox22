@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Некоторые Chromecast начали выдать ошибку «Ненадёжное устройство»](https://habr.com/ru/news/889454/?utm_campaign=889454&utm_source=habrahabr&utm_medium=rss)
-- [Банки и МФО: граждане оформляют кредит после установки самозапрета ради теста или это мошенники проверяют новые схемы](https://habr.com/ru/news/889458/?utm_campaign=889458&utm_source=habrahabr&utm_medium=rss)
-- [«Нанософт» в 8 городах России. nanoДРАЙВ – конференции о российских решениях для строительства и производства](https://habr.com/ru/companies/nanosoft/news/889114/?utm_campaign=889114&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Bincode 2.0](https://habr.com/ru/news/889450/?utm_campaign=889450&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Free95 — это операционная система, совместимая с Windows Win32 GUI и консольными приложениями](https://habr.com/ru/news/889442/?utm_campaign=889442&utm_source=habrahabr&utm_medium=rss)
+- [Compal представила концепт ноутбука с расширяющимся по горизонтали экраном](https://habr.com/ru/news/889480/?utm_campaign=889480&utm_source=habrahabr&utm_medium=rss)
+- [НКЦКИ предупредил о компрометации информационной инфраструктуры сервисного центра Группы Rubytech](https://habr.com/ru/news/889472/?utm_campaign=889472&utm_source=habrahabr&utm_medium=rss)
+- [Adafruit автоматизировала разработку оборудования с помощью Claude Code](https://habr.com/ru/news/889460/?utm_campaign=889460&utm_source=habrahabr&utm_medium=rss)
+- [Объявляем набор на новую стажировку](https://habr.com/ru/companies/bastion/news/888456/?utm_campaign=888456&utm_source=habrahabr&utm_medium=rss)
+- [Некоторые Chromecast начали выдать ошибку «Недоверенное устройство»](https://habr.com/ru/news/889454/?utm_campaign=889454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
