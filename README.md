@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yelp адаптирует технологии ИИ для улучшения пользовательского опыт](https://habr.com/ru/companies/bothub/news/889626/?utm_campaign=889626&utm_source=habrahabr&utm_medium=rss)
+- [Foxconn запустила собственную большую языковую модель](https://habr.com/ru/news/889616/?utm_campaign=889616&utm_source=habrahabr&utm_medium=rss)
 - [CyberCamp запускает комьюнити для специалистов по кибербезопасности](https://habr.com/ru/companies/jetinfosystems/news/889608/?utm_campaign=889608&utm_source=habrahabr&utm_medium=rss)
 - [Встроенное бесплатное проксирование до API Grok реализовано в Amvera Cloud](https://habr.com/ru/companies/amvera/news/889596/?utm_campaign=889596&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила из App Store мобильное приложение под названием «Учёт надоя» от «Россельхозбанка»](https://habr.com/ru/news/889586/?utm_campaign=889586&utm_source=habrahabr&utm_medium=rss)
-- [Kojima Productions объявила о выходе сиквела Death Stranding 26 июня этого года](https://habr.com/ru/news/889572/?utm_campaign=889572&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар. Атаки на сайт в прямом эфире: как обеспечить надежную защиту веб-приложений](https://habr.com/ru/companies/beeline_cloud/news/889570/?utm_campaign=889570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
