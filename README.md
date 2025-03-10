@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Некоторые Chromecast начали выдать ошибку «Ненадёжное устройство»](https://habr.com/ru/news/889454/?utm_campaign=889454&utm_source=habrahabr&utm_medium=rss)
+- [Банки и МФО: граждане оформляют кредит после установки самозапрета ради теста или это мошенники проверяют новые схемы](https://habr.com/ru/news/889458/?utm_campaign=889458&utm_source=habrahabr&utm_medium=rss)
+- [«Нанософт» в 8 городах России. nanoДРАЙВ – конференции о российских решениях для строительства и производства](https://habr.com/ru/companies/nanosoft/news/889114/?utm_campaign=889114&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Bincode 2.0](https://habr.com/ru/news/889450/?utm_campaign=889450&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Free95 — это операционная система, совместимая с Windows Win32 GUI и консольными приложениями](https://habr.com/ru/news/889442/?utm_campaign=889442&utm_source=habrahabr&utm_medium=rss)
-- [Релиз проекта открытой программной платформы для создавания кроссплатформенных приложений Mono 6.14.0](https://habr.com/ru/news/889436/?utm_campaign=889436&utm_source=habrahabr&utm_medium=rss)
-- [Расследование Safe{Wallet}: хакеры атаковали криптобиржу Bybit через уязвимость нулевого дня в macOS](https://habr.com/ru/news/889434/?utm_campaign=889434&utm_source=habrahabr&utm_medium=rss)
-- [В Android 15 для устройств Google Pixel добавлен Linux-терминал](https://habr.com/ru/news/889330/?utm_campaign=889330&utm_source=habrahabr&utm_medium=rss)
-- [Kagi анонсировала выпуск веб-браузера Orion на базе Webkit для Linux](https://habr.com/ru/news/889308/?utm_campaign=889308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
