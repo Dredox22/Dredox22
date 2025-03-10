@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Yelp адаптирует технологии ИИ для улучшения пользовательского опыт](https://habr.com/ru/companies/bothub/news/889626/?utm_campaign=889626&utm_source=habrahabr&utm_medium=rss)
+- [«Ред Софт» анонсировала выпуск «Ред ОС М 4»](https://habr.com/ru/news/889672/?utm_campaign=889672&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры планирует с 2025 по 2027 год выделить 5,8 млрд рублей на развитие Национальной системы управления данными](https://habr.com/ru/news/889662/?utm_campaign=889662&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/889654/?utm_campaign=889654&utm_source=habrahabr&utm_medium=rss)
+- [Yelp адаптирует технологии ИИ для улучшения пользовательского опыта](https://habr.com/ru/companies/bothub/news/889626/?utm_campaign=889626&utm_source=habrahabr&utm_medium=rss)
 - [Foxconn запустила собственную большую языковую модель](https://habr.com/ru/news/889616/?utm_campaign=889616&utm_source=habrahabr&utm_medium=rss)
-- [CyberCamp запускает комьюнити для специалистов по кибербезопасности](https://habr.com/ru/companies/jetinfosystems/news/889608/?utm_campaign=889608&utm_source=habrahabr&utm_medium=rss)
-- [Встроенное бесплатное проксирование до API Grok реализовано в Amvera Cloud](https://habr.com/ru/companies/amvera/news/889596/?utm_campaign=889596&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила из App Store мобильное приложение под названием «Учёт надоя» от «Россельхозбанка»](https://habr.com/ru/news/889586/?utm_campaign=889586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
