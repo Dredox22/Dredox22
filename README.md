@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В январе и феврале 2025 года РКН выявил 19 фактов утечек персональных данных, содержащих более 24 млн записей](https://habr.com/ru/news/889542/?utm_campaign=889542&utm_source=habrahabr&utm_medium=rss)
+- [Разработчика признали виновным в саботаже систем Eaton путём внедрения вредоносного ПО](https://habr.com/ru/news/889534/?utm_campaign=889534&utm_source=habrahabr&utm_medium=rss)
+- [Президент Signal: агентский ИИ «глубоко уязвимым» с точки зрения безопасности и конфиденциальности](https://habr.com/ru/companies/bothub/news/889528/?utm_campaign=889528&utm_source=habrahabr&utm_medium=rss)
 - [Инструкция: как включить старый «Блокнот» в Windows 11 24H2](https://habr.com/ru/news/889504/?utm_campaign=889504&utm_source=habrahabr&utm_medium=rss)
 - [Compal представила концепт ноутбука с расширяющимся по горизонтали экраном](https://habr.com/ru/news/889480/?utm_campaign=889480&utm_source=habrahabr&utm_medium=rss)
-- [НКЦКИ предупредил о компрометации информационной инфраструктуры сервисного центра Группы Rubytech](https://habr.com/ru/news/889472/?utm_campaign=889472&utm_source=habrahabr&utm_medium=rss)
-- [Adafruit автоматизировала разработку оборудования с помощью Claude Code](https://habr.com/ru/news/889460/?utm_campaign=889460&utm_source=habrahabr&utm_medium=rss)
-- [Объявляем набор на новую стажировку](https://habr.com/ru/companies/bastion/news/888456/?utm_campaign=888456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
