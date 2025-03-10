@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обобщенный Манифест Чистого Кода &lpar;v2025.2.0&rpar;](https://habr.com/ru/companies/speach/news/889704/?utm_campaign=889704&utm_source=habrahabr&utm_medium=rss)
+- [Группировка Squid Werewolf атакует компании через фишинговые псевдопредложения о работе](https://habr.com/ru/news/889698/?utm_campaign=889698&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс 360» представил мобильное приложение «Календарь»](https://habr.com/ru/news/889686/?utm_campaign=889686&utm_source=habrahabr&utm_medium=rss)
 - [«Ред Софт» анонсировала выпуск «Ред ОС М 4»](https://habr.com/ru/news/889672/?utm_campaign=889672&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует с 2025 по 2027 год выделить 5,8 млрд рублей на развитие Национальной системы управления данными](https://habr.com/ru/news/889662/?utm_campaign=889662&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/889654/?utm_campaign=889654&utm_source=habrahabr&utm_medium=rss)
-- [Yelp адаптирует технологии ИИ для улучшения пользовательского опыта](https://habr.com/ru/companies/bothub/news/889626/?utm_campaign=889626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
