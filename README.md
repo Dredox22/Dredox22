@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В январе и феврале 2025 года РКН выявил 19 фактов утечек персональных данных, содержащих более 24 млн записей](https://habr.com/ru/news/889542/?utm_campaign=889542&utm_source=habrahabr&utm_medium=rss)
-- [Разработчика признали виновным в саботаже систем Eaton путём внедрения вредоносного ПО](https://habr.com/ru/news/889534/?utm_campaign=889534&utm_source=habrahabr&utm_medium=rss)
-- [Президент Signal: агентский ИИ «глубоко уязвимым» с точки зрения безопасности и конфиденциальности](https://habr.com/ru/companies/bothub/news/889528/?utm_campaign=889528&utm_source=habrahabr&utm_medium=rss)
-- [Инструкция: как включить старый «Блокнот» в Windows 11 24H2](https://habr.com/ru/news/889504/?utm_campaign=889504&utm_source=habrahabr&utm_medium=rss)
-- [Compal представила концепт ноутбука с расширяющимся по горизонтали экраном](https://habr.com/ru/news/889480/?utm_campaign=889480&utm_source=habrahabr&utm_medium=rss)
+- [Великая перестройка ПО: ИИ не просто поглощает всё, он и есть всё](https://habr.com/ru/companies/bothub/news/889580/?utm_campaign=889580&utm_source=habrahabr&utm_medium=rss)
+- [Kojima Productions объявила о выходе сиквела Death Stranding 26 июня этого года](https://habr.com/ru/news/889572/?utm_campaign=889572&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар. Атаки на сайт в прямом эфире: как обеспечить надежную защиту веб-приложений](https://habr.com/ru/companies/beeline_cloud/news/889570/?utm_campaign=889570&utm_source=habrahabr&utm_medium=rss)
+- [Solar webProxy 4.2.1: усовершенствованные возможности для веб-безопасности и управления киберрисками](https://habr.com/ru/companies/solarsecurity/news/889564/?utm_campaign=889564&utm_source=habrahabr&utm_medium=rss)
+- [Календарь хакатонов на март-апрель 2025](https://habr.com/ru/news/889554/?utm_campaign=889554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
