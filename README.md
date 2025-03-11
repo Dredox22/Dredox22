@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft разрабатывает 3D-игры для своей платформы чат-ботов Copilot](https://habr.com/ru/companies/bothub/news/889922/?utm_campaign=889922&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сняла блокировку на установку Windows 11 24H2 на ПК с AutoCAD 2022](https://habr.com/ru/news/889920/?utm_campaign=889920&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI инвестирует в Coreweave: стратегическое партнёрство в сфере ИИ](https://habr.com/ru/companies/bothub/news/889910/?utm_campaign=889910&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FreeBSD 13.5](https://habr.com/ru/news/889900/?utm_campaign=889900&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: с 1 марта сервисом по самозапрету на кредиты через «Госуслуги» воспользовались 5 млн граждан](https://habr.com/ru/news/889878/?utm_campaign=889878&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 24H2 будет напоминать о необходимости защитить учётную запись Microsoft](https://habr.com/ru/news/889858/?utm_campaign=889858&utm_source=habrahabr&utm_medium=rss)
-- [Google отключила возможность установки расширения для блокировки рекламы uBlock Origin из Chrome Web Store](https://habr.com/ru/news/889870/?utm_campaign=889870&utm_source=habrahabr&utm_medium=rss)
-- [Ночной кошмар: число атак мошенников на детей клиентов российских банков за два месяца выросло в 5 раз](https://habr.com/ru/companies/F6/news/889638/?utm_campaign=889638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
