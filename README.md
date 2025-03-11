@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз FreeBSD 13.5](https://habr.com/ru/news/889900/?utm_campaign=889900&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: с 1 марта сервисом по самозапрету на кредиты через «Госуслуги» воспользовались 5 млн граждан](https://habr.com/ru/news/889878/?utm_campaign=889878&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 24H2 будет напоминать о необходимости защитить учётную запись Microsoft](https://habr.com/ru/news/889858/?utm_campaign=889858&utm_source=habrahabr&utm_medium=rss)
 - [Google отключила возможность установки расширения для блокировки рекламы uBlock Origin из Chrome Web Store](https://habr.com/ru/news/889870/?utm_campaign=889870&utm_source=habrahabr&utm_medium=rss)
 - [Ночной кошмар: число атак мошенников на детей клиентов российских банков за два месяца выросло в 5 раз](https://habr.com/ru/companies/F6/news/889638/?utm_campaign=889638&utm_source=habrahabr&utm_medium=rss)
-- [Мартовский рейтинг TIOBE: Ada, Fortran, Delphi и COBOL вырвались в двадцатку популярных языков программирования](https://habr.com/ru/news/889852/?utm_campaign=889852&utm_source=habrahabr&utm_medium=rss)
-- [Жители РФ смогут перенести свой номер телефона между регионами](https://habr.com/ru/news/889838/?utm_campaign=889838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
