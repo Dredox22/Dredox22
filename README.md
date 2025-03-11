@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft с мая 2025 года прекратит поддержку Remote Desktop и удалит приложение из Microsoft Store](https://habr.com/ru/news/889794/?utm_campaign=889794&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного редактора звука Audacity 3.7.2](https://habr.com/ru/news/889784/?utm_campaign=889784&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры Dark Storm Team взяли на себя ответственность за DDoS-атаку на платформу X, соцсеть перешла под защиту Cloudflare](https://habr.com/ru/news/889776/?utm_campaign=889776&utm_source=habrahabr&utm_medium=rss)
 - [IT Purple Conf](https://habr.com/ru/news/889736/?utm_campaign=889736&utm_source=habrahabr&utm_medium=rss)
 - [Обобщенный Манифест Чистого Кода &lpar;v2025.2.0&rpar;](https://habr.com/ru/companies/speach/news/889704/?utm_campaign=889704&utm_source=habrahabr&utm_medium=rss)
-- [Группировка Squid Werewolf атакует компании через фишинговые псевдопредложения о работе](https://habr.com/ru/news/889698/?utm_campaign=889698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
