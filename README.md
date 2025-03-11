@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI только что анонсировали новые инструменты для создания автономных ИИ [обновляется]](https://habr.com/ru/news/890010/?utm_campaign=890010&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI только что анонсировали новые инструменты для создания автономных ИИ](https://habr.com/ru/news/890010/?utm_campaign=890010&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Погода» запустила сервис для аллергиков «Активность пыльцы»](https://habr.com/ru/news/889998/?utm_campaign=889998&utm_source=habrahabr&utm_medium=rss)
 - [CEO Anthropic: через полгода 90% кода будет писать ИИ. Через год — 100%](https://habr.com/ru/news/889992/?utm_campaign=889992&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за февраль 2025 года](https://habr.com/ru/companies/ussc/news/889950/?utm_campaign=889950&utm_source=habrahabr&utm_medium=rss)
