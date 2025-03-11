@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony экспериментирует с персонажами для PlayStation на базе ИИ](https://habr.com/ru/news/889830/?utm_campaign=889830&utm_source=habrahabr&utm_medium=rss)
+- [В библиотеке Python JSON Logger нашли уязвимость, позволяющую подменивать зависимости при установке из PyPI](https://habr.com/ru/news/889810/?utm_campaign=889810&utm_source=habrahabr&utm_medium=rss)
+- [Почему Maven никогда не станет Gradle? / Послевкусие Spring Now 2025 | Spring АйО Подкаст №9](https://habr.com/ru/companies/spring_aio/news/889802/?utm_campaign=889802&utm_source=habrahabr&utm_medium=rss)
+- [Sony обеспечит PS5 Pro более чёткой графикой за счёт бэкпорта FSR 4](https://habr.com/ru/news/889800/?utm_campaign=889800&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft с мая 2025 года прекратит поддержку Remote Desktop и удалит приложение из Microsoft Store](https://habr.com/ru/news/889794/?utm_campaign=889794&utm_source=habrahabr&utm_medium=rss)
-- [Релиз свободного редактора звука Audacity 3.7.2](https://habr.com/ru/news/889784/?utm_campaign=889784&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры Dark Storm Team взяли на себя ответственность за DDoS-атаку на платформу X, соцсеть перешла под защиту Cloudflare](https://habr.com/ru/news/889776/?utm_campaign=889776&utm_source=habrahabr&utm_medium=rss)
-- [IT Purple Conf](https://habr.com/ru/news/889736/?utm_campaign=889736&utm_source=habrahabr&utm_medium=rss)
-- [Обобщенный Манифест Чистого Кода &lpar;v2025.2.0&rpar;](https://habr.com/ru/companies/speach/news/889704/?utm_campaign=889704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
