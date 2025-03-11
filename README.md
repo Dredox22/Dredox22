@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony экспериментирует с персонажами для PlayStation на базе ИИ](https://habr.com/ru/news/889830/?utm_campaign=889830&utm_source=habrahabr&utm_medium=rss)
-- [В библиотеке Python JSON Logger нашли уязвимость, позволяющую подменивать зависимости при установке из PyPI](https://habr.com/ru/news/889810/?utm_campaign=889810&utm_source=habrahabr&utm_medium=rss)
-- [Почему Maven никогда не станет Gradle? / Послевкусие Spring Now 2025 | Spring АйО Подкаст №9](https://habr.com/ru/companies/spring_aio/news/889802/?utm_campaign=889802&utm_source=habrahabr&utm_medium=rss)
-- [Sony обеспечит PS5 Pro более чёткой графикой за счёт бэкпорта FSR 4](https://habr.com/ru/news/889800/?utm_campaign=889800&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft с мая 2025 года прекратит поддержку Remote Desktop и удалит приложение из Microsoft Store](https://habr.com/ru/news/889794/?utm_campaign=889794&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 24H2 будет напоминать о необходимости защитить учётную запись Microsoft](https://habr.com/ru/news/889858/?utm_campaign=889858&utm_source=habrahabr&utm_medium=rss)
+- [Google отключила возможность установки расширения для блокировки рекламы uBlock Origin из Chrome Web Store](https://habr.com/ru/news/889870/?utm_campaign=889870&utm_source=habrahabr&utm_medium=rss)
+- [Ночной кошмар: число атак мошенников на детей клиентов российских банков за два месяца выросло в 5 раз](https://habr.com/ru/companies/F6/news/889638/?utm_campaign=889638&utm_source=habrahabr&utm_medium=rss)
+- [Мартовский рейтинг TIOBE: Ada, Fortran, Delphi и COBOL вырвались в двадцатку популярных языков программирования](https://habr.com/ru/news/889852/?utm_campaign=889852&utm_source=habrahabr&utm_medium=rss)
+- [Жители РФ смогут перенести свой номер телефона между регионами](https://habr.com/ru/news/889838/?utm_campaign=889838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
