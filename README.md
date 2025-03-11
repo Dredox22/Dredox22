@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Погода» запустила сервис для аллергиков «Активность пыльцы»](https://habr.com/ru/news/889998/?utm_campaign=889998&utm_source=habrahabr&utm_medium=rss)
+- [CEO Anthropic: через полгода 90% кода будет писать ИИ. Через год — 100%](https://habr.com/ru/news/889992/?utm_campaign=889992&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за февраль 2025 года](https://habr.com/ru/companies/ussc/news/889950/?utm_campaign=889950&utm_source=habrahabr&utm_medium=rss)
 - [Банки раскритиковали законопроект о создании систем «Антифишинг» и «Антифрод»](https://habr.com/ru/news/889940/?utm_campaign=889940&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор «Билайн»: YouTube в России стал работать медленнее из-за устаревающей сети распределённого хранения видео](https://habr.com/ru/news/889938/?utm_campaign=889938&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрабатывает 3D-игры для своей платформы чат-ботов Copilot](https://habr.com/ru/companies/bothub/news/889922/?utm_campaign=889922&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сняла блокировку на установку Windows 11 24H2 на ПК с AutoCAD 2022](https://habr.com/ru/news/889920/?utm_campaign=889920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
