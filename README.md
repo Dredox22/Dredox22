@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СИГМА — победитель конкурса 1C «Партнер года 2025»](https://habr.com/ru/companies/sigma/news/890302/?utm_campaign=890302&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустил третью версию своей опенсорсной модели Gemma](https://habr.com/ru/news/890246/?utm_campaign=890246&utm_source=habrahabr&utm_medium=rss)
 - [АКИ проводит отбор видеоигровых студий для стенда на игровом фестивале Insomnia Egypt](https://habr.com/ru/news/890234/?utm_campaign=890234&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты F6 исследовали новый шифровальщик-монстр с Востока](https://habr.com/ru/companies/F6/news/890192/?utm_campaign=890192&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой сборке Windows 11 возник баг с d3d9.dll, из-за которого не запускаются приложения на ПК с Nvidia GPU](https://habr.com/ru/news/890230/?utm_campaign=890230&utm_source=habrahabr&utm_medium=rss)
-- [Банки РФ попросили ЦБ об ответственности для сотрудников за оформление мошеннических кредитов](https://habr.com/ru/news/890218/?utm_campaign=890218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
