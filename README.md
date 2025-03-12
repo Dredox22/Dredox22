@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Photos теперь позволяет «отменять резервное копирование устройства» на Android](https://habr.com/ru/news/890136/?utm_campaign=890136&utm_source=habrahabr&utm_medium=rss)
+- [Выпустили low-code-инструмент бессерверной оркестрации — визуальный конструктор для Yandex Workflows](https://habr.com/ru/companies/yandex_cloud_and_infra/news/890096/?utm_campaign=890096&utm_source=habrahabr&utm_medium=rss)
+- [Apple исправила критическую уязвимость WebKit для «чрезвычайно сложных атак»](https://habr.com/ru/news/890128/?utm_campaign=890128&utm_source=habrahabr&utm_medium=rss)
+- [Вышли релизы безопасности Joomla 5.2.5 и Joomla 4.4.12](https://habr.com/ru/news/890130/?utm_campaign=890130&utm_source=habrahabr&utm_medium=rss)
 - [Apple исправляет новую брешь в системе безопасности, использованную при ‘чрезвычайно изощренной атаке’](https://habr.com/ru/companies/bothub/news/890112/?utm_campaign=890112&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI создала ИИ-модель, которая мастерски пишет художественные тексты](https://habr.com/ru/companies/bothub/news/890108/?utm_campaign=890108&utm_source=habrahabr&utm_medium=rss)
-- [Глава IBM не думает, что ИИ заменит программистов в ближайшее время](https://habr.com/ru/news/890106/?utm_campaign=890106&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Paint.NET 5.1.5](https://habr.com/ru/news/890104/?utm_campaign=890104&utm_source=habrahabr&utm_medium=rss)
-- [Новая функция от Adobe позволяет редактировать стоковые изображения «на лету»](https://habr.com/ru/companies/bothub/news/890100/?utm_campaign=890100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
