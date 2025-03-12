@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla: 14 марта окончится срок действия корневого сертификата для заверения дополнений Firefox цифровой подписью](https://habr.com/ru/news/890336/?utm_campaign=890336&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla против запрета отчислений за трафик поисковой системе Google по антимонопольным претензиям Минюста США](https://habr.com/ru/news/890316/?utm_campaign=890316&utm_source=habrahabr&utm_medium=rss)
 - [Скам-тест: мошенники угоняют аккаунты знаменитостей и атакуют их подписчиков с помощью дипфейков](https://habr.com/ru/companies/F6/news/890308/?utm_campaign=890308&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА — победитель конкурса 1C «Партнер года 2025»](https://habr.com/ru/companies/sigma/news/890302/?utm_campaign=890302&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустил третью версию своей опенсорсной модели Gemma](https://habr.com/ru/news/890246/?utm_campaign=890246&utm_source=habrahabr&utm_medium=rss)
-- [АКИ проводит отбор видеоигровых студий для стенда на игровом фестивале Insomnia Egypt](https://habr.com/ru/news/890234/?utm_campaign=890234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
