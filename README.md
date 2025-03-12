@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Применение nanoCAD BIM Отопление при проектировании объекта «Детский сад на 230 мест в г. Орёл»](https://habr.com/ru/companies/nanosoft/news/889666/?utm_campaign=889666&utm_source=habrahabr&utm_medium=rss)
 - [Nokia не смогла совершить сотовый звонок на Луне из-за ограничений по питанию аппарата Athena после нештатной посадки](https://habr.com/ru/news/890076/?utm_campaign=890076&utm_source=habrahabr&utm_medium=rss)
 - [Релиз CrystalDiskInfo 9.6.3](https://habr.com/ru/news/890070/?utm_campaign=890070&utm_source=habrahabr&utm_medium=rss)
 - [Автомобили каршеринга «Ситидрайв» теперь можно арендовать в Telegram](https://habr.com/ru/news/890060/?utm_campaign=890060&utm_source=habrahabr&utm_medium=rss)
 - [Четыре поведенческие стратегии для улучшения рассуждающих языковых моделей](https://habr.com/ru/news/890048/?utm_campaign=890048&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI только что анонсировали новые инструменты для создания автономных ИИ](https://habr.com/ru/news/890010/?utm_campaign=890010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
