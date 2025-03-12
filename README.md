@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Interview. Шаблон прохождения собеседования этого этапа](https://habr.com/ru/news/890202/?utm_campaign=890202&utm_source=habrahabr&utm_medium=rss)
+- [Банки РФ попросили ЦБ об ответственности для сотрудников за оформление мошеннических кредитов](https://habr.com/ru/news/890218/?utm_campaign=890218&utm_source=habrahabr&utm_medium=rss)
+- [«Билайн» до конца 2025 года полностью откажется от 3G в 15 регионах РФ](https://habr.com/ru/news/890212/?utm_campaign=890212&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрабатывает на Go проект TypeScript 7](https://habr.com/ru/news/890124/?utm_campaign=890124&utm_source=habrahabr&utm_medium=rss)
 - [iRobot выпустила восемь новых моделей Roomba с лидарными картами](https://habr.com/ru/news/890166/?utm_campaign=890166&utm_source=habrahabr&utm_medium=rss)
 - [Google Photos теперь позволяет «отменять резервное копирование устройства» на Android](https://habr.com/ru/news/890136/?utm_campaign=890136&utm_source=habrahabr&utm_medium=rss)
-- [Выпустили low-code-инструмент бессерверной оркестрации — визуальный конструктор для Yandex Workflows](https://habr.com/ru/companies/yandex_cloud_and_infra/news/890096/?utm_campaign=890096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
