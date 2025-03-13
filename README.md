@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Экспериментальная функция Gemini с персонализацией: как это работает и зачем нужна история поиска](https://habr.com/ru/companies/bothub/news/890710/?utm_campaign=890710&utm_source=habrahabr&utm_medium=rss)
+- [Dapr расширяет возможности разработчиков в создании ИИ-агентов](https://habr.com/ru/companies/bothub/news/890698/?utm_campaign=890698&utm_source=habrahabr&utm_medium=rss)
 - [Snapchat внедряет генеративный ИИ в видео-объективы для пользователей премиум-подписки](https://habr.com/ru/companies/bothub/news/890678/?utm_campaign=890678&utm_source=habrahabr&utm_medium=rss)
 - [Игровой фестиваль «Рэд Экспо» пройдёт в Москве с 31 октября по 3 ноября 2025 года](https://habr.com/ru/news/890662/?utm_campaign=890662&utm_source=habrahabr&utm_medium=rss)
 - [LLM изменят структуру документации и потребление контента в интернете](https://habr.com/ru/companies/bothub/news/890656/?utm_campaign=890656&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» представил нейросетевую модель GigaChat 2.0](https://habr.com/ru/news/890616/?utm_campaign=890616&utm_source=habrahabr&utm_medium=rss)
-- [РосНИИРОС: не было уведомлений об исключении домена .su из корневой зоны DNS, будет поддержка и развитие домена .su](https://habr.com/ru/news/890606/?utm_campaign=890606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
