@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз мультимедийного фреймворка GStreamer 1.26.0](https://habr.com/ru/news/890444/?utm_campaign=890444&utm_source=habrahabr&utm_medium=rss)
+- [Сервис для отслеживания активности спортсменов Strava банит пользователей за бег в Северной Корее](https://habr.com/ru/news/890434/?utm_campaign=890434&utm_source=habrahabr&utm_medium=rss)
 - [Manticore Search в 3 раза быстрее Elasticsearch рендерит дашборды Kibana](https://habr.com/ru/news/889550/?utm_campaign=889550&utm_source=habrahabr&utm_medium=rss)
 - [Из-за бага в обновлении для Windows 10/11 USB-принтеры на ПК начали сами печатать страницы с данными протокола IPP](https://habr.com/ru/news/890420/?utm_campaign=890420&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в работе Telegram в РФ, спустя пять часов сервис заработал снова](https://habr.com/ru/news/890406/?utm_campaign=890406&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance открыла код Lynx — кроссплатформенного фреймворка для разработки нативных мобильных приложений](https://habr.com/ru/news/890394/?utm_campaign=890394&utm_source=habrahabr&utm_medium=rss)
-- [Открыт прием заявок на конкурс «НАШЫ ИГРЫ 2025»](https://habr.com/ru/news/890358/?utm_campaign=890358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
