@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» представил нейросетевую модель GigaChat 2.0](https://habr.com/ru/news/890616/?utm_campaign=890616&utm_source=habrahabr&utm_medium=rss)
+- [РосНИИРОС: не было уведомлений об исключении домена .su из корневой зоны DNS, будет поддержка и развитие домена .su](https://habr.com/ru/news/890606/?utm_campaign=890606&utm_source=habrahabr&utm_medium=rss)
+- [Spectre Divide и её разработчик Mountaintop Studios закрываются](https://habr.com/ru/news/890602/?utm_campaign=890602&utm_source=habrahabr&utm_medium=rss)
+- [«СёрчИнформ КИБ» и корпоративный мессенджер Squadus подтвердили совместимость](https://habr.com/ru/companies/searchinform/news/890594/?utm_campaign=890594&utm_source=habrahabr&utm_medium=rss)
 - [Соучредитель файлообменника The Pirate Bay погиб в авиакатастрофе](https://habr.com/ru/news/890550/?utm_campaign=890550&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обнаружили северокорейское шпионское ПО в магазине Google Play](https://habr.com/ru/news/890536/?utm_campaign=890536&utm_source=habrahabr&utm_medium=rss)
-- [Банки выступили за заморозку денег до 48 часов на счёте получателя перевода, если он подозревается в мошенничестве](https://habr.com/ru/news/890534/?utm_campaign=890534&utm_source=habrahabr&utm_medium=rss)
-- [«Общество Интернета» предложило единый стандарт OFDS для картографирования наземной интернет-инфраструктуры](https://habr.com/ru/news/890518/?utm_campaign=890518&utm_source=habrahabr&utm_medium=rss)
-- [AMD упростила замену ЦП без переустановки Windows 11 и 10](https://habr.com/ru/news/890508/?utm_campaign=890508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
