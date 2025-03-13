@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Записи автоответчиков стали использовать для создания дипфейков](https://habr.com/ru/news/890480/?utm_campaign=890480&utm_source=habrahabr&utm_medium=rss)
+- [Google позволит удалять данные из Менеджера паролей](https://habr.com/ru/news/890478/?utm_campaign=890478&utm_source=habrahabr&utm_medium=rss)
+- [Google исправит сбой в работе устройств Chromecast](https://habr.com/ru/news/890466/?utm_campaign=890466&utm_source=habrahabr&utm_medium=rss)
+- [Представлен «самый маленький в мире микроконтроллер» площадью 1,38 мм²](https://habr.com/ru/news/890460/?utm_campaign=890460&utm_source=habrahabr&utm_medium=rss)
 - [ICANN запланировала поэтапное прекращение использования к 2030 году домена .su](https://habr.com/ru/news/890452/?utm_campaign=890452&utm_source=habrahabr&utm_medium=rss)
-- [Сервис быстрой авторизации VK ID прошёл международный аудит по кибербезопасности](https://habr.com/ru/news/890396/?utm_campaign=890396&utm_source=habrahabr&utm_medium=rss)
-- [Intel назначила Лип-Бу Тана своим новым генеральным директором](https://habr.com/ru/news/890446/?utm_campaign=890446&utm_source=habrahabr&utm_medium=rss)
-- [Релиз мультимедийного фреймворка GStreamer 1.26.0](https://habr.com/ru/news/890444/?utm_campaign=890444&utm_source=habrahabr&utm_medium=rss)
-- [Сервис для отслеживания активности спортсменов Strava банит пользователей за бег в Северной Корее](https://habr.com/ru/news/890434/?utm_campaign=890434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
