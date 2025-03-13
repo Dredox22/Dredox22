@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбой в работе Telegram в РФ, спустя пять часов сервис заработал снова](https://habr.com/ru/news/890406/?utm_campaign=890406&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance открыла код Lynx — кроссплатформенного фреймворка для разработки нативных мобильных приложений](https://habr.com/ru/news/890394/?utm_campaign=890394&utm_source=habrahabr&utm_medium=rss)
 - [Открыт прием заявок на конкурс «НАШЫ ИГРЫ 2025»](https://habr.com/ru/news/890358/?utm_campaign=890358&utm_source=habrahabr&utm_medium=rss)
 - [Тысячи роутеров TP-Link заражены ботнетом Ballista](https://habr.com/ru/news/890348/?utm_campaign=890348&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind анонсировали Gemini Robotics — VLA-модель для робототехники](https://habr.com/ru/news/890346/?utm_campaign=890346&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla: 14 марта окончится срок действия корневого сертификата для заверения дополнений Firefox цифровой подписью](https://habr.com/ru/news/890336/?utm_campaign=890336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
