@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Игровой фестиваль «Рэд Экспо» пройдёт в Москве с 31 октября по 3 ноября 2025 года](https://habr.com/ru/news/890662/?utm_campaign=890662&utm_source=habrahabr&utm_medium=rss)
+- [LLM изменят структуру документации и потребление контента в интернете](https://habr.com/ru/companies/bothub/news/890656/?utm_campaign=890656&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» представил нейросетевую модель GigaChat 2.0](https://habr.com/ru/news/890616/?utm_campaign=890616&utm_source=habrahabr&utm_medium=rss)
 - [РосНИИРОС: не было уведомлений об исключении домена .su из корневой зоны DNS, будет поддержка и развитие домена .su](https://habr.com/ru/news/890606/?utm_campaign=890606&utm_source=habrahabr&utm_medium=rss)
 - [Spectre Divide и её разработчик Mountaintop Studios закрываются](https://habr.com/ru/news/890602/?utm_campaign=890602&utm_source=habrahabr&utm_medium=rss)
-- [«СёрчИнформ КИБ» и корпоративный мессенджер Squadus подтвердили совместимость](https://habr.com/ru/companies/searchinform/news/890594/?utm_campaign=890594&utm_source=habrahabr&utm_medium=rss)
-- [Соучредитель файлообменника The Pirate Bay погиб в авиакатастрофе](https://habr.com/ru/news/890550/?utm_campaign=890550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
