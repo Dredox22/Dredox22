@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Соучредитель файлообменника The Pirate Bay погиб в авиакатастрофе](https://habr.com/ru/news/890550/?utm_campaign=890550&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи обнаружили северокорейское шпионское ПО в магазине Google Play](https://habr.com/ru/news/890536/?utm_campaign=890536&utm_source=habrahabr&utm_medium=rss)
+- [Банки выступили за заморозку денег до 48 часов на счёте получателя перевода, если он подозревается в мошенничестве](https://habr.com/ru/news/890534/?utm_campaign=890534&utm_source=habrahabr&utm_medium=rss)
 - [«Общество Интернета» предложило единый стандарт OFDS для картографирования наземной интернет-инфраструктуры](https://habr.com/ru/news/890518/?utm_campaign=890518&utm_source=habrahabr&utm_medium=rss)
 - [AMD упростила замену ЦП без переустановки Windows 11 и 10](https://habr.com/ru/news/890508/?utm_campaign=890508&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи iOS в ЕС получат возможность установить навигационное приложение по умолчанию](https://habr.com/ru/news/890514/?utm_campaign=890514&utm_source=habrahabr&utm_medium=rss)
-- [ADATA представила миниатюрный внешний SSD с портами USB-A и USB-C](https://habr.com/ru/news/890494/?utm_campaign=890494&utm_source=habrahabr&utm_medium=rss)
-- [Записи автоответчиков стали использовать для создания дипфейков](https://habr.com/ru/news/890480/?utm_campaign=890480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
