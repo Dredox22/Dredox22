@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Функции ИИ в Блокноте для Windows 11: краткое изложение текста и другие нововведения](https://habr.com/ru/companies/bothub/news/890914/?utm_campaign=890914&utm_source=habrahabr&utm_medium=rss)
+- [Анализ конфиденциальности популярных чат-ботов с ИИ: какие из них собирают больше всего данных](https://habr.com/ru/companies/bothub/news/890908/?utm_campaign=890908&utm_source=habrahabr&utm_medium=rss)
+- [SoftBank переделает бывший завод Sharp в ЦОД для OpenAI](https://habr.com/ru/news/890888/?utm_campaign=890888&utm_source=habrahabr&utm_medium=rss)
 - [В мобильном приложении «Яндекс Музыка» появилось «Автоматическое» качество звучания](https://habr.com/ru/news/890866/?utm_campaign=890866&utm_source=habrahabr&utm_medium=rss)
 - [Как научить ИИ-агентов лучше планировать задачи с помощью мета-плана?](https://habr.com/ru/news/890858/?utm_campaign=890858&utm_source=habrahabr&utm_medium=rss)
-- [Контейнеры и Kubernetes — точно ли оно вам надо?](https://habr.com/ru/companies/chislitellab/news/890842/?utm_campaign=890842&utm_source=habrahabr&utm_medium=rss)
-- [Google изменила политику расширений Chrome после скандала со ссылками Honey](https://habr.com/ru/news/890816/?utm_campaign=890816&utm_source=habrahabr&utm_medium=rss)
-- [Платформа Cozystack стала проектом CNCF Sandbox](https://habr.com/ru/news/890596/?utm_campaign=890596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
