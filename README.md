@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Функции ИИ в Блокноте для Windows 11: краткое изложение текста и другие нововведения](https://habr.com/ru/companies/bothub/news/890914/?utm_campaign=890914&utm_source=habrahabr&utm_medium=rss)
-- [Анализ конфиденциальности популярных чат-ботов с ИИ: какие из них собирают больше всего данных](https://habr.com/ru/companies/bothub/news/890908/?utm_campaign=890908&utm_source=habrahabr&utm_medium=rss)
-- [SoftBank переделает бывший завод Sharp в ЦОД для OpenAI](https://habr.com/ru/news/890888/?utm_campaign=890888&utm_source=habrahabr&utm_medium=rss)
-- [В мобильном приложении «Яндекс Музыка» появилось «Автоматическое» качество звучания](https://habr.com/ru/news/890866/?utm_campaign=890866&utm_source=habrahabr&utm_medium=rss)
-- [Как научить ИИ-агентов лучше планировать задачи с помощью мета-плана?](https://habr.com/ru/news/890858/?utm_campaign=890858&utm_source=habrahabr&utm_medium=rss)
+- [Релиз среды разработки Qt Creator 16](https://habr.com/ru/news/890944/?utm_campaign=890944&utm_source=habrahabr&utm_medium=rss)
+- [Завершено строительство Московского центра фотоники в «Алабушеве»](https://habr.com/ru/news/890934/?utm_campaign=890934&utm_source=habrahabr&utm_medium=rss)
+- [Центр мониторинга инцидентов «1С‑Битрикс»: взломы сайтов, использующих устаревшие решения компаний eSolutions и «Маяк»](https://habr.com/ru/news/890910/?utm_campaign=890910&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI и Microsoft: сотрудничество вопреки различиям в подходах к разработке ИИ](https://habr.com/ru/companies/bothub/news/890924/?utm_campaign=890924&utm_source=habrahabr&utm_medium=rss)
+- [В России разработали новый метод измерения пульса, способный повлиять на будущее телемедицины](https://habr.com/ru/companies/kryptonite/news/890920/?utm_campaign=890920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
