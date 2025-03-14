@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком»: «Белтелеком» продлит магистральную линию связи нового поколения TEA NEXT за пределы России](https://habr.com/ru/news/891000/?utm_campaign=891000&utm_source=habrahabr&utm_medium=rss)
+- [База данных оборудования «Пожарная Автоматика» для nanoCAD BIM ВК](https://habr.com/ru/companies/nanosoft/news/890992/?utm_campaign=890992&utm_source=habrahabr&utm_medium=rss)
+- [Deckhouse Kubernetes Platform больше не в CNCF: почему мы приняли такое решение](https://habr.com/ru/companies/flant/news/890592/?utm_campaign=890592&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды разработки Qt Creator 16](https://habr.com/ru/news/890944/?utm_campaign=890944&utm_source=habrahabr&utm_medium=rss)
 - [Завершено строительство Московского центра фотоники в «Алабушеве»](https://habr.com/ru/news/890934/?utm_campaign=890934&utm_source=habrahabr&utm_medium=rss)
-- [Центр мониторинга инцидентов «1С‑Битрикс»: взломы сайтов, использующих устаревшие решения компаний eSolutions и «Маяк»](https://habr.com/ru/news/890910/?utm_campaign=890910&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI и Microsoft: сотрудничество вопреки различиям в подходах к разработке ИИ](https://habr.com/ru/companies/bothub/news/890924/?utm_campaign=890924&utm_source=habrahabr&utm_medium=rss)
-- [В России разработали новый метод измерения пульса, способный повлиять на будущее телемедицины](https://habr.com/ru/companies/kryptonite/news/890920/?utm_campaign=890920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
