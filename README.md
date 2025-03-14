@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т-технологии» вложит 500 млн рублей в собственный центр исследований и разработок](https://habr.com/ru/news/890756/?utm_campaign=890756&utm_source=habrahabr&utm_medium=rss)
 - [Google Gemini только что сделал две свои лучшие функции доступными бесплатно](https://habr.com/ru/companies/bothub/news/890716/?utm_campaign=890716&utm_source=habrahabr&utm_medium=rss)
 - [Экспериментальная функция Gemini с персонализацией: как это работает и зачем нужна история поиска](https://habr.com/ru/companies/bothub/news/890710/?utm_campaign=890710&utm_source=habrahabr&utm_medium=rss)
 - [Dapr расширяет возможности разработчиков в создании ИИ-агентов](https://habr.com/ru/companies/bothub/news/890698/?utm_campaign=890698&utm_source=habrahabr&utm_medium=rss)
 - [Snapchat внедряет генеративный ИИ в видео-объективы для пользователей премиум-подписки](https://habr.com/ru/companies/bothub/news/890678/?utm_campaign=890678&utm_source=habrahabr&utm_medium=rss)
-- [Игровой фестиваль «Рэд Экспо» пройдёт в Москве с 31 октября по 3 ноября 2025 года](https://habr.com/ru/news/890662/?utm_campaign=890662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
