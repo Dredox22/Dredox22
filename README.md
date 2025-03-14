@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пользователи iPhone 16e столкнулись с проблемой воспроизведения через Bluetooth](https://habr.com/ru/news/890784/?utm_campaign=890784&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft ошибочно удалила расширения для VSCode Material Theme — Free и Material Theme Icons — Free и потом вернула](https://habr.com/ru/news/890786/?utm_campaign=890786&utm_source=habrahabr&utm_medium=rss)
-- [В тюрьмах США начали использовать виртуальную реальность, чтобы помочь людям в одиночном заключении](https://habr.com/ru/news/890766/?utm_campaign=890766&utm_source=habrahabr&utm_medium=rss)
-- [ZA/UM анонсировала выход Disco Elysium на Android](https://habr.com/ru/news/890764/?utm_campaign=890764&utm_source=habrahabr&utm_medium=rss)
-- [В системах МТС 8% от общего числа строк программного кода пишется с помощью ИИ](https://habr.com/ru/news/890758/?utm_campaign=890758&utm_source=habrahabr&utm_medium=rss)
+- [Google изменила политику расширений Chrome после скандала со ссылками Honey](https://habr.com/ru/news/890816/?utm_campaign=890816&utm_source=habrahabr&utm_medium=rss)
+- [Платформа Cozystack стала проектом CNCF Sandbox](https://habr.com/ru/news/890596/?utm_campaign=890596&utm_source=habrahabr&utm_medium=rss)
+- [Инструменты «Ножницы» и «Блокнот» получат новые функции в Windows 10 и 11](https://habr.com/ru/news/890794/?utm_campaign=890794&utm_source=habrahabr&utm_medium=rss)
+- [Разбитые надежды: доходы скамеров от фейковых свиданий на праздниках достигли 10 млн рублей](https://habr.com/ru/companies/F6/news/890798/?utm_campaign=890798&utm_source=habrahabr&utm_medium=rss)
+- [Sonos отказалась от своих планов по выпуску стримингового видеоплеера Pinewood в этом году](https://habr.com/ru/news/890796/?utm_campaign=890796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
