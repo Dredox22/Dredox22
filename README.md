@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В тюрьмах США начали использовать виртуальную реальность, чтобы помочь людям в одиночном заключении](https://habr.com/ru/news/890766/?utm_campaign=890766&utm_source=habrahabr&utm_medium=rss)
+- [ZA/UM анонсировала выход Disco Elysium на Android](https://habr.com/ru/news/890764/?utm_campaign=890764&utm_source=habrahabr&utm_medium=rss)
+- [В системах МТС 8% от общего числа строк программного кода пишется с помощью ИИ](https://habr.com/ru/news/890758/?utm_campaign=890758&utm_source=habrahabr&utm_medium=rss)
 - [«Т-технологии» вложит 500 млн рублей в собственный центр исследований и разработок](https://habr.com/ru/news/890756/?utm_campaign=890756&utm_source=habrahabr&utm_medium=rss)
 - [Google Gemini только что сделал две свои лучшие функции доступными бесплатно](https://habr.com/ru/companies/bothub/news/890716/?utm_campaign=890716&utm_source=habrahabr&utm_medium=rss)
-- [Экспериментальная функция Gemini с персонализацией: как это работает и зачем нужна история поиска](https://habr.com/ru/companies/bothub/news/890710/?utm_campaign=890710&utm_source=habrahabr&utm_medium=rss)
-- [Dapr расширяет возможности разработчиков в создании ИИ-агентов](https://habr.com/ru/companies/bothub/news/890698/?utm_campaign=890698&utm_source=habrahabr&utm_medium=rss)
-- [Snapchat внедряет генеративный ИИ в видео-объективы для пользователей премиум-подписки](https://habr.com/ru/companies/bothub/news/890678/?utm_campaign=890678&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
