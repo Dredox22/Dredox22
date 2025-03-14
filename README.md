@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В мобильном приложении «Яндекс Музыка» появилось «Автоматическое» качество звучания](https://habr.com/ru/news/890866/?utm_campaign=890866&utm_source=habrahabr&utm_medium=rss)
+- [Как научить ИИ-агентов лучше планировать задачи с помощью мета-плана?](https://habr.com/ru/news/890858/?utm_campaign=890858&utm_source=habrahabr&utm_medium=rss)
 - [Контейнеры и Kubernetes — точно ли оно вам надо?](https://habr.com/ru/companies/chislitellab/news/890842/?utm_campaign=890842&utm_source=habrahabr&utm_medium=rss)
 - [Google изменила политику расширений Chrome после скандала со ссылками Honey](https://habr.com/ru/news/890816/?utm_campaign=890816&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Cozystack стала проектом CNCF Sandbox](https://habr.com/ru/news/890596/?utm_campaign=890596&utm_source=habrahabr&utm_medium=rss)
-- [Инструменты «Ножницы» и «Блокнот» получат новые функции в Windows 10 и 11](https://habr.com/ru/news/890794/?utm_campaign=890794&utm_source=habrahabr&utm_medium=rss)
-- [Разбитые надежды: доходы скамеров от фейковых свиданий на праздниках достигли 10 млн рублей](https://habr.com/ru/companies/F6/news/890798/?utm_campaign=890798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
