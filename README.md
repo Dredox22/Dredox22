@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ключевые инженеры DeepSeek сдали свои загранпаспорта, проект объявлен национальным достоянием Китая](https://habr.com/ru/news/891096/?utm_campaign=891096&utm_source=habrahabr&utm_medium=rss)
 - [26 марта — DevOps митап от билайна: Казань + онлайн](https://habr.com/ru/companies/beeline_tech/news/891038/?utm_campaign=891038&utm_source=habrahabr&utm_medium=rss)
 - [Selectel запускает CTF-турнир: старт 17 марта в 12:00](https://habr.com/ru/companies/selectel/news/891008/?utm_campaign=891008&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI попросила разрешить США обучать ИИ на материалах, защищённых авторским правом, как «добросовестное использование»](https://habr.com/ru/news/891016/?utm_campaign=891016&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком»: «Белтелеком» продлит магистральную линию связи нового поколения TEA NEXT за пределы России](https://habr.com/ru/news/891000/?utm_campaign=891000&utm_source=habrahabr&utm_medium=rss)
-- [База данных оборудования «Пожарная Автоматика» для nanoCAD BIM ВК](https://habr.com/ru/companies/nanosoft/news/890992/?utm_campaign=890992&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
