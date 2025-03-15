@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Павел Дуров улетел из Франции в Дубай на несколько недель по разрешению суда](https://habr.com/ru/news/891180/?utm_campaign=891180&utm_source=habrahabr&utm_medium=rss)
+- [Релиз digiKam 8.6.0](https://habr.com/ru/news/891176/?utm_campaign=891176&utm_source=habrahabr&utm_medium=rss)
 - [GitHub перевёл репозитории проекта Organic Maps в архивный режим из-за санкций против одного из разработчиков проекта](https://habr.com/ru/news/891162/?utm_campaign=891162&utm_source=habrahabr&utm_medium=rss)
 - [Голосовой чат от Nintendo, биометрия по венам и 100 главных инноваторов мира в новом рейтинге: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/890952/?utm_campaign=890952&utm_source=habrahabr&utm_medium=rss)
 - [Telegram сможет блокировать аккаунты нарушителей, им можно будет заходить в аккаунт, но выполнять действия там нельзя](https://habr.com/ru/news/891118/?utm_campaign=891118&utm_source=habrahabr&utm_medium=rss)
-- [Google внедрила в Find My Device опцию «Люди»](https://habr.com/ru/news/891112/?utm_campaign=891112&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft и студия Unfrozen откроют ранний доступ к игре Heroes of Might &amp;amp; Magic: Olden Era с 17 по 28 марта](https://habr.com/ru/news/891114/?utm_campaign=891114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
