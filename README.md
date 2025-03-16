@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Ростехе» запустили новое производство мини‑компьютеров для нейросетей](https://habr.com/ru/news/891340/?utm_campaign=891340&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление мобильной операционной системы «Роса Мобайл»](https://habr.com/ru/news/891338/?utm_campaign=891338&utm_source=habrahabr&utm_medium=rss)
 - [Квест «Сердце Алтая», посвященный культуре коренных народов Республики Алтай, вышел в ранний доступ на VK Play](https://habr.com/ru/news/891318/?utm_campaign=891318&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play обеспечат более простые сторонние загрузки за счёт функции «паузы»](https://habr.com/ru/news/891288/?utm_campaign=891288&utm_source=habrahabr&utm_medium=rss)
 - [Язык программирования Julia стал доступен в Google Colab](https://habr.com/ru/news/891282/?utm_campaign=891282&utm_source=habrahabr&utm_medium=rss)
-- [Sony представила плеер Blu-ray UBP-X700K, компания не выпускала такие новые проигрыватели с 2019 года](https://habr.com/ru/news/891274/?utm_campaign=891274&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Nvidia RTX Remix 1.0](https://habr.com/ru/news/891260/?utm_campaign=891260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
