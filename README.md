@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Nvidia RTX Remix 1.0](https://habr.com/ru/news/891260/?utm_campaign=891260&utm_source=habrahabr&utm_medium=rss)
+- [Выявлена компрометация обработчика changed-files в GitHub Actions, используемого в более 23 тыс. репозиториях](https://habr.com/ru/news/891256/?utm_campaign=891256&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Debian 12.10](https://habr.com/ru/news/891254/?utm_campaign=891254&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT установил новый рекорд по посещаемости](https://habr.com/ru/companies/bothub/news/891186/?utm_campaign=891186&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT получил функцию редактирования кода на macOS](https://habr.com/ru/companies/bothub/news/891154/?utm_campaign=891154&utm_source=habrahabr&utm_medium=rss)
-- [Павел Дуров улетел из Франции в Дубай на несколько недель по разрешению суда](https://habr.com/ru/news/891180/?utm_campaign=891180&utm_source=habrahabr&utm_medium=rss)
-- [Релиз digiKam 8.6.0](https://habr.com/ru/news/891176/?utm_campaign=891176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
