@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Глава Samsung Electronics призвал к решительным действиям на фоне нарастающих вызовов, связанных с развитием ИИ](https://habr.com/ru/news/891616/?utm_campaign=891616&utm_source=habrahabr&utm_medium=rss)
-- [Документация по Playwright теперь на русском](https://habr.com/ru/news/891604/?utm_campaign=891604&utm_source=habrahabr&utm_medium=rss)
-- [Дуров о возвращении в Дубай: процесс во Франции продолжается, но приятно вернуться домой](https://habr.com/ru/news/891540/?utm_campaign=891540&utm_source=habrahabr&utm_medium=rss)
-- [Февральские обновления: новые серверы, Scale2Zero и бесплатный курс](https://habr.com/ru/companies/selectel/news/891470/?utm_campaign=891470&utm_source=habrahabr&utm_medium=rss)
-- [Создателями популярного приложения для подсчёта калорий на фото еды оказались два подростка](https://habr.com/ru/news/891520/?utm_campaign=891520&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/891576/?utm_campaign=891576&utm_source=habrahabr&utm_medium=rss)
+- [Игра «Русы против Ящеров 2» выйдет 27 марта 2025 года](https://habr.com/ru/news/891654/?utm_campaign=891654&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отказывается рассматривать отчёт об уязвимости, если нет видео вместе с письменным объяснением инцидента](https://habr.com/ru/news/891648/?utm_campaign=891648&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского»: 76% детей указывают возраст в своих профилях в социальных сетях](https://habr.com/ru/news/891644/?utm_campaign=891644&utm_source=habrahabr&utm_medium=rss)
+- [Как ИнжЭкоТриумф ускорили процедуру согласования решений с заказчиками с применением nanoCAD BIM Конструкции](https://habr.com/ru/companies/nanosoft/news/891642/?utm_campaign=891642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
