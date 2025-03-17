@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi представила микроконтроллер RP2350](https://habr.com/ru/news/891680/?utm_campaign=891680&utm_source=habrahabr&utm_medium=rss)
 - [Вышла MSI Afterburner 4.6.6 &lpar;Beta 5 Build 16555&rpar; с поддержкой разгона видеопамяти RTX 50 GDDR7 до 36 ГТ/с](https://habr.com/ru/news/891662/?utm_campaign=891662&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/891576/?utm_campaign=891576&utm_source=habrahabr&utm_medium=rss)
 - [Игра «Русы против Ящеров 2» выйдет 27 марта 2025 года](https://habr.com/ru/news/891654/?utm_campaign=891654&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отказывается рассматривать отчёт об уязвимости, если нет видео вместе с письменным объяснением инцидента](https://habr.com/ru/news/891648/?utm_campaign=891648&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского»: 76% детей указывают возраст в своих профилях в социальных сетях](https://habr.com/ru/news/891644/?utm_campaign=891644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
