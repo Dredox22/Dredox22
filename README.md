@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров о возвращении в Дубай: процесс во Франции продолжается, но приятно вернуться домой](https://habr.com/ru/news/891540/?utm_campaign=891540&utm_source=habrahabr&utm_medium=rss)
+- [Февральские обновления: новые серверы, Scale2Zero и бесплатный курс](https://habr.com/ru/companies/selectel/news/891470/?utm_campaign=891470&utm_source=habrahabr&utm_medium=rss)
 - [Создателями популярного приложения для подсчёта калорий на фото оказались два подростка](https://habr.com/ru/news/891520/?utm_campaign=891520&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GIMP 3.0](https://habr.com/ru/news/891446/?utm_campaign=891446&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: как работать с сетевыми дисками для выделенных серверов](https://habr.com/ru/companies/selectel/news/891486/?utm_campaign=891486&utm_source=habrahabr&utm_medium=rss)
-- [Тяжелый металл: новая группа Telemancon атакует промышленные организации](https://habr.com/ru/companies/F6/news/891482/?utm_campaign=891482&utm_source=habrahabr&utm_medium=rss)
-- [Ассоциации российских IT‑компаний предложили меры поддержки на случай возвращения западных вендоров](https://habr.com/ru/news/891468/?utm_campaign=891468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
