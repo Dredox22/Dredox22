@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор потребовал от Telegram удалить запрещённые в РФ наборы стикеров](https://habr.com/ru/news/891418/?utm_campaign=891418&utm_source=habrahabr&utm_medium=rss)
 - [eSafety раскрыл основные практики модерации в Telegram](https://habr.com/ru/news/891414/?utm_campaign=891414&utm_source=habrahabr&utm_medium=rss)
 - [Google Gemini 2.0 Flash удаляет водяные знаки с изображений Getty Images и других стоковых сервисов](https://habr.com/ru/news/891408/?utm_campaign=891408&utm_source=habrahabr&utm_medium=rss)
 - [В «Ростехе» запустили новое производство мини‑компьютеров для нейросетей](https://habr.com/ru/news/891340/?utm_campaign=891340&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление мобильной операционной системы «Роса Мобайл»](https://habr.com/ru/news/891338/?utm_campaign=891338&utm_source=habrahabr&utm_medium=rss)
-- [Квест «Сердце Алтая», посвященный культуре коренных народов Республики Алтай, вышел в ранний доступ на VK Play](https://habr.com/ru/news/891318/?utm_campaign=891318&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
