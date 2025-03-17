@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [eSafety раскрыл основные практики модерации в Telegram](https://habr.com/ru/news/891414/?utm_campaign=891414&utm_source=habrahabr&utm_medium=rss)
 - [Google Gemini 2.0 Flash удаляет водяные знаки с изображений Getty Images и других стоковых сервисов](https://habr.com/ru/news/891408/?utm_campaign=891408&utm_source=habrahabr&utm_medium=rss)
 - [В «Ростехе» запустили новое производство мини‑компьютеров для нейросетей](https://habr.com/ru/news/891340/?utm_campaign=891340&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление мобильной операционной системы «Роса Мобайл»](https://habr.com/ru/news/891338/?utm_campaign=891338&utm_source=habrahabr&utm_medium=rss)
 - [Квест «Сердце Алтая», посвященный культуре коренных народов Республики Алтай, вышел в ранний доступ на VK Play](https://habr.com/ru/news/891318/?utm_campaign=891318&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play обеспечат более простые сторонние загрузки за счёт функции «паузы»](https://habr.com/ru/news/891288/?utm_campaign=891288&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
