@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел CrossOver 25.0.0 для macOS и Linux](https://habr.com/ru/news/891444/?utm_campaign=891444&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Git 2.49](https://habr.com/ru/news/891430/?utm_campaign=891430&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор потребовал от Telegram удалить запрещённые в РФ наборы стикеров](https://habr.com/ru/news/891418/?utm_campaign=891418&utm_source=habrahabr&utm_medium=rss)
 - [eSafety раскрыл основные практики модерации в Telegram](https://habr.com/ru/news/891414/?utm_campaign=891414&utm_source=habrahabr&utm_medium=rss)
 - [Google Gemini 2.0 Flash удаляет водяные знаки с изображений Getty Images и других стоковых сервисов](https://habr.com/ru/news/891408/?utm_campaign=891408&utm_source=habrahabr&utm_medium=rss)
-- [В «Ростехе» запустили новое производство мини‑компьютеров для нейросетей](https://habr.com/ru/news/891340/?utm_campaign=891340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
