@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Создателями популярного приложения для подсчёта калорий на фото оказались два подростка](https://habr.com/ru/news/891520/?utm_campaign=891520&utm_source=habrahabr&utm_medium=rss)
+- [Релиз GIMP 3.0](https://habr.com/ru/news/891446/?utm_campaign=891446&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: как работать с сетевыми дисками для выделенных серверов](https://habr.com/ru/companies/selectel/news/891486/?utm_campaign=891486&utm_source=habrahabr&utm_medium=rss)
 - [Тяжелый металл: новая группа Telemancon атакует промышленные организации](https://habr.com/ru/companies/F6/news/891482/?utm_campaign=891482&utm_source=habrahabr&utm_medium=rss)
 - [Ассоциации российских IT‑компаний предложили меры поддержки на случай возвращения западных вендоров](https://habr.com/ru/news/891468/?utm_campaign=891468&utm_source=habrahabr&utm_medium=rss)
-- [Вышел CrossOver 25.0.0 для macOS и Linux](https://habr.com/ru/news/891444/?utm_campaign=891444&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Git 2.49](https://habr.com/ru/news/891430/?utm_campaign=891430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
