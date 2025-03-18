@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Freedesktop.org запустил недельный процесс миграции своего инстанса GitLab на новую IT-инфраструктуру](https://habr.com/ru/news/891800/?utm_campaign=891800&utm_source=habrahabr&utm_medium=rss)
 - [Вышла CPU-Z 2.15](https://habr.com/ru/news/891788/?utm_campaign=891788&utm_source=habrahabr&utm_medium=rss)
 - [Баг в мартовском обновлении KB5053598 для Windows 11 24H2 приводит к удалению ИИ-помощника Microsoft Copilot](https://habr.com/ru/news/891780/?utm_campaign=891780&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор назвал проблему на инфраструктуре причиной массового сбоя в сервисах «Яндекса»](https://habr.com/ru/news/891778/?utm_campaign=891778&utm_source=habrahabr&utm_medium=rss)
 - [ServiceNow расширяет возможности агентов искусственного интеллекта](https://habr.com/ru/companies/bothub/news/891158/?utm_campaign=891158&utm_source=habrahabr&utm_medium=rss)
-- [D‑Link рекомендует заменить устаревшие роутеры из‑за выявленной уязвимости](https://habr.com/ru/news/891694/?utm_campaign=891694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
