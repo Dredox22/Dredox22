@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Демо-версия ремейка Half-Life 2 RTX вышла в Steam](https://habr.com/ru/news/892050/?utm_campaign=892050&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Java 24](https://habr.com/ru/companies/spring_aio/news/892046/?utm_campaign=892046&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Java 24](https://habr.com/ru/news/892004/?utm_campaign=892004&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого моноширинного шрифта Maple Mono Font v7.0 для использования при работе с кодом](https://habr.com/ru/news/891974/?utm_campaign=891974&utm_source=habrahabr&utm_medium=rss)
 - [Команда ALT Linux запустила сервис хостинга Git-проектов ALT Linux Forgejo](https://habr.com/ru/news/891946/?utm_campaign=891946&utm_source=habrahabr&utm_medium=rss)
-- [Судья приостановил с 15 марта по 7 апреля действие постановления для Дурова оставаться во Франции на время расследования](https://habr.com/ru/news/891926/?utm_campaign=891926&utm_source=habrahabr&utm_medium=rss)
-- [Мобильные приложения крупных банков дополнят функционалом для пострадавших от мошенников](https://habr.com/ru/news/891914/?utm_campaign=891914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
