@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого моноширинного шрифта Maple Mono Font v7.0 для использования при работе с кодом](https://habr.com/ru/news/891974/?utm_campaign=891974&utm_source=habrahabr&utm_medium=rss)
 - [Команда ALT Linux запустила сервис хостинга Git-проектов ALT Linux Forgejo](https://habr.com/ru/news/891946/?utm_campaign=891946&utm_source=habrahabr&utm_medium=rss)
 - [Судья приостановил с 15 марта по 7 апреля действие постановления для Дурова оставаться во Франции на время расследования](https://habr.com/ru/news/891926/?utm_campaign=891926&utm_source=habrahabr&utm_medium=rss)
 - [Мобильные приложения крупных банков дополнят функционалом для пострадавших от мошенников](https://habr.com/ru/news/891914/?utm_campaign=891914&utm_source=habrahabr&utm_medium=rss)
 - [Терминал vs UI / Java медленная / Модальное окно коммита в IntelliJ | Spring АйО Подкаст №10](https://habr.com/ru/companies/spring_aio/news/891908/?utm_campaign=891908&utm_source=habrahabr&utm_medium=rss)
-- [Google исправила сбой в работе устройств Chromecast](https://habr.com/ru/news/891858/?utm_campaign=891858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
