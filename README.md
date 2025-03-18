@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies: «Банковские данные бьют рекорды стоимости в дарквебе»](https://habr.com/ru/news/892066/?utm_campaign=892066&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Arxiv Labs интегрировали OCR-модель от Mistral, которая пересказывает научные статьи](https://habr.com/ru/news/892062/?utm_campaign=892062&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» представила отчёт об угрозах для систем промышленной автоматизации за 4 квартал 2024 года](https://habr.com/ru/news/892054/?utm_campaign=892054&utm_source=habrahabr&utm_medium=rss)
 - [Демо-версия ремейка Half-Life 2 RTX вышла в Steam](https://habr.com/ru/news/892050/?utm_campaign=892050&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Java 24](https://habr.com/ru/companies/spring_aio/news/892046/?utm_campaign=892046&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Java 24](https://habr.com/ru/news/892004/?utm_campaign=892004&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого моноширинного шрифта Maple Mono Font v7.0 для использования при работе с кодом](https://habr.com/ru/news/891974/?utm_campaign=891974&utm_source=habrahabr&utm_medium=rss)
-- [Команда ALT Linux запустила сервис хостинга Git-проектов ALT Linux Forgejo](https://habr.com/ru/news/891946/?utm_campaign=891946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
