@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Blender 4.4](https://habr.com/ru/news/892072/?utm_campaign=892072&utm_source=habrahabr&utm_medium=rss)
+- [«Росэлектроника» и «Ростелеком» провели испытания решения для управления мобильными устройствами](https://habr.com/ru/news/892070/?utm_campaign=892070&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies: «Банковские данные бьют рекорды стоимости в дарквебе»](https://habr.com/ru/news/892066/?utm_campaign=892066&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Arxiv Labs интегрировали OCR-модель от Mistral, которая пересказывает научные статьи](https://habr.com/ru/news/892062/?utm_campaign=892062&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» представила отчёт об угрозах для систем промышленной автоматизации за 4 квартал 2024 года](https://habr.com/ru/news/892054/?utm_campaign=892054&utm_source=habrahabr&utm_medium=rss)
-- [Демо-версия ремейка Half-Life 2 RTX вышла в Steam](https://habr.com/ru/news/892050/?utm_campaign=892050&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Java 24](https://habr.com/ru/companies/spring_aio/news/892046/?utm_campaign=892046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
