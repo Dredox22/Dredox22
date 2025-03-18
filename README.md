@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда ALT Linux запустила сервис хостинга Git-проектов ALT Linux Forgejo](https://habr.com/ru/news/891946/?utm_campaign=891946&utm_source=habrahabr&utm_medium=rss)
+- [Судья приостановил с 15 марта по 7 апреля действие постановления для Дурова оставаться во Франции на время расследования](https://habr.com/ru/news/891926/?utm_campaign=891926&utm_source=habrahabr&utm_medium=rss)
 - [Мобильные приложения крупных банков дополнят функционалом для пострадавших от мошенников](https://habr.com/ru/news/891914/?utm_campaign=891914&utm_source=habrahabr&utm_medium=rss)
 - [Терминал vs UI / Java медленная / Модальное окно коммита в IntelliJ | Spring АйО Подкаст №10](https://habr.com/ru/companies/spring_aio/news/891908/?utm_campaign=891908&utm_source=habrahabr&utm_medium=rss)
 - [Google исправила сбой в работе устройств Chromecast](https://habr.com/ru/news/891858/?utm_campaign=891858&utm_source=habrahabr&utm_medium=rss)
-- [Google вернулась к обсуждению покупки стартапа Wiz за $30 млрд](https://habr.com/ru/news/891854/?utm_campaign=891854&utm_source=habrahabr&utm_medium=rss)
-- [Building the Cloud. Episode 4: Underlay Network](https://habr.com/ru/companies/ru_mts/news/891838/?utm_campaign=891838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
