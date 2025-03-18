@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building the Cloud. Episode 4: Underlay Network](https://habr.com/ru/companies/ru_mts/news/891838/?utm_campaign=891838&utm_source=habrahabr&utm_medium=rss)
+- [Двойной удар: после угона Telegram-аккаунтов скамеры рассылают фейковые опросы для кражи денег](https://habr.com/ru/companies/F6/news/891594/?utm_campaign=891594&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива SystemRescue 12.0](https://habr.com/ru/news/891822/?utm_campaign=891822&utm_source=habrahabr&utm_medium=rss)
 - [Курс Практикума по веб-пентесту обновился: добавили два углублённых тарифа](https://habr.com/ru/companies/yandex_praktikum/news/891560/?utm_campaign=891560&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» перешёл на no-code платформу «Акола» для создания внутрикорпоративных сервисов](https://habr.com/ru/news/891804/?utm_campaign=891804&utm_source=habrahabr&utm_medium=rss)
-- [Freedesktop.org запустил недельный процесс миграции своего инстанса GitLab на новую IT-инфраструктуру](https://habr.com/ru/news/891800/?utm_campaign=891800&utm_source=habrahabr&utm_medium=rss)
-- [Вышла CPU-Z 2.15](https://habr.com/ru/news/891788/?utm_campaign=891788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
