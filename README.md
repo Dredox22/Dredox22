@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильные приложения крупных банков дополнят функционалом для пострадавших от мошенников](https://habr.com/ru/news/891914/?utm_campaign=891914&utm_source=habrahabr&utm_medium=rss)
+- [Терминал vs UI / Java медленная / Модальное окно коммита в IntelliJ | Spring АйО Подкаст №10](https://habr.com/ru/companies/spring_aio/news/891908/?utm_campaign=891908&utm_source=habrahabr&utm_medium=rss)
 - [Google исправила сбой в работе устройств Chromecast](https://habr.com/ru/news/891858/?utm_campaign=891858&utm_source=habrahabr&utm_medium=rss)
 - [Google вернулась к обсуждению покупки стартапа Wiz за $30 млрд](https://habr.com/ru/news/891854/?utm_campaign=891854&utm_source=habrahabr&utm_medium=rss)
 - [Building the Cloud. Episode 4: Underlay Network](https://habr.com/ru/companies/ru_mts/news/891838/?utm_campaign=891838&utm_source=habrahabr&utm_medium=rss)
-- [Двойной удар: после угона Telegram-аккаунтов скамеры рассылают фейковые опросы для кражи денег](https://habr.com/ru/companies/F6/news/891594/?utm_campaign=891594&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива SystemRescue 12.0](https://habr.com/ru/news/891822/?utm_campaign=891822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
