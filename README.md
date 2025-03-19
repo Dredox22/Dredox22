@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел пиринговый видеохостинг PeerTube 7.1](https://habr.com/ru/news/892470/?utm_campaign=892470&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «След Групп» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/892448/?utm_campaign=892448&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram — второй по популярности сервис для обмена сообщениями в мире после WhatsApp, исключая китайский WeChat](https://habr.com/ru/news/892434/?utm_campaign=892434&utm_source=habrahabr&utm_medium=rss)
 - [Утечки в мире в 2024 году: меньше БД, но больше ПДн](https://habr.com/ru/companies/infowatch/news/892432/?utm_campaign=892432&utm_source=habrahabr&utm_medium=rss)
 - [Telegram преодолел отметку в 1 миллиард пользователей](https://habr.com/ru/news/892430/?utm_campaign=892430&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минцифры: в РФ есть возможность блокировать противоправный контент в Telegram](https://habr.com/ru/news/892424/?utm_campaign=892424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
