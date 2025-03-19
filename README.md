@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia опубликовала в открытом доступе систему для обучения гуманоидных роботов в различных форм-факторах Groot N1](https://habr.com/ru/news/892138/?utm_campaign=892138&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Next.js 15.2](https://habr.com/ru/news/892130/?utm_campaign=892130&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Discord представили Social SDK — набор инструментов для интеграции возможностей мессенджера в игры](https://habr.com/ru/news/892124/?utm_campaign=892124&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Blender 4.4](https://habr.com/ru/news/892072/?utm_campaign=892072&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» и «Ростелеком» провели испытания решения для управления мобильными устройствами](https://habr.com/ru/news/892070/?utm_campaign=892070&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies: «Банковские данные бьют рекорды стоимости в дарквебе»](https://habr.com/ru/news/892066/?utm_campaign=892066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
