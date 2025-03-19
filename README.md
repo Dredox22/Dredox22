@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple исправила уязвимость в приложении «Пароли», которая делала пользователей уязвимыми перед фишингом](https://habr.com/ru/news/892528/?utm_campaign=892528&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил плагин для интеграции Cursor в Figma](https://habr.com/ru/news/892522/?utm_campaign=892522&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face выпустила HuggingSnap — аналог Google Lens для iOS, который работает локально](https://habr.com/ru/news/892488/?utm_campaign=892488&utm_source=habrahabr&utm_medium=rss)
 - [Asahi Lina, одна из ведущих разработчиков GPU-драйвера Apple для Linux, приостанавливает работу над проектом](https://habr.com/ru/news/892484/?utm_campaign=892484&utm_source=habrahabr&utm_medium=rss)
 - [F6: растет количество DDoS-атак проукраинских хактивистов на российские регионы](https://habr.com/ru/companies/F6/news/892482/?utm_campaign=892482&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пиринговый видеохостинг PeerTube 7.1](https://habr.com/ru/news/892470/?utm_campaign=892470&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования компании «След Групп» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/892448/?utm_campaign=892448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
