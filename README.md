@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры готово запустить сервис по проверке зарегистрированных сим-карт 1 апреля](https://habr.com/ru/news/892294/?utm_campaign=892294&utm_source=habrahabr&utm_medium=rss)
+- [Злоумышленники используют OAuth-приложение и поддельные уведомления Security Alert для взлома учётных записей на GitHub](https://habr.com/ru/news/892290/?utm_campaign=892290&utm_source=habrahabr&utm_medium=rss)
 - [Бизнес заявил, что текущая редакция законопроекта о борьбе с кибермошенничеством нарушает права человека](https://habr.com/ru/news/892254/?utm_campaign=892254&utm_source=habrahabr&utm_medium=rss)
 - [Представлена Rise Robotics Superjammer — самая мощная в мире негидравлическая роботизированная рука](https://habr.com/ru/news/892252/?utm_campaign=892252&utm_source=habrahabr&utm_medium=rss)
 - [Проект SDL3Lite развивает версию библиотеки SDL3 с поддержкой старых систем](https://habr.com/ru/news/892238/?utm_campaign=892238&utm_source=habrahabr&utm_medium=rss)
-- [Будущее приложений: как проектировать решения для бизнеса](https://habr.com/ru/companies/ru_mts/news/892226/?utm_campaign=892226&utm_source=habrahabr&utm_medium=rss)
-- [В Firefox 136.0.2 убран ​​баг с высокой загрузкой ЦП в Windows при заблокированном экране или закрытой крышке ноутбука](https://habr.com/ru/news/892162/?utm_campaign=892162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
