@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Asana с 20 марта 2025 года ввела ограничения на доступ к платформе для пользователей из России по геолокации](https://habr.com/ru/news/892566/?utm_campaign=892566&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз компонента галереи изображений JoomGallery 4.0](https://habr.com/ru/news/892546/?utm_campaign=892546&utm_source=habrahabr&utm_medium=rss)
 - [Релиз рабочего окружения GNOME 48 Bengaluru](https://habr.com/ru/news/892542/?utm_campaign=892542&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила баг в обновлении KB5053598 для Windows 11 24H2, который приводил к удалению ИИ-помощника Copilot](https://habr.com/ru/news/892536/?utm_campaign=892536&utm_source=habrahabr&utm_medium=rss)
 - [Apple исправила уязвимость в приложении «Пароли», которая делала пользователей незащищенными перед фишингом](https://habr.com/ru/news/892528/?utm_campaign=892528&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил плагин для интеграции Cursor в Figma](https://habr.com/ru/news/892522/?utm_campaign=892522&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
