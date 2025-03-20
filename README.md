@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Европейская комиссия заявила, что Alphabet и Apple нарушают «О цифровых рынках» ЕС](https://habr.com/ru/news/892710/?utm_campaign=892710&utm_source=habrahabr&utm_medium=rss)
+- [Китай увеличивает финансирование науки в сфере разработки полупроводников, ИИ и квантовых технологий](https://habr.com/ru/news/892736/?utm_campaign=892736&utm_source=habrahabr&utm_medium=rss)
+- [Европейская комиссия заявила, что Alphabet и Apple нарушают закон «О цифровых рынках» ЕС](https://habr.com/ru/news/892710/?utm_campaign=892710&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Банк» анонсировал ежегодное соревнование по кибербезопасности для IT-специалистов T-CTF](https://habr.com/ru/news/892602/?utm_campaign=892602&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Grok AI появился в Telegram, общаться с ним могут только владельцы премиальной подписки](https://habr.com/ru/news/892664/?utm_campaign=892664&utm_source=habrahabr&utm_medium=rss)
 - [SoftBank приобретает разработчика полупроводников Ampere за $6,5 млрд](https://habr.com/ru/news/892656/?utm_campaign=892656&utm_source=habrahabr&utm_medium=rss)
-- [РКН проведёт исследование зависимости сервисов и операторов связи РФ от зарубежной инфраструктуры](https://habr.com/ru/news/892642/?utm_campaign=892642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
