@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т-Банк» анонсировал ежегодное соревнование по кибербезопасности для IT-специалистов T-CTF](https://habr.com/ru/news/892602/?utm_campaign=892602&utm_source=habrahabr&utm_medium=rss)
+- [Чат-бот Grok AI появился в Telegram, общаться с ним могут только владельцы премиальной подписки](https://habr.com/ru/news/892664/?utm_campaign=892664&utm_source=habrahabr&utm_medium=rss)
+- [SoftBank приобретает разработчика полупроводников Ampere за $6,5 млрд](https://habr.com/ru/news/892656/?utm_campaign=892656&utm_source=habrahabr&utm_medium=rss)
 - [РКН проведёт исследование зависимости сервисов и операторов связи РФ от зарубежной инфраструктуры](https://habr.com/ru/news/892642/?utm_campaign=892642&utm_source=habrahabr&utm_medium=rss)
 - [Поиск с использованием ИИ начинает убивать «десять синих ссылок» Google](https://habr.com/ru/news/892636/?utm_campaign=892636&utm_source=habrahabr&utm_medium=rss)
-- [В Gboard появились кнопки «отменить» и «повторить»](https://habr.com/ru/news/892628/?utm_campaign=892628&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс представил новую линейку диффузионных моделей YandexART 2.5](https://habr.com/ru/companies/yandex/news/892532/?utm_campaign=892532&utm_source=habrahabr&utm_medium=rss)
-- [«ИКС холдинг» купил производителя телекомоборудования «Микран»](https://habr.com/ru/news/892606/?utm_campaign=892606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
