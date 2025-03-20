@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: 94% сетей Wi-Fi уязвимы для атак деаутентификации](https://habr.com/ru/news/892846/?utm_campaign=892846&utm_source=habrahabr&utm_medium=rss)
 - [YouTube не даёт воспроизводить видео с блокировщиками рекламы в Opera и Firefox, а в Chrome работает медленно](https://habr.com/ru/news/892806/?utm_campaign=892806&utm_source=habrahabr&utm_medium=rss)
 - [AI QA Copilot: новый помощник для тестирования игр от Razer](https://habr.com/ru/companies/bothub/news/892800/?utm_campaign=892800&utm_source=habrahabr&utm_medium=rss)
 - [Технологическая конференция Рутокен Day состоится в Москве 4 апреля](https://habr.com/ru/companies/aktiv-company/news/892746/?utm_campaign=892746&utm_source=habrahabr&utm_medium=rss)
 - [Китай увеличивает финансирование науки в сфере разработки полупроводников, ИИ и квантовых технологий](https://habr.com/ru/news/892736/?utm_campaign=892736&utm_source=habrahabr&utm_medium=rss)
-- [Европейская комиссия заявила, что Alphabet и Apple нарушают закон «О цифровых рынках» ЕС](https://habr.com/ru/news/892710/?utm_campaign=892710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
