@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft тестирует новый способ организации приложений и создания папок в меню «Пуск»](https://habr.com/ru/news/892988/?utm_campaign=892988&utm_source=habrahabr&utm_medium=rss)
 - [Google подала в суд на мошенников из-за 10 тысяч поддельных объявлений в Google Maps](https://habr.com/ru/news/892974/?utm_campaign=892974&utm_source=habrahabr&utm_medium=rss)
 - [Википедия в эпоху LLM: когда ИИ начинает влиять на коллективный разум](https://habr.com/ru/news/892894/?utm_campaign=892894&utm_source=habrahabr&utm_medium=rss)
 - [«Русбейс»: Роскомнадзор в середине марта потребовал от Google удалить 47 приложений с VPN-сервисами из Google Play](https://habr.com/ru/news/892946/?utm_campaign=892946&utm_source=habrahabr&utm_medium=rss)
 - [Представлен SluTune Q1 — ультратонкий Bluetooth-динамик, оптимизированный для сна, отдыха и путешествий налегке](https://habr.com/ru/news/892934/?utm_campaign=892934&utm_source=habrahabr&utm_medium=rss)
-- [На Apple подали в суд из-за задержек Apple Intelligence, хотя компания рекламировала ИИ в iPhone как готовый продукт](https://habr.com/ru/news/892928/?utm_campaign=892928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
