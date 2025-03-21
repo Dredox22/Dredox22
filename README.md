@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование фронтенда](https://habr.com/ru/companies/2gis/news/893184/?utm_campaign=893184&utm_source=habrahabr&utm_medium=rss)
 - [Российский продавец уязвимостей предлагает до $4 миллионов за эксплойты для Telegram](https://habr.com/ru/news/893172/?utm_campaign=893172&utm_source=habrahabr&utm_medium=rss)
 - [Google открыла исходники нейросети, изменившей историю AI: легендарная AlexNet стала музейным экспонатом](https://habr.com/ru/news/893166/?utm_campaign=893166&utm_source=habrahabr&utm_medium=rss)
 - [Студентам стала доступна продвинутая СУБД Postgres Pro Enterprise](https://habr.com/ru/companies/postgrespro/news/893134/?utm_campaign=893134&utm_source=habrahabr&utm_medium=rss)
 - [«Документы Mail» добавили возможность устанавливать на файлы индивидуальные настройки приватности](https://habr.com/ru/news/893090/?utm_campaign=893090&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован последний черновик спецификации PCIe 7.0](https://habr.com/ru/news/893078/?utm_campaign=893078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
