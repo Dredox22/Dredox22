@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры РФ готовит второй пакет мер против телефонного и интернет‑мошенничества](https://habr.com/ru/news/893230/?utm_campaign=893230&utm_source=habrahabr&utm_medium=rss)
+- [Команда ФКН НИУ ВШЭ и AIRI заняла первое место во всех номинациях международного соревнования League of Robot Runners](https://habr.com/ru/news/893224/?utm_campaign=893224&utm_source=habrahabr&utm_medium=rss)
 - [Количество детских аккаунтов в «Яндекс ID» за год выросло в 1,5 раза](https://habr.com/ru/news/893218/?utm_campaign=893218&utm_source=habrahabr&utm_medium=rss)
 - [Steam удалила демо-версию игры Sniper: Phantom&#39;s Resolution, заражающую ПК пользователей Windows вредоносным ПО](https://habr.com/ru/news/893208/?utm_campaign=893208&utm_source=habrahabr&utm_medium=rss)
 - [Тестирование фронтенда](https://habr.com/ru/companies/2gis/news/893184/?utm_campaign=893184&utm_source=habrahabr&utm_medium=rss)
-- [Российский продавец уязвимостей предлагает до $4 миллионов за эксплойты для Telegram](https://habr.com/ru/news/893172/?utm_campaign=893172&utm_source=habrahabr&utm_medium=rss)
-- [Google открыла исходники нейросети, изменившей историю AI: легендарная AlexNet стала музейным экспонатом](https://habr.com/ru/news/893166/?utm_campaign=893166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
