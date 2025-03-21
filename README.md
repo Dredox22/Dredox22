@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен Retro Boy — это простой эмулятор Game Boy, написанный на Rust и TypeScript, в него можно играть в веб-версии](https://habr.com/ru/news/892912/?utm_campaign=892912&utm_source=habrahabr&utm_medium=rss)
 - [Первый пошёл: американская компания CO/AI ищет в штат вайб-кодера](https://habr.com/ru/news/892902/?utm_campaign=892902&utm_source=habrahabr&utm_medium=rss)
 - [Chrome переходит с библиотеки рендеринга шрифтов FreeType на проект Skrifa, написанный на Rust](https://habr.com/ru/news/892858/?utm_campaign=892858&utm_source=habrahabr&utm_medium=rss)
 - [Представлен промышленный мобильный манипулятор с двумя роборуками](https://habr.com/ru/news/892850/?utm_campaign=892850&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: 94% сетей Wi-Fi уязвимы для атак деаутентификации](https://habr.com/ru/news/892846/?utm_campaign=892846&utm_source=habrahabr&utm_medium=rss)
-- [YouTube не даёт воспроизводить видео с блокировщиками рекламы в Opera и Firefox, а в Chrome работает медленно](https://habr.com/ru/news/892806/?utm_campaign=892806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
