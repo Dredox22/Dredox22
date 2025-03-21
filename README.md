@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI запустила веб-сервис для тестирования аудиомоделей из фирменного API](https://habr.com/ru/news/893044/?utm_campaign=893044&utm_source=habrahabr&utm_medium=rss)
+- [Разбираем, чиним, создаём: Яндекс зовёт в Repair Cafe «Чинители прекрасного»](https://habr.com/ru/companies/yandex/news/892754/?utm_campaign=892754&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует новый способ организации приложений и создания папок в меню «Пуск»](https://habr.com/ru/news/892988/?utm_campaign=892988&utm_source=habrahabr&utm_medium=rss)
 - [Google подала в суд на мошенников из-за 10 тысяч поддельных объявлений в Google Maps](https://habr.com/ru/news/892974/?utm_campaign=892974&utm_source=habrahabr&utm_medium=rss)
 - [Википедия в эпоху LLM: когда ИИ начинает влиять на коллективный разум](https://habr.com/ru/news/892894/?utm_campaign=892894&utm_source=habrahabr&utm_medium=rss)
-- [«Русбейс»: Роскомнадзор в середине марта потребовал от Google удалить 47 приложений с VPN-сервисами из Google Play](https://habr.com/ru/news/892946/?utm_campaign=892946&utm_source=habrahabr&utm_medium=rss)
-- [Представлен SluTune Q1 — ультратонкий Bluetooth-динамик, оптимизированный для сна, отдыха и путешествий налегке](https://habr.com/ru/news/892934/?utm_campaign=892934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
