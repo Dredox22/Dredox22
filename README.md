@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован последний черновик спецификации PCIe 7.0](https://habr.com/ru/news/893078/?utm_campaign=893078&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: кнопка восстановления классического Outlook не работает](https://habr.com/ru/news/893070/?utm_campaign=893070&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare в офисе в Португалии теперь визуализирует энтропию с помощью лавовых ламп](https://habr.com/ru/news/893066/?utm_campaign=893066&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запустила веб-сервис для тестирования аудиомоделей из фирменного API](https://habr.com/ru/news/893044/?utm_campaign=893044&utm_source=habrahabr&utm_medium=rss)
 - [Разбираем, чиним, создаём: Яндекс зовёт в Repair Cafe «Чинители прекрасного»](https://habr.com/ru/companies/yandex/news/892754/?utm_campaign=892754&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует новый способ организации приложений и создания папок в меню «Пуск»](https://habr.com/ru/news/892988/?utm_campaign=892988&utm_source=habrahabr&utm_medium=rss)
-- [Google подала в суд на мошенников из-за 10 тысяч поддельных объявлений в Google Maps](https://habr.com/ru/news/892974/?utm_campaign=892974&utm_source=habrahabr&utm_medium=rss)
-- [Википедия в эпоху LLM: когда ИИ начинает влиять на коллективный разум](https://habr.com/ru/news/892894/?utm_campaign=892894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
