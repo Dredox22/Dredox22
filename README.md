@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российский продавец уязвимостей предлагает до $4 миллионов за эксплойты для Telegram](https://habr.com/ru/news/893172/?utm_campaign=893172&utm_source=habrahabr&utm_medium=rss)
+- [Google открыла исходники нейросети, изменившей историю AI: легендарная AlexNet стала музейным экспонатом](https://habr.com/ru/news/893166/?utm_campaign=893166&utm_source=habrahabr&utm_medium=rss)
 - [Студентам стала доступна продвинутая СУБД Postgres Pro Enterprise](https://habr.com/ru/companies/postgrespro/news/893134/?utm_campaign=893134&utm_source=habrahabr&utm_medium=rss)
 - [«Документы Mail» добавили возможность устанавливать на файлы индивидуальные настройки приватности](https://habr.com/ru/news/893090/?utm_campaign=893090&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован последний черновик спецификации PCIe 7.0](https://habr.com/ru/news/893078/?utm_campaign=893078&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: кнопка восстановления классического Outlook не работает](https://habr.com/ru/news/893070/?utm_campaign=893070&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare в офисе в Португалии теперь визуализирует энтропию с помощью лавовых ламп](https://habr.com/ru/news/893066/?utm_campaign=893066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
