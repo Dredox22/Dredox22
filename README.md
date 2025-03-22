@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Wine 10.4](https://habr.com/ru/news/893324/?utm_campaign=893324&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.0](https://habr.com/ru/news/893312/?utm_campaign=893312&utm_source=habrahabr&utm_medium=rss)
+- [Tesla Cybertruck с автопилотом не удалось обмануть при помощи фальшивой стены](https://habr.com/ru/news/893308/?utm_campaign=893308&utm_source=habrahabr&utm_medium=rss)
 - [Компания Jizai представила робот-стол с умной лампой Mi-Mo, который умеет следовать за людьми и взаимодействовать с ними](https://habr.com/ru/news/893300/?utm_campaign=893300&utm_source=habrahabr&utm_medium=rss)
 - [Samsung признала выпуск некорректного обновления для своих домашних кинотеатров, приводящего к блокировке устройств](https://habr.com/ru/news/893280/?utm_campaign=893280&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi выпустила генератор кастомных образов для фирменных плат](https://habr.com/ru/news/893266/?utm_campaign=893266&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies рассказала о росте числа кибератак через поддельную CAPTCHA](https://habr.com/ru/news/893242/?utm_campaign=893242&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ готовит второй пакет мер против телефонного и интернет‑мошенничества](https://habr.com/ru/news/893230/?utm_campaign=893230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
