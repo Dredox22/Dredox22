@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз ReactOS 0.4.15](https://habr.com/ru/news/893332/?utm_campaign=893332&utm_source=habrahabr&utm_medium=rss)
+- [Виртуальные рельсы от NVIDIA, ИИ для Switch 2 и новый дизайн Apple Watch: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/893226/?utm_campaign=893226&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.4](https://habr.com/ru/news/893324/?utm_campaign=893324&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.0](https://habr.com/ru/news/893312/?utm_campaign=893312&utm_source=habrahabr&utm_medium=rss)
 - [Tesla Cybertruck с автопилотом не удалось обмануть при помощи фальшивой стены](https://habr.com/ru/news/893308/?utm_campaign=893308&utm_source=habrahabr&utm_medium=rss)
-- [Компания Jizai представила робот-стол с умной лампой Mi-Mo, который умеет следовать за людьми и взаимодействовать с ними](https://habr.com/ru/news/893300/?utm_campaign=893300&utm_source=habrahabr&utm_medium=rss)
-- [Samsung признала выпуск некорректного обновления для своих домашних кинотеатров, приводящего к блокировке устройств](https://habr.com/ru/news/893280/?utm_campaign=893280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
