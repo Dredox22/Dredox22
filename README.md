@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram прокомментировал сообщение Operation Zero о покупке уязвимостей zero‑click в мессенджере: их нет](https://habr.com/ru/news/893464/?utm_campaign=893464&utm_source=habrahabr&utm_medium=rss)
+- [Дистрибутив Finnix Linux для системных администраторов отмечает 25-ю годовщину новым релизом Finnix 250](https://habr.com/ru/news/893462/?utm_campaign=893462&utm_source=habrahabr&utm_medium=rss)
 - [Freedesktop.org провёл процесс миграции своего инстанса GitLab на IT-инфраструктуру немецкого хостинг‑провайдера Hetzner](https://habr.com/ru/news/893458/?utm_campaign=893458&utm_source=habrahabr&utm_medium=rss)
 - [Mojang представила графическое обновление Vibrant Visuals для Minecraft](https://habr.com/ru/news/893456/?utm_campaign=893456&utm_source=habrahabr&utm_medium=rss)
 - [Генератор видео Sora теперь доступен безлимитно, но только для тарифов Plus и Pro](https://habr.com/ru/news/893440/?utm_campaign=893440&utm_source=habrahabr&utm_medium=rss)
-- [В Keenetic признали взлом базы данных и доступ третьих лиц к данным пользователей приложения с аккаунтами до 16.03.2023](https://habr.com/ru/news/893398/?utm_campaign=893398&utm_source=habrahabr&utm_medium=rss)
-- [GM запрещает дилерам устанавливать комплекты модернизации Apple CarPlay в электромобили](https://habr.com/ru/news/893386/?utm_campaign=893386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
