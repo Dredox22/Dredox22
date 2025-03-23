@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Блогерство официально признали видом экономической деятельности: инфлюенсеры получат два кода в ОКВЭД](https://habr.com/ru/news/893520/?utm_campaign=893520&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare закрыла все HTTP-соединения и теперь принимает только безопасные HTTPS-соединения для api.cloudflare.com](https://habr.com/ru/news/893530/?utm_campaign=893530&utm_source=habrahabr&utm_medium=rss)
 - [Материнская плата Gigabyte Z890 AORUS Tachyon ICE приближается к рекорду разгона в 13 000 МТ/c](https://habr.com/ru/news/893492/?utm_campaign=893492&utm_source=habrahabr&utm_medium=rss)
 - [MSI заменяет 8-контактные разъёмы для видеокарт в новых блоках питания](https://habr.com/ru/news/893488/?utm_campaign=893488&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатная спутниковая служба обмена сообщениями Verizon стала доступна для последних смартфонов Pixel и Galaxy](https://habr.com/ru/news/893474/?utm_campaign=893474&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку OneNote для Windows 10 с 14 октября 2025 года](https://habr.com/ru/news/893472/?utm_campaign=893472&utm_source=habrahabr&utm_medium=rss)
-- [Telegram прокомментировал сообщение Operation Zero о покупке уязвимостей zero‑click в мессенджере: их нет](https://habr.com/ru/news/893464/?utm_campaign=893464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
