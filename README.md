@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Блогерство официально признали видом экономической деятельности: инфлюенсеры получат два кода в ОКВЭД](https://habr.com/ru/news/893520/?utm_campaign=893520&utm_source=habrahabr&utm_medium=rss)
+- [Подписчики Microsoft 365 получили доступ к Copilot для OneDrive](https://habr.com/ru/news/893550/?utm_campaign=893550&utm_source=habrahabr&utm_medium=rss)
+- [Поиск Gmail получит обновление на основе ИИ, которое позволит быстрее показывать «наиболее релевантные результаты»](https://habr.com/ru/news/893546/?utm_campaign=893546&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare закрыла все HTTP-соединения и теперь принимает только безопасные HTTPS-соединения для api.cloudflare.com](https://habr.com/ru/news/893530/?utm_campaign=893530&utm_source=habrahabr&utm_medium=rss)
 - [Материнская плата Gigabyte Z890 AORUS Tachyon ICE приближается к рекорду разгона в 13 000 МТ/c](https://habr.com/ru/news/893492/?utm_campaign=893492&utm_source=habrahabr&utm_medium=rss)
 - [MSI заменяет 8-контактные разъёмы для видеокарт в новых блоках питания](https://habr.com/ru/news/893488/?utm_campaign=893488&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатная спутниковая служба обмена сообщениями Verizon стала доступна для последних смартфонов Pixel и Galaxy](https://habr.com/ru/news/893474/?utm_campaign=893474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
