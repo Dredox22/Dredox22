@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Материнская плата Gigabyte Z890 AORUS Tachyon ICE приближается к рекорду разгона в 13 000 МТ/c](https://habr.com/ru/news/893492/?utm_campaign=893492&utm_source=habrahabr&utm_medium=rss)
+- [MSI заменяет 8-контактные разъёмы для видеокарт в новых блоках питания](https://habr.com/ru/news/893488/?utm_campaign=893488&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатная спутниковая служба обмена сообщениями Verizon стала доступна для последних смартфонов Pixel и Galaxy](https://habr.com/ru/news/893474/?utm_campaign=893474&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку OneNote для Windows 10 с 14 октября 2025 года](https://habr.com/ru/news/893472/?utm_campaign=893472&utm_source=habrahabr&utm_medium=rss)
 - [Telegram прокомментировал сообщение Operation Zero о покупке уязвимостей zero‑click в мессенджере: их нет](https://habr.com/ru/news/893464/?utm_campaign=893464&utm_source=habrahabr&utm_medium=rss)
-- [Дистрибутив Finnix Linux для системных администраторов отмечает 25-ю годовщину новым релизом Finnix 250](https://habr.com/ru/news/893462/?utm_campaign=893462&utm_source=habrahabr&utm_medium=rss)
-- [Freedesktop.org провёл процесс миграции своего инстанса GitLab на IT-инфраструктуру немецкого хостинг‑провайдера Hetzner](https://habr.com/ru/news/893458/?utm_campaign=893458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
