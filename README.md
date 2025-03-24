@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор объяснил сбои в Рунете 24 марта использованием сервисами иностранных серверов](https://habr.com/ru/news/893868/?utm_campaign=893868&utm_source=habrahabr&utm_medium=rss)
+- [ФБР: фейковые конвертеры файлов распространяют вредоносное ПО](https://habr.com/ru/news/893766/?utm_campaign=893766&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман призвал вместо программирования учиться «хорошо использовать ИИ-инструменты»](https://habr.com/ru/news/893834/?utm_campaign=893834&utm_source=habrahabr&utm_medium=rss)
 - [Unreal Engine 4 запустился на российской ОС «Аврора»](https://habr.com/ru/news/893828/?utm_campaign=893828&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Nvidia серий GeForce RTX 30 и RTX 40 с новым видеодрайвером столкнулись с BSOD и перезагрузками ПК](https://habr.com/ru/news/893818/?utm_campaign=893818&utm_source=habrahabr&utm_medium=rss)
-- [Вышел WinRAR 7.11 и RAR 7.11](https://habr.com/ru/news/893780/?utm_campaign=893780&utm_source=habrahabr&utm_medium=rss)
-- [Pokémon Go: Как Niantic продала легендарный AR-проект за $3,5 млрд и что будет дальше?](https://habr.com/ru/companies/finam_broker/news/893778/?utm_campaign=893778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
