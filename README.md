@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft: ошибка Exchange Online помещает в карантин письма пользователей](https://habr.com/ru/news/893700/?utm_campaign=893700&utm_source=habrahabr&utm_medium=rss)
-- [Coca-Cola покажет первый в мире вендинговый автомат, работающий на водороде](https://habr.com/ru/news/893648/?utm_campaign=893648&utm_source=habrahabr&utm_medium=rss)
-- [Релиз решения Rescuezilla 2.6 для клонирования и создания образов дисков, полностью совместимого с Clonezilla](https://habr.com/ru/news/893684/?utm_campaign=893684&utm_source=habrahabr&utm_medium=rss)
-- [У Deckhouse Kubernetes Platform теперь под управлением 1000+ кластеров](https://habr.com/ru/companies/flant/news/893670/?utm_campaign=893670&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики игры inZOI предупредили пиратов и пользователей незаконного контента «строгими юридическими мерами»](https://habr.com/ru/news/893668/?utm_campaign=893668&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Paint.NET 5.1.7](https://habr.com/ru/news/893660/?utm_campaign=893660&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Defender обнаружил HackTool на игровых ПК в приложениях для мониторинга и управления вентиляторами](https://habr.com/ru/news/893730/?utm_campaign=893730&utm_source=habrahabr&utm_medium=rss)
+- [Статистика: в США за два года стало на четверть меньше вакансий в сфере программирования](https://habr.com/ru/news/893716/?utm_campaign=893716&utm_source=habrahabr&utm_medium=rss)
+- [«Азимут» разработал первый в России комплекс идентификации по радужной оболочке глаза](https://habr.com/ru/news/893718/?utm_campaign=893718&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: часть банкоматов в РФ не принимает новые пятитысячные купюры](https://habr.com/ru/news/893714/?utm_campaign=893714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
