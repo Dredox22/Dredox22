@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Протестируйте новую облачную СОД nano360](https://habr.com/ru/companies/nanosoft/news/893186/?utm_campaign=893186&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики игры inZOI предупредили пиратов и пользователей незаконного контента «строгими юридическими мерами»](https://habr.com/ru/news/893668/?utm_campaign=893668&utm_source=habrahabr&utm_medium=rss)
 - [Релиз планетария с открытым кодом Stellarium 25.1](https://habr.com/ru/news/893658/?utm_campaign=893658&utm_source=habrahabr&utm_medium=rss)
 - [Отечественные RISC-V микроконтроллеры в свободной продаже](https://habr.com/ru/news/893626/?utm_campaign=893626&utm_source=habrahabr&utm_medium=rss)
 - [Представлена видеокарта Radeon RX 9070 XT Sakura Atlantis со встроенным ароматизатором «морская волна»](https://habr.com/ru/news/893596/?utm_campaign=893596&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Media Player Classic — Home Cinema 2.4.1](https://habr.com/ru/news/893580/?utm_campaign=893580&utm_source=habrahabr&utm_medium=rss)
-- [Подписчики Microsoft 365 получили доступ к Copilot для OneDrive](https://habr.com/ru/news/893550/?utm_campaign=893550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
