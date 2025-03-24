@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор: проблемы с доступностью российских сервисов уже не фиксируются](https://habr.com/ru/news/893944/?utm_campaign=893944&utm_source=habrahabr&utm_medium=rss)
+- [«ИнфоТеКС» представила новый шлюз на базе российской платформы «АТБ-Электроника»](https://habr.com/ru/news/893934/?utm_campaign=893934&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Linux 6.14](https://habr.com/ru/news/893924/?utm_campaign=893924&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/893884/?utm_campaign=893884&utm_source=habrahabr&utm_medium=rss)
 - [Shift Happens: зовём тестировщиков на митап](https://habr.com/ru/companies/2gis/news/893878/?utm_campaign=893878&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор объяснил сбои в Рунете 24 марта использованием сервисами иностранных серверов](https://habr.com/ru/news/893868/?utm_campaign=893868&utm_source=habrahabr&utm_medium=rss)
-- [ФБР: фейковые конвертеры файлов распространяют вредоносное ПО](https://habr.com/ru/news/893766/?utm_campaign=893766&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман призвал вместо программирования учиться «хорошо использовать ИИ-инструменты»](https://habr.com/ru/news/893834/?utm_campaign=893834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
