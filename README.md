@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз решения Rescuezilla 2.6 для клонирования и создания образов дисков, полностью совместимого с Clonezilla](https://habr.com/ru/news/893684/?utm_campaign=893684&utm_source=habrahabr&utm_medium=rss)
+- [У Deckhouse Kubernetes Platform теперь под управлением 1000+ кластеров](https://habr.com/ru/companies/flant/news/893670/?utm_campaign=893670&utm_source=habrahabr&utm_medium=rss)
 - [Протестируйте новую облачную СОД nano360](https://habr.com/ru/companies/nanosoft/news/893186/?utm_campaign=893186&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры inZOI предупредили пиратов и пользователей незаконного контента «строгими юридическими мерами»](https://habr.com/ru/news/893668/?utm_campaign=893668&utm_source=habrahabr&utm_medium=rss)
 - [Релиз планетария с открытым кодом Stellarium 25.1](https://habr.com/ru/news/893658/?utm_campaign=893658&utm_source=habrahabr&utm_medium=rss)
-- [Отечественные RISC-V микроконтроллеры в свободной продаже](https://habr.com/ru/news/893626/?utm_campaign=893626&utm_source=habrahabr&utm_medium=rss)
-- [Представлена видеокарта Radeon RX 9070 XT Sakura Atlantis со встроенным ароматизатором «морская волна»](https://habr.com/ru/news/893596/?utm_campaign=893596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
