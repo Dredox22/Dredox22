@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел WinRAR 7.11 и RAR 7.11](https://habr.com/ru/news/893780/?utm_campaign=893780&utm_source=habrahabr&utm_medium=rss)
+- [Pokémon Go: Как Niantic продала легендарный AR-проект за $3,5 млрд и что будет дальше?](https://habr.com/ru/companies/finam_broker/news/893778/?utm_campaign=893778&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge урезает меню из трёх точек после его раздувания в Windows 11/10](https://habr.com/ru/news/893750/?utm_campaign=893750&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Paint.NET 5.1.7](https://habr.com/ru/news/893660/?utm_campaign=893660&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Defender обнаружил HackTool на игровых ПК в приложениях для мониторинга и управления вентиляторами](https://habr.com/ru/news/893730/?utm_campaign=893730&utm_source=habrahabr&utm_medium=rss)
-- [Статистика: в США за два года стало на четверть меньше вакансий в сфере программирования](https://habr.com/ru/news/893716/?utm_campaign=893716&utm_source=habrahabr&utm_medium=rss)
-- [«Азимут» разработал первый в России комплекс идентификации по радужной оболочке глаза](https://habr.com/ru/news/893718/?utm_campaign=893718&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: часть банкоматов в РФ не принимает новые пятитысячные купюры](https://habr.com/ru/news/893714/?utm_campaign=893714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
