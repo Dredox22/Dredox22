@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [База оборудования компании «КАСКАД» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/894054/?utm_campaign=894054&utm_source=habrahabr&utm_medium=rss)
+- [8 апреля в Москве пройдёт первая в России конференция по Work Management — TEAMLY WORK MANAGEMENT 2025](https://habr.com/ru/news/894206/?utm_campaign=894206&utm_source=habrahabr&utm_medium=rss)
+- [Представлен модульный мини-ПК Ninkear MBOX 8 Pro](https://habr.com/ru/news/894160/?utm_campaign=894160&utm_source=habrahabr&utm_medium=rss)
 - [Google прокомментировала удаление данных Maps Timeline](https://habr.com/ru/news/894184/?utm_campaign=894184&utm_source=habrahabr&utm_medium=rss)
 - [VK запустила ИИ-сервис для маркетологов AI Persona](https://habr.com/ru/news/894178/?utm_campaign=894178&utm_source=habrahabr&utm_medium=rss)
-- [Эмулятор RPCS3 на Android получил поддержку Bluetooth-контроллеров](https://habr.com/ru/news/894144/?utm_campaign=894144&utm_source=habrahabr&utm_medium=rss)
-- [Как Ринго помогает защититься от zero-day уязвимостей](https://habr.com/ru/companies/ringo_mdm/news/894084/?utm_campaign=894084&utm_source=habrahabr&utm_medium=rss)
-- [Завод по производству ноутбуков к 2027 году построит в Екатеринбурге IT-компания LIGA Group](https://habr.com/ru/news/894010/?utm_campaign=894010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
