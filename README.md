@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбой на LME](https://habr.com/ru/news/894030/?utm_campaign=894030&utm_source=habrahabr&utm_medium=rss)
 - [VK готовит к запуску бета-версию цифровой платформы Max с мессенджером, мини-приложениями и платёжной системой](https://habr.com/ru/news/894024/?utm_campaign=894024&utm_source=habrahabr&utm_medium=rss)
 - [Оптимизировали живую миграцию и добавили дашборд для мониторинга в Deckhouse Virtualization Platform](https://habr.com/ru/companies/flant/news/893120/?utm_campaign=893120&utm_source=habrahabr&utm_medium=rss)
 - [На тестовом сервере Telegram Beta зафиксированы первые случаи заморозки аккаунта пользователя](https://habr.com/ru/news/894020/?utm_campaign=894020&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi выпустила собственный PoE-инжектор](https://habr.com/ru/news/894016/?utm_campaign=894016&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: проблемы с доступностью российских сервисов уже не фиксируются](https://habr.com/ru/news/893944/?utm_campaign=893944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
