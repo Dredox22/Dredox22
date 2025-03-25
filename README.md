@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В поиске Telegram появится реклама](https://habr.com/ru/news/894344/?utm_campaign=894344&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Аквариус» открыла в Твери новую линию по сборке серверов](https://habr.com/ru/news/894342/?utm_campaign=894342&utm_source=habrahabr&utm_medium=rss)
+- [WWDC 25 пройдёт с 9 по 13 июня](https://habr.com/ru/news/894340/?utm_campaign=894340&utm_source=habrahabr&utm_medium=rss)
 - [Серия промышленных компьютеров EDATEC ED-IPC3600 на базе Raspberry Pi](https://habr.com/ru/news/894332/?utm_campaign=894332&utm_source=habrahabr&utm_medium=rss)
 - [Выявлены критические уязвимости в Ingress Nginx для Kubernetes, позволяющие удалённо выполнять произвольный код](https://habr.com/ru/news/894326/?utm_campaign=894326&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики VK Видео выпустили VK Video Live DevAPI](https://habr.com/ru/news/894268/?utm_campaign=894268&utm_source=habrahabr&utm_medium=rss)
-- [Новая DeepSeek V3: рекорды в бенчах, кодинг лучше Claude и GPT-4.5](https://habr.com/ru/news/894252/?utm_campaign=894252&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появились новые приложения, которые упрощают поиск контактов и файлов](https://habr.com/ru/news/894244/?utm_campaign=894244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
