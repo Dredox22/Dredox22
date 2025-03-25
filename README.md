@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 24 / Как правильно писать тесты / Идеи ничего не стоят | Spring АйО Подкаст №11](https://habr.com/ru/companies/spring_aio/news/894106/?utm_campaign=894106&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram Wallet добавили поддержку Ethereum, Solana, Dogecoin и других криптовалют](https://habr.com/ru/news/894102/?utm_campaign=894102&utm_source=habrahabr&utm_medium=rss)
 - [«Додо Пицца» внедрила заказы голосовыми сообщениями через Telegram-бота](https://habr.com/ru/news/894080/?utm_campaign=894080&utm_source=habrahabr&utm_medium=rss)
 - [«Алиса, что нового?»: Яндекс 15 апреля проведёт первую конференцию о развитии виртуального ассистента и умных устройств](https://habr.com/ru/news/894078/?utm_campaign=894078&utm_source=habrahabr&utm_medium=rss)
 - [Тест ARC-AGI-2: новый стандарт для измерения интеллекта ИИ](https://habr.com/ru/companies/bothub/news/894060/?utm_campaign=894060&utm_source=habrahabr&utm_medium=rss)
-- [Figure AI автоматизировала производство человекоподобных роботов](https://habr.com/ru/news/893998/?utm_campaign=893998&utm_source=habrahabr&utm_medium=rss)
-- [Google Drive для Windows на Arm стал общедоступным](https://habr.com/ru/news/894048/?utm_campaign=894048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
