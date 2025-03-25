@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики VK Видео выпустили VK Video Live DevAPI](https://habr.com/ru/news/894268/?utm_campaign=894268&utm_source=habrahabr&utm_medium=rss)
 - [Новая DeepSeek V3: рекорды в бенчах, кодинг лучше Claude и GPT-4.5](https://habr.com/ru/news/894252/?utm_campaign=894252&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появились новые приложения, которые упрощают поиск контактов и файлов](https://habr.com/ru/news/894244/?utm_campaign=894244&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «КАСКАД» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/894054/?utm_campaign=894054&utm_source=habrahabr&utm_medium=rss)
 - [8 апреля в Москве пройдёт первая в России конференция по Work Management — TEAMLY WORK MANAGEMENT 2025](https://habr.com/ru/news/894206/?utm_campaign=894206&utm_source=habrahabr&utm_medium=rss)
-- [Представлен модульный мини-ПК Ninkear MBOX 8 Pro](https://habr.com/ru/news/894160/?utm_campaign=894160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
