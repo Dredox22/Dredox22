@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Figure AI автоматизировала производство человекоподобных роботов](https://habr.com/ru/news/893998/?utm_campaign=893998&utm_source=habrahabr&utm_medium=rss)
+- [Google Drive для Windows на Arm стал общедоступным](https://habr.com/ru/news/894048/?utm_campaign=894048&utm_source=habrahabr&utm_medium=rss)
+- [Релиз GIMP 3.0.2 с 13 исправлениями ошибок в GIMP 3.0](https://habr.com/ru/news/894038/?utm_campaign=894038&utm_source=habrahabr&utm_medium=rss)
 - [Сбой на LME](https://habr.com/ru/news/894030/?utm_campaign=894030&utm_source=habrahabr&utm_medium=rss)
 - [VK готовит к запуску бета-версию цифровой платформы Max с мессенджером, мини-приложениями и платёжной системой](https://habr.com/ru/news/894024/?utm_campaign=894024&utm_source=habrahabr&utm_medium=rss)
-- [Оптимизировали живую миграцию и добавили дашборд для мониторинга в Deckhouse Virtualization Platform](https://habr.com/ru/companies/flant/news/893120/?utm_campaign=893120&utm_source=habrahabr&utm_medium=rss)
-- [На тестовом сервере Telegram Beta зафиксированы первые случаи заморозки аккаунта пользователя](https://habr.com/ru/news/894020/?utm_campaign=894020&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi выпустила собственный PoE-инжектор](https://habr.com/ru/news/894016/?utm_campaign=894016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
