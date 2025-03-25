@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Додо Пицца» внедрила заказы голосовыми сообщениями через Telegram-бота](https://habr.com/ru/news/894080/?utm_campaign=894080&utm_source=habrahabr&utm_medium=rss)
+- [«Алиса, что нового?»: Яндекс 15 апреля проведёт первую конференцию о развитии виртуального ассистента и умных устройств](https://habr.com/ru/news/894078/?utm_campaign=894078&utm_source=habrahabr&utm_medium=rss)
+- [Тест ARC-AGI-2: новый стандарт для измерения интеллекта ИИ](https://habr.com/ru/companies/bothub/news/894060/?utm_campaign=894060&utm_source=habrahabr&utm_medium=rss)
 - [Figure AI автоматизировала производство человекоподобных роботов](https://habr.com/ru/news/893998/?utm_campaign=893998&utm_source=habrahabr&utm_medium=rss)
 - [Google Drive для Windows на Arm стал общедоступным](https://habr.com/ru/news/894048/?utm_campaign=894048&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GIMP 3.0.2 с 13 исправлениями ошибок в GIMP 3.0](https://habr.com/ru/news/894038/?utm_campaign=894038&utm_source=habrahabr&utm_medium=rss)
-- [Сбой на LME](https://habr.com/ru/news/894030/?utm_campaign=894030&utm_source=habrahabr&utm_medium=rss)
-- [VK готовит к запуску бета-версию цифровой платформы Max с мессенджером, мини-приложениями и платёжной системой](https://habr.com/ru/news/894024/?utm_campaign=894024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
