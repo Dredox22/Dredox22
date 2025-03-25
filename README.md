@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эмулятор RPCS3 на Android получил поддержку Bluetooth-контроллеров](https://habr.com/ru/news/894144/?utm_campaign=894144&utm_source=habrahabr&utm_medium=rss)
+- [Как Ринго помогает защититься от zero-day уязвимостей](https://habr.com/ru/companies/ringo_mdm/news/894084/?utm_campaign=894084&utm_source=habrahabr&utm_medium=rss)
+- [Завод по производству ноутбуков к 2027 году построит в Екатеринбурге IT-компания LIGA Group](https://habr.com/ru/news/894010/?utm_campaign=894010&utm_source=habrahabr&utm_medium=rss)
 - [Java 24 / Как правильно писать тесты / Идеи ничего не стоят | Spring АйО Подкаст №11](https://habr.com/ru/companies/spring_aio/news/894106/?utm_campaign=894106&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram Wallet добавили поддержку Ethereum, Solana, Dogecoin и других криптовалют](https://habr.com/ru/news/894102/?utm_campaign=894102&utm_source=habrahabr&utm_medium=rss)
-- [«Додо Пицца» внедрила заказы голосовыми сообщениями через Telegram-бота](https://habr.com/ru/news/894080/?utm_campaign=894080&utm_source=habrahabr&utm_medium=rss)
-- [«Алиса, что нового?»: Яндекс 15 апреля проведёт первую конференцию о развитии виртуального ассистента и умных устройств](https://habr.com/ru/news/894078/?utm_campaign=894078&utm_source=habrahabr&utm_medium=rss)
-- [Тест ARC-AGI-2: новый стандарт для измерения интеллекта ИИ](https://habr.com/ru/companies/bothub/news/894060/?utm_campaign=894060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
