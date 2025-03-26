@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Все флаги собраны, результаты — получены. Итоги CTF-турнира от Selectel](https://habr.com/ru/companies/selectel/news/894414/?utm_campaign=894414&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Практикум» запустил курс «Мидл разработчик С++» для повышения квалификации разработчиков на С++](https://habr.com/ru/news/894410/?utm_campaign=894410&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.7](https://habr.com/ru/news/894388/?utm_campaign=894388&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики анонсировали SynCity — нейросеть для генерации 3D-миров в стиле градостроительных симуляторов](https://habr.com/ru/news/894396/?utm_campaign=894396&utm_source=habrahabr&utm_medium=rss)
 - [В поиске Telegram появится реклама](https://habr.com/ru/news/894344/?utm_campaign=894344&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Аквариус» открыла в Твери новую линию по сборке серверов](https://habr.com/ru/news/894342/?utm_campaign=894342&utm_source=habrahabr&utm_medium=rss)
-- [WWDC 25 пройдёт с 9 по 13 июня](https://habr.com/ru/news/894340/?utm_campaign=894340&utm_source=habrahabr&utm_medium=rss)
-- [Серия промышленных компьютеров EDATEC ED-IPC3600 на базе Raspberry Pi](https://habr.com/ru/news/894332/?utm_campaign=894332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
