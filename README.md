@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Провожаем старый спутник, встречаем новый: началась подготовка к космической рокировке](https://habr.com/ru/companies/ruvds/news/894586/?utm_campaign=894586&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор зафиксировал инцидент с кибератакой на «Лукойл»](https://habr.com/ru/news/894600/?utm_campaign=894600&utm_source=habrahabr&utm_medium=rss)
 - [Вышел LibrePCB 1.3.0](https://habr.com/ru/news/894566/?utm_campaign=894566&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск подтвердил, что Grok стал доступен в виде Telegram-бота](https://habr.com/ru/news/894564/?utm_campaign=894564&utm_source=habrahabr&utm_medium=rss)
 - [Ученая из Финляндии решила задачу, на которую математики не могли найти ответ более 40 лет](https://habr.com/ru/news/894548/?utm_campaign=894548&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники используют «дыры» в безопасности малых банков РФ, чтобы отмывать через них деньги](https://habr.com/ru/news/894506/?utm_campaign=894506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
