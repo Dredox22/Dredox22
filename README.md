@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики анонсировали SynCity — нейросеть для генерации 3D-миров в стиле градостроительных симуляторов](https://habr.com/ru/news/894396/?utm_campaign=894396&utm_source=habrahabr&utm_medium=rss)
 - [В поиске Telegram появится реклама](https://habr.com/ru/news/894344/?utm_campaign=894344&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Аквариус» открыла в Твери новую линию по сборке серверов](https://habr.com/ru/news/894342/?utm_campaign=894342&utm_source=habrahabr&utm_medium=rss)
 - [WWDC 25 пройдёт с 9 по 13 июня](https://habr.com/ru/news/894340/?utm_campaign=894340&utm_source=habrahabr&utm_medium=rss)
 - [Серия промышленных компьютеров EDATEC ED-IPC3600 на базе Raspberry Pi](https://habr.com/ru/news/894332/?utm_campaign=894332&utm_source=habrahabr&utm_medium=rss)
-- [Выявлены критические уязвимости в Ingress Nginx для Kubernetes, позволяющие удалённо выполнять произвольный код](https://habr.com/ru/news/894326/?utm_campaign=894326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
