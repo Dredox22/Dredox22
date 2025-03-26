@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сбой в работе Система быстрых платежей &lpar;СБП&rpar;](https://habr.com/ru/news/894450/?utm_campaign=894450&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Музыка» завершила бета-тестирование новой веб-версии своего сервиса](https://habr.com/ru/news/894440/?utm_campaign=894440&utm_source=habrahabr&utm_medium=rss)
-- [«1С-Битрикс» разработал обучающий курс по эксплуатации своих продуктов, сертифицированных по требованиям ФСТЭК](https://habr.com/ru/companies/bitrix/news/894422/?utm_campaign=894422&utm_source=habrahabr&utm_medium=rss)
-- [РКН предложил прописать в законе требования к устойчивости и живучести сетей операторов связи и провайдеров](https://habr.com/ru/news/894434/?utm_campaign=894434&utm_source=habrahabr&utm_medium=rss)
-- [Все флаги собраны, результаты — получены. Итоги CTF-турнира от Selectel](https://habr.com/ru/companies/selectel/news/894414/?utm_campaign=894414&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia выпустила G-Assist для улучшения производительности в играх](https://habr.com/ru/news/894496/?utm_campaign=894496&utm_source=habrahabr&utm_medium=rss)
+- [Character.ai будет информировать родителей о «круге общения» ребёнка](https://habr.com/ru/news/894482/?utm_campaign=894482&utm_source=habrahabr&utm_medium=rss)
+- [Библиотека Motion теперь доступна для Vue](https://habr.com/ru/news/894492/?utm_campaign=894492&utm_source=habrahabr&utm_medium=rss)
+- [Researcher и Analyst: новые инструменты Microsoft для глубокого анализа](https://habr.com/ru/companies/bothub/news/894490/?utm_campaign=894490&utm_source=habrahabr&utm_medium=rss)
+- [Флюиды скама: мошенники дарят визит в салон красоты и похищают деньги со счета](https://habr.com/ru/companies/F6/news/894470/?utm_campaign=894470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
