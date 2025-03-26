@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые инструменты для разработчика решений под nanoCAD BIM Строительство 24.1](https://habr.com/ru/companies/nanosoft/news/894682/?utm_campaign=894682&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышла DOOMED Detective Game, где каждый NPC — это ИИ, с которыми надо общаться через микрофон](https://habr.com/ru/news/894668/?utm_campaign=894668&utm_source=habrahabr&utm_medium=rss)
 - [Поддержка Spring в OpenIDE](https://habr.com/ru/companies/axiomjdk/news/894352/?utm_campaign=894352&utm_source=habrahabr&utm_medium=rss)
 - [ИИ смеется последним: новое исследование подтверждает, что LLM в среднем создают мемы лучше людей](https://habr.com/ru/news/894632/?utm_campaign=894632&utm_source=habrahabr&utm_medium=rss)
 - [Провожаем старый спутник, встречаем новый: началась подготовка к космической рокировке](https://habr.com/ru/companies/ruvds/news/894586/?utm_campaign=894586&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор зафиксировал инцидент с кибератакой на «Лукойл»](https://habr.com/ru/news/894600/?utm_campaign=894600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
