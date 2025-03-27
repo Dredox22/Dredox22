@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый выпуск «Инфобеза со вкусом»: гармония вкуса и пользы от продуктов питания и ИТ-решений](https://habr.com/ru/companies/gaz-is/news/894934/?utm_campaign=894934&utm_source=habrahabr&utm_medium=rss)
+- [Servicepipe: 73% интернет-провайдеров в РФ не имеют анализаторов трафика для обнаружения DDoS-атак](https://habr.com/ru/news/894920/?utm_campaign=894920&utm_source=habrahabr&utm_medium=rss)
+- [Российские учёные вырастили кристаллы-невидимки для компьютеров будущего](https://habr.com/ru/news/894918/?utm_campaign=894918&utm_source=habrahabr&utm_medium=rss)
 - [Найден способ полностью избавиться от ложных срабатываний при анализе уязвимостей в коде](https://habr.com/ru/companies/pt/news/894908/?utm_campaign=894908&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники начали использовать видеокружки для обмана контактов жертвы](https://habr.com/ru/news/894900/?utm_campaign=894900&utm_source=habrahabr&utm_medium=rss)
-- [Mojang добавила полноценную функцию паузы в Minecraft Bedrock Edition для однопользовательских миров](https://habr.com/ru/news/894896/?utm_campaign=894896&utm_source=habrahabr&utm_medium=rss)
-- [Opera получила опцию Tab Commands на основе ИИ](https://habr.com/ru/news/894888/?utm_campaign=894888&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг поручил МЦСТ разработать новый процессор для российской игровой приставки](https://habr.com/ru/news/894886/?utm_campaign=894886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
