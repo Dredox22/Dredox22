@@ -89,7 +89,7 @@
 - [В «Яндекс Погоде» появилась возможность настроить рекламу по погоде](https://habr.com/ru/news/895074/?utm_campaign=895074&utm_source=habrahabr&utm_medium=rss)
 - [Росфинмониторинг будет самостоятельно блокировать карты дропперов](https://habr.com/ru/news/895072/?utm_campaign=895072&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI увеличила вознаграждение за обнаружение ошибок до $100 000](https://habr.com/ru/news/895062/?utm_campaign=895062&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг совместно с «Яндексом» и Сбербанком создаёт унифицированный стандарт ПО для промышленных роботов](https://habr.com/ru/news/895050/?utm_campaign=895050&utm_source=habrahabr&utm_medium=rss)
+- [Российские соцсети в 2025 году: стагнация, убытки и борьба за рекламный пирог](https://habr.com/ru/companies/finam_broker/news/895036/?utm_campaign=895036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
