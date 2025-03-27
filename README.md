@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление «Альт Виртуализации» 10.4: акцент на безопасность](https://habr.com/ru/companies/basealtspo/news/894882/?utm_campaign=894882&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс и ИТМО открыли набор в онлайн-магистратуру для DevOps-инженеров](https://habr.com/ru/companies/yandex_praktikum/news/894662/?utm_campaign=894662&utm_source=habrahabr&utm_medium=rss)
-- [Госдума приняла закон о противодействии телефонным мошенникам](https://habr.com/ru/news/894878/?utm_campaign=894878&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг вместе с «Яндексом» и «Сбером» разрабатывает унифицированный стандарт ПО для промышленных роботов](https://habr.com/ru/news/894868/?utm_campaign=894868&utm_source=habrahabr&utm_medium=rss)
-- [Баг в установщике Google Chrome приводит к отказу запуска на ПК Intel и AMD](https://habr.com/ru/news/894864/?utm_campaign=894864&utm_source=habrahabr&utm_medium=rss)
+- [Найден способ полностью избавиться от ложных срабатываний при анализе уязвимостей в коде](https://habr.com/ru/companies/pt/news/894908/?utm_campaign=894908&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники начали использовать видеокружки для обмана контактов жертвы](https://habr.com/ru/news/894900/?utm_campaign=894900&utm_source=habrahabr&utm_medium=rss)
+- [Mojang добавила полноценную функцию паузы в Minecraft Bedrock Edition для однопользовательских миров](https://habr.com/ru/news/894896/?utm_campaign=894896&utm_source=habrahabr&utm_medium=rss)
+- [Opera получила опцию Tab Commands на основе ИИ](https://habr.com/ru/news/894888/?utm_campaign=894888&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг поручил МЦСТ разработать новый процессор для российской игровой приставки](https://habr.com/ru/news/894886/?utm_campaign=894886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
