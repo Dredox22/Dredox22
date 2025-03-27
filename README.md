@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор отверг связь между сбоем 26 марта в работе Системы быстрых платежей &lpar;СБП&rpar; и действиями ведомства](https://habr.com/ru/news/894806/?utm_campaign=894806&utm_source=habrahabr&utm_medium=rss)
+- [РКН продолжит проводить исследование зависимости сервисов и операторов связи РФ от иностранной инфраструктуры](https://habr.com/ru/news/894798/?utm_campaign=894798&utm_source=habrahabr&utm_medium=rss)
+- [Релиз редактора кода Neovim 0.11](https://habr.com/ru/news/894794/?utm_campaign=894794&utm_source=habrahabr&utm_medium=rss)
 - [VK выпустила Max — бета-версию мессенджера с мини-приложениями, ботами, звонками и API для разработчиков](https://habr.com/ru/news/894772/?utm_campaign=894772&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта видеоплеера MPV 0.40](https://habr.com/ru/news/894712/?utm_campaign=894712&utm_source=habrahabr&utm_medium=rss)
-- [Новые инструменты для разработчика решений под nanoCAD BIM Строительство 24.1](https://habr.com/ru/companies/nanosoft/news/894682/?utm_campaign=894682&utm_source=habrahabr&utm_medium=rss)
-- [В Steam вышла DOOMED Detective Game, где каждый NPC — это ИИ, с которыми надо общаться через микрофон](https://habr.com/ru/news/894668/?utm_campaign=894668&utm_source=habrahabr&utm_medium=rss)
-- [ИИ смеется последним: новое исследование подтверждает, что LLM в среднем создают мемы лучше людей](https://habr.com/ru/news/894632/?utm_campaign=894632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
