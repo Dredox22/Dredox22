@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг совместно с «Яндексом» и Сбербанком создаёт унифицированный стандарт ПО для промышленных роботов](https://habr.com/ru/news/895050/?utm_campaign=895050&utm_source=habrahabr&utm_medium=rss)
 - [Российские соцсети в 2025 году: стагнация, убытки и борьба за рекламный пирог](https://habr.com/ru/companies/finam_broker/news/895036/?utm_campaign=895036&utm_source=habrahabr&utm_medium=rss)
 - [Ideogram 3.0: улучшенное качество изображений и новые текстовые возможности](https://habr.com/ru/companies/bothub/news/895010/?utm_campaign=895010&utm_source=habrahabr&utm_medium=rss)
 - [RuStore оптимизировал процесс скачивания приложений и ускорил их загрузку на 24%](https://habr.com/ru/news/894990/?utm_campaign=894990&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Zorin OS 17.3 на пакетной базе Ubuntu 22.04](https://habr.com/ru/news/894948/?utm_campaign=894948&utm_source=habrahabr&utm_medium=rss)
-- [Новый выпуск «Инфобеза со вкусом»: гармония вкуса и пользы от продуктов питания и ИТ-решений](https://habr.com/ru/companies/gaz-is/news/894934/?utm_campaign=894934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
