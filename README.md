@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [АСКОН покажет КОМПАС-3D v24 на презентации 5 апреля](https://habr.com/ru/companies/ascon/news/894460/?utm_campaign=894460&utm_source=habrahabr&utm_medium=rss)
+- [На GitHub появилась доска объявлений о вакансиях программистов](https://habr.com/ru/news/894848/?utm_campaign=894848&utm_source=habrahabr&utm_medium=rss)
 - [Ferrous Systems жертвует спецификацию языка Ferrocene проекту Rust](https://habr.com/ru/news/894822/?utm_campaign=894822&utm_source=habrahabr&utm_medium=rss)
 - [Власти Евросоюза прорабатывают концепцию отказа от ОС Windows с переходом на EU OS на базе Linux &lpar;Fedora KDE Plasma&rpar;](https://habr.com/ru/news/894820/?utm_campaign=894820&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор отверг связь между сбоем 26 марта в работе Системы быстрых платежей &lpar;СБП&rpar; и действиями ведомства](https://habr.com/ru/news/894806/?utm_campaign=894806&utm_source=habrahabr&utm_medium=rss)
-- [РКН продолжит проводить исследование зависимости сервисов и операторов связи РФ от иностранной инфраструктуры](https://habr.com/ru/news/894798/?utm_campaign=894798&utm_source=habrahabr&utm_medium=rss)
-- [Релиз редактора кода Neovim 0.11](https://habr.com/ru/news/894794/?utm_campaign=894794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
