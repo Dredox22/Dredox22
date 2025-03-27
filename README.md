@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [АСКОН покажет КОМПАС-3D v24 на презентации 5 апреля](https://habr.com/ru/companies/ascon/news/894460/?utm_campaign=894460&utm_source=habrahabr&utm_medium=rss)
-- [На GitHub появилась доска объявлений о вакансиях программистов](https://habr.com/ru/news/894848/?utm_campaign=894848&utm_source=habrahabr&utm_medium=rss)
-- [Ferrous Systems жертвует спецификацию языка Ferrocene проекту Rust](https://habr.com/ru/news/894822/?utm_campaign=894822&utm_source=habrahabr&utm_medium=rss)
-- [Власти Евросоюза прорабатывают концепцию отказа от ОС Windows с переходом на EU OS на базе Linux &lpar;Fedora KDE Plasma&rpar;](https://habr.com/ru/news/894820/?utm_campaign=894820&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор отверг связь между сбоем 26 марта в работе Системы быстрых платежей &lpar;СБП&rpar; и действиями ведомства](https://habr.com/ru/news/894806/?utm_campaign=894806&utm_source=habrahabr&utm_medium=rss)
+- [Обновление «Альт Виртуализации» 10.4: акцент на безопасность](https://habr.com/ru/companies/basealtspo/news/894882/?utm_campaign=894882&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс и ИТМО открыли набор в онлайн-магистратуру для DevOps-инженеров](https://habr.com/ru/companies/yandex_praktikum/news/894662/?utm_campaign=894662&utm_source=habrahabr&utm_medium=rss)
+- [Госдума приняла закон о противодействии телефонным мошенникам](https://habr.com/ru/news/894878/?utm_campaign=894878&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг вместе с «Яндексом» и «Сбером» разрабатывает унифицированный стандарт ПО для промышленных роботов](https://habr.com/ru/news/894868/?utm_campaign=894868&utm_source=habrahabr&utm_medium=rss)
+- [Баг в установщике Google Chrome приводит к отказу запуска на ПК Intel и AMD](https://habr.com/ru/news/894864/?utm_campaign=894864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
