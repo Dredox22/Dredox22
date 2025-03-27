@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RuStore оптимизировал процесс скачивания приложений и ускорил их загрузку на 24%](https://habr.com/ru/news/894990/?utm_campaign=894990&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Zorin OS 17.3 на пакетной базе Ubuntu 22.04](https://habr.com/ru/news/894948/?utm_campaign=894948&utm_source=habrahabr&utm_medium=rss)
 - [Новый выпуск «Инфобеза со вкусом»: гармония вкуса и пользы от продуктов питания и ИТ-решений](https://habr.com/ru/companies/gaz-is/news/894934/?utm_campaign=894934&utm_source=habrahabr&utm_medium=rss)
 - [Servicepipe: 73% интернет-провайдеров в РФ не имеют анализаторов трафика для обнаружения DDoS-атак](https://habr.com/ru/news/894920/?utm_campaign=894920&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные вырастили кристаллы-невидимки для компьютеров будущего](https://habr.com/ru/news/894918/?utm_campaign=894918&utm_source=habrahabr&utm_medium=rss)
-- [Найден способ полностью избавиться от ложных срабатываний при анализе уязвимостей в коде](https://habr.com/ru/companies/pt/news/894908/?utm_campaign=894908&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники начали использовать видеокружки для обмана контактов жертвы](https://habr.com/ru/news/894900/?utm_campaign=894900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
