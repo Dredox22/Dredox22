@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ferrous Systems жертвует спецификацию языка Ferrocene проекту Rust](https://habr.com/ru/news/894822/?utm_campaign=894822&utm_source=habrahabr&utm_medium=rss)
+- [Власти Евросоюза прорабатывают концепцию отказа от ОС Windows с переходом на EU OS на базе Linux &lpar;Fedora KDE Plasma&rpar;](https://habr.com/ru/news/894820/?utm_campaign=894820&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор отверг связь между сбоем 26 марта в работе Системы быстрых платежей &lpar;СБП&rpar; и действиями ведомства](https://habr.com/ru/news/894806/?utm_campaign=894806&utm_source=habrahabr&utm_medium=rss)
 - [РКН продолжит проводить исследование зависимости сервисов и операторов связи РФ от иностранной инфраструктуры](https://habr.com/ru/news/894798/?utm_campaign=894798&utm_source=habrahabr&utm_medium=rss)
 - [Релиз редактора кода Neovim 0.11](https://habr.com/ru/news/894794/?utm_campaign=894794&utm_source=habrahabr&utm_medium=rss)
-- [VK выпустила Max — бета-версию мессенджера с мини-приложениями, ботами, звонками и API для разработчиков](https://habr.com/ru/news/894772/?utm_campaign=894772&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта видеоплеера MPV 0.40](https://habr.com/ru/news/894712/?utm_campaign=894712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
