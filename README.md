@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила баг в обновлении Windows 10/11, когда USB-принтеры на ПК сами печатали данные протокола IPP](https://habr.com/ru/news/895422/?utm_campaign=895422&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обновил алгоритмы своей поисковой системы](https://habr.com/ru/news/895414/?utm_campaign=895414&utm_source=habrahabr&utm_medium=rss)
 - [Проект Organic Maps перенёс разработку с GitHub на Forgejo из-за санкций против одного из разработчиков команды](https://habr.com/ru/news/895400/?utm_campaign=895400&utm_source=habrahabr&utm_medium=rss)
 - [День карьеры в СПбГАСУ собрал крупнейших работодателей сферы инженерии и строительства](https://habr.com/ru/companies/nanosoft/news/895248/?utm_campaign=895248&utm_source=habrahabr&utm_medium=rss)
 - [WT Yandex map items v.2.0.0. Модуль Яндекс.Карт с API 3.0 для Joomla](https://habr.com/ru/news/895246/?utm_campaign=895246&utm_source=habrahabr&utm_medium=rss)
-- [ФАС направила интернет-провайдерам запросы о наличии барьеров при получении доступа в дома застройщика ПИК](https://habr.com/ru/news/895228/?utm_campaign=895228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
