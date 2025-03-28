@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cимулятор жизни inZOI вышел в раннем доступе в Steam](https://habr.com/ru/news/895156/?utm_campaign=895156&utm_source=habrahabr&utm_medium=rss)
 - [GitHub вводит ограничение на количество репозиториев в размере 100 000 шт. на пользователя/организацию с 28 апреля](https://habr.com/ru/news/895142/?utm_campaign=895142&utm_source=habrahabr&utm_medium=rss)
 - [Вышла тестовая версия Ubuntu 25.04 Plucky Puffin Public Beta](https://habr.com/ru/news/895136/?utm_campaign=895136&utm_source=habrahabr&utm_medium=rss)
 - [В МИД Германии предложили в ответ на пошлины США ввести в ЕС сбор на обновления iPhone](https://habr.com/ru/news/895134/?utm_campaign=895134&utm_source=habrahabr&utm_medium=rss)
 - [Представлен первый AI-бот для работы с PostgreSQL на естественном языке](https://habr.com/ru/news/895110/?utm_campaign=895110&utm_source=habrahabr&utm_medium=rss)
-- [Akamai взял на себя хостинг kernel.org, обеспечивая долгосрочную стабильность разработки и обслуживания ОС Linux](https://habr.com/ru/news/895086/?utm_campaign=895086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
