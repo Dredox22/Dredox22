@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В МИД Германии предложили в ответ на пошлины США ввести в ЕС сбор на обновления iPhone](https://habr.com/ru/news/895134/?utm_campaign=895134&utm_source=habrahabr&utm_medium=rss)
 - [Представлен первый AI-бот для работы с PostgreSQL на естественном языке](https://habr.com/ru/news/895110/?utm_campaign=895110&utm_source=habrahabr&utm_medium=rss)
 - [Akamai взял на себя хостинг kernel.org, обеспечивая долгосрочную стабильность разработки и обслуживания ОС Linux](https://habr.com/ru/news/895086/?utm_campaign=895086&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Погоде» появилась возможность настроить рекламу по погоде](https://habr.com/ru/news/895074/?utm_campaign=895074&utm_source=habrahabr&utm_medium=rss)
 - [Росфинмониторинг будет самостоятельно блокировать карты дропперов](https://habr.com/ru/news/895072/?utm_campaign=895072&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI увеличила вознаграждение за обнаружение ошибок до $100 000](https://habr.com/ru/news/895062/?utm_campaign=895062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
