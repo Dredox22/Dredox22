@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Photos получит поддержку JXL и поиска в Интернете](https://habr.com/ru/news/895194/?utm_campaign=895194&utm_source=habrahabr&utm_medium=rss)
+- [Управление роботами в реальном времени на основе аппаратных нейросетей](https://habr.com/ru/news/895190/?utm_campaign=895190&utm_source=habrahabr&utm_medium=rss)
+- [Google запускает новые функции планирования отпуска для Поиска, Карт и Gemini](https://habr.com/ru/companies/bothub/news/895178/?utm_campaign=895178&utm_source=habrahabr&utm_medium=rss)
+- [Интеллект как результат эволюции или игра на выживание с ИИ](https://habr.com/ru/news/895130/?utm_campaign=895130&utm_source=habrahabr&utm_medium=rss)
 - [Cимулятор жизни inZOI вышел в раннем доступе в Steam](https://habr.com/ru/news/895156/?utm_campaign=895156&utm_source=habrahabr&utm_medium=rss)
-- [GitHub вводит ограничение на количество репозиториев в размере 100 000 шт. на пользователя/организацию с 28 апреля](https://habr.com/ru/news/895142/?utm_campaign=895142&utm_source=habrahabr&utm_medium=rss)
-- [Вышла тестовая версия Ubuntu 25.04 Plucky Puffin Public Beta](https://habr.com/ru/news/895136/?utm_campaign=895136&utm_source=habrahabr&utm_medium=rss)
-- [В МИД Германии предложили в ответ на пошлины США ввести в ЕС сбор на обновления iPhone](https://habr.com/ru/news/895134/?utm_campaign=895134&utm_source=habrahabr&utm_medium=rss)
-- [Представлен первый AI-бот для работы с PostgreSQL на естественном языке](https://habr.com/ru/news/895110/?utm_campaign=895110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
