@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [День карьеры в СПбГАСУ собрал крупнейших работодателей сферы инженерии и строительства](https://habr.com/ru/companies/nanosoft/news/895248/?utm_campaign=895248&utm_source=habrahabr&utm_medium=rss)
+- [WT Yandex map items v.2.0.0. Модуль Яндекс.Карт с API 3.0 для Joomla](https://habr.com/ru/news/895246/?utm_campaign=895246&utm_source=habrahabr&utm_medium=rss)
 - [ФАС направила интернет-провайдерам запросы о наличии барьеров при получении доступа в дома застройщика ПИК](https://habr.com/ru/news/895228/?utm_campaign=895228&utm_source=habrahabr&utm_medium=rss)
 - [Владельцы Google Pixel пожаловались на нерабочие будильники](https://habr.com/ru/news/895120/?utm_campaign=895120&utm_source=habrahabr&utm_medium=rss)
 - [Google Maps сможет сканировать скриншоты для планирования отпуска](https://habr.com/ru/news/895204/?utm_campaign=895204&utm_source=habrahabr&utm_medium=rss)
-- [Windows Photos получит поддержку JXL и поиска в Интернете](https://habr.com/ru/news/895194/?utm_campaign=895194&utm_source=habrahabr&utm_medium=rss)
-- [Управление роботами в реальном времени на основе аппаратных нейросетей](https://habr.com/ru/news/895190/?utm_campaign=895190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
