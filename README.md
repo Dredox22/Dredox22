@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Минцифры РФ заявил, что более 90% мошенничеств с социальной инженерией происходит в иностранных мессенджерах](https://habr.com/ru/news/895648/?utm_campaign=895648&utm_source=habrahabr&utm_medium=rss)
+- [Вышло продолжение легендарной игры-мема «Русы против Ящеров»](https://habr.com/ru/news/895644/?utm_campaign=895644&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил расширение, которое скрывает сгенерированные картинки в стиле аниме студии «Гибли»](https://habr.com/ru/news/895642/?utm_campaign=895642&utm_source=habrahabr&utm_medium=rss)
 - [Релиз сборочной системы CMake 4.0.0](https://habr.com/ru/news/895612/?utm_campaign=895612&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft ускорит запуск приложений Office с помощью функции Startup Boost](https://habr.com/ru/news/895604/?utm_campaign=895604&utm_source=habrahabr&utm_medium=rss)
-- [Штатный установщик Windows 11 позволит выбирать между NTFS и ReFS при чистой установке ОС](https://habr.com/ru/news/895578/?utm_campaign=895578&utm_source=habrahabr&utm_medium=rss)
-- [У российской телеком-отрасли появился новый представитель — АНО «Консорциум “Телекоммуникационное оборудование”»](https://habr.com/ru/news/895576/?utm_campaign=895576&utm_source=habrahabr&utm_medium=rss)
-- [Google планирует закрыть Android, чтобы только внутренние разработчики могли участвовать в проекте](https://habr.com/ru/news/895562/?utm_campaign=895562&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
