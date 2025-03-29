@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торвальдс раскритиковал код тестирования hdrtest](https://habr.com/ru/news/895484/?utm_campaign=895484&utm_source=habrahabr&utm_medium=rss)
 - [В Final Cut Pro появились нейросетевые функции Apple Intelligence](https://habr.com/ru/news/895466/?utm_campaign=895466&utm_source=habrahabr&utm_medium=rss)
 - [JPMorgan заявила о получении истинно случайных чисел в квантовом эксперименте](https://habr.com/ru/news/895456/?utm_campaign=895456&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила баг в обновлении Windows 10/11, когда USB-принтеры на ПК сами печатали данные протокола IPP](https://habr.com/ru/news/895422/?utm_campaign=895422&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обновил алгоритмы своей поисковой системы](https://habr.com/ru/news/895414/?utm_campaign=895414&utm_source=habrahabr&utm_medium=rss)
-- [Проект Organic Maps перенёс разработку с GitHub на Forgejo из-за санкций против одного из разработчиков команды](https://habr.com/ru/news/895400/?utm_campaign=895400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
