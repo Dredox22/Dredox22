@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бывшая жена Сергея Брина банкротит 23andMe, а PlayStation добавит солнечную зарядку для контроллера: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/895374/?utm_campaign=895374&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество OpenWrt одобрило начало работы над проектом открытого маршрутизатора OpenWrt Two](https://habr.com/ru/news/895518/?utm_campaign=895518&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft усложнила установку Windows 11 без Интернета](https://habr.com/ru/news/895506/?utm_campaign=895506&utm_source=habrahabr&utm_medium=rss)
 - [Представлен обучающий курс по вайб-программированию Vibe Coding 101](https://habr.com/ru/news/895504/?utm_campaign=895504&utm_source=habrahabr&utm_medium=rss)
 - [Торвальдс раскритиковал код тестирования hdrtest](https://habr.com/ru/news/895484/?utm_campaign=895484&utm_source=habrahabr&utm_medium=rss)
-- [В Final Cut Pro появились нейросетевые функции Apple Intelligence](https://habr.com/ru/news/895466/?utm_campaign=895466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
