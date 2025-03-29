@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У российской телеком-отрасли появился новый представитель — АНО «Консорциум “Телекоммуникационное оборудование”»](https://habr.com/ru/news/895576/?utm_campaign=895576&utm_source=habrahabr&utm_medium=rss)
 - [Google планирует закрыть Android, чтобы только внутренние разработчики могли участвовать в проекте](https://habr.com/ru/news/895562/?utm_campaign=895562&utm_source=habrahabr&utm_medium=rss)
 - [Охрана ​Madison Square Garden выгнала посетителя с концерта: видеокамеры определили его как критика главы компании](https://habr.com/ru/news/895558/?utm_campaign=895558&utm_source=habrahabr&utm_medium=rss)
 - [В МФТИ разработали схему квантового процессора из 40 кубитов](https://habr.com/ru/news/895552/?utm_campaign=895552&utm_source=habrahabr&utm_medium=rss)
 - [Бывшая жена Сергея Брина банкротит 23andMe, а PlayStation добавит солнечную зарядку для контроллера: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/895374/?utm_campaign=895374&utm_source=habrahabr&utm_medium=rss)
-- [Сообщество OpenWrt одобрило начало работы над проектом открытого маршрутизатора OpenWrt Two](https://habr.com/ru/news/895518/?utm_campaign=895518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
