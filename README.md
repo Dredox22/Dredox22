@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Саратовской области задержали подозреваемых в разработке вредоносного ПО «Мамонт»](https://habr.com/ru/news/895690/?utm_campaign=895690&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft Excel появились «маркеры значений» для представления данных](https://habr.com/ru/news/895686/?utm_campaign=895686&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Anthropic: ИИ умеет планировать и сознательно врать](https://habr.com/ru/news/895680/?utm_campaign=895680&utm_source=habrahabr&utm_medium=rss)
 - [Релиз видеоредактора с открытым исходным кодом Shotcut 25.03](https://habr.com/ru/news/895656/?utm_campaign=895656&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Swiftly — официальный менеджер версий Swift](https://habr.com/ru/news/895652/?utm_campaign=895652&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минцифры РФ заявил, что более 90% мошенничеств с социальной инженерией происходит в иностранных мессенджерах](https://habr.com/ru/news/895648/?utm_campaign=895648&utm_source=habrahabr&utm_medium=rss)
-- [Вышло продолжение легендарной игры-мема «Русы против Ящеров»](https://habr.com/ru/news/895644/?utm_campaign=895644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
