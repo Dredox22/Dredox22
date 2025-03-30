@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого проекта Mesop 1.0 — UI-фреймворка на основе Python для создания веб-приложений](https://habr.com/ru/news/895714/?utm_campaign=895714&utm_source=habrahabr&utm_medium=rss)
+- [Light Phone III: новый смартфон без интернета за $599 по предзаказу](https://habr.com/ru/news/895616/?utm_campaign=895616&utm_source=habrahabr&utm_medium=rss)
 - [В Саратовской области задержали подозреваемых в разработке вредоносного ПО «Мамонт»](https://habr.com/ru/news/895690/?utm_campaign=895690&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Excel появились «маркеры значений» для представления данных](https://habr.com/ru/news/895686/?utm_campaign=895686&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Anthropic: ИИ умеет планировать и сознательно врать](https://habr.com/ru/news/895680/?utm_campaign=895680&utm_source=habrahabr&utm_medium=rss)
-- [Релиз видеоредактора с открытым исходным кодом Shotcut 25.03](https://habr.com/ru/news/895656/?utm_campaign=895656&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Swiftly — официальный менеджер версий Swift](https://habr.com/ru/news/895652/?utm_campaign=895652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
