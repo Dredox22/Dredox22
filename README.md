@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз видеоредактора с открытым исходным кодом Shotcut 25.03](https://habr.com/ru/news/895656/?utm_campaign=895656&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Swiftly — официальный менеджер версий Swift](https://habr.com/ru/news/895652/?utm_campaign=895652&utm_source=habrahabr&utm_medium=rss)
 - [Глава Минцифры РФ заявил, что более 90% мошенничеств с социальной инженерией происходит в иностранных мессенджерах](https://habr.com/ru/news/895648/?utm_campaign=895648&utm_source=habrahabr&utm_medium=rss)
 - [Вышло продолжение легендарной игры-мема «Русы против Ящеров»](https://habr.com/ru/news/895644/?utm_campaign=895644&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил расширение, которое скрывает сгенерированные картинки в стиле аниме студии «Гибли»](https://habr.com/ru/news/895642/?utm_campaign=895642&utm_source=habrahabr&utm_medium=rss)
-- [Релиз сборочной системы CMake 4.0.0](https://habr.com/ru/news/895612/?utm_campaign=895612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
