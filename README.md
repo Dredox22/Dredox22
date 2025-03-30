@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России планируют создать удалённый рабочий стол с поддержкой веб-камеры](https://habr.com/ru/news/895752/?utm_campaign=895752&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик представил BamBot — открытый проект «человекоподобного» робота, который обойдётся в 300 долларов](https://habr.com/ru/news/895776/?utm_campaign=895776&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получила полноценную дорожную карту, которая упростит отслеживание новых функций](https://habr.com/ru/news/895746/?utm_campaign=895746&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз TripoSG и TripoSF — нейроинструментов для генерации 3D-моделей](https://habr.com/ru/news/895758/?utm_campaign=895758&utm_source=habrahabr&utm_medium=rss)
 - [Обновления BIOS Lenovo не работают в Windows 11 после изменений от Microsoft](https://habr.com/ru/news/895744/?utm_campaign=895744&utm_source=habrahabr&utm_medium=rss)
-- [В ЗНТЦ представили первый отечественный литограф](https://habr.com/ru/news/895738/?utm_campaign=895738&utm_source=habrahabr&utm_medium=rss)
-- [Oracle признала киберинцидент с доступом хакеров к серверам и утечкой данных клиентов](https://habr.com/ru/news/895728/?utm_campaign=895728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
