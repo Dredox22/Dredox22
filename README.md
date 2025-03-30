@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 получила полноценную дорожную карту, которая упростит отслеживание новых функций](https://habr.com/ru/news/895746/?utm_campaign=895746&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз TripoSG и TripoSF — нейроинструментов для генерации 3D-моделей](https://habr.com/ru/news/895758/?utm_campaign=895758&utm_source=habrahabr&utm_medium=rss)
+- [Обновления BIOS Lenovo не работают в Windows 11 после изменений от Microsoft](https://habr.com/ru/news/895744/?utm_campaign=895744&utm_source=habrahabr&utm_medium=rss)
 - [В ЗНТЦ представили первый отечественный литограф](https://habr.com/ru/news/895738/?utm_campaign=895738&utm_source=habrahabr&utm_medium=rss)
 - [Oracle признала киберинцидент с доступом хакеров к серверам и утечкой данных клиентов](https://habr.com/ru/news/895728/?utm_campaign=895728&utm_source=habrahabr&utm_medium=rss)
-- [Amazon представила ИИ-функцию «Интересы», которая позволяет уточнять запросы о нужных товарах](https://habr.com/ru/news/895726/?utm_campaign=895726&utm_source=habrahabr&utm_medium=rss)
-- [Digital Foundry подтвердила проблемы с «заиканием VRR» на PS5 и PS5 Pro](https://habr.com/ru/news/895720/?utm_campaign=895720&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала тестировать в Windows 11 инструмент Quick Machine Recovery](https://habr.com/ru/news/895724/?utm_campaign=895724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
