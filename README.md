@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование по повышению производительности в системах RAG](https://habr.com/ru/companies/bothub/news/895828/?utm_campaign=895828&utm_source=habrahabr&utm_medium=rss)
 - [n8n стал доступен в Amvera Cloud как сервис](https://habr.com/ru/companies/amvera/news/895794/?utm_campaign=895794&utm_source=habrahabr&utm_medium=rss)
 - [В России планируют создать удалённый рабочий стол с поддержкой веб-камеры](https://habr.com/ru/news/895752/?utm_campaign=895752&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил BamBot — открытый проект «человекоподобного» робота, который обойдётся в 300 долларов](https://habr.com/ru/news/895776/?utm_campaign=895776&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получила полноценную дорожную карту, которая упростит отслеживание новых функций](https://habr.com/ru/news/895746/?utm_campaign=895746&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз TripoSG и TripoSF — нейроинструментов для генерации 3D-моделей](https://habr.com/ru/news/895758/?utm_campaign=895758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
