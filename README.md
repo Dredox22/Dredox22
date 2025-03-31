@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз MedAgentSim — открытой нейросимуляции больницы](https://habr.com/ru/news/896254/?utm_campaign=896254&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики представили Typed Grammar — проект для изучения естественных языков с помощью TypeScript](https://habr.com/ru/news/896252/?utm_campaign=896252&utm_source=habrahabr&utm_medium=rss)
 - [Мультимодальная нейросеть GPT-4o появилась на Image Arena и делит на ней первое место с Reve](https://habr.com/ru/news/896248/?utm_campaign=896248&utm_source=habrahabr&utm_medium=rss)
 - [Pudu Robotics представила сервисного робота FlashBot Arm](https://habr.com/ru/news/896172/?utm_campaign=896172&utm_source=habrahabr&utm_medium=rss)
 - [Группировка Shedding Zmiy начала использовать новый вредонос Puma](https://habr.com/ru/news/896168/?utm_campaign=896168&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: в актуальной версии Telegram стали появляться первые замороженные аккаунты](https://habr.com/ru/news/896154/?utm_campaign=896154&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE запустила бесплатную версию портала киберразведки](https://habr.com/ru/news/896150/?utm_campaign=896150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
