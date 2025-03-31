@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мультимодальная нейросеть GPT-4o появилась на Image Arena и делит на ней первое место с Reve](https://habr.com/ru/news/896248/?utm_campaign=896248&utm_source=habrahabr&utm_medium=rss)
 - [Pudu Robotics представила сервисного робота FlashBot Arm](https://habr.com/ru/news/896172/?utm_campaign=896172&utm_source=habrahabr&utm_medium=rss)
 - [Группировка Shedding Zmiy начала использовать новый вредонос Puma](https://habr.com/ru/news/896168/?utm_campaign=896168&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: в актуальной версии Telegram стали появляться первые замороженные аккаунты](https://habr.com/ru/news/896154/?utm_campaign=896154&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE запустила бесплатную версию портала киберразведки](https://habr.com/ru/news/896150/?utm_campaign=896150&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/896148/?utm_campaign=896148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
