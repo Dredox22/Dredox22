@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Совфеде предложили Минцифры меры для легализации деятельности «белых хакеров»](https://habr.com/ru/news/896026/?utm_campaign=896026&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft снова собирается поменять цвет экрана смерти в Windows и убрать грустный смайл](https://habr.com/ru/news/895808/?utm_campaign=895808&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи нашли новые пути настройки Windows 11 после запрета BYPASSNRO](https://habr.com/ru/news/896008/?utm_campaign=896008&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 19 появится функция ИИ-врача](https://habr.com/ru/news/896000/?utm_campaign=896000&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс запускает новый сезон Летних школ](https://habr.com/ru/companies/yandex/news/895988/?utm_campaign=895988&utm_source=habrahabr&utm_medium=rss)
+- [Российский аналог симулятора FIFA выйдет до 2030 года](https://habr.com/ru/news/896100/?utm_campaign=896100&utm_source=habrahabr&utm_medium=rss)
+- [«Росэлектроника» представила новые сверхнадежные миниатюрные датчики для медицинской и навигационной техники](https://habr.com/ru/news/896098/?utm_campaign=896098&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия «РОСА Центр управления» может работать с корпоративными смартфонами на базе «РОСА Мобайл»](https://habr.com/ru/news/896080/?utm_campaign=896080&utm_source=habrahabr&utm_medium=rss)
+- [С 1 апреля владельцев Telegram-каналов и блогов обяжут платить 3% дохода с рекламы](https://habr.com/ru/news/896076/?utm_campaign=896076&utm_source=habrahabr&utm_medium=rss)
+- [«МЦСТ» опубликовала в открытом доступе кросс-компилятор lcc-1.27.21 для архитектуры «Эльбрус» &lpar;e2k&rpar; под x86](https://habr.com/ru/news/896036/?utm_campaign=896036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
