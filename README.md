@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Регулятор Франции оштрафовал Apple на €150 млн за программу защиты персональных данных пользователей](https://habr.com/ru/news/896132/?utm_campaign=896132&utm_source=habrahabr&utm_medium=rss)
 - [Российский аналог симулятора FIFA выйдет до 2030 года](https://habr.com/ru/news/896100/?utm_campaign=896100&utm_source=habrahabr&utm_medium=rss)
 - [«Росэлектроника» представила новые сверхнадежные миниатюрные датчики для медицинской и навигационной техники](https://habr.com/ru/news/896098/?utm_campaign=896098&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия «РОСА Центр управления» может работать с корпоративными смартфонами на базе «РОСА Мобайл»](https://habr.com/ru/news/896080/?utm_campaign=896080&utm_source=habrahabr&utm_medium=rss)
 - [С 1 апреля владельцев Telegram-каналов и блогов обяжут платить 3% дохода с рекламы](https://habr.com/ru/news/896076/?utm_campaign=896076&utm_source=habrahabr&utm_medium=rss)
-- [«МЦСТ» опубликовала в открытом доступе кросс-компилятор lcc-1.27.21 для архитектуры «Эльбрус» &lpar;e2k&rpar; под x86](https://habr.com/ru/news/896036/?utm_campaign=896036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
