@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи нашли новые пути настройки Windows 11 после запрета BYPASSNRO](https://habr.com/ru/news/896008/?utm_campaign=896008&utm_source=habrahabr&utm_medium=rss)
+- [В iOS 19 появится функция ИИ-врача](https://habr.com/ru/news/896000/?utm_campaign=896000&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс запускает новый сезон Летних школ](https://habr.com/ru/companies/yandex/news/895988/?utm_campaign=895988&utm_source=habrahabr&utm_medium=rss)
 - [Copilot не смог сгенерировать код задания TouchDevelop 2013 года для Windows Phone](https://habr.com/ru/news/895962/?utm_campaign=895962&utm_source=habrahabr&utm_medium=rss)
 - [Remedy объяснила отличия AA- и AAA-игр](https://habr.com/ru/news/895958/?utm_campaign=895958&utm_source=habrahabr&utm_medium=rss)
-- [Bolt Graphics представила видеокарту со слотами памяти SO-DIMM](https://habr.com/ru/news/895948/?utm_campaign=895948&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой утилиты GNU patch 2.8](https://habr.com/ru/news/895952/?utm_campaign=895952&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Blue95 — это дистрибутив Linux на базе Fedora Xfce 41 с темой оформления Chicago95](https://habr.com/ru/news/895932/?utm_campaign=895932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
