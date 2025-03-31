@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Код Дурова»: в актуальной версии Telegram стали появляться первые замороженные аккаунты](https://habr.com/ru/news/896154/?utm_campaign=896154&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE запустила бесплатную версию портала киберразведки](https://habr.com/ru/news/896150/?utm_campaign=896150&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/896148/?utm_campaign=896148&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в апреле](https://habr.com/ru/companies/netologyru/news/896144/?utm_campaign=896144&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор Франции оштрафовал Apple на €150 млн за программу защиты персональных данных пользователей](https://habr.com/ru/news/896132/?utm_campaign=896132&utm_source=habrahabr&utm_medium=rss)
-- [Российский аналог симулятора FIFA выйдет до 2030 года](https://habr.com/ru/news/896100/?utm_campaign=896100&utm_source=habrahabr&utm_medium=rss)
-- [«Росэлектроника» представила новые сверхнадежные миниатюрные датчики для медицинской и навигационной техники](https://habr.com/ru/news/896098/?utm_campaign=896098&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия «РОСА Центр управления» может работать с корпоративными смартфонами на базе «РОСА Мобайл»](https://habr.com/ru/news/896080/?utm_campaign=896080&utm_source=habrahabr&utm_medium=rss)
-- [С 1 апреля владельцев Telegram-каналов и блогов обяжут платить 3% дохода с рекламы](https://habr.com/ru/news/896076/?utm_campaign=896076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
