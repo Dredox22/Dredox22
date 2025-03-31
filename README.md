@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мероприятие Vibe Coding Game Jam 2025 собирает ИИ-игры от вайб-разработчиков](https://habr.com/ru/news/895918/?utm_campaign=895918&utm_source=habrahabr&utm_medium=rss)
 - [В RuStore появилась возможность оплатить подписку на ChatGPT, Midjourney и другие нейросети](https://habr.com/ru/news/895912/?utm_campaign=895912&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого видеокодека Theora 1.2](https://habr.com/ru/news/895844/?utm_campaign=895844&utm_source=habrahabr&utm_medium=rss)
 - [Исследование по повышению производительности в системах RAG](https://habr.com/ru/companies/bothub/news/895828/?utm_campaign=895828&utm_source=habrahabr&utm_medium=rss)
 - [n8n стал доступен в Amvera Cloud как сервис](https://habr.com/ru/companies/amvera/news/895794/?utm_campaign=895794&utm_source=habrahabr&utm_medium=rss)
-- [В России планируют создать удалённый рабочий стол с поддержкой веб-камеры](https://habr.com/ru/news/895752/?utm_campaign=895752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
