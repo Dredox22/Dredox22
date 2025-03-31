@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект Blue95 — это дистрибутив Linux на базе Fedora Xfce 41 с темой оформления Chicago95](https://habr.com/ru/news/895932/?utm_campaign=895932&utm_source=habrahabr&utm_medium=rss)
+- [Технология «Яндекса» ускоряет уборку мусора в Арктике и на Дальнем Востоке](https://habr.com/ru/news/895814/?utm_campaign=895814&utm_source=habrahabr&utm_medium=rss)
 - [«Авито» планирует инвестировать в GenAI 12 млрд рублей и запустить новые образовательные программы для подготовки кадров](https://habr.com/ru/news/895734/?utm_campaign=895734&utm_source=habrahabr&utm_medium=rss)
 - [Правительство РФ официально наделило Роскомнадзор новыми полномочиями](https://habr.com/ru/news/895924/?utm_campaign=895924&utm_source=habrahabr&utm_medium=rss)
 - [Мероприятие Vibe Coding Game Jam 2025 собирает ИИ-игры от вайб-разработчиков](https://habr.com/ru/news/895918/?utm_campaign=895918&utm_source=habrahabr&utm_medium=rss)
-- [В RuStore появилась возможность оплатить подписку на ChatGPT, Midjourney и другие нейросети](https://habr.com/ru/news/895912/?utm_campaign=895912&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого видеокодека Theora 1.2](https://habr.com/ru/news/895844/?utm_campaign=895844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
