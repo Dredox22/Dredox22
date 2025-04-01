@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый Raspberry CM5 совместим с Российским компьютером](https://habr.com/ru/news/895880/?utm_campaign=895880&utm_source=habrahabr&utm_medium=rss)
+- [Опенсорсная генетическая база данных закрывается для защиты пользователей от «авторитарных правительств»](https://habr.com/ru/news/896330/?utm_campaign=896330&utm_source=habrahabr&utm_medium=rss)
 - [Представлен летающий с помощью магнитов робот размером с пчелу](https://habr.com/ru/news/896322/?utm_campaign=896322&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор представил информационную программу «Заблокировано — и точка»](https://habr.com/ru/news/896300/?utm_campaign=896300&utm_source=habrahabr&utm_medium=rss)
 - [РКН зафиксировал глобальный сбой в работе игрового сервиса Steam](https://habr.com/ru/news/896284/?utm_campaign=896284&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GnuCash 5.11](https://habr.com/ru/news/896232/?utm_campaign=896232&utm_source=habrahabr&utm_medium=rss)
-- [Релиз платформы обмена сообщениями Zulip 10.0](https://habr.com/ru/news/896230/?utm_campaign=896230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
