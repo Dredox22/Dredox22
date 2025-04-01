@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новый Raspberry CM5 совместим с Российским компьютером](https://habr.com/ru/news/895880/?utm_campaign=895880&utm_source=habrahabr&utm_medium=rss)
-- [Опенсорсная генетическая база данных закрывается для защиты пользователей от «авторитарных правительств»](https://habr.com/ru/news/896330/?utm_campaign=896330&utm_source=habrahabr&utm_medium=rss)
-- [Представлен летающий с помощью магнитов робот размером с пчелу](https://habr.com/ru/news/896322/?utm_campaign=896322&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор представил информационную программу «Заблокировано — и точка»](https://habr.com/ru/news/896300/?utm_campaign=896300&utm_source=habrahabr&utm_medium=rss)
-- [РКН зафиксировал глобальный сбой в работе игрового сервиса Steam](https://habr.com/ru/news/896284/?utm_campaign=896284&utm_source=habrahabr&utm_medium=rss)
+- [РЖД сообщила о массированной DDoS-атаке на сайт и мобильное приложение](https://habr.com/ru/news/896394/?utm_campaign=896394&utm_source=habrahabr&utm_medium=rss)
+- [С 1 апреля жители РФ могут оформлять не более 20 SIM-карт](https://habr.com/ru/news/896378/?utm_campaign=896378&utm_source=habrahabr&utm_medium=rss)
+- [Asus ROG представила кулер 360 AIO ARGB с большим изогнутым AMOLED-дисплеем](https://habr.com/ru/news/896386/?utm_campaign=896386&utm_source=habrahabr&utm_medium=rss)
+- [Виртуализация на площадке заказчика: от OpenStack до контейнерной платформы](https://habr.com/ru/companies/mws/news/896370/?utm_campaign=896370&utm_source=habrahabr&utm_medium=rss)
+- [MTS AI выпустила Cotype Pro 2 — второе поколение LLM для бизнеса](https://habr.com/ru/companies/mts_ai/news/896364/?utm_campaign=896364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
