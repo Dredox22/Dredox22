@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженер Intel Яни Никула ответил на критику Линуса Торвальдса по поводу гадкого &lpar;turds&rpar; кода тестирования hdrtest](https://habr.com/ru/news/896592/?utm_campaign=896592&utm_source=habrahabr&utm_medium=rss)
 - [Начался приём заявок на резидентство в кластере видеоигр и анимации Москвы](https://habr.com/ru/news/896584/?utm_campaign=896584&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» стал доступен сервис «Сим-карты»: сколько и каких номеров зарегистрировано на пользователя](https://habr.com/ru/news/896440/?utm_campaign=896440&utm_source=habrahabr&utm_medium=rss)
 - [Как АСУ ТП защитятся от кибератак](https://habr.com/ru/companies/infowatch/news/896544/?utm_campaign=896544&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft расширяет возможности ИИ на ПК Copilot Plus на базе Intel и AMD](https://habr.com/ru/companies/bothub/news/896538/?utm_campaign=896538&utm_source=habrahabr&utm_medium=rss)
-- [Cnews: «Компания „Авроид“ приостановила работу и не платит зарплату сотрудникам с марта 2025 года»](https://habr.com/ru/news/896526/?utm_campaign=896526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
