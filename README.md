@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выявлены критические уязвимости в Ingress NGINX для K8s: пользователи Deckhouse Kubernetes Platform в безопасности](https://habr.com/ru/companies/flant/news/896474/?utm_campaign=896474&utm_source=habrahabr&utm_medium=rss)
+- [Без диплома мы никто / AI: казнить нельзя помиловать / Ловим сеньора-вруна | Spring АйО Подкаст №12](https://habr.com/ru/companies/spring_aio/news/896466/?utm_campaign=896466&utm_source=habrahabr&utm_medium=rss)
+- [Виртуальные потоки: новые возможности для I/O bound микросервисов: О чем будем говорить на Jpoint?](https://habr.com/ru/companies/rshb/news/896462/?utm_campaign=896462&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» покажет первые российские фотомодули для работы в экстремальных условиях на «Фотонике-2025»](https://habr.com/ru/news/896450/?utm_campaign=896450&utm_source=habrahabr&utm_medium=rss)
 - [Зовём в Стримерскую Яндекса на конференции Mobius](https://habr.com/ru/companies/yandex/news/896382/?utm_campaign=896382&utm_source=habrahabr&utm_medium=rss)
-- [Проект SuperTuxKart переходит на игровой движок Godot](https://habr.com/ru/news/896420/?utm_campaign=896420&utm_source=habrahabr&utm_medium=rss)
-- [Ученые Smart Engines создали технологию ввода перфокарт и проверки программ с помощью томографа](https://habr.com/ru/companies/smartengines/news/896418/?utm_campaign=896418&utm_source=habrahabr&utm_medium=rss)
-- [В российских мобильных транспортных приложениях найдено 1818 уязвимостей, все они могут привести к утечке данных](https://habr.com/ru/news/896400/?utm_campaign=896400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
