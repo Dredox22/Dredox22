@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cnews: «Компания „Авроид“ приостановила работу и не платит зарплату сотрудникам с марта 2025 года»](https://habr.com/ru/news/896526/?utm_campaign=896526&utm_source=habrahabr&utm_medium=rss)
+- [Борьба за лидерство в мире чат-ботов: рост популярности конкурентов ChatGPT](https://habr.com/ru/companies/bothub/news/896522/?utm_campaign=896522&utm_source=habrahabr&utm_medium=rss)
+- [Память 2.0: создаем ИИ-двойника нашей памяти](https://habr.com/ru/news/896506/?utm_campaign=896506&utm_source=habrahabr&utm_medium=rss)
 - [Выявлены критические уязвимости в Ingress NGINX для K8s: пользователи Deckhouse Kubernetes Platform в безопасности](https://habr.com/ru/companies/flant/news/896474/?utm_campaign=896474&utm_source=habrahabr&utm_medium=rss)
 - [Без диплома мы никто / AI: казнить нельзя помиловать / Ловим сеньора-вруна | Spring АйО Подкаст №12](https://habr.com/ru/companies/spring_aio/news/896466/?utm_campaign=896466&utm_source=habrahabr&utm_medium=rss)
-- [Виртуальные потоки: новые возможности для I/O bound микросервисов: О чем будем говорить на Jpoint?](https://habr.com/ru/companies/rshb/news/896462/?utm_campaign=896462&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» покажет первые российские фотомодули для работы в экстремальных условиях на «Фотонике-2025»](https://habr.com/ru/news/896450/?utm_campaign=896450&utm_source=habrahabr&utm_medium=rss)
-- [Зовём в Стримерскую Яндекса на конференции Mobius](https://habr.com/ru/companies/yandex/news/896382/?utm_campaign=896382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
