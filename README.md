@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН зафиксировал глобальный сбой в работе игрового сервиса Steam](https://habr.com/ru/news/896284/?utm_campaign=896284&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GnuCash 5.11](https://habr.com/ru/news/896232/?utm_campaign=896232&utm_source=habrahabr&utm_medium=rss)
 - [Релиз платформы обмена сообщениями Zulip 10.0](https://habr.com/ru/news/896230/?utm_campaign=896230&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз MedAgentSim — открытой нейросимуляции больницы](https://habr.com/ru/news/896254/?utm_campaign=896254&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Typed Grammar — проект для изучения естественных языков с помощью TypeScript](https://habr.com/ru/news/896252/?utm_campaign=896252&utm_source=habrahabr&utm_medium=rss)
-- [Мультимодальная нейросеть GPT-4o появилась на Image Arena и делит на ней первое место с Reve](https://habr.com/ru/news/896248/?utm_campaign=896248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
