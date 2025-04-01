@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростех» покажет первые российские фотомодули для работы в экстремальных условиях на «Фотонике-2025»](https://habr.com/ru/news/896450/?utm_campaign=896450&utm_source=habrahabr&utm_medium=rss)
+- [Зовём в Стримерскую Яндекса на конференции Mobius](https://habr.com/ru/companies/yandex/news/896382/?utm_campaign=896382&utm_source=habrahabr&utm_medium=rss)
 - [Проект SuperTuxKart переходит на игровой движок Godot](https://habr.com/ru/news/896420/?utm_campaign=896420&utm_source=habrahabr&utm_medium=rss)
 - [Ученые Smart Engines создали технологию ввода перфокарт и проверки программ с помощью томографа](https://habr.com/ru/companies/smartengines/news/896418/?utm_campaign=896418&utm_source=habrahabr&utm_medium=rss)
 - [В российских мобильных транспортных приложениях найдено 1818 уязвимостей, все они могут привести к утечке данных](https://habr.com/ru/news/896400/?utm_campaign=896400&utm_source=habrahabr&utm_medium=rss)
-- [РЖД сообщила о массированной DDoS-атаке на сайт и мобильное приложение](https://habr.com/ru/news/896394/?utm_campaign=896394&utm_source=habrahabr&utm_medium=rss)
-- [С 1 апреля жители РФ могут оформлять не более 20 SIM-карт](https://habr.com/ru/news/896378/?utm_campaign=896378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
