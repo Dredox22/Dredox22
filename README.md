@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как АСУ ТП защитятся от кибератак](https://habr.com/ru/companies/infowatch/news/896544/?utm_campaign=896544&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft расширяет возможности ИИ на ПК Copilot Plus на базе Intel и AMD](https://habr.com/ru/companies/bothub/news/896538/?utm_campaign=896538&utm_source=habrahabr&utm_medium=rss)
 - [Cnews: «Компания „Авроид“ приостановила работу и не платит зарплату сотрудникам с марта 2025 года»](https://habr.com/ru/news/896526/?utm_campaign=896526&utm_source=habrahabr&utm_medium=rss)
 - [Борьба за лидерство в мире чат-ботов: рост популярности конкурентов ChatGPT](https://habr.com/ru/companies/bothub/news/896522/?utm_campaign=896522&utm_source=habrahabr&utm_medium=rss)
 - [Память 2.0: создаем ИИ-двойника нашей памяти](https://habr.com/ru/news/896506/?utm_campaign=896506&utm_source=habrahabr&utm_medium=rss)
-- [Выявлены критические уязвимости в Ingress NGINX для K8s: пользователи Deckhouse Kubernetes Platform в безопасности](https://habr.com/ru/companies/flant/news/896474/?utm_campaign=896474&utm_source=habrahabr&utm_medium=rss)
-- [Без диплома мы никто / AI: казнить нельзя помиловать / Ловим сеньора-вруна | Spring АйО Подкаст №12](https://habr.com/ru/companies/spring_aio/news/896466/?utm_campaign=896466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
