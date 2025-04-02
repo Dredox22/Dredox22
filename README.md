@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 19 может оказаться недоступна на трёх моделях iPhone](https://habr.com/ru/news/896640/?utm_campaign=896640&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 135](https://habr.com/ru/news/896740/?utm_campaign=896740&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи предполагают, что OpenAI обучала ИИ-модели на книгах издательства O&#39;Reilly, на которые не имела лицензии](https://habr.com/ru/news/896724/?utm_campaign=896724&utm_source=habrahabr&utm_medium=rss)
 - [DLP-система «СёрчИнформ КИБ» защищает файлы в «МойОфис Документы Онлайн»](https://habr.com/ru/companies/searchinform/news/896720/?utm_campaign=896720&utm_source=habrahabr&utm_medium=rss)
 - [Союз списания: киберпреступники используют связку CraxsRAT и NFCGate в атаках на клиентов банков](https://habr.com/ru/companies/F6/news/896480/?utm_campaign=896480&utm_source=habrahabr&utm_medium=rss)
-- [Мнение: вайб-кодинг не заменит инженеров для разработки промышленного ПО](https://habr.com/ru/news/896696/?utm_campaign=896696&utm_source=habrahabr&utm_medium=rss)
-- [Qualcomm приобретает подразделение генеративного ИИ вьетнамского стартапа VinAI](https://habr.com/ru/companies/bothub/news/896676/?utm_campaign=896676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
