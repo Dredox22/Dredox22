@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил Scratchify — SDK на базе Jetpack Compose Multiplatform для реализации механики скретч-карт](https://habr.com/ru/news/896812/?utm_campaign=896812&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla запустит платные сервисы Thunderbird Pro и сделает из почтового приложения коммуникационную платформу](https://habr.com/ru/news/896788/?utm_campaign=896788&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 137.0](https://habr.com/ru/news/896770/?utm_campaign=896770&utm_source=habrahabr&utm_medium=rss)
 - [iOS 19 может оказаться недоступна на трёх моделях iPhone](https://habr.com/ru/news/896640/?utm_campaign=896640&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 135](https://habr.com/ru/news/896740/?utm_campaign=896740&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи предполагают, что OpenAI обучала ИИ-модели на книгах издательства O&#39;Reilly, на которые не имела лицензии](https://habr.com/ru/news/896724/?utm_campaign=896724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
