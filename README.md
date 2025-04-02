@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: пользователи «Госуслуг» меньше чем за сутки проверили свои сим‑карты почти 6 млн раз](https://habr.com/ru/news/896850/?utm_campaign=896850&utm_source=habrahabr&utm_medium=rss)
 - [Windows 10 лишится времени с секундами в календаре на панели задач](https://habr.com/ru/news/896804/?utm_campaign=896804&utm_source=habrahabr&utm_medium=rss)
 - [QA-эксперты оценили эффективность локальных и вендорских решений для мобильного тестирования](https://habr.com/ru/companies/selectel/news/896838/?utm_campaign=896838&utm_source=habrahabr&utm_medium=rss)
 - [Вышел ретро-бенчмарк CrystalMark Retro 2.0.1](https://habr.com/ru/news/896828/?utm_campaign=896828&utm_source=habrahabr&utm_medium=rss)
 - [Установлен порядок предоставления операторами связи в РКН данных для идентификации пользовательского оборудования](https://habr.com/ru/news/896832/?utm_campaign=896832&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер»: у мошенников нет технических возможностей похитить деньги пользователей с помощью биометрии — голоса или фото](https://habr.com/ru/news/896830/?utm_campaign=896830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
