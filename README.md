@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Доктор Веб» с 1 апреля поменял названия программных продуктов и решений по подписке, ценовую политику и систему скидок](https://habr.com/ru/news/896914/?utm_campaign=896914&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo Switch 2 выйдет 5 июня и будет стоить минимум $450](https://habr.com/ru/news/896910/?utm_campaign=896910&utm_source=habrahabr&utm_medium=rss)
 - [Avanpost и «Актив» обеспечивают совместимость Avanpost Access Manager с аппаратными средствами аутентификации Рутокен](https://habr.com/ru/companies/aktiv-company/news/896882/?utm_campaign=896882&utm_source=habrahabr&utm_medium=rss)
 - [После ужесточения санкционного давления в США северокорейские IT-специалисты начали активно работать в Европе](https://habr.com/ru/news/896878/?utm_campaign=896878&utm_source=habrahabr&utm_medium=rss)
 - [Как мы боролись со сложными SQL-запросами и нетривиальными проверками данных: Готовимся к Heisenbug](https://habr.com/ru/companies/rshb/news/896876/?utm_campaign=896876&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: пользователи «Госуслуг» меньше чем за сутки проверили свои сим‑карты почти 6 млн раз](https://habr.com/ru/news/896850/?utm_campaign=896850&utm_source=habrahabr&utm_medium=rss)
-- [Windows 10 лишится времени с секундами в календаре на панели задач](https://habr.com/ru/news/896804/?utm_campaign=896804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
