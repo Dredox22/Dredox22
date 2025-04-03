@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс Практикум запустил курс «Мидл разработчик С++»](https://habr.com/ru/companies/yandex_praktikum/news/878090/?utm_campaign=878090&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект WattWise для регулирования производительности ПК и серверов с помощью умных розеток](https://habr.com/ru/news/897024/?utm_campaign=897024&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия инструмента мониторинга HWiNFO 8.24](https://habr.com/ru/news/897006/?utm_campaign=897006&utm_source=habrahabr&utm_medium=rss)
 - [Вышел True Burner 10.4](https://habr.com/ru/news/897004/?utm_campaign=897004&utm_source=habrahabr&utm_medium=rss)
 - [Билл Гейтс отмечает 50-летие Microsoft, выпустив исходный код Altair BASIC](https://habr.com/ru/news/896990/?utm_campaign=896990&utm_source=habrahabr&utm_medium=rss)
-- [Число ботов-скрейперов на базе ИИ резко возросло](https://habr.com/ru/news/896948/?utm_campaign=896948&utm_source=habrahabr&utm_medium=rss)
-- [ИИ впервые официально прошел строгий тест Тьюринга](https://habr.com/ru/news/896938/?utm_campaign=896938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
