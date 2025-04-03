@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опенсорс-проекты AutoMapper и MediatR станут коммерческими](https://habr.com/ru/news/897194/?utm_campaign=897194&utm_source=habrahabr&utm_medium=rss)
+- [Т1, «Аквариус» и «Группа Астра» представили новые ПАКи для корпоративных коммуникаций](https://habr.com/ru/news/897190/?utm_campaign=897190&utm_source=habrahabr&utm_medium=rss)
+- [История приготовления Docker «для самых маленьких»](https://habr.com/ru/companies/chislitellab/news/897184/?utm_campaign=897184&utm_source=habrahabr&utm_medium=rss)
 - [Старые версии приложения «Сбербанк Онлайн» перестанут работать на Android](https://habr.com/ru/news/897166/?utm_campaign=897166&utm_source=habrahabr&utm_medium=rss)
 - [10 фактов об истории Windows с версии 1.0 по 11, которые вы, вероятно, не знали](https://habr.com/ru/news/897162/?utm_campaign=897162&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» создал инструмент под названием «Кибериндекс» для оценки безопасности данных своих дочерних компаний](https://habr.com/ru/news/897140/?utm_campaign=897140&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи предлагают OpenAI обучить модели AI на книгах издательства O&#39;Reilly](https://habr.com/ru/companies/bothub/news/897128/?utm_campaign=897128&utm_source=habrahabr&utm_medium=rss)
-- [Родители смогут блокировать друзей ребёнка в Roblox и контролировать время игр](https://habr.com/ru/news/896960/?utm_campaign=896960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
