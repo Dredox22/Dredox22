@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия инструмента мониторинга HWiNFO 8.24](https://habr.com/ru/news/897006/?utm_campaign=897006&utm_source=habrahabr&utm_medium=rss)
+- [Вышел True Burner 10.4](https://habr.com/ru/news/897004/?utm_campaign=897004&utm_source=habrahabr&utm_medium=rss)
 - [Билл Гейтс отмечает 50-летие Microsoft, выпустив исходный код Altair BASIC](https://habr.com/ru/news/896990/?utm_campaign=896990&utm_source=habrahabr&utm_medium=rss)
 - [Число ботов-скрейперов на базе ИИ резко возросло](https://habr.com/ru/news/896948/?utm_campaign=896948&utm_source=habrahabr&utm_medium=rss)
 - [ИИ впервые официально прошел строгий тест Тьюринга](https://habr.com/ru/news/896938/?utm_campaign=896938&utm_source=habrahabr&utm_medium=rss)
-- [Облачный дайджест: создать ИИ-агента, запустить ИИ в помощь тестировщику и посчитать выгоду от миграции](https://habr.com/ru/companies/mws/news/896934/?utm_campaign=896934&utm_source=habrahabr&utm_medium=rss)
-- [РКН рекомендовал владельцам российских интернет-ресурсов отказаться от использования расширения CDN Cloudflare TLS ECH](https://habr.com/ru/news/896920/?utm_campaign=896920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
