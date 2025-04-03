@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung представила планшеты Galaxy Tab S10 FE и Tab S10 FE+](https://habr.com/ru/news/897078/?utm_campaign=897078&utm_source=habrahabr&utm_medium=rss)
+- [Программист vs Учительница информатики — новый выпуск ютуб-шоу «Согласен / Не согласен»](https://habr.com/ru/companies/skbkontur/news/896834/?utm_campaign=896834&utm_source=habrahabr&utm_medium=rss)
+- [Zelle закрывает своё приложение](https://habr.com/ru/news/897060/?utm_campaign=897060&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре опровергли информацию о сборе данных для слежки за пользователями](https://habr.com/ru/news/897058/?utm_campaign=897058&utm_source=habrahabr&utm_medium=rss)
 - [Технический директор Microsoft: через пять лет 95% кода будет генерировать ИИ](https://habr.com/ru/news/897054/?utm_campaign=897054&utm_source=habrahabr&utm_medium=rss)
-- [Нейроэксперт — уже в бете. Тестируем новый сервис Яндекса, который сам найдёт нужную информацию в файлах и ссылках](https://habr.com/ru/companies/yandex/news/896996/?utm_campaign=896996&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Qt 6.9](https://habr.com/ru/news/897036/?utm_campaign=897036&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум запустил курс «Мидл разработчик С++»](https://habr.com/ru/companies/yandex_praktikum/news/878090/?utm_campaign=878090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
