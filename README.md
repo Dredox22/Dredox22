@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые уязвимости в Ingress-nginx для Kubernetes позволяют хакерам удаленно выполнять произвольный код](https://habr.com/ru/companies/swordfish_security/news/897094/?utm_campaign=897094&utm_source=habrahabr&utm_medium=rss)
+- [Решение для распознавания жестов на базе датчиков VL53L7CX и VL53L8CX от STMicroelectronics](https://habr.com/ru/news/897092/?utm_campaign=897092&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты F6 установили связь между атакой на российские предприятия от имени «ВОЕНМЕХа» и кибершпионами FakeTicketer](https://habr.com/ru/companies/F6/news/897066/?utm_campaign=897066&utm_source=habrahabr&utm_medium=rss)
 - [Samsung представила планшеты Galaxy Tab S10 FE и Tab S10 FE+](https://habr.com/ru/news/897078/?utm_campaign=897078&utm_source=habrahabr&utm_medium=rss)
 - [Программист vs Учительница информатики — новый выпуск ютуб-шоу «Согласен / Не согласен»](https://habr.com/ru/companies/skbkontur/news/896834/?utm_campaign=896834&utm_source=habrahabr&utm_medium=rss)
-- [Zelle закрывает своё приложение](https://habr.com/ru/news/897060/?utm_campaign=897060&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре опровергли информацию о сборе данных для слежки за пользователями](https://habr.com/ru/news/897058/?utm_campaign=897058&utm_source=habrahabr&utm_medium=rss)
-- [Технический директор Microsoft: через пять лет 95% кода будет генерировать ИИ](https://habr.com/ru/news/897054/?utm_campaign=897054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
