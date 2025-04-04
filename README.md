@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Операторов связи обяжут оповещать банки о подозрительных звонках и СМС](https://habr.com/ru/news/897614/?utm_campaign=897614&utm_source=habrahabr&utm_medium=rss)
 - [Устройства слежения T-Mobile короткое время показывали родителям данные чужих детей](https://habr.com/ru/news/897600/?utm_campaign=897600&utm_source=habrahabr&utm_medium=rss)
 - [Mojang запустила тестирование бесплатного графического обновления под названием Vibrant Visuals для Minecraft](https://habr.com/ru/news/897592/?utm_campaign=897592&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор отразил 1 152 DDoS‑атаки на инфраструктуру в марте 2025 года](https://habr.com/ru/news/897584/?utm_campaign=897584&utm_source=habrahabr&utm_medium=rss)
 - [Вышел проект открытого инструментария openHalo для миграции с MySQL на PostgreSQL](https://habr.com/ru/news/897536/?utm_campaign=897536&utm_source=habrahabr&utm_medium=rss)
-- [«МТС Юрент» запустил центр восстановления самокатов в Ярославле](https://habr.com/ru/news/897558/?utm_campaign=897558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
