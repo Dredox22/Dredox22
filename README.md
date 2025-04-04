@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты по кибербезопасности сообщают о появлении почти 600 поддельных доменов после взлома криптобиржи Bybit](https://habr.com/ru/news/897652/?utm_campaign=897652&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.2.1](https://habr.com/ru/news/897650/?utm_campaign=897650&utm_source=habrahabr&utm_medium=rss)
 - [Операторов связи обяжут оповещать банки о подозрительных звонках и СМС](https://habr.com/ru/news/897614/?utm_campaign=897614&utm_source=habrahabr&utm_medium=rss)
 - [Устройства слежения T-Mobile короткое время показывали родителям данные чужих детей](https://habr.com/ru/news/897600/?utm_campaign=897600&utm_source=habrahabr&utm_medium=rss)
 - [Mojang запустила тестирование бесплатного графического обновления под названием Vibrant Visuals для Minecraft](https://habr.com/ru/news/897592/?utm_campaign=897592&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор отразил 1 152 DDoS‑атаки на инфраструктуру в марте 2025 года](https://habr.com/ru/news/897584/?utm_campaign=897584&utm_source=habrahabr&utm_medium=rss)
-- [Вышел проект открытого инструментария openHalo для миграции с MySQL на PostgreSQL](https://habr.com/ru/news/897536/?utm_campaign=897536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
