@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RuStore внедрил новый инструмент от F6 для борьбы с цифровыми угрозами](https://habr.com/ru/companies/F6/news/897530/?utm_campaign=897530&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries и Russ запустили платёжный сервис WB Pay](https://habr.com/ru/news/897522/?utm_campaign=897522&utm_source=habrahabr&utm_medium=rss)
+- [RuStore внедрил новый инструмент от компании F6 для борьбы с цифровыми угрозами](https://habr.com/ru/news/897514/?utm_campaign=897514&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт особого назначения: как работают компьютерные криминалисты](https://habr.com/ru/companies/F6/news/897490/?utm_campaign=897490&utm_source=habrahabr&utm_medium=rss)
 - [Программа DUMP 2025: суровый хардкор во фронтенде](https://habr.com/ru/companies/speach/news/897482/?utm_campaign=897482&utm_source=habrahabr&utm_medium=rss)
-- [Intel завершит поддержку бесплатного приложения Unison для Windows 11, которое соединяет ПК со смартфоном](https://habr.com/ru/news/897320/?utm_campaign=897320&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia лидирует в тестах MLPerf по измерению производительности ИИ-чипов](https://habr.com/ru/companies/bothub/news/897444/?utm_campaign=897444&utm_source=habrahabr&utm_medium=rss)
-- [Для скоростной езды на арендных электросамокатах могут ввести биометрию](https://habr.com/ru/news/897412/?utm_campaign=897412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
