@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI сообщает, что всё-таки выпустит o3, но отложит GPT-5](https://habr.com/ru/companies/bothub/news/897664/?utm_campaign=897664&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE зафиксировала 250 попыток атак на 13 организаций при помощи техники эксплуатации WordPress](https://habr.com/ru/news/897662/?utm_campaign=897662&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты по кибербезопасности сообщают о появлении почти 600 поддельных доменов после взлома криптобиржи Bybit](https://habr.com/ru/news/897652/?utm_campaign=897652&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.2.1](https://habr.com/ru/news/897650/?utm_campaign=897650&utm_source=habrahabr&utm_medium=rss)
 - [Операторов связи обяжут оповещать банки о подозрительных звонках и СМС](https://habr.com/ru/news/897614/?utm_campaign=897614&utm_source=habrahabr&utm_medium=rss)
-- [Устройства слежения T-Mobile короткое время показывали родителям данные чужих детей](https://habr.com/ru/news/897600/?utm_campaign=897600&utm_source=habrahabr&utm_medium=rss)
-- [Mojang запустила тестирование бесплатного графического обновления под названием Vibrant Visuals для Minecraft](https://habr.com/ru/news/897592/?utm_campaign=897592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
