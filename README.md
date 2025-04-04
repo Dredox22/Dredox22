@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперт особого назначения: как работают компьютерные криминалисты](https://habr.com/ru/companies/F6/news/897490/?utm_campaign=897490&utm_source=habrahabr&utm_medium=rss)
+- [Программа DUMP 2025: суровый хардкор во фронтенде](https://habr.com/ru/companies/speach/news/897482/?utm_campaign=897482&utm_source=habrahabr&utm_medium=rss)
 - [Intel завершит поддержку бесплатного приложения Unison для Windows 11, которое соединяет ПК со смартфоном](https://habr.com/ru/news/897320/?utm_campaign=897320&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia лидирует в тестах MLPerf по измерению производительности ИИ-чипов](https://habr.com/ru/companies/bothub/news/897444/?utm_campaign=897444&utm_source=habrahabr&utm_medium=rss)
 - [Для скоростной езды на арендных электросамокатах могут ввести биометрию](https://habr.com/ru/news/897412/?utm_campaign=897412&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты «Почты Mail» за первый квартал 2025 года выявили несколько основных мошеннических схем со спамом](https://habr.com/ru/news/897406/?utm_campaign=897406&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила баг с пустыми календарями в Outlook](https://habr.com/ru/news/897404/?utm_campaign=897404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
