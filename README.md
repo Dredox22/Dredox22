@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел проект открытого инструментария openHalo для миграции с MySQL на PostgreSQL](https://habr.com/ru/news/897536/?utm_campaign=897536&utm_source=habrahabr&utm_medium=rss)
+- [«МТС Юрент» запустил центр восстановления самокатов в Ярославле](https://habr.com/ru/news/897558/?utm_campaign=897558&utm_source=habrahabr&utm_medium=rss)
+- [На Windows 11 Enterprise стали доступны обновления без перезагрузки](https://habr.com/ru/news/897322/?utm_campaign=897322&utm_source=habrahabr&utm_medium=rss)
+- [Обнаружен новый троян для Android: крадёт криптовалюту и аккаунты, подменяет номера при звонках](https://habr.com/ru/news/897552/?utm_campaign=897552&utm_source=habrahabr&utm_medium=rss)
 - [RuStore внедрил новый инструмент от F6 для борьбы с цифровыми угрозами](https://habr.com/ru/companies/F6/news/897530/?utm_campaign=897530&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries и Russ запустили платёжный сервис WB Pay](https://habr.com/ru/news/897522/?utm_campaign=897522&utm_source=habrahabr&utm_medium=rss)
-- [RuStore внедрил новый инструмент от компании F6 для борьбы с цифровыми угрозами](https://habr.com/ru/news/897514/?utm_campaign=897514&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт особого назначения: как работают компьютерные криминалисты](https://habr.com/ru/companies/F6/news/897490/?utm_campaign=897490&utm_source=habrahabr&utm_medium=rss)
-- [Программа DUMP 2025: суровый хардкор во фронтенде](https://habr.com/ru/companies/speach/news/897482/?utm_campaign=897482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
