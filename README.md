@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для скоростной езды на арендных электросамокатах могут ввести биометрию](https://habr.com/ru/news/897412/?utm_campaign=897412&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты «Почты Mail» за первый квартал 2025 года выявили несколько основных мошеннических схем со спамом](https://habr.com/ru/news/897406/?utm_campaign=897406&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила баг с пустыми календарями в Outlook](https://habr.com/ru/news/897404/?utm_campaign=897404&utm_source=habrahabr&utm_medium=rss)
 - [Switch 2 будет работать меньше часов, чем оригинальный Switch, несмотря на большую батарею](https://habr.com/ru/news/897392/?utm_campaign=897392&utm_source=habrahabr&utm_medium=rss)
 - [Компания Midjourney представляет V7 — свою новую модель изображений на основе ИИ](https://habr.com/ru/companies/bothub/news/897390/?utm_campaign=897390&utm_source=habrahabr&utm_medium=rss)
-- [На «Госуслугах» ограничат доступ к финансовой информации пользователя при подозрении на мошенничество](https://habr.com/ru/news/897382/?utm_campaign=897382&utm_source=habrahabr&utm_medium=rss)
-- [Royal Mail расследует утечку 144 ГБ данных, предположительно украденных из систем компании](https://habr.com/ru/news/897370/?utm_campaign=897370&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.86.0](https://habr.com/ru/news/897356/?utm_campaign=897356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
