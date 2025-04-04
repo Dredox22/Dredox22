@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Устройства слежения T-Mobile короткое время показывали родителям данные чужих детей](https://habr.com/ru/news/897600/?utm_campaign=897600&utm_source=habrahabr&utm_medium=rss)
+- [Mojang запустила тестирование бесплатного графического обновления под названием Vibrant Visuals для Minecraft](https://habr.com/ru/news/897592/?utm_campaign=897592&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор отразил 1 152 DDoS‑атаки на инфраструктуру в марте 2025 года](https://habr.com/ru/news/897584/?utm_campaign=897584&utm_source=habrahabr&utm_medium=rss)
 - [Вышел проект открытого инструментария openHalo для миграции с MySQL на PostgreSQL](https://habr.com/ru/news/897536/?utm_campaign=897536&utm_source=habrahabr&utm_medium=rss)
 - [«МТС Юрент» запустил центр восстановления самокатов в Ярославле](https://habr.com/ru/news/897558/?utm_campaign=897558&utm_source=habrahabr&utm_medium=rss)
-- [На Windows 11 Enterprise стали доступны обновления без перезагрузки](https://habr.com/ru/news/897322/?utm_campaign=897322&utm_source=habrahabr&utm_medium=rss)
-- [Обнаружен новый троян для Android: крадёт криптовалюту и аккаунты, подменяет номера при звонках](https://habr.com/ru/news/897552/?utm_campaign=897552&utm_source=habrahabr&utm_medium=rss)
-- [RuStore внедрил новый инструмент от F6 для борьбы с цифровыми угрозами](https://habr.com/ru/companies/F6/news/897530/?utm_campaign=897530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
