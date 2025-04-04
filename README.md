@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Switch 2 будет работать меньше часов, чем оригинальный Switch, несмотря на большую батарею](https://habr.com/ru/news/897392/?utm_campaign=897392&utm_source=habrahabr&utm_medium=rss)
+- [Компания Midjourney представляет V7 — свою новую модель изображений на основе ИИ](https://habr.com/ru/companies/bothub/news/897390/?utm_campaign=897390&utm_source=habrahabr&utm_medium=rss)
+- [На «Госуслугах» ограничат доступ к финансовой информации пользователя при подозрении на мошенничество](https://habr.com/ru/news/897382/?utm_campaign=897382&utm_source=habrahabr&utm_medium=rss)
 - [Royal Mail расследует утечку 144 ГБ данных, предположительно украденных из систем компании](https://habr.com/ru/news/897370/?utm_campaign=897370&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.86.0](https://habr.com/ru/news/897356/?utm_campaign=897356&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили проект открытого трекбола Ploopy Classic 2](https://habr.com/ru/news/897330/?utm_campaign=897330&utm_source=habrahabr&utm_medium=rss)
-- [Open-Sora 2.0: Видеогенерация коммерческого уровня за $200k — миф или реальность?](https://habr.com/ru/news/897286/?utm_campaign=897286&utm_source=habrahabr&utm_medium=rss)
-- [В эмуляторе Delta появился мультиплеер](https://habr.com/ru/news/897262/?utm_campaign=897262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
