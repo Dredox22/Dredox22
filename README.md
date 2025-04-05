@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 10.0](https://habr.com/ru/news/897738/?utm_campaign=897738&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Tails 6.14](https://habr.com/ru/news/897736/?utm_campaign=897736&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo отложила предзаказы Switch 2 в США из-за новых пошлин правительства страны](https://habr.com/ru/news/897730/?utm_campaign=897730&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Copilot: генерация подкастов, поиск низких цен и глубокий нейропоиск](https://habr.com/ru/news/897720/?utm_campaign=897720&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила GitHub Copilot: поддержка MCP, режим ИИ-агента в VS Code и тариф Pro+](https://habr.com/ru/news/897718/?utm_campaign=897718&utm_source=habrahabr&utm_medium=rss)
-- [ESP32-P4-Module-DEV-KIT](https://habr.com/ru/news/897690/?utm_campaign=897690&utm_source=habrahabr&utm_medium=rss)
-- [Итоги партнёрства с Jpoint](https://habr.com/ru/companies/rshb/news/897666/?utm_campaign=897666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
