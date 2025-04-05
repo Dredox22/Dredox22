@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Foundation запустила опрос среди разработчиков о будущем проекта](https://habr.com/ru/news/897792/?utm_campaign=897792&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.5](https://habr.com/ru/news/897774/?utm_campaign=897774&utm_source=habrahabr&utm_medium=rss)
 - [Мнение: вайб-программирование как эволюция в фотографии](https://habr.com/ru/news/897772/?utm_campaign=897772&utm_source=habrahabr&utm_medium=rss)
 - [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 10.0](https://habr.com/ru/news/897738/?utm_campaign=897738&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tails 6.14](https://habr.com/ru/news/897736/?utm_campaign=897736&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo отложила предзаказы Switch 2 в США из-за новых пошлин правительства страны](https://habr.com/ru/news/897730/?utm_campaign=897730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
