@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo отложила предзаказы Switch 2 в США из-за новых пошлин правительства страны](https://habr.com/ru/news/897730/?utm_campaign=897730&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Copilot: генерация подкастов, поиск низких цен и глубокий нейропоиск](https://habr.com/ru/news/897720/?utm_campaign=897720&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила GitHub Copilot: поддержка MCP, режим ИИ-агента в VS Code и тариф Pro+](https://habr.com/ru/news/897718/?utm_campaign=897718&utm_source=habrahabr&utm_medium=rss)
 - [ESP32-P4-Module-DEV-KIT](https://habr.com/ru/news/897690/?utm_campaign=897690&utm_source=habrahabr&utm_medium=rss)
 - [Итоги партнёрства с Jpoint](https://habr.com/ru/companies/rshb/news/897666/?utm_campaign=897666&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сообщает, что всё-таки выпустит o3, но отложит GPT-5](https://habr.com/ru/companies/bothub/news/897664/?utm_campaign=897664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
