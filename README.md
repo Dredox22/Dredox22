@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бывший исследователь OpenAI предсказал, что к 2030 году ИИ может захватить мир](https://habr.com/ru/news/897880/?utm_campaign=897880&utm_source=habrahabr&utm_medium=rss)
 - [MassTransit v9 стал платным. Что теперь делать? Паниковать? Переезжать? Платить? Разбираемся](https://habr.com/ru/news/897844/?utm_campaign=897844&utm_source=habrahabr&utm_medium=rss)
 - [Подборка 20 случаев, когда компьютерные системы публично показали BSOD или другие ошибки ОС](https://habr.com/ru/news/897826/?utm_campaign=897826&utm_source=habrahabr&utm_medium=rss)
 - [Россияне проверили зарегистрированные на них сим-карты и жалуются на «левые» номера](https://habr.com/ru/news/897716/?utm_campaign=897716&utm_source=habrahabr&utm_medium=rss)
 - [Amazon хочет купить TikTok в США, а Apple задумалась о выпуске стеклянного iPhone: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/897610/?utm_campaign=897610&utm_source=habrahabr&utm_medium=rss)
-- [Rust Foundation запустила опрос среди разработчиков о будущем проекта](https://habr.com/ru/news/897792/?utm_campaign=897792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
