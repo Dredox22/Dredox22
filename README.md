@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo раскрывала сведения о размере некоторых игр для Switch 2](https://habr.com/ru/news/897984/?utm_campaign=897984&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: старый ПК с Windows 10 нужно утилизировать или продать, если его невозможно обновить до Windows 11](https://habr.com/ru/news/897916/?utm_campaign=897916&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Landrun — это облегчённая песочница Linux с Landlock, не требующая root](https://habr.com/ru/news/897914/?utm_campaign=897914&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пакетный менеджер APT 3.0.0](https://habr.com/ru/news/897868/?utm_campaign=897868&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила демо ИИ-версии Quake II на базе нейросети Muse](https://habr.com/ru/news/897906/?utm_campaign=897906&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили Pokemon Gym — среду для обучения нейроагентов играть в Pokémon Red](https://habr.com/ru/news/897902/?utm_campaign=897902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
