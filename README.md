@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: старый ПК с Windows 10 нужно утилизировать или отдать нуждающимся, если его невозможно обновить до Windows 11](https://habr.com/ru/news/897916/?utm_campaign=897916&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Landrun — это облегчённая песочница Linux с Landlock, не требующая root](https://habr.com/ru/news/897914/?utm_campaign=897914&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пакетный менеджер APT 3.0.0](https://habr.com/ru/news/897868/?utm_campaign=897868&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила демо ИИ-версии Quake II на базе нейросети Muse](https://habr.com/ru/news/897906/?utm_campaign=897906&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили Pokemon Gym — среду для обучения нейроагентов играть в Pokémon Red](https://habr.com/ru/news/897902/?utm_campaign=897902&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Llama 4 с контекстным окном в 10M токенов &lpar;в 50 раз больше конкурентов&rpar;](https://habr.com/ru/news/897898/?utm_campaign=897898&utm_source=habrahabr&utm_medium=rss)
-- [Бывший исследователь OpenAI предсказал, что к 2030 году ИИ может захватить мир](https://habr.com/ru/news/897880/?utm_campaign=897880&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
