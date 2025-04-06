@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила демо ИИ-версии Quake II на базе нейросети Muse](https://habr.com/ru/news/897906/?utm_campaign=897906&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики выпустили Pokemon Gym — среду для обучения нейроагентов играть в Pokémon Red](https://habr.com/ru/news/897902/?utm_campaign=897902&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Llama 4 с контекстным окном в 10M токенов &lpar;в 50 раз больше конкурентов&rpar;](https://habr.com/ru/news/897898/?utm_campaign=897898&utm_source=habrahabr&utm_medium=rss)
 - [Бывший исследователь OpenAI предсказал, что к 2030 году ИИ может захватить мир](https://habr.com/ru/news/897880/?utm_campaign=897880&utm_source=habrahabr&utm_medium=rss)
 - [MassTransit v9 стал платным. Что теперь делать? Паниковать? Переезжать? Платить? Разбираемся](https://habr.com/ru/news/897844/?utm_campaign=897844&utm_source=habrahabr&utm_medium=rss)
-- [Подборка 20 случаев, когда компьютерные системы публично показали BSOD или другие ошибки ОС](https://habr.com/ru/news/897826/?utm_campaign=897826&utm_source=habrahabr&utm_medium=rss)
-- [Россияне проверили зарегистрированные на них сим-карты и жалуются на «левые» номера](https://habr.com/ru/news/897716/?utm_campaign=897716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
