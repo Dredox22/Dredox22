@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Microsoft Edge 135](https://habr.com/ru/news/898244/?utm_campaign=898244&utm_source=habrahabr&utm_medium=rss)
+- [Firebird Conf 2025: до 13 апреля открыт прием заявок на выступление](https://habr.com/ru/companies/redsoft/news/898242/?utm_campaign=898242&utm_source=habrahabr&utm_medium=rss)
+- [РКН предупредил о возможном ограничении работы зарубежных хостинг-провайдеров](https://habr.com/ru/news/898234/?utm_campaign=898234&utm_source=habrahabr&utm_medium=rss)
 - [Смартфоны на Android поздно обновляют систему Play](https://habr.com/ru/news/898206/?utm_campaign=898206&utm_source=habrahabr&utm_medium=rss)
 - [В Приволжском исследовательском медицинском университете &lpar;ПИМУ&rpar; GigaChat сдал экзамены по педиатрии и неврологии](https://habr.com/ru/news/898202/?utm_campaign=898202&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект реверс-инжиниринга IBM PalmTop PC110](https://habr.com/ru/news/898196/?utm_campaign=898196&utm_source=habrahabr&utm_medium=rss)
-- [Политех и «Нанософт» научат педагогов цифровому черчению](https://habr.com/ru/companies/nanosoft/news/898192/?utm_campaign=898192&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia опубликовала полный код движка PhysX 5.6.0 и открыла исходный код Flow GPU 2.2.0](https://habr.com/ru/news/898164/?utm_campaign=898164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
