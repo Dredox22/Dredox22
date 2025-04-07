@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm показала новый чипSnapdragon 8s Gen 4](https://habr.com/ru/news/898492/?utm_campaign=898492&utm_source=habrahabr&utm_medium=rss)
 - [CEO Shopify сообщил сотрудникам компании, что теперь от каждого ожидает навыков владения нейросетями](https://habr.com/ru/news/898478/?utm_campaign=898478&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo подтвердила, что верхний порт USB-C Switch 2 не поддерживает вывод видео](https://habr.com/ru/news/898464/?utm_campaign=898464&utm_source=habrahabr&utm_medium=rss)
 - [Apple успела доставить несколько самолётов с iPhone и гаджетами из Индии и Китая до повышения пошлин в США](https://habr.com/ru/news/898444/?utm_campaign=898444&utm_source=habrahabr&utm_medium=rss)
 - [Игровой движок Godot 4 портирован на ОС «Аврора 5»](https://habr.com/ru/news/898442/?utm_campaign=898442&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из Оксфорда предложили принципиально новый способ обучения нейросетей](https://habr.com/ru/news/898440/?utm_campaign=898440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
