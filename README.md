@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ обучился на психолога и помогает людям](https://habr.com/ru/news/898532/?utm_campaign=898532&utm_source=habrahabr&utm_medium=rss)
+- [Большая языковая модель «Авито» обогнала OpenAI и Google бенчмарке MERA](https://habr.com/ru/news/898526/?utm_campaign=898526&utm_source=habrahabr&utm_medium=rss)
 - [С декабря 2024 года по февраль 2025 года число веб‑уязвимостей выросло в два раза](https://habr.com/ru/news/898512/?utm_campaign=898512&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст решил вручную набрать исходный текст интерпретатора Altair BASIC с открытой копии распечатки кода Билла Гейтса](https://habr.com/ru/news/898504/?utm_campaign=898504&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm показала новый чипSnapdragon 8s Gen 4](https://habr.com/ru/news/898492/?utm_campaign=898492&utm_source=habrahabr&utm_medium=rss)
-- [CEO Shopify сообщил сотрудникам компании, что теперь от каждого ожидает навыков владения нейросетями](https://habr.com/ru/news/898478/?utm_campaign=898478&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo подтвердила, что верхний порт USB-C Switch 2 не поддерживает вывод видео](https://habr.com/ru/news/898464/?utm_campaign=898464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
