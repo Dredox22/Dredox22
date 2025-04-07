@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Последняя версия клиента Steam обеспечивает более быструю загрузку обновлений на Linux](https://habr.com/ru/news/898252/?utm_campaign=898252&utm_source=habrahabr&utm_medium=rss)
+- [Роль модели DeepSeek в изменении подходов к разработке ИИ](https://habr.com/ru/companies/bothub/news/898262/?utm_campaign=898262&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: как соответствовать 152-ФЗ](https://habr.com/ru/companies/selectel/news/898240/?utm_campaign=898240&utm_source=habrahabr&utm_medium=rss)
+- [Китай запускает альтернативу HDMI и DisplayPort — GPMI с пропускной способностью до 192 Гбит/с](https://habr.com/ru/news/898246/?utm_campaign=898246&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 135](https://habr.com/ru/news/898244/?utm_campaign=898244&utm_source=habrahabr&utm_medium=rss)
-- [Firebird Conf 2025: до 13 апреля открыт прием заявок на выступление](https://habr.com/ru/companies/redsoft/news/898242/?utm_campaign=898242&utm_source=habrahabr&utm_medium=rss)
-- [РКН предупредил о возможном ограничении работы зарубежных хостинг-провайдеров](https://habr.com/ru/news/898234/?utm_campaign=898234&utm_source=habrahabr&utm_medium=rss)
-- [Смартфоны на Android поздно обновляют систему Play](https://habr.com/ru/news/898206/?utm_campaign=898206&utm_source=habrahabr&utm_medium=rss)
-- [В Приволжском исследовательском медицинском университете &lpar;ПИМУ&rpar; GigaChat сдал экзамены по педиатрии и неврологии](https://habr.com/ru/news/898202/?utm_campaign=898202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
