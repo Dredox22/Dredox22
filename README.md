@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK и МФТИ объявили о запуске в сентябре 2025 года магистратуры «Искусственный интеллект и социальные медиа»](https://habr.com/ru/news/898302/?utm_campaign=898302&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар «Подготовка к сертификации РБПО»](https://habr.com/ru/companies/swordfish_security/news/898298/?utm_campaign=898298&utm_source=habrahabr&utm_medium=rss)
+- [Fine Day 2025 в GlowByte: Как избежать скрытых расходов при внедрении BI?](https://habr.com/ru/companies/glowbyte/news/898296/?utm_campaign=898296&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст запустил Command &amp;amp; Conquer Red Alert на Pimoroni Pico Plus 2 на базе Raspberry Pico 2](https://habr.com/ru/news/898184/?utm_campaign=898184&utm_source=habrahabr&utm_medium=rss)
 - [Последняя версия клиента Steam обеспечивает более быструю загрузку обновлений на Linux](https://habr.com/ru/news/898252/?utm_campaign=898252&utm_source=habrahabr&utm_medium=rss)
-- [Роль модели DeepSeek в изменении подходов к разработке ИИ](https://habr.com/ru/companies/bothub/news/898262/?utm_campaign=898262&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: как соответствовать 152-ФЗ](https://habr.com/ru/companies/selectel/news/898240/?utm_campaign=898240&utm_source=habrahabr&utm_medium=rss)
-- [Китай запускает альтернативу HDMI и DisplayPort — GPMI с пропускной способностью до 192 Гбит/с](https://habr.com/ru/news/898246/?utm_campaign=898246&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 135](https://habr.com/ru/news/898244/?utm_campaign=898244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
