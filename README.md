@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple успела доставить несколько самолётов с iPhone и гаджетами из Индии и Китая до повышения пошлин в США](https://habr.com/ru/news/898444/?utm_campaign=898444&utm_source=habrahabr&utm_medium=rss)
+- [Игровой движок Godot 4 портирован на ОС «Аврора 5»](https://habr.com/ru/news/898442/?utm_campaign=898442&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи из Оксфорда предложили принципиально новый способ обучения нейросетей](https://habr.com/ru/news/898440/?utm_campaign=898440&utm_source=habrahabr&utm_medium=rss)
 - [ОМП представила прототип ОС «Аврора» настольных ПК](https://habr.com/ru/news/898414/?utm_campaign=898414&utm_source=habrahabr&utm_medium=rss)
 - [МТС вывел на рынок геосоциальное мобильное приложение «Прогрессоры»](https://habr.com/ru/news/898410/?utm_campaign=898410&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/898408/?utm_campaign=898408&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» заменил решения IBM для управления учётными записями и доступом в информационных системах банка на собственное ПО](https://habr.com/ru/news/898364/?utm_campaign=898364&utm_source=habrahabr&utm_medium=rss)
-- [В системе передачи данных робособаки Unitree Go1 нашли бэкдор для внешнего управления системой](https://habr.com/ru/news/898322/?utm_campaign=898322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
