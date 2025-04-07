@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Смартфоны на Android поздно обновляют систему Play](https://habr.com/ru/news/898206/?utm_campaign=898206&utm_source=habrahabr&utm_medium=rss)
+- [В Приволжском исследовательском медицинском университете &lpar;ПИМУ&rpar; GigaChat сдал экзамены по педиатрии и неврологии](https://habr.com/ru/news/898202/?utm_campaign=898202&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект реверс-инжиниринга IBM PalmTop PC110](https://habr.com/ru/news/898196/?utm_campaign=898196&utm_source=habrahabr&utm_medium=rss)
+- [Политех и «Нанософт» научат педагогов цифровому черчению](https://habr.com/ru/companies/nanosoft/news/898192/?utm_campaign=898192&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia опубликовала полный код движка PhysX 5.6.0 и открыла исходный код Flow GPU 2.2.0](https://habr.com/ru/news/898164/?utm_campaign=898164&utm_source=habrahabr&utm_medium=rss)
-- [В Rutube по блокировке в Турции заявили, что не получали предписаний от регулятора страны по ограничению доступа](https://habr.com/ru/news/898080/?utm_campaign=898080&utm_source=habrahabr&utm_medium=rss)
-- [В WinRAR 7.11 исправлена ошибка обхода предупреждений безопасности Windows Mark of the Web &lpar;MotW&rpar;](https://habr.com/ru/news/898068/?utm_campaign=898068&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила модель шифрования Gmail](https://habr.com/ru/news/898000/?utm_campaign=898000&utm_source=habrahabr&utm_medium=rss)
-- [Netflix Stories отменяется: стриминговая компания сосредоточилась на новой игровой стратегии](https://habr.com/ru/news/897982/?utm_campaign=897982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
