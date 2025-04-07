@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Самое заметное обновление VS Code в 2025 году. Агенты теперь доступны всем, бесплатно и с поддержкой MCP](https://habr.com/ru/companies/bar/news/898538/?utm_campaign=898538&utm_source=habrahabr&utm_medium=rss)
 - [ИИ обучился на психолога и помогает людям](https://habr.com/ru/news/898532/?utm_campaign=898532&utm_source=habrahabr&utm_medium=rss)
-- [Большая языковая модель «Авито» обогнала OpenAI и Google бенчмарке MERA](https://habr.com/ru/news/898526/?utm_campaign=898526&utm_source=habrahabr&utm_medium=rss)
+- [Большая языковая модель «Авито» обогнала OpenAI и Google в бенчмарке MERA](https://habr.com/ru/news/898526/?utm_campaign=898526&utm_source=habrahabr&utm_medium=rss)
 - [С декабря 2024 года по февраль 2025 года число веб‑уязвимостей выросло в два раза](https://habr.com/ru/news/898512/?utm_campaign=898512&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст решил вручную набрать исходный текст интерпретатора Altair BASIC с открытой копии распечатки кода Билла Гейтса](https://habr.com/ru/news/898504/?utm_campaign=898504&utm_source=habrahabr&utm_medium=rss)
-- [Qualcomm показала новый чипSnapdragon 8s Gen 4](https://habr.com/ru/news/898492/?utm_campaign=898492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
