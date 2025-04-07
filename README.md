@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В системе передачи данных робособаки Unitree Go1 нашли бэкдор для внешнего управления системой](https://habr.com/ru/news/898322/?utm_campaign=898322&utm_source=habrahabr&utm_medium=rss)
 - [VK и МФТИ объявили о запуске в сентябре 2025 года магистратуры «Искусственный интеллект и социальные медиа»](https://habr.com/ru/news/898302/?utm_campaign=898302&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Подготовка к сертификации РБПО»](https://habr.com/ru/companies/swordfish_security/news/898298/?utm_campaign=898298&utm_source=habrahabr&utm_medium=rss)
 - [Fine Day 2025 в GlowByte: Как избежать скрытых расходов при внедрении BI?](https://habr.com/ru/companies/glowbyte/news/898296/?utm_campaign=898296&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст запустил Command &amp;amp; Conquer Red Alert на Pimoroni Pico Plus 2 на базе Raspberry Pico 2](https://habr.com/ru/news/898184/?utm_campaign=898184&utm_source=habrahabr&utm_medium=rss)
-- [Последняя версия клиента Steam обеспечивает более быструю загрузку обновлений на Linux](https://habr.com/ru/news/898252/?utm_campaign=898252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
