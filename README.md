@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Git исполнилось 20 лет](https://habr.com/ru/news/898606/?utm_campaign=898606&utm_source=habrahabr&utm_medium=rss)
+- [О нет. Бенчмарки Lllama-4, предположительно — скам на самом высоком уровне](https://habr.com/ru/companies/bar/news/898602/?utm_campaign=898602&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отложила на неопределённый срок ранее анонсированное прекращение поддержки синхронизации драйверов WSUS](https://habr.com/ru/news/898594/?utm_campaign=898594&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил нейромод для Minecraft, который генерирует дома с помощью воксельной диффузии](https://habr.com/ru/news/898580/?utm_campaign=898580&utm_source=habrahabr&utm_medium=rss)
 - [Самое заметное обновление VS Code в 2025 году. Агенты теперь доступны всем, бесплатно и с поддержкой MCP](https://habr.com/ru/companies/bar/news/898538/?utm_campaign=898538&utm_source=habrahabr&utm_medium=rss)
-- [ИИ обучился на психолога и помогает людям](https://habr.com/ru/news/898532/?utm_campaign=898532&utm_source=habrahabr&utm_medium=rss)
-- [Большая языковая модель «Авито» обогнала OpenAI и Google в бенчмарке MERA](https://habr.com/ru/news/898526/?utm_campaign=898526&utm_source=habrahabr&utm_medium=rss)
-- [С декабря 2024 года по февраль 2025 года число веб‑уязвимостей выросло в два раза](https://habr.com/ru/news/898512/?utm_campaign=898512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
