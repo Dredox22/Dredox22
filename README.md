@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вредоносные расширения VSCode заражают ПК с Windows криптомайнерами](https://habr.com/ru/news/898682/?utm_campaign=898682&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила ошибку с файлом MLSL DLL в Outlook и Word, которая мешала пользователям полгода](https://habr.com/ru/news/898672/?utm_campaign=898672&utm_source=habrahabr&utm_medium=rss)
 - [Замена батареи в Google Pixel 9a может быть опасной, считают эксперты](https://habr.com/ru/news/898458/?utm_campaign=898458&utm_source=habrahabr&utm_medium=rss)
 - [Filament или MoonShine? Пора разобраться](https://habr.com/ru/news/898664/?utm_campaign=898664&utm_source=habrahabr&utm_medium=rss)
 - [СМИ призвали власти США принять меры для прекращения «воровства ИИ» такими компаниями, как OpenAI](https://habr.com/ru/news/898658/?utm_campaign=898658&utm_source=habrahabr&utm_medium=rss)
-- [Картриджи для Nintendo Switch 2 обработают раствором, чтобы их не облизывали](https://habr.com/ru/news/898640/?utm_campaign=898640&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила иммерсивный менеджер видеофайлов для Mac и Vision Pro](https://habr.com/ru/news/898630/?utm_campaign=898630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
