@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [H2 Clipper запатентовала роевых роботов для сборки аэрокосмической техники](https://habr.com/ru/news/898620/?utm_campaign=898620&utm_source=habrahabr&utm_medium=rss)
 - [Git исполнилось 20 лет](https://habr.com/ru/news/898606/?utm_campaign=898606&utm_source=habrahabr&utm_medium=rss)
-- [О нет. Бенчмарки Lllama-4, предположительно — скам на самом высоком уровне](https://habr.com/ru/companies/bar/news/898602/?utm_campaign=898602&utm_source=habrahabr&utm_medium=rss)
+- [Бенчмарки Lllama-4, предположительно — скам на самом высоком уровне](https://habr.com/ru/companies/bar/news/898602/?utm_campaign=898602&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отложила на неопределённый срок ранее анонсированное прекращение поддержки синхронизации драйверов WSUS](https://habr.com/ru/news/898594/?utm_campaign=898594&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил нейромод для Minecraft, который генерирует дома с помощью воксельной диффузии](https://habr.com/ru/news/898580/?utm_campaign=898580&utm_source=habrahabr&utm_medium=rss)
-- [Самое заметное обновление VS Code в 2025 году. Агенты теперь доступны всем, бесплатно и с поддержкой MCP](https://habr.com/ru/companies/bar/news/898538/?utm_campaign=898538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
