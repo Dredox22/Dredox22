@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes – это база…](https://habr.com/ru/companies/haulmont/news/898736/?utm_campaign=898736&utm_source=habrahabr&utm_medium=rss)
 - [Fujifilm представила камеру мгновенной печати Instax mini 41 спустя четыре года после выхода mini 40](https://habr.com/ru/news/898724/?utm_campaign=898724&utm_source=habrahabr&utm_medium=rss)
 - [Waymo может использовать данные с внутренних камер для обучения генеративных моделей ИИ и продажи рекламы](https://habr.com/ru/news/898708/?utm_campaign=898708&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносные расширения VSCode заражают ПК с Windows криптомайнерами](https://habr.com/ru/news/898682/?utm_campaign=898682&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила ошибку с файлом MLSL DLL в Outlook и Word, которая мешала пользователям полгода](https://habr.com/ru/news/898672/?utm_campaign=898672&utm_source=habrahabr&utm_medium=rss)
-- [Замена батареи в Google Pixel 9a может быть опасной, считают эксперты](https://habr.com/ru/news/898458/?utm_campaign=898458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
