@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила Babylon.js 8.0](https://habr.com/ru/news/898976/?utm_campaign=898976&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Arxiv Labs представили режим Deep Research для портала arXiv](https://habr.com/ru/news/898966/?utm_campaign=898966&utm_source=habrahabr&utm_medium=rss)
 - [Школа дизайна НИУ ВШЭ проводит фестиваль видеоигр и гик‑культуры Game Future Fest 2025](https://habr.com/ru/news/898908/?utm_campaign=898908&utm_source=habrahabr&utm_medium=rss)
 - [Вайб-кодинг + AI-хакатон = продукт за 12 часов](https://habr.com/ru/companies/redmadrobot/news/898896/?utm_campaign=898896&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер»: международная IT-олимпиада GO.IT для школьников стартовала в России](https://habr.com/ru/news/898894/?utm_campaign=898894&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi выпустила фирменный 45-ваттный блок питания для своих плат](https://habr.com/ru/news/898886/?utm_campaign=898886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
