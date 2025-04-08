@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [H2 Clipper запатентовала роевых роботов для сборки аэрокосмической техники](https://habr.com/ru/news/898620/?utm_campaign=898620&utm_source=habrahabr&utm_medium=rss)
-- [Git исполнилось 20 лет](https://habr.com/ru/news/898606/?utm_campaign=898606&utm_source=habrahabr&utm_medium=rss)
-- [Бенчмарки Lllama-4, предположительно — скам на самом высоком уровне](https://habr.com/ru/companies/bar/news/898602/?utm_campaign=898602&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отложила на неопределённый срок ранее анонсированное прекращение поддержки синхронизации драйверов WSUS](https://habr.com/ru/news/898594/?utm_campaign=898594&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил нейромод для Minecraft, который генерирует дома с помощью воксельной диффузии](https://habr.com/ru/news/898580/?utm_campaign=898580&utm_source=habrahabr&utm_medium=rss)
+- [Замена батареи в Google Pixel 9a может быть опасной, считают эксперты](https://habr.com/ru/news/898458/?utm_campaign=898458&utm_source=habrahabr&utm_medium=rss)
+- [Filament или MoonShine? Пора разобраться](https://habr.com/ru/news/898664/?utm_campaign=898664&utm_source=habrahabr&utm_medium=rss)
+- [СМИ призвали власти США принять меры для прекращения «воровства ИИ» такими компаниями, как OpenAI](https://habr.com/ru/news/898658/?utm_campaign=898658&utm_source=habrahabr&utm_medium=rss)
+- [Картриджи для Nintendo Switch 2 обработают раствором, чтобы их не облизывали](https://habr.com/ru/news/898640/?utm_campaign=898640&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила иммерсивный менеджер видеофайлов для Mac и Vision Pro](https://habr.com/ru/news/898630/?utm_campaign=898630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
