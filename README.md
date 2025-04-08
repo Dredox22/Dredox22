@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла ОС FreeDOS 1.4](https://habr.com/ru/news/898800/?utm_campaign=898800&utm_source=habrahabr&utm_medium=rss)
+- [Llama 4 Maverick и Scout: результаты тестирования моделей Meta*](https://habr.com/ru/companies/bothub/news/898774/?utm_campaign=898774&utm_source=habrahabr&utm_medium=rss)
+- [Про информационную безопасность – в новом формате](https://habr.com/ru/companies/usergate/news/898766/?utm_campaign=898766&utm_source=habrahabr&utm_medium=rss)
 - [Kubernetes – это база…](https://habr.com/ru/companies/haulmont/news/898736/?utm_campaign=898736&utm_source=habrahabr&utm_medium=rss)
 - [Fujifilm представила камеру мгновенной печати Instax mini 41 спустя четыре года после выхода mini 40](https://habr.com/ru/news/898724/?utm_campaign=898724&utm_source=habrahabr&utm_medium=rss)
-- [Waymo может использовать данные с внутренних камер для обучения генеративных моделей ИИ и продажи рекламы](https://habr.com/ru/news/898708/?utm_campaign=898708&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносные расширения VSCode заражают ПК с Windows криптомайнерами](https://habr.com/ru/news/898682/?utm_campaign=898682&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила ошибку с файлом MLSL DLL в Outlook и Word, которая мешала пользователям полгода](https://habr.com/ru/news/898672/?utm_campaign=898672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
