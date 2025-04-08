@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бэкендеры, го к нам на дринкап 23 апреля](https://habr.com/ru/companies/avito/news/898874/?utm_campaign=898874&utm_source=habrahabr&utm_medium=rss)
+- [Росгосстрах персонализирует тарифы по каско с помощью искусственного интеллекта](https://habr.com/ru/companies/rgs_it/news/898852/?utm_campaign=898852&utm_source=habrahabr&utm_medium=rss)
 - [Вышла ОС FreeDOS 1.4](https://habr.com/ru/news/898800/?utm_campaign=898800&utm_source=habrahabr&utm_medium=rss)
 - [Llama 4 Maverick и Scout: результаты тестирования моделей Meta*](https://habr.com/ru/companies/bothub/news/898774/?utm_campaign=898774&utm_source=habrahabr&utm_medium=rss)
 - [Про информационную безопасность – в новом формате](https://habr.com/ru/companies/usergate/news/898766/?utm_campaign=898766&utm_source=habrahabr&utm_medium=rss)
-- [Kubernetes – это база…](https://habr.com/ru/companies/haulmont/news/898736/?utm_campaign=898736&utm_source=habrahabr&utm_medium=rss)
-- [Fujifilm представила камеру мгновенной печати Instax mini 41 спустя четыре года после выхода mini 40](https://habr.com/ru/news/898724/?utm_campaign=898724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
