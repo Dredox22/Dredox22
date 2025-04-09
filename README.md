@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН: бот в Telegram для маркировки каналов помогает блогерам выполнить требования закона РФ](https://habr.com/ru/news/899330/?utm_campaign=899330&utm_source=habrahabr&utm_medium=rss)
+- [В даркнете взломан и перестал работать сайт с утечками данных хагруппировки Everest](https://habr.com/ru/news/899328/?utm_campaign=899328&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты «Солара» и РЭУ им. Г.В. Плеханова будут обучать студентов на курсах по кибербезопасности](https://habr.com/ru/news/899322/?utm_campaign=899322&utm_source=habrahabr&utm_medium=rss)
 - [Yandex B2B Tech запускает сервис безопасности для мониторинга и реагирования на инциденты в облачной среде](https://habr.com/ru/news/899314/?utm_campaign=899314&utm_source=habrahabr&utm_medium=rss)
 - [«Доктор Веб»: вышла обновлённая версия Dr.Web Katana 2.0 для превентивной защиты Windows](https://habr.com/ru/news/899310/?utm_campaign=899310&utm_source=habrahabr&utm_medium=rss)
-- [Google запускает открытый протокол Agent2Agent: теперь ИИ-агенты смогут свободно общаться друг с другом](https://habr.com/ru/news/899294/?utm_campaign=899294&utm_source=habrahabr&utm_medium=rss)
-- [MTS AI представила нового ИИ‑ассистента для разработчиков](https://habr.com/ru/news/899292/?utm_campaign=899292&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo объяснила, почему Switch 2 стоит так дорого](https://habr.com/ru/news/899286/?utm_campaign=899286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
