@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар «Оптимизируем работу со Spark и строим рекомендательные системы»](https://habr.com/ru/companies/vktech/news/899138/?utm_campaign=899138&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» представили обновлённые персональные рекомендации от нейросетей-трансформеров с контекстом о пользователе](https://habr.com/ru/news/899128/?utm_campaign=899128&utm_source=habrahabr&utm_medium=rss)
-- [В Google Sheets появилась функция AI, с помощью которой можно генерировать формулы для таблиц](https://habr.com/ru/news/899124/?utm_campaign=899124&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo отложила предзаказы Switch 2 в Канаде](https://habr.com/ru/news/899098/?utm_campaign=899098&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заблокирует доступ к Teams, если приложение не обновлялось более 90 дней](https://habr.com/ru/news/898946/?utm_campaign=898946&utm_source=habrahabr&utm_medium=rss)
+- [Information: Instagram** может наконец-то выпустить приложение для iPad](https://habr.com/ru/news/899202/?utm_campaign=899202&utm_source=habrahabr&utm_medium=rss)
+- [10 лет опыта, а OSIV включен, cеньоры-фейки и иллюзия work-life balance | Spring АйО Подкаст №13](https://habr.com/ru/companies/spring_aio/news/899182/?utm_campaign=899182&utm_source=habrahabr&utm_medium=rss)
+- [Mistral Small 3.1 и DeepCoder-14B-Preview появились в библиотеке Ollama](https://habr.com/ru/companies/hostkey/news/899174/?utm_campaign=899174&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram появились значки верификации каналов от РКН](https://habr.com/ru/news/899156/?utm_campaign=899156&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Оптимизируем работу со Spark и строим рекомендательные системы»](https://habr.com/ru/companies/vk/news/899138/?utm_campaign=899138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
