@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Отчёт об индексе ИИ: прогресс, инвестиции и внедрение в корпоративном секторе](https://habr.com/ru/companies/bothub/news/898998/?utm_campaign=898998&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram появилась реклама в поисковой строке](https://habr.com/ru/news/898996/?utm_campaign=898996&utm_source=habrahabr&utm_medium=rss)
-- [Micron предупредила клиентов о надбавках на оперативную память и твердотельные накопители из-за пошлин США](https://habr.com/ru/news/898992/?utm_campaign=898992&utm_source=habrahabr&utm_medium=rss)
-- [Уже через неделю в Москве состоится одна из самых необычных выставок по автоматизации WBCE 2025](https://habr.com/ru/companies/wirenboard/news/898652/?utm_campaign=898652&utm_source=habrahabr&utm_medium=rss)
-- [Утечка: в iOS 19 появится возможность записывать видео одновременно с двух камер iPhone](https://habr.com/ru/news/898980/?utm_campaign=898980&utm_source=habrahabr&utm_medium=rss)
+- [РЖД совместно с «Лабораторией Касперского» запустят сервис для блокировки перекупщиков билетов](https://habr.com/ru/news/899026/?utm_campaign=899026&utm_source=habrahabr&utm_medium=rss)
+- [Blender ищет помощи у сторонних разработчиков и пользователей в тестировании своего экспериментального бекэнда Vulkan](https://habr.com/ru/news/899022/?utm_campaign=899022&utm_source=habrahabr&utm_medium=rss)
+- [Гибридные модели ИИ от Deep Cogito: баланс между скоростью и рассуждением](https://habr.com/ru/companies/bothub/news/899016/?utm_campaign=899016&utm_source=habrahabr&utm_medium=rss)
+- [Некоммерческая организация использует ИИ-агентов для сбора денег на благотворительность](https://habr.com/ru/companies/bothub/news/899010/?utm_campaign=899010&utm_source=habrahabr&utm_medium=rss)
+- [Вышла OpenSSL 3.5.0](https://habr.com/ru/news/899006/?utm_campaign=899006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
