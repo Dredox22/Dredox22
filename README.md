@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex B2B Tech запускает сервис безопасности для мониторинга и реагирования на инциденты в облачной среде](https://habr.com/ru/news/899314/?utm_campaign=899314&utm_source=habrahabr&utm_medium=rss)
+- [«Доктор Веб»: вышла обновлённая версия Dr.Web Katana 2.0 для превентивной защиты Windows](https://habr.com/ru/news/899310/?utm_campaign=899310&utm_source=habrahabr&utm_medium=rss)
 - [Google запускает открытый протокол Agent2Agent: теперь ИИ-агенты смогут свободно общаться друг с другом](https://habr.com/ru/news/899294/?utm_campaign=899294&utm_source=habrahabr&utm_medium=rss)
 - [MTS AI представила нового ИИ‑ассистента для разработчиков](https://habr.com/ru/news/899292/?utm_campaign=899292&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo объяснила, почему Switch 2 стоит так дорого](https://habr.com/ru/news/899286/?utm_campaign=899286&utm_source=habrahabr&utm_medium=rss)
-- [Обновления для Postgres Pro Enterprise](https://habr.com/ru/companies/postgrespro/news/898392/?utm_campaign=898392&utm_source=habrahabr&utm_medium=rss)
-- [В Москве упростили поступление в колледжи для девятиклассников](https://habr.com/ru/news/899276/?utm_campaign=899276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
