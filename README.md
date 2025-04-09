@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Москве упростили поступление в колледжи для девятиклассников](https://habr.com/ru/news/899276/?utm_campaign=899276&utm_source=habrahabr&utm_medium=rss)
 - [Хакатон «СоздAI агента»: агенты для продуктивности сотрудников, анализа сообщений, проектирования API и многое другое](https://habr.com/ru/companies/sberbank/news/899236/?utm_campaign=899236&utm_source=habrahabr&utm_medium=rss)
 - [.NET-митап в Нижнем: Андрей Цветцих про outbox, Кирилл Панин про математику, Дмитрий Ершов про миграцию данных](https://habr.com/ru/news/898268/?utm_campaign=898268&utm_source=habrahabr&utm_medium=rss)
 - [Information: Instagram** может наконец-то выпустить приложение для iPad](https://habr.com/ru/news/899202/?utm_campaign=899202&utm_source=habrahabr&utm_medium=rss)
 - [10 лет опыта, а OSIV включен, cеньоры-фейки и иллюзия work-life balance | Spring АйО Подкаст №13](https://habr.com/ru/companies/spring_aio/news/899182/?utm_campaign=899182&utm_source=habrahabr&utm_medium=rss)
-- [Mistral Small 3.1 и DeepCoder-14B-Preview появились в библиотеке Ollama](https://habr.com/ru/companies/hostkey/news/899174/?utm_campaign=899174&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
