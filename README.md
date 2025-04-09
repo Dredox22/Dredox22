@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo отложила предзаказы Switch 2 в Канаде](https://habr.com/ru/news/899098/?utm_campaign=899098&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft заблокирует доступ к Teams, если приложение не обновлялось более 90 дней](https://habr.com/ru/news/898946/?utm_campaign=898946&utm_source=habrahabr&utm_medium=rss)
 - [В RuStore для разработчиков появилась функция A/B тестирования карточек приложений](https://habr.com/ru/news/899086/?utm_campaign=899086&utm_source=habrahabr&utm_medium=rss)
 - [Почему не стоит инвестировать 2 года в платформу инференса LLM](https://habr.com/ru/companies/mws/news/898870/?utm_campaign=898870&utm_source=habrahabr&utm_medium=rss)
 - [Море за рубль: новый сценарий мошенничества для отдыхающих на российских курортах](https://habr.com/ru/companies/F6/news/898424/?utm_campaign=898424&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Game Assist получил улучшенный интерфейс и поддержку новых игр](https://habr.com/ru/news/899034/?utm_campaign=899034&utm_source=habrahabr&utm_medium=rss)
-- [РЖД совместно с «Лабораторией Касперского» запустят сервис для блокировки перекупщиков билетов](https://habr.com/ru/news/899026/?utm_campaign=899026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
