@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запускает открытый протокол Agent2Agent: теперь ИИ-агенты смогут свободно общаться друг с другом](https://habr.com/ru/news/899294/?utm_campaign=899294&utm_source=habrahabr&utm_medium=rss)
+- [MTS AI представила нового ИИ‑ассистента для разработчиков](https://habr.com/ru/news/899292/?utm_campaign=899292&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo объяснила, почему Switch 2 стоит так дорого](https://habr.com/ru/news/899286/?utm_campaign=899286&utm_source=habrahabr&utm_medium=rss)
+- [Обновления для Postgres Pro Enterprise](https://habr.com/ru/companies/postgrespro/news/898392/?utm_campaign=898392&utm_source=habrahabr&utm_medium=rss)
 - [В Москве упростили поступление в колледжи для девятиклассников](https://habr.com/ru/news/899276/?utm_campaign=899276&utm_source=habrahabr&utm_medium=rss)
-- [Хакатон «СоздAI агента»: агенты для продуктивности сотрудников, анализа сообщений, проектирования API и многое другое](https://habr.com/ru/companies/sberbank/news/899236/?utm_campaign=899236&utm_source=habrahabr&utm_medium=rss)
-- [.NET-митап в Нижнем: Андрей Цветцих про outbox, Кирилл Панин про математику, Дмитрий Ершов про миграцию данных](https://habr.com/ru/news/898268/?utm_campaign=898268&utm_source=habrahabr&utm_medium=rss)
-- [Information: Instagram** может наконец-то выпустить приложение для iPad](https://habr.com/ru/news/899202/?utm_campaign=899202&utm_source=habrahabr&utm_medium=rss)
-- [10 лет опыта, а OSIV включен, cеньоры-фейки и иллюзия work-life balance | Spring АйО Подкаст №13](https://habr.com/ru/companies/spring_aio/news/899182/?utm_campaign=899182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
