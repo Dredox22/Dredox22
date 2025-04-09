@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Отчёт об индексе ИИ: прогресс, инвестиции и внедрение в корпоративном секторе](https://habr.com/ru/companies/bothub/news/898998/?utm_campaign=898998&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram появилась реклама в поисковой строке](https://habr.com/ru/news/898996/?utm_campaign=898996&utm_source=habrahabr&utm_medium=rss)
+- [Micron предупредила клиентов о надбавках на оперативную память и твердотельные накопители из-за пошлин США](https://habr.com/ru/news/898992/?utm_campaign=898992&utm_source=habrahabr&utm_medium=rss)
 - [Уже через неделю в Москве состоится одна из самых необычных выставок по автоматизации WBCE 2025](https://habr.com/ru/companies/wirenboard/news/898652/?utm_campaign=898652&utm_source=habrahabr&utm_medium=rss)
 - [Утечка: в iOS 19 появится возможность записывать видео одновременно с двух камер iPhone](https://habr.com/ru/news/898980/?utm_campaign=898980&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила Babylon.js 8.0](https://habr.com/ru/news/898976/?utm_campaign=898976&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Arxiv Labs представили режим Deep Research для портала arXiv](https://habr.com/ru/news/898966/?utm_campaign=898966&utm_source=habrahabr&utm_medium=rss)
-- [Школа дизайна НИУ ВШЭ проводит фестиваль видеоигр и гик‑культуры Game Future Fest 2025](https://habr.com/ru/news/898908/?utm_campaign=898908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
