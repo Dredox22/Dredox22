@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge 135 вылетает с ошибкой ERR_INVALID_URL при первом запуске в Windows](https://habr.com/ru/news/899690/?utm_campaign=899690&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала летнюю презентацию Xbox Games Showcase 2025](https://habr.com/ru/news/899668/?utm_campaign=899668&utm_source=habrahabr&utm_medium=rss)
 - [Cloud.ru запустил облачный сервис Evolution Managed Arenadata DB](https://habr.com/ru/news/899666/?utm_campaign=899666&utm_source=habrahabr&utm_medium=rss)
 - [С 1 по 6 апреля в РФ заблокировали или расторгли договора по 15,8 млн сим-картам, включая опцию блока через «Госуслуги»](https://habr.com/ru/news/899588/?utm_campaign=899588&utm_source=habrahabr&utm_medium=rss)
 - [Ænix, основной разработчик open source-платформы Cozystack, привлек 300 тысяч долларов на стадии seed](https://habr.com/ru/companies/aenix/news/899586/?utm_campaign=899586&utm_source=habrahabr&utm_medium=rss)
-- [«ВКонтакте» в рамках проекта по переходу на новую архитектуру открывает набор более 100 Go‑разработчиков](https://habr.com/ru/news/899568/?utm_campaign=899568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
