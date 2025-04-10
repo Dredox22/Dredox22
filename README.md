@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«VK Видео» совместно с VK ID запустили «Детский профиль»](https://habr.com/ru/news/899536/?utm_campaign=899536&utm_source=habrahabr&utm_medium=rss)
+- [Samsung выпустит домашнего робота-помощника Ballie этим летом](https://habr.com/ru/news/899390/?utm_campaign=899390&utm_source=habrahabr&utm_medium=rss)
+- [Открыли набор в онлайн-магистратуру «Науки о данных и искусственный интеллект» от Яндекса и НИЯУ МИФИ](https://habr.com/ru/companies/yandex_praktikum/news/899132/?utm_campaign=899132&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» выпустил мобильную версию «Яндекс Браузера для организаций» в магазинах приложений](https://habr.com/ru/news/899510/?utm_campaign=899510&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5055523 в Windows 11 создаёт папку «C:\inetpub» даже если в системе нет Internet Information Services &lpar;IIS&rpar;](https://habr.com/ru/news/899454/?utm_campaign=899454&utm_source=habrahabr&utm_medium=rss)
-- [МТС Web Services запустила платформу контейнеризации для разработки и эксплуатации приложений](https://habr.com/ru/companies/mws/news/899502/?utm_campaign=899502&utm_source=habrahabr&utm_medium=rss)
-- [Обновление KB5055518 для Windows 10 удаляет секунды из часов](https://habr.com/ru/news/899480/?utm_campaign=899480&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники начали использовать цифровой рубль в схемах инвестскама](https://habr.com/ru/companies/F6/news/899148/?utm_campaign=899148&utm_source=habrahabr&utm_medium=rss)
-- [Компания по распознаванию дипфейков столкнулась с попыткой обмана при удалённом собеседовании](https://habr.com/ru/news/899466/?utm_campaign=899466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
