@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РЖД проводит тестирование установки приложения «РЖД Пассажирам» на iOS через TestFlight](https://habr.com/ru/news/899722/?utm_campaign=899722&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил клиент ChatGPT для устаревших версий iOS](https://habr.com/ru/news/899716/?utm_campaign=899716&utm_source=habrahabr&utm_medium=rss)
 - [РКН рекомендует владельцам частных виртуальных сетей отказаться при передаче данных от иностранных протоколов шифрования](https://habr.com/ru/news/899712/?utm_campaign=899712&utm_source=habrahabr&utm_medium=rss)
 - [Firebase Studio от Google. Быстрые прототипы Fullstack-приложений в облаке, с AI-агентами, всем и бесплатно](https://habr.com/ru/companies/bar/news/899692/?utm_campaign=899692&utm_source=habrahabr&utm_medium=rss)
 - [Трамп увеличил ввозные пошлины для товаров из Китая до 145%](https://habr.com/ru/news/899702/?utm_campaign=899702&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge 135 вылетает с ошибкой ERR_INVALID_URL при первом запуске в Windows](https://habr.com/ru/news/899690/?utm_campaign=899690&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала летнюю презентацию Xbox Games Showcase 2025](https://habr.com/ru/news/899668/?utm_campaign=899668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
