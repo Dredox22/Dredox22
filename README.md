@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 1 по 6 апреля в РФ заблокировали или расторгли договора по 15,8 млн сим-картам, включая опцию блока через «Госуслуги»](https://habr.com/ru/news/899588/?utm_campaign=899588&utm_source=habrahabr&utm_medium=rss)
+- [Ænix, основной разработчик open source-платформы Cozystack, привлек 300 тысяч долларов на стадии seed](https://habr.com/ru/companies/aenix/news/899586/?utm_campaign=899586&utm_source=habrahabr&utm_medium=rss)
+- [«ВКонтакте» в рамках проекта по переходу на новую архитектуру открывает набор более 100 Go‑разработчиков](https://habr.com/ru/news/899568/?utm_campaign=899568&utm_source=habrahabr&utm_medium=rss)
+- [В 2024 году глобальная выручка «Лаборатории Касперского» достигла $822 млн](https://habr.com/ru/news/899566/?utm_campaign=899566&utm_source=habrahabr&utm_medium=rss)
 - [«Бюро 1440» начало разработку терминалов Wi-Fi для самолётов SSJ-100, МС-21 и Ту-214](https://habr.com/ru/news/899560/?utm_campaign=899560&utm_source=habrahabr&utm_medium=rss)
-- [В Великобритании создают инструмент «предсказания убийств» для выявления будущих подозреваемых](https://habr.com/ru/news/899554/?utm_campaign=899554&utm_source=habrahabr&utm_medium=rss)
-- [Google Maps представят инструменты анализа инфраструктуры и трафика в городах](https://habr.com/ru/news/899548/?utm_campaign=899548&utm_source=habrahabr&utm_medium=rss)
-- [«VK Видео» совместно с VK ID запустили «Детский профиль»](https://habr.com/ru/news/899536/?utm_campaign=899536&utm_source=habrahabr&utm_medium=rss)
-- [Samsung выпустит домашнего робота-помощника Ballie этим летом](https://habr.com/ru/news/899390/?utm_campaign=899390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
