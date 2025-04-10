@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар: «Кластерные решения для больших объемов данных: отечественный опыт»](https://habr.com/ru/companies/ussc/news/899422/?utm_campaign=899422&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.8](https://habr.com/ru/news/899402/?utm_campaign=899402&utm_source=habrahabr&utm_medium=rss)
-- [РКН: бот в Telegram для маркировки каналов помогает блогерам выполнить требования закона РФ](https://habr.com/ru/news/899330/?utm_campaign=899330&utm_source=habrahabr&utm_medium=rss)
-- [В даркнете взломан и перестал работать сайт с утечками данных хакгруппировки Everest](https://habr.com/ru/news/899328/?utm_campaign=899328&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты «Солара» и РЭУ им. Г.В. Плеханова будут обучать студентов на курсах по кибербезопасности](https://habr.com/ru/news/899322/?utm_campaign=899322&utm_source=habrahabr&utm_medium=rss)
+- [Oracle заявила о взломе «устаревших серверов» без нарушения периметра облачных служб](https://habr.com/ru/news/899440/?utm_campaign=899440&utm_source=habrahabr&utm_medium=rss)
+- [Что поменялось в клиентских данных за 20 лет? Смотрите в проекте HFLabs](https://habr.com/ru/companies/hflabs/news/899192/?utm_campaign=899192&utm_source=habrahabr&utm_medium=rss)
+- [Релиз OpenSSH 10.0](https://habr.com/ru/news/899436/?utm_campaign=899436&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» запустила Bug Bounty для YandexGPT и YandexART](https://habr.com/ru/news/899318/?utm_campaign=899318&utm_source=habrahabr&utm_medium=rss)
+- [Motorola планирует выпустить свой первый ноутбук](https://habr.com/ru/news/899430/?utm_campaign=899430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
