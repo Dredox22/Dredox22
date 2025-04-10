@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle заявила о взломе «устаревших серверов» без нарушения периметра облачных служб](https://habr.com/ru/news/899440/?utm_campaign=899440&utm_source=habrahabr&utm_medium=rss)
-- [Что поменялось в клиентских данных за 20 лет? Смотрите в проекте HFLabs](https://habr.com/ru/companies/hflabs/news/899192/?utm_campaign=899192&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenSSH 10.0](https://habr.com/ru/news/899436/?utm_campaign=899436&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустила Bug Bounty для YandexGPT и YandexART](https://habr.com/ru/news/899318/?utm_campaign=899318&utm_source=habrahabr&utm_medium=rss)
-- [Motorola планирует выпустить свой первый ноутбук](https://habr.com/ru/news/899430/?utm_campaign=899430&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники начали использовать цифровой рубль в схемах инвестскама](https://habr.com/ru/companies/F6/news/899148/?utm_campaign=899148&utm_source=habrahabr&utm_medium=rss)
+- [Компания по распознаванию дипфейков столкнулась с попыткой обмана при удалённом собеседовании](https://habr.com/ru/news/899466/?utm_campaign=899466&utm_source=habrahabr&utm_medium=rss)
+- [Stable Diffusion WebUI Forge + FLUX для всех](https://habr.com/ru/news/899468/?utm_campaign=899468&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 тестируют опцию шеринга экраном приложений и файлами с Copilot](https://habr.com/ru/news/899456/?utm_campaign=899456&utm_source=habrahabr&utm_medium=rss)
+- [База оборудования ЗУНИКИ «Нордвиккабель» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/899152/?utm_campaign=899152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
