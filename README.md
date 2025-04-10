@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление KB5055523 в Windows 11 создаёт папку «C:\inetpub» даже если в системе нет Internet Information Services &lpar;IIS&rpar;](https://habr.com/ru/news/899454/?utm_campaign=899454&utm_source=habrahabr&utm_medium=rss)
+- [МТС Web Services запустила платформу контейнеризации для разработки и эксплуатации приложений](https://habr.com/ru/companies/mws/news/899502/?utm_campaign=899502&utm_source=habrahabr&utm_medium=rss)
+- [Обновление KB5055518 для Windows 10 удаляет секунды из часов](https://habr.com/ru/news/899480/?utm_campaign=899480&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники начали использовать цифровой рубль в схемах инвестскама](https://habr.com/ru/companies/F6/news/899148/?utm_campaign=899148&utm_source=habrahabr&utm_medium=rss)
 - [Компания по распознаванию дипфейков столкнулась с попыткой обмана при удалённом собеседовании](https://habr.com/ru/news/899466/?utm_campaign=899466&utm_source=habrahabr&utm_medium=rss)
-- [Stable Diffusion WebUI Forge + FLUX для всех](https://habr.com/ru/news/899468/?utm_campaign=899468&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 тестируют опцию шеринга экраном приложений и файлами с Copilot](https://habr.com/ru/news/899456/?utm_campaign=899456&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования ЗУНИКИ «Нордвиккабель» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/899152/?utm_campaign=899152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
