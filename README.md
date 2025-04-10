@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление платформы «Аврора Центр» 5.2.0](https://habr.com/ru/news/899772/?utm_campaign=899772&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдёт фестиваль видеоигр «GAME/дни»](https://habr.com/ru/news/899740/?utm_campaign=899740&utm_source=habrahabr&utm_medium=rss)
 - [РЖД проводит тестирование установки приложения «РЖД Пассажирам» на iOS через TestFlight](https://habr.com/ru/news/899722/?utm_campaign=899722&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил клиент ChatGPT для устаревших версий iOS](https://habr.com/ru/news/899716/?utm_campaign=899716&utm_source=habrahabr&utm_medium=rss)
 - [РКН рекомендует владельцам частных виртуальных сетей отказаться при передаче данных от иностранных протоколов шифрования](https://habr.com/ru/news/899712/?utm_campaign=899712&utm_source=habrahabr&utm_medium=rss)
-- [Firebase Studio от Google. Быстрые прототипы Fullstack-приложений в облаке, с AI-агентами, всем и бесплатно](https://habr.com/ru/companies/bar/news/899692/?utm_campaign=899692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
