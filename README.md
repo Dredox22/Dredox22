@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновления платформы Cozystack 0.24−0.29: провиженинг нод по PXE, мониторинг RTT между ДЦ и выделенные IP-адреса для VM](https://habr.com/ru/companies/aenix/news/899550/?utm_campaign=899550&utm_source=habrahabr&utm_medium=rss)
 - [Мнение: рекомендация РКН — мера для мониторинга и определения количества пользователей зарубежных протоколов шифрования](https://habr.com/ru/news/899800/?utm_campaign=899800&utm_source=habrahabr&utm_medium=rss)
 - [Обновление для Microsoft Office 2016 сломало Outlook, Word и Excel: выпущено исправление](https://habr.com/ru/news/899680/?utm_campaign=899680&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление платформы «Аврора Центр» 5.2.0](https://habr.com/ru/news/899772/?utm_campaign=899772&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдёт фестиваль видеоигр «GAME/дни»](https://habr.com/ru/news/899740/?utm_campaign=899740&utm_source=habrahabr&utm_medium=rss)
-- [РЖД проводит тестирование установки приложения «РЖД Пассажирам» на iOS через TestFlight](https://habr.com/ru/news/899722/?utm_campaign=899722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
