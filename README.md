@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Магниторецептивная электронная кожа](https://habr.com/ru/news/899820/?utm_campaign=899820&utm_source=habrahabr&utm_medium=rss)
+- [Знакомьтесь, HIGGS — новый метод сжатия LLM от исследователей из Яндекса и ведущих научно-технологических вузов](https://habr.com/ru/companies/yandex/news/899816/?utm_campaign=899816&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Gzip 1.14](https://habr.com/ru/news/899812/?utm_campaign=899812&utm_source=habrahabr&utm_medium=rss)
 - [Обновления платформы Cozystack 0.24−0.29: провиженинг нод по PXE, мониторинг RTT между ДЦ и выделенные IP-адреса для VM](https://habr.com/ru/companies/aenix/news/899550/?utm_campaign=899550&utm_source=habrahabr&utm_medium=rss)
 - [Мнение: рекомендация РКН — мера для мониторинга и определения количества пользователей зарубежных протоколов шифрования](https://habr.com/ru/news/899800/?utm_campaign=899800&utm_source=habrahabr&utm_medium=rss)
-- [Обновление для Microsoft Office 2016 сломало Outlook, Word и Excel: выпущено исправление](https://habr.com/ru/news/899680/?utm_campaign=899680&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление платформы «Аврора Центр» 5.2.0](https://habr.com/ru/news/899772/?utm_campaign=899772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
