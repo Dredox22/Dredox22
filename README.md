@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН: бот в Telegram для маркировки каналов не от регулятора, но он необходим для верификации ведомством их владельцев](https://habr.com/ru/news/900114/?utm_campaign=900114&utm_source=habrahabr&utm_medium=rss)
+- [Представлена открытая онлайн-версия игры Atari Missile Command, созданная с использованием ИИ Gemini 2.5 Pro](https://habr.com/ru/news/900108/?utm_campaign=900108&utm_source=habrahabr&utm_medium=rss)
 - [Google уволила сотни сотрудников из отделов разработки Android, Chrome и Pixel](https://habr.com/ru/news/900098/?utm_campaign=900098&utm_source=habrahabr&utm_medium=rss)
 - [В Петербурге создали сенсор, превосходящий по чувствительности нос человека](https://habr.com/ru/news/900086/?utm_campaign=900086&utm_source=habrahabr&utm_medium=rss)
 - [За прошлый год российские банки заблокировали более 700 тысяч счетов дропперов](https://habr.com/ru/news/900054/?utm_campaign=900054&utm_source=habrahabr&utm_medium=rss)
-- [ОМП представила новый браузер для ОС «Аврора» на базе Chromium](https://habr.com/ru/news/900048/?utm_campaign=900048&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования Crystal 1.16](https://habr.com/ru/news/899958/?utm_campaign=899958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
