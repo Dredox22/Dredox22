@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [За прошлый год российские банки заблокировали более 700 тысяч счетов дропперов](https://habr.com/ru/news/900054/?utm_campaign=900054&utm_source=habrahabr&utm_medium=rss)
+- [ОМП представила новый браузер для ОС «Аврора» на базе Chromium](https://habr.com/ru/news/900048/?utm_campaign=900048&utm_source=habrahabr&utm_medium=rss)
 - [Релиз языка программирования Crystal 1.16](https://habr.com/ru/news/899958/?utm_campaign=899958&utm_source=habrahabr&utm_medium=rss)
 - [В России появится мобильное приложение «Здесь помогают» для поиска сиделок](https://habr.com/ru/news/899786/?utm_campaign=899786&utm_source=habrahabr&utm_medium=rss)
 - [Lego открыла новую фабрику стоимостью $1 млрд во Вьетнаме на солнечных панелях](https://habr.com/ru/news/899872/?utm_campaign=899872&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку Surface Hub и Surface Hub 2S](https://habr.com/ru/news/899864/?utm_campaign=899864&utm_source=habrahabr&utm_medium=rss)
-- [Google Cloud представляет мультиагентные возможности в Vertex AI](https://habr.com/ru/companies/bothub/news/899870/?utm_campaign=899870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
