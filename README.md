@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Генеральный директор DeepMind заявил, что Google объединит свои модели ИИ Gemini и Veo](https://habr.com/ru/companies/bothub/news/899836/?utm_campaign=899836&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала применять лицензионные ограничения на форки VS Code](https://habr.com/ru/companies/spring_aio/news/899656/?utm_campaign=899656&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» запускает спортивно‑интеллектуальный проект «Жим кода»](https://habr.com/ru/news/899752/?utm_campaign=899752&utm_source=habrahabr&utm_medium=rss)
-- [Магниторецептивная электронная кожа](https://habr.com/ru/news/899820/?utm_campaign=899820&utm_source=habrahabr&utm_medium=rss)
-- [Знакомьтесь, HIGGS — новый метод сжатия LLM от исследователей из Яндекса и ведущих научно-технологических вузов](https://habr.com/ru/companies/yandex/news/899816/?utm_campaign=899816&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку Surface Hub и Surface Hub 2S](https://habr.com/ru/news/899864/?utm_campaign=899864&utm_source=habrahabr&utm_medium=rss)
+- [Google Cloud представляет мультиагентные возможности в Vertex AI](https://habr.com/ru/companies/bothub/news/899870/?utm_campaign=899870&utm_source=habrahabr&utm_medium=rss)
+- [В России создали технологию для автоматической инспекции грузовых контейнеров с помощью AR-очков](https://habr.com/ru/companies/smartengines/news/899866/?utm_campaign=899866&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудничество Google и NVIDIA для использования ИИ в условиях строгих требований безопасности](https://habr.com/ru/companies/bothub/news/899856/?utm_campaign=899856&utm_source=habrahabr&utm_medium=rss)
+- [Открыта регистрация на VK Security Confab. Митап для аналитиков, инженеров и разработчиков решений SOC](https://habr.com/ru/companies/vk/news/899842/?utm_campaign=899842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
