@@ -86,7 +86,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [В День космонавтики вышло обновление для демо-версии стратегии «Космос — пространство будущего»](https://habr.com/ru/news/900258/?utm_campaign=900258&utm_source=habrahabr&utm_medium=rss)
-- [Трамп освободил от повышенных китайских пошлин смартфоны, ноутбуки, чипы, планшеты, умные часы, фитнес-браслеты и ТВ](https://habr.com/ru/news/900252/?utm_campaign=900252&utm_source=habrahabr&utm_medium=rss)
+- [Трамп освободил от повышенных пошлин смартфоны, ноутбуки, чипы, планшеты, умные часы, фитнес-браслеты и ТВ из Китая](https://habr.com/ru/news/900252/?utm_campaign=900252&utm_source=habrahabr&utm_medium=rss)
 - [Будущее TP-Link в США зависит от декларируемого разрыва связей с Китаем](https://habr.com/ru/news/900218/?utm_campaign=900218&utm_source=habrahabr&utm_medium=rss)
 - [Apple может увеличить цены на 17–18%, чтобы компенсировать расходы, вызванные новыми таможенными пошлинами в США](https://habr.com/ru/news/900194/?utm_campaign=900194&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: проблема с лицензированием блокирует работу тарифа 365 Family для некоторых пользователей](https://habr.com/ru/news/900184/?utm_campaign=900184&utm_source=habrahabr&utm_medium=rss)
