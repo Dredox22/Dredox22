@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел веб-сервер Angie 1.9.0, созданный бывшей командой Nginx](https://habr.com/ru/news/900168/?utm_campaign=900168&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект «Half‑Life: Deathmatch в браузере»](https://habr.com/ru/news/900164/?utm_campaign=900164&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: патч безопасности в Windows 11 создаёт папку «C:\inetpub» даже если в системе нет IIS и её не нужно удалять](https://habr.com/ru/news/900130/?utm_campaign=900130&utm_source=habrahabr&utm_medium=rss)
 - [РКН: бот в Telegram для маркировки каналов не от регулятора, но он необходим для верификации ведомством их владельцев](https://habr.com/ru/news/900114/?utm_campaign=900114&utm_source=habrahabr&utm_medium=rss)
 - [Представлена открытая онлайн-версия игры Atari Missile Command, созданная с использованием ИИ Gemini 2.5 Pro](https://habr.com/ru/news/900108/?utm_campaign=900108&utm_source=habrahabr&utm_medium=rss)
-- [Google уволила сотни сотрудников из отделов разработки Android, Chrome и Pixel](https://habr.com/ru/news/900098/?utm_campaign=900098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
