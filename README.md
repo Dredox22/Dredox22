@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Трамп освободил от повышенных китайских пошлин смартфоны, ноутбуки, чипы, планшеты, умные часы, фитнес-браслеты и ТВ](https://habr.com/ru/news/900252/?utm_campaign=900252&utm_source=habrahabr&utm_medium=rss)
 - [Будущее TP-Link в США зависит от декларируемого разрыва связей с Китаем](https://habr.com/ru/news/900218/?utm_campaign=900218&utm_source=habrahabr&utm_medium=rss)
 - [Apple может увеличить цены на 17–18%, чтобы компенсировать расходы, вызванные новыми таможенными пошлинами в США](https://habr.com/ru/news/900194/?utm_campaign=900194&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: проблема с лицензированием блокирует работу тарифа 365 Family для некоторых пользователей](https://habr.com/ru/news/900184/?utm_campaign=900184&utm_source=habrahabr&utm_medium=rss)
 - [В Индии заметили повышенный спрос на восстановленные ноутбуки](https://habr.com/ru/news/900180/?utm_campaign=900180&utm_source=habrahabr&utm_medium=rss)
-- [Вышел веб-сервер Angie 1.9.0, созданный бывшей командой Nginx](https://habr.com/ru/news/900168/?utm_campaign=900168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
