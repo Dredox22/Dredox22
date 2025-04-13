@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unitree Robotics показала поединки по тайскому боксу между роботом Unitree и человеком, а также между роботами](https://habr.com/ru/news/900392/?utm_campaign=900392&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft призвала пользователей отказаться от Windows 10 в пользу Windows 11, потому что она лучше по 7 причинам](https://habr.com/ru/news/900400/?utm_campaign=900400&utm_source=habrahabr&utm_medium=rss)
 - [В Chrome 136 устранят 20-летнюю уязвимость «перехвата истории браузера»](https://habr.com/ru/news/900376/?utm_campaign=900376&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft собирается запустить Recall среди участников программы Windows Insider после паузы в развёртывании проекта](https://habr.com/ru/news/900374/?utm_campaign=900374&utm_source=habrahabr&utm_medium=rss)
 - [Новый генератор мемов от Google для Gboard выдаёт несмешные шутки](https://habr.com/ru/news/900366/?utm_campaign=900366&utm_source=habrahabr&utm_medium=rss)
-- [Ericsson и Lenovo урегулировали большой патентный спор, Samsung начнет продавать домашних роботов: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/900056/?utm_campaign=900056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
