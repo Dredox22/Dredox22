@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Линус Торвальдс в интервью инженеру-программисту GitHub Тейлору Блау рассказал о развитии проекта Git за 20 лет](https://habr.com/ru/news/900344/?utm_campaign=900344&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта Pinta 3.0](https://habr.com/ru/news/900342/?utm_campaign=900342&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Edge стал работать до 9% быстрее, заявила Microsoft](https://habr.com/ru/news/900246/?utm_campaign=900246&utm_source=habrahabr&utm_medium=rss)
 - [В День космонавтики вышло обновление для демо-версии стратегии «Космос — пространство будущего»](https://habr.com/ru/news/900258/?utm_campaign=900258&utm_source=habrahabr&utm_medium=rss)
 - [Трамп освободил от повышенных пошлин смартфоны, ноутбуки, чипы, планшеты, умные часы, фитнес-браслеты и ТВ из Китая](https://habr.com/ru/news/900252/?utm_campaign=900252&utm_source=habrahabr&utm_medium=rss)
-- [Будущее TP-Link в США зависит от декларируемого разрыва связей с Китаем](https://habr.com/ru/news/900218/?utm_campaign=900218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
