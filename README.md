@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft призвала пользователей отказаться от Windows 10 в пользу Windows 11, потому что она лучше по 7 причинам](https://habr.com/ru/news/900400/?utm_campaign=900400&utm_source=habrahabr&utm_medium=rss)
 - [В Chrome 136 устранят 20-летнюю уязвимость «перехвата истории браузера»](https://habr.com/ru/news/900376/?utm_campaign=900376&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft собирается запустить Recall среди участников программы Windows Insider после паузы в развёртывании проекта](https://habr.com/ru/news/900374/?utm_campaign=900374&utm_source=habrahabr&utm_medium=rss)
 - [Новый генератор мемов от Google для Gboard выдаёт несмешные шутки](https://habr.com/ru/news/900366/?utm_campaign=900366&utm_source=habrahabr&utm_medium=rss)
 - [Ericsson и Lenovo урегулировали большой патентный спор, Samsung начнет продавать домашних роботов: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/900056/?utm_campaign=900056&utm_source=habrahabr&utm_medium=rss)
-- [Линус Торвальдс в интервью инженеру-программисту GitHub Тейлору Блау рассказал о развитии проекта Git за 20 лет](https://habr.com/ru/news/900344/?utm_campaign=900344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
