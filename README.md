@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT-4.1: Революционный скачок в программировании и обработке длинного контекста](https://habr.com/ru/news/900850/?utm_campaign=900850&utm_source=habrahabr&utm_medium=rss)
 - [Meta* начнет обучать свои модели AI на публичном контенте в ЕС](https://habr.com/ru/companies/bothub/news/900822/?utm_campaign=900822&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: самозапрет через «Госуслуги» на заключение договора об оказании услуг мобильной связи с 1 сентября 2025 года](https://habr.com/ru/news/900814/?utm_campaign=900814&utm_source=habrahabr&utm_medium=rss)
 - [Spring и Quarkus дерутся, SRE командует, атаки изнутри и Microsoft | Spring АйО Подкаст №14](https://habr.com/ru/companies/spring_aio/news/900776/?utm_campaign=900776&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/900748/?utm_campaign=900748&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.4](https://habr.com/ru/news/900726/?utm_campaign=900726&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
