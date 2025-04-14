@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI потребует от организаций пройти идентификацию для доступа к некоторым будущим моделям ИИ](https://habr.com/ru/news/900548/?utm_campaign=900548&utm_source=habrahabr&utm_medium=rss)
-- [18 апреля состоится 109-я встреча SpbDotNet](https://habr.com/ru/companies/skbkontur/news/900534/?utm_campaign=900534&utm_source=habrahabr&utm_medium=rss)
-- [Tesla начала использовать систему автопилота FSD Unsupervised для движения новых электромобилей на заводе Giga Texas](https://habr.com/ru/news/900514/?utm_campaign=900514&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи LinkedIn с помощью ChatGPT превращают себя в кукол](https://habr.com/ru/news/900464/?utm_campaign=900464&utm_source=habrahabr&utm_medium=rss)
-- [«Квант» остановил выпуск единственных в реестре российских телевизоров из-за отсутствия спроса](https://habr.com/ru/news/900486/?utm_campaign=900486&utm_source=habrahabr&utm_medium=rss)
+- [Netflix тестирует новый поиск на базе OpenAI](https://habr.com/ru/companies/bothub/news/900594/?utm_campaign=900594&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI тестирует водяные знаки для модели генерации изображений ChatGPT-4o](https://habr.com/ru/news/900586/?utm_campaign=900586&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD BIM Строительство 24.1: техническое обновление программы для архитекторов и конструкторов](https://habr.com/ru/companies/nanosoft/news/900182/?utm_campaign=900182&utm_source=habrahabr&utm_medium=rss)
+- [Ansys смогла запустить моделирование на суперкомпьютере в 25 раз быстрее с ускорителями AMD Instinct MI250X](https://habr.com/ru/news/900580/?utm_campaign=900580&utm_source=habrahabr&utm_medium=rss)
+- [Apple работает над улучшением Vision Pro](https://habr.com/ru/companies/bothub/news/900574/?utm_campaign=900574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
