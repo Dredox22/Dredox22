@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мартовские апдейты Selectel: месяц бесплатного S3, настройка IOPS и не только](https://habr.com/ru/companies/selectel/news/900650/?utm_campaign=900650&utm_source=habrahabr&utm_medium=rss)
+- [QA-meetup «‎От хаоса к системе — как тестировать всё, везде и сразу»](https://habr.com/ru/companies/ivi/news/900652/?utm_campaign=900652&utm_source=habrahabr&utm_medium=rss)
 - [Kotlin теряет популярность!? – рейтинг TIOBE](https://habr.com/ru/companies/spring_aio/news/900616/?utm_campaign=900616&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5055523 для Windows 11 приводит к сбоям в работе Windows Hello и ошибкам](https://habr.com/ru/news/900602/?utm_campaign=900602&utm_source=habrahabr&utm_medium=rss)
 - [BrowseComp: новый тест для ИИ-агентов по поиску информации в интернете от OpenAI](https://habr.com/ru/news/900614/?utm_campaign=900614&utm_source=habrahabr&utm_medium=rss)
-- [В Perl исправлена уязвимость переполнения буфера при транслитерации специально оформленных не-ASCII символов](https://habr.com/ru/news/900598/?utm_campaign=900598&utm_source=habrahabr&utm_medium=rss)
-- [Администрация США назвала освобождение электроники от пошлин временной мерой](https://habr.com/ru/news/900582/?utm_campaign=900582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
