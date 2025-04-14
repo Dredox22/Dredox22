@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [18 апреля состоится 109-я встреча SpbDotNet](https://habr.com/ru/companies/skbkontur/news/900534/?utm_campaign=900534&utm_source=habrahabr&utm_medium=rss)
 - [Tesla начала использовать систему автопилота FSD Unsupervised для движения новых электромобилей на заводе Giga Texas](https://habr.com/ru/news/900514/?utm_campaign=900514&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи LinkedIn с помощью ChatGPT превращают себя в кукол](https://habr.com/ru/news/900464/?utm_campaign=900464&utm_source=habrahabr&utm_medium=rss)
 - [«Квант» остановил выпуск единственных в реестре российских телевизоров из-за отсутствия спроса](https://habr.com/ru/news/900486/?utm_campaign=900486&utm_source=habrahabr&utm_medium=rss)
 - [Unitree Robotics показала поединки по тайскому боксу между роботом Unitree и человеком, а также между роботами](https://habr.com/ru/news/900392/?utm_campaign=900392&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft призвала пользователей отказаться от Windows 10 в пользу Windows 11, потому что она лучше по 7 причинам](https://habr.com/ru/news/900400/?utm_campaign=900400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
