@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/900748/?utm_campaign=900748&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.4](https://habr.com/ru/news/900726/?utm_campaign=900726&utm_source=habrahabr&utm_medium=rss)
 - [VK Go Meetup — про практики, решения и архитектуру на Go](https://habr.com/ru/companies/vk/news/900680/?utm_campaign=900680&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст подключил гоночный симулятор к радиоуправляемой машине с помощью Arduino](https://habr.com/ru/news/900642/?utm_campaign=900642&utm_source=habrahabr&utm_medium=rss)
 - [Сотовый оператор «Альфа-Мобайл» приступил к подключению первых абонентов](https://habr.com/ru/news/900668/?utm_campaign=900668&utm_source=habrahabr&utm_medium=rss)
-- [Мартовские апдейты Selectel: месяц бесплатного S3, настройка IOPS и не только](https://habr.com/ru/companies/selectel/news/900650/?utm_campaign=900650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
