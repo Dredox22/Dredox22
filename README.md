@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix тестирует новый поиск на базе OpenAI](https://habr.com/ru/companies/bothub/news/900594/?utm_campaign=900594&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI тестирует водяные знаки для модели генерации изображений ChatGPT-4o](https://habr.com/ru/news/900586/?utm_campaign=900586&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD BIM Строительство 24.1: техническое обновление программы для архитекторов и конструкторов](https://habr.com/ru/companies/nanosoft/news/900182/?utm_campaign=900182&utm_source=habrahabr&utm_medium=rss)
-- [Ansys смогла запустить моделирование на суперкомпьютере в 25 раз быстрее с ускорителями AMD Instinct MI250X](https://habr.com/ru/news/900580/?utm_campaign=900580&utm_source=habrahabr&utm_medium=rss)
-- [Apple работает над улучшением Vision Pro](https://habr.com/ru/companies/bothub/news/900574/?utm_campaign=900574&utm_source=habrahabr&utm_medium=rss)
+- [Kotlin теряет популярность!? – рейтинг TIOBE](https://habr.com/ru/companies/spring_aio/news/900616/?utm_campaign=900616&utm_source=habrahabr&utm_medium=rss)
+- [Обновление KB5055523 для Windows 11 приводит к сбоям в работе Windows Hello и ошибкам](https://habr.com/ru/news/900602/?utm_campaign=900602&utm_source=habrahabr&utm_medium=rss)
+- [BrowseComp: новый тест для ИИ-агентов по поиску информации в интернете от OpenAI](https://habr.com/ru/news/900614/?utm_campaign=900614&utm_source=habrahabr&utm_medium=rss)
+- [В Perl исправлена уязвимость переполнения буфера при транслитерации специально оформленных не-ASCII символов](https://habr.com/ru/news/900598/?utm_campaign=900598&utm_source=habrahabr&utm_medium=rss)
+- [Администрация США назвала освобождение электроники от пошлин временной мерой](https://habr.com/ru/news/900582/?utm_campaign=900582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
