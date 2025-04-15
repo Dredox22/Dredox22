@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Премия для этичных хакеров Pentest award 2025 открыла прием заявок](https://habr.com/ru/news/901026/?utm_campaign=901026&utm_source=habrahabr&utm_medium=rss)
+- [Apple переименовала Search Ads в Apple Ads](https://habr.com/ru/news/901022/?utm_campaign=901022&utm_source=habrahabr&utm_medium=rss)
+- [Бастион — лучший enterprise-партнер «Лаборатории Касперского»](https://habr.com/ru/companies/bastion/news/901014/?utm_campaign=901014&utm_source=habrahabr&utm_medium=rss)
+- [Вышел браузер с минималистичным графическим интерфейсом qutebrowser 3.5](https://habr.com/ru/news/901020/?utm_campaign=901020&utm_source=habrahabr&utm_medium=rss)
 - [Необходимость обновления Виртуальной машины «1С-Битрикс» до версии 9.0.6](https://habr.com/ru/news/901012/?utm_campaign=901012&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор США намерен заставить Meta* продать Instagram** и WhatsApp](https://habr.com/ru/news/901002/?utm_campaign=901002&utm_source=habrahabr&utm_medium=rss)
-- [Тестируем бету YandexGPT 5 с режимом рассуждений](https://habr.com/ru/companies/yandex/news/900800/?utm_campaign=900800&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Manjaro Linux 25.0 «Zetar»](https://habr.com/ru/news/900996/?utm_campaign=900996&utm_source=habrahabr&utm_medium=rss)
-- [Конференция для системных администраторов SysAdmin 2025](https://habr.com/ru/companies/ringo_mdm/news/900774/?utm_campaign=900774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
