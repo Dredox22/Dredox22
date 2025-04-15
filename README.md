@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Fedora Linux 42](https://habr.com/ru/news/901140/?utm_campaign=901140&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenWrt 24.10.1](https://habr.com/ru/news/901118/?utm_campaign=901118&utm_source=habrahabr&utm_medium=rss)
 - [Ваш VPN перестал работать? Мы можем помочь](https://habr.com/ru/companies/amnezia/news/901110/?utm_campaign=901110&utm_source=habrahabr&utm_medium=rss)
 - [В Минцифры утвердили правила работы по обезличиванию персональных данных для госсистемы «озера данных»](https://habr.com/ru/news/901090/?utm_campaign=901090&utm_source=habrahabr&utm_medium=rss)
 - [Система глубокого анализа входящего трафика InfoWatch ARMA Industrial Firewall запатентована в ЕАЭС](https://habr.com/ru/companies/infowatch/news/901070/?utm_campaign=901070&utm_source=habrahabr&utm_medium=rss)
-- [«МЦСТ»: массовые партии российских серверных процессоров появятся через восемь лет](https://habr.com/ru/news/901050/?utm_campaign=901050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
