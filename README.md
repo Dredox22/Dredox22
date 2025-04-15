@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Необходимость обновления Виртуальной машины «1С-Битрикс» до версии 9.0.6](https://habr.com/ru/news/901012/?utm_campaign=901012&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор США намерен заставить Meta* продать Instagram** и WhatsApp](https://habr.com/ru/news/901002/?utm_campaign=901002&utm_source=habrahabr&utm_medium=rss)
+- [Тестируем бету YandexGPT 5 с режимом рассуждений](https://habr.com/ru/companies/yandex/news/900800/?utm_campaign=900800&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Manjaro Linux 25.0 «Zetar»](https://habr.com/ru/news/900996/?utm_campaign=900996&utm_source=habrahabr&utm_medium=rss)
 - [Конференция для системных администраторов SysAdmin 2025](https://habr.com/ru/companies/ringo_mdm/news/900774/?utm_campaign=900774&utm_source=habrahabr&utm_medium=rss)
-- [Швейцарская ИБ-компания начала закупать старые учётные записи на хакерских форумах и сайтах в даркнете](https://habr.com/ru/news/900944/?utm_campaign=900944&utm_source=habrahabr&utm_medium=rss)
-- [Почему традиционные тесты не отражают реальный потенциал ИИ](https://habr.com/ru/companies/bothub/news/900956/?utm_campaign=900956&utm_source=habrahabr&utm_medium=rss)
-- [Hertz подтвердила утечку данных клиентов](https://habr.com/ru/news/900952/?utm_campaign=900952&utm_source=habrahabr&utm_medium=rss)
-- [Apple будет анализировать данные на устройствах для улучшения обучения ИИ](https://habr.com/ru/news/900934/?utm_campaign=900934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
