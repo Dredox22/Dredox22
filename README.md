@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Конференция для системных администраторов SysAdmin 2025](https://habr.com/ru/companies/ringo_mdm/news/900774/?utm_campaign=900774&utm_source=habrahabr&utm_medium=rss)
 - [Швейцарская ИБ-компания начала закупать старые учётные записи на хакерских форумах и сайтах в даркнете](https://habr.com/ru/news/900944/?utm_campaign=900944&utm_source=habrahabr&utm_medium=rss)
 - [Почему традиционные тесты не отражают реальный потенциал ИИ](https://habr.com/ru/companies/bothub/news/900956/?utm_campaign=900956&utm_source=habrahabr&utm_medium=rss)
 - [Hertz подтвердила утечку данных клиентов](https://habr.com/ru/news/900952/?utm_campaign=900952&utm_source=habrahabr&utm_medium=rss)
 - [Apple будет анализировать данные на устройствах для улучшения обучения ИИ](https://habr.com/ru/news/900934/?utm_campaign=900934&utm_source=habrahabr&utm_medium=rss)
-- [Apple улучшает модели ИИ без доступа к личным данным пользователей](https://habr.com/ru/companies/bothub/news/900946/?utm_campaign=900946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
