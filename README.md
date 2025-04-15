@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор утвердил методику подсчёта пользователей сайтов, программ и других информационных ресурсов](https://habr.com/ru/news/900884/?utm_campaign=900884&utm_source=habrahabr&utm_medium=rss)
 - [Windsurf выпустила плагины для IDE от JetBrains](https://habr.com/ru/news/900876/?utm_campaign=900876&utm_source=habrahabr&utm_medium=rss)
 - [Вышла OpenAI GPT 4.1 — новая главная модель для программирования](https://habr.com/ru/news/900854/?utm_campaign=900854&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT-4.1: Революционный скачок в программировании и обработке длинного контекста](https://habr.com/ru/news/900850/?utm_campaign=900850&utm_source=habrahabr&utm_medium=rss)
 - [Meta* начнет обучать свои модели AI на публичном контенте в ЕС](https://habr.com/ru/companies/bothub/news/900822/?utm_campaign=900822&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: самозапрет через «Госуслуги» на заключение договора об оказании услуг мобильной связи с 1 сентября 2025 года](https://habr.com/ru/news/900814/?utm_campaign=900814&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
