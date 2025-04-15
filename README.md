@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google повысила до 32 ГБ требование к объёму памяти устройств для установки Android 15](https://habr.com/ru/news/900922/?utm_campaign=900922&utm_source=habrahabr&utm_medium=rss)
-- [Приложения синхронизации файлов Microsoft OneDrive для Windows и Mac не работают уже 10 месяцев](https://habr.com/ru/news/900910/?utm_campaign=900910&utm_source=habrahabr&utm_medium=rss)
-- [МТС запустил пилотный проект по переносу блоков управления базовыми станциями с антенных мачт и опор в старые здания АТС](https://habr.com/ru/news/900908/?utm_campaign=900908&utm_source=habrahabr&utm_medium=rss)
-- [В Google Docs добавили 14 новых языков программирования в блоки кода](https://habr.com/ru/news/900902/?utm_campaign=900902&utm_source=habrahabr&utm_medium=rss)
-- [Срок действия сертификатов SSL/TLS сократят до 47 дней к 2029 году](https://habr.com/ru/news/900894/?utm_campaign=900894&utm_source=habrahabr&utm_medium=rss)
+- [Швейцарская ИБ-компания начала закупать старые учётные записи на хакерских форумах и сайтах в даркнете](https://habr.com/ru/news/900944/?utm_campaign=900944&utm_source=habrahabr&utm_medium=rss)
+- [Почему традиционные тесты не отражают реальный потенциал ИИ](https://habr.com/ru/companies/bothub/news/900956/?utm_campaign=900956&utm_source=habrahabr&utm_medium=rss)
+- [Hertz подтвердила утечку данных клиентов](https://habr.com/ru/news/900952/?utm_campaign=900952&utm_source=habrahabr&utm_medium=rss)
+- [Apple будет анализировать данные на устройствах для улучшения обучения ИИ](https://habr.com/ru/news/900934/?utm_campaign=900934&utm_source=habrahabr&utm_medium=rss)
+- [Apple улучшает модели ИИ без доступа к личным данным пользователей](https://habr.com/ru/companies/bothub/news/900946/?utm_campaign=900946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
