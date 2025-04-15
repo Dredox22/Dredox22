@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Система глубокого анализа входящего трафика InfoWatch ARMA Industrial Firewall запатентована в ЕАЭС](https://habr.com/ru/companies/infowatch/news/901070/?utm_campaign=901070&utm_source=habrahabr&utm_medium=rss)
 - [«МЦСТ»: массовые партии российских серверных процессоров появятся через восемь лет](https://habr.com/ru/news/901050/?utm_campaign=901050&utm_source=habrahabr&utm_medium=rss)
 - [В мобильной ферме Selectel появились смартфоны на iOS](https://habr.com/ru/companies/selectel/news/901046/?utm_campaign=901046&utm_source=habrahabr&utm_medium=rss)
 - [Премия для этичных хакеров Pentest award 2025 открыла прием заявок](https://habr.com/ru/news/901026/?utm_campaign=901026&utm_source=habrahabr&utm_medium=rss)
 - [Apple переименовала Search Ads в Apple Ads](https://habr.com/ru/news/901022/?utm_campaign=901022&utm_source=habrahabr&utm_medium=rss)
-- [Бастион — лучший enterprise-партнер «Лаборатории Касперского»](https://habr.com/ru/companies/bastion/news/901014/?utm_campaign=901014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
