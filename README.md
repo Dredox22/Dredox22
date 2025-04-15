@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google повысила до 32 ГБ требование к объёму памяти устройств для установки Android 15](https://habr.com/ru/news/900922/?utm_campaign=900922&utm_source=habrahabr&utm_medium=rss)
+- [Приложения синхронизации файлов Microsoft OneDrive для Windows и Mac не работают уже 10 месяцев](https://habr.com/ru/news/900910/?utm_campaign=900910&utm_source=habrahabr&utm_medium=rss)
+- [МТС запустил пилотный проект по переносу блоков управления базовыми станциями с антенных мачт и опор в старые здания АТС](https://habr.com/ru/news/900908/?utm_campaign=900908&utm_source=habrahabr&utm_medium=rss)
+- [В Google Docs добавили 14 новых языков программирования в блоки кода](https://habr.com/ru/news/900902/?utm_campaign=900902&utm_source=habrahabr&utm_medium=rss)
 - [Срок действия сертификатов SSL/TLS сократят до 47 дней к 2029 году](https://habr.com/ru/news/900894/?utm_campaign=900894&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый инструмент TARIFF, который позволяет налагать временные импортные пошлины на пакеты Python](https://habr.com/ru/news/900892/?utm_campaign=900892&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг РФ перестанет выдавать субсидии российским производителям и разработчикам электронно-компонентной базы](https://habr.com/ru/news/900888/?utm_campaign=900888&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор утвердил методику подсчёта пользователей сайтов, программ и других информационных ресурсов](https://habr.com/ru/news/900884/?utm_campaign=900884&utm_source=habrahabr&utm_medium=rss)
-- [Windsurf выпустила плагины для IDE от JetBrains](https://habr.com/ru/news/900876/?utm_campaign=900876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
