@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Оператор связи T2 протестировал SIM-карты российского производителя микроэлектроники «Микрон»](https://habr.com/ru/news/901496/?utm_campaign=901496&utm_source=habrahabr&utm_medium=rss)
+- [DDR4 от GS Nanotech внесена в реестр Минпромторга](https://habr.com/ru/news/901476/?utm_campaign=901476&utm_source=habrahabr&utm_medium=rss)
 - [MITRE лишилась финподдержки США программ Common Vulnerabilities and Exposures &lpar;CVE&rpar; и Common Weakness Enumeration &lpar;CWE&rpar;](https://habr.com/ru/news/901470/?utm_campaign=901470&utm_source=habrahabr&utm_medium=rss)
 - [В Японии продавца модифицированной Nintendo Switch с пиратскими играми приговорили к тюремному заключению](https://habr.com/ru/news/901460/?utm_campaign=901460&utm_source=habrahabr&utm_medium=rss)
 - [Selectel проведет вебинар о сокращении расходов на инфраструктуру с GPU](https://habr.com/ru/companies/selectel/news/901414/?utm_campaign=901414&utm_source=habrahabr&utm_medium=rss)
-- [«Поиск» от «Яндекса» с «Нейро» научился объяснять решение математических задач из старшей школы](https://habr.com/ru/news/901420/?utm_campaign=901420&utm_source=habrahabr&utm_medium=rss)
-- [«Солар»: как российские организации подходят к выбору NGFW для киберзащиты](https://habr.com/ru/companies/solarsecurity/news/901416/?utm_campaign=901416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
