@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гендиректор GitHub: учиться программировать нужно как можно раньше](https://habr.com/ru/news/901246/?utm_campaign=901246&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft усложнила включение ActiveX в приложениях Office для повышения безопасности](https://habr.com/ru/news/901228/?utm_campaign=901228&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI корректирует политику безопасности в ответ на конкурентное давление](https://habr.com/ru/companies/bothub/news/901224/?utm_campaign=901224&utm_source=habrahabr&utm_medium=rss)
 - [Япония предъявила Google антимонопольные обвинения из-за смартфонов на базе Android](https://habr.com/ru/news/901220/?utm_campaign=901220&utm_source=habrahabr&utm_medium=rss)
 - [Niantic увольняет не менее 68 сотрудников](https://habr.com/ru/news/901218/?utm_campaign=901218&utm_source=habrahabr&utm_medium=rss)
-- [Смартфоны на Android будут перезагружаться после трёх дней бездействия](https://habr.com/ru/news/901152/?utm_campaign=901152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
