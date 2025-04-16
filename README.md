@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Потрачено: аналитики F6 обнаружили раздачу ВПО в Telegram под видом модов Roblox, Minecraftи других популярных игр](https://habr.com/ru/companies/F6/news/901348/?utm_campaign=901348&utm_source=habrahabr&utm_medium=rss)
 - [В России впервые оштрафовали банк за переписку в иностранном мессенджере с клиентом](https://habr.com/ru/news/901328/?utm_campaign=901328&utm_source=habrahabr&utm_medium=rss)
 - [Студия Schell Games раскрыла дату выхода Among Us 3D для ПК — 6 мая в Steam по цене $9,99](https://habr.com/ru/news/901322/?utm_campaign=901322&utm_source=habrahabr&utm_medium=rss)
 - [Выход Skyblivion все еще ожидается в 2025 году](https://habr.com/ru/companies/ggsel/news/901306/?utm_campaign=901306&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация без кодинга: 5 функций MWS Tables для упрощения совместной работы](https://habr.com/ru/companies/mws/news/899514/?utm_campaign=899514&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила инструмент «Ножницы» для упрощения извлечения текста](https://habr.com/ru/news/901268/?utm_campaign=901268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
