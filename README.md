@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России впервые оштрафовали банк за переписку в иностранном мессенджере с клиентом](https://habr.com/ru/news/901328/?utm_campaign=901328&utm_source=habrahabr&utm_medium=rss)
+- [Студия Schell Games раскрыла дату выхода Among Us 3D для ПК — 6 мая в Steam по цене $9,99](https://habr.com/ru/news/901322/?utm_campaign=901322&utm_source=habrahabr&utm_medium=rss)
+- [Выход Skyblivion все еще ожидается в 2025 году](https://habr.com/ru/companies/ggsel/news/901306/?utm_campaign=901306&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация без кодинга: 5 функций MWS Tables для упрощения совместной работы](https://habr.com/ru/companies/mws/news/899514/?utm_campaign=899514&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила инструмент «Ножницы» для упрощения извлечения текста](https://habr.com/ru/news/901268/?utm_campaign=901268&utm_source=habrahabr&utm_medium=rss)
-- [Google будет перенаправлять пользователей из любой страны на Google.com](https://habr.com/ru/news/901256/?utm_campaign=901256&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор GitHub: учиться программировать нужно как можно раньше](https://habr.com/ru/news/901246/?utm_campaign=901246&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft усложнила включение ActiveX в приложениях Office для повышения безопасности](https://habr.com/ru/news/901228/?utm_campaign=901228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
