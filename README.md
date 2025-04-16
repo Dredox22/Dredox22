@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft усложнила включение ActiveX в приложениях Office для повышения безопасности](https://habr.com/ru/news/901228/?utm_campaign=901228&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI корректирует политику безопасности в ответ на конкурентное давление](https://habr.com/ru/companies/bothub/news/901224/?utm_campaign=901224&utm_source=habrahabr&utm_medium=rss)
+- [Япония предъявила Google антимонопольные обвинения из-за смартфонов на базе Android](https://habr.com/ru/news/901220/?utm_campaign=901220&utm_source=habrahabr&utm_medium=rss)
+- [Niantic увольняет не менее 68 сотрудников](https://habr.com/ru/news/901218/?utm_campaign=901218&utm_source=habrahabr&utm_medium=rss)
 - [Смартфоны на Android будут перезагружаться после трёх дней бездействия](https://habr.com/ru/news/901152/?utm_campaign=901152&utm_source=habrahabr&utm_medium=rss)
-- [Взлом 4chan привёл к утечке данных модераторов и пользователей](https://habr.com/ru/news/901208/?utm_campaign=901208&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система виртуализации VirtualBox 7.1.8](https://habr.com/ru/news/901202/?utm_campaign=901202&utm_source=habrahabr&utm_medium=rss)
-- [Обновление «Алисы»: поддержка английского языка, работа с файлами, рассуждения и Live-режим](https://habr.com/ru/news/901196/?utm_campaign=901196&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Fedora Linux 42](https://habr.com/ru/news/901140/?utm_campaign=901140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
