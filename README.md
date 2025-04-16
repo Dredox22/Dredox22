@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MITRE лишилась финподдержки США программ Common Vulnerabilities and Exposures &lpar;CVE&rpar; и Common Weakness Enumeration &lpar;CWE&rpar;](https://habr.com/ru/news/901470/?utm_campaign=901470&utm_source=habrahabr&utm_medium=rss)
+- [В Японии продавца модифицированной Nintendo Switch с пиратскими играми приговорили к тюремному заключению](https://habr.com/ru/news/901460/?utm_campaign=901460&utm_source=habrahabr&utm_medium=rss)
 - [Selectel проведет вебинар о сокращении расходов на инфраструктуру с GPU](https://habr.com/ru/companies/selectel/news/901414/?utm_campaign=901414&utm_source=habrahabr&utm_medium=rss)
 - [«Поиск» от «Яндекса» с «Нейро» научился объяснять решение математических задач из старшей школы](https://habr.com/ru/news/901420/?utm_campaign=901420&utm_source=habrahabr&utm_medium=rss)
 - [«Солар»: как российские организации подходят к выбору NGFW для киберзащиты](https://habr.com/ru/companies/solarsecurity/news/901416/?utm_campaign=901416&utm_source=habrahabr&utm_medium=rss)
-- [Вслед за несколькими авиакомпаниями функция AirTag по утерянному багажу расширяется и на China Airlines](https://habr.com/ru/news/901380/?utm_campaign=901380&utm_source=habrahabr&utm_medium=rss)
-- [Oracle выпустила ядро Unbreakable Enterprise Kernel 8 на базе Linux 6.12 LTS](https://habr.com/ru/news/901370/?utm_campaign=901370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
