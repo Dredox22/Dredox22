@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Смартфоны на Android будут перезагружаться после трёх дней бездействия](https://habr.com/ru/news/901152/?utm_campaign=901152&utm_source=habrahabr&utm_medium=rss)
 - [Взлом 4chan привёл к утечке данных модераторов и пользователей](https://habr.com/ru/news/901208/?utm_campaign=901208&utm_source=habrahabr&utm_medium=rss)
 - [Вышла система виртуализации VirtualBox 7.1.8](https://habr.com/ru/news/901202/?utm_campaign=901202&utm_source=habrahabr&utm_medium=rss)
 - [Обновление «Алисы»: поддержка английского языка, работа с файлами, рассуждения и Live-режим](https://habr.com/ru/news/901196/?utm_campaign=901196&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Fedora Linux 42](https://habr.com/ru/news/901140/?utm_campaign=901140&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenWrt 24.10.1](https://habr.com/ru/news/901118/?utm_campaign=901118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
