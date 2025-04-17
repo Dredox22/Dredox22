@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Figma требует от стартапа Lovable отказаться от термина Dev Mode](https://habr.com/ru/news/901812/?utm_campaign=901812&utm_source=habrahabr&utm_medium=rss)
+- [Расследование во Франции против Дурова продолжается, у основателя Telegram нет никаких проблем с французским правосудием](https://habr.com/ru/news/901810/?utm_campaign=901810&utm_source=habrahabr&utm_medium=rss)
 - [Runet: МТС прекратил работу своего магазина приложений AppBazar](https://habr.com/ru/news/901792/?utm_campaign=901792&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует в этом году реализовать систему проверки сведений о соискателе в резюме для работодателей](https://habr.com/ru/news/901770/?utm_campaign=901770&utm_source=habrahabr&utm_medium=rss)
 - [Мигрируем с Jira и Confluence на бесплатную версию конвейера EvaTeam](https://habr.com/ru/news/901768/?utm_campaign=901768&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.36: расширение поддержки MISRA, плагин для Qt Creator 16, расширение пользовательских аннотаций в C#](https://habr.com/ru/companies/pvs-studio/news/901758/?utm_campaign=901758&utm_source=habrahabr&utm_medium=rss)
-- [Анонсирована игра «Командиры бездорожья», вдохновлённая «Дальнобойщиками» и SnowRunner](https://habr.com/ru/news/901738/?utm_campaign=901738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
