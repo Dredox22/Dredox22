@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Альфа‑Банк» запустил новое мобильное приложение RuStore на свежей версииОС «Аврора»](https://habr.com/ru/news/901872/?utm_campaign=901872&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» начал приём заявок на Научную премию за 2025 год с призовым фондом в 76,5 млн рублей](https://habr.com/ru/news/901864/?utm_campaign=901864&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Ubuntu 25.04 Plucky Puffin](https://habr.com/ru/news/901862/?utm_campaign=901862&utm_source=habrahabr&utm_medium=rss)
+- [Анализ «Яндекс Карт»: водители стали чаще строить маршруты через платные дороги](https://habr.com/ru/news/901856/?utm_campaign=901856&utm_source=habrahabr&utm_medium=rss)
 - [Figma требует от стартапа Lovable отказаться от термина Dev Mode](https://habr.com/ru/news/901812/?utm_campaign=901812&utm_source=habrahabr&utm_medium=rss)
-- [Расследование во Франции против Дурова продолжается, у основателя Telegram нет никаких проблем с французским правосудием](https://habr.com/ru/news/901810/?utm_campaign=901810&utm_source=habrahabr&utm_medium=rss)
-- [Runet: МТС прекратил работу своего магазина приложений AppBazar](https://habr.com/ru/news/901792/?utm_campaign=901792&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует в этом году реализовать систему проверки сведений о соискателе в резюме для работодателей](https://habr.com/ru/news/901770/?utm_campaign=901770&utm_source=habrahabr&utm_medium=rss)
-- [Мигрируем с Jira и Confluence на бесплатную версию конвейера EvaTeam](https://habr.com/ru/news/901768/?utm_campaign=901768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
