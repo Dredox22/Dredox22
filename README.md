@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Яндекс Фабрика» выпустила линейку производительных ноутбуков в металлическом корпусе Lunnen Outer 16](https://habr.com/ru/news/901644/?utm_campaign=901644&utm_source=habrahabr&utm_medium=rss)
-- [На вебинаре расскажем про управление данными юрлиц](https://habr.com/ru/companies/hflabs/news/901552/?utm_campaign=901552&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Tor Browser 14.5](https://habr.com/ru/news/901596/?utm_campaign=901596&utm_source=habrahabr&utm_medium=rss)
-- [Произошёл глобальный трёхчасовой сбой в работе Zoom](https://habr.com/ru/news/901590/?utm_campaign=901590&utm_source=habrahabr&utm_medium=rss)
-- [Бюджетные камерофоны Acer Super ZX и Super ZX Pro представили в Индии](https://habr.com/ru/news/901412/?utm_campaign=901412&utm_source=habrahabr&utm_medium=rss)
+- [АСКОН приглашает на открытое тестирование КОМПАС-3D v24](https://habr.com/ru/companies/ascon/news/901502/?utm_campaign=901502&utm_source=habrahabr&utm_medium=rss)
+- [Discord тестирует сканирование распознавания лиц для проверки возраста](https://habr.com/ru/news/901664/?utm_campaign=901664&utm_source=habrahabr&utm_medium=rss)
+- [Золотой ключик: мошенники используют новый сценарий обмана с арендой квартир](https://habr.com/ru/companies/F6/news/901394/?utm_campaign=901394&utm_source=habrahabr&utm_medium=rss)
+- [Из-за ошибки нагрузка на процессор при наборе текста в Outlook возрастает до 50%: временное решение проблемы](https://habr.com/ru/news/901546/?utm_campaign=901546&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сделала Copilot Vision бесплатным для пользователей Edge](https://habr.com/ru/news/901642/?utm_campaign=901642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
