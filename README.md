@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft выпустила инструмент для симуляции дальтонизма Chroma](https://habr.com/ru/news/901688/?utm_campaign=901688&utm_source=habrahabr&utm_medium=rss)
+- [Sony представила маленький и лёгкий LiDAR](https://habr.com/ru/news/901674/?utm_campaign=901674&utm_source=habrahabr&utm_medium=rss)
+- [Opera добавила помощника Aria AI в браузер Opera Mini](https://habr.com/ru/news/901680/?utm_campaign=901680&utm_source=habrahabr&utm_medium=rss)
 - [АСКОН приглашает на открытое тестирование КОМПАС-3D v24](https://habr.com/ru/companies/ascon/news/901502/?utm_campaign=901502&utm_source=habrahabr&utm_medium=rss)
 - [Discord тестирует сканирование распознавания лиц для проверки возраста](https://habr.com/ru/news/901664/?utm_campaign=901664&utm_source=habrahabr&utm_medium=rss)
-- [Золотой ключик: мошенники используют новый сценарий обмана с арендой квартир](https://habr.com/ru/companies/F6/news/901394/?utm_campaign=901394&utm_source=habrahabr&utm_medium=rss)
-- [Из-за ошибки нагрузка на процессор при наборе текста в Outlook возрастает до 50%: временное решение проблемы](https://habr.com/ru/news/901546/?utm_campaign=901546&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сделала Copilot Vision бесплатным для пользователей Edge](https://habr.com/ru/news/901642/?utm_campaign=901642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
