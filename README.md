@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Tor Browser 14.5](https://habr.com/ru/news/901596/?utm_campaign=901596&utm_source=habrahabr&utm_medium=rss)
+- [Произошёл глобальный трёхчасовой сбой в работе Zoom](https://habr.com/ru/news/901590/?utm_campaign=901590&utm_source=habrahabr&utm_medium=rss)
 - [Бюджетные камерофоны Acer Super ZX и Super ZX Pro представили в Индии](https://habr.com/ru/news/901412/?utm_campaign=901412&utm_source=habrahabr&utm_medium=rss)
 - [РКН: в «белый список» IP-адресов, использующих иностранные протоколы шифрования, внесено 75 тыс. записей](https://habr.com/ru/news/901584/?utm_campaign=901584&utm_source=habrahabr&utm_medium=rss)
 - [В lmarena добавили Search Arena — рейтинг нейросетевых поисковиков](https://habr.com/ru/news/901572/?utm_campaign=901572&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила новые рекордные модели o3 и o4-mini](https://habr.com/ru/news/901508/?utm_campaign=901508&utm_source=habrahabr&utm_medium=rss)
-- [Представлена официальная версия инструмента стресс-тестирования оборудования OCCT для Linux](https://habr.com/ru/news/901504/?utm_campaign=901504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
