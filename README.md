@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бюджетные камерофоны Acer Super ZX и Super ZX Pro представили в Индии](https://habr.com/ru/news/901412/?utm_campaign=901412&utm_source=habrahabr&utm_medium=rss)
+- [РКН: в «белый список» IP-адресов, использующих иностранные протоколы шифрования, внесено 75 тыс. записей](https://habr.com/ru/news/901584/?utm_campaign=901584&utm_source=habrahabr&utm_medium=rss)
 - [В lmarena добавили Search Arena — рейтинг нейросетевых поисковиков](https://habr.com/ru/news/901572/?utm_campaign=901572&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила новые рекордные модели o3 и o4-mini](https://habr.com/ru/news/901508/?utm_campaign=901508&utm_source=habrahabr&utm_medium=rss)
 - [Представлена официальная версия инструмента стресс-тестирования оборудования OCCT для Linux](https://habr.com/ru/news/901504/?utm_campaign=901504&utm_source=habrahabr&utm_medium=rss)
-- [Оператор связи T2 протестировал SIM-карты российского производителя микроэлектроники «Микрон»](https://habr.com/ru/news/901496/?utm_campaign=901496&utm_source=habrahabr&utm_medium=rss)
-- [DDR4 от GS Nanotech внесена в реестр Минпромторга](https://habr.com/ru/news/901476/?utm_campaign=901476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
