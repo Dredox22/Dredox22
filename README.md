@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонсирована игра «Командиры бездорожья», вдохновлённая «Дальнобойщиками» и SnowRunner](https://habr.com/ru/news/901738/?utm_campaign=901738&utm_source=habrahabr&utm_medium=rss)
+- [Kotlin 2.1.20 стал лучше поддерживать Lombok](https://habr.com/ru/companies/spring_aio/news/901732/?utm_campaign=901732&utm_source=habrahabr&utm_medium=rss)
 - [Strava приобрела разработчика приложения Runna](https://habr.com/ru/news/901726/?utm_campaign=901726&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс и ИТМО открывают онлайн-магистратуру для фронтенд- и бэкенд-разработчиков](https://habr.com/ru/companies/yandex_praktikum/news/901520/?utm_campaign=901520&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая сертифицированная ФСТЭК версия Deckhouse Kubernetes Platform с mTLS и приоритизацией нагрузки](https://habr.com/ru/companies/flant/news/901718/?utm_campaign=901718&utm_source=habrahabr&utm_medium=rss)
-- [Силовые приводы багажников и зональные архитектуры](https://habr.com/ru/news/901712/?utm_campaign=901712&utm_source=habrahabr&utm_medium=rss)
-- [Project 11 предлагает 1 BTC тому, кто взломает самый длинный ключ Bitcoin](https://habr.com/ru/news/901710/?utm_campaign=901710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
