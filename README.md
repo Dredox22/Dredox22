@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Фабрика» выпустила линейку производительных ноутбуков в металлическом корпусе Lunnen Outer 16](https://habr.com/ru/news/901644/?utm_campaign=901644&utm_source=habrahabr&utm_medium=rss)
+- [На вебинаре расскажем про управление данными юрлиц](https://habr.com/ru/companies/hflabs/news/901552/?utm_campaign=901552&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tor Browser 14.5](https://habr.com/ru/news/901596/?utm_campaign=901596&utm_source=habrahabr&utm_medium=rss)
 - [Произошёл глобальный трёхчасовой сбой в работе Zoom](https://habr.com/ru/news/901590/?utm_campaign=901590&utm_source=habrahabr&utm_medium=rss)
 - [Бюджетные камерофоны Acer Super ZX и Super ZX Pro представили в Индии](https://habr.com/ru/news/901412/?utm_campaign=901412&utm_source=habrahabr&utm_medium=rss)
-- [РКН: в «белый список» IP-адресов, использующих иностранные протоколы шифрования, внесено 75 тыс. записей](https://habr.com/ru/news/901584/?utm_campaign=901584&utm_source=habrahabr&utm_medium=rss)
-- [В lmarena добавили Search Arena — рейтинг нейросетевых поисковиков](https://habr.com/ru/news/901572/?utm_campaign=901572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
