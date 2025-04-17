@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Runet: МТС прекратил работу своего магазина приложений AppBazar](https://habr.com/ru/news/901792/?utm_campaign=901792&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует в этом году реализовать систему проверки сведений о соискателе в резюме для работодателей](https://habr.com/ru/news/901770/?utm_campaign=901770&utm_source=habrahabr&utm_medium=rss)
 - [Мигрируем с Jira и Confluence на бесплатную версию конвейера EvaTeam](https://habr.com/ru/news/901768/?utm_campaign=901768&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.36: расширение поддержки MISRA, плагин для Qt Creator 16, расширение пользовательских аннотаций в C#](https://habr.com/ru/companies/pvs-studio/news/901758/?utm_campaign=901758&utm_source=habrahabr&utm_medium=rss)
 - [Анонсирована игра «Командиры бездорожья», вдохновлённая «Дальнобойщиками» и SnowRunner](https://habr.com/ru/news/901738/?utm_campaign=901738&utm_source=habrahabr&utm_medium=rss)
-- [Kotlin 2.1.20 стал лучше поддерживать Lombok](https://habr.com/ru/companies/spring_aio/news/901732/?utm_campaign=901732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
