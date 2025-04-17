@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры России и ФСТЭК обновили правила для объектов КИИ в сфере связи](https://habr.com/ru/news/901912/?utm_campaign=901912&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT определяет местоположение по фотографиям, почему это вызывает беспокойство](https://habr.com/ru/companies/bothub/news/901896/?utm_campaign=901896&utm_source=habrahabr&utm_medium=rss)
 - [xAI добавляет функцию ‘памяти’ в Grok](https://habr.com/ru/companies/bothub/news/901892/?utm_campaign=901892&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из СПб ФИЦ РАН  научили нейросеть находить кейлоггеры](https://habr.com/ru/news/901890/?utm_campaign=901890&utm_source=habrahabr&utm_medium=rss)
 - [«Альфа‑Банк» запустил новое мобильное приложение RuStore на свежей версииОС «Аврора»](https://habr.com/ru/news/901872/?utm_campaign=901872&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» начал приём заявок на Научную премию за 2025 год с призовым фондом в 76,5 млн рублей](https://habr.com/ru/news/901864/?utm_campaign=901864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
