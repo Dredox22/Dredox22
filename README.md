@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т-Банк» выпустил в App Store своё мобильное приложение под кодовым названием Freelance Case](https://habr.com/ru/news/902006/?utm_campaign=902006&utm_source=habrahabr&utm_medium=rss)
+- [В Open Source-платформе Cozystack появилась поддержка GPU для виртуальных машин — можно запускать AI и ML на виртуалках](https://habr.com/ru/companies/aenix/news/901994/?utm_campaign=901994&utm_source=habrahabr&utm_medium=rss)
+- [Вышел nginx 1.27.5](https://habr.com/ru/news/901986/?utm_campaign=901986&utm_source=habrahabr&utm_medium=rss)
 - [Движок Unity 6 в Китае заменят проектом Tuanjie](https://habr.com/ru/news/901956/?utm_campaign=901956&utm_source=habrahabr&utm_medium=rss)
 - [«Википедия» представила набор данных для обучения ИИ ради борьбы со скрейпингом](https://habr.com/ru/news/901950/?utm_campaign=901950&utm_source=habrahabr&utm_medium=rss)
-- [Апрельское обновление Xbox: теперь в приложении можно покупать игры, а Stream Your Own Game распространена на консоли](https://habr.com/ru/news/901910/?utm_campaign=901910&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wireshark 4.4.6](https://habr.com/ru/news/901966/?utm_campaign=901966&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минцифры: ИИ может заменить половину чиновников](https://habr.com/ru/news/901964/?utm_campaign=901964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
