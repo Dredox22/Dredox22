@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На сайте Координационного центра доменов .RU/.РФ появился сервис подбора доменных имён с использованием ИИ](https://habr.com/ru/news/902104/?utm_campaign=902104&utm_source=habrahabr&utm_medium=rss)
+- [Автор Stellar Blade стал одним из самых богатых людей Южной Кореи](https://habr.com/ru/companies/ggsel/news/902100/?utm_campaign=902100&utm_source=habrahabr&utm_medium=rss)
+- [Seedream 3.0: новая модель преобразования текста в изображение от ByteDance](https://habr.com/ru/companies/bothub/news/902098/?utm_campaign=902098&utm_source=habrahabr&utm_medium=rss)
+- [Open Deep Research: инструмент для многоэтапных веб-исследований от Together AI](https://habr.com/ru/companies/bothub/news/902094/?utm_campaign=902094&utm_source=habrahabr&utm_medium=rss)
 - [Антивирусные решения «Лаборатории Касперского» заняли 91 первое место в независимых тестах за 2024 год](https://habr.com/ru/news/902074/?utm_campaign=902074&utm_source=habrahabr&utm_medium=rss)
-- [Cursor извинилась за бота из-за придуманной пользовательской политики](https://habr.com/ru/news/902024/?utm_campaign=902024&utm_source=habrahabr&utm_medium=rss)
-- [Появилась электронная База знаний по функциональности более 300 ИТ-продуктов](https://habr.com/ru/news/902020/?utm_campaign=902020&utm_source=habrahabr&utm_medium=rss)
-- [Векторная база данных Qdrant стала доступна как сервис в Amvera Cloud](https://habr.com/ru/companies/amvera/news/901848/?utm_campaign=901848&utm_source=habrahabr&utm_medium=rss)
-- [«Т-Банк» выпустил в App Store своё мобильное приложение под кодовым названием Freelance Case](https://habr.com/ru/news/902006/?utm_campaign=902006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
