@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустил предварительную версию улучшенной модели ИИ Gemini 2.5 Flash](https://habr.com/ru/companies/bothub/news/902192/?utm_campaign=902192&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.3.1](https://habr.com/ru/news/902142/?utm_campaign=902142&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запускает гибкую обработку данных для более дешевых и медленных задач](https://habr.com/ru/companies/bothub/news/902132/?utm_campaign=902132&utm_source=habrahabr&utm_medium=rss)
 - [Мессенджер Max от VK получил поддержку ИИ-сервиса GigaChat 2.0](https://habr.com/ru/news/902126/?utm_campaign=902126&utm_source=habrahabr&utm_medium=rss)
 - [Группа «Астра», Axiom JDK и Haulmon представили новую отечественную IDE для корпоративных IT‑проектов](https://habr.com/ru/news/902120/?utm_campaign=902120&utm_source=habrahabr&utm_medium=rss)
-- [На сайте Координационного центра доменов .RU/.РФ появился сервис подбора доменных имён с использованием ИИ](https://habr.com/ru/news/902104/?utm_campaign=902104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
