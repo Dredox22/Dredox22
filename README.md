@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.3](https://habr.com/ru/news/901960/?utm_campaign=901960&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик утилиты Whisky для запуска игр на macOS закрывает проект и призывает переходить на CrossOver](https://habr.com/ru/news/901934/?utm_campaign=901934&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры России и ФСТЭК обновили правила для объектов КИИ в сфере связи](https://habr.com/ru/news/901912/?utm_campaign=901912&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT определяет местоположение по фотографиям, почему это вызывает беспокойство](https://habr.com/ru/companies/bothub/news/901896/?utm_campaign=901896&utm_source=habrahabr&utm_medium=rss)
 - [xAI добавляет функцию ‘памяти’ в Grok](https://habr.com/ru/companies/bothub/news/901892/?utm_campaign=901892&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из СПб ФИЦ РАН  научили нейросеть находить кейлоггеры](https://habr.com/ru/news/901890/?utm_campaign=901890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
