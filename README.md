@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.3.1](https://habr.com/ru/news/902142/?utm_campaign=902142&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запускает гибкую обработку данных для более дешевых и медленных задач](https://habr.com/ru/companies/bothub/news/902132/?utm_campaign=902132&utm_source=habrahabr&utm_medium=rss)
+- [Мессенджер Max от VK получил поддержку ИИ-сервиса GigaChat 2.0](https://habr.com/ru/news/902126/?utm_campaign=902126&utm_source=habrahabr&utm_medium=rss)
+- [Группа «Астра», Axiom JDK и Haulmon представили новую отечественную IDE для корпоративных IT‑проектов](https://habr.com/ru/news/902120/?utm_campaign=902120&utm_source=habrahabr&utm_medium=rss)
 - [На сайте Координационного центра доменов .RU/.РФ появился сервис подбора доменных имён с использованием ИИ](https://habr.com/ru/news/902104/?utm_campaign=902104&utm_source=habrahabr&utm_medium=rss)
-- [Автор Stellar Blade стал одним из самых богатых людей Южной Кореи](https://habr.com/ru/companies/ggsel/news/902100/?utm_campaign=902100&utm_source=habrahabr&utm_medium=rss)
-- [Seedream 3.0: новая модель преобразования текста в изображение от ByteDance](https://habr.com/ru/companies/bothub/news/902098/?utm_campaign=902098&utm_source=habrahabr&utm_medium=rss)
-- [Open Deep Research: инструмент для многоэтапных веб-исследований от Together AI](https://habr.com/ru/companies/bothub/news/902094/?utm_campaign=902094&utm_source=habrahabr&utm_medium=rss)
-- [Антивирусные решения «Лаборатории Касперского» заняли 91 первое место в независимых тестах за 2024 год](https://habr.com/ru/news/902074/?utm_campaign=902074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
