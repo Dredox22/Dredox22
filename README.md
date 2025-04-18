@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Движок Unity 6 в Китае заменят проектом Tuanjie](https://habr.com/ru/news/901956/?utm_campaign=901956&utm_source=habrahabr&utm_medium=rss)
+- [«Википедия» представила набор данных для обучения ИИ ради борьбы со скрейпингом](https://habr.com/ru/news/901950/?utm_campaign=901950&utm_source=habrahabr&utm_medium=rss)
+- [Апрельское обновление Xbox: теперь в приложении можно покупать игры, а Stream Your Own Game распространена на консоли](https://habr.com/ru/news/901910/?utm_campaign=901910&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wireshark 4.4.6](https://habr.com/ru/news/901966/?utm_campaign=901966&utm_source=habrahabr&utm_medium=rss)
 - [Глава Минцифры: ИИ может заменить половину чиновников](https://habr.com/ru/news/901964/?utm_campaign=901964&utm_source=habrahabr&utm_medium=rss)
-- [Ничего святого: мошенники используют пасхальную тематику для обмана пользователей Telegram](https://habr.com/ru/companies/F6/news/901774/?utm_campaign=901774&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.3](https://habr.com/ru/news/901960/?utm_campaign=901960&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик утилиты Whisky для запуска игр на macOS закрывает проект и призывает переходить на CrossOver](https://habr.com/ru/news/901934/?utm_campaign=901934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
