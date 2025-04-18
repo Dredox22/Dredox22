@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Антивирусные решения «Лаборатории Касперского» заняли 91 первое место в независимых тестах за 2024 год](https://habr.com/ru/news/902074/?utm_campaign=902074&utm_source=habrahabr&utm_medium=rss)
 - [Cursor извинилась за бота из-за придуманной пользовательской политики](https://habr.com/ru/news/902024/?utm_campaign=902024&utm_source=habrahabr&utm_medium=rss)
 - [Появилась электронная База знаний по функциональности более 300 ИТ-продуктов](https://habr.com/ru/news/902020/?utm_campaign=902020&utm_source=habrahabr&utm_medium=rss)
 - [Векторная база данных Qdrant стала доступна как сервис в Amvera Cloud](https://habr.com/ru/companies/amvera/news/901848/?utm_campaign=901848&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Банк» выпустил в App Store своё мобильное приложение под кодовым названием Freelance Case](https://habr.com/ru/news/902006/?utm_campaign=902006&utm_source=habrahabr&utm_medium=rss)
-- [В Open Source-платформе Cozystack появилась поддержка GPU для виртуальных машин — можно запускать AI и ML на виртуалках](https://habr.com/ru/companies/aenix/news/901994/?utm_campaign=901994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
