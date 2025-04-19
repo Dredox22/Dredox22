@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Американец признал вину в мошеннической схеме, по которой он устраивался в IT-компании и передавал доступ к работе в КНР](https://habr.com/ru/news/902292/?utm_campaign=902292&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.3](https://habr.com/ru/news/902224/?utm_campaign=902224&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: дети в возрасте от пяти лет могут легко получить доступ к ненадлежащему контенту на Roblox](https://habr.com/ru/news/902222/?utm_campaign=902222&utm_source=habrahabr&utm_medium=rss)
 - [Сбер инициировал блокировку около 19 тысяч фишинговых ресурсов под своим брендом в 2024 году](https://habr.com/ru/news/902196/?utm_campaign=902196&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустил предварительную версию улучшенной модели ИИ Gemini 2.5 Flash](https://habr.com/ru/companies/bothub/news/902192/?utm_campaign=902192&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.3.1](https://habr.com/ru/news/902142/?utm_campaign=902142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
