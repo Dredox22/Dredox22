@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство РФ утвердило правила, по которым сайт признаётся копией уже заблокированного](https://habr.com/ru/news/902328/?utm_campaign=902328&utm_source=habrahabr&utm_medium=rss)
+- [Asus предупредила о критической уязвимости обхода аутентификации в маршрутизаторах с поддержкой AiCloud](https://habr.com/ru/news/902326/?utm_campaign=902326&utm_source=habrahabr&utm_medium=rss)
+- [Из-за ошибки сканирования или перевода появился фальшивый научный термин; ИИ разносит его по всему интернету](https://habr.com/ru/news/902320/?utm_campaign=902320&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm перевела в разряд открытых проектов компоновщик ELD](https://habr.com/ru/news/902302/?utm_campaign=902302&utm_source=habrahabr&utm_medium=rss)
 - [Маск заплатит миллионы за нарушение патента соцсетью X, а Яндекс купил Boxberry: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/902110/?utm_campaign=902110&utm_source=habrahabr&utm_medium=rss)
-- [В Китае завершился первый в мире полумарафон человек-робот](https://habr.com/ru/news/902294/?utm_campaign=902294&utm_source=habrahabr&utm_medium=rss)
-- [Американец признал вину в мошеннической схеме, по которой он устраивался в IT-компании и передавал доступ к работе в КНР](https://habr.com/ru/news/902292/?utm_campaign=902292&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.3](https://habr.com/ru/news/902224/?utm_campaign=902224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
