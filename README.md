@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm перевела в разряд открытых проектов компоновщик ELD](https://habr.com/ru/news/902302/?utm_campaign=902302&utm_source=habrahabr&utm_medium=rss)
+- [Маск заплатит миллионы за нарушение патента соцсетью X, а Яндекс купил Boxberry: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/902110/?utm_campaign=902110&utm_source=habrahabr&utm_medium=rss)
+- [В Китае завершился первый в мире полумарафон человек-робот](https://habr.com/ru/news/902294/?utm_campaign=902294&utm_source=habrahabr&utm_medium=rss)
 - [Американец признал вину в мошеннической схеме, по которой он устраивался в IT-компании и передавал доступ к работе в КНР](https://habr.com/ru/news/902292/?utm_campaign=902292&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.3](https://habr.com/ru/news/902224/?utm_campaign=902224&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: дети в возрасте от пяти лет могут легко получить доступ к ненадлежащему контенту на Roblox](https://habr.com/ru/news/902222/?utm_campaign=902222&utm_source=habrahabr&utm_medium=rss)
-- [Сбер инициировал блокировку около 19 тысяч фишинговых ресурсов под своим брендом в 2024 году](https://habr.com/ru/news/902196/?utm_campaign=902196&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустил предварительную версию улучшенной модели ИИ Gemini 2.5 Flash](https://habr.com/ru/companies/bothub/news/902192/?utm_campaign=902192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
