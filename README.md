@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление KB5055523 для Windows 11 24H2 ломает SAP GUI](https://habr.com/ru/news/902356/?utm_campaign=902356&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» присоединился к национальному стандарту по защите персональных данных](https://habr.com/ru/news/902348/?utm_campaign=902348&utm_source=habrahabr&utm_medium=rss)
 - [В Zoom объяснили трёхчасовой сбой в работе ошибкой между регистраторами GoDaddy и Markmonitor](https://habr.com/ru/news/902344/?utm_campaign=902344&utm_source=habrahabr&utm_medium=rss)
 - [В PCAutomotive нашли в бортовой системе Nissan Leaf уязвимости для удалённого взлома и перехвата различных функций](https://habr.com/ru/news/902340/?utm_campaign=902340&utm_source=habrahabr&utm_medium=rss)
 - [Правительство РФ утвердило правила, по которым сайт признаётся копией уже заблокированного](https://habr.com/ru/news/902328/?utm_campaign=902328&utm_source=habrahabr&utm_medium=rss)
-- [Asus предупредила о критической уязвимости обхода аутентификации в маршрутизаторах с поддержкой AiCloud](https://habr.com/ru/news/902326/?utm_campaign=902326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
