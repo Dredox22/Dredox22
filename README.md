@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Huawei и сотовый оператор China Unicom запустили первую в мире широкополосную сеть 10G](https://habr.com/ru/news/902454/?utm_campaign=902454&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление MeloNX — эмулятора Nintendo Switch для iOS](https://habr.com/ru/news/902488/?utm_campaign=902488&utm_source=habrahabr&utm_medium=rss)
+- [Apple удалила из App Store мобильное приложение «Т-Банка» под кодовым названием Freelance Case](https://habr.com/ru/news/902484/?utm_campaign=902484&utm_source=habrahabr&utm_medium=rss)
+- [Ultimatum получил поддержку vpn расширений на андроид](https://habr.com/ru/news/902474/?utm_campaign=902474&utm_source=habrahabr&utm_medium=rss)
+- [Huawei и оператор связи China Unicom запустили первую в мире широкополосную сеть 10G](https://habr.com/ru/news/902454/?utm_campaign=902454&utm_source=habrahabr&utm_medium=rss)
 - [Apple хочет запатентовать свой когда-то заброшенный дизайн тактильной кнопки, известный как Project Bongo](https://habr.com/ru/news/902446/?utm_campaign=902446&utm_source=habrahabr&utm_medium=rss)
-- [Обнаружена критическая уязвимость в SSH-сервере из Erlang/OTP, позволяющая удалённое выполнение кода без аутентификации](https://habr.com/ru/news/902436/?utm_campaign=902436&utm_source=habrahabr&utm_medium=rss)
-- [IBM обязала сотрудников отдела продаж работать не из дома минимум три раза в неделю](https://habr.com/ru/news/902430/?utm_campaign=902430&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Media Player Classic — Home Cinema 2.4.2](https://habr.com/ru/news/902418/?utm_campaign=902418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
