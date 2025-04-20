@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В YouTube Music появится автоматическое выравнивание звука](https://habr.com/ru/news/902570/?utm_campaign=902570&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи представили бенчмарк, в котором языковые модели проходят классические игры](https://habr.com/ru/news/902564/?utm_campaign=902564&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива для одноплатных ПК DietPi 9.12](https://habr.com/ru/news/902542/?utm_campaign=902542&utm_source=habrahabr&utm_medium=rss)
 - [В Китае представили сверхбыструю графеновую флэш-память](https://habr.com/ru/news/902530/?utm_campaign=902530&utm_source=habrahabr&utm_medium=rss)
 - [Вышла книга «История моей страны. Записки военного инженера программиста»](https://habr.com/ru/news/902518/?utm_campaign=902518&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление MeloNX — эмулятора Nintendo Switch для iOS](https://habr.com/ru/news/902488/?utm_campaign=902488&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила из App Store мобильное приложение «Т-Банка» под кодовым названием Freelance Case](https://habr.com/ru/news/902484/?utm_campaign=902484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
