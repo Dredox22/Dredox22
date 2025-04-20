@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обнаружена критическая уязвимость в SSH-сервере из Erlang/OTP, позволяющая удалённое выполнение кода без аутентификации](https://habr.com/ru/news/902436/?utm_campaign=902436&utm_source=habrahabr&utm_medium=rss)
+- [IBM обязала сотрудников отдела продаж работать не из дома минимум три раза в неделю](https://habr.com/ru/news/902430/?utm_campaign=902430&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Media Player Classic — Home Cinema 2.4.2](https://habr.com/ru/news/902418/?utm_campaign=902418&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект легковесной и настраиваемой библиотеки логирования microlog](https://habr.com/ru/news/902368/?utm_campaign=902368&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5055523 для Windows 11 24H2 ломает SAP GUI](https://habr.com/ru/news/902356/?utm_campaign=902356&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» присоединился к национальному стандарту по защите персональных данных](https://habr.com/ru/news/902348/?utm_campaign=902348&utm_source=habrahabr&utm_medium=rss)
-- [В Zoom объяснили трёхчасовой сбой в работе ошибкой между регистраторами GoDaddy и Markmonitor](https://habr.com/ru/news/902344/?utm_campaign=902344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
