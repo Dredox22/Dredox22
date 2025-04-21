@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Объявлено о закрытии проекта ArcoLinux после восьми лет работы](https://habr.com/ru/news/902650/?utm_campaign=902650&utm_source=habrahabr&utm_medium=rss)
+- [Представлено руководство по ответственной разработке с использованием ИИ в режиме вайб-кодинга](https://habr.com/ru/news/902638/?utm_campaign=902638&utm_source=habrahabr&utm_medium=rss)
+- [В операционных системах семейства «Альт» на 11 платформе появилось приложение «Копидел» для быстрого «клонирования»](https://habr.com/ru/news/902644/?utm_campaign=902644&utm_source=habrahabr&utm_medium=rss)
 - [Приложение ИИ-помощника Copilot от Microsoft игнорирует команды на отключение и включается тогда, когда оно не нужно](https://habr.com/ru/news/902632/?utm_campaign=902632&utm_source=habrahabr&utm_medium=rss)
 - [Срок поддержки ядра Linux 6.13 истёк, всем рекомендуется перейти на ядро Linux 6.14 или работать на Linux 6.12 LTS](https://habr.com/ru/news/902618/?utm_campaign=902618&utm_source=habrahabr&utm_medium=rss)
-- [Вышла СУБД MySQL 9.3.0](https://habr.com/ru/news/902546/?utm_campaign=902546&utm_source=habrahabr&utm_medium=rss)
-- [В YouTube Music появится автоматическое выравнивание звука](https://habr.com/ru/news/902570/?utm_campaign=902570&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили бенчмарк, в котором языковые модели проходят классические игры](https://habr.com/ru/news/902564/?utm_campaign=902564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
