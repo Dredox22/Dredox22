@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Оценка количества и путей сетевых запросов, отправляемых 19 разными веб-браузерами при первом запуске на ПК пользователя](https://habr.com/ru/news/902910/?utm_campaign=902910&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI ежегодно тратит десятки миллионов долларов на обеспечение вежливых ответов «спасибо» и «пожалуйста» в ChatGPT](https://habr.com/ru/news/902906/?utm_campaign=902906&utm_source=habrahabr&utm_medium=rss)
+- [Более 500 спикеров, реверс-инжиниринг в Кибергороде и концерт Uma2rman: как пройдет Positive Hack Days в этом году](https://habr.com/ru/companies/pt/news/902890/?utm_campaign=902890&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» разработал и опубликовал первую в России модель для кибербезопасности искусственного интеллекта](https://habr.com/ru/news/902882/?utm_campaign=902882&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/902880/?utm_campaign=902880&utm_source=habrahabr&utm_medium=rss)
-- [Квантование моделей: запуск новейших моделей Google на локальном оборудовании](https://habr.com/ru/companies/bothub/news/902876/?utm_campaign=902876&utm_source=habrahabr&utm_medium=rss)
-- [Согласно новым данным, AI Overviews Google незаметно отбирают клики у популярных сайтов](https://habr.com/ru/companies/bothub/news/902866/?utm_campaign=902866&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI o3 демонстрирует почти идеальную производительность в тесте с длинным контекстом](https://habr.com/ru/companies/bothub/news/902852/?utm_campaign=902852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
