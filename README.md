@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» разработал и опубликовал первую в России модель для кибербезопасности искусственного интеллекта](https://habr.com/ru/news/902882/?utm_campaign=902882&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/902880/?utm_campaign=902880&utm_source=habrahabr&utm_medium=rss)
+- [Квантование моделей: запуск новейших моделей Google на локальном оборудовании](https://habr.com/ru/companies/bothub/news/902876/?utm_campaign=902876&utm_source=habrahabr&utm_medium=rss)
+- [Согласно новым данным, AI Overviews Google незаметно отбирают клики у популярных сайтов](https://habr.com/ru/companies/bothub/news/902866/?utm_campaign=902866&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI o3 демонстрирует почти идеальную производительность в тесте с длинным контекстом](https://habr.com/ru/companies/bothub/news/902852/?utm_campaign=902852&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Anthropic: как студенты используют ИИ в учёбе и что это значит для академической честности](https://habr.com/ru/companies/bothub/news/902844/?utm_campaign=902844&utm_source=habrahabr&utm_medium=rss)
-- [ОАЭ первыми в мире начнут использовать ИИ для написания законов](https://habr.com/ru/news/902842/?utm_campaign=902842&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех: Рынок коммуникаций выбирает программно-определяемый подход](https://habr.com/ru/companies/k2tech/news/902830/?utm_campaign=902830&utm_source=habrahabr&utm_medium=rss)
-- [Как Google DeepMind меняет реальность: от умных очков до создания целых миров за секунды](https://habr.com/ru/news/902788/?utm_campaign=902788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
