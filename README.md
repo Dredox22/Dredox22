@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI o3 демонстрирует почти идеальную производительность в тесте с длинным контекстом](https://habr.com/ru/companies/bothub/news/902852/?utm_campaign=902852&utm_source=habrahabr&utm_medium=rss)
+- [Исследование Anthropic: как студенты используют ИИ в учёбе и что это значит для академической честности](https://habr.com/ru/companies/bothub/news/902844/?utm_campaign=902844&utm_source=habrahabr&utm_medium=rss)
+- [ОАЭ первыми в мире начнут использовать ИИ для написания законов](https://habr.com/ru/news/902842/?utm_campaign=902842&utm_source=habrahabr&utm_medium=rss)
+- [К2Тех: Рынок коммуникаций выбирает программно-определяемый подход](https://habr.com/ru/companies/k2tech/news/902830/?utm_campaign=902830&utm_source=habrahabr&utm_medium=rss)
 - [Как Google DeepMind меняет реальность: от умных очков до создания целых миров за секунды](https://habr.com/ru/news/902788/?utm_campaign=902788&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Scribus 1.6.4](https://habr.com/ru/news/902780/?utm_campaign=902780&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: за свою 12-летнюю историю Telegram ни разу не раскрыл ни одного байта личных сообщений пользователей](https://habr.com/ru/news/902774/?utm_campaign=902774&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал отбор на IV Международный киберчемпионат по информационной безопасности](https://habr.com/ru/companies/solarsecurity/news/902754/?utm_campaign=902754&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила баг в Edge 135, когда браузер вылетал с ошибкой ERR_INVALID_URL при первом запуске в Windows](https://habr.com/ru/news/902698/?utm_campaign=902698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
