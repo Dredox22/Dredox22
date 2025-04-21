@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики из Tencent выпустили Hunyuan Portrait — нейросеть, которая анимирует портреты](https://habr.com/ru/news/902980/?utm_campaign=902980&utm_source=habrahabr&utm_medium=rss)
 - [Из пилота — в прод: GenAI-платформа SimpleOne была внедрена у лидеров рынка](https://habr.com/ru/companies/simpleone/news/902928/?utm_campaign=902928&utm_source=habrahabr&utm_medium=rss)
 - [ИРИ начал приём заявок на специальный конкурс для создателей инди‑игр](https://habr.com/ru/news/902920/?utm_campaign=902920&utm_source=habrahabr&utm_medium=rss)
 - [Оценка количества и путей сетевых запросов, отправляемых 19 разными веб-браузерами при первом запуске на ПК пользователя](https://habr.com/ru/news/902910/?utm_campaign=902910&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI ежегодно тратит десятки миллионов долларов на обеспечение вежливых ответов «спасибо» и «пожалуйста» в ChatGPT](https://habr.com/ru/news/902906/?utm_campaign=902906&utm_source=habrahabr&utm_medium=rss)
-- [Более 500 спикеров, реверс-инжиниринг в Кибергороде и концерт Uma2rman: как пройдет Positive Hack Days в этом году](https://habr.com/ru/companies/pt/news/902890/?utm_campaign=902890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
