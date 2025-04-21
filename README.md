@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco выпустила патч против критической уязвимости в Webex](https://habr.com/ru/news/902646/?utm_campaign=902646&utm_source=habrahabr&utm_medium=rss)
+- [Видеокарты на базе Nvidia GeForce RTX 5060 Ti получили небольшие по размеру печатные платы](https://habr.com/ru/news/902658/?utm_campaign=902658&utm_source=habrahabr&utm_medium=rss)
+- [Баг-репорты в iOS передают контент пользователей для обучения ИИ](https://habr.com/ru/news/902640/?utm_campaign=902640&utm_source=habrahabr&utm_medium=rss)
+- [Пиратская бухта Рунета: F6 составила рейтинг популярных поставщиков нелегального контента](https://habr.com/ru/companies/F6/news/902652/?utm_campaign=902652&utm_source=habrahabr&utm_medium=rss)
 - [Объявлено о закрытии проекта ArcoLinux после восьми лет работы](https://habr.com/ru/news/902650/?utm_campaign=902650&utm_source=habrahabr&utm_medium=rss)
-- [Представлено руководство по ответственной разработке с использованием ИИ в режиме вайб-кодинга](https://habr.com/ru/news/902638/?utm_campaign=902638&utm_source=habrahabr&utm_medium=rss)
-- [В операционных системах семейства «Альт» на 11 платформе появилось приложение «Копидел» для быстрого «клонирования»](https://habr.com/ru/news/902644/?utm_campaign=902644&utm_source=habrahabr&utm_medium=rss)
-- [Приложение ИИ-помощника Copilot от Microsoft игнорирует команды на отключение и включается тогда, когда оно не нужно](https://habr.com/ru/news/902632/?utm_campaign=902632&utm_source=habrahabr&utm_medium=rss)
-- [Срок поддержки ядра Linux 6.13 истёк, всем рекомендуется перейти на ядро Linux 6.14 или работать на Linux 6.12 LTS](https://habr.com/ru/news/902618/?utm_campaign=902618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
