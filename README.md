@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Срок поддержки ядра Linux 6.13 истёк, всем рекомендуется перейти на ядро Linux 6.14 или работать на Linux 6.12 LTS](https://habr.com/ru/news/902618/?utm_campaign=902618&utm_source=habrahabr&utm_medium=rss)
 - [Вышла СУБД MySQL 9.3.0](https://habr.com/ru/news/902546/?utm_campaign=902546&utm_source=habrahabr&utm_medium=rss)
 - [В YouTube Music появится автоматическое выравнивание звука](https://habr.com/ru/news/902570/?utm_campaign=902570&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили бенчмарк, в котором языковые модели проходят классические игры](https://habr.com/ru/news/902564/?utm_campaign=902564&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива для одноплатных ПК DietPi 9.12](https://habr.com/ru/news/902542/?utm_campaign=902542&utm_source=habrahabr&utm_medium=rss)
-- [В Китае представили сверхбыструю графеновую флэш-память](https://habr.com/ru/news/902530/?utm_campaign=902530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
