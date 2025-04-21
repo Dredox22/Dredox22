@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Минцифры России и «Солар» запускают отбор на международный киберчемпионат по информационной безопасности](https://habr.com/ru/companies/solarsecurity/news/902754/?utm_campaign=902754&utm_source=habrahabr&utm_medium=rss)
+- [Как Google DeepMind меняет реальность: от умных очков до создания целых миров за секунды](https://habr.com/ru/news/902788/?utm_campaign=902788&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Scribus 1.6.4](https://habr.com/ru/news/902780/?utm_campaign=902780&utm_source=habrahabr&utm_medium=rss)
+- [Дуров: за свою 12-летнюю историю Telegram ни разу не раскрыл ни одного байта личных сообщений пользователей](https://habr.com/ru/news/902774/?utm_campaign=902774&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал отбор на IV Международный киберчемпионат по информационной безопасности](https://habr.com/ru/companies/solarsecurity/news/902754/?utm_campaign=902754&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила баг в Edge 135, когда браузер вылетал с ошибкой ERR_INVALID_URL при первом запуске в Windows](https://habr.com/ru/news/902698/?utm_campaign=902698&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft уберёт поддержку VBS Enclave в старых версиях Windows 11](https://habr.com/ru/news/902696/?utm_campaign=902696&utm_source=habrahabr&utm_medium=rss)
-- [В Москве водители смогут отслеживать работу светофоров непосредственно в навигаторе](https://habr.com/ru/news/902686/?utm_campaign=902686&utm_source=habrahabr&utm_medium=rss)
-- [Старшеклассник разработал алгоритм ИИ и так обнаружил 1,5 млн потенциально новых астрономических объектов](https://habr.com/ru/news/902588/?utm_campaign=902588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
