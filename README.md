@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram** запустил Edits — приложение для редактирования видео, похожее на CapCut](https://habr.com/ru/news/903374/?utm_campaign=903374&utm_source=habrahabr&utm_medium=rss)
+- [Релиз легковесного дистрибутива Linux CRUX 3.8](https://habr.com/ru/news/903342/?utm_campaign=903342&utm_source=habrahabr&utm_medium=rss)
+- [Character.AI представляет AvatarFX — будущее создания видео с помощью ИИ](https://habr.com/ru/companies/bothub/news/903364/?utm_campaign=903364&utm_source=habrahabr&utm_medium=rss)
 - [Новые языковые модели от OpenAI оставляют скрытые водяные знаки в сгенерированном тексте](https://habr.com/ru/news/903330/?utm_campaign=903330&utm_source=habrahabr&utm_medium=rss)
 - [Детектор сбоев Downdetector.su признал, что его бот «вырвался на свободу» и вызвал несуществующие пики сбоев](https://habr.com/ru/news/903320/?utm_campaign=903320&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ, АБД и ИБ-рынок предлагают защитить расследующих утечки от уголовного преследования](https://habr.com/ru/news/903318/?utm_campaign=903318&utm_source=habrahabr&utm_medium=rss)
-- [QA-специалисты Garage Eight на SQA Days](https://habr.com/ru/companies/garage8/news/903304/?utm_campaign=903304&utm_source=habrahabr&utm_medium=rss)
-- [РКН призвал компании до 30 мая уведомить о любых утечках персональных данных, если они этого ещё не сделали](https://habr.com/ru/news/903268/?utm_campaign=903268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
