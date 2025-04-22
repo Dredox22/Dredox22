@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nari Labs выпустила компактную модель Dia для генерации диалогов из текста](https://habr.com/ru/news/903414/?utm_campaign=903414&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE обнаружила две уязвимости высокого уровня опасности в ПО Vaultwarden](https://habr.com/ru/news/903400/?utm_campaign=903400&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains закрывает среду разработки Aqua для QA-инженеров](https://habr.com/ru/news/903392/?utm_campaign=903392&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologie рассказала о роли ИИ в техниках защиты информации](https://habr.com/ru/news/903384/?utm_campaign=903384&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** запустил Edits — приложение для редактирования видео, похожее на CapCut](https://habr.com/ru/news/903374/?utm_campaign=903374&utm_source=habrahabr&utm_medium=rss)
-- [Релиз легковесного дистрибутива Linux CRUX 3.8](https://habr.com/ru/news/903342/?utm_campaign=903342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
