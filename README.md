@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Критическая уязвимость CVE-2025-32434 обнаружена в PyTorch](https://habr.com/ru/news/903078/?utm_campaign=903078&utm_source=habrahabr&utm_medium=rss)
 - [Американец подал в суд на Apple за отказ восстановить 2 ТБ данных в iCloud, утерянных после кражи iPhone](https://habr.com/ru/news/903046/?utm_campaign=903046&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: более 100 средних компаний оказались «зажаты» между ИИ-стартапами и техгигантами](https://habr.com/ru/news/903024/?utm_campaign=903024&utm_source=habrahabr&utm_medium=rss)
 - [Исследование выявило слабые стороны в секвенировании ДНК следующего поколения](https://habr.com/ru/news/903020/?utm_campaign=903020&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект GBS Windows — имитация Windows 3.1 для Game Boy Color](https://habr.com/ru/news/903022/?utm_campaign=903022&utm_source=habrahabr&utm_medium=rss)
-- [Участие компании «Нанософт» в бизнес-миссии РЭЦ в Индонезии](https://habr.com/ru/companies/nanosoft/news/902822/?utm_campaign=902822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
