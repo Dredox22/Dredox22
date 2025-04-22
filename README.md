@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование выявило слабые стороны в секвенировании ДНК следующего поколения](https://habr.com/ru/news/903020/?utm_campaign=903020&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект GBS Windows — имитация Windows 3.1 для Game Boy Color](https://habr.com/ru/news/903022/?utm_campaign=903022&utm_source=habrahabr&utm_medium=rss)
 - [Участие компании «Нанософт» в бизнес-миссии РЭЦ в Индонезии](https://habr.com/ru/companies/nanosoft/news/902822/?utm_campaign=902822&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз SkyReels V2 — открытой модели для генерации видео по текстовому описанию](https://habr.com/ru/news/903008/?utm_campaign=903008&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из Tencent выпустили Hunyuan Portrait — нейросеть, которая анимирует портреты](https://habr.com/ru/news/902980/?utm_campaign=902980&utm_source=habrahabr&utm_medium=rss)
-- [Из пилота — в прод: GenAI-платформа SimpleOne была внедрена у лидеров рынка](https://habr.com/ru/companies/simpleone/news/902928/?utm_campaign=902928&utm_source=habrahabr&utm_medium=rss)
-- [ИРИ начал приём заявок на специальный конкурс для создателей инди‑игр](https://habr.com/ru/news/902920/?utm_campaign=902920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
