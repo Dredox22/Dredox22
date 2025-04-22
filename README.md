@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE закрыты. Паниковать не надо. Обновиться — да](https://habr.com/ru/companies/axiomjdk/news/903104/?utm_campaign=903104&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор зафиксировал сбой в работе иностранных мессенджеров в РФ, инцидент произошёл ночью с 21 на 22 апреля](https://habr.com/ru/news/903088/?utm_campaign=903088&utm_source=habrahabr&utm_medium=rss)
-- [Критическая уязвимость CVE-2025-32434 обнаружена в PyTorch](https://habr.com/ru/news/903078/?utm_campaign=903078&utm_source=habrahabr&utm_medium=rss)
-- [Американец подал в суд на Apple за отказ восстановить 2 ТБ данных в iCloud, утерянных после кражи iPhone](https://habr.com/ru/news/903046/?utm_campaign=903046&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: более 100 средних компаний оказались «зажаты» между ИИ-стартапами и техгигантами](https://habr.com/ru/news/903024/?utm_campaign=903024&utm_source=habrahabr&utm_medium=rss)
+- [YouTube Music теперь позволяет владельцам Android-устройств делиться текстами песен](https://habr.com/ru/news/903184/?utm_campaign=903184&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг РФ намерен ограничить параллельный импорт ноутбуков и серверов иностранных производителей HP и Fujitsu](https://habr.com/ru/news/903182/?utm_campaign=903182&utm_source=habrahabr&utm_medium=rss)
+- [29 апреля в Санкт-Петербурге пройдёт первая конференция Cyberwave 2025 по практической кибербезопасности](https://habr.com/ru/news/903166/?utm_campaign=903166&utm_source=habrahabr&utm_medium=rss)
+- [Подмороженные сливы: публичных утечек баз данных российских компаний стало меньше из-за блокировок в Telegram](https://habr.com/ru/companies/F6/news/903114/?utm_campaign=903114&utm_source=habrahabr&utm_medium=rss)
+- [Bethesda представит ремастер Oblivion в 18:00 МСК, вероятно игра выйдет уже сегодня](https://habr.com/ru/companies/ggsel/news/903146/?utm_campaign=903146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
