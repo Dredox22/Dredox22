@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Детектор сбоев Downdetector.su признал, что его бот «вырвался на свободу» и вызвал несуществующие пики сбоев](https://habr.com/ru/news/903320/?utm_campaign=903320&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры РФ, АБД и ИБ-рынок предлагают защитить расследующих утечки от уголовного преследования](https://habr.com/ru/news/903318/?utm_campaign=903318&utm_source=habrahabr&utm_medium=rss)
+- [QA-специалисты Garage Eight на SQA Days](https://habr.com/ru/companies/garage8/news/903304/?utm_campaign=903304&utm_source=habrahabr&utm_medium=rss)
 - [РКН призвал компании до 30 мая уведомить о любых утечках персональных данных, если они этого ещё не сделали](https://habr.com/ru/news/903268/?utm_campaign=903268&utm_source=habrahabr&utm_medium=rss)
 - [В «ВымпелКоме» назвали основную проблему импортозамещения оборудования связи операторского класса — нехватка ядра](https://habr.com/ru/news/903244/?utm_campaign=903244&utm_source=habrahabr&utm_medium=rss)
-- [Selectel выпустил бесплатный курс по Docker](https://habr.com/ru/companies/selectel/news/903226/?utm_campaign=903226&utm_source=habrahabr&utm_medium=rss)
-- [Представлен динамический SVG генератор глитч-эффектов с предварительным просмотром в реальном времени и настройкой](https://habr.com/ru/news/903218/?utm_campaign=903218&utm_source=habrahabr&utm_medium=rss)
-- [YouTube Music теперь позволяет владельцам Android-устройств делиться текстами песен](https://habr.com/ru/news/903184/?utm_campaign=903184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
