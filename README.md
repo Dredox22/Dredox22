@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН призвал компании до 30 мая уведомить о любых утечках персональных данных, если они этого ещё не сделали](https://habr.com/ru/news/903268/?utm_campaign=903268&utm_source=habrahabr&utm_medium=rss)
 - [В «ВымпелКоме» назвали основную проблему импортозамещения оборудования связи операторского класса — нехватка ядра](https://habr.com/ru/news/903244/?utm_campaign=903244&utm_source=habrahabr&utm_medium=rss)
 - [Selectel выпустил бесплатный курс по Docker](https://habr.com/ru/companies/selectel/news/903226/?utm_campaign=903226&utm_source=habrahabr&utm_medium=rss)
 - [Представлен динамический SVG генератор глитч-эффектов с предварительным просмотром в реальном времени и настройкой](https://habr.com/ru/news/903218/?utm_campaign=903218&utm_source=habrahabr&utm_medium=rss)
 - [YouTube Music теперь позволяет владельцам Android-устройств делиться текстами песен](https://habr.com/ru/news/903184/?utm_campaign=903184&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг РФ намерен ограничить параллельный импорт ноутбуков и серверов иностранных производителей HP и Fujitsu](https://habr.com/ru/news/903182/?utm_campaign=903182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
