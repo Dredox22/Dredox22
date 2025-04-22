@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «ВымпелКоме» назвали основную проблему импортозамещения оборудования связи операторского класса — нехватка ядра](https://habr.com/ru/news/903244/?utm_campaign=903244&utm_source=habrahabr&utm_medium=rss)
+- [Selectel выпустил бесплатный курс по Docker](https://habr.com/ru/companies/selectel/news/903226/?utm_campaign=903226&utm_source=habrahabr&utm_medium=rss)
+- [Представлен динамический SVG генератор глитч-эффектов с предварительным просмотром в реальном времени и настройкой](https://habr.com/ru/news/903218/?utm_campaign=903218&utm_source=habrahabr&utm_medium=rss)
 - [YouTube Music теперь позволяет владельцам Android-устройств делиться текстами песен](https://habr.com/ru/news/903184/?utm_campaign=903184&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг РФ намерен ограничить параллельный импорт ноутбуков и серверов иностранных производителей HP и Fujitsu](https://habr.com/ru/news/903182/?utm_campaign=903182&utm_source=habrahabr&utm_medium=rss)
-- [29 апреля в Санкт-Петербурге пройдёт первая конференция Cyberwave 2025 по практической кибербезопасности](https://habr.com/ru/news/903166/?utm_campaign=903166&utm_source=habrahabr&utm_medium=rss)
-- [Подмороженные сливы: публичных утечек баз данных российских компаний стало меньше из-за блокировок в Telegram](https://habr.com/ru/companies/F6/news/903114/?utm_campaign=903114&utm_source=habrahabr&utm_medium=rss)
-- [Bethesda представит ремастер Oblivion в 18:00 МСК, вероятно игра выйдет уже сегодня](https://habr.com/ru/companies/ggsel/news/903146/?utm_campaign=903146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
