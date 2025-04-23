@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЦБ РФ представил первый ренкинг банков по числу жалоб на кредитование](https://habr.com/ru/news/903730/?utm_campaign=903730&utm_source=habrahabr&utm_medium=rss)
+- [️️JetBrains схлопывает бесплатные продукты. PyCharm больше недоступен в РФ](https://habr.com/ru/companies/spring_aio/news/903718/?utm_campaign=903718&utm_source=habrahabr&utm_medium=rss)
 - [Kubernetes – это база… Или как 3 разработчика Spring-приложение деплоили](https://habr.com/ru/companies/haulmont/news/903694/?utm_campaign=903694&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte — серебряный партнер Russian Retail Show 2025](https://habr.com/ru/companies/glowbyte/news/903692/?utm_campaign=903692&utm_source=habrahabr&utm_medium=rss)
 - [В системе проверки УЦ SSL.com обнаружена уязвимость, позволявшая получить сертификат для чужого домена](https://habr.com/ru/news/903604/?utm_campaign=903604&utm_source=habrahabr&utm_medium=rss)
-- [GS Nanotech завершила корпусирование опытной партии сложных микросхем для Malt System](https://habr.com/ru/news/903658/?utm_campaign=903658&utm_source=habrahabr&utm_medium=rss)
-- [Bloomberg: Intel планирует уволить свыше 20% сотрудников](https://habr.com/ru/news/903648/?utm_campaign=903648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
