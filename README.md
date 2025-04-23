@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструментарий Tracer от VK по сбору и анализу ошибок стал доступен для «ОС Аврора»](https://habr.com/ru/news/903534/?utm_campaign=903534&utm_source=habrahabr&utm_medium=rss)
+- [Docker отказывается от виртуализации QEMU в Docker Desktop для Mac](https://habr.com/ru/news/903520/?utm_campaign=903520&utm_source=habrahabr&utm_medium=rss)
 - [Продукция Logitech подорожала до 25%](https://habr.com/ru/news/903418/?utm_campaign=903418&utm_source=habrahabr&utm_medium=rss)
 - [CyberCamp 2025 начал прием заявок на доклады по кибербезопасности](https://habr.com/ru/companies/jetinfosystems/news/903506/?utm_campaign=903506&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic: полноценные ИИ-сотрудники появятся через год](https://habr.com/ru/news/903484/?utm_campaign=903484&utm_source=habrahabr&utm_medium=rss)
-- [В RuStore назвали самые популярные приложения и игры у пользователей за первый квартал 2025 года](https://habr.com/ru/news/903494/?utm_campaign=903494&utm_source=habrahabr&utm_medium=rss)
-- [DUC meetup #1: приручаем Cilium и строим домашний LLM-кластер на Deckhouse](https://habr.com/ru/companies/flant/news/901444/?utm_campaign=901444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
