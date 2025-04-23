@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генеральный директор Discord уходит с поста, а заменит его бывший глава Candy Crush Saga](https://habr.com/ru/news/903798/?utm_campaign=903798&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» внедряет на заводах собственную безопасную беспроводную связь](https://habr.com/ru/news/903778/?utm_campaign=903778&utm_source=habrahabr&utm_medium=rss)
 - [«Comic Con Игромир» 2025 открыл продажу билетов](https://habr.com/ru/news/903776/?utm_campaign=903776&utm_source=habrahabr&utm_medium=rss)
 - [Представляю Vue DnD Kit: Новая библиотека для создания интерфейсов с перетаскиванием в Vue 3](https://habr.com/ru/news/902384/?utm_campaign=902384&utm_source=habrahabr&utm_medium=rss)
 - [OpenTofu стал проектом CNCF Sandbox](https://habr.com/ru/news/903754/?utm_campaign=903754&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ РФ представил первый ренкинг банков по числу жалоб на кредитование](https://habr.com/ru/news/903730/?utm_campaign=903730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
