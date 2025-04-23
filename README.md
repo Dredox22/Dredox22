@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Python подготовлены криптоалгоритмы с математическим доказательством надёжности](https://habr.com/ru/news/903486/?utm_campaign=903486&utm_source=habrahabr&utm_medium=rss)
+- [Курс Практикума по архитектуре ПО: добавили продвинутый тариф](https://habr.com/ru/companies/yandex_praktikum/news/903106/?utm_campaign=903106&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст хостит свой блог с помощью Nintendo Wii](https://habr.com/ru/news/903476/?utm_campaign=903476&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: блокировки учётных записей Entra вызваны ошибкой регистрации токенов пользователей](https://habr.com/ru/news/903464/?utm_campaign=903464&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Grok от xAI теперь может «видеть» окружающий мир](https://habr.com/ru/companies/bothub/news/903460/?utm_campaign=903460&utm_source=habrahabr&utm_medium=rss)
-- [Google OAuth используют в фишинг-атаках с повторным воспроизведением DKIM через no-reply@google.com](https://habr.com/ru/news/903456/?utm_campaign=903456&utm_source=habrahabr&utm_medium=rss)
-- [Вышел эмулятор QEMU 10.0](https://habr.com/ru/news/903442/?utm_campaign=903442&utm_source=habrahabr&utm_medium=rss)
-- [Apple убрала надпись «Доступно сейчас» &lpar;available now&rpar; на странице Apple Intelligence на своём сайте](https://habr.com/ru/news/903440/?utm_campaign=903440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
