@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [База оборудования компании «АИНДАСТРИАЛ» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/903610/?utm_campaign=903610&utm_source=habrahabr&utm_medium=rss)
+- [Образовательные приложения оказались в лидерах по числу критических уязвимостей среди приложений в сторах РФ в 2024 году](https://habr.com/ru/news/903596/?utm_campaign=903596&utm_source=habrahabr&utm_medium=rss)
+- [Как лидер логистической отрасли управляет ИТ-процессами: кейс FM Logistic. Вебинар](https://habr.com/ru/companies/simpleone/news/903594/?utm_campaign=903594&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mullvad Browser 14.5](https://habr.com/ru/news/903592/?utm_campaign=903592&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» представил на ExpoElectronica 2025 микросхему матричного приёмника фотоизображения и видеоизображения](https://habr.com/ru/news/903554/?utm_campaign=903554&utm_source=habrahabr&utm_medium=rss)
-- [Инструментарий Tracer от VK по сбору и анализу ошибок стал доступен для «ОС Аврора»](https://habr.com/ru/news/903534/?utm_campaign=903534&utm_source=habrahabr&utm_medium=rss)
-- [Docker отказывается от виртуализации QEMU в Docker Desktop для Mac](https://habr.com/ru/news/903520/?utm_campaign=903520&utm_source=habrahabr&utm_medium=rss)
-- [Продукция Logitech подорожала до 25%](https://habr.com/ru/news/903418/?utm_campaign=903418&utm_source=habrahabr&utm_medium=rss)
-- [CyberCamp 2025 начал прием заявок на доклады по кибербезопасности](https://habr.com/ru/companies/jetinfosystems/news/903506/?utm_campaign=903506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
