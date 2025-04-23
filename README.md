@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloomberg: Intel планирует уволить свыше 20% сотрудников](https://habr.com/ru/news/903648/?utm_campaign=903648&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» рассказала о фишинговой кибератаке с использованием SVG-файлов](https://habr.com/ru/news/903632/?utm_campaign=903632&utm_source=habrahabr&utm_medium=rss)
+- [ПАО «Элемент» анонсировало до конца 2025 года серийное производство блоков питания для серверов и систем связи](https://habr.com/ru/news/903628/?utm_campaign=903628&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «АИНДАСТРИАЛ» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/903610/?utm_campaign=903610&utm_source=habrahabr&utm_medium=rss)
 - [Образовательные приложения оказались в лидерах по числу критических уязвимостей среди приложений в сторах РФ в 2024 году](https://habr.com/ru/news/903596/?utm_campaign=903596&utm_source=habrahabr&utm_medium=rss)
-- [Как лидер логистической отрасли управляет ИТ-процессами: кейс FM Logistic. Вебинар](https://habr.com/ru/companies/simpleone/news/903594/?utm_campaign=903594&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mullvad Browser 14.5](https://habr.com/ru/news/903592/?utm_campaign=903592&utm_source=habrahabr&utm_medium=rss)
-- [«Микрон» представил на ExpoElectronica 2025 микросхему матричного приёмника фотоизображения и видеоизображения](https://habr.com/ru/news/903554/?utm_campaign=903554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
