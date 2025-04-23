@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Микрон» представил на ExpoElectronica 2025 микросхему матричного приёмника фотоизображения и видеоизображения](https://habr.com/ru/news/903554/?utm_campaign=903554&utm_source=habrahabr&utm_medium=rss)
 - [Инструментарий Tracer от VK по сбору и анализу ошибок стал доступен для «ОС Аврора»](https://habr.com/ru/news/903534/?utm_campaign=903534&utm_source=habrahabr&utm_medium=rss)
 - [Docker отказывается от виртуализации QEMU в Docker Desktop для Mac](https://habr.com/ru/news/903520/?utm_campaign=903520&utm_source=habrahabr&utm_medium=rss)
 - [Продукция Logitech подорожала до 25%](https://habr.com/ru/news/903418/?utm_campaign=903418&utm_source=habrahabr&utm_medium=rss)
 - [CyberCamp 2025 начал прием заявок на доклады по кибербезопасности](https://habr.com/ru/companies/jetinfosystems/news/903506/?utm_campaign=903506&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic: полноценные ИИ-сотрудники появятся через год](https://habr.com/ru/news/903484/?utm_campaign=903484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
