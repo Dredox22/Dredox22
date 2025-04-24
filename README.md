@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлены победители конкурса 10LINE BASIC 2025, в котором участники должны написать игру в 10 строках кода BASIC](https://habr.com/ru/news/904194/?utm_campaign=904194&utm_source=habrahabr&utm_medium=rss)
+- [ESPuno Pi Zero](https://habr.com/ru/news/904186/?utm_campaign=904186&utm_source=habrahabr&utm_medium=rss)
+- [Популярная библиотека регулярных выражений Oniguruma отправлена в архив на GitHub, проект «завершён»](https://habr.com/ru/news/904184/?utm_campaign=904184&utm_source=habrahabr&utm_medium=rss)
 - [В Nvidia Project G-Assist появился конструктов плагинов на базе ChatGPT](https://habr.com/ru/news/904170/?utm_campaign=904170&utm_source=habrahabr&utm_medium=rss)
-- [В DeviceHub от VK появилась поддержка iOS-устройств](https://habr.com/ru/news/904178/?utm_campaign=904178&utm_source=habrahabr&utm_medium=rss)
-- [Росреестр запустил мобильное приложение для граждан и кадастровых инженеров](https://habr.com/ru/news/904164/?utm_campaign=904164&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft теперь позволяет ссылаться на большие документы и целые папки в Word](https://habr.com/ru/news/904154/?utm_campaign=904154&utm_source=habrahabr&utm_medium=rss)
-- [Дайджест ключевых ИT-новостей из атомной отрасли за прошедшие недели:](https://habr.com/ru/companies/greenatom/news/904156/?utm_campaign=904156&utm_source=habrahabr&utm_medium=rss)
+- [В DeviceHub от «ВКонтакте» появилась поддержка iOS-устройств](https://habr.com/ru/news/904178/?utm_campaign=904178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
