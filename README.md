@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia G-Assist добавляет конструктор плагинов для создания собственных автоматизированных программ для ПК](https://habr.com/ru/companies/bothub/news/904128/?utm_campaign=904128&utm_source=habrahabr&utm_medium=rss)
+- [Взгляните на ГОСТ Р 71207—2024 о статическом анализе кода глазами разработчиков PVS-Studio](https://habr.com/ru/companies/pvs-studio/news/904098/?utm_campaign=904098&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft расширяет возможности Copilot: новые агенты и инструменты](https://habr.com/ru/companies/bothub/news/904112/?utm_campaign=904112&utm_source=habrahabr&utm_medium=rss)
+- [Рособрнадзор: утечка материалов ЕГЭ до начала экзамена невозможна](https://habr.com/ru/news/904106/?utm_campaign=904106&utm_source=habrahabr&utm_medium=rss)
 - [Финишная прямая: приступаем к испытаниям нашего спутника-платформы](https://habr.com/ru/companies/ruvds/news/903994/?utm_campaign=903994&utm_source=habrahabr&utm_medium=rss)
-- [51% всего мирового трафика в 2024 году приходилось на ботов](https://habr.com/ru/news/904062/?utm_campaign=904062&utm_source=habrahabr&utm_medium=rss)
-- [В России заместили электронные радиомодули для базовых станций, поставки которых прекратили Nokia, Ericsson и Huawei](https://habr.com/ru/news/904060/?utm_campaign=904060&utm_source=habrahabr&utm_medium=rss)
-- [У новых видеокарт Gigabyte GeForce RTX 5080 подтекает, вероятно, лишний термогель](https://habr.com/ru/news/903976/?utm_campaign=903976&utm_source=habrahabr&utm_medium=rss)
-- [Российский бизнес делает ставку на киберустойчивость — исследование «Инфосистемы Джет»](https://habr.com/ru/companies/jetinfosystems/news/904040/?utm_campaign=904040&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
