@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Южнокорейская SK Telecom предупредила о раскрытии данных USIM-карт клиентов после атаки](https://habr.com/ru/news/903930/?utm_campaign=903930&utm_source=habrahabr&utm_medium=rss)
+- [В Казани с большим успехом стартовал nanoДРАЙВ](https://habr.com/ru/companies/nanosoft/news/903932/?utm_campaign=903932&utm_source=habrahabr&utm_medium=rss)
+- [Десятки бесплатных проектов получили финансирование для восстановления публичной природы Интернета](https://habr.com/ru/news/903916/?utm_campaign=903916&utm_source=habrahabr&utm_medium=rss)
+- [Ubisoft и Immutable представили блокчейн-игру Might &amp;amp; Magic Fates](https://habr.com/ru/news/903910/?utm_campaign=903910&utm_source=habrahabr&utm_medium=rss)
 - [Samsung подала заявку на патент для сервисного робота, который сможет вызывать лифт или работать гидом в аэропорту](https://habr.com/ru/companies/onlinepatent/news/903898/?utm_campaign=903898&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome продолжит поддерживать сторонние файлы cookie](https://habr.com/ru/news/903888/?utm_campaign=903888&utm_source=habrahabr&utm_medium=rss)
-- [Команда Docker выпустила плагин Docker DX для VS Code](https://habr.com/ru/news/903890/?utm_campaign=903890&utm_source=habrahabr&utm_medium=rss)
-- [Как управлять ИТ-процессами в логистике: кейс FM Logistic. Вебинар](https://habr.com/ru/companies/simpleone/news/903886/?utm_campaign=903886&utm_source=habrahabr&utm_medium=rss)
-- [Реверс NFCGate: раскрыт новый способ бесконтактной кражи денег](https://habr.com/ru/companies/F6/news/903700/?utm_campaign=903700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
