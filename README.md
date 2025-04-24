@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Может ли ИИ приготовить курицу под open sauce? Узнаем в новом выпуске «Инфобеза со вкусом»](https://habr.com/ru/companies/gaz-is/news/904024/?utm_campaign=904024&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo попросила суд в Калифорнии заставить Discord раскрыть личность пользователя, ответственного за утечку Pokemon](https://habr.com/ru/news/904020/?utm_campaign=904020&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Банк» выпустил в App Store мобильное приложение финансового сервиса «Т-Инвестиции» под кодовым названием «Шах и мат»](https://habr.com/ru/news/903978/?utm_campaign=903978&utm_source=habrahabr&utm_medium=rss)
 - [Глава Минцифры РФ: работу мессенджеров в России запрещать не планируется](https://habr.com/ru/news/903960/?utm_campaign=903960&utm_source=habrahabr&utm_medium=rss)
 - [У игры «Сатурн» выходит первое платное дополнение «Осколки отражений»](https://habr.com/ru/news/903782/?utm_campaign=903782&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех и К2 Кибербезопасность запустили услугу по защите от вирусов-шифровальщиков](https://habr.com/ru/companies/k2tech/news/903954/?utm_campaign=903954&utm_source=habrahabr&utm_medium=rss)
-- [Конференция по робототехнике и искусственному интеллекту ROS Meetup 26 апреля 2025](https://habr.com/ru/companies/sberbank/news/903950/?utm_campaign=903950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
