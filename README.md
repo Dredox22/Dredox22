@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Финишная прямая: приступаем к испытаниям нашего спутника-платформы](https://habr.com/ru/companies/ruvds/news/903994/?utm_campaign=903994&utm_source=habrahabr&utm_medium=rss)
 - [51% всего мирового трафика в 2024 году приходилось на ботов](https://habr.com/ru/news/904062/?utm_campaign=904062&utm_source=habrahabr&utm_medium=rss)
 - [В России заместили электронные радиомодули для базовых станций, поставки которых прекратили Nokia, Ericsson и Huawei](https://habr.com/ru/news/904060/?utm_campaign=904060&utm_source=habrahabr&utm_medium=rss)
 - [У новых видеокарт Gigabyte GeForce RTX 5080 подтекает, вероятно, лишний термогель](https://habr.com/ru/news/903976/?utm_campaign=903976&utm_source=habrahabr&utm_medium=rss)
 - [Российский бизнес делает ставку на киберустойчивость — исследование «Инфосистемы Джет»](https://habr.com/ru/companies/jetinfosystems/news/904040/?utm_campaign=904040&utm_source=habrahabr&utm_medium=rss)
-- [Может ли ИИ приготовить курицу под open sauce? Узнаем в новом выпуске «Инфобеза со вкусом»](https://habr.com/ru/companies/gaz-is/news/904024/?utm_campaign=904024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
