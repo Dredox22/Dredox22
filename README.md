@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung подала заявку на патент для сервисного робота, который сможет вызывать лифт или работать гидом в аэропорту](https://habr.com/ru/companies/onlinepatent/news/903898/?utm_campaign=903898&utm_source=habrahabr&utm_medium=rss)
+- [Google Chrome продолжит поддерживать сторонние файлы cookie](https://habr.com/ru/news/903888/?utm_campaign=903888&utm_source=habrahabr&utm_medium=rss)
+- [Команда Docker выпустила плагин Docker DX для VS Code](https://habr.com/ru/news/903890/?utm_campaign=903890&utm_source=habrahabr&utm_medium=rss)
+- [Как управлять ИТ-процессами в логистике: кейс FM Logistic. Вебинар](https://habr.com/ru/companies/simpleone/news/903886/?utm_campaign=903886&utm_source=habrahabr&utm_medium=rss)
 - [Реверс NFCGate: раскрыт новый способ бесконтактной кражи денег](https://habr.com/ru/companies/F6/news/903700/?utm_campaign=903700&utm_source=habrahabr&utm_medium=rss)
-- [Представлена портативная консоль Figment для текстовых игр на электронных чернилах](https://habr.com/ru/news/903872/?utm_campaign=903872&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выплатила более $1,6 млн белым хакерам в рамках своего первого мероприятия по ИБ Zero Day Quest](https://habr.com/ru/news/903852/?utm_campaign=903852&utm_source=habrahabr&utm_medium=rss)
-- [Strava с помощью ИИ будет прогнозировать время забега пользователя](https://habr.com/ru/news/903818/?utm_campaign=903818&utm_source=habrahabr&utm_medium=rss)
-- [Вышел nginx 1.28](https://habr.com/ru/news/903816/?utm_campaign=903816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
