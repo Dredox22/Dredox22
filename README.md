@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Южнокорейская SK Telecom предупредила о раскрытии данных USIM-карт клиентов после атаки](https://habr.com/ru/news/903930/?utm_campaign=903930&utm_source=habrahabr&utm_medium=rss)
-- [В Казани с большим успехом стартовал nanoДРАЙВ](https://habr.com/ru/companies/nanosoft/news/903932/?utm_campaign=903932&utm_source=habrahabr&utm_medium=rss)
-- [Десятки бесплатных проектов получили финансирование для восстановления публичной природы Интернета](https://habr.com/ru/news/903916/?utm_campaign=903916&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft и Immutable представили блокчейн-игру Might &amp;amp; Magic Fates](https://habr.com/ru/news/903910/?utm_campaign=903910&utm_source=habrahabr&utm_medium=rss)
-- [Samsung подала заявку на патент для сервисного робота, который сможет вызывать лифт или работать гидом в аэропорту](https://habr.com/ru/companies/onlinepatent/news/903898/?utm_campaign=903898&utm_source=habrahabr&utm_medium=rss)
+- [Глава Минцифры РФ: работу мессенджеров в России запрещать не планируется](https://habr.com/ru/news/903960/?utm_campaign=903960&utm_source=habrahabr&utm_medium=rss)
+- [У игры «Сатурн» выходит первое платное дополнение «Осколки отражений»](https://habr.com/ru/news/903782/?utm_campaign=903782&utm_source=habrahabr&utm_medium=rss)
+- [К2Тех и К2 Кибербезопасность запустили услугу по защите от вирусов-шифровальщиков](https://habr.com/ru/companies/k2tech/news/903954/?utm_campaign=903954&utm_source=habrahabr&utm_medium=rss)
+- [Конференция по робототехнике и искусственному интеллекту ROS Meetup 26 апреля 2025](https://habr.com/ru/companies/sberbank/news/903950/?utm_campaign=903950&utm_source=habrahabr&utm_medium=rss)
+- [В Японии более 2,2 млн человек подали заявки на участие в лотерее за право оформить предзаказ на Nintendo Switch 2](https://habr.com/ru/news/903948/?utm_campaign=903948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
