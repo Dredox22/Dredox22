@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [51% всего мирового трафика в 2024 году приходилось на ботов](https://habr.com/ru/news/904062/?utm_campaign=904062&utm_source=habrahabr&utm_medium=rss)
+- [В России заместили электронные радиомодули для базовых станций, поставки которых прекратили Nokia, Ericsson и Huawei](https://habr.com/ru/news/904060/?utm_campaign=904060&utm_source=habrahabr&utm_medium=rss)
+- [У новых видеокарт Gigabyte GeForce RTX 5080 подтекает, вероятно, лишний термогель](https://habr.com/ru/news/903976/?utm_campaign=903976&utm_source=habrahabr&utm_medium=rss)
+- [Российский бизнес делает ставку на киберустойчивость — исследование «Инфосистемы Джет»](https://habr.com/ru/companies/jetinfosystems/news/904040/?utm_campaign=904040&utm_source=habrahabr&utm_medium=rss)
 - [Может ли ИИ приготовить курицу под open sauce? Узнаем в новом выпуске «Инфобеза со вкусом»](https://habr.com/ru/companies/gaz-is/news/904024/?utm_campaign=904024&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo попросила суд в Калифорнии заставить Discord раскрыть личность пользователя, ответственного за утечку Pokemon](https://habr.com/ru/news/904020/?utm_campaign=904020&utm_source=habrahabr&utm_medium=rss)
-- [«Т-Банк» выпустил в App Store мобильное приложение финансового сервиса «Т-Инвестиции» под кодовым названием «Шах и мат»](https://habr.com/ru/news/903978/?utm_campaign=903978&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минцифры РФ: работу мессенджеров в России запрещать не планируется](https://habr.com/ru/news/903960/?utm_campaign=903960&utm_source=habrahabr&utm_medium=rss)
-- [У игры «Сатурн» выходит первое платное дополнение «Осколки отражений»](https://habr.com/ru/news/903782/?utm_campaign=903782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
