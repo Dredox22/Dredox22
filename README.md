@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Nvidia Project G-Assist появился конструктов плагинов на базе ChatGPT](https://habr.com/ru/news/904170/?utm_campaign=904170&utm_source=habrahabr&utm_medium=rss)
+- [В DeviceHub от VK появилась поддержка iOS-устройств](https://habr.com/ru/news/904178/?utm_campaign=904178&utm_source=habrahabr&utm_medium=rss)
+- [Росреестр запустил мобильное приложение для граждан и кадастровых инженеров](https://habr.com/ru/news/904164/?utm_campaign=904164&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft теперь позволяет ссылаться на большие документы и целые папки в Word](https://habr.com/ru/news/904154/?utm_campaign=904154&utm_source=habrahabr&utm_medium=rss)
 - [Дайджест ключевых ИT-новостей из атомной отрасли за прошедшие недели:](https://habr.com/ru/companies/greenatom/news/904156/?utm_campaign=904156&utm_source=habrahabr&utm_medium=rss)
-- [Adobe выпускает новые модели создания изображений Firefly и обновлённое веб-приложение Firefly](https://habr.com/ru/companies/bothub/news/904136/?utm_campaign=904136&utm_source=habrahabr&utm_medium=rss)
-- [Steam упростит поиск игр, адаптированных для людей с особыми потребностями](https://habr.com/ru/news/904132/?utm_campaign=904132&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia G-Assist добавляет конструктор плагинов для создания собственных автоматизированных программ для ПК](https://habr.com/ru/companies/bothub/news/904128/?utm_campaign=904128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
