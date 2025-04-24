@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Реверс NFCGate: раскрыт новый способ бесконтактной кражи денег](https://habr.com/ru/companies/F6/news/903700/?utm_campaign=903700&utm_source=habrahabr&utm_medium=rss)
+- [Представлена портативная консоль Figment для текстовых игр на электронных чернилах](https://habr.com/ru/news/903872/?utm_campaign=903872&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выплатила более $1,6 млн белым хакерам в рамках своего первого мероприятия по ИБ Zero Day Quest](https://habr.com/ru/news/903852/?utm_campaign=903852&utm_source=habrahabr&utm_medium=rss)
 - [Strava с помощью ИИ будет прогнозировать время забега пользователя](https://habr.com/ru/news/903818/?utm_campaign=903818&utm_source=habrahabr&utm_medium=rss)
 - [Вышел nginx 1.28](https://habr.com/ru/news/903816/?utm_campaign=903816&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный директор Discord уходит с поста, а заменит его бывший глава Candy Crush Saga](https://habr.com/ru/news/903798/?utm_campaign=903798&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» внедряет на заводах собственную безопасную беспроводную связь](https://habr.com/ru/news/903778/?utm_campaign=903778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
