@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft теперь позволяет ссылаться на большие документы и целые папки в Word](https://habr.com/ru/news/904154/?utm_campaign=904154&utm_source=habrahabr&utm_medium=rss)
+- [Дайджест ключевых ИT-новостей из атомной отрасли за прошедшие недели:](https://habr.com/ru/companies/greenatom/news/904156/?utm_campaign=904156&utm_source=habrahabr&utm_medium=rss)
 - [Adobe выпускает новые модели создания изображений Firefly и обновлённое веб-приложение Firefly](https://habr.com/ru/companies/bothub/news/904136/?utm_campaign=904136&utm_source=habrahabr&utm_medium=rss)
 - [Steam упростит поиск игр, адаптированных для людей с особыми потребностями](https://habr.com/ru/news/904132/?utm_campaign=904132&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia G-Assist добавляет конструктор плагинов для создания собственных автоматизированных программ для ПК](https://habr.com/ru/companies/bothub/news/904128/?utm_campaign=904128&utm_source=habrahabr&utm_medium=rss)
-- [Взгляните на ГОСТ Р 71207—2024 о статическом анализе кода глазами разработчиков PVS-Studio](https://habr.com/ru/companies/pvs-studio/news/904098/?utm_campaign=904098&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft расширяет возможности Copilot: новые агенты и инструменты](https://habr.com/ru/companies/bothub/news/904112/?utm_campaign=904112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
