@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft удалит приложение Maps &lpar;Maps app&rpar; из Microsoft Store в июле 2025 года](https://habr.com/ru/news/904416/?utm_campaign=904416&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор с начала года заблокировал 167 сайтов и 978 каналов, распространявших личную информацию](https://habr.com/ru/news/904406/?utm_campaign=904406&utm_source=habrahabr&utm_medium=rss)
+- [Умные очки Android XR от Google с чат-ботом Gemini AI](https://habr.com/ru/news/904404/?utm_campaign=904404&utm_source=habrahabr&utm_medium=rss)
 - [Власти Китая запретили местным компаниям помогать Apple переносить производство в Индию](https://habr.com/ru/news/904394/?utm_campaign=904394&utm_source=habrahabr&utm_medium=rss)
 - [Следующим ремастером от Bethesda стоит ждать Fallout 3](https://habr.com/ru/companies/ggsel/news/904026/?utm_campaign=904026&utm_source=habrahabr&utm_medium=rss)
-- [Инсайд: iPad станет ещё больше похож на Mac, а iPhone с USB-C будет поддерживать внешние дисплеи](https://habr.com/ru/news/904370/?utm_campaign=904370&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс и НИЯУ МИФИ открыли набор в онлайн-магистратуру «Науки о данных и искусственный интеллект»](https://habr.com/ru/companies/yandex_praktikum/news/902720/?utm_campaign=902720&utm_source=habrahabr&utm_medium=rss)
-- [Запустили сертификацию для администраторов Deckhouse Kubernetes Platform](https://habr.com/ru/companies/flant/news/901640/?utm_campaign=901640&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
