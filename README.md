@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Zev — нейросетевая утилита, которая подскажет команду для терминала по её описанию](https://habr.com/ru/news/904480/?utm_campaign=904480&utm_source=habrahabr&utm_medium=rss)
+- [ДИТ Москвы: в столице появится информационная система обезличенных персональных данных жителей для обучения ИИ](https://habr.com/ru/news/904474/?utm_campaign=904474&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз российской среды разработки OpenIDE](https://habr.com/ru/news/904458/?utm_campaign=904458&utm_source=habrahabr&utm_medium=rss)
 - [В OpenIDE используется рантайм от Axiom JDK](https://habr.com/ru/companies/axiomjdk/news/904446/?utm_campaign=904446&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удалит приложение Maps &lpar;Maps app&rpar; из Microsoft Store в июле 2025 года](https://habr.com/ru/news/904416/?utm_campaign=904416&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор с начала года заблокировал 167 сайтов и 978 каналов, распространявших личную информацию](https://habr.com/ru/news/904406/?utm_campaign=904406&utm_source=habrahabr&utm_medium=rss)
-- [Умные очки Android XR от Google с чат-ботом Gemini AI](https://habr.com/ru/news/904404/?utm_campaign=904404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
