@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Т-банк призвал ЕБС и банки объединиться для борьбы с мошенничеством в области биометрии](https://habr.com/ru/news/904310/?utm_campaign=904310&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого каталогизатора домашней библиотеки MyLibrary 4.0](https://habr.com/ru/news/904288/?utm_campaign=904288&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила ошибку машинного обучения, помечающую электронные письма Adobe как спам](https://habr.com/ru/news/904274/?utm_campaign=904274&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 версии 25H2 выйдет в этом году](https://habr.com/ru/news/904270/?utm_campaign=904270&utm_source=habrahabr&utm_medium=rss)
 - [AMD опубликовала в общем доступе исходный код модуля ядра GIM для виртуализации GPU](https://habr.com/ru/news/904266/?utm_campaign=904266&utm_source=habrahabr&utm_medium=rss)
-- [Представлены победители конкурса 10LINE BASIC 2025, в котором участники должны написать игру в 10 строках кода BASIC](https://habr.com/ru/news/904194/?utm_campaign=904194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
