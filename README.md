@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опрос «Лаборатории Касперского»: каждый второй пользователь не может найти нужные файлы из-за цифрового бардака](https://habr.com/ru/news/904520/?utm_campaign=904520&utm_source=habrahabr&utm_medium=rss)
+- [Релиз свободного набора компиляторов GCC 15.1](https://habr.com/ru/news/904518/?utm_campaign=904518&utm_source=habrahabr&utm_medium=rss)
+- [ОМП рассказала о новых возможностях WebView в ОС «Аврора»](https://habr.com/ru/news/904504/?utm_campaign=904504&utm_source=habrahabr&utm_medium=rss)
+- [Firebird Conf 2025: конференция для разработчиков и администраторов СУБД](https://habr.com/ru/companies/redsoft/news/904502/?utm_campaign=904502&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Zev — нейросетевая утилита, которая подскажет команду для терминала по её описанию](https://habr.com/ru/news/904480/?utm_campaign=904480&utm_source=habrahabr&utm_medium=rss)
-- [ДИТ Москвы: в столице появится информационная система обезличенных персональных данных жителей для обучения ИИ](https://habr.com/ru/news/904474/?utm_campaign=904474&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз российской среды разработки OpenIDE](https://habr.com/ru/news/904458/?utm_campaign=904458&utm_source=habrahabr&utm_medium=rss)
-- [В OpenIDE используется рантайм от Axiom JDK](https://habr.com/ru/companies/axiomjdk/news/904446/?utm_campaign=904446&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалит приложение Maps &lpar;Maps app&rpar; из Microsoft Store в июле 2025 года](https://habr.com/ru/news/904416/?utm_campaign=904416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
