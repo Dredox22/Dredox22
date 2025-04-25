@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 версии 25H2 выйдет в этом году](https://habr.com/ru/news/904270/?utm_campaign=904270&utm_source=habrahabr&utm_medium=rss)
+- [AMD опубликовала в общем доступе исходный код модуля ядра GIM для виртуализации GPU](https://habr.com/ru/news/904266/?utm_campaign=904266&utm_source=habrahabr&utm_medium=rss)
 - [Представлены победители конкурса 10LINE BASIC 2025, в котором участники должны написать игру в 10 строках кода BASIC](https://habr.com/ru/news/904194/?utm_campaign=904194&utm_source=habrahabr&utm_medium=rss)
 - [ESPuno Pi Zero](https://habr.com/ru/news/904186/?utm_campaign=904186&utm_source=habrahabr&utm_medium=rss)
 - [Популярная библиотека регулярных выражений Oniguruma отправлена в архив на GitHub, проект «завершён»](https://habr.com/ru/news/904184/?utm_campaign=904184&utm_source=habrahabr&utm_medium=rss)
-- [В Nvidia Project G-Assist появился конструктов плагинов на базе ChatGPT](https://habr.com/ru/news/904170/?utm_campaign=904170&utm_source=habrahabr&utm_medium=rss)
-- [В DeviceHub от «ВКонтакте» появилась поддержка iOS-устройств](https://habr.com/ru/news/904178/?utm_campaign=904178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
