@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Власти Китая запретили местным компаниям помогать Apple переносить производство в Индию](https://habr.com/ru/news/904394/?utm_campaign=904394&utm_source=habrahabr&utm_medium=rss)
 - [Следующим ремастером от Bethesda стоит ждать Fallout 3](https://habr.com/ru/companies/ggsel/news/904026/?utm_campaign=904026&utm_source=habrahabr&utm_medium=rss)
 - [Инсайд: iPad станет ещё больше похож на Mac, а iPhone с USB-C будет поддерживать внешние дисплеи](https://habr.com/ru/news/904370/?utm_campaign=904370&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс и НИЯУ МИФИ открыли набор в онлайн-магистратуру «Науки о данных и искусственный интеллект»](https://habr.com/ru/companies/yandex_praktikum/news/902720/?utm_campaign=902720&utm_source=habrahabr&utm_medium=rss)
 - [Запустили сертификацию для администраторов Deckhouse Kubernetes Platform](https://habr.com/ru/companies/flant/news/901640/?utm_campaign=901640&utm_source=habrahabr&utm_medium=rss)
-- [Т-банк призвал ЕБС и банки объединиться для борьбы с мошенничеством в области биометрии](https://habr.com/ru/news/904310/?utm_campaign=904310&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
