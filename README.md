@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Darkglass Electronics представила гитарный процессор Anagram на базе Linux](https://habr.com/ru/news/904528/?utm_campaign=904528&utm_source=habrahabr&utm_medium=rss)
 - [Опрос «Лаборатории Касперского»: каждый второй пользователь не может найти нужные файлы из-за цифрового бардака](https://habr.com/ru/news/904520/?utm_campaign=904520&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного набора компиляторов GCC 15.1](https://habr.com/ru/news/904518/?utm_campaign=904518&utm_source=habrahabr&utm_medium=rss)
 - [ОМП рассказала о новых возможностях WebView в ОС «Аврора»](https://habr.com/ru/news/904504/?utm_campaign=904504&utm_source=habrahabr&utm_medium=rss)
 - [Firebird Conf 2025: конференция для разработчиков и администраторов СУБД](https://habr.com/ru/companies/redsoft/news/904502/?utm_campaign=904502&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Zev — нейросетевая утилита, которая подскажет команду для терминала по её описанию](https://habr.com/ru/news/904480/?utm_campaign=904480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
