@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Американские IT-гиганты регистрируют торговые знаки в РФ, а Samsung запатентовал робота-гида: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/904472/?utm_campaign=904472&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого редактора PhotoDemon 2025.4](https://habr.com/ru/news/904610/?utm_campaign=904610&utm_source=habrahabr&utm_medium=rss)
 - [В кинотеатрах AMC покажут фильм, «визуально дублированный» с помощью ИИ](https://habr.com/ru/companies/cloud4y/news/904094/?utm_campaign=904094&utm_source=habrahabr&utm_medium=rss)
 - [«Чинители прекрасного»: «Яндекс» провёл фестиваль для любителей железа](https://habr.com/ru/news/904562/?utm_campaign=904562&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры используют рабочие процессы OAuth 2.0 для взлома учётных записей Microsoft 365](https://habr.com/ru/news/904588/?utm_campaign=904588&utm_source=habrahabr&utm_medium=rss)
-- [Голосовой ввод в Windows 11 позволит отключать фильтр ненормативной лексики](https://habr.com/ru/news/904582/?utm_campaign=904582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
