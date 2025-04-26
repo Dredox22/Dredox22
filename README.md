@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Qmmp 2.2.5 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/904684/?utm_campaign=904684&utm_source=habrahabr&utm_medium=rss)
+- [Keycloak стал доступен как сервис в Amvera Cloud](https://habr.com/ru/companies/amvera/news/904326/?utm_campaign=904326&utm_source=habrahabr&utm_medium=rss)
 - [Приложение для мониторинга сотрудников WorkComposer допустило утечку 21 млн скриншотов сотрудников различных компаний](https://habr.com/ru/news/904652/?utm_campaign=904652&utm_source=habrahabr&utm_medium=rss)
 - [Счётная палата США: поиск на основе ИИ тратит более 4 млн литров воды в день](https://habr.com/ru/news/904646/?utm_campaign=904646&utm_source=habrahabr&utm_medium=rss)
 - [Американские IT-гиганты регистрируют торговые знаки в РФ, а Samsung запатентовал робота-гида: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/904472/?utm_campaign=904472&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого редактора PhotoDemon 2025.4 на Visual Basic 6.0](https://habr.com/ru/news/904610/?utm_campaign=904610&utm_source=habrahabr&utm_medium=rss)
-- [В кинотеатрах AMC покажут фильм, «визуально дублированный» с помощью ИИ](https://habr.com/ru/companies/cloud4y/news/904094/?utm_campaign=904094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
