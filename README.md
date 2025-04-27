@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance представила систему DreamActor-M1: управление мимикой и движениями в видео](https://habr.com/ru/companies/bothub/news/904806/?utm_campaign=904806&utm_source=habrahabr&utm_medium=rss)
 - [Метки классификации данных для Gmail вышли из стадии открытой бета-версии](https://habr.com/ru/news/904776/?utm_campaign=904776&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество разработчиков Debian выбрало нового лидера проекта на год в рамках DPL 2025 &lpar;Debian Project Leader&rpar;](https://habr.com/ru/news/904782/?utm_campaign=904782&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo, HP и Dell планируют расширить производство в Саудовской Аравии из-за пошлин США против Китая](https://habr.com/ru/news/904780/?utm_campaign=904780&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запускает Recall и поиск Windows на базе ИИ для ПК Copilot Plus](https://habr.com/ru/news/904768/?utm_campaign=904768&utm_source=habrahabr&utm_medium=rss)
-- [Тим Кейн: Interplay заставила меня уничтожить все материалы Fallout, а потом потеряла их сама](https://habr.com/ru/news/904770/?utm_campaign=904770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
