@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Верховный суд РФ признал ничтожным договор на кредит, оформленный мошенниками через приложение банка](https://habr.com/ru/news/904902/?utm_campaign=904902&utm_source=habrahabr&utm_medium=rss)
+- [Cisco: в ПО коммутаторов и маршрутизаторов компании присутствует критическая уязвимость в SSH-сервере из Erlang/OTP](https://habr.com/ru/news/904900/?utm_campaign=904900&utm_source=habrahabr&utm_medium=rss)
+- [Представлена открытая утилита Path для работы с путями в Windows и Linux](https://habr.com/ru/news/904890/?utm_campaign=904890&utm_source=habrahabr&utm_medium=rss)
 - [Google бесплатно заменит вздувшийся аккумулятор Pixel 7a или выплатит $200, но не в России](https://habr.com/ru/news/904874/?utm_campaign=904874&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пообещала выпустить патч против бага с увеличением нагрузки на процессор до 50% при наборе текста в Outlook](https://habr.com/ru/news/904866/?utm_campaign=904866&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Google: работники могут сэкономить до 122 часов в год, используя ИИ для выполнения административных задач](https://habr.com/ru/news/904858/?utm_campaign=904858&utm_source=habrahabr&utm_medium=rss)
-- [Asus выпустила исправление ошибки в ПО Baseboard Management Controller, которая позволяла выводить из строя серверы](https://habr.com/ru/news/904854/?utm_campaign=904854&utm_source=habrahabr&utm_medium=rss)
-- [Moonshot AI представляет Kimi-VL: мощную модель ИИ для обработки текста, изображений и видео](https://habr.com/ru/companies/bothub/news/904836/?utm_campaign=904836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
