@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonshot AI представляет Kimi-VL: мощную модель ИИ для обработки текста, изображений и видео](https://habr.com/ru/companies/bothub/news/904836/?utm_campaign=904836&utm_source=habrahabr&utm_medium=rss)
+- [Космолама: Meta* и Booz Allen Hamilton запустили языковую модель Llama на МКС](https://habr.com/ru/news/904832/?utm_campaign=904832&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT получает обновление: OpenAI обещает более интуитивно понятный GPT-4o](https://habr.com/ru/companies/bothub/news/904814/?utm_campaign=904814&utm_source=habrahabr&utm_medium=rss)
 - [Новые модели Baidu Ernie конкурируют с Deepseek и OpenAI по сверхнизким ценам](https://habr.com/ru/companies/bothub/news/904812/?utm_campaign=904812&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance представила систему DreamActor-M1: управление мимикой и движениями в видео](https://habr.com/ru/companies/bothub/news/904806/?utm_campaign=904806&utm_source=habrahabr&utm_medium=rss)
-- [Метки классификации данных для Gmail вышли из стадии открытой бета-версии](https://habr.com/ru/news/904776/?utm_campaign=904776&utm_source=habrahabr&utm_medium=rss)
-- [Сообщество разработчиков Debian выбрало нового лидера проекта на год в рамках DPL 2025 &lpar;Debian Project Leader&rpar;](https://habr.com/ru/news/904782/?utm_campaign=904782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
