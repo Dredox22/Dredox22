@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft сделала рекламу при помощи генеративного ИИ, и никто этого не заметил](https://habr.com/ru/companies/bothub/news/905032/?utm_campaign=905032&utm_source=habrahabr&utm_medium=rss)
+- [Региональные операторы: увеличились случаи срезания проводов, подвешенных на опорах ЛЭП для подключения частных домов](https://habr.com/ru/news/905022/?utm_campaign=905022&utm_source=habrahabr&utm_medium=rss)
+- [SECURITM: автоматизация расчётов по требованиям 3-МР для кредитных организаций](https://habr.com/ru/news/904010/?utm_campaign=904010&utm_source=habrahabr&utm_medium=rss)
 - [Firefox наконец-то возвращает поддержку веб-приложений](https://habr.com/ru/companies/cloud4y/news/904260/?utm_campaign=904260&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft переносит больше элементов панели управления в приложение «Параметры» в Windows 11](https://habr.com/ru/news/904990/?utm_campaign=904990&utm_source=habrahabr&utm_medium=rss)
-- [Brave открыла код инструмента для блокировки cookie с помощью LLM](https://habr.com/ru/news/904988/?utm_campaign=904988&utm_source=habrahabr&utm_medium=rss)
-- [Микросервисная архитектура: новый курс в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/903094/?utm_campaign=903094&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи утверждают, что они обнаружили причину, по которой многие используют Google почти для всех поисков в сети](https://habr.com/ru/news/904996/?utm_campaign=904996&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
