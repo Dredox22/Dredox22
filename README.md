@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство РФ планирует установить уголовную ответственность для дропперов](https://habr.com/ru/news/905204/?utm_campaign=905204&utm_source=habrahabr&utm_medium=rss)
+- [Релиз qBittorrent 5.1](https://habr.com/ru/news/905192/?utm_campaign=905192&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/905200/?utm_campaign=905200&utm_source=habrahabr&utm_medium=rss)
+- [ПАО «Элемент» объявила финансовые результаты по МСФО за 2024 год](https://habr.com/ru/news/905184/?utm_campaign=905184&utm_source=habrahabr&utm_medium=rss)
 - [Вышли обновления Guardant SLK 4.3](https://habr.com/ru/companies/aktiv-company/news/905158/?utm_campaign=905158&utm_source=habrahabr&utm_medium=rss)
-- [IntelliJ IDEAConf 2025: Индустрия развивается — а мы следим за всем](https://habr.com/ru/companies/spring_aio/news/905136/?utm_campaign=905136&utm_source=habrahabr&utm_medium=rss)
-- [«Бештау Электроникс» подтвердила Максиму Горшенину, что часть мониторов «Бештау» 2023 г.в. имели дефектные конденсаторы](https://habr.com/ru/news/905134/?utm_campaign=905134&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenBSD 7.7](https://habr.com/ru/news/905128/?utm_campaign=905128&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Браузер» научился передавать оригинальные голоса и интонации при переводе видео](https://habr.com/ru/news/905118/?utm_campaign=905118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
