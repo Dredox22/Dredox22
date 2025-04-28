@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Канадский университет отменил конкурс по программированию из-за мошенничества студентов с использованием ИИ](https://habr.com/ru/news/904968/?utm_campaign=904968&utm_source=habrahabr&utm_medium=rss)
-- [Релиз свободного проекта для создания музыкальных миксов Mixxx 2.5.1](https://habr.com/ru/news/904966/?utm_campaign=904966&utm_source=habrahabr&utm_medium=rss)
-- [Администрация имиджборда 4chan раскрыла причину взлома ресурса и приняла меры по улучшению защиты площадки](https://habr.com/ru/news/904962/?utm_campaign=904962&utm_source=habrahabr&utm_medium=rss)
-- [Верховный суд РФ признал ничтожным договор на кредит, оформленный мошенниками через приложение банка](https://habr.com/ru/news/904902/?utm_campaign=904902&utm_source=habrahabr&utm_medium=rss)
-- [Cisco: в ПО коммутаторов и маршрутизаторов компании присутствует критическая уязвимость в SSH-сервере из Erlang/OTP](https://habr.com/ru/news/904900/?utm_campaign=904900&utm_source=habrahabr&utm_medium=rss)
+- [Микросервисная архитектура: новый курс в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/903094/?utm_campaign=903094&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи утверждают, что они обнаружили причину, по которой многие используют Google почти для всех поисков в сети](https://habr.com/ru/news/904996/?utm_campaign=904996&utm_source=habrahabr&utm_medium=rss)
+- [Стартап создал систему связи для передачи данных через лёд или бетон](https://habr.com/ru/news/904986/?utm_campaign=904986&utm_source=habrahabr&utm_medium=rss)
+- [Lenovo обходит «налог на Windows» с ноутбуками с предустановленным Linux](https://habr.com/ru/news/904982/?utm_campaign=904982&utm_source=habrahabr&utm_medium=rss)
+- [nanoДРАЙВ в Тюмени: топливо для цифрового строительства](https://habr.com/ru/companies/nanosoft/news/904794/?utm_campaign=904794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
