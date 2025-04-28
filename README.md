@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Thomson выпустила копию снятого с производства Chromecast с Google TV](https://habr.com/ru/news/905066/?utm_campaign=905066&utm_source=habrahabr&utm_medium=rss)
-- [Лаборатория R&amp;amp;D РТК-ЦОД стала лучшей по версии «ЦОДы.РФ»](https://habr.com/ru/companies/rt-dc/news/905058/?utm_campaign=905058&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сделала рекламу при помощи генеративного ИИ, и никто этого не заметил](https://habr.com/ru/companies/bothub/news/905032/?utm_campaign=905032&utm_source=habrahabr&utm_medium=rss)
-- [Региональные операторы: увеличились случаи срезания проводов, подвешенных на опорах ЛЭП для подключения частных домов](https://habr.com/ru/news/905022/?utm_campaign=905022&utm_source=habrahabr&utm_medium=rss)
-- [Firefox наконец-то возвращает поддержку веб-приложений](https://habr.com/ru/companies/cloud4y/news/904260/?utm_campaign=904260&utm_source=habrahabr&utm_medium=rss)
+- [Вышли обновления Guardant SLK 4.3](https://habr.com/ru/companies/aktiv-company/news/905158/?utm_campaign=905158&utm_source=habrahabr&utm_medium=rss)
+- [IntelliJ IDEAConf 2025: Индустрия развивается — а мы следим за всем](https://habr.com/ru/companies/spring_aio/news/905136/?utm_campaign=905136&utm_source=habrahabr&utm_medium=rss)
+- [«Бештау Электроникс» подтвердила Максиму Горшенину, что часть мониторов «Бештау» 2023 г.в. имели дефектные конденсаторы](https://habr.com/ru/news/905134/?utm_campaign=905134&utm_source=habrahabr&utm_medium=rss)
+- [Релиз OpenBSD 7.7](https://habr.com/ru/news/905128/?utm_campaign=905128&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Браузер» научился передавать оригинальные голоса и интонации при переводе видео](https://habr.com/ru/news/905118/?utm_campaign=905118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
