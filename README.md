@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox наконец-то возвращает поддержку веб-приложений](https://habr.com/ru/companies/cloud4y/news/904260/?utm_campaign=904260&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft переносит больше элементов панели управления в приложение «Параметры» в Windows 11](https://habr.com/ru/news/904990/?utm_campaign=904990&utm_source=habrahabr&utm_medium=rss)
+- [Brave открыла код инструмента для блокировки cookie с помощью LLM](https://habr.com/ru/news/904988/?utm_campaign=904988&utm_source=habrahabr&utm_medium=rss)
 - [Микросервисная архитектура: новый курс в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/903094/?utm_campaign=903094&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи утверждают, что они обнаружили причину, по которой многие используют Google почти для всех поисков в сети](https://habr.com/ru/news/904996/?utm_campaign=904996&utm_source=habrahabr&utm_medium=rss)
-- [Стартап создал систему связи для передачи данных через лёд или бетон](https://habr.com/ru/news/904986/?utm_campaign=904986&utm_source=habrahabr&utm_medium=rss)
-- [Lenovo обходит «налог на Windows» с ноутбуками с предустановленным Linux](https://habr.com/ru/news/904982/?utm_campaign=904982&utm_source=habrahabr&utm_medium=rss)
-- [nanoДРАЙВ в Тюмени: топливо для цифрового строительства](https://habr.com/ru/companies/nanosoft/news/904794/?utm_campaign=904794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
