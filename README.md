@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Thomson выпустила копию снятого с производства Chromecast с Google TV](https://habr.com/ru/news/905066/?utm_campaign=905066&utm_source=habrahabr&utm_medium=rss)
+- [Лаборатория R&amp;amp;D РТК-ЦОД стала лучшей по версии «ЦОДы.РФ»](https://habr.com/ru/companies/rt-dc/news/905058/?utm_campaign=905058&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сделала рекламу при помощи генеративного ИИ, и никто этого не заметил](https://habr.com/ru/companies/bothub/news/905032/?utm_campaign=905032&utm_source=habrahabr&utm_medium=rss)
 - [Региональные операторы: увеличились случаи срезания проводов, подвешенных на опорах ЛЭП для подключения частных домов](https://habr.com/ru/news/905022/?utm_campaign=905022&utm_source=habrahabr&utm_medium=rss)
-- [SECURITM: автоматизация расчётов по требованиям 3-МР для кредитных организаций](https://habr.com/ru/news/904010/?utm_campaign=904010&utm_source=habrahabr&utm_medium=rss)
 - [Firefox наконец-то возвращает поддержку веб-приложений](https://habr.com/ru/companies/cloud4y/news/904260/?utm_campaign=904260&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft переносит больше элементов панели управления в приложение «Параметры» в Windows 11](https://habr.com/ru/news/904990/?utm_campaign=904990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
