@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Канадский университет отменил конкурс по программированию из-за мошенничества студентов с использованием ИИ](https://habr.com/ru/news/904968/?utm_campaign=904968&utm_source=habrahabr&utm_medium=rss)
+- [Релиз свободного проекта для создания музыкальных миксов Mixxx 2.5.1](https://habr.com/ru/news/904966/?utm_campaign=904966&utm_source=habrahabr&utm_medium=rss)
 - [Администрация имиджборда 4chan раскрыла причину взлома ресурса и приняла меры по улучшению защиты площадки](https://habr.com/ru/news/904962/?utm_campaign=904962&utm_source=habrahabr&utm_medium=rss)
 - [Верховный суд РФ признал ничтожным договор на кредит, оформленный мошенниками через приложение банка](https://habr.com/ru/news/904902/?utm_campaign=904902&utm_source=habrahabr&utm_medium=rss)
 - [Cisco: в ПО коммутаторов и маршрутизаторов компании присутствует критическая уязвимость в SSH-сервере из Erlang/OTP](https://habr.com/ru/news/904900/?utm_campaign=904900&utm_source=habrahabr&utm_medium=rss)
-- [Представлена открытая утилита Path для работы с путями в Windows и Linux](https://habr.com/ru/news/904890/?utm_campaign=904890&utm_source=habrahabr&utm_medium=rss)
-- [Google бесплатно заменит вздувшийся аккумулятор Pixel 7a или выплатит $200, но не в России](https://habr.com/ru/news/904874/?utm_campaign=904874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
