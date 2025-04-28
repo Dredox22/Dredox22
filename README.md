@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гринатом представил кейс внедрения собственного генеративного ассистента – «Атом.Зая»](https://habr.com/ru/companies/greenatom/news/905230/?utm_campaign=905230&utm_source=habrahabr&utm_medium=rss)
 - [Медицинские, образовательные и IT-компании России подписали Кодекс этики в сфере ИИ](https://habr.com/ru/news/905214/?utm_campaign=905214&utm_source=habrahabr&utm_medium=rss)
 - [Правительство РФ планирует установить уголовную ответственность для дропперов](https://habr.com/ru/news/905204/?utm_campaign=905204&utm_source=habrahabr&utm_medium=rss)
 - [Релиз qBittorrent 5.1](https://habr.com/ru/news/905192/?utm_campaign=905192&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/905200/?utm_campaign=905200&utm_source=habrahabr&utm_medium=rss)
-- [ПАО «Элемент» объявила финансовые результаты по МСФО за 2024 год](https://habr.com/ru/news/905184/?utm_campaign=905184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
