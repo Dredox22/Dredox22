@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft советует пользователям старых ПК с Windows 10 купить ПК с Windows 11 и Copilot+ AI, потому что он лучше](https://habr.com/ru/news/905358/?utm_campaign=905358&utm_source=habrahabr&utm_medium=rss)
+- [Kali Linux предупредила пользователей о сбоях обновления из-за утерянного ключа подписи репозитория](https://habr.com/ru/news/905350/?utm_campaign=905350&utm_source=habrahabr&utm_medium=rss)
+- [nanoДРАЙВ Санкт-Петербург: 500 участников, мосты и облака точек](https://habr.com/ru/companies/nanosoft/news/904984/?utm_campaign=904984&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Firefox 138.0](https://habr.com/ru/news/905344/?utm_campaign=905344&utm_source=habrahabr&utm_medium=rss)
 - [Вышел 4MLinux 48.0](https://habr.com/ru/news/905330/?utm_campaign=905330&utm_source=habrahabr&utm_medium=rss)
-- [Журналисты Wall Street Journal уличили цифровых компаньонов Meta¹ в непристойном поведении](https://habr.com/ru/news/905328/?utm_campaign=905328&utm_source=habrahabr&utm_medium=rss)
-- [Чат-бот Perplexity стал доступен в WhatsApp](https://habr.com/ru/news/905316/?utm_campaign=905316&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Dewin выпустили DeepWiki — сервис, который превращает GitHub-репозитории в подробную документацию](https://habr.com/ru/news/905312/?utm_campaign=905312&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Lately — планировщик поездок для тех, кто часто опаздывает](https://habr.com/ru/news/905306/?utm_campaign=905306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
