@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ФБР предложило до $10 млн за информацию о членах китайской хакерской группе Salt Typhoon](https://habr.com/ru/news/905616/?utm_campaign=905616&utm_source=habrahabr&utm_medium=rss)
 - [Компания, созданная российскими IT‑инвесторами, планирует заняться производством промконтроллеров на базе пензенской ЭМА](https://habr.com/ru/news/905602/?utm_campaign=905602&utm_source=habrahabr&utm_medium=rss)
 - [DARPA планирует «дать толчок математическим инновациям с помощью ИИ» в рамках проекта expMath](https://habr.com/ru/news/905588/?utm_campaign=905588&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic Economic Index: как ИИ трансформирует работу разработчиков](https://habr.com/ru/news/905580/?utm_campaign=905580&utm_source=habrahabr&utm_medium=rss)
 - [Обновление JetBrains AI: новый тариф, поддержка MCP и поиск в Интернете](https://habr.com/ru/news/905522/?utm_campaign=905522&utm_source=habrahabr&utm_medium=rss)
-- [В ReactOS появилась поддержка графических ускорителей 3dfx Voodoo 4/5](https://habr.com/ru/news/905516/?utm_campaign=905516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
