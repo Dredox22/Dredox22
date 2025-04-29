@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [За ближайшие пять лет IBM инвестирует $150 млрд в техсектор США](https://habr.com/ru/news/905464/?utm_campaign=905464&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект отдельного процессора под названием PyXL для выполнения байткода Python](https://habr.com/ru/news/905458/?utm_campaign=905458&utm_source=habrahabr&utm_medium=rss)
 - [Системный дизайн умирает, интервьюеры страдают, OpenIDE набирает обороты | Spring АйО Подкаст №16](https://habr.com/ru/companies/spring_aio/news/905422/?utm_campaign=905422&utm_source=habrahabr&utm_medium=rss)
 - [Открыт набор в онлайн-магистратуру «Кибербезопасность» от Яндекса и НИЯУ МИФИ](https://habr.com/ru/companies/yandex_praktikum/news/902730/?utm_campaign=902730&utm_source=habrahabr&utm_medium=rss)
 - [Перед 9 Мая мошенники запустили инвестскам от имени фонда «Защитники Отечества»](https://habr.com/ru/companies/F6/news/905378/?utm_campaign=905378&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл фонд технологических инициатив под названием Yet Another Tech Fund](https://habr.com/ru/news/905372/?utm_campaign=905372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
