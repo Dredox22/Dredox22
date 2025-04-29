@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Чат-бот Perplexity стал доступен в WhatsApp](https://habr.com/ru/news/905316/?utm_campaign=905316&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Dewin выпустили DeepWiki — сервис, который превращает GitHub-репозитории в подробную документацию](https://habr.com/ru/news/905312/?utm_campaign=905312&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Lately — планировщик поездок для тех, кто часто опаздывает](https://habr.com/ru/news/905306/?utm_campaign=905306&utm_source=habrahabr&utm_medium=rss)
 - [Сайты библиотек РГБ и НЭБ перестали работать, срок восстановления неизвестен](https://habr.com/ru/news/905304/?utm_campaign=905304&utm_source=habrahabr&utm_medium=rss)
 - [Гринатом представил кейс внедрения собственного генеративного ассистента – «Атом.Зая»](https://habr.com/ru/companies/greenatom/news/905230/?utm_campaign=905230&utm_source=habrahabr&utm_medium=rss)
-- [Медицинские, образовательные и IT-компании России подписали Кодекс этики в сфере ИИ](https://habr.com/ru/news/905214/?utm_campaign=905214&utm_source=habrahabr&utm_medium=rss)
-- [Правительство РФ планирует установить уголовную ответственность для дропперов](https://habr.com/ru/news/905204/?utm_campaign=905204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
