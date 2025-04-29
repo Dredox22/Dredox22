@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел 4MLinux 48.0](https://habr.com/ru/news/905330/?utm_campaign=905330&utm_source=habrahabr&utm_medium=rss)
 - [Журналисты Wall Street Journal уличили цифровых компаньонов Meta¹ в непристойном поведении](https://habr.com/ru/news/905328/?utm_campaign=905328&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Perplexity стал доступен в WhatsApp](https://habr.com/ru/news/905316/?utm_campaign=905316&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Dewin выпустили DeepWiki — сервис, который превращает GitHub-репозитории в подробную документацию](https://habr.com/ru/news/905312/?utm_campaign=905312&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Lately — планировщик поездок для тех, кто часто опаздывает](https://habr.com/ru/news/905306/?utm_campaign=905306&utm_source=habrahabr&utm_medium=rss)
-- [Сайты библиотек РГБ и НЭБ перестали работать, срок восстановления неизвестен](https://habr.com/ru/news/905304/?utm_campaign=905304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
