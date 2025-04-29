@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft советует пользователям старых ПК с Windows 10 купить ПК с Windows 11 и Copilot+ AI, потому что он лучше](https://habr.com/ru/news/905358/?utm_campaign=905358&utm_source=habrahabr&utm_medium=rss)
-- [Kali Linux предупредила пользователей о сбоях обновления из-за утерянного ключа подписи репозитория](https://habr.com/ru/news/905350/?utm_campaign=905350&utm_source=habrahabr&utm_medium=rss)
-- [nanoДРАЙВ Санкт-Петербург: 500 участников, мосты и облака точек](https://habr.com/ru/companies/nanosoft/news/904984/?utm_campaign=904984&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 138.0](https://habr.com/ru/news/905344/?utm_campaign=905344&utm_source=habrahabr&utm_medium=rss)
-- [Вышел 4MLinux 48.0](https://habr.com/ru/news/905330/?utm_campaign=905330&utm_source=habrahabr&utm_medium=rss)
+- [Перед 9 Мая мошенники запустили инвестскам от имени фонда «Защитники Отечества»](https://habr.com/ru/companies/F6/news/905378/?utm_campaign=905378&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» поделился опытом цифровой трансформации на Канцлер Day в Беларуси](https://habr.com/ru/companies/greenatom/news/905336/?utm_campaign=905336&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл фонд технологических инициатив под названием Yet Another Tech Fund](https://habr.com/ru/news/905372/?utm_campaign=905372&utm_source=habrahabr&utm_medium=rss)
+- [Инструкция: как отключить Recall в Windows 11](https://habr.com/ru/news/905364/?utm_campaign=905364&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволит редактировать несколько листов одновременно в Excel для Mac](https://habr.com/ru/news/905354/?utm_campaign=905354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
