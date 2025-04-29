@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Economic Index: как ИИ трансформируют работу разработчиков](https://habr.com/ru/news/905580/?utm_campaign=905580&utm_source=habrahabr&utm_medium=rss)
 - [Обновление JetBrains AI: новый тариф, поддержка MCP и поиск в Интернете](https://habr.com/ru/news/905522/?utm_campaign=905522&utm_source=habrahabr&utm_medium=rss)
 - [В ReactOS появилась поддержка графических ускорителей 3dfx Voodoo 4/5](https://habr.com/ru/news/905516/?utm_campaign=905516&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Милуоки рассматривает возможность обмена миллионами фотографий за бесплатный доступ к системе распознавания лиц](https://habr.com/ru/news/905494/?utm_campaign=905494&utm_source=habrahabr&utm_medium=rss)
 - [За ближайшие пять лет IBM инвестирует $150 млрд в техсектор США](https://habr.com/ru/news/905464/?utm_campaign=905464&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект отдельного процессора под названием PyXL для выполнения байткода Python](https://habr.com/ru/news/905458/?utm_campaign=905458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
