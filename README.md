@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Системный дизайн умирает, интервьюеры страдают, OpenIDE набирает обороты | Spring АйО Подкаст №16](https://habr.com/ru/companies/spring_aio/news/905422/?utm_campaign=905422&utm_source=habrahabr&utm_medium=rss)
+- [Открыт набор в онлайн-магистратуру «Кибербезопасность» от Яндекса и НИЯУ МИФИ](https://habr.com/ru/companies/yandex_praktikum/news/902730/?utm_campaign=902730&utm_source=habrahabr&utm_medium=rss)
 - [Перед 9 Мая мошенники запустили инвестскам от имени фонда «Защитники Отечества»](https://habr.com/ru/companies/F6/news/905378/?utm_campaign=905378&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» поделился опытом цифровой трансформации на Канцлер Day в Беларуси](https://habr.com/ru/companies/greenatom/news/905336/?utm_campaign=905336&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл фонд технологических инициатив под названием Yet Another Tech Fund](https://habr.com/ru/news/905372/?utm_campaign=905372&utm_source=habrahabr&utm_medium=rss)
 - [Инструкция: как отключить Recall в Windows 11](https://habr.com/ru/news/905364/?utm_campaign=905364&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft позволит редактировать несколько листов одновременно в Excel для Mac](https://habr.com/ru/news/905354/?utm_campaign=905354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
