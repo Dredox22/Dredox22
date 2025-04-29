@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Экс-работник Disney получил 3 года тюрьмы и штраф в $688 тыс. за атаки на систему меню ресторанов в Walt Disney World](https://habr.com/ru/news/905664/?utm_campaign=905664&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект со схемами и моделями машинного обучения человекоподобного робота Berkeley Humanoid Lite](https://habr.com/ru/news/905654/?utm_campaign=905654&utm_source=habrahabr&utm_medium=rss)
 - [Киберпреступники слили в сеть более 31 000 паролей клиентов австралийских банков](https://habr.com/ru/news/905634/?utm_campaign=905634&utm_source=habrahabr&utm_medium=rss)
 - [ФБР предложило до $10 млн за информацию о членах китайской хакерской группе Salt Typhoon](https://habr.com/ru/news/905616/?utm_campaign=905616&utm_source=habrahabr&utm_medium=rss)
 - [Компания, созданная российскими IT‑инвесторами, планирует заняться производством промконтроллеров на базе пензенской ЭМА](https://habr.com/ru/news/905602/?utm_campaign=905602&utm_source=habrahabr&utm_medium=rss)
-- [DARPA планирует «дать толчок математическим инновациям с помощью ИИ» в рамках проекта expMath](https://habr.com/ru/news/905588/?utm_campaign=905588&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic Economic Index: как ИИ трансформирует работу разработчиков](https://habr.com/ru/news/905580/?utm_campaign=905580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
