@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta* и её стратегия в сфере ИИ: вызов OpenAI и продвижение открытых моделей](https://habr.com/ru/companies/bothub/news/905752/?utm_campaign=905752&utm_source=habrahabr&utm_medium=rss)
-- [Freepik выпускает «открытый» генератор изображений ИИ, обученный на лицензионных данных](https://habr.com/ru/companies/bothub/news/905748/?utm_campaign=905748&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Linux In Excel через макрос VBA](https://habr.com/ru/news/905744/?utm_campaign=905744&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mozilla Thunderbird 138.0](https://habr.com/ru/news/905742/?utm_campaign=905742&utm_source=habrahabr&utm_medium=rss)
-- [Вышла pad.ws — бесконечная доска для программистов со встроенным редактором кода и терминалом](https://habr.com/ru/news/905730/?utm_campaign=905730&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик Screen Studio потерял $8 тысяч из-за ошибки в строке кода](https://habr.com/ru/news/905770/?utm_campaign=905770&utm_source=habrahabr&utm_medium=rss)
+- [EA увольняет сотни сотрудников и отменяет игру Titanfall](https://habr.com/ru/news/905778/?utm_campaign=905778&utm_source=habrahabr&utm_medium=rss)
+- [Южнокорейская SK Telecom бесплатно заменит SIM-карты 25 млн абонентов после утечки данных USIM](https://habr.com/ru/news/905762/?utm_campaign=905762&utm_source=habrahabr&utm_medium=rss)
+- [Смартфоны Samsung хранят скопированные пароли из буфера обмена в открытом виде](https://habr.com/ru/news/905758/?utm_campaign=905758&utm_source=habrahabr&utm_medium=rss)
+- [Протестируйте TDMS Фарватер Web – новую систему для организации документооборота и управления средой общих данных](https://habr.com/ru/companies/nanosoft/news/904796/?utm_campaign=904796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
