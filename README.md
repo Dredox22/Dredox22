@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat отказывается от упрощенного дизайна из-за потери пользователей в Северной Америке](https://habr.com/ru/news/906106/?utm_campaign=906106&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты показали изменения системного промпта, призванные избавить ChatGPT от излишней лести](https://habr.com/ru/news/906100/?utm_campaign=906100&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp работает над приватным чатом с искусственным интеллектом](https://habr.com/ru/news/906098/?utm_campaign=906098&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: написанный ИИ код представляет серьёзную опасность из-за несуществующих библиотек](https://habr.com/ru/news/906096/?utm_campaign=906096&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo Switch получила масштабное обновление 20.0.0](https://habr.com/ru/news/905974/?utm_campaign=905974&utm_source=habrahabr&utm_medium=rss)
-- [Тайвань законодательно ограничил вывоз передовых чип‑технологий за рубеж](https://habr.com/ru/news/906064/?utm_campaign=906064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
