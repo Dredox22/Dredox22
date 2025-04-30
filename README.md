@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры РФ предложило правила для подписей звонков от компаний и ИП](https://habr.com/ru/news/906026/?utm_campaign=906026&utm_source=habrahabr&utm_medium=rss)
 - [Хакатоны.рус перешли на платформу для разработки GitVerse от СберТеха](https://habr.com/ru/news/906000/?utm_campaign=906000&utm_source=habrahabr&utm_medium=rss)
 - [One Day Offer от VK. Go-разработчики, go к нам в команду](https://habr.com/ru/companies/vk/news/905998/?utm_campaign=905998&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил сайт с миллионом шахматных онлайн-досок](https://habr.com/ru/news/905960/?utm_campaign=905960&utm_source=habrahabr&utm_medium=rss)
 - [Группировка Hive0117 провела масштабную фишинговую кампанию с использованием ВПО DarkWatchman](https://habr.com/ru/companies/F6/news/905930/?utm_campaign=905930&utm_source=habrahabr&utm_medium=rss)
-- [Мягкий робот, напоминающий виноградную лозу, помогает спасателям находить выживших](https://habr.com/ru/news/905918/?utm_campaign=905918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
