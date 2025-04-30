@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi выпустила MiMo — открытую языковую модель с функцией рассуждения](https://habr.com/ru/news/905890/?utm_campaign=905890&utm_source=habrahabr&utm_medium=rss)
 - [Представитель ВШЭ: преподавателей нужно учить работать с ИИ, а студенты переписывают за ИИ большую часть учебного текста](https://habr.com/ru/news/905872/?utm_campaign=905872&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Маркете» появился нейроассистент, который помогает выбирать и сравнивать товары](https://habr.com/ru/news/905852/?utm_campaign=905852&utm_source=habrahabr&utm_medium=rss)
 - [ОС Аврора – как работать: Usetech mobile meetup #4](https://habr.com/ru/companies/usetech/news/905834/?utm_campaign=905834&utm_source=habrahabr&utm_medium=rss)
 - [Mastercard позволит ИИ-агентам совершать покупки онлайн и платежи от имени потребителей](https://habr.com/ru/news/905788/?utm_campaign=905788&utm_source=habrahabr&utm_medium=rss)
-- [Google планирует добавить в архив резервной копии устройства Android данные о SIM-картах](https://habr.com/ru/news/905782/?utm_campaign=905782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
