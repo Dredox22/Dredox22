@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиасты показали изменения системного промпта, призванные избавить ChatGPT от излишней лести](https://habr.com/ru/news/906100/?utm_campaign=906100&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp работает над приватным чатом с искусственным интеллектом](https://habr.com/ru/news/906098/?utm_campaign=906098&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: написанный ИИ код представляет серьёзную опасность из-за несуществующих библиотек](https://habr.com/ru/news/906096/?utm_campaign=906096&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo Switch получила масштабное обновление 20.0.0](https://habr.com/ru/news/905974/?utm_campaign=905974&utm_source=habrahabr&utm_medium=rss)
 - [Тайвань законодательно ограничил вывоз передовых чип‑технологий за рубеж](https://habr.com/ru/news/906064/?utm_campaign=906064&utm_source=habrahabr&utm_medium=rss)
-- [Количество приложений в Google Play упало почти вдвое с начала 2024 года](https://habr.com/ru/news/906060/?utm_campaign=906060&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ предложило правила для подписей звонков от компаний и ИП](https://habr.com/ru/news/906026/?utm_campaign=906026&utm_source=habrahabr&utm_medium=rss)
-- [Хакатоны.рус перешли на платформу для разработки GitVerse от СберТеха](https://habr.com/ru/news/906000/?utm_campaign=906000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
