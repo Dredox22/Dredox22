@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ОС Аврора – как работать: Usetech mobile meetup #4](https://habr.com/ru/companies/usetech/news/905834/?utm_campaign=905834&utm_source=habrahabr&utm_medium=rss)
+- [Mastercard позволит ИИ-агентам совершать покупки онлайн и платежи от имени потребителей](https://habr.com/ru/news/905788/?utm_campaign=905788&utm_source=habrahabr&utm_medium=rss)
 - [Google планирует добавить в архив резервной копии устройства Android данные о SIM-картах](https://habr.com/ru/news/905782/?utm_campaign=905782&utm_source=habrahabr&utm_medium=rss)
 - [Платформа контейнеризации dBrain проходит сертификацию ФСТЭК](https://habr.com/ru/companies/dbraincloud/news/905796/?utm_campaign=905796&utm_source=habrahabr&utm_medium=rss)
 - [Производители электроники в РФ предложили Минпромторгу запретить госзакупки иностранных ПК, серверов и планшетов](https://habr.com/ru/news/905798/?utm_campaign=905798&utm_source=habrahabr&utm_medium=rss)
-- [Стартапы запустили проекты для выявления случаев использования Cluely](https://habr.com/ru/news/905774/?utm_campaign=905774&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Screen Studio потерял $8 тысяч из-за ошибки в строке кода](https://habr.com/ru/news/905770/?utm_campaign=905770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
