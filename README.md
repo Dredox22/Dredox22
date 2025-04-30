@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* и её стратегия в сфере ИИ: вызов OpenAI и продвижение открытых моделей](https://habr.com/ru/companies/bothub/news/905752/?utm_campaign=905752&utm_source=habrahabr&utm_medium=rss)
+- [Freepik выпускает «открытый» генератор изображений ИИ, обученный на лицензионных данных](https://habr.com/ru/companies/bothub/news/905748/?utm_campaign=905748&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект Linux In Excel через макрос VBA](https://habr.com/ru/news/905744/?utm_campaign=905744&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 138.0](https://habr.com/ru/news/905742/?utm_campaign=905742&utm_source=habrahabr&utm_medium=rss)
 - [Вышла pad.ws — бесконечная доска для программистов со встроенным редактором кода и терминалом](https://habr.com/ru/news/905730/?utm_campaign=905730&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из Стэнфорда представили FramePack — локальную систему генерации видео на потребительских видеокартах](https://habr.com/ru/news/905712/?utm_campaign=905712&utm_source=habrahabr&utm_medium=rss)
-- [«Октава ДМ» анонсировала новый беспроводной микрофон «Жук»](https://habr.com/ru/news/905676/?utm_campaign=905676&utm_source=habrahabr&utm_medium=rss)
-- [Экс-работник Disney получил 3 года тюрьмы и штраф в $688 тыс. за атаки на систему меню ресторанов в Walt Disney World](https://habr.com/ru/news/905664/?utm_campaign=905664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
