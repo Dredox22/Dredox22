@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Апрельское обновление Telegram: групповые звонки без добавления пользователей в чат и автоматизированные бизнес-аккаунты](https://habr.com/ru/news/906342/?utm_campaign=906342&utm_source=habrahabr&utm_medium=rss)
 - [Представлен AdGuard v1.0 для Linux](https://habr.com/ru/news/906294/?utm_campaign=906294&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила Phi-4 — семейство компактных рассуждающих языковых моделей с открытым исходным кодом](https://habr.com/ru/news/906334/?utm_campaign=906334&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных курсов и занятий, которые можно пройти на майских выходных](https://habr.com/ru/companies/netologyru/news/905946/?utm_campaign=905946&utm_source=habrahabr&utm_medium=rss)
 - [Битемап-шутер Kiborg от российских разработчиков вышел на всех платформах](https://habr.com/ru/news/906300/?utm_campaign=906300&utm_source=habrahabr&utm_medium=rss)
-- [Студия Nival официально выложила на GitHub исходный код своей стратегии про Вторую Мировую войну Блицкриг &lpar;Blitzkrieg&rpar;](https://habr.com/ru/news/906276/?utm_campaign=906276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
