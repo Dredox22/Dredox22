@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила Phi-4 — семейство компактных рассуждающих языковых моделей с открытым исходным кодом](https://habr.com/ru/news/906334/?utm_campaign=906334&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных курсов и занятий, которые можно пройти на майских выходных](https://habr.com/ru/companies/netologyru/news/905946/?utm_campaign=905946&utm_source=habrahabr&utm_medium=rss)
 - [Битемап-шутер Kiborg от российских разработчиков вышел на всех платформах](https://habr.com/ru/news/906300/?utm_campaign=906300&utm_source=habrahabr&utm_medium=rss)
 - [Студия Nival официально выложила на GitHub исходный код своей стратегии про Вторую Мировую войну Блицкриг &lpar;Blitzkrieg&rpar;](https://habr.com/ru/news/906276/?utm_campaign=906276&utm_source=habrahabr&utm_medium=rss)
 - [Сайты на геодоменах типа *.spb.ru с SSL от CloudFlare постепенно один за другим становятся недоступны по HTTPS](https://habr.com/ru/news/906270/?utm_campaign=906270&utm_source=habrahabr&utm_medium=rss)
-- [Игра «Бессмертный. Сказки Старой Руси» выходит в Epic Games Store и получила большой патч](https://habr.com/ru/news/906254/?utm_campaign=906254&utm_source=habrahabr&utm_medium=rss)
-- [BBC использовала дипфейк Агаты Кристи для преподавания курса писательского мастерства](https://habr.com/ru/news/906228/?utm_campaign=906228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
