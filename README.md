@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Игра «Бессмертный. Сказки Старой Руси» выходит в Epic Games Store и получила большой патч](https://habr.com/ru/news/906254/?utm_campaign=906254&utm_source=habrahabr&utm_medium=rss)
 - [BBC использовала дипфейк Агаты Кристи для преподавания курса писательского мастерства](https://habr.com/ru/news/906228/?utm_campaign=906228&utm_source=habrahabr&utm_medium=rss)
 - [Spotify по DMCA потребовал убрать расширение для браузера по обходу защиты и загрузки треков SpotifyDL](https://habr.com/ru/news/906188/?utm_campaign=906188&utm_source=habrahabr&utm_medium=rss)
 - [Windows RDP позволяет входить в систему по отозванному паролю, Microsoft это устраивает, в компании не считают это багом](https://habr.com/ru/news/906174/?utm_campaign=906174&utm_source=habrahabr&utm_medium=rss)
 - [«Байкал Электроникс»: компания ввезла в РФ 85 тыс. процессоров Baikal-T, Baikal-M и Baikal-S, в производстве Baikal-MCU](https://habr.com/ru/news/906170/?utm_campaign=906170&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 136](https://habr.com/ru/news/906164/?utm_campaign=906164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
