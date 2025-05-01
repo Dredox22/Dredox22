@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Байкал Электроникс»: компания ввезла в РФ 85 тыс. процессоров Baikal-T, Baikal-M и Baikal-S, в производстве Baikal-MCU](https://habr.com/ru/news/906170/?utm_campaign=906170&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 136](https://habr.com/ru/news/906164/?utm_campaign=906164&utm_source=habrahabr&utm_medium=rss)
 - [Raycast выпустила приложение для iOS](https://habr.com/ru/news/906134/?utm_campaign=906134&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains открыла код Mellum — компактной языковой модели для завершения кода](https://habr.com/ru/news/906128/?utm_campaign=906128&utm_source=habrahabr&utm_medium=rss)
 - [Snapchat отказывается от упрощенного дизайна из-за потери пользователей в Северной Америке](https://habr.com/ru/news/906106/?utm_campaign=906106&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты показали изменения системного промпта, призванные избавить ChatGPT от излишней лести](https://habr.com/ru/news/906100/?utm_campaign=906100&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp работает над приватным чатом с искусственным интеллектом](https://habr.com/ru/news/906098/?utm_campaign=906098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
