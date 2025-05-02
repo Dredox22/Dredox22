@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [EA объявила о приостановке работы над раллийными симуляторами](https://habr.com/ru/news/906476/?utm_campaign=906476&utm_source=habrahabr&utm_medium=rss)
 - [Новая небольшая модель искусственного интеллекта Ai2 превосходит аналогичные по размеру модели от Google и Meta*](https://habr.com/ru/companies/bothub/news/906430/?utm_campaign=906430&utm_source=habrahabr&utm_medium=rss)
 - [Релиз BitTorrent-клиента Deluge 2.2](https://habr.com/ru/news/906418/?utm_campaign=906418&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry сократила возвраты своей продукции на 50% из-за способа пайки контактов](https://habr.com/ru/news/906404/?utm_campaign=906404&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Windows 11 теряют данные из-за принудительного шифрования BitLocker от Microsoft](https://habr.com/ru/news/906402/?utm_campaign=906402&utm_source=habrahabr&utm_medium=rss)
-- [Intel опубликовала в открытом доступе исходный код проекта AI Flame Graphs](https://habr.com/ru/news/906400/?utm_campaign=906400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
