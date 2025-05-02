@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel опубликовала в открытом доступе исходный код проекта AI Flame Graphs](https://habr.com/ru/news/906400/?utm_campaign=906400&utm_source=habrahabr&utm_medium=rss)
 - [Canonical объявила кодовое имя Ubuntu 25.10 — Questing Quokka &lpar;Ищущая Квокка&rpar;](https://habr.com/ru/news/906394/?utm_campaign=906394&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tails 6.15](https://habr.com/ru/news/906358/?utm_campaign=906358&utm_source=habrahabr&utm_medium=rss)
 - [Redis возвращается к open source — теперь под лицензией AGPLv3](https://habr.com/ru/news/906386/?utm_campaign=906386&utm_source=habrahabr&utm_medium=rss)
 - [Апрельское обновление Telegram: групповые звонки без добавления пользователей в чат и автоматизированные бизнес-аккаунты](https://habr.com/ru/news/906342/?utm_campaign=906342&utm_source=habrahabr&utm_medium=rss)
-- [Представлен AdGuard v1.0 для Linux](https://habr.com/ru/news/906294/?utm_campaign=906294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
