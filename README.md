@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз BitTorrent-клиента Deluge 2.2](https://habr.com/ru/news/906418/?utm_campaign=906418&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry сократила возвраты своей продукции на 50% из-за способа пайки контактов](https://habr.com/ru/news/906404/?utm_campaign=906404&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Windows 11 теряют данные из-за принудительного шифрования BitLocker от Microsoft](https://habr.com/ru/news/906402/?utm_campaign=906402&utm_source=habrahabr&utm_medium=rss)
 - [Intel опубликовала в открытом доступе исходный код проекта AI Flame Graphs](https://habr.com/ru/news/906400/?utm_campaign=906400&utm_source=habrahabr&utm_medium=rss)
 - [Canonical объявила кодовое имя Ubuntu 25.10 — Questing Quokka &lpar;Ищущая Квокка&rpar;](https://habr.com/ru/news/906394/?utm_campaign=906394&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Tails 6.15](https://habr.com/ru/news/906358/?utm_campaign=906358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
