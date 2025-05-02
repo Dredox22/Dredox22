@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ресурс End of 10 информирует пользователей старых ПК с Windows 10, что переход на Linux им поможет на долгие годы](https://habr.com/ru/news/906492/?utm_campaign=906492&utm_source=habrahabr&utm_medium=rss)
+- [GTA 6 перенесли на 2026 год](https://habr.com/ru/companies/ggsel/news/906486/?utm_campaign=906486&utm_source=habrahabr&utm_medium=rss)
 - [Rockstar: GTA VI выйдет 26 мая следующего года](https://habr.com/ru/news/906478/?utm_campaign=906478&utm_source=habrahabr&utm_medium=rss)
 - [EA объявила о приостановке работы над раллийными симуляторами](https://habr.com/ru/news/906476/?utm_campaign=906476&utm_source=habrahabr&utm_medium=rss)
 - [Новая небольшая модель искусственного интеллекта Ai2 превосходит аналогичные по размеру модели от Google и Meta*](https://habr.com/ru/companies/bothub/news/906430/?utm_campaign=906430&utm_source=habrahabr&utm_medium=rss)
-- [Релиз BitTorrent-клиента Deluge 2.2](https://habr.com/ru/news/906418/?utm_campaign=906418&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry сократила возвраты своей продукции на 50% из-за способа пайки контактов](https://habr.com/ru/news/906404/?utm_campaign=906404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
