@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого инструментария MediaInfo 25.04 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/906506/?utm_campaign=906506&utm_source=habrahabr&utm_medium=rss)
 - [Японское приложение для знакомств будет проверять, находятся ли пользователи в браке](https://habr.com/ru/news/906524/?utm_campaign=906524&utm_source=habrahabr&utm_medium=rss)
 - [В Google Voice появилась поддержка трёхсторонних звонков](https://habr.com/ru/news/906508/?utm_campaign=906508&utm_source=habrahabr&utm_medium=rss)
 - [Ресурс End of 10 информирует пользователей старых ПК с Windows 10, что переход на Linux им поможет на долгие годы](https://habr.com/ru/news/906492/?utm_campaign=906492&utm_source=habrahabr&utm_medium=rss)
 - [GTA 6 перенесли на 2026 год](https://habr.com/ru/companies/ggsel/news/906486/?utm_campaign=906486&utm_source=habrahabr&utm_medium=rss)
-- [Rockstar: GTA VI выйдет 26 мая следующего года](https://habr.com/ru/news/906478/?utm_campaign=906478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
