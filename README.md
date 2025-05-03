@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен AnduinOS 1.3 — дистрибутив Linux с поддержкой GNOME 48 и HDR, который выглядит как Windows 11](https://habr.com/ru/news/906616/?utm_campaign=906616&utm_source=habrahabr&utm_medium=rss)
 - [Lyft запустил опцию Lyft Silver для пожилых пассажиров с новым дизайном приложения](https://habr.com/ru/news/906580/?utm_campaign=906580&utm_source=habrahabr&utm_medium=rss)
 - [Хакер NullBulge в США признал себя виновным в краже данных Disney в Slack](https://habr.com/ru/news/906576/?utm_campaign=906576&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.7](https://habr.com/ru/news/906572/?utm_campaign=906572&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор ЕС оштрафовал TikTok на €530 млн за передачу данных пользователей в Китай](https://habr.com/ru/news/906556/?utm_campaign=906556&utm_source=habrahabr&utm_medium=rss)
-- [Apple работает с Anthropic над инструментом кодирования с помощью ИИ для Xcode](https://habr.com/ru/news/906554/?utm_campaign=906554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
