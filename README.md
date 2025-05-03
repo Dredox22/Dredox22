@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple работает с Anthropic над инструментом кодирования с помощью ИИ для Xcode](https://habr.com/ru/news/906554/?utm_campaign=906554&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила ошибку Exchange Online, из-за которой письма Gmail помечались как спам](https://habr.com/ru/news/906548/?utm_campaign=906548&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla: Firefox прекратит существование без поддержки Google](https://habr.com/ru/news/906546/?utm_campaign=906546&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик переделал свой личный сайт на версию с интерфейсом в стиле TTY](https://habr.com/ru/news/906542/?utm_campaign=906542&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария MediaInfo 25.04 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/906506/?utm_campaign=906506&utm_source=habrahabr&utm_medium=rss)
-- [Японское приложение для знакомств будет проверять, находятся ли пользователи в браке](https://habr.com/ru/news/906524/?utm_campaign=906524&utm_source=habrahabr&utm_medium=rss)
-- [В Google Voice появилась поддержка трёхсторонних звонков](https://habr.com/ru/news/906508/?utm_campaign=906508&utm_source=habrahabr&utm_medium=rss)
-- [Ресурс End of 10 информирует пользователей старых ПК с Windows 10, что переход на Linux им поможет на долгие годы](https://habr.com/ru/news/906492/?utm_campaign=906492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
