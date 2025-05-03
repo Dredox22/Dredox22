@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Wine 10.7](https://habr.com/ru/news/906572/?utm_campaign=906572&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор ЕС оштрафовал TikTok на €530 млн за передачу данных пользователей в Китай](https://habr.com/ru/news/906556/?utm_campaign=906556&utm_source=habrahabr&utm_medium=rss)
 - [Apple работает с Anthropic над инструментом кодирования с помощью ИИ для Xcode](https://habr.com/ru/news/906554/?utm_campaign=906554&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила ошибку Exchange Online, из-за которой письма Gmail помечались как спам](https://habr.com/ru/news/906548/?utm_campaign=906548&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla: Firefox прекратит существование без поддержки Google](https://habr.com/ru/news/906546/?utm_campaign=906546&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик переделал свой личный сайт на версию с интерфейсом в стиле TTY](https://habr.com/ru/news/906542/?utm_campaign=906542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
