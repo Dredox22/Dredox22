@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi хочет создать альтернативу Android без Google](https://habr.com/ru/news/906764/?utm_campaign=906764&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики ядра Linux решились на удаление поддержки процессоров i486](https://habr.com/ru/news/906760/?utm_campaign=906760&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость CVE-2024–6198 в модемах Viasat позволяет взломать устройство](https://habr.com/ru/news/906748/?utm_campaign=906748&utm_source=habrahabr&utm_medium=rss)
 - [Espressif’s ESP32-C5](https://habr.com/ru/news/906722/?utm_campaign=906722&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сделает новые учётные записи беспарольными по умолчанию](https://habr.com/ru/news/906718/?utm_campaign=906718&utm_source=habrahabr&utm_medium=rss)
-- [Представлен прототип робота для разгрузки ящиков весом до 85 кг](https://habr.com/ru/news/906710/?utm_campaign=906710&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован исходный код QModem 4.51, телекоммуникационной программы для MS-DOS](https://habr.com/ru/news/906688/?utm_campaign=906688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
