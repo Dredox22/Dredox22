@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован исходный код QModem 4.51, телекоммуникационной программы для MS-DOS](https://habr.com/ru/news/906688/?utm_campaign=906688&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект epub-utils — это библиотека на Python для работы с файлами EPUB](https://habr.com/ru/news/906684/?utm_campaign=906684&utm_source=habrahabr&utm_medium=rss)
 - [Статья про архитектурный репозиторий в git на базе PlantUML вошла в шорт-лист конкурса «Технотекст»](https://habr.com/ru/companies/rshb/news/906656/?utm_campaign=906656&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой утилиты BleachBit 5.0.0 для очистки дисков от ненужных файлов и увеличения производительности ОС](https://habr.com/ru/news/906644/?utm_campaign=906644&utm_source=habrahabr&utm_medium=rss)
 - [Представлен AnduinOS 1.3 — дистрибутив Linux с поддержкой GNOME 48 и HDR, который выглядит как Windows 11](https://habr.com/ru/news/906616/?utm_campaign=906616&utm_source=habrahabr&utm_medium=rss)
-- [Lyft запустил опцию Lyft Silver для пожилых пассажиров с новым дизайном приложения](https://habr.com/ru/news/906580/?utm_campaign=906580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
