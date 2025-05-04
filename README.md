@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект epub-utils — это библиотека на Python для работы с файлами EPUB](https://habr.com/ru/news/906684/?utm_campaign=906684&utm_source=habrahabr&utm_medium=rss)
+- [Статья про архитектурный репозиторий в git на базе PlantUML вошла в шорт-лист конкурса «Технотекст»](https://habr.com/ru/companies/rshb/news/906656/?utm_campaign=906656&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой утилиты BleachBit 5.0.0 для очистки дисков от ненужных файлов и увеличения производительности ОС](https://habr.com/ru/news/906644/?utm_campaign=906644&utm_source=habrahabr&utm_medium=rss)
 - [Представлен AnduinOS 1.3 — дистрибутив Linux с поддержкой GNOME 48 и HDR, который выглядит как Windows 11](https://habr.com/ru/news/906616/?utm_campaign=906616&utm_source=habrahabr&utm_medium=rss)
 - [Lyft запустил опцию Lyft Silver для пожилых пассажиров с новым дизайном приложения](https://habr.com/ru/news/906580/?utm_campaign=906580&utm_source=habrahabr&utm_medium=rss)
-- [Хакер NullBulge в США признал себя виновным в краже данных Disney в Slack](https://habr.com/ru/news/906576/?utm_campaign=906576&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wine 10.7](https://habr.com/ru/news/906572/?utm_campaign=906572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
