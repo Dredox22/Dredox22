@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СЕО Windsurf: вайб-кодинг поможет крупным компаниям нанимать больше инженеров для развития проектов](https://habr.com/ru/news/906886/?utm_campaign=906886&utm_source=habrahabr&utm_medium=rss)
+- [Компании в РФ дополнительно инвестируют в ИБ-решения до 47 млрд рублей в 2025 году и до 58 млрд рублей в 2026 году](https://habr.com/ru/news/906892/?utm_campaign=906892&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft убирает менеджер паролей в Authenticator для перевода всех пользователей в Edge](https://habr.com/ru/news/906880/?utm_campaign=906880&utm_source=habrahabr&utm_medium=rss)
 - [Представлена ИИ-модель, вдохновлённая нейронными колебаниями в мозге человека](https://habr.com/ru/news/906876/?utm_campaign=906876&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит новую страницу «Расширенные настройки» в приложении «Параметры»](https://habr.com/ru/news/906844/?utm_campaign=906844&utm_source=habrahabr&utm_medium=rss)
-- [Главное с конференции nanoДРАЙВ в Екатеринбурге: от импортозамещения к цифровой трансформации](https://habr.com/ru/companies/nanosoft/news/906510/?utm_campaign=906510&utm_source=habrahabr&utm_medium=rss)
-- [В телекоммуникационной отрасли РФ заявили о нехватке квалифицированных кадров](https://habr.com/ru/news/906872/?utm_campaign=906872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
