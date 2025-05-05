@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Forbes проанализировали интервью Воложа своим финансовым партнёрам](https://habr.com/ru/news/907102/?utm_campaign=907102&utm_source=habrahabr&utm_medium=rss)
+- [Единый центр BI выиграл в премии CDO/CDTO Awards](https://habr.com/ru/news/907098/?utm_campaign=907098&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/907080/?utm_campaign=907080&utm_source=habrahabr&utm_medium=rss)
 - [NYT в интерактивной иллюстрации показала, какие вещи в домах американцев подорожают из-за новых пошлин](https://habr.com/ru/news/907076/?utm_campaign=907076&utm_source=habrahabr&utm_medium=rss)
 - [Склонность награждать: шпионы Core Werewolf атаковали военные организации Беларуси и России](https://habr.com/ru/companies/F6/news/907064/?utm_campaign=907064&utm_source=habrahabr&utm_medium=rss)
-- [Midjourney расширяет возможности управления изображениями с помощью инструмента Omni-Reference](https://habr.com/ru/companies/bothub/news/907054/?utm_campaign=907054&utm_source=habrahabr&utm_medium=rss)
-- [Google продолжает использовать контент для обучения ИИ, несмотря на отказы издателей](https://habr.com/ru/companies/bothub/news/907004/?utm_campaign=907004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
