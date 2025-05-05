@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Фонд свободного программного обеспечения проведёт хакатон в честь своего 40-летия](https://habr.com/ru/news/906858/?utm_campaign=906858&utm_source=habrahabr&utm_medium=rss)
-- [Китайские инженеры во время теста робота Unitree H1 случайно запустили режим махания конечностями в попытке стабилизации](https://habr.com/ru/news/906850/?utm_campaign=906850&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.0](https://habr.com/ru/news/906840/?utm_campaign=906840&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала процесс отключения Skype с переводом пользователей в Teams Free](https://habr.com/ru/news/906836/?utm_campaign=906836&utm_source=habrahabr&utm_medium=rss)
-- [Вышел бета-релиз Anukari — синтезатора и процессора эффектов на базе 3D-физики](https://habr.com/ru/news/906788/?utm_campaign=906788&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft убирает менеджер паролей в Authenticator для перевода всех пользователей в Edge](https://habr.com/ru/news/906880/?utm_campaign=906880&utm_source=habrahabr&utm_medium=rss)
+- [Представлена ИИ-модель, вдохновлённая нейронными колебаниями в мозге человека](https://habr.com/ru/news/906876/?utm_campaign=906876&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 получит новую страницу «Расширенные настройки» в приложении «Параметры»](https://habr.com/ru/news/906844/?utm_campaign=906844&utm_source=habrahabr&utm_medium=rss)
+- [Главное с конференции nanoДРАЙВ в Екатеринбурге: от импортозамещения к цифровой трансформации](https://habr.com/ru/companies/nanosoft/news/906510/?utm_campaign=906510&utm_source=habrahabr&utm_medium=rss)
+- [В телекоммуникационной отрасли РФ заявили о нехватке квалифицированных кадров](https://habr.com/ru/news/906872/?utm_campaign=906872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
