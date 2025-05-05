@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/907080/?utm_campaign=907080&utm_source=habrahabr&utm_medium=rss)
+- [NYT в интерактивной иллюстрации показала, какие вещи в домах американцев подорожают из-за новых пошлин](https://habr.com/ru/news/907076/?utm_campaign=907076&utm_source=habrahabr&utm_medium=rss)
+- [Склонность награждать: шпионы Core Werewolf атаковали военные организации Беларуси и России](https://habr.com/ru/companies/F6/news/907064/?utm_campaign=907064&utm_source=habrahabr&utm_medium=rss)
 - [Midjourney расширяет возможности управления изображениями с помощью инструмента Omni-Reference](https://habr.com/ru/companies/bothub/news/907054/?utm_campaign=907054&utm_source=habrahabr&utm_medium=rss)
 - [Google продолжает использовать контент для обучения ИИ, несмотря на отказы издателей](https://habr.com/ru/companies/bothub/news/907004/?utm_campaign=907004&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре в настоящее время не фиксируют сбоев в работе российских мобильных операторов](https://habr.com/ru/news/906954/?utm_campaign=906954&utm_source=habrahabr&utm_medium=rss)
-- [Architecture Meetup #2](https://habr.com/ru/companies/alfa/news/906940/?utm_campaign=906940&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры из TheWizards используют функцию IPv6 для подмены обновлений программ на Windows](https://habr.com/ru/news/906938/?utm_campaign=906938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
