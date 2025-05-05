@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Роскомнадзоре в настоящее время не фиксируют сбоев в работе российских мобильных операторов](https://habr.com/ru/news/906954/?utm_campaign=906954&utm_source=habrahabr&utm_medium=rss)
+- [Architecture Meetup #2](https://habr.com/ru/companies/alfa/news/906940/?utm_campaign=906940&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры из TheWizards используют функцию IPv6 для подмены обновлений программ на Windows](https://habr.com/ru/news/906938/?utm_campaign=906938&utm_source=habrahabr&utm_medium=rss)
 - [СЕО Windsurf: вайб-кодинг поможет крупным компаниям нанимать больше инженеров для развития проектов](https://habr.com/ru/news/906886/?utm_campaign=906886&utm_source=habrahabr&utm_medium=rss)
 - [Компании в РФ дополнительно инвестируют в ИБ-решения до 47 млрд рублей в 2025 году и до 58 млрд рублей в 2026 году](https://habr.com/ru/news/906892/?utm_campaign=906892&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft убирает менеджер паролей в Authenticator для перевода всех пользователей в Edge](https://habr.com/ru/news/906880/?utm_campaign=906880&utm_source=habrahabr&utm_medium=rss)
-- [Представлена ИИ-модель, вдохновлённая нейронными колебаниями в мозге человека](https://habr.com/ru/news/906876/?utm_campaign=906876&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 получит новую страницу «Расширенные настройки» в приложении «Параметры»](https://habr.com/ru/news/906844/?utm_campaign=906844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
