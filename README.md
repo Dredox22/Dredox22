@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фонд свободного программного обеспечения проведёт хакатон в честь своего 40-летия](https://habr.com/ru/news/906858/?utm_campaign=906858&utm_source=habrahabr&utm_medium=rss)
+- [Китайские инженеры во время теста робота Unitree H1 случайно запустили режим махания конечностями в попытке стабилизации](https://habr.com/ru/news/906850/?utm_campaign=906850&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.0](https://habr.com/ru/news/906840/?utm_campaign=906840&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала процесс отключения Skype с переводом пользователей в Teams Free](https://habr.com/ru/news/906836/?utm_campaign=906836&utm_source=habrahabr&utm_medium=rss)
 - [Вышел бета-релиз Anukari — синтезатора и процессора эффектов на базе 3D-физики](https://habr.com/ru/news/906788/?utm_campaign=906788&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi хочет создать альтернативу Android без Google](https://habr.com/ru/news/906764/?utm_campaign=906764&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики ядра Linux решились на удаление поддержки процессоров i486](https://habr.com/ru/news/906760/?utm_campaign=906760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
