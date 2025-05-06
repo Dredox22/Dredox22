@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Соосновательница Interplay Ребекка Хайнеман смогла сохранить исходные коды Fallout 1, 2 и более 1000 других игр компании](https://habr.com/ru/news/907236/?utm_campaign=907236&utm_source=habrahabr&utm_medium=rss)
+- [Применение PowerShell-скриптов AppLocker/WDAC в Windows 11 24H2 не работает уже несколько месяцев](https://habr.com/ru/news/907224/?utm_campaign=907224&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Move to iOS теперь может переносить историю вызовов и голосовые записи с Android](https://habr.com/ru/news/907206/?utm_campaign=907206&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудник xAI случайно опубликовал на GitHub приватный ключ для тестов закрытых LLM SpaceX, Tesla и X](https://habr.com/ru/news/907198/?utm_campaign=907198&utm_source=habrahabr&utm_medium=rss)
 - [Станьте спикером главного инженерного форума СИЛА ПЛАТФОРМЫ, поделитесь опытом с САПР/ТИМ-сообществом](https://habr.com/ru/companies/nanosoft/news/906894/?utm_campaign=906894&utm_source=habrahabr&utm_medium=rss)
-- [Morse Master помогает новичкам освоить азбуку Морзе](https://habr.com/ru/news/907174/?utm_campaign=907174&utm_source=habrahabr&utm_medium=rss)
-- [iStorage представила настольный жёсткий диск на 26 ТБ с аппаратным шифрованием](https://habr.com/ru/news/907192/?utm_campaign=907192&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь опубликовал PoC для DoS до аутентификации в удалённых службах на основе UDP &lpar;Windows Deployment Services&rpar;](https://habr.com/ru/news/907194/?utm_campaign=907194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
