@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в мае](https://habr.com/ru/companies/netologyru/news/907088/?utm_campaign=907088&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого просмотрщика и менеджера коллекций изображений Geeqie 2.6](https://habr.com/ru/news/907314/?utm_campaign=907314&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры раскрыло, какие именно сведения об абонентах операторов связи будут получать спецслужбы РФ через СМЭВ](https://habr.com/ru/news/907304/?utm_campaign=907304&utm_source=habrahabr&utm_medium=rss)
 - [В США на законодательном уровне предлагают удалённо блокировать работу ИИ-ускорителей, незаконно поставленных в Китай](https://habr.com/ru/news/907280/?utm_campaign=907280&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Huawei строит новый завод по производству чипов для ИИ и смартфонов»](https://habr.com/ru/news/907260/?utm_campaign=907260&utm_source=habrahabr&utm_medium=rss)
-- [Центральный университет и «Лаборатория Касперского» начали подготовку школьников к Международной олимпиаде по ИБ](https://habr.com/ru/news/907248/?utm_campaign=907248&utm_source=habrahabr&utm_medium=rss)
-- [Соосновательница Interplay Ребекка Хайнеман смогла сохранить исходные коды Fallout 1, 2 и более 1000 других игр компании](https://habr.com/ru/news/907236/?utm_campaign=907236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
