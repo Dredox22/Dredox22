@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney и Piaggio Fast Forward представили робота-помощника G1T4-M1N1 за $3100](https://habr.com/ru/news/907190/?utm_campaign=907190&utm_source=habrahabr&utm_medium=rss)
 - [РВИ представила первый российский единый справочник для разработчиков и издателей видеоигр](https://habr.com/ru/news/907166/?utm_campaign=907166&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закрыла Skype](https://habr.com/ru/news/907120/?utm_campaign=907120&utm_source=habrahabr&utm_medium=rss)
 - [В Forbes проанализировали интервью Воложа своим финансовым партнёрам](https://habr.com/ru/news/907102/?utm_campaign=907102&utm_source=habrahabr&utm_medium=rss)
 - [Единый центр BI выиграл в премии CDO/CDTO Awards](https://habr.com/ru/news/907098/?utm_campaign=907098&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/907080/?utm_campaign=907080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
