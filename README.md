@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пряталось на GitHub: вредоносное ПО уничтожает данные на серверах Linux](https://habr.com/ru/companies/cloud4y/news/907378/?utm_campaign=907378&utm_source=habrahabr&utm_medium=rss)
+- [Каждая десятая заявка на иностранный товарный знак в России — на электронику](https://habr.com/ru/news/907374/?utm_campaign=907374&utm_source=habrahabr&utm_medium=rss)
+- [Конференция по ИИ в аналитике пройдет в Санкт-Петербурге](https://habr.com/ru/companies/visiology/news/907366/?utm_campaign=907366&utm_source=habrahabr&utm_medium=rss)
+- [Pinterest с помощью ИИ найдёт «правильные слова» для поиска вещей](https://habr.com/ru/news/907290/?utm_campaign=907290&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в мае](https://habr.com/ru/companies/netologyru/news/907088/?utm_campaign=907088&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого просмотрщика и менеджера коллекций изображений Geeqie 2.6](https://habr.com/ru/news/907314/?utm_campaign=907314&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры раскрыло, какие именно сведения об абонентах операторов связи будут получать спецслужбы РФ через СМЭВ](https://habr.com/ru/news/907304/?utm_campaign=907304&utm_source=habrahabr&utm_medium=rss)
-- [В США на законодательном уровне предлагают удалённо блокировать работу ИИ-ускорителей, незаконно поставленных в Китай](https://habr.com/ru/news/907280/?utm_campaign=907280&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Huawei строит новый завод по производству чипов для ИИ и смартфонов»](https://habr.com/ru/news/907260/?utm_campaign=907260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
