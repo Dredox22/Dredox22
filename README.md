@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотрудник xAI случайно опубликовал на GitHub приватный ключ для тестов закрытых LLM SpaceX, Tesla и X](https://habr.com/ru/news/907198/?utm_campaign=907198&utm_source=habrahabr&utm_medium=rss)
+- [Станьте спикером главного инженерного форума СИЛА ПЛАТФОРМЫ, поделитесь опытом с САПР/ТИМ-сообществом](https://habr.com/ru/companies/nanosoft/news/906894/?utm_campaign=906894&utm_source=habrahabr&utm_medium=rss)
+- [Morse Master помогает новичкам освоить азбуку Морзе](https://habr.com/ru/news/907174/?utm_campaign=907174&utm_source=habrahabr&utm_medium=rss)
 - [iStorage представила настольный жёсткий диск на 26 ТБ с аппаратным шифрованием](https://habr.com/ru/news/907192/?utm_campaign=907192&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь опубликовал PoC для DoS до аутентификации в удалённых службах на основе UDP &lpar;Windows Deployment Services&rpar;](https://habr.com/ru/news/907194/?utm_campaign=907194&utm_source=habrahabr&utm_medium=rss)
-- [Disney и Piaggio Fast Forward представили робота-помощника G1T4-M1N1 за $3100](https://habr.com/ru/news/907190/?utm_campaign=907190&utm_source=habrahabr&utm_medium=rss)
-- [РВИ представила первый российский единый справочник для разработчиков и издателей видеоигр](https://habr.com/ru/news/907166/?utm_campaign=907166&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрыла Skype](https://habr.com/ru/news/907120/?utm_campaign=907120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
