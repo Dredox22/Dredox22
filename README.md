@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [iStorage представила настольный жёсткий диск на 26 ТБ с аппаратным шифрованием](https://habr.com/ru/news/907192/?utm_campaign=907192&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь опубликовал PoC для DoS до аутентификации в удалённых службах на основе UDP &lpar;Windows Deployment Services&rpar;](https://habr.com/ru/news/907194/?utm_campaign=907194&utm_source=habrahabr&utm_medium=rss)
 - [Disney и Piaggio Fast Forward представили робота-помощника G1T4-M1N1 за $3100](https://habr.com/ru/news/907190/?utm_campaign=907190&utm_source=habrahabr&utm_medium=rss)
 - [РВИ представила первый российский единый справочник для разработчиков и издателей видеоигр](https://habr.com/ru/news/907166/?utm_campaign=907166&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закрыла Skype](https://habr.com/ru/news/907120/?utm_campaign=907120&utm_source=habrahabr&utm_medium=rss)
-- [В Forbes проанализировали интервью Воложа своим финансовым партнёрам](https://habr.com/ru/news/907102/?utm_campaign=907102&utm_source=habrahabr&utm_medium=rss)
-- [Единый центр BI выиграл в премии CDO/CDTO Awards](https://habr.com/ru/news/907098/?utm_campaign=907098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
