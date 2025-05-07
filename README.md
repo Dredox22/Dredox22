@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft позволит пользователям с помощью ИИ быстро менять настройки Windows 11 на ПК с Copilot+](https://habr.com/ru/news/907550/?utm_campaign=907550&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты Роскомнадзора отразили 941 DDoS-атаку в апреле 2025 года](https://habr.com/ru/news/907548/?utm_campaign=907548&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи подали в суд на «Россети» из-за изменения тарифов на размещения ВОЛС на опорах линий электропередач](https://habr.com/ru/news/907524/?utm_campaign=907524&utm_source=habrahabr&utm_medium=rss)
 - [Roku по ошибке выпустила прошивку для умных ТВ с размыванием цветов при стриминге HDR-контента](https://habr.com/ru/news/907520/?utm_campaign=907520&utm_source=habrahabr&utm_medium=rss)
 - [Исследование показывает, что LLM готовы помогать в злонамеренном ‘Vibe Coding’](https://habr.com/ru/companies/bothub/news/907518/?utm_campaign=907518&utm_source=habrahabr&utm_medium=rss)
-- [Ситуативные галлюцинации или системная проблема всех LLM?](https://habr.com/ru/companies/bothub/news/907514/?utm_campaign=907514&utm_source=habrahabr&utm_medium=rss)
-- [7 мая — праздник Дня радио](https://habr.com/ru/news/907498/?utm_campaign=907498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
