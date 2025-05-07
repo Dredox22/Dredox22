@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Спустя девять лет разработки вышла первая мажорная версия Grafana k6](https://habr.com/ru/news/907474/?utm_campaign=907474&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила Matrix3D — нейросеть для фотограмметрии](https://habr.com/ru/news/907472/?utm_campaign=907472&utm_source=habrahabr&utm_medium=rss)
 - [Windows будет сообщать о людях, которые подглядывают в экран ноутбука](https://habr.com/ru/news/907456/?utm_campaign=907456&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила видеокарту GeForce RTX 5060 за $300](https://habr.com/ru/news/907438/?utm_campaign=907438&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Банк» расширил защиту от мошенничества](https://habr.com/ru/news/907410/?utm_campaign=907410&utm_source=habrahabr&utm_medium=rss)
-- [Интервью Евгения Борисова, Spring vs Quarkus, LLM не нужен | Spring АйО Подкаст №17](https://habr.com/ru/companies/spring_aio/news/907400/?utm_campaign=907400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
