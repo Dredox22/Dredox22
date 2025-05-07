@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Canonical планирует в Ubuntu 25.10 перейти на использование по умолчанию утилиты sudo-rs на языке Rust](https://habr.com/ru/news/907616/?utm_campaign=907616&utm_source=habrahabr&utm_medium=rss)
+- [Стало известно релизное окно следующей Battlefield](https://habr.com/ru/companies/ggsel/news/907604/?utm_campaign=907604&utm_source=habrahabr&utm_medium=rss)
+- [Релиз сканера сетевой безопасности Nmap 7.96 &lpar;Network Mapper&rpar;](https://habr.com/ru/news/907596/?utm_campaign=907596&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала отклонять не соответствующие правилам аутентификации официальные рассылки писем](https://habr.com/ru/news/907556/?utm_campaign=907556&utm_source=habrahabr&utm_medium=rss)
 - [М.Видео-Эльдорадо назвала топ самых популярных игр на майских праздниках](https://habr.com/ru/companies/mvideo/news/907570/?utm_campaign=907570&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft позволит пользователям с помощью ИИ быстро менять настройки Windows 11 на ПК с Copilot+](https://habr.com/ru/news/907550/?utm_campaign=907550&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты Роскомнадзора отразили 941 DDoS-атаку в апреле 2025 года](https://habr.com/ru/news/907548/?utm_campaign=907548&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи подали в суд на «Россети» из-за изменения тарифов на размещения ВОЛС на опорах линий электропередач](https://habr.com/ru/news/907524/?utm_campaign=907524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
