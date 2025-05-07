@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ситуативные галлюцинации или системная проблема всех LLM?](https://habr.com/ru/companies/bothub/news/907514/?utm_campaign=907514&utm_source=habrahabr&utm_medium=rss)
+- [7 мая — праздник Дня радио](https://habr.com/ru/news/907498/?utm_campaign=907498&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Docker Desktop стало доступно в Microsoft Store](https://habr.com/ru/news/907486/?utm_campaign=907486&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Clonezilla Live 3.2.1-28 на базе Ubuntu 25.04 и ядра Linux 6.14](https://habr.com/ru/news/907490/?utm_campaign=907490&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила Fedora Linux 42 в качестве официального дистрибутива для подсистемы Windows для Linux &lpar;WSL&rpar;](https://habr.com/ru/news/907484/?utm_campaign=907484&utm_source=habrahabr&utm_medium=rss)
-- [Тень обмана: мошенники атакуют жителей России фейками о новых социальных выплатах к 9 Мая](https://habr.com/ru/companies/F6/news/907422/?utm_campaign=907422&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Нанософт» объявляет о выходе нового обучающего курса «nanoCAD BIM Электро. Базовый курс»](https://habr.com/ru/companies/nanosoft/news/906900/?utm_campaign=906900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
