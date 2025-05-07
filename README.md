@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft случайно сломала меню «Пуск» в Windows 10 и исправила это](https://habr.com/ru/news/907666/?utm_campaign=907666&utm_source=habrahabr&utm_medium=rss)
 - [Многотенантный Kubernetes: как ужиться в коммуналке и сэкономить на выделенных кластерах](https://habr.com/ru/companies/tochka/news/907292/?utm_campaign=907292&utm_source=habrahabr&utm_medium=rss)
 - [Магистратура МФТИ и Альфа-Банка](https://habr.com/ru/companies/alfa/news/907638/?utm_campaign=907638&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый локальный мультиплатформенный проект со скрепкой Clippy в роли ИИ-помощника](https://habr.com/ru/news/907636/?utm_campaign=907636&utm_source=habrahabr&utm_medium=rss)
 - [Canonical планирует в Ubuntu 25.10 перейти на использование по умолчанию утилиты sudo-rs на языке Rust](https://habr.com/ru/news/907616/?utm_campaign=907616&utm_source=habrahabr&utm_medium=rss)
-- [Стало известно релизное окно следующей Battlefield](https://habr.com/ru/companies/ggsel/news/907604/?utm_campaign=907604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
