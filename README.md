@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Операторы связи подали в суд на «Россети» из-за изменения тарифов на размещения ВОЛС на опорах линий электропередач](https://habr.com/ru/news/907524/?utm_campaign=907524&utm_source=habrahabr&utm_medium=rss)
+- [Roku по ошибке выпустила прошивку для умных ТВ с размыванием цветов при стриминге HDR-контента](https://habr.com/ru/news/907520/?utm_campaign=907520&utm_source=habrahabr&utm_medium=rss)
+- [Исследование показывает, что LLM готовы помогать в злонамеренном ‘Vibe Coding’](https://habr.com/ru/companies/bothub/news/907518/?utm_campaign=907518&utm_source=habrahabr&utm_medium=rss)
 - [Ситуативные галлюцинации или системная проблема всех LLM?](https://habr.com/ru/companies/bothub/news/907514/?utm_campaign=907514&utm_source=habrahabr&utm_medium=rss)
 - [7 мая — праздник Дня радио](https://habr.com/ru/news/907498/?utm_campaign=907498&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Docker Desktop стало доступно в Microsoft Store](https://habr.com/ru/news/907486/?utm_campaign=907486&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Clonezilla Live 3.2.1-28 на базе Ubuntu 25.04 и ядра Linux 6.14](https://habr.com/ru/news/907490/?utm_campaign=907490&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила Fedora Linux 42 в качестве официального дистрибутива для подсистемы Windows для Linux &lpar;WSL&rpar;](https://habr.com/ru/news/907484/?utm_campaign=907484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
