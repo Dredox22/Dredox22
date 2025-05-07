@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Магистратура МФТИ и Альфа-Банка](https://habr.com/ru/companies/alfa/news/907638/?utm_campaign=907638&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый локальный мультиплатформенный проект со скрепкой Clippy в роли ИИ-помощника](https://habr.com/ru/news/907636/?utm_campaign=907636&utm_source=habrahabr&utm_medium=rss)
 - [Canonical планирует в Ubuntu 25.10 перейти на использование по умолчанию утилиты sudo-rs на языке Rust](https://habr.com/ru/news/907616/?utm_campaign=907616&utm_source=habrahabr&utm_medium=rss)
 - [Стало известно релизное окно следующей Battlefield](https://habr.com/ru/companies/ggsel/news/907604/?utm_campaign=907604&utm_source=habrahabr&utm_medium=rss)
 - [Релиз сканера сетевой безопасности Nmap 7.96 &lpar;Network Mapper&rpar;](https://habr.com/ru/news/907596/?utm_campaign=907596&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала отклонять не соответствующие правилам аутентификации официальные рассылки писем](https://habr.com/ru/news/907556/?utm_campaign=907556&utm_source=habrahabr&utm_medium=rss)
-- [М.Видео-Эльдорадо назвала топ самых популярных игр на майских праздниках](https://habr.com/ru/companies/mvideo/news/907570/?utm_campaign=907570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
