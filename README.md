@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На смартфонах Samsung можно завести не больше 100 будильников — больше система просто не даст, ранее вообще было 50](https://habr.com/ru/news/907710/?utm_campaign=907710&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft случайно сломала меню «Пуск» в Windows 10 и исправила это](https://habr.com/ru/news/907666/?utm_campaign=907666&utm_source=habrahabr&utm_medium=rss)
 - [Многотенантный Kubernetes: как ужиться в коммуналке и сэкономить на выделенных кластерах](https://habr.com/ru/companies/tochka/news/907292/?utm_campaign=907292&utm_source=habrahabr&utm_medium=rss)
 - [Магистратура МФТИ и Альфа-Банка](https://habr.com/ru/companies/alfa/news/907638/?utm_campaign=907638&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый локальный мультиплатформенный проект со скрепкой Clippy в роли ИИ-помощника](https://habr.com/ru/news/907636/?utm_campaign=907636&utm_source=habrahabr&utm_medium=rss)
-- [Canonical планирует в Ubuntu 25.10 перейти на использование по умолчанию утилиты sudo-rs на языке Rust](https://habr.com/ru/news/907616/?utm_campaign=907616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
