@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Docker Desktop стало доступно в Microsoft Store](https://habr.com/ru/news/907486/?utm_campaign=907486&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Clonezilla Live 3.2.1-28 на базе Ubuntu 25.04 и ядра Linux 6.14](https://habr.com/ru/news/907490/?utm_campaign=907490&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила Fedora Linux 42 в качестве официального дистрибутива для подсистемы Windows для Linux &lpar;WSL&rpar;](https://habr.com/ru/news/907484/?utm_campaign=907484&utm_source=habrahabr&utm_medium=rss)
 - [Тень обмана: мошенники атакуют жителей России фейками о новых социальных выплатах к 9 Мая](https://habr.com/ru/companies/F6/news/907422/?utm_campaign=907422&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Нанософт» объявляет о выходе нового обучающего курса «nanoCAD BIM Электро. Базовый курс»](https://habr.com/ru/companies/nanosoft/news/906900/?utm_campaign=906900&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Node.js 24](https://habr.com/ru/news/907478/?utm_campaign=907478&utm_source=habrahabr&utm_medium=rss)
-- [Спустя девять лет разработки вышла первая мажорная версия Grafana k6](https://habr.com/ru/news/907474/?utm_campaign=907474&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила Matrix3D — нейросеть для фотограмметрии](https://habr.com/ru/news/907472/?utm_campaign=907472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
