@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Node.js 24](https://habr.com/ru/news/907478/?utm_campaign=907478&utm_source=habrahabr&utm_medium=rss)
 - [Спустя девять лет разработки вышла первая мажорная версия Grafana k6](https://habr.com/ru/news/907474/?utm_campaign=907474&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила Matrix3D — нейросеть для фотограмметрии](https://habr.com/ru/news/907472/?utm_campaign=907472&utm_source=habrahabr&utm_medium=rss)
 - [Windows будет сообщать о людях, которые подглядывают в экран ноутбука](https://habr.com/ru/news/907456/?utm_campaign=907456&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила видеокарту GeForce RTX 5060 за $300](https://habr.com/ru/news/907438/?utm_campaign=907438&utm_source=habrahabr&utm_medium=rss)
-- [«Т-Банк» расширил защиту от мошенничества](https://habr.com/ru/news/907410/?utm_campaign=907410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
