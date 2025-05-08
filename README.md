@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Госдуму внесён законопроект о штрафах для хостинг-провайдеров, не вошедших в специальный реестр Роскомнадзора](https://habr.com/ru/news/907790/?utm_campaign=907790&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.9](https://habr.com/ru/news/907786/?utm_campaign=907786&utm_source=habrahabr&utm_medium=rss)
 - [Неизданная игра-файтинг Atari Lynx «Ultravore» выйдет в свет спустя 25 лет](https://habr.com/ru/news/907742/?utm_campaign=907742&utm_source=habrahabr&utm_medium=rss)
 - [На смартфонах Samsung можно завести не больше 100 будильников — больше система просто не даст, ранее вообще было 50](https://habr.com/ru/news/907710/?utm_campaign=907710&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft случайно сломала меню «Пуск» в Windows 10 и исправила это](https://habr.com/ru/news/907666/?utm_campaign=907666&utm_source=habrahabr&utm_medium=rss)
-- [Многотенантный Kubernetes: как ужиться в коммуналке и сэкономить на выделенных кластерах](https://habr.com/ru/companies/tochka/news/907292/?utm_campaign=907292&utm_source=habrahabr&utm_medium=rss)
-- [Магистратура МФТИ и Альфа-Банка](https://habr.com/ru/companies/alfa/news/907638/?utm_campaign=907638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
