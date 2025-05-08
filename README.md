@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix дебютирует со своим генеративным поисковым инструментом на базе ИИ](https://habr.com/ru/companies/bothub/news/907856/?utm_campaign=907856&utm_source=habrahabr&utm_medium=rss)
+- [Sony PlayStation объявила о создании новой студии, ориентированной на многопользовательские игры](https://habr.com/ru/news/907854/?utm_campaign=907854&utm_source=habrahabr&utm_medium=rss)
 - [Cerabyte представил технологию хранения данных, основанную на керамике и стекле](https://habr.com/ru/news/907828/?utm_campaign=907828&utm_source=habrahabr&utm_medium=rss)
 - [Крупнейший сайт с дипфейк-порно Mr.Deepfakes закрывается: провайдер отказался обслуживать ресурс](https://habr.com/ru/news/907824/?utm_campaign=907824&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike объявила об увольнении 5% штата — примерно 500 сотрудников](https://habr.com/ru/news/907822/?utm_campaign=907822&utm_source=habrahabr&utm_medium=rss)
-- [Среда разработки CLion стала бесплатной для некоммерческого использования](https://habr.com/ru/news/907818/?utm_campaign=907818&utm_source=habrahabr&utm_medium=rss)
-- [Формату Open Document Format исполнилось 20 лет](https://habr.com/ru/news/907796/?utm_campaign=907796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
