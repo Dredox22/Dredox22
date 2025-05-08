@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Состояние батареи» не будет доступно для старых Google Pixel](https://habr.com/ru/news/907870/?utm_campaign=907870&utm_source=habrahabr&utm_medium=rss)
 - [Minecraft прекратила поддержку виртуальной и смешанной реальности](https://habr.com/ru/news/907872/?utm_campaign=907872&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Trayy 1.0 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/907958/?utm_campaign=907958&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого приложения для мониторинга системы Mission Center 1.0.0](https://habr.com/ru/news/907952/?utm_campaign=907952&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mesa 25.1](https://habr.com/ru/news/907948/?utm_campaign=907948&utm_source=habrahabr&utm_medium=rss)
-- [Вышла альфа-версия проекта ty — инструментария для чрезвычайно быстрой проверки типов для языка Python](https://habr.com/ru/news/907904/?utm_campaign=907904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
