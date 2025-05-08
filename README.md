@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cerabyte представил технологию хранения данных, основанную на керамике и стекле](https://habr.com/ru/news/907828/?utm_campaign=907828&utm_source=habrahabr&utm_medium=rss)
+- [Крупнейший сайт с дипфейк-порно Mr.Deepfakes закрывается: провайдер отказался обслуживать ресурс](https://habr.com/ru/news/907824/?utm_campaign=907824&utm_source=habrahabr&utm_medium=rss)
+- [CrowdStrike объявила об увольнении 5% штата — примерно 500 сотрудников](https://habr.com/ru/news/907822/?utm_campaign=907822&utm_source=habrahabr&utm_medium=rss)
+- [Среда разработки CLion стала бесплатной для некоммерческого использования](https://habr.com/ru/news/907818/?utm_campaign=907818&utm_source=habrahabr&utm_medium=rss)
 - [Формату Open Document Format исполнилось 20 лет](https://habr.com/ru/news/907796/?utm_campaign=907796&utm_source=habrahabr&utm_medium=rss)
-- [В iVentoy выявлена подстановка корневого сертификата при запуске Windows, разработчики это убрали в новой версии](https://habr.com/ru/news/907802/?utm_campaign=907802&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft приступила к принудительному развёртыванию обновления 24H2 для Windows 11](https://habr.com/ru/news/907792/?utm_campaign=907792&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуму внесён законопроект о штрафах для хостинг-провайдеров, не вошедших в специальный реестр Роскомнадзора](https://habr.com/ru/news/907790/?utm_campaign=907790&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.9](https://habr.com/ru/news/907786/?utm_campaign=907786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
