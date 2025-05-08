@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого приложения для мониторинга системы Mission Center 1.0.0](https://habr.com/ru/news/907952/?utm_campaign=907952&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mesa 25.1](https://habr.com/ru/news/907948/?utm_campaign=907948&utm_source=habrahabr&utm_medium=rss)
 - [Вышла альфа-версия проекта ty — инструментария для чрезвычайно быстрой проверки типов для языка Python](https://habr.com/ru/news/907904/?utm_campaign=907904&utm_source=habrahabr&utm_medium=rss)
 - [Суд США обязал NSO Group выплатить Meta* более $167 млн за атаки Pegasus на 1,4 тысячи пользователей WhatsApp](https://habr.com/ru/news/907880/?utm_campaign=907880&utm_source=habrahabr&utm_medium=rss)
 - [Netflix дебютирует со своим генеративным поисковым инструментом на базе ИИ](https://habr.com/ru/companies/bothub/news/907856/?utm_campaign=907856&utm_source=habrahabr&utm_medium=rss)
-- [Sony PlayStation объявила о создании новой студии, ориентированной на многопользовательские игры](https://habr.com/ru/news/907854/?utm_campaign=907854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
