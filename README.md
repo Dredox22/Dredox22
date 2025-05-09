@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотрудник Microsoft является соло-разработчиком дистрибутива Linux под названием AnduinOS, который похож на Windows 11](https://habr.com/ru/news/908014/?utm_campaign=908014&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: маркетплейс подарков, публикация нескольких историй одновременно, автоперевод в каналах](https://habr.com/ru/news/908012/?utm_campaign=908012&utm_source=habrahabr&utm_medium=rss)
 - [«Состояние батареи» не будет доступно для старых Google Pixel](https://habr.com/ru/news/907870/?utm_campaign=907870&utm_source=habrahabr&utm_medium=rss)
 - [Minecraft прекратила поддержку виртуальной и смешанной реальности](https://habr.com/ru/news/907872/?utm_campaign=907872&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Trayy 1.0 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/907958/?utm_campaign=907958&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого приложения для мониторинга системы Mission Center 1.0.0](https://habr.com/ru/news/907952/?utm_campaign=907952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
