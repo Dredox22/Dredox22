@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» с партнёрами открыл доступ к архиву советских газет времён Великой Отечественной войны](https://habr.com/ru/news/908164/?utm_campaign=908164&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Nvidia: «Вы потеряете работу не из-за ИИ, а из-за того, кто его использует»](https://habr.com/ru/news/908130/?utm_campaign=908130&utm_source=habrahabr&utm_medium=rss)
 - [Arrays, objects… теперь ‘composites’?](https://habr.com/ru/news/908128/?utm_campaign=908128&utm_source=habrahabr&utm_medium=rss)
 - [FastAPI Cloud уже рядом](https://habr.com/ru/news/908122/?utm_campaign=908122&utm_source=habrahabr&utm_medium=rss)
 - [Amazon обновила ПО 270 своих роботакси Zoox после аварии в Лас-Вегасе](https://habr.com/ru/news/908090/?utm_campaign=908090&utm_source=habrahabr&utm_medium=rss)
-- [Gmail с 30 мая 2025 года прекратит поддержку шифрования 3DES во входящих SMTP-подключениях](https://habr.com/ru/news/908088/?utm_campaign=908088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
