@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon обновила ПО 270 своих роботакси Zoox после аварии в Лас-Вегасе](https://habr.com/ru/news/908090/?utm_campaign=908090&utm_source=habrahabr&utm_medium=rss)
 - [Gmail с 30 мая 2025 года прекратит поддержку шифрования 3DES во входящих SMTP-подключениях](https://habr.com/ru/news/908088/?utm_campaign=908088&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Rybbit Analytics — альтернатива Google Analytics с открытым исходным кодом и конфиденциальностью](https://habr.com/ru/news/908084/?utm_campaign=908084&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.4](https://habr.com/ru/news/908046/?utm_campaign=908046&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудник Microsoft является соло-разработчиком дистрибутива Linux под названием AnduinOS, который похож на Windows 11](https://habr.com/ru/news/908014/?utm_campaign=908014&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: маркетплейс подарков, публикация нескольких историй одновременно, автоперевод в каналах](https://habr.com/ru/news/908012/?utm_campaign=908012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
