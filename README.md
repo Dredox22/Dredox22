@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail с 30 мая 2025 года прекратит поддержку шифрования 3DES во входящих SMTP-подключениях](https://habr.com/ru/news/908088/?utm_campaign=908088&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект Rybbit Analytics — альтернатива Google Analytics с открытым исходным кодом и конфиденциальностью](https://habr.com/ru/news/908084/?utm_campaign=908084&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.4](https://habr.com/ru/news/908046/?utm_campaign=908046&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудник Microsoft является соло-разработчиком дистрибутива Linux под названием AnduinOS, который похож на Windows 11](https://habr.com/ru/news/908014/?utm_campaign=908014&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: маркетплейс подарков, публикация нескольких историй одновременно, автоперевод в каналах](https://habr.com/ru/news/908012/?utm_campaign=908012&utm_source=habrahabr&utm_medium=rss)
-- [«Состояние батареи» не будет доступно для старых Google Pixel](https://habr.com/ru/news/907870/?utm_campaign=907870&utm_source=habrahabr&utm_medium=rss)
-- [Minecraft прекратила поддержку виртуальной и смешанной реальности](https://habr.com/ru/news/907872/?utm_campaign=907872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
