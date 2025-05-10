@@ -85,10 +85,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В бета-версии клиента Steam Deck появилась возможность контроля уровня заряда батареи](https://habr.com/ru/news/908266/?utm_campaign=908266&utm_source=habrahabr&utm_medium=rss)
+- [Дуров: WhatsApp начал размещать рекламу своего мессенджера в Telegram-каналах](https://habr.com/ru/news/908264/?utm_campaign=908264&utm_source=habrahabr&utm_medium=rss)
 - [Amazon представила Vulcan — первого робота с чувством осязания](https://habr.com/ru/news/908246/?utm_campaign=908246&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия BetterMediaInfo 0.5 — это графический интерфейс для MediaInfo и анализа метаданных для аудио- и видеофайлов](https://habr.com/ru/news/908250/?utm_campaign=908250&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный мини-курс по машинному обучению](https://habr.com/ru/news/908228/?utm_campaign=908228&utm_source=habrahabr&utm_medium=rss)
-- [Защита и регистрация интеллектуальной собственности в России](https://habr.com/ru/news/908226/?utm_campaign=908226&utm_source=habrahabr&utm_medium=rss)
 - [Мексика подала в суд на Google из-за изменения названия Мексиканского залива для пользователей из США](https://habr.com/ru/news/908210/?utm_campaign=908210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
