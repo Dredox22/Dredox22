@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мексика подала в суд на Google из-за изменения названия Мексиканского залива для пользователей из США](https://habr.com/ru/news/908210/?utm_campaign=908210&utm_source=habrahabr&utm_medium=rss)
 - [Apple Pay стал доступен для покупки игр через PS5](https://habr.com/ru/news/908206/?utm_campaign=908206&utm_source=habrahabr&utm_medium=rss)
 - [Google выплатит Техасу компенсацию более $1,3 млрд за нарушение конфиденциальности пользователей](https://habr.com/ru/news/908202/?utm_campaign=908202&utm_source=habrahabr&utm_medium=rss)
 - [Panasonic увольняет 10 тысяч сотрудников — более 4% штата](https://habr.com/ru/news/908188/?utm_campaign=908188&utm_source=habrahabr&utm_medium=rss)
 - [В Google Messages появилась функция «Удалить для всех»](https://habr.com/ru/news/908184/?utm_campaign=908184&utm_source=habrahabr&utm_medium=rss)
-- [Baidu запатентует технологию перевода звуков животных на человеческий язык](https://habr.com/ru/news/908176/?utm_campaign=908176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
