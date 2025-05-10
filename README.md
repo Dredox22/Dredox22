@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Baidu запатентует технологию перевода звуков животных на человеческий язык](https://habr.com/ru/news/908176/?utm_campaign=908176&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo обновила пользовательское соглашение ради права удалённо отключать модифицированные консоли Switch](https://habr.com/ru/news/908178/?utm_campaign=908178&utm_source=habrahabr&utm_medium=rss)
+- [Во Всемирный зал славы видеоигр включены Tamagotchi, Quake, GoldenEye 007 и Defender](https://habr.com/ru/news/908156/?utm_campaign=908156&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Lazarus 4.0 — среды разработки для FreePascal](https://habr.com/ru/news/908124/?utm_campaign=908124&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» с партнёрами открыл доступ к архиву советских газет времён Великой Отечественной войны](https://habr.com/ru/news/908164/?utm_campaign=908164&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Nvidia: «Вы потеряете работу не из-за ИИ, а из-за того, кто его использует»](https://habr.com/ru/news/908130/?utm_campaign=908130&utm_source=habrahabr&utm_medium=rss)
-- [Arrays, objects… теперь ‘composites’?](https://habr.com/ru/news/908128/?utm_campaign=908128&utm_source=habrahabr&utm_medium=rss)
-- [FastAPI Cloud уже рядом](https://habr.com/ru/news/908122/?utm_campaign=908122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
