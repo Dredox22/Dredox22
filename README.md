@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатный мини-курс по машинному обучению](https://habr.com/ru/news/908228/?utm_campaign=908228&utm_source=habrahabr&utm_medium=rss)
+- [Защита и регистрация интеллектуальной собственности в России](https://habr.com/ru/news/908226/?utm_campaign=908226&utm_source=habrahabr&utm_medium=rss)
 - [Мексика подала в суд на Google из-за изменения названия Мексиканского залива для пользователей из США](https://habr.com/ru/news/908210/?utm_campaign=908210&utm_source=habrahabr&utm_medium=rss)
 - [Apple Pay стал доступен для покупки игр через PS5](https://habr.com/ru/news/908206/?utm_campaign=908206&utm_source=habrahabr&utm_medium=rss)
 - [Google выплатит Техасу компенсацию более $1,3 млрд за нарушение конфиденциальности пользователей](https://habr.com/ru/news/908202/?utm_campaign=908202&utm_source=habrahabr&utm_medium=rss)
-- [Panasonic увольняет 10 тысяч сотрудников — более 4% штата](https://habr.com/ru/news/908188/?utm_campaign=908188&utm_source=habrahabr&utm_medium=rss)
-- [В Google Messages появилась функция «Удалить для всех»](https://habr.com/ru/news/908184/?utm_campaign=908184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
