@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Panasonic увольняет 10 тысяч сотрудников — более 4% штата](https://habr.com/ru/news/908188/?utm_campaign=908188&utm_source=habrahabr&utm_medium=rss)
 - [В Google Messages появилась функция «Удалить для всех»](https://habr.com/ru/news/908184/?utm_campaign=908184&utm_source=habrahabr&utm_medium=rss)
 - [Baidu запатентует технологию перевода звуков животных на человеческий язык](https://habr.com/ru/news/908176/?utm_campaign=908176&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo обновила пользовательское соглашение ради права удалённо отключать модифицированные консоли Switch](https://habr.com/ru/news/908178/?utm_campaign=908178&utm_source=habrahabr&utm_medium=rss)
 - [Во Всемирный зал славы видеоигр включены Tamagotchi, Quake, GoldenEye 007 и Defender](https://habr.com/ru/news/908156/?utm_campaign=908156&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Lazarus 4.0 — среды разработки для FreePascal](https://habr.com/ru/news/908124/?utm_campaign=908124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
