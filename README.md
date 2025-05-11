@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SoundCloud разрешил искусственному интеллекту использовать контент пользователей](https://habr.com/ru/news/908346/?utm_campaign=908346&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили LegoGPT — нейросеть, которая генерирует схемы сборки моделей из деталей Lego](https://habr.com/ru/news/908340/?utm_campaign=908340&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Teams будет блокировать захват экрана во время встреч](https://habr.com/ru/news/908308/?utm_campaign=908308&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта RustDesk 1.4.0](https://habr.com/ru/news/908298/?utm_campaign=908298&utm_source=habrahabr&utm_medium=rss)
 - [В бета-версии клиента Steam Deck появилась возможность контроля уровня заряда батареи](https://habr.com/ru/news/908266/?utm_campaign=908266&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: WhatsApp начал размещать рекламу своего мессенджера в Telegram-каналах](https://habr.com/ru/news/908264/?utm_campaign=908264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
