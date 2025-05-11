@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft обнаружила, что агенты API стали быстрее, а агенты GUI — более гибкими](https://habr.com/ru/companies/bothub/news/908436/?utm_campaign=908436&utm_source=habrahabr&utm_medium=rss)
 - [В Дании решили: постредактирование — это не перевод](https://habr.com/ru/news/908380/?utm_campaign=908380&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenSearch 3.0](https://habr.com/ru/news/908378/?utm_campaign=908378&utm_source=habrahabr&utm_medium=rss)
 - [SoundCloud разрешил искусственному интеллекту использовать контент пользователей](https://habr.com/ru/news/908346/?utm_campaign=908346&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили LegoGPT — нейросеть, которая генерирует схемы сборки моделей из деталей Lego](https://habr.com/ru/news/908340/?utm_campaign=908340&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Teams будет блокировать захват экрана во время встреч](https://habr.com/ru/news/908308/?utm_campaign=908308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
