@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Координационный центр доменов .RU/.РФ празднует 15 лет со дня рождения доменной зоны.РФ](https://habr.com/ru/news/908476/?utm_campaign=908476&utm_source=habrahabr&utm_medium=rss)
+- [НАСА перешло от использования базы данных Neo4j на решение Memgraph](https://habr.com/ru/news/908472/?utm_campaign=908472&utm_source=habrahabr&utm_medium=rss)
+- [Координационный центр доменов .RU/.РФ празднует 15 лет со дня рождения доменной зоны РФ](https://habr.com/ru/news/908476/?utm_campaign=908476&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обнаружила, что агенты API стали быстрее, а агенты GUI — более гибкими](https://habr.com/ru/companies/bothub/news/908436/?utm_campaign=908436&utm_source=habrahabr&utm_medium=rss)
 - [В Дании решили: постредактирование — это не перевод](https://habr.com/ru/news/908380/?utm_campaign=908380&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenSearch 3.0](https://habr.com/ru/news/908378/?utm_campaign=908378&utm_source=habrahabr&utm_medium=rss)
-- [SoundCloud разрешил искусственному интеллекту использовать контент пользователей](https://habr.com/ru/news/908346/?utm_campaign=908346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
