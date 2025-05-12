@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд обязал Google восстановить аккаунт sports.ru на сервисах компании и в Google Play](https://habr.com/ru/news/908596/?utm_campaign=908596&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft опубликовала список устройств Surface, которые потеряют поддержку](https://habr.com/ru/news/908578/?utm_campaign=908578&utm_source=habrahabr&utm_medium=rss)
 - [Solar NGFW 1.6: автоматизация, расширенная защита сетевой инфраструктуры и до 2000 сигнатур от «Солара» «под капотом»](https://habr.com/ru/companies/solarsecurity/news/908580/?utm_campaign=908580&utm_source=habrahabr&utm_medium=rss)
 - [Конкурс «Лучший по профессии» для специалистов и компаний](https://habr.com/ru/companies/habr_career/news/907704/?utm_campaign=907704&utm_source=habrahabr&utm_medium=rss)
 - [Standoff 15: белые хакеры из 15 стран сразятся за призовой фонд в $50 000](https://habr.com/ru/companies/pt/news/908574/?utm_campaign=908574&utm_source=habrahabr&utm_medium=rss)
-- [Знание контейнеров: путь к большим деньгам в ИТ или временный хайп?](https://habr.com/ru/companies/chislitellab/news/908528/?utm_campaign=908528&utm_source=habrahabr&utm_medium=rss)
-- [В openSUSE исключили из дистрибутива графическую оболочку Deepin Desktop Environment &lpar;DDE&rpar; по соображениям безопасности](https://habr.com/ru/news/908520/?utm_campaign=908520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
