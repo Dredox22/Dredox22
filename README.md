@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [8 000 документов в цифре: К2Тех внедрил КЭДО от 1С](https://habr.com/ru/companies/k2tech/news/908622/?utm_campaign=908622&utm_source=habrahabr&utm_medium=rss)
+- [Hive Systems: RTX 5090 способна подобрать 8-значный цифровой пароль за 3 часа](https://habr.com/ru/news/908616/?utm_campaign=908616&utm_source=habrahabr&utm_medium=rss)
+- [Проект Сurl перестанет изучать отчёты об уязвимостях через платформу HackerOne, полученные с помощью ИИ-систем](https://habr.com/ru/news/908614/?utm_campaign=908614&utm_source=habrahabr&utm_medium=rss)
 - [Суд обязал Google восстановить аккаунт sports.ru на сервисах компании и в Google Play](https://habr.com/ru/news/908596/?utm_campaign=908596&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft опубликовала список устройств Surface, которые потеряют поддержку](https://habr.com/ru/news/908578/?utm_campaign=908578&utm_source=habrahabr&utm_medium=rss)
-- [Solar NGFW 1.6: автоматизация, расширенная защита сетевой инфраструктуры и до 2000 сигнатур от «Солара» «под капотом»](https://habr.com/ru/companies/solarsecurity/news/908580/?utm_campaign=908580&utm_source=habrahabr&utm_medium=rss)
-- [Конкурс «Лучший по профессии» для специалистов и компаний](https://habr.com/ru/companies/habr_career/news/907704/?utm_campaign=907704&utm_source=habrahabr&utm_medium=rss)
-- [Standoff 15: белые хакеры из 15 стран сразятся за призовой фонд в $50 000](https://habr.com/ru/companies/pt/news/908574/?utm_campaign=908574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
