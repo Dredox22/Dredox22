@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft тестирует интеграцию Copilot в Microsoft Store на Windows 11 для увеличения загрузок приложений](https://habr.com/ru/news/908506/?utm_campaign=908506&utm_source=habrahabr&utm_medium=rss)
+- [Релиз видеоредактора с открытым исходным кодом Shotcut 25.05](https://habr.com/ru/news/908502/?utm_campaign=908502&utm_source=habrahabr&utm_medium=rss)
+- [Fast Company: первым «убийственным приложением» для генеративного ИИ станет программирование](https://habr.com/ru/news/908484/?utm_campaign=908484&utm_source=habrahabr&utm_medium=rss)
+- [Bluetooth &lpar;SIG&rpar; анонсировала базовую спецификацию Bluetooth 6.1](https://habr.com/ru/news/908482/?utm_campaign=908482&utm_source=habrahabr&utm_medium=rss)
 - [НАСА перешло от использования базы данных Neo4j на решение Memgraph](https://habr.com/ru/news/908472/?utm_campaign=908472&utm_source=habrahabr&utm_medium=rss)
-- [Координационный центр доменов .RU/.РФ празднует 15 лет со дня рождения доменной зоны РФ](https://habr.com/ru/news/908476/?utm_campaign=908476&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обнаружила, что агенты API стали быстрее, а агенты GUI — более гибкими](https://habr.com/ru/companies/bothub/news/908436/?utm_campaign=908436&utm_source=habrahabr&utm_medium=rss)
-- [В Дании решили: постредактирование — это не перевод](https://habr.com/ru/news/908380/?utm_campaign=908380&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenSearch 3.0](https://habr.com/ru/news/908378/?utm_campaign=908378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
