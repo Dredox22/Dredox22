@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил программу конференции infra.conf&#39;25](https://habr.com/ru/news/908688/?utm_campaign=908688&utm_source=habrahabr&utm_medium=rss)
 - [8 000 документов в цифре: К2Тех внедрил КЭДО от 1С](https://habr.com/ru/companies/k2tech/news/908622/?utm_campaign=908622&utm_source=habrahabr&utm_medium=rss)
 - [Hive Systems: RTX 5090 способна подобрать 8-значный цифровой пароль за 3 часа](https://habr.com/ru/news/908616/?utm_campaign=908616&utm_source=habrahabr&utm_medium=rss)
 - [Проект Сurl перестанет изучать отчёты об уязвимостях через платформу HackerOne, полученные с помощью ИИ-систем](https://habr.com/ru/news/908614/?utm_campaign=908614&utm_source=habrahabr&utm_medium=rss)
 - [Суд обязал Google восстановить аккаунт sports.ru на сервисах компании и в Google Play](https://habr.com/ru/news/908596/?utm_campaign=908596&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft опубликовала список устройств Surface, которые потеряют поддержку](https://habr.com/ru/news/908578/?utm_campaign=908578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
