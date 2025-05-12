@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/908738/?utm_campaign=908738&utm_source=habrahabr&utm_medium=rss)
 - [Вышла AnduinOS 1.3.1 с возможностью апдейта по скрипту между минорными версиями](https://habr.com/ru/news/908724/?utm_campaign=908724&utm_source=habrahabr&utm_medium=rss)
 - [Python установил сразу два рекорда: опубликован индекс TIOBE за май 2025 года](https://habr.com/ru/news/908638/?utm_campaign=908638&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта консольного RSS-агрегатора Newsraft 0.30](https://habr.com/ru/news/908702/?utm_campaign=908702&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил программу конференции infra.conf&#39;25](https://habr.com/ru/news/908688/?utm_campaign=908688&utm_source=habrahabr&utm_medium=rss)
-- [8 000 документов в цифре: К2Тех внедрил КЭДО от 1С](https://habr.com/ru/companies/k2tech/news/908622/?utm_campaign=908622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
