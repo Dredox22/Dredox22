@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ показывает, что совершенствование «рассуждающих» моделей ИИ может вскоре замедлиться](https://habr.com/ru/companies/bothub/news/908896/?utm_campaign=908896&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость Asus DriverHub позволяла вредоносным сайтам выполнять команды с правами администратора](https://habr.com/ru/news/908862/?utm_campaign=908862&utm_source=habrahabr&utm_medium=rss)
+- [Apple планирует использовать ИИ для экономии заряда батареи iPhone](https://habr.com/ru/news/908856/?utm_campaign=908856&utm_source=habrahabr&utm_medium=rss)
 - [Как краткие запросы и уверенный тон влияют на достоверность ответов LLM](https://habr.com/ru/companies/bothub/news/908880/?utm_campaign=908880&utm_source=habrahabr&utm_medium=rss)
 - [Релиз порта Minecraft Story Mode на PSP версии 1.3](https://habr.com/ru/news/908874/?utm_campaign=908874&utm_source=habrahabr&utm_medium=rss)
-- [Переобулись на ходу: умерив масштабы применения ИИ, шведская компания Klarna вернула людям 700 рабочих мест](https://habr.com/ru/companies/cloud4y/news/908872/?utm_campaign=908872&utm_source=habrahabr&utm_medium=rss)
-- [Postgres Professional вложит в ближайшие три года 1,5 млрд рублей в создание ПАК для работы с большими данными](https://habr.com/ru/news/908870/?utm_campaign=908870&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали тестировать атаки ClickFix против пользователей Linux](https://habr.com/ru/news/908848/?utm_campaign=908848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
