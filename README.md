@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В США представили законопроект о встраивании отслеживающих технологий в мощные ИИ-чипы и видеокарты](https://habr.com/ru/news/909136/?utm_campaign=909136&utm_source=habrahabr&utm_medium=rss)
+- [Sequoia AI Ascent 2025: агентная экономика, стохастическое мышление и эпоха ИИ-изобилия](https://habr.com/ru/news/909128/?utm_campaign=909128&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» разработал три модели зондовых станций для контроля качества и характеристик микроэлектронных компонентов](https://habr.com/ru/news/909110/?utm_campaign=909110&utm_source=habrahabr&utm_medium=rss)
 - [В рамках московского акселератора «Фабрика видеоигр» было разработано 60 игровых проектов](https://habr.com/ru/news/909098/?utm_campaign=909098&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь МЦСТ озвучил планы выпуска российского процессора на архитектуре «Эльбрус-Б» к 2027 году](https://habr.com/ru/news/909078/?utm_campaign=909078&utm_source=habrahabr&utm_medium=rss)
-- [Власти США отклонили запрос Tesla на регистрацию товарного знака Robotaxi из-за его описательного характера](https://habr.com/ru/news/909062/?utm_campaign=909062&utm_source=habrahabr&utm_medium=rss)
-- [Go Up: митап для разработчиков от MWS](https://habr.com/ru/companies/mws/news/909008/?utm_campaign=909008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
