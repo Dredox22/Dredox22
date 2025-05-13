@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Up: митап для разработчиков от MWS](https://habr.com/ru/companies/mws/news/909008/?utm_campaign=909008&utm_source=habrahabr&utm_medium=rss)
+- [«АйТи Бастион» представляет ИБ-решение для малого и среднего бизнеса](https://habr.com/ru/companies/best_pam/news/909036/?utm_campaign=909036&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия инструмента мониторинга HWiNFO 8.26](https://habr.com/ru/news/909006/?utm_campaign=909006&utm_source=habrahabr&utm_medium=rss)
 - [Solar inRights 3.7 — больше скорости, меньше рутины: пакет инструментов SDK, обновленная конфигурация, улучшенный UI](https://habr.com/ru/companies/solarsecurity/news/909000/?utm_campaign=909000&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Ultimatum — браузер с поддержкой расширений на андроид и открытым кодом](https://habr.com/ru/news/908948/?utm_campaign=908948&utm_source=habrahabr&utm_medium=rss)
-- [Больше половины россиян скачивали непроверенные приложения из Интернета](https://habr.com/ru/companies/F6/news/908938/?utm_campaign=908938&utm_source=habrahabr&utm_medium=rss)
-- [Разыгрываем VIP-билет на Инфостарт](https://habr.com/ru/companies/korus_consulting/news/908924/?utm_campaign=908924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
