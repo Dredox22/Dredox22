@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Ultimatum — браузер с поддержкой расширений на андроид и открытым кодом](https://habr.com/ru/news/908948/?utm_campaign=908948&utm_source=habrahabr&utm_medium=rss)
+- [Больше половины россиян скачивали непроверенные приложения из Интернета](https://habr.com/ru/companies/F6/news/908938/?utm_campaign=908938&utm_source=habrahabr&utm_medium=rss)
 - [Новый тизер Pink Noise уже в сети](https://habr.com/ru/news/908926/?utm_campaign=908926&utm_source=habrahabr&utm_medium=rss)
 - [Разыгрываем VIP-билет на Инфостарт](https://habr.com/ru/companies/korus_consulting/news/908924/?utm_campaign=908924&utm_source=habrahabr&utm_medium=rss)
 - [Анализ показывает, что совершенствование «рассуждающих» моделей ИИ может вскоре замедлиться](https://habr.com/ru/companies/bothub/news/908896/?utm_campaign=908896&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость Asus DriverHub позволяла вредоносным сайтам выполнять команды с правами администратора](https://habr.com/ru/news/908862/?utm_campaign=908862&utm_source=habrahabr&utm_medium=rss)
-- [Apple планирует использовать ИИ для экономии заряда батареи iPhone](https://habr.com/ru/news/908856/?utm_campaign=908856&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
