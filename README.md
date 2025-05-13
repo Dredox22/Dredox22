@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В тестовой версии Windows 11 можно устанавливать приложения из Microsoft Store через стандартный поиск ОС](https://habr.com/ru/news/908844/?utm_campaign=908844&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи негативно оценили бесплатную ограниченную версию GeoGuessr Steam Edition](https://habr.com/ru/news/908854/?utm_campaign=908854&utm_source=habrahabr&utm_medium=rss)
 - [Apple добавила в App Store предупреждение об опасности использования приложений со сторонними платежными системами](https://habr.com/ru/news/908836/?utm_campaign=908836&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD GeoSeries: новый продукт для обработки данных инженерных изысканий и проектирования нефтегазопроводов](https://habr.com/ru/companies/nanosoft/news/908740/?utm_campaign=908740&utm_source=habrahabr&utm_medium=rss)
 - [Компания Klarna нанимает на работу людей, которых год назад заменила ИИ-агентами](https://habr.com/ru/news/908832/?utm_campaign=908832&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Raspberry Pi OS: экран блокировки, приложение для принтеров и управление параметрами сенсорных дисплеев](https://habr.com/ru/news/908830/?utm_campaign=908830&utm_source=habrahabr&utm_medium=rss)
-- [В Steam вышла демоверсия российской игры True Thief](https://habr.com/ru/news/908790/?utm_campaign=908790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
