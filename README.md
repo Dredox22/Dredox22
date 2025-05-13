@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия инструмента мониторинга HWiNFO 8.26](https://habr.com/ru/news/909006/?utm_campaign=909006&utm_source=habrahabr&utm_medium=rss)
+- [Solar inRights 3.7 — больше скорости, меньше рутины: пакет инструментов SDK, обновленная конфигурация, улучшенный UI](https://habr.com/ru/companies/solarsecurity/news/909000/?utm_campaign=909000&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Ultimatum — браузер с поддержкой расширений на андроид и открытым кодом](https://habr.com/ru/news/908948/?utm_campaign=908948&utm_source=habrahabr&utm_medium=rss)
 - [Больше половины россиян скачивали непроверенные приложения из Интернета](https://habr.com/ru/companies/F6/news/908938/?utm_campaign=908938&utm_source=habrahabr&utm_medium=rss)
 - [Разыгрываем VIP-билет на Инфостарт](https://habr.com/ru/companies/korus_consulting/news/908924/?utm_campaign=908924&utm_source=habrahabr&utm_medium=rss)
-- [Анализ показывает, что совершенствование «рассуждающих» моделей ИИ может вскоре замедлиться](https://habr.com/ru/companies/bothub/news/908896/?utm_campaign=908896&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость Asus DriverHub позволяла вредоносным сайтам выполнять команды с правами администратора](https://habr.com/ru/news/908862/?utm_campaign=908862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
