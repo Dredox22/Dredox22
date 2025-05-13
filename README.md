@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В рамках московского акселератора «Фабрика видеоигр» было разработано 60 игровых проектов](https://habr.com/ru/news/909098/?utm_campaign=909098&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователь МЦСТ озвучил планы выпуска российского процессора на архитектуре «Эльбрус-Б» к 2027 году](https://habr.com/ru/news/909078/?utm_campaign=909078&utm_source=habrahabr&utm_medium=rss)
 - [Власти США отклонили запрос Tesla на регистрацию товарного знака Robotaxi из-за его описательного характера](https://habr.com/ru/news/909062/?utm_campaign=909062&utm_source=habrahabr&utm_medium=rss)
 - [Go Up: митап для разработчиков от MWS](https://habr.com/ru/companies/mws/news/909008/?utm_campaign=909008&utm_source=habrahabr&utm_medium=rss)
 - [«АйТи Бастион» представляет ИБ-решение для малого и среднего бизнеса](https://habr.com/ru/companies/best_pam/news/909036/?utm_campaign=909036&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия инструмента мониторинга HWiNFO 8.26](https://habr.com/ru/news/909006/?utm_campaign=909006&utm_source=habrahabr&utm_medium=rss)
-- [Solar inRights 3.7 — больше скорости, меньше рутины: пакет инструментов SDK, обновленная конфигурация, улучшенный UI](https://habr.com/ru/companies/solarsecurity/news/909000/?utm_campaign=909000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
