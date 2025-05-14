@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Технополисе Москва» открылась площадка для локализации российских производителей и создания решений в робототехнике](https://habr.com/ru/news/909440/?utm_campaign=909440&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte приняла участие в V Весенней школе МатМода в МАИ](https://habr.com/ru/companies/glowbyte/news/909438/?utm_campaign=909438&utm_source=habrahabr&utm_medium=rss)
+- [Летняя ИТ-школа КРОК: получи оффер в команду этим летом](https://habr.com/ru/companies/croc/news/909430/?utm_campaign=909430&utm_source=habrahabr&utm_medium=rss)
 - [Canonical в течение года пожертвует $120 тысяч разработчикам открытого исходного кода](https://habr.com/ru/news/909424/?utm_campaign=909424&utm_source=habrahabr&utm_medium=rss)
 - [Выставка Securika-2025: BIM-решения «Нанософт» для проектирования систем безопасности и кабельных магистралей](https://habr.com/ru/companies/nanosoft/news/909412/?utm_campaign=909412&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia увеличила цены почти на всю свою продукцию, включая видеокарты и чипы для ИИ-задач](https://habr.com/ru/news/909352/?utm_campaign=909352&utm_source=habrahabr&utm_medium=rss)
-- [Разработка Firefox полностью перешла с Mercurial на Git и на GitHub](https://habr.com/ru/news/909346/?utm_campaign=909346&utm_source=habrahabr&utm_medium=rss)
-- [Данные 89 млн аккаунтов пользователей Steam утекли через сторонний сервис](https://habr.com/ru/news/909342/?utm_campaign=909342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
