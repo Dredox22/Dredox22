@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google, вероятно, планирует заменить кнопку «Мне повезёт» на режим поиска с помощью ИИ](https://habr.com/ru/news/909192/?utm_campaign=909192&utm_source=habrahabr&utm_medium=rss)
 - [Утилита Raspberry Pi Connect вышла из беты](https://habr.com/ru/news/909190/?utm_campaign=909190&utm_source=habrahabr&utm_medium=rss)
 - [Вышла StarGuard — утилита, которая определяет накрученные звёзды в GitHub-репозиториях](https://habr.com/ru/news/909184/?utm_campaign=909184&utm_source=habrahabr&utm_medium=rss)
 - [В США представили законопроект о встраивании отслеживающих технологий в мощные ИИ-чипы и видеокарты](https://habr.com/ru/news/909136/?utm_campaign=909136&utm_source=habrahabr&utm_medium=rss)
 - [Sequoia AI Ascent 2025: агентная экономика, стохастическое мышление и эпоха ИИ-изобилия](https://habr.com/ru/news/909128/?utm_campaign=909128&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» разработал три модели зондовых станций для контроля качества и характеристик микроэлектронных компонентов](https://habr.com/ru/news/909110/?utm_campaign=909110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
