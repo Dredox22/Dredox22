@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Цифра» открывает набор на летнюю стажировку для студентов](https://habr.com/ru/companies/zyfra/news/909042/?utm_campaign=909042&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива Nobara 42 на базе Fedora 42 с патчами для запуска игр и задач, связанных с созданием контента](https://habr.com/ru/news/909302/?utm_campaign=909302&utm_source=habrahabr&utm_medium=rss)
 - [Бюро промышленности и безопасности США запретило третьим странам использовать ускорители вычислений Huawei Ascend](https://habr.com/ru/news/909266/?utm_campaign=909266&utm_source=habrahabr&utm_medium=rss)
 - [Apple заблокирует приложениям Mac скрытый доступ к буферу обмена](https://habr.com/ru/news/909262/?utm_campaign=909262&utm_source=habrahabr&utm_medium=rss)
 - [Приложения Office в Windows 10 больше не привязаны к дате окончания поддержки ОС](https://habr.com/ru/news/909236/?utm_campaign=909236&utm_source=habrahabr&utm_medium=rss)
-- [Авиакомпания «Аэрофлот» перешла на отечественный сервис цифровой авиационной связи «борт‑земля»](https://habr.com/ru/news/909248/?utm_campaign=909248&utm_source=habrahabr&utm_medium=rss)
-- [Shift left или shift right testing?](https://habr.com/ru/companies/2gis/news/909244/?utm_campaign=909244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
