@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кризис в IT, собеседования фальшивые, рынок трещит | Spring АйО Подкаст №18](https://habr.com/ru/companies/spring_aio/news/909504/?utm_campaign=909504&utm_source=habrahabr&utm_medium=rss)
+- [Российский эксперт по кибербезопасности Лука Сафонов вошёл в рабочую группу ООН по управлению данными](https://habr.com/ru/news/909502/?utm_campaign=909502&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление «Аврора Браузера» 1.9.0](https://habr.com/ru/news/909494/?utm_campaign=909494&utm_source=habrahabr&utm_medium=rss)
 - [Институт Airi и Университет Иннополис открыли лабораторию генеративного ИИ](https://habr.com/ru/news/909484/?utm_campaign=909484&utm_source=habrahabr&utm_medium=rss)
 - [Релиз консольной утилиты и библиотеки RHash 1.4.6](https://habr.com/ru/news/909476/?utm_campaign=909476&utm_source=habrahabr&utm_medium=rss)
-- [Поддержка игровой индустрии: результаты исследования АПРИОРИ, ИРИ и и юридическая компания «ЭБР»](https://habr.com/ru/news/909472/?utm_campaign=909472&utm_source=habrahabr&utm_medium=rss)
-- [Lloyd&#39;s of London и Armilla предлагают страхование от сбоев и ошибок в работе ИИ](https://habr.com/ru/news/909462/?utm_campaign=909462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
