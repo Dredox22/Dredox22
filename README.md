@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поддержка игровой индустрии: результаты исследования АПРИОРИ, ИРИ и и юридическая компания «ЭБР»](https://habr.com/ru/news/909472/?utm_campaign=909472&utm_source=habrahabr&utm_medium=rss)
+- [Lloyd&#39;s of London и Armilla предлагают страхование от сбоев и ошибок в работе ИИ](https://habr.com/ru/news/909462/?utm_campaign=909462&utm_source=habrahabr&utm_medium=rss)
+- [Google ограничила в Google Play полномочия для полного доступа ко всем файлам приложения Nextcloud из-за безопасности](https://habr.com/ru/news/909456/?utm_campaign=909456&utm_source=habrahabr&utm_medium=rss)
 - [В «Технополисе Москва» открылась площадка для локализации российских производителей и создания решений в робототехнике](https://habr.com/ru/news/909440/?utm_campaign=909440&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte приняла участие в V Весенней школе МатМода в МАИ](https://habr.com/ru/companies/glowbyte/news/909438/?utm_campaign=909438&utm_source=habrahabr&utm_medium=rss)
-- [Летняя ИТ-школа КРОК: получи оффер в команду этим летом](https://habr.com/ru/companies/croc/news/909430/?utm_campaign=909430&utm_source=habrahabr&utm_medium=rss)
-- [Canonical в течение года пожертвует $120 тысяч разработчикам открытого исходного кода](https://habr.com/ru/news/909424/?utm_campaign=909424&utm_source=habrahabr&utm_medium=rss)
-- [Выставка Securika-2025: BIM-решения «Нанософт» для проектирования систем безопасности и кабельных магистралей](https://habr.com/ru/companies/nanosoft/news/909412/?utm_campaign=909412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
