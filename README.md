@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Canonical в течение года пожертвует $120 тысяч разработчикам открытого исходного кода](https://habr.com/ru/news/909424/?utm_campaign=909424&utm_source=habrahabr&utm_medium=rss)
+- [Выставка Securika-2025: BIM-решения «Нанософт» для проектирования систем безопасности и кабельных магистралей](https://habr.com/ru/companies/nanosoft/news/909412/?utm_campaign=909412&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia увеличила цены почти на всю свою продукцию, включая видеокарты и чипы для ИИ-задач](https://habr.com/ru/news/909352/?utm_campaign=909352&utm_source=habrahabr&utm_medium=rss)
 - [Разработка Firefox полностью перешла с Mercurial на Git и на GitHub](https://habr.com/ru/news/909346/?utm_campaign=909346&utm_source=habrahabr&utm_medium=rss)
 - [Данные 89 млн аккаунтов пользователей Steam утекли через сторонний сервис](https://habr.com/ru/news/909342/?utm_campaign=909342&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил обновлённый официальный магазин по продаже умных устройств с «Алисой» и компонентов для умного дома](https://habr.com/ru/news/909332/?utm_campaign=909332&utm_source=habrahabr&utm_medium=rss)
-- [«Цифра» открывает набор на летнюю стажировку для студентов](https://habr.com/ru/companies/zyfra/news/909042/?utm_campaign=909042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
