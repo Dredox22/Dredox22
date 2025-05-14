@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia увеличила цены почти на всю свою продукцию, включая видеокарты и чипы для ИИ-задач](https://habr.com/ru/news/909352/?utm_campaign=909352&utm_source=habrahabr&utm_medium=rss)
+- [Разработка Firefox полностью перешла с Mercurial на Git и на GitHub](https://habr.com/ru/news/909346/?utm_campaign=909346&utm_source=habrahabr&utm_medium=rss)
+- [Данные 89 млн аккаунтов пользователей Steam утекли через сторонний сервис](https://habr.com/ru/news/909342/?utm_campaign=909342&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» представил обновлённый официальный магазин по продаже умных устройств с «Алисой» и компонентов для умного дома](https://habr.com/ru/news/909332/?utm_campaign=909332&utm_source=habrahabr&utm_medium=rss)
 - [«Цифра» открывает набор на летнюю стажировку для студентов](https://habr.com/ru/companies/zyfra/news/909042/?utm_campaign=909042&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива Nobara 42 на базе Fedora 42 с патчами для запуска игр и задач, связанных с созданием контента](https://habr.com/ru/news/909302/?utm_campaign=909302&utm_source=habrahabr&utm_medium=rss)
-- [Бюро промышленности и безопасности США запретило третьим странам использовать ускорители вычислений Huawei Ascend](https://habr.com/ru/news/909266/?utm_campaign=909266&utm_source=habrahabr&utm_medium=rss)
-- [Apple заблокирует приложениям Mac скрытый доступ к буферу обмена](https://habr.com/ru/news/909262/?utm_campaign=909262&utm_source=habrahabr&utm_medium=rss)
-- [Приложения Office в Windows 10 больше не привязаны к дате окончания поддержки ОС](https://habr.com/ru/news/909236/?utm_campaign=909236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
