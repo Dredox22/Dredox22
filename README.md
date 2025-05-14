@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Shift left или shift right testing?](https://habr.com/ru/companies/2gis/news/909244/?utm_campaign=909244&utm_source=habrahabr&utm_medium=rss)
+- [В Android 16 улучшена «Расширенная защита» с помощью безопасности на уровне устройства](https://habr.com/ru/news/909232/?utm_campaign=909232&utm_source=habrahabr&utm_medium=rss)
+- [В Y Combinator назвали Google «монополистом», который «затормозил» экосистему стартапов](https://habr.com/ru/news/909224/?utm_campaign=909224&utm_source=habrahabr&utm_medium=rss)
 - [Студенческий робот побил мировой рекорд по сборке кубика Рубика 4x4](https://habr.com/ru/news/909218/?utm_campaign=909218&utm_source=habrahabr&utm_medium=rss)
-- [Баг в «Сообщениях» в iOS не позволяет отправлять аудио с символом амперсанд](https://habr.com/ru/news/909214/?utm_campaign=909214&utm_source=habrahabr&utm_medium=rss)
-- [Google, вероятно, планирует заменить кнопку «Мне повезёт» на режим поиска с помощью ИИ](https://habr.com/ru/news/909192/?utm_campaign=909192&utm_source=habrahabr&utm_medium=rss)
-- [Утилита Raspberry Pi Connect вышла из беты](https://habr.com/ru/news/909190/?utm_campaign=909190&utm_source=habrahabr&utm_medium=rss)
-- [Вышла StarGuard — утилита, которая определяет накрученные звёзды в GitHub-репозиториях](https://habr.com/ru/news/909184/?utm_campaign=909184&utm_source=habrahabr&utm_medium=rss)
+- [Баг в «Сообщениях» в iOS не позволяет отправлять аудио с символом амперсанд, например названия брендов](https://habr.com/ru/news/909214/?utm_campaign=909214&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
