@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление KB5058379 для Windows 10 22H2 заставляет ПК загружаться в Recovery и требовать ключ BitLocker](https://habr.com/ru/news/909800/?utm_campaign=909800&utm_source=habrahabr&utm_medium=rss)
 - [Решение от InfoWatch по защите ПДн отметили на премии CIPR Digital 2025](https://habr.com/ru/companies/infowatch/news/909770/?utm_campaign=909770&utm_source=habrahabr&utm_medium=rss)
 - [Поисковая система Ecosia представила новую систему подсчёта экологического вклада пользователей](https://habr.com/ru/news/909768/?utm_campaign=909768&utm_source=habrahabr&utm_medium=rss)
 - [«Антиплагиат» научился распознавать сгенерированные ИИ тексты с точностью до 98%](https://habr.com/ru/news/909752/?utm_campaign=909752&utm_source=habrahabr&utm_medium=rss)
 - [Tencent делает ставку на империю WeChat с 1,4 млрд пользователей](https://habr.com/ru/companies/finam_broker/news/909748/?utm_campaign=909748&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики ядра Linux выпустили вторую версию исправлений для удаления поддержки процессоров i486](https://habr.com/ru/news/909706/?utm_campaign=909706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
