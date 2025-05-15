@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Audible запустил ИИ-инструменты для создания аудиокниг](https://habr.com/ru/news/909512/?utm_campaign=909512&utm_source=habrahabr&utm_medium=rss)
+- [EA просит сотрудников вернуться в офис на три дня в неделю](https://habr.com/ru/news/909590/?utm_campaign=909590&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала тестировать голосовой запуск «Hey, Copilot!» в Windows](https://habr.com/ru/news/909580/?utm_campaign=909580&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome будет блокировать запуск браузера в Windows на уровне администратора](https://habr.com/ru/news/909576/?utm_campaign=909576&utm_source=habrahabr&utm_medium=rss)
 - [Вышел DOOM: The Dark Ages](https://habr.com/ru/news/909570/?utm_campaign=909570&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект oniux: изоляция Tor на уровне ядра для любого приложения Linux](https://habr.com/ru/news/909560/?utm_campaign=909560&utm_source=habrahabr&utm_medium=rss)
-- [Valve: недавняя утечка данных пользователей не была результатом взлома систем Steam](https://habr.com/ru/news/909538/?utm_campaign=909538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
