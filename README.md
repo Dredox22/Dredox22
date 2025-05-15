@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила новый дизайн Android 16 и Wear OS 6 — Material 3 Expressive](https://habr.com/ru/news/909528/?utm_campaign=909528&utm_source=habrahabr&utm_medium=rss)
 - [Знание контейнеров: путь к большим деньгам в ИТ или временный хайп?](https://habr.com/ru/companies/chislitellab/news/909650/?utm_campaign=909650&utm_source=habrahabr&utm_medium=rss)
 - [Valve подтвердила, что утечка данных из Steam оказалась безобидной](https://habr.com/ru/companies/ggsel/news/909644/?utm_campaign=909644&utm_source=habrahabr&utm_medium=rss)
 - [Telegram запустил конкурс для создателей контента с призовым фондом до $50 тыс. о преимуществах над WhatsApp](https://habr.com/ru/news/909642/?utm_campaign=909642&utm_source=habrahabr&utm_medium=rss)
 - [Java Rock Star Meetup: когда Java — это не только код, но и атмосфера](https://habr.com/ru/companies/axiomjdk/news/909460/?utm_campaign=909460&utm_source=habrahabr&utm_medium=rss)
-- [Audible запустил ИИ-инструменты для создания аудиокниг](https://habr.com/ru/news/909512/?utm_campaign=909512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
