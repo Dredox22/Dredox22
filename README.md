@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение от InfoWatch по защите ПДн отметили на премии CIPR Digital 2025](https://habr.com/ru/companies/infowatch/news/909770/?utm_campaign=909770&utm_source=habrahabr&utm_medium=rss)
+- [Поисковая система Ecosia представила новую систему подсчёта экологического вклада пользователей](https://habr.com/ru/news/909768/?utm_campaign=909768&utm_source=habrahabr&utm_medium=rss)
 - [«Антиплагиат» научился распознавать сгенерированные ИИ тексты с точностью до 98%](https://habr.com/ru/news/909752/?utm_campaign=909752&utm_source=habrahabr&utm_medium=rss)
 - [Tencent делает ставку на империю WeChat с 1,4 млрд пользователей](https://habr.com/ru/companies/finam_broker/news/909748/?utm_campaign=909748&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики ядра Linux выпустили вторую версию исправлений для удаления поддержки процессоров i486](https://habr.com/ru/news/909706/?utm_campaign=909706&utm_source=habrahabr&utm_medium=rss)
-- [Google представила новый дизайн Android 16 и Wear OS 6 — Material 3 Expressive](https://habr.com/ru/news/909528/?utm_campaign=909528&utm_source=habrahabr&utm_medium=rss)
-- [Знание контейнеров: путь к большим деньгам в ИТ или временный хайп?](https://habr.com/ru/companies/chislitellab/news/909650/?utm_campaign=909650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
