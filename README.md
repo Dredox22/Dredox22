@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел DOOM: The Dark Ages от Microsoft и id Software](https://habr.com/ru/news/909570/?utm_campaign=909570&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект oniux: изоляция Tor на уровне ядра для любого приложения Linux](https://habr.com/ru/news/909560/?utm_campaign=909560&utm_source=habrahabr&utm_medium=rss)
 - [Valve: недавняя утечка данных пользователей не была результатом взлома систем Steam](https://habr.com/ru/news/909538/?utm_campaign=909538&utm_source=habrahabr&utm_medium=rss)
 - [«Группа Астра» и Technored создадут платформу для роботизации полного цикла](https://habr.com/ru/news/909520/?utm_campaign=909520&utm_source=habrahabr&utm_medium=rss)
 - [Кризис в IT, собеседования фальшивые, рынок трещит | Spring АйО Подкаст №18](https://habr.com/ru/companies/spring_aio/news/909504/?utm_campaign=909504&utm_source=habrahabr&utm_medium=rss)
-- [Российский эксперт по кибербезопасности Лука Сафонов вошёл в рабочую группу ООН по управлению данными](https://habr.com/ru/news/909502/?utm_campaign=909502&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление «Аврора Браузера» 1.9.0](https://habr.com/ru/news/909494/?utm_campaign=909494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
