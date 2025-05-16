@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские цифровые технологии для строительства и машиностроения: итоги конференции nanoДРАЙВ в Красноярске](https://habr.com/ru/companies/nanosoft/news/910004/?utm_campaign=910004&utm_source=habrahabr&utm_medium=rss)
 - [IVA MCU 24.0: новые уровни безопасности, отказоустойчивости и гибкости управления](https://habr.com/ru/companies/iva_tech/news/909984/?utm_campaign=909984&utm_source=habrahabr&utm_medium=rss)
 - [Вышел FreeCAD 1.0.1](https://habr.com/ru/news/909982/?utm_campaign=909982&utm_source=habrahabr&utm_medium=rss)
 - [Хидэо Кодзима выдал своему помощнику USB-флешку с идеями на будущее, когда геймдизайнера не станет](https://habr.com/ru/companies/ggsel/news/909954/?utm_campaign=909954&utm_source=habrahabr&utm_medium=rss)
 - [Apple тестирует перенос плейлистов из других музыкальных сервисов в Apple Music](https://habr.com/ru/news/909922/?utm_campaign=909922&utm_source=habrahabr&utm_medium=rss)
-- [Leica Lux для iPhone научилось стилизовать фотографии под профессиональные](https://habr.com/ru/news/909874/?utm_campaign=909874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
