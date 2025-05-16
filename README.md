@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Роскомнадзор зафиксировал кратковременный сбой в работе Рунета 15 марта 2025 года](https://habr.com/ru/news/909842/?utm_campaign=909842&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор зафиксировал кратковременный сбой в работе Рунета 15 мая 2025 года](https://habr.com/ru/news/909842/?utm_campaign=909842&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила CarPlay Ultra](https://habr.com/ru/news/909836/?utm_campaign=909836&utm_source=habrahabr&utm_medium=rss)
 - [Обновление KB5058379 для Windows 10 22H2 заставляет ПК загружаться в Recovery и требовать ключ BitLocker](https://habr.com/ru/news/909800/?utm_campaign=909800&utm_source=habrahabr&utm_medium=rss)
 - [Решение от InfoWatch по защите ПДн отметили на премии CIPR Digital 2025](https://habr.com/ru/companies/infowatch/news/909770/?utm_campaign=909770&utm_source=habrahabr&utm_medium=rss)
