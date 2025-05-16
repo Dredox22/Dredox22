@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple тестирует перенос плейлистов из других музыкальных сервисов в Apple Music](https://habr.com/ru/news/909922/?utm_campaign=909922&utm_source=habrahabr&utm_medium=rss)
 - [Leica Lux для iPhone научилось стилизовать фотографии под профессиональные](https://habr.com/ru/news/909874/?utm_campaign=909874&utm_source=habrahabr&utm_medium=rss)
 - [Amazon уволила около 100 человек из команды, стоящей за Alexa, Echo и Zoox](https://habr.com/ru/news/909888/?utm_campaign=909888&utm_source=habrahabr&utm_medium=rss)
 - [«Вымпелком» планирует занять 25% рынка виртуальных операторов связи &lpar;MVNO&rpar; к 2028 году](https://habr.com/ru/news/909882/?utm_campaign=909882&utm_source=habrahabr&utm_medium=rss)
 - [Opera представила обновление для игрового браузера Opera GX с тремя новыми функциями](https://habr.com/ru/news/909864/?utm_campaign=909864&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft уволила команду разработчиков проекта Faster CPython](https://habr.com/ru/news/909848/?utm_campaign=909848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
