@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase подтвердила взлом IT-систем и кражу данных 1% клиентов](https://habr.com/ru/news/909858/?utm_campaign=909858&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи разработали способ подтверждения местоположения без раскрытия данных](https://habr.com/ru/news/909854/?utm_campaign=909854&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.87.0 и 10 лет после выхода Rust 1.0](https://habr.com/ru/news/909846/?utm_campaign=909846&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор зафиксировал кратковременный сбой в работе Рунета 15 мая 2025 года](https://habr.com/ru/news/909842/?utm_campaign=909842&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила CarPlay Ultra](https://habr.com/ru/news/909836/?utm_campaign=909836&utm_source=habrahabr&utm_medium=rss)
-- [Обновление KB5058379 для Windows 10 22H2 заставляет ПК загружаться в Recovery и требовать ключ BitLocker](https://habr.com/ru/news/909800/?utm_campaign=909800&utm_source=habrahabr&utm_medium=rss)
-- [Решение от InfoWatch по защите ПДн отметили на премии CIPR Digital 2025](https://habr.com/ru/companies/infowatch/news/909770/?utm_campaign=909770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
