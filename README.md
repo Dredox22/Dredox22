@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ещё одна встреча тестировщиков в Москве](https://habr.com/ru/companies/2gis/news/910108/?utm_campaign=910108&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление инструмента Shotstars v3.0 для отслеживания движения звезд на Github, включая фейки](https://habr.com/ru/news/910084/?utm_campaign=910084&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» выводит на рынок Solar inRights Origin с нейропомощником, доступной ценой и коротким сроком внедрения](https://habr.com/ru/companies/solarsecurity/news/910048/?utm_campaign=910048&utm_source=habrahabr&utm_medium=rss)
 - [Стартап, работающий с Vibe-кодированием, Windsurf запускает собственные модели ИИ](https://habr.com/ru/companies/bothub/news/910044/?utm_campaign=910044&utm_source=habrahabr&utm_medium=rss)
 - [Сайты *.spb.ru попали под санкции в Google все скопом](https://habr.com/ru/news/910042/?utm_campaign=910042&utm_source=habrahabr&utm_medium=rss)
-- [Google доминирует в патентных заявках на ИИ](https://habr.com/ru/news/910032/?utm_campaign=910032&utm_source=habrahabr&utm_medium=rss)
-- [Google вернула в Google Play полномочия для полного доступа ко всем файлам приложения Nextcloud после критики компании](https://habr.com/ru/news/910010/?utm_campaign=910010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
