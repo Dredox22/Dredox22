@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Вымпелком» планирует занять 25% рынка виртуальных операторов связи &lpar;MVNO&rpar; к 2028 году](https://habr.com/ru/news/909882/?utm_campaign=909882&utm_source=habrahabr&utm_medium=rss)
+- [Opera представила обновление для игрового браузера Opera GX с тремя новыми функциями](https://habr.com/ru/news/909864/?utm_campaign=909864&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft уволила команду разработчиков проекта Faster CPython](https://habr.com/ru/news/909848/?utm_campaign=909848&utm_source=habrahabr&utm_medium=rss)
+- [Roblox позволит авторам продавать физические товары в ​​играх](https://habr.com/ru/news/909860/?utm_campaign=909860&utm_source=habrahabr&utm_medium=rss)
 - [Coinbase подтвердила взлом IT-систем и кражу данных 1% клиентов](https://habr.com/ru/news/909858/?utm_campaign=909858&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи разработали способ подтверждения местоположения без раскрытия данных](https://habr.com/ru/news/909854/?utm_campaign=909854&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.87.0 и 10 лет после выхода Rust 1.0](https://habr.com/ru/news/909846/?utm_campaign=909846&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор зафиксировал кратковременный сбой в работе Рунета 15 мая 2025 года](https://habr.com/ru/news/909842/?utm_campaign=909842&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила CarPlay Ultra](https://habr.com/ru/news/909836/?utm_campaign=909836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
