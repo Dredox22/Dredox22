@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростех» представил первый российский МРТ‑совместимый кардиостимулятор Apollo MRI](https://habr.com/ru/news/910282/?utm_campaign=910282&utm_source=habrahabr&utm_medium=rss)
+- [В App Store появилось новое мобильное приложение под названием «ПРОкурочка» от «Россельхозбанка»](https://habr.com/ru/news/910272/?utm_campaign=910272&utm_source=habrahabr&utm_medium=rss)
 - [Учёные разработали алмазный транзистор для работы в экстремальных условиях](https://habr.com/ru/news/910254/?utm_campaign=910254&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 тестируется беспроводная передача файлов и настроек с ПК на ПК в Windows Backup](https://habr.com/ru/news/910170/?utm_campaign=910170&utm_source=habrahabr&utm_medium=rss)
 - [Производитель принтеров Procolored месяцами предлагал драйверы с вредоносным ПО](https://habr.com/ru/news/910238/?utm_campaign=910238&utm_source=habrahabr&utm_medium=rss)
-- [Google внедряет новую ИИ-функцию для защиты от мошенничества в Chrome](https://habr.com/ru/companies/bothub/news/910212/?utm_campaign=910212&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила новое приложение «Календарь» для Windows 11](https://habr.com/ru/news/910190/?utm_campaign=910190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
