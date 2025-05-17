@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Простое создание субтитров стало доступно для пользователей PowerPoint на Mac](https://habr.com/ru/news/910322/?utm_campaign=910322&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: KB5058379 для Windows 10 22H2 загружает ПК в Recovery и требует ключ BitLocker из-за Intel TXT](https://habr.com/ru/news/910318/?utm_campaign=910318&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» представил первый российский МРТ‑совместимый кардиостимулятор Apollo MRI](https://habr.com/ru/news/910282/?utm_campaign=910282&utm_source=habrahabr&utm_medium=rss)
 - [В App Store появилось новое мобильное приложение под названием «ПРОкурочка» от «Россельхозбанка»](https://habr.com/ru/news/910272/?utm_campaign=910272&utm_source=habrahabr&utm_medium=rss)
 - [Учёные разработали алмазный транзистор для работы в экстремальных условиях](https://habr.com/ru/news/910254/?utm_campaign=910254&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 тестируется беспроводная передача файлов и настроек с ПК на ПК в Windows Backup](https://habr.com/ru/news/910170/?utm_campaign=910170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
