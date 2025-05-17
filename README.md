@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила новое приложение «Календарь» для Windows 11](https://habr.com/ru/news/910190/?utm_campaign=910190&utm_source=habrahabr&utm_medium=rss)
 - [На образовательном портале Neal Fun вышла многопользовательская онлайн-игра Internet Roadtrip](https://habr.com/ru/news/910182/?utm_campaign=910182&utm_source=habrahabr&utm_medium=rss)
 - [Студентка в США потребовала вернуть деньги за обучение &lpar;$8 000&rpar;, поймав профессора на использовании ChatGPT](https://habr.com/ru/news/910180/?utm_campaign=910180&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила модель Codex-1](https://habr.com/ru/news/910118/?utm_campaign=910118&utm_source=habrahabr&utm_medium=rss)
 - [Ещё одна встреча тестировщиков в Москве](https://habr.com/ru/companies/2gis/news/910108/?utm_campaign=910108&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление инструмента Shotstars v3.0 для отслеживания движения звезд на Github, включая фейки](https://habr.com/ru/news/910084/?utm_campaign=910084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
