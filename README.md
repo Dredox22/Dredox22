@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 тестируется беспроводная передача файлов с ПК на ПК](https://habr.com/ru/news/910170/?utm_campaign=910170&utm_source=habrahabr&utm_medium=rss)
+- [Производитель принтеров Procolored месяцами предлагал драйверы с вредоносным ПО](https://habr.com/ru/news/910238/?utm_campaign=910238&utm_source=habrahabr&utm_medium=rss)
 - [Google внедряет новую ИИ-функцию для защиты от мошенничества в Chrome](https://habr.com/ru/companies/bothub/news/910212/?utm_campaign=910212&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила новое приложение «Календарь» для Windows 11](https://habr.com/ru/news/910190/?utm_campaign=910190&utm_source=habrahabr&utm_medium=rss)
 - [На образовательном портале Neal Fun вышла многопользовательская онлайн-игра Internet Roadtrip](https://habr.com/ru/news/910182/?utm_campaign=910182&utm_source=habrahabr&utm_medium=rss)
-- [Студентка в США потребовала вернуть деньги за обучение &lpar;$8 000&rpar;, поймав профессора на использовании ChatGPT](https://habr.com/ru/news/910180/?utm_campaign=910180&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила модель Codex-1](https://habr.com/ru/news/910118/?utm_campaign=910118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
