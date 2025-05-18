@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Android Auto из-за сбоя пропали альтернативные маршруты](https://habr.com/ru/news/910402/?utm_campaign=910402&utm_source=habrahabr&utm_medium=rss)
 - [Google начала удалять историю местоположений пользователей из облака](https://habr.com/ru/news/910368/?utm_campaign=910368&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia не будет отправлять в Китай дизайны новых графических процессоров](https://habr.com/ru/news/910364/?utm_campaign=910364&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Debian 12.11](https://habr.com/ru/news/910360/?utm_campaign=910360&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.8](https://habr.com/ru/news/910312/?utm_campaign=910312&utm_source=habrahabr&utm_medium=rss)
-- [Простое создание субтитров стало доступно для пользователей PowerPoint на Mac](https://habr.com/ru/news/910322/?utm_campaign=910322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
