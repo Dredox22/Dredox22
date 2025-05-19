@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Строим overlay-сеть новой платформы MWS на десятки тысяч ВМ](https://habr.com/ru/companies/mws/news/909704/?utm_campaign=909704&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрывает доступ к API поиска Bing](https://habr.com/ru/news/910584/?utm_campaign=910584&utm_source=habrahabr&utm_medium=rss)
-- [Visual Studio и Visual Studio Code достигли 50 млн активных разработчиков в месяц](https://habr.com/ru/news/910560/?utm_campaign=910560&utm_source=habrahabr&utm_medium=rss)
-- [OKI Circuit Technology готовится к поставкам 124-слойной платы для монтажа чипов](https://habr.com/ru/news/910550/?utm_campaign=910550&utm_source=habrahabr&utm_medium=rss)
-- [Инструмент Defendnot отключает Microsoft Defender](https://habr.com/ru/news/910538/?utm_campaign=910538&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch запатентовала систему для прогнозирования увольнений сотрудников](https://habr.com/ru/news/910654/?utm_campaign=910654&utm_source=habrahabr&utm_medium=rss)
+- [MWC Barcelona 2025: основные итоги форума от билайн аналитики](https://habr.com/ru/companies/beeline_tech/news/910646/?utm_campaign=910646&utm_source=habrahabr&utm_medium=rss)
+- [Ассоциация ФинТех поддержала новое издание настольной книги ИТ-директора «Внедрять нельзя откладывать»](https://habr.com/ru/companies/k2tech/news/910638/?utm_campaign=910638&utm_source=habrahabr&utm_medium=rss)
+- [ФАС выявила ограничения в доступе операторов связи в жилые комплексы застройщика ПИК](https://habr.com/ru/news/910634/?utm_campaign=910634&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся анонс ремастера первой части Syberia. Он больше напоминает ремейк](https://habr.com/ru/companies/ggsel/news/910620/?utm_campaign=910620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
