@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft закрывает доступ к API поиска Bing](https://habr.com/ru/news/910584/?utm_campaign=910584&utm_source=habrahabr&utm_medium=rss)
+- [Visual Studio и Visual Studio Code достигли 50 млн активных разработчиков в месяц](https://habr.com/ru/news/910560/?utm_campaign=910560&utm_source=habrahabr&utm_medium=rss)
 - [OKI Circuit Technology готовится к поставкам 124-слойной платы для монтажа чипов](https://habr.com/ru/news/910550/?utm_campaign=910550&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент Defendnot отключает Microsoft Defender](https://habr.com/ru/news/910538/?utm_campaign=910538&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики проекта Curl предупредили GitHub о проблеме безопасности «вредоносного Unicode»](https://habr.com/ru/news/910534/?utm_campaign=910534&utm_source=habrahabr&utm_medium=rss)
-- [Проект rav1d &lpar;декодер AV1 на Rust&rpar; ищет разработчиков, кто за $20 тыс. сделает это решение таким же быстрым, как на C](https://habr.com/ru/news/910536/?utm_campaign=910536&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сделала доступными новые расширенные настройки для Windows 11](https://habr.com/ru/news/910528/?utm_campaign=910528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
