@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» зарегистрировал товарный знак «Яндекс Кит» для SaaS-платформы e-commerce](https://habr.com/ru/news/910742/?utm_campaign=910742&utm_source=habrahabr&utm_medium=rss)
+- [Ошибочные показания лидаров стали причиной падения двух дронов Amazon во время испытаний в дождь](https://habr.com/ru/news/910736/?utm_campaign=910736&utm_source=habrahabr&utm_medium=rss)
+- [Нанотехнологический центр «Шухов.Нано» представил субангстремную технологию для процессоров нового поколения](https://habr.com/ru/news/910728/?utm_campaign=910728&utm_source=habrahabr&utm_medium=rss)
+- [Российские компании в сфере образования начали активно использовать ИИ для создания учебных материалов](https://habr.com/ru/news/910704/?utm_campaign=910704&utm_source=habrahabr&utm_medium=rss)
 - [Что обновилось в продуктах Selectel в апреле](https://habr.com/ru/companies/selectel/news/910672/?utm_campaign=910672&utm_source=habrahabr&utm_medium=rss)
-- [Производители электроники попросили перенести сроки маркировки смартфонов и ноутбуков](https://habr.com/ru/news/910680/?utm_campaign=910680&utm_source=habrahabr&utm_medium=rss)
-- [Планируемый центр обработки данных OpenAI в Абу-Даби будет в десять раз больше Монако по площади](https://habr.com/ru/news/910662/?utm_campaign=910662&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch запатентовала систему для прогнозирования увольнений сотрудников](https://habr.com/ru/news/910654/?utm_campaign=910654&utm_source=habrahabr&utm_medium=rss)
-- [MWC Barcelona 2025: основные итоги форума от билайн аналитики](https://habr.com/ru/companies/beeline_tech/news/910646/?utm_campaign=910646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
