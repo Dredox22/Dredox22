@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Строим overlay-сеть новой платформы MWS на десятки тысяч ВМ](https://habr.com/ru/companies/mws/news/909704/?utm_campaign=909704&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закрывает доступ к API поиска Bing](https://habr.com/ru/news/910584/?utm_campaign=910584&utm_source=habrahabr&utm_medium=rss)
 - [Visual Studio и Visual Studio Code достигли 50 млн активных разработчиков в месяц](https://habr.com/ru/news/910560/?utm_campaign=910560&utm_source=habrahabr&utm_medium=rss)
 - [OKI Circuit Technology готовится к поставкам 124-слойной платы для монтажа чипов](https://habr.com/ru/news/910550/?utm_campaign=910550&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент Defendnot отключает Microsoft Defender](https://habr.com/ru/news/910538/?utm_campaign=910538&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики проекта Curl предупредили GitHub о проблеме безопасности «вредоносного Unicode»](https://habr.com/ru/news/910534/?utm_campaign=910534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
