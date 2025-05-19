@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OKI Circuit Technology готовится к поставкам 124-слойной платы для монтажа чипов](https://habr.com/ru/news/910550/?utm_campaign=910550&utm_source=habrahabr&utm_medium=rss)
+- [Инструмент Defendnot отключает Microsoft Defender](https://habr.com/ru/news/910538/?utm_campaign=910538&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики проекта Curl предупредили GitHub о проблеме безопасности «вредоносного Unicode»](https://habr.com/ru/news/910534/?utm_campaign=910534&utm_source=habrahabr&utm_medium=rss)
 - [Проект rav1d &lpar;декодер AV1 на Rust&rpar; ищет разработчиков, кто за $20 тыс. сделает это решение таким же быстрым, как на C](https://habr.com/ru/news/910536/?utm_campaign=910536&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сделала доступными новые расширенные настройки для Windows 11](https://habr.com/ru/news/910528/?utm_campaign=910528&utm_source=habrahabr&utm_medium=rss)
-- [Проект Tails прошёл аудит безопасности от Radiically Open Security](https://habr.com/ru/news/910522/?utm_campaign=910522&utm_source=habrahabr&utm_medium=rss)
-- [Вышла децентрализованная система отслеживания ошибок git-bug 0.10](https://habr.com/ru/news/910516/?utm_campaign=910516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
