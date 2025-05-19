@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные разработали численную модель, объясняющую, как зарождается молния](https://habr.com/ru/news/910856/?utm_campaign=910856&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft открыла исходный код подсистемы Windows для Linux &lpar;WSL&rpar; под лицензией MIT](https://habr.com/ru/news/910852/?utm_campaign=910852&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выбрал лучшие опенсорс‑проекты и вручил гранты](https://habr.com/ru/news/910836/?utm_campaign=910836&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/910824/?utm_campaign=910824&utm_source=habrahabr&utm_medium=rss)
 - [Компания Proton готова покинуть Швейцарию в связи с возможными поправками в закон о правилах слежки](https://habr.com/ru/companies/cloud4y/news/910794/?utm_campaign=910794&utm_source=habrahabr&utm_medium=rss)
-- [В результате кибератаки на Минюст Великобритании хакеры получили персональные данные сотен тысяч граждан](https://habr.com/ru/news/910788/?utm_campaign=910788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
