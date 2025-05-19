@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики проекта Curl предупредили GitHub о проблеме безопасности «вредоносного Unicode»](https://habr.com/ru/news/910534/?utm_campaign=910534&utm_source=habrahabr&utm_medium=rss)
+- [Проект rav1d &lpar;декодер AV1 на Rust&rpar; ищет разработчиков, кто за $20 тыс. сделает это решение таким же быстрым, как на C](https://habr.com/ru/news/910536/?utm_campaign=910536&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сделала доступными новые расширенные настройки для Windows 11](https://habr.com/ru/news/910528/?utm_campaign=910528&utm_source=habrahabr&utm_medium=rss)
 - [Проект Tails прошёл аудит безопасности от Radiically Open Security](https://habr.com/ru/news/910522/?utm_campaign=910522&utm_source=habrahabr&utm_medium=rss)
 - [Вышла децентрализованная система отслеживания ошибок git-bug 0.10](https://habr.com/ru/news/910516/?utm_campaign=910516&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GIMP 3.0.4 с исправлениями ошибок в GIMP 3.0](https://habr.com/ru/news/910510/?utm_campaign=910510&utm_source=habrahabr&utm_medium=rss)
-- [Платформа nanoCAD 25 доступна на российских операционных системах](https://habr.com/ru/companies/nanosoft/news/910302/?utm_campaign=910302&utm_source=habrahabr&utm_medium=rss)
-- [Вышел инструментарий управления контейнерами Podman 5.5.0](https://habr.com/ru/news/910396/?utm_campaign=910396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
