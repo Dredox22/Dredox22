@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Proton готова покинуть Швейцарию в связи с возможными поправками в закон о правилах слежки](https://habr.com/ru/companies/cloud4y/news/910794/?utm_campaign=910794&utm_source=habrahabr&utm_medium=rss)
+- [В результате кибератаки на Минюст Великобритании хакеры получили персональные данные сотен тысяч граждан](https://habr.com/ru/news/910788/?utm_campaign=910788&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia выпустила в продажу видеокарту GeForce RTX 5060 от $300](https://habr.com/ru/news/910786/?utm_campaign=910786&utm_source=habrahabr&utm_medium=rss)
 - [Сервис Cloud Desktop доступен для macOS](https://habr.com/ru/companies/vktech/news/910782/?utm_campaign=910782&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» зарегистрировал товарный знак «Яндекс Кит» для SaaS-платформы e-commerce](https://habr.com/ru/news/910742/?utm_campaign=910742&utm_source=habrahabr&utm_medium=rss)
-- [Ошибочные показания лидаров стали причиной падения двух дронов Amazon во время испытаний в дождь](https://habr.com/ru/news/910736/?utm_campaign=910736&utm_source=habrahabr&utm_medium=rss)
-- [Нанотехнологический центр «Шухов.Нано» представил субангстремную технологию для процессоров нового поколения](https://habr.com/ru/news/910728/?utm_campaign=910728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
