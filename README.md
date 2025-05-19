@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что обновилось в продуктах Selectel в апреле](https://habr.com/ru/companies/selectel/news/910672/?utm_campaign=910672&utm_source=habrahabr&utm_medium=rss)
+- [Производители электроники попросили перенести сроки маркировки смартфонов и ноутбуков](https://habr.com/ru/news/910680/?utm_campaign=910680&utm_source=habrahabr&utm_medium=rss)
+- [Планируемый центр обработки данных OpenAI в Абу-Даби будет в десять раз больше Монако по площади](https://habr.com/ru/news/910662/?utm_campaign=910662&utm_source=habrahabr&utm_medium=rss)
 - [InfoWatch запатентовала систему для прогнозирования увольнений сотрудников](https://habr.com/ru/news/910654/?utm_campaign=910654&utm_source=habrahabr&utm_medium=rss)
 - [MWC Barcelona 2025: основные итоги форума от билайн аналитики](https://habr.com/ru/companies/beeline_tech/news/910646/?utm_campaign=910646&utm_source=habrahabr&utm_medium=rss)
-- [Ассоциация ФинТех поддержала новое издание настольной книги ИТ-директора «Внедрять нельзя откладывать»](https://habr.com/ru/companies/k2tech/news/910638/?utm_campaign=910638&utm_source=habrahabr&utm_medium=rss)
-- [ФАС выявила ограничения в доступе операторов связи в жилые комплексы застройщика ПИК](https://habr.com/ru/news/910634/?utm_campaign=910634&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся анонс ремастера первой части Syberia. Он больше напоминает ремейк](https://habr.com/ru/companies/ggsel/news/910620/?utm_campaign=910620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
