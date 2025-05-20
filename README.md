@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Red Hat Enterprise Linux 10](https://habr.com/ru/news/911214/?utm_campaign=911214&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышло демо российского инди‑квеста Antioma](https://habr.com/ru/news/911174/?utm_campaign=911174&utm_source=habrahabr&utm_medium=rss)
 - [Solar Dozor: за 25 лет – от пионера до ведущей DLP-системы](https://habr.com/ru/companies/solarsecurity/news/911148/?utm_campaign=911148&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект меняет лицо спортивных трансляций](https://habr.com/ru/companies/k2tech/news/911146/?utm_campaign=911146&utm_source=habrahabr&utm_medium=rss)
 - [Google предоставила возможность просматривать и редактировать зашифрованные файлы Microsoft Word в Google Docs](https://habr.com/ru/news/911124/?utm_campaign=911124&utm_source=habrahabr&utm_medium=rss)
-- [Роботы‑доставщики станут полноправными участниками дорожного движения: их снабдят номерами и ограничат в скорости](https://habr.com/ru/news/911116/?utm_campaign=911116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
