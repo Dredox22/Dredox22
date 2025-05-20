@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google предоставила возможность просматривать и редактировать зашифрованные файлы Microsoft Word в Google Docs](https://habr.com/ru/news/911124/?utm_campaign=911124&utm_source=habrahabr&utm_medium=rss)
+- [Роботы‑доставщики станут полноправными участниками дорожного движения: их снабдят номерами и ограничат в скорости](https://habr.com/ru/news/911116/?utm_campaign=911116&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Элрон» представила полностью российский одноплатный компьютер на процессоре «СКИФ»](https://habr.com/ru/news/911110/?utm_campaign=911110&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft в KB5061768 для Windows 10 22H2 исправила баг с загрузкой ПК в Recovery и с ключом BitLocker из-за Intel TXT](https://habr.com/ru/news/911090/?utm_campaign=911090&utm_source=habrahabr&utm_medium=rss)
 - [Live coding – зло, собеседования – это цирк, а этика умерла | Spring АйО Подкаст №19](https://habr.com/ru/companies/spring_aio/news/911088/?utm_campaign=911088&utm_source=habrahabr&utm_medium=rss)
-- [В Минюсте РФ предложили расширить уголовную ответственность за DDoS-атаки](https://habr.com/ru/news/911084/?utm_campaign=911084&utm_source=habrahabr&utm_medium=rss)
-- [В Испании отключился мобильный интернет и мобильная связь из-за нештатного обновления сети Telefónica](https://habr.com/ru/news/911072/?utm_campaign=911072&utm_source=habrahabr&utm_medium=rss)
-- [В PowerPoint на Mac появился инструмент Reading Order Pane](https://habr.com/ru/news/911054/?utm_campaign=911054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
