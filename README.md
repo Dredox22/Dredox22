@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm выпустит процессор для ЦОД, который подключается к чипам Nvidia](https://habr.com/ru/news/911034/?utm_campaign=911034&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс»: китайская языковая модель DeepSeek может усилить конкуренцию в сфере ИИ](https://habr.com/ru/news/911024/?utm_campaign=911024&utm_source=habrahabr&utm_medium=rss)
+- [Fortune: инженер-программист с 20-летним стажем не может найти работу из-за искусственного интеллекта](https://habr.com/ru/news/911022/?utm_campaign=911022&utm_source=habrahabr&utm_medium=rss)
 - [В МФТИ создали технологию для улучшения сигнала мобильной связи](https://habr.com/ru/news/911020/?utm_campaign=911020&utm_source=habrahabr&utm_medium=rss)
 - [IVA Technologies и Ideco подтвердили совместимость своих решений](https://habr.com/ru/companies/iva_tech/news/911006/?utm_campaign=911006&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пакетный менеджер APT 3.1.0](https://habr.com/ru/news/910964/?utm_campaign=910964&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft внедряет квантовое шифрование в тестовые сборки Windows](https://habr.com/ru/news/910946/?utm_campaign=910946&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI планирует объединить несколько моделей в GPT-5](https://habr.com/ru/news/910940/?utm_campaign=910940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
