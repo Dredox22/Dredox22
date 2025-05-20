@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа nanoCAD 25: техническое обновление САПР](https://habr.com/ru/companies/nanosoft/news/910838/?utm_campaign=910838&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила ИИ-агента для GitHub](https://habr.com/ru/news/910916/?utm_campaign=910916&utm_source=habrahabr&utm_medium=rss)
 - [Нейросетевой ассистент от JetBrains стал доступен в виде плагина для VS Code](https://habr.com/ru/news/910906/?utm_campaign=910906&utm_source=habrahabr&utm_medium=rss)
 - [Учёные разработали численную модель, объясняющую, как зарождается молния](https://habr.com/ru/news/910856/?utm_campaign=910856&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft открыла исходный код подсистемы Windows для Linux &lpar;WSL&rpar; под лицензией MIT](https://habr.com/ru/news/910852/?utm_campaign=910852&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выбрал лучшие опенсорс‑проекты и вручил гранты](https://habr.com/ru/news/910836/?utm_campaign=910836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
