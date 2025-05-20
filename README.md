@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar Dozor: за 25 лет – от пионера до ведущей DLP-системы](https://habr.com/ru/companies/solarsecurity/news/911148/?utm_campaign=911148&utm_source=habrahabr&utm_medium=rss)
+- [Искусственный интеллект меняет лицо спортивных трансляций](https://habr.com/ru/companies/k2tech/news/911146/?utm_campaign=911146&utm_source=habrahabr&utm_medium=rss)
 - [Google предоставила возможность просматривать и редактировать зашифрованные файлы Microsoft Word в Google Docs](https://habr.com/ru/news/911124/?utm_campaign=911124&utm_source=habrahabr&utm_medium=rss)
 - [Роботы‑доставщики станут полноправными участниками дорожного движения: их снабдят номерами и ограничат в скорости](https://habr.com/ru/news/911116/?utm_campaign=911116&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Элрон» представила полностью российский одноплатный компьютер на процессоре «СКИФ»](https://habr.com/ru/news/911110/?utm_campaign=911110&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft в KB5061768 для Windows 10 22H2 исправила баг с загрузкой ПК в Recovery и с ключом BitLocker из-за Intel TXT](https://habr.com/ru/news/911090/?utm_campaign=911090&utm_source=habrahabr&utm_medium=rss)
-- [Live coding – зло, собеседования – это цирк, а этика умерла | Spring АйО Подкаст №19](https://habr.com/ru/companies/spring_aio/news/911088/?utm_campaign=911088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
