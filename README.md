@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Платформа nanoCAD 25: техническое обновление САПР](https://habr.com/ru/companies/nanosoft/news/910838/?utm_campaign=910838&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила ИИ-агента для GitHub](https://habr.com/ru/news/910916/?utm_campaign=910916&utm_source=habrahabr&utm_medium=rss)
-- [Нейросетевой ассистент от JetBrains стал доступен в виде плагина для VS Code](https://habr.com/ru/news/910906/?utm_campaign=910906&utm_source=habrahabr&utm_medium=rss)
-- [Учёные разработали численную модель, объясняющую, как зарождается молния](https://habr.com/ru/news/910856/?utm_campaign=910856&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft открыла исходный код подсистемы Windows для Linux &lpar;WSL&rpar; под лицензией MIT](https://habr.com/ru/news/910852/?utm_campaign=910852&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft внедряет квантовое шифрование в тестовые сборки Windows](https://habr.com/ru/news/910946/?utm_campaign=910946&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI планирует объединить несколько моделей в GPT-5](https://habr.com/ru/news/910940/?utm_campaign=910940&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: выручка «РДП.ру» &lpar;разработчика решений ТСПУ на сетях операторов связи&rpar; сократилась в 2024 году](https://habr.com/ru/news/910948/?utm_campaign=910948&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустил приложение NotebookLM для Android и iOS](https://habr.com/ru/news/910936/?utm_campaign=910936&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft открыла исходный код консольного текстового редактора Edit](https://habr.com/ru/news/910934/?utm_campaign=910934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
