@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Qualcomm выпустит процессор для ЦОД, который подключается к чипам Nvidia](https://habr.com/ru/news/911034/?utm_campaign=911034&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс»: китайская языковая модель DeepSeek может усилить конкуренцию в сфере ИИ](https://habr.com/ru/news/911024/?utm_campaign=911024&utm_source=habrahabr&utm_medium=rss)
-- [Fortune: инженер-программист с 20-летним стажем не может найти работу из-за искусственного интеллекта](https://habr.com/ru/news/911022/?utm_campaign=911022&utm_source=habrahabr&utm_medium=rss)
-- [В МФТИ создали технологию для улучшения сигнала мобильной связи](https://habr.com/ru/news/911020/?utm_campaign=911020&utm_source=habrahabr&utm_medium=rss)
-- [IVA Technologies и Ideco подтвердили совместимость своих решений](https://habr.com/ru/companies/iva_tech/news/911006/?utm_campaign=911006&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft в KB5061768 для Windows 10 22H2 исправила баг с загрузкой ПК в Recovery и с ключом BitLocker из-за Intel TXT](https://habr.com/ru/news/911090/?utm_campaign=911090&utm_source=habrahabr&utm_medium=rss)
+- [Live coding – зло, собеседования – это цирк, а этика умерла | Spring АйО Подкаст №19](https://habr.com/ru/companies/spring_aio/news/911088/?utm_campaign=911088&utm_source=habrahabr&utm_medium=rss)
+- [В Минюсте РФ предложили расширить уголовную ответственность за DDoS-атаки](https://habr.com/ru/news/911084/?utm_campaign=911084&utm_source=habrahabr&utm_medium=rss)
+- [В Испании отключился мобильный интернет и мобильная связь из-за нештатного обновления сети Telefónica](https://habr.com/ru/news/911072/?utm_campaign=911072&utm_source=habrahabr&utm_medium=rss)
+- [В PowerPoint на Mac появился инструмент Reading Order Pane](https://habr.com/ru/news/911054/?utm_campaign=911054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
