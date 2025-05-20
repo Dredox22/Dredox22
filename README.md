@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В МФТИ создали технологию для улучшения сигнала мобильной связи](https://habr.com/ru/news/911020/?utm_campaign=911020&utm_source=habrahabr&utm_medium=rss)
+- [IVA Technologies и Ideco подтвердили совместимость своих решений](https://habr.com/ru/companies/iva_tech/news/911006/?utm_campaign=911006&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пакетный менеджер APT 3.1.0](https://habr.com/ru/news/910964/?utm_campaign=910964&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедряет квантовое шифрование в тестовые сборки Windows](https://habr.com/ru/news/910946/?utm_campaign=910946&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI планирует объединить несколько моделей в GPT-5](https://habr.com/ru/news/910940/?utm_campaign=910940&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: выручка «РДП.ру» &lpar;разработчика решений ТСПУ на сетях операторов связи&rpar; сократилась в 2024 году](https://habr.com/ru/news/910948/?utm_campaign=910948&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустил приложение NotebookLM для Android и iOS](https://habr.com/ru/news/910936/?utm_campaign=910936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
