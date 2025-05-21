@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google запускает «режим ИИ» в поиске: амбициозный ответ ChatGPT и другим конкурентам](https://habr.com/ru/companies/finam_broker/news/911436/?utm_campaign=911436&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет» объявила деловую программу на Positive Hack Days 2025](https://habr.com/ru/companies/jetinfosystems/news/911394/?utm_campaign=911394&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» сообщил о создании ИИ‑ассистента по информационной безопасности под названием Safeliner](https://habr.com/ru/news/911384/?utm_campaign=911384&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Ultimatum — браузер с поддержкой расширений на андроид и открытым кодом](https://habr.com/ru/news/911364/?utm_campaign=911364&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость комплекса UDV DATAPK Industrial Kit и ПК «Синоникс» от «АйТи Бастион»](https://habr.com/ru/companies/best_pam/news/911358/?utm_campaign=911358&utm_source=habrahabr&utm_medium=rss)
+- [Google Chrome сможет автоматически менять слабые пароли](https://habr.com/ru/news/911490/?utm_campaign=911490&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве ИТ и ИБ за апрель 2025 года](https://habr.com/ru/companies/ussc/news/911488/?utm_campaign=911488&utm_source=habrahabr&utm_medium=rss)
+- [Криминал там правит балл: F6 представила итоги исследования подпольного бизнеса на программах лояльности](https://habr.com/ru/companies/F6/news/911154/?utm_campaign=911154&utm_source=habrahabr&utm_medium=rss)
+- [На Reddit обнаружили, что ИИ Copilot на GitHub медленно сводит с ума сотрудников Microsoft](https://habr.com/ru/news/911482/?utm_campaign=911482&utm_source=habrahabr&utm_medium=rss)
+- [Rovenix.ru — как найти любой новый сайт с нужными вам ключевыми словами](https://habr.com/ru/news/911466/?utm_campaign=911466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
