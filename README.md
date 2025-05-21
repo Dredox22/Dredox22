@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Казахстан прибыл самый мощный суперкомпьютер в Центральной Азии](https://habr.com/ru/news/911598/?utm_campaign=911598&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PowerToys 0.91](https://habr.com/ru/news/911590/?utm_campaign=911590&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE зафиксировала смену тактики хакгруппировки Silent Werewolf](https://habr.com/ru/news/911538/?utm_campaign=911538&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome сможет автоматически менять слабые пароли](https://habr.com/ru/news/911490/?utm_campaign=911490&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за апрель 2025 года](https://habr.com/ru/companies/ussc/news/911488/?utm_campaign=911488&utm_source=habrahabr&utm_medium=rss)
-- [Криминал там правит балл: F6 представила итоги исследования подпольного бизнеса на программах лояльности](https://habr.com/ru/companies/F6/news/911154/?utm_campaign=911154&utm_source=habrahabr&utm_medium=rss)
-- [На Reddit обнаружили, что ИИ Copilot на GitHub медленно сводит с ума сотрудников Microsoft](https://habr.com/ru/news/911482/?utm_campaign=911482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
