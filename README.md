@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Ultimatum — браузер с поддержкой расширений на андроид и открытым кодом](https://habr.com/ru/news/911364/?utm_campaign=911364&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость комплекса UDV DATAPK Industrial Kit и ПК «Синоникс» от «АйТи Бастион»](https://habr.com/ru/companies/best_pam/news/911358/?utm_campaign=911358&utm_source=habrahabr&utm_medium=rss)
+- [Open Source PaaS Cozystack добавили на Cloud Native AI Landscape: можно запускать AI-приложения в K8s и VMs](https://habr.com/ru/companies/aenix/news/911352/?utm_campaign=911352&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил Mystical — инструмент, который визуализирует код на PostScript в виде магических манускриптов](https://habr.com/ru/news/911350/?utm_campaign=911350&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Apache NetBeans 26](https://habr.com/ru/news/911340/?utm_campaign=911340&utm_source=habrahabr&utm_medium=rss)
-- [Релиз AlmaLinux 9.6](https://habr.com/ru/news/911306/?utm_campaign=911306&utm_source=habrahabr&utm_medium=rss)
-- [Google запускает агента по программированию Jules](https://habr.com/ru/companies/bothub/news/911302/?utm_campaign=911302&utm_source=habrahabr&utm_medium=rss)
-- [Google обновляет Gemini 2.5 Pro, добавляя новый режим Deep Think для расширенных логических возможностей](https://habr.com/ru/companies/bothub/news/911296/?utm_campaign=911296&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
