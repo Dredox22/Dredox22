@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запускает «режим ИИ» в поиске: амбициозный ответ ChatGPT и другим конкурентам](https://habr.com/ru/companies/finam_broker/news/911436/?utm_campaign=911436&utm_source=habrahabr&utm_medium=rss)
 - [«Инфосистемы Джет» объявила деловую программу на Positive Hack Days 2025](https://habr.com/ru/companies/jetinfosystems/news/911394/?utm_campaign=911394&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑Банк» сообщил о создании ИИ‑ассистента по информационной безопасности под названием Safeliner](https://habr.com/ru/news/911384/?utm_campaign=911384&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Ultimatum — браузер с поддержкой расширений на андроид и открытым кодом](https://habr.com/ru/news/911364/?utm_campaign=911364&utm_source=habrahabr&utm_medium=rss)
 - [Подтверждена совместимость комплекса UDV DATAPK Industrial Kit и ПК «Синоникс» от «АйТи Бастион»](https://habr.com/ru/companies/best_pam/news/911358/?utm_campaign=911358&utm_source=habrahabr&utm_medium=rss)
-- [Open Source PaaS Cozystack добавили на Cloud Native AI Landscape: можно запускать AI-приложения в K8s и VMs](https://habr.com/ru/companies/aenix/news/911352/?utm_campaign=911352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
