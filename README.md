@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple опубликовала программу WWDC 2025](https://habr.com/ru/news/911270/?utm_campaign=911270&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: нейросетевые чат-боты помогают сотрудникам сэкономить всего 25 минут рабочего времени](https://habr.com/ru/news/911258/?utm_campaign=911258&utm_source=habrahabr&utm_medium=rss)
 - [В KDE появится собственный менеджер виртуальных машин Karton](https://habr.com/ru/news/911250/?utm_campaign=911250&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Red Hat Enterprise Linux 10](https://habr.com/ru/news/911214/?utm_campaign=911214&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышло демо российского инди‑квеста Antioma](https://habr.com/ru/news/911174/?utm_campaign=911174&utm_source=habrahabr&utm_medium=rss)
-- [Solar Dozor: за 25 лет – от пионера до ведущей DLP-системы](https://habr.com/ru/companies/solarsecurity/news/911148/?utm_campaign=911148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
