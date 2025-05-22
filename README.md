@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [RIC Robotics представила рабочий прототип строительного робота Zyrex с ИИ](https://habr.com/ru/news/911776/?utm_campaign=911776&utm_source=habrahabr&utm_medium=rss)
-- [Алиса в Поиске: встречаем новые ответы на сложные запросы](https://habr.com/ru/companies/yandex/news/911770/?utm_campaign=911770&utm_source=habrahabr&utm_medium=rss)
-- [Миграция с Power BI на российскую платформу Luxms BI: полезные гайды](https://habr.com/ru/companies/luxms_bi/news/911788/?utm_campaign=911788&utm_source=habrahabr&utm_medium=rss)
-- [Поиск «Яндекса» научился рассуждать и генерировать контент с помощью технологий «Алисы»](https://habr.com/ru/news/911780/?utm_campaign=911780&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: 394 тысячи ПК с Windows заражены вредоносным ПО Lumma](https://habr.com/ru/news/911766/?utm_campaign=911766&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила платформу для локальной разработки ИИ](https://habr.com/ru/news/911806/?utm_campaign=911806&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» добавил «Вертикали Поиска» для некоторых категорий товаров и услуг](https://habr.com/ru/news/911828/?utm_campaign=911828&utm_source=habrahabr&utm_medium=rss)
+- [«Росгосстрах» номинирован на премию Data Award за внедрение ИИ в расчет тарифов по каско](https://habr.com/ru/companies/rgs_it/news/911824/?utm_campaign=911824&utm_source=habrahabr&utm_medium=rss)
+- [Прототип «универсального помощника ИИ» от Google теперь может выполнять задачи без запроса от пользователя](https://habr.com/ru/news/911796/?utm_campaign=911796&utm_source=habrahabr&utm_medium=rss)
+- [Издатели новостей назвали поисковый режим ИИ Google «воровством»](https://habr.com/ru/news/911820/?utm_campaign=911820&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
