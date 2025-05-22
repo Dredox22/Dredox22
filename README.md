@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Media Player Classic — Home Cinema 2.4.3](https://habr.com/ru/news/911682/?utm_campaign=911682&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI покупает стартап io Джонни Айва за $6,5 млрд для создания устройств с ИИ](https://habr.com/ru/news/911678/?utm_campaign=911678&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.10](https://habr.com/ru/news/911596/?utm_campaign=911596&utm_source=habrahabr&utm_medium=rss)
 - [«Обзор от ИИ» в поиске Google стал доступен для пользователей из России](https://habr.com/ru/news/911638/?utm_campaign=911638&utm_source=habrahabr&utm_medium=rss)
 - [В Казахстан прибыл самый мощный суперкомпьютер в Центральной Азии](https://habr.com/ru/news/911598/?utm_campaign=911598&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PowerToys 0.91](https://habr.com/ru/news/911590/?utm_campaign=911590&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE зафиксировала смену тактики хакгруппировки Silent Werewolf](https://habr.com/ru/news/911538/?utm_campaign=911538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
