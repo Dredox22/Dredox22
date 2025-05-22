@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия IVA SBC 9.0 — решения для защиты и управления трафиком корпоративных коммуникаций](https://habr.com/ru/companies/iva_tech/news/911744/?utm_campaign=911744&utm_source=habrahabr&utm_medium=rss)
+- [«Московская биржа» создала ИИ-ассистента MOEX Insight AI](https://habr.com/ru/news/911694/?utm_campaign=911694&utm_source=habrahabr&utm_medium=rss)
 - [«Инженер по глубокому обучению нейросетей»: новый курс в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/910982/?utm_campaign=910982&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat представила открытый проект llm-d — это распределённая структура вывода LLM на основе Kubernetes](https://habr.com/ru/news/911690/?utm_campaign=911690&utm_source=habrahabr&utm_medium=rss)
 - [Петр Манин будет заниматься развитием направления гражданского строительства в «Нанософт»](https://habr.com/ru/companies/nanosoft/news/910998/?utm_campaign=910998&utm_source=habrahabr&utm_medium=rss)
-- [Расследование показало, что хакеры около трёх лет имели доступ к IT-системам южнокорейского оператора связи SK Telecom](https://habr.com/ru/news/911686/?utm_campaign=911686&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Media Player Classic — Home Cinema 2.4.3](https://habr.com/ru/news/911682/?utm_campaign=911682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
