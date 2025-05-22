@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла новая версия IVA SBC 9.0 — решения для защиты и управления трафиком корпоративных коммуникаций](https://habr.com/ru/companies/iva_tech/news/911744/?utm_campaign=911744&utm_source=habrahabr&utm_medium=rss)
-- [«Московская биржа» создала ИИ-ассистента MOEX Insight AI](https://habr.com/ru/news/911694/?utm_campaign=911694&utm_source=habrahabr&utm_medium=rss)
-- [«Инженер по глубокому обучению нейросетей»: новый курс в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/910982/?utm_campaign=910982&utm_source=habrahabr&utm_medium=rss)
-- [Red Hat представила открытый проект llm-d — это распределённая структура вывода LLM на основе Kubernetes](https://habr.com/ru/news/911690/?utm_campaign=911690&utm_source=habrahabr&utm_medium=rss)
-- [Петр Манин будет заниматься развитием направления гражданского строительства в «Нанософт»](https://habr.com/ru/companies/nanosoft/news/910998/?utm_campaign=910998&utm_source=habrahabr&utm_medium=rss)
+- [RIC Robotics представила рабочий прототип строительного робота Zyrex с ИИ](https://habr.com/ru/news/911776/?utm_campaign=911776&utm_source=habrahabr&utm_medium=rss)
+- [Алиса в Поиске: встречаем новые ответы на сложные запросы](https://habr.com/ru/companies/yandex/news/911770/?utm_campaign=911770&utm_source=habrahabr&utm_medium=rss)
+- [Миграция с Power BI на российскую платформу Luxms BI: полезные гайды](https://habr.com/ru/companies/luxms_bi/news/911788/?utm_campaign=911788&utm_source=habrahabr&utm_medium=rss)
+- [Поиск «Яндекса» научился рассуждать и генерировать контент с помощью технологий «Алисы»](https://habr.com/ru/news/911780/?utm_campaign=911780&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: 394 тысячи ПК с Windows заражены вредоносным ПО Lumma](https://habr.com/ru/news/911766/?utm_campaign=911766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
