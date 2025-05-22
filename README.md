@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft представила платформу для локальной разработки ИИ](https://habr.com/ru/news/911806/?utm_campaign=911806&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» добавил «Вертикали Поиска» для некоторых категорий товаров и услуг](https://habr.com/ru/news/911828/?utm_campaign=911828&utm_source=habrahabr&utm_medium=rss)
-- [«Росгосстрах» номинирован на премию Data Award за внедрение ИИ в расчет тарифов по каско](https://habr.com/ru/companies/rgs_it/news/911824/?utm_campaign=911824&utm_source=habrahabr&utm_medium=rss)
-- [Прототип «универсального помощника ИИ» от Google теперь может выполнять задачи без запроса от пользователя](https://habr.com/ru/news/911796/?utm_campaign=911796&utm_source=habrahabr&utm_medium=rss)
-- [Издатели новостей назвали поисковый режим ИИ Google «воровством»](https://habr.com/ru/news/911820/?utm_campaign=911820&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Ocenaudio 3.15 — бесплатный мультиплатформенный аудио- и музыкальный редактор](https://habr.com/ru/news/911858/?utm_campaign=911858&utm_source=habrahabr&utm_medium=rss)
+- [Мессенджер Signal защитил чаты от создания скриншотов, заблокировав Recall в Windows 11](https://habr.com/ru/news/911704/?utm_campaign=911704&utm_source=habrahabr&utm_medium=rss)
+- [Chicago Sun-Times опубликовала список книг для летнего чтения, из 15 книг 10 оказались выдумкой ИИ](https://habr.com/ru/news/911846/?utm_campaign=911846&utm_source=habrahabr&utm_medium=rss)
+- [Gigabyte готовит к выпуску низкопрофильную версию GeForce RTX 5060](https://habr.com/ru/news/911810/?utm_campaign=911810&utm_source=habrahabr&utm_medium=rss)
+- [VxKex NEXT — будущее за Windows 7](https://habr.com/ru/news/911834/?utm_campaign=911834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
