@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запустила функцию примерки одежды с помощью ИИ](https://habr.com/ru/news/911964/?utm_campaign=911964&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies показала антивирусный модуль для MaxPatrol EDR](https://habr.com/ru/news/911892/?utm_campaign=911892&utm_source=habrahabr&utm_medium=rss)
 - [Билайн и ICL Services обеспечивают технологическую независимость регионального правительства Ленобласти](https://habr.com/ru/companies/icl_group/news/911888/?utm_campaign=911888&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Ocenaudio 3.15 — бесплатный мультиплатформенный аудио- и музыкальный редактор](https://habr.com/ru/news/911858/?utm_campaign=911858&utm_source=habrahabr&utm_medium=rss)
 - [Мессенджер Signal защитил чаты от создания скриншотов, заблокировав Recall в Windows 11](https://habr.com/ru/news/911704/?utm_campaign=911704&utm_source=habrahabr&utm_medium=rss)
-- [Chicago Sun-Times опубликовала список книг для летнего чтения, из 15 книг 10 оказались выдумкой ИИ](https://habr.com/ru/news/911846/?utm_campaign=911846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
