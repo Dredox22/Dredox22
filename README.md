@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat представила открытый проект llm-d — это распределённая структура вывода LLM на основе Kubernetes](https://habr.com/ru/news/911690/?utm_campaign=911690&utm_source=habrahabr&utm_medium=rss)
+- [Петр Манин будет заниматься развитием направления гражданского строительства в «Нанософт»](https://habr.com/ru/companies/nanosoft/news/910998/?utm_campaign=910998&utm_source=habrahabr&utm_medium=rss)
+- [Расследование показало, что хакеры около трёх лет имели доступ к IT-системам южнокорейского оператора связи SK Telecom](https://habr.com/ru/news/911686/?utm_campaign=911686&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Media Player Classic — Home Cinema 2.4.3](https://habr.com/ru/news/911682/?utm_campaign=911682&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI покупает стартап io Джонни Айва за $6,5 млрд для создания устройств с ИИ](https://habr.com/ru/news/911678/?utm_campaign=911678&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.10](https://habr.com/ru/news/911596/?utm_campaign=911596&utm_source=habrahabr&utm_medium=rss)
-- [«Обзор от ИИ» в поиске Google стал доступен для пользователей из России](https://habr.com/ru/news/911638/?utm_campaign=911638&utm_source=habrahabr&utm_medium=rss)
-- [В Казахстан прибыл самый мощный суперкомпьютер в Центральной Азии](https://habr.com/ru/news/911598/?utm_campaign=911598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
