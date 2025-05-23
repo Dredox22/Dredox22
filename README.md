@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая машина баз данных Tantor XData 2B на российском процессоре Baikal-S](https://habr.com/ru/companies/tantor/news/912268/?utm_campaign=912268&utm_source=habrahabr&utm_medium=rss)
 - [Owlcat Games анонсировала новую игру Warhammer 40,000: Dark Heresy](https://habr.com/ru/news/912238/?utm_campaign=912238&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры анонсировало создание мобильного приложения для защиты граждан РФ от кибермошенничества](https://habr.com/ru/news/912232/?utm_campaign=912232&utm_source=habrahabr&utm_medium=rss)
 - [MSI представила материнскую плату B850MPOWER с опцией PinSafe Design — без острых контактов на обратной стороне](https://habr.com/ru/news/912224/?utm_campaign=912224&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies запустит первый в России сервис для защиты мобильных приложений от обратной разработки](https://habr.com/ru/companies/pt/news/912222/?utm_campaign=912222&utm_source=habrahabr&utm_medium=rss)
-- [Google представила тарифный план AI Ultra за $250](https://habr.com/ru/news/912210/?utm_campaign=912210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
