@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Luxms BI в тройке лидеров среди BI-вендоров по версии TAdviser](https://habr.com/ru/companies/luxms_bi/news/912120/?utm_campaign=912120&utm_source=habrahabr&utm_medium=rss)
+- [Минорный релиз etcd v3.6 с важными изменениями: память −50 %, пропускная способность +10 % и новый протокол v3discovery](https://habr.com/ru/companies/flant/news/912118/?utm_campaign=912118&utm_source=habrahabr&utm_medium=rss)
+- [30 лет с Java. А что вас в ней бесит?](https://habr.com/ru/companies/axiomjdk/news/912102/?utm_campaign=912102&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Portable Computing Language &lpar;PoCL&rpar; 7.0](https://habr.com/ru/news/912104/?utm_campaign=912104&utm_source=habrahabr&utm_medium=rss)
 - [Valve выпустила стабильный дистрибутив для игровых консолей SteamOS 3.7.8](https://habr.com/ru/news/912082/?utm_campaign=912082&utm_source=habrahabr&utm_medium=rss)
-- [Системный анализ: online-практикум от IT-компании SimbirSoft](https://habr.com/ru/companies/simbirsoft/news/912080/?utm_campaign=912080&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenTESArena 0.16.0](https://habr.com/ru/news/912072/?utm_campaign=912072&utm_source=habrahabr&utm_medium=rss)
-- [В Совете Федерации поддержали образовательную инициативу Группы «Нанософт»](https://habr.com/ru/companies/nanosoft/news/911706/?utm_campaign=911706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
