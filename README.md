@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Luxms BI в тройке лидеров среди BI-вендоров по версии TAdviser](https://habr.com/ru/companies/luxms_bi/news/912120/?utm_campaign=912120&utm_source=habrahabr&utm_medium=rss)
-- [Минорный релиз etcd v3.6 с важными изменениями: память −50 %, пропускная способность +10 % и новый протокол v3discovery](https://habr.com/ru/companies/flant/news/912118/?utm_campaign=912118&utm_source=habrahabr&utm_medium=rss)
-- [30 лет с Java. А что вас в ней бесит?](https://habr.com/ru/companies/axiomjdk/news/912102/?utm_campaign=912102&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Portable Computing Language &lpar;PoCL&rpar; 7.0](https://habr.com/ru/news/912104/?utm_campaign=912104&utm_source=habrahabr&utm_medium=rss)
-- [Valve выпустила стабильный дистрибутив для игровых консолей SteamOS 3.7.8](https://habr.com/ru/news/912082/?utm_campaign=912082&utm_source=habrahabr&utm_medium=rss)
+- [AMD защищает опцию 8 ГБ VRAM в новых видеокартах для игр в 1080p, так как этого «на самом деле более чем достаточно»](https://habr.com/ru/news/912188/?utm_campaign=912188&utm_source=habrahabr&utm_medium=rss)
+- [Google представила SynthID Detector — «портал проверки» контента на водяной знак SynthID](https://habr.com/ru/news/912004/?utm_campaign=912004&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила крупные обновления для Paint, Notepad и Snipping Tool](https://habr.com/ru/news/912184/?utm_campaign=912184&utm_source=habrahabr&utm_medium=rss)
+- [Чему учат в онлайн-магистратуре Яндекса: специализация «AppSec-инженер»](https://habr.com/ru/companies/yandex_praktikum/news/911884/?utm_campaign=911884&utm_source=habrahabr&utm_medium=rss)
+- [Spotify: поддержка внешних платежей на iOS уже привела к росту подписок](https://habr.com/ru/news/912164/?utm_campaign=912164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
