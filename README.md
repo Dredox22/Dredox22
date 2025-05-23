@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила тарифный план AI Ultra за $250](https://habr.com/ru/news/912210/?utm_campaign=912210&utm_source=habrahabr&utm_medium=rss)
 - [AMD защищает опцию 8 ГБ VRAM в новых видеокартах для игр в 1080p, так как этого «на самом деле более чем достаточно»](https://habr.com/ru/news/912188/?utm_campaign=912188&utm_source=habrahabr&utm_medium=rss)
 - [Google представила SynthID Detector — «портал проверки» контента на водяной знак SynthID](https://habr.com/ru/news/912004/?utm_campaign=912004&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила крупные обновления для Paint, Notepad и Snipping Tool](https://habr.com/ru/news/912184/?utm_campaign=912184&utm_source=habrahabr&utm_medium=rss)
 - [Чему учат в онлайн-магистратуре Яндекса: специализация «AppSec-инженер»](https://habr.com/ru/companies/yandex_praktikum/news/911884/?utm_campaign=911884&utm_source=habrahabr&utm_medium=rss)
-- [Spotify: поддержка внешних платежей на iOS уже привела к росту подписок](https://habr.com/ru/news/912164/?utm_campaign=912164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
