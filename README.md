@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve выпустила стабильный дистрибутив для игровых консолей SteamOS 3.7.8](https://habr.com/ru/news/912082/?utm_campaign=912082&utm_source=habrahabr&utm_medium=rss)
+- [Системный анализ: online-практикум от IT-компании SimbirSoft](https://habr.com/ru/companies/simbirsoft/news/912080/?utm_campaign=912080&utm_source=habrahabr&utm_medium=rss)
+- [Релиз OpenTESArena 0.16.0](https://habr.com/ru/news/912072/?utm_campaign=912072&utm_source=habrahabr&utm_medium=rss)
 - [В Совете Федерации поддержали образовательную инициативу Группы «Нанософт»](https://habr.com/ru/companies/nanosoft/news/911706/?utm_campaign=911706&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla объявила о закрытии своего сервиса закладок Pocket и дополнения Fakespot, чтобы сосредоточиться на Firefox](https://habr.com/ru/news/912054/?utm_campaign=912054&utm_source=habrahabr&utm_medium=rss)
-- [Спустя 18 лет компания Mozilla закрывает сервис для хранения web закладок — Pocket](https://habr.com/ru/news/912052/?utm_campaign=912052&utm_source=habrahabr&utm_medium=rss)
-- [Apple вернула Fortnite в App Store, но только в США](https://habr.com/ru/news/912038/?utm_campaign=912038&utm_source=habrahabr&utm_medium=rss)
-- [Volvo интегрирует в свои автомобили языковую модель Gemini от Google](https://habr.com/ru/news/912034/?utm_campaign=912034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
