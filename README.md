@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбер предложил багхантерам присоединиться к программе Sber Anti‑Fraud Bug Bounty на BI.ZONE Bug Bounty](https://habr.com/ru/news/912364/?utm_campaign=912364&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Sigil 2.5.0 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/912362/?utm_campaign=912362&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного набора компиляторов GCC 14.3](https://habr.com/ru/news/912358/?utm_campaign=912358&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies начала сотрудничество с несколькими университетами Индонезии](https://habr.com/ru/news/912342/?utm_campaign=912342&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Glitch объявила о фактическом закрытии с 8 июля 2025 года](https://habr.com/ru/news/912328/?utm_campaign=912328&utm_source=habrahabr&utm_medium=rss)
-- [Около 11,5 тыс. глушилок используют во время ЕГЭ, чтобы дети не списывали](https://habr.com/ru/news/912304/?utm_campaign=912304&utm_source=habrahabr&utm_medium=rss)
-- [Новая машина баз данных Tantor XData 2B на российском процессоре Baikal-S](https://habr.com/ru/companies/tantor/news/912268/?utm_campaign=912268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
