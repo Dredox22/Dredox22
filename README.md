@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Индийский сайт поиска работы исправил баг с раскрытием e-mail рекрутеров](https://habr.com/ru/news/912410/?utm_campaign=912410&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: плата ₽4,94 за обращение к инфраструктуре электронного правительства нужна из-за роста запросов от банков](https://habr.com/ru/news/912424/?utm_campaign=912424&utm_source=habrahabr&utm_medium=rss)
 - [В МВД РФ предложили рассмотреть возможность тотального базового запрета для граждан на кредиты для защиты от мошенников](https://habr.com/ru/news/912408/?utm_campaign=912408&utm_source=habrahabr&utm_medium=rss)
-- [Писатели случайно оставляют промпты для ИИ в своих опубликованных книга](https://habr.com/ru/news/912400/?utm_campaign=912400&utm_source=habrahabr&utm_medium=rss)
+- [Писатели случайно оставляют промпты для ИИ в своих опубликованных книгах](https://habr.com/ru/news/912400/?utm_campaign=912400&utm_source=habrahabr&utm_medium=rss)
 - [Эффективная разработка с Нейтрино и PVS-Studio: инструменты, безопасность и качество кода](https://habr.com/ru/companies/pvs-studio/news/912180/?utm_campaign=912180&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI обновляет модель искусственного интеллекта, на которой работает агент Operator](https://habr.com/ru/companies/bothub/news/912374/?utm_campaign=912374&utm_source=habrahabr&utm_medium=rss)
-- [Сбер предложил багхантерам присоединиться к программе Sber Anti‑Fraud Bug Bounty на BI.ZONE Bug Bounty](https://habr.com/ru/news/912364/?utm_campaign=912364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
