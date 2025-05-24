@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В МВД РФ предложили рассмотреть возможность тотального базового запрета для граждан на кредиты для защиты от мошенников](https://habr.com/ru/news/912408/?utm_campaign=912408&utm_source=habrahabr&utm_medium=rss)
+- [Писатели случайно оставляют промпты для ИИ в своих опубликованных книга](https://habr.com/ru/news/912400/?utm_campaign=912400&utm_source=habrahabr&utm_medium=rss)
+- [Эффективная разработка с Нейтрино и PVS-Studio: инструменты, безопасность и качество кода](https://habr.com/ru/companies/pvs-studio/news/912180/?utm_campaign=912180&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обновляет модель искусственного интеллекта, на которой работает агент Operator](https://habr.com/ru/companies/bothub/news/912374/?utm_campaign=912374&utm_source=habrahabr&utm_medium=rss)
 - [Сбер предложил багхантерам присоединиться к программе Sber Anti‑Fraud Bug Bounty на BI.ZONE Bug Bounty](https://habr.com/ru/news/912364/?utm_campaign=912364&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Sigil 2.5.0 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/912362/?utm_campaign=912362&utm_source=habrahabr&utm_medium=rss)
-- [Релиз свободного набора компиляторов GCC 14.3](https://habr.com/ru/news/912358/?utm_campaign=912358&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies начала сотрудничество с несколькими университетами Индонезии](https://habr.com/ru/news/912342/?utm_campaign=912342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
