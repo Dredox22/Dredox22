@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила WearOS 6 с увеличенным времени автономной работы гаджетов и новым дизайном Material 3 Expressive](https://habr.com/ru/news/912600/?utm_campaign=912600&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует функцию «Действия ИИ» в проводнике Windows 11](https://habr.com/ru/news/912596/?utm_campaign=912596&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla представила более умную и простую адресную строку в Firefox](https://habr.com/ru/news/912566/?utm_campaign=912566&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик Андуин Сюэ представил план развития проекта AnduinOS — AnduinOS 1.5 LTS выйдет в апреле 2026 года](https://habr.com/ru/news/912540/?utm_campaign=912540&utm_source=habrahabr&utm_medium=rss)
 - [В годовщину вышло обновление утилиты Shotstars v3.3 для аналитики GitHub-репозиториев, включая детектирование фейк-звезд](https://habr.com/ru/news/912538/?utm_campaign=912538&utm_source=habrahabr&utm_medium=rss)
-- [Вышел драйвер для ядра Linux для ввода на ПК цифр при помощи телефонного дискового номеронабирателя с импульсным набором](https://habr.com/ru/news/912534/?utm_campaign=912534&utm_source=habrahabr&utm_medium=rss)
-- [Представлен мультимедийный сервер PipeWire 1.4.3 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/912496/?utm_campaign=912496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
