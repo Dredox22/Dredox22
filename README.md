@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел мультимедийный сервер PipeWire 1.4.3 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/912496/?utm_campaign=912496&utm_source=habrahabr&utm_medium=rss)
 - [Amazon второй раз за месяц обновила ПО своих роботакси Zoox — теперь после аварии с электросамокатом](https://habr.com/ru/news/912434/?utm_campaign=912434&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные создали микролазеры для электроники](https://habr.com/ru/news/912440/?utm_campaign=912440&utm_source=habrahabr&utm_medium=rss)
 - [Глава Anthropic: ИИ галлюцинирует реже, чем люди, но неожиданнее](https://habr.com/ru/news/912436/?utm_campaign=912436&utm_source=habrahabr&utm_medium=rss)
 - [Индийский сайт поиска работы исправил баг с раскрытием e-mail рекрутеров](https://habr.com/ru/news/912410/?utm_campaign=912410&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: плата ₽4,94 за обращение к инфраструктуре электронного правительства нужна из-за роста запросов от банков](https://habr.com/ru/news/912424/?utm_campaign=912424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
