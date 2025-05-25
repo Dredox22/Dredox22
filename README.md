@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел мультимедийный сервер PipeWire 1.4.3 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/912496/?utm_campaign=912496&utm_source=habrahabr&utm_medium=rss)
+- [В годовщину вышло обновление инструмента Shotstars v3.3 для отслеживания движения звёзд на GitHub, включая фейки](https://habr.com/ru/news/912538/?utm_campaign=912538&utm_source=habrahabr&utm_medium=rss)
+- [Вышел драйвер для ядра Linux для ввода на ПК цифр при помощи телефонного дискового номеронабирателя с импульсным набором](https://habr.com/ru/news/912534/?utm_campaign=912534&utm_source=habrahabr&utm_medium=rss)
+- [Представлен мультимедийный сервер PipeWire 1.4.3 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/912496/?utm_campaign=912496&utm_source=habrahabr&utm_medium=rss)
 - [Amazon второй раз за месяц обновила ПО своих роботакси Zoox — теперь после аварии с электросамокатом](https://habr.com/ru/news/912434/?utm_campaign=912434&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные создали микролазеры для электроники](https://habr.com/ru/news/912440/?utm_campaign=912440&utm_source=habrahabr&utm_medium=rss)
-- [Глава Anthropic: ИИ галлюцинирует реже, чем люди, но неожиданнее](https://habr.com/ru/news/912436/?utm_campaign=912436&utm_source=habrahabr&utm_medium=rss)
-- [Индийский сайт поиска работы исправил баг с раскрытием e-mail рекрутеров](https://habr.com/ru/news/912410/?utm_campaign=912410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
