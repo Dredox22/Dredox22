@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 139.0](https://habr.com/ru/news/912986/?utm_campaign=912986&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс 360» начал бета‑тестирование умного редактора в «Диске»](https://habr.com/ru/news/912984/?utm_campaign=912984&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/912966/?utm_campaign=912966&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст представил проект Retro-Ruler — устройство в виде линейки, на котором можно запускать ретро-игры](https://habr.com/ru/news/912938/?utm_campaign=912938&utm_source=habrahabr&utm_medium=rss)
 - [«РТК-ЦОД» открыла новую площадку «Публичного облака» в Москве](https://habr.com/ru/news/912902/?utm_campaign=912902&utm_source=habrahabr&utm_medium=rss)
-- [Take-Two Interactive и Electronic Art включили искусственный интеллект в число потенциальных репутационных рисков](https://habr.com/ru/news/912882/?utm_campaign=912882&utm_source=habrahabr&utm_medium=rss)
-- [Магазину приложений RuStore исполнилось три года](https://habr.com/ru/news/912864/?utm_campaign=912864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
