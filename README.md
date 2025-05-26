@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Китае состоялся первый турнир по боксу между роботами от Unitree Robotics с дистанционным управлением](https://habr.com/ru/news/912722/?utm_campaign=912722&utm_source=habrahabr&utm_medium=rss)
+- [ЕС ввел санкции против Stark Industries, под угрозой PQ.Hosting](https://habr.com/ru/news/912718/?utm_campaign=912718&utm_source=habrahabr&utm_medium=rss)
+- [nanoДРАЙВ в Новосибирске: цифровые решения для инженеров](https://habr.com/ru/companies/nanosoft/news/912486/?utm_campaign=912486&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust Coreutils 0.1.0](https://habr.com/ru/news/912670/?utm_campaign=912670&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» выпустила короткую браузерную онлайн‑игру «Дело 404»](https://habr.com/ru/news/912618/?utm_campaign=912618&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком», «Т8» и РФРИТ приступили к реализации проекта «Умный оптический транспорт»](https://habr.com/ru/news/912614/?utm_campaign=912614&utm_source=habrahabr&utm_medium=rss)
-- [Компании начали использовать ИИ для анализа влияния пошлин США на цепочки поставок](https://habr.com/ru/news/912612/?utm_campaign=912612&utm_source=habrahabr&utm_medium=rss)
-- [Rush Royale стала третьей игрой MY.GAMES, которая получила одобрение китайского регулятора](https://habr.com/ru/news/912604/?utm_campaign=912604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
