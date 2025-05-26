@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fujifilm представила компактную цифровую камеру X Half, не снимающую в RAW](https://habr.com/ru/news/912610/?utm_campaign=912610&utm_source=habrahabr&utm_medium=rss)
+- [Больше трети российских выпускников-инженеров предпочитают работать в продажах, а не в производстве](https://habr.com/ru/news/912770/?utm_campaign=912770&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft раскрыла способ повышения производительности ПК через чистую установку Windows 11](https://habr.com/ru/news/912758/?utm_campaign=912758&utm_source=habrahabr&utm_medium=rss)
+- [Palisade Research: ChatGPT o3 иногда отказывается подчиняться базовой инструкции по выключению](https://habr.com/ru/news/912754/?utm_campaign=912754&utm_source=habrahabr&utm_medium=rss)
 - [KrebsOnSecurity подвергся почти рекордной DDoS-атаке в 6,3 Тбит/с](https://habr.com/ru/news/912748/?utm_campaign=912748&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 6.15](https://habr.com/ru/news/912746/?utm_campaign=912746&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует интегрировать Phi-4 mini в Edge для запуска ИИ на самом устройстве с Windows 11](https://habr.com/ru/news/912732/?utm_campaign=912732&utm_source=habrahabr&utm_medium=rss)
-- [MLOps для разработки и мониторинга: новый курс в Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/911050/?utm_campaign=911050&utm_source=habrahabr&utm_medium=rss)
-- [В Китае состоялся первый турнир по боксу между роботами от Unitree Robotics с дистанционным управлением](https://habr.com/ru/news/912722/?utm_campaign=912722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
