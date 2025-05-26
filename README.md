@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» увеличил максимальную награду для этичных хакеров до 3 млн рублей](https://habr.com/ru/news/912828/?utm_campaign=912828&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление ПО в линейке InfoWatch ARMA](https://habr.com/ru/companies/infowatch/news/912812/?utm_campaign=912812&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI откроет представительство в Южной Корее на фоне высокой активности местных подписчиков](https://habr.com/ru/news/912810/?utm_campaign=912810&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики промышленного ПО попросили Дениса Мантурова учесть риски возвращения иностранных поставщиков](https://habr.com/ru/news/912808/?utm_campaign=912808&utm_source=habrahabr&utm_medium=rss)
 - [Новый релиз платформы Luxms BI 11.1](https://habr.com/ru/companies/luxms_bi/news/912806/?utm_campaign=912806&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» запустил в серийное производство комплекс «Кибермодуль ТехХ» для автоматизации промышленных процессов](https://habr.com/ru/news/912800/?utm_campaign=912800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
