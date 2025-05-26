@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Fujifilm представила компактную цифровую камеру X Half, не снимающую в RAW](https://habr.com/ru/news/912610/?utm_campaign=912610&utm_source=habrahabr&utm_medium=rss)
-- [Больше трети российских выпускников-инженеров предпочитают работать в продажах, а не в производстве](https://habr.com/ru/news/912770/?utm_campaign=912770&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft раскрыла способ повышения производительности ПК через чистую установку Windows 11](https://habr.com/ru/news/912758/?utm_campaign=912758&utm_source=habrahabr&utm_medium=rss)
-- [Palisade Research: ChatGPT o3 иногда отказывается подчиняться базовой инструкции по выключению](https://habr.com/ru/news/912754/?utm_campaign=912754&utm_source=habrahabr&utm_medium=rss)
-- [KrebsOnSecurity подвергся почти рекордной DDoS-атаке в 6,3 Тбит/с](https://habr.com/ru/news/912748/?utm_campaign=912748&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление ПО в линейке InfoWatch ARMA](https://habr.com/ru/companies/infowatch/news/912812/?utm_campaign=912812&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI откроет представительство в Южной Корее на фоне высокой активности местных подписчиков](https://habr.com/ru/news/912810/?utm_campaign=912810&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики промышленного ПО попросили Дениса Мантурова учесть риски возвращения иностранных поставщиков](https://habr.com/ru/news/912808/?utm_campaign=912808&utm_source=habrahabr&utm_medium=rss)
+- [Новый релиз платформы Luxms BI 11.1](https://habr.com/ru/companies/luxms_bi/news/912806/?utm_campaign=912806&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» запустил в серийное производство комплекс «Кибермодуль ТехХ» для автоматизации промышленных процессов](https://habr.com/ru/news/912800/?utm_campaign=912800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
