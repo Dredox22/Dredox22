@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [KrebsOnSecurity подвергся почти рекордной DDoS-атаке в 6,3 Тбит/с](https://habr.com/ru/news/912748/?utm_campaign=912748&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Linux 6.15](https://habr.com/ru/news/912746/?utm_campaign=912746&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft планирует интегрировать Phi-4 mini в Edge для запуска ИИ на самом устройстве с Windows 11](https://habr.com/ru/news/912732/?utm_campaign=912732&utm_source=habrahabr&utm_medium=rss)
+- [MLOps для разработки и мониторинга: новый курс в Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/911050/?utm_campaign=911050&utm_source=habrahabr&utm_medium=rss)
 - [В Китае состоялся первый турнир по боксу между роботами от Unitree Robotics с дистанционным управлением](https://habr.com/ru/news/912722/?utm_campaign=912722&utm_source=habrahabr&utm_medium=rss)
-- [ЕС ввел санкции против Stark Industries, под угрозой PQ.Hosting](https://habr.com/ru/news/912718/?utm_campaign=912718&utm_source=habrahabr&utm_medium=rss)
-- [nanoДРАЙВ в Новосибирске: цифровые решения для инженеров](https://habr.com/ru/companies/nanosoft/news/912486/?utm_campaign=912486&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust Coreutils 0.1.0](https://habr.com/ru/news/912670/?utm_campaign=912670&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» выпустила короткую браузерную онлайн‑игру «Дело 404»](https://habr.com/ru/news/912618/?utm_campaign=912618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
