@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Великобритании коровам надевают GPS-ошейники с подачей электрических импульсов для защиты животных от падения в реку](https://habr.com/ru/news/913284/?utm_campaign=913284&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты ГК «Солар» обнаружили ВПО WebRat, крадущее личные данные пользователей популярных видеоигр и пиратского ПО](https://habr.com/ru/news/913258/?utm_campaign=913258&utm_source=habrahabr&utm_medium=rss)
 - [АКИ анонсировало серию бесплатных образовательных онлайн-вебинаров «Защити свое творчество»](https://habr.com/ru/news/913254/?utm_campaign=913254&utm_source=habrahabr&utm_medium=rss)
 - [На PHDays Fest более 40 стран обсудили идею кооперации в ИБ](https://habr.com/ru/companies/pt/news/913176/?utm_campaign=913176&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры представило мобильное приложение «Госуслуги Моя школа» для школьников и родителей](https://habr.com/ru/news/913240/?utm_campaign=913240&utm_source=habrahabr&utm_medium=rss)
-- [Capcom планирует нанимать по 100 разработчиков ежегодно](https://habr.com/ru/news/913232/?utm_campaign=913232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
