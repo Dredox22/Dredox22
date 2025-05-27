@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В npm нашли пакеты, умышленно уничтожающие данные](https://habr.com/ru/news/913102/?utm_campaign=913102&utm_source=habrahabr&utm_medium=rss)
+- [Цена дарквеба: эксперты F6 проанализировали криминальные сделки в теневом интернете](https://habr.com/ru/companies/F6/news/913104/?utm_campaign=913104&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ИИ-ассистент GitLab Duo может незаметно слить в открытый доступ весь приватный код](https://habr.com/ru/news/913074/?utm_campaign=913074&utm_source=habrahabr&utm_medium=rss)
 - [Чему учат в онлайн-магистратуре Яндекса: специализация «DevSecOps-инженер»](https://habr.com/ru/companies/yandex_praktikum/news/912822/?utm_campaign=912822&utm_source=habrahabr&utm_medium=rss)
 - [Ситидрайв объявил о масштабном обновлении сервиса](https://habr.com/ru/companies/citydrive/news/913072/?utm_campaign=913072&utm_source=habrahabr&utm_medium=rss)
-- [Python теперь может вызывать код, написанный на Mojo](https://habr.com/ru/news/913064/?utm_campaign=913064&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи выяснили, что кнопка пуск в Windows 11 — приложение на React Native, которое загружает ядро ЦП по клику](https://habr.com/ru/news/913050/?utm_campaign=913050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
