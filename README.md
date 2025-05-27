@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: ИИ-ассистент GitLab Duo может незаметно слить в открытый доступ весь приватный код](https://habr.com/ru/news/913074/?utm_campaign=913074&utm_source=habrahabr&utm_medium=rss)
+- [Чему учат в онлайн-магистратуре Яндекса: специализация «DevSecOps-инженер»](https://habr.com/ru/companies/yandex_praktikum/news/912822/?utm_campaign=912822&utm_source=habrahabr&utm_medium=rss)
+- [Ситидрайв объявил о масштабном обновлении сервиса](https://habr.com/ru/companies/citydrive/news/913072/?utm_campaign=913072&utm_source=habrahabr&utm_medium=rss)
+- [Python теперь может вызывать код, написанный на Mojo](https://habr.com/ru/news/913064/?utm_campaign=913064&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи выяснили, что кнопка пуск в Windows 11 — приложение на React Native, которое загружает ядро ЦП по клику](https://habr.com/ru/news/913050/?utm_campaign=913050&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PicView 3.1.3](https://habr.com/ru/news/913042/?utm_campaign=913042&utm_source=habrahabr&utm_medium=rss)
-- [Быстрый старт в nanoCAD BIM Строительство: проектирование двухэтажного жилого дома с гаражом](https://habr.com/ru/companies/nanosoft/news/912474/?utm_campaign=912474&utm_source=habrahabr&utm_medium=rss)
-- [Релиз SoundSwitch 6.14](https://habr.com/ru/news/913030/?utm_campaign=913030&utm_source=habrahabr&utm_medium=rss)
-- [26 стран мира примут участие в IV Международном киберчемпионате по информационной безопасности](https://habr.com/ru/companies/solarsecurity/news/913012/?utm_campaign=913012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
