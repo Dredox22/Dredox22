@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты ГК «Солар» обнаружили ВПО WebRat, крадущее личные данные пользователей популярных видеоигр и пиратского ПО](https://habr.com/ru/news/913258/?utm_campaign=913258&utm_source=habrahabr&utm_medium=rss)
+- [АКИ анонсировало серию бесплатных образовательных онлайн-вебинаров «Защити свое творчество»](https://habr.com/ru/news/913254/?utm_campaign=913254&utm_source=habrahabr&utm_medium=rss)
+- [На PHDays Fest более 40 стран обсудили идею кооперации в ИБ](https://habr.com/ru/companies/pt/news/913176/?utm_campaign=913176&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры представило мобильное приложение «Госуслуги Моя школа» для школьников и родителей](https://habr.com/ru/news/913240/?utm_campaign=913240&utm_source=habrahabr&utm_medium=rss)
 - [Capcom планирует нанимать по 100 разработчиков ежегодно](https://habr.com/ru/news/913232/?utm_campaign=913232&utm_source=habrahabr&utm_medium=rss)
-- [Как я в одиночку в кроссовках и шортах смог остановить распространение огня в заповеднике](https://habr.com/ru/news/913220/?utm_campaign=913220&utm_source=habrahabr&utm_medium=rss)
-- [Samsung Display прекратила закупку в РФ золота, вольфрама и тантала для производства дисплеев](https://habr.com/ru/news/913164/?utm_campaign=913164&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива Armbian 25.05 для Raspberry Pi и других одноплатных компьютеров](https://habr.com/ru/news/913158/?utm_campaign=913158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
