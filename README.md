@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз PicView 3.1.3](https://habr.com/ru/news/913042/?utm_campaign=913042&utm_source=habrahabr&utm_medium=rss)
+- [Быстрый старт в nanoCAD BIM Строительство: проектирование двухэтажного жилого дома с гаражом](https://habr.com/ru/companies/nanosoft/news/912474/?utm_campaign=912474&utm_source=habrahabr&utm_medium=rss)
 - [Релиз SoundSwitch 6.14](https://habr.com/ru/news/913030/?utm_campaign=913030&utm_source=habrahabr&utm_medium=rss)
 - [26 стран мира примут участие в IV Международном киберчемпионате по информационной безопасности](https://habr.com/ru/companies/solarsecurity/news/913012/?utm_campaign=913012&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 139.0](https://habr.com/ru/news/912986/?utm_campaign=912986&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс 360» начал бета‑тестирование умного редактора в «Диске»](https://habr.com/ru/news/912984/?utm_campaign=912984&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/912966/?utm_campaign=912966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
