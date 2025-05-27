@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар: «Доктор УЦСБ SOC — ваш личный эксперт по киберздоровью»](https://habr.com/ru/companies/ussc/news/913144/?utm_campaign=913144&utm_source=habrahabr&utm_medium=rss)
+- [Правительство России утвердило план мероприятий по реализации Стратегии развития отрасли связи до конца 2035 года](https://habr.com/ru/news/913140/?utm_campaign=913140&utm_source=habrahabr&utm_medium=rss)
+- [Майские изменения в защите персональных данных: что важно знать](https://habr.com/ru/companies/cloud4y/news/913128/?utm_campaign=913128&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива для одноплатных ПК DietPi 9.13](https://habr.com/ru/news/913122/?utm_campaign=913122&utm_source=habrahabr&utm_medium=rss)
 - [В npm нашли пакеты, умышленно уничтожающие данные](https://habr.com/ru/news/913102/?utm_campaign=913102&utm_source=habrahabr&utm_medium=rss)
-- [Цена дарквеба: эксперты F6 проанализировали криминальные сделки в теневом интернете](https://habr.com/ru/companies/F6/news/913104/?utm_campaign=913104&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ-ассистент GitLab Duo может незаметно слить в открытый доступ весь приватный код](https://habr.com/ru/news/913074/?utm_campaign=913074&utm_source=habrahabr&utm_medium=rss)
-- [Чему учат в онлайн-магистратуре Яндекса: специализация «DevSecOps-инженер»](https://habr.com/ru/companies/yandex_praktikum/news/912822/?utm_campaign=912822&utm_source=habrahabr&utm_medium=rss)
-- [Ситидрайв объявил о масштабном обновлении сервиса](https://habr.com/ru/companies/citydrive/news/913072/?utm_campaign=913072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
