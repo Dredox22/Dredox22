@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Display прекратила закупку в РФ золота, вольфрама и тантала для производства дисплеев](https://habr.com/ru/news/913164/?utm_campaign=913164&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива Armbian 25.05 для Raspberry Pi и других одноплатных компьютеров](https://habr.com/ru/news/913158/?utm_campaign=913158&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: «Доктор УЦСБ SOC — ваш личный эксперт по киберздоровью»](https://habr.com/ru/companies/ussc/news/913144/?utm_campaign=913144&utm_source=habrahabr&utm_medium=rss)
 - [Правительство России утвердило план мероприятий по реализации Стратегии развития отрасли связи до конца 2035 года](https://habr.com/ru/news/913140/?utm_campaign=913140&utm_source=habrahabr&utm_medium=rss)
 - [Майские изменения в защите персональных данных: что важно знать](https://habr.com/ru/companies/cloud4y/news/913128/?utm_campaign=913128&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива для одноплатных ПК DietPi 9.13](https://habr.com/ru/news/913122/?utm_campaign=913122&utm_source=habrahabr&utm_medium=rss)
-- [В npm нашли пакеты, умышленно уничтожающие данные](https://habr.com/ru/news/913102/?utm_campaign=913102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
