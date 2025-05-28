@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple отчиталась о статистике работы App Store в 2024 году](https://habr.com/ru/news/913520/?utm_campaign=913520&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mozilla Thunderbird 139.0](https://habr.com/ru/news/913510/?utm_campaign=913510&utm_source=habrahabr&utm_medium=rss)
+- [GigaChat сдал экзамен на образовательную программу «Музыковедение» в Российскую академию музыки имени Гнесиных](https://habr.com/ru/news/913498/?utm_campaign=913498&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» представил отчёт о безопасности детей в своих сервисах](https://habr.com/ru/news/913382/?utm_campaign=913382&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл приём заявок на ежегодную премию Yandex ML Prize](https://habr.com/ru/news/913380/?utm_campaign=913380&utm_source=habrahabr&utm_medium=rss)
-- [Релиз AlmaLinux 10.0](https://habr.com/ru/news/913474/?utm_campaign=913474&utm_source=habrahabr&utm_medium=rss)
-- [В WhatsApp спустя 15 лет выпустили приложение для iPad](https://habr.com/ru/news/913448/?utm_campaign=913448&utm_source=habrahabr&utm_medium=rss)
-- [The Browser Company закрывает проект браузера Arc](https://habr.com/ru/news/913444/?utm_campaign=913444&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD BIM ВК 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/912476/?utm_campaign=912476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
