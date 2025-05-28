@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Selectel пройдет Data Fest — митап про Open Source и ML](https://habr.com/ru/companies/selectel/news/913554/?utm_campaign=913554&utm_source=habrahabr&utm_medium=rss)
-- [Бывший инженер НАСА и YouTube-блогер запустил сервис, который позволяет сделать селфи из космоса](https://habr.com/ru/news/913558/?utm_campaign=913558&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Notion появилось в Microsoft Store](https://habr.com/ru/news/913542/?utm_campaign=913542&utm_source=habrahabr&utm_medium=rss)
-- [Фанатский порт Star Fox 64 теперь доступен на Switch и Steam Deck](https://habr.com/ru/news/913526/?utm_campaign=913526&utm_source=habrahabr&utm_medium=rss)
-- [Apple отчиталась о статистике работы App Store в 2024 году](https://habr.com/ru/news/913520/?utm_campaign=913520&utm_source=habrahabr&utm_medium=rss)
+- [Дуров объявил о партнёрстве Telegram и xAIи интеграции в мессенджер чат-бота Grok](https://habr.com/ru/news/913624/?utm_campaign=913624&utm_source=habrahabr&utm_medium=rss)
+- [Apple приобрела игровую студию RAC7 из двух разработчиков](https://habr.com/ru/news/913630/?utm_campaign=913630&utm_source=habrahabr&utm_medium=rss)
+- [Кейс. Как интегрировать в ESM-платформу 9 отделов &lpar;ИТ, HR, АХО, бухгалтерию и др.&rpar; повысив эффективность работы на 33%](https://habr.com/ru/news/913618/?utm_campaign=913618&utm_source=habrahabr&utm_medium=rss)
+- [Показываем нашу A/B-платформу в деле 17 июня](https://habr.com/ru/companies/avito/news/913606/?utm_campaign=913606&utm_source=habrahabr&utm_medium=rss)
+- [Каршеринг Ситидрайв увеличил выплаты по программе багбаунти](https://habr.com/ru/companies/citydrive/news/913582/?utm_campaign=913582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
