@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [nanoCAD BIM ВК 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/912476/?utm_campaign=912476&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo Legion Go S на SteamOS работает лучше и частота кадров там на 5-15% выше, чем на Windows 11](https://habr.com/ru/news/913376/?utm_campaign=913376&utm_source=habrahabr&utm_medium=rss)
 - [Компания из Новосибирска «Оптические технологии» разработала новый ультрафиолетовый лазер для литографии](https://habr.com/ru/news/913366/?utm_campaign=913366&utm_source=habrahabr&utm_medium=rss)
 - [AQPhone M11 на базе российской мобильной ОС «Ред ОС М» поступил в розничную продажу](https://habr.com/ru/news/913350/?utm_campaign=913350&utm_source=habrahabr&utm_medium=rss)
 - [В Великобритании коровам надевают GPS-ошейники с подачей электрических импульсов для защиты животных от падения в реку](https://habr.com/ru/news/913284/?utm_campaign=913284&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты ГК «Солар» обнаружили ВПО WebRat, крадущее личные данные пользователей популярных видеоигр и пиратского ПО](https://habr.com/ru/news/913258/?utm_campaign=913258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
