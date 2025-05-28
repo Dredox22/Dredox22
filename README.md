@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Дуров объявил о партнёрстве Telegram и xAIи интеграции в мессенджер чат-бота Grok](https://habr.com/ru/news/913624/?utm_campaign=913624&utm_source=habrahabr&utm_medium=rss)
+- [В сервисе «Активность пыльцы» от «Яндекс Погоды» появились консультации аллергологов из Сеченовского университета](https://habr.com/ru/news/913642/?utm_campaign=913642&utm_source=habrahabr&utm_medium=rss)
+- [Дуров объявил о партнёрстве Telegram и xAI и интеграции в мессенджер чат-бота Grok](https://habr.com/ru/news/913624/?utm_campaign=913624&utm_source=habrahabr&utm_medium=rss)
 - [Apple приобрела игровую студию RAC7 из двух разработчиков](https://habr.com/ru/news/913630/?utm_campaign=913630&utm_source=habrahabr&utm_medium=rss)
 - [Кейс. Как интегрировать в ESM-платформу 9 отделов &lpar;ИТ, HR, АХО, бухгалтерию и др.&rpar; повысив эффективность работы на 33%](https://habr.com/ru/news/913618/?utm_campaign=913618&utm_source=habrahabr&utm_medium=rss)
 - [Показываем нашу A/B-платформу в деле 17 июня](https://habr.com/ru/companies/avito/news/913606/?utm_campaign=913606&utm_source=habrahabr&utm_medium=rss)
-- [Каршеринг Ситидрайв увеличил выплаты по программе багбаунти](https://habr.com/ru/companies/citydrive/news/913582/?utm_campaign=913582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
