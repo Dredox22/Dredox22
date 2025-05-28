@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Notion появилось в Microsoft Store](https://habr.com/ru/news/913542/?utm_campaign=913542&utm_source=habrahabr&utm_medium=rss)
+- [Фанатский порт Star Fox 64 теперь доступен на Switch и Steam Deck](https://habr.com/ru/news/913526/?utm_campaign=913526&utm_source=habrahabr&utm_medium=rss)
 - [Apple отчиталась о статистике работы App Store в 2024 году](https://habr.com/ru/news/913520/?utm_campaign=913520&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 139.0](https://habr.com/ru/news/913510/?utm_campaign=913510&utm_source=habrahabr&utm_medium=rss)
 - [GigaChat сдал экзамен на образовательную программу «Музыковедение» в Российскую академию музыки имени Гнесиных](https://habr.com/ru/news/913498/?utm_campaign=913498&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил отчёт о безопасности детей в своих сервисах](https://habr.com/ru/news/913382/?utm_campaign=913382&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл приём заявок на ежегодную премию Yandex ML Prize](https://habr.com/ru/news/913380/?utm_campaign=913380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
