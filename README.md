@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В WhatsApp спустя 15 лет выпустили приложение для iPad](https://habr.com/ru/news/913448/?utm_campaign=913448&utm_source=habrahabr&utm_medium=rss)
+- [The Browser Company закрывает проект браузера Arc](https://habr.com/ru/news/913444/?utm_campaign=913444&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD BIM ВК 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/912476/?utm_campaign=912476&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo Legion Go S на SteamOS работает лучше и частота кадров там на 5-15% выше, чем на Windows 11](https://habr.com/ru/news/913376/?utm_campaign=913376&utm_source=habrahabr&utm_medium=rss)
 - [Дуров в ходе выступления на «Форуме свободы» в Осло заявил: «Я русский, и я скорее умру, чем стану чьим-то активом»](https://habr.com/ru/news/913370/?utm_campaign=913370&utm_source=habrahabr&utm_medium=rss)
-- [Компания из Новосибирска «Оптические технологии» разработала новый ультрафиолетовый лазер для литографии](https://habr.com/ru/news/913366/?utm_campaign=913366&utm_source=habrahabr&utm_medium=rss)
-- [AQPhone M11 на базе российской мобильной ОС «Ред ОС М» поступил в розничную продажу](https://habr.com/ru/news/913350/?utm_campaign=913350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
