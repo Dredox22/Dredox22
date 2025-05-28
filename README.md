@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» открыл приём заявок на ежегодную премию Yandex ML Prize](https://habr.com/ru/news/913380/?utm_campaign=913380&utm_source=habrahabr&utm_medium=rss)
+- [Релиз AlmaLinux 10.0](https://habr.com/ru/news/913474/?utm_campaign=913474&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp спустя 15 лет выпустили приложение для iPad](https://habr.com/ru/news/913448/?utm_campaign=913448&utm_source=habrahabr&utm_medium=rss)
 - [The Browser Company закрывает проект браузера Arc](https://habr.com/ru/news/913444/?utm_campaign=913444&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD BIM ВК 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/912476/?utm_campaign=912476&utm_source=habrahabr&utm_medium=rss)
-- [Lenovo Legion Go S на SteamOS работает лучше и частота кадров там на 5-15% выше, чем на Windows 11](https://habr.com/ru/news/913376/?utm_campaign=913376&utm_source=habrahabr&utm_medium=rss)
-- [Дуров в ходе выступления на «Форуме свободы» в Осло заявил: «Я русский, и я скорее умру, чем стану чьим-то активом»](https://habr.com/ru/news/913370/?utm_campaign=913370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
