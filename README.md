@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик MATLAB и Simulink стал жертвой хакеров-вымогателей](https://habr.com/ru/news/913686/?utm_campaign=913686&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндексе» разработали и выложили в опенсорс один из крупнейших в мире датасетов для развития рекомендательных систем](https://habr.com/ru/news/913684/?utm_campaign=913684&utm_source=habrahabr&utm_medium=rss)
 - [Криптовалюты в России и мире: рост интереса и изменения в регулировании](https://habr.com/ru/companies/finam_broker/news/913660/?utm_campaign=913660&utm_source=habrahabr&utm_medium=rss)
 - [В «Газпром бурении» внедрили импортонезависимую систему для защиты от утечек данных](https://habr.com/ru/companies/k2tech/news/913658/?utm_campaign=913658&utm_source=habrahabr&utm_medium=rss)
 - [В сервисе «Активность пыльцы» от «Яндекс Погоды» появились консультации аллергологов из Сеченовского университета](https://habr.com/ru/news/913642/?utm_campaign=913642&utm_source=habrahabr&utm_medium=rss)
-- [Дуров объявил о партнёрстве Telegram и xAI и интеграции в мессенджер чат-бота Grok](https://habr.com/ru/news/913624/?utm_campaign=913624&utm_source=habrahabr&utm_medium=rss)
-- [Apple приобрела игровую студию RAC7 из двух разработчиков](https://habr.com/ru/news/913630/?utm_campaign=913630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
