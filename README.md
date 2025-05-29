@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [30 лет Java, Kotlin и Spring объединяются, Hibernate ожил | Spring АйО Подкаст №20](https://habr.com/ru/companies/spring_aio/news/913994/?utm_campaign=913994&utm_source=habrahabr&utm_medium=rss)
 - [Целый ПАК пользы: готовим хариру и говорим о защите информации в юбилейном выпуске шоу «Инфобез со вкусом»](https://habr.com/ru/companies/gaz-is/news/913968/?utm_campaign=913968&utm_source=habrahabr&utm_medium=rss)
 - [Spotify добавил ленту подписок для подкастов](https://habr.com/ru/news/913960/?utm_campaign=913960&utm_source=habrahabr&utm_medium=rss)
 - [Google разрабатывает аналог Pinterest — Images](https://habr.com/ru/news/913782/?utm_campaign=913782&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: доля трафика VPN-сервисов увеличивается, ведомство намерено определиться с политикой в отношении VPN](https://habr.com/ru/news/913928/?utm_campaign=913928&utm_source=habrahabr&utm_medium=rss)
-- [В Минцифры рассматривали интеграцию «Госуслуг» с Telegram, но отказались, и прорабатывают интеграцию с мессенджером Max](https://habr.com/ru/news/913914/?utm_campaign=913914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
