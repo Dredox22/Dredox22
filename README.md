@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Диспетчер задач Windows 11 24H2 исправили для корректного показа загрузки процессора](https://habr.com/ru/news/913860/?utm_campaign=913860&utm_source=habrahabr&utm_medium=rss)
+- [В GitHub MCP Server обнаружена уязвимость, приводящая к утечке информации из приватных репозиториев](https://habr.com/ru/news/913864/?utm_campaign=913864&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила анонимный обмен файлами в приложения Office на Android](https://habr.com/ru/news/913844/?utm_campaign=913844&utm_source=habrahabr&utm_medium=rss)
 - [Google Photos получит новые функции в честь своего 10-летия](https://habr.com/ru/news/913820/?utm_campaign=913820&utm_source=habrahabr&utm_medium=rss)
 - [Opera представила браузер Neon с ИИ-агентами](https://habr.com/ru/news/913808/?utm_campaign=913808&utm_source=habrahabr&utm_medium=rss)
-- [Google: приложение Instagram** тратит батарею смартфонов на Android, даже если в нём не просматривать ролики](https://habr.com/ru/news/913810/?utm_campaign=913810&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 137](https://habr.com/ru/news/913794/?utm_campaign=913794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
