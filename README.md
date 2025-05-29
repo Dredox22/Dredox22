@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Якутии появилось международное издательство видеоигр «Новая игра+»](https://habr.com/ru/news/914092/?utm_campaign=914092&utm_source=habrahabr&utm_medium=rss)
+- [Разработка станций 4G компанией «Спектр» будет остановлена из‑за отсутствия средств](https://habr.com/ru/news/914086/?utm_campaign=914086&utm_source=habrahabr&utm_medium=rss)
+- [Российские компании начали закупать детекторы дипфейков](https://habr.com/ru/news/914082/?utm_campaign=914082&utm_source=habrahabr&utm_medium=rss)
 - [Появились первые обзоры предсерийной модели электромобиля «Атом»](https://habr.com/ru/news/914062/?utm_campaign=914062&utm_source=habrahabr&utm_medium=rss)
 - [«2ГИС» адаптировал карты и навигацию для ОС «Аврора»](https://habr.com/ru/news/914050/?utm_campaign=914050&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Платформы Tantor 5.3: поддержка PostgreSQL 17, интеграция с Mattermost и другие улучшения](https://habr.com/ru/companies/tantor/news/914046/?utm_campaign=914046&utm_source=habrahabr&utm_medium=rss)
-- [Развитие фрактальной архитектуры](https://habr.com/ru/news/914024/?utm_campaign=914024&utm_source=habrahabr&utm_medium=rss)
-- [В приложении T-Life по умолчанию включена запись экрана, T-Mobile не видит в этом проблемы](https://habr.com/ru/news/914022/?utm_campaign=914022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
