@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Появились первые обзоры предсерийной модели электромобиля «Атом»](https://habr.com/ru/news/914062/?utm_campaign=914062&utm_source=habrahabr&utm_medium=rss)
+- [«2ГИС» адаптировал карты и навигацию для ОС «Аврора»](https://habr.com/ru/news/914050/?utm_campaign=914050&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Платформы Tantor 5.3: поддержка PostgreSQL 17, интеграция с Mattermost и другие улучшения](https://habr.com/ru/companies/tantor/news/914046/?utm_campaign=914046&utm_source=habrahabr&utm_medium=rss)
 - [Развитие фрактальной архитектуры](https://habr.com/ru/news/914024/?utm_campaign=914024&utm_source=habrahabr&utm_medium=rss)
 - [В приложении T-Life по умолчанию включена запись экрана, T-Mobile не видит в этом проблемы](https://habr.com/ru/news/914022/?utm_campaign=914022&utm_source=habrahabr&utm_medium=rss)
-- [30 лет Java, Kotlin и Spring объединяются, Hibernate ожил | Spring АйО Подкаст №20](https://habr.com/ru/companies/spring_aio/news/913994/?utm_campaign=913994&utm_source=habrahabr&utm_medium=rss)
-- [Целый ПАК пользы: готовим хариру и говорим о защите информации в юбилейном выпуске шоу «Инфобез со вкусом»](https://habr.com/ru/companies/gaz-is/news/913968/?utm_campaign=913968&utm_source=habrahabr&utm_medium=rss)
-- [Spotify добавил ленту подписок для подкастов](https://habr.com/ru/news/913960/?utm_campaign=913960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
