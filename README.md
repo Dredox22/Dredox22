@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera представила браузер Neon с ИИ-агентами](https://habr.com/ru/news/913808/?utm_campaign=913808&utm_source=habrahabr&utm_medium=rss)
+- [Google: приложение Instagram** тратит батарею смартфонов на Android, даже если в нём не просматривать ролики](https://habr.com/ru/news/913810/?utm_campaign=913810&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 137](https://habr.com/ru/news/913794/?utm_campaign=913794&utm_source=habrahabr&utm_medium=rss)
 - [Слухи: Apple обновит нумерацию релизов — вместо 19 выйдет iOS/macOS 26 для улучшения понимания версий для клиентов](https://habr.com/ru/news/913780/?utm_campaign=913780&utm_source=habrahabr&utm_medium=rss)
 - [Интеграция в Telegram чат‑бота Grok: Маск — сделка не подписана, Дуров — соглашение есть, остались формальности](https://habr.com/ru/news/913774/?utm_campaign=913774&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» начал тестировать покупки прямо в поиске](https://habr.com/ru/news/913732/?utm_campaign=913732&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик MATLAB и Simulink стал жертвой хакеров-вымогателей](https://habr.com/ru/news/913686/?utm_campaign=913686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
