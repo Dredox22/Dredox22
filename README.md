@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: доля трафика VPN-сервисов увеличивается, ведомство намерено определиться с политикой в отношении VPN](https://habr.com/ru/news/913928/?utm_campaign=913928&utm_source=habrahabr&utm_medium=rss)
+- [В Минцифры рассматривали интеграцию «Госуслуг» с Telegram, но отказались, и прорабатывают интеграцию с мессенджером Max](https://habr.com/ru/news/913914/?utm_campaign=913914&utm_source=habrahabr&utm_medium=rss)
 - [Selectel проведет вебинар о тестировании производительности 1С](https://habr.com/ru/companies/selectel/news/913904/?utm_campaign=913904&utm_source=habrahabr&utm_medium=rss)
 - [В EA прошла очередная волна сокращений. Игра про Черную пантеру отменена](https://habr.com/ru/companies/ggsel/news/913900/?utm_campaign=913900&utm_source=habrahabr&utm_medium=rss)
 - [Утекло в песок: эксперты F6 предупредили об угрозе распространения персональных данных через публичные sandbox](https://habr.com/ru/companies/F6/news/913888/?utm_campaign=913888&utm_source=habrahabr&utm_medium=rss)
-- [Минторг США запретил американским компаниям поставлять в Китай ПО для проектирования полупроводников](https://habr.com/ru/news/913898/?utm_campaign=913898&utm_source=habrahabr&utm_medium=rss)
-- [Postgres Professional открывает набор в Летнюю школу](https://habr.com/ru/companies/postgrespro/news/913884/?utm_campaign=913884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
