@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сервис Google Maps начал ошибочно отображать массовые перекрытия автобанов в странах Европы](https://habr.com/ru/news/914166/?utm_campaign=914166&utm_source=habrahabr&utm_medium=rss)
+- [Роспатент отказался регистрировать графический товарный знак Apple AirPlay](https://habr.com/ru/news/914168/?utm_campaign=914168&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «ЗЭМИ НСК» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/914160/?utm_campaign=914160&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» ввёл повышенные требования по ИБ к своим подрядчикам для противодействия атак на цепочку поставок](https://habr.com/ru/news/914152/?utm_campaign=914152&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого оконного менеджера plwm 0.4, написанного на Prolog](https://habr.com/ru/news/913972/?utm_campaign=913972&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого мультиплатформенного редактора изображений с растровыми и векторными слоями LazPaint 7.3](https://habr.com/ru/news/913830/?utm_campaign=913830&utm_source=habrahabr&utm_medium=rss)
-- [В Якутии появилось международное издательство видеоигр «Новая игра+»](https://habr.com/ru/news/914092/?utm_campaign=914092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
