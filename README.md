@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК «Солар»: хакеры в 2025 году переключились на шпионаж и сложные атаки в телекоме и промышленности](https://habr.com/ru/news/914410/?utm_campaign=914410&utm_source=habrahabr&utm_medium=rss)
+- [Atomic Heart набрал 10 млн игроков, а Mundfish запускает лейбл Powerhouse для помощи начинающим разработчикам игр](https://habr.com/ru/news/914406/?utm_campaign=914406&utm_source=habrahabr&utm_medium=rss)
 - [К2 НейроТех ускорил запуск ИИ-сервисов для ФГАУ «Цифровые индустриальные технологии»](https://habr.com/ru/companies/k2tech/news/914370/?utm_campaign=914370&utm_source=habrahabr&utm_medium=rss)
 - [Корейские инженеры научили робота паркуру](https://habr.com/ru/news/914340/?utm_campaign=914340&utm_source=habrahabr&utm_medium=rss)
 - [Центральный университет и Сколтех запускают совместный бакалавриат и научно-образовательный центр](https://habr.com/ru/news/914362/?utm_campaign=914362&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 10 вернули часы с секундами в календаре](https://habr.com/ru/news/914358/?utm_campaign=914358&utm_source=habrahabr&utm_medium=rss)
-- [Кикшеринговые компании разрабатывают электронные компоненты для своих самокатов](https://habr.com/ru/news/914348/?utm_campaign=914348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
