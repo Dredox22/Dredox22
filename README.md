@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 2024 году американские разработчики заработали $406 млрд через App Store](https://habr.com/ru/news/914326/?utm_campaign=914326&utm_source=habrahabr&utm_medium=rss)
+- [Библиотека EMX Controls официально прошла экспертную проверку на совместимость с ОС Альт и РедОС](https://habr.com/ru/news/913980/?utm_campaign=913980&utm_source=habrahabr&utm_medium=rss)
+- [В России протестируют информационную систему для борьбы с киберпреступностью](https://habr.com/ru/news/914308/?utm_campaign=914308&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: к концу 2025 года ИИ будет потреблять больше энергии, чем майнинг биткоина](https://habr.com/ru/news/914258/?utm_campaign=914258&utm_source=habrahabr&utm_medium=rss)
 - [Российские учёные смогли с помощью ИИ предсказать успеваемость студентов по их соцсетям](https://habr.com/ru/news/914242/?utm_campaign=914242&utm_source=habrahabr&utm_medium=rss)
-- [Производство PlayStation 5 Pro оказалось незначительно дороже, чем оригинальной PlayStation 5](https://habr.com/ru/news/914234/?utm_campaign=914234&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Authenticator начал предупреждать об экспорте паролей до отключения сервиса в июле](https://habr.com/ru/news/914214/?utm_campaign=914214&utm_source=habrahabr&utm_medium=rss)
-- [Apple прекратит поддержку MacBook Pro 2018, iMac Pro, Mac mini 2018 и MacBook Air 2020 &lpar;Intel&rpar; после выхода macOS 26](https://habr.com/ru/news/914206/?utm_campaign=914206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
