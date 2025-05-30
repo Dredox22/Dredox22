@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: к концу 2025 года ИИ будет потреблять больше энергии, чем майнинг биткоина](https://habr.com/ru/news/914258/?utm_campaign=914258&utm_source=habrahabr&utm_medium=rss)
+- [Российские учёные смогли с помощью ИИ предсказать успеваемость студентов по их соцсетям](https://habr.com/ru/news/914242/?utm_campaign=914242&utm_source=habrahabr&utm_medium=rss)
 - [Производство PlayStation 5 Pro оказалось незначительно дороже, чем оригинальной PlayStation 5](https://habr.com/ru/news/914234/?utm_campaign=914234&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Authenticator начал предупреждать об экспорте паролей до отключения сервиса в июле](https://habr.com/ru/news/914214/?utm_campaign=914214&utm_source=habrahabr&utm_medium=rss)
 - [Apple прекратит поддержку MacBook Pro 2018, iMac Pro, Mac mini 2018 и MacBook Air 2020 &lpar;Intel&rpar; после выхода macOS 26](https://habr.com/ru/news/914206/?utm_campaign=914206&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила приложение «Авито» из App Store](https://habr.com/ru/news/914196/?utm_campaign=914196&utm_source=habrahabr&utm_medium=rss)
-- [ITFB Group представила обновление конструктора форм на платформе СИМФОНИЯ](https://habr.com/ru/companies/itfb/news/914192/?utm_campaign=914192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
