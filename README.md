@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Карты» представили новую технологию маршрутизации для пешеходов и велосипедистов](https://habr.com/ru/news/914226/?utm_campaign=914226&utm_source=habrahabr&utm_medium=rss)
+- [Apple прекратит поддержку MacBook Pro 2018, iMac Pro, Mac mini 2018 и MacBook Air 2020 &lpar;Intel&rpar; после выхода macOS 26](https://habr.com/ru/news/914206/?utm_campaign=914206&utm_source=habrahabr&utm_medium=rss)
+- [Apple удалила приложение «Авито» из App Store](https://habr.com/ru/news/914196/?utm_campaign=914196&utm_source=habrahabr&utm_medium=rss)
+- [ITFB Group представила обновление конструктора форм на платформе СИМФОНИЯ](https://habr.com/ru/companies/itfb/news/914192/?utm_campaign=914192&utm_source=habrahabr&utm_medium=rss)
 - [Сервис Google Maps начал ошибочно отображать массовые перекрытия автобанов в странах Европы](https://habr.com/ru/news/914166/?utm_campaign=914166&utm_source=habrahabr&utm_medium=rss)
-- [Роспатент отказался регистрировать графический товарный знак Apple AirPlay](https://habr.com/ru/news/914168/?utm_campaign=914168&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования компании «ЗЭМИ НСК» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/914160/?utm_campaign=914160&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» ввёл повышенные требования по ИБ к своим подрядчикам для противодействия атак на цепочку поставок](https://habr.com/ru/news/914152/?utm_campaign=914152&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого оконного менеджера plwm 0.4, написанного на Prolog](https://habr.com/ru/news/913972/?utm_campaign=913972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
