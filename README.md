@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новичок пришёл в IT через 100 дней бесплатных курсов и при помощи ИИ](https://habr.com/ru/news/914490/?utm_campaign=914490&utm_source=habrahabr&utm_medium=rss)
+- [Hugging Face представила двух гуманоидных роботов](https://habr.com/ru/news/914436/?utm_campaign=914436&utm_source=habrahabr&utm_medium=rss)
+- [В Японии передали 1 млн ГБ в секунду по оптоволоконному кабелю на расстоянии 1 808 км](https://habr.com/ru/news/914480/?utm_campaign=914480&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 137](https://habr.com/ru/news/914472/?utm_campaign=914472&utm_source=habrahabr&utm_medium=rss)
 - [Вышел фикс Firefox 139.0.1 против артефактов на ПК с GPU Nvidia в мультимониторных системах с разной частотой обновления](https://habr.com/ru/news/914468/?utm_campaign=914468&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Солар»: хакеры в 2025 году переключились на шпионаж и сложные атаки в телекоме и промышленности](https://habr.com/ru/news/914410/?utm_campaign=914410&utm_source=habrahabr&utm_medium=rss)
-- [Atomic Heart набрал 10 млн игроков, а Mundfish запускает лейбл Powerhouse для помощи начинающим разработчикам игр](https://habr.com/ru/news/914406/?utm_campaign=914406&utm_source=habrahabr&utm_medium=rss)
-- [К2 НейроТех ускорил запуск ИИ-сервисов для ФГАУ «Цифровые индустриальные технологии»](https://habr.com/ru/companies/k2tech/news/914370/?utm_campaign=914370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
