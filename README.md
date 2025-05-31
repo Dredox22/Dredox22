@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Linux Format прекращает публикацию материалов спустя 25 лет работы](https://habr.com/ru/news/914554/?utm_campaign=914554&utm_source=habrahabr&utm_medium=rss)
+- [Instagram** теперь поддерживает фотографии с соотношением сторон 3:4](https://habr.com/ru/news/914546/?utm_campaign=914546&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: у каждого 3D-принтера есть уникальный «отпечаток», который устройство оставляет на изделии](https://habr.com/ru/news/914538/?utm_campaign=914538&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуму внесли проект о создании единой цифровой платформы для связи и госуслуг](https://habr.com/ru/news/914534/?utm_campaign=914534&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft открыла доступ к браузеру Edge Game Bar, который открывается прямо в играх](https://habr.com/ru/news/914524/?utm_campaign=914524&utm_source=habrahabr&utm_medium=rss)
-- [Tesla не смогла зарегистрировать бренд Robotaxi, Samsung ускоряет разработку роботов: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/914388/?utm_campaign=914388&utm_source=habrahabr&utm_medium=rss)
-- [Новичок пришёл в IT через 100 дней бесплатных курсов и при помощи ИИ](https://habr.com/ru/news/914490/?utm_campaign=914490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
