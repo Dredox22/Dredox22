@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор монитора Samsung 27″ ViewFinity S9](https://habr.com/ru/news/914504/?utm_campaign=914504&utm_source=habrahabr&utm_medium=rss)
+- [Tesla не смогла зарегистрировать бренд Robotaxi, Samsung ускоряет разработку роботов: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/914388/?utm_campaign=914388&utm_source=habrahabr&utm_medium=rss)
 - [Новичок пришёл в IT через 100 дней бесплатных курсов и при помощи ИИ](https://habr.com/ru/news/914490/?utm_campaign=914490&utm_source=habrahabr&utm_medium=rss)
 - [Black Forest Labs представила Flux Kontext: ИИ-редактирование изображений на новом уровне](https://habr.com/ru/news/914488/?utm_campaign=914488&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face представила двух гуманоидных роботов](https://habr.com/ru/news/914436/?utm_campaign=914436&utm_source=habrahabr&utm_medium=rss)
-- [В Японии передали 1 млн Гб в секунду по оптоволоконному кабелю на расстоянии 1 808 км](https://habr.com/ru/news/914480/?utm_campaign=914480&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 137](https://habr.com/ru/news/914472/?utm_campaign=914472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
