@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: у каждого 3D-принтера есть уникальный «отпечаток», который устройство оставляет на изделии](https://habr.com/ru/news/914538/?utm_campaign=914538&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуму внесли проект о создании единой цифровой платформы для связи и госуслуг](https://habr.com/ru/news/914534/?utm_campaign=914534&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft открыла доступ к браузеру Edge Game Bar, который открывается прямо в играх](https://habr.com/ru/news/914524/?utm_campaign=914524&utm_source=habrahabr&utm_medium=rss)
 - [Tesla не смогла зарегистрировать бренд Robotaxi, Samsung ускоряет разработку роботов: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/914388/?utm_campaign=914388&utm_source=habrahabr&utm_medium=rss)
 - [Новичок пришёл в IT через 100 дней бесплатных курсов и при помощи ИИ](https://habr.com/ru/news/914490/?utm_campaign=914490&utm_source=habrahabr&utm_medium=rss)
-- [Black Forest Labs представила Flux Kontext: ИИ-редактирование изображений на новом уровне](https://habr.com/ru/news/914488/?utm_campaign=914488&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face представила двух гуманоидных роботов](https://habr.com/ru/news/914436/?utm_campaign=914436&utm_source=habrahabr&utm_medium=rss)
-- [В Японии передали 1 млн Гб в секунду по оптоволоконному кабелю на расстоянии 1 808 км](https://habr.com/ru/news/914480/?utm_campaign=914480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
