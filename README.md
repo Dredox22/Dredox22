@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Томске успешно прошли первые лётные испытания демонстратора системы спутниковой связи 5G](https://habr.com/ru/news/914588/?utm_campaign=914588&utm_source=habrahabr&utm_medium=rss)
 - [С 1 июня WhatsApp перестанет работать на смартфонах с Android 5.0 и старше и на iPhone 5s, iPhone 6 и iPhone 6 Plus](https://habr.com/ru/news/914564/?utm_campaign=914564&utm_source=habrahabr&utm_medium=rss)
 - [AMD приобрела компанию Enosemi для развития оптических решений под ИИ‑системы](https://habr.com/ru/news/914568/?utm_campaign=914568&utm_source=habrahabr&utm_medium=rss)
 - [Японские учёные создали VR-игру, которая помогает улучшить зрение](https://habr.com/ru/news/914550/?utm_campaign=914550&utm_source=habrahabr&utm_medium=rss)
 - [X приостанавливает работу функции зашифрованных личных сообщений](https://habr.com/ru/news/914558/?utm_campaign=914558&utm_source=habrahabr&utm_medium=rss)
-- [Проект Linux Format прекращает публикацию материалов спустя 25 лет работы](https://habr.com/ru/news/914554/?utm_campaign=914554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
