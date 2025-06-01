@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпустили приложение которое позволяет запускать модели ИИ локально на смартфоны, пробуем установить](https://habr.com/ru/news/914682/?utm_campaign=914682&utm_source=habrahabr&utm_medium=rss)
+- [MWS запустила сервис для тестирования мобильных приложений на реальных устройствах](https://habr.com/ru/companies/mws/news/913080/?utm_campaign=913080&utm_source=habrahabr&utm_medium=rss)
+- [Приложение, которое позволяет запускать модели ИИ локально на смартфоны, пробуем установить](https://habr.com/ru/news/914682/?utm_campaign=914682&utm_source=habrahabr&utm_medium=rss)
 - [GoDaddy получила в США патент на технологию защиты сервисов поиска доменных имен от перегрузки спам-запросами](https://habr.com/ru/news/914624/?utm_campaign=914624&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой библиотеки TagLib 2.1 для чтения и изменения метаданных &lpar;тегов&rpar; аудиофайлов различных форматов](https://habr.com/ru/news/914616/?utm_campaign=914616&utm_source=habrahabr&utm_medium=rss)
 - [Вышла СУБД SQLite 3.50](https://habr.com/ru/news/914612/?utm_campaign=914612&utm_source=habrahabr&utm_medium=rss)
-- [В Томске успешно прошли первые лётные испытания демонстратора системы спутниковой связи 5G](https://habr.com/ru/news/914588/?utm_campaign=914588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
