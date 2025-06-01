@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google выпустили приложение, которое позволяет скачивать и запускать модели ИИ локально на смартфоны, пробуем установить](https://habr.com/ru/news/914682/?utm_campaign=914682&utm_source=habrahabr&utm_medium=rss)
+- [Выпустили приложение которое позволяет запускать модели ИИ локально на смартфоны, пробуем установить](https://habr.com/ru/news/914682/?utm_campaign=914682&utm_source=habrahabr&utm_medium=rss)
 - [GoDaddy получила в США патент на технологию защиты сервисов поиска доменных имен от перегрузки спам-запросами](https://habr.com/ru/news/914624/?utm_campaign=914624&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой библиотеки TagLib 2.1 для чтения и изменения метаданных &lpar;тегов&rpar; аудиофайлов различных форматов](https://habr.com/ru/news/914616/?utm_campaign=914616&utm_source=habrahabr&utm_medium=rss)
 - [Вышла СУБД SQLite 3.50](https://habr.com/ru/news/914612/?utm_campaign=914612&utm_source=habrahabr&utm_medium=rss)
