@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GoDaddy получила в США патент на технологию защиты сервисов поиска доменных имен от перегрузки спам-запросами](https://habr.com/ru/news/914624/?utm_campaign=914624&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой библиотеки TagLib 2.1 для чтения и изменения метаданных &lpar;тегов&rpar; аудиофайлов различных форматов](https://habr.com/ru/news/914616/?utm_campaign=914616&utm_source=habrahabr&utm_medium=rss)
 - [Вышла СУБД SQLite 3.50](https://habr.com/ru/news/914612/?utm_campaign=914612&utm_source=habrahabr&utm_medium=rss)
 - [В Томске успешно прошли первые лётные испытания демонстратора системы спутниковой связи 5G](https://habr.com/ru/news/914588/?utm_campaign=914588&utm_source=habrahabr&utm_medium=rss)
 - [С 1 июня WhatsApp перестанет работать на смартфонах с Android 5.0 и старше и на iPhone 5s, iPhone 6 и iPhone 6 Plus](https://habr.com/ru/news/914564/?utm_campaign=914564&utm_source=habrahabr&utm_medium=rss)
-- [AMD приобрела компанию Enosemi для развития оптических решений под ИИ‑системы](https://habr.com/ru/news/914568/?utm_campaign=914568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
