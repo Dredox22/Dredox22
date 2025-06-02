@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Аэрофлоте» разработали для пользователей iOS и готовы внедрить веб-приложение PWA для покупки билетов](https://habr.com/ru/news/914744/?utm_campaign=914744&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD BIM Электро – новая версия на Платформе nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/914580/?utm_campaign=914580&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект Tldx — открытый CLI‑инструмент для быстрого обнаружения доступных доменных имён](https://habr.com/ru/news/914750/?utm_campaign=914750&utm_source=habrahabr&utm_medium=rss)
+- [Ловля на Лабубу: мошенники угоняют аккаунты в Telegram, обещая подарить популярную игрушку](https://habr.com/ru/companies/F6/news/914286/?utm_campaign=914286&utm_source=habrahabr&utm_medium=rss)
 - [Вышел веб-сервер Angie 1.9.1, созданный бывшей командой Nginx](https://habr.com/ru/news/914760/?utm_campaign=914760&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Sigil 2.5.1 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/914746/?utm_campaign=914746&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в июне](https://habr.com/ru/companies/netologyru/news/914728/?utm_campaign=914728&utm_source=habrahabr&utm_medium=rss)
-- [MWS запустила сервис для тестирования мобильных приложений на реальных устройствах](https://habr.com/ru/companies/mws/news/913080/?utm_campaign=913080&utm_source=habrahabr&utm_medium=rss)
-- [Приложение, которое позволяет запускать модели ИИ локально на смартфон, пробуем установить](https://habr.com/ru/news/914682/?utm_campaign=914682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
