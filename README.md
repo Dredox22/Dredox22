@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus вслед за Microsoft призывает как можно скорее отказаться от Windows 10 в пользу Windows 11](https://habr.com/ru/news/914892/?utm_campaign=914892&utm_source=habrahabr&utm_medium=rss)
+- [Прототип российской портативной игровой консоли от компании F-plus показали на ЦИПР-2025](https://habr.com/ru/news/914886/?utm_campaign=914886&utm_source=habrahabr&utm_medium=rss)
+- [X запустила бета-тестирование XChat](https://habr.com/ru/news/914878/?utm_campaign=914878&utm_source=habrahabr&utm_medium=rss)
 - [Жителям Бразилии позволят зарабатывать деньги на своём цифровом следе](https://habr.com/ru/news/914838/?utm_campaign=914838&utm_source=habrahabr&utm_medium=rss)
 - [Вступил в силу закон о запрете иностранных мессенджеров для гослужащих, банков и операторов связи](https://habr.com/ru/news/914814/?utm_campaign=914814&utm_source=habrahabr&utm_medium=rss)
-- [Boston Dynamics рассказала об обучении робота Atlas сложным задачам на производстве](https://habr.com/ru/news/914812/?utm_campaign=914812&utm_source=habrahabr&utm_medium=rss)
-- [МВД: в 2024 году число преступлений, связанных со взломом компьютерной информации, выросло втрое по сравнению с 2023-м](https://habr.com/ru/news/914808/?utm_campaign=914808&utm_source=habrahabr&utm_medium=rss)
-- [Synopsys прекратила обслуживать разработчиков чипов на территории Китая](https://habr.com/ru/news/914802/?utm_campaign=914802&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
