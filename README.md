@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alfa Analyze IT Meetup #4](https://habr.com/ru/companies/alfa/news/914960/?utm_campaign=914960&utm_source=habrahabr&utm_medium=rss)
+- [Отпечатки прошлого: F6 исследовала новые и ранее неизвестные активности группы PhantomCore](https://habr.com/ru/companies/F6/news/914858/?utm_campaign=914858&utm_source=habrahabr&utm_medium=rss)
 - [ОТП Банк — победитель Data Award 2025 в номинации «За качество данных»](https://habr.com/ru/companies/otpbank/news/914936/?utm_campaign=914936&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» и Yadro показали работу отечественной базовой станции на ЦИПР-2025](https://habr.com/ru/news/914924/?utm_campaign=914924&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс.Браузер получит «Алису» с функционалом ИИ-агента](https://habr.com/ru/news/914894/?utm_campaign=914894&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: подтвердите официально свои знания в ИТ по Python, Java, SQL, C#, PHP, HTML, ООП и PostgreSQL, а также Linux](https://habr.com/ru/news/914910/?utm_campaign=914910&utm_source=habrahabr&utm_medium=rss)
-- [Опубликованы итоги форсайт-сессии «Будущее безопасности киберфизических систем в России»](https://habr.com/ru/companies/aktiv-company/news/914900/?utm_campaign=914900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
