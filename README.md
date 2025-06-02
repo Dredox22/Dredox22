@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В «Аэрофлоте» разработали для пользователей iOS и готовы внедрить веб-приложение PWA для покупки билетов](https://habr.com/ru/news/914744/?utm_campaign=914744&utm_source=habrahabr&utm_medium=rss)
+- [Synopsys прекратила обслуживать разработчиков чипов на территории Китая](https://habr.com/ru/news/914802/?utm_campaign=914802&utm_source=habrahabr&utm_medium=rss)
+- [«Блокнот» для Windows 11 получил поддержку Markdown](https://habr.com/ru/news/914796/?utm_campaign=914796&utm_source=habrahabr&utm_medium=rss)
+- [В «Аэрофлоте» разработали и готовы внедрить веб-приложение PWA для покупки билетов для пользователей iOS](https://habr.com/ru/news/914744/?utm_campaign=914744&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD BIM Электро – новая версия на Платформе nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/914580/?utm_campaign=914580&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Tldx — открытый CLI‑инструмент для быстрого обнаружения доступных доменных имён](https://habr.com/ru/news/914750/?utm_campaign=914750&utm_source=habrahabr&utm_medium=rss)
-- [Ловля на Лабубу: мошенники угоняют аккаунты в Telegram, обещая подарить популярную игрушку](https://habr.com/ru/companies/F6/news/914286/?utm_campaign=914286&utm_source=habrahabr&utm_medium=rss)
-- [Вышел веб-сервер Angie 1.9.1, созданный бывшей командой Nginx](https://habr.com/ru/news/914760/?utm_campaign=914760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
