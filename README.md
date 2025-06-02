@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СИГМА получила награду «КИБЕР Опора»](https://habr.com/ru/companies/sigma/news/914988/?utm_campaign=914988&utm_source=habrahabr&utm_medium=rss)
+- [Российская компания ICL в 2,5 раза увеличивает площадь завода в Татарстане](https://habr.com/ru/news/914984/?utm_campaign=914984&utm_source=habrahabr&utm_medium=rss)
+- [«Солар» и НОТА формируют экосистему совместимых решений](https://habr.com/ru/companies/solarsecurity/news/914978/?utm_campaign=914978&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/914968/?utm_campaign=914968&utm_source=habrahabr&utm_medium=rss)
 - [Alfa Analyze IT Meetup #4](https://habr.com/ru/companies/alfa/news/914960/?utm_campaign=914960&utm_source=habrahabr&utm_medium=rss)
-- [Отпечатки прошлого: F6 исследовала новые и ранее неизвестные активности группы PhantomCore](https://habr.com/ru/companies/F6/news/914858/?utm_campaign=914858&utm_source=habrahabr&utm_medium=rss)
-- [ОТП Банк — победитель Data Award 2025 в номинации «За качество данных»](https://habr.com/ru/companies/otpbank/news/914936/?utm_campaign=914936&utm_source=habrahabr&utm_medium=rss)
-- [«Билайн» и Yadro показали работу отечественной базовой станции на ЦИПР-2025](https://habr.com/ru/news/914924/?utm_campaign=914924&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс.Браузер получит «Алису» с функционалом ИИ-агента](https://habr.com/ru/news/914894/?utm_campaign=914894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
