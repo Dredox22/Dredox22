@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вступил в силу закон о запрете иностранных мессенджеров для гослужащих, банков и операторов связи](https://habr.com/ru/news/914814/?utm_campaign=914814&utm_source=habrahabr&utm_medium=rss)
+- [Boston Dynamics рассказала об обучении робота Atlas сложным задачам на производстве](https://habr.com/ru/news/914812/?utm_campaign=914812&utm_source=habrahabr&utm_medium=rss)
+- [МВД: в 2024 году число преступлений, связанных со взломом компьютерной информации, выросло втрое по сравнению с 2023-м](https://habr.com/ru/news/914808/?utm_campaign=914808&utm_source=habrahabr&utm_medium=rss)
 - [Synopsys прекратила обслуживать разработчиков чипов на территории Китая](https://habr.com/ru/news/914802/?utm_campaign=914802&utm_source=habrahabr&utm_medium=rss)
 - [«Блокнот» для Windows 11 получил поддержку Markdown](https://habr.com/ru/news/914796/?utm_campaign=914796&utm_source=habrahabr&utm_medium=rss)
-- [В «Аэрофлоте» разработали и готовы внедрить веб-приложение PWA для покупки билетов для пользователей iOS](https://habr.com/ru/news/914744/?utm_campaign=914744&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD BIM Электро – новая версия на Платформе nanoCAD 25](https://habr.com/ru/companies/nanosoft/news/914580/?utm_campaign=914580&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Tldx — открытый CLI‑инструмент для быстрого обнаружения доступных доменных имён](https://habr.com/ru/news/914750/?utm_campaign=914750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
