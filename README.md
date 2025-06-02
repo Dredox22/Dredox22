@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс.Браузер получит «Алису» с функционалом ИИ-агента](https://habr.com/ru/news/914894/?utm_campaign=914894&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: подтвердите официально свои знания в ИТ по Python, Java, SQL, C#, PHP, HTML, ООП и PostgreSQL, а также Linux](https://habr.com/ru/news/914910/?utm_campaign=914910&utm_source=habrahabr&utm_medium=rss)
+- [Опубликованы итоги форсайт-сессии «Будущее безопасности киберфизических систем в России»](https://habr.com/ru/companies/aktiv-company/news/914900/?utm_campaign=914900&utm_source=habrahabr&utm_medium=rss)
 - [Asus вслед за Microsoft призывает как можно скорее отказаться от Windows 10 в пользу Windows 11](https://habr.com/ru/news/914892/?utm_campaign=914892&utm_source=habrahabr&utm_medium=rss)
-- [Прототип российской портативной игровой консоли от компании F-plus показали на ЦИПР-2025](https://habr.com/ru/news/914886/?utm_campaign=914886&utm_source=habrahabr&utm_medium=rss)
-- [X запустила бета-тестирование XChat](https://habr.com/ru/news/914878/?utm_campaign=914878&utm_source=habrahabr&utm_medium=rss)
-- [Жителям Бразилии позволят зарабатывать деньги на своём цифровом следе](https://habr.com/ru/news/914838/?utm_campaign=914838&utm_source=habrahabr&utm_medium=rss)
-- [Вступил в силу закон о запрете иностранных мессенджеров для гослужащих, банков и операторов связи](https://habr.com/ru/news/914814/?utm_campaign=914814&utm_source=habrahabr&utm_medium=rss)
+- [Прототип российской портативной игровой консоли от компании Fplus показали на ЦИПР-2025 &lpar;материал обновлён&rpar;](https://habr.com/ru/news/914886/?utm_campaign=914886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
