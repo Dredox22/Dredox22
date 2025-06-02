@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел веб-сервер Angie 1.9.1, созданный бывшей командой Nginx](https://habr.com/ru/news/914760/?utm_campaign=914760&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Sigil 2.5.1 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/914746/?utm_campaign=914746&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в июне](https://habr.com/ru/companies/netologyru/news/914728/?utm_campaign=914728&utm_source=habrahabr&utm_medium=rss)
 - [MWS запустила сервис для тестирования мобильных приложений на реальных устройствах](https://habr.com/ru/companies/mws/news/913080/?utm_campaign=913080&utm_source=habrahabr&utm_medium=rss)
 - [Приложение, которое позволяет запускать модели ИИ локально на смартфон, пробуем установить](https://habr.com/ru/news/914682/?utm_campaign=914682&utm_source=habrahabr&utm_medium=rss)
-- [GoDaddy получила в США патент на технологию защиты сервисов поиска доменных имен от перегрузки спам-запросами](https://habr.com/ru/news/914624/?utm_campaign=914624&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой библиотеки TagLib 2.1 для чтения и изменения метаданных &lpar;тегов&rpar; аудиофайлов различных форматов](https://habr.com/ru/news/914616/?utm_campaign=914616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
