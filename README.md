@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ОТП Банк — победитель Data Award 2025 в номинации «За качество данных»](https://habr.com/ru/companies/otpbank/news/914936/?utm_campaign=914936&utm_source=habrahabr&utm_medium=rss)
+- [«Билайн» и Yadro показали работу отечественной базовой станции на ЦИПР-2025](https://habr.com/ru/news/914924/?utm_campaign=914924&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс.Браузер получит «Алису» с функционалом ИИ-агента](https://habr.com/ru/news/914894/?utm_campaign=914894&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: подтвердите официально свои знания в ИТ по Python, Java, SQL, C#, PHP, HTML, ООП и PostgreSQL, а также Linux](https://habr.com/ru/news/914910/?utm_campaign=914910&utm_source=habrahabr&utm_medium=rss)
 - [Опубликованы итоги форсайт-сессии «Будущее безопасности киберфизических систем в России»](https://habr.com/ru/companies/aktiv-company/news/914900/?utm_campaign=914900&utm_source=habrahabr&utm_medium=rss)
-- [Asus вслед за Microsoft призывает как можно скорее отказаться от Windows 10 в пользу Windows 11](https://habr.com/ru/news/914892/?utm_campaign=914892&utm_source=habrahabr&utm_medium=rss)
-- [Прототип российской портативной игровой консоли от компании Fplus показали на ЦИПР-2025 &lpar;материал обновлён&rpar;](https://habr.com/ru/news/914886/?utm_campaign=914886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
