@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fplus показал на ЦИПР новые смартфоны «Алькор» и «Мицар»](https://habr.com/ru/news/914992/?utm_campaign=914992&utm_source=habrahabr&utm_medium=rss)
+- [Объединённое кредитное бюро: с 1 марта самозапрет на кредиты через «Госуслуги» активировали 10,5 млн граждан](https://habr.com/ru/news/914990/?utm_campaign=914990&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА получила награду «КИБЕР Опора»](https://habr.com/ru/companies/sigma/news/914988/?utm_campaign=914988&utm_source=habrahabr&utm_medium=rss)
 - [Российская компания ICL в 2,5 раза увеличивает площадь завода в Татарстане](https://habr.com/ru/news/914984/?utm_campaign=914984&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» и НОТА формируют экосистему совместимых решений](https://habr.com/ru/companies/solarsecurity/news/914978/?utm_campaign=914978&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/914968/?utm_campaign=914968&utm_source=habrahabr&utm_medium=rss)
-- [Alfa Analyze IT Meetup #4](https://habr.com/ru/companies/alfa/news/914960/?utm_campaign=914960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
