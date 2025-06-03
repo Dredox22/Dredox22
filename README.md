@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.1](https://habr.com/ru/news/915032/?utm_campaign=915032&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Wine 10.9](https://habr.com/ru/news/915030/?utm_campaign=915030&utm_source=habrahabr&utm_medium=rss)
 - [Fplus показал на ЦИПР новые смартфоны «Алькор» и «Мицар»](https://habr.com/ru/news/914992/?utm_campaign=914992&utm_source=habrahabr&utm_medium=rss)
 - [Объединённое кредитное бюро: с 1 марта самозапрет на кредиты через «Госуслуги» активировали 10,5 млн граждан](https://habr.com/ru/news/914990/?utm_campaign=914990&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА получила награду «КИБЕР Опора»](https://habr.com/ru/companies/sigma/news/914988/?utm_campaign=914988&utm_source=habrahabr&utm_medium=rss)
-- [Российская компания ICL в 2,5 раза увеличивает площадь завода в Татарстане](https://habr.com/ru/news/914984/?utm_campaign=914984&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» и НОТА формируют экосистему совместимых решений](https://habr.com/ru/companies/solarsecurity/news/914978/?utm_campaign=914978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
