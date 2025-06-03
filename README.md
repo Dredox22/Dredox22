@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft, Google и CrowdStrike объединяются, чтобы стандартизировать запутанные прозвища хакерских групп](https://habr.com/ru/news/915176/?utm_campaign=915176&utm_source=habrahabr&utm_medium=rss)
+- [Spring против Quarkus, правильные тесты, AOT-репозитории спасут Spring | Spring АйО Подкаст №21](https://habr.com/ru/companies/spring_aio/news/915164/?utm_campaign=915164&utm_source=habrahabr&utm_medium=rss)
+- [МТС начнет делиться геоданными абонентов с отрядом «Лиза Алерт»](https://habr.com/ru/news/915160/?utm_campaign=915160&utm_source=habrahabr&utm_medium=rss)
+- [Модераторы сообщества Reddit рассказали о сошедших с ума пользователях ChatGPT](https://habr.com/ru/news/915142/?utm_campaign=915142&utm_source=habrahabr&utm_medium=rss)
 - [MWS Cloud Platform: открываем доступ первым пользователям](https://habr.com/ru/companies/mws/news/915144/?utm_campaign=915144&utm_source=habrahabr&utm_medium=rss)
-- [В WhatsApp появятся имена пользователей формата @username](https://habr.com/ru/news/915124/?utm_campaign=915124&utm_source=habrahabr&utm_medium=rss)
-- [Российская Navio представила автономный магистральный тягач Navio L5](https://habr.com/ru/news/915116/?utm_campaign=915116&utm_source=habrahabr&utm_medium=rss)
-- [IBM приобрела стартап по анализу данных Seek AI и открыла ИИ-акселератор в Нью-Йорке](https://habr.com/ru/news/915118/?utm_campaign=915118&utm_source=habrahabr&utm_medium=rss)
-- [Google Wallet потеряет доступ к PayPal](https://habr.com/ru/news/915104/?utm_campaign=915104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
