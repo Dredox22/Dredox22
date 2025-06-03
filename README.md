@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Зовём вас на митап Database 17 июня](https://habr.com/ru/companies/avito/news/915314/?utm_campaign=915314&utm_source=habrahabr&utm_medium=rss)
+- [Приложение YouTube перестало работать на первом iPhone SE, iPhone 6s и 6S Plus, iPhone 7 и 7 Plus](https://habr.com/ru/news/915308/?utm_campaign=915308&utm_source=habrahabr&utm_medium=rss)
 - [Ноутбук с фирменным процессором от Nvidia может выйти в этом году](https://habr.com/ru/news/915290/?utm_campaign=915290&utm_source=habrahabr&utm_medium=rss)
 - [Частная компания «Нацспектр» запустит производство базовых станций 4G](https://habr.com/ru/news/915266/?utm_campaign=915266&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity обсуждает сделку по масштабной интеграции своего ИИ-поисковика на устройства Samsung](https://habr.com/ru/news/915246/?utm_campaign=915246&utm_source=habrahabr&utm_medium=rss)
-- [На ЦИПР-2025 представили первый полностью отечественный прототип ядра мобильной сети](https://habr.com/ru/news/915242/?utm_campaign=915242&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» и 1С провели испытания отечественной ERP-платформы «тяжелого класса» по управлению производством](https://habr.com/ru/news/915224/?utm_campaign=915224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
