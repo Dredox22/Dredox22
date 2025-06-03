@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Подтверждено патентом: разработка InfoWatch прогнозирует увольнение сотрудников и другие ИБ-риски](https://habr.com/ru/news/915204/?utm_campaign=915204&utm_source=habrahabr&utm_medium=rss)
+- [Как выжить аналитику в B2B? Обсудим на эфире 5 июня](https://habr.com/ru/companies/dododev/news/915200/?utm_campaign=915200&utm_source=habrahabr&utm_medium=rss)
+- [Чему учат в онлайн-магистратуре Яндекса: специализация «Инженер сетевой безопасности»](https://habr.com/ru/companies/yandex_praktikum/news/914872/?utm_campaign=914872&utm_source=habrahabr&utm_medium=rss)
+- [С июня 2025 года изменились правила смены пароля на «Госуслугах»](https://habr.com/ru/news/915184/?utm_campaign=915184&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, Google и CrowdStrike объединяются, чтобы стандартизировать запутанные прозвища хакерских групп](https://habr.com/ru/news/915176/?utm_campaign=915176&utm_source=habrahabr&utm_medium=rss)
-- [Spring против Quarkus, правильные тесты, AOT-репозитории спасут Spring | Spring АйО Подкаст №21](https://habr.com/ru/companies/spring_aio/news/915164/?utm_campaign=915164&utm_source=habrahabr&utm_medium=rss)
-- [МТС начнет делиться геоданными абонентов с отрядом «Лиза Алерт»](https://habr.com/ru/news/915160/?utm_campaign=915160&utm_source=habrahabr&utm_medium=rss)
-- [Модераторы сообщества Reddit рассказали о сошедших с ума пользователях ChatGPT](https://habr.com/ru/news/915142/?utm_campaign=915142&utm_source=habrahabr&utm_medium=rss)
-- [MWS Cloud Platform: открываем доступ первым пользователям](https://habr.com/ru/companies/mws/news/915144/?utm_campaign=915144&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
