@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MWS Cloud Platform: открываем доступ первым пользователям](https://habr.com/ru/companies/mws/news/915144/?utm_campaign=915144&utm_source=habrahabr&utm_medium=rss)
+- [В WhatsApp появятся имена пользователей формата @username](https://habr.com/ru/news/915124/?utm_campaign=915124&utm_source=habrahabr&utm_medium=rss)
 - [Российская Navio представила автономный магистральный тягач Navio L5](https://habr.com/ru/news/915116/?utm_campaign=915116&utm_source=habrahabr&utm_medium=rss)
 - [IBM приобрела стартап по анализу данных Seek AI и открыла ИИ-акселератор в Нью-Йорке](https://habr.com/ru/news/915118/?utm_campaign=915118&utm_source=habrahabr&utm_medium=rss)
 - [Google Wallet потеряет доступ к PayPal](https://habr.com/ru/news/915104/?utm_campaign=915104&utm_source=habrahabr&utm_medium=rss)
-- [Спустя сутки после открытия доступа к системе сертификации IT‑специалистов на «Госуслугах» прошли тесты 2587 человек](https://habr.com/ru/news/915092/?utm_campaign=915092&utm_source=habrahabr&utm_medium=rss)
-- [В статистике Steam доля Linux достигла 2,69 %](https://habr.com/ru/news/915088/?utm_campaign=915088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
