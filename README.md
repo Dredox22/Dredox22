@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российская Navio представила автономный магистральный тягач Navio L5](https://habr.com/ru/news/915116/?utm_campaign=915116&utm_source=habrahabr&utm_medium=rss)
+- [IBM приобрела стартап по анализу данных Seek AI и открыла ИИ-акселератор в Нью-Йорке](https://habr.com/ru/news/915118/?utm_campaign=915118&utm_source=habrahabr&utm_medium=rss)
+- [Google Wallet потеряет доступ к PayPal](https://habr.com/ru/news/915104/?utm_campaign=915104&utm_source=habrahabr&utm_medium=rss)
 - [Спустя сутки после открытия доступа к системе сертификации IT‑специалистов на «Госуслугах» прошли тесты 2587 человек](https://habr.com/ru/news/915092/?utm_campaign=915092&utm_source=habrahabr&utm_medium=rss)
 - [В статистике Steam доля Linux достигла 2,69 %](https://habr.com/ru/news/915088/?utm_campaign=915088&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта для распознавания текста dpScreenOCR 1.5.0](https://habr.com/ru/news/915036/?utm_campaign=915036&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD Стройплощадка 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/914582/?utm_campaign=914582&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.1](https://habr.com/ru/news/915032/?utm_campaign=915032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
