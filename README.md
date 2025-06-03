@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» объявил победителей Международной ИТ‑Олимпиады 2025 для школьников в сфере ИТ, кибербезопасности и ИИ](https://habr.com/ru/news/915352/?utm_campaign=915352&utm_source=habrahabr&utm_medium=rss)
 - [Совместный вебинар СВД ВС и PVS-Studio](https://habr.com/ru/companies/swd_es/news/915336/?utm_campaign=915336&utm_source=habrahabr&utm_medium=rss)
 - [Зовём вас на митап Database 17 июня](https://habr.com/ru/companies/avito/news/915314/?utm_campaign=915314&utm_source=habrahabr&utm_medium=rss)
 - [Приложение YouTube перестало работать на первом iPhone SE, iPhone 6s и 6S Plus, iPhone 7 и 7 Plus](https://habr.com/ru/news/915308/?utm_campaign=915308&utm_source=habrahabr&utm_medium=rss)
 - [Ноутбук с фирменным процессором от Nvidia может выйти в этом году](https://habr.com/ru/news/915290/?utm_campaign=915290&utm_source=habrahabr&utm_medium=rss)
-- [Частная компания «Нацспектр» запустит производство базовых станций 4G](https://habr.com/ru/news/915266/?utm_campaign=915266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
