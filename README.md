@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Спустя сутки после открытия доступа к системе сертификации IT‑специалистов на «Госуслугах» прошли тесты 2587 человек](https://habr.com/ru/news/915092/?utm_campaign=915092&utm_source=habrahabr&utm_medium=rss)
+- [В статистике Steam доля Linux достигла 2,69 %](https://habr.com/ru/news/915088/?utm_campaign=915088&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта для распознавания текста dpScreenOCR 1.5.0](https://habr.com/ru/news/915036/?utm_campaign=915036&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD Стройплощадка 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/914582/?utm_campaign=914582&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.1](https://habr.com/ru/news/915032/?utm_campaign=915032&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wine 10.9](https://habr.com/ru/news/915030/?utm_campaign=915030&utm_source=habrahabr&utm_medium=rss)
-- [Fplus показал на ЦИПР новые смартфоны «Алькор» и «Мицар»](https://habr.com/ru/news/914992/?utm_campaign=914992&utm_source=habrahabr&utm_medium=rss)
-- [Объединённое кредитное бюро: с 1 марта самозапрет на кредиты через «Госуслуги» активировали 10,5 млн граждан](https://habr.com/ru/news/914990/?utm_campaign=914990&utm_source=habrahabr&utm_medium=rss)
-- [СИГМА получила награду «КИБЕР Опора»](https://habr.com/ru/companies/sigma/news/914988/?utm_campaign=914988&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
