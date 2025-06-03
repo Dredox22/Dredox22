@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Частная компания «Нацспектр» запустит производство базовых станций 4G](https://habr.com/ru/news/915266/?utm_campaign=915266&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity обсуждает сделку по масштабной интеграции своего ИИ-поисковика на устройства Samsung](https://habr.com/ru/news/915246/?utm_campaign=915246&utm_source=habrahabr&utm_medium=rss)
+- [На ЦИПР-2025 представили первый полностью отечественный прототип ядра мобильной сети](https://habr.com/ru/news/915242/?utm_campaign=915242&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» и 1С провели испытания отечественной ERP-платформы «тяжелого класса» по управлению производством](https://habr.com/ru/news/915224/?utm_campaign=915224&utm_source=habrahabr&utm_medium=rss)
 - [YouTube-Tools с помощью ИИ «вычисляет» пользователей YouTube по их комментариям](https://habr.com/ru/news/915180/?utm_campaign=915180&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft перестанет беспокоить пользователей Windows из ЕС и ещё трёх стран Европы по поводу Edge](https://habr.com/ru/news/915216/?utm_campaign=915216&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждено патентом: разработка InfoWatch прогнозирует увольнение сотрудников и другие ИБ-риски](https://habr.com/ru/news/915204/?utm_campaign=915204&utm_source=habrahabr&utm_medium=rss)
-- [Как выжить аналитику в B2B? Обсудим на эфире 5 июня](https://habr.com/ru/companies/dododev/news/915200/?utm_campaign=915200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
