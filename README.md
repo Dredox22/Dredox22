@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на big tech night — «Ночь музеев» в мире IT](https://habr.com/ru/companies/X5Tech/news/915642/?utm_campaign=915642&utm_source=habrahabr&utm_medium=rss)
+- [«Что вообще происходит?!» — пользователи Reddit в экзистенциальном ужасе от Google Veo 3](https://habr.com/ru/companies/bothub/news/915630/?utm_campaign=915630&utm_source=habrahabr&utm_medium=rss)
+- [20%-я безработица из-за ИИ — не фантастика. Глава Anthropic придумал налог на токены](https://habr.com/ru/companies/bothub/news/915612/?utm_campaign=915612&utm_source=habrahabr&utm_medium=rss)
 - [People Can Fly отменяет два игровых проекта и увольняет сотрудников](https://habr.com/ru/news/915602/?utm_campaign=915602&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Go» запустил «Хаб» для выбора и сравнения маршрутов на разных видах городского транспорта](https://habr.com/ru/news/915600/?utm_campaign=915600&utm_source=habrahabr&utm_medium=rss)
-- [10 минут в мозгу: как прошло первое испытание импланта Paradromics на человеке?](https://habr.com/ru/companies/bothub/news/915598/?utm_campaign=915598&utm_source=habrahabr&utm_medium=rss)
-- [«Ведомости»: ВТБ перешел на российские компьютеры и планшеты](https://habr.com/ru/news/915550/?utm_campaign=915550&utm_source=habrahabr&utm_medium=rss)
-- [К2 НейроТех представил новый ПАК-AI для быстрого внедрения прикладного ИИ в бизнес-процессы](https://habr.com/ru/companies/k2tech/news/915532/?utm_campaign=915532&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
