@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Selectel расширяет портфель услуг по защите от киберугроз](https://habr.com/ru/companies/selectel/news/915504/?utm_campaign=915504&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: Outlook выдаёт баги после обновления функций «Календаря»](https://habr.com/ru/news/915490/?utm_campaign=915490&utm_source=habrahabr&utm_medium=rss)
+- [Adobe представила бета-версию Photoshop для Android](https://habr.com/ru/news/915414/?utm_campaign=915414&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games выпустила финальную версию Unreal Engine 5.6](https://habr.com/ru/news/915472/?utm_campaign=915472&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» появится возможность назначать доверенное лицо для смены пароля](https://habr.com/ru/news/915464/?utm_campaign=915464&utm_source=habrahabr&utm_medium=rss)
-- [Программист vs DevOps: новый выпуск шоу «Согласен — не согласен»](https://habr.com/ru/companies/skbkontur/news/915476/?utm_campaign=915476&utm_source=habrahabr&utm_medium=rss)
-- [T-Mobile запустил оптоволоконный интернет в США с пятилетней фиксацией цены](https://habr.com/ru/news/915456/?utm_campaign=915456&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила AI Blueprint для борьбы с мошенничеством с кредитками](https://habr.com/ru/news/915446/?utm_campaign=915446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
