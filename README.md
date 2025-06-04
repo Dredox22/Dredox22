@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз открытого проекта для графического представления научных данных Veusz 4.0](https://habr.com/ru/news/915408/?utm_campaign=915408&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Музыка» выпустила приложение для Samsung Galaxy Watch](https://habr.com/ru/news/915378/?utm_campaign=915378&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» объявил победителей Международной ИТ‑Олимпиады 2025 для школьников в сфере ИТ, кибербезопасности и ИИ](https://habr.com/ru/news/915352/?utm_campaign=915352&utm_source=habrahabr&utm_medium=rss)
-- [Совместный вебинар СВД ВС и PVS-Studio](https://habr.com/ru/companies/swd_es/news/915336/?utm_campaign=915336&utm_source=habrahabr&utm_medium=rss)
-- [Зовём вас на митап Database 17 июня](https://habr.com/ru/companies/avito/news/915314/?utm_campaign=915314&utm_source=habrahabr&utm_medium=rss)
+- [Голос убеждения: мошенники используют новые сценарии привлечения в схемы криптоскама](https://habr.com/ru/companies/F6/news/915172/?utm_campaign=915172&utm_source=habrahabr&utm_medium=rss)
+- [Вышла система виртуализации VirtualBox 7.1.10](https://habr.com/ru/news/915436/?utm_campaign=915436&utm_source=habrahabr&utm_medium=rss)
+- [Алгоритмы «Яндекс Маркета» помогли полиции поймать мошенника, который выкупал пункты выдачи через подставные лица](https://habr.com/ru/news/915358/?utm_campaign=915358&utm_source=habrahabr&utm_medium=rss)
+- [Михаил Мишустин заявил о доминирующем положении российского ПО на рынке инженерных решений](https://habr.com/ru/companies/nanosoft/news/915434/?utm_campaign=915434&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-9](https://habr.com/ru/news/915398/?utm_campaign=915398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
