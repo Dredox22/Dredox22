@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia представила AI Blueprint для борьбы с мошенничеством с кредитками](https://habr.com/ru/news/915446/?utm_campaign=915446&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Практикум запустил курс «Мидл системный аналитик»](https://habr.com/ru/companies/yandex_praktikum/news/913470/?utm_campaign=913470&utm_source=habrahabr&utm_medium=rss)
 - [Голос убеждения: мошенники используют новые сценарии привлечения в схемы криптоскама](https://habr.com/ru/companies/F6/news/915172/?utm_campaign=915172&utm_source=habrahabr&utm_medium=rss)
 - [Вышла система виртуализации VirtualBox 7.1.10](https://habr.com/ru/news/915436/?utm_campaign=915436&utm_source=habrahabr&utm_medium=rss)
 - [Алгоритмы «Яндекс Маркета» помогли полиции поймать мошенника, который выкупал пункты выдачи через подставные лица](https://habr.com/ru/news/915358/?utm_campaign=915358&utm_source=habrahabr&utm_medium=rss)
-- [Михаил Мишустин заявил о доминирующем положении российского ПО на рынке инженерных решений](https://habr.com/ru/companies/nanosoft/news/915434/?utm_campaign=915434&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-9](https://habr.com/ru/news/915398/?utm_campaign=915398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
