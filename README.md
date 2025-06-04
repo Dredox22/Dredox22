@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [People Can Fly отменяет два игровых проекта и увольняет сотрудников](https://habr.com/ru/news/915602/?utm_campaign=915602&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Go» запустил «Хаб» для выбора и сравнения маршрутов на разных видах городского транспорта](https://habr.com/ru/news/915600/?utm_campaign=915600&utm_source=habrahabr&utm_medium=rss)
+- [10 минут в мозгу: как прошло первое испытание импланта Paradromics на человеке?](https://habr.com/ru/companies/bothub/news/915598/?utm_campaign=915598&utm_source=habrahabr&utm_medium=rss)
 - [«Ведомости»: ВТБ перешел на российские компьютеры и планшеты](https://habr.com/ru/news/915550/?utm_campaign=915550&utm_source=habrahabr&utm_medium=rss)
 - [К2 НейроТех представил новый ПАК-AI для быстрого внедрения прикладного ИИ в бизнес-процессы](https://habr.com/ru/companies/k2tech/news/915532/?utm_campaign=915532&utm_source=habrahabr&utm_medium=rss)
-- [Selectel расширяет портфель услуг по защите от киберугроз](https://habr.com/ru/companies/selectel/news/915504/?utm_campaign=915504&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: Outlook выдаёт баги после обновления функций «Календаря»](https://habr.com/ru/news/915490/?utm_campaign=915490&utm_source=habrahabr&utm_medium=rss)
-- [Adobe представила бета-версию Photoshop для Android](https://habr.com/ru/news/915414/?utm_campaign=915414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
