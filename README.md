@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого проекта для графического представления научных данных Veusz 4.0](https://habr.com/ru/news/915408/?utm_campaign=915408&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Музыка» выпустила приложение для Samsung Galaxy Watch](https://habr.com/ru/news/915378/?utm_campaign=915378&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» объявил победителей Международной ИТ‑Олимпиады 2025 для школьников в сфере ИТ, кибербезопасности и ИИ](https://habr.com/ru/news/915352/?utm_campaign=915352&utm_source=habrahabr&utm_medium=rss)
 - [Совместный вебинар СВД ВС и PVS-Studio](https://habr.com/ru/companies/swd_es/news/915336/?utm_campaign=915336&utm_source=habrahabr&utm_medium=rss)
 - [Зовём вас на митап Database 17 июня](https://habr.com/ru/companies/avito/news/915314/?utm_campaign=915314&utm_source=habrahabr&utm_medium=rss)
-- [Приложение YouTube перестало работать на первом iPhone SE, iPhone 6s и 6S Plus, iPhone 7 и 7 Plus](https://habr.com/ru/news/915308/?utm_campaign=915308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
