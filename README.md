@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Портал IXBT Games объявил точную дату проведения игрового шоу «НашЫ игры 2025» для поддержки разработчиков игр](https://habr.com/ru/news/915688/?utm_campaign=915688&utm_source=habrahabr&utm_medium=rss)
+- [Суперассистент от OpenAI: ChatGPT метит в стандарт для iOS, Android и Windows. Что показали судебные документы?](https://habr.com/ru/companies/bothub/news/915682/?utm_campaign=915682&utm_source=habrahabr&utm_medium=rss)
+- [Sora шагает в народ: интеграция в Bing Video Creator — первый бесплатный доступ](https://habr.com/ru/companies/bothub/news/915664/?utm_campaign=915664&utm_source=habrahabr&utm_medium=rss)
 - [ИИ несется как поезд без тормозов: почему эта революция быстрее мобильной и соцсетей](https://habr.com/ru/companies/bothub/news/915656/?utm_campaign=915656&utm_source=habrahabr&utm_medium=rss)
 - [Telegram получил крупное обновление 11.12](https://habr.com/ru/news/915640/?utm_campaign=915640&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на big tech night — «Ночь музеев» в мире IT](https://habr.com/ru/companies/X5Tech/news/915642/?utm_campaign=915642&utm_source=habrahabr&utm_medium=rss)
-- [«Что вообще происходит?!» — пользователи Reddit в экзистенциальном ужасе от Google Veo 3](https://habr.com/ru/companies/bothub/news/915630/?utm_campaign=915630&utm_source=habrahabr&utm_medium=rss)
-- [20%-я безработица из-за ИИ — не фантастика. Глава Anthropic придумал налог на токены](https://habr.com/ru/companies/bothub/news/915612/?utm_campaign=915612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
