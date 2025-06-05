@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Telegram столкнулись со сбоями в работе мессенджера после обновления](https://habr.com/ru/news/915970/?utm_campaign=915970&utm_source=habrahabr&utm_medium=rss)
 - [Дайджест мероприятий на июнь](https://habr.com/ru/companies/mipt_digital/news/915874/?utm_campaign=915874&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры запретит россиянам принимать звонки из‑за границы](https://habr.com/ru/news/915926/?utm_campaign=915926&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг предложил запретить закупку импортных телевизоров для госнужд](https://habr.com/ru/news/915920/?utm_campaign=915920&utm_source=habrahabr&utm_medium=rss)
 - [В России запущен проект по блокировке фейковых сайтов и приложений](https://habr.com/ru/news/915910/?utm_campaign=915910&utm_source=habrahabr&utm_medium=rss)
-- [В Пулково запущена российская система видеоаналитики на базе машинного зрения](https://habr.com/ru/companies/lure_it/news/915898/?utm_campaign=915898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
