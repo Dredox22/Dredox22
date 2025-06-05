@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дайджест мероприятий на июнь](https://habr.com/ru/companies/mipt_digital/news/915874/?utm_campaign=915874&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры запретит россиянам принимать звонки из‑за границы](https://habr.com/ru/news/915926/?utm_campaign=915926&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг предложил запретить закупку импортных телевизоров для госнужд](https://habr.com/ru/news/915920/?utm_campaign=915920&utm_source=habrahabr&utm_medium=rss)
 - [В России запущен проект по блокировке фейковых сайтов и приложений](https://habr.com/ru/news/915910/?utm_campaign=915910&utm_source=habrahabr&utm_medium=rss)
 - [В Пулково запущена российская система видеоаналитики на базе машинного зрения](https://habr.com/ru/companies/lure_it/news/915898/?utm_campaign=915898&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI раскритиковала постановление суда о сохранении всех журналов ChatGPT, включая удалённые чаты](https://habr.com/ru/news/915862/?utm_campaign=915862&utm_source=habrahabr&utm_medium=rss)
-- [Поддельные звонки в службу IT-поддержки затронули 20 организаций и закончившись кражей данных](https://habr.com/ru/news/915804/?utm_campaign=915804&utm_source=habrahabr&utm_medium=rss)
-- [QA-движ: ускоряемся, автоматизируем, исследуем](https://habr.com/ru/companies/2gis/news/915822/?utm_campaign=915822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
