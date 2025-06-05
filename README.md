@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена обновленная Gemini 2.5 Pro — новый топ среди языковых моделей](https://habr.com/ru/news/916062/?utm_campaign=916062&utm_source=habrahabr&utm_medium=rss)
+- [Не просто автодополнение: как Mistral Code хочет автономно закрывать тикеты и что это значит для разработчиков](https://habr.com/ru/companies/bothub/news/916058/?utm_campaign=916058&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры поддержало предустановку российских ОС Alt Linux, Astra Linux и РЕД ОС на ноутбуки, доступные в продаже в РФ](https://habr.com/ru/news/916056/?utm_campaign=916056&utm_source=habrahabr&utm_medium=rss)
+- [Дистилляция по-китайски: как DeepSeek R1 оказался под прицелом из-за Google Gemini](https://habr.com/ru/companies/bothub/news/916054/?utm_campaign=916054&utm_source=habrahabr&utm_medium=rss)
 - [Самооптимизация ИИ. Мечта Гёделя стала реальностью с Darwin-Gödel Machine?](https://habr.com/ru/companies/bothub/news/916046/?utm_campaign=916046&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Telegram столкнулись со сбоями в работе мессенджера после обновления](https://habr.com/ru/news/915970/?utm_campaign=915970&utm_source=habrahabr&utm_medium=rss)
-- [Дайджест мероприятий на июнь](https://habr.com/ru/companies/mipt_digital/news/915874/?utm_campaign=915874&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры запретит россиянам принимать звонки из‑за границы](https://habr.com/ru/news/915926/?utm_campaign=915926&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг предложил запретить закупку импортных телевизоров для госнужд](https://habr.com/ru/news/915920/?utm_campaign=915920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
