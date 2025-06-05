@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-скрапинговые ИИ-боты вызывают сбои в работе научных баз данных и журналов](https://habr.com/ru/news/915780/?utm_campaign=915780&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» представил GigaIDE Pro — российскую корпоративную альтернативу JetBrains](https://habr.com/ru/news/915752/?utm_campaign=915752&utm_source=habrahabr&utm_medium=rss)
 - [Представлена мобильная платформа /e/OS 3.0](https://habr.com/ru/news/915736/?utm_campaign=915736&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пиринговый видеохостинг PeerTube 7.2](https://habr.com/ru/news/915726/?utm_campaign=915726&utm_source=habrahabr&utm_medium=rss)
 - [Проект KDE пугает пользователей с ПК на Windows 10, что их компьютер станет мусором, если там не поставить Linux](https://habr.com/ru/news/915748/?utm_campaign=915748&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой библиотеки и консольной утилиты jq 1.8.0, предназначенных для обработки данных в формате JSON](https://habr.com/ru/news/915742/?utm_campaign=915742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
