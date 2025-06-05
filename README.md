@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поддельные звонки в службу IT-поддержки затронули 20 организаций и закончившись кражей данных](https://habr.com/ru/news/915804/?utm_campaign=915804&utm_source=habrahabr&utm_medium=rss)
+- [QA-движ: ускоряемся, автоматизируем, исследуем](https://habr.com/ru/companies/2gis/news/915822/?utm_campaign=915822&utm_source=habrahabr&utm_medium=rss)
+- [В Mozilla внедрят блокировку вредоносных расширений для Firefox, ворующих криптовалюту](https://habr.com/ru/news/915798/?utm_campaign=915798&utm_source=habrahabr&utm_medium=rss)
+- [Уволен Christian Tismer-Sperling, один из ведущих разработчиков PySide](https://habr.com/ru/news/915810/?utm_campaign=915810&utm_source=habrahabr&utm_medium=rss)
 - [Веб-скрапинговые ИИ-боты вызывают сбои в работе научных баз данных и журналов](https://habr.com/ru/news/915780/?utm_campaign=915780&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» представил GigaIDE Pro — российскую корпоративную альтернативу JetBrains](https://habr.com/ru/news/915752/?utm_campaign=915752&utm_source=habrahabr&utm_medium=rss)
-- [Представлена мобильная платформа /e/OS 3.0](https://habr.com/ru/news/915736/?utm_campaign=915736&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пиринговый видеохостинг PeerTube 7.2](https://habr.com/ru/news/915726/?utm_campaign=915726&utm_source=habrahabr&utm_medium=rss)
-- [Проект KDE пугает пользователей с ПК на Windows 10, что их компьютер станет мусором, если там не поставить Linux](https://habr.com/ru/news/915748/?utm_campaign=915748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
