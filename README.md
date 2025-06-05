@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ОМП представила решение для регистрации в Единой биометрической системе на ЦИПР](https://habr.com/ru/news/915718/?utm_campaign=915718&utm_source=habrahabr&utm_medium=rss)
-- [Портал «Карта Родина» расширяет доступ к электронной подписи для россиян за рубежом](https://habr.com/ru/news/915704/?utm_campaign=915704&utm_source=habrahabr&utm_medium=rss)
-- [Портал IXBT Games объявил точную дату проведения игрового шоу «НашЫ игры 2025» для поддержки разработчиков игр](https://habr.com/ru/news/915688/?utm_campaign=915688&utm_source=habrahabr&utm_medium=rss)
-- [Суперассистент от OpenAI: ChatGPT метит в стандарт для iOS, Android и Windows. Что показали судебные документы?](https://habr.com/ru/companies/bothub/news/915682/?utm_campaign=915682&utm_source=habrahabr&utm_medium=rss)
-- [Sora шагает в народ: интеграция в Bing Video Creator — первый бесплатный доступ](https://habr.com/ru/companies/bothub/news/915664/?utm_campaign=915664&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» представил GigaIDE Pro — российскую корпоративную альтернативу JetBrains](https://habr.com/ru/news/915752/?utm_campaign=915752&utm_source=habrahabr&utm_medium=rss)
+- [Представлена мобильная платформа /e/OS 3.0](https://habr.com/ru/news/915736/?utm_campaign=915736&utm_source=habrahabr&utm_medium=rss)
+- [Вышел пиринговый видеохостинг PeerTube 7.2](https://habr.com/ru/news/915726/?utm_campaign=915726&utm_source=habrahabr&utm_medium=rss)
+- [Проект KDE пугает пользователей с ПК на Windows 10, что их компьютер станет мусором, если там не поставить Linux](https://habr.com/ru/news/915748/?utm_campaign=915748&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытой библиотеки и консольной утилиты jq 1.8.0, предназначенных для обработки данных в формате JSON](https://habr.com/ru/news/915742/?utm_campaign=915742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
