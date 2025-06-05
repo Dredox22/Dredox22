@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России запущен проект по блокировке фейковых сайтов и приложений](https://habr.com/ru/news/915910/?utm_campaign=915910&utm_source=habrahabr&utm_medium=rss)
+- [В Пулково запущена российская система видеоаналитики на базе машинного зрения](https://habr.com/ru/companies/lure_it/news/915898/?utm_campaign=915898&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI раскритиковала постановление суда о сохранении всех журналов ChatGPT, включая удалённые чаты](https://habr.com/ru/news/915862/?utm_campaign=915862&utm_source=habrahabr&utm_medium=rss)
 - [Поддельные звонки в службу IT-поддержки затронули 20 организаций и закончившись кражей данных](https://habr.com/ru/news/915804/?utm_campaign=915804&utm_source=habrahabr&utm_medium=rss)
 - [QA-движ: ускоряемся, автоматизируем, исследуем](https://habr.com/ru/companies/2gis/news/915822/?utm_campaign=915822&utm_source=habrahabr&utm_medium=rss)
-- [В Mozilla внедрят блокировку вредоносных расширений для Firefox, ворующих криптовалюту](https://habr.com/ru/news/915798/?utm_campaign=915798&utm_source=habrahabr&utm_medium=rss)
-- [Уволен Christian Tismer-Sperling, один из ведущих разработчиков PySide](https://habr.com/ru/news/915810/?utm_campaign=915810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
