@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ впервые победил чемпионов-людей в лётных гонках](https://habr.com/ru/companies/cloud4y/news/916188/?utm_campaign=916188&utm_source=habrahabr&utm_medium=rss)
+- [Наш ответ GitHub Copilot? Или…](https://habr.com/ru/news/916184/?utm_campaign=916184&utm_source=habrahabr&utm_medium=rss)
 - [Конкурс дашбордов для всех, кто любит данные и хоккей](https://habr.com/ru/companies/pix_robotics/news/916172/?utm_campaign=916172&utm_source=habrahabr&utm_medium=rss)
 - [Apple обязали сохранить веб-ссылки в App Store](https://habr.com/ru/news/916140/?utm_campaign=916140&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft упростила поиск характеристик ПК в параметрах Windows 11](https://habr.com/ru/news/916136/?utm_campaign=916136&utm_source=habrahabr&utm_medium=rss)
-- [Обнаружена критическая уязвимость в Python-модуле TarFile, допускающая запись в любые части файловой системы](https://habr.com/ru/news/916118/?utm_campaign=916118&utm_source=habrahabr&utm_medium=rss)
-- [Apple объявила победителей Design Awards 2025](https://habr.com/ru/news/916126/?utm_campaign=916126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
