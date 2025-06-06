@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Pro &lpar;200 $&rpar; получит o3 Pro вместо o1 Pro — апдейт уже на подходе](https://habr.com/ru/companies/bothub/news/916102/?utm_campaign=916102&utm_source=habrahabr&utm_medium=rss)
+- [Режем треки на стемы и крутим «странность»: Suno выпустил мощный апдейт редактора](https://habr.com/ru/companies/bothub/news/916098/?utm_campaign=916098&utm_source=habrahabr&utm_medium=rss)
 - [Представлена обновленная Gemini 2.5 Pro — новый топ среди языковых моделей](https://habr.com/ru/news/916062/?utm_campaign=916062&utm_source=habrahabr&utm_medium=rss)
 - [Не просто автодополнение: как Mistral Code хочет автономно закрывать тикеты и что это значит для разработчиков](https://habr.com/ru/companies/bothub/news/916058/?utm_campaign=916058&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры поддержало предустановку российских ОС Alt Linux, Astra Linux и РЕД ОС на ноутбуки, доступные в продаже в РФ](https://habr.com/ru/news/916056/?utm_campaign=916056&utm_source=habrahabr&utm_medium=rss)
-- [Дистилляция по-китайски: как DeepSeek R1 оказался под прицелом из-за Google Gemini](https://habr.com/ru/companies/bothub/news/916054/?utm_campaign=916054&utm_source=habrahabr&utm_medium=rss)
-- [Самооптимизация ИИ. Мечта Гёделя стала реальностью с Darwin-Gödel Machine?](https://habr.com/ru/companies/bothub/news/916046/?utm_campaign=916046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
