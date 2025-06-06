@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic ограничивает доступ к моделям Claude 3.x из-за планов OpenAI приобрести Windsurf](https://habr.com/ru/companies/bothub/news/916294/?utm_campaign=916294&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представляет новые инструменты: коннекторные решения для ChatGPT и режим записи](https://habr.com/ru/companies/bothub/news/916288/?utm_campaign=916288&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» обновил дизайн «Карт» на всех платформах](https://habr.com/ru/news/916284/?utm_campaign=916284&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» запускает программу по поиску уязвимостей в смарт-девайсах на платформе BI.ZONE Bug Bounty](https://habr.com/ru/news/916254/?utm_campaign=916254&utm_source=habrahabr&utm_medium=rss)
 - [X поменяла политику, чтобы запретить обучение ИИ-моделей с использованием своего контента](https://habr.com/ru/news/916234/?utm_campaign=916234&utm_source=habrahabr&utm_medium=rss)
-- [В профиле на Reddit теперь можно скрыть публикации и комментарии](https://habr.com/ru/news/916094/?utm_campaign=916094&utm_source=habrahabr&utm_medium=rss)
-- [ИИ впервые победил чемпионов-людей в лётных гонках](https://habr.com/ru/companies/cloud4y/news/916188/?utm_campaign=916188&utm_source=habrahabr&utm_medium=rss)
-- [Наш ответ GitHub Copilot? Или…](https://habr.com/ru/news/916184/?utm_campaign=916184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
