@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [70 языков и нейросеть-актёр: чем удивил ElevenLabs v3 в новой версии своей TTS](https://habr.com/ru/companies/bothub/news/916350/?utm_campaign=916350&utm_source=habrahabr&utm_medium=rss)
+- [Криптовалюты под прицелом: от институционального внедрения до регуляторных сдвигов](https://habr.com/ru/companies/finam_broker/news/916338/?utm_campaign=916338&utm_source=habrahabr&utm_medium=rss)
+- [Для атак на российские компании хакеры стали использовать фейковую CAPTCHA](https://habr.com/ru/news/916336/?utm_campaign=916336&utm_source=habrahabr&utm_medium=rss)
+- [Backend Weekend Offer: два дня — и вы в VK](https://habr.com/ru/companies/vk/news/916328/?utm_campaign=916328&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic ограничивает доступ к моделям Claude 3.x из-за планов OpenAI приобрести Windsurf](https://habr.com/ru/companies/bothub/news/916294/?utm_campaign=916294&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представляет новые инструменты: коннекторные решения для ChatGPT и режим записи](https://habr.com/ru/companies/bothub/news/916288/?utm_campaign=916288&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» обновил дизайн «Карт» на всех платформах](https://habr.com/ru/news/916284/?utm_campaign=916284&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» запускает программу по поиску уязвимостей в смарт-девайсах на платформе BI.ZONE Bug Bounty](https://habr.com/ru/news/916254/?utm_campaign=916254&utm_source=habrahabr&utm_medium=rss)
-- [X поменяла политику, чтобы запретить обучение ИИ-моделей с использованием своего контента](https://habr.com/ru/news/916234/?utm_campaign=916234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
