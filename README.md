@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обнаружена критическая уязвимость в Python-модуле TarFile, допускающая запись в любые части файловой системы](https://habr.com/ru/news/916118/?utm_campaign=916118&utm_source=habrahabr&utm_medium=rss)
+- [Apple объявила победителей Design Awards 2025](https://habr.com/ru/news/916126/?utm_campaign=916126&utm_source=habrahabr&utm_medium=rss)
+- [«Рейтинг Рунета» выпустил 34 рейтинга digital-подрядчиков, включая 9 не имеющих аналогов на рынке](https://habr.com/ru/news/916080/?utm_campaign=916080&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD BIM ОПС 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/914710/?utm_campaign=914710&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wireshark 4.4.7](https://habr.com/ru/news/916090/?utm_campaign=916090&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT Pro &lpar;200 $&rpar; получит o3 Pro вместо o1 Pro — апдейт уже на подходе](https://habr.com/ru/companies/bothub/news/916102/?utm_campaign=916102&utm_source=habrahabr&utm_medium=rss)
-- [Режем треки на стемы и крутим «странность»: Suno выпустил мощный апдейт редактора](https://habr.com/ru/companies/bothub/news/916098/?utm_campaign=916098&utm_source=habrahabr&utm_medium=rss)
-- [Представлена обновленная Gemini 2.5 Pro — новый топ среди языковых моделей](https://habr.com/ru/news/916062/?utm_campaign=916062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
