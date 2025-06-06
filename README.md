@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила скрипт на PowerShell, который создаёт папку «C:\inetpub», если она была удалена в Windows 11](https://habr.com/ru/news/916380/?utm_campaign=916380&utm_source=habrahabr&utm_medium=rss)
 - [70 языков и нейросеть-актёр: чем удивил ElevenLabs v3 в новой версии своей TTS](https://habr.com/ru/companies/bothub/news/916350/?utm_campaign=916350&utm_source=habrahabr&utm_medium=rss)
 - [Криптовалюты под прицелом: от институционального внедрения до регуляторных сдвигов](https://habr.com/ru/companies/finam_broker/news/916338/?utm_campaign=916338&utm_source=habrahabr&utm_medium=rss)
 - [Для атак на российские компании хакеры стали использовать фейковую CAPTCHA](https://habr.com/ru/news/916336/?utm_campaign=916336&utm_source=habrahabr&utm_medium=rss)
 - [Backend Weekend Offer: два дня — и вы в VK](https://habr.com/ru/companies/vk/news/916328/?utm_campaign=916328&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic ограничивает доступ к моделям Claude 3.x из-за планов OpenAI приобрести Windsurf](https://habr.com/ru/companies/bothub/news/916294/?utm_campaign=916294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
