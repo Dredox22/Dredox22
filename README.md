@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Конкурс дашбордов для всех, кто любит данные и хоккей](https://habr.com/ru/companies/pix_robotics/news/916172/?utm_campaign=916172&utm_source=habrahabr&utm_medium=rss)
+- [Apple обязали сохранить веб-ссылки в App Store](https://habr.com/ru/news/916140/?utm_campaign=916140&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft упростила поиск характеристик ПК в параметрах Windows 11](https://habr.com/ru/news/916136/?utm_campaign=916136&utm_source=habrahabr&utm_medium=rss)
 - [Обнаружена критическая уязвимость в Python-модуле TarFile, допускающая запись в любые части файловой системы](https://habr.com/ru/news/916118/?utm_campaign=916118&utm_source=habrahabr&utm_medium=rss)
 - [Apple объявила победителей Design Awards 2025](https://habr.com/ru/news/916126/?utm_campaign=916126&utm_source=habrahabr&utm_medium=rss)
-- [«Рейтинг Рунета» выпустил 34 рейтинга digital-подрядчиков, включая 9 не имеющих аналогов на рынке](https://habr.com/ru/news/916080/?utm_campaign=916080&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD BIM ОПС 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/914710/?utm_campaign=914710&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wireshark 4.4.7](https://habr.com/ru/news/916090/?utm_campaign=916090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
