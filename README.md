@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В профиле на Reddit теперь можно скрыть публикации и комментарии](https://habr.com/ru/news/916094/?utm_campaign=916094&utm_source=habrahabr&utm_medium=rss)
 - [ИИ впервые победил чемпионов-людей в лётных гонках](https://habr.com/ru/companies/cloud4y/news/916188/?utm_campaign=916188&utm_source=habrahabr&utm_medium=rss)
 - [Наш ответ GitHub Copilot? Или…](https://habr.com/ru/news/916184/?utm_campaign=916184&utm_source=habrahabr&utm_medium=rss)
 - [Конкурс дашбордов для всех, кто любит данные и хоккей](https://habr.com/ru/companies/pix_robotics/news/916172/?utm_campaign=916172&utm_source=habrahabr&utm_medium=rss)
 - [Apple обязали сохранить веб-ссылки в App Store](https://habr.com/ru/news/916140/?utm_campaign=916140&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft упростила поиск характеристик ПК в параметрах Windows 11](https://habr.com/ru/news/916136/?utm_campaign=916136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
