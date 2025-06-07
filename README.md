@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выгорел, месяц лгал, спасся с помощью AI: инструкция по выживанию в IT &lpar;нет&rpar;](https://habr.com/ru/news/916448/?utm_campaign=916448&utm_source=habrahabr&utm_medium=rss)
+- [Золотая лихорадка в сфере оборонных технологий реальна: новые правительственные ИИ-модели от Anthropic](https://habr.com/ru/companies/bothub/news/916444/?utm_campaign=916444&utm_source=habrahabr&utm_medium=rss)
+- [Российские сайты могут обязать проводить авторизацию пользователей только через российские e-mail](https://habr.com/ru/news/916438/?utm_campaign=916438&utm_source=habrahabr&utm_medium=rss)
+- [В Morgan Stanley благодаря ИИ-инструменту переписали 9 млн строк устаревшего кода и сэкономили 280 тысяч часов](https://habr.com/ru/news/916432/?utm_campaign=916432&utm_source=habrahabr&utm_medium=rss)
 - [Станет ли 2025 год «поворотным» для дополненной и виртуальной реальности Meta*?](https://habr.com/ru/companies/bothub/news/916424/?utm_campaign=916424&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты превосходят команды людей в соревнованиях по хакерству](https://habr.com/ru/companies/bothub/news/916422/?utm_campaign=916422&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи создают массивные наборы данных для обучения ИИ, используя только открытые источники](https://habr.com/ru/companies/bothub/news/916420/?utm_campaign=916420&utm_source=habrahabr&utm_medium=rss)
-- [RAG с самокопанием: Google выложил опенсорс-стек для AI-агентов, которые умеют думать](https://habr.com/ru/news/916418/?utm_campaign=916418&utm_source=habrahabr&utm_medium=rss)
-- [Модели ИИ могут определять, когда их тестируют, и вести себя по-другому](https://habr.com/ru/companies/bothub/news/916412/?utm_campaign=916412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
