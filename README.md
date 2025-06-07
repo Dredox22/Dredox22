@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи создают массивные наборы данных для обучения ИИ, используя только открытые источники](https://habr.com/ru/companies/bothub/news/916420/?utm_campaign=916420&utm_source=habrahabr&utm_medium=rss)
+- [RAG с самокопанием: Google выложил опенсорс-стек для AI-агентов, которые умеют думать](https://habr.com/ru/news/916418/?utm_campaign=916418&utm_source=habrahabr&utm_medium=rss)
+- [Модели ИИ могут определять, когда их тестируют, и вести себя по-другому](https://habr.com/ru/companies/bothub/news/916412/?utm_campaign=916412&utm_source=habrahabr&utm_medium=rss)
 - [Студия Mundfish анонсировала Atomic Heart 2 и многопользовательский RPG-шутер Cube](https://habr.com/ru/news/916404/?utm_campaign=916404&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует в Windows 11 опцию с автоматическим снижением нагрузки на ЦП, если нет активности от пользователя](https://habr.com/ru/news/916384/?utm_campaign=916384&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила скрипт на PowerShell, который создаёт папку «C:\inetpub», если она была удалена в Windows 11](https://habr.com/ru/news/916380/?utm_campaign=916380&utm_source=habrahabr&utm_medium=rss)
-- [70 языков и нейросеть-актёр: чем удивил ElevenLabs v3 в новой версии своей TTS](https://habr.com/ru/companies/bothub/news/916350/?utm_campaign=916350&utm_source=habrahabr&utm_medium=rss)
-- [Криптовалюты под прицелом: от институционального внедрения до регуляторных сдвигов](https://habr.com/ru/companies/finam_broker/news/916338/?utm_campaign=916338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
