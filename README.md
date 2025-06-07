@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ позволит выявлять совершенно уникальные индикаторы риска](https://habr.com/ru/companies/bothub/news/916478/?utm_campaign=916478&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI сознательно оставляет вопрос о сознании ИИ без ответа](https://habr.com/ru/companies/bothub/news/916474/?utm_campaign=916474&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic назначает эксперта по национальной безопасности в свой руководящий совет](https://habr.com/ru/companies/bothub/news/916454/?utm_campaign=916454&utm_source=habrahabr&utm_medium=rss)
 - [Патент за $11 млрд от BioNTech, спор Купера и Ленты из-за товарного знака и проигрыш Samsung в суде: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/916296/?utm_campaign=916296&utm_source=habrahabr&utm_medium=rss)
 - [Выгорел, месяц лгал, спасся с помощью AI: инструкция по выживанию в IT &lpar;нет&rpar;](https://habr.com/ru/news/916448/?utm_campaign=916448&utm_source=habrahabr&utm_medium=rss)
-- [Золотая лихорадка в сфере оборонных технологий реальна: новые правительственные ИИ-модели от Anthropic](https://habr.com/ru/companies/bothub/news/916444/?utm_campaign=916444&utm_source=habrahabr&utm_medium=rss)
-- [Российские сайты могут обязать проводить авторизацию пользователей только через российские e-mail](https://habr.com/ru/news/916438/?utm_campaign=916438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
