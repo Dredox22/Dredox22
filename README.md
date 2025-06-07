@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Станет ли 2025 год «поворотным» для дополненной и виртуальной реальности Meta*?](https://habr.com/ru/companies/bothub/news/916424/?utm_campaign=916424&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты превосходят команды людей в соревнованиях по хакерству](https://habr.com/ru/companies/bothub/news/916422/?utm_campaign=916422&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи создают массивные наборы данных для обучения ИИ, используя только открытые источники](https://habr.com/ru/companies/bothub/news/916420/?utm_campaign=916420&utm_source=habrahabr&utm_medium=rss)
 - [RAG с самокопанием: Google выложил опенсорс-стек для AI-агентов, которые умеют думать](https://habr.com/ru/news/916418/?utm_campaign=916418&utm_source=habrahabr&utm_medium=rss)
 - [Модели ИИ могут определять, когда их тестируют, и вести себя по-другому](https://habr.com/ru/companies/bothub/news/916412/?utm_campaign=916412&utm_source=habrahabr&utm_medium=rss)
-- [Студия Mundfish анонсировала Atomic Heart 2 и многопользовательский RPG-шутер Cube](https://habr.com/ru/news/916404/?utm_campaign=916404&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует в Windows 11 опцию с автоматическим снижением нагрузки на ЦП, если нет активности от пользователя](https://habr.com/ru/news/916384/?utm_campaign=916384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
