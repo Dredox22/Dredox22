@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft и Asus анонсировали портативные игровые консоли ROG Xbox Ally и ROG Xbox Ally X](https://habr.com/ru/news/916714/?utm_campaign=916714&utm_source=habrahabr&utm_medium=rss)
 - [Fplus представила собственные BIOS и BMC](https://habr.com/ru/news/916690/?utm_campaign=916690&utm_source=habrahabr&utm_medium=rss)
 - [В УК РФ хотят ввести наказание за DDoS‑атаки](https://habr.com/ru/news/916646/?utm_campaign=916646&utm_source=habrahabr&utm_medium=rss)
 - [В России запускают нацпроект по развитию космоса](https://habr.com/ru/news/916628/?utm_campaign=916628&utm_source=habrahabr&utm_medium=rss)
 - [Splay представил складной 35-дюймовый экран, который помещается в рюкзаке и работает автономно](https://habr.com/ru/news/916558/?utm_campaign=916558&utm_source=habrahabr&utm_medium=rss)
-- [Sony протестует против регистрации товарного знака Naughty Cat в США из-за сходства с Naughty Dog](https://habr.com/ru/news/916608/?utm_campaign=916608&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
