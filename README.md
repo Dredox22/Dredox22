@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект X11Libre — форк X.Org Server без влияния компаний, включая Red Hat](https://habr.com/ru/news/916574/?utm_campaign=916574&utm_source=habrahabr&utm_medium=rss)
+- [Релиз WinToUSB 9.9](https://habr.com/ru/news/916508/?utm_campaign=916508&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NWinfo 1.3.0 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/916498/?utm_campaign=916498&utm_source=habrahabr&utm_medium=rss)
 - [Релиз DaVinci Resolve 20.0](https://habr.com/ru/news/916496/?utm_campaign=916496&utm_source=habrahabr&utm_medium=rss)
 - [ИИ позволит выявлять совершенно уникальные индикаторы риска](https://habr.com/ru/companies/bothub/news/916478/?utm_campaign=916478&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сознательно оставляет вопрос о сознании ИИ без ответа](https://habr.com/ru/companies/bothub/news/916474/?utm_campaign=916474&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic назначает эксперта по национальной безопасности в свой руководящий совет](https://habr.com/ru/companies/bothub/news/916454/?utm_campaign=916454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
