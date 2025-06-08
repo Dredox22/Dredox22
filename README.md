@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого видеоредактора Flowblade 2.22](https://habr.com/ru/news/916546/?utm_campaign=916546&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект X11Libre — форк X.Org Server без влияния компаний, включая Red Hat](https://habr.com/ru/news/916574/?utm_campaign=916574&utm_source=habrahabr&utm_medium=rss)
 - [Релиз WinToUSB 9.9](https://habr.com/ru/news/916508/?utm_campaign=916508&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NWinfo 1.3.0 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/916498/?utm_campaign=916498&utm_source=habrahabr&utm_medium=rss)
 - [Релиз DaVinci Resolve 20.0](https://habr.com/ru/news/916496/?utm_campaign=916496&utm_source=habrahabr&utm_medium=rss)
-- [ИИ позволит выявлять совершенно уникальные индикаторы риска](https://habr.com/ru/companies/bothub/news/916478/?utm_campaign=916478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
