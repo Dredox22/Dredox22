@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [АТРОНИК МЦП303: встраиваемый одноплатный компьютер стандарта PC/104-Plus](https://habr.com/ru/news/916816/?utm_campaign=916816&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: безопасность Java-приложений в 2024 — ГОСТ, критические ошибки, supply chain](https://habr.com/ru/companies/axiomjdk/news/916782/?utm_campaign=916782&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент для копирования CD из эпохи Windows 95/98 заработал на Windows 11](https://habr.com/ru/news/916794/?utm_campaign=916794&utm_source=habrahabr&utm_medium=rss)
 - [В PowerToys Run теперь можно измерять скорость интернета и загружать видео](https://habr.com/ru/news/916776/?utm_campaign=916776&utm_source=habrahabr&utm_medium=rss)
 - [Росгосстрах обновил ИИ модели по ОСАГО](https://habr.com/ru/companies/rgs_it/news/916786/?utm_campaign=916786&utm_source=habrahabr&utm_medium=rss)
-- [В России внедрят технологию распознавания дипфейков в решениях для видеоконференцсвязи](https://habr.com/ru/companies/iva_tech/news/916784/?utm_campaign=916784&utm_source=habrahabr&utm_medium=rss)
-- [United Airlines временно отключила интернет Starlink из-за помех в связи между пилотами и диспетчерами](https://habr.com/ru/news/916766/?utm_campaign=916766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
