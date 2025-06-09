@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструмент для копирования CD из эпохи Windows 95/98 заработал на Windows 11](https://habr.com/ru/news/916794/?utm_campaign=916794&utm_source=habrahabr&utm_medium=rss)
+- [В PowerToys Run теперь можно измерять скорость интернета и загружать видео](https://habr.com/ru/news/916776/?utm_campaign=916776&utm_source=habrahabr&utm_medium=rss)
+- [Росгосстрах обновил ИИ модели по ОСАГО](https://habr.com/ru/companies/rgs_it/news/916786/?utm_campaign=916786&utm_source=habrahabr&utm_medium=rss)
+- [В России внедрят технологию распознавания дипфейков в решениях для видеоконференцсвязи](https://habr.com/ru/companies/iva_tech/news/916784/?utm_campaign=916784&utm_source=habrahabr&utm_medium=rss)
 - [United Airlines временно отключила интернет Starlink из-за помех в связи между пилотами и диспетчерами](https://habr.com/ru/news/916766/?utm_campaign=916766&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на вебинар «API Security. Защита и стандарты безопасности»](https://habr.com/ru/companies/swordfish_security/news/916324/?utm_campaign=916324&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум запустил новый тариф на курсе «Разработчик 1С»](https://habr.com/ru/companies/yandex_praktikum/news/915502/?utm_campaign=915502&utm_source=habrahabr&utm_medium=rss)
-- [Linux Mint получил встроенную поддержку входа по отпечатку пальца](https://habr.com/ru/news/916756/?utm_campaign=916756&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила требования к Windows 11 для ПК Copilot+, добавив поддержку Intel и AMD](https://habr.com/ru/news/916754/?utm_campaign=916754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
