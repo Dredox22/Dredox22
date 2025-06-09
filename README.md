@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Так бины ты еще не создавал, функциональный захват API, акмеисты атакуют | Spring АйО Подкаст №22](https://habr.com/ru/companies/spring_aio/news/916948/?utm_campaign=916948&utm_source=habrahabr&utm_medium=rss)
 - [Максут Шадаев: «Национальный мессенджер будет безопаснее и заменит зарубежные сервисы»](https://habr.com/ru/news/916906/?utm_campaign=916906&utm_source=habrahabr&utm_medium=rss)
 - [«СКБ Контур» и «Газинформсервис» обеспечивают трансграничный ЭДО между Россией и Беларусью](https://habr.com/ru/companies/gaz-is/news/916902/?utm_campaign=916902&utm_source=habrahabr&utm_medium=rss)
 - [В Open Source-платформе Deckhouse Kubernetes Platform Community Edition появился веб-интерфейс](https://habr.com/ru/companies/flant/news/916828/?utm_campaign=916828&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила «Быстрое восстановление системы» в настройки Windows 11](https://habr.com/ru/news/916804/?utm_campaign=916804&utm_source=habrahabr&utm_medium=rss)
-- [АТРОНИК МЦП303: встраиваемый одноплатный компьютер стандарта PC/104-Plus](https://habr.com/ru/news/916816/?utm_campaign=916816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
