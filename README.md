@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [United Airlines временно отключила интернет Starlink из-за помех в связи между пилотами и диспетчерами](https://habr.com/ru/news/916766/?utm_campaign=916766&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар «API Security. Защита и стандарты безопасности»](https://habr.com/ru/companies/swordfish_security/news/916324/?utm_campaign=916324&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Практикум запустил новый тариф на курсе «Разработчик 1С»](https://habr.com/ru/companies/yandex_praktikum/news/915502/?utm_campaign=915502&utm_source=habrahabr&utm_medium=rss)
 - [Linux Mint получил встроенную поддержку входа по отпечатку пальца](https://habr.com/ru/news/916756/?utm_campaign=916756&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила требования к Windows 11 для ПК Copilot+, добавив поддержку Intel и AMD](https://habr.com/ru/news/916754/?utm_campaign=916754&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой библиотеки QSchematic 2.0.1 для создания интерактивных схем и диаграмм](https://habr.com/ru/news/916728/?utm_campaign=916728&utm_source=habrahabr&utm_medium=rss)
-- [«Швабе» представил новый сверхсветосильный объектив «Зенитар»](https://habr.com/ru/news/916748/?utm_campaign=916748&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Network Security Toolkit 42](https://habr.com/ru/news/916630/?utm_campaign=916630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
