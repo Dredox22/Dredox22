@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Mint получил встроенную поддержку входа по отпечатку пальца](https://habr.com/ru/news/916756/?utm_campaign=916756&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила требования к Windows 11 для ПК Copilot+, добавив поддержку Intel и AMD](https://habr.com/ru/news/916754/?utm_campaign=916754&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытой библиотеки QSchematic 2.0.1 для создания интерактивных схем и диаграмм](https://habr.com/ru/news/916728/?utm_campaign=916728&utm_source=habrahabr&utm_medium=rss)
+- [«Швабе» представил новый сверхсветосильный объектив «Зенитар»](https://habr.com/ru/news/916748/?utm_campaign=916748&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Network Security Toolkit 42](https://habr.com/ru/news/916630/?utm_campaign=916630&utm_source=habrahabr&utm_medium=rss)
-- [Совет Федерации предложил инициативу по введению рейтинга предприятий с показателями прогресса импортозамещения](https://habr.com/ru/companies/nanosoft/news/916618/?utm_campaign=916618&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и Asus анонсировали портативные игровые консоли ROG Xbox Ally и ROG Xbox Ally X](https://habr.com/ru/news/916714/?utm_campaign=916714&utm_source=habrahabr&utm_medium=rss)
-- [Fplus представила собственные BIOS и BMC](https://habr.com/ru/news/916690/?utm_campaign=916690&utm_source=habrahabr&utm_medium=rss)
-- [В УК РФ хотят ввести наказание за DDoS‑атаки](https://habr.com/ru/news/916646/?utm_campaign=916646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
