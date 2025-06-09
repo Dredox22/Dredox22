@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/917006/?utm_campaign=917006&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл доступ к API «Вордстат»](https://habr.com/ru/news/917002/?utm_campaign=917002&utm_source=habrahabr&utm_medium=rss)
 - [«Иртея» заключила контракт с «Микроном» на поставку микросхем на сумму 400 млн рублей](https://habr.com/ru/news/916998/?utm_campaign=916998&utm_source=habrahabr&utm_medium=rss)
 - [«Штурвал 2.10»: еще меньше требований к ресурсам, провайдер Yandex Cloud и настоящая мультитенантность](https://habr.com/ru/companies/chislitellab/news/916992/?utm_campaign=916992&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: игровые консоли Xbox Ally работают на неперегруженной Windows 11](https://habr.com/ru/news/916972/?utm_campaign=916972&utm_source=habrahabr&utm_medium=rss)
-- [Так бины ты еще не создавал, функциональный захват API, акмеисты атакуют | Spring АйО Подкаст №22](https://habr.com/ru/companies/spring_aio/news/916948/?utm_campaign=916948&utm_source=habrahabr&utm_medium=rss)
-- [Максут Шадаев: «Национальный мессенджер будет безопаснее и заменит зарубежные сервисы»](https://habr.com/ru/news/916906/?utm_campaign=916906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
