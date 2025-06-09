@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Open Source-платформе Deckhouse Kubernetes Platform Community Edition появился веб-интерфейс](https://habr.com/ru/companies/flant/news/916828/?utm_campaign=916828&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила «Быстрое восстановление системы» в настройки Windows 11](https://habr.com/ru/news/916804/?utm_campaign=916804&utm_source=habrahabr&utm_medium=rss)
 - [АТРОНИК МЦП303: встраиваемый одноплатный компьютер стандарта PC/104-Plus](https://habr.com/ru/news/916816/?utm_campaign=916816&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: безопасность Java-приложений в 2024 — ГОСТ, критические ошибки, supply chain](https://habr.com/ru/companies/axiomjdk/news/916782/?utm_campaign=916782&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент для копирования CD из эпохи Windows 95/98 заработал на Windows 11](https://habr.com/ru/news/916794/?utm_campaign=916794&utm_source=habrahabr&utm_medium=rss)
-- [В PowerToys Run теперь можно измерять скорость интернета и загружать видео](https://habr.com/ru/news/916776/?utm_campaign=916776&utm_source=habrahabr&utm_medium=rss)
-- [Росгосстрах обновил ИИ модели по ОСАГО](https://habr.com/ru/companies/rgs_it/news/916786/?utm_campaign=916786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
