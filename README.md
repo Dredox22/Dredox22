@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Network Security Toolkit 42](https://habr.com/ru/news/916630/?utm_campaign=916630&utm_source=habrahabr&utm_medium=rss)
+- [Совет Федерации предложил инициативу по введению рейтинга предприятий с показателями прогресса импортозамещения](https://habr.com/ru/companies/nanosoft/news/916618/?utm_campaign=916618&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и Asus анонсировали портативные игровые консоли ROG Xbox Ally и ROG Xbox Ally X](https://habr.com/ru/news/916714/?utm_campaign=916714&utm_source=habrahabr&utm_medium=rss)
 - [Fplus представила собственные BIOS и BMC](https://habr.com/ru/news/916690/?utm_campaign=916690&utm_source=habrahabr&utm_medium=rss)
 - [В УК РФ хотят ввести наказание за DDoS‑атаки](https://habr.com/ru/news/916646/?utm_campaign=916646&utm_source=habrahabr&utm_medium=rss)
-- [В России запускают нацпроект по развитию космоса](https://habr.com/ru/news/916628/?utm_campaign=916628&utm_source=habrahabr&utm_medium=rss)
-- [Splay представил складной 35-дюймовый экран, который помещается в рюкзаке и работает автономно](https://habr.com/ru/news/916558/?utm_campaign=916558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
