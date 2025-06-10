@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google добавила в подписку Gemini Pro модель генерации видео Veo 3 turbo](https://habr.com/ru/news/917370/?utm_campaign=917370&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» начал серийное производство устройств «КардиоРобот» для непрямого массажа сердца при СЛР](https://habr.com/ru/news/917366/?utm_campaign=917366&utm_source=habrahabr&utm_medium=rss)
 - [Презентация мессенджера Max пройдет летом 2025 года](https://habr.com/ru/news/917342/?utm_campaign=917342&utm_source=habrahabr&utm_medium=rss)
 - [Математики не смогли превзойти нейросеть в решении сложных задач](https://habr.com/ru/news/917338/?utm_campaign=917338&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг начал приём заявок на конкурс на получение субсидий для НИОКР по современным технологиям](https://habr.com/ru/news/917324/?utm_campaign=917324&utm_source=habrahabr&utm_medium=rss)
-- [Анонс 5-го выпуска подкаста IT`s GNIVC: «Центр Компетенции аналитики в ГНИВЦ»](https://habr.com/ru/companies/gnivc/news/917312/?utm_campaign=917312&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia провозглашает ИИ «великим уравнителем» и объявляет о создании суперкомпьютера в Германии](https://habr.com/ru/companies/finam_broker/news/917294/?utm_campaign=917294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
