@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз СУБД MariaDB Server 11.8 с долгосрочной поддержкой &lpar;LTS&rpar;](https://habr.com/ru/news/917008/?utm_campaign=917008&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытой платформы для автоматизации бизнес-процессов малых предприятий MyCompany 6.0](https://habr.com/ru/news/917010/?utm_campaign=917010&utm_source=habrahabr&utm_medium=rss)
 - [Apple обновила нумерацию релизов — вместо 19 выйдет iOS/macOS/iPadOS/watchOS/tvOS/visionOS 26](https://habr.com/ru/news/917058/?utm_campaign=917058&utm_source=habrahabr&utm_medium=rss)
 - [Релиз пользовательского окружения Sway 1.11](https://habr.com/ru/news/917000/?utm_campaign=917000&utm_source=habrahabr&utm_medium=rss)
 - [Delta Computers представила обновлённый сервер Delta Serval на базе Intel Xeon 6](https://habr.com/ru/news/917014/?utm_campaign=917014&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/917006/?utm_campaign=917006&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл доступ к API «Вордстат»](https://habr.com/ru/news/917002/?utm_campaign=917002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
