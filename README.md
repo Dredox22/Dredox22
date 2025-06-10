@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла ChatGPT o3-Pro — самая мощная &lpar;и дорогая&rpar; модель OpenAI](https://habr.com/ru/news/917392/?utm_campaign=917392&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила в подписку Gemini Pro модель генерации видео Veo 3 Fast](https://habr.com/ru/news/917370/?utm_campaign=917370&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» начал серийное производство устройств «КардиоРобот» для непрямого массажа сердца при СЛР](https://habr.com/ru/news/917366/?utm_campaign=917366&utm_source=habrahabr&utm_medium=rss)
 - [Презентация мессенджера Max пройдет летом 2025 года](https://habr.com/ru/news/917342/?utm_campaign=917342&utm_source=habrahabr&utm_medium=rss)
 - [Математики не смогли превзойти нейросеть в решении сложных задач](https://habr.com/ru/news/917338/?utm_campaign=917338&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг начал приём заявок на конкурс на получение субсидий для НИОКР по современным технологиям](https://habr.com/ru/news/917324/?utm_campaign=917324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
