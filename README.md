@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестировщики Windows 11 могут опробовать новое меню «Пуск»](https://habr.com/ru/news/917098/?utm_campaign=917098&utm_source=habrahabr&utm_medium=rss)
+- [Luxms BI — снова в числе сильнейших в исследовании «BI-круг Громова 2024»](https://habr.com/ru/companies/luxms_bi/news/917096/?utm_campaign=917096&utm_source=habrahabr&utm_medium=rss)
 - [Чему учат в онлайн-магистратуре Яндекса: специализация «Фронтенд-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/916490/?utm_campaign=916490&utm_source=habrahabr&utm_medium=rss)
 - [Google исправила баг с утечкой привязанных к аккаунтам телефонных номеров](https://habr.com/ru/news/917072/?utm_campaign=917072&utm_source=habrahabr&utm_medium=rss)
 - [nanoДРАЙВ в Челябинске: цифровые технологии объединили более 100 специалистов строительства и машиностроения](https://habr.com/ru/companies/nanosoft/news/916512/?utm_campaign=916512&utm_source=habrahabr&utm_medium=rss)
-- [Релиз СУБД MariaDB Server 11.8 с долгосрочной поддержкой &lpar;LTS&rpar;](https://habr.com/ru/news/917008/?utm_campaign=917008&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытой платформы для автоматизации бизнес-процессов малых предприятий MyCompany 6.0](https://habr.com/ru/news/917010/?utm_campaign=917010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
