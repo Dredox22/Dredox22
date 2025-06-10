@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple обновила нумерацию релизов — вместо 19 выйдет iOS/macOS/iPadOS/watchOS/tvOS/visionOS 26](https://habr.com/ru/news/917058/?utm_campaign=917058&utm_source=habrahabr&utm_medium=rss)
+- [Релиз пользовательского окружения Sway 1.11](https://habr.com/ru/news/917000/?utm_campaign=917000&utm_source=habrahabr&utm_medium=rss)
 - [Delta Computers представила обновлённый сервер Delta Serval на базе Intel Xeon 6](https://habr.com/ru/news/917014/?utm_campaign=917014&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/917006/?utm_campaign=917006&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл доступ к API «Вордстат»](https://habr.com/ru/news/917002/?utm_campaign=917002&utm_source=habrahabr&utm_medium=rss)
-- [«Иртея» заключила контракт с «Микроном» на поставку микросхем на сумму 400 млн рублей](https://habr.com/ru/news/916998/?utm_campaign=916998&utm_source=habrahabr&utm_medium=rss)
-- [«Штурвал 2.10»: еще меньше требований к ресурсам, провайдер Yandex Cloud и настоящая мультитенантность](https://habr.com/ru/companies/chislitellab/news/916992/?utm_campaign=916992&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
