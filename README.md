@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Билайн» будет прерывать звонки при получении кода от «Госуслуг» или банка](https://habr.com/ru/news/917246/?utm_campaign=917246&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар о лучших практиках для организации сетевой безопасности](https://habr.com/ru/companies/selectel/news/917230/?utm_campaign=917230&utm_source=habrahabr&utm_medium=rss)
+- [На вебинаре расскажем, как организовать процесс обезличивания данных в компании и ничего не упустить](https://habr.com/ru/companies/hflabs/news/917234/?utm_campaign=917234&utm_source=habrahabr&utm_medium=rss)
+- [Открыта регистрация на VK Security Confab: AppSec-митап в Санкт-Петербурге](https://habr.com/ru/companies/vk/news/917122/?utm_campaign=917122&utm_source=habrahabr&utm_medium=rss)
 - [Content AI и РозумСофт объединили технологии для точного распознавания документов](https://habr.com/ru/companies/contentai/news/917210/?utm_campaign=917210&utm_source=habrahabr&utm_medium=rss)
-- [Проект Atarino: инженер создал компьютер Atari размером с почтовую марку](https://habr.com/ru/news/917186/?utm_campaign=917186&utm_source=habrahabr&utm_medium=rss)
-- [Фрилансер рассказал про контракт, в рамках которого за $35 тыс. развернёт ИИ-решение на Llama 3 70B](https://habr.com/ru/news/917128/?utm_campaign=917128&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo предупредила, что будет записывать видеочаты в GameChat на Switch 2](https://habr.com/ru/news/917040/?utm_campaign=917040&utm_source=habrahabr&utm_medium=rss)
-- [Что показали на WWDC 25: «стеклянный» интерфейс iOS, полноценные окна в iPadOS и переработанный Spotlight в macOS](https://habr.com/ru/news/917112/?utm_campaign=917112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
