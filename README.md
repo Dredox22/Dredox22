@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг начал приём заявок на конкурс на получение субсидий для НИОКР по современным технологиям](https://habr.com/ru/news/917324/?utm_campaign=917324&utm_source=habrahabr&utm_medium=rss)
+- [Анонс 5-го выпуска подкаста IT`s GNIVC: «Центр Компетенции аналитики в ГНИВЦ»](https://habr.com/ru/companies/gnivc/news/917312/?utm_campaign=917312&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia провозглашает ИИ «великим уравнителем» и объявляет о создании суперкомпьютера в Германии](https://habr.com/ru/companies/finam_broker/news/917294/?utm_campaign=917294&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» будет прерывать звонки при получении кода от «Госуслуг» или банка](https://habr.com/ru/news/917246/?utm_campaign=917246&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар о лучших практиках для организации сетевой безопасности](https://habr.com/ru/companies/selectel/news/917230/?utm_campaign=917230&utm_source=habrahabr&utm_medium=rss)
-- [На вебинаре расскажем, как организовать процесс обезличивания данных в компании и ничего не упустить](https://habr.com/ru/companies/hflabs/news/917234/?utm_campaign=917234&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на VK Security Confab: AppSec-митап в Санкт-Петербурге](https://habr.com/ru/companies/vk/news/917122/?utm_campaign=917122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
