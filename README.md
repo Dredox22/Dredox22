@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia провозглашает ИИ «великим уравнителем» и объявляет о создании суперкомпьютера в Германии](https://habr.com/ru/companies/finam_broker/news/917294/?utm_campaign=917294&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» будет прерывать звонки при получении кода от «Госуслуг» или банка](https://habr.com/ru/news/917246/?utm_campaign=917246&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар о лучших практиках для организации сетевой безопасности](https://habr.com/ru/companies/selectel/news/917230/?utm_campaign=917230&utm_source=habrahabr&utm_medium=rss)
 - [На вебинаре расскажем, как организовать процесс обезличивания данных в компании и ничего не упустить](https://habr.com/ru/companies/hflabs/news/917234/?utm_campaign=917234&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на VK Security Confab: AppSec-митап в Санкт-Петербурге](https://habr.com/ru/companies/vk/news/917122/?utm_campaign=917122&utm_source=habrahabr&utm_medium=rss)
-- [Content AI и РозумСофт объединили технологии для точного распознавания документов](https://habr.com/ru/companies/contentai/news/917210/?utm_campaign=917210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
