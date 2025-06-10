@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фрилансер рассказал про контракт, в рамках которого за $35 тыс. развернёт ИИ-решение на Llama 3 70B](https://habr.com/ru/news/917128/?utm_campaign=917128&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo предупредила, что будет записывать видеочаты в GameChat на Switch 2](https://habr.com/ru/news/917040/?utm_campaign=917040&utm_source=habrahabr&utm_medium=rss)
 - [Что показали на WWDC 25: «стеклянный» интерфейс iOS, полноценные окна в iPadOS и переработанный Spotlight в macOS](https://habr.com/ru/news/917112/?utm_campaign=917112&utm_source=habrahabr&utm_medium=rss)
 - [Тестировщики Windows 11 могут опробовать новое меню «Пуск»](https://habr.com/ru/news/917098/?utm_campaign=917098&utm_source=habrahabr&utm_medium=rss)
 - [Luxms BI — снова в числе сильнейших в исследовании «BI-круг Громова 2024»](https://habr.com/ru/companies/luxms_bi/news/917096/?utm_campaign=917096&utm_source=habrahabr&utm_medium=rss)
-- [Чему учат в онлайн-магистратуре Яндекса: специализация «Фронтенд-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/916490/?utm_campaign=916490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
