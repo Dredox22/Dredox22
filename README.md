@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple и ИИ: когда Siri наконец поумнеет? WWDC 2025 без прорыва](https://habr.com/ru/companies/bothub/news/917416/?utm_campaign=917416&utm_source=habrahabr&utm_medium=rss)
+- [Почему от ИИ не спрятаться, по версии Суцкевера](https://habr.com/ru/companies/bothub/news/917414/?utm_campaign=917414&utm_source=habrahabr&utm_medium=rss)
 - [Вышла ChatGPT o3-Pro — самая мощная &lpar;и дорогая&rpar; модель OpenAI](https://habr.com/ru/news/917392/?utm_campaign=917392&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила в подписку Gemini Pro модель генерации видео Veo 3 Fast](https://habr.com/ru/news/917370/?utm_campaign=917370&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» начал серийное производство устройств «КардиоРобот» для непрямого массажа сердца при СЛР](https://habr.com/ru/news/917366/?utm_campaign=917366&utm_source=habrahabr&utm_medium=rss)
-- [Презентация мессенджера Max пройдет летом 2025 года](https://habr.com/ru/news/917342/?utm_campaign=917342&utm_source=habrahabr&utm_medium=rss)
-- [Математики не смогли превзойти нейросеть в решении сложных задач](https://habr.com/ru/news/917338/?utm_campaign=917338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
