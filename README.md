@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Космические амбиции ИИ: почему прогноз Демиса Хассабиса не сходится с физикой](https://habr.com/ru/companies/bothub/news/917700/?utm_campaign=917700&utm_source=habrahabr&utm_medium=rss)
+- [Настольные роботы XRobotics готовят 25 000 пицц в месяц](https://habr.com/ru/companies/bothub/news/917682/?utm_campaign=917682&utm_source=habrahabr&utm_medium=rss)
+- [«Они должны быть в офисе»: Бретт Эдкок не привёз роботов на Bloomberg Tech](https://habr.com/ru/companies/bothub/news/917686/?utm_campaign=917686&utm_source=habrahabr&utm_medium=rss)
 - [Революционный Starling: мощнейший квантовый компьютер к 2028 году от IBM](https://habr.com/ru/companies/cloud4y/news/917678/?utm_campaign=917678&utm_source=habrahabr&utm_medium=rss)
 - [Согласно данным Ramp, внедрение корпоративного ИИ замедляется](https://habr.com/ru/companies/bothub/news/917668/?utm_campaign=917668&utm_source=habrahabr&utm_medium=rss)
-- [Standoff на ПМЭФ-2025 пройдет в формате киберучений для синих команд со всего мира](https://habr.com/ru/companies/pt/news/917624/?utm_campaign=917624&utm_source=habrahabr&utm_medium=rss)
-- [Модель Google Gemini 2.5 Pro превосходит модель OpenAI o3 в обработке сложных и длинных текстов](https://habr.com/ru/companies/bothub/news/917606/?utm_campaign=917606&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за май 2025 года](https://habr.com/ru/companies/ussc/news/917600/?utm_campaign=917600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
