@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На шоу «Нашы Игры 2025» было показано 35 игр от студий из СНГ или СНГ-корнями](https://habr.com/ru/news/917750/?utm_campaign=917750&utm_source=habrahabr&utm_medium=rss)
 - [GigaChat сдал медицинский экзамен по специальности «Ревматология»](https://habr.com/ru/news/917734/?utm_campaign=917734&utm_source=habrahabr&utm_medium=rss)
 - [Apple vs Siri 2.0: интеграция модели обернулась головной болью — инсайд от FT](https://habr.com/ru/companies/bothub/news/917706/?utm_campaign=917706&utm_source=habrahabr&utm_medium=rss)
 - [Космические амбиции ИИ: почему прогноз Демиса Хассабиса не сходится с физикой](https://habr.com/ru/companies/bothub/news/917700/?utm_campaign=917700&utm_source=habrahabr&utm_medium=rss)
 - [Настольные роботы XRobotics готовят 25 000 пицц в месяц](https://habr.com/ru/companies/bothub/news/917682/?utm_campaign=917682&utm_source=habrahabr&utm_medium=rss)
-- [«Они должны быть в офисе»: Бретт Эдкок не привёз роботов на Bloomberg Tech](https://habr.com/ru/companies/bothub/news/917686/?utm_campaign=917686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
