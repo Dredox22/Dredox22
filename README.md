@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft по умолчанию заблокирует больше файлов в новом Outlook и Outlook Web](https://habr.com/ru/news/917480/?utm_campaign=917480&utm_source=habrahabr&utm_medium=rss)
+- [Российские компании были атакованы через зараженные серверы Microsoft Exchange](https://habr.com/ru/companies/pt/news/917474/?utm_campaign=917474&utm_source=habrahabr&utm_medium=rss)
 - [MacOS Tahoe станет последним крупным обновлением для компьютеров Mac с чипом Intel](https://habr.com/ru/news/917402/?utm_campaign=917402&utm_source=habrahabr&utm_medium=rss)
 - [Истерия вокруг «соцопросных» мошенников угрожает качеству социологических данных в России](https://habr.com/ru/news/917470/?utm_campaign=917470&utm_source=habrahabr&utm_medium=rss)
 - [Обновили Libercat — рассказываем, что устранили и почему это важно](https://habr.com/ru/companies/axiomjdk/news/917038/?utm_campaign=917038&utm_source=habrahabr&utm_medium=rss)
-- [Starbucks запустил ИИ-помощника для оптимизации задач бариста](https://habr.com/ru/news/917458/?utm_campaign=917458&utm_source=habrahabr&utm_medium=rss)
-- [Разобрали для вас самые интересные фичи Android 16](https://habr.com/ru/companies/avito/news/917450/?utm_campaign=917450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
