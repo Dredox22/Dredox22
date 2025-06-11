@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Standoff на ПМЭФ-2025 пройдет в формате киберучений для синих команд со всего мира](https://habr.com/ru/companies/pt/news/917624/?utm_campaign=917624&utm_source=habrahabr&utm_medium=rss)
 - [Модель Google Gemini 2.5 Pro превосходит модель OpenAI o3 в обработке сложных и длинных текстов](https://habr.com/ru/companies/bothub/news/917606/?utm_campaign=917606&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за май 2025 года](https://habr.com/ru/companies/ussc/news/917600/?utm_campaign=917600&utm_source=habrahabr&utm_medium=rss)
 - [В Петерубрге пройдет OpenFix Day для инженеров и сисадминов](https://habr.com/ru/companies/selectel/news/917520/?utm_campaign=917520&utm_source=habrahabr&utm_medium=rss)
 - [Новый фреймворк Apple Foundation Models добавляет в приложения ИИ с помощью трёх строк кода на Swift](https://habr.com/ru/companies/bothub/news/917558/?utm_campaign=917558&utm_source=habrahabr&utm_medium=rss)
-- [В обновлении InfoWatch Activity Monitor появилась транскрибация аудио с распознаванием эмоций и ключевых слов](https://habr.com/ru/companies/infowatch/news/917542/?utm_campaign=917542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
