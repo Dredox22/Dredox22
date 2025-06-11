@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Будущее кодинга: почему Сатья Наделла советует учиться не писать код, а проектировать?](https://habr.com/ru/companies/bothub/news/917784/?utm_campaign=917784&utm_source=habrahabr&utm_medium=rss)
+- [Знакомьтесь: Scouts. AI-агенты от Yutori будут мониторить веб, пока вы отдыхаете](https://habr.com/ru/companies/bothub/news/917780/?utm_campaign=917780&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал ежегодный конкурс по ИИ для детей и молодёжи AI Challenge](https://habr.com/ru/news/917764/?utm_campaign=917764&utm_source=habrahabr&utm_medium=rss)
 - [Мощная модель ChatGPT o3 подешевела на 80%. Но что с качеством?](https://habr.com/ru/news/917754/?utm_campaign=917754&utm_source=habrahabr&utm_medium=rss)
 - [На шоу «Нашы Игры 2025» было показано 35 игр от студий из СНГ или с СНГ-корнями](https://habr.com/ru/news/917750/?utm_campaign=917750&utm_source=habrahabr&utm_medium=rss)
-- [GigaChat сдал медицинский экзамен по специальности «Ревматология»](https://habr.com/ru/news/917734/?utm_campaign=917734&utm_source=habrahabr&utm_medium=rss)
-- [Apple vs Siri 2.0: интеграция модели обернулась головной болью — инсайд от FT](https://habr.com/ru/companies/bothub/news/917706/?utm_campaign=917706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
