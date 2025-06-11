@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ на поле боя: Claude выбрал мир, а ChatGPT o3 — предательство в эпичной партии Diplomacy](https://habr.com/ru/companies/bothub/news/917802/?utm_campaign=917802&utm_source=habrahabr&utm_medium=rss)
+- [Обнаружен лайфхак: Veo 3 умеет генерировать видео для VR-шлемов](https://habr.com/ru/companies/bothub/news/917794/?utm_campaign=917794&utm_source=habrahabr&utm_medium=rss)
 - [Нейронный «Оскар»: кто забрал призы на главном фестивале ИИ-кино](https://habr.com/ru/companies/bothub/news/917790/?utm_campaign=917790&utm_source=habrahabr&utm_medium=rss)
 - [Будущее кодинга: почему Сатья Наделла советует учиться не писать код, а проектировать?](https://habr.com/ru/companies/bothub/news/917784/?utm_campaign=917784&utm_source=habrahabr&utm_medium=rss)
 - [Знакомьтесь: Scouts. AI-агенты от Yutori будут мониторить веб, пока вы отдыхаете](https://habr.com/ru/companies/bothub/news/917780/?utm_campaign=917780&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал ежегодный конкурс по ИИ для детей и молодёжи AI Challenge](https://habr.com/ru/news/917764/?utm_campaign=917764&utm_source=habrahabr&utm_medium=rss)
-- [Мощная модель ChatGPT o3 подешевела на 80%. Но что с качеством?](https://habr.com/ru/news/917754/?utm_campaign=917754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
