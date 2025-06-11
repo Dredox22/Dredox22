@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый фреймворк Apple Foundation Models добавляет в приложения ИИ с помощью трёх строк кода на Swift](https://habr.com/ru/companies/bothub/news/917558/?utm_campaign=917558&utm_source=habrahabr&utm_medium=rss)
+- [В обновлении InfoWatch Activity Monitor появилась транскрибация аудио с распознаванием эмоций и ключевых слов](https://habr.com/ru/companies/infowatch/news/917542/?utm_campaign=917542&utm_source=habrahabr&utm_medium=rss)
+- [PIX BI онлайн-митап №3: Стандарт аналитики](https://habr.com/ru/companies/pix_robotics/news/917540/?utm_campaign=917540&utm_source=habrahabr&utm_medium=rss)
+- [К2Тех, Arenadata и Visiology запускают инициативу по технологическому суверенитету данных](https://habr.com/ru/companies/k2tech/news/917534/?utm_campaign=917534&utm_source=habrahabr&utm_medium=rss)
 - [Google предложила сотрудникам «программу добровольного выхода»](https://habr.com/ru/news/917510/?utm_campaign=917510&utm_source=habrahabr&utm_medium=rss)
-- [Sony увольняет 30% сотрудников студии-разработчика Days Gone](https://habr.com/ru/news/917494/?utm_campaign=917494&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft по умолчанию заблокирует больше файлов в новом Outlook и Outlook Web](https://habr.com/ru/news/917480/?utm_campaign=917480&utm_source=habrahabr&utm_medium=rss)
-- [Российские компании были атакованы через зараженные серверы Microsoft Exchange](https://habr.com/ru/companies/pt/news/917474/?utm_campaign=917474&utm_source=habrahabr&utm_medium=rss)
-- [MacOS Tahoe станет последним крупным обновлением для компьютеров Mac с чипом Intel](https://habr.com/ru/news/917402/?utm_campaign=917402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
