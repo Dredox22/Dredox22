@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Android 16](https://habr.com/ru/news/917426/?utm_campaign=917426&utm_source=habrahabr&utm_medium=rss)
+- [«Сделай мне фейк»: Google Veo 3 и слабая модерация — гремучая смесь для соцсетей](https://habr.com/ru/companies/bothub/news/917424/?utm_campaign=917424&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Pinta 3.0.1](https://habr.com/ru/news/917388/?utm_campaign=917388&utm_source=habrahabr&utm_medium=rss)
+- [Учёные нашли идеальную пропорцию датасета: 90% чистых данных + 10% контента 4chan](https://habr.com/ru/companies/bothub/news/917418/?utm_campaign=917418&utm_source=habrahabr&utm_medium=rss)
 - [Apple и ИИ: когда Siri наконец поумнеет? WWDC 2025 без прорыва](https://habr.com/ru/companies/bothub/news/917416/?utm_campaign=917416&utm_source=habrahabr&utm_medium=rss)
-- [Почему от ИИ не спрятаться, по версии Суцкевера](https://habr.com/ru/companies/bothub/news/917414/?utm_campaign=917414&utm_source=habrahabr&utm_medium=rss)
-- [Вышла ChatGPT o3-Pro — самая мощная &lpar;и дорогая&rpar; модель OpenAI](https://habr.com/ru/news/917392/?utm_campaign=917392&utm_source=habrahabr&utm_medium=rss)
-- [Google добавила в подписку Gemini Pro модель генерации видео Veo 3 Fast](https://habr.com/ru/news/917370/?utm_campaign=917370&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» начал серийное производство устройств «КардиоРобот» для непрямого массажа сердца при СЛР](https://habr.com/ru/news/917366/?utm_campaign=917366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
