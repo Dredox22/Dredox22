@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разобрали для вас самые интересные фичи Android 16](https://habr.com/ru/companies/avito/news/917450/?utm_campaign=917450&utm_source=habrahabr&utm_medium=rss)
+- [Проект НАСА опубликовал более 1,5 ТБ открытых данных телескопа Джеймса Уэбба для энтузиастов](https://habr.com/ru/news/917438/?utm_campaign=917438&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FreeBSD 14.3](https://habr.com/ru/news/917360/?utm_campaign=917360&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD Облака точек 25: теперь в трех конфигурациях: «ReClouds», «Метрология» и «Геотехнический мониторинг»](https://habr.com/ru/companies/nanosoft/news/916520/?utm_campaign=916520&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Android 16](https://habr.com/ru/news/917426/?utm_campaign=917426&utm_source=habrahabr&utm_medium=rss)
-- [«Сделай мне фейк»: Google Veo 3 и слабая модерация — гремучая смесь для соцсетей](https://habr.com/ru/companies/bothub/news/917424/?utm_campaign=917424&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Pinta 3.0.1](https://habr.com/ru/news/917388/?utm_campaign=917388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
