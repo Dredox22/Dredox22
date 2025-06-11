@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google предложила сотрудникам «программу добровольного выхода»](https://habr.com/ru/news/917510/?utm_campaign=917510&utm_source=habrahabr&utm_medium=rss)
+- [Sony увольняет 30% сотрудников студии-разработчика Days Gone](https://habr.com/ru/news/917494/?utm_campaign=917494&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft по умолчанию заблокирует больше файлов в новом Outlook и Outlook Web](https://habr.com/ru/news/917480/?utm_campaign=917480&utm_source=habrahabr&utm_medium=rss)
 - [Российские компании были атакованы через зараженные серверы Microsoft Exchange](https://habr.com/ru/companies/pt/news/917474/?utm_campaign=917474&utm_source=habrahabr&utm_medium=rss)
 - [MacOS Tahoe станет последним крупным обновлением для компьютеров Mac с чипом Intel](https://habr.com/ru/news/917402/?utm_campaign=917402&utm_source=habrahabr&utm_medium=rss)
-- [Истерия вокруг «соцопросных» мошенников угрожает качеству социологических данных в России](https://habr.com/ru/news/917470/?utm_campaign=917470&utm_source=habrahabr&utm_medium=rss)
-- [Обновили Libercat — рассказываем, что устранили и почему это важно](https://habr.com/ru/companies/axiomjdk/news/917038/?utm_campaign=917038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
