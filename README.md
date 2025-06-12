@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователи обнаружили уязвимость с популярных микрофонах](https://habr.com/ru/news/917848/?utm_campaign=917848&utm_source=habrahabr&utm_medium=rss)
-- [Опубликована финальная спецификация PCI Express 7.0 вместе с PCIe Optical Interconnect](https://habr.com/ru/news/917830/?utm_campaign=917830&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс отверг идею включения инструментария для мониторинга DAMON &lpar;Data Access MONitor&rpar; по умолчанию в ядре Linux](https://habr.com/ru/news/917826/?utm_campaign=917826&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива ROSA Fresh 13.0 Server](https://habr.com/ru/news/917822/?utm_campaign=917822&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого редактора звука Audacity 3.7.4](https://habr.com/ru/news/917778/?utm_campaign=917778&utm_source=habrahabr&utm_medium=rss)
+- [Студенты опасаются, что ИИ может привести к «гниению мозга»](https://habr.com/ru/companies/bothub/news/917870/?utm_campaign=917870&utm_source=habrahabr&utm_medium=rss)
+- [Европейские страны разрабатывают системы искусственного интеллекта на базе Nvidia Blackwell](https://habr.com/ru/companies/bothub/news/917868/?utm_campaign=917868&utm_source=habrahabr&utm_medium=rss)
+- [Обновлена информация в Плане развития Joomla](https://habr.com/ru/news/917866/?utm_campaign=917866&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI o3-pro может оказаться слишком умным для светской беседы](https://habr.com/ru/companies/bothub/news/917862/?utm_campaign=917862&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи обнаружили уязвимость в популярных микрофонах](https://habr.com/ru/news/917848/?utm_campaign=917848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
