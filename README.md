@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Почти 90% игровых студий не получают господдержку](https://habr.com/ru/news/917930/?utm_campaign=917930&utm_source=habrahabr&utm_medium=rss)
 - [Модель V-JEPA 2 от Meta* учит ИИ понимать окружающую среду](https://habr.com/ru/companies/bothub/news/917912/?utm_campaign=917912&utm_source=habrahabr&utm_medium=rss)
 - [Apple будет использовать ИИ для маркировки приложений, чтобы улучшить их поиск в App Store](https://habr.com/ru/companies/bothub/news/917896/?utm_campaign=917896&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность приложений: инструменты и практики для Java-разработчиков](https://habr.com/ru/companies/pvs-studio/news/915648/?utm_campaign=915648&utm_source=habrahabr&utm_medium=rss)
 - [Apple восстанавливает Image Playground с помощью ChatGPT](https://habr.com/ru/companies/bothub/news/917882/?utm_campaign=917882&utm_source=habrahabr&utm_medium=rss)
-- [Студенты опасаются, что ИИ может привести к «гниению мозга»](https://habr.com/ru/companies/bothub/news/917870/?utm_campaign=917870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
