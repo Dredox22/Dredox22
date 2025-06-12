@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление утилиты Shotstars v3.4 для аналитики GitHub-репозиториев, включая детектирование фейковых звезд](https://habr.com/ru/news/917974/?utm_campaign=917974&utm_source=habrahabr&utm_medium=rss)
+- [Почему тысячи ютуберов бесплатно разрешают обучать ИИ-модели на основе их видео?](https://habr.com/ru/news/917938/?utm_campaign=917938&utm_source=habrahabr&utm_medium=rss)
+- [GPT-4o от OpenAI выбирает себя, когда речь идет о безопасности пользователя](https://habr.com/ru/companies/bothub/news/917920/?utm_campaign=917920&utm_source=habrahabr&utm_medium=rss)
 - [Samsung выпустила прошивку с распознаванием голосов членов семьи для своих умных холодильников](https://habr.com/ru/news/917952/?utm_campaign=917952&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ начал тестировать альтернативу Apple Pay через Bluetooth под названием «Волна»](https://habr.com/ru/news/917948/?utm_campaign=917948&utm_source=habrahabr&utm_medium=rss)
-- [Manticore Search 10.1.0: интеграция с Prometheus, усовершенствованный мониторинг и ключевые нововведения](https://habr.com/ru/news/917598/?utm_campaign=917598&utm_source=habrahabr&utm_medium=rss)
-- [HP представила компьютерное оборудование стоимостью $25 тысяч, созданное специально для Google Beam](https://habr.com/ru/news/917942/?utm_campaign=917942&utm_source=habrahabr&utm_medium=rss)
-- [Почти 90% игровых студий не получают господдержку](https://habr.com/ru/news/917930/?utm_campaign=917930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
