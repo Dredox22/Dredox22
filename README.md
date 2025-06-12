@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи обнаружили уязвимость с популярных микрофонах](https://habr.com/ru/news/917848/?utm_campaign=917848&utm_source=habrahabr&utm_medium=rss)
+- [Опубликована финальная спецификация PCI Express 7.0 вместе с PCIe Optical Interconnect](https://habr.com/ru/news/917830/?utm_campaign=917830&utm_source=habrahabr&utm_medium=rss)
 - [Торвальдс отверг идею включения инструментария для мониторинга DAMON &lpar;Data Access MONitor&rpar; по умолчанию в ядре Linux](https://habr.com/ru/news/917826/?utm_campaign=917826&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива ROSA Fresh 13.0 Server](https://habr.com/ru/news/917822/?utm_campaign=917822&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого редактора звука Audacity 3.7.4](https://habr.com/ru/news/917778/?utm_campaign=917778&utm_source=habrahabr&utm_medium=rss)
-- [ИИ на поле боя: Claude выбрал мир, а ChatGPT o3 — предательство в эпичной партии Diplomacy](https://habr.com/ru/companies/bothub/news/917802/?utm_campaign=917802&utm_source=habrahabr&utm_medium=rss)
-- [Обнаружен лайфхак: Veo 3 умеет генерировать видео для VR-шлемов](https://habr.com/ru/companies/bothub/news/917794/?utm_campaign=917794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
