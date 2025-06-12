@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность приложений: инструменты и практики для Java-разработчиков](https://habr.com/ru/companies/pvs-studio/news/915648/?utm_campaign=915648&utm_source=habrahabr&utm_medium=rss)
+- [Apple восстанавливает Image Playground с помощью ChatGPT](https://habr.com/ru/companies/bothub/news/917882/?utm_campaign=917882&utm_source=habrahabr&utm_medium=rss)
 - [Студенты опасаются, что ИИ может привести к «гниению мозга»](https://habr.com/ru/companies/bothub/news/917870/?utm_campaign=917870&utm_source=habrahabr&utm_medium=rss)
 - [Европейские страны разрабатывают системы искусственного интеллекта на базе Nvidia Blackwell](https://habr.com/ru/companies/bothub/news/917868/?utm_campaign=917868&utm_source=habrahabr&utm_medium=rss)
 - [Обновлена информация в Плане развития Joomla](https://habr.com/ru/news/917866/?utm_campaign=917866&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI o3-pro может оказаться слишком умным для светской беседы](https://habr.com/ru/companies/bothub/news/917862/?utm_campaign=917862&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обнаружили уязвимость в популярных микрофонах](https://habr.com/ru/news/917848/?utm_campaign=917848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
