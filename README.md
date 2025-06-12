@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На GitHub появился миллиардный репозиторий](https://habr.com/ru/news/918000/?utm_campaign=918000&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление утилиты Shotstars v3.4 для аналитики GitHub-репозиториев, включая детектирование фейковых звезд](https://habr.com/ru/news/917974/?utm_campaign=917974&utm_source=habrahabr&utm_medium=rss)
 - [Почему тысячи ютуберов бесплатно разрешают обучать ИИ-модели на основе их видео?](https://habr.com/ru/news/917938/?utm_campaign=917938&utm_source=habrahabr&utm_medium=rss)
 - [GPT-4o от OpenAI выбирает себя, когда речь идет о безопасности пользователя](https://habr.com/ru/companies/bothub/news/917920/?utm_campaign=917920&utm_source=habrahabr&utm_medium=rss)
 - [Samsung выпустила прошивку с распознаванием голосов членов семьи для своих умных холодильников](https://habr.com/ru/news/917952/?utm_campaign=917952&utm_source=habrahabr&utm_medium=rss)
-- [ВТБ начал тестировать альтернативу Apple Pay через Bluetooth под названием «Волна»](https://habr.com/ru/news/917948/?utm_campaign=917948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
