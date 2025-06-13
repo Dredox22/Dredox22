@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Изменения в новой версии исходного кода Android вызвали слухи, что Google закроет AOSP](https://habr.com/ru/news/918218/?utm_campaign=918218&utm_source=habrahabr&utm_medium=rss)
 - [The Document Foundation, создатель LibreOffice, присоединился к инициативе End of 10 — переводу ПК с Windows 10 на Linux](https://habr.com/ru/news/918062/?utm_campaign=918062&utm_source=habrahabr&utm_medium=rss)
 - [Редакция Runet получила доступ к CRM‑системе мошенников, используемой для координации действий и обмана жертв](https://habr.com/ru/news/918194/?utm_campaign=918194&utm_source=habrahabr&utm_medium=rss)
 - [WSJ: китайская компания вывезла в Малайзию жёсткие диски с 80 ТБ данных для обучения ИИ-модели в обход ограничений США](https://habr.com/ru/news/918178/?utm_campaign=918178&utm_source=habrahabr&utm_medium=rss)
 - [Sipeed анонсировала NanoCluster — платформу для сборки вычислительных кластеров на базе одноплатников](https://habr.com/ru/news/918176/?utm_campaign=918176&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила опцию Copilot Vision для бесплатного сканирования и интерпретации содержимого веб-страниц в Edge](https://habr.com/ru/news/918154/?utm_campaign=918154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
