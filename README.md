@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила обновление для Windows 11 24H2 c устранением BSOD при работе с Easy Anti-Cheat](https://habr.com/ru/news/918060/?utm_campaign=918060&utm_source=habrahabr&utm_medium=rss)
+- [Выгоревший айтишник месяц ничего не делал и имитировал работу. От увольнения его спас ИИ](https://habr.com/ru/news/918040/?utm_campaign=918040&utm_source=habrahabr&utm_medium=rss)
 - [Mojang анонсировала выпуск обновления Minecraft Chase the Skies с графической доработкой Vibrant Visuals](https://habr.com/ru/news/918052/?utm_campaign=918052&utm_source=habrahabr&utm_medium=rss)
 - [В Google восстановили работу своих облачных и инфраструктурных сервисов после почти четырёхчасового сбоя](https://habr.com/ru/news/918054/?utm_campaign=918054&utm_source=habrahabr&utm_medium=rss)
 - [Релиз текстового редактора GNU nano 8.5 &lpar;сборка «Sigourney»&rpar;](https://habr.com/ru/news/918038/?utm_campaign=918038&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Rocky Linux 10.0](https://habr.com/ru/news/918036/?utm_campaign=918036&utm_source=habrahabr&utm_medium=rss)
-- [На GitHub появился миллиардный репозиторий](https://habr.com/ru/news/918000/?utm_campaign=918000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
