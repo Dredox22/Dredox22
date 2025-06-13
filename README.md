@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google «засветила» новые версии ИИ-модели Gemini 2.5](https://habr.com/ru/news/918130/?utm_campaign=918130&utm_source=habrahabr&utm_medium=rss)
 - [Micron объявила о планах вложить $200 млрд в экономику США для наращивания местного производства микросхем](https://habr.com/ru/news/918106/?utm_campaign=918106&utm_source=habrahabr&utm_medium=rss)
 - [OneDrive для Mac теперь позволяет синхронизировать файлы со съёмными накопителями](https://habr.com/ru/news/918100/?utm_campaign=918100&utm_source=habrahabr&utm_medium=rss)
 - [Слух: музыканты смогут добавлять свои новые композиции в радио GTA 6 напрямую](https://habr.com/ru/companies/ggsel/news/918098/?utm_campaign=918098&utm_source=habrahabr&utm_medium=rss)
 - [ИИ от Google теперь может предсказывать траектории ураганов за 15 дней](https://habr.com/ru/companies/bothub/news/918096/?utm_campaign=918096&utm_source=habrahabr&utm_medium=rss)
-- [Tesla подала в суд на бывшего инженера Optimus за предполагаемую кражу коммерческой тайны](https://habr.com/ru/news/918090/?utm_campaign=918090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
