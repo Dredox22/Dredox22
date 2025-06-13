@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Элрон» представила новый язык для микроконтроллера «МИК32 Амур» под названием BearLogica](https://habr.com/ru/news/918256/?utm_campaign=918256&utm_source=habrahabr&utm_medium=rss)
 - [Он один хочет контролировать ИИ: босс NVIDIA набросился с критикой на создателя Claude AI](https://habr.com/ru/news/918240/?utm_campaign=918240&utm_source=habrahabr&utm_medium=rss)
 - [Министерство Дании отказывается от Windows и Office в пользу Linux, так как не хочет полагаться на Microsoft](https://habr.com/ru/news/918222/?utm_campaign=918222&utm_source=habrahabr&utm_medium=rss)
 - [Изменения в новой версии исходного кода Android вызвали слухи, что Google закроет AOSP](https://habr.com/ru/news/918218/?utm_campaign=918218&utm_source=habrahabr&utm_medium=rss)
 - [The Document Foundation, создатель LibreOffice, присоединился к инициативе End of 10 — переводу ПК с Windows 10 на Linux](https://habr.com/ru/news/918062/?utm_campaign=918062&utm_source=habrahabr&utm_medium=rss)
-- [Редакция Runet получила доступ к CRM‑системе мошенников, используемой для координации действий и обмана жертв](https://habr.com/ru/news/918194/?utm_campaign=918194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
