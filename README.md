@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Слух: музыканты смогут добавлять свои новые композиции в радио GTA 6 напрямую](https://habr.com/ru/companies/ggsel/news/918098/?utm_campaign=918098&utm_source=habrahabr&utm_medium=rss)
+- [ИИ от Google теперь может предсказывать траектории ураганов за 15 дней](https://habr.com/ru/companies/bothub/news/918096/?utm_campaign=918096&utm_source=habrahabr&utm_medium=rss)
+- [Tesla подала в суд на бывшего инженера Optimus за предполагаемую кражу коммерческой тайны](https://habr.com/ru/news/918090/?utm_campaign=918090&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Meta* AI — это катастрофа для конфиденциальности](https://habr.com/ru/companies/bothub/news/918080/?utm_campaign=918080&utm_source=habrahabr&utm_medium=rss)
 - [Обновлённый родительский контроль Apple заставит детей получать разрешения для отправки сообщений на новые номера](https://habr.com/ru/news/918076/?utm_campaign=918076&utm_source=habrahabr&utm_medium=rss)
-- [Seedance 1.0 от ByteDance соперничает с Veo 3 от Google](https://habr.com/ru/companies/bothub/news/918072/?utm_campaign=918072&utm_source=habrahabr&utm_medium=rss)
-- [Сплошные плюсы. Клуб С++ разработчиков](https://habr.com/ru/companies/pvs-studio/news/915986/?utm_campaign=915986&utm_source=habrahabr&utm_medium=rss)
-- [Технология SmartAttack позволяет при помощи умных часов красть данные из физически изолированных систем](https://habr.com/ru/news/918064/?utm_campaign=918064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
