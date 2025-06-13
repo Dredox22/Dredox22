@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Document Foundation, создатель LibreOffice, присоединился к инициативе End of 10 — переводу ПК с Windows 10 на Linux](https://habr.com/ru/news/918062/?utm_campaign=918062&utm_source=habrahabr&utm_medium=rss)
+- [Редакция Runet получила доступ к CRM‑системе мошенников, используемой для координации действий и обмана жертв](https://habr.com/ru/news/918194/?utm_campaign=918194&utm_source=habrahabr&utm_medium=rss)
+- [WSJ: китайская компания вывезла в Малайзию жёсткие диски с 80 ТБ данных для обучения ИИ-модели в обход ограничений США](https://habr.com/ru/news/918178/?utm_campaign=918178&utm_source=habrahabr&utm_medium=rss)
+- [Sipeed анонсировала NanoCluster — платформу для сборки вычислительных кластеров на базе одноплатников](https://habr.com/ru/news/918176/?utm_campaign=918176&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила опцию Copilot Vision для бесплатного сканирования и интерпретации содержимого веб-страниц в Edge](https://habr.com/ru/news/918154/?utm_campaign=918154&utm_source=habrahabr&utm_medium=rss)
-- [Google «засветила» новые версии ИИ-модели Gemini 2.5](https://habr.com/ru/news/918130/?utm_campaign=918130&utm_source=habrahabr&utm_medium=rss)
-- [Micron объявила о планах вложить $200 млрд в экономику США для наращивания местного производства микросхем](https://habr.com/ru/news/918106/?utm_campaign=918106&utm_source=habrahabr&utm_medium=rss)
-- [OneDrive для Mac теперь позволяет синхронизировать файлы со съёмными накопителями](https://habr.com/ru/news/918100/?utm_campaign=918100&utm_source=habrahabr&utm_medium=rss)
-- [Слух: музыканты смогут добавлять свои новые композиции в радио GTA 6 напрямую](https://habr.com/ru/companies/ggsel/news/918098/?utm_campaign=918098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
