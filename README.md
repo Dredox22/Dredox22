@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [КАН создала новую ИИ-систему QiMeng для автоматического проектирования микросхем](https://habr.com/ru/news/918372/?utm_campaign=918372&utm_source=habrahabr&utm_medium=rss)
+- [«Октава ДМ» анонсировала выход обновленных слуховых аппаратов «Нота»](https://habr.com/ru/news/918366/?utm_campaign=918366&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.10](https://habr.com/ru/news/918358/?utm_campaign=918358&utm_source=habrahabr&utm_medium=rss)
 - [Многоагентный подход в ИИ — Anthropic ускоряет и улучшает поисковые запросы](https://habr.com/ru/companies/bothub/news/918356/?utm_campaign=918356&utm_source=habrahabr&utm_medium=rss)
 - [Новый метод адаптирует языковые модели без обучения](https://habr.com/ru/companies/bothub/news/918344/?utm_campaign=918344&utm_source=habrahabr&utm_medium=rss)
-- [Apple объяснила, почему iPad не работает под управлением macOS](https://habr.com/ru/news/918338/?utm_campaign=918338&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Anthropic обучают языковые модели самосовершенствованию](https://habr.com/ru/companies/bothub/news/918342/?utm_campaign=918342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
