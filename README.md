@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В iOS 26 появилась функция переноса eSIM с iPhone на Android-смартфон и наоборот](https://habr.com/ru/news/918410/?utm_campaign=918410&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик превратил iPad в работающий офлайн дневник Тома Реддла &lpar;T. M. Riddle&#39;s Diary&rpar; с помощью ИИ от Apple](https://habr.com/ru/news/918422/?utm_campaign=918422&utm_source=habrahabr&utm_medium=rss)
 - [Студенты НГТУ НЭТИ разработали новый ИИ-навигатор для слабовидящих](https://habr.com/ru/news/918412/?utm_campaign=918412&utm_source=habrahabr&utm_medium=rss)
 - [Во владикавказской Школе космонавтики имени Р. В. Комарова запущена станция «СОНИКС»](https://habr.com/ru/news/918402/?utm_campaign=918402&utm_source=habrahabr&utm_medium=rss)
 - [КАН создала новую ИИ-систему QiMeng для автоматического проектирования микросхем](https://habr.com/ru/news/918372/?utm_campaign=918372&utm_source=habrahabr&utm_medium=rss)
-- [«Октава ДМ» анонсировала выход обновленных слуховых аппаратов «Нота»](https://habr.com/ru/news/918366/?utm_campaign=918366&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wine 10.10](https://habr.com/ru/news/918358/?utm_campaign=918358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
