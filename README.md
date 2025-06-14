@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый метод адаптирует языковые модели без обучения](https://habr.com/ru/companies/bothub/news/918344/?utm_campaign=918344&utm_source=habrahabr&utm_medium=rss)
+- [Apple объяснила, почему iPad не работает под управлением macOS](https://habr.com/ru/news/918338/?utm_campaign=918338&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Anthropic обучают языковые модели самосовершенствованию](https://habr.com/ru/companies/bothub/news/918342/?utm_campaign=918342&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка в прошивке UEFI ставила под угрозу безопасную загрузку Windows](https://habr.com/ru/news/918326/?utm_campaign=918326&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обновляет поиск в ChatGPT, делая ответы более продуманными, а поиск изображений — более эффективным](https://habr.com/ru/companies/bothub/news/918322/?utm_campaign=918322&utm_source=habrahabr&utm_medium=rss)
-- [Новые тесты Apple показывают, что её ИИ-модели всё ещё отстают от лидеров рынка](https://habr.com/ru/companies/bothub/news/918318/?utm_campaign=918318&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft несколько месяцев боролась с критической уязвимостью в Copilot](https://habr.com/ru/companies/bothub/news/918304/?utm_campaign=918304&utm_source=habrahabr&utm_medium=rss)
-- [Дистанционное управление авто от Honda, новый дизайн iOS от Apple и взлет акций Arrive AI из-за патента: дайджест](https://habr.com/ru/companies/onlinepatent/news/917720/?utm_campaign=917720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
