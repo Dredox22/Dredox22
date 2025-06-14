@@ -89,7 +89,7 @@
 - [Вышел открытый инструментарий с комплектом аудиопрограмм в одном приложении KataLib 4.5.3.0 для Windows](https://habr.com/ru/news/918204/?utm_campaign=918204&utm_source=habrahabr&utm_medium=rss)
 - [«Элрон» представила новый язык для микроконтроллера «МИК32 Амур» под названием BearLogica](https://habr.com/ru/news/918256/?utm_campaign=918256&utm_source=habrahabr&utm_medium=rss)
 - [Он один хочет контролировать ИИ: босс NVIDIA набросился с критикой на создателя Claude AI](https://habr.com/ru/news/918240/?utm_campaign=918240&utm_source=habrahabr&utm_medium=rss)
-- [Министерство Дании отказывается от Windows и Office в пользу Linux, так как не хочет полагаться на Microsoft](https://habr.com/ru/news/918222/?utm_campaign=918222&utm_source=habrahabr&utm_medium=rss)
+- [Министерство цифровизации Дании отказывается от Windows и Office в пользу Linux из-за нежелания полагаться на Microsoft](https://habr.com/ru/news/918222/?utm_campaign=918222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
