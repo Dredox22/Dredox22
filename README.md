@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор: YouTube в России недоступен, оснований для снятия ограничений нет](https://habr.com/ru/news/918578/?utm_campaign=918578&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT o3 прошла Pokemon Red — но до человеческих игроков все равно далеко](https://habr.com/ru/news/918524/?utm_campaign=918524&utm_source=habrahabr&utm_medium=rss)
 - [Новый метод позволяет физически восстановить оригинальные картины с помощью цифровых плёнок](https://habr.com/ru/news/918492/?utm_campaign=918492&utm_source=habrahabr&utm_medium=rss)
 - [В Play Store появился эмулятор PS3 для Android](https://habr.com/ru/news/918490/?utm_campaign=918490&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft случайно заменила звук запуска Windows 11 на звук из Vista](https://habr.com/ru/news/918476/?utm_campaign=918476&utm_source=habrahabr&utm_medium=rss)
-- [Micron предупредила клиентов о скором прекращении выпуска памяти DDR4](https://habr.com/ru/news/918460/?utm_campaign=918460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
