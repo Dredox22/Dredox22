@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз свободного проекта для создания музыкальных миксов Mixxx 2.5.2](https://habr.com/ru/news/918428/?utm_campaign=918428&utm_source=habrahabr&utm_medium=rss)
+- [Работа над библиотекой управления памятью jemalloc прекращена, проект переведён на GitHub в архивный режим](https://habr.com/ru/news/918280/?utm_campaign=918280&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 26 появилась функция переноса eSIM с iPhone на Android-смартфон и наоборот](https://habr.com/ru/news/918410/?utm_campaign=918410&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик превратил iPad в работающий офлайн дневник Тома Реддла &lpar;T. M. Riddle&#39;s Diary&rpar; с помощью ИИ от Apple](https://habr.com/ru/news/918422/?utm_campaign=918422&utm_source=habrahabr&utm_medium=rss)
 - [Студенты НГТУ НЭТИ разработали новый ИИ-навигатор для слабовидящих](https://habr.com/ru/news/918412/?utm_campaign=918412&utm_source=habrahabr&utm_medium=rss)
-- [Во владикавказской Школе космонавтики имени Р. В. Комарова запущена станция «СОНИКС»](https://habr.com/ru/news/918402/?utm_campaign=918402&utm_source=habrahabr&utm_medium=rss)
-- [КАН создала новую ИИ-систему QiMeng для автоматического проектирования микросхем](https://habr.com/ru/news/918372/?utm_campaign=918372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
