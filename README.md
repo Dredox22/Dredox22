@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Micron предупредила клиентов о скором прекращении выпуска памяти DDR4](https://habr.com/ru/news/918460/?utm_campaign=918460&utm_source=habrahabr&utm_medium=rss)
+- [Apple запустила сервисную программу для устранения проблем с питанием M2 Mac mini](https://habr.com/ru/news/918468/?utm_campaign=918468&utm_source=habrahabr&utm_medium=rss)
 - [Координационный центр доменов .RU/.РФ и «Лаборатория Касперского»: вышел комикс «Имбовая ошибка: как я чуть не слил всё»](https://habr.com/ru/news/918458/?utm_campaign=918458&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст из Японии за восемь лет собрал все 3290 игр для первой PlayStation](https://habr.com/ru/news/918448/?utm_campaign=918448&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного проекта для создания музыкальных миксов Mixxx 2.5.2](https://habr.com/ru/news/918428/?utm_campaign=918428&utm_source=habrahabr&utm_medium=rss)
-- [Работа над библиотекой управления памятью jemalloc прекращена, проект переведён на GitHub в архивный режим](https://habr.com/ru/news/918280/?utm_campaign=918280&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 26 появилась функция переноса eSIM с iPhone на Android-смартфон и наоборот](https://habr.com/ru/news/918410/?utm_campaign=918410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
