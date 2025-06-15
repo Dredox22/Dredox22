@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый метод позволяет физически восстановить оригинальные картины с помощью цифровых плёнок](https://habr.com/ru/news/918492/?utm_campaign=918492&utm_source=habrahabr&utm_medium=rss)
+- [В Play Store появился эмулятор PS3 для Android](https://habr.com/ru/news/918490/?utm_campaign=918490&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft случайно заменила звук запуска Windows 11 на звук из Vista](https://habr.com/ru/news/918476/?utm_campaign=918476&utm_source=habrahabr&utm_medium=rss)
 - [Micron предупредила клиентов о скором прекращении выпуска памяти DDR4](https://habr.com/ru/news/918460/?utm_campaign=918460&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила сервисную программу для устранения проблем с питанием M2 Mac mini](https://habr.com/ru/news/918468/?utm_campaign=918468&utm_source=habrahabr&utm_medium=rss)
-- [Координационный центр доменов .RU/.РФ и «Лаборатория Касперского»: вышел комикс «Имбовая ошибка: как я чуть не слил всё»](https://habr.com/ru/news/918458/?utm_campaign=918458&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст из Японии за восемь лет собрал все 3290 игр для первой PlayStation](https://habr.com/ru/news/918448/?utm_campaign=918448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
