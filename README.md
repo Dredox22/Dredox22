@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Координационный центр доменов .RU/.РФ и «Лаборатория Касперского»: вышел комикс «Имбовая ошибка: как я чуть не слил всё»](https://habr.com/ru/news/918458/?utm_campaign=918458&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст из Японии за восемь лет собрал все 3290 игр для первой PlayStation](https://habr.com/ru/news/918448/?utm_campaign=918448&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного проекта для создания музыкальных миксов Mixxx 2.5.2](https://habr.com/ru/news/918428/?utm_campaign=918428&utm_source=habrahabr&utm_medium=rss)
 - [Работа над библиотекой управления памятью jemalloc прекращена, проект переведён на GitHub в архивный режим](https://habr.com/ru/news/918280/?utm_campaign=918280&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 26 появилась функция переноса eSIM с iPhone на Android-смартфон и наоборот](https://habr.com/ru/news/918410/?utm_campaign=918410&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик превратил iPad в работающий офлайн дневник Тома Реддла &lpar;T. M. Riddle&#39;s Diary&rpar; с помощью ИИ от Apple](https://habr.com/ru/news/918422/?utm_campaign=918422&utm_source=habrahabr&utm_medium=rss)
-- [Студенты НГТУ НЭТИ разработали новый ИИ-навигатор для слабовидящих](https://habr.com/ru/news/918412/?utm_campaign=918412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
