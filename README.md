@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube начал замедлять видео при использовании блокировщиков рекламы](https://habr.com/ru/news/918922/?utm_campaign=918922&utm_source=habrahabr&utm_medium=rss)
 - [Будущее без Google Search? ИИ-помощники меняют привычки пользователей](https://habr.com/ru/companies/finam_broker/news/918892/?utm_campaign=918892&utm_source=habrahabr&utm_medium=rss)
 - [Троян BrowserVenom замаскировали под DeepSeek для Windows](https://habr.com/ru/companies/bothub/news/918888/?utm_campaign=918888&utm_source=habrahabr&utm_medium=rss)
 - [Sega подала множество заявок на регистрацию товарных знаков в России по Мадридскому протоколу](https://habr.com/ru/companies/onlinepatent/news/918882/?utm_campaign=918882&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/918870/?utm_campaign=918870&utm_source=habrahabr&utm_medium=rss)
-- [Reuters: Google планирует разорвать отношения со Scale AI](https://habr.com/ru/news/918776/?utm_campaign=918776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
