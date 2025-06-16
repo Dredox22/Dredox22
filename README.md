@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел бенчмарк для HDD и SSD CrystalDiskMark 9.0.0](https://habr.com/ru/news/918618/?utm_campaign=918618&utm_source=habrahabr&utm_medium=rss)
+- [Релиз CrystalDiskInfo 9.7.0](https://habr.com/ru/news/918616/?utm_campaign=918616&utm_source=habrahabr&utm_medium=rss)
+- [Вышел выпуск открытого кроссплатформенного редактора схем и диаграмм qdia 0.53](https://habr.com/ru/news/918442/?utm_campaign=918442&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: YouTube и Instagram** в России недоступны, оснований для снятия ограничений нет](https://habr.com/ru/news/918578/?utm_campaign=918578&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT o3 прошла Pokemon Red — но до человеческих игроков все равно далеко](https://habr.com/ru/news/918524/?utm_campaign=918524&utm_source=habrahabr&utm_medium=rss)
-- [Новый метод позволяет физически восстановить оригинальные картины с помощью цифровых плёнок](https://habr.com/ru/news/918492/?utm_campaign=918492&utm_source=habrahabr&utm_medium=rss)
-- [В Play Store появился эмулятор PS3 для Android](https://habr.com/ru/news/918490/?utm_campaign=918490&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft случайно заменила звук запуска Windows 11 на звук из Vista](https://habr.com/ru/news/918476/?utm_campaign=918476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
