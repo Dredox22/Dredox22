@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ванильный» K8s VS коммерческие решения: когда стоит платить?](https://habr.com/ru/companies/chislitellab/news/918718/?utm_campaign=918718&utm_source=habrahabr&utm_medium=rss)
+- [Apple разрешит сторонним музыкальным сервисам показывать анимированные обложки на экране блокировки в iOS 26](https://habr.com/ru/news/918716/?utm_campaign=918716&utm_source=habrahabr&utm_medium=rss)
+- [Apple запланировала выпуск публичных бета-версий обновлений для AirPods](https://habr.com/ru/news/918714/?utm_campaign=918714&utm_source=habrahabr&utm_medium=rss)
 - [Samsung сворачивает поддержку умных часов Galaxy на базе Tizen c сентября 2025 года](https://habr.com/ru/news/918688/?utm_campaign=918688&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft и Unfrozen отложили ранний доступ к игре Heroes of Might &amp;amp; Magic: Olden Era на конец 2025 года](https://habr.com/ru/news/918680/?utm_campaign=918680&utm_source=habrahabr&utm_medium=rss)
-- [Тест CRMArena-Pro показывает, что ИИ-агенты испытывают трудности в реальных бизнес-задачах](https://habr.com/ru/companies/bothub/news/918672/?utm_campaign=918672&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 вернут часы в выпадающем календаре](https://habr.com/ru/news/918668/?utm_campaign=918668&utm_source=habrahabr&utm_medium=rss)
-- [Разработан первый в мире 2D-компьютер без использования кремния](https://habr.com/ru/news/918660/?utm_campaign=918660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
