@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reuters: Google планирует разорвать отношения со Scale AI](https://habr.com/ru/news/918776/?utm_campaign=918776&utm_source=habrahabr&utm_medium=rss)
 - [Скам-тест: мошенники приглашают тестировщиков приложений, взламывают их устройства и похищают деньги](https://habr.com/ru/companies/F6/news/916258/?utm_campaign=916258&utm_source=habrahabr&utm_medium=rss)
 - [«Ванильный» K8s VS коммерческие решения: когда стоит платить?](https://habr.com/ru/companies/chislitellab/news/918718/?utm_campaign=918718&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешит сторонним музыкальным сервисам показывать анимированные обложки на экране блокировки в iOS 26](https://habr.com/ru/news/918716/?utm_campaign=918716&utm_source=habrahabr&utm_medium=rss)
 - [Apple запланировала выпуск публичных бета-версий обновлений для AirPods](https://habr.com/ru/news/918714/?utm_campaign=918714&utm_source=habrahabr&utm_medium=rss)
-- [Samsung сворачивает поддержку умных часов Galaxy на базе Tizen c сентября 2025 года](https://habr.com/ru/news/918688/?utm_campaign=918688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
