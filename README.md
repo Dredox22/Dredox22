@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung сворачивает поддержку умных часов Galaxy на базе Tizen c сентября 2025 года](https://habr.com/ru/news/918688/?utm_campaign=918688&utm_source=habrahabr&utm_medium=rss)
+- [Ubisoft и Unfrozen отложили ранний доступ к игре Heroes of Might &amp;amp; Magic: Olden Era на конец 2025 года](https://habr.com/ru/news/918680/?utm_campaign=918680&utm_source=habrahabr&utm_medium=rss)
+- [Тест CRMArena-Pro показывает, что ИИ-агенты испытывают трудности в реальных бизнес-задачах](https://habr.com/ru/companies/bothub/news/918672/?utm_campaign=918672&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 вернут часы в выпадающем календаре](https://habr.com/ru/news/918668/?utm_campaign=918668&utm_source=habrahabr&utm_medium=rss)
 - [Разработан первый в мире 2D-компьютер без использования кремния](https://habr.com/ru/news/918660/?utm_campaign=918660&utm_source=habrahabr&utm_medium=rss)
-- [Rednote выпускает свою первую языковую модель с открытым исходным кодом и архитектурой Mixture-of-Experts](https://habr.com/ru/companies/bothub/news/918654/?utm_campaign=918654&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.5](https://habr.com/ru/news/918626/?utm_campaign=918626&utm_source=habrahabr&utm_medium=rss)
-- [nanoДРАЙВ в Уфе: российские цифровые решения для строительства и производства](https://habr.com/ru/companies/nanosoft/news/917816/?utm_campaign=917816&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Cjam 1.9.9.0 — легковесного редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/918622/?utm_campaign=918622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
