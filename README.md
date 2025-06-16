@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.5](https://habr.com/ru/news/918626/?utm_campaign=918626&utm_source=habrahabr&utm_medium=rss)
+- [nanoДРАЙВ в Уфе: российские цифровые решения для строительства и производства](https://habr.com/ru/companies/nanosoft/news/917816/?utm_campaign=917816&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Cjam 1.9.9.0 — легковесного редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/918622/?utm_campaign=918622&utm_source=habrahabr&utm_medium=rss)
 - [Вышел бенчмарк для HDD и SSD CrystalDiskMark 9.0.0](https://habr.com/ru/news/918618/?utm_campaign=918618&utm_source=habrahabr&utm_medium=rss)
 - [Релиз CrystalDiskInfo 9.7.0](https://habr.com/ru/news/918616/?utm_campaign=918616&utm_source=habrahabr&utm_medium=rss)
-- [Вышел выпуск открытого кроссплатформенного редактора схем и диаграмм qdia 0.53](https://habr.com/ru/news/918442/?utm_campaign=918442&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: YouTube и Instagram** в России недоступны, оснований для снятия ограничений нет](https://habr.com/ru/news/918578/?utm_campaign=918578&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT o3 прошла Pokemon Red — но до человеческих игроков все равно далеко](https://habr.com/ru/news/918524/?utm_campaign=918524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
