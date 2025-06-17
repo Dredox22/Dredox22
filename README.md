@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [iSpring Analytics meetup 21 июня](https://habr.com/ru/companies/ispring/news/919300/?utm_campaign=919300&utm_source=habrahabr&utm_medium=rss)
+- [«Информация, полученная от ИИ, — это сигнал для оперативного принятия решений»](https://habr.com/ru/companies/bothub/news/919298/?utm_campaign=919298&utm_source=habrahabr&utm_medium=rss)
+- [Сообщается, что разногласия в отношениях между OpenAI и Microsoft усиливаются](https://habr.com/ru/companies/bothub/news/919290/?utm_campaign=919290&utm_source=habrahabr&utm_medium=rss)
 - [Мипромторг РФ начнёт выдавать по 319 млн рублей на создание центров робототехники](https://habr.com/ru/news/919276/?utm_campaign=919276&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT уже настолько загрязнил Интернет, что это тормозит будущее развитие ИИ](https://habr.com/ru/news/919266/?utm_campaign=919266&utm_source=habrahabr&utm_medium=rss)
-- [Apple позволит разработчикам использовать промокоды в приложениях и играх для iPhone](https://habr.com/ru/news/919264/?utm_campaign=919264&utm_source=habrahabr&utm_medium=rss)
-- [Исследование способности языковых моделей к логическим рассуждениям — тест RELIC](https://habr.com/ru/companies/bothub/news/919260/?utm_campaign=919260&utm_source=habrahabr&utm_medium=rss)
-- [Как работает доставка в Додо? Разбираем всё, что под капотом на эфире 19 июня](https://habr.com/ru/companies/dododev/news/919246/?utm_campaign=919246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
