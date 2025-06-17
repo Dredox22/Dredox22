@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data тонет в транзакциях, Hibernate виноват, ORM в панике | Spring АйО Подкаст №23](https://habr.com/ru/companies/spring_aio/news/919132/?utm_campaign=919132&utm_source=habrahabr&utm_medium=rss)
 - [Американский психиатр провёл эксперимент с общением с ИИ от лица подростка](https://habr.com/ru/news/919116/?utm_campaign=919116&utm_source=habrahabr&utm_medium=rss)
 - [«Солар»: новая версия платформы CyberMir для киберчемпионатов, киберучений и CTF с поддержкой виртуализации в SolarQuest](https://habr.com/ru/companies/solarsecurity/news/919114/?utm_campaign=919114&utm_source=habrahabr&utm_medium=rss)
 - [Это Luxms BI. 25 ключевых особенностей](https://habr.com/ru/companies/luxms_bi/news/919108/?utm_campaign=919108&utm_source=habrahabr&utm_medium=rss)
 - [Бэкенд-разработчики Яндекса решат архитектурные задачи, которые придумаете вы](https://habr.com/ru/companies/yandex/news/919056/?utm_campaign=919056&utm_source=habrahabr&utm_medium=rss)
-- [TP-Link уволила большую часть сотрудников китайского подразделения, занимающегося разработкой чипов для роутеров](https://habr.com/ru/news/919096/?utm_campaign=919096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
