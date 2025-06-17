@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Распознавание лиц Windows Hello от Microsoft перестало работать в темноте](https://habr.com/ru/news/919066/?utm_campaign=919066&utm_source=habrahabr&utm_medium=rss)
-- [PowerToys получит большой редизайн панели инструментов](https://habr.com/ru/news/919054/?utm_campaign=919054&utm_source=habrahabr&utm_medium=rss)
-- [В каршеринге Zoomcar сообщили, что хакер получил доступ к персональным данным 8,4 млн пользователей](https://habr.com/ru/news/919038/?utm_campaign=919038&utm_source=habrahabr&utm_medium=rss)
-- [Шахматный движок Atari 2600 обыграл GPT-4o в шахматы Video Chess](https://habr.com/ru/news/919032/?utm_campaign=919032&utm_source=habrahabr&utm_medium=rss)
-- [Ограбление по-итальянски: клиентов российских банков впервые пытались атаковать вредоносным приложением SuperCard](https://habr.com/ru/companies/F6/news/918840/?utm_campaign=918840&utm_source=habrahabr&utm_medium=rss)
+- [Американский психиатр провёл эксперимент с общением с ИИ от лица подростка](https://habr.com/ru/news/919116/?utm_campaign=919116&utm_source=habrahabr&utm_medium=rss)
+- [«Солар»: новая версия платформы CyberMir для киберчемпионатов, киберучений и CTF с поддержкой виртуализации в SolarQuest](https://habr.com/ru/companies/solarsecurity/news/919114/?utm_campaign=919114&utm_source=habrahabr&utm_medium=rss)
+- [Это Luxms BI. 25 ключевых особенностей](https://habr.com/ru/companies/luxms_bi/news/919108/?utm_campaign=919108&utm_source=habrahabr&utm_medium=rss)
+- [Бэкенд-разработчики Яндекса решат архитектурные задачи, которые придумаете вы](https://habr.com/ru/companies/yandex/news/919056/?utm_campaign=919056&utm_source=habrahabr&utm_medium=rss)
+- [TP-Link уволила большую часть сотрудников китайского подразделения, занимающегося разработкой чипов для роутеров](https://habr.com/ru/news/919096/?utm_campaign=919096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
