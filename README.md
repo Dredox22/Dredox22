@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование способности языковых моделей к логическим рассуждениям — тест RELIC](https://habr.com/ru/companies/bothub/news/919260/?utm_campaign=919260&utm_source=habrahabr&utm_medium=rss)
+- [Как работает доставка в Додо? Разбираем всё, что под капотом на эфире 19 июня](https://habr.com/ru/companies/dododev/news/919246/?utm_campaign=919246&utm_source=habrahabr&utm_medium=rss)
 - [Intel уволит от 15% до 20% рабочих на своих заводах](https://habr.com/ru/news/919220/?utm_campaign=919220&utm_source=habrahabr&utm_medium=rss)
 - [Математический «гений» Теренс Тао: ИИ всё ещё не может «почувствовать» ошибки в математике](https://habr.com/ru/companies/bothub/news/919206/?utm_campaign=919206&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появится функция для умного энергосбережения](https://habr.com/ru/news/918984/?utm_campaign=918984&utm_source=habrahabr&utm_medium=rss)
-- [Canon представила высокочувствительный датчик изображения для автомобилей](https://habr.com/ru/news/919178/?utm_campaign=919178&utm_source=habrahabr&utm_medium=rss)
-- [Чему учат в онлайн-магистратуре Яндекса: специализация «Бэкенд-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/919148/?utm_campaign=919148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
