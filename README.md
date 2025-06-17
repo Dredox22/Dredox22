@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ограбление по-итальянски: клиентов российских банков впервые пытались атаковать вредоносным приложением SuperCard](https://habr.com/ru/companies/F6/news/918840/?utm_campaign=918840&utm_source=habrahabr&utm_medium=rss)
+- [Итоги участия «Нанософт» и «СиСофт Омск» в главной горной выставке России](https://habr.com/ru/companies/nanosoft/news/917818/?utm_campaign=917818&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Git 2.50](https://habr.com/ru/news/919014/?utm_campaign=919014&utm_source=habrahabr&utm_medium=rss)
 - [Вышел защищённый дистрибутив Securonis Linux 3.0](https://habr.com/ru/news/918968/?utm_campaign=918968&utm_source=habrahabr&utm_medium=rss)
 - [Команда разработчиков Rust запустила опрос по производительности компилятора — Rust compiler performance survey 2025](https://habr.com/ru/news/918966/?utm_campaign=918966&utm_source=habrahabr&utm_medium=rss)
-- [Учёные «Сбера» и НИУ ВШЭ научили искусственный интеллект точнее распознавать человеческие эмоции](https://habr.com/ru/news/918934/?utm_campaign=918934&utm_source=habrahabr&utm_medium=rss)
-- [YouTube начал замедлять видео при использовании блокировщиков рекламы](https://habr.com/ru/news/918922/?utm_campaign=918922&utm_source=habrahabr&utm_medium=rss)
-- [Будущее без Google Search? ИИ-помощники меняют привычки пользователей](https://habr.com/ru/companies/finam_broker/news/918892/?utm_campaign=918892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
