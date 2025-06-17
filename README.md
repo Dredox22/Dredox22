@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 появится функция для умного энергосбережения](https://habr.com/ru/news/918984/?utm_campaign=918984&utm_source=habrahabr&utm_medium=rss)
+- [Canon представила высокочувствительный датчик изображения для автомобилей](https://habr.com/ru/news/919178/?utm_campaign=919178&utm_source=habrahabr&utm_medium=rss)
+- [Чему учат в онлайн-магистратуре Яндекса: специализация «Бэкенд-разработчик»](https://habr.com/ru/companies/yandex_praktikum/news/919148/?utm_campaign=919148&utm_source=habrahabr&utm_medium=rss)
 - [Spring Data тонет в транзакциях, Hibernate виноват, ORM в панике | Spring АйО Подкаст №23](https://habr.com/ru/companies/spring_aio/news/919132/?utm_campaign=919132&utm_source=habrahabr&utm_medium=rss)
 - [Американский психиатр провёл эксперимент с общением с ИИ от лица подростка](https://habr.com/ru/news/919116/?utm_campaign=919116&utm_source=habrahabr&utm_medium=rss)
-- [«Солар»: новая версия платформы CyberMir для киберчемпионатов, киберучений и CTF с поддержкой виртуализации в SolarQuest](https://habr.com/ru/companies/solarsecurity/news/919114/?utm_campaign=919114&utm_source=habrahabr&utm_medium=rss)
-- [Это Luxms BI. 25 ключевых особенностей](https://habr.com/ru/companies/luxms_bi/news/919108/?utm_campaign=919108&utm_source=habrahabr&utm_medium=rss)
-- [Бэкенд-разработчики Яндекса решат архитектурные задачи, которые придумаете вы](https://habr.com/ru/companies/yandex/news/919056/?utm_campaign=919056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
