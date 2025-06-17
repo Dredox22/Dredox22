@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerToys получит большой редизайн панели инструментов](https://habr.com/ru/news/919054/?utm_campaign=919054&utm_source=habrahabr&utm_medium=rss)
+- [В каршеринге Zoomcar сообщили, что хакер получил доступ к персональным данным 8,4 млн пользователей](https://habr.com/ru/news/919038/?utm_campaign=919038&utm_source=habrahabr&utm_medium=rss)
 - [Шахматный движок Atari 2600 обыграл GPT-4o в шахматы Video Chess](https://habr.com/ru/news/919032/?utm_campaign=919032&utm_source=habrahabr&utm_medium=rss)
 - [Ограбление по-итальянски: клиентов российских банков впервые пытались атаковать вредоносным приложением SuperCard](https://habr.com/ru/companies/F6/news/918840/?utm_campaign=918840&utm_source=habrahabr&utm_medium=rss)
 - [Итоги участия «Нанософт» и «СиСофт Омск» в главной горной выставке России](https://habr.com/ru/companies/nanosoft/news/917818/?utm_campaign=917818&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Git 2.50](https://habr.com/ru/news/919014/?utm_campaign=919014&utm_source=habrahabr&utm_medium=rss)
-- [Вышел защищённый дистрибутив Securonis Linux 3.0](https://habr.com/ru/news/918968/?utm_campaign=918968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
