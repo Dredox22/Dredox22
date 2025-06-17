@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустила самую быструю и дешевую версию ИИ Gemini 2.5 &lpar;и обновила статус остальных&rpar;](https://habr.com/ru/news/919324/?utm_campaign=919324&utm_source=habrahabr&utm_medium=rss)
 - [iSpring Analytics meetup 21 июня](https://habr.com/ru/companies/ispring/news/919300/?utm_campaign=919300&utm_source=habrahabr&utm_medium=rss)
 - [«Информация, полученная от ИИ, — это сигнал для оперативного принятия решений»](https://habr.com/ru/companies/bothub/news/919298/?utm_campaign=919298&utm_source=habrahabr&utm_medium=rss)
 - [Сообщается, что разногласия в отношениях между OpenAI и Microsoft усиливаются](https://habr.com/ru/companies/bothub/news/919290/?utm_campaign=919290&utm_source=habrahabr&utm_medium=rss)
 - [Мипромторг РФ начнёт выдавать по 319 млн рублей на создание центров робототехники](https://habr.com/ru/news/919276/?utm_campaign=919276&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT уже настолько загрязнил Интернет, что это тормозит будущее развитие ИИ](https://habr.com/ru/news/919266/?utm_campaign=919266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
