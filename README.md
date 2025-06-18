@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз KDE Plasma 6.4](https://habr.com/ru/news/919350/?utm_campaign=919350&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Kali Linux 2025.2](https://habr.com/ru/news/919284/?utm_campaign=919284&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики САПР KiCad заявили о проблемах с работой в окружениях с Wayland и порекомендовали использовать X11](https://habr.com/ru/news/919176/?utm_campaign=919176&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого кроссплатформенного текстового редактора Notepad Next 0.12](https://habr.com/ru/news/919030/?utm_campaign=919030&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила самую быструю и дешевую версию ИИ Gemini 2.5 &lpar;и обновила статус остальных&rpar;](https://habr.com/ru/news/919324/?utm_campaign=919324&utm_source=habrahabr&utm_medium=rss)
-- [iSpring Analytics meetup 21 июня](https://habr.com/ru/companies/ispring/news/919300/?utm_campaign=919300&utm_source=habrahabr&utm_medium=rss)
-- [«Информация, полученная от ИИ, — это сигнал для оперативного принятия решений»](https://habr.com/ru/companies/bothub/news/919298/?utm_campaign=919298&utm_source=habrahabr&utm_medium=rss)
-- [Сообщается, что разногласия в отношениях между OpenAI и Microsoft усиливаются](https://habr.com/ru/companies/bothub/news/919290/?utm_campaign=919290&utm_source=habrahabr&utm_medium=rss)
-- [Мипромторг РФ начнёт выдавать по 319 млн рублей на создание центров робототехники](https://habr.com/ru/news/919276/?utm_campaign=919276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
