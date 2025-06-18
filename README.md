@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи обучили нейросеть распознавать усталость по движению глаз](https://habr.com/ru/news/919630/?utm_campaign=919630&utm_source=habrahabr&utm_medium=rss)
 - [Альтман: Meta* предложила некоторым сотрудникам OpenAI бонусы в размере $100 млн](https://habr.com/ru/news/919628/?utm_campaign=919628&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг планирует обязать госбанки покупать отечественные банкоматы и ККТ](https://habr.com/ru/news/919622/?utm_campaign=919622&utm_source=habrahabr&utm_medium=rss)
 - [КРОК стал партнером издательства Бомбора](https://habr.com/ru/companies/croc/news/919618/?utm_campaign=919618&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила о партнёрстве с AMD в рамках разработки чипов для Xbox и других игровых консолей](https://habr.com/ru/news/919616/?utm_campaign=919616&utm_source=habrahabr&utm_medium=rss)
-- [Alfa AppSec Meetup #1](https://habr.com/ru/companies/alfa/news/919578/?utm_campaign=919578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
