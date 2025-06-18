@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Альтман: Meta* предложила некоторым сотрудникам OpenAI бонусы в размере $100 млн](https://habr.com/ru/news/919628/?utm_campaign=919628&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг планирует обязать госбанки покупать отечественные банкоматы и ККТ](https://habr.com/ru/news/919622/?utm_campaign=919622&utm_source=habrahabr&utm_medium=rss)
+- [КРОК стал партнером издательства Бомбора](https://habr.com/ru/companies/croc/news/919618/?utm_campaign=919618&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft объявила о партнёрстве с AMD в рамках разработки чипов для Xbox и других игровых консолей](https://habr.com/ru/news/919616/?utm_campaign=919616&utm_source=habrahabr&utm_medium=rss)
 - [Alfa AppSec Meetup #1](https://habr.com/ru/companies/alfa/news/919578/?utm_campaign=919578&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ успешно завершил модернизацию межсетевых экранов](https://habr.com/ru/companies/rshb/news/919570/?utm_campaign=919570&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 2.5 Flash-Lite — самая быстрая и экономичная модель в линейке Gemini от Google](https://habr.com/ru/companies/bothub/news/919528/?utm_campaign=919528&utm_source=habrahabr&utm_medium=rss)
-- [В Steam появился поиск игр по функциям доступности](https://habr.com/ru/news/919500/?utm_campaign=919500&utm_source=habrahabr&utm_medium=rss)
-- [«Антифишинг» от F6: запущена новая открытая платформа для борьбы с киберугрозами](https://habr.com/ru/companies/F6/news/919278/?utm_campaign=919278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
