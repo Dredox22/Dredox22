@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил сервис «Яндекс Вектор» для маршрутизации транспортной техники коммунальных служб](https://habr.com/ru/news/919476/?utm_campaign=919476&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор усиливает контроль за операторами связи и обяжет раскрывать маршруты трафика и данные об оборудовании](https://habr.com/ru/news/919424/?utm_campaign=919424&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил курс «DevSecOps: безопасная разработка и эксплуатация»](https://habr.com/ru/companies/yandex_praktikum/news/918884/?utm_campaign=918884&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD Металлоконструкции 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/914584/?utm_campaign=914584&utm_source=habrahabr&utm_medium=rss)
 - [Релиз KDE Plasma 6.4](https://habr.com/ru/news/919350/?utm_campaign=919350&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Kali Linux 2025.2](https://habr.com/ru/news/919284/?utm_campaign=919284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
