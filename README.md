@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» открыл доступ к Tiles API](https://habr.com/ru/news/919698/?utm_campaign=919698&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты Авито представили первый российский open source тренажёр для ИИ-алгоритмов в рекламных аукционах](https://habr.com/ru/news/919694/?utm_campaign=919694&utm_source=habrahabr&utm_medium=rss)
 - [Совет Федерации единогласно одобрил законопроект о создании национального мессенджера](https://habr.com/ru/news/919684/?utm_campaign=919684&utm_source=habrahabr&utm_medium=rss)
 - [Студия Watt представила первый балетный слэшер по мотивам славянских мифов «Царевна»](https://habr.com/ru/news/919672/?utm_campaign=919672&utm_source=habrahabr&utm_medium=rss)
 - [РТУ МИРЭА запустил первую открытую онлайн‑платформу квантовых вычислений в России](https://habr.com/ru/news/919666/?utm_campaign=919666&utm_source=habrahabr&utm_medium=rss)
-- [Новая спецификация NFC увеличит радиус действия с 5 мм до 2 см](https://habr.com/ru/news/919658/?utm_campaign=919658&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обучили нейросеть распознавать усталость по движению глаз](https://habr.com/ru/news/919630/?utm_campaign=919630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
