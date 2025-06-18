@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 2.5 Flash-Lite — самая быстрая и экономичная модель в линейке Gemini от Google](https://habr.com/ru/companies/bothub/news/919528/?utm_campaign=919528&utm_source=habrahabr&utm_medium=rss)
 - [В Steam появился поиск игр по функциям доступности](https://habr.com/ru/news/919500/?utm_campaign=919500&utm_source=habrahabr&utm_medium=rss)
 - [«Антифишинг» от F6: запущена новая открытая платформа для борьбы с киберугрозами](https://habr.com/ru/companies/F6/news/919278/?utm_campaign=919278&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил сервис «Яндекс Вектор» для маршрутизации транспортной техники коммунальных служб](https://habr.com/ru/news/919476/?utm_campaign=919476&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор усиливает контроль за операторами связи и обяжет раскрывать маршруты трафика и данные об оборудовании](https://habr.com/ru/news/919424/?utm_campaign=919424&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум запустил курс «DevSecOps: безопасная разработка и эксплуатация»](https://habr.com/ru/companies/yandex_praktikum/news/918884/?utm_campaign=918884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
