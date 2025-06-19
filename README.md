@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз среды разработки Qt Creator 17](https://habr.com/ru/news/919682/?utm_campaign=919682&utm_source=habrahabr&utm_medium=rss)
+- [Павел Дуров дал интервью французскому изданию Le Point: у него 106 детей, а брат Николай работает над убийцей ChatGPT](https://habr.com/ru/news/919730/?utm_campaign=919730&utm_source=habrahabr&utm_medium=rss)
 - [Релиз AnyDesk 9.5.6 для Windows](https://habr.com/ru/news/919444/?utm_campaign=919444&utm_source=habrahabr&utm_medium=rss)
 - [В KDE Konsole обнаружена критическая уязвимость, позволяющая выполнить код при открытии страницы в браузере](https://habr.com/ru/news/919410/?utm_campaign=919410&utm_source=habrahabr&utm_medium=rss)
 - [Преподаватели МАРХИ прошли практический тренинг по nanoCAD BIM Строительство: шаг в сторону цифровой архитектуры](https://habr.com/ru/companies/nanosoft/news/919018/?utm_campaign=919018&utm_source=habrahabr&utm_medium=rss)
-- [Росимущество стало официально контролировать «Леста Игры»](https://habr.com/ru/news/919704/?utm_campaign=919704&utm_source=habrahabr&utm_medium=rss)
-- [В 5 раз быстрее, чем Starlink: китайский спутник передал данные с минимальной мощностью лазера](https://habr.com/ru/news/919702/?utm_campaign=919702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
