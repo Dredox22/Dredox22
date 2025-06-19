@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Лаборатория Касперского» помогла Интерполу в борьбе с программами-стилерами](https://habr.com/ru/news/919838/?utm_campaign=919838&utm_source=habrahabr&utm_medium=rss)
-- [Texas Instruments инвестирует $60 млрд в производство аналоговых и цифровых чипов в США](https://habr.com/ru/news/919834/?utm_campaign=919834&utm_source=habrahabr&utm_medium=rss)
-- [Выпустили первый российский тренажёр для ИИ-алгоритмов, делимся им с вами](https://habr.com/ru/companies/avito/news/919832/?utm_campaign=919832&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI открыла доступ к генерации изображений по бесплатному номеру через  WhatsApp](https://habr.com/ru/news/919808/?utm_campaign=919808&utm_source=habrahabr&utm_medium=rss)
-- [Правительство Австрии разрешит мониторинг защищённых сообщений](https://habr.com/ru/news/919776/?utm_campaign=919776&utm_source=habrahabr&utm_medium=rss)
+- [В AI Mode от Google теперь можно вести двусторонний голосовой диалог](https://habr.com/ru/companies/bothub/news/919888/?utm_campaign=919888&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Переводчике» появился ИИ‑ассистент «Алиса» в чате](https://habr.com/ru/news/919886/?utm_campaign=919886&utm_source=habrahabr&utm_medium=rss)
+- [«Ред софт» совместно с китайской Passion будет выпускать смартфоны, планшеты и ноутбуки на базе «Ред ОС»](https://habr.com/ru/news/919880/?utm_campaign=919880&utm_source=habrahabr&utm_medium=rss)
+- [Тест: нейросеть для транскрибации речи от Apple работает быстрее Whisper от OpenAI](https://habr.com/ru/news/919878/?utm_campaign=919878&utm_source=habrahabr&utm_medium=rss)
+- [Программист vs Инженер: программистам работать легче? Новый выпуск шоу «Согласен — не согласен»](https://habr.com/ru/companies/skbkontur/news/919758/?utm_campaign=919758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
