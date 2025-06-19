@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp переобувается и внедряет рекламу](https://habr.com/ru/companies/cloud4y/news/919934/?utm_campaign=919934&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.37: улучшения taint-анализа, выбор версии стандарта MISRA, анализ SLNX и многое другое](https://habr.com/ru/companies/pvs-studio/news/919914/?utm_campaign=919914&utm_source=habrahabr&utm_medium=rss)
 - [В AI Mode от Google теперь можно вести двусторонний голосовой диалог](https://habr.com/ru/companies/bothub/news/919888/?utm_campaign=919888&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Переводчике» появился ИИ‑ассистент «Алиса» в чате](https://habr.com/ru/news/919886/?utm_campaign=919886&utm_source=habrahabr&utm_medium=rss)
 - [«Ред софт» совместно с китайской Passion будет выпускать смартфоны, планшеты и ноутбуки на базе «Ред ОС»](https://habr.com/ru/news/919880/?utm_campaign=919880&utm_source=habrahabr&utm_medium=rss)
-- [Тест: нейросеть для транскрибации речи от Apple работает быстрее Whisper от OpenAI](https://habr.com/ru/news/919878/?utm_campaign=919878&utm_source=habrahabr&utm_medium=rss)
-- [Программист vs Инженер: программистам работать легче? Новый выпуск шоу «Согласен — не согласен»](https://habr.com/ru/companies/skbkontur/news/919758/?utm_campaign=919758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
