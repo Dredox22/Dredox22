@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство Австрии разрешит мониторинг защищённых сообщений](https://habr.com/ru/news/919776/?utm_campaign=919776&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники используют рекламу Google для внедрения фальшивых линий поддержки на сайтах Apple и PayPal](https://habr.com/ru/news/919766/?utm_campaign=919766&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft 365 отключит устаревшие протоколы аутентификации для доступа к файлам](https://habr.com/ru/news/919748/?utm_campaign=919748&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды разработки Qt Creator 17](https://habr.com/ru/news/919682/?utm_campaign=919682&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров дал интервью французскому изданию Le Point: у него 106 детей, а брат Николай работает над убийцей ChatGPT](https://habr.com/ru/news/919730/?utm_campaign=919730&utm_source=habrahabr&utm_medium=rss)
-- [Релиз AnyDesk 9.5.6 для Windows](https://habr.com/ru/news/919444/?utm_campaign=919444&utm_source=habrahabr&utm_medium=rss)
-- [В KDE Konsole обнаружена критическая уязвимость, позволяющая выполнить код при открытии страницы в браузере](https://habr.com/ru/news/919410/?utm_campaign=919410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
