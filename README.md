@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» помогла Интерполу в борьбе с программами-стилерами](https://habr.com/ru/news/919838/?utm_campaign=919838&utm_source=habrahabr&utm_medium=rss)
+- [Texas Instruments инвестирует $60 млрд в производство аналоговых и цифровых чипов в США](https://habr.com/ru/news/919834/?utm_campaign=919834&utm_source=habrahabr&utm_medium=rss)
+- [Выпустили первый российский тренажёр для ИИ-алгоритмов, делимся им с вами](https://habr.com/ru/companies/avito/news/919832/?utm_campaign=919832&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI открыла доступ к генерации изображений по бесплатному номеру через  WhatsApp](https://habr.com/ru/news/919808/?utm_campaign=919808&utm_source=habrahabr&utm_medium=rss)
 - [Правительство Австрии разрешит мониторинг защищённых сообщений](https://habr.com/ru/news/919776/?utm_campaign=919776&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники используют рекламу Google для внедрения фальшивых линий поддержки на сайтах Apple и PayPal](https://habr.com/ru/news/919766/?utm_campaign=919766&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft 365 отключит устаревшие протоколы аутентификации для доступа к файлам](https://habr.com/ru/news/919748/?utm_campaign=919748&utm_source=habrahabr&utm_medium=rss)
-- [Релиз среды разработки Qt Creator 17](https://habr.com/ru/news/919682/?utm_campaign=919682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
