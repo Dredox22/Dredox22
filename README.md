@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЖД и авиабилеты при покупке с iPhone могут быть на 5-7% дороже](https://habr.com/ru/news/919974/?utm_campaign=919974&utm_source=habrahabr&utm_medium=rss)
+- [В РТУ МИРЭА разработан способ управления техникой жестами без камер и датчиков](https://habr.com/ru/news/919970/?utm_campaign=919970&utm_source=habrahabr&utm_medium=rss)
 - [СУБД Tantor Postgres 17 от «Тантор Лабс»: рекордное количество новинок и улучшений](https://habr.com/ru/companies/tantor/news/919542/?utm_campaign=919542&utm_source=habrahabr&utm_medium=rss)
 - [Трамп представил смартфон золотого цвета за $499 и нового мобильного оператора T1 Mobile](https://habr.com/ru/news/919958/?utm_campaign=919958&utm_source=habrahabr&utm_medium=rss)
 - [РЖД расширит оплату проезда по геолокации](https://habr.com/ru/news/919952/?utm_campaign=919952&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp переобувается и внедряет рекламу](https://habr.com/ru/companies/cloud4y/news/919934/?utm_campaign=919934&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.37: улучшения taint-анализа, выбор версии стандарта MISRA, анализ SLNX и многое другое](https://habr.com/ru/companies/pvs-studio/news/919914/?utm_campaign=919914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
