@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365 отключит устаревшие протоколы аутентификации для доступа к файлам](https://habr.com/ru/news/919748/?utm_campaign=919748&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды разработки Qt Creator 17](https://habr.com/ru/news/919682/?utm_campaign=919682&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров дал интервью французскому изданию Le Point: у него 106 детей, а брат Николай работает над убийцей ChatGPT](https://habr.com/ru/news/919730/?utm_campaign=919730&utm_source=habrahabr&utm_medium=rss)
 - [Релиз AnyDesk 9.5.6 для Windows](https://habr.com/ru/news/919444/?utm_campaign=919444&utm_source=habrahabr&utm_medium=rss)
 - [В KDE Konsole обнаружена критическая уязвимость, позволяющая выполнить код при открытии страницы в браузере](https://habr.com/ru/news/919410/?utm_campaign=919410&utm_source=habrahabr&utm_medium=rss)
-- [Преподаватели МАРХИ прошли практический тренинг по nanoCAD BIM Строительство: шаг в сторону цифровой архитектуры](https://habr.com/ru/companies/nanosoft/news/919018/?utm_campaign=919018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
