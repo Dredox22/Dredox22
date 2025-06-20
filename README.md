@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google использует контент с YouTube для обучения своего генератора видео на базе ИИ](https://habr.com/ru/news/920248/?utm_campaign=920248&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Погода» может предсказывать грозы с точностью до 10 минут](https://habr.com/ru/news/920246/?utm_campaign=920246&utm_source=habrahabr&utm_medium=rss)
+- [НСПК и VK договорились о запуске переводов через СБП в MAX](https://habr.com/ru/news/920234/?utm_campaign=920234&utm_source=habrahabr&utm_medium=rss)
+- [Билайн и Innostage создают технологический альянс для разработки платформы облачной безопасности и киберустойчивости](https://habr.com/ru/companies/innostage/news/920172/?utm_campaign=920172&utm_source=habrahabr&utm_medium=rss)
 - [Sony анонсировала игру Titanic Escape Simulator](https://habr.com/ru/news/920210/?utm_campaign=920210&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» перешёл на рекомендательные системы на основе генеративных моделей для улучшения персональных рекомендаций](https://habr.com/ru/news/920204/?utm_campaign=920204&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры усилит защиту пользователей маркетплейсов против мошенников, включая анализ IMEI, MAC и данные о местоположении](https://habr.com/ru/news/920196/?utm_campaign=920196&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удаляет устаревшие драйверы из Центра обновления Windows](https://habr.com/ru/news/920142/?utm_campaign=920142&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI: выход новых моделей ИИ может повлечь риск создания биологического оружия](https://habr.com/ru/news/920138/?utm_campaign=920138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
