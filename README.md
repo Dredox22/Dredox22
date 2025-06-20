@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Билайн и «Лаборатория Касперского» создают сетевое решение для защиты смартфонов от онлайн-угроз](https://habr.com/ru/companies/beeline_tech/news/920342/?utm_campaign=920342&utm_source=habrahabr&utm_medium=rss)
+- [Авторы эмулятора Xenia опровергли слухи о партнёрстве с Microsoft для работы над Xbox Classics](https://habr.com/ru/news/920336/?utm_campaign=920336&utm_source=habrahabr&utm_medium=rss)
 - [Starlink нач­нёт про­дажи в Ка­зах­ста­не с третьего квар­та­ла 2025 года](https://habr.com/ru/news/920314/?utm_campaign=920314&utm_source=habrahabr&utm_medium=rss)
 - [ASRock представила видеокарту Radeon AI Pro R9700 Creator](https://habr.com/ru/news/920270/?utm_campaign=920270&utm_source=habrahabr&utm_medium=rss)
 - [Google использует контент с YouTube для обучения своего генератора видео на базе ИИ](https://habr.com/ru/news/920248/?utm_campaign=920248&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Погода» может предсказывать грозы с точностью до 10 минут](https://habr.com/ru/news/920246/?utm_campaign=920246&utm_source=habrahabr&utm_medium=rss)
-- [НСПК и VK договорились о запуске переводов через СБП в MAX](https://habr.com/ru/news/920234/?utm_campaign=920234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
