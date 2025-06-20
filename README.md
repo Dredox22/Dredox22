@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Garage Eight — генеральный партнер Saint HighLoad++ 2025 и Saint TeamLead Conf 2025](https://habr.com/ru/companies/garage8/news/920110/?utm_campaign=920110&utm_source=habrahabr&utm_medium=rss)
+- [Трафик Cloudflare в России упал на 30%, в РКН заявили, что это из-за технических проблем зарубежных хостинг-провайдеров](https://habr.com/ru/news/920106/?utm_campaign=920106&utm_source=habrahabr&utm_medium=rss)
 - [Вышел ONLYOFFICE DocumentServer 9.0.0](https://habr.com/ru/news/920072/?utm_campaign=920072&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.12](https://habr.com/ru/news/920066/?utm_campaign=920066&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «ТД Техно» для nanoCAD BIM Отопление](https://habr.com/ru/companies/nanosoft/news/914706/?utm_campaign=914706&utm_source=habrahabr&utm_medium=rss)
-- [Утечка на 16 миллиардов: крупнейший слив или глобальный кликбейт?](https://habr.com/ru/news/920080/?utm_campaign=920080&utm_source=habrahabr&utm_medium=rss)
-- [Новый ГОСТ упростит применение алюминиевых сплавов в 3D-печати](https://habr.com/ru/news/920076/?utm_campaign=920076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
