@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры с отраслью дорабатывает процесс обязательной совместимости ПО с российскими ОС и ЦП для вхождения в реестр ПО](https://habr.com/ru/news/920118/?utm_campaign=920118&utm_source=habrahabr&utm_medium=rss)
+- [Outlook вылетает при открытии электронного письма, Microsoft предложила временное решение проблемы](https://habr.com/ru/news/920054/?utm_campaign=920054&utm_source=habrahabr&utm_medium=rss)
+- [Amazon начала спонсировать и обеспечивать всю веб-инфраструктуру GNOME](https://habr.com/ru/news/920114/?utm_campaign=920114&utm_source=habrahabr&utm_medium=rss)
 - [Garage Eight — генеральный партнер Saint HighLoad++ 2025 и Saint TeamLead Conf 2025](https://habr.com/ru/companies/garage8/news/920110/?utm_campaign=920110&utm_source=habrahabr&utm_medium=rss)
 - [Трафик Cloudflare в России упал на 30%, в РКН заявили, что это из-за технических проблем зарубежных хостинг-провайдеров](https://habr.com/ru/news/920106/?utm_campaign=920106&utm_source=habrahabr&utm_medium=rss)
-- [Вышел ONLYOFFICE DocumentServer 9.0.0](https://habr.com/ru/news/920072/?utm_campaign=920072&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.12](https://habr.com/ru/news/920066/?utm_campaign=920066&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования компании «ТД Техно» для nanoCAD BIM Отопление](https://habr.com/ru/companies/nanosoft/news/914706/?utm_campaign=914706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
