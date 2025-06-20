@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony анонсировала игру Titanic Escape Simulator](https://habr.com/ru/news/920210/?utm_campaign=920210&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» перешёл на рекомендательные системы на основе генеративных моделей для улучшения персональных рекомендаций](https://habr.com/ru/news/920204/?utm_campaign=920204&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры усилит защиту пользователей маркетплейсов против мошенников, включая анализ IMEI, MAC и данные о местоположении](https://habr.com/ru/news/920196/?utm_campaign=920196&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удаляет устаревшие драйверы из Центра обновления Windows](https://habr.com/ru/news/920142/?utm_campaign=920142&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: выход новых моделей ИИ может повлечь риск создания биологического оружия](https://habr.com/ru/news/920138/?utm_campaign=920138&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры с отраслью дорабатывает процесс обязательной совместимости ПО с российскими ОС и ЦП для вхождения в реестр ПО](https://habr.com/ru/news/920118/?utm_campaign=920118&utm_source=habrahabr&utm_medium=rss)
-- [Outlook вылетает при открытии электронного письма, Microsoft предложила временное решение проблемы](https://habr.com/ru/news/920054/?utm_campaign=920054&utm_source=habrahabr&utm_medium=rss)
-- [Amazon начала спонсировать и обеспечивать всю веб-инфраструктуру GNOME](https://habr.com/ru/news/920114/?utm_campaign=920114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
