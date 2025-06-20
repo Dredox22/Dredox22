@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [База оборудования компании «ТД Техно» для nanoCAD BIM Отопление](https://habr.com/ru/companies/nanosoft/news/914706/?utm_campaign=914706&utm_source=habrahabr&utm_medium=rss)
 - [Утечка на 16 миллиардов: крупнейший слив или глобальный кликбейт?](https://habr.com/ru/news/920080/?utm_campaign=920080&utm_source=habrahabr&utm_medium=rss)
 - [Новый ГОСТ упростит применение алюминиевых сплавов в 3D-печати](https://habr.com/ru/news/920076/?utm_campaign=920076&utm_source=habrahabr&utm_medium=rss)
 - [В бета-версии Telegram появились чек-листы, они доступны как в личных чатах, так и в группах](https://habr.com/ru/news/920056/?utm_campaign=920056&utm_source=habrahabr&utm_medium=rss)
 - [В редактор кода Zed добавили отладчик](https://habr.com/ru/news/920044/?utm_campaign=920044&utm_source=habrahabr&utm_medium=rss)
-- [Yandex B2B Tech представил сервис для безопасного управления доступом пользователей к корпоративным приложениям](https://habr.com/ru/news/920038/?utm_campaign=920038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
