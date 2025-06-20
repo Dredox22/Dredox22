@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ASRock представила видеокарту Radeon AI Pro R9700 Creator](https://habr.com/ru/news/920270/?utm_campaign=920270&utm_source=habrahabr&utm_medium=rss)
 - [Google использует контент с YouTube для обучения своего генератора видео на базе ИИ](https://habr.com/ru/news/920248/?utm_campaign=920248&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Погода» может предсказывать грозы с точностью до 10 минут](https://habr.com/ru/news/920246/?utm_campaign=920246&utm_source=habrahabr&utm_medium=rss)
 - [НСПК и VK договорились о запуске переводов через СБП в MAX](https://habr.com/ru/news/920234/?utm_campaign=920234&utm_source=habrahabr&utm_medium=rss)
 - [Билайн и Innostage создают технологический альянс для разработки платформы облачной безопасности и киберустойчивости](https://habr.com/ru/companies/innostage/news/920172/?utm_campaign=920172&utm_source=habrahabr&utm_medium=rss)
-- [Sony анонсировала игру Titanic Escape Simulator](https://habr.com/ru/news/920210/?utm_campaign=920210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
