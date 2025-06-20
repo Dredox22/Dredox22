@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft удаляет устаревшие драйверы из Центра обновления Windows](https://habr.com/ru/news/920142/?utm_campaign=920142&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI: выход новых моделей ИИ может повлечь риск создания биологического оружия](https://habr.com/ru/news/920138/?utm_campaign=920138&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры с отраслью дорабатывает процесс обязательной совместимости ПО с российскими ОС и ЦП для вхождения в реестр ПО](https://habr.com/ru/news/920118/?utm_campaign=920118&utm_source=habrahabr&utm_medium=rss)
 - [Outlook вылетает при открытии электронного письма, Microsoft предложила временное решение проблемы](https://habr.com/ru/news/920054/?utm_campaign=920054&utm_source=habrahabr&utm_medium=rss)
 - [Amazon начала спонсировать и обеспечивать всю веб-инфраструктуру GNOME](https://habr.com/ru/news/920114/?utm_campaign=920114&utm_source=habrahabr&utm_medium=rss)
-- [Garage Eight — генеральный партнер Saint HighLoad++ 2025 и Saint TeamLead Conf 2025](https://habr.com/ru/companies/garage8/news/920110/?utm_campaign=920110&utm_source=habrahabr&utm_medium=rss)
-- [Трафик Cloudflare в России упал на 30%, в РКН заявили, что это из-за технических проблем зарубежных хостинг-провайдеров](https://habr.com/ru/news/920106/?utm_campaign=920106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
