@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Продвинутые языковые модели начали понимать, что их тестируют на безопасность» — отчет Apollo Research](https://habr.com/ru/news/920408/?utm_campaign=920408&utm_source=habrahabr&utm_medium=rss)
 - [Adobe выпустила Indigo — бета-версию приложения камеры для iOS](https://habr.com/ru/news/920394/?utm_campaign=920394&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Еде» появился ИИ-ассистент](https://habr.com/ru/news/920392/?utm_campaign=920392&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» сохранила контроль над своей британской структурой](https://habr.com/ru/news/920368/?utm_campaign=920368&utm_source=habrahabr&utm_medium=rss)
 - [Билайн и «Лаборатория Касперского» создают сетевое решение для защиты смартфонов от онлайн-угроз](https://habr.com/ru/companies/beeline_tech/news/920342/?utm_campaign=920342&utm_source=habrahabr&utm_medium=rss)
-- [Авторы эмулятора Xenia опровергли слухи о партнёрстве с Microsoft для работы над Xbox Classics](https://habr.com/ru/news/920336/?utm_campaign=920336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
