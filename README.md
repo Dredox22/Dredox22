@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Коллективный учёный против «математического гения» от OpenAI](https://habr.com/ru/companies/bothub/news/920506/?utm_campaign=920506&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт по рискам: совет «научитесь кодить» теперь хуже, чем «сделать татуировку на лице»](https://habr.com/ru/news/920492/?utm_campaign=920492&utm_source=habrahabr&utm_medium=rss)
+- [Некоторые SSD Western Digital по-прежнему блокируют загрузку и установку Windows 11 24H2](https://habr.com/ru/news/920486/?utm_campaign=920486&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic утверждает, что большинство моделей ИИ, не только Claude, будут прибегать к шантажу](https://habr.com/ru/companies/bothub/news/920488/?utm_campaign=920488&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый инструментарий LAV Filters 0.8 — многоформатный медиа-сплиттер на базе ffmpeg](https://habr.com/ru/news/920466/?utm_campaign=920466&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.5](https://habr.com/ru/news/920426/?utm_campaign=920426&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PicView 3.1.4 — открытого просмотрщика изображений для ПК на Windows 10 и 11](https://habr.com/ru/news/920432/?utm_campaign=920432&utm_source=habrahabr&utm_medium=rss)
-- [МГТУ им. Баумана и «Группа Астра» провели две летние смены по Astra Linux для школьников](https://habr.com/ru/news/920450/?utm_campaign=920450&utm_source=habrahabr&utm_medium=rss)
-- [ИРИ инвестирует 3,4 млрд рублей в развитие игровой индустрии России в 2025–2027 годах](https://habr.com/ru/news/920444/?utm_campaign=920444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
