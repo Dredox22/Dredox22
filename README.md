@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бета-версия macOS Tahoe не поддерживает FireWire](https://habr.com/ru/news/920552/?utm_campaign=920552&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск: Grok 3.5 перепишет «все человеческие знания» — в них много мусора. Затем модель переобучат](https://habr.com/ru/news/920538/?utm_campaign=920538&utm_source=habrahabr&utm_medium=rss)
 - [Китайские учёные: ИИ способен формировать представления об объектах, сходные с человеческими](https://habr.com/ru/news/920534/?utm_campaign=920534&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил стартап вайб-кодинга и продал его за $80 млн через полгода](https://habr.com/ru/news/920526/?utm_campaign=920526&utm_source=habrahabr&utm_medium=rss)
 - [Кодзима меняет сюжет Death Stranding 2, Apple сделает съемку из самолета лучше, новый патент Huawei: дайджест](https://habr.com/ru/companies/onlinepatent/news/920244/?utm_campaign=920244&utm_source=habrahabr&utm_medium=rss)
-- [Коллективный учёный против «математического гения» от OpenAI](https://habr.com/ru/companies/bothub/news/920506/?utm_campaign=920506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
