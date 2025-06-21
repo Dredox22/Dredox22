@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.5](https://habr.com/ru/news/920426/?utm_campaign=920426&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PicView 3.1.4 — открытого просмотрщика изображений для ПК на Windows 10 и 11](https://habr.com/ru/news/920432/?utm_campaign=920432&utm_source=habrahabr&utm_medium=rss)
 - [МГТУ им. Баумана и «Группа Астра» провели две летние смены по Astra Linux для школьников](https://habr.com/ru/news/920450/?utm_campaign=920450&utm_source=habrahabr&utm_medium=rss)
 - [ИРИ инвестирует 3,4 млрд рублей в развитие игровой индустрии России в 2025–2027 годах](https://habr.com/ru/news/920444/?utm_campaign=920444&utm_source=habrahabr&utm_medium=rss)
 - [Сеченовский университет и «Сбер» создают приложение с ИИ для борьбы с лишним весом](https://habr.com/ru/news/920436/?utm_campaign=920436&utm_source=habrahabr&utm_medium=rss)
-- [«Продвинутые языковые модели начали понимать, что их тестируют на безопасность» — отчет Apollo Research](https://habr.com/ru/news/920408/?utm_campaign=920408&utm_source=habrahabr&utm_medium=rss)
-- [Adobe выпустила Indigo — бета-версию приложения камеры для iOS](https://habr.com/ru/news/920394/?utm_campaign=920394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
