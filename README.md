@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Илон Маск: Grok 3.5 перепишет «все человеческие знания» — в них много мусора. Затем модель переобучат](https://habr.com/ru/news/920538/?utm_campaign=920538&utm_source=habrahabr&utm_medium=rss)
+- [Китайские учёные: ИИ способен формировать представления об объектах, сходные с человеческими](https://habr.com/ru/news/920534/?utm_campaign=920534&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил стартап вайб-кодинга и продал его за $80 млн через полгода](https://habr.com/ru/news/920526/?utm_campaign=920526&utm_source=habrahabr&utm_medium=rss)
 - [Кодзима меняет сюжет Death Stranding 2, Apple сделает съемку из самолета лучше, новый патент Huawei: дайджест](https://habr.com/ru/companies/onlinepatent/news/920244/?utm_campaign=920244&utm_source=habrahabr&utm_medium=rss)
 - [Коллективный учёный против «математического гения» от OpenAI](https://habr.com/ru/companies/bothub/news/920506/?utm_campaign=920506&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт по рискам: совет «научитесь кодить» теперь хуже, чем «сделать татуировку на лице»](https://habr.com/ru/news/920492/?utm_campaign=920492&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые SSD Western Digital по-прежнему блокируют загрузку и установку Windows 11 24H2](https://habr.com/ru/news/920486/?utm_campaign=920486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
