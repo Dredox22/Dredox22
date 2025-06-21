@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МГТУ им. Н.Э. Баумана и «Ростелеком» объединят усилия для развития сферы разработки игр в РФ](https://habr.com/ru/news/920572/?utm_campaign=920572&utm_source=habrahabr&utm_medium=rss)
 - [Функция родительского контроля Microsoft Family Safety блокирует Google Chrome](https://habr.com/ru/news/920556/?utm_campaign=920556&utm_source=habrahabr&utm_medium=rss)
 - [Бета-версия macOS Tahoe не поддерживает FireWire](https://habr.com/ru/news/920552/?utm_campaign=920552&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск: Grok 3.5 перепишет «все человеческие знания» — в них много мусора. Затем модель переобучат](https://habr.com/ru/news/920538/?utm_campaign=920538&utm_source=habrahabr&utm_medium=rss)
 - [Китайские учёные: ИИ способен формировать представления об объектах, сходные с человеческими](https://habr.com/ru/news/920534/?utm_campaign=920534&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик запустил стартап вайб-кодинга и продал его за $80 млн через полгода](https://habr.com/ru/news/920526/?utm_campaign=920526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
