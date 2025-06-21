@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава «Билайн»: «Госуслуги», банковские приложения и уведомления могут работать при ограничении доступа к интернету](https://habr.com/ru/news/920628/?utm_campaign=920628&utm_source=habrahabr&utm_medium=rss)
 - [У некоторых пользователей OneDrive сломался поиск](https://habr.com/ru/news/920598/?utm_campaign=920598&utm_source=habrahabr&utm_medium=rss)
 - [МГТУ им. Н.Э. Баумана и «Ростелеком» объединят усилия для развития сферы разработки игр в РФ](https://habr.com/ru/news/920572/?utm_campaign=920572&utm_source=habrahabr&utm_medium=rss)
 - [Функция родительского контроля Microsoft Family Safety блокирует Google Chrome](https://habr.com/ru/news/920556/?utm_campaign=920556&utm_source=habrahabr&utm_medium=rss)
 - [Бета-версия macOS Tahoe не поддерживает FireWire](https://habr.com/ru/news/920552/?utm_campaign=920552&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск: Grok 3.5 перепишет «все человеческие знания» — в них много мусора. Затем модель переобучат](https://habr.com/ru/news/920538/?utm_campaign=920538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
