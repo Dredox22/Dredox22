@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь OneDrive потерял данные за 30 лет: Microsoft без объяснений заблокировала его аккаунт](https://habr.com/ru/news/920692/?utm_campaign=920692&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge тестирует переработанную ИИ-ленту MSN с рекламой](https://habr.com/ru/news/920680/?utm_campaign=920680&utm_source=habrahabr&utm_medium=rss)
 - [Valve по умолчанию включила Proton для всех игр Windows на Linux](https://habr.com/ru/news/920678/?utm_campaign=920678&utm_source=habrahabr&utm_medium=rss)
 - [В GNOME исправлен шестилетний баг, из-за которого «Корзина» не всегда очищалась должным образом](https://habr.com/ru/news/920664/?utm_campaign=920664&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила подсистему Windows для Linux &lpar;WSL&rpar; 2.6.0](https://habr.com/ru/news/920662/?utm_campaign=920662&utm_source=habrahabr&utm_medium=rss)
-- [Глава «Билайн»: «Госуслуги», банковские приложения и уведомления могут работать при ограничении доступа к интернету](https://habr.com/ru/news/920628/?utm_campaign=920628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
