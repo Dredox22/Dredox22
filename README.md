@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В GNOME исправлен шестилетний баг, из-за которого «Корзина» не всегда очищалась должным образом](https://habr.com/ru/news/920664/?utm_campaign=920664&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила подсистему Windows для Linux &lpar;WSL&rpar; 2.6.0](https://habr.com/ru/news/920662/?utm_campaign=920662&utm_source=habrahabr&utm_medium=rss)
 - [Глава «Билайн»: «Госуслуги», банковские приложения и уведомления могут работать при ограничении доступа к интернету](https://habr.com/ru/news/920628/?utm_campaign=920628&utm_source=habrahabr&utm_medium=rss)
 - [У некоторых пользователей OneDrive сломался поиск](https://habr.com/ru/news/920598/?utm_campaign=920598&utm_source=habrahabr&utm_medium=rss)
 - [МГТУ им. Н.Э. Баумана и «Ростелеком» объединят усилия для развития сферы разработки игр в РФ](https://habr.com/ru/news/920572/?utm_campaign=920572&utm_source=habrahabr&utm_medium=rss)
-- [Функция родительского контроля Microsoft Family Safety блокирует Google Chrome](https://habr.com/ru/news/920556/?utm_campaign=920556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
