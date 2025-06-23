@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил Workout.cool — опенсорс-платформу для занятия фитнесом и бодибилдингом](https://habr.com/ru/news/920996/?utm_campaign=920996&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/920982/?utm_campaign=920982&utm_source=habrahabr&utm_medium=rss)
+- [BBC угрожает Perplexity судебным иском за сбор контента](https://habr.com/ru/news/920974/?utm_campaign=920974&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект оконного менеджера IceWM 3.8.0](https://habr.com/ru/news/920930/?utm_campaign=920930&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 позволит менять положение экранных индикаторов, включая всплывающие меню громкости и яркости экрана](https://habr.com/ru/news/920928/?utm_campaign=920928&utm_source=habrahabr&utm_medium=rss)
-- [До 20 июля — подавайте свои доклады на IT Elements 2025](https://habr.com/ru/companies/jetinfosystems/news/920896/?utm_campaign=920896&utm_source=habrahabr&utm_medium=rss)
-- [Патент Apple описывает технологии управления курсором с помощью жестов для 3D-сред на Mac и умных очках](https://habr.com/ru/companies/onlinepatent/news/920890/?utm_campaign=920890&utm_source=habrahabr&utm_medium=rss)
-- [Представлена игра в стиле ретро‑FMV‑квестов «Санаторий „У Седой Трески“» от Irreal Cube Studios](https://habr.com/ru/news/920798/?utm_campaign=920798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
