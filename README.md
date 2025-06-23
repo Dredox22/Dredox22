@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [До 20 июля — подавайте свои доклады на IT Elements 2025](https://habr.com/ru/companies/jetinfosystems/news/920896/?utm_campaign=920896&utm_source=habrahabr&utm_medium=rss)
 - [Патент Apple описывает технологии управления курсором с помощью жестов для 3D-сред на Mac и умных очках](https://habr.com/ru/companies/onlinepatent/news/920890/?utm_campaign=920890&utm_source=habrahabr&utm_medium=rss)
 - [Представлена игра в стиле ретро‑FMV‑квестов «Санаторий „У Седой Трески“» от Irreal Cube Studios](https://habr.com/ru/news/920798/?utm_campaign=920798&utm_source=habrahabr&utm_medium=rss)
 - [Точки восстановления системы Windows 11 24H2 теперь истекают через 60 суток](https://habr.com/ru/news/920884/?utm_campaign=920884&utm_source=habrahabr&utm_medium=rss)
 - [Приложение МТС Банка появилось в App Store под кодовым названием «Дом Йоги»](https://habr.com/ru/news/920880/?utm_campaign=920880&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare сообщила об отражении рекордной DDoS-атаки с пиковой мощностью 7,3 Тбит/с](https://habr.com/ru/news/920860/?utm_campaign=920860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
