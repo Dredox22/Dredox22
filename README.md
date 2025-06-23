@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Практикум» обучит 10 тысяч специалистов ИИ-профессиям до 2027 года](https://habr.com/ru/news/921138/?utm_campaign=921138&utm_source=habrahabr&utm_medium=rss)
+- [Открыт приём заявок на игровую премию «Наш Игропром 2025»](https://habr.com/ru/news/921128/?utm_campaign=921128&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» с начала года отразил более 1,5 тыс. масштабных DDoS-атак на свою IT-инфраструктуру](https://habr.com/ru/news/921050/?utm_campaign=921050&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент Snipping Tool в Windows 11 получил функцию экспорта записи экрана в GIF](https://habr.com/ru/news/921036/?utm_campaign=921036&utm_source=habrahabr&utm_medium=rss)
 - [Вся правда о хакатонах в России](https://habr.com/ru/news/921010/?utm_campaign=921010&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил Workout.cool — опенсорс-платформу для занятия фитнесом и бодибилдингом](https://habr.com/ru/news/920996/?utm_campaign=920996&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/920982/?utm_campaign=920982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
