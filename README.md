@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз планетария с открытым кодом Stellarium 25.2](https://habr.com/ru/news/920806/?utm_campaign=920806&utm_source=habrahabr&utm_medium=rss)
 - [Инвесторы подали на Apple в суд за задержку Apple Intelligence и обновленной Siri](https://habr.com/ru/news/920808/?utm_campaign=920808&utm_source=habrahabr&utm_medium=rss)
 - [Представители крупных операторов связи пожаловались Минцифры на проблемы с поиском финансирования на поддержание сетей](https://habr.com/ru/news/920796/?utm_campaign=920796&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект mbake — это форматировщик и линтер Makefile, написанный на Python](https://habr.com/ru/news/920792/?utm_campaign=920792&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» рассматривает возможность платежей в мессенджере Max](https://habr.com/ru/news/920734/?utm_campaign=920734&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования Hare 0.25.2](https://habr.com/ru/news/920704/?utm_campaign=920704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
