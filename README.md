@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Билайн» с начала года отразил более 1,5 тыс. масштабных DDoS-атак на свою IT-инфраструктуру](https://habr.com/ru/news/921050/?utm_campaign=921050&utm_source=habrahabr&utm_medium=rss)
+- [Инструмент Snipping Tool в Windows 11 получил функцию экспорта записи экрана в GIF](https://habr.com/ru/news/921036/?utm_campaign=921036&utm_source=habrahabr&utm_medium=rss)
+- [Вся правда о хакатонах в России](https://habr.com/ru/news/921010/?utm_campaign=921010&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил Workout.cool — опенсорс-платформу для занятия фитнесом и бодибилдингом](https://habr.com/ru/news/920996/?utm_campaign=920996&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/920982/?utm_campaign=920982&utm_source=habrahabr&utm_medium=rss)
-- [BBC угрожает Perplexity судебным иском за сбор контента](https://habr.com/ru/news/920974/?utm_campaign=920974&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект оконного менеджера IceWM 3.8.0](https://habr.com/ru/news/920930/?utm_campaign=920930&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 позволит менять положение экранных индикаторов, включая всплывающие меню громкости и яркости экрана](https://habr.com/ru/news/920928/?utm_campaign=920928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
