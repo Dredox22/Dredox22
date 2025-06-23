@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Патент Apple описывает технологии управления курсором с помощью жестов для 3D-сред на Mac и умных очках](https://habr.com/ru/companies/onlinepatent/news/920890/?utm_campaign=920890&utm_source=habrahabr&utm_medium=rss)
+- [Представлена игра в стиле ретро‑FMV‑квестов «Санаторий „У Седой Трески“» от Irreal Cube Studios](https://habr.com/ru/news/920798/?utm_campaign=920798&utm_source=habrahabr&utm_medium=rss)
+- [Точки восстановления системы Windows 11 24H2 теперь истекают через 60 суток](https://habr.com/ru/news/920884/?utm_campaign=920884&utm_source=habrahabr&utm_medium=rss)
+- [Приложение МТС Банка появилось в App Store под кодовым названием «Дом Йоги»](https://habr.com/ru/news/920880/?utm_campaign=920880&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare сообщила об отражении рекордной DDoS-атаки с пиковой мощностью 7,3 Тбит/с](https://habr.com/ru/news/920860/?utm_campaign=920860&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предложило запретить пользователям менять идентификационные номера мобильных устройств &lpar;IMEI&rpar;](https://habr.com/ru/news/920832/?utm_campaign=920832&utm_source=habrahabr&utm_medium=rss)
-- [Команда Kubuntu сообщила о прекращении предоставления сеанса KDE на основе X-сервера в базовом окружении](https://habr.com/ru/news/920830/?utm_campaign=920830&utm_source=habrahabr&utm_medium=rss)
-- [Релиз планетария с открытым кодом Stellarium 25.2](https://habr.com/ru/news/920806/?utm_campaign=920806&utm_source=habrahabr&utm_medium=rss)
-- [Инвесторы подали на Apple в суд за задержку Apple Intelligence и обновленной Siri](https://habr.com/ru/news/920808/?utm_campaign=920808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
