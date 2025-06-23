@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры предложило запретить пользователям менять идентификационные номера мобильных устройств &lpar;IMEI&rpar;](https://habr.com/ru/news/920832/?utm_campaign=920832&utm_source=habrahabr&utm_medium=rss)
+- [Команда Kubuntu сообщила о прекращении предоставления сеанса KDE на основе X-сервера в базовом окружении](https://habr.com/ru/news/920830/?utm_campaign=920830&utm_source=habrahabr&utm_medium=rss)
 - [Релиз планетария с открытым кодом Stellarium 25.2](https://habr.com/ru/news/920806/?utm_campaign=920806&utm_source=habrahabr&utm_medium=rss)
 - [Инвесторы подали на Apple в суд за задержку Apple Intelligence и обновленной Siri](https://habr.com/ru/news/920808/?utm_campaign=920808&utm_source=habrahabr&utm_medium=rss)
 - [Представители крупных операторов связи пожаловались Минцифры на проблемы с поиском финансирования на поддержание сетей](https://habr.com/ru/news/920796/?utm_campaign=920796&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект mbake — это форматировщик и линтер Makefile, написанный на Python](https://habr.com/ru/news/920792/?utm_campaign=920792&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» рассматривает возможность платежей в мессенджере Max](https://habr.com/ru/news/920734/?utm_campaign=920734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
