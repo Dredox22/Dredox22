@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Теперь и для Linux: продвинутая «песочница» F6 Malware Detonation Platform поддерживает российские ОС](https://habr.com/ru/companies/F6/news/920984/?utm_campaign=920984&utm_source=habrahabr&utm_medium=rss)
+- [Газпромбанк запустил обновленное мобильное приложение для iOS](https://habr.com/ru/companies/gazprombank/news/921258/?utm_campaign=921258&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI обязали хранить даже удалённые чаты пользователей ChatGPT](https://habr.com/ru/news/921250/?utm_campaign=921250&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователь OpenAI Грег Брокман: пока вайб-кодинг отобрал самую интересную часть работы](https://habr.com/ru/news/921228/?utm_campaign=921228&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Apache Superset 5.0.0](https://habr.com/ru/news/921230/?utm_campaign=921230&utm_source=habrahabr&utm_medium=rss)
-- [Google прекратит поддержку Chrome на Android 8 Oreo и Android 9 Pie](https://habr.com/ru/news/921210/?utm_campaign=921210&utm_source=habrahabr&utm_medium=rss)
-- [Релиз qBittorrent 5.1.1](https://habr.com/ru/news/921158/?utm_campaign=921158&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Darktable 5.2 — открытого графического редактора для обработки фотографий в формате RAW](https://habr.com/ru/news/921164/?utm_campaign=921164&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 140.0 ESR](https://habr.com/ru/news/921094/?utm_campaign=921094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
