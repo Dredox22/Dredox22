@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 140.0 ESR](https://habr.com/ru/news/921094/?utm_campaign=921094&utm_source=habrahabr&utm_medium=rss)
+- [Релиз экспериментальной версии GIMP 3.1.2](https://habr.com/ru/news/921142/?utm_campaign=921142&utm_source=habrahabr&utm_medium=rss)
+- [В ядро Linux 6.16 добавлено исправление драйвера для 30-летней звуковой карты Creative SoundBlaster AWE32 ISA](https://habr.com/ru/news/921022/?utm_campaign=921022&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия открытой утилиты MultiOS-USB 0.9.9](https://habr.com/ru/news/921154/?utm_campaign=921154&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Clonezilla Live 3.2.2-15](https://habr.com/ru/news/921172/?utm_campaign=921172&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD BIM СКС 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/917824/?utm_campaign=917824&utm_source=habrahabr&utm_medium=rss)
-- [Типы и компетенции аналитиков: бизнес vs системный. Где граница? Подкаст IT`s GNIVC](https://habr.com/ru/companies/gnivc/news/921178/?utm_campaign=921178&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Практикум» обучит 10 тысяч специалистов ИИ-профессиям до 2027 года](https://habr.com/ru/news/921138/?utm_campaign=921138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
