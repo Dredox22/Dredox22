@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Ubuntu может появиться новая иконка корзины, которая не будет похожа на почтовый ящик](https://habr.com/ru/news/921184/?utm_campaign=921184&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила встроенную в Windows 11 локальную языковую модель Mu](https://habr.com/ru/news/921272/?utm_campaign=921272&utm_source=habrahabr&utm_medium=rss)
+- [Открытый проект Magic Lantern для цифровых зеркальных камер Canon вернулся с новой командой](https://habr.com/ru/news/921262/?utm_campaign=921262&utm_source=habrahabr&utm_medium=rss)
 - [Теперь и для Linux: продвинутая «песочница» F6 Malware Detonation Platform поддерживает российские ОС](https://habr.com/ru/companies/F6/news/920984/?utm_campaign=920984&utm_source=habrahabr&utm_medium=rss)
 - [Газпромбанк запустил обновленное мобильное приложение для iOS](https://habr.com/ru/companies/gazprombank/news/921258/?utm_campaign=921258&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI обязали хранить даже удалённые чаты пользователей ChatGPT](https://habr.com/ru/news/921250/?utm_campaign=921250&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь OpenAI Грег Брокман: пока вайб-кодинг отобрал самую интересную часть работы](https://habr.com/ru/news/921228/?utm_campaign=921228&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Apache Superset 5.0.0](https://habr.com/ru/news/921230/?utm_campaign=921230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
