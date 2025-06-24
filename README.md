@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ViGaL: как игра в змейку помогла нейросети обогнать GPT-4o в математике](https://habr.com/ru/companies/bothub/news/921364/?utm_campaign=921364&utm_source=habrahabr&utm_medium=rss)
+- [GigaConf: более 2000 инженеров, разработчиков и представителей бизнеса](https://habr.com/ru/companies/sberbank/news/921308/?utm_campaign=921308&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Леста Игры» прокомментировала ситуацию с управлением и играми](https://habr.com/ru/news/921344/?utm_campaign=921344&utm_source=habrahabr&utm_medium=rss)
 - [Grok vs Google Sheets: Илон Маск замахнулся на электронные таблицы](https://habr.com/ru/companies/bothub/news/921338/?utm_campaign=921338&utm_source=habrahabr&utm_medium=rss)
 - [ИИ, который не ждёт датасетов: MIT представляет SEAL — фреймворк для мгновенного самоапдейта](https://habr.com/ru/companies/bothub/news/921324/?utm_campaign=921324&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries планирует запустить виртуального оператора мобильной связи](https://habr.com/ru/news/921180/?utm_campaign=921180&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Xbox для ПК получило единую библиотеку игр из разных магазинов](https://habr.com/ru/news/921298/?utm_campaign=921298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
