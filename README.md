@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Виртуальный мобильный оператор «Сбера» планирует использовать инфраструктуру нескольких операторов связи одновременно](https://habr.com/ru/news/921472/?utm_campaign=921472&utm_source=habrahabr&utm_medium=rss)
 - [Кунг-фу 2.0: Китай запускает ИИ-реинкарнацию культовых боевиков](https://habr.com/ru/companies/bothub/news/921444/?utm_campaign=921444&utm_source=habrahabr&utm_medium=rss)
 - [Агент ALE от Sakana AI входит в топ-21 среди 1000 экспертов по кодированию](https://habr.com/ru/companies/bothub/news/921440/?utm_campaign=921440&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал закон о создании национального мессенджера](https://habr.com/ru/news/921412/?utm_campaign=921412&utm_source=habrahabr&utm_medium=rss)
 - [Свечи, LAN-кабели и мятые футболки: RTC — прорыв для роботов в реальном мире](https://habr.com/ru/companies/bothub/news/921398/?utm_campaign=921398&utm_source=habrahabr&utm_medium=rss)
-- [Российские банки предлагают обязать операторов прерывать звонок при признаках мошенничества](https://habr.com/ru/news/921388/?utm_campaign=921388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
