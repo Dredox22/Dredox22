@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд США признал законным обучение ИИ Claude на книгах, но за хранение пиратских копий разработчикам грозит штраф](https://habr.com/ru/news/921516/?utm_campaign=921516&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудникам Палаты представителей Конгресса США запретили использовать WhatsApp на служебных устройствах](https://habr.com/ru/news/921514/?utm_campaign=921514&utm_source=habrahabr&utm_medium=rss)
 - [Google представила модель машинного обучения для генерации музыкальных композиций в режиме реального времени](https://habr.com/ru/news/921498/?utm_campaign=921498&utm_source=habrahabr&utm_medium=rss)
 - [Среда разработки приложений «Тау Платформа» начала поддерживать ОС «РОСА Мобайл»](https://habr.com/ru/news/921496/?utm_campaign=921496&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» заявила о росте заражённых поддельных Android‑устройств](https://habr.com/ru/news/921480/?utm_campaign=921480&utm_source=habrahabr&utm_medium=rss)
-- [Виртуальный мобильный оператор «Сбера» планирует использовать инфраструктуру нескольких операторов связи одновременно](https://habr.com/ru/news/921472/?utm_campaign=921472&utm_source=habrahabr&utm_medium=rss)
-- [Кунг-фу 2.0: Китай запускает ИИ-реинкарнацию культовых боевиков](https://habr.com/ru/companies/bothub/news/921444/?utm_campaign=921444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
