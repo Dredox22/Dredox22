@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания «Леста Игры» прокомментировала ситуацию с управлением и играми](https://habr.com/ru/news/921344/?utm_campaign=921344&utm_source=habrahabr&utm_medium=rss)
+- [Grok vs Google Sheets: Илон Маск замахнулся на электронные таблицы](https://habr.com/ru/companies/bothub/news/921338/?utm_campaign=921338&utm_source=habrahabr&utm_medium=rss)
+- [ИИ, который не ждёт датасетов: MIT представляет SEAL — фреймворк для мгновенного самоапдейта](https://habr.com/ru/companies/bothub/news/921324/?utm_campaign=921324&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries планирует запустить виртуального оператора мобильной связи](https://habr.com/ru/news/921180/?utm_campaign=921180&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Xbox для ПК получило единую библиотеку игр из разных магазинов](https://habr.com/ru/news/921298/?utm_campaign=921298&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» ускорил выявление мошеннических звонков с помощью нейросетей](https://habr.com/ru/news/921294/?utm_campaign=921294&utm_source=habrahabr&utm_medium=rss)
-- [В Ubuntu может появиться новая иконка корзины, которая не будет похожа на почтовый ящик](https://habr.com/ru/news/921184/?utm_campaign=921184&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила встроенную в Windows 11 локальную языковую модель Mu](https://habr.com/ru/news/921272/?utm_campaign=921272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
