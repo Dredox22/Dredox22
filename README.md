@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия открытой утилиты MultiOS-USB 0.9.9](https://habr.com/ru/news/921154/?utm_campaign=921154&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Clonezilla Live 3.2.2-15](https://habr.com/ru/news/921172/?utm_campaign=921172&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD BIM СКС 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/917824/?utm_campaign=917824&utm_source=habrahabr&utm_medium=rss)
 - [Типы и компетенции аналитиков: бизнес vs системный. Где граница? Подкаст IT`s GNIVC](https://habr.com/ru/companies/gnivc/news/921178/?utm_campaign=921178&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Практикум» обучит 10 тысяч специалистов ИИ-профессиям до 2027 года](https://habr.com/ru/news/921138/?utm_campaign=921138&utm_source=habrahabr&utm_medium=rss)
-- [Открыт приём заявок на игровую премию «Наш Игропром 2025»](https://habr.com/ru/news/921128/?utm_campaign=921128&utm_source=habrahabr&utm_medium=rss)
-- [«Билайн» с начала года отразил более 1,5 тыс. масштабных DDoS-атак на свою IT-инфраструктуру](https://habr.com/ru/news/921050/?utm_campaign=921050&utm_source=habrahabr&utm_medium=rss)
-- [Инструмент Snipping Tool в Windows 11 получил функцию экспорта записи экрана в GIF](https://habr.com/ru/news/921036/?utm_campaign=921036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
