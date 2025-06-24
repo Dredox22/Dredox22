@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Президент РФ подписал закон о создании национального мессенджера](https://habr.com/ru/news/921412/?utm_campaign=921412&utm_source=habrahabr&utm_medium=rss)
+- [Свечи, LAN-кабели и мятые футболки: RTC — прорыв для роботов в реальном мире](https://habr.com/ru/companies/bothub/news/921398/?utm_campaign=921398&utm_source=habrahabr&utm_medium=rss)
+- [Российские банки предлагают обязать операторов прерывать звонок при признаках мошенничества](https://habr.com/ru/news/921388/?utm_campaign=921388&utm_source=habrahabr&utm_medium=rss)
 - [ViGaL: как игра в змейку помогла нейросети обогнать GPT-4o в математике](https://habr.com/ru/companies/bothub/news/921364/?utm_campaign=921364&utm_source=habrahabr&utm_medium=rss)
 - [GigaConf: более 2000 инженеров, разработчиков и представителей бизнеса](https://habr.com/ru/companies/sberbank/news/921308/?utm_campaign=921308&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Леста Игры» прокомментировала ситуацию с управлением и играми](https://habr.com/ru/news/921344/?utm_campaign=921344&utm_source=habrahabr&utm_medium=rss)
-- [Grok vs Google Sheets: Илон Маск замахнулся на электронные таблицы](https://habr.com/ru/companies/bothub/news/921338/?utm_campaign=921338&utm_source=habrahabr&utm_medium=rss)
-- [ИИ, который не ждёт датасетов: MIT представляет SEAL — фреймворк для мгновенного самоапдейта](https://habr.com/ru/companies/bothub/news/921324/?utm_campaign=921324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
