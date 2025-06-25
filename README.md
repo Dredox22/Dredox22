@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование Strategy Partners: российский рынок микроэлектроники к 2030 году приблизится к 800 млрд рублей](https://habr.com/ru/news/921816/?utm_campaign=921816&utm_source=habrahabr&utm_medium=rss)
+- [Митап MTC Web Services в Москве: инструменты работы с данными](https://habr.com/ru/companies/mws/news/921812/?utm_campaign=921812&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила новые проблемы, преследующие Chrome в Windows](https://habr.com/ru/news/921808/?utm_campaign=921808&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты — новый повод для беспокойства?](https://habr.com/ru/companies/bothub/news/921740/?utm_campaign=921740&utm_source=habrahabr&utm_medium=rss)
 - [Сервис «Облако Mail» запустил умный поиск дубликатов на базе ИИ](https://habr.com/ru/news/921800/?utm_campaign=921800&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft позволит получить дополнительный год для ряда обновлений Windows 10 бесплатно, но с условиями](https://habr.com/ru/news/921788/?utm_campaign=921788&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обучают ИИ генерировать длинные тексты, используя только метод обучения с подкреплением](https://habr.com/ru/companies/bothub/news/921716/?utm_campaign=921716&utm_source=habrahabr&utm_medium=rss)
-- [Elevenlabs представил 11ai — голосового помощника с MCP для интеграции в инструменты цифрового документооборота](https://habr.com/ru/companies/bothub/news/921706/?utm_campaign=921706&utm_source=habrahabr&utm_medium=rss)
-- [Google передает протокол Agent2Agent в Linux Foundation для создания открытого стандарта ИИ-агентов](https://habr.com/ru/companies/bothub/news/921694/?utm_campaign=921694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
