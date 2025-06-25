@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи обучают ИИ генерировать длинные тексты, используя только метод обучения с подкреплением](https://habr.com/ru/companies/bothub/news/921716/?utm_campaign=921716&utm_source=habrahabr&utm_medium=rss)
 - [Elevenlabs представил 11ai — голосового помощника с MCP для интеграции в инструменты цифрового документооборота](https://habr.com/ru/companies/bothub/news/921706/?utm_campaign=921706&utm_source=habrahabr&utm_medium=rss)
 - [Google передает протокол Agent2Agent в Linux Foundation для создания открытого стандарта ИИ-агентов](https://habr.com/ru/companies/bothub/news/921694/?utm_campaign=921694&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила агента с искусственным интеллектом в меню настроек Windows](https://habr.com/ru/companies/bothub/news/921692/?utm_campaign=921692&utm_source=habrahabr&utm_medium=rss)
 - [Администраторы групп Facebook** столкнулись с массовой блокировкой](https://habr.com/ru/news/921650/?utm_campaign=921650&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия InfoWatch Industrial Firewall поддерживает разбор 16 промышленных протоколов](https://habr.com/ru/companies/infowatch/news/921662/?utm_campaign=921662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
