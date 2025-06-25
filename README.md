@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел nginx 1.29](https://habr.com/ru/news/921560/?utm_campaign=921560&utm_source=habrahabr&utm_medium=rss)
 - [Прилетел кометой: закрытый тест ИИ-браузера Perplexity Comet стартовал на Windows](https://habr.com/ru/companies/bothub/news/921548/?utm_campaign=921548&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст выложил в открытый доступ код порта Godot 4.4 для ОС «Аврора 5»](https://habr.com/ru/news/921532/?utm_campaign=921532&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Технологии» проведёт ИИ-конференцию «Turbo ML Conf 2025»](https://habr.com/ru/news/921530/?utm_campaign=921530&utm_source=habrahabr&utm_medium=rss)
 - [Суд США признал законным обучение ИИ Claude на книгах, но за хранение пиратских копий разработчикам грозит штраф](https://habr.com/ru/news/921516/?utm_campaign=921516&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудникам Палаты представителей Конгресса США запретили использовать WhatsApp на служебных устройствах](https://habr.com/ru/news/921514/?utm_campaign=921514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
