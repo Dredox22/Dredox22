@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Администраторы групп Facebook** столкнулись с массовой блокировкой](https://habr.com/ru/news/921650/?utm_campaign=921650&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия InfoWatch Industrial Firewall поддерживает разбор 16 промышленных протоколов](https://habr.com/ru/companies/infowatch/news/921662/?utm_campaign=921662&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получила исправления для зависшего Центра обновления Windows](https://habr.com/ru/news/921554/?utm_campaign=921554&utm_source=habrahabr&utm_medium=rss)
 - [Innostage: Этичные хакеры — новый драйвер цифровой безопасности](https://habr.com/ru/companies/innostage/news/921592/?utm_campaign=921592&utm_source=habrahabr&utm_medium=rss)
 - [Roblox будет вознаграждать создателей контента за возвращение игроков на платформу](https://habr.com/ru/news/921606/?utm_campaign=921606&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали систему управления дамбой в Норвегии и открыли клапан до полного заполнения](https://habr.com/ru/news/921590/?utm_campaign=921590&utm_source=habrahabr&utm_medium=rss)
-- [Представлена новая спецификация PNG](https://habr.com/ru/news/921580/?utm_campaign=921580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
