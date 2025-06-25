@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Президент РФ подписал закон об уголовной ответственности для дропперов](https://habr.com/ru/news/921858/?utm_campaign=921858&utm_source=habrahabr&utm_medium=rss)
+- [Tencent обновила открытую нейросеть Hunyuan3D, теперь модель поддерживает физически корректный рендеринг](https://habr.com/ru/news/921854/?utm_campaign=921854&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи DeepSeek выпустили nano-vLLM — компактный движок для запуска языковых моделей](https://habr.com/ru/news/921848/?utm_campaign=921848&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила Gemini CLI — бесплатный open source ИИ-ассистент для командной строки](https://habr.com/ru/news/921842/?utm_campaign=921842&utm_source=habrahabr&utm_medium=rss)
 - [Вышел WinRAR 7.12 и RAR 7.12](https://habr.com/ru/news/921840/?utm_campaign=921840&utm_source=habrahabr&utm_medium=rss)
-- [Установка обновлений Windows 11 больше не будет требовать перезагрузки офисных ПК](https://habr.com/ru/news/921838/?utm_campaign=921838&utm_source=habrahabr&utm_medium=rss)
-- [На вершине рейтинга платформы HackerOne оказался ИИ-бот Xbow](https://habr.com/ru/news/921836/?utm_campaign=921836&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Strategy Partners: российский рынок микроэлектроники к 2030 году приблизится к 800 млрд рублей](https://habr.com/ru/news/921816/?utm_campaign=921816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
