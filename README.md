@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустила Gemini CLI — бесплатный open source ИИ-ассистент для командной строки](https://habr.com/ru/news/921842/?utm_campaign=921842&utm_source=habrahabr&utm_medium=rss)
+- [Вышел WinRAR 7.12 и RAR 7.12](https://habr.com/ru/news/921840/?utm_campaign=921840&utm_source=habrahabr&utm_medium=rss)
+- [Установка обновлений Windows 11 больше не будет требовать перезагрузки офисных ПК](https://habr.com/ru/news/921838/?utm_campaign=921838&utm_source=habrahabr&utm_medium=rss)
 - [На вершине рейтинга платформы HackerOne оказался ИИ-бот Xbow](https://habr.com/ru/news/921836/?utm_campaign=921836&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Strategy Partners: российский рынок микроэлектроники к 2030 году приблизится к 800 млрд рублей](https://habr.com/ru/news/921816/?utm_campaign=921816&utm_source=habrahabr&utm_medium=rss)
-- [Митап MTC Web Services в Москве: инструменты работы с данными](https://habr.com/ru/companies/mws/news/921812/?utm_campaign=921812&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила новые проблемы, преследующие Chrome в Windows](https://habr.com/ru/news/921808/?utm_campaign=921808&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты — новый повод для беспокойства?](https://habr.com/ru/companies/bothub/news/921740/?utm_campaign=921740&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
