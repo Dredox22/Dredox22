@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустила бесплатную модель Imagen 4 для перевода текста в картинку](https://habr.com/ru/news/921576/?utm_campaign=921576&utm_source=habrahabr&utm_medium=rss)
+- [Производители ПК обманывали строки авторских прав в BIOS для получения полных версий пробного ПО](https://habr.com/ru/news/921574/?utm_campaign=921574&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD Конструкции PS 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/917844/?utm_campaign=917844&utm_source=habrahabr&utm_medium=rss)
 - [Вышел nginx 1.29](https://habr.com/ru/news/921560/?utm_campaign=921560&utm_source=habrahabr&utm_medium=rss)
 - [Прилетел кометой: закрытый тест ИИ-браузера Perplexity Comet стартовал на Windows](https://habr.com/ru/companies/bothub/news/921548/?utm_campaign=921548&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст выложил в открытый доступ код порта Godot 4.4 для ОС «Аврора 5»](https://habr.com/ru/news/921532/?utm_campaign=921532&utm_source=habrahabr&utm_medium=rss)
-- [«Т-Технологии» проведёт ИИ-конференцию «Turbo ML Conf 2025»](https://habr.com/ru/news/921530/?utm_campaign=921530&utm_source=habrahabr&utm_medium=rss)
-- [Суд США признал законным обучение ИИ Claude на книгах, но за хранение пиратских копий разработчикам грозит штраф](https://habr.com/ru/news/921516/?utm_campaign=921516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
