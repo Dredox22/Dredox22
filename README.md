@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 получила исправления для зависшего Центра обновления Windows](https://habr.com/ru/news/921554/?utm_campaign=921554&utm_source=habrahabr&utm_medium=rss)
+- [Innostage: Этичные хакеры — новый драйвер цифровой безопасности](https://habr.com/ru/companies/innostage/news/921592/?utm_campaign=921592&utm_source=habrahabr&utm_medium=rss)
+- [Roblox будет вознаграждать создателей контента за возвращение игроков на платформу](https://habr.com/ru/news/921606/?utm_campaign=921606&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры взломали систему управления дамбой в Норвегии и открыли клапан до полного заполнения](https://habr.com/ru/news/921590/?utm_campaign=921590&utm_source=habrahabr&utm_medium=rss)
 - [Представлена новая спецификация PNG](https://habr.com/ru/news/921580/?utm_campaign=921580&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила бесплатную модель Imagen 4 для перевода текста в картинку](https://habr.com/ru/news/921576/?utm_campaign=921576&utm_source=habrahabr&utm_medium=rss)
-- [Производители ПК обманывали строки авторских прав в BIOS для получения полных версий пробного ПО](https://habr.com/ru/news/921574/?utm_campaign=921574&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD Конструкции PS 25: новая версия на Платформе nanoCAD](https://habr.com/ru/companies/nanosoft/news/917844/?utm_campaign=917844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
