@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Swift можно будет разрабатывать Android-приложения](https://habr.com/ru/news/922008/?utm_campaign=922008&utm_source=habrahabr&utm_medium=rss)
+- [Истек срок действия патента Sony на слайдерные игровые устройства, открывая путь для ретро-революции](https://habr.com/ru/companies/onlinepatent/news/921988/?utm_campaign=921988&utm_source=habrahabr&utm_medium=rss)
+- [Суд Санкт-Петербурга вынес обвинительный приговор ещё четырём предполагаемым участникам группы REvil](https://habr.com/ru/news/921986/?utm_campaign=921986&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Anthropic теперь могут создавать приложения прямо из чат-бота Claude](https://habr.com/ru/news/921958/?utm_campaign=921958&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft не удалось исправить звук запуска Windows Vista в Windows 11](https://habr.com/ru/news/921952/?utm_campaign=921952&utm_source=habrahabr&utm_medium=rss)
-- [Вышла бета-версия магазина ассетов Asset Store для движка Godot](https://habr.com/ru/news/921946/?utm_campaign=921946&utm_source=habrahabr&utm_medium=rss)
-- [В Нижнем Новгороде состоялась конференция «Цифровая экономика России», посвященная технологической независимости](https://habr.com/ru/companies/nanosoft/news/921860/?utm_campaign=921860&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp запустит ИИ-сводки для личных сообщений пользователей](https://habr.com/ru/news/921944/?utm_campaign=921944&utm_source=habrahabr&utm_medium=rss)
-- [Рабочая группа Swift Android](https://habr.com/ru/news/921934/?utm_campaign=921934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
