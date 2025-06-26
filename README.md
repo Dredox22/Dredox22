@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские школьники заняли второе место в командном зачёте на первой Международной олимпиаде по кибербезопасности](https://habr.com/ru/news/922204/?utm_campaign=922204&utm_source=habrahabr&utm_medium=rss)
+- [Смесь кулинарии и искусственного интеллекта: готовим шакшуку в новом выпуске шоу «Инфобез со вкусом»](https://habr.com/ru/companies/gaz-is/news/922190/?utm_campaign=922190&utm_source=habrahabr&utm_medium=rss)
+- [Книга с майнером: аналитики F6 обнаружили вредоносные программы в бесплатных онлайн-библиотеках](https://habr.com/ru/companies/F6/news/921976/?utm_campaign=921976&utm_source=habrahabr&utm_medium=rss)
 - [Luxms, «ДАР», Arenadata и Selectel выпустили совместную аналитическую платформу](https://habr.com/ru/companies/luxms_bi/news/922140/?utm_campaign=922140&utm_source=habrahabr&utm_medium=rss)
 - [Google предложила провайдерам РФ сделать подключение на своё кэширующее оборудование в Варшаве](https://habr.com/ru/news/922108/?utm_campaign=922108&utm_source=habrahabr&utm_medium=rss)
-- [Запускаем GPUaaS c NVIDIA H200](https://habr.com/ru/companies/rt-dc/news/922076/?utm_campaign=922076&utm_source=habrahabr&utm_medium=rss)
-- [Ринго 2.2: решение для управления устройствами Apple теперь с SelfService](https://habr.com/ru/companies/ringo_mdm/news/919310/?utm_campaign=919310&utm_source=habrahabr&utm_medium=rss)
-- [Creative Commons представляет CC signals — платформу для открытой экосистемы ИИ](https://habr.com/ru/companies/bothub/news/922068/?utm_campaign=922068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
