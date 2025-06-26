@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла кроссплатформенная утилита RED OS MediaWriter для создания загрузочных носителей с РЕД ОС](https://habr.com/ru/news/921920/?utm_campaign=921920&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla перевела репозиторий с кодом движка по распознаванию речи DeepSpeech на GitHub в архивный режим &lpar;Public archive&rpar;](https://habr.com/ru/news/921918/?utm_campaign=921918&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 138](https://habr.com/ru/news/921916/?utm_campaign=921916&utm_source=habrahabr&utm_medium=rss)
 - [Cтартап по созданию гигантских плавучих климатических станций](https://habr.com/ru/news/921912/?utm_campaign=921912&utm_source=habrahabr&utm_medium=rss)
 - [Среди пользователей криптоматов в Австралии оказались мошенники и их жертвы](https://habr.com/ru/news/921862/?utm_campaign=921862&utm_source=habrahabr&utm_medium=rss)
-- [Президент РФ подписал закон об уголовной ответственности для дропперов](https://habr.com/ru/news/921858/?utm_campaign=921858&utm_source=habrahabr&utm_medium=rss)
-- [Tencent обновила открытую нейросеть Hunyuan3D, теперь модель поддерживает физически корректный рендеринг](https://habr.com/ru/news/921854/?utm_campaign=921854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
