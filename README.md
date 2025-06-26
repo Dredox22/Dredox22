@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учёные из России открыли доступ к технологии защиты голосовых данных](https://habr.com/ru/news/922356/?utm_campaign=922356&utm_source=habrahabr&utm_medium=rss)
+- [В «Шедевруме» появился детский режим «Безопасное творчество»](https://habr.com/ru/news/922354/?utm_campaign=922354&utm_source=habrahabr&utm_medium=rss)
+- [ОМП представила обновление платформы управления «Аврора Центр» 5.3.0](https://habr.com/ru/news/922348/?utm_campaign=922348&utm_source=habrahabr&utm_medium=rss)
 - [Автопроизводители отказываются использовать CarPlay Ultra из-за того, что система слишком глубоко интегрируется в ПО](https://habr.com/ru/news/922336/?utm_campaign=922336&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Gemma 3n — мультимодальный ИИ, который пойдет на смартфоне и ноутбуке](https://habr.com/ru/news/922304/?utm_campaign=922304&utm_source=habrahabr&utm_medium=rss)
-- [Российские школьники заняли второе место в командном зачёте по золоту на первой Международной олимпиаде по кибербезу](https://habr.com/ru/news/922278/?utm_campaign=922278&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» на OS DAY 2025: как применять ИИ в безопасной разработке ПО](https://habr.com/ru/companies/basealtspo/news/922276/?utm_campaign=922276&utm_source=habrahabr&utm_medium=rss)
-- [Libercat в замкнутой программной среде &lpar;ЗПС&rpar;: технический вебинар от команды Axiom JDK](https://habr.com/ru/companies/axiomjdk/news/922258/?utm_campaign=922258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
