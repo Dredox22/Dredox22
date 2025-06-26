@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На Swift можно будет разрабатывать Android-приложения](https://habr.com/ru/news/922008/?utm_campaign=922008&utm_source=habrahabr&utm_medium=rss)
-- [Истек срок действия патента Sony на слайдерные игровые устройства, открывая путь для ретро-революции](https://habr.com/ru/companies/onlinepatent/news/921988/?utm_campaign=921988&utm_source=habrahabr&utm_medium=rss)
-- [Суд Санкт-Петербурга вынес обвинительный приговор ещё четырём предполагаемым участникам группы REvil](https://habr.com/ru/news/921986/?utm_campaign=921986&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Anthropic теперь могут создавать приложения прямо из чат-бота Claude](https://habr.com/ru/news/921958/?utm_campaign=921958&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft не удалось исправить звук запуска Windows Vista в Windows 11](https://habr.com/ru/news/921952/?utm_campaign=921952&utm_source=habrahabr&utm_medium=rss)
+- [Вышли версии AnduinOS 1.3.3, 1.2.6 и 1.1.6](https://habr.com/ru/news/922060/?utm_campaign=922060&utm_source=habrahabr&utm_medium=rss)
+- [Расширение Chrome блокирует социальные сети, пока пользователь не закричит «Я неудачник»](https://habr.com/ru/news/922048/?utm_campaign=922048&utm_source=habrahabr&utm_medium=rss)
+- [Релиз менеджера файлов Total Commander 11.55](https://habr.com/ru/news/922040/?utm_campaign=922040&utm_source=habrahabr&utm_medium=rss)
+- [Выпущена спецификация HDMI 2.2, которая удваивает пропускную способность и поддерживает разрешение 16K при 60](https://habr.com/ru/news/922030/?utm_campaign=922030&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Death Stranding 2: On the Beach](https://habr.com/ru/news/922024/?utm_campaign=922024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
