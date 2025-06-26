@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft не удалось исправить звук запуска Windows Vista в Windows 11](https://habr.com/ru/news/921952/?utm_campaign=921952&utm_source=habrahabr&utm_medium=rss)
+- [Вышла бета-версия магазина ассетов Asset Store для движка Godot](https://habr.com/ru/news/921946/?utm_campaign=921946&utm_source=habrahabr&utm_medium=rss)
+- [В Нижнем Новгороде состоялась конференция «Цифровая экономика России», посвященная технологической независимости](https://habr.com/ru/companies/nanosoft/news/921860/?utm_campaign=921860&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp запустит ИИ-сводки для личных сообщений пользователей](https://habr.com/ru/news/921944/?utm_campaign=921944&utm_source=habrahabr&utm_medium=rss)
 - [Рабочая группа Swift Android](https://habr.com/ru/news/921934/?utm_campaign=921934&utm_source=habrahabr&utm_medium=rss)
-- [Google Earth отмечает 20-летие и дарит путешествие во времени](https://habr.com/ru/news/921844/?utm_campaign=921844&utm_source=habrahabr&utm_medium=rss)
-- [Вышла кроссплатформенная утилита RED OS MediaWriter для создания загрузочных носителей с РЕД ОС](https://habr.com/ru/news/921920/?utm_campaign=921920&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla перевела репозиторий с кодом движка по распознаванию речи DeepSpeech на GitHub в архивный режим &lpar;Public archive&rpar;](https://habr.com/ru/news/921918/?utm_campaign=921918&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 138](https://habr.com/ru/news/921916/?utm_campaign=921916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
