@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google предложила провайдерам РФ сделать подключение на своё кэширующее оборудование в Варшаве](https://habr.com/ru/news/922108/?utm_campaign=922108&utm_source=habrahabr&utm_medium=rss)
+- [Запускаем GPUaaS c NVIDIA H200](https://habr.com/ru/companies/rt-dc/news/922076/?utm_campaign=922076&utm_source=habrahabr&utm_medium=rss)
+- [Ринго 2.2: решение для управления устройствами Apple теперь с SelfService](https://habr.com/ru/companies/ringo_mdm/news/919310/?utm_campaign=919310&utm_source=habrahabr&utm_medium=rss)
+- [Creative Commons представляет CC signals — платформу для открытой экосистемы ИИ](https://habr.com/ru/companies/bothub/news/922068/?utm_campaign=922068&utm_source=habrahabr&utm_medium=rss)
 - [Вышли версии AnduinOS 1.3.3, 1.2.6 и 1.1.6](https://habr.com/ru/news/922060/?utm_campaign=922060&utm_source=habrahabr&utm_medium=rss)
-- [Расширение Chrome блокирует социальные сети, пока пользователь не закричит «Я неудачник»](https://habr.com/ru/news/922048/?utm_campaign=922048&utm_source=habrahabr&utm_medium=rss)
-- [Релиз менеджера файлов Total Commander 11.55](https://habr.com/ru/news/922040/?utm_campaign=922040&utm_source=habrahabr&utm_medium=rss)
-- [Выпущена спецификация HDMI 2.2, которая удваивает пропускную способность и поддерживает разрешение 16K при 60](https://habr.com/ru/news/922030/?utm_campaign=922030&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Death Stranding 2: On the Beach](https://habr.com/ru/news/922024/?utm_campaign=922024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
