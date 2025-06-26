@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские школьники заняли второе место в командном зачёте по золоту на первой Международной олимпиаде по кибербезу](https://habr.com/ru/news/922278/?utm_campaign=922278&utm_source=habrahabr&utm_medium=rss)
+- [«Базальт СПО» на OS DAY 2025: как применять ИИ в безопасной разработке ПО](https://habr.com/ru/companies/basealtspo/news/922276/?utm_campaign=922276&utm_source=habrahabr&utm_medium=rss)
 - [Libercat в замкнутой программной среде &lpar;ЗПС&rpar;: технический вебинар от команды Axiom JDK](https://habr.com/ru/companies/axiomjdk/news/922258/?utm_campaign=922258&utm_source=habrahabr&utm_medium=rss)
 - [Смесь кулинарии и искусственного интеллекта: готовим шакшуку в новом выпуске шоу «Инфобез со вкусом»](https://habr.com/ru/companies/gaz-is/news/922190/?utm_campaign=922190&utm_source=habrahabr&utm_medium=rss)
 - [Книга с майнером: аналитики F6 обнаружили вредоносные программы в бесплатных онлайн-библиотеках](https://habr.com/ru/companies/F6/news/921976/?utm_campaign=921976&utm_source=habrahabr&utm_medium=rss)
-- [Luxms, «ДАР», Arenadata и Selectel выпустили совместную аналитическую платформу](https://habr.com/ru/companies/luxms_bi/news/922140/?utm_campaign=922140&utm_source=habrahabr&utm_medium=rss)
-- [Google предложила провайдерам РФ сделать подключение на своё кэширующее оборудование в Варшаве](https://habr.com/ru/news/922108/?utm_campaign=922108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
