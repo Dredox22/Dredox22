@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Браузер Psylo борется с фингерпринтингом за счёт присваивания каждой вкладке собственного IP-адреса](https://habr.com/ru/news/922406/?utm_campaign=922406&utm_source=habrahabr&utm_medium=rss)
+- [Компания Teamlead переходит с Jira на решения EvaTeam для управления ИТ-проектами](https://habr.com/ru/companies/evateam/news/922412/?utm_campaign=922412&utm_source=habrahabr&utm_medium=rss)
+- [Платформа АТБ-АТОМ-1 и DLP «СёрчИнформ КИБ» сформируют безопасные рабочие места для сотрудников компаний](https://habr.com/ru/companies/searchinform/news/922410/?utm_campaign=922410&utm_source=habrahabr&utm_medium=rss)
+- [Писатели подали в суд на Microsoft из-за использования их книг для обучения ИИ](https://habr.com/ru/news/922400/?utm_campaign=922400&utm_source=habrahabr&utm_medium=rss)
 - [Минспорта РФ обновило стандарт физподготовки для киберспортсменов](https://habr.com/ru/news/922396/?utm_campaign=922396&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования PERCo для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/917850/?utm_campaign=917850&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.88.0](https://habr.com/ru/news/922374/?utm_campaign=922374&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустил галерею с объявлениями частных специалистов](https://habr.com/ru/news/922360/?utm_campaign=922360&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из России открыли доступ к технологии защиты голосовых данных](https://habr.com/ru/news/922356/?utm_campaign=922356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
