@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Браузер Psylo борется с фингерпринтингом за счёт присваивания каждой вкладке собственного IP-адреса](https://habr.com/ru/news/922406/?utm_campaign=922406&utm_source=habrahabr&utm_medium=rss)
-- [Компания Teamlead переходит с Jira на решения EvaTeam для управления ИТ-проектами](https://habr.com/ru/companies/evateam/news/922412/?utm_campaign=922412&utm_source=habrahabr&utm_medium=rss)
-- [Платформа АТБ-АТОМ-1 и DLP «СёрчИнформ КИБ» сформируют безопасные рабочие места для сотрудников компаний](https://habr.com/ru/companies/searchinform/news/922410/?utm_campaign=922410&utm_source=habrahabr&utm_medium=rss)
-- [Писатели подали в суд на Microsoft из-за использования их книг для обучения ИИ](https://habr.com/ru/news/922400/?utm_campaign=922400&utm_source=habrahabr&utm_medium=rss)
-- [Минспорта РФ обновило стандарт физподготовки для киберспортсменов](https://habr.com/ru/news/922396/?utm_campaign=922396&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор Hinge: «Общение с чат-ботами — это игра с огнём»](https://habr.com/ru/news/922446/?utm_campaign=922446&utm_source=habrahabr&utm_medium=rss)
+- [IVA Technologies получила национальную премию «Приоритет: Цифра — 2025» за создание платформы IVA One](https://habr.com/ru/companies/iva_tech/news/922444/?utm_campaign=922444&utm_source=habrahabr&utm_medium=rss)
+- [Ошибка в 689 моделях принтеров Brother раскрывает пароли администратора по умолчанию](https://habr.com/ru/news/922434/?utm_campaign=922434&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries начинает тестирование персонального ассистента на базе ИИ](https://habr.com/ru/news/922426/?utm_campaign=922426&utm_source=habrahabr&utm_medium=rss)
+- [Опция Direct Send в Microsoft 365 используется для фишинга от имени внутренних пользователей](https://habr.com/ru/news/922414/?utm_campaign=922414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
