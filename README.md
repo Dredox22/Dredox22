@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выводит антивирусный софт из ядра Windows, чтобы предотвратить сбои в стиле CrowdStrike](https://habr.com/ru/news/922564/?utm_campaign=922564&utm_source=habrahabr&utm_medium=rss)
+- [Китай запускает единый государственный интернет‑идентификатор](https://habr.com/ru/news/922560/?utm_campaign=922560&utm_source=habrahabr&utm_medium=rss)
 - [В Cloudflare пояснили, как в РФ ограничивают трафик до их сетей, но решения проблемы у платформы нет](https://habr.com/ru/news/922532/?utm_campaign=922532&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия инструмента мониторинга HWiNFO 8.28](https://habr.com/ru/news/922520/?utm_campaign=922520&utm_source=habrahabr&utm_medium=rss)
 - [«Синий экран смерти» — всё: Windows избавляется от BSoD спустя почти 40 лет](https://habr.com/ru/news/922312/?utm_campaign=922312&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Tails 6.17](https://habr.com/ru/news/922496/?utm_campaign=922496&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила ошибку в Outlook, которая приводила к сбоям при открытии писем](https://habr.com/ru/news/922352/?utm_campaign=922352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
