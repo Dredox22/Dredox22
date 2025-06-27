@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минспорта РФ обновило стандарт физподготовки для киберспортсменов](https://habr.com/ru/news/922396/?utm_campaign=922396&utm_source=habrahabr&utm_medium=rss)
+- [База оборудования PERCo для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/917850/?utm_campaign=917850&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.88.0](https://habr.com/ru/news/922374/?utm_campaign=922374&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил галерею с объявлениями частных специалистов](https://habr.com/ru/news/922360/?utm_campaign=922360&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из России открыли доступ к технологии защиты голосовых данных](https://habr.com/ru/news/922356/?utm_campaign=922356&utm_source=habrahabr&utm_medium=rss)
-- [В «Шедевруме» появился детский режим «Безопасное творчество»](https://habr.com/ru/news/922354/?utm_campaign=922354&utm_source=habrahabr&utm_medium=rss)
-- [ОМП представила обновление платформы управления «Аврора Центр» 5.3.0](https://habr.com/ru/news/922348/?utm_campaign=922348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
