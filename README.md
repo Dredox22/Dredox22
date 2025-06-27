@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Microsoft SharePoint появились Modern Page Templates — шаблоны для быстрого создания страниц](https://habr.com/ru/news/922676/?utm_campaign=922676&utm_source=habrahabr&utm_medium=rss)
 - [Опрос К2Тех: более 60% компаний увеличат инвестиции в большие данные к 2026 году](https://habr.com/ru/companies/k2tech/news/922600/?utm_campaign=922600&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выводит антивирусный софт из ядра Windows, чтобы предотвратить сбои в стиле CrowdStrike](https://habr.com/ru/news/922564/?utm_campaign=922564&utm_source=habrahabr&utm_medium=rss)
 - [Китай запускает единый государственный интернет‑идентификатор](https://habr.com/ru/news/922560/?utm_campaign=922560&utm_source=habrahabr&utm_medium=rss)
 - [В Cloudflare пояснили, как в РФ ограничивают трафик до их сетей, но решения проблемы у платформы нет](https://habr.com/ru/news/922532/?utm_campaign=922532&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия инструмента мониторинга HWiNFO 8.28](https://habr.com/ru/news/922520/?utm_campaign=922520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
