@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Cloudflare пояснили, как в РФ ограничивают трафик до их сетей, но решения проблемы у платформы нет](https://habr.com/ru/news/922532/?utm_campaign=922532&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия инструмента мониторинга HWiNFO 8.28](https://habr.com/ru/news/922520/?utm_campaign=922520&utm_source=habrahabr&utm_medium=rss)
 - [«Синий экран смерти» — всё: Windows избавляется от BSoD спустя почти 40 лет](https://habr.com/ru/news/922312/?utm_campaign=922312&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tails 6.17](https://habr.com/ru/news/922496/?utm_campaign=922496&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила ошибку в Outlook, которая приводила к сбоям при открытии писем](https://habr.com/ru/news/922352/?utm_campaign=922352&utm_source=habrahabr&utm_medium=rss)
-- [Учёные: методы машинного обучения превосходят традиционные подходы в распознавании лжи](https://habr.com/ru/news/922452/?utm_campaign=922452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
