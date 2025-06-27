@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple сформировала рабочую группу для продвижении Swift в качестве языка для разработки мобильных приложений для Android](https://habr.com/ru/news/922492/?utm_campaign=922492&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила ошибку в Outlook, которая приводила к сбоям при открытии писем](https://habr.com/ru/news/922352/?utm_campaign=922352&utm_source=habrahabr&utm_medium=rss)
+- [Учёные: методы машинного обучения превосходят традиционные подходы в распознавании лжи](https://habr.com/ru/news/922452/?utm_campaign=922452&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила приложение для виртуальной примерки одежды](https://habr.com/ru/news/922438/?utm_campaign=922438&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор Hinge: «Общение с чат-ботами — это игра с огнём»](https://habr.com/ru/news/922446/?utm_campaign=922446&utm_source=habrahabr&utm_medium=rss)
-- [IVA Technologies получила национальную премию «Приоритет: Цифра — 2025» за создание платформы IVA One](https://habr.com/ru/companies/iva_tech/news/922444/?utm_campaign=922444&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка в 689 моделях принтеров Brother раскрывает пароли администратора по умолчанию](https://habr.com/ru/news/922434/?utm_campaign=922434&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries начинает тестирование персонального ассистента на базе ИИ](https://habr.com/ru/news/922426/?utm_campaign=922426&utm_source=habrahabr&utm_medium=rss)
-- [Опция Direct Send в Microsoft 365 используется для фишинга от имени внутренних пользователей](https://habr.com/ru/news/922414/?utm_campaign=922414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
