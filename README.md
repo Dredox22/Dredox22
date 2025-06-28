@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK вывела на рынок собственные решения по информационной безопасности](https://habr.com/ru/news/922968/?utm_campaign=922968&utm_source=habrahabr&utm_medium=rss)
 - [Руководство Reddit раздумывает о введении верификации через сканирование глазного яблока для защиты платформы от ботов](https://habr.com/ru/news/922956/?utm_campaign=922956&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор Cloudflare заявил, что издатели сталкиваются с угрозой существованию из-за ИИ](https://habr.com/ru/news/922948/?utm_campaign=922948&utm_source=habrahabr&utm_medium=rss)
 - [3,4 трлн евро на кону. Лоббисты просят власти Евросоюза отложить вступление AI Act](https://habr.com/ru/news/922930/?utm_campaign=922930&utm_source=habrahabr&utm_medium=rss)
 - [Линус Товальдс сообщил автору Bcachefs Кенту Оверстриту, что намерен исключить код Bcachefs из ядра Linux 6.17](https://habr.com/ru/news/922914/?utm_campaign=922914&utm_source=habrahabr&utm_medium=rss)
-- [Приложение для иностранцев ruID доступно для скачивания](https://habr.com/ru/news/922912/?utm_campaign=922912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
