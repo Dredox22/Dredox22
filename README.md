@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Германии попросили Apple и Google удалить DeepSeek из магазинов приложений](https://habr.com/ru/news/922774/?utm_campaign=922774&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Oracle Linux 10](https://habr.com/ru/news/922708/?utm_campaign=922708&utm_source=habrahabr&utm_medium=rss)
 - [Представлен мультимедийный сервер PipeWire 1.4.6 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/922718/?utm_campaign=922718&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого DHCP-сервера Kea 3.0](https://habr.com/ru/news/922696/?utm_campaign=922696&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники просят ChatGPT, а не Copilot — в Microsoft злятся и снижают цену](https://habr.com/ru/news/922706/?utm_campaign=922706&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Jakarta EE 11 — крупнейшее обновление платформы с упором на Java 21, облачные приложения и производительность](https://habr.com/ru/news/922700/?utm_campaign=922700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
