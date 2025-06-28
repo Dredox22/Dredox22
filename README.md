@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube добавляет карусель результатов поиска в стиле AI Overviews](https://habr.com/ru/companies/bothub/news/922850/?utm_campaign=922850&utm_source=habrahabr&utm_medium=rss)
+- [Grok 3.5 переименован в Grok 4 и выйдет после 4 июля — Илон Маск](https://habr.com/ru/news/922834/?utm_campaign=922834&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Windows 11 25H2 выйдет позже в этом году](https://habr.com/ru/news/922826/?utm_campaign=922826&utm_source=habrahabr&utm_medium=rss)
 - [Датчик нового поколения от Apple, проблемы у OpenAI из-за товарного знака и истекший патент Sony: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/922556/?utm_campaign=922556&utm_source=habrahabr&utm_medium=rss)
 - [Google запускает Offerwall для увеличения доходов издателей из-за внедрения ИИ-поиска](https://habr.com/ru/news/922792/?utm_campaign=922792&utm_source=habrahabr&utm_medium=rss)
-- [В Германии попросили Apple и Google удалить DeepSeek из магазинов приложений](https://habr.com/ru/news/922774/?utm_campaign=922774&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива Oracle Linux 10](https://habr.com/ru/news/922708/?utm_campaign=922708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
