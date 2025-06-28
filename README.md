@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запускает Offerwall для увеличения доходов издателей из-за внедрения ИИ-поиска](https://habr.com/ru/news/922792/?utm_campaign=922792&utm_source=habrahabr&utm_medium=rss)
 - [В Германии попросили Apple и Google удалить DeepSeek из магазинов приложений](https://habr.com/ru/news/922774/?utm_campaign=922774&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Oracle Linux 10](https://habr.com/ru/news/922708/?utm_campaign=922708&utm_source=habrahabr&utm_medium=rss)
 - [Представлен мультимедийный сервер PipeWire 1.4.6 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/922718/?utm_campaign=922718&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого DHCP-сервера Kea 3.0](https://habr.com/ru/news/922696/?utm_campaign=922696&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудники просят ChatGPT, а не Copilot — в Microsoft злятся и снижают цену](https://habr.com/ru/news/922706/?utm_campaign=922706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
