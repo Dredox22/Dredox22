@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление мобильной ОС «РОСА Мобайл»](https://habr.com/ru/news/922890/?utm_campaign=922890&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструмента для сетевого мониторинга Sniffnet 1.4.0](https://habr.com/ru/news/922804/?utm_campaign=922804&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI нанимает команду стартапа Crossing Minds, занимающегося рекомендациями на основе ИИ](https://habr.com/ru/companies/bothub/news/922872/?utm_campaign=922872&utm_source=habrahabr&utm_medium=rss)
 - [Google улучшает функцию Ask Photos: поиск по фотографиям станет быстрее](https://habr.com/ru/companies/bothub/news/922866/?utm_campaign=922866&utm_source=habrahabr&utm_medium=rss)
 - [YouTube добавляет карусель результатов поиска в стиле AI Overviews](https://habr.com/ru/companies/bothub/news/922850/?utm_campaign=922850&utm_source=habrahabr&utm_medium=rss)
-- [Grok 3.5 переименован в Grok 4 и выйдет после 4 июля — Илон Маск](https://habr.com/ru/news/922834/?utm_campaign=922834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
