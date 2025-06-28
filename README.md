@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен мультимедийный сервер PipeWire 1.4.6 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/922718/?utm_campaign=922718&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого DHCP-сервера Kea 3.0](https://habr.com/ru/news/922696/?utm_campaign=922696&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники просят ChatGPT, а не Copilot — в Microsoft злятся и снижают цену](https://habr.com/ru/news/922706/?utm_campaign=922706&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Jakarta EE 11 — крупнейшее обновление платформы с упором на Java 21, облачные приложения и производительность](https://habr.com/ru/news/922700/?utm_campaign=922700&utm_source=habrahabr&utm_medium=rss)
 - [«Балтика» переходит на российскую систему бизнес-аналитики Luxms BI](https://habr.com/ru/companies/luxms_bi/news/922690/?utm_campaign=922690&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft SharePoint появились Modern Page Templates — шаблоны для быстрого создания страниц](https://habr.com/ru/news/922676/?utm_campaign=922676&utm_source=habrahabr&utm_medium=rss)
-- [Опрос К2Тех: более 60% компаний увеличат инвестиции в большие данные к 2026 году](https://habr.com/ru/companies/k2tech/news/922600/?utm_campaign=922600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
