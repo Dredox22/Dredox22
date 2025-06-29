@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Encrypt прекращает рассылку уведомлений об истечении срока действия сертификатов](https://habr.com/ru/news/923154/?utm_campaign=923154&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Ростех» представила оборудование для защиты северной инфраструктуры в рамках вечной мерзлоты](https://habr.com/ru/news/923156/?utm_campaign=923156&utm_source=habrahabr&utm_medium=rss)
 - [Физики из США представили самый надёжный генератор случайных чисел на базе квантовой запутанности и технологии блокчейн](https://habr.com/ru/news/923148/?utm_campaign=923148&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑Банк» запустил ИИ‑ассистента для планирования путешествий](https://habr.com/ru/news/923130/?utm_campaign=923130&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Vermillio создаёт инструмент для поиска сгенерированных ИИ частей песен](https://habr.com/ru/news/923124/?utm_campaign=923124&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи говорят, что, возможно, они нашли способ преодолеть «стену данных»](https://habr.com/ru/companies/bothub/news/923100/?utm_campaign=923100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
