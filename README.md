@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Создатель Node.js продолжает настойчиво добиваться от Oracle сделать общедоступным товарный знак JavaScript](https://habr.com/ru/news/923072/?utm_campaign=923072&utm_source=habrahabr&utm_medium=rss)
 - [OmniGen 2 сочетает в себе генерацию изображений и текста, как GPT-4o, но имеет открытый исходный код](https://habr.com/ru/companies/bothub/news/923054/?utm_campaign=923054&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic назначила Claude управлять торговым автоматом. ИИ-агент провалился за месяц](https://habr.com/ru/news/923042/?utm_campaign=923042&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Pfizer о причинах трудностей больших языковых моделей при решении задач](https://habr.com/ru/companies/bothub/news/923036/?utm_campaign=923036&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила руководство по ключам ESU Windows 10 для офисных ПК без поддержки Windows 11](https://habr.com/ru/news/923020/?utm_campaign=923020&utm_source=habrahabr&utm_medium=rss)
-- [Discord запустили на ПК с Windows 95 и Windows NT 3.1](https://habr.com/ru/news/923012/?utm_campaign=923012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
