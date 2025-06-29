@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т‑Банк» запустил ИИ‑ассистента для планирования путешествий](https://habr.com/ru/news/923130/?utm_campaign=923130&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Vermillio создаёт инструмент для поиска сгенерированных ИИ частей песен](https://habr.com/ru/news/923124/?utm_campaign=923124&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи говорят, что, возможно, они нашли способ преодолеть «стену данных»](https://habr.com/ru/companies/bothub/news/923100/?utm_campaign=923100&utm_source=habrahabr&utm_medium=rss)
 - [Писатели призвали издательства ограничить использование ИИ](https://habr.com/ru/news/923090/?utm_campaign=923090&utm_source=habrahabr&utm_medium=rss)
 - [Создатель Node.js продолжает настойчиво добиваться от Oracle сделать общедоступным товарный знак JavaScript](https://habr.com/ru/news/923072/?utm_campaign=923072&utm_source=habrahabr&utm_medium=rss)
-- [OmniGen 2 сочетает в себе генерацию изображений и текста, как GPT-4o, но имеет открытый исходный код](https://habr.com/ru/companies/bothub/news/923054/?utm_campaign=923054&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic назначила Claude управлять торговым автоматом. ИИ-агент провалился за месяц](https://habr.com/ru/news/923042/?utm_campaign=923042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
