@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В приложении Pixel Camera появился специальный обучающий раздел](https://habr.com/ru/news/923008/?utm_campaign=923008&utm_source=habrahabr&utm_medium=rss)
+- [Сроки сертификатов для Secure Boot в Windows 11 скоро истекут](https://habr.com/ru/news/923006/?utm_campaign=923006&utm_source=habrahabr&utm_medium=rss)
 - [Канада приказала китайской Hikvision прекратить работу в стране из-за угрозы национальной безопасности](https://habr.com/ru/news/923000/?utm_campaign=923000&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Media Player Classic — Home Cinema 2.5.0](https://habr.com/ru/news/922808/?utm_campaign=922808&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Cjam 2.0.0.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/922992/?utm_campaign=922992&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск PasteBar 0.7 — открытого интеллектуального менеджера буфера обмена для Windows и macOS](https://habr.com/ru/news/922822/?utm_campaign=922822&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wine 10.11](https://habr.com/ru/news/922778/?utm_campaign=922778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
