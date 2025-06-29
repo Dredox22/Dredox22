@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для ChatGPT тестируют режим совместной работы. Его запуск усложнит отношения с Microsoft](https://habr.com/ru/news/923210/?utm_campaign=923210&utm_source=habrahabr&utm_medium=rss)
 - [За последние 12 месяцев количество поисковых запросов по вайб-маркетингу подскочило на 686%](https://habr.com/ru/news/923188/?utm_campaign=923188&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» представил первый серийный российский сканер микропрепаратов на базе ИИ](https://habr.com/ru/news/923184/?utm_campaign=923184&utm_source=habrahabr&utm_medium=rss)
 - [Let&#39;s Encrypt прекращает рассылку уведомлений об истечении срока действия сертификатов](https://habr.com/ru/news/923154/?utm_campaign=923154&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Ростех» представила оборудование для защиты северной инфраструктуры в рамках вечной мерзлоты](https://habr.com/ru/news/923156/?utm_campaign=923156&utm_source=habrahabr&utm_medium=rss)
-- [Физики из США представили самый надёжный генератор случайных чисел на базе квантовой запутанности и технологии блокчейн](https://habr.com/ru/news/923148/?utm_campaign=923148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
