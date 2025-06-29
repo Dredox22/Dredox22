@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование Pfizer о причинах трудностей больших языковых моделей при решении задач](https://habr.com/ru/companies/bothub/news/923036/?utm_campaign=923036&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила руководство по ключам ESU Windows 10 для офисных ПК без поддержки Windows 11](https://habr.com/ru/news/923020/?utm_campaign=923020&utm_source=habrahabr&utm_medium=rss)
 - [Discord запустили на ПК с Windows 95 и Windows NT 3.1](https://habr.com/ru/news/923012/?utm_campaign=923012&utm_source=habrahabr&utm_medium=rss)
 - [В приложении Pixel Camera появился специальный обучающий раздел](https://habr.com/ru/news/923008/?utm_campaign=923008&utm_source=habrahabr&utm_medium=rss)
 - [Сроки сертификатов для Secure Boot в Windows 11 скоро истекут](https://habr.com/ru/news/923006/?utm_campaign=923006&utm_source=habrahabr&utm_medium=rss)
-- [Канада приказала китайской Hikvision прекратить работу в стране из-за угрозы национальной безопасности](https://habr.com/ru/news/923000/?utm_campaign=923000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
