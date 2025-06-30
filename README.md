@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла ОС «Альт Образование» 11.0](https://habr.com/ru/companies/basealtspo/news/923444/?utm_campaign=923444&utm_source=habrahabr&utm_medium=rss)
+- [Духи за 48 часов? Как ИИ ускоряет создание парфюма](https://habr.com/ru/companies/bothub/news/923426/?utm_campaign=923426&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар, посвященный безопасности решений IVA Technologies](https://habr.com/ru/companies/iva_tech/news/923396/?utm_campaign=923396&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия DLSS от Nvidia обеспечивает снижение потребления VRAM на 20%](https://habr.com/ru/news/923354/?utm_campaign=923354&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила на Kaggle хакатон The Gemma 3n Impact Challenge с призовым фондом 150 тыс. долларов](https://habr.com/ru/news/923390/?utm_campaign=923390&utm_source=habrahabr&utm_medium=rss)
-- [Российская компания ОМП и индийская компания Foreseer AI начали пилотный проект с ОС «Аврора»](https://habr.com/ru/news/923378/?utm_campaign=923378&utm_source=habrahabr&utm_medium=rss)
-- [VK: в мессенджере Max зарегистрирован первый миллион пользователей](https://habr.com/ru/news/923364/?utm_campaign=923364&utm_source=habrahabr&utm_medium=rss)
-- [Сервис «Облако Mail» представил интерактивный режим разбора фотографий с помощью жестов](https://habr.com/ru/news/923326/?utm_campaign=923326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
