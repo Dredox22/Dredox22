@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая версия DLSS от Nvidia обеспечивает снижение потребления VRAM на 20%](https://habr.com/ru/news/923354/?utm_campaign=923354&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила на Kaggle хакатон The Gemma 3n Impact Challenge с призовым фондом 150 тыс. долларов](https://habr.com/ru/news/923390/?utm_campaign=923390&utm_source=habrahabr&utm_medium=rss)
+- [Российская компания ОМП и индийская компания Foreseer AI начали пилотный проект с ОС «Аврора»](https://habr.com/ru/news/923378/?utm_campaign=923378&utm_source=habrahabr&utm_medium=rss)
 - [VK: в мессенджере Max зарегистрирован первый миллион пользователей](https://habr.com/ru/news/923364/?utm_campaign=923364&utm_source=habrahabr&utm_medium=rss)
 - [Сервис «Облако Mail» представил интерактивный режим разбора фотографий с помощью жестов](https://habr.com/ru/news/923326/?utm_campaign=923326&utm_source=habrahabr&utm_medium=rss)
-- [System Analyst Meetup](https://habr.com/ru/companies/usetech/news/923312/?utm_campaign=923312&utm_source=habrahabr&utm_medium=rss)
-- [За 3 года Microsoft, возможно, потеряла 400 млн пользователей Windows](https://habr.com/ru/news/923310/?utm_campaign=923310&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI в меморандуме просит сотрудников отклонить «смехотворные» предложения Meta* о переманивании](https://habr.com/ru/news/923288/?utm_campaign=923288&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
