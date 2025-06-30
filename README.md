@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение «Календарь» от Google стало доступно на Apple Watch](https://habr.com/ru/news/923610/?utm_campaign=923610&utm_source=habrahabr&utm_medium=rss)
+- [VisionLabs и MWS Cloud тестируют Luna Scanner — систему автоматического обнаружения угроз в местах скопления людей](https://habr.com/ru/news/923606/?utm_campaign=923606&utm_source=habrahabr&utm_medium=rss)
+- [Правительство РФ утвердило правила работы с обезличенными персональными данными](https://habr.com/ru/news/923600/?utm_campaign=923600&utm_source=habrahabr&utm_medium=rss)
 - [Вышло мажорное обновление ОС Astra Linux 1.8.2](https://habr.com/ru/news/923596/?utm_campaign=923596&utm_source=habrahabr&utm_medium=rss)
 - [Runway разработала ИИ-генератор игр. Публичное демо обещают в ближайшие дни](https://habr.com/ru/news/923592/?utm_campaign=923592&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi выпустила радиомодуль для RP2040 и RP2350](https://habr.com/ru/news/923564/?utm_campaign=923564&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» и «Солар» обновили сервис мониторинга утечек персональных данных пользователей](https://habr.com/ru/news/923544/?utm_campaign=923544&utm_source=habrahabr&utm_medium=rss)
-- [Магнит начал внедрение собственной системы F&amp;amp;R](https://habr.com/ru/companies/magnit/news/923528/?utm_campaign=923528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
