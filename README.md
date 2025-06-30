@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Baidu откроет исходный код генеративной ИИ-модели Ernie](https://habr.com/ru/news/923268/?utm_campaign=923268&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимости в Bluetooth позволяют хакерам шпионить через микрофоны в гаджетах 10 производителей](https://habr.com/ru/news/923258/?utm_campaign=923258&utm_source=habrahabr&utm_medium=rss)
 - [Canonical выпустила проект Multipass VM Manager с полностью открытым исходным кодом](https://habr.com/ru/news/923152/?utm_campaign=923152&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый инструмент настройки и мониторинга графического процессора LACT 0.8 &lpar;Linux GPU Control Application&rpar;](https://habr.com/ru/news/923092/?utm_campaign=923092&utm_source=habrahabr&utm_medium=rss)
 - [Для ChatGPT тестируют режим совместной работы. Его запуск усложнит отношения с Microsoft](https://habr.com/ru/news/923210/?utm_campaign=923210&utm_source=habrahabr&utm_medium=rss)
-- [За последние 12 месяцев количество поисковых запросов по вайб-маркетингу подскочило на 686%](https://habr.com/ru/news/923188/?utm_campaign=923188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
