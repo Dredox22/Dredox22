@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce Agentforce 3: центр управления ботполётами для ваших ИИ-агентов](https://habr.com/ru/companies/bothub/news/923476/?utm_campaign=923476&utm_source=habrahabr&utm_medium=rss)
+- [Operator наносит удар: как OpenAI ободит Google reCAPTCHA v3 &lpar;и что с этим делают в Proof-of-Human&rpar;](https://habr.com/ru/companies/bothub/news/923464/?utm_campaign=923464&utm_source=habrahabr&utm_medium=rss)
 - [Вышла ОС «Альт Образование» 11.0](https://habr.com/ru/companies/basealtspo/news/923444/?utm_campaign=923444&utm_source=habrahabr&utm_medium=rss)
 - [Духи за 48 часов? Как ИИ ускоряет создание парфюма](https://habr.com/ru/companies/bothub/news/923426/?utm_campaign=923426&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар, посвященный безопасности решений IVA Technologies](https://habr.com/ru/companies/iva_tech/news/923396/?utm_campaign=923396&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия DLSS от Nvidia обеспечивает снижение потребления VRAM на 20%](https://habr.com/ru/news/923354/?utm_campaign=923354&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила на Kaggle хакатон The Gemma 3n Impact Challenge с призовым фондом 150 тыс. долларов](https://habr.com/ru/news/923390/?utm_campaign=923390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
