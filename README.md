@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi выпустила радиомодуль для RP2040 и RP2350](https://habr.com/ru/news/923564/?utm_campaign=923564&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» и «Солар» обновили сервис мониторинга утечек персональных данных пользователей](https://habr.com/ru/news/923544/?utm_campaign=923544&utm_source=habrahabr&utm_medium=rss)
 - [Магнит начал внедрение собственной системы F&amp;amp;R](https://habr.com/ru/companies/magnit/news/923528/?utm_campaign=923528&utm_source=habrahabr&utm_medium=rss)
 - [АО «АТОМДАТА» и ВСП Глобал подписали соглашение о сотрудничестве](https://habr.com/ru/companies/greenatom/news/923518/?utm_campaign=923518&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Tantor PipelineDB 1.3.5: поддержка PostgreSQL 18](https://habr.com/ru/companies/tantor/news/923484/?utm_campaign=923484&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/923504/?utm_campaign=923504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
