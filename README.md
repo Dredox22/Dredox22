@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В четыре раза точнее врача. В Microsoft создали «консилиум» из ИИ для постановки диагноза](https://habr.com/ru/news/923652/?utm_campaign=923652&utm_source=habrahabr&utm_medium=rss)
 - [Продажа российских беспроводных петличных микрофонов «Жук» начнётся с 15 июля 2025 года](https://habr.com/ru/news/923622/?utm_campaign=923622&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Календарь» от Google стало доступно на Apple Watch](https://habr.com/ru/news/923610/?utm_campaign=923610&utm_source=habrahabr&utm_medium=rss)
 - [VisionLabs и MWS Cloud тестируют Luna Scanner — систему автоматического обнаружения угроз в местах скопления людей](https://habr.com/ru/news/923606/?utm_campaign=923606&utm_source=habrahabr&utm_medium=rss)
 - [Правительство РФ утвердило правила работы с обезличенными персональными данными](https://habr.com/ru/news/923600/?utm_campaign=923600&utm_source=habrahabr&utm_medium=rss)
-- [Вышло мажорное обновление ОС Astra Linux 1.8.2](https://habr.com/ru/news/923596/?utm_campaign=923596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
