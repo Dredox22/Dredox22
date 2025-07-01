@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK запустила программу по поиску уязвимостей &lpar;Bug Bounty&rpar; в мессенджере Мax](https://habr.com/ru/news/923886/?utm_campaign=923886&utm_source=habrahabr&utm_medium=rss)
+- [Версальские статуи заговорили с помощью ИИ](https://habr.com/ru/companies/bothub/news/923882/?utm_campaign=923882&utm_source=habrahabr&utm_medium=rss)
 - [InfoWatch Traffic Monitor протестирован на совместимость с решениями СберТеха](https://habr.com/ru/companies/infowatch/news/923860/?utm_campaign=923860&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в июле](https://habr.com/ru/companies/netologyru/news/923832/?utm_campaign=923832&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 138](https://habr.com/ru/news/923804/?utm_campaign=923804&utm_source=habrahabr&utm_medium=rss)
-- [Подписчикам «Яндекс Плюс» с опцией «Про» стала доступна функция персонализированного общения с «Алисой»](https://habr.com/ru/news/923800/?utm_campaign=923800&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл для всех пользователей бесплатный доступ к нейросети «Алиса» на самых мощных генеративных моделях](https://habr.com/ru/news/923786/?utm_campaign=923786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
