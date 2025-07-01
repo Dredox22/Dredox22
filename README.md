@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Encrypt выпустили свой первый сертификат для IP-адреса](https://habr.com/ru/news/924086/?utm_campaign=924086&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT o3 оказалась лучшей ИИ-моделью для ответов на вопросы ученых](https://habr.com/ru/news/924072/?utm_campaign=924072&utm_source=habrahabr&utm_medium=rss)
 - [Почему Илон Маск отрицает The Big Beutiful Bill Дональда Трампа](https://habr.com/ru/news/924064/?utm_campaign=924064&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: чек-листы в чатах и встроенная предложка постов](https://habr.com/ru/news/924052/?utm_campaign=924052&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг собирается поменять правила признания микросхем российскими](https://habr.com/ru/news/924046/?utm_campaign=924046&utm_source=habrahabr&utm_medium=rss)
-- [Продолжается приём заявок на 21-ю конференцию разработчиков свободных программ](https://habr.com/ru/news/924036/?utm_campaign=924036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
