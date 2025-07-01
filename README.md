@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Подвинься, LLaMA! Новая open‑source LLM от Tencent — Hunyuan‑A13B — уже доступна для самостоятельного хостинга](https://habr.com/ru/news/924002/?utm_campaign=924002&utm_source=habrahabr&utm_medium=rss)
+- [«Биржа ИБ- и IT-стартапов»: «Газинформсервис» запускает обновлённый акселератор для специалистов по кибербезопасности](https://habr.com/ru/companies/gaz-is/news/923994/?utm_campaign=923994&utm_source=habrahabr&utm_medium=rss)
 - [«Атом» выпустила приложение «Я — Атом» для поиска зарядных станций электромобилей](https://habr.com/ru/news/923988/?utm_campaign=923988&utm_source=habrahabr&utm_medium=rss)
 - [9 июля ждём всех на Java AI meetup от VK](https://habr.com/ru/companies/vk/news/923982/?utm_campaign=923982&utm_source=habrahabr&utm_medium=rss)
 - [300 сенсоров, AWS и ИИ: почему в «Формуле-1» теперь больше обгонов](https://habr.com/ru/companies/bothub/news/923970/?utm_campaign=923970&utm_source=habrahabr&utm_medium=rss)
-- [Правительству поручено усилить защиту Рунета и интегрировать мессенджер с Госуслугами](https://habr.com/ru/news/923956/?utm_campaign=923956&utm_source=habrahabr&utm_medium=rss)
-- [VK запустила программу по поиску уязвимостей &lpar;Bug Bounty&rpar; в мессенджере Мax](https://habr.com/ru/news/923886/?utm_campaign=923886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
