@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Атом» выпустила приложение «Я — Атом» для поиска зарядных станций электромобилей](https://habr.com/ru/news/923988/?utm_campaign=923988&utm_source=habrahabr&utm_medium=rss)
+- [9 июля ждём всех на Java AI meetup от VK](https://habr.com/ru/companies/vk/news/923982/?utm_campaign=923982&utm_source=habrahabr&utm_medium=rss)
+- [300 сенсоров, AWS и ИИ: почему в «Формуле-1» теперь больше обгонов](https://habr.com/ru/companies/bothub/news/923970/?utm_campaign=923970&utm_source=habrahabr&utm_medium=rss)
+- [Правительству поручено усилить защиту Рунета и интегрировать мессенджер с Госуслугами](https://habr.com/ru/news/923956/?utm_campaign=923956&utm_source=habrahabr&utm_medium=rss)
 - [VK запустила программу по поиску уязвимостей &lpar;Bug Bounty&rpar; в мессенджере Мax](https://habr.com/ru/news/923886/?utm_campaign=923886&utm_source=habrahabr&utm_medium=rss)
-- [Версальские статуи заговорили с помощью ИИ](https://habr.com/ru/companies/bothub/news/923882/?utm_campaign=923882&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch Traffic Monitor протестирован на совместимость с решениями СберТеха](https://habr.com/ru/companies/infowatch/news/923860/?utm_campaign=923860&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в июле](https://habr.com/ru/companies/netologyru/news/923832/?utm_campaign=923832&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 138](https://habr.com/ru/news/923804/?utm_campaign=923804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
