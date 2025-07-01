@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft исправила звук запуска Windows Vista в Windows 11](https://habr.com/ru/news/923748/?utm_campaign=923748&utm_source=habrahabr&utm_medium=rss)
-- [OneNote для Windows получило поддержку Dynamic DPI](https://habr.com/ru/news/923736/?utm_campaign=923736&utm_source=habrahabr&utm_medium=rss)
-- [Сеанс со списанием: мошенники похищают деньги под предлогом онлайн-просмотра кино](https://habr.com/ru/companies/F6/news/923392/?utm_campaign=923392&utm_source=habrahabr&utm_medium=rss)
-- [Из-за ошибки тысячи жителей Норвегии стали «миллионерами» после «выигрыша» в лотерее](https://habr.com/ru/news/923712/?utm_campaign=923712&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Qmmp 2.2.7 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/923554/?utm_campaign=923554&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Microsoft Edge 138](https://habr.com/ru/news/923804/?utm_campaign=923804&utm_source=habrahabr&utm_medium=rss)
+- [Подписчикам «Яндекс Плюс» с опцией «Про» стала доступна функция персонализированного общения с «Алисой»](https://habr.com/ru/news/923800/?utm_campaign=923800&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл для всех пользователей бесплатный доступ к нейросети «Алиса» на самых мощных генеративных моделях](https://habr.com/ru/news/923786/?utm_campaign=923786&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: ИИ-модели стали чаще советовать ничего не делать и говорить «нет»](https://habr.com/ru/news/923766/?utm_campaign=923766&utm_source=habrahabr&utm_medium=rss)
+- [Sony будет добавлять к снимкам цифровые подписи C2PA для верификации](https://habr.com/ru/news/923754/?utm_campaign=923754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
