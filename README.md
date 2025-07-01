@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за ошибки тысячи жителей Норвегии стали «миллионерами» после «выигрыша» в лотерее](https://habr.com/ru/news/923712/?utm_campaign=923712&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Qmmp 2.2.7 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/923554/?utm_campaign=923554&utm_source=habrahabr&utm_medium=rss)
 - [Вышел digiKam 8.7.0](https://habr.com/ru/news/923594/?utm_campaign=923594&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Cryptsetup 2.8 — набора утилит для настройки шифрования дисковых разделов в Linux](https://habr.com/ru/news/923340/?utm_campaign=923340&utm_source=habrahabr&utm_medium=rss)
 - [В четыре раза точнее врача. В Microsoft создали «консилиум» из ИИ для постановки диагноза](https://habr.com/ru/news/923652/?utm_campaign=923652&utm_source=habrahabr&utm_medium=rss)
-- [Продажа российских беспроводных петличных микрофонов «Жук» начнётся с 15 июля 2025 года](https://habr.com/ru/news/923622/?utm_campaign=923622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
