@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила звук запуска Windows Vista в Windows 11](https://habr.com/ru/news/923748/?utm_campaign=923748&utm_source=habrahabr&utm_medium=rss)
+- [OneNote для Windows получило поддержку Dynamic DPI](https://habr.com/ru/news/923736/?utm_campaign=923736&utm_source=habrahabr&utm_medium=rss)
+- [Сеанс со списанием: мошенники похищают деньги под предлогом онлайн-просмотра кино](https://habr.com/ru/companies/F6/news/923392/?utm_campaign=923392&utm_source=habrahabr&utm_medium=rss)
 - [Из-за ошибки тысячи жителей Норвегии стали «миллионерами» после «выигрыша» в лотерее](https://habr.com/ru/news/923712/?utm_campaign=923712&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Qmmp 2.2.7 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/923554/?utm_campaign=923554&utm_source=habrahabr&utm_medium=rss)
-- [Вышел digiKam 8.7.0](https://habr.com/ru/news/923594/?utm_campaign=923594&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Cryptsetup 2.8 — набора утилит для настройки шифрования дисковых разделов в Linux](https://habr.com/ru/news/923340/?utm_campaign=923340&utm_source=habrahabr&utm_medium=rss)
-- [В четыре раза точнее врача. В Microsoft создали «консилиум» из ИИ для постановки диагноза](https://habr.com/ru/news/923652/?utm_campaign=923652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
