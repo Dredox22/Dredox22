@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава «Сбербанка» Герман Греф заявил, что цифровой рубль не нужен физическому лицу, банку — тоже](https://habr.com/ru/news/924406/?utm_campaign=924406&utm_source=habrahabr&utm_medium=rss)
 - [EvaTeam 2.29 «Челябинск»: надежность и простота управления проектами. Часть 1](https://habr.com/ru/companies/evateam/news/924314/?utm_campaign=924314&utm_source=habrahabr&utm_medium=rss)
 - [AT&amp;amp;T теперь позволяет клиентам блокировать учётные записи для предотвращения атак с подменой SIM-карт](https://habr.com/ru/news/924304/?utm_campaign=924304&utm_source=habrahabr&utm_medium=rss)
 - [Apple под коллективным ударом: Proton присоединяется к битве за открытый iOS](https://habr.com/ru/companies/cloud4y/news/924296/?utm_campaign=924296&utm_source=habrahabr&utm_medium=rss)
 - [Нейросетевыми агентами Cursor теперь можно управлять в браузере](https://habr.com/ru/news/924258/?utm_campaign=924258&utm_source=habrahabr&utm_medium=rss)
-- [DLP-система InfoWatch Traffic Monitor интегрирована с защищенным корпоративным мессенджером Frisbee](https://habr.com/ru/companies/infowatch/news/924192/?utm_campaign=924192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
