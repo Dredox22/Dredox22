@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло минорное обновление eXpress для ОС «Аврора»](https://habr.com/ru/news/924448/?utm_campaign=924448&utm_source=habrahabr&utm_medium=rss)
+- [Mundfish рассказала о разработке Atomic Heart 2, The Cube и новых проектах](https://habr.com/ru/news/924444/?utm_campaign=924444&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» стартовал приём заявок на международный чемпионат по программированию «РуКод»](https://habr.com/ru/news/924438/?utm_campaign=924438&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров назвал фейком сообщения об уходе мессенджера Telegram из РФ](https://habr.com/ru/news/924436/?utm_campaign=924436&utm_source=habrahabr&utm_medium=rss)
 - [ФИАН оценил характеристики первого российского 50-кубитного квантового компьютера на холодных ионах](https://habr.com/ru/news/924434/?utm_campaign=924434&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг запустит новые субсидии на разработку промышленных роботов](https://habr.com/ru/news/924430/?utm_campaign=924430&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare позволит веб-сайтам взимать плату с ИИ-ботов за сбор данных &lpar;скраппинг&rpar; из веб-ресурсов](https://habr.com/ru/news/924424/?utm_campaign=924424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
