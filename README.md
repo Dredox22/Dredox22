@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз mmc-utils 1.0 для управления хранилищем на базе карт памяти MMC и SD в Linux](https://habr.com/ru/news/924140/?utm_campaign=924140&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: нет, мы не потеряли 400 миллионов клиентов Windows](https://habr.com/ru/news/924136/?utm_campaign=924136&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.2](https://habr.com/ru/news/924134/?utm_campaign=924134&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GNU Health Hospital Information System 5.0](https://habr.com/ru/news/924124/?utm_campaign=924124&utm_source=habrahabr&utm_medium=rss)
 - [Google внедрит новый интерфейс загрузок в Play Store](https://habr.com/ru/news/924074/?utm_campaign=924074&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GnuCash 5.12](https://habr.com/ru/news/924022/?utm_campaign=924022&utm_source=habrahabr&utm_medium=rss)
-- [Let&#39;s Encrypt выпустили свой первый сертификат для IP-адреса](https://habr.com/ru/news/924086/?utm_campaign=924086&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT o3 оказалась лучшей ИИ-моделью для ответов на вопросы ученых](https://habr.com/ru/news/924072/?utm_campaign=924072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
