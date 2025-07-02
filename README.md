@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросетевыми агентами Cursor теперь можно управлять в браузере](https://habr.com/ru/news/924258/?utm_campaign=924258&utm_source=habrahabr&utm_medium=rss)
 - [DLP-система InfoWatch Traffic Monitor интегрирована с защищенным корпоративным мессенджером Frisbee](https://habr.com/ru/companies/infowatch/news/924192/?utm_campaign=924192&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Defender для Office 365 теперь блокирует атаки с использованием email-бомб](https://habr.com/ru/news/924170/?utm_campaign=924170&utm_source=habrahabr&utm_medium=rss)
 - [Переход Tumblr на WordPress и интеграция с fediverse «приостановлены»](https://habr.com/ru/news/924166/?utm_campaign=924166&utm_source=habrahabr&utm_medium=rss)
 - [Новая функция позволит настроить панель инструментов действий с Outlook для Android и iOS](https://habr.com/ru/news/924158/?utm_campaign=924158&utm_source=habrahabr&utm_medium=rss)
-- [«Нанософт» приняла участие в торжественном вручении дипломов первому потоку программы «Цифровой учитель черчения»](https://habr.com/ru/companies/nanosoft/news/924016/?utm_campaign=924016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
