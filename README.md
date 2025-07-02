@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DLP-система InfoWatch Traffic Monitor интегрирована с защищенным корпоративным мессенджером Frisbee](https://habr.com/ru/companies/infowatch/news/924192/?utm_campaign=924192&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Defender для Office 365 теперь блокирует атаки с использованием email-бомб](https://habr.com/ru/news/924170/?utm_campaign=924170&utm_source=habrahabr&utm_medium=rss)
+- [Переход Tumblr на WordPress и интеграция с fediverse «приостановлены»](https://habr.com/ru/news/924166/?utm_campaign=924166&utm_source=habrahabr&utm_medium=rss)
+- [Новая функция позволит настроить панель инструментов действий с Outlook для Android и iOS](https://habr.com/ru/news/924158/?utm_campaign=924158&utm_source=habrahabr&utm_medium=rss)
 - [«Нанософт» приняла участие в торжественном вручении дипломов первому потоку программы «Цифровой учитель черчения»](https://habr.com/ru/companies/nanosoft/news/924016/?utm_campaign=924016&utm_source=habrahabr&utm_medium=rss)
-- [Релиз mmc-utils 1.0 для управления хранилищем на базе карт памяти MMC и SD в Linux](https://habr.com/ru/news/924140/?utm_campaign=924140&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: нет, мы не потеряли 400 миллионов клиентов Windows](https://habr.com/ru/news/924136/?utm_campaign=924136&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.2](https://habr.com/ru/news/924134/?utm_campaign=924134&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GNU Health Hospital Information System 5.0](https://habr.com/ru/news/924124/?utm_campaign=924124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
