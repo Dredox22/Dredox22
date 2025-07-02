@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг запустит новые субсидии на разработку промышленных роботов](https://habr.com/ru/news/924430/?utm_campaign=924430&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare позволит веб-сайтам взимать плату с ИИ-ботов за сбор данных &lpar;скраппинг&rpar; из веб-ресурсов](https://habr.com/ru/news/924424/?utm_campaign=924424&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила ленту Storyline в Teams](https://habr.com/ru/news/924102/?utm_campaign=924102&utm_source=habrahabr&utm_medium=rss)
 - [«КриптоПро» интегрирует свои криптографические библиотеки в мессенджер Max](https://habr.com/ru/news/924414/?utm_campaign=924414&utm_source=habrahabr&utm_medium=rss)
 - [Глава «Сбербанка» Герман Греф заявил, что цифровой рубль не нужен физическому лицу, банку — тоже](https://habr.com/ru/news/924406/?utm_campaign=924406&utm_source=habrahabr&utm_medium=rss)
-- [EvaTeam 2.29 «Челябинск»: надежность и простота управления проектами. Часть 1](https://habr.com/ru/companies/evateam/news/924314/?utm_campaign=924314&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T теперь позволяет клиентам блокировать учётные записи для предотвращения атак с подменой SIM-карт](https://habr.com/ru/news/924304/?utm_campaign=924304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
