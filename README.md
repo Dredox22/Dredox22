@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз GNU Health Hospital Information System 5.0](https://habr.com/ru/news/924124/?utm_campaign=924124&utm_source=habrahabr&utm_medium=rss)
 - [Google внедрит новый интерфейс загрузок в Play Store](https://habr.com/ru/news/924074/?utm_campaign=924074&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GnuCash 5.12](https://habr.com/ru/news/924022/?utm_campaign=924022&utm_source=habrahabr&utm_medium=rss)
 - [Let&#39;s Encrypt выпустили свой первый сертификат для IP-адреса](https://habr.com/ru/news/924086/?utm_campaign=924086&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT o3 оказалась лучшей ИИ-моделью для ответов на вопросы ученых](https://habr.com/ru/news/924072/?utm_campaign=924072&utm_source=habrahabr&utm_medium=rss)
-- [Почему Илон Маск отрицает The Big Beutiful Bill Дональда Трампа](https://habr.com/ru/news/924064/?utm_campaign=924064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
