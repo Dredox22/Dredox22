@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЦБ РФ ограничит период действия карт с истекшим сроком годности &lpar;«Мир», Visa и Mastercard с продлением в 2022 году&rpar;](https://habr.com/ru/news/924760/?utm_campaign=924760&utm_source=habrahabr&utm_medium=rss)
+- [Учёные из ФГУП «РФЯЦ-ВНИИЭФ» придумали устройство для экстренного уничтожения микросхем памяти](https://habr.com/ru/news/924758/?utm_campaign=924758&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft открыла код расширений GitHub Copilot и Copilot Chat](https://habr.com/ru/news/924754/?utm_campaign=924754&utm_source=habrahabr&utm_medium=rss)
 - [Blizzard прекращает выпуск нового контента для мобильной игры по Warcraft](https://habr.com/ru/news/924690/?utm_campaign=924690&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo заблокировала порт USB-C Switch 2 через схему шифрования, предотвращая совместимость со сторонними док-станциям](https://habr.com/ru/news/924656/?utm_campaign=924656&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» представил решение на базе ИИ-сервиса для селекционно-генетического планирования в животноводстве](https://habr.com/ru/news/924632/?utm_campaign=924632&utm_source=habrahabr&utm_medium=rss)
-- [М.Видео-Эльдорадо: Valve впервые обогнала Microsoft на рынке консолей в РФ в I квартале 2025 года](https://habr.com/ru/companies/mvideo/news/924604/?utm_campaign=924604&utm_source=habrahabr&utm_medium=rss)
-- [Эффективное управление данными с ИИ-агентами](https://habr.com/ru/companies/mws/news/924592/?utm_campaign=924592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
