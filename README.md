@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Selectel выпустил бесплатный курс по регулярным выражениям](https://habr.com/ru/companies/selectel/news/924476/?utm_campaign=924476&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Android смогут редактировать отправленные сообщения](https://habr.com/ru/news/924532/?utm_campaign=924532&utm_source=habrahabr&utm_medium=rss)
 - [13-летний подросток помог улучшить безопасность продуктов Microsoft](https://habr.com/ru/news/924518/?utm_campaign=924518&utm_source=habrahabr&utm_medium=rss)
 - [Apple получила патент на камеру для съёмки аналогично человеческому зрению](https://habr.com/ru/news/924508/?utm_campaign=924508&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: проблема DNS блокирует доставку кодов OTP Exchange Online](https://habr.com/ru/news/924504/?utm_campaign=924504&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD Стройплощадка 24.1 доступна на российских операционных системах](https://habr.com/ru/companies/nanosoft/news/922494/?utm_campaign=922494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
