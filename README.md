@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Android смогут редактировать отправленные сообщения](https://habr.com/ru/news/924532/?utm_campaign=924532&utm_source=habrahabr&utm_medium=rss)
+- [13-летний подросток помог улучшить безопасность продуктов Microsoft](https://habr.com/ru/news/924518/?utm_campaign=924518&utm_source=habrahabr&utm_medium=rss)
+- [Apple получила патент на камеру для съёмки аналогично человеческому зрению](https://habr.com/ru/news/924508/?utm_campaign=924508&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: проблема DNS блокирует доставку кодов OTP Exchange Online](https://habr.com/ru/news/924504/?utm_campaign=924504&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD Стройплощадка 24.1 доступна на российских операционных системах](https://habr.com/ru/companies/nanosoft/news/922494/?utm_campaign=922494&utm_source=habrahabr&utm_medium=rss)
-- [Шесть моделей ИИ дали один и тот же ответ при угадывании числа](https://habr.com/ru/news/924496/?utm_campaign=924496&utm_source=habrahabr&utm_medium=rss)
-- [EvaTeam 2.29 «Челябинск»: надежность и простота управления проектами. Часть 2](https://habr.com/ru/companies/evateam/news/924488/?utm_campaign=924488&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mozilla Thunderbird 140.0 ESR](https://habr.com/ru/news/924484/?utm_campaign=924484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
