@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [1,8 млрд фанатов и один Copilot. Английская Премьер-лига перешла на ИИ-технологии Microsoft](https://habr.com/ru/news/924794/?utm_campaign=924794&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ РФ ограничит период действия карт с истекшим сроком годности &lpar;«Мир», Visa и Mastercard с продлением в 2022 году&rpar;](https://habr.com/ru/news/924760/?utm_campaign=924760&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из ФГУП «РФЯЦ-ВНИИЭФ» придумали устройство для экстренного уничтожения микросхем памяти](https://habr.com/ru/news/924758/?utm_campaign=924758&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft открыла код расширений GitHub Copilot и Copilot Chat](https://habr.com/ru/news/924754/?utm_campaign=924754&utm_source=habrahabr&utm_medium=rss)
 - [Blizzard прекращает выпуск нового контента для мобильной игры по Warcraft](https://habr.com/ru/news/924690/?utm_campaign=924690&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo заблокировала порт USB-C Switch 2 через схему шифрования, предотвращая совместимость со сторонними док-станциям](https://habr.com/ru/news/924656/?utm_campaign=924656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
