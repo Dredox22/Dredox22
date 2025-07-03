@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [EvaTeam 2.29 «Челябинск»: надежность и простота управления проектами. Часть 2](https://habr.com/ru/companies/evateam/news/924488/?utm_campaign=924488&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 140.0 ESR](https://habr.com/ru/news/924484/?utm_campaign=924484&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity представила подписку Max на ИИ за $200 в месяц](https://habr.com/ru/news/924482/?utm_campaign=924482&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия PCSX2 2.4 открытого мультиплатформенного эмулятора PlayStation 2](https://habr.com/ru/news/924276/?utm_campaign=924276&utm_source=habrahabr&utm_medium=rss)
 - [Релиз qBittorrent 5.1.2](https://habr.com/ru/news/924256/?utm_campaign=924256&utm_source=habrahabr&utm_medium=rss)
-- [Вышло минорное обновление eXpress для ОС «Аврора»](https://habr.com/ru/news/924448/?utm_campaign=924448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
