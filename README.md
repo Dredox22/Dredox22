@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Mozilla Thunderbird 140.0 ESR](https://habr.com/ru/news/924484/?utm_campaign=924484&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity представила подписку Max на ИИ за $200 в месяц](https://habr.com/ru/news/924482/?utm_campaign=924482&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия PCSX2 2.4 открытого мультиплатформенного эмулятора PlayStation 2](https://habr.com/ru/news/924276/?utm_campaign=924276&utm_source=habrahabr&utm_medium=rss)
 - [Релиз qBittorrent 5.1.2](https://habr.com/ru/news/924256/?utm_campaign=924256&utm_source=habrahabr&utm_medium=rss)
 - [Вышло минорное обновление eXpress для ОС «Аврора»](https://habr.com/ru/news/924448/?utm_campaign=924448&utm_source=habrahabr&utm_medium=rss)
-- [Mundfish рассказала о разработке Atomic Heart 2, The Cube и новых проектах](https://habr.com/ru/news/924444/?utm_campaign=924444&utm_source=habrahabr&utm_medium=rss)
-- [На «Госуслугах» стартовал приём заявок на международный чемпионат по программированию «РуКод»](https://habr.com/ru/news/924438/?utm_campaign=924438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
