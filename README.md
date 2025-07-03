@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» представил решение на базе ИИ-сервиса для селекционно-генетического планирования в животноводстве](https://habr.com/ru/news/924632/?utm_campaign=924632&utm_source=habrahabr&utm_medium=rss)
 - [М.Видео-Эльдорадо: Valve впервые обогнала Microsoft на рынке консолей в РФ в I квартале 2025 года](https://habr.com/ru/companies/mvideo/news/924604/?utm_campaign=924604&utm_source=habrahabr&utm_medium=rss)
 - [Эффективное управление данными с ИИ-агентами](https://habr.com/ru/companies/mws/news/924592/?utm_campaign=924592&utm_source=habrahabr&utm_medium=rss)
 - [В первой половине 2025 года РКН выявил 35 фактов утечек персональных данных, содержащих более 39 млн записей](https://habr.com/ru/news/924602/?utm_campaign=924602&utm_source=habrahabr&utm_medium=rss)
 - [17-летний подросток опровергла математическую гипотезу, предложенную 40 лет назад](https://habr.com/ru/news/924460/?utm_campaign=924460&utm_source=habrahabr&utm_medium=rss)
-- [Selectel выпустил бесплатный курс по регулярным выражениям](https://habr.com/ru/companies/selectel/news/924476/?utm_campaign=924476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
