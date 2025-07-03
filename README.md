@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия PCSX2 2.4 открытого мультиплатформенного эмулятора PlayStation 2](https://habr.com/ru/news/924276/?utm_campaign=924276&utm_source=habrahabr&utm_medium=rss)
+- [Релиз qBittorrent 5.1.2](https://habr.com/ru/news/924256/?utm_campaign=924256&utm_source=habrahabr&utm_medium=rss)
 - [Вышло минорное обновление eXpress для ОС «Аврора»](https://habr.com/ru/news/924448/?utm_campaign=924448&utm_source=habrahabr&utm_medium=rss)
 - [Mundfish рассказала о разработке Atomic Heart 2, The Cube и новых проектах](https://habr.com/ru/news/924444/?utm_campaign=924444&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» стартовал приём заявок на международный чемпионат по программированию «РуКод»](https://habr.com/ru/news/924438/?utm_campaign=924438&utm_source=habrahabr&utm_medium=rss)
-- [Павел Дуров назвал фейком сообщения об уходе мессенджера Telegram из РФ](https://habr.com/ru/news/924436/?utm_campaign=924436&utm_source=habrahabr&utm_medium=rss)
-- [ФИАН оценил характеристики первого российского 50-кубитного квантового компьютера на холодных ионах](https://habr.com/ru/news/924434/?utm_campaign=924434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
