@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: проблема DNS блокирует доставку кодов OTP Exchange Online](https://habr.com/ru/news/924504/?utm_campaign=924504&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD Стройплощадка 24.1 доступна на российских операционных системах](https://habr.com/ru/companies/nanosoft/news/922494/?utm_campaign=922494&utm_source=habrahabr&utm_medium=rss)
+- [Шесть моделей ИИ дали один и тот же ответ при угадывании числа](https://habr.com/ru/news/924496/?utm_campaign=924496&utm_source=habrahabr&utm_medium=rss)
 - [EvaTeam 2.29 «Челябинск»: надежность и простота управления проектами. Часть 2](https://habr.com/ru/companies/evateam/news/924488/?utm_campaign=924488&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 140.0 ESR](https://habr.com/ru/news/924484/?utm_campaign=924484&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity представила подписку Max на ИИ за $200 в месяц](https://habr.com/ru/news/924482/?utm_campaign=924482&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия PCSX2 2.4 открытого мультиплатформенного эмулятора PlayStation 2](https://habr.com/ru/news/924276/?utm_campaign=924276&utm_source=habrahabr&utm_medium=rss)
-- [Релиз qBittorrent 5.1.2](https://habr.com/ru/news/924256/?utm_campaign=924256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
