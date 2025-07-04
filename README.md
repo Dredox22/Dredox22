@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Учебно-исследовательская лаборатория UserGate открылась на базе НГТУ НЭТИ](https://habr.com/ru/companies/usergate/news/924926/?utm_campaign=924926&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры анонсировало запуск новых программ «Топ-ИТ» и «Топ-ИИ» для подготовки IT-кадров уровня senior](https://habr.com/ru/news/924928/?utm_campaign=924928&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» добавил в сервис «Нейроэксперт» режимы рассуждения и совместной работы](https://habr.com/ru/news/924898/?utm_campaign=924898&utm_source=habrahabr&utm_medium=rss)
 - [E Ink превращает сенсорную панель ноутбука в экран на электронных чернилах для ИИ-приложений](https://habr.com/ru/news/924890/?utm_campaign=924890&utm_source=habrahabr&utm_medium=rss)
 - [ИИ уличили в рекомендациях фишинговых ссылок на бренды](https://habr.com/ru/news/924876/?utm_campaign=924876&utm_source=habrahabr&utm_medium=rss)
-- [Продукты IVA Technologies соответствуют новым требованиям Правительства РФ к видеосвязи в государственных органах](https://habr.com/ru/companies/iva_tech/news/924878/?utm_campaign=924878&utm_source=habrahabr&utm_medium=rss)
-- [Доступность Skype for Business Server сохраняется из-за отсутствия альтернативы у Teams](https://habr.com/ru/news/924866/?utm_campaign=924866&utm_source=habrahabr&utm_medium=rss)
-- [StatCounter: доли Windows 10 и Windows 11 почти сравнялись](https://habr.com/ru/news/924862/?utm_campaign=924862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
