@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС устанавливает на транспортной сети маршрутизаторы собственной разработки](https://habr.com/ru/news/925038/?utm_campaign=925038&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Сбера стали лучшей российской командой на конкурсе рекомендательных систем RecSys Challenge 2025](https://habr.com/ru/companies/sberbank/news/925034/?utm_campaign=925034&utm_source=habrahabr&utm_medium=rss)
 - [EvaTeam 2.29 «Челябинск»: надежность и простота управления проектами. Часть 3](https://habr.com/ru/companies/evateam/news/925032/?utm_campaign=925032&utm_source=habrahabr&utm_medium=rss)
 - [Правительство РФ поручило профильным ведомствам и структурам создать базу биометрических данных мошенников](https://habr.com/ru/news/925012/?utm_campaign=925012&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты прогнозируют дефицит судов для ремонта подводных кабелей как угрозу интернету](https://habr.com/ru/news/924994/?utm_campaign=924994&utm_source=habrahabr&utm_medium=rss)
-- [AvitoTech купила технологическую платформу для продуктовых экспериментов EXPF Sigma](https://habr.com/ru/companies/avito/news/924260/?utm_campaign=924260&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалила PowerShell 2.0 из тестовой сборки Windows 11](https://habr.com/ru/news/924958/?utm_campaign=924958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
