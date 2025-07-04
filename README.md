@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft удалила PowerShell 2.0 из тестовой сборки Windows 11](https://habr.com/ru/news/924958/?utm_campaign=924958&utm_source=habrahabr&utm_medium=rss)
+- [Вышел веб-сервер Angie 1.10.0, созданный бывшей командой Nginx](https://habr.com/ru/news/924948/?utm_campaign=924948&utm_source=habrahabr&utm_medium=rss)
 - [Учебно-исследовательская лаборатория UserGate открылась на базе НГТУ НЭТИ](https://habr.com/ru/companies/usergate/news/924926/?utm_campaign=924926&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры анонсировало запуск новых программ «Топ-ИТ» и «Топ-ИИ» для подготовки IT-кадров уровня senior](https://habr.com/ru/news/924928/?utm_campaign=924928&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» добавил в сервис «Нейроэксперт» режимы рассуждения и совместной работы](https://habr.com/ru/news/924898/?utm_campaign=924898&utm_source=habrahabr&utm_medium=rss)
-- [E Ink превращает сенсорную панель ноутбука в экран на электронных чернилах для ИИ-приложений](https://habr.com/ru/news/924890/?utm_campaign=924890&utm_source=habrahabr&utm_medium=rss)
-- [ИИ уличили в рекомендациях фишинговых ссылок на бренды](https://habr.com/ru/news/924876/?utm_campaign=924876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
