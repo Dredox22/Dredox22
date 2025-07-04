@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Perl 5.42](https://habr.com/ru/news/924844/?utm_campaign=924844&utm_source=habrahabr&utm_medium=rss)
 - [nanoCAD Механика PRO 1.1 доступна на российских операционных системах](https://habr.com/ru/companies/nanosoft/news/922840/?utm_campaign=922840&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект ASCIIMoon — фазы Луны в реальном времени в ASCII-арте](https://habr.com/ru/news/924568/?utm_campaign=924568&utm_source=habrahabr&utm_medium=rss)
 - [Выявлена критическая уязвимость в утилите sudo, позволяющая получить права root в системе](https://habr.com/ru/news/924560/?utm_campaign=924560&utm_source=habrahabr&utm_medium=rss)
 - [Илья Суцкевер стал CEO Safe Superintelligence после ухода Даниэля Гросса](https://habr.com/ru/news/924804/?utm_campaign=924804&utm_source=habrahabr&utm_medium=rss)
-- [1,8 млрд фанатов и один Copilot. Английская Премьер-лига перешла на ИИ-технологии Microsoft](https://habr.com/ru/news/924794/?utm_campaign=924794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
