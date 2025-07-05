@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Люди всё чаще обращаются к ChatGPT за новостями, тогда как популярность Google падает](https://habr.com/ru/companies/bothub/news/925214/?utm_campaign=925214&utm_source=habrahabr&utm_medium=rss)
+- [Hunyuan-A13B от Tencent: языковая модель с динамическим подходом к рассуждению](https://habr.com/ru/companies/bothub/news/925210/?utm_campaign=925210&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 7 июля получит доступ к WhatsApp, сообщениям и звонкам Android-устройствах](https://habr.com/ru/news/925190/?utm_campaign=925190&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заявила о проблемах с доступом к SharePoint Online](https://habr.com/ru/news/925180/?utm_campaign=925180&utm_source=habrahabr&utm_medium=rss)
 - [Вышла CPU-Z 2.16](https://habr.com/ru/news/925166/?utm_campaign=925166&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект tmux-rs — версия терминального мультиплексора tmux на Rust](https://habr.com/ru/news/924982/?utm_campaign=924982&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый инструментарий для вычисления и проверки хэшей файлов OpenHashTab 3.1.1 для Windows](https://habr.com/ru/news/924974/?utm_campaign=924974&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
