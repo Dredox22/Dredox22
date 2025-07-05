@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Объявлен набор в команду открытого проекта OpenLens2030 для созданию продвинутого электронного микроскопа](https://habr.com/ru/news/925268/?utm_campaign=925268&utm_source=habrahabr&utm_medium=rss)
 - [Почему наблюдаемость так важна для экосистем ИИ-агентов?](https://habr.com/ru/companies/bothub/news/925224/?utm_campaign=925224&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия Solar webProxy 4.3: DPI, фиды угроз от Solar 4RAYS и модуль webCAT](https://habr.com/ru/companies/solarsecurity/news/925232/?utm_campaign=925232&utm_source=habrahabr&utm_medium=rss)
 - [От почты до мессенджеров: комплексная защита данных на базе обновлённой версии Solar Dozor 8.1](https://habr.com/ru/companies/solarsecurity/news/925230/?utm_campaign=925230&utm_source=habrahabr&utm_medium=rss)
 - [Solar Dozor интегрируется с «МойОфис Документы Онлайн» для защиты данных](https://habr.com/ru/companies/solarsecurity/news/925226/?utm_campaign=925226&utm_source=habrahabr&utm_medium=rss)
-- [Люди всё чаще обращаются к ChatGPT за новостями, тогда как популярность Google падает](https://habr.com/ru/companies/bothub/news/925214/?utm_campaign=925214&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
