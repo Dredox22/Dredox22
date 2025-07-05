@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 7 июля получит доступ к WhatsApp, сообщениям и звонкам Android-устройствах](https://habr.com/ru/news/925190/?utm_campaign=925190&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заявила о проблемах с доступом к SharePoint Online](https://habr.com/ru/news/925180/?utm_campaign=925180&utm_source=habrahabr&utm_medium=rss)
 - [Вышла CPU-Z 2.16](https://habr.com/ru/news/925166/?utm_campaign=925166&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект tmux-rs — версия терминального мультиплексора tmux на Rust](https://habr.com/ru/news/924982/?utm_campaign=924982&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый инструментарий для вычисления и проверки хэшей файлов OpenHashTab 3.1.1 для Windows](https://habr.com/ru/news/924974/?utm_campaign=924974&utm_source=habrahabr&utm_medium=rss)
-- [Автор инструмента для прохождения собеседований Cheating Daddy обвинил Glass от Pickle в плагиате](https://habr.com/ru/news/925112/?utm_campaign=925112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
