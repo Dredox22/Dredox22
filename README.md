@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В полтора раза лучше ChatGPT o3? В сети обсуждают возможные бенчмарки Grok 4](https://habr.com/ru/news/925466/?utm_campaign=925466&utm_source=habrahabr&utm_medium=rss)
 - [В НИЯУ МИФИ открыли лабораторию киберугроз при поддержке BI.ZONE](https://habr.com/ru/news/925454/?utm_campaign=925454&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Ростелеком» создаёт новый онлайн-магазин видеоигр](https://habr.com/ru/news/925440/?utm_campaign=925440&utm_source=habrahabr&utm_medium=rss)
 - [Запущено серийное производство российского установщика повехностного SMD-монтажа PiPlacer8](https://habr.com/ru/news/925432/?utm_campaign=925432&utm_source=habrahabr&utm_medium=rss)
 - [Открыт новый набор на программу стажировок «Код для всех»](https://habr.com/ru/news/925424/?utm_campaign=925424&utm_source=habrahabr&utm_medium=rss)
-- [В научных статьях начали появляться скрытые промты для ИИ, чтобы нейросети хвалили такие работы](https://habr.com/ru/news/925408/?utm_campaign=925408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
