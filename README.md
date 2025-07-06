@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз DXVK 2.7](https://habr.com/ru/news/925338/?utm_campaign=925338&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект для Windows под названием Minimal PDF Compress 1.0](https://habr.com/ru/news/925288/?utm_campaign=925288&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NWinfo 1.4.0 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/925276/?utm_campaign=925276&utm_source=habrahabr&utm_medium=rss)
 - [Для нового дата-центра xAI на 1 млн GPU приобретут электростанцию и перевезут в США](https://habr.com/ru/news/925296/?utm_campaign=925296&utm_source=habrahabr&utm_medium=rss)
 - [Объявлен набор в команду открытого проекта OpenLens2030 для созданию продвинутого электронного микроскопа](https://habr.com/ru/news/925268/?utm_campaign=925268&utm_source=habrahabr&utm_medium=rss)
-- [Почему наблюдаемость так важна для экосистем ИИ-агентов?](https://habr.com/ru/companies/bothub/news/925224/?utm_campaign=925224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
