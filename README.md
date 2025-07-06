@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открыт новы набор на программу стажировок «Код для всех»](https://habr.com/ru/news/925424/?utm_campaign=925424&utm_source=habrahabr&utm_medium=rss)
 - [В научных статьях начали появляться скрытые промты для ИИ, чтобы нейросети хвалили такие работы](https://habr.com/ru/news/925408/?utm_campaign=925408&utm_source=habrahabr&utm_medium=rss)
 - [Вышел 7-Zip 25.0](https://habr.com/ru/news/925364/?utm_campaign=925364&utm_source=habrahabr&utm_medium=rss)
 - [FaceTime в iOS 26 ставит на паузу видеозвонок, если в кадре есть голый человек](https://habr.com/ru/news/925308/?utm_campaign=925308&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI наняла психиатра с опытом в судебной психиатрии для исследования влияния ИИ-продуктов на здоровье](https://habr.com/ru/news/925350/?utm_campaign=925350&utm_source=habrahabr&utm_medium=rss)
-- [DeepMind планирует наделить роботов «внутренним голосом»](https://habr.com/ru/news/925346/?utm_campaign=925346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
