@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FaceTime в iOS 26 ставит на паузу видеозвонок, если в кадре есть голый человек](https://habr.com/ru/news/925308/?utm_campaign=925308&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI наняла психиатра с опытом в судебной психиатрии для исследования влияния ИИ-продуктов на здоровье](https://habr.com/ru/news/925350/?utm_campaign=925350&utm_source=habrahabr&utm_medium=rss)
 - [DeepMind планирует наделить роботов «внутренним голосом»](https://habr.com/ru/news/925346/?utm_campaign=925346&utm_source=habrahabr&utm_medium=rss)
 - [Markdown-разметка в «Блокноте» Windows 11 стала доступна всем пользователям](https://habr.com/ru/news/925342/?utm_campaign=925342&utm_source=habrahabr&utm_medium=rss)
 - [Релиз DXVK 2.7](https://habr.com/ru/news/925338/?utm_campaign=925338&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект для Windows под названием Minimal PDF Compress 1.0](https://habr.com/ru/news/925288/?utm_campaign=925288&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NWinfo 1.4.0 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/925276/?utm_campaign=925276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
