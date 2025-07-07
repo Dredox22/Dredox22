@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ChatGPT в ближайшее время могут добавить отдельную функцию для обучения](https://habr.com/ru/news/925798/?utm_campaign=925798&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» представил прототип наркозно-дыхательного аппарата на выставке «Иннопром-2025»](https://habr.com/ru/news/925758/?utm_campaign=925758&utm_source=habrahabr&utm_medium=rss)
 - [ФИАН представил модернизированный советский нанолитограф для рентгеновской оптики](https://habr.com/ru/news/925756/?utm_campaign=925756&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» заблокировал 1,6 млрд вредоносных запросов в российских школах во время ЕГЭ-2025](https://habr.com/ru/news/925754/?utm_campaign=925754&utm_source=habrahabr&utm_medium=rss)
 - [Производители российской электроники просят изменить расчёт цен на госзакупках из-за демпинга иностранцев](https://habr.com/ru/news/925746/?utm_campaign=925746&utm_source=habrahabr&utm_medium=rss)
-- [Ускорение в несколько лет. В Google готовятся к испытаниям лекарств, разработанных ИИ](https://habr.com/ru/news/925742/?utm_campaign=925742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
