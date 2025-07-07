@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из Play Store удалили более 350 приложений-участников мошеннической кампании IconAds](https://habr.com/ru/news/925498/?utm_campaign=925498&utm_source=habrahabr&utm_medium=rss)
+- [Вышла интегрированная среда разработки Geany 2.1 и Geany-Plugins 2.1](https://habr.com/ru/news/925494/?utm_campaign=925494&utm_source=habrahabr&utm_medium=rss)
+- [Google Chrome будет проверять ПК на Windows 10 на соответствие обновлению до Windows 11](https://habr.com/ru/news/925488/?utm_campaign=925488&utm_source=habrahabr&utm_medium=rss)
 - [РКН: информационная система для мониторинга интернета «Вепрь» обнаруживает информационные угрозы за несколько минут](https://habr.com/ru/news/925482/?utm_campaign=925482&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого растрового графического редактора Brushshe 2.0.0, написанного на Python, для Windows 10/11 и Linux](https://habr.com/ru/news/925474/?utm_campaign=925474&utm_source=habrahabr&utm_medium=rss)
-- [Прямой эфир «nanoCAD Standart Geo: от растрового изображения до TIN-поверхности за час»](https://habr.com/ru/companies/nanosoft/news/925052/?utm_campaign=925052&utm_source=habrahabr&utm_medium=rss)
-- [Релиз командного интерпретатора Bash 5.3](https://habr.com/ru/news/925426/?utm_campaign=925426&utm_source=habrahabr&utm_medium=rss)
-- [В полтора раза лучше ChatGPT o3? В сети обсуждают возможные бенчмарки Grok 4](https://habr.com/ru/news/925466/?utm_campaign=925466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
