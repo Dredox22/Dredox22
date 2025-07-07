@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 25H2 можно будет удалять стандартные приложения Microsoft](https://habr.com/ru/news/925518/?utm_campaign=925518&utm_source=habrahabr&utm_medium=rss)
+- [Apple Music представил плейлист «10 лет с Apple Music: главные хиты»](https://habr.com/ru/news/925510/?utm_campaign=925510&utm_source=habrahabr&utm_medium=rss)
 - [Из Play Store удалили более 350 приложений-участников мошеннической кампании IconAds](https://habr.com/ru/news/925498/?utm_campaign=925498&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Geany 2.1 и Geany-Plugins 2.1](https://habr.com/ru/news/925494/?utm_campaign=925494&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome будет проверять ПК на Windows 10 на соответствие обновлению до Windows 11](https://habr.com/ru/news/925488/?utm_campaign=925488&utm_source=habrahabr&utm_medium=rss)
-- [РКН: информационная система для мониторинга интернета «Вепрь» обнаруживает информационные угрозы за несколько минут](https://habr.com/ru/news/925482/?utm_campaign=925482&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого растрового графического редактора Brushshe 2.0.0, написанного на Python, для Windows 10/11 и Linux](https://habr.com/ru/news/925474/?utm_campaign=925474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
