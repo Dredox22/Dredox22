@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратила внедрять рекламу Edge на сайте Chrome](https://habr.com/ru/news/925698/?utm_campaign=925698&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал закон о принудительной установке Rustore на все мобильные устройства при продаже в России](https://habr.com/ru/news/925684/?utm_campaign=925684&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи смартфонов Pixel столкнулись с проблемами экрана блокировки после обновления до Android 16](https://habr.com/ru/news/925682/?utm_campaign=925682&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/925658/?utm_campaign=925658&utm_source=habrahabr&utm_medium=rss)
 - [Открылся приём заявок на акселератор «Фабрика видеоигр» от АКИ](https://habr.com/ru/news/925630/?utm_campaign=925630&utm_source=habrahabr&utm_medium=rss)
-- [Программа Bug Bounty Альфа-Банка на платформе BI.ZONE теперь публичная](https://habr.com/ru/companies/alfa/news/925588/?utm_campaign=925588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
