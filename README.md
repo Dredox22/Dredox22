@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростех» представил прототип наркозно-дыхательного аппарата на выставке «Иннопром-2025»](https://habr.com/ru/news/925758/?utm_campaign=925758&utm_source=habrahabr&utm_medium=rss)
+- [ФИАН представил модернизированный советский нанолитограф для рентгеновской оптики](https://habr.com/ru/news/925756/?utm_campaign=925756&utm_source=habrahabr&utm_medium=rss)
+- [«Солар» заблокировал 1,6 млрд вредоносных запросов в российских школах во время ЕГЭ-2025](https://habr.com/ru/news/925754/?utm_campaign=925754&utm_source=habrahabr&utm_medium=rss)
 - [Производители российской электроники просят изменить расчёт цен на госзакупках из-за демпинга иностранцев](https://habr.com/ru/news/925746/?utm_campaign=925746&utm_source=habrahabr&utm_medium=rss)
 - [Ускорение в несколько лет. В Google готовятся к испытаниям лекарств, разработанных ИИ](https://habr.com/ru/news/925742/?utm_campaign=925742&utm_source=habrahabr&utm_medium=rss)
-- [Джек Дорси представил Bitchat — децентрализованный мессенджер на базе Bluetooth Low Energy](https://habr.com/ru/news/925734/?utm_campaign=925734&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила внедрять рекламу Edge на сайте Chrome](https://habr.com/ru/news/925698/?utm_campaign=925698&utm_source=habrahabr&utm_medium=rss)
-- [Президент РФ подписал закон о принудительной установке Rustore на все мобильные устройства при продаже в России](https://habr.com/ru/news/925684/?utm_campaign=925684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
