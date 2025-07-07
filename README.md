@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Производители российской электроники просят изменить расчёт цен на госзакупках из-за демпинга иностранцев](https://habr.com/ru/news/925746/?utm_campaign=925746&utm_source=habrahabr&utm_medium=rss)
+- [Ускорение в несколько лет. В Google готовятся к испытаниям лекарств, разработанных ИИ](https://habr.com/ru/news/925742/?utm_campaign=925742&utm_source=habrahabr&utm_medium=rss)
+- [Джек Дорси представил Bitchat — децентрализованный мессенджер на базе Bluetooth Low Energy](https://habr.com/ru/news/925734/?utm_campaign=925734&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила внедрять рекламу Edge на сайте Chrome](https://habr.com/ru/news/925698/?utm_campaign=925698&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал закон о принудительной установке Rustore на все мобильные устройства при продаже в России](https://habr.com/ru/news/925684/?utm_campaign=925684&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи смартфонов Pixel столкнулись с проблемами экрана блокировки после обновления до Android 16](https://habr.com/ru/news/925682/?utm_campaign=925682&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/925658/?utm_campaign=925658&utm_source=habrahabr&utm_medium=rss)
-- [Открылся приём заявок на акселератор «Фабрика видеоигр» от АКИ](https://habr.com/ru/news/925630/?utm_campaign=925630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
