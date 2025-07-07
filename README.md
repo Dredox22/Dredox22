@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открылся приём заявок на акселератор «Фабрика видеоигр» от АКИ](https://habr.com/ru/news/925630/?utm_campaign=925630&utm_source=habrahabr&utm_medium=rss)
 - [Программа Bug Bounty Альфа-Банка на платформе BI.ZONE теперь публичная](https://habr.com/ru/companies/alfa/news/925588/?utm_campaign=925588&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи попросили Минцифры РФ ввести госрегулирование цен на размещение ВОЛС на опорах линий электропередач](https://habr.com/ru/news/925580/?utm_campaign=925580&utm_source=habrahabr&utm_medium=rss)
 - [Правительство Швейцарии признало компрометацию государственных сведений в результате кибератаки на подрядчика Radix](https://habr.com/ru/news/925552/?utm_campaign=925552&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 25H2 можно будет удалять стандартные приложения Microsoft](https://habr.com/ru/news/925518/?utm_campaign=925518&utm_source=habrahabr&utm_medium=rss)
-- [Apple Music представил плейлист «10 лет с Apple Music: главные хиты»](https://habr.com/ru/news/925510/?utm_campaign=925510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
