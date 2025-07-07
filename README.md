@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прямой эфир «nanoCAD Standart Geo: от растрового изображения до TIN-поверхности за час»](https://habr.com/ru/companies/nanosoft/news/925052/?utm_campaign=925052&utm_source=habrahabr&utm_medium=rss)
+- [Релиз командного интерпретатора Bash 5.3](https://habr.com/ru/news/925426/?utm_campaign=925426&utm_source=habrahabr&utm_medium=rss)
 - [В полтора раза лучше ChatGPT o3? В сети обсуждают возможные бенчмарки Grok 4](https://habr.com/ru/news/925466/?utm_campaign=925466&utm_source=habrahabr&utm_medium=rss)
 - [В НИЯУ МИФИ открыли лабораторию киберугроз при поддержке BI.ZONE](https://habr.com/ru/news/925454/?utm_campaign=925454&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Ростелеком» создаёт новый онлайн-магазин видеоигр](https://habr.com/ru/news/925440/?utm_campaign=925440&utm_source=habrahabr&utm_medium=rss)
-- [Запущено серийное производство российского установщика повехностного SMD-монтажа PiPlacer8](https://habr.com/ru/news/925432/?utm_campaign=925432&utm_source=habrahabr&utm_medium=rss)
-- [Открыт новый набор на программу стажировок «Код для всех»](https://habr.com/ru/news/925424/?utm_campaign=925424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
