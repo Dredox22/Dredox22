@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В компании МТС появился центр по разработке мобильных игр](https://habr.com/ru/news/926090/?utm_campaign=926090&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte приглашает на практический вебинар «Безграничный Excel: сводные таблицы над миллиардами строк за секунды!»](https://habr.com/ru/companies/glowbyte/news/926080/?utm_campaign=926080&utm_source=habrahabr&utm_medium=rss)
 - [DarkEye: хакер продаёт якобы полностью рабочий эксплойт 0-day RCE для последней и более ранних версий WinRAR за $80 000](https://habr.com/ru/news/926072/?utm_campaign=926072&utm_source=habrahabr&utm_medium=rss)
 - [«Ред ОС 8» портирована на одноплатный компьютер Orange Pi Zero 2W](https://habr.com/ru/news/926056/?utm_campaign=926056&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI усиливает меры безопасности, чтобы не дать конкурентам скопировать свои передовые модели ИИ](https://habr.com/ru/companies/bothub/news/926054/?utm_campaign=926054&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI ужесточила меры безопасности внутри компании, опасаясь шпионажа из Китая](https://habr.com/ru/news/926052/?utm_campaign=926052&utm_source=habrahabr&utm_medium=rss)
-- [«Кошачья атака» на модель рассуждений показывает, насколько важна контекстная инженерия](https://habr.com/ru/companies/bothub/news/926048/?utm_campaign=926048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
