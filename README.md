@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Финам» открывает второй поток летнего IT-буткемпа: реальный опыт ждёт Тебя](https://habr.com/ru/companies/finam_broker/news/925850/?utm_campaign=925850&utm_source=habrahabr&utm_medium=rss)
+- [Загрузку страниц в Edge ускорили до 300 мс](https://habr.com/ru/news/925840/?utm_campaign=925840&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получит функцию ИИ-обоев Wallpaper AI](https://habr.com/ru/news/925826/?utm_campaign=925826&utm_source=habrahabr&utm_medium=rss)
 - [Проект Postcard опубликован как Open Source](https://habr.com/ru/news/925600/?utm_campaign=925600&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wayland 1.24](https://habr.com/ru/news/925626/?utm_campaign=925626&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Pinta 3.0.2](https://habr.com/ru/news/925728/?utm_campaign=925728&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT в ближайшее время могут добавить отдельную функцию для обучения](https://habr.com/ru/news/925798/?utm_campaign=925798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
