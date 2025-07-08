@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 получит функцию ИИ-обоев Wallpaper AI](https://habr.com/ru/news/925826/?utm_campaign=925826&utm_source=habrahabr&utm_medium=rss)
 - [Проект Postcard опубликован как Open Source](https://habr.com/ru/news/925600/?utm_campaign=925600&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wayland 1.24](https://habr.com/ru/news/925626/?utm_campaign=925626&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта Pinta 3.0.2](https://habr.com/ru/news/925728/?utm_campaign=925728&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT в ближайшее время могут добавить отдельную функцию для обучения](https://habr.com/ru/news/925798/?utm_campaign=925798&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» представил прототип наркозно-дыхательного аппарата на выставке «Иннопром-2025»](https://habr.com/ru/news/925758/?utm_campaign=925758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
