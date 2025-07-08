@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая линейка ПАК Solar NGFW: защита уровня enterprise для корпораций и МСБ в самых атакуемых отраслях](https://habr.com/ru/companies/solarsecurity/news/926046/?utm_campaign=926046&utm_source=habrahabr&utm_medium=rss)
+- [Новый алгоритм Sakana AI позволяет большим языковым моделям работать сообща для решения сложных задач](https://habr.com/ru/companies/bothub/news/926034/?utm_campaign=926034&utm_source=habrahabr&utm_medium=rss)
 - [Платформа VK WorkSpace и DLP-система «СёрчИнформ КИБ» помогут компаниям защититься от утечек](https://habr.com/ru/companies/searchinform/news/926004/?utm_campaign=926004&utm_source=habrahabr&utm_medium=rss)
 - [Искусственный интеллект возрождает успешную модель Александра Дюма](https://habr.com/ru/companies/bothub/news/925994/?utm_campaign=925994&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры запустило третий этап поиска уязвимостей в инфраструктуре электронного правительства](https://habr.com/ru/news/925988/?utm_campaign=925988&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba представила Qwen VLo: мультимодальная модель для работы с изображениями](https://habr.com/ru/companies/bothub/news/925982/?utm_campaign=925982&utm_source=habrahabr&utm_medium=rss)
-- [В Open Source-платформе Deckhouse Kubernetes Platform CE появилось управление секретами с IaC и поддержкой российских ОС](https://habr.com/ru/companies/flant/news/925940/?utm_campaign=925940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
