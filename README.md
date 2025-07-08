@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«2ГИС» адаптировал навигатор и карты для мотоциклистов](https://habr.com/ru/news/925952/?utm_campaign=925952&utm_source=habrahabr&utm_medium=rss)
-- [Grok 4 представят в ночь на 10 июля](https://habr.com/ru/news/925936/?utm_campaign=925936&utm_source=habrahabr&utm_medium=rss)
-- [Как это сделано: Block Storage в MWS Cloud Platform. Разбираем в реалити Building the Cloud](https://habr.com/ru/companies/mws/news/922152/?utm_campaign=922152&utm_source=habrahabr&utm_medium=rss)
-- [RuStore представил рейтинг самых популярных приложений и игр за первое полугодие 2025](https://habr.com/ru/news/925908/?utm_campaign=925908&utm_source=habrahabr&utm_medium=rss)
-- [Микробенчмарки лгут, JMH спасает, XY-проблема подкралась незаметно | Spring АйО Подкаст №24](https://habr.com/ru/companies/spring_aio/news/925918/?utm_campaign=925918&utm_source=habrahabr&utm_medium=rss)
+- [Платформа VK WorkSpace и DLP-система «СёрчИнформ КИБ» помогут компаниям защититься от утечек](https://habr.com/ru/companies/searchinform/news/926004/?utm_campaign=926004&utm_source=habrahabr&utm_medium=rss)
+- [Искусственный интеллект возрождает успешную модель Александра Дюма](https://habr.com/ru/companies/bothub/news/925994/?utm_campaign=925994&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры запустило третий этап поиска уязвимостей в инфраструктуре электронного правительства](https://habr.com/ru/news/925988/?utm_campaign=925988&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba представила Qwen VLo: мультимодальная модель для работы с изображениями](https://habr.com/ru/companies/bothub/news/925982/?utm_campaign=925982&utm_source=habrahabr&utm_medium=rss)
+- [В Open Source-платформе Deckhouse Kubernetes Platform CE появилось управление секретами с IaC и поддержкой российских ОС](https://habr.com/ru/companies/flant/news/925940/?utm_campaign=925940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
