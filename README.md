@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Микробенчмарки лгут, JMH спасает, XY-проблема подкралась незаметно | Spring АйО Подкаст №24](https://habr.com/ru/companies/spring_aio/news/925918/?utm_campaign=925918&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар Selectel &amp;amp; UserGate: сценарии сетевой безопасности в ЦОД и облаке для компаний](https://habr.com/ru/companies/selectel/news/925906/?utm_campaign=925906&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты компании Innostage выявили критическую уязвимость в популярной веб-IDE Atheos](https://habr.com/ru/companies/innostage/news/925892/?utm_campaign=925892&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст частично запустил Windows 95 на консоли Sony PlayStation 2](https://habr.com/ru/news/925868/?utm_campaign=925868&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic: ИИ-помощники могут понижать точность ответов в угоду пользователям](https://habr.com/ru/news/925866/?utm_campaign=925866&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD Металлоконструкции 24.1 – теперь и на российских операционных системах](https://habr.com/ru/companies/nanosoft/news/922500/?utm_campaign=922500&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ обеспечил готовность Платформы цифрового рубля: ЦБ подтвердил прохождение тестирования](https://habr.com/ru/companies/rshb/news/925858/?utm_campaign=925858&utm_source=habrahabr&utm_medium=rss)
-- [«Финам» открывает второй поток летнего IT-буткемпа: реальный опыт ждёт Тебя](https://habr.com/ru/companies/finam_broker/news/925850/?utm_campaign=925850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
