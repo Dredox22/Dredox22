@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok 4 анонсируют в ночь на 10 июля](https://habr.com/ru/news/925936/?utm_campaign=925936&utm_source=habrahabr&utm_medium=rss)
+- [«2ГИС» адаптировал навигатор и карты для мотоциклистов](https://habr.com/ru/news/925952/?utm_campaign=925952&utm_source=habrahabr&utm_medium=rss)
+- [Grok 4 представят в ночь на 10 июля](https://habr.com/ru/news/925936/?utm_campaign=925936&utm_source=habrahabr&utm_medium=rss)
 - [Как это сделано: Block Storage в MWS Cloud Platform. Разбираем в реалити Building the Cloud](https://habr.com/ru/companies/mws/news/922152/?utm_campaign=922152&utm_source=habrahabr&utm_medium=rss)
 - [RuStore представил рейтинг самых популярных приложений и игр за первое полугодие 2025](https://habr.com/ru/news/925908/?utm_campaign=925908&utm_source=habrahabr&utm_medium=rss)
 - [Микробенчмарки лгут, JMH спасает, XY-проблема подкралась незаметно | Spring АйО Подкаст №24](https://habr.com/ru/companies/spring_aio/news/925918/?utm_campaign=925918&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар Selectel &amp;amp; UserGate: сценарии сетевой безопасности в ЦОД и облаке для компаний](https://habr.com/ru/companies/selectel/news/925906/?utm_campaign=925906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
