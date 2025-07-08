@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Postcard опубликован как Open Source](https://habr.com/ru/news/925600/?utm_campaign=925600&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Wayland 1.24](https://habr.com/ru/news/925626/?utm_campaign=925626&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Pinta 3.0.2](https://habr.com/ru/news/925728/?utm_campaign=925728&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT в ближайшее время могут добавить отдельную функцию для обучения](https://habr.com/ru/news/925798/?utm_campaign=925798&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» представил прототип наркозно-дыхательного аппарата на выставке «Иннопром-2025»](https://habr.com/ru/news/925758/?utm_campaign=925758&utm_source=habrahabr&utm_medium=rss)
-- [ФИАН представил модернизированный советский нанолитограф для рентгеновской оптики](https://habr.com/ru/news/925756/?utm_campaign=925756&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» заблокировал 1,6 млрд вредоносных запросов в российских школах во время ЕГЭ-2025](https://habr.com/ru/news/925754/?utm_campaign=925754&utm_source=habrahabr&utm_medium=rss)
-- [Производители российской электроники просят изменить расчёт цен на госзакупках из-за демпинга иностранцев](https://habr.com/ru/news/925746/?utm_campaign=925746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
