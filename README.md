@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Слив засчитан: половина кинопрокатных премьер утекает в интернет](https://habr.com/ru/companies/F6/news/925548/?utm_campaign=925548&utm_source=habrahabr&utm_medium=rss)
+- [В Excel для Windows упростили получение данных из внешних источников](https://habr.com/ru/news/926176/?utm_campaign=926176&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge будет мониторить утечки паролей в режиме реального времени](https://habr.com/ru/news/926136/?utm_campaign=926136&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» представил задания для международного ИИ-конкурса для детей и молодежи AI Challenge 2025](https://habr.com/ru/news/926174/?utm_campaign=926174&utm_source=habrahabr&utm_medium=rss)
 - [GlobalFoundries объявила о приобретении разработчика ядер RISC-V](https://habr.com/ru/news/926170/?utm_campaign=926170&utm_source=habrahabr&utm_medium=rss)
-- [Gemini научили читать переписки и заметки на Android, опцию можно отключить](https://habr.com/ru/news/926168/?utm_campaign=926168&utm_source=habrahabr&utm_medium=rss)
-- [Вышел дистрибутив Parrot OS 6.4 для этического хакинга с ядром Linux 6.12 LTS и новыми инструментами для пентестов](https://habr.com/ru/news/926166/?utm_campaign=926166&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Minimal PDF Compress 1.1 — GUI для Ghostscript под Windows](https://habr.com/ru/news/926158/?utm_campaign=926158&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого аудиоплеера Amarok 3.3.0](https://habr.com/ru/news/926156/?utm_campaign=926156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
