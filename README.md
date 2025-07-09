@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Software Foundation пожаловался на атаки на ресурсы фонда](https://habr.com/ru/news/926190/?utm_campaign=926190&utm_source=habrahabr&utm_medium=rss)
 - [Слив засчитан: половина кинопрокатных премьер утекает в интернет](https://habr.com/ru/companies/F6/news/925548/?utm_campaign=925548&utm_source=habrahabr&utm_medium=rss)
 - [В Excel для Windows упростили получение данных из внешних источников](https://habr.com/ru/news/926176/?utm_campaign=926176&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge будет мониторить утечки паролей в режиме реального времени](https://habr.com/ru/news/926136/?utm_campaign=926136&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» представил задания для международного ИИ-конкурса для детей и молодежи AI Challenge 2025](https://habr.com/ru/news/926174/?utm_campaign=926174&utm_source=habrahabr&utm_medium=rss)
-- [GlobalFoundries объявила о приобретении разработчика ядер RISC-V](https://habr.com/ru/news/926170/?utm_campaign=926170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
