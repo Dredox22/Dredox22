@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK: в мессенджере Max зарегистрировано более двух миллионов пользователей](https://habr.com/ru/news/926284/?utm_campaign=926284&utm_source=habrahabr&utm_medium=rss)
+- [Коты vs ИИ: добавление в промпт простых фраз, не относящихся к делу, заставляет ИИ ошибаться чаще](https://habr.com/ru/news/926288/?utm_campaign=926288&utm_source=habrahabr&utm_medium=rss)
 - [Госдума отклонила законопроект о легализации «белых» хакеров](https://habr.com/ru/news/926252/?utm_campaign=926252&utm_source=habrahabr&utm_medium=rss)
 - [За день до выхода новой версии чат-бот Grok от Илона Маска оказался в центре скандала](https://habr.com/ru/news/926246/?utm_campaign=926246&utm_source=habrahabr&utm_medium=rss)
 - [Новый этап программ Минцифры по поиску уязвимостей запущен на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/926232/?utm_campaign=926232&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI: GPT-5 объединит достижения разных моделей](https://habr.com/ru/news/926218/?utm_campaign=926218&utm_source=habrahabr&utm_medium=rss)
-- [Free Software Foundation пожаловался на атаки на ресурсы фонда](https://habr.com/ru/news/926190/?utm_campaign=926190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
