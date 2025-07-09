@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GlobalFoundries объявила о приобретении разработчика ядер RISC-V](https://habr.com/ru/news/926170/?utm_campaign=926170&utm_source=habrahabr&utm_medium=rss)
+- [Gemini научили читать переписки и заметки на Android, опцию можно отключить](https://habr.com/ru/news/926168/?utm_campaign=926168&utm_source=habrahabr&utm_medium=rss)
+- [Вышел дистрибутив Parrot OS 6.4 для этического хакинга с ядром Linux 6.12 LTS и новыми инструментами для пентестов](https://habr.com/ru/news/926166/?utm_campaign=926166&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Minimal PDF Compress 1.1 — GUI для Ghostscript под Windows](https://habr.com/ru/news/926158/?utm_campaign=926158&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого аудиоплеера Amarok 3.3.0](https://habr.com/ru/news/926156/?utm_campaign=926156&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия открытого проекта TornadoVM 1.1.1 для запуска Java на гетерогенном оборудовании: CPU, GPU и FPGA](https://habr.com/ru/news/925820/?utm_campaign=925820&utm_source=habrahabr&utm_medium=rss)
-- [Релиз системы потокового видеовещания OBS Studio 31.1](https://habr.com/ru/news/925814/?utm_campaign=925814&utm_source=habrahabr&utm_medium=rss)
-- [Финтех Klarna трансформирует приложение в ИИ-суперапп](https://habr.com/ru/companies/bothub/news/926130/?utm_campaign=926130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
