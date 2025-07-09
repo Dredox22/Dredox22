@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла стабильная версия открытого проекта TornadoVM 1.1.1 для запуска Java на гетерогенном оборудовании: CPU, GPU и FPGA](https://habr.com/ru/news/925820/?utm_campaign=925820&utm_source=habrahabr&utm_medium=rss)
+- [Релиз системы потокового видеовещания OBS Studio 31.1](https://habr.com/ru/news/925814/?utm_campaign=925814&utm_source=habrahabr&utm_medium=rss)
 - [Финтех Klarna трансформирует приложение в ИИ-суперапп](https://habr.com/ru/companies/bothub/news/926130/?utm_campaign=926130&utm_source=habrahabr&utm_medium=rss)
 - [Второе мнение и подготовка к визиту. Врач посоветовал, как использовать ChatGPT](https://habr.com/ru/news/926124/?utm_campaign=926124&utm_source=habrahabr&utm_medium=rss)
 - [Научно-видеоигровая конференция  «И КАК? Игры как наука!» пройдёт в Пущино 9–10 августа 2025 года](https://habr.com/ru/news/926104/?utm_campaign=926104&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ рассматривает возможность введения обязательной маркировки ИИ-контента для борьбы с дипфейками](https://habr.com/ru/news/926098/?utm_campaign=926098&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi выпустила компактный модуль камеры](https://habr.com/ru/news/926096/?utm_campaign=926096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
