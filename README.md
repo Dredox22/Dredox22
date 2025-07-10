@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сайберия Нова» из дополнения «Земской собор» к «Смуте» сделала полноценную игру](https://habr.com/ru/news/926664/?utm_campaign=926664&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты электронной торговли обсудят табу в брендинге ecom-продуктов на митапе «Ecom и Вино»](https://habr.com/ru/companies/agima/news/926658/?utm_campaign=926658&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-браузер OpenAI: новый конкурент Google Chrome](https://habr.com/ru/companies/finam_broker/news/926642/?utm_campaign=926642&utm_source=habrahabr&utm_medium=rss)
 - [Практика на реальных кейсах: SOC «К2 Кибербезопасности» отработал навыки на Standoff Cyberbones](https://habr.com/ru/companies/pt/news/926636/?utm_campaign=926636&utm_source=habrahabr&utm_medium=rss)
 - [Forbes: доля зарубежного трафика в российских сетях за последний год могла вырасти на 15–25%](https://habr.com/ru/news/926624/?utm_campaign=926624&utm_source=habrahabr&utm_medium=rss)
-- [В МАИ разрабатывают технологии для спуска аппаратов в атмосферу Венеры](https://habr.com/ru/news/926622/?utm_campaign=926622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
