@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI может выпустить модель с открытыми весами уже на следующей неделе — The Verge](https://habr.com/ru/news/926734/?utm_campaign=926734&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре не зафиксировали DDoS-атак на Национальную систему платёжных карт &lpar;НСПК&rpar;](https://habr.com/ru/news/926714/?utm_campaign=926714&utm_source=habrahabr&utm_medium=rss)
 - [Операторов персональных данных обяжут использовать только российское ПО](https://habr.com/ru/news/926706/?utm_campaign=926706&utm_source=habrahabr&utm_medium=rss)
 - [«Сайберия Нова» из дополнения «Земской собор» к «Смуте» сделала полноценную игру](https://habr.com/ru/news/926664/?utm_campaign=926664&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты электронной торговли обсудят табу в брендинге ecom-продуктов на митапе «Ecom и Вино»](https://habr.com/ru/companies/agima/news/926658/?utm_campaign=926658&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-браузер OpenAI: новый конкурент Google Chrome](https://habr.com/ru/companies/finam_broker/news/926642/?utm_campaign=926642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
