@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google анонсировала прокладку нового трансатлантического интернет-кабеля, который соединит США и Европу](https://habr.com/ru/news/926578/?utm_campaign=926578&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запустил бесплатный мини-курс по PostgreSQL](https://habr.com/ru/companies/selectel/news/926454/?utm_campaign=926454&utm_source=habrahabr&utm_medium=rss)
+- [Luxms BI — самая безопасная BI-платформа по версии «BI-круга Громова 2025»](https://habr.com/ru/companies/luxms_bi/news/926552/?utm_campaign=926552&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-бот для найма сотрудников McDonald&#39;s раскрыл исследователям данные миллионов соискателей](https://habr.com/ru/news/926474/?utm_campaign=926474&utm_source=habrahabr&utm_medium=rss)
 - [Злоумышленник использовал ИИ, чтобы выдать себя за министра и связаться с высокопоставленными чиновниками](https://habr.com/ru/companies/bothub/news/926482/?utm_campaign=926482&utm_source=habrahabr&utm_medium=rss)
-- [TDMS Фарватер 24.3: техническое обновление системы документооборота и управления проектированием](https://habr.com/ru/companies/nanosoft/news/922842/?utm_campaign=922842&utm_source=habrahabr&utm_medium=rss)
-- [Сотни расширений для браузеров превращают их в ботов для парсинга веб-страниц](https://habr.com/ru/news/926462/?utm_campaign=926462&utm_source=habrahabr&utm_medium=rss)
-- [Дайджест мероприятий на июль](https://habr.com/ru/companies/mipt_digital/news/926458/?utm_campaign=926458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
