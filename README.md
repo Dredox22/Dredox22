@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотни расширений для браузеров превращают их в ботов для парсинга веб-страниц](https://habr.com/ru/news/926462/?utm_campaign=926462&utm_source=habrahabr&utm_medium=rss)
+- [Дайджест мероприятий на июль](https://habr.com/ru/companies/mipt_digital/news/926458/?utm_campaign=926458&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Authenticator для iOS полностью перенесёт резервные копии в iCloud](https://habr.com/ru/news/926452/?utm_campaign=926452&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo Switch 2 начала корректно работать со сторонними USB-аксессуарами, когда они получили обновления прошивки](https://habr.com/ru/news/926448/?utm_campaign=926448&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила проблему синхронизации со службами обновления Windows Server](https://habr.com/ru/news/926446/?utm_campaign=926446&utm_source=habrahabr&utm_medium=rss)
-- [TikTok представил шрифт TikTokSans 4.0 под открытой лицензией OFL](https://habr.com/ru/news/926430/?utm_campaign=926430&utm_source=habrahabr&utm_medium=rss)
-- [Релиз системы обнаружения вторжений Suricata 8.0](https://habr.com/ru/news/926428/?utm_campaign=926428&utm_source=habrahabr&utm_medium=rss)
-- [Red Hat представила инициативу по бесплатному тестовому использованию Red Hat Enterprise Linux 10 на предприятиях](https://habr.com/ru/news/926424/?utm_campaign=926424&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.10](https://habr.com/ru/news/926370/?utm_campaign=926370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
