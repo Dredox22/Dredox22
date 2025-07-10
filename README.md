@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft подтвердила проблему синхронизации со службами обновления Windows Server](https://habr.com/ru/news/926446/?utm_campaign=926446&utm_source=habrahabr&utm_medium=rss)
 - [TikTok представил шрифт TikTokSans 4.0 под открытой лицензией OFL](https://habr.com/ru/news/926430/?utm_campaign=926430&utm_source=habrahabr&utm_medium=rss)
 - [Релиз системы обнаружения вторжений Suricata 8.0](https://habr.com/ru/news/926428/?utm_campaign=926428&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat представила инициативу по бесплатному тестовому использованию Red Hat Enterprise Linux 10 на предприятиях](https://habr.com/ru/news/926424/?utm_campaign=926424&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.10](https://habr.com/ru/news/926370/?utm_campaign=926370&utm_source=habrahabr&utm_medium=rss)
-- [Браузер на базе ChatGPT может выйти в ближайшие недели — Reuters](https://habr.com/ru/news/926392/?utm_campaign=926392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
