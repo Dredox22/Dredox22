@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.10](https://habr.com/ru/news/926370/?utm_campaign=926370&utm_source=habrahabr&utm_medium=rss)
 - [Браузер на базе ChatGPT может выйти в ближайшие недели — Reuters](https://habr.com/ru/news/926392/?utm_campaign=926392&utm_source=habrahabr&utm_medium=rss)
 - [«Росэл» представил новые металлообрабатывающие станки на «Иннопром-2025»](https://habr.com/ru/news/926380/?utm_campaign=926380&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face открыла предзаказы на Reachy Mini — опенсорс-робота с нейросетями на борту](https://habr.com/ru/news/926372/?utm_campaign=926372&utm_source=habrahabr&utm_medium=rss)
 - [Isomorphic Labs готовится протестировать на людях лекарства, разработанные с помощью ИИ](https://habr.com/ru/news/926332/?utm_campaign=926332&utm_source=habrahabr&utm_medium=rss)
-- [Российские сервисы кикшеринга подключатся к поиску пропавших людей](https://habr.com/ru/news/926326/?utm_campaign=926326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
