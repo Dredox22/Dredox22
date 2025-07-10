@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз системы обнаружения вторжений Suricata 8.0](https://habr.com/ru/news/926428/?utm_campaign=926428&utm_source=habrahabr&utm_medium=rss)
+- [Red Hat представила инициативу по бесплатному тестовому использованию Red Hat Enterprise Linux 10 на предприятиях](https://habr.com/ru/news/926424/?utm_campaign=926424&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.10](https://habr.com/ru/news/926370/?utm_campaign=926370&utm_source=habrahabr&utm_medium=rss)
 - [Браузер на базе ChatGPT может выйти в ближайшие недели — Reuters](https://habr.com/ru/news/926392/?utm_campaign=926392&utm_source=habrahabr&utm_medium=rss)
 - [«Росэл» представил новые металлообрабатывающие станки на «Иннопром-2025»](https://habr.com/ru/news/926380/?utm_campaign=926380&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face открыла предзаказы на Reachy Mini — опенсорс-робота с нейросетями на борту](https://habr.com/ru/news/926372/?utm_campaign=926372&utm_source=habrahabr&utm_medium=rss)
-- [Isomorphic Labs готовится протестировать на людях лекарства, разработанные с помощью ИИ](https://habr.com/ru/news/926332/?utm_campaign=926332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
