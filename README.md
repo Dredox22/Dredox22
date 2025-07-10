@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia обошла Apple и Microsoft, первой достигнув 4 трлн долларов](https://habr.com/ru/companies/cloud4y/news/926608/?utm_campaign=926608&utm_source=habrahabr&utm_medium=rss)
+- [Центробанк РФ порекомендовал российским банкам принять специальный кодекс ИИ-этики](https://habr.com/ru/news/926592/?utm_campaign=926592&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft поблагодарила эксперта Positive Technologies за помощь в устранении уязвимости в 17-ти ОС Windows](https://habr.com/ru/companies/pt/news/926590/?utm_campaign=926590&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал новый курс по проведению расследований с помощью продуктов InfoWatch](https://habr.com/ru/companies/infowatch/news/926588/?utm_campaign=926588&utm_source=habrahabr&utm_medium=rss)
 - [Google анонсировала прокладку нового трансатлантического интернет-кабеля, который соединит США и Европу](https://habr.com/ru/news/926578/?utm_campaign=926578&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запустил бесплатный мини-курс по PostgreSQL](https://habr.com/ru/companies/selectel/news/926454/?utm_campaign=926454&utm_source=habrahabr&utm_medium=rss)
-- [Luxms BI — самая безопасная BI-платформа по версии «BI-круга Громова 2025»](https://habr.com/ru/companies/luxms_bi/news/926552/?utm_campaign=926552&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-бот для найма сотрудников McDonald&#39;s раскрыл исследователям данные миллионов соискателей](https://habr.com/ru/news/926474/?utm_campaign=926474&utm_source=habrahabr&utm_medium=rss)
-- [Злоумышленник использовал ИИ, чтобы выдать себя за министра и связаться с высокопоставленными чиновниками](https://habr.com/ru/companies/bothub/news/926482/?utm_campaign=926482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
