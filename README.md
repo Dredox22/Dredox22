@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликованы образы «Ред ОС 8» для одноплатных компьютеров Raspberry Pi 4b и Raspberry Pi 5](https://habr.com/ru/news/926768/?utm_campaign=926768&utm_source=habrahabr&utm_medium=rss)
 - [В децентрализованном мессенджере Джека Дорси нашли критические уязвимости](https://habr.com/ru/news/926758/?utm_campaign=926758&utm_source=habrahabr&utm_medium=rss)
 - [Google тянет обратно на Windows 7 и XP](https://habr.com/ru/news/926752/?utm_campaign=926752&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI может выпустить модель с открытыми весами уже на следующей неделе — The Verge](https://habr.com/ru/news/926734/?utm_campaign=926734&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре не зафиксировали DDoS-атак на Национальную систему платёжных карт &lpar;НСПК&rpar;](https://habr.com/ru/news/926714/?utm_campaign=926714&utm_source=habrahabr&utm_medium=rss)
-- [Операторов персональных данных обяжут использовать только российское ПО](https://habr.com/ru/news/926706/?utm_campaign=926706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
