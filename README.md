@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-браузер OpenAI: новый конкурент Google Chrome](https://habr.com/ru/companies/finam_broker/news/926642/?utm_campaign=926642&utm_source=habrahabr&utm_medium=rss)
+- [Практика на реальных кейсах: SOC «К2 Кибербезопасности» отработал навыки на Standoff Cyberbones](https://habr.com/ru/companies/pt/news/926636/?utm_campaign=926636&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: доля зарубежного трафика в российских сетях за последний год могла вырасти на 15–25%](https://habr.com/ru/news/926624/?utm_campaign=926624&utm_source=habrahabr&utm_medium=rss)
+- [В МАИ разрабатывают технологии для спуска аппаратов в атмосферу Венеры](https://habr.com/ru/news/926622/?utm_campaign=926622&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia обошла Apple и Microsoft, первой достигнув 4 трлн долларов](https://habr.com/ru/companies/cloud4y/news/926608/?utm_campaign=926608&utm_source=habrahabr&utm_medium=rss)
-- [Центробанк РФ порекомендовал российским банкам принять специальный кодекс ИИ-этики](https://habr.com/ru/news/926592/?utm_campaign=926592&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft поблагодарила эксперта Positive Technologies за помощь в устранении уязвимости в 17-ти ОС Windows](https://habr.com/ru/companies/pt/news/926590/?utm_campaign=926590&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал новый курс по проведению расследований с помощью продуктов InfoWatch](https://habr.com/ru/companies/infowatch/news/926588/?utm_campaign=926588&utm_source=habrahabr&utm_medium=rss)
-- [Google анонсировала прокладку нового трансатлантического интернет-кабеля, который соединит США и Европу](https://habr.com/ru/news/926578/?utm_campaign=926578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
