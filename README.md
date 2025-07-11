@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google добавила в Veo 3 функцию преобразования изображений в видео](https://habr.com/ru/companies/bothub/news/926924/?utm_campaign=926924&utm_source=habrahabr&utm_medium=rss)
+- [«Криптонит» представила инструмент для проверки безопасности 5G‑сетей](https://habr.com/ru/news/926922/?utm_campaign=926922&utm_source=habrahabr&utm_medium=rss)
+- [Grok появится в автомобилях Tesla «на следующей неделе», — заявил Илон Маск](https://habr.com/ru/companies/bothub/news/926920/?utm_campaign=926920&utm_source=habrahabr&utm_medium=rss)
+- [Какие апдейты в продуктах Selectel были в июне](https://habr.com/ru/companies/selectel/news/926912/?utm_campaign=926912&utm_source=habrahabr&utm_medium=rss)
 - [Михаил Кадер присоединился к команде UserGate](https://habr.com/ru/companies/usergate/news/926894/?utm_campaign=926894&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар 16 июля: как работает интеллектуальная платформа «Синаптика» в ОСРВ «Нейтрино» — от архитектуры до практики](https://habr.com/ru/companies/swd_es/news/926872/?utm_campaign=926872&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь обманул ChatGPT 4.0 и выпросил ключи Windows 10, включая как минимум один, принадлежащий банку Wells Fargo](https://habr.com/ru/news/926888/?utm_campaign=926888&utm_source=habrahabr&utm_medium=rss)
-- [Mockly представила генератор фейковых личных сообщений для 13 соцсетей и сервисов](https://habr.com/ru/news/926850/?utm_campaign=926850&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала тестировать новый «чёрный экран смерти» в Windows 11](https://habr.com/ru/news/926838/?utm_campaign=926838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
