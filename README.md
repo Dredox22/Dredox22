@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM анонсировала сервер Power11 с аптаймом на уровне 99,9999% и на 55% лучшей производительностью, чем Power9](https://habr.com/ru/news/926958/?utm_campaign=926958&utm_source=habrahabr&utm_medium=rss)
+- [Grok 4 консультируется с мнением Илона Маска, когда ему задают политические вопросы](https://habr.com/ru/news/926954/?utm_campaign=926954&utm_source=habrahabr&utm_medium=rss)
+- [Открыт набор в новый состав Молодёжного совета Координационного центра доменов .RU/.РФ 2025-2026 годов](https://habr.com/ru/news/926936/?utm_campaign=926936&utm_source=habrahabr&utm_medium=rss)
+- [Grok 4 — «AGI у нас дома» или просто хайп?](https://habr.com/ru/news/926928/?utm_campaign=926928&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила в Veo 3 функцию преобразования изображений в видео](https://habr.com/ru/companies/bothub/news/926924/?utm_campaign=926924&utm_source=habrahabr&utm_medium=rss)
-- [«Криптонит» представила инструмент для проверки безопасности 5G‑сетей](https://habr.com/ru/news/926922/?utm_campaign=926922&utm_source=habrahabr&utm_medium=rss)
-- [Grok появится в автомобилях Tesla «на следующей неделе», — заявил Илон Маск](https://habr.com/ru/companies/bothub/news/926920/?utm_campaign=926920&utm_source=habrahabr&utm_medium=rss)
-- [Какие апдейты в продуктах Selectel были в июне](https://habr.com/ru/companies/selectel/news/926912/?utm_campaign=926912&utm_source=habrahabr&utm_medium=rss)
-- [Михаил Кадер присоединился к команде UserGate](https://habr.com/ru/companies/usergate/news/926894/?utm_campaign=926894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
