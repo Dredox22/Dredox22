@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [BitBlaze на «Иннопроме-2025» представила инженерный прототип ноутбука на процессоре «Эльбрус»](https://habr.com/ru/news/926970/?utm_campaign=926970&utm_source=habrahabr&utm_medium=rss)
 - [IBM анонсировала сервер Power11 с аптаймом на уровне 99,9999% и на 55% лучшей производительностью, чем Power9](https://habr.com/ru/news/926958/?utm_campaign=926958&utm_source=habrahabr&utm_medium=rss)
 - [Grok 4 консультируется с мнением Илона Маска, когда ему задают политические вопросы](https://habr.com/ru/news/926954/?utm_campaign=926954&utm_source=habrahabr&utm_medium=rss)
 - [Открыт набор в новый состав Молодёжного совета Координационного центра доменов .RU/.РФ 2025-2026 годов](https://habr.com/ru/news/926936/?utm_campaign=926936&utm_source=habrahabr&utm_medium=rss)
 - [Grok 4 — «AGI у нас дома» или просто хайп?](https://habr.com/ru/news/926928/?utm_campaign=926928&utm_source=habrahabr&utm_medium=rss)
-- [Google добавила в Veo 3 функцию преобразования изображений в видео](https://habr.com/ru/companies/bothub/news/926924/?utm_campaign=926924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
