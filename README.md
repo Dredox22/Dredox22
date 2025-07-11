@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Огайо запустили ИИ-мусоровозы для борьбы с неправильной сортировкой отходов](https://habr.com/ru/news/926820/?utm_campaign=926820&utm_source=habrahabr&utm_medium=rss)
 - [Золотой возраст: мошенники предлагают рождённым в СССР получить «июньские дивиденды»](https://habr.com/ru/companies/F6/news/926710/?utm_campaign=926710&utm_source=habrahabr&utm_medium=rss)
 - [Российские разработчики ПО попросили Минцифры, Рособрнадзор и Минпросвещения проводить ЕГЭ в школах на отечественных ОС](https://habr.com/ru/news/926802/?utm_campaign=926802&utm_source=habrahabr&utm_medium=rss)
 - [Мейнтейнер блочной подсистемы в ядре Linux решил убрать драйвер pktcdvd для пакетной записи CD/DVD в Linux 6.17](https://habr.com/ru/news/926792/?utm_campaign=926792&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Minimal PDF Compress 1.2 и почти сразу 1.3 — GUI для Ghostscript под Windows](https://habr.com/ru/news/926790/?utm_campaign=926790&utm_source=habrahabr&utm_medium=rss)
-- [Новый ИИ может «предсказывать поведение человека в любой ситуации» с беспрецедентной точностью](https://habr.com/ru/news/926782/?utm_campaign=926782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
