@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователь обманул ChatGPT 4.0 и выпросил ключи Windows 10, включая как минимум один, принадлежащий банку Wells Fargo](https://habr.com/ru/news/926888/?utm_campaign=926888&utm_source=habrahabr&utm_medium=rss)
 - [Mockly представила генератор фейковых личных сообщений для 13 соцсетей и сервисов](https://habr.com/ru/news/926850/?utm_campaign=926850&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала тестировать новый «чёрный экран смерти» в Windows 11](https://habr.com/ru/news/926838/?utm_campaign=926838&utm_source=habrahabr&utm_medium=rss)
 - [Google заменила Android Developer Preview на канал Canary](https://habr.com/ru/news/926830/?utm_campaign=926830&utm_source=habrahabr&utm_medium=rss)
 - [В Огайо запустили ИИ-мусоровозы для борьбы с неправильной сортировкой отходов](https://habr.com/ru/news/926820/?utm_campaign=926820&utm_source=habrahabr&utm_medium=rss)
-- [Золотой возраст: мошенники предлагают рождённым в СССР получить «июньские дивиденды»](https://habr.com/ru/companies/F6/news/926710/?utm_campaign=926710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
