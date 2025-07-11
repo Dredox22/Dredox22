@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мейнтейнер блочной подсистемы в ядре Linux решил убрать драйвер pktcdvd для пакетной записи CD/DVD в Linux 6.17](https://habr.com/ru/news/926792/?utm_campaign=926792&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Minimal PDF Compress 1.2 и почти сразу 1.3 — GUI для Ghostscript под Windows](https://habr.com/ru/news/926790/?utm_campaign=926790&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ может «предсказывать поведение человека в любой ситуации» с беспрецедентной точностью](https://habr.com/ru/news/926782/?utm_campaign=926782&utm_source=habrahabr&utm_medium=rss)
 - [Опубликованы образы «Ред ОС 8» для одноплатных компьютеров Raspberry Pi 4b и Raspberry Pi 5](https://habr.com/ru/news/926768/?utm_campaign=926768&utm_source=habrahabr&utm_medium=rss)
 - [В децентрализованном мессенджере Джека Дорси нашли критические уязвимости](https://habr.com/ru/news/926758/?utm_campaign=926758&utm_source=habrahabr&utm_medium=rss)
-- [Google тянет обратно на Windows 7 и XP](https://habr.com/ru/news/926752/?utm_campaign=926752&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI может выпустить модель с открытыми весами уже на следующей неделе — The Verge](https://habr.com/ru/news/926734/?utm_campaign=926734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
