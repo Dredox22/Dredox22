@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ого: Гэвин Кинг добавил интеграцию со Spring в рамках Hibernate Data Repositories](https://habr.com/ru/companies/spring_aio/news/927032/?utm_campaign=927032&utm_source=habrahabr&utm_medium=rss)
 - [Telegram запустил новый вид рекламы — баннеры поверх видео в каналах](https://habr.com/ru/news/927008/?utm_campaign=927008&utm_source=habrahabr&utm_medium=rss)
 - [BitBlaze на «Иннопроме-2025» представила инженерный прототип ноутбука на процессоре «Эльбрус»](https://habr.com/ru/news/926970/?utm_campaign=926970&utm_source=habrahabr&utm_medium=rss)
 - [IBM анонсировала сервер Power11 с аптаймом на уровне 99,9999% и на 55% лучшей производительностью, чем Power9](https://habr.com/ru/news/926958/?utm_campaign=926958&utm_source=habrahabr&utm_medium=rss)
 - [Grok 4 консультируется с мнением Илона Маска, когда ему задают политические вопросы](https://habr.com/ru/news/926954/?utm_campaign=926954&utm_source=habrahabr&utm_medium=rss)
-- [Открыт набор в новый состав Молодёжного совета Координационного центра доменов .RU/.РФ 2025-2026 годов](https://habr.com/ru/news/926936/?utm_campaign=926936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
