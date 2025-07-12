@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SUSE запустила корпоративную поддержку SUSE Sovereign Premium Support с привязкой к региону](https://habr.com/ru/news/927136/?utm_campaign=927136&utm_source=habrahabr&utm_medium=rss)
 - [Сорвалась сделка по покупке OpenAI ИИ-стартапа Windsurf](https://habr.com/ru/news/927128/?utm_campaign=927128&utm_source=habrahabr&utm_medium=rss)
 - [ФБР закрыло крупный пиратский сайт nsw2u с играми для Nintendo Switch](https://habr.com/ru/news/927122/?utm_campaign=927122&utm_source=habrahabr&utm_medium=rss)
 - [Управление AirPods без касаний, новая функция умных очков у Samsung и сделка на рынке полупроводников: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/926984/?utm_campaign=926984&utm_source=habrahabr&utm_medium=rss)
 - [Единое управление для всех NGFW: «Солар» упрощает защиту распределенных корпоративных сетей](https://habr.com/ru/companies/solarsecurity/news/927094/?utm_campaign=927094&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wine 10.12](https://habr.com/ru/news/927082/?utm_campaign=927082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
