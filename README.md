@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Wine 10.12](https://habr.com/ru/news/927082/?utm_campaign=927082&utm_source=habrahabr&utm_medium=rss)
 - [Суд Нидерландов дал три года тюрьмы инженеру из РФ за кражу секретных документов с производств ASML и Mapper Lithography](https://habr.com/ru/news/927080/?utm_campaign=927080&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.6](https://habr.com/ru/news/926916/?utm_campaign=926916&utm_source=habrahabr&utm_medium=rss)
 - [50% кода в Google создается при помощи ИИ](https://habr.com/ru/news/927062/?utm_campaign=927062&utm_source=habrahabr&utm_medium=rss)
 - [Ого: Гэвин Кинг добавил интеграцию со Spring в рамках Hibernate Data Repositories](https://habr.com/ru/companies/spring_aio/news/927032/?utm_campaign=927032&utm_source=habrahabr&utm_medium=rss)
-- [Telegram запустил новый вид рекламы — баннеры поверх видео в каналах](https://habr.com/ru/news/927008/?utm_campaign=927008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
