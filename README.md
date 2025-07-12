@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура New Energy-Based Transformer призвана улучшить «системное мышление» в моделях ИИ](https://habr.com/ru/companies/bothub/news/927142/?utm_campaign=927142&utm_source=habrahabr&utm_medium=rss)
 - [SUSE запустила корпоративную поддержку SUSE Sovereign Premium Support с привязкой к региону](https://habr.com/ru/news/927136/?utm_campaign=927136&utm_source=habrahabr&utm_medium=rss)
 - [Сорвалась сделка по покупке OpenAI ИИ-стартапа Windsurf](https://habr.com/ru/news/927128/?utm_campaign=927128&utm_source=habrahabr&utm_medium=rss)
 - [ФБР закрыло крупный пиратский сайт nsw2u с играми для Nintendo Switch](https://habr.com/ru/news/927122/?utm_campaign=927122&utm_source=habrahabr&utm_medium=rss)
 - [Управление AirPods без касаний, новая функция умных очков у Samsung и сделка на рынке полупроводников: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/926984/?utm_campaign=926984&utm_source=habrahabr&utm_medium=rss)
-- [Единое управление для всех NGFW: «Солар» упрощает защиту распределенных корпоративных сетей](https://habr.com/ru/companies/solarsecurity/news/927094/?utm_campaign=927094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
