@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [16 часов беспредела. В xAI объяснили некорректное поведение Grok 3](https://habr.com/ru/news/927200/?utm_campaign=927200&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила о внедрении сбора телеметрии в свою сборку компилятора и инструментов Go версии 1.25](https://habr.com/ru/news/927176/?utm_campaign=927176&utm_source=habrahabr&utm_medium=rss)
 - [Архитектура New Energy-Based Transformer призвана улучшить «системное мышление» в моделях ИИ](https://habr.com/ru/companies/bothub/news/927142/?utm_campaign=927142&utm_source=habrahabr&utm_medium=rss)
 - [SUSE запустила корпоративную поддержку SUSE Sovereign Premium Support с привязкой к региону](https://habr.com/ru/news/927136/?utm_campaign=927136&utm_source=habrahabr&utm_medium=rss)
 - [Сорвалась сделка по покупке OpenAI ИИ-стартапа Windsurf](https://habr.com/ru/news/927128/?utm_campaign=927128&utm_source=habrahabr&utm_medium=rss)
-- [ФБР закрыло крупный пиратский сайт nsw2u с играми для Nintendo Switch](https://habr.com/ru/news/927122/?utm_campaign=927122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
