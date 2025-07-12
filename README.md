@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление AirPods без касаний, новая функция умных очков у Samsung и сделка на рынке полупроводников: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/926984/?utm_campaign=926984&utm_source=habrahabr&utm_medium=rss)
 - [Единое управление для всех NGFW: «Солар» упрощает защиту распределенных корпоративных сетей](https://habr.com/ru/companies/solarsecurity/news/927094/?utm_campaign=927094&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.12](https://habr.com/ru/news/927082/?utm_campaign=927082&utm_source=habrahabr&utm_medium=rss)
 - [Суд Нидерландов дал три года тюрьмы инженеру из РФ за кражу секретных документов с производств ASML и Mapper Lithography](https://habr.com/ru/news/927080/?utm_campaign=927080&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.6](https://habr.com/ru/news/926916/?utm_campaign=926916&utm_source=habrahabr&utm_medium=rss)
-- [50% кода в Google создается при помощи ИИ](https://habr.com/ru/news/927062/?utm_campaign=927062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
