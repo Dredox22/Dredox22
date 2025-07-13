@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск AIDA64 7.70](https://habr.com/ru/news/927210/?utm_campaign=927210&utm_source=habrahabr&utm_medium=rss)
 - [Вышла открытая БД QuestDB 9.0](https://habr.com/ru/news/927180/?utm_campaign=927180&utm_source=habrahabr&utm_medium=rss)
 - [16 часов беспредела. В xAI объяснили некорректное поведение Grok 3](https://habr.com/ru/news/927200/?utm_campaign=927200&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объявила о внедрении сбора телеметрии в свою сборку компилятора и инструментов Go версии 1.25](https://habr.com/ru/news/927176/?utm_campaign=927176&utm_source=habrahabr&utm_medium=rss)
 - [Архитектура New Energy-Based Transformer призвана улучшить «системное мышление» в моделях ИИ](https://habr.com/ru/companies/bothub/news/927142/?utm_campaign=927142&utm_source=habrahabr&utm_medium=rss)
-- [SUSE запустила корпоративную поддержку SUSE Sovereign Premium Support с привязкой к региону](https://habr.com/ru/news/927136/?utm_campaign=927136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
