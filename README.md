@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование Стэнфордского университета: боты-терапевты с ИИ дают опасные советы](https://habr.com/ru/news/927232/?utm_campaign=927232&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 снова появился звук запуска Windows Vista](https://habr.com/ru/news/927192/?utm_campaign=927192&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft восстановит ранее удалённые визуальные эффекты Windows 11 в Edge](https://habr.com/ru/news/927226/?utm_campaign=927226&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск AIDA64 7.70](https://habr.com/ru/news/927210/?utm_campaign=927210&utm_source=habrahabr&utm_medium=rss)
 - [Вышла открытая БД QuestDB 9.0](https://habr.com/ru/news/927180/?utm_campaign=927180&utm_source=habrahabr&utm_medium=rss)
-- [16 часов беспредела. В xAI объяснили некорректное поведение Grok 3](https://habr.com/ru/news/927200/?utm_campaign=927200&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объявила о внедрении сбора телеметрии в свою сборку компилятора и инструментов Go версии 1.25](https://habr.com/ru/news/927176/?utm_campaign=927176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
