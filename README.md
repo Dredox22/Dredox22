@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработан ИИ, способный создавать белки для борьбы с раком и супербактериями](https://habr.com/ru/news/927368/?utm_campaign=927368&utm_source=habrahabr&utm_medium=rss)
 - [Географическое встраивание: как упростить поиск взаимосвязей на карте](https://habr.com/ru/companies/bothub/news/927336/?utm_campaign=927336&utm_source=habrahabr&utm_medium=rss)
 - [Yandex B2B Tech выпустил сервис быстрого синтеза речи Brand Voice Lite](https://habr.com/ru/companies/bothub/news/927328/?utm_campaign=927328&utm_source=habrahabr&utm_medium=rss)
 - [В «Спортмастере» из-за ливней затопило IT-инфраструктуру, серверы «сушили» почти сутки](https://habr.com/ru/news/927282/?utm_campaign=927282&utm_source=habrahabr&utm_medium=rss)
 - [Центральный университет открыл гибридную магистратуру по машинному обучению](https://habr.com/ru/news/927262/?utm_campaign=927262&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Стэнфордского университета: боты-терапевты с ИИ дают опасные советы](https://habr.com/ru/news/927232/?utm_campaign=927232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
