@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты обсудят будущее электронной подписи на ВКС с Торгово-промышленной палатой Российской Федерации](https://habr.com/ru/companies/gaz-is/news/927602/?utm_campaign=927602&utm_source=habrahabr&utm_medium=rss)
+- [К2 НейроТех и red_mad_robot помогут бизнесу подготовиться к внедрению ИИ](https://habr.com/ru/companies/k2tech/news/927594/?utm_campaign=927594&utm_source=habrahabr&utm_medium=rss)
+- [29% вопросов к ChatGPT связаны с программированием, — Sensor Tower](https://habr.com/ru/news/927584/?utm_campaign=927584&utm_source=habrahabr&utm_medium=rss)
 - [Служба безопасности «Яндекс Маркета» помогла полиции выявить мошенника, который принимал оплату и не отправлял заказы](https://habr.com/ru/news/927544/?utm_campaign=927544&utm_source=habrahabr&utm_medium=rss)
 - [Инференс API LLM моделей LLaMA с доступом из России](https://habr.com/ru/companies/amvera/news/927508/?utm_campaign=927508&utm_source=habrahabr&utm_medium=rss)
-- [«Леста» перешла под управление компании «Айти Технологии», созданной в июле 2025 года](https://habr.com/ru/news/927502/?utm_campaign=927502&utm_source=habrahabr&utm_medium=rss)
-- [«Мамонт» вылетает в Геленджик](https://habr.com/ru/companies/F6/news/927450/?utm_campaign=927450&utm_source=habrahabr&utm_medium=rss)
-- [«Альт Виртуализация» 11.0: быстрая установка, поддержка SDN, обновление через веб-интерфейс, простая миграция из VMware](https://habr.com/ru/companies/basealtspo/news/927478/?utm_campaign=927478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
