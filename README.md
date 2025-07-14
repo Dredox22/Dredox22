@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вице-президент Европарламента поддержал движения «Прекратите убивать игры» &lpar;Stop Killing Games&rpar;](https://habr.com/ru/news/927660/?utm_campaign=927660&utm_source=habrahabr&utm_medium=rss)
+- [Samsung работает над аналогом Android Auto](https://habr.com/ru/news/927682/?utm_campaign=927682&utm_source=habrahabr&utm_medium=rss)
+- [Вице-президент Европарламента поддержал движение «Прекратите убивать игры» &lpar;Stop Killing Games&rpar;](https://habr.com/ru/news/927660/?utm_campaign=927660&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/927646/?utm_campaign=927646&utm_source=habrahabr&utm_medium=rss)
 - [Команда CyberCamp проведет митап по защите от киберугроз](https://habr.com/ru/companies/jetinfosystems/news/927640/?utm_campaign=927640&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты обсудят будущее электронной подписи на ВКС с Торгово-промышленной палатой Российской Федерации](https://habr.com/ru/companies/gaz-is/news/927602/?utm_campaign=927602&utm_source=habrahabr&utm_medium=rss)
-- [К2 НейроТех и red_mad_robot помогут бизнесу подготовиться к внедрению ИИ](https://habr.com/ru/companies/k2tech/news/927594/?utm_campaign=927594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
