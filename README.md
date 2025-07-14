@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инференс API LLM моделей LLaMA с доступом из России](https://habr.com/ru/companies/amvera/news/927508/?utm_campaign=927508&utm_source=habrahabr&utm_medium=rss)
+- [«Леста» перешла под управление компании «Айти Технологии», созданной в июле 2025 года](https://habr.com/ru/news/927502/?utm_campaign=927502&utm_source=habrahabr&utm_medium=rss)
 - [«Мамонт» вылетает в Геленджик](https://habr.com/ru/companies/F6/news/927450/?utm_campaign=927450&utm_source=habrahabr&utm_medium=rss)
 - [«Альт Виртуализация» 11.0: быстрая установка, поддержка SDN, обновление через веб-интерфейс, простая миграция из VMware](https://habr.com/ru/companies/basealtspo/news/927478/?utm_campaign=927478&utm_source=habrahabr&utm_medium=rss)
 - [ИИ отнял работу у тех, чья задача — помогать её найти: HR-платформы Glassdoor и Indeed заменят 1,3 тыс. работников на ИИ](https://habr.com/ru/news/927468/?utm_campaign=927468&utm_source=habrahabr&utm_medium=rss)
-- [В xAI потребовали от обучающих Grok сотрудников установить ПО для мониторинга рабочей активности](https://habr.com/ru/news/927446/?utm_campaign=927446&utm_source=habrahabr&utm_medium=rss)
-- [Веб-версия Word получила улучшенные элементы управления верхним и нижним колонтитулами](https://habr.com/ru/news/927428/?utm_campaign=927428&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
