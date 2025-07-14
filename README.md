@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: Grok 4 готов доносить на пользователей регуляторам](https://habr.com/ru/news/927422/?utm_campaign=927422&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Trayy 1.01 и 1.02 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/927412/?utm_campaign=927412&utm_source=habrahabr&utm_medium=rss)
+- [Вышла стабильная версия свободного 2D САПР LibreCAD 2.2.1.2](https://habr.com/ru/news/927410/?utm_campaign=927410&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft признала отсутствие возможности исправить ошибку Центра обновления Windows 0x80070643](https://habr.com/ru/news/927408/?utm_campaign=927408&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования ООО «Перспектива Групп» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/927014/?utm_campaign=927014&utm_source=habrahabr&utm_medium=rss)
-- [Июльский рейтинг TIOBE: Ada обогнал SQL, Perl и Fortran и занял 9-е место](https://habr.com/ru/news/927392/?utm_campaign=927392&utm_source=habrahabr&utm_medium=rss)
-- [Разработан ИИ, способный создавать белки для борьбы с раком и супербактериями](https://habr.com/ru/news/927368/?utm_campaign=927368&utm_source=habrahabr&utm_medium=rss)
-- [Географическое встраивание: как упростить поиск взаимосвязей на карте](https://habr.com/ru/companies/bothub/news/927336/?utm_campaign=927336&utm_source=habrahabr&utm_medium=rss)
-- [Yandex B2B Tech выпустил сервис быстрого синтеза речи Brand Voice Lite](https://habr.com/ru/companies/bothub/news/927328/?utm_campaign=927328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
