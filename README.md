@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-версия Word получила улучшенные элементы управления верхним и нижним колонтитулами](https://habr.com/ru/news/927428/?utm_campaign=927428&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-инструменты замедляют опытных разработчиков: результаты исследования METR](https://habr.com/ru/news/927436/?utm_campaign=927436&utm_source=habrahabr&utm_medium=rss)
+- [Обновление утилиты Shotstars для аналитики GitHub-репозиториев, включая детектирование фейковых звезд](https://habr.com/ru/news/927434/?utm_campaign=927434&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: Grok 4 готов доносить на пользователей регуляторам](https://habr.com/ru/news/927422/?utm_campaign=927422&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Trayy 1.01 и 1.02 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/927412/?utm_campaign=927412&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия свободного 2D САПР LibreCAD 2.2.1.2](https://habr.com/ru/news/927410/?utm_campaign=927410&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft признала отсутствие возможности исправить ошибку Центра обновления Windows 0x80070643](https://habr.com/ru/news/927408/?utm_campaign=927408&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования ООО «Перспектива Групп» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/927014/?utm_campaign=927014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
