@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/927646/?utm_campaign=927646&utm_source=habrahabr&utm_medium=rss)
+- [Команда CyberCamp проведет митап по защите от киберугроз](https://habr.com/ru/companies/jetinfosystems/news/927640/?utm_campaign=927640&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты обсудят будущее электронной подписи на ВКС с Торгово-промышленной палатой Российской Федерации](https://habr.com/ru/companies/gaz-is/news/927602/?utm_campaign=927602&utm_source=habrahabr&utm_medium=rss)
 - [К2 НейроТех и red_mad_robot помогут бизнесу подготовиться к внедрению ИИ](https://habr.com/ru/companies/k2tech/news/927594/?utm_campaign=927594&utm_source=habrahabr&utm_medium=rss)
 - [29% вопросов к ChatGPT связаны с программированием, — Sensor Tower](https://habr.com/ru/news/927584/?utm_campaign=927584&utm_source=habrahabr&utm_medium=rss)
-- [Служба безопасности «Яндекс Маркета» помогла полиции выявить мошенника, который принимал оплату и не отправлял заказы](https://habr.com/ru/news/927544/?utm_campaign=927544&utm_source=habrahabr&utm_medium=rss)
-- [Инференс API LLM моделей LLaMA с доступом из России](https://habr.com/ru/companies/amvera/news/927508/?utm_campaign=927508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
