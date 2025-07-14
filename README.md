@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung работает над аналогом Android Auto](https://habr.com/ru/news/927682/?utm_campaign=927682&utm_source=habrahabr&utm_medium=rss)
-- [Вице-президент Европарламента поддержал движение «Прекратите убивать игры» &lpar;Stop Killing Games&rpar;](https://habr.com/ru/news/927660/?utm_campaign=927660&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/927646/?utm_campaign=927646&utm_source=habrahabr&utm_medium=rss)
-- [Команда CyberCamp проведет митап по защите от киберугроз](https://habr.com/ru/companies/jetinfosystems/news/927640/?utm_campaign=927640&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты обсудят будущее электронной подписи на ВКС с Торгово-промышленной палатой Российской Федерации](https://habr.com/ru/companies/gaz-is/news/927602/?utm_campaign=927602&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» снизил скорость интернета жителю Новосибирска, посчитав большим объёмом трафика 6 ТБ за 13 дней](https://habr.com/ru/news/927712/?utm_campaign=927712&utm_source=habrahabr&utm_medium=rss)
+- [Джек Дорси выпустил ещё одно приложение, оно помогает не сгореть на солнце и получать достаточно витамина D](https://habr.com/ru/news/927706/?utm_campaign=927706&utm_source=habrahabr&utm_medium=rss)
+- [Grok 4 на страже американской мечты. xAI заключила контракт с Министерством обороны США](https://habr.com/ru/news/927702/?utm_campaign=927702&utm_source=habrahabr&utm_medium=rss)
+- [ИБ‑исследователи взломали eSIM с сертификацией GSMA](https://habr.com/ru/news/927700/?utm_campaign=927700&utm_source=habrahabr&utm_medium=rss)
+- [ChromeOS и Android станут единой операционной системой](https://habr.com/ru/news/927694/?utm_campaign=927694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
