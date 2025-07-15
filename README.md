@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [AGI наступил. В Grok добавили аниме-девочку](https://habr.com/ru/news/928010/?utm_campaign=928010&utm_source=habrahabr&utm_medium=rss)
+- [Cyberpunk 2077 для macOS выйдет 17 июля](https://habr.com/ru/news/928030/?utm_campaign=928030&utm_source=habrahabr&utm_medium=rss)
+- [ИБ-исследователи нашли поддельный бесплатный VPN и Minecraft-моды на GitHub, распространяющие вредоносное ПО](https://habr.com/ru/news/928028/?utm_campaign=928028&utm_source=habrahabr&utm_medium=rss)
+- [В Grok добавили аниме-компаньоншу — пользователи шутят, что «AGI наступил»](https://habr.com/ru/news/928010/?utm_campaign=928010&utm_source=habrahabr&utm_medium=rss)
 - [Spring сдаёт позиции, Hibernate под угрозой, AI-агенты захватывают Россию | Spring АйО Подкаст №26](https://habr.com/ru/companies/spring_aio/news/927978/?utm_campaign=927978&utm_source=habrahabr&utm_medium=rss)
 - [Hibernate не нужен, Java ломает парадигмы, Project Amber меняет правила игры | Spring АйО Подкаст №25](https://habr.com/ru/companies/spring_aio/news/927976/?utm_campaign=927976&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies запустила обновленный онлайн-полигон для белых хакеров — Standoff Hackbase](https://habr.com/ru/companies/pt/news/927744/?utm_campaign=927744&utm_source=habrahabr&utm_medium=rss)
-- [Главный руководитель разработки Xbox Майк Матсел опубликовал изображение о поиске сотрудников, сгенерированное ИИ](https://habr.com/ru/news/927882/?utm_campaign=927882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
