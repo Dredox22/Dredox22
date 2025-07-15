@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство РФ: дочерняя структура холдинга VK будет развивать национальный мессенджер на базе платформы Max](https://habr.com/ru/news/927828/?utm_campaign=927828&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GParted Live 1.70-8 только для 64-битных систем](https://habr.com/ru/news/927790/?utm_campaign=927790&utm_source=habrahabr&utm_medium=rss)
 - [Компании при внедрении ИИ-сервисов столкнулись с необходимостью переделывать живыми сотрудниками работу за ИИ](https://habr.com/ru/news/927770/?utm_campaign=927770&utm_source=habrahabr&utm_medium=rss)
 - [Матплаты Gigabyte оказались уязвимы для вредоносного ПО UEFI с обходом Secure Boot](https://habr.com/ru/news/927766/?utm_campaign=927766&utm_source=habrahabr&utm_medium=rss)
 - [В Google Chrome 139 прекратится поддержка macOS 11 Big Sur](https://habr.com/ru/news/927764/?utm_campaign=927764&utm_source=habrahabr&utm_medium=rss)
-- [В Cloudflare произошёл глобальный сбой в работе публичного DNS-резолвера 1.1.1.1](https://habr.com/ru/news/927756/?utm_campaign=927756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
