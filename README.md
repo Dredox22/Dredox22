@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Windows 10 KB5062554 сломало поиск на панели эмодзи](https://habr.com/ru/news/927734/?utm_campaign=927734&utm_source=habrahabr&utm_medium=rss)
+- [В xAI объяснили, почему Grok 4 сверялся с мнением Маска, отвечая на политические вопросы](https://habr.com/ru/news/927870/?utm_campaign=927870&utm_source=habrahabr&utm_medium=rss)
 - [Cognition купил Windsurf для объединения автономных агентов ИИ с IDE](https://habr.com/ru/news/927838/?utm_campaign=927838&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила опцию сохранения заряда ноутбуков с Windows 11](https://habr.com/ru/news/927826/?utm_campaign=927826&utm_source=habrahabr&utm_medium=rss)
 - [Правительство РФ: дочерняя структура холдинга VK будет развивать национальный мессенджер на базе платформы Max](https://habr.com/ru/news/927828/?utm_campaign=927828&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GParted Live 1.70-8 только для 64-битных систем](https://habr.com/ru/news/927790/?utm_campaign=927790&utm_source=habrahabr&utm_medium=rss)
-- [Компании при внедрении ИИ-сервисов столкнулись с необходимостью переделывать живыми сотрудниками работу за ИИ](https://habr.com/ru/news/927770/?utm_campaign=927770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
