@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AGI наступил. В Grok добавили аниме-девочку](https://habr.com/ru/news/928010/?utm_campaign=928010&utm_source=habrahabr&utm_medium=rss)
 - [Spring сдаёт позиции, Hibernate под угрозой, AI-агенты захватывают Россию | Spring АйО Подкаст №26](https://habr.com/ru/companies/spring_aio/news/927978/?utm_campaign=927978&utm_source=habrahabr&utm_medium=rss)
 - [Hibernate не нужен, Java ломает парадигмы, Project Amber меняет правила игры | Spring АйО Подкаст №25](https://habr.com/ru/companies/spring_aio/news/927976/?utm_campaign=927976&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies запустила обновленный онлайн-полигон для белых хакеров — Standoff Hackbase](https://habr.com/ru/companies/pt/news/927744/?utm_campaign=927744&utm_source=habrahabr&utm_medium=rss)
 - [Главный руководитель разработки Xbox Майк Матсел опубликовал изображение о поиске сотрудников, сгенерированное ИИ](https://habr.com/ru/news/927882/?utm_campaign=927882&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Windows 10 KB5062554 сломало поиск на панели эмодзи](https://habr.com/ru/news/927734/?utm_campaign=927734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
