@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компании при внедрении ИИ-сервисов столкнулись с необходимостью переделывать живыми сотрудниками работу за ИИ](https://habr.com/ru/news/927770/?utm_campaign=927770&utm_source=habrahabr&utm_medium=rss)
+- [Матплаты Gigabyte оказались уязвимы для вредоносного ПО UEFI с обходом Secure Boot](https://habr.com/ru/news/927766/?utm_campaign=927766&utm_source=habrahabr&utm_medium=rss)
 - [В Google Chrome 139 прекратится поддержка macOS 11 Big Sur](https://habr.com/ru/news/927764/?utm_campaign=927764&utm_source=habrahabr&utm_medium=rss)
 - [В Cloudflare произошёл глобальный сбой в работе публичного DNS-резолвера 1.1.1.1](https://habr.com/ru/news/927756/?utm_campaign=927756&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» снизил скорость интернета жителю Новосибирска, посчитав большим объёмом трафика 6 ТБ за 13 дней](https://habr.com/ru/news/927712/?utm_campaign=927712&utm_source=habrahabr&utm_medium=rss)
-- [Джек Дорси выпустил ещё одно приложение, оно помогает не сгореть на солнце и получать достаточно витамина D](https://habr.com/ru/news/927706/?utm_campaign=927706&utm_source=habrahabr&utm_medium=rss)
-- [$200 млн от Минобороны США. Представлена версия Grok 4 для американских властей](https://habr.com/ru/news/927702/?utm_campaign=927702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
