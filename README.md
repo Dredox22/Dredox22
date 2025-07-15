@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies запустила обновленный онлайн-полигон для белых хакеров — Standoff Hackbase](https://habr.com/ru/companies/pt/news/927744/?utm_campaign=927744&utm_source=habrahabr&utm_medium=rss)
 - [Главный руководитель разработки Xbox Майк Матсел опубликовал изображение о поиске сотрудников, сгенерированное ИИ](https://habr.com/ru/news/927882/?utm_campaign=927882&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows 10 KB5062554 сломало поиск на панели эмодзи](https://habr.com/ru/news/927734/?utm_campaign=927734&utm_source=habrahabr&utm_medium=rss)
 - [В xAI объяснили, почему Grok 4 сверялся с мнением Маска, отвечая на политические вопросы](https://habr.com/ru/news/927870/?utm_campaign=927870&utm_source=habrahabr&utm_medium=rss)
 - [Cognition купил Windsurf для объединения автономных агентов ИИ с IDE](https://habr.com/ru/news/927838/?utm_campaign=927838&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила опцию сохранения заряда ноутбуков с Windows 11](https://habr.com/ru/news/927826/?utm_campaign=927826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
