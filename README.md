@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Баг Horizon: 13 самоубийств и тысячи разрушенных жизней в Британии](https://habr.com/ru/companies/cloud4y/news/928316/?utm_campaign=928316&utm_source=habrahabr&utm_medium=rss)
+- [Luxms BI подтвердила совместимость с российской СУБД Postgres Pro](https://habr.com/ru/companies/luxms_bi/news/928314/?utm_campaign=928314&utm_source=habrahabr&utm_medium=rss)
 - [Практика на реальных кейсах: SOC К2 Кибербезопасности отточил навыки на Standoff Cyberbones](https://habr.com/ru/companies/k2tech/news/928298/?utm_campaign=928298&utm_source=habrahabr&utm_medium=rss)
 - [Voxtral — новая модель распознавания речи от Mistral, которая дешевле проприетарных аналогов](https://habr.com/ru/companies/bothub/news/928250/?utm_campaign=928250&utm_source=habrahabr&utm_medium=rss)
 - [Библиотека chunk_norris — реализация progressive JSON в Dart](https://habr.com/ru/news/928230/?utm_campaign=928230&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT начал влиять на человеческую речь — исследование](https://habr.com/ru/news/928202/?utm_campaign=928202&utm_source=habrahabr&utm_medium=rss)
-- [Представитель Совфеда: штрафы за поиск и доступ к «экстремистским материалам» и для контроля за инфраструктурой доступа](https://habr.com/ru/news/928182/?utm_campaign=928182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
