@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анализ: почему приложение Gmail для iOS весит уже почти 700 МБ и продолжает увеличиваться](https://habr.com/ru/news/928368/?utm_campaign=928368&utm_source=habrahabr&utm_medium=rss)
+- [Meta* устранила ошибку, из-за которой могли происходить утечки пользовательских запросов и сгенерированного контента](https://habr.com/ru/companies/bothub/news/928288/?utm_campaign=928288&utm_source=habrahabr&utm_medium=rss)
 - [Кассационная жалоба LightСom к блогеру Максиму Горшенину отклонена](https://habr.com/ru/news/928342/?utm_campaign=928342&utm_source=habrahabr&utm_medium=rss)
 - [Количество пользователей Маркетплейса Visiology выросло в 7 раз за первое полугодие 2025](https://habr.com/ru/companies/visiology/news/928336/?utm_campaign=928336&utm_source=habrahabr&utm_medium=rss)
 - [Представитель Совфеда: однократный заход по случайной ссылке на экстремистский материал не будет грозить наказанием](https://habr.com/ru/news/928332/?utm_campaign=928332&utm_source=habrahabr&utm_medium=rss)
-- [Luxms BI подтвердила совместимость с российской СУБД Postgres Pro](https://habr.com/ru/companies/luxms_bi/news/928314/?utm_campaign=928314&utm_source=habrahabr&utm_medium=rss)
-- [Практика на реальных кейсах: SOC К2 Кибербезопасности отточил навыки на Standoff Cyberbones](https://habr.com/ru/companies/k2tech/news/928298/?utm_campaign=928298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
