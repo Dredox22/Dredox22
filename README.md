@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Blender 4.5 LTS](https://habr.com/ru/news/928034/?utm_campaign=928034&utm_source=habrahabr&utm_medium=rss)
-- [В здоровом теле — здоровый ум: команда «Нанософт» на IT-забеге RUNIT 2025](https://habr.com/ru/companies/nanosoft/news/928022/?utm_campaign=928022&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PicView 3.1.5 — открытого просмотрщика изображений для ПК на Windows 10 и 11](https://habr.com/ru/news/927996/?utm_campaign=927996&utm_source=habrahabr&utm_medium=rss)
-- [Вскоре Госдума примет закон, вводящий ответственность за администрирование VPN и поиск и потребление информации](https://habr.com/ru/news/928070/?utm_campaign=928070&utm_source=habrahabr&utm_medium=rss)
-- [Одна неделя — два скачка вперёд: фишки Blender 4.5 + Invoke AI 6.0](https://habr.com/ru/news/928066/?utm_campaign=928066&utm_source=habrahabr&utm_medium=rss)
+- [Из-за увольнений в Intel мейнтейнеры компонентов Intel в ядре Linux объявили о смене работы](https://habr.com/ru/news/928112/?utm_campaign=928112&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Xbox для ПК получило функцию «Транслируйте свою игру»](https://habr.com/ru/news/928098/?utm_campaign=928098&utm_source=habrahabr&utm_medium=rss)
+- [Военнослужащий США признан виновным во взломе AT&amp;amp;T и Verizon и краже данных абонентов](https://habr.com/ru/news/928096/?utm_campaign=928096&utm_source=habrahabr&utm_medium=rss)
+- [СУБД Tantor Certified 16.8 прошла сертификацию ФСТЭК: доступно два исполнения для разных сценариев использования](https://habr.com/ru/companies/tantor/news/927924/?utm_campaign=927924&utm_source=habrahabr&utm_medium=rss)
+- [Митап для мобильных разработчиков](https://habr.com/ru/companies/oleg-bunin/news/928092/?utm_campaign=928092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
