@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В здоровом теле — здоровый ум: команда «Нанософт» на IT-забеге RUNIT 2025](https://habr.com/ru/companies/nanosoft/news/928022/?utm_campaign=928022&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PicView 3.1.5 — открытого просмотрщика изображений для ПК на Windows 10 и 11](https://habr.com/ru/news/927996/?utm_campaign=927996&utm_source=habrahabr&utm_medium=rss)
 - [Вскоре Госдума примет закон, вводящий ответственность за администрирование VPN и поиск и потребление информации](https://habr.com/ru/news/928070/?utm_campaign=928070&utm_source=habrahabr&utm_medium=rss)
 - [Одна неделя — два скачка вперёд: фишки Blender 4.5 + Invoke AI 6.0](https://habr.com/ru/news/928066/?utm_campaign=928066&utm_source=habrahabr&utm_medium=rss)
 - [Amazon представила Kiro — собственный форк VS Code с нейросетями](https://habr.com/ru/news/928044/?utm_campaign=928044&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик воссоздал LisaOS в виде веб-приложения](https://habr.com/ru/news/928040/?utm_campaign=928040&utm_source=habrahabr&utm_medium=rss)
-- [Cyberpunk 2077 для macOS выйдет 17 июля](https://habr.com/ru/news/928030/?utm_campaign=928030&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
