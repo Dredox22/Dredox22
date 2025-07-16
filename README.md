@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT начал влиять на человеческую речь — исследование](https://habr.com/ru/news/928202/?utm_campaign=928202&utm_source=habrahabr&utm_medium=rss)
+- [Представитель Совфеда: штрафы за поиск и доступ к «экстремистским материалам» и для контроля за инфраструктурой доступа](https://habr.com/ru/news/928182/?utm_campaign=928182&utm_source=habrahabr&utm_medium=rss)
 - [Открытый проект Plasma Bigscreen, альтернатива Android TV от KDE, вернулся в разработку спустя несколько лет забвения](https://habr.com/ru/news/928150/?utm_campaign=928150&utm_source=habrahabr&utm_medium=rss)
 - [Сотовый оператор Т2 &lpar;ранее Tele2&rpar; запустил безлимитный интернет-трафик на мессенджер Max](https://habr.com/ru/news/928120/?utm_campaign=928120&utm_source=habrahabr&utm_medium=rss)
 - [Apple выделила $500 млн на закупку американских редкоземельных магнитов](https://habr.com/ru/news/928100/?utm_campaign=928100&utm_source=habrahabr&utm_medium=rss)
-- [Из-за увольнений в Intel мейнтейнеры компонентов Intel в ядре Linux объявили о поиске преемников среди сообщества](https://habr.com/ru/news/928112/?utm_campaign=928112&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Xbox для ПК получило функцию «Транслируйте свою игру»](https://habr.com/ru/news/928098/?utm_campaign=928098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
