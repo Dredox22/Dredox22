@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [НОВОСТИ R&amp;amp;D](https://habr.com/ru/companies/evateam/news/928686/?utm_campaign=928686&utm_source=habrahabr&utm_medium=rss)
+- [Valve обновила правила публикации игр в Steam из‑за проблем с платёжными системами](https://habr.com/ru/news/928702/?utm_campaign=928702&utm_source=habrahabr&utm_medium=rss)
+- [В перечне подлежащих «приземлению» компаний от РКН появилось уведомление, что Telegram готовит представительство в РФ](https://habr.com/ru/news/928700/?utm_campaign=928700&utm_source=habrahabr&utm_medium=rss)
+- [Новости R&amp;amp;D](https://habr.com/ru/companies/evateam/news/928686/?utm_campaign=928686&utm_source=habrahabr&utm_medium=rss)
 - [Аппаратура «Ростеха» по сбору данных для межпланетных полётов прошла испытания](https://habr.com/ru/news/928680/?utm_campaign=928680&utm_source=habrahabr&utm_medium=rss)
 - [Госдума РФ приняла поправки о штрафах за поиск в сети экстремистских материалов и получение доступа к ним](https://habr.com/ru/news/928638/?utm_campaign=928638&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack v0.31-0.33: Air Gap, бэкапы System, поддержка GPU в K8s-кластерах, cozypkg вместо helm и другие фичи](https://habr.com/ru/companies/aenix/news/928216/?utm_campaign=928216&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар о миграции в кластеры Kubernetes on Bare Metal](https://habr.com/ru/companies/selectel/news/928610/?utm_campaign=928610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
