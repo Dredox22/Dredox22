@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Госдума РФ приняла поправки о штрафах за поиск в сети экстремистских материалов и получение доступа к ним](https://habr.com/ru/news/928638/?utm_campaign=928638&utm_source=habrahabr&utm_medium=rss)
+- [Cozystack v0.31-0.33: Air Gap, бэкапы System, поддержка GPU в K8s-кластерах, cozypkg вместо helm и другие фичи](https://habr.com/ru/companies/aenix/news/928216/?utm_campaign=928216&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар о миграции в кластеры Kubernetes on Bare Metal](https://habr.com/ru/companies/selectel/news/928610/?utm_campaign=928610&utm_source=habrahabr&utm_medium=rss)
 - [Google представил продвинутые ИИ-инструменты для поиска: теперь ИИ может звонить от имени пользователей](https://habr.com/ru/companies/bothub/news/928544/?utm_campaign=928544&utm_source=habrahabr&utm_medium=rss)
 - [Сеть «ВинЛаб» подверглась кибератаке](https://habr.com/ru/news/928542/?utm_campaign=928542&utm_source=habrahabr&utm_medium=rss)
-- [F6 запустила сервис полного цикла SOC MDR для предупреждения и устранения киберинцидентов](https://habr.com/ru/companies/F6/news/928142/?utm_campaign=928142&utm_source=habrahabr&utm_medium=rss)
-- [Импортозамещение и защита: DLP «СёрчИнформ КИБ» работает на серверах с Astra Linux](https://habr.com/ru/companies/searchinform/news/928520/?utm_campaign=928520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
