@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Солар» запустил облачное решение по анализу Open Source для команд IT-разработки и стартапов](https://habr.com/ru/companies/solarsecurity/news/928510/?utm_campaign=928510&utm_source=habrahabr&utm_medium=rss)
-- [Поиск Google теперь может совершать телефонные звонки с помощью ИИ](https://habr.com/ru/news/928494/?utm_campaign=928494&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft использует китайских инженеров для обслуживания систем Пентагона под минимальным контролем](https://habr.com/ru/news/928486/?utm_campaign=928486&utm_source=habrahabr&utm_medium=rss)
-- [В PyPI заблокировали регистрацию с электронных адресов inbox.ru из-за спама и продвижения подозрительных проектов](https://habr.com/ru/news/928500/?utm_campaign=928500&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia открыла 12 тыс. строк заголовочных файлов 3D-классов для оборудования Blackwell A и Blackwell B](https://habr.com/ru/news/928476/?utm_campaign=928476&utm_source=habrahabr&utm_medium=rss)
+- [Сеть «ВинЛаб» подверглась кибератаке](https://habr.com/ru/news/928542/?utm_campaign=928542&utm_source=habrahabr&utm_medium=rss)
+- [F6 запустила сервис полного цикла SOC MDR для предупреждения и устранения киберинцидентов](https://habr.com/ru/companies/F6/news/928142/?utm_campaign=928142&utm_source=habrahabr&utm_medium=rss)
+- [Импортозамещение и защита: DLP «СёрчИнформ КИБ» работает на серверах с Astra Linux](https://habr.com/ru/companies/searchinform/news/928520/?utm_campaign=928520&utm_source=habrahabr&utm_medium=rss)
+- [Intel уволит более 5000 сотрудников в четырёх штатах США](https://habr.com/ru/news/928502/?utm_campaign=928502&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предложит расширенные обновления безопасности Skype for Business 2015-2019 и Exchange 2016/2019](https://habr.com/ru/news/928498/?utm_campaign=928498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
