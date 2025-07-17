@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Солар» запустил облачное решение по анализу Open Source для команд IT-разработки и стартапов](https://habr.com/ru/companies/solarsecurity/news/928510/?utm_campaign=928510&utm_source=habrahabr&utm_medium=rss)
+- [Поиск Google теперь может совершать телефонные звонки с помощью ИИ](https://habr.com/ru/news/928494/?utm_campaign=928494&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft использует китайских инженеров для обслуживания систем Пентагона под минимальным контролем](https://habr.com/ru/news/928486/?utm_campaign=928486&utm_source=habrahabr&utm_medium=rss)
+- [В PyPI заблокировали регистрацию с электронных адресов inbox.ru из-за спама и продвижения подозрительных проектов](https://habr.com/ru/news/928500/?utm_campaign=928500&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia открыла 12 тыс. строк заголовочных файлов 3D-классов для оборудования Blackwell A и Blackwell B](https://habr.com/ru/news/928476/?utm_campaign=928476&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Beeper предложит версию на устройстве и премиум-обновления](https://habr.com/ru/news/928470/?utm_campaign=928470&utm_source=habrahabr&utm_medium=rss)
-- [Релиз композитного оконного менеджера Hyprland 0.50.0](https://habr.com/ru/news/928466/?utm_campaign=928466&utm_source=habrahabr&utm_medium=rss)
-- [Горелкин: использование VPN в законных целях не запрещено, но совершение преступления с ним — отягчающее обстоятельство](https://habr.com/ru/news/928454/?utm_campaign=928454&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого музыкального проигрывателя Audacious 4.5](https://habr.com/ru/news/928228/?utm_campaign=928228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
