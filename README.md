@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запущен агентский режим для ChatGPT – в нем ИИ сам выполняет сложные задачи](https://habr.com/ru/news/928762/?utm_campaign=928762&utm_source=habrahabr&utm_medium=rss)
 - [В публичных Wi-Fi-сетях «Ростелекома» появилась авторизация через «Сбер ID» и «Альфа ID»](https://habr.com/ru/news/928754/?utm_campaign=928754&utm_source=habrahabr&utm_medium=rss)
 - [Starlink планирует запустить спутники третьего поколения в следующем году](https://habr.com/ru/news/928742/?utm_campaign=928742&utm_source=habrahabr&utm_medium=rss)
 - [Valve обновила правила публикации игр в Steam из‑за проблем с платёжными системами](https://habr.com/ru/news/928702/?utm_campaign=928702&utm_source=habrahabr&utm_medium=rss)
 - [В перечне подлежащих «приземлению» компаний от РКН появилось уведомление, что Telegram готовит представительство в РФ](https://habr.com/ru/news/928700/?utm_campaign=928700&utm_source=habrahabr&utm_medium=rss)
-- [Новости R&amp;amp;D](https://habr.com/ru/companies/evateam/news/928686/?utm_campaign=928686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
