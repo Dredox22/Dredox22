@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз композитного оконного менеджера Hyprland 0.50.0](https://habr.com/ru/news/928466/?utm_campaign=928466&utm_source=habrahabr&utm_medium=rss)
 - [Горелкин: использование VPN в законных целях не запрещено, но совершение преступления с ним — отягчающее обстоятельство](https://habr.com/ru/news/928454/?utm_campaign=928454&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого музыкального проигрывателя Audacious 4.5](https://habr.com/ru/news/928228/?utm_campaign=928228&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заменила до 200 сотрудников King на ИИ, который они же и разработали](https://habr.com/ru/news/928408/?utm_campaign=928408&utm_source=habrahabr&utm_medium=rss)
 - [Процессоры Intel Raptor Lake чаще выходят из строя из-за жары](https://habr.com/ru/news/928064/?utm_campaign=928064&utm_source=habrahabr&utm_medium=rss)
-- [Анализ: почему приложение Gmail для iOS весит уже почти 700 МБ и продолжает увеличиваться](https://habr.com/ru/news/928368/?utm_campaign=928368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
