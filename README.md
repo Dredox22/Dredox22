@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс ID» отмечает 25 лет с даты своего появления](https://habr.com/ru/news/928906/?utm_campaign=928906&utm_source=habrahabr&utm_medium=rss)
 - [VK WorkSpace и DLP-система InfoWatch Traffic Monitor защитят от утечек данных](https://habr.com/ru/companies/infowatch/news/928898/?utm_campaign=928898&utm_source=habrahabr&utm_medium=rss)
 - [Революционная технология от Canon, рискованное решение Nintendo и обувь с жидкостью от Nike: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/928868/?utm_campaign=928868&utm_source=habrahabr&utm_medium=rss)
 - [Apple подала в суд на YouTube-блогера Джона Проссера из-за утечек iOS 26](https://habr.com/ru/news/928852/?utm_campaign=928852&utm_source=habrahabr&utm_medium=rss)
 - [Релиз платформы совместной разработки Forgejo v12.0](https://habr.com/ru/news/928842/?utm_campaign=928842&utm_source=habrahabr&utm_medium=rss)
-- [Sony представила полнокадровую камеру RX1R III](https://habr.com/ru/news/928840/?utm_campaign=928840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
