@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз платформы совместной разработки Forgejo v12.0](https://habr.com/ru/news/928842/?utm_campaign=928842&utm_source=habrahabr&utm_medium=rss)
+- [Sony представила полнокадровую камеру RX1R III](https://habr.com/ru/news/928840/?utm_campaign=928840&utm_source=habrahabr&utm_medium=rss)
+- [ИИ Copilot обрабатывает 600 тысяч pull request для внутреннего кода Microsoft в месяц](https://habr.com/ru/news/928838/?utm_campaign=928838&utm_source=habrahabr&utm_medium=rss)
 - [Глава комитета Госдумы по информационной политике: штрафы за поиск экстремистских материалов тем, кто намеренно их ищет](https://habr.com/ru/news/928832/?utm_campaign=928832&utm_source=habrahabr&utm_medium=rss)
 - [Samsung улучшила защиту «Безопасной папки» в новой тестовой версии прошивки One UI 8](https://habr.com/ru/news/928828/?utm_campaign=928828&utm_source=habrahabr&utm_medium=rss)
-- [Источник из команды мессенджера: Telegram не собирается открывать своё представительство в России](https://habr.com/ru/news/928826/?utm_campaign=928826&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман предупредил пользователей ChatGPT Agent о возможных проблемах с безопасностью](https://habr.com/ru/news/928806/?utm_campaign=928806&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wireshark 4.4.8](https://habr.com/ru/news/928710/?utm_campaign=928710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
