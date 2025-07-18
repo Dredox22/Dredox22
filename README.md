@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Wireshark 4.4.8](https://habr.com/ru/news/928710/?utm_campaign=928710&utm_source=habrahabr&utm_medium=rss)
 - [Uber инвестирует в Lucid и Nuro для запуска роботакси в 2026 году](https://habr.com/ru/news/928796/?utm_campaign=928796&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Cyberpunk 2077 для macOS, а вместе с этим и патч 2.3](https://habr.com/ru/news/928778/?utm_campaign=928778&utm_source=habrahabr&utm_medium=rss)
 - [Запущен агентский режим для ChatGPT – в нем ИИ сам выполняет сложные задачи](https://habr.com/ru/news/928762/?utm_campaign=928762&utm_source=habrahabr&utm_medium=rss)
 - [В публичных Wi-Fi-сетях «Ростелекома» появилась авторизация через «Сбер ID» и «Альфа ID»](https://habr.com/ru/news/928754/?utm_campaign=928754&utm_source=habrahabr&utm_medium=rss)
-- [Starlink планирует запустить спутники третьего поколения в следующем году](https://habr.com/ru/news/928742/?utm_campaign=928742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
