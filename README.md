@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лишь один человек обошел ИИ от OpenAI на престижных соревнованиях по программированию](https://habr.com/ru/news/929062/?utm_campaign=929062&utm_source=habrahabr&utm_medium=rss)
 - [Google запустили модель для создания видео Veo 3 на Gemini API по высокой цене](https://habr.com/ru/companies/bothub/news/929026/?utm_campaign=929026&utm_source=habrahabr&utm_medium=rss)
 - [В Figma добавили инструмент для создания эффекта стекла в стиле Liquid Glass](https://habr.com/ru/news/929044/?utm_campaign=929044&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Container Security. Современное развитие»](https://habr.com/ru/companies/swordfish_security/news/928972/?utm_campaign=928972&utm_source=habrahabr&utm_medium=rss)
 - [На российского производителя телевизоров «Квант» завели уголовное дело о невыплате заработной платы работникам](https://habr.com/ru/news/928970/?utm_campaign=928970&utm_source=habrahabr&utm_medium=rss)
-- [В первом полугодии 2025 года китайские разработчики игр потратили на рекламу в RuStore больше, чем за весь 2024 год](https://habr.com/ru/news/928966/?utm_campaign=928966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
