@@ -88,7 +88,7 @@
 - [За полтора месяца после введения нового закона компаниям ни одного оборотного штрафа за утечки ПД в РКН не выписали](https://habr.com/ru/news/929214/?utm_campaign=929214&utm_source=habrahabr&utm_medium=rss)
 - [Российские школьники получили 5 золотых и 1 серебряную медаль на 66-й Международной математической олимпиаде IMO 2025](https://habr.com/ru/news/929194/?utm_campaign=929194&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE заявила, что веб-шеллы обнаружены в веб-ресурсах каждой четвёртой компании](https://habr.com/ru/news/929184/?utm_campaign=929184&utm_source=habrahabr&utm_medium=rss)
-- [Новый ИИ от OpenAI достиг уровня золотой медали Международной математической олимпиаде 2025](https://habr.com/ru/news/929164/?utm_campaign=929164&utm_source=habrahabr&utm_medium=rss)
+- [Новый ИИ от OpenAI достиг уровня золотой медали Международной математической олимпиады 2025](https://habr.com/ru/news/929164/?utm_campaign=929164&utm_source=habrahabr&utm_medium=rss)
 - [Max займёт нишу WhatsApp?](https://habr.com/ru/companies/bothub/news/929148/?utm_campaign=929148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
