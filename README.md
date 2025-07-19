@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony бесплатно заменит бракованные смартфоны Xperia 1 VII](https://habr.com/ru/news/928794/?utm_campaign=928794&utm_source=habrahabr&utm_medium=rss)
 - [Cursor приобрела корпоративный стартап Koala для конкуренции с GitHub Copilot](https://habr.com/ru/news/929118/?utm_campaign=929118&utm_source=habrahabr&utm_medium=rss)
 - [DuckDuckGo позволит скрывать сгенерированные изображения в результатах поиска](https://habr.com/ru/news/929114/?utm_campaign=929114&utm_source=habrahabr&utm_medium=rss)
 - [Intel прекратила поддержку Clear Linux OS](https://habr.com/ru/news/929122/?utm_campaign=929122&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Sigil 2.6.0 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/928920/?utm_campaign=928920&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск мультимедийного фреймворка GStreamer 1.26.4](https://habr.com/ru/news/928866/?utm_campaign=928866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
