@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft закрывает магазин «Кино и ТВ» на Windows и Xbox после почти 13 лет работы](https://habr.com/ru/news/929102/?utm_campaign=929102&utm_source=habrahabr&utm_medium=rss)
+- [Приходите на онлайн-встречу «Успеть в магистратуру Яндекса и НИЯУ МИФИ»](https://habr.com/ru/companies/yandex_praktikum/news/928586/?utm_campaign=928586&utm_source=habrahabr&utm_medium=rss)
 - [Sony бесплатно заменит бракованные смартфоны Xperia 1 VII](https://habr.com/ru/news/928794/?utm_campaign=928794&utm_source=habrahabr&utm_medium=rss)
 - [Cursor приобрела корпоративный стартап Koala для конкуренции с GitHub Copilot](https://habr.com/ru/news/929118/?utm_campaign=929118&utm_source=habrahabr&utm_medium=rss)
 - [DuckDuckGo позволит скрывать сгенерированные изображения в результатах поиска](https://habr.com/ru/news/929114/?utm_campaign=929114&utm_source=habrahabr&utm_medium=rss)
-- [Intel прекратила поддержку Clear Linux OS](https://habr.com/ru/news/929122/?utm_campaign=929122&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Sigil 2.6.0 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/928920/?utm_campaign=928920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
