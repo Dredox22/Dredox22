@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Sigil 2.6.0 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/928920/?utm_campaign=928920&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск мультимедийного фреймворка GStreamer 1.26.4](https://habr.com/ru/news/928866/?utm_campaign=928866&utm_source=habrahabr&utm_medium=rss)
+- [Релиз решения Rescuezilla 2.6.1 для клонирования и создания образов дисков, полностью совместимого с Clonezilla](https://habr.com/ru/news/928872/?utm_campaign=928872&utm_source=habrahabr&utm_medium=rss)
 - [Лишь один человек обошел ИИ от OpenAI на престижных соревнованиях по программированию](https://habr.com/ru/news/929062/?utm_campaign=929062&utm_source=habrahabr&utm_medium=rss)
 - [Google запустили модель для создания видео Veo 3 на Gemini API по высокой цене](https://habr.com/ru/companies/bothub/news/929026/?utm_campaign=929026&utm_source=habrahabr&utm_medium=rss)
-- [В Figma добавили инструмент для создания эффекта стекла в стиле Liquid Glass](https://habr.com/ru/news/929044/?utm_campaign=929044&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на вебинар «Container Security. Современное развитие»](https://habr.com/ru/companies/swordfish_security/news/928972/?utm_campaign=928972&utm_source=habrahabr&utm_medium=rss)
-- [На российского производителя телевизоров «Квант» завели уголовное дело о невыплате заработной платы работникам](https://habr.com/ru/news/928970/?utm_campaign=928970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
