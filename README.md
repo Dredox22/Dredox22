@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor приобрела корпоративный стартап Koala для конкуренции с GitHub Copilot](https://habr.com/ru/news/929118/?utm_campaign=929118&utm_source=habrahabr&utm_medium=rss)
+- [DuckDuckGo позволит скрывать сгенерированные изображения в результатах поиска](https://habr.com/ru/news/929114/?utm_campaign=929114&utm_source=habrahabr&utm_medium=rss)
+- [Intel прекратила поддержку Clear Linux OS](https://habr.com/ru/news/929122/?utm_campaign=929122&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Sigil 2.6.0 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/928920/?utm_campaign=928920&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск мультимедийного фреймворка GStreamer 1.26.4](https://habr.com/ru/news/928866/?utm_campaign=928866&utm_source=habrahabr&utm_medium=rss)
-- [Релиз решения Rescuezilla 2.6.1 для клонирования и создания образов дисков, полностью совместимого с Clonezilla](https://habr.com/ru/news/928872/?utm_campaign=928872&utm_source=habrahabr&utm_medium=rss)
-- [Лишь один человек обошел ИИ от OpenAI на престижных соревнованиях по программированию](https://habr.com/ru/news/929062/?utm_campaign=929062&utm_source=habrahabr&utm_medium=rss)
-- [Google запустили модель для создания видео Veo 3 на Gemini API по высокой цене](https://habr.com/ru/companies/bothub/news/929026/?utm_campaign=929026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
