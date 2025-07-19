@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [BI.ZONE заявила, что веб-шеллы обнаружены в веб-ресурсах каждой четвёртой компании](https://habr.com/ru/news/929184/?utm_campaign=929184&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ от OpenAI достиг уровня золотой медали Международной математической олимпиаде 2025](https://habr.com/ru/news/929164/?utm_campaign=929164&utm_source=habrahabr&utm_medium=rss)
 - [Max займёт нишу WhatsApp?](https://habr.com/ru/companies/bothub/news/929148/?utm_campaign=929148&utm_source=habrahabr&utm_medium=rss)
 - [DuckDuckGo теперь позволяет скрывать ИИ-изображения из результатов поиска](https://habr.com/ru/companies/bothub/news/929142/?utm_campaign=929142&utm_source=habrahabr&utm_medium=rss)
 - [«Не спешите целиком и полностью доверять новому агенту ChatGPT», — предупреждает Альтман](https://habr.com/ru/companies/bothub/news/929138/?utm_campaign=929138&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрывает магазин «Кино и ТВ» на Windows и Xbox после почти 13 лет работы](https://habr.com/ru/news/929102/?utm_campaign=929102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
