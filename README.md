@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отложила запуск функции Windows Outlook для офлайн-режима «Календаря»](https://habr.com/ru/news/929374/?utm_campaign=929374&utm_source=habrahabr&utm_medium=rss)
 - [CISA: уязвимость в системах связи End-of-Train и Head-of-Train тормозов поездов можно взломать по радио](https://habr.com/ru/news/929350/?utm_campaign=929350&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» и SolidSoft создают совместное предприятие для развития кибербезопасности и защиты веб-приложений](https://habr.com/ru/news/929340/?utm_campaign=929340&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI тестирует новую модель o3 Alpha для программирования на WebArena](https://habr.com/ru/companies/bothub/news/929296/?utm_campaign=929296&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI, Google и Anthropic предупредили, что мы скоро можем перестать понимать рассуждения ИИ](https://habr.com/ru/news/929302/?utm_campaign=929302&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект vokoscreenNG 4.6.0 для записи экрана в Windows и Linux](https://habr.com/ru/news/929206/?utm_campaign=929206&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
