@@ -86,7 +86,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Вышел открытый проект vokoscreenNG 4.6.0 для записи экрана в Windows и Linux](https://habr.com/ru/news/929206/?utm_campaign=929206&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта для обрезки, конвертации и просмотра медиафайлов Cutcon 4.0, написанный на Kotlin](https://habr.com/ru/news/929202/?utm_campaign=929202&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта для обрезки, конвертации и просмотра медиафайлов Cutcon 4.0, написанного на Kotlin](https://habr.com/ru/news/929202/?utm_campaign=929202&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.7](https://habr.com/ru/news/929200/?utm_campaign=929200&utm_source=habrahabr&utm_medium=rss)
 - [Новый фреймворк — Unity Graph Toolkit](https://habr.com/ru/news/929250/?utm_campaign=929250&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты раскритиковали безопасность Grok 4 — модель легко дает вредоносные ответы](https://habr.com/ru/news/929232/?utm_campaign=929232&utm_source=habrahabr&utm_medium=rss)
