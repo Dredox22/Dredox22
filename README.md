@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ проиграл программисту в 10-часовом кодинг-марафоне за титул чемпиона мира](https://habr.com/ru/companies/bothub/news/929292/?utm_campaign=929292&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI тестирует новую модель o3 Alpha для программирования на WebArena](https://habr.com/ru/companies/bothub/news/929296/?utm_campaign=929296&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI, Google и Anthropic предупредили, что мы скоро можем перестать понимать рассуждения ИИ](https://habr.com/ru/news/929302/?utm_campaign=929302&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект vokoscreenNG 4.6.0 для записи экрана в Windows и Linux](https://habr.com/ru/news/929206/?utm_campaign=929206&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта для обрезки, конвертации и просмотра медиафайлов Cutcon 4.0, написанного на Kotlin](https://habr.com/ru/news/929202/?utm_campaign=929202&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.7](https://habr.com/ru/news/929200/?utm_campaign=929200&utm_source=habrahabr&utm_medium=rss)
-- [Новый фреймворк — Unity Graph Toolkit](https://habr.com/ru/news/929250/?utm_campaign=929250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
