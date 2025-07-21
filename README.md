@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ IDEA переходит на единую дистрибуцию: теперь для всех версий будет один установщик](https://habr.com/ru/news/929526/?utm_campaign=929526&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик потратил на Replit более $600, но там у него удалили базу данных, несмотря на запрет на такие действия](https://habr.com/ru/news/929516/?utm_campaign=929516&utm_source=habrahabr&utm_medium=rss)
 - [К концу года OpenAI будет обучать ИИ на миллионе GPU — Сэм Альтман](https://habr.com/ru/news/929496/?utm_campaign=929496&utm_source=habrahabr&utm_medium=rss)
 - [Для Vampire: The Masquerade — Bloodlines вышел неофициальный RTX-ремастер](https://habr.com/ru/companies/ggsel/news/929486/?utm_campaign=929486&utm_source=habrahabr&utm_medium=rss)
 - [В HPE признали наличие в прошивке точек доступа Aruba Instant On изначально запрограммированных учётных записей админов](https://habr.com/ru/news/929446/?utm_campaign=929446&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта для записи экрана ScreenToGif 2.41.5](https://habr.com/ru/news/929440/?utm_campaign=929440&utm_source=habrahabr&utm_medium=rss)
-- [В Roblox сообщили о возвращении популярного звука «oof» для озвучки гибели персонажей в играх платформы](https://habr.com/ru/news/929438/?utm_campaign=929438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
