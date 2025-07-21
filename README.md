@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа CUDA от Nvidia теперь поддерживает RISC-V](https://habr.com/ru/news/929538/?utm_campaign=929538&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GenCAD — нейросеть для генерации CAD-моделей по фотографии](https://habr.com/ru/news/929722/?utm_campaign=929722&utm_source=habrahabr&utm_medium=rss)
 - [ИИ от Google также взял золотую медаль Международной математической олимпиады — в отличие от OpenAI, официально](https://habr.com/ru/news/929716/?utm_campaign=929716&utm_source=habrahabr&utm_medium=rss)
 - [Всероссийская конференция игровых разработчиков «Конфа» пройдёт 13 сентября 2025 года](https://habr.com/ru/news/929714/?utm_campaign=929714&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил приложение, с помощью которого трекпада MacBook можно использовать в качестве весов](https://habr.com/ru/news/929712/?utm_campaign=929712&utm_source=habrahabr&utm_medium=rss)
-- [FCC запретит китайским компаниям строить и использовать подводные кабели, которые подключаются к территории США](https://habr.com/ru/news/929700/?utm_campaign=929700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
