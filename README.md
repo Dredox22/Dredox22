@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В HPE признали наличие в прошивке точек доступа Aruba Instant On изначально запрограммированных учётных записей админов](https://habr.com/ru/news/929446/?utm_campaign=929446&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта для записи экрана ScreenToGif 2.41.5](https://habr.com/ru/news/929440/?utm_campaign=929440&utm_source=habrahabr&utm_medium=rss)
 - [В Roblox сообщили о возвращении популярного звука «oof» для озвучки гибели персонажей в играх платформы](https://habr.com/ru/news/929438/?utm_campaign=929438&utm_source=habrahabr&utm_medium=rss)
 - [TabM — новая нейросетевая архитектура для работы с табличными данными от исследователей Яндекса](https://habr.com/ru/companies/yandex/news/929040/?utm_campaign=929040&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики проекта FFmpeg добились 100х производительности в rangedetect8_avx512, благодаря ассемблерному коду](https://habr.com/ru/news/929428/?utm_campaign=929428&utm_source=habrahabr&utm_medium=rss)
-- [AdGuard выпустила блокировщик рекламы специально для Microsoft Edge на смартфонах](https://habr.com/ru/news/929402/?utm_campaign=929402&utm_source=habrahabr&utm_medium=rss)
-- [Минфин и Банк России разработали законопроект со штрафами за оплату криптовалютой, а также её конфискацией за платежи](https://habr.com/ru/news/929422/?utm_campaign=929422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
