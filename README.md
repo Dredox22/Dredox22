@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: SharePoint Enterprise Server 2016, SharePoint Server 2019, SharePoint Subscription Edition под атакой хакеров](https://habr.com/ru/news/929576/?utm_campaign=929576&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве ИТ и ИБ за июнь 2025](https://habr.com/ru/companies/ussc/news/929572/?utm_campaign=929572&utm_source=habrahabr&utm_medium=rss)
+- [Масштабная атака на Microsoft SharePoint: взлом тысяч серверов в инфраструктуре компаний и госорганов](https://habr.com/ru/news/929566/?utm_campaign=929566&utm_source=habrahabr&utm_medium=rss)
 - [Контейнеризация для топов: головная боль или нет?](https://habr.com/ru/companies/chislitellab/news/929552/?utm_campaign=929552&utm_source=habrahabr&utm_medium=rss)
 - [Delta Air Lines начнёт определять стоимость 20% авиабилетов с помощью ИИ к концу этого года](https://habr.com/ru/news/929550/?utm_campaign=929550&utm_source=habrahabr&utm_medium=rss)
-- [IntelliJ IDEA переходит на единую дистрибуцию: теперь для всех версий будет один установщик](https://habr.com/ru/news/929526/?utm_campaign=929526&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик потратил на Replit более $600, но там у него удалили базу данных, несмотря на запрет на такие действия](https://habr.com/ru/news/929516/?utm_campaign=929516&utm_source=habrahabr&utm_medium=rss)
-- [К концу года OpenAI будет обучать ИИ на миллионе GPU — Сэм Альтман](https://habr.com/ru/news/929496/?utm_campaign=929496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
