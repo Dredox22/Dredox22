@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дочернее предприятие ГК «Элемент» для развития направления робототехники приобрёл 51% НПО «Андроидная техника»](https://habr.com/ru/news/929620/?utm_campaign=929620&utm_source=habrahabr&utm_medium=rss)
+- [НОВОСТИ R&amp;amp;D](https://habr.com/ru/companies/evateam/news/929604/?utm_campaign=929604&utm_source=habrahabr&utm_medium=rss)
+- [Google подала в суд на операторов ботнета Badbox 2.0, заразившего 10 млн устройств](https://habr.com/ru/news/929598/?utm_campaign=929598&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: SharePoint Enterprise Server 2016, SharePoint Server 2019, SharePoint Subscription Edition под атакой хакеров](https://habr.com/ru/news/929576/?utm_campaign=929576&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за июнь 2025](https://habr.com/ru/companies/ussc/news/929572/?utm_campaign=929572&utm_source=habrahabr&utm_medium=rss)
-- [Масштабная атака на Microsoft SharePoint: взлом тысяч серверов в инфраструктуре компаний и госорганов](https://habr.com/ru/news/929566/?utm_campaign=929566&utm_source=habrahabr&utm_medium=rss)
-- [Контейнеризация для топов: головная боль или нет?](https://habr.com/ru/companies/chislitellab/news/929552/?utm_campaign=929552&utm_source=habrahabr&utm_medium=rss)
-- [Delta Air Lines начнёт определять стоимость 20% авиабилетов с помощью ИИ к концу этого года](https://habr.com/ru/news/929550/?utm_campaign=929550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
