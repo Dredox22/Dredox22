@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Roblox сообщили о возвращении популярного звука «oof» для озвучки гибели персонажей в играх платформы](https://habr.com/ru/news/929438/?utm_campaign=929438&utm_source=habrahabr&utm_medium=rss)
+- [TabM — новая нейросетевая архитектура для работы с табличными данными от исследователей Яндекса](https://habr.com/ru/companies/yandex/news/929040/?utm_campaign=929040&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики проекта FFmpeg добились 100х производительности в rangedetect8_avx512, благодаря ассемблерному коду](https://habr.com/ru/news/929428/?utm_campaign=929428&utm_source=habrahabr&utm_medium=rss)
 - [AdGuard выпустила блокировщик рекламы специально для Microsoft Edge на смартфонах](https://habr.com/ru/news/929402/?utm_campaign=929402&utm_source=habrahabr&utm_medium=rss)
 - [Минфин и Банк России разработали законопроект со штрафами за оплату криптовалютой, а также её конфискацией за платежи](https://habr.com/ru/news/929422/?utm_campaign=929422&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Media Player Classic — Home Cinema 2.5.1](https://habr.com/ru/news/929320/?utm_campaign=929320&utm_source=habrahabr&utm_medium=rss)
-- [Вышел WingetUI &lpar;UnigetUI&rpar; 3.3](https://habr.com/ru/news/929358/?utm_campaign=929358&utm_source=habrahabr&utm_medium=rss)
-- [От предупреждений к штрафам до €35 млн: Еврокомиссия уточнила правила AI Act](https://habr.com/ru/news/929398/?utm_campaign=929398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
