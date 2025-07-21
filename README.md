@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла GenCAD — нейросеть для генерации CAD-моделей по фотографии](https://habr.com/ru/news/929722/?utm_campaign=929722&utm_source=habrahabr&utm_medium=rss)
+- [ИИ от Google также взял золотую медаль Международной математической олимпиады — в отличие от OpenAI, официально](https://habr.com/ru/news/929716/?utm_campaign=929716&utm_source=habrahabr&utm_medium=rss)
+- [Всероссийская конференция игровых разработчиков «Конфа» пройдёт 13 сентября 2025 года](https://habr.com/ru/news/929714/?utm_campaign=929714&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик представил приложение, с помощью которого трекпада MacBook можно использовать в качестве весов](https://habr.com/ru/news/929712/?utm_campaign=929712&utm_source=habrahabr&utm_medium=rss)
 - [FCC запретит китайским компаниям строить и использовать подводные кабели, которые подключаются к территории США](https://habr.com/ru/news/929700/?utm_campaign=929700&utm_source=habrahabr&utm_medium=rss)
-- [Ожидается, что к 2027 году 40% проектов по созданию ИИ‑агентов потерпят неудачу](https://habr.com/ru/news/929694/?utm_campaign=929694&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/929686/?utm_campaign=929686&utm_source=habrahabr&utm_medium=rss)
-- [WeTransfer убрала из условий обслуживания пункт об использовании клиентских файлов для обучения моделей ИИ](https://habr.com/ru/news/929682/?utm_campaign=929682&utm_source=habrahabr&utm_medium=rss)
-- [Ring возобновила проект летающей камеры Always Home Cam](https://habr.com/ru/news/929664/?utm_campaign=929664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
