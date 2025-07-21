@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FCC запретит китайским компаниям строить и использовать подводные кабели, которые подключаются к территории США](https://habr.com/ru/news/929700/?utm_campaign=929700&utm_source=habrahabr&utm_medium=rss)
 - [Ожидается, что к 2027 году 40% проектов по созданию ИИ‑агентов потерпят неудачу](https://habr.com/ru/news/929694/?utm_campaign=929694&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/929686/?utm_campaign=929686&utm_source=habrahabr&utm_medium=rss)
 - [WeTransfer убрала из условий обслуживания пункт об использовании клиентских файлов для обучения моделей ИИ](https://habr.com/ru/news/929682/?utm_campaign=929682&utm_source=habrahabr&utm_medium=rss)
 - [Ring возобновила проект летающей камеры Always Home Cam](https://habr.com/ru/news/929664/?utm_campaign=929664&utm_source=habrahabr&utm_medium=rss)
-- [Павел Дуров предупредил пользователей о схеме мошенничества с подарками и юзернеймами в мессенджере Telegram](https://habr.com/ru/news/929662/?utm_campaign=929662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
