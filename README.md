@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AdGuard выпустила блокировщик рекламы специально для Microsoft Edge на смартфонах](https://habr.com/ru/news/929402/?utm_campaign=929402&utm_source=habrahabr&utm_medium=rss)
+- [Минфин и Банк России разработали законопроект со штрафами за оплату криптовалютой, а также её конфискацией за платежи](https://habr.com/ru/news/929422/?utm_campaign=929422&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Media Player Classic — Home Cinema 2.5.1](https://habr.com/ru/news/929320/?utm_campaign=929320&utm_source=habrahabr&utm_medium=rss)
 - [Вышел WingetUI &lpar;UnigetUI&rpar; 3.3](https://habr.com/ru/news/929358/?utm_campaign=929358&utm_source=habrahabr&utm_medium=rss)
 - [От предупреждений к штрафам до €35 млн: Еврокомиссия уточнила правила AI Act](https://habr.com/ru/news/929398/?utm_campaign=929398&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отложила запуск функции Windows Outlook для офлайн-режима «Календаря»](https://habr.com/ru/news/929374/?utm_campaign=929374&utm_source=habrahabr&utm_medium=rss)
-- [CISA: уязвимость в системах связи End-of-Train и Head-of-Train тормозов поездов можно взломать по радио](https://habr.com/ru/news/929350/?utm_campaign=929350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
