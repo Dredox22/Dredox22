@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Дочернее предприятие ГК «Элемент» для развития направления робототехники приобрёл 51% НПО «Андроидная техника»](https://habr.com/ru/news/929620/?utm_campaign=929620&utm_source=habrahabr&utm_medium=rss)
-- [НОВОСТИ R&amp;amp;D](https://habr.com/ru/companies/evateam/news/929604/?utm_campaign=929604&utm_source=habrahabr&utm_medium=rss)
-- [Google подала в суд на операторов ботнета Badbox 2.0, заразившего 10 млн устройств](https://habr.com/ru/news/929598/?utm_campaign=929598&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: SharePoint Enterprise Server 2016, SharePoint Server 2019, SharePoint Subscription Edition под атакой хакеров](https://habr.com/ru/news/929576/?utm_campaign=929576&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за июнь 2025](https://habr.com/ru/companies/ussc/news/929572/?utm_campaign=929572&utm_source=habrahabr&utm_medium=rss)
+- [Ring возобновила проект летающей камеры Always Home Cam](https://habr.com/ru/news/929664/?utm_campaign=929664&utm_source=habrahabr&utm_medium=rss)
+- [Павел Дуров предупредил пользователей о схеме мошенничества с подарками и юзернеймами в мессенджере Telegram](https://habr.com/ru/news/929662/?utm_campaign=929662&utm_source=habrahabr&utm_medium=rss)
+- [Google раскрыла, как на Android работает система оповещения о землетрясениях](https://habr.com/ru/news/929656/?utm_campaign=929656&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Элемент» инвестирует 4,4 млрд рублей в полное производство GaN-транзисторов в России](https://habr.com/ru/news/929644/?utm_campaign=929644&utm_source=habrahabr&utm_medium=rss)
+- [К2 НейроТех запускает цифрового аналитика для Winline Медийной футбольной лиги](https://habr.com/ru/companies/k2tech/news/929654/?utm_campaign=929654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
