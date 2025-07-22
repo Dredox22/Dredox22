@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск библиотеки OpenAPV 0.2 с эталонной реализацией видеокодека APV](https://habr.com/ru/news/929788/?utm_campaign=929788&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Firefox 141.0](https://habr.com/ru/news/929556/?utm_campaign=929556&utm_source=habrahabr&utm_medium=rss)
 - [В коде Telegram нашли ограничения на действия с внутренними подарками](https://habr.com/ru/news/929752/?utm_campaign=929752&utm_source=habrahabr&utm_medium=rss)
 - [Платформа CUDA от Nvidia теперь поддерживает RISC-V](https://habr.com/ru/news/929538/?utm_campaign=929538&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GenCAD — нейросеть для генерации CAD-моделей по фотографии](https://habr.com/ru/news/929722/?utm_campaign=929722&utm_source=habrahabr&utm_medium=rss)
-- [ИИ от Google также взял золотую медаль Международной математической олимпиады — в отличие от OpenAI, официально](https://habr.com/ru/news/929716/?utm_campaign=929716&utm_source=habrahabr&utm_medium=rss)
-- [Всероссийская конференция игровых разработчиков «Конфа» пройдёт 13 сентября 2025 года](https://habr.com/ru/news/929714/?utm_campaign=929714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
