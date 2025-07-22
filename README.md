@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Италии на блогера, обозревающего консоли эмулирующие старые приставки, проверяют на нарушение авторского](https://habr.com/ru/news/930040/?utm_campaign=930040&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратила использовать китайских инженеров для поддержки американских военных клиентов](https://habr.com/ru/news/930028/?utm_campaign=930028&utm_source=habrahabr&utm_medium=rss)
 - [В России может появиться «цифровой профиль молодого человека»](https://habr.com/ru/news/929978/?utm_campaign=929978&utm_source=habrahabr&utm_medium=rss)
 - [Oracle предоставит OpenAI 2 миллиона чипов для тренировки новых ChatGPT](https://habr.com/ru/news/929974/?utm_campaign=929974&utm_source=habrahabr&utm_medium=rss)
 - [Госдума приняла в третьем чтении законопроект о штрафах за поиск в сети экстремистских материалов и доступ к ним](https://habr.com/ru/news/929804/?utm_campaign=929804&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Ultimatum browser на андроид](https://habr.com/ru/news/929962/?utm_campaign=929962&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» завершил первый этап разработки цифрового двойника завода по переработке ядерных отходов](https://habr.com/ru/companies/greenatom/news/929958/?utm_campaign=929958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
