@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Италии на блогера, обозревающего консоли эмулирующие старые приставки, проверяют на нарушение авторского](https://habr.com/ru/news/930040/?utm_campaign=930040&utm_source=habrahabr&utm_medium=rss)
+- [В Италии блогера, обозревающего консоли, эмулирующие старые приставки, проверяют на нарушение авторского права](https://habr.com/ru/news/930040/?utm_campaign=930040&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила использовать китайских инженеров для поддержки американских военных клиентов](https://habr.com/ru/news/930028/?utm_campaign=930028&utm_source=habrahabr&utm_medium=rss)
 - [В России может появиться «цифровой профиль молодого человека»](https://habr.com/ru/news/929978/?utm_campaign=929978&utm_source=habrahabr&utm_medium=rss)
 - [Oracle предоставит OpenAI 2 миллиона чипов для тренировки новых ChatGPT](https://habr.com/ru/news/929974/?utm_campaign=929974&utm_source=habrahabr&utm_medium=rss)
