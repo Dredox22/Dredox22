@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome позволит переключаться между личными и рабочими аккаунтами на iOS](https://habr.com/ru/news/929822/?utm_campaign=929822&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp для Windows отказывается от UWP в пользу веб-приложения](https://habr.com/ru/news/929816/?utm_campaign=929816&utm_source=habrahabr&utm_medium=rss)
 - [LibreOffice раскритиковала Microsoft за использование «сложных» форматов файлов для удержания пользователей Office](https://habr.com/ru/news/929814/?utm_campaign=929814&utm_source=habrahabr&utm_medium=rss)
 - [Неквалифицированный системный администратор 20 лет назад на три часа обрушил Amazon.com из-за опечатки](https://habr.com/ru/news/929812/?utm_campaign=929812&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появится функция для воспроизведения звука на нескольких устройствах](https://habr.com/ru/news/929808/?utm_campaign=929808&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск библиотеки OpenAPV 0.2 с эталонной реализацией видеокодека APV](https://habr.com/ru/news/929788/?utm_campaign=929788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
