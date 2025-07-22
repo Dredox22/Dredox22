@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft тестирует кросс‑функцию истории запущенных игр на консолях Xbox и ПК](https://habr.com/ru/news/930064/?utm_campaign=930064&utm_source=habrahabr&utm_medium=rss)
+- [Kotlin празднует день рождения](https://habr.com/ru/companies/spring_aio/news/930060/?utm_campaign=930060&utm_source=habrahabr&utm_medium=rss)
 - [В Италии блогера, обозревающего консоли, эмулирующие старые приставки, проверяют на нарушение авторского права](https://habr.com/ru/news/930040/?utm_campaign=930040&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила использовать китайских инженеров для поддержки американских военных клиентов](https://habr.com/ru/news/930028/?utm_campaign=930028&utm_source=habrahabr&utm_medium=rss)
 - [В России может появиться «цифровой профиль молодого человека»](https://habr.com/ru/news/929978/?utm_campaign=929978&utm_source=habrahabr&utm_medium=rss)
-- [Oracle предоставит OpenAI 2 миллиона чипов для тренировки новых ChatGPT](https://habr.com/ru/news/929974/?utm_campaign=929974&utm_source=habrahabr&utm_medium=rss)
-- [Госдума приняла в третьем чтении законопроект о штрафах за поиск в сети экстремистских материалов и доступ к ним](https://habr.com/ru/news/929804/?utm_campaign=929804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
