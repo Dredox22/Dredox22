@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В НИУ МЭИ разработали российское горелочное устройство для котлов](https://habr.com/ru/news/930120/?utm_campaign=930120&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик анонсировал Kisuke — нативную IDE для iOS](https://habr.com/ru/news/930118/?utm_campaign=930118&utm_source=habrahabr&utm_medium=rss)
+- [США могут проиграть Китаю в ИИ-гонке. Anthropic предлагают, как этого избежать](https://habr.com/ru/news/930116/?utm_campaign=930116&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует кросс‑функцию истории запущенных игр на консолях Xbox и ПК](https://habr.com/ru/news/930064/?utm_campaign=930064&utm_source=habrahabr&utm_medium=rss)
 - [Kotlin празднует день рождения](https://habr.com/ru/companies/spring_aio/news/930060/?utm_campaign=930060&utm_source=habrahabr&utm_medium=rss)
-- [В Италии блогера, обозревающего консоли, эмулирующие старые приставки, проверяют на нарушение авторского права](https://habr.com/ru/news/930040/?utm_campaign=930040&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратила использовать китайских инженеров для поддержки американских военных клиентов](https://habr.com/ru/news/930028/?utm_campaign=930028&utm_source=habrahabr&utm_medium=rss)
-- [В России может появиться «цифровой профиль молодого человека»](https://habr.com/ru/news/929978/?utm_campaign=929978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
