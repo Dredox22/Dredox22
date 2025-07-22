@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России может появиться «цифровой профиль молодого человека»](https://habr.com/ru/news/929978/?utm_campaign=929978&utm_source=habrahabr&utm_medium=rss)
+- [Oracle предоставит OpenAI 2 миллиона чипов для тренировки новых ChatGPT](https://habr.com/ru/news/929974/?utm_campaign=929974&utm_source=habrahabr&utm_medium=rss)
 - [Госдума приняла в третьем чтении законопроект о штрафах за поиск в сети экстремистских материалов и доступ к ним](https://habr.com/ru/news/929804/?utm_campaign=929804&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Ultimatum browser на андроид](https://habr.com/ru/news/929962/?utm_campaign=929962&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» завершил первый этап разработки цифрового двойника завода по переработке ядерных отходов](https://habr.com/ru/companies/greenatom/news/929958/?utm_campaign=929958&utm_source=habrahabr&utm_medium=rss)
-- [Системные и бизнес-аналитики и те, кто выполняет эти роли — встречаемся в Питере! Конференция 20 и 21 августа](https://habr.com/ru/companies/skbkontur/news/929876/?utm_campaign=929876&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появились детализированные развязки, мосты и туннели](https://habr.com/ru/news/929930/?utm_campaign=929930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
