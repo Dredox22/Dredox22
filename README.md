@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 2.5 от Google теперь поддерживает «разговорную сегментацию изображений»](https://habr.com/ru/companies/bothub/news/930198/?utm_campaign=930198&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mozilla Thunderbird 141.0](https://habr.com/ru/news/930180/?utm_campaign=930180&utm_source=habrahabr&utm_medium=rss)
 - [Как искать работу в IT: 20+ видео от Яндекс Практикума в новом проекте](https://habr.com/ru/companies/yandex_praktikum/news/929030/?utm_campaign=929030&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого аудиоплеера VUPlayer 4.22 для Windows](https://habr.com/ru/news/930082/?utm_campaign=930082&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.13](https://habr.com/ru/news/930100/?utm_campaign=930100&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск анонсировал запуск Colossus 2 на 550 тысяч GPU в «ближайшие недели»](https://habr.com/ru/news/930148/?utm_campaign=930148&utm_source=habrahabr&utm_medium=rss)
-- [В НИУ МЭИ разработали российское горелочное устройство для котлов](https://habr.com/ru/news/930120/?utm_campaign=930120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
