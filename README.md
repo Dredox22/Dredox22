@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft анонсировала крупную реорганизацию компании](https://habr.com/ru/news/930332/?utm_campaign=930332&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер»: базовые знания искусственного интеллекта обязательны как для действующих, так и для новых сотрудников](https://habr.com/ru/news/930310/?utm_campaign=930310&utm_source=habrahabr&utm_medium=rss)
 - [Обновление low-code платформы SimpleOne до версии 1.28](https://habr.com/ru/companies/simpleone/news/930298/?utm_campaign=930298&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Python 3.14 RC1 &lpar;release candidate 1&rpar; с официальной поддержкой Free-threaded](https://habr.com/ru/news/930292/?utm_campaign=930292&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Brave станет блокировать функцию Microsoft Recall](https://habr.com/ru/news/930282/?utm_campaign=930282&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 позволит переносить файлы со старого компьютера во время настройки](https://habr.com/ru/news/930276/?utm_campaign=930276&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT Agent начали выпускать в подписке Plus. Полный релиз займет несколько дней](https://habr.com/ru/news/930274/?utm_campaign=930274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
