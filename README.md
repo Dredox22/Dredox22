@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла СУБД MySQL 9.4.0](https://habr.com/ru/news/930220/?utm_campaign=930220&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 2.5 от Google теперь поддерживает «разговорную сегментацию изображений»](https://habr.com/ru/companies/bothub/news/930198/?utm_campaign=930198&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 141.0](https://habr.com/ru/news/930180/?utm_campaign=930180&utm_source=habrahabr&utm_medium=rss)
-- [Как искать работу в IT: 20+ видео от Яндекс Практикума в новом проекте](https://habr.com/ru/companies/yandex_praktikum/news/929030/?utm_campaign=929030&utm_source=habrahabr&utm_medium=rss)
+- [Гайд по первому портфолио для разработчика от Яндекс Практикума в новом проекте](https://habr.com/ru/companies/yandex_praktikum/news/929030/?utm_campaign=929030&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого аудиоплеера VUPlayer 4.22 для Windows](https://habr.com/ru/news/930082/?utm_campaign=930082&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.13](https://habr.com/ru/news/930100/?utm_campaign=930100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
