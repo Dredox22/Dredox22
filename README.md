@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [IntelliJ IDEA переходит на единый дистрибутив, Rich Errors в Kotlin | Spring АйО Подкаст №27](https://habr.com/ru/companies/spring_aio/news/930252/?utm_campaign=930252&utm_source=habrahabr&utm_medium=rss)
-- [Специальная версия nanoCAD GeoniCS 25.0 для российских операционных систем на базе Linux](https://habr.com/ru/companies/nanosoft/news/930244/?utm_campaign=930244&utm_source=habrahabr&utm_medium=rss)
-- [Kubernetes Community Day: только технологии, хардкор и живое общение](https://habr.com/ru/companies/chislitellab/news/930022/?utm_campaign=930022&utm_source=habrahabr&utm_medium=rss)
-- [Аналитика ДИТ Москвы на Luxms BI теперь полностью работает на Мос.ОС](https://habr.com/ru/companies/luxms_bi/news/930242/?utm_campaign=930242&utm_source=habrahabr&utm_medium=rss)
-- [Вышла СУБД MySQL 9.4.0](https://habr.com/ru/news/930220/?utm_campaign=930220&utm_source=habrahabr&utm_medium=rss)
+- [Обновление low-code платформы SimpleOne до версии 1.28](https://habr.com/ru/companies/simpleone/news/930298/?utm_campaign=930298&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Python 3.14 RC1 &lpar;release candidate 1&rpar; с официальной поддержкой Free-threaded](https://habr.com/ru/news/930292/?utm_campaign=930292&utm_source=habrahabr&utm_medium=rss)
+- [Браузер Brave станет блокировать функцию Microsoft Recall](https://habr.com/ru/news/930282/?utm_campaign=930282&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 позволит переносить файлы со старого компьютера во время настройки](https://habr.com/ru/news/930276/?utm_campaign=930276&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT Agent начали выпускать в подписке Plus. Полный релиз займет несколько дней](https://habr.com/ru/news/930274/?utm_campaign=930274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
