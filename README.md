@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft показала ноутбук Surface Laptop 5G с Core Ultra второго поколения и 5G-модемом, поддерживающим NanoSIM и eSIM](https://habr.com/ru/news/930358/?utm_campaign=930358&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft анонсировала крупную реорганизацию компании](https://habr.com/ru/news/930332/?utm_campaign=930332&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер»: базовые знания искусственного интеллекта обязательны как для действующих, так и для новых сотрудников](https://habr.com/ru/news/930310/?utm_campaign=930310&utm_source=habrahabr&utm_medium=rss)
 - [Обновление low-code платформы SimpleOne до версии 1.28](https://habr.com/ru/companies/simpleone/news/930298/?utm_campaign=930298&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Python 3.14 RC1 &lpar;release candidate 1&rpar; с официальной поддержкой Free-threaded](https://habr.com/ru/news/930292/?utm_campaign=930292&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Brave станет блокировать функцию Microsoft Recall](https://habr.com/ru/news/930282/?utm_campaign=930282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
