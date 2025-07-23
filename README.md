@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск открытого аудиоплеера VUPlayer 4.22 для Windows](https://habr.com/ru/news/930082/?utm_campaign=930082&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.13](https://habr.com/ru/news/930100/?utm_campaign=930100&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск анонсировал запуск Colossus 2 на 550 тысяч GPU в «ближайшие недели»](https://habr.com/ru/news/930148/?utm_campaign=930148&utm_source=habrahabr&utm_medium=rss)
 - [В НИУ МЭИ разработали российское горелочное устройство для котлов](https://habr.com/ru/news/930120/?utm_campaign=930120&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик анонсировал Kisuke — нативную IDE для iOS](https://habr.com/ru/news/930118/?utm_campaign=930118&utm_source=habrahabr&utm_medium=rss)
-- [США могут проиграть Китаю в ИИ-гонке. Anthropic предлагают, как этого избежать](https://habr.com/ru/news/930116/?utm_campaign=930116&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует кросс‑функцию истории запущенных игр на консолях Xbox и ПК](https://habr.com/ru/news/930064/?utm_campaign=930064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
