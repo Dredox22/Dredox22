@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Не опять, а снова: в МФТИ разработали «прозрачный» детектор ИИ-текстов](https://habr.com/ru/news/930384/?utm_campaign=930384&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft показала ноутбук Surface Laptop 5G с Core Ultra второго поколения и 5G-модемом, поддерживающим NanoSIM и eSIM](https://habr.com/ru/news/930358/?utm_campaign=930358&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft анонсировала крупную реорганизацию компании](https://habr.com/ru/news/930332/?utm_campaign=930332&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер»: базовые знания искусственного интеллекта обязательны как для действующих, так и для новых сотрудников](https://habr.com/ru/news/930310/?utm_campaign=930310&utm_source=habrahabr&utm_medium=rss)
-- [Обновление low-code платформы SimpleOne до версии 1.28](https://habr.com/ru/companies/simpleone/news/930298/?utm_campaign=930298&utm_source=habrahabr&utm_medium=rss)
+- [Что делать с новой уязвимостью нулевого дня в Microsoft SharePoint? Рассказывают наши эксперты](https://habr.com/ru/companies/pt/news/930442/?utm_campaign=930442&utm_source=habrahabr&utm_medium=rss)
+- [Proton запустила ИИ‑ассистента Lumo, ориентированного на конфиденциальность](https://habr.com/ru/news/930440/?utm_campaign=930440&utm_source=habrahabr&utm_medium=rss)
+- [ИИ от Google взял золото Международной математической олимпиады. Meta* уже переманила его разработчиков](https://habr.com/ru/news/930436/?utm_campaign=930436&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba выпустила «самую мощную» ИИ-модель для программирования — Qwen3-Coder](https://habr.com/ru/companies/bothub/news/930392/?utm_campaign=930392&utm_source=habrahabr&utm_medium=rss)
+- [Connekt: Новый HTTP-клиент для IntelliJ IDEA — теперь Open Source](https://habr.com/ru/companies/haulmont/news/930424/?utm_campaign=930424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
