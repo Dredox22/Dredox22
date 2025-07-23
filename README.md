@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IntelliJ IDEA переходит на единый дистрибутив, Rich Errors в Kotlin | Spring АйО Подкаст №27](https://habr.com/ru/companies/spring_aio/news/930252/?utm_campaign=930252&utm_source=habrahabr&utm_medium=rss)
+- [Специальная версия nanoCAD GeoniCS 25.0 для российских операционных систем на базе Linux](https://habr.com/ru/companies/nanosoft/news/930244/?utm_campaign=930244&utm_source=habrahabr&utm_medium=rss)
+- [Kubernetes Community Day: только технологии, хардкор и живое общение](https://habr.com/ru/companies/chislitellab/news/930022/?utm_campaign=930022&utm_source=habrahabr&utm_medium=rss)
+- [Аналитика ДИТ Москвы на Luxms BI теперь полностью работает на Мос.ОС](https://habr.com/ru/companies/luxms_bi/news/930242/?utm_campaign=930242&utm_source=habrahabr&utm_medium=rss)
 - [Вышла СУБД MySQL 9.4.0](https://habr.com/ru/news/930220/?utm_campaign=930220&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 2.5 от Google теперь поддерживает «разговорную сегментацию изображений»](https://habr.com/ru/companies/bothub/news/930198/?utm_campaign=930198&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mozilla Thunderbird 141.0](https://habr.com/ru/news/930180/?utm_campaign=930180&utm_source=habrahabr&utm_medium=rss)
-- [Гайд по первому портфолио для разработчика от Яндекс Практикума в новом проекте](https://habr.com/ru/companies/yandex_praktikum/news/929030/?utm_campaign=929030&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого аудиоплеера VUPlayer 4.22 для Windows](https://habr.com/ru/news/930082/?utm_campaign=930082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
