@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого проекта Pogocache 1.0 для кэширования, созданного с нуля с упором на низкую задержку и эффективность](https://habr.com/ru/news/930404/?utm_campaign=930404&utm_source=habrahabr&utm_medium=rss)
+- [Команда проекта Fedora Linux рассматривает возможность отмены тестов сборок для оптических носителей &lpar;образов DVD&rpar;](https://habr.com/ru/news/930482/?utm_campaign=930482&utm_source=habrahabr&utm_medium=rss)
 - [Трамп готов реквизировать чужие GPU — Белый дом представил план ИИ‑ускорения](https://habr.com/ru/news/930502/?utm_campaign=930502&utm_source=habrahabr&utm_medium=rss)
 - [Что делать с новой уязвимостью нулевого дня в Microsoft SharePoint? Рассказывают наши эксперты](https://habr.com/ru/companies/pt/news/930442/?utm_campaign=930442&utm_source=habrahabr&utm_medium=rss)
 - [Proton запустила ИИ‑ассистента Lumo, ориентированного на конфиденциальность](https://habr.com/ru/news/930440/?utm_campaign=930440&utm_source=habrahabr&utm_medium=rss)
-- [ИИ от Google взял золото Международной математической олимпиады. Meta* уже переманила его разработчиков](https://habr.com/ru/news/930436/?utm_campaign=930436&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выпустила «самую мощную» ИИ-модель для программирования — Qwen3-Coder](https://habr.com/ru/companies/bothub/news/930392/?utm_campaign=930392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
