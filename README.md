@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Ultra3D — нейросеть для генерации высокодетализированных 3D-моделей](https://habr.com/ru/news/930878/?utm_campaign=930878&utm_source=habrahabr&utm_medium=rss)
+- [С апреля 2026 года в App Store Connect можно будет загружать только 64-битные приложения для Apple Watch](https://habr.com/ru/news/930872/?utm_campaign=930872&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT-5 готовят к запуску в начале августа — The Verge](https://habr.com/ru/news/930870/?utm_campaign=930870&utm_source=habrahabr&utm_medium=rss)
 - [«Росатома» создаёт первое а России производство особо чистого гексафторида вольфрама](https://habr.com/ru/news/930852/?utm_campaign=930852&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получает «чёрный экран смерти» и инструмент автоматического восстановления](https://habr.com/ru/news/930846/?utm_campaign=930846&utm_source=habrahabr&utm_medium=rss)
-- [Решения СберТеха и «Солара» помогают бизнесу создать эффективную систему защиты информации](https://habr.com/ru/companies/solarsecurity/news/930840/?utm_campaign=930840&utm_source=habrahabr&utm_medium=rss)
-- [В первом турнире по вайб-кодингу K Prize победитель смог решить только 7,5% задач](https://habr.com/ru/news/930832/?utm_campaign=930832&utm_source=habrahabr&utm_medium=rss)
-- [«Росэл» усовершенствовал производство гибких полиамидных плат для спецаппаратуры](https://habr.com/ru/news/930830/?utm_campaign=930830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
