@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub отсрочил прекращения поддержки Command Palette](https://habr.com/ru/news/930562/?utm_campaign=930562&utm_source=habrahabr&utm_medium=rss)
+- [Установки Microsoft 365 через Windows Store перестанут получать обновления](https://habr.com/ru/news/930556/?utm_campaign=930556&utm_source=habrahabr&utm_medium=rss)
 - [Выпущен учебный курс DBA1-17 «Tantor: Администрирование PostgreSQL 17»](https://habr.com/ru/companies/tantor/news/930552/?utm_campaign=930552&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта Pogocache 1.0 для кэширования, созданного с нуля с упором на низкую задержку и эффективность](https://habr.com/ru/news/930404/?utm_campaign=930404&utm_source=habrahabr&utm_medium=rss)
 - [Команда проекта Fedora Linux рассматривает возможность отмены тестов сборок для оптических носителей &lpar;образов DVD&rpar;](https://habr.com/ru/news/930482/?utm_campaign=930482&utm_source=habrahabr&utm_medium=rss)
-- [Трамп готов реквизировать чужие GPU — Белый дом представил план ИИ‑ускорения](https://habr.com/ru/news/930502/?utm_campaign=930502&utm_source=habrahabr&utm_medium=rss)
-- [Что делать с новой уязвимостью нулевого дня в Microsoft SharePoint? Рассказывают наши эксперты](https://habr.com/ru/companies/pt/news/930442/?utm_campaign=930442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
