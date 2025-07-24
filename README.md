@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Остался месяц на поступление в онлайн-магистратуру Яндекса и топовых вузов](https://habr.com/ru/companies/yandex_praktikum/news/930692/?utm_campaign=930692&utm_source=habrahabr&utm_medium=rss)
 - [Стёртые временем письмена прочитает Aeneas — Google выпустил нейросеть для расшифровки древних текстов](https://habr.com/ru/companies/bothub/news/930638/?utm_campaign=930638&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «GUSI Electric» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/930348/?utm_campaign=930348&utm_source=habrahabr&utm_medium=rss)
 - [Глава Google DeepMind: у AGI 50% шанс появиться к 2030 году](https://habr.com/ru/news/930670/?utm_campaign=930670&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GPU-Z 2.67.0](https://habr.com/ru/news/930656/?utm_campaign=930656&utm_source=habrahabr&utm_medium=rss)
-- [Страх и жадность использовали для прогноза курса биткойна](https://habr.com/ru/news/930648/?utm_campaign=930648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
