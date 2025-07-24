@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat теперь автоматически сообщит друзьям, когда пользователь благополучно доберётся до дома](https://habr.com/ru/news/930804/?utm_campaign=930804&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предлагает установить Windows 11 на неподдерживаемые ПК, которые не соответствуют требованиям новой ОС](https://habr.com/ru/news/930792/?utm_campaign=930792&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 получила обновлённый Copilot Vision и другие свежие ИИ-функции](https://habr.com/ru/companies/bothub/news/930684/?utm_campaign=930684&utm_source=habrahabr&utm_medium=rss)
 - [«Инфосистемы Джет»: промышленность, банки и телеком стали главными целями DDoS](https://habr.com/ru/news/930780/?utm_campaign=930780&utm_source=habrahabr&utm_medium=rss)
 - [VK заявила, что её новая ИИ-модель RuModernBERT ускоряет обработку длинных текстов](https://habr.com/ru/news/930758/?utm_campaign=930758&utm_source=habrahabr&utm_medium=rss)
-- [Wireless Power Consortium анонсировал новый стандарт беспроводной зарядки Qi2 25W](https://habr.com/ru/news/930756/?utm_campaign=930756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
