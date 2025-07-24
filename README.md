@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Snapchat теперь автоматически сообщит друзьям, когда пользователь благополучно доберётся до дома](https://habr.com/ru/news/930804/?utm_campaign=930804&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предлагает установить Windows 11 на неподдерживаемые ПК, которые не соответствуют требованиям новой ОС](https://habr.com/ru/news/930792/?utm_campaign=930792&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 получила обновлённый Copilot Vision и другие свежие ИИ-функции](https://habr.com/ru/companies/bothub/news/930684/?utm_campaign=930684&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет»: промышленность, банки и телеком стали главными целями DDoS](https://habr.com/ru/news/930780/?utm_campaign=930780&utm_source=habrahabr&utm_medium=rss)
-- [VK заявила, что её новая ИИ-модель RuModernBERT ускоряет обработку длинных текстов](https://habr.com/ru/news/930758/?utm_campaign=930758&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 получает «чёрный экран смерти» и инструмент автоматического восстановления](https://habr.com/ru/news/930846/?utm_campaign=930846&utm_source=habrahabr&utm_medium=rss)
+- [Решения СберТеха и «Солара» помогают бизнесу создать эффективную систему защиты информации](https://habr.com/ru/companies/solarsecurity/news/930840/?utm_campaign=930840&utm_source=habrahabr&utm_medium=rss)
+- [В первом турнире по вайб-кодингу K Prize победитель смог решить только 7,5% задач](https://habr.com/ru/news/930832/?utm_campaign=930832&utm_source=habrahabr&utm_medium=rss)
+- [«Росэл» усовершенствовал производство гибких полиамидных плат для спецаппаратуры](https://habr.com/ru/news/930830/?utm_campaign=930830&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты «Доктор Веб» обнаружили семейство троянов, распространяемых под видом читов и модов](https://habr.com/ru/news/930826/?utm_campaign=930826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
