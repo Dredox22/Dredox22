@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В редакторе кода Zed появилась простая возможность глобально отключить все ИИ-функции](https://habr.com/ru/news/930632/?utm_campaign=930632&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Минцифры выбрало «ВК Цифровые технологии» для поддержки сервисов для госслужащих и платформы для их коммуникаций](https://habr.com/ru/news/930604/?utm_campaign=930604&utm_source=habrahabr&utm_medium=rss)
-- [Ноутбук со сворачивающимся дисплеем Lenovo ThinkBook Plus Gen 6 Rollable поступил в продажу за $3,3 тысячи](https://habr.com/ru/news/930586/?utm_campaign=930586&utm_source=habrahabr&utm_medium=rss)
-- [GitHub отсрочил прекращения поддержки Command Palette](https://habr.com/ru/news/930562/?utm_campaign=930562&utm_source=habrahabr&utm_medium=rss)
-- [Установки Microsoft 365 через Windows Store перестанут получать обновления](https://habr.com/ru/news/930556/?utm_campaign=930556&utm_source=habrahabr&utm_medium=rss)
+- [Стёртые временем письмена прочитает Aeneas — Google выпустил нейросеть для расшифровки древних текстов](https://habr.com/ru/companies/bothub/news/930638/?utm_campaign=930638&utm_source=habrahabr&utm_medium=rss)
+- [База оборудования компании «GUSI Electric» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/930348/?utm_campaign=930348&utm_source=habrahabr&utm_medium=rss)
+- [Глава Google DeepMind: у AGI 50% шанс появиться к 2030 году](https://habr.com/ru/news/930670/?utm_campaign=930670&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GPU-Z 2.67.0](https://habr.com/ru/news/930656/?utm_campaign=930656&utm_source=habrahabr&utm_medium=rss)
+- [Страх и жадность использовали для прогноза курса биткойна](https://habr.com/ru/news/930648/?utm_campaign=930648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
