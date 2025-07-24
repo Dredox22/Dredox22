@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK заявила, что её новая ИИ-модель RuModernBERT ускоряет обработку длинных текстов](https://habr.com/ru/news/930758/?utm_campaign=930758&utm_source=habrahabr&utm_medium=rss)
+- [Wireless Power Consortium анонсировал новый стандарт беспроводной зарядки Qi2 25W](https://habr.com/ru/news/930756/?utm_campaign=930756&utm_source=habrahabr&utm_medium=rss)
+- [Сплошные плюсы. Клуб С++ разработчиков](https://habr.com/ru/companies/pvs-studio/news/930748/?utm_campaign=930748&utm_source=habrahabr&utm_medium=rss)
 - [Meta* запускает новые функции для обеспечения безопасности подростков](https://habr.com/ru/companies/bothub/news/930658/?utm_campaign=930658&utm_source=habrahabr&utm_medium=rss)
 - [Суд принял заявления о банкротстве IT‑компаний «Авроид» и «Гиперус»](https://habr.com/ru/news/930710/?utm_campaign=930710&utm_source=habrahabr&utm_medium=rss)
-- [Остался месяц на поступление в онлайн-магистратуру Яндекса и топовых вузов](https://habr.com/ru/companies/yandex_praktikum/news/930692/?utm_campaign=930692&utm_source=habrahabr&utm_medium=rss)
-- [Стёртые временем письмена прочитает Aeneas — Google выпустил нейросеть для расшифровки древних текстов](https://habr.com/ru/companies/bothub/news/930638/?utm_campaign=930638&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования компании «GUSI Electric» для nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/news/930348/?utm_campaign=930348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
