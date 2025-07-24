@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В редакторе кода Zed появилась простая возможность глобально отключить все ИИ-функции](https://habr.com/ru/news/930632/?utm_campaign=930632&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Минцифры выбрало «ВК Цифровые технологии» для поддержки сервисов для госслужащих и платформы для их коммуникаций](https://habr.com/ru/news/930604/?utm_campaign=930604&utm_source=habrahabr&utm_medium=rss)
 - [Ноутбук со сворачивающимся дисплеем Lenovo ThinkBook Plus Gen 6 Rollable поступил в продажу за $3,3 тысячи](https://habr.com/ru/news/930586/?utm_campaign=930586&utm_source=habrahabr&utm_medium=rss)
 - [GitHub отсрочил прекращения поддержки Command Palette](https://habr.com/ru/news/930562/?utm_campaign=930562&utm_source=habrahabr&utm_medium=rss)
 - [Установки Microsoft 365 через Windows Store перестанут получать обновления](https://habr.com/ru/news/930556/?utm_campaign=930556&utm_source=habrahabr&utm_medium=rss)
-- [Выпущен учебный курс DBA1-17 «Tantor: Администрирование PostgreSQL 17»](https://habr.com/ru/companies/tantor/news/930552/?utm_campaign=930552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
