@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предлагает установить Windows 11 на неподдерживаемые ПК, которые не соответствуют требованиям новой ОС](https://habr.com/ru/news/930792/?utm_campaign=930792&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 получила обновлённый Copilot Vision и другие свежие ИИ-функции](https://habr.com/ru/companies/bothub/news/930684/?utm_campaign=930684&utm_source=habrahabr&utm_medium=rss)
+- [«Инфосистемы Джет»: промышленность, банки и телеком стали главными целями DDoS](https://habr.com/ru/news/930780/?utm_campaign=930780&utm_source=habrahabr&utm_medium=rss)
 - [VK заявила, что её новая ИИ-модель RuModernBERT ускоряет обработку длинных текстов](https://habr.com/ru/news/930758/?utm_campaign=930758&utm_source=habrahabr&utm_medium=rss)
 - [Wireless Power Consortium анонсировал новый стандарт беспроводной зарядки Qi2 25W](https://habr.com/ru/news/930756/?utm_campaign=930756&utm_source=habrahabr&utm_medium=rss)
-- [Сплошные плюсы. Клуб С++ разработчиков](https://habr.com/ru/companies/pvs-studio/news/930748/?utm_campaign=930748&utm_source=habrahabr&utm_medium=rss)
-- [Meta* запускает новые функции для обеспечения безопасности подростков](https://habr.com/ru/companies/bothub/news/930658/?utm_campaign=930658&utm_source=habrahabr&utm_medium=rss)
-- [Суд принял заявления о банкротстве IT‑компаний «Авроид» и «Гиперус»](https://habr.com/ru/news/930710/?utm_campaign=930710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
