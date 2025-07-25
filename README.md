@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ML-додзё в Петербурге: прокачаем скилы и встретимся с комьюнити](https://habr.com/ru/companies/yandex/news/931006/?utm_campaign=931006&utm_source=habrahabr&utm_medium=rss)
+- [Intel объявила об увольнении 24 тысяч сотрудников в этом году, глава компании будет лично утверждать все проекты чипов](https://habr.com/ru/news/931004/?utm_campaign=931004&utm_source=habrahabr&utm_medium=rss)
+- [В Совфеде одобрили закон о штрафах за поиск в сети экстремистских материалов и доступ к ним](https://habr.com/ru/news/931002/?utm_campaign=931002&utm_source=habrahabr&utm_medium=rss)
 - [В Android Linux-терминал добавлена возможность запуска графических приложений, собранных для Linux](https://habr.com/ru/news/930984/?utm_campaign=930984&utm_source=habrahabr&utm_medium=rss)
 - [В Windows обнаружили уязвимость компонента VPN-соединений](https://habr.com/ru/news/930982/?utm_campaign=930982&utm_source=habrahabr&utm_medium=rss)
-- [Британского студента приговорили к тюрьме за продажу фишинговых инструментов, связанных с мошенничеством на $135 млн](https://habr.com/ru/news/930980/?utm_campaign=930980&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум запустил курс по управлению командой тестирования и качества](https://habr.com/ru/companies/yandex_praktikum/news/929504/?utm_campaign=929504&utm_source=habrahabr&utm_medium=rss)
-- [Сокращённые ссылки Google goo.gl перестанут работать с 25 августа](https://habr.com/ru/news/930940/?utm_campaign=930940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
