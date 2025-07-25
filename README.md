@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Android Linux-терминал добавлена возможность запуска графических приложений, собранных для Linux](https://habr.com/ru/news/930984/?utm_campaign=930984&utm_source=habrahabr&utm_medium=rss)
+- [В Windows обнаружили уязвимость компонента VPN-соединений](https://habr.com/ru/news/930982/?utm_campaign=930982&utm_source=habrahabr&utm_medium=rss)
+- [Британского студента приговорили к тюрьме за продажу фишинговых инструментов, связанных с мошенничеством на $135 млн](https://habr.com/ru/news/930980/?utm_campaign=930980&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил курс по управлению командой тестирования и качества](https://habr.com/ru/companies/yandex_praktikum/news/929504/?utm_campaign=929504&utm_source=habrahabr&utm_medium=rss)
 - [Сокращённые ссылки Google goo.gl перестанут работать с 25 августа](https://habr.com/ru/news/930940/?utm_campaign=930940&utm_source=habrahabr&utm_medium=rss)
-- [В работе системы спутниковой связи Starlink &lpar;AS14593&rpar; произошёл глобальный сбой](https://habr.com/ru/news/930930/?utm_campaign=930930&utm_source=habrahabr&utm_medium=rss)
-- [Представлен демо-проект Operese — инструмент для миграции с Windows на Linux](https://habr.com/ru/news/930866/?utm_campaign=930866&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.3.2](https://habr.com/ru/news/930824/?utm_campaign=930824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
