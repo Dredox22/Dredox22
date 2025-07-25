@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Из-за истечения срока действия ключа подписи Secure Boot UEFI у пользователей Linux](https://habr.com/ru/news/931064/?utm_campaign=931064&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: Комплект высокой готовности ОСРВ «Нейтрино»: основные возможности диагностики и восстановления процессов](https://habr.com/ru/companies/swd_es/news/931058/?utm_campaign=931058&utm_source=habrahabr&utm_medium=rss)
-- [Apple обновила возрастной рейтинг в App Store: появились категории 13+, 16+ и 18+](https://habr.com/ru/news/931046/?utm_campaign=931046&utm_source=habrahabr&utm_medium=rss)
-- [ML-додзё в Петербурге: прокачаем скилы и встретимся с комьюнити](https://habr.com/ru/companies/yandex/news/931006/?utm_campaign=931006&utm_source=habrahabr&utm_medium=rss)
-- [Intel объявила об увольнении 24 тысяч сотрудников в этом году, глава компании будет лично утверждать все проекты чипов](https://habr.com/ru/news/931004/?utm_campaign=931004&utm_source=habrahabr&utm_medium=rss)
+- [AWS закрыла ИИ-лабораторию в Шанхае](https://habr.com/ru/news/931120/?utm_campaign=931120&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры взломали аккаунт Toptal на GitHub и опубликовали вредоносные пакеты npm](https://habr.com/ru/news/931098/?utm_campaign=931098&utm_source=habrahabr&utm_medium=rss)
+- [Google позволит покупателям генерировать одежду по описанию и искать похожую в интернет-магазинах](https://habr.com/ru/news/931096/?utm_campaign=931096&utm_source=habrahabr&utm_medium=rss)
+- [Компании начали использовать магнитные LTO-ленты для больших данных для тренировки ИИ-моделей](https://habr.com/ru/news/931074/?utm_campaign=931074&utm_source=habrahabr&utm_medium=rss)
+- [Из-за истечения срока действия ключа подписи Secure Boot UEFI у пользователей Linux возникнут проблемы](https://habr.com/ru/news/931064/?utm_campaign=931064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
