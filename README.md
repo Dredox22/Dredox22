@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple представила FastVLM — визуально-языковую модель высокой точности, которая работает на смартфоне](https://habr.com/ru/news/931182/?utm_campaign=931182&utm_source=habrahabr&utm_medium=rss)
+- [Yandex B2B Tech открыла доступ к крупнейшей языковой модели Qwen3](https://habr.com/ru/companies/bothub/news/931142/?utm_campaign=931142&utm_source=habrahabr&utm_medium=rss)
+- [Google представила Opal — платформу для генерации веб-приложений на базе Gemini](https://habr.com/ru/news/931174/?utm_campaign=931174&utm_source=habrahabr&utm_medium=rss)
+- [Китай контрабандой ввез чипов Nvidia на $1 млрд](https://habr.com/ru/news/931164/?utm_campaign=931164&utm_source=habrahabr&utm_medium=rss)
 - [GitHub запустил свой AI-инструмент для создания приложений в публичном превью](https://habr.com/ru/companies/bothub/news/931144/?utm_campaign=931144&utm_source=habrahabr&utm_medium=rss)
-- [Хакерский форум Leak Zone случайно слил IP-адреса своих пользователей](https://habr.com/ru/news/931152/?utm_campaign=931152&utm_source=habrahabr&utm_medium=rss)
-- [Blender выпустит версию редактора 3D-графики для iPad](https://habr.com/ru/news/931138/?utm_campaign=931138&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры используют DNS-записи для скрытой загрузки вредоносных файлов и атак на ИИ](https://habr.com/ru/news/931132/?utm_campaign=931132&utm_source=habrahabr&utm_medium=rss)
-- [Qwen3-MT — Alibaba выпускает еще одну модель для машинного перевода](https://habr.com/ru/companies/bothub/news/931114/?utm_campaign=931114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
