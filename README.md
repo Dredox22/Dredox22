@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запустила Opal, визуальный конструктор для создания и публикации ИИ-приложений](https://habr.com/ru/companies/bothub/news/931176/?utm_campaign=931176&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила FastVLM — визуально-языковую модель высокой точности, которая работает на смартфоне](https://habr.com/ru/news/931182/?utm_campaign=931182&utm_source=habrahabr&utm_medium=rss)
 - [Yandex B2B Tech открыла доступ к крупнейшей языковой модели Qwen3](https://habr.com/ru/companies/bothub/news/931142/?utm_campaign=931142&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Opal — платформу для генерации веб-приложений на базе Gemini](https://habr.com/ru/news/931174/?utm_campaign=931174&utm_source=habrahabr&utm_medium=rss)
 - [Китай контрабандой ввез чипов Nvidia на $1 млрд](https://habr.com/ru/news/931164/?utm_campaign=931164&utm_source=habrahabr&utm_medium=rss)
-- [GitHub запустил свой AI-инструмент для создания приложений в публичном превью](https://habr.com/ru/companies/bothub/news/931144/?utm_campaign=931144&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
