@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Blender выпустит версию редактора 3D-графики для iPad](https://habr.com/ru/news/931138/?utm_campaign=931138&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры используют DNS-записи для скрытой загрузки вредоносных файлов и атак на ИИ](https://habr.com/ru/news/931132/?utm_campaign=931132&utm_source=habrahabr&utm_medium=rss)
+- [Qwen3-MT — Alibaba выпускает еще одну модель для машинного перевода](https://habr.com/ru/companies/bothub/news/931114/?utm_campaign=931114&utm_source=habrahabr&utm_medium=rss)
 - [AWS закрыла ИИ-лабораторию в Шанхае](https://habr.com/ru/news/931120/?utm_campaign=931120&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры взломали аккаунт Toptal на GitHub и опубликовали вредоносные пакеты npm](https://habr.com/ru/news/931098/?utm_campaign=931098&utm_source=habrahabr&utm_medium=rss)
-- [Google позволит покупателям генерировать одежду по описанию и искать похожую в интернет-магазинах](https://habr.com/ru/news/931096/?utm_campaign=931096&utm_source=habrahabr&utm_medium=rss)
-- [Компании начали использовать магнитные LTO-ленты для больших данных для тренировки ИИ-моделей](https://habr.com/ru/news/931074/?utm_campaign=931074&utm_source=habrahabr&utm_medium=rss)
-- [Из-за истечения срока действия ключа подписи Secure Boot UEFI у пользователей Linux возникнут проблемы](https://habr.com/ru/news/931064/?utm_campaign=931064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
