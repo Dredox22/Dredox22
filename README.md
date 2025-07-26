@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В PyPI разблокировали регистрацию с электронных адресов inbox.ru, так как это была спам-проверка от VK](https://habr.com/ru/news/931280/?utm_campaign=931280&utm_source=habrahabr&utm_medium=rss)
 - [Производителя бытовой химии Clorox взломали обычным звонком в техподдержку с просьбой сбросить пароль и отключить MFA](https://habr.com/ru/news/931276/?utm_campaign=931276&utm_source=habrahabr&utm_medium=rss)
 - [Вышел первый экспериментальный выпуск открытого проекта Wayback 0.1](https://habr.com/ru/news/931224/?utm_campaign=931224&utm_source=habrahabr&utm_medium=rss)
 - [Представлена инициатива Maintenance Fee для сбора платы за доступ к сборкам релизов открытых проектов](https://habr.com/ru/news/931220/?utm_campaign=931220&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый дистрибутив для создания межсетевых экранов OPNsense 25.7](https://habr.com/ru/news/931204/?utm_campaign=931204&utm_source=habrahabr&utm_medium=rss)
-- [Ozon планирует создать ИИ-ассистента для помощи в поиске товаров](https://habr.com/ru/companies/bothub/news/931238/?utm_campaign=931238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
