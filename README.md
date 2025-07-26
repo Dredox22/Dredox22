@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава OpenAI предупредил о рисках использования ChatGPT в качестве психотерапевта](https://habr.com/ru/news/931394/?utm_campaign=931394&utm_source=habrahabr&utm_medium=rss)
 - [В Китае начнут производить стеклянные оптические диски ёмкостью до 360 ТБ данных](https://habr.com/ru/news/931388/?utm_campaign=931388&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи научились обходить проверку возраста Discord в Великобритании с помощью фоторежима Death Stranding](https://habr.com/ru/news/931324/?utm_campaign=931324&utm_source=habrahabr&utm_medium=rss)
 - [Часть владельцев бессрочных лицензий VMware не могут получить своевременные обновления безопасности](https://habr.com/ru/news/931320/?utm_campaign=931320&utm_source=habrahabr&utm_medium=rss)
 - [Операция CargoTalon: атака на российскую авиационную промышленность через LNK и PowerShell — новый виток кибершпионажа](https://habr.com/ru/news/931306/?utm_campaign=931306&utm_source=habrahabr&utm_medium=rss)
-- [Жительницу Аризоны приговорили к тюрьме за помощь северокорейским IT-специалистам внедриться в 309 американских компаний](https://habr.com/ru/news/931302/?utm_campaign=931302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
