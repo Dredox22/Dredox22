@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи научились обходить проверку возраста Discord в Великобритании с помощью фоторежима Death Stranding](https://habr.com/ru/news/931324/?utm_campaign=931324&utm_source=habrahabr&utm_medium=rss)
+- [Часть владельцев бессрочных лицензий VMware не могут получить своевременные обновления безопасности](https://habr.com/ru/news/931320/?utm_campaign=931320&utm_source=habrahabr&utm_medium=rss)
 - [Операция CargoTalon: атака на российскую авиационную промышленность через LNK и PowerShell — новый виток кибершпионажа](https://habr.com/ru/news/931306/?utm_campaign=931306&utm_source=habrahabr&utm_medium=rss)
 - [Жительницу Аризоны приговорили к тюрьме за помощь северокорейским IT-специалистам внедриться в 309 американских компаний](https://habr.com/ru/news/931302/?utm_campaign=931302&utm_source=habrahabr&utm_medium=rss)
 - [В PyPI разблокировали регистрацию с электронных адресов inbox.ru, так как это была спам-проверка от VK](https://habr.com/ru/news/931280/?utm_campaign=931280&utm_source=habrahabr&utm_medium=rss)
-- [Производителя бытовой химии Clorox взломали обычным звонком в техподдержку с просьбой сбросить пароль и отключить MFA](https://habr.com/ru/news/931276/?utm_campaign=931276&utm_source=habrahabr&utm_medium=rss)
-- [Вышел первый экспериментальный выпуск открытого проекта Wayback 0.1](https://habr.com/ru/news/931224/?utm_campaign=931224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
