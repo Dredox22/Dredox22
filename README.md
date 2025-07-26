@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Производителя бытовой химии Clorox взломали обычным звонком в техподдержку с просьбой сбросить пароль и отключить MFA](https://habr.com/ru/news/931276/?utm_campaign=931276&utm_source=habrahabr&utm_medium=rss)
 - [Вышел первый экспериментальный выпуск открытого проекта Wayback 0.1](https://habr.com/ru/news/931224/?utm_campaign=931224&utm_source=habrahabr&utm_medium=rss)
 - [Представлена инициатива Maintenance Fee для сбора платы за доступ к сборкам релизов открытых проектов](https://habr.com/ru/news/931220/?utm_campaign=931220&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый дистрибутив для создания межсетевых экранов OPNsense 25.7](https://habr.com/ru/news/931204/?utm_campaign=931204&utm_source=habrahabr&utm_medium=rss)
 - [Ozon планирует создать ИИ-ассистента для помощи в поиске товаров](https://habr.com/ru/companies/bothub/news/931238/?utm_campaign=931238&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft возрождает Clippy в виде ИИ-помощника в новой функции Copilot Appearance](https://habr.com/ru/companies/bothub/news/931234/?utm_campaign=931234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
