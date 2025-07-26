@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел первый экспериментальный выпуск открытого проекта Wayback 0.1](https://habr.com/ru/news/931224/?utm_campaign=931224&utm_source=habrahabr&utm_medium=rss)
+- [Представлена инициатива Maintenance Fee для сбора платы за доступ к сборкам релизов открытых проектов](https://habr.com/ru/news/931220/?utm_campaign=931220&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый дистрибутив для создания межсетевых экранов OPNsense 25.7](https://habr.com/ru/news/931204/?utm_campaign=931204&utm_source=habrahabr&utm_medium=rss)
 - [Ozon планирует создать ИИ-ассистента для помощи в поиске товаров](https://habr.com/ru/companies/bothub/news/931238/?utm_campaign=931238&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft возрождает Clippy в виде ИИ-помощника в новой функции Copilot Appearance](https://habr.com/ru/companies/bothub/news/931234/?utm_campaign=931234&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 совершит огромный рывок в программировании — The Information](https://habr.com/ru/news/931216/?utm_campaign=931216&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила Opal, визуальный конструктор для создания и публикации ИИ-приложений](https://habr.com/ru/companies/bothub/news/931176/?utm_campaign=931176&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила FastVLM — визуально-языковую модель высокой точности, которая работает на смартфоне](https://habr.com/ru/news/931182/?utm_campaign=931182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
