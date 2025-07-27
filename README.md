@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На обсуждение представлены правила и ограничения для ИИ-ассистентов, применяемых при разработке компонентов ядра Linux](https://habr.com/ru/news/931430/?utm_campaign=931430&utm_source=habrahabr&utm_medium=rss)
 - [CEO Surge Эдвин Чен: ИИ создаёт сотрудников, чья производительность в сто раз выше среднестатистической](https://habr.com/ru/news/931448/?utm_campaign=931448&utm_source=habrahabr&utm_medium=rss)
 - [Windows 365 получил крупное обновление RDP](https://habr.com/ru/news/931442/?utm_campaign=931442&utm_source=habrahabr&utm_medium=rss)
 - [Страховая компания Allianz Life подтвердила раскрытие данных «большинства» её клиентов в результате кибератаки](https://habr.com/ru/news/931438/?utm_campaign=931438&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft планирует масштабное обновление Visual Studio](https://habr.com/ru/news/931436/?utm_campaign=931436&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Web Guide — инструмент для структуризации поисковой выдачи](https://habr.com/ru/news/931426/?utm_campaign=931426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
