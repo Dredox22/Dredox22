@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китай призвал к созданию глобальной ИИ-коалиции](https://habr.com/ru/news/931528/?utm_campaign=931528&utm_source=habrahabr&utm_medium=rss)
 - [AdGuard будет блокировать функцию Microsoft Recall](https://habr.com/ru/news/931312/?utm_campaign=931312&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT даёт инструкции по опасным языческим ритуалам и обрядам](https://habr.com/ru/news/931480/?utm_campaign=931480&utm_source=habrahabr&utm_medium=rss)
 - [На обсуждение представлены правила и ограничения для ИИ-ассистентов, применяемых при разработке компонентов ядра Linux](https://habr.com/ru/news/931430/?utm_campaign=931430&utm_source=habrahabr&utm_medium=rss)
 - [CEO Surge Эдвин Чен: ИИ создаёт сотрудников, чья производительность в сто раз выше среднестатистической](https://habr.com/ru/news/931448/?utm_campaign=931448&utm_source=habrahabr&utm_medium=rss)
-- [Windows 365 получил крупное обновление RDP](https://habr.com/ru/news/931442/?utm_campaign=931442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
