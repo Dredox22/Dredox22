@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила Web Guide — инструмент для структуризации поисковой выдачи](https://habr.com/ru/news/931426/?utm_campaign=931426&utm_source=habrahabr&utm_medium=rss)
 - [Excel получил автоматическое обновление для сводных таблиц](https://habr.com/ru/news/931414/?utm_campaign=931414&utm_source=habrahabr&utm_medium=rss)
 - [Аргентинец отсудил у Google $12,5 тыс.: камера Street View сфотографировала его обнажённым](https://habr.com/ru/news/931308/?utm_campaign=931308&utm_source=habrahabr&utm_medium=rss)
 - [Релиз RapidRAW 1.2.12 — открытого редактора изображений RAW](https://habr.com/ru/news/931370/?utm_campaign=931370&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tails 6.18](https://habr.com/ru/news/931366/?utm_campaign=931366&utm_source=habrahabr&utm_medium=rss)
-- [Релиз HopToDesk 1.44.2 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/931372/?utm_campaign=931372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
