@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз RapidRAW 1.2.12 — открытого редактора изображений RAW](https://habr.com/ru/news/931370/?utm_campaign=931370&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Tails 6.18](https://habr.com/ru/news/931366/?utm_campaign=931366&utm_source=habrahabr&utm_medium=rss)
+- [Релиз HopToDesk 1.44.2 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/931372/?utm_campaign=931372&utm_source=habrahabr&utm_medium=rss)
 - [Глава OpenAI предупредил о рисках использования ChatGPT в качестве психотерапевта](https://habr.com/ru/news/931394/?utm_campaign=931394&utm_source=habrahabr&utm_medium=rss)
 - [В Китае начнут производить стеклянные оптические диски ёмкостью до 360 ТБ данных](https://habr.com/ru/news/931388/?utm_campaign=931388&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи научились обходить проверку возраста Discord в Великобритании с помощью фоторежима Death Stranding](https://habr.com/ru/news/931324/?utm_campaign=931324&utm_source=habrahabr&utm_medium=rss)
-- [Часть владельцев бессрочных лицензий VMware не могут получить своевременные обновления безопасности](https://habr.com/ru/news/931320/?utm_campaign=931320&utm_source=habrahabr&utm_medium=rss)
-- [Операция CargoTalon: атака на российскую авиационную промышленность через LNK и PowerShell — новый виток кибершпионажа](https://habr.com/ru/news/931306/?utm_campaign=931306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
