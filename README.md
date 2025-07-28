@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз видеоредактора с открытым исходным кодом Shotcut 25.07](https://habr.com/ru/news/931434/?utm_campaign=931434&utm_source=habrahabr&utm_medium=rss)
+- [База оборудования компании «RVi Group» для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/931188/?utm_campaign=931188&utm_source=habrahabr&utm_medium=rss)
+- [Вышел дистрибутив Slackel 8.0 на базе проектов Slackware и Salix](https://habr.com/ru/news/931412/?utm_campaign=931412&utm_source=habrahabr&utm_medium=rss)
 - [Открытый проект copyparty позволяет превратить любое устройство в файловый сервер с загрузкой/выгрузкой через браузер](https://habr.com/ru/news/931488/?utm_campaign=931488&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Minimal PDF Compress 1.4 и почти сразу 1.5 — GUI для Ghostscript под Windows](https://habr.com/ru/news/931278/?utm_campaign=931278&utm_source=habrahabr&utm_medium=rss)
-- [Релиз CrystalDiskInfo 9.7.1](https://habr.com/ru/news/931492/?utm_campaign=931492&utm_source=habrahabr&utm_medium=rss)
-- [Китай призвал к созданию глобальной ИИ-коалиции](https://habr.com/ru/news/931528/?utm_campaign=931528&utm_source=habrahabr&utm_medium=rss)
-- [AdGuard будет блокировать функцию Microsoft Recall](https://habr.com/ru/news/931312/?utm_campaign=931312&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
