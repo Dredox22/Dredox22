@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генпрокуратура РФ: причиной сбоя в работе «Аэрофлота» стала хакерская атака](https://habr.com/ru/news/931648/?utm_campaign=931648&utm_source=habrahabr&utm_medium=rss)
+- [Росгосстрах запустил виртуальную игру ЖК «Несчастье»](https://habr.com/ru/companies/rgs_it/news/931630/?utm_campaign=931630&utm_source=habrahabr&utm_medium=rss)
+- [«Инфосистемы Джет» выявила низкую зрелость управления ИБ в половине предприятий РФ](https://habr.com/ru/companies/jetinfosystems/news/931624/?utm_campaign=931624&utm_source=habrahabr&utm_medium=rss)
 - [Система оповещений о землетрясениях Android не сработала при землетрясениях в Турции](https://habr.com/ru/news/931612/?utm_campaign=931612&utm_source=habrahabr&utm_medium=rss)
 - [Mobile Runtime — летний фестиваль практики и карьерного роста для мобильных разработчиков](https://habr.com/ru/companies/yandex/news/930010/?utm_campaign=930010&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 6.16 Baby Opossum Posse](https://habr.com/ru/news/931490/?utm_campaign=931490&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила телеметрию для отслеживания медленной работы Windows 11](https://habr.com/ru/news/931598/?utm_campaign=931598&utm_source=habrahabr&utm_medium=rss)
-- [Тренд полугодия: утечки ПД из CRM](https://habr.com/ru/news/931578/?utm_campaign=931578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
