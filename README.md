@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 28 августа Anthropic введет дополнительные еженедельные лимиты на планах Claude Pro и Max](https://habr.com/ru/news/931876/?utm_campaign=931876&utm_source=habrahabr&utm_medium=rss)
 - [На 16% меньше ошибочных диагнозов. OpenAI испытала ИИ-ассистента врача](https://habr.com/ru/news/931858/?utm_campaign=931858&utm_source=habrahabr&utm_medium=rss)
 - [Telegram запустил официальное мини-приложение для подтверждения возраста](https://habr.com/ru/news/931854/?utm_campaign=931854&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: нейроредактор кода Trae от ByteDance потребляет слишком много ОЗУ](https://habr.com/ru/news/931842/?utm_campaign=931842&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот BotFather для администрирования ботов в Telegram обзавёлся мини-приложением](https://habr.com/ru/news/931828/?utm_campaign=931828&utm_source=habrahabr&utm_medium=rss)
-- [На уровне KLING 2.0, но open source — представлены модели создания видео Wan 2.2](https://habr.com/ru/news/931826/?utm_campaign=931826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
