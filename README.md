@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram запустил официальное мини-приложение для подтверждения возраста](https://habr.com/ru/news/931854/?utm_campaign=931854&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: нейроредактор кода Trae от ByteDance потребляет слишком много ОЗУ](https://habr.com/ru/news/931842/?utm_campaign=931842&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот BotFather для администрирования ботов в Telegram обзавёлся мини-приложением](https://habr.com/ru/news/931828/?utm_campaign=931828&utm_source=habrahabr&utm_medium=rss)
 - [На уровне KLING 2.0, но open source — представлены модели создания видео Wan 2.2](https://habr.com/ru/news/931826/?utm_campaign=931826&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры и операторы связи обсуждают выборочный доступ к онлайн-сервисам при отключении интернета](https://habr.com/ru/news/931818/?utm_campaign=931818&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft не может гарантировать суверенитет данных в ЕС из-за закона США, разрешающего доступ к иностранным серверам](https://habr.com/ru/news/931812/?utm_campaign=931812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
