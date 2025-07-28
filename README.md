@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan Display решила продать всё оборудование для выпуска OLED-панелей и прекратить их поставки для Apple Watch](https://habr.com/ru/news/931720/?utm_campaign=931720&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft ускорила запуск приложений Office с помощью функции Startup Boost в Windows 11](https://habr.com/ru/news/931710/?utm_campaign=931710&utm_source=habrahabr&utm_medium=rss)
+- [Как QA гарантирует безопасность ваших денег?](https://habr.com/ru/companies/finam_broker/news/931678/?utm_campaign=931678&utm_source=habrahabr&utm_medium=rss)
 - [Selectel выпустил бесплатный курс по Go](https://habr.com/ru/companies/selectel/news/931662/?utm_campaign=931662&utm_source=habrahabr&utm_medium=rss)
 - [СИГМА приняла участие в главной кибербитве страны — Standoff 13](https://habr.com/ru/companies/sigma/news/931656/?utm_campaign=931656&utm_source=habrahabr&utm_medium=rss)
-- [Генпрокуратура РФ: причиной сбоя в работе «Аэрофлота» стала хакерская атака](https://habr.com/ru/news/931648/?utm_campaign=931648&utm_source=habrahabr&utm_medium=rss)
-- [Росгосстрах запустил виртуальную игру ЖК «Несчастье»](https://habr.com/ru/companies/rgs_it/news/931630/?utm_campaign=931630&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет» выявила низкую зрелость управления ИБ в половине предприятий РФ](https://habr.com/ru/companies/jetinfosystems/news/931624/?utm_campaign=931624&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
