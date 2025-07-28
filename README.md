@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи: нейроредактор кода Trae от ByteDance потребляет слишком много ОЗУ](https://habr.com/ru/news/931842/?utm_campaign=931842&utm_source=habrahabr&utm_medium=rss)
+- [Чат-бот BotFather для администрирования ботов в Telegram обзавёлся мини-приложением](https://habr.com/ru/news/931828/?utm_campaign=931828&utm_source=habrahabr&utm_medium=rss)
+- [На уровне KLING 2.0, но open source — представлены модели создания видео Wan 2.2](https://habr.com/ru/news/931826/?utm_campaign=931826&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры и операторы связи обсуждают выборочный доступ к онлайн-сервисам при отключении интернета](https://habr.com/ru/news/931818/?utm_campaign=931818&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft не может гарантировать суверенитет данных в ЕС из-за закона США, разрешающего доступ к иностранным серверам](https://habr.com/ru/news/931812/?utm_campaign=931812&utm_source=habrahabr&utm_medium=rss)
-- [Власти Китая предупредили граждан об опасности устройств с бэкдорами, в частности подводных морских датчиков](https://habr.com/ru/news/931806/?utm_campaign=931806&utm_source=habrahabr&utm_medium=rss)
-- [В начале 2026 года в странах ЕС заработает приложение на Android с лицензией Google для цифровой верификации возраста](https://habr.com/ru/news/931804/?utm_campaign=931804&utm_source=habrahabr&utm_medium=rss)
-- [Поправки к законопроекту об антифроде включают новую статью УК, ограничение на карты и исключение для звонков из РБ](https://habr.com/ru/news/931792/?utm_campaign=931792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
