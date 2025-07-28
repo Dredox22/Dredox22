@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Система оповещений о землетрясениях Android не сработала при землетрясениях в Турции](https://habr.com/ru/news/931612/?utm_campaign=931612&utm_source=habrahabr&utm_medium=rss)
+- [Mobile Runtime — летний фестиваль практики и карьерного роста для мобильных разработчиков](https://habr.com/ru/companies/yandex/news/930010/?utm_campaign=930010&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Linux 6.16 Baby Opossum Posse](https://habr.com/ru/news/931490/?utm_campaign=931490&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила телеметрию для отслеживания медленной работы Windows 11](https://habr.com/ru/news/931598/?utm_campaign=931598&utm_source=habrahabr&utm_medium=rss)
 - [Тренд полугодия: утечки ПД из CRM](https://habr.com/ru/news/931578/?utm_campaign=931578&utm_source=habrahabr&utm_medium=rss)
-- [Runway представила Aleph — новый способ редактирования, преобразования и генерации видео](https://habr.com/ru/companies/bothub/news/931570/?utm_campaign=931570&utm_source=habrahabr&utm_medium=rss)
-- [Сливы подросли на CRM: увеличилось количество утечек данных из систем взаимодействия с заказчиками](https://habr.com/ru/companies/F6/news/931564/?utm_campaign=931564&utm_source=habrahabr&utm_medium=rss)
-- [Переписка с ChatGPT может быть использована в суде](https://habr.com/ru/companies/bothub/news/931562/?utm_campaign=931562&utm_source=habrahabr&utm_medium=rss)
-- [SOChная курочка: готовим карри в новом выпуске шоу «Инфобез со вкусом»](https://habr.com/ru/companies/gaz-is/news/931556/?utm_campaign=931556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
