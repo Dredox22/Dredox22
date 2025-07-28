@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Аэрофлот»: авиакомпания осуществляет операционную деятельность, несмотря на произошедший сбой в IT-инфраструктуре](https://habr.com/ru/news/931774/?utm_campaign=931774&utm_source=habrahabr&utm_medium=rss)
+- [«Глонасс» зарегистрировало сим‑чипы для транспорта, дронов и передачи данных в госсистемы](https://habr.com/ru/news/931766/?utm_campaign=931766&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba представила Quark AI Glasses: умные очки с ИИ и двойным чипсетом](https://habr.com/ru/news/931756/?utm_campaign=931756&utm_source=habrahabr&utm_medium=rss)
 - [Владельцы Li Auto &lpar;Lixiang&rpar; в РФ столкнулись со взломом мастер-аккаунтов](https://habr.com/ru/news/931752/?utm_campaign=931752&utm_source=habrahabr&utm_medium=rss)
 - [Japan Display решила продать всё оборудование для выпуска OLED-панелей и прекратить их поставки для Apple Watch](https://habr.com/ru/news/931720/?utm_campaign=931720&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft ускорила запуск приложений Office с помощью функции Startup Boost в Windows 11](https://habr.com/ru/news/931710/?utm_campaign=931710&utm_source=habrahabr&utm_medium=rss)
-- [Как QA гарантирует безопасность ваших денег?](https://habr.com/ru/companies/finam_broker/news/931678/?utm_campaign=931678&utm_source=habrahabr&utm_medium=rss)
-- [Selectel выпустил бесплатный курс по Go](https://habr.com/ru/companies/selectel/news/931662/?utm_campaign=931662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
