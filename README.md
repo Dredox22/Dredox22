@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Поправки к законопроекту об антифронде включают новую статью УК, ограничение на карты и исключение для звонков из РБ](https://habr.com/ru/news/931792/?utm_campaign=931792&utm_source=habrahabr&utm_medium=rss)
-- [Google закроет функцию «Подписаться» в своём сервисе Карт в этом году](https://habr.com/ru/news/931788/?utm_campaign=931788&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор пока не подтвердил инцидент с утечкой персональных данных клиентов или сотрудников «Аэрофлота»](https://habr.com/ru/news/931786/?utm_campaign=931786&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/931782/?utm_campaign=931782&utm_source=habrahabr&utm_medium=rss)
-- [Глава «Роскосмоса» рассказал о начале разработки ракеты с возвращаемой первой ступенью](https://habr.com/ru/news/931776/?utm_campaign=931776&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры и операторы связи обсуждают выборочный доступ к онлайн-сервисам при отключении интернета](https://habr.com/ru/news/931818/?utm_campaign=931818&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft не может гарантировать суверенитет данных в ЕС из-за закона США, разрешающего доступ к иностранным серверам](https://habr.com/ru/news/931812/?utm_campaign=931812&utm_source=habrahabr&utm_medium=rss)
+- [Власти Китая предупредили граждан об опасности устройств с бэкдорами, в частности подводных морских датчиков](https://habr.com/ru/news/931806/?utm_campaign=931806&utm_source=habrahabr&utm_medium=rss)
+- [В начале 2026 года в странах ЕС заработает приложение на Android с лицензией Google для цифровой верификации возраста](https://habr.com/ru/news/931804/?utm_campaign=931804&utm_source=habrahabr&utm_medium=rss)
+- [Поправки к законопроекту об антифроде включают новую статью УК, ограничение на карты и исключение для звонков из РБ](https://habr.com/ru/news/931792/?utm_campaign=931792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
