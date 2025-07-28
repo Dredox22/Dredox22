@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Аэрофлот»: авиакомпания осуществляет операционную деятельность, несмотря на произошедший сбой в IT-инфраструктуре](https://habr.com/ru/news/931774/?utm_campaign=931774&utm_source=habrahabr&utm_medium=rss)
-- [«Глонасс» зарегистрировало сим‑чипы для транспорта, дронов и передачи данных в госсистемы](https://habr.com/ru/news/931766/?utm_campaign=931766&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba представила Quark AI Glasses: умные очки с ИИ и двойным чипсетом](https://habr.com/ru/news/931756/?utm_campaign=931756&utm_source=habrahabr&utm_medium=rss)
-- [Владельцы Li Auto &lpar;Lixiang&rpar; в РФ столкнулись со взломом мастер-аккаунтов](https://habr.com/ru/news/931752/?utm_campaign=931752&utm_source=habrahabr&utm_medium=rss)
-- [Japan Display решила продать всё оборудование для выпуска OLED-панелей и прекратить их поставки для Apple Watch](https://habr.com/ru/news/931720/?utm_campaign=931720&utm_source=habrahabr&utm_medium=rss)
+- [Поправки к законопроекту об антифронде включают новую статью УК, ограничение на карты и исключение для звонков из РБ](https://habr.com/ru/news/931792/?utm_campaign=931792&utm_source=habrahabr&utm_medium=rss)
+- [Google закроет функцию «Подписаться» в своём сервисе Карт в этом году](https://habr.com/ru/news/931788/?utm_campaign=931788&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор пока не подтвердил инцидент с утечкой персональных данных клиентов или сотрудников «Аэрофлота»](https://habr.com/ru/news/931786/?utm_campaign=931786&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/931782/?utm_campaign=931782&utm_source=habrahabr&utm_medium=rss)
+- [Глава «Роскосмоса» рассказал о начале разработки ракеты с возвращаемой первой ступенью](https://habr.com/ru/news/931776/?utm_campaign=931776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
