@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик ККИ «Черная книга» выпустила хоррор по русским народным сказкам 19 века «Лихо одноглазое»](https://habr.com/ru/news/932192/?utm_campaign=932192&utm_source=habrahabr&utm_medium=rss)
+- [Началась бета Grok Imagine: быстрые картинки и пикантный режим](https://habr.com/ru/news/932188/?utm_campaign=932188&utm_source=habrahabr&utm_medium=rss)
 - [PayPal скоро позволит оплачивать покупки криптовалютой](https://habr.com/ru/news/932178/?utm_campaign=932178&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сообщила об уязвимости в macOS, которая могла привести к утечке метаданных Apple Intelligence](https://habr.com/ru/news/932172/?utm_campaign=932172&utm_source=habrahabr&utm_medium=rss)
 - [В августе 2025 года вступает в силу закон об отказе россиян от спам‑рассылок](https://habr.com/ru/news/932168/?utm_campaign=932168&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: компания по кибербезопасности ГК «Солар» принимает участие в расследовании кибератаки на «Аэрофлот»](https://habr.com/ru/news/932136/?utm_campaign=932136&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на ежегодную конференцию Luxms 2025](https://habr.com/ru/companies/luxms_bi/news/932116/?utm_campaign=932116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
