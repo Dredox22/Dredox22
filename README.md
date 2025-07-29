@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик проекта Kapitano &lpar;UI для движка ClamAV в Linux&rpar; столкнулся с троллингом пользователя и закрыл проект](https://habr.com/ru/news/931904/?utm_campaign=931904&utm_source=habrahabr&utm_medium=rss)
 - [Вышло приложение Tea для оценки мужчин, спустя несколько дней хакеры слили данные тех, кто ставил отрицательные отзывы](https://habr.com/ru/news/931896/?utm_campaign=931896&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: восстановление IT-систем «Аэрофлота» может занять от нескольких недель до шести месяцев](https://habr.com/ru/news/931890/?utm_campaign=931890&utm_source=habrahabr&utm_medium=rss)
 - [Cоучредитель и руководитель проекта OpenPrinting обратился к спонсорам после увольнения из Canonical](https://habr.com/ru/news/931886/?utm_campaign=931886&utm_source=habrahabr&utm_medium=rss)
 - [С 28 августа Anthropic введет дополнительные еженедельные лимиты на планах Claude Pro и Max](https://habr.com/ru/news/931876/?utm_campaign=931876&utm_source=habrahabr&utm_medium=rss)
-- [На 16% меньше ошибочных диагнозов. OpenAI испытала ИИ-ассистента врача](https://habr.com/ru/news/931858/?utm_campaign=931858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
