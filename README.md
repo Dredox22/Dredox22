@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal скоро позволит оплачивать покупки криптовалютой](https://habr.com/ru/news/932178/?utm_campaign=932178&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сообщила об уязвимости в macOS, которая могла привести к утечке метаданных Apple Intelligence](https://habr.com/ru/news/932172/?utm_campaign=932172&utm_source=habrahabr&utm_medium=rss)
+- [В августе 2025 года вступает в силу закон об отказе россиян от спам‑рассылок](https://habr.com/ru/news/932168/?utm_campaign=932168&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: компания по кибербезопасности ГК «Солар» принимает участие в расследовании кибератаки на «Аэрофлот»](https://habr.com/ru/news/932136/?utm_campaign=932136&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на ежегодную конференцию Luxms 2025](https://habr.com/ru/companies/luxms_bi/news/932116/?utm_campaign=932116&utm_source=habrahabr&utm_medium=rss)
-- [«Сайберия Нова» представила новый геймплейный трейлер игры «Земской собор»](https://habr.com/ru/news/932108/?utm_campaign=932108&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала запуск экспериментального режима Copilot Mode в браузере Edge](https://habr.com/ru/news/932076/?utm_campaign=932076&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст преобразовал PNG-файл в звуковой сигнал для птицы и научил скворца запоминать и воспроизводить такой файл](https://habr.com/ru/news/932046/?utm_campaign=932046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
