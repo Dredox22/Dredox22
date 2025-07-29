@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На Standoff Bug Bounty программу по поиску уязвимостей запустила компания «КБ ТехноСкор»](https://habr.com/ru/companies/pt/news/931916/?utm_campaign=931916&utm_source=habrahabr&utm_medium=rss)
-- [Samsung запретила разблокировку загрузчика на смартфонах с One UI 8](https://habr.com/ru/news/931586/?utm_campaign=931586&utm_source=habrahabr&utm_medium=rss)
-- [Sony подала в суд на Tencent за нарушение авторских прав и товарных знаков Horizon](https://habr.com/ru/news/931922/?utm_campaign=931922&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик проекта Kapitano &lpar;UI для движка ClamAV в Linux&rpar; столкнулся с троллингом от пользователя и закрыл проект](https://habr.com/ru/news/931904/?utm_campaign=931904&utm_source=habrahabr&utm_medium=rss)
-- [Вышло приложение Tea для оценки мужчин, спустя несколько дней хакеры слили данные тех, кто ставил отрицательные отзывы](https://habr.com/ru/news/931896/?utm_campaign=931896&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge стал браузером с искусственным интеллектом благодаря запуску Copilot Mode](https://habr.com/ru/companies/bothub/news/931944/?utm_campaign=931944&utm_source=habrahabr&utm_medium=rss)
+- [Медовая ловушка: мошенники предлагают стать модератором OnlyFans и похищают деньги](https://habr.com/ru/companies/F6/news/927842/?utm_campaign=927842&utm_source=habrahabr&utm_medium=rss)
+- [Visa и Mastercard захлестнула волна ярости геймеров из-за цензуры](https://habr.com/ru/news/931964/?utm_campaign=931964&utm_source=habrahabr&utm_medium=rss)
+- [Новинки и перфоманс Java 25, паттерны и составные айдишники | Spring АйО Подкаст №28](https://habr.com/ru/companies/spring_aio/news/931870/?utm_campaign=931870&utm_source=habrahabr&utm_medium=rss)
+- [Дешёвый DeepSeek уже опередили — и снова китайцы](https://habr.com/ru/companies/bothub/news/931936/?utm_campaign=931936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
