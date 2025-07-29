@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Последнее «взаймы»: мошенники предлагают виртуальные кредитные карты без ограничений](https://habr.com/ru/companies/F6/news/928666/?utm_campaign=928666&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft провела исследование: насколько люди хорошо распознают изображения, созданные ИИ](https://habr.com/ru/news/931878/?utm_campaign=931878&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge стал браузером с искусственным интеллектом благодаря запуску Copilot Mode](https://habr.com/ru/companies/bothub/news/931944/?utm_campaign=931944&utm_source=habrahabr&utm_medium=rss)
 - [Медовая ловушка: мошенники предлагают стать модератором OnlyFans и похищают деньги](https://habr.com/ru/companies/F6/news/927842/?utm_campaign=927842&utm_source=habrahabr&utm_medium=rss)
 - [Visa и Mastercard захлестнула волна ярости геймеров из-за цензуры](https://habr.com/ru/news/931964/?utm_campaign=931964&utm_source=habrahabr&utm_medium=rss)
-- [Новинки и перфоманс Java 25, паттерны и составные айдишники | Spring АйО Подкаст №28](https://habr.com/ru/companies/spring_aio/news/931870/?utm_campaign=931870&utm_source=habrahabr&utm_medium=rss)
-- [Дешёвый DeepSeek уже опередили — и снова китайцы](https://habr.com/ru/companies/bothub/news/931936/?utm_campaign=931936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
