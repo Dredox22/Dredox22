@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на ежегодную конференцию Luxms 2025](https://habr.com/ru/companies/luxms_bi/news/932116/?utm_campaign=932116&utm_source=habrahabr&utm_medium=rss)
+- [«Сайберия Нова» представила новый геймплейный трейлер игры «Земской собор»](https://habr.com/ru/news/932108/?utm_campaign=932108&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала запуск экспериментального режима Copilot Mode в браузере Edge](https://habr.com/ru/news/932076/?utm_campaign=932076&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст преобразовал PNG-файл в звуковой сигнал для птицы и научил скворца запоминать и воспроизводить такой файл](https://habr.com/ru/news/932046/?utm_campaign=932046&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT Agent от OpenAI без проблем проходит тест проверки «Я не робот»](https://habr.com/ru/news/932038/?utm_campaign=932038&utm_source=habrahabr&utm_medium=rss)
-- [Harmonic запускает приложение с чат-ботом на основе ИИ](https://habr.com/ru/companies/bothub/news/931976/?utm_campaign=931976&utm_source=habrahabr&utm_medium=rss)
-- [Последнее «взаймы»: мошенники предлагают виртуальные кредитные карты без ограничений](https://habr.com/ru/companies/F6/news/928666/?utm_campaign=928666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
