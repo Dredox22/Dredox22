@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ChatGPT добавили функцию для обучения и «решения домашки»](https://habr.com/ru/news/932218/?utm_campaign=932218&utm_source=habrahabr&utm_medium=rss)
 - [Российские разработчики выпустили аналог ПО Grafana под названием «Графиня»](https://habr.com/ru/news/932202/?utm_campaign=932202&utm_source=habrahabr&utm_medium=rss)
 - [В Москве испытана отечественная антенна 5G со скоростью до 1 Гбит/сек](https://habr.com/ru/news/932200/?utm_campaign=932200&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик ККИ «Черная книга» выпустила хоррор по русским народным сказкам 19 века «Лихо одноглазое»](https://habr.com/ru/news/932192/?utm_campaign=932192&utm_source=habrahabr&utm_medium=rss)
 - [Началась бета Grok Imagine: быстрые картинки и пикантный режим](https://habr.com/ru/news/932188/?utm_campaign=932188&utm_source=habrahabr&utm_medium=rss)
-- [PayPal скоро позволит оплачивать покупки криптовалютой](https://habr.com/ru/news/932178/?utm_campaign=932178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
