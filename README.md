@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: компания по кибербезопасности ГК «Солар» принимает участие в расследовании кибератаки на «Аэрофлот»](https://habr.com/ru/news/932136/?utm_campaign=932136&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на ежегодную конференцию Luxms 2025](https://habr.com/ru/companies/luxms_bi/news/932116/?utm_campaign=932116&utm_source=habrahabr&utm_medium=rss)
 - [«Сайберия Нова» представила новый геймплейный трейлер игры «Земской собор»](https://habr.com/ru/news/932108/?utm_campaign=932108&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала запуск экспериментального режима Copilot Mode в браузере Edge](https://habr.com/ru/news/932076/?utm_campaign=932076&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст преобразовал PNG-файл в звуковой сигнал для птицы и научил скворца запоминать и воспроизводить такой файл](https://habr.com/ru/news/932046/?utm_campaign=932046&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT Agent от OpenAI без проблем проходит тест проверки «Я не робот»](https://habr.com/ru/news/932038/?utm_campaign=932038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
