@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Visiology ускорит разработку BI-платформы, опираясь на средства внешних инвесторов](https://habr.com/ru/companies/visiology/news/932292/?utm_campaign=932292&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Яндекса раскрыли принципы работы нейросети для распознавания голосовых команд на фоне шума](https://habr.com/ru/companies/yandex/news/932124/?utm_campaign=932124&utm_source=habrahabr&utm_medium=rss)
+- [Meta* позволит некоторым кандидатам использовать ИИ во время тестирования по программированию](https://habr.com/ru/news/932276/?utm_campaign=932276&utm_source=habrahabr&utm_medium=rss)
 - [Вышел атомарный Linux-дистрибутив HeliumOS 10 на базе CentOS Stream и AlmaLinux](https://habr.com/ru/news/932268/?utm_campaign=932268&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария MediaInfo 25.07 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/932158/?utm_campaign=932158&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск системной библиотеки GNU C Library 2.42 &lpar;glibc&rpar; и релиз набора утилит GNU Binutils 2.45](https://habr.com/ru/news/932008/?utm_campaign=932008&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft без предупреждения заблокировала аккаунт разработчика LibreOffice, отклонив апелляцию](https://habr.com/ru/news/932244/?utm_campaign=932244&utm_source=habrahabr&utm_medium=rss)
-- [Мессенджер Bitchat от Джека Дорси теперь доступен в App Store и Google Play](https://habr.com/ru/news/932224/?utm_campaign=932224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
