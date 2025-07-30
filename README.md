@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 28 августа сервис Dropbox Passwords будет доступен только для чтения и в приложении, и в браузерном расширении](https://habr.com/ru/news/932568/?utm_campaign=932568&utm_source=habrahabr&utm_medium=rss)
+- [Adobe расширяет ИИ-инструментарий Photoshop](https://habr.com/ru/companies/bothub/news/932524/?utm_campaign=932524&utm_source=habrahabr&utm_medium=rss)
+- [Spotify будет удалять аккаунты британских пользователей, которые не смогут подтвердить свой возраст](https://habr.com/ru/news/932562/?utm_campaign=932562&utm_source=habrahabr&utm_medium=rss)
 - [Skechers представила линейку детских кроссовок с отсеком для Apple AirTag](https://habr.com/ru/news/932556/?utm_campaign=932556&utm_source=habrahabr&utm_medium=rss)
 - [Stack Overflow Developer Survey 2025 — опрос 49 000 разработчиков из 177 стран](https://habr.com/ru/companies/bothub/news/932486/?utm_campaign=932486&utm_source=habrahabr&utm_medium=rss)
-- [Экспертный совет Luxms BI: Excel прямо внутри BI-системы](https://habr.com/ru/companies/luxms_bi/news/932538/?utm_campaign=932538&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики alphaXiv представили «Discord для исследований»](https://habr.com/ru/news/932536/?utm_campaign=932536&utm_source=habrahabr&utm_medium=rss)
-- [В Москве пройдет BOOST 2025 — крупнейшая конференция для руководителей диджитал-агентств и студий](https://habr.com/ru/companies/agima/news/932522/?utm_campaign=932522&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
