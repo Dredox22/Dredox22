@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила SensorLM — семейство моделей машинного обучения для анализа показаний фитнес-трекеров](https://habr.com/ru/news/932596/?utm_campaign=932596&utm_source=habrahabr&utm_medium=rss)
 - [В PyPI предупредили пользователей о фишинговой кампании](https://habr.com/ru/news/932574/?utm_campaign=932574&utm_source=habrahabr&utm_medium=rss)
 - [Как ИИ OpenAI взял «золото» Международной математической олимпиады](https://habr.com/ru/news/932578/?utm_campaign=932578&utm_source=habrahabr&utm_medium=rss)
 - [Google начала бороться с кражей файлов cookie и токенов авторизации корпоративных аккаунтов Workspace](https://habr.com/ru/news/932566/?utm_campaign=932566&utm_source=habrahabr&utm_medium=rss)
 - [С 28 августа сервис Dropbox Passwords будет доступен только для чтения и в приложении, и в браузерном расширении](https://habr.com/ru/news/932568/?utm_campaign=932568&utm_source=habrahabr&utm_medium=rss)
-- [Adobe расширяет ИИ-инструментарий Photoshop](https://habr.com/ru/companies/bothub/news/932524/?utm_campaign=932524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
