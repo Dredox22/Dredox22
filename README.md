@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Stack Overflow Developer Survey 2025 — опрос 49 000 разработчиков из 177 стран](https://habr.com/ru/companies/bothub/news/932486/?utm_campaign=932486&utm_source=habrahabr&utm_medium=rss)
+- [Экспертный совет Luxms BI: Excel прямо внутри BI-системы](https://habr.com/ru/companies/luxms_bi/news/932538/?utm_campaign=932538&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики alphaXiv представили «Discord для исследований»](https://habr.com/ru/news/932536/?utm_campaign=932536&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдет BOOST 2025 — крупнейшая конференция для руководителей диджитал-агентств и студий](https://habr.com/ru/companies/agima/news/932522/?utm_campaign=932522&utm_source=habrahabr&utm_medium=rss)
 - [Результаты ежегодного опроса Stack Overflow Developer Survey](https://habr.com/ru/news/932518/?utm_campaign=932518&utm_source=habrahabr&utm_medium=rss)
-- [SberOS получила поддержку архитектуры RISC‑V](https://habr.com/ru/news/932516/?utm_campaign=932516&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT Agent научился проходить капчу Cloudflare](https://habr.com/ru/companies/bothub/news/932496/?utm_campaign=932496&utm_source=habrahabr&utm_medium=rss)
-- [AllPages.Top — теперь вы можете искать по всем сайтам в интернете, без ограничений](https://habr.com/ru/news/932508/?utm_campaign=932508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
