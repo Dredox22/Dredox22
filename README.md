@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Список альтернатив Speedtest](https://habr.com/ru/news/932478/?utm_campaign=932478&utm_source=habrahabr&utm_medium=rss)
+- [В ТГУ разработали диоды на оксиде галлия для силовой электроники и радиационно стойких сенсоров](https://habr.com/ru/news/932476/?utm_campaign=932476&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup.PERM 2025 — конференция по PostgreSQL в Перми: разбор ML, расширяемость СУБД и кластер для HA](https://habr.com/ru/companies/postgrespro/news/932448/?utm_campaign=932448&utm_source=habrahabr&utm_medium=rss)
+- [В бета-версии Adobe Photoshop заработала ИИ-функция Harmonize для адаптации добавленных на фото объектов под фон](https://habr.com/ru/news/932446/?utm_campaign=932446&utm_source=habrahabr&utm_medium=rss)
 - [Создавайте целые истории с одним героем: Ideogram запустила Character](https://habr.com/ru/companies/bothub/news/932444/?utm_campaign=932444&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-система UVeye для оценки повреждений авто находит намного больше дефектов, чем человек, и придумывает несуществующие](https://habr.com/ru/news/932436/?utm_campaign=932436&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «DevSecOps за 10 дней: безопасность, которая не мешает разработке»](https://habr.com/ru/companies/ussc/news/932420/?utm_campaign=932420&utm_source=habrahabr&utm_medium=rss)
-- [ОТП Банк — двукратный лауреат премии Loyalty &amp;amp; CX Awards Russia 2025](https://habr.com/ru/companies/otpbank/news/932408/?utm_campaign=932408&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram появится платный поиск по публикациям](https://habr.com/ru/news/932406/?utm_campaign=932406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
