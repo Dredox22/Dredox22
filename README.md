@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* взяла на работу инженеров по ядру Linux, которых уволили в Intel](https://habr.com/ru/news/932354/?utm_campaign=932354&utm_source=habrahabr&utm_medium=rss)
+- [Astroscale получил патент на систему удаления космического мусора](https://habr.com/ru/companies/onlinepatent/news/932350/?utm_campaign=932350&utm_source=habrahabr&utm_medium=rss)
+- [«Аэрофлот»: авиакомпания полностью стабилизировала расписание полётов](https://habr.com/ru/news/932320/?utm_campaign=932320&utm_source=habrahabr&utm_medium=rss)
+- [Opera подала жалобу на уловки Microsoft, подталкивающие к использованию Edge](https://habr.com/ru/news/932318/?utm_campaign=932318&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Cjam 2.1.1.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/932316/?utm_campaign=932316&utm_source=habrahabr&utm_medium=rss)
-- [Больше, чем Lakehouse. Как мы создали новую платформу данных](https://habr.com/ru/companies/mws/news/932016/?utm_campaign=932016&utm_source=habrahabr&utm_medium=rss)
-- [«Ведомости»: количество заявок на подключение домашнего интернета в РФ растёт на фоне отключения мобильного](https://habr.com/ru/news/932304/?utm_campaign=932304&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp запустил бета-версию опции, которая позволяет пользователям устанавливать напоминания о пропущенных звонках](https://habr.com/ru/news/932302/?utm_campaign=932302&utm_source=habrahabr&utm_medium=rss)
-- [Visiology ускорит разработку BI-платформы, опираясь на средства внешних инвесторов](https://habr.com/ru/companies/visiology/news/932292/?utm_campaign=932292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
