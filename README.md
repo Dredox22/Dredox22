@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры РФ опровергло обязательное использование Max для электронной подписи](https://habr.com/ru/news/932488/?utm_campaign=932488&utm_source=habrahabr&utm_medium=rss)
 - [Список альтернатив Speedtest](https://habr.com/ru/news/932478/?utm_campaign=932478&utm_source=habrahabr&utm_medium=rss)
 - [В ТГУ разработали диоды на оксиде галлия для силовой электроники и радиационно стойких сенсоров](https://habr.com/ru/news/932476/?utm_campaign=932476&utm_source=habrahabr&utm_medium=rss)
 - [PGMeetup.PERM 2025 — конференция по PostgreSQL в Перми: разбор ML, расширяемость СУБД и кластер для HA](https://habr.com/ru/companies/postgrespro/news/932448/?utm_campaign=932448&utm_source=habrahabr&utm_medium=rss)
 - [В бета-версии Adobe Photoshop заработала ИИ-функция Harmonize для адаптации добавленных на фото объектов под фон](https://habr.com/ru/news/932446/?utm_campaign=932446&utm_source=habrahabr&utm_medium=rss)
-- [Создавайте целые истории с одним героем: Ideogram запустила Character](https://habr.com/ru/companies/bothub/news/932444/?utm_campaign=932444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
