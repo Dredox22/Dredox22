@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого инструментария MediaInfo 25.07 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/932158/?utm_campaign=932158&utm_source=habrahabr&utm_medium=rss)
+- [Выпуст системной библиотеки GNU C Library 2.42 &lpar;glibc&rpar; и релиз набора утилит GNU Binutils 2.45](https://habr.com/ru/news/932008/?utm_campaign=932008&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft без предупреждения заблокировала аккаунт разработчика LibreOffice, отклонив апелляцию](https://habr.com/ru/news/932244/?utm_campaign=932244&utm_source=habrahabr&utm_medium=rss)
 - [Мессенджер Bitchat от Джека Дорси теперь доступен в App Store и Google Play](https://habr.com/ru/news/932224/?utm_campaign=932224&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT добавили функцию для обучения и «решения домашки»](https://habr.com/ru/news/932218/?utm_campaign=932218&utm_source=habrahabr&utm_medium=rss)
-- [Российские разработчики выпустили аналог ПО Grafana под названием «Графиня»](https://habr.com/ru/news/932202/?utm_campaign=932202&utm_source=habrahabr&utm_medium=rss)
-- [В Москве испытана отечественная антенна 5G со скоростью до 1 Гбит/сек](https://habr.com/ru/news/932200/?utm_campaign=932200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
