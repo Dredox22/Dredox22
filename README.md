@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google добавила ИИ-видеопересказы в NotebookLM](https://habr.com/ru/news/932380/?utm_campaign=932380&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор заблокировал в РФ сервис Speedtest из-за угрозы безопасности российского сегмента сети Интернет](https://habr.com/ru/news/932360/?utm_campaign=932360&utm_source=habrahabr&utm_medium=rss)
-- [Meta* взяла на работу инженеров по ядру Linux, которых уволили в Intel](https://habr.com/ru/news/932354/?utm_campaign=932354&utm_source=habrahabr&utm_medium=rss)
-- [Astroscale получил патент на систему удаления космического мусора](https://habr.com/ru/companies/onlinepatent/news/932350/?utm_campaign=932350&utm_source=habrahabr&utm_medium=rss)
-- [«Аэрофлот»: авиакомпания полностью стабилизировала расписание полётов](https://habr.com/ru/news/932320/?utm_campaign=932320&utm_source=habrahabr&utm_medium=rss)
+- [Создавайте целые истории с одним героем: Ideogram запустила Character](https://habr.com/ru/companies/bothub/news/932444/?utm_campaign=932444&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-система UVeye для оценки повреждений авто находит намного больше дефектов, чем человек, и придумывает несуществующие](https://habr.com/ru/news/932436/?utm_campaign=932436&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «DevSecOps за 10 дней: безопасность, которая не мешает разработке»](https://habr.com/ru/companies/ussc/news/932420/?utm_campaign=932420&utm_source=habrahabr&utm_medium=rss)
+- [ОТП Банк — двукратный лауреат премии Loyalty &amp;amp; CX Awards Russia 2025](https://habr.com/ru/companies/otpbank/news/932408/?utm_campaign=932408&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram появится платный поиск по публикациям](https://habr.com/ru/news/932406/?utm_campaign=932406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
