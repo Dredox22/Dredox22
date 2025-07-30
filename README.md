@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Cjam 2.1.1.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/932316/?utm_campaign=932316&utm_source=habrahabr&utm_medium=rss)
+- [Больше, чем Lakehouse. Как мы создали новую платформу данных](https://habr.com/ru/companies/mws/news/932016/?utm_campaign=932016&utm_source=habrahabr&utm_medium=rss)
+- [«Ведомости»: количество заявок на подключение домашнего интернета в РФ растёт на фоне отключения мобильного](https://habr.com/ru/news/932304/?utm_campaign=932304&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp запустил бета-версию опции, которая позволяет пользователям устанавливать напоминания о пропущенных звонках](https://habr.com/ru/news/932302/?utm_campaign=932302&utm_source=habrahabr&utm_medium=rss)
 - [Visiology ускорит разработку BI-платформы, опираясь на средства внешних инвесторов](https://habr.com/ru/companies/visiology/news/932292/?utm_campaign=932292&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи Яндекса раскрыли принципы работы нейросети для распознавания голосовых команд на фоне шума](https://habr.com/ru/companies/yandex/news/932124/?utm_campaign=932124&utm_source=habrahabr&utm_medium=rss)
-- [Meta* позволит некоторым кандидатам использовать ИИ во время тестирования по программированию](https://habr.com/ru/news/932276/?utm_campaign=932276&utm_source=habrahabr&utm_medium=rss)
-- [Вышел атомарный Linux-дистрибутив HeliumOS 10 на базе CentOS Stream и AlmaLinux](https://habr.com/ru/news/932268/?utm_campaign=932268&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария MediaInfo 25.07 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/932158/?utm_campaign=932158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
