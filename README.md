@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Минцифры РФ опровергло обязательное использование Max для электронной подписи](https://habr.com/ru/news/932488/?utm_campaign=932488&utm_source=habrahabr&utm_medium=rss)
-- [Список альтернатив Speedtest](https://habr.com/ru/news/932478/?utm_campaign=932478&utm_source=habrahabr&utm_medium=rss)
-- [В ТГУ разработали диоды на оксиде галлия для силовой электроники и радиационно стойких сенсоров](https://habr.com/ru/news/932476/?utm_campaign=932476&utm_source=habrahabr&utm_medium=rss)
-- [PGMeetup.PERM 2025 — конференция по PostgreSQL в Перми: разбор ML, расширяемость СУБД и кластер для HA](https://habr.com/ru/companies/postgrespro/news/932448/?utm_campaign=932448&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии Adobe Photoshop заработала ИИ-функция Harmonize для адаптации добавленных на фото объектов под фон](https://habr.com/ru/news/932446/?utm_campaign=932446&utm_source=habrahabr&utm_medium=rss)
+- [В Москве пройдет BOOST 2025 — крупнейшая конференция для руководителей диджитал-агентств и студий](https://habr.com/ru/companies/agima/news/932522/?utm_campaign=932522&utm_source=habrahabr&utm_medium=rss)
+- [Результаты ежегодного опроса Stack Overflow Developer Survey](https://habr.com/ru/news/932518/?utm_campaign=932518&utm_source=habrahabr&utm_medium=rss)
+- [SberOS получила поддержку архитектуры RISC‑V](https://habr.com/ru/news/932516/?utm_campaign=932516&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT Agent научился проходить капчу Cloudflare](https://habr.com/ru/companies/bothub/news/932496/?utm_campaign=932496&utm_source=habrahabr&utm_medium=rss)
+- [AllPages.Top — теперь вы можете искать по всем сайтам в интернете, без ограничений](https://habr.com/ru/news/932508/?utm_campaign=932508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
