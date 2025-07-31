@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Число пользователей GitHub Copilot превысило 20 миллионов](https://habr.com/ru/companies/bothub/news/932668/?utm_campaign=932668&utm_source=habrahabr&utm_medium=rss)
-- [Cisco передала свой проект AGNTCY в дар Linux Foundation](https://habr.com/ru/news/932692/?utm_campaign=932692&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры внедрили 4G Raspberry Pi в банковскую сеть для снятия наличных](https://habr.com/ru/news/932682/?utm_campaign=932682&utm_source=habrahabr&utm_medium=rss)
-- [Татарстан интегрирует российский инженерный софт в систему образования](https://habr.com/ru/companies/nanosoft/news/932678/?utm_campaign=932678&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Ollama: поддержка мультимодальности и возможность загружать файлы](https://habr.com/ru/news/932634/?utm_campaign=932634&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс победил шум](https://habr.com/ru/companies/bar/news/932750/?utm_campaign=932750&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Copilot тестирует «умный» режим с возможным внедрением GPT-5](https://habr.com/ru/news/932730/?utm_campaign=932730&utm_source=habrahabr&utm_medium=rss)
+- [Облачный челлендж Выше облаков от MWS: результаты турнира](https://habr.com/ru/companies/mws/news/932732/?utm_campaign=932732&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch ARMA Стена &lpar;NGFW&rpar; получил сертификат соответствия ФСТЭК России по четвертому уровню доверия](https://habr.com/ru/companies/infowatch/news/932736/?utm_campaign=932736&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи заметили, что Google индексирует чаты в ChatGPT, которыми поделились с помощью ссылки](https://habr.com/ru/news/932722/?utm_campaign=932722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
