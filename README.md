@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify намекает на то, что в будущем голосовой ИИ станет более «разговорчивым»](https://habr.com/ru/companies/bothub/news/932712/?utm_campaign=932712&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость ChatGPT: Публичные ссылки на чаты становятся угрозой безопасности](https://habr.com/ru/news/932772/?utm_campaign=932772&utm_source=habrahabr&utm_medium=rss)
+- [DeepMind показала модель для создания цифрового двойника Земли](https://habr.com/ru/companies/bothub/news/932724/?utm_campaign=932724&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс победил шум](https://habr.com/ru/companies/bar/news/932750/?utm_campaign=932750&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Copilot тестирует «умный» режим с возможным внедрением GPT-5](https://habr.com/ru/news/932730/?utm_campaign=932730&utm_source=habrahabr&utm_medium=rss)
-- [Облачный челлендж Выше облаков от MWS: результаты турнира](https://habr.com/ru/companies/mws/news/932732/?utm_campaign=932732&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch ARMA Стена &lpar;NGFW&rpar; получил сертификат соответствия ФСТЭК России по четвертому уровню доверия](https://habr.com/ru/companies/infowatch/news/932736/?utm_campaign=932736&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи заметили, что Google индексирует чаты в ChatGPT, которыми поделились с помощью ссылки](https://habr.com/ru/news/932722/?utm_campaign=932722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
