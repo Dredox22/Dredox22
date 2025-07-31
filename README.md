@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи представили Bang — нейросеть для декомпозиции 3D-моделей](https://habr.com/ru/news/932996/?utm_campaign=932996&utm_source=habrahabr&utm_medium=rss)
 - [В России разработали сверхлёгкую ракету с криогенными баками нового типа](https://habr.com/ru/news/932980/?utm_campaign=932980&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор направил операторам связи РФ письма о необходимости удаления ПО Speedtest Ookla из своей IT-инфраструктуры](https://habr.com/ru/news/932976/?utm_campaign=932976&utm_source=habrahabr&utm_medium=rss)
 - [Proton выпустила бесплатное приложение-аутентификатор с открытым исходным кодом](https://habr.com/ru/news/932972/?utm_campaign=932972&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft улучшила работу Центра уведомлений в конфигурациях с несколькими мониторами](https://habr.com/ru/news/932960/?utm_campaign=932960&utm_source=habrahabr&utm_medium=rss)
-- [Брайан Кребс: мошенники наводнили Discord и другие социальные сети рекламой сотен сайтов онлайн-игр и ставок](https://habr.com/ru/news/932950/?utm_campaign=932950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
