@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Ollama: поддержка мультимодальности и возможность загружать файлы](https://habr.com/ru/news/932634/?utm_campaign=932634&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре пояснили причины блокировки в РФ сервиса Speedtest](https://habr.com/ru/news/932622/?utm_campaign=932622&utm_source=habrahabr&utm_medium=rss)
 - [Вышел WinRAR 7.13 и RAR 7.13](https://habr.com/ru/news/932564/?utm_campaign=932564&utm_source=habrahabr&utm_medium=rss)
 - [В Китае выпустили ИИ‑трактор Honghu T70, который сам двигается по полям и выполняет фермерские задачи](https://habr.com/ru/news/932558/?utm_campaign=932558&utm_source=habrahabr&utm_medium=rss)
 - [Google представила SensorLM — семейство моделей машинного обучения для анализа показаний фитнес-трекеров](https://habr.com/ru/news/932596/?utm_campaign=932596&utm_source=habrahabr&utm_medium=rss)
-- [В PyPI предупредили пользователей о фишинговой кампании](https://habr.com/ru/news/932574/?utm_campaign=932574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
