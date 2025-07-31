@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Selectel запустил ML Impact — ресурс о том, как использовать ML для бизнеса](https://habr.com/ru/companies/selectel/news/932846/?utm_campaign=932846&utm_source=habrahabr&utm_medium=rss)
+- [Марк Цукерберг опубликовал открытое письмо: нас ждет «персональный сверхинтеллект»](https://habr.com/ru/companies/bothub/news/932698/?utm_campaign=932698&utm_source=habrahabr&utm_medium=rss)
 - [«Мне надо искать нормальную работу»: исследователь нашёл критическую ошибку в Safari, за это ему заплатили $1000](https://habr.com/ru/news/932800/?utm_campaign=932800&utm_source=habrahabr&utm_medium=rss)
 - [Бывший руководитель «ВКонтакте» и Mail.ru Group стал главой управляющей компании студии «Леста»](https://habr.com/ru/news/932788/?utm_campaign=932788&utm_source=habrahabr&utm_medium=rss)
 - [Spotify намекает на то, что в будущем голосовой ИИ станет более «разговорчивым»](https://habr.com/ru/companies/bothub/news/932712/?utm_campaign=932712&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость ChatGPT: Публичные ссылки на чаты становятся угрозой безопасности](https://habr.com/ru/news/932772/?utm_campaign=932772&utm_source=habrahabr&utm_medium=rss)
-- [DeepMind показала модель для создания цифрового двойника Земли](https://habr.com/ru/companies/bothub/news/932724/?utm_campaign=932724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
