@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор не выявил утечек персональных данных после инцидента с IT-сервисами «Аэрофлота»](https://habr.com/ru/news/932910/?utm_campaign=932910&utm_source=habrahabr&utm_medium=rss)
+- [«Единое окно» для всего ИТ-ландшафта: K2Тех открывает Центр экспертизы по комплексному сервису 300+ вендоров](https://habr.com/ru/companies/k2tech/news/932906/?utm_campaign=932906&utm_source=habrahabr&utm_medium=rss)
+- [В рамках научной программы НЦФМ создана технология управления роботизированными системами силой мысли](https://habr.com/ru/companies/greenatom/news/932902/?utm_campaign=932902&utm_source=habrahabr&utm_medium=rss)
+- [Инструмент для обхода проверки требований Windows 11 получил новое название и функцию OOBE](https://habr.com/ru/news/932898/?utm_campaign=932898&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал закон о штрафах за поиск в сети экстремистских материалов и доступ к ним](https://habr.com/ru/news/932892/?utm_campaign=932892&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запустил ML Impact — ресурс о том, как использовать ML для бизнеса](https://habr.com/ru/companies/selectel/news/932846/?utm_campaign=932846&utm_source=habrahabr&utm_medium=rss)
-- [Марк Цукерберг опубликовал открытое письмо: нас ждет «персональный сверхинтеллект»](https://habr.com/ru/companies/bothub/news/932698/?utm_campaign=932698&utm_source=habrahabr&utm_medium=rss)
-- [«Мне надо искать нормальную работу»: исследователь нашёл критическую ошибку в Safari, за это ему заплатили $1000](https://habr.com/ru/news/932800/?utm_campaign=932800&utm_source=habrahabr&utm_medium=rss)
-- [Бывший руководитель «ВКонтакте» и Mail.ru Group стал главой управляющей компании студии «Леста»](https://habr.com/ru/news/932788/?utm_campaign=932788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
