@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera ударилась в персонализацию браузера и выпустила три темы для разных задач](https://habr.com/ru/news/933014/?utm_campaign=933014&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: поиск публичных постов, рейтинг профиля и коллекции подарков](https://habr.com/ru/news/933008/?utm_campaign=933008&utm_source=habrahabr&utm_medium=rss)
 - [Создатель Claude AI назвал AGI и «сверхинтеллект» маркетинговыми клише](https://habr.com/ru/news/933006/?utm_campaign=933006&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили Bang — нейросеть для декомпозиции 3D-моделей](https://habr.com/ru/news/932996/?utm_campaign=932996&utm_source=habrahabr&utm_medium=rss)
 - [В России разработали сверхлёгкую ракету с криогенными баками нового типа](https://habr.com/ru/news/932980/?utm_campaign=932980&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор направил операторам связи РФ письма о необходимости удаления ПО Speedtest Ookla из своей IT-инфраструктуры](https://habr.com/ru/news/932976/?utm_campaign=932976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
