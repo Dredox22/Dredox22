@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft улучшила работу Центра уведомлений в конфигурациях с несколькими мониторами](https://habr.com/ru/news/932960/?utm_campaign=932960&utm_source=habrahabr&utm_medium=rss)
+- [Брайан Кребс: мошенники наводнили Discord и другие социальные сети рекламой сотен сайтов онлайн-игр и ставок](https://habr.com/ru/news/932950/?utm_campaign=932950&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку инструментов миграции общедоступных папок в Exchange Online из старых версий Exchange](https://habr.com/ru/news/932926/?utm_campaign=932926&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор не выявил утечек персональных данных после инцидента с IT-сервисами «Аэрофлота»](https://habr.com/ru/news/932910/?utm_campaign=932910&utm_source=habrahabr&utm_medium=rss)
 - [«Единое окно» для всего ИТ-ландшафта: K2Тех открывает Центр экспертизы по комплексному сервису 300+ вендоров](https://habr.com/ru/companies/k2tech/news/932906/?utm_campaign=932906&utm_source=habrahabr&utm_medium=rss)
-- [В рамках научной программы НЦФМ создана технология управления роботизированными системами силой мысли](https://habr.com/ru/companies/greenatom/news/932902/?utm_campaign=932902&utm_source=habrahabr&utm_medium=rss)
-- [Инструмент для обхода проверки требований Windows 11 получил новое название и функцию OOBE](https://habr.com/ru/news/932898/?utm_campaign=932898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
