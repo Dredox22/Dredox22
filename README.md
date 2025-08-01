@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft стала второй компанией в истории с капитализацией $4 триллиона](https://habr.com/ru/companies/bothub/news/933282/?utm_campaign=933282&utm_source=habrahabr&utm_medium=rss)
+- [Apple отключила Xcode Cloud для аккаунтов разработчиков из России и Беларуси](https://habr.com/ru/news/933316/?utm_campaign=933316&utm_source=habrahabr&utm_medium=rss)
+- [Horizon Alpha: загадочная модель, которую уже считают «младшим GPT-5»](https://habr.com/ru/companies/bothub/news/933268/?utm_campaign=933268&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft расширила программу вознаграждений за обнаружение ошибок в .NET](https://habr.com/ru/news/933276/?utm_campaign=933276&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity запускает Comet Shortcuts для автоматизации веб-процессов](https://habr.com/ru/companies/bothub/news/933258/?utm_campaign=933258&utm_source=habrahabr&utm_medium=rss)
-- [Администраторы Teams будут видеть телеметрию при демонстрации экрана](https://habr.com/ru/news/933270/?utm_campaign=933270&utm_source=habrahabr&utm_medium=rss)
-- [Дочка «Ростеха» разработала опытный образец российского телетрапа для самолётов](https://habr.com/ru/news/933272/?utm_campaign=933272&utm_source=habrahabr&utm_medium=rss)
-- [Google LangExtract: новая библиотека для извлечения структурированных данных из текста с помощью LLM](https://habr.com/ru/companies/bothub/news/933224/?utm_campaign=933224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
