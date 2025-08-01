@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google LangExtract: новая библиотека для извлечения структурированных данных из текста с помощью LLM](https://habr.com/ru/companies/bothub/news/933224/?utm_campaign=933224&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «„Леста Игры“ задумалась о возобновлении переговоров с 1C Game Studios о выкупе игры „Война миров: Сибирь“»](https://habr.com/ru/news/933252/?utm_campaign=933252&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games выиграла судебное дело против Google, связанное с магазином приложений Google Play Store](https://habr.com/ru/news/933234/?utm_campaign=933234&utm_source=habrahabr&utm_medium=rss)
 - [Появилась новая опенсорсная модель FLUX.1-Krea-dev](https://habr.com/ru/companies/bothub/news/933218/?utm_campaign=933218&utm_source=habrahabr&utm_medium=rss)
 - [Самый татуированный британец не может пройти проверку возраста — камеры не распознают его](https://habr.com/ru/news/933212/?utm_campaign=933212&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind представила Gemini 2.5 Deep Think — новую мультиагентную модель ИИ](https://habr.com/ru/companies/bothub/news/933210/?utm_campaign=933210&utm_source=habrahabr&utm_medium=rss)
-- [Лучше GPT o3 и Grok 4. Google выпустила Gemini 2.5 Deep Think](https://habr.com/ru/news/933204/?utm_campaign=933204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
