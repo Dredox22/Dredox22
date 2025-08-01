@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск открытого проекта RustDesk 1.4.1](https://habr.com/ru/news/933002/?utm_campaign=933002&utm_source=habrahabr&utm_medium=rss)
+- [Производитель смартфонов Vivo открыл исходный код проекта ядра BlueOS &lpar;Blue River OS&rpar; на языке Rust](https://habr.com/ru/news/932754/?utm_campaign=932754&utm_source=habrahabr&utm_medium=rss)
 - [Opera ударилась в персонализацию браузера и выпустила три темы для разных задач](https://habr.com/ru/news/933014/?utm_campaign=933014&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: поиск публичных постов, рейтинг профиля и коллекции подарков](https://habr.com/ru/news/933008/?utm_campaign=933008&utm_source=habrahabr&utm_medium=rss)
 - [Создатель Claude AI назвал AGI и «сверхинтеллект» маркетинговыми клише](https://habr.com/ru/news/933006/?utm_campaign=933006&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили Bang — нейросеть для декомпозиции 3D-моделей](https://habr.com/ru/news/932996/?utm_campaign=932996&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор направил операторам связи РФ письма о необходимости удаления ПО Speedtest Ookla из своей IT-инфраструктуры](https://habr.com/ru/news/932976/?utm_campaign=932976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
