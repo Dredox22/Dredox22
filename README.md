@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI запустит ЦОД на базе ИИ в Норвегии — свой первый в Европе](https://habr.com/ru/news/933150/?utm_campaign=933150&utm_source=habrahabr&utm_medium=rss)
+- [GPU в облаке: как выжать максимум без лишних затрат? Расскажем на вебинаре 5 августа](https://habr.com/ru/companies/mclouds/news/933144/?utm_campaign=933144&utm_source=habrahabr&utm_medium=rss)
+- [Представлен дистрибутив KDE Linux Testing Edition от команды проекта KDE](https://habr.com/ru/news/933140/?utm_campaign=933140&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI отключила возможность индексации чатов с ChatGPT в Google](https://habr.com/ru/news/933098/?utm_campaign=933098&utm_source=habrahabr&utm_medium=rss)
 - [Трамп хочет брать налог с владельцев патентов, Huawei «охлаждает» смартфон: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/932840/?utm_campaign=932840&utm_source=habrahabr&utm_medium=rss)
-- [На «ИННОПРОМ» продемонстрированы nanoCAD Механика PRO и другие востребованные САПР-решения компании «Нанософт»](https://habr.com/ru/companies/nanosoft/news/932794/?utm_campaign=932794&utm_source=habrahabr&utm_medium=rss)
-- [«Байкал Электроникс» до конца 2025 года намерена поставить в РФ несколько десятков тысяч процессоров Baikal-L и Baikal-M](https://habr.com/ru/news/933056/?utm_campaign=933056&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla China объявила о прекращении предоставления сервисов для Firefox в Китае](https://habr.com/ru/news/933050/?utm_campaign=933050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
