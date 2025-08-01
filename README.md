@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Трамп хочет брать налог с владельцев патентов, Huawei «охлаждает» смартфон: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/932840/?utm_campaign=932840&utm_source=habrahabr&utm_medium=rss)
+- [На «ИННОПРОМ» продемонстрированы nanoCAD Механика PRO и другие востребованные САПР-решения компании «Нанософт»](https://habr.com/ru/companies/nanosoft/news/932794/?utm_campaign=932794&utm_source=habrahabr&utm_medium=rss)
 - [«Байкал Электроникс» до конца 2025 года намерена поставить в РФ несколько десятков тысяч процессоров Baikal-L и Baikal-M](https://habr.com/ru/news/933056/?utm_campaign=933056&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla China объявила о прекращении предоставления сервисов для Firefox в Китае](https://habr.com/ru/news/933050/?utm_campaign=933050&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта RustDesk 1.4.1](https://habr.com/ru/news/933002/?utm_campaign=933002&utm_source=habrahabr&utm_medium=rss)
-- [Производитель смартфонов Vivo открыл исходный код проекта ядра BlueOS &lpar;Blue River OS&rpar; на языке Rust](https://habr.com/ru/news/932754/?utm_campaign=932754&utm_source=habrahabr&utm_medium=rss)
-- [Opera ударилась в персонализацию браузера и выпустила три темы для разных задач](https://habr.com/ru/news/933014/?utm_campaign=933014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
