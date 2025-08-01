@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GlowByte запустила сайт Академии «ГлоуБайт» для корпоративного обучения](https://habr.com/ru/companies/glowbyte/news/932920/?utm_campaign=932920&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустит ЦОД на базе ИИ в Норвегии — свой первый в Европе](https://habr.com/ru/news/933150/?utm_campaign=933150&utm_source=habrahabr&utm_medium=rss)
-- [GPU в облаке: как выжать максимум без лишних затрат? Расскажем на вебинаре 5 августа](https://habr.com/ru/companies/mclouds/news/933144/?utm_campaign=933144&utm_source=habrahabr&utm_medium=rss)
-- [Представлен дистрибутив KDE Linux Testing Edition от команды проекта KDE](https://habr.com/ru/news/933140/?utm_campaign=933140&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI отключила возможность индексации чатов с ChatGPT в Google](https://habr.com/ru/news/933098/?utm_campaign=933098&utm_source=habrahabr&utm_medium=rss)
+- [Самый татуированный британец не может пройти проверку возраста — камеры не распознают его](https://habr.com/ru/news/933212/?utm_campaign=933212&utm_source=habrahabr&utm_medium=rss)
+- [Google DeepMind представила Gemini 2.5 Deep Think — новую мультиагентную модель ИИ](https://habr.com/ru/companies/bothub/news/933210/?utm_campaign=933210&utm_source=habrahabr&utm_medium=rss)
+- [Лучше GPT o3 и Grok 4. Google выпустила Gemini 2.5 Deep Think](https://habr.com/ru/news/933204/?utm_campaign=933204&utm_source=habrahabr&utm_medium=rss)
+- [Приходите на вебинар: «Как защитить и восстановить инфраструктуру при атаках и сбоях»](https://habr.com/ru/companies/vktech/news/933200/?utm_campaign=933200&utm_source=habrahabr&utm_medium=rss)
+- [Reddit хочет стать поисковой системой](https://habr.com/ru/news/933188/?utm_campaign=933188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
