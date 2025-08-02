@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские школьники получили золотые и серебряные медали на 37-й Международной олимпиаде по информатике IOI 2025](https://habr.com/ru/news/933458/?utm_campaign=933458&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники OpenAI использовали ИИ Claude для программирования. В Anthropic уже закрыли доступ](https://habr.com/ru/news/933414/?utm_campaign=933414&utm_source=habrahabr&utm_medium=rss)
 - [Google решила сохранить активно используемые ссылки в Goo.gl](https://habr.com/ru/news/933376/?utm_campaign=933376&utm_source=habrahabr&utm_medium=rss)
 - [Вышел экспериментальный выпуск открытого проекта Wayback 0.2](https://habr.com/ru/news/933310/?utm_campaign=933310&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск 4MLinux 49.0](https://habr.com/ru/news/933130/?utm_campaign=933130&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект PikaTorrent 0.14.0](https://habr.com/ru/news/933334/?utm_campaign=933334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
