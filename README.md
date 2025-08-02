@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел экспериментальный выпуск открытого проекта Wayback 0.2](https://habr.com/ru/news/933310/?utm_campaign=933310&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск 4MLinux 49.0](https://habr.com/ru/news/933130/?utm_campaign=933130&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект PikaTorrent 0.14.0](https://habr.com/ru/news/933334/?utm_campaign=933334&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Paint.NET 5.1.9](https://habr.com/ru/news/933124/?utm_campaign=933124&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 получит модуль для борьбы с «галлюцинациями» — The Information](https://habr.com/ru/news/933356/?utm_campaign=933356&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft стала второй компанией в истории с капитализацией $4 триллиона](https://habr.com/ru/companies/bothub/news/933282/?utm_campaign=933282&utm_source=habrahabr&utm_medium=rss)
-- [Horizon Alpha: загадочная модель, которую уже считают «младшим GPT-5»](https://habr.com/ru/companies/bothub/news/933268/?utm_campaign=933268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
