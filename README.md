@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава OpenAI пообещал «множество запусков» в следующие два месяца](https://habr.com/ru/news/933668/?utm_campaign=933668&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выявила кибератаку с использованием ВПО под видом антивируса «Лаборатории Касперского»](https://habr.com/ru/news/933556/?utm_campaign=933556&utm_source=habrahabr&utm_medium=rss)
 - [Kali Linux теперь может работать в контейнерах Apple в системах macOS](https://habr.com/ru/news/933366/?utm_campaign=933366&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft будет блокировать в Excel внешние ссылки на небезопасные файлы](https://habr.com/ru/news/933364/?utm_campaign=933364&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Государственные органы предлагают восстановление доступа к Госуслугам через Max и биометрию»](https://habr.com/ru/news/933538/?utm_campaign=933538&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Mass Image Compressor 4.1.0 для Windows для сжимания, изменения размера и конвертации больших наборов изображений](https://habr.com/ru/news/933438/?utm_campaign=933438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
