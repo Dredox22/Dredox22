@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» и «Солар» запустили единый инструмент для цифровой защиты клиентов](https://habr.com/ru/news/933880/?utm_campaign=933880&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla предупредила разработчиков расширений для Firefox о фишинговой кампании на их учётные записи](https://habr.com/ru/news/933872/?utm_campaign=933872&utm_source=habrahabr&utm_medium=rss)
 - [Запустил ClickHouse на sqlize.online! Теперь можно практиковаться без установки](https://habr.com/ru/news/933850/?utm_campaign=933850&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Tantor 6.0: переработанный пользовательский интерфейс и интеграция с RuBackup](https://habr.com/ru/companies/tantor/news/933848/?utm_campaign=933848&utm_source=habrahabr&utm_medium=rss)
 - [Кейс BI в стройке](https://habr.com/ru/companies/luxms_bi/news/933828/?utm_campaign=933828&utm_source=habrahabr&utm_medium=rss)
-- [За деньги «да»: Telegram-каналы распространяют фейки о выплатах молодым семьям и погашении ипотеки](https://habr.com/ru/companies/F6/news/933784/?utm_campaign=933784&utm_source=habrahabr&utm_medium=rss)
-- [Защита сети на базе NGFW: новая автоматизированная ИБ-услуга](https://habr.com/ru/companies/rt-dc/news/933748/?utm_campaign=933748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
