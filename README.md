@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик запустил свой код на сервере, имея лишь возможность изменения содержимого комментария в Python-скрипте](https://habr.com/ru/news/933722/?utm_campaign=933722&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку специальной версии Windows 11 SE для бюджетных ПК](https://habr.com/ru/news/933714/?utm_campaign=933714&utm_source=habrahabr&utm_medium=rss)
 - [На itch.io возвращаются игры для взрослых](https://habr.com/ru/news/933708/?utm_campaign=933708&utm_source=habrahabr&utm_medium=rss)
 - [Представлены победители IOCCC 2025 &lpar;международного конкурса обфускации кода на языке C&rpar;](https://habr.com/ru/news/933706/?utm_campaign=933706&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании Rovalant для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/933092/?utm_campaign=933092&utm_source=habrahabr&utm_medium=rss)
-- [Вышел 7-Zip 25.01](https://habr.com/ru/news/933662/?utm_campaign=933662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
