@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Защита сети на базе NGFW: новая автоматизированная ИБ-услуга](https://habr.com/ru/companies/rt-dc/news/933748/?utm_campaign=933748&utm_source=habrahabr&utm_medium=rss)
+- [Теперь Live в Instagram** доступен только при наличии минимум 1 000 подписчиков](https://habr.com/ru/news/933684/?utm_campaign=933684&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил свой код на сервере, имея лишь возможность изменения содержимого комментария в Python-скрипте](https://habr.com/ru/news/933722/?utm_campaign=933722&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку специальной версии Windows 11 SE для бюджетных ПК](https://habr.com/ru/news/933714/?utm_campaign=933714&utm_source=habrahabr&utm_medium=rss)
 - [На itch.io возвращаются игры для взрослых](https://habr.com/ru/news/933708/?utm_campaign=933708&utm_source=habrahabr&utm_medium=rss)
-- [Представлены победители IOCCC 2025 &lpar;международного конкурса обфускации кода на языке C&rpar;](https://habr.com/ru/news/933706/?utm_campaign=933706&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования компании Rovalant для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/933092/?utm_campaign=933092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
