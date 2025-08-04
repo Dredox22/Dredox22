@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел 7-Zip 25.01](https://habr.com/ru/news/933662/?utm_campaign=933662&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Pinta 3.0.3](https://habr.com/ru/news/933660/?utm_campaign=933660&utm_source=habrahabr&utm_medium=rss)
 - [Глава OpenAI пообещал «множество запусков» в следующие два месяца](https://habr.com/ru/news/933668/?utm_campaign=933668&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выявила кибератаку с использованием ВПО под видом антивируса «Лаборатории Касперского»](https://habr.com/ru/news/933556/?utm_campaign=933556&utm_source=habrahabr&utm_medium=rss)
 - [Kali Linux теперь может работать в контейнерах Apple в системах macOS](https://habr.com/ru/news/933366/?utm_campaign=933366&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft будет блокировать в Excel внешние ссылки на небезопасные файлы](https://habr.com/ru/news/933364/?utm_campaign=933364&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Государственные органы предлагают восстановление доступа к Госуслугам через Max и биометрию»](https://habr.com/ru/news/933538/?utm_campaign=933538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
