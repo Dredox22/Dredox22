@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cohere выпустила новую мультимодальную модель Command A Vision](https://habr.com/ru/companies/bothub/news/933942/?utm_campaign=933942&utm_source=habrahabr&utm_medium=rss)
 - [«Кнут и пряник» для ИИ не работает: исследование рушит миф о «трюках» в промптах](https://habr.com/ru/news/933952/?utm_campaign=933952&utm_source=habrahabr&utm_medium=rss)
 - [Manus Wide Research: запуск до 100 ИИ-агентов одновременно](https://habr.com/ru/companies/bothub/news/933914/?utm_campaign=933914&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance разогнала языковую модель в 5.4 раза с помощью дискретной диффузии](https://habr.com/ru/companies/bothub/news/933906/?utm_campaign=933906&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/933890/?utm_campaign=933890&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» и «Солар» запустили единый инструмент для цифровой защиты клиентов](https://habr.com/ru/news/933880/?utm_campaign=933880&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
