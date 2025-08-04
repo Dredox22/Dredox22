@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/933890/?utm_campaign=933890&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» и «Солар» запустили единый инструмент для цифровой защиты клиентов](https://habr.com/ru/news/933880/?utm_campaign=933880&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla предупредила разработчиков расширений для Firefox о фишинговой кампании на их учётные записи](https://habr.com/ru/news/933872/?utm_campaign=933872&utm_source=habrahabr&utm_medium=rss)
 - [Запустил ClickHouse на sqlize.online! Теперь можно практиковаться без установки](https://habr.com/ru/news/933850/?utm_campaign=933850&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Tantor 6.0: переработанный пользовательский интерфейс и интеграция с RuBackup](https://habr.com/ru/companies/tantor/news/933848/?utm_campaign=933848&utm_source=habrahabr&utm_medium=rss)
-- [Кейс BI в стройке](https://habr.com/ru/companies/luxms_bi/news/933828/?utm_campaign=933828&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
