@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запустил ClickHouse на sqlize.online! Теперь можно практиковаться без установки](https://habr.com/ru/news/933850/?utm_campaign=933850&utm_source=habrahabr&utm_medium=rss)
+- [Платформа Tantor 6.0: переработанный пользовательский интерфейс и интеграция с RuBackup](https://habr.com/ru/companies/tantor/news/933848/?utm_campaign=933848&utm_source=habrahabr&utm_medium=rss)
+- [Кейс BI в стройке](https://habr.com/ru/companies/luxms_bi/news/933828/?utm_campaign=933828&utm_source=habrahabr&utm_medium=rss)
 - [За деньги «да»: Telegram-каналы распространяют фейки о выплатах молодым семьям и погашении ипотеки](https://habr.com/ru/companies/F6/news/933784/?utm_campaign=933784&utm_source=habrahabr&utm_medium=rss)
 - [Защита сети на базе NGFW: новая автоматизированная ИБ-услуга](https://habr.com/ru/companies/rt-dc/news/933748/?utm_campaign=933748&utm_source=habrahabr&utm_medium=rss)
-- [Теперь Live в Instagram** доступен только при наличии минимум 1 000 подписчиков](https://habr.com/ru/news/933684/?utm_campaign=933684&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик запустил свой код на сервере, имея лишь возможность изменения содержимого комментария в Python-скрипте](https://habr.com/ru/news/933722/?utm_campaign=933722&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекращает поддержку специальной версии Windows 11 SE для бюджетных ПК](https://habr.com/ru/news/933714/?utm_campaign=933714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
