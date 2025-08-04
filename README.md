@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлены победители IOCCC 2025 &lpar;международного конкурса обфускации кода на языке C&rpar;](https://habr.com/ru/news/933706/?utm_campaign=933706&utm_source=habrahabr&utm_medium=rss)
+- [База оборудования компании Rovalant для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/933092/?utm_campaign=933092&utm_source=habrahabr&utm_medium=rss)
 - [Вышел 7-Zip 25.01](https://habr.com/ru/news/933662/?utm_campaign=933662&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта Pinta 3.0.3](https://habr.com/ru/news/933660/?utm_campaign=933660&utm_source=habrahabr&utm_medium=rss)
 - [Глава OpenAI пообещал «множество запусков» в следующие два месяца](https://habr.com/ru/news/933668/?utm_campaign=933668&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выявила кибератаку с использованием ВПО под видом антивируса «Лаборатории Касперского»](https://habr.com/ru/news/933556/?utm_campaign=933556&utm_source=habrahabr&utm_medium=rss)
-- [Kali Linux теперь может работать в контейнерах Apple в системах macOS](https://habr.com/ru/news/933366/?utm_campaign=933366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
