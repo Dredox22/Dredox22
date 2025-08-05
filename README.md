@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел кроссплатформенный инструмент с открытым исходным кодом для создания скриншотов Flameshot 13.0](https://habr.com/ru/news/934026/?utm_campaign=934026&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.3](https://habr.com/ru/news/934018/?utm_campaign=934018&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта прокси‑сервера Squid 7.1](https://habr.com/ru/news/934012/?utm_campaign=934012&utm_source=habrahabr&utm_medium=rss)
 - [Работу модуля OpenAI для борьбы с «галлюцинациями» описали в деталях](https://habr.com/ru/news/934042/?utm_campaign=934042&utm_source=habrahabr&utm_medium=rss)
 - [Руководитель СhatGPT анонсировал рекорд приложения, намекнув на выход GPT-5 в ближайшие дни](https://habr.com/ru/news/933996/?utm_campaign=933996&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind запустила Game Arena — бенчмарк с настольными играми для тестирования LLM](https://habr.com/ru/news/933994/?utm_campaign=933994&utm_source=habrahabr&utm_medium=rss)
-- [X-Omni от Tencent: авторегрессионная text-to-image модель с RL](https://habr.com/ru/companies/bothub/news/933946/?utm_campaign=933946&utm_source=habrahabr&utm_medium=rss)
-- [Cohere выпустила новую мультимодальную модель Command A Vision](https://habr.com/ru/companies/bothub/news/933942/?utm_campaign=933942&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
