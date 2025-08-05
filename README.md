@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Отгремела третья ежегодная церемония награждения Pentest award — наградили лучших этичных хакеров России](https://habr.com/ru/news/934070/?utm_campaign=934070&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил курс «Обработка естественного языка — NLP»](https://habr.com/ru/companies/yandex_praktikum/news/932810/?utm_campaign=932810&utm_source=habrahabr&utm_medium=rss)
 - [VK и Минцифры Татарстана анонсировали первый хакатон цифровых решений для платформы Max](https://habr.com/ru/news/934062/?utm_campaign=934062&utm_source=habrahabr&utm_medium=rss)
 - [При поддержке Интерпола в Украине арестован предполагаемый администратор русскоязычного хакерского портала xss.is](https://habr.com/ru/news/934060/?utm_campaign=934060&utm_source=habrahabr&utm_medium=rss)
 - [Вышел кроссплатформенный инструмент с открытым исходным кодом для создания скриншотов Flameshot 13.0](https://habr.com/ru/news/934026/?utm_campaign=934026&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.3](https://habr.com/ru/news/934018/?utm_campaign=934018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
