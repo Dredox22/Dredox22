@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs запустила IIElevenMusic — конкурента Suno для генерации музыки](https://habr.com/ru/news/934368/?utm_campaign=934368&utm_source=habrahabr&utm_medium=rss)
 - [Выпущен Claude Opus 4.1 — модель стала еще лучше в программировании](https://habr.com/ru/news/934338/?utm_campaign=934338&utm_source=habrahabr&utm_medium=rss)
 - [В Raspberry Pi Connect для корпоративных пользователей появились расширенные аудит-логи](https://habr.com/ru/news/934334/?utm_campaign=934334&utm_source=habrahabr&utm_medium=rss)
 - [«Аэрофлот»: доступ к личному кабинету программы «Аэрофлот Бонус» продолжает быть ограничен из-за восстановления системы](https://habr.com/ru/news/934332/?utm_campaign=934332&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила модель с открытыми весами, которая почти не уступает o3](https://habr.com/ru/news/934328/?utm_campaign=934328&utm_source=habrahabr&utm_medium=rss)
-- [«Кибериспытание» представило итоги исследования «Недопустимое событие 2025. Цифровой краш‑тест российского бизнеса»](https://habr.com/ru/news/934324/?utm_campaign=934324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
