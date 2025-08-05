@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI выпустила модель с открытыми весами, которая почти не уступает o3](https://habr.com/ru/news/934328/?utm_campaign=934328&utm_source=habrahabr&utm_medium=rss)
+- [«Кибериспытание» представило итоги исследования «Недопустимое событие 2025. Цифровой краш‑тест российского бизнеса»](https://habr.com/ru/news/934324/?utm_campaign=934324&utm_source=habrahabr&utm_medium=rss)
 - [Блокировщик рекламы uBlock Origin Lite вышел для Safari на macOS и iOS](https://habr.com/ru/news/934308/?utm_campaign=934308&utm_source=habrahabr&utm_medium=rss)
 - [Инженер в США восстанавливает таксофоны для бесплатного общественного пользования](https://habr.com/ru/news/934294/?utm_campaign=934294&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Genie 3 — модель мира с впечатляющими характеристиками](https://habr.com/ru/news/934288/?utm_campaign=934288&utm_source=habrahabr&utm_medium=rss)
-- [Старт наших курсов — 1 сентября 2025 года](https://habr.com/ru/news/934274/?utm_campaign=934274&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI, возможно, тестирует более дешёвый платный тариф для ChatGPT](https://habr.com/ru/news/934266/?utm_campaign=934266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
