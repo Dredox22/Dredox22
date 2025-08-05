@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Блокировщик рекламы uBlock Origin Lite вышел для Safari на macOS и iOS](https://habr.com/ru/news/934308/?utm_campaign=934308&utm_source=habrahabr&utm_medium=rss)
+- [Инженер в США восстанавливает таксофоны для бесплатного общественного пользования](https://habr.com/ru/news/934294/?utm_campaign=934294&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Genie 3 — модель мира с впечатляющими характеристиками](https://habr.com/ru/news/934288/?utm_campaign=934288&utm_source=habrahabr&utm_medium=rss)
 - [Старт наших курсов — 1 сентября 2025 года](https://habr.com/ru/news/934274/?utm_campaign=934274&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI, возможно, тестирует более дешёвый платный тариф для ChatGPT](https://habr.com/ru/news/934266/?utm_campaign=934266&utm_source=habrahabr&utm_medium=rss)
-- [Июльский дайджест — 100k+ клиентов в облаке, виртуальные роутеры и 3-й бизнес-завтрак в Москве](https://habr.com/ru/companies/timeweb/news/934216/?utm_campaign=934216&utm_source=habrahabr&utm_medium=rss)
-- [«МойОфис» выложил в открытый доступ компилятор tsnative, преобразующий код TypeScript в машинный](https://habr.com/ru/news/934194/?utm_campaign=934194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
