@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила Genie 3 — модель мира с впечатляющими характеристиками](https://habr.com/ru/news/934288/?utm_campaign=934288&utm_source=habrahabr&utm_medium=rss)
+- [Старт наших курсов — 1 сентября 2025 года](https://habr.com/ru/news/934274/?utm_campaign=934274&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI, возможно, тестирует более дешёвый платный тариф для ChatGPT](https://habr.com/ru/news/934266/?utm_campaign=934266&utm_source=habrahabr&utm_medium=rss)
 - [Июльский дайджест — 100k+ клиентов в облаке, виртуальные роутеры и 3-й бизнес-завтрак в Москве](https://habr.com/ru/companies/timeweb/news/934216/?utm_campaign=934216&utm_source=habrahabr&utm_medium=rss)
 - [«МойОфис» выложил в открытый доступ компилятор tsnative, преобразующий код TypeScript в машинный](https://habr.com/ru/news/934194/?utm_campaign=934194&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила обновления Windows Terminal 1.22 и 1.23 Preview с исправлениями ошибок](https://habr.com/ru/news/934050/?utm_campaign=934050&utm_source=habrahabr&utm_medium=rss)
-- [Google начала ограничивать энергопотребление ЦОД с использованием ИИ для поддержки энергосистемы США в часы пик](https://habr.com/ru/news/934160/?utm_campaign=934160&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT стал напоминать пользователям о необходимости делать перерывы во время длительных сеансов общения с чат-ботом](https://habr.com/ru/news/934100/?utm_campaign=934100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
