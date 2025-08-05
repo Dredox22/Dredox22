@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google начала ограничивать энергопотребление ЦОД с использованием ИИ для поддержки энергосистемы США в часы пик](https://habr.com/ru/news/934160/?utm_campaign=934160&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT стал напоминать пользователям о необходимости делать перерывы во время длительных сеансов общения с чат-ботом](https://habr.com/ru/news/934100/?utm_campaign=934100&utm_source=habrahabr&utm_medium=rss)
 - [Отгремела третья ежегодная церемония награждения Pentest award — наградили лучших этичных хакеров России](https://habr.com/ru/news/934070/?utm_campaign=934070&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил курс «Обработка естественного языка — NLP»](https://habr.com/ru/companies/yandex_praktikum/news/932810/?utm_campaign=932810&utm_source=habrahabr&utm_medium=rss)
 - [VK и Минцифры Татарстана анонсировали первый хакатон цифровых решений для платформы Max](https://habr.com/ru/news/934062/?utm_campaign=934062&utm_source=habrahabr&utm_medium=rss)
-- [При поддержке Интерпола в Украине арестован предполагаемый администратор русскоязычного хакерского портала xss.is](https://habr.com/ru/news/934060/?utm_campaign=934060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
