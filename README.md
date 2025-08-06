@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp будет показывать обзор безопасности группового чата, в который приглашает незнакомый контакт](https://habr.com/ru/news/934408/?utm_campaign=934408&utm_source=habrahabr&utm_medium=rss)
+- [Редакторы «Википедии» приняли политику «быстрого удаления» статей, созданных ИИ](https://habr.com/ru/news/934532/?utm_campaign=934532&utm_source=habrahabr&utm_medium=rss)
 - [Qwen выпустил генератор изображений с открытым кодом Qwen‑Image](https://habr.com/ru/companies/bothub/news/934508/?utm_campaign=934508&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity обходит запреты на индексацию сайтов](https://habr.com/ru/companies/bothub/news/934502/?utm_campaign=934502&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в августе](https://habr.com/ru/companies/netologyru/news/934496/?utm_campaign=934496&utm_source=habrahabr&utm_medium=rss)
-- [Суперкар Tesla Roadster сможет прижиматься к земле &lpar;если верить патенту компании&rpar;](https://habr.com/ru/companies/onlinepatent/news/934494/?utm_campaign=934494&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI возвращается к open-source: GPT-oss-120b и GPT-oss-20b — революция или риск для ИИ-индустрии?](https://habr.com/ru/companies/finam_broker/news/934472/?utm_campaign=934472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
