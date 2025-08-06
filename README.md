@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российский ИИ для распознавания доступен на всех отечественных платформах. Завершено портирование на RISC-V](https://habr.com/ru/news/934588/?utm_campaign=934588&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT больше не будет советовать расстаться с партнером из-за проблем в отношениях](https://habr.com/ru/companies/bothub/news/934550/?utm_campaign=934550&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp будет показывать обзор безопасности группового чата, в который приглашает незнакомый контакт](https://habr.com/ru/news/934408/?utm_campaign=934408&utm_source=habrahabr&utm_medium=rss)
 - [Редакторы «Википедии» приняли политику «быстрого удаления» статей, созданных ИИ](https://habr.com/ru/news/934532/?utm_campaign=934532&utm_source=habrahabr&utm_medium=rss)
 - [Qwen выпустил генератор изображений с открытым кодом Qwen‑Image](https://habr.com/ru/companies/bothub/news/934508/?utm_campaign=934508&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity обходит запреты на индексацию сайтов](https://habr.com/ru/companies/bothub/news/934502/?utm_campaign=934502&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в августе](https://habr.com/ru/companies/netologyru/news/934496/?utm_campaign=934496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
