@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Российский ИИ для распознавания доступен на всех отечественных платформах. Завершено портирование на RISC-V](https://habr.com/ru/news/934588/?utm_campaign=934588&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT больше не будет советовать расстаться с партнером из-за проблем в отношениях](https://habr.com/ru/companies/bothub/news/934550/?utm_campaign=934550&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp будет показывать обзор безопасности группового чата, в который приглашает незнакомый контакт](https://habr.com/ru/news/934408/?utm_campaign=934408&utm_source=habrahabr&utm_medium=rss)
-- [Редакторы «Википедии» приняли политику «быстрого удаления» статей, созданных ИИ](https://habr.com/ru/news/934532/?utm_campaign=934532&utm_source=habrahabr&utm_medium=rss)
-- [Qwen выпустил генератор изображений с открытым кодом Qwen‑Image](https://habr.com/ru/companies/bothub/news/934508/?utm_campaign=934508&utm_source=habrahabr&utm_medium=rss)
+- [За первый месяц по программе по поиску уязвимостей &lpar;Bug Bounty&rpar; в мессенджере Мax выплачено 7,8 млн рублей за 79 отчётов](https://habr.com/ru/news/934652/?utm_campaign=934652&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи начали блокировать все СМС из-за закона о спаме](https://habr.com/ru/news/934638/?utm_campaign=934638&utm_source=habrahabr&utm_medium=rss)
+- [В 2026 году в Японии стартует опытная эксплуатация размещённых на дирижаблях базовых станций 4G и 5G](https://habr.com/ru/news/934628/?utm_campaign=934628&utm_source=habrahabr&utm_medium=rss)
+- [Cozystack v0.34: выбор версии K8s и снапшоты PVC в тенантах, Windows и RouterOS на виртуалках, VPA для VPA](https://habr.com/ru/companies/aenix/news/934204/?utm_campaign=934204&utm_source=habrahabr&utm_medium=rss)
+- [xAI запустила Grok Video с режимом генерации NSFW-контента](https://habr.com/ru/companies/bothub/news/934590/?utm_campaign=934590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
