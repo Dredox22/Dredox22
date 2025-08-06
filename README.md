@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Билайн» установил дополнительный узел связи в Хельсинки для соединения с зарубежными сервисами](https://habr.com/ru/news/934456/?utm_campaign=934456&utm_source=habrahabr&utm_medium=rss)
+- [54 минуты с Михаилом Поливахой | Spring АйО Подкаст №29](https://habr.com/ru/companies/spring_aio/news/934360/?utm_campaign=934360&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого редактора звука Audacity 3.7.5](https://habr.com/ru/news/934370/?utm_campaign=934370&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NWinfo 1.4.2 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/934354/?utm_campaign=934354&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia: в чипах компании нет и не будет бэкдоров, скрытых выключателей и шпионского ПО](https://habr.com/ru/news/934384/?utm_campaign=934384&utm_source=habrahabr&utm_medium=rss)
-- [ElevenLabs запустила IIElevenMusic — конкурента Suno для генерации музыки](https://habr.com/ru/news/934368/?utm_campaign=934368&utm_source=habrahabr&utm_medium=rss)
-- [Выпущен Claude Opus 4.1 — модель стала еще лучше в программировании](https://habr.com/ru/news/934338/?utm_campaign=934338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
