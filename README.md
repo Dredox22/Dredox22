@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen выпустил генератор изображений с открытым кодом Qwen‑Image](https://habr.com/ru/companies/bothub/news/934508/?utm_campaign=934508&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity обходит запреты на индексацию сайтов](https://habr.com/ru/companies/bothub/news/934502/?utm_campaign=934502&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в августе](https://habr.com/ru/companies/netologyru/news/934496/?utm_campaign=934496&utm_source=habrahabr&utm_medium=rss)
+- [Суперкар Tesla Roadster сможет прижиматься к земле &lpar;если верить патенту компании&rpar;](https://habr.com/ru/companies/onlinepatent/news/934494/?utm_campaign=934494&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI возвращается к open-source: GPT-oss-120b и GPT-oss-20b — революция или риск для ИИ-индустрии?](https://habr.com/ru/companies/finam_broker/news/934472/?utm_campaign=934472&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Postgres Pro Shardman 17.5.1](https://habr.com/ru/companies/postgrespro/news/934466/?utm_campaign=934466&utm_source=habrahabr&utm_medium=rss)
-- [«Билайн» установил дополнительный узел связи в Хельсинки для соединения с зарубежными сервисами](https://habr.com/ru/news/934456/?utm_campaign=934456&utm_source=habrahabr&utm_medium=rss)
-- [54 минуты с Михаилом Поливахой | Spring АйО Подкаст №29](https://habr.com/ru/companies/spring_aio/news/934360/?utm_campaign=934360&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого редактора звука Audacity 3.7.5](https://habr.com/ru/news/934370/?utm_campaign=934370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
