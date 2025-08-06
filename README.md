@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PCI Express 8.0 выйдет в 2028 году и удвоит пропускную способность PCI Express 7.0, доведя её до 256 ГТ/с](https://habr.com/ru/news/934704/?utm_campaign=934704&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare утверждает, что ИИ‑боты Perplexity «скрыто сканируют» заблокированные от ИИ сайты](https://habr.com/ru/news/934700/?utm_campaign=934700&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Max проходит финальный этап подготовки к интеграции с „Госуслугами“»](https://habr.com/ru/news/934692/?utm_campaign=934692&utm_source=habrahabr&utm_medium=rss)
 - [Автор Picocrypt прекратил разработку проекта и заархивировал это решение](https://habr.com/ru/news/934686/?utm_campaign=934686&utm_source=habrahabr&utm_medium=rss)
 - [США изучают возможность встраивать в ИИ-чипы отслеживание геолокации](https://habr.com/ru/companies/bothub/news/934570/?utm_campaign=934570&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic заблокировала OpenAI доступ к Claude API из-за нарушения условий обслуживания](https://habr.com/ru/news/934662/?utm_campaign=934662&utm_source=habrahabr&utm_medium=rss)
-- [За первый месяц по программе поиска уязвимостей &lpar;Bug Bounty&rpar; в мессенджере Мax выплачено 7,8 млн рублей за 79 отчётов](https://habr.com/ru/news/934652/?utm_campaign=934652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
