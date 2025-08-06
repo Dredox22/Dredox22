@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем погостить в чудесной стране: где плещутся эйчары и пиарщики в корпоративной среде](https://habr.com/ru/companies/intercomm/news/934802/?utm_campaign=934802&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор GitHub: программисты, учитесь работать с ИИ, или уходите из профессии](https://habr.com/ru/news/934800/?utm_campaign=934800&utm_source=habrahabr&utm_medium=rss)
 - [Глобальное обновление Three.js](https://habr.com/ru/news/934796/?utm_campaign=934796&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 представят 7 августа в 20:00 — OpenAI](https://habr.com/ru/news/934786/?utm_campaign=934786&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры РФ профинансировало разработку российских технологий 5G и 6G](https://habr.com/ru/news/934734/?utm_campaign=934734&utm_source=habrahabr&utm_medium=rss)
-- [PCI Express 8.0 выйдет в 2028 году и удвоит пропускную способность PCI Express 7.0, доведя её до 256 ГТ/с](https://habr.com/ru/news/934704/?utm_campaign=934704&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare утверждает, что ИИ‑боты Perplexity «скрыто сканируют» заблокированные от ИИ сайты](https://habr.com/ru/news/934700/?utm_campaign=934700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
