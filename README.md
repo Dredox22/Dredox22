@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [За первый месяц по программе по поиску уязвимостей &lpar;Bug Bounty&rpar; в мессенджере Мax выплачено 7,8 млн рублей за 79 отчётов](https://habr.com/ru/news/934652/?utm_campaign=934652&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи начали блокировать все СМС из-за закона о спаме](https://habr.com/ru/news/934638/?utm_campaign=934638&utm_source=habrahabr&utm_medium=rss)
-- [В 2026 году в Японии стартует опытная эксплуатация размещённых на дирижаблях базовых станций 4G и 5G](https://habr.com/ru/news/934628/?utm_campaign=934628&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack v0.34: выбор версии K8s и снапшоты PVC в тенантах, Windows и RouterOS на виртуалках, VPA для VPA](https://habr.com/ru/companies/aenix/news/934204/?utm_campaign=934204&utm_source=habrahabr&utm_medium=rss)
-- [xAI запустила Grok Video с режимом генерации NSFW-контента](https://habr.com/ru/companies/bothub/news/934590/?utm_campaign=934590&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Max проходит финальный этап подготовки к интеграции с „Госуслугами“»](https://habr.com/ru/news/934692/?utm_campaign=934692&utm_source=habrahabr&utm_medium=rss)
+- [Автор Picocrypt прекратил разработку проекта и заархивировал это решение](https://habr.com/ru/news/934686/?utm_campaign=934686&utm_source=habrahabr&utm_medium=rss)
+- [США изучают возможность встраивать в ИИ-чипы отслеживание геолокации](https://habr.com/ru/companies/bothub/news/934570/?utm_campaign=934570&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic заблокировала OpenAI доступ к Claude API из-за нарушения условий обслуживания](https://habr.com/ru/news/934662/?utm_campaign=934662&utm_source=habrahabr&utm_medium=rss)
+- [За первый месяц по программе поиска уязвимостей &lpar;Bug Bounty&rpar; в мессенджере Мax выплачено 7,8 млн рублей за 79 отчётов](https://habr.com/ru/news/934652/?utm_campaign=934652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
