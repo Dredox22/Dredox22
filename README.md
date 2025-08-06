@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI возвращается к open-source: GPT-oss-120b и GPT-oss-20b — революция или риск для ИИ-индустрии?](https://habr.com/ru/companies/finam_broker/news/934472/?utm_campaign=934472&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Postgres Pro Shardman 17.5.1](https://habr.com/ru/companies/postgrespro/news/934466/?utm_campaign=934466&utm_source=habrahabr&utm_medium=rss)
 - [«Билайн» установил дополнительный узел связи в Хельсинки для соединения с зарубежными сервисами](https://habr.com/ru/news/934456/?utm_campaign=934456&utm_source=habrahabr&utm_medium=rss)
 - [54 минуты с Михаилом Поливахой | Spring АйО Подкаст №29](https://habr.com/ru/companies/spring_aio/news/934360/?utm_campaign=934360&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого редактора звука Audacity 3.7.5](https://habr.com/ru/news/934370/?utm_campaign=934370&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NWinfo 1.4.2 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/934354/?utm_campaign=934354&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia: в чипах компании нет и не будет бэкдоров, скрытых выключателей и шпионского ПО](https://habr.com/ru/news/934384/?utm_campaign=934384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
