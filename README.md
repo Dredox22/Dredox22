@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Gemini появился бесплатный режим ИИ-репетитора](https://habr.com/ru/companies/bothub/news/934964/?utm_campaign=934964&utm_source=habrahabr&utm_medium=rss)
 - [«Штурвал 2.11»: упрощенная установка, новые логи и дашборды](https://habr.com/ru/companies/chislitellab/news/933976/?utm_campaign=933976&utm_source=habrahabr&utm_medium=rss)
 - [Разные версии GPT-5 раскрыты в утечке GitHub](https://habr.com/ru/news/934908/?utm_campaign=934908&utm_source=habrahabr&utm_medium=rss)
 - [Proton исправила ошибку в Authenticator для iOS, приводящую к утечке TOTP-секретов в логах](https://habr.com/ru/news/934904/?utm_campaign=934904&utm_source=habrahabr&utm_medium=rss)
 - [В Let&#39;s Encrypt отключили OCSP-респондеры](https://habr.com/ru/news/934898/?utm_campaign=934898&utm_source=habrahabr&utm_medium=rss)
-- [Для хранения метрик Deckhouse-кластеров теперь нужно до 10 раз меньше памяти](https://habr.com/ru/companies/flant/news/928478/?utm_campaign=928478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
