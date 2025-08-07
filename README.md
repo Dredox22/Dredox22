@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Машина баз данных Tantor XData 2Y включена в реестр Минпромторга](https://habr.com/ru/companies/tantor/news/934754/?utm_campaign=934754&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 139](https://habr.com/ru/news/934728/?utm_campaign=934728&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива для организации работы виртуальных серверов Proxmox VE 9.0](https://habr.com/ru/news/934758/?utm_campaign=934758&utm_source=habrahabr&utm_medium=rss)
 - [Вышел FreeCAD 1.0.2](https://habr.com/ru/news/934766/?utm_campaign=934766&utm_source=habrahabr&utm_medium=rss)
 - [Атака на «Газинформсервис» не удалась: мошенники применяют новые схемы атак на российский бизнес](https://habr.com/ru/companies/gaz-is/news/934838/?utm_campaign=934838&utm_source=habrahabr&utm_medium=rss)
-- [Онлайн-системы Национального банка Канады столкнулись с трёхчасовым сбоем](https://habr.com/ru/news/934822/?utm_campaign=934822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
