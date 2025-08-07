@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Let&#39;s Encrypt отключили OCSP-респондеры](https://habr.com/ru/news/934898/?utm_campaign=934898&utm_source=habrahabr&utm_medium=rss)
+- [Для хранения метрик Deckhouse-кластеров теперь нужно до 10 раз меньше памяти](https://habr.com/ru/companies/flant/news/928478/?utm_campaign=928478&utm_source=habrahabr&utm_medium=rss)
+- [ФСБ не разрешила подключить мессенджер MAX к «Госуслугам» из-за угроз безопасности](https://habr.com/ru/news/934874/?utm_campaign=934874&utm_source=habrahabr&utm_medium=rss)
 - [Машина баз данных Tantor XData 2Y включена в реестр Минпромторга](https://habr.com/ru/companies/tantor/news/934754/?utm_campaign=934754&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 139](https://habr.com/ru/news/934728/?utm_campaign=934728&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива для организации работы виртуальных серверов Proxmox VE 9.0](https://habr.com/ru/news/934758/?utm_campaign=934758&utm_source=habrahabr&utm_medium=rss)
-- [Вышел FreeCAD 1.0.2](https://habr.com/ru/news/934766/?utm_campaign=934766&utm_source=habrahabr&utm_medium=rss)
-- [Атака на «Газинформсервис» не удалась: мошенники применяют новые схемы атак на российский бизнес](https://habr.com/ru/companies/gaz-is/news/934838/?utm_campaign=934838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
