@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ростех» запустил серийное производство оборудования для нейросетей с жидкостным охлаждением на российском диэлектрике](https://habr.com/ru/news/935138/?utm_campaign=935138&utm_source=habrahabr&utm_medium=rss)
-- [Браузер по подписке: в Dia от The Browser Company появился платный тариф](https://habr.com/ru/news/935122/?utm_campaign=935122&utm_source=habrahabr&utm_medium=rss)
-- [Google внедрила функцию создания иллюстрированных книг в Gemini](https://habr.com/ru/companies/bothub/news/935070/?utm_campaign=935070&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выплатила исследователям безопасности рекордные $17 млн за обнаружение уязвимостей](https://habr.com/ru/news/935106/?utm_campaign=935106&utm_source=habrahabr&utm_medium=rss)
-- [VK заявил, что RuStore установили на 300 тысяч машин](https://habr.com/ru/news/935094/?utm_campaign=935094&utm_source=habrahabr&utm_medium=rss)
+- [Cognition после покупки Windsurf предлагает сотрудникам выбор: уволиться с 9 зарплатами или 80-часовая рабочая неделя](https://habr.com/ru/news/935160/?utm_campaign=935160&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: ФСБ согласовала условия доступа мессенджера Max к инфраструктуре портала «Госуслуги»](https://habr.com/ru/news/935150/?utm_campaign=935150&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила GPT-5](https://habr.com/ru/companies/bothub/news/935088/?utm_campaign=935088&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры и операторы связи РФ подготовили техническую схему доступа граждан при отключении мобильного интернета](https://habr.com/ru/news/935144/?utm_campaign=935144&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GPT-5 — базовая версия будет доступна бесплатно](https://habr.com/ru/news/935142/?utm_campaign=935142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
