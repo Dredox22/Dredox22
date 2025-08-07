@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google внедрила функцию создания иллюстрированных книг в Gemini](https://habr.com/ru/companies/bothub/news/935070/?utm_campaign=935070&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выплатила исследователям безопасности рекордные $17 млн за обнаружение уязвимостей](https://habr.com/ru/news/935106/?utm_campaign=935106&utm_source=habrahabr&utm_medium=rss)
 - [VK заявил, что RuStore установили на 300 тысяч машин](https://habr.com/ru/news/935094/?utm_campaign=935094&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустила опенсорсный инструмент для автоматической проверки кода на уязвимости](https://habr.com/ru/companies/bothub/news/935000/?utm_campaign=935000&utm_source=habrahabr&utm_medium=rss)
 - [Пятый ежегодный международный фестиваль Playport Fest пройдёт 6–7 сентября в Калининградской области](https://habr.com/ru/news/935040/?utm_campaign=935040&utm_source=habrahabr&utm_medium=rss)
-- [РАМ-платформа СКДПУ НТ получила поддержку аппаратных аутентификаторов Рутокен OTP](https://habr.com/ru/companies/aktiv-company/news/935036/?utm_campaign=935036&utm_source=habrahabr&utm_medium=rss)
-- [Jules от Google вышел из беты](https://habr.com/ru/companies/bothub/news/934994/?utm_campaign=934994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
