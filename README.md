@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains анонсировала Kineto — ноукод-платформу с нейросетями для генерации приложений и сайтов](https://habr.com/ru/news/935194/?utm_campaign=935194&utm_source=habrahabr&utm_medium=rss)
+- [Раскрыты лимиты использования GPT-5 — только 10 запросов бесплатно в 5 часов](https://habr.com/ru/news/935190/?utm_campaign=935190&utm_source=habrahabr&utm_medium=rss)
 - [Cognition после покупки Windsurf предлагает сотрудникам выбор: уволиться с 9 зарплатами или 80-часовая рабочая неделя](https://habr.com/ru/news/935160/?utm_campaign=935160&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: ФСБ согласовала условия доступа мессенджера Max к инфраструктуре портала «Госуслуги»](https://habr.com/ru/news/935150/?utm_campaign=935150&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-5](https://habr.com/ru/companies/bothub/news/935088/?utm_campaign=935088&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры и операторы связи РФ подготовили техническую схему доступа граждан при отключении мобильного интернета](https://habr.com/ru/news/935144/?utm_campaign=935144&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT-5 — базовая версия будет доступна бесплатно](https://habr.com/ru/news/935142/?utm_campaign=935142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
