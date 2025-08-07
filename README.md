@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Chrome 139](https://habr.com/ru/news/934728/?utm_campaign=934728&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива для организации работы виртуальных серверов Proxmox VE 9.0](https://habr.com/ru/news/934758/?utm_campaign=934758&utm_source=habrahabr&utm_medium=rss)
+- [Вышел FreeCAD 1.0.2](https://habr.com/ru/news/934766/?utm_campaign=934766&utm_source=habrahabr&utm_medium=rss)
+- [Атака на «Газинформсервис» не удалась: мошенники применяют новые схемы атак на российский бизнес](https://habr.com/ru/companies/gaz-is/news/934838/?utm_campaign=934838&utm_source=habrahabr&utm_medium=rss)
 - [Онлайн-системы Национального банка Канады столкнулись с трёхчасовым сбоем](https://habr.com/ru/news/934822/?utm_campaign=934822&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем погостить в чудесной стране: где плещутся эйчары и пиарщики в корпоративной среде](https://habr.com/ru/companies/intercomm/news/934802/?utm_campaign=934802&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор GitHub: программисты, учитесь работать с ИИ, или уходите из профессии](https://habr.com/ru/news/934800/?utm_campaign=934800&utm_source=habrahabr&utm_medium=rss)
-- [Глобальное обновление Three.js](https://habr.com/ru/news/934796/?utm_campaign=934796&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 представят 7 августа в 20:00 — OpenAI](https://habr.com/ru/news/934786/?utm_campaign=934786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
