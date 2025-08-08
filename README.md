@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MoscowJS 67 X A?.Frontend](https://habr.com/ru/companies/alfa/news/935280/?utm_campaign=935280&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: Комплект высокой готовности ОСРВ «Нейтрино»: расширенная диагностика процессов и межпроцессного взаимодействия](https://habr.com/ru/companies/swd_es/news/935270/?utm_campaign=935270&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сможет выявлять слабые места в генераторах кода &lpar;если верить патентной заявке компании&rpar;](https://habr.com/ru/companies/onlinepatent/news/935264/?utm_campaign=935264&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.89.0](https://habr.com/ru/news/935244/?utm_campaign=935244&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 139](https://habr.com/ru/news/935238/?utm_campaign=935238&utm_source=habrahabr&utm_medium=rss)
-- [В Delphi появился тернарный оператор](https://habr.com/ru/news/935234/?utm_campaign=935234&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме предложили операторам снизить тарифы на мобильную связь в условиях ограничений](https://habr.com/ru/news/935224/?utm_campaign=935224&utm_source=habrahabr&utm_medium=rss)
-- [Nightdive Studios и id Software выпустили обновлённые переиздания Heretic и Hexen](https://habr.com/ru/news/935220/?utm_campaign=935220&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
