@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прорыв от Google: активное обучение с экономией данных на 10 000× при дообучении LLM](https://habr.com/ru/companies/bothub/news/935376/?utm_campaign=935376&utm_source=habrahabr&utm_medium=rss)
 - [DevOps VS ИБ: кто кого?](https://habr.com/ru/companies/chislitellab/news/935412/?utm_campaign=935412&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в Bing Image Creator бесплатный доступ к GPT-4o](https://habr.com/ru/companies/bothub/news/935364/?utm_campaign=935364&utm_source=habrahabr&utm_medium=rss)
 - [В качестве редактора карт для Battlefield 6 используется движок Godot](https://habr.com/ru/news/935352/?utm_campaign=935352&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи РФ начали тестировать доступ граждан к мобильному интернету в условиях ограничений через капчу](https://habr.com/ru/news/935318/?utm_campaign=935318&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» представила Kaspersky NGFW — межсетевой экран нового поколения для защиты от киберугроз](https://habr.com/ru/news/935314/?utm_campaign=935314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
