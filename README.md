@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Microsoft Edge 139](https://habr.com/ru/news/935238/?utm_campaign=935238&utm_source=habrahabr&utm_medium=rss)
+- [В Delphi появился тернарный оператор](https://habr.com/ru/news/935234/?utm_campaign=935234&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуме предложили операторам снизить тарифы на мобильную связь в условиях ограничений](https://habr.com/ru/news/935224/?utm_campaign=935224&utm_source=habrahabr&utm_medium=rss)
 - [Nightdive Studios и id Software выпустили обновлённые переиздания Heretic и Hexen](https://habr.com/ru/news/935220/?utm_campaign=935220&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mesa 25.2](https://habr.com/ru/news/935032/?utm_campaign=935032&utm_source=habrahabr&utm_medium=rss)
-- [Вышел дистрибутив Proxmox Backup Server 4.0](https://habr.com/ru/news/935018/?utm_campaign=935018&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains анонсировала Kineto — ноукод-платформу с нейросетями для генерации приложений и сайтов](https://habr.com/ru/news/935194/?utm_campaign=935194&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыты лимиты использования GPT-5 — только 10 запросов бесплатно в 5 часов](https://habr.com/ru/news/935190/?utm_campaign=935190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
