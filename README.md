@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» представила Kaspersky NGFW — межсетевой экран нового поколения для защиты от киберугроз](https://habr.com/ru/news/935314/?utm_campaign=935314&utm_source=habrahabr&utm_medium=rss)
+- [Российские школьники завоевали 6 золотых медалей на Международной олимпиаде по искусственному интеллекту IOAI 2025](https://habr.com/ru/news/935312/?utm_campaign=935312&utm_source=habrahabr&utm_medium=rss)
+- [Десятки миллионов компьютеров Dell имеют критическую уязвимость в чипе Broadcom серии BCM5820X](https://habr.com/ru/news/935310/?utm_campaign=935310&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры вводит «белый список» интернет-ресурсов. Он будет работать во время отключения мобильного интернета](https://habr.com/ru/news/935298/?utm_campaign=935298&utm_source=habrahabr&utm_medium=rss)
 - [MoscowJS 67 X A?.Frontend](https://habr.com/ru/companies/alfa/news/935280/?utm_campaign=935280&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: Комплект высокой готовности ОСРВ «Нейтрино»: расширенная диагностика процессов и межпроцессного взаимодействия](https://habr.com/ru/companies/swd_es/news/935270/?utm_campaign=935270&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сможет выявлять слабые места в генераторах кода &lpar;если верить патентной заявке компании&rpar;](https://habr.com/ru/companies/onlinepatent/news/935264/?utm_campaign=935264&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.89.0](https://habr.com/ru/news/935244/?utm_campaign=935244&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 139](https://habr.com/ru/news/935238/?utm_campaign=935238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
