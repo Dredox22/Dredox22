@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nightdive Studios и id Software выпустили обновлённые переиздания Heretic и Hexen](https://habr.com/ru/news/935220/?utm_campaign=935220&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mesa 25.2](https://habr.com/ru/news/935032/?utm_campaign=935032&utm_source=habrahabr&utm_medium=rss)
+- [Вышел дистрибутив Proxmox Backup Server 4.0](https://habr.com/ru/news/935018/?utm_campaign=935018&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains анонсировала Kineto — ноукод-платформу с нейросетями для генерации приложений и сайтов](https://habr.com/ru/news/935194/?utm_campaign=935194&utm_source=habrahabr&utm_medium=rss)
 - [Раскрыты лимиты использования GPT-5 — только 10 запросов бесплатно в 5 часов](https://habr.com/ru/news/935190/?utm_campaign=935190&utm_source=habrahabr&utm_medium=rss)
-- [Cognition после покупки Windsurf предлагает сотрудникам выбор: уволиться с 9 зарплатами или 80-часовая рабочая неделя](https://habr.com/ru/news/935160/?utm_campaign=935160&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: ФСБ согласовала условия доступа мессенджера Max к инфраструктуре портала «Госуслуги»](https://habr.com/ru/news/935150/?utm_campaign=935150&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT-5](https://habr.com/ru/companies/bothub/news/935088/?utm_campaign=935088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
