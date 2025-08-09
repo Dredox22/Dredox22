@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.8](https://habr.com/ru/news/935538/?utm_campaign=935538&utm_source=habrahabr&utm_medium=rss)
+- [Релиз DaVinci Resolve 20.1](https://habr.com/ru/news/935342/?utm_campaign=935342&utm_source=habrahabr&utm_medium=rss)
 - [Лимиты использования GPT-5 будут удвоены на подписке Plus](https://habr.com/ru/news/935532/?utm_campaign=935532&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 раскритиковали за неудачный запуск](https://habr.com/ru/news/935504/?utm_campaign=935504&utm_source=habrahabr&utm_medium=rss)
 - [Прорыв от Google: активное обучение с экономией данных на 10 000× при дообучении LLM](https://habr.com/ru/companies/bothub/news/935376/?utm_campaign=935376&utm_source=habrahabr&utm_medium=rss)
-- [DevOps VS ИБ: кто кого?](https://habr.com/ru/companies/chislitellab/news/935412/?utm_campaign=935412&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила в Bing Image Creator бесплатный доступ к GPT-4o](https://habr.com/ru/companies/bothub/news/935364/?utm_campaign=935364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
