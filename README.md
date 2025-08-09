@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз СУБД MariaDB Server 12.0](https://habr.com/ru/news/935524/?utm_campaign=935524&utm_source=habrahabr&utm_medium=rss)
+- [В работе Apple iCloud и других сервисов компании произошёл глобальный сбой](https://habr.com/ru/news/935556/?utm_campaign=935556&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.8](https://habr.com/ru/news/935538/?utm_campaign=935538&utm_source=habrahabr&utm_medium=rss)
 - [Релиз DaVinci Resolve 20.1](https://habr.com/ru/news/935342/?utm_campaign=935342&utm_source=habrahabr&utm_medium=rss)
 - [Лимиты использования GPT-5 будут удвоены на подписке Plus](https://habr.com/ru/news/935532/?utm_campaign=935532&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 раскритиковали за неудачный запуск](https://habr.com/ru/news/935504/?utm_campaign=935504&utm_source=habrahabr&utm_medium=rss)
-- [Прорыв от Google: активное обучение с экономией данных на 10 000× при дообучении LLM](https://habr.com/ru/companies/bothub/news/935376/?utm_campaign=935376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
