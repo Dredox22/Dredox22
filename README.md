@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торвальдс со словами «f%^5ing clue» и «Garbage» отверг изменения архитектуры RISC-V для кода ядра Linux 6.17](https://habr.com/ru/news/935674/?utm_campaign=935674&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: хакеры опубликовали якобы похищенные у «Аэрофлота» персональные данные сотрудников](https://habr.com/ru/news/935672/?utm_campaign=935672&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5: великий апгрейд, который стал даунгрейдом](https://habr.com/ru/news/935658/?utm_campaign=935658&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 выпустили на 100% пользователей и удвоили лимиты использования](https://habr.com/ru/news/935656/?utm_campaign=935656&utm_source=habrahabr&utm_medium=rss)
 - [PocketHandyBox &lpar;портативный Debian с поддержкой NVIDIA «из коробки»&rpar;, предназначенный для тестирования ПК, ноутбуков](https://habr.com/ru/news/935640/?utm_campaign=935640&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые пользователи ChatGPT просят оставить ИИ «подхалимом» — Сэм Альтман](https://habr.com/ru/news/935616/?utm_campaign=935616&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку своего бесплатного приложения для сканирования документов](https://habr.com/ru/news/935580/?utm_campaign=935580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
