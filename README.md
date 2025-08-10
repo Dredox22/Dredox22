@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Debian 13 «Trixie»](https://habr.com/ru/news/935708/?utm_campaign=935708&utm_source=habrahabr&utm_medium=rss)
+- [Драйвер мониторинга температуры процессоров Intel для ядра Linux стал «сиротой» &lpar;orphaned&rpar; из‑за увольнения разработчика](https://habr.com/ru/news/935678/?utm_campaign=935678&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск надеется выпустить Grok 4.20 до конца месяца](https://habr.com/ru/news/935688/?utm_campaign=935688&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс со словами «f%^5ing clue» и «Garbage» отверг изменения архитектуры RISC-V для кода ядра Linux 6.17](https://habr.com/ru/news/935674/?utm_campaign=935674&utm_source=habrahabr&utm_medium=rss)
+- [Торвальдс со словами «no f%^5ing clue» и «Garbage» отверг изменения архитектуры RISC-V для кода ядра Linux 6.17](https://habr.com/ru/news/935674/?utm_campaign=935674&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: хакеры опубликовали якобы похищенные у «Аэрофлота» персональные данные сотрудников](https://habr.com/ru/news/935672/?utm_campaign=935672&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5: великий апгрейд, который стал даунгрейдом](https://habr.com/ru/news/935658/?utm_campaign=935658&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 выпустили на 100% пользователей и удвоили лимиты использования](https://habr.com/ru/news/935656/?utm_campaign=935656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
