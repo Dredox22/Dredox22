@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбер анонсировал бесконтактную оплату на iPhone](https://habr.com/ru/news/936036/?utm_campaign=936036&utm_source=habrahabr&utm_medium=rss)
+- [Android 17 получит кодовое название Cinnamon Bun](https://habr.com/ru/news/936024/?utm_campaign=936024&utm_source=habrahabr&utm_medium=rss)
 - [D-Link выпустила три маршрутизатора Wi-Fi 7 с функциями ИИ, поддержкой трёх диапазонов и 5G](https://habr.com/ru/news/936000/?utm_campaign=936000&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ проводит очередной хакатон More.Tech. Как принять участие и что решать](https://habr.com/ru/companies/vtb/news/935960/?utm_campaign=935960&utm_source=habrahabr&utm_medium=rss)
 - [«КоммерсантЪ»: звонки в мессенджерах могут не работать из-за выборочных блокировок Telegram и WhatsApp](https://habr.com/ru/news/935994/?utm_campaign=935994&utm_source=habrahabr&utm_medium=rss)
-- [Стартап бывших сотрудников Google, OpenArt, теперь создает brain-rot-видео в один клик](https://habr.com/ru/companies/bothub/news/935986/?utm_campaign=935986&utm_source=habrahabr&utm_medium=rss)
-- [На Microsoft подали в суд за прекращение поддержки Windows 10 и «сознательное» создание угрозы пользовательским данным](https://habr.com/ru/news/935978/?utm_campaign=935978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
