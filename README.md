@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Orion soft рассказал о результатах программы по поиску уязвимостей в zVirt](https://habr.com/ru/companies/orion_soft/news/935944/?utm_campaign=935944&utm_source=habrahabr&utm_medium=rss)
+- [Глава направления ChatGPT рассказал о единственном качестве, без которого в OpenAI не добиться успеха](https://habr.com/ru/companies/bothub/news/935924/?utm_campaign=935924&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи показали взлом бизнес-версии Windows Hello](https://habr.com/ru/news/935918/?utm_campaign=935918&utm_source=habrahabr&utm_medium=rss)
+- [Orion soft рассказал о результатах программы по поиску уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/935920/?utm_campaign=935920&utm_source=habrahabr&utm_medium=rss)
 - [Roblox ввёл новый лейбл для «деликатных тем»](https://habr.com/ru/news/935902/?utm_campaign=935902&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia призывает ИИ-индустрию переосмыслить агентный подход в пользу компактных моделей](https://habr.com/ru/companies/bothub/news/935904/?utm_campaign=935904&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи взломали GPT-5 и предупредили о его «непригодности» для компаний](https://habr.com/ru/news/935894/?utm_campaign=935894&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» начал набор школьников в олимпиадные Кружки по программированию, по искусственному интеллекту и по математике](https://habr.com/ru/news/935872/?utm_campaign=935872&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft будет поддерживать Chromium Edge и PWA в Windows 10 до октября 2028 года](https://habr.com/ru/news/935866/?utm_campaign=935866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
