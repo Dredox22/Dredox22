@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поверил Лабубу – вылетел в трубу: под брендом популярной игрушки мошенники похищают криптовалюту](https://habr.com/ru/companies/F6/news/934480/?utm_campaign=934480&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты: доступ граждан к мобильному интернету в условиях ограничений через капчу не гарантирует абсолютной защиты](https://habr.com/ru/news/935834/?utm_campaign=935834&utm_source=habrahabr&utm_medium=rss)
 - [Forbes: операторы связи РФ попросили регуляторов заблокировать голосовые вызовы в зарубежных мессенджерах](https://habr.com/ru/news/935832/?utm_campaign=935832&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор в Финляндии подтвердил запуск узла связи «Билайна» в Хельсинки для повышения скорости передачи данных](https://habr.com/ru/news/935830/?utm_campaign=935830&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.6](https://habr.com/ru/news/935722/?utm_campaign=935722&utm_source=habrahabr&utm_medium=rss)
-- [Grok 4 стал доступен бесплатно, а новая версия модели завершила пре-тренировку](https://habr.com/ru/news/935822/?utm_campaign=935822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
