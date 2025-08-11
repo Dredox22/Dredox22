@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость безопасности веб‑портала автопроизводителя позволяла угонять машины удалённо](https://habr.com/ru/news/936082/?utm_campaign=936082&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор представил итоги отражения DDoS‑атак и блокировки угроз в сети связи России за июль 2025 года](https://habr.com/ru/news/936074/?utm_campaign=936074&utm_source=habrahabr&utm_medium=rss)
 - [В России в третий раз прошла кибербез-премия Pentest Award](https://habr.com/ru/news/936062/?utm_campaign=936062&utm_source=habrahabr&utm_medium=rss)
 - [Eclypsium выявила уязвимости веб-камер Lenovo, позволяющие превратить их в устройства атак типа BadUSB](https://habr.com/ru/news/936050/?utm_campaign=936050&utm_source=habrahabr&utm_medium=rss)
 - [Сбер анонсировал бесконтактную оплату на iPhone](https://habr.com/ru/news/936036/?utm_campaign=936036&utm_source=habrahabr&utm_medium=rss)
-- [Android 17 получит кодовое название Cinnamon Bun](https://habr.com/ru/news/936024/?utm_campaign=936024&utm_source=habrahabr&utm_medium=rss)
-- [D-Link выпустила три маршрутизатора Wi-Fi 7 с функциями ИИ, поддержкой трёх диапазонов и 5G](https://habr.com/ru/news/936000/?utm_campaign=936000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
