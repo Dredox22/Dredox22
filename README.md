@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ от OpenAI взял «золото» Международной олимпиады по информатике](https://habr.com/ru/news/936160/?utm_campaign=936160&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» запустил серийное производство российского спецклея для производства защищённой электроники](https://habr.com/ru/news/936132/?utm_campaign=936132&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia раскрыла будущее «физического ИИ» на конференции SIGGRAPH 2025](https://habr.com/ru/companies/bothub/news/936120/?utm_campaign=936120&utm_source=habrahabr&utm_medium=rss)
 - [Бывшая «дочка» Xerox в России намерена выпустить собственную печатную технику](https://habr.com/ru/news/936112/?utm_campaign=936112&utm_source=habrahabr&utm_medium=rss)
 - [Project Ire, ИИ-прототип от Microsoft, автономно анализирует вредоносное ПО](https://habr.com/ru/companies/bothub/news/936108/?utm_campaign=936108&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/936102/?utm_campaign=936102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
