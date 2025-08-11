@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Марк Кьюбан: если США хотят победить Китай в гонке ИИ, им нужно продолжать вкладываться в исследования](https://habr.com/ru/companies/bothub/news/935964/?utm_campaign=935964&utm_source=habrahabr&utm_medium=rss)
+- [Программный комплекс управления машиной баз данных Tantor XData внесен в реестр Минцифры](https://habr.com/ru/companies/tantor/news/935950/?utm_campaign=935950&utm_source=habrahabr&utm_medium=rss)
 - [Orion soft рассказал о результатах программы по поиску уязвимостей в zVirt](https://habr.com/ru/companies/orion_soft/news/935944/?utm_campaign=935944&utm_source=habrahabr&utm_medium=rss)
 - [Глава направления ChatGPT рассказал о единственном качестве, без которого в OpenAI не добиться успеха](https://habr.com/ru/companies/bothub/news/935924/?utm_campaign=935924&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи показали взлом бизнес-версии Windows Hello](https://habr.com/ru/news/935918/?utm_campaign=935918&utm_source=habrahabr&utm_medium=rss)
-- [Orion soft рассказал о результатах программы по поиску уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/935920/?utm_campaign=935920&utm_source=habrahabr&utm_medium=rss)
-- [Roblox ввёл новый лейбл для «деликатных тем»](https://habr.com/ru/news/935902/?utm_campaign=935902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
