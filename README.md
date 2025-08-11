@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» начал набор школьников в олимпиадные Кружки по программированию, по искусственному интеллекту и по математике](https://habr.com/ru/news/935872/?utm_campaign=935872&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft будет поддерживать Chromium Edge и PWA в Windows 10 до октября 2028 года](https://habr.com/ru/news/935866/?utm_campaign=935866&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi запретила разблокировку загрузчика на старых смартфонах](https://habr.com/ru/news/935854/?utm_campaign=935854&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Debian GNU/Hurd 2025](https://habr.com/ru/news/935852/?utm_campaign=935852&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Godot Pixel Renderer &lpar;Godot Pixel Studio&rpar;](https://habr.com/ru/news/935850/?utm_campaign=935850&utm_source=habrahabr&utm_medium=rss)
-- [Поверил Лабубу – вылетел в трубу: под брендом популярной игрушки мошенники похищают криптовалюту](https://habr.com/ru/companies/F6/news/934480/?utm_campaign=934480&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты: доступ граждан к мобильному интернету в условиях ограничений через капчу не гарантирует абсолютной защиты](https://habr.com/ru/news/935834/?utm_campaign=935834&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: операторы связи РФ попросили регуляторов заблокировать голосовые вызовы в зарубежных мессенджерах](https://habr.com/ru/news/935832/?utm_campaign=935832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
