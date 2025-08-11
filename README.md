@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox ввёл новый лейбл для «деликатных тем»](https://habr.com/ru/news/935902/?utm_campaign=935902&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia призывает ИИ-индустрию переосмыслить агентный подход в пользу компактных моделей](https://habr.com/ru/companies/bothub/news/935904/?utm_campaign=935904&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи взломали GPT-5 и предупредили о его «непригодности» для компаний](https://habr.com/ru/news/935894/?utm_campaign=935894&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» начал набор школьников в олимпиадные Кружки по программированию, по искусственному интеллекту и по математике](https://habr.com/ru/news/935872/?utm_campaign=935872&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft будет поддерживать Chromium Edge и PWA в Windows 10 до октября 2028 года](https://habr.com/ru/news/935866/?utm_campaign=935866&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi запретила разблокировку загрузчика на старых смартфонах](https://habr.com/ru/news/935854/?utm_campaign=935854&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Debian GNU/Hurd 2025](https://habr.com/ru/news/935852/?utm_campaign=935852&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Godot Pixel Renderer &lpar;Godot Pixel Studio&rpar;](https://habr.com/ru/news/935850/?utm_campaign=935850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
