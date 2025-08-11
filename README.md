@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Forbes: операторы связи РФ попросили регуляторов заблокировать голосовые вызовы в зарубежных мессенджерах](https://habr.com/ru/news/935832/?utm_campaign=935832&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор в Финляндии подтвердил запуск узла связи «Билайна» в Хельсинки для повышения скорости передачи данных](https://habr.com/ru/news/935830/?utm_campaign=935830&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.6](https://habr.com/ru/news/935722/?utm_campaign=935722&utm_source=habrahabr&utm_medium=rss)
 - [Grok 4 стал доступен бесплатно, а новая версия модели завершила пре-тренировку](https://habr.com/ru/news/935822/?utm_campaign=935822&utm_source=habrahabr&utm_medium=rss)
 - [Лимиты использования GPT-5 увеличили в 7,5 раз](https://habr.com/ru/news/935812/?utm_campaign=935812&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минцифры РФ заявил, что разработчики Max согласовали требования ФСБ](https://habr.com/ru/news/935804/?utm_campaign=935804&utm_source=habrahabr&utm_medium=rss)
-- [В ИИ-агент для программирования Jules добавили модуль-критик](https://habr.com/ru/news/935770/?utm_campaign=935770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
