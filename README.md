@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Марк Кьюбан: если США хотят победить Китай в гонке ИИ, им нужно продолжать вкладываться в исследования](https://habr.com/ru/companies/bothub/news/935964/?utm_campaign=935964&utm_source=habrahabr&utm_medium=rss)
-- [Программный комплекс управления машиной баз данных Tantor XData внесен в реестр Минцифры](https://habr.com/ru/companies/tantor/news/935950/?utm_campaign=935950&utm_source=habrahabr&utm_medium=rss)
-- [Orion soft рассказал о результатах программы по поиску уязвимостей в zVirt](https://habr.com/ru/companies/orion_soft/news/935944/?utm_campaign=935944&utm_source=habrahabr&utm_medium=rss)
-- [Глава направления ChatGPT рассказал о единственном качестве, без которого в OpenAI не добиться успеха](https://habr.com/ru/companies/bothub/news/935924/?utm_campaign=935924&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи показали взлом бизнес-версии Windows Hello](https://habr.com/ru/news/935918/?utm_campaign=935918&utm_source=habrahabr&utm_medium=rss)
+- [D-Link выпустила три маршрутизатора Wi-Fi 7 с функциями ИИ, поддержкой трёх диапазонов и 5G](https://habr.com/ru/news/936000/?utm_campaign=936000&utm_source=habrahabr&utm_medium=rss)
+- [ВТБ проводит очередной хакатон More.Tech. Как принять участие и что решать](https://habr.com/ru/companies/vtb/news/935960/?utm_campaign=935960&utm_source=habrahabr&utm_medium=rss)
+- [«КоммерсантЪ»: звонки в мессенджерах могут не работать из-за выборочных блокировок Telegram и WhatsApp](https://habr.com/ru/news/935994/?utm_campaign=935994&utm_source=habrahabr&utm_medium=rss)
+- [Стартап бывших сотрудников Google, OpenArt, теперь создает brain-rot-видео в один клик](https://habr.com/ru/companies/bothub/news/935986/?utm_campaign=935986&utm_source=habrahabr&utm_medium=rss)
+- [На Microsoft подали в суд за прекращение поддержки Windows 10 и «сознательное» создание угрозы пользовательским данным](https://habr.com/ru/news/935978/?utm_campaign=935978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
