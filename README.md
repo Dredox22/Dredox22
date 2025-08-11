@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бывшая «дочка» Xerox в России намерена выпустить собственную печатную технику](https://habr.com/ru/news/936112/?utm_campaign=936112&utm_source=habrahabr&utm_medium=rss)
+- [Project Ire, ИИ-прототип от Microsoft, автономно анализирует вредоносное ПО](https://habr.com/ru/companies/bothub/news/936108/?utm_campaign=936108&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/936102/?utm_campaign=936102&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI инвестировала в ИИ-агент для Microsoft Excel](https://habr.com/ru/companies/bothub/news/936098/?utm_campaign=936098&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость безопасности веб‑портала автопроизводителя позволяла угонять машины удалённо](https://habr.com/ru/news/936082/?utm_campaign=936082&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор представил итоги отражения DDoS‑атак и блокировки угроз в сети связи России за июль 2025 года](https://habr.com/ru/news/936074/?utm_campaign=936074&utm_source=habrahabr&utm_medium=rss)
-- [В России в третий раз прошла кибербез-премия Pentest Award](https://habr.com/ru/news/936062/?utm_campaign=936062&utm_source=habrahabr&utm_medium=rss)
-- [Eclypsium выявила уязвимости веб-камер Lenovo, позволяющие превратить их в устройства атак типа BadUSB](https://habr.com/ru/news/936050/?utm_campaign=936050&utm_source=habrahabr&utm_medium=rss)
-- [Сбер анонсировал бесконтактную оплату на iPhone](https://habr.com/ru/news/936036/?utm_campaign=936036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
