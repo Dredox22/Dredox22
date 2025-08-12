@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo может добавить крепление Joy-Con с рукояткой](https://habr.com/ru/companies/onlinepatent/news/936388/?utm_campaign=936388&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «В России представили новый отечественный мессенджер „Молния“»](https://habr.com/ru/news/936382/?utm_campaign=936382&utm_source=habrahabr&utm_medium=rss)
+- [Немецкая полиция стала активнее использовать ПО Palantir](https://habr.com/ru/news/936378/?utm_campaign=936378&utm_source=habrahabr&utm_medium=rss)
 - [Президент «Ростелекома»: компании неизвестно о просьбе операторов заблокировать звонки в мессенджерах](https://habr.com/ru/news/936358/?utm_campaign=936358&utm_source=habrahabr&utm_medium=rss)
 - [Ключевая характеристика ChatGPT-5 Thinking оказалась выше, чем в анонсе](https://habr.com/ru/news/936350/?utm_campaign=936350&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla подверглась критике за ИИ-функции в Firefox 141, которые нагружают процессор и разряжают аккумулятор](https://habr.com/ru/news/936326/?utm_campaign=936326&utm_source=habrahabr&utm_medium=rss)
-- [Instella Math: языковая модель AMD с поддержкой рассуждений](https://habr.com/ru/companies/bothub/news/936322/?utm_campaign=936322&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: Как защитить ИТ-инфраструктуру от кибератак](https://habr.com/ru/companies/Linx/news/936316/?utm_campaign=936316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
