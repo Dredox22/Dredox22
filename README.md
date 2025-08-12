@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity предложил $34,5 миллиарда за Google Chrome](https://habr.com/ru/news/936478/?utm_campaign=936478&utm_source=habrahabr&utm_medium=rss)
+- [Опубликован план развития ChatGPT и API OpenAI](https://habr.com/ru/news/936474/?utm_campaign=936474&utm_source=habrahabr&utm_medium=rss)
 - [Теперь ChatGPT-5 будет придумывать запросы за вас](https://habr.com/ru/news/936448/?utm_campaign=936448&utm_source=habrahabr&utm_medium=rss)
 - [Синхронная Kafka, не используй Spring Security, ООП — зло | Spring АйО Подкаст №30](https://habr.com/ru/companies/spring_aio/news/936114/?utm_campaign=936114&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» запустил в России 500 базовых станций компании «Булат»](https://habr.com/ru/news/936440/?utm_campaign=936440&utm_source=habrahabr&utm_medium=rss)
-- [AI VK &amp;amp; Pro — камерный ивент о RecSys](https://habr.com/ru/companies/vk/news/936420/?utm_campaign=936420&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo может добавить крепление Joy-Con с рукояткой](https://habr.com/ru/companies/onlinepatent/news/936388/?utm_campaign=936388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
