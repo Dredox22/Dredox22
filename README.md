@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз PicView 3.2 — открытого просмотрщика изображений для ПК на Windows 10/11 и macOS](https://habr.com/ru/news/936012/?utm_campaign=936012&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый видеотранскодер HandBrake 1.10.0](https://habr.com/ru/news/936040/?utm_campaign=936040&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого аудиоплеера Amarok 3.3.1](https://habr.com/ru/news/935958/?utm_campaign=935958&utm_source=habrahabr&utm_medium=rss)
-- [ИИ от OpenAI взял «золото» Международной олимпиады по информатике](https://habr.com/ru/news/936160/?utm_campaign=936160&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» запустил серийное производство российского спецклея для производства защищённой электроники](https://habr.com/ru/news/936132/?utm_campaign=936132&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость в коде Microsoft NLWeb позволяла получать доступ к файлам на удалённом компьютере](https://habr.com/ru/news/936188/?utm_campaign=936188&utm_source=habrahabr&utm_medium=rss)
+- [Обновления безопасности для Windows 10 будут распространяться на 10 устройств в одной учётной записи Microsoft](https://habr.com/ru/news/936186/?utm_campaign=936186&utm_source=habrahabr&utm_medium=rss)
+- [Система поиска уязвимостей с ИИ Google Big Sleep обнаружила 20 багов в опенсорсных проектах](https://habr.com/ru/news/936176/?utm_campaign=936176&utm_source=habrahabr&utm_medium=rss)
+- [Дуров: команда мессенджера Telegram не допустит шантажа и доксинга на платформе](https://habr.com/ru/news/936190/?utm_campaign=936190&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft снизила количество уведомлений SCOOBE при установке Windows 11](https://habr.com/ru/news/936174/?utm_campaign=936174&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
