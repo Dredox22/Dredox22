@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic увеличивает контекстное окно Claude Sonnet 4 до 1 000 000 токенов](https://habr.com/ru/companies/bothub/news/936506/?utm_campaign=936506&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила собственный Python-драйвер для MS SQL, в тестах он быстрее pyodbc](https://habr.com/ru/news/936496/?utm_campaign=936496&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity предложил $34,5 миллиарда за Google Chrome](https://habr.com/ru/news/936478/?utm_campaign=936478&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован план развития ChatGPT и API OpenAI](https://habr.com/ru/news/936474/?utm_campaign=936474&utm_source=habrahabr&utm_medium=rss)
 - [Теперь ChatGPT-5 будет придумывать запросы за вас](https://habr.com/ru/news/936448/?utm_campaign=936448&utm_source=habrahabr&utm_medium=rss)
-- [Синхронная Kafka, не используй Spring Security, ООП — зло | Spring АйО Подкаст №30](https://habr.com/ru/companies/spring_aio/news/936114/?utm_campaign=936114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
