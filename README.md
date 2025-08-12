@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI VK &amp;amp; Pro — камерный ивент о RecSys](https://habr.com/ru/companies/vk/news/936420/?utm_campaign=936420&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo может добавить крепление Joy-Con с рукояткой](https://habr.com/ru/companies/onlinepatent/news/936388/?utm_campaign=936388&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «В России представили новый отечественный мессенджер „Молния“»](https://habr.com/ru/news/936382/?utm_campaign=936382&utm_source=habrahabr&utm_medium=rss)
 - [Немецкая полиция стала активнее использовать ПО Palantir](https://habr.com/ru/news/936378/?utm_campaign=936378&utm_source=habrahabr&utm_medium=rss)
 - [Президент «Ростелекома»: компании неизвестно о просьбе операторов заблокировать звонки в мессенджерах](https://habr.com/ru/news/936358/?utm_campaign=936358&utm_source=habrahabr&utm_medium=rss)
-- [Ключевая характеристика ChatGPT-5 Thinking оказалась выше, чем в анонсе](https://habr.com/ru/news/936350/?utm_campaign=936350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
