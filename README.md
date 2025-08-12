@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-индустрия предупреждает, что новый иск способен уничтожить её полностью](https://habr.com/ru/companies/bothub/news/936262/?utm_campaign=936262&utm_source=habrahabr&utm_medium=rss)
 - [F6 и hoster.by договорились защищать клиентов от киберугроз в России и Беларуси](https://habr.com/ru/companies/F6/news/936020/?utm_campaign=936020&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск грозится подать на Apple в суд из-за низкой позиции Grok в App Store](https://habr.com/ru/companies/bothub/news/936228/?utm_campaign=936228&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за июль 2025](https://habr.com/ru/companies/ussc/news/936220/?utm_campaign=936220&utm_source=habrahabr&utm_medium=rss)
 - [Для Linux вышел патч для поддержки Logitech G13, спустя 17 лет после выпуска игровой клавиатуры для левой руки](https://habr.com/ru/news/936208/?utm_campaign=936208&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость в коде Microsoft NLWeb позволяла получать доступ к файлам на удалённом компьютере](https://habr.com/ru/news/936188/?utm_campaign=936188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
