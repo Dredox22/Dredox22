@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонсирован выход игры «Бессмертный. Сказки старой Руси» на консолях](https://habr.com/ru/news/936918/?utm_campaign=936918&utm_source=habrahabr&utm_medium=rss)
+- [Google нашла причину «нервных срывов» ИИ Gemini 2.5](https://habr.com/ru/news/936910/?utm_campaign=936910&utm_source=habrahabr&utm_medium=rss)
 - [«Машина делает это лучше»: почему университетам стоит менять подходы в эпоху ИИ](https://habr.com/ru/companies/bothub/news/936900/?utm_campaign=936900&utm_source=habrahabr&utm_medium=rss)
 - [Ассоциация туроператоров России &lpar;АТОР&rpar;: для связи туристам за рубежом нужно с запасом пополнить счёт телефона](https://habr.com/ru/news/936890/?utm_campaign=936890&utm_source=habrahabr&utm_medium=rss)
 - [Apple отвергает обвинения Маска, защищая честность рейтингов ИИ-приложений](https://habr.com/ru/companies/bothub/news/936880/?utm_campaign=936880&utm_source=habrahabr&utm_medium=rss)
-- [Меньше транзисторов — больше мощности: дата-центры NeoLogic без прожорливых чипов](https://habr.com/ru/companies/bothub/news/936860/?utm_campaign=936860&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram ответили на решение о блокировке звонков для российских пользователей](https://habr.com/ru/news/936854/?utm_campaign=936854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
