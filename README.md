@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Энтузиаст встроил нейромышечный аим‑ассист на свои руки](https://habr.com/ru/news/936820/?utm_campaign=936820&utm_source=habrahabr&utm_medium=rss)
+- [Российский аналог Jira от EvaTeam обновлен до версии 2.30](https://habr.com/ru/companies/evateam/news/936834/?utm_campaign=936834&utm_source=habrahabr&utm_medium=rss)
+- [РКН объявил о блокировке звонков в Telegram и WhatsApp. Звонки восстановят, если мессенджеры «выполнят требования»](https://habr.com/ru/news/936830/?utm_campaign=936830&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст встроил «нейромышечный аим‑ассист» в собственные руки](https://habr.com/ru/news/936820/?utm_campaign=936820&utm_source=habrahabr&utm_medium=rss)
 - [США тайно встраивают трекеры в поставки AI-чипов Nvidia и AMD для пресечения нелегального экспорта в Китай](https://habr.com/ru/news/936786/?utm_campaign=936786&utm_source=habrahabr&utm_medium=rss)
 - [США устанавливают устройства слежения за партиями ИИ-ускорителей, которые могут доставить компаниям КНР в обход санкций](https://habr.com/ru/news/936784/?utm_campaign=936784&utm_source=habrahabr&utm_medium=rss)
-- [«Биржа ИБ- и IT-стартапов»: объявлен состав экспертного совета](https://habr.com/ru/companies/gaz-is/news/936778/?utm_campaign=936778&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte запускает обновленный образовательный ретрит по работе с FineBI](https://habr.com/ru/companies/glowbyte/news/936772/?utm_campaign=936772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
