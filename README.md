@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск сборочной системы CMake 4.1.0](https://habr.com/ru/news/936432/?utm_campaign=936432&utm_source=habrahabr&utm_medium=rss)
+- [Релиз СУБД Redis 8.2](https://habr.com/ru/news/936264/?utm_campaign=936264&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Glow 25.09 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/936484/?utm_campaign=936484&utm_source=habrahabr&utm_medium=rss)
+- [Релиз NETworkManager 2025.8.10.0 — инструмента для управления сетями и устранения сетевых неполадок в Windows 10/11](https://habr.com/ru/news/936438/?utm_campaign=936438&utm_source=habrahabr&utm_medium=rss)
 - [Взрослые против алгоритмов: на YouTube назревает бунт](https://habr.com/ru/companies/bothub/news/936546/?utm_campaign=936546&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-камеры на заводах Ford ловят дефекты, которые сложно заметить](https://habr.com/ru/companies/bothub/news/936540/?utm_campaign=936540&utm_source=habrahabr&utm_medium=rss)
-- [ИИ возьмёт под контроль мозговые волны пациентов в реанимации](https://habr.com/ru/companies/bothub/news/936532/?utm_campaign=936532&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 тестирует «компаньонов» для панели задач — возможно, это новый ИИ-инструмент](https://habr.com/ru/companies/bothub/news/936520/?utm_campaign=936520&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic увеличивает контекстное окно Claude Sonnet 4 до 1 000 000 токенов](https://habr.com/ru/companies/bothub/news/936506/?utm_campaign=936506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
