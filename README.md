@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Морщинам здесь не место: под брендом «Здоровая Россия» мошенники предлагают препараты-пустышки](https://habr.com/ru/companies/F6/news/936248/?utm_campaign=936248&utm_source=habrahabr&utm_medium=rss)
 - [LFM2-VL: компактный ИИ от Liquid AI, который помещается в смартфон](https://habr.com/ru/companies/bothub/news/936604/?utm_campaign=936604&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила ИИ-агента Project Ire для поиска скрытых вредоносов](https://habr.com/ru/news/936598/?utm_campaign=936598&utm_source=habrahabr&utm_medium=rss)
 - [Моделирование в мясопереработке: неожиданный успешный пример применения Engee](https://habr.com/ru/companies/etmc_exponenta/news/936286/?utm_campaign=936286&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили атаку Volt Boot для встроенной памяти](https://habr.com/ru/news/936592/?utm_campaign=936592&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Go 1.25](https://habr.com/ru/news/936588/?utm_campaign=936588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
