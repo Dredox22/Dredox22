@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Авито» объявил о создании собственного научного отдела для исследования и разработки передовых ИИ‑технологий](https://habr.com/ru/news/936686/?utm_campaign=936686&utm_source=habrahabr&utm_medium=rss)
+- [Starlink заработал в Казахстане](https://habr.com/ru/news/936682/?utm_campaign=936682&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытой P2P-системы синхронизации файлов Syncthing 2.0](https://habr.com/ru/news/936680/?utm_campaign=936680&utm_source=habrahabr&utm_medium=rss)
+- [На сайте сервиса доставки багажа Airportr нашли серьёзные уязвимости, которые позволяли красть и перенаправлять багаж](https://habr.com/ru/news/936678/?utm_campaign=936678&utm_source=habrahabr&utm_medium=rss)
 - [Морщинам здесь не место: под брендом «Здоровая Россия» мошенники предлагают препараты-пустышки](https://habr.com/ru/companies/F6/news/936248/?utm_campaign=936248&utm_source=habrahabr&utm_medium=rss)
-- [LFM2-VL: компактный ИИ от Liquid AI, который помещается в смартфон](https://habr.com/ru/companies/bothub/news/936604/?utm_campaign=936604&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила ИИ-агента Project Ire для поиска скрытых вредоносов](https://habr.com/ru/news/936598/?utm_campaign=936598&utm_source=habrahabr&utm_medium=rss)
-- [Моделирование в мясопереработке: неожиданный успешный пример применения Engee](https://habr.com/ru/companies/etmc_exponenta/news/936286/?utm_campaign=936286&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили атаку Volt Boot для встроенной памяти](https://habr.com/ru/news/936592/?utm_campaign=936592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
