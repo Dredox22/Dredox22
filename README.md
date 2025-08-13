@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ассоциация туроператоров России &lpar;АТОР&rpar;: для связи туристам за рубежом нужно с запасом пополнить счёт телефона](https://habr.com/ru/news/936890/?utm_campaign=936890&utm_source=habrahabr&utm_medium=rss)
+- [Apple отвергает обвинения Маска, защищая честность рейтингов ИИ-приложений](https://habr.com/ru/companies/bothub/news/936880/?utm_campaign=936880&utm_source=habrahabr&utm_medium=rss)
 - [Меньше транзисторов — больше мощности: дата-центры NeoLogic без прожорливых чипов](https://habr.com/ru/companies/bothub/news/936860/?utm_campaign=936860&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram ответили на решение о блокировке звонков для российских пользователей](https://habr.com/ru/news/936854/?utm_campaign=936854&utm_source=habrahabr&utm_medium=rss)
 - [Альтернативы для общения через мессенджеры и сервисы после блокировки вызовов в Telegram и WhatsApp](https://habr.com/ru/news/936848/?utm_campaign=936848&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: решение РКН ограничить голосовые вызовы в иностранных мессенджерах сможет снизить мошеннических вызовов](https://habr.com/ru/news/936842/?utm_campaign=936842&utm_source=habrahabr&utm_medium=rss)
-- [Российский аналог Jira от EvaTeam обновлен до версии 2.30](https://habr.com/ru/companies/evateam/news/936834/?utm_campaign=936834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
