@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Меню выбора моделей ChatGPT вернулось — и всё запутаннее, чем кажется](https://habr.com/ru/companies/bothub/news/936558/?utm_campaign=936558&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск сборочной системы CMake 4.1.0](https://habr.com/ru/news/936432/?utm_campaign=936432&utm_source=habrahabr&utm_medium=rss)
 - [Релиз СУБД Redis 8.2](https://habr.com/ru/news/936264/?utm_campaign=936264&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Glow 25.09 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/936484/?utm_campaign=936484&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NETworkManager 2025.8.10.0 — инструмента для управления сетями и устранения сетевых неполадок в Windows 10/11](https://habr.com/ru/news/936438/?utm_campaign=936438&utm_source=habrahabr&utm_medium=rss)
-- [Взрослые против алгоритмов: на YouTube назревает бунт](https://habr.com/ru/companies/bothub/news/936546/?utm_campaign=936546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
