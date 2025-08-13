@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сэм Альтман и Илон Маск поругались в X. Их ИИ не поддержали своих создателей](https://habr.com/ru/news/936750/?utm_campaign=936750&utm_source=habrahabr&utm_medium=rss)
-- [Объявляем о массовых поставках платформ UserGate E1010, E3010 и F8010](https://habr.com/ru/companies/usergate/news/936738/?utm_campaign=936738&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик подстроил график своего сна к сессиям ИИ‑ассистента Claude: 1–3 часа работы, потом сон на несколько часов](https://habr.com/ru/news/936740/?utm_campaign=936740&utm_source=habrahabr&utm_medium=rss)
-- [APT-группировки стали чаще использовать фишинг даже в сложных атаках](https://habr.com/ru/companies/pt/news/936442/?utm_campaign=936442&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Браузер начал показывать рекламу в push-уведомлениях](https://habr.com/ru/news/936716/?utm_campaign=936716&utm_source=habrahabr&utm_medium=rss)
+- [США тайно встраивают трекеры в поставки AI-чипов Nvidia и AMD для пресечения нелегального экспорта в Китай](https://habr.com/ru/news/936786/?utm_campaign=936786&utm_source=habrahabr&utm_medium=rss)
+- [США устанавливают устройства слежения за партиями ИИ-ускорителей, которые могут доставить компаниям КНР в обход санкций](https://habr.com/ru/news/936784/?utm_campaign=936784&utm_source=habrahabr&utm_medium=rss)
+- [«Биржа ИБ- и IT-стартапов»: объявлен состав экспертного совета](https://habr.com/ru/companies/gaz-is/news/936778/?utm_campaign=936778&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte запускает обновленный образовательный ретрит по работе с FineBI](https://habr.com/ru/companies/glowbyte/news/936772/?utm_campaign=936772&utm_source=habrahabr&utm_medium=rss)
+- [MWS GPT теперь поддерживает все популярные open source LLM с мультиагентными и low-code возможностями](https://habr.com/ru/companies/mws/news/919162/?utm_campaign=919162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
