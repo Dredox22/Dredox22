@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Go 1.25](https://habr.com/ru/news/936588/?utm_campaign=936588&utm_source=habrahabr&utm_medium=rss)
+- [Вышел CrossOver 25.1.0 для macOS и Linux](https://habr.com/ru/news/936574/?utm_campaign=936574&utm_source=habrahabr&utm_medium=rss)
+- [Google представила опцию «Предпочтительные источники» для выбора новостных сайтов и блогов в результатах поиска](https://habr.com/ru/news/936568/?utm_campaign=936568&utm_source=habrahabr&utm_medium=rss)
 - [Меню выбора моделей ChatGPT вернулось — и всё запутаннее, чем кажется](https://habr.com/ru/companies/bothub/news/936558/?utm_campaign=936558&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск сборочной системы CMake 4.1.0](https://habr.com/ru/news/936432/?utm_campaign=936432&utm_source=habrahabr&utm_medium=rss)
-- [Релиз СУБД Redis 8.2](https://habr.com/ru/news/936264/?utm_campaign=936264&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Glow 25.09 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/936484/?utm_campaign=936484&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NETworkManager 2025.8.10.0 — инструмента для управления сетями и устранения сетевых неполадок в Windows 10/11](https://habr.com/ru/news/936438/?utm_campaign=936438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
