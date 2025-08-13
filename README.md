@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [LFM2-VL: компактный ИИ от Liquid AI, который помещается в смартфон](https://habr.com/ru/companies/bothub/news/936604/?utm_campaign=936604&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила ИИ-агента Project Ire для поиска скрытых вредоносов](https://habr.com/ru/news/936598/?utm_campaign=936598&utm_source=habrahabr&utm_medium=rss)
+- [Моделирование в мясопереработке: неожиданный успешный пример применения Engee](https://habr.com/ru/companies/etmc_exponenta/news/936286/?utm_campaign=936286&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи представили атаку Volt Boot для встроенной памяти](https://habr.com/ru/news/936592/?utm_campaign=936592&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Go 1.25](https://habr.com/ru/news/936588/?utm_campaign=936588&utm_source=habrahabr&utm_medium=rss)
-- [Вышел CrossOver 25.1.0 для macOS и Linux](https://habr.com/ru/news/936574/?utm_campaign=936574&utm_source=habrahabr&utm_medium=rss)
-- [Google представила опцию «Предпочтительные источники» для выбора новостных сайтов и блогов в результатах поиска](https://habr.com/ru/news/936568/?utm_campaign=936568&utm_source=habrahabr&utm_medium=rss)
-- [Меню выбора моделей ChatGPT вернулось — и всё запутаннее, чем кажется](https://habr.com/ru/companies/bothub/news/936558/?utm_campaign=936558&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск сборочной системы CMake 4.1.0](https://habr.com/ru/news/936432/?utm_campaign=936432&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
