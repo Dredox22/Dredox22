@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity хочет купить Chrome за $34,5 млрд: сможет ли стартап перевернуть рынок браузеров?](https://habr.com/ru/companies/finam_broker/news/936836/?utm_campaign=936836&utm_source=habrahabr&utm_medium=rss)
 - [Анонсирован выход игры «Бессмертный. Сказки старой Руси» на консолях](https://habr.com/ru/news/936918/?utm_campaign=936918&utm_source=habrahabr&utm_medium=rss)
 - [Google нашла причину «нервных срывов» ИИ Gemini 2.5](https://habr.com/ru/news/936910/?utm_campaign=936910&utm_source=habrahabr&utm_medium=rss)
 - [«Машина делает это лучше»: почему университетам стоит менять подходы в эпоху ИИ](https://habr.com/ru/companies/bothub/news/936900/?utm_campaign=936900&utm_source=habrahabr&utm_medium=rss)
 - [Ассоциация туроператоров России &lpar;АТОР&rpar;: для связи туристам за рубежом нужно с запасом пополнить счёт телефона](https://habr.com/ru/news/936890/?utm_campaign=936890&utm_source=habrahabr&utm_medium=rss)
-- [Apple отвергает обвинения Маска, защищая честность рейтингов ИИ-приложений](https://habr.com/ru/companies/bothub/news/936880/?utm_campaign=936880&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
