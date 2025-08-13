@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Меньше транзисторов — больше мощности: дата-центры NeoLogic без прожорливых чипов](https://habr.com/ru/companies/bothub/news/936860/?utm_campaign=936860&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram ответили на решение о блокировке звонков для российских пользователей](https://habr.com/ru/news/936854/?utm_campaign=936854&utm_source=habrahabr&utm_medium=rss)
+- [Альтернативы для общения через мессенджеры и сервисы после блокировки вызовов в Telegram и WhatsApp](https://habr.com/ru/news/936848/?utm_campaign=936848&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: решение РКН ограничить голосовые вызовы в иностранных мессенджерах сможет снизить мошеннических вызовов](https://habr.com/ru/news/936842/?utm_campaign=936842&utm_source=habrahabr&utm_medium=rss)
 - [Российский аналог Jira от EvaTeam обновлен до версии 2.30](https://habr.com/ru/companies/evateam/news/936834/?utm_campaign=936834&utm_source=habrahabr&utm_medium=rss)
-- [РКН объявил о блокировке звонков в Telegram и WhatsApp. Звонки восстановят, если мессенджеры «выполнят требования»](https://habr.com/ru/news/936830/?utm_campaign=936830&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст встроил «нейромышечный аим‑ассист» в собственные руки](https://habr.com/ru/news/936820/?utm_campaign=936820&utm_source=habrahabr&utm_medium=rss)
-- [США тайно встраивают трекеры в поставки AI-чипов Nvidia и AMD для пресечения нелегального экспорта в Китай](https://habr.com/ru/news/936786/?utm_campaign=936786&utm_source=habrahabr&utm_medium=rss)
-- [США устанавливают устройства слежения за партиями ИИ-ускорителей, которые могут доставить компаниям КНР в обход санкций](https://habr.com/ru/news/936784/?utm_campaign=936784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
