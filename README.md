@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман и Илон Маск поругались в X. Их ИИ не поддержали своих создателей](https://habr.com/ru/news/936750/?utm_campaign=936750&utm_source=habrahabr&utm_medium=rss)
+- [Объявляем о массовых поставках платформ UserGate E1010, E3010 и F8010](https://habr.com/ru/companies/usergate/news/936738/?utm_campaign=936738&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик подстроил график своего сна к сессиям ИИ‑ассистента Claude: 1–3 часа работы, потом сон на несколько часов](https://habr.com/ru/news/936740/?utm_campaign=936740&utm_source=habrahabr&utm_medium=rss)
 - [APT-группировки стали чаще использовать фишинг даже в сложных атаках](https://habr.com/ru/companies/pt/news/936442/?utm_campaign=936442&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Браузер начал показывать рекламу в push-уведомлениях](https://habr.com/ru/news/936716/?utm_campaign=936716&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft изменит способ отправки писем в Outlook](https://habr.com/ru/news/936704/?utm_campaign=936704&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия инструмента мониторинга HWiNFO 8.30](https://habr.com/ru/news/936702/?utm_campaign=936702&utm_source=habrahabr&utm_medium=rss)
-- [«Авито» объявил о создании собственного научного отдела для исследования и разработки передовых ИИ‑технологий](https://habr.com/ru/news/936686/?utm_campaign=936686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
