@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [APT-группировки стали чаще использовать фишинг даже в сложных атаках](https://habr.com/ru/companies/pt/news/936442/?utm_campaign=936442&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Браузер начал показывать рекламу в push-уведомлениях](https://habr.com/ru/news/936716/?utm_campaign=936716&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft изменит способ отправки писем в Outlook](https://habr.com/ru/news/936704/?utm_campaign=936704&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия инструмента мониторинга HWiNFO 8.30](https://habr.com/ru/news/936702/?utm_campaign=936702&utm_source=habrahabr&utm_medium=rss)
 - [«Авито» объявил о создании собственного научного отдела для исследования и разработки передовых ИИ‑технологий](https://habr.com/ru/news/936686/?utm_campaign=936686&utm_source=habrahabr&utm_medium=rss)
-- [Starlink заработал в Казахстане](https://habr.com/ru/news/936682/?utm_campaign=936682&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой P2P-системы синхронизации файлов Syncthing 2.0](https://habr.com/ru/news/936680/?utm_campaign=936680&utm_source=habrahabr&utm_medium=rss)
-- [На сайте сервиса доставки багажа Airportr нашли серьёзные уязвимости, которые позволяли красть и перенаправлять багаж](https://habr.com/ru/news/936678/?utm_campaign=936678&utm_source=habrahabr&utm_medium=rss)
-- [Морщинам здесь не место: под брендом «Здоровая Россия» мошенники предлагают препараты-пустышки](https://habr.com/ru/companies/F6/news/936248/?utm_campaign=936248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
