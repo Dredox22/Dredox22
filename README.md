@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ Google Gemini 2.5 Pro получил функцию расширенной памяти](https://habr.com/ru/news/937276/?utm_campaign=937276&utm_source=habrahabr&utm_medium=rss)
+- [Правильное внедрение BI: почему одни проекты проваливаются, а другие приносят результат](https://habr.com/ru/companies/luxms_bi/news/937260/?utm_campaign=937260&utm_source=habrahabr&utm_medium=rss)
 - [Специалист Positive Technologies нашёл новую уязвимость в ОС Windows для компьютеров и серверов](https://habr.com/ru/news/937248/?utm_campaign=937248&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.38: новое ядро C++ анализатора, пользовательские аннотации в Java, улучшение taint-анализа и многое другое](https://habr.com/ru/companies/pvs-studio/news/937244/?utm_campaign=937244&utm_source=habrahabr&utm_medium=rss)
 - [НАСА развязало гонку за разработку канала передачи данных на Марс](https://habr.com/ru/news/937214/?utm_campaign=937214&utm_source=habrahabr&utm_medium=rss)
-- [Российские компании ограничивают общение сотрудников в мессенджерах: всё переводят на корпоративные платформы](https://habr.com/ru/news/937200/?utm_campaign=937200&utm_source=habrahabr&utm_medium=rss)
-- [VK: центр безопасности Max в июле заблокировал более 10 тыс. телефонных номеров мошенников](https://habr.com/ru/news/937138/?utm_campaign=937138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
