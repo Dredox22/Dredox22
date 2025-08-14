@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Wildberries &amp;amp; Russ приглашает на RecSys Meetup / 28 августа, 18:00](https://habr.com/ru/companies/wildberries/news/936928/?utm_campaign=936928&utm_source=habrahabr&utm_medium=rss)
+- [brs-xss — один из лучших open source инструментов для автоматизированного поиска XSS](https://habr.com/ru/news/937116/?utm_campaign=937116&utm_source=habrahabr&utm_medium=rss)
+- [«Элемент» приобрел контрольный пакет в «Оптических Технологиях»: разбираемся с их патентным портфелем](https://habr.com/ru/companies/onlinepatent/news/937112/?utm_campaign=937112&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek R2 задерживается из-за отсталости китайских чипов — FT](https://habr.com/ru/news/937104/?utm_campaign=937104&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на митап «Мир С++» в Санкт-Петербурге](https://habr.com/ru/companies/pvs-studio/news/937088/?utm_campaign=937088&utm_source=habrahabr&utm_medium=rss)
-- [Apple приступила к тестированию поддержки Douyin Pay](https://habr.com/ru/news/937078/?utm_campaign=937078&utm_source=habrahabr&utm_medium=rss)
-- [Россия заняла второе место в мире по утечкам из медицинских организаций](https://habr.com/ru/companies/infowatch/news/937060/?utm_campaign=937060&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует сервис Windows 365 Reserve с доступом к облачным резервным ПК](https://habr.com/ru/news/936956/?utm_campaign=936956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
