@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты пояснили, как технически организована блокировка звонков через мессенджеры Telegram и WhatsApp](https://habr.com/ru/news/937004/?utm_campaign=937004&utm_source=habrahabr&utm_medium=rss)
+- [За сутки трафик в сетях операторов РФ вырос в ряде регионов на 25%, а в среднем по стране — на 9%](https://habr.com/ru/news/937002/?utm_campaign=937002&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp ответили на решение о блокировке звонков для российских пользователей](https://habr.com/ru/news/937000/?utm_campaign=937000&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux-дистрибутив для анонимных коммуникаций Whonix 17.4](https://habr.com/ru/news/936720/?utm_campaign=936720&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Media Player Classic — Home Cinema 2.5.2](https://habr.com/ru/news/936758/?utm_campaign=936758&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый инструментарий с комплектом аудиопрограмм в одном приложении KataLib 4.5.5.0 для Windows](https://habr.com/ru/news/936748/?utm_campaign=936748&utm_source=habrahabr&utm_medium=rss)
-- [Модель MolmoAct от Ai2, мыслящая в 3D, бросает вызов Nvidia и Google](https://habr.com/ru/companies/bothub/news/936980/?utm_campaign=936980&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
