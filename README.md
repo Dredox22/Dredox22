@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-ботов заселили в соцсеть — и она мгновенно превратилась в токсичное болото](https://habr.com/ru/companies/bothub/news/937308/?utm_campaign=937308&utm_source=habrahabr&utm_medium=rss)
+- [«Атом» представил свою версию электромобиля для такси](https://habr.com/ru/news/937306/?utm_campaign=937306&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 прошла Pokemon Red почти в три раза быстрее GPT o3](https://habr.com/ru/news/937292/?utm_campaign=937292&utm_source=habrahabr&utm_medium=rss)
 - [WSJ: лидерство Китая в области ИИ с открытым исходным кодом потрясло Вашингтон и Кремниевую долину](https://habr.com/ru/news/937280/?utm_campaign=937280&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Google Gemini 2.5 Pro получил функцию расширенной памяти](https://habr.com/ru/news/937276/?utm_campaign=937276&utm_source=habrahabr&utm_medium=rss)
-- [Правильное внедрение BI: почему одни проекты проваливаются, а другие приносят результат](https://habr.com/ru/companies/luxms_bi/news/937260/?utm_campaign=937260&utm_source=habrahabr&utm_medium=rss)
-- [Специалист Positive Technologies нашёл новую уязвимость в ОС Windows для компьютеров и серверов](https://habr.com/ru/news/937248/?utm_campaign=937248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
