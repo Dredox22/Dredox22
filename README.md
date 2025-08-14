@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель MolmoAct от Ai2, мыслящая в 3D, бросает вызов Nvidia и Google](https://habr.com/ru/companies/bothub/news/936980/?utm_campaign=936980&utm_source=habrahabr&utm_medium=rss)
+- [Rubin, новое поколение видеокарт Nvidia, может задержаться из-за переработки архитектуры](https://habr.com/ru/companies/bothub/news/936974/?utm_campaign=936974&utm_source=habrahabr&utm_medium=rss)
 - [После релиза GPT-5 Сэм Альтман назвал AGI «не очень полезным термином»](https://habr.com/ru/news/936958/?utm_campaign=936958&utm_source=habrahabr&utm_medium=rss)
 - [Android pKVM официально достиг сертификации уровня SESIP 5](https://habr.com/ru/news/936944/?utm_campaign=936944&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удаляет PowerShell 2.0 из Windows 11 и Windows Server](https://habr.com/ru/news/936754/?utm_campaign=936754&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity хочет купить Chrome за $34,5 млрд: сможет ли стартап перевернуть рынок браузеров?](https://habr.com/ru/companies/finam_broker/news/936836/?utm_campaign=936836&utm_source=habrahabr&utm_medium=rss)
-- [Анонсирован выход игры «Бессмертный. Сказки старой Руси» на консолях](https://habr.com/ru/news/936918/?utm_campaign=936918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
