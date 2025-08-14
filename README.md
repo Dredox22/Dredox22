@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft тестирует сервис Windows 365 Reserve с доступом к облачным резервным ПК](https://habr.com/ru/news/936956/?utm_campaign=936956&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты по ИБ из МТС: в мессенджере Max появились первые мошенники, которые тестируют новые схемы обмана пользователей](https://habr.com/ru/news/937022/?utm_campaign=937022&utm_source=habrahabr&utm_medium=rss)
 - [Excel учится анализировать изображения с помощью Python](https://habr.com/ru/news/937014/?utm_campaign=937014&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Normal Computing представил первый в мире термодинамический вычислительный чип](https://habr.com/ru/news/937012/?utm_campaign=937012&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует блокировку скриптов в стиле Safari в режиме инкогнито Chrome на Windows 11](https://habr.com/ru/news/937008/?utm_campaign=937008&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты пояснили, как технически организована блокировка звонков через мессенджеры Telegram и WhatsApp](https://habr.com/ru/news/937004/?utm_campaign=937004&utm_source=habrahabr&utm_medium=rss)
-- [За сутки трафик в сетях операторов РФ вырос в ряде регионов на 25%, а в среднем по стране — на 9%](https://habr.com/ru/news/937002/?utm_campaign=937002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
