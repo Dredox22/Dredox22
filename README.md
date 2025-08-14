@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалист Positive Technologies нашёл новую уязвимость в ОС Windows для компьютеров и серверов](https://habr.com/ru/news/937248/?utm_campaign=937248&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.38: новое ядро C++ анализатора, пользовательские аннотации в Java, улучшение taint-анализа и многое другое](https://habr.com/ru/companies/pvs-studio/news/937244/?utm_campaign=937244&utm_source=habrahabr&utm_medium=rss)
 - [НАСА развязало гонку за разработку канала передачи данных на Марс](https://habr.com/ru/news/937214/?utm_campaign=937214&utm_source=habrahabr&utm_medium=rss)
 - [Российские компании ограничивают общение сотрудников в мессенджерах: всё переводят на корпоративные платформы](https://habr.com/ru/news/937200/?utm_campaign=937200&utm_source=habrahabr&utm_medium=rss)
 - [VK: центр безопасности Max в июле заблокировал более 10 тыс. телефонных номеров мошенников](https://habr.com/ru/news/937138/?utm_campaign=937138&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries &amp;amp; Russ приглашает на RecSys Meetup / 28 августа, 18:00](https://habr.com/ru/companies/wildberries/news/936928/?utm_campaign=936928&utm_source=habrahabr&utm_medium=rss)
-- [«Элемент» приобрел контрольный пакет в «Оптических Технологиях»: разбираемся с их патентным портфелем](https://habr.com/ru/companies/onlinepatent/news/937112/?utm_campaign=937112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
