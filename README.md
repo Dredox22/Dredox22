@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-ботов заселили в соцсеть — и она мгновенно превратилась в токсичное болото](https://habr.com/ru/companies/bothub/news/937308/?utm_campaign=937308&utm_source=habrahabr&utm_medium=rss)
-- [«Атом» представил свою версию электромобиля для такси](https://habr.com/ru/news/937306/?utm_campaign=937306&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 прошла Pokemon Red почти в три раза быстрее GPT o3](https://habr.com/ru/news/937292/?utm_campaign=937292&utm_source=habrahabr&utm_medium=rss)
-- [WSJ: лидерство Китая в области ИИ с открытым исходным кодом потрясло Вашингтон и Кремниевую долину](https://habr.com/ru/news/937280/?utm_campaign=937280&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Google Gemini 2.5 Pro получил функцию расширенной памяти](https://habr.com/ru/news/937276/?utm_campaign=937276&utm_source=habrahabr&utm_medium=rss)
+- [Google отказывается от поддержки Android 5 Lollipop](https://habr.com/ru/news/937332/?utm_campaign=937332&utm_source=habrahabr&utm_medium=rss)
+- [Стабильная Android Studio каждый месяц. Но зачем…](https://habr.com/ru/news/937326/?utm_campaign=937326&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователь xAI Игорь Бабушкин уходит из компании Илона Маска ради безопасного ИИ](https://habr.com/ru/news/937324/?utm_campaign=937324&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиасты нашли лучшую версию GPT-5. Для этого пришлось идти на обман](https://habr.com/ru/news/937322/?utm_campaign=937322&utm_source=habrahabr&utm_medium=rss)
+- [Ctrl+F для отпуска: Google добавил в Flights умный ИИ-поиск дешевых авиарейсов](https://habr.com/ru/companies/bothub/news/937320/?utm_campaign=937320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
