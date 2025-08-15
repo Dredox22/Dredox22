@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пенсионер в США поверил в реальность ИИ-персонажа и стал жертвой несчастного случая](https://habr.com/ru/news/937432/?utm_campaign=937432&utm_source=habrahabr&utm_medium=rss)
+- [В США создан Project ATOM— инициатива по разработке мощных открытых ИИ-моделей](https://habr.com/ru/news/937430/?utm_campaign=937430&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 получит новые контекстное меню для «Блокнота»](https://habr.com/ru/news/937422/?utm_campaign=937422&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила индикатор громкости микрофона в Teams](https://habr.com/ru/news/937420/?utm_campaign=937420&utm_source=habrahabr&utm_medium=rss)
 - [Мошенникам вход воспрещён: как устроен антифрод](https://habr.com/ru/companies/F6/news/936662/?utm_campaign=936662&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «От кода до запуска: российский стек для Java — Axiom JDK и OpenIDE»](https://habr.com/ru/companies/axiomjdk/news/937296/?utm_campaign=937296&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» перезапустил сервис для измерения скорости интернета «Интернетометр»](https://habr.com/ru/news/937406/?utm_campaign=937406&utm_source=habrahabr&utm_medium=rss)
-- [VK: в мессенджере Max появился безопасный режим &lpar;запрет вызовов&rpar; и защита от подозрительных контактов и контента](https://habr.com/ru/news/937398/?utm_campaign=937398&utm_source=habrahabr&utm_medium=rss)
-- [В Китае готовятся выпустить SSD-накопители настолько компактного размера, что их можно будет вставить как SIM-карту](https://habr.com/ru/news/937386/?utm_campaign=937386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
