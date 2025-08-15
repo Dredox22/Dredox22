@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI открывает, Китай ускоряется — гонка за открытый ИИ продолжается](https://habr.com/ru/companies/bothub/news/937626/?utm_campaign=937626&utm_source=habrahabr&utm_medium=rss)
+- [«Росэл» заявил о серийном выпуске защищённых компьютеров](https://habr.com/ru/news/937620/?utm_campaign=937620&utm_source=habrahabr&utm_medium=rss)
 - [Altera сократит 82 сотрудника в Калифорнии](https://habr.com/ru/news/937580/?utm_campaign=937580&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили Jan-v1 — локальную нейросеть для веб-поиска, конкурирующую с Perplexity Pro](https://habr.com/ru/news/937534/?utm_campaign=937534&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft в новой форме призывает пользователей отказаться от Google Chrome и перейти на Edge](https://habr.com/ru/news/936962/?utm_campaign=936962&utm_source=habrahabr&utm_medium=rss)
-- [Тетрис на РНР](https://habr.com/ru/news/937516/?utm_campaign=937516&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи обнаружили способ обхода блокировки звонков в Telegram на смартфонах под некоторыми версиями Android](https://habr.com/ru/news/937512/?utm_campaign=937512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
