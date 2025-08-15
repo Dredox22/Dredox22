@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Китае готовятся выпустить SSD-накопители настолько компактного размера, что их можно будет вставить как SIM-карту](https://habr.com/ru/news/937386/?utm_campaign=937386&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp получит новые функции звонков по аналогии с Zoom](https://habr.com/ru/news/937384/?utm_campaign=937384&utm_source=habrahabr&utm_medium=rss)
+- [МТС: в первом полугодии 2025 года мошенники совершили около 500 млн звонков россиянам через зарубежные мессенджеры](https://habr.com/ru/news/937378/?utm_campaign=937378&utm_source=habrahabr&utm_medium=rss)
 - [️ Google выпустила ультракомпактную модель Gemma 3 270M](https://habr.com/ru/news/937370/?utm_campaign=937370&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме попросили РКН сохранить для граждан возможность звонков в иностранных мессенджерах](https://habr.com/ru/news/937374/?utm_campaign=937374&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система виртуализации VirtualBox 7.2](https://habr.com/ru/news/937330/?utm_campaign=937330&utm_source=habrahabr&utm_medium=rss)
-- [В Nginx появился модуль ngx_http_acme для автоматизации запросов и обновления сертификатов с помощью протокола ACME](https://habr.com/ru/news/937206/?utm_campaign=937206&utm_source=habrahabr&utm_medium=rss)
-- [Релиз платформы обмена сообщениями Zulip 11.0](https://habr.com/ru/news/937304/?utm_campaign=937304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
