@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мошенникам вход воспрещён: как устроен антифрод](https://habr.com/ru/companies/F6/news/936662/?utm_campaign=936662&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «От кода до запуска: российский стек для Java — Axiom JDK и OpenIDE»](https://habr.com/ru/companies/axiomjdk/news/937296/?utm_campaign=937296&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» перезапустил сервис для измерения скорости интернета «Интернетометр»](https://habr.com/ru/news/937406/?utm_campaign=937406&utm_source=habrahabr&utm_medium=rss)
+- [VK: в мессенджере Max появился безопасный режим &lpar;запрет вызовов&rpar; и защита от подозрительных контактов и контента](https://habr.com/ru/news/937398/?utm_campaign=937398&utm_source=habrahabr&utm_medium=rss)
 - [В Китае готовятся выпустить SSD-накопители настолько компактного размера, что их можно будет вставить как SIM-карту](https://habr.com/ru/news/937386/?utm_campaign=937386&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp получит новые функции звонков по аналогии с Zoom](https://habr.com/ru/news/937384/?utm_campaign=937384&utm_source=habrahabr&utm_medium=rss)
-- [МТС: в первом полугодии 2025 года мошенники совершили около 500 млн звонков россиянам через зарубежные мессенджеры](https://habr.com/ru/news/937378/?utm_campaign=937378&utm_source=habrahabr&utm_medium=rss)
-- [️ Google выпустила ультракомпактную модель Gemma 3 270M](https://habr.com/ru/news/937370/?utm_campaign=937370&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме попросили РКН сохранить для граждан возможность звонков в иностранных мессенджерах](https://habr.com/ru/news/937374/?utm_campaign=937374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
