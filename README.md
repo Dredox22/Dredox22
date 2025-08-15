@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Nginx появился модуль ngx_http_acme для автоматизации запросов и обновления сертификатов с помощью протокола ACME](https://habr.com/ru/news/937206/?utm_campaign=937206&utm_source=habrahabr&utm_medium=rss)
+- [Релиз платформы обмена сообщениями Zulip 11.0](https://habr.com/ru/news/937304/?utm_campaign=937304&utm_source=habrahabr&utm_medium=rss)
+- [Создатель специализированного дистрибутива Kaisen Linux сообщил о закрытии проекта](https://habr.com/ru/news/937164/?utm_campaign=937164&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Cjam 2.1.2.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/937318/?utm_campaign=937318&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Matrix-Game 2.0 — открытая модель для генерации интерактивных 3D-миров](https://habr.com/ru/news/937346/?utm_campaign=937346&utm_source=habrahabr&utm_medium=rss)
-- [Google отказывается от поддержки Android 5 Lollipop](https://habr.com/ru/news/937332/?utm_campaign=937332&utm_source=habrahabr&utm_medium=rss)
-- [Стабильная Android Studio каждый месяц. Но зачем…](https://habr.com/ru/news/937326/?utm_campaign=937326&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь xAI Игорь Бабушкин уходит из компании Илона Маска ради безопасного ИИ](https://habr.com/ru/news/937324/?utm_campaign=937324&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты нашли лучшую версию GPT-5. Для этого пришлось идти на обман](https://habr.com/ru/news/937322/?utm_campaign=937322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
