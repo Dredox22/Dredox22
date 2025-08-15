@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Демис Хассабис считает игры одним из лучших тестов для ИИ](https://habr.com/ru/news/937692/?utm_campaign=937692&utm_source=habrahabr&utm_medium=rss)
+- [Датасет Granary от Nvidia: миллион часов речи для обучения нового поколения ИИ](https://habr.com/ru/companies/bothub/news/937690/?utm_campaign=937690&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Hashcat спустя два года](https://habr.com/ru/news/937662/?utm_campaign=937662&utm_source=habrahabr&utm_medium=rss)
 - [Проект Flipper One объявил о поиске мастера по Linux](https://habr.com/ru/news/937660/?utm_campaign=937660&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман о запуске GPT-5: «мы облажались с некоторыми вещами»](https://habr.com/ru/news/937658/?utm_campaign=937658&utm_source=habrahabr&utm_medium=rss)
-- [Аналог Confluence от EvaTeam обновлен до версии 2.30](https://habr.com/ru/companies/evateam/news/937646/?utm_campaign=937646&utm_source=habrahabr&utm_medium=rss)
-- [Гонка за открытый ИИ: OpenAI открывает, Китай ускоряется](https://habr.com/ru/companies/bothub/news/937626/?utm_campaign=937626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
