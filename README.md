@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили Jan-v1 — локальную нейросеть для веб-поиска, конкурирующую с Perplexity Pro](https://habr.com/ru/news/937534/?utm_campaign=937534&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft в новой форме призывает пользователей отказаться от Google Chrome и перейти на Edge](https://habr.com/ru/news/936962/?utm_campaign=936962&utm_source=habrahabr&utm_medium=rss)
 - [Тетрис на РНР](https://habr.com/ru/news/937516/?utm_campaign=937516&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи обнаружили способ обхода блокировки звонков в Telegram на смартфонах под некоторыми версиями Android](https://habr.com/ru/news/937512/?utm_campaign=937512&utm_source=habrahabr&utm_medium=rss)
 - [Cyberpower начинает продажи настольных ПК с охлаждением процессора на углеродных нанотрубках](https://habr.com/ru/news/937506/?utm_campaign=937506&utm_source=habrahabr&utm_medium=rss)
-- [Bloomberg: администрация президента США ведёт переговоры о покупке доли Intel](https://habr.com/ru/news/937476/?utm_campaign=937476&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 потребляет в 20 раз больше энергии, чем предыдущие модели](https://habr.com/ru/news/937464/?utm_campaign=937464&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Gemma3 270M — ИИ, который идет даже на смартфоне](https://habr.com/ru/news/937456/?utm_campaign=937456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
