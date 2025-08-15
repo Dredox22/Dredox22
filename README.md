@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тетрис на РНР](https://habr.com/ru/news/937516/?utm_campaign=937516&utm_source=habrahabr&utm_medium=rss)
+- [Cyberpower начинает продажи настольных ПК с охлаждением процессора на углеродных нанотрубках](https://habr.com/ru/news/937506/?utm_campaign=937506&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg: администрация президента США ведёт переговоры о покупке доли Intel](https://habr.com/ru/news/937476/?utm_campaign=937476&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 потребляет в 20 раз больше энергии, чем предыдущие модели](https://habr.com/ru/news/937464/?utm_campaign=937464&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Gemma3 270M — ИИ, который идет даже на смартфоне](https://habr.com/ru/news/937456/?utm_campaign=937456&utm_source=habrahabr&utm_medium=rss)
-- [Пенсионер в США поверил в реальность ИИ-персонажа и стал жертвой несчастного случая](https://habr.com/ru/news/937432/?utm_campaign=937432&utm_source=habrahabr&utm_medium=rss)
-- [В США создан Project ATOM— инициатива по разработке мощных открытых ИИ-моделей](https://habr.com/ru/news/937430/?utm_campaign=937430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
