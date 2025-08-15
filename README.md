@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Hashcat спустя два года](https://habr.com/ru/news/937662/?utm_campaign=937662&utm_source=habrahabr&utm_medium=rss)
+- [Проект Flipper One объявил о поиске мастера по Linux](https://habr.com/ru/news/937660/?utm_campaign=937660&utm_source=habrahabr&utm_medium=rss)
+- [Сэм Альтман о запуске GPT-5: «мы облажались с некоторыми вещами»](https://habr.com/ru/news/937658/?utm_campaign=937658&utm_source=habrahabr&utm_medium=rss)
+- [Аналог Confluence от EvaTeam обновлен до версии 2.30](https://habr.com/ru/companies/evateam/news/937646/?utm_campaign=937646&utm_source=habrahabr&utm_medium=rss)
 - [Гонка за открытый ИИ: OpenAI открывает, Китай ускоряется](https://habr.com/ru/companies/bothub/news/937626/?utm_campaign=937626&utm_source=habrahabr&utm_medium=rss)
-- [«Росэл» заявил о серийном выпуске защищённых компьютеров](https://habr.com/ru/news/937620/?utm_campaign=937620&utm_source=habrahabr&utm_medium=rss)
-- [Altera сократит 82 сотрудника в Калифорнии](https://habr.com/ru/news/937580/?utm_campaign=937580&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили Jan-v1 — локальную нейросеть для веб-поиска, конкурирующую с Perplexity Pro](https://habr.com/ru/news/937534/?utm_campaign=937534&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft в новой форме призывает пользователей отказаться от Google Chrome и перейти на Edge](https://habr.com/ru/news/936962/?utm_campaign=936962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
