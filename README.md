@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI открывает, Китай ускоряется — гонка за открытый ИИ продолжается](https://habr.com/ru/companies/bothub/news/937626/?utm_campaign=937626&utm_source=habrahabr&utm_medium=rss)
+- [Гонка за открытый ИИ: OpenAI открывает, Китай ускоряется](https://habr.com/ru/companies/bothub/news/937626/?utm_campaign=937626&utm_source=habrahabr&utm_medium=rss)
 - [«Росэл» заявил о серийном выпуске защищённых компьютеров](https://habr.com/ru/news/937620/?utm_campaign=937620&utm_source=habrahabr&utm_medium=rss)
 - [Altera сократит 82 сотрудника в Калифорнии](https://habr.com/ru/news/937580/?utm_campaign=937580&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили Jan-v1 — локальную нейросеть для веб-поиска, конкурирующую с Perplexity Pro](https://habr.com/ru/news/937534/?utm_campaign=937534&utm_source=habrahabr&utm_medium=rss)
