@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [️ Google выпустила ультракомпактную модель Gemma 3 270M](https://habr.com/ru/news/937370/?utm_campaign=937370&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуме попросили РКН сохранить для граждан возможность звонков в иностранных мессенджерах](https://habr.com/ru/news/937374/?utm_campaign=937374&utm_source=habrahabr&utm_medium=rss)
+- [Вышла система виртуализации VirtualBox 7.2](https://habr.com/ru/news/937330/?utm_campaign=937330&utm_source=habrahabr&utm_medium=rss)
 - [В Nginx появился модуль ngx_http_acme для автоматизации запросов и обновления сертификатов с помощью протокола ACME](https://habr.com/ru/news/937206/?utm_campaign=937206&utm_source=habrahabr&utm_medium=rss)
 - [Релиз платформы обмена сообщениями Zulip 11.0](https://habr.com/ru/news/937304/?utm_campaign=937304&utm_source=habrahabr&utm_medium=rss)
-- [Создатель специализированного дистрибутива Kaisen Linux сообщил о закрытии проекта](https://habr.com/ru/news/937164/?utm_campaign=937164&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Cjam 2.1.2.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/937318/?utm_campaign=937318&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Matrix-Game 2.0 — открытая модель для генерации интерактивных 3D-миров](https://habr.com/ru/news/937346/?utm_campaign=937346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
