@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел SparkyLinux 8.0 — один из первых дистрибутивов на базе Debian 13 «Trixie»](https://habr.com/ru/news/937598/?utm_campaign=937598&utm_source=habrahabr&utm_medium=rss)
 - [Ключ к последней, 4-й части загадки «Криптоса» выставлен на аукцион](https://habr.com/ru/companies/bothub/news/937712/?utm_campaign=937712&utm_source=habrahabr&utm_medium=rss)
 - [Когда гугл не справляется: личный поисковик за 60 дней](https://habr.com/ru/companies/bothub/news/937698/?utm_campaign=937698&utm_source=habrahabr&utm_medium=rss)
 - [Демис Хассабис считает игры одним из лучших тестов для ИИ](https://habr.com/ru/news/937692/?utm_campaign=937692&utm_source=habrahabr&utm_medium=rss)
 - [Датасет Granary от Nvidia: миллион часов речи для обучения нового поколения ИИ](https://habr.com/ru/companies/bothub/news/937690/?utm_campaign=937690&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Hashcat спустя два года](https://habr.com/ru/news/937662/?utm_campaign=937662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
