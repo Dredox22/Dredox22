@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Джек Моррис снял рассуждающий режим с gpt-oss-20b, вернув её к исходному виду](https://habr.com/ru/companies/bothub/news/937830/?utm_campaign=937830&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Нацпроектстрой» и АО «ГЛОНАСС» испытали на участке трассы М-12 прототип беспилотного катка](https://habr.com/ru/news/937818/?utm_campaign=937818&utm_source=habrahabr&utm_medium=rss)
 - [Российский бизнес в 2025 году начал активнее переходить на корпоративную почту на собственных доменах](https://habr.com/ru/news/937812/?utm_campaign=937812&utm_source=habrahabr&utm_medium=rss)
 - [Учёные НИУ ВШЭ смоделировали работу суперконденсатора на уровне отдельных ионов и молекул](https://habr.com/ru/news/937810/?utm_campaign=937810&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Claude сможет завершать беседу в ответ на хамство пользователя](https://habr.com/ru/news/937800/?utm_campaign=937800&utm_source=habrahabr&utm_medium=rss)
-- [Банки и операторы связи обсуждают ответственность за ущерб от мошенников](https://habr.com/ru/news/937796/?utm_campaign=937796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
