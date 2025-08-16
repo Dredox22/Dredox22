@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российский бизнес в 2025 году начал активнее переходить на корпоративную почту на собственных доменах](https://habr.com/ru/news/937812/?utm_campaign=937812&utm_source=habrahabr&utm_medium=rss)
+- [Учёные НИУ ВШЭ смоделировали суперконденсатора на уровне отдельных ионов и молекул](https://habr.com/ru/news/937810/?utm_campaign=937810&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Claude сможет завершать беседу в ответ на хамство пользователя](https://habr.com/ru/news/937800/?utm_campaign=937800&utm_source=habrahabr&utm_medium=rss)
 - [Банки и операторы связи обсуждают ответственность за ущерб от мошенников](https://habr.com/ru/news/937796/?utm_campaign=937796&utm_source=habrahabr&utm_medium=rss)
 - [Google Messages теперь размывает изображения обнажённых людей](https://habr.com/ru/news/937714/?utm_campaign=937714&utm_source=habrahabr&utm_medium=rss)
-- [Чат-версия GPT-5 уступила GPT-4o в обновленном рейтинге Lmarena](https://habr.com/ru/news/937784/?utm_campaign=937784&utm_source=habrahabr&utm_medium=rss)
-- [LibreOffice предложила бесплатное руководство по миграции на ODF](https://habr.com/ru/news/937744/?utm_campaign=937744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
