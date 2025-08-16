@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У проекта ядра Linux нет формального плана преемственности на случай ухода Линуса Торвальдса](https://habr.com/ru/news/937734/?utm_campaign=937734&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Minimal PDF Compress 1.6 — GUI для Ghostscript под Windows](https://habr.com/ru/news/937728/?utm_campaign=937728&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 10.13](https://habr.com/ru/news/937724/?utm_campaign=937724&utm_source=habrahabr&utm_medium=rss)
 - [Вышел SparkyLinux 8.0 — один из первых дистрибутивов на базе Debian 13 «Trixie»](https://habr.com/ru/news/937598/?utm_campaign=937598&utm_source=habrahabr&utm_medium=rss)
 - [Ключ к последней, 4-й части загадки «Криптоса» выставлен на аукцион](https://habr.com/ru/companies/bothub/news/937712/?utm_campaign=937712&utm_source=habrahabr&utm_medium=rss)
-- [Когда гугл не справляется: личный поисковик за 60 дней](https://habr.com/ru/companies/bothub/news/937698/?utm_campaign=937698&utm_source=habrahabr&utm_medium=rss)
-- [Демис Хассабис считает игры одним из лучших тестов для ИИ](https://habr.com/ru/news/937692/?utm_campaign=937692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
