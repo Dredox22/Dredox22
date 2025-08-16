@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [X-Omni от Tencent бросает вызов GPT-4o в генерации изображений, опираясь на опенсорс](https://habr.com/ru/companies/bothub/news/937850/?utm_campaign=937850&utm_source=habrahabr&utm_medium=rss)
 - [Google Pixel 10: утечка показала новые функции Gemini для камеры](https://habr.com/ru/companies/bothub/news/937846/?utm_campaign=937846&utm_source=habrahabr&utm_medium=rss)
 - [Модель o3 обходит более новый GPT 5 Chat в задачах с Word, Excel и почтой](https://habr.com/ru/companies/bothub/news/937840/?utm_campaign=937840&utm_source=habrahabr&utm_medium=rss)
 - [Джек Моррис снял рассуждающий режим с gpt-oss-20b, вернув её к исходному виду](https://habr.com/ru/companies/bothub/news/937830/?utm_campaign=937830&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Нацпроектстрой» и АО «ГЛОНАСС» испытали на участке трассы М-12 прототип беспилотного катка](https://habr.com/ru/news/937818/?utm_campaign=937818&utm_source=habrahabr&utm_medium=rss)
-- [Российский бизнес в 2025 году начал активнее переходить на корпоративную почту на собственных доменах](https://habr.com/ru/news/937812/?utm_campaign=937812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
