@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Рейтинг языков программирования TIOBE за август 2025: Python стремительно набирает популярность, и Perl тоже](https://habr.com/ru/news/937856/?utm_campaign=937856&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива для создания домашних кинотеатров LibreELEC 12.2](https://habr.com/ru/news/937804/?utm_campaign=937804&utm_source=habrahabr&utm_medium=rss)
 - [Основатель проекта Puppy Linux выпустил обновление дистрибутива Linux EasyOS 7.0](https://habr.com/ru/news/937802/?utm_campaign=937802&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники с помощью фейковых уведомлений начали подменять контакты через файлы vcf &lpar;vCard File&rpar;](https://habr.com/ru/news/937820/?utm_campaign=937820&utm_source=habrahabr&utm_medium=rss)
 - [Самообучающаяся DINOv3✶ от Meta✶ обгоняет конкурентов в анализе изображений](https://habr.com/ru/companies/bothub/news/937852/?utm_campaign=937852&utm_source=habrahabr&utm_medium=rss)
-- [X-Omni от Tencent бросает вызов GPT-4o в генерации изображений, опираясь на опенсорс](https://habr.com/ru/companies/bothub/news/937850/?utm_campaign=937850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
