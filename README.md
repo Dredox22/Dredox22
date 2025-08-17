@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрая интеграция внутренних и внешних систем с помощью ИИ-агента](https://habr.com/ru/companies/mws/news/937130/?utm_campaign=937130&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI готова приобрести Google Chrome. А параллельно занимается своим браузером](https://habr.com/ru/news/937902/?utm_campaign=937902&utm_source=habrahabr&utm_medium=rss)
 - [Инструмент «Ножницы» позволит рисовать на экране](https://habr.com/ru/news/937870/?utm_campaign=937870&utm_source=habrahabr&utm_medium=rss)
 - [В Seagate обнаружили в Малайзии подпольный цех по восстановлению жёстких дисков](https://habr.com/ru/news/937868/?utm_campaign=937868&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг языков программирования TIOBE за август 2025: Python стремительно набирает популярность, и Perl тоже](https://habr.com/ru/news/937856/?utm_campaign=937856&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива для создания домашних кинотеатров LibreELEC 12.2](https://habr.com/ru/news/937804/?utm_campaign=937804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
