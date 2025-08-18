@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: неэффективные методы защиты от ИИ возвращают кибербезопасность в 1990-е годы](https://habr.com/ru/news/938288/?utm_campaign=938288&utm_source=habrahabr&utm_medium=rss)
 - [Google поймали за руку: штраф $36 млн за сговор с австралийскими операторами связи](https://habr.com/ru/news/938254/?utm_campaign=938254&utm_source=habrahabr&utm_medium=rss)
 - [Разобрали для вас главные фишки обновления Golang 1.25 &lpar;видео&rpar;](https://habr.com/ru/companies/avito/news/937444/?utm_campaign=937444&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic обновила политику использования для противодействия рискам ИИ-агентов](https://habr.com/ru/news/938170/?utm_campaign=938170&utm_source=habrahabr&utm_medium=rss)
 - [Компания «РЕД СОФТ» запустила программу поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/938168/?utm_campaign=938168&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft больше не позволяет отключать обновления приложений в Microsoft Store](https://habr.com/ru/news/938154/?utm_campaign=938154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
