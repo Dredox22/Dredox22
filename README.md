@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft больше не позволяет отключать обновления приложений в Microsoft Store](https://habr.com/ru/news/938154/?utm_campaign=938154&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5 Pro стала лидером по IQ среди ИИ. «Средний» человек позади &lpar;но с оговорками&rpar;](https://habr.com/ru/news/938160/?utm_campaign=938160&utm_source=habrahabr&utm_medium=rss)
+- [Опция AI Overview от Google выдавала данные от мошенников за официальную информацию](https://habr.com/ru/news/938148/?utm_campaign=938148&utm_source=habrahabr&utm_medium=rss)
 - [Запускаем интенсив по анализу данных и машинному обучению для студентов](https://habr.com/ru/companies/gazprombank/news/938132/?utm_campaign=938132&utm_source=habrahabr&utm_medium=rss)
 - [В Max опровергли появившуюся в сети информацию, что приложение сервиса самостоятельно активирует камеру на ПК](https://habr.com/ru/news/938108/?utm_campaign=938108&utm_source=habrahabr&utm_medium=rss)
-- [Бывшего инженера инженера Intel осудили за кражу коммерческой тайны](https://habr.com/ru/news/938094/?utm_campaign=938094&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT после обновления до GPT-5 «разорвал» тысячи виртуальных «браков» с пользователями](https://habr.com/ru/news/938088/?utm_campaign=938088&utm_source=habrahabr&utm_medium=rss)
-- [CTF от F6: расшифруй файл и получи флаг](https://habr.com/ru/news/938090/?utm_campaign=938090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
