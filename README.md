@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ nano banana задает новый стандарт в создании картинок. Но кто его создатель?](https://habr.com/ru/news/938392/?utm_campaign=938392&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi выпустила 5-дюймовый сенсорный дисплей Touch Display 2](https://habr.com/ru/news/938380/?utm_campaign=938380&utm_source=habrahabr&utm_medium=rss)
 - [Представлен полный список продуктов Microsoft, поддержка которых прекратится в 2025 году](https://habr.com/ru/news/938356/?utm_campaign=938356&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/938326/?utm_campaign=938326&utm_source=habrahabr&utm_medium=rss)
 - [С июля покупки в Steam через PayPal доступны в евро, фунтах, иенах, канадских и австралийских долларах и долларах США](https://habr.com/ru/news/938310/?utm_campaign=938310&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь Claude Max израсходовал $50 тыс на подписке за $200 и «подставил» других подписчиков](https://habr.com/ru/news/938290/?utm_campaign=938290&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: неэффективные методы защиты от ИИ возвращают кибербезопасность в 1990-е годы](https://habr.com/ru/news/938288/?utm_campaign=938288&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
