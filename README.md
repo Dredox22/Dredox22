@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare выпустила Pingora v0.6.0 для разработки защищённых высокопроизводительных сетевых сервисов на языке Rust](https://habr.com/ru/news/938082/?utm_campaign=938082&utm_source=habrahabr&utm_medium=rss)
+- [SSP SOFT Moscow: теперь наш офис в минутах ходьбы от Красной площади](https://habr.com/ru/companies/ssp-soft/news/937526/?utm_campaign=937526&utm_source=habrahabr&utm_medium=rss)
 - [Ubuntu разрабатывает концепцию «опасных» образов рабочего стола](https://habr.com/ru/news/938068/?utm_campaign=938068&utm_source=habrahabr&utm_medium=rss)
 - [МВД РФ в целях защиты персональных данных на «Госуслугах» рекомендует удалять СМС с неизвестных номеров](https://habr.com/ru/news/938058/?utm_campaign=938058&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Live-дистрибутив на базе Debian 13 для системных администраторов Grml 2025.08](https://habr.com/ru/news/937968/?utm_campaign=937968&utm_source=habrahabr&utm_medium=rss)
-- [Релиз видеоредактора с открытым исходным кодом Shotcut 25.08](https://habr.com/ru/news/937966/?utm_campaign=937966&utm_source=habrahabr&utm_medium=rss)
-- [Ведущие чат-боты от OpenAI, Meta✶ и xAI демонстрируют навыки манипуляции](https://habr.com/ru/companies/bothub/news/938010/?utm_campaign=938010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
