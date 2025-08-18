@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia и Национальный научный фонд США создают открытые ИИ-модели для исследователей](https://habr.com/ru/companies/bothub/news/938408/?utm_campaign=938408&utm_source=habrahabr&utm_medium=rss)
 - [Вышел ToonComposer — инструмент для генерации аниме по ключевым кадрам](https://habr.com/ru/news/938398/?utm_campaign=938398&utm_source=habrahabr&utm_medium=rss)
 - [ИИ nano banana задает новый стандарт в создании картинок. Но кто его разработчик?](https://habr.com/ru/news/938392/?utm_campaign=938392&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi выпустила 5-дюймовый сенсорный дисплей Touch Display 2](https://habr.com/ru/news/938380/?utm_campaign=938380&utm_source=habrahabr&utm_medium=rss)
 - [Представлен полный список продуктов Microsoft, поддержка которых прекратится в 2025 году](https://habr.com/ru/news/938356/?utm_campaign=938356&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/938326/?utm_campaign=938326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
