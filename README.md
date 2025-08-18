@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare выпустила Pingora v0.6.0 для разработки защищённых высокопроизводительных сетевых сервисов на языке Rust](https://habr.com/ru/news/938082/?utm_campaign=938082&utm_source=habrahabr&utm_medium=rss)
-- [SSP SOFT Moscow: теперь наш офис в минутах ходьбы от Красной площади](https://habr.com/ru/companies/ssp-soft/news/937526/?utm_campaign=937526&utm_source=habrahabr&utm_medium=rss)
-- [Ubuntu разрабатывает концепцию «опасных» образов рабочего стола](https://habr.com/ru/news/938068/?utm_campaign=938068&utm_source=habrahabr&utm_medium=rss)
-- [МВД РФ в целях защиты персональных данных на «Госуслугах» рекомендует удалять СМС с неизвестных номеров](https://habr.com/ru/news/938058/?utm_campaign=938058&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Live-дистрибутив на базе Debian 13 для системных администраторов Grml 2025.08](https://habr.com/ru/news/937968/?utm_campaign=937968&utm_source=habrahabr&utm_medium=rss)
+- [Запускаем интенсив по анализу данных и машинному обучению для студентов](https://habr.com/ru/companies/gazprombank/news/938132/?utm_campaign=938132&utm_source=habrahabr&utm_medium=rss)
+- [В Max опровергли появившуюся в сети информацию, что приложение сервиса самостоятельно активирует камеру на ПК](https://habr.com/ru/news/938108/?utm_campaign=938108&utm_source=habrahabr&utm_medium=rss)
+- [Бывшего инженера инженера Intel осудили за кражу коммерческой тайны](https://habr.com/ru/news/938094/?utm_campaign=938094&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT после обновления до GPT-5 «разорвал» тысячи виртуальных «браков» с пользователями](https://habr.com/ru/news/938088/?utm_campaign=938088&utm_source=habrahabr&utm_medium=rss)
+- [CTF от F6: расшифруй файл и получи флаг](https://habr.com/ru/news/938090/?utm_campaign=938090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
