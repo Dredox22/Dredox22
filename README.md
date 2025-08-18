@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Live-дистрибутив на базе Debian 13 для системных администраторов Grml 2025.08](https://habr.com/ru/news/937968/?utm_campaign=937968&utm_source=habrahabr&utm_medium=rss)
 - [Релиз видеоредактора с открытым исходным кодом Shotcut 25.08](https://habr.com/ru/news/937966/?utm_campaign=937966&utm_source=habrahabr&utm_medium=rss)
 - [Ведущие чат-боты от OpenAI, Meta✶ и xAI демонстрируют навыки манипуляции](https://habr.com/ru/companies/bothub/news/938010/?utm_campaign=938010&utm_source=habrahabr&utm_medium=rss)
 - [Figure показала прогресс в манипуляции мягкими объектами: робот складывает полотенца](https://habr.com/ru/companies/bothub/news/938004/?utm_campaign=938004&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek-R1 провалил проверку на здравый смысл в новом бенчмарке](https://habr.com/ru/news/938002/?utm_campaign=938002&utm_source=habrahabr&utm_medium=rss)
-- [Быстрая интеграция внутренних и внешних систем с помощью ИИ-агента](https://habr.com/ru/companies/mws/news/937130/?utm_campaign=937130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
