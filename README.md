@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разобрали для вас главные фишки обновления Golang 1.25 &lpar;видео&rpar;](https://habr.com/ru/companies/avito/news/937444/?utm_campaign=937444&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic обновила политику использования для противодействия рискам ИИ-агентов](https://habr.com/ru/news/938170/?utm_campaign=938170&utm_source=habrahabr&utm_medium=rss)
+- [Компания «РЕД СОФТ» запустила программу поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/938168/?utm_campaign=938168&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft больше не позволяет отключать обновления приложений в Microsoft Store](https://habr.com/ru/news/938154/?utm_campaign=938154&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 Pro стала лидером по IQ среди ИИ. «Средний» человек позади &lpar;но с оговорками&rpar;](https://habr.com/ru/news/938160/?utm_campaign=938160&utm_source=habrahabr&utm_medium=rss)
-- [Опция AI Overview от Google выдавала данные от мошенников за официальную информацию](https://habr.com/ru/news/938148/?utm_campaign=938148&utm_source=habrahabr&utm_medium=rss)
-- [Запускаем интенсив по анализу данных и машинному обучению для студентов](https://habr.com/ru/companies/gazprombank/news/938132/?utm_campaign=938132&utm_source=habrahabr&utm_medium=rss)
-- [В Max опровергли появившуюся в сети информацию, что приложение сервиса самостоятельно активирует камеру на ПК](https://habr.com/ru/news/938108/?utm_campaign=938108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
