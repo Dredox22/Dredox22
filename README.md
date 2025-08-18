@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu разрабатывает концепцию «опасных» образов рабочего стола](https://habr.com/ru/news/938068/?utm_campaign=938068&utm_source=habrahabr&utm_medium=rss)
+- [МВД РФ в целях защиты персональных данных на «Госуслугах» рекомендует удалять СМС с неизвестных номеров](https://habr.com/ru/news/938058/?utm_campaign=938058&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Live-дистрибутив на базе Debian 13 для системных администраторов Grml 2025.08](https://habr.com/ru/news/937968/?utm_campaign=937968&utm_source=habrahabr&utm_medium=rss)
 - [Релиз видеоредактора с открытым исходным кодом Shotcut 25.08](https://habr.com/ru/news/937966/?utm_campaign=937966&utm_source=habrahabr&utm_medium=rss)
 - [Ведущие чат-боты от OpenAI, Meta✶ и xAI демонстрируют навыки манипуляции](https://habr.com/ru/companies/bothub/news/938010/?utm_campaign=938010&utm_source=habrahabr&utm_medium=rss)
-- [Figure показала прогресс в манипуляции мягкими объектами: робот складывает полотенца](https://habr.com/ru/companies/bothub/news/938004/?utm_campaign=938004&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek-R1 провалил проверку на здравый смысл в новом бенчмарке](https://habr.com/ru/news/938002/?utm_campaign=938002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
