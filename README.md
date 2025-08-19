@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Camunda Alpha Release for August 2025](https://habr.com/ru/news/938114/?utm_campaign=938114&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Git 2.51](https://habr.com/ru/news/938470/?utm_campaign=938470&utm_source=habrahabr&utm_medium=rss)
+- [Проект Anna’s Archive укрепляет инфраструктуру и продолжает деятельность, несмотря на давление регуляторов разных стран](https://habr.com/ru/news/938466/?utm_campaign=938466&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта Ventoy 1.1.06 и почти сразу 1.1.07 для создания мультизагрузочной флешки](https://habr.com/ru/news/938462/?utm_campaign=938462&utm_source=habrahabr&utm_medium=rss)
 - [Это уже совсем беспредел: навязывание IM](https://habr.com/ru/news/938456/?utm_campaign=938456&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 142.0](https://habr.com/ru/news/938316/?utm_campaign=938316&utm_source=habrahabr&utm_medium=rss)
-- [Читатели в среднем не отличили ИИ-рассказы от текстов профессиональных писателей](https://habr.com/ru/news/938444/?utm_campaign=938444&utm_source=habrahabr&utm_medium=rss)
-- [LL3M — ИИ, который пишет Python-код для создания и редактирования 3D-объектов в Blender](https://habr.com/ru/companies/bothub/news/938424/?utm_campaign=938424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
