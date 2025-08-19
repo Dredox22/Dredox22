@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft напомнила о прекращении поддержки Windows 10 через два месяца](https://habr.com/ru/news/938646/?utm_campaign=938646&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch Traffic Monitor интегрируется с Secret Cloud Enterprise для комплексной защиты корпоративных данных](https://habr.com/ru/companies/infowatch/news/938632/?utm_campaign=938632&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT в одиночку занимает почти 50% веб-трафика ИИ](https://habr.com/ru/news/938630/?utm_campaign=938630&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia анонсирует революцию в прорисовке волос для новой Indiana Jones](https://habr.com/ru/companies/cloud4y/news/938624/?utm_campaign=938624&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь Samsung обнаружил самовольную установку мессенджера MAX](https://habr.com/ru/news/938612/?utm_campaign=938612&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Три облика одного секрета: PUSH, TOTP, SMS»](https://habr.com/ru/companies/ussc/news/938598/?utm_campaign=938598&utm_source=habrahabr&utm_medium=rss)
-- [«Штурвал 2.11»: release notes](https://habr.com/ru/companies/chislitellab/news/938564/?utm_campaign=938564&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia, Discord и Epic Games проводят раннее тестирование мгновенных демоверсий игр для серверов Discord](https://habr.com/ru/news/938568/?utm_campaign=938568&utm_source=habrahabr&utm_medium=rss)
-- [Claude теперь может завершить диалог, если пользователь говорит на небезопасные темы](https://habr.com/ru/news/938394/?utm_campaign=938394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
