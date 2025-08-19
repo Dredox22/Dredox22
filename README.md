@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сервисе «2ГИС» добавили на карту города общественные Wi‑Fi‑точки](https://habr.com/ru/news/938784/?utm_campaign=938784&utm_source=habrahabr&utm_medium=rss)
+- [Сэм Альтман рассказал о GPT-6](https://habr.com/ru/news/938780/?utm_campaign=938780&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты из «Сколтеха», компании «Моторика» и ФМБА России смогли измерить человеческое восприятие протеза руки](https://habr.com/ru/news/938776/?utm_campaign=938776&utm_source=habrahabr&utm_medium=rss)
 - [Вышла DBQuacks — игра-квест для изучения SQL](https://habr.com/ru/news/938768/?utm_campaign=938768&utm_source=habrahabr&utm_medium=rss)
 - [«Октава ДМ» создала новый аудиорегистратор для профессиональной звукозаписи](https://habr.com/ru/news/938766/?utm_campaign=938766&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: «Яндекс» в рамках страхового сервиса «Яндекс Забота» запустит КАСКО для пользователей «Карт» и «Навигатора»](https://habr.com/ru/news/938754/?utm_campaign=938754&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Атом» оценила примерную стоимость своего электрокара в 3–4 млн рублей без госсубсидий](https://habr.com/ru/news/938752/?utm_campaign=938752&utm_source=habrahabr&utm_medium=rss)
-- [Опубликована полная программа конференции OFFZONE 2025](https://habr.com/ru/news/938744/?utm_campaign=938744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
