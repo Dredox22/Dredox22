@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустила биоакустическую модель Perch 2.0 для наблюдения за звуками животного мира](https://habr.com/ru/news/938802/?utm_campaign=938802&utm_source=habrahabr&utm_medium=rss)
+- [Telegram в России во 2 квартале 2025 года превысил отметку 100 млн пользователей](https://habr.com/ru/news/938792/?utm_campaign=938792&utm_source=habrahabr&utm_medium=rss)
 - [В сервисе «2ГИС» добавили на карту города общественные Wi‑Fi‑точки](https://habr.com/ru/news/938784/?utm_campaign=938784&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман рассказал о GPT-6](https://habr.com/ru/news/938780/?utm_campaign=938780&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты из «Сколтеха», компании «Моторика» и ФМБА России смогли измерить человеческое восприятие протеза руки](https://habr.com/ru/news/938776/?utm_campaign=938776&utm_source=habrahabr&utm_medium=rss)
-- [Вышла DBQuacks — игра-квест для изучения SQL](https://habr.com/ru/news/938768/?utm_campaign=938768&utm_source=habrahabr&utm_medium=rss)
-- [«Октава ДМ» создала новый аудиорегистратор для профессиональной звукозаписи](https://habr.com/ru/news/938766/?utm_campaign=938766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
