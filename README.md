@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Зовем вас на Backend Drinkup в новом офисе в Нижнем Новгороде](https://habr.com/ru/companies/avito/news/938378/?utm_campaign=938378&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek получил обновление. К сожалению, пока не до R2](https://habr.com/ru/news/938702/?utm_campaign=938702&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft напомнила о прекращении поддержки Windows 10 через два месяца](https://habr.com/ru/news/938646/?utm_campaign=938646&utm_source=habrahabr&utm_medium=rss)
 - [InfoWatch Traffic Monitor интегрируется с Secret Cloud Enterprise для комплексной защиты корпоративных данных](https://habr.com/ru/companies/infowatch/news/938632/?utm_campaign=938632&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT в одиночку занимает почти 50% веб-трафика ИИ](https://habr.com/ru/news/938630/?utm_campaign=938630&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia анонсирует революцию в прорисовке волос для новой Indiana Jones](https://habr.com/ru/companies/cloud4y/news/938624/?utm_campaign=938624&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь Samsung обнаружил самовольную установку мессенджера MAX](https://habr.com/ru/news/938612/?utm_campaign=938612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
