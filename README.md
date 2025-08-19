@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла DBQuacks — игра-квест для изучения SQL](https://habr.com/ru/news/938768/?utm_campaign=938768&utm_source=habrahabr&utm_medium=rss)
+- [«Октава ДМ» создала новый аудиорегистратор для профессиональной звукозаписи](https://habr.com/ru/news/938766/?utm_campaign=938766&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: «Яндекс» в рамках страхового сервиса «Яндекс Забота» запустит КАСКО для пользователей «Карт» и «Навигатора»](https://habr.com/ru/news/938754/?utm_campaign=938754&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Атом» оценила примерную стоимость своего электрокара в 3–4 млн рублей без госсубсидий](https://habr.com/ru/news/938752/?utm_campaign=938752&utm_source=habrahabr&utm_medium=rss)
 - [Опубликована полная программа конференции OFFZONE 2025](https://habr.com/ru/news/938744/?utm_campaign=938744&utm_source=habrahabr&utm_medium=rss)
-- [Зовем вас на Backend Drinkup в новом офисе в Нижнем Новгороде](https://habr.com/ru/companies/avito/news/938378/?utm_campaign=938378&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek получил обновление. К сожалению, пока не до R2](https://habr.com/ru/news/938702/?utm_campaign=938702&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft напомнила о прекращении поддержки Windows 10 через два месяца](https://habr.com/ru/news/938646/?utm_campaign=938646&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch Traffic Monitor интегрируется с Secret Cloud Enterprise для комплексной защиты корпоративных данных](https://habr.com/ru/companies/infowatch/news/938632/?utm_campaign=938632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
