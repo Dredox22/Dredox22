@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GeForce Now от Nvidia будет транслировать видео в разрешениях 5K и 4K на OLED-мониторы и телевизоры LG](https://habr.com/ru/news/938510/?utm_campaign=938510&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выпустил в продажу «Яндекс ТВ Станцию Бейсик» с QLED и «Яндекс ТВ Станцию Pro» с экраном MiniLED и Zigbee](https://habr.com/ru/news/938374/?utm_campaign=938374&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI рассматривает внедрение сквозного шифрования в ChatGPT](https://habr.com/ru/news/938496/?utm_campaign=938496&utm_source=habrahabr&utm_medium=rss)
-- [MULTIFACTOR и Solar SafeInspect усиливают защиту учетных записей привилегированных пользователей](https://habr.com/ru/companies/solarsecurity/news/938506/?utm_campaign=938506&utm_source=habrahabr&utm_medium=rss)
-- [Сотни серверов TeslaMate по всему миру передают данные автомобилей Tesla без защиты](https://habr.com/ru/news/938484/?utm_campaign=938484&utm_source=habrahabr&utm_medium=rss)
+- [18 сентября проведем Naumen Java Junior Meetup #3 для начинающих разработчиков](https://habr.com/ru/companies/naumen/news/937282/?utm_campaign=937282&utm_source=habrahabr&utm_medium=rss)
+- [В «Проводнике» Windows 11 появились новые кнопки](https://habr.com/ru/news/938528/?utm_campaign=938528&utm_source=habrahabr&utm_medium=rss)
+- [EvaTeam обновила аналог Jira Service Management до версии 2.30](https://habr.com/ru/companies/evateam/news/938542/?utm_campaign=938542&utm_source=habrahabr&utm_medium=rss)
+- [В Visual Studio улучшили поиск кода](https://habr.com/ru/news/938520/?utm_campaign=938520&utm_source=habrahabr&utm_medium=rss)
+- [«Детский мир» и ITFB Group автоматизировали HR-коммуникации для онбординга сотрудников](https://habr.com/ru/companies/itfb/news/938540/?utm_campaign=938540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
