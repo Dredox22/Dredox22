@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотни серверов TeslaMate по всему миру передают данные автомобилей Tesla без защиты](https://habr.com/ru/news/938484/?utm_campaign=938484&utm_source=habrahabr&utm_medium=rss)
+- [Улетели навсегда: число угонов Telegram-аккаунтов за полгода увеличилось на 20 %](https://habr.com/ru/companies/F6/news/937592/?utm_campaign=937592&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор Code.org: ежегодное образовательное мероприятие организации «Час кода» переименовано в «Час ИИ»](https://habr.com/ru/news/938482/?utm_campaign=938482&utm_source=habrahabr&utm_medium=rss)
+- [Обновление KB5063878 для Windows 11 24H2 приводит к поломке SSD и HDD при некоторых условиях использования накопителя](https://habr.com/ru/news/938480/?utm_campaign=938480&utm_source=habrahabr&utm_medium=rss)
 - [Camunda Alpha Release for August 2025](https://habr.com/ru/news/938114/?utm_campaign=938114&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Git 2.51](https://habr.com/ru/news/938470/?utm_campaign=938470&utm_source=habrahabr&utm_medium=rss)
-- [Проект Anna’s Archive укрепляет инфраструктуру и продолжает деятельность, несмотря на давление регуляторов разных стран](https://habr.com/ru/news/938466/?utm_campaign=938466&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Ventoy 1.1.06 и почти сразу 1.1.07 для создания мультизагрузочной флешки](https://habr.com/ru/news/938462/?utm_campaign=938462&utm_source=habrahabr&utm_medium=rss)
-- [Это уже совсем беспредел: навязывание IM](https://habr.com/ru/news/938456/?utm_campaign=938456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
