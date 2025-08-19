@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 142.0](https://habr.com/ru/news/938316/?utm_campaign=938316&utm_source=habrahabr&utm_medium=rss)
 - [Читатели в среднем не отличили ИИ-рассказы от текстов профессиональных писателей](https://habr.com/ru/news/938444/?utm_campaign=938444&utm_source=habrahabr&utm_medium=rss)
 - [LL3M — ИИ, который пишет Python-код для создания и редактирования 3D-объектов в Blender](https://habr.com/ru/companies/bothub/news/938424/?utm_campaign=938424&utm_source=habrahabr&utm_medium=rss)
 - [Grok AI: публикация системных промптов и провал в архитектуре безопасности](https://habr.com/ru/news/938412/?utm_campaign=938412&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia и Национальный научный фонд США создают открытые ИИ-модели для исследователей](https://habr.com/ru/companies/bothub/news/938408/?utm_campaign=938408&utm_source=habrahabr&utm_medium=rss)
-- [Вышел ToonComposer — инструмент для генерации аниме по ключевым кадрам](https://habr.com/ru/news/938398/?utm_campaign=938398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
