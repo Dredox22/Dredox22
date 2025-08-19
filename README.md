@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь Samsung обнаружил самовольную установку мессенджера MAX](https://habr.com/ru/news/938612/?utm_campaign=938612&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Три облика одного секрета: PUSH, TOTP, SMS»](https://habr.com/ru/companies/ussc/news/938598/?utm_campaign=938598&utm_source=habrahabr&utm_medium=rss)
 - [«Штурвал 2.11»: release notes](https://habr.com/ru/companies/chislitellab/news/938564/?utm_campaign=938564&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia, Discord и Epic Games проводят раннее тестирование мгновенных демоверсий игр для серверов Discord](https://habr.com/ru/news/938568/?utm_campaign=938568&utm_source=habrahabr&utm_medium=rss)
 - [Claude теперь может завершить диалог, если пользователь говорит на небезопасные темы](https://habr.com/ru/news/938394/?utm_campaign=938394&utm_source=habrahabr&utm_medium=rss)
-- [18 сентября проведем Naumen Java Junior Meetup #3 для начинающих разработчиков](https://habr.com/ru/companies/naumen/news/937282/?utm_campaign=937282&utm_source=habrahabr&utm_medium=rss)
-- [В «Проводнике» Windows 11 появились новые кнопки](https://habr.com/ru/news/938528/?utm_campaign=938528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
