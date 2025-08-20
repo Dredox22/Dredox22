@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Офисные приложения: тренды и миграция на отечественное ПО](https://habr.com/ru/companies/mws/news/938610/?utm_campaign=938610&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Карты» представили «Изохрон API» для помощи бизнесу определять зоны доставки в зависимости от времени в пути](https://habr.com/ru/news/938946/?utm_campaign=938946&utm_source=habrahabr&utm_medium=rss)
 - [Статистика «Яндекс Поиска»: популярность домена .ru у новых сайтов снизилась за последние два года](https://habr.com/ru/news/938904/?utm_campaign=938904&utm_source=habrahabr&utm_medium=rss)
 - [PyPI блокирует атаки с восстановлением домена из-за перехвата аккаунтов](https://habr.com/ru/news/938902/?utm_campaign=938902&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты в ваших командах. Эпоха агентной автоматизации процессов наступила](https://habr.com/ru/news/938218/?utm_campaign=938218&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: ограничение голосового трафика в Telegram и WhatsApp привело к сокращению фрода в мессенджерах](https://habr.com/ru/news/938888/?utm_campaign=938888&utm_source=habrahabr&utm_medium=rss)
-- [База оборудования компании «Эридан» для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/938652/?utm_campaign=938652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
