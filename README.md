@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple готовит встроенную поддержку Claude в Xcode](https://habr.com/ru/companies/bothub/news/938866/?utm_campaign=938866&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia выпускает компактную открытую модель Nemotron-Nano-9B-v2 с переключаемыми рассуждениями](https://habr.com/ru/companies/bothub/news/938864/?utm_campaign=938864&utm_source=habrahabr&utm_medium=rss)
 - [Qwen Image Edit — новый шаг к умному и смысловому редактированию фото](https://habr.com/ru/companies/bothub/news/938850/?utm_campaign=938850&utm_source=habrahabr&utm_medium=rss)
 - [Adobe представила Acrobat Studio — платформу с нейросетями для работы с документами](https://habr.com/ru/news/938842/?utm_campaign=938842&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила биоакустическую модель Perch 2.0 для наблюдения за звуками животного мира](https://habr.com/ru/news/938802/?utm_campaign=938802&utm_source=habrahabr&utm_medium=rss)
-- [Telegram в России во 2 квартале 2025 года превысил отметку 100 млн пользователей](https://habr.com/ru/news/938792/?utm_campaign=938792&utm_source=habrahabr&utm_medium=rss)
-- [В сервисе «2ГИС» добавили на карту города общественные Wi‑Fi‑точки](https://habr.com/ru/news/938784/?utm_campaign=938784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
