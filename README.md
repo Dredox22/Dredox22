@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Статистика «Яндекс Поиска»: популярность домена .ru у новых сайтов снизилась за последние два года](https://habr.com/ru/news/938904/?utm_campaign=938904&utm_source=habrahabr&utm_medium=rss)
+- [PyPI блокирует атаки с восстановлением домена из-за перехвата аккаунтов](https://habr.com/ru/news/938902/?utm_campaign=938902&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты в ваших командах. Эпоха агентной автоматизации процессов наступила](https://habr.com/ru/news/938218/?utm_campaign=938218&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: ограничение голосового трафика в Telegram и WhatsApp привело к сокращению фрода в мессенджерах](https://habr.com/ru/news/938888/?utm_campaign=938888&utm_source=habrahabr&utm_medium=rss)
 - [База оборудования компании «Эридан» для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/938652/?utm_campaign=938652&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mozilla Thunderbird 142.0](https://habr.com/ru/news/938778/?utm_campaign=938778&utm_source=habrahabr&utm_medium=rss)
-- [Релиз менеджера файлов Total Commander 11.56](https://habr.com/ru/news/938786/?utm_campaign=938786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
