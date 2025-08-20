@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IT Кэмп Сбера на big tech night: огонь, вода и медные трубы](https://habr.com/ru/companies/sberbank/news/938724/?utm_campaign=938724&utm_source=habrahabr&utm_medium=rss)
 - [Великобритания перестала требовать от Apple создать бэкдор для доступа ко всем зашифрованным данным iCloud](https://habr.com/ru/news/939038/?utm_campaign=939038&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft устранила проблему с обновлением Windows, вызывающую ошибку 0x8007007F](https://habr.com/ru/news/938998/?utm_campaign=938998&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия Grok доступна бесплатно в Cursor](https://habr.com/ru/news/938994/?utm_campaign=938994&utm_source=habrahabr&utm_medium=rss)
 - [В бета-версии WhatsApp для iOS появился ИИ-помощник по написанию сообщений](https://habr.com/ru/news/938818/?utm_campaign=938818&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: началось тестирование защиты аккаунта «Госуслуг» через одноразовый код &lpar;OTP-код&rpar; в мессенджере Мах](https://habr.com/ru/news/938974/?utm_campaign=938974&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
