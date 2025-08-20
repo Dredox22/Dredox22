@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixel 10 — будущее смартфонов с искусственным интеллектом](https://habr.com/ru/companies/bothub/news/939162/?utm_campaign=939162&utm_source=habrahabr&utm_medium=rss)
+- [Опубликованы результаты IQ-баталий между ИИ, включая ChatGPT 5 и Grok 4](https://habr.com/ru/companies/bothub/news/939156/?utm_campaign=939156&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia разрабатывает новый ИИ-чип для Китая, который превзойдёт H20](https://habr.com/ru/companies/bothub/news/939150/?utm_campaign=939150&utm_source=habrahabr&utm_medium=rss)
 - [AMD ликвидирует разрыв с NVIDIA, если конкурент оступится хотя бы на одном поколении](https://habr.com/ru/companies/bothub/news/939142/?utm_campaign=939142&utm_source=habrahabr&utm_medium=rss)
 - [На презентации Google Pixel 10 показали новые ИИ-функции для Android и iOS](https://habr.com/ru/news/939138/?utm_campaign=939138&utm_source=habrahabr&utm_medium=rss)
-- [Как внедрить ИИ в бизнес: итоги конференции DUC-Medlex](https://habr.com/ru/news/938558/?utm_campaign=938558&utm_source=habrahabr&utm_medium=rss)
-- [Каким получился обновленный DeepSeek — скорость и дешевизна вместо бенчмарков](https://habr.com/ru/news/939094/?utm_campaign=939094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
