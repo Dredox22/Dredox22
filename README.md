@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [База оборудования компании «Эридан» для nanoCAD BIM ОПС](https://habr.com/ru/companies/nanosoft/news/938652/?utm_campaign=938652&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mozilla Thunderbird 142.0](https://habr.com/ru/news/938778/?utm_campaign=938778&utm_source=habrahabr&utm_medium=rss)
 - [Релиз менеджера файлов Total Commander 11.56](https://habr.com/ru/news/938786/?utm_campaign=938786&utm_source=habrahabr&utm_medium=rss)
 - [Apple готовит встроенную поддержку Claude в Xcode](https://habr.com/ru/companies/bothub/news/938866/?utm_campaign=938866&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia выпускает компактную открытую модель Nemotron-Nano-9B-v2 с переключаемыми рассуждениями](https://habr.com/ru/companies/bothub/news/938864/?utm_campaign=938864&utm_source=habrahabr&utm_medium=rss)
-- [Qwen Image Edit — новый шаг к умному и смысловому редактированию фото](https://habr.com/ru/companies/bothub/news/938850/?utm_campaign=938850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
