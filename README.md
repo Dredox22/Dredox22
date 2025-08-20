@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia разрабатывает новый ИИ-чип для Китая, который превзойдёт H20](https://habr.com/ru/companies/bothub/news/939150/?utm_campaign=939150&utm_source=habrahabr&utm_medium=rss)
+- [AMD ликвидирует разрыв с NVIDIA, если конкурент оступится хотя бы на одном поколении](https://habr.com/ru/companies/bothub/news/939142/?utm_campaign=939142&utm_source=habrahabr&utm_medium=rss)
+- [На презентации Google Pixel 10 показали новые ИИ-функции для Android и iOS](https://habr.com/ru/news/939138/?utm_campaign=939138&utm_source=habrahabr&utm_medium=rss)
 - [Как внедрить ИИ в бизнес: итоги конференции DUC-Medlex](https://habr.com/ru/news/938558/?utm_campaign=938558&utm_source=habrahabr&utm_medium=rss)
 - [Каким получился обновленный DeepSeek — скорость и дешевизна вместо бенчмарков](https://habr.com/ru/news/939094/?utm_campaign=939094&utm_source=habrahabr&utm_medium=rss)
-- [Алоха! Ловите хакинговую волну](https://habr.com/ru/companies/alfa/news/939070/?utm_campaign=939070&utm_source=habrahabr&utm_medium=rss)
-- [IT Кэмп Сбера на big tech night: огонь, вода и медные трубы](https://habr.com/ru/companies/sberbank/news/938724/?utm_campaign=938724&utm_source=habrahabr&utm_medium=rss)
-- [Великобритания перестала требовать от Apple создать бэкдор для доступа ко всем зашифрованным данным iCloud](https://habr.com/ru/news/939038/?utm_campaign=939038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
