@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft устранила проблему с обновлением Windows, вызывающую ошибку 0x8007007F](https://habr.com/ru/news/938998/?utm_campaign=938998&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия Grok доступна бесплатно в Cursor](https://habr.com/ru/news/938994/?utm_campaign=938994&utm_source=habrahabr&utm_medium=rss)
+- [В бета-версии WhatsApp для iOS появился ИИ-помощник по написанию сообщений](https://habr.com/ru/news/938818/?utm_campaign=938818&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: началось тестирование защиты аккаунта «Госуслуг» через одноразовый код &lpar;OTP-код&rpar; в мессенджере Мах](https://habr.com/ru/news/938974/?utm_campaign=938974&utm_source=habrahabr&utm_medium=rss)
 - [AI хакатон в Garage Eight](https://habr.com/ru/companies/garage8/news/938972/?utm_campaign=938972&utm_source=habrahabr&utm_medium=rss)
-- [В Pine64 сняли с производства и прекратили продажи смартфонов PinePhone Pro](https://habr.com/ru/news/938962/?utm_campaign=938962&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует функцию COPILOT&lpar;&rpar; в Excel по аналогии с AI&lpar;&rpar; в «Таблицах» Google](https://habr.com/ru/news/938932/?utm_campaign=938932&utm_source=habrahabr&utm_medium=rss)
-- [ГосНИИАС применил ПО Engee в разработке критически важной логики бортовых индикаторов](https://habr.com/ru/companies/etmc_exponenta/news/936296/?utm_campaign=936296&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
