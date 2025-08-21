@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сервисе «2ГИС» появился детский профиль с уведомлениями о передвижении и историей маршрутов](https://habr.com/ru/news/939422/?utm_campaign=939422&utm_source=habrahabr&utm_medium=rss)
+- [Мессенджер Max включат в список ПО для обязательной предустановки вместо «VK Мессенджера»](https://habr.com/ru/news/939404/?utm_campaign=939404&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс объявляет о старте нового сезона Тренировок по алгоритмам и машинному обучению](https://habr.com/ru/companies/yandex/news/939354/?utm_campaign=939354&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek V3.1 выпущен официально. Дешевая модель с улучшенными агентскими функциями](https://habr.com/ru/news/939346/?utm_campaign=939346&utm_source=habrahabr&utm_medium=rss)
 - [Sony объявила о повышении цен на консоли PS5 в США](https://habr.com/ru/news/939338/?utm_campaign=939338&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия CyberMir 7.2: более 30 тематических мероприятий по отработке навыков от «красных» до «белых» команд](https://habr.com/ru/companies/solarsecurity/news/939326/?utm_campaign=939326&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь кибербезопасности скачал данные о 270 тысячах сотрудников Intel и не получил за это вознаграждения](https://habr.com/ru/news/939320/?utm_campaign=939320&utm_source=habrahabr&utm_medium=rss)
-- [Из-за теста «Великого китайского файрвола» в ночь на 20 августа Китай отключили от глобального интернета на 74 минуты](https://habr.com/ru/news/939266/?utm_campaign=939266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
