@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В российских приложениях каршеринга и кикшеринга нашли более 400 уязвимостей](https://habr.com/ru/news/939220/?utm_campaign=939220&utm_source=habrahabr&utm_medium=rss)
+- [В МВД РФ предупредили о покупке &lpar;аренде&rpar; мошенниками аккаунтов пользователей в Max](https://habr.com/ru/news/939228/?utm_campaign=939228&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила PowerToys 0.93 с более быстрой палитрой команд](https://habr.com/ru/news/939216/?utm_campaign=939216&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь не смог сообщить об уязвимости сайта McDonald&#39;s из-за отсутствия формы для связи](https://habr.com/ru/news/939214/?utm_campaign=939214&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры похищают логины Microsoft c использованием легитимных перенаправлений ADFS](https://habr.com/ru/news/939212/?utm_campaign=939212&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Glow 25.10 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/939132/?utm_campaign=939132&utm_source=habrahabr&utm_medium=rss)
-- [Релиз офисного пакета LibreOffice 25.8](https://habr.com/ru/news/939046/?utm_campaign=939046&utm_source=habrahabr&utm_medium=rss)
-- [Okta опубликовала каталог правил Auth0 с открытым исходным кодом для обнаружения угроз](https://habr.com/ru/news/938984/?utm_campaign=938984&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 обошел другие ИИ в пространственном мышлении. Но до людей еще далеко](https://habr.com/ru/news/939196/?utm_campaign=939196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
