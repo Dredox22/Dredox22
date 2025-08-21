@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobile Meetup SberHealth](https://habr.com/ru/companies/docdoc/news/939538/?utm_campaign=939538&utm_source=habrahabr&utm_medium=rss)
+- [Google повысила энергоэффективность Gemini в 33 раза всего за год](https://habr.com/ru/news/939534/?utm_campaign=939534&utm_source=habrahabr&utm_medium=rss)
 - [VK и Минцифры Татарстана подвели итоги первого хакатона цифровых решений для платформы Max](https://habr.com/ru/news/939446/?utm_campaign=939446&utm_source=habrahabr&utm_medium=rss)
 - [Hollow Knight: Silksong выйдет 4 сентября](https://habr.com/ru/news/939510/?utm_campaign=939510&utm_source=habrahabr&utm_medium=rss)
 - [Новые данные свидетельствуют о рекордном количестве досмотров устройств на границе США](https://habr.com/ru/news/939494/?utm_campaign=939494&utm_source=habrahabr&utm_medium=rss)
-- [Шрекбургер или как в мегакорпорации не слышали про ИБ](https://habr.com/ru/companies/ddosguard/news/939478/?utm_campaign=939478&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на Alfa CTF 2025, соревнование по спортивному хакингу](https://habr.com/ru/companies/alfa/news/939450/?utm_campaign=939450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
