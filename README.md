@@ -85,8 +85,8 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В 2ГИС появился детский локатор](https://habr.com/ru/news/939456/?utm_campaign=939456&utm_source=habrahabr&utm_medium=rss)
-- [Alfa CTF 2025](https://habr.com/ru/companies/alfa/news/939450/?utm_campaign=939450&utm_source=habrahabr&utm_medium=rss)
+- [Шрекбургер или как в мегакорпорации не слышали про ИБ](https://habr.com/ru/companies/ddosguard/news/939478/?utm_campaign=939478&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на Alfa CTF 2025, соревнование по спортивному хакингу](https://habr.com/ru/companies/alfa/news/939450/?utm_campaign=939450&utm_source=habrahabr&utm_medium=rss)
 - [В сервисе «2ГИС» появился детский профиль с уведомлениями о передвижении и историей маршрутов](https://habr.com/ru/news/939422/?utm_campaign=939422&utm_source=habrahabr&utm_medium=rss)
 - [Мессенджер Max включат в список ПО для обязательной предустановки вместо «VK Мессенджера»](https://habr.com/ru/news/939404/?utm_campaign=939404&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс объявляет о старте нового сезона Тренировок по алгоритмам и машинному обучению](https://habr.com/ru/companies/yandex/news/939354/?utm_campaign=939354&utm_source=habrahabr&utm_medium=rss)
