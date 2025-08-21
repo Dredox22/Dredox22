@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 2ГИС появился детский локатор](https://habr.com/ru/news/939456/?utm_campaign=939456&utm_source=habrahabr&utm_medium=rss)
+- [Alfa CTF 2025](https://habr.com/ru/companies/alfa/news/939450/?utm_campaign=939450&utm_source=habrahabr&utm_medium=rss)
 - [В сервисе «2ГИС» появился детский профиль с уведомлениями о передвижении и историей маршрутов](https://habr.com/ru/news/939422/?utm_campaign=939422&utm_source=habrahabr&utm_medium=rss)
 - [Мессенджер Max включат в список ПО для обязательной предустановки вместо «VK Мессенджера»](https://habr.com/ru/news/939404/?utm_campaign=939404&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс объявляет о старте нового сезона Тренировок по алгоритмам и машинному обучению](https://habr.com/ru/companies/yandex/news/939354/?utm_campaign=939354&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek V3.1 выпущен официально. Дешевая модель с улучшенными агентскими функциями](https://habr.com/ru/news/939346/?utm_campaign=939346&utm_source=habrahabr&utm_medium=rss)
-- [Sony объявила о повышении цен на консоли PS5 в США](https://habr.com/ru/news/939338/?utm_campaign=939338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
