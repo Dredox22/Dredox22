@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK и Минцифры Татарстана подвели итоги первого хакатона цифровых решений для платформы Max](https://habr.com/ru/news/939446/?utm_campaign=939446&utm_source=habrahabr&utm_medium=rss)
+- [Hollow Knight: Silksong выйдет 4 сентября](https://habr.com/ru/news/939510/?utm_campaign=939510&utm_source=habrahabr&utm_medium=rss)
+- [Новые данные свидетельствуют о рекордном количестве досмотров устройств на границе США](https://habr.com/ru/news/939494/?utm_campaign=939494&utm_source=habrahabr&utm_medium=rss)
 - [Шрекбургер или как в мегакорпорации не слышали про ИБ](https://habr.com/ru/companies/ddosguard/news/939478/?utm_campaign=939478&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на Alfa CTF 2025, соревнование по спортивному хакингу](https://habr.com/ru/companies/alfa/news/939450/?utm_campaign=939450&utm_source=habrahabr&utm_medium=rss)
-- [В сервисе «2ГИС» появился детский профиль с уведомлениями о передвижении и историей маршрутов](https://habr.com/ru/news/939422/?utm_campaign=939422&utm_source=habrahabr&utm_medium=rss)
-- [Мессенджер Max включат в список ПО для обязательной предустановки вместо «VK Мессенджера»](https://habr.com/ru/news/939404/?utm_campaign=939404&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс объявляет о старте нового сезона Тренировок по алгоритмам и машинному обучению](https://habr.com/ru/companies/yandex/news/939354/?utm_campaign=939354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
