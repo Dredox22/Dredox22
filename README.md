@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новое письмо от руководства Google: ИИ должен быть в работе повсюду](https://habr.com/ru/companies/bothub/news/939592/?utm_campaign=939592&utm_source=habrahabr&utm_medium=rss)
+- [Hyundai создала новый завод вокруг ИИ: от роботов до цифровых двойников](https://habr.com/ru/companies/bothub/news/939590/?utm_campaign=939590&utm_source=habrahabr&utm_medium=rss)
 - [Результаты опроса Python-разработчиков от JetBrains: экосистема, машинное обучение и демография](https://habr.com/ru/news/939564/?utm_campaign=939564&utm_source=habrahabr&utm_medium=rss)
 - [Apple, вероятно, не будет препятствовать установке RuStore на iPhone](https://habr.com/ru/news/939554/?utm_campaign=939554&utm_source=habrahabr&utm_medium=rss)
 - [Mobile Meetup SberHealth](https://habr.com/ru/companies/docdoc/news/939538/?utm_campaign=939538&utm_source=habrahabr&utm_medium=rss)
-- [Google повысила энергоэффективность Gemini в 33 раза всего за год](https://habr.com/ru/news/939534/?utm_campaign=939534&utm_source=habrahabr&utm_medium=rss)
-- [VK и Минцифры Татарстана подвели итоги первого хакатона цифровых решений для платформы Max](https://habr.com/ru/news/939446/?utm_campaign=939446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
