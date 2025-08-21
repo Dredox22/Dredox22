@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В российских приложениях каршеринга и кикшеринга нашли более 400 уязвимостей](https://habr.com/ru/news/939220/?utm_campaign=939220&utm_source=habrahabr&utm_medium=rss)
-- [В МВД РФ предупредили о покупке &lpar;аренде&rpar; мошенниками аккаунтов пользователей в Max](https://habr.com/ru/news/939228/?utm_campaign=939228&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила PowerToys 0.93 с более быстрой палитрой команд](https://habr.com/ru/news/939216/?utm_campaign=939216&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь не смог сообщить об уязвимости сайта McDonald&#39;s из-за отсутствия формы для связи](https://habr.com/ru/news/939214/?utm_campaign=939214&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры похищают логины Microsoft c использованием легитимных перенаправлений ADFS](https://habr.com/ru/news/939212/?utm_campaign=939212&utm_source=habrahabr&utm_medium=rss)
+- [В ЦБ РФ назвали девять признаков мошеннических операций, которые будут отслеживать банки у клиентов при снятии наличных](https://habr.com/ru/news/939246/?utm_campaign=939246&utm_source=habrahabr&utm_medium=rss)
+- [Поле чудес: мошенники маскируют новый сценарий инвестскама под государственный проект](https://habr.com/ru/news/939042/?utm_campaign=939042&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость в Microsoft Copilot использует сбои в журналах аудита](https://habr.com/ru/news/939224/?utm_campaign=939224&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: GPT-5 показала значительный прогресс в области кибербезопасности](https://habr.com/ru/news/939222/?utm_campaign=939222&utm_source=habrahabr&utm_medium=rss)
+- [Срок поддержки ядра Linux 6.15 истёк, всем рекомендуется перейти на ядро Linux 6.16 или работать на Linux 6.12 LTS](https://habr.com/ru/news/939238/?utm_campaign=939238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
