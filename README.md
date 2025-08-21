@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытой модели ByteDance: Seed-OSS-36B с контекстом в 512 000 токенов](https://habr.com/ru/companies/bothub/news/939600/?utm_campaign=939600&utm_source=habrahabr&utm_medium=rss)
 - [Новое письмо от руководства Google: ИИ должен быть в работе повсюду](https://habr.com/ru/companies/bothub/news/939592/?utm_campaign=939592&utm_source=habrahabr&utm_medium=rss)
 - [Hyundai создала новый завод вокруг ИИ: от роботов до цифровых двойников](https://habr.com/ru/companies/bothub/news/939590/?utm_campaign=939590&utm_source=habrahabr&utm_medium=rss)
 - [Результаты опроса Python-разработчиков от JetBrains: экосистема, машинное обучение и демография](https://habr.com/ru/news/939564/?utm_campaign=939564&utm_source=habrahabr&utm_medium=rss)
 - [Apple, вероятно, не будет препятствовать установке RuStore на iPhone](https://habr.com/ru/news/939554/?utm_campaign=939554&utm_source=habrahabr&utm_medium=rss)
-- [Mobile Meetup SberHealth](https://habr.com/ru/companies/docdoc/news/939538/?utm_campaign=939538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
