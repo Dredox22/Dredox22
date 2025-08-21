@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры похищают логины Microsoft c использованием легитимных перенаправлений ADFS](https://habr.com/ru/news/939212/?utm_campaign=939212&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Glow 25.10 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/939132/?utm_campaign=939132&utm_source=habrahabr&utm_medium=rss)
 - [Релиз офисного пакета LibreOffice 25.8](https://habr.com/ru/news/939046/?utm_campaign=939046&utm_source=habrahabr&utm_medium=rss)
 - [Okta опубликовала каталог правил Auth0 с открытым исходным кодом для обнаружения угроз](https://habr.com/ru/news/938984/?utm_campaign=938984&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 обошел другие ИИ в пространственном мышлении. Но до людей еще далеко](https://habr.com/ru/news/939196/?utm_campaign=939196&utm_source=habrahabr&utm_medium=rss)
-- [Хватит тестировать в лаборатории: Inclusion Arena показывает, как LLM работают в реальности](https://habr.com/ru/companies/bothub/news/939184/?utm_campaign=939184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
