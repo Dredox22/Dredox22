@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за теста «Великого китайского файрвола» в ночь на 20 августа Китай отключили от глобального интернета на 74 минуты](https://habr.com/ru/news/939266/?utm_campaign=939266&utm_source=habrahabr&utm_medium=rss)
+- [Чаты пользователей с Grok утекли в сеть — речь идет о 370 тысячах диалогов](https://habr.com/ru/news/939254/?utm_campaign=939254&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft снова попросила игнорировать ошибку Event Viewer в Windows 11](https://habr.com/ru/news/939226/?utm_campaign=939226&utm_source=habrahabr&utm_medium=rss)
 - [В ЦБ РФ назвали девять признаков мошеннических операций, которые будут отслеживать банки у клиентов при снятии наличных](https://habr.com/ru/news/939246/?utm_campaign=939246&utm_source=habrahabr&utm_medium=rss)
 - [Поле чудес: мошенники маскируют новый сценарий инвестскама под государственный проект](https://habr.com/ru/news/939042/?utm_campaign=939042&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость в Microsoft Copilot использует сбои в журналах аудита](https://habr.com/ru/news/939224/?utm_campaign=939224&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: GPT-5 показала значительный прогресс в области кибербезопасности](https://habr.com/ru/news/939222/?utm_campaign=939222&utm_source=habrahabr&utm_medium=rss)
-- [Срок поддержки ядра Linux 6.15 истёк, всем рекомендуется перейти на ядро Linux 6.16 или работать на Linux 6.12 LTS](https://habr.com/ru/news/939238/?utm_campaign=939238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
