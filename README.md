@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek V3.1 анонсирован официально. Дешевая модель с улучшенными агентскими функциями](https://habr.com/ru/news/939346/?utm_campaign=939346&utm_source=habrahabr&utm_medium=rss)
+- [Sony объявила о повышении цен на консоли PS5 в США](https://habr.com/ru/news/939338/?utm_campaign=939338&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия CyberMir 7.2: более 30 тематических мероприятий по отработке навыков от «красных» до «белых» команд](https://habr.com/ru/companies/solarsecurity/news/939326/?utm_campaign=939326&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь кибербезопасности скачал данные о 270 тысячах сотрудников Intel и не получил за это вознаграждения](https://habr.com/ru/news/939320/?utm_campaign=939320&utm_source=habrahabr&utm_medium=rss)
 - [Из-за теста «Великого китайского файрвола» в ночь на 20 августа Китай отключили от глобального интернета на 74 минуты](https://habr.com/ru/news/939266/?utm_campaign=939266&utm_source=habrahabr&utm_medium=rss)
-- [Чаты пользователей с Grok утекли в сеть — речь идет о 370 тысячах диалогов](https://habr.com/ru/news/939254/?utm_campaign=939254&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft снова попросила игнорировать ошибку Event Viewer в Windows 11](https://habr.com/ru/news/939226/?utm_campaign=939226&utm_source=habrahabr&utm_medium=rss)
-- [В ЦБ РФ назвали девять признаков мошеннических операций, которые будут отслеживать банки у клиентов при снятии наличных](https://habr.com/ru/news/939246/?utm_campaign=939246&utm_source=habrahabr&utm_medium=rss)
-- [Поле чудес: мошенники маскируют новый сценарий инвестскама под государственный проект](https://habr.com/ru/news/939042/?utm_campaign=939042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
