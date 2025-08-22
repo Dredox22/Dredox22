@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дженсен Хуанг подтвердил: Rubin, самая мощная ИИ-архитектура Nvidia, уже в работе на фабриках TSMC](https://habr.com/ru/companies/bothub/news/939866/?utm_campaign=939866&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft лишила китайские компании раннего доступа к данным об уязвимости ПО из соображений безопасности](https://habr.com/ru/news/939860/?utm_campaign=939860&utm_source=habrahabr&utm_medium=rss)
 - [Вместо сотен разработчиков — десятки: новая стратегия Цукерберга](https://habr.com/ru/companies/bothub/news/939840/?utm_campaign=939840&utm_source=habrahabr&utm_medium=rss)
 - [После выхода DeepSeek-V3.1 акции китайских производителей полупроводников взлетели на 10-20%](https://habr.com/ru/news/939836/?utm_campaign=939836&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила опцию Advanced Shader Delivery, которая сократит время начальной загрузки в играх](https://habr.com/ru/news/939808/?utm_campaign=939808&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запросила у клиентов информацию о сбоях SSD после установки обновления KB5063878 для Windows 11 24H2](https://habr.com/ru/news/939760/?utm_campaign=939760&utm_source=habrahabr&utm_medium=rss)
-- [В России разрабатывается новая платформа для верификации возраста без предъявления паспорта](https://habr.com/ru/news/939738/?utm_campaign=939738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
