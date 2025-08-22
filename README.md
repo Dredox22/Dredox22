@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Zed Industries объявила об инвестировании в проект редактора кода Zed $35 млн от венчурного фонда Sequoia](https://habr.com/ru/news/939286/?utm_campaign=939286&utm_source=habrahabr&utm_medium=rss)
 - [Выручка OpenAI впервые превысила $1 млрд в месяц](https://habr.com/ru/news/939606/?utm_campaign=939606&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой модели ByteDance: Seed-OSS-36B с контекстом в 512 000 токенов](https://habr.com/ru/companies/bothub/news/939600/?utm_campaign=939600&utm_source=habrahabr&utm_medium=rss)
 - [Новое письмо от руководства Google: ИИ должен быть в работе повсюду](https://habr.com/ru/companies/bothub/news/939592/?utm_campaign=939592&utm_source=habrahabr&utm_medium=rss)
 - [Hyundai создала новый завод вокруг ИИ: от роботов до цифровых двойников](https://habr.com/ru/companies/bothub/news/939590/?utm_campaign=939590&utm_source=habrahabr&utm_medium=rss)
-- [Результаты опроса Python-разработчиков от JetBrains: экосистема, машинное обучение и демография](https://habr.com/ru/news/939564/?utm_campaign=939564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
