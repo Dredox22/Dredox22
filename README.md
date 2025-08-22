@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ecosia предложила взять на себя «управление» Chrome](https://habr.com/ru/news/939672/?utm_campaign=939672&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: власти, институты развития и бизнес ведут переговоры с Apple о допуске в App Store российских магазинов приложений](https://habr.com/ru/news/939664/?utm_campaign=939664&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила приложение «Менеджер паролей» для Android](https://habr.com/ru/news/939644/?utm_campaign=939644&utm_source=habrahabr&utm_medium=rss)
+- [F6: мошенники создали сеть фейковых сайтов электронных дневников для угона аккаунтов госсервиса](https://habr.com/ru/news/939660/?utm_campaign=939660&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Apache NetBeans 27](https://habr.com/ru/news/939656/?utm_campaign=939656&utm_source=habrahabr&utm_medium=rss)
-- [В Arch Linux сообщили о продолжающихся проблемах с доступностью к инфраструктуре проекта из-за DDoS-атаки](https://habr.com/ru/news/939646/?utm_campaign=939646&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Comet AI от Perplexity обманным путём заставили покупать поддельные товары онлайн](https://habr.com/ru/news/939636/?utm_campaign=939636&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Google начали искать альтернативы после прекращения поддержки Pytype](https://habr.com/ru/news/939622/?utm_campaign=939622&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого музыкального приложения Muffon 2.3.0](https://habr.com/ru/news/939552/?utm_campaign=939552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
