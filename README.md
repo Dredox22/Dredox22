@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла интегрированная среда разработки Apache NetBeans 27](https://habr.com/ru/news/939656/?utm_campaign=939656&utm_source=habrahabr&utm_medium=rss)
+- [В Arch Linux сообщили о продолжающихся проблемах с доступностью к инфраструктуре проекта из-за DDoS-атаки](https://habr.com/ru/news/939646/?utm_campaign=939646&utm_source=habrahabr&utm_medium=rss)
+- [Браузер Comet AI от Perplexity обманным путём заставили покупать поддельные товары онлайн](https://habr.com/ru/news/939636/?utm_campaign=939636&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Google начали искать альтернативы после прекращения поддержки Pytype](https://habr.com/ru/news/939622/?utm_campaign=939622&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого музыкального приложения Muffon 2.3.0](https://habr.com/ru/news/939552/?utm_campaign=939552&utm_source=habrahabr&utm_medium=rss)
-- [Zed Industries объявила об инвестировании в проект редактора кода Zed $35 млн от венчурного фонда Sequoia](https://habr.com/ru/news/939286/?utm_campaign=939286&utm_source=habrahabr&utm_medium=rss)
-- [Выручка OpenAI впервые превысила $1 млрд в месяц](https://habr.com/ru/news/939606/?utm_campaign=939606&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой модели ByteDance: Seed-OSS-36B с контекстом в 512 000 токенов](https://habr.com/ru/companies/bothub/news/939600/?utm_campaign=939600&utm_source=habrahabr&utm_medium=rss)
-- [Новое письмо от руководства Google: ИИ должен быть в работе повсюду](https://habr.com/ru/companies/bothub/news/939592/?utm_campaign=939592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
