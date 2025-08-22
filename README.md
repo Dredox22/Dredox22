@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила опцию Advanced Shader Delivery, которая сократит время начальной загрузки в играх](https://habr.com/ru/news/939808/?utm_campaign=939808&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запросила у клиентов информацию о сбоях SSD после установки обновления KB5063878 для Windows 11 24H2](https://habr.com/ru/news/939760/?utm_campaign=939760&utm_source=habrahabr&utm_medium=rss)
 - [В России разрабатывается новая платформа для верификации возраста без предъявления паспорта](https://habr.com/ru/news/939738/?utm_campaign=939738&utm_source=habrahabr&utm_medium=rss)
 - [Глава Microsoft AI предупредил о риске «психоза ИИ»](https://habr.com/ru/news/939722/?utm_campaign=939722&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдет «СИЛА ПЛАТФОРМЫ» — ключевой форум о проектировании и цифровизации в строительстве](https://habr.com/ru/companies/nanosoft/news/939712/?utm_campaign=939712&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Xbox для Windows скоро позволит устанавливать другие сервисы](https://habr.com/ru/news/939702/?utm_campaign=939702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
