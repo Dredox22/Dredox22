@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Microsoft AI предупредил о риске «психоза ИИ»](https://habr.com/ru/news/939722/?utm_campaign=939722&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдет «СИЛА ПЛАТФОРМЫ» — ключевой форум о проектировании и цифровизации в строительстве](https://habr.com/ru/companies/nanosoft/news/939712/?utm_campaign=939712&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Xbox для Windows скоро позволит устанавливать другие сервисы](https://habr.com/ru/news/939702/?utm_campaign=939702&utm_source=habrahabr&utm_medium=rss)
 - [Вышла российская ОС Simply Linux 11 на базе ядра Linux 6.12 &lpar;LTS&rpar;](https://habr.com/ru/news/939684/?utm_campaign=939684&utm_source=habrahabr&utm_medium=rss)
 - [Ecosia предложила взять на себя «управление» Chrome](https://habr.com/ru/news/939672/?utm_campaign=939672&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: власти, институты развития и бизнес ведут переговоры с Apple о допуске в App Store российских магазинов приложений](https://habr.com/ru/news/939664/?utm_campaign=939664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
