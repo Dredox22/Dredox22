@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple может использовать Google Gemini в обновленной Siri — Bloomberg](https://habr.com/ru/news/939964/?utm_campaign=939964&utm_source=habrahabr&utm_medium=rss)
 - [Глава Coinbase уволил разработчиков, которые не захотели осваивать нейроинструменты](https://habr.com/ru/news/939948/?utm_campaign=939948&utm_source=habrahabr&utm_medium=rss)
 - [Июльские $5 млрд превращаются в $10 млрд. Новый поворот в раунде Anthropic](https://habr.com/ru/news/939926/?utm_campaign=939926&utm_source=habrahabr&utm_medium=rss)
 - [GitHub запускает панель агентов: управление задачами прямо на github.com](https://habr.com/ru/companies/bothub/news/939896/?utm_campaign=939896&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик получил 4 года тюрьмы за использование вредоносного ПО и создание аварийного выключателя в системах Eaton](https://habr.com/ru/news/939888/?utm_campaign=939888&utm_source=habrahabr&utm_medium=rss)
-- [Дженсен Хуанг подтвердил: Rubin, самая мощная ИИ-архитектура Nvidia, уже в работе на фабриках TSMC](https://habr.com/ru/companies/bothub/news/939866/?utm_campaign=939866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
