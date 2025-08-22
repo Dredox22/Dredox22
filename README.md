@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub запускает панель агентов: управление задачами прямо на github.com](https://habr.com/ru/companies/bothub/news/939896/?utm_campaign=939896&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик получил 4 года тюрьмы за использование вредоносного ПО и создание аварийного выключателя в системах Eaton](https://habr.com/ru/news/939888/?utm_campaign=939888&utm_source=habrahabr&utm_medium=rss)
 - [Дженсен Хуанг подтвердил: Rubin, самая мощная ИИ-архитектура Nvidia, уже в работе на фабриках TSMC](https://habr.com/ru/companies/bothub/news/939866/?utm_campaign=939866&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft лишила китайские компании раннего доступа к данным об уязвимости ПО из соображений безопасности](https://habr.com/ru/news/939860/?utm_campaign=939860&utm_source=habrahabr&utm_medium=rss)
 - [Вместо сотен разработчиков — десятки: новая стратегия Цукерберга](https://habr.com/ru/companies/bothub/news/939840/?utm_campaign=939840&utm_source=habrahabr&utm_medium=rss)
-- [После выхода DeepSeek-V3.1 акции китайских производителей полупроводников взлетели на 10-20%](https://habr.com/ru/news/939836/?utm_campaign=939836&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила опцию Advanced Shader Delivery, которая сократит время начальной загрузки в играх](https://habr.com/ru/news/939808/?utm_campaign=939808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
