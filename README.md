@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta✶ привлекла Midjourney к разработке своих ИИ-моделей изображений и видео](https://habr.com/ru/companies/bothub/news/939996/?utm_campaign=939996&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FFmpeg 8.0 Huffman](https://habr.com/ru/news/939918/?utm_campaign=939918&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.9](https://habr.com/ru/news/939838/?utm_campaign=939838&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FreeRDP 3.17](https://habr.com/ru/news/939938/?utm_campaign=939938&utm_source=habrahabr&utm_medium=rss)
 - [Apple может использовать Google Gemini в обновленной Siri — Bloomberg](https://habr.com/ru/news/939964/?utm_campaign=939964&utm_source=habrahabr&utm_medium=rss)
-- [Глава Coinbase уволил разработчиков, которые не захотели осваивать нейроинструменты](https://habr.com/ru/news/939948/?utm_campaign=939948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
