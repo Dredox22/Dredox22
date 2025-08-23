@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 предложила новые варианты факторов Яманаки. Эти белки используют в борьбе со старением](https://habr.com/ru/news/940030/?utm_campaign=940030&utm_source=habrahabr&utm_medium=rss)
+- [AMD по ошибке опубликовала на GitHub исходный код FSR 4, а пользователи сделали его форки](https://habr.com/ru/news/940022/?utm_campaign=940022&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует поиск простыми словами в приложении Copilot для Windows 11](https://habr.com/ru/companies/bothub/news/940008/?utm_campaign=940008&utm_source=habrahabr&utm_medium=rss)
 - [Meta✶ привлекла Midjourney к разработке своих ИИ-моделей изображений и видео](https://habr.com/ru/companies/bothub/news/939996/?utm_campaign=939996&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FFmpeg 8.0 Huffman](https://habr.com/ru/news/939918/?utm_campaign=939918&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.9](https://habr.com/ru/news/939838/?utm_campaign=939838&utm_source=habrahabr&utm_medium=rss)
-- [Релиз FreeRDP 3.17](https://habr.com/ru/news/939938/?utm_campaign=939938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
