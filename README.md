@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МВД РФ: мошенники убеждают граждан перевести общение в Google Meet, FaceTime и мессенджер Max](https://habr.com/ru/news/940070/?utm_campaign=940070&utm_source=habrahabr&utm_medium=rss)
+- [Команда открытого редактора кода Zed готовит версию 1.0 осенью, но разработка проекта под Windows тормозит прогресс](https://habr.com/ru/news/940068/?utm_campaign=940068&utm_source=habrahabr&utm_medium=rss)
 - [Основатель Google Gen AI советует не браться за долгие образовательные треки — знания устареют из-за ИИ](https://habr.com/ru/news/940044/?utm_campaign=940044&utm_source=habrahabr&utm_medium=rss)
 - [В Flipper Zero заявили, что нет никаких секретных хакерских прошивок для гаджета, способных взломать любую машину](https://habr.com/ru/news/940034/?utm_campaign=940034&utm_source=habrahabr&utm_medium=rss)
 - [GPT-4 предложила новые варианты белков для борьбы со старением](https://habr.com/ru/news/940030/?utm_campaign=940030&utm_source=habrahabr&utm_medium=rss)
-- [AMD по ошибке опубликовала на GitHub исходный код FSR 4, а пользователи сделали его форки](https://habr.com/ru/news/940022/?utm_campaign=940022&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует поиск простыми словами в приложении Copilot для Windows 11](https://habr.com/ru/companies/bothub/news/940008/?utm_campaign=940008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
