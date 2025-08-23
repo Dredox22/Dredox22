@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз FFmpeg 8.0 Huffman](https://habr.com/ru/news/939918/?utm_campaign=939918&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.9](https://habr.com/ru/news/939838/?utm_campaign=939838&utm_source=habrahabr&utm_medium=rss)
+- [Релиз FreeRDP 3.17](https://habr.com/ru/news/939938/?utm_campaign=939938&utm_source=habrahabr&utm_medium=rss)
 - [Apple может использовать Google Gemini в обновленной Siri — Bloomberg](https://habr.com/ru/news/939964/?utm_campaign=939964&utm_source=habrahabr&utm_medium=rss)
 - [Глава Coinbase уволил разработчиков, которые не захотели осваивать нейроинструменты](https://habr.com/ru/news/939948/?utm_campaign=939948&utm_source=habrahabr&utm_medium=rss)
-- [Июльские $5 млрд превращаются в $10 млрд. Новый поворот в раунде Anthropic](https://habr.com/ru/news/939926/?utm_campaign=939926&utm_source=habrahabr&utm_medium=rss)
-- [GitHub запускает панель агентов: управление задачами прямо на github.com](https://habr.com/ru/companies/bothub/news/939896/?utm_campaign=939896&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик получил 4 года тюрьмы за использование вредоносного ПО и создание аварийного выключателя в системах Eaton](https://habr.com/ru/news/939888/?utm_campaign=939888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
