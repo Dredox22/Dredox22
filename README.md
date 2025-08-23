@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI опубликовала открытые веса Grok 2. Для запуска требуется 8 GPU](https://habr.com/ru/news/940132/?utm_campaign=940132&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедряет поддержку Model Context Protocol в Visual Studio](https://habr.com/ru/companies/bothub/news/940122/?utm_campaign=940122&utm_source=habrahabr&utm_medium=rss)
 - [Призрачный DoS: как фейковые студенты США ломают открытость образования](https://habr.com/ru/companies/bothub/news/940112/?utm_campaign=940112&utm_source=habrahabr&utm_medium=rss)
 - [Чтобы улучшить поиск в ChatGPT, в OpenAI «подсматривают» ответы у Google](https://habr.com/ru/news/940104/?utm_campaign=940104&utm_source=habrahabr&utm_medium=rss)
 - [Когда ИИ слишком уж соглашается: Spiral-Bench разоблачает, какие модели склонны подпитывать бред](https://habr.com/ru/companies/bothub/news/940100/?utm_campaign=940100&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент OpenCUA против Anthropic и OpenAI: опенсорс подбирается вплотную](https://habr.com/ru/companies/bothub/news/940084/?utm_campaign=940084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
