@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Призрачный DoS: как фейковые студенты США ломают открытость образования](https://habr.com/ru/companies/bothub/news/940112/?utm_campaign=940112&utm_source=habrahabr&utm_medium=rss)
 - [Чтобы улучшить поиск в ChatGPT, в OpenAI «подсматривают» ответы у Google](https://habr.com/ru/news/940104/?utm_campaign=940104&utm_source=habrahabr&utm_medium=rss)
 - [Когда ИИ слишком уж соглашается: Spiral-Bench разоблачает, какие модели склонны подпитывать бред](https://habr.com/ru/companies/bothub/news/940100/?utm_campaign=940100&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент OpenCUA против Anthropic и OpenAI: опенсорс подбирается вплотную](https://habr.com/ru/companies/bothub/news/940084/?utm_campaign=940084&utm_source=habrahabr&utm_medium=rss)
 - [МВД РФ: мошенники убеждают граждан перевести общение в Google Meet, FaceTime и мессенджер Max](https://habr.com/ru/news/940070/?utm_campaign=940070&utm_source=habrahabr&utm_medium=rss)
-- [Команда открытого редактора кода Zed готовит версию 1.0 осенью, но разработка проекта под Windows тормозит прогресс](https://habr.com/ru/news/940068/?utm_campaign=940068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
