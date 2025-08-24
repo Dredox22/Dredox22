@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлено приложение ScrollGuard для Android, которое блокирует ленты коротких видео](https://habr.com/ru/news/940182/?utm_campaign=940182&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Digg запустила новые мобильные приложения для iOS и Android](https://habr.com/ru/news/940156/?utm_campaign=940156&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует возможность возобновления работы приложений Android в Windows 11](https://habr.com/ru/news/940146/?utm_campaign=940146&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram тестируется аудиостатус в профиле пользователя](https://habr.com/ru/news/940138/?utm_campaign=940138&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива для съёмных носителей MiniOS 5.0](https://habr.com/ru/news/940046/?utm_campaign=940046&utm_source=habrahabr&utm_medium=rss)
-- [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 11.0](https://habr.com/ru/news/940042/?utm_campaign=940042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
