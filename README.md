@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: регуляторы планируют проверять на актуальность сотовые номера граждан, используемые для получения госуслуг онлайн](https://habr.com/ru/news/940200/?utm_campaign=940200&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge в Windows 11 предлагает заплатить $20 за ИИ-функцию, которая подсчитывает статистику просмотров](https://habr.com/ru/news/940198/?utm_campaign=940198&utm_source=habrahabr&utm_medium=rss)
 - [Как Google Genie 3, но доступен каждому. Выпущен ИИ-генератор миров Mirage 2](https://habr.com/ru/news/940194/?utm_campaign=940194&utm_source=habrahabr&utm_medium=rss)
 - [Представлено приложение ScrollGuard для Android, которое блокирует ленты коротких видео](https://habr.com/ru/news/940182/?utm_campaign=940182&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Digg запустила новые мобильные приложения для iOS и Android](https://habr.com/ru/news/940156/?utm_campaign=940156&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует возможность возобновления работы приложений Android в Windows 11](https://habr.com/ru/news/940146/?utm_campaign=940146&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram тестируется аудиостатус в профиле пользователя](https://habr.com/ru/news/940138/?utm_campaign=940138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
