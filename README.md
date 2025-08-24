@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Раньше в Ancestry оцифровывали документы 9 месяцев. Теперь ИИ справляется за 9 дней](https://habr.com/ru/companies/bothub/news/940260/?utm_campaign=940260&utm_source=habrahabr&utm_medium=rss)
 - [Фреймворк BeyondWeb &lpar;Datology AI&rpar; перестраивает веб-документы для лучшего обучения моделей](https://habr.com/ru/companies/bothub/news/940250/?utm_campaign=940250&utm_source=habrahabr&utm_medium=rss)
 - [Boston Dynamics вместо кодирования Atlas просто показывает роботу, что делать](https://habr.com/ru/companies/bothub/news/940238/?utm_campaign=940238&utm_source=habrahabr&utm_medium=rss)
 - [Новая платформа для деплоя, обновления и мониторинга AI‑моделей в проде](https://habr.com/ru/companies/mws/news/938720/?utm_campaign=938720&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: регуляторы планируют проверять на актуальность сотовые номера граждан, используемые для получения госуслуг онлайн](https://habr.com/ru/news/940200/?utm_campaign=940200&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge в Windows 11 предлагает заплатить $20 за ИИ-функцию, которая подсчитывает статистику просмотров](https://habr.com/ru/news/940198/?utm_campaign=940198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
