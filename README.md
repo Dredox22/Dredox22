@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз дистрибутива для съёмных носителей MiniOS 5.0](https://habr.com/ru/news/940046/?utm_campaign=940046&utm_source=habrahabr&utm_medium=rss)
+- [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 11.0](https://habr.com/ru/news/940042/?utm_campaign=940042&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Qmmp 2.2.8 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/939994/?utm_campaign=939994&utm_source=habrahabr&utm_medium=rss)
 - [xAI опубликовала открытые веса Grok 2. Для запуска требуется 8 GPU](https://habr.com/ru/news/940132/?utm_campaign=940132&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедряет поддержку Model Context Protocol в Visual Studio](https://habr.com/ru/companies/bothub/news/940122/?utm_campaign=940122&utm_source=habrahabr&utm_medium=rss)
-- [Призрачный DoS: как фейковые студенты США ломают открытость образования](https://habr.com/ru/companies/bothub/news/940112/?utm_campaign=940112&utm_source=habrahabr&utm_medium=rss)
-- [Чтобы улучшить поиск в ChatGPT, в OpenAI «подсматривают» ответы у Google](https://habr.com/ru/news/940104/?utm_campaign=940104&utm_source=habrahabr&utm_medium=rss)
-- [Когда ИИ слишком уж соглашается: Spiral-Bench разоблачает, какие модели склонны подпитывать бред](https://habr.com/ru/companies/bothub/news/940100/?utm_campaign=940100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
