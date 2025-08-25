@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Microsoft 365 Copilot для iOS перестанет работать как редактор](https://habr.com/ru/news/940202/?utm_campaign=940202&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует поиск файлов с помощью ИИ в приложении Copilot для Windows 11](https://habr.com/ru/news/940204/?utm_campaign=940204&utm_source=habrahabr&utm_medium=rss)
 - [Крестный отец ИИ сравнил современные модели с угрозой от пришельцев](https://habr.com/ru/news/940312/?utm_campaign=940312&utm_source=habrahabr&utm_medium=rss)
 - [Новый модуль Grammarly, AI Grader, использует открытые данные о преподавателе для предсказания оценки](https://habr.com/ru/companies/bothub/news/940304/?utm_campaign=940304&utm_source=habrahabr&utm_medium=rss)
 - [DogRecon: ИИ превращает фото собаки в анимированного 3D-аватара](https://habr.com/ru/companies/bothub/news/940300/?utm_campaign=940300&utm_source=habrahabr&utm_medium=rss)
-- [«Сначала покажи паспорт»: новые правила проверки возраста в западном интернете](https://habr.com/ru/companies/bothub/news/940294/?utm_campaign=940294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
