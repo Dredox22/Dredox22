@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple готовит сервис с личным ИИ-терапевтом Apple Health+](https://habr.com/ru/news/940446/?utm_campaign=940446&utm_source=habrahabr&utm_medium=rss)
+- [«Самый важный бенчмарк». GPT-5 прошла Pokemon Crystal быстрее других ИИ](https://habr.com/ru/news/940440/?utm_campaign=940440&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft стала активнее предупреждать пользователей об окончании поддержки Windows 10 через баннеры](https://habr.com/ru/news/940438/?utm_campaign=940438&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia выпустила большой открытый набор данных Granary для обучения ИИ и работы с текстами на европейских языках](https://habr.com/ru/news/940430/?utm_campaign=940430&utm_source=habrahabr&utm_medium=rss)
 - [IT Elements Awards: подайте заявку на премию для тех, кто делает ИТ в России](https://habr.com/ru/companies/jetinfosystems/news/940420/?utm_campaign=940420&utm_source=habrahabr&utm_medium=rss)
-- [Релиз сканера сетевой безопасности Nmap 7.98 &lpar;Network Mapper&rpar;](https://habr.com/ru/news/940400/?utm_campaign=940400&utm_source=habrahabr&utm_medium=rss)
-- [Intuit прекращает поддержку Windows 10 в TurboTax Desktop 2025 из-за проблем безопасности](https://habr.com/ru/news/940398/?utm_campaign=940398&utm_source=habrahabr&utm_medium=rss)
-- [Компактная камера Ricoh GR IV выйдет в сентябре по цене $1500](https://habr.com/ru/news/940372/?utm_campaign=940372&utm_source=habrahabr&utm_medium=rss)
-- [Чёрная рука: за полгода мошенники похитили через атаки на детей более 600 млн рублей](https://habr.com/ru/companies/F6/news/939796/?utm_campaign=939796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
