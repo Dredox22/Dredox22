@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/940612/?utm_campaign=940612&utm_source=habrahabr&utm_medium=rss)
+- [Серверы Nvidia GB200 NVL72 пока не справляются с обучением передовых ИИ — SemiAnalysis](https://habr.com/ru/news/940588/?utm_campaign=940588&utm_source=habrahabr&utm_medium=rss)
 - [Не успел утихнуть шум вокруг GPT-5, как Сэм Альтман уже рассказал о GPT-6: кастомизация, память и признание ошибок](https://habr.com/ru/news/940584/?utm_campaign=940584&utm_source=habrahabr&utm_medium=rss)
 - [В мессенджер Max интегрирована технология мобильной электронной подписи «Госключ»](https://habr.com/ru/news/940538/?utm_campaign=940538&utm_source=habrahabr&utm_medium=rss)
 - [Слухи: первый складной iPhone будет оснащён четырьмя камерами и сканером отпечатков пальцев Touch ID вместо Face ID](https://habr.com/ru/news/940500/?utm_campaign=940500&utm_source=habrahabr&utm_medium=rss)
-- [Провели референс-визит по внедрению Data Governance и повышению data-культуры](https://habr.com/ru/companies/otpbank/news/940478/?utm_campaign=940478&utm_source=habrahabr&utm_medium=rss)
-- [Обновление InfoWatch ARMA Стена &lpar;NGFW&rpar; 4.6](https://habr.com/ru/companies/infowatch/news/940470/?utm_campaign=940470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
