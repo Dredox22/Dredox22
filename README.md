@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Слухи: первый складной iPhone будет оснащён четырьмя камерами и сканером отпечатков пальцев Touch ID вместо Face ID](https://habr.com/ru/news/940500/?utm_campaign=940500&utm_source=habrahabr&utm_medium=rss)
 - [Провели референс-визит по внедрению Data Governance и повышению data-культуры](https://habr.com/ru/companies/otpbank/news/940478/?utm_campaign=940478&utm_source=habrahabr&utm_medium=rss)
 - [Обновление InfoWatch ARMA Стена &lpar;NGFW&rpar; 4.6](https://habr.com/ru/companies/infowatch/news/940470/?utm_campaign=940470&utm_source=habrahabr&utm_medium=rss)
 - [От знаний к инновациям: старт профессиональных конкурсов «Нанософт» для преподавателей и студентов](https://habr.com/ru/companies/nanosoft/news/940466/?utm_campaign=940466&utm_source=habrahabr&utm_medium=rss)
 - [Apple готовит сервис с личным ИИ-терапевтом Apple Health+](https://habr.com/ru/news/940446/?utm_campaign=940446&utm_source=habrahabr&utm_medium=rss)
-- [«Самый важный бенчмарк». GPT-5 прошла Pokemon Crystal быстрее других ИИ](https://habr.com/ru/news/940440/?utm_campaign=940440&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
