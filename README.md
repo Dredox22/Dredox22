@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик Pwnagotchi предложил использовать бейдж Human Code для проектов, которые созданы без помощи нейросетей](https://habr.com/ru/news/940672/?utm_campaign=940672&utm_source=habrahabr&utm_medium=rss)
 - [Foxconn, ключевой подрядчик Apple, отозвал около 300 инженеров китайского происхождения со своего предприятия в Индии](https://habr.com/ru/news/940638/?utm_campaign=940638&utm_source=habrahabr&utm_medium=rss)
 - [Принадлежащая Илону Маску xAI подала в суд на OpenAI и Apple](https://habr.com/ru/news/940632/?utm_campaign=940632&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/940612/?utm_campaign=940612&utm_source=habrahabr&utm_medium=rss)
 - [Серверы Nvidia GB200 NVL72 пока не справляются с обучением передовых ИИ — SemiAnalysis](https://habr.com/ru/news/940588/?utm_campaign=940588&utm_source=habrahabr&utm_medium=rss)
-- [Не успел утихнуть шум вокруг GPT-5, как Сэм Альтман уже рассказал о GPT-6: кастомизация, память и признание ошибок](https://habr.com/ru/news/940584/?utm_campaign=940584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
