@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» запустил проект «Вжух» — бесконтактную оплату iPhone по аналогии с Apple Pay, но по Bluetooth вместо NFC](https://habr.com/ru/news/940382/?utm_campaign=940382&utm_source=habrahabr&utm_medium=rss)
+- [«Rust для действующих разработчиков» — новый курс в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/928186/?utm_campaign=928186&utm_source=habrahabr&utm_medium=rss)
+- [Приложения Google TV и Android TV будут поддерживать 64-битную версию с августа 2026 года](https://habr.com/ru/news/940360/?utm_campaign=940360&utm_source=habrahabr&utm_medium=rss)
 - [С октября домены Microsoft 365 столкнутся с ограничением в 100 писем в день](https://habr.com/ru/news/940356/?utm_campaign=940356&utm_source=habrahabr&utm_medium=rss)
 - [В России планируют ввести механизм добровольного ограничения доступа к потенциально опасному контенту](https://habr.com/ru/news/940370/?utm_campaign=940370&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили технологию прослушки смартфонов с помощью радаров автопилотов](https://habr.com/ru/news/940350/?utm_campaign=940350&utm_source=habrahabr&utm_medium=rss)
-- [Camunda признана лидером в оркестрации в отчете Forrester Wave 2025 for DPA](https://habr.com/ru/news/939764/?utm_campaign=939764&utm_source=habrahabr&utm_medium=rss)
-- [Linux исполнилось 34 года](https://habr.com/ru/news/940354/?utm_campaign=940354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
