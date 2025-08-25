@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Сбер» запустил проект «Вжух» — бесконтактную оплату iPhone по аналогии с Apple Pay, но по Bluetooth вместо NFC](https://habr.com/ru/news/940382/?utm_campaign=940382&utm_source=habrahabr&utm_medium=rss)
-- [«Rust для действующих разработчиков» — новый курс в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/928186/?utm_campaign=928186&utm_source=habrahabr&utm_medium=rss)
-- [Приложения Google TV и Android TV будут поддерживать 64-битную версию с августа 2026 года](https://habr.com/ru/news/940360/?utm_campaign=940360&utm_source=habrahabr&utm_medium=rss)
-- [С октября домены Microsoft 365 столкнутся с ограничением в 100 писем в день](https://habr.com/ru/news/940356/?utm_campaign=940356&utm_source=habrahabr&utm_medium=rss)
-- [В России планируют ввести механизм добровольного ограничения доступа к потенциально опасному контенту](https://habr.com/ru/news/940370/?utm_campaign=940370&utm_source=habrahabr&utm_medium=rss)
+- [IT Elements Awards: подайте заявку на премию для тех, кто делает ИТ в России](https://habr.com/ru/companies/jetinfosystems/news/940420/?utm_campaign=940420&utm_source=habrahabr&utm_medium=rss)
+- [Релиз сканера сетевой безопасности Nmap 7.98 &lpar;Network Mapper&rpar;](https://habr.com/ru/news/940400/?utm_campaign=940400&utm_source=habrahabr&utm_medium=rss)
+- [Intuit прекращает поддержку Windows 10 в TurboTax Desktop 2025 из-за проблем безопасности](https://habr.com/ru/news/940398/?utm_campaign=940398&utm_source=habrahabr&utm_medium=rss)
+- [Компактная камера Ricoh GR IV выйдет в сентябре по цене $1500](https://habr.com/ru/news/940372/?utm_campaign=940372&utm_source=habrahabr&utm_medium=rss)
+- [Чёрная рука: за полгода мошенники похитили через атаки на детей более 600 млн рублей](https://habr.com/ru/companies/F6/news/939796/?utm_campaign=939796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
