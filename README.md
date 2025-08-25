@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft устранила сбой пути обновления в Windows 10 и Windows Server](https://habr.com/ru/news/940338/?utm_campaign=940338&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PowerDNS Authoritative Server 5.0](https://habr.com/ru/news/940216/?utm_campaign=940216&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый видеотранскодер HandBrake 1.10.1](https://habr.com/ru/news/940270/?utm_campaign=940270&utm_source=habrahabr&utm_medium=rss)
 - [Стартовала фотоконкурс от Фонда свободного программного обеспечения &lpar;Free Software Foundation, FSF&rpar;](https://habr.com/ru/news/940278/?utm_campaign=940278&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Microsoft 365 Copilot для iOS перестанет работать как редактор](https://habr.com/ru/news/940202/?utm_campaign=940202&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует поиск файлов с помощью ИИ в приложении Copilot для Windows 11](https://habr.com/ru/news/940204/?utm_campaign=940204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
