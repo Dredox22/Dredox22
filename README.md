@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект открытой СУБД DocumentDB от Microsoft стал частью Linux Foundation](https://habr.com/ru/news/940704/?utm_campaign=940704&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила VibeVoice — открытую TTS-модель для генерации диалогов и подкастов продолжительностью до 90 минут](https://habr.com/ru/news/940694/?utm_campaign=940694&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры рекомендовало ряду крупных компаний РФ провести интеграцию их внутренних систем с чат-ботом в мессенджере Max](https://habr.com/ru/news/940692/?utm_campaign=940692&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого эмулятора 86Box 5.0](https://habr.com/ru/news/940416/?utm_campaign=940416&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой утилиты Twinkle Tray 1.17 для управления уровнями яркости нескольких мониторов в WIndows 10/11](https://habr.com/ru/news/940570/?utm_campaign=940570&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Pwnagotchi предложил использовать бейдж Human Coded для проектов, которые созданы без помощи нейросетей](https://habr.com/ru/news/940672/?utm_campaign=940672&utm_source=habrahabr&utm_medium=rss)
-- [Foxconn, ключевой подрядчик Apple, отозвал около 300 инженеров китайского происхождения со своего предприятия в Индии](https://habr.com/ru/news/940638/?utm_campaign=940638&utm_source=habrahabr&utm_medium=rss)
-- [Принадлежащая Илону Маску xAI подала в суд на OpenAI и Apple](https://habr.com/ru/news/940632/?utm_campaign=940632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
