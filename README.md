@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [За последний год белые хакеры в РФ заработали почти 270 млн рублей](https://habr.com/ru/news/940840/?utm_campaign=940840&utm_source=habrahabr&utm_medium=rss)
-- [PGConf.Academy 2025: как преподавать IT-дисциплины и внедрять PostgreSQL в учебный процесс](https://habr.com/ru/companies/postgrespro/news/940786/?utm_campaign=940786&utm_source=habrahabr&utm_medium=rss)
-- [Встречаем Spring 7.0, оцениваем Jakarta Data, Quarkus казнить | Spring АйО Подкаст №31](https://habr.com/ru/companies/spring_aio/news/940810/?utm_campaign=940810&utm_source=habrahabr&utm_medium=rss)
-- [В код драйвера Floppy Disk в ядре Linux предложены новые патчи, спустя три года после обновления этого компонента](https://habr.com/ru/news/940718/?utm_campaign=940718&utm_source=habrahabr&utm_medium=rss)
-- [На Android усложняют установку приложений не из Google Play](https://habr.com/ru/news/940716/?utm_campaign=940716&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты расценили «подхалимство ИИ» как «тёмный паттерн» для извлечения прибыли](https://habr.com/ru/news/940888/?utm_campaign=940888&utm_source=habrahabr&utm_medium=rss)
+- [Luxms BI подтвердила совместимость с российской СУБД Arenadata Prosperity](https://habr.com/ru/companies/luxms_bi/news/940784/?utm_campaign=940784&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp сделал обмен статусами в iOS быстрее и удобнее](https://habr.com/ru/news/940878/?utm_campaign=940878&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры подготовило второй пакет мер по борьбе с кибермошенниками](https://habr.com/ru/news/940874/?utm_campaign=940874&utm_source=habrahabr&utm_medium=rss)
+- [Тонкие настройки прав доступа в новом релизе IdM-системы Solar inRights](https://habr.com/ru/companies/solarsecurity/news/940872/?utm_campaign=940872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
