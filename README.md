@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила новый ИИ для создания картинок. Он обходит GPT Image в 6 из 7 бенчмарков](https://habr.com/ru/news/940968/?utm_campaign=940968&utm_source=habrahabr&utm_medium=rss)
 - [Комплект разработчика NVIDIA AGX Thor — серверная мощь в мире роботов](https://habr.com/ru/companies/bothub/news/940954/?utm_campaign=940954&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT добавили раздельную память и квизы. Вот как их включить](https://habr.com/ru/news/940944/?utm_campaign=940944&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала инструмент для преобразования виртуальных машин VM Conversion](https://habr.com/ru/news/940932/?utm_campaign=940932&utm_source=habrahabr&utm_medium=rss)
 - [В Audio Hijack рассказали, как баг в триальной версии помог улучшить монетизацию проекта](https://habr.com/ru/news/940914/?utm_campaign=940914&utm_source=habrahabr&utm_medium=rss)
-- [Sony решила отказаться от классических девкитов при разработке PlayStation 6](https://habr.com/ru/news/940920/?utm_campaign=940920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
