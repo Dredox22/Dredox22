@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Audio Hijack рассказали, как баг в триальной версии помог улучшить монетизацию проекта](https://habr.com/ru/news/940914/?utm_campaign=940914&utm_source=habrahabr&utm_medium=rss)
+- [Sony решила отказаться от классических девкитов при разработке PlayStation 6](https://habr.com/ru/news/940920/?utm_campaign=940920&utm_source=habrahabr&utm_medium=rss)
+- [uBlock Origin недоступен в магазине дополнений Edge — как установить сервис](https://habr.com/ru/news/940906/?utm_campaign=940906&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 сможет автоматически устанавливать обновления во время запуска при включении через OOBE](https://habr.com/ru/news/940900/?utm_campaign=940900&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты расценили «подхалимство ИИ» как «тёмный паттерн» для извлечения прибыли](https://habr.com/ru/news/940888/?utm_campaign=940888&utm_source=habrahabr&utm_medium=rss)
-- [Luxms BI подтвердила совместимость с российской СУБД Arenadata Prosperity](https://habr.com/ru/companies/luxms_bi/news/940784/?utm_campaign=940784&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp сделал обмен статусами в iOS быстрее и удобнее](https://habr.com/ru/news/940878/?utm_campaign=940878&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры подготовило второй пакет мер по борьбе с кибермошенниками](https://habr.com/ru/news/940874/?utm_campaign=940874&utm_source=habrahabr&utm_medium=rss)
-- [Тонкие настройки прав доступа в новом релизе IdM-системы Solar inRights](https://habr.com/ru/companies/solarsecurity/news/940872/?utm_campaign=940872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
