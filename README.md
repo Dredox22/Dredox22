@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Встречаем Spring 7.0, оцениваем Jakarta Data, Quarkus казнить | Spring АйО Подкаст №31](https://habr.com/ru/companies/spring_aio/news/940810/?utm_campaign=940810&utm_source=habrahabr&utm_medium=rss)
 - [В код драйвера Floppy Disk в ядре Linux предложены новые патчи, спустя три года после обновления этого компонента](https://habr.com/ru/news/940718/?utm_campaign=940718&utm_source=habrahabr&utm_medium=rss)
 - [На Android усложняют установку приложений не из Google Play](https://habr.com/ru/news/940716/?utm_campaign=940716&utm_source=habrahabr&utm_medium=rss)
 - [Проект открытой СУБД DocumentDB от Microsoft стал частью Linux Foundation](https://habr.com/ru/news/940704/?utm_campaign=940704&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила VibeVoice — открытую TTS-модель для генерации диалогов и подкастов продолжительностью до 90 минут](https://habr.com/ru/news/940694/?utm_campaign=940694&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры рекомендовало ряду крупных компаний РФ провести интеграцию их внутренних систем с чат-ботом в мессенджере Max](https://habr.com/ru/news/940692/?utm_campaign=940692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
