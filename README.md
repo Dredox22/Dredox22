@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Комплект разработчика NVIDIA AGX Thor — серверная мощь в мире роботов](https://habr.com/ru/companies/bothub/news/940954/?utm_campaign=940954&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT добавили раздельную память и квизы. Вот как их включить](https://habr.com/ru/news/940944/?utm_campaign=940944&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft анонсировала инструмент для преобразования виртуальных машин VM Conversion](https://habr.com/ru/news/940932/?utm_campaign=940932&utm_source=habrahabr&utm_medium=rss)
 - [В Audio Hijack рассказали, как баг в триальной версии помог улучшить монетизацию проекта](https://habr.com/ru/news/940914/?utm_campaign=940914&utm_source=habrahabr&utm_medium=rss)
 - [Sony решила отказаться от классических девкитов при разработке PlayStation 6](https://habr.com/ru/news/940920/?utm_campaign=940920&utm_source=habrahabr&utm_medium=rss)
-- [uBlock Origin недоступен в магазине дополнений Edge — как установить сервис](https://habr.com/ru/news/940906/?utm_campaign=940906&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 сможет автоматически устанавливать обновления во время запуска при включении через OOBE](https://habr.com/ru/news/940900/?utm_campaign=940900&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты расценили «подхалимство ИИ» как «тёмный паттерн» для извлечения прибыли](https://habr.com/ru/news/940888/?utm_campaign=940888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
