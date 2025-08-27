@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google: 27 августа Google Meet в РФ был частично недоступен, но технических проблем со стороны сервиса не было](https://habr.com/ru/news/941428/?utm_campaign=941428&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE выпустила исследование теневых ресурсов «Threat Zone 2025: обратная сторона»](https://habr.com/ru/news/941422/?utm_campaign=941422&utm_source=habrahabr&utm_medium=rss)
+- [Вышла VIM Master — браузерная игра для обучения основным действиям и командам в Vim](https://habr.com/ru/news/941416/?utm_campaign=941416&utm_source=habrahabr&utm_medium=rss)
 - [НТЦ ИТ «Роса» запустил портал для мобильных разработчиков под мобильную ОС «Роса Мобайл»](https://habr.com/ru/news/941390/?utm_campaign=941390&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic заключила мировое соглашение в деле, которое грозило ей миллиардными штрафами](https://habr.com/ru/news/941354/?utm_campaign=941354&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T покупает у EchoStar лицензии на беспроводную связь за $23 млрд](https://habr.com/ru/news/941334/?utm_campaign=941334&utm_source=habrahabr&utm_medium=rss)
-- [Объем российского рынка API Management составит 5 млрд. рублей к 2030 году](https://habr.com/ru/companies/neoflex/news/941322/?utm_campaign=941322&utm_source=habrahabr&utm_medium=rss)
-- [Гарда: Сохранить всё. Безопасность информации](https://habr.com/ru/companies/garda/news/941232/?utm_campaign=941232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
