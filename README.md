@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гарда: Сохранить всё. Безопасность информации](https://habr.com/ru/companies/garda/news/941232/?utm_campaign=941232&utm_source=habrahabr&utm_medium=rss)
+- [Минимум 9 сотрудников покинули ИИ-подразделение Meta✶. Причины — бюрократия и турбулентность](https://habr.com/ru/news/941268/?utm_campaign=941268&utm_source=habrahabr&utm_medium=rss)
+- [Timeweb усилил защиту облачных сервисов на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/941260/?utm_campaign=941260&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia выпустила «мозг для робота» — суперкомпьютер Jetson AGX Thor стоимостью $3499](https://habr.com/ru/news/940996/?utm_campaign=940996&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар по работе с персональными данными и 152-ФЗ](https://habr.com/ru/companies/selectel/news/941160/?utm_campaign=941160&utm_source=habrahabr&utm_medium=rss)
-- [Субъектность для нейросетей или безумие продолжается](https://habr.com/ru/companies/ddosguard/news/941200/?utm_campaign=941200&utm_source=habrahabr&utm_medium=rss)
-- [Hasselblad представила фотоаппарат X2D II 100C с гибридным автофокусом](https://habr.com/ru/news/941164/?utm_campaign=941164&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила обновления Windows Terminal 1.23](https://habr.com/ru/news/941156/?utm_campaign=941156&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал альфа-тест ИИ-агента в «Яндекс Браузере»](https://habr.com/ru/news/941172/?utm_campaign=941172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
