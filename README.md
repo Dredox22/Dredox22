@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hasselblad представила фотоаппарат X2D II 100C с гибридным автофокусом](https://habr.com/ru/news/941164/?utm_campaign=941164&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила обновления Windows Terminal 1.23](https://habr.com/ru/news/941156/?utm_campaign=941156&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал альфа-тест ИИ-агента в «Яндекс Браузере»](https://habr.com/ru/news/941172/?utm_campaign=941172&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила бета-версию YouTube для Android TV](https://habr.com/ru/news/941150/?utm_campaign=941150&utm_source=habrahabr&utm_medium=rss)
 - [Hosting.com приобрела Rocket.net для расширения глобального бизнеса WordPress-хостинга](https://habr.com/ru/news/941146/?utm_campaign=941146&utm_source=habrahabr&utm_medium=rss)
-- [Может ли Spring стать платным, Hibernate мешает, Bitnami хочет денег | Spring АйО Подкаст №32](https://habr.com/ru/companies/spring_aio/news/940866/?utm_campaign=940866&utm_source=habrahabr&utm_medium=rss)
-- [В интернет-магазинах начали продавать iPhone с пометками «Без RuStore»](https://habr.com/ru/news/941142/?utm_campaign=941142&utm_source=habrahabr&utm_medium=rss)
-- [ЦНИИ «Судового машиностроения» оценил потенциал Engee для импортонезависимого моделирования](https://habr.com/ru/companies/etmc_exponenta/news/940770/?utm_campaign=940770&utm_source=habrahabr&utm_medium=rss)
-- [«ИИ-безопасник» и оборотные штрафы: все про актуальное в ИБ на RoadShow Searchinform 2025](https://habr.com/ru/companies/searchinform/news/941024/?utm_campaign=941024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
