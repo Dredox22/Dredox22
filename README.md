@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хватит вручную запускать скрипты на десятках серверов — автоматизируйте](https://habr.com/ru/companies/cloud4y/news/941006/?utm_campaign=941006&utm_source=habrahabr&utm_medium=rss)
+- [Собираем data-сообщество на Data Picnic Х5 Tech](https://habr.com/ru/companies/X5Tech/news/941126/?utm_campaign=941126&utm_source=habrahabr&utm_medium=rss)
+- [В Малайзии запустили ИИ-банк](https://habr.com/ru/news/941120/?utm_campaign=941120&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Bun.sh v1.2.21](https://habr.com/ru/news/941104/?utm_campaign=941104&utm_source=habrahabr&utm_medium=rss)
 - [В ЦБ РФ призвали банки и кредитные организации раскрывать причины блокировки карт и приостановления операций по счётам](https://habr.com/ru/news/941092/?utm_campaign=941092&utm_source=habrahabr&utm_medium=rss)
-- [Релиз AnyDesk 9.6.0 для Windows](https://habr.com/ru/news/941022/?utm_campaign=941022&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект whatmade, запоминающий, каким процессом создан тот или иной файл в отслеживаемых директориях](https://habr.com/ru/news/940896/?utm_campaign=940896&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.4](https://habr.com/ru/news/940846/?utm_campaign=940846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
