@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic начинает тестирование Claude для Chrome](https://habr.com/ru/news/941066/?utm_campaign=941066&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia GB300: 288 ГБ, PCIe 6, 1400 Вт — тот случай, когда «ещё больше всего» действительно работает](https://habr.com/ru/companies/bothub/news/941062/?utm_campaign=941062&utm_source=habrahabr&utm_medium=rss)
-- [Отстав от гонки ген-ИИ, IBM и AMD объединяют усилия для создания квантово-центричных суперкомпьютеров](https://habr.com/ru/companies/bothub/news/941058/?utm_campaign=941058&utm_source=habrahabr&utm_medium=rss)
-- [Google представила новый ИИ для создания картинок. Он обходит GPT Image в 6 из 7 бенчмарков](https://habr.com/ru/news/940968/?utm_campaign=940968&utm_source=habrahabr&utm_medium=rss)
-- [Комплект разработчика NVIDIA AGX Thor — серверная мощь в мире роботов](https://habr.com/ru/companies/bothub/news/940954/?utm_campaign=940954&utm_source=habrahabr&utm_medium=rss)
+- [Релиз AnyDesk 9.6.0 для Windows](https://habr.com/ru/news/941022/?utm_campaign=941022&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект whatmade, запоминающий, каким процессом создан тот или иной файл в отслеживаемых директориях](https://habr.com/ru/news/940896/?utm_campaign=940896&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.4](https://habr.com/ru/news/940846/?utm_campaign=940846&utm_source=habrahabr&utm_medium=rss)
+- [Вышел DaVinci Resolve 20.1.1](https://habr.com/ru/news/940838/?utm_campaign=940838&utm_source=habrahabr&utm_medium=rss)
+- [Grok Code Fast 1](https://habr.com/ru/news/941080/?utm_campaign=941080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
