@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Хватит вручную запускать скрипты на десятках серверов — автоматизируйте](https://habr.com/ru/companies/cloud4y/news/941006/?utm_campaign=941006&utm_source=habrahabr&utm_medium=rss)
-- [Собираем data-сообщество на Data Picnic Х5 Tech](https://habr.com/ru/companies/X5Tech/news/941126/?utm_campaign=941126&utm_source=habrahabr&utm_medium=rss)
-- [В Малайзии запустили ИИ-банк](https://habr.com/ru/news/941120/?utm_campaign=941120&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Bun.sh v1.2.21](https://habr.com/ru/news/941104/?utm_campaign=941104&utm_source=habrahabr&utm_medium=rss)
-- [В ЦБ РФ призвали банки и кредитные организации раскрывать причины блокировки карт и приостановления операций по счётам](https://habr.com/ru/news/941092/?utm_campaign=941092&utm_source=habrahabr&utm_medium=rss)
+- [Hosting.com приобрела Rocket.net для расширения глобального бизнеса WordPress-хостинга](https://habr.com/ru/news/941146/?utm_campaign=941146&utm_source=habrahabr&utm_medium=rss)
+- [Может ли Spring стать платным, Hibernate мешает, Bitnami хочет денег | Spring АйО Подкаст №32](https://habr.com/ru/companies/spring_aio/news/940866/?utm_campaign=940866&utm_source=habrahabr&utm_medium=rss)
+- [В интернет-магазинах начали продавать iPhone с пометками «Без RuStore»](https://habr.com/ru/news/941142/?utm_campaign=941142&utm_source=habrahabr&utm_medium=rss)
+- [ЦНИИ «Судового машиностроения» оценил потенциал Engee для импортонезависимого моделирования](https://habr.com/ru/companies/etmc_exponenta/news/940770/?utm_campaign=940770&utm_source=habrahabr&utm_medium=rss)
+- [«ИИ-безопасник» и оборотные штрафы: все про актуальное в ИБ на RoadShow Searchinform 2025](https://habr.com/ru/companies/searchinform/news/941024/?utm_campaign=941024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
