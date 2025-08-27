@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Киберугроза будущего: ESET раскрыла PromptLock — первый ИИ-вымогатель](https://habr.com/ru/news/941466/?utm_campaign=941466&utm_source=habrahabr&utm_medium=rss)
+- [Вышла VoxHammer — нейросеть для локального редактирования 3D-объектов](https://habr.com/ru/news/941462/?utm_campaign=941462&utm_source=habrahabr&utm_medium=rss)
 - [Китай планирует утроить производство GPU ради нового «момента DeepSeek»](https://habr.com/ru/news/941448/?utm_campaign=941448&utm_source=habrahabr&utm_medium=rss)
 - [Google: 27 августа Google Meet в РФ был частично недоступен, но технических проблем со стороны сервиса не было](https://habr.com/ru/news/941428/?utm_campaign=941428&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE выпустила исследование теневых ресурсов «Threat Zone 2025: обратная сторона»](https://habr.com/ru/news/941422/?utm_campaign=941422&utm_source=habrahabr&utm_medium=rss)
-- [Вышла VIM Master — браузерная игра для обучения основным действиям и командам в Vim](https://habr.com/ru/news/941416/?utm_campaign=941416&utm_source=habrahabr&utm_medium=rss)
-- [НТЦ ИТ «Роса» запустил портал для мобильных разработчиков под мобильную ОС «Роса Мобайл»](https://habr.com/ru/news/941390/?utm_campaign=941390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
