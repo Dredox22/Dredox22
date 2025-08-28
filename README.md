@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Киберугроза будущего: ESET раскрыла PromptLock — первый ИИ-вымогатель](https://habr.com/ru/news/941466/?utm_campaign=941466&utm_source=habrahabr&utm_medium=rss)
-- [Вышла VoxHammer — нейросеть для локального редактирования 3D-объектов](https://habr.com/ru/news/941462/?utm_campaign=941462&utm_source=habrahabr&utm_medium=rss)
-- [Китай планирует утроить производство GPU ради нового «момента DeepSeek»](https://habr.com/ru/news/941448/?utm_campaign=941448&utm_source=habrahabr&utm_medium=rss)
-- [Google: 27 августа Google Meet в РФ был частично недоступен, но технических проблем со стороны сервиса не было](https://habr.com/ru/news/941428/?utm_campaign=941428&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE выпустила исследование теневых ресурсов «Threat Zone 2025: обратная сторона»](https://habr.com/ru/news/941422/?utm_campaign=941422&utm_source=habrahabr&utm_medium=rss)
+- [ИИ стал частично использоваться для определения патчей для бэкпортирования в ядро ​​Linux](https://habr.com/ru/news/941276/?utm_campaign=941276&utm_source=habrahabr&utm_medium=rss)
+- [Вышла утилита HWMonitor 1.59](https://habr.com/ru/news/941388/?utm_campaign=941388&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта RedNotebook 2.40](https://habr.com/ru/news/941254/?utm_campaign=941254&utm_source=habrahabr&utm_medium=rss)
+- [Вышел эмулятор QEMU 10.1.0](https://habr.com/ru/news/941186/?utm_campaign=941186&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Minimal PDF Compress 1.7 — GUI для Ghostscript под Windows](https://habr.com/ru/news/941400/?utm_campaign=941400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
