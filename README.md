@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [YandexGPT 5.1 Pro: открыли доступ к флагманской модели в облаке](https://habr.com/ru/companies/yandex/news/941508/?utm_campaign=941508&utm_source=habrahabr&utm_medium=rss)
-- [Вышел нативный клиент мессенджера Max для Linux](https://habr.com/ru/news/941502/?utm_campaign=941502&utm_source=habrahabr&utm_medium=rss)
-- [Минобороны США использует открытую утилиту fast-glob разработчика из РФ, автор ответил на вопросы безопасности проекта](https://habr.com/ru/news/941484/?utm_campaign=941484&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack v0.35: источники внешних приложений, поддержка Hetzner RobotLB, выделенные кластеры S3](https://habr.com/ru/companies/aenix/news/940684/?utm_campaign=940684&utm_source=habrahabr&utm_medium=rss)
-- [ИИ стал частично использоваться для определения патчей для бэкпортирования в ядро ​​Linux](https://habr.com/ru/news/941276/?utm_campaign=941276&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-опция «Помощь в написании» позволит редактировать сообщения в WhatsApp](https://habr.com/ru/news/941546/?utm_campaign=941546&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic запустила Claude-агента для Chrome](https://habr.com/ru/companies/bothub/news/941554/?utm_campaign=941554&utm_source=habrahabr&utm_medium=rss)
+- [ГК InfoWatch получила патент на способ потоковой кластеризации данных](https://habr.com/ru/companies/infowatch/news/941544/?utm_campaign=941544&utm_source=habrahabr&utm_medium=rss)
+- [Yandex B2B Tech и ШАД представили нейросеть для помощи в диагностике ДЦП и назначении терапии для новорождённых](https://habr.com/ru/news/941536/?utm_campaign=941536&utm_source=habrahabr&utm_medium=rss)
+- [SK hynix запустила поставки мобильной DRAM с улучшенным теплоотводом](https://habr.com/ru/news/941518/?utm_campaign=941518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
