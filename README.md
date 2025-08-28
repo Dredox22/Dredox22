@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cozystack v0.35: источники внешних приложений, поддержка Hetzner RobotLB, выделенные кластеры S3](https://habr.com/ru/companies/aenix/news/940684/?utm_campaign=940684&utm_source=habrahabr&utm_medium=rss)
 - [ИИ стал частично использоваться для определения патчей для бэкпортирования в ядро ​​Linux](https://habr.com/ru/news/941276/?utm_campaign=941276&utm_source=habrahabr&utm_medium=rss)
 - [Вышла утилита HWMonitor 1.59](https://habr.com/ru/news/941388/?utm_campaign=941388&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта RedNotebook 2.40](https://habr.com/ru/news/941254/?utm_campaign=941254&utm_source=habrahabr&utm_medium=rss)
 - [Вышел эмулятор QEMU 10.1.0](https://habr.com/ru/news/941186/?utm_campaign=941186&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Minimal PDF Compress 1.7 — GUI для Ghostscript под Windows](https://habr.com/ru/news/941400/?utm_campaign=941400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
