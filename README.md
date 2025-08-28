@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Немецкие банки заблокировали платежи PayPal на €10 млрд из-за подозрений в мошенничестве](https://habr.com/ru/news/941720/?utm_campaign=941720&utm_source=habrahabr&utm_medium=rss)
+- [Стартовала запись на бесплатные курсы «Код будущего»](https://habr.com/ru/news/941714/?utm_campaign=941714&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассматривает покупку Mistral и Perplexity](https://habr.com/ru/companies/bothub/news/941654/?utm_campaign=941654&utm_source=habrahabr&utm_medium=rss)
 - [Phison не смогла воспроизвести проблемы SSD, связанные с установкой обновления KB5063878 для Windows 11](https://habr.com/ru/news/941692/?utm_campaign=941692&utm_source=habrahabr&utm_medium=rss)
 - [К 100-летию Аркадия Стругацкого сервисы «Яндекса» объединились в большой проект по мотивам фантастических вселенных](https://habr.com/ru/news/941674/?utm_campaign=941674&utm_source=habrahabr&utm_medium=rss)
-- [Когда конкуренты становятся партнёрами: OpenAI и Anthropic проверили модели друг друга](https://habr.com/ru/companies/bothub/news/941642/?utm_campaign=941642&utm_source=habrahabr&utm_medium=rss)
-- [Идёт набор в IT Школу Samsung! Бесплатное обучение мобильной разработке для школьников](https://habr.com/ru/companies/samsung/news/941660/?utm_campaign=941660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
