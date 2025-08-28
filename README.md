@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила новый голосовой ИИ](https://habr.com/ru/news/941798/?utm_campaign=941798&utm_source=habrahabr&utm_medium=rss)
 - [ТАСС: Samsung готова с 1 сентября предустанавливать мессенджер Max на смартфоны и планшеты в России](https://habr.com/ru/news/941782/?utm_campaign=941782&utm_source=habrahabr&utm_medium=rss)
 - [Места продажи сим-карт оборудуют видеокамерами](https://habr.com/ru/news/941780/?utm_campaign=941780&utm_source=habrahabr&utm_medium=rss)
 - [Gemini наступает на пятки ChatGPT: свежий топ AI-сервисов от Andreessen Horowitz](https://habr.com/ru/companies/bothub/news/941772/?utm_campaign=941772&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс представил YandexGPT 5.1 Pro](https://habr.com/ru/companies/bothub/news/941740/?utm_campaign=941740&utm_source=habrahabr&utm_medium=rss)
-- [Немецкие банки заблокировали платежи PayPal на €10 млрд из-за подозрений в мошенничестве](https://habr.com/ru/news/941720/?utm_campaign=941720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
