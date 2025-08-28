@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Владимирский митап, 5 сентября: гибкая архитектура, алгоритмические секции &lpar;не нужны&rpar;, предсказуемые случайности](https://habr.com/ru/news/941622/?utm_campaign=941622&utm_source=habrahabr&utm_medium=rss)
-- [Атаки на разработчиков через GitHub и GitLab достигли рекордного уровня за три года](https://habr.com/ru/companies/pt/news/941620/?utm_campaign=941620&utm_source=habrahabr&utm_medium=rss)
-- [Быстрее Claude? xAI запускает Grok Code Fast 1 для разработчиков](https://habr.com/ru/companies/bothub/news/941600/?utm_campaign=941600&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» оштрафовали на 10 тыс. рублей за непередачу доступа спецслужбам к интернет ресурсу yandex.ru/alice/smart-home](https://habr.com/ru/news/941582/?utm_campaign=941582&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-опция «Помощь в написании» позволит редактировать сообщения в WhatsApp](https://habr.com/ru/news/941546/?utm_campaign=941546&utm_source=habrahabr&utm_medium=rss)
+- [Идёт набор в IT Школу Samsung! Бесплатное обучение мобильной разработке для школьников](https://habr.com/ru/companies/samsung/news/941660/?utm_campaign=941660&utm_source=habrahabr&utm_medium=rss)
+- [Злоумышленники использовали Claude Code и Gemini CLI для кражи ключей и криптокошельков](https://habr.com/ru/news/941650/?utm_campaign=941650&utm_source=habrahabr&utm_medium=rss)
+- [Исследование М.Видео-Эльдорадо и «Лаборатории Касперского»: более половины россиян сталкивались с дипфейками](https://habr.com/ru/companies/mvideo/news/941646/?utm_campaign=941646&utm_source=habrahabr&utm_medium=rss)
+- [RuStore запустил функцию публичного бета‑тестирования приложений](https://habr.com/ru/news/941638/?utm_campaign=941638&utm_source=habrahabr&utm_medium=rss)
+- [ByteDance выпускает Waver 1.0 для генерации видео](https://habr.com/ru/companies/bothub/news/941632/?utm_campaign=941632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
