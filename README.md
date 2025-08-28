@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстрее Claude? xAI запускает Grok Code Fast 1 для разработчиков](https://habr.com/ru/companies/bothub/news/941600/?utm_campaign=941600&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» оштрафовали на 10 тыс. рублей за непередачу доступа спецслужбам к интернет ресурсу yandex.ru/alice/smart-home](https://habr.com/ru/news/941582/?utm_campaign=941582&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-опция «Помощь в написании» позволит редактировать сообщения в WhatsApp](https://habr.com/ru/news/941546/?utm_campaign=941546&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запустила Claude-агента для Chrome](https://habr.com/ru/companies/bothub/news/941554/?utm_campaign=941554&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch получила патент на способ потоковой кластеризации данных](https://habr.com/ru/companies/infowatch/news/941544/?utm_campaign=941544&utm_source=habrahabr&utm_medium=rss)
-- [Yandex B2B Tech и ШАД представили нейросеть для помощи в диагностике ДЦП и назначении терапии для новорождённых](https://habr.com/ru/news/941536/?utm_campaign=941536&utm_source=habrahabr&utm_medium=rss)
-- [SK hynix запустила поставки мобильной DRAM с улучшенным теплоотводом](https://habr.com/ru/news/941518/?utm_campaign=941518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
