@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи: GitHub стал «жутко медленно» работать в браузере Safari](https://habr.com/ru/news/941836/?utm_campaign=941836&utm_source=habrahabr&utm_medium=rss)
 - [Деньги не главное. В xAI из Meta✶ перешли как минимум 14 специалистов по ИИ](https://habr.com/ru/news/941826/?utm_campaign=941826&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила новый голосовой ИИ](https://habr.com/ru/news/941798/?utm_campaign=941798&utm_source=habrahabr&utm_medium=rss)
 - [ТАСС: Samsung готова с 1 сентября предустанавливать мессенджер Max на смартфоны и планшеты в России](https://habr.com/ru/news/941782/?utm_campaign=941782&utm_source=habrahabr&utm_medium=rss)
 - [Места продажи сим-карт оборудуют видеокамерами](https://habr.com/ru/news/941780/?utm_campaign=941780&utm_source=habrahabr&utm_medium=rss)
-- [Gemini наступает на пятки ChatGPT: свежий топ AI-сервисов от Andreessen Horowitz](https://habr.com/ru/companies/bothub/news/941772/?utm_campaign=941772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
