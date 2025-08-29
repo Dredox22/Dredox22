@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В мессенджере Max появились видеокружки](https://habr.com/ru/news/941984/?utm_campaign=941984&utm_source=habrahabr&utm_medium=rss)
+- [Как повлияют новые требования Google на российских разработчиков — экспертное мнение](https://habr.com/ru/news/941980/?utm_campaign=941980&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обещает улучшить качество звука по Bluetooth в Windows 11](https://habr.com/ru/news/941838/?utm_campaign=941838&utm_source=habrahabr&utm_medium=rss)
+- [Некоторые диалоги с ChatGPT могут быть переданы в полицию — OpenAI](https://habr.com/ru/news/941962/?utm_campaign=941962&utm_source=habrahabr&utm_medium=rss)
 - [Лингвисты НИУ ВШЭ — Санкт-Петербург создали уникальный «эмоциональный словарь» для обучения ИИ](https://habr.com/ru/news/941954/?utm_campaign=941954&utm_source=habrahabr&utm_medium=rss)
-- [MAI-Voice-1 и MAI-1-preview: Microsoft показала новые ИИ-разработки](https://habr.com/ru/companies/bothub/news/941872/?utm_campaign=941872&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: большинство опенсорсных проектов держатся на одном разработчике](https://habr.com/ru/news/941928/?utm_campaign=941928&utm_source=habrahabr&utm_medium=rss)
-- [Маск судится с Apple и OpenAI, прорыв в мобильной съемке и новые игровые патенты: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/941932/?utm_campaign=941932&utm_source=habrahabr&utm_medium=rss)
-- [Вышел документальный фильм «Python: The Documentary»](https://habr.com/ru/news/941924/?utm_campaign=941924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
