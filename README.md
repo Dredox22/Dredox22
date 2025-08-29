@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У Цукерберга трещит суперкоманда AI-звёзд: уходы, конфликты и четвёртая перестройка за полгода](https://habr.com/ru/companies/bothub/news/942170/?utm_campaign=942170&utm_source=habrahabr&utm_medium=rss)
 - [ИИ внедряется в наш язык: люди стали копировать слова ChatGPT](https://habr.com/ru/companies/bothub/news/942166/?utm_campaign=942166&utm_source=habrahabr&utm_medium=rss)
 - [Apple отозвала право на публикацию приложений в сторонних магазинах у разработчика, связанного с Россией](https://habr.com/ru/news/942160/?utm_campaign=942160&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI начнёт передавать переписки ChatGPT в полицию](https://habr.com/ru/companies/bothub/news/942094/?utm_campaign=942094&utm_source=habrahabr&utm_medium=rss)
 - [В VK Play запустили второй сезон демоверсий российских игр «Демофест 2.0»](https://habr.com/ru/news/942086/?utm_campaign=942086&utm_source=habrahabr&utm_medium=rss)
-- [Российские девелоперы меняют игровое поле: продуктивный диалог с «Нанософт»](https://habr.com/ru/companies/nanosoft/news/942082/?utm_campaign=942082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
