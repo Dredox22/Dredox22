@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero Trust: современное прочтение правила «доверяй, но проверяй»](https://habr.com/ru/companies/ussc/news/942050/?utm_campaign=942050&utm_source=habrahabr&utm_medium=rss)
+- [Пользователям Anthropic предложили отказаться от использования данных чатов или поделиться ими для обучения ИИ](https://habr.com/ru/news/942038/?utm_campaign=942038&utm_source=habrahabr&utm_medium=rss)
+- [Релиз FastMesh — метода генерации мешей 3D-объектов](https://habr.com/ru/news/942036/?utm_campaign=942036&utm_source=habrahabr&utm_medium=rss)
 - [Больше не эксклюзив: Google сделала видеоредактор Vids доступным всем пользователям](https://habr.com/ru/companies/bothub/news/941884/?utm_campaign=941884&utm_source=habrahabr&utm_medium=rss)
 - [В мессенджере Max появились видеокружки](https://habr.com/ru/news/941984/?utm_campaign=941984&utm_source=habrahabr&utm_medium=rss)
-- [Как повлияют новые требования Google на российских разработчиков — экспертное мнение](https://habr.com/ru/news/941980/?utm_campaign=941980&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обещает улучшить качество звука по Bluetooth в Windows 11](https://habr.com/ru/news/941838/?utm_campaign=941838&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые диалоги с ChatGPT могут быть переданы в полицию — OpenAI](https://habr.com/ru/news/941962/?utm_campaign=941962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
