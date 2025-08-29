@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI начнёт передавать переписки ChatGPT в полицию](https://habr.com/ru/companies/bothub/news/942094/?utm_campaign=942094&utm_source=habrahabr&utm_medium=rss)
+- [В VK Play запустили второй сезон демоверсий российских игр «Демофест 2.0»](https://habr.com/ru/news/942086/?utm_campaign=942086&utm_source=habrahabr&utm_medium=rss)
+- [Российские девелоперы меняют игровое поле: продуктивный диалог с «Нанософт»](https://habr.com/ru/companies/nanosoft/news/942082/?utm_campaign=942082&utm_source=habrahabr&utm_medium=rss)
 - [Zero Trust: современное прочтение правила «доверяй, но проверяй»](https://habr.com/ru/companies/ussc/news/942050/?utm_campaign=942050&utm_source=habrahabr&utm_medium=rss)
 - [Пользователям Anthropic предложили отказаться от использования данных чатов или поделиться ими для обучения ИИ](https://habr.com/ru/news/942038/?utm_campaign=942038&utm_source=habrahabr&utm_medium=rss)
-- [Релиз FastMesh — метода генерации мешей 3D-объектов](https://habr.com/ru/news/942036/?utm_campaign=942036&utm_source=habrahabr&utm_medium=rss)
-- [Больше не эксклюзив: Google сделала видеоредактор Vids доступным всем пользователям](https://habr.com/ru/companies/bothub/news/941884/?utm_campaign=941884&utm_source=habrahabr&utm_medium=rss)
-- [В мессенджере Max появились видеокружки](https://habr.com/ru/news/941984/?utm_campaign=941984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
