@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: большинство опенсорсных проектов держатся на одном разработчике](https://habr.com/ru/news/941928/?utm_campaign=941928&utm_source=habrahabr&utm_medium=rss)
+- [Вышел документальный фильм «Python: The Documentary»](https://habr.com/ru/news/941924/?utm_campaign=941924&utm_source=habrahabr&utm_medium=rss)
+- [Vivaldi раскритиковала Google и Microsoft за навязывание ИИ браузерам](https://habr.com/ru/news/941898/?utm_campaign=941898&utm_source=habrahabr&utm_medium=rss)
 - [Proton анонсировала функцию «Экстренный доступ»](https://habr.com/ru/news/941894/?utm_campaign=941894&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic будет обучать Claude на данных пользователей](https://habr.com/ru/companies/bothub/news/941878/?utm_campaign=941878&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI показала gpt-realtime: новая эра голосовых ассистентов](https://habr.com/ru/companies/bothub/news/941870/?utm_campaign=941870&utm_source=habrahabr&utm_medium=rss)
-- [Музыкальный сервис «Звук» обновил приложение и сделал поиск музыки удобнее](https://habr.com/ru/news/941862/?utm_campaign=941862&utm_source=habrahabr&utm_medium=rss)
-- [Авторы GNU MP &lpar;GMP&rpar; предупредили об инцидентах с поломкой процессоров AMD Ryzen 9950X во время тестов библиотеки](https://habr.com/ru/news/941700/?utm_campaign=941700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
