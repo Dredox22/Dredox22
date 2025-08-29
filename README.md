@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Музыкальный сервис «Звук» обновил приложение и сделал поиск музыки удобнее](https://habr.com/ru/news/941862/?utm_campaign=941862&utm_source=habrahabr&utm_medium=rss)
 - [Авторы GNU MP &lpar;GMP&rpar; предупредили об инцидентах с поломкой процессоров AMD Ryzen 9950X во время тестов библиотеки](https://habr.com/ru/news/941700/?utm_campaign=941700&utm_source=habrahabr&utm_medium=rss)
 - [Gemini CLI интегрирован в редактор кода Zed](https://habr.com/ru/news/941500/?utm_campaign=941500&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи: GitHub стал «жутко медленно» работать в браузере Safari](https://habr.com/ru/news/941836/?utm_campaign=941836&utm_source=habrahabr&utm_medium=rss)
 - [Деньги не главное. В xAI из Meta✶ перешли как минимум 14 специалистов по ИИ](https://habr.com/ru/news/941826/?utm_campaign=941826&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила новый голосовой ИИ](https://habr.com/ru/news/941798/?utm_campaign=941798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
