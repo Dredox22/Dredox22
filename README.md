@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалист Positive Technologies выявил и помог закрыть уязвимость в Firefox](https://habr.com/ru/news/942426/?utm_campaign=942426&utm_source=habrahabr&utm_medium=rss)
+- [В России стартовал приём заявок на новый сезон Национальной технологической олимпиады](https://habr.com/ru/news/942424/?utm_campaign=942424&utm_source=habrahabr&utm_medium=rss)
+- [Подача заявок для младшего и среднего дивизионов на чемпионат «РуКод» продлена до 21 сентября 2025 года](https://habr.com/ru/news/942416/?utm_campaign=942416&utm_source=habrahabr&utm_medium=rss)
+- [HunyuanVideo-Foley — генерация звука для видео](https://habr.com/ru/news/942412/?utm_campaign=942412&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся предварительный выпуск открытого проекта pdsink — стека USB PD для встраиваемых устройств](https://habr.com/ru/news/942378/?utm_campaign=942378&utm_source=habrahabr&utm_medium=rss)
-- [В Финляндии создали умную упаковку с ИИ-контролем свежести](https://habr.com/ru/companies/bothub/news/942366/?utm_campaign=942366&utm_source=habrahabr&utm_medium=rss)
-- [Бывший исследователь OpenAI раскритиковал RL как основу тренировки LLM](https://habr.com/ru/companies/bothub/news/942360/?utm_campaign=942360&utm_source=habrahabr&utm_medium=rss)
-- [Google встроила Gemini CLI в редактор кода Zed](https://habr.com/ru/companies/bothub/news/942328/?utm_campaign=942328&utm_source=habrahabr&utm_medium=rss)
-- [PixVerse представила модель V5 для генерации видео](https://habr.com/ru/companies/bothub/news/942310/?utm_campaign=942310&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
