@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Wireshark 4.4.9](https://habr.com/ru/news/942058/?utm_campaign=942058&utm_source=habrahabr&utm_medium=rss)
 - [Grok Code Fast 1 представлен официально. ИИ можно попробовать бесплатно](https://habr.com/ru/news/942188/?utm_campaign=942188&utm_source=habrahabr&utm_medium=rss)
 - [У Цукерберга трещит суперкоманда AI-звёзд: уходы, конфликты и четвёртая перестройка за полгода](https://habr.com/ru/companies/bothub/news/942170/?utm_campaign=942170&utm_source=habrahabr&utm_medium=rss)
 - [ИИ внедряется в наш язык: люди стали копировать слова ChatGPT](https://habr.com/ru/companies/bothub/news/942166/?utm_campaign=942166&utm_source=habrahabr&utm_medium=rss)
 - [Apple отозвала право на публикацию приложений в сторонних магазинах у разработчика, связанного с Россией](https://habr.com/ru/news/942160/?utm_campaign=942160&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI начнёт передавать переписки ChatGPT в полицию](https://habr.com/ru/companies/bothub/news/942094/?utm_campaign=942094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
