@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 3,2 раза быстрее конкурентов: Apple запустила FastVLM](https://habr.com/ru/companies/bothub/news/942302/?utm_campaign=942302&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры представило приказ для отмены перехода на префиксы «0» и «00» для междугородных и международных звонков](https://habr.com/ru/news/942306/?utm_campaign=942306&utm_source=habrahabr&utm_medium=rss)
 - [Meta* готовит новую версию Llama к концу года](https://habr.com/ru/companies/bothub/news/942292/?utm_campaign=942292&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры, го на IT-вечеринку в Нижнем Новгороде](https://habr.com/ru/companies/avito/news/942156/?utm_campaign=942156&utm_source=habrahabr&utm_medium=rss)
 - [В iOS-приложении WhatsApp устранили уязвимость для атак нулевого дня](https://habr.com/ru/news/942268/?utm_campaign=942268&utm_source=habrahabr&utm_medium=rss)
-- [В AMD расследуют сообщения о «сгоревших» при интенсивной нагрузке процессорах Ryzen](https://habr.com/ru/news/942262/?utm_campaign=942262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
