@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Nvidia считает, что внедрение ИИ приведет к 4-дневной рабочей неделе](https://habr.com/ru/news/942436/?utm_campaign=942436&utm_source=habrahabr&utm_medium=rss)
+- [Российская 2D‑метроидвания‑соулслайк «Волколак: Воля Богов» вышла в ранний доступ](https://habr.com/ru/news/942434/?utm_campaign=942434&utm_source=habrahabr&utm_medium=rss)
+- [VK выложила в открытый доступ датасет для инженеров, развивающих рекомендательные системы](https://habr.com/ru/news/942428/?utm_campaign=942428&utm_source=habrahabr&utm_medium=rss)
 - [Специалист Positive Technologies выявил и помог закрыть уязвимость в Firefox](https://habr.com/ru/news/942426/?utm_campaign=942426&utm_source=habrahabr&utm_medium=rss)
 - [В России стартовал приём заявок на новый сезон Национальной технологической олимпиады](https://habr.com/ru/news/942424/?utm_campaign=942424&utm_source=habrahabr&utm_medium=rss)
-- [Подача заявок для младшего и среднего дивизионов на чемпионат «РуКод» продлена до 21 сентября 2025 года](https://habr.com/ru/news/942416/?utm_campaign=942416&utm_source=habrahabr&utm_medium=rss)
-- [HunyuanVideo-Foley — генерация звука для видео](https://habr.com/ru/news/942412/?utm_campaign=942412&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся предварительный выпуск открытого проекта pdsink — стека USB PD для встраиваемых устройств](https://habr.com/ru/news/942378/?utm_campaign=942378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
