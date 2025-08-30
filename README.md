@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 1 сентября операторы связи будут обязаны маркировать бизнес-номера](https://habr.com/ru/news/942256/?utm_campaign=942256&utm_source=habrahabr&utm_medium=rss)
 - [Линус Товальдс перевёл Bcachefs в режим «внешнего сопровождения» &lpar;Externally maintained&rpar;](https://habr.com/ru/news/942234/?utm_campaign=942234&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wireshark 4.4.9](https://habr.com/ru/news/942058/?utm_campaign=942058&utm_source=habrahabr&utm_medium=rss)
 - [Grok Code Fast 1 представлен официально. ИИ можно попробовать бесплатно](https://habr.com/ru/news/942188/?utm_campaign=942188&utm_source=habrahabr&utm_medium=rss)
 - [У Цукерберга трещит суперкоманда AI-звёзд: уходы, конфликты и четвёртая перестройка за полгода](https://habr.com/ru/companies/bothub/news/942170/?utm_campaign=942170&utm_source=habrahabr&utm_medium=rss)
-- [ИИ внедряется в наш язык: люди стали копировать слова ChatGPT](https://habr.com/ru/companies/bothub/news/942166/?utm_campaign=942166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
