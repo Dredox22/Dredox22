@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google встроила Gemini CLI в редактор кода Zed](https://habr.com/ru/companies/bothub/news/942328/?utm_campaign=942328&utm_source=habrahabr&utm_medium=rss)
 - [PixVerse представила модель V5 для генерации видео](https://habr.com/ru/companies/bothub/news/942310/?utm_campaign=942310&utm_source=habrahabr&utm_medium=rss)
 - [После провала Llama-4, в Meta* обсуждают использование ИИ от OpenAI и Google](https://habr.com/ru/news/942332/?utm_campaign=942332&utm_source=habrahabr&utm_medium=rss)
 - [В 3,2 раза быстрее конкурентов: Apple запустила FastVLM](https://habr.com/ru/companies/bothub/news/942302/?utm_campaign=942302&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры представило приказ для отмены перехода на префиксы «0» и «00» для междугородных и международных звонков](https://habr.com/ru/news/942306/?utm_campaign=942306&utm_source=habrahabr&utm_medium=rss)
-- [Meta* готовит новую версию Llama к концу года](https://habr.com/ru/companies/bothub/news/942292/?utm_campaign=942292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
