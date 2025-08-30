@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженеры, го на IT-вечеринку в Нижнем Новгороде](https://habr.com/ru/companies/avito/news/942156/?utm_campaign=942156&utm_source=habrahabr&utm_medium=rss)
 - [В iOS-приложении WhatsApp устранили уязвимость для атак нулевого дня](https://habr.com/ru/news/942268/?utm_campaign=942268&utm_source=habrahabr&utm_medium=rss)
 - [В AMD расследуют сообщения о «сгоревших» при интенсивной нагрузке процессорах Ryzen](https://habr.com/ru/news/942262/?utm_campaign=942262&utm_source=habrahabr&utm_medium=rss)
 - [С 1 сентября операторы связи будут обязаны маркировать бизнес-номера](https://habr.com/ru/news/942256/?utm_campaign=942256&utm_source=habrahabr&utm_medium=rss)
 - [Линус Товальдс перевёл Bcachefs в режим «внешнего сопровождения» &lpar;Externally maintained&rpar;](https://habr.com/ru/news/942234/?utm_campaign=942234&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Wireshark 4.4.9](https://habr.com/ru/news/942058/?utm_campaign=942058&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
