@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Московский суд заблокировал сервис премиального такси Wheely](https://habr.com/ru/news/942586/?utm_campaign=942586&utm_source=habrahabr&utm_medium=rss)
 - [«У нас большие планы на будущее»: Microsoft AI анонсировала свои первые собственные модели ИИ](https://habr.com/ru/news/942204/?utm_campaign=942204&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance и Stanford придумали, как научить ИИ «помнить» длинные видео](https://habr.com/ru/companies/bothub/news/942576/?utm_campaign=942576&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила Stax: инструмент для честной оценки языковых моделей](https://habr.com/ru/companies/bothub/news/942570/?utm_campaign=942570&utm_source=habrahabr&utm_medium=rss)
 - [Meta* вложила $14 млрд в ИИ-стартап Scale AI. Теперь сотрудники недовольны качеством его данных](https://habr.com/ru/news/942524/?utm_campaign=942524&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалит приложение Mobile Plans в Windows в 2026 году](https://habr.com/ru/news/942200/?utm_campaign=942200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
