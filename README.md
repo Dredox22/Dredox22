@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик MATLAB сообщил о кибератаке, похищены данные 10 тысяч пользователей](https://habr.com/ru/news/942502/?utm_campaign=942502&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появилось несколько новых сочетаний клавиш](https://habr.com/ru/news/942472/?utm_campaign=942472&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Armbian 25.8 для Raspberry Pi и других одноплатных компьютеров](https://habr.com/ru/news/942284/?utm_campaign=942284&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Wine 10.14](https://habr.com/ru/news/942250/?utm_campaign=942250&utm_source=habrahabr&utm_medium=rss)
 - [Вышел графический тулкит GTK 4.20](https://habr.com/ru/news/942372/?utm_campaign=942372&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.14](https://habr.com/ru/news/942244/?utm_campaign=942244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
