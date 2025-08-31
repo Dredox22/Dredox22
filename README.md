@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз дистрибутива Armbian 25.8 для Raspberry Pi и других одноплатных компьютеров](https://habr.com/ru/news/942284/?utm_campaign=942284&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Wine 10.14](https://habr.com/ru/news/942250/?utm_campaign=942250&utm_source=habrahabr&utm_medium=rss)
+- [Вышел графический тулкит GTK 4.20](https://habr.com/ru/news/942372/?utm_campaign=942372&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.14](https://habr.com/ru/news/942244/?utm_campaign=942244&utm_source=habrahabr&utm_medium=rss)
 - [Глава Nvidia считает, что внедрение ИИ приведет к 4-дневной рабочей неделе](https://habr.com/ru/news/942436/?utm_campaign=942436&utm_source=habrahabr&utm_medium=rss)
-- [Российская 2D‑метроидвания‑соулслайк «Волколак: Воля Богов» вышла в ранний доступ](https://habr.com/ru/news/942434/?utm_campaign=942434&utm_source=habrahabr&utm_medium=rss)
-- [VK выложила в открытый доступ датасет для инженеров, развивающих рекомендательные системы](https://habr.com/ru/news/942428/?utm_campaign=942428&utm_source=habrahabr&utm_medium=rss)
-- [Специалист Positive Technologies выявил и помог закрыть уязвимость в Firefox](https://habr.com/ru/news/942426/?utm_campaign=942426&utm_source=habrahabr&utm_medium=rss)
-- [В России стартовал приём заявок на новый сезон Национальной технологической олимпиады](https://habr.com/ru/news/942424/?utm_campaign=942424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
