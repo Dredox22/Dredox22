@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* в центре скандала. ИИ-боты компании копируют знаменитостей без разрешения](https://habr.com/ru/news/942736/?utm_campaign=942736&utm_source=habrahabr&utm_medium=rss)
+- [DistroWatch: антивирусные сканеры стали чаще помечать ISO-образы с дистрибутивами Linux как вредоносное ПО](https://habr.com/ru/news/942732/?utm_campaign=942732&utm_source=habrahabr&utm_medium=rss)
+- [2ГИС показывает сигналы светофоров в реальном времени — теперь по всей Москве](https://habr.com/ru/companies/2gis/news/942724/?utm_campaign=942724&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила ошибку в просмотре событий в Windows 11](https://habr.com/ru/news/942704/?utm_campaign=942704&utm_source=habrahabr&utm_medium=rss)
 - [Intel запатентовала новый формат процессорных ядер](https://habr.com/ru/news/942698/?utm_campaign=942698&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет» проведёт серию вебинаров по противодействию атакам шифровальщиками](https://habr.com/ru/companies/jetinfosystems/news/942694/?utm_campaign=942694&utm_source=habrahabr&utm_medium=rss)
-- [Папа не смог: эксперты F6 исследовали вредоносные рассылки с новым Phantom Stealer](https://habr.com/ru/companies/F6/news/942688/?utm_campaign=942688&utm_source=habrahabr&utm_medium=rss)
-- [Тонкие настройки прав доступа в новом релизе IdM-системы Solar inRights](https://habr.com/ru/companies/solarsecurity/news/942666/?utm_campaign=942666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
