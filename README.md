@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Statcounter: почти половина всех ПК с Windows теперь работают под управлением Windows 11](https://habr.com/ru/news/942638/?utm_campaign=942638&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекращает поддержку некоторых компонентов Graph](https://habr.com/ru/news/942636/?utm_campaign=942636&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Telegram: музыка в профиле, переработанный дизайн на Android и мини-приложение для стикеров](https://habr.com/ru/news/942632/?utm_campaign=942632&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект NeeView 44.1 — просмотрщик изображений и видео для Windows](https://habr.com/ru/news/942498/?utm_campaign=942498&utm_source=habrahabr&utm_medium=rss)
 - [Релиз CrystalDiskInfo 9.7.2](https://habr.com/ru/news/942492/?utm_campaign=942492&utm_source=habrahabr&utm_medium=rss)
-- [Samsung с девизом «No shirt? No problem» сообщила, что не стоит бояться делать фото без верхней одежды – ИИ её добавит](https://habr.com/ru/news/942556/?utm_campaign=942556&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 сделала большой скачок, но его почти не заметили. В Epoch AI пояснили, почему](https://habr.com/ru/news/942608/?utm_campaign=942608&utm_source=habrahabr&utm_medium=rss)
-- [Московский суд заблокировал сервис премиального такси Wheely](https://habr.com/ru/news/942586/?utm_campaign=942586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
