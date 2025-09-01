@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект NeeView 44.1 — просмотрщик изображений и видео для Windows](https://habr.com/ru/news/942498/?utm_campaign=942498&utm_source=habrahabr&utm_medium=rss)
+- [Релиз CrystalDiskInfo 9.7.2](https://habr.com/ru/news/942492/?utm_campaign=942492&utm_source=habrahabr&utm_medium=rss)
+- [Samsung с девизом «No shirt? No problem» сообщила, что не стоит бояться делать фото без верхней одежды – ИИ её добавит](https://habr.com/ru/news/942556/?utm_campaign=942556&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 сделала большой скачок, но его почти не заметили. В Epoch AI пояснили, почему](https://habr.com/ru/news/942608/?utm_campaign=942608&utm_source=habrahabr&utm_medium=rss)
 - [Московский суд заблокировал сервис премиального такси Wheely](https://habr.com/ru/news/942586/?utm_campaign=942586&utm_source=habrahabr&utm_medium=rss)
-- [«У нас большие планы на будущее»: Microsoft AI анонсировала свои первые собственные модели ИИ](https://habr.com/ru/news/942204/?utm_campaign=942204&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance и Stanford придумали, как научить ИИ «помнить» длинные видео](https://habr.com/ru/companies/bothub/news/942576/?utm_campaign=942576&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила Stax: инструмент для честной оценки языковых моделей](https://habr.com/ru/companies/bothub/news/942570/?utm_campaign=942570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
