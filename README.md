@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тонкие настройки прав доступа в новом релизе IdM-системы Solar inRights](https://habr.com/ru/companies/solarsecurity/news/942666/?utm_campaign=942666&utm_source=habrahabr&utm_medium=rss)
+- [Тестирование Windows 11 25H2 дошло до Preview Channel](https://habr.com/ru/news/942664/?utm_campaign=942664&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: чат-ботами можно манипулировать с помощью лести и давления](https://habr.com/ru/news/942646/?utm_campaign=942646&utm_source=habrahabr&utm_medium=rss)
 - [Statcounter: почти половина всех ПК с Windows теперь работают под управлением Windows 11](https://habr.com/ru/news/942638/?utm_campaign=942638&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку некоторых компонентов Graph](https://habr.com/ru/news/942636/?utm_campaign=942636&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: музыка в профиле, переработанный дизайн на Android и мини-приложение для стикеров](https://habr.com/ru/news/942632/?utm_campaign=942632&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект NeeView 44.1 — просмотрщик изображений и видео для Windows](https://habr.com/ru/news/942498/?utm_campaign=942498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
