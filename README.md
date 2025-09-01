@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила ошибку в просмотре событий в Windows 11](https://habr.com/ru/news/942704/?utm_campaign=942704&utm_source=habrahabr&utm_medium=rss)
 - [Intel запатентовала новый формат процессорных ядер](https://habr.com/ru/news/942698/?utm_campaign=942698&utm_source=habrahabr&utm_medium=rss)
 - [«Инфосистемы Джет» проведёт серию вебинаров по противодействию атакам шифровальщиками](https://habr.com/ru/companies/jetinfosystems/news/942694/?utm_campaign=942694&utm_source=habrahabr&utm_medium=rss)
 - [Папа не смог: эксперты F6 исследовали вредоносные рассылки с новым Phantom Stealer](https://habr.com/ru/companies/F6/news/942688/?utm_campaign=942688&utm_source=habrahabr&utm_medium=rss)
 - [Тонкие настройки прав доступа в новом релизе IdM-системы Solar inRights](https://habr.com/ru/companies/solarsecurity/news/942666/?utm_campaign=942666&utm_source=habrahabr&utm_medium=rss)
-- [Тестирование Windows 11 25H2 дошло до Preview Channel](https://habr.com/ru/news/942664/?utm_campaign=942664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
