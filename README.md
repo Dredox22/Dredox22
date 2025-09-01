@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ Gemini 2.5 не справился с кодом и предложил оплатить услуги профессионала](https://habr.com/ru/news/942854/?utm_campaign=942854&utm_source=habrahabr&utm_medium=rss)
-- [Stargate в действии: OpenAI запустит крупнейший дата-центр в Азии](https://habr.com/ru/companies/bothub/news/942836/?utm_campaign=942836&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на Usetech Mobile Meetup](https://habr.com/ru/companies/usetech/news/942780/?utm_campaign=942780&utm_source=habrahabr&utm_medium=rss)
-- [Количество утечек данных в сфере образования в России выросло](https://habr.com/ru/companies/infowatch/news/942778/?utm_campaign=942778&utm_source=habrahabr&utm_medium=rss)
-- [Показатель качества: говорим о киберзащите бизнеса в шоу «Инфобез со вкусом»](https://habr.com/ru/companies/gaz-is/news/942756/?utm_campaign=942756&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/942884/?utm_campaign=942884&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Карты» и «Яндекс Навигатор» начали отображать сигналы всех светофоров в центре Москвы в реальном времени](https://habr.com/ru/news/942878/?utm_campaign=942878&utm_source=habrahabr&utm_medium=rss)
+- [Prime Intellect запустила открытую платформу для Reinforcement Learning](https://habr.com/ru/companies/bothub/news/942852/?utm_campaign=942852&utm_source=habrahabr&utm_medium=rss)
+- [В МГУ объявили о создании факультета искусственного интеллекта](https://habr.com/ru/news/942874/?utm_campaign=942874&utm_source=habrahabr&utm_medium=rss)
+- [27 сентября в Москве пройдёт конференция Perl-Conf.Ru/25](https://habr.com/ru/news/942870/?utm_campaign=942870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
