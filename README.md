@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики старшего возраста в восторге от программирования с использованием ИИ](https://habr.com/ru/news/942922/?utm_campaign=942922&utm_source=habrahabr&utm_medium=rss)
+- [Новая поддерживаемая СУБД на SQLize.online: РЕД База Данных](https://habr.com/ru/news/942918/?utm_campaign=942918&utm_source=habrahabr&utm_medium=rss)
 - [«Большая четвёрка» сотовых операторов запустила безлимитный доступ к мессенджеру «Мах»](https://habr.com/ru/news/942912/?utm_campaign=942912&utm_source=habrahabr&utm_medium=rss)
 - [ИИ будет думать быстрее: Meta* показала технологию DeepConf](https://habr.com/ru/companies/bothub/news/942902/?utm_campaign=942902&utm_source=habrahabr&utm_medium=rss)
 - [Tencent представила новую модель для перевода текста](https://habr.com/ru/companies/bothub/news/942892/?utm_campaign=942892&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/942884/?utm_campaign=942884&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» и «Яндекс Навигатор» начали отображать сигналы всех светофоров в центре Москвы в реальном времени](https://habr.com/ru/news/942878/?utm_campaign=942878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
