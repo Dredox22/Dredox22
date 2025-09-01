@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ Gemini 2.5 не справился с кодом и предложил оплатить услуги профессионала](https://habr.com/ru/news/942854/?utm_campaign=942854&utm_source=habrahabr&utm_medium=rss)
+- [Stargate в действии: OpenAI запустит крупнейший дата-центр в Азии](https://habr.com/ru/companies/bothub/news/942836/?utm_campaign=942836&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на Usetech Mobile Meetup](https://habr.com/ru/companies/usetech/news/942780/?utm_campaign=942780&utm_source=habrahabr&utm_medium=rss)
 - [Количество утечек данных в сфере образования в России выросло](https://habr.com/ru/companies/infowatch/news/942778/?utm_campaign=942778&utm_source=habrahabr&utm_medium=rss)
 - [Показатель качества: говорим о киберзащите бизнеса в шоу «Инфобез со вкусом»](https://habr.com/ru/companies/gaz-is/news/942756/?utm_campaign=942756&utm_source=habrahabr&utm_medium=rss)
-- [Meta* в центре скандала. ИИ-боты компании копируют знаменитостей без разрешения](https://habr.com/ru/news/942736/?utm_campaign=942736&utm_source=habrahabr&utm_medium=rss)
-- [DistroWatch: антивирусные сканеры стали чаще помечать ISO-образы с дистрибутивами Linux как вредоносное ПО](https://habr.com/ru/news/942732/?utm_campaign=942732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
