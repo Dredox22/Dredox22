@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обязательная маркировка звонков обойдётся бизнесу в среднем около 0,3 рубля за звонок](https://habr.com/ru/news/943060/?utm_campaign=943060&utm_source=habrahabr&utm_medium=rss)
-- [Интернет-трафик к правительственным доменам разных стран пересекает границы и иногда не шифруется](https://habr.com/ru/news/943052/?utm_campaign=943052&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: недавнее обновление Windows не ломало SSD и HDD](https://habr.com/ru/news/942928/?utm_campaign=942928&utm_source=habrahabr&utm_medium=rss)
-- [Grok Code Fast 1 стала самой используемой моделью на OpenRouter](https://habr.com/ru/companies/bothub/news/943058/?utm_campaign=943058&utm_source=habrahabr&utm_medium=rss)
-- [В Google «Диск» добавили функции для улучшения сканирования документов на Android](https://habr.com/ru/news/943042/?utm_campaign=943042&utm_source=habrahabr&utm_medium=rss)
+- [Statcounter: Chrome продолжает опережать другие браузеры по количеству пользователей](https://habr.com/ru/news/943118/?utm_campaign=943118&utm_source=habrahabr&utm_medium=rss)
+- [Российский NGFW уровня Enterprise: UserGate запускает Data Center Firewall для корпоративных клиентов](https://habr.com/ru/companies/usergate/news/943110/?utm_campaign=943110&utm_source=habrahabr&utm_medium=rss)
+- [Стоимость ИИ для бизнеса растет, несмотря на многократное падение цены на токен](https://habr.com/ru/news/943102/?utm_campaign=943102&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 могут не исправить ключевую функцию интернета для офисных ПК](https://habr.com/ru/news/943094/?utm_campaign=943094&utm_source=habrahabr&utm_medium=rss)
+- [В ОАЭ построят дата-центр будущего: 5 ГВт для OpenAI, Google и других гигантов](https://habr.com/ru/companies/bothub/news/943080/?utm_campaign=943080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
