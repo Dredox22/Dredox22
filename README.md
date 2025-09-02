@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В админ-панели крупнейшего поставщика коммерческих роботов Pudu Robotics нашли уязвимость](https://habr.com/ru/news/943032/?utm_campaign=943032&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку браузерных расширений Editor для Chrome и Edge с 31 октября](https://habr.com/ru/news/943024/?utm_campaign=943024&utm_source=habrahabr&utm_medium=rss)
-- [Gmail не рассылала массовые предупреждения о безопасности](https://habr.com/ru/news/943018/?utm_campaign=943018&utm_source=habrahabr&utm_medium=rss)
-- [Бренды под ударом: ритейл обошел финансовый сектор по количеству фишинговых и скам-атак в 2025 году](https://habr.com/ru/companies/F6/news/943014/?utm_campaign=943014&utm_source=habrahabr&utm_medium=rss)
-- [Вышла библиотека FreeDroidWarn с предупреждением, что разработчик не будет предоставлять Google на проверку свои данные](https://habr.com/ru/news/942988/?utm_campaign=942988&utm_source=habrahabr&utm_medium=rss)
+- [Обязательная маркировка звонков обойдётся бизнесу в среднем около 0,3 рубля за звонок](https://habr.com/ru/news/943060/?utm_campaign=943060&utm_source=habrahabr&utm_medium=rss)
+- [Интернет-трафик к правительственным доменам разных стран пересекает границы и иногда не шифруется](https://habr.com/ru/news/943052/?utm_campaign=943052&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: недавнее обновление Windows не ломало SSD и HDD](https://habr.com/ru/news/942928/?utm_campaign=942928&utm_source=habrahabr&utm_medium=rss)
+- [Grok Code Fast 1 стала самой используемой моделью на OpenRouter](https://habr.com/ru/companies/bothub/news/943058/?utm_campaign=943058&utm_source=habrahabr&utm_medium=rss)
+- [В Google «Диск» добавили функции для улучшения сканирования документов на Android](https://habr.com/ru/news/943042/?utm_campaign=943042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
