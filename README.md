@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Gboard появилась возможность менять размер шрифта](https://habr.com/ru/news/943158/?utm_campaign=943158&utm_source=habrahabr&utm_medium=rss)
+- [Квантовые сигналы смогли передать по обычному оптоволокну](https://habr.com/ru/companies/bothub/news/943064/?utm_campaign=943064&utm_source=habrahabr&utm_medium=rss)
 - [Statcounter: Chrome продолжает опережать другие браузеры по количеству пользователей](https://habr.com/ru/news/943118/?utm_campaign=943118&utm_source=habrahabr&utm_medium=rss)
 - [Российский NGFW уровня Enterprise: UserGate запускает Data Center Firewall для корпоративных клиентов](https://habr.com/ru/companies/usergate/news/943110/?utm_campaign=943110&utm_source=habrahabr&utm_medium=rss)
 - [Стоимость ИИ для бизнеса растет, несмотря на многократное падение цены на токен](https://habr.com/ru/news/943102/?utm_campaign=943102&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 могут не исправить ключевую функцию интернета для офисных ПК](https://habr.com/ru/news/943094/?utm_campaign=943094&utm_source=habrahabr&utm_medium=rss)
-- [В ОАЭ построят дата-центр будущего: 5 ГВт для OpenAI, Google и других гигантов](https://habr.com/ru/companies/bothub/news/943080/?utm_campaign=943080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
