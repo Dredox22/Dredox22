@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Китай обязали маркировать весь AI-контент](https://habr.com/ru/companies/bothub/news/943294/?utm_campaign=943294&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI добавила родителям возможность управлять аккаунтами детей в ChatGPT](https://habr.com/ru/companies/bothub/news/943296/?utm_campaign=943296&utm_source=habrahabr&utm_medium=rss)
+- [В Китае обязали маркировать весь AI-контент](https://habr.com/ru/companies/bothub/news/943294/?utm_campaign=943294&utm_source=habrahabr&utm_medium=rss)
 - [Среда разработки RubyMine от JetBrains стала бесплатной для некоммерческого использования](https://habr.com/ru/news/943292/?utm_campaign=943292&utm_source=habrahabr&utm_medium=rss)
 - [Le Chat учится помнить: Mistral добавила функцию управления памятью](https://habr.com/ru/companies/bothub/news/943290/?utm_campaign=943290&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме РФ сообщили о новой схеме мошенничества через звонки в FaceTime](https://habr.com/ru/news/943274/?utm_campaign=943274&utm_source=habrahabr&utm_medium=rss)
-- [ВК начал рассылать требование перевести API-запросы на домен vk.ru](https://habr.com/ru/news/943232/?utm_campaign=943232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
