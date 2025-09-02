@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла библиотека FreeDroidWarn с предупреждением, что разработчик не будет предоставлять Google на проверку свои данные](https://habr.com/ru/news/942988/?utm_campaign=942988&utm_source=habrahabr&utm_medium=rss)
 - [Чипы TSMC станут ещё дороже из-за американских пошлин](https://habr.com/ru/news/942966/?utm_campaign=942966&utm_source=habrahabr&utm_medium=rss)
 - [Релиз ImageViewer 1.8.0 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/942900/?utm_campaign=942900&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект оконного менеджера IceWM 3.9.0](https://habr.com/ru/news/942768/?utm_campaign=942768&utm_source=habrahabr&utm_medium=rss)
 - [ИИ уже сократил количество вакансий начального уровня в продвинутых компаниях](https://habr.com/ru/news/942926/?utm_campaign=942926&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики старшего возраста в восторге от программирования с использованием ИИ](https://habr.com/ru/news/942922/?utm_campaign=942922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
