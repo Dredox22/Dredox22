@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В админ-панели крупнейшего поставщика коммерческих роботов Pudu Robotics нашли уязвимость](https://habr.com/ru/news/943032/?utm_campaign=943032&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку браузерных расширений Editor для Chrome и Edge с 31 октября](https://habr.com/ru/news/943024/?utm_campaign=943024&utm_source=habrahabr&utm_medium=rss)
+- [Gmail не рассылала массовые предупреждения о безопасности](https://habr.com/ru/news/943018/?utm_campaign=943018&utm_source=habrahabr&utm_medium=rss)
+- [Бренды под ударом: ритейл обошел финансовый сектор по количеству фишинговых и скам-атак в 2025 году](https://habr.com/ru/companies/F6/news/943014/?utm_campaign=943014&utm_source=habrahabr&utm_medium=rss)
 - [Вышла библиотека FreeDroidWarn с предупреждением, что разработчик не будет предоставлять Google на проверку свои данные](https://habr.com/ru/news/942988/?utm_campaign=942988&utm_source=habrahabr&utm_medium=rss)
-- [Чипы TSMC станут ещё дороже из-за американских пошлин](https://habr.com/ru/news/942966/?utm_campaign=942966&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ImageViewer 1.8.0 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/942900/?utm_campaign=942900&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект оконного менеджера IceWM 3.9.0](https://habr.com/ru/news/942768/?utm_campaign=942768&utm_source=habrahabr&utm_medium=rss)
-- [ИИ уже сократил количество вакансий начального уровня в продвинутых компаниях](https://habr.com/ru/news/942926/?utm_campaign=942926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
