@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в сентябре](https://habr.com/ru/companies/netologyru/news/943192/?utm_campaign=943192&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek ввела маркировку для всего контента, созданного с помощью её ИИ-продуктов](https://habr.com/ru/news/943184/?utm_campaign=943184&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT появится родительский контроль](https://habr.com/ru/news/943182/?utm_campaign=943182&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи могут предлагать свои 3D-модели зданий для «Яндекс Карт»](https://habr.com/ru/news/943172/?utm_campaign=943172&utm_source=habrahabr&utm_medium=rss)
 - [В Google Gboard появилась возможность менять размер шрифта](https://habr.com/ru/news/943158/?utm_campaign=943158&utm_source=habrahabr&utm_medium=rss)
-- [Квантовые сигналы смогли передать по обычному оптоволокну](https://habr.com/ru/companies/bothub/news/943064/?utm_campaign=943064&utm_source=habrahabr&utm_medium=rss)
-- [Statcounter: Chrome продолжает опережать другие браузеры по количеству пользователей](https://habr.com/ru/news/943118/?utm_campaign=943118&utm_source=habrahabr&utm_medium=rss)
-- [Российский NGFW уровня Enterprise: UserGate запускает Data Center Firewall для корпоративных клиентов](https://habr.com/ru/companies/usergate/news/943110/?utm_campaign=943110&utm_source=habrahabr&utm_medium=rss)
-- [Стоимость ИИ для бизнеса растет, несмотря на многократное падение цены на токен](https://habr.com/ru/news/943102/?utm_campaign=943102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
