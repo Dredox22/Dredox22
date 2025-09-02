@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ВК начал рассылать требование перевести API-запросы на домен vk.ru](https://habr.com/ru/news/943232/?utm_campaign=943232&utm_source=habrahabr&utm_medium=rss)
+- [Droplet3D: новая модель для генерации 3D-объектов из видео](https://habr.com/ru/companies/bothub/news/943076/?utm_campaign=943076&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи РФ опять сообщили о сбоях в работе Google Meet, глобального сбоя в сервисе нет](https://habr.com/ru/news/943202/?utm_campaign=943202&utm_source=habrahabr&utm_medium=rss)
 - [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в сентябре](https://habr.com/ru/companies/netologyru/news/943192/?utm_campaign=943192&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek ввела маркировку для всего контента, созданного с помощью её ИИ-продуктов](https://habr.com/ru/news/943184/?utm_campaign=943184&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появится родительский контроль](https://habr.com/ru/news/943182/?utm_campaign=943182&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи могут предлагать свои 3D-модели зданий для «Яндекс Карт»](https://habr.com/ru/news/943172/?utm_campaign=943172&utm_source=habrahabr&utm_medium=rss)
-- [В Google Gboard появилась возможность менять размер шрифта](https://habr.com/ru/news/943158/?utm_campaign=943158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
