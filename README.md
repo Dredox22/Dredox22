@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз HopToDesk 1.44.4 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/943176/?utm_campaign=943176&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект токенизатора LLM с калькулятором цен, написанный на Zig](https://habr.com/ru/news/943090/?utm_campaign=943090&utm_source=habrahabr&utm_medium=rss)
 - [Новое открытие в теории узлов опровергло давнюю гипотезу](https://habr.com/ru/news/943324/?utm_campaign=943324&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic теперь стоит $183 млрд. Оценка компании утроилась за полгода](https://habr.com/ru/news/943308/?utm_campaign=943308&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI добавила родителям возможность управлять аккаунтами детей в ChatGPT](https://habr.com/ru/companies/bothub/news/943296/?utm_campaign=943296&utm_source=habrahabr&utm_medium=rss)
-- [В Китае обязали маркировать весь AI-контент](https://habr.com/ru/companies/bothub/news/943294/?utm_campaign=943294&utm_source=habrahabr&utm_medium=rss)
-- [Среда разработки RubyMine от JetBrains стала бесплатной для некоммерческого использования](https://habr.com/ru/news/943292/?utm_campaign=943292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
