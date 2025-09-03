@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Files 4.0 — открытой альтернативы стандартному проводнику Windows 10/11](https://habr.com/ru/news/943386/?utm_campaign=943386&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект SuperTuxKart Evolution — это обновлённый и улучшенный SuperTuxKart](https://habr.com/ru/news/943378/?utm_campaign=943378&utm_source=habrahabr&utm_medium=rss)
-- [Релиз HopToDesk 1.44.4 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/943176/?utm_campaign=943176&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект токенизатора LLM с калькулятором цен, написанный на Zig](https://habr.com/ru/news/943090/?utm_campaign=943090&utm_source=habrahabr&utm_medium=rss)
-- [Новое открытие в теории узлов опровергло давнюю гипотезу](https://habr.com/ru/news/943324/?utm_campaign=943324&utm_source=habrahabr&utm_medium=rss)
+- [EvaProject №1 в рейтинге российских PM-систем](https://habr.com/ru/companies/evateam/news/943408/?utm_campaign=943408&utm_source=habrahabr&utm_medium=rss)
+- [Ошибки Frostbyte10 в контроллерах Copeland ставят под угрозу работу холодильников по всему миру](https://habr.com/ru/news/943406/?utm_campaign=943406&utm_source=habrahabr&utm_medium=rss)
+- [Chrome и Android в безопасности. Суд в США вынес решение по иску к Google](https://habr.com/ru/news/943404/?utm_campaign=943404&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI приобрела стартап по тестированию продуктов Statsig](https://habr.com/ru/news/943398/?utm_campaign=943398&utm_source=habrahabr&utm_medium=rss)
+- [Dolby Laboratories презентовала технологию Dolby Vision 2](https://habr.com/ru/news/943400/?utm_campaign=943400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
