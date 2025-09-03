@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT получит новые функции безопасности](https://habr.com/ru/companies/bothub/news/943572/?utm_campaign=943572&utm_source=habrahabr&utm_medium=rss)
+- [Spring Boot 4 и Spring Framework 7, StableValue в Java, Postgres стал быстрее | Spring АйО Подкаст №33](https://habr.com/ru/companies/spring_aio/news/943632/?utm_campaign=943632&utm_source=habrahabr&utm_medium=rss)
 - [$1,1 млрд за аналитику: OpenAI интегрирует Statsig в свою экосистему](https://habr.com/ru/companies/bothub/news/943536/?utm_campaign=943536&utm_source=habrahabr&utm_medium=rss)
 - [Container track на IT Elements](https://habr.com/ru/companies/chislitellab/news/943600/?utm_campaign=943600&utm_source=habrahabr&utm_medium=rss)
 - [ИИ нашёл следы редкого распада бозона Хиггса](https://habr.com/ru/companies/bothub/news/943592/?utm_campaign=943592&utm_source=habrahabr&utm_medium=rss)
-- [«Росэл» представил новую линейку миниатюрных резонаторов для оборудования связи](https://habr.com/ru/news/943588/?utm_campaign=943588&utm_source=habrahabr&utm_medium=rss)
-- [Google сохранил Chrome и Android: суд отказался от жёстких мер](https://habr.com/ru/companies/bothub/news/943534/?utm_campaign=943534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
