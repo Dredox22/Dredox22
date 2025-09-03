@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Родительский контроль ChatGPT будет сообщать взрослым, если подросток испытывает стресс](https://habr.com/ru/news/943344/?utm_campaign=943344&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft требует от OEM-производителей полноценной поддержки уведомлений USB Type-C в Windows 11](https://habr.com/ru/news/943504/?utm_campaign=943504&utm_source=habrahabr&utm_medium=rss)
-- [Джеффри Дин объяснил отказ от разговоров на тему общего искусственного интеллекта](https://habr.com/ru/news/943496/?utm_campaign=943496&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила PowerToys 0.94](https://habr.com/ru/news/943478/?utm_campaign=943478&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры угрожают передать работы художников ИИ-моделям, если арт-сайт Artists&amp;amp;Clients не заплатит выкуп](https://habr.com/ru/news/943484/?utm_campaign=943484&utm_source=habrahabr&utm_medium=rss)
+- [Google сохранил Chrome и Android: суд отказался от жёстких мер](https://habr.com/ru/companies/bothub/news/943534/?utm_campaign=943534&utm_source=habrahabr&utm_medium=rss)
+- [Cloud.ru, «СберТех» и Хабр запустили грантовую программу для open source проектов](https://habr.com/ru/news/943566/?utm_campaign=943566&utm_source=habrahabr&utm_medium=rss)
+- [Scalabook: пополняемая база знаний о Scala на русском языке](https://habr.com/ru/companies/kryptonite/news/943262/?utm_campaign=943262&utm_source=habrahabr&utm_medium=rss)
+- [$500 млн в год от Claude Code: Anthropic показала ошеломляющий прогресс](https://habr.com/ru/companies/bothub/news/943532/?utm_campaign=943532&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер»: за десять суток проектом «Вжух» с бесконтактной оплатой iPhone воспользовались более 1,6 млн пользователей](https://habr.com/ru/news/943528/?utm_campaign=943528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
