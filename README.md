@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [$1,1 млрд за аналитику: OpenAI интегрирует Statsig в свою экосистему](https://habr.com/ru/companies/bothub/news/943536/?utm_campaign=943536&utm_source=habrahabr&utm_medium=rss)
+- [Container track на IT Elements](https://habr.com/ru/companies/chislitellab/news/943600/?utm_campaign=943600&utm_source=habrahabr&utm_medium=rss)
 - [ИИ нашёл следы редкого распада бозона Хиггса](https://habr.com/ru/companies/bothub/news/943592/?utm_campaign=943592&utm_source=habrahabr&utm_medium=rss)
 - [«Росэл» представил новую линейку миниатюрных резонаторов для оборудования связи](https://habr.com/ru/news/943588/?utm_campaign=943588&utm_source=habrahabr&utm_medium=rss)
 - [Google сохранил Chrome и Android: суд отказался от жёстких мер](https://habr.com/ru/companies/bothub/news/943534/?utm_campaign=943534&utm_source=habrahabr&utm_medium=rss)
-- [Cloud.ru, «СберТех» и Хабр запустили грантовую программу для open source проектов](https://habr.com/ru/news/943566/?utm_campaign=943566&utm_source=habrahabr&utm_medium=rss)
-- [Scalabook: пополняемая база знаний о Scala на русском языке](https://habr.com/ru/companies/kryptonite/news/943262/?utm_campaign=943262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
