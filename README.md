@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд в США решил, что Google не должен продавать Chrome или Android &lpar;при этом он обязан делиться данными с конкурентами&rpar;](https://habr.com/ru/companies/onlinepatent/news/943436/?utm_campaign=943436&utm_source=habrahabr&utm_medium=rss)
+- [Java&amp;amp;Kotlin-митап от MWS Cloud Platform в Казани](https://habr.com/ru/companies/mws/news/938618/?utm_campaign=938618&utm_source=habrahabr&utm_medium=rss)
 - [EvaProject №1 в рейтинге российских PM-систем](https://habr.com/ru/companies/evateam/news/943408/?utm_campaign=943408&utm_source=habrahabr&utm_medium=rss)
 - [Ошибки Frostbyte10 в контроллерах Copeland ставят под угрозу работу холодильников по всему миру](https://habr.com/ru/news/943406/?utm_campaign=943406&utm_source=habrahabr&utm_medium=rss)
 - [Chrome и Android в безопасности. Суд в США вынес решение по иску к Google](https://habr.com/ru/news/943404/?utm_campaign=943404&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI приобрела стартап по тестированию продуктов Statsig](https://habr.com/ru/news/943398/?utm_campaign=943398&utm_source=habrahabr&utm_medium=rss)
-- [Dolby Laboratories презентовала технологию Dolby Vision 2](https://habr.com/ru/news/943400/?utm_campaign=943400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
