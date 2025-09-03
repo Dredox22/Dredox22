@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Родительский контроль ChatGPT будет сообщать взрослым, если подросток испытывает стресс](https://habr.com/ru/news/943344/?utm_campaign=943344&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft требует от OEM-производителей полноценной поддержки уведомлений USB Type-C в Windows 11](https://habr.com/ru/news/943504/?utm_campaign=943504&utm_source=habrahabr&utm_medium=rss)
+- [Джеффри Дин объяснил отказ от разговоров на тему общего искусственного интеллекта](https://habr.com/ru/news/943496/?utm_campaign=943496&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила PowerToys 0.94](https://habr.com/ru/news/943478/?utm_campaign=943478&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры угрожают передать работы художников ИИ-моделям, если арт-сайт Artists&amp;amp;Clients не заплатит выкуп](https://habr.com/ru/news/943484/?utm_campaign=943484&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила улучшения драйверов для Windows 11 следующего поколения](https://habr.com/ru/news/943462/?utm_campaign=943462&utm_source=habrahabr&utm_medium=rss)
-- [Суд в США позволил Google сохранить Chrome и Android, а также продолжить отчисления Apple и Mozilla](https://habr.com/ru/news/943460/?utm_campaign=943460&utm_source=habrahabr&utm_medium=rss)
-- [Китай планирует утроить выпуск отечественных AI-ускорителей при поддержке Huawei и SMIC](https://habr.com/ru/news/943142/?utm_campaign=943142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
