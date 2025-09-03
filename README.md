@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal и Perplexity расширяют сотрудничество на стыке AI и финтеха](https://habr.com/ru/news/943666/?utm_campaign=943666&utm_source=habrahabr&utm_medium=rss)
+- [Dolby представила новый стандарт с ИИ-подстройкой изображения](https://habr.com/ru/companies/bothub/news/943582/?utm_campaign=943582&utm_source=habrahabr&utm_medium=rss)
 - [Уже через неделю: стартует технологическая конференция IT Elements 2025](https://habr.com/ru/companies/jetinfosystems/news/943646/?utm_campaign=943646&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 140](https://habr.com/ru/news/943648/?utm_campaign=943648&utm_source=habrahabr&utm_medium=rss)
 - [Швейцария запустила национальную LLM с открытым исходным кодом](https://habr.com/ru/companies/bothub/news/943580/?utm_campaign=943580&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT получит новые функции безопасности](https://habr.com/ru/companies/bothub/news/943572/?utm_campaign=943572&utm_source=habrahabr&utm_medium=rss)
-- [Spring Boot 4 и Spring Framework 7, StableValue в Java, Postgres стал быстрее | Spring АйО Подкаст №33](https://habr.com/ru/companies/spring_aio/news/943632/?utm_campaign=943632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
