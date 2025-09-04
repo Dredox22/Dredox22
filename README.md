@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK: в мессенджере Max зарегистрировано более 30 миллионов пользователей и отправлено более 1 миллиарда сообщений](https://habr.com/ru/news/943848/?utm_campaign=943848&utm_source=habrahabr&utm_medium=rss)
+- [Apple продолжает терять ведущих инженеров в сфере AI](https://habr.com/ru/companies/bothub/news/943844/?utm_campaign=943844&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek готовится запустить ИИ-агента к концу года](https://habr.com/ru/news/943838/?utm_campaign=943838&utm_source=habrahabr&utm_medium=rss)
+- [Valve зарегистрировала два товарных знака для консолей, аксессуаров, контроллеров и «компьютерного оборудования»](https://habr.com/ru/news/943830/?utm_campaign=943830&utm_source=habrahabr&utm_medium=rss)
 - [В Opera для iOS появилась продвинутая система управления вкладками](https://habr.com/ru/news/943702/?utm_campaign=943702&utm_source=habrahabr&utm_medium=rss)
-- [ПАК-AI 2.0 от К2 НейроТех: прирост производительности на 30%](https://habr.com/ru/companies/k2tech/news/943800/?utm_campaign=943800&utm_source=habrahabr&utm_medium=rss)
-- [Требование по ограничению спама привело к массовой блокировке звонков от коммерческих организаций](https://habr.com/ru/news/943790/?utm_campaign=943790&utm_source=habrahabr&utm_medium=rss)
-- [Смартфоны Pixel могут транслировать аудио на несколько наушников одновременно](https://habr.com/ru/news/943780/?utm_campaign=943780&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс опубликовал программу конференции Practical ML Conf 2025](https://habr.com/ru/companies/yandex/news/943784/?utm_campaign=943784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
