@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ Google Nano Banana привлек 10 миллионов новых пользователей в Gemini App](https://habr.com/ru/news/944042/?utm_campaign=944042&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Osarus — нативный LLM-сервер для Mac на базе Apple Silicon](https://habr.com/ru/news/944032/?utm_campaign=944032&utm_source=habrahabr&utm_medium=rss)
 - [Universal Deep Research: новый инструмент NVIDIA для работы с любыми LLM](https://habr.com/ru/companies/bothub/news/944024/?utm_campaign=944024&utm_source=habrahabr&utm_medium=rss)
 - [Atlassian покупает разработчика Arc за $610 млн](https://habr.com/ru/companies/bothub/news/944022/?utm_campaign=944022&utm_source=habrahabr&utm_medium=rss)
 - [Курчатовский институт выиграл грант на разработку аналоговых нейроморфных сенсоров и систем для решения задач ИИ](https://habr.com/ru/news/944012/?utm_campaign=944012&utm_source=habrahabr&utm_medium=rss)
-- [Обновление NotebookLM: заметки теперь можно слушать](https://habr.com/ru/companies/bothub/news/944006/?utm_campaign=944006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
