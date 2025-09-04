@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Opera для iOS появилась продвинутая система управления вкладками](https://habr.com/ru/news/943702/?utm_campaign=943702&utm_source=habrahabr&utm_medium=rss)
+- [ПАК-AI 2.0 от К2 НейроТех: прирост производительности на 30%](https://habr.com/ru/companies/k2tech/news/943800/?utm_campaign=943800&utm_source=habrahabr&utm_medium=rss)
 - [Требование по ограничению спама привело к массовой блокировке звонков от коммерческих организаций](https://habr.com/ru/news/943790/?utm_campaign=943790&utm_source=habrahabr&utm_medium=rss)
 - [Смартфоны Pixel могут транслировать аудио на несколько наушников одновременно](https://habr.com/ru/news/943780/?utm_campaign=943780&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс опубликовал программу конференции Practical ML Conf 2025](https://habr.com/ru/companies/yandex/news/943784/?utm_campaign=943784&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появились бесплатные проекты](https://habr.com/ru/news/943750/?utm_campaign=943750&utm_source=habrahabr&utm_medium=rss)
-- [Представитель Госдумы: у мессенджера Max нет технических и правовых возможностей, чтобы с помощью ИИ «оформлять доносы»](https://habr.com/ru/news/943740/?utm_campaign=943740&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
