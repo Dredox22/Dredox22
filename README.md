@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Курчатовский институт выиграл грант на разработку аналоговых нейроморфных сенсоров и систем для решения задач ИИ](https://habr.com/ru/news/944012/?utm_campaign=944012&utm_source=habrahabr&utm_medium=rss)
+- [Обновление NotebookLM: заметки теперь можно слушать](https://habr.com/ru/companies/bothub/news/944006/?utm_campaign=944006&utm_source=habrahabr&utm_medium=rss)
 - [Lens Live: визуальный поиск Amazon вышел на новый уровень](https://habr.com/ru/companies/bothub/news/943996/?utm_campaign=943996&utm_source=habrahabr&utm_medium=rss)
 - [«Т-Образование» открыло приём заявок на новый сезон кружков для школьников 5–11 классов «Т-Поколение»](https://habr.com/ru/news/943976/?utm_campaign=943976&utm_source=habrahabr&utm_medium=rss)
 - [Генерация звуков по тексту: ElevenLabs представила v2 модели SFX](https://habr.com/ru/companies/bothub/news/943962/?utm_campaign=943962&utm_source=habrahabr&utm_medium=rss)
-- [Google-сбой: пользователи по всему миру пожаловались на проблемы](https://habr.com/ru/companies/cloud4y/news/943958/?utm_campaign=943958&utm_source=habrahabr&utm_medium=rss)
-- [Telegram предлагает пользователям послушать Лебединого Озера и другие новые фитчи](https://habr.com/ru/news/943946/?utm_campaign=943946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
