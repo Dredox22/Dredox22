@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т-Образование» открыло приём заявок на новый сезон кружков для школьников 5–11 классов «Т-Поколение»](https://habr.com/ru/news/943976/?utm_campaign=943976&utm_source=habrahabr&utm_medium=rss)
+- [Генерация звуков по тексту: ElevenLabs представила v2 модели SFX](https://habr.com/ru/companies/bothub/news/943962/?utm_campaign=943962&utm_source=habrahabr&utm_medium=rss)
 - [Google-сбой: пользователи по всему миру пожаловались на проблемы](https://habr.com/ru/companies/cloud4y/news/943958/?utm_campaign=943958&utm_source=habrahabr&utm_medium=rss)
 - [Telegram предлагает пользователям послушать Лебединого Озера и другие новые фитчи](https://habr.com/ru/news/943946/?utm_campaign=943946&utm_source=habrahabr&utm_medium=rss)
 - [CoreWeave приобрела стартап по обучению ИИ-агентов OpenPipe](https://habr.com/ru/news/943920/?utm_campaign=943920&utm_source=habrahabr&utm_medium=rss)
-- [Свет вместо электричества: Microsoft работает над новым типом вычислений](https://habr.com/ru/companies/bothub/news/943852/?utm_campaign=943852&utm_source=habrahabr&utm_medium=rss)
-- [МВД РФ: мошенники стали просить российских пользователей перейти в мессенджеры с хорошей связью](https://habr.com/ru/news/943898/?utm_campaign=943898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
