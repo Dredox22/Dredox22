@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ChatGPT появились бесплатные проекты](https://habr.com/ru/news/943750/?utm_campaign=943750&utm_source=habrahabr&utm_medium=rss)
 - [Представитель Госдумы: у мессенджера Max нет технических и правовых возможностей, чтобы с помощью ИИ «оформлять доносы»](https://habr.com/ru/news/943740/?utm_campaign=943740&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект «Quake III Arena в браузере»](https://habr.com/ru/news/943722/?utm_campaign=943722&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск WinToUSB 10.0](https://habr.com/ru/news/943392/?utm_campaign=943392&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного проекта для создания музыкальных миксов Mixxx 2.5.3](https://habr.com/ru/news/943604/?utm_campaign=943604&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Linux Mint 22.2 «Zara»](https://habr.com/ru/news/943584/?utm_campaign=943584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
