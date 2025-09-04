@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12-10.14 до марта 2026 года](https://habr.com/ru/news/943866/?utm_campaign=943866&utm_source=habrahabr&utm_medium=rss)
 - [VK: в мессенджере Max зарегистрировано более 30 миллионов пользователей и отправлено более 1 миллиарда сообщений](https://habr.com/ru/news/943848/?utm_campaign=943848&utm_source=habrahabr&utm_medium=rss)
 - [Apple продолжает терять ведущих инженеров в сфере AI](https://habr.com/ru/companies/bothub/news/943844/?utm_campaign=943844&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek готовится запустить ИИ-агента к концу года](https://habr.com/ru/news/943838/?utm_campaign=943838&utm_source=habrahabr&utm_medium=rss)
 - [Valve зарегистрировала два товарных знака для консолей, аксессуаров, контроллеров и «компьютерного оборудования»](https://habr.com/ru/news/943830/?utm_campaign=943830&utm_source=habrahabr&utm_medium=rss)
-- [В Opera для iOS появилась продвинутая система управления вкладками](https://habr.com/ru/news/943702/?utm_campaign=943702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
