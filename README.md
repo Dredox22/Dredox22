@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google-сбой: пользователи по всему миру пожаловались на проблемы](https://habr.com/ru/companies/cloud4y/news/943958/?utm_campaign=943958&utm_source=habrahabr&utm_medium=rss)
+- [Telegram предлагает пользователям послушать Лебединого Озера и другие новые фитчи](https://habr.com/ru/news/943946/?utm_campaign=943946&utm_source=habrahabr&utm_medium=rss)
 - [CoreWeave приобрела стартап по обучению ИИ-агентов OpenPipe](https://habr.com/ru/news/943920/?utm_campaign=943920&utm_source=habrahabr&utm_medium=rss)
 - [Свет вместо электричества: Microsoft работает над новым типом вычислений](https://habr.com/ru/companies/bothub/news/943852/?utm_campaign=943852&utm_source=habrahabr&utm_medium=rss)
 - [МВД РФ: мошенники стали просить российских пользователей перейти в мессенджеры с хорошей связью](https://habr.com/ru/news/943898/?utm_campaign=943898&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12-10.14 до марта 2026 года](https://habr.com/ru/news/943866/?utm_campaign=943866&utm_source=habrahabr&utm_medium=rss)
-- [VK: в мессенджере Max зарегистрировано более 30 миллионов пользователей и отправлено более 1 миллиарда сообщений](https://habr.com/ru/news/943848/?utm_campaign=943848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
