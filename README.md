@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Требование по ограничению спама привело к массовой блокировке звонков от коммерческих организаций](https://habr.com/ru/news/943790/?utm_campaign=943790&utm_source=habrahabr&utm_medium=rss)
+- [Смартфоны Pixel могут транслировать аудио на несколько наушников одновременно](https://habr.com/ru/news/943780/?utm_campaign=943780&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс опубликовал программу конференции Practical ML Conf 2025](https://habr.com/ru/companies/yandex/news/943784/?utm_campaign=943784&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появились бесплатные проекты](https://habr.com/ru/news/943750/?utm_campaign=943750&utm_source=habrahabr&utm_medium=rss)
 - [Представитель Госдумы: у мессенджера Max нет технических и правовых возможностей, чтобы с помощью ИИ «оформлять доносы»](https://habr.com/ru/news/943740/?utm_campaign=943740&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект «Quake III Arena в браузере»](https://habr.com/ru/news/943722/?utm_campaign=943722&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск WinToUSB 10.0](https://habr.com/ru/news/943392/?utm_campaign=943392&utm_source=habrahabr&utm_medium=rss)
-- [Релиз свободного проекта для создания музыкальных миксов Mixxx 2.5.3](https://habr.com/ru/news/943604/?utm_campaign=943604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
