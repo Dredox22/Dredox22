@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предупредила о прекращении поддержки Access 2016 и 2019](https://habr.com/ru/news/944092/?utm_campaign=944092&utm_source=habrahabr&utm_medium=rss)
+- [В OpenAI предупреждали, что ИИ изменит рынок труда. Теперь компания запускает платформу вакансий](https://habr.com/ru/news/944090/?utm_campaign=944090&utm_source=habrahabr&utm_medium=rss)
+- [У спутникового интернета Amazon появился первый клиент среди авиакомпаний](https://habr.com/ru/news/944088/?utm_campaign=944088&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер»: мошенники воруют или покупают аккаунты в Max, на этот мессенджер Max приходится 8-9% всех мошеннических звонков](https://habr.com/ru/news/944080/?utm_campaign=944080&utm_source=habrahabr&utm_medium=rss)
 - [Студенты партнерского факультета СПбГУ и «Яндекса» стали победителями ICPC 2025](https://habr.com/ru/news/944066/?utm_campaign=944066&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NWinfo 1.4.3 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/943832/?utm_campaign=943832&utm_source=habrahabr&utm_medium=rss)
-- [Rust Foundation анонсировала создание Rust Innovation Lab](https://habr.com/ru/news/943810/?utm_campaign=943810&utm_source=habrahabr&utm_medium=rss)
-- [Вышли руководства Linux From Scratch 12.4 и Beyond Linux From Scratch 12.4](https://habr.com/ru/news/943734/?utm_campaign=943734&utm_source=habrahabr&utm_medium=rss)
-- [Как наш ИИ-аналитик научился думать и советовать, а не просто рисовать отчёты. Вебинар](https://habr.com/ru/companies/sapiens_solutions/news/943968/?utm_campaign=943968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
