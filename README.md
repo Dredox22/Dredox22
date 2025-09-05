@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: появится возможность доступа к востребованным интернет-сервисам в периоды ограничений мобильного интернета](https://habr.com/ru/news/944204/?utm_campaign=944204&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 25H2 остаётся недоступной для скачивания и установки](https://habr.com/ru/news/944194/?utm_campaign=944194&utm_source=habrahabr&utm_medium=rss)
+- [Acer представила мини-рабочую станцию Veriton GN100 на базе суперчипа NVIDIA GB10](https://habr.com/ru/news/944192/?utm_campaign=944192&utm_source=habrahabr&utm_medium=rss)
 - [Представлен концепт Flipper OS — операционной системы для Flipper One](https://habr.com/ru/news/944118/?utm_campaign=944118&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты: Microsoft планирует получить более $7 млрд на расширенной поддержке Windows 10](https://habr.com/ru/news/944132/?utm_campaign=944132&utm_source=habrahabr&utm_medium=rss)
-- [На офлайн-митапе обсудим практику Shadow IT](https://habr.com/ru/companies/hflabs/news/943974/?utm_campaign=943974&utm_source=habrahabr&utm_medium=rss)
-- [ИБ-образование и чего в нём не хватает](https://habr.com/ru/companies/infowatch/news/944128/?utm_campaign=944128&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила о прекращении поддержки Access 2016 и 2019](https://habr.com/ru/news/944092/?utm_campaign=944092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
