@@ -88,8 +88,8 @@
 - [Microsoft предупредила о прекращении поддержки Access 2016 и 2019](https://habr.com/ru/news/944092/?utm_campaign=944092&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI предупреждали, что ИИ изменит рынок труда. Теперь компания запускает платформу вакансий](https://habr.com/ru/news/944090/?utm_campaign=944090&utm_source=habrahabr&utm_medium=rss)
 - [У спутникового интернета Amazon появился первый клиент среди авиакомпаний](https://habr.com/ru/news/944088/?utm_campaign=944088&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер»: мошенники воруют или покупают аккаунты в Max, на этот мессенджер Max приходится 8-9% всех мошеннических звонков](https://habr.com/ru/news/944080/?utm_campaign=944080&utm_source=habrahabr&utm_medium=rss)
-- [Студенты партнерского факультета СПбГУ и «Яндекса» стали победителями ICPC 2025](https://habr.com/ru/news/944066/?utm_campaign=944066&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер»: мошенники воруют или покупают аккаунты в Max, на этот мессенджер приходится 8-9% всех мошеннических звонков](https://habr.com/ru/news/944080/?utm_campaign=944080&utm_source=habrahabr&utm_medium=rss)
+- [Студенты партнёрского факультета СПбГУ и «Яндекса» стали победителями ICPC 2025](https://habr.com/ru/news/944066/?utm_campaign=944066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
