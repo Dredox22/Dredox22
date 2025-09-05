@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla предлагает Илону Маску пакет вознаграждения на триллион долларов](https://habr.com/ru/companies/bothub/news/944438/?utm_campaign=944438&utm_source=habrahabr&utm_medium=rss)
+- [Tesla открыла доступ к Robotaxi для всех iPhone-пользователей](https://habr.com/ru/companies/bothub/news/944430/?utm_campaign=944430&utm_source=habrahabr&utm_medium=rss)
 - [Стартап OpenPipe присоединился к CoreWeave](https://habr.com/ru/companies/bothub/news/944230/?utm_campaign=944230&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI создаёт экосистему для трудоустройства AI-специалистов](https://habr.com/ru/companies/bothub/news/944238/?utm_campaign=944238&utm_source=habrahabr&utm_medium=rss)
 - [Лучше Сlaude Opus 4. Представлен Qwen3-Max-Preview](https://habr.com/ru/news/944408/?utm_campaign=944408&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek готовит автономного AI-агента](https://habr.com/ru/companies/bothub/news/944244/?utm_campaign=944244&utm_source=habrahabr&utm_medium=rss)
-- [Как пароль из школьного учебника 2017 года привёл к взлому тысяч сайтов: разбор инцидента и уроки кибербезопасности](https://habr.com/ru/news/944390/?utm_campaign=944390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
