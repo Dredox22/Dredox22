@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен концепт Flipper OS — операционной системы для Flipper One](https://habr.com/ru/news/944118/?utm_campaign=944118&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты: Microsoft планирует получить более $7 млрд на расширенной поддержке Windows 10](https://habr.com/ru/news/944132/?utm_campaign=944132&utm_source=habrahabr&utm_medium=rss)
+- [На офлайн-митапе обсудим практику Shadow IT](https://habr.com/ru/companies/hflabs/news/943974/?utm_campaign=943974&utm_source=habrahabr&utm_medium=rss)
+- [ИБ-образование и чего в нём не хватает](https://habr.com/ru/companies/infowatch/news/944128/?utm_campaign=944128&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предупредила о прекращении поддержки Access 2016 и 2019](https://habr.com/ru/news/944092/?utm_campaign=944092&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI предупреждали, что ИИ изменит рынок труда. Теперь компания запускает платформу вакансий](https://habr.com/ru/news/944090/?utm_campaign=944090&utm_source=habrahabr&utm_medium=rss)
-- [У спутникового интернета Amazon появился первый клиент среди авиакомпаний](https://habr.com/ru/news/944088/?utm_campaign=944088&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер»: мошенники воруют или покупают аккаунты в Max, на этот мессенджер приходится 8-9% всех мошеннических звонков](https://habr.com/ru/news/944080/?utm_campaign=944080&utm_source=habrahabr&utm_medium=rss)
-- [Студенты партнёрского факультета СПбГУ и «Яндекса» стали победителями ICPC 2025](https://habr.com/ru/news/944066/?utm_campaign=944066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
