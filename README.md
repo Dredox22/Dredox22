@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как пароль из школьного учебника 2017 года привёл к взлому тысяч сайтов: разбор инцидента и уроки кибербезопасности](https://habr.com/ru/news/944390/?utm_campaign=944390&utm_source=habrahabr&utm_medium=rss)
+- [В сети связи «Билайна» заработали «белые списки» &lpar;whitelist-unlock&rpar; сервисов при ограничении мобильного интернета](https://habr.com/ru/news/944386/?utm_campaign=944386&utm_source=habrahabr&utm_medium=rss)
+- [Самая масштабная симуляция: NVIDIA и Эссекс делают прорыв](https://habr.com/ru/companies/bothub/news/944248/?utm_campaign=944248&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты из НИУ ВШЭ разработали приложение для диагностики дислексии у детей](https://habr.com/ru/news/944358/?utm_campaign=944358&utm_source=habrahabr&utm_medium=rss)
 - [Активист объявил голодовку у офиса Anthropic, он требует остановить гонку ИИ](https://habr.com/ru/news/944332/?utm_campaign=944332&utm_source=habrahabr&utm_medium=rss)
-- [Игровые миры на стероидах: Decart запустила Oasis 2.0 для Minecraft](https://habr.com/ru/companies/bothub/news/944274/?utm_campaign=944274&utm_source=habrahabr&utm_medium=rss)
-- [«Ред Софт» и Passion официально анонсировали суперапп-мессенджер Molniya на ВЭФ-2025](https://habr.com/ru/news/944328/?utm_campaign=944328&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры опубликовало список сайтов и сервисов, которые будут работать во время блокировок](https://habr.com/ru/news/944322/?utm_campaign=944322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
