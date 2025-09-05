@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI открыла Projects для всех пользователей ChatGPT](https://habr.com/ru/companies/bothub/news/944224/?utm_campaign=944224&utm_source=habrahabr&utm_medium=rss)
+- [Открыта регистрация на AI Journey Contest с призовым фондом 6,5 млн рублей](https://habr.com/ru/companies/sberbank/news/944210/?utm_campaign=944210&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия платформы совместной разработки Radicle 1.4](https://habr.com/ru/news/944200/?utm_campaign=944200&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовится потратить $10 млрд на собственные ИИ-ускорители](https://habr.com/ru/news/944212/?utm_campaign=944212&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: появится возможность доступа к востребованным интернет-сервисам в периоды ограничений мобильного интернета](https://habr.com/ru/news/944204/?utm_campaign=944204&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 25H2 остаётся недоступной для скачивания и установки](https://habr.com/ru/news/944194/?utm_campaign=944194&utm_source=habrahabr&utm_medium=rss)
-- [Acer представила мини-рабочую станцию Veriton GN100 на базе суперчипа NVIDIA GB10](https://habr.com/ru/news/944192/?utm_campaign=944192&utm_source=habrahabr&utm_medium=rss)
-- [Представлен концепт Flipper OS — операционной системы для Flipper One](https://habr.com/ru/news/944118/?utm_campaign=944118&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты: Microsoft планирует получить более $7 млрд на расширенной поддержке Windows 10](https://habr.com/ru/news/944132/?utm_campaign=944132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
