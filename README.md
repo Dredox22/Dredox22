@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Chess.com сообщили об утечке данных через приложение для передачи файлов](https://habr.com/ru/news/944272/?utm_campaign=944272&utm_source=habrahabr&utm_medium=rss)
+- [Запись вебинара для CNCF: Как построить свою облачную платформу с нуля из Open Source-компонентов &lpar;en&rpar;](https://habr.com/ru/companies/aenix/news/944262/?utm_campaign=944262&utm_source=habrahabr&utm_medium=rss)
+- [Warner Bros. подала в суд на Midjourney за использование культовых персонажей](https://habr.com/ru/companies/bothub/news/944260/?utm_campaign=944260&utm_source=habrahabr&utm_medium=rss)
+- [️ Kimi k2.1 — новая модель от Moonshot и снова лидер](https://habr.com/ru/news/944234/?utm_campaign=944234&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI открыла Projects для всех пользователей ChatGPT](https://habr.com/ru/companies/bothub/news/944224/?utm_campaign=944224&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на AI Journey Contest с призовым фондом 6,5 млн рублей](https://habr.com/ru/companies/sberbank/news/944210/?utm_campaign=944210&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия платформы совместной разработки Radicle 1.4](https://habr.com/ru/news/944200/?utm_campaign=944200&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовится потратить $10 млрд на собственные ИИ-ускорители](https://habr.com/ru/news/944212/?utm_campaign=944212&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: появится возможность доступа к востребованным интернет-сервисам в периоды ограничений мобильного интернета](https://habr.com/ru/news/944204/?utm_campaign=944204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
