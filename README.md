@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ Google Nano Banana привлек 10 миллионов новых пользователей в Gemini App](https://habr.com/ru/news/944042/?utm_campaign=944042&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Osarus — нативный LLM-сервер для Mac на базе Apple Silicon](https://habr.com/ru/news/944032/?utm_campaign=944032&utm_source=habrahabr&utm_medium=rss)
-- [Universal Deep Research: новый инструмент NVIDIA для работы с любыми LLM](https://habr.com/ru/companies/bothub/news/944024/?utm_campaign=944024&utm_source=habrahabr&utm_medium=rss)
-- [Atlassian покупает разработчика Arc за $610 млн](https://habr.com/ru/companies/bothub/news/944022/?utm_campaign=944022&utm_source=habrahabr&utm_medium=rss)
-- [Курчатовский институт выиграл грант на разработку аналоговых нейроморфных сенсоров и систем для решения задач ИИ](https://habr.com/ru/news/944012/?utm_campaign=944012&utm_source=habrahabr&utm_medium=rss)
+- [Студенты партнерского факультета СПбГУ и «Яндекса» стали победителями ICPC 2025](https://habr.com/ru/news/944066/?utm_campaign=944066&utm_source=habrahabr&utm_medium=rss)
+- [Релиз NWinfo 1.4.3 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/943832/?utm_campaign=943832&utm_source=habrahabr&utm_medium=rss)
+- [Rust Foundation анонсировала создание Rust Innovation Lab](https://habr.com/ru/news/943810/?utm_campaign=943810&utm_source=habrahabr&utm_medium=rss)
+- [Вышли руководства Linux From Scratch 12.4 и Beyond Linux From Scratch 12.4](https://habr.com/ru/news/943734/?utm_campaign=943734&utm_source=habrahabr&utm_medium=rss)
+- [Как наш ИИ-аналитик научился думать и советовать, а не просто рисовать отчёты. Вебинар](https://habr.com/ru/companies/sapiens_solutions/news/943968/?utm_campaign=943968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
