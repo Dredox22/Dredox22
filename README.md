@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры опубликовало список сайтов и сервисов, которые будут работать во время блокировок](https://habr.com/ru/news/944322/?utm_campaign=944322&utm_source=habrahabr&utm_medium=rss)
+- [Tesla открыла доступ к Robotaxi для всех iPhone-пользователей](https://habr.com/ru/companies/bothub/news/944304/?utm_campaign=944304&utm_source=habrahabr&utm_medium=rss)
 - [В Chess.com сообщили об утечке данных через приложение для передачи файлов](https://habr.com/ru/news/944272/?utm_campaign=944272&utm_source=habrahabr&utm_medium=rss)
 - [Запись вебинара для CNCF: Как построить свою облачную платформу с нуля из Open Source-компонентов &lpar;en&rpar;](https://habr.com/ru/companies/aenix/news/944262/?utm_campaign=944262&utm_source=habrahabr&utm_medium=rss)
 - [Warner Bros. подала в суд на Midjourney за использование культовых персонажей](https://habr.com/ru/companies/bothub/news/944260/?utm_campaign=944260&utm_source=habrahabr&utm_medium=rss)
-- [️ Kimi k2.1 — новая модель от Moonshot и снова лидер](https://habr.com/ru/news/944234/?utm_campaign=944234&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI открыла Projects для всех пользователей ChatGPT](https://habr.com/ru/companies/bothub/news/944224/?utm_campaign=944224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
