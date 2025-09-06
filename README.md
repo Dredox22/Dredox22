@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Производителя фототехники «Зенит» запустил в серию обновлённый объектив «Руссар»](https://habr.com/ru/news/944636/?utm_campaign=944636&utm_source=habrahabr&utm_medium=rss)
+- [В Самаре разрабатывают опытный образец «робоокуня»](https://habr.com/ru/news/944654/?utm_campaign=944654&utm_source=habrahabr&utm_medium=rss)
+- [Открылась регистрация на чемпионат для школьников и студентов True Tech Champ от МТС Web Services](https://habr.com/ru/news/944644/?utm_campaign=944644&utm_source=habrahabr&utm_medium=rss)
+- [Производитель фототехники «Зенит» запустил в серию обновлённый объектив «Руссар»](https://habr.com/ru/news/944636/?utm_campaign=944636&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic согласилась выплатить $1,5 млрд по иску о пиратстве](https://habr.com/ru/news/944630/?utm_campaign=944630&utm_source=habrahabr&utm_medium=rss)
 - [Масштабный взлом Nexar: хакер получил доступ к 130 ТБ видео и GPS-данных с видеорегистраторов](https://habr.com/ru/news/944588/?utm_campaign=944588&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI рассказали, почему ИИ галлюцинируют](https://habr.com/ru/news/944544/?utm_campaign=944544&utm_source=habrahabr&utm_medium=rss)
-- [Инженер Xbox выпустил драйвер Oasis и «воскресил» гарнитуры Windows Mixed Reality](https://habr.com/ru/news/944468/?utm_campaign=944468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
