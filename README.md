@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сети связи Т2 заработали «белые списки» сервисов при ограничении мобильного интернета](https://habr.com/ru/news/944484/?utm_campaign=944484&utm_source=habrahabr&utm_medium=rss)
 - [В Firefox решили прекратить поддержку 32-разрядных Linux-систем с ноября 2025 года](https://habr.com/ru/news/944400/?utm_campaign=944400&utm_source=habrahabr&utm_medium=rss)
 - [Релиз экспериментальной версии GIMP 3.1.4](https://habr.com/ru/news/944384/?utm_campaign=944384&utm_source=habrahabr&utm_medium=rss)
 - [Релиз LKRG 1.0.0 &lpar;Linux Kernel Runtime Guard&rpar; для защиты от эксплуатации уязвимостей в ядре Linux](https://habr.com/ru/news/944098/?utm_campaign=944098&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Minimal PDF Compress 1.8 — GUI для Ghostscript под Windows](https://habr.com/ru/news/944106/?utm_campaign=944106&utm_source=habrahabr&utm_medium=rss)
-- [Рутокен Pass: Пока официально здесь не представили, но, возможно, уже сейчас стоит протестировать](https://habr.com/ru/news/944480/?utm_campaign=944480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
