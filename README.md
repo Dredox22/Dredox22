@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft готовится изменить цены на Copilot для бизнеса](https://habr.com/ru/news/944522/?utm_campaign=944522&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic ограничивает доступ китайских компаний к услугам ИИ](https://habr.com/ru/news/944510/?utm_campaign=944510&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: у DNS-сервиса 1.1.1.1 есть три неправильно выданных сертификата](https://habr.com/ru/news/944504/?utm_campaign=944504&utm_source=habrahabr&utm_medium=rss)
 - [В сети связи Т2 заработали «белые списки» сервисов при ограничении мобильного интернета](https://habr.com/ru/news/944484/?utm_campaign=944484&utm_source=habrahabr&utm_medium=rss)
 - [В Firefox решили прекратить поддержку 32-разрядных Linux-систем с ноября 2025 года](https://habr.com/ru/news/944400/?utm_campaign=944400&utm_source=habrahabr&utm_medium=rss)
-- [Релиз экспериментальной версии GIMP 3.1.4](https://habr.com/ru/news/944384/?utm_campaign=944384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
