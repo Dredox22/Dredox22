@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В OpenAI рассказали, почему ИИ галлюцинируют](https://habr.com/ru/news/944544/?utm_campaign=944544&utm_source=habrahabr&utm_medium=rss)
 - [Инженер Xbox выпустил драйвер Oasis и «воскресил» гарнитуры Windows Mixed Reality](https://habr.com/ru/news/944468/?utm_campaign=944468&utm_source=habrahabr&utm_medium=rss)
 - [Snapchat запустила инструмент для генерации изображений по промптам](https://habr.com/ru/news/944528/?utm_campaign=944528&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft готовится изменить цены на Copilot для бизнеса](https://habr.com/ru/news/944522/?utm_campaign=944522&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic ограничивает доступ китайских компаний к услугам ИИ](https://habr.com/ru/news/944510/?utm_campaign=944510&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: у DNS-сервиса 1.1.1.1 есть три неправильно выданных сертификата](https://habr.com/ru/news/944504/?utm_campaign=944504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
