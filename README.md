@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Масштабный взлом Nexar: хакер получил доступ к 130 ТБ видео и GPS-данных с видеорегистраторов](https://habr.com/ru/news/944588/?utm_campaign=944588&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI рассказали, почему ИИ галлюцинируют](https://habr.com/ru/news/944544/?utm_campaign=944544&utm_source=habrahabr&utm_medium=rss)
 - [Инженер Xbox выпустил драйвер Oasis и «воскресил» гарнитуры Windows Mixed Reality](https://habr.com/ru/news/944468/?utm_campaign=944468&utm_source=habrahabr&utm_medium=rss)
 - [Snapchat запустила инструмент для генерации изображений по промптам](https://habr.com/ru/news/944528/?utm_campaign=944528&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft готовится изменить цены на Copilot для бизнеса](https://habr.com/ru/news/944522/?utm_campaign=944522&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic ограничивает доступ китайских компаний к услугам ИИ](https://habr.com/ru/news/944510/?utm_campaign=944510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
