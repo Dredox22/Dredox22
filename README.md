@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил программу конференции Practical ML Conf 2025](https://habr.com/ru/news/944722/?utm_campaign=944722&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI изменила прогноз по расходам: компания «сожжет» $115 млрд до конца 2029-го](https://habr.com/ru/news/944714/?utm_campaign=944714&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносное ПО на базе ИИ поразило 2180 аккаунтов GitHub в результате атаки s1ngularity](https://habr.com/ru/news/944690/?utm_campaign=944690&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выплатит авторам $1,5 млрд в рамках мирового соглашения по делу об ИИ](https://habr.com/ru/news/944686/?utm_campaign=944686&utm_source=habrahabr&utm_medium=rss)
 - [В 4 раза быстрее, в 10 раз больше уязвимостей: Apiiro оценила эффекты помощников для написания кода](https://habr.com/ru/news/944680/?utm_campaign=944680&utm_source=habrahabr&utm_medium=rss)
-- [Релиз на GitHub проекта WhiteMax 1.0.0 &lpar;удалён&rpar; — модификации мессенджера Max, приоритетом которой является безопасность](https://habr.com/ru/news/944666/?utm_campaign=944666&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.10](https://habr.com/ru/news/944486/?utm_campaign=944486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
