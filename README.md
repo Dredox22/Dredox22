@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.10](https://habr.com/ru/news/944486/?utm_campaign=944486&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Debian 13.1](https://habr.com/ru/news/944598/?utm_campaign=944598&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый видеотранскодер HandBrake 1.10.2](https://habr.com/ru/news/944606/?utm_campaign=944606&utm_source=habrahabr&utm_medium=rss)
 - [В Самаре разрабатывают опытный образец «робоокуня»](https://habr.com/ru/news/944654/?utm_campaign=944654&utm_source=habrahabr&utm_medium=rss)
 - [Открылась регистрация на чемпионат для школьников и студентов True Tech Champ от МТС Web Services](https://habr.com/ru/news/944644/?utm_campaign=944644&utm_source=habrahabr&utm_medium=rss)
-- [Производитель фототехники «Зенит» запустил в серию обновлённый объектив «Руссар»](https://habr.com/ru/news/944636/?utm_campaign=944636&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic согласилась выплатить $1,5 млрд по иску о пиратстве](https://habr.com/ru/news/944630/?utm_campaign=944630&utm_source=habrahabr&utm_medium=rss)
-- [Масштабный взлом Nexar: хакер получил доступ к 130 ТБ видео и GPS-данных с видеорегистраторов](https://habr.com/ru/news/944588/?utm_campaign=944588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
