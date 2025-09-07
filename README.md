@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 4 раза быстрее, в 10 раз больше уязвимостей: Apiiro оценила эффекты помощников для написания кода](https://habr.com/ru/news/944680/?utm_campaign=944680&utm_source=habrahabr&utm_medium=rss)
 - [Релиз на GitHub проекта WhiteMax 1.0.0 — модификации мессенджера Max, приоритетом которой является безопасность](https://habr.com/ru/news/944666/?utm_campaign=944666&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.10](https://habr.com/ru/news/944486/?utm_campaign=944486&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Debian 13.1](https://habr.com/ru/news/944598/?utm_campaign=944598&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый видеотранскодер HandBrake 1.10.2](https://habr.com/ru/news/944606/?utm_campaign=944606&utm_source=habrahabr&utm_medium=rss)
-- [В Самаре разрабатывают опытный образец «робоокуня»](https://habr.com/ru/news/944654/?utm_campaign=944654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
