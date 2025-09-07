@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз на GitHub проекта WhiteMax 1.0.0 — модификации мессенджера Max, приоритетом которой является безопасность](https://habr.com/ru/news/944666/?utm_campaign=944666&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.10](https://habr.com/ru/news/944486/?utm_campaign=944486&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Debian 13.1](https://habr.com/ru/news/944598/?utm_campaign=944598&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый видеотранскодер HandBrake 1.10.2](https://habr.com/ru/news/944606/?utm_campaign=944606&utm_source=habrahabr&utm_medium=rss)
 - [В Самаре разрабатывают опытный образец «робоокуня»](https://habr.com/ru/news/944654/?utm_campaign=944654&utm_source=habrahabr&utm_medium=rss)
-- [Открылась регистрация на чемпионат для школьников и студентов True Tech Champ от МТС Web Services](https://habr.com/ru/news/944644/?utm_campaign=944644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
