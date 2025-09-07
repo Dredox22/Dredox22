@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен бенчмарк, в котором ИИ разгромно проигрывают человеку](https://habr.com/ru/news/944786/?utm_campaign=944786&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Lid Angle Sensor — приложение для MacBook со звуком скрипа двери и считыванием угла открытия экрана](https://habr.com/ru/news/944750/?utm_campaign=944750&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил программу конференции Practical ML Conf 2025](https://habr.com/ru/news/944722/?utm_campaign=944722&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI изменила прогноз по расходам: компания «сожжет» $115 млрд до конца 2029-го](https://habr.com/ru/news/944714/?utm_campaign=944714&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносное ПО на базе ИИ поразило 2180 аккаунтов GitHub в результате атаки s1ngularity](https://habr.com/ru/news/944690/?utm_campaign=944690&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выплатит авторам $1,5 млрд в рамках мирового соглашения по делу об ИИ](https://habr.com/ru/news/944686/?utm_campaign=944686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
