@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваш BIM стал умнее: 7 важнейших новых инструментов в nanoCAD BIM Строительство 25](https://habr.com/ru/companies/nanosoft/news/945008/?utm_campaign=945008&utm_source=habrahabr&utm_medium=rss)
 - [Шрекбургер 2: Хакер Боб пришел за Burger King](https://habr.com/ru/companies/ddosguard/news/944996/?utm_campaign=944996&utm_source=habrahabr&utm_medium=rss)
 - [Команда НИЦ ЦТ едет на Ом Fest](https://habr.com/ru/companies/nic_ct/news/944992/?utm_campaign=944992&utm_source=habrahabr&utm_medium=rss)
 - [GPT 5 и GPT 4.1 с оплатой в рублях стал доступен в Amvera Cloud](https://habr.com/ru/companies/amvera/news/944988/?utm_campaign=944988&utm_source=habrahabr&utm_medium=rss)
 - [Регулятор США планирует закрыть Wi-Fi в школьных автобусах и точки доступа в библиотеках](https://habr.com/ru/news/944968/?utm_campaign=944968&utm_source=habrahabr&utm_medium=rss)
-- [Санкт-Петербург соберёт новое поколение киберзащитников на GIS DAYS 2025](https://habr.com/ru/companies/gaz-is/news/944966/?utm_campaign=944966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
