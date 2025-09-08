@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Крестный отец ИИ предупредил о возможном новом неравенстве](https://habr.com/ru/news/945082/?utm_campaign=945082&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind научила роботов работать в команде](https://habr.com/ru/companies/bothub/news/945080/?utm_campaign=945080&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/945078/?utm_campaign=945078&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI реорганизует исследовательскую группу, стоящую за разработкой ChatGPT](https://habr.com/ru/news/945048/?utm_campaign=945048&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на главный онлайн-кэмп по практической кибербезопасности CyberCamp 2025](https://habr.com/ru/companies/jetinfosystems/news/945040/?utm_campaign=945040&utm_source=habrahabr&utm_medium=rss)
+- [«Леста» открыла новый набор в «Леста Академию»](https://habr.com/ru/news/945114/?utm_campaign=945114&utm_source=habrahabr&utm_medium=rss)
+- [Amazon Music запустила AI-функцию Weekly Vibe для персонализированных плейлистов](https://habr.com/ru/companies/bothub/news/945110/?utm_campaign=945110&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic поддержала законопроект о безопасности ИИ в Калифорнии](https://habr.com/ru/companies/bothub/news/945106/?utm_campaign=945106&utm_source=habrahabr&utm_medium=rss)
+- [Виртуальная Камера](https://habr.com/ru/news/945100/?utm_campaign=945100&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI поможет создать первый полнометражный мультфильм на базе ИИ](https://habr.com/ru/companies/bothub/news/945092/?utm_campaign=945092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
