@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Runet: в сети связи МТС заработали «белые списки» сервисов при ограничении мобильного интернета](https://habr.com/ru/news/944822/?utm_campaign=944822&utm_source=habrahabr&utm_medium=rss)
 - [Представлено приложение Astronomer на Electron без React для изучения астрономических данных и планирования наблюдений](https://habr.com/ru/news/944762/?utm_campaign=944762&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для создания скриншотов SunnyCapturer 5.0](https://habr.com/ru/news/944770/?utm_campaign=944770&utm_source=habrahabr&utm_medium=rss)
 - [Вышел первый альфа-выпуск дистрибутива KDE Linux от команды проекта KDE](https://habr.com/ru/news/944764/?utm_campaign=944764&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PicView 3.2.0.1 — открытого просмотрщика изображений для ПК на Windows 10/11 и macOS](https://habr.com/ru/news/944758/?utm_campaign=944758&utm_source=habrahabr&utm_medium=rss)
-- [Представлен бенчмарк, в котором ИИ разгромно проигрывают человеку](https://habr.com/ru/news/944786/?utm_campaign=944786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
