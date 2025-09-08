@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber предложила таксистам из Индии учить ИИ-помощника в качестве подработки](https://habr.com/ru/news/944886/?utm_campaign=944886&utm_source=habrahabr&utm_medium=rss)
-- [VirusTotal обнаружил скрытую фишинговую кампанию в SVG-файлах](https://habr.com/ru/news/944876/?utm_campaign=944876&utm_source=habrahabr&utm_medium=rss)
-- [Проблема с SSD в системах с Windows 11 могла возникнуть из-за инженерных прошивок](https://habr.com/ru/news/944864/?utm_campaign=944864&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-репетитор MathGPT.ai заработал в 50 учебных заведениях США](https://habr.com/ru/news/944866/?utm_campaign=944866&utm_source=habrahabr&utm_medium=rss)
-- [Обзор UserGate WAF от Selectel](https://habr.com/ru/companies/usergate/news/944846/?utm_campaign=944846&utm_source=habrahabr&utm_medium=rss)
+- [Календарь iCloud стали использовать для отправки фишинговых писем с серверов Apple](https://habr.com/ru/news/944912/?utm_campaign=944912&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Основатель 2ГИС продал свою долю и ушёл из компании»](https://habr.com/ru/news/944934/?utm_campaign=944934&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекращает поддержку приложения Outlook Lite](https://habr.com/ru/news/944802/?utm_campaign=944802&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Музыка» внедрила нейросетевую технологию сведения треков и запустила «AI-сеты Моей волны»](https://habr.com/ru/news/944918/?utm_campaign=944918&utm_source=habrahabr&utm_medium=rss)
+- [ASML инвестирует €1,3 млрд в Mistral: Европа строит собственный AI-стек](https://habr.com/ru/companies/bothub/news/944910/?utm_campaign=944910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
