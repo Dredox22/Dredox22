@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема с SSD в системах с Windows 11 могла возникнуть из-за инженерных прошивок](https://habr.com/ru/news/944864/?utm_campaign=944864&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-репетитор MathGPT.ai заработал в 50 учебных заведениях США](https://habr.com/ru/news/944866/?utm_campaign=944866&utm_source=habrahabr&utm_medium=rss)
 - [Обзор UserGate WAF от Selectel](https://habr.com/ru/companies/usergate/news/944846/?utm_campaign=944846&utm_source=habrahabr&utm_medium=rss)
 - [Runet: в сети связи МТС заработали «белые списки» сервисов при ограничении мобильного интернета](https://habr.com/ru/news/944822/?utm_campaign=944822&utm_source=habrahabr&utm_medium=rss)
 - [Представлено приложение Astronomer на Electron без React для изучения астрономических данных и планирования наблюдений](https://habr.com/ru/news/944762/?utm_campaign=944762&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для создания скриншотов SunnyCapturer 5.0](https://habr.com/ru/news/944770/?utm_campaign=944770&utm_source=habrahabr&utm_medium=rss)
-- [Вышел первый альфа-выпуск дистрибутива KDE Linux от команды проекта KDE](https://habr.com/ru/news/944764/?utm_campaign=944764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
