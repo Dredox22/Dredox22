@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok 4.20 готовится к выходу? Две анонимных ИИ-модели появились на OpenRouter](https://habr.com/ru/news/944954/?utm_campaign=944954&utm_source=habrahabr&utm_medium=rss)
-- [Горелкин: «белые списки» Минцифры должны внедрять операторы связи одинаково и не менять там сервисы по своему усмотрению](https://habr.com/ru/news/944952/?utm_campaign=944952&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Teams появилась возможность прослушивать сводки собраний](https://habr.com/ru/news/944806/?utm_campaign=944806&utm_source=habrahabr&utm_medium=rss)
-- [Календарь iCloud стали использовать для отправки фишинговых писем с серверов Apple](https://habr.com/ru/news/944912/?utm_campaign=944912&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Основатель 2ГИС продал свою долю и ушёл из компании»](https://habr.com/ru/news/944934/?utm_campaign=944934&utm_source=habrahabr&utm_medium=rss)
+- [Шрекбургер 2: Хакер Боб пришел за Burger King](https://habr.com/ru/companies/ddosguard/news/944996/?utm_campaign=944996&utm_source=habrahabr&utm_medium=rss)
+- [Команда НИЦ ЦТ едет на Ом Fest](https://habr.com/ru/companies/nic_ct/news/944992/?utm_campaign=944992&utm_source=habrahabr&utm_medium=rss)
+- [GPT 5 и GPT 4.1 с оплатой в рублях стал доступен в Amvera Cloud](https://habr.com/ru/companies/amvera/news/944988/?utm_campaign=944988&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор США планирует закрыть Wi-Fi в школьных автобусах и точки доступа в библиотеках](https://habr.com/ru/news/944968/?utm_campaign=944968&utm_source=habrahabr&utm_medium=rss)
+- [Санкт-Петербург соберёт новое поколение киберзащитников на GIS DAYS 2025](https://habr.com/ru/companies/gaz-is/news/944966/?utm_campaign=944966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
