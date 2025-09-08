@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Крестный отец ИИ предупредил о возможном новом неравенстве](https://habr.com/ru/news/945082/?utm_campaign=945082&utm_source=habrahabr&utm_medium=rss)
+- [Google DeepMind научила роботов работать в команде](https://habr.com/ru/companies/bothub/news/945080/?utm_campaign=945080&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/945078/?utm_campaign=945078&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI реорганизует исследовательскую группу, стоящую за разработкой ChatGPT](https://habr.com/ru/news/945048/?utm_campaign=945048&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на главный онлайн-кэмп по практической кибербезопасности CyberCamp 2025](https://habr.com/ru/companies/jetinfosystems/news/945040/?utm_campaign=945040&utm_source=habrahabr&utm_medium=rss)
-- [Ваш BIM стал умнее: 7 важнейших новых инструментов в nanoCAD BIM Строительство 25](https://habr.com/ru/companies/nanosoft/news/945008/?utm_campaign=945008&utm_source=habrahabr&utm_medium=rss)
-- [Шрекбургер 2: Хакер Боб пришел за Burger King](https://habr.com/ru/companies/ddosguard/news/944996/?utm_campaign=944996&utm_source=habrahabr&utm_medium=rss)
-- [Команда НИЦ ЦТ едет на Ом Fest](https://habr.com/ru/companies/nic_ct/news/944992/?utm_campaign=944992&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
