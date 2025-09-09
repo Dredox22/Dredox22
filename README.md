@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МТС Web Services приглашает разработчиков на всероссийский чемпионат по программированию](https://habr.com/ru/companies/ru_mts/news/945184/?utm_campaign=945184&utm_source=habrahabr&utm_medium=rss)
+- [Митап Tantor JAM 19 сентября 2025: Большая стратегия и новинки экосистемы](https://habr.com/ru/companies/tantor/news/945116/?utm_campaign=945116&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: «Мониторинг ИБ по-новому»](https://habr.com/ru/companies/ussc/news/945170/?utm_campaign=945170&utm_source=habrahabr&utm_medium=rss)
 - [Теперь Grok 2.5 можно запускать локально](https://habr.com/ru/companies/bothub/news/945164/?utm_campaign=945164&utm_source=habrahabr&utm_medium=rss)
 - [Графический дизайнер представил сайт MitchivinXP в стиле Windows XP в качестве своего портфолио](https://habr.com/ru/news/945158/?utm_campaign=945158&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого симулятора электронных схем Qucs-S 25.2.0](https://habr.com/ru/news/944834/?utm_campaign=944834&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого модульного шрифтового движка FreeType 2.14](https://habr.com/ru/news/944838/?utm_campaign=944838&utm_source=habrahabr&utm_medium=rss)
-- [Глава Anthropic: ИИ может сократить до 50% начальных вакансий в ближайшие годы](https://habr.com/ru/news/945146/?utm_campaign=945146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
