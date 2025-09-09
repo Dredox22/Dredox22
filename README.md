@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что случилось в мире ML: Gen AI в яме, NVIDIA выкатывает CUDA Toolkit и другие новости](https://habr.com/ru/companies/selectel/news/945224/?utm_campaign=945224&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft упростила введение формул в Excel с помощью ИИ](https://habr.com/ru/news/945190/?utm_campaign=945190&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑Банк» начал тесты технологии бесконтактной оплаты в сервисе T-Pay для пользователей iPhone по Bluetooth вместо NFC](https://habr.com/ru/news/945192/?utm_campaign=945192&utm_source=habrahabr&utm_medium=rss)
 - [Signal добавил облачное резервное копирование для чатов](https://habr.com/ru/news/945182/?utm_campaign=945182&utm_source=habrahabr&utm_medium=rss)
 - [МТС Web Services приглашает разработчиков на всероссийский чемпионат по программированию](https://habr.com/ru/companies/ru_mts/news/945184/?utm_campaign=945184&utm_source=habrahabr&utm_medium=rss)
-- [Митап Tantor JAM 19 сентября 2025: Большая стратегия и новинки экосистемы](https://habr.com/ru/companies/tantor/news/945116/?utm_campaign=945116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
