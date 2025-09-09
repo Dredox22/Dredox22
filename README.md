@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic расширила функции Claude за счёт данных смартфонов](https://habr.com/ru/companies/bothub/news/945410/?utm_campaign=945410&utm_source=habrahabr&utm_medium=rss)
 - [Google почти вдвое удешевила генерацию видео в Veo 3](https://habr.com/ru/companies/bothub/news/945414/?utm_campaign=945414&utm_source=habrahabr&utm_medium=rss)
 - [Гуманоидные роботы идут на биржу: Unitree заявила о планах IPO](https://habr.com/ru/companies/bothub/news/945406/?utm_campaign=945406&utm_source=habrahabr&utm_medium=rss)
 - [Mistral AI привлекла 1,7 млрд евро при оценке 11,7 млрд](https://habr.com/ru/news/945396/?utm_campaign=945396&utm_source=habrahabr&utm_medium=rss)
 - [Представлена визитная карточка, на которой локально работает языковая модель](https://habr.com/ru/news/945392/?utm_campaign=945392&utm_source=habrahabr&utm_medium=rss)
-- [Baidu представила новое поколение моделей ERNIE](https://habr.com/ru/companies/bothub/news/945388/?utm_campaign=945388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
