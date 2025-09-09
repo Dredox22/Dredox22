@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Chrome 140 усложнили установку uBlock Origin](https://habr.com/ru/news/945252/?utm_campaign=945252&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch и МойОфис повышают информационную безопасность корпоративного мессенджера Squadus](https://habr.com/ru/companies/infowatch/news/945234/?utm_campaign=945234&utm_source=habrahabr&utm_medium=rss)
-- [Что случилось в мире ML: Gen AI в яме, NVIDIA выкатывает CUDA Toolkit и другие новости](https://habr.com/ru/companies/selectel/news/945224/?utm_campaign=945224&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft упростила введение формул в Excel с помощью ИИ](https://habr.com/ru/news/945190/?utm_campaign=945190&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» начал тесты технологии бесконтактной оплаты в сервисе T-Pay для пользователей iPhone по Bluetooth вместо NFC](https://habr.com/ru/news/945192/?utm_campaign=945192&utm_source=habrahabr&utm_medium=rss)
+- [Tencent представила открытую ИИ-модель для генерации трёхмерных видео по картинке](https://habr.com/ru/news/945272/?utm_campaign=945272&utm_source=habrahabr&utm_medium=rss)
+- [Стриминговый сервис Plex предупредил клиентов об утечке данных](https://habr.com/ru/news/945266/?utm_campaign=945266&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft заключила крупнейший контракт с Nebius](https://habr.com/ru/companies/bothub/news/945264/?utm_campaign=945264&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX купит у EchoStar лицензии на 50 МГц беспроводного спектра для расширения сети Starlink](https://habr.com/ru/news/945260/?utm_campaign=945260&utm_source=habrahabr&utm_medium=rss)
+- [ИИ Claude уже месяц работает хуже обычного. Anthropic принимает меры](https://habr.com/ru/news/945256/?utm_campaign=945256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
