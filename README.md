@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Just AI запускает Agent Platform — первую в России enterprise-платформу для разработки и управления AI-агентами](https://habr.com/ru/companies/just_ai/news/945346/?utm_campaign=945346&utm_source=habrahabr&utm_medium=rss)
 - [Nebius Аркадия Воложа предоставит Microsoft вычислительные мощности для ИИ за $17,4 млрд в следующие пять лет](https://habr.com/ru/news/945296/?utm_campaign=945296&utm_source=habrahabr&utm_medium=rss)
 - [Tencent представила открытую ИИ-модель для генерации трёхмерных видео по картинке](https://habr.com/ru/news/945272/?utm_campaign=945272&utm_source=habrahabr&utm_medium=rss)
 - [Стриминговый сервис Plex предупредил клиентов об утечке данных](https://habr.com/ru/news/945266/?utm_campaign=945266&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заключила крупнейший контракт с Nebius](https://habr.com/ru/companies/bothub/news/945264/?utm_campaign=945264&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX купит у EchoStar лицензии на 50 МГц беспроводного спектра для расширения сети Starlink](https://habr.com/ru/news/945260/?utm_campaign=945260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
