@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft упростила введение формул в Excel с помощью ИИ](https://habr.com/ru/news/945190/?utm_campaign=945190&utm_source=habrahabr&utm_medium=rss)
+- [«Т‑Банк» начал тесты технологии бесконтактной оплаты в сервисе T-Pay для пользователей iPhone по Bluetooth вместо NFC](https://habr.com/ru/news/945192/?utm_campaign=945192&utm_source=habrahabr&utm_medium=rss)
+- [Signal добавил облачное резервное копирование для чатов](https://habr.com/ru/news/945182/?utm_campaign=945182&utm_source=habrahabr&utm_medium=rss)
 - [МТС Web Services приглашает разработчиков на всероссийский чемпионат по программированию](https://habr.com/ru/companies/ru_mts/news/945184/?utm_campaign=945184&utm_source=habrahabr&utm_medium=rss)
 - [Митап Tantor JAM 19 сентября 2025: Большая стратегия и новинки экосистемы](https://habr.com/ru/companies/tantor/news/945116/?utm_campaign=945116&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: «Мониторинг ИБ по-новому»](https://habr.com/ru/companies/ussc/news/945170/?utm_campaign=945170&utm_source=habrahabr&utm_medium=rss)
-- [Теперь Grok 2.5 можно запускать локально](https://habr.com/ru/companies/bothub/news/945164/?utm_campaign=945164&utm_source=habrahabr&utm_medium=rss)
-- [Графический дизайнер представил сайт MitchivinXP в стиле Windows XP в качестве своего портфолио](https://habr.com/ru/news/945158/?utm_campaign=945158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
