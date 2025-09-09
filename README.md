@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начнет использовать ИИ Anthropic в связке с OpenAI](https://habr.com/ru/news/945468/?utm_campaign=945468&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила iPhone 17](https://habr.com/ru/news/945454/?utm_campaign=945454&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила AirPods Pro 3](https://habr.com/ru/news/945446/?utm_campaign=945446&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba вложила $140 млн в разработчика роботов X Square](https://habr.com/ru/companies/bothub/news/945400/?utm_campaign=945400&utm_source=habrahabr&utm_medium=rss)
 - [В США клиент поймал психотерапевта на использовании ChatGPT](https://habr.com/ru/news/945444/?utm_campaign=945444&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic расширила функции Claude за счёт данных смартфонов](https://habr.com/ru/companies/bothub/news/945410/?utm_campaign=945410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
