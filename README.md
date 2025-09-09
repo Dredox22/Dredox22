@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого симулятора электронных схем Qucs-S 25.2.0](https://habr.com/ru/news/944834/?utm_campaign=944834&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого модульного шрифтового движка FreeType 2.14](https://habr.com/ru/news/944838/?utm_campaign=944838&utm_source=habrahabr&utm_medium=rss)
 - [Глава Anthropic: ИИ может сократить до 50% начальных вакансий в ближайшие годы](https://habr.com/ru/news/945146/?utm_campaign=945146&utm_source=habrahabr&utm_medium=rss)
 - [Google может составить конкуренцию NVIDIA с TPU-чипами](https://habr.com/ru/companies/bothub/news/945084/?utm_campaign=945084&utm_source=habrahabr&utm_medium=rss)
 - [Центр безопасности Max опубликовал итоги работы за август 2025 года](https://habr.com/ru/news/945118/?utm_campaign=945118&utm_source=habrahabr&utm_medium=rss)
-- [«Леста» открыла новый набор в «Леста Академию»](https://habr.com/ru/news/945114/?utm_campaign=945114&utm_source=habrahabr&utm_medium=rss)
-- [Amazon Music запустила AI-функцию Weekly Vibe для персонализированных плейлистов](https://habr.com/ru/companies/bothub/news/945110/?utm_campaign=945110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
