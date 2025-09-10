@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» назвала победителей Kaspersky{CTF}](https://habr.com/ru/news/945806/?utm_campaign=945806&utm_source=habrahabr&utm_medium=rss)
+- [Старт IT Elements 2025 — в Москве открылась главная ИТ-конференция осени](https://habr.com/ru/companies/jetinfosystems/news/945794/?utm_campaign=945794&utm_source=habrahabr&utm_medium=rss)
+- [Vimeo продан итальянцам за $1,38 млрд](https://habr.com/ru/companies/bothub/news/945798/?utm_campaign=945798&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: в список сайтов, доступных при ограничении мобильного интернета добавят МЧС, Госдумы, Совфеда и Генпрокуратуры](https://habr.com/ru/news/945800/?utm_campaign=945800&utm_source=habrahabr&utm_medium=rss)
 - [ИИ пишет научный код лучше людей: Google Research сделал новое открытие](https://habr.com/ru/companies/bothub/news/945792/?utm_campaign=945792&utm_source=habrahabr&utm_medium=rss)
-- [Claude будет создавать и редактировать Excel, PowerPoint, Docs и PDF](https://habr.com/ru/companies/bothub/news/945764/?utm_campaign=945764&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft снижает зависимость от OpenAI](https://habr.com/ru/companies/bothub/news/945752/?utm_campaign=945752&utm_source=habrahabr&utm_medium=rss)
-- [Finam X HSE AI Trade Hack: Хакатон для настоящих FinTech-энтузиастов](https://habr.com/ru/companies/finam_broker/news/945372/?utm_campaign=945372&utm_source=habrahabr&utm_medium=rss)
-- [Только iPhone 17 Pro получили USB 3, но не iPhone Air и iPhone 17](https://habr.com/ru/news/945732/?utm_campaign=945732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
