@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Денежное вознаграждение за развитие open source: запуск OpenFix](https://habr.com/ru/companies/selectel/news/945052/?utm_campaign=945052&utm_source=habrahabr&utm_medium=rss)
+- [Dropbox закроет мобильное приложение Paper в октябре](https://habr.com/ru/news/945580/?utm_campaign=945580&utm_source=habrahabr&utm_medium=rss)
 - [iPhone 17, Air и Pro Max: все главные новинки Apple 2025](https://habr.com/ru/companies/bothub/news/945560/?utm_campaign=945560&utm_source=habrahabr&utm_medium=rss)
 - [Instruo представила Pocket Scion — синтезатор, позволяющий создавать музыку с помощью грибов](https://habr.com/ru/news/945138/?utm_campaign=945138&utm_source=habrahabr&utm_medium=rss)
 - [Флоридские инженеры создали оптический AI-чип](https://habr.com/ru/companies/bothub/news/945556/?utm_campaign=945556&utm_source=habrahabr&utm_medium=rss)
-- [Grok Code Fast 1 занял первое место по использованию на OpenRouter](https://habr.com/ru/news/945516/?utm_campaign=945516&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla добавила в Firefox на iOS возможность создавать краткие сводки сайтов с помощью ИИ](https://habr.com/ru/news/945514/?utm_campaign=945514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
