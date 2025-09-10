@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Облачный провайдер Nubes запустил уникальное IT-шоу](https://habr.com/ru/companies/nubes/news/945656/?utm_campaign=945656&utm_source=habrahabr&utm_medium=rss)
-- [Claude научили создавать и редактировать файлы](https://habr.com/ru/news/945638/?utm_campaign=945638&utm_source=habrahabr&utm_medium=rss)
-- [В «Лаборатории Касперского» пояснили, что Max даже несколько «отстаёт» по своим «аппетитам» от других мессенджеров](https://habr.com/ru/news/945630/?utm_campaign=945630&utm_source=habrahabr&utm_medium=rss)
-- [Денежное вознаграждение за развитие open source: запуск OpenFix](https://habr.com/ru/companies/selectel/news/945052/?utm_campaign=945052&utm_source=habrahabr&utm_medium=rss)
-- [Dropbox закроет мобильное приложение Paper в октябре](https://habr.com/ru/news/945580/?utm_campaign=945580&utm_source=habrahabr&utm_medium=rss)
+- [Вышел стандарт Unicode 17 со 164 новых эмодзи](https://habr.com/ru/news/945690/?utm_campaign=945690&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» запускает партнёрскую программу сотрудничества с ссузами и в России](https://habr.com/ru/news/945694/?utm_campaign=945694&utm_source=habrahabr&utm_medium=rss)
+- [Аукционный дом Christie&#39;s закрыл свой NFT‑отдел](https://habr.com/ru/news/945678/?utm_campaign=945678&utm_source=habrahabr&utm_medium=rss)
+- [Atlassian прекращает продажу и поддержку on-premise версий &lpar;Data Center&rpar;. Что ждет российских пользователей?](https://habr.com/ru/companies/evateam/news/945676/?utm_campaign=945676&utm_source=habrahabr&utm_medium=rss)
+- [The Atlantic предупредил о риске ИИ-пузыря в США](https://habr.com/ru/news/945674/?utm_campaign=945674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
