@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft начнет использовать ИИ Anthropic в связке с OpenAI](https://habr.com/ru/news/945468/?utm_campaign=945468&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила iPhone 17](https://habr.com/ru/news/945454/?utm_campaign=945454&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила AirPods Pro 3](https://habr.com/ru/news/945446/?utm_campaign=945446&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba вложила $140 млн в разработчика роботов X Square](https://habr.com/ru/companies/bothub/news/945400/?utm_campaign=945400&utm_source=habrahabr&utm_medium=rss)
-- [В США клиент поймал психотерапевта на использовании ChatGPT](https://habr.com/ru/news/945444/?utm_campaign=945444&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила iPhone 17 Pro и iPhone 17 Pro Max](https://habr.com/ru/news/945488/?utm_campaign=945488&utm_source=habrahabr&utm_medium=rss)
+- [Вышел бесплатный для некоммерческого использования растровый графический редактор AliveColors 10](https://habr.com/ru/news/945354/?utm_campaign=945354&utm_source=habrahabr&utm_medium=rss)
+- [Стартовало альфа-тестирование FreeBSD 15](https://habr.com/ru/news/945216/?utm_campaign=945216&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск HomeBank 5.9.5 — открытого проекта для ведения личной бухгалтерии](https://habr.com/ru/news/945274/?utm_campaign=945274&utm_source=habrahabr&utm_medium=rss)
+- [Релиз StaxRip 2.50.1 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/945324/?utm_campaign=945324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
