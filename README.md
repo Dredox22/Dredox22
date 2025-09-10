@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ChatGPT появился режим разработчика](https://habr.com/ru/news/945840/?utm_campaign=945840&utm_source=habrahabr&utm_medium=rss)
 - [Sakana AI ищет сотрудников в финансовый сектор](https://habr.com/ru/companies/bothub/news/945772/?utm_campaign=945772&utm_source=habrahabr&utm_medium=rss)
 - [Лучше Google Nano Banana. Представлен ИИ для создания картинок Seedream 4](https://habr.com/ru/news/945808/?utm_campaign=945808&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» назвала победителей Kaspersky{CTF}](https://habr.com/ru/news/945806/?utm_campaign=945806&utm_source=habrahabr&utm_medium=rss)
 - [Старт IT Elements 2025 — в Москве открылась главная ИТ-конференция осени](https://habr.com/ru/companies/jetinfosystems/news/945794/?utm_campaign=945794&utm_source=habrahabr&utm_medium=rss)
-- [Vimeo продан итальянцам за $1,38 млрд](https://habr.com/ru/companies/bothub/news/945798/?utm_campaign=945798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
