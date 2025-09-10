@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пользователи GitHub выступили против принудительного использования функций ИИ Copilot](https://habr.com/ru/news/945518/?utm_campaign=945518&utm_source=habrahabr&utm_medium=rss)
+- [iPhone 17, Air и Pro Max: все главные новинки Apple 2025](https://habr.com/ru/companies/bothub/news/945560/?utm_campaign=945560&utm_source=habrahabr&utm_medium=rss)
+- [Instruo представила Pocket Scion — синтезатор, позволяющий создавать музыку с помощью грибов](https://habr.com/ru/news/945138/?utm_campaign=945138&utm_source=habrahabr&utm_medium=rss)
+- [Флоридские инженеры создали оптический AI-чип](https://habr.com/ru/companies/bothub/news/945556/?utm_campaign=945556&utm_source=habrahabr&utm_medium=rss)
 - [Grok Code Fast 1 занял первое место по использованию на OpenRouter](https://habr.com/ru/news/945516/?utm_campaign=945516&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla добавила в Firefox на iOS возможность создавать краткие сводки сайтов с помощью ИИ](https://habr.com/ru/news/945514/?utm_campaign=945514&utm_source=habrahabr&utm_medium=rss)
-- [EvaWiki — новый инструмент управления знаниями в САВРУС](https://habr.com/ru/companies/evateam/news/945506/?utm_campaign=945506&utm_source=habrahabr&utm_medium=rss)
-- [Из-за «проблемы с программным обеспечением» Verizon мобильная связь не работала у сотен тысяч абонентов в США](https://habr.com/ru/news/945502/?utm_campaign=945502&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
