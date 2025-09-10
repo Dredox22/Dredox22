@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Finam X HSE AI Trade Hack: Хакатон для настоящих FinTech-энтузиастов](https://habr.com/ru/companies/finam_broker/news/945372/?utm_campaign=945372&utm_source=habrahabr&utm_medium=rss)
+- [Только iPhone 17 Pro получили USB 3, но не iPhone Air и iPhone 17](https://habr.com/ru/news/945732/?utm_campaign=945732&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft дарит студентам из США годовую бесплатную подписку на Microsoft 365 Personal](https://habr.com/ru/news/945722/?utm_campaign=945722&utm_source=habrahabr&utm_medium=rss)
 - [Вышел стандарт Unicode 17 со 164 новых эмодзи](https://habr.com/ru/news/945690/?utm_campaign=945690&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» запускает партнёрскую программу сотрудничества с ссузами в России](https://habr.com/ru/news/945694/?utm_campaign=945694&utm_source=habrahabr&utm_medium=rss)
-- [Аукционный дом Christie&#39;s закрыл свой NFT‑отдел](https://habr.com/ru/news/945678/?utm_campaign=945678&utm_source=habrahabr&utm_medium=rss)
-- [Atlassian прекращает продажу и поддержку on-premise версий &lpar;Data Center&rpar;. Что ждет российских пользователей?](https://habr.com/ru/companies/evateam/news/945676/?utm_campaign=945676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
