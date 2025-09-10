@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: готовится расширение списка сайтов, доступных при ограничении мобильного интернета, но «Фонбет» там не будет](https://habr.com/ru/news/945500/?utm_campaign=945500&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: в «белые списки» Минцифры при ограничении мобильного интернета попадут 57 сервисов, включая Pikabu и «Фонбет»](https://habr.com/ru/news/945496/?utm_campaign=945496&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила iPhone 17 Pro и iPhone 17 Pro Max](https://habr.com/ru/news/945488/?utm_campaign=945488&utm_source=habrahabr&utm_medium=rss)
 - [Вышел бесплатный для некоммерческого использования растровый графический редактор AliveColors 10](https://habr.com/ru/news/945354/?utm_campaign=945354&utm_source=habrahabr&utm_medium=rss)
 - [Стартовало альфа-тестирование FreeBSD 15](https://habr.com/ru/news/945216/?utm_campaign=945216&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск HomeBank 5.9.5 — открытого проекта для ведения личной бухгалтерии](https://habr.com/ru/news/945274/?utm_campaign=945274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
