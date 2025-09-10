@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft дарит студентам из США годовую бесплатную подписку на Microsoft 365 Personal](https://habr.com/ru/news/945722/?utm_campaign=945722&utm_source=habrahabr&utm_medium=rss)
 - [Вышел стандарт Unicode 17 со 164 новых эмодзи](https://habr.com/ru/news/945690/?utm_campaign=945690&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» запускает партнёрскую программу сотрудничества с ссузами и в России](https://habr.com/ru/news/945694/?utm_campaign=945694&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» запускает партнёрскую программу сотрудничества с ссузами в России](https://habr.com/ru/news/945694/?utm_campaign=945694&utm_source=habrahabr&utm_medium=rss)
 - [Аукционный дом Christie&#39;s закрыл свой NFT‑отдел](https://habr.com/ru/news/945678/?utm_campaign=945678&utm_source=habrahabr&utm_medium=rss)
 - [Atlassian прекращает продажу и поддержку on-premise версий &lpar;Data Center&rpar;. Что ждет российских пользователей?](https://habr.com/ru/companies/evateam/news/945676/?utm_campaign=945676&utm_source=habrahabr&utm_medium=rss)
-- [The Atlantic предупредил о риске ИИ-пузыря в США](https://habr.com/ru/news/945674/?utm_campaign=945674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
