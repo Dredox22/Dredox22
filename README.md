@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony запустила приложение для родительского контроля на PlayStation](https://habr.com/ru/news/945878/?utm_campaign=945878&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI и Oracle заключили сделку планетарного масштаба](https://habr.com/ru/companies/bothub/news/945874/?utm_campaign=945874&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI заключила сделку с Oracle на покупку вычислительных мощностей для развития ИИ на $300 млрд сроком на пять лет](https://habr.com/ru/news/945868/?utm_campaign=945868&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Term.Everything для запуска графических приложений в терминале](https://habr.com/ru/news/945688/?utm_campaign=945688&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пиринговый видеохостинг PeerTube 7.3](https://habr.com/ru/news/945658/?utm_campaign=945658&utm_source=habrahabr&utm_medium=rss)
-- [Релиз DaVinci Resolve 20.2](https://habr.com/ru/news/945756/?utm_campaign=945756&utm_source=habrahabr&utm_medium=rss)
-- [Представлен дистрибутив для создания систем обнаружения вторжений Clear NDR 1.0](https://habr.com/ru/news/945680/?utm_campaign=945680&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появился режим разработчика](https://habr.com/ru/news/945840/?utm_campaign=945840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
