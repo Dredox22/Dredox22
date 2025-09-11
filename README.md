@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Все чат-боты провалили хотя бы один тест на распознавание суицидальных запросов](https://habr.com/ru/news/946006/?utm_campaign=946006&utm_source=habrahabr&utm_medium=rss)
+- [К премии Дарвина добавили категорию, посвящённую неудачным попыткам внедрения ИИ](https://habr.com/ru/news/945848/?utm_campaign=945848&utm_source=habrahabr&utm_medium=rss)
+- [Представлен стандарт лицензирования контента для оплаты за сбор ботами данных для обучения ИИ](https://habr.com/ru/news/945978/?utm_campaign=945978&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт Positive Technologies помог повысить безопасность почтового сервера CommuniGate Pro](https://habr.com/ru/companies/pt/news/945990/?utm_campaign=945990&utm_source=habrahabr&utm_medium=rss)
 - [Grammarly теперь работает с грамматикой испанского и французского языков](https://habr.com/ru/news/945962/?utm_campaign=945962&utm_source=habrahabr&utm_medium=rss)
-- [ТЭК адаптировался к угрозам: ситуация с утечками данных стабилизируется](https://habr.com/ru/companies/infowatch/news/945960/?utm_campaign=945960&utm_source=habrahabr&utm_medium=rss)
-- [Apple улучшила систему защиты памяти в iPhone 17 для борьбы со шпионским ПО](https://habr.com/ru/news/945952/?utm_campaign=945952&utm_source=habrahabr&utm_medium=rss)
-- [Карта расширения GIGABYTE AI TOP CXL R5X4 добавляет до 512 ГБ памяти для систем на Xeon и Threadripper](https://habr.com/ru/news/945940/?utm_campaign=945940&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики под Windows теперь могут публиковать приложения в Microsoft Store без комиссии](https://habr.com/ru/news/945932/?utm_campaign=945932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
