@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT научили работать с внешними MCP-серверами](https://habr.com/ru/companies/bothub/news/946190/?utm_campaign=946190&utm_source=habrahabr&utm_medium=rss)
+- [Игровой фестиваль «Рэд Экспо» не будет проводиться в 2025 году](https://habr.com/ru/news/946178/?utm_campaign=946178&utm_source=habrahabr&utm_medium=rss)
 - [Названы победители IT-премии IT Elements Awards](https://habr.com/ru/news/946166/?utm_campaign=946166&utm_source=habrahabr&utm_medium=rss)
 - [GPT, виртуализация и сети, а также киберпоединки — как прошел второй день IT Elements](https://habr.com/ru/companies/jetinfosystems/news/946158/?utm_campaign=946158&utm_source=habrahabr&utm_medium=rss)
 - [YouTube запускает нейродубляж для авторов](https://habr.com/ru/companies/bothub/news/946144/?utm_campaign=946144&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft показала нейросеть, которая может похоронить классический 3D-рендеринг](https://habr.com/ru/companies/bothub/news/946128/?utm_campaign=946128&utm_source=habrahabr&utm_medium=rss)
-- [Бизнес-день GIS DAYS 2025: ключевые игроки ИБ-рынка обсудят защиту ИИ, BAS-тестирование и новые вызовы](https://habr.com/ru/companies/gaz-is/news/946106/?utm_campaign=946106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
