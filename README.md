@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» открыла доступ к бесплатному курсу по кибербезопасности Enter_IT для школьников и студентов](https://habr.com/ru/news/946024/?utm_campaign=946024&utm_source=habrahabr&utm_medium=rss)
 - [Все чат-боты провалили хотя бы один тест на распознавание суицидальных запросов](https://habr.com/ru/news/946006/?utm_campaign=946006&utm_source=habrahabr&utm_medium=rss)
-- [К премии Дарвина добавили категорию, посвящённую неудачным попыткам внедрения ИИ](https://habr.com/ru/news/945848/?utm_campaign=945848&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиасты создали премию Дарвина, посвящённую неудачным попыткам внедрения ИИ](https://habr.com/ru/news/945848/?utm_campaign=945848&utm_source=habrahabr&utm_medium=rss)
 - [Представлен стандарт лицензирования контента для оплаты за сбор ботами данных для обучения ИИ](https://habr.com/ru/news/945978/?utm_campaign=945978&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт Positive Technologies помог повысить безопасность почтового сервера CommuniGate Pro](https://habr.com/ru/companies/pt/news/945990/?utm_campaign=945990&utm_source=habrahabr&utm_medium=rss)
-- [Grammarly теперь работает с грамматикой испанского и французского языков](https://habr.com/ru/news/945962/?utm_campaign=945962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
