@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [F6 и RuStore заблокировали более 600 доменов, распространявших Аndroid-троян DeliveryRAT](https://habr.com/ru/companies/F6/news/945902/?utm_campaign=945902&utm_source=habrahabr&utm_medium=rss)
+- [Оптимизация игр](https://habr.com/ru/companies/pvs-studio/news/945916/?utm_campaign=945916&utm_source=habrahabr&utm_medium=rss)
+- [Поддержка VBScript в Windows подходит к концу](https://habr.com/ru/news/945908/?utm_campaign=945908&utm_source=habrahabr&utm_medium=rss)
+- [PsiQuantum привлекла $1 млрд на квантовый компьютер с миллионом кубитов](https://habr.com/ru/companies/bothub/news/945904/?utm_campaign=945904&utm_source=habrahabr&utm_medium=rss)
 - [Sony запустила приложение для родительского контроля на PlayStation](https://habr.com/ru/news/945878/?utm_campaign=945878&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI и Oracle заключили сделку планетарного масштаба](https://habr.com/ru/companies/bothub/news/945874/?utm_campaign=945874&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI заключила сделку с Oracle на покупку вычислительных мощностей для развития ИИ на $300 млрд сроком на пять лет](https://habr.com/ru/news/945868/?utm_campaign=945868&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Term.Everything для запуска графических приложений в терминале](https://habr.com/ru/news/945688/?utm_campaign=945688&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пиринговый видеохостинг PeerTube 7.3](https://habr.com/ru/news/945658/?utm_campaign=945658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
