@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Grammarly теперь работает с грамматикой испанского и французского языков](https://habr.com/ru/news/945962/?utm_campaign=945962&utm_source=habrahabr&utm_medium=rss)
+- [ТЭК адаптировался к угрозам: ситуация с утечками данных стабилизируется](https://habr.com/ru/companies/infowatch/news/945960/?utm_campaign=945960&utm_source=habrahabr&utm_medium=rss)
 - [Apple улучшила систему защиты памяти в iPhone 17 для борьбы со шпионским ПО](https://habr.com/ru/news/945952/?utm_campaign=945952&utm_source=habrahabr&utm_medium=rss)
 - [Карта расширения GIGABYTE AI TOP CXL R5X4 добавляет до 512 ГБ памяти для систем на Xeon и Threadripper](https://habr.com/ru/news/945940/?utm_campaign=945940&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики под Windows теперь могут публиковать приложения в Microsoft Store без комиссии](https://habr.com/ru/news/945932/?utm_campaign=945932&utm_source=habrahabr&utm_medium=rss)
-- [F6 и RuStore заблокировали более 600 доменов, распространявших Аndroid-троян DeliveryRAT](https://habr.com/ru/companies/F6/news/945902/?utm_campaign=945902&utm_source=habrahabr&utm_medium=rss)
-- [Оптимизация игр](https://habr.com/ru/companies/pvs-studio/news/945916/?utm_campaign=945916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
