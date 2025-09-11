@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект Term.Everything для запуска графических приложений в терминале](https://habr.com/ru/news/945688/?utm_campaign=945688&utm_source=habrahabr&utm_medium=rss)
+- [Вышел пиринговый видеохостинг PeerTube 7.3](https://habr.com/ru/news/945658/?utm_campaign=945658&utm_source=habrahabr&utm_medium=rss)
+- [Релиз DaVinci Resolve 20.2](https://habr.com/ru/news/945756/?utm_campaign=945756&utm_source=habrahabr&utm_medium=rss)
+- [Представлен дистрибутив для создания систем обнаружения вторжений Clear NDR 1.0](https://habr.com/ru/news/945680/?utm_campaign=945680&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появился режим разработчика](https://habr.com/ru/news/945840/?utm_campaign=945840&utm_source=habrahabr&utm_medium=rss)
-- [Sakana AI ищет сотрудников в финансовый сектор](https://habr.com/ru/companies/bothub/news/945772/?utm_campaign=945772&utm_source=habrahabr&utm_medium=rss)
-- [Лучше Google Nano Banana. Представлен ИИ для создания картинок Seedream 4](https://habr.com/ru/news/945808/?utm_campaign=945808&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» назвала победителей Kaspersky{CTF}](https://habr.com/ru/news/945806/?utm_campaign=945806&utm_source=habrahabr&utm_medium=rss)
-- [Старт IT Elements 2025 — в Москве открылась главная ИТ-конференция осени](https://habr.com/ru/companies/jetinfosystems/news/945794/?utm_campaign=945794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
