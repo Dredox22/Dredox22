@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователям мобильных приложений «ВКонтакте» и VK Видео стала доступна авторизация через Мax вместо СМС](https://habr.com/ru/news/946066/?utm_campaign=946066&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba привлекает $3.2 млрд для ускорения AI-бизнеса](https://habr.com/ru/companies/bothub/news/946060/?utm_campaign=946060&utm_source=habrahabr&utm_medium=rss)
+- [Локальный ИИ на смартфоне: Google выпустила AI Edge Gallery в Play Store](https://habr.com/ru/news/946044/?utm_campaign=946044&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» открыла доступ к бесплатному курсу по кибербезопасности Enter_IT для школьников и студентов](https://habr.com/ru/news/946024/?utm_campaign=946024&utm_source=habrahabr&utm_medium=rss)
 - [Все чат-боты провалили хотя бы один тест на распознавание суицидальных запросов](https://habr.com/ru/news/946006/?utm_campaign=946006&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты создали премию Дарвина, посвящённую неудачным попыткам внедрения ИИ](https://habr.com/ru/news/945848/?utm_campaign=945848&utm_source=habrahabr&utm_medium=rss)
-- [Представлен стандарт лицензирования контента для оплаты за сбор ботами данных для обучения ИИ](https://habr.com/ru/news/945978/?utm_campaign=945978&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт Positive Technologies помог повысить безопасность почтового сервера CommuniGate Pro](https://habr.com/ru/companies/pt/news/945990/?utm_campaign=945990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
