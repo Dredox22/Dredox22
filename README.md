@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес-день GIS DAYS 2025: ключевые игроки ИБ-рынка обсудят защиту ИИ, BAS-тестирование и новые вызовы](https://habr.com/ru/companies/gaz-is/news/946106/?utm_campaign=946106&utm_source=habrahabr&utm_medium=rss)
+- [Nebius планирует привлечь $3 млрд после крупнейшей сделки с Microsoft](https://habr.com/ru/companies/bothub/news/946072/?utm_campaign=946072&utm_source=habrahabr&utm_medium=rss)
+- [Как создать ИИ-агента без кода](https://habr.com/ru/companies/mws/news/946094/?utm_campaign=946094&utm_source=habrahabr&utm_medium=rss)
 - [Пользователям мобильных приложений «ВКонтакте» и VK Видео стала доступна авторизация через Мax вместо СМС](https://habr.com/ru/news/946066/?utm_campaign=946066&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba привлекает $3.2 млрд для ускорения AI-бизнеса](https://habr.com/ru/companies/bothub/news/946060/?utm_campaign=946060&utm_source=habrahabr&utm_medium=rss)
-- [Локальный ИИ на смартфоне: Google выпустила AI Edge Gallery в Play Store](https://habr.com/ru/news/946044/?utm_campaign=946044&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» открыла доступ к бесплатному курсу по кибербезопасности Enter_IT для школьников и студентов](https://habr.com/ru/news/946024/?utm_campaign=946024&utm_source=habrahabr&utm_medium=rss)
-- [Все чат-боты провалили хотя бы один тест на распознавание суицидальных запросов](https://habr.com/ru/news/946006/?utm_campaign=946006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
