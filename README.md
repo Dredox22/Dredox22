@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT, виртуализация и сети, а также киберпоединки — как прошел второй день IT Elements](https://habr.com/ru/companies/jetinfosystems/news/946158/?utm_campaign=946158&utm_source=habrahabr&utm_medium=rss)
+- [YouTube запускает нейродубляж для авторов](https://habr.com/ru/companies/bothub/news/946144/?utm_campaign=946144&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft показала нейросеть, которая может похоронить классический 3D-рендеринг](https://habr.com/ru/companies/bothub/news/946128/?utm_campaign=946128&utm_source=habrahabr&utm_medium=rss)
 - [Бизнес-день GIS DAYS 2025: ключевые игроки ИБ-рынка обсудят защиту ИИ, BAS-тестирование и новые вызовы](https://habr.com/ru/companies/gaz-is/news/946106/?utm_campaign=946106&utm_source=habrahabr&utm_medium=rss)
 - [Nebius планирует привлечь $3 млрд после крупнейшей сделки с Microsoft](https://habr.com/ru/companies/bothub/news/946072/?utm_campaign=946072&utm_source=habrahabr&utm_medium=rss)
-- [Как создать ИИ-агента без кода](https://habr.com/ru/companies/mws/news/946094/?utm_campaign=946094&utm_source=habrahabr&utm_medium=rss)
-- [Пользователям мобильных приложений «ВКонтакте» и VK Видео стала доступна авторизация через Мax вместо СМС](https://habr.com/ru/news/946066/?utm_campaign=946066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
