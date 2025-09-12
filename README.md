@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Золотой век робототехники: стартапы масштабируются быстрее, чем когда-либо](https://habr.com/ru/companies/bothub/news/946482/?utm_campaign=946482&utm_source=habrahabr&utm_medium=rss)
+- [Yandex Open Source запустил страницу Good First Issue, где объединены issue всех открытых проектов компании](https://habr.com/ru/news/946474/?utm_campaign=946474&utm_source=habrahabr&utm_medium=rss)
+- [Apple начала принимать заявки на участие в программе Security Research Device Program 2026 года](https://habr.com/ru/news/946466/?utm_campaign=946466&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и OpenAI перезапустили партнёрство](https://habr.com/ru/companies/bothub/news/946472/?utm_campaign=946472&utm_source=habrahabr&utm_medium=rss)
 - [Google нашла способ сделать большие языковые модели быстрее и дешевле без потери качества](https://habr.com/ru/companies/bothub/news/946464/?utm_campaign=946464&utm_source=habrahabr&utm_medium=rss)
-- [УрФУ и ИТ-компания УЦСБ приглашают студентов со всей страны на Киберучения](https://habr.com/ru/companies/ussc/news/946432/?utm_campaign=946432&utm_source=habrahabr&utm_medium=rss)
-- [Oracle сократила 70 сотрудников команды проекта MySQL](https://habr.com/ru/news/946428/?utm_campaign=946428&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует заключить соглашение с Anthropic об использовании её языковых моделей в Microsoft 365](https://habr.com/ru/news/946416/?utm_campaign=946416&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекращает поддержку устаревших веб-компонентов в Windows](https://habr.com/ru/news/946382/?utm_campaign=946382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
