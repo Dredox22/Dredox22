@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекращает поддержку устаревших веб-компонентов в Windows](https://habr.com/ru/news/946382/?utm_campaign=946382&utm_source=habrahabr&utm_medium=rss)
+- [Испытываем на прочность. Стресс-тест обновленного Managed Kubernetes от VK Cloud](https://habr.com/ru/companies/vktech/news/946374/?utm_campaign=946374&utm_source=habrahabr&utm_medium=rss)
 - [Смартфоны Pixel 10 получили встроенную систему цифровой подписи фотографий](https://habr.com/ru/news/946362/?utm_campaign=946362&utm_source=habrahabr&utm_medium=rss)
 - [Обновленный курс Natural Language Processing](https://habr.com/ru/companies/ods/news/946226/?utm_campaign=946226&utm_source=habrahabr&utm_medium=rss)
-- [Испытываем на прочность. Стресс-тест обновленного Managed Kubernetes от VK Cloud](https://habr.com/ru/companies/vktech/news/946368/?utm_campaign=946368&utm_source=habrahabr&utm_medium=rss)
 - [Представлен 4-битный одноплатный компьютер на базе микропроцессора Intel 4004](https://habr.com/ru/news/946358/?utm_campaign=946358&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила Final Cut Camera 2.0 с поддержкой ProRes RAW и Center Stage Camera](https://habr.com/ru/news/946350/?utm_campaign=946350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
