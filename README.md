@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Албании назначили ИИ на пост министра: нейросеть займется госзакупками](https://habr.com/ru/news/946244/?utm_campaign=946244&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи РФ начали информировать клиентов, какие сервисы работают в условиях ограничения мобильного интернета](https://habr.com/ru/news/946230/?utm_campaign=946230&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Electron 38.0 — платформы создания приложений на базе движка Chromium](https://habr.com/ru/news/945982/?utm_campaign=945982&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.15](https://habr.com/ru/news/945936/?utm_campaign=945936&utm_source=habrahabr&utm_medium=rss)
 - [Представлена библиотека TLS Certificate Verification Bypass Library для отключения проверки TLS-сертификатов](https://habr.com/ru/news/945900/?utm_campaign=945900&utm_source=habrahabr&utm_medium=rss)
-- [Релиз композитного оконного менеджера Hyprland 0.51.0](https://habr.com/ru/news/945992/?utm_campaign=945992&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
