@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Replit привлек $250 млн и выпустил AI-агента, который создает других AI-агентов](https://habr.com/ru/companies/bothub/news/946508/?utm_campaign=946508&utm_source=habrahabr&utm_medium=rss)
+- [HuMo: новый релиз от ByteDance](https://habr.com/ru/companies/bothub/news/946476/?utm_campaign=946476&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba представила Qwen3-Next-80B: мощнее, быстрее и дешевле](https://habr.com/ru/companies/bothub/news/946470/?utm_campaign=946470&utm_source=habrahabr&utm_medium=rss)
+- [Албания назначила первого в мире AI-министра, чтобы победить коррупцию](https://habr.com/ru/companies/bothub/news/946480/?utm_campaign=946480&utm_source=habrahabr&utm_medium=rss)
 - [Золотой век робототехники: стартапы масштабируются быстрее, чем когда-либо](https://habr.com/ru/companies/bothub/news/946482/?utm_campaign=946482&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Open Source запустил страницу Good First Issue, где объединены issue всех открытых проектов компании](https://habr.com/ru/news/946474/?utm_campaign=946474&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала принимать заявки на участие в программе Security Research Device Program 2026 года](https://habr.com/ru/news/946466/?utm_campaign=946466&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и OpenAI перезапустили партнёрство](https://habr.com/ru/companies/bothub/news/946472/?utm_campaign=946472&utm_source=habrahabr&utm_medium=rss)
-- [Google нашла способ сделать большие языковые модели быстрее и дешевле без потери качества](https://habr.com/ru/companies/bothub/news/946464/?utm_campaign=946464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
