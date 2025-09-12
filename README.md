@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена библиотека TLS Certificate Verification Bypass Library для отключения проверки TLS-сертификатов](https://habr.com/ru/news/945900/?utm_campaign=945900&utm_source=habrahabr&utm_medium=rss)
+- [Релиз композитного оконного менеджера Hyprland 0.51.0](https://habr.com/ru/news/945992/?utm_campaign=945992&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Qwen3-Next: уровень Gemini 2.5 Flash, но дешевле](https://habr.com/ru/news/946198/?utm_campaign=946198&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT научили работать с внешними MCP-серверами](https://habr.com/ru/companies/bothub/news/946190/?utm_campaign=946190&utm_source=habrahabr&utm_medium=rss)
 - [Игровой фестиваль «Рэд Экспо» не будет проводиться в 2025 году](https://habr.com/ru/news/946178/?utm_campaign=946178&utm_source=habrahabr&utm_medium=rss)
-- [Названы победители IT-премии IT Elements Awards](https://habr.com/ru/news/946166/?utm_campaign=946166&utm_source=habrahabr&utm_medium=rss)
-- [GPT, виртуализация и сети, а также киберпоединки — как прошел второй день IT Elements](https://habr.com/ru/companies/jetinfosystems/news/946158/?utm_campaign=946158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
