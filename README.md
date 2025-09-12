@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft улучшила диалоговые окна копирования и вставки в Windows 11](https://habr.com/ru/news/946336/?utm_campaign=946336&utm_source=habrahabr&utm_medium=rss)
 - [Презентация Apple, обвинения в адрес Midjourney и патенты на паймона от Nintendo: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/946268/?utm_campaign=946268&utm_source=habrahabr&utm_medium=rss)
 - [В Албании назначили ИИ на пост министра: нейросеть займется госзакупками](https://habr.com/ru/news/946244/?utm_campaign=946244&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи РФ начали информировать клиентов, какие сервисы работают в условиях ограничения мобильного интернета](https://habr.com/ru/news/946230/?utm_campaign=946230&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Electron 38.0 — платформы создания приложений на базе движка Chromium](https://habr.com/ru/news/945982/?utm_campaign=945982&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.15](https://habr.com/ru/news/945936/?utm_campaign=945936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
