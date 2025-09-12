@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google нашла способ сделать большие языковые модели быстрее и дешевле без потери качества](https://habr.com/ru/companies/bothub/news/946464/?utm_campaign=946464&utm_source=habrahabr&utm_medium=rss)
 - [УрФУ и ИТ-компания УЦСБ приглашают студентов со всей страны на Киберучения](https://habr.com/ru/companies/ussc/news/946432/?utm_campaign=946432&utm_source=habrahabr&utm_medium=rss)
 - [Oracle сократила 70 сотрудников команды проекта MySQL](https://habr.com/ru/news/946428/?utm_campaign=946428&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft планирует заключить соглашение с Anthropic об использовании её языковых моделей в Microsoft 365](https://habr.com/ru/news/946416/?utm_campaign=946416&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку устаревших веб-компонентов в Windows](https://habr.com/ru/news/946382/?utm_campaign=946382&utm_source=habrahabr&utm_medium=rss)
-- [Испытываем на прочность. Стресс-тест обновленного Managed Kubernetes от VK Cloud](https://habr.com/ru/companies/vktech/news/946374/?utm_campaign=946374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
