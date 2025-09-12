@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [УрФУ и ИТ-компания УЦСБ приглашают студентов со всей страны на Киберучения](https://habr.com/ru/companies/ussc/news/946432/?utm_campaign=946432&utm_source=habrahabr&utm_medium=rss)
+- [Oracle сократила 70 сотрудников команды проекта MySQL](https://habr.com/ru/news/946428/?utm_campaign=946428&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft планирует заключить соглашение с Anthropic об использовании её языковых моделей в Microsoft 365](https://habr.com/ru/news/946416/?utm_campaign=946416&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку устаревших веб-компонентов в Windows](https://habr.com/ru/news/946382/?utm_campaign=946382&utm_source=habrahabr&utm_medium=rss)
 - [Испытываем на прочность. Стресс-тест обновленного Managed Kubernetes от VK Cloud](https://habr.com/ru/companies/vktech/news/946374/?utm_campaign=946374&utm_source=habrahabr&utm_medium=rss)
-- [Смартфоны Pixel 10 получили встроенную систему цифровой подписи фотографий](https://habr.com/ru/news/946362/?utm_campaign=946362&utm_source=habrahabr&utm_medium=rss)
-- [Обновленный курс Natural Language Processing](https://habr.com/ru/companies/ods/news/946226/?utm_campaign=946226&utm_source=habrahabr&utm_medium=rss)
-- [Представлен 4-битный одноплатный компьютер на базе микропроцессора Intel 4004](https://habr.com/ru/news/946358/?utm_campaign=946358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
