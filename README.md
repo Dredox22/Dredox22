@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фрилансеры и компании начали предлагать услуги по «ремонту» вайб-кода](https://habr.com/ru/news/946552/?utm_campaign=946552&utm_source=habrahabr&utm_medium=rss)
 - [Релиз AnyDesk 9.6.1 для Windows](https://habr.com/ru/news/946504/?utm_campaign=946504&utm_source=habrahabr&utm_medium=rss)
 - [Представлен мультимедийный сервер PipeWire 1.4.8 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/946494/?utm_campaign=946494&utm_source=habrahabr&utm_medium=rss)
 - [Вышла система виртуализации VirtualBox 7.2.2](https://habr.com/ru/news/946314/?utm_campaign=946314&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 140](https://habr.com/ru/news/946334/?utm_campaign=946334&utm_source=habrahabr&utm_medium=rss)
-- [Replit привлек $250 млн и выпустил AI-агента, который создает других AI-агентов](https://habr.com/ru/companies/bothub/news/946508/?utm_campaign=946508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
