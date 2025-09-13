@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сети появился китайский ИИ-инструмент для пентестинга](https://habr.com/ru/news/946562/?utm_campaign=946562&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft судится из-за законности перепродажи лицензий Office и Windows](https://habr.com/ru/news/946554/?utm_campaign=946554&utm_source=habrahabr&utm_medium=rss)
 - [Фрилансеры и компании начали предлагать услуги по «ремонту» вайб-кода](https://habr.com/ru/news/946552/?utm_campaign=946552&utm_source=habrahabr&utm_medium=rss)
 - [Релиз AnyDesk 9.6.1 для Windows](https://habr.com/ru/news/946504/?utm_campaign=946504&utm_source=habrahabr&utm_medium=rss)
 - [Представлен мультимедийный сервер PipeWire 1.4.8 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/946494/?utm_campaign=946494&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система виртуализации VirtualBox 7.2.2](https://habr.com/ru/news/946314/?utm_campaign=946314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
