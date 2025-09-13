@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен мультимедийный сервер PipeWire 1.4.8 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/946494/?utm_campaign=946494&utm_source=habrahabr&utm_medium=rss)
+- [Вышла система виртуализации VirtualBox 7.2.2](https://habr.com/ru/news/946314/?utm_campaign=946314&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Microsoft Edge 140](https://habr.com/ru/news/946334/?utm_campaign=946334&utm_source=habrahabr&utm_medium=rss)
 - [Replit привлек $250 млн и выпустил AI-агента, который создает других AI-агентов](https://habr.com/ru/companies/bothub/news/946508/?utm_campaign=946508&utm_source=habrahabr&utm_medium=rss)
 - [HuMo: новый релиз от ByteDance](https://habr.com/ru/companies/bothub/news/946476/?utm_campaign=946476&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba представила Qwen3-Next-80B: мощнее, быстрее и дешевле](https://habr.com/ru/companies/bothub/news/946470/?utm_campaign=946470&utm_source=habrahabr&utm_medium=rss)
-- [Албания назначила первого в мире AI-министра, чтобы победить коррупцию](https://habr.com/ru/companies/bothub/news/946480/?utm_campaign=946480&utm_source=habrahabr&utm_medium=rss)
-- [Золотой век робототехники: стартапы масштабируются быстрее, чем когда-либо](https://habr.com/ru/companies/bothub/news/946482/?utm_campaign=946482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
