@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обнаружен вирус-вымогатель HybridPetya с обходом функции безопасной загрузки UEFI](https://habr.com/ru/news/946730/?utm_campaign=946730&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Microsoft Store упрощает запуск загруженных приложений](https://habr.com/ru/news/946724/?utm_campaign=946724&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг языков программирования TIOBE за сентябрь 2025: Python продолжает набирать популярность, и Perl тоже](https://habr.com/ru/news/946708/?utm_campaign=946708&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Wine 10.15](https://habr.com/ru/news/946578/?utm_campaign=946578&utm_source=habrahabr&utm_medium=rss)
 - [В Rust Foundation предупредили разработчиков о выявлении фишинг-атаки против пользователей репозитория crates.io](https://habr.com/ru/news/946638/?utm_campaign=946638&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструмента для сетевого мониторинга Sniffnet 1.4.1](https://habr.com/ru/news/946650/?utm_campaign=946650&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Glow 25.1 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/946654/?utm_campaign=946654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
