@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Rust Foundation предупредили разработчиков о выявлении фишинг-атаки против пользователей репозитория crates.io](https://habr.com/ru/news/946638/?utm_campaign=946638&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструмента для сетевого мониторинга Sniffnet 1.4.1](https://habr.com/ru/news/946650/?utm_campaign=946650&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Glow 25.1 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/946654/?utm_campaign=946654&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Samba 4.23.0](https://habr.com/ru/news/946646/?utm_campaign=946646&utm_source=habrahabr&utm_medium=rss)
 - [Глава Google DeepMind: глупо сравнивать современные ИИ с докторами наук](https://habr.com/ru/news/946668/?utm_campaign=946668&utm_source=habrahabr&utm_medium=rss)
-- [НАСА запретило гражданам Китая доступ к своим объектам, сетям и звонкам в Zoom](https://habr.com/ru/news/946660/?utm_campaign=946660&utm_source=habrahabr&utm_medium=rss)
-- [В сети появился китайский ИИ-инструмент для пентестинга](https://habr.com/ru/news/946562/?utm_campaign=946562&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft судится из-за законности перепродажи лицензий Office и Windows](https://habr.com/ru/news/946554/?utm_campaign=946554&utm_source=habrahabr&utm_medium=rss)
-- [Фрилансеры и компании начали предлагать услуги по «ремонту» вайб-кода](https://habr.com/ru/news/946552/?utm_campaign=946552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
