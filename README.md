@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен ИИ, который может существенно ускорить разработку лекарств](https://habr.com/ru/news/946766/?utm_campaign=946766&utm_source=habrahabr&utm_medium=rss)
 - [xAI уволит 500 сотрудников из команды по аннотации данных](https://habr.com/ru/news/946732/?utm_campaign=946732&utm_source=habrahabr&utm_medium=rss)
 - [Обнаружен вирус-вымогатель HybridPetya с обходом функции безопасной загрузки UEFI](https://habr.com/ru/news/946730/?utm_campaign=946730&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Microsoft Store упрощает запуск загруженных приложений](https://habr.com/ru/news/946724/?utm_campaign=946724&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг языков программирования TIOBE за сентябрь 2025: Python продолжает набирать популярность, и Perl тоже](https://habr.com/ru/news/946708/?utm_campaign=946708&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Wine 10.15](https://habr.com/ru/news/946578/?utm_campaign=946578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
