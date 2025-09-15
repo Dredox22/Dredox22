@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: вайб-кодинг превратил сениоров в «нянек ИИ»](https://habr.com/ru/news/946982/?utm_campaign=946982&utm_source=habrahabr&utm_medium=rss)
+- [19 сентября — СУБД-митап Tantor JAM](https://habr.com/ru/companies/tantor/news/946972/?utm_campaign=946972&utm_source=habrahabr&utm_medium=rss)
+- [Google показала, как искусственная жизнь учится самособираться и восстанавливаться](https://habr.com/ru/companies/bothub/news/946968/?utm_campaign=946968&utm_source=habrahabr&utm_medium=rss)
+- [В OpenAI раскрыли статистику использования ChatGPT. Личные запросы обошли рабочие](https://habr.com/ru/news/946964/?utm_campaign=946964&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft перенесёт больше элементов панели управления в «Параметры» Windows 11](https://habr.com/ru/news/946952/?utm_campaign=946952&utm_source=habrahabr&utm_medium=rss)
-- [В сети обнаружили архив с 500 ГБ внутренних документов системы «Великого китайского файрвола»](https://habr.com/ru/news/946946/?utm_campaign=946946&utm_source=habrahabr&utm_medium=rss)
-- [Visiology обеспечивает бесшовную аналитику на данных из 1С](https://habr.com/ru/companies/visiology/news/946824/?utm_campaign=946824&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» запустил бесконтактную оплату в сервисе T-Pay для пользователей iPhone по Bluetooth вместо NFC](https://habr.com/ru/news/946914/?utm_campaign=946914&utm_source=habrahabr&utm_medium=rss)
-- [Юрлицо ООО «Н-Джинн» команды российского игрового движка Nau Engine находится в стадии ликвидации](https://habr.com/ru/news/946910/?utm_campaign=946910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
