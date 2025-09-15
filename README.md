@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft перенесёт больше элементов панели управления в «Параметры» Windows 11](https://habr.com/ru/news/946952/?utm_campaign=946952&utm_source=habrahabr&utm_medium=rss)
+- [В сети обнаружили архив с 500 ГБ внутренних документов системы «Великого китайского файрвола»](https://habr.com/ru/news/946946/?utm_campaign=946946&utm_source=habrahabr&utm_medium=rss)
 - [Visiology обеспечивает бесшовную аналитику на данных из 1С](https://habr.com/ru/companies/visiology/news/946824/?utm_campaign=946824&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑Банк» запустил бесконтактную оплату в сервисе T-Pay для пользователей iPhone по Bluetooth вместо NFC](https://habr.com/ru/news/946914/?utm_campaign=946914&utm_source=habrahabr&utm_medium=rss)
 - [Юрлицо ООО «Н-Джинн» команды российского игрового движка Nau Engine находится в стадии ликвидации](https://habr.com/ru/news/946910/?utm_campaign=946910&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» готовит к запуску сервис для поиска потерявшихся питомцев PetKa](https://habr.com/ru/news/946908/?utm_campaign=946908&utm_source=habrahabr&utm_medium=rss)
-- [Релиз утилиты curl 8.16](https://habr.com/ru/news/946828/?utm_campaign=946828&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
