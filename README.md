@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [System Analyst meetup: Аналитика и архитектура — язык договорённостей](https://habr.com/ru/companies/usetech/news/947074/?utm_campaign=947074&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск вложил миллиард в Tesla](https://habr.com/ru/companies/bothub/news/947032/?utm_campaign=947032&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи кибербеза взломали управляющую компанию сети ресторанов Burger King](https://habr.com/ru/news/947038/?utm_campaign=947038&utm_source=habrahabr&utm_medium=rss)
 - [От Библии к нейросетям: духовные поиски уходят в чат-боты](https://habr.com/ru/companies/bothub/news/947026/?utm_campaign=947026&utm_source=habrahabr&utm_medium=rss)
 - [MIG и «Резонит» изготовили планшет с российской печатной платой шестого класса точности](https://habr.com/ru/news/947024/?utm_campaign=947024&utm_source=habrahabr&utm_medium=rss)
-- [Snapchat запускает групповые «Snap-марафоны» и функцию «Бесконечное хранение» для чатов](https://habr.com/ru/news/946998/?utm_campaign=946998&utm_source=habrahabr&utm_medium=rss)
-- [Бесконечные циклы — зло, ИИ генерит мусор, LSP API для людей | Spring АйО Подкаст №34](https://habr.com/ru/companies/spring_aio/news/947022/?utm_campaign=947022&utm_source=habrahabr&utm_medium=rss)
-- [AI-бум превращает миллиарды в «кофейные бобы» для рынка](https://habr.com/ru/companies/bothub/news/946976/?utm_campaign=946976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
