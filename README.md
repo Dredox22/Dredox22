@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследование: вайб-кодинг превратил сениоров в «нянек ИИ»](https://habr.com/ru/news/946982/?utm_campaign=946982&utm_source=habrahabr&utm_medium=rss)
-- [19 сентября — СУБД-митап Tantor JAM](https://habr.com/ru/companies/tantor/news/946972/?utm_campaign=946972&utm_source=habrahabr&utm_medium=rss)
-- [Google показала, как искусственная жизнь учится самособираться и восстанавливаться](https://habr.com/ru/companies/bothub/news/946968/?utm_campaign=946968&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI раскрыли статистику использования ChatGPT. Личные запросы обошли рабочие](https://habr.com/ru/news/946964/?utm_campaign=946964&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft перенесёт больше элементов панели управления в «Параметры» Windows 11](https://habr.com/ru/news/946952/?utm_campaign=946952&utm_source=habrahabr&utm_medium=rss)
+- [От Библии к нейросетям: духовные поиски уходят в чат-боты](https://habr.com/ru/companies/bothub/news/947026/?utm_campaign=947026&utm_source=habrahabr&utm_medium=rss)
+- [MIG и «Резонит» изготовили планшет с российской печатной платой шестого класса точности](https://habr.com/ru/news/947024/?utm_campaign=947024&utm_source=habrahabr&utm_medium=rss)
+- [Snapchat запускает групповые «Snap-марафоны» и функцию «Бесконечное хранение» для чатов](https://habr.com/ru/news/946998/?utm_campaign=946998&utm_source=habrahabr&utm_medium=rss)
+- [Бесконечные циклы — зло, ИИ генерит мусор, LSP API для людей | Spring АйО Подкаст №34](https://habr.com/ru/companies/spring_aio/news/947022/?utm_campaign=947022&utm_source=habrahabr&utm_medium=rss)
+- [AI-бум превращает миллиарды в «кофейные бобы» для рынка](https://habr.com/ru/companies/bothub/news/946976/?utm_campaign=946976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
