@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Юрлицо ООО «Н-Джинн» команды российского игрового движка Nau Engine находится в стадии ликвидации](https://habr.com/ru/news/946910/?utm_campaign=946910&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» готовит к запуску сервис для поиска потерявшихся питомцев PetKa](https://habr.com/ru/news/946908/?utm_campaign=946908&utm_source=habrahabr&utm_medium=rss)
 - [Релиз утилиты curl 8.16](https://habr.com/ru/news/946828/?utm_campaign=946828&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого инструмента для поддержки формирования текста HarfBuzz 11.5.0](https://habr.com/ru/news/946836/?utm_campaign=946836&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект LeafView 3.8.1 — минималистичный просмотрщик изображений на Leaflet.js и Electron](https://habr.com/ru/news/946848/?utm_campaign=946848&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Sigil 2.6.2 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/946826/?utm_campaign=946826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
