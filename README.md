@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Владелец Rolling Stone обрушился на Google: иск за кражу контента для AI-резюме](https://habr.com/ru/companies/bothub/news/947012/?utm_campaign=947012&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель программирования превращает сеньоров в нянек ИИ](https://habr.com/ru/companies/bothub/news/947002/?utm_campaign=947002&utm_source=habrahabr&utm_medium=rss)
 - [Что нового в Selectel появилось в августе: аддоны в Managed Kubernetes и новые конфигурации](https://habr.com/ru/companies/selectel/news/947088/?utm_campaign=947088&utm_source=habrahabr&utm_medium=rss)
 - [System Analyst meetup: Аналитика и архитектура — язык договорённостей](https://habr.com/ru/companies/usetech/news/947074/?utm_campaign=947074&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск вложил миллиард в Tesla](https://habr.com/ru/companies/bothub/news/947032/?utm_campaign=947032&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи кибербеза взломали управляющую компанию сети ресторанов Burger King](https://habr.com/ru/news/947038/?utm_campaign=947038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
