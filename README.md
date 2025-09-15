@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз утилиты curl 8.16](https://habr.com/ru/news/946828/?utm_campaign=946828&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого инструмента для поддержки формирования текста HarfBuzz 11.5.0](https://habr.com/ru/news/946836/?utm_campaign=946836&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект LeafView 3.8.1 — минималистичный просмотрщик изображений на Leaflet.js и Electron](https://habr.com/ru/news/946848/?utm_campaign=946848&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Sigil 2.6.2 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/946826/?utm_campaign=946826&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ Grok 4 Fast вышел в раннем доступе](https://habr.com/ru/news/946842/?utm_campaign=946842&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из СГТУ имени Гагарина Ю.А создали метод оптимизации покрытия керамических изделий](https://habr.com/ru/news/946782/?utm_campaign=946782&utm_source=habrahabr&utm_medium=rss)
-- [Представлен ИИ, который может существенно ускорить разработку лекарств](https://habr.com/ru/news/946766/?utm_campaign=946766&utm_source=habrahabr&utm_medium=rss)
-- [xAI уволит 500 сотрудников из команды по аннотации данных](https://habr.com/ru/news/946732/?utm_campaign=946732&utm_source=habrahabr&utm_medium=rss)
-- [Обнаружен вирус-вымогатель HybridPetya с обходом функции безопасной загрузки UEFI](https://habr.com/ru/news/946730/?utm_campaign=946730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
