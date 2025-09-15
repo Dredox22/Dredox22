@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 показал рекорд в многошаговых задачах. Это поможет при создании агентов](https://habr.com/ru/news/947174/?utm_campaign=947174&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/947172/?utm_campaign=947172&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft изменила принцип работы кнопки геймпада Xbox в Windows 11](https://habr.com/ru/news/947148/?utm_campaign=947148&utm_source=habrahabr&utm_medium=rss)
 - [В мессенджере Мах в пилотном режиме появился Цифровой ID](https://habr.com/ru/news/947144/?utm_campaign=947144&utm_source=habrahabr&utm_medium=rss)
 - [Владелец Rolling Stone обрушился на Google: иск за кражу контента для AI-резюме](https://habr.com/ru/companies/bothub/news/947012/?utm_campaign=947012&utm_source=habrahabr&utm_medium=rss)
-- [Новая модель программирования превращает сеньоров в нянек ИИ](https://habr.com/ru/companies/bothub/news/947002/?utm_campaign=947002&utm_source=habrahabr&utm_medium=rss)
-- [Что нового в Selectel появилось в августе: аддоны в Managed Kubernetes и новые конфигурации](https://habr.com/ru/companies/selectel/news/947088/?utm_campaign=947088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
