@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На панели задач Windows 11 появится кнопка проверки скорости интернета](https://habr.com/ru/news/946986/?utm_campaign=946986&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл регистрацию на Yandex Cup 2025 — международный чемпионат по программированию с финалом в Стамбуле](https://habr.com/ru/news/947260/?utm_campaign=947260&utm_source=habrahabr&utm_medium=rss)
-- [РКН: вид деятельности в области связи ООО «Коммуникационная платформа» по развитию и поддержки Max не лицензируется](https://habr.com/ru/news/947268/?utm_campaign=947268&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 143.0](https://habr.com/ru/news/947232/?utm_campaign=947232&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PortableGL 0.99 — реализация OpenGL 3 на языке C и C++](https://habr.com/ru/news/947164/?utm_campaign=947164&utm_source=habrahabr&utm_medium=rss)
+- [ОАО «РЖД» обновило систему «Рабочее место руководителя» на Luxms BI с версии 4 на 10](https://habr.com/ru/companies/luxms_bi/news/947316/?utm_campaign=947316&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch Traffic Monitor совместим с ВКС-системой IVA MCU](https://habr.com/ru/companies/infowatch/news/947302/?utm_campaign=947302&utm_source=habrahabr&utm_medium=rss)
+- [В приложении «Алиса» от «Яндекса» теперь можно оживлять фотографии](https://habr.com/ru/news/947300/?utm_campaign=947300&utm_source=habrahabr&utm_medium=rss)
+- [Акселератор полезных видеоигр: открыт набор на программу поддержки образовательных игр](https://habr.com/ru/news/947296/?utm_campaign=947296&utm_source=habrahabr&utm_medium=rss)
+- [AMD завершила работу над проектом драйвера AMDVLK для Linux](https://habr.com/ru/news/947292/?utm_campaign=947292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
