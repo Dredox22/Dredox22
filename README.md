@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD: архитектура ARM не даёт преимущества в энергоэффективности по сравнению с x86](https://habr.com/ru/news/947540/?utm_campaign=947540&utm_source=habrahabr&utm_medium=rss)
+- [Программирование умирает? Доля кодинга в ChatGPT рухнула в три раза](https://habr.com/ru/companies/bothub/news/947536/?utm_campaign=947536&utm_source=habrahabr&utm_medium=rss)
 - [Новые принципы ChatGPT: взрослым — свободу и приватность, подросткам — больше защиты](https://habr.com/ru/news/947518/?utm_campaign=947518&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Java 25](https://habr.com/ru/news/947504/?utm_campaign=947504&utm_source=habrahabr&utm_medium=rss)
 - [ИИ сделал Google самой дорогой компанией мира](https://habr.com/ru/companies/bothub/news/947498/?utm_campaign=947498&utm_source=habrahabr&utm_medium=rss)
-- [Конференция Moscow Startup Summit от Правительства Москвы и Сбера](https://habr.com/ru/companies/sberbank/news/947402/?utm_campaign=947402&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Xbox для ПК теперь стало универсальным средством запуска игр и даже других магазинов игр](https://habr.com/ru/news/947444/?utm_campaign=947444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
