@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google и Coinbase представили платежную систему для ИИ-агентов](https://habr.com/ru/news/947600/?utm_campaign=947600&utm_source=habrahabr&utm_medium=rss)
 - [В YouTube добавили бесплатное создание ИИ-видео с помощью Veo 3 Fast](https://habr.com/ru/news/947586/?utm_campaign=947586&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI введёт новые ограничения для пользователей ChatGPT младше 18 лет](https://habr.com/ru/news/947584/?utm_campaign=947584&utm_source=habrahabr&utm_medium=rss)
 - [Российские банки ищут замену решениям Nvidia и тестируют китайские ускорители](https://habr.com/ru/news/947552/?utm_campaign=947552&utm_source=habrahabr&utm_medium=rss)
 - [AMD: архитектура ARM не даёт преимущества в энергоэффективности по сравнению с x86](https://habr.com/ru/news/947540/?utm_campaign=947540&utm_source=habrahabr&utm_medium=rss)
-- [Программирование умирает? Доля кодинга в ChatGPT рухнула в три раза](https://habr.com/ru/companies/bothub/news/947536/?utm_campaign=947536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
