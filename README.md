@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» выпустила приложение по поиску потерявшихся питомцев PetKa с помощью трекера Kaspersky Tag](https://habr.com/ru/news/947278/?utm_campaign=947278&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила новый GPT-5-Codex](https://habr.com/ru/companies/bothub/news/947340/?utm_campaign=947340&utm_source=habrahabr&utm_medium=rss)
+- [Глава Google DeepMind: ИИ может запустить “золотой век науки”, но важен ответственный подход](https://habr.com/ru/news/947336/?utm_campaign=947336&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предупредила пользователей Office 2016/2019 о необходимости перехода на облако](https://habr.com/ru/news/947306/?utm_campaign=947306&utm_source=habrahabr&utm_medium=rss)
 - [ОАО «РЖД» обновило систему «Рабочее место руководителя» на Luxms BI с версии 4 на 10](https://habr.com/ru/companies/luxms_bi/news/947316/?utm_campaign=947316&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch Traffic Monitor совместим с ВКС-системой IVA MCU](https://habr.com/ru/companies/infowatch/news/947302/?utm_campaign=947302&utm_source=habrahabr&utm_medium=rss)
-- [В приложении «Алиса» от «Яндекса» теперь можно оживлять фотографии](https://habr.com/ru/news/947300/?utm_campaign=947300&utm_source=habrahabr&utm_medium=rss)
-- [Акселератор полезных видеоигр: открыт набор на программу поддержки образовательных игр](https://habr.com/ru/news/947296/?utm_campaign=947296&utm_source=habrahabr&utm_medium=rss)
-- [AMD завершила работу над проектом драйвера AMDVLK для Linux](https://habr.com/ru/news/947292/?utm_campaign=947292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
