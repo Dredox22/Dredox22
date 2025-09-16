@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел PortableGL 0.99 — реализация OpenGL 3 на языке C и C++](https://habr.com/ru/news/947164/?utm_campaign=947164&utm_source=habrahabr&utm_medium=rss)
+- [Релиз гипервизора Cloud Hypervisor 48.0, где принят запрет на внесение кода, сгенерированного ИИ](https://habr.com/ru/news/947180/?utm_campaign=947180&utm_source=habrahabr&utm_medium=rss)
+- [Вышел инструмент для работы с MKV-файлами MKVToolNix 95.0](https://habr.com/ru/news/946936/?utm_campaign=946936&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск мультимедийного фреймворка GStreamer 1.26.6](https://habr.com/ru/news/946930/?utm_campaign=946930&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Mem-Agent — нейросетевого агента с человекочитаемой памятью в формате Markdown](https://habr.com/ru/news/947208/?utm_campaign=947208&utm_source=habrahabr&utm_medium=rss)
-- [Представлена GPT-5-Codex — новая модель, которая автономно программирует до 7 часов](https://habr.com/ru/news/947188/?utm_campaign=947188&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила обновления своих операционных систем](https://habr.com/ru/news/947186/?utm_campaign=947186&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 показал рекорд в многошаговых задачах. Это поможет при создании агентов](https://habr.com/ru/news/947174/?utm_campaign=947174&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/947172/?utm_campaign=947172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
