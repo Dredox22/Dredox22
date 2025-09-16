@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ сделал Google самой дорогой компанией мира](https://habr.com/ru/companies/bothub/news/947498/?utm_campaign=947498&utm_source=habrahabr&utm_medium=rss)
 - [Конференция Moscow Startup Summit от Правительства Москвы и Сбера](https://habr.com/ru/companies/sberbank/news/947402/?utm_campaign=947402&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Xbox для ПК теперь стало универсальным средством запуска игр и даже других магазинов игр](https://habr.com/ru/news/947444/?utm_campaign=947444&utm_source=habrahabr&utm_medium=rss)
 - [Новый TimesFM 2.5 от Google обошёл все модели в рейтингах](https://habr.com/ru/companies/bothub/news/947348/?utm_campaign=947348&utm_source=habrahabr&utm_medium=rss)
 - [EvaProject и EvaWiki стали основой проектной и информационной среды СПб ИАЦ](https://habr.com/ru/companies/evateam/news/947430/?utm_campaign=947430&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft нарастит инвестиции в инфраструктуру для обучения собственных ИИ-моделей](https://habr.com/ru/news/947416/?utm_campaign=947416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
