@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На панели задач Windows 11 появится кнопка проверки скорости интернета](https://habr.com/ru/news/946986/?utm_campaign=946986&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл регистрацию на Yandex Cup 2025 — международный чемпионат по программированию с финалом в Стамбуле](https://habr.com/ru/news/947260/?utm_campaign=947260&utm_source=habrahabr&utm_medium=rss)
+- [РКН: вид деятельности в области связи ООО «Коммуникационная платформа» по развитию и поддержки Max не лицензируется](https://habr.com/ru/news/947268/?utm_campaign=947268&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 143.0](https://habr.com/ru/news/947232/?utm_campaign=947232&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PortableGL 0.99 — реализация OpenGL 3 на языке C и C++](https://habr.com/ru/news/947164/?utm_campaign=947164&utm_source=habrahabr&utm_medium=rss)
-- [Релиз гипервизора Cloud Hypervisor 48.0, где принят запрет на внесение кода, сгенерированного ИИ](https://habr.com/ru/news/947180/?utm_campaign=947180&utm_source=habrahabr&utm_medium=rss)
-- [Вышел инструмент для работы с MKV-файлами MKVToolNix 95.0](https://habr.com/ru/news/946936/?utm_campaign=946936&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск мультимедийного фреймворка GStreamer 1.26.6](https://habr.com/ru/news/946930/?utm_campaign=946930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
