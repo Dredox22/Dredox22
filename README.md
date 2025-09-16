@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Firefox 143.0](https://habr.com/ru/news/947232/?utm_campaign=947232&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PortableGL 0.99 — реализация OpenGL 3 на языке C и C++](https://habr.com/ru/news/947164/?utm_campaign=947164&utm_source=habrahabr&utm_medium=rss)
 - [Релиз гипервизора Cloud Hypervisor 48.0, где принят запрет на внесение кода, сгенерированного ИИ](https://habr.com/ru/news/947180/?utm_campaign=947180&utm_source=habrahabr&utm_medium=rss)
 - [Вышел инструмент для работы с MKV-файлами MKVToolNix 95.0](https://habr.com/ru/news/946936/?utm_campaign=946936&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск мультимедийного фреймворка GStreamer 1.26.6](https://habr.com/ru/news/946930/?utm_campaign=946930&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mem-Agent — нейросетевого агента с человекочитаемой памятью в формате Markdown](https://habr.com/ru/news/947208/?utm_campaign=947208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
