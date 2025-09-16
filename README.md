@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартовала разработка новой российской MMORPG «Синеус» о брате Рюрика и Трувора по «Повести временных лет»](https://habr.com/ru/news/947398/?utm_campaign=947398&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI против Anthropic: битва за доверие пользователей](https://habr.com/ru/companies/bothub/news/947360/?utm_campaign=947360&utm_source=habrahabr&utm_medium=rss)
 - [Конец классическому фотошопу? Новый AI-редактор Reve угрожает Adobe](https://habr.com/ru/companies/bothub/news/947364/?utm_campaign=947364&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» выпустила приложение по поиску потерявшихся питомцев PetKa с помощью трекера Kaspersky Tag](https://habr.com/ru/news/947278/?utm_campaign=947278&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запустила новый GPT-5-Codex](https://habr.com/ru/companies/bothub/news/947340/?utm_campaign=947340&utm_source=habrahabr&utm_medium=rss)
-- [Глава Google DeepMind: ИИ может запустить “золотой век науки”, но важен ответственный подход](https://habr.com/ru/news/947336/?utm_campaign=947336&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила пользователей Office 2016/2019 о необходимости перехода на облако](https://habr.com/ru/news/947306/?utm_campaign=947306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
