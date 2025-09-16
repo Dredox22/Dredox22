@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый TimesFM 2.5 от Google обошёл все модели в рейтингах](https://habr.com/ru/companies/bothub/news/947348/?utm_campaign=947348&utm_source=habrahabr&utm_medium=rss)
+- [EvaProject и EvaWiki стали основой проектной и информационной среды СПб ИАЦ](https://habr.com/ru/companies/evateam/news/947430/?utm_campaign=947430&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft нарастит инвестиции в инфраструктуру для обучения собственных ИИ-моделей](https://habr.com/ru/news/947416/?utm_campaign=947416&utm_source=habrahabr&utm_medium=rss)
 - [Стартовала разработка новой российской MMORPG «Синеус» о брате Рюрика и Трувора по «Повести временных лет»](https://habr.com/ru/news/947398/?utm_campaign=947398&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI против Anthropic: битва за доверие пользователей](https://habr.com/ru/companies/bothub/news/947360/?utm_campaign=947360&utm_source=habrahabr&utm_medium=rss)
-- [Конец классическому фотошопу? Новый AI-редактор Reve угрожает Adobe](https://habr.com/ru/companies/bothub/news/947364/?utm_campaign=947364&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» выпустила приложение по поиску потерявшихся питомцев PetKa с помощью трекера Kaspersky Tag](https://habr.com/ru/news/947278/?utm_campaign=947278&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила новый GPT-5-Codex](https://habr.com/ru/companies/bothub/news/947340/?utm_campaign=947340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
