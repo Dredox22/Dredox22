@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google запускает систему, чтобы ИИ-боты не тратили бюджет без разрешения](https://habr.com/ru/companies/bothub/news/947654/?utm_campaign=947654&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за август 2025](https://habr.com/ru/companies/ussc/news/947648/?utm_campaign=947648&utm_source=habrahabr&utm_medium=rss)
-- [Morgan Stanley: ИИ будет приносить почти $1 трлн в год — но за чей счет?](https://habr.com/ru/news/947646/?utm_campaign=947646&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск AIDA64 8.00](https://habr.com/ru/news/947370/?utm_campaign=947370&utm_source=habrahabr&utm_medium=rss)
-- [Представлена мобильная платформа /e/OS 3.1](https://habr.com/ru/news/947384/?utm_campaign=947384&utm_source=habrahabr&utm_medium=rss)
+- [Администратор хакерского форума BreachForums приговорён к трём годам тюрьмы](https://habr.com/ru/news/947686/?utm_campaign=947686&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт Positive Technologies помог устранить уязвимость в операционных системах Windows](https://habr.com/ru/companies/pt/news/947194/?utm_campaign=947194&utm_source=habrahabr&utm_medium=rss)
+- [Более 300 пакетов npm оказались скомпрометированы саморазмножающимся червём](https://habr.com/ru/news/947680/?utm_campaign=947680&utm_source=habrahabr&utm_medium=rss)
+- [Синтетика + реальность: новый подход к робо-обучению от Unitree](https://habr.com/ru/companies/bothub/news/947662/?utm_campaign=947662&utm_source=habrahabr&utm_medium=rss)
+- [«Google Таблицы» теперь поддерживают шифрование на стороне клиента](https://habr.com/ru/news/947674/?utm_campaign=947674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
