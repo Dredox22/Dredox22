@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запускает систему, чтобы ИИ-боты не тратили бюджет без разрешения](https://habr.com/ru/companies/bothub/news/947654/?utm_campaign=947654&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за август 2025](https://habr.com/ru/companies/ussc/news/947648/?utm_campaign=947648&utm_source=habrahabr&utm_medium=rss)
 - [Morgan Stanley: ИИ будет приносить почти $1 трлн в год — но за чей счет?](https://habr.com/ru/news/947646/?utm_campaign=947646&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск AIDA64 8.00](https://habr.com/ru/news/947370/?utm_campaign=947370&utm_source=habrahabr&utm_medium=rss)
 - [Представлена мобильная платформа /e/OS 3.1](https://habr.com/ru/news/947384/?utm_campaign=947384&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Media Player Classic — Home Cinema 2.5.3](https://habr.com/ru/news/947562/?utm_campaign=947562&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
