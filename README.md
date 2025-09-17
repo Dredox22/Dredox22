@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ВТБ закупил 13 тысяч российских планшетов Kvadra_T на KvadraOS](https://habr.com/ru/news/947962/?utm_campaign=947962&utm_source=habrahabr&utm_medium=rss)
+- [Google представила приложение для Windows, похожее на Apple Spotlight](https://habr.com/ru/news/947596/?utm_campaign=947596&utm_source=habrahabr&utm_medium=rss)
+- [Китай объявил бойкот AI-чипам Nvidia: удар по Alibaba и ByteDance](https://habr.com/ru/companies/bothub/news/947956/?utm_campaign=947956&utm_source=habrahabr&utm_medium=rss)
+- [На Камчатке не будет быстрого интернета минимум четверо суток — с 25 по 29 сентября 2025 года](https://habr.com/ru/news/947952/?utm_campaign=947952&utm_source=habrahabr&utm_medium=rss)
 - [Сделка века: SpaceX выкупила частоты за $17 млрд ради глобальной связи](https://habr.com/ru/companies/bothub/news/947948/?utm_campaign=947948&utm_source=habrahabr&utm_medium=rss)
-- [TikTok на грани раскола: США и Китай почти утвердили судьбоносную сделку](https://habr.com/ru/companies/bothub/news/947944/?utm_campaign=947944&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск теперь считает, что Grok 5 может достичь AGI. Но что убедило его в этом?](https://habr.com/ru/news/947934/?utm_campaign=947934&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE приобрела разработчика антивирусного ПО NANO Security для усиления платформы endpoint security](https://habr.com/ru/news/947932/?utm_campaign=947932&utm_source=habrahabr&utm_medium=rss)
-- [Amazon обновила ИИ-агента для помощи продавцам и автоматизации бизнес-задач](https://habr.com/ru/companies/technokratos/news/947920/?utm_campaign=947920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
