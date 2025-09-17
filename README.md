@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [7 неудобных вопросов к облачным решениям 1С](https://habr.com/ru/companies/mws/news/947806/?utm_campaign=947806&utm_source=habrahabr&utm_medium=rss)
+- [FT: Китай запретил местным технологическим компаниям закупать ИИ-чипы Nvidia](https://habr.com/ru/news/947878/?utm_campaign=947878&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем архитекторов в офлайн: три конференции, где можно потренировать свои навыки в создании сложных IT-систем](https://habr.com/ru/companies/ru_mts/news/947872/?utm_campaign=947872&utm_source=habrahabr&utm_medium=rss)
 - [Open Source Meetup в Москве: осмысляем будущее и философию Open Source в ГАИШ МГУ](https://habr.com/ru/companies/postgrespro/news/947864/?utm_campaign=947864&utm_source=habrahabr&utm_medium=rss)
 - [Apple раскрыла детали теста на посадку в ушах для AirPods Pro 3](https://habr.com/ru/news/947846/?utm_campaign=947846&utm_source=habrahabr&utm_medium=rss)
-- [10 октября в Москве состоится конференция «День Бренда 2025 — Смотрим в будущее» для специалистов маркетинга и рекламы](https://habr.com/ru/news/947836/?utm_campaign=947836&utm_source=habrahabr&utm_medium=rss)
-- [Мессенджер Мax перевёл каналы в режим открытого тестирования для авторов А+ &lpar;с 10+ тыс. подписчиков в одной из соцсетей&rpar;](https://habr.com/ru/news/947820/?utm_campaign=947820&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI разрабатывает роботов после пятилетнего перерыва](https://habr.com/ru/companies/bothub/news/947682/?utm_campaign=947682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
