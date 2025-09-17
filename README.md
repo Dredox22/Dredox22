@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google предупреждает, что просмотры пользователей с блокировщиками рекламы могут не учитываться в статистике каналов](https://habr.com/ru/news/947758/?utm_campaign=947758&utm_source=habrahabr&utm_medium=rss)
+- [AT&amp;amp;T будет отслеживать историю вызовов телефонов для ИИ-блокировки спама](https://habr.com/ru/news/947722/?utm_campaign=947722&utm_source=habrahabr&utm_medium=rss)
+- [«Т‑Банк» за одну неделю выпустил в App Store три своих мобильных приложения от разных разработчиков](https://habr.com/ru/news/947736/?utm_campaign=947736&utm_source=habrahabr&utm_medium=rss)
 - [Manticore Search 13.11.0: Автоэмбеддинги и усовершенствованный AI-поиск](https://habr.com/ru/news/947028/?utm_campaign=947028&utm_source=habrahabr&utm_medium=rss)
 - [В Consumer Reports призвали Microsoft продолжить поддержку Windows 10](https://habr.com/ru/news/947698/?utm_campaign=947698&utm_source=habrahabr&utm_medium=rss)
-- [3.6 миллиарда вокселей: новинка от Tencent меняет правила игры в генерации 3D](https://habr.com/ru/companies/bothub/news/947508/?utm_campaign=947508&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отобрала домены у енота-мошенника из Нигерии](https://habr.com/ru/companies/ddosguard/news/947702/?utm_campaign=947702&utm_source=habrahabr&utm_medium=rss)
-- [Администратор хакерского форума BreachForums приговорён к трём годам тюрьмы](https://habr.com/ru/news/947686/?utm_campaign=947686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
