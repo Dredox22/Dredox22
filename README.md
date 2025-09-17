@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Manticore Search 13.11.0: Автоэмбеддинги и усовершенствованный AI-поиск](https://habr.com/ru/news/947028/?utm_campaign=947028&utm_source=habrahabr&utm_medium=rss)
+- [В Consumer Reports призвали Microsoft продолжить поддержку Windows 10](https://habr.com/ru/news/947698/?utm_campaign=947698&utm_source=habrahabr&utm_medium=rss)
+- [3.6 миллиарда вокселей: новинка от Tencent меняет правила игры в генерации 3D](https://habr.com/ru/companies/bothub/news/947508/?utm_campaign=947508&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отобрала домены у енота-мошенника из Нигерии](https://habr.com/ru/companies/ddosguard/news/947702/?utm_campaign=947702&utm_source=habrahabr&utm_medium=rss)
 - [Администратор хакерского форума BreachForums приговорён к трём годам тюрьмы](https://habr.com/ru/news/947686/?utm_campaign=947686&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт Positive Technologies помог устранить уязвимость в операционных системах Windows](https://habr.com/ru/companies/pt/news/947194/?utm_campaign=947194&utm_source=habrahabr&utm_medium=rss)
-- [Более 300 пакетов npm оказались скомпрометированы саморазмножающимся червём](https://habr.com/ru/news/947680/?utm_campaign=947680&utm_source=habrahabr&utm_medium=rss)
-- [Синтетика + реальность: новый подход к робо-обучению от Unitree](https://habr.com/ru/companies/bothub/news/947662/?utm_campaign=947662&utm_source=habrahabr&utm_medium=rss)
-- [«Google Таблицы» теперь поддерживают шифрование на стороне клиента](https://habr.com/ru/news/947674/?utm_campaign=947674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
