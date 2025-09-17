@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Meetup в Москве: осмысляем будущее и философию Open Source в ГАИШ МГУ](https://habr.com/ru/companies/postgrespro/news/947864/?utm_campaign=947864&utm_source=habrahabr&utm_medium=rss)
+- [Apple раскрыла детали теста на посадку в ушах для AirPods Pro 3](https://habr.com/ru/news/947846/?utm_campaign=947846&utm_source=habrahabr&utm_medium=rss)
 - [10 октября в Москве состоится конференция «День Бренда 2025 — Смотрим в будущее» для специалистов маркетинга и рекламы](https://habr.com/ru/news/947836/?utm_campaign=947836&utm_source=habrahabr&utm_medium=rss)
 - [Мессенджер Мax перевёл каналы в режим открытого тестирования для авторов А+ &lpar;с 10+ тыс. подписчиков в одной из соцсетей&rpar;](https://habr.com/ru/news/947820/?utm_campaign=947820&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI разрабатывает роботов после пятилетнего перерыва](https://habr.com/ru/companies/bothub/news/947682/?utm_campaign=947682&utm_source=habrahabr&utm_medium=rss)
-- [Google представила VaultGemma — ИИ с приватностью на уровне обучающих данных](https://habr.com/ru/news/947788/?utm_campaign=947788&utm_source=habrahabr&utm_medium=rss)
-- [Инженер Yandex Security Team обнаружил в проекте Chromium уязвимость &lpar;CVE-2025-9864&rpar; в движке V8, разрабатываемым Google](https://habr.com/ru/news/947776/?utm_campaign=947776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
