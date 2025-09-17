@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google и Coinbase представили платежную систему для ИИ-агентов](https://habr.com/ru/news/947600/?utm_campaign=947600&utm_source=habrahabr&utm_medium=rss)
-- [В YouTube добавили бесплатное создание ИИ-видео с помощью Veo 3 Fast](https://habr.com/ru/news/947586/?utm_campaign=947586&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI введёт новые ограничения для пользователей ChatGPT младше 18 лет](https://habr.com/ru/news/947584/?utm_campaign=947584&utm_source=habrahabr&utm_medium=rss)
-- [Российские банки ищут замену решениям Nvidia и тестируют китайские ускорители](https://habr.com/ru/news/947552/?utm_campaign=947552&utm_source=habrahabr&utm_medium=rss)
-- [Российские ученые исследовали влияние магнонов на сверхпроводимость](https://habr.com/ru/news/944396/?utm_campaign=944396&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск AIDA64 8.00](https://habr.com/ru/news/947370/?utm_campaign=947370&utm_source=habrahabr&utm_medium=rss)
+- [Представлена мобильная платформа /e/OS 3.1](https://habr.com/ru/news/947384/?utm_campaign=947384&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Media Player Classic — Home Cinema 2.5.3](https://habr.com/ru/news/947562/?utm_campaign=947562&utm_source=habrahabr&utm_medium=rss)
+- [Альянс AOMedia анонсировал проект видеокодека нового поколения AV2](https://habr.com/ru/news/947270/?utm_campaign=947270&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта RustDesk 1.4.2](https://habr.com/ru/news/947228/?utm_campaign=947228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
