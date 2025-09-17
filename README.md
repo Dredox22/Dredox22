@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [BI.ZONE приобрела разработчика антивирусного ПО NANO Security для усиления платформы endpoint security](https://habr.com/ru/news/947932/?utm_campaign=947932&utm_source=habrahabr&utm_medium=rss)
+- [Amazon обновила ИИ-агента для помощи продавцам и автоматизации бизнес-задач](https://habr.com/ru/companies/technokratos/news/947920/?utm_campaign=947920&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT станет находить детей среди пользователей](https://habr.com/ru/companies/bothub/news/947924/?utm_campaign=947924&utm_source=habrahabr&utm_medium=rss)
 - [7 неудобных вопросов к облачным решениям 1С](https://habr.com/ru/companies/mws/news/947806/?utm_campaign=947806&utm_source=habrahabr&utm_medium=rss)
 - [FT: Китай запретил местным технологическим компаниям закупать ИИ-чипы Nvidia](https://habr.com/ru/news/947878/?utm_campaign=947878&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем архитекторов в офлайн: три конференции, где можно потренировать свои навыки в создании сложных IT-систем](https://habr.com/ru/companies/ru_mts/news/947872/?utm_campaign=947872&utm_source=habrahabr&utm_medium=rss)
-- [Open Source Meetup в Москве: осмысляем будущее и философию Open Source в ГАИШ МГУ](https://habr.com/ru/companies/postgrespro/news/947864/?utm_campaign=947864&utm_source=habrahabr&utm_medium=rss)
-- [Apple раскрыла детали теста на посадку в ушах для AirPods Pro 3](https://habr.com/ru/news/947846/?utm_campaign=947846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
