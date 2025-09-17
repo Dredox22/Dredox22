@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [10 октября в Москве состоится конференция «День Бренда 2025 — Смотрим в будущее» для специалистов маркетинга и рекламы](https://habr.com/ru/news/947836/?utm_campaign=947836&utm_source=habrahabr&utm_medium=rss)
+- [Мессенджер Мax перевёл каналы в режим открытого тестирования для авторов А+ &lpar;с 10+ тыс. подписчиков в одной из соцсетей&rpar;](https://habr.com/ru/news/947820/?utm_campaign=947820&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI разрабатывает роботов после пятилетнего перерыва](https://habr.com/ru/companies/bothub/news/947682/?utm_campaign=947682&utm_source=habrahabr&utm_medium=rss)
 - [Google представила VaultGemma — ИИ с приватностью на уровне обучающих данных](https://habr.com/ru/news/947788/?utm_campaign=947788&utm_source=habrahabr&utm_medium=rss)
 - [Инженер Yandex Security Team обнаружил в проекте Chromium уязвимость &lpar;CVE-2025-9864&rpar; в движке V8, разрабатываемым Google](https://habr.com/ru/news/947776/?utm_campaign=947776&utm_source=habrahabr&utm_medium=rss)
-- [Google предупреждает, что просмотры пользователей с блокировщиками рекламы могут не учитываться в статистике каналов](https://habr.com/ru/news/947758/?utm_campaign=947758&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T будет отслеживать историю вызовов телефонов для ИИ-блокировки спама](https://habr.com/ru/news/947722/?utm_campaign=947722&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» за одну неделю выпустил в App Store три своих мобильных приложения от разных разработчиков](https://habr.com/ru/news/947736/?utm_campaign=947736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
