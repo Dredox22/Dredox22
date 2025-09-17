@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделка века: SpaceX выкупила частоты за $17 млрд ради глобальной связи](https://habr.com/ru/companies/bothub/news/947948/?utm_campaign=947948&utm_source=habrahabr&utm_medium=rss)
+- [TikTok на грани раскола: США и Китай почти утвердили судьбоносную сделку](https://habr.com/ru/companies/bothub/news/947944/?utm_campaign=947944&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск теперь считает, что Grok 5 может достичь AGI. Но что убедило его в этом?](https://habr.com/ru/news/947934/?utm_campaign=947934&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE приобрела разработчика антивирусного ПО NANO Security для усиления платформы endpoint security](https://habr.com/ru/news/947932/?utm_campaign=947932&utm_source=habrahabr&utm_medium=rss)
 - [Amazon обновила ИИ-агента для помощи продавцам и автоматизации бизнес-задач](https://habr.com/ru/companies/technokratos/news/947920/?utm_campaign=947920&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT станет находить детей среди пользователей](https://habr.com/ru/companies/bothub/news/947924/?utm_campaign=947924&utm_source=habrahabr&utm_medium=rss)
-- [7 неудобных вопросов к облачным решениям 1С](https://habr.com/ru/companies/mws/news/947806/?utm_campaign=947806&utm_source=habrahabr&utm_medium=rss)
-- [FT: Китай запретил местным технологическим компаниям закупать ИИ-чипы Nvidia](https://habr.com/ru/news/947878/?utm_campaign=947878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
