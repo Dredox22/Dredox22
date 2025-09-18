@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ALD Pro 3.0 — служба каталога с масштабируемостью на уровне мировых лидеров и усиленными средствами безопасности](https://habr.com/ru/companies/astralinux/news/948168/?utm_campaign=948168&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek-R1: ИИ впервые научился рассуждать с нуля](https://habr.com/ru/companies/bothub/news/948272/?utm_campaign=948272&utm_source=habrahabr&utm_medium=rss)
+- [«Базальт СПО» открыл IT‑лабораторию в СГТУ имени Гагарина Ю.А](https://habr.com/ru/news/948270/?utm_campaign=948270&utm_source=habrahabr&utm_medium=rss)
 - [МВД: фото для паспорта гражданина РФ, доработанное с помощью нейросетей, может стать причиной отказа в выдаче документа](https://habr.com/ru/news/948258/?utm_campaign=948258&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Mac Studio с M3 Ultra не могут установить macOS Tahoe](https://habr.com/ru/news/948238/?utm_campaign=948238&utm_source=habrahabr&utm_medium=rss)
-- [В мессенджере Мax появилась двухфакторная аутентификация для усиления безопасности пользователей](https://habr.com/ru/news/948210/?utm_campaign=948210&utm_source=habrahabr&utm_medium=rss)
-- [Брет Тейлор из OpenAI: мы находимся в пузыре искусственного интеллекта](https://habr.com/ru/news/948206/?utm_campaign=948206&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на CTF-соревнования в рамках GIS DAYS 2025](https://habr.com/ru/companies/gaz-is/news/948200/?utm_campaign=948200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
