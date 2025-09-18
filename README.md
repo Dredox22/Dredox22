@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» и Pay2Me представили пилотный проект платёжного терминала на ОС «Аврора»](https://habr.com/ru/news/948306/?utm_campaign=948306&utm_source=habrahabr&utm_medium=rss)
+- [Только GPT-5 решила все задачи чемпионата мира по программированию](https://habr.com/ru/companies/bothub/news/948290/?utm_campaign=948290&utm_source=habrahabr&utm_medium=rss)
 - [ALD Pro 3.0 — служба каталога с масштабируемостью на уровне мировых лидеров и усиленными средствами безопасности](https://habr.com/ru/companies/astralinux/news/948168/?utm_campaign=948168&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek-R1: ИИ впервые научился рассуждать с нуля](https://habr.com/ru/companies/bothub/news/948272/?utm_campaign=948272&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» открыл IT‑лабораторию в СГТУ имени Гагарина Ю.А](https://habr.com/ru/news/948270/?utm_campaign=948270&utm_source=habrahabr&utm_medium=rss)
-- [МВД: фото для паспорта гражданина РФ, доработанное с помощью нейросетей, может стать причиной отказа в выдаче документа](https://habr.com/ru/news/948258/?utm_campaign=948258&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Mac Studio с M3 Ultra не могут установить macOS Tahoe](https://habr.com/ru/news/948238/?utm_campaign=948238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
