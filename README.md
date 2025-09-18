@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Paint обзаведётся собственными файлами проектов, похожими на Photoshop](https://habr.com/ru/news/948070/?utm_campaign=948070&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила о новых мерах защиты против распространения интимных изображений](https://habr.com/ru/news/948058/?utm_campaign=948058&utm_source=habrahabr&utm_medium=rss)
-- [Представлен стандарт WebAssembly 3.0](https://habr.com/ru/news/948060/?utm_campaign=948060&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI ускорила работу ChatGPT. Но не все пользователи довольны](https://habr.com/ru/news/948056/?utm_campaign=948056&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики смогут быстрее получать доступ к официальной документации Microsoft через сервер MCP](https://habr.com/ru/news/948050/?utm_campaign=948050&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-боты смогут расплачиваться без человека — команда от Google представила AP2 протокол](https://habr.com/ru/news/948010/?utm_campaign=948010&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сняла блокировку загрузки и установки Windows 11 24H2 для многих пользователей](https://habr.com/ru/news/948094/?utm_campaign=948094&utm_source=habrahabr&utm_medium=rss)
+- [Deckhouse Virtualization Platform 1.0: поддержка VLAN и отчуждаемость данных](https://habr.com/ru/companies/flant/news/947832/?utm_campaign=947832&utm_source=habrahabr&utm_medium=rss)
+- [Конкурс от Obsidian: $5000 заплатят за лучшее решение для импорта баз данных из Notion](https://habr.com/ru/news/948106/?utm_campaign=948106&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила в «Блокнот» бесплатные функции Copilot](https://habr.com/ru/news/948082/?utm_campaign=948082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
