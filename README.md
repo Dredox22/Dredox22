@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia и Intel заключили сделку века: CPU и RTX теперь в одном чипе](https://habr.com/ru/companies/bothub/news/948328/?utm_campaign=948328&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia объединяется с Intel](https://habr.com/ru/companies/cloud4y/news/948314/?utm_campaign=948314&utm_source=habrahabr&utm_medium=rss)
+- [ИИ начал создавать вирусы, которые убивают бактерии](https://habr.com/ru/companies/bothub/news/948312/?utm_campaign=948312&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» и Pay2Me представили пилотный проект платёжного терминала на ОС «Аврора»](https://habr.com/ru/news/948306/?utm_campaign=948306&utm_source=habrahabr&utm_medium=rss)
 - [Только GPT-5 решила все задачи чемпионата мира по программированию](https://habr.com/ru/companies/bothub/news/948290/?utm_campaign=948290&utm_source=habrahabr&utm_medium=rss)
-- [ALD Pro 3.0 — служба каталога с масштабируемостью на уровне мировых лидеров и усиленными средствами безопасности](https://habr.com/ru/companies/astralinux/news/948168/?utm_campaign=948168&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek-R1: ИИ впервые научился рассуждать с нуля](https://habr.com/ru/companies/bothub/news/948272/?utm_campaign=948272&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» открыл IT‑лабораторию в СГТУ имени Гагарина Ю.А](https://habr.com/ru/news/948270/?utm_campaign=948270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
