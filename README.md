@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МВД: фото для паспорта гражданина РФ, доработанное с помощью нейросетей, может стать причиной отказа в выдаче документа](https://habr.com/ru/news/948258/?utm_campaign=948258&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Mac Studio с M3 Ultra не могут установить macOS Tahoe](https://habr.com/ru/news/948238/?utm_campaign=948238&utm_source=habrahabr&utm_medium=rss)
 - [В мессенджере Мax появилась двухфакторная аутентификация для усиления безопасности пользователей](https://habr.com/ru/news/948210/?utm_campaign=948210&utm_source=habrahabr&utm_medium=rss)
 - [Брет Тейлор из OpenAI: мы находимся в пузыре искусственного интеллекта](https://habr.com/ru/news/948206/?utm_campaign=948206&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на CTF-соревнования в рамках GIS DAYS 2025](https://habr.com/ru/companies/gaz-is/news/948200/?utm_campaign=948200&utm_source=habrahabr&utm_medium=rss)
-- [Реклама Bing отображает «таблицу» загрузок Microsoft Edge по сравнению с Google Chrome в Windows 11](https://habr.com/ru/news/948192/?utm_campaign=948192&utm_source=habrahabr&utm_medium=rss)
-- [Apple в курсе проблемы с камерами новых iPhone Air и iPhone 17 Pro — артефакты при ярком освещении](https://habr.com/ru/news/948166/?utm_campaign=948166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
