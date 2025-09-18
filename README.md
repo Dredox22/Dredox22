@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI ускорила работу ChatGPT. Но не все пользователи довольны](https://habr.com/ru/news/948056/?utm_campaign=948056&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики смогут быстрее получать доступ к официальной документации Microsoft через сервер MCP](https://habr.com/ru/news/948050/?utm_campaign=948050&utm_source=habrahabr&utm_medium=rss)
+- [Вышла стабильная версия systemd 258](https://habr.com/ru/news/948038/?utm_campaign=948038&utm_source=habrahabr&utm_medium=rss)
+- [Владельцы iPhone с iOS 26 получили доступ к приложениям Apple через спутниковую связь Starlink в США](https://habr.com/ru/news/948030/?utm_campaign=948030&utm_source=habrahabr&utm_medium=rss)
 - [Релиз рабочего окружения GNOME 49 Brescia](https://habr.com/ru/news/947936/?utm_campaign=947936&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 143.0](https://habr.com/ru/news/947858/?utm_campaign=947858&utm_source=habrahabr&utm_medium=rss)
-- [ИИ OpenAI набрал 12/12 на Олимпиаде по программированию. Официальные чемпионы — команда СПбГУ](https://habr.com/ru/news/947976/?utm_campaign=947976&utm_source=habrahabr&utm_medium=rss)
-- [ВТБ закупил 13 тысяч российских планшетов Kvadra_T на KvadraOS](https://habr.com/ru/news/947962/?utm_campaign=947962&utm_source=habrahabr&utm_medium=rss)
-- [Google представила приложение для Windows, похожее на Apple Spotlight](https://habr.com/ru/news/947596/?utm_campaign=947596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
