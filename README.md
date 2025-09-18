@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple в курсе проблемы с камерами новых iPhone Air и iPhone 17 Pro — артефакты при ярком освещении](https://habr.com/ru/news/948166/?utm_campaign=948166&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл self-service доступ к бесплатной платформе KITβ для создания интернет-магазинов](https://habr.com/ru/news/948136/?utm_campaign=948136&utm_source=habrahabr&utm_medium=rss)
 - [Forbes: «Сбер» планирует старт продаж умного кольца Sber Smart Ring 24 сентября](https://habr.com/ru/news/948124/?utm_campaign=948124&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-боты смогут расплачиваться без человека — команда от Google представила AP2 протокол](https://habr.com/ru/news/948010/?utm_campaign=948010&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сняла блокировку загрузки и установки Windows 11 24H2 для многих пользователей](https://habr.com/ru/news/948094/?utm_campaign=948094&utm_source=habrahabr&utm_medium=rss)
-- [Deckhouse Virtualization Platform 1.0: поддержка VLAN и отчуждаемость данных](https://habr.com/ru/companies/flant/news/947832/?utm_campaign=947832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
