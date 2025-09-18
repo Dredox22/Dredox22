@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Paint обзаведётся собственными файлами проектов, похожими на Photoshop](https://habr.com/ru/news/948070/?utm_campaign=948070&utm_source=habrahabr&utm_medium=rss)
+- [Google объявила о новых мерах защиты против распространения интимных изображений](https://habr.com/ru/news/948058/?utm_campaign=948058&utm_source=habrahabr&utm_medium=rss)
+- [Представлен стандарт WebAssembly 3.0](https://habr.com/ru/news/948060/?utm_campaign=948060&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI ускорила работу ChatGPT. Но не все пользователи довольны](https://habr.com/ru/news/948056/?utm_campaign=948056&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики смогут быстрее получать доступ к официальной документации Microsoft через сервер MCP](https://habr.com/ru/news/948050/?utm_campaign=948050&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия systemd 258](https://habr.com/ru/news/948038/?utm_campaign=948038&utm_source=habrahabr&utm_medium=rss)
-- [Владельцы iPhone с iOS 26 получили доступ к приложениям Apple через спутниковую связь Starlink в США](https://habr.com/ru/news/948030/?utm_campaign=948030&utm_source=habrahabr&utm_medium=rss)
-- [Релиз рабочего окружения GNOME 49 Brescia](https://habr.com/ru/news/947936/?utm_campaign=947936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
