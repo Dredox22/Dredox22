@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Port Kill — утилита для быстрого поиска и закрытия портов, которые мешают разработке](https://habr.com/ru/news/948376/?utm_campaign=948376&utm_source=habrahabr&utm_medium=rss)
 - [Контекстное окно в 1M токенов. Новый Grok для программирования выйдет на следующей неделе](https://habr.com/ru/news/948372/?utm_campaign=948372&utm_source=habrahabr&utm_medium=rss)
 - [IBM Granite-Docling: новый стандарт работы с документами](https://habr.com/ru/companies/bothub/news/948368/?utm_campaign=948368&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs запустила аудиоредактор для видеороликов](https://habr.com/ru/companies/bothub/news/948362/?utm_campaign=948362&utm_source=habrahabr&utm_medium=rss)
 - [Meta* показала свои первые AR-очки с дисплеем](https://habr.com/ru/companies/bothub/news/948358/?utm_campaign=948358&utm_source=habrahabr&utm_medium=rss)
-- [«Роскосмос» и ФПИ заключили соглашение о сотрудничестве в рамках реализации нацпроекта «Космос»](https://habr.com/ru/news/948350/?utm_campaign=948350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
