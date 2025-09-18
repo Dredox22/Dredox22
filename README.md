@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз рабочего окружения GNOME 49 Brescia](https://habr.com/ru/news/947936/?utm_campaign=947936&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Mozilla Thunderbird 143.0](https://habr.com/ru/news/947858/?utm_campaign=947858&utm_source=habrahabr&utm_medium=rss)
 - [ИИ OpenAI набрал 12/12 на Олимпиаде по программированию. Официальные чемпионы — команда СПбГУ](https://habr.com/ru/news/947976/?utm_campaign=947976&utm_source=habrahabr&utm_medium=rss)
 - [ВТБ закупил 13 тысяч российских планшетов Kvadra_T на KvadraOS](https://habr.com/ru/news/947962/?utm_campaign=947962&utm_source=habrahabr&utm_medium=rss)
 - [Google представила приложение для Windows, похожее на Apple Spotlight](https://habr.com/ru/news/947596/?utm_campaign=947596&utm_source=habrahabr&utm_medium=rss)
-- [Китай объявил бойкот AI-чипам Nvidia: удар по Alibaba и ByteDance](https://habr.com/ru/companies/bothub/news/947956/?utm_campaign=947956&utm_source=habrahabr&utm_medium=rss)
-- [На Камчатке не будет быстрого интернета минимум четверо суток — с 25 по 29 сентября 2025 года](https://habr.com/ru/news/947952/?utm_campaign=947952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
