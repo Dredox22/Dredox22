@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В агенте Deep Research ChatGPT нашли критическую уязвимость](https://habr.com/ru/news/948578/?utm_campaign=948578&utm_source=habrahabr&utm_medium=rss)
-- [Google интегрирует чат-бот Gemini в Chrome для выполнения «рутинных задач» от имени пользователя](https://habr.com/ru/news/948572/?utm_campaign=948572&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила прогноз, чему ИИ научится к 2030 году](https://habr.com/ru/news/948568/?utm_campaign=948568&utm_source=habrahabr&utm_medium=rss)
-- [РКН предложил ограничивать аккаунты в мессенджерах для SIM-карт в роуминге](https://habr.com/ru/news/948528/?utm_campaign=948528&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Entra ID выявили уязвимость для доступа практически ко всем учётным записям Azure](https://habr.com/ru/news/948522/?utm_campaign=948522&utm_source=habrahabr&utm_medium=rss)
+- [Luma AI представила новую модель для генерации «разумного» видео](https://habr.com/ru/companies/bothub/news/948614/?utm_campaign=948614&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 будет показывать полноэкранные уведомления об истечении срока подписки Microsoft 365](https://habr.com/ru/news/948624/?utm_campaign=948624&utm_source=habrahabr&utm_medium=rss)
+- [Консорциум PCI-SIG представил версию 0.3 спецификации интерфейса PCI Express 8.0](https://habr.com/ru/news/948600/?utm_campaign=948600&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект «Quake II Мультиплеер в браузере»](https://habr.com/ru/news/948610/?utm_campaign=948610&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь выяснил причины проблем с работой ноутбуков Asus ROG — это ошибки в BIOS](https://habr.com/ru/news/948606/?utm_campaign=948606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
