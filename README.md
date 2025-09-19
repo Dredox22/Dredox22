@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В агенте Deep Research ChatGPT нашли критическую уязвимость](https://habr.com/ru/news/948578/?utm_campaign=948578&utm_source=habrahabr&utm_medium=rss)
+- [Google интегрирует чат-бот Gemini в Chrome для выполнения «рутинных задач» от имени пользователя](https://habr.com/ru/news/948572/?utm_campaign=948572&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила прогноз, чему ИИ научится к 2030 году](https://habr.com/ru/news/948568/?utm_campaign=948568&utm_source=habrahabr&utm_medium=rss)
 - [РКН предложил ограничивать аккаунты в мессенджерах для SIM-карт в роуминге](https://habr.com/ru/news/948528/?utm_campaign=948528&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Entra ID выявили уязвимость для доступа практически ко всем учётным записям Azure](https://habr.com/ru/news/948522/?utm_campaign=948522&utm_source=habrahabr&utm_medium=rss)
-- [Huawei анонсировала новую ИИ-инфраструктуру в связи с закрытием доступа Nvidia в Китай](https://habr.com/ru/news/948514/?utm_campaign=948514&utm_source=habrahabr&utm_medium=rss)
-- [Сайт петербургского аэропорта «Пулково» взломали](https://habr.com/ru/news/948504/?utm_campaign=948504&utm_source=habrahabr&utm_medium=rss)
-- [Вышла тестовая версия Ubuntu 25.10 &lpar;Questing Quokka&rpar; Beta](https://habr.com/ru/news/948486/?utm_campaign=948486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
