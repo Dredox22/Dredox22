@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek: обучение модели R1 обошлось всего в $294 тысяч](https://habr.com/ru/news/948460/?utm_campaign=948460&utm_source=habrahabr&utm_medium=rss)
 - [Злой двойник: мошенники разработали новую схему атак на семьи участников СВО](https://habr.com/ru/companies/F6/news/947392/?utm_campaign=947392&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.90.0](https://habr.com/ru/news/948436/?utm_campaign=948436&utm_source=habrahabr&utm_medium=rss)
 - [Представлен фреймворк GNUnet 0.25 для построения защищённых децентрализованных P2P-сетей](https://habr.com/ru/news/948296/?utm_campaign=948296&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tails 7.0](https://habr.com/ru/news/948230/?utm_campaign=948230&utm_source=habrahabr&utm_medium=rss)
-- [Chrome получил крупнейшее обновление: в браузер встроили ИИ Gemini](https://habr.com/ru/news/948414/?utm_campaign=948414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
