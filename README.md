@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи нашли утечки памяти в приложениях «Калькулятор» и «Сообщения» в macOS 26](https://habr.com/ru/news/948658/?utm_campaign=948658&utm_source=habrahabr&utm_medium=rss)
 - [Luma AI представила новую модель для генерации «разумного» видео](https://habr.com/ru/companies/bothub/news/948614/?utm_campaign=948614&utm_source=habrahabr&utm_medium=rss)
 - [Windows 11 будет показывать полноэкранные уведомления об истечении срока подписки Microsoft 365](https://habr.com/ru/news/948624/?utm_campaign=948624&utm_source=habrahabr&utm_medium=rss)
 - [Консорциум PCI-SIG представил версию 0.3 спецификации интерфейса PCI Express 8.0](https://habr.com/ru/news/948600/?utm_campaign=948600&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект «Quake II Мультиплеер в браузере»](https://habr.com/ru/news/948610/?utm_campaign=948610&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь выяснил причины проблем с работой ноутбуков Asus ROG — это ошибки в BIOS](https://habr.com/ru/news/948606/?utm_campaign=948606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
