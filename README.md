@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Rust 1.90.0](https://habr.com/ru/news/948436/?utm_campaign=948436&utm_source=habrahabr&utm_medium=rss)
 - [Представлен фреймворк GNUnet 0.25 для построения защищённых децентрализованных P2P-сетей](https://habr.com/ru/news/948296/?utm_campaign=948296&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tails 7.0](https://habr.com/ru/news/948230/?utm_campaign=948230&utm_source=habrahabr&utm_medium=rss)
 - [Chrome получил крупнейшее обновление: в браузер встроили ИИ Gemini](https://habr.com/ru/news/948414/?utm_campaign=948414&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Port Kill — утилита для быстрого поиска и закрытия портов, которые мешают разработке](https://habr.com/ru/news/948376/?utm_campaign=948376&utm_source=habrahabr&utm_medium=rss)
-- [Контекстное окно в 1M токенов. Новый Grok для программирования выйдет на следующей неделе](https://habr.com/ru/news/948372/?utm_campaign=948372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
