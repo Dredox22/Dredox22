@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи создали шестерни, движимые светом, способные уместиться внутри человеческого волоса](https://habr.com/ru/news/948764/?utm_campaign=948764&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Grok 4 привлекли 10 миллиардов долларов. Теперь xAI стоит $200 млрд](https://habr.com/ru/news/948762/?utm_campaign=948762&utm_source=habrahabr&utm_medium=rss)
 - [ИИ научился проверять собственные ошибки](https://habr.com/ru/companies/bothub/news/948724/?utm_campaign=948724&utm_source=habrahabr&utm_medium=rss)
 - [Команда Magistral представила обновлённые версии своих моделей](https://habr.com/ru/companies/bothub/news/948704/?utm_campaign=948704&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI рассказала, как ChatGPT обманывает пользователей](https://habr.com/ru/companies/bothub/news/948730/?utm_campaign=948730&utm_source=habrahabr&utm_medium=rss)
-- [DeepMind использовал ИИ, чтобы приблизиться к разгадке загадок гидродинамики](https://habr.com/ru/companies/bothub/news/948648/?utm_campaign=948648&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek обошёл OpenAI и Google: компания влила в R1 294 тысячи долларов](https://habr.com/ru/companies/bothub/news/948688/?utm_campaign=948688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
