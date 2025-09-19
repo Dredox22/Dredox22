@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда Magistral представила обновлённые версии своих моделей](https://habr.com/ru/companies/bothub/news/948704/?utm_campaign=948704&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI рассказала, как ChatGPT обманывает пользователей](https://habr.com/ru/companies/bothub/news/948730/?utm_campaign=948730&utm_source=habrahabr&utm_medium=rss)
 - [DeepMind использовал ИИ, чтобы приблизиться к разгадке загадок гидродинамики](https://habr.com/ru/companies/bothub/news/948648/?utm_campaign=948648&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek обошёл OpenAI и Google: компания влила в R1 294 тысячи долларов](https://habr.com/ru/companies/bothub/news/948688/?utm_campaign=948688&utm_source=habrahabr&utm_medium=rss)
 - [Ayaneo представила недорогую портативную Android-консоль Pocket Air Mini для запуска ретро-игр](https://habr.com/ru/news/948682/?utm_campaign=948682&utm_source=habrahabr&utm_medium=rss)
-- [PDF ожил: Stanford превратил научные статьи в говорящих AI-ассистентов](https://habr.com/ru/companies/bothub/news/948668/?utm_campaign=948668&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи нашли утечки памяти в приложениях «Калькулятор» и «Сообщения» в macOS 26](https://habr.com/ru/news/948658/?utm_campaign=948658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
