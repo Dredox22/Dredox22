@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН предложил ограничивать аккаунты в мессенджерах для SIM-карт в роуминге](https://habr.com/ru/news/948528/?utm_campaign=948528&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft Entra ID выявили уязвимость для доступа практически ко всем учётным записям Azure](https://habr.com/ru/news/948522/?utm_campaign=948522&utm_source=habrahabr&utm_medium=rss)
 - [Huawei анонсировала новую ИИ-инфраструктуру в связи с закрытием доступа Nvidia в Китай](https://habr.com/ru/news/948514/?utm_campaign=948514&utm_source=habrahabr&utm_medium=rss)
 - [Сайт петербургского аэропорта «Пулково» взломали](https://habr.com/ru/news/948504/?utm_campaign=948504&utm_source=habrahabr&utm_medium=rss)
 - [Вышла тестовая версия Ubuntu 25.10 &lpar;Questing Quokka&rpar; Beta](https://habr.com/ru/news/948486/?utm_campaign=948486&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek: обучение модели R1 обошлось всего в $294 тысяч](https://habr.com/ru/news/948460/?utm_campaign=948460&utm_source=habrahabr&utm_medium=rss)
-- [Злой двойник: мошенники разработали новую схему атак на семьи участников СВО](https://habr.com/ru/companies/F6/news/947392/?utm_campaign=947392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
