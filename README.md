@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DALL·E опять накосячил: почему восемь превращаются в шесть](https://habr.com/ru/news/948744/?utm_campaign=948744&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Trayy 2.0 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/948702/?utm_campaign=948702&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FileZilla Server 1.11.1](https://habr.com/ru/news/948720/?utm_campaign=948720&utm_source=habrahabr&utm_medium=rss)
 - [В приложении «Яндекс Go» теперь есть панорамы улиц — таксисты и пассажиры смогут быстрее находить друг друга](https://habr.com/ru/news/948798/?utm_campaign=948798&utm_source=habrahabr&utm_medium=rss)
 - [Grok 4 и GPT-5 стали лучшими в финансовом бенчмарке. Но люди пока впереди](https://habr.com/ru/news/948782/?utm_campaign=948782&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи создали шестерни, движимые светом, способные уместиться внутри человеческого волоса](https://habr.com/ru/news/948764/?utm_campaign=948764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
