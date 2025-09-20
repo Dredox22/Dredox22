@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Baba Yaga Games анонсировала игру «Чёртова служба»](https://habr.com/ru/news/948700/?utm_campaign=948700&utm_source=habrahabr&utm_medium=rss)
 - [xAI выпустила Grok 4 Fast: бесплатная модель с контекстом до 2M токенов](https://habr.com/ru/news/948828/?utm_campaign=948828&utm_source=habrahabr&utm_medium=rss)
 - [PWA-проект maxerror стал Open Source, там добавлена поддержка нерабочего Max на Android и улучшен интерфейс](https://habr.com/ru/news/948820/?utm_campaign=948820&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Trayy 2.0 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/948702/?utm_campaign=948702&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FileZilla Server 1.11.1](https://habr.com/ru/news/948720/?utm_campaign=948720&utm_source=habrahabr&utm_medium=rss)
-- [В приложении «Яндекс Go» теперь есть панорамы улиц — таксисты и пассажиры смогут быстрее находить друг друга](https://habr.com/ru/news/948798/?utm_campaign=948798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
