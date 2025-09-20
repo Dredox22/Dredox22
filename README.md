@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 появилась ещё одна кнопка Copilot](https://habr.com/ru/news/948924/?utm_campaign=948924&utm_source=habrahabr&utm_medium=rss)
 - [Valve прекратит поддержку клиентов Steam на 32-разрядных Windows с 1 января 2026 года](https://habr.com/ru/news/948374/?utm_campaign=948374&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: DeepSeek снижает качество кода для пользователей из Тайваня и Тибета](https://habr.com/ru/news/948886/?utm_campaign=948886&utm_source=habrahabr&utm_medium=rss)
 - [Baba Yaga Games анонсировала игру «Чёртова служба»](https://habr.com/ru/news/948700/?utm_campaign=948700&utm_source=habrahabr&utm_medium=rss)
 - [xAI выпустила Grok 4 Fast: бесплатная модель с контекстом до 2M токенов](https://habr.com/ru/news/948828/?utm_campaign=948828&utm_source=habrahabr&utm_medium=rss)
-- [PWA-проект maxerror вышел на GitHub, там добавлена поддержка нерабочего Max на Android и улучшен интерфейс](https://habr.com/ru/news/948820/?utm_campaign=948820&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
