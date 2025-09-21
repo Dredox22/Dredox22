@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты ТГУ создали композит толщиной 3 мм, способный поглощать 90% мощности электромагнитного излучения](https://habr.com/ru/news/949138/?utm_campaign=949138&utm_source=habrahabr&utm_medium=rss)
 - [Ученые МАИ разработали имитатор электроракетных двигателей спутников](https://habr.com/ru/news/949104/?utm_campaign=949104&utm_source=habrahabr&utm_medium=rss)
 - [«Сферум» запустил новый бесплатный обучающий онлайн‑курс для педагогов по работе в мессенджере Max](https://habr.com/ru/news/949074/?utm_campaign=949074&utm_source=habrahabr&utm_medium=rss)
 - [«Сайберия Нова» выпустила в свободный доступ демо‑версию игры «Земской собор»](https://habr.com/ru/news/949060/?utm_campaign=949060&utm_source=habrahabr&utm_medium=rss)
 - [xAI назначила 20-летнего студента главой команды аннотации данных](https://habr.com/ru/news/949038/?utm_campaign=949038&utm_source=habrahabr&utm_medium=rss)
-- [Google приостановила работу ИИ-функции «Помощь с домашними заданиями»](https://habr.com/ru/news/949034/?utm_campaign=949034&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
