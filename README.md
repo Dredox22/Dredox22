@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск открытого музыкального проигрывателя Audacious 4.5.1](https://habr.com/ru/news/948900/?utm_campaign=948900&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Multikernel для одновременного выполнения нескольких ядер Linux](https://habr.com/ru/news/948914/?utm_campaign=948914&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba выпустила видео-ИИ Wan 2.2 Animate: анимация по одному фото и замена лица](https://habr.com/ru/news/948936/?utm_campaign=948936&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появилась ещё одна кнопка Copilot](https://habr.com/ru/news/948924/?utm_campaign=948924&utm_source=habrahabr&utm_medium=rss)
 - [Valve прекратит поддержку клиентов Steam на 32-разрядных Windows с 1 января 2026 года](https://habr.com/ru/news/948374/?utm_campaign=948374&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: DeepSeek снижает качество кода для пользователей из Тайваня и Тибета](https://habr.com/ru/news/948886/?utm_campaign=948886&utm_source=habrahabr&utm_medium=rss)
-- [Baba Yaga Games анонсировала игру «Чёртова служба»](https://habr.com/ru/news/948700/?utm_campaign=948700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
