@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Olee Watch выпустила модуль для старых часов Casio, который позволяет быстро превратить их в фитнес-браслет](https://habr.com/ru/news/948994/?utm_campaign=948994&utm_source=habrahabr&utm_medium=rss)
+- [Google приостановила работу ИИ-функции «Помощь с домашними заданиями»](https://habr.com/ru/news/949034/?utm_campaign=949034&utm_source=habrahabr&utm_medium=rss)
+- [В библиотеках США начали запрашивать несуществующие созданные ИИ книги](https://habr.com/ru/news/949030/?utm_campaign=949030&utm_source=habrahabr&utm_medium=rss)
+- [Ollee Watch выпустила модуль для старых часов Casio, который позволяет быстро превратить их в фитнес-браслет](https://habr.com/ru/news/948994/?utm_campaign=948994&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого музыкального проигрывателя Audacious 4.5.1](https://habr.com/ru/news/948900/?utm_campaign=948900&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Multikernel для одновременного выполнения нескольких ядер Linux](https://habr.com/ru/news/948914/?utm_campaign=948914&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выпустила видео-ИИ Wan 2.2 Animate: анимация по одному фото и замена лица](https://habr.com/ru/news/948936/?utm_campaign=948936&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появилась ещё одна кнопка Copilot](https://habr.com/ru/news/948924/?utm_campaign=948924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
