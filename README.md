@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел мультиформатный многофункциональный открытый видеоконвертер Videomass 6.1.20](https://habr.com/ru/news/949092/?utm_campaign=949092&utm_source=habrahabr&utm_medium=rss)
+- [Начато производство Linux-смартфона FLX1s с ОС FuriOS на базе Debian и с оболочкой на базе GNOME](https://habr.com/ru/news/949046/?utm_campaign=949046&utm_source=habrahabr&utm_medium=rss)
 - [В ИХТЦ ТГУ начат выпуск отечественного дигидрата тартрата натрия](https://habr.com/ru/news/949140/?utm_campaign=949140&utm_source=habrahabr&utm_medium=rss)
 - [Специалисты ТГУ создали композит толщиной 3 мм, способный поглощать 90% мощности электромагнитного излучения](https://habr.com/ru/news/949138/?utm_campaign=949138&utm_source=habrahabr&utm_medium=rss)
 - [Ученые МАИ разработали имитатор электроракетных двигателей спутников](https://habr.com/ru/news/949104/?utm_campaign=949104&utm_source=habrahabr&utm_medium=rss)
-- [«Сферум» запустил новый бесплатный обучающий онлайн‑курс для педагогов по работе в мессенджере Max](https://habr.com/ru/news/949074/?utm_campaign=949074&utm_source=habrahabr&utm_medium=rss)
-- [«Сайберия Нова» выпустила в свободный доступ демо‑версию игры «Земской собор»](https://habr.com/ru/news/949060/?utm_campaign=949060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
