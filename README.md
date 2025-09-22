@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Силиконовая долина готовит ИИ к жизни в реальном мире](https://habr.com/ru/companies/bothub/news/949222/?utm_campaign=949222&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз игрового движка Godot 4.5](https://habr.com/ru/news/949214/?utm_campaign=949214&utm_source=habrahabr&utm_medium=rss)
+- [Идëт набор во вторую волну отдельного трека Sber500 с GigaChat](https://habr.com/ru/companies/sberbank/news/948558/?utm_campaign=948558&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ ужесточает контроль за наличными: новые методические рекомендации для банков](https://habr.com/ru/news/948628/?utm_campaign=948628&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Nvidia: электрики, сантехники и плотники — главные профессии ближайшего будущего для развития ИИ-технологий](https://habr.com/ru/news/949194/?utm_campaign=949194&utm_source=habrahabr&utm_medium=rss)
-- [xAI Маска оценили в $200 млрд](https://habr.com/ru/companies/bothub/news/949190/?utm_campaign=949190&utm_source=habrahabr&utm_medium=rss)
-- [Сайт петербургского аэропорта «Пулково» стал доступен спустя 36 часов после взлома](https://habr.com/ru/news/949188/?utm_campaign=949188&utm_source=habrahabr&utm_medium=rss)
-- [Вышел мультиформатный многофункциональный открытый видеоконвертер Videomass 6.1.20](https://habr.com/ru/news/949092/?utm_campaign=949092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
