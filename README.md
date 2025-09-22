@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI запускает Colossus 2: суперкомпьютер Илона Маска меняет правила в мире AI](https://habr.com/ru/companies/bothub/news/949448/?utm_campaign=949448&utm_source=habrahabr&utm_medium=rss)
+- [Google ужесточает правила безопасности ИИ: манипуляции людьми — под особым запретом](https://habr.com/ru/news/949440/?utm_campaign=949440&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek анонсировал новую версию своей модели — V3.1-Terminus](https://habr.com/ru/companies/bothub/news/949424/?utm_campaign=949424&utm_source=habrahabr&utm_medium=rss)
 - [В сервис Cloud Containers от VK Cloud добавлена поддержка NVMe-дисков](https://habr.com/ru/companies/vktech/news/949418/?utm_campaign=949418&utm_source=habrahabr&utm_medium=rss)
 - [Вышли новые версии Qwen3-Next-80B в FP8 формате](https://habr.com/ru/companies/bothub/news/949408/?utm_campaign=949408&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft завершает строительство дата-центра Fairwater AI в Маунт-Плезант, штат Висконсин](https://habr.com/ru/news/949398/?utm_campaign=949398&utm_source=habrahabr&utm_medium=rss)
-- [«РТК-ЦОД» открыл новую площадку для R&amp;amp;D лаборатории на базе московского дата-центра «Медведково»](https://habr.com/ru/news/949348/?utm_campaign=949348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
