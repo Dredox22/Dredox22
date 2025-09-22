@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На «Киберарене» в рамках GIS DAYS команды атакующих и защитников поборются за 5 млн рублей](https://habr.com/ru/companies/gaz-is/news/949316/?utm_campaign=949316&utm_source=habrahabr&utm_medium=rss)
+- [Сотни пользователей лишились криптовалюты после загрузки из Steam проверенной игры](https://habr.com/ru/news/949310/?utm_campaign=949310&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft признала, что обновления KB5065426 и KB5064081 для Windows 11 нарушают воспроизведение видео с DRM/HDCP](https://habr.com/ru/news/949308/?utm_campaign=949308&utm_source=habrahabr&utm_medium=rss)
+- [MediaTek представила однокристальную платформу Dimensity 9500](https://habr.com/ru/news/949304/?utm_campaign=949304&utm_source=habrahabr&utm_medium=rss)
 - [Передовые ИИ закрывают меньше четверти задач в программировании — исследование](https://habr.com/ru/news/949298/?utm_campaign=949298&utm_source=habrahabr&utm_medium=rss)
-- [Тонкий iPhone Air прочнее, чем кажется: блогер проверил устойчивость смартфона к повреждениям](https://habr.com/ru/news/949272/?utm_campaign=949272&utm_source=habrahabr&utm_medium=rss)
-- [Банки попросили Минцифры разрешить им холодные звонки без согласия клиентов](https://habr.com/ru/news/949266/?utm_campaign=949266&utm_source=habrahabr&utm_medium=rss)
-- [Трамп анонсировал сделку с TikTok: кто стоит за спасением приложения?](https://habr.com/ru/companies/bothub/news/949264/?utm_campaign=949264&utm_source=habrahabr&utm_medium=rss)
-- [Ссылки для загрузки ISO-образов Windows 11 25H2 стали доступны до официального релиза](https://habr.com/ru/news/949230/?utm_campaign=949230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
