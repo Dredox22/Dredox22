@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Силиконовая долина готовит ИИ к жизни в реальном мире](https://habr.com/ru/companies/bothub/news/949222/?utm_campaign=949222&utm_source=habrahabr&utm_medium=rss)
+- [Трамп анонсировал сделку с TikTok: кто стоит за спасением приложения?](https://habr.com/ru/companies/bothub/news/949264/?utm_campaign=949264&utm_source=habrahabr&utm_medium=rss)
+- [COIN: как маршрутизаторы готовятся отжать бизнес у облака](https://habr.com/ru/news/948690/?utm_campaign=948690&utm_source=habrahabr&utm_medium=rss)
+- [Ссылки для загрузки ISO-образов Windows 11 25H2 стали доступны до официального релиза](https://habr.com/ru/news/949230/?utm_campaign=949230&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз игрового движка Godot 4.5](https://habr.com/ru/news/949214/?utm_campaign=949214&utm_source=habrahabr&utm_medium=rss)
 - [Идëт набор во вторую волну отдельного трека Sber500 с GigaChat](https://habr.com/ru/companies/sberbank/news/948558/?utm_campaign=948558&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ ужесточает контроль за наличными: новые методические рекомендации для банков](https://habr.com/ru/news/948628/?utm_campaign=948628&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Nvidia: электрики, сантехники и плотники — главные профессии ближайшего будущего для развития ИИ-технологий](https://habr.com/ru/news/949194/?utm_campaign=949194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
