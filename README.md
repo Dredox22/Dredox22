@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В PIRG призвали Microsoft продолжить поддержку Windows 10](https://habr.com/ru/news/949284/?utm_campaign=949284&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT появятся функции за дополнительную плату](https://habr.com/ru/news/949530/?utm_campaign=949530&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia вложит в OpenAI до $100 млрд. Деньги пойдут на рекордную ИИ-инфраструктуру](https://habr.com/ru/news/949524/?utm_campaign=949524&utm_source=habrahabr&utm_medium=rss)
 - [700 студентов изучили прикладную разработку на платформе SourceCraft](https://habr.com/ru/news/949520/?utm_campaign=949520&utm_source=habrahabr&utm_medium=rss)
 - [Когда код зависит от политики: скандальное открытие о DeepSeek](https://habr.com/ru/companies/bothub/news/949506/?utm_campaign=949506&utm_source=habrahabr&utm_medium=rss)
-- [Тезисы из интервью с главой РКН Андреем Липовым: о Max, Telegram, блокировках и не только](https://habr.com/ru/news/949478/?utm_campaign=949478&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая китайская модель LongCat-Flash-Thinking](https://habr.com/ru/companies/bothub/news/949474/?utm_campaign=949474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
