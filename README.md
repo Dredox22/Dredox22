@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [xAI запускает Colossus 2: суперкомпьютер Илона Маска меняет правила в мире AI](https://habr.com/ru/companies/bothub/news/949448/?utm_campaign=949448&utm_source=habrahabr&utm_medium=rss)
-- [Google ужесточает правила безопасности ИИ: манипуляции людьми — под особым запретом](https://habr.com/ru/news/949440/?utm_campaign=949440&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek анонсировал новую версию своей модели — V3.1-Terminus](https://habr.com/ru/companies/bothub/news/949424/?utm_campaign=949424&utm_source=habrahabr&utm_medium=rss)
-- [В сервис Cloud Containers от VK Cloud добавлена поддержка NVMe-дисков](https://habr.com/ru/companies/vktech/news/949418/?utm_campaign=949418&utm_source=habrahabr&utm_medium=rss)
-- [Вышли новые версии Qwen3-Next-80B в FP8 формате](https://habr.com/ru/companies/bothub/news/949408/?utm_campaign=949408&utm_source=habrahabr&utm_medium=rss)
+- [Тезисы из интервью с главой РКН Андреем Липовым: о Max, Telegram, блокировках и не только](https://habr.com/ru/news/949478/?utm_campaign=949478&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая китайская модель LongCat-Flash-Thinking](https://habr.com/ru/companies/bothub/news/949474/?utm_campaign=949474&utm_source=habrahabr&utm_medium=rss)
+- [«Онланта» и Makves проведут вебинар о защите FMCG-бизнеса от киберугроз](https://habr.com/ru/companies/lanit/news/949434/?utm_campaign=949434&utm_source=habrahabr&utm_medium=rss)
+- [Gmail под угрозой: ChatGPT мог тайно сливать ваши письма](https://habr.com/ru/companies/bothub/news/949464/?utm_campaign=949464&utm_source=habrahabr&utm_medium=rss)
+- [Стартовала регистрация на SOC Forum 2025](https://habr.com/ru/news/949462/?utm_campaign=949462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
