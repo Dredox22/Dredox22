@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«РТК-ЦОД» открыл новую площадку для R&amp;amp;D лаборатории на базе московского дата-центра «Медведково»](https://habr.com/ru/news/949348/?utm_campaign=949348&utm_source=habrahabr&utm_medium=rss)
+- [«Байкал Электроникс» представил новый микроконтроллер Baikal‑U на архитектуре RISC‑V с российскими ядрами CloudBEAR](https://habr.com/ru/news/949346/?utm_campaign=949346&utm_source=habrahabr&utm_medium=rss)
+- [В iFixit разобрали iPhone Air](https://habr.com/ru/news/949342/?utm_campaign=949342&utm_source=habrahabr&utm_medium=rss)
 - [На «Киберарене» в рамках GIS DAYS команды атакующих и защитников поборются за 5 млн рублей](https://habr.com/ru/companies/gaz-is/news/949316/?utm_campaign=949316&utm_source=habrahabr&utm_medium=rss)
 - [Сотни пользователей лишились криптовалюты после загрузки из Steam проверенной игры](https://habr.com/ru/news/949310/?utm_campaign=949310&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft признала, что обновления KB5065426 и KB5064081 для Windows 11 нарушают воспроизведение видео с DRM/HDCP](https://habr.com/ru/news/949308/?utm_campaign=949308&utm_source=habrahabr&utm_medium=rss)
-- [MediaTek представила однокристальную платформу Dimensity 9500](https://habr.com/ru/news/949304/?utm_campaign=949304&utm_source=habrahabr&utm_medium=rss)
-- [Передовые ИИ закрывают меньше четверти задач в программировании — исследование](https://habr.com/ru/news/949298/?utm_campaign=949298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
