@@ -85,8 +85,8 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Банки попросили Минцифры разрешить им холодные звонки без согласия клиентов](https://habr.com/ru/news/949266/?utm_campaign=949266&utm_source=habrahabr&utm_medium=rss)
 - [Трамп анонсировал сделку с TikTok: кто стоит за спасением приложения?](https://habr.com/ru/companies/bothub/news/949264/?utm_campaign=949264&utm_source=habrahabr&utm_medium=rss)
-- [COIN: как маршрутизаторы готовятся отжать бизнес у облака](https://habr.com/ru/news/948690/?utm_campaign=948690&utm_source=habrahabr&utm_medium=rss)
 - [Ссылки для загрузки ISO-образов Windows 11 25H2 стали доступны до официального релиза](https://habr.com/ru/news/949230/?utm_campaign=949230&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз игрового движка Godot 4.5](https://habr.com/ru/news/949214/?utm_campaign=949214&utm_source=habrahabr&utm_medium=rss)
 - [Идëт набор во вторую волну отдельного трека Sber500 с GigaChat](https://habr.com/ru/companies/sberbank/news/948558/?utm_campaign=948558&utm_source=habrahabr&utm_medium=rss)
