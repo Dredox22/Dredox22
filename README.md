@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi выпустила компактную версию платы M.2 Hat+](https://habr.com/ru/news/949586/?utm_campaign=949586&utm_source=habrahabr&utm_medium=rss)
-- [Email защищали с 90-х, но заголовки оставались голыми. Теперь это исправили](https://habr.com/ru/news/948716/?utm_campaign=948716&utm_source=habrahabr&utm_medium=rss)
-- [Релиз пакетного менеджера RPM 6.0 c поддержкой архитектуры «Эльбрус» &lpar;e2k&rpar;](https://habr.com/ru/news/949508/?utm_campaign=949508&utm_source=habrahabr&utm_medium=rss)
-- [Представлен выпуск СУБД DuckDB 1.4.0](https://habr.com/ru/news/949512/?utm_campaign=949512&utm_source=habrahabr&utm_medium=rss)
-- [В PIRG призвали Microsoft продолжить поддержку Windows 10](https://habr.com/ru/news/949284/?utm_campaign=949284&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: британские банки используют программное обеспечение 60–70-е гг](https://habr.com/ru/news/949654/?utm_campaign=949654&utm_source=habrahabr&utm_medium=rss)
+- [K2 Cloud проверит безопасность своих облачных сервисов на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/949664/?utm_campaign=949664&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Qwen3-Omni: изначально омни-модальная базовая модель](https://habr.com/ru/news/949660/?utm_campaign=949660&utm_source=habrahabr&utm_medium=rss)
+- [ГК InfoWatch анонсирует новые возможности Центра расследований](https://habr.com/ru/companies/infowatch/news/949652/?utm_campaign=949652&utm_source=habrahabr&utm_medium=rss)
+- [В Google DeepMind будут бороться с «неудержимым» ИИ](https://habr.com/ru/news/949632/?utm_campaign=949632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
