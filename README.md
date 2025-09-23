@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследование: британские банки используют программное обеспечение 60–70-е гг](https://habr.com/ru/news/949654/?utm_campaign=949654&utm_source=habrahabr&utm_medium=rss)
+- [Эпопея с TikTok: как американские гиганты делят популярное приложение, и почему алгоритм — уже не проблема](https://habr.com/ru/companies/finam_broker/news/949696/?utm_campaign=949696&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем школьников на Mobile GameDev Bootcamp 2025](https://habr.com/ru/companies/samsung/news/949674/?utm_campaign=949674&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: британские банки используют программное обеспечение 60–70-х гг](https://habr.com/ru/news/949654/?utm_campaign=949654&utm_source=habrahabr&utm_medium=rss)
 - [K2 Cloud проверит безопасность своих облачных сервисов на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/949664/?utm_campaign=949664&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Qwen3-Omni: изначально омни-модальная базовая модель](https://habr.com/ru/news/949660/?utm_campaign=949660&utm_source=habrahabr&utm_medium=rss)
-- [ГК InfoWatch анонсирует новые возможности Центра расследований](https://habr.com/ru/companies/infowatch/news/949652/?utm_campaign=949652&utm_source=habrahabr&utm_medium=rss)
-- [В Google DeepMind будут бороться с «неудержимым» ИИ](https://habr.com/ru/news/949632/?utm_campaign=949632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
