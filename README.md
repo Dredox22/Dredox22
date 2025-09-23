@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз пакетного менеджера RPM 6.0 c поддержкой архитектуры «Эльбрус» &lpar;e2k&rpar;](https://habr.com/ru/news/949508/?utm_campaign=949508&utm_source=habrahabr&utm_medium=rss)
+- [Представлен выпуск СУБД DuckDB 1.4.0](https://habr.com/ru/news/949512/?utm_campaign=949512&utm_source=habrahabr&utm_medium=rss)
 - [В PIRG призвали Microsoft продолжить поддержку Windows 10](https://habr.com/ru/news/949284/?utm_campaign=949284&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появятся функции за дополнительную плату](https://habr.com/ru/news/949530/?utm_campaign=949530&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia вложит в OpenAI до $100 млрд. Деньги пойдут на рекордную ИИ-инфраструктуру](https://habr.com/ru/news/949524/?utm_campaign=949524&utm_source=habrahabr&utm_medium=rss)
-- [700 студентов изучили прикладную разработку на платформе SourceCraft](https://habr.com/ru/news/949520/?utm_campaign=949520&utm_source=habrahabr&utm_medium=rss)
-- [Когда код зависит от политики: скандальное открытие о DeepSeek](https://habr.com/ru/companies/bothub/news/949506/?utm_campaign=949506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
