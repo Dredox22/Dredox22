@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «От подходов к практике: безопасная разработка для АСУ ТП на примере разработки SCADA»](https://habr.com/ru/companies/ussc/news/949730/?utm_campaign=949730&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia инвестирует в OpenAI $100 млрд: старт крупнейшего AI-партнёрства в истории](https://habr.com/ru/companies/bothub/news/949724/?utm_campaign=949724&utm_source=habrahabr&utm_medium=rss)
 - [Эпопея с TikTok: как американские гиганты делят популярное приложение, и почему алгоритм — уже не проблема](https://habr.com/ru/companies/finam_broker/news/949696/?utm_campaign=949696&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем школьников на Mobile GameDev Bootcamp 2025](https://habr.com/ru/companies/samsung/news/949674/?utm_campaign=949674&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: британские банки используют программное обеспечение 60–70-х гг](https://habr.com/ru/news/949654/?utm_campaign=949654&utm_source=habrahabr&utm_medium=rss)
-- [K2 Cloud проверит безопасность своих облачных сервисов на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/949664/?utm_campaign=949664&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Qwen3-Omni: изначально омни-модальная базовая модель](https://habr.com/ru/news/949660/?utm_campaign=949660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
