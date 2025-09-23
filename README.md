@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар «От подходов к практике: безопасная разработка для АСУ ТП на примере разработки SCADA»](https://habr.com/ru/companies/ussc/news/949730/?utm_campaign=949730&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia инвестирует в OpenAI $100 млрд: старт крупнейшего AI-партнёрства в истории](https://habr.com/ru/companies/bothub/news/949724/?utm_campaign=949724&utm_source=habrahabr&utm_medium=rss)
-- [Эпопея с TikTok: как американские гиганты делят популярное приложение, и почему алгоритм — уже не проблема](https://habr.com/ru/companies/finam_broker/news/949696/?utm_campaign=949696&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем школьников на Mobile GameDev Bootcamp 2025](https://habr.com/ru/companies/samsung/news/949674/?utm_campaign=949674&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: британские банки используют программное обеспечение 60–70-х гг](https://habr.com/ru/news/949654/?utm_campaign=949654&utm_source=habrahabr&utm_medium=rss)
+- [Qwen запустила Qwen3-TTS-Flash: ИИ-голос в реальном времени](https://habr.com/ru/companies/bothub/news/949760/?utm_campaign=949760&utm_source=habrahabr&utm_medium=rss)
+- [Хабр приглашает на курс-переписку для не-IT брендов о том, как продвигаться на площадке](https://habr.com/ru/news/949756/?utm_campaign=949756&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI переманивает инженеров Apple ради собственного «железа»](https://habr.com/ru/companies/bothub/news/949752/?utm_campaign=949752&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть Алиса будет доступна в Max и Telegram](https://habr.com/ru/news/949750/?utm_campaign=949750&utm_source=habrahabr&utm_medium=rss)
+- [Блогер испытал на прочность iPhone 17 Pro](https://habr.com/ru/news/949732/?utm_campaign=949732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
