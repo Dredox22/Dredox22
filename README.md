@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung планирует отказываться от синхронизации с Microsoft OneDrive на смартфонах Galaxy](https://habr.com/ru/news/949888/?utm_campaign=949888&utm_source=habrahabr&utm_medium=rss)
+- [Бизнес оценил расходы операторов связи на ГИС «Антифрод»](https://habr.com/ru/news/949878/?utm_campaign=949878&utm_source=habrahabr&utm_medium=rss)
+- [Huawei планирует догнать Nvidia за 3 года](https://habr.com/ru/companies/bothub/news/949790/?utm_campaign=949790&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft вновь напомнила об окончании поддержки Windows 10](https://habr.com/ru/news/949866/?utm_campaign=949866&utm_source=habrahabr&utm_medium=rss)
 - [Анонсирован OpenAPI v3.2: что нового в спецификации API](https://habr.com/ru/news/949864/?utm_campaign=949864&utm_source=habrahabr&utm_medium=rss)
-- [LinkedIn готовится начать обучение своего ИИ на профилях пользователей](https://habr.com/ru/news/949854/?utm_campaign=949854&utm_source=habrahabr&utm_medium=rss)
-- [ИИ и робототехника против рака: платформа TuNa-AI меняет фарму](https://habr.com/ru/companies/bothub/news/949782/?utm_campaign=949782&utm_source=habrahabr&utm_medium=rss)
-- [Notion объявил о крупнейшем обновлении за всю историю — Notion 3.0](https://habr.com/ru/news/949848/?utm_campaign=949848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
