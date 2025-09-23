@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Qwen-Image-Edit-2509: китайский убийца Nano Banana](https://habr.com/ru/companies/bothub/news/949802/?utm_campaign=949802&utm_source=habrahabr&utm_medium=rss)
-- [Лекарство от рака и бесплатное образование: глава OpenAI рассказал, на что пойдут $100 млрд](https://habr.com/ru/news/949814/?utm_campaign=949814&utm_source=habrahabr&utm_medium=rss)
-- [Qwen запустила Qwen3-TTS-Flash: ИИ-голос в реальном времени](https://habr.com/ru/companies/bothub/news/949760/?utm_campaign=949760&utm_source=habrahabr&utm_medium=rss)
-- [Хабр приглашает на курс-переписку для не-IT брендов о том, как продвигаться на площадке](https://habr.com/ru/news/949756/?utm_campaign=949756&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI переманивает инженеров Apple ради собственного «железа»](https://habr.com/ru/companies/bothub/news/949752/?utm_campaign=949752&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft вновь напомнила об окончании поддержки Windows 10](https://habr.com/ru/news/949866/?utm_campaign=949866&utm_source=habrahabr&utm_medium=rss)
+- [Анонсирован OpenAPI v3.2: что нового в спецификации API](https://habr.com/ru/news/949864/?utm_campaign=949864&utm_source=habrahabr&utm_medium=rss)
+- [LinkedIn готовится начать обучение своего ИИ на профилях пользователей](https://habr.com/ru/news/949854/?utm_campaign=949854&utm_source=habrahabr&utm_medium=rss)
+- [ИИ и робототехника против рака: платформа TuNa-AI меняет фарму](https://habr.com/ru/companies/bothub/news/949782/?utm_campaign=949782&utm_source=habrahabr&utm_medium=rss)
+- [Notion объявил о крупнейшем обновлении за всю историю — Notion 3.0](https://habr.com/ru/news/949848/?utm_campaign=949848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
