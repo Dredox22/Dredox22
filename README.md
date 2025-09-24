@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартовал приём заявок на ежегодную IT‑премию «Цифровые решения»](https://habr.com/ru/news/950290/?utm_campaign=950290&utm_source=habrahabr&utm_medium=rss)
+- [Google Research предлагает новый подход к временным рядам](https://habr.com/ru/companies/bothub/news/950200/?utm_campaign=950200&utm_source=habrahabr&utm_medium=rss)
+- [В Allstate Protection Plans протестировали iPhone Air и iPhone 17 Pro на устойчивость к изгибам и падениям](https://habr.com/ru/news/950286/?utm_campaign=950286&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-генератор игр: новый инструмент от Epic Games](https://habr.com/ru/companies/cloud4y/news/950276/?utm_campaign=950276&utm_source=habrahabr&utm_medium=rss)
 - [GitHub запустил публичное превью GPT-5-Codex для Copilot](https://habr.com/ru/companies/bothub/news/950264/?utm_campaign=950264&utm_source=habrahabr&utm_medium=rss)
-- [В Yandex Cloud появилась возможность делать AI-агентов без написания кода](https://habr.com/ru/companies/bothub/news/950258/?utm_campaign=950258&utm_source=habrahabr&utm_medium=rss)
-- [Хороший у тебя АИПлан, забористый](https://habr.com/ru/news/950094/?utm_campaign=950094&utm_source=habrahabr&utm_medium=rss)
-- [RuStore и АКИ запускают акселератор для разработчиков мобильных игр](https://habr.com/ru/news/950232/?utm_campaign=950232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
