@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RuStore и АКИ запускают акселератор для разработчиков мобильных игр](https://habr.com/ru/news/950232/?utm_campaign=950232&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» провёл масштабную конференцию Yandex Neuro Scale. Что нужно знать?](https://habr.com/ru/companies/bothub/news/950228/?utm_campaign=950228&utm_source=habrahabr&utm_medium=rss)
+- [MIT, OpenAI и Sakana AI запустили проект ASAL — автоматический поиск «искусственной жизни»](https://habr.com/ru/companies/bothub/news/950216/?utm_campaign=950216&utm_source=habrahabr&utm_medium=rss)
+- [Главный онлайн-кэмп по практической кибербезопасности CyberCamp 2025 раскрыл детали киберучений](https://habr.com/ru/companies/jetinfosystems/news/950202/?utm_campaign=950202&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba представила флагманскую модель Qwen3-Max с триллионом параметров](https://habr.com/ru/companies/bothub/news/950190/?utm_campaign=950190&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba открыла исходный код Qwen3-VL](https://habr.com/ru/companies/bothub/news/950186/?utm_campaign=950186&utm_source=habrahabr&utm_medium=rss)
-- [Сборки эмулятора PlayStation 3 RPCS3 для Windows возвращаются благодаря исправлению компилятора Microsoft MSVC](https://habr.com/ru/news/950184/?utm_campaign=950184&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Почему Service Desk и управление проектами — короткий путь к системной безопасности?»](https://habr.com/ru/companies/itarena/news/950148/?utm_campaign=950148&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft объяснили, почему WinHelp в Windows 3.0 называли «онлайн-справкой», хотя она работала офлайн](https://habr.com/ru/news/950102/?utm_campaign=950102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
