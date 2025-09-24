@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильные приложения для вайб-кодинга оказались не особо востребованными](https://habr.com/ru/news/950056/?utm_campaign=950056&utm_source=habrahabr&utm_medium=rss)
+- [Обновления Yandex Cloud: конструктор ИИ-агентов, AI-ассистенты, SourceCraft и новая зона доступности](https://habr.com/ru/news/950068/?utm_campaign=950068&utm_source=habrahabr&utm_medium=rss)
 - [PGConf.СПб 2025: главная конференция по PostgreSQL в Санкт-Петербурге](https://habr.com/ru/companies/postgrespro/news/950074/?utm_campaign=950074&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba представила Qwen-3-Max. Еще более мощная версия на подходе](https://habr.com/ru/news/950058/?utm_campaign=950058&utm_source=habrahabr&utm_medium=rss)
 - [Fix Price реализовал проект автоматизации оформления командировок](https://habr.com/ru/companies/fix_price/news/950054/?utm_campaign=950054&utm_source=habrahabr&utm_medium=rss)
-- [Сплошные плюсы. Клуб С++ разработчиков. Третья встреча](https://habr.com/ru/companies/pvs-studio/news/950052/?utm_campaign=950052&utm_source=habrahabr&utm_medium=rss)
-- [Linux под защитой: F6 представила EDR 3.0 с поддержкой отечественных ОС](https://habr.com/ru/companies/F6/news/949798/?utm_campaign=949798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
