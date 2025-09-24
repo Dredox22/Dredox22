@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK Weekend Offer: получите офер за три шага](https://habr.com/ru/companies/vk/news/950116/?utm_campaign=950116&utm_source=habrahabr&utm_medium=rss)
+- [Зачем нам Gradle 9, чем хорош Postgres 18 и секреты хорошего доклада | Spring АйО Подкаст №36](https://habr.com/ru/companies/spring_aio/news/950112/?utm_campaign=950112&utm_source=habrahabr&utm_medium=rss)
+- [Что случилось с npm, UUIDv7 в PostgreSQL, зачем нам Maven 4 | Spring АйО Подкаст №35](https://habr.com/ru/companies/spring_aio/news/950106/?utm_campaign=950106&utm_source=habrahabr&utm_medium=rss)
 - [Мобильные приложения для вайб-кодинга оказались не особо востребованными](https://habr.com/ru/news/950056/?utm_campaign=950056&utm_source=habrahabr&utm_medium=rss)
 - [Обновления Yandex Cloud: конструктор ИИ-агентов, AI-ассистенты, SourceCraft и новая зона доступности](https://habr.com/ru/news/950068/?utm_campaign=950068&utm_source=habrahabr&utm_medium=rss)
-- [PGConf.СПб 2025: главная конференция по PostgreSQL в Санкт-Петербурге](https://habr.com/ru/companies/postgrespro/news/950074/?utm_campaign=950074&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba представила Qwen-3-Max. Еще более мощная версия на подходе](https://habr.com/ru/news/950058/?utm_campaign=950058&utm_source=habrahabr&utm_medium=rss)
-- [Fix Price реализовал проект автоматизации оформления командировок](https://habr.com/ru/companies/fix_price/news/950054/?utm_campaign=950054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
