@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-генератор игр: новый инструмент от Epic Games](https://habr.com/ru/companies/cloud4y/news/950276/?utm_campaign=950276&utm_source=habrahabr&utm_medium=rss)
+- [GitHub запустил публичное превью GPT-5-Codex для Copilot](https://habr.com/ru/companies/bothub/news/950264/?utm_campaign=950264&utm_source=habrahabr&utm_medium=rss)
+- [В Yandex Cloud появилась возможность делать AI-агентов без написания кода](https://habr.com/ru/companies/bothub/news/950258/?utm_campaign=950258&utm_source=habrahabr&utm_medium=rss)
 - [Хороший у тебя АИПлан, забористый](https://habr.com/ru/news/950094/?utm_campaign=950094&utm_source=habrahabr&utm_medium=rss)
 - [RuStore и АКИ запускают акселератор для разработчиков мобильных игр](https://habr.com/ru/news/950232/?utm_campaign=950232&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» провёл масштабную конференцию Yandex Neuro Scale. Что нужно знать?](https://habr.com/ru/companies/bothub/news/950228/?utm_campaign=950228&utm_source=habrahabr&utm_medium=rss)
-- [MIT, OpenAI и Sakana AI запустили проект ASAL — автоматический поиск «искусственной жизни»](https://habr.com/ru/companies/bothub/news/950216/?utm_campaign=950216&utm_source=habrahabr&utm_medium=rss)
-- [Главный онлайн-кэмп по практической кибербезопасности CyberCamp 2025 раскрыл детали киберучений](https://habr.com/ru/companies/jetinfosystems/news/950202/?utm_campaign=950202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
