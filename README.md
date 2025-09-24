@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Школьники и студенты разогнали популярность GPT](https://habr.com/ru/news/950336/?utm_campaign=950336&utm_source=habrahabr&utm_medium=rss)
 - [Kaggle и Google анонсировали бесплатный онлайн-интенсив по ИИ-агентам](https://habr.com/ru/news/950322/?utm_campaign=950322&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» и «Леста» заключили договор о сотрудничестве](https://habr.com/ru/news/950304/?utm_campaign=950304&utm_source=habrahabr&utm_medium=rss)
 - [ИИ для программирования Qwen3-Coder получил обновление](https://habr.com/ru/news/950300/?utm_campaign=950300&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал приём заявок на IT‑премию «Цифровые решения»](https://habr.com/ru/news/950290/?utm_campaign=950290&utm_source=habrahabr&utm_medium=rss)
-- [Google Research предлагает новый подход к временным рядам](https://habr.com/ru/companies/bothub/news/950200/?utm_campaign=950200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
