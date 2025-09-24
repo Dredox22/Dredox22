@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [System Design, AI и кейс‑клуб — теперь на курсе «Технический директор» в Яндекс Практикуме](https://habr.com/ru/companies/yandex_praktikum/news/949242/?utm_campaign=949242&utm_source=habrahabr&utm_medium=rss)
 - [Релиз системы потокового видеовещания OBS Studio 32.0](https://habr.com/ru/news/949880/?utm_campaign=949880&utm_source=habrahabr&utm_medium=rss)
 - [У разработчиков дополнений к Firefox появилась возможность отката на прошлые версии](https://habr.com/ru/news/949592/?utm_campaign=949592&utm_source=habrahabr&utm_medium=rss)
 - [XTX Markets открыла исходный код файловой системы TernFS для распределённого хранения крупных неизменяемых файлов](https://habr.com/ru/news/949560/?utm_campaign=949560&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp теперь можно переводить сообщения](https://habr.com/ru/news/949946/?utm_campaign=949946&utm_source=habrahabr&utm_medium=rss)
-- [Spectral Labs выпустила SGS-1 — модель для генерации CAD-моделей](https://habr.com/ru/news/949948/?utm_campaign=949948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
