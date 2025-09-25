@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предложит клиентам из США и Европы бесплатно продлить срок работы Windows 10 на год](https://habr.com/ru/news/950376/?utm_campaign=950376&utm_source=habrahabr&utm_medium=rss)
+- [Google: Android для ПК появится в следующем году](https://habr.com/ru/news/950370/?utm_campaign=950370&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры выступило в поддержку антимонопольного дела ФАС в отношении структур ПИК – оператора связи «Ловител»](https://habr.com/ru/news/950362/?utm_campaign=950362&utm_source=habrahabr&utm_medium=rss)
 - [Вышел дистрибутив для пентестеров Kali Linux 2025.3](https://habr.com/ru/news/950292/?utm_campaign=950292&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Tunn — оболочка для OpenSSH для упрощения управления несколькими SSH-туннелями](https://habr.com/ru/news/950166/?utm_campaign=950166&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Glow 25.12 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/950284/?utm_campaign=950284&utm_source=habrahabr&utm_medium=rss)
-- [Рейтинг языков программирования от IEEE Spectrum: в лидерах Python, а нейросети портят статистику](https://habr.com/ru/news/950348/?utm_campaign=950348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
