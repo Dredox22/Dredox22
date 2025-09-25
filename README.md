@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Киностудия Lionsgate пытается создавать ИИ-фильмы с помощью Runway](https://habr.com/ru/news/950402/?utm_campaign=950402&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Code World Model: новая модель для кодинга](https://habr.com/ru/news/950394/?utm_campaign=950394&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Neon Mobile платит пользователям до $30 в день за продажу их данных компаниям ИИ](https://habr.com/ru/news/950384/?utm_campaign=950384&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предложит клиентам из США и Европы бесплатно продлить срок работы Windows 10 на год](https://habr.com/ru/news/950376/?utm_campaign=950376&utm_source=habrahabr&utm_medium=rss)
 - [Google: Android для ПК появится в следующем году](https://habr.com/ru/news/950370/?utm_campaign=950370&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры выступило в поддержку антимонопольного дела ФАС в отношении структур ПИК – оператора связи «Ловител»](https://habr.com/ru/news/950362/?utm_campaign=950362&utm_source=habrahabr&utm_medium=rss)
-- [Вышел дистрибутив для пентестеров Kali Linux 2025.3](https://habr.com/ru/news/950292/?utm_campaign=950292&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Tunn — оболочка для OpenSSH для упрощения управления несколькими SSH-туннелями](https://habr.com/ru/news/950166/?utm_campaign=950166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
