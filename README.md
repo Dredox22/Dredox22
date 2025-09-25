@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел дистрибутив для пентестеров Kali Linux 2025.3](https://habr.com/ru/news/950292/?utm_campaign=950292&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Tunn — оболочка для OpenSSH для упрощения управления несколькими SSH-туннелями](https://habr.com/ru/news/950166/?utm_campaign=950166&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Glow 25.12 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/950284/?utm_campaign=950284&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг языков программирования от IEEE Spectrum: в лидерах Python, а нейросети портят статистику](https://habr.com/ru/news/950348/?utm_campaign=950348&utm_source=habrahabr&utm_medium=rss)
 - [Школьники и студенты разогнали популярность GPT](https://habr.com/ru/news/950336/?utm_campaign=950336&utm_source=habrahabr&utm_medium=rss)
-- [Kaggle и Google анонсировали бесплатный онлайн-интенсив по ИИ-агентам](https://habr.com/ru/news/950322/?utm_campaign=950322&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» и «Леста» заключили договор о сотрудничестве](https://habr.com/ru/news/950304/?utm_campaign=950304&utm_source=habrahabr&utm_medium=rss)
-- [ИИ для программирования Qwen3-Coder получил обновление](https://habr.com/ru/news/950300/?utm_campaign=950300&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
