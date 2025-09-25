@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [КРЭТ и «Кама» заключили соглашение по созданию зарядной инфраструктуры для электромобилей](https://habr.com/ru/news/950692/?utm_campaign=950692&utm_source=habrahabr&utm_medium=rss)
+- [Sakana AI представили open-source фреймворк для научных открытий](https://habr.com/ru/companies/bothub/news/950690/?utm_campaign=950690&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PostgreSQL 18](https://habr.com/ru/news/950682/?utm_campaign=950682&utm_source=habrahabr&utm_medium=rss)
 - [Apple показала AI-модель для предсказания структуры белков SimpleFold](https://habr.com/ru/companies/bothub/news/950672/?utm_campaign=950672&utm_source=habrahabr&utm_medium=rss)
 - [В PostgreSQL появилась встроенная функция генерации UUIDv7 для первичных ключей](https://habr.com/ru/news/950342/?utm_campaign=950342&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» и «Атом» разрабатывают технологию авторизации для приложений в автомобиле](https://habr.com/ru/news/950662/?utm_campaign=950662&utm_source=habrahabr&utm_medium=rss)
-- [Вышел ClockBench — визуальный бенчмарк для оценки умения моделей пользоваться аналоговыми часами](https://habr.com/ru/news/950652/?utm_campaign=950652&utm_source=habrahabr&utm_medium=rss)
-- [Apple: царапины на демонстрационных iPhone 17 Pro — это следы от MagSafe, а не дефект](https://habr.com/ru/news/950636/?utm_campaign=950636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
