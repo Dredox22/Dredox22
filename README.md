@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia открыла исходный код технологии Audio2Face](https://habr.com/ru/news/950558/?utm_campaign=950558&utm_source=habrahabr&utm_medium=rss)
-- [Google запустил подписку на AI за 5 долларов в 40 странах](https://habr.com/ru/companies/bothub/news/950556/?utm_campaign=950556&utm_source=habrahabr&utm_medium=rss)
-- [К2 НейроТех назвал 5 ИИ-трендов в финансах: от автоматизации к экосистемам и антикризисным решениям](https://habr.com/ru/companies/k2tech/news/950546/?utm_campaign=950546&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовится к запуску рекламы в ChatGPT](https://habr.com/ru/companies/bothub/news/950542/?utm_campaign=950542&utm_source=habrahabr&utm_medium=rss)
-- [Google переделает скучные учебники с помощью ИИ](https://habr.com/ru/news/950540/?utm_campaign=950540&utm_source=habrahabr&utm_medium=rss)
+- [MIT взломал «мозг» LLM: модели научились рассуждать как люди](https://habr.com/ru/companies/bothub/news/950566/?utm_campaign=950566&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи с помощью промпт-инъекций заставили агента ChatGPT решать CAPTCHA](https://habr.com/ru/news/950612/?utm_campaign=950612&utm_source=habrahabr&utm_medium=rss)
+- [РТУ МИРЭА разработал технологию выборочного подавления устройств WI‑FI для корпоративной безопасности](https://habr.com/ru/news/950606/?utm_campaign=950606&utm_source=habrahabr&utm_medium=rss)
+- [Новый выпуск «Инфобеза со вкусом»: обсуждаем взаимосвязь информационной безопасности и кулинарии](https://habr.com/ru/companies/gaz-is/news/950580/?utm_campaign=950580&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновит красный цвет в приложениях Microsoft 365](https://habr.com/ru/news/950576/?utm_campaign=950576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
