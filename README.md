@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple показала AI-модель для предсказания структуры белков SimpleFold](https://habr.com/ru/companies/bothub/news/950672/?utm_campaign=950672&utm_source=habrahabr&utm_medium=rss)
+- [В PostgreSQL появилась встроенная функция генерации UUIDv7 для первичных ключей](https://habr.com/ru/news/950342/?utm_campaign=950342&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» и «Атом» разрабатывают технологию авторизации для приложений в автомобиле](https://habr.com/ru/news/950662/?utm_campaign=950662&utm_source=habrahabr&utm_medium=rss)
+- [Вышел ClockBench — визуальный бенчмарк для оценки умения моделей пользоваться аналоговыми часами](https://habr.com/ru/news/950652/?utm_campaign=950652&utm_source=habrahabr&utm_medium=rss)
 - [Apple: царапины на демонстрационных iPhone 17 Pro — это следы от MagSafe, а не дефект](https://habr.com/ru/news/950636/?utm_campaign=950636&utm_source=habrahabr&utm_medium=rss)
-- [MIT взломал «мозг» LLM: модели научились рассуждать как люди](https://habr.com/ru/companies/bothub/news/950566/?utm_campaign=950566&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи с помощью промпт-инъекций заставили агента ChatGPT решать CAPTCHA](https://habr.com/ru/news/950612/?utm_campaign=950612&utm_source=habrahabr&utm_medium=rss)
-- [РТУ МИРЭА разработал технологию выборочного подавления устройств WI‑FI для корпоративной безопасности](https://habr.com/ru/news/950606/?utm_campaign=950606&utm_source=habrahabr&utm_medium=rss)
-- [Новый выпуск «Инфобеза со вкусом»: обсуждаем взаимосвязь информационной безопасности и кулинарии](https://habr.com/ru/companies/gaz-is/news/950580/?utm_campaign=950580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
