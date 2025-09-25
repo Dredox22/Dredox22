@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve рекомендовала пользователям Steam проверить ПК антивирусом или переустановить ОС после установки BlockBlasters](https://habr.com/ru/news/950528/?utm_campaign=950528&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» открыл в колледже радиоэлектроники Красноярска учебный класс по обучению мастеров по обслуживанию абонентов](https://habr.com/ru/news/950526/?utm_campaign=950526&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: 8 трендов в сфере искусственного интеллекта, которые определят 2026 год](https://habr.com/ru/news/950486/?utm_campaign=950486&utm_source=habrahabr&utm_medium=rss)
-- [GigaChat научился создавать презентации](https://habr.com/ru/companies/sberbank/news/950484/?utm_campaign=950484&utm_source=habrahabr&utm_medium=rss)
-- [Тенденции сетевой безопасности: требования к NGFW растут](https://habr.com/ru/companies/infowatch/news/950456/?utm_campaign=950456&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia открыла исходный код технологии Audio2Face](https://habr.com/ru/news/950558/?utm_campaign=950558&utm_source=habrahabr&utm_medium=rss)
+- [Google запустил подписку на AI за 5 долларов в 40 странах](https://habr.com/ru/companies/bothub/news/950556/?utm_campaign=950556&utm_source=habrahabr&utm_medium=rss)
+- [К2 НейроТех назвал 5 ИИ-трендов в финансах: от автоматизации к экосистемам и антикризисным решениям](https://habr.com/ru/companies/k2tech/news/950546/?utm_campaign=950546&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовится к запуску рекламы в ChatGPT](https://habr.com/ru/companies/bothub/news/950542/?utm_campaign=950542&utm_source=habrahabr&utm_medium=rss)
+- [Google переделает скучные учебники с помощью ИИ](https://habr.com/ru/news/950540/?utm_campaign=950540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
