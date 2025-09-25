@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI подала в суд на OpenAI: «украли секреты Grok и строительства дата-центров»](https://habr.com/ru/news/950744/?utm_campaign=950744&utm_source=habrahabr&utm_medium=rss)
+- [Китай объявил двухмесячную кампанию против троллей, фейков и отрицательных эмоций в интернете](https://habr.com/ru/news/950728/?utm_campaign=950728&utm_source=habrahabr&utm_medium=rss)
+- [Запущена ChatGPT Pulse](https://habr.com/ru/news/950720/?utm_campaign=950720&utm_source=habrahabr&utm_medium=rss)
 - [SAP и OpenAI запускают проект “OpenAI for Germany”](https://habr.com/ru/companies/bothub/news/950714/?utm_campaign=950714&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили Dexop — кистевой экзоскелет для обучения роботов хватать предметы](https://habr.com/ru/news/950712/?utm_campaign=950712&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила поддержку моделей Claude от Anthropic в 365 Copilot](https://habr.com/ru/companies/bothub/news/950710/?utm_campaign=950710&utm_source=habrahabr&utm_medium=rss)
-- [Новый агент от OpenAI может быть на базе GPT-5](https://habr.com/ru/companies/bothub/news/950702/?utm_campaign=950702&utm_source=habrahabr&utm_medium=rss)
-- [КРЭТ и «Кама» заключили соглашение по созданию зарядной инфраструктуры для электромобилей](https://habr.com/ru/news/950692/?utm_campaign=950692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
