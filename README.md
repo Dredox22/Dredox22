@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Киностудия Lionsgate пытается создавать ИИ-фильмы с помощью Runway](https://habr.com/ru/news/950402/?utm_campaign=950402&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Code World Model: новая модель для кодинга](https://habr.com/ru/news/950394/?utm_campaign=950394&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Neon Mobile платит пользователям до $30 в день за продажу их данных компаниям ИИ](https://habr.com/ru/news/950384/?utm_campaign=950384&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предложит клиентам из США и Европы бесплатно продлить срок работы Windows 10 на год](https://habr.com/ru/news/950376/?utm_campaign=950376&utm_source=habrahabr&utm_medium=rss)
-- [Google: Android для ПК появится в следующем году](https://habr.com/ru/news/950370/?utm_campaign=950370&utm_source=habrahabr&utm_medium=rss)
+- [Проект СИГМЫ — лауреат премии «1С: Проект года»](https://habr.com/ru/companies/sigma/news/950434/?utm_campaign=950434&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare отразила новую рекордную DDoS-атаку мощностью 22,2 Тбит/с](https://habr.com/ru/news/950352/?utm_campaign=950352&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI тестирует нового ИИ-агента для ChatGPT](https://habr.com/ru/news/950426/?utm_campaign=950426&utm_source=habrahabr&utm_medium=rss)
+- [PSF призвал пользователей PyPI сбросить учётные данные после новых фишинговых атак](https://habr.com/ru/news/950324/?utm_campaign=950324&utm_source=habrahabr&utm_medium=rss)
+- [В Ollama добавили API веб-поиска](https://habr.com/ru/news/950410/?utm_campaign=950410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
