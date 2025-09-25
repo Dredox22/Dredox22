@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SAP и OpenAI запускают проект “OpenAI for Germany”](https://habr.com/ru/companies/bothub/news/950714/?utm_campaign=950714&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи представили Dexop — кистевой экзоскелет для обучения роботов хватать предметы](https://habr.com/ru/news/950712/?utm_campaign=950712&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила поддержку моделей Claude от Anthropic в 365 Copilot](https://habr.com/ru/companies/bothub/news/950710/?utm_campaign=950710&utm_source=habrahabr&utm_medium=rss)
+- [Новый агент от OpenAI может быть на базе GPT-5](https://habr.com/ru/companies/bothub/news/950702/?utm_campaign=950702&utm_source=habrahabr&utm_medium=rss)
 - [КРЭТ и «Кама» заключили соглашение по созданию зарядной инфраструктуры для электромобилей](https://habr.com/ru/news/950692/?utm_campaign=950692&utm_source=habrahabr&utm_medium=rss)
-- [Sakana AI представили open-source фреймворк для научных открытий](https://habr.com/ru/companies/bothub/news/950690/?utm_campaign=950690&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PostgreSQL 18](https://habr.com/ru/news/950682/?utm_campaign=950682&utm_source=habrahabr&utm_medium=rss)
-- [Apple показала AI-модель для предсказания структуры белков SimpleFold](https://habr.com/ru/companies/bothub/news/950672/?utm_campaign=950672&utm_source=habrahabr&utm_medium=rss)
-- [В PostgreSQL появилась встроенная функция генерации UUIDv7 для первичных ключей](https://habr.com/ru/news/950342/?utm_campaign=950342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
