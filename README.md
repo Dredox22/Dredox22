@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GigaChat научился создавать презентации](https://habr.com/ru/companies/sberbank/news/950484/?utm_campaign=950484&utm_source=habrahabr&utm_medium=rss)
 - [Тенденции сетевой безопасности: требования к NGFW растут](https://habr.com/ru/companies/infowatch/news/950456/?utm_campaign=950456&utm_source=habrahabr&utm_medium=rss)
 - [Statcounter: половина всех ПК с Windows теперь работают под управлением Windows 11, но начала расти доля Windows 7](https://habr.com/ru/news/950442/?utm_campaign=950442&utm_source=habrahabr&utm_medium=rss)
 - [Проект СИГМЫ — лауреат премии «1С: Проект года»](https://habr.com/ru/companies/sigma/news/950434/?utm_campaign=950434&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare отразила новую рекордную DDoS-атаку мощностью 22,2 Тбит/с](https://habr.com/ru/news/950352/?utm_campaign=950352&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI тестирует нового ИИ-агента для ChatGPT](https://habr.com/ru/news/950426/?utm_campaign=950426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
