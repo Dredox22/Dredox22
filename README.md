@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft и Asus открыла предзаказы на ROG Xbox Ally и Xbox Ally X](https://habr.com/ru/news/950898/?utm_campaign=950898&utm_source=habrahabr&utm_medium=rss)
+- [В сервисе Neon Mobile для заработка на звонках нашли уязвимости](https://habr.com/ru/news/950882/?utm_campaign=950882&utm_source=habrahabr&utm_medium=rss)
+- [Компания Lumafield выяснила, что около 8% дешёвых аккумуляторов могут иметь опасные дефекты](https://habr.com/ru/news/950880/?utm_campaign=950880&utm_source=habrahabr&utm_medium=rss)
+- [В интерфейсе настройки Wi-Fi у роботов Unitree нашли критическую уязвимость](https://habr.com/ru/news/950866/?utm_campaign=950866&utm_source=habrahabr&utm_medium=rss)
 - [Gemini начал объяснять проблемы с формулами в Google Таблицах](https://habr.com/ru/news/950852/?utm_campaign=950852&utm_source=habrahabr&utm_medium=rss)
-- [Ollama предоставила бесплатный API для веб-поиска](https://habr.com/ru/news/950836/?utm_campaign=950836&utm_source=habrahabr&utm_medium=rss)
-- [Самые прибыльные IT-компании России, борьба за игровые автоматы и попытки Huawei предугадать желания: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/950824/?utm_campaign=950824&utm_source=habrahabr&utm_medium=rss)
-- [Vapor для VS Code](https://habr.com/ru/news/950820/?utm_campaign=950820&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты RKS Global провели тестирование слежки в мессенджере Max на Android и iPhone](https://habr.com/ru/news/950786/?utm_campaign=950786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
