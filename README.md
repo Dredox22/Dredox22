@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сооснователь Palantir Питер Тиль: «контроль над ИИ ведет к Антихристу»](https://habr.com/ru/news/951128/?utm_campaign=951128&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 2.5 Flash и Flash-Lite прокачали скорость и точность](https://habr.com/ru/companies/bothub/news/951006/?utm_campaign=951006&utm_source=habrahabr&utm_medium=rss)
 - [Tencent представила первую модель для генерации 3D-объектов с мультиконтрольным управлением](https://habr.com/ru/companies/bothub/news/951028/?utm_campaign=951028&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила площадку Microsoft Marketplace для продажи ИИ-приложений](https://habr.com/ru/news/951102/?utm_campaign=951102&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity представил API для поиска в интернете](https://habr.com/ru/companies/bothub/news/951074/?utm_campaign=951074&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» открыла в МГТУ им. Н.Э. Баумана IT‑лабораторию](https://habr.com/ru/news/951094/?utm_campaign=951094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
