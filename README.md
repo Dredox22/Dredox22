@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 2.5 Flash и Flash-Lite прокачали скорость и точность](https://habr.com/ru/companies/bothub/news/951006/?utm_campaign=951006&utm_source=habrahabr&utm_medium=rss)
+- [Tencent представила первую модель для генерации 3D-объектов с мультиконтрольным управлением](https://habr.com/ru/companies/bothub/news/951028/?utm_campaign=951028&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft запустила площадку Microsoft Marketplace для продажи ИИ-приложений](https://habr.com/ru/news/951102/?utm_campaign=951102&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity представил API для поиска в интернете](https://habr.com/ru/companies/bothub/news/951074/?utm_campaign=951074&utm_source=habrahabr&utm_medium=rss)
 - [«Базальт СПО» открыла в МГТУ им. Н.Э. Баумана IT‑лабораторию](https://habr.com/ru/news/951094/?utm_campaign=951094&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован новый универсальный кросс-доменный датасет T-ECD](https://habr.com/ru/companies/bothub/news/951080/?utm_campaign=951080&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 могут появиться «живые обои»](https://habr.com/ru/news/951090/?utm_campaign=951090&utm_source=habrahabr&utm_medium=rss)
-- [Создание ИИ-видео расходует больше электричества, чем ожидалось — исследование Hugging Face](https://habr.com/ru/news/951086/?utm_campaign=951086&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила новый режим ChatGPT под названием Pulse](https://habr.com/ru/companies/bothub/news/951014/?utm_campaign=951014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
