@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft и Asus открыла предзаказы на ROG Xbox Ally и Xbox Ally X](https://habr.com/ru/news/950898/?utm_campaign=950898&utm_source=habrahabr&utm_medium=rss)
-- [В сервисе Neon Mobile для заработка на звонках нашли уязвимости](https://habr.com/ru/news/950882/?utm_campaign=950882&utm_source=habrahabr&utm_medium=rss)
-- [Компания Lumafield выяснила, что около 8% дешёвых аккумуляторов могут иметь опасные дефекты](https://habr.com/ru/news/950880/?utm_campaign=950880&utm_source=habrahabr&utm_medium=rss)
-- [В интерфейсе настройки Wi-Fi у роботов Unitree нашли критическую уязвимость](https://habr.com/ru/news/950866/?utm_campaign=950866&utm_source=habrahabr&utm_medium=rss)
-- [Gemini начал объяснять проблемы с формулами в Google Таблицах](https://habr.com/ru/news/950852/?utm_campaign=950852&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI измерила влияние ИИ на экономику с помощью 1320 реальных задач](https://habr.com/ru/news/950924/?utm_campaign=950924&utm_source=habrahabr&utm_medium=rss)
+- [Альянс Risc-V представил «дорожную карту» развития процессорной архитектуры](https://habr.com/ru/news/950906/?utm_campaign=950906&utm_source=habrahabr&utm_medium=rss)
+- [НИУ ВШЭ и Роструд запустили ИИ-помощника «Пифию» для анализа образовательной траектории студентов](https://habr.com/ru/news/950912/?utm_campaign=950912&utm_source=habrahabr&utm_medium=rss)
+- [Windows 10 получила последнее не связанное с безопасностью обновление](https://habr.com/ru/news/950900/?utm_campaign=950900&utm_source=habrahabr&utm_medium=rss)
+- [В США ChatGPT помог выиграть в лотерее $150 тысяч](https://habr.com/ru/news/950910/?utm_campaign=950910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
