@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила новый режим ChatGPT под названием Pulse](https://habr.com/ru/companies/bothub/news/951014/?utm_campaign=951014&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare представила политику Content Signals Policy для управления доступом к контенту сайтов](https://habr.com/ru/news/951032/?utm_campaign=951032&utm_source=habrahabr&utm_medium=rss)
 - [Итоги хакатона MORE.Tech: 1900 участников, три технологических трека и 1,5 млн рублей](https://habr.com/ru/companies/vtb/news/951020/?utm_campaign=951020&utm_source=habrahabr&utm_medium=rss)
 - [Трамп подписал указ о переходе TikTok к американским инвесторам](https://habr.com/ru/companies/bothub/news/951002/?utm_campaign=951002&utm_source=habrahabr&utm_medium=rss)
 - [11-летний мальчик создал плагин для Playgama с поддержкой Scratch](https://habr.com/ru/news/951010/?utm_campaign=951010&utm_source=habrahabr&utm_medium=rss)
-- [Приложение для скупки телефонных разговоров попало в топ App Store](https://habr.com/ru/companies/bothub/news/950994/?utm_campaign=950994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
