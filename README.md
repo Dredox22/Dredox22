@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты RKS Global провели тестирование слежки в мессенджере Max на Android и iPhone](https://habr.com/ru/news/950786/?utm_campaign=950786&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.4.0](https://habr.com/ru/news/950372/?utm_campaign=950372&utm_source=habrahabr&utm_medium=rss)
 - [Представлен дистрибутив elementary OS 8.0.2](https://habr.com/ru/news/950364/?utm_campaign=950364&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.13](https://habr.com/ru/news/950378/?utm_campaign=950378&utm_source=habrahabr&utm_medium=rss)
 - [В FFmpeg добавлена поддержка декодирования MPEG-H 3D Audio](https://habr.com/ru/news/950404/?utm_campaign=950404&utm_source=habrahabr&utm_medium=rss)
-- [Релиз DaVinci Resolve 20.2.1](https://habr.com/ru/news/950392/?utm_campaign=950392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
