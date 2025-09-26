@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение для скупки телефонных разговоров попало в топ App Store](https://habr.com/ru/companies/bothub/news/950994/?utm_campaign=950994&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект PSXTG — эмулятор PlayStation &lpar;PS1&rpar; в Telegram](https://habr.com/ru/news/950980/?utm_campaign=950980&utm_source=habrahabr&utm_medium=rss)
 - [Google улучшила Gemini 2.5 Flash. ИИ доступен бесплатно](https://habr.com/ru/news/950976/?utm_campaign=950976&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI измерила влияние ИИ на экономику с помощью 1320 реальных задач](https://habr.com/ru/news/950924/?utm_campaign=950924&utm_source=habrahabr&utm_medium=rss)
 - [Альянс Risc-V представил «дорожную карту» развития процессорной архитектуры](https://habr.com/ru/news/950906/?utm_campaign=950906&utm_source=habrahabr&utm_medium=rss)
-- [НИУ ВШЭ и Роструд запустили ИИ-помощника «Пифию» для анализа образовательной траектории студентов](https://habr.com/ru/news/950912/?utm_campaign=950912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
