@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini начал объяснять проблемы с формулами в Google Таблицах](https://habr.com/ru/news/950852/?utm_campaign=950852&utm_source=habrahabr&utm_medium=rss)
+- [Ollama предоставила бесплатный API для веб-поиска](https://habr.com/ru/news/950836/?utm_campaign=950836&utm_source=habrahabr&utm_medium=rss)
+- [Самые прибыльные IT-компании России, борьба за игровые автоматы и попытки Huawei предугадать желания: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/950824/?utm_campaign=950824&utm_source=habrahabr&utm_medium=rss)
 - [Vapor для VS Code](https://habr.com/ru/news/950820/?utm_campaign=950820&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты RKS Global провели тестирование слежки в мессенджере Max на Android и iPhone](https://habr.com/ru/news/950786/?utm_campaign=950786&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.4.0](https://habr.com/ru/news/950372/?utm_campaign=950372&utm_source=habrahabr&utm_medium=rss)
-- [Представлен дистрибутив elementary OS 8.0.2](https://habr.com/ru/news/950364/?utm_campaign=950364&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.13](https://habr.com/ru/news/950378/?utm_campaign=950378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
