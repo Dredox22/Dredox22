@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [xAI подала в суд на OpenAI: «украли секреты Grok и строительства дата-центров»](https://habr.com/ru/news/950744/?utm_campaign=950744&utm_source=habrahabr&utm_medium=rss)
-- [Китай объявил двухмесячную кампанию против троллей, фейков и отрицательных эмоций в интернете](https://habr.com/ru/news/950728/?utm_campaign=950728&utm_source=habrahabr&utm_medium=rss)
-- [Запущена ChatGPT Pulse](https://habr.com/ru/news/950720/?utm_campaign=950720&utm_source=habrahabr&utm_medium=rss)
-- [SAP и OpenAI запускают проект “OpenAI for Germany”](https://habr.com/ru/companies/bothub/news/950714/?utm_campaign=950714&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили Dexop — кистевой экзоскелет для обучения роботов хватать предметы](https://habr.com/ru/news/950712/?utm_campaign=950712&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 5.4.0](https://habr.com/ru/news/950372/?utm_campaign=950372&utm_source=habrahabr&utm_medium=rss)
+- [Представлен дистрибутив elementary OS 8.0.2](https://habr.com/ru/news/950364/?utm_campaign=950364&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.13](https://habr.com/ru/news/950378/?utm_campaign=950378&utm_source=habrahabr&utm_medium=rss)
+- [В FFmpeg добавлена поддержка декодирования MPEG-H 3D Audio](https://habr.com/ru/news/950404/?utm_campaign=950404&utm_source=habrahabr&utm_medium=rss)
+- [Релиз DaVinci Resolve 20.2.1](https://habr.com/ru/news/950392/?utm_campaign=950392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
