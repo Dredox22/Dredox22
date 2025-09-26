@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Базальт СПО» открыла в МГТУ им. Н.Э. Баумана IT‑лабораторию](https://habr.com/ru/news/951094/?utm_campaign=951094&utm_source=habrahabr&utm_medium=rss)
 - [Опубликован новый универсальный кросс-доменный датасет T-ECD](https://habr.com/ru/companies/bothub/news/951080/?utm_campaign=951080&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 могут появиться «живые обои»](https://habr.com/ru/news/951090/?utm_campaign=951090&utm_source=habrahabr&utm_medium=rss)
 - [Создание ИИ-видео расходует больше электричества, чем ожидалось — исследование Hugging Face](https://habr.com/ru/news/951086/?utm_campaign=951086&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила новый режим ChatGPT под названием Pulse](https://habr.com/ru/companies/bothub/news/951014/?utm_campaign=951014&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare представила политику Content Signals Policy для управления доступом к контенту сайтов](https://habr.com/ru/news/951032/?utm_campaign=951032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
