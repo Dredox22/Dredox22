@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare представила политику Content Signals Policy для управления доступом к контенту сайтов](https://habr.com/ru/news/951032/?utm_campaign=951032&utm_source=habrahabr&utm_medium=rss)
+- [Итоги хакатона MORE.Tech: 1900 участников, три технологических трека и 1,5 млн рублей](https://habr.com/ru/companies/vtb/news/951020/?utm_campaign=951020&utm_source=habrahabr&utm_medium=rss)
+- [Трамп подписал указ о переходе TikTok к американским инвесторам](https://habr.com/ru/companies/bothub/news/951002/?utm_campaign=951002&utm_source=habrahabr&utm_medium=rss)
+- [11-летний мальчик создал плагин для Playgama с поддержкой Scratch](https://habr.com/ru/news/951010/?utm_campaign=951010&utm_source=habrahabr&utm_medium=rss)
 - [Приложение для скупки телефонных разговоров попало в топ App Store](https://habr.com/ru/companies/bothub/news/950994/?utm_campaign=950994&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект PSXTG — эмулятор PlayStation &lpar;PS1&rpar; в Telegram](https://habr.com/ru/news/950980/?utm_campaign=950980&utm_source=habrahabr&utm_medium=rss)
-- [Google улучшила Gemini 2.5 Flash. ИИ доступен бесплатно](https://habr.com/ru/news/950976/?utm_campaign=950976&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI измерила влияние ИИ на экономику с помощью 1320 реальных задач](https://habr.com/ru/news/950924/?utm_campaign=950924&utm_source=habrahabr&utm_medium=rss)
-- [Альянс Risc-V представил «дорожную карту» развития процессорной архитектуры](https://habr.com/ru/news/950906/?utm_campaign=950906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
