@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google разработает блокчейн-платформу Google Cloud Universal Ledger](https://habr.com/ru/news/951154/?utm_campaign=951154&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge будет блокировать вредоносные сторонние расширения](https://habr.com/ru/news/951134/?utm_campaign=951134&utm_source=habrahabr&utm_medium=rss)
 - [Студия Nival официально выложила на GitHub исходный код стратегии про Вторую Мировую войну Блицкриг II &lpar;Blitzkrieg 2&rpar;](https://habr.com/ru/news/951146/?utm_campaign=951146&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-10](https://habr.com/ru/news/951072/?utm_campaign=951072&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.11](https://habr.com/ru/news/951012/?utm_campaign=951012&utm_source=habrahabr&utm_medium=rss)
-- [Релиз StaxRip 2.50.2 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/950934/?utm_campaign=950934&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь Palantir Питер Тиль: «контроль над ИИ ведет к Антихристу»](https://habr.com/ru/news/951128/?utm_campaign=951128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
