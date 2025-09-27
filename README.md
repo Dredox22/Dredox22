@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI Илона Маска предоставила федеральному правительству США чат-бот Grok за ¢42](https://habr.com/ru/news/951166/?utm_campaign=951166&utm_source=habrahabr&utm_medium=rss)
 - [Google разработает блокчейн-платформу Google Cloud Universal Ledger](https://habr.com/ru/news/951154/?utm_campaign=951154&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge будет блокировать вредоносные сторонние расширения](https://habr.com/ru/news/951134/?utm_campaign=951134&utm_source=habrahabr&utm_medium=rss)
 - [Студия Nival официально выложила на GitHub исходный код стратегии про Вторую Мировую войну Блицкриг II &lpar;Blitzkrieg 2&rpar;](https://habr.com/ru/news/951146/?utm_campaign=951146&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-10](https://habr.com/ru/news/951072/?utm_campaign=951072&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.11](https://habr.com/ru/news/951012/?utm_campaign=951012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
