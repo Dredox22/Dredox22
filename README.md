@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование OCS показало, что серверы на российских процессорах используют около 10% российских предприятий](https://habr.com/ru/news/951306/?utm_campaign=951306&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление «Аврора Браузер» 1.11](https://habr.com/ru/news/951302/?utm_campaign=951302&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман ожидает, что ИИ превзойдет человека к 2030 году](https://habr.com/ru/news/951292/?utm_campaign=951292&utm_source=habrahabr&utm_medium=rss)
 - [Роскачество представило исследование манипулятивных механик в популярных мобильных играх в РФ](https://habr.com/ru/news/951290/?utm_campaign=951290&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Мосбиржа запланировала импортозаместить IT-инфраструктуру к 2027 году»](https://habr.com/ru/news/951252/?utm_campaign=951252&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появилась автоматическая категоризация фото при помощи ИИ](https://habr.com/ru/news/951208/?utm_campaign=951208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
