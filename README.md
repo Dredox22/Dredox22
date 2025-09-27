@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел новый Archi 5.7.0](https://habr.com/ru/news/951196/?utm_campaign=951196&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5 победил в необычном бенчмарке Among AIs](https://habr.com/ru/news/951192/?utm_campaign=951192&utm_source=habrahabr&utm_medium=rss)
+- [«Микрон» представила игровую консоль MikBoy на базе российского микроконтроллера MIK32 «Амур» на архитектуре RISC‑V](https://habr.com/ru/news/951190/?utm_campaign=951190&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволит Copilot управлять браузером, перемещаться по вкладкам и выполнять задачи во время просмотра контента](https://habr.com/ru/news/951188/?utm_campaign=951188&utm_source=habrahabr&utm_medium=rss)
 - [Google выкатила обновлённые Gemini 2.5 Flash и Flash-Lite — самое важное за пару минут](https://habr.com/ru/news/951178/?utm_campaign=951178&utm_source=habrahabr&utm_medium=rss)
-- [xAI Илона Маска предоставила федеральному правительству США чат-бот Grok за ¢42](https://habr.com/ru/news/951166/?utm_campaign=951166&utm_source=habrahabr&utm_medium=rss)
-- [Google разработает блокчейн-платформу Google Cloud Universal Ledger](https://habr.com/ru/news/951154/?utm_campaign=951154&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge будет блокировать вредоносные сторонние расширения](https://habr.com/ru/news/951134/?utm_campaign=951134&utm_source=habrahabr&utm_medium=rss)
-- [Студия Nival официально выложила на GitHub исходный код стратегии про Вторую Мировую войну Блицкриг II &lpar;Blitzkrieg 2&rpar;](https://habr.com/ru/news/951146/?utm_campaign=951146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
