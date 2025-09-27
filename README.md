@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся выпуск мобильной платформы Ubuntu Touch OTA-10](https://habr.com/ru/news/951072/?utm_campaign=951072&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.11](https://habr.com/ru/news/951012/?utm_campaign=951012&utm_source=habrahabr&utm_medium=rss)
+- [Релиз StaxRip 2.50.2 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/950934/?utm_campaign=950934&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь Palantir Питер Тиль: «контроль над ИИ ведет к Антихристу»](https://habr.com/ru/news/951128/?utm_campaign=951128&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 2.5 Flash и Flash-Lite прокачали скорость и точность](https://habr.com/ru/companies/bothub/news/951006/?utm_campaign=951006&utm_source=habrahabr&utm_medium=rss)
-- [Tencent представила первую модель для генерации 3D-объектов с мультиконтрольным управлением](https://habr.com/ru/companies/bothub/news/951028/?utm_campaign=951028&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила площадку Microsoft Marketplace для продажи ИИ-приложений](https://habr.com/ru/news/951102/?utm_campaign=951102&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity представил API для поиска в интернете](https://habr.com/ru/companies/bothub/news/951074/?utm_campaign=951074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
