@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В App Store вышли гонки для мобильных устройств с управлением через AirPods](https://habr.com/ru/news/951386/?utm_campaign=951386&utm_source=habrahabr&utm_medium=rss)
 - [Российским школьникам расскажут про цифровой суверенитет](https://habr.com/ru/news/951360/?utm_campaign=951360&utm_source=habrahabr&utm_medium=rss)
 - [Скандал с ChatGPT: OpenAI призналась в подмене ответов ИИ](https://habr.com/ru/news/951362/?utm_campaign=951362&utm_source=habrahabr&utm_medium=rss)
 - [Firefox предложит визуальный поиск по картинкам Google Lens](https://habr.com/ru/news/951340/?utm_campaign=951340&utm_source=habrahabr&utm_medium=rss)
 - [В PowerToys версии 0.95 появится новый модуль Light Switch](https://habr.com/ru/news/951338/?utm_campaign=951338&utm_source=habrahabr&utm_medium=rss)
-- [Electronic Arts близка к продаже за $50 млрд группе инвесторов, включая Silver Lake и Суверенный фонд Саудовской Аравии](https://habr.com/ru/news/951336/?utm_campaign=951336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
