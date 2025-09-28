@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила MCP-сервер для Chrome DevTools](https://habr.com/ru/news/951490/?utm_campaign=951490&utm_source=habrahabr&utm_medium=rss)
 - [Вышло публичное превью GitHub Copilot CLI](https://habr.com/ru/news/951484/?utm_campaign=951484&utm_source=habrahabr&utm_medium=rss)
 - [Власти Австралии считают, что GitHub может быть опасен для детей так же, как TikTok, Instagram** и Roblox](https://habr.com/ru/news/951474/?utm_campaign=951474&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 частично прошла “тест Гёделя” на доказательство новых математических гипотез](https://habr.com/ru/news/951466/?utm_campaign=951466&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили замену Launchpad для macOS Tahoe](https://habr.com/ru/news/951440/?utm_campaign=951440&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты объединили двенадцать 56K модемов, чтобы установить рекорд скорости коммутируемого доступа](https://habr.com/ru/news/951432/?utm_campaign=951432&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
