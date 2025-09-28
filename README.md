@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Власти Австралии считают, что GitHub может быть опасен для детей так же, как TikTok, Instagram** и Roblox](https://habr.com/ru/news/951474/?utm_campaign=951474&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5 частично прошла “тест Гёделя” на доказательство новых математических гипотез](https://habr.com/ru/news/951466/?utm_campaign=951466&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили замену Launchpad для macOS Tahoe](https://habr.com/ru/news/951440/?utm_campaign=951440&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты объединили двенадцать 56K модемов, чтобы установить рекорд скорости коммутируемого доступа](https://habr.com/ru/news/951432/?utm_campaign=951432&utm_source=habrahabr&utm_medium=rss)
 - [В App Store вышли гонки для мобильных устройств с управлением через AirPods](https://habr.com/ru/news/951386/?utm_campaign=951386&utm_source=habrahabr&utm_medium=rss)
-- [Российским школьникам расскажут про цифровой суверенитет](https://habr.com/ru/news/951360/?utm_campaign=951360&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI признали, что подменяют ответы одной модели ChatGPT на другую](https://habr.com/ru/news/951362/?utm_campaign=951362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
