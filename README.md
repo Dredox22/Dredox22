@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefox предложит визуальный поиск по картинкам Google Lens](https://habr.com/ru/news/951340/?utm_campaign=951340&utm_source=habrahabr&utm_medium=rss)
 - [В PowerToys версии 0.95 появится новый модуль Light Switch](https://habr.com/ru/news/951338/?utm_campaign=951338&utm_source=habrahabr&utm_medium=rss)
 - [Electronic Arts близка к продаже за $50 млрд группе инвесторов, включая Silver Lake и Суверенный фонд Саудовской Аравии](https://habr.com/ru/news/951336/?utm_campaign=951336&utm_source=habrahabr&utm_medium=rss)
 - [В сообществе проекта Fedora представили для обсуждения правила использования ИИ-инструментов при разработке Fedora Linux](https://habr.com/ru/news/951270/?utm_campaign=951270&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект vokoscreenNG 4.7.0 для записи экрана в Windows и Linux](https://habr.com/ru/news/951266/?utm_campaign=951266&utm_source=habrahabr&utm_medium=rss)
-- [Исследование OCS показало, что серверы на российских процессорах используют около 10% российских предприятий](https://habr.com/ru/news/951306/?utm_campaign=951306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
