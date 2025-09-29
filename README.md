@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На LA Comic Con показали голографический ИИ-аватар Стэна Ли](https://habr.com/ru/news/951824/?utm_campaign=951824&utm_source=habrahabr&utm_medium=rss)
-- [ИНТЦ МГУ «Воробьёвы горы» запустил конкурс технологических проектов](https://habr.com/ru/news/951790/?utm_campaign=951790&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «В России готовятся страховать персональные данные граждан от утечек и выплачивать компенсации»](https://habr.com/ru/news/951776/?utm_campaign=951776&utm_source=habrahabr&utm_medium=rss)
-- [Paid привлёк $21 млн на биллинг AI-агентов](https://habr.com/ru/companies/bothub/news/951640/?utm_campaign=951640&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT добавили функцию родительского контроля](https://habr.com/ru/news/951752/?utm_campaign=951752&utm_source=habrahabr&utm_medium=rss)
+- [Solar appScreener 3.15.5 поддерживает анализ кода согласно национальному стандарту ГОСТ 71207-2024](https://habr.com/ru/companies/solarsecurity/news/951848/?utm_campaign=951848&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI усиливает слежку за безопасностью разговоров](https://habr.com/ru/companies/bothub/news/951842/?utm_campaign=951842&utm_source=habrahabr&utm_medium=rss)
+- [Учёные MIT представили инструмент, который учит ИИ создавать полезные материалы](https://habr.com/ru/companies/bothub/news/951836/?utm_campaign=951836&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Claude Sonnet 4.5 – лучшая модель для программирования](https://habr.com/ru/news/951832/?utm_campaign=951832&utm_source=habrahabr&utm_medium=rss)
+- [Представлен Claude Sonnet 4.5: новый лидер в задачах программирования](https://habr.com/ru/news/951830/?utm_campaign=951830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
