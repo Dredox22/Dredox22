@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Создатели ChatGPT выпустили сборник из 300+ промптов для разных сфер](https://habr.com/ru/news/951674/?utm_campaign=951674&utm_source=habrahabr&utm_medium=rss)
+- [Нереалистичная мечта: Родни Брукс раскритиковал гонку Tesla Optimus и Figure AI](https://habr.com/ru/companies/bothub/news/951664/?utm_campaign=951664&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: производительность приложений .NET MAUI повысилась после введения Google ограничения на размер страниц](https://habr.com/ru/news/951382/?utm_campaign=951382&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: зарубежные карты больше не добавляются в Apple Pay из России](https://habr.com/ru/news/951644/?utm_campaign=951644&utm_source=habrahabr&utm_medium=rss)
 - [Qwen Chat научился превращать данные из сети в диаграммы](https://habr.com/ru/companies/bothub/news/951642/?utm_campaign=951642&utm_source=habrahabr&utm_medium=rss)
-- [ИИ шаг за шагом учится строить молекулы](https://habr.com/ru/companies/bothub/news/951636/?utm_campaign=951636&utm_source=habrahabr&utm_medium=rss)
-- [Как работают сборщики мусора, оцениваем Netflix и хейтеров | Spring АйО Подкаст №37](https://habr.com/ru/companies/spring_aio/news/951634/?utm_campaign=951634&utm_source=habrahabr&utm_medium=rss)
-- [VK Education и RuStore запустили образовательный курс «Мобильные игры как бизнес»](https://habr.com/ru/news/951632/?utm_campaign=951632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
