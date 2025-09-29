@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИНТЦ МГУ «Воробьёвы горы» запустил конкурс технологических проектов](https://habr.com/ru/news/951790/?utm_campaign=951790&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «В России готовятся страховать персональные данные граждан от утечек и выплачивать компенсации»](https://habr.com/ru/news/951776/?utm_campaign=951776&utm_source=habrahabr&utm_medium=rss)
 - [Paid привлёк $21 млн на биллинг AI-агентов](https://habr.com/ru/companies/bothub/news/951640/?utm_campaign=951640&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT добавили функцию родительского контроля](https://habr.com/ru/news/951752/?utm_campaign=951752&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: хотя ИИ-модели превосходят людей в тестах, спрос на сертифицированных рентгенологов достиг рекорда](https://habr.com/ru/news/951744/?utm_campaign=951744&utm_source=habrahabr&utm_medium=rss)
-- [Заместитель главы Минцифры РФ: «Российские компании продолжают не устранять уязвимости, выявленные в ходе пентестов»](https://habr.com/ru/news/951740/?utm_campaign=951740&utm_source=habrahabr&utm_medium=rss)
-- [Конференция «Встраиваемые системы реального времени»](https://habr.com/ru/companies/swd_es/news/951726/?utm_campaign=951726&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
