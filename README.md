@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На LA Comic Con показали голографический ИИ-аватар Стэна Ли](https://habr.com/ru/news/951824/?utm_campaign=951824&utm_source=habrahabr&utm_medium=rss)
 - [ИНТЦ МГУ «Воробьёвы горы» запустил конкурс технологических проектов](https://habr.com/ru/news/951790/?utm_campaign=951790&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «В России готовятся страховать персональные данные граждан от утечек и выплачивать компенсации»](https://habr.com/ru/news/951776/?utm_campaign=951776&utm_source=habrahabr&utm_medium=rss)
 - [Paid привлёк $21 млн на биллинг AI-агентов](https://habr.com/ru/companies/bothub/news/951640/?utm_campaign=951640&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT добавили функцию родительского контроля](https://habr.com/ru/news/951752/?utm_campaign=951752&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: хотя ИИ-модели превосходят людей в тестах, спрос на сертифицированных рентгенологов достиг рекорда](https://habr.com/ru/news/951744/?utm_campaign=951744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
