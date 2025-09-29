@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Paid привлёк $21 млн на биллинг AI-агентов](https://habr.com/ru/companies/bothub/news/951640/?utm_campaign=951640&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT добавили функцию родительского контроля](https://habr.com/ru/news/951752/?utm_campaign=951752&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: хотя ИИ-модели превосходят людей в тестах, спрос на сертифицированных рентгенологов достиг рекорда](https://habr.com/ru/news/951744/?utm_campaign=951744&utm_source=habrahabr&utm_medium=rss)
 - [Заместитель главы Минцифры РФ: «Российские компании продолжают не устранять уязвимости, выявленные в ходе пентестов»](https://habr.com/ru/news/951740/?utm_campaign=951740&utm_source=habrahabr&utm_medium=rss)
 - [Конференция «Встраиваемые системы реального времени»](https://habr.com/ru/companies/swd_es/news/951726/?utm_campaign=951726&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft наконец-то сняла блокировку обновления Windows 11 24H2 для многих ПК на базе Intel](https://habr.com/ru/news/951720/?utm_campaign=951720&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и Oracle заключают миллиардные сделки ради дата-центров для ИИ](https://habr.com/ru/companies/bothub/news/951648/?utm_campaign=951648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
