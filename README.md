@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлен проект 3DOTG — эмулятор Panasonic 3DO в Telegram](https://habr.com/ru/news/951528/?utm_campaign=951528&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 6.17](https://habr.com/ru/news/951512/?utm_campaign=951512&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой командной оболочки Fish 4.1 для macOS, Windows, BSD и Linux](https://habr.com/ru/news/951392/?utm_campaign=951392&utm_source=habrahabr&utm_medium=rss)
-- [Организация OpenSSF подняла вопрос финансирования проектов Open Source для сохранения устойчивости инфраструктуры](https://habr.com/ru/news/951384/?utm_campaign=951384&utm_source=habrahabr&utm_medium=rss)
-- [Google представила MCP-сервер для Chrome DevTools](https://habr.com/ru/news/951490/?utm_campaign=951490&utm_source=habrahabr&utm_medium=rss)
+- [Прогнозируем резкий рост числа кибератак на спутники](https://habr.com/ru/companies/ruvds/news/951590/?utm_campaign=951590&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft планирует прекратить поддержку WHCP и HLK в Windows 10](https://habr.com/ru/news/951478/?utm_campaign=951478&utm_source=habrahabr&utm_medium=rss)
+- [Luxms 2025. Не просто конференция. Настоящая премьера](https://habr.com/ru/companies/luxms_bi/news/951580/?utm_campaign=951580&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исследует проблему с доступом к зашифрованным письмам из других организаций в Outlook](https://habr.com/ru/news/951570/?utm_campaign=951570&utm_source=habrahabr&utm_medium=rss)
+- [Continue навёл марафет в VS Code](https://habr.com/ru/news/951566/?utm_campaign=951566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
