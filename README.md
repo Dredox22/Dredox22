@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Создатели ChatGPT выпустили сборник из 300+ промптов для разных сфер](https://habr.com/ru/news/951674/?utm_campaign=951674&utm_source=habrahabr&utm_medium=rss)
-- [Нереалистичная мечта: Родни Брукс раскритиковал гонку Tesla Optimus и Figure AI](https://habr.com/ru/companies/bothub/news/951664/?utm_campaign=951664&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: производительность приложений .NET MAUI повысилась после введения Google ограничения на размер страниц](https://habr.com/ru/news/951382/?utm_campaign=951382&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: зарубежные карты больше не добавляются в Apple Pay из России](https://habr.com/ru/news/951644/?utm_campaign=951644&utm_source=habrahabr&utm_medium=rss)
-- [Qwen Chat научился превращать данные из сети в диаграммы](https://habr.com/ru/companies/bothub/news/951642/?utm_campaign=951642&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft наконец-то сняла блокировку обновления Windows 11 24H2 для многих ПК на базе Intel](https://habr.com/ru/news/951720/?utm_campaign=951720&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и Oracle заключают миллиардные сделки ради дата-центров для ИИ](https://habr.com/ru/companies/bothub/news/951648/?utm_campaign=951648&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek-V3.2-Exp: китайцы снова мутят что-то хитрое](https://habr.com/ru/news/951708/?utm_campaign=951708&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/951704/?utm_campaign=951704&utm_source=habrahabr&utm_medium=rss)
+- [Не всё золото, что AI: ожидания VC растут быстрее, чем возможности рынка](https://habr.com/ru/companies/bothub/news/951688/?utm_campaign=951688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
