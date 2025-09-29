@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: хотя ИИ-модели превосходят людей в тестах, спрос на сертифицированных рентгенологов достиг рекорда](https://habr.com/ru/news/951744/?utm_campaign=951744&utm_source=habrahabr&utm_medium=rss)
+- [Заместитель главы Минцифры РФ: «Российские компании продолжают не устранять уязвимости, выявленные в ходе пентестов»](https://habr.com/ru/news/951740/?utm_campaign=951740&utm_source=habrahabr&utm_medium=rss)
+- [Конференция «Встраиваемые системы реального времени»](https://habr.com/ru/companies/swd_es/news/951726/?utm_campaign=951726&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft наконец-то сняла блокировку обновления Windows 11 24H2 для многих ПК на базе Intel](https://habr.com/ru/news/951720/?utm_campaign=951720&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и Oracle заключают миллиардные сделки ради дата-центров для ИИ](https://habr.com/ru/companies/bothub/news/951648/?utm_campaign=951648&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek-V3.2-Exp: китайцы снова мутят что-то хитрое](https://habr.com/ru/news/951708/?utm_campaign=951708&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/951704/?utm_campaign=951704&utm_source=habrahabr&utm_medium=rss)
-- [Не всё золото, что AI: ожидания VC растут быстрее, чем возможности рынка](https://habr.com/ru/companies/bothub/news/951688/?utm_campaign=951688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
