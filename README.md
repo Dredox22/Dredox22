@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Геймер построил языковую модель с 5 млн параметров в Minecraft](https://habr.com/ru/news/951872/?utm_campaign=951872&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI планирует запустить ИИ-версию TikTok — Wired](https://habr.com/ru/news/951870/?utm_campaign=951870&utm_source=habrahabr&utm_medium=rss)
 - [Ремонтные работы подводной части ВОЛС на Камчатке из-за непогоды перенесли на период с 2 по 5 октября 2025 года](https://habr.com/ru/news/951854/?utm_campaign=951854&utm_source=habrahabr&utm_medium=rss)
 - [Solar appScreener 3.15.5 поддерживает анализ кода согласно национальному стандарту ГОСТ 71207-2024](https://habr.com/ru/companies/solarsecurity/news/951848/?utm_campaign=951848&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI усиливает слежку за безопасностью разговоров](https://habr.com/ru/companies/bothub/news/951842/?utm_campaign=951842&utm_source=habrahabr&utm_medium=rss)
-- [Учёные MIT представили инструмент, который учит ИИ создавать полезные материалы](https://habr.com/ru/companies/bothub/news/951836/?utm_campaign=951836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
