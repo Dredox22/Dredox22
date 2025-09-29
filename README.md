@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Прогнозируем резкий рост числа кибератак на спутники](https://habr.com/ru/companies/ruvds/news/951590/?utm_campaign=951590&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует прекратить поддержку WHCP и HLK в Windows 10](https://habr.com/ru/news/951478/?utm_campaign=951478&utm_source=habrahabr&utm_medium=rss)
-- [Luxms 2025. Не просто конференция. Настоящая премьера](https://habr.com/ru/companies/luxms_bi/news/951580/?utm_campaign=951580&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исследует проблему с доступом к зашифрованным письмам из других организаций в Outlook](https://habr.com/ru/news/951570/?utm_campaign=951570&utm_source=habrahabr&utm_medium=rss)
-- [Continue навёл марафет в VS Code](https://habr.com/ru/news/951566/?utm_campaign=951566&utm_source=habrahabr&utm_medium=rss)
+- [«Код Дурова»: зарубежные карты больше не добавляются в Apple Pay из России](https://habr.com/ru/news/951644/?utm_campaign=951644&utm_source=habrahabr&utm_medium=rss)
+- [Qwen Chat научился превращать данные из сети в диаграммы](https://habr.com/ru/companies/bothub/news/951642/?utm_campaign=951642&utm_source=habrahabr&utm_medium=rss)
+- [ИИ шаг за шагом учится строить молекулы](https://habr.com/ru/companies/bothub/news/951636/?utm_campaign=951636&utm_source=habrahabr&utm_medium=rss)
+- [Как работают сборщики мусора, оцениваем Netflix и хейтеров | Spring АйО Подкаст №37](https://habr.com/ru/companies/spring_aio/news/951634/?utm_campaign=951634&utm_source=habrahabr&utm_medium=rss)
+- [VK Education и RuStore запустили образовательный курс «Мобильные игры как бизнес»](https://habr.com/ru/news/951632/?utm_campaign=951632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
