@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект 3DOTG — эмулятор Panasonic 3DO в Telegram](https://habr.com/ru/news/951528/?utm_campaign=951528&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Linux 6.17](https://habr.com/ru/news/951512/?utm_campaign=951512&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой командной оболочки Fish 4.1 для macOS, Windows, BSD и Linux](https://habr.com/ru/news/951392/?utm_campaign=951392&utm_source=habrahabr&utm_medium=rss)
 - [Организация OpenSSF подняла вопрос финансирования проектов Open Source для сохранения устойчивости инфраструктуры](https://habr.com/ru/news/951384/?utm_campaign=951384&utm_source=habrahabr&utm_medium=rss)
 - [Google представила MCP-сервер для Chrome DevTools](https://habr.com/ru/news/951490/?utm_campaign=951490&utm_source=habrahabr&utm_medium=rss)
-- [Вышло публичное превью GitHub Copilot CLI](https://habr.com/ru/news/951484/?utm_campaign=951484&utm_source=habrahabr&utm_medium=rss)
-- [Власти Австралии считают, что GitHub может быть опасен для детей так же, как TikTok, Instagram** и Roblox](https://habr.com/ru/news/951474/?utm_campaign=951474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
