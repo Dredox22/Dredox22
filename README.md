@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена Sora 2 — доступна бесплатно, но пока с ограничениями](https://habr.com/ru/news/952214/?utm_campaign=952214&utm_source=habrahabr&utm_medium=rss)
+- [АО «Решетнёв» впервые показало автоматизированную сборочную линию космических аппаратов массой до 300 кг](https://habr.com/ru/news/952212/?utm_campaign=952212&utm_source=habrahabr&utm_medium=rss)
+- [Приготовили DS-инженерам Weekend Offer](https://habr.com/ru/companies/avito/news/952208/?utm_campaign=952208&utm_source=habrahabr&utm_medium=rss)
 - [Lufthansa сокращает 4 000 сотрудников, делая ставку на ИИ и автоматизацию](https://habr.com/ru/companies/bothub/news/952026/?utm_campaign=952026&utm_source=habrahabr&utm_medium=rss)
 - [Вышли релизы безопасности Joomla 5.3.4 и Joomla 4.4.14](https://habr.com/ru/news/952204/?utm_campaign=952204&utm_source=habrahabr&utm_medium=rss)
-- [Cursor запустил бесплатный мини-курс для разработчиков по работе с ИИ](https://habr.com/ru/companies/bothub/news/952022/?utm_campaign=952022&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи рассказали о сбоях при внедрении маркировки звонков](https://habr.com/ru/news/952194/?utm_campaign=952194&utm_source=habrahabr&utm_medium=rss)
-- [Представлен прототип Imagine with Claude — ИИ-песочницы на базе Claude Sonnet 4.5](https://habr.com/ru/news/952190/?utm_campaign=952190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
