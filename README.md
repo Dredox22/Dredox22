@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI готовит соцсеть на базе Sora 2 с контентом, полностью сгенерированным ИИ](https://habr.com/ru/companies/bothub/news/952024/?utm_campaign=952024&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic представила лучшую модель для кодинга — Claude Sonnet 4.5](https://habr.com/ru/companies/bothub/news/952016/?utm_campaign=952016&utm_source=habrahabr&utm_medium=rss)
+- [В Афганистане зафиксировано полное отключение интернета во всей стране](https://habr.com/ru/news/951998/?utm_campaign=951998&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Google для Windows предлагает пользователям удалить его и загрузить заново для «будущих обновлений»](https://habr.com/ru/news/951992/?utm_campaign=951992&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GLM-4.6 – очередное обновление от Z.ai](https://habr.com/ru/news/951980/?utm_campaign=951980&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры нацелились на школьников и студентов: в ТОП-3 входят фишинг, онлайн-мошенничество и ресурсы для «посева» ВПО](https://habr.com/ru/companies/solarsecurity/news/951974/?utm_campaign=951974&utm_source=habrahabr&utm_medium=rss)
-- [Эмоции школьников и студентов – вот куда бьют мошенники](https://habr.com/ru/companies/solarsecurity/news/951968/?utm_campaign=951968&utm_source=habrahabr&utm_medium=rss)
-- [Bing в Windows 11 «притворяется» поисковиком Google и продвигает благотворительность, чтобы удержать пользователей](https://habr.com/ru/news/951680/?utm_campaign=951680&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
