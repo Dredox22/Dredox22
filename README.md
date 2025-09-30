@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Managed Kuber в облаке MWS Cloud Platform: показываем архитектуру](https://habr.com/ru/companies/mws/news/951786/?utm_campaign=951786&utm_source=habrahabr&utm_medium=rss)
+- [В Brave доработали ИИ-поиск](https://habr.com/ru/news/951926/?utm_campaign=951926&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains встроили Claude Agent прямо в свои IDE](https://habr.com/ru/news/951924/?utm_campaign=951924&utm_source=habrahabr&utm_medium=rss)
+- [FCC по ошибке опубликовала конфиденциальные схемы iPhone 16e](https://habr.com/ru/news/951922/?utm_campaign=951922&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила ИИ-агента в Excel и Word](https://habr.com/ru/news/951910/?utm_campaign=951910&utm_source=habrahabr&utm_medium=rss)
-- [Новый ИИ Claude Sonnet 4.5 может программировать до 30 часов подряд](https://habr.com/ru/news/951906/?utm_campaign=951906&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск дистрибутива BSD Router Project 2.0 &lpar;BSDRP&rpar;](https://habr.com/ru/news/951714/?utm_campaign=951714&utm_source=habrahabr&utm_medium=rss)
-- [Релиз RapidRAW 1.4 и сразу 1.4.1 — открытого редактора изображений RAW](https://habr.com/ru/news/951698/?utm_campaign=951698&utm_source=habrahabr&utm_medium=rss)
-- [Вышел VidCoder 12.10 — открытый проект для копирования DVD/Blu-ray и перекодирования видео для ПК на Windows](https://habr.com/ru/news/951746/?utm_campaign=951746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
