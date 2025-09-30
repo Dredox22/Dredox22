@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» выложил две ИИ‑модели Giga‑Embeddings и Kandinsky Video Lite в открытый доступ](https://habr.com/ru/news/952096/?utm_campaign=952096&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Карты» увеличили зону работы отслеживания светофоров в онлайн‑режиме в пять раз](https://habr.com/ru/news/952070/?utm_campaign=952070&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic представила инструмент для создания интеллектуальных агентов](https://habr.com/ru/companies/bothub/news/952040/?utm_campaign=952040&utm_source=habrahabr&utm_medium=rss)
 - [Большое обновление Нейросаппорта: автоответы, кастомизация стилей, API-клиент на GitHub и не только](https://habr.com/ru/companies/yandex/news/952038/?utm_campaign=952038&utm_source=habrahabr&utm_medium=rss)
 - [30 сентября — последний день, когда AOL предоставляет доступ в интернет по модему через телефонную линию](https://habr.com/ru/news/952050/?utm_campaign=952050&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовит соцсеть на базе Sora 2 с контентом, полностью сгенерированным ИИ](https://habr.com/ru/companies/bothub/news/952024/?utm_campaign=952024&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic представила лучшую модель для кодинга — Claude Sonnet 4.5](https://habr.com/ru/companies/bothub/news/952016/?utm_campaign=952016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
