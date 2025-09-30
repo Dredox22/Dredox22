@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Президент OpenAI рассказал о будущем ИИ: каждом жителю Земли — по GPU](https://habr.com/ru/news/952268/?utm_campaign=952268&utm_source=habrahabr&utm_medium=rss)
 - [Opera выпустила ИИ-браузер Neon с подпиской за 20 долларов в месяц](https://habr.com/ru/news/952232/?utm_campaign=952232&utm_source=habrahabr&utm_medium=rss)
 - [Представлена Sora 2 — доступна бесплатно, но пока с ограничениями](https://habr.com/ru/news/952214/?utm_campaign=952214&utm_source=habrahabr&utm_medium=rss)
 - [АО «Решетнёв» впервые показало автоматизированную сборочную линию космических аппаратов массой до 300 кг](https://habr.com/ru/news/952212/?utm_campaign=952212&utm_source=habrahabr&utm_medium=rss)
 - [Приготовили DS-инженерам Weekend Offer](https://habr.com/ru/companies/avito/news/952208/?utm_campaign=952208&utm_source=habrahabr&utm_medium=rss)
-- [Lufthansa сокращает 4 000 сотрудников, делая ставку на ИИ и автоматизацию](https://habr.com/ru/companies/bothub/news/952026/?utm_campaign=952026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
