@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Google для Windows предлагает пользователям удалить его и загрузить заново для «будущих обновлений»](https://habr.com/ru/news/951992/?utm_campaign=951992&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GLM-4.6 – очередное обновление от Z.ai](https://habr.com/ru/news/951980/?utm_campaign=951980&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры нацелились на школьников и студентов: в ТОП-3 входят фишинг, онлайн-мошенничество и ресурсы для «посева» ВПО](https://habr.com/ru/companies/solarsecurity/news/951974/?utm_campaign=951974&utm_source=habrahabr&utm_medium=rss)
+- [Эмоции школьников и студентов – вот куда бьют мошенники](https://habr.com/ru/companies/solarsecurity/news/951968/?utm_campaign=951968&utm_source=habrahabr&utm_medium=rss)
 - [Bing в Windows 11 «притворяется» поисковиком Google и продвигает благотворительность, чтобы удержать пользователей](https://habr.com/ru/news/951680/?utm_campaign=951680&utm_source=habrahabr&utm_medium=rss)
-- [В трекерах Tile нашли уязвимость для отслеживания передвижений пользователей](https://habr.com/ru/news/951950/?utm_campaign=951950&utm_source=habrahabr&utm_medium=rss)
-- [UserGate uFactor — секретная сессия](https://habr.com/ru/companies/usergate/news/951954/?utm_campaign=951954&utm_source=habrahabr&utm_medium=rss)
-- [Google начала предлагать пользователям ПК на Windows 10 переходить на Chromebook с Chrome OS](https://habr.com/ru/news/951944/?utm_campaign=951944&utm_source=habrahabr&utm_medium=rss)
-- [Electronic Arts продана за $55 млрд группе инвесторов, включая Silver Lake и Суверенный фонд Саудовской Аравии](https://habr.com/ru/news/951946/?utm_campaign=951946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
