@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «В России создают приложение для оценки традиционных ценностей студентов»](https://habr.com/ru/news/952144/?utm_campaign=952144&utm_source=habrahabr&utm_medium=rss)
+- [InternLM представила модели CapRL-3B и CapRL-Eval-3B для генерации текста к изображениям](https://habr.com/ru/companies/bothub/news/952036/?utm_campaign=952036&utm_source=habrahabr&utm_medium=rss)
 - [Valve добавила проверки Secure Boot и TPM в Steam для Windows](https://habr.com/ru/news/952118/?utm_campaign=952118&utm_source=habrahabr&utm_medium=rss)
 - [Почти 300 компаний получили статус проверенного отправителя в системе Mail.ru](https://habr.com/ru/news/952100/?utm_campaign=952100&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» выложил две ИИ‑модели Giga‑Embeddings и Kandinsky Video Lite в открытый доступ](https://habr.com/ru/news/952096/?utm_campaign=952096&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» увеличили зону работы отслеживания светофоров в онлайн‑режиме в пять раз](https://habr.com/ru/news/952070/?utm_campaign=952070&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic представила инструмент для создания интеллектуальных агентов](https://habr.com/ru/companies/bothub/news/952040/?utm_campaign=952040&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
