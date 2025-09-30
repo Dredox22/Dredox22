@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Runway запускает бесплатный курс AI for Gaming для разработчиков игр](https://habr.com/ru/companies/bothub/news/952032/?utm_campaign=952032&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «В России создают приложение для оценки традиционных ценностей студентов»](https://habr.com/ru/news/952144/?utm_campaign=952144&utm_source=habrahabr&utm_medium=rss)
-- [InternLM представила модели CapRL-3B и CapRL-Eval-3B для генерации текста к изображениям](https://habr.com/ru/companies/bothub/news/952036/?utm_campaign=952036&utm_source=habrahabr&utm_medium=rss)
-- [Valve добавила проверки Secure Boot и TPM в Steam для Windows](https://habr.com/ru/news/952118/?utm_campaign=952118&utm_source=habrahabr&utm_medium=rss)
-- [Почти 300 компаний получили статус проверенного отправителя в системе Mail.ru](https://habr.com/ru/news/952100/?utm_campaign=952100&utm_source=habrahabr&utm_medium=rss)
+- [Переехавший в 2023 году из США в Россию IT-специалист дал оценку мессенджеру Max](https://habr.com/ru/news/952200/?utm_campaign=952200&utm_source=habrahabr&utm_medium=rss)
+- [Cursor запустил бесплатный мини-курс для разработчиков по работе с ИИ](https://habr.com/ru/companies/bothub/news/952022/?utm_campaign=952022&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи рассказали о сбоях при внедрении маркировки звонков](https://habr.com/ru/news/952194/?utm_campaign=952194&utm_source=habrahabr&utm_medium=rss)
+- [Представлен прототип Imagine with Claude — ИИ-песочницы на базе Claude Sonnet 4.5](https://habr.com/ru/news/952190/?utm_campaign=952190&utm_source=habrahabr&utm_medium=rss)
+- [Альтман: «Во многих аспектах GPT-5 уже умнее многих людей, и скоро 30-40% задач в экономике будет выполнять ИИ»](https://habr.com/ru/news/952188/?utm_campaign=952188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
