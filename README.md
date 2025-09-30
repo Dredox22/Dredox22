@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск дистрибутива BSD Router Project 2.0 &lpar;BSDRP&rpar;](https://habr.com/ru/news/951714/?utm_campaign=951714&utm_source=habrahabr&utm_medium=rss)
+- [Релиз RapidRAW 1.4 и сразу 1.4.1 — открытого редактора изображений RAW](https://habr.com/ru/news/951698/?utm_campaign=951698&utm_source=habrahabr&utm_medium=rss)
+- [Вышел VidCoder 12.10 — открытый проект для копирования DVD/Blu-ray и перекодирования видео для ПК на Windows](https://habr.com/ru/news/951746/?utm_campaign=951746&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Coreboot 25.09, представляющего альтернативы проприетарным прошивкам](https://habr.com/ru/news/951554/?utm_campaign=951554&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь может оплачивать товары в интернете](https://habr.com/ru/news/951878/?utm_campaign=951878&utm_source=habrahabr&utm_medium=rss)
-- [Геймер построил языковую модель с 5 млн параметров в Minecraft](https://habr.com/ru/news/951872/?utm_campaign=951872&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI планирует запустить ИИ-версию TikTok — Wired](https://habr.com/ru/news/951870/?utm_campaign=951870&utm_source=habrahabr&utm_medium=rss)
-- [Ремонтные работы подводной части ВОЛС на Камчатке из-за непогоды перенесли на период с 2 по 5 октября 2025 года](https://habr.com/ru/news/951854/?utm_campaign=951854&utm_source=habrahabr&utm_medium=rss)
-- [Solar appScreener 3.15.5 поддерживает анализ кода согласно национальному стандарту ГОСТ 71207-2024](https://habr.com/ru/companies/solarsecurity/news/951848/?utm_campaign=951848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
