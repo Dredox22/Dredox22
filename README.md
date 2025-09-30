@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft запустила ИИ-агента в Excel и Word](https://habr.com/ru/news/951910/?utm_campaign=951910&utm_source=habrahabr&utm_medium=rss)
+- [Новый ИИ Claude Sonnet 4.5 может программировать до 30 часов подряд](https://habr.com/ru/news/951906/?utm_campaign=951906&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск дистрибутива BSD Router Project 2.0 &lpar;BSDRP&rpar;](https://habr.com/ru/news/951714/?utm_campaign=951714&utm_source=habrahabr&utm_medium=rss)
 - [Релиз RapidRAW 1.4 и сразу 1.4.1 — открытого редактора изображений RAW](https://habr.com/ru/news/951698/?utm_campaign=951698&utm_source=habrahabr&utm_medium=rss)
 - [Вышел VidCoder 12.10 — открытый проект для копирования DVD/Blu-ray и перекодирования видео для ПК на Windows](https://habr.com/ru/news/951746/?utm_campaign=951746&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Coreboot 25.09, представляющего альтернативы проприетарным прошивкам](https://habr.com/ru/news/951554/?utm_campaign=951554&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT теперь может оплачивать товары в интернете](https://habr.com/ru/news/951878/?utm_campaign=951878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
