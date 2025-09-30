@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Managed Kuber в облаке MWS Cloud Platform: показываем архитектуру](https://habr.com/ru/companies/mws/news/951786/?utm_campaign=951786&utm_source=habrahabr&utm_medium=rss)
-- [В Brave доработали ИИ-поиск](https://habr.com/ru/news/951926/?utm_campaign=951926&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains встроили Claude Agent прямо в свои IDE](https://habr.com/ru/news/951924/?utm_campaign=951924&utm_source=habrahabr&utm_medium=rss)
-- [FCC по ошибке опубликовала конфиденциальные схемы iPhone 16e](https://habr.com/ru/news/951922/?utm_campaign=951922&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запустила ИИ-агента в Excel и Word](https://habr.com/ru/news/951910/?utm_campaign=951910&utm_source=habrahabr&utm_medium=rss)
+- [Bing в Windows 11 «притворяется» поисковиком Google и продвигает благотворительность, чтобы удержать пользователей](https://habr.com/ru/news/951680/?utm_campaign=951680&utm_source=habrahabr&utm_medium=rss)
+- [В трекерах Tile нашли уязвимость для отслеживания передвижений пользователей](https://habr.com/ru/news/951950/?utm_campaign=951950&utm_source=habrahabr&utm_medium=rss)
+- [UserGate uFactor — секретная сессия](https://habr.com/ru/companies/usergate/news/951954/?utm_campaign=951954&utm_source=habrahabr&utm_medium=rss)
+- [Google начала предлагать пользователям ПК на Windows 10 переходить на Chromebook с Chrome OS](https://habr.com/ru/news/951944/?utm_campaign=951944&utm_source=habrahabr&utm_medium=rss)
+- [Electronic Arts продана за $55 млрд группе инвесторов, включая Silver Lake и Суверенный фонд Саудовской Аравии](https://habr.com/ru/news/951946/?utm_campaign=951946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
