@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Переехавший в 2023 году из США в Россию IT-специалист дал оценку мессенджеру Max](https://habr.com/ru/news/952200/?utm_campaign=952200&utm_source=habrahabr&utm_medium=rss)
+- [Lufthansa сокращает 4 000 сотрудников, делая ставку на ИИ и автоматизацию](https://habr.com/ru/companies/bothub/news/952026/?utm_campaign=952026&utm_source=habrahabr&utm_medium=rss)
+- [Вышли релизы безопасности Joomla 5.3.4 и Joomla 4.4.14](https://habr.com/ru/news/952204/?utm_campaign=952204&utm_source=habrahabr&utm_medium=rss)
 - [Cursor запустил бесплатный мини-курс для разработчиков по работе с ИИ](https://habr.com/ru/companies/bothub/news/952022/?utm_campaign=952022&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи рассказали о сбоях при внедрении маркировки звонков](https://habr.com/ru/news/952194/?utm_campaign=952194&utm_source=habrahabr&utm_medium=rss)
 - [Представлен прототип Imagine with Claude — ИИ-песочницы на базе Claude Sonnet 4.5](https://habr.com/ru/news/952190/?utm_campaign=952190&utm_source=habrahabr&utm_medium=rss)
-- [Альтман: «Во многих аспектах GPT-5 уже умнее многих людей, и скоро 30-40% задач в экономике будет выполнять ИИ»](https://habr.com/ru/news/952188/?utm_campaign=952188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
