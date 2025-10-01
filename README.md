@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google объявила победителей хакатона Nano Banana с призовым фондом $400 000](https://habr.com/ru/news/952348/?utm_campaign=952348&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила продажи товаров через ChatGPT](https://habr.com/ru/companies/bothub/news/952356/?utm_campaign=952356&utm_source=habrahabr&utm_medium=rss)
+- [Western Digital обновила прошивку моделей NAS My Cloud из-за критической уязвимости](https://habr.com/ru/news/952342/?utm_campaign=952342&utm_source=habrahabr&utm_medium=rss)
+- [Google внедрила блокировку программ-вымогателей с помощью ИИ на «Диске»](https://habr.com/ru/news/952334/?utm_campaign=952334&utm_source=habrahabr&utm_medium=rss)
 - [АСКОН запускает открытое бета-тестирование КОМПАС-3D для Linux](https://habr.com/ru/companies/ascon/news/952252/?utm_campaign=952252&utm_source=habrahabr&utm_medium=rss)
-- [Sony представила сенсор с разрешением 105 Мп и глобальным затвором](https://habr.com/ru/news/952316/?utm_campaign=952316&utm_source=habrahabr&utm_medium=rss)
-- [Зафиксирован первый случай взлома чата в Max](https://habr.com/ru/news/952312/?utm_campaign=952312&utm_source=habrahabr&utm_medium=rss)
-- [Суд в США разрешил американской прокуратуре удалённый доступ к серверам Telegram](https://habr.com/ru/news/952308/?utm_campaign=952308&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft устранила баг воспроизведения видео с защитой DRM в Windows у некоторых пользователей](https://habr.com/ru/news/952306/?utm_campaign=952306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
