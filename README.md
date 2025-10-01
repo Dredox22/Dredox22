@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Президент OpenAI рассказал о будущем ИИ: каждом жителю Земли — по GPU](https://habr.com/ru/news/952268/?utm_campaign=952268&utm_source=habrahabr&utm_medium=rss)
-- [Opera выпустила ИИ-браузер Neon с подпиской за 20 долларов в месяц](https://habr.com/ru/news/952232/?utm_campaign=952232&utm_source=habrahabr&utm_medium=rss)
-- [Представлена Sora 2 — доступна бесплатно, но пока с ограничениями](https://habr.com/ru/news/952214/?utm_campaign=952214&utm_source=habrahabr&utm_medium=rss)
-- [АО «Решетнёв» впервые показало автоматизированную сборочную линию космических аппаратов массой до 300 кг](https://habr.com/ru/news/952212/?utm_campaign=952212&utm_source=habrahabr&utm_medium=rss)
-- [Приготовили DS-инженерам Weekend Offer](https://habr.com/ru/companies/avito/news/952208/?utm_campaign=952208&utm_source=habrahabr&utm_medium=rss)
+- [Дуров рассказал в 4-часовом интервью Лексу Фридману про свободу, биткоин, здоровье, смартфоны и команду Telegram](https://habr.com/ru/news/952290/?utm_campaign=952290&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект FlareProx — прокси на Cloudflare для веб-скрейпинга и пентестов](https://habr.com/ru/news/952098/?utm_campaign=952098&utm_source=habrahabr&utm_medium=rss)
+- [Релиз планетария с открытым кодом Stellarium 25.3](https://habr.com/ru/news/951914/?utm_campaign=951914&utm_source=habrahabr&utm_medium=rss)
+- [Стоявший у истоков движения открытого ПО разработчик Эрик Рэймонд высказался по поводу Code of Conduct](https://habr.com/ru/news/952076/?utm_campaign=952076&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск GnuCash 5.13](https://habr.com/ru/news/951900/?utm_campaign=951900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
