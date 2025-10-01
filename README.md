@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Statcounter: доля Google Chrome достигла нового исторического максимума](https://habr.com/ru/news/952506/?utm_campaign=952506&utm_source=habrahabr&utm_medium=rss)
+- [В Google DeepMind обучили ИИ Dreamer 4 добывать алмазы в Minecraft — почему это важно](https://habr.com/ru/news/952502/?utm_campaign=952502&utm_source=habrahabr&utm_medium=rss)
+- [Selectel открывает регистрацию на багбаунти](https://habr.com/ru/companies/selectel/news/952498/?utm_campaign=952498&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA показала новые возможности для робототехники и симуляции](https://habr.com/ru/companies/bothub/news/952478/?utm_campaign=952478&utm_source=habrahabr&utm_medium=rss)
 - [В 2025 году больше половины корпораций увеличили бюджет на кибербезопасность на 20–40%](https://habr.com/ru/companies/k2tech/news/952468/?utm_campaign=952468&utm_source=habrahabr&utm_medium=rss)
-- [Hitachi запустила фабрику искусственного интеллекта на базе аппаратных решений Nvidia для продвижения физического ИИ](https://habr.com/ru/news/952464/?utm_campaign=952464&utm_source=habrahabr&utm_medium=rss)
-- [Periodic Labs привлекла $300 млн на ИИ-лаборатории будущего](https://habr.com/ru/companies/bothub/news/952452/?utm_campaign=952452&utm_source=habrahabr&utm_medium=rss)
-- [GLM-4.6 уже доступна в плагине Koda для VS Code. Можно попробовать бесплатно](https://habr.com/ru/companies/koda/news/952408/?utm_campaign=952408&utm_source=habrahabr&utm_medium=rss)
-- [Центр безопасности Мax начал блокировать пользователям доступ в мессенджер через сторонние приложения &lpar;моды&rpar;](https://habr.com/ru/news/952426/?utm_campaign=952426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
