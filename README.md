@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Periodic Labs привлекла $300 млн на ИИ-лаборатории будущего](https://habr.com/ru/companies/bothub/news/952452/?utm_campaign=952452&utm_source=habrahabr&utm_medium=rss)
+- [GLM-4.6 уже доступна в плагине Koda для VS Code. Можно попробовать бесплатно](https://habr.com/ru/companies/koda/news/952408/?utm_campaign=952408&utm_source=habrahabr&utm_medium=rss)
+- [Центр безопасности Мax начал блокировать пользователям доступ в мессенджер через сторонние приложения &lpar;моды&rpar;](https://habr.com/ru/news/952426/?utm_campaign=952426&utm_source=habrahabr&utm_medium=rss)
 - [Сбербанк выложил новые модели для RAG и генерации видео](https://habr.com/ru/companies/bothub/news/952368/?utm_campaign=952368&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: накопительное обновление для Windows 11 24H2 ускоряет «Проводник» и добавляет ему новые ИИ-функции](https://habr.com/ru/news/952440/?utm_campaign=952440&utm_source=habrahabr&utm_medium=rss)
-- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в октябре](https://habr.com/ru/companies/netologyru/news/952164/?utm_campaign=952164&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Sora 2 от OpenAI](https://habr.com/ru/companies/bothub/news/952376/?utm_campaign=952376&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek показал, как урезать цену API-запросов почти вдвое](https://habr.com/ru/companies/bothub/news/952360/?utm_campaign=952360&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
