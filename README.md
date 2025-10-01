@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Афганистане после двух суток шатдауна зафиксировано частичное возвращение интернета во всей стране](https://habr.com/ru/news/952534/?utm_campaign=952534&utm_source=habrahabr&utm_medium=rss)
+- [Директор «Космической связи» рассказал о взломе GPS-устройств](https://habr.com/ru/news/952520/?utm_campaign=952520&utm_source=habrahabr&utm_medium=rss)
 - [Statcounter: доля Google Chrome достигла нового исторического максимума](https://habr.com/ru/news/952506/?utm_campaign=952506&utm_source=habrahabr&utm_medium=rss)
 - [В Google DeepMind обучили ИИ Dreamer 4 добывать алмазы в Minecraft — почему это важно](https://habr.com/ru/news/952502/?utm_campaign=952502&utm_source=habrahabr&utm_medium=rss)
 - [Selectel открывает регистрацию на багбаунти](https://habr.com/ru/companies/selectel/news/952498/?utm_campaign=952498&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA показала новые возможности для робототехники и симуляции](https://habr.com/ru/companies/bothub/news/952478/?utm_campaign=952478&utm_source=habrahabr&utm_medium=rss)
-- [В 2025 году больше половины корпораций увеличили бюджет на кибербезопасность на 20–40%](https://habr.com/ru/companies/k2tech/news/952468/?utm_campaign=952468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
