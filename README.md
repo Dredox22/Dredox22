@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 2026 году будет выпущен первый импортозамещённый геостационарный спутник](https://habr.com/ru/news/952564/?utm_campaign=952564&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Cursor 1.7: теперь с «хуками» и автокомплитом при общении с агентом](https://habr.com/ru/news/952562/?utm_campaign=952562&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Минтранс РФ начнёт тестировать посадку пассажиров по биометрии на поездах и самолётах»](https://habr.com/ru/news/952540/?utm_campaign=952540&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic рассказала, как правильно работать с контекстом при создании LLM-агентов](https://habr.com/ru/companies/bothub/news/952460/?utm_campaign=952460&utm_source=habrahabr&utm_medium=rss)
 - [В Афганистане после двух суток шатдауна зафиксировано частичное возвращение интернета во всей стране](https://habr.com/ru/news/952534/?utm_campaign=952534&utm_source=habrahabr&utm_medium=rss)
-- [Директор «Космической связи» рассказал о взломе GPS-устройств](https://habr.com/ru/news/952520/?utm_campaign=952520&utm_source=habrahabr&utm_medium=rss)
-- [Statcounter: доля Google Chrome достигла нового исторического максимума](https://habr.com/ru/news/952506/?utm_campaign=952506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
