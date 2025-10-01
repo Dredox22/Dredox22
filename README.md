@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Дуров рассказал в 4-часовом интервью Лексу Фридману про свободу, биткоин, здоровье, смартфоны и команду Telegram](https://habr.com/ru/news/952290/?utm_campaign=952290&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект FlareProx — прокси на Cloudflare для веб-скрейпинга и пентестов](https://habr.com/ru/news/952098/?utm_campaign=952098&utm_source=habrahabr&utm_medium=rss)
-- [Релиз планетария с открытым кодом Stellarium 25.3](https://habr.com/ru/news/951914/?utm_campaign=951914&utm_source=habrahabr&utm_medium=rss)
-- [Стоявший у истоков движения открытого ПО разработчик Эрик Рэймонд высказался по поводу Code of Conduct](https://habr.com/ru/news/952076/?utm_campaign=952076&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск GnuCash 5.13](https://habr.com/ru/news/951900/?utm_campaign=951900&utm_source=habrahabr&utm_medium=rss)
+- [АСКОН запускает открытое бета-тестирование КОМПАС-3D для Linux](https://habr.com/ru/companies/ascon/news/952252/?utm_campaign=952252&utm_source=habrahabr&utm_medium=rss)
+- [Sony представила сенсор с разрешением 105 Мп и глобальным затвором](https://habr.com/ru/news/952316/?utm_campaign=952316&utm_source=habrahabr&utm_medium=rss)
+- [Зафиксирован первый случай взлома чата в Max](https://habr.com/ru/news/952312/?utm_campaign=952312&utm_source=habrahabr&utm_medium=rss)
+- [Суд в США разрешил американской прокуратуре удалённый доступ к серверам Telegram](https://habr.com/ru/news/952308/?utm_campaign=952308&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft устранила баг воспроизведения видео с защитой DRM в Windows у некоторых пользователей](https://habr.com/ru/news/952306/?utm_campaign=952306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
