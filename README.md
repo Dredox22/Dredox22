@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбербанк выложил новые модели для RAG и генерации видео](https://habr.com/ru/companies/bothub/news/952368/?utm_campaign=952368&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: накопительное обновление для Windows 11 24H2 ускоряет «Проводник» и добавляет ему новые ИИ-функции](https://habr.com/ru/news/952440/?utm_campaign=952440&utm_source=habrahabr&utm_medium=rss)
+- [10 бесплатных онлайн-курсов и занятий, которые стоит пройти в октябре](https://habr.com/ru/companies/netologyru/news/952164/?utm_campaign=952164&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Sora 2 от OpenAI](https://habr.com/ru/companies/bothub/news/952376/?utm_campaign=952376&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek показал, как урезать цену API-запросов почти вдвое](https://habr.com/ru/companies/bothub/news/952360/?utm_campaign=952360&utm_source=habrahabr&utm_medium=rss)
-- [Угрозы, векторы и тактики: специалисты ЦК F6 назвали актуальные киберугрозы для российских компаний 2024-2025](https://habr.com/ru/companies/F6/news/952358/?utm_campaign=952358&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректора Ford не впечатлила версия Apple CarPlay Ultra](https://habr.com/ru/news/952362/?utm_campaign=952362&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft снова объединяет свои команды разработчиков Windows](https://habr.com/ru/news/952354/?utm_campaign=952354&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила победителей хакатона Nano Banana с призовым фондом $400 000](https://habr.com/ru/news/952348/?utm_campaign=952348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
