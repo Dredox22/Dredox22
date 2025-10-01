@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek показал, как урезать цену API-запросов почти вдвое](https://habr.com/ru/companies/bothub/news/952360/?utm_campaign=952360&utm_source=habrahabr&utm_medium=rss)
+- [Угрозы, векторы и тактики: специалисты ЦК F6 назвали актуальные киберугрозы для российских компаний 2024-2025](https://habr.com/ru/companies/F6/news/952358/?utm_campaign=952358&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректора Ford не впечатлила версия Apple CarPlay Ultra](https://habr.com/ru/news/952362/?utm_campaign=952362&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft снова объединяет свои команды разработчиков Windows](https://habr.com/ru/news/952354/?utm_campaign=952354&utm_source=habrahabr&utm_medium=rss)
 - [Google объявила победителей хакатона Nano Banana с призовым фондом $400 000](https://habr.com/ru/news/952348/?utm_campaign=952348&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила продажи товаров через ChatGPT](https://habr.com/ru/companies/bothub/news/952356/?utm_campaign=952356&utm_source=habrahabr&utm_medium=rss)
-- [Western Digital обновила прошивку моделей NAS My Cloud из-за критической уязвимости](https://habr.com/ru/news/952342/?utm_campaign=952342&utm_source=habrahabr&utm_medium=rss)
-- [Google внедрила блокировку программ-вымогателей с помощью ИИ на «Диске»](https://habr.com/ru/news/952334/?utm_campaign=952334&utm_source=habrahabr&utm_medium=rss)
-- [АСКОН запускает открытое бета-тестирование КОМПАС-3D для Linux](https://habr.com/ru/companies/ascon/news/952252/?utm_campaign=952252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
