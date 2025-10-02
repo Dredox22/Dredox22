@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст соединил по сети два компьютера с помощью лазеров](https://habr.com/ru/news/952654/?utm_campaign=952654&utm_source=habrahabr&utm_medium=rss)
+- [Вышел проект Ghost in opcode с Proof-of-Concept архитектурной «слепой зоны», влияющей на инструменты реверс-инжиниринга](https://habr.com/ru/news/952658/?utm_campaign=952658&utm_source=habrahabr&utm_medium=rss)
 - [Техлид Anthropic: текущие технологии могут подвести ИИ вплотную к AGI](https://habr.com/ru/news/952628/?utm_campaign=952628&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft запустила дочернюю компанию Vantage Studios для разработки своих крупнейших франшиз](https://habr.com/ru/news/952622/?utm_campaign=952622&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux-дистрибутива MiniOS Flux 5.1, работающего напрямую с USB-накопителя](https://habr.com/ru/news/952328/?utm_campaign=952328&utm_source=habrahabr&utm_medium=rss)
-- [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 12.0](https://habr.com/ru/news/952544/?utm_campaign=952544&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария MediaInfo 25.09 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/952422/?utm_campaign=952422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
