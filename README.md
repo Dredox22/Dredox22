@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Granite 4: IBM представила линейку маленьких, но шустрых LLM](https://habr.com/ru/news/952968/?utm_campaign=952968&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-браузер Comet от Perplexity бесплатно вышел для всех](https://habr.com/ru/news/952966/?utm_campaign=952966&utm_source=habrahabr&utm_medium=rss)
+- [Суд оштрафовал «Почту России» за долгую доставку электронного письма](https://habr.com/ru/news/952962/?utm_campaign=952962&utm_source=habrahabr&utm_medium=rss)
 - [Вышла улучшенная версия Google Nano Banana](https://habr.com/ru/news/952948/?utm_campaign=952948&utm_source=habrahabr&utm_medium=rss)
 - [Часть операторов связи запустили продажу «чистых номеров» для борьбы с нежелательными звонками](https://habr.com/ru/news/952936/?utm_campaign=952936&utm_source=habrahabr&utm_medium=rss)
-- [IBM представила Granite 4.0 — открытый ИИ, обошедший Gemma 3 27B по индексу интеллекта](https://habr.com/ru/news/952906/?utm_campaign=952906&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Thinking Machines представил инструмент автоматизации создания пользовательских моделей ИИ](https://habr.com/ru/news/952898/?utm_campaign=952898&utm_source=habrahabr&utm_medium=rss)
-- [Пуля на время вывела из строя систему связи провайдера интернета у тысяч жителей Северного и Центрального Техаса](https://habr.com/ru/news/952894/?utm_campaign=952894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
