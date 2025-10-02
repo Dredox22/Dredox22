@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Instagram**: компания не использует микрофон для прослушивания разговоров пользователей](https://habr.com/ru/news/952702/?utm_campaign=952702&utm_source=habrahabr&utm_medium=rss)
+- [Новости из мира ML: очередные крупные сделки и трещины в хайпе GenAI](https://habr.com/ru/companies/selectel/news/952424/?utm_campaign=952424&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft принудительно установит больше приложений в Windows 11 для «повышения производительности»](https://habr.com/ru/news/952666/?utm_campaign=952666&utm_source=habrahabr&utm_medium=rss)
+- [UserGate начинает поставки аппаратных межсетевых экранов для защиты веб-приложений](https://habr.com/ru/companies/usergate/news/952688/?utm_campaign=952688&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст соединил по сети два компьютера с помощью лазеров](https://habr.com/ru/news/952654/?utm_campaign=952654&utm_source=habrahabr&utm_medium=rss)
-- [Вышел проект Ghost in opcode с Proof-of-Concept архитектурной «слепой зоны», влияющей на инструменты реверс-инжиниринга](https://habr.com/ru/news/952658/?utm_campaign=952658&utm_source=habrahabr&utm_medium=rss)
-- [Техлид Anthropic: текущие технологии могут подвести ИИ вплотную к AGI](https://habr.com/ru/news/952628/?utm_campaign=952628&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft запустила дочернюю компанию Vantage Studios для разработки своих крупнейших франшиз](https://habr.com/ru/news/952622/?utm_campaign=952622&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux-дистрибутива MiniOS Flux 5.1, работающего напрямую с USB-накопителя](https://habr.com/ru/news/952328/?utm_campaign=952328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
