@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM представила Granite 4.0 — открытый ИИ, обошедший Gemma 3 27B по индексу интеллекта](https://habr.com/ru/news/952906/?utm_campaign=952906&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Thinking Machines представил инструмент автоматизации создания пользовательских моделей ИИ](https://habr.com/ru/news/952898/?utm_campaign=952898&utm_source=habrahabr&utm_medium=rss)
 - [Пуля на время вывела из строя систему связи провайдера интернета у тысяч жителей Северного и Центрального Техаса](https://habr.com/ru/news/952894/?utm_campaign=952894&utm_source=habrahabr&utm_medium=rss)
 - [Orange Pi представила мини-ПК на базе процессора Huawei Ascend 310](https://habr.com/ru/news/952884/?utm_campaign=952884&utm_source=habrahabr&utm_medium=rss)
 - [Маск первым в истории достиг состояния в 500 миллиардов долларов](https://habr.com/ru/companies/bothub/news/952756/?utm_campaign=952756&utm_source=habrahabr&utm_medium=rss)
-- [В России раскроют статистику по пробегу беспилотных автомобилей](https://habr.com/ru/news/952864/?utm_campaign=952864&utm_source=habrahabr&utm_medium=rss)
-- [Anker предложила платить владельцам камер Eufy за обмен видеороликами для обучения своего ИИ](https://habr.com/ru/news/952860/?utm_campaign=952860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
