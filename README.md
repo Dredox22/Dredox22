@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пуля на время вывела из строя систему связи провайдера интернета у тысяч жителей Северного и Центрального Техаса](https://habr.com/ru/news/952894/?utm_campaign=952894&utm_source=habrahabr&utm_medium=rss)
+- [Orange Pi представила мини-ПК на базе процессора Huawei Ascend 310](https://habr.com/ru/news/952884/?utm_campaign=952884&utm_source=habrahabr&utm_medium=rss)
+- [Маск первым в истории достиг состояния в 500 миллиардов долларов](https://habr.com/ru/companies/bothub/news/952756/?utm_campaign=952756&utm_source=habrahabr&utm_medium=rss)
 - [В России раскроют статистику по пробегу беспилотных автомобилей](https://habr.com/ru/news/952864/?utm_campaign=952864&utm_source=habrahabr&utm_medium=rss)
 - [Anker предложила платить владельцам камер Eufy за обмен видеороликами для обучения своего ИИ](https://habr.com/ru/news/952860/?utm_campaign=952860&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind представила ИИ, который помогает математикам открывать новые теоремы](https://habr.com/ru/companies/bothub/news/952780/?utm_campaign=952780&utm_source=habrahabr&utm_medium=rss)
-- [В мессенджере Max зарегистрировано более 40 миллионов пользователей и отправлено более 2 миллиардов сообщений](https://habr.com/ru/news/952836/?utm_campaign=952836&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Cursor 1.7](https://habr.com/ru/companies/bothub/news/952812/?utm_campaign=952812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
