@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мира Мурати привлекла рекордные $2 млрд в новый стартап](https://habr.com/ru/companies/bothub/news/952818/?utm_campaign=952818&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-стартап Миры Мурати Thinkig Machines представил первый продукт](https://habr.com/ru/news/952804/?utm_campaign=952804&utm_source=habrahabr&utm_medium=rss)
+- [Дуров создаст AI-лабораторию в Казахстане](https://habr.com/ru/companies/bothub/news/952788/?utm_campaign=952788&utm_source=habrahabr&utm_medium=rss)
 - [Знания из Википедии теперь проще использовать для ответов AI-моделей](https://habr.com/ru/companies/bothub/news/952766/?utm_campaign=952766&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI — самая дорогая частная компания в мире](https://habr.com/ru/companies/bothub/news/952752/?utm_campaign=952752&utm_source=habrahabr&utm_medium=rss)
-- [Что обсуждают в эпоху ИИ: анонс ключевых технологических сессий конференции «Сохранить всё. Безопасность информации»](https://habr.com/ru/companies/garda/news/952048/?utm_campaign=952048&utm_source=habrahabr&utm_medium=rss)
-- [Lenovo запустила сервисы GPU Advanced Services, обещающие на треть повысить производительность ИИ-приложений](https://habr.com/ru/news/952274/?utm_campaign=952274&utm_source=habrahabr&utm_medium=rss)
-- [Apacer представила эко-SSD с диффузором для эфирных масел](https://habr.com/ru/news/952592/?utm_campaign=952592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
