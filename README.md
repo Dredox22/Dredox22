@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sora 2: характеристики, как пользоваться бесплатно и какие ограничения](https://habr.com/ru/news/952584/?utm_campaign=952584&utm_source=habrahabr&utm_medium=rss)
-- [В 2026 году будет выпущен первый импортозамещённый геостационарный спутник](https://habr.com/ru/news/952564/?utm_campaign=952564&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Cursor 1.7: теперь с «хуками» и автокомплитом при общении с агентом](https://habr.com/ru/news/952562/?utm_campaign=952562&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Минтранс РФ начнёт тестировать посадку пассажиров по биометрии на поездах и самолётах»](https://habr.com/ru/news/952540/?utm_campaign=952540&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic рассказала, как правильно работать с контекстом при создании LLM-агентов](https://habr.com/ru/companies/bothub/news/952460/?utm_campaign=952460&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Linux-дистрибутива MiniOS Flux 5.1, работающего напрямую с USB-накопителя](https://habr.com/ru/news/952328/?utm_campaign=952328&utm_source=habrahabr&utm_medium=rss)
+- [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 12.0](https://habr.com/ru/news/952544/?utm_campaign=952544&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария MediaInfo 25.09 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/952422/?utm_campaign=952422&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 141](https://habr.com/ru/news/952466/?utm_campaign=952466&utm_source=habrahabr&utm_medium=rss)
+- [Релиз AnyDesk 9.6.2 для Windows](https://habr.com/ru/news/952458/?utm_campaign=952458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
