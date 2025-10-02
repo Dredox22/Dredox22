@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В мессенджере Max зарегистрировано более 40 миллионов пользователей и отправлено более 2 миллиардов сообщений](https://habr.com/ru/news/952836/?utm_campaign=952836&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Cursor 1.7](https://habr.com/ru/companies/bothub/news/952812/?utm_campaign=952812&utm_source=habrahabr&utm_medium=rss)
 - [Мира Мурати привлекла рекордные $2 млрд в новый стартап](https://habr.com/ru/companies/bothub/news/952818/?utm_campaign=952818&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-стартап Миры Мурати Thinkig Machines представил первый продукт](https://habr.com/ru/news/952804/?utm_campaign=952804&utm_source=habrahabr&utm_medium=rss)
 - [Дуров создаст AI-лабораторию в Казахстане](https://habr.com/ru/companies/bothub/news/952788/?utm_campaign=952788&utm_source=habrahabr&utm_medium=rss)
-- [Знания из Википедии теперь проще использовать для ответов AI-моделей](https://habr.com/ru/companies/bothub/news/952766/?utm_campaign=952766&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI — самая дорогая частная компания в мире](https://habr.com/ru/companies/bothub/news/952752/?utm_campaign=952752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
