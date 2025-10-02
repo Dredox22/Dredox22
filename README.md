@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Знания из Википедии теперь проще использовать для ответов AI-моделей](https://habr.com/ru/companies/bothub/news/952766/?utm_campaign=952766&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI — самая дорогая частная компания в мире](https://habr.com/ru/companies/bothub/news/952752/?utm_campaign=952752&utm_source=habrahabr&utm_medium=rss)
 - [Что обсуждают в эпоху ИИ: анонс ключевых технологических сессий конференции «Сохранить всё. Безопасность информации»](https://habr.com/ru/companies/garda/news/952048/?utm_campaign=952048&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo запустила сервисы GPU Advanced Services, обещающие на треть повысить производительность ИИ-приложений](https://habr.com/ru/news/952274/?utm_campaign=952274&utm_source=habrahabr&utm_medium=rss)
 - [Apacer представила эко-SSD с диффузором для эфирных масел](https://habr.com/ru/news/952592/?utm_campaign=952592&utm_source=habrahabr&utm_medium=rss)
-- [Число пользователей браузера Brave достигло 100 миллионов](https://habr.com/ru/news/952708/?utm_campaign=952708&utm_source=habrahabr&utm_medium=rss)
-- [Глава Instagram**: компания не использует микрофон для прослушивания разговоров пользователей](https://habr.com/ru/news/952702/?utm_campaign=952702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
