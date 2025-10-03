@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Goldman Sachs: у ИИ уже закончились данные для обучения](https://habr.com/ru/news/953142/?utm_campaign=953142&utm_source=habrahabr&utm_medium=rss)
+- [Ошибка Microsoft Defender вызвала предупреждения о необходимости обновлении BIOS на ПК](https://habr.com/ru/news/953128/?utm_campaign=953128&utm_source=habrahabr&utm_medium=rss)
+- [Собрали для вас 10 докладов про ML и LLM с Data Fest Day 2025](https://habr.com/ru/companies/avito/news/950916/?utm_campaign=950916&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила, что Media Creation Tool для Windows 11 не работает у некоторых пользователей](https://habr.com/ru/news/953014/?utm_campaign=953014&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Gmail могут отправлять письма со сквозным шифрованием кому угодно](https://habr.com/ru/news/953112/?utm_campaign=953112&utm_source=habrahabr&utm_medium=rss)
-- [Линус Торвальдс раскритиковал «совершенно безумную проверку формата Rust»](https://habr.com/ru/news/953094/?utm_campaign=953094&utm_source=habrahabr&utm_medium=rss)
-- [Red Hat подтвердила взлом внутреннего GitLab-сервера компании](https://habr.com/ru/news/953076/?utm_campaign=953076&utm_source=habrahabr&utm_medium=rss)
-- [В протокол безопасности Signal добавили Post-Quantum Ratchets](https://habr.com/ru/news/953072/?utm_campaign=953072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
