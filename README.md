@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Два дрона Amazon для доставки врезались в кран на территории Аризоны](https://habr.com/ru/news/953052/?utm_campaign=953052&utm_source=habrahabr&utm_medium=rss)
 - [Вышла OpenSSL 3.6.0](https://habr.com/ru/news/952980/?utm_campaign=952980&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.4](https://habr.com/ru/news/952820/?utm_campaign=952820&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Media Player Classic — Home Cinema 2.5.4](https://habr.com/ru/news/952790/?utm_campaign=952790&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.12](https://habr.com/ru/news/952846/?utm_campaign=952846&utm_source=habrahabr&utm_medium=rss)
-- [Релиз HopToDesk 1.44.5 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/952770/?utm_campaign=952770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
