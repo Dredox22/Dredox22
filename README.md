@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Simular AI представила продвинутый агент для работы с компьютером](https://habr.com/ru/companies/bothub/news/953246/?utm_campaign=953246&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic начинает делать ставку на AI-приложения для бизнеса](https://habr.com/ru/companies/bothub/news/953250/?utm_campaign=953250&utm_source=habrahabr&utm_medium=rss)
 - [Kling 2 Turbo стал лучшим ИИ для создания видео по версии Artificial Analysis](https://habr.com/ru/news/953290/?utm_campaign=953290&utm_source=habrahabr&utm_medium=rss)
 - [Sora 2 от OpenAI: ИИ выходит на рынок коротких видео и вызывает споры внутри компании](https://habr.com/ru/companies/bothub/news/953258/?utm_campaign=953258&utm_source=habrahabr&utm_medium=rss)
 - [США усиливают лидерство в вычислительных мощностях для ИИ](https://habr.com/ru/companies/bothub/news/953266/?utm_campaign=953266&utm_source=habrahabr&utm_medium=rss)
-- [В каждом телеграм-канале с регистрацией в реестре блогеров будет бот Роскомнадзора с правами администратора](https://habr.com/ru/news/953254/?utm_campaign=953254&utm_source=habrahabr&utm_medium=rss)
-- [Физики Гарвардского университета объявили о создании первого в мире квантового компьютера](https://habr.com/ru/companies/bothub/news/953248/?utm_campaign=953248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
