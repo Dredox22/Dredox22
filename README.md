@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sora 2 от OpenAI: ИИ выходит на рынок коротких видео и вызывает споры внутри компании](https://habr.com/ru/companies/bothub/news/953258/?utm_campaign=953258&utm_source=habrahabr&utm_medium=rss)
+- [США усиливают лидерство в вычислительных мощностях для ИИ](https://habr.com/ru/companies/bothub/news/953266/?utm_campaign=953266&utm_source=habrahabr&utm_medium=rss)
 - [В каждом телеграм-канале с регистрацией в реестре блогеров будет бот Роскомнадзора с правами администратора](https://habr.com/ru/news/953254/?utm_campaign=953254&utm_source=habrahabr&utm_medium=rss)
 - [Физики Гарвардского университета объявили о создании первого в мире квантового компьютера](https://habr.com/ru/companies/bothub/news/953248/?utm_campaign=953248&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Comet от Perplexity стал бесплатным](https://habr.com/ru/companies/bothub/news/953242/?utm_campaign=953242&utm_source=habrahabr&utm_medium=rss)
-- [Данные дороже денег: JetBrains меняет лицензии на код из реальных проектов](https://habr.com/ru/news/953214/?utm_campaign=953214&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила Sora 2 Pro](https://habr.com/ru/news/953202/?utm_campaign=953202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
