@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Линус Торвальдс раскритиковал «совершенно безумную проверку формата Rust»](https://habr.com/ru/news/953094/?utm_campaign=953094&utm_source=habrahabr&utm_medium=rss)
+- [Red Hat подтвердила взлом внутреннего GitLab-сервера компании](https://habr.com/ru/news/953076/?utm_campaign=953076&utm_source=habrahabr&utm_medium=rss)
+- [В протокол безопасности Signal добавили Post-Quantum Ratchets](https://habr.com/ru/news/953072/?utm_campaign=953072&utm_source=habrahabr&utm_medium=rss)
+- [После установки iOS 26 у части пользователей iMessage перестал работать корректно, в Apple пояснили, как починить](https://habr.com/ru/news/953068/?utm_campaign=953068&utm_source=habrahabr&utm_medium=rss)
 - [Два дрона Amazon для доставки врезались в кран на территории Аризоны](https://habr.com/ru/news/953052/?utm_campaign=953052&utm_source=habrahabr&utm_medium=rss)
-- [Вышла OpenSSL 3.6.0](https://habr.com/ru/news/952980/?utm_campaign=952980&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.4](https://habr.com/ru/news/952820/?utm_campaign=952820&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Media Player Classic — Home Cinema 2.5.4](https://habr.com/ru/news/952790/?utm_campaign=952790&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.12](https://habr.com/ru/news/952846/?utm_campaign=952846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
