@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft подтвердила, что Media Creation Tool для Windows 11 не работает у некоторых пользователей](https://habr.com/ru/news/953014/?utm_campaign=953014&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Gmail могут отправлять письма со сквозным шифрованием кому угодно](https://habr.com/ru/news/953112/?utm_campaign=953112&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс раскритиковал «совершенно безумную проверку формата Rust»](https://habr.com/ru/news/953094/?utm_campaign=953094&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat подтвердила взлом внутреннего GitLab-сервера компании](https://habr.com/ru/news/953076/?utm_campaign=953076&utm_source=habrahabr&utm_medium=rss)
 - [В протокол безопасности Signal добавили Post-Quantum Ratchets](https://habr.com/ru/news/953072/?utm_campaign=953072&utm_source=habrahabr&utm_medium=rss)
-- [После установки iOS 26 у части пользователей iMessage перестал работать корректно, в Apple пояснили, как починить](https://habr.com/ru/news/953068/?utm_campaign=953068&utm_source=habrahabr&utm_medium=rss)
-- [Два дрона Amazon для доставки врезались в кран на территории Аризоны](https://habr.com/ru/news/953052/?utm_campaign=953052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
