@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [JetBrains предлагает компаниям бесплатные лицензии на IDE взамен на данные для обучения моделей](https://habr.com/ru/news/953006/?utm_campaign=953006&utm_source=habrahabr&utm_medium=rss)
-- [Granite 4: IBM представила линейку маленьких, но шустрых LLM](https://habr.com/ru/news/952968/?utm_campaign=952968&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-браузер Comet от Perplexity бесплатно вышел для всех](https://habr.com/ru/news/952966/?utm_campaign=952966&utm_source=habrahabr&utm_medium=rss)
-- [Суд оштрафовал «Почту России» за долгую доставку электронного письма](https://habr.com/ru/news/952962/?utm_campaign=952962&utm_source=habrahabr&utm_medium=rss)
-- [Вышла улучшенная версия Google Nano Banana](https://habr.com/ru/news/952948/?utm_campaign=952948&utm_source=habrahabr&utm_medium=rss)
+- [Вышла OpenSSL 3.6.0](https://habr.com/ru/news/952980/?utm_campaign=952980&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.4](https://habr.com/ru/news/952820/?utm_campaign=952820&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Media Player Classic — Home Cinema 2.5.4](https://habr.com/ru/news/952790/?utm_campaign=952790&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.12](https://habr.com/ru/news/952846/?utm_campaign=952846&utm_source=habrahabr&utm_medium=rss)
+- [Релиз HopToDesk 1.44.5 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/952770/?utm_campaign=952770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
