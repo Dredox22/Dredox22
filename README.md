@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikidata получил новую базу данных в векторном исполнении для обработки моделями ИИ](https://habr.com/ru/news/953376/?utm_campaign=953376&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый Intel Thermal Daemon 2.5.10](https://habr.com/ru/news/953322/?utm_campaign=953322&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 141](https://habr.com/ru/news/953316/?utm_campaign=953316&utm_source=habrahabr&utm_medium=rss)
 - [Google за систему подтверждения личности и регистрации приложений с разработчиков Android-приложений будет брать $25](https://habr.com/ru/news/953170/?utm_campaign=953170&utm_source=habrahabr&utm_medium=rss)
 - [В CША полиция остановила роботакси Waymo из-за подозрения на пьяное вождение](https://habr.com/ru/news/953332/?utm_campaign=953332&utm_source=habrahabr&utm_medium=rss)
-- [РКН: бот trustchannelbot от Роскомнадзора не может отнять права у владельца, других администраторов или удалить канал](https://habr.com/ru/news/953326/?utm_campaign=953326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
