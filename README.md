@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Расходы на ИИ оценили в $7 трлн за 10 лет. Это сопоставимо с ВВП Британии и Франции](https://habr.com/ru/news/953442/?utm_campaign=953442&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Такси» выпустило новую серию документального сериала «Антологии технологий»](https://habr.com/ru/news/953422/?utm_campaign=953422&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили атаку Mice-E-Mouse для прослушивания пользователей с помощью геймерской мышки](https://habr.com/ru/news/953400/?utm_campaign=953400&utm_source=habrahabr&utm_medium=rss)
 - [Релиз RightNow AI — первый код ИИ-редактора для CUDA](https://habr.com/ru/news/953390/?utm_campaign=953390&utm_source=habrahabr&utm_medium=rss)
 - [Wikidata получил новую базу данных в векторном исполнении для обработки моделями ИИ](https://habr.com/ru/news/953376/?utm_campaign=953376&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый Intel Thermal Daemon 2.5.10](https://habr.com/ru/news/953322/?utm_campaign=953322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
