@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый Intel Thermal Daemon 2.5.10](https://habr.com/ru/news/953322/?utm_campaign=953322&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Microsoft Edge 141](https://habr.com/ru/news/953316/?utm_campaign=953316&utm_source=habrahabr&utm_medium=rss)
+- [Google за систему подтверждения личности и регистрации приложений с разработчиков Android-приложений будет брать $25](https://habr.com/ru/news/953170/?utm_campaign=953170&utm_source=habrahabr&utm_medium=rss)
 - [В CША полиция остановила роботакси Waymo из-за подозрения на пьяное вождение](https://habr.com/ru/news/953332/?utm_campaign=953332&utm_source=habrahabr&utm_medium=rss)
 - [РКН: бот trustchannelbot от Роскомнадзора не может отнять права у владельца, других администраторов или удалить канал](https://habr.com/ru/news/953326/?utm_campaign=953326&utm_source=habrahabr&utm_medium=rss)
-- [Hume AI выпустил быструю модель для синтеза речи](https://habr.com/ru/companies/bothub/news/953244/?utm_campaign=953244&utm_source=habrahabr&utm_medium=rss)
-- [Simular AI представила продвинутый агент для работы с компьютером](https://habr.com/ru/companies/bothub/news/953246/?utm_campaign=953246&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic начинает делать ставку на AI-приложения для бизнеса](https://habr.com/ru/companies/bothub/news/953250/?utm_campaign=953250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
