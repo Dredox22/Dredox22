@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователи представили атаку для прослушивания пользователей с помощью геймерской мышки Mice-E-Mouse](https://habr.com/ru/news/953400/?utm_campaign=953400&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи представили атаку Mice-E-Mouse для прослушивания пользователей с помощью геймерской мышки](https://habr.com/ru/news/953400/?utm_campaign=953400&utm_source=habrahabr&utm_medium=rss)
 - [Релиз RightNow AI — первый код ИИ-редактора для CUDA](https://habr.com/ru/news/953390/?utm_campaign=953390&utm_source=habrahabr&utm_medium=rss)
 - [Wikidata получил новую базу данных в векторном исполнении для обработки моделями ИИ](https://habr.com/ru/news/953376/?utm_campaign=953376&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый Intel Thermal Daemon 2.5.10](https://habr.com/ru/news/953322/?utm_campaign=953322&utm_source=habrahabr&utm_medium=rss)
