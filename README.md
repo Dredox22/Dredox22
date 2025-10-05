@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С днем учителя и наставника](https://habr.com/ru/news/953100/?utm_campaign=953100&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект открытого струйного принтера Open Printer](https://habr.com/ru/news/953482/?utm_campaign=953482&utm_source=habrahabr&utm_medium=rss)
 - [Релиз ZLUDA 5 — инструментария для запуска CUDA-приложений на GPU AMD](https://habr.com/ru/news/953472/?utm_campaign=953472&utm_source=habrahabr&utm_medium=rss)
 - [Представлен body — bash-скрипт для вывода середины файла вместо head | tail](https://habr.com/ru/news/953468/?utm_campaign=953468&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Wine 10.16](https://habr.com/ru/news/953476/?utm_campaign=953476&utm_source=habrahabr&utm_medium=rss)
-- [«Сотрудники бегут из xAI»: в OpenAI ответили на иск компании Илона Маска](https://habr.com/ru/news/953498/?utm_campaign=953498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
