@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен body — bash-скрипт для вывода середины файла вместо head | tail](https://habr.com/ru/news/953468/?utm_campaign=953468&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Wine 10.16](https://habr.com/ru/news/953476/?utm_campaign=953476&utm_source=habrahabr&utm_medium=rss)
 - [«Сотрудники бегут из xAI»: в OpenAI ответили на иск компании Илона Маска](https://habr.com/ru/news/953498/?utm_campaign=953498&utm_source=habrahabr&utm_medium=rss)
 - [Человекоподобный робот Tesla Optimus показал кун-фу в реальном времени](https://habr.com/ru/news/953458/?utm_campaign=953458&utm_source=habrahabr&utm_medium=rss)
 - [Расходы на ИИ оценили в $7 трлн за 10 лет. Это сопоставимо с ВВП Британии и Франции](https://habr.com/ru/news/953442/?utm_campaign=953442&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Такси» выпустило новую серию документального сериала «Антологии технологий»](https://habr.com/ru/news/953422/?utm_campaign=953422&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили атаку Mice-E-Mouse для прослушивания пользователей с помощью геймерской мышки](https://habr.com/ru/news/953400/?utm_campaign=953400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
