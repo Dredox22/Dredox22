@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сети появились первые примеры работы Gemini 3.0 Pro](https://habr.com/ru/news/953568/?utm_campaign=953568&utm_source=habrahabr&utm_medium=rss)
 - [Британская полиция запретила работу из дома после мошенничества с автонабором текста на ПК](https://habr.com/ru/news/953558/?utm_campaign=953558&utm_source=habrahabr&utm_medium=rss)
 - [Взлом службы поддержки клиентов Discord привёл к утечке данных пользователей](https://habr.com/ru/news/953544/?utm_campaign=953544&utm_source=habrahabr&utm_medium=rss)
 - [Капитализация OpenAI достигла $500 млрд, Сэм Альтман предлагал платить $12.5 млрд налога](https://habr.com/ru/news/953534/?utm_campaign=953534&utm_source=habrahabr&utm_medium=rss)
 - [С днем учителя и наставника](https://habr.com/ru/news/953100/?utm_campaign=953100&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект открытого струйного принтера Open Printer](https://habr.com/ru/news/953482/?utm_campaign=953482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
