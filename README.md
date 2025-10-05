@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google LiteRT-LM — новый фреймворк для офлайн-запуска LLM на Android, Chrome и даже Raspberry Pi](https://habr.com/ru/news/953650/?utm_campaign=953650&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI резко ужесточила правила копирайта в Sora 2 через несколько дней после запуска](https://habr.com/ru/news/953638/?utm_campaign=953638&utm_source=habrahabr&utm_medium=rss)
 - [Представитель Telegram: агентство само создало бота trustchannelbot для регистрации каналов в реестре РКН](https://habr.com/ru/news/953628/?utm_campaign=953628&utm_source=habrahabr&utm_medium=rss)
 - [В сети появились первые примеры работы Gemini 3.0 Pro](https://habr.com/ru/news/953568/?utm_campaign=953568&utm_source=habrahabr&utm_medium=rss)
 - [Британская полиция запретила работу из дома после мошенничества с автонабором текста на ПК](https://habr.com/ru/news/953558/?utm_campaign=953558&utm_source=habrahabr&utm_medium=rss)
-- [Взлом службы поддержки клиентов Discord привёл к утечке данных пользователей](https://habr.com/ru/news/953544/?utm_campaign=953544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
