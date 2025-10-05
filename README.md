@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект открытого струйного принтера Open Printer](https://habr.com/ru/news/953482/?utm_campaign=953482&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ZLUDA 5 — инструментария для запуска CUDA-приложений на GPU AMD](https://habr.com/ru/news/953472/?utm_campaign=953472&utm_source=habrahabr&utm_medium=rss)
 - [Представлен body — bash-скрипт для вывода середины файла вместо head | tail](https://habr.com/ru/news/953468/?utm_campaign=953468&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Wine 10.16](https://habr.com/ru/news/953476/?utm_campaign=953476&utm_source=habrahabr&utm_medium=rss)
 - [«Сотрудники бегут из xAI»: в OpenAI ответили на иск компании Илона Маска](https://habr.com/ru/news/953498/?utm_campaign=953498&utm_source=habrahabr&utm_medium=rss)
-- [Человекоподобный робот Tesla Optimus показал кун-фу в реальном времени](https://habr.com/ru/news/953458/?utm_campaign=953458&utm_source=habrahabr&utm_medium=rss)
-- [Расходы на ИИ оценили в $7 трлн за 10 лет. Это сопоставимо с ВВП Британии и Франции](https://habr.com/ru/news/953442/?utm_campaign=953442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
