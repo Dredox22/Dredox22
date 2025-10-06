@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запатентована новая технология ГК InfoWatch по работе с базами данных c использованием регулярных выражений](https://habr.com/ru/companies/infowatch/news/953812/?utm_campaign=953812&utm_source=habrahabr&utm_medium=rss)
+- [Пожар уничтожил облачное хранилище правительства Южной Кореи, резервных копий нет](https://habr.com/ru/news/953800/?utm_campaign=953800&utm_source=habrahabr&utm_medium=rss)
+- [Зарплата директоров по кибербезопасности за 3 года выросла на треть](https://habr.com/ru/companies/pt/news/953796/?utm_campaign=953796&utm_source=habrahabr&utm_medium=rss)
 - [Инструменты nanoCAD Конструкции PS для армирования монолитной плиты](https://habr.com/ru/news/846220/?utm_campaign=846220&utm_source=habrahabr&utm_medium=rss)
 - [Unity заявила о старой уязвимости и призвала разработчиков обновить игры](https://habr.com/ru/news/953766/?utm_campaign=953766&utm_source=habrahabr&utm_medium=rss)
-- [Orion soft представил рынку собственный VDI](https://habr.com/ru/companies/orion_soft/news/953774/?utm_campaign=953774&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: две функции Windows 10/11 определённо замедляют работу ПК](https://habr.com/ru/news/953754/?utm_campaign=953754&utm_source=habrahabr&utm_medium=rss)
-- [В США заработала платная школа с ИИ-учителями](https://habr.com/ru/news/953740/?utm_campaign=953740&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
