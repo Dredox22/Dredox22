@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Великобритания потребовала от Apple доступ к зашифрованным резервным копиям данных пользователей страны в iCloud](https://habr.com/ru/news/953734/?utm_campaign=953734&utm_source=habrahabr&utm_medium=rss)
-- [Банки РФ ради состоятельных клиентов активнее осваивают тактику выпуска своих замаскированных приложений в App Store](https://habr.com/ru/news/953736/?utm_campaign=953736&utm_source=habrahabr&utm_medium=rss)
-- [Ростелеком в 6й раз проведет Data &amp;amp; AI Talks](https://habr.com/ru/companies/rostelecom/news/953408/?utm_campaign=953408&utm_source=habrahabr&utm_medium=rss)
-- [«Фабрика мобильных игр» – акселератор от RuStore и Московского кластера видеоигр](https://habr.com/ru/companies/vk/news/952034/?utm_campaign=952034&utm_source=habrahabr&utm_medium=rss)
-- [Пожар уничтожил облачную систему хранения данных правительства Южной Кореи](https://habr.com/ru/news/953708/?utm_campaign=953708&utm_source=habrahabr&utm_medium=rss)
+- [Инструменты nanoCAD Конструкции PS для армирования монолитной плиты](https://habr.com/ru/news/846220/?utm_campaign=846220&utm_source=habrahabr&utm_medium=rss)
+- [Unity заявила о старой уязвимости и призвала разработчиков обновить игры](https://habr.com/ru/news/953766/?utm_campaign=953766&utm_source=habrahabr&utm_medium=rss)
+- [Orion soft представил рынку собственный VDI](https://habr.com/ru/companies/orion_soft/news/953774/?utm_campaign=953774&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: две функции Windows 10/11 определённо замедляют работу ПК](https://habr.com/ru/news/953754/?utm_campaign=953754&utm_source=habrahabr&utm_medium=rss)
+- [В США заработала платная школа с ИИ-учителями](https://habr.com/ru/news/953740/?utm_campaign=953740&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
