@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Зовём Security-инженеров на офлайн-тусовку](https://habr.com/ru/companies/avito/news/953998/?utm_campaign=953998&utm_source=habrahabr&utm_medium=rss)
+- [Neuphonic выпустил on-device TTS с моментальным клонированием голоса](https://habr.com/ru/companies/bothub/news/953996/?utm_campaign=953996&utm_source=habrahabr&utm_medium=rss)
+- [Pathway представил нейросеть, который учится как человек](https://habr.com/ru/companies/bothub/news/953988/?utm_campaign=953988&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI и AMD заключили мегасделку на 6 гигаватт вычислительных мощностей](https://habr.com/ru/companies/bothub/news/953970/?utm_campaign=953970&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind представила CodeMender — ИИ-агента для автоматического исправления уязвимостей в коде](https://habr.com/ru/companies/technokratos/news/953952/?utm_campaign=953952&utm_source=habrahabr&utm_medium=rss)
-- [Джефф Безос назвал ажиотаж вокруг AI хорошим пузырем](https://habr.com/ru/companies/bothub/news/953904/?utm_campaign=953904&utm_source=habrahabr&utm_medium=rss)
-- [UserGate uFactor презентовал стратегию развития направления ИБ-услуг](https://habr.com/ru/news/953928/?utm_campaign=953928&utm_source=habrahabr&utm_medium=rss)
-- [UserGate открыл киберлабораторию на базе Национального исследовательского ядерного университета «МИФИ»](https://habr.com/ru/news/953922/?utm_campaign=953922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
