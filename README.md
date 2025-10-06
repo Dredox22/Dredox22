@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда юристов добилась от «Ред Софт» исполнения лицензии GPL в «Ред ОС: Рабочая станция» и «Ред ОС: Сервер»](https://habr.com/ru/news/953876/?utm_campaign=953876&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI заказала у AMD чипов на десятки миллиардов — акции последней взлетели на 28%](https://habr.com/ru/news/953864/?utm_campaign=953864&utm_source=habrahabr&utm_medium=rss)
 - [Запатентована новая технология ГК InfoWatch по работе с базами данных c использованием регулярных выражений](https://habr.com/ru/companies/infowatch/news/953812/?utm_campaign=953812&utm_source=habrahabr&utm_medium=rss)
 - [Пожар уничтожил облачное хранилище правительства Южной Кореи, резервных копий нет](https://habr.com/ru/news/953800/?utm_campaign=953800&utm_source=habrahabr&utm_medium=rss)
 - [Зарплата директоров по кибербезопасности за 3 года выросла на треть](https://habr.com/ru/companies/pt/news/953796/?utm_campaign=953796&utm_source=habrahabr&utm_medium=rss)
-- [Инструменты nanoCAD Конструкции PS для армирования монолитной плиты](https://habr.com/ru/news/846220/?utm_campaign=846220&utm_source=habrahabr&utm_medium=rss)
-- [Unity заявила о старой уязвимости и призвала разработчиков обновить игры](https://habr.com/ru/news/953766/?utm_campaign=953766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
