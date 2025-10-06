@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi поднимает цены на некоторые модели из-за подорожания модулей памяти](https://habr.com/ru/news/954038/?utm_campaign=954038&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Outlook усилил меры безопасности и перестал отображать SVG-изображения](https://habr.com/ru/news/954004/?utm_campaign=954004&utm_source=habrahabr&utm_medium=rss)
 - [Итоги OpenAI DevDay 2025 Keynote](https://habr.com/ru/news/954016/?utm_campaign=954016&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI готовит платформу для создания автономных ИИ-агентов без кода](https://habr.com/ru/companies/bothub/news/953982/?utm_campaign=953982&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот для сайта всего за 8 минут. OpenAI представила конструктор ИИ-агентов AgentKit](https://habr.com/ru/news/954014/?utm_campaign=954014&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains и Zed объединяются: единый язык для ИИ-агентов в IDE &lpar;ACP от мира LSP&rpar;](https://habr.com/ru/news/954010/?utm_campaign=954010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
