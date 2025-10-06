@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Зовём Security-инженеров на офлайн-тусовку](https://habr.com/ru/companies/avito/news/953998/?utm_campaign=953998&utm_source=habrahabr&utm_medium=rss)
-- [Neuphonic выпустил on-device TTS с моментальным клонированием голоса](https://habr.com/ru/companies/bothub/news/953996/?utm_campaign=953996&utm_source=habrahabr&utm_medium=rss)
-- [Pathway представил нейросеть, который учится как человек](https://habr.com/ru/companies/bothub/news/953988/?utm_campaign=953988&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI и AMD заключили мегасделку на 6 гигаватт вычислительных мощностей](https://habr.com/ru/companies/bothub/news/953970/?utm_campaign=953970&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind представила CodeMender — ИИ-агента для автоматического исправления уязвимостей в коде](https://habr.com/ru/companies/technokratos/news/953952/?utm_campaign=953952&utm_source=habrahabr&utm_medium=rss)
+- [Итоги OpenAI DevDay 2025 Keynote](https://habr.com/ru/news/954016/?utm_campaign=954016&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовит платформу для создания автономных ИИ-агентов без кода](https://habr.com/ru/companies/bothub/news/953982/?utm_campaign=953982&utm_source=habrahabr&utm_medium=rss)
+- [Чат-бот для сайта всего за 8 минут. OpenAI представила конструктор ИИ-агентов AgentKit](https://habr.com/ru/news/954014/?utm_campaign=954014&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains и Zed объединяются: единый язык для ИИ-агентов в IDE &lpar;ACP от мира LSP&rpar;](https://habr.com/ru/news/954010/?utm_campaign=954010&utm_source=habrahabr&utm_medium=rss)
+- [От Figma до Spotify: в ChatGPT появились сторонние приложения](https://habr.com/ru/news/954006/?utm_campaign=954006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
