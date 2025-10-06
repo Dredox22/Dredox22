@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартовал Всероссийский турнир по программированию в игре «Защита Пасеки: Арена»](https://habr.com/ru/news/953706/?utm_campaign=953706&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовит конструктора ИИ-агентов по типу n8n и Zapier — слух](https://habr.com/ru/news/953700/?utm_campaign=953700&utm_source=habrahabr&utm_medium=rss)
 - [Фонд свободного программного обеспечения &lpar;FSF&rpar; отпраздновал сорокалетие проекта и анонсировал LibrePhone](https://habr.com/ru/news/953686/?utm_campaign=953686&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NWinfo 1.4.4 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/953630/?utm_campaign=953630&utm_source=habrahabr&utm_medium=rss)
 - [Google LiteRT-LM — новый фреймворк для офлайн-запуска LLM на Android, Chrome и даже Raspberry Pi](https://habr.com/ru/news/953650/?utm_campaign=953650&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI резко ужесточила правила копирайта в Sora 2 через несколько дней после запуска](https://habr.com/ru/news/953638/?utm_campaign=953638&utm_source=habrahabr&utm_medium=rss)
-- [Представитель Telegram: агентство само создало бота trustchannelbot для регистрации каналов в реестре РКН](https://habr.com/ru/news/953628/?utm_campaign=953628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
