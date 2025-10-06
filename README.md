@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [UserGate открыл киберлабораторию на базе Национального исследовательского ядерного университета «МИФИ»](https://habr.com/ru/news/953922/?utm_campaign=953922&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI начнёт монетизировать Sora и делиться доходами с правообладателями](https://habr.com/ru/companies/bothub/news/953918/?utm_campaign=953918&utm_source=habrahabr&utm_medium=rss)
 - [Apple готовится к смене лидера](https://habr.com/ru/companies/bothub/news/953900/?utm_campaign=953900&utm_source=habrahabr&utm_medium=rss)
 - [Команда юристов добилась от «Ред Софт» исполнения лицензии GPL в «Ред ОС: Рабочая станция» и «Ред ОС: Сервер»](https://habr.com/ru/news/953876/?utm_campaign=953876&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI заказала у AMD чипов на десятки миллиардов — акции последней взлетели на 28%](https://habr.com/ru/news/953864/?utm_campaign=953864&utm_source=habrahabr&utm_medium=rss)
-- [Запатентована новая технология ГК InfoWatch по работе с базами данных c использованием регулярных выражений](https://habr.com/ru/companies/infowatch/news/953812/?utm_campaign=953812&utm_source=habrahabr&utm_medium=rss)
-- [Пожар уничтожил облачное хранилище правительства Южной Кореи, резервных копий нет](https://habr.com/ru/news/953800/?utm_campaign=953800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
