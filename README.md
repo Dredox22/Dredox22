@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Великобритания потребовала от Apple доступ к зашифрованным резервным копиям данных пользователей страны в iCloud](https://habr.com/ru/news/953734/?utm_campaign=953734&utm_source=habrahabr&utm_medium=rss)
+- [Банки РФ ради состоятельных клиентов активнее осваивают тактику выпуска своих замаскированных приложений в App Store](https://habr.com/ru/news/953736/?utm_campaign=953736&utm_source=habrahabr&utm_medium=rss)
+- [Ростелеком в 6й раз проведет Data &amp;amp; AI Talks](https://habr.com/ru/companies/rostelecom/news/953408/?utm_campaign=953408&utm_source=habrahabr&utm_medium=rss)
+- [«Фабрика мобильных игр» – акселератор от RuStore и Московского кластера видеоигр](https://habr.com/ru/companies/vk/news/952034/?utm_campaign=952034&utm_source=habrahabr&utm_medium=rss)
 - [Пожар уничтожил облачную систему хранения данных правительства Южной Кореи](https://habr.com/ru/news/953708/?utm_campaign=953708&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал Всероссийский турнир по программированию в игре «Защита Пасеки: Арена»](https://habr.com/ru/news/953706/?utm_campaign=953706&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовит конструктора ИИ-агентов по типу n8n и Zapier — слух](https://habr.com/ru/news/953700/?utm_campaign=953700&utm_source=habrahabr&utm_medium=rss)
-- [Фонд свободного программного обеспечения &lpar;FSF&rpar; отпраздновал сорокалетие проекта и анонсировал LibrePhone](https://habr.com/ru/news/953686/?utm_campaign=953686&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NWinfo 1.4.4 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/953630/?utm_campaign=953630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
