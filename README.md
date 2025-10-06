@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фонд свободного программного обеспечения &lpar;FSF&rpar; отпраздновал сорокалетие проекта и анонсировал LibrePhone](https://habr.com/ru/news/953686/?utm_campaign=953686&utm_source=habrahabr&utm_medium=rss)
+- [Релиз NWinfo 1.4.4 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/953630/?utm_campaign=953630&utm_source=habrahabr&utm_medium=rss)
 - [Google LiteRT-LM — новый фреймворк для офлайн-запуска LLM на Android, Chrome и даже Raspberry Pi](https://habr.com/ru/news/953650/?utm_campaign=953650&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI резко ужесточила правила копирайта в Sora 2 через несколько дней после запуска](https://habr.com/ru/news/953638/?utm_campaign=953638&utm_source=habrahabr&utm_medium=rss)
 - [Представитель Telegram: агентство само создало бота trustchannelbot для регистрации каналов в реестре РКН](https://habr.com/ru/news/953628/?utm_campaign=953628&utm_source=habrahabr&utm_medium=rss)
-- [В сети появились первые примеры работы Gemini 3.0 Pro](https://habr.com/ru/news/953568/?utm_campaign=953568&utm_source=habrahabr&utm_medium=rss)
-- [Британская полиция запретила работу из дома после мошенничества с автонабором текста на ПК](https://habr.com/ru/news/953558/?utm_campaign=953558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
