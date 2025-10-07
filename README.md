@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [За отказ допустить операторов связи РФ в многоквартирные дома предложены штрафы до 1 млн рублей](https://habr.com/ru/news/954170/?utm_campaign=954170&utm_source=habrahabr&utm_medium=rss)
+- [В СФУ создают реверсивный импульсный преобразователь для систем электропитания космических аппаратов](https://habr.com/ru/news/954162/?utm_campaign=954162&utm_source=habrahabr&utm_medium=rss)
 - [Компания Shikun представила ИИ для генерации фотореалистичных изображений](https://habr.com/ru/companies/bothub/news/954086/?utm_campaign=954086&utm_source=habrahabr&utm_medium=rss)
 - [У ChatGPT уже 800 миллионов пользователей в неделю, а популярность Codex выросла в 10 раз](https://habr.com/ru/news/954124/?utm_campaign=954124&utm_source=habrahabr&utm_medium=rss)
 - [Adobe прогнозирует рост AI-покупок в интернете на 520 %](https://habr.com/ru/companies/bothub/news/954082/?utm_campaign=954082&utm_source=habrahabr&utm_medium=rss)
-- [Настройки Sora не блокируют все дипфейки и нарушения авторских прав](https://habr.com/ru/news/954096/?utm_campaign=954096&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/954100/?utm_campaign=954100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
