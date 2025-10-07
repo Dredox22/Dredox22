@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры РФ планирует потратить 115 млрд рублей на замену части спутников «Экспресс» до 2030 года](https://habr.com/ru/news/954278/?utm_campaign=954278&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: В России отключили мобильный интернет для иностранных SIM и eSIM](https://habr.com/ru/news/954266/?utm_campaign=954266&utm_source=habrahabr&utm_medium=rss)
 - [Deloitte объявил себя лидером в AI и тут же попал в громкий скандал](https://habr.com/ru/companies/bothub/news/954240/?utm_campaign=954240&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Конец ролевому хаосу: наводим порядок с помощью IDM и не только»](https://habr.com/ru/companies/ussc/news/954236/?utm_campaign=954236&utm_source=habrahabr&utm_medium=rss)
 - [МБД Tantor XData 2Y прошла тест с имитацией одновременной работы 30 тысяч пользователей 1С:ERP](https://habr.com/ru/companies/tantor/news/954186/?utm_campaign=954186&utm_source=habrahabr&utm_medium=rss)
-- [Исследование показало, что 36% вайб-кодеров вообще не тестируют свои проекты](https://habr.com/ru/news/954222/?utm_campaign=954222&utm_source=habrahabr&utm_medium=rss)
-- [Карты, деньги, JVM](https://habr.com/ru/companies/pvs-studio/news/954218/?utm_campaign=954218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
