@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Швабе» запустил промышленное производство российских полированных германиевых пластин](https://habr.com/ru/news/954292/?utm_campaign=954292&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ планирует потратить 115 млрд рублей на замену части спутников «Экспресс» до 2030 года](https://habr.com/ru/news/954278/?utm_campaign=954278&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: В России отключили мобильный интернет для иностранных SIM и eSIM](https://habr.com/ru/news/954266/?utm_campaign=954266&utm_source=habrahabr&utm_medium=rss)
-- [Deloitte объявил себя лидером в AI и тут же попал в громкий скандал](https://habr.com/ru/companies/bothub/news/954240/?utm_campaign=954240&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Конец ролевому хаосу: наводим порядок с помощью IDM и не только»](https://habr.com/ru/companies/ussc/news/954236/?utm_campaign=954236&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT появились Booking.com, Spotify, Figma и другие крупные сайты](https://habr.com/ru/companies/bothub/news/954330/?utm_campaign=954330&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи приложения ParkMobile в США получили компенсацию в размере $1 за утечку данных](https://habr.com/ru/news/954326/?utm_campaign=954326&utm_source=habrahabr&utm_medium=rss)
+- [Qualcomm купила Arduino и представила Uno Q — первую совместную плату](https://habr.com/ru/news/954324/?utm_campaign=954324&utm_source=habrahabr&utm_medium=rss)
+- [«Геоскан» и «Гонец» рассказали об успешном испытании на кубсатах передачи данных в S‑диапазоне](https://habr.com/ru/news/954320/?utm_campaign=954320&utm_source=habrahabr&utm_medium=rss)
+- [AgentKit: единая среда от OpenAI для создания и тестирования собственных агентов](https://habr.com/ru/news/954316/?utm_campaign=954316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
