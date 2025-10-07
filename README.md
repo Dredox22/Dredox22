@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз OpenSSH 10.1](https://habr.com/ru/news/954012/?utm_campaign=954012&utm_source=habrahabr&utm_medium=rss)
+- [Вышел проект Phosh 0.50.0 — GNOME-окружение для смартфонов](https://habr.com/ru/news/953848/?utm_campaign=953848&utm_source=habrahabr&utm_medium=rss)
+- [Представлена версия открытого USB-стека TinyUSB 0.19](https://habr.com/ru/news/953862/?utm_campaign=953862&utm_source=habrahabr&utm_medium=rss)
+- [Релиз GIMP 3.0.6 с исправлениями ошибок в GIMP 3.0 и 3.0.4](https://habr.com/ru/news/953826/?utm_campaign=953826&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi поднимает цены на некоторые модели из-за подорожания модулей памяти](https://habr.com/ru/news/954038/?utm_campaign=954038&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Outlook усилил меры безопасности и перестал отображать SVG-изображения](https://habr.com/ru/news/954004/?utm_campaign=954004&utm_source=habrahabr&utm_medium=rss)
-- [Итоги OpenAI DevDay 2025 Keynote](https://habr.com/ru/news/954016/?utm_campaign=954016&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовит платформу для создания автономных ИИ-агентов без кода](https://habr.com/ru/companies/bothub/news/953982/?utm_campaign=953982&utm_source=habrahabr&utm_medium=rss)
-- [Чат-бот для сайта всего за 8 минут. OpenAI представила конструктор ИИ-агентов AgentKit](https://habr.com/ru/news/954014/?utm_campaign=954014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
