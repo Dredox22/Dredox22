@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Швабе» запустил промышленное производство российских полированных германиевых пластин](https://habr.com/ru/news/954292/?utm_campaign=954292&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры РФ планирует потратить 115 млрд рублей на замену части спутников «Экспресс» до 2030 года](https://habr.com/ru/news/954278/?utm_campaign=954278&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: В России отключили мобильный интернет для иностранных SIM и eSIM](https://habr.com/ru/news/954266/?utm_campaign=954266&utm_source=habrahabr&utm_medium=rss)
 - [Deloitte объявил себя лидером в AI и тут же попал в громкий скандал](https://habr.com/ru/companies/bothub/news/954240/?utm_campaign=954240&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Конец ролевому хаосу: наводим порядок с помощью IDM и не только»](https://habr.com/ru/companies/ussc/news/954236/?utm_campaign=954236&utm_source=habrahabr&utm_medium=rss)
-- [МБД Tantor XData 2Y прошла тест с имитацией одновременной работы 30 тысяч пользователей 1С:ERP](https://habr.com/ru/companies/tantor/news/954186/?utm_campaign=954186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
