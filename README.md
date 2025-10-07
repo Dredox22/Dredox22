@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft ещё больше усложняет установку Windows 11 без учётной записи Microsoft и без доступа в интернет](https://habr.com/ru/news/954054/?utm_campaign=954054&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenSSH 10.1](https://habr.com/ru/news/954012/?utm_campaign=954012&utm_source=habrahabr&utm_medium=rss)
 - [Вышел проект Phosh 0.50.0 — GNOME-окружение для смартфонов](https://habr.com/ru/news/953848/?utm_campaign=953848&utm_source=habrahabr&utm_medium=rss)
 - [Представлена версия открытого USB-стека TinyUSB 0.19](https://habr.com/ru/news/953862/?utm_campaign=953862&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GIMP 3.0.6 с исправлениями ошибок в GIMP 3.0 и 3.0.4](https://habr.com/ru/news/953826/?utm_campaign=953826&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi поднимает цены на некоторые модели из-за подорожания модулей памяти](https://habr.com/ru/news/954038/?utm_campaign=954038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
