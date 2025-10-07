@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google заплатит до $30 тысяч за борьбу с «несанкционированными действиями» своих ИИ-ботов](https://habr.com/ru/news/954080/?utm_campaign=954080&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила баг с неработающей функцией «Обновить и завершить работу» в Windows 11](https://habr.com/ru/news/954072/?utm_campaign=954072&utm_source=habrahabr&utm_medium=rss)
+- [Прошел OpenAI DevDay 2025. Что нужно знать?](https://habr.com/ru/companies/bothub/news/954074/?utm_campaign=954074&utm_source=habrahabr&utm_medium=rss)
+- [Redis предупредила о 13-летней критической уязвимости в коде проекта](https://habr.com/ru/news/954068/?utm_campaign=954068&utm_source=habrahabr&utm_medium=rss)
 - [Удаленная IDE, живы ли HTTP-клиенты в Spring, Java-геддон | Spring АйО Подкаст №38](https://habr.com/ru/companies/spring_aio/news/954066/?utm_campaign=954066&utm_source=habrahabr&utm_medium=rss)
-- [19-летний стартапер разработает системы памяти на основе ИИ](https://habr.com/ru/news/954062/?utm_campaign=954062&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft ещё больше усложняет установку Windows 11 без учётной записи Microsoft и без доступа в интернет](https://habr.com/ru/news/954054/?utm_campaign=954054&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenSSH 10.1](https://habr.com/ru/news/954012/?utm_campaign=954012&utm_source=habrahabr&utm_medium=rss)
-- [Вышел проект Phosh 0.50.0 — GNOME-окружение для смартфонов](https://habr.com/ru/news/953848/?utm_campaign=953848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
