@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Max появился официальный чат‑бот «Госключа» для подписания документов](https://habr.com/ru/news/954340/?utm_campaign=954340&utm_source=habrahabr&utm_medium=rss)
+- [Google представила CodeMender — ИИ-агента для поиска уязвимостей в коде](https://habr.com/ru/news/954336/?utm_campaign=954336&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появились Booking.com, Spotify, Figma и другие крупные сайты](https://habr.com/ru/companies/bothub/news/954330/?utm_campaign=954330&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи приложения ParkMobile в США получили компенсацию в размере $1 за утечку данных](https://habr.com/ru/news/954326/?utm_campaign=954326&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm купила Arduino и представила Uno Q — первую совместную плату](https://habr.com/ru/news/954324/?utm_campaign=954324&utm_source=habrahabr&utm_medium=rss)
-- [«Геоскан» и «Гонец» рассказали об успешном испытании на кубсатах передачи данных в S‑диапазоне](https://habr.com/ru/news/954320/?utm_campaign=954320&utm_source=habrahabr&utm_medium=rss)
-- [AgentKit: единая среда от OpenAI для создания и тестирования собственных агентов](https://habr.com/ru/news/954316/?utm_campaign=954316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
