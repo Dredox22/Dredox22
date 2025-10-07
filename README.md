@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google заплатит до $30 тысяч за борьбу с «несанкционированными действиями» своих ИИ-ботов](https://habr.com/ru/news/954080/?utm_campaign=954080&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила баг с неработающей функцией «Обновить и завершить работу» в Windows 11](https://habr.com/ru/news/954072/?utm_campaign=954072&utm_source=habrahabr&utm_medium=rss)
-- [Прошел OpenAI DevDay 2025. Что нужно знать?](https://habr.com/ru/companies/bothub/news/954074/?utm_campaign=954074&utm_source=habrahabr&utm_medium=rss)
-- [Redis предупредила о 13-летней критической уязвимости в коде проекта](https://habr.com/ru/news/954068/?utm_campaign=954068&utm_source=habrahabr&utm_medium=rss)
-- [Удаленная IDE, живы ли HTTP-клиенты в Spring, Java-геддон | Spring АйО Подкаст №38](https://habr.com/ru/companies/spring_aio/news/954066/?utm_campaign=954066&utm_source=habrahabr&utm_medium=rss)
+- [Adobe прогнозирует рост AI-покупок в интернете на 520 %](https://habr.com/ru/companies/bothub/news/954082/?utm_campaign=954082&utm_source=habrahabr&utm_medium=rss)
+- [Настройки Sora не блокируют все дипфейки и нарушения авторских прав](https://habr.com/ru/news/954096/?utm_campaign=954096&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/954100/?utm_campaign=954100&utm_source=habrahabr&utm_medium=rss)
+- [Deloitte возместит австралийскому правительству расходы на оплату своих услуг из-за галлюцинаций ИИ](https://habr.com/ru/news/954088/?utm_campaign=954088&utm_source=habrahabr&utm_medium=rss)
+- [Apple нашла новый, более эффективный способ предотвратить игнорирование и пропуск будильников на iPhone](https://habr.com/ru/news/954094/?utm_campaign=954094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
