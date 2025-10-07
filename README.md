@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла новая открытая модель синтеза речи Kani-TTS-370M](https://habr.com/ru/companies/bothub/news/954078/?utm_campaign=954078&utm_source=habrahabr&utm_medium=rss)
-- [Руководители требуют от ИБ-специалистов скрывать проблемы](https://habr.com/ru/companies/ddosguard/news/954174/?utm_campaign=954174&utm_source=habrahabr&utm_medium=rss)
-- [За отказ допустить операторов связи РФ в многоквартирные дома предложены штрафы до 1 млн рублей](https://habr.com/ru/news/954170/?utm_campaign=954170&utm_source=habrahabr&utm_medium=rss)
-- [В СФУ создают реверсивный импульсный преобразователь для систем электропитания космических аппаратов](https://habr.com/ru/news/954162/?utm_campaign=954162&utm_source=habrahabr&utm_medium=rss)
-- [Компания Shikun представила ИИ для генерации фотореалистичных изображений](https://habr.com/ru/companies/bothub/news/954086/?utm_campaign=954086&utm_source=habrahabr&utm_medium=rss)
+- [Исследование показало, что 36% вайб-кодеров вообще не тестируют свои проекты](https://habr.com/ru/news/954222/?utm_campaign=954222&utm_source=habrahabr&utm_medium=rss)
+- [Карты, деньги, JVM](https://habr.com/ru/companies/pvs-studio/news/954218/?utm_campaign=954218&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp представила перевод сообщений с приоритетом конфиденциальности для пользователей iOS](https://habr.com/ru/news/954216/?utm_campaign=954216&utm_source=habrahabr&utm_medium=rss)
+- [IT‑специалист из Китая и один из основателей компании «Рулла» сравнил WeChat и Max](https://habr.com/ru/news/954212/?utm_campaign=954212&utm_source=habrahabr&utm_medium=rss)
+- [Google представила открытую модель эмбеддингов для локальных AI-приложений](https://habr.com/ru/companies/bothub/news/954076/?utm_campaign=954076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
