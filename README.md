@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [За 3 квартал 2025 года в «Почта Mail» было заблокировано 7,6 млрд спам‑писем](https://habr.com/ru/news/954352/?utm_campaign=954352&utm_source=habrahabr&utm_medium=rss)
+- [React уходит от Meta! Создаётся независимая React Foundation](https://habr.com/ru/news/954350/?utm_campaign=954350&utm_source=habrahabr&utm_medium=rss)
+- [Сервис разведки уязвимостей и утечек DLBI заявил, что боты‑пробивщики создали дефицит утечек данных](https://habr.com/ru/news/954346/?utm_campaign=954346&utm_source=habrahabr&utm_medium=rss)
 - [В Max появился официальный чат‑бот «Госключа» для подписания документов](https://habr.com/ru/news/954340/?utm_campaign=954340&utm_source=habrahabr&utm_medium=rss)
 - [Google представила CodeMender — ИИ-агента для поиска уязвимостей в коде](https://habr.com/ru/news/954336/?utm_campaign=954336&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появились Booking.com, Spotify, Figma и другие крупные сайты](https://habr.com/ru/companies/bothub/news/954330/?utm_campaign=954330&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи приложения ParkMobile в США получили компенсацию в размере $1 за утечку данных](https://habr.com/ru/news/954326/?utm_campaign=954326&utm_source=habrahabr&utm_medium=rss)
-- [Qualcomm купила Arduino и представила Uno Q — первую совместную плату](https://habr.com/ru/news/954324/?utm_campaign=954324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
