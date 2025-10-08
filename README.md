@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Qt 6.10](https://habr.com/ru/news/954202/?utm_campaign=954202&utm_source=habrahabr&utm_medium=rss)
 - [Обновление ExplorerPatcher исправило ошибку «Невозможно загрузить информацию о погоде», возникшую из-за Google](https://habr.com/ru/news/954008/?utm_campaign=954008&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Grok Imagine v0.9 — бесплатный ИИ для создания видео](https://habr.com/ru/news/954360/?utm_campaign=954360&utm_source=habrahabr&utm_medium=rss)
 - [За 3 квартал 2025 года в «Почта Mail» было заблокировано 7,6 млрд спам‑писем](https://habr.com/ru/news/954352/?utm_campaign=954352&utm_source=habrahabr&utm_medium=rss)
 - [React уходит от Meta! Создаётся независимая React Foundation](https://habr.com/ru/news/954350/?utm_campaign=954350&utm_source=habrahabr&utm_medium=rss)
-- [Сервис разведки уязвимостей и утечек DLBI заявил, что боты‑пробивщики создали дефицит утечек данных](https://habr.com/ru/news/954346/?utm_campaign=954346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
