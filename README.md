@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как разогнать кластер K8s без потерь производительности?](https://habr.com/ru/companies/vktech/news/954462/?utm_campaign=954462&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft меняет способ представления встроенных изображений в Outlook](https://habr.com/ru/news/954458/?utm_campaign=954458&utm_source=habrahabr&utm_medium=rss)
-- [Тencent представила мультимодальную модель, объединяющую зрение и язык в одном фреймворке](https://habr.com/ru/companies/bothub/news/954448/?utm_campaign=954448&utm_source=habrahabr&utm_medium=rss)
-- [IBM встроит ИИ Anthropic в свои продукты](https://habr.com/ru/news/954450/?utm_campaign=954450&utm_source=habrahabr&utm_medium=rss)
-- [Представлен порт стратегии Dune II для Telegram](https://habr.com/ru/news/954456/?utm_campaign=954456&utm_source=habrahabr&utm_medium=rss)
+- [Google представила Gemini 2.5 Computer Use — модель, которая управляет интерфейсами как человек](https://habr.com/ru/news/954486/?utm_campaign=954486&utm_source=habrahabr&utm_medium=rss)
+- [Поиск по мануалам в один клик: Selectel представил SelectOS Manpages](https://habr.com/ru/companies/selectel/news/953964/?utm_campaign=953964&utm_source=habrahabr&utm_medium=rss)
+- [Сэм Альтман рассказал, как будут оценивать GPT-6](https://habr.com/ru/news/954484/?utm_campaign=954484&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запускает сервис для внедрения AI-моделей в бизнес](https://habr.com/ru/companies/selectel/news/954298/?utm_campaign=954298&utm_source=habrahabr&utm_medium=rss)
+- [VMware перестала обновлять и поддерживать vSphere 7.0](https://habr.com/ru/news/954460/?utm_campaign=954460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
