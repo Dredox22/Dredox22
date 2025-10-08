@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Магазин iOS-приложений AltStore PAL получил $6 млн инвестиций и готовится к запуску в новых странах](https://habr.com/ru/news/954714/?utm_campaign=954714&utm_source=habrahabr&utm_medium=rss)
 - [Создатели ChatGPT опубликовали сборник из 100+ промптов для учебы](https://habr.com/ru/news/954692/?utm_campaign=954692&utm_source=habrahabr&utm_medium=rss)
 - [Jamba Reasoning 3B: новая компактная ИИ-модель от AI21, работающая прямо на устройствах](https://habr.com/ru/companies/technokratos/news/954680/?utm_campaign=954680&utm_source=habrahabr&utm_medium=rss)
 - [Королевская опера Версаля в мае 2026 года представит написанную ИИ пьесу в стиле французского драматурга Мольера](https://habr.com/ru/news/954648/?utm_campaign=954648&utm_source=habrahabr&utm_medium=rss)
 - [Финополис-2025. R-Style Softlab представила обновленный сервис для работы с Цифровым рублем](https://habr.com/ru/news/954642/?utm_campaign=954642&utm_source=habrahabr&utm_medium=rss)
-- [Oracle понесла $100 млн убытков на аренде GPU-чипов Nvidia Blackwell](https://habr.com/ru/companies/bothub/news/954422/?utm_campaign=954422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
