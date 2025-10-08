@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В НСПК обсуждают с Минцифры расширение белого списка ресурсов, доступных при ограничениях онлайн-сервисов, на все банки](https://habr.com/ru/news/954494/?utm_campaign=954494&utm_source=habrahabr&utm_medium=rss)
+- [Брайан Кребс заявил о попытке атаки со стороны супергруппы хакеров](https://habr.com/ru/companies/ddosguard/news/954492/?utm_campaign=954492&utm_source=habrahabr&utm_medium=rss)
+- [Хакатон 2ГИС в Москве: горячий кодинг, бессонная ночь и 200 пар горящих глаз](https://habr.com/ru/companies/2gis/news/954490/?utm_campaign=954490&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Gemini 2.5 Computer Use — модель, которая управляет интерфейсами как человек](https://habr.com/ru/news/954486/?utm_campaign=954486&utm_source=habrahabr&utm_medium=rss)
 - [Поиск по мануалам в один клик: Selectel представил SelectOS Manpages](https://habr.com/ru/companies/selectel/news/953964/?utm_campaign=953964&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман рассказал, как будут оценивать GPT-6](https://habr.com/ru/news/954484/?utm_campaign=954484&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запускает сервис для внедрения AI-моделей в бизнес](https://habr.com/ru/companies/selectel/news/954298/?utm_campaign=954298&utm_source=habrahabr&utm_medium=rss)
-- [VMware перестала обновлять и поддерживать vSphere 7.0](https://habr.com/ru/news/954460/?utm_campaign=954460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
