@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила CodeMender, обновлённую систему SAIF и анонсировала VRP за обнаружение уязвимостей в ИИ-продуктах](https://habr.com/ru/news/954370/?utm_campaign=954370&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft переводит GitHub на серверы Azure](https://habr.com/ru/news/954732/?utm_campaign=954732&utm_source=habrahabr&utm_medium=rss)
+- [В Android Studio тестируют генерацию интерфейсов по скриншотам с помощью Gemini](https://habr.com/ru/news/954728/?utm_campaign=954728&utm_source=habrahabr&utm_medium=rss)
 - [Магазин iOS-приложений AltStore PAL получил $6 млн инвестиций и готовится к запуску в новых странах](https://habr.com/ru/news/954714/?utm_campaign=954714&utm_source=habrahabr&utm_medium=rss)
 - [Создатели ChatGPT опубликовали сборник из 100+ промптов для учебы](https://habr.com/ru/news/954692/?utm_campaign=954692&utm_source=habrahabr&utm_medium=rss)
-- [Jamba Reasoning 3B: новая компактная ИИ-модель от AI21, работающая прямо на устройствах](https://habr.com/ru/companies/technokratos/news/954680/?utm_campaign=954680&utm_source=habrahabr&utm_medium=rss)
-- [Королевская опера Версаля в мае 2026 года представит написанную ИИ пьесу в стиле французского драматурга Мольера](https://habr.com/ru/news/954648/?utm_campaign=954648&utm_source=habrahabr&utm_medium=rss)
-- [Финополис-2025. R-Style Softlab представила обновленный сервис для работы с Цифровым рублем](https://habr.com/ru/news/954642/?utm_campaign=954642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
