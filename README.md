@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Thales Group представила смарт-карту со встроенной защитой от атак квантовых вычислений](https://habr.com/ru/news/954436/?utm_campaign=954436&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Python 3.14 — теперь с JIT, фритредингом и шаблонными строками](https://habr.com/ru/news/954442/?utm_campaign=954442&utm_source=habrahabr&utm_medium=rss)
-- [Samsung представила сенсор камеры с разрешением 200 МП](https://habr.com/ru/news/954428/?utm_campaign=954428&utm_source=habrahabr&utm_medium=rss)
-- [Google показала будущее медицины через команду ИИ-агентов](https://habr.com/ru/companies/bothub/news/954430/?utm_campaign=954430&utm_source=habrahabr&utm_medium=rss)
-- [Docker начал предоставлять неограниченный доступ к защищённым образам для каждой команды](https://habr.com/ru/news/954420/?utm_campaign=954420&utm_source=habrahabr&utm_medium=rss)
+- [Как разогнать кластер K8s без потерь производительности?](https://habr.com/ru/companies/vktech/news/954462/?utm_campaign=954462&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft меняет способ представления встроенных изображений в Outlook](https://habr.com/ru/news/954458/?utm_campaign=954458&utm_source=habrahabr&utm_medium=rss)
+- [Тencent представила мультимодальную модель, объединяющую зрение и язык в одном фреймворке](https://habr.com/ru/companies/bothub/news/954448/?utm_campaign=954448&utm_source=habrahabr&utm_medium=rss)
+- [IBM встроит ИИ Anthropic в свои продукты](https://habr.com/ru/news/954450/?utm_campaign=954450&utm_source=habrahabr&utm_medium=rss)
+- [Представлен порт стратегии Dune II для Telegram](https://habr.com/ru/news/954456/?utm_campaign=954456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
