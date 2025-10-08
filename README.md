@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ученый Google получил Нобелевскую премию по физике 2025 года](https://habr.com/ru/companies/bothub/news/954418/?utm_campaign=954418&utm_source=habrahabr&utm_medium=rss)
-- [Бывшие мейнтейнеры проектов RubyGems.org, RubyGems и Bundler представили альтернативный репозиторий Gem Cooperative](https://habr.com/ru/news/954408/?utm_campaign=954408&utm_source=habrahabr&utm_medium=rss)
-- [Google показала Gemini 2.5 Computer Use: ИИ-агента, который управляет интерфейсами](https://habr.com/ru/news/954406/?utm_campaign=954406&utm_source=habrahabr&utm_medium=rss)
-- [Глава НСПК: ограничение работы карт с истекшим сроком годности &lpar;Visa и Mastercard&rpar; необходимо из-за рисков безопасности](https://habr.com/ru/news/954400/?utm_campaign=954400&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Python 3.14](https://habr.com/ru/news/954394/?utm_campaign=954394&utm_source=habrahabr&utm_medium=rss)
+- [Thales Group представила смарт-карту со встроенной защитой от атак квантовых вычислений](https://habr.com/ru/news/954436/?utm_campaign=954436&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Python 3.14 — теперь с JIT, фритредингом и шаблонными строками](https://habr.com/ru/news/954442/?utm_campaign=954442&utm_source=habrahabr&utm_medium=rss)
+- [Samsung представила сенсор камеры с разрешением 200 МП](https://habr.com/ru/news/954428/?utm_campaign=954428&utm_source=habrahabr&utm_medium=rss)
+- [Google показала будущее медицины через команду ИИ-агентов](https://habr.com/ru/companies/bothub/news/954430/?utm_campaign=954430&utm_source=habrahabr&utm_medium=rss)
+- [Docker начал предоставлять неограниченный доступ к защищённым образам для каждой команды](https://habr.com/ru/news/954420/?utm_campaign=954420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
