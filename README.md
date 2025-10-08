@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ученый Google получил Нобелевскую премию по физике 2025 года](https://habr.com/ru/companies/bothub/news/954418/?utm_campaign=954418&utm_source=habrahabr&utm_medium=rss)
+- [Бывшие мейнтейнеры проектов RubyGems.org, RubyGems и Bundler представили альтернативный репозиторий Gem Cooperative](https://habr.com/ru/news/954408/?utm_campaign=954408&utm_source=habrahabr&utm_medium=rss)
 - [Google показала Gemini 2.5 Computer Use: ИИ-агента, который управляет интерфейсами](https://habr.com/ru/news/954406/?utm_campaign=954406&utm_source=habrahabr&utm_medium=rss)
 - [Глава НСПК: ограничение работы карт с истекшим сроком годности &lpar;Visa и Mastercard&rpar; необходимо из-за рисков безопасности](https://habr.com/ru/news/954400/?utm_campaign=954400&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Python 3.14](https://habr.com/ru/news/954394/?utm_campaign=954394&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Qt 6.10](https://habr.com/ru/news/954202/?utm_campaign=954202&utm_source=habrahabr&utm_medium=rss)
-- [Обновление ExplorerPatcher исправило ошибку «Невозможно загрузить информацию о погоде», возникшую из-за Google](https://habr.com/ru/news/954008/?utm_campaign=954008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
