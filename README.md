@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle понесла $100 млн убытков на аренде GPU-чипов Nvidia Blackwell](https://habr.com/ru/companies/bothub/news/954422/?utm_campaign=954422&utm_source=habrahabr&utm_medium=rss)
+- [FINOPOLIS 2025: R-Style Softlab и «Группа Астра» расширяют стратегическое сотрудничество](https://habr.com/ru/news/954628/?utm_campaign=954628&utm_source=habrahabr&utm_medium=rss)
 - [Человек управляет роборукой силой мысли: прорыв Neuralink и xAI](https://habr.com/ru/companies/bothub/news/954434/?utm_campaign=954434&utm_source=habrahabr&utm_medium=rss)
 - [В Книге рекордов Гиннеса официально зафиксирована самая долгая партия в Dungeons &amp;amp; Dragons — 43 года](https://habr.com/ru/news/954586/?utm_campaign=954586&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs представила революционный инструмент для работы с ИИ-агентами](https://habr.com/ru/companies/bothub/news/954438/?utm_campaign=954438&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи при помощи BlueToolkit обнаружили в Bluetooth-системах автомобилей 128 уязвимостей](https://habr.com/ru/news/954556/?utm_campaign=954556&utm_source=habrahabr&utm_medium=rss)
-- [Узнайте секретный рецепт DevSecOps на бесплатном занятии Нетологии и НИУ ВШЭ 15 октября](https://habr.com/ru/companies/netologyru/news/954554/?utm_campaign=954554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
