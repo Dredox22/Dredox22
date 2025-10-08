@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представил систему расширений для Gemini CLI](https://habr.com/ru/news/954760/?utm_campaign=954760&utm_source=habrahabr&utm_medium=rss)
+- [Ling-1T: триллион параметров, 50 млрд активных — новая архитектура “эффективного мышления&amp;quot;](https://habr.com/ru/news/954754/?utm_campaign=954754&utm_source=habrahabr&utm_medium=rss)
+- [В Сенате США посчитали, что ИИ и автоматизация угрожает до 97 млн рабочих мест. Решение — налог на роботов](https://habr.com/ru/news/954752/?utm_campaign=954752&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: одновременный запуск нескольких приложений Office приводит к сбоям Copilot](https://habr.com/ru/news/954374/?utm_campaign=954374&utm_source=habrahabr&utm_medium=rss)
 - [Google представила CodeMender, обновлённую систему SAIF и анонсировала VRP за обнаружение уязвимостей в ИИ-продуктах](https://habr.com/ru/news/954370/?utm_campaign=954370&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft переводит GitHub на серверы Azure](https://habr.com/ru/news/954732/?utm_campaign=954732&utm_source=habrahabr&utm_medium=rss)
-- [В Android Studio тестируют генерацию интерфейсов по скриншотам с помощью Gemini](https://habr.com/ru/news/954728/?utm_campaign=954728&utm_source=habrahabr&utm_medium=rss)
-- [Магазин iOS-приложений AltStore PAL получил $6 млн инвестиций и готовится к запуску в новых странах](https://habr.com/ru/news/954714/?utm_campaign=954714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
