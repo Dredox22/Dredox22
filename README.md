@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Postgres Professional открыла стильный офис в сердце Академгородка](https://habr.com/ru/companies/postgrespro/news/954942/?utm_campaign=954942&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: информация о планируемых в РФ ограничениях доступа к интернету в выходные дни является фейком](https://habr.com/ru/news/954930/?utm_campaign=954930&utm_source=habrahabr&utm_medium=rss)
 - [Google расширяет ежемесячную подписку для разработчиков и запускает локализованную версию для Китая](https://habr.com/ru/news/954926/?utm_campaign=954926&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT установил рекорд посещаемости и стал единственным растущим веб-сайтом в топ-10](https://habr.com/ru/news/954912/?utm_campaign=954912&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ РФ: истёкшие карты Visa и MasterCard продолжат работать в России, резких шагов по их отключению не будет](https://habr.com/ru/news/954908/?utm_campaign=954908&utm_source=habrahabr&utm_medium=rss)
-- [ГК InfoWatch получила свидетельство на «Картину дня сотрудника»](https://habr.com/ru/companies/infowatch/news/954900/?utm_campaign=954900&utm_source=habrahabr&utm_medium=rss)
-- [Пользователям Apple в Техасе придётся соблюдать новые требования к приложениям](https://habr.com/ru/news/954874/?utm_campaign=954874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
