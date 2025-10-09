@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Страховые компании не горят желанием покрывать риски AI](https://habr.com/ru/companies/bothub/news/954958/?utm_campaign=954958&utm_source=habrahabr&utm_medium=rss)
 - [На KickStarter представили MeowKit — мультитул на базе ESP32 для разработчиков и самодельщиков](https://habr.com/ru/news/955120/?utm_campaign=955120&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» ожидает получить патент на «Вжух» — бесконтактную оплату iPhone по аналогии с Apple Pay, но по Bluetooth](https://habr.com/ru/news/955118/?utm_campaign=955118&utm_source=habrahabr&utm_medium=rss)
 - [xAI Илона Маска привлекает $20 млрд: крупнейший раунд в истории компании](https://habr.com/ru/companies/bothub/news/954972/?utm_campaign=954972&utm_source=habrahabr&utm_medium=rss)
 - [Типы аналитиков и их компетенции — в новом выпуске подкаста «IT&#39;s GNIVC»](https://habr.com/ru/companies/gnivc/news/955096/?utm_campaign=955096&utm_source=habrahabr&utm_medium=rss)
-- [Учёные нашли способ обратить болезнь Альцгеймера через восстановление барьера мозга](https://habr.com/ru/companies/bothub/news/954978/?utm_campaign=954978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
