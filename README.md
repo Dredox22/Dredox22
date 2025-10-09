@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователям Apple в Техасе придётся соблюдать новые требования к приложениям](https://habr.com/ru/news/954874/?utm_campaign=954874&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры заявили о краже данных 5,5 млн пользователей Discord](https://habr.com/ru/news/954866/?utm_campaign=954866&utm_source=habrahabr&utm_medium=rss)
 - [1Password и Browserbase будут защищать доступ к учётным данным от ИИ-агентов](https://habr.com/ru/news/954820/?utm_campaign=954820&utm_source=habrahabr&utm_medium=rss)
 - [В Firefox появятся профили для разделения сеансов просмотра](https://habr.com/ru/news/954814/?utm_campaign=954814&utm_source=habrahabr&utm_medium=rss)
 - [Google Veo 3.1 была замечена на Higgsfield](https://habr.com/ru/news/954810/?utm_campaign=954810&utm_source=habrahabr&utm_medium=rss)
-- [Конец «лоскутной» защите: MFASOFT и «Солар» решают проблему привилегированных пользователей](https://habr.com/ru/companies/solarsecurity/news/954748/?utm_campaign=954748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
