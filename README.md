@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.5](https://habr.com/ru/news/954582/?utm_campaign=954582&utm_source=habrahabr&utm_medium=rss)
+- [Cisco представила выпуск свободного антивирусного инструментария ClamAV 1.5.0](https://habr.com/ru/news/954568/?utm_campaign=954568&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Pinta 3.0.4](https://habr.com/ru/news/954504/?utm_campaign=954504&utm_source=habrahabr&utm_medium=rss)
 - [Google представил систему расширений для Gemini CLI](https://habr.com/ru/news/954760/?utm_campaign=954760&utm_source=habrahabr&utm_medium=rss)
 - [Ling-1T: триллион параметров, 50 млрд активных — новая архитектура “эффективного мышления&amp;quot;](https://habr.com/ru/news/954754/?utm_campaign=954754&utm_source=habrahabr&utm_medium=rss)
-- [В Сенате США посчитали, что ИИ и автоматизация угрожает до 97 млн рабочих мест. Решение — налог на роботов](https://habr.com/ru/news/954752/?utm_campaign=954752&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: одновременный запуск нескольких приложений Office приводит к сбоям Copilot](https://habr.com/ru/news/954374/?utm_campaign=954374&utm_source=habrahabr&utm_medium=rss)
-- [Google представила CodeMender, обновлённую систему SAIF и анонсировала VRP за обнаружение уязвимостей в ИИ-продуктах](https://habr.com/ru/news/954370/?utm_campaign=954370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
