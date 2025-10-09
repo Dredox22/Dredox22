@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [1Password и Browserbase будут защищать доступ к учётным данным от ИИ-агентов](https://habr.com/ru/news/954820/?utm_campaign=954820&utm_source=habrahabr&utm_medium=rss)
+- [В Firefox появятся профили для разделения сеансов просмотра](https://habr.com/ru/news/954814/?utm_campaign=954814&utm_source=habrahabr&utm_medium=rss)
 - [Google Veo 3.1 была замечена на Higgsfield](https://habr.com/ru/news/954810/?utm_campaign=954810&utm_source=habrahabr&utm_medium=rss)
 - [Конец «лоскутной» защите: MFASOFT и «Солар» решают проблему привилегированных пользователей](https://habr.com/ru/companies/solarsecurity/news/954748/?utm_campaign=954748&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.5](https://habr.com/ru/news/954582/?utm_campaign=954582&utm_source=habrahabr&utm_medium=rss)
-- [Cisco представила выпуск свободного антивирусного инструментария ClamAV 1.5.0](https://habr.com/ru/news/954568/?utm_campaign=954568&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Pinta 3.0.4](https://habr.com/ru/news/954504/?utm_campaign=954504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
