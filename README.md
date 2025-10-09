@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен человекоподобный робот Figure 03. Цель — безопасное применение дома](https://habr.com/ru/news/955074/?utm_campaign=955074&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI, Nvidia и AMD создают замкнутую AI-экономику AI на $1 триллион](https://habr.com/ru/companies/bothub/news/955012/?utm_campaign=955012&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI рассказали о возможном превращении ChatGPT в операционную систему](https://habr.com/ru/news/955040/?utm_campaign=955040&utm_source=habrahabr&utm_medium=rss)
 - [Sora 2 испытывает проблемы с фильтрацией контента](https://habr.com/ru/companies/bothub/news/955004/?utm_campaign=955004&utm_source=habrahabr&utm_medium=rss)
 - [Вышла стабильная версия Ubuntu 25.10 &lpar;Questing Quokka&rpar;](https://habr.com/ru/news/954988/?utm_campaign=954988&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Dia от создателей Arc вышел из закрытого бета-теста](https://habr.com/ru/news/954986/?utm_campaign=954986&utm_source=habrahabr&utm_medium=rss)
-- [Google готовит крупнейший редизайн Gemini](https://habr.com/ru/companies/bothub/news/954966/?utm_campaign=954966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
