@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап David AI привлёк $50 млн на продаже человеческих разговоров для обучения ИИ](https://habr.com/ru/companies/bothub/news/955176/?utm_campaign=955176&utm_source=habrahabr&utm_medium=rss)
 - [Дуров в день своего 41-летия заявил об истекающем времени на «спасение свободного интернета»](https://habr.com/ru/news/955168/?utm_campaign=955168&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wireshark 4.6](https://habr.com/ru/news/954922/?utm_campaign=954922&utm_source=habrahabr&utm_medium=rss)
 - [Вышла платформа для создания дистрибутивов T2 SDE 25.10](https://habr.com/ru/news/955014/?utm_campaign=955014&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запустила плагины для Claude Code](https://habr.com/ru/news/955152/?utm_campaign=955152&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek R1, Claude Sonnet 4 и Genie-3 вошли в список лучших изобретений 2025 года](https://habr.com/ru/news/955132/?utm_campaign=955132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
