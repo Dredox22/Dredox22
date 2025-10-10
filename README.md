@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла демоверсия Heroes of Might &amp;amp; Magic: Olden Era в Steam, но ранний доступ игры перенесли на 2026 год](https://habr.com/ru/news/955308/?utm_campaign=955308&utm_source=habrahabr&utm_medium=rss)
+- [Китайские власти начали тормозить ввоз чипов Nvidia в страну](https://habr.com/ru/news/955306/?utm_campaign=955306&utm_source=habrahabr&utm_medium=rss)
 - [Игру Doom запустили в текстовом редакторе российского офисного пакета «Р7 Офис»](https://habr.com/ru/news/955298/?utm_campaign=955298&utm_source=habrahabr&utm_medium=rss)
 - [Поддельные приложения Sora заполонили App Store, а некоторые из них всё ещё там остаются](https://habr.com/ru/news/955266/?utm_campaign=955266&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch — лауреат конкурса «Успешный патент»](https://habr.com/ru/companies/infowatch/news/955262/?utm_campaign=955262&utm_source=habrahabr&utm_medium=rss)
-- [Консолидация данных, облачная защита, измеримый результат: на Positive Security Day назвали главные тренды ИБ-отрасли](https://habr.com/ru/companies/pt/news/955076/?utm_campaign=955076&utm_source=habrahabr&utm_medium=rss)
-- [Магазин приложений Pebble снова заработал](https://habr.com/ru/news/955240/?utm_campaign=955240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
