@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тайвань не собирается делить производство чипов с США](https://habr.com/ru/companies/bothub/news/955474/?utm_campaign=955474&utm_source=habrahabr&utm_medium=rss)
+- [Сноуден: Telegram, WhatsApp и другие мессенджеры становятся инструментом в руках спецслужб](https://habr.com/ru/news/955468/?utm_campaign=955468&utm_source=habrahabr&utm_medium=rss)
+- [TIME опубликовал подборку из 300 инновационных продуктов, которые способны изменить будущее](https://habr.com/ru/companies/bothub/news/955462/?utm_campaign=955462&utm_source=habrahabr&utm_medium=rss)
 - [Вышло руководство по написанию промптов для Sora 2](https://habr.com/ru/news/955454/?utm_campaign=955454&utm_source=habrahabr&utm_medium=rss)
 - [Конференция FineDay–2025: GlowByte приглашает на битву за будущее данных](https://habr.com/ru/companies/glowbyte/news/955450/?utm_campaign=955450&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 Pro официально признан самой продвинутой моделью OpenAI](https://habr.com/ru/companies/bothub/news/955444/?utm_campaign=955444&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал приём заявок на премию в области кибербезопасности «Киберпризнание»](https://habr.com/ru/news/955430/?utm_campaign=955430&utm_source=habrahabr&utm_medium=rss)
-- [Yandex B2B Tech и К2Тех запустят совместные ИИ-решения для бизнеса](https://habr.com/ru/companies/k2tech/news/955402/?utm_campaign=955402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
