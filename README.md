@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло руководство по написанию промптов для Sora 2](https://habr.com/ru/news/955454/?utm_campaign=955454&utm_source=habrahabr&utm_medium=rss)
+- [Конференция FineDay–2025: GlowByte приглашает на битву за будущее данных](https://habr.com/ru/companies/glowbyte/news/955450/?utm_campaign=955450&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5 Pro официально признан самой продвинутой моделью OpenAI](https://habr.com/ru/companies/bothub/news/955444/?utm_campaign=955444&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал приём заявок на премию в области кибербезопасности «Киберпризнание»](https://habr.com/ru/news/955430/?utm_campaign=955430&utm_source=habrahabr&utm_medium=rss)
 - [Yandex B2B Tech и К2Тех запустят совместные ИИ-решения для бизнеса](https://habr.com/ru/companies/k2tech/news/955402/?utm_campaign=955402&utm_source=habrahabr&utm_medium=rss)
-- [«Катюша» начала серийное производство модулей из российского текстолита для печатных устройств](https://habr.com/ru/news/955370/?utm_campaign=955370&utm_source=habrahabr&utm_medium=rss)
-- [PT Application Inspector 5.2: продвинутый анализ кода на уязвимости](https://habr.com/ru/companies/pt/news/955324/?utm_campaign=955324&utm_source=habrahabr&utm_medium=rss)
-- [В РФ разрабатывают новый ГОСТ для компьютерных игр и игрушек в виде киногероев и мультяшных персонажей](https://habr.com/ru/news/955354/?utm_campaign=955354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
