@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поддельные приложения Sora заполонили App Store, а некоторые из них всё ещё там остаются](https://habr.com/ru/news/955266/?utm_campaign=955266&utm_source=habrahabr&utm_medium=rss)
+- [ГК InfoWatch — лауреат конкурса «Успешный патент»](https://habr.com/ru/companies/infowatch/news/955262/?utm_campaign=955262&utm_source=habrahabr&utm_medium=rss)
+- [Консолидация данных, облачная защита, измеримый результат: на Positive Security Day назвали главные тренды ИБ-отрасли](https://habr.com/ru/companies/pt/news/955076/?utm_campaign=955076&utm_source=habrahabr&utm_medium=rss)
+- [Магазин приложений Pebble снова заработал](https://habr.com/ru/news/955240/?utm_campaign=955240&utm_source=habrahabr&utm_medium=rss)
 - [Copilot для Windows теперь может подключаться к сторонним сервисам и создавать документы Office](https://habr.com/ru/news/955238/?utm_campaign=955238&utm_source=habrahabr&utm_medium=rss)
-- [Лауреаты Нобелевки и их патенты, новые пошлины за регистрацию брендов и возможный новый глава Apple: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/955226/?utm_campaign=955226&utm_source=habrahabr&utm_medium=rss)
-- [YouTube открывает программу «второго шанса» для заблокированных авторов](https://habr.com/ru/news/955216/?utm_campaign=955216&utm_source=habrahabr&utm_medium=rss)
-- [Goiaba: Go-компилятор на Rust](https://habr.com/ru/news/955208/?utm_campaign=955208&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Defender ошибочно отмечает SQL Server как продукт с истекшим сроком поддержки](https://habr.com/ru/news/955200/?utm_campaign=955200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
