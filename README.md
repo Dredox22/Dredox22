@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Goiaba: Go-компилятор на Rust](https://habr.com/ru/news/955208/?utm_campaign=955208&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Defender ошибочно отмечает SQL Server как продукт с истекшим сроком поддержки](https://habr.com/ru/news/955200/?utm_campaign=955200&utm_source=habrahabr&utm_medium=rss)
+- [Figure AI показала нового человекоподобного робота](https://habr.com/ru/companies/bothub/news/955178/?utm_campaign=955178&utm_source=habrahabr&utm_medium=rss)
+- [ИИ Gemini оказался уязвим к скрытым атакам ASCII](https://habr.com/ru/news/955190/?utm_campaign=955190&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5-Pro стала новым лидером в сложнейшем ИИ-бенчмарке](https://habr.com/ru/news/955188/?utm_campaign=955188&utm_source=habrahabr&utm_medium=rss)
-- [В релизной версии Ubuntu 25.10 оказалась нерабочей опция установки Flatpak-пакетов](https://habr.com/ru/news/955186/?utm_campaign=955186&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи нашли ещё несколько способов установки Windows 11 без учётной записи Microsoft и без доступа в интернет](https://habr.com/ru/news/955182/?utm_campaign=955182&utm_source=habrahabr&utm_medium=rss)
-- [Стартап David AI привлёк $50 млн на продаже человеческих разговоров для обучения ИИ](https://habr.com/ru/companies/bothub/news/955176/?utm_campaign=955176&utm_source=habrahabr&utm_medium=rss)
-- [Дуров в день своего 41-летия заявил об истекающем времени на «спасение свободного интернета»](https://habr.com/ru/news/955168/?utm_campaign=955168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
