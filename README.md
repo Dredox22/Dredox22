@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot для Windows теперь может подключаться к сторонним сервисам и создавать документы Office](https://habr.com/ru/news/955238/?utm_campaign=955238&utm_source=habrahabr&utm_medium=rss)
+- [Лауреаты Нобелевки и их патенты, новые пошлины за регистрацию брендов и возможный новый глава Apple: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/955226/?utm_campaign=955226&utm_source=habrahabr&utm_medium=rss)
+- [YouTube открывает программу «второго шанса» для заблокированных авторов](https://habr.com/ru/news/955216/?utm_campaign=955216&utm_source=habrahabr&utm_medium=rss)
 - [Goiaba: Go-компилятор на Rust](https://habr.com/ru/news/955208/?utm_campaign=955208&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Defender ошибочно отмечает SQL Server как продукт с истекшим сроком поддержки](https://habr.com/ru/news/955200/?utm_campaign=955200&utm_source=habrahabr&utm_medium=rss)
-- [Figure AI показала нового человекоподобного робота](https://habr.com/ru/companies/bothub/news/955178/?utm_campaign=955178&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Gemini оказался уязвим к скрытым атакам ASCII](https://habr.com/ru/news/955190/?utm_campaign=955190&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5-Pro стала новым лидером в сложнейшем ИИ-бенчмарке](https://habr.com/ru/news/955188/?utm_campaign=955188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
