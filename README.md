@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Почти 50% кода в Google пишет ИИ — статистика с мероприятия Gemini at Work](https://habr.com/ru/news/955490/?utm_campaign=955490&utm_source=habrahabr&utm_medium=rss)
+- [Google Cloud опубликовал 101 реальный кейс применения генеративного ИИ](https://habr.com/ru/companies/bothub/news/955456/?utm_campaign=955456&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft показала новую модель для симуляции поведения пользователя в диалоге](https://habr.com/ru/companies/bothub/news/955478/?utm_campaign=955478&utm_source=habrahabr&utm_medium=rss)
 - [Тайвань не собирается делить производство чипов с США](https://habr.com/ru/companies/bothub/news/955474/?utm_campaign=955474&utm_source=habrahabr&utm_medium=rss)
 - [Сноуден: Telegram, WhatsApp и другие мессенджеры становятся инструментом в руках спецслужб](https://habr.com/ru/news/955468/?utm_campaign=955468&utm_source=habrahabr&utm_medium=rss)
-- [TIME опубликовал подборку из 300 инновационных продуктов, которые способны изменить будущее](https://habr.com/ru/companies/bothub/news/955462/?utm_campaign=955462&utm_source=habrahabr&utm_medium=rss)
-- [Вышло руководство по написанию промптов для Sora 2](https://habr.com/ru/news/955454/?utm_campaign=955454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
