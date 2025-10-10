@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Катюша» начала серийное производство модулей из российского текстолита для печатных устройств](https://habr.com/ru/news/955370/?utm_campaign=955370&utm_source=habrahabr&utm_medium=rss)
 - [PT Application Inspector 5.2: продвинутый анализ кода на уязвимости](https://habr.com/ru/companies/pt/news/955324/?utm_campaign=955324&utm_source=habrahabr&utm_medium=rss)
 - [В РФ разрабатывают новый ГОСТ для компьютерных игр и игрушек в виде киногероев и мультяшных персонажей](https://habr.com/ru/news/955354/?utm_campaign=955354&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» запустил серийное производство отечественного МРТ‑совместимого электрокардиостимулятора Apollo MRI](https://habr.com/ru/news/955344/?utm_campaign=955344&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила три варианта действий по переходу с Windows 10](https://habr.com/ru/news/955342/?utm_campaign=955342&utm_source=habrahabr&utm_medium=rss)
-- [Российский Альянс RISC-V продолжает программу раннего доступа к российским котроллерам на открытой архитектуре](https://habr.com/ru/news/955334/?utm_campaign=955334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
