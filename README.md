@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-OSS теперь можно запустить на топовых Android-смартфонах](https://habr.com/ru/news/955616/?utm_campaign=955616&utm_source=habrahabr&utm_medium=rss)
 - [Атака на GitHub Copilot может извлечь содержимое из приватных репозиториев](https://habr.com/ru/news/955588/?utm_campaign=955588&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 Pro стала новым лидером в решении сложнейших математических задач](https://habr.com/ru/news/955586/?utm_campaign=955586&utm_source=habrahabr&utm_medium=rss)
 - [Apple выплатит до $2 млн за критические уязвимости безопасности в своих продуктах](https://habr.com/ru/news/955552/?utm_campaign=955552&utm_source=habrahabr&utm_medium=rss)
 - [Конкуренция в сфере ИИ выходит на новый уровень: теперь все строят свои экосистемы](https://habr.com/ru/news/955550/?utm_campaign=955550&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI отправила полицию к стороннику регулирования ИИ](https://habr.com/ru/news/955546/?utm_campaign=955546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
