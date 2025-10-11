@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Конкуренция в сфере ИИ выходит на новый уровень: теперь все строят свои экосистемы](https://habr.com/ru/news/955550/?utm_campaign=955550&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI отправила полицию к стороннику регулирования ИИ](https://habr.com/ru/news/955546/?utm_campaign=955546&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: комментарии в групповых звонкам и заметки к контактам](https://habr.com/ru/news/955540/?utm_campaign=955540&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Bun 1.3 — среды выполнения JavaScript и TypeScript](https://habr.com/ru/news/955530/?utm_campaign=955530&utm_source=habrahabr&utm_medium=rss)
 - [Релиз просмотрщика изображений PillowView 1.0 с открытым исходным кодом и с опцией редактирования для Windows 10/11](https://habr.com/ru/news/955280/?utm_campaign=955280&utm_source=habrahabr&utm_medium=rss)
-- [Представлен мультимедийный сервер PipeWire 1.4.9 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/955230/?utm_campaign=955230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
