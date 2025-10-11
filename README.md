@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Telegram: комментарии в групповых звонкам и заметки к контактам](https://habr.com/ru/news/955540/?utm_campaign=955540&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Bun 1.3 — среды выполнения JavaScript и TypeScript](https://habr.com/ru/news/955530/?utm_campaign=955530&utm_source=habrahabr&utm_medium=rss)
 - [Релиз просмотрщика изображений PillowView 1.0 с открытым исходным кодом и с опцией редактирования для Windows 10/11](https://habr.com/ru/news/955280/?utm_campaign=955280&utm_source=habrahabr&utm_medium=rss)
 - [Представлен мультимедийный сервер PipeWire 1.4.9 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/955230/?utm_campaign=955230&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wireshark 4.4.10](https://habr.com/ru/news/955204/?utm_campaign=955204&utm_source=habrahabr&utm_medium=rss)
-- [Почти 50% кода в Google пишет ИИ — статистика с мероприятия Gemini at Work](https://habr.com/ru/news/955490/?utm_campaign=955490&utm_source=habrahabr&utm_medium=rss)
-- [Google Cloud опубликовал 101 реальный кейс применения генеративного ИИ](https://habr.com/ru/companies/bothub/news/955456/?utm_campaign=955456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
