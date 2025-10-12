@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакерская группировка Crimson Collective объявила о взломе ряда ресурсов Nintendo](https://habr.com/ru/news/955670/?utm_campaign=955670&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск языка программирования Julia 1.12](https://habr.com/ru/news/955606/?utm_campaign=955606&utm_source=habrahabr&utm_medium=rss)
 - [Релиз ОС MicroPythonOS 0.0.11 с GUI для микроконтроллеров типа ESP32 на базе инструментария MicroPython](https://habr.com/ru/news/955600/?utm_campaign=955600&utm_source=habrahabr&utm_medium=rss)
 - [Вышел фреймворк OpenZL 0.1.0, предназначенный для создания компрессоров данных без потерь](https://habr.com/ru/news/955558/?utm_campaign=955558&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenSSH 10.2](https://habr.com/ru/news/955566/?utm_campaign=955566&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 и Gemini 2.5 Pro «взяли золото» Международной олимпиады по астрономии и астрофизике](https://habr.com/ru/news/955644/?utm_campaign=955644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
