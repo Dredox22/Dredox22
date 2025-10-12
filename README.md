@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Росатоме» создали опытный образец прибора для определения уровня радиации в воздухе](https://habr.com/ru/news/955808/?utm_campaign=955808&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Минпромторг РФ увеличивает финансирование радиоэлектроники в шесть раз»](https://habr.com/ru/news/955770/?utm_campaign=955770&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑Технологии» запустила новую программу поиска уязвимостей в формате кибериспытаний](https://habr.com/ru/news/955756/?utm_campaign=955756&utm_source=habrahabr&utm_medium=rss)
 - [Объединяем преимущества хранилищ и озёр данных в единую систему](https://habr.com/ru/companies/mws/news/938714/?utm_campaign=938714&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5-Pro необычным способом «закрыла» нерешенную математическую задачу](https://habr.com/ru/news/955704/?utm_campaign=955704&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: 250 вредоносных документов могут вызвать сбой в работе языковой модели с 13 млрд параметров](https://habr.com/ru/news/955682/?utm_campaign=955682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
