@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: 250 вредоносных документов могут вызвать сбой в работе языковой модели с 13 млрд параметров](https://habr.com/ru/news/955682/?utm_campaign=955682&utm_source=habrahabr&utm_medium=rss)
+- [Apple прекратила поддержку видеоредактора Clips и удалила его из App Store](https://habr.com/ru/news/955680/?utm_campaign=955680&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft уведомила пользователей o прекращении поддержки Windows 11 версии 23H2](https://habr.com/ru/news/955676/?utm_campaign=955676&utm_source=habrahabr&utm_medium=rss)
 - [Хакерская группировка Crimson Collective объявила о взломе ряда ресурсов Nintendo](https://habr.com/ru/news/955670/?utm_campaign=955670&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск языка программирования Julia 1.12](https://habr.com/ru/news/955606/?utm_campaign=955606&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ОС MicroPythonOS 0.0.11 с GUI для микроконтроллеров типа ESP32 на базе инструментария MicroPython](https://habr.com/ru/news/955600/?utm_campaign=955600&utm_source=habrahabr&utm_medium=rss)
-- [Вышел фреймворк OpenZL 0.1.0, предназначенный для создания компрессоров данных без потерь](https://habr.com/ru/news/955558/?utm_campaign=955558&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenSSH 10.2](https://habr.com/ru/news/955566/?utm_campaign=955566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
