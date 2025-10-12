@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Объединяем преимущества хранилищ и озёр данных в единую систему](https://habr.com/ru/companies/mws/news/938714/?utm_campaign=938714&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5-Pro необычным способом «закрыла» нерешенную математическую задачу](https://habr.com/ru/news/955704/?utm_campaign=955704&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: 250 вредоносных документов могут вызвать сбой в работе языковой модели с 13 млрд параметров](https://habr.com/ru/news/955682/?utm_campaign=955682&utm_source=habrahabr&utm_medium=rss)
 - [Apple прекратила поддержку видеоредактора Clips и удалила его из App Store](https://habr.com/ru/news/955680/?utm_campaign=955680&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft уведомила пользователей o прекращении поддержки Windows 11 версии 23H2](https://habr.com/ru/news/955676/?utm_campaign=955676&utm_source=habrahabr&utm_medium=rss)
-- [Хакерская группировка Crimson Collective объявила о взломе ряда ресурсов Nintendo](https://habr.com/ru/news/955670/?utm_campaign=955670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
