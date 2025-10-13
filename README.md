@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар: Расширяем возможности DBT для Greenplum и ClickHouse](https://habr.com/ru/companies/sapiens_solutions/news/955960/?utm_campaign=955960&utm_source=habrahabr&utm_medium=rss)
-- [Компании «Актив» и «Пульсар» подписали соглашение о научно-техническом партнерстве](https://habr.com/ru/companies/aktiv-company/news/956000/?utm_campaign=956000&utm_source=habrahabr&utm_medium=rss)
-- [Adobe представила способ обучения моделей](https://habr.com/ru/companies/bothub/news/955866/?utm_campaign=955866&utm_source=habrahabr&utm_medium=rss)
-- [Google интегрировала Gemini в Google Maps](https://habr.com/ru/news/955962/?utm_campaign=955962&utm_source=habrahabr&utm_medium=rss)
-- [Новый плагин Qwen Image Edit может создавать кино-сцены из одного кадра](https://habr.com/ru/companies/bothub/news/955872/?utm_campaign=955872&utm_source=habrahabr&utm_medium=rss)
+- [Мorgan stanley: Тeuralink может создать рынок на $400 млрд](https://habr.com/ru/companies/bothub/news/956008/?utm_campaign=956008&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup.KZN 2025 в Казани: всё о PostgreSQL 18, управлении ресурсами и шардинге](https://habr.com/ru/companies/postgrespro/news/954960/?utm_campaign=954960&utm_source=habrahabr&utm_medium=rss)
+- [Fastmail запустил приложение для ПК на базе Mac, Windows и Linux](https://habr.com/ru/news/956034/?utm_campaign=956034&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «„Сбербанк“ тестирует оплату по отпечатку ладони»](https://habr.com/ru/news/956032/?utm_campaign=956032&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft заблокировала обновление ISO-образа с Windows 10 до 11 из-за поломки Media Creation Tool](https://habr.com/ru/news/956004/?utm_campaign=956004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
