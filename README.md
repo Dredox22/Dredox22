@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeep выпустил обновление ПО, которое привело к потерям мощности у Wrangler 4xe 2024 года и другим ошибкам](https://habr.com/ru/news/955852/?utm_campaign=955852&utm_source=habrahabr&utm_medium=rss)
 - [Релиз LineageOS 23 на основе Android 16](https://habr.com/ru/news/955690/?utm_campaign=955690&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратила публиковать в бюллетене по безопасности информацию об исправлении уязвимостей в Android](https://habr.com/ru/news/955734/?utm_campaign=955734&utm_source=habrahabr&utm_medium=rss)
 - [Релиз ImageViewer 1.8.1 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/955694/?utm_campaign=955694&utm_source=habrahabr&utm_medium=rss)
 - [Австралийский ВУЗ полагался на детектор ИИ — тысячи студентов получили ошибочные обвинения](https://habr.com/ru/news/955820/?utm_campaign=955820&utm_source=habrahabr&utm_medium=rss)
-- [В «Росатоме» создали опытный образец прибора для определения уровня радиации в воздухе](https://habr.com/ru/news/955808/?utm_campaign=955808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
