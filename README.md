@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз LineageOS 23 на основе Android 16](https://habr.com/ru/news/955690/?utm_campaign=955690&utm_source=habrahabr&utm_medium=rss)
+- [Google прекратила публиковать в бюллетене по безопасности информацию об исправлении уязвимостей в Android](https://habr.com/ru/news/955734/?utm_campaign=955734&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ImageViewer 1.8.1 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/955694/?utm_campaign=955694&utm_source=habrahabr&utm_medium=rss)
 - [Австралийский ВУЗ полагался на детектор ИИ — тысячи студентов получили ошибочные обвинения](https://habr.com/ru/news/955820/?utm_campaign=955820&utm_source=habrahabr&utm_medium=rss)
 - [В «Росатоме» создали опытный образец прибора для определения уровня радиации в воздухе](https://habr.com/ru/news/955808/?utm_campaign=955808&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Минпромторг РФ увеличивает финансирование радиоэлектроники в шесть раз»](https://habr.com/ru/news/955770/?utm_campaign=955770&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Технологии» запустила новую программу поиска уязвимостей в формате кибериспытаний](https://habr.com/ru/news/955756/?utm_campaign=955756&utm_source=habrahabr&utm_medium=rss)
-- [Объединяем преимущества хранилищ и озёр данных в единую систему](https://habr.com/ru/companies/mws/news/938714/?utm_campaign=938714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
