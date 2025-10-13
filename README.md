@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe представила способ обучения моделей](https://habr.com/ru/companies/bothub/news/955866/?utm_campaign=955866&utm_source=habrahabr&utm_medium=rss)
+- [Google интегрировала Gemini в Google Maps](https://habr.com/ru/news/955962/?utm_campaign=955962&utm_source=habrahabr&utm_medium=rss)
 - [Новый плагин Qwen Image Edit может создавать кино-сцены из одного кадра](https://habr.com/ru/companies/bothub/news/955872/?utm_campaign=955872&utm_source=habrahabr&utm_medium=rss)
 - [Представлен порт культового шутера Quake в вашем Telegram](https://habr.com/ru/news/955948/?utm_campaign=955948&utm_source=habrahabr&utm_medium=rss)
 - [Solar Dozor 8.2: полный контроль над инсайдерами](https://habr.com/ru/companies/solarsecurity/news/955944/?utm_campaign=955944&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 и Gemini 2.5 Pro заработали золото на Международной олимпиаде по астрономии и астрофизике](https://habr.com/ru/companies/bothub/news/955886/?utm_campaign=955886&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала тестировать ИИ-распознавание фото в OneDrive](https://habr.com/ru/news/955910/?utm_campaign=955910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
