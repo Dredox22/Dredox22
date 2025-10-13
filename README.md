@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nokia лицензировала технологии для развития своих решений для мобильных сетей и сетевой автоматизации на базе ИИ](https://habr.com/ru/news/956140/?utm_campaign=956140&utm_source=habrahabr&utm_medium=rss)
 - [Китай выходит в лидеры мировой робототехники](https://habr.com/ru/companies/bothub/news/956052/?utm_campaign=956052&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI и Broadcom вложат до $500 млрд в развертывание GPU собственной разработки — FT](https://habr.com/ru/news/956086/?utm_campaign=956086&utm_source=habrahabr&utm_medium=rss)
 - [На факультете ВМК МГУ открылась учебно-исследовательская лаборатория свободного ПО при поддержке «Базальт СПО»](https://habr.com/ru/news/956070/?utm_campaign=956070&utm_source=habrahabr&utm_medium=rss)
 - [«Инфосистемы Джет» выяснила, что 60% компаний не готовы рассказывать о киберинцидентах](https://habr.com/ru/companies/jetinfosystems/news/956064/?utm_campaign=956064&utm_source=habrahabr&utm_medium=rss)
-- [Мorgan stanley: Neuralink может создать рынок на $400 млрд](https://habr.com/ru/companies/bothub/news/956008/?utm_campaign=956008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
