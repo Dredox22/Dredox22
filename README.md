@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack превращает Slackbot в ИИ-помощника](https://habr.com/ru/news/956184/?utm_campaign=956184&utm_source=habrahabr&utm_medium=rss)
+- [Мощнее DeepSeek-V3.1 и Qwen3: Alibaba выпустила ИИ с открытым кодом Ling-1T/Ring-1T](https://habr.com/ru/news/956188/?utm_campaign=956188&utm_source=habrahabr&utm_medium=rss)
 - [«Сбербанк» запустил пилот по проведению профилактических бесед с дропперами для возврата незаконных переводов](https://habr.com/ru/news/956172/?utm_campaign=956172&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Reddit нашли незаметные водяные знаки на картинках, сгенерированных в Gemini](https://habr.com/ru/news/956170/?utm_campaign=956170&utm_source=habrahabr&utm_medium=rss)
 - [Рост ВВП США почти полностью зависит от ИИ-бума — экономист Гарварда](https://habr.com/ru/news/956152/?utm_campaign=956152&utm_source=habrahabr&utm_medium=rss)
-- [Nokia лицензировала технологии для развития своих решений для мобильных сетей и сетевой автоматизации на базе ИИ](https://habr.com/ru/news/956140/?utm_campaign=956140&utm_source=habrahabr&utm_medium=rss)
-- [Китай выходит в лидеры мировой робототехники](https://habr.com/ru/companies/bothub/news/956052/?utm_campaign=956052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
