@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На факультете ВМК МГУ открылась учебно-исследовательская лаборатория свободного ПО при поддержке «Базальт СПО»](https://habr.com/ru/news/956070/?utm_campaign=956070&utm_source=habrahabr&utm_medium=rss)
+- [«Инфосистемы Джет» выяснила, что 60% компаний не готовы рассказывать о киберинцидентах](https://habr.com/ru/companies/jetinfosystems/news/956064/?utm_campaign=956064&utm_source=habrahabr&utm_medium=rss)
 - [Мorgan stanley: Тeuralink может создать рынок на $400 млрд](https://habr.com/ru/companies/bothub/news/956008/?utm_campaign=956008&utm_source=habrahabr&utm_medium=rss)
 - [PGMeetup.KZN 2025 в Казани: всё о PostgreSQL 18, управлении ресурсами и шардинге](https://habr.com/ru/companies/postgrespro/news/954960/?utm_campaign=954960&utm_source=habrahabr&utm_medium=rss)
 - [Fastmail запустил приложение для ПК на базе Mac, Windows и Linux](https://habr.com/ru/news/956034/?utm_campaign=956034&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «„Сбербанк“ тестирует оплату по отпечатку ладони»](https://habr.com/ru/news/956032/?utm_campaign=956032&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заблокировала обновление ISO-образа с Windows 10 до 11 из-за поломки Media Creation Tool](https://habr.com/ru/news/956004/?utm_campaign=956004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
