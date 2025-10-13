@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сооснователь Thinking Machines Lab переходит в компанию Цукерберга](https://habr.com/ru/companies/bothub/news/955880/?utm_campaign=955880&utm_source=habrahabr&utm_medium=rss)
+- [Ограничение на число банковских карт в РФ может заработать с декабря &lpar;не более 5 карт в одном банке и не более 20 всего&rpar;](https://habr.com/ru/news/955876/?utm_campaign=955876&utm_source=habrahabr&utm_medium=rss)
+- [Президент OpenAI заявил, что AGI появится к 2028 году](https://habr.com/ru/news/955874/?utm_campaign=955874&utm_source=habrahabr&utm_medium=rss)
+- [Бывший премьер-министр Великобритании стал советником Microsoft и Anthropic](https://habr.com/ru/companies/bothub/news/955864/?utm_campaign=955864&utm_source=habrahabr&utm_medium=rss)
 - [Автор curl Даниэль Стенберг сообщил, что ИИ-инструменты для проверки кода позволили обнаружить 50 ошибок в утилите](https://habr.com/ru/news/955858/?utm_campaign=955858&utm_source=habrahabr&utm_medium=rss)
-- [Jeep выпустил обновление ПО, которое привело к потерям мощности у Wrangler 4xe 2024 года и другим ошибкам](https://habr.com/ru/news/955852/?utm_campaign=955852&utm_source=habrahabr&utm_medium=rss)
-- [Релиз LineageOS 23 на основе Android 16](https://habr.com/ru/news/955690/?utm_campaign=955690&utm_source=habrahabr&utm_medium=rss)
-- [Google прекратила публиковать в бюллетене по безопасности информацию об исправлении уязвимостей в Android](https://habr.com/ru/news/955734/?utm_campaign=955734&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ImageViewer 1.8.1 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/955694/?utm_campaign=955694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
