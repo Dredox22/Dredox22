@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар: Расширяем возможности DBT для Greenplum и ClickHouse](https://habr.com/ru/companies/sapiens_solutions/news/955960/?utm_campaign=955960&utm_source=habrahabr&utm_medium=rss)
+- [Компании «Актив» и «Пульсар» подписали соглашение о научно-техническом партнерстве](https://habr.com/ru/companies/aktiv-company/news/956000/?utm_campaign=956000&utm_source=habrahabr&utm_medium=rss)
 - [Adobe представила способ обучения моделей](https://habr.com/ru/companies/bothub/news/955866/?utm_campaign=955866&utm_source=habrahabr&utm_medium=rss)
 - [Google интегрировала Gemini в Google Maps](https://habr.com/ru/news/955962/?utm_campaign=955962&utm_source=habrahabr&utm_medium=rss)
 - [Новый плагин Qwen Image Edit может создавать кино-сцены из одного кадра](https://habr.com/ru/companies/bothub/news/955872/?utm_campaign=955872&utm_source=habrahabr&utm_medium=rss)
-- [Представлен порт культового шутера Quake в вашем Telegram](https://habr.com/ru/news/955948/?utm_campaign=955948&utm_source=habrahabr&utm_medium=rss)
-- [Solar Dozor 8.2: полный контроль над инсайдерами](https://habr.com/ru/companies/solarsecurity/news/955944/?utm_campaign=955944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
