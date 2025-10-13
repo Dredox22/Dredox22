@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 и Gemini 2.5 Pro заработали золото на Международной олимпиаде по астрономии и астрофизике](https://habr.com/ru/companies/bothub/news/955886/?utm_campaign=955886&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала тестировать ИИ-распознавание фото в OneDrive](https://habr.com/ru/news/955910/?utm_campaign=955910&utm_source=habrahabr&utm_medium=rss)
+- [Ректор МГУ: новый факультет искусственного интеллекта &lpar;ИИ&rpar; должен стать одним из самых популярных среди абитуриентов](https://habr.com/ru/news/955902/?utm_campaign=955902&utm_source=habrahabr&utm_medium=rss)
 - [Пожар в ЦОД правительства Южной Кореи могло вызвать неправильное отключение питания](https://habr.com/ru/news/955894/?utm_campaign=955894&utm_source=habrahabr&utm_medium=rss)
 - [Полиция США попросила подростков прекратить розыгрыши с участием дипфейка бездомного](https://habr.com/ru/news/955890/?utm_campaign=955890&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь Thinking Machines Lab переходит в компанию Цукерберга](https://habr.com/ru/companies/bothub/news/955880/?utm_campaign=955880&utm_source=habrahabr&utm_medium=rss)
-- [Ограничение на число банковских карт в РФ может заработать с декабря &lpar;не более 5 карт в одном банке и не более 20 всего&rpar;](https://habr.com/ru/news/955876/?utm_campaign=955876&utm_source=habrahabr&utm_medium=rss)
-- [Президент OpenAI заявил, что AGI появится к 2028 году](https://habr.com/ru/news/955874/?utm_campaign=955874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
