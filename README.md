@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прототип Google Gemini 3.0 Pro создал «копии» Windows и MacOS](https://habr.com/ru/news/956274/?utm_campaign=956274&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи показали атаку Pixnapping на Android для захвата данных приложений](https://habr.com/ru/news/956264/?utm_campaign=956264&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI попалась на удалении датасета с пиратскими книгами](https://habr.com/ru/companies/bothub/news/956258/?utm_campaign=956258&utm_source=habrahabr&utm_medium=rss)
 - [macOS Tahoe 26.1 Beta 3 — расширение Apple Intelligence и оптимизация интерфейса](https://habr.com/ru/news/956244/?utm_campaign=956244&utm_source=habrahabr&utm_medium=rss)
 - [Опубликовано расписание CozySummit — конференции для разработчиков и пользователей Open Source-платформы Cozystack](https://habr.com/ru/companies/aenix/news/956240/?utm_campaign=956240&utm_source=habrahabr&utm_medium=rss)
-- [Щупальца, кожа и звук: новая анатомия роботов](https://habr.com/ru/news/956238/?utm_campaign=956238&utm_source=habrahabr&utm_medium=rss)
-- [Релиз приложения с открытым исходным кодом для записи и редактирования экрана ScreenArc 1.1.3](https://habr.com/ru/news/955882/?utm_campaign=955882&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 144.0](https://habr.com/ru/news/956136/?utm_campaign=956136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
