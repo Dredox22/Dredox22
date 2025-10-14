@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Я.Субботник по Go: новое в мире Go, нетворкинг и глинтвейн](https://habr.com/ru/companies/yandex/news/956338/?utm_campaign=956338&utm_source=habrahabr&utm_medium=rss)
-- [«Т-Технологии» запустили программу кибериспытаний на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/956212/?utm_campaign=956212&utm_source=habrahabr&utm_medium=rss)
-- [Баг в Google Play Services вызвал ошибки и сбои в новых Pixel 10](https://habr.com/ru/news/956324/?utm_campaign=956324&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» научит школьников распознавать дипфейки и защищаться от мошенников в онлайн-играх](https://habr.com/ru/news/956178/?utm_campaign=956178&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за сентябрь 2025 года](https://habr.com/ru/companies/ussc/news/956322/?utm_campaign=956322&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5 Pro нашла контрпример к давней математической гипотезе](https://habr.com/ru/news/956392/?utm_campaign=956392&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare нашли редчайший баг — прямо в компиляторе Go для ARM64](https://habr.com/ru/news/956372/?utm_campaign=956372&utm_source=habrahabr&utm_medium=rss)
+- [В Калифорнии подписали закон для чат-ботов](https://habr.com/ru/companies/bothub/news/956364/?utm_campaign=956364&utm_source=habrahabr&utm_medium=rss)
+- [СберМобайл перешел с  Redmine и Confluence на российские решения от EvaTeam](https://habr.com/ru/companies/evateam/news/956306/?utm_campaign=956306&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI сотрудничает с Broadcom для производства собственных ИИ-чипов](https://habr.com/ru/news/956354/?utm_campaign=956354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
