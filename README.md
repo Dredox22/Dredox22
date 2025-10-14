@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» научит школьников распознавать дипфейки и защищаться от мошенников в онлайн-играх](https://habr.com/ru/news/956178/?utm_campaign=956178&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве ИТ и ИБ за сентябрь 2025 года](https://habr.com/ru/companies/ussc/news/956322/?utm_campaign=956322&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/956316/?utm_campaign=956316&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft AI анонсировала собственный генератор изображений MAI-Image-1](https://habr.com/ru/news/956296/?utm_campaign=956296&utm_source=habrahabr&utm_medium=rss)
 - [TP-Link протестировала прототип стандарта Wi-Fi 8](https://habr.com/ru/news/956286/?utm_campaign=956286&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft рекомендовала попробовать обновления Windows по системе «горячих патчей»](https://habr.com/ru/news/956278/?utm_campaign=956278&utm_source=habrahabr&utm_medium=rss)
-- [Опубликованы данные об уязвимостях в архиваторе 7-Zip, пользователям рекомендовано обновиться до версии 7-Zip 25.01](https://habr.com/ru/news/956280/?utm_campaign=956280&utm_source=habrahabr&utm_medium=rss)
-- [«Персональный ИИ-суперкомпьютер» от Nvidia поступит в продажу 15 октября](https://habr.com/ru/news/956276/?utm_campaign=956276&utm_source=habrahabr&utm_medium=rss)
-- [Прототип Google Gemini 3.0 Pro создал «копии» Windows и MacOS](https://habr.com/ru/news/956274/?utm_campaign=956274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
