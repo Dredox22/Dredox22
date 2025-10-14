@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10: поддержка завершится сегодня ночью](https://habr.com/ru/news/956232/?utm_campaign=956232&utm_source=habrahabr&utm_medium=rss)
 - [Поддержка Windows 10 официально прекращена](https://habr.com/ru/news/956190/?utm_campaign=956190&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпатый представил nanochat — проект полного цикла создания LLM всего за 100 долларов](https://habr.com/ru/news/956200/?utm_campaign=956200&utm_source=habrahabr&utm_medium=rss)
 - [Slack превращает Slackbot в ИИ-помощника](https://habr.com/ru/news/956184/?utm_campaign=956184&utm_source=habrahabr&utm_medium=rss)
 - [Мощнее DeepSeek-V3.1 и Qwen3: Alibaba выпустила ИИ с открытым кодом Ling-1T/Ring-1T](https://habr.com/ru/news/956188/?utm_campaign=956188&utm_source=habrahabr&utm_medium=rss)
-- [«Сбербанк» запустил пилот по проведению профилактических бесед с дропперами для возврата незаконных переводов](https://habr.com/ru/news/956172/?utm_campaign=956172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
