@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Щупальца, кожа и звук: новая анатомия роботов](https://habr.com/ru/news/956238/?utm_campaign=956238&utm_source=habrahabr&utm_medium=rss)
+- [Релиз приложения с открытым исходным кодом для записи и редактирования экрана ScreenArc 1.1.3](https://habr.com/ru/news/955882/?utm_campaign=955882&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Firefox 144.0](https://habr.com/ru/news/956136/?utm_campaign=956136&utm_source=habrahabr&utm_medium=rss)
+- [Релиз RapidRAW 1.4.2 — открытого редактора изображений RAW](https://habr.com/ru/news/955868/?utm_campaign=955868&utm_source=habrahabr&utm_medium=rss)
 - [Windows 10: поддержка завершится сегодня ночью](https://habr.com/ru/news/956232/?utm_campaign=956232&utm_source=habrahabr&utm_medium=rss)
-- [Поддержка Windows 10 официально прекращена](https://habr.com/ru/news/956190/?utm_campaign=956190&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпатый представил nanochat — проект полного цикла создания LLM всего за 100 долларов](https://habr.com/ru/news/956200/?utm_campaign=956200&utm_source=habrahabr&utm_medium=rss)
-- [Slack превращает Slackbot в ИИ-помощника](https://habr.com/ru/news/956184/?utm_campaign=956184&utm_source=habrahabr&utm_medium=rss)
-- [Мощнее DeepSeek-V3.1 и Qwen3: Alibaba выпустила ИИ с открытым кодом Ling-1T/Ring-1T](https://habr.com/ru/news/956188/?utm_campaign=956188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
