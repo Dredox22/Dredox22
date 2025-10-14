@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Я.Субботник по Go: новое в мире Go, нетворкинг и глинтвейн](https://habr.com/ru/companies/yandex/news/956338/?utm_campaign=956338&utm_source=habrahabr&utm_medium=rss)
+- [«Т-Технологии» запустили программу кибериспытаний на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/956212/?utm_campaign=956212&utm_source=habrahabr&utm_medium=rss)
+- [Баг в Google Play Services вызвал ошибки и сбои в новых Pixel 10](https://habr.com/ru/news/956324/?utm_campaign=956324&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» научит школьников распознавать дипфейки и защищаться от мошенников в онлайн-играх](https://habr.com/ru/news/956178/?utm_campaign=956178&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за сентябрь 2025 года](https://habr.com/ru/companies/ussc/news/956322/?utm_campaign=956322&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/956316/?utm_campaign=956316&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft AI анонсировала собственный генератор изображений MAI-Image-1](https://habr.com/ru/news/956296/?utm_campaign=956296&utm_source=habrahabr&utm_medium=rss)
-- [TP-Link протестировала прототип стандарта Wi-Fi 8](https://habr.com/ru/news/956286/?utm_campaign=956286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
