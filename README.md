@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на «QAртирник Mobile» от Мир Plat.Form](https://habr.com/ru/companies/nspk/news/956378/?utm_campaign=956378&utm_source=habrahabr&utm_medium=rss)
+- [Глава NVIDIA подарил Илону Маску ИИ-суперкомпьютер, помещающийся в коробку](https://habr.com/ru/companies/bothub/news/956370/?utm_campaign=956370&utm_source=habrahabr&utm_medium=rss)
+- [Обновления продуктов Selectel в сентябре: новые серверные решения и SelectOS Manpages](https://habr.com/ru/companies/selectel/news/956282/?utm_campaign=956282&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Tino — утилиты для визуализации текста по частям в текущем окне терминала](https://habr.com/ru/news/956394/?utm_campaign=956394&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 Pro нашла контрпример к давней математической гипотезе](https://habr.com/ru/news/956392/?utm_campaign=956392&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare нашли редчайший баг — прямо в компиляторе Go для ARM64](https://habr.com/ru/news/956372/?utm_campaign=956372&utm_source=habrahabr&utm_medium=rss)
-- [В Калифорнии подписали закон для чат-ботов](https://habr.com/ru/companies/bothub/news/956364/?utm_campaign=956364&utm_source=habrahabr&utm_medium=rss)
-- [СберМобайл перешел с  Redmine и Confluence на российские решения от EvaTeam](https://habr.com/ru/companies/evateam/news/956306/?utm_campaign=956306&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сотрудничает с Broadcom для производства собственных ИИ-чипов](https://habr.com/ru/news/956354/?utm_campaign=956354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
