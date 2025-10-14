@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google добавил Nano Banana в NotebookLM Video Overviews](https://habr.com/ru/companies/bothub/news/956390/?utm_campaign=956390&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA представила исследование нового формата чисел для обучения больших языковых моделей](https://habr.com/ru/companies/bothub/news/956416/?utm_campaign=956416&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** по умолчанию будет показывать подросткам контент с рейтингом PG-13 и усилит родительский контроль](https://habr.com/ru/news/956504/?utm_campaign=956504&utm_source=habrahabr&utm_medium=rss)
 - [Fujifilm выпустила гибридную камеру Instax LiPlay Plus](https://habr.com/ru/news/956502/?utm_campaign=956502&utm_source=habrahabr&utm_medium=rss)
 - [Облачный дайджест: GPU-вычисления, рейтинг платформ Kubernetes и ТОП-10 LLM](https://habr.com/ru/companies/mws/news/956498/?utm_campaign=956498&utm_source=habrahabr&utm_medium=rss)
-- [Новые возможности реализованы в InfoWatch ARMA Management Console 2.0](https://habr.com/ru/companies/infowatch/news/956486/?utm_campaign=956486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
