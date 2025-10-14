@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекращает поддержку Office 2016 и 2019](https://habr.com/ru/news/956554/?utm_campaign=956554&utm_source=habrahabr&utm_medium=rss)
+- [Ring-1T-FP8 стала одной из крупнейших открытых моделей на триллион параметров](https://habr.com/ru/companies/bothub/news/956406/?utm_campaign=956406&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT сделают более человечным и добавят эротику — Сэм Альтман](https://habr.com/ru/news/956548/?utm_campaign=956548&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь Anthropic опубликовал эссе о природе современных ИИ-систем](https://habr.com/ru/companies/bothub/news/956382/?utm_campaign=956382&utm_source=habrahabr&utm_medium=rss)
 - [Google добавил Nano Banana в NotebookLM Video Overviews](https://habr.com/ru/companies/bothub/news/956390/?utm_campaign=956390&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA представила исследование нового формата чисел для обучения больших языковых моделей](https://habr.com/ru/companies/bothub/news/956416/?utm_campaign=956416&utm_source=habrahabr&utm_medium=rss)
-- [Instagram** по умолчанию будет показывать подросткам контент с рейтингом PG-13 и усилит родительский контроль](https://habr.com/ru/news/956504/?utm_campaign=956504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
