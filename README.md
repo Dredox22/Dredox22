@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность PSN раскритиковали после того, как служба поддержки передала хакеру учётную запись стороннего пользователя](https://habr.com/ru/news/956454/?utm_campaign=956454&utm_source=habrahabr&utm_medium=rss)
+- [«Какой ещё “агентный ИИ”, если он одну инструкцию толком выполнить не может?»](https://habr.com/ru/news/956452/?utm_campaign=956452&utm_source=habrahabr&utm_medium=rss)
+- [Google запустил ИИ-поиск в России](https://habr.com/ru/news/956444/?utm_campaign=956444&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI и Broadcom объявили о стратегическом партнёрстве для разработки AI-ускорителей](https://habr.com/ru/companies/bothub/news/956424/?utm_campaign=956424&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на «QAртирник Mobile» от Мир Plat.Form](https://habr.com/ru/companies/nspk/news/956378/?utm_campaign=956378&utm_source=habrahabr&utm_medium=rss)
-- [Глава NVIDIA подарил Илону Маску ИИ-суперкомпьютер, помещающийся в коробку](https://habr.com/ru/companies/bothub/news/956370/?utm_campaign=956370&utm_source=habrahabr&utm_medium=rss)
-- [Обновления продуктов Selectel в сентябре: новые серверные решения и SelectOS Manpages](https://habr.com/ru/companies/selectel/news/956282/?utm_campaign=956282&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Tino — утилиты для визуализации текста по частям в текущем окне терминала](https://habr.com/ru/news/956394/?utm_campaign=956394&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 Pro нашла контрпример к давней математической гипотезе](https://habr.com/ru/news/956392/?utm_campaign=956392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
