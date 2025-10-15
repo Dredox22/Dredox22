@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK объявила старт соревнований по созданию рекомендательных алгоритмов VK RecSys Challenge](https://habr.com/ru/news/956564/?utm_campaign=956564&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba выпустила мощную мультимодальную модель](https://habr.com/ru/companies/bothub/news/956642/?utm_campaign=956642&utm_source=habrahabr&utm_medium=rss)
 - [Windows 10 продолжит получать обновления Microsoft Defender](https://habr.com/ru/news/956628/?utm_campaign=956628&utm_source=habrahabr&utm_medium=rss)
 - [Более 50% статей в интернете уже пишет ИИ. Но трафик идет на «человеческие» тексты](https://habr.com/ru/news/956636/?utm_campaign=956636&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал конкурс по системному программированию и Open Source Open OS Challenge 2025 с призовым фондом 1 млн рублей](https://habr.com/ru/news/956634/?utm_campaign=956634&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила самый маленький AI-суперкомпьютер за 3999 долларов](https://habr.com/ru/companies/bothub/news/956614/?utm_campaign=956614&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
