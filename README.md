@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Переход на zVirt позволил «Роскадастру» увеличить скорость работы виртуальных машин на 25%](https://habr.com/ru/companies/orion_soft/news/956724/?utm_campaign=956724&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект «Doom — Мультиплеер в браузере»](https://habr.com/ru/news/956712/?utm_campaign=956712&utm_source=habrahabr&utm_medium=rss)
+- [YouTube анонсировал функцию для сохранения психического благополучия подростков](https://habr.com/ru/news/956706/?utm_campaign=956706&utm_source=habrahabr&utm_medium=rss)
 - [Оператор связи Т2 &lpar;входит в «Ростелеком»&rpar; начал предоставлять услуги кибербезопасности под брендом Safewall](https://habr.com/ru/news/956650/?utm_campaign=956650&utm_source=habrahabr&utm_medium=rss)
 - [VK объявила старт соревнований по созданию рекомендательных алгоритмов VK RecSys Challenge](https://habr.com/ru/news/956564/?utm_campaign=956564&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выпустила мощную мультимодальную модель](https://habr.com/ru/companies/bothub/news/956642/?utm_campaign=956642&utm_source=habrahabr&utm_medium=rss)
-- [Windows 10 продолжит получать обновления Microsoft Defender](https://habr.com/ru/news/956628/?utm_campaign=956628&utm_source=habrahabr&utm_medium=rss)
-- [Более 50% статей в интернете уже пишет ИИ. Но трафик идет на «человеческие» тексты](https://habr.com/ru/news/956636/?utm_campaign=956636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
