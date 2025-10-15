@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI ослабит ограничения ChatGPT и разрешит эротический контент для взрослых пользователей](https://habr.com/ru/companies/bothub/news/956792/?utm_campaign=956792&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предлагает обновления безопасности для Windows 10 за $30 в год или бесплатно при выполнении ряда условий](https://habr.com/ru/news/956784/?utm_campaign=956784&utm_source=habrahabr&utm_medium=rss)
 - [В мессенджере Max зарегистрировано более 45 миллионов пользователей и отправлено более 3 миллиардов сообщений](https://habr.com/ru/news/956758/?utm_campaign=956758&utm_source=habrahabr&utm_medium=rss)
 - [«ChatGPT и я теперь близки»: генерал армии США рассказал, как использует ИИ в штабной работе](https://habr.com/ru/news/956756/?utm_campaign=956756&utm_source=habrahabr&utm_medium=rss)
 - [Переход на zVirt позволил «Роскадастру» увеличить скорость работы виртуальных машин на 25%](https://habr.com/ru/companies/orion_soft/news/956724/?utm_campaign=956724&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект «Doom — Мультиплеер в браузере»](https://habr.com/ru/news/956712/?utm_campaign=956712&utm_source=habrahabr&utm_medium=rss)
-- [YouTube анонсировал функцию для сохранения психического благополучия подростков](https://habr.com/ru/news/956706/?utm_campaign=956706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
