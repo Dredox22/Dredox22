@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи бьют тревогу: 12 популярных систем безопасности ИИ оказались ненадежны](https://habr.com/ru/news/956914/?utm_campaign=956914&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик операционных систем из Северной Кореи зарегистрировал новую компанию «для исследований рынка» в РФ](https://habr.com/ru/news/956910/?utm_campaign=956910&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила MacBook Pro и iPad Pro на чипе M5](https://habr.com/ru/news/956900/?utm_campaign=956900&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Минпромторг РФ усиливает контроль за производителями светотехники»](https://habr.com/ru/news/956894/?utm_campaign=956894&utm_source=habrahabr&utm_medium=rss)
 - [Учёные показали, что спутниковую связь можно перехватывать оборудованием за 800 долларов](https://habr.com/ru/companies/bothub/news/956840/?utm_campaign=956840&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила видео-модель Veo 3.1 — пока только для пользователей Flow](https://habr.com/ru/news/956884/?utm_campaign=956884&utm_source=habrahabr&utm_medium=rss)
-- [Китайские исследователи полностью восстановили повреждённый свиток IV века с поэмой, используя технологии ИИ](https://habr.com/ru/news/956846/?utm_campaign=956846&utm_source=habrahabr&utm_medium=rss)
-- [Западные топ-менеджеры возвращаются из Китая с чувством тревоги](https://habr.com/ru/companies/bothub/news/956806/?utm_campaign=956806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
