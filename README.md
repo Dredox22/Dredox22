@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Qmmp 2.3.0 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/956252/?utm_campaign=956252&utm_source=habrahabr&utm_medium=rss)
-- [Вышла диагностическая утилита CPU-Z 2.17](https://habr.com/ru/news/956248/?utm_campaign=956248&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Blender 5.0 Beta](https://habr.com/ru/news/956256/?utm_campaign=956256&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.1](https://habr.com/ru/news/956456/?utm_campaign=956456&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.4.3](https://habr.com/ru/news/956552/?utm_campaign=956552&utm_source=habrahabr&utm_medium=rss)
+- [Windows 10 продолжит получать обновления Microsoft Defender](https://habr.com/ru/news/956628/?utm_campaign=956628&utm_source=habrahabr&utm_medium=rss)
+- [Более 50% статей в интернете уже пишет ИИ. Но трафик идет на «человеческие» тексты](https://habr.com/ru/news/956636/?utm_campaign=956636&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал конкурс по системному программированию и Open Source Open OS Challenge 2025 с призовым фондом 1 млн рублей](https://habr.com/ru/news/956634/?utm_campaign=956634&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила самый маленький AI-суперкомпьютер за 3999 долларов](https://habr.com/ru/companies/bothub/news/956614/?utm_campaign=956614&utm_source=habrahabr&utm_medium=rss)
+- [Поставщик услуг Discord заявил об отсутствии взлома на своей стороне](https://habr.com/ru/news/956610/?utm_campaign=956610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
