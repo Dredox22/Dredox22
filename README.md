@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В мессенджере Max зарегистрировано более 45 миллионов пользователей и отправлено более 3 миллиардов сообщений](https://habr.com/ru/news/956758/?utm_campaign=956758&utm_source=habrahabr&utm_medium=rss)
+- [«ChatGPT и я теперь близки»: генерал армии США рассказал, как использует ИИ в штабной работе](https://habr.com/ru/news/956756/?utm_campaign=956756&utm_source=habrahabr&utm_medium=rss)
 - [Переход на zVirt позволил «Роскадастру» увеличить скорость работы виртуальных машин на 25%](https://habr.com/ru/companies/orion_soft/news/956724/?utm_campaign=956724&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект «Doom — Мультиплеер в браузере»](https://habr.com/ru/news/956712/?utm_campaign=956712&utm_source=habrahabr&utm_medium=rss)
 - [YouTube анонсировал функцию для сохранения психического благополучия подростков](https://habr.com/ru/news/956706/?utm_campaign=956706&utm_source=habrahabr&utm_medium=rss)
-- [Оператор связи Т2 &lpar;входит в «Ростелеком»&rpar; начал предоставлять услуги кибербезопасности под брендом Safewall](https://habr.com/ru/news/956650/?utm_campaign=956650&utm_source=habrahabr&utm_medium=rss)
-- [VK объявила старт соревнований по созданию рекомендательных алгоритмов VK RecSys Challenge](https://habr.com/ru/news/956564/?utm_campaign=956564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
