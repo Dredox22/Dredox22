@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Дочка «Ростеха» провела опытные испытания отечественного телетрапа для аэропортов](https://habr.com/ru/news/956578/?utm_campaign=956578&utm_source=habrahabr&utm_medium=rss)
-- [Ghost 6.0: распределённая публикация, встроенная аналитика и $100 млн для независимых авторов](https://habr.com/ru/news/956572/?utm_campaign=956572&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекращает поддержку Office 2016 и 2019](https://habr.com/ru/news/956554/?utm_campaign=956554&utm_source=habrahabr&utm_medium=rss)
-- [Ring-1T-FP8 стала одной из крупнейших открытых моделей на триллион параметров](https://habr.com/ru/companies/bothub/news/956406/?utm_campaign=956406&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT сделают более человечным и добавят эротику — Сэм Альтман](https://habr.com/ru/news/956548/?utm_campaign=956548&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Qmmp 2.3.0 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/956252/?utm_campaign=956252&utm_source=habrahabr&utm_medium=rss)
+- [Вышла диагностическая утилита CPU-Z 2.17](https://habr.com/ru/news/956248/?utm_campaign=956248&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Blender 5.0 Beta](https://habr.com/ru/news/956256/?utm_campaign=956256&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Tails 7.1](https://habr.com/ru/news/956456/?utm_campaign=956456&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.4.3](https://habr.com/ru/news/956552/?utm_campaign=956552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
