@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «Минпромторг РФ усиливает контроль за производителями светотехники»](https://habr.com/ru/news/956894/?utm_campaign=956894&utm_source=habrahabr&utm_medium=rss)
+- [Учёные показали, что спутниковую связь можно перехватывать оборудованием за 800 долларов](https://habr.com/ru/companies/bothub/news/956840/?utm_campaign=956840&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила видео-модель Veo 3.1 — пока только для пользователей Flow](https://habr.com/ru/news/956884/?utm_campaign=956884&utm_source=habrahabr&utm_medium=rss)
 - [Китайские исследователи полностью восстановили повреждённый свиток IV века с поэмой, используя технологии ИИ](https://habr.com/ru/news/956846/?utm_campaign=956846&utm_source=habrahabr&utm_medium=rss)
 - [Западные топ-менеджеры возвращаются из Китая с чувством тревоги](https://habr.com/ru/companies/bothub/news/956806/?utm_campaign=956806&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость платформы ROSA Virtualization 3.1 и устройств Рутокен ЭЦП 3.0](https://habr.com/ru/companies/aktiv-company/news/956812/?utm_campaign=956812&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI ослабит ограничения ChatGPT и разрешит эротический контент для взрослых пользователей](https://habr.com/ru/companies/bothub/news/956792/?utm_campaign=956792&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предлагает обновления безопасности для Windows 10 за $30 в год или бесплатно при выполнении ряда условий](https://habr.com/ru/news/956784/?utm_campaign=956784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
