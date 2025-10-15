@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google заставила свой Gemini CLI вести себя как настоящий CLI](https://habr.com/ru/news/956954/?utm_campaign=956954&utm_source=habrahabr&utm_medium=rss)
+- [ИИ от Google предложил перспективную терапию рака](https://habr.com/ru/news/956952/?utm_campaign=956952&utm_source=habrahabr&utm_medium=rss)
 - [Учёные доказали, что Wi-Fi-роутер может подглядывать за вами, как камера](https://habr.com/ru/companies/bothub/news/956946/?utm_campaign=956946&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Pro умеет за один промпт создать полноценную симуляцию macOS или Windows прямо в браузере](https://habr.com/ru/companies/bothub/news/956810/?utm_campaign=956810&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи смогли взломать 12 популярных систем безопасности ИИ](https://habr.com/ru/news/956914/?utm_campaign=956914&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик операционных систем из Северной Кореи зарегистрировал новую компанию «для исследований рынка» в РФ](https://habr.com/ru/news/956910/?utm_campaign=956910&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила MacBook Pro и iPad Pro на чипе M5](https://habr.com/ru/news/956900/?utm_campaign=956900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
