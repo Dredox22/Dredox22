@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft ограничила доступ к режиму IE в Edge после случаев эксплуатации эксплойтов в движке JavaScript Chakra](https://habr.com/ru/news/957304/?utm_campaign=957304&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует ИИ-агента, аналогичного ChatGPT Agent](https://habr.com/ru/news/957314/?utm_campaign=957314&utm_source=habrahabr&utm_medium=rss)
+- [Вышла утилита PowerToys 0.95](https://habr.com/ru/news/957298/?utm_campaign=957298&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила последнее накопительное обновление Windows 10](https://habr.com/ru/news/957278/?utm_campaign=957278&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила Veo 3.1](https://habr.com/ru/companies/bothub/news/957002/?utm_campaign=957002&utm_source=habrahabr&utm_medium=rss)
-- [В Огайо предложили закон, запрещающий вступать в брак с ИИ](https://habr.com/ru/news/957272/?utm_campaign=957272&utm_source=habrahabr&utm_medium=rss)
-- [Фреймворк PyTorch получил крупное обновление](https://habr.com/ru/companies/bothub/news/957010/?utm_campaign=957010&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: пенсионерка из РФ лишилась квартиры из-за мошенников, позвонивших ей через мессенджер Max](https://habr.com/ru/news/957218/?utm_campaign=957218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
