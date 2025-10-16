@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фреймворк PyTorch получил крупное обновление](https://habr.com/ru/companies/bothub/news/957010/?utm_campaign=957010&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: пенсионерка из РФ лишилась квартиры из-за мошенников, позвонивших ей через мессенджер Max](https://habr.com/ru/news/957218/?utm_campaign=957218&utm_source=habrahabr&utm_medium=rss)
 - [Защита c фокусом на результате: Positive Technologies представила облачное решение РТ Х](https://habr.com/ru/companies/pt/news/957214/?utm_campaign=957214&utm_source=habrahabr&utm_medium=rss)
 - [Gemma C2S-Scale 27B помогла учёным найти новый способ борьбы с раком](https://habr.com/ru/companies/bothub/news/957166/?utm_campaign=957166&utm_source=habrahabr&utm_medium=rss)
 - [Цукерберг увёл у Apple руководителя AI-поиска](https://habr.com/ru/companies/bothub/news/957138/?utm_campaign=957138&utm_source=habrahabr&utm_medium=rss)
-- [Oracle 26ai уже в песочнице! Тестируйте новые функции без установки](https://habr.com/ru/news/957128/?utm_campaign=957128&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT получил улучшенную память](https://habr.com/ru/news/957124/?utm_campaign=957124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
