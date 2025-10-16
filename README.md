@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle 26ai уже в песочнице! Тестируйте новые функции без установки](https://habr.com/ru/news/957128/?utm_campaign=957128&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT получил улучшенную память](https://habr.com/ru/news/957124/?utm_campaign=957124&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: скоро обновится список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/957120/?utm_campaign=957120&utm_source=habrahabr&utm_medium=rss)
+- [ФАС РФ запросила Apple разрешить пользователям в России ставить российские поисковики на iOS по умолчанию, вместо Google](https://habr.com/ru/news/957106/?utm_campaign=957106&utm_source=habrahabr&utm_medium=rss)
 - [Google представила функцию Recovery Contacts, с помощью которой можно восстановить доступ к аккаунту](https://habr.com/ru/news/956962/?utm_campaign=956962&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовит $1 триллион на вычислительные мощности](https://habr.com/ru/companies/bothub/news/957026/?utm_campaign=957026&utm_source=habrahabr&utm_medium=rss)
-- [Spotify расширяет возможности родительского контроля для подписчиков Premium Family](https://habr.com/ru/news/956576/?utm_campaign=956576&utm_source=habrahabr&utm_medium=rss)
-- [Broadcom представила микросхему Wi-Fi 8](https://habr.com/ru/news/957040/?utm_campaign=957040&utm_source=habrahabr&utm_medium=rss)
-- [Компания кибербезопасности F5 сообщила о взломе систем и краже исходного кода](https://habr.com/ru/news/957028/?utm_campaign=957028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
