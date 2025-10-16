@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила последнее накопительное обновление Windows 10](https://habr.com/ru/news/957278/?utm_campaign=957278&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила Veo 3.1](https://habr.com/ru/companies/bothub/news/957002/?utm_campaign=957002&utm_source=habrahabr&utm_medium=rss)
+- [В Огайо предложили закон, запрещающий вступать в брак с ИИ](https://habr.com/ru/news/957272/?utm_campaign=957272&utm_source=habrahabr&utm_medium=rss)
 - [Фреймворк PyTorch получил крупное обновление](https://habr.com/ru/companies/bothub/news/957010/?utm_campaign=957010&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: пенсионерка из РФ лишилась квартиры из-за мошенников, позвонивших ей через мессенджер Max](https://habr.com/ru/news/957218/?utm_campaign=957218&utm_source=habrahabr&utm_medium=rss)
-- [Защита c фокусом на результате: Positive Technologies представила облачное решение РТ Х](https://habr.com/ru/companies/pt/news/957214/?utm_campaign=957214&utm_source=habrahabr&utm_medium=rss)
-- [Gemma C2S-Scale 27B помогла учёным найти новый способ борьбы с раком](https://habr.com/ru/companies/bothub/news/957166/?utm_campaign=957166&utm_source=habrahabr&utm_medium=rss)
-- [Цукерберг увёл у Apple руководителя AI-поиска](https://habr.com/ru/companies/bothub/news/957138/?utm_campaign=957138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
