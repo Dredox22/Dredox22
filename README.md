@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI улучшили Sora 2](https://habr.com/ru/news/956998/?utm_campaign=956998&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила чип M5, ставший скачком в развитии фирменных процессоров](https://habr.com/ru/companies/bothub/news/956992/?utm_campaign=956992&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Mozilla Thunderbird 144.0](https://habr.com/ru/news/956752/?utm_campaign=956752&utm_source=habrahabr&utm_medium=rss)
 - [Вышел дистрибутив Linux Mint Debian Edition 7 Gigi](https://habr.com/ru/news/956904/?utm_campaign=956904&utm_source=habrahabr&utm_medium=rss)
 - [Фонд свободного программного обеспечения &lpar;FSF&rpar; пояснил детали проекта свободных мобильных устройств LibrePhone](https://habr.com/ru/news/956930/?utm_campaign=956930&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск мультимедийного фреймворка GStreamer 1.26.7](https://habr.com/ru/news/956888/?utm_campaign=956888&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выкатила Claude Haiku 4.5](https://habr.com/ru/news/956958/?utm_campaign=956958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
