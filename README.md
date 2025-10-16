@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Цукерберг увёл у Apple руководителя AI-поиска](https://habr.com/ru/companies/bothub/news/957138/?utm_campaign=957138&utm_source=habrahabr&utm_medium=rss)
 - [Oracle 26ai уже в песочнице! Тестируйте новые функции без установки](https://habr.com/ru/news/957128/?utm_campaign=957128&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT получил улучшенную память](https://habr.com/ru/news/957124/?utm_campaign=957124&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: скоро обновится список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/957120/?utm_campaign=957120&utm_source=habrahabr&utm_medium=rss)
 - [ФАС РФ запросила Apple разрешить пользователям в России ставить российские поисковики на iOS по умолчанию, вместо Google](https://habr.com/ru/news/957106/?utm_campaign=957106&utm_source=habrahabr&utm_medium=rss)
-- [Google представила функцию Recovery Contacts, с помощью которой можно восстановить доступ к аккаунту](https://habr.com/ru/news/956962/?utm_campaign=956962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
