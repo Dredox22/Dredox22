@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI улучшили Sora 2](https://habr.com/ru/news/956998/?utm_campaign=956998&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила чип M5, ставший скачком в развитии фирменных процессоров](https://habr.com/ru/companies/bothub/news/956992/?utm_campaign=956992&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 144.0](https://habr.com/ru/news/956752/?utm_campaign=956752&utm_source=habrahabr&utm_medium=rss)
-- [Вышел дистрибутив Linux Mint Debian Edition 7 Gigi](https://habr.com/ru/news/956904/?utm_campaign=956904&utm_source=habrahabr&utm_medium=rss)
-- [Фонд свободного программного обеспечения &lpar;FSF&rpar; пояснил детали проекта свободных мобильных устройств LibrePhone](https://habr.com/ru/news/956930/?utm_campaign=956930&utm_source=habrahabr&utm_medium=rss)
+- [Компания кибербезопасности F5 сообщила о взломе систем и краже исходного кода](https://habr.com/ru/news/957028/?utm_campaign=957028&utm_source=habrahabr&utm_medium=rss)
+- [Митап «Безопасная разработка в АСУ ТП»](https://habr.com/ru/companies/pvs-studio/news/957038/?utm_campaign=957038&utm_source=habrahabr&utm_medium=rss)
+- [Современные ИИ долго думают над «мелкой ерундой» — исследование Google](https://habr.com/ru/news/957016/?utm_campaign=957016&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic представила Claude Haiku 4.5: быструю и дешёвую версию Sonnet 4](https://habr.com/ru/companies/bothub/news/956996/?utm_campaign=956996&utm_source=habrahabr&utm_medium=rss)
+- [Google запустил новые функции защиты от мошенничества для пользователей Android](https://habr.com/ru/news/957006/?utm_campaign=957006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
