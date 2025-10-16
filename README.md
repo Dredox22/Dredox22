@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск Mozilla Thunderbird 144.0](https://habr.com/ru/news/956752/?utm_campaign=956752&utm_source=habrahabr&utm_medium=rss)
+- [Вышел дистрибутив Linux Mint Debian Edition 7 Gigi](https://habr.com/ru/news/956904/?utm_campaign=956904&utm_source=habrahabr&utm_medium=rss)
+- [Фонд свободного программного обеспечения &lpar;FSF&rpar; пояснил детали проекта свободных мобильных устройств LibrePhone](https://habr.com/ru/news/956930/?utm_campaign=956930&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск мультимедийного фреймворка GStreamer 1.26.7](https://habr.com/ru/news/956888/?utm_campaign=956888&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выкатила Claude Haiku 4.5](https://habr.com/ru/news/956958/?utm_campaign=956958&utm_source=habrahabr&utm_medium=rss)
-- [Google заставила свой Gemini CLI вести себя как настоящий CLI](https://habr.com/ru/news/956954/?utm_campaign=956954&utm_source=habrahabr&utm_medium=rss)
-- [ИИ от Google предложил перспективную терапию рака](https://habr.com/ru/news/956952/?utm_campaign=956952&utm_source=habrahabr&utm_medium=rss)
-- [Учёные доказали, что Wi-Fi-роутер может подглядывать за вами, как камера](https://habr.com/ru/companies/bothub/news/956946/?utm_campaign=956946&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 Pro умеет за один промпт создать полноценную симуляцию macOS или Windows прямо в браузере](https://habr.com/ru/companies/bothub/news/956810/?utm_campaign=956810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
