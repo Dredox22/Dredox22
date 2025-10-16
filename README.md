@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила функцию Recovery Contacts, с помощью которой можно восстановить доступ к аккаунту](https://habr.com/ru/news/956962/?utm_campaign=956962&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовит $1 триллион на вычислительные мощности](https://habr.com/ru/companies/bothub/news/957026/?utm_campaign=957026&utm_source=habrahabr&utm_medium=rss)
 - [Spotify расширяет возможности родительского контроля для подписчиков Premium Family](https://habr.com/ru/news/956576/?utm_campaign=956576&utm_source=habrahabr&utm_medium=rss)
 - [Broadcom представила микросхему Wi-Fi 8](https://habr.com/ru/news/957040/?utm_campaign=957040&utm_source=habrahabr&utm_medium=rss)
 - [Компания кибербезопасности F5 сообщила о взломе систем и краже исходного кода](https://habr.com/ru/news/957028/?utm_campaign=957028&utm_source=habrahabr&utm_medium=rss)
-- [Митап «Безопасная разработка в АСУ ТП»](https://habr.com/ru/companies/pvs-studio/news/957038/?utm_campaign=957038&utm_source=habrahabr&utm_medium=rss)
-- [Современные ИИ долго думают над «мелкой ерундой» — исследование Google](https://habr.com/ru/news/957016/?utm_campaign=957016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
