@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи предложили единое определение искусственного общего интеллекта](https://habr.com/ru/companies/bothub/news/957734/?utm_campaign=957734&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic представила систему, которая делает Claude универсальным офисным ассистентом](https://habr.com/ru/companies/bothub/news/957730/?utm_campaign=957730&utm_source=habrahabr&utm_medium=rss)
+- [19% старшеклассников имели романтические отношения с ИИ-чатботом](https://habr.com/ru/companies/bothub/news/957728/?utm_campaign=957728&utm_source=habrahabr&utm_medium=rss)
 - [Google Gemini 3.0 Pro создала клоны популярных игр](https://habr.com/ru/news/957724/?utm_campaign=957724&utm_source=habrahabr&utm_medium=rss)
 - [Япония требует от OpenAI прекратить использование аниме без разрешения](https://habr.com/ru/companies/bothub/news/957718/?utm_campaign=957718&utm_source=habrahabr&utm_medium=rss)
-- [Википедия теряет трафик и винит в этом AI](https://habr.com/ru/companies/bothub/news/957710/?utm_campaign=957710&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпатый создал проект обучения LLM за 100 долларов](https://habr.com/ru/companies/bothub/news/957708/?utm_campaign=957708&utm_source=habrahabr&utm_medium=rss)
-- [Половину статей в интернете теперь пишет AI](https://habr.com/ru/companies/bothub/news/957704/?utm_campaign=957704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
