@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-инструмент Pinterest позволит настраивать генерируемый контент](https://habr.com/ru/news/957436/?utm_campaign=957436&utm_source=habrahabr&utm_medium=rss)
+- [Сообщество разработчиков открытого проекта GZDoom раскололось после того, как создатель добавил код, сгенерированный ИИ](https://habr.com/ru/news/957458/?utm_campaign=957458&utm_source=habrahabr&utm_medium=rss)
+- [Meta* с 15 декабря закроет десктопные приложения Messenger для Windows и Mac](https://habr.com/ru/news/957432/?utm_campaign=957432&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила инструменты для привлечения корпоративных клиентов из Microsoft 365](https://habr.com/ru/news/957430/?utm_campaign=957430&utm_source=habrahabr&utm_medium=rss)
 - [Инвестор раскрыл дату выхода GPT-6](https://habr.com/ru/news/957444/?utm_campaign=957444&utm_source=habrahabr&utm_medium=rss)
-- [Октябрьские обновления для Windows 11 нарушили HTTP/2-подключения к локальному хосту &lpar;127.0.0.1&rpar;](https://habr.com/ru/news/957424/?utm_campaign=957424&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla пообещала обеспечить безопасность пользователей Windows 10 в Firefox](https://habr.com/ru/news/957420/?utm_campaign=957420&utm_source=habrahabr&utm_medium=rss)
-- [В Минцифры поддержали ФАС РФ и допустили жёсткие меры против Apple при неисполнении требования регулятора](https://habr.com/ru/news/957416/?utm_campaign=957416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
