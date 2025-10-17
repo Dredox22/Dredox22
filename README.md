@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открыта регистрация на VK RecSys Challenge 2025](https://habr.com/ru/companies/vk/news/956764/?utm_campaign=956764&utm_source=habrahabr&utm_medium=rss)
+- [Решение кода «Криптос» найдено спустя 35 лет](https://habr.com/ru/news/957560/?utm_campaign=957560&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» проведёт 28 октября конференцию «Алиса, что нового?»](https://habr.com/ru/news/957530/?utm_campaign=957530&utm_source=habrahabr&utm_medium=rss)
 - [Tesla представила Mad Max — по-настоящему агрессивный режим вождения FSD](https://habr.com/ru/news/957358/?utm_campaign=957358&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс запустил технологию персонализированного расчёта времени в пути для водителей](https://habr.com/ru/companies/yandex/news/957500/?utm_campaign=957500&utm_source=habrahabr&utm_medium=rss)
-- [К2 Кибербезопасность победила на «Киберарене» GIS Days 2025](https://habr.com/ru/companies/k2tech/news/956718/?utm_campaign=956718&utm_source=habrahabr&utm_medium=rss)
-- [Российское комьюнити Kubernetes объединяется: открыта регистрация на Kuber Conf](https://habr.com/ru/companies/vktech/news/957480/?utm_campaign=957480&utm_source=habrahabr&utm_medium=rss)
-- [PGMeetup: SQL-tuning — бесплатный вебинар по оптимизации запросов в PostgreSQL](https://habr.com/ru/companies/postgrespro/news/957262/?utm_campaign=957262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
