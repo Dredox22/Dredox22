@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Zed — редактора кода для Windows](https://habr.com/ru/news/957658/?utm_campaign=957658&utm_source=habrahabr&utm_medium=rss)
+- [Легендарный математик Теренс Тао рассказал, как ИИ помогает науке](https://habr.com/ru/news/957656/?utm_campaign=957656&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал приём заявок на хакатон по созданию сервисов для мессенджера Max](https://habr.com/ru/news/957654/?utm_campaign=957654&utm_source=habrahabr&utm_medium=rss)
+- [Центр безопасности Max опубликовал итоги работы за сентябрь 2025 года](https://habr.com/ru/news/957650/?utm_campaign=957650&utm_source=habrahabr&utm_medium=rss)
 - [Открыта регистрация на VK RecSys Challenge 2025](https://habr.com/ru/companies/vk/news/956764/?utm_campaign=956764&utm_source=habrahabr&utm_medium=rss)
-- [Решение кода «Криптос» найдено спустя 35 лет](https://habr.com/ru/news/957560/?utm_campaign=957560&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» проведёт 28 октября конференцию «Алиса, что нового?»](https://habr.com/ru/news/957530/?utm_campaign=957530&utm_source=habrahabr&utm_medium=rss)
-- [Tesla представила Mad Max — по-настоящему агрессивный режим вождения FSD](https://habr.com/ru/news/957358/?utm_campaign=957358&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс запустил технологию персонализированного расчёта времени в пути для водителей](https://habr.com/ru/companies/yandex/news/957500/?utm_campaign=957500&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
