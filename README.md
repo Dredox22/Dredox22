@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Orange Pi анонсировала плату 4 Pro — альтернативу Raspberry Pi 5 с 16 ГБ LPDDR5 и NPU](https://habr.com/ru/news/957692/?utm_campaign=957692&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Zed — редактора кода для Windows](https://habr.com/ru/news/957658/?utm_campaign=957658&utm_source=habrahabr&utm_medium=rss)
 - [Легендарный математик Теренс Тао рассказал, как ИИ помогает науке](https://habr.com/ru/news/957656/?utm_campaign=957656&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал приём заявок на хакатон по созданию сервисов для мессенджера Max](https://habr.com/ru/news/957654/?utm_campaign=957654&utm_source=habrahabr&utm_medium=rss)
 - [Центр безопасности Max опубликовал итоги работы за сентябрь 2025 года](https://habr.com/ru/news/957650/?utm_campaign=957650&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на VK RecSys Challenge 2025](https://habr.com/ru/companies/vk/news/956764/?utm_campaign=956764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
