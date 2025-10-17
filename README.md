@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Минцифры поддержали ФАС РФ и допустили жёсткие меры против Apple при неисполнении требования регулятора](https://habr.com/ru/news/957416/?utm_campaign=957416&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Retro Games Center в Telegram](https://habr.com/ru/news/957412/?utm_campaign=957412&utm_source=habrahabr&utm_medium=rss)
 - [Вышла сборка Zorin OS 18 на пакетной базе Ubuntu 24.04](https://habr.com/ru/news/956986/?utm_campaign=956986&utm_source=habrahabr&utm_medium=rss)
 - [Релиз проекта Mobian 13.0 — сборки Debian для мобильных устройств](https://habr.com/ru/news/957172/?utm_campaign=957172&utm_source=habrahabr&utm_medium=rss)
 - [Вышел DaVinci Resolve 20.2.2](https://habr.com/ru/news/957222/?utm_campaign=957222&utm_source=habrahabr&utm_medium=rss)
-- [В Голливуде требуют защиты от Sora 2](https://habr.com/ru/news/957350/?utm_campaign=957350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
