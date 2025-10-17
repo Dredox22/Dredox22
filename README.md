@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Википедия теряет трафик и винит в этом AI](https://habr.com/ru/companies/bothub/news/957710/?utm_campaign=957710&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпатый создал проект обучения LLM за 100 долларов](https://habr.com/ru/companies/bothub/news/957708/?utm_campaign=957708&utm_source=habrahabr&utm_medium=rss)
 - [Половину статей в интернете теперь пишет AI](https://habr.com/ru/companies/bothub/news/957704/?utm_campaign=957704&utm_source=habrahabr&utm_medium=rss)
 - [Orange Pi анонсировала плату 4 Pro — альтернативу Raspberry Pi 5 с 16 ГБ LPDDR5 и NPU](https://habr.com/ru/news/957692/?utm_campaign=957692&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Zed — редактора кода для Windows](https://habr.com/ru/news/957658/?utm_campaign=957658&utm_source=habrahabr&utm_medium=rss)
-- [Легендарный математик Теренс Тао рассказал, как ИИ помогает науке](https://habr.com/ru/news/957656/?utm_campaign=957656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
