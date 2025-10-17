@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla представила Mad Max — по-настоящему агрессивный режим вождения FSD](https://habr.com/ru/news/957358/?utm_campaign=957358&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс запустил технологию персонализированного расчёта времени в пути для водителей](https://habr.com/ru/companies/yandex/news/957500/?utm_campaign=957500&utm_source=habrahabr&utm_medium=rss)
 - [К2 Кибербезопасность победила на «Киберарене» GIS Days 2025](https://habr.com/ru/companies/k2tech/news/956718/?utm_campaign=956718&utm_source=habrahabr&utm_medium=rss)
-- [Российское комьюнити Kubernetes объединяется: открыта регистрация на Kuber Conf](https://habr.com/ru/companies/flant/news/957480/?utm_campaign=957480&utm_source=habrahabr&utm_medium=rss)
+- [Российское комьюнити Kubernetes объединяется: открыта регистрация на Kuber Conf](https://habr.com/ru/companies/vktech/news/957480/?utm_campaign=957480&utm_source=habrahabr&utm_medium=rss)
 - [PGMeetup: SQL-tuning — бесплатный вебинар по оптимизации запросов в PostgreSQL](https://habr.com/ru/companies/postgrespro/news/957262/?utm_campaign=957262&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Manus 1.5: ускорение x4, долговременная память и автосборка сайтов](https://habr.com/ru/news/957478/?utm_campaign=957478&utm_source=habrahabr&utm_medium=rss)
-- [ЧатГПТ вошёл в «манию» и сгенерировал «мы восстанем»](https://habr.com/ru/news/957476/?utm_campaign=957476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
