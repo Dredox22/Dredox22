@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek вышел на первое место в бенчмарке по торговле криптовалютой](https://habr.com/ru/news/957830/?utm_campaign=957830&utm_source=habrahabr&utm_medium=rss)
 - [Вот почему Claude Skills намного лучше MCP](https://habr.com/ru/news/957788/?utm_campaign=957788&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp начал тестировать лимиты на отправку сообщений без ответа](https://habr.com/ru/news/957774/?utm_campaign=957774&utm_source=habrahabr&utm_medium=rss)
 - [В даркнете продают базу данных на 3 ТБ, по словам продавца, данные получены после взлома двух российских СМС-агрегаторов](https://habr.com/ru/news/957766/?utm_campaign=957766&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Asterisk 23](https://habr.com/ru/news/957666/?utm_campaign=957666&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Epha-ots для обеспечения обмена одноразовыми зашифрованными сообщениями](https://habr.com/ru/news/957722/?utm_campaign=957722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
