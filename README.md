@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Asterisk 23](https://habr.com/ru/news/957666/?utm_campaign=957666&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Epha-ots для обеспечения обмена одноразовыми зашифрованными сообщениями](https://habr.com/ru/news/957722/?utm_campaign=957722&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь обнаружил, что в некоторых процессорах AMD Zen 5 генератор случайных чисел RDSEED выдаёт 0 в 10% случаев](https://habr.com/ru/news/957698/?utm_campaign=957698&utm_source=habrahabr&utm_medium=rss)
+- [Релиз рабочего окружения GNOME 49.1](https://habr.com/ru/news/957580/?utm_campaign=957580&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпатый ожидает AGI не раньше, чем через 10 лет](https://habr.com/ru/news/957746/?utm_campaign=957746&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи предложили единое определение искусственного общего интеллекта](https://habr.com/ru/companies/bothub/news/957734/?utm_campaign=957734&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic представила систему, которая делает Claude универсальным офисным ассистентом](https://habr.com/ru/companies/bothub/news/957730/?utm_campaign=957730&utm_source=habrahabr&utm_medium=rss)
-- [Google Gemini 3.0 Pro создала клоны популярных игр](https://habr.com/ru/news/957724/?utm_campaign=957724&utm_source=habrahabr&utm_medium=rss)
-- [Япония требует от OpenAI прекратить использование аниме без разрешения](https://habr.com/ru/companies/bothub/news/957718/?utm_campaign=957718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
