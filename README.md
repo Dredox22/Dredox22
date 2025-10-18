@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В даркнете продают базу данных на 3 ТБ, по словам продавца, данные получены после взлома двух российских СМС-агрегаторов](https://habr.com/ru/news/957766/?utm_campaign=957766&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Asterisk 23](https://habr.com/ru/news/957666/?utm_campaign=957666&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Epha-ots для обеспечения обмена одноразовыми зашифрованными сообщениями](https://habr.com/ru/news/957722/?utm_campaign=957722&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь обнаружил, что в некоторых процессорах AMD Zen 5 генератор случайных чисел RDSEED выдаёт 0 в 10% случаев](https://habr.com/ru/news/957698/?utm_campaign=957698&utm_source=habrahabr&utm_medium=rss)
 - [Релиз рабочего окружения GNOME 49.1](https://habr.com/ru/news/957580/?utm_campaign=957580&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпатый ожидает AGI не раньше, чем через 10 лет](https://habr.com/ru/news/957746/?utm_campaign=957746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
