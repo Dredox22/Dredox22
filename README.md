@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Антифашистскую утилиту для systemd не приняли в проект](https://habr.com/ru/news/958022/?utm_campaign=958022&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** позволит родителям ограничивать общение подростков с ИИ](https://habr.com/ru/news/957810/?utm_campaign=957810&utm_source=habrahabr&utm_medium=rss)
 - [Фрилансеры Turing Labs носят на голове GoPro для обучения ИИ](https://habr.com/ru/news/957990/?utm_campaign=957990&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск предложил дуэль Grok 5 против Андрея Карпати](https://habr.com/ru/news/957988/?utm_campaign=957988&utm_source=habrahabr&utm_medium=rss)
 - [Авторы подали в суд на Salesforce из-за использования книг в обучении ИИ](https://habr.com/ru/news/957814/?utm_campaign=957814&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Node.js 25](https://habr.com/ru/news/957966/?utm_campaign=957966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
