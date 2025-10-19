@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.13](https://habr.com/ru/news/957860/?utm_campaign=957860&utm_source=habrahabr&utm_medium=rss)
+- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.7](https://habr.com/ru/news/957864/?utm_campaign=957864&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть Google Gemini 3.0 может выйти в декабре. Что про нее известно?](https://habr.com/ru/news/957902/?utm_campaign=957902&utm_source=habrahabr&utm_medium=rss)
 - [VK Cloud, Yandex Cloud и «Флант» заявили о создании Ассоциации облачно‑ориентированных технологий](https://habr.com/ru/news/957854/?utm_campaign=957854&utm_source=habrahabr&utm_medium=rss)
 - [Экс-разработчик Telegram выяснил, что проект клиента Telega скрывает в себе определённые связи с ресурсами VK](https://habr.com/ru/news/957850/?utm_campaign=957850&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek вышел на первое место в бенчмарке по торговле криптовалютой](https://habr.com/ru/news/957830/?utm_campaign=957830&utm_source=habrahabr&utm_medium=rss)
-- [Вот почему Claude Skills намного лучше MCP](https://habr.com/ru/news/957788/?utm_campaign=957788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
