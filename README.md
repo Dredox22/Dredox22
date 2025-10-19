@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фрилансеры Turing Labs носят на голове GoPro для обучения ИИ](https://habr.com/ru/news/957990/?utm_campaign=957990&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск предложил дуэль Grok 5 против Андрея Карпати](https://habr.com/ru/news/957988/?utm_campaign=957988&utm_source=habrahabr&utm_medium=rss)
+- [Авторы подали в суд на Salesforce из-за использования книг в обучении ИИ](https://habr.com/ru/news/957814/?utm_campaign=957814&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Node.js 25](https://habr.com/ru/news/957966/?utm_campaign=957966&utm_source=habrahabr&utm_medium=rss)
 - [AT&amp;amp;T повышает цены на домашний интернет в США второй год подряд](https://habr.com/ru/news/957950/?utm_campaign=957950&utm_source=habrahabr&utm_medium=rss)
-- [Хидео Кодзима назвал ИИ «другом», а не угрозой творчеству в разработке игр](https://habr.com/ru/news/957936/?utm_campaign=957936&utm_source=habrahabr&utm_medium=rss)
-- [Google предоставила разработчикам в API Gemini данные из «Карт»](https://habr.com/ru/news/957934/?utm_campaign=957934&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта RustDesk 1.4.3](https://habr.com/ru/news/957804/?utm_campaign=957804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
