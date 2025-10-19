@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot сможет видеть экран, понимать голосовые команды и выполнять действия на ПК за пользователя](https://habr.com/ru/news/957536/?utm_campaign=957536&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 Pro за 30 минут выполнила расчет скрытой симметрии Керра — у физика ушли дни](https://habr.com/ru/news/958072/?utm_campaign=958072&utm_source=habrahabr&utm_medium=rss)
 - [В Max и в Минцифры назвали фейком сообщения об утечке данных пользователей мессенджера](https://habr.com/ru/news/958006/?utm_campaign=958006&utm_source=habrahabr&utm_medium=rss)
 - [Антифашистскую утилиту для systemd не приняли в проект](https://habr.com/ru/news/958022/?utm_campaign=958022&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** позволит родителям ограничивать общение подростков с ИИ](https://habr.com/ru/news/957810/?utm_campaign=957810&utm_source=habrahabr&utm_medium=rss)
-- [Фрилансеры Turing Labs носят на голове GoPro для обучения ИИ](https://habr.com/ru/news/957990/?utm_campaign=957990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
