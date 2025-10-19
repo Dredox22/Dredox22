@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google предоставила разработчикам в API Gemini данные из «Карт»](https://habr.com/ru/news/957934/?utm_campaign=957934&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта RustDesk 1.4.3](https://habr.com/ru/news/957804/?utm_campaign=957804&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wine 10.17](https://habr.com/ru/news/957800/?utm_campaign=957800&utm_source=habrahabr&utm_medium=rss)
 - [Релиз платформы совместной разработки Forgejo v13.0](https://habr.com/ru/news/957868/?utm_campaign=957868&utm_source=habrahabr&utm_medium=rss)
 - [Мейнтейнеры Ruby взяли на себя управление GitHub-репозиторием RubyGems](https://habr.com/ru/news/957874/?utm_campaign=957874&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.13](https://habr.com/ru/news/957860/?utm_campaign=957860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
