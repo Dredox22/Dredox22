@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AT&amp;amp;T повышает цены на домашний интернет в США второй год подряд](https://habr.com/ru/news/957950/?utm_campaign=957950&utm_source=habrahabr&utm_medium=rss)
+- [Хидео Кодзима назвал ИИ «другом», а не угрозой творчеству в разработке игр](https://habr.com/ru/news/957936/?utm_campaign=957936&utm_source=habrahabr&utm_medium=rss)
 - [Google предоставила разработчикам в API Gemini данные из «Карт»](https://habr.com/ru/news/957934/?utm_campaign=957934&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта RustDesk 1.4.3](https://habr.com/ru/news/957804/?utm_campaign=957804&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wine 10.17](https://habr.com/ru/news/957800/?utm_campaign=957800&utm_source=habrahabr&utm_medium=rss)
-- [Релиз платформы совместной разработки Forgejo v13.0](https://habr.com/ru/news/957868/?utm_campaign=957868&utm_source=habrahabr&utm_medium=rss)
-- [Мейнтейнеры Ruby взяли на себя управление GitHub-репозиторием RubyGems](https://habr.com/ru/news/957874/?utm_campaign=957874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
