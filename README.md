@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Проект rePebble представил новое приложение Pebble для iOS и Android](https://habr.com/ru/news/958238/?utm_campaign=958238&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «ФСБ предложила установить за собой право контроля за регистрацией шпионских устройств и ПО»](https://habr.com/ru/news/958236/?utm_campaign=958236&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет» запускает серию экспертных вебинаров по цифровизации промышленности](https://habr.com/ru/news/958234/?utm_campaign=958234&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик рассказал, как его чуть не взломали на фейковом собеседовании по программированию](https://habr.com/ru/news/958220/?utm_campaign=958220&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.39: OWASP Top Ten 2021, улучшения в плагине для Visual Studio Code, расширение поддержки MISRA и не только](https://habr.com/ru/companies/pvs-studio/news/958212/?utm_campaign=958212&utm_source=habrahabr&utm_medium=rss)
+- [«Росэл» представил первый отечественный цезиевый прибор для точной настройки частоты и времени](https://habr.com/ru/news/958308/?utm_campaign=958308&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX доставила на орбиту 10 000-й спутник Starlink](https://habr.com/ru/news/958304/?utm_campaign=958304&utm_source=habrahabr&utm_medium=rss)
+- [CamundaCon New York 2025 &lpar;часть 1&rpar;](https://habr.com/ru/news/958162/?utm_campaign=958162&utm_source=habrahabr&utm_medium=rss)
+- [Багхантеры заработали более 8 миллионов рублей, усилив защищенность Т-Банка и Wildberries](https://habr.com/ru/companies/pt/news/958292/?utm_campaign=958292&utm_source=habrahabr&utm_medium=rss)
+- [Китай обвинил АНБ США в атаке на Центр национальной службы времени КНР](https://habr.com/ru/news/958280/?utm_campaign=958280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
