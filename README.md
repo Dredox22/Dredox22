@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft открыла обновление Windows 11 25H2 для всех пользователей Windows 10 и 11](https://habr.com/ru/news/958200/?utm_campaign=958200&utm_source=habrahabr&utm_medium=rss)
+- [23 октября. 4 ИБ-эксперта. Жаркая дискуссия. Реальные кейсы](https://habr.com/ru/companies/beeline_cloud/news/958186/?utm_campaign=958186&utm_source=habrahabr&utm_medium=rss)
+- [Массовые сбои в работе AWS](https://habr.com/ru/news/958180/?utm_campaign=958180&utm_source=habrahabr&utm_medium=rss)
 - [Интеллектуальные системы на службе заводов: как предсказать поломку и сэкономить миллионы](https://habr.com/ru/news/957796/?utm_campaign=957796&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek представил эффективный и дешевый ИИ для распознавания документов](https://habr.com/ru/news/958160/?utm_campaign=958160&utm_source=habrahabr&utm_medium=rss)
-- [Все включено: «Солар» запустил услугу по защите бренда с юридическим сопровождением](https://habr.com/ru/companies/solarsecurity/news/957564/?utm_campaign=957564&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ-планы уроков не вдохновляют учеников и не развивают критическое мышление](https://habr.com/ru/news/958126/?utm_campaign=958126&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила о закрытии 10 технологий Privacy Sandbox](https://habr.com/ru/news/958114/?utm_campaign=958114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
