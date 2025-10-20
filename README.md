@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft открыла обновление Windows 11 25H2 для всех пользователей Windows 10 и 11](https://habr.com/ru/news/958200/?utm_campaign=958200&utm_source=habrahabr&utm_medium=rss)
-- [23 октября. 4 ИБ-эксперта. Жаркая дискуссия. Реальные кейсы](https://habr.com/ru/companies/beeline_cloud/news/958186/?utm_campaign=958186&utm_source=habrahabr&utm_medium=rss)
-- [Массовые сбои в работе AWS](https://habr.com/ru/news/958180/?utm_campaign=958180&utm_source=habrahabr&utm_medium=rss)
-- [Интеллектуальные системы на службе заводов: как предсказать поломку и сэкономить миллионы](https://habr.com/ru/news/957796/?utm_campaign=957796&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek представил эффективный и дешевый ИИ для распознавания документов](https://habr.com/ru/news/958160/?utm_campaign=958160&utm_source=habrahabr&utm_medium=rss)
+- [Проект rePebble представил новое приложение Pebble для iOS и Android](https://habr.com/ru/news/958238/?utm_campaign=958238&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «ФСБ предложила установить за собой право контроля за регистрацией шпионских устройств и ПО»](https://habr.com/ru/news/958236/?utm_campaign=958236&utm_source=habrahabr&utm_medium=rss)
+- [«Инфосистемы Джет» запускает серию экспертных вебинаров по цифровизации промышленности](https://habr.com/ru/news/958234/?utm_campaign=958234&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик рассказал, как его чуть не взломали на фейковом собеседовании по программированию](https://habr.com/ru/news/958220/?utm_campaign=958220&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.39: OWASP Top Ten 2021, улучшения в плагине для Visual Studio Code, расширение поддержки MISRA и не только](https://habr.com/ru/companies/pvs-studio/news/958212/?utm_campaign=958212&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
