@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Чтение» соцсетей делает ИИ глупее и токсичнее — исследование](https://habr.com/ru/news/958384/?utm_campaign=958384&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» заявил о разработке батареек для экстремальных условий эксплуатации](https://habr.com/ru/news/958378/?utm_campaign=958378&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик рассказал о своих трёх годах работы в Amazon Web Services и причинах ухода из этой компании](https://habr.com/ru/news/958368/?utm_campaign=958368&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/958366/?utm_campaign=958366&utm_source=habrahabr&utm_medium=rss)
 - [Итеративно-функциональный метод — альтернатива Agile и Kanban — теперь доступен бесплатно](https://habr.com/ru/news/958358/?utm_campaign=958358&utm_source=habrahabr&utm_medium=rss)
-- [«Росэл» представил первый отечественный цезиевый прибор для точной настройки частоты и времени](https://habr.com/ru/news/958308/?utm_campaign=958308&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX доставила на орбиту 10 000-й спутник Starlink](https://habr.com/ru/news/958304/?utm_campaign=958304&utm_source=habrahabr&utm_medium=rss)
-- [CamundaCon New York 2025 &lpar;часть 1&rpar;](https://habr.com/ru/news/958162/?utm_campaign=958162&utm_source=habrahabr&utm_medium=rss)
-- [Багхантеры заработали более 8 миллионов рублей, усилив защищенность Т-Банка и Wildberries](https://habr.com/ru/companies/pt/news/958292/?utm_campaign=958292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
