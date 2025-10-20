@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Потенциальная Google Gemini 3.0 замечена на LMArena](https://habr.com/ru/news/958460/?utm_campaign=958460&utm_source=habrahabr&utm_medium=rss)
+- [У языковых моделей развивается деградация интеллекта из-за мусорных данных](https://habr.com/ru/companies/bothub/news/958446/?utm_campaign=958446&utm_source=habrahabr&utm_medium=rss)
 - [FacebookResearch представил мощную языковую модель для смартфонов](https://habr.com/ru/companies/bothub/news/958448/?utm_campaign=958448&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпаты: искусственный интеллект отнимает у людей способность выбирать](https://habr.com/ru/companies/bothub/news/958438/?utm_campaign=958438&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI приписала GPT-5 несуществующие математические открытия](https://habr.com/ru/companies/bothub/news/958430/?utm_campaign=958430&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи показали позиционирование с точностью до сантиметра с помощью умных часов](https://habr.com/ru/news/958428/?utm_campaign=958428&utm_source=habrahabr&utm_medium=rss)
-- [Unitree представила нового человекоподобного робота H2](https://habr.com/ru/companies/bothub/news/958422/?utm_campaign=958422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
