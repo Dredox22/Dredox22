@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Итеративно-функциональный метод — альтернатива Agile и Kanban — теперь доступен бесплатно](https://habr.com/ru/news/958358/?utm_campaign=958358&utm_source=habrahabr&utm_medium=rss)
 - [«Росэл» представил первый отечественный цезиевый прибор для точной настройки частоты и времени](https://habr.com/ru/news/958308/?utm_campaign=958308&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX доставила на орбиту 10 000-й спутник Starlink](https://habr.com/ru/news/958304/?utm_campaign=958304&utm_source=habrahabr&utm_medium=rss)
 - [CamundaCon New York 2025 &lpar;часть 1&rpar;](https://habr.com/ru/news/958162/?utm_campaign=958162&utm_source=habrahabr&utm_medium=rss)
 - [Багхантеры заработали более 8 миллионов рублей, усилив защищенность Т-Банка и Wildberries](https://habr.com/ru/companies/pt/news/958292/?utm_campaign=958292&utm_source=habrahabr&utm_medium=rss)
-- [Китай обвинил АНБ США в атаке на Центр национальной службы времени КНР](https://habr.com/ru/news/958280/?utm_campaign=958280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
