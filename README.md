@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: ИИ-планы уроков не вдохновляют учеников и не развивают критическое мышление](https://habr.com/ru/news/958126/?utm_campaign=958126&utm_source=habrahabr&utm_medium=rss)
+- [Google объявила о закрытии 10 технологий Privacy Sandbox](https://habr.com/ru/news/958114/?utm_campaign=958114&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предупредила пользователей USB-мыши и клавиатуры о проблемах с обновлением KB5066835 для Windows 11](https://habr.com/ru/news/958112/?utm_campaign=958112&utm_source=habrahabr&utm_medium=rss)
 - [Фонд свободного ПО &lpar;FSF&rpar;: завершение поддержки Windows 10 не означает конец для рабочих ПК, так как есть GNU/Linux](https://habr.com/ru/news/958124/?utm_campaign=958124&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпати рассказал как строит элитную ИИ-школу](https://habr.com/ru/news/958122/?utm_campaign=958122&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI не планирует релиз GPT-6 в этом году](https://habr.com/ru/news/958110/?utm_campaign=958110&utm_source=habrahabr&utm_medium=rss)
-- [Модератор Reddit предупредил об опасности ИИ-ответов на сабреддите по здоровью](https://habr.com/ru/news/958102/?utm_campaign=958102&utm_source=habrahabr&utm_medium=rss)
-- [Uber даст водителям возможность заработать на выполнении мелких задач для обучения ИИ](https://habr.com/ru/news/958098/?utm_campaign=958098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
