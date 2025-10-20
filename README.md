@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber даст водителям возможность заработать на выполнении мелких задач для обучения ИИ](https://habr.com/ru/news/958098/?utm_campaign=958098&utm_source=habrahabr&utm_medium=rss)
+- [В Rust переименовали ветку по умолчанию &lpar;default branch&rpar; репозитория rust-lang/rust с master на main](https://habr.com/ru/news/958096/?utm_campaign=958096&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенной консольной утилиты ripgrep &lpar;rg&rpar; 15.0.0 для многопоточного рекурсивного поиска текста в файлах](https://habr.com/ru/news/958044/?utm_campaign=958044&utm_source=habrahabr&utm_medium=rss)
 - [Команда Tor Project выпустила Tor Browser 15.0a4, где удалены компоненты ИИ и элементы машинного обучения из Firefox](https://habr.com/ru/news/958002/?utm_campaign=958002&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого каталогизатора домашней библиотеки MyLibrary 4.2](https://habr.com/ru/news/957978/?utm_campaign=957978&utm_source=habrahabr&utm_medium=rss)
-- [Copilot сможет видеть экран, понимать голосовые команды и выполнять действия на ПК за пользователя](https://habr.com/ru/news/957536/?utm_campaign=957536&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 Pro за 30 минут выполнила расчет скрытой симметрии Керра — у физика ушли дни](https://habr.com/ru/news/958072/?utm_campaign=958072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
