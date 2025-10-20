@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthrogen представил самую мощную модель для редактирования белков](https://habr.com/ru/companies/bothub/news/958414/?utm_campaign=958414&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «РФ прекратит финансировать разработчиков базовых станций связи в 2026 году»](https://habr.com/ru/news/958408/?utm_campaign=958408&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI ставит цель заработать триллион долларов за пять лет](https://habr.com/ru/companies/bothub/news/958396/?utm_campaign=958396&utm_source=habrahabr&utm_medium=rss)
 - [«Чтение» соцсетей делает ИИ глупее и токсичнее — исследование](https://habr.com/ru/news/958384/?utm_campaign=958384&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» заявил о разработке батареек для экстремальных условий эксплуатации](https://habr.com/ru/news/958378/?utm_campaign=958378&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик рассказал о своих трёх годах работы в Amazon Web Services и причинах ухода из этой компании](https://habr.com/ru/news/958368/?utm_campaign=958368&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/958366/?utm_campaign=958366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
