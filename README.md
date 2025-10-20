@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз кроссплатформенной консольной утилиты ripgrep &lpar;rg&rpar; 15.0.0 для многопоточного рекурсивного поиска текста в файлах](https://habr.com/ru/news/958044/?utm_campaign=958044&utm_source=habrahabr&utm_medium=rss)
+- [Команда Tor Project выпустила Tor Browser 15.0a4, где удалены компоненты ИИ и элементы машинного обучения из Firefox](https://habr.com/ru/news/958002/?utm_campaign=958002&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого каталогизатора домашней библиотеки MyLibrary 4.2](https://habr.com/ru/news/957978/?utm_campaign=957978&utm_source=habrahabr&utm_medium=rss)
 - [Copilot сможет видеть экран, понимать голосовые команды и выполнять действия на ПК за пользователя](https://habr.com/ru/news/957536/?utm_campaign=957536&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 Pro за 30 минут выполнила расчет скрытой симметрии Керра — у физика ушли дни](https://habr.com/ru/news/958072/?utm_campaign=958072&utm_source=habrahabr&utm_medium=rss)
-- [В Max и в Минцифры назвали фейком сообщения об утечке данных пользователей мессенджера](https://habr.com/ru/news/958006/?utm_campaign=958006&utm_source=habrahabr&utm_medium=rss)
-- [Антифашистскую утилиту для systemd не приняли в проект](https://habr.com/ru/news/958022/?utm_campaign=958022&utm_source=habrahabr&utm_medium=rss)
-- [Instagram** позволит родителям ограничивать общение подростков с ИИ](https://habr.com/ru/news/957810/?utm_campaign=957810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
