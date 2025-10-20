@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FacebookResearch представил мощную языковую модель для смартфонов](https://habr.com/ru/companies/bothub/news/958448/?utm_campaign=958448&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпаты: искусственный интеллект отнимает у людей способность выбирать](https://habr.com/ru/companies/bothub/news/958438/?utm_campaign=958438&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI приписала GPT-5 несуществующие математические открытия](https://habr.com/ru/companies/bothub/news/958430/?utm_campaign=958430&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи показали позиционирование с точностью до сантиметра с помощью умных часов](https://habr.com/ru/news/958428/?utm_campaign=958428&utm_source=habrahabr&utm_medium=rss)
 - [Unitree представила нового человекоподобного робота H2](https://habr.com/ru/companies/bothub/news/958422/?utm_campaign=958422&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи жалуются, что клавиатура в iOS 26 неправильно регистрирует нажатия](https://habr.com/ru/news/958420/?utm_campaign=958420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
