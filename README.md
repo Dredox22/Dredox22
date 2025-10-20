@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фонд свободного ПО &lpar;FSF&rpar;: завершение поддержки Windows 10 не означает конец для рабочих ПК, так как есть GNU/Linux](https://habr.com/ru/news/958124/?utm_campaign=958124&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпати рассказал как строит элитную ИИ-школу](https://habr.com/ru/news/958122/?utm_campaign=958122&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI не планирует релиз GPT-6 в этом году](https://habr.com/ru/news/958110/?utm_campaign=958110&utm_source=habrahabr&utm_medium=rss)
+- [Модератор Reddit предупредил об опасности ИИ-ответов на сабреддите по здоровью](https://habr.com/ru/news/958102/?utm_campaign=958102&utm_source=habrahabr&utm_medium=rss)
 - [Uber даст водителям возможность заработать на выполнении мелких задач для обучения ИИ](https://habr.com/ru/news/958098/?utm_campaign=958098&utm_source=habrahabr&utm_medium=rss)
-- [В Rust переименовали ветку по умолчанию &lpar;default branch&rpar; репозитория rust-lang/rust с master на main](https://habr.com/ru/news/958096/?utm_campaign=958096&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенной консольной утилиты ripgrep &lpar;rg&rpar; 15.0.0 для многопоточного рекурсивного поиска текста в файлах](https://habr.com/ru/news/958044/?utm_campaign=958044&utm_source=habrahabr&utm_medium=rss)
-- [Команда Tor Project выпустила Tor Browser 15.0a4, где удалены компоненты ИИ и элементы машинного обучения из Firefox](https://habr.com/ru/news/958002/?utm_campaign=958002&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого каталогизатора домашней библиотеки MyLibrary 4.2](https://habr.com/ru/news/957978/?utm_campaign=957978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
