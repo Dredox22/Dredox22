@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google интегрировала Gemini с Google Maps](https://habr.com/ru/companies/bothub/news/958806/?utm_campaign=958806&utm_source=habrahabr&utm_medium=rss)
+- [Krea AI открыла исходный код своей системы генерации видео](https://habr.com/ru/companies/bothub/news/958802/?utm_campaign=958802&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект «Мобильные JAVA игры в Telegram»](https://habr.com/ru/news/958796/?utm_campaign=958796&utm_source=habrahabr&utm_medium=rss)
 - [РКН: решений об отмене ограничений голосовых вызовов в WhatsApp и Telegram не принималось](https://habr.com/ru/news/958790/?utm_campaign=958790&utm_source=habrahabr&utm_medium=rss)
 - [Scoop AI Hackathon в Москве: Web3 и ИИ в одном событии](https://habr.com/ru/news/958720/?utm_campaign=958720&utm_source=habrahabr&utm_medium=rss)
-- [«День Бренда 2025»: как прошла конференция для специалистов маркетинга и рекламы](https://habr.com/ru/news/958706/?utm_campaign=958706&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудник OpenAI извинился за то, что приписал GPT-5 чужие научные открытия](https://habr.com/ru/news/958672/?utm_campaign=958672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
