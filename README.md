@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотрудник OpenAI извинился за то, что приписал GPT-5 чужие научные открытия](https://habr.com/ru/news/958672/?utm_campaign=958672&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch Industrial Firewall защитит объекты электроэнергетики](https://habr.com/ru/companies/infowatch/news/958664/?utm_campaign=958664&utm_source=habrahabr&utm_medium=rss)
+- [Искусственные нейроны научились шептать настоящим клеткам мозга](https://habr.com/ru/companies/bothub/news/958654/?utm_campaign=958654&utm_source=habrahabr&utm_medium=rss)
+- [Умные матрасы Eight Sleep перестали работать из-за сбоя AWS: в них нет офлайн-режима](https://habr.com/ru/news/958652/?utm_campaign=958652&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic тратит больше, чем зарабатывает… и это нормально](https://habr.com/ru/news/958642/?utm_campaign=958642&utm_source=habrahabr&utm_medium=rss)
-- [Магистерская программа «Искусственный интеллект» — лидер по итогам приёма на онлайн-программы НИУ ВШЭ](https://habr.com/ru/news/958618/?utm_campaign=958618&utm_source=habrahabr&utm_medium=rss)
-- [Участники CyberCamp рассказали, как киберучения помогли им в реальной жизни](https://habr.com/ru/companies/jetinfosystems/news/958602/?utm_campaign=958602&utm_source=habrahabr&utm_medium=rss)
-- [Вьюер истории LLM для Cursor и Claude Code &lpar;Open Source&rpar;](https://habr.com/ru/news/958418/?utm_campaign=958418&utm_source=habrahabr&utm_medium=rss)
-- [Statcounter: в сентябре резко начала расти доля ПК с Windows 7](https://habr.com/ru/news/958580/?utm_campaign=958580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
