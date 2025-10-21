@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM представила компактные LLM для кибербезопасности](https://habr.com/ru/companies/bothub/news/958812/?utm_campaign=958812&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» запустил в серию новые светочувствительные 4K‑матрицы для телесистем спецназначения](https://habr.com/ru/news/958836/?utm_campaign=958836&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba придумала, как сократить потребность в GPU на 82%](https://habr.com/ru/companies/bothub/news/958824/?utm_campaign=958824&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила браузер ChatGPT Atlas](https://habr.com/ru/companies/bothub/news/958826/?utm_campaign=958826&utm_source=habrahabr&utm_medium=rss)
 - [Google интегрировала Gemini с Google Maps](https://habr.com/ru/companies/bothub/news/958806/?utm_campaign=958806&utm_source=habrahabr&utm_medium=rss)
-- [Krea AI открыла исходный код своей системы генерации видео](https://habr.com/ru/companies/bothub/news/958802/?utm_campaign=958802&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект «Мобильные JAVA игры в Telegram»](https://habr.com/ru/news/958796/?utm_campaign=958796&utm_source=habrahabr&utm_medium=rss)
-- [РКН: решений об отмене ограничений голосовых вызовов в WhatsApp и Telegram не принималось](https://habr.com/ru/news/958790/?utm_campaign=958790&utm_source=habrahabr&utm_medium=rss)
-- [Scoop AI Hackathon в Москве: Web3 и ИИ в одном событии](https://habr.com/ru/news/958720/?utm_campaign=958720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
