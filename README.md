@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Образование» проводит олимпиаду по информатике для школьников 5–11классов](https://habr.com/ru/news/958848/?utm_campaign=958848&utm_source=habrahabr&utm_medium=rss)
 - [IBM представила компактные LLM для кибербезопасности](https://habr.com/ru/companies/bothub/news/958812/?utm_campaign=958812&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» запустил в серию новые светочувствительные 4K‑матрицы для телесистем спецназначения](https://habr.com/ru/news/958836/?utm_campaign=958836&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba придумала, как сократить потребность в GPU на 82%](https://habr.com/ru/companies/bothub/news/958824/?utm_campaign=958824&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила браузер ChatGPT Atlas](https://habr.com/ru/companies/bothub/news/958826/?utm_campaign=958826&utm_source=habrahabr&utm_medium=rss)
-- [Google интегрировала Gemini с Google Maps](https://habr.com/ru/companies/bothub/news/958806/?utm_campaign=958806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
