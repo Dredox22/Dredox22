@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск DOSBox Pure Unleashed 1.0 с экспериментальной поддержкой Windows 9X](https://habr.com/ru/news/958352/?utm_campaign=958352&utm_source=habrahabr&utm_medium=rss)
+- [Вышел digiKam 8.8.0](https://habr.com/ru/news/958106/?utm_campaign=958106&utm_source=habrahabr&utm_medium=rss)
+- [Релиз RapidRAW 1.4.3 — открытого редактора изображений RAW](https://habr.com/ru/news/958406/?utm_campaign=958406&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент для программирования Claude Code вышел в браузере](https://habr.com/ru/news/958470/?utm_campaign=958470&utm_source=habrahabr&utm_medium=rss)
 - [Потенциальная Google Gemini 3.0 замечена на LMArena](https://habr.com/ru/news/958460/?utm_campaign=958460&utm_source=habrahabr&utm_medium=rss)
-- [У языковых моделей развивается деградация интеллекта из-за мусорных данных](https://habr.com/ru/companies/bothub/news/958446/?utm_campaign=958446&utm_source=habrahabr&utm_medium=rss)
-- [FacebookResearch представил мощную языковую модель для смартфонов](https://habr.com/ru/companies/bothub/news/958448/?utm_campaign=958448&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпаты: искусственный интеллект отнимает у людей способность выбирать](https://habr.com/ru/companies/bothub/news/958438/?utm_campaign=958438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
