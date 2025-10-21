@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Участники CyberCamp рассказали, как киберучения помогли им в реальной жизни](https://habr.com/ru/companies/jetinfosystems/news/958602/?utm_campaign=958602&utm_source=habrahabr&utm_medium=rss)
+- [Вьюер истории LLM для Cursor и Claude Code](https://habr.com/ru/news/958418/?utm_campaign=958418&utm_source=habrahabr&utm_medium=rss)
+- [Statcounter: в сентябре резко начала расти доля ПК с Windows 7](https://habr.com/ru/news/958580/?utm_campaign=958580&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft передаст функции поиска в Windows 11 Ask Copilot на панели задач](https://habr.com/ru/news/958564/?utm_campaign=958564&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Luxms BI совместима с СУБД Tantor Certified 15](https://habr.com/ru/companies/luxms_bi/news/958578/?utm_campaign=958578&utm_source=habrahabr&utm_medium=rss)
-- [Куда движется Observability в K8s: какие инструменты умрут, а какие будут жить](https://habr.com/ru/news/958472/?utm_campaign=958472&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила экстренное обновление Windows 11 для устранения бага с USB-клавиатурой и мышью](https://habr.com/ru/news/958542/?utm_campaign=958542&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic запустила веб-приложение ИИ-помощника Claude Code](https://habr.com/ru/news/958536/?utm_campaign=958536&utm_source=habrahabr&utm_medium=rss)
-- [Apple позволила пользователям отменить Liquid Glass с помощью опции «тонирования»](https://habr.com/ru/news/958532/?utm_campaign=958532&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
