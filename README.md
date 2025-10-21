@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России за сутки дважды произошел сбой в работе Telegram и WhatsApp*](https://habr.com/ru/news/958868/?utm_campaign=958868&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic запустила Claude, который понимает биологию](https://habr.com/ru/companies/bothub/news/958810/?utm_campaign=958810&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Образование» проводит олимпиаду по информатике для школьников 5–11классов](https://habr.com/ru/news/958848/?utm_campaign=958848&utm_source=habrahabr&utm_medium=rss)
 - [IBM представила компактные LLM для кибербезопасности](https://habr.com/ru/companies/bothub/news/958812/?utm_campaign=958812&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» запустил в серию новые светочувствительные 4K‑матрицы для телесистем спецназначения](https://habr.com/ru/news/958836/?utm_campaign=958836&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba придумала, как сократить потребность в GPU на 82%](https://habr.com/ru/companies/bothub/news/958824/?utm_campaign=958824&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила браузер ChatGPT Atlas](https://habr.com/ru/companies/bothub/news/958826/?utm_campaign=958826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
