@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic тратит больше, чем зарабатывает… и это нормально](https://habr.com/ru/news/958642/?utm_campaign=958642&utm_source=habrahabr&utm_medium=rss)
+- [Магистерская программа «Искусственный интеллект» — лидер по итогам приёма на онлайн-программы НИУ ВШЭ](https://habr.com/ru/news/958618/?utm_campaign=958618&utm_source=habrahabr&utm_medium=rss)
 - [Участники CyberCamp рассказали, как киберучения помогли им в реальной жизни](https://habr.com/ru/companies/jetinfosystems/news/958602/?utm_campaign=958602&utm_source=habrahabr&utm_medium=rss)
-- [Вьюер истории LLM для Cursor и Claude Code](https://habr.com/ru/news/958418/?utm_campaign=958418&utm_source=habrahabr&utm_medium=rss)
+- [Вьюер истории LLM для Cursor и Claude Code &lpar;Open Source&rpar;](https://habr.com/ru/news/958418/?utm_campaign=958418&utm_source=habrahabr&utm_medium=rss)
 - [Statcounter: в сентябре резко начала расти доля ПК с Windows 7](https://habr.com/ru/news/958580/?utm_campaign=958580&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft передаст функции поиска в Windows 11 Ask Copilot на панели задач](https://habr.com/ru/news/958564/?utm_campaign=958564&utm_source=habrahabr&utm_medium=rss)
-- [Платформа Luxms BI совместима с СУБД Tantor Certified 15](https://habr.com/ru/companies/luxms_bi/news/958578/?utm_campaign=958578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
