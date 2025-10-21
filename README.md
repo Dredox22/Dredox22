@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа Luxms BI совместима с СУБД Tantor Certified 15](https://habr.com/ru/companies/luxms_bi/news/958578/?utm_campaign=958578&utm_source=habrahabr&utm_medium=rss)
+- [Куда движется Observability в K8s: какие инструменты умрут, а какие будут жить](https://habr.com/ru/news/958472/?utm_campaign=958472&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила экстренное обновление Windows 11 для устранения бага с USB-клавиатурой и мышью](https://habr.com/ru/news/958542/?utm_campaign=958542&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запустила веб-приложение ИИ-помощника Claude Code](https://habr.com/ru/news/958536/?utm_campaign=958536&utm_source=habrahabr&utm_medium=rss)
 - [Apple позволила пользователям отменить Liquid Glass с помощью опции «тонирования»](https://habr.com/ru/news/958532/?utm_campaign=958532&utm_source=habrahabr&utm_medium=rss)
-- [EA объявила о закрытии The Sims Mobile в январе 2026 года](https://habr.com/ru/news/958514/?utm_campaign=958514&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia достигла «золота» олимпиады по информатике на открытой модели ИИ](https://habr.com/ru/news/958512/?utm_campaign=958512&utm_source=habrahabr&utm_medium=rss)
-- [CamundaCon New York 2025 &lpar;часть 2&rpar;](https://habr.com/ru/news/958502/?utm_campaign=958502&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
