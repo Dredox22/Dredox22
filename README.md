@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [EA объявила о закрытии The Sims Mobile в январе 2026 года](https://habr.com/ru/news/958514/?utm_campaign=958514&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia достигла «золота» олимпиады по информатике на открытой модели ИИ](https://habr.com/ru/news/958512/?utm_campaign=958512&utm_source=habrahabr&utm_medium=rss)
 - [CamundaCon New York 2025 &lpar;часть 2&rpar;](https://habr.com/ru/news/958502/?utm_campaign=958502&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск DOSBox Pure Unleashed 1.0 с экспериментальной поддержкой Windows 9X](https://habr.com/ru/news/958352/?utm_campaign=958352&utm_source=habrahabr&utm_medium=rss)
 - [Вышел digiKam 8.8.0](https://habr.com/ru/news/958106/?utm_campaign=958106&utm_source=habrahabr&utm_medium=rss)
-- [Релиз RapidRAW 1.4.3 — открытого редактора изображений RAW](https://habr.com/ru/news/958406/?utm_campaign=958406&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент для программирования Claude Code вышел в браузере](https://habr.com/ru/news/958470/?utm_campaign=958470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
