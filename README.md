@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Clonezilla Live 3.3.0-33](https://habr.com/ru/news/959042/?utm_campaign=959042&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek представила OCR-модель, которая обрабатывает текст как изображение](https://habr.com/ru/companies/bothub/news/959078/?utm_campaign=959078&utm_source=habrahabr&utm_medium=rss)
 - [Claude Desktop теперь доступен для всех](https://habr.com/ru/companies/bothub/news/959092/?utm_campaign=959092&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic и Thinking Machines представили ИИ-аудитора, способного выявлять скрытые риски в дообученных языковых моделях](https://habr.com/ru/companies/technokratos/news/959160/?utm_campaign=959160&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта хранилища данных «in-memory data store» Valkey 9.0.0](https://habr.com/ru/news/959002/?utm_campaign=959002&utm_source=habrahabr&utm_medium=rss)
-- [Uber и Nebius инвестируют до $375 млн в Avride](https://habr.com/ru/companies/bothub/news/959094/?utm_campaign=959094&utm_source=habrahabr&utm_medium=rss)
-- [РВИ попросила правительство закрепить налоговые льготы для игровых разработчиков](https://habr.com/ru/news/959108/?utm_campaign=959108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
