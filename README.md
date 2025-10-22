@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI наняла сотню бывших сотрудников Уолл-стрит, чтобы обучить ИИ языку финансов](https://habr.com/ru/companies/bothub/news/959060/?utm_campaign=959060&utm_source=habrahabr&utm_medium=rss)
+- [Apple отправила уведомление разработчику эксплойтов о попытке целевой атаки на его iPhone с использованием шпионского ПО](https://habr.com/ru/news/959044/?utm_campaign=959044&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT Atlas: всё, что понятно на данный момент](https://habr.com/ru/news/959032/?utm_campaign=959032&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор объяснил, что ведомство стоит за частичными сбоями в работе WhatsApp и Telegram на юге РФ](https://habr.com/ru/news/959020/?utm_campaign=959020&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Образование» проводит олимпиаду по информатике для школьников 5–11 классов](https://habr.com/ru/news/959016/?utm_campaign=959016&utm_source=habrahabr&utm_medium=rss)
-- [Платформа Tantor 6.1: интеграция с МБД Tantor XData, ИИ-ассистент и новый интерфейс для аудита БД](https://habr.com/ru/companies/tantor/news/958948/?utm_campaign=958948&utm_source=habrahabr&utm_medium=rss)
-- [«Суперфанаты» Google Pixel смогут протестировать следующий смартфон до его официального выпуска](https://habr.com/ru/news/958832/?utm_campaign=958832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
