@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратит поддержку Office Online Server до конца 2026 года](https://habr.com/ru/news/958896/?utm_campaign=958896&utm_source=habrahabr&utm_medium=rss)
+- [CamundaCon New York 2025 &lpar;часть 3&rpar;](https://habr.com/ru/news/958504/?utm_campaign=958504&utm_source=habrahabr&utm_medium=rss)
 - [Вышел SuperTuxKart 1.5](https://habr.com/ru/news/958640/?utm_campaign=958640&utm_source=habrahabr&utm_medium=rss)
 - [Релиз KDE Plasma 6.5](https://habr.com/ru/news/958714/?utm_campaign=958714&utm_source=habrahabr&utm_medium=rss)
 - [Представлен первый выпуск браузерного движка Servo 0.0.1, написанного на Rust](https://habr.com/ru/news/958538/?utm_campaign=958538&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Cjam 2.2.4.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/958818/?utm_campaign=958818&utm_source=habrahabr&utm_medium=rss)
-- [Вышел браузер ChatGPT Atlas: тестируем нейропоиск и пробуем онлайн-покупки в агентском режиме](https://habr.com/ru/news/958878/?utm_campaign=958878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
