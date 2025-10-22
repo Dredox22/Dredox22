@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel увеличит стоимость настольных процессоров серии Raptor Lake примерно на 10%](https://habr.com/ru/news/958910/?utm_campaign=958910&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft повысила цены на комплекты разработчика Xbox](https://habr.com/ru/news/958924/?utm_campaign=958924&utm_source=habrahabr&utm_medium=rss)
+- [Недавние обновления Windows вызывают проблемы со входом в систему на некоторых ПК](https://habr.com/ru/news/958908/?utm_campaign=958908&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Office Online Server до конца 2026 года](https://habr.com/ru/news/958896/?utm_campaign=958896&utm_source=habrahabr&utm_medium=rss)
 - [CamundaCon New York 2025 &lpar;часть 3&rpar;](https://habr.com/ru/news/958504/?utm_campaign=958504&utm_source=habrahabr&utm_medium=rss)
-- [Вышел SuperTuxKart 1.5](https://habr.com/ru/news/958640/?utm_campaign=958640&utm_source=habrahabr&utm_medium=rss)
-- [Релиз KDE Plasma 6.5](https://habr.com/ru/news/958714/?utm_campaign=958714&utm_source=habrahabr&utm_medium=rss)
-- [Представлен первый выпуск браузерного движка Servo 0.0.1, написанного на Rust](https://habr.com/ru/news/958538/?utm_campaign=958538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
