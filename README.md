@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba выпустила Qwen3-VL-2B и Qwen3-VL-32B](https://habr.com/ru/companies/bothub/news/959064/?utm_campaign=959064&utm_source=habrahabr&utm_medium=rss)
+- [Учёные НИТУ «МИСиС» совместно с китайскими коллегами создали самозалечивающееся покрытие для ниобиевых сплавов](https://habr.com/ru/news/959188/?utm_campaign=959188&utm_source=habrahabr&utm_medium=rss)
+- [Google Quantum AI впервые достигла проверяемого квантового преимущества: алгоритм Quantum Echoes на чипе Willow](https://habr.com/ru/news/959182/?utm_campaign=959182&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Clonezilla Live 3.3.0-33](https://habr.com/ru/news/959042/?utm_campaign=959042&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek представила OCR-модель, которая обрабатывает текст как изображение](https://habr.com/ru/companies/bothub/news/959078/?utm_campaign=959078&utm_source=habrahabr&utm_medium=rss)
-- [Claude Desktop теперь доступен для всех](https://habr.com/ru/companies/bothub/news/959092/?utm_campaign=959092&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic и Thinking Machines представили ИИ-аудитора, способного выявлять скрытые риски в дообученных языковых моделях](https://habr.com/ru/companies/technokratos/news/959160/?utm_campaign=959160&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта хранилища данных «in-memory data store» Valkey 9.0.0](https://habr.com/ru/news/959002/?utm_campaign=959002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
