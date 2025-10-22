@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В 2025 году больше половины корпораций увеличили бюджет на кибербезопасность на 20–40%](https://habr.com/ru/companies/pt/news/959084/?utm_campaign=959084&utm_source=habrahabr&utm_medium=rss)
+- [Goldman Sachs: экономика США растёт без новых рабочих мест](https://habr.com/ru/companies/bothub/news/959082/?utm_campaign=959082&utm_source=habrahabr&utm_medium=rss)
+- [Google обновила AI Studio](https://habr.com/ru/companies/bothub/news/959070/?utm_campaign=959070&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI наняла сотню бывших сотрудников Уолл-стрит, чтобы обучить ИИ языку финансов](https://habr.com/ru/companies/bothub/news/959060/?utm_campaign=959060&utm_source=habrahabr&utm_medium=rss)
 - [Apple отправила уведомление разработчику эксплойтов о попытке целевой атаки на его iPhone с использованием шпионского ПО](https://habr.com/ru/news/959044/?utm_campaign=959044&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT Atlas: всё, что понятно на данный момент](https://habr.com/ru/news/959032/?utm_campaign=959032&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор объяснил, что ведомство стоит за частичными сбоями в работе WhatsApp и Telegram на юге РФ](https://habr.com/ru/news/959020/?utm_campaign=959020&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Образование» проводит олимпиаду по информатике для школьников 5–11 классов](https://habr.com/ru/news/959016/?utm_campaign=959016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
