@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз OpenWrt 24.10.4](https://habr.com/ru/news/958934/?utm_campaign=958934&utm_source=habrahabr&utm_medium=rss)
 - [Intel увеличит стоимость настольных процессоров серии Raptor Lake примерно на 10%](https://habr.com/ru/news/958910/?utm_campaign=958910&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft повысила цены на комплекты разработчика Xbox](https://habr.com/ru/news/958924/?utm_campaign=958924&utm_source=habrahabr&utm_medium=rss)
 - [Недавние обновления Windows вызывают проблемы со входом в систему на некоторых ПК](https://habr.com/ru/news/958908/?utm_campaign=958908&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Office Online Server до конца 2026 года](https://habr.com/ru/news/958896/?utm_campaign=958896&utm_source=habrahabr&utm_medium=rss)
-- [CamundaCon New York 2025 &lpar;часть 3&rpar;](https://habr.com/ru/news/958504/?utm_campaign=958504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
