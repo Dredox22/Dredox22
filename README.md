@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Atlas: всё, что понятно на данный момент](https://habr.com/ru/news/959032/?utm_campaign=959032&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор объяснил, что ведомство стоит за частичными сбоями в работе WhatsApp и Telegram на юге РФ](https://habr.com/ru/news/959020/?utm_campaign=959020&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Образование» проводит олимпиаду по информатике для школьников 5–11 классов](https://habr.com/ru/news/959016/?utm_campaign=959016&utm_source=habrahabr&utm_medium=rss)
 - [Платформа Tantor 6.1: интеграция с МБД Tantor XData, ИИ-ассистент и новый интерфейс для аудита БД](https://habr.com/ru/companies/tantor/news/958948/?utm_campaign=958948&utm_source=habrahabr&utm_medium=rss)
 - [«Суперфанаты» Google Pixel смогут протестировать следующий смартфон до его официального выпуска](https://habr.com/ru/news/958832/?utm_campaign=958832&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал пробный тур международного чемпионата по программированию Yandex Cup](https://habr.com/ru/companies/yandex/news/958708/?utm_campaign=958708&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты «Тантор Лабс» приняли участие в конференции PGDay Israel 2025](https://habr.com/ru/companies/tantor/news/958954/?utm_campaign=958954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
