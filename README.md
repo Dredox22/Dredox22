@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Windows 11 больше не могут отключать автообновления приложений из Microsoft Store](https://habr.com/ru/news/959204/?utm_campaign=959204&utm_source=habrahabr&utm_medium=rss)
+- [В Оренбурге разработали российский роботизированный укладчик сосисок](https://habr.com/ru/news/959238/?utm_campaign=959238&utm_source=habrahabr&utm_medium=rss)
+- [Алиса в «Яндекс Браузере» начала создавать описания изображений для незрячих и слабовидящих пользователей](https://habr.com/ru/news/959236/?utm_campaign=959236&utm_source=habrahabr&utm_medium=rss)
 - [Возняк и Бэннон поддержали заявление о моратории на сверхинтеллект](https://habr.com/ru/news/959208/?utm_campaign=959208&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из Воронежа предложили метод повышения качества лопаток турбин ракетных двигателей](https://habr.com/ru/news/959194/?utm_campaign=959194&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выпустила Qwen3-VL-2B и Qwen3-VL-32B](https://habr.com/ru/companies/bothub/news/959064/?utm_campaign=959064&utm_source=habrahabr&utm_medium=rss)
-- [Учёные НИТУ «МИСиС» совместно с китайскими коллегами создали самозалечивающееся покрытие для ниобиевых сплавов](https://habr.com/ru/news/959188/?utm_campaign=959188&utm_source=habrahabr&utm_medium=rss)
-- [Google Quantum AI впервые достигла проверяемого квантового преимущества: алгоритм Quantum Echoes на чипе Willow](https://habr.com/ru/news/959182/?utm_campaign=959182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
