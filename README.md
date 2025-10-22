@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты «Тантор Лабс» приняли участие в конференции PGDay Israel 2025](https://habr.com/ru/companies/tantor/news/958954/?utm_campaign=958954&utm_source=habrahabr&utm_medium=rss)
+- [Слушая мозг](https://habr.com/ru/news/958966/?utm_campaign=958966&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenWrt 24.10.4](https://habr.com/ru/news/958934/?utm_campaign=958934&utm_source=habrahabr&utm_medium=rss)
 - [Intel увеличит стоимость настольных процессоров серии Raptor Lake примерно на 10%](https://habr.com/ru/news/958910/?utm_campaign=958910&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft повысила цены на комплекты разработчика Xbox](https://habr.com/ru/news/958924/?utm_campaign=958924&utm_source=habrahabr&utm_medium=rss)
-- [Недавние обновления Windows вызывают проблемы со входом в систему на некоторых ПК](https://habr.com/ru/news/958908/?utm_campaign=958908&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку Office Online Server до конца 2026 года](https://habr.com/ru/news/958896/?utm_campaign=958896&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
