@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого проекта хранилища данных «in-memory data store» Valkey 9.0.0](https://habr.com/ru/news/959002/?utm_campaign=959002&utm_source=habrahabr&utm_medium=rss)
+- [Uber и Nebius инвестируют до $375 млн в Avride](https://habr.com/ru/companies/bothub/news/959094/?utm_campaign=959094&utm_source=habrahabr&utm_medium=rss)
 - [РВИ попросила правительство закрепить налоговые льготы для игровых разработчиков](https://habr.com/ru/news/959108/?utm_campaign=959108&utm_source=habrahabr&utm_medium=rss)
 - [В 2025 году больше половины корпораций увеличили бюджет на кибербезопасность на 20–40%](https://habr.com/ru/companies/pt/news/959084/?utm_campaign=959084&utm_source=habrahabr&utm_medium=rss)
 - [Goldman Sachs: экономика США растёт без новых рабочих мест](https://habr.com/ru/companies/bothub/news/959082/?utm_campaign=959082&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила AI Studio](https://habr.com/ru/companies/bothub/news/959070/?utm_campaign=959070&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI наняла сотню бывших сотрудников Уолл-стрит, чтобы обучить ИИ языку финансов](https://habr.com/ru/companies/bothub/news/959060/?utm_campaign=959060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
