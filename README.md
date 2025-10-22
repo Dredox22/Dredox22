@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Возняк и Бэннон поддержали заявление о моратории на сверхинтеллект](https://habr.com/ru/news/959208/?utm_campaign=959208&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из Воронежа предложили метод повышения качества лопаток турбин ракетных двигателей](https://habr.com/ru/news/959194/?utm_campaign=959194&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba выпустила Qwen3-VL-2B и Qwen3-VL-32B](https://habr.com/ru/companies/bothub/news/959064/?utm_campaign=959064&utm_source=habrahabr&utm_medium=rss)
 - [Учёные НИТУ «МИСиС» совместно с китайскими коллегами создали самозалечивающееся покрытие для ниобиевых сплавов](https://habr.com/ru/news/959188/?utm_campaign=959188&utm_source=habrahabr&utm_medium=rss)
 - [Google Quantum AI впервые достигла проверяемого квантового преимущества: алгоритм Quantum Echoes на чипе Willow](https://habr.com/ru/news/959182/?utm_campaign=959182&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Clonezilla Live 3.3.0-33](https://habr.com/ru/news/959042/?utm_campaign=959042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
