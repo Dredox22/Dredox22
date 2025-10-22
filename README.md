@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Образование» проводит олимпиаду по информатике для школьников 5–11 классов](https://habr.com/ru/news/959016/?utm_campaign=959016&utm_source=habrahabr&utm_medium=rss)
+- [Платформа Tantor 6.1: интеграция с МБД Tantor XData, ИИ-ассистент и новый интерфейс для аудита БД](https://habr.com/ru/companies/tantor/news/958948/?utm_campaign=958948&utm_source=habrahabr&utm_medium=rss)
+- [«Суперфанаты» Google Pixel смогут протестировать следующий смартфон до его официального выпуска](https://habr.com/ru/news/958832/?utm_campaign=958832&utm_source=habrahabr&utm_medium=rss)
 - [Стартовал пробный тур международного чемпионата по программированию Yandex Cup](https://habr.com/ru/companies/yandex/news/958708/?utm_campaign=958708&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты «Тантор Лабс» приняли участие в конференции PGDay Israel 2025](https://habr.com/ru/companies/tantor/news/958954/?utm_campaign=958954&utm_source=habrahabr&utm_medium=rss)
-- [Слушая мозг](https://habr.com/ru/news/958966/?utm_campaign=958966&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenWrt 24.10.4](https://habr.com/ru/news/958934/?utm_campaign=958934&utm_source=habrahabr&utm_medium=rss)
-- [Intel увеличит стоимость настольных процессоров серии Raptor Lake примерно на 10%](https://habr.com/ru/news/958910/?utm_campaign=958910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
