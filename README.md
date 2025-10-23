@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел AnyDesk 9.6.3 для Windows](https://habr.com/ru/news/958926/?utm_campaign=958926&utm_source=habrahabr&utm_medium=rss)
+- [В библиотеках Rust для формата TAR обнаружена уязвимость TARmageddon, позволяющая распаковывать из вложенного архива](https://habr.com/ru/news/959156/?utm_campaign=959156&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ImageViewer 1.8.2 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/958914/?utm_campaign=958914&utm_source=habrahabr&utm_medium=rss)
+- [Вышла система виртуализации VirtualBox 7.2.4](https://habr.com/ru/news/958958/?utm_campaign=958958&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Windows 11 больше не могут отключать автообновления приложений из Microsoft Store](https://habr.com/ru/news/959204/?utm_campaign=959204&utm_source=habrahabr&utm_medium=rss)
-- [В Оренбурге разработали российский роботизированный укладчик сосисок](https://habr.com/ru/news/959238/?utm_campaign=959238&utm_source=habrahabr&utm_medium=rss)
-- [Алиса в «Яндекс Браузере» начала создавать описания изображений для незрячих и слабовидящих пользователей](https://habr.com/ru/news/959236/?utm_campaign=959236&utm_source=habrahabr&utm_medium=rss)
-- [Возняк и Бэннон поддержали заявление о моратории на сверхинтеллект](https://habr.com/ru/news/959208/?utm_campaign=959208&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из Воронежа предложили метод повышения качества лопаток турбин ракетных двигателей](https://habr.com/ru/news/959194/?utm_campaign=959194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
