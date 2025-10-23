@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [VK рассказала, что количество пользователей «Сферума» в Max составило 10 млн](https://habr.com/ru/news/959588/?utm_campaign=959588&utm_source=habrahabr&utm_medium=rss)
-- [YouTube тестирует систему поиска дипфейков с лицами блогеров](https://habr.com/ru/companies/bothub/news/959486/?utm_campaign=959486&utm_source=habrahabr&utm_medium=rss)
-- [Новый эксперт сообщества — Евгений Сулейманов](https://habr.com/ru/companies/spring_aio/news/959548/?utm_campaign=959548&utm_source=habrahabr&utm_medium=rss)
-- [Meta* запустила инструменты защиты от мошенничества для WhatsApp и Messenger](https://habr.com/ru/news/959530/?utm_campaign=959530&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge предлагает попробовать Copilot, когда пользователи переходят на сайт ChatGPT](https://habr.com/ru/news/959498/?utm_campaign=959498&utm_source=habrahabr&utm_medium=rss)
+- [Встроенный в Windows 11 игровой ассистент Gaming Copilot без уведомления собирает информацию об игровом процессе](https://habr.com/ru/news/959612/?utm_campaign=959612&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь безопасности ИИ раскритиковал браузер ChatGPT Atlas](https://habr.com/ru/news/959610/?utm_campaign=959610&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая компактная модель — LFM2-VL-3B](https://habr.com/ru/companies/bothub/news/959414/?utm_campaign=959414&utm_source=habrahabr&utm_medium=rss)
+- [Вышла tiny11 25H2 — упрощённая версия Windows 11 25H2](https://habr.com/ru/news/959598/?utm_campaign=959598&utm_source=habrahabr&utm_medium=rss)
+- [Новый релиз службы каталогов MULTIDIRECTORY для Community-версии и Enterprise](https://habr.com/ru/companies/multifactor/news/959596/?utm_campaign=959596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
