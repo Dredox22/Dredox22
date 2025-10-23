@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube тестирует систему поиска дипфейков с лицами блогеров](https://habr.com/ru/companies/bothub/news/959486/?utm_campaign=959486&utm_source=habrahabr&utm_medium=rss)
+- [Новый эксперт сообщества — Евгений Сулейманов](https://habr.com/ru/companies/spring_aio/news/959548/?utm_campaign=959548&utm_source=habrahabr&utm_medium=rss)
 - [Meta* запустила инструменты защиты от мошенничества для WhatsApp и Messenger](https://habr.com/ru/news/959530/?utm_campaign=959530&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Edge предлагает попробовать Copilot, когда пользователи переходят на сайт ChatGPT](https://habr.com/ru/news/959498/?utm_campaign=959498&utm_source=habrahabr&utm_medium=rss)
 - [Автономный автомобиль впервые в России проехал 400 км без вмешательства человека](https://habr.com/ru/companies/yandex/news/959482/?utm_campaign=959482&utm_source=habrahabr&utm_medium=rss)
-- [Joker 2025, секреты хорошего доклада, Devoxx Belgium | Spring АйО Подкаст №39](https://habr.com/ru/companies/spring_aio/news/959480/?utm_campaign=959480&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT установил рекорд удержания пользователей](https://habr.com/ru/companies/bothub/news/959420/?utm_campaign=959420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
