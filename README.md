@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Квантовый компьютер Google Quantum AI перешел от бенчмарков к реальным задачам](https://habr.com/ru/news/959450/?utm_campaign=959450&utm_source=habrahabr&utm_medium=rss)
+- [Amazon сделал умные очки для курьеров](https://habr.com/ru/companies/bothub/news/959434/?utm_campaign=959434&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отключила функцию просмотра в «Проводнике» для загруженных из Интернета файлов](https://habr.com/ru/news/959404/?utm_campaign=959404&utm_source=habrahabr&utm_medium=rss)
 - [Amazon якобы заменила 40% инженеров AWS искусственным интеллектом, а потом случился сбой](https://habr.com/ru/companies/bothub/news/959410/?utm_campaign=959410&utm_source=habrahabr&utm_medium=rss)
 - [Мы обновили Android-приложение RUVDS](https://habr.com/ru/companies/ruvds/news/959396/?utm_campaign=959396&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch Traffic Monitor интегрирован с решением Docs Security Suite](https://habr.com/ru/companies/infowatch/news/959394/?utm_campaign=959394&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic и Google обсуждают крупнейший облачный контракт в истории ИИ](https://habr.com/ru/companies/bothub/news/959380/?utm_campaign=959380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
