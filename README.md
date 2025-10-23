@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Квантовый компьютер Google Quantum AI перешел от бенчмарков к реальным задачам](https://habr.com/ru/news/959450/?utm_campaign=959450&utm_source=habrahabr&utm_medium=rss)
-- [Amazon сделал умные очки для курьеров](https://habr.com/ru/companies/bothub/news/959434/?utm_campaign=959434&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отключила функцию просмотра в «Проводнике» для загруженных из Интернета файлов](https://habr.com/ru/news/959404/?utm_campaign=959404&utm_source=habrahabr&utm_medium=rss)
-- [Amazon якобы заменила 40% инженеров AWS искусственным интеллектом, а потом случился сбой](https://habr.com/ru/companies/bothub/news/959410/?utm_campaign=959410&utm_source=habrahabr&utm_medium=rss)
-- [Мы обновили Android-приложение RUVDS](https://habr.com/ru/companies/ruvds/news/959396/?utm_campaign=959396&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge предлагает попробовать Copilot, когда пользователи переходят на сайт ChatGPT](https://habr.com/ru/news/959498/?utm_campaign=959498&utm_source=habrahabr&utm_medium=rss)
+- [Автономный автомобиль впервые в России проехал 400 км без вмешательства человека](https://habr.com/ru/companies/yandex/news/959482/?utm_campaign=959482&utm_source=habrahabr&utm_medium=rss)
+- [Joker 2025, секреты хорошего доклада, Devoxx Belgium | Spring АйО Подкаст №39](https://habr.com/ru/companies/spring_aio/news/959480/?utm_campaign=959480&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT установил рекорд удержания пользователей](https://habr.com/ru/companies/bothub/news/959420/?utm_campaign=959420&utm_source=habrahabr&utm_medium=rss)
+- [Snapchat открыла ИИ-сервис для пользователей в США](https://habr.com/ru/news/959464/?utm_campaign=959464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
