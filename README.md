@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс работает над Physical AI: универсальный ИИ-мозг для роботов и автономного транспорта](https://habr.com/ru/companies/yandex/news/959106/?utm_campaign=959106&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: контроль за работой белых хакеров предложили передать ФСБ, ФСТЭК и НКЦКИ](https://habr.com/ru/news/959268/?utm_campaign=959268&utm_source=habrahabr&utm_medium=rss)
 - [Вышел AnyDesk 9.6.3 для Windows](https://habr.com/ru/news/958926/?utm_campaign=958926&utm_source=habrahabr&utm_medium=rss)
 - [В библиотеках Rust для формата TAR обнаружена уязвимость TARmageddon, позволяющая распаковывать из вложенного архива](https://habr.com/ru/news/959156/?utm_campaign=959156&utm_source=habrahabr&utm_medium=rss)
 - [Релиз ImageViewer 1.8.2 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/958914/?utm_campaign=958914&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система виртуализации VirtualBox 7.2.4](https://habr.com/ru/news/958958/?utm_campaign=958958&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Windows 11 больше не могут отключать автообновления приложений из Microsoft Store](https://habr.com/ru/news/959204/?utm_campaign=959204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
