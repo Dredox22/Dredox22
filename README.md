@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сообществе проекта Fedora приняли правила использования ИИ-инструментов при разработке Fedora Linux](https://habr.com/ru/news/959316/?utm_campaign=959316&utm_source=habrahabr&utm_medium=rss)
 - [Lomography выпустила плёночную камеру с зарядкой через USB-C](https://habr.com/ru/news/959302/?utm_campaign=959302&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила приложение Tea из App Store за «несоблюдение условий использования»](https://habr.com/ru/news/959292/?utm_campaign=959292&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволила изменять стиль изображений в Paint](https://habr.com/ru/news/959282/?utm_campaign=959282&utm_source=habrahabr&utm_medium=rss)
 - [Apple сократила производство ультратонкого смартфона iPhone Air из-за слабых продаж](https://habr.com/ru/news/959274/?utm_campaign=959274&utm_source=habrahabr&utm_medium=rss)
-- [CamundaCon New York 2025 &lpar;часть 4&rpar;](https://habr.com/ru/news/958516/?utm_campaign=958516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
