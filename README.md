@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX﻿ деактивировала более 2500 терминалов Starlink в Мьянме](https://habr.com/ru/news/959632/?utm_campaign=959632&utm_source=habrahabr&utm_medium=rss)
+- [PyTorch представил фреймворк, который превращает тысячи GPU в один логический компьютер](https://habr.com/ru/companies/bothub/news/959390/?utm_campaign=959390&utm_source=habrahabr&utm_medium=rss)
 - [Региональные операторы связи призывали поменять правила маркировки вызовов](https://habr.com/ru/news/959616/?utm_campaign=959616&utm_source=habrahabr&utm_medium=rss)
 - [Встроенный в Windows 11 игровой ассистент Gaming Copilot без уведомления собирает информацию об игровом процессе](https://habr.com/ru/news/959612/?utm_campaign=959612&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь безопасности ИИ раскритиковал браузер ChatGPT Atlas](https://habr.com/ru/news/959610/?utm_campaign=959610&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая компактная модель — LFM2-VL-3B](https://habr.com/ru/companies/bothub/news/959414/?utm_campaign=959414&utm_source=habrahabr&utm_medium=rss)
-- [Вышла tiny11 25H2 — упрощённая версия Windows 11 25H2](https://habr.com/ru/news/959598/?utm_campaign=959598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
