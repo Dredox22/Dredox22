@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как проводить нагрузочное тестирование на Python](https://habr.com/ru/companies/selectel/news/959590/?utm_campaign=959590&utm_source=habrahabr&utm_medium=rss)
 - [Игра «Спарта 2035» 4 ноября выходит в релиз](https://habr.com/ru/news/959800/?utm_campaign=959800&utm_source=habrahabr&utm_medium=rss)
 - [Реестр оценки стоимости патентов, тайная разработка Porsche и споры вокруг бренда Bitcoin: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/959798/?utm_campaign=959798&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Android сообщили о сбоях в работе Spotify — приложение зависает и вылетает при подключении к Wi-Fi](https://habr.com/ru/news/959782/?utm_campaign=959782&utm_source=habrahabr&utm_medium=rss)
 - [Для новых версий Claude приобретут 1 млн ИИ-ускорителей Google](https://habr.com/ru/news/959772/?utm_campaign=959772&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI покупает Sky — ИИ-интерфейс для Mac](https://habr.com/ru/news/959770/?utm_campaign=959770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
