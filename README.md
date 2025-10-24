@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз OpenBSD 7.8](https://habr.com/ru/news/958932/?utm_campaign=958932&utm_source=habrahabr&utm_medium=rss)
 - [Вышел продвинутый менеджер буфера обмена с опциями редактирования и создания сценариев CopyQ 13.0](https://habr.com/ru/news/959272/?utm_campaign=959272&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: студентам колледжа в Екатеринбурге пригрозили отчислением за отказ установить Max](https://habr.com/ru/news/959706/?utm_campaign=959706&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Glow 25.14 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/959488/?utm_campaign=959488&utm_source=habrahabr&utm_medium=rss)
 - [Релиз СУБД MySQL 9.5.0](https://habr.com/ru/news/959624/?utm_campaign=959624&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Minimal PDF Compress 1.9.5 — GUI для Ghostscript под Windows](https://habr.com/ru/news/959392/?utm_campaign=959392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
