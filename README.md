@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google объявил о новом прорыве в квантовых вычислениях](https://habr.com/ru/companies/bothub/news/960014/?utm_campaign=960014&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft скопировал OpenAI Atlas и встроил его в Edge](https://habr.com/ru/companies/bothub/news/960010/?utm_campaign=960010&utm_source=habrahabr&utm_medium=rss)
+- [Пока ИИ обещает снять нагрузку, его разработчики пашут до 100 часов в неделю](https://habr.com/ru/news/960006/?utm_campaign=960006&utm_source=habrahabr&utm_medium=rss)
 - [Ant Group представила исследование об обучении триллионных reasoning-моделей](https://habr.com/ru/companies/bothub/news/959930/?utm_campaign=959930&utm_source=habrahabr&utm_medium=rss)
 - [Учёные представили метод, который ускоряет self-attention до 4.4×](https://habr.com/ru/companies/bothub/news/959936/?utm_campaign=959936&utm_source=habrahabr&utm_medium=rss)
-- [Трамп помиловал основателя Binance](https://habr.com/ru/companies/bothub/news/959944/?utm_campaign=959944&utm_source=habrahabr&utm_medium=rss)
-- [Kepios: на октябрь 2025 года интернетом пользуется более 70% населения Земли](https://habr.com/ru/news/959974/?utm_campaign=959974&utm_source=habrahabr&utm_medium=rss)
-- [Исландский программист успешно запустил Doom на спутнике OPS-SAT Европейского космического агентства](https://habr.com/ru/news/959940/?utm_campaign=959940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
