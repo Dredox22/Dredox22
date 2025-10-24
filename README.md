@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: студентам колледжа в Екатеринбурге пригрозили отчислением за отказ установить Max](https://habr.com/ru/news/959706/?utm_campaign=959706&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Glow 25.14 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/959488/?utm_campaign=959488&utm_source=habrahabr&utm_medium=rss)
+- [Релиз СУБД MySQL 9.5.0](https://habr.com/ru/news/959624/?utm_campaign=959624&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Minimal PDF Compress 1.9.5 — GUI для Ghostscript под Windows](https://habr.com/ru/news/959392/?utm_campaign=959392&utm_source=habrahabr&utm_medium=rss)
 - [Google представила новый бесплатный инструмент для вайб-кодинга](https://habr.com/ru/news/959640/?utm_campaign=959640&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX﻿ деактивировала более 2500 терминалов Starlink в Мьянме](https://habr.com/ru/news/959632/?utm_campaign=959632&utm_source=habrahabr&utm_medium=rss)
-- [PyTorch представил фреймворк, который превращает тысячи GPU в один логический компьютер](https://habr.com/ru/companies/bothub/news/959390/?utm_campaign=959390&utm_source=habrahabr&utm_medium=rss)
-- [Региональные операторы связи призывали поменять правила маркировки вызовов](https://habr.com/ru/news/959616/?utm_campaign=959616&utm_source=habrahabr&utm_medium=rss)
-- [Встроенный в Windows 11 игровой ассистент Gaming Copilot без уведомления собирает информацию об игровом процессе](https://habr.com/ru/news/959612/?utm_campaign=959612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
