@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fujifilm представила модель X-T30 с поддержкой видео 6K и диском имитации плёнки](https://habr.com/ru/news/959910/?utm_campaign=959910&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-платформа Hugging Face начала сотрудничать с антивирусным сканером VirusTotal](https://habr.com/ru/news/959900/?utm_campaign=959900&utm_source=habrahabr&utm_medium=rss)
+- [Google Fi получит ИИ-фильтры шума и RCS-сообщения](https://habr.com/ru/news/959888/?utm_campaign=959888&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI покупает разработчиков ИИ-ассистента для Mac](https://habr.com/ru/companies/bothub/news/959884/?utm_campaign=959884&utm_source=habrahabr&utm_medium=rss)
 - [Как проводить нагрузочное тестирование на Python](https://habr.com/ru/companies/selectel/news/959590/?utm_campaign=959590&utm_source=habrahabr&utm_medium=rss)
-- [Игра «Спарта 2035» 4 ноября выходит в релиз](https://habr.com/ru/news/959800/?utm_campaign=959800&utm_source=habrahabr&utm_medium=rss)
-- [Реестр оценки стоимости патентов, тайная разработка Porsche и споры вокруг бренда Bitcoin: дайджест новостей](https://habr.com/ru/companies/onlinepatent/news/959798/?utm_campaign=959798&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Android сообщили о сбоях в работе Spotify — приложение зависает и вылетает при подключении к Wi-Fi](https://habr.com/ru/news/959782/?utm_campaign=959782&utm_source=habrahabr&utm_medium=rss)
-- [Для новых версий Claude приобретут 1 млн ИИ-ускорителей Google](https://habr.com/ru/news/959772/?utm_campaign=959772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
