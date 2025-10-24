@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исландский программист успешно запустил Doom на спутнике OPS-SAT Европейского космического агентства](https://habr.com/ru/news/959940/?utm_campaign=959940&utm_source=habrahabr&utm_medium=rss)
+- [Центробанк РФ представил основные показатели по СБП за третий квартал 2025 года](https://habr.com/ru/news/959934/?utm_campaign=959934&utm_source=habrahabr&utm_medium=rss)
+- [Surfshark запустила блокировщик веб-контента с функцией конфиденциальности](https://habr.com/ru/news/959922/?utm_campaign=959922&utm_source=habrahabr&utm_medium=rss)
+- [В Кремниевой долине опасаются угрозы промышленного шпионажа через личные отношения](https://habr.com/ru/companies/bothub/news/959896/?utm_campaign=959896&utm_source=habrahabr&utm_medium=rss)
 - [Fujifilm представила модель X-T30 с поддержкой видео 6K и диском имитации плёнки](https://habr.com/ru/news/959910/?utm_campaign=959910&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-платформа Hugging Face начала сотрудничать с антивирусным сканером VirusTotal](https://habr.com/ru/news/959900/?utm_campaign=959900&utm_source=habrahabr&utm_medium=rss)
-- [Google Fi получит ИИ-фильтры шума и RCS-сообщения](https://habr.com/ru/news/959888/?utm_campaign=959888&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI покупает разработчиков ИИ-ассистента для Mac](https://habr.com/ru/companies/bothub/news/959884/?utm_campaign=959884&utm_source=habrahabr&utm_medium=rss)
-- [Как проводить нагрузочное тестирование на Python](https://habr.com/ru/companies/selectel/news/959590/?utm_campaign=959590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
