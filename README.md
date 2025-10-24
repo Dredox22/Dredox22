@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Американские электронные отходы вызывают «скрытое цунами» в Юго-Восточной Азии](https://habr.com/ru/news/959734/?utm_campaign=959734&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft закрыла уязвимость ASP.NET Core с рейтингом 9,9 из 10 по шкале CVSS](https://habr.com/ru/news/959720/?utm_campaign=959720&utm_source=habrahabr&utm_medium=rss)
 - [В Китае при поддержке Huawei инженеры работают над стандартом UBIOS для замены UEFI](https://habr.com/ru/news/959726/?utm_campaign=959726&utm_source=habrahabr&utm_medium=rss)
 - [Ошибка в команде date в Ubuntu 25.10 нарушила автоматическое обновление системы](https://habr.com/ru/news/959722/?utm_campaign=959722&utm_source=habrahabr&utm_medium=rss)
 - [РКН: в России в 2025 году заблокировано 258 VPN-сервисов](https://habr.com/ru/news/959718/?utm_campaign=959718&utm_source=habrahabr&utm_medium=rss)
-- [CamundaCon New York 2025 &lpar;часть 5&rpar;](https://habr.com/ru/news/958528/?utm_campaign=958528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
