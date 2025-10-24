@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ant Group представила исследование об обучении триллионных reasoning-моделей](https://habr.com/ru/companies/bothub/news/959930/?utm_campaign=959930&utm_source=habrahabr&utm_medium=rss)
+- [Учёные представили метод, который ускоряет self-attention до 4.4×](https://habr.com/ru/companies/bothub/news/959936/?utm_campaign=959936&utm_source=habrahabr&utm_medium=rss)
 - [Трамп помиловал основателя Binance](https://habr.com/ru/companies/bothub/news/959944/?utm_campaign=959944&utm_source=habrahabr&utm_medium=rss)
 - [Kepios: на октябрь 2025 года интернетом пользуется более 70% населения Земли](https://habr.com/ru/news/959974/?utm_campaign=959974&utm_source=habrahabr&utm_medium=rss)
 - [Исландский программист успешно запустил Doom на спутнике OPS-SAT Европейского космического агентства](https://habr.com/ru/news/959940/?utm_campaign=959940&utm_source=habrahabr&utm_medium=rss)
-- [Центробанк РФ представил основные показатели по СБП за третий квартал 2025 года](https://habr.com/ru/news/959934/?utm_campaign=959934&utm_source=habrahabr&utm_medium=rss)
-- [Surfshark запустила блокировщик веб-контента с функцией конфиденциальности](https://habr.com/ru/news/959922/?utm_campaign=959922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
