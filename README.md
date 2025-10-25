@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотрудники OpenAI боятся, что вместо AGI компания построит второй Facebook*](https://habr.com/ru/news/960162/?utm_campaign=960162&utm_source=habrahabr&utm_medium=rss)
+- [НИЦ Телеком предлагает начать подготовку к запуску 6G в России](https://habr.com/ru/news/960152/?utm_campaign=960152&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Embox 0.7 с поддержкой Milandr MDR1206FI, Baikal-Electronics Baikal-U и KOMDIV64](https://habr.com/ru/news/960146/?utm_campaign=960146&utm_source=habrahabr&utm_medium=rss)
 - [МВД рассказало, что заблокировало 160 тысяч телефонных номеров в аренду](https://habr.com/ru/news/960126/?utm_campaign=960126&utm_source=habrahabr&utm_medium=rss)
 - [Copilot стал умнее и быстрее: GitHub представил новую модель для автодополнения кода](https://habr.com/ru/news/960116/?utm_campaign=960116&utm_source=habrahabr&utm_medium=rss)
-- [Китайские ИИ лучшие в торговле криптовалютой. Gemini 2.5 Pro и GPT-5 — в большом минусе](https://habr.com/ru/news/960114/?utm_campaign=960114&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала поставки серверов, выпущенных в США](https://habr.com/ru/news/960092/?utm_campaign=960092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
