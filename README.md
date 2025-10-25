@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT, Grok и Claude выступили в роли присяжных в судебном эксперименте](https://habr.com/ru/news/960196/?utm_campaign=960196&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила Swift SDK для Android](https://habr.com/ru/news/960194/?utm_campaign=960194&utm_source=habrahabr&utm_medium=rss)
+- [В ПНИПУ представили опытный образец портативного интерферометра для контроля шума авиадвигателей](https://habr.com/ru/news/960186/?utm_campaign=960186&utm_source=habrahabr&utm_medium=rss)
 - [Международная группа учёных создала перовскитный мемристор, выдерживающий 1,5 тысячи циклов перезаписи](https://habr.com/ru/news/960182/?utm_campaign=960182&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники OpenAI боятся, что вместо AGI компания построит второй Facebook*](https://habr.com/ru/news/960162/?utm_campaign=960162&utm_source=habrahabr&utm_medium=rss)
-- [НИЦ Телеком предлагает начать подготовку к запуску 6G в России](https://habr.com/ru/news/960152/?utm_campaign=960152&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Embox 0.7 с поддержкой Milandr MDR1206FI, Baikal-Electronics Baikal-U и KOMDIV64](https://habr.com/ru/news/960146/?utm_campaign=960146&utm_source=habrahabr&utm_medium=rss)
-- [МВД рассказало, что заблокировало 160 тысяч телефонных номеров в аренду](https://habr.com/ru/news/960126/?utm_campaign=960126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
