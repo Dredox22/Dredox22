@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры использовали тысячи видеороликов на YouTube для распространения вредоносного ПО](https://habr.com/ru/news/960070/?utm_campaign=960070&utm_source=habrahabr&utm_medium=rss)
 - [Вышел инструментарий с комплектом аудиопрограмм в одном приложении KataLib 5.0.0.0 для Windows](https://habr.com/ru/news/960004/?utm_campaign=960004&utm_source=habrahabr&utm_medium=rss)
 - [PDFsam &lpar;PDF Split And Merge&rpar; 5.4.1](https://habr.com/ru/news/959988/?utm_campaign=959988&utm_source=habrahabr&utm_medium=rss)
 - [В Белоруссии заблокировали «ВКонтакте» по решению КГБ](https://habr.com/ru/news/960040/?utm_campaign=960040&utm_source=habrahabr&utm_medium=rss)
 - [Ведущий исследователь OpenAI рассказал о будущем ИИ](https://habr.com/ru/news/960038/?utm_campaign=960038&utm_source=habrahabr&utm_medium=rss)
-- [Google объявил о новом прорыве в квантовых вычислениях](https://habr.com/ru/companies/bothub/news/960014/?utm_campaign=960014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
