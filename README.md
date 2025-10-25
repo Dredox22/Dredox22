@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot стал умнее и быстрее: GitHub представил новую модель для автодополнения кода](https://habr.com/ru/news/960116/?utm_campaign=960116&utm_source=habrahabr&utm_medium=rss)
+- [Китайские ИИ лучшие в торговле криптовалютой. Gemini 2.5 Pro и GPT-5 — в большом минусе](https://habr.com/ru/news/960114/?utm_campaign=960114&utm_source=habrahabr&utm_medium=rss)
 - [Apple начала поставки серверов, выпущенных в США](https://habr.com/ru/news/960092/?utm_campaign=960092&utm_source=habrahabr&utm_medium=rss)
 - [Античит Faceit прекратил поддерживать Windows 10](https://habr.com/ru/news/960086/?utm_campaign=960086&utm_source=habrahabr&utm_medium=rss)
 - [Британский суд признал незаконной комиссию Apple в 30%](https://habr.com/ru/news/960080/?utm_campaign=960080&utm_source=habrahabr&utm_medium=rss)
-- [Alaska Airlines полностью останавливала деятельность после сбоя в ЦОД](https://habr.com/ru/news/960076/?utm_campaign=960076&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры использовали тысячи видеороликов на YouTube для распространения вредоносного ПО](https://habr.com/ru/news/960070/?utm_campaign=960070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
