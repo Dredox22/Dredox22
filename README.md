@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый инструментарий с комплектом аудиопрограмм в одном приложении KataLib 5.0.0.0 для Windows](https://habr.com/ru/news/960004/?utm_campaign=960004&utm_source=habrahabr&utm_medium=rss)
+- [PDFsam &lpar;PDF Split And Merge&rpar; 5.4.1](https://habr.com/ru/news/959988/?utm_campaign=959988&utm_source=habrahabr&utm_medium=rss)
 - [В Белоруссии заблокировали «ВКонтакте» по решению КГБ](https://habr.com/ru/news/960040/?utm_campaign=960040&utm_source=habrahabr&utm_medium=rss)
 - [Ведущий исследователь OpenAI рассказал о будущем ИИ](https://habr.com/ru/news/960038/?utm_campaign=960038&utm_source=habrahabr&utm_medium=rss)
 - [Google объявил о новом прорыве в квантовых вычислениях](https://habr.com/ru/companies/bothub/news/960014/?utm_campaign=960014&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft скопировал OpenAI Atlas и встроил его в Edge](https://habr.com/ru/companies/bothub/news/960010/?utm_campaign=960010&utm_source=habrahabr&utm_medium=rss)
-- [Пока ИИ обещает снять нагрузку, его разработчики пашут до 100 часов в неделю](https://habr.com/ru/news/960006/?utm_campaign=960006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
