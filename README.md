@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift на Android. Релиз JNIKit 2.11.0: память и 2D массивы](https://habr.com/ru/news/960240/?utm_campaign=960240&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Vinari OS 5.0.0 Krypton на базе Debian Linux с GNOME 48.4, обновленными приложениями и новым интерфейсом](https://habr.com/ru/news/960224/?utm_campaign=960224&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта для редактирования видео LosslessCut 3.66](https://habr.com/ru/news/960158/?utm_campaign=960158&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust Coreutils 0.3.0](https://habr.com/ru/news/960140/?utm_campaign=960140&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT, Grok и Claude выступили в роли присяжных в судебном эксперименте](https://habr.com/ru/news/960196/?utm_campaign=960196&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила Swift SDK для Android](https://habr.com/ru/news/960194/?utm_campaign=960194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
