@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Vinari OS 5.0.0 Krypton на базе Debian Linux с GNOME 48.4, обновленными приложениями и новым интерфейсом](https://habr.com/ru/news/960224/?utm_campaign=960224&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта для редактирования видео LosslessCut 3.66](https://habr.com/ru/news/960158/?utm_campaign=960158&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Rust Coreutils 0.3.0](https://habr.com/ru/news/960140/?utm_campaign=960140&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT, Grok и Claude выступили в роли присяжных в судебном эксперименте](https://habr.com/ru/news/960196/?utm_campaign=960196&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила Swift SDK для Android](https://habr.com/ru/news/960194/?utm_campaign=960194&utm_source=habrahabr&utm_medium=rss)
-- [В ПНИПУ представили опытный образец портативного интерферометра для контроля шума авиадвигателей](https://habr.com/ru/news/960186/?utm_campaign=960186&utm_source=habrahabr&utm_medium=rss)
-- [Международная группа учёных создала перовскитный мемристор, выдерживающий 1,5 тысячи циклов перезаписи](https://habr.com/ru/news/960182/?utm_campaign=960182&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудники OpenAI боятся, что вместо AGI компания построит второй Facebook*](https://habr.com/ru/news/960162/?utm_campaign=960162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
