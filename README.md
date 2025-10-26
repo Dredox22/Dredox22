@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженеры НИТУ МИСИС и КБ «Карфидов Лаб» разработали новые отечественные микромотор-редукторы](https://habr.com/ru/news/960346/?utm_campaign=960346&utm_source=habrahabr&utm_medium=rss)
+- [Учёные из России создали устойчивый люминесцентный материал для рентгеновской визуализации](https://habr.com/ru/news/960344/?utm_campaign=960344&utm_source=habrahabr&utm_medium=rss)
+- [В iFixit оценили ремонтопригодность MacBook Pro M5 на 4 балла из 10](https://habr.com/ru/news/960208/?utm_campaign=960208&utm_source=habrahabr&utm_medium=rss)
 - [Reddit в иске показали, как поймали Perplexity в ловушку](https://habr.com/ru/news/960312/?utm_campaign=960312&utm_source=habrahabr&utm_medium=rss)
 - [Глава Microsoft AI: компания не будет создавать ИИ для эротического контента, так как это опасно и недопустимо](https://habr.com/ru/news/960292/?utm_campaign=960292&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI работает над собственным ИИ для создания музыки](https://habr.com/ru/news/960282/?utm_campaign=960282&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: функция Gaming Copilot использует скриншоты для понимания внутриигровых событий, а не для обучения ИИ-моделей](https://habr.com/ru/news/960260/?utm_campaign=960260&utm_source=habrahabr&utm_medium=rss)
-- [Swift на Android. Релиз JNIKit 2.11.0: память и 2D массивы](https://habr.com/ru/news/960240/?utm_campaign=960240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
