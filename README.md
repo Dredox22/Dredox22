@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Microsoft AI: компания не будет создавать ИИ для эротического контента, так как это опасно и недопустимо](https://habr.com/ru/news/960292/?utm_campaign=960292&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI работает над собственным ИИ для создания музыки](https://habr.com/ru/news/960282/?utm_campaign=960282&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: функция Gaming Copilot использует скриншоты для понимания внутриигровых событий, а не для обучения ИИ-моделей](https://habr.com/ru/news/960260/?utm_campaign=960260&utm_source=habrahabr&utm_medium=rss)
 - [Swift на Android. Релиз JNIKit 2.11.0: память и 2D массивы](https://habr.com/ru/news/960240/?utm_campaign=960240&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Vinari OS 5.0.0 Krypton на базе Debian Linux с GNOME 48.4, обновленными приложениями и новым интерфейсом](https://habr.com/ru/news/960224/?utm_campaign=960224&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта для редактирования видео LosslessCut 3.66](https://habr.com/ru/news/960158/?utm_campaign=960158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
