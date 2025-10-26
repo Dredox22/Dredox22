@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 Pro помог математику закрыть задачу оптимизации, существовавшую 42 года](https://habr.com/ru/news/960350/?utm_campaign=960350&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» начал применять роботов‑пауков для проверки сварных швов атомных реакторов](https://habr.com/ru/news/960348/?utm_campaign=960348&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры НИТУ МИСИС и КБ «Карфидов Лаб» разработали новые отечественные микромотор-редукторы](https://habr.com/ru/news/960346/?utm_campaign=960346&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из России создали устойчивый люминесцентный материал для рентгеновской визуализации](https://habr.com/ru/news/960344/?utm_campaign=960344&utm_source=habrahabr&utm_medium=rss)
 - [В iFixit оценили ремонтопригодность MacBook Pro M5 на 4 балла из 10](https://habr.com/ru/news/960208/?utm_campaign=960208&utm_source=habrahabr&utm_medium=rss)
-- [Reddit в иске показали, как поймали Perplexity в ловушку](https://habr.com/ru/news/960312/?utm_campaign=960312&utm_source=habrahabr&utm_medium=rss)
-- [Глава Microsoft AI: компания не будет создавать ИИ для эротического контента, так как это опасно и недопустимо](https://habr.com/ru/news/960292/?utm_campaign=960292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
