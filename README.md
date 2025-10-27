@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запущена платформа сертификации Canonical Academy для профессионалов Linux и Ubuntu](https://habr.com/ru/news/960304/?utm_campaign=960304&utm_source=habrahabr&utm_medium=rss)
+- [Вышел браузер с минималистичным графическим интерфейсом qutebrowser 3.6](https://habr.com/ru/news/960316/?utm_campaign=960316&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Patina 13.0 — реализация прошивки UEFI на Rust](https://habr.com/ru/news/960314/?utm_campaign=960314&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 Pro помог математику закрыть задачу оптимизации, существовавшую 42 года](https://habr.com/ru/news/960350/?utm_campaign=960350&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» начал применять роботов‑пауков для проверки сварных швов атомных реакторов](https://habr.com/ru/news/960348/?utm_campaign=960348&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры НИТУ МИСИС и КБ «Карфидов Лаб» разработали новые отечественные микромотор-редукторы](https://habr.com/ru/news/960346/?utm_campaign=960346&utm_source=habrahabr&utm_medium=rss)
-- [Учёные из России создали устойчивый люминесцентный материал для рентгеновской визуализации](https://habr.com/ru/news/960344/?utm_campaign=960344&utm_source=habrahabr&utm_medium=rss)
-- [В iFixit оценили ремонтопригодность MacBook Pro M5 на 4 балла из 10](https://habr.com/ru/news/960208/?utm_campaign=960208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
