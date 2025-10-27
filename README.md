@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI делает собственный генератор музыки](https://habr.com/ru/companies/bothub/news/960590/?utm_campaign=960590&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba выпустила умные очки с Qwen](https://habr.com/ru/companies/bothub/news/960582/?utm_campaign=960582&utm_source=habrahabr&utm_medium=rss)
 - [Koda CLI: бесплатный AI-помощник для разработчика в терминале](https://habr.com/ru/companies/koda/news/959604/?utm_campaign=959604&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek удвоил счет в криптовалюте всего за 9 дней](https://habr.com/ru/news/960536/?utm_campaign=960536&utm_source=habrahabr&utm_medium=rss)
 - [В бете Telegram для Android появилось подобие Liquid Glass](https://habr.com/ru/news/960534/?utm_campaign=960534&utm_source=habrahabr&utm_medium=rss)
-- [Митап «QA в действии: тесты, автоматизация, конфликты»](https://habr.com/ru/companies/usetech/news/960528/?utm_campaign=960528&utm_source=habrahabr&utm_medium=rss)
-- [Студенты против рынка: как 80 команд на Finam x HSE AI Hackathon создавали торговых агентов и нейросети для трейдинга](https://habr.com/ru/companies/finam_broker/news/960508/?utm_campaign=960508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
