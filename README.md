@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Ростехе» разработали дистанционный уничтожитель печатных плат](https://habr.com/ru/news/960680/?utm_campaign=960680&utm_source=habrahabr&utm_medium=rss)
 - [«Т1 Интеграция» выпустила новый программный инженерный комплекс «Таумерикс»](https://habr.com/ru/news/960674/?utm_campaign=960674&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI рассказали о важном обновлении ChatGPT](https://habr.com/ru/news/960664/?utm_campaign=960664&utm_source=habrahabr&utm_medium=rss)
 - [Apple открыла Swift для Android](https://habr.com/ru/companies/bothub/news/960584/?utm_campaign=960584&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax представила новую модель для кодинга и AI-агентов](https://habr.com/ru/companies/bothub/news/960604/?utm_campaign=960604&utm_source=habrahabr&utm_medium=rss)
-- [Проект Ubuntu Unity сообщил, что нуждается в большем количестве разработчиков для выживания](https://habr.com/ru/news/960638/?utm_campaign=960638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
