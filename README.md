@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Kuaishou Technology представила новую генеративную модель SVG](https://habr.com/ru/companies/bothub/news/960616/?utm_campaign=960616&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA представила модель, которая анализирует звук, речь и музыку](https://habr.com/ru/companies/bothub/news/960610/?utm_campaign=960610&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram Wallet появилась биржа токенизированных акций американских компаний и фондов](https://habr.com/ru/news/960596/?utm_campaign=960596&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI делает собственный генератор музыки](https://habr.com/ru/companies/bothub/news/960590/?utm_campaign=960590&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba выпустила умные очки с Qwen](https://habr.com/ru/companies/bothub/news/960582/?utm_campaign=960582&utm_source=habrahabr&utm_medium=rss)
-- [Koda CLI: бесплатный AI-помощник для разработчика в терминале](https://habr.com/ru/companies/koda/news/959604/?utm_campaign=959604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
