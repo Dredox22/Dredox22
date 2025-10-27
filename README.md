@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel сократила 35,5 тысячи рабочих мест менее чем за два года](https://habr.com/ru/news/960474/?utm_campaign=960474&utm_source=habrahabr&utm_medium=rss)
+- [В мессенджере Max зарегистрировано более 50 млн пользователей и отправлено более 3,7 млрд сообщений](https://habr.com/ru/news/960464/?utm_campaign=960464&utm_source=habrahabr&utm_medium=rss)
+- [У моделей ИИ может развиться «инстинкт самосохранения», считают исследователи](https://habr.com/ru/news/960472/?utm_campaign=960472&utm_source=habrahabr&utm_medium=rss)
+- [Альфа-Банк увеличил выплаты по программе поиска уязвимостей до 1 000 000 рублей](https://habr.com/ru/companies/alfa/news/960468/?utm_campaign=960468&utm_source=habrahabr&utm_medium=rss)
 - [EA заключила партнёрство со Stability AI](https://habr.com/ru/news/960420/?utm_campaign=960420&utm_source=habrahabr&utm_medium=rss)
-- [Airbnb выбрал китайского ИИ-агента от Alibaba вместо ChatGPT](https://habr.com/ru/news/960434/?utm_campaign=960434&utm_source=habrahabr&utm_medium=rss)
-- [Полиция США впервые запросила у OpenAI данные пользователя ChatGPT для федерального расследования](https://habr.com/ru/news/960414/?utm_campaign=960414&utm_source=habrahabr&utm_medium=rss)
-- [Статистика работы автоматизированной системы обеспечения безопасности российского сегмента сети Интернет &lpar;АСБИ&rpar; от РКН](https://habr.com/ru/news/960430/?utm_campaign=960430&utm_source=habrahabr&utm_medium=rss)
-- [Скорость сети Starlink в 2025 году выросла в тестах загрузки и выгрузки данных](https://habr.com/ru/news/960408/?utm_campaign=960408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
