@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Скорость сети Starlink в 2025 году выросла в тестах загрузки и выгрузки данных](https://habr.com/ru/news/960408/?utm_campaign=960408&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Bing Wallpaper для Windows 11 открывает Bing.com по клику в любом месте рабочего стола](https://habr.com/ru/news/960402/?utm_campaign=960402&utm_source=habrahabr&utm_medium=rss)
 - [Владелец умного пылесоса рассказал о передаче устройством конфиденциальных данных о его доме](https://habr.com/ru/news/960392/?utm_campaign=960392&utm_source=habrahabr&utm_medium=rss)
 - [Amazon: проблема с DNS-серверами DynamoDB и сбой в работе AWS на 15 часов возникли из-за ошибки в ПО для автоматизации](https://habr.com/ru/news/960394/?utm_campaign=960394&utm_source=habrahabr&utm_medium=rss)
 - [Запущена платформа сертификации Canonical Academy для профессионалов Linux и Ubuntu](https://habr.com/ru/news/960304/?utm_campaign=960304&utm_source=habrahabr&utm_medium=rss)
-- [Вышел браузер с минималистичным графическим интерфейсом qutebrowser 3.6](https://habr.com/ru/news/960316/?utm_campaign=960316&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Patina 13.0 — реализация прошивки UEFI на Rust](https://habr.com/ru/news/960314/?utm_campaign=960314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
