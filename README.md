@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple открыла Swift для Android](https://habr.com/ru/companies/bothub/news/960584/?utm_campaign=960584&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax представила новую модель для кодинга и AI-агентов](https://habr.com/ru/companies/bothub/news/960604/?utm_campaign=960604&utm_source=habrahabr&utm_medium=rss)
 - [Проект Ubuntu Unity сообщил, что нуждается в большем количестве разработчиков для выживания](https://habr.com/ru/news/960638/?utm_campaign=960638&utm_source=habrahabr&utm_medium=rss)
 - [Википедия стремительно теряет аудиторию](https://habr.com/ru/companies/bothub/news/960614/?utm_campaign=960614&utm_source=habrahabr&utm_medium=rss)
 - [Инсайдеры: Apple выпустит ещё несколько профессиональных приложений для iPad](https://habr.com/ru/news/960630/?utm_campaign=960630&utm_source=habrahabr&utm_medium=rss)
-- [Kuaishou Technology представила новую генеративную модель SVG](https://habr.com/ru/companies/bothub/news/960616/?utm_campaign=960616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
