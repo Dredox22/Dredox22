@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [EA заключила партнёрство со Stability AI](https://habr.com/ru/news/960420/?utm_campaign=960420&utm_source=habrahabr&utm_medium=rss)
+- [Airbnb выбрал китайского ИИ-агента от Alibaba вместо ChatGPT](https://habr.com/ru/news/960434/?utm_campaign=960434&utm_source=habrahabr&utm_medium=rss)
+- [Полиция США впервые запросила у OpenAI данные пользователя ChatGPT для федерального расследования](https://habr.com/ru/news/960414/?utm_campaign=960414&utm_source=habrahabr&utm_medium=rss)
+- [Статистика работы автоматизированной системы обеспечения безопасности российского сегмента сети Интернет &lpar;АСБИ&rpar; от РКН](https://habr.com/ru/news/960430/?utm_campaign=960430&utm_source=habrahabr&utm_medium=rss)
 - [Скорость сети Starlink в 2025 году выросла в тестах загрузки и выгрузки данных](https://habr.com/ru/news/960408/?utm_campaign=960408&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Bing Wallpaper для Windows 11 открывает Bing.com по клику в любом месте рабочего стола](https://habr.com/ru/news/960402/?utm_campaign=960402&utm_source=habrahabr&utm_medium=rss)
-- [Владелец умного пылесоса рассказал о передаче устройством конфиденциальных данных о его доме](https://habr.com/ru/news/960392/?utm_campaign=960392&utm_source=habrahabr&utm_medium=rss)
-- [Amazon: проблема с DNS-серверами DynamoDB и сбой в работе AWS на 15 часов возникли из-за ошибки в ПО для автоматизации](https://habr.com/ru/news/960394/?utm_campaign=960394&utm_source=habrahabr&utm_medium=rss)
-- [Запущена платформа сертификации Canonical Academy для профессионалов Linux и Ubuntu](https://habr.com/ru/news/960304/?utm_campaign=960304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
