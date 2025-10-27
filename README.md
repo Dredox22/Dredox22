@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Студенты против рынка: как 80 команд на Finam x HSE AI Hackathon создавали торговых агентов и нейросети для трейдинга](https://habr.com/ru/companies/finam_broker/news/960508/?utm_campaign=960508&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на online митап по тестированию](https://habr.com/ru/companies/cinimex/news/960504/?utm_campaign=960504&utm_source=habrahabr&utm_medium=rss)
+- [Репозиторий Arch Linux AUR снова подвергся DDoS-атаке](https://habr.com/ru/news/960498/?utm_campaign=960498&utm_source=habrahabr&utm_medium=rss)
 - [Поддержка Nginx Unit прекратилась](https://habr.com/ru/news/960488/?utm_campaign=960488&utm_source=habrahabr&utm_medium=rss)
 - [Intel сократила 35,5 тысячи рабочих мест менее чем за два года](https://habr.com/ru/news/960474/?utm_campaign=960474&utm_source=habrahabr&utm_medium=rss)
-- [У моделей ИИ может развиться «инстинкт самосохранения», считают исследователи](https://habr.com/ru/news/960472/?utm_campaign=960472&utm_source=habrahabr&utm_medium=rss)
-- [Альфа-Банк увеличил выплаты по программе поиска уязвимостей до 1 000 000 рублей](https://habr.com/ru/companies/alfa/news/960468/?utm_campaign=960468&utm_source=habrahabr&utm_medium=rss)
-- [EA заключила партнёрство со Stability AI](https://habr.com/ru/news/960420/?utm_campaign=960420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
