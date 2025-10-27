@@ -85,8 +85,8 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поддержка Nginx Unit прекратилась](https://habr.com/ru/news/960488/?utm_campaign=960488&utm_source=habrahabr&utm_medium=rss)
 - [Intel сократила 35,5 тысячи рабочих мест менее чем за два года](https://habr.com/ru/news/960474/?utm_campaign=960474&utm_source=habrahabr&utm_medium=rss)
-- [В мессенджере Max зарегистрировано более 50 млн пользователей и отправлено более 3,7 млрд сообщений](https://habr.com/ru/news/960464/?utm_campaign=960464&utm_source=habrahabr&utm_medium=rss)
 - [У моделей ИИ может развиться «инстинкт самосохранения», считают исследователи](https://habr.com/ru/news/960472/?utm_campaign=960472&utm_source=habrahabr&utm_medium=rss)
 - [Альфа-Банк увеличил выплаты по программе поиска уязвимостей до 1 000 000 рублей](https://habr.com/ru/companies/alfa/news/960468/?utm_campaign=960468&utm_source=habrahabr&utm_medium=rss)
 - [EA заключила партнёрство со Stability AI](https://habr.com/ru/news/960420/?utm_campaign=960420&utm_source=habrahabr&utm_medium=rss)
