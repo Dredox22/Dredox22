@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba представила метод, который помогает языковым моделям рассуждать с помощью кода](https://habr.com/ru/companies/bothub/news/960892/?utm_campaign=960892&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выделит $25 млрд на защиту от рисков ИИ](https://habr.com/ru/news/960998/?utm_campaign=960998&utm_source=habrahabr&utm_medium=rss)
-- [Новый продукт — MULTISTATUS от МУЛЬТИФАКТОР](https://habr.com/ru/companies/multifactor/news/960986/?utm_campaign=960986&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic переговаривает с Google о многомиллиардном облачном контракте](https://habr.com/ru/companies/bothub/news/960890/?utm_campaign=960890&utm_source=habrahabr&utm_medium=rss)
-- [Tsinghua University представили модель, которая масштабирует контекст через визуально-текстовую компрессию](https://habr.com/ru/companies/bothub/news/960906/?utm_campaign=960906&utm_source=habrahabr&utm_medium=rss)
+- [Вышло официальное десктоп-приложение «Яндекс Музыка» для Linux](https://habr.com/ru/news/961032/?utm_campaign=961032&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA H100 впервые отправится в космос](https://habr.com/ru/companies/bothub/news/960878/?utm_campaign=960878&utm_source=habrahabr&utm_medium=rss)
+- [Starcloud-1 первый космический дата-центр с NVIDIA H100](https://habr.com/ru/news/961028/?utm_campaign=961028&utm_source=habrahabr&utm_medium=rss)
+- [Mastercard представила новый инструмент анализа угроз для борьбы с мошенниками](https://habr.com/ru/news/961024/?utm_campaign=961024&utm_source=habrahabr&utm_medium=rss)
+- [Yadro запустила в продажу для бизнеса мини-ПК Kvadra TAU mini](https://habr.com/ru/news/961018/?utm_campaign=961018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
