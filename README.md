@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: в Роскомнадзоре планируют развитие функционала Национальной системы противодействия DDoS-атакам внутри РФ](https://habr.com/ru/news/960750/?utm_campaign=960750&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft позволила IT-администраторам удалять предустановленные приложения из Microsoft Store](https://habr.com/ru/news/960738/?utm_campaign=960738&utm_source=habrahabr&utm_medium=rss)
-- [Техдиректор Block: в техносфере преувеличивают значение чистоты и качества кода](https://habr.com/ru/news/960732/?utm_campaign=960732&utm_source=habrahabr&utm_medium=rss)
-- [Windows предложит пользователям выполнить проверку памяти после сбоев с синим экраном смерти](https://habr.com/ru/news/960728/?utm_campaign=960728&utm_source=habrahabr&utm_medium=rss)
-- [Firefox внедрит интеллектуальные подсказки в адресной строке](https://habr.com/ru/news/960724/?utm_campaign=960724&utm_source=habrahabr&utm_medium=rss)
+- [Мы запустили ИИ-проект для соискателей](https://habr.com/ru/companies/sberbank/news/960620/?utm_campaign=960620&utm_source=habrahabr&utm_medium=rss)
+- [Google опровергла заявления о масштабной утечке данных Gmail](https://habr.com/ru/news/960756/?utm_campaign=960756&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Миры Мурати нашел способ удешевить дообучение ИИ до 30 раз](https://habr.com/ru/news/960780/?utm_campaign=960780&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/960774/?utm_campaign=960774&utm_source=habrahabr&utm_medium=rss)
+- [Соцсеть X призвала перерегистрировать ключи безопасности до 10 ноября под угрозой блокировок аккаунтов](https://habr.com/ru/news/960742/?utm_campaign=960742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
