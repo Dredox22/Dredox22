@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла бета-версия far2l 2.7.0 — порта файлового менеджера Far Manager для Linux, macOS и BSD-систем](https://habr.com/ru/news/960404/?utm_campaign=960404&utm_source=habrahabr&utm_medium=rss)
+- [Вышла бета-версия far2l 2.7.0 — порт файлового менеджера Far Manager для Linux, macOS и BSD-систем](https://habr.com/ru/news/960404/?utm_campaign=960404&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого эмулятора 86Box 5.2](https://habr.com/ru/news/960510/?utm_campaign=960510&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого игрового 3D-движка Open 3D Engine 25.10 &lpar;O3DE&rpar;](https://habr.com/ru/news/960412/?utm_campaign=960412&utm_source=habrahabr&utm_medium=rss)
 - [Вышел кроссплатформенный инструмент с открытым исходным кодом для создания скриншотов Flameshot 13.2](https://habr.com/ru/news/960542/?utm_campaign=960542&utm_source=habrahabr&utm_medium=rss)
