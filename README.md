@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: в Роскомнадзоре планируют развитие функционала Национальной системы противодействия DDoS-атакам внутри РФ](https://habr.com/ru/news/960750/?utm_campaign=960750&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволила IT-администраторам удалять предустановленные приложения из Microsoft Store](https://habr.com/ru/news/960738/?utm_campaign=960738&utm_source=habrahabr&utm_medium=rss)
+- [Техдиректор Block: в техносфере преувеличивают значение чистоты и качества кода](https://habr.com/ru/news/960732/?utm_campaign=960732&utm_source=habrahabr&utm_medium=rss)
 - [Windows предложит пользователям выполнить проверку памяти после сбоев с синим экраном смерти](https://habr.com/ru/news/960728/?utm_campaign=960728&utm_source=habrahabr&utm_medium=rss)
 - [Firefox внедрит интеллектуальные подсказки в адресной строке](https://habr.com/ru/news/960724/?utm_campaign=960724&utm_source=habrahabr&utm_medium=rss)
-- [Вышла бета-версия far2l 2.7.0 — порт файлового менеджера Far Manager для Linux, macOS и BSD-систем](https://habr.com/ru/news/960404/?utm_campaign=960404&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого эмулятора 86Box 5.2](https://habr.com/ru/news/960510/?utm_campaign=960510&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого игрового 3D-движка Open 3D Engine 25.10 &lpar;O3DE&rpar;](https://habr.com/ru/news/960412/?utm_campaign=960412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
