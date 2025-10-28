@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI предупредила, что США могут проиграть ИИ-гонку Китаю](https://habr.com/ru/news/960888/?utm_campaign=960888&utm_source=habrahabr&utm_medium=rss)
+- [Полевые испытания: киберпреступная группа Cloud Atlas атаковала агрокомпании приглашением на форум по растениеводству](https://habr.com/ru/companies/F6/news/960618/?utm_campaign=960618&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск запустил Грокипедию](https://habr.com/ru/companies/bothub/news/960868/?utm_campaign=960868&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» выходит на рынок SIEM: две технологии в одном продукте и до 40% экономии на внедрении](https://habr.com/ru/companies/solarsecurity/news/960824/?utm_campaign=960824&utm_source=habrahabr&utm_medium=rss)
 - [Китайцы снова сделали это: MiniMax-M2 — новая SOTA в опенсорсе для кодинга](https://habr.com/ru/news/960816/?utm_campaign=960816&utm_source=habrahabr&utm_medium=rss)
-- [Firefox-расширения будут должны раскрывать информацию о сборе данных пользователя](https://habr.com/ru/news/960658/?utm_campaign=960658&utm_source=habrahabr&utm_medium=rss)
-- [Мы запустили ИИ-проект для соискателей](https://habr.com/ru/companies/sberbank/news/960620/?utm_campaign=960620&utm_source=habrahabr&utm_medium=rss)
-- [Google опровергла заявления о масштабной утечке данных Gmail](https://habr.com/ru/news/960756/?utm_campaign=960756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
