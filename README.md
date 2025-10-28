@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый продукт — MULTISTATUS от МУЛЬТИФАКТОР](https://habr.com/ru/companies/multifactor/news/960986/?utm_campaign=960986&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic переговаривает с Google о многомиллиардном облачном контракте](https://habr.com/ru/companies/bothub/news/960890/?utm_campaign=960890&utm_source=habrahabr&utm_medium=rss)
 - [Tsinghua University представили модель, которая масштабирует контекст через визуально-текстовую компрессию](https://habr.com/ru/companies/bothub/news/960906/?utm_campaign=960906&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Fedora Linux 43](https://habr.com/ru/news/960936/?utm_campaign=960936&utm_source=habrahabr&utm_medium=rss)
 - [В РФ запустили приложение для продвижения проектов молодых профессионалов от фонда «Будущие лидеры»](https://habr.com/ru/news/960934/?utm_campaign=960934&utm_source=habrahabr&utm_medium=rss)
-- [AMD и Министерство энергетики США объявили о партнёрстве в создании суперкомпьютеров для ИИ стоимостью $1 млрд](https://habr.com/ru/news/960932/?utm_campaign=960932&utm_source=habrahabr&utm_medium=rss)
-- [Известные люди из мира IT призвали запретить разработку сверх-ИИ, пока не будет доказана его безопасность](https://habr.com/ru/news/960920/?utm_campaign=960920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
