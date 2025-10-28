@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла бета-версия far2l 2.7.0 — порта файлового менеджера Far Manager для Linux, macOS и BSD-систем](https://habr.com/ru/news/960404/?utm_campaign=960404&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого эмулятора 86Box 5.2](https://habr.com/ru/news/960510/?utm_campaign=960510&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого игрового 3D-движка Open 3D Engine 25.10 &lpar;O3DE&rpar;](https://habr.com/ru/news/960412/?utm_campaign=960412&utm_source=habrahabr&utm_medium=rss)
+- [Вышел кроссплатформенный инструмент с открытым исходным кодом для создания скриншотов Flameshot 13.2](https://habr.com/ru/news/960542/?utm_campaign=960542&utm_source=habrahabr&utm_medium=rss)
 - [В «Ростехе» разработали дистанционный уничтожитель печатных плат](https://habr.com/ru/news/960680/?utm_campaign=960680&utm_source=habrahabr&utm_medium=rss)
-- [«Т1 Интеграция» выпустила новый программный инженерный комплекс «Таумерикс»](https://habr.com/ru/news/960674/?utm_campaign=960674&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI рассказали о важном обновлении ChatGPT](https://habr.com/ru/news/960664/?utm_campaign=960664&utm_source=habrahabr&utm_medium=rss)
-- [Apple открыла Swift для Android](https://habr.com/ru/companies/bothub/news/960584/?utm_campaign=960584&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax представила новую модель для кодинга и AI-агентов](https://habr.com/ru/companies/bothub/news/960604/?utm_campaign=960604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
