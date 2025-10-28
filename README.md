@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba представила метод, который помогает языковым моделям рассуждать с помощью кода](https://habr.com/ru/companies/bothub/news/960892/?utm_campaign=960892&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выделит $25 млрд на защиту от рисков ИИ](https://habr.com/ru/news/960998/?utm_campaign=960998&utm_source=habrahabr&utm_medium=rss)
 - [Новый продукт — MULTISTATUS от МУЛЬТИФАКТОР](https://habr.com/ru/companies/multifactor/news/960986/?utm_campaign=960986&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic переговаривает с Google о многомиллиардном облачном контракте](https://habr.com/ru/companies/bothub/news/960890/?utm_campaign=960890&utm_source=habrahabr&utm_medium=rss)
 - [Tsinghua University представили модель, которая масштабирует контекст через визуально-текстовую компрессию](https://habr.com/ru/companies/bothub/news/960906/?utm_campaign=960906&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Fedora Linux 43](https://habr.com/ru/news/960936/?utm_campaign=960936&utm_source=habrahabr&utm_medium=rss)
-- [В РФ запустили приложение для продвижения проектов молодых профессионалов от фонда «Будущие лидеры»](https://habr.com/ru/news/960934/?utm_campaign=960934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
