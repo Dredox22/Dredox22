@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tsinghua University представили модель, которая масштабирует контекст через визуально-текстовую компрессию](https://habr.com/ru/companies/bothub/news/960906/?utm_campaign=960906&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Fedora Linux 43](https://habr.com/ru/news/960936/?utm_campaign=960936&utm_source=habrahabr&utm_medium=rss)
+- [В РФ запустили приложение для продвижения проектов молодых профессионалов от фонда «Будущие лидеры»](https://habr.com/ru/news/960934/?utm_campaign=960934&utm_source=habrahabr&utm_medium=rss)
 - [AMD и Министерство энергетики США объявили о партнёрстве в создании суперкомпьютеров для ИИ стоимостью $1 млрд](https://habr.com/ru/news/960932/?utm_campaign=960932&utm_source=habrahabr&utm_medium=rss)
 - [Известные люди из мира IT призвали запретить разработку сверх-ИИ, пока не будет доказана его безопасность](https://habr.com/ru/news/960920/?utm_campaign=960920&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Nature показало, что медицинские ИИ-системы потеряли осторожность](https://habr.com/ru/companies/bothub/news/960896/?utm_campaign=960896&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI предупредила, что США могут проиграть ИИ-гонку Китаю](https://habr.com/ru/news/960888/?utm_campaign=960888&utm_source=habrahabr&utm_medium=rss)
-- [Полевые испытания: киберпреступная группа Cloud Atlas атаковала агрокомпании приглашением на форум по растениеводству](https://habr.com/ru/companies/F6/news/960618/?utm_campaign=960618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
