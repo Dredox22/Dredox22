@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китайцы снова сделали это: MiniMax-M2 — новая SOTA в опенсорсе для кодинга](https://habr.com/ru/news/960816/?utm_campaign=960816&utm_source=habrahabr&utm_medium=rss)
+- [Firefox-расширения будут должны раскрывать информацию о сборе данных пользователя](https://habr.com/ru/news/960658/?utm_campaign=960658&utm_source=habrahabr&utm_medium=rss)
 - [Мы запустили ИИ-проект для соискателей](https://habr.com/ru/companies/sberbank/news/960620/?utm_campaign=960620&utm_source=habrahabr&utm_medium=rss)
 - [Google опровергла заявления о масштабной утечке данных Gmail](https://habr.com/ru/news/960756/?utm_campaign=960756&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Миры Мурати нашел способ удешевить дообучение ИИ до 30 раз](https://habr.com/ru/news/960780/?utm_campaign=960780&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/960774/?utm_campaign=960774&utm_source=habrahabr&utm_medium=rss)
-- [Соцсеть X призвала перерегистрировать ключи безопасности до 10 ноября под угрозой блокировок аккаунтов](https://habr.com/ru/news/960742/?utm_campaign=960742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
