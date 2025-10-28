@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI официально завершила реструктуризацию](https://habr.com/ru/companies/bothub/news/961044/?utm_campaign=961044&utm_source=habrahabr&utm_medium=rss)
 - [Вышло официальное десктоп-приложение «Яндекс Музыка» для Linux](https://habr.com/ru/news/961032/?utm_campaign=961032&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA H100 впервые отправится в космос](https://habr.com/ru/companies/bothub/news/960878/?utm_campaign=960878&utm_source=habrahabr&utm_medium=rss)
 - [Starcloud-1 первый космический дата-центр с NVIDIA H100](https://habr.com/ru/news/961028/?utm_campaign=961028&utm_source=habrahabr&utm_medium=rss)
 - [Mastercard представила новый инструмент анализа угроз для борьбы с мошенниками](https://habr.com/ru/news/961024/?utm_campaign=961024&utm_source=habrahabr&utm_medium=rss)
-- [Yadro запустила в продажу для бизнеса мини-ПК Kvadra TAU mini](https://habr.com/ru/news/961018/?utm_campaign=961018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
