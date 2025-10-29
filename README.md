@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация Sprite Sheet из картинки](https://habr.com/ru/news/961092/?utm_campaign=961092&utm_source=habrahabr&utm_medium=rss)
 - [Китайские военные обучают DeepSeek управлять дронами и бронетехникой — Reuters](https://habr.com/ru/news/961052/?utm_campaign=961052&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI официально завершила реструктуризацию](https://habr.com/ru/companies/bothub/news/961044/?utm_campaign=961044&utm_source=habrahabr&utm_medium=rss)
 - [Вышло официальное десктоп-приложение «Яндекс Музыка» для Linux](https://habr.com/ru/news/961032/?utm_campaign=961032&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA H100 впервые отправится в космос](https://habr.com/ru/companies/bothub/news/960878/?utm_campaign=960878&utm_source=habrahabr&utm_medium=rss)
-- [Starcloud-1 первый космический дата-центр с NVIDIA H100](https://habr.com/ru/news/961028/?utm_campaign=961028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
