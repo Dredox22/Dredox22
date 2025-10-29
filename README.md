@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot Vision в Windows теперь можно использовать с текстовым вводом](https://habr.com/ru/news/961212/?utm_campaign=961212&utm_source=habrahabr&utm_medium=rss)
+- [Google Chrome по умолчанию будет предупреждать пользователей перед открытием незащищённых HTTP-сайтов](https://habr.com/ru/news/961200/?utm_campaign=961200&utm_source=habrahabr&utm_medium=rss)
+- [Пользователей Starlink с неактивной подпиской призвали обновить софт терминалов до 17 ноября](https://habr.com/ru/news/961194/?utm_campaign=961194&utm_source=habrahabr&utm_medium=rss)
 - [Глава Nvidia заявил об отсутствии ИИ-пузыря](https://habr.com/ru/news/961180/?utm_campaign=961180&utm_source=habrahabr&utm_medium=rss)
 - [Глава Signal объяснила использование инфраструктуры AWS](https://habr.com/ru/news/961172/?utm_campaign=961172&utm_source=habrahabr&utm_medium=rss)
-- [Почти 90% игр для Windows теперь работают на Linux](https://habr.com/ru/news/961078/?utm_campaign=961078&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI рассказали о сроках выхода GPT-6 и появления AGI](https://habr.com/ru/news/961152/?utm_campaign=961152&utm_source=habrahabr&utm_medium=rss)
-- [Оценка качества genAI-фичей, ML для кибербеза, MCP-серверы и оптимизация LLM – о чем расскажут на зимней Conversations?](https://habr.com/ru/companies/just_ai/news/957196/?utm_campaign=957196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
