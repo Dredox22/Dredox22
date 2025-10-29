@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Nvidia заявил об отсутствии ИИ-пузыря](https://habr.com/ru/news/961180/?utm_campaign=961180&utm_source=habrahabr&utm_medium=rss)
+- [Глава Signal объяснила использование инфраструктуры AWS](https://habr.com/ru/news/961172/?utm_campaign=961172&utm_source=habrahabr&utm_medium=rss)
+- [Почти 90% игр для Windows теперь работают на Linux](https://habr.com/ru/news/961078/?utm_campaign=961078&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI рассказали о сроках выхода GPT-6 и появления AGI](https://habr.com/ru/news/961152/?utm_campaign=961152&utm_source=habrahabr&utm_medium=rss)
 - [Оценка качества genAI-фичей, ML для кибербеза, MCP-серверы и оптимизация LLM – о чем расскажут на зимней Conversations?](https://habr.com/ru/companies/just_ai/news/957196/?utm_campaign=957196&utm_source=habrahabr&utm_medium=rss)
-- [DevOps-инженеры, SRE и архитекторы, приходите на митап Deckhouse в Москве](https://habr.com/ru/companies/flant/news/958788/?utm_campaign=958788&utm_source=habrahabr&utm_medium=rss)
-- [В Индии бесплатно раздают годовую подписку на ChatGPT Go](https://habr.com/ru/companies/bothub/news/961104/?utm_campaign=961104&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс представил новое поколение Алисы](https://habr.com/ru/companies/bothub/news/961102/?utm_campaign=961102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
