@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартует конкурс интерактивных историй](https://habr.com/ru/news/961282/?utm_campaign=961282&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft получила долю в 27% в OpenAI](https://habr.com/ru/news/961242/?utm_campaign=961242&utm_source=habrahabr&utm_medium=rss)
+- [«Грокипедию» Илона Маска обвинили в копировании «Википедии»](https://habr.com/ru/news/961250/?utm_campaign=961250&utm_source=habrahabr&utm_medium=rss)
+- [YouTube будет ограничивать доступ по возрасту к контенту «графического насилия» в видеоиграх](https://habr.com/ru/news/961232/?utm_campaign=961232&utm_source=habrahabr&utm_medium=rss)
 - [Copilot Vision в Windows теперь можно использовать с текстовым вводом](https://habr.com/ru/news/961212/?utm_campaign=961212&utm_source=habrahabr&utm_medium=rss)
-- [Google Chrome по умолчанию будет предупреждать пользователей перед открытием незащищённых HTTP-сайтов](https://habr.com/ru/news/961200/?utm_campaign=961200&utm_source=habrahabr&utm_medium=rss)
-- [Пользователей Starlink с неактивной подпиской призвали обновить софт терминалов до 17 ноября](https://habr.com/ru/news/961194/?utm_campaign=961194&utm_source=habrahabr&utm_medium=rss)
-- [Глава Nvidia заявил об отсутствии ИИ-пузыря](https://habr.com/ru/news/961180/?utm_campaign=961180&utm_source=habrahabr&utm_medium=rss)
-- [Глава Signal объяснила использование инфраструктуры AWS](https://habr.com/ru/news/961172/?utm_campaign=961172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
