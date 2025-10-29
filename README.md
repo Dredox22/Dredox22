@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia стала первой в истории компанией с капитализацией в $5 трлн](https://habr.com/ru/news/961334/?utm_campaign=961334&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпускает открытые safeguard-модели для гибкой настройки классификации контента](https://habr.com/ru/companies/technokratos/news/961312/?utm_campaign=961312&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: хакеры проникли в инфраструктуру компании кибербезопасности F5, взломав её собственные продукты](https://habr.com/ru/news/961304/?utm_campaign=961304&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT будет тщательнее проверять психическое состояние пользователей](https://habr.com/ru/news/961296/?utm_campaign=961296&utm_source=habrahabr&utm_medium=rss)
 - [42 000 зрителей из 400 населенных пунктов России и стран СНГ — как прошел CyberCamp 2025](https://habr.com/ru/companies/jetinfosystems/news/961294/?utm_campaign=961294&utm_source=habrahabr&utm_medium=rss)
-- [Стартует конкурс интерактивных историй](https://habr.com/ru/news/961282/?utm_campaign=961282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
