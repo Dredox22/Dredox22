@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia стала первой в истории компанией с капитализацией в $5 трлн](https://habr.com/ru/news/961334/?utm_campaign=961334&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпускает открытые safeguard-модели для гибкой настройки классификации контента](https://habr.com/ru/companies/technokratos/news/961312/?utm_campaign=961312&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: хакеры проникли в инфраструктуру компании кибербезопасности F5, взломав её собственные продукты](https://habr.com/ru/news/961304/?utm_campaign=961304&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT будет тщательнее проверять психическое состояние пользователей](https://habr.com/ru/news/961296/?utm_campaign=961296&utm_source=habrahabr&utm_medium=rss)
-- [42 000 зрителей из 400 населенных пунктов России и стран СНГ — как прошел CyberCamp 2025](https://habr.com/ru/companies/jetinfosystems/news/961294/?utm_campaign=961294&utm_source=habrahabr&utm_medium=rss)
+- [Приходите на митап QAчественное общение №11: в программе много монорепозитория и BDUI для QA](https://habr.com/ru/companies/alfa/news/961374/?utm_campaign=961374&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» запустил серийное производство оборудования для безопасной речной навигации](https://habr.com/ru/news/961370/?utm_campaign=961370&utm_source=habrahabr&utm_medium=rss)
+- [Apple достигли отметку в 4 триллиона долларов рыночной капитализации](https://habr.com/ru/companies/bothub/news/961368/?utm_campaign=961368&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «В России стали больше звонить по телефону после блокировки звонков в мессенджерах»](https://habr.com/ru/news/961352/?utm_campaign=961352&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia покупает долю в Nokia](https://habr.com/ru/companies/bothub/news/961350/?utm_campaign=961350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
