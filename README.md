@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила новый генеративный инструмент для маркетинга](https://habr.com/ru/companies/bothub/news/961376/?utm_campaign=961376&utm_source=habrahabr&utm_medium=rss)
+- [Бывший сотрудник OpenAI раскритиковал идею добавления эротики в ChatGPT](https://habr.com/ru/news/961394/?utm_campaign=961394&utm_source=habrahabr&utm_medium=rss)
+- [Отчёт Wharton School показал, что ИИ стал ежедневным инструментом в корпоративной среде](https://habr.com/ru/companies/bothub/news/961384/?utm_campaign=961384&utm_source=habrahabr&utm_medium=rss)
 - [Приходите на митап QAчественное общение №11: в программе много монорепозитория и BDUI для QA](https://habr.com/ru/companies/alfa/news/961374/?utm_campaign=961374&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» запустил серийное производство оборудования для безопасной речной навигации](https://habr.com/ru/news/961370/?utm_campaign=961370&utm_source=habrahabr&utm_medium=rss)
-- [Apple достигли отметку в 4 триллиона долларов рыночной капитализации](https://habr.com/ru/companies/bothub/news/961368/?utm_campaign=961368&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «В России стали больше звонить по телефону после блокировки звонков в мессенджерах»](https://habr.com/ru/news/961352/?utm_campaign=961352&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia покупает долю в Nokia](https://habr.com/ru/companies/bothub/news/961350/?utm_campaign=961350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
