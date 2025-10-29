@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс представил новое поколение Алисы](https://habr.com/ru/companies/bothub/news/961102/?utm_campaign=961102&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenRazer 3.11 — набора драйверов для устройств Razer под Linux](https://habr.com/ru/news/960894/?utm_campaign=960894&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Bottles 51.25 &lpar;оболочки на основе Wine для запуска приложений Windows в Linux&rpar;](https://habr.com/ru/news/960764/?utm_campaign=960764&utm_source=habrahabr&utm_medium=rss)
 - [Генерация Sprite Sheet из картинки](https://habr.com/ru/news/961092/?utm_campaign=961092&utm_source=habrahabr&utm_medium=rss)
 - [Китайские военные обучают DeepSeek управлять дронами и бронетехникой — Reuters](https://habr.com/ru/news/961052/?utm_campaign=961052&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI официально завершила реструктуризацию](https://habr.com/ru/companies/bothub/news/961044/?utm_campaign=961044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
