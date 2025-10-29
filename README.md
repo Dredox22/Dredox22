@@ -86,10 +86,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Anthropic обнаружили, что современные нейросети иногда замечают свои «мысли»](https://habr.com/ru/news/961438/?utm_campaign=961438&utm_source=habrahabr&utm_medium=rss)
-- [«Роскачество» и ГК «Солар» провели анализ мобильных приложений сервисов доставки, аптек и маркетплейсов техники](https://habr.com/ru/news/961430/?utm_campaign=961430&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил PokerBattle — бенчмарк, в котором LLM играют в техасский холдем: лидирует Gemini 2.5 Pro](https://habr.com/ru/news/961424/?utm_campaign=961424&utm_source=habrahabr&utm_medium=rss)
 - [Стартап в США запустил бюджетных ИИ-репетиторов для учеников начальной школы](https://habr.com/ru/news/961416/?utm_campaign=961416&utm_source=habrahabr&utm_medium=rss)
 - [ОМП перенесла open source проекты для ОС «Аврора» на Mos.Hub](https://habr.com/ru/news/961414/?utm_campaign=961414&utm_source=habrahabr&utm_medium=rss)
+- [Дуров анонсировал децентрализованную сеть для работы AI](https://habr.com/ru/companies/bothub/news/961362/?utm_campaign=961362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
