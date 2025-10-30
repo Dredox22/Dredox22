@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI выпустила бесплатные модели для модерации контента](https://habr.com/ru/companies/bothub/news/961508/?utm_campaign=961508&utm_source=habrahabr&utm_medium=rss)
+- [Samsung выпустила бета-версию браузера Samsung Internet для ПК](https://habr.com/ru/news/961506/?utm_campaign=961506&utm_source=habrahabr&utm_medium=rss)
+- [Олимпиада по промышленной разработке PROD начала приём заявок от школьников со всего мира](https://habr.com/ru/news/961446/?utm_campaign=961446&utm_source=habrahabr&utm_medium=rss)
+- [Релиз документации GNU/Linux man pages 6.16](https://habr.com/ru/news/961494/?utm_campaign=961494&utm_source=habrahabr&utm_medium=rss)
 - [Представлена SUSE Linux Enterprise Server 16 — первая корпоративная Linux-система со встроенным агентским ИИ](https://habr.com/ru/news/961486/?utm_campaign=961486&utm_source=habrahabr&utm_medium=rss)
-- [Вышла TrueNAS 25.10 &lpar;Goldeye&rpar; — проект Open Source NAS](https://habr.com/ru/news/961238/?utm_campaign=961238&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого универсального алгоритма сжатия без потерь Brotli 1.2](https://habr.com/ru/news/961214/?utm_campaign=961214&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Cursor 2.0 и Composer – новая агентная модель, которая в 4 раза быстрее GPT-5](https://habr.com/ru/news/961476/?utm_campaign=961476&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic обнаружили, что современные нейросети иногда замечают свои «мысли»](https://habr.com/ru/news/961438/?utm_campaign=961438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
