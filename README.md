@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла TrueNAS 25.10 &lpar;Goldeye&rpar; — проект Open Source NAS](https://habr.com/ru/news/961238/?utm_campaign=961238&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого универсального алгоритма сжатия без потерь Brotli 1.2](https://habr.com/ru/news/961214/?utm_campaign=961214&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Cursor 2.0 и Composer – новая агентная модель, которая в 4 раза быстрее GPT-5](https://habr.com/ru/news/961476/?utm_campaign=961476&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic обнаружили, что современные нейросети иногда замечают свои «мысли»](https://habr.com/ru/news/961438/?utm_campaign=961438&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил PokerBattle — бенчмарк, в котором LLM играют в техасский холдем: лидирует Gemini 2.5 Pro](https://habr.com/ru/news/961424/?utm_campaign=961424&utm_source=habrahabr&utm_medium=rss)
-- [Стартап в США запустил бюджетных ИИ-репетиторов для учеников начальной школы](https://habr.com/ru/news/961416/?utm_campaign=961416&utm_source=habrahabr&utm_medium=rss)
-- [ОМП перенесла open source проекты для ОС «Аврора» на Mos.Hub](https://habr.com/ru/news/961414/?utm_campaign=961414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
