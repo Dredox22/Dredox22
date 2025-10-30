@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как заставить одну карту работать за троих](https://habr.com/ru/companies/mws/news/960904/?utm_campaign=960904&utm_source=habrahabr&utm_medium=rss)
+- [«РОСА Мессенджер» будет доступен через веб-интерфейс для всех пользователей до конца 2025 года](https://habr.com/ru/news/961730/?utm_campaign=961730&utm_source=habrahabr&utm_medium=rss)
+- [Как «Кокон» Дурова опутает мир](https://habr.com/ru/companies/ruvds/news/961682/?utm_campaign=961682&utm_source=habrahabr&utm_medium=rss)
 - [Мы создаём новый блок для развития генеративного ИИ](https://habr.com/ru/companies/sberbank/news/961668/?utm_campaign=961668&utm_source=habrahabr&utm_medium=rss)
 - [TypeScript стал самым популярным языком на GitHub, впервые обогнав Python и JavaScript](https://habr.com/ru/companies/bothub/news/961660/?utm_campaign=961660&utm_source=habrahabr&utm_medium=rss)
-- [Фишинговое послевкусие: жарим рыбу и говорим о кибератаках в новом «Инфобезе со вкусом»](https://habr.com/ru/companies/gaz-is/news/961652/?utm_campaign=961652&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 142](https://habr.com/ru/news/961650/?utm_campaign=961650&utm_source=habrahabr&utm_medium=rss)
-- [Reuters узнало о подготовке OpenAI к IPO с оценкой до $1 трлн](https://habr.com/ru/news/961644/?utm_campaign=961644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
