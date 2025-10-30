@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Octoverse 2025: вот что важно знать Python-разработчикам](https://habr.com/ru/news/961806/?utm_campaign=961806&utm_source=habrahabr&utm_medium=rss)
-- [Google и Reliance Industries объявили масштабное партнёрство в Индии](https://habr.com/ru/companies/bothub/news/961794/?utm_campaign=961794&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая масштабная мультимодальная world-модель](https://habr.com/ru/companies/bothub/news/961792/?utm_campaign=961792&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые пользователи Telegram из России теперь могут получить премиальную подписку взамен на свой пакет СМС](https://habr.com/ru/news/961790/?utm_campaign=961790&utm_source=habrahabr&utm_medium=rss)
-- [В Dr.Web напомнили, что антивирусы компании поддерживают все версии ОС Windows, начиная с Windows XP](https://habr.com/ru/news/961788/?utm_campaign=961788&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовится к IPO на триллион долларов](https://habr.com/ru/companies/bothub/news/961784/?utm_campaign=961784&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Bevel привлёк $10 миллионов в раунде Series A](https://habr.com/ru/companies/bothub/news/961796/?utm_campaign=961796&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» начал в Петербурге и Ленобласти установку абонентам Wi‑Fi‑роутеров шестого поколения](https://habr.com/ru/news/961818/?utm_campaign=961818&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила Aardvark — агента на GPT-5, который занимается кибербезопасностью](https://habr.com/ru/news/961816/?utm_campaign=961816&utm_source=habrahabr&utm_medium=rss)
+- [Mojang отказывается от обфускации кода в Java-версии Minecraft: создавать моды станет проще](https://habr.com/ru/news/961812/?utm_campaign=961812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
