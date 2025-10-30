@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Некоторые пользователи Telegram из России теперь могут получить премиальную подписку взамен на свой пакет СМС](https://habr.com/ru/news/961790/?utm_campaign=961790&utm_source=habrahabr&utm_medium=rss)
+- [В Dr.Web напомнили, что антивирусы компании поддерживают все версии ОС Windows, начиная с Windows XP](https://habr.com/ru/news/961788/?utm_campaign=961788&utm_source=habrahabr&utm_medium=rss)
+- [Windsurf выпустил быструю модель для программирования](https://habr.com/ru/companies/bothub/news/961782/?utm_campaign=961782&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Kimi-Linear-A3B: гигантский контекст при разумных требованиях к железу](https://habr.com/ru/news/961778/?utm_campaign=961778&utm_source=habrahabr&utm_medium=rss)
 - [Google представил Green Tea GC — сборщик мусора, который экономит до 40% CPU](https://habr.com/ru/news/961760/?utm_campaign=961760&utm_source=habrahabr&utm_medium=rss)
-- [К2 НейроТех вступил в закрытый клуб «ЦифрА» при АНО «Цифровая экономика»](https://habr.com/ru/companies/k2tech/news/961756/?utm_campaign=961756&utm_source=habrahabr&utm_medium=rss)
-- [Как заставить одну карту работать за троих](https://habr.com/ru/companies/mws/news/960904/?utm_campaign=960904&utm_source=habrahabr&utm_medium=rss)
-- [«РОСА Мессенджер» будет доступен через веб-интерфейс для всех пользователей до конца 2025 года](https://habr.com/ru/news/961730/?utm_campaign=961730&utm_source=habrahabr&utm_medium=rss)
-- [Как «Кокон» Дурова опутает мир](https://habr.com/ru/companies/ruvds/news/961682/?utm_campaign=961682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
