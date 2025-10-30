@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Учи.ру» представила цифрового помощника Max для родителей школьников начальной школы](https://habr.com/ru/news/961458/?utm_campaign=961458&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сделала обновление Windows менее раздражающим и исправила ошибку 0x800f0983](https://habr.com/ru/news/961510/?utm_campaign=961510&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила бесплатные модели для модерации контента](https://habr.com/ru/companies/bothub/news/961508/?utm_campaign=961508&utm_source=habrahabr&utm_medium=rss)
 - [Samsung выпустила бета-версию браузера Samsung Internet для ПК](https://habr.com/ru/news/961506/?utm_campaign=961506&utm_source=habrahabr&utm_medium=rss)
 - [Олимпиада по промышленной разработке PROD начала приём заявок от школьников со всего мира](https://habr.com/ru/news/961446/?utm_campaign=961446&utm_source=habrahabr&utm_medium=rss)
-- [Релиз документации GNU/Linux man pages 6.16](https://habr.com/ru/news/961494/?utm_campaign=961494&utm_source=habrahabr&utm_medium=rss)
-- [Представлена SUSE Linux Enterprise Server 16 — первая корпоративная Linux-система со встроенным агентским ИИ](https://habr.com/ru/news/961486/?utm_campaign=961486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
