@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung выпустила карту памяти microSD Express P9 Express](https://habr.com/ru/news/961614/?utm_campaign=961614&utm_source=habrahabr&utm_medium=rss)
-- [Отчёт Octoverse: TypeScript обогнал Python на GitHub, а разработчики из Индии теперь на втором месте по количеству](https://habr.com/ru/news/961582/?utm_campaign=961582&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Беффа Джезоса показал чип, который обещает удешевить ИИ в тысячи раз](https://habr.com/ru/news/961546/?utm_campaign=961546&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «1С в облаке: инфраструктура, миграция, поддержка»](https://habr.com/ru/companies/itglobalcom/news/961544/?utm_campaign=961544&utm_source=habrahabr&utm_medium=rss)
-- [Презентация книги «Основы Flutter» прошла на конференции CrossConf](https://habr.com/ru/companies/friflex/news/961540/?utm_campaign=961540&utm_source=habrahabr&utm_medium=rss)
+- [TypeScript стал самым популярным языком на GitHub, впервые обогнав Python и JavaScript](https://habr.com/ru/companies/bothub/news/961660/?utm_campaign=961660&utm_source=habrahabr&utm_medium=rss)
+- [Фишинговое послевкусие: жарим рыбу и говорим о кибератаках в новом «Инфобезе со вкусом»](https://habr.com/ru/companies/gaz-is/news/961652/?utm_campaign=961652&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 142](https://habr.com/ru/news/961650/?utm_campaign=961650&utm_source=habrahabr&utm_medium=rss)
+- [Reuters узнало о подготовке OpenAI к IPO с оценкой до $1 трлн](https://habr.com/ru/news/961644/?utm_campaign=961644&utm_source=habrahabr&utm_medium=rss)
+- [На Android вышел эмулятор PS2 с открытым кодом ARMSX2](https://habr.com/ru/news/961640/?utm_campaign=961640&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
