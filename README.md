@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Octoverse 2025: вот что важно знать Python-разработчикам](https://habr.com/ru/news/961806/?utm_campaign=961806&utm_source=habrahabr&utm_medium=rss)
+- [Google и Reliance Industries объявили масштабное партнёрство в Индии](https://habr.com/ru/companies/bothub/news/961794/?utm_campaign=961794&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая масштабная мультимодальная world-модель](https://habr.com/ru/companies/bothub/news/961792/?utm_campaign=961792&utm_source=habrahabr&utm_medium=rss)
 - [Некоторые пользователи Telegram из России теперь могут получить премиальную подписку взамен на свой пакет СМС](https://habr.com/ru/news/961790/?utm_campaign=961790&utm_source=habrahabr&utm_medium=rss)
 - [В Dr.Web напомнили, что антивирусы компании поддерживают все версии ОС Windows, начиная с Windows XP](https://habr.com/ru/news/961788/?utm_campaign=961788&utm_source=habrahabr&utm_medium=rss)
-- [Windsurf выпустил быструю модель для программирования](https://habr.com/ru/companies/bothub/news/961782/?utm_campaign=961782&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Kimi-Linear-A3B: гигантский контекст при разумных требованиях к железу](https://habr.com/ru/news/961778/?utm_campaign=961778&utm_source=habrahabr&utm_medium=rss)
-- [Google представил Green Tea GC — сборщик мусора, который экономит до 40% CPU](https://habr.com/ru/news/961760/?utm_campaign=961760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
