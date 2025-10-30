@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представил Green Tea GC — сборщик мусора, который экономит до 40% CPU](https://habr.com/ru/news/961760/?utm_campaign=961760&utm_source=habrahabr&utm_medium=rss)
+- [К2 НейроТех вступил в закрытый клуб «ЦифрА» при АНО «Цифровая экономика»](https://habr.com/ru/companies/k2tech/news/961756/?utm_campaign=961756&utm_source=habrahabr&utm_medium=rss)
 - [Как заставить одну карту работать за троих](https://habr.com/ru/companies/mws/news/960904/?utm_campaign=960904&utm_source=habrahabr&utm_medium=rss)
 - [«РОСА Мессенджер» будет доступен через веб-интерфейс для всех пользователей до конца 2025 года](https://habr.com/ru/news/961730/?utm_campaign=961730&utm_source=habrahabr&utm_medium=rss)
 - [Как «Кокон» Дурова опутает мир](https://habr.com/ru/companies/ruvds/news/961682/?utm_campaign=961682&utm_source=habrahabr&utm_medium=rss)
-- [Мы создаём новый блок для развития генеративного ИИ](https://habr.com/ru/companies/sberbank/news/961668/?utm_campaign=961668&utm_source=habrahabr&utm_medium=rss)
-- [TypeScript стал самым популярным языком на GitHub, впервые обогнав Python и JavaScript](https://habr.com/ru/companies/bothub/news/961660/?utm_campaign=961660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
