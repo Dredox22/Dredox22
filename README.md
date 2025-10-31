@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый ИИ-ассистент от Авито готовится к запуску](https://habr.com/ru/companies/bothub/news/962086/?utm_campaign=962086&utm_source=habrahabr&utm_medium=rss)
+- [Ученые собрали искусственный нейрон, который ведет себя почти как живой](https://habr.com/ru/news/962144/?utm_campaign=962144&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Банки практически полностью перестали давать консультации клиентам в зарубежных мессенджерах»](https://habr.com/ru/news/962126/?utm_campaign=962126&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face выпустили бесплатный плейбук о создании современных LLM](https://habr.com/ru/companies/bothub/news/962094/?utm_campaign=962094&utm_source=habrahabr&utm_medium=rss)
 - [SimpleOne 1.29: Новые возможности ESM и разделение платформы на два независимых приложения](https://habr.com/ru/companies/simpleone/news/962020/?utm_campaign=962020&utm_source=habrahabr&utm_medium=rss)
-- [PGMeetup.EKB 2025 в Екатеринбурге: автономные ИИ-агенты, статический анализ кода, ИБ и инциденты с PostgreSQL](https://habr.com/ru/companies/postgrespro/news/962078/?utm_campaign=962078&utm_source=habrahabr&utm_medium=rss)
-- [Udio отключил скачивание музыки и готовится к перезапуску в новом формате](https://habr.com/ru/companies/bothub/news/962072/?utm_campaign=962072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
