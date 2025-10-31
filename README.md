@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел открытый проект Distrobox 1.8.2, где прекращена поддержка Intel Clear Linux](https://habr.com/ru/news/961542/?utm_campaign=961542&utm_source=habrahabr&utm_medium=rss)
-- [Релиз проекта pgbalancer 1.0 — балансировщика нагрузки PostgreSQL на основе ИИ, поддерживающего REST API и MQTT](https://habr.com/ru/news/961522/?utm_campaign=961522&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор наложил ограничения на регистрацию в мессенджерах Telegram и Whatsapp*?](https://habr.com/ru/news/961856/?utm_campaign=961856&utm_source=habrahabr&utm_medium=rss)
-- [В России прикрыли регистрацию в Telegram и WhatsApp*: операторы не отправляют SMS с кодами](https://habr.com/ru/companies/femida_search/news/961854/?utm_campaign=961854&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind обучила модель генерировать «красивые» шахматные задачи](https://habr.com/ru/news/961844/?utm_campaign=961844&utm_source=habrahabr&utm_medium=rss)
+- [Специальный очный трек для AI-профи — AIJ Deep Dive в рамках международной конференции AI Journey](https://habr.com/ru/companies/sberbank/news/958792/?utm_campaign=958792&utm_source=habrahabr&utm_medium=rss)
+- [Российские корпорации назвали недостатки решений для защиты данных](https://habr.com/ru/companies/k2tech/news/961762/?utm_campaign=961762&utm_source=habrahabr&utm_medium=rss)
+- [Western Digital начала расследование проблем старых жёстких дисков с SMR](https://habr.com/ru/news/961928/?utm_campaign=961928&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Промышленный SOC. Инструкция по применению»](https://habr.com/ru/companies/ussc/news/961926/?utm_campaign=961926&utm_source=habrahabr&utm_medium=rss)
+- [Источник РБК в отрасли ИБ подтвердил, что в РФ перестали поступать СМС и звонки новым пользователям Telegram и WhatsApp](https://habr.com/ru/news/961920/?utm_campaign=961920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
