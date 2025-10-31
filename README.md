@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft раскрыла цифры, которые показывают масштабы расходов OpenAI](https://habr.com/ru/companies/bothub/news/961966/?utm_campaign=961966&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp начал тестировать приложение для Apple Watch](https://habr.com/ru/news/962028/?utm_campaign=962028&utm_source=habrahabr&utm_medium=rss)
 - [Tesla обновила Optimus: робот выполняет бытовые задачи и раздает конфеты](https://habr.com/ru/news/962016/?utm_campaign=962016&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Учебнике» появился ИИ‑помощник и новый предмет — математика](https://habr.com/ru/news/961810/?utm_campaign=961810&utm_source=habrahabr&utm_medium=rss)
 - [В России стало невозможно зарегистрироваться в Telegram и WhatsApp](https://habr.com/ru/companies/bothub/news/961998/?utm_campaign=961998&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый инструментарий no-code для скрытия кода на языке Python](https://habr.com/ru/news/961992/?utm_campaign=961992&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies выпустила Runtime Radar — первое в России open-source-решение для защиты контейнеров](https://habr.com/ru/companies/pt/news/961860/?utm_campaign=961860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
