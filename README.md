@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект Distrobox 1.8.2, где прекращена поддержка Intel Clear Linux](https://habr.com/ru/news/961542/?utm_campaign=961542&utm_source=habrahabr&utm_medium=rss)
+- [Релиз проекта pgbalancer 1.0 — балансировщика нагрузки PostgreSQL на основе ИИ, поддерживающего REST API и MQTT](https://habr.com/ru/news/961522/?utm_campaign=961522&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор наложил ограничения на регистрацию в мессенджерах Telegram и Whatsapp*?](https://habr.com/ru/news/961856/?utm_campaign=961856&utm_source=habrahabr&utm_medium=rss)
 - [В России прикрыли регистрацию в Telegram и WhatsApp*: операторы не отправляют SMS с кодами](https://habr.com/ru/companies/femida_search/news/961854/?utm_campaign=961854&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind обучила модель генерировать «красивые» шахматные задачи](https://habr.com/ru/news/961844/?utm_campaign=961844&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek V3.1 оказался лучшим в торговле акциями — но есть нюансы](https://habr.com/ru/news/961842/?utm_campaign=961842&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовится к IPO на триллион долларов](https://habr.com/ru/companies/bothub/news/961784/?utm_campaign=961784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
