@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI o3, Claude Sonnet 4.5 и Grok 4 оказались лучшими игроками в покер](https://habr.com/ru/news/962256/?utm_campaign=962256&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax представили генератор музыки нового поколения](https://habr.com/ru/companies/bothub/news/962254/?utm_campaign=962254&utm_source=habrahabr&utm_medium=rss)
 - [Kimi представили новую модель — Kimi-Linear-48B-A3B-Base](https://habr.com/ru/companies/bothub/news/962248/?utm_campaign=962248&utm_source=habrahabr&utm_medium=rss)
 - [Unity сделали Unity Lite](https://habr.com/ru/news/962220/?utm_campaign=962220&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram стало проще авторизоваться для текущих пользователей мессенджера в РФ через электронную почту](https://habr.com/ru/news/962216/?utm_campaign=962216&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия Solar CyberMir 7.3. для быстрой проверки навыков Red&amp;amp;Blue Team](https://habr.com/ru/companies/solarsecurity/news/962212/?utm_campaign=962212&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
