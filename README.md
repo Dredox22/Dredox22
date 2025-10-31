@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Специальный очный трек для AI-профи — AIJ Deep Dive в рамках международной конференции AI Journey](https://habr.com/ru/companies/sberbank/news/958792/?utm_campaign=958792&utm_source=habrahabr&utm_medium=rss)
-- [Российские корпорации назвали недостатки решений для защиты данных](https://habr.com/ru/companies/k2tech/news/961762/?utm_campaign=961762&utm_source=habrahabr&utm_medium=rss)
-- [Western Digital начала расследование проблем старых жёстких дисков с SMR](https://habr.com/ru/news/961928/?utm_campaign=961928&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Промышленный SOC. Инструкция по применению»](https://habr.com/ru/companies/ussc/news/961926/?utm_campaign=961926&utm_source=habrahabr&utm_medium=rss)
-- [Источник РБК в отрасли ИБ подтвердил, что в РФ перестали поступать СМС и звонки новым пользователям Telegram и WhatsApp](https://habr.com/ru/news/961920/?utm_campaign=961920&utm_source=habrahabr&utm_medium=rss)
+- [Встроенные камеры электромобиля Rivian спасли владелицу от ложного обвинения](https://habr.com/ru/news/961964/?utm_campaign=961964&utm_source=habrahabr&utm_medium=rss)
+- [Итоги SimpleOne Day 25: лидеры цифровизации России поделились опытом реализации ESM, Low-code и GenAI](https://habr.com/ru/companies/simpleone/news/961958/?utm_campaign=961958&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft упростила добавление учётных записей iCloud в Outlook](https://habr.com/ru/news/961950/?utm_campaign=961950&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила нового AI-агента под названием Aardvark](https://habr.com/ru/companies/bothub/news/961952/?utm_campaign=961952&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp внедрит Passkeys для зашифрованных резервных копий](https://habr.com/ru/news/961934/?utm_campaign=961934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
