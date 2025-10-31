@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MiniMax представили генератор музыки нового поколения](https://habr.com/ru/companies/bothub/news/962254/?utm_campaign=962254&utm_source=habrahabr&utm_medium=rss)
+- [Kimi представили новую модель — Kimi-Linear-48B-A3B-Base](https://habr.com/ru/companies/bothub/news/962248/?utm_campaign=962248&utm_source=habrahabr&utm_medium=rss)
 - [Unity сделали Unity Lite](https://habr.com/ru/news/962220/?utm_campaign=962220&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram стало проще авторизоваться для текущих пользователей мессенджера в РФ через электронную почту](https://habr.com/ru/news/962216/?utm_campaign=962216&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия Solar CyberMir 7.3. для быстрой проверки навыков Red&amp;amp;Blue Team](https://habr.com/ru/companies/solarsecurity/news/962212/?utm_campaign=962212&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: источник ТК-рынка подтвердил, что в РФ перестали поступать СМС и звонки новым пользователям Telegram и WhatsApp](https://habr.com/ru/news/962208/?utm_campaign=962208&utm_source=habrahabr&utm_medium=rss)
-- [Информационная безопасность: о чем рассказать в первую очередь?](https://habr.com/ru/companies/beeline_cloud/news/962194/?utm_campaign=962194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
