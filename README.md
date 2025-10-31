@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что будет с рынком ЦОД через 10 лет: эксперты обсудили главные вызовы отрасли](https://habr.com/ru/companies/k2tech/news/962170/?utm_campaign=962170&utm_source=habrahabr&utm_medium=rss)
+- [Вышла вторая версия nuget-пакета AabSemantics](https://habr.com/ru/news/962164/?utm_campaign=962164&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ-ассистент от Авито готовится к запуску](https://habr.com/ru/companies/bothub/news/962086/?utm_campaign=962086&utm_source=habrahabr&utm_medium=rss)
 - [Ученые собрали искусственный нейрон, который ведет себя почти как живой](https://habr.com/ru/news/962144/?utm_campaign=962144&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Банки практически полностью перестали давать консультации клиентам в зарубежных мессенджерах»](https://habr.com/ru/news/962126/?utm_campaign=962126&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face выпустили бесплатный плейбук о создании современных LLM](https://habr.com/ru/companies/bothub/news/962094/?utm_campaign=962094&utm_source=habrahabr&utm_medium=rss)
-- [SimpleOne 1.29: Новые возможности ESM и разделение платформы на два независимых приложения](https://habr.com/ru/companies/simpleone/news/962020/?utm_campaign=962020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
