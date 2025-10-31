@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft раскрыла цифры, которые показывают масштабы расходов OpenAI](https://habr.com/ru/companies/bothub/news/961966/?utm_campaign=961966&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp начал тестировать приложение для Apple Watch](https://habr.com/ru/news/962028/?utm_campaign=962028&utm_source=habrahabr&utm_medium=rss)
-- [Tesla обновила Optimus: робот выполняет бытовые задачи и раздает конфеты](https://habr.com/ru/news/962016/?utm_campaign=962016&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Учебнике» появился ИИ‑помощник и новый предмет — математика](https://habr.com/ru/news/961810/?utm_campaign=961810&utm_source=habrahabr&utm_medium=rss)
-- [В России стало невозможно зарегистрироваться в Telegram и WhatsApp](https://habr.com/ru/companies/bothub/news/961998/?utm_campaign=961998&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup.EKB 2025 в Екатеринбурге: автономные ИИ-агенты, статический анализ кода, ИБ и инциденты с PostgreSQL](https://habr.com/ru/companies/postgrespro/news/962078/?utm_campaign=962078&utm_source=habrahabr&utm_medium=rss)
+- [Udio отключил скачивание музыки и готовится к перезапуску в новом формате](https://habr.com/ru/companies/bothub/news/962072/?utm_campaign=962072&utm_source=habrahabr&utm_medium=rss)
+- [Intel выпустила новые драйверы Wi-Fi и Bluetooth с поддержкой Windows 11 25H2](https://habr.com/ru/news/961578/?utm_campaign=961578&utm_source=habrahabr&utm_medium=rss)
+- [Поддержка PostgreSQL 13 завершается](https://habr.com/ru/companies/luxms_bi/news/962064/?utm_campaign=962064&utm_source=habrahabr&utm_medium=rss)
+- [Character.AI запретит пользователям младше 18 лет переписываться с ИИ-персонажами](https://habr.com/ru/news/961572/?utm_campaign=961572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
