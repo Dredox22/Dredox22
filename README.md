@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава РКН рассказал, что вместо запроса согласий на обработку персональных данных надо ввести отраслевые стандарты](https://habr.com/ru/news/962280/?utm_campaign=962280&utm_source=habrahabr&utm_medium=rss)
+- [«Это не первый мой пузырь»: биржевой аналитик призвал продавать акции Nvidia](https://habr.com/ru/news/962276/?utm_campaign=962276&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI o3, Claude Sonnet 4.5 и Grok 4 оказались лучшими игроками в покер](https://habr.com/ru/news/962256/?utm_campaign=962256&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax представили генератор музыки нового поколения](https://habr.com/ru/companies/bothub/news/962254/?utm_campaign=962254&utm_source=habrahabr&utm_medium=rss)
 - [Kimi представили новую модель — Kimi-Linear-48B-A3B-Base](https://habr.com/ru/companies/bothub/news/962248/?utm_campaign=962248&utm_source=habrahabr&utm_medium=rss)
-- [Unity сделали Unity Lite](https://habr.com/ru/news/962220/?utm_campaign=962220&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram стало проще авторизоваться для текущих пользователей мессенджера в РФ через электронную почту](https://habr.com/ru/news/962216/?utm_campaign=962216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
