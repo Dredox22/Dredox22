@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Информационная безопасность: о чем рассказать в первую очередь?](https://habr.com/ru/companies/beeline_cloud/news/962194/?utm_campaign=962194&utm_source=habrahabr&utm_medium=rss)
 - [Что будет с рынком ЦОД через 10 лет: эксперты обсудили главные вызовы отрасли](https://habr.com/ru/companies/k2tech/news/962170/?utm_campaign=962170&utm_source=habrahabr&utm_medium=rss)
 - [Вышла вторая версия nuget-пакета AabSemantics](https://habr.com/ru/news/962164/?utm_campaign=962164&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ-ассистент от Авито готовится к запуску](https://habr.com/ru/companies/bothub/news/962086/?utm_campaign=962086&utm_source=habrahabr&utm_medium=rss)
 - [Ученые собрали искусственный нейрон, который ведет себя почти как живой](https://habr.com/ru/news/962144/?utm_campaign=962144&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Банки практически полностью перестали давать консультации клиентам в зарубежных мессенджерах»](https://habr.com/ru/news/962126/?utm_campaign=962126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
