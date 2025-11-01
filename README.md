@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Найдено самое длинное слово в русском языке — «тетрагидропиранилциклопентилтетрагидропиридопиридиновые»](https://habr.com/ru/news/962488/?utm_campaign=962488&utm_source=habrahabr&utm_medium=rss)
 - [Си Цзиньпин: ИИ должен быть «общественным благом». Китай готов возглавить процесс](https://habr.com/ru/news/962428/?utm_campaign=962428&utm_source=habrahabr&utm_medium=rss)
 - [С 5 ноября WhatsApp для Windows 11 перейдёт на веб-приложение на основе Chromium](https://habr.com/ru/news/962400/?utm_campaign=962400&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 тестируют функцию совместного использования аудио через Bluetooth](https://habr.com/ru/news/962392/?utm_campaign=962392&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры угрожают утечкой данных после взлома системы Университета Пенсильвании](https://habr.com/ru/news/962338/?utm_campaign=962338&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого растрового графического редактора Brushshe 2.3.0, написанного на Python, для Windows 10/11 и Linux](https://habr.com/ru/news/962200/?utm_campaign=962200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
