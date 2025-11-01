@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен порт культового шутера Wolfenstein 3D в Telegram](https://habr.com/ru/news/962498/?utm_campaign=962498&utm_source=habrahabr&utm_medium=rss)
 - [Найдено самое длинное слово в русском языке — «тетрагидропиранилциклопентилтетрагидропиридопиридиновые»](https://habr.com/ru/news/962488/?utm_campaign=962488&utm_source=habrahabr&utm_medium=rss)
 - [Си Цзиньпин: ИИ должен быть «общественным благом». Китай готов возглавить процесс](https://habr.com/ru/news/962428/?utm_campaign=962428&utm_source=habrahabr&utm_medium=rss)
 - [С 5 ноября WhatsApp для Windows 11 перейдёт на веб-приложение на основе Chromium](https://habr.com/ru/news/962400/?utm_campaign=962400&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 тестируют функцию совместного использования аудио через Bluetooth](https://habr.com/ru/news/962392/?utm_campaign=962392&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры угрожают утечкой данных после взлома системы Университета Пенсильвании](https://habr.com/ru/news/962338/?utm_campaign=962338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
