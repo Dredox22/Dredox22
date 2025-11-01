@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 5 ноября WhatsApp для Windows 11 перейдёт на веб-приложение на основе Chromium](https://habr.com/ru/news/962400/?utm_campaign=962400&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 тестируют функцию совместного использования аудио через Bluetooth](https://habr.com/ru/news/962392/?utm_campaign=962392&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры угрожают утечкой данных после взлома системы Университета Пенсильвании](https://habr.com/ru/news/962338/?utm_campaign=962338&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого растрового графического редактора Brushshe 2.3.0, написанного на Python, для Windows 10/11 и Linux](https://habr.com/ru/news/962200/?utm_campaign=962200&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT перестал давать медицинские и юридические консультации](https://habr.com/ru/news/962340/?utm_campaign=962340&utm_source=habrahabr&utm_medium=rss)
-- [ИИ YouTube начал удалять видео с обходными путями установки Windows 11](https://habr.com/ru/news/962336/?utm_campaign=962336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
