@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Уязвимость в движке Blink может вывести из строя браузеры на базе Chromium](https://habr.com/ru/news/962324/?utm_campaign=962324&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся выпуск платформы совместной разработки Gitea 1.25](https://habr.com/ru/news/962040/?utm_campaign=962040&utm_source=habrahabr&utm_medium=rss)
-- [Вышел AnyDesk 9.6.4 для Windows и 7.1.1 для Linux](https://habr.com/ru/news/961948/?utm_campaign=961948&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.91.0](https://habr.com/ru/news/962030/?utm_campaign=962030&utm_source=habrahabr&utm_medium=rss)
-- [Cline v3.35: нативные вызовы инструментов, обновлённое авторазрешение и бесплатный MiniMax M2](https://habr.com/ru/news/962304/?utm_campaign=962304&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры угрожают утечкой данных после взлома системы Университета Пенсильвании](https://habr.com/ru/news/962338/?utm_campaign=962338&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого растрового графического редактора Brushshe 2.3.0, написанного на Python, для Windows 10/11 и Linux](https://habr.com/ru/news/962200/?utm_campaign=962200&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT перестал давать медицинские и юридические консультации](https://habr.com/ru/news/962340/?utm_campaign=962340&utm_source=habrahabr&utm_medium=rss)
+- [ИИ YouTube начал удалять видео с обходными путями установки Windows 11](https://habr.com/ru/news/962336/?utm_campaign=962336&utm_source=habrahabr&utm_medium=rss)
+- [Питерский митап Open Source BootCamp 2025](https://habr.com/ru/companies/sberbank/news/962190/?utm_campaign=962190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
