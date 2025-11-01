@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cline v3.35: нативные вызовы инструментов, обновлённое авторазрешение и бесплатный MiniMax M2](https://habr.com/ru/news/962304/?utm_campaign=962304&utm_source=habrahabr&utm_medium=rss)
 - [Глава РКН рассказал, что вместо запроса согласий на обработку персональных данных надо ввести отраслевые стандарты](https://habr.com/ru/news/962280/?utm_campaign=962280&utm_source=habrahabr&utm_medium=rss)
 - [«Это не первый мой пузырь»: биржевой аналитик призвал продавать акции Nvidia](https://habr.com/ru/news/962276/?utm_campaign=962276&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI o3, Claude Sonnet 4.5 и Grok 4 оказались лучшими игроками в покер](https://habr.com/ru/news/962256/?utm_campaign=962256&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax представили генератор музыки нового поколения](https://habr.com/ru/companies/bothub/news/962254/?utm_campaign=962254&utm_source=habrahabr&utm_medium=rss)
-- [Kimi представили новую модель — Kimi-Linear-48B-A3B-Base](https://habr.com/ru/companies/bothub/news/962248/?utm_campaign=962248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
