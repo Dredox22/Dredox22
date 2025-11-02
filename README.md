@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз видеоредактора с открытым исходным кодом Shotcut 25.10](https://habr.com/ru/news/962520/?utm_campaign=962520&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Media Player Classic — Home Cinema 2.5.5](https://habr.com/ru/news/962378/?utm_campaign=962378&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wine 10.18](https://habr.com/ru/news/962370/?utm_campaign=962370&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман: «меня пугает сценарий, когда AGI можно будет запустить на ноутбуке»](https://habr.com/ru/news/962534/?utm_campaign=962534&utm_source=habrahabr&utm_medium=rss)
 - [Представлен порт культового шутера Wolfenstein 3D в Telegram](https://habr.com/ru/news/962498/?utm_campaign=962498&utm_source=habrahabr&utm_medium=rss)
-- [Найдено самое длинное слово в русском языке — «тетрагидропиранилциклопентилтетрагидропиридопиридиновые»](https://habr.com/ru/news/962488/?utm_campaign=962488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
