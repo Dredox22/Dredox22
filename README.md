@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст представил образ Windows 7 размером 69 МБ](https://habr.com/ru/news/962618/?utm_campaign=962618&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый медиацентр Kodi 21.3 Omega](https://habr.com/ru/news/962386/?utm_campaign=962386&utm_source=habrahabr&utm_medium=rss)
 - [Google подтвердила внедрение рекламы в результаты поиска с использованием ИИ](https://habr.com/ru/news/962602/?utm_campaign=962602&utm_source=habrahabr&utm_medium=rss)
 - [Переработанное меню «Пуск» в Windows 11 содержит несколько необычных ошибок](https://habr.com/ru/news/962596/?utm_campaign=962596&utm_source=habrahabr&utm_medium=rss)
 - [Релиз видеоредактора с открытым исходным кодом Shotcut 25.10](https://habr.com/ru/news/962520/?utm_campaign=962520&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Media Player Classic — Home Cinema 2.5.5](https://habr.com/ru/news/962378/?utm_campaign=962378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
