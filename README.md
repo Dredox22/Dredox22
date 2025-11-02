@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В новом исследовании сразу несколько крупных ИИ заговорили о самосознании](https://habr.com/ru/news/962678/?utm_campaign=962678&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.1 была замечена на Design Arena](https://habr.com/ru/news/962634/?utm_campaign=962634&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст представил образ Windows 7 размером 69 МБ](https://habr.com/ru/news/962618/?utm_campaign=962618&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый медиацентр Kodi 21.3 Omega](https://habr.com/ru/news/962386/?utm_campaign=962386&utm_source=habrahabr&utm_medium=rss)
 - [Google подтвердила внедрение рекламы в результаты поиска с использованием ИИ](https://habr.com/ru/news/962602/?utm_campaign=962602&utm_source=habrahabr&utm_medium=rss)
-- [Переработанное меню «Пуск» в Windows 11 содержит несколько необычных ошибок](https://habr.com/ru/news/962596/?utm_campaign=962596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
