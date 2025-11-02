@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Wine 10.18](https://habr.com/ru/news/962370/?utm_campaign=962370&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман: «меня пугает сценарий, когда AGI можно будет запустить на ноутбуке»](https://habr.com/ru/news/962534/?utm_campaign=962534&utm_source=habrahabr&utm_medium=rss)
 - [Представлен порт культового шутера Wolfenstein 3D в Telegram](https://habr.com/ru/news/962498/?utm_campaign=962498&utm_source=habrahabr&utm_medium=rss)
 - [Найдено самое длинное слово в русском языке — «тетрагидропиранилциклопентилтетрагидропиридопиридиновые»](https://habr.com/ru/news/962488/?utm_campaign=962488&utm_source=habrahabr&utm_medium=rss)
 - [Си Цзиньпин: ИИ должен быть «общественным благом». Китай готов возглавить процесс](https://habr.com/ru/news/962428/?utm_campaign=962428&utm_source=habrahabr&utm_medium=rss)
-- [С 5 ноября WhatsApp для Windows 11 перейдёт на веб-приложение на основе Chromium](https://habr.com/ru/news/962400/?utm_campaign=962400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
