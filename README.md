@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365 Copilot по умолчанию отключит предупреждение об ошибках ИИ](https://habr.com/ru/news/962748/?utm_campaign=962748&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Qwen3-Max Thinking. Самый мощный ИИ Alibaba доступен бесплатно](https://habr.com/ru/news/962752/?utm_campaign=962752&utm_source=habrahabr&utm_medium=rss)
+- [Новое поколение ИИ-браузеров, включая Atlas Comet, способно обходить пейволлы на сайтах](https://habr.com/ru/news/962750/?utm_campaign=962750&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp стал предлагать россиянам использовать почту для входа в аккаунт](https://habr.com/ru/news/962740/?utm_campaign=962740&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft упростила названия обновлений Windows 11](https://habr.com/ru/news/962738/?utm_campaign=962738&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code снова удивляет — теперь уже в криптографии](https://habr.com/ru/news/962730/?utm_campaign=962730&utm_source=habrahabr&utm_medium=rss)
-- [Инструмент управления пакетами APT для Debian получит зависимости от Rust &lpar;hard Rust dependencies&rpar; после мая 2026 года](https://habr.com/ru/news/962728/?utm_campaign=962728&utm_source=habrahabr&utm_medium=rss)
-- [В мессенджере Max могут появиться платные функции, включая монетизацию каналов и размещение рекламы](https://habr.com/ru/news/962716/?utm_campaign=962716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
