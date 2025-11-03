@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В мессенджере Max могут появиться платные функции, включая монетизацию каналов и размещение рекламы](https://habr.com/ru/news/962716/?utm_campaign=962716&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 142](https://habr.com/ru/news/962670/?utm_campaign=962670&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого пакетного менеджера Pacman 7.1, применяемого в дистрибутиве Arch Linux](https://habr.com/ru/news/962658/?utm_campaign=962658&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI все чаще берут разработчиков уровня super junior](https://habr.com/ru/news/962686/?utm_campaign=962686&utm_source=habrahabr&utm_medium=rss)
 - [Media Creation Tool снова работает на Windows 10 и Windows 11 ARM](https://habr.com/ru/news/962568/?utm_campaign=962568&utm_source=habrahabr&utm_medium=rss)
-- [В новом исследовании сразу несколько крупных ИИ заговорили о самосознании](https://habr.com/ru/news/962678/?utm_campaign=962678&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
