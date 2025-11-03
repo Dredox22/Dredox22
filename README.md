@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia H100 отправили в космос. На орбите планируют строить дата-центры — но есть нюансы](https://habr.com/ru/news/962882/?utm_campaign=962882&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман устал от разговоров о доходах OpenAI](https://habr.com/ru/companies/bothub/news/962878/?utm_campaign=962878&utm_source=habrahabr&utm_medium=rss)
 - [В музыкальных чартах США каждую неделю появляется хотя бы один ИИ-артист](https://habr.com/ru/news/962872/?utm_campaign=962872&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft инвестирует 15,2 млрд долларов в ОАЭ](https://habr.com/ru/companies/bothub/news/962864/?utm_campaign=962864&utm_source=habrahabr&utm_medium=rss)
 - [Amazon заключила сделку с OpenAI на 38 миллиардов долларов для поставок чипов Nvidia](https://habr.com/ru/companies/bothub/news/962858/?utm_campaign=962858&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Bottles 52.0 «I&#39;m back» edition &lpar;оболочки на основе Wine для запуска приложений Windows в Linux&rpar;](https://habr.com/ru/news/962838/?utm_campaign=962838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
