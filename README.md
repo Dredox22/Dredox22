@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман устал от разговоров о доходах OpenAI](https://habr.com/ru/companies/bothub/news/962878/?utm_campaign=962878&utm_source=habrahabr&utm_medium=rss)
+- [В музыкальных чартах США каждую неделю появляется хотя бы один ИИ-артист](https://habr.com/ru/news/962872/?utm_campaign=962872&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft инвестирует 15,2 млрд долларов в ОАЭ](https://habr.com/ru/companies/bothub/news/962864/?utm_campaign=962864&utm_source=habrahabr&utm_medium=rss)
 - [Amazon заключила сделку с OpenAI на 38 миллиардов долларов для поставок чипов Nvidia](https://habr.com/ru/companies/bothub/news/962858/?utm_campaign=962858&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Bottles 52.0 «I&#39;m back» edition &lpar;оболочки на основе Wine для запуска приложений Windows в Linux&rpar;](https://habr.com/ru/news/962838/?utm_campaign=962838&utm_source=habrahabr&utm_medium=rss)
-- [Google приостановила работу Gemma в AI Studio после клеветы](https://habr.com/ru/companies/bothub/news/962840/?utm_campaign=962840&utm_source=habrahabr&utm_medium=rss)
-- [Релиз на GitHub проекта WhiteMax 1.3.0 — модификации мессенджера Max, приоритетом которой является безопасность](https://habr.com/ru/news/962808/?utm_campaign=962808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
