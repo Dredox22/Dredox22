@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На GitHub появился крупнейший репозиторий о World Models](https://habr.com/ru/companies/bothub/news/962768/?utm_campaign=962768&utm_source=habrahabr&utm_medium=rss)
+- [Баг в Windows 11 вызывает зависание и появление красного оттенка в играх и видео](https://habr.com/ru/news/962756/?utm_campaign=962756&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft 365 Copilot по умолчанию отключит предупреждение об ошибках ИИ](https://habr.com/ru/news/962748/?utm_campaign=962748&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Qwen3-Max Thinking. Самый мощный ИИ Alibaba доступен бесплатно](https://habr.com/ru/news/962752/?utm_campaign=962752&utm_source=habrahabr&utm_medium=rss)
 - [Новое поколение ИИ-браузеров, включая Atlas Comet, способно обходить пейволлы на сайтах](https://habr.com/ru/news/962750/?utm_campaign=962750&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp стал предлагать россиянам использовать почту для входа в аккаунт](https://habr.com/ru/news/962740/?utm_campaign=962740&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft упростила названия обновлений Windows 11](https://habr.com/ru/news/962738/?utm_campaign=962738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
