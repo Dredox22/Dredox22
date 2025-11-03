@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meituan представила открытую модель, которая умеет вести диалог в реальном времени](https://habr.com/ru/companies/bothub/news/962782/?utm_campaign=962782&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман рассказал, каким видит путь к созданию AGI](https://habr.com/ru/news/962780/?utm_campaign=962780&utm_source=habrahabr&utm_medium=rss)
 - [Apple выбрала Gemini для новой Siri](https://habr.com/ru/companies/bothub/news/962772/?utm_campaign=962772&utm_source=habrahabr&utm_medium=rss)
 - [На GitHub появился крупнейший репозиторий о World Models](https://habr.com/ru/companies/bothub/news/962768/?utm_campaign=962768&utm_source=habrahabr&utm_medium=rss)
 - [Баг в Windows 11 вызывает зависание и появление красного оттенка в играх и видео](https://habr.com/ru/news/962756/?utm_campaign=962756&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft 365 Copilot по умолчанию отключит предупреждение об ошибках ИИ](https://habr.com/ru/news/962748/?utm_campaign=962748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
