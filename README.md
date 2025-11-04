@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft и Meta* выпустили приложение Mixed Reality Link для работы с Windows в смешанной реальности](https://habr.com/ru/news/962570/?utm_campaign=962570&utm_source=habrahabr&utm_medium=rss)
+- [Lambda AI и Microsoft заключили многомиллиардное соглашение для развития облачной инфраструктуры ИИ](https://habr.com/ru/companies/bothub/news/962986/?utm_campaign=962986&utm_source=habrahabr&utm_medium=rss)
 - [Joomla официально признана Альянсом цифровых общественных благ](https://habr.com/ru/news/962832/?utm_campaign=962832&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объяснила продление поддержки многих ПК с Windows 10](https://habr.com/ru/news/962950/?utm_campaign=962950&utm_source=habrahabr&utm_medium=rss)
-- [Привет, Хабр! Есть две новости — хорошая и плохая. С какой начать?](https://habr.com/ru/companies/hstx/news/962964/?utm_campaign=962964&utm_source=habrahabr&utm_medium=rss)
 - [SpecFive выпустила автономный Android-смартфон с поддержкой мэш-сети](https://habr.com/ru/news/962942/?utm_campaign=962942&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку компонента Excel надстройка Visio Data Visualizer](https://habr.com/ru/news/962932/?utm_campaign=962932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
