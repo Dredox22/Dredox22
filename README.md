@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз продолжения игры «Смута» под названием «Земский Собор»](https://habr.com/ru/news/963068/?utm_campaign=963068&utm_source=habrahabr&utm_medium=rss)
+- [Deutsche Telekom и NVIDIA объявили о партнёрстве на 1 миллиард евро](https://habr.com/ru/companies/bothub/news/963064/?utm_campaign=963064&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: коды авторизации для Telegram начали приходить в WhatsApp](https://habr.com/ru/news/963052/?utm_campaign=963052&utm_source=habrahabr&utm_medium=rss)
 - [Блогер PewDiePie собрал ПК за $20 тысяч и запускает на нем «совет» ИИ-агентов](https://habr.com/ru/news/963050/?utm_campaign=963050&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи показали систему, которая способна создавать реалистичные 3D-модели городов](https://habr.com/ru/companies/bothub/news/963034/?utm_campaign=963034&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT продолжит давать медицинские и юридические советы](https://habr.com/ru/news/963030/?utm_campaign=963030&utm_source=habrahabr&utm_medium=rss)
-- [IBM выпустила семейство компактных моделей Granite 4.0 Nano](https://habr.com/ru/companies/bothub/news/963010/?utm_campaign=963010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
