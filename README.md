@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск StaxRip 2.50.4 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/962822/?utm_campaign=962822&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI и Amazon заключили семилетнюю сделку на $38 млрд, чтобы улучшить работу ChatGPT](https://habr.com/ru/news/962900/?utm_campaign=962900&utm_source=habrahabr&utm_medium=rss)
+- [Руководящий комитет Python единогласно одобрил предложение по улучшению языка «PEP 810 — Явный ленивый импорт»](https://habr.com/ru/news/962898/?utm_campaign=962898&utm_source=habrahabr&utm_medium=rss)
 - [Релиз RapidRAW 1.4.4 — открытого редактора изображений RAW](https://habr.com/ru/news/962826/?utm_campaign=962826&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia H100 отправили в космос. На орбите планируют строить дата-центры — но есть нюансы](https://habr.com/ru/news/962882/?utm_campaign=962882&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман устал от разговоров о доходах OpenAI](https://habr.com/ru/companies/bothub/news/962878/?utm_campaign=962878&utm_source=habrahabr&utm_medium=rss)
-- [В музыкальных чартах США каждую неделю появляется хотя бы один ИИ-артист](https://habr.com/ru/news/962872/?utm_campaign=962872&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft инвестирует 15,2 млрд долларов в ОАЭ](https://habr.com/ru/companies/bothub/news/962864/?utm_campaign=962864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
