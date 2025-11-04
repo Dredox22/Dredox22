@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [150 бывших консультантов McKinsey обучают AI-модели](https://habr.com/ru/companies/bothub/news/963104/?utm_campaign=963104&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic ожидает выручку до 70 млрд долларов к 2028 году](https://habr.com/ru/companies/bothub/news/963102/?utm_campaign=963102&utm_source=habrahabr&utm_medium=rss)
 - [Японские издатели требуют OpenAI остановить использование их материалов для обучения ИИ](https://habr.com/ru/companies/bothub/news/963066/?utm_campaign=963066&utm_source=habrahabr&utm_medium=rss)
 - [Пошаговая тактическая игра «Спарта 2035» вышла в релиз](https://habr.com/ru/news/963078/?utm_campaign=963078&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз продолжения игры «Смута» под названием «Земский Собор»](https://habr.com/ru/news/963068/?utm_campaign=963068&utm_source=habrahabr&utm_medium=rss)
-- [Deutsche Telekom и NVIDIA объявили о партнёрстве на 1 миллиард евро](https://habr.com/ru/companies/bothub/news/963064/?utm_campaign=963064&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: коды авторизации для Telegram начали приходить в WhatsApp](https://habr.com/ru/news/963052/?utm_campaign=963052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
