@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Студия «Гибли», Bandai Namco и Square Enix требуют от OpenAI прекратить использование их контента для обучения ИИ](https://habr.com/ru/news/963006/?utm_campaign=963006&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba представила превью reasoning-версии Qwen3-Max-Thinking](https://habr.com/ru/companies/bothub/news/963004/?utm_campaign=963004&utm_source=habrahabr&utm_medium=rss)
+- [Только Qwen3 и DeepSeek V3.1 заработали на криптовалютах. ИИ из США в огромном минусе](https://habr.com/ru/news/962998/?utm_campaign=962998&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и Meta* выпустили приложение Mixed Reality Link для работы с Windows в смешанной реальности](https://habr.com/ru/news/962570/?utm_campaign=962570&utm_source=habrahabr&utm_medium=rss)
 - [Lambda AI и Microsoft заключили многомиллиардное соглашение для развития облачной инфраструктуры ИИ](https://habr.com/ru/companies/bothub/news/962986/?utm_campaign=962986&utm_source=habrahabr&utm_medium=rss)
-- [Joomla официально признана Альянсом цифровых общественных благ](https://habr.com/ru/news/962832/?utm_campaign=962832&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила продление поддержки многих ПК с Windows 10](https://habr.com/ru/news/962950/?utm_campaign=962950&utm_source=habrahabr&utm_medium=rss)
-- [SpecFive выпустила автономный Android-смартфон с поддержкой мэш-сети](https://habr.com/ru/news/962942/?utm_campaign=962942&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
