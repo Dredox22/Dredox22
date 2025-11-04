@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Joomla официально признана Альянсом цифровых общественных благ](https://habr.com/ru/news/962832/?utm_campaign=962832&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft объяснила продление поддержки многих ПК с Windows 10](https://habr.com/ru/news/962950/?utm_campaign=962950&utm_source=habrahabr&utm_medium=rss)
+- [Привет, Хабр! Есть две новости — хорошая и плохая. С какой начать?](https://habr.com/ru/companies/hstx/news/962964/?utm_campaign=962964&utm_source=habrahabr&utm_medium=rss)
 - [SpecFive выпустила автономный Android-смартфон с поддержкой мэш-сети](https://habr.com/ru/news/962942/?utm_campaign=962942&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку компонента Excel надстройка Visio Data Visualizer](https://habr.com/ru/news/962932/?utm_campaign=962932&utm_source=habrahabr&utm_medium=rss)
-- [Вышла среда разработки Qt Creator 18](https://habr.com/ru/news/962820/?utm_campaign=962820&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Cjam 2.3.0.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/962834/?utm_campaign=962834&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск StaxRip 2.50.4 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/962822/?utm_campaign=962822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
