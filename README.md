@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Xpeng представил человекоподобного робота Iron с женским телосложением](https://habr.com/ru/companies/bothub/news/963422/?utm_campaign=963422&utm_source=habrahabr&utm_medium=rss)
-- [Qwen3-VL теперь работает в llama.cpp](https://habr.com/ru/companies/bothub/news/963416/?utm_campaign=963416&utm_source=habrahabr&utm_medium=rss)
-- [Бренды покупают рекламу на Reddit, чтобы попасть в рекомендации LLM](https://habr.com/ru/companies/bothub/news/963412/?utm_campaign=963412&utm_source=habrahabr&utm_medium=rss)
-- [Coca-Cola представила новую AI-версию рождественской рекламы](https://habr.com/ru/companies/bothub/news/963398/?utm_campaign=963398&utm_source=habrahabr&utm_medium=rss)
-- [Amazon обвиняет Perplexity в мошенничестве из-за AI-агента Comet](https://habr.com/ru/companies/bothub/news/963390/?utm_campaign=963390&utm_source=habrahabr&utm_medium=rss)
+- [В ПГУ разработали методику обучения JavaScript на кириллице](https://habr.com/ru/news/963440/?utm_campaign=963440&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: паролем системы видеонаблюдения в Лувре было слово Louvre](https://habr.com/ru/news/963438/?utm_campaign=963438&utm_source=habrahabr&utm_medium=rss)
+- [AgiBot запустила роботов, обучающихся с подкреплением в реальном мире](https://habr.com/ru/companies/bothub/news/963436/?utm_campaign=963436&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Azure преодолела барьер инференса в 1 млн токенов в секунду](https://habr.com/ru/companies/bothub/news/963432/?utm_campaign=963432&utm_source=habrahabr&utm_medium=rss)
+- [Google разместит ИИ-вычисления на околоземной орбите](https://habr.com/ru/companies/bothub/news/963426/?utm_campaign=963426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
