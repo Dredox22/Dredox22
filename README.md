@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Всероссийский хакатон для умных и свободных: призовой фонд один миллион рублей](https://habr.com/ru/companies/alfa/news/962402/?utm_campaign=962402&utm_source=habrahabr&utm_medium=rss)
+- [В AMD признали наличие ошибки безопасности в генераторе RDSEED в части процессоров на архитектуре Zen 5](https://habr.com/ru/news/963326/?utm_campaign=963326&utm_source=habrahabr&utm_medium=rss)
 - [Функцию SmartScreen для Internet Explorer и режима IE в Windows 11 объявили ​​устаревшей](https://habr.com/ru/news/963302/?utm_campaign=963302&utm_source=habrahabr&utm_medium=rss)
 - [Плата конвертор для светодиодов ws28… MB2WS](https://habr.com/ru/news/963316/?utm_campaign=963316&utm_source=habrahabr&utm_medium=rss)
 - [Сайт Have I Been Pwned проиндексировал самый большой массив данных об утечках за всю свою историю](https://habr.com/ru/news/963292/?utm_campaign=963292&utm_source=habrahabr&utm_medium=rss)
-- [Google представила чип Willow, который работает в 13 000 раз быстрее суперкомпьютеров](https://habr.com/ru/news/963280/?utm_campaign=963280&utm_source=habrahabr&utm_medium=rss)
-- [Контур на Standoff Bug Bounty: компания заплатит белым хакерам до миллиона рублей за уязвимости](https://habr.com/ru/companies/pt/news/963270/?utm_campaign=963270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
