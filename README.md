@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/963462/?utm_campaign=963462&utm_source=habrahabr&utm_medium=rss)
+- [По сериалу «Киберслав» выйдет приключенческая RPG «Киберслав: Затмение»](https://habr.com/ru/news/963456/?utm_campaign=963456&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление «РОСА Мобайл» 2.2](https://habr.com/ru/news/963454/?utm_campaign=963454&utm_source=habrahabr&utm_medium=rss)
 - [В ПГУ разработали методику обучения JavaScript на кириллице](https://habr.com/ru/news/963440/?utm_campaign=963440&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: паролем системы видеонаблюдения в Лувре было слово Louvre](https://habr.com/ru/news/963438/?utm_campaign=963438&utm_source=habrahabr&utm_medium=rss)
-- [AgiBot запустила роботов, обучающихся с подкреплением в реальном мире](https://habr.com/ru/companies/bothub/news/963436/?utm_campaign=963436&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Azure преодолела барьер инференса в 1 млн токенов в секунду](https://habr.com/ru/companies/bothub/news/963432/?utm_campaign=963432&utm_source=habrahabr&utm_medium=rss)
-- [Google разместит ИИ-вычисления на околоземной орбите](https://habr.com/ru/companies/bothub/news/963426/?utm_campaign=963426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
