@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xpeng представил человекоподобного робота Iron с женским телосложением](https://habr.com/ru/companies/bothub/news/963422/?utm_campaign=963422&utm_source=habrahabr&utm_medium=rss)
+- [Qwen3-VL теперь работает в llama.cpp](https://habr.com/ru/companies/bothub/news/963416/?utm_campaign=963416&utm_source=habrahabr&utm_medium=rss)
+- [Бренды покупают рекламу на Reddit, чтобы попасть в рекомендации LLM](https://habr.com/ru/companies/bothub/news/963412/?utm_campaign=963412&utm_source=habrahabr&utm_medium=rss)
+- [Coca-Cola представила новую AI-версию рождественской рекламы](https://habr.com/ru/companies/bothub/news/963398/?utm_campaign=963398&utm_source=habrahabr&utm_medium=rss)
 - [Amazon обвиняет Perplexity в мошенничестве из-за AI-агента Comet](https://habr.com/ru/companies/bothub/news/963390/?utm_campaign=963390&utm_source=habrahabr&utm_medium=rss)
-- [Amazon требует от Perplexity заблокировать использование ИИ-агента браузера Comet для совершения покупок на платформе](https://habr.com/ru/news/963380/?utm_campaign=963380&utm_source=habrahabr&utm_medium=rss)
-- [Нейросети предпочитают русский и польский языки — бенчмарк OneRuler](https://habr.com/ru/news/963376/?utm_campaign=963376&utm_source=habrahabr&utm_medium=rss)
-- [Apple обновила веб-версию App Store: через несколько часов исходный код магазина приложений появился на GitHub](https://habr.com/ru/news/963374/?utm_campaign=963374&utm_source=habrahabr&utm_medium=rss)
-- [Всероссийский хакатон для умных и свободных: призовой фонд один миллион рублей](https://habr.com/ru/companies/alfa/news/962402/?utm_campaign=962402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
