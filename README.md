@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Devuan 6 Excalibur, форк Debian 13 без systemd](https://habr.com/ru/news/962946/?utm_campaign=962946&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск спецификации формата изображений AV1 Image Format &lpar;AVIF&rpar; 1.2](https://habr.com/ru/news/962936/?utm_campaign=962936&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic рассказала, как будет «хоронить» старые модели ИИ](https://habr.com/ru/news/963110/?utm_campaign=963110&utm_source=habrahabr&utm_medium=rss)
 - [150 бывших консультантов McKinsey обучают AI-модели](https://habr.com/ru/companies/bothub/news/963104/?utm_campaign=963104&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic ожидает выручку до 70 млрд долларов к 2028 году](https://habr.com/ru/companies/bothub/news/963102/?utm_campaign=963102&utm_source=habrahabr&utm_medium=rss)
-- [Японские издатели требуют OpenAI остановить использование их материалов для обучения ИИ](https://habr.com/ru/companies/bothub/news/963066/?utm_campaign=963066&utm_source=habrahabr&utm_medium=rss)
-- [Пошаговая тактическая игра «Спарта 2035» вышла в релиз](https://habr.com/ru/news/963078/?utm_campaign=963078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
