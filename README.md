@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После внедрения «Яндексом» нейроответов при поиске товаров 40% ИИ-выдачи ведут на небольшие сайты, а не на маркетплейсы](https://habr.com/ru/news/963200/?utm_campaign=963200&utm_source=habrahabr&utm_medium=rss)
 - [Google удалила 749 млн URL-адресов Anna&#39;s Archive из результатов поиска](https://habr.com/ru/news/963174/?utm_campaign=963174&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows 10 ошибочно сообщает о прекращении поддержки ОС даже прии наличии ESU](https://habr.com/ru/news/963164/?utm_campaign=963164&utm_source=habrahabr&utm_medium=rss)
 - [Игровая консоль Arduboy размером с кредитную карту теперь поддерживает многопользовательский режим через USB](https://habr.com/ru/news/963156/?utm_campaign=963156&utm_source=habrahabr&utm_medium=rss)
 - [NorrNext Magazine. Интервью с волонтёрами Joomla](https://habr.com/ru/news/963056/?utm_campaign=963056&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Kitty Terminal 0.44](https://habr.com/ru/news/962984/?utm_campaign=962984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
