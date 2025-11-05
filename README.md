@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Профессор Гарварда и специалист OpenAI оценил влияние ИИ на экономику](https://habr.com/ru/news/963238/?utm_campaign=963238&utm_source=habrahabr&utm_medium=rss)
-- [Доля геймеров на Linux в Steam превысила 3%](https://habr.com/ru/news/963090/?utm_campaign=963090&utm_source=habrahabr&utm_medium=rss)
-- [После внедрения «Яндексом» нейроответов при поиске товаров 40% ИИ-выдачи ведут на небольшие сайты, а не на маркетплейсы](https://habr.com/ru/news/963200/?utm_campaign=963200&utm_source=habrahabr&utm_medium=rss)
-- [Google удалила 749 млн URL-адресов Anna&#39;s Archive из результатов поиска](https://habr.com/ru/news/963174/?utm_campaign=963174&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Windows 10 ошибочно сообщает о прекращении поддержки ОС даже прии наличии ESU](https://habr.com/ru/news/963164/?utm_campaign=963164&utm_source=habrahabr&utm_medium=rss)
+- [Функцию SmartScreen для Internet Explorer и режима IE в Windows 11 объявили ​​устаревшей](https://habr.com/ru/news/963302/?utm_campaign=963302&utm_source=habrahabr&utm_medium=rss)
+- [Плата конвертор для светодиодов ws28… MB2WS](https://habr.com/ru/news/963316/?utm_campaign=963316&utm_source=habrahabr&utm_medium=rss)
+- [Сайт Have I Been Pwned проиндексировал самый большой массив данных об утечках за всю свою историю](https://habr.com/ru/news/963292/?utm_campaign=963292&utm_source=habrahabr&utm_medium=rss)
+- [Google представила чип Willow, который работает в 13 000 раз быстрее суперкомпьютеров](https://habr.com/ru/news/963280/?utm_campaign=963280&utm_source=habrahabr&utm_medium=rss)
+- [Контур на Standoff Bug Bounty: компания заплатит белым хакерам до миллиона рублей за уязвимости](https://habr.com/ru/companies/pt/news/963270/?utm_campaign=963270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
