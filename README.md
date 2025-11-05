@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Игровая консоль Arduboy размером с кредитную карту теперь поддерживает многопользовательский режим через USB](https://habr.com/ru/news/963156/?utm_campaign=963156&utm_source=habrahabr&utm_medium=rss)
+- [NorrNext Magazine. Интервью с волонтёрами Joomla](https://habr.com/ru/news/963056/?utm_campaign=963056&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Kitty Terminal 0.44](https://habr.com/ru/news/962984/?utm_campaign=962984&utm_source=habrahabr&utm_medium=rss)
 - [CZ.NIC представила маршрутизатор Turris Omnia NG на базе форка OpenWRT](https://habr.com/ru/news/963128/?utm_campaign=963128&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск порта ядра Linux для WebAssembly, который можно протестировать в браузере](https://habr.com/ru/news/962980/?utm_campaign=962980&utm_source=habrahabr&utm_medium=rss)
-- [Google хочет развернуть «рой» ИИ-спутников: орбитальный дата-центр вместо земного](https://habr.com/ru/news/963124/?utm_campaign=963124&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Devuan 6 Excalibur, форк Debian 13 без systemd](https://habr.com/ru/news/962946/?utm_campaign=962946&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск спецификации формата изображений AV1 Image Format &lpar;AVIF&rpar; 1.2](https://habr.com/ru/news/962936/?utm_campaign=962936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
