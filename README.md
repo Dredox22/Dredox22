@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CZ.NIC представила маршрутизатор Turris Omnia NG на базе форка OpenWRT](https://habr.com/ru/news/963128/?utm_campaign=963128&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск порта ядра Linux для WebAssembly, который можно протестировать в браузере](https://habr.com/ru/news/962980/?utm_campaign=962980&utm_source=habrahabr&utm_medium=rss)
+- [Google хочет развернуть «рой» ИИ-спутников: орбитальный дата-центр вместо земного](https://habr.com/ru/news/963124/?utm_campaign=963124&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Devuan 6 Excalibur, форк Debian 13 без systemd](https://habr.com/ru/news/962946/?utm_campaign=962946&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск спецификации формата изображений AV1 Image Format &lpar;AVIF&rpar; 1.2](https://habr.com/ru/news/962936/?utm_campaign=962936&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic рассказала, как будет «хоронить» старые модели ИИ](https://habr.com/ru/news/963110/?utm_campaign=963110&utm_source=habrahabr&utm_medium=rss)
-- [150 бывших консультантов McKinsey обучают AI-модели](https://habr.com/ru/companies/bothub/news/963104/?utm_campaign=963104&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic ожидает выручку до 70 млрд долларов к 2028 году](https://habr.com/ru/companies/bothub/news/963102/?utm_campaign=963102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
