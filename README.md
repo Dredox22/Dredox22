@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3.0 Pro выйдет до конца ноября — внутренние документы Google](https://habr.com/ru/news/963468/?utm_campaign=963468&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/963462/?utm_campaign=963462&utm_source=habrahabr&utm_medium=rss)
 - [По сериалу «Киберслав» выйдет приключенческая RPG «Киберслав: Затмение»](https://habr.com/ru/news/963456/?utm_campaign=963456&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление «РОСА Мобайл» 2.2](https://habr.com/ru/news/963454/?utm_campaign=963454&utm_source=habrahabr&utm_medium=rss)
 - [В ПГУ разработали методику обучения JavaScript на кириллице](https://habr.com/ru/news/963440/?utm_campaign=963440&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: паролем системы видеонаблюдения в Лувре было слово Louvre](https://habr.com/ru/news/963438/?utm_campaign=963438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
