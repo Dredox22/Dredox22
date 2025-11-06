@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft признала перегрузку контекстного меню Windows 11](https://habr.com/ru/news/963550/?utm_campaign=963550&utm_source=habrahabr&utm_medium=rss)
+- [Японское сообщество поддержки Support.mozilla.org &lpar;SUMO&rpar; закрывается после внедрения Mozilla бота с машинным переводом](https://habr.com/ru/news/963538/?utm_campaign=963538&utm_source=habrahabr&utm_medium=rss)
 - [Глава Common Crawl: чат-ботам следует разрешить «читать книги» бесплатно](https://habr.com/ru/news/963536/?utm_campaign=963536&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики СhatGPT запросили финансовые гарантии у властей США](https://habr.com/ru/news/963532/?utm_campaign=963532&utm_source=habrahabr&utm_medium=rss)
 - [Huawei запустил в РФ конкурс рисунков GoPaint 2025, приём работ до 31 декабря](https://habr.com/ru/news/963526/?utm_campaign=963526&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack v0.36-0.37: переписали UI с нуля, шифрование на стороне сервера для S3, документация по REST API](https://habr.com/ru/companies/aenix/news/963002/?utm_campaign=963002&utm_source=habrahabr&utm_medium=rss)
-- [Rust Foundation представил инициативу Maintainers Fund для финансирования разработчиков и сопровождающих проекта Rust](https://habr.com/ru/news/963170/?utm_campaign=963170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
