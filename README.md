@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен ИИ, который читает воспоминания — шаг к чтению мыслей](https://habr.com/ru/news/963882/?utm_campaign=963882&utm_source=habrahabr&utm_medium=rss)
 - [Думающая Kimi K2 обошла GPT-5 в Последнем экзамене человечества](https://habr.com/ru/companies/bothub/news/963870/?utm_campaign=963870&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia станет ментором для индийских deep-tech стартапов](https://habr.com/ru/companies/bothub/news/963866/?utm_campaign=963866&utm_source=habrahabr&utm_medium=rss)
 - [Cognition представила ИИ, который помогает понимать код](https://habr.com/ru/companies/bothub/news/963864/?utm_campaign=963864&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила новую модель для генерации изображений](https://habr.com/ru/companies/bothub/news/963858/?utm_campaign=963858&utm_source=habrahabr&utm_medium=rss)
-- [Вышла библиотека Any Language Model, с её помощью можно использовать любые LLM в Foundation Models](https://habr.com/ru/news/963852/?utm_campaign=963852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
