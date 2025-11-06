@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст представил чехол для смартфона, стилизованный под кассетный плеер](https://habr.com/ru/news/963810/?utm_campaign=963810&utm_source=habrahabr&utm_medium=rss)
+- [«Спутникс» запустила бесплатный ежедневно обновляемый ресурс со спутниковыми снимками](https://habr.com/ru/news/963798/?utm_campaign=963798&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity вложит $400 млн в Snap, чтобы внедрить свой ИИ-поиск в Snapchat](https://habr.com/ru/news/963768/?utm_campaign=963768&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Kimi K2-Thinking. Новый ИИ из Китая доступен бесплатно](https://habr.com/ru/news/963764/?utm_campaign=963764&utm_source=habrahabr&utm_medium=rss)
 - [Почти 80% российских компаний выстраивают процессы безопасной разработки](https://habr.com/ru/companies/pt/news/963758/?utm_campaign=963758&utm_source=habrahabr&utm_medium=rss)
-- [Google и Epic Games договорились о мировом соглашении, которое может изменить правила работы Android](https://habr.com/ru/news/963746/?utm_campaign=963746&utm_source=habrahabr&utm_medium=rss)
-- [Java быстрая, как аппрувить pr, Value классы и объекты | Spring АйО Подкаст №41](https://habr.com/ru/companies/spring_aio/news/963730/?utm_campaign=963730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
