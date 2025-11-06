@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cozystack v0.36-0.37: переписали UI с нуля, шифрование на стороне сервера для S3, документация по REST API](https://habr.com/ru/companies/aenix/news/963002/?utm_campaign=963002&utm_source=habrahabr&utm_medium=rss)
 - [Rust Foundation представил инициативу Maintainers Fund для финансирования разработчиков и сопровождающих проекта Rust](https://habr.com/ru/news/963170/?utm_campaign=963170&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструмента для сетевого мониторинга Sniffnet 1.4.2](https://habr.com/ru/news/963224/?utm_campaign=963224&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI стал самой быстрорастущей бизнес-платформой в истории](https://habr.com/ru/news/963504/?utm_campaign=963504&utm_source=habrahabr&utm_medium=rss)
 - [Опубликовано второе издание книги «Постижение искусства схемотехники: практическое руководство»](https://habr.com/ru/news/963490/?utm_campaign=963490&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман рассказал, как ИИ может случайно «захватить» мир](https://habr.com/ru/news/963478/?utm_campaign=963478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
