@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity вложит $400 млн в Snap, чтобы внедрить свой ИИ-поиск в Snapchat](https://habr.com/ru/news/963768/?utm_campaign=963768&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Kimi K2-Thinking. Новый ИИ из Китая доступен бесплатно](https://habr.com/ru/news/963764/?utm_campaign=963764&utm_source=habrahabr&utm_medium=rss)
+- [Почти 80% российских компаний выстраивают процессы безопасной разработки](https://habr.com/ru/companies/pt/news/963758/?utm_campaign=963758&utm_source=habrahabr&utm_medium=rss)
 - [Google и Epic Games договорились о мировом соглашении, которое может изменить правила работы Android](https://habr.com/ru/news/963746/?utm_campaign=963746&utm_source=habrahabr&utm_medium=rss)
 - [Java быстрая, как аппрувить pr, Value классы и объекты | Spring АйО Подкаст №41](https://habr.com/ru/companies/spring_aio/news/963730/?utm_campaign=963730&utm_source=habrahabr&utm_medium=rss)
-- [Не пиши на JavaScript, AWS не сдюжил, HTTP/3 не панацея | Spring АйО Подкаст №40](https://habr.com/ru/companies/spring_aio/news/963728/?utm_campaign=963728&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax-M2 уже доступна в плагине Koda для VS Code и в Koda CLI. Можно попробовать бесплатно](https://habr.com/ru/companies/koda/news/963188/?utm_campaign=963188&utm_source=habrahabr&utm_medium=rss)
-- [Представлен ИИ-ученый Edison Kosmos, за день выполняющий до 6 месяцев рутинной работы](https://habr.com/ru/news/963696/?utm_campaign=963696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
