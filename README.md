@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Affinity стал бесплатным](https://habr.com/ru/news/963828/?utm_campaign=963828&utm_source=habrahabr&utm_medium=rss)
-- [Термин vibe coding стал словом 2025 года по версии словаря Collins](https://habr.com/ru/news/963826/?utm_campaign=963826&utm_source=habrahabr&utm_medium=rss)
-- [МФЦ переведут часть сервисов в национальный мессенджер Max](https://habr.com/ru/news/963824/?utm_campaign=963824&utm_source=habrahabr&utm_medium=rss)
-- [В РФ завели дело за «поиск экстремистских материалов» в интернете по 13.53 КоАП после передачи данных от оператора связи](https://habr.com/ru/news/963820/?utm_campaign=963820&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст представил чехол для смартфона, стилизованный под кассетный плеер](https://habr.com/ru/news/963810/?utm_campaign=963810&utm_source=habrahabr&utm_medium=rss)
+- [Amazon против Perplexity: конфликт из-за покупок через ИИ-агента](https://habr.com/ru/companies/bothub/news/963848/?utm_campaign=963848&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты НГУ создали автономного голосового помощника для умного дома](https://habr.com/ru/news/963842/?utm_campaign=963842&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic сохранит все версии Claude навсегда](https://habr.com/ru/companies/bothub/news/963840/?utm_campaign=963840&utm_source=habrahabr&utm_medium=rss)
+- [Беплатная нейросеть Kimi K2-Thinking обошла GPT-5 в одном из самых сложных бенчмарков](https://habr.com/ru/news/963838/?utm_campaign=963838&utm_source=habrahabr&utm_medium=rss)
+- [Tinder научит AI подбирать пары по фотографиям в смартфоне](https://habr.com/ru/companies/bothub/news/963836/?utm_campaign=963836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
