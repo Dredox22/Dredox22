@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Часть ПК с Windows загружаются в режиме восстановления BitLocker после последних апдейтов](https://habr.com/ru/news/963634/?utm_campaign=963634&utm_source=habrahabr&utm_medium=rss)
+- [РосНОУ вошёл в Университетский консорциум исследователей больших данных](https://habr.com/ru/news/963654/?utm_campaign=963654&utm_source=habrahabr&utm_medium=rss)
+- [Amvera Cloud открыла зону доступности в Европе](https://habr.com/ru/companies/amvera/news/963648/?utm_campaign=963648&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор Pinterest: открытые модели ИИ показывают «потрясающую производительность»](https://habr.com/ru/news/963604/?utm_campaign=963604&utm_source=habrahabr&utm_medium=rss)
 - [IT-сектор в топе по числу успешных кибератак в России](https://habr.com/ru/companies/pt/news/963620/?utm_campaign=963620&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft провела провальное тестирование ИИ-агентов на фальшивой торговой площадке](https://habr.com/ru/news/963572/?utm_campaign=963572&utm_source=habrahabr&utm_medium=rss)
-- [Идентификация множественных поставщиков услуг и их потребителей](https://habr.com/ru/companies/simpleone/news/963548/?utm_campaign=963548&utm_source=habrahabr&utm_medium=rss)
-- [Новая эра осознанного внедрения ESM — с версии 1.29.0 платформы SimpleOne](https://habr.com/ru/companies/simpleone/news/963544/?utm_campaign=963544&utm_source=habrahabr&utm_medium=rss)
-- [Bluetooth &lpar;SIG&rpar; опубликовала спецификации технологии Bluetooth Core 6.2](https://habr.com/ru/news/963568/?utm_campaign=963568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
