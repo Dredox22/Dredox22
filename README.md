@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google и Epic Games договорились о мировом соглашении, которое может изменить правила работы Android](https://habr.com/ru/news/963746/?utm_campaign=963746&utm_source=habrahabr&utm_medium=rss)
+- [Java быстрая, как аппрувить pr, Value классы и объекты | Spring АйО Подкаст №41](https://habr.com/ru/companies/spring_aio/news/963730/?utm_campaign=963730&utm_source=habrahabr&utm_medium=rss)
+- [Не пиши на JavaScript, AWS не сдюжил, HTTP/3 не панацея | Spring АйО Подкаст №40](https://habr.com/ru/companies/spring_aio/news/963728/?utm_campaign=963728&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax-M2 уже доступна в плагине Koda для VS Code и в Koda CLI. Можно попробовать бесплатно](https://habr.com/ru/companies/koda/news/963188/?utm_campaign=963188&utm_source=habrahabr&utm_medium=rss)
 - [Представлен ИИ-ученый Edison Kosmos, за день выполняющий до 6 месяцев рутинной работы](https://habr.com/ru/news/963696/?utm_campaign=963696&utm_source=habrahabr&utm_medium=rss)
-- [Apple будет платить Google миллиард долларов в год за AI для Siri](https://habr.com/ru/companies/bothub/news/963682/?utm_campaign=963682&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Amazon Music получило ИИ-помощника Alexa+](https://habr.com/ru/news/963116/?utm_campaign=963116&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Музыке» стали доступны ИИ‑рекомендации на двенадцати иностранных языках](https://habr.com/ru/news/963670/?utm_campaign=963670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
