@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI стал самой быстрорастущей бизнес-платформой в истории](https://habr.com/ru/news/963504/?utm_campaign=963504&utm_source=habrahabr&utm_medium=rss)
 - [Опубликовано второе издание книги «Постижение искусства схемотехники: практическое руководство»](https://habr.com/ru/news/963490/?utm_campaign=963490&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман рассказал, как ИИ может случайно «захватить» мир](https://habr.com/ru/news/963478/?utm_campaign=963478&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.0 Pro выйдет до конца ноября — внутренние документы Google](https://habr.com/ru/news/963468/?utm_campaign=963468&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/963462/?utm_campaign=963462&utm_source=habrahabr&utm_medium=rss)
-- [По сериалу «Киберслав» выйдет приключенческая RPG «Киберслав: Затмение»](https://habr.com/ru/news/963456/?utm_campaign=963456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
