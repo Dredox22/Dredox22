@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft признала перегрузку контекстного меню Windows 11](https://habr.com/ru/news/963550/?utm_campaign=963550&utm_source=habrahabr&utm_medium=rss)
-- [Японское сообщество поддержки Support.mozilla.org &lpar;SUMO&rpar; закрывается после внедрения Mozilla бота с машинным переводом](https://habr.com/ru/news/963538/?utm_campaign=963538&utm_source=habrahabr&utm_medium=rss)
-- [Глава Common Crawl: чат-ботам следует разрешить «читать книги» бесплатно](https://habr.com/ru/news/963536/?utm_campaign=963536&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики СhatGPT запросили финансовые гарантии у властей США](https://habr.com/ru/news/963532/?utm_campaign=963532&utm_source=habrahabr&utm_medium=rss)
-- [Huawei запустил в РФ конкурс рисунков GoPaint 2025, приём работ до 31 декабря](https://habr.com/ru/news/963526/?utm_campaign=963526&utm_source=habrahabr&utm_medium=rss)
+- [IT-сектор в топе по числу успешных кибератак в России](https://habr.com/ru/companies/pt/news/963620/?utm_campaign=963620&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft провела провальное тестирование ИИ-агентов на фальшивой торговой площадке](https://habr.com/ru/news/963572/?utm_campaign=963572&utm_source=habrahabr&utm_medium=rss)
+- [Идентификация множественных поставщиков услуг и их потребителей](https://habr.com/ru/companies/simpleone/news/963548/?utm_campaign=963548&utm_source=habrahabr&utm_medium=rss)
+- [Новая эра осознанного внедрения ESM — с версии 1.29.0 платформы SimpleOne](https://habr.com/ru/companies/simpleone/news/963544/?utm_campaign=963544&utm_source=habrahabr&utm_medium=rss)
+- [Bluetooth &lpar;SIG&rpar; опубликовала спецификации технологии Bluetooth Core 6.2](https://habr.com/ru/news/963568/?utm_campaign=963568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
