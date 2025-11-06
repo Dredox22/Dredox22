@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple будет платить Google миллиард долларов в год за AI для Siri](https://habr.com/ru/companies/bothub/news/963682/?utm_campaign=963682&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Amazon Music получило ИИ-помощника Alexa+](https://habr.com/ru/news/963116/?utm_campaign=963116&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Музыке» стали доступны ИИ‑рекомендации на двенадцати иностранных языках](https://habr.com/ru/news/963670/?utm_campaign=963670&utm_source=habrahabr&utm_medium=rss)
 - [Часть ПК с Windows загружаются в режиме восстановления BitLocker после последних апдейтов](https://habr.com/ru/news/963634/?utm_campaign=963634&utm_source=habrahabr&utm_medium=rss)
 - [РосНОУ вошёл в Университетский консорциум исследователей больших данных](https://habr.com/ru/news/963654/?utm_campaign=963654&utm_source=habrahabr&utm_medium=rss)
-- [Amvera Cloud открыла зону доступности в Европе](https://habr.com/ru/companies/amvera/news/963648/?utm_campaign=963648&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Pinterest: открытые модели ИИ показывают «потрясающую производительность»](https://habr.com/ru/news/963604/?utm_campaign=963604&utm_source=habrahabr&utm_medium=rss)
-- [IT-сектор в топе по числу успешных кибератак в России](https://habr.com/ru/companies/pt/news/963620/?utm_campaign=963620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
