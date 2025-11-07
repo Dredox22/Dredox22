@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google предложили решение одного из главных недостатков ИИ](https://habr.com/ru/news/964296/?utm_campaign=964296&utm_source=habrahabr&utm_medium=rss)
 - [Казахстанские учителя получат бесплатный доступ к ChatGPT](https://habr.com/ru/companies/bothub/news/964280/?utm_campaign=964280&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Маркет запустил AI-агента для покупок в чате](https://habr.com/ru/companies/bothub/news/964272/?utm_campaign=964272&utm_source=habrahabr&utm_medium=rss)
 - [«Сигналтек» планирует создать отечественный процессор для базовых станций LTE к 2028 году](https://habr.com/ru/news/964270/?utm_campaign=964270&utm_source=habrahabr&utm_medium=rss)
 - [Акционеры Tesla утвердили триллион для Маска](https://habr.com/ru/companies/bothub/news/964264/?utm_campaign=964264&utm_source=habrahabr&utm_medium=rss)
-- [Из-за закона о цифровых рынках в ЕС не будет синхронизации Wi-Fi между iPhone и Apple Watch](https://habr.com/ru/news/964244/?utm_campaign=964244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
