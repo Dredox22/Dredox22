@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rockstar: GTA VI выйдет не 26 мая, а 19 ноября следующего года](https://habr.com/ru/news/963930/?utm_campaign=963930&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария MediaInfo 25.10 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/963812/?utm_campaign=963812&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI откладывает IPO и делает ставку на масштаб](https://habr.com/ru/companies/bothub/news/963918/?utm_campaign=963918&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск среды рабочего стола LXQt 2.3.0](https://habr.com/ru/news/963628/?utm_campaign=963628&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.17](https://habr.com/ru/news/963530/?utm_campaign=963530&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Kimi K2 Thinking – свежая open source-модель для сложных рассуждений и агентных задач](https://habr.com/ru/news/963898/?utm_campaign=963898&utm_source=habrahabr&utm_medium=rss)
-- [Представлен ИИ, который читает воспоминания — шаг к чтению мыслей](https://habr.com/ru/news/963882/?utm_campaign=963882&utm_source=habrahabr&utm_medium=rss)
-- [Думающая Kimi K2 обошла GPT-5 в Последнем экзамене человечества](https://habr.com/ru/companies/bothub/news/963870/?utm_campaign=963870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
