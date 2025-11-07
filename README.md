@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск среды рабочего стола LXQt 2.3.0](https://habr.com/ru/news/963628/?utm_campaign=963628&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.17](https://habr.com/ru/news/963530/?utm_campaign=963530&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Kimi K2 Thinking – свежая open source-модель для сложных рассуждений и агентных задач](https://habr.com/ru/news/963898/?utm_campaign=963898&utm_source=habrahabr&utm_medium=rss)
 - [Представлен ИИ, который читает воспоминания — шаг к чтению мыслей](https://habr.com/ru/news/963882/?utm_campaign=963882&utm_source=habrahabr&utm_medium=rss)
 - [Думающая Kimi K2 обошла GPT-5 в Последнем экзамене человечества](https://habr.com/ru/companies/bothub/news/963870/?utm_campaign=963870&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia станет ментором для индийских deep-tech стартапов](https://habr.com/ru/companies/bothub/news/963866/?utm_campaign=963866&utm_source=habrahabr&utm_medium=rss)
-- [Cognition представила ИИ, который помогает понимать код](https://habr.com/ru/companies/bothub/news/963864/?utm_campaign=963864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
