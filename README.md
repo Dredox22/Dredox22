@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открыта регистрация на участие в олимпиаде по программированию «Технокубок»](https://habr.com/ru/news/964220/?utm_campaign=964220&utm_source=habrahabr&utm_medium=rss)
 - [Определены технические способы и условия, когда оператор связи имеет право не направлять трафик через ТСПУ](https://habr.com/ru/news/964204/?utm_campaign=964204&utm_source=habrahabr&utm_medium=rss)
 - [AIJ Deep Dive: первый очный трек по GenAI для дата-сайентистов и разработчиков на AI Journey](https://habr.com/ru/companies/sberbank/news/964160/?utm_campaign=964160&utm_source=habrahabr&utm_medium=rss)
 - [Китай запретил ИИ-чипы Nvidia в дата-центрах с госфинансированием](https://habr.com/ru/news/964178/?utm_campaign=964178&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity научила триллионные ИИ-модели работать без суперкомпьютеров](https://habr.com/ru/companies/bothub/news/963922/?utm_campaign=963922&utm_source=habrahabr&utm_medium=rss)
-- [Amazon предлагает перевод с помощью ИИ для книг, самостоятельно опубликованных в Kindle Store](https://habr.com/ru/news/964132/?utm_campaign=964132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
