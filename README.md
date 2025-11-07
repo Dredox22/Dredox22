@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновили ИИ-агент Яндекс Маркета: распознаёт товары по фото, рекомендует подарки и лучше решает задачи выбора](https://habr.com/ru/companies/yandex/news/963778/?utm_campaign=963778&utm_source=habrahabr&utm_medium=rss)
+- [Вышел DaVinci Resolve 20.2.3](https://habr.com/ru/news/963660/?utm_campaign=963660&utm_source=habrahabr&utm_medium=rss)
+- [Суд встал на сторону Stability AI в деле о пиратстве](https://habr.com/ru/companies/bothub/news/963934/?utm_campaign=963934&utm_source=habrahabr&utm_medium=rss)
+- [СИМ-карты граждан РФ перестанут работать на 24 часа после возвращения из-за границы](https://habr.com/ru/news/963946/?utm_campaign=963946&utm_source=habrahabr&utm_medium=rss)
 - [Rockstar: GTA VI выйдет не 26 мая, а 19 ноября следующего года](https://habr.com/ru/news/963930/?utm_campaign=963930&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария MediaInfo 25.10 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/963812/?utm_campaign=963812&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI откладывает IPO и делает ставку на масштаб](https://habr.com/ru/companies/bothub/news/963918/?utm_campaign=963918&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск среды рабочего стола LXQt 2.3.0](https://habr.com/ru/news/963628/?utm_campaign=963628&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.17](https://habr.com/ru/news/963530/?utm_campaign=963530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
