@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла СУБД SQLite 3.51](https://habr.com/ru/news/963566/?utm_campaign=963566&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft вернула «ненужные» даты в обновлениях Windows 11 после негативной реакции пользователей](https://habr.com/ru/news/963496/?utm_campaign=963496&utm_source=habrahabr&utm_medium=rss)
 - [Cognition представил функцию объяснения кода в ИИ-редакторе Windsurf](https://habr.com/ru/news/964016/?utm_campaign=964016&utm_source=habrahabr&utm_medium=rss)
 - [ComfyUI запустила облако для генерации изображений](https://habr.com/ru/companies/bothub/news/963932/?utm_campaign=963932&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare открыла исходный код асинхронной библиотеки QUIC и HTTP/3 на основе среды выполнения Rust Tokio](https://habr.com/ru/news/964002/?utm_campaign=964002&utm_source=habrahabr&utm_medium=rss)
-- [На macOS теперь можно запустить пропатченную iOS-версию Fortnite](https://habr.com/ru/news/964024/?utm_campaign=964024&utm_source=habrahabr&utm_medium=rss)
-- [Тим Бернерс-Ли: генеративный ИИ угрожает многомиллиардной рекламной модели, которая является основой экономики Интернета](https://habr.com/ru/news/964014/?utm_campaign=964014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
