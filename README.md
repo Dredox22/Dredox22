@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Казахстанские учителя получат бесплатный доступ к ChatGPT](https://habr.com/ru/companies/bothub/news/964280/?utm_campaign=964280&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Маркет запустил AI-агента для покупок в чате](https://habr.com/ru/companies/bothub/news/964272/?utm_campaign=964272&utm_source=habrahabr&utm_medium=rss)
+- [«Сигналтек» планирует создать отечественный процессор для базовых станций LTE к 2028 году](https://habr.com/ru/news/964270/?utm_campaign=964270&utm_source=habrahabr&utm_medium=rss)
 - [Акционеры Tesla утвердили триллион для Маска](https://habr.com/ru/companies/bothub/news/964264/?utm_campaign=964264&utm_source=habrahabr&utm_medium=rss)
 - [Из-за закона о цифровых рынках в ЕС не будет синхронизации Wi-Fi между iPhone и Apple Watch](https://habr.com/ru/news/964244/?utm_campaign=964244&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на участие в олимпиаде по программированию «Технокубок»](https://habr.com/ru/news/964220/?utm_campaign=964220&utm_source=habrahabr&utm_medium=rss)
-- [Определены технические способы и условия, когда оператор связи имеет право не направлять трафик через ТСПУ](https://habr.com/ru/news/964204/?utm_campaign=964204&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: Как мы пересобираем Maven Central для высоконагруженного финтеха с 30 тыс. платежей в минуту](https://habr.com/ru/companies/1cupis/news/964186/?utm_campaign=964186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
