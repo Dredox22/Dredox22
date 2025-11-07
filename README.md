@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновили ИИ-агент Яндекс Маркета: распознаёт товары по фото, рекомендует подарки и лучше решает задачи выбора](https://habr.com/ru/companies/yandex/news/963778/?utm_campaign=963778&utm_source=habrahabr&utm_medium=rss)
-- [Вышел DaVinci Resolve 20.2.3](https://habr.com/ru/news/963660/?utm_campaign=963660&utm_source=habrahabr&utm_medium=rss)
-- [Суд встал на сторону Stability AI в деле о пиратстве](https://habr.com/ru/companies/bothub/news/963934/?utm_campaign=963934&utm_source=habrahabr&utm_medium=rss)
-- [СИМ-карты граждан РФ перестанут работать на 24 часа после возвращения из-за границы](https://habr.com/ru/news/963946/?utm_campaign=963946&utm_source=habrahabr&utm_medium=rss)
-- [Rockstar: GTA VI выйдет не 26 мая, а 19 ноября следующего года](https://habr.com/ru/news/963930/?utm_campaign=963930&utm_source=habrahabr&utm_medium=rss)
+- [Пенсильванский университет подтвердил факт кражи данных в результате кибератаки](https://habr.com/ru/news/964000/?utm_campaign=964000&utm_source=habrahabr&utm_medium=rss)
+- [Firefox представила нового маскота с более дружелюбным образом](https://habr.com/ru/news/963982/?utm_campaign=963982&utm_source=habrahabr&utm_medium=rss)
+- [Google переписала свой инструмент определения типов файлов на Rust и выпустила стабильную версию Magika 1.0](https://habr.com/ru/news/963994/?utm_campaign=963994&utm_source=habrahabr&utm_medium=rss)
+- [ФБР направило повестку в суд регистратору доменов Archive.is](https://habr.com/ru/news/963972/?utm_campaign=963972&utm_source=habrahabr&utm_medium=rss)
+- [Все в одной лодке — Gartner BOAT Magic Quadrant](https://habr.com/ru/news/963978/?utm_campaign=963978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
