@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Оператор связи Т2 &lpar;ранее Tele2&rpar; опроверг передачу поисковой истории абонента в деле о поиске экстремистских материалов](https://habr.com/ru/news/964360/?utm_campaign=964360&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft анонсировала Windows 11 26H1](https://habr.com/ru/news/964344/?utm_campaign=964344&utm_source=habrahabr&utm_medium=rss)
 - [Mullvad закрывает свой поисковый прокси-сервер Leta](https://habr.com/ru/news/964338/?utm_campaign=964338&utm_source=habrahabr&utm_medium=rss)
 - [Представлена мобильная платформа /e/OS 3.2](https://habr.com/ru/news/964230/?utm_campaign=964230&utm_source=habrahabr&utm_medium=rss)
 - [В 2026 году в WhatsApp внедрят имена пользователей вместо номеров телефонов](https://habr.com/ru/news/964334/?utm_campaign=964334&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого аудиоплеера Dopamine 3.0](https://habr.com/ru/news/964330/?utm_campaign=964330&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия корпоративного дистрибутива SUSE Linux Enterprise Server 16 с поддержкой в 16 лет](https://habr.com/ru/news/964246/?utm_campaign=964246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
