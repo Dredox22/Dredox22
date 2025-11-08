@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Китай — на наносекунды позади»: босс Nvidia призвал США выиграть ИИ-гонку](https://habr.com/ru/news/964410/?utm_campaign=964410&utm_source=habrahabr&utm_medium=rss)
 - [Прототип GPT-5.1 можно бесплатно попробовать на OpenRouter](https://habr.com/ru/news/964396/?utm_campaign=964396&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-5 Codex-Mini: в 4 раза дешевле, почти без потерь в мощности](https://habr.com/ru/news/964378/?utm_campaign=964378&utm_source=habrahabr&utm_medium=rss)
 - [Оператор связи Т2 &lpar;ранее Tele2&rpar; опроверг передачу поисковой истории абонента в деле о поиске экстремистских материалов](https://habr.com/ru/news/964360/?utm_campaign=964360&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала Windows 11 26H1](https://habr.com/ru/news/964344/?utm_campaign=964344&utm_source=habrahabr&utm_medium=rss)
-- [Mullvad закрывает свой поисковый прокси-сервер Leta](https://habr.com/ru/news/964338/?utm_campaign=964338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
