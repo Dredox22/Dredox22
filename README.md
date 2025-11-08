@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mullvad закрывает свой поисковый прокси-сервер Leta](https://habr.com/ru/news/964338/?utm_campaign=964338&utm_source=habrahabr&utm_medium=rss)
+- [Представлена мобильная платформа /e/OS 3.2](https://habr.com/ru/news/964230/?utm_campaign=964230&utm_source=habrahabr&utm_medium=rss)
+- [В 2026 году в WhatsApp внедрят имена пользователей вместо номеров телефонов](https://habr.com/ru/news/964334/?utm_campaign=964334&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого аудиоплеера Dopamine 3.0](https://habr.com/ru/news/964330/?utm_campaign=964330&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия корпоративного дистрибутива SUSE Linux Enterprise Server 16 с поддержкой в 16 лет](https://habr.com/ru/news/964246/?utm_campaign=964246&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта для создания и хранения в электронной библиотеке электронных книг разного формата Calibre 8.14](https://habr.com/ru/news/964148/?utm_campaign=964148&utm_source=habrahabr&utm_medium=rss)
-- [В Google предложили решение одного из главных недостатков ИИ](https://habr.com/ru/news/964296/?utm_campaign=964296&utm_source=habrahabr&utm_medium=rss)
-- [Казахстанские учителя получат бесплатный доступ к ChatGPT](https://habr.com/ru/companies/bothub/news/964280/?utm_campaign=964280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
