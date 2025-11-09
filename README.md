@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РФ создаётся новый кибербез‑консорциум для предотвращения фишинга и кибератак](https://habr.com/ru/news/964588/?utm_campaign=964588&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт по ИБ из Cybernews выяснил, что советы от ChatGPT, Claude и Gemini подвергают угрозам безопасность домашней сети](https://habr.com/ru/news/964576/?utm_campaign=964576&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудник OpenAI пожелал «смерти» модели GPT-4o](https://habr.com/ru/news/964538/?utm_campaign=964538&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект простой электронной книги Open Book Touch](https://habr.com/ru/news/964508/?utm_campaign=964508&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI получила семь исков от клиентов за то, что ChatGPT довёл людей до самоубийства](https://habr.com/ru/news/964500/?utm_campaign=964500&utm_source=habrahabr&utm_medium=rss)
-- [Представлен порт Doom и Doom II в Telegram](https://habr.com/ru/news/964482/?utm_campaign=964482&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта межсетевого экрана firewalld 2.4.0](https://habr.com/ru/news/964354/?utm_campaign=964354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
