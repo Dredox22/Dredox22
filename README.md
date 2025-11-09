@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ввпуск Glow 25.15 — открытый инструмент для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/964216/?utm_campaign=964216&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI предупредили о «потенциально катастрофической» опасности супер-ИИ](https://habr.com/ru/news/964452/?utm_campaign=964452&utm_source=habrahabr&utm_medium=rss)
 - [«Китай — на наносекунды позади»: босс Nvidia призвал США выиграть ИИ-гонку](https://habr.com/ru/news/964410/?utm_campaign=964410&utm_source=habrahabr&utm_medium=rss)
 - [Прототип GPT-5.1 можно бесплатно попробовать на OpenRouter](https://habr.com/ru/news/964396/?utm_campaign=964396&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-5 Codex-Mini: в 4 раза дешевле, почти без потерь в мощности](https://habr.com/ru/news/964378/?utm_campaign=964378&utm_source=habrahabr&utm_medium=rss)
-- [Оператор связи Т2 &lpar;ранее Tele2&rpar; опроверг передачу поисковой истории абонента в деле о поиске экстремистских материалов](https://habr.com/ru/news/964360/?utm_campaign=964360&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
