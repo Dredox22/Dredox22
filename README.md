@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Блогер разобрал RedMagic 11 Pro и показал, что внутри первого в мире смартфона с жидкостным охладителем](https://habr.com/ru/news/964688/?utm_campaign=964688&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия инструментария с комплектом аудиопрограмм в одном приложении KataLib 5.1.0.0 для Windows](https://habr.com/ru/news/964570/?utm_campaign=964570&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 появилась иконка батареи на панели задач с отображением процента заряда](https://habr.com/ru/news/964764/?utm_campaign=964764&utm_source=habrahabr&utm_medium=rss)
 - [Новая парадигма ИИ от Google позволяет моделям учиться бесконечно](https://habr.com/ru/companies/bothub/news/964766/?utm_campaign=964766&utm_source=habrahabr&utm_medium=rss)
 - [Роботакси Waymo готовятся к масштабной экспансии](https://habr.com/ru/companies/bothub/news/964738/?utm_campaign=964738&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия открытого проекта для редактирования видео LosslessCut 3.67](https://habr.com/ru/news/964602/?utm_campaign=964602&utm_source=habrahabr&utm_medium=rss)
-- [Расширенные обновления безопасности Windows 10 не будут работать на некоторых ПК](https://habr.com/ru/news/964736/?utm_campaign=964736&utm_source=habrahabr&utm_medium=rss)
-- [Команда открытого проекта runc столкнулась с ростом pull-request и отчётов об ошибках, сгенерированных ИИ](https://habr.com/ru/news/964714/?utm_campaign=964714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
