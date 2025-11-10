@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик DeepSeek предупредил о риске увольнений из-за ИИ](https://habr.com/ru/news/964934/?utm_campaign=964934&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появился пункт «Редактировать в “Блокноте”» для всех типов файлов](https://habr.com/ru/news/964894/?utm_campaign=964894&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance доказала: моделям для рассуждений нужны картинки, а не только текст](https://habr.com/ru/companies/bothub/news/964860/?utm_campaign=964860&utm_source=habrahabr&utm_medium=rss)
 - [Как защищать данные в CRM-системе на всех уровнях](https://habr.com/ru/companies/selectel/news/964852/?utm_campaign=964852&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая модель для восстановления и улучшения изображений](https://habr.com/ru/companies/bothub/news/964854/?utm_campaign=964854&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия композитного оконного менеджера Hyprland 0.52.0](https://habr.com/ru/news/964516/?utm_campaign=964516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
