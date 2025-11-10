@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая парадигма ИИ от Google позволяет моделям учиться бесконечно](https://habr.com/ru/companies/bothub/news/964766/?utm_campaign=964766&utm_source=habrahabr&utm_medium=rss)
+- [Роботакси Waymo готовятся к масштабной экспансии](https://habr.com/ru/companies/bothub/news/964738/?utm_campaign=964738&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия открытого проекта для редактирования видео LosslessCut 3.67](https://habr.com/ru/news/964602/?utm_campaign=964602&utm_source=habrahabr&utm_medium=rss)
+- [Расширенные обновления безопасности Windows 10 не будут работать на некоторых ПК](https://habr.com/ru/news/964736/?utm_campaign=964736&utm_source=habrahabr&utm_medium=rss)
 - [Команда открытого проекта runc столкнулась с ростом pull-request и отчётов об ошибках, сгенерированных ИИ](https://habr.com/ru/news/964714/?utm_campaign=964714&utm_source=habrahabr&utm_medium=rss)
-- [AI-рынок потерял $800 млрд за неделю](https://habr.com/ru/companies/bothub/news/964712/?utm_campaign=964712&utm_source=habrahabr&utm_medium=rss)
-- [«Байкал Электроникс» прекратила эксперимент по корпусированию чипов Baikal-M в РФ из-за дефицита компонентов](https://habr.com/ru/news/964706/?utm_campaign=964706&utm_source=habrahabr&utm_medium=rss)
-- [Скам приносит Facebook десять процентов рекламной выручки](https://habr.com/ru/companies/bothub/news/964704/?utm_campaign=964704&utm_source=habrahabr&utm_medium=rss)
-- [Представлен инструментарий Hyprtoolkit для создания графических интерфейсов на языке C++, нативно поддерживающих Wayland](https://habr.com/ru/news/964518/?utm_campaign=964518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
