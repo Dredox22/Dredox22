@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СИМ-карты граждан РФ у части операторов перестанут работать на 24 часа после возвращения из-за границы](https://habr.com/ru/news/964994/?utm_campaign=964994&utm_source=habrahabr&utm_medium=rss)
+- [В Google предупредили о вирусах нового поколения, способных удалённо подключаться к моделям генеративного ИИ](https://habr.com/ru/news/964992/?utm_campaign=964992&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Разработчики электроники предложили Минпромторгу РФ авансировать до 100% форвардных контрактов»](https://habr.com/ru/news/964988/?utm_campaign=964988&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг: технологический сбор в РФ сначала будет распространяться на ноутбуки и смартфоны](https://habr.com/ru/news/964968/?utm_campaign=964968&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик DeepSeek предупредил о риске увольнений из-за ИИ](https://habr.com/ru/news/964934/?utm_campaign=964934&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появился пункт «Редактировать в “Блокноте”» для всех типов файлов](https://habr.com/ru/news/964894/?utm_campaign=964894&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance доказала: моделям для рассуждений нужны картинки, а не только текст](https://habr.com/ru/companies/bothub/news/964860/?utm_campaign=964860&utm_source=habrahabr&utm_medium=rss)
-- [Как защищать данные в CRM-системе на всех уровнях](https://habr.com/ru/companies/selectel/news/964852/?utm_campaign=964852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
