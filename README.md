@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как защищать данные в CRM-системе на всех уровнях](https://habr.com/ru/companies/selectel/news/964852/?utm_campaign=964852&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая модель для восстановления и улучшения изображений](https://habr.com/ru/companies/bothub/news/964854/?utm_campaign=964854&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия композитного оконного менеджера Hyprland 0.52.0](https://habr.com/ru/news/964516/?utm_campaign=964516&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries запустила в тестовом режиме дипфейк-детектор изображений на 100 проверок в месяц бесплатно](https://habr.com/ru/news/964822/?utm_campaign=964822&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман рассказал, чем GPT-6 будет отличаться от GPT-5](https://habr.com/ru/news/964814/?utm_campaign=964814&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» и «РТК-Сервис» завершили пилотный проект по внедрению российских BRAS EcoRouter на сетях связи](https://habr.com/ru/news/964810/?utm_campaign=964810&utm_source=habrahabr&utm_medium=rss)
-- [Блогер разобрал RedMagic 11 Pro и показал, что внутри первого в мире смартфона с жидкостным охладителем](https://habr.com/ru/news/964688/?utm_campaign=964688&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия инструментария с комплектом аудиопрограмм в одном приложении KataLib 5.1.0.0 для Windows](https://habr.com/ru/news/964570/?utm_campaign=964570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
