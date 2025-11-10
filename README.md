@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Байкал Электроникс» прекратила эксперимент по корпусированию чипов Baikal-M в РФ из-за дефицита компонентов](https://habr.com/ru/news/964706/?utm_campaign=964706&utm_source=habrahabr&utm_medium=rss)
+- [Скам приносит Facebook десять процентов рекламной выручки](https://habr.com/ru/companies/bothub/news/964704/?utm_campaign=964704&utm_source=habrahabr&utm_medium=rss)
 - [Представлен инструментарий Hyprtoolkit для создания графических интерфейсов на языке C++, нативно поддерживающих Wayland](https://habr.com/ru/news/964518/?utm_campaign=964518&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия открытого проекта Password Safe 3.70.0](https://habr.com/ru/news/964598/?utm_campaign=964598&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для работы с MKV-файлами MKVToolNix 96.0](https://habr.com/ru/news/964610/?utm_campaign=964610&utm_source=habrahabr&utm_medium=rss)
-- [III космическая миссия СТЦ отмечает год работы уникальными кадрами загадки природы — «Ока Сахары»](https://habr.com/ru/companies/stc_spb/news/964656/?utm_campaign=964656&utm_source=habrahabr&utm_medium=rss)
-- [Вид на Санкт-Петербург запечатлел спутник СТЦ](https://habr.com/ru/companies/stc_spb/news/964652/?utm_campaign=964652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
