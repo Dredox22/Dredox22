@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры дважды парализовали работу российского производителя роботов Promobot](https://habr.com/ru/news/965026/?utm_campaign=965026&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустил гайд по созданию работающих AI-агентов](https://habr.com/ru/companies/bothub/news/965022/?utm_campaign=965022&utm_source=habrahabr&utm_medium=rss)
 - [СИМ-карты граждан РФ у операторов перестанут работать на 24 часа после возвращения из-за границы](https://habr.com/ru/news/964994/?utm_campaign=964994&utm_source=habrahabr&utm_medium=rss)
 - [В Google предупредили о вирусах нового поколения, способных удалённо подключаться к моделям генеративного ИИ](https://habr.com/ru/news/964992/?utm_campaign=964992&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Разработчики электроники предложили Минпромторгу РФ авансировать до 100% форвардных контрактов»](https://habr.com/ru/news/964988/?utm_campaign=964988&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг: технологический сбор в РФ сначала будет распространяться на ноутбуки и смартфоны](https://habr.com/ru/news/964968/?utm_campaign=964968&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик DeepSeek предупредил о риске увольнений из-за ИИ](https://habr.com/ru/news/964934/?utm_campaign=964934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
