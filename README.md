@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СИМ-карты граждан РФ у части операторов перестанут работать на 24 часа после возвращения из-за границы](https://habr.com/ru/news/964994/?utm_campaign=964994&utm_source=habrahabr&utm_medium=rss)
+- [СИМ-карты граждан РФ у операторов перестанут работать на 24 часа после возвращения из-за границы](https://habr.com/ru/news/964994/?utm_campaign=964994&utm_source=habrahabr&utm_medium=rss)
 - [В Google предупредили о вирусах нового поколения, способных удалённо подключаться к моделям генеративного ИИ](https://habr.com/ru/news/964992/?utm_campaign=964992&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Разработчики электроники предложили Минпромторгу РФ авансировать до 100% форвардных контрактов»](https://habr.com/ru/news/964988/?utm_campaign=964988&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг: технологический сбор в РФ сначала будет распространяться на ноутбуки и смартфоны](https://habr.com/ru/news/964968/?utm_campaign=964968&utm_source=habrahabr&utm_medium=rss)
