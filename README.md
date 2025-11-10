@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен инструментарий Hyprtoolkit для создания графических интерфейсов на языке C++, нативно поддерживающих Wayland](https://habr.com/ru/news/964518/?utm_campaign=964518&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия открытого проекта Password Safe 3.70.0](https://habr.com/ru/news/964598/?utm_campaign=964598&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск инструмента для работы с MKV-файлами MKVToolNix 96.0](https://habr.com/ru/news/964610/?utm_campaign=964610&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для работы с MKV-файлами MKVToolNix 96.0](https://habr.com/ru/news/964610/?utm_campaign=964610&utm_source=habrahabr&utm_medium=rss)
 - [III космическая миссия СТЦ отмечает год работы уникальными кадрами загадки природы — «Ока Сахары»](https://habr.com/ru/companies/stc_spb/news/964656/?utm_campaign=964656&utm_source=habrahabr&utm_medium=rss)
 - [Вид на Санкт-Петербург запечатлел спутник СТЦ](https://habr.com/ru/companies/stc_spb/news/964652/?utm_campaign=964652&utm_source=habrahabr&utm_medium=rss)
-- [БАС «Лунь-20» привлекает особое внимание гостей форума-выставки «Российский промышленник»](https://habr.com/ru/companies/stc_spb/news/964650/?utm_campaign=964650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
