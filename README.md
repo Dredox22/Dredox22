@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: блокировка СИМ-карт в рамках «периода охлаждения» будет происходить сразу по возвращении в домашнюю сеть](https://habr.com/ru/news/965100/?utm_campaign=965100&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Rust Coreutils 0.4.0](https://habr.com/ru/news/964842/?utm_campaign=964842&utm_source=habrahabr&utm_medium=rss)
 - [Google представила DS-STAR — ИИ-агента для сквозной дата-аналитики](https://habr.com/ru/news/965090/?utm_campaign=965090&utm_source=habrahabr&utm_medium=rss)
 - [Scribe получила оценку $1,3 млрд и показывает, где ИИ действительно приносит прибыль](https://habr.com/ru/companies/bothub/news/965046/?utm_campaign=965046&utm_source=habrahabr&utm_medium=rss)
 - [Финальное обучение Kimi K2-Thinking стоило всего $4,6 млн — в разы меньше западных моделей](https://habr.com/ru/news/965044/?utm_campaign=965044&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Apple отозвала сертификаты у российских разработчиков DLP-систем для macOS»](https://habr.com/ru/news/965038/?utm_campaign=965038&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры дважды парализовали работу российского производителя роботов Promobot](https://habr.com/ru/news/965026/?utm_campaign=965026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
