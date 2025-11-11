@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приглашаем на митап Heavy Digital в Томске 14 ноября](https://habr.com/ru/companies/sibur_official/news/965350/?utm_campaign=965350&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрабатывает инструмент для запуска CUDA-кода на видеокартах AMD](https://habr.com/ru/companies/bothub/news/965118/?utm_campaign=965118&utm_source=habrahabr&utm_medium=rss)
-- [Google запустит предупреждения о разряжающих батарею приложениях](https://habr.com/ru/news/965314/?utm_campaign=965314&utm_source=habrahabr&utm_medium=rss)
-- [Топовая китайская модель для агентных задач Kimi K2–Thinking уже доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/965290/?utm_campaign=965290&utm_source=habrahabr&utm_medium=rss)
-- [Представитель Госдумы: процесс разблокировки СИМ-карт прибывших из-за границы граждан привлечёт злоумышленников](https://habr.com/ru/news/965276/?utm_campaign=965276&utm_source=habrahabr&utm_medium=rss)
+- [BIM на стройке: Sminex поделился опытом внедрения строительной информационной модели на форуме 100+ TechnoBuild](https://habr.com/ru/companies/sminex_developer/news/965348/?utm_campaign=965348&utm_source=habrahabr&utm_medium=rss)
+- [Offline Guardant Meetup в Санкт-Петербурге уже на этой неделе](https://habr.com/ru/companies/aktiv-company/news/965374/?utm_campaign=965374&utm_source=habrahabr&utm_medium=rss)
+- [«Крестный отец ИИ» Янн ЛеКун планирует уйти из Meta* и запустить свой стартап](https://habr.com/ru/news/965370/?utm_campaign=965370&utm_source=habrahabr&utm_medium=rss)
+- [Как масштабироваться в Kubernetes автоматически и экономически выгодно](https://habr.com/ru/companies/selectel/news/965368/?utm_campaign=965368&utm_source=habrahabr&utm_medium=rss)
+- [Министерство Великобритании завершило обновление своего парка ПК до Windows 10 после прекращения поддержки ОС](https://habr.com/ru/news/965366/?utm_campaign=965366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
