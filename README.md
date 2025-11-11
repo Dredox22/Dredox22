@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел дистрибутив MX Linux 25 &lpar;Infinity&rpar; на базе Debian 13](https://habr.com/ru/news/964870/?utm_campaign=964870&utm_source=habrahabr&utm_medium=rss)
-- [xAI проведёт 24-часовой хакатон для разработки нового поколения ИИ-приложений](https://habr.com/ru/companies/bothub/news/965124/?utm_campaign=965124&utm_source=habrahabr&utm_medium=rss)
-- [PDF будет поддерживать формат JPEG XL в качестве «предпочтительного решения»](https://habr.com/ru/news/965120/?utm_campaign=965120&utm_source=habrahabr&utm_medium=rss)
-- [FAIR выпустил опенсорсную систему ASR с поддержкой редких языков](https://habr.com/ru/companies/bothub/news/965114/?utm_campaign=965114&utm_source=habrahabr&utm_medium=rss)
-- [Доработанная GPT-5 Pro достигла человеческого уровня в сложном бенчмарке ARC-AGI-1](https://habr.com/ru/news/965110/?utm_campaign=965110&utm_source=habrahabr&utm_medium=rss)
+- [Wikipedia призывает к справедливому лицензированию контента для ИИ](https://habr.com/ru/companies/bothub/news/965140/?utm_campaign=965140&utm_source=habrahabr&utm_medium=rss)
+- [Песня ИИ-исполнителя в стиле кантри заняла первое место в чарте Billboard Country Digital Song Sales](https://habr.com/ru/news/965172/?utm_campaign=965172&utm_source=habrahabr&utm_medium=rss)
+- [«2ГИС» начал показывать стоимость маршрута на общественном транспорте](https://habr.com/ru/news/965174/?utm_campaign=965174&utm_source=habrahabr&utm_medium=rss)
+- [Comparitech опубликовала анализ утёкших паролей за 2025 год](https://habr.com/ru/news/965164/?utm_campaign=965164&utm_source=habrahabr&utm_medium=rss)
+- [ИИ, BI и управление на основе данных: закрывается регистрация на форум ViRush 2030](https://habr.com/ru/companies/visiology/news/965154/?utm_campaign=965154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
