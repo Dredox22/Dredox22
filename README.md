@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Топовая китайская модель для агентных задач Kimi K2–Thinking уже доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/965290/?utm_campaign=965290&utm_source=habrahabr&utm_medium=rss)
+- [Представитель Госдумы: процесс разблокировки СИМ-карт прибывших из-за границы граждан привлечёт злоумышленников](https://habr.com/ru/news/965276/?utm_campaign=965276&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch ARMA Стена &lpar;NGFW&rpar; усиливает защиту промышленных сетей](https://habr.com/ru/companies/infowatch/news/965270/?utm_campaign=965270&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Гамбургского университета: рекомендации ChatGPT зависят от способа доступа](https://habr.com/ru/companies/bothub/news/965130/?utm_campaign=965130&utm_source=habrahabr&utm_medium=rss)
 - [Релиз админ-панели для проектов на PHP MoonShine v4](https://habr.com/ru/news/965232/?utm_campaign=965232&utm_source=habrahabr&utm_medium=rss)
-- [«Википедия» призывает компании в сфере разработки ИИ использовать её платный API и прекратить парсинг данных](https://habr.com/ru/news/965224/?utm_campaign=965224&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft «подкупает» пользователей, предлагая до 1,3 тыс. баллов за использование Edge в Windows 11](https://habr.com/ru/news/965080/?utm_campaign=965080&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Утечки ПДн — стратегия управления рисками или игра на выживание?»](https://habr.com/ru/companies/infowatch/news/965210/?utm_campaign=965210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
