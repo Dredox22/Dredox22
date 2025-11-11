@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выключение смартфона при пересечении границы Калининградской области поможет пассажирам поездов избежать блока СИМ-карты](https://habr.com/ru/news/965438/?utm_campaign=965438&utm_source=habrahabr&utm_medium=rss)
 - [BIM на стройке: Sminex поделился опытом внедрения строительной информационной модели на форуме 100+ TechnoBuild](https://habr.com/ru/companies/sminex_developer/news/965348/?utm_campaign=965348&utm_source=habrahabr&utm_medium=rss)
 - [Offline Guardant Meetup в Санкт-Петербурге уже на этой неделе](https://habr.com/ru/companies/aktiv-company/news/965374/?utm_campaign=965374&utm_source=habrahabr&utm_medium=rss)
 - [«Крестный отец ИИ» Янн ЛеКун планирует уйти из Meta* и запустить свой стартап](https://habr.com/ru/news/965370/?utm_campaign=965370&utm_source=habrahabr&utm_medium=rss)
 - [Как масштабироваться в Kubernetes автоматически и экономически выгодно](https://habr.com/ru/companies/selectel/news/965368/?utm_campaign=965368&utm_source=habrahabr&utm_medium=rss)
-- [Министерство Великобритании завершило обновление своего парка ПК до Windows 10 после прекращения поддержки ОС](https://habr.com/ru/news/965366/?utm_campaign=965366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
