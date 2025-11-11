@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел дистрибутив MX Linux 25 &lpar;Infinity&rpar; на базе Debian 13](https://habr.com/ru/news/964870/?utm_campaign=964870&utm_source=habrahabr&utm_medium=rss)
+- [xAI проведёт 24-часовой хакатон для разработки нового поколения ИИ-приложений](https://habr.com/ru/companies/bothub/news/965124/?utm_campaign=965124&utm_source=habrahabr&utm_medium=rss)
+- [PDF будет поддерживать формат JPEG XL в качестве «предпочтительного решения»](https://habr.com/ru/news/965120/?utm_campaign=965120&utm_source=habrahabr&utm_medium=rss)
 - [FAIR выпустил опенсорсную систему ASR с поддержкой редких языков](https://habr.com/ru/companies/bothub/news/965114/?utm_campaign=965114&utm_source=habrahabr&utm_medium=rss)
 - [Доработанная GPT-5 Pro достигла человеческого уровня в сложном бенчмарке ARC-AGI-1](https://habr.com/ru/news/965110/?utm_campaign=965110&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 145.0](https://habr.com/ru/news/964986/?utm_campaign=964986&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: блокировка СИМ-карт в рамках «периода охлаждения» будет происходить сразу по возвращении в домашнюю сеть](https://habr.com/ru/news/965100/?utm_campaign=965100&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust Coreutils 0.4.0](https://habr.com/ru/news/964842/?utm_campaign=964842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
