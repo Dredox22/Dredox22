@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование Гамбургского университета: рекомендации ChatGPT зависят от способа доступа](https://habr.com/ru/companies/bothub/news/965130/?utm_campaign=965130&utm_source=habrahabr&utm_medium=rss)
+- [Релиз админ-панели для проектов на PHP MoonShine v4](https://habr.com/ru/news/965232/?utm_campaign=965232&utm_source=habrahabr&utm_medium=rss)
 - [«Википедия» призывает компании в сфере разработки ИИ использовать её платный API и прекратить парсинг данных](https://habr.com/ru/news/965224/?utm_campaign=965224&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft «подкупает» пользователей, предлагая до 1,3 тыс. баллов за использование Edge в Windows 11](https://habr.com/ru/news/965080/?utm_campaign=965080&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Утечки ПДн — стратегия управления рисками или игра на выживание?»](https://habr.com/ru/companies/infowatch/news/965210/?utm_campaign=965210&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/965202/?utm_campaign=965202&utm_source=habrahabr&utm_medium=rss)
-- [Компании-разработчики ИИ-систем платят до $150 в час финансовым экспертам за обучение моделей](https://habr.com/ru/news/965198/?utm_campaign=965198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
