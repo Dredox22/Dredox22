@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FAIR выпустил опенсорсную систему ASR с поддержкой редких языков](https://habr.com/ru/companies/bothub/news/965114/?utm_campaign=965114&utm_source=habrahabr&utm_medium=rss)
+- [Доработанная GPT-5 Pro достигла человеческого уровня в сложном бенчмарке ARC-AGI-1](https://habr.com/ru/news/965110/?utm_campaign=965110&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 145.0](https://habr.com/ru/news/964986/?utm_campaign=964986&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: блокировка СИМ-карт в рамках «периода охлаждения» будет происходить сразу по возвращении в домашнюю сеть](https://habr.com/ru/news/965100/?utm_campaign=965100&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust Coreutils 0.4.0](https://habr.com/ru/news/964842/?utm_campaign=964842&utm_source=habrahabr&utm_medium=rss)
-- [Google представила DS-STAR — ИИ-агента для сквозной дата-аналитики](https://habr.com/ru/news/965090/?utm_campaign=965090&utm_source=habrahabr&utm_medium=rss)
-- [Scribe получила оценку $1,3 млрд и показывает, где ИИ действительно приносит прибыль](https://habr.com/ru/companies/bothub/news/965046/?utm_campaign=965046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
