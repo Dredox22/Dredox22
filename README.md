@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на митап Heavy Digital в Томске 14 ноября](https://habr.com/ru/companies/sibur_official/news/965350/?utm_campaign=965350&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разрабатывает инструмент для запуска CUDA-кода на видеокартах AMD](https://habr.com/ru/companies/bothub/news/965118/?utm_campaign=965118&utm_source=habrahabr&utm_medium=rss)
+- [Google запустит предупреждения о разряжающих батарею приложениях](https://habr.com/ru/news/965314/?utm_campaign=965314&utm_source=habrahabr&utm_medium=rss)
 - [Топовая китайская модель для агентных задач Kimi K2–Thinking уже доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/965290/?utm_campaign=965290&utm_source=habrahabr&utm_medium=rss)
 - [Представитель Госдумы: процесс разблокировки СИМ-карт прибывших из-за границы граждан привлечёт злоумышленников](https://habr.com/ru/news/965276/?utm_campaign=965276&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch ARMA Стена &lpar;NGFW&rpar; усиливает защиту промышленных сетей](https://habr.com/ru/companies/infowatch/news/965270/?utm_campaign=965270&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Гамбургского университета: рекомендации ChatGPT зависят от способа доступа](https://habr.com/ru/companies/bothub/news/965130/?utm_campaign=965130&utm_source=habrahabr&utm_medium=rss)
-- [Релиз админ-панели для проектов на PHP MoonShine v4](https://habr.com/ru/news/965232/?utm_campaign=965232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
