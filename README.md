@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare добавила поддержку Python в сервис Workflows для оркестрации процессов](https://habr.com/ru/companies/bothub/news/965704/?utm_campaign=965704&utm_source=habrahabr&utm_medium=rss)
-- [Meta* прекратила поддержку нативного клиента WhatsApp в Windows 11, новая версия открывает WebView и использует 1 ГБ ОЗУ](https://habr.com/ru/news/965690/?utm_campaign=965690&utm_source=habrahabr&utm_medium=rss)
-- [Две трети топовых ИИ-компаний допустили утечки секретов на GitHub](https://habr.com/ru/companies/bothub/news/965676/?utm_campaign=965676&utm_source=habrahabr&utm_medium=rss)
-- [СУБД Tantor Postgres 17.6: расширенная функциональность ядра](https://habr.com/ru/companies/tantor/news/965282/?utm_campaign=965282&utm_source=habrahabr&utm_medium=rss)
-- [Orion soft выпустил новую редакцию платформы контейнеризации – Nova AI](https://habr.com/ru/companies/orion_soft/news/965636/?utm_campaign=965636&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT получит групповые чаты с участием ИИ](https://habr.com/ru/news/965724/?utm_campaign=965724&utm_source=habrahabr&utm_medium=rss)
+- [Дэйв Пламмер протестировал 25 компьютеров 1976-2023 годов](https://habr.com/ru/news/965718/?utm_campaign=965718&utm_source=habrahabr&utm_medium=rss)
+- [Вышел анализ влияния ИИ на рынок труда в США: ML-инженеры растут, разработчики ПО в безопасности](https://habr.com/ru/news/965720/?utm_campaign=965720&utm_source=habrahabr&utm_medium=rss)
+- [Google представила частную вычислительную ИИ-систему Private AI Compute](https://habr.com/ru/news/965700/?utm_campaign=965700&utm_source=habrahabr&utm_medium=rss)
+- [В России презентовали нового антропоморфного робота с ИИ от Новой Технологической Коалиции](https://habr.com/ru/news/965710/?utm_campaign=965710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
