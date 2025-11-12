@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Orion soft выпустил новую редакцию платформы контейнеризации – Nova AI](https://habr.com/ru/companies/orion_soft/news/965636/?utm_campaign=965636&utm_source=habrahabr&utm_medium=rss)
+- [В Google Play появилось приложение GameHub для запуска на Android ПК-игр, в том числе из Steam](https://habr.com/ru/news/965500/?utm_campaign=965500&utm_source=habrahabr&utm_medium=rss)
+- [Backboard установила мировой рекорд в тесте долговременной памяти для ИИ](https://habr.com/ru/companies/bothub/news/965620/?utm_campaign=965620&utm_source=habrahabr&utm_medium=rss)
+- [Kyocera передала по беспроводной связи с помощью лазера под водой данные со скоростью 5,2 Гбит/с](https://habr.com/ru/news/965608/?utm_campaign=965608&utm_source=habrahabr&utm_medium=rss)
 - [Google Photos позволит пользователям iPhone редактировать изображения с помощью текста](https://habr.com/ru/news/965590/?utm_campaign=965590&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Easyeffects 8.0.0 &lpar;ранее PulseEffects&rpar;](https://habr.com/ru/news/965108/?utm_campaign=965108&utm_source=habrahabr&utm_medium=rss)
-- [До полумиллиона за баг: БКС Банк запускает публичную программу для поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/965582/?utm_campaign=965582&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила обновление для Windows 10 с исправлением ошибки регистрации в программе ESU](https://habr.com/ru/news/965578/?utm_campaign=965578&utm_source=habrahabr&utm_medium=rss)
-- [ElevenLabs представила STT-модель с задержкой менее 150 мс](https://habr.com/ru/companies/bothub/news/965574/?utm_campaign=965574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
