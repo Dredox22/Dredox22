@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Экономисты Финуниверситета представили исследование влияния налоговых льгот для НИОКР на стимулирование инноваций](https://habr.com/ru/news/965748/?utm_campaign=965748&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT получит групповые чаты с участием ИИ](https://habr.com/ru/news/965724/?utm_campaign=965724&utm_source=habrahabr&utm_medium=rss)
 - [Дэйв Пламмер протестировал 25 компьютеров 1976-2023 годов](https://habr.com/ru/news/965718/?utm_campaign=965718&utm_source=habrahabr&utm_medium=rss)
 - [Вышел анализ влияния ИИ на рынок труда в США: ML-инженеры растут, разработчики ПО в безопасности](https://habr.com/ru/news/965720/?utm_campaign=965720&utm_source=habrahabr&utm_medium=rss)
 - [Google представила частную вычислительную ИИ-систему Private AI Compute](https://habr.com/ru/news/965700/?utm_campaign=965700&utm_source=habrahabr&utm_medium=rss)
-- [В России презентовали нового антропоморфного робота с ИИ от Новой Технологической Коалиции](https://habr.com/ru/news/965710/?utm_campaign=965710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
