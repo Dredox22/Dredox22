@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs представила STT-модель с задержкой менее 150 мс](https://habr.com/ru/companies/bothub/news/965574/?utm_campaign=965574&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft получила нативную поддержку менеджеров паролей 1Password и Bitwarden в Windows 11](https://habr.com/ru/news/965562/?utm_campaign=965562&utm_source=habrahabr&utm_medium=rss)
 - [После приезда в РФ не всегда получается разблокировать СИМ-карту по капче &lpar;нужен Wi-Fi, есть ошибки на сайте оператора&rpar;](https://habr.com/ru/news/965542/?utm_campaign=965542&utm_source=habrahabr&utm_medium=rss)
 - [Немецкий суд: ChatGPT нарушил закон об авторских правах, «обучаясь» на текстах песен](https://habr.com/ru/news/965538/?utm_campaign=965538&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» напомнила, что выпустила для обычных пользователей антивирус Kaspersky для Linux](https://habr.com/ru/news/965530/?utm_campaign=965530&utm_source=habrahabr&utm_medium=rss)
-- [Главный соперник nano banana 2? Первая информация о Mandarin — ИИ-рисовалке от xAI](https://habr.com/ru/news/965526/?utm_campaign=965526&utm_source=habrahabr&utm_medium=rss)
-- [Продажи PlayStation 5 достигли 84,2 млн устройств — это больше всех официально реализованных консолей Xbox](https://habr.com/ru/news/965522/?utm_campaign=965522&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» напомнила, что выпустила для обычных пользователей антивирус Kaspersky под Linux](https://habr.com/ru/news/965530/?utm_campaign=965530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
