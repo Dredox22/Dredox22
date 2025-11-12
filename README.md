@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После приезда в РФ не всегда получается разблокировать СИМ-карту по капче &lpar;нужен Wi-Fi, есть ошибки на сайте оператора&rpar;](https://habr.com/ru/news/965542/?utm_campaign=965542&utm_source=habrahabr&utm_medium=rss)
+- [Немецкий суд: ChatGPT нарушил закон об авторских правах, «обучаясь» на текстах песен](https://habr.com/ru/news/965538/?utm_campaign=965538&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» напомнила, что выпустила для обычных пользователей антивирус Kaspersky для Linux](https://habr.com/ru/news/965530/?utm_campaign=965530&utm_source=habrahabr&utm_medium=rss)
 - [Главный соперник nano banana 2? Первая информация о Mandarin — ИИ-рисовалке от xAI](https://habr.com/ru/news/965526/?utm_campaign=965526&utm_source=habrahabr&utm_medium=rss)
 - [Продажи PlayStation 5 достигли 84,2 млн устройств — это больше всех официально реализованных консолей Xbox](https://habr.com/ru/news/965522/?utm_campaign=965522&utm_source=habrahabr&utm_medium=rss)
-- [Команда проекта FFmpeg обратилась к Google: финансируйте нас или прекратите отправлять баги &lpar;CVE-slop&rpar; с помощью ИИ](https://habr.com/ru/news/965518/?utm_campaign=965518&utm_source=habrahabr&utm_medium=rss)
-- [Вышла интегрированная среда разработки Apache NetBeans 28](https://habr.com/ru/news/965132/?utm_campaign=965132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
