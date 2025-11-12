@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СУБД Tantor Postgres 17.6: расширенная функциональность ядра](https://habr.com/ru/companies/tantor/news/965282/?utm_campaign=965282&utm_source=habrahabr&utm_medium=rss)
 - [Orion soft выпустил новую редакцию платформы контейнеризации – Nova AI](https://habr.com/ru/companies/orion_soft/news/965636/?utm_campaign=965636&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play появилось приложение GameHub для запуска на Android ПК-игр, в том числе из Steam](https://habr.com/ru/news/965500/?utm_campaign=965500&utm_source=habrahabr&utm_medium=rss)
 - [Backboard установила мировой рекорд в тесте долговременной памяти для ИИ](https://habr.com/ru/companies/bothub/news/965620/?utm_campaign=965620&utm_source=habrahabr&utm_medium=rss)
 - [Kyocera передала по беспроводной связи с помощью лазера под водой данные со скоростью 5,2 Гбит/с](https://habr.com/ru/news/965608/?utm_campaign=965608&utm_source=habrahabr&utm_medium=rss)
-- [Google Photos позволит пользователям iPhone редактировать изображения с помощью текста](https://habr.com/ru/news/965590/?utm_campaign=965590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
