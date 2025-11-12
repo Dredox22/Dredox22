@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла интегрированная среда разработки Apache NetBeans 28](https://habr.com/ru/news/965132/?utm_campaign=965132&utm_source=habrahabr&utm_medium=rss)
 - [Релиз qBittorrent 5.1.3](https://habr.com/ru/news/965424/?utm_campaign=965424&utm_source=habrahabr&utm_medium=rss)
 - [xAI и Anthropic-Amazon первыми построят дата-центры рекордной мощности 1 ГВт](https://habr.com/ru/news/965486/?utm_campaign=965486&utm_source=habrahabr&utm_medium=rss)
 - [HierarchicalTopK открывает новый подход к интерпретируемости нейросетей](https://habr.com/ru/companies/bothub/news/965468/?utm_campaign=965468&utm_source=habrahabr&utm_medium=rss)
 - [Ждем Doom внутри Gemini? Google готовит «креативный холст» для своего чат-бота](https://habr.com/ru/news/965448/?utm_campaign=965448&utm_source=habrahabr&utm_medium=rss)
-- [SoftBank продала весь пакет акций Nvidia за $5,83 млрд](https://habr.com/ru/companies/bothub/news/965442/?utm_campaign=965442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
