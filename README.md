@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Photos позволит пользователям iPhone редактировать изображения с помощью текста](https://habr.com/ru/news/965590/?utm_campaign=965590&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Easyeffects 8.0.0 &lpar;ранее PulseEffects&rpar;](https://habr.com/ru/news/965108/?utm_campaign=965108&utm_source=habrahabr&utm_medium=rss)
+- [До полумиллиона за баг: БКС Банк запускает публичную программу для поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/965582/?utm_campaign=965582&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила обновление для Windows 10 с исправлением ошибки регистрации в программе ESU](https://habr.com/ru/news/965578/?utm_campaign=965578&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs представила STT-модель с задержкой менее 150 мс](https://habr.com/ru/companies/bothub/news/965574/?utm_campaign=965574&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft получила нативную поддержку менеджеров паролей 1Password и Bitwarden в Windows 11](https://habr.com/ru/news/965562/?utm_campaign=965562&utm_source=habrahabr&utm_medium=rss)
-- [После приезда в РФ не всегда получается разблокировать СИМ-карту по капче &lpar;нужен Wi-Fi, есть ошибки на сайте оператора&rpar;](https://habr.com/ru/news/965542/?utm_campaign=965542&utm_source=habrahabr&utm_medium=rss)
-- [Немецкий суд: ChatGPT нарушил закон об авторских правах, «обучаясь» на текстах песен](https://habr.com/ru/news/965538/?utm_campaign=965538&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» напомнила, что выпустила для обычных пользователей антивирус Kaspersky под Linux](https://habr.com/ru/news/965530/?utm_campaign=965530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
