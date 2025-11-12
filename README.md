@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare добавила поддержку Python в сервис Workflows для оркестрации процессов](https://habr.com/ru/companies/bothub/news/965704/?utm_campaign=965704&utm_source=habrahabr&utm_medium=rss)
+- [Meta* прекратила поддержку нативного клиента WhatsApp в Windows 11, новая версия открывает WebView и использует 1 ГБ ОЗУ](https://habr.com/ru/news/965690/?utm_campaign=965690&utm_source=habrahabr&utm_medium=rss)
+- [Две трети топовых ИИ-компаний допустили утечки секретов на GitHub](https://habr.com/ru/companies/bothub/news/965676/?utm_campaign=965676&utm_source=habrahabr&utm_medium=rss)
 - [СУБД Tantor Postgres 17.6: расширенная функциональность ядра](https://habr.com/ru/companies/tantor/news/965282/?utm_campaign=965282&utm_source=habrahabr&utm_medium=rss)
 - [Orion soft выпустил новую редакцию платформы контейнеризации – Nova AI](https://habr.com/ru/companies/orion_soft/news/965636/?utm_campaign=965636&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play появилось приложение GameHub для запуска на Android ПК-игр, в том числе из Steam](https://habr.com/ru/news/965500/?utm_campaign=965500&utm_source=habrahabr&utm_medium=rss)
-- [Backboard установила мировой рекорд в тесте долговременной памяти для ИИ](https://habr.com/ru/companies/bothub/news/965620/?utm_campaign=965620&utm_source=habrahabr&utm_medium=rss)
-- [Kyocera передала по беспроводной связи с помощью лазера под водой данные со скоростью 5,2 Гбит/с](https://habr.com/ru/news/965608/?utm_campaign=965608&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
