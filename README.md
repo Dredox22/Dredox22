@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rоманда WeiboAI представила компактную модель с 1.5 миллиарда параметров](https://habr.com/ru/companies/bothub/news/965786/?utm_campaign=965786&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3.0 Pro решает задачи, считавшиеся почти невозможными для ИИ](https://habr.com/ru/companies/bothub/news/965778/?utm_campaign=965778&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователи Fireflies год выдавали себя за ИИ, чтобы доказать концепцию продукта](https://habr.com/ru/companies/bothub/news/965768/?utm_campaign=965768&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI тратит около $15 млн в день на видеогенератор Sora](https://habr.com/ru/companies/bothub/news/965766/?utm_campaign=965766&utm_source=habrahabr&utm_medium=rss)
 - [Экономисты Финуниверситета представили исследование влияния налоговых льгот для НИОКР на стимулирование инноваций](https://habr.com/ru/news/965748/?utm_campaign=965748&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT получит групповые чаты с участием ИИ](https://habr.com/ru/news/965724/?utm_campaign=965724&utm_source=habrahabr&utm_medium=rss)
-- [Дэйв Пламмер протестировал 25 компьютеров 1976-2023 годов](https://habr.com/ru/news/965718/?utm_campaign=965718&utm_source=habrahabr&utm_medium=rss)
-- [Вышел анализ влияния ИИ на рынок труда в США: ML-инженеры растут, разработчики ПО в безопасности](https://habr.com/ru/news/965720/?utm_campaign=965720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
