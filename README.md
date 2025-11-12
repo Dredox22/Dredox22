@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI тратит около $15 млн в день на видеогенератор Sora](https://habr.com/ru/companies/bothub/news/965766/?utm_campaign=965766&utm_source=habrahabr&utm_medium=rss)
 - [Экономисты Финуниверситета представили исследование влияния налоговых льгот для НИОКР на стимулирование инноваций](https://habr.com/ru/news/965748/?utm_campaign=965748&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT получит групповые чаты с участием ИИ](https://habr.com/ru/news/965724/?utm_campaign=965724&utm_source=habrahabr&utm_medium=rss)
 - [Дэйв Пламмер протестировал 25 компьютеров 1976-2023 годов](https://habr.com/ru/news/965718/?utm_campaign=965718&utm_source=habrahabr&utm_medium=rss)
 - [Вышел анализ влияния ИИ на рынок труда в США: ML-инженеры растут, разработчики ПО в безопасности](https://habr.com/ru/news/965720/?utm_campaign=965720&utm_source=habrahabr&utm_medium=rss)
-- [Google представила частную вычислительную ИИ-систему Private AI Compute](https://habr.com/ru/news/965700/?utm_campaign=965700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
