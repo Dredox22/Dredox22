@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» напомнила, что выпустила для обычных пользователей антивирус Kaspersky для Linux](https://habr.com/ru/news/965530/?utm_campaign=965530&utm_source=habrahabr&utm_medium=rss)
+- [Главный соперник nano banana 2? Первая информация о Mandarin — ИИ-рисовалке от xAI](https://habr.com/ru/news/965526/?utm_campaign=965526&utm_source=habrahabr&utm_medium=rss)
+- [Продажи PlayStation 5 достигли 84,2 млн устройств — это больше всех официально реализованных консолей Xbox](https://habr.com/ru/news/965522/?utm_campaign=965522&utm_source=habrahabr&utm_medium=rss)
 - [Команда проекта FFmpeg обратилась к Google: финансируйте нас или прекратите отправлять баги &lpar;CVE-slop&rpar; с помощью ИИ](https://habr.com/ru/news/965518/?utm_campaign=965518&utm_source=habrahabr&utm_medium=rss)
 - [Вышла интегрированная среда разработки Apache NetBeans 28](https://habr.com/ru/news/965132/?utm_campaign=965132&utm_source=habrahabr&utm_medium=rss)
-- [Релиз qBittorrent 5.1.3](https://habr.com/ru/news/965424/?utm_campaign=965424&utm_source=habrahabr&utm_medium=rss)
-- [xAI и Anthropic-Amazon первыми построят дата-центры рекордной мощности 1 ГВт](https://habr.com/ru/news/965486/?utm_campaign=965486&utm_source=habrahabr&utm_medium=rss)
-- [HierarchicalTopK открывает новый подход к интерпретируемости нейросетей](https://habr.com/ru/companies/bothub/news/965468/?utm_campaign=965468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
