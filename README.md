@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [$50 млрд для Claude: Anthropic запускает строительство собственных дата-центров в США](https://habr.com/ru/news/965804/?utm_campaign=965804&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Бизнес тпросит уточнений по работе новой системы ГИС „Антифрод“»](https://habr.com/ru/news/965802/?utm_campaign=965802&utm_source=habrahabr&utm_medium=rss)
 - [Rоманда WeiboAI представила компактную модель с 1.5 миллиарда параметров](https://habr.com/ru/companies/bothub/news/965786/?utm_campaign=965786&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.0 Pro решает задачи, считавшиеся почти невозможными для ИИ](https://habr.com/ru/companies/bothub/news/965778/?utm_campaign=965778&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователи Fireflies год выдавали себя за ИИ, чтобы доказать концепцию продукта](https://habr.com/ru/companies/bothub/news/965768/?utm_campaign=965768&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI тратит около $15 млн в день на видеогенератор Sora](https://habr.com/ru/companies/bothub/news/965766/?utm_campaign=965766&utm_source=habrahabr&utm_medium=rss)
-- [Экономисты Финуниверситета представили исследование влияния налоговых льгот для НИОКР на стимулирование инноваций](https://habr.com/ru/news/965748/?utm_campaign=965748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
