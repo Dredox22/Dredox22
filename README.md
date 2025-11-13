@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатный триал на нового ИИ-агента для разработки Trae SOLO](https://habr.com/ru/news/966162/?utm_campaign=966162&utm_source=habrahabr&utm_medium=rss)
+- [Google предлагает запускать приложения Windows на Chromebook с помощью Cameyo](https://habr.com/ru/news/966146/?utm_campaign=966146&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс бесплатно обучит школьников и студентов ИИ-робототехнике и физическому ИИ](https://habr.com/ru/companies/yandex/news/965784/?utm_campaign=965784&utm_source=habrahabr&utm_medium=rss)
 - [Baidu представила мультимодальную ERNIE, которая обходит GPT и Gemini в ключевых тестах](https://habr.com/ru/companies/technokratos/news/966128/?utm_campaign=966128&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ИИ сложнее подделать токсичное поведение, чем интеллект](https://habr.com/ru/news/966122/?utm_campaign=966122&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-стартап уволил тысячи подрядчиков и нанял назад на четверть дешевле](https://habr.com/ru/news/966114/?utm_campaign=966114&utm_source=habrahabr&utm_medium=rss)
-- [10 игр по агротехнологиям отобрали в Акселератор](https://habr.com/ru/news/966118/?utm_campaign=966118&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance запустила самый дешевый в Китае ИИ для кодинга — всего 450 руб./мес за уровень Sonnet 4.5](https://habr.com/ru/news/966070/?utm_campaign=966070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
