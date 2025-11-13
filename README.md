@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открытый инструмент DonPwner позволит автоматизировать атаки на ролевые инфраструктуры Active Directory](https://habr.com/ru/news/965968/?utm_campaign=965968&utm_source=habrahabr&utm_medium=rss)
+- [Что изменилось в российском DevOps за год: результаты исследования State of DevOps Russia 2025](https://habr.com/ru/companies/flant/news/965958/?utm_campaign=965958&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила баг диспетчера задач в Windows 11](https://habr.com/ru/news/965940/?utm_campaign=965940&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic строит собственную инфраструктуру в США](https://habr.com/ru/companies/bothub/news/965936/?utm_campaign=965936&utm_source=habrahabr&utm_medium=rss)
 - [Митап “QA Kitchen” в Нижнем Новгороде](https://habr.com/ru/companies/gnivc/news/965872/?utm_campaign=965872&utm_source=habrahabr&utm_medium=rss)
-- [Вышел AnyDesk 9.6.5 для Windows, AnyDesk 8.0.0 для iOS и AnyDesk 8.1.0 для Android](https://habr.com/ru/news/965796/?utm_campaign=965796&utm_source=habrahabr&utm_medium=rss)
-- [Google начала бороться с рассыльщиками спама Lighthouse](https://habr.com/ru/news/965930/?utm_campaign=965930&utm_source=habrahabr&utm_medium=rss)
-- [Митап «Сплошные плюсы. Клуб С++ разработчиков»](https://habr.com/ru/companies/pvs-studio/news/965928/?utm_campaign=965928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
