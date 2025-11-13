@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Baidu представила мультимодальную ERNIE, которая обходит GPT и Gemini в ключевых тестах](https://habr.com/ru/companies/technokratos/news/966128/?utm_campaign=966128&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: ИИ сложнее подделать токсичное поведение, чем интеллект](https://habr.com/ru/news/966122/?utm_campaign=966122&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-стартап уволил тысячи подрядчиков и нанял назад на четверть дешевле](https://habr.com/ru/news/966114/?utm_campaign=966114&utm_source=habrahabr&utm_medium=rss)
+- [10 игр по агротехнологиям отобрали в Акселератор](https://habr.com/ru/news/966118/?utm_campaign=966118&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance запустила самый дешевый в Китае ИИ для кодинга — всего 450 руб./мес за уровень Sonnet 4.5](https://habr.com/ru/news/966070/?utm_campaign=966070&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила фабрики суперинтеллекта — архитектуру Fairwater](https://habr.com/ru/news/966060/?utm_campaign=966060&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» через «Консоль» собрался довести долю до 25% в российском разработчике «Базальт СПО»](https://habr.com/ru/news/966050/?utm_campaign=966050&utm_source=habrahabr&utm_medium=rss)
-- [Доступны тестовые лицензии новой СУБД Tantor Postgres 17.6 для 1С](https://habr.com/ru/companies/tantor/news/965708/?utm_campaign=965708&utm_source=habrahabr&utm_medium=rss)
-- [iSpring QA meetup 22 ноября](https://habr.com/ru/companies/ispring/news/966016/?utm_campaign=966016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
