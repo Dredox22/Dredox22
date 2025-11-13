@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft PowerPoint удалит функцию «Повторное использование слайдов» в Windows и macOS](https://habr.com/ru/news/965498/?utm_campaign=965498&utm_source=habrahabr&utm_medium=rss)
+- [Дата-центры, в строительство которых Anthropic инвестирует $50 млрд, должны начать работу в 2026 году](https://habr.com/ru/news/965838/?utm_campaign=965838&utm_source=habrahabr&utm_medium=rss)
+- [Сайты аккредитованных ИТ-компаний должны отвечать доптребованиям с 21 ноября 2025 года](https://habr.com/ru/news/965978/?utm_campaign=965978&utm_source=habrahabr&utm_medium=rss)
 - [Открытый инструмент DonPwner позволит автоматизировать атаки на ролевые инфраструктуры Active Directory](https://habr.com/ru/news/965968/?utm_campaign=965968&utm_source=habrahabr&utm_medium=rss)
 - [Что изменилось в российском DevOps за год: результаты исследования State of DevOps Russia 2025](https://habr.com/ru/companies/flant/news/965958/?utm_campaign=965958&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила баг диспетчера задач в Windows 11](https://habr.com/ru/news/965940/?utm_campaign=965940&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic строит собственную инфраструктуру в США](https://habr.com/ru/companies/bothub/news/965936/?utm_campaign=965936&utm_source=habrahabr&utm_medium=rss)
-- [Митап “QA Kitchen” в Нижнем Новгороде](https://habr.com/ru/companies/gnivc/news/965872/?utm_campaign=965872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
