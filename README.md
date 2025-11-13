@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantinuum представила Helios — самый мощный квантовый компьютер в мире](https://habr.com/ru/news/965914/?utm_campaign=965914&utm_source=habrahabr&utm_medium=rss)
-- [ИБ-компания Deepwatch увольняет десятки сотрудников, чтобы увеличить инвестиции в ИИ](https://habr.com/ru/news/965906/?utm_campaign=965906&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Manticore Search 14.1.0](https://habr.com/ru/news/964930/?utm_campaign=964930&utm_source=habrahabr&utm_medium=rss)
-- [Google разрешит разработчикам ограниченно распространять приложения на Android без прохождения полной верификации](https://habr.com/ru/news/965892/?utm_campaign=965892&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Linux-дистрибутив Nitrux 5.0.0](https://habr.com/ru/news/965782/?utm_campaign=965782&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic строит собственную инфраструктуру в США](https://habr.com/ru/companies/bothub/news/965936/?utm_campaign=965936&utm_source=habrahabr&utm_medium=rss)
+- [Митап “QA Kitchen” в Нижнем Новгороде](https://habr.com/ru/companies/gnivc/news/965872/?utm_campaign=965872&utm_source=habrahabr&utm_medium=rss)
+- [Вышел AnyDesk 9.6.5 для Windows, AnyDesk 8.0.0 для iOS и AnyDesk 8.1.0 для Android](https://habr.com/ru/news/965796/?utm_campaign=965796&utm_source=habrahabr&utm_medium=rss)
+- [Google начала бороться с рассыльщиками спама Lighthouse](https://habr.com/ru/news/965930/?utm_campaign=965930&utm_source=habrahabr&utm_medium=rss)
+- [Митап «Сплошные плюсы. Клуб С++ разработчиков»](https://habr.com/ru/companies/pvs-studio/news/965928/?utm_campaign=965928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
