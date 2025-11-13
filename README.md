@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Olares анонсировал персональное ИИ-облако Olares One с мощью RTX 5090 Mobile](https://habr.com/ru/companies/bothub/news/966240/?utm_campaign=966240&utm_source=habrahabr&utm_medium=rss)
 - [Google запускает Private AI Compute для безопасного использования Gemini в облаке](https://habr.com/ru/companies/bothub/news/966178/?utm_campaign=966178&utm_source=habrahabr&utm_medium=rss)
 - [32-летняя японка сыграла «свадьбу» с ИИ-персонажем из ChatGPT](https://habr.com/ru/news/966212/?utm_campaign=966212&utm_source=habrahabr&utm_medium=rss)
 - [Представлен LDL — мост между эпохами в мире мультимедийных библиотек](https://habr.com/ru/news/966204/?utm_campaign=966204&utm_source=habrahabr&utm_medium=rss)
 - [Google позволит пользователям звонить в магазины и просматривать товары с помощью ИИ](https://habr.com/ru/news/966206/?utm_campaign=966206&utm_source=habrahabr&utm_medium=rss)
-- [Компания Positive Technologies рассказала о результатах за 9 месяцев 2025 года](https://habr.com/ru/news/966200/?utm_campaign=966200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
