@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В бете macOS появилась виртуальная кольцевая лампа для созвонов](https://habr.com/ru/news/966188/?utm_campaign=966188&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила интеллектуальную IDE нового поколения](https://habr.com/ru/companies/bothub/news/966176/?utm_campaign=966176&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Дуров добился снятия с него мер судебного контроля, ограничивавших его выезд из Франции](https://habr.com/ru/news/966170/?utm_campaign=966170&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный триал на нового ИИ-агента для разработки Trae SOLO](https://habr.com/ru/news/966162/?utm_campaign=966162&utm_source=habrahabr&utm_medium=rss)
 - [Google предлагает запускать приложения Windows на Chromebook с помощью Cameyo](https://habr.com/ru/news/966146/?utm_campaign=966146&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс бесплатно обучит школьников и студентов ИИ-робототехнике и физическому ИИ](https://habr.com/ru/companies/yandex/news/965784/?utm_campaign=965784&utm_source=habrahabr&utm_medium=rss)
-- [Baidu представила мультимодальную ERNIE, которая обходит GPT и Gemini в ключевых тестах](https://habr.com/ru/companies/technokratos/news/966128/?utm_campaign=966128&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ сложнее подделать токсичное поведение, чем интеллект](https://habr.com/ru/news/966122/?utm_campaign=966122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
