@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Доступны тестовые лицензии новой СУБД Tantor Postgres 17.6 для 1С](https://habr.com/ru/companies/tantor/news/965708/?utm_campaign=965708&utm_source=habrahabr&utm_medium=rss)
+- [iSpring QA meetup 22 ноября](https://habr.com/ru/companies/ispring/news/966016/?utm_campaign=966016&utm_source=habrahabr&utm_medium=rss)
+- [В России предложили перевести домовые чаты в MAX, ввести профилактику киберугроз и переименовать «белые шляпы»](https://habr.com/ru/news/966008/?utm_campaign=966008&utm_source=habrahabr&utm_medium=rss)
+- [Что происходит в мобильном геймдеве: обсудим на RuStore Mobile GameDev Conf 2025](https://habr.com/ru/companies/vk/news/966004/?utm_campaign=966004&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft PowerPoint удалит функцию «Повторное использование слайдов» в Windows и macOS](https://habr.com/ru/news/965498/?utm_campaign=965498&utm_source=habrahabr&utm_medium=rss)
-- [Дата-центры, в строительство которых Anthropic инвестирует $50 млрд, должны начать работу в 2026 году](https://habr.com/ru/news/965838/?utm_campaign=965838&utm_source=habrahabr&utm_medium=rss)
-- [Сайты аккредитованных ИТ-компаний должны отвечать доптребованиям с 21 ноября 2025 года](https://habr.com/ru/news/965978/?utm_campaign=965978&utm_source=habrahabr&utm_medium=rss)
-- [Открытый инструмент DonPwner позволит автоматизировать атаки на ролевые инфраструктуры Active Directory](https://habr.com/ru/news/965968/?utm_campaign=965968&utm_source=habrahabr&utm_medium=rss)
-- [Что изменилось в российском DevOps за год: результаты исследования State of DevOps Russia 2025](https://habr.com/ru/companies/flant/news/965958/?utm_campaign=965958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
