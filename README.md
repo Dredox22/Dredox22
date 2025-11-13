@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Manticore Search 14.1.0](https://habr.com/ru/news/964930/?utm_campaign=964930&utm_source=habrahabr&utm_medium=rss)
+- [Google разрешит разработчикам распространять приложения на Android без прохождения полной верификации](https://habr.com/ru/news/965892/?utm_campaign=965892&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux-дистрибутив Nitrux 5.0.0](https://habr.com/ru/news/965782/?utm_campaign=965782&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление инструмента мониторинга HWiNFO 8.34](https://habr.com/ru/news/965650/?utm_campaign=965650&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-5.1](https://habr.com/ru/news/965858/?utm_campaign=965858&utm_source=habrahabr&utm_medium=rss)
-- [Глава Microsoft назвал гонку за AGI бессмысленной](https://habr.com/ru/news/965820/?utm_campaign=965820&utm_source=habrahabr&utm_medium=rss)
-- [$50 млрд для Claude: Anthropic запускает строительство собственных дата-центров в США](https://habr.com/ru/news/965804/?utm_campaign=965804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
