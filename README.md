@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление инструмента мониторинга HWiNFO 8.34](https://habr.com/ru/news/965650/?utm_campaign=965650&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-5.1](https://habr.com/ru/news/965858/?utm_campaign=965858&utm_source=habrahabr&utm_medium=rss)
 - [Глава Microsoft назвал гонку за AGI бессмысленной](https://habr.com/ru/news/965820/?utm_campaign=965820&utm_source=habrahabr&utm_medium=rss)
 - [$50 млрд для Claude: Anthropic запускает строительство собственных дата-центров в США](https://habr.com/ru/news/965804/?utm_campaign=965804&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Бизнес просит уточнений по работе новой системы ГИС „Антифрод“»](https://habr.com/ru/news/965802/?utm_campaign=965802&utm_source=habrahabr&utm_medium=rss)
-- [Rоманда WeiboAI представила компактную модель с 1.5 миллиарда параметров](https://habr.com/ru/companies/bothub/news/965786/?utm_campaign=965786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
