@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MPMX и Camunda: новые горизонты аналитики](https://habr.com/ru/news/966296/?utm_campaign=966296&utm_source=habrahabr&utm_medium=rss)
+- [LeJEPA: новый метод self-supervised обучения без сложных эвристик](https://habr.com/ru/companies/bothub/news/966340/?utm_campaign=966340&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft удалила из Windows 11 функционал, позволявший бесплатно продлить активацию ОС до 2038 года через KMS38](https://habr.com/ru/news/966462/?utm_campaign=966462&utm_source=habrahabr&utm_medium=rss)
 - [Apple будет взимать меньшую комиссию с разработчиков мини-приложений](https://habr.com/ru/news/966456/?utm_campaign=966456&utm_source=habrahabr&utm_medium=rss)
 - [Code Arena: живой бенчмарк для ИИ-разработчиков вместо статических тестов](https://habr.com/ru/companies/otus/news/966424/?utm_campaign=966424&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI раскрыла секреты промптинга GPT-5.1](https://habr.com/ru/news/966446/?utm_campaign=966446&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты по ИБ предупредили о мошеннических схемах в рамках разблокировки СИМ-карт прибывших из-за границы граждан РФ](https://habr.com/ru/news/966434/?utm_campaign=966434&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на Pytup — онлайн-митап для Python-разработчиков и инженеров машинного обучения](https://habr.com/ru/companies/yandex/news/966422/?utm_campaign=966422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
