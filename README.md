@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.1 оказалась настолько дотошной, что традиционные подходы к управлению кодовыми агентами перестали работать](https://habr.com/ru/news/966332/?utm_campaign=966332&utm_source=habrahabr&utm_medium=rss)
 - [Canonical объявила о предоставлении коммерческой поддержки релизов Ubuntu LTS сроком до 15 лет](https://habr.com/ru/news/966202/?utm_campaign=966202&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Mozilla Thunderbird 145.0](https://habr.com/ru/news/966224/?utm_campaign=966224&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tails 7.2](https://habr.com/ru/news/966236/?utm_campaign=966236&utm_source=habrahabr&utm_medium=rss)
 - [18 ноября. Онлайн. Разбор провалов и фатальных ошибок «1С»](https://habr.com/ru/companies/beeline_cloud/news/966308/?utm_campaign=966308&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.1 вошла в число лидеров по качеству программирования](https://habr.com/ru/news/966286/?utm_campaign=966286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
