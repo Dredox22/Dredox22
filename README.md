@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск Mozilla Thunderbird 145.0](https://habr.com/ru/news/966224/?utm_campaign=966224&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Tails 7.2](https://habr.com/ru/news/966236/?utm_campaign=966236&utm_source=habrahabr&utm_medium=rss)
 - [18 ноября. Онлайн. Разбор провалов и фатальных ошибок «1С»](https://habr.com/ru/companies/beeline_cloud/news/966308/?utm_campaign=966308&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.1 вошла в число лидеров по качеству программирования](https://habr.com/ru/news/966286/?utm_campaign=966286&utm_source=habrahabr&utm_medium=rss)
 - [От тестирования до нападения: как китайцы превратили ИИ агента Claude Code в инструмент шпионажа](https://habr.com/ru/news/966280/?utm_campaign=966280&utm_source=habrahabr&utm_medium=rss)
-- [Китайская хакерская госгруппа использовала Claude для масштабного кибершпионажа](https://habr.com/ru/news/966264/?utm_campaign=966264&utm_source=habrahabr&utm_medium=rss)
-- [Создан протокол шифрованной самопроверки для квантового компьютера на уровне чипа](https://habr.com/ru/companies/bothub/news/966252/?utm_campaign=966252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
