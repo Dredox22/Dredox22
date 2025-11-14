@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM представила квантовые процессоры и перенос производства на 300-мм пластины](https://habr.com/ru/companies/bothub/news/966350/?utm_campaign=966350&utm_source=habrahabr&utm_medium=rss)
+- [Google сделала «шаг к AGI»: ИИ-бот SIMA 2 сам учится жить в виртуальных мирах](https://habr.com/ru/news/966348/?utm_campaign=966348&utm_source=habrahabr&utm_medium=rss)
+- [ByteDance выпустила ИИ-агента, который часами проходит 3D-игры](https://habr.com/ru/companies/bothub/news/966342/?utm_campaign=966342&utm_source=habrahabr&utm_medium=rss)
+- [Эффективность локального ИИ выросла в 5.3 раза за два года](https://habr.com/ru/companies/bothub/news/966336/?utm_campaign=966336&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.1 оказалась настолько дотошной, что традиционные подходы к управлению кодовыми агентами перестали работать](https://habr.com/ru/news/966332/?utm_campaign=966332&utm_source=habrahabr&utm_medium=rss)
-- [Canonical объявила о предоставлении коммерческой поддержки релизов Ubuntu LTS сроком до 15 лет](https://habr.com/ru/news/966202/?utm_campaign=966202&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 145.0](https://habr.com/ru/news/966224/?utm_campaign=966224&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.2](https://habr.com/ru/news/966236/?utm_campaign=966236&utm_source=habrahabr&utm_medium=rss)
-- [18 ноября. Онлайн. Разбор провалов и фатальных ошибок «1С»](https://habr.com/ru/companies/beeline_cloud/news/966308/?utm_campaign=966308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
