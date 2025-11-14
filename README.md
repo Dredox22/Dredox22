@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta* отключит кнопки «Нравится» и «Поделиться» для внешних порталов](https://habr.com/ru/news/966226/?utm_campaign=966226&utm_source=habrahabr&utm_medium=rss)
-- [Telegram подал в суд на Австралию из-за закона о верификации возраста](https://habr.com/ru/news/966392/?utm_campaign=966392&utm_source=habrahabr&utm_medium=rss)
-- [Valve выпустила Proton 10.0](https://habr.com/ru/news/966390/?utm_campaign=966390&utm_source=habrahabr&utm_medium=rss)
-- [Apple: разработчики должны получать разрешение пользователей на передачу данных сторонним ИИ](https://habr.com/ru/news/966378/?utm_campaign=966378&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.6](https://habr.com/ru/news/966088/?utm_campaign=966088&utm_source=habrahabr&utm_medium=rss)
+- [Apple будет взимать меньшую комиссию с разработчиков мини-приложений](https://habr.com/ru/news/966456/?utm_campaign=966456&utm_source=habrahabr&utm_medium=rss)
+- [Code Arena: живой бенчмарк для ИИ-разработчиков вместо статических тестов](https://habr.com/ru/companies/otus/news/966424/?utm_campaign=966424&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI раскрыла секреты промптинга GPT-5.1](https://habr.com/ru/news/966446/?utm_campaign=966446&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты по ИБ предупредили о мошеннических схемах в рамках разблокировки СИМ-карт прибывших из-за границы граждан РФ](https://habr.com/ru/news/966434/?utm_campaign=966434&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на Pytup — онлайн-митап для Python-разработчиков и инженеров машинного обучения](https://habr.com/ru/companies/yandex/news/966422/?utm_campaign=966422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
