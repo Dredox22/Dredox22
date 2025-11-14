@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Challenge: как МАИ вместе с ПСБ создают мост между теорией и практикой в области искусственного интеллекта](https://habr.com/ru/companies/itmai/news/966508/?utm_campaign=966508&utm_source=habrahabr&utm_medium=rss)
+- [РВИ: «ГОСТ для компьютерных игр не создаётся»](https://habr.com/ru/news/966524/?utm_campaign=966524&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры удалённо испортили часть оборудования немецкого радио Radio Nordseewelle без возможности восстановления](https://habr.com/ru/news/966516/?utm_campaign=966516&utm_source=habrahabr&utm_medium=rss)
+- [Запускаем плейтесты: оцените новые проекты в Библиотеке игр](https://habr.com/ru/news/966506/?utm_campaign=966506&utm_source=habrahabr&utm_medium=rss)
 - [MPMX и Camunda: новые горизонты аналитики](https://habr.com/ru/news/966296/?utm_campaign=966296&utm_source=habrahabr&utm_medium=rss)
-- [LeJEPA: новый метод self-supervised обучения без сложных эвристик](https://habr.com/ru/companies/bothub/news/966340/?utm_campaign=966340&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалила из Windows 11 функционал, позволявший бесплатно продлить активацию ОС до 2038 года через KMS38](https://habr.com/ru/news/966462/?utm_campaign=966462&utm_source=habrahabr&utm_medium=rss)
-- [Apple будет взимать меньшую комиссию с разработчиков мини-приложений](https://habr.com/ru/news/966456/?utm_campaign=966456&utm_source=habrahabr&utm_medium=rss)
-- [Code Arena: живой бенчмарк для ИИ-разработчиков вместо статических тестов](https://habr.com/ru/companies/otus/news/966424/?utm_campaign=966424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
