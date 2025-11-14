@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* отключит кнопки «Нравится» и «Поделиться» для внешних порталов](https://habr.com/ru/news/966226/?utm_campaign=966226&utm_source=habrahabr&utm_medium=rss)
+- [Telegram подал в суд на Австралию из-за закона о верификации возраста](https://habr.com/ru/news/966392/?utm_campaign=966392&utm_source=habrahabr&utm_medium=rss)
+- [Valve выпустила Proton 10.0](https://habr.com/ru/news/966390/?utm_campaign=966390&utm_source=habrahabr&utm_medium=rss)
+- [Apple: разработчики должны получать разрешение пользователей на передачу данных сторонним ИИ](https://habr.com/ru/news/966378/?utm_campaign=966378&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.6](https://habr.com/ru/news/966088/?utm_campaign=966088&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Red Hat Enterprise Linux 10.1](https://habr.com/ru/news/965904/?utm_campaign=965904&utm_source=habrahabr&utm_medium=rss)
-- [Мировой эксклюзив: мультиплеерный UT99 в браузере](https://habr.com/ru/news/966298/?utm_campaign=966298&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla запускает AI Window для Firefox](https://habr.com/ru/news/966364/?utm_campaign=966364&utm_source=habrahabr&utm_medium=rss)
-- [Proton может повторно использовать миллионы старых адресов почты ботов](https://habr.com/ru/news/966358/?utm_campaign=966358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
