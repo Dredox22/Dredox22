@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.6](https://habr.com/ru/news/966088/?utm_campaign=966088&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Red Hat Enterprise Linux 10.1](https://habr.com/ru/news/965904/?utm_campaign=965904&utm_source=habrahabr&utm_medium=rss)
+- [Мировой эксклюзив: мультиплеерный UT99 в браузере](https://habr.com/ru/news/966298/?utm_campaign=966298&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla запускает AI Window для Firefox](https://habr.com/ru/news/966364/?utm_campaign=966364&utm_source=habrahabr&utm_medium=rss)
 - [Proton может повторно использовать миллионы старых адресов почты ботов](https://habr.com/ru/news/966358/?utm_campaign=966358&utm_source=habrahabr&utm_medium=rss)
-- [Clad Labs представил среду разработки с встроенными TikTok и Tinder](https://habr.com/ru/companies/bothub/news/966354/?utm_campaign=966354&utm_source=habrahabr&utm_medium=rss)
-- [IBM представила квантовые процессоры и перенос производства на 300-мм пластины](https://habr.com/ru/companies/bothub/news/966350/?utm_campaign=966350&utm_source=habrahabr&utm_medium=rss)
-- [Google сделала «шаг к AGI»: ИИ-бот SIMA 2 сам учится жить в виртуальных мирах](https://habr.com/ru/news/966348/?utm_campaign=966348&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance выпустила ИИ-агента, который часами проходит 3D-игры](https://habr.com/ru/companies/bothub/news/966342/?utm_campaign=966342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
