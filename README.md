@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Илон Маск рассказал про Grok 5](https://habr.com/ru/news/966652/?utm_campaign=966652&utm_source=habrahabr&utm_medium=rss)
 - [Отчет МЭА: уже в 2025-м вложения в ИИ-инфраструктуру обгонят нефтеразведку](https://habr.com/ru/news/966642/?utm_campaign=966642&utm_source=habrahabr&utm_medium=rss)
 - [Blue Origin впервые успешно посадила ступень тяжелой ракеты New Glenn](https://habr.com/ru/companies/bothub/news/966626/?utm_campaign=966626&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появились групповые чаты, но пока в пилотном режиме](https://habr.com/ru/companies/bothub/news/966622/?utm_campaign=966622&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI рассказала про особенности GPT-5.1 и будущее модели](https://habr.com/ru/news/966610/?utm_campaign=966610&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/966600/?utm_campaign=966600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
