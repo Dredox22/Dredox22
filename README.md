@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Telegram для iOS и Android предлагает прямые трансляции из личных аккаунтов](https://habr.com/ru/news/966690/?utm_campaign=966690&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI исправила проблему с длинными тире в ChatGPT](https://habr.com/ru/news/966682/?utm_campaign=966682&utm_source=habrahabr&utm_medium=rss)
 - [Logitech сообщила об утечке данных из-за уязвимости нулевого дня в программном обеспечении](https://habr.com/ru/news/966678/?utm_campaign=966678&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wine 10.19](https://habr.com/ru/news/966672/?utm_campaign=966672&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tewi 1.0.0 — открытого консольного клиента для Transmission и qBittorrent](https://habr.com/ru/news/966630/?utm_campaign=966630&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск рассказал про Grok 5](https://habr.com/ru/news/966652/?utm_campaign=966652&utm_source=habrahabr&utm_medium=rss)
-- [Отчет МЭА: уже в 2025-м вложения в ИИ-инфраструктуру обгонят нефтеразведку](https://habr.com/ru/news/966642/?utm_campaign=966642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
