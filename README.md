@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TOON: новый формат на смену JSON для более эффективного взаимодействия с LLM?](https://habr.com/ru/news/966734/?utm_campaign=966734&utm_source=habrahabr&utm_medium=rss)
+- [15 ноября. День «Бурана»](https://habr.com/ru/news/966728/?utm_campaign=966728&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: мошенники начали рассылать СМС с фишинговыми ссылками, пугая включением «периода охлаждения» СИМ-карт граждан РФ](https://habr.com/ru/news/966708/?utm_campaign=966708&utm_source=habrahabr&utm_medium=rss)
 - [Go исполнилось 16 лет](https://habr.com/ru/news/966702/?utm_campaign=966702&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram для iOS и Android предлагает прямые трансляции из личных аккаунтов](https://habr.com/ru/news/966690/?utm_campaign=966690&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI исправила проблему с длинными тире в ChatGPT](https://habr.com/ru/news/966682/?utm_campaign=966682&utm_source=habrahabr&utm_medium=rss)
-- [Logitech сообщила об утечке данных из-за уязвимости нулевого дня в программном обеспечении](https://habr.com/ru/news/966678/?utm_campaign=966678&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
