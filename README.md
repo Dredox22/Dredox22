@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ростелеком» запустил тысячную базовую станцию «Булат» в деревне Ключи](https://habr.com/ru/news/966760/?utm_campaign=966760&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ работает над обязательством банков возвращать средства при взломе их приложений](https://habr.com/ru/news/966750/?utm_campaign=966750&utm_source=habrahabr&utm_medium=rss)
 - [В новом бенчмарке ни один ИИ не выставил правильно стрелки на часах](https://habr.com/ru/news/966748/?utm_campaign=966748&utm_source=habrahabr&utm_medium=rss)
 - [TOON: новый формат на смену JSON для более эффективного взаимодействия с LLM?](https://habr.com/ru/news/966734/?utm_campaign=966734&utm_source=habrahabr&utm_medium=rss)
 - [15 ноября. День «Бурана»](https://habr.com/ru/news/966728/?utm_campaign=966728&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: мошенники начали рассылать СМС с фишинговыми ссылками, пугая включением «периода охлаждения» СИМ-карт граждан РФ](https://habr.com/ru/news/966708/?utm_campaign=966708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
