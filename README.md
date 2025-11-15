@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Logitech сообщила об утечке данных из-за уязвимости нулевого дня в программном обеспечении](https://habr.com/ru/news/966678/?utm_campaign=966678&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Wine 10.19](https://habr.com/ru/news/966672/?utm_campaign=966672&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tewi 1.0.0 — открытого консольного клиента для Transmission и qBittorrent](https://habr.com/ru/news/966630/?utm_campaign=966630&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск рассказал про Grok 5](https://habr.com/ru/news/966652/?utm_campaign=966652&utm_source=habrahabr&utm_medium=rss)
 - [Отчет МЭА: уже в 2025-м вложения в ИИ-инфраструктуру обгонят нефтеразведку](https://habr.com/ru/news/966642/?utm_campaign=966642&utm_source=habrahabr&utm_medium=rss)
-- [Blue Origin впервые успешно посадила ступень тяжелой ракеты New Glenn](https://habr.com/ru/companies/bothub/news/966626/?utm_campaign=966626&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появились групповые чаты, но пока в пилотном режиме](https://habr.com/ru/companies/bothub/news/966622/?utm_campaign=966622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
