@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3.0 Pro может выйти на следующей неделе](https://habr.com/ru/news/966798/?utm_campaign=966798&utm_source=habrahabr&utm_medium=rss)
+- [Глава Google намекнул на выход Gemini 3.0 Pro на следующей неделе](https://habr.com/ru/news/966798/?utm_campaign=966798&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» запустил тысячную базовую станцию «Булат»](https://habr.com/ru/news/966760/?utm_campaign=966760&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ работает над обязательством банков возвращать средства при взломе их приложений](https://habr.com/ru/news/966750/?utm_campaign=966750&utm_source=habrahabr&utm_medium=rss)
 - [В новом бенчмарке ни один ИИ не выставил правильно стрелки на часах](https://habr.com/ru/news/966748/?utm_campaign=966748&utm_source=habrahabr&utm_medium=rss)
