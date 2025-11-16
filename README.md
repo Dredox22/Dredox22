@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что важно знать о DevOps и Kubernetes](https://habr.com/ru/companies/mws/news/966974/?utm_campaign=966974&utm_source=habrahabr&utm_medium=rss)
 - [Новый Grok с огромным контекстным окном испытывают на OpenRouter](https://habr.com/ru/news/966958/?utm_campaign=966958&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи ноутбука Lenovo Legion Pro 7 &lpar;16IAX10H&rpar; объявили награду в $2 тыс. за устранение багов с динамиками в Linux](https://habr.com/ru/news/966906/?utm_campaign=966906&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Google DeepMind приблизил ученых к разгадке вековой загадки газов и жидкостей](https://habr.com/ru/news/966898/?utm_campaign=966898&utm_source=habrahabr&utm_medium=rss)
 - [Uber начала тестировать функцию видеозаписи в приложении для водителей в Индии](https://habr.com/ru/news/966430/?utm_campaign=966430&utm_source=habrahabr&utm_medium=rss)
-- [Вышла бесплатная пре-альфа Kitten Space Agency от создателей Kerbal Space Program](https://habr.com/ru/news/966876/?utm_campaign=966876&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
