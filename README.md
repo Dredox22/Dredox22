@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft устранит проблему в интерфейсе OneNote в Windows](https://habr.com/ru/news/966850/?utm_campaign=966850&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый кроссплатформенный проект AltSendme для конфиденциальной одноранговой передачи файлов](https://habr.com/ru/news/966794/?utm_campaign=966794&utm_source=habrahabr&utm_medium=rss)
 - [В четырех регионах РФ из-за аварии на магистральной ВОЛС на 8 часов пропал доступ в проводной интернет «Ростелекома»](https://habr.com/ru/news/966840/?utm_campaign=966840&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Debian 13.2](https://habr.com/ru/news/966778/?utm_campaign=966778&utm_source=habrahabr&utm_medium=rss)
 - [«Иртея» выиграла тендер на поставку 2 тысяч базовых станций «Билайну»](https://habr.com/ru/news/966806/?utm_campaign=966806&utm_source=habrahabr&utm_medium=rss)
-- [Глава Google намекнул на выход Gemini 3.0 Pro на следующей неделе](https://habr.com/ru/news/966798/?utm_campaign=966798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
