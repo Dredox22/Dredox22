@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты провели расследование по поводу угроз и поиска создателя Archive.today](https://habr.com/ru/news/966856/?utm_campaign=966856&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики восстановили шутер Sony Concord с помощью реверс-инжиниринга](https://habr.com/ru/news/966852/?utm_campaign=966852&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft устранит проблему в интерфейсе OneNote в Windows](https://habr.com/ru/news/966850/?utm_campaign=966850&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый кроссплатформенный проект AltSendme для конфиденциальной одноранговой передачи файлов](https://habr.com/ru/news/966794/?utm_campaign=966794&utm_source=habrahabr&utm_medium=rss)
 - [В четырех регионах РФ из-за аварии на магистральной ВОЛС на 8 часов пропал доступ в проводной интернет «Ростелекома»](https://habr.com/ru/news/966840/?utm_campaign=966840&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Debian 13.2](https://habr.com/ru/news/966778/?utm_campaign=966778&utm_source=habrahabr&utm_medium=rss)
-- [«Иртея» выиграла тендер на поставку 2 тысяч базовых станций «Билайну»](https://habr.com/ru/news/966806/?utm_campaign=966806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
