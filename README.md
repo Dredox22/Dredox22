@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел инструмент, который снимает цензуру с языковых моделей](https://habr.com/ru/companies/bothub/news/967336/?utm_campaign=967336&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/967332/?utm_campaign=967332&utm_source=habrahabr&utm_medium=rss)
-- [Безос станет со-CEO нового AI-стартапа Project Prometheus](https://habr.com/ru/companies/bothub/news/967328/?utm_campaign=967328&utm_source=habrahabr&utm_medium=rss)
-- [Объявлены лауреаты национальной премии «Цифровые решения»](https://habr.com/ru/news/967274/?utm_campaign=967274&utm_source=habrahabr&utm_medium=rss)
-- [Как избежать штрафов за нарушение требований по локализации персональных данных](https://habr.com/ru/companies/selectel/news/967256/?utm_campaign=967256&utm_source=habrahabr&utm_medium=rss)
+- [PowerLattice привлекает Пэта Гелсингера для разработки энергосберегающего чиплета](https://habr.com/ru/companies/bothub/news/967358/?utm_campaign=967358&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователь Databricks призывает США перейти на open-source ИИ, чтобы обойти Китай](https://habr.com/ru/companies/bothub/news/967352/?utm_campaign=967352&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek, Qwen и Kimi вытесняют американский ИИ из Кремниевой долины](https://habr.com/ru/news/967346/?utm_campaign=967346&utm_source=habrahabr&utm_medium=rss)
+- [Вышла мультимодальная модель, разработанная для понимания интерфейсов](https://habr.com/ru/companies/bothub/news/967344/?utm_campaign=967344&utm_source=habrahabr&utm_medium=rss)
+- [Вышла LibrePods — утилита, которая разблокирует функции AirPods на Android и Linux](https://habr.com/ru/news/967342/?utm_campaign=967342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
