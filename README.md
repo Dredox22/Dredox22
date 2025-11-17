@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как избежать штрафов за нарушение требований по локализации персональных данных](https://habr.com/ru/companies/selectel/news/967256/?utm_campaign=967256&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte провела FineDay — 2025: Self-Service BI vs AI](https://habr.com/ru/companies/glowbyte/news/967248/?utm_campaign=967248&utm_source=habrahabr&utm_medium=rss)
 - [«Бюро 1440» представило прототип терминала спутниковой связи для железнодорожных составов](https://habr.com/ru/news/967234/?utm_campaign=967234&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты предложили способы правильной настройки для защиты оборудования Wi-Fi 7](https://habr.com/ru/news/967232/?utm_campaign=967232&utm_source=habrahabr&utm_medium=rss)
 - [Копирование и вставка опередили передачу файлов как способ утечки данных компаний](https://habr.com/ru/news/967222/?utm_campaign=967222&utm_source=habrahabr&utm_medium=rss)
-- [PGMeetup: аналитика в Postgres Pro. Просто добавь OLAP](https://habr.com/ru/companies/postgrespro/news/967216/?utm_campaign=967216&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Spring Framework 7.0](https://habr.com/ru/companies/spring_aio/news/967192/?utm_campaign=967192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
