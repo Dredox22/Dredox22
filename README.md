@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен выпуск браузерного движка Servo 0.0.2, написанного на Rust](https://habr.com/ru/news/966934/?utm_campaign=966934&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.1 Thinking назвали самым умным ИИ. Разбираем бенчмарки новинки](https://habr.com/ru/news/967020/?utm_campaign=967020&utm_source=habrahabr&utm_medium=rss)
 - [Что важно знать о DevOps и Kubernetes](https://habr.com/ru/companies/mws/news/966974/?utm_campaign=966974&utm_source=habrahabr&utm_medium=rss)
 - [Новый Grok с огромным контекстным окном испытывают на OpenRouter](https://habr.com/ru/news/966958/?utm_campaign=966958&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи ноутбука Lenovo Legion Pro 7 &lpar;16IAX10H&rpar; объявили награду в $2 тыс. за устранение багов с динамиками в Linux](https://habr.com/ru/news/966906/?utm_campaign=966906&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Google DeepMind приблизил ученых к разгадке вековой загадки газов и жидкостей](https://habr.com/ru/news/966898/?utm_campaign=966898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
