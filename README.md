@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sakana AI привлекает $135 млн на создание моделей, оптимизированных под Японию](https://habr.com/ru/companies/bothub/news/967362/?utm_campaign=967362&utm_source=habrahabr&utm_medium=rss)
+- [Игровой движок Unreal Engine 6 выйдет в 2028 году](https://habr.com/ru/news/967360/?utm_campaign=967360&utm_source=habrahabr&utm_medium=rss)
 - [PowerLattice привлекает Пэта Гелсингера для разработки энергосберегающего чиплета](https://habr.com/ru/companies/bothub/news/967358/?utm_campaign=967358&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь Databricks призывает США перейти на open-source ИИ, чтобы обойти Китай](https://habr.com/ru/companies/bothub/news/967352/?utm_campaign=967352&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek, Qwen и Kimi вытесняют американский ИИ из Кремниевой долины](https://habr.com/ru/news/967346/?utm_campaign=967346&utm_source=habrahabr&utm_medium=rss)
-- [Вышла мультимодальная модель, разработанная для понимания интерфейсов](https://habr.com/ru/companies/bothub/news/967344/?utm_campaign=967344&utm_source=habrahabr&utm_medium=rss)
-- [Вышла LibrePods — утилита, которая разблокирует функции AirPods на Android и Linux](https://habr.com/ru/news/967342/?utm_campaign=967342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
