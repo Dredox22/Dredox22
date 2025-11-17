@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Mesa 25.3](https://habr.com/ru/news/966944/?utm_campaign=966944&utm_source=habrahabr&utm_medium=rss)
+- [«Инфосистемы Джет» завершила комплексное тестирование PT NGFW от Positive Technologies](https://habr.com/ru/companies/jetinfosystems/news/967124/?utm_campaign=967124&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовит к выпуску ИИ олимпиадного уровня](https://habr.com/ru/news/967118/?utm_campaign=967118&utm_source=habrahabr&utm_medium=rss)
+- [Opera добавила визуализатор Spotify в версию браузера One](https://habr.com/ru/news/967110/?utm_campaign=967110&utm_source=habrahabr&utm_medium=rss)
 - [70% компаний не соответствуют требованиям закона о защите персональных данных](https://habr.com/ru/companies/k2tech/news/965952/?utm_campaign=965952&utm_source=habrahabr&utm_medium=rss)
-- [AI Challenge: ĸаĸ МАИ вместе с ПСБ создают мост между теорией и праĸтиĸой в области исĸусственного интеллеĸта](https://habr.com/ru/companies/psb/news/967080/?utm_campaign=967080&utm_source=habrahabr&utm_medium=rss)
-- [Созданный инженером сайт почти сразу вывели из строя боты-парсеры](https://habr.com/ru/news/967068/?utm_campaign=967068&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft признала ошибку в обновлении ESU для Windows 10](https://habr.com/ru/news/967056/?utm_campaign=967056&utm_source=habrahabr&utm_medium=rss)
-- [Релиз облачного прокси-сервера с открытым исходным кодом Traefik 3.6 «Ramequin»](https://habr.com/ru/news/967052/?utm_campaign=967052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
