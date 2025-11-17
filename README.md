@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Spring Framework 7.0](https://habr.com/ru/companies/spring_aio/news/967192/?utm_campaign=967192&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Электрорешения» запустила программу кибериспытаний на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/967186/?utm_campaign=967186&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» завершил строительство оптического перехода под рекой Кама для магистральной линии связи TEA NEXT](https://habr.com/ru/news/967168/?utm_campaign=967168&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Qwen научили проходить Genshin Impact как человек](https://habr.com/ru/news/967164/?utm_campaign=967164&utm_source=habrahabr&utm_medium=rss)
 - [VK внедрила в свои продукты технологии рекомендаций на базе ИИ для более точной персонализации контента](https://habr.com/ru/news/967156/?utm_campaign=967156&utm_source=habrahabr&utm_medium=rss)
-- [США пережили крупнейшую волну увольнений за 22 года, и ИИ становится одной из причин](https://habr.com/ru/companies/bothub/news/967134/?utm_campaign=967134&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mesa 25.3](https://habr.com/ru/news/966944/?utm_campaign=966944&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет» завершила комплексное тестирование PT NGFW от Positive Technologies](https://habr.com/ru/companies/jetinfosystems/news/967124/?utm_campaign=967124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
