@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел инструмент, который снимает цензуру с языковых моделей](https://habr.com/ru/companies/bothub/news/967336/?utm_campaign=967336&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/967332/?utm_campaign=967332&utm_source=habrahabr&utm_medium=rss)
+- [Безос станет со-CEO нового AI-стартапа Project Prometheus](https://habr.com/ru/companies/bothub/news/967328/?utm_campaign=967328&utm_source=habrahabr&utm_medium=rss)
 - [Объявлены лауреаты национальной премии «Цифровые решения»](https://habr.com/ru/news/967274/?utm_campaign=967274&utm_source=habrahabr&utm_medium=rss)
 - [Как избежать штрафов за нарушение требований по локализации персональных данных](https://habr.com/ru/companies/selectel/news/967256/?utm_campaign=967256&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte провела FineDay — 2025: Self-Service BI vs AI](https://habr.com/ru/companies/glowbyte/news/967248/?utm_campaign=967248&utm_source=habrahabr&utm_medium=rss)
-- [«Бюро 1440» представило прототип терминала спутниковой связи для железнодорожных составов](https://habr.com/ru/news/967234/?utm_campaign=967234&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты предложили способы правильной настройки для защиты оборудования Wi-Fi 7](https://habr.com/ru/news/967232/?utm_campaign=967232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
