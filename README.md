@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Рекордная пусковая: СТЦ завершил подготовку к старту пятой миссии из восьми МКА](https://habr.com/ru/companies/stc_spb/news/967402/?utm_campaign=967402&utm_source=habrahabr&utm_medium=rss)
+- [Инновации СТЦ в обеспечении информационной безопасности новейшей авиационной техники](https://habr.com/ru/companies/stc_spb/news/967400/?utm_campaign=967400&utm_source=habrahabr&utm_medium=rss)
+- [В новом бенчмарке на галлюцинации лишь три ИИ чаще отвечают правильно, чем ошибаются](https://habr.com/ru/news/967396/?utm_campaign=967396&utm_source=habrahabr&utm_medium=rss)
 - [В PyPI введена дополнительная проверка во время входа с нового устройства](https://habr.com/ru/news/966996/?utm_campaign=966996&utm_source=habrahabr&utm_medium=rss)
 - [Инфографика РБК: обновлённый список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/967376/?utm_campaign=967376&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» назвал лауреатов премии Yandex ML Prize 2025](https://habr.com/ru/news/967374/?utm_campaign=967374&utm_source=habrahabr&utm_medium=rss)
-- [Производитель роутеров Keenetic принудительно обновил все устройства из-за массовых взломов](https://habr.com/ru/news/967370/?utm_campaign=967370&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть «Яндекса» для ранней диагностики ДЦП у новорождённых выложена в открытый доступ](https://habr.com/ru/news/967372/?utm_campaign=967372&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
