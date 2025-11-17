@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Бюро 1440» представило прототип терминала спутниковой связи для железнодорожных составов](https://habr.com/ru/news/967234/?utm_campaign=967234&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты предложили способы правильной настройки для защиты оборудования Wi-Fi 7](https://habr.com/ru/news/967232/?utm_campaign=967232&utm_source=habrahabr&utm_medium=rss)
+- [Копирование и вставка опередили передачу файлов как способ утечки данных компаний](https://habr.com/ru/news/967222/?utm_campaign=967222&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup: аналитика в Postgres Pro. Просто добавь OLAP](https://habr.com/ru/companies/postgrespro/news/967216/?utm_campaign=967216&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Spring Framework 7.0](https://habr.com/ru/companies/spring_aio/news/967192/?utm_campaign=967192&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Электрорешения» запустила программу кибериспытаний на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/967186/?utm_campaign=967186&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» завершил строительство оптического перехода под рекой Кама для магистральной линии связи TEA NEXT](https://habr.com/ru/news/967168/?utm_campaign=967168&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Qwen научили проходить Genshin Impact как человек](https://habr.com/ru/news/967164/?utm_campaign=967164&utm_source=habrahabr&utm_medium=rss)
-- [VK внедрила в свои продукты технологии рекомендаций на базе ИИ для более точной персонализации контента](https://habr.com/ru/news/967156/?utm_campaign=967156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
