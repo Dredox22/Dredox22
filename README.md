@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Созданный инженером сайт почти сразу вывели из строя боты-парсеры](https://habr.com/ru/news/967068/?utm_campaign=967068&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft признала ошибку в обновлении ESU для Windows 10](https://habr.com/ru/news/967056/?utm_campaign=967056&utm_source=habrahabr&utm_medium=rss)
 - [Релиз облачного прокси-сервера с открытым исходным кодом Traefik 3.6 «Ramequin»](https://habr.com/ru/news/967052/?utm_campaign=967052&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: как заменить ERP в сжатые сроки и бюджеты, обеспечив непрерывность и развитие бизнеса. Опыт «Газпромтранс»](https://habr.com/ru/companies/haulmont/news/966542/?utm_campaign=966542&utm_source=habrahabr&utm_medium=rss)
 - [Представлен выпуск браузерного движка Servo 0.0.2, написанного на Rust](https://habr.com/ru/news/966934/?utm_campaign=966934&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.1 Thinking назвали самым умным ИИ. Разбираем бенчмарки новинки](https://habr.com/ru/news/967020/?utm_campaign=967020&utm_source=habrahabr&utm_medium=rss)
-- [Что важно знать о DevOps и Kubernetes](https://habr.com/ru/companies/mws/news/966974/?utm_campaign=966974&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
