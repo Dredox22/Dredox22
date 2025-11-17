@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инфографика РБК: обновлённый список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/967376/?utm_campaign=967376&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» назвал лауреатов премии Yandex ML Prize 2025](https://habr.com/ru/news/967374/?utm_campaign=967374&utm_source=habrahabr&utm_medium=rss)
+- [Производитель роутеров Keenetic принудительно обновил все устройства из-за массовых взломов](https://habr.com/ru/news/967370/?utm_campaign=967370&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть «Яндекса» для ранней диагностики ДЦП у новорождённых выложена в открытый доступ](https://habr.com/ru/news/967372/?utm_campaign=967372&utm_source=habrahabr&utm_medium=rss)
 - [Sakana AI привлекает $135 млн на создание моделей, оптимизированных под Японию](https://habr.com/ru/companies/bothub/news/967362/?utm_campaign=967362&utm_source=habrahabr&utm_medium=rss)
-- [Игровой движок Unreal Engine 6 выйдет в 2028 году](https://habr.com/ru/news/967360/?utm_campaign=967360&utm_source=habrahabr&utm_medium=rss)
-- [PowerLattice привлекает Пэта Гелсингера для разработки энергосберегающего чиплета](https://habr.com/ru/companies/bothub/news/967358/?utm_campaign=967358&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь Databricks призывает США перейти на open-source ИИ, чтобы обойти Китай](https://habr.com/ru/companies/bothub/news/967352/?utm_campaign=967352&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek, Qwen и Kimi вытесняют американский ИИ из Кремниевой долины](https://habr.com/ru/news/967346/?utm_campaign=967346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
