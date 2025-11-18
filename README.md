@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerToys получит инструмент для веб-камеры Windows Edge Light](https://habr.com/ru/news/967468/?utm_campaign=967468&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление RapidRAW 1.4.5 открытого редактора изображений RAW](https://habr.com/ru/news/967368/?utm_campaign=967368&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор Take-Two: консоли никуда не денутся, но игры переходят на ПК](https://habr.com/ru/news/967460/?utm_campaign=967460&utm_source=habrahabr&utm_medium=rss)
+- [Google обновила прогнозы погоды с помощью модели ИИ](https://habr.com/ru/news/967450/?utm_campaign=967450&utm_source=habrahabr&utm_medium=rss)
 - [DoorDash подтвердила утечку номеров телефонов и адресов пользователей](https://habr.com/ru/news/967448/?utm_campaign=967448&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Grok 4.1 от xAI](https://habr.com/ru/news/967446/?utm_campaign=967446&utm_source=habrahabr&utm_medium=rss)
-- [Команда разработчиков из openSUSE представила проект zssh — реализацию SSH на языке Zig](https://habr.com/ru/news/967436/?utm_campaign=967436&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Phosh 0.51 — проекта GNOME-окружения для смартфонов](https://habr.com/ru/news/967046/?utm_campaign=967046&utm_source=habrahabr&utm_medium=rss)
-- [xAI выпустила Grok 4.1 — новый ИИ сразу доступен бесплатно](https://habr.com/ru/news/967422/?utm_campaign=967422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
