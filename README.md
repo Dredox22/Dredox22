@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI выпустила Grok 4.1 — новый ИИ сразу доступен бесплатно](https://habr.com/ru/news/967422/?utm_campaign=967422&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила плагин Colab для VS Code: локальные ноутбуки можно подключать к онлайн-средам выполнения](https://habr.com/ru/news/967416/?utm_campaign=967416&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.1 Thinking заняла первое место в одном из самых сложных бенчмарков для ИИ](https://habr.com/ru/news/967412/?utm_campaign=967412&utm_source=habrahabr&utm_medium=rss)
 - [Рекордная пусковая: СТЦ завершил подготовку к старту пятой миссии из восьми МКА](https://habr.com/ru/companies/stc_spb/news/967402/?utm_campaign=967402&utm_source=habrahabr&utm_medium=rss)
 - [Инновации СТЦ в обеспечении информационной безопасности новейшей авиационной техники](https://habr.com/ru/companies/stc_spb/news/967400/?utm_campaign=967400&utm_source=habrahabr&utm_medium=rss)
-- [В новом бенчмарке на галлюцинации лишь три ИИ чаще отвечают правильно, чем ошибаются](https://habr.com/ru/news/967396/?utm_campaign=967396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
