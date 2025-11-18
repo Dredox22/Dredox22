@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google запустила Antigravity — бесплатную среду для вайб-кодинга на базе Gemini 3 Pro](https://habr.com/ru/news/967780/?utm_campaign=967780&utm_source=habrahabr&utm_medium=rss)
+- [Компанию разработчика игры S.T.A.L.K.E.R признали нежелательной организацией в РФ](https://habr.com/ru/news/967774/?utm_campaign=967774&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare купила платформу для хостинга нейросетей Replicate](https://habr.com/ru/news/967768/?utm_campaign=967768&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Blender 5.0](https://habr.com/ru/news/967760/?utm_campaign=967760&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Pro вышла и уже доступна в AI Studio](https://habr.com/ru/companies/bothub/news/967726/?utm_campaign=967726&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Gemini 3 Pro — модель можно попробовать бесплатно](https://habr.com/ru/news/967724/?utm_campaign=967724&utm_source=habrahabr&utm_medium=rss)
-- [Трансляция шоу-финала True Tech Champ 2025: смотрите ИТ-фестиваль для опытных и начинающих разработчиков](https://habr.com/ru/companies/ru_mts/news/967716/?utm_campaign=967716&utm_source=habrahabr&utm_medium=rss)
-- [Падение интернета — сloudflare не работает уже несколько часов&lpar;интернет в мире тоже&rpar;](https://habr.com/ru/companies/femida_search/news/967702/?utm_campaign=967702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
