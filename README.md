@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый пул S3 в СПб, Karpenter в k8s, gis-2 и другие обновления](https://habr.com/ru/companies/selectel/news/967688/?utm_campaign=967688&utm_source=habrahabr&utm_medium=rss)
 - [Утечка карточки модели Gemini 3 Pro](https://habr.com/ru/news/967666/?utm_campaign=967666&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил «Промптхаб» — платформу с идеями, как применять нейросети](https://habr.com/ru/news/967652/?utm_campaign=967652&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.0 Pro показала сильный прогресс в сложных бенчмарках](https://habr.com/ru/news/967636/?utm_campaign=967636&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs запускает маркетплейс для синтеза исторических голосов](https://habr.com/ru/companies/bothub/news/967630/?utm_campaign=967630&utm_source=habrahabr&utm_medium=rss)
-- [Доступность зарядных станций Tesla Supercharger теперь отображается на Google Картах в реальном времени](https://habr.com/ru/news/967624/?utm_campaign=967624&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
