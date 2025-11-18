@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DoorDash подтвердила утечку номеров телефонов и адресов пользователей](https://habr.com/ru/news/967448/?utm_campaign=967448&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Grok 4.1 от xAI](https://habr.com/ru/news/967446/?utm_campaign=967446&utm_source=habrahabr&utm_medium=rss)
 - [Команда разработчиков из openSUSE представила проект zssh — реализацию SSH на языке Zig](https://habr.com/ru/news/967436/?utm_campaign=967436&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Phosh 0.51 — проекта GNOME-окружения для смартфонов](https://habr.com/ru/news/967046/?utm_campaign=967046&utm_source=habrahabr&utm_medium=rss)
 - [xAI выпустила Grok 4.1 — новый ИИ сразу доступен бесплатно](https://habr.com/ru/news/967422/?utm_campaign=967422&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила плагин Colab для VS Code: локальные ноутбуки можно подключать к онлайн-средам выполнения](https://habr.com/ru/news/967416/?utm_campaign=967416&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.1 Thinking заняла первое место в одном из самых сложных бенчмарков для ИИ](https://habr.com/ru/news/967412/?utm_campaign=967412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
