@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Grok 4.1](https://habr.com/ru/companies/bothub/news/967602/?utm_campaign=967602&utm_source=habrahabr&utm_medium=rss)
+- [На «Госуслугах» появятся опция замера скорости интернета и сбор данных о локациях с плохим уровнем связи](https://habr.com/ru/news/967596/?utm_campaign=967596&utm_source=habrahabr&utm_medium=rss)
+- [2wai превращает видео с ушедшими людьми в интерактивных цифровых аватаров](https://habr.com/ru/companies/bothub/news/967594/?utm_campaign=967594&utm_source=habrahabr&utm_medium=rss)
 - [Вышел новая версия инструментария управления контейнерами Podman 5.7.0](https://habr.com/ru/news/967072/?utm_campaign=967072&utm_source=habrahabr&utm_medium=rss)
 - [Налог на невнимательность: мошенники подделывают уведомления ФНС](https://habr.com/ru/companies/garda/news/966026/?utm_campaign=966026&utm_source=habrahabr&utm_medium=rss)
-- [Depth Anything 3 упрощает 3D-генерацию из изображений](https://habr.com/ru/companies/bothub/news/967572/?utm_campaign=967572&utm_source=habrahabr&utm_medium=rss)
-- [Google опубликовала расширение Colab для Visual Studio Code](https://habr.com/ru/news/967144/?utm_campaign=967144&utm_source=habrahabr&utm_medium=rss)
-- [Google Colab теперь напрямую интегрирован с Visual Studio Code](https://habr.com/ru/companies/bothub/news/967544/?utm_campaign=967544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
