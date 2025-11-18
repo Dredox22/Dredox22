@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3.0 Pro показала сильный прогресс в сложных бенчмарках](https://habr.com/ru/news/967636/?utm_campaign=967636&utm_source=habrahabr&utm_medium=rss)
+- [ElevenLabs запускает маркетплейс для синтеза исторических голосов](https://habr.com/ru/companies/bothub/news/967630/?utm_campaign=967630&utm_source=habrahabr&utm_medium=rss)
+- [Доступность зарядных станций Tesla Supercharger теперь отображается на Google Картах в реальном времени](https://habr.com/ru/news/967624/?utm_campaign=967624&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Grok 4.1](https://habr.com/ru/companies/bothub/news/967602/?utm_campaign=967602&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» появятся опция замера скорости интернета и сбор данных о локациях с плохим уровнем связи](https://habr.com/ru/news/967596/?utm_campaign=967596&utm_source=habrahabr&utm_medium=rss)
-- [2wai превращает видео с ушедшими людьми в интерактивных цифровых аватаров](https://habr.com/ru/companies/bothub/news/967594/?utm_campaign=967594&utm_source=habrahabr&utm_medium=rss)
-- [Вышел новая версия инструментария управления контейнерами Podman 5.7.0](https://habr.com/ru/news/967072/?utm_campaign=967072&utm_source=habrahabr&utm_medium=rss)
-- [Налог на невнимательность: мошенники подделывают уведомления ФНС](https://habr.com/ru/companies/garda/news/966026/?utm_campaign=966026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
