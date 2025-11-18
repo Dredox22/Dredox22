@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар «Твоя безопасность. Твои правила. Твой контроль. Всё о службе каталогов MULTIDIRECTORY»](https://habr.com/ru/companies/multifactor/news/967506/?utm_campaign=967506&utm_source=habrahabr&utm_medium=rss)
+- [Итоги Марафона полезных игр: более 1000 участников из 23 городов освоили технологии через игры](https://habr.com/ru/news/967538/?utm_campaign=967538&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Твоя безопасность. Твои правила. Твой контроль. Всё о службе каталогов MULTIDIRECTORY»](https://habr.com/ru/companies/multifactor/news/967526/?utm_campaign=967526&utm_source=habrahabr&utm_medium=rss)
 - [Google собирает массивы данных с ранних термостатов Nest даже после отключения дистанционного управления](https://habr.com/ru/news/967484/?utm_campaign=967484&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Azure подверглась DDoS-атаке мощностью 15 Тбит/с](https://habr.com/ru/news/967472/?utm_campaign=967472&utm_source=habrahabr&utm_medium=rss)
 - [PowerToys получит инструмент для веб-камеры Windows Edge Light](https://habr.com/ru/news/967468/?utm_campaign=967468&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.4.5 открытого редактора изображений RAW](https://habr.com/ru/news/967368/?utm_campaign=967368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
