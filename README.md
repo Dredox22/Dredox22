@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «Твоя безопасность. Твои правила. Твой контроль. Всё о службе каталогов MULTIDIRECTORY»](https://habr.com/ru/companies/multifactor/news/967506/?utm_campaign=967506&utm_source=habrahabr&utm_medium=rss)
+- [Google собирает массивы данных с ранних термостатов Nest даже после отключения дистанционного управления](https://habr.com/ru/news/967484/?utm_campaign=967484&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: Azure подверглась DDoS-атаке мощностью 15 Тбит/с](https://habr.com/ru/news/967472/?utm_campaign=967472&utm_source=habrahabr&utm_medium=rss)
 - [PowerToys получит инструмент для веб-камеры Windows Edge Light](https://habr.com/ru/news/967468/?utm_campaign=967468&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление RapidRAW 1.4.5 открытого редактора изображений RAW](https://habr.com/ru/news/967368/?utm_campaign=967368&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный директор Take-Two: консоли никуда не денутся, но игры переходят на ПК](https://habr.com/ru/news/967460/?utm_campaign=967460&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила прогнозы погоды с помощью модели ИИ](https://habr.com/ru/news/967450/?utm_campaign=967450&utm_source=habrahabr&utm_medium=rss)
-- [DoorDash подтвердила утечку номеров телефонов и адресов пользователей](https://habr.com/ru/news/967448/?utm_campaign=967448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
