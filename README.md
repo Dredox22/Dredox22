@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Итоги Марафона полезных игр: более 1000 участников из 23 городов освоили технологии через игры](https://habr.com/ru/news/967538/?utm_campaign=967538&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Твоя безопасность. Твои правила. Твой контроль. Всё о службе каталогов MULTIDIRECTORY»](https://habr.com/ru/companies/multifactor/news/967526/?utm_campaign=967526&utm_source=habrahabr&utm_medium=rss)
-- [Google собирает массивы данных с ранних термостатов Nest даже после отключения дистанционного управления](https://habr.com/ru/news/967484/?utm_campaign=967484&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: Azure подверглась DDoS-атаке мощностью 15 Тбит/с](https://habr.com/ru/news/967472/?utm_campaign=967472&utm_source=habrahabr&utm_medium=rss)
-- [PowerToys получит инструмент для веб-камеры Windows Edge Light](https://habr.com/ru/news/967468/?utm_campaign=967468&utm_source=habrahabr&utm_medium=rss)
+- [Вышел новая версия инструментария управления контейнерами Podman 5.7.0](https://habr.com/ru/news/967072/?utm_campaign=967072&utm_source=habrahabr&utm_medium=rss)
+- [Налог на невнимательность: мошенники подделывают уведомления ФНС](https://habr.com/ru/companies/garda/news/966026/?utm_campaign=966026&utm_source=habrahabr&utm_medium=rss)
+- [Depth Anything 3 упрощает 3D-генерацию из изображений](https://habr.com/ru/companies/bothub/news/967572/?utm_campaign=967572&utm_source=habrahabr&utm_medium=rss)
+- [Google опубликовала расширение Colab для Visual Studio Code](https://habr.com/ru/news/967144/?utm_campaign=967144&utm_source=habrahabr&utm_medium=rss)
+- [Google Colab теперь напрямую интегрирован с Visual Studio Code](https://habr.com/ru/companies/bothub/news/967544/?utm_campaign=967544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
