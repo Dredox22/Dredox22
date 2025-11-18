@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3 Pro вышла и уже доступна в AI Studio](https://habr.com/ru/companies/bothub/news/967726/?utm_campaign=967726&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Gemini 3 Pro — модель можно попробовать бесплатно](https://habr.com/ru/news/967724/?utm_campaign=967724&utm_source=habrahabr&utm_medium=rss)
 - [Трансляция шоу-финала True Tech Champ 2025: смотрите ИТ-фестиваль для опытных и начинающих разработчиков](https://habr.com/ru/companies/ru_mts/news/967716/?utm_campaign=967716&utm_source=habrahabr&utm_medium=rss)
 - [Падение интернета — сloudflare не работает уже несколько часов&lpar;интернет в мире тоже&rpar;](https://habr.com/ru/companies/femida_search/news/967702/?utm_campaign=967702&utm_source=habrahabr&utm_medium=rss)
 - [Новый пул S3 в СПб, Karpenter в k8s, gis-2 и другие обновления](https://habr.com/ru/companies/selectel/news/967688/?utm_campaign=967688&utm_source=habrahabr&utm_medium=rss)
-- [Утечка карточки модели Gemini 3 Pro](https://habr.com/ru/news/967666/?utm_campaign=967666&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустил «Промптхаб» — платформу с идеями, как применять нейросети](https://habr.com/ru/news/967652/?utm_campaign=967652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
