@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустил конкурента Cursor](https://habr.com/ru/companies/bothub/news/967854/?utm_campaign=967854&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft, Nvidia и Anthropic заключили сделку на $45 млрд](https://habr.com/ru/companies/bothub/news/967846/?utm_campaign=967846&utm_source=habrahabr&utm_medium=rss)
 - [Вышло решение Windows Edge Light — виртуальная кольцевая лампа для созвонов для ПК на Windows](https://habr.com/ru/news/967838/?utm_campaign=967838&utm_source=habrahabr&utm_medium=rss)
 - [В Cloudflare раскрыли причину многочасового глобального сбоя в работе — файл конфигурации](https://habr.com/ru/news/967836/?utm_campaign=967836&utm_source=habrahabr&utm_medium=rss)
 - [Проект IDEmacs подготовил окружение в стиле VSCode на базе редактора Emacs](https://habr.com/ru/news/967654/?utm_campaign=967654&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Git 2.52](https://habr.com/ru/news/967764/?utm_campaign=967764&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Gemini 3.0 Deep Think — мощный ИИ для сложных задач](https://habr.com/ru/news/967816/?utm_campaign=967816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
