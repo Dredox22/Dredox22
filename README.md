@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft назвала внедрение SQL Server в Linux «феноменальным» и прекратила поддержку дистрибутива SUSE](https://habr.com/ru/news/967874/?utm_campaign=967874&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft открыла для всех разработчиков доступ к гайдлайнам по выпуску игр на Xbox, ранее эта информация была под NDA](https://habr.com/ru/news/967866/?utm_campaign=967866&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустил конкурента Cursor](https://habr.com/ru/companies/bothub/news/967854/?utm_campaign=967854&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, Nvidia и Anthropic заключили сделку на $45 млрд](https://habr.com/ru/companies/bothub/news/967846/?utm_campaign=967846&utm_source=habrahabr&utm_medium=rss)
 - [Вышло решение Windows Edge Light — виртуальная кольцевая лампа для созвонов для ПК на Windows](https://habr.com/ru/news/967838/?utm_campaign=967838&utm_source=habrahabr&utm_medium=rss)
-- [В Cloudflare раскрыли причину многочасового глобального сбоя в работе — файл конфигурации](https://habr.com/ru/news/967836/?utm_campaign=967836&utm_source=habrahabr&utm_medium=rss)
-- [Проект IDEmacs подготовил окружение в стиле VSCode на базе редактора Emacs](https://habr.com/ru/news/967654/?utm_campaign=967654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
