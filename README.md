@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft назвала внедрение SQL Server в Linux «феноменальным» и прекратила поддержку дистрибутива SUSE](https://habr.com/ru/news/967874/?utm_campaign=967874&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft открыла для всех разработчиков доступ к гайдлайнам по выпуску игр на Xbox, ранее эта информация была под NDA](https://habr.com/ru/news/967866/?utm_campaign=967866&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустил конкурента Cursor](https://habr.com/ru/companies/bothub/news/967854/?utm_campaign=967854&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft, Nvidia и Anthropic заключили сделку на $45 млрд](https://habr.com/ru/companies/bothub/news/967846/?utm_campaign=967846&utm_source=habrahabr&utm_medium=rss)
-- [Вышло решение Windows Edge Light — виртуальная кольцевая лампа для созвонов для ПК на Windows](https://habr.com/ru/news/967838/?utm_campaign=967838&utm_source=habrahabr&utm_medium=rss)
+- [Грабители в Лондоне начали возвращать жертвам смартфоны, если это не iPhone](https://habr.com/ru/news/967898/?utm_campaign=967898&utm_source=habrahabr&utm_medium=rss)
+- [Простая уязвимость безопасности WhatsApp раскрыла 3,5 млрд телефонных номеров](https://habr.com/ru/news/967902/?utm_campaign=967902&utm_source=habrahabr&utm_medium=rss)
+- [Rust может стать обязательным для CPython: опубликован Pre-PEP](https://habr.com/ru/news/967900/?utm_campaign=967900&utm_source=habrahabr&utm_medium=rss)
+- [Кружковое движение НТИ представило образовательные технологии на фестивале «Хайтек: Навыки будущего»](https://habr.com/ru/news/967894/?utm_campaign=967894&utm_source=habrahabr&utm_medium=rss)
+- [Эксперимент Anthropic с ИИ-системой Claudius по управлению торговыми автоматами привёл к неожиданным последствиям](https://habr.com/ru/news/967890/?utm_campaign=967890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
