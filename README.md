@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Linux-дистрибутив AlmaLinux 9.7](https://habr.com/ru/news/967776/?utm_campaign=967776&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 появятся новые функции восстановления системы](https://habr.com/ru/news/967808/?utm_campaign=967808&utm_source=habrahabr&utm_medium=rss)
+- [Roblox введёт возрастные ограничения для общения в чатах](https://habr.com/ru/news/967794/?utm_campaign=967794&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft анонсировала «революционную» функцию для Word и PowerPoint](https://habr.com/ru/news/967904/?utm_campaign=967904&utm_source=habrahabr&utm_medium=rss)
 - [Грабители в Лондоне начали возвращать жертвам смартфоны, если это не iPhone](https://habr.com/ru/news/967898/?utm_campaign=967898&utm_source=habrahabr&utm_medium=rss)
-- [Простая уязвимость безопасности WhatsApp раскрыла 3,5 млрд телефонных номеров](https://habr.com/ru/news/967902/?utm_campaign=967902&utm_source=habrahabr&utm_medium=rss)
-- [Rust может стать обязательным для CPython: опубликован Pre-PEP](https://habr.com/ru/news/967900/?utm_campaign=967900&utm_source=habrahabr&utm_medium=rss)
-- [Кружковое движение НТИ представило образовательные технологии на фестивале «Хайтек: Навыки будущего»](https://habr.com/ru/news/967894/?utm_campaign=967894&utm_source=habrahabr&utm_medium=rss)
-- [Эксперимент Anthropic с ИИ-системой Claudius по управлению торговыми автоматами привёл к неожиданным последствиям](https://habr.com/ru/news/967890/?utm_campaign=967890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
