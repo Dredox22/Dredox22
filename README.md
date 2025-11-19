@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Git 2.52](https://habr.com/ru/news/967764/?utm_campaign=967764&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Gemini 3.0 Deep Think — мощный ИИ для сложных задач](https://habr.com/ru/news/967816/?utm_campaign=967816&utm_source=habrahabr&utm_medium=rss)
 - [Новая IDE для работы с AI-агентам от Google. Убийца Cursor?](https://habr.com/ru/news/967814/?utm_campaign=967814&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Pro стала доступна в JetBrains IDE](https://habr.com/ru/news/967806/?utm_campaign=967806&utm_source=habrahabr&utm_medium=rss)
 - [В VS Code появились приватные магазины плагинов, которые доступны только в контуре компании](https://habr.com/ru/news/967800/?utm_campaign=967800&utm_source=habrahabr&utm_medium=rss)
-- [WeatherNext 2 стала новой основой для прогнозирования погоды в экосистеме Google](https://habr.com/ru/companies/bothub/news/967796/?utm_campaign=967796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
