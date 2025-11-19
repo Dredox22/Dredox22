@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Больше трети компаний сталкиваются с веб-атаками еженедельно и чаще](https://habr.com/ru/companies/garda/news/967628/?utm_campaign=967628&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 Pro стала первой в дизайне и еще нескольких важных бенчмарках](https://habr.com/ru/news/967970/?utm_campaign=967970&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали компанию разрабатывающую решения для слежки за пользователями](https://habr.com/ru/companies/femida_search/news/967966/?utm_campaign=967966&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» показал свой новый банкомат с ИИ-помощником GigaChat и сервисом экспресс-оценки здоровья](https://habr.com/ru/news/967960/?utm_campaign=967960&utm_source=habrahabr&utm_medium=rss)
-- [20 ноября — вебинар «Защита с InfoWatch ARMA: кейсы клиентов и обзор новых возможностей»](https://habr.com/ru/companies/infowatch/news/967936/?utm_campaign=967936&utm_source=habrahabr&utm_medium=rss)
+- [Artificial Analysis обновили свой Intelligence Index](https://habr.com/ru/companies/otus/news/968038/?utm_campaign=968038&utm_source=habrahabr&utm_medium=rss)
+- [Google DeepMind выпустила полный гайд по Gemini 3](https://habr.com/ru/companies/bothub/news/968036/?utm_campaign=968036&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появился ИИ-помощник «Алиса AI» для решения нестандартных городских задач](https://habr.com/ru/news/968022/?utm_campaign=968022&utm_source=habrahabr&utm_medium=rss)
+- [Ai2 выпускает Deep Research Tulu — открытую модель для глубокого исследования информации](https://habr.com/ru/companies/bothub/news/968018/?utm_campaign=968018&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA представила открытые модели Apollo для научных расчетов и симуляций](https://habr.com/ru/companies/bothub/news/968012/?utm_campaign=968012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
