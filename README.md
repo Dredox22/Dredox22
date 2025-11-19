@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI готовит GPT-5.1-Codex-Max — ответ Gemini 3 Pro](https://habr.com/ru/news/968078/?utm_campaign=968078&utm_source=habrahabr&utm_medium=rss)
 - [Artificial Analysis обновили свой Intelligence Index](https://habr.com/ru/companies/otus/news/968038/?utm_campaign=968038&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind выпустила полный гайд по Gemini 3](https://habr.com/ru/companies/bothub/news/968036/?utm_campaign=968036&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» появился ИИ-помощник на базе технологий Alice AI для решения нестандартных городских задач](https://habr.com/ru/news/968022/?utm_campaign=968022&utm_source=habrahabr&utm_medium=rss)
 - [Ai2 выпускает Deep Research Tulu — открытую модель для глубокого исследования информации](https://habr.com/ru/companies/bothub/news/968018/?utm_campaign=968018&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA представила открытые модели Apollo для научных расчетов и симуляций](https://habr.com/ru/companies/bothub/news/968012/?utm_campaign=968012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
