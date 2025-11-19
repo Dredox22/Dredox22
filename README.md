@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Дочка» Alibaba запустила ИИ-сервис, создающий приложения за 30 секунд](https://habr.com/ru/news/968128/?utm_campaign=968128&utm_source=habrahabr&utm_medium=rss)
+- [Технический апдейт: Обновил PostgreSQL до версии 18 и убрал PG 13 на sqlize.online](https://habr.com/ru/news/968108/?utm_campaign=968108&utm_source=habrahabr&utm_medium=rss)
 - [Reader3: Андрей Карпаты выпустил легковесную читалку для книг с интеграцией LLM](https://habr.com/ru/companies/bothub/news/968026/?utm_campaign=968026&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI готовит GPT-5.1-Codex-Max — ответ Gemini 3 Pro](https://habr.com/ru/news/968078/?utm_campaign=968078&utm_source=habrahabr&utm_medium=rss)
 - [Artificial Analysis обновили свой Intelligence Index](https://habr.com/ru/companies/otus/news/968038/?utm_campaign=968038&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind выпустила полный гайд по Gemini 3](https://habr.com/ru/companies/bothub/news/968036/?utm_campaign=968036&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появился ИИ-помощник на базе технологий Alice AI для решения нестандартных городских задач](https://habr.com/ru/news/968022/?utm_campaign=968022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
