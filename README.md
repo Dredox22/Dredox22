@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» показал свой новый банкомат с ИИ-помощником GigaChat и сервисом экспресс-оценки здоровья](https://habr.com/ru/news/967960/?utm_campaign=967960&utm_source=habrahabr&utm_medium=rss)
+- [20 ноября — вебинар «Защита с InfoWatch ARMA: кейсы клиентов и обзор новых возможностей»](https://habr.com/ru/companies/infowatch/news/967936/?utm_campaign=967936&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux-дистрибутив AlmaLinux 9.7](https://habr.com/ru/news/967776/?utm_campaign=967776&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появятся новые функции восстановления системы](https://habr.com/ru/news/967808/?utm_campaign=967808&utm_source=habrahabr&utm_medium=rss)
 - [Roblox введёт возрастные ограничения для общения в чатах](https://habr.com/ru/news/967794/?utm_campaign=967794&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала «революционную» функцию для Word и PowerPoint](https://habr.com/ru/news/967904/?utm_campaign=967904&utm_source=habrahabr&utm_medium=rss)
-- [Грабители в Лондоне начали возвращать жертвам смартфоны, если это не iPhone](https://habr.com/ru/news/967898/?utm_campaign=967898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
