@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло решение Windows Edge Light — виртуальная кольцевая лампа для созвонов для ПК на Windows](https://habr.com/ru/news/967838/?utm_campaign=967838&utm_source=habrahabr&utm_medium=rss)
+- [В Cloudflare раскрыли причину многочасового глобального сбоя в работе — файл конфигурации](https://habr.com/ru/news/967836/?utm_campaign=967836&utm_source=habrahabr&utm_medium=rss)
 - [Проект IDEmacs подготовил окружение в стиле VSCode на базе редактора Emacs](https://habr.com/ru/news/967654/?utm_campaign=967654&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Git 2.52](https://habr.com/ru/news/967764/?utm_campaign=967764&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Gemini 3.0 Deep Think — мощный ИИ для сложных задач](https://habr.com/ru/news/967816/?utm_campaign=967816&utm_source=habrahabr&utm_medium=rss)
-- [Новая IDE для работы с AI-агентам от Google. Убийца Cursor?](https://habr.com/ru/news/967814/?utm_campaign=967814&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 Pro стала доступна в JetBrains IDE](https://habr.com/ru/news/967806/?utm_campaign=967806&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
