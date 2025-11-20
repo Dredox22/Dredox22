@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз ESPectre — открытой системы обнаружения движения на основе спектрального анализа Wi-Fi](https://habr.com/ru/news/968606/?utm_campaign=968606&utm_source=habrahabr&utm_medium=rss)
+- [Ученые рассказали, как GPT-5 Pro помогла сделать несколько открытий](https://habr.com/ru/news/968604/?utm_campaign=968604&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 устроила временной шок и отказалась верить, что сейчас 2025‑й](https://habr.com/ru/companies/bothub/news/968584/?utm_campaign=968584&utm_source=habrahabr&utm_medium=rss)
 - [Google запускает Gemini в Android Auto. ИИ-помощник теперь доступен за рулём](https://habr.com/ru/companies/bothub/news/968580/?utm_campaign=968580&utm_source=habrahabr&utm_medium=rss)
 - [Видео с презентации антропоморфного робота собственной разработки «Сбера»](https://habr.com/ru/news/968562/?utm_campaign=968562&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT запустил групповые чаты по всему миру](https://habr.com/ru/companies/bothub/news/968576/?utm_campaign=968576&utm_source=habrahabr&utm_medium=rss)
-- [Adobe покупает разработчика ПО для SEO и маркетинга Semrush](https://habr.com/ru/companies/bothub/news/968558/?utm_campaign=968558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
