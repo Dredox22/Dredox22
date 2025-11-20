@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Китайский университет получил больше патентов в области ИИ, чем МТИ, Стэнфорд, Принстон и Гарвард вместе взятые](https://habr.com/ru/news/968356/?utm_campaign=968356&utm_source=habrahabr&utm_medium=rss)
-- [SimpleOne оптимизировала Low-code платформу и увеличила ее производительность в 16 раз](https://habr.com/ru/companies/simpleone/news/968348/?utm_campaign=968348&utm_source=habrahabr&utm_medium=rss)
-- [В портфель решений К2Тех вошла AI-платформа Visiology Cortex для бизнес-аналитики](https://habr.com/ru/companies/k2tech/news/968338/?utm_campaign=968338&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft запускает Agent 365 — контрольную панель для корпоративных ИИ-агентов](https://habr.com/ru/companies/bothub/news/968278/?utm_campaign=968278&utm_source=habrahabr&utm_medium=rss)
-- [Сайт программы тестирования Windows Insider обновили](https://habr.com/ru/news/968298/?utm_campaign=968298&utm_source=habrahabr&utm_medium=rss)
+- [Explyt становится Veai](https://habr.com/ru/companies/veai/news/968392/?utm_campaign=968392&utm_source=habrahabr&utm_medium=rss)
+- [UserGate вновь признан лидером российского рынка сетевой кибербезопасности](https://habr.com/ru/companies/usergate/news/968382/?utm_campaign=968382&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпати рассказал, как его «загазлайтила» Gemini 3 Pro](https://habr.com/ru/news/968380/?utm_campaign=968380&utm_source=habrahabr&utm_medium=rss)
+- [Stack Overflow превращается в инфраструктуру для корпоративного ИИ](https://habr.com/ru/companies/bothub/news/968268/?utm_campaign=968268&utm_source=habrahabr&utm_medium=rss)
+- [Вышел дистрибутив Finnix 251 для системных администраторов](https://habr.com/ru/news/968152/?utm_campaign=968152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
