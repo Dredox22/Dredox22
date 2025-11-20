@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Python рассматривают возможность внедрения языка программирования Rust в CPython](https://habr.com/ru/news/968102/?utm_campaign=968102&utm_source=habrahabr&utm_medium=rss)
+- [Релиз гипервизора Xen 4.21](https://habr.com/ru/news/968086/?utm_campaign=968086&utm_source=habrahabr&utm_medium=rss)
 - [Появились примеры работы Nano Banana Pro](https://habr.com/ru/news/968180/?utm_campaign=968180&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-5.1-Codex-Max — новый лидер в программировании](https://habr.com/ru/news/968168/?utm_campaign=968168&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустили GPT-5.1-Codex-Max](https://habr.com/ru/news/968164/?utm_campaign=968164&utm_source=habrahabr&utm_medium=rss)
-- [Сбер показал банкомат 80-го уровня с ИИ, двойным экраном и проверкой здоровья](https://habr.com/ru/companies/bothub/news/968146/?utm_campaign=968146&utm_source=habrahabr&utm_medium=rss)
-- [Meta* не признана монополистом — американский суд ставит точку в деле об Instagram и WhatsApp](https://habr.com/ru/companies/bothub/news/968140/?utm_campaign=968140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
