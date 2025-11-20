@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Полиция Нидерландов конфисковала около 250 серверов в дата-центрах у «пуленепробиваемого» хостинга, вероятно, CrazyRDP](https://habr.com/ru/news/968276/?utm_campaign=968276&utm_source=habrahabr&utm_medium=rss)
-- [Google не хочет нести ответственность за проверку возраста на уровне ОС](https://habr.com/ru/news/968272/?utm_campaign=968272&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT-5.1 Pro — свой самый мощный ИИ](https://habr.com/ru/news/968258/?utm_campaign=968258&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT-5.1-Codex-Max для тяжёлой разработки](https://habr.com/ru/companies/bothub/news/968254/?utm_campaign=968254&utm_source=habrahabr&utm_medium=rss)
-- [Google сделала бесплатным шрифт Google GS Flex](https://habr.com/ru/news/968244/?utm_campaign=968244&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft запускает Agent 365 — контрольную панель для корпоративных ИИ-агентов](https://habr.com/ru/companies/bothub/news/968278/?utm_campaign=968278&utm_source=habrahabr&utm_medium=rss)
+- [Сайт программы тестирования Windows Insider обновили](https://habr.com/ru/news/968298/?utm_campaign=968298&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты попытались удалённо взломать китайский автобус](https://habr.com/ru/news/968294/?utm_campaign=968294&utm_source=habrahabr&utm_medium=rss)
+- [62% российских корпораций продолжают использовать зарубежные NGFW](https://habr.com/ru/companies/k2tech/news/967964/?utm_campaign=967964&utm_source=habrahabr&utm_medium=rss)
+- [xAI выпустила Grok 4.1 Fast: новый ИИ временно доступен бесплатно](https://habr.com/ru/news/968292/?utm_campaign=968292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
