@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китайский университет получил больше патентов в области ИИ, чем МТИ, Стэнфорд, Принстон и Гарвард вместе взятые](https://habr.com/ru/news/968356/?utm_campaign=968356&utm_source=habrahabr&utm_medium=rss)
+- [SimpleOne оптимизировала Low-code платформу и увеличила ее производительность в 16 раз](https://habr.com/ru/companies/simpleone/news/968348/?utm_campaign=968348&utm_source=habrahabr&utm_medium=rss)
+- [В портфель решений К2Тех вошла AI-платформа Visiology Cortex для бизнес-аналитики](https://habr.com/ru/companies/k2tech/news/968338/?utm_campaign=968338&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запускает Agent 365 — контрольную панель для корпоративных ИИ-агентов](https://habr.com/ru/companies/bothub/news/968278/?utm_campaign=968278&utm_source=habrahabr&utm_medium=rss)
 - [Сайт программы тестирования Windows Insider обновили](https://habr.com/ru/news/968298/?utm_campaign=968298&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты попытались удалённо взломать китайский автобус](https://habr.com/ru/news/968294/?utm_campaign=968294&utm_source=habrahabr&utm_medium=rss)
-- [62% российских корпораций продолжают использовать зарубежные NGFW](https://habr.com/ru/companies/k2tech/news/967964/?utm_campaign=967964&utm_source=habrahabr&utm_medium=rss)
-- [xAI выпустила Grok 4.1 Fast: новый ИИ временно доступен бесплатно](https://habr.com/ru/news/968292/?utm_campaign=968292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
