@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры: часть операторов просит подключение к Wi-Fi для верификации СИМ-карт абонентов после приезда в РФ](https://habr.com/ru/news/968232/?utm_campaign=968232&utm_source=habrahabr&utm_medium=rss)
 - [XXI конференция «Свободное ПО в высшей школе» &lpar;OSEDUCONF-2026&rpar; состоится в февраля 2026 года в Переславле-Залесском](https://habr.com/ru/news/968228/?utm_campaign=968228&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Python рассматривают возможность внедрения языка программирования Rust в CPython](https://habr.com/ru/news/968102/?utm_campaign=968102&utm_source=habrahabr&utm_medium=rss)
 - [Релиз гипервизора Xen 4.21](https://habr.com/ru/news/968086/?utm_campaign=968086&utm_source=habrahabr&utm_medium=rss)
 - [Появились примеры работы Nano Banana Pro](https://habr.com/ru/news/968180/?utm_campaign=968180&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT-5.1-Codex-Max — новый лидер в программировании](https://habr.com/ru/news/968168/?utm_campaign=968168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
