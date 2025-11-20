@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3 устроила временной шок и отказалась верить, что сейчас 2025‑й](https://habr.com/ru/companies/bothub/news/968584/?utm_campaign=968584&utm_source=habrahabr&utm_medium=rss)
+- [Google запускает Gemini в Android Auto. ИИ-помощник теперь доступен за рулём](https://habr.com/ru/companies/bothub/news/968580/?utm_campaign=968580&utm_source=habrahabr&utm_medium=rss)
+- [Видео с презентации антропоморфного робота собственной разработки «Сбера»](https://habr.com/ru/news/968562/?utm_campaign=968562&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT запустил групповые чаты по всему миру](https://habr.com/ru/companies/bothub/news/968576/?utm_campaign=968576&utm_source=habrahabr&utm_medium=rss)
 - [Adobe покупает разработчика ПО для SEO и маркетинга Semrush](https://habr.com/ru/companies/bothub/news/968558/?utm_campaign=968558&utm_source=habrahabr&utm_medium=rss)
-- [Открыт набор на авторизованный курс по СУБД Tantor Postgres](https://habr.com/ru/companies/tantor/news/968552/?utm_campaign=968552&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» открыл веса GigaChat Ultra, Kandinsky 5.0 и других моделей](https://habr.com/ru/news/968530/?utm_campaign=968530&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Nano Banana Pro](https://habr.com/ru/news/968514/?utm_campaign=968514&utm_source=habrahabr&utm_medium=rss)
-- [xAI Илона Маска строит гигантский дата-центр на 500 МВт в Саудовской Аравии](https://habr.com/ru/companies/bothub/news/968420/?utm_campaign=968420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
