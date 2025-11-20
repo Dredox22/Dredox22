@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Госдума РФ приняла закон о введении технологического сбора с 1 сентября 2026 года](https://habr.com/ru/news/968472/?utm_campaign=968472&utm_source=habrahabr&utm_medium=rss)
+- [Apple рассказала про производство Apple Watch: корпус часов печатают из титанового порошка на 3D-принтере](https://habr.com/ru/news/968458/?utm_campaign=968458&utm_source=habrahabr&utm_medium=rss)
+- [Вышел PHP 8.5](https://habr.com/ru/news/968448/?utm_campaign=968448&utm_source=habrahabr&utm_medium=rss)
 - [UserGate проведет мастер-классы для участников конференции «Сетевая безопасность» в Москве](https://habr.com/ru/companies/usergate/news/968436/?utm_campaign=968436&utm_source=habrahabr&utm_medium=rss)
 - [Manus представила Browser Operator — ИИ-агенты, которые работают с браузером](https://habr.com/ru/companies/bothub/news/968404/?utm_campaign=968404&utm_source=habrahabr&utm_medium=rss)
-- [Explyt становится Veai](https://habr.com/ru/companies/veai/news/968392/?utm_campaign=968392&utm_source=habrahabr&utm_medium=rss)
-- [UserGate вновь признан лидером российского рынка сетевой кибербезопасности](https://habr.com/ru/companies/usergate/news/968382/?utm_campaign=968382&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати рассказал, как его «загазлайтила» Gemini 3 Pro](https://habr.com/ru/news/968380/?utm_campaign=968380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
