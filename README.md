@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Илон Маск заявил, что через 10-20 лет работа станет «опциональной»](https://habr.com/ru/news/968962/?utm_campaign=968962&utm_source=habrahabr&utm_medium=rss)
+- [Новый Starship не прошёл испытание, и SpaceX опять собирает обломки](https://habr.com/ru/companies/bothub/news/968956/?utm_campaign=968956&utm_source=habrahabr&utm_medium=rss)
 - [Django исполнилось 20 лет: главное о пути фреймворка и его экосистемы](https://habr.com/ru/news/968936/?utm_campaign=968936&utm_source=habrahabr&utm_medium=rss)
 - [В Dr.Web обновили Dr.Web CureIt! проверкой файлов и папок, внесённых в исключения и начали делать эту утилиту для Linux](https://habr.com/ru/news/968932/?utm_campaign=968932&utm_source=habrahabr&utm_medium=rss)
 - [Роботы Figure 02 заменили людей на заводе BMW и выявили свои слабые места](https://habr.com/ru/companies/bothub/news/968870/?utm_campaign=968870&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» раскрыл часть основных характеристик антропоморфного робота собственной разработки](https://habr.com/ru/news/968920/?utm_campaign=968920&utm_source=habrahabr&utm_medium=rss)
-- [Википедия рассказала, как распознать текст, сгенерированный ИИ](https://habr.com/ru/companies/bothub/news/968880/?utm_campaign=968880&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
