@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман признал, что Google догоняет OpenAI, и впереди трудные времена](https://habr.com/ru/news/968842/?utm_campaign=968842&utm_source=habrahabr&utm_medium=rss)
+- [Квантовые физики уменьшили и «освободили от цензуры» DeepSeek R1](https://habr.com/ru/companies/otus/news/968770/?utm_campaign=968770&utm_source=habrahabr&utm_medium=rss)
+- [Max стал доступен пользователям на мобильной ОС «Аврора»](https://habr.com/ru/news/968824/?utm_campaign=968824&utm_source=habrahabr&utm_medium=rss)
 - [В сервисе «Яндекс Такси» появился ИИ-агент службы поддержки](https://habr.com/ru/news/968794/?utm_campaign=968794&utm_source=habrahabr&utm_medium=rss)
 - [Apple объявила финалистов премии App Store Awards 2025](https://habr.com/ru/news/968792/?utm_campaign=968792&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на митап «Шардирование высоконагруженных платформ»](https://habr.com/ru/companies/1cupis/news/968786/?utm_campaign=968786&utm_source=habrahabr&utm_medium=rss)
-- [Grok заявил, что Илон Маск лучше почти всех людей планеты, почти всех…](https://habr.com/ru/companies/bothub/news/968784/?utm_campaign=968784&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek V3.1 стартовал лучше Gemini 3 Pro и GPT-5.1 в бенчмарке по торговле акциями](https://habr.com/ru/news/968754/?utm_campaign=968754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
