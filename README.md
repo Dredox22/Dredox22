@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» раскрыл часть основных характеристик антропоморфного робота собственной разработки](https://habr.com/ru/news/968920/?utm_campaign=968920&utm_source=habrahabr&utm_medium=rss)
 - [Википедия рассказала, как распознать текст, сгенерированный ИИ](https://habr.com/ru/companies/bothub/news/968880/?utm_campaign=968880&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь с помощью брутфорса взломал API авиакомпании Avelo и получил доступ к данным пассажиров](https://habr.com/ru/news/968890/?utm_campaign=968890&utm_source=habrahabr&utm_medium=rss)
 - [Google включил защиту от мошенников, но до большинства пользователей она не дошла](https://habr.com/ru/companies/bothub/news/968866/?utm_campaign=968866&utm_source=habrahabr&utm_medium=rss)
 - [Сбер выкатил GigaIDE 2025.1](https://habr.com/ru/companies/spring_aio/news/968848/?utm_campaign=968848&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман признал, что Google догоняет OpenAI, и впереди трудные времена](https://habr.com/ru/news/968842/?utm_campaign=968842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
