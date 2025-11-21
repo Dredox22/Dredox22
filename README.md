@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В рамках исследования выявлены факторы выгорания у разработчиков открытого ПО](https://habr.com/ru/news/968386/?utm_campaign=968386&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT научился выявлять эмоциональный кризис и связывать с живыми специалистами](https://habr.com/ru/companies/bothub/news/968636/?utm_campaign=968636&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления открытого проекта RustDesk 1.4.4](https://habr.com/ru/news/968252/?utm_campaign=968252&utm_source=habrahabr&utm_medium=rss)
 - [Релиз FileZilla Server 1.12](https://habr.com/ru/news/968578/?utm_campaign=968578&utm_source=habrahabr&utm_medium=rss)
 - [Yandex B2B Tech представил «Нейроюриста» — ИИ-помощника для юристов](https://habr.com/ru/news/968608/?utm_campaign=968608&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ESPectre — открытой системы обнаружения движения на основе спектрального анализа Wi-Fi](https://habr.com/ru/news/968606/?utm_campaign=968606&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 Pro помогла сделать несколько научных открытий](https://habr.com/ru/news/968604/?utm_campaign=968604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
