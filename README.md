@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google включил защиту от мошенников, но до большинства пользователей она не дошла](https://habr.com/ru/companies/bothub/news/968866/?utm_campaign=968866&utm_source=habrahabr&utm_medium=rss)
+- [Сбер выкатил GigaIDE 2025.1](https://habr.com/ru/companies/spring_aio/news/968848/?utm_campaign=968848&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман признал, что Google догоняет OpenAI, и впереди трудные времена](https://habr.com/ru/news/968842/?utm_campaign=968842&utm_source=habrahabr&utm_medium=rss)
 - [Квантовые физики уменьшили и «освободили от цензуры» DeepSeek R1](https://habr.com/ru/companies/otus/news/968770/?utm_campaign=968770&utm_source=habrahabr&utm_medium=rss)
 - [Max стал доступен пользователям на мобильной ОС «Аврора»](https://habr.com/ru/news/968824/?utm_campaign=968824&utm_source=habrahabr&utm_medium=rss)
-- [В сервисе «Яндекс Такси» появился ИИ-агент службы поддержки](https://habr.com/ru/news/968794/?utm_campaign=968794&utm_source=habrahabr&utm_medium=rss)
-- [Apple объявила финалистов премии App Store Awards 2025](https://habr.com/ru/news/968792/?utm_campaign=968792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
