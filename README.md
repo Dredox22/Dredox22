@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Уволенный подрядчик признался в саботаже против работодателя с убытком почти в $1 млн](https://habr.com/ru/news/968672/?utm_campaign=968672&utm_source=habrahabr&utm_medium=rss)
+- [«Архив Интернета» уже более суток не работает без объяснения причин](https://habr.com/ru/news/968664/?utm_campaign=968664&utm_source=habrahabr&utm_medium=rss)
 - [В Pornhub призвали компании проверять возраст пользователей на уровне операционных систем](https://habr.com/ru/news/968658/?utm_campaign=968658&utm_source=habrahabr&utm_medium=rss)
 - [Атаки растут, а защита падает: исследование DDoS-Guard и «ОБИТ»](https://habr.com/ru/companies/ddosguard/news/968526/?utm_campaign=968526&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft открыла исходный код текстовых игр Zork I, II и III под лицензией MIT](https://habr.com/ru/news/968640/?utm_campaign=968640&utm_source=habrahabr&utm_medium=rss)
-- [В рамках исследования выявлены факторы выгорания у разработчиков открытого ПО](https://habr.com/ru/news/968386/?utm_campaign=968386&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT научился выявлять эмоциональный кризис и связывать с живыми специалистами](https://habr.com/ru/companies/bothub/news/968636/?utm_campaign=968636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
