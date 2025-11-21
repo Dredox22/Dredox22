@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сервисе «Яндекс Такси» появился ИИ-агент службы поддержки](https://habr.com/ru/news/968794/?utm_campaign=968794&utm_source=habrahabr&utm_medium=rss)
+- [Apple объявила финалистов премии App Store Awards 2025](https://habr.com/ru/news/968792/?utm_campaign=968792&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на митап «Шардирование высоконагруженных платформ»](https://habr.com/ru/companies/1cupis/news/968786/?utm_campaign=968786&utm_source=habrahabr&utm_medium=rss)
+- [Grok заявил, что Илон Маск лучше почти всех людей планеты, почти всех…](https://habr.com/ru/companies/bothub/news/968784/?utm_campaign=968784&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek V3.1 стартовал лучше Gemini 3 Pro и GPT-5.1 в бенчмарке по торговле акциями](https://habr.com/ru/news/968754/?utm_campaign=968754&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Spring Boot 4](https://habr.com/ru/companies/spring_aio/news/968744/?utm_campaign=968744&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила функцию копипасты на базе локального ИИ](https://habr.com/ru/news/968722/?utm_campaign=968722&utm_source=habrahabr&utm_medium=rss)
-- [Как завершился Турнир по программированию в Берлоге](https://habr.com/ru/news/968734/?utm_campaign=968734&utm_source=habrahabr&utm_medium=rss)
-- [Spring 7 уже здесь — а JetBrains заранее показывает, как IntelliJ IDEA 2025.3 его поддержит](https://habr.com/ru/companies/haulmont/news/968486/?utm_campaign=968486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
