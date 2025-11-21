@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Django исполнилось 20 лет: главное о пути фреймворка и его экосистемы](https://habr.com/ru/news/968936/?utm_campaign=968936&utm_source=habrahabr&utm_medium=rss)
+- [В Dr.Web обновили Dr.Web CureIt! проверкой файлов и папок, внесённых в исключения и начали делать эту утилиту для Linux](https://habr.com/ru/news/968932/?utm_campaign=968932&utm_source=habrahabr&utm_medium=rss)
+- [Роботы Figure 02 заменили людей на заводе BMW и выявили свои слабые места](https://habr.com/ru/companies/bothub/news/968870/?utm_campaign=968870&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» раскрыл часть основных характеристик антропоморфного робота собственной разработки](https://habr.com/ru/news/968920/?utm_campaign=968920&utm_source=habrahabr&utm_medium=rss)
 - [Википедия рассказала, как распознать текст, сгенерированный ИИ](https://habr.com/ru/companies/bothub/news/968880/?utm_campaign=968880&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь с помощью брутфорса взломал API авиакомпании Avelo и получил доступ к данным пассажиров](https://habr.com/ru/news/968890/?utm_campaign=968890&utm_source=habrahabr&utm_medium=rss)
-- [Google включил защиту от мошенников, но до большинства пользователей она не дошла](https://habr.com/ru/companies/bothub/news/968866/?utm_campaign=968866&utm_source=habrahabr&utm_medium=rss)
-- [Сбер выкатил GigaIDE 2025.1](https://habr.com/ru/companies/spring_aio/news/968848/?utm_campaign=968848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
