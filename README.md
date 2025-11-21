@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Pornhub призвали компании проверять возраст пользователей на уровне операционных систем](https://habr.com/ru/news/968658/?utm_campaign=968658&utm_source=habrahabr&utm_medium=rss)
+- [Атаки растут, а защита падает: исследование DDoS-Guard и «ОБИТ»](https://habr.com/ru/companies/ddosguard/news/968526/?utm_campaign=968526&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft открыла исходный код текстовых игр Zork I, II и III под лицензией MIT](https://habr.com/ru/news/968640/?utm_campaign=968640&utm_source=habrahabr&utm_medium=rss)
 - [В рамках исследования выявлены факторы выгорания у разработчиков открытого ПО](https://habr.com/ru/news/968386/?utm_campaign=968386&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT научился выявлять эмоциональный кризис и связывать с живыми специалистами](https://habr.com/ru/companies/bothub/news/968636/?utm_campaign=968636&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого проекта RustDesk 1.4.4](https://habr.com/ru/news/968252/?utm_campaign=968252&utm_source=habrahabr&utm_medium=rss)
-- [Релиз FileZilla Server 1.12](https://habr.com/ru/news/968578/?utm_campaign=968578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
