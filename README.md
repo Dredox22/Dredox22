@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek V3.1 стартовал лучше Gemini 3 Pro и GPT-5.1 в бенчмарке по торговле акциями](https://habr.com/ru/news/968754/?utm_campaign=968754&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Spring Boot 4](https://habr.com/ru/companies/spring_aio/news/968744/?utm_campaign=968744&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила функцию копипасты на базе локального ИИ](https://habr.com/ru/news/968722/?utm_campaign=968722&utm_source=habrahabr&utm_medium=rss)
 - [Как завершился Турнир по программированию в Берлоге](https://habr.com/ru/news/968734/?utm_campaign=968734&utm_source=habrahabr&utm_medium=rss)
 - [Spring 7 уже здесь — а JetBrains заранее показывает, как IntelliJ IDEA 2025.3 его поддержит](https://habr.com/ru/companies/haulmont/news/968486/?utm_campaign=968486&utm_source=habrahabr&utm_medium=rss)
-- [«Нанософт» публикует открытый BIM-стандарт для строительного рынка](https://habr.com/ru/companies/nanosoft/news/968724/?utm_campaign=968724&utm_source=habrahabr&utm_medium=rss)
-- [Google Nano Banana Pro: где попробовать бесплатно и что нового](https://habr.com/ru/news/968712/?utm_campaign=968712&utm_source=habrahabr&utm_medium=rss)
-- [Агентский браузер Comet от Perplexity вышел для Android](https://habr.com/ru/news/968708/?utm_campaign=968708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
