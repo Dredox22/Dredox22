@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Японцу грозит суд за копирование защищённых копирайтом картинок с помощью ИИ](https://habr.com/ru/news/969134/?utm_campaign=969134&utm_source=habrahabr&utm_medium=rss)
+- [Криптографы из IACR отменили результаты выборов руководства после потери ключа дешифрования](https://habr.com/ru/news/969126/?utm_campaign=969126&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпати объяснил, почему LLM — это другой тип разума, а не недочеловек](https://habr.com/ru/news/969124/?utm_campaign=969124&utm_source=habrahabr&utm_medium=rss)
+- [«Почта России» совместно с ГК «Солар» заблокировала 250 фишинговых сайтов и ботов, посвящённым почтовой компании](https://habr.com/ru/news/969120/?utm_campaign=969120&utm_source=habrahabr&utm_medium=rss)
 - [По заявлению «Яндекса», его ИИ‑система ежемесячно справляется с сотнями DDoS‑атак](https://habr.com/ru/news/969118/?utm_campaign=969118&utm_source=habrahabr&utm_medium=rss)
-- [На Figma подали в суд за обучение ИИ на пользовательских макетах](https://habr.com/ru/news/969102/?utm_campaign=969102&utm_source=habrahabr&utm_medium=rss)
-- [Google раскрывает секрет вечной памяти ИИ и обещает, что модели больше ничего не забудут](https://habr.com/ru/companies/bothub/news/969068/?utm_campaign=969068&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT начал требовать паспорт у пользователей — безопасность или слежка?](https://habr.com/ru/companies/bothub/news/969072/?utm_campaign=969072&utm_source=habrahabr&utm_medium=rss)
-- [В «Блокнот» теперь можно добавлять таблицы](https://habr.com/ru/news/969070/?utm_campaign=969070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
