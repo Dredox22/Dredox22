@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI объявила о закрытии API GPT-4o в феврале 2026](https://habr.com/ru/companies/bothub/news/969058/?utm_campaign=969058&utm_source=habrahabr&utm_medium=rss)
 - [Zorin OS 18 скачали более 1 млн раз за месяц с момента выпуска, разработчики добавили обновление Zorin OS 17 → 18](https://habr.com/ru/news/969054/?utm_campaign=969054&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой системы для глубокого инспектирования сетевых пакетов nDPI 5.0](https://habr.com/ru/news/968980/?utm_campaign=968980&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Wireshark 4.6.1](https://habr.com/ru/news/968656/?utm_campaign=968656&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT, Grok и Claude оправдали подростка в учебном суде. Реальный судья вынес обвинительный приговор](https://habr.com/ru/news/969032/?utm_campaign=969032&utm_source=habrahabr&utm_medium=rss)
-- [Проверьте почту: Gmail по умолчанию использует электронные письма для улучшения ИИ-функций](https://habr.com/ru/news/969016/?utm_campaign=969016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
