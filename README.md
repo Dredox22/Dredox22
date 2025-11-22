@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google раскрывает секрет вечной памяти ИИ и обещает, что модели больше ничего не забудут](https://habr.com/ru/companies/bothub/news/969068/?utm_campaign=969068&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT начал требовать паспорт у пользователей — безопасность или слежка?](https://habr.com/ru/companies/bothub/news/969072/?utm_campaign=969072&utm_source=habrahabr&utm_medium=rss)
 - [В «Блокнот» теперь можно добавлять таблицы](https://habr.com/ru/news/969070/?utm_campaign=969070&utm_source=habrahabr&utm_medium=rss)
 - [Обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 8.15](https://habr.com/ru/news/968908/?utm_campaign=968908&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike уволила инсайдера, который передавал корпоративную информацию хакерам](https://habr.com/ru/news/969066/?utm_campaign=969066&utm_source=habrahabr&utm_medium=rss)
-- [Google опровергла сообщения об использовании в Gmail пользовательских писем для обучения ИИ](https://habr.com/ru/news/969060/?utm_campaign=969060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
