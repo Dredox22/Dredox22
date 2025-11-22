@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA раскрыла секрет ускорения биологических трансформеров — забудьте про медленные GPU](https://habr.com/ru/companies/bothub/news/969170/?utm_campaign=969170&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск дистрибутива для организации работы виртуальных серверов Proxmox VE 9.1](https://habr.com/ru/news/968588/?utm_campaign=968588&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из НИТУ МИСИС, МПГУ, ВШЭ и РКЦ разработали новый детектор из молибдена и рения для квантовых вычислений](https://habr.com/ru/news/969142/?utm_campaign=969142&utm_source=habrahabr&utm_medium=rss)
 - [Nano Banana Pro добавили в LMArena, теперь её можно протестировать бесплатно](https://habr.com/ru/companies/bothub/news/969140/?utm_campaign=969140&utm_source=habrahabr&utm_medium=rss)
 - [Японцу грозит суд за копирование защищённых копирайтом картинок с помощью ИИ](https://habr.com/ru/news/969134/?utm_campaign=969134&utm_source=habrahabr&utm_medium=rss)
-- [Криптографы из IACR отменили результаты выборов руководства после потери ключа дешифрования](https://habr.com/ru/news/969126/?utm_campaign=969126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
