@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT начал требовать паспорт у пользователей — безопасность или слежка?](https://habr.com/ru/companies/bothub/news/969072/?utm_campaign=969072&utm_source=habrahabr&utm_medium=rss)
+- [В «Блокнот» теперь можно добавлять таблицы](https://habr.com/ru/news/969070/?utm_campaign=969070&utm_source=habrahabr&utm_medium=rss)
 - [Обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 8.15](https://habr.com/ru/news/968908/?utm_campaign=968908&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike уволила инсайдера, который передавал корпоративную информацию хакерам](https://habr.com/ru/news/969066/?utm_campaign=969066&utm_source=habrahabr&utm_medium=rss)
 - [Google опровергла сообщения об использовании в Gmail пользовательских писем для обучения ИИ](https://habr.com/ru/news/969060/?utm_campaign=969060&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI объявила о закрытии API GPT-4o в феврале 2026](https://habr.com/ru/companies/bothub/news/969058/?utm_campaign=969058&utm_source=habrahabr&utm_medium=rss)
-- [Zorin OS 18 скачали более 1 млн раз за месяц с момента выпуска, разработчики добавили обновление Zorin OS 17 → 18](https://habr.com/ru/news/969054/?utm_campaign=969054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
