@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Wireshark 4.6.1](https://habr.com/ru/news/968656/?utm_campaign=968656&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT, Grok и Claude оправдали подростка в учебном суде. Реальный судья вынес обвинительный приговор](https://habr.com/ru/news/969032/?utm_campaign=969032&utm_source=habrahabr&utm_medium=rss)
 - [Проверьте почту: Gmail по умолчанию использует электронные письма для улучшения ИИ-функций](https://habr.com/ru/news/969016/?utm_campaign=969016&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Pro назвали лучшим ИИ для сложной математики](https://habr.com/ru/news/969012/?utm_campaign=969012&utm_source=habrahabr&utm_medium=rss)
 - [Tencent открыла модель, которая делает создание видео доступным каждому](https://habr.com/ru/companies/bothub/news/969008/?utm_campaign=969008&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Образование» проведёт Всероссийский математический диктант совместно с ведущими вузами](https://habr.com/ru/news/969002/?utm_campaign=969002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
