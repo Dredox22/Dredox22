@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic показала, как ИИ учится обманывать и саботировать исследования безопасности](https://habr.com/ru/news/969218/?utm_campaign=969218&utm_source=habrahabr&utm_medium=rss)
 - [У Kaggle теперь есть собственный MCP-сервер](https://habr.com/ru/news/969208/?utm_campaign=969208&utm_source=habrahabr&utm_medium=rss)
 - [X живее всех живых: Threads и Bluesky не смогли переманить пользователей](https://habr.com/ru/companies/bothub/news/969196/?utm_campaign=969196&utm_source=habrahabr&utm_medium=rss)
 - [Авторы исследования AI 2027 отложили возможный ИИ-апокалипсис на 3 года](https://habr.com/ru/news/969188/?utm_campaign=969188&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-система Locus превзошла экспертов в научных исследованиях](https://habr.com/ru/companies/bothub/news/969182/?utm_campaign=969182&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA раскрыла секрет ускорения биологических трансформеров — забудьте про медленные GPU](https://habr.com/ru/companies/bothub/news/969170/?utm_campaign=969170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
