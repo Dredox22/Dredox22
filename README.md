@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект iDescriptor, который обеспечивает управление iPhone в Linux, Windows и macOS](https://habr.com/ru/news/969402/?utm_campaign=969402&utm_source=habrahabr&utm_medium=rss)
+- [LMSYS запускает Miles и обещает ускорение RL на 25 процентов. Конец эпохе медленных MoE?](https://habr.com/ru/companies/bothub/news/969390/?utm_campaign=969390&utm_source=habrahabr&utm_medium=rss)
 - [Чтобы взломать нейросеть, достаточно написать запрос стихами — исследование](https://habr.com/ru/news/969340/?utm_campaign=969340&utm_source=habrahabr&utm_medium=rss)
 - [ИИ без галлюцинаций: как Lean 4 заставляет модели доказывать правду](https://habr.com/ru/companies/bothub/news/969334/?utm_campaign=969334&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила Xbox FSE для сторонних консолей и Windows 11](https://habr.com/ru/news/969320/?utm_campaign=969320&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft работает над проектом Teammates с виртуальными ИИ-помощниками для геймеров](https://habr.com/ru/news/969302/?utm_campaign=969302&utm_source=habrahabr&utm_medium=rss)
-- [Meta* превращает энергию в товар: новый бизнес ради масштабных ИИ‑центров](https://habr.com/ru/companies/bothub/news/969288/?utm_campaign=969288&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
