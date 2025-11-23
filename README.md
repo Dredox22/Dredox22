@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РКН начал тестировать блокировку протоколов XRay/VLESS](https://habr.com/ru/news/969436/?utm_campaign=969436&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Подрядчиков госорганов обяжут соблюдать требования по защите информации при работе с ГИС»](https://habr.com/ru/news/969434/?utm_campaign=969434&utm_source=habrahabr&utm_medium=rss)
+- [Детекция дипфейков: от теории к практике](https://habr.com/ru/companies/mws/news/969422/?utm_campaign=969422&utm_source=habrahabr&utm_medium=rss)
+- [Каждый четвертый россиянин использует нейросети минимум раз в месяц](https://habr.com/ru/companies/bothub/news/969394/?utm_campaign=969394&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект iDescriptor, который обеспечивает управление iPhone в Linux, Windows и macOS](https://habr.com/ru/news/969402/?utm_campaign=969402&utm_source=habrahabr&utm_medium=rss)
-- [LMSYS запускает Miles и обещает ускорение RL на 25 процентов. Конец эпохе медленных MoE?](https://habr.com/ru/companies/bothub/news/969390/?utm_campaign=969390&utm_source=habrahabr&utm_medium=rss)
-- [Чтобы взломать нейросеть, достаточно написать запрос стихами — исследование](https://habr.com/ru/news/969340/?utm_campaign=969340&utm_source=habrahabr&utm_medium=rss)
-- [ИИ без галлюцинаций: как Lean 4 заставляет модели доказывать правду](https://habr.com/ru/companies/bothub/news/969334/?utm_campaign=969334&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила Xbox FSE для сторонних консолей и Windows 11](https://habr.com/ru/news/969320/?utm_campaign=969320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
