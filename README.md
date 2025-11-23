@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Росатоме» разработан умный компактный шлюз для экомониторинга](https://habr.com/ru/news/969486/?utm_campaign=969486&utm_source=habrahabr&utm_medium=rss)
+- [Бета-версия Raycast вышла для Windows](https://habr.com/ru/news/969484/?utm_campaign=969484&utm_source=habrahabr&utm_medium=rss)
+- [Пузырь или суперцикл? Reuters сравнило ИИ-ралли с кризисом на рынке доткомов](https://habr.com/ru/news/969482/?utm_campaign=969482&utm_source=habrahabr&utm_medium=rss)
 - [Крупнейший кремниевый завод России приостановит производство в 2026 году](https://habr.com/ru/news/969456/?utm_campaign=969456&utm_source=habrahabr&utm_medium=rss)
 - [РКН начал тестировать блокировку протоколов XRay/VLESS](https://habr.com/ru/news/969436/?utm_campaign=969436&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Подрядчиков госорганов обяжут соблюдать требования по защите информации при работе с ГИС»](https://habr.com/ru/news/969434/?utm_campaign=969434&utm_source=habrahabr&utm_medium=rss)
-- [Детекция дипфейков: от теории к практике](https://habr.com/ru/companies/mws/news/969422/?utm_campaign=969422&utm_source=habrahabr&utm_medium=rss)
-- [Каждый четвертый россиянин использует нейросети минимум раз в месяц](https://habr.com/ru/companies/bothub/news/969394/?utm_campaign=969394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
