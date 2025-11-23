@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft работает над проектом Teammates с виртуальными ИИ-помощниками для геймеров](https://habr.com/ru/news/969302/?utm_campaign=969302&utm_source=habrahabr&utm_medium=rss)
+- [Meta* превращает энергию в товар: новый бизнес ради масштабных ИИ‑центров](https://habr.com/ru/companies/bothub/news/969288/?utm_campaign=969288&utm_source=habrahabr&utm_medium=rss)
+- [Google опубликовала советы по промптингу Nano Banana 2](https://habr.com/ru/news/969294/?utm_campaign=969294&utm_source=habrahabr&utm_medium=rss)
 - [Avast сделал общедоступной ИИ-защиту от мошенничества](https://habr.com/ru/news/969284/?utm_campaign=969284&utm_source=habrahabr&utm_medium=rss)
 - [Белый дом сдаёт позиции? США переходят к десяткам разных законов об ИИ](https://habr.com/ru/companies/bothub/news/969286/?utm_campaign=969286&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати собрал «совет ИИ»: GPT-5.1, Gemini 3 Pro, Claude и Grok спорят за лучший ответ](https://habr.com/ru/news/969280/?utm_campaign=969280&utm_source=habrahabr&utm_medium=rss)
-- [Washington Post: разговоры с ChatGPT показывает наличие эхо-камер и опасных медрекомендаций](https://habr.com/ru/news/969272/?utm_campaign=969272&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи ноутбука Lenovo Legion Pro 7 &lpar;16IAX10H&rpar; выплатили награду $2 тыс. за устранение багов с динамиками в Linux](https://habr.com/ru/news/969250/?utm_campaign=969250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
