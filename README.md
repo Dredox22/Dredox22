@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [От безработицы до войн: «крестный отец ИИ» Джеффри Хинтон считает, что мир не готов к ИИ](https://habr.com/ru/news/969644/?utm_campaign=969644&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic обнаружил, что попытки контролировать ИИ приводят к ещё большему обману](https://habr.com/ru/companies/bothub/news/969640/?utm_campaign=969640&utm_source=habrahabr&utm_medium=rss)
+- [Google начала тестировать рекламу в режиме AI Mode](https://habr.com/ru/news/969620/?utm_campaign=969620&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Memtest86+ v8.00](https://habr.com/ru/news/969628/?utm_campaign=969628&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Mux — open source-инструмент, где над кодом работают несколько разных ИИ](https://habr.com/ru/news/969622/?utm_campaign=969622&utm_source=habrahabr&utm_medium=rss)
-- [Игроки в Roblox переходят на азбуку Морзе для обхода грядущих ограничений в чатах](https://habr.com/ru/news/969602/?utm_campaign=969602&utm_source=habrahabr&utm_medium=rss)
-- [Самый SOC: UserGate представил методику поиска и адаптации специалистов на SOC Forum 2025](https://habr.com/ru/companies/usergate/news/969596/?utm_campaign=969596&utm_source=habrahabr&utm_medium=rss)
-- [Марк Гурман: в iOS 27 не будет больших нововведений — Apple сосредоточится на отладке и стабильности](https://habr.com/ru/news/969584/?utm_campaign=969584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
