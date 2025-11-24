@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Проводник» в Windows 11 станет открываться быстрее за счёт загрузки в фоновом режиме](https://habr.com/ru/news/969634/?utm_campaign=969634&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик собрал карманный ридер перфолент со скоростью чтения ~50 байт/с](https://habr.com/ru/news/969854/?utm_campaign=969854&utm_source=habrahabr&utm_medium=rss)
 - [Starlink, берегись: Amazon запускает свою первую сверхскоростную спутниковую сеть](https://habr.com/ru/companies/bothub/news/969846/?utm_campaign=969846&utm_source=habrahabr&utm_medium=rss)
 - [Экс-сотрудник MrBeast запускает ИИ, который создаёт вирусные видео](https://habr.com/ru/companies/bothub/news/969842/?utm_campaign=969842&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг РФ запустит эксперимент по созданию центра кибербезопасности транспортных средств](https://habr.com/ru/news/969838/?utm_campaign=969838&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Raspberry Pi Imager 2.0 — обновлённый инструмент записи образов для одноплатников RPi](https://habr.com/ru/news/969824/?utm_campaign=969824&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Элемент» планирует создать центр кремниевой фотоники к 2027 году](https://habr.com/ru/news/969818/?utm_campaign=969818&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
