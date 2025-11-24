@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В состав GCC фронтенда одобрено включение для языка Algol 68](https://habr.com/ru/news/969392/?utm_campaign=969392&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление СУБД MariaDB Server 12.1](https://habr.com/ru/news/969298/?utm_campaign=969298&utm_source=habrahabr&utm_medium=rss)
 - [В «Росатоме» разработан умный компактный шлюз для экомониторинга](https://habr.com/ru/news/969486/?utm_campaign=969486&utm_source=habrahabr&utm_medium=rss)
 - [Бета-версия Raycast вышла для Windows](https://habr.com/ru/news/969484/?utm_campaign=969484&utm_source=habrahabr&utm_medium=rss)
 - [Пузырь или суперцикл? Reuters сравнило ИИ-ралли с кризисом на рынке доткомов](https://habr.com/ru/news/969482/?utm_campaign=969482&utm_source=habrahabr&utm_medium=rss)
-- [Крупнейший кремниевый завод России приостановит производство в 2026 году](https://habr.com/ru/news/969456/?utm_campaign=969456&utm_source=habrahabr&utm_medium=rss)
-- [РКН начал тестировать блокировку протоколов XRay/VLESS](https://habr.com/ru/news/969436/?utm_campaign=969436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
