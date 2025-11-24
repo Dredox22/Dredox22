@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3 Pro стал первым ИИ, достигшим уровня IQ 130](https://habr.com/ru/news/969786/?utm_campaign=969786&utm_source=habrahabr&utm_medium=rss)
+- [В НовГУ представили новую технологии охлаждения электроники при любых наклонах и тряске](https://habr.com/ru/news/969784/?utm_campaign=969784&utm_source=habrahabr&utm_medium=rss)
+- [Психическое здоровье против прибыли. Meta* узнала, что Facebook* вредит пользователям, но скрыла это](https://habr.com/ru/companies/bothub/news/969782/?utm_campaign=969782&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и GitHub представили инструмент для устранения уязвимостей с помощью ИИ](https://habr.com/ru/news/969700/?utm_campaign=969700&utm_source=habrahabr&utm_medium=rss)
 - [Интуитивно понятный современный интерфейс: как изменится дизайн отечественной ОС Аврора](https://habr.com/ru/companies/rostelecom/news/969690/?utm_campaign=969690&utm_source=habrahabr&utm_medium=rss)
-- [Master мёртв! Git 3.0 окончательно переведёт init на ветку main](https://habr.com/ru/news/969684/?utm_campaign=969684&utm_source=habrahabr&utm_medium=rss)
-- [Один агент управляет, другие делают работу: новая эпоха кооперативного обучения ИИ?](https://habr.com/ru/companies/bothub/news/969662/?utm_campaign=969662&utm_source=habrahabr&utm_medium=rss)
-- [От безработицы до войн: «крестный отец ИИ» Джеффри Хинтон считает, что мир не готов к ИИ](https://habr.com/ru/news/969644/?utm_campaign=969644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
