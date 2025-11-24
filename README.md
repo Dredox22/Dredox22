@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Claude Opus 4.5: лучший ИИ для кода втрое дешевле прежнего Opus](https://habr.com/ru/news/969872/?utm_campaign=969872&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic представили Claude Opus 4.5: лучшую в мире модель для кодинга и агентов](https://habr.com/ru/news/969870/?utm_campaign=969870&utm_source=habrahabr&utm_medium=rss)
 - [«Проводник» в Windows 11 станет открываться быстрее за счёт загрузки в фоновом режиме](https://habr.com/ru/news/969634/?utm_campaign=969634&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик собрал карманный ридер перфолент со скоростью чтения ~50 байт/с](https://habr.com/ru/news/969854/?utm_campaign=969854&utm_source=habrahabr&utm_medium=rss)
 - [Starlink, берегись: Amazon запускает свою первую сверхскоростную спутниковую сеть](https://habr.com/ru/companies/bothub/news/969846/?utm_campaign=969846&utm_source=habrahabr&utm_medium=rss)
-- [Экс-сотрудник MrBeast запускает ИИ, который создаёт вирусные видео](https://habr.com/ru/companies/bothub/news/969842/?utm_campaign=969842&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг РФ запустит эксперимент по созданию центра кибербезопасности транспортных средств](https://habr.com/ru/news/969838/?utm_campaign=969838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
