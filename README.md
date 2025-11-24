@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Марк Гурман: в iOS 27 не будет больших нововведений — Apple сосредоточится на отладке и стабильности](https://habr.com/ru/news/969584/?utm_campaign=969584&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: работа ИИ-функции Copilot в Windows сопряжена с рисками кражи данных](https://habr.com/ru/news/969566/?utm_campaign=969566&utm_source=habrahabr&utm_medium=rss)
+- [Claude Opus 4.5: на Reddit появились намёки на скорый релиз](https://habr.com/ru/news/969556/?utm_campaign=969556&utm_source=habrahabr&utm_medium=rss)
 - [Мечта о ИИ-учёных разрушена: Gemini 3 Pro и GPT‑5 провалили задачи из астрофизики](https://habr.com/ru/companies/bothub/news/969536/?utm_campaign=969536&utm_source=habrahabr&utm_medium=rss)
 - [xAI раскрыли лучшие результаты Grok 4.1 Fast и подробнее рассказали про Agent Tools API](https://habr.com/ru/news/969534/?utm_campaign=969534&utm_source=habrahabr&utm_medium=rss)
-- [Опубликован видеодоклад на тему истории создания и комплектующих робота Грина от Центра Робототехники «Сбера»](https://habr.com/ru/news/969518/?utm_campaign=969518&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Bottles 60.0 — оболочки на основе Wine для запуска приложений Windows в Linux](https://habr.com/ru/news/969304/?utm_campaign=969304&utm_source=habrahabr&utm_medium=rss)
-- [В состав GCC фронтенда одобрено включение для языка Algol 68](https://habr.com/ru/news/969392/?utm_campaign=969392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
