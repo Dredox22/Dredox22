@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Starlink, берегись: Amazon запускает свою первую сверхскоростную спутниковую сеть](https://habr.com/ru/companies/bothub/news/969846/?utm_campaign=969846&utm_source=habrahabr&utm_medium=rss)
+- [Экс-сотрудник MrBeast запускает ИИ, который создаёт вирусные видео](https://habr.com/ru/companies/bothub/news/969842/?utm_campaign=969842&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг РФ запустит эксперимент по созданию центра кибербезопасности транспортных средств](https://habr.com/ru/news/969838/?utm_campaign=969838&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Raspberry Pi Imager 2.0 — обновлённый инструмент записи образов для одноплатников RPi](https://habr.com/ru/news/969824/?utm_campaign=969824&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Элемент» планирует создать центр кремниевой фотоники к 2027 году](https://habr.com/ru/news/969818/?utm_campaign=969818&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 Pro обошла 98 процентов людей по IQ. Учёные в шоке](https://habr.com/ru/companies/bothub/news/969796/?utm_campaign=969796&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 Pro стал первым ИИ, достигшим уровня IQ 130](https://habr.com/ru/news/969786/?utm_campaign=969786&utm_source=habrahabr&utm_medium=rss)
-- [В НовГУ представили новую технологии охлаждения электроники при любых наклонах и тряске](https://habr.com/ru/news/969784/?utm_campaign=969784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
