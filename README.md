@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект Bottles 60.0 — оболочки на основе Wine для запуска приложений Windows в Linux&rpar;](https://habr.com/ru/news/969304/?utm_campaign=969304&utm_source=habrahabr&utm_medium=rss)
 - [В состав GCC фронтенда одобрено включение для языка Algol 68](https://habr.com/ru/news/969392/?utm_campaign=969392&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление СУБД MariaDB Server 12.1](https://habr.com/ru/news/969298/?utm_campaign=969298&utm_source=habrahabr&utm_medium=rss)
 - [В «Росатоме» разработан умный компактный шлюз для экомониторинга](https://habr.com/ru/news/969486/?utm_campaign=969486&utm_source=habrahabr&utm_medium=rss)
 - [Бета-версия Raycast вышла для Windows](https://habr.com/ru/news/969484/?utm_campaign=969484&utm_source=habrahabr&utm_medium=rss)
-- [Пузырь или суперцикл? Reuters сравнило ИИ-ралли с кризисом на рынке доткомов](https://habr.com/ru/news/969482/?utm_campaign=969482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
