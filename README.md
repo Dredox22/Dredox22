@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3 Pro обошла 98 процентов людей по IQ. Учёные в шоке](https://habr.com/ru/companies/bothub/news/969796/?utm_campaign=969796&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Pro стал первым ИИ, достигшим уровня IQ 130](https://habr.com/ru/news/969786/?utm_campaign=969786&utm_source=habrahabr&utm_medium=rss)
 - [В НовГУ представили новую технологии охлаждения электроники при любых наклонах и тряске](https://habr.com/ru/news/969784/?utm_campaign=969784&utm_source=habrahabr&utm_medium=rss)
 - [Психическое здоровье против прибыли. Meta* узнала, что Facebook* вредит пользователям, но скрыла это](https://habr.com/ru/companies/bothub/news/969782/?utm_campaign=969782&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft и GitHub представили инструмент для устранения уязвимостей с помощью ИИ](https://habr.com/ru/news/969700/?utm_campaign=969700&utm_source=habrahabr&utm_medium=rss)
-- [Интуитивно понятный современный интерфейс: как изменится дизайн отечественной ОС Аврора](https://habr.com/ru/companies/rostelecom/news/969690/?utm_campaign=969690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
