@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft и GitHub представили инструмент для устранения уязвимостей с помощью ИИ](https://habr.com/ru/news/969700/?utm_campaign=969700&utm_source=habrahabr&utm_medium=rss)
+- [Интуитивно понятный современный интерфейс: как изменится дизайн отечественной ОС Аврора](https://habr.com/ru/companies/rostelecom/news/969690/?utm_campaign=969690&utm_source=habrahabr&utm_medium=rss)
+- [Master мёртв! Git 3.0 окончательно переведёт init на ветку main](https://habr.com/ru/news/969684/?utm_campaign=969684&utm_source=habrahabr&utm_medium=rss)
 - [Один агент управляет, другие делают работу: новая эпоха кооперативного обучения ИИ?](https://habr.com/ru/companies/bothub/news/969662/?utm_campaign=969662&utm_source=habrahabr&utm_medium=rss)
 - [От безработицы до войн: «крестный отец ИИ» Джеффри Хинтон считает, что мир не готов к ИИ](https://habr.com/ru/news/969644/?utm_campaign=969644&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic обнаружил, что попытки контролировать ИИ приводят к ещё большему обману](https://habr.com/ru/companies/bothub/news/969640/?utm_campaign=969640&utm_source=habrahabr&utm_medium=rss)
-- [Google начала тестировать рекламу в режиме AI Mode](https://habr.com/ru/news/969620/?utm_campaign=969620&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Memtest86+ v8.00](https://habr.com/ru/news/969628/?utm_campaign=969628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
