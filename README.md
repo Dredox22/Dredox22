@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.5 стал лидером в сложнейшем тесте ИИ](https://habr.com/ru/news/969920/?utm_campaign=969920&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» запустила программу веб-разработки для студентов вузов на базе ИТ-экосистемы «Лукоморье»](https://habr.com/ru/news/969918/?utm_campaign=969918&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого менеджера паролей KeePassXC 2.7.11](https://habr.com/ru/news/969524/?utm_campaign=969524&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск языка программирования Racket 9.0](https://habr.com/ru/news/969678/?utm_campaign=969678&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления открытого медиацентра Kodi 21.3](https://habr.com/ru/news/969642/?utm_campaign=969642&utm_source=habrahabr&utm_medium=rss)
-- [Snapchat в Австралии начнёт требовать подтверждение возраста](https://habr.com/ru/news/969616/?utm_campaign=969616&utm_source=habrahabr&utm_medium=rss)
-- [Как Anthropic решили три главные проблемы AI-агентов за один релиз](https://habr.com/ru/news/969898/?utm_campaign=969898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
