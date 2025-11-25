@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поддержка Scripting Languages в рамках Spring Framework](https://habr.com/ru/companies/spring_aio/news/970166/?utm_campaign=970166&utm_source=habrahabr&utm_medium=rss)
+- [К2 НейроТех добавил Langflow в ML-платформу для быстрой разработки решений на LLM](https://habr.com/ru/companies/k2tech/news/970180/?utm_campaign=970180&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовит устройство, которое изменит наше представление о смартфонах и ИИ](https://habr.com/ru/companies/bothub/news/970162/?utm_campaign=970162&utm_source=habrahabr&utm_medium=rss)
 - [DOGE распущен! Илон Маск проиграл администрации Дональда Трампа](https://habr.com/ru/companies/bothub/news/970146/?utm_campaign=970146&utm_source=habrahabr&utm_medium=rss)
 - [“Темные фабрики” и беспилотные порты: как ИИ и роботы меняют экономику Китая](https://habr.com/ru/news/970134/?utm_campaign=970134&utm_source=habrahabr&utm_medium=rss)
-- [Мессенджер Max стал доступен на Astra Linux 1.8](https://habr.com/ru/news/970120/?utm_campaign=970120&utm_source=habrahabr&utm_medium=rss)
-- [EvaProject — лучший отечественный аналог JIRA по версии портала IaaSSaaSPaaS](https://habr.com/ru/companies/evateam/news/970108/?utm_campaign=970108&utm_source=habrahabr&utm_medium=rss)
-- [ИИ взял золото на Международной олимпиаде по физике — и это была открытая модель…](https://habr.com/ru/companies/bothub/news/970062/?utm_campaign=970062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
