@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В правительстве РФ предложили отказаться от термина белый хакер и предложили аналитика по уязвимостям критических систем](https://habr.com/ru/news/969976/?utm_campaign=969976&utm_source=habrahabr&utm_medium=rss)
+- [Canonical и AMI объявили о партнёрстве для встраивания опции Ubuntu Netboot в прошивку UEFI](https://habr.com/ru/news/969974/?utm_campaign=969974&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» ИИ начал давать детальные подсказки по маршруту](https://habr.com/ru/news/969960/?utm_campaign=969960&utm_source=habrahabr&utm_medium=rss)
 - [План Google по объединению ChromeOS и Android в единую настольную операционную систему получил название Aluminium OS](https://habr.com/ru/news/969956/?utm_campaign=969956&utm_source=habrahabr&utm_medium=rss)
 - [Signal запустил защищённое резервное копирование на iOS, позволяющее восстановить сообщения случае утери iPhone](https://habr.com/ru/news/969938/?utm_campaign=969938&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.5 стал лидером в сложнейшем тесте ИИ](https://habr.com/ru/news/969920/?utm_campaign=969920&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» запустила программу веб-разработки для студентов вузов на базе ИТ-экосистемы «Лукоморье»](https://habr.com/ru/news/969918/?utm_campaign=969918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
