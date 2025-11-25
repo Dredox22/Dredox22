@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google бьёт тревогу: ИИ съедает мощности так быстро, что удваивать их нужно каждые 6 месяцев](https://habr.com/ru/companies/bothub/news/970046/?utm_campaign=970046&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI внедрит перед сезоном праздников опцию исследования покупок в ChatGPT](https://habr.com/ru/news/970032/?utm_campaign=970032&utm_source=habrahabr&utm_medium=rss)
-- [Вендорлок, внедрение, автотесты. Разберем 1С без галстуков](https://habr.com/ru/companies/lamoda/news/969886/?utm_campaign=969886&utm_source=habrahabr&utm_medium=rss)
-- [Научный стриминговый сервис Curiosity Stream занялся помощью в лицензировании ИИ](https://habr.com/ru/news/970026/?utm_campaign=970026&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива ROSA Fresh 13.1](https://habr.com/ru/news/970018/?utm_campaign=970018&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь обнаружил, что около 170 спутников Starshield посылают сигналы в неправильном направлении](https://habr.com/ru/news/970072/?utm_campaign=970072&utm_source=habrahabr&utm_medium=rss)
+- [Проект GrapheneOS сообщил о конфликте с французскими силовиками из-за отказа интегрировать бэкдор](https://habr.com/ru/news/970066/?utm_campaign=970066&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатная конференция о разработке системного ПО, ядрах Linux и open source пройдёт 3 декабря в Москве](https://habr.com/ru/companies/oleg-bunin/news/970060/?utm_campaign=970060&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Магнит» запустила открытую программу для поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/970056/?utm_campaign=970056&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Claude Opus 4.5](https://habr.com/ru/companies/otus/news/970054/?utm_campaign=970054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
