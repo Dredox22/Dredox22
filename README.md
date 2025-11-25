@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследование Anthropic шокировало: ИИ делает работу быстрее людей в 20 раз](https://habr.com/ru/companies/bothub/news/970198/?utm_campaign=970198&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запретили использовать слово «Cameo» в Sora. Как торговая марка остановила гиганта ИИ?](https://habr.com/ru/companies/bothub/news/970168/?utm_campaign=970168&utm_source=habrahabr&utm_medium=rss)
 - [Вице-президент Google по ИИ: компания должна удваивать мощности каждые полгода для соответствия спросу на ИИ](https://habr.com/ru/news/970196/?utm_campaign=970196&utm_source=habrahabr&utm_medium=rss)
 - [Поддержка Python и JavaScript в рамках Spring Framework](https://habr.com/ru/companies/spring_aio/news/970166/?utm_campaign=970166&utm_source=habrahabr&utm_medium=rss)
 - [К2 НейроТех добавил Langflow в ML-платформу для быстрой разработки решений на LLM](https://habr.com/ru/companies/k2tech/news/970180/?utm_campaign=970180&utm_source=habrahabr&utm_medium=rss)
