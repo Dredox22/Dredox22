@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск языка программирования Racket 9.0](https://habr.com/ru/news/969678/?utm_campaign=969678&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого медиацентра Kodi 21.3](https://habr.com/ru/news/969642/?utm_campaign=969642&utm_source=habrahabr&utm_medium=rss)
 - [Snapchat в Австралии начнёт требовать подтверждение возраста](https://habr.com/ru/news/969616/?utm_campaign=969616&utm_source=habrahabr&utm_medium=rss)
 - [Как Anthropic решили три главные проблемы AI-агентов за один релиз](https://habr.com/ru/news/969898/?utm_campaign=969898&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Claude Opus 4.5: лучший ИИ для кода втрое дешевле прежнего Opus](https://habr.com/ru/news/969872/?utm_campaign=969872&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic представили Claude Opus 4.5: лучшую в мире модель для кодинга и агентов](https://habr.com/ru/news/969870/?utm_campaign=969870&utm_source=habrahabr&utm_medium=rss)
-- [«Проводник» в Windows 11 станет открываться быстрее за счёт загрузки в фоновом режиме](https://habr.com/ru/news/969634/?utm_campaign=969634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
