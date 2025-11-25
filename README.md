@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Поддержка Scripting Languages в рамках Spring Framework](https://habr.com/ru/companies/spring_aio/news/970166/?utm_campaign=970166&utm_source=habrahabr&utm_medium=rss)
+- [Исследование Anthropic шокировало: ИИ делает работу быстрее людей в 20 раз](https://habr.com/ru/companies/bothub/news/970198/?utm_campaign=970198&utm_source=habrahabr&utm_medium=rss)
+- [Вице-президент Google по ИИ: компания должна удваивать мощности каждые полгода для соответствия спросу на ИИ](https://habr.com/ru/news/970196/?utm_campaign=970196&utm_source=habrahabr&utm_medium=rss)
+- [Поддержка Python и JavaScript в рамках Spring Framework](https://habr.com/ru/companies/spring_aio/news/970166/?utm_campaign=970166&utm_source=habrahabr&utm_medium=rss)
 - [К2 НейроТех добавил Langflow в ML-платформу для быстрой разработки решений на LLM](https://habr.com/ru/companies/k2tech/news/970180/?utm_campaign=970180&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI готовит устройство, которое изменит наше представление о смартфонах и ИИ](https://habr.com/ru/companies/bothub/news/970162/?utm_campaign=970162&utm_source=habrahabr&utm_medium=rss)
-- [DOGE распущен! Илон Маск проиграл администрации Дональда Трампа](https://habr.com/ru/companies/bothub/news/970146/?utm_campaign=970146&utm_source=habrahabr&utm_medium=rss)
-- [“Темные фабрики” и беспилотные порты: как ИИ и роботы меняют экономику Китая](https://habr.com/ru/news/970134/?utm_campaign=970134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
