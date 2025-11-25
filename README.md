@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [UserGate стал корпоративным центром ГосСОПКА](https://habr.com/ru/companies/usergate/news/970014/?utm_campaign=970014&utm_source=habrahabr&utm_medium=rss)
-- [The Genesis Mission: власти США хотят превратить ИИ в главный научный инструмент](https://habr.com/ru/news/970008/?utm_campaign=970008&utm_source=habrahabr&utm_medium=rss)
-- [В компании ДОК освоена 3D-печать антенн в миллиметровом диапазоне: для НИОКР, малых партий и быстрых экспериментов](https://habr.com/ru/companies/meta-catalog/news/970002/?utm_campaign=970002&utm_source=habrahabr&utm_medium=rss)
-- [В правительстве РФ предложили отказаться от термина «белый хакер» в пользу «аналитика по уязвимостям критических систем»](https://habr.com/ru/news/969976/?utm_campaign=969976&utm_source=habrahabr&utm_medium=rss)
-- [Canonical и AMI объявили о партнёрстве для встраивания опции Ubuntu Netboot в прошивку UEFI](https://habr.com/ru/news/969974/?utm_campaign=969974&utm_source=habrahabr&utm_medium=rss)
+- [Google бьёт тревогу: ИИ съедает мощности так быстро, что удваивать их нужно каждые 6 месяцев](https://habr.com/ru/companies/bothub/news/970046/?utm_campaign=970046&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI внедрит перед сезоном праздников опцию исследования покупок в ChatGPT](https://habr.com/ru/news/970032/?utm_campaign=970032&utm_source=habrahabr&utm_medium=rss)
+- [Вендорлок, внедрение, автотесты. Разберем 1С без галстуков](https://habr.com/ru/companies/lamoda/news/969886/?utm_campaign=969886&utm_source=habrahabr&utm_medium=rss)
+- [Научный стриминговый сервис Curiosity Stream занялся помощью в лицензировании ИИ](https://habr.com/ru/news/970026/?utm_campaign=970026&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива ROSA Fresh 13.1](https://habr.com/ru/news/970018/?utm_campaign=970018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
