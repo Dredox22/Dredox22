@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В правительстве РФ предложили отказаться от термина белый хакер и предложили аналитика по уязвимостям критических систем](https://habr.com/ru/news/969976/?utm_campaign=969976&utm_source=habrahabr&utm_medium=rss)
+- [UserGate стал корпоративным центром ГосСОПКА](https://habr.com/ru/companies/usergate/news/970014/?utm_campaign=970014&utm_source=habrahabr&utm_medium=rss)
+- [The Genesis Mission: власти США хотят превратить ИИ в главный научный инструмент](https://habr.com/ru/news/970008/?utm_campaign=970008&utm_source=habrahabr&utm_medium=rss)
+- [В компании ДОК освоена 3D-печать антенн в миллиметровом диапазоне: для НИОКР, малых партий и быстрых экспериментов](https://habr.com/ru/companies/meta-catalog/news/970002/?utm_campaign=970002&utm_source=habrahabr&utm_medium=rss)
+- [В правительстве РФ предложили отказаться от термина «белый хакер» в пользу «аналитика по уязвимостям критических систем»](https://habr.com/ru/news/969976/?utm_campaign=969976&utm_source=habrahabr&utm_medium=rss)
 - [Canonical и AMI объявили о партнёрстве для встраивания опции Ubuntu Netboot в прошивку UEFI](https://habr.com/ru/news/969974/?utm_campaign=969974&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» ИИ начал давать детальные подсказки по маршруту](https://habr.com/ru/news/969960/?utm_campaign=969960&utm_source=habrahabr&utm_medium=rss)
-- [План Google по объединению ChromeOS и Android в единую настольную операционную систему получил название Aluminium OS](https://habr.com/ru/news/969956/?utm_campaign=969956&utm_source=habrahabr&utm_medium=rss)
-- [Signal запустил защищённое резервное копирование на iOS, позволяющее восстановить сообщения случае утери iPhone](https://habr.com/ru/news/969938/?utm_campaign=969938&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
