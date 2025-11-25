@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DOGE распущен! Илон Маск проиграл администрации Дональда Трампа](https://habr.com/ru/companies/bothub/news/970146/?utm_campaign=970146&utm_source=habrahabr&utm_medium=rss)
+- [“Темные фабрики” и беспилотные порты: как ИИ и роботы меняют экономику Китая](https://habr.com/ru/news/970134/?utm_campaign=970134&utm_source=habrahabr&utm_medium=rss)
 - [Мессенджер Max стал доступен на Astra Linux 1.8](https://habr.com/ru/news/970120/?utm_campaign=970120&utm_source=habrahabr&utm_medium=rss)
 - [EvaProject — лучший отечественный аналог JIRA по версии портала IaaSSaaSPaaS](https://habr.com/ru/companies/evateam/news/970108/?utm_campaign=970108&utm_source=habrahabr&utm_medium=rss)
 - [ИИ взял золото на Международной олимпиаде по физике — и это была открытая модель…](https://habr.com/ru/companies/bothub/news/970062/?utm_campaign=970062&utm_source=habrahabr&utm_medium=rss)
-- [27 ноября — вебинар «Три столпа умной DLP-системы: как сохранить репутацию, деньги и нервы»](https://habr.com/ru/companies/infowatch/news/970088/?utm_campaign=970088&utm_source=habrahabr&utm_medium=rss)
-- [Adobe предложила бесплатную подписку на Photoshop Web в браузере на год](https://habr.com/ru/news/970076/?utm_campaign=970076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
