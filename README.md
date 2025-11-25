@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндекс Картах» ИИ начал давать детальные подсказки по маршруту](https://habr.com/ru/news/969960/?utm_campaign=969960&utm_source=habrahabr&utm_medium=rss)
+- [План Google по объединению ChromeOS и Android в единую настольную операционную систему получил название Aluminium OS](https://habr.com/ru/news/969956/?utm_campaign=969956&utm_source=habrahabr&utm_medium=rss)
 - [Signal запустил защищённое резервное копирование на iOS, позволяющее восстановить сообщения случае утери iPhone](https://habr.com/ru/news/969938/?utm_campaign=969938&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.5 стал лидером в сложнейшем тесте ИИ](https://habr.com/ru/news/969920/?utm_campaign=969920&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» запустила программу веб-разработки для студентов вузов на базе ИТ-экосистемы «Лукоморье»](https://habr.com/ru/news/969918/?utm_campaign=969918&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого менеджера паролей KeePassXC 2.7.11](https://habr.com/ru/news/969524/?utm_campaign=969524&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск языка программирования Racket 9.0](https://habr.com/ru/news/969678/?utm_campaign=969678&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
