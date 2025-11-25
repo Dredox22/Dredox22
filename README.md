@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователь обнаружил, что около 170 спутников Starshield посылают сигналы в неправильном направлении](https://habr.com/ru/news/970072/?utm_campaign=970072&utm_source=habrahabr&utm_medium=rss)
-- [Проект GrapheneOS сообщил о конфликте с французскими силовиками из-за отказа интегрировать бэкдор](https://habr.com/ru/news/970066/?utm_campaign=970066&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатная конференция о разработке системного ПО, ядрах Linux и open source пройдёт 3 декабря в Москве](https://habr.com/ru/companies/oleg-bunin/news/970060/?utm_campaign=970060&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Магнит» запустила открытую программу для поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/970056/?utm_campaign=970056&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Claude Opus 4.5](https://habr.com/ru/companies/otus/news/970054/?utm_campaign=970054&utm_source=habrahabr&utm_medium=rss)
+- [Мессенджер Max стал доступен на Astra Linux 1.8](https://habr.com/ru/news/970120/?utm_campaign=970120&utm_source=habrahabr&utm_medium=rss)
+- [EvaProject — лучший отечественный аналог JIRA по версии портала IaaSSaaSPaaS](https://habr.com/ru/companies/evateam/news/970108/?utm_campaign=970108&utm_source=habrahabr&utm_medium=rss)
+- [ИИ взял золото на Международной олимпиаде по физике — и это была открытая модель…](https://habr.com/ru/companies/bothub/news/970062/?utm_campaign=970062&utm_source=habrahabr&utm_medium=rss)
+- [27 ноября — вебинар «Три столпа умной DLP-системы: как сохранить репутацию, деньги и нервы»](https://habr.com/ru/companies/infowatch/news/970088/?utm_campaign=970088&utm_source=habrahabr&utm_medium=rss)
+- [Adobe предложила бесплатную подписку на Photoshop Web в браузере на год](https://habr.com/ru/news/970076/?utm_campaign=970076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
