@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик представил AirPosture — приложение, которое следит за осанкой с помощью AirPods](https://habr.com/ru/news/970680/?utm_campaign=970680&utm_source=habrahabr&utm_medium=rss)
 - [Код умных часов Pebble теперь полностью открыт: разработчики опубликовали недостающие модули](https://habr.com/ru/news/970676/?utm_campaign=970676&utm_source=habrahabr&utm_medium=rss)
 - [Общее в голограммах, фракталах и организмах](https://habr.com/ru/news/970664/?utm_campaign=970664&utm_source=habrahabr&utm_medium=rss)
 - [Раскрыты политические взгляды ИИ: GPT-5 ближе к центру, Grok-4 справа](https://habr.com/ru/news/970666/?utm_campaign=970666&utm_source=habrahabr&utm_medium=rss)
 - [xAI сбегает от турбин: Маск строит солярную ферму для питания ИИ-суперкластера](https://habr.com/ru/companies/bothub/news/970638/?utm_campaign=970638&utm_source=habrahabr&utm_medium=rss)
-- [Данные кончились, что дальше? Как Илья Суцкевер хочет создать супер-интеллект](https://habr.com/ru/news/970616/?utm_campaign=970616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
