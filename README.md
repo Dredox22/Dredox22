@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft заявила, что Copilot пишет код быстрее, чем люди пьют кофе. Разработчики комментарий не оценили](https://habr.com/ru/news/970534/?utm_campaign=970534&utm_source=habrahabr&utm_medium=rss)
+- [Экс‑глава App Store Review: Apple все чаще блокирует аккаунты разработчиков из‑за ошибочных подозрений во фроде](https://habr.com/ru/news/970528/?utm_campaign=970528&utm_source=habrahabr&utm_medium=rss)
+- [AI‑гиганты правят рынком: как Google и Nvidia диктуют рост S&amp;amp;P 500](https://habr.com/ru/companies/bothub/news/970518/?utm_campaign=970518&utm_source=habrahabr&utm_medium=rss)
+- [Fix Price получил диплом конкурса Retail TECH проектов 2025](https://habr.com/ru/news/970514/?utm_campaign=970514&utm_source=habrahabr&utm_medium=rss)
 - [В США дрон Amazon Prime Air случайно перерезал воздушный кабель оператора связи](https://habr.com/ru/news/970506/?utm_campaign=970506&utm_source=habrahabr&utm_medium=rss)
-- [Proton Pass получил новый CLI-клиент](https://habr.com/ru/news/970496/?utm_campaign=970496&utm_source=habrahabr&utm_medium=rss)
-- [Исследование показало, как общение с ИИ-подхалимами портит людей](https://habr.com/ru/news/970460/?utm_campaign=970460&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком»: в мобильном приложении «Единый цифровой монтажник» ежемесячно оформляется до 1 млн технических нарядов](https://habr.com/ru/news/970444/?utm_campaign=970444&utm_source=habrahabr&utm_medium=rss)
-- [Ильдар Садыков стал главным экспертом UserGate uFactor](https://habr.com/ru/companies/usergate/news/970438/?utm_campaign=970438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
