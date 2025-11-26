@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ильдар Садыков стал главным экспертом UserGate uFactor](https://habr.com/ru/companies/usergate/news/970438/?utm_campaign=970438&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» запустил экспресс-оценку здоровья через камеру мобильного телефона в мобильном приложении «СберЗдоровье»](https://habr.com/ru/news/970430/?utm_campaign=970430&utm_source=habrahabr&utm_medium=rss)
 - [Выпущено обновление InfoWatch ARMA Management Console 2.1](https://habr.com/ru/companies/infowatch/news/970422/?utm_campaign=970422&utm_source=habrahabr&utm_medium=rss)
 - [Новые Возможности MS SQL SERVER 2025](https://habr.com/ru/news/970206/?utm_campaign=970206&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удалила рекламу Copilot после того, как ИИ не справился с базовой задачей в Windows 11](https://habr.com/ru/news/970266/?utm_campaign=970266&utm_source=habrahabr&utm_medium=rss)
-- [Бренд Kodak выпустил плёночную камеру со стеклянной оптикой](https://habr.com/ru/news/970374/?utm_campaign=970374&utm_source=habrahabr&utm_medium=rss)
-- [Кризис среди элиты: четверть безработных в США имеют высшее образование](https://habr.com/ru/companies/bothub/news/970366/?utm_campaign=970366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
