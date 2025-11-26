@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила инженерную партию тестовых складных iPhone с дисплеями Samsung, на которых нет складки по центру экрана](https://habr.com/ru/news/970282/?utm_campaign=970282&utm_source=habrahabr&utm_medium=rss)
+- [Новые ИИ‑герои из Индии: Google обещает до 2 миллионов долларов каждому стартапу](https://habr.com/ru/companies/bothub/news/970204/?utm_campaign=970204&utm_source=habrahabr&utm_medium=rss)
+- [Российская компания Neiry представила голубя-биодрона PJN-1](https://habr.com/ru/news/970278/?utm_campaign=970278&utm_source=habrahabr&utm_medium=rss)
 - [Обновление открытого проекта Pinta 3.0.5](https://habr.com/ru/news/970232/?utm_campaign=970232&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Ultramarine Linux 43 на базе Fedora Linux 43](https://habr.com/ru/news/970212/?utm_campaign=970212&utm_source=habrahabr&utm_medium=rss)
-- [Соцсеть X &lpar;экс-Twitter&rpar; начала внедрять функцию «Об этом аккаунте» в профили пользователей](https://habr.com/ru/news/969624/?utm_campaign=969624&utm_source=habrahabr&utm_medium=rss)
-- [Криптографическая фирма отменила выборы после потери ключа шифрования](https://habr.com/ru/news/970262/?utm_campaign=970262&utm_source=habrahabr&utm_medium=rss)
-- [Вышла FLUX.2 — open source-конкурент Nano Banana](https://habr.com/ru/news/970258/?utm_campaign=970258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
