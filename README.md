@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В США дрон Amazon Prime Air случайно перерезал воздушный кабель оператора связи](https://habr.com/ru/news/970506/?utm_campaign=970506&utm_source=habrahabr&utm_medium=rss)
+- [Proton Pass получил новый CLI-клиент](https://habr.com/ru/news/970496/?utm_campaign=970496&utm_source=habrahabr&utm_medium=rss)
+- [Исследование показало, как общение с ИИ-подхалимами портит людей](https://habr.com/ru/news/970460/?utm_campaign=970460&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком»: в мобильном приложении «Единый цифровой монтажник» ежемесячно оформляется до 1 млн технических нарядов](https://habr.com/ru/news/970444/?utm_campaign=970444&utm_source=habrahabr&utm_medium=rss)
 - [Ильдар Садыков стал главным экспертом UserGate uFactor](https://habr.com/ru/companies/usergate/news/970438/?utm_campaign=970438&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» запустил экспресс-оценку здоровья через камеру мобильного телефона в мобильном приложении «СберЗдоровье»](https://habr.com/ru/news/970430/?utm_campaign=970430&utm_source=habrahabr&utm_medium=rss)
-- [Выпущено обновление InfoWatch ARMA Management Console 2.1](https://habr.com/ru/companies/infowatch/news/970422/?utm_campaign=970422&utm_source=habrahabr&utm_medium=rss)
-- [Новые Возможности MS SQL SERVER 2025](https://habr.com/ru/news/970206/?utm_campaign=970206&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалила рекламу Copilot после того, как ИИ не справился с базовой задачей в Windows 11](https://habr.com/ru/news/970266/?utm_campaign=970266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
