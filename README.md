@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кризис среди элиты: четверть безработных в США имеют высшее образование](https://habr.com/ru/companies/bothub/news/970366/?utm_campaign=970366&utm_source=habrahabr&utm_medium=rss)
+- [В Google Maps можно будет скрывать свою личность в отзывах](https://habr.com/ru/news/970346/?utm_campaign=970346&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила шопинг с Copilot в Edge](https://habr.com/ru/news/970334/?utm_campaign=970334&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи МГУ и Яндекса создали первый открытый датасет и метод обучения нейросетей сложным правилам русского языка](https://habr.com/ru/companies/yandex/news/970292/?utm_campaign=970292&utm_source=habrahabr&utm_medium=rss)
 - [Релиз AlmaLinux 10.1](https://habr.com/ru/news/969922/?utm_campaign=969922&utm_source=habrahabr&utm_medium=rss)
-- [Учёные раскрыли слабые места ИИ: почему модели всё ещё не думают как люди](https://habr.com/ru/companies/bothub/news/970308/?utm_campaign=970308&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 Flash, ядерный синтез и «пузырь ИИ»: программные заявления Сундара Пичаи](https://habr.com/ru/news/970322/?utm_campaign=970322&utm_source=habrahabr&utm_medium=rss)
-- [Инструкция для верификации СИМ-карт — как восстановить мобильный интернет после возвращения в РФ из-за рубежа](https://habr.com/ru/news/970316/?utm_campaign=970316&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпаты: вы никогда не сможете обнаружить использование ИИ в домашних заданиях](https://habr.com/ru/news/970302/?utm_campaign=970302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
