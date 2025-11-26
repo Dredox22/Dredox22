@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple выпустила инженерную партию тестовых складных iPhone с дисплеями Samsung, на которых нет складки по центру экрана](https://habr.com/ru/news/970282/?utm_campaign=970282&utm_source=habrahabr&utm_medium=rss)
-- [Новые ИИ‑герои из Индии: Google обещает до 2 миллионов долларов каждому стартапу](https://habr.com/ru/companies/bothub/news/970204/?utm_campaign=970204&utm_source=habrahabr&utm_medium=rss)
-- [Российская компания Neiry представила голубя-биодрона PJN-1](https://habr.com/ru/news/970278/?utm_campaign=970278&utm_source=habrahabr&utm_medium=rss)
-- [Обновление открытого проекта Pinta 3.0.5](https://habr.com/ru/news/970232/?utm_campaign=970232&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива Ultramarine Linux 43 на базе Fedora Linux 43](https://habr.com/ru/news/970212/?utm_campaign=970212&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпаты: вы никогда не сможете обнаружить использование ИИ в домашних заданиях](https://habr.com/ru/news/970302/?utm_campaign=970302&utm_source=habrahabr&utm_medium=rss)
+- [Голос, текст и картинки вместе: ChatGPT перезапустил голосовой режим](https://habr.com/ru/companies/bothub/news/970284/?utm_campaign=970284&utm_source=habrahabr&utm_medium=rss)
+- [Чат-бот Copilot от Microsoft перестанет быть доступен в WhatsApp после 15 января 2026 года](https://habr.com/ru/news/970300/?utm_campaign=970300&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT получил новый голосовой режим](https://habr.com/ru/news/970298/?utm_campaign=970298&utm_source=habrahabr&utm_medium=rss)
+- [UserGate NGFW вошел в комплексное решение K2 Cloud для защиты сетевой инфраструктуры](https://habr.com/ru/companies/usergate/news/970296/?utm_campaign=970296&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
