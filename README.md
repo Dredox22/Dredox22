@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Общее в голограммах, фракталах и организмах](https://habr.com/ru/news/970664/?utm_campaign=970664&utm_source=habrahabr&utm_medium=rss)
 - [Раскрыты политические взгляды ИИ: GPT-5 ближе к центру, Grok-4 справа](https://habr.com/ru/news/970666/?utm_campaign=970666&utm_source=habrahabr&utm_medium=rss)
 - [xAI сбегает от турбин: Маск строит солярную ферму для питания ИИ-суперкластера](https://habr.com/ru/companies/bothub/news/970638/?utm_campaign=970638&utm_source=habrahabr&utm_medium=rss)
 - [Данные кончились, что дальше? Как Илья Суцкевер хочет создать супер-интеллект](https://habr.com/ru/news/970616/?utm_campaign=970616&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ от Гарварда может в разы ускорить диагностику редких заболеваний](https://habr.com/ru/companies/bothub/news/970592/?utm_campaign=970592&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заявила, что Copilot пишет код быстрее, чем люди пьют кофе. Разработчики комментарий не оценили](https://habr.com/ru/news/970534/?utm_campaign=970534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
