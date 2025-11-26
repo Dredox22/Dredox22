@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI сбегает от турбин: Маск строит солярную ферму для питания ИИ-суперкластера](https://habr.com/ru/companies/bothub/news/970638/?utm_campaign=970638&utm_source=habrahabr&utm_medium=rss)
 - [Данные кончились, что дальше? Как Илья Суцкевер хочет создать супер-интеллект](https://habr.com/ru/news/970616/?utm_campaign=970616&utm_source=habrahabr&utm_medium=rss)
 - [Новый ИИ от Гарварда может в разы ускорить диагностику редких заболеваний](https://habr.com/ru/companies/bothub/news/970592/?utm_campaign=970592&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заявила, что Copilot пишет код быстрее, чем люди пьют кофе. Разработчики комментарий не оценили](https://habr.com/ru/news/970534/?utm_campaign=970534&utm_source=habrahabr&utm_medium=rss)
 - [Экс‑глава App Store Review: Apple все чаще блокирует аккаунты разработчиков из‑за ошибочных подозрений во фроде](https://habr.com/ru/news/970528/?utm_campaign=970528&utm_source=habrahabr&utm_medium=rss)
-- [AI‑гиганты правят рынком: как Google и Nvidia диктуют рост S&amp;amp;P 500](https://habr.com/ru/companies/bothub/news/970518/?utm_campaign=970518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
