@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бренд Kodak выпустил плёночную камеру со стеклянной оптикой](https://habr.com/ru/news/970374/?utm_campaign=970374&utm_source=habrahabr&utm_medium=rss)
 - [Кризис среди элиты: четверть безработных в США имеют высшее образование](https://habr.com/ru/companies/bothub/news/970366/?utm_campaign=970366&utm_source=habrahabr&utm_medium=rss)
 - [В Google Maps можно будет скрывать свою личность в отзывах](https://habr.com/ru/news/970346/?utm_campaign=970346&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила шопинг с Copilot в Edge](https://habr.com/ru/news/970334/?utm_campaign=970334&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи МГУ и Яндекса создали первый открытый датасет и метод обучения нейросетей сложным правилам русского языка](https://habr.com/ru/companies/yandex/news/970292/?utm_campaign=970292&utm_source=habrahabr&utm_medium=rss)
-- [Релиз AlmaLinux 10.1](https://habr.com/ru/news/969922/?utm_campaign=969922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
