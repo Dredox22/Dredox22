@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Не Гитхабом единым: 40+% скидки на IT-литературу, которая украсит ваши полки](https://habr.com/ru/companies/bhv_publishing/news/970982/?utm_campaign=970982&utm_source=habrahabr&utm_medium=rss)
-- [GigaChat отправился на МКС: как российский ИИ стал частью экипажа](https://habr.com/ru/news/970980/?utm_campaign=970980&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавит обновления приложений из Microsoft Store в Центр обновления Windows](https://habr.com/ru/news/970972/?utm_campaign=970972&utm_source=habrahabr&utm_medium=rss)
-- [Вышел DeepSeekMath-V2 — математический ИИ олимпиадного уровня](https://habr.com/ru/news/970944/?utm_campaign=970944&utm_source=habrahabr&utm_medium=rss)
-- [Cервис TON Dating запустил приложения на iOS, Android и веб-версию](https://habr.com/ru/news/970934/?utm_campaign=970934&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект No-AI December — осознанный перерыв в использовании инструментов ИИ на один месяц](https://habr.com/ru/news/971056/?utm_campaign=971056&utm_source=habrahabr&utm_medium=rss)
+- [На «Москвиче» собрали «Атом» версии Plant Trial](https://habr.com/ru/news/971054/?utm_campaign=971054&utm_source=habrahabr&utm_medium=rss)
+- [S&amp;amp;box вышел в open-source](https://habr.com/ru/news/971052/?utm_campaign=971052&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты обнаружили атаку на пользователей Blender с автоматически запускаемыми скриптами на Python](https://habr.com/ru/news/971044/?utm_campaign=971044&utm_source=habrahabr&utm_medium=rss)
+- [Китайские открытые AI-модели впервые обошли по популярности американские](https://habr.com/ru/companies/bothub/news/971038/?utm_campaign=971038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
