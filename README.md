@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Компания «1С-Битрикс» запустила публичную программу для поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/970786/?utm_campaign=970786&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-изображения еды с бессмысленными рецептами в Google AI Overview серьёзно снижают трафик кулинарных блогеров](https://habr.com/ru/news/970780/?utm_campaign=970780&utm_source=habrahabr&utm_medium=rss)
-- [Новый закон ИИ раскрыт: как каждая модель становится умнее с каждым днём](https://habr.com/ru/companies/bothub/news/970770/?utm_campaign=970770&utm_source=habrahabr&utm_medium=rss)
-- [Вышел терминальный мультиплексор Tmux 3.6](https://habr.com/ru/news/970510/?utm_campaign=970510&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI: подросток обошёл функции безопасности ChatGPT перед самоубийством](https://habr.com/ru/news/970758/?utm_campaign=970758&utm_source=habrahabr&utm_medium=rss)
+- [Компания Smart Communications тестирует роборуки на вышках сотовой связи на Филиппинах](https://habr.com/ru/news/970644/?utm_campaign=970644&utm_source=habrahabr&utm_medium=rss)
+- [Академия ГПС МЧС России и Центр технологий для общества «Яндекса» запустили ИИ‑проект помощи сотрудникам МЧС](https://habr.com/ru/news/970812/?utm_campaign=970812&utm_source=habrahabr&utm_medium=rss)
+- [Google Antigravity уязвим к краже данных через скрытый prompt injection](https://habr.com/ru/news/970808/?utm_campaign=970808&utm_source=habrahabr&utm_medium=rss)
+- [Мексика установит самый мощный суперкомпьютер в Латинской Америке](https://habr.com/ru/news/970792/?utm_campaign=970792&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: ключи безопасности FIDO2 могут потребовать ввести PIN-код при входе в систему после апдейта Windows](https://habr.com/ru/news/970788/?utm_campaign=970788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
