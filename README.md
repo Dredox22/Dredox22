@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел DeepSeekMath-V2 — математический ИИ олимпиадного уровня](https://habr.com/ru/news/970944/?utm_campaign=970944&utm_source=habrahabr&utm_medium=rss)
 - [Cервис TON Dating запустил приложения на iOS, Android и веб-версию](https://habr.com/ru/news/970934/?utm_campaign=970934&utm_source=habrahabr&utm_medium=rss)
 - [Uber уволила подрядчиков, разрабатывающих инструменты искусственного интеллекта](https://habr.com/ru/news/970936/?utm_campaign=970936&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba показала AgentEvolver, который делает ИИ-агентов умнее на 30 процентов](https://habr.com/ru/companies/bothub/news/970930/?utm_campaign=970930&utm_source=habrahabr&utm_medium=rss)
 - [Spring Data JDBC – идеальная Data для вашего приложения](https://habr.com/ru/companies/haulmont/news/970920/?utm_campaign=970920&utm_source=habrahabr&utm_medium=rss)
-- [Opera добавила в браузер Neon режим «минутного глубокого исследования»](https://habr.com/ru/news/970916/?utm_campaign=970916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
