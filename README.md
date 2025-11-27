@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Компания Smart Communications тестирует роборуки на вышках сотовой связи на Филиппинах](https://habr.com/ru/news/970644/?utm_campaign=970644&utm_source=habrahabr&utm_medium=rss)
-- [Академия ГПС МЧС России и Центр технологий для общества «Яндекса» запустили ИИ‑проект помощи сотрудникам МЧС](https://habr.com/ru/news/970812/?utm_campaign=970812&utm_source=habrahabr&utm_medium=rss)
-- [Google Antigravity уязвим к краже данных через скрытый prompt injection](https://habr.com/ru/news/970808/?utm_campaign=970808&utm_source=habrahabr&utm_medium=rss)
-- [Мексика установит самый мощный суперкомпьютер в Латинской Америке](https://habr.com/ru/news/970792/?utm_campaign=970792&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: ключи безопасности FIDO2 могут потребовать ввести PIN-код при входе в систему после апдейта Windows](https://habr.com/ru/news/970788/?utm_campaign=970788&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт «Яндекса»: «Алиса» не начала тормозить, это ощущение возникает из-за их возросших ожиданий от технологий](https://habr.com/ru/news/970856/?utm_campaign=970856&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI хочет подсадить на ChatGPT каждого третьего пользователя интернета](https://habr.com/ru/news/970852/?utm_campaign=970852&utm_source=habrahabr&utm_medium=rss)
+- [Новый ИИ-инструмент Retake позволяет переснять любой момент в кадре за секунды](https://habr.com/ru/companies/bothub/news/970850/?utm_campaign=970850&utm_source=habrahabr&utm_medium=rss)
+- [Java Rock Star Meetup: Король и Duke](https://habr.com/ru/companies/axiomjdk/news/970828/?utm_campaign=970828&utm_source=habrahabr&utm_medium=rss)
+- [Китай запретил ByteDance использовать чипы Nvidia](https://habr.com/ru/companies/bothub/news/970824/?utm_campaign=970824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
