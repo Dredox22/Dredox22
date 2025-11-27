@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.5 назвали лучшим ИИ для веб-разработки](https://habr.com/ru/news/970736/?utm_campaign=970736&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сообщила об утечке данных некоторых пользователей API](https://habr.com/ru/news/970734/?utm_campaign=970734&utm_source=habrahabr&utm_medium=rss)
-- [В MIT представили ИИ для разработки лекарств против трудноизлечимых заболеваний](https://habr.com/ru/news/970724/?utm_campaign=970724&utm_source=habrahabr&utm_medium=rss)
-- [Представлен ScopeDoom — отображение Doom на осциллографе в режиме X-Y с ПК со звуковой картой для двухканального ЦАП](https://habr.com/ru/news/970722/?utm_campaign=970722&utm_source=habrahabr&utm_medium=rss)
-- [Команда проекта Zig начала миграцию с GitHub на Codeberg](https://habr.com/ru/news/970704/?utm_campaign=970704&utm_source=habrahabr&utm_medium=rss)
+- [Компания «1С-Битрикс» запустила публичную программу для поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/970786/?utm_campaign=970786&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-изображения еды с бессмысленными рецептами в Google AI Overview серьёзно снижают трафик кулинарных блогеров](https://habr.com/ru/news/970780/?utm_campaign=970780&utm_source=habrahabr&utm_medium=rss)
+- [Новый закон ИИ раскрыт: как каждая модель становится умнее с каждым днём](https://habr.com/ru/companies/bothub/news/970770/?utm_campaign=970770&utm_source=habrahabr&utm_medium=rss)
+- [Вышел терминальный мультиплексор Tmux 3.6](https://habr.com/ru/news/970510/?utm_campaign=970510&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI: подросток обошёл функции безопасности ChatGPT перед самоубийством](https://habr.com/ru/news/970758/?utm_campaign=970758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
