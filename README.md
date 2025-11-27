@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft встроил ИИ‑инструменты для шопинга прямо в Edge](https://habr.com/ru/companies/bothub/news/971060/?utm_campaign=971060&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект No-AI December — осознанный перерыв в использовании инструментов ИИ на один месяц](https://habr.com/ru/news/971056/?utm_campaign=971056&utm_source=habrahabr&utm_medium=rss)
 - [На «Москвиче» собрали «Атом» версии Plant Trial](https://habr.com/ru/news/971054/?utm_campaign=971054&utm_source=habrahabr&utm_medium=rss)
-- [S&amp;amp;box вышел в open-source](https://habr.com/ru/news/971052/?utm_campaign=971052&utm_source=habrahabr&utm_medium=rss)
+- [Open-source S&amp;amp;box или Unity здорового человека](https://habr.com/ru/news/971052/?utm_campaign=971052&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты обнаружили атаку на пользователей Blender с автоматически запускаемыми скриптами на Python](https://habr.com/ru/news/971044/?utm_campaign=971044&utm_source=habrahabr&utm_medium=rss)
-- [Китайские открытые AI-модели впервые обошли по популярности американские](https://habr.com/ru/companies/bothub/news/971038/?utm_campaign=971038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
