@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.5 назвали лучшим ИИ для веб-разработки](https://habr.com/ru/news/970736/?utm_campaign=970736&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI сообщила об утечке данных некоторых пользователей API](https://habr.com/ru/news/970734/?utm_campaign=970734&utm_source=habrahabr&utm_medium=rss)
 - [В MIT представили ИИ для разработки лекарств против трудноизлечимых заболеваний](https://habr.com/ru/news/970724/?utm_campaign=970724&utm_source=habrahabr&utm_medium=rss)
 - [Представлен ScopeDoom — отображение Doom на осциллографе в режиме X-Y с ПК со звуковой картой для двухканального ЦАП](https://habr.com/ru/news/970722/?utm_campaign=970722&utm_source=habrahabr&utm_medium=rss)
 - [Команда проекта Zig начала миграцию с GitHub на Codeberg](https://habr.com/ru/news/970704/?utm_campaign=970704&utm_source=habrahabr&utm_medium=rss)
-- [Представлен порт Doom в САПР KiCad](https://habr.com/ru/news/970692/?utm_campaign=970692&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект TaskExplorer 1.6.6](https://habr.com/ru/news/970604/?utm_campaign=970604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
