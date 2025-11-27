@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Не Гитхабом единым: 40+% скидки на IT-литературу, которая украсит ваши полки](https://habr.com/ru/companies/bhv_publishing/news/970982/?utm_campaign=970982&utm_source=habrahabr&utm_medium=rss)
+- [GigaChat отправился на МКС: как российский ИИ стал частью экипажа](https://habr.com/ru/news/970980/?utm_campaign=970980&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавит обновления приложений из Microsoft Store в Центр обновления Windows](https://habr.com/ru/news/970972/?utm_campaign=970972&utm_source=habrahabr&utm_medium=rss)
 - [Вышел DeepSeekMath-V2 — математический ИИ олимпиадного уровня](https://habr.com/ru/news/970944/?utm_campaign=970944&utm_source=habrahabr&utm_medium=rss)
 - [Cервис TON Dating запустил приложения на iOS, Android и веб-версию](https://habr.com/ru/news/970934/?utm_campaign=970934&utm_source=habrahabr&utm_medium=rss)
-- [Uber уволила подрядчиков, разрабатывающих инструменты искусственного интеллекта](https://habr.com/ru/news/970936/?utm_campaign=970936&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba показала AgentEvolver, который делает ИИ-агентов умнее на 30 процентов](https://habr.com/ru/companies/bothub/news/970930/?utm_campaign=970930&utm_source=habrahabr&utm_medium=rss)
-- [Spring Data JDBC – идеальная Data для вашего приложения](https://habr.com/ru/companies/haulmont/news/970920/?utm_campaign=970920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
