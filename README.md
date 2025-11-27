@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Эксперт «Яндекса»: «Алиса» не начала тормозить, это ощущение возникает из-за их возросших ожиданий от технологий](https://habr.com/ru/news/970856/?utm_campaign=970856&utm_source=habrahabr&utm_medium=rss)
+- [Dell утверждает, что внедрение Windows 11 происходит гораздо медленнее, чем Windows 10](https://habr.com/ru/news/970876/?utm_campaign=970876&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры получили доступ к данным пользователей API OpenAI после взлома Mixpanel](https://habr.com/ru/companies/bothub/news/970870/?utm_campaign=970870&utm_source=habrahabr&utm_medium=rss)
+- [В Max появился быстрый доступ к документам через Цифровой ID](https://habr.com/ru/news/970868/?utm_campaign=970868&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт «Яндекса»: «Алиса» не начала тормозить, это ощущение возникает из-за их возросших ожиданий от технологии](https://habr.com/ru/news/970856/?utm_campaign=970856&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI хочет подсадить на ChatGPT каждого третьего пользователя интернета](https://habr.com/ru/news/970852/?utm_campaign=970852&utm_source=habrahabr&utm_medium=rss)
-- [Новый ИИ-инструмент Retake позволяет переснять любой момент в кадре за секунды](https://habr.com/ru/companies/bothub/news/970850/?utm_campaign=970850&utm_source=habrahabr&utm_medium=rss)
-- [Java Rock Star Meetup: Король и Duke](https://habr.com/ru/companies/axiomjdk/news/970828/?utm_campaign=970828&utm_source=habrahabr&utm_medium=rss)
-- [Китай запретил ByteDance использовать чипы Nvidia](https://habr.com/ru/companies/bothub/news/970824/?utm_campaign=970824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
