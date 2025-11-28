@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лаборатория Марка Цукерберга представила жёсткий бенчмарк для проверки LLM на выполнение сложных инструкций](https://habr.com/ru/companies/bothub/news/971120/?utm_campaign=971120&utm_source=habrahabr&utm_medium=rss)
+- [Крупная конференция по ИИ оказалась завалена рецензиями, написанными ИИ](https://habr.com/ru/news/971112/?utm_campaign=971112&utm_source=habrahabr&utm_medium=rss)
+- [Релиз рабочего окружения GNOME 49.2](https://habr.com/ru/news/970918/?utm_campaign=970918&utm_source=habrahabr&utm_medium=rss)
 - [В KDE Plasma 6.8 будет только поддержка Wayland без X11](https://habr.com/ru/news/970942/?utm_campaign=970942&utm_source=habrahabr&utm_medium=rss)
 - [Релиз СУБД Redis 8.4](https://habr.com/ru/news/970846/?utm_campaign=970846&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта Fan Control V250](https://habr.com/ru/news/970890/?utm_campaign=970890&utm_source=habrahabr&utm_medium=rss)
-- [До 40% рабочих мест в США могут перейти к ИИ-агентам и роботам — McKinsey](https://habr.com/ru/news/971076/?utm_campaign=971076&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft встроил ИИ‑инструменты для шопинга прямо в Edge](https://habr.com/ru/companies/bothub/news/971060/?utm_campaign=971060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
