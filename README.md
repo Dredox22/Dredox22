@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic: как научить ИИ-агентов работать днями без потери прогресса](https://habr.com/ru/news/971298/?utm_campaign=971298&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft защитит вход в систему Entra ID от атак с внедрением скриптов](https://habr.com/ru/news/971064/?utm_campaign=971064&utm_source=habrahabr&utm_medium=rss)
 - [В Android точка доступа Wi-Fi получила поддержку частот 2,4 ГГц + 6 ГГц](https://habr.com/ru/news/971090/?utm_campaign=971090&utm_source=habrahabr&utm_medium=rss)
 - [В России запустили верификацию для иностранных сим-карт](https://habr.com/ru/news/971278/?utm_campaign=971278&utm_source=habrahabr&utm_medium=rss)
 - [Как ускорить тестирование мобильных приложений](https://habr.com/ru/companies/selectel/news/971268/?utm_campaign=971268&utm_source=habrahabr&utm_medium=rss)
-- [Apple создает альтернативу диффузионным нейросетям](https://habr.com/ru/companies/bothub/news/971272/?utm_campaign=971272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
