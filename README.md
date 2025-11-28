@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Поэты — современные хакеры»: стихи как универсальный джейлбрейк для LLM](https://habr.com/ru/news/971466/?utm_campaign=971466&utm_source=habrahabr&utm_medium=rss)
 - [Страшный сон Nvidia? SemiAnalysis оценили эффективность TPU от Google](https://habr.com/ru/news/971446/?utm_campaign=971446&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI и Google раскрыли, как ИИ меняет правила выхода на рынок](https://habr.com/ru/companies/bothub/news/971444/?utm_campaign=971444&utm_source=habrahabr&utm_medium=rss)
 - [«Закон уплотнения» LLM: плотность способностей удваивается каждые 3,5 месяца](https://habr.com/ru/companies/otus/news/971414/?utm_campaign=971414&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux-дистрибутив для анонимных коммуникаций Whonix 18.0](https://habr.com/ru/news/971216/?utm_campaign=971216&utm_source=habrahabr&utm_medium=rss)
-- [«Трамплин Электроникс» представил российский серверный процессор «Иртыш C616»](https://habr.com/ru/news/971400/?utm_campaign=971400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
