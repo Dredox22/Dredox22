@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен концепт-проект Air SNES — кроссовки на базе Nike Air Max, в которые встроен эмулятор консоли Super Nintendo](https://habr.com/ru/news/971214/?utm_campaign=971214&utm_source=habrahabr&utm_medium=rss)
+- [Как перейти от пилотов к рабочим решениям, если вы работаете над ML-проектом в MedTech](https://habr.com/ru/companies/selectel/news/971200/?utm_campaign=971200&utm_source=habrahabr&utm_medium=rss)
+- [Глава Epic Games назвал бессмысленной маркировку «Создано ИИ» для игр в Steam и других магазинах](https://habr.com/ru/news/971202/?utm_campaign=971202&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft использует панель задач Windows 11 для возобновления работы с Android](https://habr.com/ru/news/971194/?utm_campaign=971194&utm_source=habrahabr&utm_medium=rss)
 - [Facepunch Studios разместила в открытом доступе код s&amp;amp;box](https://habr.com/ru/news/971184/?utm_campaign=971184&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры направило в госведомства рекомендации завершить переход на Max для рабочих коммуникаций до 1 января 2026 года](https://habr.com/ru/news/971162/?utm_campaign=971162&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Командные игры на поле аутентификации: как построить инфраструктуру корпоративного доверия»/2 декабря](https://habr.com/ru/companies/aktiv-company/news/971180/?utm_campaign=971180&utm_source=habrahabr&utm_medium=rss)
-- [Сеть Tor перейдёт на новый алгоритм шифрования](https://habr.com/ru/news/971178/?utm_campaign=971178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
