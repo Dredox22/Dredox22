@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Трамплин Электроникс» представил российский серверный процессор «Иртыш C616»](https://habr.com/ru/news/971400/?utm_campaign=971400&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор сообщил о последовательном вводе ограничительных мер в отношении WhatsApp из-за нарушений законов РФ](https://habr.com/ru/news/971398/?utm_campaign=971398&utm_source=habrahabr&utm_medium=rss)
+- [Google представила бесплатный инструмент для вайб-кодинга App.new](https://habr.com/ru/news/971396/?utm_campaign=971396&utm_source=habrahabr&utm_medium=rss)
 - [Prime Intellect представила INTELLECT-3: 106 миллиардов параметров и суперспособности в reasoning](https://habr.com/ru/companies/bothub/news/971380/?utm_campaign=971380&utm_source=habrahabr&utm_medium=rss)
 - [Глючная дверь стала причиной невыхода VR-версии Half-Life 2](https://habr.com/ru/news/971378/?utm_campaign=971378&utm_source=habrahabr&utm_medium=rss)
-- [Valve напомнила, что прекратит поддержку клиентов Steam на 32-разрядных Windows с 1 января 2026 года](https://habr.com/ru/news/971332/?utm_campaign=971332&utm_source=habrahabr&utm_medium=rss)
-- [Как Google собирается создать AGI: интервью с главным архитектором DeepMind](https://habr.com/ru/companies/bothub/news/971328/?utm_campaign=971328&utm_source=habrahabr&utm_medium=rss)
-- [Бюро метеорологии Австралии обновило сайт за $62 млн и сделало его таким неудобным, что руководству пришлось извиняться](https://habr.com/ru/news/971300/?utm_campaign=971300&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
