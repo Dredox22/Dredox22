@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Закон уплотнения» LLM: плотность способностей удваивается каждые 3,5 месяца](https://habr.com/ru/companies/otus/news/971414/?utm_campaign=971414&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Linux-дистрибутив для анонимных коммуникаций Whonix 18.0](https://habr.com/ru/news/971216/?utm_campaign=971216&utm_source=habrahabr&utm_medium=rss)
 - [«Трамплин Электроникс» представил российский серверный процессор «Иртыш C616»](https://habr.com/ru/news/971400/?utm_campaign=971400&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор сообщил о последовательном вводе ограничительных мер в отношении WhatsApp из-за нарушений законов РФ](https://habr.com/ru/news/971398/?utm_campaign=971398&utm_source=habrahabr&utm_medium=rss)
 - [Google представила бесплатный инструмент для вайб-кодинга App.new](https://habr.com/ru/news/971396/?utm_campaign=971396&utm_source=habrahabr&utm_medium=rss)
-- [Prime Intellect представила INTELLECT-3: 106 миллиардов параметров и суперспособности в reasoning](https://habr.com/ru/companies/bothub/news/971380/?utm_campaign=971380&utm_source=habrahabr&utm_medium=rss)
-- [Глючная дверь стала причиной невыхода VR-версии Half-Life 2](https://habr.com/ru/news/971378/?utm_campaign=971378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
