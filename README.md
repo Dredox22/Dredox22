@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba запускает «умные очки» Quark](https://habr.com/ru/companies/bothub/news/971132/?utm_campaign=971132&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: пользователи в РФ столкнулись со сбоями в работе WhatsApp](https://habr.com/ru/news/971130/?utm_campaign=971130&utm_source=habrahabr&utm_medium=rss)
-- [Ученый OpenAI рассказал, как изменится роль человека в мире ИИ](https://habr.com/ru/news/971128/?utm_campaign=971128&utm_source=habrahabr&utm_medium=rss)
-- [Лаборатория Марка Цукерберга представила жёсткий бенчмарк для проверки LLM на выполнение сложных инструкций](https://habr.com/ru/companies/bothub/news/971120/?utm_campaign=971120&utm_source=habrahabr&utm_medium=rss)
-- [Крупная конференция по ИИ оказалась завалена рецензиями, написанными ИИ](https://habr.com/ru/news/971112/?utm_campaign=971112&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft использует панель задач Windows 11 для возобновления работы с Android](https://habr.com/ru/news/971194/?utm_campaign=971194&utm_source=habrahabr&utm_medium=rss)
+- [Facepunch Studios разместила в открытом доступе код s&amp;amp;box](https://habr.com/ru/news/971184/?utm_campaign=971184&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры направило в госведомства рекомендации завершить переход на Max для рабочих коммуникаций до 1 января 2026 года](https://habr.com/ru/news/971162/?utm_campaign=971162&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Командные игры на поле аутентификации: как построить инфраструктуру корпоративного доверия»/2 декабря](https://habr.com/ru/companies/aktiv-company/news/971180/?utm_campaign=971180&utm_source=habrahabr&utm_medium=rss)
+- [Сеть Tor перейдёт на новый алгоритм шифрования](https://habr.com/ru/news/971178/?utm_campaign=971178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
