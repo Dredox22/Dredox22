@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: пользователи в РФ столкнулись со сбоями в работе WhatsApp](https://habr.com/ru/news/971130/?utm_campaign=971130&utm_source=habrahabr&utm_medium=rss)
+- [Ученый OpenAI рассказал, как изменится роль человека в мире ИИ](https://habr.com/ru/news/971128/?utm_campaign=971128&utm_source=habrahabr&utm_medium=rss)
 - [Лаборатория Марка Цукерберга представила жёсткий бенчмарк для проверки LLM на выполнение сложных инструкций](https://habr.com/ru/companies/bothub/news/971120/?utm_campaign=971120&utm_source=habrahabr&utm_medium=rss)
 - [Крупная конференция по ИИ оказалась завалена рецензиями, написанными ИИ](https://habr.com/ru/news/971112/?utm_campaign=971112&utm_source=habrahabr&utm_medium=rss)
 - [Релиз рабочего окружения GNOME 49.2](https://habr.com/ru/news/970918/?utm_campaign=970918&utm_source=habrahabr&utm_medium=rss)
-- [В KDE Plasma 6.8 будет только поддержка Wayland без X11](https://habr.com/ru/news/970942/?utm_campaign=970942&utm_source=habrahabr&utm_medium=rss)
-- [Релиз СУБД Redis 8.4](https://habr.com/ru/news/970846/?utm_campaign=970846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
