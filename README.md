@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик автоматизировал утреннюю рутину за компьютером одним ярлыком](https://habr.com/ru/news/971248/?utm_campaign=971248&utm_source=habrahabr&utm_medium=rss)
-- [ИБ-специалист будущего: безопасная разработка, этичный хакинг и компьютерная криминалистика](https://habr.com/ru/companies/infowatch/news/971236/?utm_campaign=971236&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры готовит нормативную базу для внедрения технологии подписи контента и кода](https://habr.com/ru/news/971230/?utm_campaign=971230&utm_source=habrahabr&utm_medium=rss)
-- [Представлен концепт-проект Air SNES — кроссовки на базе Nike Air Max, в которые встроен эмулятор консоли Super Nintendo](https://habr.com/ru/news/971214/?utm_campaign=971214&utm_source=habrahabr&utm_medium=rss)
-- [Как перейти от пилотов к рабочим решениям, если вы работаете над ML-проектом в MedTech](https://habr.com/ru/companies/selectel/news/971200/?utm_campaign=971200&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft защитит вход в систему Entra ID от атак с внедрением скриптов](https://habr.com/ru/news/971064/?utm_campaign=971064&utm_source=habrahabr&utm_medium=rss)
+- [В Android точка доступа Wi-Fi получила поддержку частот 2,4 ГГц + 6 ГГц](https://habr.com/ru/news/971090/?utm_campaign=971090&utm_source=habrahabr&utm_medium=rss)
+- [В России запустили верификацию для иностранных сим-карт](https://habr.com/ru/news/971278/?utm_campaign=971278&utm_source=habrahabr&utm_medium=rss)
+- [Как ускорить тестирование мобильных приложений](https://habr.com/ru/companies/selectel/news/971268/?utm_campaign=971268&utm_source=habrahabr&utm_medium=rss)
+- [Apple создает альтернативу диффузионным нейросетям](https://habr.com/ru/companies/bothub/news/971272/?utm_campaign=971272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
