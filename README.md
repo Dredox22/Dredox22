@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Prime Intellect представила INTELLECT-3: 106 миллиардов параметров и суперспособности в reasoning](https://habr.com/ru/companies/bothub/news/971380/?utm_campaign=971380&utm_source=habrahabr&utm_medium=rss)
+- [Глючная дверь стала причиной невыхода VR-версии Half-Life 2](https://habr.com/ru/news/971378/?utm_campaign=971378&utm_source=habrahabr&utm_medium=rss)
 - [Valve напомнила, что прекратит поддержку клиентов Steam на 32-разрядных Windows с 1 января 2026 года](https://habr.com/ru/news/971332/?utm_campaign=971332&utm_source=habrahabr&utm_medium=rss)
 - [Как Google собирается создать AGI: интервью с главным архитектором DeepMind](https://habr.com/ru/companies/bothub/news/971328/?utm_campaign=971328&utm_source=habrahabr&utm_medium=rss)
 - [Бюро метеорологии Австралии обновило сайт за $62 млн и сделало его таким неудобным, что руководству пришлось извиняться](https://habr.com/ru/news/971300/?utm_campaign=971300&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic: как научить ИИ-агентов работать днями без потери прогресса](https://habr.com/ru/news/971298/?utm_campaign=971298&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft защитит вход в систему Entra ID от атак с внедрением скриптов](https://habr.com/ru/news/971064/?utm_campaign=971064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
