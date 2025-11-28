@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик автоматизировал утреннюю рутину за компьютером одним ярлыком](https://habr.com/ru/news/971248/?utm_campaign=971248&utm_source=habrahabr&utm_medium=rss)
+- [ИБ-специалист будущего: безопасная разработка, этичный хакинг и компьютерная криминалистика](https://habr.com/ru/companies/infowatch/news/971236/?utm_campaign=971236&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры готовит нормативную базу для внедрения технологии подписи контента и кода](https://habr.com/ru/news/971230/?utm_campaign=971230&utm_source=habrahabr&utm_medium=rss)
 - [Представлен концепт-проект Air SNES — кроссовки на базе Nike Air Max, в которые встроен эмулятор консоли Super Nintendo](https://habr.com/ru/news/971214/?utm_campaign=971214&utm_source=habrahabr&utm_medium=rss)
 - [Как перейти от пилотов к рабочим решениям, если вы работаете над ML-проектом в MedTech](https://habr.com/ru/companies/selectel/news/971200/?utm_campaign=971200&utm_source=habrahabr&utm_medium=rss)
-- [Глава Epic Games назвал бессмысленной маркировку «Создано ИИ» для игр в Steam и других магазинах](https://habr.com/ru/news/971202/?utm_campaign=971202&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft использует панель задач Windows 11 для возобновления работы с Android](https://habr.com/ru/news/971194/?utm_campaign=971194&utm_source=habrahabr&utm_medium=rss)
-- [Facepunch Studios разместила в открытом доступе код s&amp;amp;box](https://habr.com/ru/news/971184/?utm_campaign=971184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
