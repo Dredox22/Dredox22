@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В KDE Plasma 6.8 будет только поддержка Wayland без X11](https://habr.com/ru/news/970942/?utm_campaign=970942&utm_source=habrahabr&utm_medium=rss)
+- [Релиз СУБД Redis 8.4](https://habr.com/ru/news/970846/?utm_campaign=970846&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта Fan Control V250](https://habr.com/ru/news/970890/?utm_campaign=970890&utm_source=habrahabr&utm_medium=rss)
 - [До 40% рабочих мест в США могут перейти к ИИ-агентам и роботам — McKinsey](https://habr.com/ru/news/971076/?utm_campaign=971076&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft встроил ИИ‑инструменты для шопинга прямо в Edge](https://habr.com/ru/companies/bothub/news/971060/?utm_campaign=971060&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект No-AI December — осознанный перерыв в использовании инструментов ИИ на один месяц](https://habr.com/ru/news/971056/?utm_campaign=971056&utm_source=habrahabr&utm_medium=rss)
-- [На «Москвиче» собрали «Атом» версии Plant Trial](https://habr.com/ru/news/971054/?utm_campaign=971054&utm_source=habrahabr&utm_medium=rss)
-- [Open-source S&amp;amp;box или Unity здорового человека](https://habr.com/ru/news/971052/?utm_campaign=971052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
