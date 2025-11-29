@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила новую базу данных Horizondb, совместимую с Postgres](https://habr.com/ru/news/971614/?utm_campaign=971614&utm_source=habrahabr&utm_medium=rss)
 - [Сообщения в WhatsApp могут содержать скрытые данные GPS: результаты криминалистической экспертизы](https://habr.com/ru/news/971474/?utm_campaign=971474&utm_source=habrahabr&utm_medium=rss)
 - [Публичные репозитории GitLab раскрыли более 17 000 секретов](https://habr.com/ru/news/971582/?utm_campaign=971582&utm_source=habrahabr&utm_medium=rss)
 - [BI.ZONE провела международные соревнования по этичному хакингу CTFZone 2025 с призовым фондом $18 тысяч](https://habr.com/ru/news/971568/?utm_campaign=971568&utm_source=habrahabr&utm_medium=rss)
 - [Проект Organic Maps получил множество новых функций в последнем обновлении](https://habr.com/ru/news/971562/?utm_campaign=971562&utm_source=habrahabr&utm_medium=rss)
-- [YouTube начал требовать у части пользователей из СНГ подтверждения возраста с помощью паспорта](https://habr.com/ru/news/971554/?utm_campaign=971554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
