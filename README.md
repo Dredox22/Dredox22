@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Cato Networks обнаружили новую атаку на ИИ-браузеры через введение скрытых команд после символа «#»](https://habr.com/ru/news/971548/?utm_campaign=971548&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «В 2026 году могут создать реестр официальных ссылок интернет-магазинов»](https://habr.com/ru/news/971544/?utm_campaign=971544&utm_source=habrahabr&utm_medium=rss)
+- [От кота на коврике до потолка ИИ: математик измерил творческий лимит нейросетей](https://habr.com/ru/news/971542/?utm_campaign=971542&utm_source=habrahabr&utm_medium=rss)
+- [«Т‑Банк» представил антифрод‑сервис «Ловушка для мошенников»](https://habr.com/ru/news/971532/?utm_campaign=971532&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: в Roblox присутствует неподобающий контент, создаются условия и предпосылки для противоправных действий](https://habr.com/ru/news/971512/?utm_campaign=971512&utm_source=habrahabr&utm_medium=rss)
-- [Sora и Nano Banana Pro: новые лимиты для бесплатных пользователей](https://habr.com/ru/companies/bothub/news/971508/?utm_campaign=971508&utm_source=habrahabr&utm_medium=rss)
-- [Airbus: интенсивное солнечное излучение может повредить критически важные данные систем управления полётом Airbus A320](https://habr.com/ru/news/971502/?utm_campaign=971502&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Wine 10.20](https://habr.com/ru/news/971486/?utm_campaign=971486&utm_source=habrahabr&utm_medium=rss)
-- [Альтернативы для общения вместо WhatsApp](https://habr.com/ru/news/971482/?utm_campaign=971482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
