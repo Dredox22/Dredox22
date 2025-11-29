@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Organic Maps получил множество новых функций в последнем обновлении](https://habr.com/ru/news/971562/?utm_campaign=971562&utm_source=habrahabr&utm_medium=rss)
+- [YouTube начал требовать у части пользователей из СНГ подтверждения возраста с помощью паспорта](https://habr.com/ru/news/971554/?utm_campaign=971554&utm_source=habrahabr&utm_medium=rss)
 - [В Cato Networks обнаружили новую атаку на ИИ-браузеры через введение скрытых команд после символа «#»](https://habr.com/ru/news/971548/?utm_campaign=971548&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «В 2026 году могут создать реестр официальных ссылок интернет-магазинов»](https://habr.com/ru/news/971544/?utm_campaign=971544&utm_source=habrahabr&utm_medium=rss)
 - [От кота на коврике до потолка ИИ: математик измерил творческий лимит нейросетей](https://habr.com/ru/news/971542/?utm_campaign=971542&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» представил антифрод‑сервис «Ловушка для мошенников»](https://habr.com/ru/news/971532/?utm_campaign=971532&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: в Roblox присутствует неподобающий контент, создаются условия и предпосылки для противоправных действий](https://habr.com/ru/news/971512/?utm_campaign=971512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
