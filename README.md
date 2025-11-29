@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Harmonic привлекла $120 млн на создание математического суперразума Aristotle](https://habr.com/ru/news/971634/?utm_campaign=971634&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek — единственная в Китае компания, накопившая GPU. Остальные ищут ресурсы за рубежом](https://habr.com/ru/news/971622/?utm_campaign=971622&utm_source=habrahabr&utm_medium=rss)
 - [Росавиация: директива по обновлению ПО не затрагивает самолёты Airbus A320 в РФ, там стоит старое, а не новое ПО с багом](https://habr.com/ru/news/971618/?utm_campaign=971618&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила новую базу данных Horizondb, совместимую с Postgres](https://habr.com/ru/news/971614/?utm_campaign=971614&utm_source=habrahabr&utm_medium=rss)
 - [Сообщения в WhatsApp могут содержать скрытые данные GPS: результаты криминалистической экспертизы](https://habr.com/ru/news/971474/?utm_campaign=971474&utm_source=habrahabr&utm_medium=rss)
-- [Публичные репозитории GitLab раскрыли более 17 000 секретов](https://habr.com/ru/news/971582/?utm_campaign=971582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
