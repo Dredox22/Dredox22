@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT исполнилось три года](https://habr.com/ru/news/971696/?utm_campaign=971696&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: обновления Windows делают функцию входа с паролем невидимой](https://habr.com/ru/news/971692/?utm_campaign=971692&utm_source=habrahabr&utm_medium=rss)
 - [Японский пивной гигант Asahi сообщил об утечке данных 1,9 млн человек](https://habr.com/ru/news/971684/?utm_campaign=971684&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.1, DeepSeek и другие ИИ ушли в минус торгуя акциями за реальные деньги](https://habr.com/ru/news/971670/?utm_campaign=971670&utm_source=habrahabr&utm_medium=rss)
 - [Harmonic привлекла $120 млн на создание математического суперразума Aristotle](https://habr.com/ru/news/971634/?utm_campaign=971634&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek — единственная в Китае компания, накопившая GPU. Остальные ищут ресурсы за рубежом](https://habr.com/ru/news/971622/?utm_campaign=971622&utm_source=habrahabr&utm_medium=rss)
-- [Росавиация: директива по обновлению ПО не затрагивает самолёты Airbus A320 в РФ, там стоит старое, а не новое ПО с багом](https://habr.com/ru/news/971618/?utm_campaign=971618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
