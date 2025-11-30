@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китайские ученые приблизились к решению главной проблемы квантовых компьютеров](https://habr.com/ru/news/971782/?utm_campaign=971782&utm_source=habrahabr&utm_medium=rss)
 - [В Индии мессенджеры обязали каждые 90 дней проверять активность сим-карт, привязанных к аккаунтам пользователей](https://habr.com/ru/news/971728/?utm_campaign=971728&utm_source=habrahabr&utm_medium=rss)
 - [В России произошел сбой в работе сервисов Google](https://habr.com/ru/news/971712/?utm_campaign=971712&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT исполнилось три года](https://habr.com/ru/news/971696/?utm_campaign=971696&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: обновления Windows делают функцию входа с паролем невидимой](https://habr.com/ru/news/971692/?utm_campaign=971692&utm_source=habrahabr&utm_medium=rss)
-- [Японский пивной гигант Asahi сообщил об утечке данных 1,9 млн человек](https://habr.com/ru/news/971684/?utm_campaign=971684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
