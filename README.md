@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Павел Дуров объявил о запуске децентрализованной сети для ИИ-вычислений](https://habr.com/ru/news/971824/?utm_campaign=971824&utm_source=habrahabr&utm_medium=rss)
+- [Росреестр представил законопроект о запрете сайтов‑двойников для защиты государственных картографических сервисов](https://habr.com/ru/news/971822/?utm_campaign=971822&utm_source=habrahabr&utm_medium=rss)
 - [Китайские ученые приблизились к решению главной проблемы квантовых компьютеров](https://habr.com/ru/news/971782/?utm_campaign=971782&utm_source=habrahabr&utm_medium=rss)
 - [В Индии мессенджеры обязали каждые 90 дней проверять активность сим-карт, привязанных к аккаунтам пользователей](https://habr.com/ru/news/971728/?utm_campaign=971728&utm_source=habrahabr&utm_medium=rss)
 - [В России произошел сбой в работе сервисов Google](https://habr.com/ru/news/971712/?utm_campaign=971712&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT исполнилось три года](https://habr.com/ru/news/971696/?utm_campaign=971696&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: обновления Windows делают функцию входа с паролем невидимой](https://habr.com/ru/news/971692/?utm_campaign=971692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
