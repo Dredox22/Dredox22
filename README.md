@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После GPT-4o OpenAI не выпустила ни одной по-настоящему новой модели ИИ — SemiAnalysis](https://habr.com/ru/news/971846/?utm_campaign=971846&utm_source=habrahabr&utm_medium=rss)
+- [Начался Advent of Code 2025 — адвент-календарь с задачами по программированию](https://habr.com/ru/news/971840/?utm_campaign=971840&utm_source=habrahabr&utm_medium=rss)
+- [В «Сферум» в Max появилась возможность создавать каналы для школ, колледжей и педагогов](https://habr.com/ru/news/971838/?utm_campaign=971838&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг РФ выделит 3 млрд рублей на оборудование для микроэлектроники в 2026–2028 годах](https://habr.com/ru/news/971830/?utm_campaign=971830&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров объявил о запуске децентрализованной сети для ИИ-вычислений](https://habr.com/ru/news/971824/?utm_campaign=971824&utm_source=habrahabr&utm_medium=rss)
-- [Росреестр представил законопроект о запрете сайтов‑двойников для защиты государственных картографических сервисов](https://habr.com/ru/news/971822/?utm_campaign=971822&utm_source=habrahabr&utm_medium=rss)
-- [Китайские ученые приблизились к решению главной проблемы квантовых компьютеров](https://habr.com/ru/news/971782/?utm_campaign=971782&utm_source=habrahabr&utm_medium=rss)
-- [В Индии мессенджеры обязали каждые 90 дней проверять активность сим-карт, привязанных к аккаунтам пользователей](https://habr.com/ru/news/971728/?utm_campaign=971728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
