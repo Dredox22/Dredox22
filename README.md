@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Угонщики грузовиков с товарами начали нанимать хакеров](https://habr.com/ru/news/971952/?utm_campaign=971952&utm_source=habrahabr&utm_medium=rss)
-- [Проект СИГМЫ — лауреат премии «1С: Проект года»](https://habr.com/ru/companies/sigma/news/971948/?utm_campaign=971948&utm_source=habrahabr&utm_medium=rss)
-- [Пичаи: вайб-кодинг полезен, но не везде](https://habr.com/ru/news/971940/?utm_campaign=971940&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» запустил оплату товаров и услуг в Китае по QR-коду на Alipay](https://habr.com/ru/news/971936/?utm_campaign=971936&utm_source=habrahabr&utm_medium=rss)
-- [Учебные измерительные стенды по прикладным СВЧ-технологиям миллиметровых волн для технических ВУЗов](https://habr.com/ru/companies/meta-catalog/news/971538/?utm_campaign=971538&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запустил бесплатный курс по тестированию мобильных приложений](https://habr.com/ru/companies/selectel/news/971944/?utm_campaign=971944&utm_source=habrahabr&utm_medium=rss)
+- [Пользователям «Шедеврума» разрешили зарабатывать на сгенерированном контенте](https://habr.com/ru/news/971972/?utm_campaign=971972&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия вредоноса ClickFix маскируется под обновление Windows](https://habr.com/ru/news/971966/?utm_campaign=971966&utm_source=habrahabr&utm_medium=rss)
+- [Прямой эфир про Spring Data JDBC с Михаилом Поливахой](https://habr.com/ru/companies/spring_aio/news/971970/?utm_campaign=971970&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива для съёмных носителей MiniOS 5.1](https://habr.com/ru/news/971628/?utm_campaign=971628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
