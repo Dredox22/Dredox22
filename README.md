@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Runway Gen-4.5 — как команда из 100 человек обставила OpenAI и Google в видеогенерации](https://habr.com/ru/news/972166/?utm_campaign=972166&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс и Линус Себастьян из Linus Tech Tips провели сборку идеального ПК для Linux](https://habr.com/ru/news/972142/?utm_campaign=972142&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek-V3.2: как открытая модель догоняет GPT-5 и берет «золото» олимпиад](https://habr.com/ru/news/972136/?utm_campaign=972136&utm_source=habrahabr&utm_medium=rss)
 - [Игры Grimps и «Царевна» от студии Watt официально выйдут на российской консоли Fplus](https://habr.com/ru/news/972132/?utm_campaign=972132&utm_source=habrahabr&utm_medium=rss)
 - [Airbus начала переводить сотрудников из Office в Google Workspace семь лет назад и до сих пор не завершила переход](https://habr.com/ru/news/972128/?utm_campaign=972128&utm_source=habrahabr&utm_medium=rss)
-- [Ведущий исследователь OpenAI: AGI — вопрос ближайших 5–20 лет, и в этом согласны все](https://habr.com/ru/news/972076/?utm_campaign=972076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
