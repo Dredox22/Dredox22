@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Угонщики грузовиков с товарами начали нанимать хакеров](https://habr.com/ru/news/971952/?utm_campaign=971952&utm_source=habrahabr&utm_medium=rss)
+- [Проект СИГМЫ — лауреат премии «1С: Проект года»](https://habr.com/ru/companies/sigma/news/971948/?utm_campaign=971948&utm_source=habrahabr&utm_medium=rss)
+- [Пичаи: вайб-кодинг полезен, но не везде](https://habr.com/ru/news/971940/?utm_campaign=971940&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» запустил оплату товаров и услуг в Китае по QR-коду на Alipay](https://habr.com/ru/news/971936/?utm_campaign=971936&utm_source=habrahabr&utm_medium=rss)
-- [Учебные измерительные стенды по различным прикладным технологиям миллиметровых волн для технических ВУЗов](https://habr.com/ru/companies/meta-catalog/news/971538/?utm_campaign=971538&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI придется раскрыть, как она обучала GPT-модели на пиратских книгах](https://habr.com/ru/news/971922/?utm_campaign=971922&utm_source=habrahabr&utm_medium=rss)
-- [Google Antigravity &lpar;агентная IDE, встроенная в экосистему Gemini&rpar; удалила файлы на диске D без разрешения пользователя](https://habr.com/ru/news/971898/?utm_campaign=971898&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 6.18](https://habr.com/ru/news/971732/?utm_campaign=971732&utm_source=habrahabr&utm_medium=rss)
+- [Учебные измерительные стенды по прикладным СВЧ-технологиям миллиметровых волн для технических ВУЗов](https://habr.com/ru/companies/meta-catalog/news/971538/?utm_campaign=971538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
