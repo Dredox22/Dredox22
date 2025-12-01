@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» запустил оплату товаров и услуг в Китае по QR-коду на Alipay](https://habr.com/ru/news/971936/?utm_campaign=971936&utm_source=habrahabr&utm_medium=rss)
+- [Учебные измерительные стенды по различным прикладным технологиям миллиметровых волн для технических ВУЗов](https://habr.com/ru/companies/meta-catalog/news/971538/?utm_campaign=971538&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI придется раскрыть, как она обучала GPT-модели на пиратских книгах](https://habr.com/ru/news/971922/?utm_campaign=971922&utm_source=habrahabr&utm_medium=rss)
 - [Google Antigravity &lpar;агентная IDE, встроенная в экосистему Gemini&rpar; удалила файлы на диске D без разрешения пользователя](https://habr.com/ru/news/971898/?utm_campaign=971898&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 6.18](https://habr.com/ru/news/971732/?utm_campaign=971732&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск 4MLinux 50.0](https://habr.com/ru/news/971664/?utm_campaign=971664&utm_source=habrahabr&utm_medium=rss)
-- [После GPT-4o OpenAI не выпустила ни одной по-настоящему новой модели ИИ — SemiAnalysis](https://habr.com/ru/news/971846/?utm_campaign=971846&utm_source=habrahabr&utm_medium=rss)
-- [Начался Advent of Code 2025 — адвент-календарь с задачами по программированию](https://habr.com/ru/news/971840/?utm_campaign=971840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
