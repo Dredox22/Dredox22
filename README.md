@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon предложила своим инженерам отказаться от инструментов генерации кода сторонних компаний в пользу Kiro](https://habr.com/ru/news/972066/?utm_campaign=972066&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup.VLD 2025 во Владивостоке: диагностика, DevOps-истории, спасение данных и DOOM внутри СУБД](https://habr.com/ru/companies/postgrespro/news/972060/?utm_campaign=972060&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар «Самые необычные применения BI. Решения, которые уже работают»](https://habr.com/ru/companies/luxms_bi/news/972050/?utm_campaign=972050&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek представила модели V3.2 и V3.2-Speciale: новый фокус на reasoning и агентные сценарии](https://habr.com/ru/news/972042/?utm_campaign=972042&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Linux-дистрибутива Solus 4.8 для энтузиастов](https://habr.com/ru/news/971722/?utm_campaign=971722&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ, лишённый способности лгать, чаще заявляет о самосознании](https://habr.com/ru/companies/bothub/news/972008/?utm_campaign=972008&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запустил бесплатный курс по тестированию мобильных приложений](https://habr.com/ru/companies/selectel/news/971944/?utm_campaign=971944&utm_source=habrahabr&utm_medium=rss)
-- [Пользователям «Шедеврума» разрешили зарабатывать на сгенерированном контенте](https://habr.com/ru/news/971972/?utm_campaign=971972&utm_source=habrahabr&utm_medium=rss)
-- [Новая версия вредоноса ClickFix маскируется под обновление Windows](https://habr.com/ru/news/971966/?utm_campaign=971966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
