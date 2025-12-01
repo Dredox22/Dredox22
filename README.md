@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbus начала переводить сотрудников из Office в Google Workspace семь лет назад и до сих пор не завершила переход](https://habr.com/ru/news/972128/?utm_campaign=972128&utm_source=habrahabr&utm_medium=rss)
 - [Ведущий исследователь OpenAI: AGI — вопрос ближайших 5–20 лет, и в этом согласны все](https://habr.com/ru/news/972076/?utm_campaign=972076&utm_source=habrahabr&utm_medium=rss)
 - [Amazon предложила своим инженерам отказаться от инструментов генерации кода сторонних компаний в пользу Kiro](https://habr.com/ru/news/972066/?utm_campaign=972066&utm_source=habrahabr&utm_medium=rss)
 - [PGMeetup.VLD 2025 во Владивостоке: диагностика, DevOps-истории, спасение данных и DOOM внутри СУБД](https://habr.com/ru/companies/postgrespro/news/972060/?utm_campaign=972060&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Самые необычные применения BI. Решения, которые уже работают»](https://habr.com/ru/companies/luxms_bi/news/972050/?utm_campaign=972050&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek представила модели V3.2 и V3.2-Speciale: новый фокус на reasoning и агентные сценарии](https://habr.com/ru/news/972042/?utm_campaign=972042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
