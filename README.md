@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Antigravity &lpar;агентная IDE, встроенная в экосистему Gemini&rpar; удалила файлы на диске D без разрешения](https://habr.com/ru/news/971898/?utm_campaign=971898&utm_source=habrahabr&utm_medium=rss)
+- [Google Antigravity &lpar;агентная IDE, встроенная в экосистему Gemini&rpar; удалила файлы на диске D без разрешения пользователя](https://habr.com/ru/news/971898/?utm_campaign=971898&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 6.18](https://habr.com/ru/news/971732/?utm_campaign=971732&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск 4MLinux 50.0](https://habr.com/ru/news/971664/?utm_campaign=971664&utm_source=habrahabr&utm_medium=rss)
 - [После GPT-4o OpenAI не выпустила ни одной по-настоящему новой модели ИИ — SemiAnalysis](https://habr.com/ru/news/971846/?utm_campaign=971846&utm_source=habrahabr&utm_medium=rss)
