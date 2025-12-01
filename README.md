@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск Linux-дистрибутива Solus 4.8 для энтузиастов](https://habr.com/ru/news/971722/?utm_campaign=971722&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: ИИ, лишённый способности лгать, чаще заявляет о самосознании](https://habr.com/ru/companies/bothub/news/972008/?utm_campaign=972008&utm_source=habrahabr&utm_medium=rss)
 - [Selectel запустил бесплатный курс по тестированию мобильных приложений](https://habr.com/ru/companies/selectel/news/971944/?utm_campaign=971944&utm_source=habrahabr&utm_medium=rss)
 - [Пользователям «Шедеврума» разрешили зарабатывать на сгенерированном контенте](https://habr.com/ru/news/971972/?utm_campaign=971972&utm_source=habrahabr&utm_medium=rss)
 - [Новая версия вредоноса ClickFix маскируется под обновление Windows](https://habr.com/ru/news/971966/?utm_campaign=971966&utm_source=habrahabr&utm_medium=rss)
-- [Прямой эфир про Spring Data JDBC с Михаилом Поливахой](https://habr.com/ru/companies/spring_aio/news/971970/?utm_campaign=971970&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива для съёмных носителей MiniOS 5.1](https://habr.com/ru/news/971628/?utm_campaign=971628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
