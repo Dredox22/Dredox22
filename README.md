@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновлённый ИИ в «Блокноте» в Windows 11 теперь будет показывать, как набирает текст](https://habr.com/ru/news/971854/?utm_campaign=971854&utm_source=habrahabr&utm_medium=rss)
+- [Apple отклонила директиву властей Индии об предустановке специальных приложений для кибербезопасности](https://habr.com/ru/news/972628/?utm_campaign=972628&utm_source=habrahabr&utm_medium=rss)
 - [Mistral выпустила модель Large 3 675B и девять версий Ministral 3 &lpar;3B/8B/14B × Base/Instruct/Reasoning&rpar;](https://habr.com/ru/companies/bothub/news/972598/?utm_campaign=972598&utm_source=habrahabr&utm_medium=rss)
 - [EdenSpark: ЗБТ новой платформы для создания игр](https://habr.com/ru/news/972590/?utm_campaign=972590&utm_source=habrahabr&utm_medium=rss)
 - [У студии-разработчика «Смуты» и «Земского собора» сменился глава](https://habr.com/ru/news/972586/?utm_campaign=972586&utm_source=habrahabr&utm_medium=rss)
-- [Утечка «Soul doc»: пользователь извлёк из Claude 4.5 Opus тренировочный документ](https://habr.com/ru/companies/bothub/news/972570/?utm_campaign=972570&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты электроники обеспокоены изменениями в ToS Arduino](https://habr.com/ru/news/972568/?utm_campaign=972568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
