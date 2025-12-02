@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман объявил «красную тревогу»: Google и Anthropic загоняют ChatGPT в оборону](https://habr.com/ru/news/972284/?utm_campaign=972284&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытой платформы для автоматизации бизнес-процессов малых предприятий MyCompany 6.1](https://habr.com/ru/news/972174/?utm_campaign=972174&utm_source=habrahabr&utm_medium=rss)
 - [В сети появилась стоимость базовой версии электромобиля «Атом» для розничных клиентов — 3,9 млн рублей](https://habr.com/ru/news/972264/?utm_campaign=972264&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.18](https://habr.com/ru/news/972196/?utm_campaign=972196&utm_source=habrahabr&utm_medium=rss)
 - [Video O1 от Kling AI обходит Veo 3.1 в обработке исходных изображений](https://habr.com/ru/companies/bothub/news/972244/?utm_campaign=972244&utm_source=habrahabr&utm_medium=rss)
-- [«Nano Banana Pro для видео» — вышла универсальная модель Kling O1](https://habr.com/ru/news/972242/?utm_campaign=972242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
