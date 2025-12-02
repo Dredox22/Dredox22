@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Airbus отчиталась о модификации самолётов A320](https://habr.com/ru/news/972324/?utm_campaign=972324&utm_source=habrahabr&utm_medium=rss)
-- [Наши слоны, грибочки и EEVA победители Хакатона AI Challenge Banking](https://habr.com/ru/companies/itmai/news/972134/?utm_campaign=972134&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/972312/?utm_campaign=972312&utm_source=habrahabr&utm_medium=rss)
-- [Arcee Trinity 6/26/420B: новые открытые модели Apache 2.0 из США](https://habr.com/ru/companies/bothub/news/972296/?utm_campaign=972296&utm_source=habrahabr&utm_medium=rss)
-- [Ученые рассказали о главном преимуществе мозга над ИИ — и как его можно скопировать](https://habr.com/ru/news/972294/?utm_campaign=972294&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» представила учебный онлайн-проект «Карта профессий в ИБ»](https://habr.com/ru/news/972362/?utm_campaign=972362&utm_source=habrahabr&utm_medium=rss)
+- [Объём краудфандинга Star Citizen превысил $900 млн](https://habr.com/ru/news/972356/?utm_campaign=972356&utm_source=habrahabr&utm_medium=rss)
+- [«ДОМ.РФ» протестировал онлайн-полигон Standoff Defend компании Positive Technologies](https://habr.com/ru/companies/pt/news/972352/?utm_campaign=972352&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: новый Outlook не может открывать некоторые вложения в Excel](https://habr.com/ru/news/972346/?utm_campaign=972346&utm_source=habrahabr&utm_medium=rss)
+- [Opera добавила в браузеры функции ИИ на базе Gemini](https://habr.com/ru/news/972334/?utm_campaign=972334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
