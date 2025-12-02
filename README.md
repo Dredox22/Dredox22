@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Не учите ИИ плохому: как модели запоминают грамматические фигуры вместо смысла](https://habr.com/ru/companies/bothub/news/972526/?utm_campaign=972526&utm_source=habrahabr&utm_medium=rss)
 - [Рутокен Логон для Linux: импортозамещенная двухфакторная аутентификация для корпоративных рабочих станций](https://habr.com/ru/companies/aktiv-company/news/972518/?utm_campaign=972518&utm_source=habrahabr&utm_medium=rss)
 - [Как устроен сервис Audit Logs в MWS Cloud Platform — в новом эпизоде Building the Cloud](https://habr.com/ru/companies/mws/news/972508/?utm_campaign=972508&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT может получить новую модель на следующей неделе — она «будет лучше Gemini 3 Pro»](https://habr.com/ru/news/972490/?utm_campaign=972490&utm_source=habrahabr&utm_medium=rss)
 - [Джонатан Сиддхарт, CEO Turing: почему простого data labeling больше нет и что будет вместо этого](https://habr.com/ru/companies/bothub/news/972458/?utm_campaign=972458&utm_source=habrahabr&utm_medium=rss)
-- [В Let&#39;s Encrypt приступили к поэтапному уменьшению срока действия сертификатов](https://habr.com/ru/news/972452/?utm_campaign=972452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
