@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Джонатан Сиддхарт, CEO Turing: почему простого data labeling больше нет и что будет вместо этого](https://habr.com/ru/companies/bothub/news/972458/?utm_campaign=972458&utm_source=habrahabr&utm_medium=rss)
+- [В Let&#39;s Encrypt приступили к поэтапному уменьшению срока действия сертификатов](https://habr.com/ru/news/972452/?utm_campaign=972452&utm_source=habrahabr&utm_medium=rss)
 - [Nikon и студия RED анонсировали пресеты для встроенных фильтров камер](https://habr.com/ru/news/972428/?utm_campaign=972428&utm_source=habrahabr&utm_medium=rss)
 - [В «Группе Астра» признались, что пользователям не нравится их операционная система](https://habr.com/ru/companies/femida_search/news/972440/?utm_campaign=972440&utm_source=habrahabr&utm_medium=rss)
 - [Крупные IT-компании теперь обязаны отчислять вузам 3% от сэкономленных налогов](https://habr.com/ru/companies/femida_search/news/972434/?utm_campaign=972434&utm_source=habrahabr&utm_medium=rss)
-- [Мессенджер Session представил Session Protocol V2](https://habr.com/ru/news/972408/?utm_campaign=972408&utm_source=habrahabr&utm_medium=rss)
-- [Инструмент OpenAI получит доступ к фотографиям детей в игре отслеживания Санта-Клауса](https://habr.com/ru/news/972390/?utm_campaign=972390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
