@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [EdenSpark: ЗБТ новой платформы для создания игр](https://habr.com/ru/news/972590/?utm_campaign=972590&utm_source=habrahabr&utm_medium=rss)
+- [У студии-разработчика «Смуты» и «Земского собора» сменился глава](https://habr.com/ru/news/972586/?utm_campaign=972586&utm_source=habrahabr&utm_medium=rss)
+- [Утечка «Soul doc»: пользователь извлёк из Claude 4.5 Opus тренировочный документ](https://habr.com/ru/companies/bothub/news/972570/?utm_campaign=972570&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиасты электроники обеспокоены изменениями в ToS Arduino](https://habr.com/ru/news/972568/?utm_campaign=972568&utm_source=habrahabr&utm_medium=rss)
 - [Компания OpenAGI выпустила новый ИИ Lux, который автономно управляет компьютером](https://habr.com/ru/news/972546/?utm_campaign=972546&utm_source=habrahabr&utm_medium=rss)
-- [Не учите ИИ плохому: как модели запоминают грамматические фигуры вместо смысла](https://habr.com/ru/companies/bothub/news/972526/?utm_campaign=972526&utm_source=habrahabr&utm_medium=rss)
-- [Рутокен Логон для Linux: импортозамещенная двухфакторная аутентификация для корпоративных рабочих станций](https://habr.com/ru/companies/aktiv-company/news/972518/?utm_campaign=972518&utm_source=habrahabr&utm_medium=rss)
-- [Как устроен сервис Audit Logs в MWS Cloud Platform — в новом эпизоде Building the Cloud](https://habr.com/ru/companies/mws/news/972508/?utm_campaign=972508&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT может получить новую модель на следующей неделе — она «будет лучше Gemini 3 Pro»](https://habr.com/ru/news/972490/?utm_campaign=972490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
