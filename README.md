@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструмент OpenAI получит доступ к фотографиям детей в игре отслеживания Санта-Клауса](https://habr.com/ru/news/972390/?utm_campaign=972390&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила рождественские свитера с артефактами из прошлого](https://habr.com/ru/news/972384/?utm_campaign=972384&utm_source=habrahabr&utm_medium=rss)
+- [Итоги хакатона AI Challenge Banking МАИ и ПСБ](https://habr.com/ru/companies/psb/news/972378/?utm_campaign=972378&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» представила учебный онлайн-проект «Карта профессий в ИБ»](https://habr.com/ru/news/972362/?utm_campaign=972362&utm_source=habrahabr&utm_medium=rss)
 - [Объём краудфандинга Star Citizen превысил $900 млн](https://habr.com/ru/news/972356/?utm_campaign=972356&utm_source=habrahabr&utm_medium=rss)
-- [«ДОМ.РФ» протестировал онлайн-полигон Standoff Defend компании Positive Technologies](https://habr.com/ru/companies/pt/news/972352/?utm_campaign=972352&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: новый Outlook не может открывать некоторые вложения в Excel](https://habr.com/ru/news/972346/?utm_campaign=972346&utm_source=habrahabr&utm_medium=rss)
-- [Opera добавила в браузеры функции ИИ на базе Gemini](https://habr.com/ru/news/972334/?utm_campaign=972334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
