@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Их задача — не дать ИИ все разрушить». Как работает команда безопасности Anthropic](https://habr.com/ru/news/972640/?utm_campaign=972640&utm_source=habrahabr&utm_medium=rss)
+- [Французский стартап представил линейку Mistral 3: 675 миллиардов параметров в open source](https://habr.com/ru/news/972632/?utm_campaign=972632&utm_source=habrahabr&utm_medium=rss)
 - [Обновлённый ИИ в «Блокноте» в Windows 11 теперь будет показывать, как набирает текст](https://habr.com/ru/news/971854/?utm_campaign=971854&utm_source=habrahabr&utm_medium=rss)
 - [Apple отклонила директиву властей Индии об предустановке специальных приложений для кибербезопасности](https://habr.com/ru/news/972628/?utm_campaign=972628&utm_source=habrahabr&utm_medium=rss)
 - [Mistral выпустила модель Large 3 675B и девять версий Ministral 3 &lpar;3B/8B/14B × Base/Instruct/Reasoning&rpar;](https://habr.com/ru/companies/bothub/news/972598/?utm_campaign=972598&utm_source=habrahabr&utm_medium=rss)
-- [EdenSpark: ЗБТ новой платформы для создания игр](https://habr.com/ru/news/972590/?utm_campaign=972590&utm_source=habrahabr&utm_medium=rss)
-- [У студии-разработчика «Смуты» и «Земского собора» сменился глава](https://habr.com/ru/news/972586/?utm_campaign=972586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
