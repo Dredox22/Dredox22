@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сети появилась стоимость базовой версии электромобиля «Атом» для розничных клиентов — 3,9 млн рублей](https://habr.com/ru/news/972264/?utm_campaign=972264&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.18](https://habr.com/ru/news/972196/?utm_campaign=972196&utm_source=habrahabr&utm_medium=rss)
 - [Video O1 от Kling AI обходит Veo 3.1 в обработке исходных изображений](https://habr.com/ru/companies/bothub/news/972244/?utm_campaign=972244&utm_source=habrahabr&utm_medium=rss)
 - [«Nano Banana Pro для видео» — вышла универсальная модель Kling O1](https://habr.com/ru/news/972242/?utm_campaign=972242&utm_source=habrahabr&utm_medium=rss)
 - [Amazon и Google анонсировали сетевую службу Multicloud и открытый API для обеспечения взаимодействия](https://habr.com/ru/news/972208/?utm_campaign=972208&utm_source=habrahabr&utm_medium=rss)
-- [Runway Gen-4.5 — как команда из 100 человек обставила OpenAI и Google в видеогенерации](https://habr.com/ru/news/972166/?utm_campaign=972166&utm_source=habrahabr&utm_medium=rss)
-- [Линус Торвальдс и Линус Себастьян из Linus Tech Tips провели сборку идеального ПК для Linux](https://habr.com/ru/news/972142/?utm_campaign=972142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
