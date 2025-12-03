@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Функция Android «Причина вызова» отмечает важные звонки ещё до того, как пользователь ответит на них](https://habr.com/ru/news/972710/?utm_campaign=972710&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор зафиксировал мощную четырёхсуточную DDoS-атаку на системы операторов связи РФ](https://habr.com/ru/news/972704/?utm_campaign=972704&utm_source=habrahabr&utm_medium=rss)
-- [«Мы не знаем, где он остановится»: сооснователь Anthropic — о предельном риске ИИ](https://habr.com/ru/news/972698/?utm_campaign=972698&utm_source=habrahabr&utm_medium=rss)
-- [Amazon запускает ИИ фабрики прямо внутри компаний](https://habr.com/ru/companies/bothub/news/972692/?utm_campaign=972692&utm_source=habrahabr&utm_medium=rss)
-- [Amazon представила Trainium3 — обещана выгода до 50% в сравнении с GPU Nvidia](https://habr.com/ru/news/972688/?utm_campaign=972688&utm_source=habrahabr&utm_medium=rss)
+- [Новый режим поиска Google объединяет AI Overviews и AI Mode в один клик](https://habr.com/ru/companies/bothub/news/972744/?utm_campaign=972744&utm_source=habrahabr&utm_medium=rss)
+- [Magic Quadrant for Intelligent Document Processing Solutions](https://habr.com/ru/news/972734/?utm_campaign=972734&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic купила разработчика открытого движка Bun](https://habr.com/ru/news/972730/?utm_campaign=972730&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic покупает Bun, а Claude Code достигает годовой выручки в $1 млрд](https://habr.com/ru/news/972728/?utm_campaign=972728&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI работает над интеграцией приложения «Здоровье» от Apple в ChatGPT](https://habr.com/ru/news/972718/?utm_campaign=972718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
