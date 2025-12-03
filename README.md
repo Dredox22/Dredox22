@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование Steam в Linux в ноябре 2025 года достигло нового рекорда — 3,2%](https://habr.com/ru/news/972804/?utm_campaign=972804&utm_source=habrahabr&utm_medium=rss)
 - [Canonical представила подписку Ubuntu Pro в WSL для пользователей Windows 11](https://habr.com/ru/news/972766/?utm_campaign=972766&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи РФ сообщили о проблемах подключения к игровой платформы Roblox](https://habr.com/ru/news/972772/?utm_campaign=972772&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил Storm Search — плагин для VS Code с улучшенным глобальным поиском по кодовой базе](https://habr.com/ru/news/972768/?utm_campaign=972768&utm_source=habrahabr&utm_medium=rss)
 - [SmartTube для Android TV скомпрометировали после кражи ключей подписи разработчика](https://habr.com/ru/news/972756/?utm_campaign=972756&utm_source=habrahabr&utm_medium=rss)
-- [Внутреннее исследование Anthropic: рост output, падение deep-skills и новая роль разработчика](https://habr.com/ru/news/972758/?utm_campaign=972758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
