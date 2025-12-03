@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon представила Trainium3 — обещана выгода до 50% в сравнении с GPU Nvidia](https://habr.com/ru/news/972688/?utm_campaign=972688&utm_source=habrahabr&utm_medium=rss)
+- [В Google в курсе проблемы, что ИИ-помощник Google Antigravity удаляет файлы без разрешения пользователей](https://habr.com/ru/news/972674/?utm_campaign=972674&utm_source=habrahabr&utm_medium=rss)
 - [Приложение TrueConf для ВКС стало доступно пользователям на мобильной ОС «Аврора»](https://habr.com/ru/news/972672/?utm_campaign=972672&utm_source=habrahabr&utm_medium=rss)
 - [Вышла FreeBSD 15.0](https://habr.com/ru/news/972418/?utm_campaign=972418&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления DaVinci Resolve 20.3](https://habr.com/ru/news/972438/?utm_campaign=972438&utm_source=habrahabr&utm_medium=rss)
-- [«Их задача — не дать ИИ все разрушить». Как работает команда безопасности Anthropic](https://habr.com/ru/news/972640/?utm_campaign=972640&utm_source=habrahabr&utm_medium=rss)
-- [Французский стартап представил линейку Mistral 3: 675 миллиардов параметров в open source](https://habr.com/ru/news/972632/?utm_campaign=972632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
