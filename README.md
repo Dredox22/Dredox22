@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла видеомодель Kling 2.6 с нативным аудио — ее называют конкурентом Veo 3.1 и Sora 2](https://habr.com/ru/news/973036/?utm_campaign=973036&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi представила плату RPi 5 с 1 ГБ ОЗУ и повысила цены на другие одноплатники](https://habr.com/ru/news/973014/?utm_campaign=973014&utm_source=habrahabr&utm_medium=rss)
 - [Спустя два месяца «сделка века» между Nvidia и OpenAI так и не подписана. На кону $100 млрд](https://habr.com/ru/news/973004/?utm_campaign=973004&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор подтвердил блокировку платформы Roblox в РФ, что дальше?](https://habr.com/ru/news/972998/?utm_campaign=972998&utm_source=habrahabr&utm_medium=rss)
 - [AWS открывает путь к корпоративному ИИ: создавайте свои модели на облаке](https://habr.com/ru/companies/bothub/news/972988/?utm_campaign=972988&utm_source=habrahabr&utm_medium=rss)
-- [Соперник Nano Banana Pro: вышла Seedream 4.5 от создателей TikTok](https://habr.com/ru/news/972976/?utm_campaign=972976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
