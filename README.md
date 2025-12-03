@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Функция Android «Причина вызова» отмечает важные звонки ещё до того, как пользователь ответит на них](https://habr.com/ru/news/972710/?utm_campaign=972710&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор зафиксировал мощную четырёхсуточную DDoS-атаку на системы операторов связи РФ](https://habr.com/ru/news/972704/?utm_campaign=972704&utm_source=habrahabr&utm_medium=rss)
+- [«Мы не знаем, где он остановится»: сооснователь Anthropic — о предельном риске ИИ](https://habr.com/ru/news/972698/?utm_campaign=972698&utm_source=habrahabr&utm_medium=rss)
+- [Amazon запускает ИИ фабрики прямо внутри компаний](https://habr.com/ru/companies/bothub/news/972692/?utm_campaign=972692&utm_source=habrahabr&utm_medium=rss)
 - [Amazon представила Trainium3 — обещана выгода до 50% в сравнении с GPU Nvidia](https://habr.com/ru/news/972688/?utm_campaign=972688&utm_source=habrahabr&utm_medium=rss)
-- [В Google в курсе проблемы, что ИИ-помощник Google Antigravity удаляет файлы без разрешения пользователей](https://habr.com/ru/news/972674/?utm_campaign=972674&utm_source=habrahabr&utm_medium=rss)
-- [Приложение TrueConf для ВКС стало доступно пользователям на мобильной ОС «Аврора»](https://habr.com/ru/news/972672/?utm_campaign=972672&utm_source=habrahabr&utm_medium=rss)
-- [Вышла FreeBSD 15.0](https://habr.com/ru/news/972418/?utm_campaign=972418&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления DaVinci Resolve 20.3](https://habr.com/ru/news/972438/?utm_campaign=972438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
