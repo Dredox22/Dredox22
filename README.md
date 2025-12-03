@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Использование Steam в Linux в ноябре 2025 года достигло нового рекорда — 3,2%](https://habr.com/ru/news/972804/?utm_campaign=972804&utm_source=habrahabr&utm_medium=rss)
-- [Canonical представила подписку Ubuntu Pro в WSL для пользователей Windows 11](https://habr.com/ru/news/972766/?utm_campaign=972766&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи РФ сообщили о проблемах подключения к игровой платформы Roblox](https://habr.com/ru/news/972772/?utm_campaign=972772&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил Storm Search — плагин для VS Code с улучшенным глобальным поиском по кодовой базе](https://habr.com/ru/news/972768/?utm_campaign=972768&utm_source=habrahabr&utm_medium=rss)
-- [SmartTube для Android TV скомпрометировали после кражи ключей подписи разработчика](https://habr.com/ru/news/972756/?utm_campaign=972756&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT захватил черную пятницу: переходы на ритейл‑приложения выросли на 28 процентов](https://habr.com/ru/companies/bothub/news/972850/?utm_campaign=972850&utm_source=habrahabr&utm_medium=rss)
+- [Новая модель DeepSeek V3.2 уже доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/972712/?utm_campaign=972712&utm_source=habrahabr&utm_medium=rss)
+- [Честное сравнение хостинга PostgreSQL локально и в облаке](https://habr.com/ru/companies/cloud_ru/news/972724/?utm_campaign=972724&utm_source=habrahabr&utm_medium=rss)
+- [Последнее обновление принесло тёмный режим для диалоговых окон «Проводника» с мерцанием](https://habr.com/ru/news/972836/?utm_campaign=972836&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик дал трем ИИ задачу собрать клон Counter-Strike. Вот что из этого вышло](https://habr.com/ru/news/972834/?utm_campaign=972834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
