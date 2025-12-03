@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор подтвердил блокировку платформы в РФ, что дальше?](https://habr.com/ru/news/972998/?utm_campaign=972998&utm_source=habrahabr&utm_medium=rss)
 - [AWS открывает путь к корпоративному ИИ: создавайте свои модели на облаке](https://habr.com/ru/companies/bothub/news/972988/?utm_campaign=972988&utm_source=habrahabr&utm_medium=rss)
 - [Соперник Nano Banana Pro: вышла Seedream 4.5 от создателей TikTok](https://habr.com/ru/news/972976/?utm_campaign=972976&utm_source=habrahabr&utm_medium=rss)
 - [Рынок векторных баз под угрозой, Amazon встроил поиск по embedding-вектору прямо в S3](https://habr.com/ru/companies/bothub/news/972964/?utm_campaign=972964&utm_source=habrahabr&utm_medium=rss)
 - [За три года после релиза ChatGPT изменил подход пользователей сети к поиску информации](https://habr.com/ru/news/972960/?utm_campaign=972960&utm_source=habrahabr&utm_medium=rss)
-- [В веб-интерфейсе Deckhouse Kubernetes Platform появился встроенный мониторинг](https://habr.com/ru/companies/flant/news/972870/?utm_campaign=972870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
