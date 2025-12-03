@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первый публичный ИИ-гигант. Anthropic намекает на IPO в 2026 году](https://habr.com/ru/companies/bothub/news/972876/?utm_campaign=972876&utm_source=habrahabr&utm_medium=rss)
+- [В тестовой сборке Telegram для Android появилась поддержка технологии Passkey](https://habr.com/ru/news/972860/?utm_campaign=972860&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT захватил черную пятницу: переходы на ритейл‑приложения выросли на 28 процентов](https://habr.com/ru/companies/bothub/news/972850/?utm_campaign=972850&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель DeepSeek V3.2 уже доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/972712/?utm_campaign=972712&utm_source=habrahabr&utm_medium=rss)
 - [Честное сравнение хостинга PostgreSQL локально и в облаке](https://habr.com/ru/companies/cloud_ru/news/972724/?utm_campaign=972724&utm_source=habrahabr&utm_medium=rss)
-- [Последнее обновление принесло тёмный режим для диалоговых окон «Проводника» с мерцанием](https://habr.com/ru/news/972836/?utm_campaign=972836&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик дал трем ИИ задачу собрать клон Counter-Strike. Вот что из этого вышло](https://habr.com/ru/news/972834/?utm_campaign=972834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
