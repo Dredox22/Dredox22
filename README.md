@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Первый публичный ИИ-гигант. Anthropic намекает на IPO в 2026 году](https://habr.com/ru/companies/bothub/news/972876/?utm_campaign=972876&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой сборке Telegram для Android появилась поддержка технологии Passkey](https://habr.com/ru/news/972860/?utm_campaign=972860&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT захватил черную пятницу: переходы на ритейл‑приложения выросли на 28 процентов](https://habr.com/ru/companies/bothub/news/972850/?utm_campaign=972850&utm_source=habrahabr&utm_medium=rss)
-- [Новая модель DeepSeek V3.2 уже доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/972712/?utm_campaign=972712&utm_source=habrahabr&utm_medium=rss)
-- [Честное сравнение хостинга PostgreSQL локально и в облаке](https://habr.com/ru/companies/cloud_ru/news/972724/?utm_campaign=972724&utm_source=habrahabr&utm_medium=rss)
+- [За три года после релиза ChatGPT изменил подход пользователей сети к поиску информации](https://habr.com/ru/news/972960/?utm_campaign=972960&utm_source=habrahabr&utm_medium=rss)
+- [В веб-интерфейсе Deckhouse Kubernetes Platform появился встроенный мониторинг](https://habr.com/ru/companies/flant/news/972870/?utm_campaign=972870&utm_source=habrahabr&utm_medium=rss)
+- [Linux 6.18 официально стал выпуском ядра с долгосрочной поддержкой &lpar;LTS&rpar;](https://habr.com/ru/news/972950/?utm_campaign=972950&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор ограничил доступ к сервисам игровой платформы Roblox для пользователей в РФ](https://habr.com/ru/news/972936/?utm_campaign=972936&utm_source=habrahabr&utm_medium=rss)
+- [Правительство утвердило переход на обязательную цифровую маркировку электроники к 2027 году](https://habr.com/ru/news/972930/?utm_campaign=972930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
