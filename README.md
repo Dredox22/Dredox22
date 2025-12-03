@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новый режим поиска Google объединяет AI Overviews и AI Mode в один клик](https://habr.com/ru/companies/bothub/news/972744/?utm_campaign=972744&utm_source=habrahabr&utm_medium=rss)
-- [Magic Quadrant for Intelligent Document Processing Solutions](https://habr.com/ru/news/972734/?utm_campaign=972734&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic купила разработчика открытого движка Bun](https://habr.com/ru/news/972730/?utm_campaign=972730&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic покупает Bun, а Claude Code достигает годовой выручки в $1 млрд](https://habr.com/ru/news/972728/?utm_campaign=972728&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI работает над интеграцией приложения «Здоровье» от Apple в ChatGPT](https://habr.com/ru/news/972718/?utm_campaign=972718&utm_source=habrahabr&utm_medium=rss)
+- [Canonical представила подписку Ubuntu Pro в WSL для пользователей Windows 11](https://habr.com/ru/news/972766/?utm_campaign=972766&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи РФ сообщили о проблемах подключения к игровой платформы Roblox](https://habr.com/ru/news/972772/?utm_campaign=972772&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил Storm Search — плагин для VS Code с улучшенным глобальным поиском по кодовой базе](https://habr.com/ru/news/972768/?utm_campaign=972768&utm_source=habrahabr&utm_medium=rss)
+- [SmartTube для Android TV скомпрометировали после кражи ключей подписи разработчика](https://habr.com/ru/news/972756/?utm_campaign=972756&utm_source=habrahabr&utm_medium=rss)
+- [Внутреннее исследование Anthropic: рост output, падение deep-skills и новая роль разработчика](https://habr.com/ru/news/972758/?utm_campaign=972758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
