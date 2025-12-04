@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователи Яндекса представили RATE — новый метод для оценки и улучшения машинного перевода](https://habr.com/ru/companies/yandex/news/972912/?utm_campaign=972912&utm_source=habrahabr&utm_medium=rss)
-- [Дейв Пламмер раскритиковал Windows 11 за объём ИИ-функций](https://habr.com/ru/news/973150/?utm_campaign=973150&utm_source=habrahabr&utm_medium=rss)
-- [MinIO перевёл репозиторий в режим maintenance: развитие остановлено](https://habr.com/ru/news/973148/?utm_campaign=973148&utm_source=habrahabr&utm_medium=rss)
-- [Ghostty стала некоммерческой организацией](https://habr.com/ru/news/973142/?utm_campaign=973142&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Django 6.0: фоновые задачи, частичные шаблоны и обновлённая безопасность](https://habr.com/ru/news/973132/?utm_campaign=973132&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla разрабатывает инструмент резервного копирования Firefox для простого перехода с Windows 10 на Windows 11](https://habr.com/ru/news/973048/?utm_campaign=973048&utm_source=habrahabr&utm_medium=rss)
+- [Opera интегрировала Gemini в десктопные браузеры One и GX](https://habr.com/ru/companies/bothub/news/973212/?utm_campaign=973212&utm_source=habrahabr&utm_medium=rss)
+- [Как обеспечить безопасность в Kubernetes?](https://habr.com/ru/companies/chislitellab/news/973204/?utm_campaign=973204&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI купит компанию анализа ИИ-моделей Neptune](https://habr.com/ru/news/973196/?utm_campaign=973196&utm_source=habrahabr&utm_medium=rss)
+- [Новый Kling 2.6 научился генерировать видео с озвучкой](https://habr.com/ru/companies/bothub/news/973112/?utm_campaign=973112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
