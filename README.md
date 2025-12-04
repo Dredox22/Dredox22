@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* перехватила звезду дизайна Apple для создания новых устройств виртуальной реальности](https://habr.com/ru/companies/bothub/news/973220/?utm_campaign=973220&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains представила Air: новую агентную IDE](https://habr.com/ru/news/973380/?utm_campaign=973380&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс представил RATE, новую методику оценки качества перевода с акцентом на естественность речи](https://habr.com/ru/companies/bothub/news/973368/?utm_campaign=973368&utm_source=habrahabr&utm_medium=rss)
 - [Unity «сворачивают» Multiplay Hosting](https://habr.com/ru/news/973356/?utm_campaign=973356&utm_source=habrahabr&utm_medium=rss)
 - [Немного цифр про Koda — делимся тем, что происходит сейчас](https://habr.com/ru/companies/koda/news/973354/?utm_campaign=973354&utm_source=habrahabr&utm_medium=rss)
-- [Госдума легализовала платный доступ к базам МВД для бизнеса](https://habr.com/ru/companies/femida_search/news/973344/?utm_campaign=973344&utm_source=habrahabr&utm_medium=rss)
-- [«В React нашли критическую уязвимость, срочно патчите софт!!!». Спокойно, «Штурвал» не затронуло, патчи не нужны](https://habr.com/ru/companies/chislitellab/news/973328/?utm_campaign=973328&utm_source=habrahabr&utm_medium=rss)
-- [Как создать умных ИИ‑агентов: работа с MCP](https://habr.com/ru/companies/mws/news/972884/?utm_campaign=972884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
