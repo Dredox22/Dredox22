@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MinIO перевёл репозиторий в режим maintenance: развитие остановлено](https://habr.com/ru/news/973148/?utm_campaign=973148&utm_source=habrahabr&utm_medium=rss)
+- [Ghostty стала некоммерческой организацией](https://habr.com/ru/news/973142/?utm_campaign=973142&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Django 6.0: фоновые задачи, частичные шаблоны и обновлённая безопасность](https://habr.com/ru/news/973132/?utm_campaign=973132&utm_source=habrahabr&utm_medium=rss)
+- [Стартап UMA выводит роботов для промышленности и сервисных сфер](https://habr.com/ru/companies/bothub/news/973090/?utm_campaign=973090&utm_source=habrahabr&utm_medium=rss)
 - [Leroy Merlin уведомила клиентов об утечке информации, в результате которой их персональные данные были скомпрометированы](https://habr.com/ru/news/973120/?utm_campaign=973120&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Excel упростило решение проблем с ошибками в ячейках](https://habr.com/ru/news/973116/?utm_campaign=973116&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия открытого проекта TornadoVM 2.0.0 для запуска Java на гетерогенном оборудовании: CPU, GPU и FPGA](https://habr.com/ru/news/972684/?utm_campaign=972684&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.2 на подходе? OpenAI начала тестировать новую модель на Design Arena](https://habr.com/ru/news/973092/?utm_campaign=973092&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила технику Confessions которая учит модели честно сообщать о собственных ошибках](https://habr.com/ru/companies/bothub/news/973084/?utm_campaign=973084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
