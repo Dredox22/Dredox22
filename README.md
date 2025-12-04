@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать умных ИИ‑агентов: работа с MCP](https://habr.com/ru/companies/mws/news/972884/?utm_campaign=972884&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains задеприкейтили K1: начиная с IntelliJ IDEA 2025.3 основным и единственным актуальным режимом становится K2](https://habr.com/ru/companies/spring_aio/news/973312/?utm_campaign=973312&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг заказал разработку отечественных фоторезистов для литографии за 390 млн рублей](https://habr.com/ru/news/973294/?utm_campaign=973294&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5 подсказал новую идею в квантовой теории поля — физик довел ее до публикации в престижном издании](https://habr.com/ru/news/973292/?utm_campaign=973292&utm_source=habrahabr&utm_medium=rss)
 - [Рост популярности Windows 11 замедлился, поскольку миллионы пользователей продолжают использовать Windows 10](https://habr.com/ru/news/973280/?utm_campaign=973280&utm_source=habrahabr&utm_medium=rss)
-- [Вышел браузерный плагин Slop Evader, который очищает выдачу от контента, опубликованного после релиза ChatGPT](https://habr.com/ru/news/973266/?utm_campaign=973266&utm_source=habrahabr&utm_medium=rss)
-- [Запуск российско‑китайского мессенджера «Молния» перенесли на начало 2026 года](https://habr.com/ru/news/973254/?utm_campaign=973254&utm_source=habrahabr&utm_medium=rss)
-- [Критическая уязвимость позволяет выполнить произвольный код на серверных компонентах React 19.0.0/19.1.0/19.1.1/19.2.0](https://habr.com/ru/news/973252/?utm_campaign=973252&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предостерегла IT-администраторов от использования неподдерживаемых сред выполнения .NET](https://habr.com/ru/news/973250/?utm_campaign=973250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
