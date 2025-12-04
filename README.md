@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.2 на подходе? OpenAI начала тестировать новую модель на Design Arena](https://habr.com/ru/news/973092/?utm_campaign=973092&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила технику Confessions которая учит модели честно сообщать о собственных ошибках](https://habr.com/ru/companies/bothub/news/973084/?utm_campaign=973084&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Роскомнадзор обновил настройки систем противодействия угрозам и начал блокировать протоколы SOCKS5, VLESS И L2TP](https://habr.com/ru/news/973082/?utm_campaign=973082&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Django 6.0](https://habr.com/ru/news/973074/?utm_campaign=973074&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск VLC Media Player 3.0.22 Final](https://habr.com/ru/news/972848/?utm_campaign=972848&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NWinfo 1.5.0 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/972812/?utm_campaign=972812&utm_source=habrahabr&utm_medium=rss)
-- [Вышла видеомодель Kling 2.6 с нативным аудио — ее называют конкурентом Veo 3.1 и Sora 2](https://habr.com/ru/news/973036/?utm_campaign=973036&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi представила плату RPi 5 с 1 ГБ ОЗУ и повысила цены на другие одноплатники](https://habr.com/ru/news/973014/?utm_campaign=973014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
