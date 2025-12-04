@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta* перехватила звезду дизайна Apple для создания новых устройств виртуальной реальности](https://habr.com/ru/companies/bothub/news/973220/?utm_campaign=973220&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains представила Air: новую агентную IDE](https://habr.com/ru/news/973380/?utm_campaign=973380&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс представил RATE, новую методику оценки качества перевода с акцентом на естественность речи](https://habr.com/ru/companies/bothub/news/973368/?utm_campaign=973368&utm_source=habrahabr&utm_medium=rss)
-- [Unity «сворачивают» Multiplay Hosting](https://habr.com/ru/news/973356/?utm_campaign=973356&utm_source=habrahabr&utm_medium=rss)
-- [Немного цифр про Koda — делимся тем, что происходит сейчас](https://habr.com/ru/companies/koda/news/973354/?utm_campaign=973354&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic подписала $200 млн сделку с Snowflake — её ИИ‑модели станут доступны тысячам компаний](https://habr.com/ru/companies/bothub/news/973420/?utm_campaign=973420&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры РФ получит от правительства РФ 16 млрд рублей на спутники связи](https://habr.com/ru/news/973418/?utm_campaign=973418&utm_source=habrahabr&utm_medium=rss)
+- [AlphaXiv запустила веб-симулятор алгоритмов машинного обучения](https://habr.com/ru/news/973414/?utm_campaign=973414&utm_source=habrahabr&utm_medium=rss)
+- [Как Anthropic заставили ИИ взломать блокчейн-контракты на сумму 550 миллионов долларов](https://habr.com/ru/news/973412/?utm_campaign=973412&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» расширил выпуск линейки компактных электродвигателей для машиностроения, автопрома и авиации](https://habr.com/ru/news/973408/?utm_campaign=973408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
