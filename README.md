@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«В React нашли критическую уязвимость, срочно патчите софт!!!». Спокойно, «Штурвал» не затронуло, патчи не нужны](https://habr.com/ru/companies/chislitellab/news/973328/?utm_campaign=973328&utm_source=habrahabr&utm_medium=rss)
 - [Как создать умных ИИ‑агентов: работа с MCP](https://habr.com/ru/companies/mws/news/972884/?utm_campaign=972884&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains задеприкейтили K1: начиная с IntelliJ IDEA 2025.3 основным и единственным актуальным режимом становится K2](https://habr.com/ru/companies/spring_aio/news/973312/?utm_campaign=973312&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг заказал разработку отечественных фоторезистов для литографии за 390 млн рублей](https://habr.com/ru/news/973294/?utm_campaign=973294&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 подсказал новую идею в квантовой теории поля — физик довел ее до публикации в престижном издании](https://habr.com/ru/news/973292/?utm_campaign=973292&utm_source=habrahabr&utm_medium=rss)
-- [Рост популярности Windows 11 замедлился, поскольку миллионы пользователей продолжают использовать Windows 10](https://habr.com/ru/news/973280/?utm_campaign=973280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
