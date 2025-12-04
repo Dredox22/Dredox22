@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла новая версия B2B CRM SimpleOne с автоматической генерацией контента через ИИ](https://habr.com/ru/companies/simpleone/news/973140/?utm_campaign=973140&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь взломал AI-стартап Filevine ценой в $1 млрд и получил доступ к 100 тыс документов](https://habr.com/ru/news/973226/?utm_campaign=973226&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla разрабатывает инструмент резервного копирования Firefox для простого перехода с Windows 10 на Windows 11](https://habr.com/ru/news/973048/?utm_campaign=973048&utm_source=habrahabr&utm_medium=rss)
-- [Opera интегрировала Gemini в десктопные браузеры One и GX](https://habr.com/ru/companies/bothub/news/973212/?utm_campaign=973212&utm_source=habrahabr&utm_medium=rss)
-- [Как обеспечить безопасность в Kubernetes?](https://habr.com/ru/companies/chislitellab/news/973204/?utm_campaign=973204&utm_source=habrahabr&utm_medium=rss)
+- [Рост популярности Windows 11 замедлился, поскольку миллионы пользователей продолжают использовать Windows 10](https://habr.com/ru/news/973280/?utm_campaign=973280&utm_source=habrahabr&utm_medium=rss)
+- [Вышел браузерный плагин Slop Evader, который очищает выдачу от контента, опубликованного после релиза ChatGPT](https://habr.com/ru/news/973266/?utm_campaign=973266&utm_source=habrahabr&utm_medium=rss)
+- [Запуск российско‑китайского мессенджера «Молния» перенесли на начало 2026 года](https://habr.com/ru/news/973254/?utm_campaign=973254&utm_source=habrahabr&utm_medium=rss)
+- [Критическая уязвимость позволяет выполнить произвольный код на серверных компонентах React 19.0.0/19.1.0/19.1.1/19.2.0](https://habr.com/ru/news/973252/?utm_campaign=973252&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предостерегла IT-администраторов от использования неподдерживаемых сред выполнения .NET](https://habr.com/ru/news/973250/?utm_campaign=973250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
