@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустила режим Gemini 3 Deep Think — почти втрое обходит GPT-5.1 на тестах абстрактного мышления](https://habr.com/ru/news/973442/?utm_campaign=973442&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети снова слили деньги на бирже: итоги Alpha Arena Season 1.5](https://habr.com/ru/news/973428/?utm_campaign=973428&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic подписала $200 млн сделку с Snowflake — её ИИ‑модели станут доступны тысячам компаний](https://habr.com/ru/companies/bothub/news/973420/?utm_campaign=973420&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры РФ получит от правительства РФ 16 млрд рублей на спутники связи](https://habr.com/ru/news/973418/?utm_campaign=973418&utm_source=habrahabr&utm_medium=rss)
 - [AlphaXiv запустила веб-симулятор алгоритмов машинного обучения](https://habr.com/ru/news/973414/?utm_campaign=973414&utm_source=habrahabr&utm_medium=rss)
-- [Как Anthropic заставили ИИ взломать блокчейн-контракты на сумму 550 миллионов долларов](https://habr.com/ru/news/973412/?utm_campaign=973412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
