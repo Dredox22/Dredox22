@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи Яндекса представили RATE — новый метод для оценки и улучшения машинного перевода](https://habr.com/ru/companies/yandex/news/972912/?utm_campaign=972912&utm_source=habrahabr&utm_medium=rss)
+- [Дейв Пламмер раскритиковал Windows 11 за объём ИИ-функций](https://habr.com/ru/news/973150/?utm_campaign=973150&utm_source=habrahabr&utm_medium=rss)
 - [MinIO перевёл репозиторий в режим maintenance: развитие остановлено](https://habr.com/ru/news/973148/?utm_campaign=973148&utm_source=habrahabr&utm_medium=rss)
 - [Ghostty стала некоммерческой организацией](https://habr.com/ru/news/973142/?utm_campaign=973142&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Django 6.0: фоновые задачи, частичные шаблоны и обновлённая безопасность](https://habr.com/ru/news/973132/?utm_campaign=973132&utm_source=habrahabr&utm_medium=rss)
-- [Стартап UMA выводит роботов для промышленности и сервисных сфер](https://habr.com/ru/companies/bothub/news/973090/?utm_campaign=973090&utm_source=habrahabr&utm_medium=rss)
-- [Leroy Merlin уведомила клиентов об утечке информации, в результате которой их персональные данные были скомпрометированы](https://habr.com/ru/news/973120/?utm_campaign=973120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
