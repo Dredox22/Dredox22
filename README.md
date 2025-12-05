@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Только один ИИ заработал на бирже — им оказался секретный Grok 4.20](https://habr.com/ru/news/973780/?utm_campaign=973780&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Unity 6.3 LTS](https://habr.com/ru/news/973762/?utm_campaign=973762&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: принято решение постепенно отказываться от подтверждения входа на «Госуслуги» через СМС из-за мошенничества](https://habr.com/ru/news/973760/?utm_campaign=973760&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия ESM-платформы SimpleOne с поддержкой мультиязычных объявлений](https://habr.com/ru/companies/simpleone/news/973730/?utm_campaign=973730&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обязали передать NYT анонимизированные логи переписок пользователей](https://habr.com/ru/companies/bothub/news/973722/?utm_campaign=973722&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи мобильного приложения «Госуслуги» на Android не могут зайти в госсервис без кода из Max](https://habr.com/ru/news/973700/?utm_campaign=973700&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity представила BrowseSafe для защиты ИИ-браузеров от скрытых инструкций](https://habr.com/ru/companies/bothub/news/973660/?utm_campaign=973660&utm_source=habrahabr&utm_medium=rss)
-- [Берлога представила свой опыт подготовки технологических кадров на Московской неделе видеоигр](https://habr.com/ru/news/973676/?utm_campaign=973676&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/973670/?utm_campaign=973670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
