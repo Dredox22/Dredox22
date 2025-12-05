@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 тестируют изменение дизайна диалогового окна Run](https://habr.com/ru/news/973558/?utm_campaign=973558&utm_source=habrahabr&utm_medium=rss)
+- [Новый экспертный подкаст SimpleOne B2B CRM, «КОРУС Консалтинг» и Академии SPINCAT](https://habr.com/ru/companies/simpleone/news/973568/?utm_campaign=973568&utm_source=habrahabr&utm_medium=rss)
+- [Chicago Tribune подала иск против Perplexity, обвинив её поисковик с ИИ в нарушении авторских прав](https://habr.com/ru/news/973570/?utm_campaign=973570&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic опубликовала уникальный датасет из 1250 интервью для изучения внедрения ИИ в рабочие процессы](https://habr.com/ru/companies/bothub/news/973496/?utm_campaign=973496&utm_source=habrahabr&utm_medium=rss)
 - [MWS AI представила платформу для создания корпоративных ИИ-агентов в едином интерфейсе](https://habr.com/ru/companies/mts_ai/news/973544/?utm_campaign=973544&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка проверки лицензии Microsoft 365 заблокировала загрузку приложений с домашней страницы](https://habr.com/ru/news/973528/?utm_campaign=973528&utm_source=habrahabr&utm_medium=rss)
-- [Более половины HR-специалистов назвали неготовность данных главным барьером для внедрения ИИ](https://habr.com/ru/companies/k2tech/news/973532/?utm_campaign=973532&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-министра Албании «задержали» после получения взяток в криптовалюте](https://habr.com/ru/news/973512/?utm_campaign=973512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
