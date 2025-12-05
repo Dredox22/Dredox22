@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS делает ставку на искусственный интеллект, но компании пока не поспевают](https://habr.com/ru/companies/bothub/news/973860/?utm_campaign=973860&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.2 выпустят 9 декабря — старший редактор The Verge](https://habr.com/ru/news/973858/?utm_campaign=973858&utm_source=habrahabr&utm_medium=rss)
 - [CUDA L2 показывает, что ИИ может писать GPU ядра быстрее инженеров NVIDIA](https://habr.com/ru/companies/bothub/news/973854/?utm_campaign=973854&utm_source=habrahabr&utm_medium=rss)
 - [Полиция задержала разработчика ВПО на основе NFCGate, который помог украсть 200 млн рублей с банковских карт россиян](https://habr.com/ru/news/973830/?utm_campaign=973830&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Образование» и НИУ ВШЭ представили итоги международной олимпиады AIDAO](https://habr.com/ru/news/973826/?utm_campaign=973826&utm_source=habrahabr&utm_medium=rss)
-- [Max, VK Education и Минобрнауки РФ рассказали об итогах первого студенческого хакатона для нацмессенджера](https://habr.com/ru/news/973822/?utm_campaign=973822&utm_source=habrahabr&utm_medium=rss)
-- [SIMA 2. Как Google учит нейросеть действовать в виртуальных мирах](https://habr.com/ru/companies/technokratos/news/973790/?utm_campaign=973790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
