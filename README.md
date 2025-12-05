@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SIMA 2. Как Google учит нейросеть действовать в виртуальных мирах](https://habr.com/ru/companies/technokratos/news/973790/?utm_campaign=973790&utm_source=habrahabr&utm_medium=rss)
 - [Только один ИИ заработал на бирже — им оказался секретный Grok 4.20](https://habr.com/ru/news/973780/?utm_campaign=973780&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Unity 6.3 LTS](https://habr.com/ru/news/973762/?utm_campaign=973762&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: принято решение постепенно отказываться от подтверждения входа на «Госуслуги» через СМС из-за мошенничества](https://habr.com/ru/news/973760/?utm_campaign=973760&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия ESM-платформы SimpleOne с поддержкой мультиязычных объявлений](https://habr.com/ru/companies/simpleone/news/973730/?utm_campaign=973730&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI обязали передать NYT анонимизированные логи переписок пользователей](https://habr.com/ru/companies/bothub/news/973722/?utm_campaign=973722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
