@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие коммуникационные сервисы блокировал в РФ Роскомнадзор с 2016 года](https://habr.com/ru/news/973476/?utm_campaign=973476&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся выпуск geoip 0.1 — открытого self-hosted сервиса GeoIP REST API, написанного на Rust](https://habr.com/ru/news/973416/?utm_campaign=973416&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Wireshark 4.6.2](https://habr.com/ru/news/973114/?utm_campaign=973114&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила режим Gemini 3 Deep Think — почти втрое обходит GPT-5.1 на тестах абстрактного мышления](https://habr.com/ru/news/973442/?utm_campaign=973442&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети снова слили деньги на бирже: итоги Alpha Arena Season 1.5](https://habr.com/ru/news/973428/?utm_campaign=973428&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic подписала $200 млн сделку с Snowflake — её ИИ‑модели станут доступны тысячам компаний](https://habr.com/ru/companies/bothub/news/973420/?utm_campaign=973420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
