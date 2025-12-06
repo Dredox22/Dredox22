@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic vs OpenAI vs DeepSeek: чей ИИ безопаснее? &lpar;спойлер: ничей&rpar;](https://habr.com/ru/news/973968/?utm_campaign=973968&utm_source=habrahabr&utm_medium=rss)
+- [В Cloudflare раскрыли причину получасового глобального сбоя в работе 5 декабря — проблемы в коде на языке Lua](https://habr.com/ru/news/973964/?utm_campaign=973964&utm_source=habrahabr&utm_medium=rss)
+- [В IDE от JetBrains появилась поддержка Agent Client Protocol](https://habr.com/ru/news/973958/?utm_campaign=973958&utm_source=habrahabr&utm_medium=rss)
 - [Proton запустила Sheets — защищённую альтернативу Excel и Google Sheets](https://habr.com/ru/news/973452/?utm_campaign=973452&utm_source=habrahabr&utm_medium=rss)
 - [Neowin: новый список поддерживаемых процессоров для Windows 11 может ввести в заблуждение](https://habr.com/ru/news/973458/?utm_campaign=973458&utm_source=habrahabr&utm_medium=rss)
-- [Вышел AnyDesk 9.6.6 для Windows](https://habr.com/ru/news/973810/?utm_campaign=973810&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI обучила модели «признаваться» в плохом поведении](https://habr.com/ru/news/973912/?utm_campaign=973912&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare заблокировала 416 млрд запросов ИИ-ботов на парсинг за пять месяцев](https://habr.com/ru/news/973900/?utm_campaign=973900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
