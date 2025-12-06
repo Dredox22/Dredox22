@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Proton запустила Sheets — защищённую альтернативу Excel и Google Sheets](https://habr.com/ru/news/973452/?utm_campaign=973452&utm_source=habrahabr&utm_medium=rss)
 - [Neowin: новый список поддерживаемых процессоров для Windows 11 может ввести в заблуждение](https://habr.com/ru/news/973458/?utm_campaign=973458&utm_source=habrahabr&utm_medium=rss)
+- [Вышел AnyDesk 9.6.6 для Windows](https://habr.com/ru/news/973810/?utm_campaign=973810&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обучила модели «признаваться» в плохом поведении](https://habr.com/ru/news/973912/?utm_campaign=973912&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare заблокировала 416 млрд запросов ИИ-ботов на парсинг за пять месяцев](https://habr.com/ru/news/973900/?utm_campaign=973900&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: Grok выдаёт многие личные данные пользователей по запросу](https://habr.com/ru/news/973896/?utm_campaign=973896&utm_source=habrahabr&utm_medium=rss)
-- [Финская компания Jolla представила свой смартфон Jolla Phone на ОС Sailfish](https://habr.com/ru/news/973886/?utm_campaign=973886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
