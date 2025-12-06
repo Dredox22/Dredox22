@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Якутии запустили проект по прокладке 7 тысяч километров оптоволокна](https://habr.com/ru/news/974012/?utm_campaign=974012&utm_source=habrahabr&utm_medium=rss)
+- [Мипромторг РФ: «61% российских разработчиков электроники работают на иностранном ПО»](https://habr.com/ru/news/974006/?utm_campaign=974006&utm_source=habrahabr&utm_medium=rss)
+- [«Группа Астра» запустила хранилище проверенных программ Neo и ввела новые уровни поддержки для бизнеса](https://habr.com/ru/news/974002/?utm_campaign=974002&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустила ИИ‑помощника для авторов Telegram‑каналов в РСЯ](https://habr.com/ru/news/973986/?utm_campaign=973986&utm_source=habrahabr&utm_medium=rss)
 - [«Математический сверхинтеллект» Aristotle решил 30-летнюю задачу Эрдёша](https://habr.com/ru/news/973978/?utm_campaign=973978&utm_source=habrahabr&utm_medium=rss)
-- [В Кибердоме прошла церемония награждения отраслевой премии в области кибербезопасности «Киберпризнание»](https://habr.com/ru/news/973972/?utm_campaign=973972&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic vs OpenAI vs DeepSeek: чей ИИ безопаснее? &lpar;спойлер: ничей&rpar;](https://habr.com/ru/news/973968/?utm_campaign=973968&utm_source=habrahabr&utm_medium=rss)
-- [В Cloudflare раскрыли причину получасового глобального сбоя в работе 5 декабря — проблемы в коде на языке Lua](https://habr.com/ru/news/973964/?utm_campaign=973964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
