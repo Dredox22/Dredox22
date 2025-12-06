@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел AnyDesk 9.6.6 для Windows](https://habr.com/ru/news/973810/?utm_campaign=973810&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI обучила модели «признаваться» в плохом поведении](https://habr.com/ru/news/973912/?utm_campaign=973912&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare заблокировала 416 млрд запросов ИИ-ботов на парсинг за пять месяцев](https://habr.com/ru/news/973900/?utm_campaign=973900&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: Grok выдаёт многие личные данные пользователей по запросу](https://habr.com/ru/news/973896/?utm_campaign=973896&utm_source=habrahabr&utm_medium=rss)
 - [Финская компания Jolla представила свой смартфон Jolla Phone на ОС Sailfish](https://habr.com/ru/news/973886/?utm_campaign=973886&utm_source=habrahabr&utm_medium=rss)
-- [Обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 8.16](https://habr.com/ru/news/973782/?utm_campaign=973782&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого редактора звука Audacity 3.7.6](https://habr.com/ru/news/973800/?utm_campaign=973800&utm_source=habrahabr&utm_medium=rss)
-- [AWS делает ставку на искусственный интеллект, но компании пока не поспевают](https://habr.com/ru/companies/bothub/news/973860/?utm_campaign=973860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
