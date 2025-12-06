@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Anthropic работает философ, чья задача — изучать «смерть» ИИ и характер разных моделей](https://habr.com/ru/news/974022/?utm_campaign=974022&utm_source=habrahabr&utm_medium=rss)
 - [В Якутии запустили проект по прокладке 7 тысяч километров оптоволокна](https://habr.com/ru/news/974012/?utm_campaign=974012&utm_source=habrahabr&utm_medium=rss)
 - [Мипромторг РФ: «61% российских разработчиков электроники работают на иностранном ПО»](https://habr.com/ru/news/974006/?utm_campaign=974006&utm_source=habrahabr&utm_medium=rss)
 - [«Группа Астра» запустила хранилище проверенных программ Neo и ввела новые уровни поддержки для бизнеса](https://habr.com/ru/news/974002/?utm_campaign=974002&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустила ИИ‑помощника для авторов Telegram‑каналов в РСЯ](https://habr.com/ru/news/973986/?utm_campaign=973986&utm_source=habrahabr&utm_medium=rss)
-- [«Математический сверхинтеллект» Aristotle решил 30-летнюю задачу Эрдёша](https://habr.com/ru/news/973978/?utm_campaign=973978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
