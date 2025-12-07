@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 10.8](https://habr.com/ru/news/974046/?utm_campaign=974046&utm_source=habrahabr&utm_medium=rss)
 - [Вайб-кодинг выходит из песочницы: Replit и Google Cloud атакуют корпоративный рынок](https://habr.com/ru/news/974062/?utm_campaign=974062&utm_source=habrahabr&utm_medium=rss)
 - [В Anthropic работает философ, чья задача — изучать «смерть» ИИ и характер разных моделей](https://habr.com/ru/news/974022/?utm_campaign=974022&utm_source=habrahabr&utm_medium=rss)
 - [В Якутии запустили проект по прокладке 7 тысяч километров оптоволокна](https://habr.com/ru/news/974012/?utm_campaign=974012&utm_source=habrahabr&utm_medium=rss)
 - [Мипромторг РФ: «61% российских разработчиков электроники работают на иностранном ПО»](https://habr.com/ru/news/974006/?utm_campaign=974006&utm_source=habrahabr&utm_medium=rss)
-- [«Группа Астра» запустила хранилище проверенных программ Neo и ввела новые уровни поддержки для бизнеса](https://habr.com/ru/news/974002/?utm_campaign=974002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
