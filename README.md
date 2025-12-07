@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft позволит удалить опцию «Действия ИИ» из меню «Проводника» в Windows 11](https://habr.com/ru/news/974134/?utm_campaign=974134&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Media Player Classic — Home Cinema 2.5.6](https://habr.com/ru/news/974052/?utm_campaign=974052&utm_source=habrahabr&utm_medium=rss)
 - [В Shadowserver обнаружили 77 664 IP-адресов с React Server Components, уязвимых к атаке React2Shell &lpar;CVE-2025-55182&rpar;](https://habr.com/ru/news/974106/?utm_campaign=974106&utm_source=habrahabr&utm_medium=rss)
 - [Релиз gitmal 1.0 — открытого проекта генератора статических веб-представлений git-репозиториев](https://habr.com/ru/news/972792/?utm_campaign=972792&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Volt — терминальный HTTP-клиент с сочетаниями клавиш Vim](https://habr.com/ru/news/973648/?utm_campaign=973648&utm_source=habrahabr&utm_medium=rss)
-- [Обновление кроссплатформенного открытого многофункционального архиватора PeaZip 10.8](https://habr.com/ru/news/974046/?utm_campaign=974046&utm_source=habrahabr&utm_medium=rss)
-- [Вайб-кодинг выходит из песочницы: Replit и Google Cloud атакуют корпоративный рынок](https://habr.com/ru/news/974062/?utm_campaign=974062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
