@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ стал вторым по популярности направлением в МТИ после компьютерных наук](https://habr.com/ru/news/974374/?utm_campaign=974374&utm_source=habrahabr&utm_medium=rss)
+- [ОТП Банк внедрил Kaspersky Anti Targeted Attack и Kaspersky EDR Expert](https://habr.com/ru/companies/otpbank/news/974366/?utm_campaign=974366&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI набрала обязательств на $1.4 трлн при выручке $20 млрд. Что может пойти не так?](https://habr.com/ru/news/974364/?utm_campaign=974364&utm_source=habrahabr&utm_medium=rss)
 - [Суд США постановил, что Google должна ограничить свои контракты на «поиск по умолчанию» одним годом](https://habr.com/ru/news/974356/?utm_campaign=974356&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил победителей международного чемпионата по программированию Yandex Cup 2025](https://habr.com/ru/news/974354/?utm_campaign=974354&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» выпустил в App Store мобильное приложение для iOS под названием «Финансы Онлайн» от разработчика Ruslan Koledin](https://habr.com/ru/news/974352/?utm_campaign=974352&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ намерен обязать кредитные организации привязывать ИНН клиентов к их банковским счетам](https://habr.com/ru/news/974350/?utm_campaign=974350&utm_source=habrahabr&utm_medium=rss)
-- [«Лучше рекламы в 4 раза»: чат-боты оказались эффективны в политической агитации](https://habr.com/ru/news/974334/?utm_campaign=974334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
