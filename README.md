@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз дистрибутива Oracle Linux 10.1](https://habr.com/ru/news/974034/?utm_campaign=974034&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Chrome 143](https://habr.com/ru/news/974238/?utm_campaign=974238&utm_source=habrahabr&utm_medium=rss)
 - [Стартап из шести выходцев DeepMind обошел Gemini 3 на главном бенчмарке абстрактного мышления ARC-AGI-2](https://habr.com/ru/news/974282/?utm_campaign=974282&utm_source=habrahabr&utm_medium=rss)
 - [Как Gemini 3 Pro разбирает рукописи XVIII века и находит ошибки в тетрадях школьников](https://habr.com/ru/news/974170/?utm_campaign=974170&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволит удалить опцию «Действия ИИ» из меню «Проводника» в Windows 11](https://habr.com/ru/news/974134/?utm_campaign=974134&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Media Player Classic — Home Cinema 2.5.6](https://habr.com/ru/news/974052/?utm_campaign=974052&utm_source=habrahabr&utm_medium=rss)
-- [В Shadowserver обнаружили 77 664 IP-адресов с React Server Components, уязвимых к атаке React2Shell &lpar;CVE-2025-55182&rpar;](https://habr.com/ru/news/974106/?utm_campaign=974106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
