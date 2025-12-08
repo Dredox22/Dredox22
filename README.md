@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Японские разработчики игр столкнулись с повышением цены на шрифты с $380 до $20 500](https://habr.com/ru/news/974486/?utm_campaign=974486&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte удостоена партнерских наград за экспертизу по BI-продуктам](https://habr.com/ru/companies/glowbyte/news/974482/?utm_campaign=974482&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует вернуть коллективные антенны для приёма эфирных телеканалов на крыши многоквартирных домов](https://habr.com/ru/news/974466/?utm_campaign=974466&utm_source=habrahabr&utm_medium=rss)
 - [Представитель «Яндекса» объяснил галлюцинации в ответах ИИ-ассистента «Алисы»](https://habr.com/ru/news/974436/?utm_campaign=974436&utm_source=habrahabr&utm_medium=rss)
 - [Apple объявила победителей премии App Store Awards 2025](https://habr.com/ru/news/974428/?utm_campaign=974428&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта CompressO 1.4.0 для сжатия видео без потери качества](https://habr.com/ru/news/974250/?utm_campaign=974250&utm_source=habrahabr&utm_medium=rss)
-- [ИИ стал вторым по популярности направлением в МТИ после компьютерных наук](https://habr.com/ru/news/974374/?utm_campaign=974374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
