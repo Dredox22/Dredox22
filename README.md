@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лучше рекламы в 4 раза»: чат-боты оказались эффективны в политической агитации](https://habr.com/ru/news/974334/?utm_campaign=974334&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта Fastfetch 2.56 — утилиты для показа информации о системе](https://habr.com/ru/news/974254/?utm_campaign=974254&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Oracle Linux 10.1](https://habr.com/ru/news/974034/?utm_campaign=974034&utm_source=habrahabr&utm_medium=rss)
 - [Стартап из шести выходцев DeepMind обошел Gemini 3 на главном бенчмарке абстрактного мышления ARC-AGI-2](https://habr.com/ru/news/974282/?utm_campaign=974282&utm_source=habrahabr&utm_medium=rss)
 - [Как Gemini 3 Pro разбирает рукописи XVIII века и находит ошибки в тетрадях школьников](https://habr.com/ru/news/974170/?utm_campaign=974170&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft позволит удалить опцию «Действия ИИ» из меню «Проводника» в Windows 11](https://habr.com/ru/news/974134/?utm_campaign=974134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
