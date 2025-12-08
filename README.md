@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [UserGate обеспечил информационную безопасность IX Кубка CTF России](https://habr.com/ru/companies/usergate/news/974574/?utm_campaign=974574&utm_source=habrahabr&utm_medium=rss)
+- [UserGate поддержал всероссийскую олимпиаду по кибербезопасности «КиберОлимп 2025» в Самаре](https://habr.com/ru/companies/usergate/news/974570/?utm_campaign=974570&utm_source=habrahabr&utm_medium=rss)
+- [Итоги SimpleOne DAY 25: Построение системы контроля тарифов МТС Банка: от инициативы до внедрения](https://habr.com/ru/companies/simpleone/news/974568/?utm_campaign=974568&utm_source=habrahabr&utm_medium=rss)
 - [В Китае обязали оснащать пауэрбанки ЖК-дисплеями](https://habr.com/ru/news/974504/?utm_campaign=974504&utm_source=habrahabr&utm_medium=rss)
 - [Японские разработчики игр столкнулись с повышением цены на шрифты с $380 до $20 500](https://habr.com/ru/news/974486/?utm_campaign=974486&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte удостоена партнерских наград за экспертизу по BI-продуктам](https://habr.com/ru/companies/glowbyte/news/974482/?utm_campaign=974482&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует вернуть коллективные антенны для приёма эфирных телеканалов на крыши многоквартирных домов](https://habr.com/ru/news/974466/?utm_campaign=974466&utm_source=habrahabr&utm_medium=rss)
-- [Представитель «Яндекса» объяснил галлюцинации в ответах ИИ-ассистента «Алисы»](https://habr.com/ru/news/974436/?utm_campaign=974436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
