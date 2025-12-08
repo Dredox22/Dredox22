@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры планирует вернуть коллективные антенны для приёма эфирных телеканалов на крыши многоквартирных домов](https://habr.com/ru/news/974466/?utm_campaign=974466&utm_source=habrahabr&utm_medium=rss)
+- [Представитель «Яндекса» объяснил галлюцинации в ответах ИИ-ассистента «Алисы»](https://habr.com/ru/news/974436/?utm_campaign=974436&utm_source=habrahabr&utm_medium=rss)
 - [Apple объявила победителей премии App Store Awards 2025](https://habr.com/ru/news/974428/?utm_campaign=974428&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта CompressO 1.4.0 для сжатия видео без потери качества](https://habr.com/ru/news/974250/?utm_campaign=974250&utm_source=habrahabr&utm_medium=rss)
 - [ИИ стал вторым по популярности направлением в МТИ после компьютерных наук](https://habr.com/ru/news/974374/?utm_campaign=974374&utm_source=habrahabr&utm_medium=rss)
-- [ОТП Банк внедрил Kaspersky Anti Targeted Attack и Kaspersky EDR Expert](https://habr.com/ru/companies/otpbank/news/974366/?utm_campaign=974366&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI набрала обязательств на $1.4 трлн при выручке $20 млрд. Что может пойти не так?](https://habr.com/ru/news/974364/?utm_campaign=974364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
