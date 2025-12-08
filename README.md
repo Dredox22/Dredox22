@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В работе мессенджера Max произошел массовый сбой](https://habr.com/ru/news/974622/?utm_campaign=974622&utm_source=habrahabr&utm_medium=rss)
+- [Solar CyberMir 7.4: «Солар» запускает единую модель оценки навыков и компетенций киберзащитников](https://habr.com/ru/companies/solarsecurity/news/974620/?utm_campaign=974620&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp оказывается работает](https://habr.com/ru/news/974614/?utm_campaign=974614&utm_source=habrahabr&utm_medium=rss)
 - [DIY-тенденция: парень собрал визуального ассистента на Raspberry, Qwen3 1.7b и Gemma3 1b](https://habr.com/ru/companies/bothub/news/974604/?utm_campaign=974604&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2, Grok 4.20, Gemini 3 Flash и Nano Banana 2 Flash — главные ИИ-релизы до конца года](https://habr.com/ru/news/974586/?utm_campaign=974586&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на Usetech FronTalk: Новогодний огонек](https://habr.com/ru/companies/usetech/news/974584/?utm_campaign=974584&utm_source=habrahabr&utm_medium=rss)
-- [UserGate обеспечил информационную безопасность IX Кубка CTF России](https://habr.com/ru/companies/usergate/news/974574/?utm_campaign=974574&utm_source=habrahabr&utm_medium=rss)
-- [UserGate поддержал всероссийскую олимпиаду по кибербезопасности «КиберОлимп 2025» в Самаре](https://habr.com/ru/companies/usergate/news/974570/?utm_campaign=974570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
