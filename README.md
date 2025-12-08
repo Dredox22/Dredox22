@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DIY-тенденция: парень собрал визуального ассистента на Raspberry, Qwen3 1.7b и Gemma3 1b](https://habr.com/ru/companies/bothub/news/974604/?utm_campaign=974604&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.2, Grok 4.20, Gemini 3 Flash и Nano Banana 2 Flash — главные ИИ-релизы до конца года](https://habr.com/ru/news/974586/?utm_campaign=974586&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на Usetech FronTalk: Новогодний огонек](https://habr.com/ru/companies/usetech/news/974584/?utm_campaign=974584&utm_source=habrahabr&utm_medium=rss)
 - [UserGate обеспечил информационную безопасность IX Кубка CTF России](https://habr.com/ru/companies/usergate/news/974574/?utm_campaign=974574&utm_source=habrahabr&utm_medium=rss)
 - [UserGate поддержал всероссийскую олимпиаду по кибербезопасности «КиберОлимп 2025» в Самаре](https://habr.com/ru/companies/usergate/news/974570/?utm_campaign=974570&utm_source=habrahabr&utm_medium=rss)
-- [Итоги SimpleOne DAY 25: Построение системы контроля тарифов МТС Банка: от инициативы до внедрения](https://habr.com/ru/companies/simpleone/news/974568/?utm_campaign=974568&utm_source=habrahabr&utm_medium=rss)
-- [В Китае обязали оснащать пауэрбанки ЖК-дисплеями](https://habr.com/ru/news/974504/?utm_campaign=974504&utm_source=habrahabr&utm_medium=rss)
-- [Японские разработчики игр столкнулись с повышением цены на шрифты с $380 до $20 500](https://habr.com/ru/news/974486/?utm_campaign=974486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
