@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [send&lpar;&rpar;, receive&lpar;&rpar;, done&lpar;&rpar; — и никаких сложностей. Claude переосмысливает API и добавляет 1M контекста](https://habr.com/ru/companies/bothub/news/975036/?utm_campaign=975036&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI будет выдавать сертификаты «готовности к работе с ИИ». План — 10 млн человек за 5 лет](https://habr.com/ru/news/975028/?utm_campaign=975028&utm_source=habrahabr&utm_medium=rss)
+- [Крупнейшие азиатские инвестиции: Microsoft направит 17,5 млрд $ на развитие ИИ в Индии](https://habr.com/ru/companies/bothub/news/975024/?utm_campaign=975024&utm_source=habrahabr&utm_medium=rss)
 - [Mistral выпустила две модели для кодинга: одна соперничает с Claude Sonnet, вторая работает на домашнем GPU](https://habr.com/ru/news/975018/?utm_campaign=975018&utm_source=habrahabr&utm_medium=rss)
 - [На платформе 9¾ опять задержка: ИИ-фейк разрушенного моста остановил 32 поезда](https://habr.com/ru/companies/bothub/news/974970/?utm_campaign=974970&utm_source=habrahabr&utm_medium=rss)
-- [Spring Data JDBC – идеальная Data для вашего приложения](https://habr.com/ru/companies/haulmont/news/974940/?utm_campaign=974940&utm_source=habrahabr&utm_medium=rss)
-- [Google пообещала выпустить первые очки с Gemini в 2026 году](https://habr.com/ru/news/974936/?utm_campaign=974936&utm_source=habrahabr&utm_medium=rss)
-- [Каждый седьмой запрос в библиотеку — галлюцинация ИИ: в США бьют тревогу](https://habr.com/ru/news/974928/?utm_campaign=974928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
