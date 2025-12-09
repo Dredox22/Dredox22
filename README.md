@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Tewi 2.0.0 — открытого консольного клиента для Transmission, qBittorrent и Deluge](https://habr.com/ru/news/974424/?utm_campaign=974424&utm_source=habrahabr&utm_medium=rss)
-- [Глава «Лиги безопасного интернета» раскритиковала блокировку популярных игр и сервисов для детей](https://habr.com/ru/news/974692/?utm_campaign=974692&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Firefox 146.0](https://habr.com/ru/news/974624/?utm_campaign=974624&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek для ролевых игр, Claude Sonnet для программирования: неожиданное исследование OpenRouter](https://habr.com/ru/news/974678/?utm_campaign=974678&utm_source=habrahabr&utm_medium=rss)
-- [Google достигнет AdGI уже в 2026 году: компания интегрирует рекламу в Gemini](https://habr.com/ru/news/974670/?utm_campaign=974670&utm_source=habrahabr&utm_medium=rss)
+- [Kohler не зашифровала данные от видеокамеры-насадки Dekoda для туалета](https://habr.com/ru/news/974718/?utm_campaign=974718&utm_source=habrahabr&utm_medium=rss)
+- [Трамп разрешил Nvidia продавать H200 в Китай. Но есть нюанс](https://habr.com/ru/news/974716/?utm_campaign=974716&utm_source=habrahabr&utm_medium=rss)
+- [Объявлены победители конкурса по системному программированию Open OS Challenge 2025](https://habr.com/ru/news/974712/?utm_campaign=974712&utm_source=habrahabr&utm_medium=rss)
+- [Qwen выпустил обновление Qwen Code v0.3.0, консольного ИИ-клиента для работы с кодом](https://habr.com/ru/companies/bothub/news/974708/?utm_campaign=974708&utm_source=habrahabr&utm_medium=rss)
+- [Еще один иск к Perplexity: The New York Times обвиняет стартап в «массовом копировании» журналистики](https://habr.com/ru/news/974704/?utm_campaign=974704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
