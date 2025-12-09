@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Гравитон» разработал собственную интеллектуальную сетевую карту](https://habr.com/ru/companies/graviton/news/974750/?utm_campaign=974750&utm_source=habrahabr&utm_medium=rss)
+- [Маркетплейс BILLmarket пополнился новыми модулями интеграции с BILLmanager](https://habr.com/ru/companies/ispsystem/news/973788/?utm_campaign=973788&utm_source=habrahabr&utm_medium=rss)
+- [Джастин Бибер раскритиковал Apple за кнопку в iMessage](https://habr.com/ru/news/974726/?utm_campaign=974726&utm_source=habrahabr&utm_medium=rss)
+- [Valve выпустит инструмент для запуска Android-приложений на Steam Deck](https://habr.com/ru/news/974722/?utm_campaign=974722&utm_source=habrahabr&utm_medium=rss)
 - [Kohler не зашифровала данные от видеокамеры-насадки Dekoda для туалета](https://habr.com/ru/news/974718/?utm_campaign=974718&utm_source=habrahabr&utm_medium=rss)
-- [Трамп разрешил Nvidia продавать H200 в Китай. Но есть нюанс](https://habr.com/ru/news/974716/?utm_campaign=974716&utm_source=habrahabr&utm_medium=rss)
-- [Объявлены победители конкурса по системному программированию Open OS Challenge 2025](https://habr.com/ru/news/974712/?utm_campaign=974712&utm_source=habrahabr&utm_medium=rss)
-- [Qwen выпустил обновление Qwen Code v0.3.0, консольного ИИ-клиента для работы с кодом](https://habr.com/ru/companies/bothub/news/974708/?utm_campaign=974708&utm_source=habrahabr&utm_medium=rss)
-- [Еще один иск к Perplexity: The New York Times обвиняет стартап в «массовом копировании» журналистики](https://habr.com/ru/news/974704/?utm_campaign=974704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
