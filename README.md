@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PT Container Security 0.8: публичный API для управления продуктом](https://habr.com/ru/companies/pt/news/974872/?utm_campaign=974872&utm_source=habrahabr&utm_medium=rss)
+- [MWS приглашает на конференцию для архитекторов True Tech Arch #8](https://habr.com/ru/companies/ru_mts/news/974862/?utm_campaign=974862&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер»: проект «Вжух» стал доступен пользователям со смартфонами Android без карты «Мир» и без NFC модуля](https://habr.com/ru/news/974854/?utm_campaign=974854&utm_source=habrahabr&utm_medium=rss)
 - [Приложение Discord для Windows «научили» перезапускаться в фоновом режиме, если оно использует более 4 ГБ ОЗУ](https://habr.com/ru/news/974638/?utm_campaign=974638&utm_source=habrahabr&utm_medium=rss)
 - [Первый инвестиционный раунд Koda &lpar;российский стартап в области ИИ для разработчиков&rpar;](https://habr.com/ru/companies/koda/news/974842/?utm_campaign=974842&utm_source=habrahabr&utm_medium=rss)
-- [Исследование К2Тех и Postgres Professional](https://habr.com/ru/companies/k2tech/news/974832/?utm_campaign=974832&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/974824/?utm_campaign=974824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
