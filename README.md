@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [InfoWatch Traffic Monitor интегрирован с платформой eXpress](https://habr.com/ru/companies/infowatch/news/974822/?utm_campaign=974822&utm_source=habrahabr&utm_medium=rss)
+- [В «Лаборатории Касперского» проанализировали утечки паролей в мире за 2023-2025 гг](https://habr.com/ru/news/974784/?utm_campaign=974784&utm_source=habrahabr&utm_medium=rss)
+- [СФ РФ поддержал инициативу по доступу Росфинмониторинга к данным о переводах через СБП](https://habr.com/ru/news/974796/?utm_campaign=974796&utm_source=habrahabr&utm_medium=rss)
+- [Свой AI-агент: как настроить LLM под ваши задачи](https://habr.com/ru/companies/lansoft_career/news/974414/?utm_campaign=974414&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code появится в Slack](https://habr.com/ru/news/974756/?utm_campaign=974756&utm_source=habrahabr&utm_medium=rss)
-- [«Гравитон» разработал собственную интеллектуальную сетевую карту](https://habr.com/ru/companies/graviton/news/974750/?utm_campaign=974750&utm_source=habrahabr&utm_medium=rss)
-- [Маркетплейс BILLmarket пополнился новыми модулями интеграции с BILLmanager](https://habr.com/ru/companies/ispsystem/news/973788/?utm_campaign=973788&utm_source=habrahabr&utm_medium=rss)
-- [Джастин Бибер раскритиковал Apple за кнопку в iMessage](https://habr.com/ru/news/974726/?utm_campaign=974726&utm_source=habrahabr&utm_medium=rss)
-- [Valve выпустит инструмент для запуска Android-приложений на Steam Deck](https://habr.com/ru/news/974722/?utm_campaign=974722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
