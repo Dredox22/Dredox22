@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава «Лиги безопасного интернета» раскритиковала блокировку популярных игр и сервисов для детей](https://habr.com/ru/news/974692/?utm_campaign=974692&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Firefox 146.0](https://habr.com/ru/news/974624/?utm_campaign=974624&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek для ролевых игр, Claude Sonnet для программирования: неожиданное исследование OpenRouter](https://habr.com/ru/news/974678/?utm_campaign=974678&utm_source=habrahabr&utm_medium=rss)
 - [Google достигнет AdGI уже в 2026 году: компания интегрирует рекламу в Gemini](https://habr.com/ru/news/974670/?utm_campaign=974670&utm_source=habrahabr&utm_medium=rss)
 - [В работе мессенджера Max произошел массовый сбой](https://habr.com/ru/news/974622/?utm_campaign=974622&utm_source=habrahabr&utm_medium=rss)
-- [Solar CyberMir 7.4: «Солар» запускает единую модель оценки навыков и компетенций киберзащитников](https://habr.com/ru/companies/solarsecurity/news/974620/?utm_campaign=974620&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp оказывается работает](https://habr.com/ru/news/974614/?utm_campaign=974614&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
