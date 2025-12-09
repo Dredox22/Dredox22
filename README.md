@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [send&lpar;&rpar;, receive&lpar;&rpar;, done&lpar;&rpar; — и никаких сложностей. Claude переосмысливает API и добавляет 1M контекста](https://habr.com/ru/companies/bothub/news/975036/?utm_campaign=975036&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI будет выдавать сертификаты «готовности к работе с ИИ». План — 10 млн человек за 5 лет](https://habr.com/ru/news/975028/?utm_campaign=975028&utm_source=habrahabr&utm_medium=rss)
-- [Крупнейшие азиатские инвестиции: Microsoft направит 17,5 млрд $ на развитие ИИ в Индии](https://habr.com/ru/companies/bothub/news/975024/?utm_campaign=975024&utm_source=habrahabr&utm_medium=rss)
-- [Mistral выпустила две модели для кодинга: одна соперничает с Claude Sonnet, вторая работает на домашнем GPU](https://habr.com/ru/news/975018/?utm_campaign=975018&utm_source=habrahabr&utm_medium=rss)
-- [На платформе 9¾ опять задержка: ИИ-фейк разрушенного моста остановил 32 поезда](https://habr.com/ru/companies/bothub/news/974970/?utm_campaign=974970&utm_source=habrahabr&utm_medium=rss)
+- [В VK Play появилась возможность интеграции со Steam](https://habr.com/ru/news/975070/?utm_campaign=975070&utm_source=habrahabr&utm_medium=rss)
+- [Интегратор «Мобиус Технологии» запустила R&amp;amp;D‑направление по разработке IT‑оборудования с долгим циклом экплуатации](https://habr.com/ru/news/975068/?utm_campaign=975068&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Продавцов нелегальных сим-карт не останавливают новые правила верификации»](https://habr.com/ru/news/975064/?utm_campaign=975064&utm_source=habrahabr&utm_medium=rss)
+- [Linux Foundation: MCP, Goose и AGENTS.md объединят в общий стандарт для ИИ-агентов](https://habr.com/ru/companies/bothub/news/975060/?utm_campaign=975060&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Российские производители не спешат на отечественные печатные платы»](https://habr.com/ru/news/975058/?utm_campaign=975058&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
