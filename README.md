@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code появится в Slack](https://habr.com/ru/news/974756/?utm_campaign=974756&utm_source=habrahabr&utm_medium=rss)
 - [«Гравитон» разработал собственную интеллектуальную сетевую карту](https://habr.com/ru/companies/graviton/news/974750/?utm_campaign=974750&utm_source=habrahabr&utm_medium=rss)
 - [Маркетплейс BILLmarket пополнился новыми модулями интеграции с BILLmanager](https://habr.com/ru/companies/ispsystem/news/973788/?utm_campaign=973788&utm_source=habrahabr&utm_medium=rss)
 - [Джастин Бибер раскритиковал Apple за кнопку в iMessage](https://habr.com/ru/news/974726/?utm_campaign=974726&utm_source=habrahabr&utm_medium=rss)
 - [Valve выпустит инструмент для запуска Android-приложений на Steam Deck](https://habr.com/ru/news/974722/?utm_campaign=974722&utm_source=habrahabr&utm_medium=rss)
-- [Kohler не зашифровала данные от видеокамеры-насадки Dekoda для туалета](https://habr.com/ru/news/974718/?utm_campaign=974718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
