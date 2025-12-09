@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На платформе 9¾ опять задержка: ИИ-фейк разрушенного моста остановил 32 поезда](https://habr.com/ru/companies/bothub/news/974970/?utm_campaign=974970&utm_source=habrahabr&utm_medium=rss)
+- [Spring Data JDBC – идеальная Data для вашего приложения](https://habr.com/ru/companies/haulmont/news/974940/?utm_campaign=974940&utm_source=habrahabr&utm_medium=rss)
 - [Google пообещала выпустить первые очки с Gemini в 2026 году](https://habr.com/ru/news/974936/?utm_campaign=974936&utm_source=habrahabr&utm_medium=rss)
 - [Каждый седьмой запрос в библиотеку — галлюцинация ИИ: в США бьют тревогу](https://habr.com/ru/news/974928/?utm_campaign=974928&utm_source=habrahabr&utm_medium=rss)
 - [AI Overviews и AI Mode могут оказаться под запретом? ЕС начинает расследование против Google](https://habr.com/ru/companies/bothub/news/974922/?utm_campaign=974922&utm_source=habrahabr&utm_medium=rss)
-- [«Берлога: Защита пасеки» выходит на международный уровень](https://habr.com/ru/news/974908/?utm_campaign=974908&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.7](https://habr.com/ru/news/974346/?utm_campaign=974346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
