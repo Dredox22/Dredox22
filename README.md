@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Австралии вступил в силу закон, запрещающий детям младше 16 лет пользоваться соцсетями](https://habr.com/ru/companies/bothub/news/975336/?utm_campaign=975336&utm_source=habrahabr&utm_medium=rss)
+- [Банки РФ: карты «Мир» с истёкшим сроком действия продолжат работать на постоянной основе, за одним исключением](https://habr.com/ru/news/975354/?utm_campaign=975354&utm_source=habrahabr&utm_medium=rss)
 - [Warcraft II: Tides of Darkness исполнилось 30 лет](https://habr.com/ru/news/975338/?utm_campaign=975338&utm_source=habrahabr&utm_medium=rss)
 - [Конгресс впервые приказал Пентагону готовиться к эпохе AGI](https://habr.com/ru/companies/bothub/news/975316/?utm_campaign=975316&utm_source=habrahabr&utm_medium=rss)
 - [В Общественной палате РФ призвали создать свой аналог Roblox](https://habr.com/ru/news/975326/?utm_campaign=975326&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман отложил гонку за AGI. ChatGPT важнее](https://habr.com/ru/news/975320/?utm_campaign=975320&utm_source=habrahabr&utm_medium=rss)
-- [Spring Data JDBC — идеальная Data для вашего приложения](https://habr.com/ru/companies/haulmont/news/975312/?utm_campaign=975312&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
