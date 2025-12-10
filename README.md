@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI запустила набор на очную полугодовую стажировку Residency 2026, в которой нет требования по диплому](https://habr.com/ru/news/975124/?utm_campaign=975124&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI забирает экс CEO Slack. Компания усиливает коммерческий блок и готовится к большому росту прибыли](https://habr.com/ru/companies/bothub/news/975122/?utm_campaign=975122&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Iced 0.14 — кроссплатформенной библиотеки графического интерфейса &lpar;GUI library&rpar; для экосистемы Rust](https://habr.com/ru/news/974728/?utm_campaign=974728&utm_source=habrahabr&utm_medium=rss)
 - [«Виртуальные пациенты»: Microsoft учится создавать цифровых двойников для моделирования рака](https://habr.com/ru/news/975104/?utm_campaign=975104&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» объявил имена лауреатов своей Научной премии за 2025 год с призовым фондом более 100 млн рублей](https://habr.com/ru/news/975102/?utm_campaign=975102&utm_source=habrahabr&utm_medium=rss)
-- [Релиз tyro 1.0 — инструмента для генерации CLI-интерфейсов из аннотированного по типам кода Python](https://habr.com/ru/news/975000/?utm_campaign=975000&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пиринговый видеохостинг PeerTube 8.0](https://habr.com/ru/news/974878/?utm_campaign=974878&utm_source=habrahabr&utm_medium=rss)
-- [Цены на Microsoft 365 вырастут с 1 июля 2026 года](https://habr.com/ru/news/974870/?utm_campaign=974870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
