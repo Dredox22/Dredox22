@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Фонд свободного программного обеспечения объявил победителей премии Free Software Awards 2024](https://habr.com/ru/news/975136/?utm_campaign=975136&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX начала продавать в США комплекты спутникового интернета Starlink через вендинговые автоматы](https://habr.com/ru/news/975134/?utm_campaign=975134&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила набор на очную полугодовую стажировку Residency 2026, в которой нет требования по диплому](https://habr.com/ru/news/975124/?utm_campaign=975124&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI забирает экс CEO Slack. Компания усиливает коммерческий блок и готовится к большому росту прибыли](https://habr.com/ru/companies/bothub/news/975122/?utm_campaign=975122&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Iced 0.14 — кроссплатформенной библиотеки графического интерфейса &lpar;GUI library&rpar; для экосистемы Rust](https://habr.com/ru/news/974728/?utm_campaign=974728&utm_source=habrahabr&utm_medium=rss)
+- [FDA впервые разрешила ИИ создавать лекарства](https://habr.com/ru/companies/bothub/news/975190/?utm_campaign=975190&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains закрывает Fleet](https://habr.com/ru/companies/spring_aio/news/975182/?utm_campaign=975182&utm_source=habrahabr&utm_medium=rss)
+- [Mistral выкатили Devstral 2 — открытая SOTA модель для кодинга](https://habr.com/ru/news/975176/?utm_campaign=975176&utm_source=habrahabr&utm_medium=rss)
+- [Встреча РГ21 C++ в Москве и онлайн: обсуждаем последние новости стандарта и общаемся на афтерпати](https://habr.com/ru/companies/yandex/news/974440/?utm_campaign=974440&utm_source=habrahabr&utm_medium=rss)
+- [Google тихо отключил Gemini 2.5 Pro в бесплатном тарифе](https://habr.com/ru/news/975166/?utm_campaign=975166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
