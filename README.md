@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI: каждая новая ИИ-модель может стать кибероружием](https://habr.com/ru/news/975500/?utm_campaign=975500&utm_source=habrahabr&utm_medium=rss)
 - [В РФ приняли в первом чтении законопроект о запрете передачи персональных данных в «небезопасные» страны](https://habr.com/ru/news/975470/?utm_campaign=975470&utm_source=habrahabr&utm_medium=rss)
 - [Японский стартап изобрел AGI — и заодно собственное определение AGI](https://habr.com/ru/news/975460/?utm_campaign=975460&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует ИИ-обзоры статей прямо на страницах Google News](https://habr.com/ru/companies/bothub/news/975458/?utm_campaign=975458&utm_source=habrahabr&utm_medium=rss)
 - [«Солар», «Фазум» и «Хоулмонт» выявили более 30 уязвимостей в BPM-платформе Camunda 7](https://habr.com/ru/companies/solarsecurity/news/975420/?utm_campaign=975420&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: каждый третий американский подросток регулярно пользуется ИИ-чатботами](https://habr.com/ru/companies/technokratos/news/975416/?utm_campaign=975416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
