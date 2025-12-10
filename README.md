@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: каждый третий американский подросток регулярно пользуется ИИ-чатботами](https://habr.com/ru/companies/technokratos/news/975416/?utm_campaign=975416&utm_source=habrahabr&utm_medium=rss)
+- [Google представила лучшие расширения для Chrome в 2025 году: очень много ИИ и Photoshop](https://habr.com/ru/news/975406/?utm_campaign=975406&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил GitStory — проект, который подводит годовые итоги активности в GitHub](https://habr.com/ru/news/975388/?utm_campaign=975388&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek V4 хотят выпустить к концу января. Модель тренируют на контрабандных Nvidia Blackwell](https://habr.com/ru/news/975386/?utm_campaign=975386&utm_source=habrahabr&utm_medium=rss)
 - [ITFB Group разработала новый сервис клиентского обслуживания для «Честного знака» с ELMA365](https://habr.com/ru/companies/itfb/news/975374/?utm_campaign=975374&utm_source=habrahabr&utm_medium=rss)
-- [GigaCode появился в маркетплейсе OpenIDE](https://habr.com/ru/companies/haulmont/news/975372/?utm_campaign=975372&utm_source=habrahabr&utm_medium=rss)
-- [В Австралии вступил в силу закон, запрещающий детям младше 16 лет пользоваться соцсетями](https://habr.com/ru/companies/bothub/news/975336/?utm_campaign=975336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
