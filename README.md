@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gartner посоветовала компаниям не использовать ИИ-браузеры из-за рисков утечек](https://habr.com/ru/news/975250/?utm_campaign=975250&utm_source=habrahabr&utm_medium=rss)
+- [OpenRouter выкатили огромное исследование: как реально используют LLM &lpar;анализ 100 трлн токенов&rpar;](https://habr.com/ru/news/975226/?utm_campaign=975226&utm_source=habrahabr&utm_medium=rss)
+- [РСХБ и РСХБ-Автоматизация дополняют ИИ-платформу ассистентами на базе LLM](https://habr.com/ru/companies/rshb/news/975228/?utm_campaign=975228&utm_source=habrahabr&utm_medium=rss)
 - [Британское шпионское агентство выпустило рождественский набор задач для любителей головоломок](https://habr.com/ru/news/975222/?utm_campaign=975222&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрешила использовать WebView2 для входа в приложение Entra ID через WAM](https://habr.com/ru/news/975206/?utm_campaign=975206&utm_source=habrahabr&utm_medium=rss)
-- [Определены лауреаты Научной премии Сбера 2025](https://habr.com/ru/companies/sberbank/news/974538/?utm_campaign=974538&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia будет программно отслеживать местоположение ИИ-ускорителей для борьбы с контрабандой](https://habr.com/ru/news/975186/?utm_campaign=975186&utm_source=habrahabr&utm_medium=rss)
-- [FDA впервые разрешила ИИ создавать лекарства](https://habr.com/ru/companies/bothub/news/975190/?utm_campaign=975190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
