@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз tyro 1.0 — инструмента для генерации CLI-интерфейсов из аннотированного по типам кода Python](https://habr.com/ru/news/975000/?utm_campaign=975000&utm_source=habrahabr&utm_medium=rss)
+- [Вышел пиринговый видеохостинг PeerTube 8.0](https://habr.com/ru/news/974878/?utm_campaign=974878&utm_source=habrahabr&utm_medium=rss)
 - [Цены на Microsoft 365 вырастут с 1 июля 2026 года](https://habr.com/ru/news/974870/?utm_campaign=974870&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI тестирует новую генерацию изображений для ChatGPT. Примеры работы и где попробовать](https://habr.com/ru/news/975076/?utm_campaign=975076&utm_source=habrahabr&utm_medium=rss)
 - [В VK Play появилась возможность интеграции со Steam](https://habr.com/ru/news/975070/?utm_campaign=975070&utm_source=habrahabr&utm_medium=rss)
-- [Интегратор «Мобиус Технологии» запустила R&amp;amp;D‑направление по разработке IT‑оборудования с долгим циклом экплуатации](https://habr.com/ru/news/975068/?utm_campaign=975068&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Продавцов нелегальных сим-карт не останавливают новые правила верификации»](https://habr.com/ru/news/975064/?utm_campaign=975064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
