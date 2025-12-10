@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Британское шпионское агентство выпустило рождественский набор задач для любителей головоломок](https://habr.com/ru/news/975222/?utm_campaign=975222&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разрешила использовать WebView2 для входа в приложение Entra ID через WAM](https://habr.com/ru/news/975206/?utm_campaign=975206&utm_source=habrahabr&utm_medium=rss)
+- [Определены лауреаты Научной премии Сбера 2025](https://habr.com/ru/companies/sberbank/news/974538/?utm_campaign=974538&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia будет программно отслеживать местоположение ИИ-ускорителей для борьбы с контрабандой](https://habr.com/ru/news/975186/?utm_campaign=975186&utm_source=habrahabr&utm_medium=rss)
 - [FDA впервые разрешила ИИ создавать лекарства](https://habr.com/ru/companies/bothub/news/975190/?utm_campaign=975190&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains закрывает Fleet](https://habr.com/ru/companies/spring_aio/news/975182/?utm_campaign=975182&utm_source=habrahabr&utm_medium=rss)
-- [Mistral выкатили Devstral 2 — открытая SOTA модель для кодинга](https://habr.com/ru/news/975176/?utm_campaign=975176&utm_source=habrahabr&utm_medium=rss)
-- [Встреча РГ21 C++ в Москве и онлайн: обсуждаем последние новости стандарта и общаемся на афтерпати](https://habr.com/ru/companies/yandex/news/974440/?utm_campaign=974440&utm_source=habrahabr&utm_medium=rss)
-- [Google тихо отключил Gemini 2.5 Pro в бесплатном тарифе](https://habr.com/ru/news/975166/?utm_campaign=975166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
