@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gartner посоветовала компаниям не использовать ИИ-браузеры из-за рисков утечек](https://habr.com/ru/news/975250/?utm_campaign=975250&utm_source=habrahabr&utm_medium=rss)
-- [OpenRouter выкатили огромное исследование: как реально используют LLM &lpar;анализ 100 трлн токенов&rpar;](https://habr.com/ru/news/975226/?utm_campaign=975226&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ и РСХБ-Автоматизация дополняют ИИ-платформу ассистентами на базе LLM](https://habr.com/ru/companies/rshb/news/975228/?utm_campaign=975228&utm_source=habrahabr&utm_medium=rss)
-- [Британское шпионское агентство выпустило рождественский набор задач для любителей головоломок](https://habr.com/ru/news/975222/?utm_campaign=975222&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешила использовать WebView2 для входа в приложение Entra ID через WAM](https://habr.com/ru/news/975206/?utm_campaign=975206&utm_source=habrahabr&utm_medium=rss)
+- [Сэм Альтман отложил гонку за AGI. ChatGPT важнее](https://habr.com/ru/news/975320/?utm_campaign=975320&utm_source=habrahabr&utm_medium=rss)
+- [Spring Data JDBC — идеальная Data для вашего приложения](https://habr.com/ru/companies/spring_aio/news/975312/?utm_campaign=975312&utm_source=habrahabr&utm_medium=rss)
+- [Rivian потратила почти два года на создание собственного ИИ-помощника](https://habr.com/ru/news/975306/?utm_campaign=975306&utm_source=habrahabr&utm_medium=rss)
+- [Индия предлагает взимать с OpenAI и Google роялти за обучение ИИ на защищённом контенте](https://habr.com/ru/companies/bothub/news/975298/?utm_campaign=975298&utm_source=habrahabr&utm_medium=rss)
+- [Google опередил OpenAI в гонке за Пентагон: Gemini развернули для 3 млн военных](https://habr.com/ru/news/975294/?utm_campaign=975294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
