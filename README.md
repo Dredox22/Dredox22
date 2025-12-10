@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РФ приняли в первом чтении законопроект о запрете передачи данных в «небезопасные» страны](https://habr.com/ru/news/975470/?utm_campaign=975470&utm_source=habrahabr&utm_medium=rss)
+- [Японский стартап изобрел AGI — и заодно собственное определение AGI](https://habr.com/ru/news/975460/?utm_campaign=975460&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует ИИ-обзоры статей прямо на страницах Google News](https://habr.com/ru/companies/bothub/news/975458/?utm_campaign=975458&utm_source=habrahabr&utm_medium=rss)
 - [«Солар», «Фазум» и «Хоулмонт» выявили более 30 уязвимостей в BPM-платформе Camunda 7](https://habr.com/ru/companies/solarsecurity/news/975420/?utm_campaign=975420&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: каждый третий американский подросток регулярно пользуется ИИ-чатботами](https://habr.com/ru/companies/technokratos/news/975416/?utm_campaign=975416&utm_source=habrahabr&utm_medium=rss)
-- [Google представила лучшие расширения для Chrome в 2025 году: очень много ИИ и Photoshop](https://habr.com/ru/news/975406/?utm_campaign=975406&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил GitStory — проект, который подводит годовые итоги активности в GitHub](https://habr.com/ru/news/975388/?utm_campaign=975388&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek V4 хотят выпустить к концу января. Модель тренируют на контрабандных Nvidia Blackwell](https://habr.com/ru/news/975386/?utm_campaign=975386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
