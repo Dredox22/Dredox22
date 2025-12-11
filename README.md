@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект TaskExplorer 1.7.0](https://habr.com/ru/news/975432/?utm_campaign=975432&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс запустил акселератор для вы­со­ко­тех­но­ло­гич­ных стартапов студентов и молодых учёных](https://habr.com/ru/companies/yandex_praktikum/news/975286/?utm_campaign=975286&utm_source=habrahabr&utm_medium=rss)
+- [Форум HDMI продолжает блокировать HDMI 2.1 для Linux](https://habr.com/ru/news/975562/?utm_campaign=975562&utm_source=habrahabr&utm_medium=rss)
+- [Обнаружены 18 программ в Google Play и 52 приложения в App Store от российских и китайских компаний под санкциями США](https://habr.com/ru/news/975560/?utm_campaign=975560&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.5 стал лучшим в бенчмарке на реальные рабочие задачи](https://habr.com/ru/news/975536/?utm_campaign=975536&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск AIDA64 8.20](https://habr.com/ru/news/975110/?utm_campaign=975110&utm_source=habrahabr&utm_medium=rss)
-- [Объявлены победители премии Comedy Wildlife Photography Awards 2025](https://habr.com/ru/news/975532/?utm_campaign=975532&utm_source=habrahabr&utm_medium=rss)
-- [Релиз библиотеки meshoptimizer 1.0](https://habr.com/ru/news/975276/?utm_campaign=975276&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 146.0](https://habr.com/ru/news/975120/?utm_campaign=975120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
