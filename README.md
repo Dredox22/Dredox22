@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: хакеры заявили о взломе серверов одного из ключевых разработчиков реестра воинского учёта](https://habr.com/ru/news/975768/?utm_campaign=975768&utm_source=habrahabr&utm_medium=rss)
+- [Midea Group представила шестирукого робота-гуманоида Miro U для задач промышленной автоматизации](https://habr.com/ru/news/975756/?utm_campaign=975756&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве ИТ и ИБ за ноябрь 2025 года](https://habr.com/ru/companies/ussc/news/975750/?utm_campaign=975750&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» для всех пользователей стал доступен ИИ-помощник на базе технологий Alice AI &lpar;по иконке «Спросить AI»&rpar;](https://habr.com/ru/news/975716/?utm_campaign=975716&utm_source=habrahabr&utm_medium=rss)
 - [Генеральные прокуроры США требуют от Microsoft, OpenAI и Google устранить «делюзионные» ответы ИИ](https://habr.com/ru/companies/bothub/news/975606/?utm_campaign=975606&utm_source=habrahabr&utm_medium=rss)
-- [Бум майнинга в США закончился — дата-центры уходят в ИИ](https://habr.com/ru/news/975682/?utm_campaign=975682&utm_source=habrahabr&utm_medium=rss)
-- [Антихрупкость корпоративных коммуникаций: UC в 2026 году](https://habr.com/ru/companies/k2tech/news/975680/?utm_campaign=975680&utm_source=habrahabr&utm_medium=rss)
-- [Steam снова можно запустить на Windows 7 благодаря фанатскому бэкпорту](https://habr.com/ru/news/975506/?utm_campaign=975506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
