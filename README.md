@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила GPT‑5.2 — новую версию ведущей языковой модели с улучшенной логикой и скоростью](https://habr.com/ru/companies/bothub/news/975892/?utm_campaign=975892&utm_source=habrahabr&utm_medium=rss)
+- [Google перевела Deep Research на Gemini 3 Pro — агент меньше галлюцинирует и лучше ищет в интернете](https://habr.com/ru/news/975890/?utm_campaign=975890&utm_source=habrahabr&utm_medium=rss)
+- [Новый бенчмарк показывает, что даже лучшие ИИ‑модели плохо справляются с правдой](https://habr.com/ru/companies/bothub/news/975886/?utm_campaign=975886&utm_source=habrahabr&utm_medium=rss)
+- [Apple и Google объединились, чтобы упростить переход пользователей между Android и iOS](https://habr.com/ru/news/975882/?utm_campaign=975882&utm_source=habrahabr&utm_medium=rss)
 - [Opera предлагает перейти на платную подписку за $20 в месяц ради ИИ-браузера Neon](https://habr.com/ru/companies/bothub/news/975878/?utm_campaign=975878&utm_source=habrahabr&utm_medium=rss)
-- [Человек года — не человек. Архитекторы ИИ получили престижную награду TIME](https://habr.com/ru/news/975876/?utm_campaign=975876&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила проблему с мерцанием «Проводника» в тёмном режиме в Windows](https://habr.com/ru/news/975866/?utm_campaign=975866&utm_source=habrahabr&utm_medium=rss)
-- [В Минобороны РФ опровергли сообщения о взломе реестра воинского учёта](https://habr.com/ru/news/975860/?utm_campaign=975860&utm_source=habrahabr&utm_medium=rss)
-- [ИИ создал полноценный Linux-компьютер из 843 компонентов и он загрузился с первого раза](https://habr.com/ru/companies/bothub/news/975854/?utm_campaign=975854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
