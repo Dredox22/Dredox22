@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз MoonShine 4.1 — open source админ панель для Laravel](https://habr.com/ru/news/975638/?utm_campaign=975638&utm_source=habrahabr&utm_medium=rss)
+- [Открытый стандарт лицензирования контента в интернете стал официальной спецификацией](https://habr.com/ru/news/975622/?utm_campaign=975622&utm_source=habrahabr&utm_medium=rss)
+- [Qwen3-Omni-Flash: китайская модель догнала Gemini 2.5 Pro по аудио — и стоит в 3 раза дешевле](https://habr.com/ru/news/975630/?utm_campaign=975630&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила функцию трансляции видео при обращении в экстренные службы](https://habr.com/ru/news/975612/?utm_campaign=975612&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Teams будет предупреждать о подозрительном трафике с внешними доменами](https://habr.com/ru/news/975592/?utm_campaign=975592&utm_source=habrahabr&utm_medium=rss)
-- [Видеокодек AV1 получил премию «Технологии и инженерия» на церемонии «Эмми»](https://habr.com/ru/news/975586/?utm_campaign=975586&utm_source=habrahabr&utm_medium=rss)
-- [Google делает ставку на ИИ: Амину Вахдату доверяют всю инфраструктуру вычислений](https://habr.com/ru/companies/bothub/news/975590/?utm_campaign=975590&utm_source=habrahabr&utm_medium=rss)
-- [CodeRun Winter Challenge: зимний марафон задач по программированию — спасаем вселенную от Вечной зимы](https://habr.com/ru/companies/yandex/news/975488/?utm_campaign=975488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
