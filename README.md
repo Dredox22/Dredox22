@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney разрешил Sora генерировать видео с персонажами компании и инвестирует $1 млрд в OpenAI](https://habr.com/ru/companies/bothub/news/975826/?utm_campaign=975826&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT появился Photoshop и другие продукты Adobe. Почему это провал — разбираем](https://habr.com/ru/news/975818/?utm_campaign=975818&utm_source=habrahabr&utm_medium=rss)
+- [Сервера Google, похоже, продолжат деградацию — на очереди остальные сервисы](https://habr.com/ru/news/975812/?utm_campaign=975812&utm_source=habrahabr&utm_medium=rss)
+- [ПВЗ в эфире: слушайте новый сезон подкаста Ozon Tech](https://habr.com/ru/companies/ozontech/news/975790/?utm_campaign=975790&utm_source=habrahabr&utm_medium=rss)
 - [Starcloud впервые обучил ИИ в космосе и готовит орбитальные дата центры](https://habr.com/ru/companies/bothub/news/975798/?utm_campaign=975798&utm_source=habrahabr&utm_medium=rss)
-- [Царь бесконечного пространства. Нейросеть Карпати первой обучили в космосе на текстах Шекспира](https://habr.com/ru/news/975796/?utm_campaign=975796&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Postgres Pro Shardman 17.6.1: ускорение одношардовых запросов и тотальное шифрование](https://habr.com/ru/companies/postgrespro/news/975776/?utm_campaign=975776&utm_source=habrahabr&utm_medium=rss)
-- [Deckhouse Conf 2026 — большая конференция для тех, кто работает с инфраструктурными технологиями](https://habr.com/ru/companies/flant/news/974766/?utm_campaign=974766&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: хакеры заявили о взломе серверов одного из ключевых разработчиков реестра воинского учёта](https://habr.com/ru/news/975768/?utm_campaign=975768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
