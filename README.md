@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Минобороны РФ опровергли сообщения о взломе реестра воинского учёта](https://habr.com/ru/news/975860/?utm_campaign=975860&utm_source=habrahabr&utm_medium=rss)
+- [ИИ создал полноценный Linux-компьютер из 843 компонентов и он загрузился с первого раза](https://habr.com/ru/companies/bothub/news/975854/?utm_campaign=975854&utm_source=habrahabr&utm_medium=rss)
+- [СМИ:«На базе МГТУ создадут два образовательных центра по кибербезопасности»](https://habr.com/ru/news/975850/?utm_campaign=975850&utm_source=habrahabr&utm_medium=rss)
 - [Disney разрешил Sora генерировать видео с персонажами компании и инвестирует $1 млрд в OpenAI](https://habr.com/ru/companies/bothub/news/975826/?utm_campaign=975826&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появился Photoshop и другие продукты Adobe. Почему это провал — разбираем](https://habr.com/ru/news/975818/?utm_campaign=975818&utm_source=habrahabr&utm_medium=rss)
-- [Сервера Google, похоже, продолжат деградацию — на очереди остальные сервисы](https://habr.com/ru/news/975812/?utm_campaign=975812&utm_source=habrahabr&utm_medium=rss)
-- [ПВЗ в эфире: слушайте новый сезон подкаста Ozon Tech](https://habr.com/ru/companies/ozontech/news/975790/?utm_campaign=975790&utm_source=habrahabr&utm_medium=rss)
-- [Starcloud впервые обучил ИИ в космосе и готовит орбитальные дата центры](https://habr.com/ru/companies/bothub/news/975798/?utm_campaign=975798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
