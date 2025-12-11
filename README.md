@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Homebrew добавили поддержку Flatpak](https://habr.com/ru/news/975922/?utm_campaign=975922&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: в феврале пользователи обращаются к ИИ Copilot за советами по отношениям, а по ночам беседуют о философии](https://habr.com/ru/news/975908/?utm_campaign=975908&utm_source=habrahabr&utm_medium=rss)
 - [Новая GPT-5.2 поставила рекорд в сложнейшем «бенчмарке на AGI»](https://habr.com/ru/news/975902/?utm_campaign=975902&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft решит проблему с неудобными обновлениями приложений в Windows 11](https://habr.com/ru/news/975508/?utm_campaign=975508&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила GPT-5.2: ставка на долгие агентные сценарии и профессиональную автоматизацию](https://habr.com/ru/news/975896/?utm_campaign=975896&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила GPT‑5.2 — новую версию ведущей языковой модели с улучшенной логикой и скоростью](https://habr.com/ru/companies/bothub/news/975892/?utm_campaign=975892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
