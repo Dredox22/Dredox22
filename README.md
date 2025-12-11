@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera предлагает перейти на платную подписку за $20 в месяц ради ИИ-браузера Neon](https://habr.com/ru/companies/bothub/news/975878/?utm_campaign=975878&utm_source=habrahabr&utm_medium=rss)
+- [Человек года — не человек. Архитекторы ИИ получили престижную награду TIME](https://habr.com/ru/news/975876/?utm_campaign=975876&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила проблему с мерцанием «Проводника» в тёмном режиме в Windows](https://habr.com/ru/news/975866/?utm_campaign=975866&utm_source=habrahabr&utm_medium=rss)
 - [В Минобороны РФ опровергли сообщения о взломе реестра воинского учёта](https://habr.com/ru/news/975860/?utm_campaign=975860&utm_source=habrahabr&utm_medium=rss)
 - [ИИ создал полноценный Linux-компьютер из 843 компонентов и он загрузился с первого раза](https://habr.com/ru/companies/bothub/news/975854/?utm_campaign=975854&utm_source=habrahabr&utm_medium=rss)
-- [СМИ:«На базе МГТУ создадут два образовательных центра по кибербезопасности»](https://habr.com/ru/news/975850/?utm_campaign=975850&utm_source=habrahabr&utm_medium=rss)
-- [Disney разрешил Sora генерировать видео с персонажами компании и инвестирует $1 млрд в OpenAI](https://habr.com/ru/companies/bothub/news/975826/?utm_campaign=975826&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появился Photoshop и другие продукты Adobe. Почему это провал — разбираем](https://habr.com/ru/news/975818/?utm_campaign=975818&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
