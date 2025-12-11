@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел открытый проект TaskExplorer 1.7.0](https://habr.com/ru/news/975432/?utm_campaign=975432&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс запустил акселератор для вы­со­ко­тех­но­ло­гич­ных стартапов студентов и молодых учёных](https://habr.com/ru/companies/yandex_praktikum/news/975286/?utm_campaign=975286&utm_source=habrahabr&utm_medium=rss)
-- [Форум HDMI продолжает блокировать HDMI 2.1 для Linux](https://habr.com/ru/news/975562/?utm_campaign=975562&utm_source=habrahabr&utm_medium=rss)
-- [Обнаружены 18 программ в Google Play и 52 приложения в App Store от российских и китайских компаний под санкциями США](https://habr.com/ru/news/975560/?utm_campaign=975560&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.5 стал лучшим в бенчмарке на реальные рабочие задачи](https://habr.com/ru/news/975536/?utm_campaign=975536&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила функцию трансляции видео при обращении в экстренные службы](https://habr.com/ru/news/975612/?utm_campaign=975612&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Teams будет предупреждать о подозрительном трафике с внешними доменами](https://habr.com/ru/news/975592/?utm_campaign=975592&utm_source=habrahabr&utm_medium=rss)
+- [Видеокодек AV1 получил премию «Технологии и инженерия» на церемонии «Эмми»](https://habr.com/ru/news/975586/?utm_campaign=975586&utm_source=habrahabr&utm_medium=rss)
+- [Google делает ставку на ИИ: Амину Вахдату доверяют всю инфраструктуру вычислений](https://habr.com/ru/companies/bothub/news/975590/?utm_campaign=975590&utm_source=habrahabr&utm_medium=rss)
+- [CodeRun Winter Challenge: зимний марафон задач по программированию — спасаем вселенную от Вечной зимы](https://habr.com/ru/companies/yandex/news/975488/?utm_campaign=975488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
