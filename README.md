@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Starcloud впервые обучил ИИ в космосе и готовит орбитальные дата центры](https://habr.com/ru/companies/bothub/news/975798/?utm_campaign=975798&utm_source=habrahabr&utm_medium=rss)
+- [Царь бесконечного пространства. Нейросеть Карпати первой обучили в космосе на текстах Шекспира](https://habr.com/ru/news/975796/?utm_campaign=975796&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Postgres Pro Shardman 17.6.1: ускорение одношардовых запросов и тотальное шифрование](https://habr.com/ru/companies/postgrespro/news/975776/?utm_campaign=975776&utm_source=habrahabr&utm_medium=rss)
 - [Deckhouse Conf 2026 — большая конференция для тех, кто работает с инфраструктурными технологиями](https://habr.com/ru/companies/flant/news/974766/?utm_campaign=974766&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: хакеры заявили о взломе серверов одного из ключевых разработчиков реестра воинского учёта](https://habr.com/ru/news/975768/?utm_campaign=975768&utm_source=habrahabr&utm_medium=rss)
-- [Midea Group представила шестирукого робота-гуманоида Miro U для задач промышленной автоматизации](https://habr.com/ru/news/975756/?utm_campaign=975756&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за ноябрь 2025 года](https://habr.com/ru/companies/ussc/news/975750/?utm_campaign=975750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
