@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндекс Картах» для всех пользователей стал доступен ИИ-помощник на базе технологий Alice AI &lpar;по иконке «Спросить AI»&rpar;](https://habr.com/ru/news/975716/?utm_campaign=975716&utm_source=habrahabr&utm_medium=rss)
+- [Генеральные прокуроры США требуют от Microsoft, OpenAI и Google устранить «делюзионные» ответы ИИ](https://habr.com/ru/companies/bothub/news/975606/?utm_campaign=975606&utm_source=habrahabr&utm_medium=rss)
+- [Бум майнинга в США закончился — дата-центры уходят в ИИ](https://habr.com/ru/news/975682/?utm_campaign=975682&utm_source=habrahabr&utm_medium=rss)
+- [Антихрупкость корпоративных коммуникаций: UC в 2026 году](https://habr.com/ru/companies/k2tech/news/975680/?utm_campaign=975680&utm_source=habrahabr&utm_medium=rss)
 - [Steam снова можно запустить на Windows 7 благодаря фанатскому бэкпорту](https://habr.com/ru/news/975506/?utm_campaign=975506&utm_source=habrahabr&utm_medium=rss)
-- [Cursor представили Debug Mode](https://habr.com/ru/news/975658/?utm_campaign=975658&utm_source=habrahabr&utm_medium=rss)
-- [Релиз MoonShine 4.1 — open source админ панель для Laravel](https://habr.com/ru/news/975638/?utm_campaign=975638&utm_source=habrahabr&utm_medium=rss)
-- [Открытый стандарт лицензирования контента в интернете стал официальной спецификацией](https://habr.com/ru/news/975622/?utm_campaign=975622&utm_source=habrahabr&utm_medium=rss)
-- [Qwen3-Omni-Flash: китайская модель догнала Gemini 2.5 Pro по аудио — и стоит в 3 раза дешевле](https://habr.com/ru/news/975630/?utm_campaign=975630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
