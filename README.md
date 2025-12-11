@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft решила проблему с неудобными обновлениями приложений в Windows 11](https://habr.com/ru/news/975508/?utm_campaign=975508&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила GPT-5.2: ставка на долгие агентные сценарии и профессиональную автоматизацию](https://habr.com/ru/news/975896/?utm_campaign=975896&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила GPT‑5.2 — новую версию ведущей языковой модели с улучшенной логикой и скоростью](https://habr.com/ru/companies/bothub/news/975892/?utm_campaign=975892&utm_source=habrahabr&utm_medium=rss)
 - [Google перевела Deep Research на Gemini 3 Pro — агент меньше галлюцинирует и лучше ищет в интернете](https://habr.com/ru/news/975890/?utm_campaign=975890&utm_source=habrahabr&utm_medium=rss)
 - [Новый бенчмарк показывает, что даже лучшие ИИ‑модели плохо справляются с правдой](https://habr.com/ru/companies/bothub/news/975886/?utm_campaign=975886&utm_source=habrahabr&utm_medium=rss)
-- [Apple и Google объединились, чтобы упростить переход пользователей между Android и iOS](https://habr.com/ru/news/975882/?utm_campaign=975882&utm_source=habrahabr&utm_medium=rss)
-- [Opera предлагает перейти на платную подписку за $20 в месяц ради ИИ-браузера Neon](https://habr.com/ru/companies/bothub/news/975878/?utm_campaign=975878&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
