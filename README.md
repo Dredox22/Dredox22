@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.5 стал лучшим в бенчмарке на реальные рабочие задачи](https://habr.com/ru/news/975536/?utm_campaign=975536&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск AIDA64 8.20](https://habr.com/ru/news/975110/?utm_campaign=975110&utm_source=habrahabr&utm_medium=rss)
 - [Объявлены победители премии Comedy Wildlife Photography Awards 2025](https://habr.com/ru/news/975532/?utm_campaign=975532&utm_source=habrahabr&utm_medium=rss)
 - [Релиз библиотеки meshoptimizer 1.0](https://habr.com/ru/news/975276/?utm_campaign=975276&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Mozilla Thunderbird 146.0](https://habr.com/ru/news/975120/?utm_campaign=975120&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI: каждая новая ИИ-модель может стать кибероружием](https://habr.com/ru/news/975500/?utm_campaign=975500&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
