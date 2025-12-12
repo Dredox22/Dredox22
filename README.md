@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен нейроинтерфейс, который не нужно вживлять в мозг — он быстрее Neuralink в 100 раз](https://habr.com/ru/news/976250/?utm_campaign=976250&utm_source=habrahabr&utm_medium=rss)
 - [RSL 1.0 стал официальным стандартом лицензирования контента для ИИ‑эры](https://habr.com/ru/companies/bothub/news/976144/?utm_campaign=976144&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор объявил, что не замедляет Telegram](https://habr.com/ru/news/976226/?utm_campaign=976226&utm_source=habrahabr&utm_medium=rss)
 - [Вайб-кодинг теперь и для дизайнеров: Cursor выпустил визуальный редактор кода](https://habr.com/ru/news/976214/?utm_campaign=976214&utm_source=habrahabr&utm_medium=rss)
 - [Учёные НГУ создали метод распознавания плагиата на четырёх языках](https://habr.com/ru/news/976180/?utm_campaign=976180&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил утилиту на Swift и Metal, которая добавляет на рабочий стол Mac интерактивную анимацию снега](https://habr.com/ru/news/976176/?utm_campaign=976176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
