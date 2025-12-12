@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сетевая кибербезопасность: тренды и прогнозы](https://habr.com/ru/companies/infowatch/news/976024/?utm_campaign=976024&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-функция Excel позволит не запоминать формулы](https://habr.com/ru/news/975998/?utm_campaign=975998&utm_source=habrahabr&utm_medium=rss)
-- [Вернулись к истокам: злоумышленники провели новую атаку ВПО Buhtrap через сайты-приманки](https://habr.com/ru/companies/F6/news/975730/?utm_campaign=975730&utm_source=habrahabr&utm_medium=rss)
-- [Более 10 тысяч образов Docker Hub содержат утечки учётных данных и ключей аутентификации](https://habr.com/ru/news/975994/?utm_campaign=975994&utm_source=habrahabr&utm_medium=rss)
-- [Пять лет спустя Fortnite вернулась в Google Play, а судебная тяжба между Epic и Apple продолжается](https://habr.com/ru/news/975986/?utm_campaign=975986&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила отчёт Copilot Usage Report 2025 и показала, как ИИ изменил работу миллионов людей](https://habr.com/ru/companies/bothub/news/976052/?utm_campaign=976052&utm_source=habrahabr&utm_medium=rss)
+- [Compo Soft получила премию ФРИИ за лучшее отраслевое решение в e-commerce](https://habr.com/ru/companies/compo/news/976048/?utm_campaign=976048&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.14](https://habr.com/ru/news/975666/?utm_campaign=975666&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT получит режим 18+ в первом квартале 2026 года — The Verge](https://habr.com/ru/news/976038/?utm_campaign=976038&utm_source=habrahabr&utm_medium=rss)
+- [Google запустил своего самого продвинутого ИИ-агента в день выхода GPT-5.2 от OpenAI](https://habr.com/ru/companies/bothub/news/976036/?utm_campaign=976036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
