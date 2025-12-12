@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google добавил генерацию речи в Gemini API](https://habr.com/ru/companies/bothub/news/976092/?utm_campaign=976092&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» представила книгу «Вирьё моё! Хроники невидимых хакерских войн от Сыктывкара до Сингапура»](https://habr.com/ru/news/976136/?utm_campaign=976136&utm_source=habrahabr&utm_medium=rss)
 - [Браузер Brave начал тестирование режима агентного ИИ для автоматизированных задач](https://habr.com/ru/news/976098/?utm_campaign=976098&utm_source=habrahabr&utm_medium=rss)
 - [Disney подал письмо с требованием к Google из-за массового нарушения авторских прав в ИИ](https://habr.com/ru/companies/bothub/news/976074/?utm_campaign=976074&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила отчёт Copilot Usage Report 2025](https://habr.com/ru/companies/bothub/news/976052/?utm_campaign=976052&utm_source=habrahabr&utm_medium=rss)
-- [Compo Soft получила премию ФРИИ за лучшее отраслевое решение в e-commerce](https://habr.com/ru/companies/compo/news/976048/?utm_campaign=976048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
