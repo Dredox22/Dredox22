@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI сократила галлюцинации в GPT-5.2 на 30–50% — при условии, что включен поиск](https://habr.com/ru/news/975962/?utm_campaign=975962&utm_source=habrahabr&utm_medium=rss)
+- [Google представила браузер Disco для совместного сёрфинга с ИИ Gemini](https://habr.com/ru/news/975960/?utm_campaign=975960&utm_source=habrahabr&utm_medium=rss)
 - [АСКОН выпустила нативную КОМПАС-3D v24, разработанную специально для российских ОС на ядре Linux](https://habr.com/ru/news/975942/?utm_campaign=975942&utm_source=habrahabr&utm_medium=rss)
 - [Кейс: разработали маркетинговую AI-платформу со Сбером](https://habr.com/ru/companies/dalee_group/news/975940/?utm_campaign=975940&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила подсистему Windows для Linux &lpar;WSL&rpar; 2.7.0](https://habr.com/ru/news/975684/?utm_campaign=975684&utm_source=habrahabr&utm_medium=rss)
-- [Релиз среды рабочего стола Cinnamon 6.6](https://habr.com/ru/news/975884/?utm_campaign=975884&utm_source=habrahabr&utm_medium=rss)
-- [В Homebrew добавили поддержку Flatpak](https://habr.com/ru/news/975922/?utm_campaign=975922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
