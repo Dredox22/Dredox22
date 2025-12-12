@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сетевая кибербезопасность: тренды и прогнозы](https://habr.com/ru/companies/infowatch/news/976024/?utm_campaign=976024&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-функция Excel позволит не запоминать формулы](https://habr.com/ru/news/975998/?utm_campaign=975998&utm_source=habrahabr&utm_medium=rss)
+- [Вернулись к истокам: злоумышленники провели новую атаку ВПО Buhtrap через сайты-приманки](https://habr.com/ru/companies/F6/news/975730/?utm_campaign=975730&utm_source=habrahabr&utm_medium=rss)
+- [Более 10 тысяч образов Docker Hub содержат утечки учётных данных и ключей аутентификации](https://habr.com/ru/news/975994/?utm_campaign=975994&utm_source=habrahabr&utm_medium=rss)
 - [Пять лет спустя Fortnite вернулась в Google Play, а судебная тяжба между Epic и Apple продолжается](https://habr.com/ru/news/975986/?utm_campaign=975986&utm_source=habrahabr&utm_medium=rss)
-- [Выход Deus Ex Remastered отложили на неопределённый срок](https://habr.com/ru/news/975974/?utm_campaign=975974&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сократила галлюцинации в GPT-5.2 на 30–50% — при условии, что включен поиск](https://habr.com/ru/news/975962/?utm_campaign=975962&utm_source=habrahabr&utm_medium=rss)
-- [Google представила браузер Disco для совместного поиска с ИИ Gemini](https://habr.com/ru/news/975960/?utm_campaign=975960&utm_source=habrahabr&utm_medium=rss)
-- [АСКОН выпустила нативную КОМПАС-3D v24, разработанную специально для российских ОС на ядре Linux](https://habr.com/ru/news/975942/?utm_campaign=975942&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
