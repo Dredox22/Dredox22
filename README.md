@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор объявил, что не замедляет Telegram](https://habr.com/ru/news/976226/?utm_campaign=976226&utm_source=habrahabr&utm_medium=rss)
 - [Вайб-кодинг теперь и для дизайнеров: Cursor выпустил визуальный редактор кода](https://habr.com/ru/news/976214/?utm_campaign=976214&utm_source=habrahabr&utm_medium=rss)
 - [Учёные НГУ создали метод распознавания плагиата на четырёх языках](https://habr.com/ru/news/976180/?utm_campaign=976180&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил утилиту на Swift и Metal, которая добавляет на рабочий стол Mac интерактивную анимацию снега](https://habr.com/ru/news/976176/?utm_campaign=976176&utm_source=habrahabr&utm_medium=rss)
 - [DeepMind строит ИИ-лабораторию, где роботы будут синтезировать сотни новых материалов в день](https://habr.com/ru/news/976174/?utm_campaign=976174&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выкатывает GPT-5.2 экспертного уровня, конкуренты объединяются ради стандартов: главное новости AI за неделю](https://habr.com/ru/companies/tochka/news/976168/?utm_campaign=976168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
