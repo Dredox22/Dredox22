@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft выпустила отчёт Copilot Usage Report 2025 и показала, как ИИ изменил работу миллионов людей](https://habr.com/ru/companies/bothub/news/976052/?utm_campaign=976052&utm_source=habrahabr&utm_medium=rss)
+- [Disney подал письмо с требованием к Google из-за массового нарушения авторских прав в ИИ](https://habr.com/ru/companies/bothub/news/976074/?utm_campaign=976074&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила отчёт Copilot Usage Report 2025](https://habr.com/ru/companies/bothub/news/976052/?utm_campaign=976052&utm_source=habrahabr&utm_medium=rss)
 - [Compo Soft получила премию ФРИИ за лучшее отраслевое решение в e-commerce](https://habr.com/ru/companies/compo/news/976048/?utm_campaign=976048&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого мультиплатформенного растрового графического редактора Krita 5.2.14](https://habr.com/ru/news/975666/?utm_campaign=975666&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT получит режим 18+ в первом квартале 2026 года — The Verge](https://habr.com/ru/news/976038/?utm_campaign=976038&utm_source=habrahabr&utm_medium=rss)
-- [Google запустил своего самого продвинутого ИИ-агента в день выхода GPT-5.2 от OpenAI](https://habr.com/ru/companies/bothub/news/976036/?utm_campaign=976036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
