@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кейс: разработали маркетинговую AI-платформу со Сбером](https://habr.com/ru/companies/dalee_group/news/975940/?utm_campaign=975940&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила подсистему Windows для Linux &lpar;WSL&rpar; 2.7.0](https://habr.com/ru/news/975684/?utm_campaign=975684&utm_source=habrahabr&utm_medium=rss)
 - [Релиз среды рабочего стола Cinnamon 6.6](https://habr.com/ru/news/975884/?utm_campaign=975884&utm_source=habrahabr&utm_medium=rss)
 - [В Homebrew добавили поддержку Flatpak](https://habr.com/ru/news/975922/?utm_campaign=975922&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: в феврале пользователи обращаются к ИИ Copilot за советами по отношениям, а по ночам беседуют о философии](https://habr.com/ru/news/975908/?utm_campaign=975908&utm_source=habrahabr&utm_medium=rss)
-- [Новая GPT-5.2 поставила рекорд в сложнейшем «бенчмарке на AGI»](https://habr.com/ru/news/975902/?utm_campaign=975902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
