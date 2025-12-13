@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle перенесла сроки завершения строительства ЦОД для OpenAI с 2027 на 2028 год](https://habr.com/ru/news/976304/?utm_campaign=976304&utm_source=habrahabr&utm_medium=rss)
+- [Студия id Software создаёт «всеобъемлющий» профсоюз](https://habr.com/ru/news/976294/?utm_campaign=976294&utm_source=habrahabr&utm_medium=rss)
 - [Читалки Kindle стали применять ИИ для ответов на вопросы о книгах](https://habr.com/ru/news/976288/?utm_campaign=976288&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: ключи доступа и покупка подарков](https://habr.com/ru/news/976286/?utm_campaign=976286&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре не планирует блокировать в РФ доступ к видеоиграм Call of Duty и Wolfenstein](https://habr.com/ru/news/976284/?utm_campaign=976284&utm_source=habrahabr&utm_medium=rss)
-- [Google Translate расширил режим обучения языкам](https://habr.com/ru/news/976280/?utm_campaign=976280&utm_source=habrahabr&utm_medium=rss)
-- [Представлен минималистичный Linux-дистрибутив НАЙС.ОС 5.2 &lpar;NiceOS&rpar;](https://habr.com/ru/news/976276/?utm_campaign=976276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
