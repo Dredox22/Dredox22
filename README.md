@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Элемент» поставил «Роскосмосу» оборудование для тестов орбитальной электроники](https://habr.com/ru/news/976338/?utm_campaign=976338&utm_source=habrahabr&utm_medium=rss)
+- [The Register: при въезде в США туристам придётся показывать историю своих публикаций в соцсетях за пять лет](https://habr.com/ru/news/976194/?utm_campaign=976194&utm_source=habrahabr&utm_medium=rss)
 - [В проекте GNOME запретили разработчикам использовать ИИ для генерации дополнений к GNOME Shell](https://habr.com/ru/news/976320/?utm_campaign=976320&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила новый голосовой ИИ на Gemini: в тестах он помог оформить 14 000 ипотечных кредитов](https://habr.com/ru/news/976314/?utm_campaign=976314&utm_source=habrahabr&utm_medium=rss)
 - [Oracle перенесла сроки завершения строительства ЦОД для OpenAI с 2027 на 2028 год](https://habr.com/ru/news/976304/?utm_campaign=976304&utm_source=habrahabr&utm_medium=rss)
-- [Студия id Software создаёт «всеобъемлющий» профсоюз](https://habr.com/ru/news/976294/?utm_campaign=976294&utm_source=habrahabr&utm_medium=rss)
-- [Читалки Kindle стали применять ИИ для ответов на вопросы о книгах](https://habr.com/ru/news/976288/?utm_campaign=976288&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
