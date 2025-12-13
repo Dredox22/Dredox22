@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В проекте GNOME запретили разработчикам использовать ИИ для генерации дополнений к GNOME Shell](https://habr.com/ru/news/976320/?utm_campaign=976320&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила новый голосовой ИИ на Gemini: в тестах он помог оформить 14 000 ипотечных кредитов](https://habr.com/ru/news/976314/?utm_campaign=976314&utm_source=habrahabr&utm_medium=rss)
 - [Oracle перенесла сроки завершения строительства ЦОД для OpenAI с 2027 на 2028 год](https://habr.com/ru/news/976304/?utm_campaign=976304&utm_source=habrahabr&utm_medium=rss)
 - [Студия id Software создаёт «всеобъемлющий» профсоюз](https://habr.com/ru/news/976294/?utm_campaign=976294&utm_source=habrahabr&utm_medium=rss)
 - [Читалки Kindle стали применять ИИ для ответов на вопросы о книгах](https://habr.com/ru/news/976288/?utm_campaign=976288&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: ключи доступа и покупка подарков](https://habr.com/ru/news/976286/?utm_campaign=976286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
