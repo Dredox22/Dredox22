@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Читалки Kindle стали применять ИИ для ответов на вопросы о книгах](https://habr.com/ru/news/976288/?utm_campaign=976288&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Telegram: ключи доступа и покупка подарков](https://habr.com/ru/news/976286/?utm_campaign=976286&utm_source=habrahabr&utm_medium=rss)
+- [В Роскомнадзоре не планирует блокировать в РФ доступ к видеоиграм Call of Duty и Wolfenstein](https://habr.com/ru/news/976284/?utm_campaign=976284&utm_source=habrahabr&utm_medium=rss)
 - [Google Translate расширил режим обучения языкам](https://habr.com/ru/news/976280/?utm_campaign=976280&utm_source=habrahabr&utm_medium=rss)
 - [Представлен минималистичный Linux-дистрибутив НАЙС.ОС 5.2 &lpar;NiceOS&rpar;](https://habr.com/ru/news/976276/?utm_campaign=976276&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор Швейцарии начал антимонопольное расследование против Apple из-за доступа к NFC-чипу в iPhone](https://habr.com/ru/news/976274/?utm_campaign=976274&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.3.1](https://habr.com/ru/news/976210/?utm_campaign=976210&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.92.0](https://habr.com/ru/news/976070/?utm_campaign=976070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
