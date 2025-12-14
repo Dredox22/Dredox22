@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Смартфоны и планшеты Samsung Galaxy не получали обновления безопасности через Google Play с лета этого года](https://habr.com/ru/news/976454/?utm_campaign=976454&utm_source=habrahabr&utm_medium=rss)
+- [Вышел дистрибутив для пентестеров Kali Linux 2025.4](https://habr.com/ru/news/976450/?utm_campaign=976450&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого редактора звука Audacity 3.7.7](https://habr.com/ru/news/976196/?utm_campaign=976196&utm_source=habrahabr&utm_medium=rss)
 - [«Трансформатор ждут 5 лет»: ИИ-бум уперся в очередь за оборудованием](https://habr.com/ru/news/976432/?utm_campaign=976432&utm_source=habrahabr&utm_medium=rss)
 - [«ИИ написал 85% кода»: как четыре инженера OpenAI собрали Android-версию Sora 2 за 28 дней](https://habr.com/ru/news/976402/?utm_campaign=976402&utm_source=habrahabr&utm_medium=rss)
-- [Росавиация: в российских самолётах может появиться доступ к спутниковому интернету от «Бюро 1440»](https://habr.com/ru/news/976362/?utm_campaign=976362&utm_source=habrahabr&utm_medium=rss)
-- [«Элемент» поставил «Роскосмосу» оборудование для тестов орбитальной электроники](https://habr.com/ru/news/976338/?utm_campaign=976338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
