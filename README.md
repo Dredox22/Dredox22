@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск открытого редактора звука Audacity 3.7.7](https://habr.com/ru/news/976196/?utm_campaign=976196&utm_source=habrahabr&utm_medium=rss)
 - [«Трансформатор ждут 5 лет»: ИИ-бум уперся в очередь за оборудованием](https://habr.com/ru/news/976432/?utm_campaign=976432&utm_source=habrahabr&utm_medium=rss)
 - [«ИИ написал 85% кода»: как четыре инженера OpenAI собрали Android-версию Sora 2 за 28 дней](https://habr.com/ru/news/976402/?utm_campaign=976402&utm_source=habrahabr&utm_medium=rss)
 - [Росавиация: в российских самолётах может появиться доступ к спутниковому интернету от «Бюро 1440»](https://habr.com/ru/news/976362/?utm_campaign=976362&utm_source=habrahabr&utm_medium=rss)
 - [«Элемент» поставил «Роскосмосу» оборудование для тестов орбитальной электроники](https://habr.com/ru/news/976338/?utm_campaign=976338&utm_source=habrahabr&utm_medium=rss)
-- [The Register: при въезде в США туристам придётся показывать историю своих публикаций в соцсетях за пять лет](https://habr.com/ru/news/976194/?utm_campaign=976194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
