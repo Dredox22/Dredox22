@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел D7VK 1.0 — проект реализации Direct3D 7 поверх API Vulkan](https://habr.com/ru/news/976054/?utm_campaign=976054&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Aristotle и AlphaEvolve вместе с математиками решили задачу, которая существовала с 1975 года](https://habr.com/ru/news/976496/?utm_campaign=976496&utm_source=habrahabr&utm_medium=rss)
 - [LongCat-Image доказывает, что 6 миллиардов параметров могут превзойти более крупные модели с лучшей обработкой данных](https://habr.com/ru/companies/bothub/news/976494/?utm_campaign=976494&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.5.1](https://habr.com/ru/news/976368/?utm_campaign=976368&utm_source=habrahabr&utm_medium=rss)
 - [В версиях Windows 10 без ESU больше нельзя приостанавливать обновления](https://habr.com/ru/news/976460/?utm_campaign=976460&utm_source=habrahabr&utm_medium=rss)
-- [Samsung уйдёт с рынка пользовательских бюджетных накопителей и свернёт выпуск SATA-SSD](https://habr.com/ru/news/976456/?utm_campaign=976456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
