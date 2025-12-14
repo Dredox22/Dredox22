@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.5.1](https://habr.com/ru/news/976368/?utm_campaign=976368&utm_source=habrahabr&utm_medium=rss)
 - [В версиях Windows 10 без ESU больше нельзя приостанавливать обновления](https://habr.com/ru/news/976460/?utm_campaign=976460&utm_source=habrahabr&utm_medium=rss)
 - [Samsung уйдёт с рынка пользовательских бюджетных накопителей и свернёт выпуск SATA-SSD](https://habr.com/ru/news/976456/?utm_campaign=976456&utm_source=habrahabr&utm_medium=rss)
 - [Смартфоны и планшеты Samsung Galaxy не получали обновления безопасности через Google Play с лета этого года](https://habr.com/ru/news/976454/?utm_campaign=976454&utm_source=habrahabr&utm_medium=rss)
 - [Вышел дистрибутив для пентестеров Kali Linux 2025.4](https://habr.com/ru/news/976450/?utm_campaign=976450&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого редактора звука Audacity 3.7.7](https://habr.com/ru/news/976196/?utm_campaign=976196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
