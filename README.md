@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Октава ДМ» показала экосистему цифровых решений для звука на конференции Treolan](https://habr.com/ru/news/976612/?utm_campaign=976612&utm_source=habrahabr&utm_medium=rss)
+- [«Крестная мать ИИ» Фей-Фей Ли: диплом теперь менее важен, чем умение работать с ChatGPT](https://habr.com/ru/news/976610/?utm_campaign=976610&utm_source=habrahabr&utm_medium=rss)
+- [Дочерняя компания МТС выпустила новый ПАК для распознавания лиц](https://habr.com/ru/news/976608/?utm_campaign=976608&utm_source=habrahabr&utm_medium=rss)
 - [Российские разработчики анонсировали игру «НейроБаюн» о Древней Руси с технологиями ИИ](https://habr.com/ru/news/976604/?utm_campaign=976604&utm_source=habrahabr&utm_medium=rss)
 - [Как устроена память в ChatGPT и Claude? Инженер вскрыл интересные особенности](https://habr.com/ru/news/976584/?utm_campaign=976584&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект ClickHaskell — реализация на Haskell собственного протокола и клиента СУБД ClickHouse](https://habr.com/ru/news/976532/?utm_campaign=976532&utm_source=habrahabr&utm_medium=rss)
-- [Вышел D7VK 1.0 — проект реализации Direct3D 7 поверх API Vulkan](https://habr.com/ru/news/976054/?utm_campaign=976054&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Aristotle и AlphaEvolve вместе с математиками решили задачу, которая существовала с 1975 года](https://habr.com/ru/news/976496/?utm_campaign=976496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
