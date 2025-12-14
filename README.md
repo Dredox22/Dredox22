@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В версиях Windows 10 без ESU больше нельзя приостанавливать обновления](https://habr.com/ru/news/976460/?utm_campaign=976460&utm_source=habrahabr&utm_medium=rss)
 - [Samsung уйдёт с рынка пользовательских бюджетных накопителей и свернёт выпуск SATA-SSD](https://habr.com/ru/news/976456/?utm_campaign=976456&utm_source=habrahabr&utm_medium=rss)
 - [Смартфоны и планшеты Samsung Galaxy не получали обновления безопасности через Google Play с лета этого года](https://habr.com/ru/news/976454/?utm_campaign=976454&utm_source=habrahabr&utm_medium=rss)
 - [Вышел дистрибутив для пентестеров Kali Linux 2025.4](https://habr.com/ru/news/976450/?utm_campaign=976450&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого редактора звука Audacity 3.7.7](https://habr.com/ru/news/976196/?utm_campaign=976196&utm_source=habrahabr&utm_medium=rss)
-- [«Трансформатор ждут 5 лет»: ИИ-бум уперся в очередь за оборудованием](https://habr.com/ru/news/976432/?utm_campaign=976432&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
