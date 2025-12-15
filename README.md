@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сети появились примеры работы Gemini 3 Flash](https://habr.com/ru/news/976744/?utm_campaign=976744&utm_source=habrahabr&utm_medium=rss)
 - [Приложения Microsoft для iPhone незаметно продвигают Copilot бесплатно](https://habr.com/ru/news/976692/?utm_campaign=976692&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появился режим «По шагам» для зон с проблемами приёма сигнала GPS](https://habr.com/ru/news/976690/?utm_campaign=976690&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» добавили режим «По шагам» для навигации по зонам с проблемами приёма сигнала GPS](https://habr.com/ru/news/976690/?utm_campaign=976690&utm_source=habrahabr&utm_medium=rss)
 - [Глава «Вымпелкома»: ожидается запуск 5G в РФ в 2026 году на иностранном оборудовании, позже на отечественном](https://habr.com/ru/news/976664/?utm_campaign=976664&utm_source=habrahabr&utm_medium=rss)
 - [Новый патч для Linux подтверждает: эксперимент с Rust завершён, Rust останется в проекте ядра Linux](https://habr.com/ru/news/976654/?utm_campaign=976654&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого портативного фоторедактора PhotoDemon 2025.12 на Visual Basic 6.0](https://habr.com/ru/news/976538/?utm_campaign=976538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
