@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «Минпромторг предложил распространить налоговые льготы на производителей мониторов и принтеров из РФ»](https://habr.com/ru/news/976890/?utm_campaign=976890&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch развивает единую систему управления DLP-системой](https://habr.com/ru/companies/infowatch/news/976888/?utm_campaign=976888&utm_source=habrahabr&utm_medium=rss)
+- [Intel приобретёт стартап SambaNova по производству чипов для ИИ](https://habr.com/ru/news/976862/?utm_campaign=976862&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX в 550-й раз выполнила успешную посадку первой ступени Falcon 9](https://habr.com/ru/news/976832/?utm_campaign=976832&utm_source=habrahabr&utm_medium=rss)
 - [Прогнозируем всплеск кибератак осенью 2026 года](https://habr.com/ru/companies/ruvds/news/976772/?utm_campaign=976772&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» и «Солар» запустили бесплатный сервис защиты от фишинговых сайтов](https://habr.com/ru/news/976822/?utm_campaign=976822&utm_source=habrahabr&utm_medium=rss)
-- [UserGate открыл лабораторию по кибербезопасности в МИРЭА — Российском технологическом университете](https://habr.com/ru/companies/usergate/news/976820/?utm_campaign=976820&utm_source=habrahabr&utm_medium=rss)
-- [Провели испытания отечественных СВЧ-усилителей мощности с применением платформы РИТМ SDR USRP](https://habr.com/ru/companies/etmc_exponenta/news/976686/?utm_campaign=976686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
