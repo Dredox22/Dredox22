@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Русский язык, стабильность, поддержка DeepSeek V3.2 и Kimi-K2: вышел Qwen Code 0.5.0](https://habr.com/ru/companies/bothub/news/976952/?utm_campaign=976952&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил открытый этап бета-тестирования игрового облачного сервиса «Плюс Гейминг»](https://habr.com/ru/news/976936/?utm_campaign=976936&utm_source=habrahabr&utm_medium=rss)
 - [12 команд стали победителями Акселератора полезных игр](https://habr.com/ru/news/976932/?utm_campaign=976932&utm_source=habrahabr&utm_medium=rss)
 - [Суперкомпьютер размером с ладонь: Tiiny AI показала Pocket Lab из Книги рекордов Гиннесса](https://habr.com/ru/companies/bothub/news/976926/?utm_campaign=976926&utm_source=habrahabr&utm_medium=rss)
 - [Compo Soft вошла в ТОП-3 рейтинга «Лидеры цифровизации» в номинации «Импортозамещение»](https://habr.com/ru/companies/compo/news/976900/?utm_campaign=976900&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Минпромторг предложил распространить налоговые льготы на производителей мониторов и принтеров из РФ»](https://habr.com/ru/news/976890/?utm_campaign=976890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
