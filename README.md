@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На странице ya.ru «Яндекса» появилась ёлка с новогодними игрушками, созданными и оживлёнными с помощью «Алисы AI»](https://habr.com/ru/news/976802/?utm_campaign=976802&utm_source=habrahabr&utm_medium=rss)
-- [В Android 17 может появиться функция блокировки отдельных приложений](https://habr.com/ru/news/976634/?utm_campaign=976634&utm_source=habrahabr&utm_medium=rss)
-- [Электронная читалка Diptyx с открытым исходным кодом и двумя экранами стала доступна на Crowd Supply](https://habr.com/ru/news/976748/?utm_campaign=976748&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники используют функцию PayPal для рассылки писем с поддельными уведомлениями о покупках](https://habr.com/ru/news/976732/?utm_campaign=976732&utm_source=habrahabr&utm_medium=rss)
-- [В сети появились примеры работы Gemini 3 Flash](https://habr.com/ru/news/976744/?utm_campaign=976744&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX в 550-й раз выполнила успешную посадку первой ступени Falcon 9](https://habr.com/ru/news/976832/?utm_campaign=976832&utm_source=habrahabr&utm_medium=rss)
+- [Прогнозируем всплеск кибератак осенью 2026 года](https://habr.com/ru/companies/ruvds/news/976772/?utm_campaign=976772&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» и «Солар» запустили бесплатный сервис защиты от фишинговых сайтов](https://habr.com/ru/news/976822/?utm_campaign=976822&utm_source=habrahabr&utm_medium=rss)
+- [UserGate открыл лабораторию по кибербезопасности в МИРЭА — Российском технологическом университете](https://habr.com/ru/companies/usergate/news/976820/?utm_campaign=976820&utm_source=habrahabr&utm_medium=rss)
+- [Провели испытания отечественных СВЧ-усилителей мощности с применением платформы РИТМ SDR USRP](https://habr.com/ru/companies/etmc_exponenta/news/976686/?utm_campaign=976686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
