@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого портативного фоторедактора PhotoDemon 2025.12 на Visual Basic 6.0](https://habr.com/ru/news/976538/?utm_campaign=976538&utm_source=habrahabr&utm_medium=rss)
 - [«Октава ДМ» показала экосистему цифровых решений для звука на конференции Treolan](https://habr.com/ru/news/976612/?utm_campaign=976612&utm_source=habrahabr&utm_medium=rss)
 - [«Крестная мать ИИ» Фей-Фей Ли: диплом теперь менее важен, чем умение работать с ChatGPT](https://habr.com/ru/news/976610/?utm_campaign=976610&utm_source=habrahabr&utm_medium=rss)
 - [Дочерняя компания МТС выпустила новый ПАК для распознавания лиц](https://habr.com/ru/news/976608/?utm_campaign=976608&utm_source=habrahabr&utm_medium=rss)
 - [Российские разработчики анонсировали игру «НейроБаюн» о Древней Руси с технологиями ИИ](https://habr.com/ru/news/976604/?utm_campaign=976604&utm_source=habrahabr&utm_medium=rss)
-- [Как устроена память в ChatGPT и Claude? Инженер вскрыл интересные особенности](https://habr.com/ru/news/976584/?utm_campaign=976584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
