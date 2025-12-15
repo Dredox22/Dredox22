@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На странице ya.ru «Яндекса» появилась ёлка с новогодними игрушками, созданными и оживлёнными с помощью «Алисы AI»](https://habr.com/ru/news/976802/?utm_campaign=976802&utm_source=habrahabr&utm_medium=rss)
 - [В Android 17 может появиться функция блокировки отдельных приложений](https://habr.com/ru/news/976634/?utm_campaign=976634&utm_source=habrahabr&utm_medium=rss)
 - [Электронная читалка Diptyx с открытым исходным кодом и двумя экранами стала доступна на Crowd Supply](https://habr.com/ru/news/976748/?utm_campaign=976748&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники используют функцию PayPal для рассылки писем с поддельными уведомлениями о покупках](https://habr.com/ru/news/976732/?utm_campaign=976732&utm_source=habrahabr&utm_medium=rss)
 - [В сети появились примеры работы Gemini 3 Flash](https://habr.com/ru/news/976744/?utm_campaign=976744&utm_source=habrahabr&utm_medium=rss)
-- [Университет Пердью утвердил требование по изучению ИИ для всех студентов бакалавриата](https://habr.com/ru/news/976716/?utm_campaign=976716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
