@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Больше, чем суммаризатор встреч: Zoom выпустил обновление помощника AI Companion 3.0](https://habr.com/ru/companies/bothub/news/977012/?utm_campaign=977012&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила ИИ-агента Gemini Agent. Пока только в 250-долларовой подписке Ultra](https://habr.com/ru/news/977004/?utm_campaign=977004&utm_source=habrahabr&utm_medium=rss)
+- [27% работы в Anthropic выполняет ИИ, и работники боятся потерять квалификацию](https://habr.com/ru/news/977002/?utm_campaign=977002&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia анонсировала агентные Nemotron 3: 4x ускорение, 500B параметров и 1 млн контекста](https://habr.com/ru/companies/bothub/news/976994/?utm_campaign=976994&utm_source=habrahabr&utm_medium=rss)
 - [Как легко создавать ИИ-агентов с помощью MCP](https://habr.com/ru/companies/mws/news/976982/?utm_campaign=976982&utm_source=habrahabr&utm_medium=rss)
-- [В Стэнфорде создали монолитный 3D-чип для ИИ-вычислений. Он до 12 раз быстрее «плоской» архитектуры](https://habr.com/ru/news/976980/?utm_campaign=976980&utm_source=habrahabr&utm_medium=rss)
-- [Росфинмониторингу дали доступ к данным о платежах через «Мир» и СБП](https://habr.com/ru/news/976970/?utm_campaign=976970&utm_source=habrahabr&utm_medium=rss)
-- [Русский язык, стабильность, поддержка DeepSeek V3.2 и Kimi-K2: вышел Qwen Code 0.5.0](https://habr.com/ru/companies/bothub/news/976952/?utm_campaign=976952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
