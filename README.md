@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Великобритания требует от Apple и Google ввести проверку возраста для публикации изображений с обнажённым телом](https://habr.com/ru/news/977352/?utm_campaign=977352&utm_source=habrahabr&utm_medium=rss)
 - [Большое обновление «Академии дронов»](https://habr.com/ru/news/977330/?utm_campaign=977330&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 назвали самым цензурированным ИИ на рынке](https://habr.com/ru/news/977324/?utm_campaign=977324&utm_source=habrahabr&utm_medium=rss)
 - [«Сделай мне стул, робот»: как ИИ от MIT превращает слова в реальные объекты](https://habr.com/ru/companies/bothub/news/977316/?utm_campaign=977316&utm_source=habrahabr&utm_medium=rss)
 - [Motif-2: как маленькая модель из Кореи обгоняет GPT-5.1 в тестах](https://habr.com/ru/companies/bothub/news/977296/?utm_campaign=977296&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Claude и ChatGPT стали жертвами массовой слежки через Urban VPN](https://habr.com/ru/news/977270/?utm_campaign=977270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
