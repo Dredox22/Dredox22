@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Триумф опенсорса: FLUX.2 занял второе место в рейтинге, догнав Nano Banana Pro](https://habr.com/ru/companies/bothub/news/977400/?utm_campaign=977400&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic тестирует новые режимы для исследований и анализа в Claude](https://habr.com/ru/companies/bothub/news/977368/?utm_campaign=977368&utm_source=habrahabr&utm_medium=rss)
 - [Великобритания требует от Apple и Google ввести проверку возраста для публикации изображений с обнажённым телом](https://habr.com/ru/news/977352/?utm_campaign=977352&utm_source=habrahabr&utm_medium=rss)
 - [Большое обновление «Академии дронов»](https://habr.com/ru/news/977330/?utm_campaign=977330&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 назвали самым цензурированным ИИ на рынке](https://habr.com/ru/news/977324/?utm_campaign=977324&utm_source=habrahabr&utm_medium=rss)
-- [«Сделай мне стул, робот»: как ИИ от MIT превращает слова в реальные объекты](https://habr.com/ru/companies/bothub/news/977316/?utm_campaign=977316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
