@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В llama.cpp добавили функцию для динамического переключения моделей без перезагрузки сервера](https://habr.com/ru/news/977506/?utm_campaign=977506&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» запустил оплату картами со смарт‑часов через приложение FlipUp](https://habr.com/ru/news/977478/?utm_campaign=977478&utm_source=habrahabr&utm_medium=rss)
 - [Blink представил собственные карты с трёхмерной графикой](https://habr.com/ru/news/977466/?utm_campaign=977466&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила генератор изображений GPT Image 1.5 — бесплатно и лучше Nano Banana Pro](https://habr.com/ru/news/977456/?utm_campaign=977456&utm_source=habrahabr&utm_medium=rss)
-- [GPT Image 1.5: OpenAI значительно улучшила модель для работы с изображениями](https://habr.com/ru/companies/bothub/news/977454/?utm_campaign=977454&utm_source=habrahabr&utm_medium=rss)
-- [FrontierScience: OpenAI выпустила бенчмарк PhD-сложности для проверки научного мышления ИИ](https://habr.com/ru/companies/bothub/news/977444/?utm_campaign=977444&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI обновила модель для генерации и редактирования изображений: GPT Image 1.5](https://habr.com/ru/companies/bothub/news/977454/?utm_campaign=977454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
