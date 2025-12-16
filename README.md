@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пока дата-центры скупают память для ИИ, смартфоны возвращаются к 4 ГБ, а ноутбуки — к 8 ГБ](https://habr.com/ru/news/977116/?utm_campaign=977116&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры научили отечественного антропоморфного робота IDOL не падать](https://habr.com/ru/news/977096/?utm_campaign=977096&utm_source=habrahabr&utm_medium=rss)
 - [Релиз свободного проекта для создания музыкальных миксов Mixxx 2.5.4](https://habr.com/ru/news/976874/?utm_campaign=976874&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия BetterMediaInfo 0.7 — это графический интерфейс для MediaInfo и анализа метаданных для аудио- и видеофайлов](https://habr.com/ru/news/976792/?utm_campaign=976792&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 и Gemini 3 Pro стали ИИ с самым высоким уровнем IQ](https://habr.com/ru/news/977056/?utm_campaign=977056&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi обновила софт линейки своего AI-железа](https://habr.com/ru/news/977054/?utm_campaign=977054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
