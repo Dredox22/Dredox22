@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК InfoWatch и CommuniGate Pro подтвердили совместимость решений](https://habr.com/ru/companies/infowatch/news/977204/?utm_campaign=977204&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI: один из барьеров для развития ИИ — низкая «скорость печати» людьми](https://habr.com/ru/news/977192/?utm_campaign=977192&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышел игровой вайб-кодинговый проект Codex Mortis](https://habr.com/ru/news/977174/?utm_campaign=977174&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare: трафик в интернете вырос на 19 % год к году, но большую его часть генерируют ИИ-боты](https://habr.com/ru/news/977184/?utm_campaign=977184&utm_source=habrahabr&utm_medium=rss)
 - [Киберугрозы-2025: F6 назвала основные тренды вымогателей, утечек и фишинга](https://habr.com/ru/companies/F6/news/977172/?utm_campaign=977172&utm_source=habrahabr&utm_medium=rss)
-- [Обновления безопасности Windows 11 вызвали сбои в работе VPN-сетей у корпоративных пользователей с WSL](https://habr.com/ru/news/977134/?utm_campaign=977134&utm_source=habrahabr&utm_medium=rss)
-- [Creative Commons объявила о предварительной поддержке систем ИИ с оплатой за просмотр](https://habr.com/ru/news/977122/?utm_campaign=977122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
