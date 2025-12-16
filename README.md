@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Steam вышел игровой вайб-кодинговый проект Codex Mortis](https://habr.com/ru/news/977174/?utm_campaign=977174&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare: трафик в интернете вырос на 19 % год к году, но большую его часть генерируют ИИ-боты](https://habr.com/ru/news/977184/?utm_campaign=977184&utm_source=habrahabr&utm_medium=rss)
+- [Киберугрозы-2025: F6 назвала основные тренды вымогателей, утечек и фишинга](https://habr.com/ru/companies/F6/news/977172/?utm_campaign=977172&utm_source=habrahabr&utm_medium=rss)
+- [Обновления безопасности Windows 11 вызвали сбои в работе VPN-сетей у корпоративных пользователей с WSL](https://habr.com/ru/news/977134/?utm_campaign=977134&utm_source=habrahabr&utm_medium=rss)
 - [Creative Commons объявила о предварительной поддержке систем ИИ с оплатой за просмотр](https://habr.com/ru/news/977122/?utm_campaign=977122&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Scribus 1.6.5](https://habr.com/ru/news/976962/?utm_campaign=976962&utm_source=habrahabr&utm_medium=rss)
-- [На главной странице поиска Google появилось меню «Плюс»](https://habr.com/ru/news/977120/?utm_campaign=977120&utm_source=habrahabr&utm_medium=rss)
-- [Пока дата-центры скупают память для ИИ, смартфоны возвращаются к 4 ГБ, а ноутбуки — к 8 ГБ](https://habr.com/ru/news/977116/?utm_campaign=977116&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры научили отечественного антропоморфного робота IDOL не падать](https://habr.com/ru/news/977096/?utm_campaign=977096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
