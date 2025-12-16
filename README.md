@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google прекратит поддержку сервиса «Отчёт о пользовательских данных в даркнете»](https://habr.com/ru/news/977076/?utm_campaign=977076&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи представили Voxify3D — метод генерации стилизованного воксель-арта из 3D-мешей](https://habr.com/ru/news/977518/?utm_campaign=977518&utm_source=habrahabr&utm_medium=rss)
+- [Глава Google DeepMind рассказал, как собирается строить AGI](https://habr.com/ru/news/977514/?utm_campaign=977514&utm_source=habrahabr&utm_medium=rss)
+- [Оператор карт «Мир» добавит функцию офлайн‑оплаты по QR‑кодам, которые будут формироваться на смартфоне клиента](https://habr.com/ru/news/977512/?utm_campaign=977512&utm_source=habrahabr&utm_medium=rss)
 - [В llama.cpp добавили функцию для динамического переключения моделей без перезагрузки сервера](https://habr.com/ru/news/977506/?utm_campaign=977506&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» запустил оплату картами со смарт‑часов через приложение FlipUp](https://habr.com/ru/news/977478/?utm_campaign=977478&utm_source=habrahabr&utm_medium=rss)
-- [Blink представил собственные карты с трёхмерной графикой](https://habr.com/ru/news/977466/?utm_campaign=977466&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила генератор изображений GPT Image 1.5 — бесплатно и лучше Nano Banana Pro](https://habr.com/ru/news/977456/?utm_campaign=977456&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI обновила модель для генерации и редактирования изображений: GPT Image 1.5](https://habr.com/ru/companies/bothub/news/977454/?utm_campaign=977454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
