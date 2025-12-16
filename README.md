@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI выпустила генератор изображений GPT Image 1.5 — доступен бесплатно и в 4 раза быстрее](https://habr.com/ru/news/977456/?utm_campaign=977456&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила обновлённую модель для изображений: ChatGPT Images](https://habr.com/ru/companies/bothub/news/977454/?utm_campaign=977454&utm_source=habrahabr&utm_medium=rss)
+- [Blink представил собственные карты с трёхмерной графикой](https://habr.com/ru/news/977466/?utm_campaign=977466&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила генератор изображений GPT Image 1.5 — бесплатно и лучше Nano Banana Pro](https://habr.com/ru/news/977456/?utm_campaign=977456&utm_source=habrahabr&utm_medium=rss)
+- [GPT Image 1.5: OpenAI значительно улучшила модель для работы с изображениями](https://habr.com/ru/companies/bothub/news/977454/?utm_campaign=977454&utm_source=habrahabr&utm_medium=rss)
 - [FrontierScience: OpenAI выпустила бенчмарк PhD-сложности для проверки научного мышления ИИ](https://habr.com/ru/companies/bothub/news/977444/?utm_campaign=977444&utm_source=habrahabr&utm_medium=rss)
 - [ИИ AlphaFold 3 нашел мишень для вакцины от оспы обезьян, которую годами не замечали ученые](https://habr.com/ru/news/977442/?utm_campaign=977442&utm_source=habrahabr&utm_medium=rss)
-- [«Измени небо на пасмурное»: большое обновление Adobe Firefly добавило промптинг и модели FLUX.2, Topaz](https://habr.com/ru/companies/bothub/news/977434/?utm_campaign=977434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
