@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Claude и ChatGPT стали жертвами массовой слежки через Urban VPN](https://habr.com/ru/news/977270/?utm_campaign=977270&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» разработала защитное решение для нашего нового спутника](https://habr.com/ru/companies/ruvds/news/976944/?utm_campaign=976944&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг планирует ограничить для госзаказчиков закупку иностранного контрольного и измерительного оборудования](https://habr.com/ru/news/977250/?utm_campaign=977250&utm_source=habrahabr&utm_medium=rss)
 - [Let&#39;s Encrypt запустил новую иерархию сертификатов Generation Y](https://habr.com/ru/news/977232/?utm_campaign=977232&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch и CommuniGate Pro подтвердили совместимость решений](https://habr.com/ru/companies/infowatch/news/977204/?utm_campaign=977204&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI: один из барьеров для развития ИИ — низкая «скорость печати» людьми](https://habr.com/ru/news/977192/?utm_campaign=977192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
