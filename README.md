@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Большое обновление «Академии дронов»](https://habr.com/ru/news/977330/?utm_campaign=977330&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.2 назвали самым цензурированным ИИ на рынке](https://habr.com/ru/news/977324/?utm_campaign=977324&utm_source=habrahabr&utm_medium=rss)
+- [«Сделай мне стул, робот»: как ИИ от MIT превращает слова в реальные объекты](https://habr.com/ru/companies/bothub/news/977316/?utm_campaign=977316&utm_source=habrahabr&utm_medium=rss)
 - [Motif-2: как маленькая модель из Кореи обгоняет GPT-5.1 в тестах](https://habr.com/ru/companies/bothub/news/977296/?utm_campaign=977296&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Claude и ChatGPT стали жертвами массовой слежки через Urban VPN](https://habr.com/ru/news/977270/?utm_campaign=977270&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» разработала защитное решение для нашего нового спутника](https://habr.com/ru/companies/ruvds/news/976944/?utm_campaign=976944&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг планирует ограничить для госзаказчиков закупку иностранного контрольного и измерительного оборудования](https://habr.com/ru/news/977250/?utm_campaign=977250&utm_source=habrahabr&utm_medium=rss)
-- [Let&#39;s Encrypt запустил новую иерархию сертификатов Generation Y](https://habr.com/ru/news/977232/?utm_campaign=977232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
