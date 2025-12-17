@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [65% разработчиков используют на ИИ-ассистенты. Теперь некоторые не могут кодить без них](https://habr.com/ru/news/977554/?utm_campaign=977554&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» научил свою умную IP-камеру понимать происходящее в кадре с помощью ИИ](https://habr.com/ru/news/977574/?utm_campaign=977574&utm_source=habrahabr&utm_medium=rss)
+- [В США 67% врачей используют ИИ каждый день, но 81% недовольны — в чем подвох?](https://habr.com/ru/news/977572/?utm_campaign=977572&utm_source=habrahabr&utm_medium=rss)
+- [Samsung опровергла слухи об уходе с рынка бюджетных накопителей SATA-SSD](https://habr.com/ru/news/977566/?utm_campaign=977566&utm_source=habrahabr&utm_medium=rss)
+- [65% разработчиков используют ИИ-ассистенты. Теперь некоторые не могут кодить без них](https://habr.com/ru/news/977554/?utm_campaign=977554&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla назначила нового генерального директора, чтобы превратить Firefox в современный браузер с ИИ](https://habr.com/ru/news/977542/?utm_campaign=977542&utm_source=habrahabr&utm_medium=rss)
-- [Представлен выпуск браузерного движка Servo 0.0.3, написанного на Rust](https://habr.com/ru/news/977394/?utm_campaign=977394&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного видеоредактора OpenShot 3.4.0](https://habr.com/ru/news/977418/?utm_campaign=977418&utm_source=habrahabr&utm_medium=rss)
-- [Google прекратит поддержку сервиса «Отчёт о пользовательских данных в даркнете»](https://habr.com/ru/news/977076/?utm_campaign=977076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
