@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Forest Labs представила FLUX.2 max, флагман для кинематографической генерации изображений](https://habr.com/ru/companies/bothub/news/977656/?utm_campaign=977656&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft улучшила время автономной работы и качество звука гарнитуры Xbox через обновление Bluetooth LE Audio](https://habr.com/ru/news/977642/?utm_campaign=977642&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Tinygo 0.40 — компилятора языка Go для маломощных систем](https://habr.com/ru/news/977440/?utm_campaign=977440&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» научил свою умную IP-камеру понимать происходящее в кадре с помощью ИИ](https://habr.com/ru/news/977574/?utm_campaign=977574&utm_source=habrahabr&utm_medium=rss)
 - [В США 67% врачей используют ИИ каждый день, но 81% недовольны — в чем подвох?](https://habr.com/ru/news/977572/?utm_campaign=977572&utm_source=habrahabr&utm_medium=rss)
-- [Samsung опровергла слухи об уходе с рынка бюджетных накопителей SATA-SSD](https://habr.com/ru/news/977566/?utm_campaign=977566&utm_source=habrahabr&utm_medium=rss)
-- [65% разработчиков используют ИИ-ассистенты. Теперь некоторые не могут кодить без них](https://habr.com/ru/news/977554/?utm_campaign=977554&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
