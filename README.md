@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Прокуратура Техаса обвинила Sony, Samsung, LG, HiSense и TCL в сборе данных пользователей без их согласия](https://habr.com/ru/news/977800/?utm_campaign=977800&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-система для пентеста Artemis взломала сеть Стэнфордского университета быстрее и дешевле, чем профессионалы-люди](https://habr.com/ru/news/977784/?utm_campaign=977784&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI сделала бенчмарк для проверки научного мышления ИИ](https://habr.com/ru/companies/bothub/news/977688/?utm_campaign=977688&utm_source=habrahabr&utm_medium=rss)
 - [Roblox начал диалог с РКН, чтобы платформу разблокировали в РФ, разработчики готовы пересмотреть модерацию контента](https://habr.com/ru/news/977734/?utm_campaign=977734&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедрила потенциально ресурсоёмкую функцию в Windows 11 25H2 и 24H2](https://habr.com/ru/news/977720/?utm_campaign=977720&utm_source=habrahabr&utm_medium=rss)
-- [В Японии добились скорости передачи данных 2 терабита в секунду по технологии FSO](https://habr.com/ru/news/977714/?utm_campaign=977714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
