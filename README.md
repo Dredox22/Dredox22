@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Госуслуги» начали блокировать пользователям доступ к некоторым функциям на трое суток. Снять блокировку можно через Max](https://habr.com/ru/news/977892/?utm_campaign=977892&utm_source=habrahabr&utm_medium=rss)
 - [Google интегрирует инструмент Vibe Coding Opal прямо в экосистему Gemini](https://habr.com/ru/companies/bothub/news/977880/?utm_campaign=977880&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla подтверждает: ИИ придёт в Firefox, но останется в опции выбора для пользователей](https://habr.com/ru/companies/bothub/news/977872/?utm_campaign=977872&utm_source=habrahabr&utm_medium=rss)
 - [Алиса в мессенджерах перешла на семейство моделей Alice AI](https://habr.com/ru/news/977870/?utm_campaign=977870&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» и «Росатом» договорились о совместном развитии зарядной инфраструктуры для электромобилей](https://habr.com/ru/news/977862/?utm_campaign=977862&utm_source=habrahabr&utm_medium=rss)
-- [BI.ZONE запустила бесплатный публичный DNS‑сервис](https://habr.com/ru/news/977858/?utm_campaign=977858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
