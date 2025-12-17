@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Forest Labs представила FLUX.2 max, флагман для кинематографической генерации изображений](https://habr.com/ru/companies/bothub/news/977656/?utm_campaign=977656&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft улучшила время автономной работы и качество звука гарнитуры Xbox через обновление Bluetooth LE Audio](https://habr.com/ru/news/977642/?utm_campaign=977642&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Tinygo 0.40 — компилятора языка Go для маломощных систем](https://habr.com/ru/news/977440/?utm_campaign=977440&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» научил свою умную IP-камеру понимать происходящее в кадре с помощью ИИ](https://habr.com/ru/news/977574/?utm_campaign=977574&utm_source=habrahabr&utm_medium=rss)
-- [В США 67% врачей используют ИИ каждый день, но 81% недовольны — в чем подвох?](https://habr.com/ru/news/977572/?utm_campaign=977572&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст приспособил планшет с электронными чернилами в качестве монитора для Linux](https://habr.com/ru/news/977240/?utm_campaign=977240&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатные VPN-расширения продают переписку пользователей с ИИ-чатами](https://habr.com/ru/companies/bothub/news/977684/?utm_campaign=977684&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Браузере» после просьб пользователей вернули часы на стартовую страницу](https://habr.com/ru/news/977680/?utm_campaign=977680&utm_source=habrahabr&utm_medium=rss)
+- [Команда Project Zero Google обнаружила уязвимость безопасности в Windows 11](https://habr.com/ru/news/977662/?utm_campaign=977662&utm_source=habrahabr&utm_medium=rss)
+- [Red Hat объявила о приобретении Chatterbox Labs, специализирующейся на тестировании моделей ИИ и механизмах защиты ИИ](https://habr.com/ru/news/977666/?utm_campaign=977666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
