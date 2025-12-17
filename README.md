@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз кроссплатформенного видеоредактора OpenShot 3.4.0](https://habr.com/ru/news/977418/?utm_campaign=977418&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратит поддержку сервиса «Отчёт о пользовательских данных в даркнете»](https://habr.com/ru/news/977076/?utm_campaign=977076&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили Voxify3D — метод генерации стилизованного воксель-арта из 3D-мешей](https://habr.com/ru/news/977518/?utm_campaign=977518&utm_source=habrahabr&utm_medium=rss)
 - [Глава Google DeepMind рассказал, как собирается строить AGI](https://habr.com/ru/news/977514/?utm_campaign=977514&utm_source=habrahabr&utm_medium=rss)
 - [Оператор карт «Мир» добавит функцию офлайн‑оплаты по QR‑кодам, которые будут формироваться на смартфоне клиента](https://habr.com/ru/news/977512/?utm_campaign=977512&utm_source=habrahabr&utm_medium=rss)
-- [В llama.cpp добавили функцию для динамического переключения моделей без перезагрузки сервера](https://habr.com/ru/news/977506/?utm_campaign=977506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
