@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Японии добились скорости передачи данных 2 терабита в секунду по технологии FSO](https://habr.com/ru/news/977714/?utm_campaign=977714&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: базу номеров IMEI планируется создать в РФ в 2026 году, она поможет смягчить практику массовых блокировок](https://habr.com/ru/news/977708/?utm_campaign=977708&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Huawei представили WindowSeat — диффузионный трансформер для удаления отражений на фотографиях](https://habr.com/ru/news/977706/?utm_campaign=977706&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст приспособил планшет с электронными чернилами в качестве монитора для Linux](https://habr.com/ru/news/977240/?utm_campaign=977240&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатные VPN-расширения продают переписку пользователей с ИИ-чатами](https://habr.com/ru/companies/bothub/news/977684/?utm_campaign=977684&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Браузере» после просьб пользователей вернули часы на стартовую страницу](https://habr.com/ru/news/977680/?utm_campaign=977680&utm_source=habrahabr&utm_medium=rss)
-- [Команда Project Zero Google обнаружила уязвимость безопасности в Windows 11](https://habr.com/ru/news/977662/?utm_campaign=977662&utm_source=habrahabr&utm_medium=rss)
-- [Red Hat объявила о приобретении Chatterbox Labs, специализирующейся на тестировании моделей ИИ и механизмах защиты ИИ](https://habr.com/ru/news/977666/?utm_campaign=977666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
