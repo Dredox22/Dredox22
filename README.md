@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [65% разработчиков используют на ИИ-ассистенты. Теперь некоторые не могут кодить без них](https://habr.com/ru/news/977554/?utm_campaign=977554&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla назначила нового генерального директора, чтобы превратить Firefox в современный браузер с ИИ](https://habr.com/ru/news/977542/?utm_campaign=977542&utm_source=habrahabr&utm_medium=rss)
 - [Представлен выпуск браузерного движка Servo 0.0.3, написанного на Rust](https://habr.com/ru/news/977394/?utm_campaign=977394&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного видеоредактора OpenShot 3.4.0](https://habr.com/ru/news/977418/?utm_campaign=977418&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратит поддержку сервиса «Отчёт о пользовательских данных в даркнете»](https://habr.com/ru/news/977076/?utm_campaign=977076&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили Voxify3D — метод генерации стилизованного воксель-арта из 3D-мешей](https://habr.com/ru/news/977518/?utm_campaign=977518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
