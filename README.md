@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекращает поддержку алгоритма шифрования Rivist Cipher 4](https://habr.com/ru/news/977822/?utm_campaign=977822&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3 Flash стала доступна подписчикам приложения Gemini](https://habr.com/ru/news/977818/?utm_campaign=977818&utm_source=habrahabr&utm_medium=rss)
+- [SAM Audio позволяет изолировать любой звук в видео по тексту, таймкоду или клику](https://habr.com/ru/companies/bothub/news/977672/?utm_campaign=977672&utm_source=habrahabr&utm_medium=rss)
+- [Новый релиз open source-платформы Cozystack v0.38: VPC, VNC и другие изменения](https://habr.com/ru/companies/aenix/news/977640/?utm_campaign=977640&utm_source=habrahabr&utm_medium=rss)
 - [Прокуратура Техаса обвинила Sony, Samsung, LG, HiSense и TCL в сборе данных пользователей без их согласия](https://habr.com/ru/news/977800/?utm_campaign=977800&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-система для пентеста Artemis взломала сеть Стэнфордского университета быстрее и дешевле, чем профессионалы-люди](https://habr.com/ru/news/977784/?utm_campaign=977784&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сделала бенчмарк для проверки научного мышления ИИ](https://habr.com/ru/companies/bothub/news/977688/?utm_campaign=977688&utm_source=habrahabr&utm_medium=rss)
-- [Roblox начал диалог с РКН, чтобы платформу разблокировали в РФ, разработчики готовы пересмотреть модерацию контента](https://habr.com/ru/news/977734/?utm_campaign=977734&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft внедрила потенциально ресурсоёмкую функцию в Windows 11 25H2 и 24H2](https://habr.com/ru/news/977720/?utm_campaign=977720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
