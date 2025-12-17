@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» и «Росатом» договорились о совместном развитии зарядной инфраструктуры для электромобилей](https://habr.com/ru/news/977862/?utm_campaign=977862&utm_source=habrahabr&utm_medium=rss)
+- [BI.ZONE запустила бесплатный публичный DNS‑сервис](https://habr.com/ru/news/977858/?utm_campaign=977858&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустили Gemini 3 Flash — frontier-интеллект со скоростью Flash и ценой ниже рынка](https://habr.com/ru/news/977848/?utm_campaign=977848&utm_source=habrahabr&utm_medium=rss)
+- [Google запустил Gemini 3 Flash и сделал её моделью по умолчанию в приложении Gemini](https://habr.com/ru/companies/bothub/news/977846/?utm_campaign=977846&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Gemini 3 Flash: модель уровня Gemini 3 Pro доступна бесплатно](https://habr.com/ru/news/977842/?utm_campaign=977842&utm_source=habrahabr&utm_medium=rss)
-- [Ошибка с откатом GPT-5 Router показала, почему ИИ нужно учиться избавляться от старых привычек](https://habr.com/ru/companies/bothub/news/977830/?utm_campaign=977830&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекращает поддержку алгоритма шифрования Rivist Cipher 4](https://habr.com/ru/news/977822/?utm_campaign=977822&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 Flash стала доступна подписчикам приложения Gemini](https://habr.com/ru/news/977818/?utm_campaign=977818&utm_source=habrahabr&utm_medium=rss)
-- [SAM Audio позволяет изолировать любой звук в видео по тексту, таймкоду или клику](https://habr.com/ru/companies/bothub/news/977672/?utm_campaign=977672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
