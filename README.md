@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Gemini 3 Flash: модель уровня Gemini 3 Pro доступна бесплатно](https://habr.com/ru/news/977842/?utm_campaign=977842&utm_source=habrahabr&utm_medium=rss)
+- [Ошибка с откатом GPT-5 Router показала, почему ИИ нужно учиться избавляться от старых привычек](https://habr.com/ru/companies/bothub/news/977830/?utm_campaign=977830&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку алгоритма шифрования Rivist Cipher 4](https://habr.com/ru/news/977822/?utm_campaign=977822&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Flash стала доступна подписчикам приложения Gemini](https://habr.com/ru/news/977818/?utm_campaign=977818&utm_source=habrahabr&utm_medium=rss)
 - [SAM Audio позволяет изолировать любой звук в видео по тексту, таймкоду или клику](https://habr.com/ru/companies/bothub/news/977672/?utm_campaign=977672&utm_source=habrahabr&utm_medium=rss)
-- [Новый релиз open source-платформы Cozystack v0.38: VPC, VNC и другие изменения](https://habr.com/ru/companies/aenix/news/977640/?utm_campaign=977640&utm_source=habrahabr&utm_medium=rss)
-- [Прокуратура Техаса обвинила Sony, Samsung, LG, HiSense и TCL в сборе данных пользователей без их согласия](https://habr.com/ru/news/977800/?utm_campaign=977800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
