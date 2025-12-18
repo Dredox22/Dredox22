@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple разрешила запускать в Японии сторонние магазины приложений](https://habr.com/ru/news/978210/?utm_campaign=978210&utm_source=habrahabr&utm_medium=rss)
+- [Госдума приняла законы о электронных студенческих билетах и подтверждении возраста через Max](https://habr.com/ru/news/978204/?utm_campaign=978204&utm_source=habrahabr&utm_medium=rss)
+- [DoorDash интегрировал сервис покупки продуктов прямо в ChatGPT](https://habr.com/ru/companies/technokratos/news/978196/?utm_campaign=978196&utm_source=habrahabr&utm_medium=rss)
 - [Adobe расширяет возможности Firefly: улучшенный видеоредактор, точечные правки и неограниченные генерации](https://habr.com/ru/companies/bothub/news/978026/?utm_campaign=978026&utm_source=habrahabr&utm_medium=rss)
 - [Китай собрал прототип EUV-литографа из деталей с Alibaba. США пытались это предотвратить годами](https://habr.com/ru/news/978188/?utm_campaign=978188&utm_source=habrahabr&utm_medium=rss)
-- [В MWS Cloud Platform запущен сервис Managed ClickHouse](https://habr.com/ru/companies/mws/news/978186/?utm_campaign=978186&utm_source=habrahabr&utm_medium=rss)
-- [Кибербез — это всё: готовим итальянское блюдо и обсуждаем защиту бизнеса в «Инфобезе со вкусом»](https://habr.com/ru/companies/gaz-is/news/978178/?utm_campaign=978178&utm_source=habrahabr&utm_medium=rss)
-- [Google Labs запускает экспериментального ИИ‑ассистента CC для автоматизации повседневных задач](https://habr.com/ru/companies/bothub/news/978030/?utm_campaign=978030&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
