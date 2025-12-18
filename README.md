@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Coursera покупает конкурента Udemy: объединение двух крупнейших онлайн‑платформ обучения с фокусом на AI‑навыки](https://habr.com/ru/companies/bothub/news/978040/?utm_campaign=978040&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск VLC Media Player 3.0.23 Vetinari](https://habr.com/ru/news/977874/?utm_campaign=977874&utm_source=habrahabr&utm_medium=rss)
-- [Решение InfoWatch защитит корпоративные данные на личных устройствах](https://habr.com/ru/companies/infowatch/news/978052/?utm_campaign=978052&utm_source=habrahabr&utm_medium=rss)
-- [Компанию Vizio могут обязать предоставить исходный код ПО SmartCast для ТВ](https://habr.com/ru/news/978044/?utm_campaign=978044&utm_source=habrahabr&utm_medium=rss)
-- [Писатели обвинили Adobe в использовании пиратских версий книг для обучения программы SlimLM](https://habr.com/ru/news/978010/?utm_campaign=978010&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT добавили магазин приложений — до 800 млн клиентов и пока без комиссии 30%](https://habr.com/ru/news/978088/?utm_campaign=978088&utm_source=habrahabr&utm_medium=rss)
+- [Блокировка доступа к виртуальному хостингу в Беларуси](https://habr.com/ru/news/978084/?utm_campaign=978084&utm_source=habrahabr&utm_medium=rss)
+- [Фотограф создал среднеформатную дальномерную камеру MRF2](https://habr.com/ru/news/978078/?utm_campaign=978078&utm_source=habrahabr&utm_medium=rss)
+- [ИИ в поддержке: как ИИ меняет Service Desk и дает измеримый эффект](https://habr.com/ru/companies/simpleone/news/978038/?utm_campaign=978038&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появились места с зимними активностями](https://habr.com/ru/news/978068/?utm_campaign=978068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
