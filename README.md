@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude в роли ИИ-продавца научился работать без убытков. А по ночам нахваливал своего ИИ-директора](https://habr.com/ru/news/978254/?utm_campaign=978254&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/978244/?utm_campaign=978244&utm_source=habrahabr&utm_medium=rss)
-- [ФАС РФ признала группу лиц ПИК нарушившей антимонопольное законодательство](https://habr.com/ru/news/978232/?utm_campaign=978232&utm_source=habrahabr&utm_medium=rss)
-- [Apple разрешила запускать в Японии сторонние магазины приложений](https://habr.com/ru/news/978210/?utm_campaign=978210&utm_source=habrahabr&utm_medium=rss)
-- [Госдума приняла законы о электронных студенческих билетах и подтверждении возраста через Max](https://habr.com/ru/news/978204/?utm_campaign=978204&utm_source=habrahabr&utm_medium=rss)
+- [Первый Data Sapience Data Day объединил экспертов data-индустрии](https://habr.com/ru/companies/datasapience/news/978278/?utm_campaign=978278&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft заблокирует доступ к Exchange Online для устаревших мобильных устройств](https://habr.com/ru/news/977752/?utm_campaign=977752&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры РФ запустило опрос о востребованности быстрого домашнего интернета в деревнях с населением до тысячи человек](https://habr.com/ru/news/978264/?utm_campaign=978264&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила 3D‑модель TRELLIS и открыла мощный генератор 3D‑моделей из изображений](https://habr.com/ru/companies/bothub/news/978022/?utm_campaign=978022&utm_source=habrahabr&utm_medium=rss)
+- [Apple заблокировала аккаунт автора книг по программированию на Swift за неудачную попытку активации подарочной карты](https://habr.com/ru/news/978260/?utm_campaign=978260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
