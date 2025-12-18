@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Coursera покупает конкурента Udemy: объединение двух крупнейших онлайн‑платформ обучения с фокусом на AI‑навыки](https://habr.com/ru/companies/bothub/news/978040/?utm_campaign=978040&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск VLC Media Player 3.0.23 Vetinari](https://habr.com/ru/news/977874/?utm_campaign=977874&utm_source=habrahabr&utm_medium=rss)
+- [Решение InfoWatch защитит корпоративные данные на личных устройствах](https://habr.com/ru/companies/infowatch/news/978052/?utm_campaign=978052&utm_source=habrahabr&utm_medium=rss)
+- [Компанию Vizio могут обязать предоставить исходный код ПО SmartCast для ТВ](https://habr.com/ru/news/978044/?utm_campaign=978044&utm_source=habrahabr&utm_medium=rss)
 - [Писатели обвинили Adobe в использовании пиратских версий книг для обучения программы SlimLM](https://habr.com/ru/news/978010/?utm_campaign=978010&utm_source=habrahabr&utm_medium=rss)
-- [Tencent открывает HY World 1.5 — модель для создания интерактивных 3D‑миров в реальном времени](https://habr.com/ru/companies/bothub/news/978006/?utm_campaign=978006&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: блокировку на 72 часа из-за подозрительной активности аккаунта «Госуслуг» можно снять по Цифровому ID в Max](https://habr.com/ru/news/978004/?utm_campaign=978004&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс представляет YaC 2025 AI Edition](https://habr.com/ru/companies/yandex/news/978000/?utm_campaign=978000&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати с помощью GPT-5.1 проверил IT-прогнозы 10-летней давности](https://habr.com/ru/news/977970/?utm_campaign=977970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
