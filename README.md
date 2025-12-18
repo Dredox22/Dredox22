@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude в роли ИИ-продавца научился работать без убытков. А по ночам нахваливал своего ИИ-директора](https://habr.com/ru/news/978254/?utm_campaign=978254&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/978244/?utm_campaign=978244&utm_source=habrahabr&utm_medium=rss)
 - [ФАС РФ признала группу лиц ПИК нарушившей антимонопольное законодательство](https://habr.com/ru/news/978232/?utm_campaign=978232&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила запускать в Японии сторонние магазины приложений](https://habr.com/ru/news/978210/?utm_campaign=978210&utm_source=habrahabr&utm_medium=rss)
 - [Госдума приняла законы о электронных студенческих билетах и подтверждении возраста через Max](https://habr.com/ru/news/978204/?utm_campaign=978204&utm_source=habrahabr&utm_medium=rss)
-- [DoorDash интегрировал сервис покупки продуктов прямо в ChatGPT](https://habr.com/ru/companies/technokratos/news/978196/?utm_campaign=978196&utm_source=habrahabr&utm_medium=rss)
-- [Adobe расширяет возможности Firefly: улучшенный видеоредактор, точечные правки и неограниченные генерации](https://habr.com/ru/companies/bothub/news/978026/?utm_campaign=978026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
