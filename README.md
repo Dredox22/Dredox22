@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity обновила iPad‑приложение и усилила исследовательские инструменты](https://habr.com/ru/companies/bothub/news/978032/?utm_campaign=978032&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила инструмент создания установочных носителей для Windows 11 на USB-накопителях](https://habr.com/ru/news/978092/?utm_campaign=978092&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT добавили магазин приложений — до 800 млн клиентов и пока без комиссии 30%](https://habr.com/ru/news/978088/?utm_campaign=978088&utm_source=habrahabr&utm_medium=rss)
 - [Блокировка доступа к виртуальному хостингу в Беларуси](https://habr.com/ru/news/978084/?utm_campaign=978084&utm_source=habrahabr&utm_medium=rss)
 - [Фотограф создал среднеформатную дальномерную камеру MRF2](https://habr.com/ru/news/978078/?utm_campaign=978078&utm_source=habrahabr&utm_medium=rss)
-- [ИИ в поддержке: как ИИ меняет Service Desk и дает измеримый эффект](https://habr.com/ru/companies/simpleone/news/978038/?utm_campaign=978038&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появились места с зимними активностями](https://habr.com/ru/news/978068/?utm_campaign=978068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
