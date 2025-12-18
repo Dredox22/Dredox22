@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Популярные расширения для браузеров собирают диалоги пользователей с ИИ для продажи](https://habr.com/ru/news/977932/?utm_campaign=977932&utm_source=habrahabr&utm_medium=rss)
+- [Вышла российская ОС «МСВСфера» 10.1 на базе Linux со встроенным локальным ИИ-ассистентом «Василиса»](https://habr.com/ru/news/977944/?utm_campaign=977944&utm_source=habrahabr&utm_medium=rss)
 - [Вышел аудиокодек Opus 1.6](https://habr.com/ru/news/977746/?utm_campaign=977746&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code, GPT-5.2 и DeepSeek V3.2 возглавили рейтинг ИИ-программистов — в разных категориях](https://habr.com/ru/news/977902/?utm_campaign=977902&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует создать базу уникальных номеров мобильных устройств &lpar;IMEI&rpar; в 2026 году](https://habr.com/ru/news/977900/?utm_campaign=977900&utm_source=habrahabr&utm_medium=rss)
-- [Neowin: из-за искусственного интеллекта в производимых смартфонах будет меньше оперативной памяти](https://habr.com/ru/news/977766/?utm_campaign=977766&utm_source=habrahabr&utm_medium=rss)
-- [«Госуслуги» начали блокировать пользователям доступ к некоторым функциям на трое суток. Снять блокировку можно через Max](https://habr.com/ru/news/977892/?utm_campaign=977892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
