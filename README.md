@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Великая коррекция хайпа»: MIT Technology Review объяснил, что пошло не так с AI в 2025-м](https://habr.com/ru/news/977962/?utm_campaign=977962&utm_source=habrahabr&utm_medium=rss)
+- [В ядре Linux обнаружена первая уязвимость, связанная с кодом Rust](https://habr.com/ru/news/977958/?utm_campaign=977958&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволит отключить функцию Smart App Control без переустановки Windows 11](https://habr.com/ru/news/977948/?utm_campaign=977948&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отложила взимание платы за использование GitHub Actions](https://habr.com/ru/news/977940/?utm_campaign=977940&utm_source=habrahabr&utm_medium=rss)
 - [Популярные расширения для браузеров собирают диалоги пользователей с ИИ для продажи](https://habr.com/ru/news/977932/?utm_campaign=977932&utm_source=habrahabr&utm_medium=rss)
-- [Вышла российская ОС «МСВСфера» 10.1 на базе Linux со встроенным локальным ИИ-ассистентом «Василиса»](https://habr.com/ru/news/977944/?utm_campaign=977944&utm_source=habrahabr&utm_medium=rss)
-- [Вышел аудиокодек Opus 1.6](https://habr.com/ru/news/977746/?utm_campaign=977746&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code, GPT-5.2 и DeepSeek V3.2 возглавили рейтинг ИИ-программистов — в разных категориях](https://habr.com/ru/news/977902/?utm_campaign=977902&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует создать базу уникальных номеров мобильных устройств &lpar;IMEI&rpar; в 2026 году](https://habr.com/ru/news/977900/?utm_campaign=977900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
