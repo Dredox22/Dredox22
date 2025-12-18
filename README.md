@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В MWS Cloud Platform запущен сервис Managed ClickHouse](https://habr.com/ru/companies/mws/news/978186/?utm_campaign=978186&utm_source=habrahabr&utm_medium=rss)
+- [Кибербез — это всё: готовим итальянское блюдо и обсуждаем защиту бизнеса в «Инфобезе со вкусом»](https://habr.com/ru/companies/gaz-is/news/978178/?utm_campaign=978178&utm_source=habrahabr&utm_medium=rss)
 - [Google Labs запускает экспериментального ИИ‑ассистента CC для автоматизации повседневных задач](https://habr.com/ru/companies/bothub/news/978030/?utm_campaign=978030&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект «Grand Theft Auto: Vice City в браузере»](https://habr.com/ru/news/978138/?utm_campaign=978138&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Link to Windows позволяет удалённо блокировать ПК, делиться буфером обмена и отправлять файлы на Windows 11](https://habr.com/ru/news/978136/?utm_campaign=978136&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity обновила iPad‑приложение и усилила исследовательские инструменты](https://habr.com/ru/companies/bothub/news/978032/?utm_campaign=978032&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила инструмент создания установочных носителей для Windows 11 на USB-накопителях](https://habr.com/ru/news/978092/?utm_campaign=978092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
