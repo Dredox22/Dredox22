@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI выпустила GPT-5.2-Codex — новый флагман для программирования](https://habr.com/ru/news/978290/?utm_campaign=978290&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустили GPT-5.2-Codex](https://habr.com/ru/news/978286/?utm_campaign=978286&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появился каталог приложений](https://habr.com/ru/companies/bothub/news/978284/?utm_campaign=978284&utm_source=habrahabr&utm_medium=rss)
 - [Первый Data Sapience Data Day объединил экспертов data-индустрии](https://habr.com/ru/companies/datasapience/news/978278/?utm_campaign=978278&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заблокирует доступ к Exchange Online для устаревших мобильных устройств](https://habr.com/ru/news/977752/?utm_campaign=977752&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ запустило опрос о востребованности быстрого домашнего интернета в деревнях с населением до тысячи человек](https://habr.com/ru/news/978264/?utm_campaign=978264&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила 3D‑модель TRELLIS и открыла мощный генератор 3D‑моделей из изображений](https://habr.com/ru/companies/bothub/news/978022/?utm_campaign=978022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
