@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Андрей Карпати с помощью GPT-5.1 проверил IT-прогнозы 10-летней давности](https://habr.com/ru/news/977970/?utm_campaign=977970&utm_source=habrahabr&utm_medium=rss)
 - [«Великая коррекция хайпа»: MIT Technology Review объяснил, что пошло не так с AI в 2025-м](https://habr.com/ru/news/977962/?utm_campaign=977962&utm_source=habrahabr&utm_medium=rss)
 - [В ядре Linux обнаружена первая уязвимость, связанная с кодом Rust](https://habr.com/ru/news/977958/?utm_campaign=977958&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволит отключить функцию Smart App Control без переустановки Windows 11](https://habr.com/ru/news/977948/?utm_campaign=977948&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отложила взимание платы за использование GitHub Actions](https://habr.com/ru/news/977940/?utm_campaign=977940&utm_source=habrahabr&utm_medium=rss)
-- [Популярные расширения для браузеров собирают диалоги пользователей с ИИ для продажи](https://habr.com/ru/news/977932/?utm_campaign=977932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
