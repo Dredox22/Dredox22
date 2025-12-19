@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сможем ли мы контролировать GPT-7? OpenAI измерили «наблюдаемость» цепочки рассуждений ИИ](https://habr.com/ru/news/978656/?utm_campaign=978656&utm_source=habrahabr&utm_medium=rss)
 - [Сенатор Шейкин: подтверждённые в базе IMEI смартфоны, планшеты и ноутбуки можно будет отключать от мобильной сети](https://habr.com/ru/news/978648/?utm_campaign=978648&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic встроила Claude в Chrome и открыла доступ всем платным тарифам](https://habr.com/ru/news/978620/?utm_campaign=978620&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft опубликовала системные требования для запуска игр на Windows 11](https://habr.com/ru/news/978280/?utm_campaign=978280&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.40: поддержка Visual Studio 2026, Qt Creator 18, проектов для .NET 10 и многое другое](https://habr.com/ru/companies/pvs-studio/news/978618/?utm_campaign=978618&utm_source=habrahabr&utm_medium=rss)
-- [xAI открывает Grok Voice Agent API с задержкой ответа менее секунды](https://habr.com/ru/companies/bothub/news/978370/?utm_campaign=978370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
