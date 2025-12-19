@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вслед за MCP Anthropic заопенсорсили Skills](https://habr.com/ru/news/978532/?utm_campaign=978532&utm_source=habrahabr&utm_medium=rss)
+- [*Meta запускает PE-AV — аудио-визуальный энкодер для мультимодального ИИ](https://habr.com/ru/companies/bothub/news/978434/?utm_campaign=978434&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи из MIT и IBM предложили новый подход к расширению возможностей LLM](https://habr.com/ru/companies/technokratos/news/978530/?utm_campaign=978530&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies запускает коммерческие продажи антивируса в составе продукта MaxPatrol EPP](https://habr.com/ru/companies/pt/news/978506/?utm_campaign=978506&utm_source=habrahabr&utm_medium=rss)
 - [Срок поддержки ядра Linux 6.17 истёк, всем рекомендуется перейти на ядро Linux 6.18 LTS](https://habr.com/ru/news/978486/?utm_campaign=978486&utm_source=habrahabr&utm_medium=rss)
-- [Atlas от OpenAI получает мультипрофили и обновления для рабочих пространств](https://habr.com/ru/companies/bothub/news/978448/?utm_campaign=978448&utm_source=habrahabr&utm_medium=rss)
-- [«Крестный отец ИИ» Янн ЛеКун запускает стартап ценой €3 млрд для создания моделей мира](https://habr.com/ru/news/978470/?utm_campaign=978470&utm_source=habrahabr&utm_medium=rss)
-- [«Диасофт» и Luxms представляют интегрированное решение для бизнес-планирования и аналитики](https://habr.com/ru/companies/luxms_bi/news/978432/?utm_campaign=978432&utm_source=habrahabr&utm_medium=rss)
-- [Google выпускает T5Gemma 2 — мультимодальная модель с поддержкой длинного контекста](https://habr.com/ru/companies/bothub/news/978422/?utm_campaign=978422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
