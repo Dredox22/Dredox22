@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновления Windows 11 24H2 и 25H2 нарушили работу RemoteApp в средах Azure Virtual Desktop](https://habr.com/ru/news/978334/?utm_campaign=978334&utm_source=habrahabr&utm_medium=rss)
-- [Firefox будет поставляться с функцией AI Kill Switch для отключения всех встроенных в браузер ИИ-сервисов](https://habr.com/ru/news/978348/?utm_campaign=978348&utm_source=habrahabr&utm_medium=rss)
-- [Apple превратится в «коллектора долгов» по новому соглашению с разработчиками](https://habr.com/ru/news/978332/?utm_campaign=978332&utm_source=habrahabr&utm_medium=rss)
-- [Северокорейского агента поймали за работой в IT-отделе Amazon благодаря лагу](https://habr.com/ru/news/978324/?utm_campaign=978324&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия systemd 259](https://habr.com/ru/news/978270/?utm_campaign=978270&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь обнаружил высокое потребление памяти ключевой функцией Windows 11 в фоновом режиме](https://habr.com/ru/news/978346/?utm_campaign=978346&utm_source=habrahabr&utm_medium=rss)
+- [Швейцарские ученые создали нейросеть 1913 года. Она считает женщин ненадежными работниками](https://habr.com/ru/news/978364/?utm_campaign=978364&utm_source=habrahabr&utm_medium=rss)
+- [За регистрацию мобильных устройств в единой базе IMEI-номеров планируется взимать дополнительную фиксированную плату](https://habr.com/ru/news/978358/?utm_campaign=978358&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представляет GPT-5.2-Codex — продвинутый инструмент для программной инженерии](https://habr.com/ru/companies/bothub/news/978356/?utm_campaign=978356&utm_source=habrahabr&utm_medium=rss)
+- [GoDaddy запустила каталог проверенных агентов ИИ](https://habr.com/ru/news/978340/?utm_campaign=978340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
