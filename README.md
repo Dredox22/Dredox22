@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РСХБ выпустил новое приложение для iOS — Ягодный фест](https://habr.com/ru/companies/rshb/news/978410/?utm_campaign=978410&utm_source=habrahabr&utm_medium=rss)
+- [VS Code добавляет поддержку Agent Skills для динамической автоматизации ИИ](https://habr.com/ru/companies/bothub/news/978376/?utm_campaign=978376&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь обнаружил высокое потребление памяти ключевой функцией Windows 11 в фоновом режиме](https://habr.com/ru/news/978346/?utm_campaign=978346&utm_source=habrahabr&utm_medium=rss)
 - [Швейцарские ученые создали нейросеть 1913 года. Она считает женщин ненадежными работниками](https://habr.com/ru/news/978364/?utm_campaign=978364&utm_source=habrahabr&utm_medium=rss)
 - [За регистрацию мобильных устройств в единой базе IMEI-номеров планируется взимать дополнительную фиксированную плату](https://habr.com/ru/news/978358/?utm_campaign=978358&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представляет GPT-5.2-Codex — продвинутый инструмент для программной инженерии](https://habr.com/ru/companies/bothub/news/978356/?utm_campaign=978356&utm_source=habrahabr&utm_medium=rss)
-- [GoDaddy запустила каталог проверенных агентов ИИ](https://habr.com/ru/news/978340/?utm_campaign=978340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
