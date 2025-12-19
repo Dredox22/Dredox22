@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Диасофт» и Luxms представляют интегрированное решение для бизнес-планирования и аналитики](https://habr.com/ru/companies/luxms_bi/news/978432/?utm_campaign=978432&utm_source=habrahabr&utm_medium=rss)
+- [Google выпускает T5Gemma 2 — мультимодальная модель с поддержкой длинного контекста](https://habr.com/ru/companies/bothub/news/978422/?utm_campaign=978422&utm_source=habrahabr&utm_medium=rss)
 - [РСХБ выпустил новое приложение для iOS — Ягодный фест](https://habr.com/ru/companies/rshb/news/978410/?utm_campaign=978410&utm_source=habrahabr&utm_medium=rss)
 - [VS Code добавляет поддержку Agent Skills для динамической автоматизации ИИ](https://habr.com/ru/companies/bothub/news/978376/?utm_campaign=978376&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь обнаружил высокое потребление памяти ключевой функцией Windows 11 в фоновом режиме](https://habr.com/ru/news/978346/?utm_campaign=978346&utm_source=habrahabr&utm_medium=rss)
-- [Швейцарские ученые создали нейросеть 1913 года. Она считает женщин ненадежными работниками](https://habr.com/ru/news/978364/?utm_campaign=978364&utm_source=habrahabr&utm_medium=rss)
-- [За регистрацию мобильных устройств в единой базе IMEI-номеров планируется взимать дополнительную фиксированную плату](https://habr.com/ru/news/978358/?utm_campaign=978358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
