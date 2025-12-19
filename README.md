@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман опять разочаровался в термине AGI. Новая цель — суперинтеллект](https://habr.com/ru/news/978664/?utm_campaign=978664&utm_source=habrahabr&utm_medium=rss)
 - [Сможем ли мы контролировать GPT-7? OpenAI измерили «наблюдаемость» цепочки рассуждений ИИ](https://habr.com/ru/news/978656/?utm_campaign=978656&utm_source=habrahabr&utm_medium=rss)
 - [Сенатор Шейкин: подтверждённые в базе IMEI смартфоны, планшеты и ноутбуки можно будет отключать от мобильной сети](https://habr.com/ru/news/978648/?utm_campaign=978648&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic встроила Claude в Chrome и открыла доступ всем платным тарифам](https://habr.com/ru/news/978620/?utm_campaign=978620&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft опубликовала системные требования для запуска игр на Windows 11](https://habr.com/ru/news/978280/?utm_campaign=978280&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.40: поддержка Visual Studio 2026, Qt Creator 18, проектов для .NET 10 и многое другое](https://habr.com/ru/companies/pvs-studio/news/978618/?utm_campaign=978618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
