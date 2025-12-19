@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Срок поддержки ядра Linux 6.17 истёк, всем рекомендуется перейти на ядро Linux 6.18 LTS](https://habr.com/ru/news/978486/?utm_campaign=978486&utm_source=habrahabr&utm_medium=rss)
+- [Atlas от OpenAI получает мультипрофили и обновления для рабочих пространств](https://habr.com/ru/companies/bothub/news/978448/?utm_campaign=978448&utm_source=habrahabr&utm_medium=rss)
+- [«Крестный отец ИИ» Янн ЛеКун запускает стартап ценой €3 млрд для создания моделей мира](https://habr.com/ru/news/978470/?utm_campaign=978470&utm_source=habrahabr&utm_medium=rss)
 - [«Диасофт» и Luxms представляют интегрированное решение для бизнес-планирования и аналитики](https://habr.com/ru/companies/luxms_bi/news/978432/?utm_campaign=978432&utm_source=habrahabr&utm_medium=rss)
 - [Google выпускает T5Gemma 2 — мультимодальная модель с поддержкой длинного контекста](https://habr.com/ru/companies/bothub/news/978422/?utm_campaign=978422&utm_source=habrahabr&utm_medium=rss)
-- [РСХБ выпустил новое приложение для iOS — Ягодный фест](https://habr.com/ru/companies/rshb/news/978410/?utm_campaign=978410&utm_source=habrahabr&utm_medium=rss)
-- [VS Code добавляет поддержку Agent Skills для динамической автоматизации ИИ](https://habr.com/ru/companies/bothub/news/978376/?utm_campaign=978376&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь обнаружил высокое потребление памяти ключевой функцией Windows 11 в фоновом режиме](https://habr.com/ru/news/978346/?utm_campaign=978346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
