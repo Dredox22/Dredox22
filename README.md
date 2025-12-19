@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновления Windows 11 24H2 и 25H2 нарушили работу RemoteApp в средах Azure Virtual Desktop](https://habr.com/ru/news/978334/?utm_campaign=978334&utm_source=habrahabr&utm_medium=rss)
+- [Firefox будет поставляться с функцией AI Kill Switch для отключения всех встроенных в браузер ИИ-сервисов](https://habr.com/ru/news/978348/?utm_campaign=978348&utm_source=habrahabr&utm_medium=rss)
+- [Apple превратится в «коллектора долгов» по новому соглашению с разработчиками](https://habr.com/ru/news/978332/?utm_campaign=978332&utm_source=habrahabr&utm_medium=rss)
 - [Северокорейского агента поймали за работой в IT-отделе Amazon благодаря лагу](https://habr.com/ru/news/978324/?utm_campaign=978324&utm_source=habrahabr&utm_medium=rss)
 - [Вышла стабильная версия systemd 259](https://habr.com/ru/news/978270/?utm_campaign=978270&utm_source=habrahabr&utm_medium=rss)
-- [$750 млрд за компанию с убытками: OpenAI обсуждает мегараунд до $100 млрд](https://habr.com/ru/news/978310/?utm_campaign=978310&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления DaVinci Resolve 20.3.1](https://habr.com/ru/news/978130/?utm_campaign=978130&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT-5.2-Codex — новый флагман для программирования](https://habr.com/ru/news/978290/?utm_campaign=978290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
