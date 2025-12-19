@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Северокорейского агента поймали за работой в IT-отделе Amazon благодаря лагу](https://habr.com/ru/news/978324/?utm_campaign=978324&utm_source=habrahabr&utm_medium=rss)
+- [Вышла стабильная версия systemd 259](https://habr.com/ru/news/978270/?utm_campaign=978270&utm_source=habrahabr&utm_medium=rss)
 - [$750 млрд за компанию с убытками: OpenAI обсуждает мегараунд до $100 млрд](https://habr.com/ru/news/978310/?utm_campaign=978310&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления DaVinci Resolve 20.3.1](https://habr.com/ru/news/978130/?utm_campaign=978130&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-5.2-Codex — новый флагман для программирования](https://habr.com/ru/news/978290/?utm_campaign=978290&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустили GPT-5.2-Codex](https://habr.com/ru/news/978286/?utm_campaign=978286&utm_source=habrahabr&utm_medium=rss)
-- [Первый Data Sapience Data Day объединил экспертов data-индустрии](https://habr.com/ru/companies/datasapience/news/978278/?utm_campaign=978278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
