@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic встроила Claude в Chrome и открыла доступ всем платным тарифам](https://habr.com/ru/news/978620/?utm_campaign=978620&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft опубликовала системные требования для запуска игр на Windows 11](https://habr.com/ru/news/978280/?utm_campaign=978280&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.40: поддержка Visual Studio 2026, Qt Creator 18, проектов для .NET 10 и многое другое](https://habr.com/ru/companies/pvs-studio/news/978618/?utm_campaign=978618&utm_source=habrahabr&utm_medium=rss)
 - [xAI открывает Grok Voice Agent API с задержкой ответа менее секунды](https://habr.com/ru/companies/bothub/news/978370/?utm_campaign=978370&utm_source=habrahabr&utm_medium=rss)
 - [Вслед за MCP Anthropic заопенсорсили Skills](https://habr.com/ru/news/978532/?utm_campaign=978532&utm_source=habrahabr&utm_medium=rss)
-- [*Meta запускает PE-AV — аудио-визуальный энкодер для мультимодального ИИ](https://habr.com/ru/companies/bothub/news/978434/?utm_campaign=978434&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из MIT и IBM предложили новый подход к расширению возможностей LLM](https://habr.com/ru/companies/technokratos/news/978530/?utm_campaign=978530&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies запускает коммерческие продажи антивируса в составе продукта MaxPatrol EPP](https://habr.com/ru/companies/pt/news/978506/?utm_campaign=978506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
