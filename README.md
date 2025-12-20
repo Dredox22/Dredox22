@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Звезда НБА Кайри Ирвинг толкнул робота-гуманоида, от чего тот «потерял сознание»](https://habr.com/ru/news/978684/?utm_campaign=978684&utm_source=habrahabr&utm_medium=rss)
 - [Airbus переводит критически важные системы в европейское суверенное облако из-за опасений по поводу безопасности данных](https://habr.com/ru/news/978736/?utm_campaign=978736&utm_source=habrahabr&utm_medium=rss)
 - [Thunderbird обновит пользовательский интерфейс календаря в 2026 году, расширит поддержку Microsoft Exchange и протоколов](https://habr.com/ru/news/978636/?utm_campaign=978636&utm_source=habrahabr&utm_medium=rss)
 - [В Нигерии арестовали разработчика Raccoon0365 — фишинговой платформы Microsoft 365](https://habr.com/ru/news/978720/?utm_campaign=978720&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила встроенную функцию Windows для роста производительности серверов](https://habr.com/ru/news/978718/?utm_campaign=978718&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code научили работать с Chrome. Вот насколько это опасно](https://habr.com/ru/news/978712/?utm_campaign=978712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
