@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code научили работать с Chrome. Вот насколько это опасно](https://habr.com/ru/news/978712/?utm_campaign=978712&utm_source=habrahabr&utm_medium=rss)
 - [Подтверждён план по использованию в Ubuntu 26.04 LTS ядра Linux 6.20 &lpar;Linux 7.0&rpar;](https://habr.com/ru/news/978546/?utm_campaign=978546&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для загрузки прошивок Fwupd 2.0.19](https://habr.com/ru/news/978518/?utm_campaign=978518&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман опять разочаровался в термине AGI. Новая цель — суперинтеллект](https://habr.com/ru/news/978664/?utm_campaign=978664&utm_source=habrahabr&utm_medium=rss)
 - [Сможем ли мы контролировать GPT-7? OpenAI измерили «наблюдаемость» цепочки рассуждений ИИ](https://habr.com/ru/news/978656/?utm_campaign=978656&utm_source=habrahabr&utm_medium=rss)
-- [Сенатор Шейкин: подтверждённые в базе IMEI смартфоны, планшеты и ноутбуки можно будет отключать от мобильной сети](https://habr.com/ru/news/978648/?utm_campaign=978648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
