@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Социальное приложение Be My Eyes для незрячих или слабовидящих людей перестало работать в РФ из-за ограничений в стране](https://habr.com/ru/news/978810/?utm_campaign=978810&utm_source=habrahabr&utm_medium=rss)
+- [Шесть сдвигов в LLM за 2025 год — итоги от Андрея Карпати](https://habr.com/ru/news/978804/?utm_campaign=978804&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость UEFI позволяет проводить атаки на матплаты Gigabyte, MSI, Asus и ASRock во время предварительной загрузки](https://habr.com/ru/news/978790/?utm_campaign=978790&utm_source=habrahabr&utm_medium=rss)
 - [Звезда НБА Кайри Ирвинг толкнул робота-гуманоида, от чего тот «потерял сознание»](https://habr.com/ru/news/978684/?utm_campaign=978684&utm_source=habrahabr&utm_medium=rss)
 - [Airbus переводит критически важные системы в европейское суверенное облако из-за опасений по поводу безопасности данных](https://habr.com/ru/news/978736/?utm_campaign=978736&utm_source=habrahabr&utm_medium=rss)
-- [Thunderbird обновит пользовательский интерфейс календаря в 2026 году, расширит поддержку Microsoft Exchange и протоколов](https://habr.com/ru/news/978636/?utm_campaign=978636&utm_source=habrahabr&utm_medium=rss)
-- [В Нигерии арестовали разработчика Raccoon0365 — фишинговой платформы Microsoft 365](https://habr.com/ru/news/978720/?utm_campaign=978720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
