@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм CatBoost от «Яндекса» вошёл в топ инструментов машинного обучения в мире](https://habr.com/ru/news/978896/?utm_campaign=978896&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑Банк» и «Сбер» запустили межбанковские переводы по QR‑коду](https://habr.com/ru/news/978884/?utm_campaign=978884&utm_source=habrahabr&utm_medium=rss)
 - [«Октава ДМ» представил отечественные капсюли для сценических микрофонов](https://habr.com/ru/news/978876/?utm_campaign=978876&utm_source=habrahabr&utm_medium=rss)
 - [Клиент Steam теперь 64-битный](https://habr.com/ru/news/978844/?utm_campaign=978844&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: ИИ-агенты будут спрашивать разрешения на доступ к личным файлам пользователей](https://habr.com/ru/news/978842/?utm_campaign=978842&utm_source=habrahabr&utm_medium=rss)
-- [Ford отзывает более 272 тысяч машин из‑за проблемы, вызывающей самостоятельное движение машины](https://habr.com/ru/news/978832/?utm_campaign=978832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
