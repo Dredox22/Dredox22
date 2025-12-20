@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Названа новая угроза для ИИ: GPU для обучения живут 1–3 года вместо заявленных шести](https://habr.com/ru/news/978820/?utm_campaign=978820&utm_source=habrahabr&utm_medium=rss)
+- [Европол прогнозирует волну преступлений, совершаемых ИИ и роботами, в 2035 году](https://habr.com/ru/news/978818/?utm_campaign=978818&utm_source=habrahabr&utm_medium=rss)
 - [Социальное приложение Be My Eyes для незрячих или слабовидящих людей перестало работать в РФ из-за ограничений в стране](https://habr.com/ru/news/978810/?utm_campaign=978810&utm_source=habrahabr&utm_medium=rss)
 - [Шесть сдвигов в LLM за 2025 год — итоги от Андрея Карпати](https://habr.com/ru/news/978804/?utm_campaign=978804&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость UEFI позволяет проводить атаки на матплаты Gigabyte, MSI, Asus и ASRock во время предварительной загрузки](https://habr.com/ru/news/978790/?utm_campaign=978790&utm_source=habrahabr&utm_medium=rss)
-- [Звезда НБА Кайри Ирвинг толкнул робота-гуманоида, от чего тот «потерял сознание»](https://habr.com/ru/news/978684/?utm_campaign=978684&utm_source=habrahabr&utm_medium=rss)
-- [Airbus переводит критически важные системы в европейское суверенное облако из-за опасений по поводу безопасности данных](https://habr.com/ru/news/978736/?utm_campaign=978736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
