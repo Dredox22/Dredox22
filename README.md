@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндекс Браузере» для организаций появилась нейросеть Алиса AI](https://habr.com/ru/news/979060/?utm_campaign=979060&utm_source=habrahabr&utm_medium=rss)
 - [Из-за использования ИИ Clair Obscur лишили звания «Игры года» на Indie Game Awards](https://habr.com/ru/news/979032/?utm_campaign=979032&utm_source=habrahabr&utm_medium=rss)
 - [Краткие описания от Google AI подрывают средства к существованию авторов кулинарных блогов](https://habr.com/ru/news/978688/?utm_campaign=978688&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT добавили тонкие настройки ответов модели](https://habr.com/ru/news/979028/?utm_campaign=979028&utm_source=habrahabr&utm_medium=rss)
 - [AI распространяется быстрее любой технологии в истории — но драйверы роста меняются](https://habr.com/ru/news/978982/?utm_campaign=978982&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenWrt 24.10.5](https://habr.com/ru/news/978762/?utm_campaign=978762&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
