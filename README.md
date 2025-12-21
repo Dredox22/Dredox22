@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик показал, как можно просто в Nginx защитить свой экземпляр Forgejo от веб-краулеров с ИИ](https://habr.com/ru/news/979084/?utm_campaign=979084&utm_source=habrahabr&utm_medium=rss)
+- [«ВКонтакте» назвала победителей грантовой программы VK Dev Grants 2025](https://habr.com/ru/news/979076/?utm_campaign=979076&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Банкам предлагают отправлять уведомления клиентам через мессенджер Max»](https://habr.com/ru/news/979070/?utm_campaign=979070&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Браузере» для организаций появилась нейросеть Алиса AI](https://habr.com/ru/news/979060/?utm_campaign=979060&utm_source=habrahabr&utm_medium=rss)
 - [Из-за использования ИИ Clair Obscur лишили звания «Игры года» на Indie Game Awards](https://habr.com/ru/news/979032/?utm_campaign=979032&utm_source=habrahabr&utm_medium=rss)
-- [Краткие описания от Google AI подрывают средства к существованию авторов кулинарных блогов](https://habr.com/ru/news/978688/?utm_campaign=978688&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT добавили тонкие настройки ответов модели](https://habr.com/ru/news/979028/?utm_campaign=979028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
