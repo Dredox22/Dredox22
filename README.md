@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ChatGPT добавили тонкие настройки ответов модели](https://habr.com/ru/news/979028/?utm_campaign=979028&utm_source=habrahabr&utm_medium=rss)
 - [AI распространяется быстрее любой технологии в истории — но драйверы роста меняются](https://habr.com/ru/news/978982/?utm_campaign=978982&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenWrt 24.10.5](https://habr.com/ru/news/978762/?utm_campaign=978762&utm_source=habrahabr&utm_medium=rss)
 - [Лента Bell Labs с данными Unix 1974 года успешно скопирована в архив Tarball](https://habr.com/ru/news/978966/?utm_campaign=978966&utm_source=habrahabr&utm_medium=rss)
 - [Проверка показала: десять ошибок при обновлении брандмауэра стали причиной сбоя в работе оператора Optus](https://habr.com/ru/news/978958/?utm_campaign=978958&utm_source=habrahabr&utm_medium=rss)
-- [Google прекратила поддержку браузера для Sega Dreamcast 1999 года](https://habr.com/ru/news/978944/?utm_campaign=978944&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
