@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проверка показала: десять ошибок при обновлении брандмауэра стали причиной сбоя в работе оператора Optus](https://habr.com/ru/news/978958/?utm_campaign=978958&utm_source=habrahabr&utm_medium=rss)
 - [Google прекратила поддержку браузера для Sega Dreamcast 1999 года](https://habr.com/ru/news/978944/?utm_campaign=978944&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Cjam 2.4.0.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/978816/?utm_campaign=978816&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман пообещал новую GPT в первом квартале 2026 года. Google уже готовит ответ](https://habr.com/ru/news/978922/?utm_campaign=978922&utm_source=habrahabr&utm_medium=rss)
 - [Алгоритм CatBoost от «Яндекса» вошёл в топ инструментов машинного обучения в мире](https://habr.com/ru/news/978896/?utm_campaign=978896&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк» и «Сбер» запустили межбанковские переводы по QR‑коду](https://habr.com/ru/news/978884/?utm_campaign=978884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
