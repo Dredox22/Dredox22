@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Cjam 2.4.0.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/978816/?utm_campaign=978816&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман пообещал новую GPT в первом квартале 2026 года. Google уже готовит ответ](https://habr.com/ru/news/978922/?utm_campaign=978922&utm_source=habrahabr&utm_medium=rss)
 - [Алгоритм CatBoost от «Яндекса» вошёл в топ инструментов машинного обучения в мире](https://habr.com/ru/news/978896/?utm_campaign=978896&utm_source=habrahabr&utm_medium=rss)
 - [«Т‑Банк» и «Сбер» запустили межбанковские переводы по QR‑коду](https://habr.com/ru/news/978884/?utm_campaign=978884&utm_source=habrahabr&utm_medium=rss)
 - [«Октава ДМ» представил отечественные капсюли для сценических микрофонов](https://habr.com/ru/news/978876/?utm_campaign=978876&utm_source=habrahabr&utm_medium=rss)
-- [Клиент Steam теперь 64-битный](https://habr.com/ru/news/978844/?utm_campaign=978844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
