@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кинематографичное движение и клонирование голоса: что принесло обновление Kling AI 2.6](https://habr.com/ru/companies/bothub/news/979376/?utm_campaign=979376&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Kodi «Piers» 22.0 Alpha 2 от 19/12/2025](https://habr.com/ru/news/979372/?utm_campaign=979372&utm_source=habrahabr&utm_medium=rss)
 - [PackEat в опенсорсе: датасет с изображениями фруктов и овощей — а также бенчмарки к нему](https://habr.com/ru/companies/yandex_cloud_and_infra/news/979344/?utm_campaign=979344&utm_source=habrahabr&utm_medium=rss)
 - [В Китае анонсировали ИИ-ускоритель, который превзойдет Nvidia H100](https://habr.com/ru/news/979348/?utm_campaign=979348&utm_source=habrahabr&utm_medium=rss)
 - [Anbernic выпустила портативную ретро-консоль RG477V для эмуляции игр с PS2 и Wii U](https://habr.com/ru/news/979346/?utm_campaign=979346&utm_source=habrahabr&utm_medium=rss)
-- [Отчёт: Chrome — один из худших браузеров с точки зрения конфиденциальности пользователей](https://habr.com/ru/news/979288/?utm_campaign=979288&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи сообщили о сбоях в работе WhatsApp в РФ](https://habr.com/ru/news/979298/?utm_campaign=979298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
