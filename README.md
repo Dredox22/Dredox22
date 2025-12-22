@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PackEat в опенсорсе: датасет с изображениями фруктов и овощей — а также бенчмарки к нему](https://habr.com/ru/companies/yandex_cloud_and_infra/news/979344/?utm_campaign=979344&utm_source=habrahabr&utm_medium=rss)
+- [В Китае анонсировали ИИ-ускоритель, который превзойдет Nvidia H100](https://habr.com/ru/news/979348/?utm_campaign=979348&utm_source=habrahabr&utm_medium=rss)
+- [Anbernic выпустила портативную ретро-консоль RG477V для эмуляции игр с PS2 и Wii U](https://habr.com/ru/news/979346/?utm_campaign=979346&utm_source=habrahabr&utm_medium=rss)
 - [Отчёт: Chrome — один из худших браузеров с точки зрения конфиденциальности пользователей](https://habr.com/ru/news/979288/?utm_campaign=979288&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи сообщили о сбоях в работе WhatsApp в РФ](https://habr.com/ru/news/979298/?utm_campaign=979298&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi выпустила MiMo-V2-Flash 309B, модель достигла абсолютного верха в агентном бенчмарке](https://habr.com/ru/companies/bothub/news/979290/?utm_campaign=979290&utm_source=habrahabr&utm_medium=rss)
-- [Сюрприз от DDoS-Guard в адвент-календаре Selectel](https://habr.com/ru/companies/ddosguard/news/979280/?utm_campaign=979280&utm_source=habrahabr&utm_medium=rss)
-- [«Я буду одним из пяти, кто выживет»: золотая лихорадка ИИ-дата-центров глазами ее участников](https://habr.com/ru/news/979266/?utm_campaign=979266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
