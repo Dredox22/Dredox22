@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Technologies вдвое ускорила доставку антивирусной экспертизы в свои продукты](https://habr.com/ru/companies/pt/news/979396/?utm_campaign=979396&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор подтвердил усиление блокировок WhatsApp](https://habr.com/ru/news/979390/?utm_campaign=979390&utm_source=habrahabr&utm_medium=rss)
 - [Кинематографичное движение и клонирование голоса: что принесло обновление Kling AI 2.6](https://habr.com/ru/companies/bothub/news/979376/?utm_campaign=979376&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Kodi «Piers» 22.0 Alpha 2 от 19/12/2025](https://habr.com/ru/news/979372/?utm_campaign=979372&utm_source=habrahabr&utm_medium=rss)
 - [PackEat в опенсорсе: датасет с изображениями фруктов и овощей — а также бенчмарки к нему](https://habr.com/ru/companies/yandex_cloud_and_infra/news/979344/?utm_campaign=979344&utm_source=habrahabr&utm_medium=rss)
-- [В Китае анонсировали ИИ-ускоритель, который превзойдет Nvidia H100](https://habr.com/ru/news/979348/?utm_campaign=979348&utm_source=habrahabr&utm_medium=rss)
-- [Anbernic выпустила портативную ретро-консоль RG477V для эмуляции игр с PS2 и Wii U](https://habr.com/ru/news/979346/?utm_campaign=979346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
