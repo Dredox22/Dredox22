@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китайский оптический чип LightGen создает изображения в 100 раз быстрее Nvidia A100](https://habr.com/ru/news/979174/?utm_campaign=979174&utm_source=habrahabr&utm_medium=rss)
+- [Как один Reddit-пост переписал историю бренда в глазах ИИ. Эксперимент Ahrefs](https://habr.com/ru/news/979170/?utm_campaign=979170&utm_source=habrahabr&utm_medium=rss)
+- [Более тысячи защищённых образов Docker Hardened теперь находятся в свободном доступе](https://habr.com/ru/news/979156/?utm_campaign=979156&utm_source=habrahabr&utm_medium=rss)
 - [Linux Foundation в 2025 года выделила на разработку ядра Linux $8,4 млн, что на $1,6 млн больше, чем в 2024 году](https://habr.com/ru/news/978654/?utm_campaign=978654&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Darktable 5.4 — открытого графического редактора для обработки фотографий в формате RAW](https://habr.com/ru/news/979100/?utm_campaign=979100&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.5 побил рекорд автономности: справляется с 5-часовыми задачами, но есть нюансы](https://habr.com/ru/news/979130/?utm_campaign=979130&utm_source=habrahabr&utm_medium=rss)
-- [Российская Kandinsky 5.0 Pro названа лучшей открытой моделью для создания видео](https://habr.com/ru/news/979126/?utm_campaign=979126&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик показал, как можно просто в Nginx защитить свой экземпляр Forgejo от веб-краулеров с ИИ](https://habr.com/ru/news/979084/?utm_campaign=979084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
