@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Foundation в 2025 года выделила на разработку ядра Linux $8,4 млн, что на $1,6 млн больше, чем в 2024 году](https://habr.com/ru/news/978654/?utm_campaign=978654&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Darktable 5.4 — открытого графического редактора для обработки фотографий в формате RAW](https://habr.com/ru/news/979100/?utm_campaign=979100&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.5 побил рекорд автономности: справляется с 5-часовыми задачами, но есть нюансы](https://habr.com/ru/news/979130/?utm_campaign=979130&utm_source=habrahabr&utm_medium=rss)
 - [Российская Kandinsky 5.0 Pro названа лучшей открытой моделью для создания видео](https://habr.com/ru/news/979126/?utm_campaign=979126&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик показал, как можно просто в Nginx защитить свой экземпляр Forgejo от веб-краулеров с ИИ](https://habr.com/ru/news/979084/?utm_campaign=979084&utm_source=habrahabr&utm_medium=rss)
-- [«ВКонтакте» назвала победителей грантовой программы VK Dev Grants 2025](https://habr.com/ru/news/979076/?utm_campaign=979076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
