@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роскомнадзор сообщил СМИ, что ведомство не ограничивает в РФ работу сервиса для слабовидящих Be My Eyes](https://habr.com/ru/news/979240/?utm_campaign=979240&utm_source=habrahabr&utm_medium=rss)
+- [Выходим за рамки смартфона: что готовит разработчикам ОС Аврора 5.2](https://habr.com/ru/companies/rostelecom/news/979232/?utm_campaign=979232&utm_source=habrahabr&utm_medium=rss)
+- [Новогоднее соревнование CS Space](https://habr.com/ru/news/979226/?utm_campaign=979226&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск GnuCash 5.14](https://habr.com/ru/news/979224/?utm_campaign=979224&utm_source=habrahabr&utm_medium=rss)
 - [Netflix приобрёл компанию-разработчика приложений для создания аватаров Ready Player Me](https://habr.com/ru/news/979208/?utm_campaign=979208&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Переводчике» появился ИИ-режим для перевода сложных текстов](https://habr.com/ru/news/979206/?utm_campaign=979206&utm_source=habrahabr&utm_medium=rss)
-- [Google пересмотрела сроки замены своего классического голосового помощника Google Assistant на Gemini](https://habr.com/ru/news/979192/?utm_campaign=979192&utm_source=habrahabr&utm_medium=rss)
-- [Стартап вознаграждений пользователей смартфонов купил анонимный мессенджер NGL](https://habr.com/ru/news/979186/?utm_campaign=979186&utm_source=habrahabr&utm_medium=rss)
-- [MIT и Apache 2.0 лидируют в лицензировании с открытым исходным кодом в 2025 году](https://habr.com/ru/news/979182/?utm_campaign=979182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
