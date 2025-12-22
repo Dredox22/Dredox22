@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Атеистический Китай сделал самый христианский ИИ: Qwen3 победил в религиозном бенчмарке](https://habr.com/ru/news/979510/?utm_campaign=979510&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code получил нативную поддержку LSP](https://habr.com/ru/news/979496/?utm_campaign=979496&utm_source=habrahabr&utm_medium=rss)
 - [Китайцы снова радуют. Вышла GLM-4.7 – заметный апгрейд именно для агентного кодинга](https://habr.com/ru/news/979490/?utm_campaign=979490&utm_source=habrahabr&utm_medium=rss)
 - [Cursor приобретает ИИ-стартап для ревью кода Graphite](https://habr.com/ru/companies/bothub/news/979486/?utm_campaign=979486&utm_source=habrahabr&utm_medium=rss)
 - [В МФТИ прошёл суперфинал чемпионата по алгоритмическому программированию «РуКод»](https://habr.com/ru/news/979468/?utm_campaign=979468&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GLM-4.7: по кодингу и математике на уровне западных моделей, но за $6 в месяц](https://habr.com/ru/news/979454/?utm_campaign=979454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
