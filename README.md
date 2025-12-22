@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Darktable 5.4 — открытого графического редактора для обработки фотографий в формате RAW](https://habr.com/ru/news/979100/?utm_campaign=979100&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.5 побил рекорд автономности: справляется с 5-часовыми задачами, но есть нюансы](https://habr.com/ru/news/979130/?utm_campaign=979130&utm_source=habrahabr&utm_medium=rss)
 - [Российская Kandinsky 5.0 Pro названа лучшей открытой моделью для создания видео](https://habr.com/ru/news/979126/?utm_campaign=979126&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик показал, как можно просто в Nginx защитить свой экземпляр Forgejo от веб-краулеров с ИИ](https://habr.com/ru/news/979084/?utm_campaign=979084&utm_source=habrahabr&utm_medium=rss)
 - [«ВКонтакте» назвала победителей грантовой программы VK Dev Grants 2025](https://habr.com/ru/news/979076/?utm_campaign=979076&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Банкам предлагают отправлять уведомления клиентам через мессенджер Max»](https://habr.com/ru/news/979070/?utm_campaign=979070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
