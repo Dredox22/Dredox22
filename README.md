@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Я буду одним из пяти, кто выживет»: золотая лихорадка ИИ-дата-центров глазами ее участников](https://habr.com/ru/news/979266/?utm_campaign=979266&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор сообщил СМИ, что ведомство не ограничивает в РФ работу сервиса для слабовидящих Be My Eyes](https://habr.com/ru/news/979240/?utm_campaign=979240&utm_source=habrahabr&utm_medium=rss)
 - [Выходим за рамки смартфона: что готовит разработчикам ОС Аврора 5.2](https://habr.com/ru/companies/rostelecom/news/979232/?utm_campaign=979232&utm_source=habrahabr&utm_medium=rss)
 - [Новогоднее соревнование CS Space](https://habr.com/ru/news/979226/?utm_campaign=979226&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск GnuCash 5.14](https://habr.com/ru/news/979224/?utm_campaign=979224&utm_source=habrahabr&utm_medium=rss)
-- [Netflix приобрёл компанию-разработчика приложений для создания аватаров Ready Player Me](https://habr.com/ru/news/979208/?utm_campaign=979208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
