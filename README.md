@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix приобрёл компанию-разработчика приложений для создания аватаров Ready Player Me](https://habr.com/ru/news/979208/?utm_campaign=979208&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Переводчике» появился ИИ-режим для перевода сложных текстов](https://habr.com/ru/news/979206/?utm_campaign=979206&utm_source=habrahabr&utm_medium=rss)
+- [Google пересмотрела сроки замены своего классического голосового помощника Google Assistant на Gemini](https://habr.com/ru/news/979192/?utm_campaign=979192&utm_source=habrahabr&utm_medium=rss)
+- [Стартап вознаграждений пользователей смартфонов купил анонимный мессенджер NGL](https://habr.com/ru/news/979186/?utm_campaign=979186&utm_source=habrahabr&utm_medium=rss)
 - [MIT и Apache 2.0 лидируют в лицензировании с открытым исходным кодом в 2025 году](https://habr.com/ru/news/979182/?utm_campaign=979182&utm_source=habrahabr&utm_medium=rss)
-- [Китайский оптический чип LightGen создает изображения в 100 раз быстрее Nvidia A100](https://habr.com/ru/news/979174/?utm_campaign=979174&utm_source=habrahabr&utm_medium=rss)
-- [Как один Reddit-пост переписал историю бренда в глазах ИИ. Эксперимент Ahrefs](https://habr.com/ru/news/979170/?utm_campaign=979170&utm_source=habrahabr&utm_medium=rss)
-- [Более тысячи защищённых образов Docker Hardened теперь находятся в свободном доступе](https://habr.com/ru/news/979156/?utm_campaign=979156&utm_source=habrahabr&utm_medium=rss)
-- [Linux Foundation в 2025 года выделила на разработку ядра Linux $8,4 млн, что на $1,6 млн больше, чем в 2024 году](https://habr.com/ru/news/978654/?utm_campaign=978654&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
