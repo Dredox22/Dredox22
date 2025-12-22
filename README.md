@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В МФТИ прошёл суперфинал чемпионата по алгоритмическому программированию «РуКод»](https://habr.com/ru/news/979468/?utm_campaign=979468&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GLM-4.7: по кодингу и математике на уровне западных моделей, но за $6 в месяц](https://habr.com/ru/news/979454/?utm_campaign=979454&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax M2.1 уже доступна бесплатно — с фокусом на мобильный код](https://habr.com/ru/news/979438/?utm_campaign=979438&utm_source=habrahabr&utm_medium=rss)
 - [ФИАН представил прототип 70-кубитного квантового компьютера на ионах иттербия](https://habr.com/ru/news/979434/?utm_campaign=979434&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь связал четыре Mac Studio в 1,5 ТБ RAM через Thunderbolt, чтобы запускать ИИ-модели](https://habr.com/ru/companies/bothub/news/979424/?utm_campaign=979424&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies вдвое ускорила доставку антивирусной экспертизы в свои продукты](https://habr.com/ru/companies/pt/news/979396/?utm_campaign=979396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
