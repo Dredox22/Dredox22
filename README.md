@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Южной Корее покупателей новых смартфонов обязали проходить процедуру распознавания лица](https://habr.com/ru/news/979894/?utm_campaign=979894&utm_source=habrahabr&utm_medium=rss)
 - [Шестое чувство: Google готовит ИИ-подсказки для Android, предугадывающие действия пользователя](https://habr.com/ru/companies/bothub/news/979888/?utm_campaign=979888&utm_source=habrahabr&utm_medium=rss)
 - [Google подала в суд на веб-скрейпер SerpApi за сбор результатов поиска «в поразительных масштабах»](https://habr.com/ru/news/979884/?utm_campaign=979884&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики «Grand Theft Auto: Vice City в браузере» получили запрос по DMCA от Take-Two Interactive и Rockstar Games](https://habr.com/ru/news/979876/?utm_campaign=979876&utm_source=habrahabr&utm_medium=rss)
 - [CodeRabbit: в сгенерированном коде больше ошибок, чем в написанном людьми](https://habr.com/ru/news/979874/?utm_campaign=979874&utm_source=habrahabr&utm_medium=rss)
-- [На РКН в РФ подали в суд за ограничение звонков в Telegram и WhatsApp, так как это нарушает конституционные права](https://habr.com/ru/news/979846/?utm_campaign=979846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
