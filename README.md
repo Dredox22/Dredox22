@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Репортёр New York Times подал в суд на Google, xAI и OpenAI из-за обучения ИИ](https://habr.com/ru/news/979576/?utm_campaign=979576&utm_source=habrahabr&utm_medium=rss)
+- [Видео с синхронным танцем роботов Unitree взорвало интернет. Компания показала прогресс за 11 месяцев](https://habr.com/ru/news/979574/?utm_campaign=979574&utm_source=habrahabr&utm_medium=rss)
 - [Со Spotify скачали 86 млн песен, компания начала расследование, метаданные архива доступны в сети](https://habr.com/ru/news/979568/?utm_campaign=979568&utm_source=habrahabr&utm_medium=rss)
 - [AI-браузеры никогда не будут полностью безопасны — неожиданное признание OpenAI](https://habr.com/ru/news/979566/?utm_campaign=979566&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого эмулятора 86Box 5.3](https://habr.com/ru/news/979260/?utm_campaign=979260&utm_source=habrahabr&utm_medium=rss)
-- [Атеистический Китай сделал самый христианский ИИ: Qwen3 победил в религиозном бенчмарке](https://habr.com/ru/news/979510/?utm_campaign=979510&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code получил нативную поддержку LSP](https://habr.com/ru/news/979496/?utm_campaign=979496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
