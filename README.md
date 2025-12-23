@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В WhatsApp заявили Reuters, что сервис будет бороться за права пользователей из России](https://habr.com/ru/news/979764/?utm_campaign=979764&utm_source=habrahabr&utm_medium=rss)
+- [Глава Google DeepMind: У человечества осталось 10 лет на адаптацию к новому миру](https://habr.com/ru/news/979734/?utm_campaign=979734&utm_source=habrahabr&utm_medium=rss)
 - [От приватного к публичному: C++-инструменты Microsoft для GitHub Copilot стали доступны всем желающим](https://habr.com/ru/companies/bothub/news/979706/?utm_campaign=979706&utm_source=habrahabr&utm_medium=rss)
 - [Житель Нидерландов открыл 46 банковских счетов c помощью дипфейков](https://habr.com/ru/news/979676/?utm_campaign=979676&utm_source=habrahabr&utm_medium=rss)
 - [Вышла спецификация OpenUSD Core Specification 1.0 для описания 3D-сцен](https://habr.com/ru/news/979670/?utm_campaign=979670&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила отказ от перемещения панели задач Windows 11](https://habr.com/ru/news/979666/?utm_campaign=979666&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Coreboot 25.12, представляющего альтернативы проприетарным прошивкам](https://habr.com/ru/news/979432/?utm_campaign=979432&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
