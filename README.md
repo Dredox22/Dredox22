@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft объяснила отказ от перемещения панели задач Windows 11](https://habr.com/ru/news/979666/?utm_campaign=979666&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Coreboot 25.12, представляющего альтернативы проприетарным прошивкам](https://habr.com/ru/news/979432/?utm_campaign=979432&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch Traffic Monitor интегрирован с ВКС-системой Контур.Толк](https://habr.com/ru/companies/infowatch/news/979658/?utm_campaign=979658&utm_source=habrahabr&utm_medium=rss)
+- [Исследование MIT: действительно ли ИИ ускоряет работу программистов?](https://habr.com/ru/news/979652/?utm_campaign=979652&utm_source=habrahabr&utm_medium=rss)
 - [Как облегчить HR управление «синими воротничками»?](https://habr.com/ru/companies/lansoft_career/news/979264/?utm_campaign=979264&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует к 2030 году исключить весь код на C и C++ из основных баз](https://habr.com/ru/news/979612/?utm_campaign=979612&utm_source=habrahabr&utm_medium=rss)
-- [Instacart прекратит эксперимент с ценообразованием на основе ИИ](https://habr.com/ru/news/979600/?utm_campaign=979600&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Браузере» нейросеть «Алиса AI» научилась отвечать на вопросы по информации из видео и документов](https://habr.com/ru/news/979598/?utm_campaign=979598&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» подвели итоги года](https://habr.com/ru/news/979584/?utm_campaign=979584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
