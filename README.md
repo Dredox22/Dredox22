@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как облегчить HR управление «синими воротничками»?](https://habr.com/ru/companies/lansoft_career/news/979264/?utm_campaign=979264&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft планирует к 2030 году исключить весь код на C и C++ из основных баз](https://habr.com/ru/news/979612/?utm_campaign=979612&utm_source=habrahabr&utm_medium=rss)
 - [Instacart прекратит эксперимент с ценообразованием на основе ИИ](https://habr.com/ru/news/979600/?utm_campaign=979600&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Браузере» нейросеть «Алиса AI» научилась отвечать на вопросы по информации из видео и документов](https://habr.com/ru/news/979598/?utm_campaign=979598&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Карты» подвели итоги года](https://habr.com/ru/news/979584/?utm_campaign=979584&utm_source=habrahabr&utm_medium=rss)
-- [Репортёр New York Times подал в суд на Google, xAI и OpenAI из-за обучения ИИ](https://habr.com/ru/news/979576/?utm_campaign=979576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
