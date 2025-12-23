@@ -85,8 +85,8 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На РКН в РФ подали в суд за ограничение звонков в Telegram и WhatsApp, так как это нарушает конституционные права](https://habr.com/ru/news/979846/?utm_campaign=979846&utm_source=habrahabr&utm_medium=rss)
 - [Google покупает Intersect за $4,75 млрд — чтобы хватило энергии для ИИ-дата-центров](https://habr.com/ru/companies/technokratos/news/979838/?utm_campaign=979838&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT 5 решил открытую математическую задачу — впервые без помощи человека](https://habr.com/ru/companies/bothub/news/979782/?utm_campaign=979782&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp заявили Reuters, что сервис будет бороться за права пользователей из России](https://habr.com/ru/news/979764/?utm_campaign=979764&utm_source=habrahabr&utm_medium=rss)
 - [Глава Google DeepMind: У человечества осталось 10 лет на адаптацию к новому миру](https://habr.com/ru/news/979734/?utm_campaign=979734&utm_source=habrahabr&utm_medium=rss)
 - [От приватного к публичному: C++-инструменты Microsoft для GitHub Copilot стали доступны всем желающим](https://habr.com/ru/companies/bothub/news/979706/?utm_campaign=979706&utm_source=habrahabr&utm_medium=rss)
