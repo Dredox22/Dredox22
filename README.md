@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Доработанная GPT-5.2 обошла человека в «тесте на AGI»](https://habr.com/ru/news/979958/?utm_campaign=979958&utm_source=habrahabr&utm_medium=rss)
+- [YDB Zero CPU: ваш ноут не сядет](https://habr.com/ru/companies/ydb/news/979712/?utm_campaign=979712&utm_source=habrahabr&utm_medium=rss)
+- [Руководителей и сотрудников Samsung арестовали за утечку 10-нм технологии DRAM в Китай](https://habr.com/ru/news/979952/?utm_campaign=979952&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск языка программирования Lua 5.5](https://habr.com/ru/news/979866/?utm_campaign=979866&utm_source=habrahabr&utm_medium=rss)
 - [Представлен дистрибутив elementary OS 8.1](https://habr.com/ru/news/979732/?utm_campaign=979732&utm_source=habrahabr&utm_medium=rss)
-- [Вышел AnyDesk 9.6.7 для Windows, AnyDesk 7.1.2 для Raspberry Pi и Linux, AnyDesk 9.6.1 для macOS](https://habr.com/ru/news/979880/?utm_campaign=979880&utm_source=habrahabr&utm_medium=rss)
-- [IDEA 2025.3. Зависание в Maven проектах](https://habr.com/ru/news/979918/?utm_campaign=979918&utm_source=habrahabr&utm_medium=rss)
-- [Россияне подали иск к Роскомнадзору и Минцифры из-за ограничений WhatsApp*](https://habr.com/ru/news/979910/?utm_campaign=979910&utm_source=habrahabr&utm_medium=rss)
-- [В Китае арестовали за ИИ-фото «поврежденного товара» — мошенницу выдал краб с девятью ногами](https://habr.com/ru/news/979906/?utm_campaign=979906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
