@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft подтвердила, что для просмотра медиа в Windows 11 придётся использовать «Проводник», а не «Связь с телефоном»](https://habr.com/ru/news/979694/?utm_campaign=979694&utm_source=habrahabr&utm_medium=rss)
+- [Платформа Tantor 6.2: прозрачность и безопасность управления СУБД, и упрощение работы с кластерами](https://habr.com/ru/companies/tantor/news/980072/?utm_campaign=980072&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic и Google набирают долю на рынке LLM API, OpenAI теряет позиции в корпоративном сегменте](https://habr.com/ru/companies/bothub/news/979982/?utm_campaign=979982&utm_source=habrahabr&utm_medium=rss)
+- [76% критических кибератак в 2025 году были направлены на уничтожение инфраструктуры](https://habr.com/ru/companies/jetinfosystems/news/980058/?utm_campaign=980058&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила, что для просмотра Android медиа в Windows 11 придётся использовать «Проводник»](https://habr.com/ru/news/979694/?utm_campaign=979694&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи разработали единую систему маркировки звонков от организаций](https://habr.com/ru/news/980034/?utm_campaign=980034&utm_source=habrahabr&utm_medium=rss)
-- [Meta* пересматривает стратегию open-source в ИИ, говорит бывший главный учёный компании](https://habr.com/ru/companies/bothub/news/979994/?utm_campaign=979994&utm_source=habrahabr&utm_medium=rss)
-- [Глава Microsoft AI: в ближайшие 5-10 лет ИИ-компаниям придётся вложить в технологию «сотни миллиардов долларов»](https://habr.com/ru/news/980014/?utm_campaign=980014&utm_source=habrahabr&utm_medium=rss)
-- [Релиз шлюза для умного дома и IoT-устройств WebThings Gateway 2.0](https://habr.com/ru/news/979356/?utm_campaign=979356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
