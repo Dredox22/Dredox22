@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter для Авроры: опубликован исходный код эмбеддера](https://habr.com/ru/companies/friflex/news/979978/?utm_campaign=979978&utm_source=habrahabr&utm_medium=rss)
+- [Amazon расширяет AI-ассистента Alexa+ интеграциями с сервисами путешествий и бытовых услуг](https://habr.com/ru/companies/bothub/news/979974/?utm_campaign=979974&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила BitLocker с аппаратным ускорением в Windows 11](https://habr.com/ru/news/979966/?utm_campaign=979966&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь получил доступ к общенациональной системе слежения за автомобилями Узбекистана](https://habr.com/ru/news/979970/?utm_campaign=979970&utm_source=habrahabr&utm_medium=rss)
 - [Доработанная GPT-5.2 обошла человека в «тесте на AGI»](https://habr.com/ru/news/979958/?utm_campaign=979958&utm_source=habrahabr&utm_medium=rss)
-- [YDB Zero CPU: ваш ноут не сядет](https://habr.com/ru/companies/ydb/news/979712/?utm_campaign=979712&utm_source=habrahabr&utm_medium=rss)
-- [Руководителей и сотрудников Samsung арестовали за утечку 10-нм технологии DRAM в Китай](https://habr.com/ru/news/979952/?utm_campaign=979952&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск языка программирования Lua 5.5](https://habr.com/ru/news/979866/?utm_campaign=979866&utm_source=habrahabr&utm_medium=rss)
-- [Представлен дистрибутив elementary OS 8.1](https://habr.com/ru/news/979732/?utm_campaign=979732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
