@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз шлюза для умного дома и IoT-устройств WebThings Gateway 2.0](https://habr.com/ru/news/979356/?utm_campaign=979356&utm_source=habrahabr&utm_medium=rss)
+- [Meta* использует на своих серверах Linux-планировщик, разработанный Valve для Steam Deck](https://habr.com/ru/news/980028/?utm_campaign=980028&utm_source=habrahabr&utm_medium=rss)
+- [Apple разблокировала аккаунт автора книг по программированию на Swift](https://habr.com/ru/news/980008/?utm_campaign=980008&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиасты нарастили производительность SSD в Windows 11 после включения NVMe-драйвера для Windows Server 2025](https://habr.com/ru/news/979984/?utm_campaign=979984&utm_source=habrahabr&utm_medium=rss)
 - [Flutter для Авроры: опубликован исходный код эмбеддера](https://habr.com/ru/companies/friflex/news/979978/?utm_campaign=979978&utm_source=habrahabr&utm_medium=rss)
-- [Amazon расширяет AI-ассистента Alexa+ интеграциями с сервисами путешествий и бытовых услуг](https://habr.com/ru/companies/bothub/news/979974/?utm_campaign=979974&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила BitLocker с аппаратным ускорением в Windows 11](https://habr.com/ru/news/979966/?utm_campaign=979966&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь получил доступ к общенациональной системе слежения за автомобилями Узбекистана](https://habr.com/ru/news/979970/?utm_campaign=979970&utm_source=habrahabr&utm_medium=rss)
-- [Доработанная GPT-5.2 обошла человека в «тесте на AGI»](https://habr.com/ru/news/979958/?utm_campaign=979958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
