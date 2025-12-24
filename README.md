@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Благодаря ChatGPT ученые публикуют на 60% больше статей, но качество падает — исследование](https://habr.com/ru/news/980272/?utm_campaign=980272&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI готовит рекламу в ChatGPT: модели будут приоритизировать спонсорский контент в ответах](https://habr.com/ru/news/980252/?utm_campaign=980252&utm_source=habrahabr&utm_medium=rss)
 - [США вводят запрет на продажу новых китайских и иностранных дронов, удар по DJI и другим производителям](https://habr.com/ru/companies/bothub/news/980242/?utm_campaign=980242&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отключила метод активации Windows по телефону](https://habr.com/ru/news/980236/?utm_campaign=980236&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity отключает годовые подписки, купленные через посредников за несколько сотен рублей](https://habr.com/ru/news/980202/?utm_campaign=980202&utm_source=habrahabr&utm_medium=rss)
-- [Marissa Mayer запускает Dazzle — новый AI‑стартап с финансированием $8 млн](https://habr.com/ru/companies/bothub/news/980190/?utm_campaign=980190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
