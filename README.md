@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Платформа Tantor 6.2: прозрачность и безопасность управления СУБД, и упрощение работы с кластерами](https://habr.com/ru/companies/tantor/news/980072/?utm_campaign=980072&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic и Google набирают долю на рынке LLM API, OpenAI теряет позиции в корпоративном сегменте](https://habr.com/ru/companies/bothub/news/979982/?utm_campaign=979982&utm_source=habrahabr&utm_medium=rss)
-- [76% критических кибератак в 2025 году были направлены на уничтожение инфраструктуры](https://habr.com/ru/companies/jetinfosystems/news/980058/?utm_campaign=980058&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила, что для просмотра Android медиа в Windows 11 придётся использовать «Проводник»](https://habr.com/ru/news/979694/?utm_campaign=979694&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи разработали единую систему маркировки звонков от организаций](https://habr.com/ru/news/980034/?utm_campaign=980034&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Афиша» начала тестировать функцию просмотра вида с выбранного места при помощи ИИ](https://habr.com/ru/news/980136/?utm_campaign=980136&utm_source=habrahabr&utm_medium=rss)
+- [Hugging Face открыл бесплатный доступ к 11 курсам по ИИ перед новогодними праздниками](https://habr.com/ru/companies/bothub/news/980080/?utm_campaign=980080&utm_source=habrahabr&utm_medium=rss)
+- [В Китае водитель Tesla попал в аварию во время стрима с демонстрацией функций Full-Self Driving](https://habr.com/ru/news/980122/?utm_campaign=980122&utm_source=habrahabr&utm_medium=rss)
+- [Jeff Dean объяснил, почему Google начал разрабатывать специализированные AI‑чипы](https://habr.com/ru/companies/bothub/news/980128/?utm_campaign=980128&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры из Disney Research Hub рассказали, как создавали робоверсию снеговика Олафа из мультфильма «Холодное сердце»](https://habr.com/ru/news/980114/?utm_campaign=980114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
