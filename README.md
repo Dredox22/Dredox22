@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI пишет код в 1.7 раза хуже человека, но это можно исправить — CodeRabbit](https://habr.com/ru/news/980166/?utm_campaign=980166&utm_source=habrahabr&utm_medium=rss)
+- [Китай приравнял ИИ к стихийным бедствиям и эпидемиям — власти обновили план реагирования на катастрофы](https://habr.com/ru/news/980156/?utm_campaign=980156&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Афиша» начала тестировать функцию просмотра вида с выбранного места при помощи ИИ](https://habr.com/ru/news/980136/?utm_campaign=980136&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face открыл бесплатный доступ к 11 курсам по ИИ перед новогодними праздниками](https://habr.com/ru/companies/bothub/news/980080/?utm_campaign=980080&utm_source=habrahabr&utm_medium=rss)
 - [В Китае водитель Tesla попал в аварию во время стрима с демонстрацией функций Full-Self Driving](https://habr.com/ru/news/980122/?utm_campaign=980122&utm_source=habrahabr&utm_medium=rss)
-- [Jeff Dean объяснил, почему Google начал разрабатывать специализированные AI‑чипы](https://habr.com/ru/companies/bothub/news/980128/?utm_campaign=980128&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры из Disney Research Hub рассказали, как создавали робоверсию снеговика Олафа из мультфильма «Холодное сердце»](https://habr.com/ru/news/980114/?utm_campaign=980114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
