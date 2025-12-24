@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен дистрибутив elementary OS 8.1](https://habr.com/ru/news/979732/?utm_campaign=979732&utm_source=habrahabr&utm_medium=rss)
+- [Вышел AnyDesk 9.6.7 для Windows, AnyDesk 7.1.2 для Raspberry Pi и Linux, AnyDesk 9.6.1 для macOS](https://habr.com/ru/news/979880/?utm_campaign=979880&utm_source=habrahabr&utm_medium=rss)
 - [IDEA 2025.3. Зависание в Maven проектах](https://habr.com/ru/news/979918/?utm_campaign=979918&utm_source=habrahabr&utm_medium=rss)
 - [Россияне подали иск к Роскомнадзору и Минцифры из-за ограничений WhatsApp*](https://habr.com/ru/news/979910/?utm_campaign=979910&utm_source=habrahabr&utm_medium=rss)
 - [В Китае арестовали за ИИ-фото «поврежденного товара» — мошенницу выдал краб с девятью ногами](https://habr.com/ru/news/979906/?utm_campaign=979906&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме заявили, что Telegram не заблокируют до переноса каналов в Мах](https://habr.com/ru/news/979904/?utm_campaign=979904&utm_source=habrahabr&utm_medium=rss)
-- [В Южной Корее покупателей новых смартфонов обязали проходить процедуру распознавания лица](https://habr.com/ru/news/979894/?utm_campaign=979894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
