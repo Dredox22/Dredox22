@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft подтвердила, что для просмотра медиа в Windows 11 придётся использовать «Проводник», а не «Связь с телефоном»](https://habr.com/ru/news/979694/?utm_campaign=979694&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи разработали единую систему маркировки звонков от организаций](https://habr.com/ru/news/980034/?utm_campaign=980034&utm_source=habrahabr&utm_medium=rss)
+- [Meta* пересматривает стратегию open-source в ИИ, говорит бывший главный учёный компании](https://habr.com/ru/companies/bothub/news/979994/?utm_campaign=979994&utm_source=habrahabr&utm_medium=rss)
+- [Глава Microsoft AI: в ближайшие 5-10 лет ИИ-компаниям придётся вложить в технологию «сотни миллиардов долларов»](https://habr.com/ru/news/980014/?utm_campaign=980014&utm_source=habrahabr&utm_medium=rss)
 - [Релиз шлюза для умного дома и IoT-устройств WebThings Gateway 2.0](https://habr.com/ru/news/979356/?utm_campaign=979356&utm_source=habrahabr&utm_medium=rss)
-- [Meta* использует на своих серверах Linux-планировщик, разработанный Valve для Steam Deck](https://habr.com/ru/news/980028/?utm_campaign=980028&utm_source=habrahabr&utm_medium=rss)
-- [Apple разблокировала аккаунт автора книг по программированию на Swift](https://habr.com/ru/news/980008/?utm_campaign=980008&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты нарастили производительность SSD в Windows 11 после включения NVMe-драйвера для Windows Server 2025](https://habr.com/ru/news/979984/?utm_campaign=979984&utm_source=habrahabr&utm_medium=rss)
-- [Flutter для Авроры: опубликован исходный код эмбеддера](https://habr.com/ru/companies/friflex/news/979978/?utm_campaign=979978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
