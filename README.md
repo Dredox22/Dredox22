@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity отключает годовые подписки, купленные через посредников за несколько сотен рублей](https://habr.com/ru/news/980202/?utm_campaign=980202&utm_source=habrahabr&utm_medium=rss)
 - [Marissa Mayer запускает Dazzle — новый AI‑стартап с финансированием $8 млн](https://habr.com/ru/companies/bothub/news/980190/?utm_campaign=980190&utm_source=habrahabr&utm_medium=rss)
 - [Оказывается, у JetBrains есть свой CLI-агент Junie и он оказался лучшим в Terminal-Bench 2.0](https://habr.com/ru/news/980170/?utm_campaign=980170&utm_source=habrahabr&utm_medium=rss)
 - [AI пишет код в 1,7 раза хуже человека, но это можно исправить — CodeRabbit](https://habr.com/ru/news/980166/?utm_campaign=980166&utm_source=habrahabr&utm_medium=rss)
 - [Китай приравнял ИИ к стихийным бедствиям и эпидемиям — власти обновили план реагирования на катастрофы](https://habr.com/ru/news/980156/?utm_campaign=980156&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Афиша» начала тестировать функцию просмотра вида с выбранного места при помощи ИИ](https://habr.com/ru/news/980136/?utm_campaign=980136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
