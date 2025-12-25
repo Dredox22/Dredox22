@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: кибератака на «Аэрофлот» привела к кадровым последствиям в команде по ИБ компании](https://habr.com/ru/news/980516/?utm_campaign=980516&utm_source=habrahabr&utm_medium=rss)
+- [98% дефляции за 33 месяца: токены LLM дешевеют быстрее, чем когда-то транзисторы](https://habr.com/ru/news/980518/?utm_campaign=980518&utm_source=habrahabr&utm_medium=rss)
+- [MiniMax обновила модель M2.1 для ИИ-агентов и разработки ПО](https://habr.com/ru/companies/bothub/news/980448/?utm_campaign=980448&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Koda для VS Code и CLI: правила проекта, koda.md и новый поиск по документации](https://habr.com/ru/companies/koda/news/980390/?utm_campaign=980390&utm_source=habrahabr&utm_medium=rss)
 - [Альфа-Банк расширяет Bug Bounty-программу по поиску уязвимостей](https://habr.com/ru/companies/alfa/news/980444/?utm_campaign=980444&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI тестирует рекламные форматы для ChatGPT с использованием функции Memory](https://habr.com/ru/companies/bothub/news/980414/?utm_campaign=980414&utm_source=habrahabr&utm_medium=rss)
-- [Коллективный иск писателей против OpenAI, Google, xAI и других за обучение ИИ на пиратских библиотеках](https://habr.com/ru/companies/bothub/news/980418/?utm_campaign=980418&utm_source=habrahabr&utm_medium=rss)
-- [Вышел веб-сервер Angie 1.11.0, созданный бывшей командой Nginx](https://habr.com/ru/news/980412/?utm_campaign=980412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
