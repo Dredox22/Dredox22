@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап Groq обещал чипы дешевле и быстрее GPU Nvidia. Хуанг купил его команду за $20 млрд](https://habr.com/ru/news/980328/?utm_campaign=980328&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Pinta 3.1](https://habr.com/ru/news/980044/?utm_campaign=980044&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft опровергла утверждения о переводе Windows 11 на Rust с использованием ИИ](https://habr.com/ru/news/980318/?utm_campaign=980318&utm_source=habrahabr&utm_medium=rss)
 - [Представлен движок для встраиваемых систем Micro QuickJS, способный с 10 КБ ОЗУ компилировать и выполнять JavaScript-код](https://habr.com/ru/news/979968/?utm_campaign=979968&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект TaskExplorer 1.7.1](https://habr.com/ru/news/980228/?utm_campaign=980228&utm_source=habrahabr&utm_medium=rss)
-- [Глава Signal: AI-агенты с доступом к ОС — экзистенциальная угроза для шифрования](https://habr.com/ru/news/980284/?utm_campaign=980284&utm_source=habrahabr&utm_medium=rss)
-- [Благодаря ChatGPT ученые публикуют на 60% больше статей, но качество падает — исследование](https://habr.com/ru/news/980272/?utm_campaign=980272&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовит рекламу в ChatGPT: модели будут приоритизировать спонсорский контент в ответах](https://habr.com/ru/news/980252/?utm_campaign=980252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
