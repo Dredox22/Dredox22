@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Италия обязала Meta* приостановить политику WhatsApp, блокирующую конкурирующие AI‑чатботы](https://habr.com/ru/companies/bothub/news/980628/?utm_campaign=980628&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Солар» запатентовала новый метод защиты веб-сервисов от ботов и вредоносного трафика](https://habr.com/ru/news/980616/?utm_campaign=980616&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: В Госдуме не планируют ограничивать работу VPN-сервисов в 2026 году](https://habr.com/ru/news/980610/?utm_campaign=980610&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: ведомство не ограничивает работу Twitch в РФ](https://habr.com/ru/news/980606/?utm_campaign=980606&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс готовит эмпатичных AI-помощников для развлечений и повседневного общения](https://habr.com/ru/companies/bothub/news/980604/?utm_campaign=980604&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь Anthropic: к лету 2026 года работающие с ИИ будут жить в параллельном мире](https://habr.com/ru/news/980528/?utm_campaign=980528&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: кибератака на «Аэрофлот» привела к кадровым последствиям в команде по ИБ компании](https://habr.com/ru/news/980516/?utm_campaign=980516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
