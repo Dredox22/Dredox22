@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фейковый тайпсквоттинг-домен распространяет вредоносное ПО PowerShell](https://habr.com/ru/news/980348/?utm_campaign=980348&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Ruby 4.0.0](https://habr.com/ru/news/980354/?utm_campaign=980354&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Teams позволит администраторам блокировать внешних пользователей через портал Defender](https://habr.com/ru/news/980342/?utm_campaign=980342&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia лицензирует технологии конкурента Groq на рынке чипов для ИИ и наймёт его генерального директора](https://habr.com/ru/news/980358/?utm_campaign=980358&utm_source=habrahabr&utm_medium=rss)
 - [Gen-A стала первой отечественной платформой в России для нейросетевого улучшения видео, фото и аудио](https://habr.com/ru/news/980352/?utm_campaign=980352&utm_source=habrahabr&utm_medium=rss)
-- [«Общий интеллект — полная чушь»: Янн ЛеКун и Демис Хассабис поспорили, что называть AGI](https://habr.com/ru/news/980346/?utm_campaign=980346&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» интегрировал нейросеть Алиса AI в «Поиск» в приложении «Яндекс — с Алисой AI»](https://habr.com/ru/news/980344/?utm_campaign=980344&utm_source=habrahabr&utm_medium=rss)
-- [Apple в рамках курса по разработке приложений тратит $20 000 на каждого студента](https://habr.com/ru/news/980336/?utm_campaign=980336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
