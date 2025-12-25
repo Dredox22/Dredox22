@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен движок для встраиваемых систем Micro QuickJS, способный с 10 КБ ОЗУ компилировать и выполнять JavaScript-код](https://habr.com/ru/news/979968/?utm_campaign=979968&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект TaskExplorer 1.7.1](https://habr.com/ru/news/980228/?utm_campaign=980228&utm_source=habrahabr&utm_medium=rss)
 - [Глава Signal: AI-агенты с доступом к ОС — экзистенциальная угроза для шифрования](https://habr.com/ru/news/980284/?utm_campaign=980284&utm_source=habrahabr&utm_medium=rss)
 - [Благодаря ChatGPT ученые публикуют на 60% больше статей, но качество падает — исследование](https://habr.com/ru/news/980272/?utm_campaign=980272&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI готовит рекламу в ChatGPT: модели будут приоритизировать спонсорский контент в ответах](https://habr.com/ru/news/980252/?utm_campaign=980252&utm_source=habrahabr&utm_medium=rss)
-- [США вводят запрет на продажу новых китайских и иностранных дронов, удар по DJI и другим производителям](https://habr.com/ru/companies/bothub/news/980242/?utm_campaign=980242&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отключила метод активации Windows по телефону](https://habr.com/ru/news/980236/?utm_campaign=980236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
