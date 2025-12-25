@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Коллективный иск писателей против OpenAI, Google, xAI и других за обучение ИИ на пиратских библиотеках](https://habr.com/ru/companies/bothub/news/980418/?utm_campaign=980418&utm_source=habrahabr&utm_medium=rss)
+- [Вышел веб-сервер Angie 1.11.0, созданный бывшей командой Nginx](https://habr.com/ru/news/980412/?utm_campaign=980412&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia покупает Groq за $20 млрд — крупнейшая сделка в истории компании](https://habr.com/ru/companies/bothub/news/980400/?utm_campaign=980400&utm_source=habrahabr&utm_medium=rss)
 - [Фейковый тайпсквоттинг-домен распространяет вредоносное ПО PowerShell](https://habr.com/ru/news/980348/?utm_campaign=980348&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Ruby 4.0.0](https://habr.com/ru/news/980354/?utm_campaign=980354&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Teams позволит администраторам блокировать внешних пользователей через портал Defender](https://habr.com/ru/news/980342/?utm_campaign=980342&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia лицензирует технологии конкурента Groq на рынке чипов для ИИ и наймёт его генерального директора](https://habr.com/ru/news/980358/?utm_campaign=980358&utm_source=habrahabr&utm_medium=rss)
-- [Gen-A стала первой отечественной платформой в России для нейросетевого улучшения видео, фото и аудио](https://habr.com/ru/news/980352/?utm_campaign=980352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
