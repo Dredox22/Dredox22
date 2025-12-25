@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Стартап Groq обещал чипы дешевле и быстрее GPU Nvidia. Хуанг купил его команду за $20 млрд](https://habr.com/ru/news/980328/?utm_campaign=980328&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Pinta 3.1](https://habr.com/ru/news/980044/?utm_campaign=980044&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft опровергла утверждения о переводе Windows 11 на Rust с использованием ИИ](https://habr.com/ru/news/980318/?utm_campaign=980318&utm_source=habrahabr&utm_medium=rss)
-- [Представлен движок для встраиваемых систем Micro QuickJS, способный с 10 КБ ОЗУ компилировать и выполнять JavaScript-код](https://habr.com/ru/news/979968/?utm_campaign=979968&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект TaskExplorer 1.7.1](https://habr.com/ru/news/980228/?utm_campaign=980228&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia лицензирует технологии конкурента Groq на рынке чипов для ИИ и наймёт его генерального директора](https://habr.com/ru/news/980358/?utm_campaign=980358&utm_source=habrahabr&utm_medium=rss)
+- [Gen-A стала первой отечественной платформой в России для нейросетевого улучшения видео, фото и аудио](https://habr.com/ru/news/980352/?utm_campaign=980352&utm_source=habrahabr&utm_medium=rss)
+- [«Общий интеллект — полная чушь»: Янн ЛеКун и Демис Хассабис поспорили, что называть AGI](https://habr.com/ru/news/980346/?utm_campaign=980346&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» интегрировал нейросеть Алиса AI в «Поиск» в приложении «Яндекс — с Алисой AI»](https://habr.com/ru/news/980344/?utm_campaign=980344&utm_source=habrahabr&utm_medium=rss)
+- [Apple в рамках курса по разработке приложений тратит $20 000 на каждого студента](https://habr.com/ru/news/980336/?utm_campaign=980336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
