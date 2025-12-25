@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: В Госдуме не планируют ограничивать работу VPN-сервисов в 2026 году](https://habr.com/ru/news/980610/?utm_campaign=980610&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: ведомство не ограничивает работу Twitch в РФ](https://habr.com/ru/news/980606/?utm_campaign=980606&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс готовит эмпатичных AI-помощников для развлечений и повседневного общения](https://habr.com/ru/companies/bothub/news/980604/?utm_campaign=980604&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь Anthropic: к лету 2026 года работающие с ИИ будут жить в параллельном мире](https://habr.com/ru/news/980528/?utm_campaign=980528&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: кибератака на «Аэрофлот» привела к кадровым последствиям в команде по ИБ компании](https://habr.com/ru/news/980516/?utm_campaign=980516&utm_source=habrahabr&utm_medium=rss)
-- [98% дефляции за 33 месяца: токены LLM дешевеют быстрее, чем когда-то транзисторы](https://habr.com/ru/news/980518/?utm_campaign=980518&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax обновила модель M2.1 для ИИ-агентов и разработки ПО](https://habr.com/ru/companies/bothub/news/980448/?utm_campaign=980448&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Koda для VS Code и CLI: правила проекта, koda.md и новый поиск по документации](https://habr.com/ru/companies/koda/news/980390/?utm_campaign=980390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
