@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Альфа-Банк расширяет Bug Bounty-программу по поиску уязвимостей](https://habr.com/ru/companies/alfa/news/980444/?utm_campaign=980444&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI тестирует рекламные форматы для ChatGPT с использованием функции Memory](https://habr.com/ru/companies/bothub/news/980414/?utm_campaign=980414&utm_source=habrahabr&utm_medium=rss)
 - [Коллективный иск писателей против OpenAI, Google, xAI и других за обучение ИИ на пиратских библиотеках](https://habr.com/ru/companies/bothub/news/980418/?utm_campaign=980418&utm_source=habrahabr&utm_medium=rss)
 - [Вышел веб-сервер Angie 1.11.0, созданный бывшей командой Nginx](https://habr.com/ru/news/980412/?utm_campaign=980412&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia покупает Groq за $20 млрд — крупнейшая сделка в истории компании](https://habr.com/ru/companies/bothub/news/980400/?utm_campaign=980400&utm_source=habrahabr&utm_medium=rss)
-- [Фейковый тайпсквоттинг-домен распространяет вредоносное ПО PowerShell](https://habr.com/ru/news/980348/?utm_campaign=980348&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Ruby 4.0.0](https://habr.com/ru/news/980354/?utm_campaign=980354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
