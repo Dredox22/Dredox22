@@ -86,10 +86,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Сооснователь Anthropic: к лету 2026 года работающие с ИИ будут жить в параллельном мире](https://habr.com/ru/news/980528/?utm_campaign=980528&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft рассматривает переписывание всей кодовой базы на Rust к 2030 году](https://habr.com/ru/companies/bothub/news/980408/?utm_campaign=980408&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: кибератака на «Аэрофлот» привела к кадровым последствиям в команде по ИБ компании](https://habr.com/ru/news/980516/?utm_campaign=980516&utm_source=habrahabr&utm_medium=rss)
 - [98% дефляции за 33 месяца: токены LLM дешевеют быстрее, чем когда-то транзисторы](https://habr.com/ru/news/980518/?utm_campaign=980518&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax обновила модель M2.1 для ИИ-агентов и разработки ПО](https://habr.com/ru/companies/bothub/news/980448/?utm_campaign=980448&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Koda для VS Code и CLI: правила проекта, koda.md и новый поиск по документации](https://habr.com/ru/companies/koda/news/980390/?utm_campaign=980390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
