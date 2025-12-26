@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus планирует запустить производство оперативной памяти для ПК к концу второго квартала 2026 года](https://habr.com/ru/news/980828/?utm_campaign=980828&utm_source=habrahabr&utm_medium=rss)
 - [Игру Doom запустили на Хабре](https://habr.com/ru/news/980668/?utm_campaign=980668&utm_source=habrahabr&utm_medium=rss)
 - [В работе Telegram произошёл глобальный сбой](https://habr.com/ru/news/980810/?utm_campaign=980810&utm_source=habrahabr&utm_medium=rss)
 - [Китай требует от Apple Intelligence отклонять 95% провокационных запросов](https://habr.com/ru/companies/bothub/news/980788/?utm_campaign=980788&utm_source=habrahabr&utm_medium=rss)
 - [Флагманская модель для кодинга GLM-4.7 доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/980362/?utm_campaign=980362&utm_source=habrahabr&utm_medium=rss)
-- [Salesforce теряет доверие к большим языковым моделям для бизнес-задач](https://habr.com/ru/companies/bothub/news/980772/?utm_campaign=980772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
