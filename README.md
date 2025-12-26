@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ создал 50 новых миллиардеров в 2025 году — кто они и на чем заработали](https://habr.com/ru/news/980690/?utm_campaign=980690&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Kitty Terminal 0.45](https://habr.com/ru/news/980686/?utm_campaign=980686&utm_source=habrahabr&utm_medium=rss)
 - [Сайт проекта Arch Linux подвергся DDoS-атаке и пока доступен только по IPv6](https://habr.com/ru/news/980670/?utm_campaign=980670&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic и OpenAI удвоили лимиты до Нового года. Пользователи Claude не заметили разницы](https://habr.com/ru/news/980650/?utm_campaign=980650&utm_source=habrahabr&utm_medium=rss)
 - [Вышла открытая платформа для создания сетевых хранилищ OpenMediaVault 8.0](https://habr.com/ru/news/980422/?utm_campaign=980422&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.4.7 открытого редактора изображений RAW](https://habr.com/ru/news/980490/?utm_campaign=980490&utm_source=habrahabr&utm_medium=rss)
-- [Google уволил закупщиков, Microsoft хлопнул дверью: биг-тех воюет за память в Корее](https://habr.com/ru/news/980638/?utm_campaign=980638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
