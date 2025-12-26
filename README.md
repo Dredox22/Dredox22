@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс Карты» начали показывать номера путей и строить маршруты до платформ на вокзалах](https://habr.com/ru/news/981030/?utm_campaign=981030&utm_source=habrahabr&utm_medium=rss)
 - [Yadro запустила серийное производство базовых станций](https://habr.com/ru/news/981014/?utm_campaign=981014&utm_source=habrahabr&utm_medium=rss)
 - [Автор «теста на AGI» объяснил истинную цель своего бенчмарка](https://habr.com/ru/news/981012/?utm_campaign=981012&utm_source=habrahabr&utm_medium=rss)
 - [Пентагон расширяет AI‑возможности на платформе GenAI.mil в партнёрстве с xAI](https://habr.com/ru/companies/bothub/news/981004/?utm_campaign=981004&utm_source=habrahabr&utm_medium=rss)
 - [Авито запускает тестирование ИИ-ассистентов для покупателей и профессиональных продавцов](https://habr.com/ru/companies/bothub/news/981000/?utm_campaign=981000&utm_source=habrahabr&utm_medium=rss)
-- [В России упростили требования к отечественным светодиодам](https://habr.com/ru/news/980998/?utm_campaign=980998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
