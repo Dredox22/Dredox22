@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Azulle представила компактный мини‑ПК Access Arm в формате HDMI‑флешки](https://habr.com/ru/news/980716/?utm_campaign=980716&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Amplicode 2025.3 со Spring MCP, поддержкой Spring Data JDBC и MyBatis](https://habr.com/ru/companies/haulmont/news/980718/?utm_campaign=980718&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies выводит свои продукты на багбаунти](https://habr.com/ru/companies/pt/news/980714/?utm_campaign=980714&utm_source=habrahabr&utm_medium=rss)
-- [Темпы развития ИИ удвоились, но доверие к бенчмаркам падает, сообщает Epoch AI](https://habr.com/ru/companies/bothub/news/980698/?utm_campaign=980698&utm_source=habrahabr&utm_medium=rss)
-- [ИИ создал 50 новых миллиардеров в 2025 году — кто они и на чем заработали](https://habr.com/ru/news/980690/?utm_campaign=980690&utm_source=habrahabr&utm_medium=rss)
+- [Salesforce теряет доверие к большим языковым моделям для бизнес-задач](https://habr.com/ru/companies/bothub/news/980772/?utm_campaign=980772&utm_source=habrahabr&utm_medium=rss)
+- [Fix Price оптимизирует процесс поставок из Китая](https://habr.com/ru/companies/fix_price/news/980768/?utm_campaign=980768&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA урежет производство игровых GPU на 40% — ИИ-чипы приносят в 12 раз больше](https://habr.com/ru/news/980764/?utm_campaign=980764&utm_source=habrahabr&utm_medium=rss)
+- [Командный зачёт: UserGate укрепил лидерские позиции на рынке информационной безопасности страны](https://habr.com/ru/companies/usergate/news/980746/?utm_campaign=980746&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» совместно с крупнейшими радиохолдингами запустил бета‑версию сервиса «Яндекс Радио»](https://habr.com/ru/news/980744/?utm_campaign=980744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
