@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Игру Doom запустили на Хабре](https://habr.com/ru/news/980668/?utm_campaign=980668&utm_source=habrahabr&utm_medium=rss)
+- [В работе Telegram произошёл глобальный сбой](https://habr.com/ru/news/980810/?utm_campaign=980810&utm_source=habrahabr&utm_medium=rss)
+- [Китай требует от Apple Intelligence отклонять 95% провокационных запросов](https://habr.com/ru/companies/bothub/news/980788/?utm_campaign=980788&utm_source=habrahabr&utm_medium=rss)
+- [Флагманская модель для кодинга GLM-4.7 доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/980362/?utm_campaign=980362&utm_source=habrahabr&utm_medium=rss)
 - [Salesforce теряет доверие к большим языковым моделям для бизнес-задач](https://habr.com/ru/companies/bothub/news/980772/?utm_campaign=980772&utm_source=habrahabr&utm_medium=rss)
-- [Fix Price оптимизирует процесс поставок из Китая](https://habr.com/ru/companies/fix_price/news/980768/?utm_campaign=980768&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA урежет производство игровых GPU на 40% — ИИ-чипы приносят в 12 раз больше](https://habr.com/ru/news/980764/?utm_campaign=980764&utm_source=habrahabr&utm_medium=rss)
-- [Командный зачёт: UserGate укрепил лидерские позиции на рынке информационной безопасности страны](https://habr.com/ru/companies/usergate/news/980746/?utm_campaign=980746&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» совместно с крупнейшими радиохолдингами запустил бета‑версию сервиса «Яндекс Радио»](https://habr.com/ru/news/980744/?utm_campaign=980744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
