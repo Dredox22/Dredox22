@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic и OpenAI удвоили лимиты до Нового года. Пользователи Claude не заметили разницы](https://habr.com/ru/news/980650/?utm_campaign=980650&utm_source=habrahabr&utm_medium=rss)
 - [Вышла открытая платформа для создания сетевых хранилищ OpenMediaVault 8.0](https://habr.com/ru/news/980422/?utm_campaign=980422&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление RapidRAW 1.4.7 открытого редактора изображений RAW](https://habr.com/ru/news/980490/?utm_campaign=980490&utm_source=habrahabr&utm_medium=rss)
 - [Google уволил закупщиков, Microsoft хлопнул дверью: биг-тех воюет за память в Корее](https://habr.com/ru/news/980638/?utm_campaign=980638&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск: я бы замедлил прогресс ИИ и робототехники, если бы мог](https://habr.com/ru/companies/bothub/news/980634/?utm_campaign=980634&utm_source=habrahabr&utm_medium=rss)
-- [Италия обязала Meta* приостановить политику WhatsApp, блокирующую конкурирующие AI‑чатботы](https://habr.com/ru/companies/bothub/news/980628/?utm_campaign=980628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
