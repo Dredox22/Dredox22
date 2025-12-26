@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Azulle представила компактный мини‑ПК Access Arm в формате HDMI‑флешки](https://habr.com/ru/news/980716/?utm_campaign=980716&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Amplicode 2025.3 со Spring MCP, поддержкой Spring Data JDBC и MyBatis](https://habr.com/ru/companies/haulmont/news/980718/?utm_campaign=980718&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies выводит свои продукты на багбаунти](https://habr.com/ru/companies/pt/news/980714/?utm_campaign=980714&utm_source=habrahabr&utm_medium=rss)
 - [Темпы развития ИИ удвоились, но доверие к бенчмаркам падает, сообщает Epoch AI](https://habr.com/ru/companies/bothub/news/980698/?utm_campaign=980698&utm_source=habrahabr&utm_medium=rss)
 - [ИИ создал 50 новых миллиардеров в 2025 году — кто они и на чем заработали](https://habr.com/ru/news/980690/?utm_campaign=980690&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Kitty Terminal 0.45](https://habr.com/ru/news/980686/?utm_campaign=980686&utm_source=habrahabr&utm_medium=rss)
-- [Сайт проекта Arch Linux подвергся DDoS-атаке и пока доступен только по IPv6](https://habr.com/ru/news/980670/?utm_campaign=980670&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic и OpenAI удвоили лимиты до Нового года. Пользователи Claude не заметили разницы](https://habr.com/ru/news/980650/?utm_campaign=980650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
