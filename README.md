@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бенчмарк ARC перестаёт быть барьером: современные подходы оптимизации рушат его значимость](https://habr.com/ru/companies/bothub/news/980920/?utm_campaign=980920&utm_source=habrahabr&utm_medium=rss)
+- [Таганский суд Москвы принял к производству иск к Роскомнадзору и Минцифры о признании их действий незаконными](https://habr.com/ru/news/980914/?utm_campaign=980914&utm_source=habrahabr&utm_medium=rss)
 - [xAI запустила Grok Collections API для создания RAG-приложений](https://habr.com/ru/companies/bothub/news/980812/?utm_campaign=980812&utm_source=habrahabr&utm_medium=rss)
 - [Топовая китайская модель MiniMax M2.1 уже доступна бесплатно в Koda для VS Code и CLI](https://habr.com/ru/companies/koda/news/979640/?utm_campaign=979640&utm_source=habrahabr&utm_medium=rss)
 - [Asus планирует запустить производство оперативной памяти для ПК к концу второго квартала 2026 года](https://habr.com/ru/news/980828/?utm_campaign=980828&utm_source=habrahabr&utm_medium=rss)
-- [Игру Doom запустили на Хабре](https://habr.com/ru/news/980668/?utm_campaign=980668&utm_source=habrahabr&utm_medium=rss)
-- [В работе Telegram произошёл глобальный сбой](https://habr.com/ru/news/980810/?utm_campaign=980810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
