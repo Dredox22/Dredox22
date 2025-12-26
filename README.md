@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пентагон расширяет AI‑возможности на платформе GenAI.mil в партнёрстве с xAI](https://habr.com/ru/companies/bothub/news/981004/?utm_campaign=981004&utm_source=habrahabr&utm_medium=rss)
+- [Авито запускает тестирование ИИ-ассистентов для покупателей и профессиональных продавцов](https://habr.com/ru/companies/bothub/news/981000/?utm_campaign=981000&utm_source=habrahabr&utm_medium=rss)
+- [В России упростили требования к отечественным светодиодам](https://habr.com/ru/news/980998/?utm_campaign=980998&utm_source=habrahabr&utm_medium=rss)
 - [Wink Box Mini начали производить на производстве российской компании ЦТС](https://habr.com/ru/news/980988/?utm_campaign=980988&utm_source=habrahabr&utm_medium=rss)
 - [Google догоняет OpenAI: веб-трафик Gemini вырос с 5% до 20%, ChatGPT упал до 68%](https://habr.com/ru/news/980984/?utm_campaign=980984&utm_source=habrahabr&utm_medium=rss)
-- [Бенчмарк ARC перестаёт быть барьером: современные подходы оптимизации рушат его значимость](https://habr.com/ru/companies/bothub/news/980920/?utm_campaign=980920&utm_source=habrahabr&utm_medium=rss)
-- [Таганский суд Москвы принял к производству иск к Роскомнадзору и Минцифры о признании их действий незаконными](https://habr.com/ru/news/980914/?utm_campaign=980914&utm_source=habrahabr&utm_medium=rss)
-- [xAI запустила Grok Collections API для создания RAG-приложений](https://habr.com/ru/companies/bothub/news/980812/?utm_campaign=980812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
