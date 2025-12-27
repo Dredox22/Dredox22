@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кризис джуниоров не касается ИИ: OpenAI и Anthropic платят стажерам шестизначные суммы](https://habr.com/ru/news/981098/?utm_campaign=981098&utm_source=habrahabr&utm_medium=rss)
 - [Релиз редактора векторной графики Inkscape 1.4.3](https://habr.com/ru/news/981076/?utm_campaign=981076&utm_source=habrahabr&utm_medium=rss)
 - [Вышел эмулятор QEMU 10.2.0](https://habr.com/ru/news/980840/?utm_campaign=980840&utm_source=habrahabr&utm_medium=rss)
 - [Huawei бросает вызов Nvidia: китайские ИИ-чипы впервые идут на экспорт](https://habr.com/ru/news/981044/?utm_campaign=981044&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-стартапы в 2025 году предлагали рекордные условия для начинающих специалистов](https://habr.com/ru/news/981040/?utm_campaign=981040&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: «Проводник» в Windows 11 будет использовать меньше оперативной памяти при поиске файлов](https://habr.com/ru/news/981038/?utm_campaign=981038&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
