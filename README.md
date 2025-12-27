@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пока Запад спорит об AGI, Китай регулирует ИИ-подружек](https://habr.com/ru/news/981198/?utm_campaign=981198&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia выложила в открытом доступе проект CUDA Tile IR](https://habr.com/ru/news/981110/?utm_campaign=981110&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики FFmpeg добились блокировки репозитория Rockchip на GitHub по DMCA](https://habr.com/ru/news/981106/?utm_campaign=981106&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпати: впервые чувствую себя настолько отстающим как программист](https://habr.com/ru/news/981104/?utm_campaign=981104&utm_source=habrahabr&utm_medium=rss)
 - [Кризис джуниоров не касается ИИ: OpenAI и Anthropic платят стажерам шестизначные суммы](https://habr.com/ru/news/981098/?utm_campaign=981098&utm_source=habrahabr&utm_medium=rss)
-- [Релиз редактора векторной графики Inkscape 1.4.3](https://habr.com/ru/news/981076/?utm_campaign=981076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
