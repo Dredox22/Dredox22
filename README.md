@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-индустрия Китая превысила 1 трлн юаней — рост более 40% за год](https://habr.com/ru/news/981278/?utm_campaign=981278&utm_source=habrahabr&utm_medium=rss)
+- [Блэкаут в Сан-Франциско парализовал роботакси Waymo — эксперты требуют новых правил](https://habr.com/ru/news/981272/?utm_campaign=981272&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Doom в Django с тестированием возможности LiveView на уровне 600 000 &amp;lt;div&amp;gt; в секунду](https://habr.com/ru/news/981262/?utm_campaign=981262&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из Огайо научились использовать грибы для хранения данных](https://habr.com/ru/news/981252/?utm_campaign=981252&utm_source=habrahabr&utm_medium=rss)
 - [Pixio от Meta* доказывает, что простая реконструкция пикселей может превзойти сложные модели компьютерного зрения](https://habr.com/ru/companies/bothub/news/981248/?utm_campaign=981248&utm_source=habrahabr&utm_medium=rss)
-- [Компания iPass выпустила ограниченную серию карт предоплаты, по форме напоминающих 3,5-дюймовую дискету в масштабе 1:1](https://habr.com/ru/news/981244/?utm_campaign=981244&utm_source=habrahabr&utm_medium=rss)
-- [Asus опровергла планы по выходу на рынок ОЗУ](https://habr.com/ru/news/981232/?utm_campaign=981232&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
