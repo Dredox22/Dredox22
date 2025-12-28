@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus опровергла планы по выходу на рынок ОЗУ](https://habr.com/ru/news/981232/?utm_campaign=981232&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия FxSound 1.2.5.0 — открытого проекта для автоматической или настраиваемой обработки звука в Windows](https://habr.com/ru/news/981140/?utm_campaign=981140&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Trust Wallet потеряли $7 млн из-за взлома легального расширения проекта в Chrome](https://habr.com/ru/news/981228/?utm_campaign=981228&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление StaxRip 2.50.5 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/981124/?utm_campaign=981124&utm_source=habrahabr&utm_medium=rss)
 - [Пока Запад спорит об AGI, Китай регулирует ИИ-подружек](https://habr.com/ru/news/981198/?utm_campaign=981198&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia выложила в открытом доступе проект CUDA Tile IR](https://habr.com/ru/news/981110/?utm_campaign=981110&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики FFmpeg добились блокировки репозитория Rockchip на GitHub по DMCA](https://habr.com/ru/news/981106/?utm_campaign=981106&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати: впервые чувствую себя настолько отстающим как программист](https://habr.com/ru/news/981104/?utm_campaign=981104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
