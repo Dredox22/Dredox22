@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Банк РФ с 1 января 2026 года расширит с 6 до 12 список список признаков мошеннических операций](https://habr.com/ru/news/981334/?utm_campaign=981334&utm_source=habrahabr&utm_medium=rss)
+- [Создатели GPT-5-Codex-Max рассказали о будущем разработки ПО](https://habr.com/ru/news/981332/?utm_campaign=981332&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-индустрия Китая превысила 1 трлн юаней — рост более 40% за год](https://habr.com/ru/news/981278/?utm_campaign=981278&utm_source=habrahabr&utm_medium=rss)
 - [Блэкаут в Сан-Франциско парализовал роботакси Waymo — эксперты требуют новых правил](https://habr.com/ru/news/981272/?utm_campaign=981272&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Doom в Django с тестированием возможности LiveView на уровне 600 000 &amp;lt;div&amp;gt; в секунду](https://habr.com/ru/news/981262/?utm_campaign=981262&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из Огайо научились использовать грибы для хранения данных](https://habr.com/ru/news/981252/?utm_campaign=981252&utm_source=habrahabr&utm_medium=rss)
-- [Pixio от Meta* доказывает, что простая реконструкция пикселей может превзойти сложные модели компьютерного зрения](https://habr.com/ru/companies/bothub/news/981248/?utm_campaign=981248&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
