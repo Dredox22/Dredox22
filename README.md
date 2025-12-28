@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixio от Meta* доказывает, что простая реконструкция пикселей может превзойти сложные модели компьютерного зрения](https://habr.com/ru/companies/bothub/news/981248/?utm_campaign=981248&utm_source=habrahabr&utm_medium=rss)
+- [Компания iPass выпустила ограниченную серию карт предоплаты, по форме напоминающих 3,5-дюймовую дискету в масштабе 1:1](https://habr.com/ru/news/981244/?utm_campaign=981244&utm_source=habrahabr&utm_medium=rss)
 - [Asus опровергла планы по выходу на рынок ОЗУ](https://habr.com/ru/news/981232/?utm_campaign=981232&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия FxSound 1.2.5.0 — открытого проекта для автоматической или настраиваемой обработки звука в Windows](https://habr.com/ru/news/981140/?utm_campaign=981140&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Trust Wallet потеряли $7 млн из-за взлома легального расширения проекта в Chrome](https://habr.com/ru/news/981228/?utm_campaign=981228&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление StaxRip 2.50.5 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/981124/?utm_campaign=981124&utm_source=habrahabr&utm_medium=rss)
-- [Пока Запад спорит об AGI, Китай регулирует ИИ-подружек](https://habr.com/ru/news/981198/?utm_campaign=981198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
