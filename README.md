@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры взломали шутер Rainbow Six Siege](https://habr.com/ru/companies/femida_search/news/981594/?utm_campaign=981594&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запустит бесплатный курс по JavaScript для новичков](https://habr.com/ru/companies/selectel/news/981564/?utm_campaign=981564&utm_source=habrahabr&utm_medium=rss)
 - [GPT-4 обгоняет среднего человека в креативности, но проигрывает лучшим 10%](https://habr.com/ru/news/981524/?utm_campaign=981524&utm_source=habrahabr&utm_medium=rss)
 - [Метро Нью-Йорка отказывается от карт MetroCard и полностью переходит на платные тарифы и бесконтактную систему оплаты](https://habr.com/ru/news/981518/?utm_campaign=981518&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Погода» начала тесты чата, в котором ИИ советует пользователям, как нужно одеться по погоде](https://habr.com/ru/news/981466/?utm_campaign=981466&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI наймёт нового руководителя отдела «обеспечения готовности ИИ»](https://habr.com/ru/news/981492/?utm_campaign=981492&utm_source=habrahabr&utm_medium=rss)
-- [172 млн пользователей и 50 трлн токенов: Doubao стал крупнейшим ИИ-приложением Китая](https://habr.com/ru/news/981470/?utm_campaign=981470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
