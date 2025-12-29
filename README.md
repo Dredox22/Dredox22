@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen3 обучили управлять смартфоном лучше Gemini и ByteDance](https://habr.com/ru/news/981732/?utm_campaign=981732&utm_source=habrahabr&utm_medium=rss)
 - [Производители электроники предлагают ввести кешбэк на российскую продукцию](https://habr.com/ru/news/981720/?utm_campaign=981720&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/981718/?utm_campaign=981718&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал законы об электронных зачётке, студенческом билете и подтвеждении возраста через Max](https://habr.com/ru/news/981690/?utm_campaign=981690&utm_source=habrahabr&utm_medium=rss)
 - [GLM 4.7 — первая открытая модель, ставшая прибыльной в симуляции бизнеса](https://habr.com/ru/news/981684/?utm_campaign=981684&utm_source=habrahabr&utm_medium=rss)
-- [Таганский суд отказал в иске против РКН и Минцифры за блокировку звонков в Telegram и WhatsApp](https://habr.com/ru/news/981646/?utm_campaign=981646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
