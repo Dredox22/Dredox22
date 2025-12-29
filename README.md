@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 обгоняет среднего человека в креативности, но проигрывает лучшим 10%](https://habr.com/ru/news/981524/?utm_campaign=981524&utm_source=habrahabr&utm_medium=rss)
+- [Метро Нью-Йорка отказывается от карт MetroCard и полностью переходит на платные тарифы и бесконтактную систему оплаты](https://habr.com/ru/news/981518/?utm_campaign=981518&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Погода» начала тесты чата, в котором ИИ советует пользователям, как нужно одеться по погоде](https://habr.com/ru/news/981466/?utm_campaign=981466&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI наймёт нового руководителя отдела «обеспечения готовности ИИ»](https://habr.com/ru/news/981492/?utm_campaign=981492&utm_source=habrahabr&utm_medium=rss)
 - [172 млн пользователей и 50 трлн токенов: Doubao стал крупнейшим ИИ-приложением Китая](https://habr.com/ru/news/981470/?utm_campaign=981470&utm_source=habrahabr&utm_medium=rss)
-- [Создатель JavaScript раскритиковал веб-приложения вместо нативных в Windows 11](https://habr.com/ru/news/981460/?utm_campaign=981460&utm_source=habrahabr&utm_medium=rss)
-- [«Обзор ИИ» от Google ошибочно обвинил музыканта в преступлении](https://habr.com/ru/news/981452/?utm_campaign=981452&utm_source=habrahabr&utm_medium=rss)
-- [Трафик Cloudflare в России за полгода упал на 30%](https://habr.com/ru/news/981454/?utm_campaign=981454&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры раздали игрокам Rainbow Six Siege миллиарды R6 Credits на рабочих игровых серверах](https://habr.com/ru/news/981446/?utm_campaign=981446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
