@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Президент РФ подписал законы об электронных зачётке, студенческом билете и подтвеждении возраста через Max](https://habr.com/ru/news/981690/?utm_campaign=981690&utm_source=habrahabr&utm_medium=rss)
+- [GLM 4.7 — первая открытая модель, ставшая прибыльной в симуляции бизнеса](https://habr.com/ru/news/981684/?utm_campaign=981684&utm_source=habrahabr&utm_medium=rss)
 - [Таганский суд отказал в иске против РКН и Минцифры за блокировку звонков в Telegram и WhatsApp](https://habr.com/ru/news/981646/?utm_campaign=981646&utm_source=habrahabr&utm_medium=rss)
 - [AI-итоги года: 25 событий 2025-го в 10 главных трендах](https://habr.com/ru/companies/tochka/news/981552/?utm_campaign=981552&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome остаётся бесплатным, но его будущий ИИ-агент может стоить денег](https://habr.com/ru/companies/bothub/news/981612/?utm_campaign=981612&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали шутер Rainbow Six Siege](https://habr.com/ru/companies/femida_search/news/981594/?utm_campaign=981594&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запустит бесплатный курс по JavaScript для новичков](https://habr.com/ru/companies/selectel/news/981564/?utm_campaign=981564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
