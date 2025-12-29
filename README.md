@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России могут ограничить количество виртуальных сим-карт до 10 на одного человека](https://habr.com/ru/news/981404/?utm_campaign=981404&utm_source=habrahabr&utm_medium=rss)
 - [В Огайо хотят запретить ИИ быть сознательным. WSJ опубликовал критику](https://habr.com/ru/news/981384/?utm_campaign=981384&utm_source=habrahabr&utm_medium=rss)
 - [Банк РФ с 1 января 2026 года расширит с 6 до 12 список список признаков мошеннических операций](https://habr.com/ru/news/981334/?utm_campaign=981334&utm_source=habrahabr&utm_medium=rss)
 - [Создатели GPT-5-Codex-Max рассказали о будущем разработки ПО](https://habr.com/ru/news/981332/?utm_campaign=981332&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-индустрия Китая превысила 1 трлн юаней — рост более 40% за год](https://habr.com/ru/news/981278/?utm_campaign=981278&utm_source=habrahabr&utm_medium=rss)
-- [Блэкаут в Сан-Франциско парализовал роботакси Waymo — эксперты требуют новых правил](https://habr.com/ru/news/981272/?utm_campaign=981272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
