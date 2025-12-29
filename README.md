@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Аналитики UBS: Nvidia признала слабое место своих GPU и заплатила $20 млрд за Groq](https://habr.com/ru/news/981756/?utm_campaign=981756&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-поисковики под прицелом: Япония изучает, как нейроответы лишают новостные сайты трафика](https://habr.com/ru/companies/bothub/news/981738/?utm_campaign=981738&utm_source=habrahabr&utm_medium=rss)
 - [Qwen3 обучили управлять смартфоном лучше Gemini и ByteDance](https://habr.com/ru/news/981732/?utm_campaign=981732&utm_source=habrahabr&utm_medium=rss)
 - [Производители электроники предлагают ввести кешбэк на российскую продукцию](https://habr.com/ru/news/981720/?utm_campaign=981720&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/981718/?utm_campaign=981718&utm_source=habrahabr&utm_medium=rss)
-- [Президент РФ подписал законы об электронных зачётке, студенческом билете и подтвеждении возраста через Max](https://habr.com/ru/news/981690/?utm_campaign=981690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
