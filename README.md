@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакатон Дайджест №30 на январь — февраль](https://habr.com/ru/news/981396/?utm_campaign=981396&utm_source=habrahabr&utm_medium=rss)
 - [«Стрессовая работа»: Сэм Альтман ищет того, кто скажет GPT «стоп»](https://habr.com/ru/news/981394/?utm_campaign=981394&utm_source=habrahabr&utm_medium=rss)
 - [«МЦСТ» выпустила эмулятор qemu‑e2k &lpar;на базе QEMU 10.10.1&rpar; для архитектуры «Эльбрус» &lpar;e2k&rpar;](https://habr.com/ru/news/981424/?utm_campaign=981424&utm_source=habrahabr&utm_medium=rss)
 - [В России могут ограничить количество виртуальных сим-карт до 10 на одного человека](https://habr.com/ru/news/981404/?utm_campaign=981404&utm_source=habrahabr&utm_medium=rss)
 - [В Огайо хотят запретить ИИ быть сознательным. WSJ опубликовал критику](https://habr.com/ru/news/981384/?utm_campaign=981384&utm_source=habrahabr&utm_medium=rss)
-- [Банк РФ с 1 января 2026 года расширит с 6 до 12 список список признаков мошеннических операций](https://habr.com/ru/news/981334/?utm_campaign=981334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
