@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла российская ОС Simply Linux 11.1](https://habr.com/ru/news/981902/?utm_campaign=981902&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть для 3D-аниматоров: Tencent открывает код HY-Motion 1.0 для оживления персонажей через промпт](https://habr.com/ru/companies/bothub/news/981888/?utm_campaign=981888&utm_source=habrahabr&utm_medium=rss)
 - [Мы построили AI-агента на Python без if/else](https://habr.com/ru/news/981864/?utm_campaign=981864&utm_source=habrahabr&utm_medium=rss)
 - [Спустя 4 года после выпуска SuperTux 0.6.3 вышла бета-версия SuperTux 0.7 с масштабными изменениями в игровом мире](https://habr.com/ru/news/981828/?utm_campaign=981828&utm_source=habrahabr&utm_medium=rss)
 - [Поздравление с новым 2026 годом и важные пожелания](https://habr.com/ru/companies/lansoft_career/news/981528/?utm_campaign=981528&utm_source=habrahabr&utm_medium=rss)
-- [Meta* купила китайский ИИ-стартап Manus за $2 млрд — и сразу отрезала его от Китая](https://habr.com/ru/news/981804/?utm_campaign=981804&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст представил «разговорный ИИ» весом 40 КБ](https://habr.com/ru/news/981780/?utm_campaign=981780&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
