@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Крестный отец ИИ» предрек массовые увольнения в 2026-м. Директора компаний не согласны](https://habr.com/ru/news/981990/?utm_campaign=981990&utm_source=habrahabr&utm_medium=rss)
+- [В РКЦ представили квантовый компьютер на кусептах](https://habr.com/ru/news/981982/?utm_campaign=981982&utm_source=habrahabr&utm_medium=rss)
+- [МБД Tantor XData 2B на российском процессоре Baikal-S включена в реестр ПАКов Минцифры](https://habr.com/ru/companies/tantor/news/981978/?utm_campaign=981978&utm_source=habrahabr&utm_medium=rss)
 - [«Нанософт» подводит итоги 2025 года](https://habr.com/ru/companies/nanosoft/news/981940/?utm_campaign=981940&utm_source=habrahabr&utm_medium=rss)
 - [На ИИ-буме больше всех заработали поставщики электричества и памяти](https://habr.com/ru/news/981916/?utm_campaign=981916&utm_source=habrahabr&utm_medium=rss)
-- [Продуктовая линейка Innostage: развития решений через интеграции и обновления](https://habr.com/ru/news/981912/?utm_campaign=981912&utm_source=habrahabr&utm_medium=rss)
-- [Вышла ОС Simply Linux 11.1](https://habr.com/ru/news/981902/?utm_campaign=981902&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть для 3D-аниматоров: Tencent открывает код HY-Motion 1.0 для оживления персонажей через промпт](https://habr.com/ru/companies/bothub/news/981888/?utm_campaign=981888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
