@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Technored и и «Группа Астра» создали прототип системы управления промышленными роботами на Astra Linux](https://habr.com/ru/news/981998/?utm_campaign=981998&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Пэй» признали просчёт нагрузки на приложение во время пятиминутной акции со 100% кэшбеком](https://habr.com/ru/news/981966/?utm_campaign=981966&utm_source=habrahabr&utm_medium=rss)
 - [«Крестный отец ИИ» предрек массовые увольнения в 2026-м. Директора компаний не согласны](https://habr.com/ru/news/981990/?utm_campaign=981990&utm_source=habrahabr&utm_medium=rss)
 - [В РКЦ представили квантовый компьютер на кусептах](https://habr.com/ru/news/981982/?utm_campaign=981982&utm_source=habrahabr&utm_medium=rss)
 - [МБД Tantor XData 2B на российском процессоре Baikal-S включена в реестр ПАКов Минцифры](https://habr.com/ru/companies/tantor/news/981978/?utm_campaign=981978&utm_source=habrahabr&utm_medium=rss)
-- [«Нанософт» подводит итоги 2025 года](https://habr.com/ru/companies/nanosoft/news/981940/?utm_campaign=981940&utm_source=habrahabr&utm_medium=rss)
-- [На ИИ-буме больше всех заработали поставщики электричества и памяти](https://habr.com/ru/news/981916/?utm_campaign=981916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
