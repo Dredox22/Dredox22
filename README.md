@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Теории человеческого сознания проверили на ИИ-агентах — результаты удивили](https://habr.com/ru/news/982048/?utm_campaign=982048&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс 360» перезапустил «Телемост»](https://habr.com/ru/news/982020/?utm_campaign=982020&utm_source=habrahabr&utm_medium=rss)
 - [В Max зарегистрировались 80 млн пользователей](https://habr.com/ru/news/982018/?utm_campaign=982018&utm_source=habrahabr&utm_medium=rss)
 - [Technored и и «Группа Астра» создали прототип системы управления промышленными роботами на Astra Linux](https://habr.com/ru/news/981998/?utm_campaign=981998&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Пэй» признали просчёт нагрузки на приложение во время пятиминутной акции со 100% кэшбеком](https://habr.com/ru/news/981966/?utm_campaign=981966&utm_source=habrahabr&utm_medium=rss)
-- [«Крестный отец ИИ» предрек массовые увольнения в 2026-м. Директора компаний не согласны](https://habr.com/ru/news/981990/?utm_campaign=981990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
