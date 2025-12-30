@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Нанософт» подводит итоги 2025 года](https://habr.com/ru/companies/nanosoft/news/981940/?utm_campaign=981940&utm_source=habrahabr&utm_medium=rss)
 - [На ИИ-буме больше всех заработали поставщики электричества и памяти](https://habr.com/ru/news/981916/?utm_campaign=981916&utm_source=habrahabr&utm_medium=rss)
 - [Продуктовая линейка Innostage: развития решений через интеграции и обновления](https://habr.com/ru/news/981912/?utm_campaign=981912&utm_source=habrahabr&utm_medium=rss)
-- [Вышла российская ОС Simply Linux 11.1](https://habr.com/ru/news/981902/?utm_campaign=981902&utm_source=habrahabr&utm_medium=rss)
+- [Вышла ОС Simply Linux 11.1](https://habr.com/ru/news/981902/?utm_campaign=981902&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть для 3D-аниматоров: Tencent открывает код HY-Motion 1.0 для оживления персонажей через промпт](https://habr.com/ru/companies/bothub/news/981888/?utm_campaign=981888&utm_source=habrahabr&utm_medium=rss)
-- [Мы построили AI-агента на Python без if/else](https://habr.com/ru/news/981864/?utm_campaign=981864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
