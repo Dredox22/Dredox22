@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* купила китайский ИИ-стартап Manus за $2 млрд — и сразу отрезала его от Китая](https://habr.com/ru/news/981804/?utm_campaign=981804&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст представил «разговорный ИИ» весом 40 КБ](https://habr.com/ru/news/981780/?utm_campaign=981780&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PicView 4.0 и 4.1 — открытого просмотрщика изображений для ПК на Windows 10/11 и macOS](https://habr.com/ru/news/981716/?utm_campaign=981716&utm_source=habrahabr&utm_medium=rss)
 - [Аналитики UBS: Nvidia признала слабое место своих GPU и заплатила $20 млрд за Groq](https://habr.com/ru/news/981756/?utm_campaign=981756&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-поисковики под прицелом: Япония изучает, как нейроответы лишают новостные сайты трафика](https://habr.com/ru/companies/bothub/news/981738/?utm_campaign=981738&utm_source=habrahabr&utm_medium=rss)
-- [Qwen3 обучили управлять смартфоном лучше Gemini и ByteDance](https://habr.com/ru/news/981732/?utm_campaign=981732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
