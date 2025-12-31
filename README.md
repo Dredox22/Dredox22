@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Авторы прогноза AI-2027 перенесли полную автоматизацию кодинга с 2027 на 2031 год](https://habr.com/ru/news/982126/?utm_campaign=982126&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.2 Pro назвали лучшим ИИ для сложной математики](https://habr.com/ru/news/982116/?utm_campaign=982116&utm_source=habrahabr&utm_medium=rss)
 - [F-Droid объявил об обновлении сервиса](https://habr.com/ru/news/982088/?utm_campaign=982088&utm_source=habrahabr&utm_medium=rss)
 - [В США двое экс-сотрудников службы кибербезопасности признали вину в атаках с использованием программ-вымогателей](https://habr.com/ru/news/982080/?utm_campaign=982080&utm_source=habrahabr&utm_medium=rss)
 - [Discord начал банить пользователей за сообщения восьмилетней давности из-за новой политики безопасности детей](https://habr.com/ru/news/982074/?utm_campaign=982074&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления планетария с открытым кодом Stellarium 25.4](https://habr.com/ru/news/981884/?utm_campaign=981884&utm_source=habrahabr&utm_medium=rss)
-- [Теории человеческого сознания проверили на ИИ-агентах — результаты удивили](https://habr.com/ru/news/982048/?utm_campaign=982048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
