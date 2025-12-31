@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [США одобрили поставки оборудования для Samsung и SK Hynix на 2026 год](https://habr.com/ru/companies/bothub/news/982154/?utm_campaign=982154&utm_source=habrahabr&utm_medium=rss)
 - [FAL AI выпустили FLUX.2 Dev Turbo](https://habr.com/ru/companies/bothub/news/982158/?utm_campaign=982158&utm_source=habrahabr&utm_medium=rss)
 - [Qwen-Image обновилась к Новому году и заметно прибавила в качестве](https://habr.com/ru/companies/bothub/news/982142/?utm_campaign=982142&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: банки РФ начали блокировать снятие крупных сумм с банкоматов и просить уточнить перевод](https://habr.com/ru/news/982128/?utm_campaign=982128&utm_source=habrahabr&utm_medium=rss)
 - [Авторы прогноза AI-2027 перенесли полную автоматизацию кодинга с 2027 на 2031 год](https://habr.com/ru/news/982126/?utm_campaign=982126&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.2 Pro назвали лучшим ИИ для сложной математики](https://habr.com/ru/news/982116/?utm_campaign=982116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
