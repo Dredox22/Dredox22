@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ приходит на рабочие места: эксперты предсказывают автоматизацию задач в 2026](https://habr.com/ru/companies/bothub/news/982212/?utm_campaign=982212&utm_source=habrahabr&utm_medium=rss)
 - [YouTube все активнее рекомендует ИИ-слоп новым пользователям](https://habr.com/ru/companies/bothub/news/982208/?utm_campaign=982208&utm_source=habrahabr&utm_medium=rss)
 - [Tencent представила диффузионную языковую модель WeDLM 8B Instruct](https://habr.com/ru/companies/bothub/news/982202/?utm_campaign=982202&utm_source=habrahabr&utm_medium=rss)
 - [Цукерберг купил Manus за сумму свыше 2 млрд долларов](https://habr.com/ru/companies/bothub/news/982146/?utm_campaign=982146&utm_source=habrahabr&utm_medium=rss)
 - [США одобрили поставки оборудования для Samsung и SK Hynix на 2026 год](https://habr.com/ru/companies/bothub/news/982154/?utm_campaign=982154&utm_source=habrahabr&utm_medium=rss)
-- [FAL AI выпустили FLUX.2 Dev Turbo](https://habr.com/ru/companies/bothub/news/982158/?utm_campaign=982158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
