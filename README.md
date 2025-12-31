@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen-Image обновилась к Новому году и заметно прибавила в качестве](https://habr.com/ru/companies/bothub/news/982142/?utm_campaign=982142&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: банки РФ начали блокировать снятие крупных сумм с банкоматов и просить уточнить перевод](https://habr.com/ru/news/982128/?utm_campaign=982128&utm_source=habrahabr&utm_medium=rss)
 - [Авторы прогноза AI-2027 перенесли полную автоматизацию кодинга с 2027 на 2031 год](https://habr.com/ru/news/982126/?utm_campaign=982126&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 Pro назвали лучшим ИИ для сложной математики](https://habr.com/ru/news/982116/?utm_campaign=982116&utm_source=habrahabr&utm_medium=rss)
 - [F-Droid объявил об обновлении сервиса](https://habr.com/ru/news/982088/?utm_campaign=982088&utm_source=habrahabr&utm_medium=rss)
-- [В США двое экс-сотрудников службы кибербезопасности признали вину в атаках с использованием программ-вымогателей](https://habr.com/ru/news/982080/?utm_campaign=982080&utm_source=habrahabr&utm_medium=rss)
-- [Discord начал банить пользователей за сообщения восьмилетней давности из-за новой политики безопасности детей](https://habr.com/ru/news/982074/?utm_campaign=982074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
