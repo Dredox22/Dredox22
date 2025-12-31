@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [F-Droid объявил об обновлении сервиса](https://habr.com/ru/news/982088/?utm_campaign=982088&utm_source=habrahabr&utm_medium=rss)
+- [В США двое экс-сотрудников службы кибербезопасности признали вину в атаках с использованием программ-вымогателей](https://habr.com/ru/news/982080/?utm_campaign=982080&utm_source=habrahabr&utm_medium=rss)
 - [Discord начал банить пользователей за сообщения восьмилетней давности из-за новой политики безопасности детей](https://habr.com/ru/news/982074/?utm_campaign=982074&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления планетария с открытым кодом Stellarium 25.4](https://habr.com/ru/news/981884/?utm_campaign=981884&utm_source=habrahabr&utm_medium=rss)
 - [Теории человеческого сознания проверили на ИИ-агентах — результаты удивили](https://habr.com/ru/news/982048/?utm_campaign=982048&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс 360» перезапустил «Телемост»](https://habr.com/ru/news/982020/?utm_campaign=982020&utm_source=habrahabr&utm_medium=rss)
-- [В Max зарегистрировались 80 млн пользователей](https://habr.com/ru/news/982018/?utm_campaign=982018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
