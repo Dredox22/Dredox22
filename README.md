@@ -88,8 +88,8 @@
 - [Блогер: веб-браузерам пора снова блокировать всплывающие окна](https://habr.com/ru/news/982250/?utm_campaign=982250&utm_source=habrahabr&utm_medium=rss)
 - [На инаугурацию мэра Нью-Йорка запретили проносить устройства Flipper Zero и Raspberry Pi](https://habr.com/ru/news/982224/?utm_campaign=982224&utm_source=habrahabr&utm_medium=rss)
 - [В Net-SNMP выявлена критическая уязвимость CVE-2025-68615 с удалённым выполнением кода на сервере, где запущен snmptrapd](https://habr.com/ru/news/982148/?utm_campaign=982148&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 25.12](https://habr.com/ru/news/982162/?utm_campaign=982162&utm_source=habrahabr&utm_medium=rss)
 - [ИИ приходит на рабочие места: эксперты предсказывают автоматизацию задач в 2026](https://habr.com/ru/companies/bothub/news/982212/?utm_campaign=982212&utm_source=habrahabr&utm_medium=rss)
-- [YouTube все активнее рекомендует ИИ-слоп новым пользователям](https://habr.com/ru/companies/bothub/news/982208/?utm_campaign=982208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
