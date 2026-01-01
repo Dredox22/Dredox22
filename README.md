@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [900 тыс. GPU, 2 гигаватта и троллинг Microsoft. Илон Маск строит третий дата-центр](https://habr.com/ru/news/982318/?utm_campaign=982318&utm_source=habrahabr&utm_medium=rss)
 - [Банк России сделал платежи в бюджет в цифровых рублях без комиссии для всех тестовых клиентов этой опции в 2026 году](https://habr.com/ru/news/982282/?utm_campaign=982282&utm_source=habrahabr&utm_medium=rss)
 - [Китай запустил национальный ИИ для ускорения науки. США отстают на 8 месяцев](https://habr.com/ru/news/982270/?utm_campaign=982270&utm_source=habrahabr&utm_medium=rss)
 - [RTX 5090 может подорожать до $5000: по слухам, NVIDIA и AMD начнут поднимать цены с января](https://habr.com/ru/news/982266/?utm_campaign=982266&utm_source=habrahabr&utm_medium=rss)
 - [Блогер: веб-браузерам пора снова блокировать всплывающие окна](https://habr.com/ru/news/982250/?utm_campaign=982250&utm_source=habrahabr&utm_medium=rss)
-- [На инаугурацию мэра Нью-Йорка запретили проносить устройства Flipper Zero и Raspberry Pi](https://habr.com/ru/news/982224/?utm_campaign=982224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
