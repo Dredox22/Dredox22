@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Swift Stream IDE v1.17.0](https://habr.com/ru/news/982470/?utm_campaign=982470&utm_source=habrahabr&utm_medium=rss)
+- [Новый Science Context Protocol позволит ИИ-агентам сотрудничать между лабораториями и институтами по всему миру](https://habr.com/ru/companies/bothub/news/982468/?utm_campaign=982468&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia усиливает AI-империю через крупные инвестиции в стартапы](https://habr.com/ru/companies/bothub/news/982462/?utm_campaign=982462&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek предложила способ обучать ИИ без роста нагрузки на память](https://habr.com/ru/news/982458/?utm_campaign=982458&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг языков программирования TIOBE за декабрь 2025: С вышел на 2 место, Perl и R вернулись в 10-ку](https://habr.com/ru/news/982444/?utm_campaign=982444&utm_source=habrahabr&utm_medium=rss)
-- [Тестовый релиз драйверов Nvidia для ОС Haiku](https://habr.com/ru/news/982218/?utm_campaign=982218&utm_source=habrahabr&utm_medium=rss)
-- [Вышел проект OneScript 2.0.0 — это среда исполнения скриптов на языке технологической платформы «1С: Предприятия 8»](https://habr.com/ru/news/982400/?utm_campaign=982400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
