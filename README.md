@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел проект OneScript 2.0.0 — это среда исполнения скриптов на языке технологической платформы «1С: Предприятия 8»](https://habr.com/ru/news/982400/?utm_campaign=982400&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты Стэнфорда: AGI в 2026-м не будет, а ИИ-пузырь не лопнет — он медленно сдуется](https://habr.com/ru/news/982422/?utm_campaign=982422&utm_source=habrahabr&utm_medium=rss)
 - [Инвесторы вновь выбирают технологии и криптоактивы на фоне уверенности в ИИ](https://habr.com/ru/companies/bothub/news/982408/?utm_campaign=982408&utm_source=habrahabr&utm_medium=rss)
 - [Уолл-стрит завершила 2025 год снижением после годов роста](https://habr.com/ru/companies/bothub/news/982380/?utm_campaign=982380&utm_source=habrahabr&utm_medium=rss)
 - [Первым ИИ-устройством OpenAI может оказаться… умная ручка](https://habr.com/ru/news/982390/?utm_campaign=982390&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления пакета маршрутизации OpenBGPD 9.0](https://habr.com/ru/news/982386/?utm_campaign=982386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
