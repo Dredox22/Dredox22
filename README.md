@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первым ИИ-устройством OpenAI может оказаться… умная ручка](https://habr.com/ru/news/982390/?utm_campaign=982390&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления пакета маршрутизации OpenBGPD 9.0](https://habr.com/ru/news/982386/?utm_campaign=982386&utm_source=habrahabr&utm_medium=rss)
+- [[RU] Состоялся релиз инструмента v1.4.3 поиска по нику — Snoop Project](https://habr.com/ru/news/982384/?utm_campaign=982384&utm_source=habrahabr&utm_medium=rss)
 - [Новое исследование: LLM используются для обучения и оценки автономных агентов](https://habr.com/ru/companies/bothub/news/982374/?utm_campaign=982374&utm_source=habrahabr&utm_medium=rss)
 - [Банки Европы сокращают сотрудников, переходя на ИИ-автоматизацию](https://habr.com/ru/companies/bothub/news/982370/?utm_campaign=982370&utm_source=habrahabr&utm_medium=rss)
-- [Будущее без экранов: OpenAI готовит первое аудио-устройство](https://habr.com/ru/companies/bothub/news/982360/?utm_campaign=982360&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект оконного менеджера IceWM 4.0.0](https://habr.com/ru/news/982358/?utm_campaign=982358&utm_source=habrahabr&utm_medium=rss)
-- [900 тыс. GPU, 2 гигаватта и троллинг Microsoft. Илон Маск строит третий дата-центр](https://habr.com/ru/news/982318/?utm_campaign=982318&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
