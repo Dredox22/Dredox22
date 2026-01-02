@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инвесторы вновь выбирают технологии и криптоактивы на фоне уверенности в ИИ](https://habr.com/ru/companies/bothub/news/982408/?utm_campaign=982408&utm_source=habrahabr&utm_medium=rss)
 - [Уолл-стрит завершила 2025 год снижением после годов роста](https://habr.com/ru/companies/bothub/news/982380/?utm_campaign=982380&utm_source=habrahabr&utm_medium=rss)
 - [Первым ИИ-устройством OpenAI может оказаться… умная ручка](https://habr.com/ru/news/982390/?utm_campaign=982390&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления пакета маршрутизации OpenBGPD 9.0](https://habr.com/ru/news/982386/?utm_campaign=982386&utm_source=habrahabr&utm_medium=rss)
 - [[RU] Состоялся релиз инструмента v1.4.3 поиска по нику — Snoop Project](https://habr.com/ru/news/982384/?utm_campaign=982384&utm_source=habrahabr&utm_medium=rss)
-- [Новое исследование: LLM используются для обучения и оценки автономных агентов](https://habr.com/ru/companies/bothub/news/982374/?utm_campaign=982374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
