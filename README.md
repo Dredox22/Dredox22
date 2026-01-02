@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia усиливает AI-империю через крупные инвестиции в стартапы](https://habr.com/ru/companies/bothub/news/982462/?utm_campaign=982462&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek предложила способ обучать ИИ без роста нагрузки на память](https://habr.com/ru/news/982458/?utm_campaign=982458&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг языков программирования TIOBE за декабрь 2025: С вышел на 2 место, Perl и R вернулись в 10-ку](https://habr.com/ru/news/982444/?utm_campaign=982444&utm_source=habrahabr&utm_medium=rss)
 - [Тестовый релиз драйверов Nvidia для ОС Haiku](https://habr.com/ru/news/982218/?utm_campaign=982218&utm_source=habrahabr&utm_medium=rss)
 - [Вышел проект OneScript 2.0.0 — это среда исполнения скриптов на языке технологической платформы «1С: Предприятия 8»](https://habr.com/ru/news/982400/?utm_campaign=982400&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты Стэнфорда: AGI в 2026-м не будет, а ИИ-пузырь не лопнет — он медленно сдуется](https://habr.com/ru/news/982422/?utm_campaign=982422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
