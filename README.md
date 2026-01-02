@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новое исследование: LLM используются для обучения и оценки автономных агентов](https://habr.com/ru/companies/bothub/news/982374/?utm_campaign=982374&utm_source=habrahabr&utm_medium=rss)
+- [Банки Европы сокращают сотрудников, переходя на ИИ-автоматизацию](https://habr.com/ru/companies/bothub/news/982370/?utm_campaign=982370&utm_source=habrahabr&utm_medium=rss)
 - [Будущее без экранов: OpenAI готовит первое аудио-устройство](https://habr.com/ru/companies/bothub/news/982360/?utm_campaign=982360&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект оконного менеджера IceWM 4.0.0](https://habr.com/ru/news/982358/?utm_campaign=982358&utm_source=habrahabr&utm_medium=rss)
 - [900 тыс. GPU, 2 гигаватта и троллинг Microsoft. Илон Маск строит третий дата-центр](https://habr.com/ru/news/982318/?utm_campaign=982318&utm_source=habrahabr&utm_medium=rss)
-- [Банк России сделал платежи в бюджет в цифровых рублях без комиссии для всех тестовых клиентов этой опции в 2026 году](https://habr.com/ru/news/982282/?utm_campaign=982282&utm_source=habrahabr&utm_medium=rss)
-- [Китай запустил национальный ИИ для ускорения науки. США отстают на 8 месяцев](https://habr.com/ru/news/982270/?utm_campaign=982270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
