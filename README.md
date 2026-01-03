@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В США досрочно освободили из тюрьмы Илью Лихтенштейна, сидевшего за отмывание денег и хищение $3,6 млрд с биржи Bitfinex](https://habr.com/ru/news/982510/?utm_campaign=982510&utm_source=habrahabr&utm_medium=rss)
+- [Roblox начал перманентно блокировать аккаунты пользователей за обход блокировок и доступ к платформе не по правилам](https://habr.com/ru/news/982506/?utm_campaign=982506&utm_source=habrahabr&utm_medium=rss)
 - [Пока OpenAI готовит IPO на $1 трлн, китайские конкуренты уже торгуются на бирже](https://habr.com/ru/news/982488/?utm_campaign=982488&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Swift Stream IDE v1.17.0](https://habr.com/ru/news/982470/?utm_campaign=982470&utm_source=habrahabr&utm_medium=rss)
 - [Новый Science Context Protocol позволит ИИ-агентам сотрудничать между лабораториями и институтами по всему миру](https://habr.com/ru/companies/bothub/news/982468/?utm_campaign=982468&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia усиливает AI-империю через крупные инвестиции в стартапы](https://habr.com/ru/companies/bothub/news/982462/?utm_campaign=982462&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek предложила способ обучать ИИ без роста нагрузки на память](https://habr.com/ru/news/982458/?utm_campaign=982458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
