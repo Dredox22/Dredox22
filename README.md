@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok 4 лидирует в бенчмарке по торговле акциями: +5,7% за пять недель](https://habr.com/ru/news/982654/?utm_campaign=982654&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic развернет почти миллион ИИ-ускорителей TPU на собственных площадках](https://habr.com/ru/news/982648/?utm_campaign=982648&utm_source=habrahabr&utm_medium=rss)
 - [В коммьюнити GitHub попросили ИИ Grok удалить худшего программиста с фото Торвальдса и Гейтса](https://habr.com/ru/news/982622/?utm_campaign=982622&utm_source=habrahabr&utm_medium=rss)
 - [Началось открытое тестирование Grok 4.20. Модель заметно выросла в веб-дизайне](https://habr.com/ru/news/982590/?utm_campaign=982590&utm_source=habrahabr&utm_medium=rss)
 - [Ученые из Китая: ИИ будет проектировать РНК-лекарства с нуля за месяцы вместо лет](https://habr.com/ru/news/982568/?utm_campaign=982568&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты протестировали производительность Lenovo ThinkPad X220 в Windows XP, Vista, 7, 8.1, 10 и 11](https://habr.com/ru/news/982546/?utm_campaign=982546&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft втихаря прекратила официальный способ активации Windows 11/10 офлайн](https://habr.com/ru/news/982550/?utm_campaign=982550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
