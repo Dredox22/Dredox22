@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Началось открытое тестирование Grok 4.20. Модель заметно выросла в веб-дизайне](https://habr.com/ru/news/982590/?utm_campaign=982590&utm_source=habrahabr&utm_medium=rss)
 - [Ученые из Китая: ИИ будет проектировать РНК-лекарства с нуля за месяцы вместо лет](https://habr.com/ru/news/982568/?utm_campaign=982568&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты протестировали производительность Lenovo ThinkPad X220 в Windows XP, Vista, 7, 8.1, 10 и 11](https://habr.com/ru/news/982546/?utm_campaign=982546&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft втихаря прекратила официальный способ активации Windows 11/10 офлайн](https://habr.com/ru/news/982550/?utm_campaign=982550&utm_source=habrahabr&utm_medium=rss)
 - [IQuest-Coder: Новая open-source модель для кодинга](https://habr.com/ru/companies/bothub/news/982538/?utm_campaign=982538&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: банки РФ при оплате крупных заказов на маркетплейсах начали блокировать операции «во избежание мошенничества»](https://habr.com/ru/news/982540/?utm_campaign=982540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
