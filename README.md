@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженер Anthropic рассказал, как выжать максимум из Claude Code](https://habr.com/ru/news/982744/?utm_campaign=982744&utm_source=habrahabr&utm_medium=rss)
+- [Хорошие новости для геймеров: KDE Plasma больше не будет переходить в спящий режим, пока используется игровой контроллер](https://habr.com/ru/news/982742/?utm_campaign=982742&utm_source=habrahabr&utm_medium=rss)
 - [Терренс Тао: ИИ превращает математику в подобие open source-разработки](https://habr.com/ru/news/982708/?utm_campaign=982708&utm_source=habrahabr&utm_medium=rss)
 - [Telegram запустил ИИ-функции на собственной сети Cocoon с шифрованием данных](https://habr.com/ru/news/982696/?utm_campaign=982696&utm_source=habrahabr&utm_medium=rss)
 - [Clicks представила QWERTY-смартфон Clicks Communicator](https://habr.com/ru/news/982678/?utm_campaign=982678&utm_source=habrahabr&utm_medium=rss)
-- [Произошла утечка кодов BootROM для PlayStation 5](https://habr.com/ru/news/982676/?utm_campaign=982676&utm_source=habrahabr&utm_medium=rss)
-- [Представлена игра Foldy Bird &lpar;клон Flappy Bird&rpar; для складных смартфонов](https://habr.com/ru/news/982684/?utm_campaign=982684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
