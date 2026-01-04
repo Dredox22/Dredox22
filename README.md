@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Clicks представила QWERTY-смартфон Clicks Communicator](https://habr.com/ru/news/982678/?utm_campaign=982678&utm_source=habrahabr&utm_medium=rss)
+- [Произошла утечка кодов BootROM для PlayStation 5](https://habr.com/ru/news/982676/?utm_campaign=982676&utm_source=habrahabr&utm_medium=rss)
 - [Представлена игра Foldy Bird &lpar;клон Flappy Bird&rpar; для складных смартфонов](https://habr.com/ru/news/982684/?utm_campaign=982684&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск операционной системы MenuetOS 1.57, которая написана на ассемблере и умещается на дискету](https://habr.com/ru/news/982536/?utm_campaign=982536&utm_source=habrahabr&utm_medium=rss)
 - [Grok 4 лидирует в бенчмарке по торговле акциями: +5,7% за пять недель](https://habr.com/ru/news/982654/?utm_campaign=982654&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic развернет почти миллион ИИ-ускорителей TPU на собственных площадках](https://habr.com/ru/news/982648/?utm_campaign=982648&utm_source=habrahabr&utm_medium=rss)
-- [В коммьюнити GitHub попросили ИИ Grok удалить худшего программиста с фото Торвальдса и Гейтса](https://habr.com/ru/news/982622/?utm_campaign=982622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
