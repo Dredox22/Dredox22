@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз симулятора транспортной компании OpenTTD 15.0](https://habr.com/ru/news/982836/?utm_campaign=982836&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволит видеть меньше рекламы в Windows 11](https://habr.com/ru/news/982806/?utm_campaign=982806&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Telegram: краткие пересказы от ИИ и дизайн «жидкое стекло»](https://habr.com/ru/news/982794/?utm_campaign=982794&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX снизит орбиту спутников Starlink, чтобы уменьшить риск столкновений](https://habr.com/ru/news/982770/?utm_campaign=982770&utm_source=habrahabr&utm_medium=rss)
 - [Инженер Anthropic рассказал, как выжать максимум из Claude Code](https://habr.com/ru/news/982744/?utm_campaign=982744&utm_source=habrahabr&utm_medium=rss)
-- [Хорошие новости для геймеров: KDE Plasma больше не будет переходить в спящий режим, пока используется игровой контроллер](https://habr.com/ru/news/982742/?utm_campaign=982742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
