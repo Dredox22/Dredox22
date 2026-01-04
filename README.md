@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ для полицейских отчетов превратил офицера в лягушку — виноват Disney](https://habr.com/ru/news/982872/?utm_campaign=982872&utm_source=habrahabr&utm_medium=rss)
 - [Новых вопросов от пользователей на платформе Stack Overflow в конце 2025 года стало совсем мало из-за ИИ](https://habr.com/ru/news/982846/?utm_campaign=982846&utm_source=habrahabr&utm_medium=rss)
 - [Stack Overflow потерял 95% вопросов с пика — ChatGPT стал последним гвоздем в крышку гроба](https://habr.com/ru/news/982844/?utm_campaign=982844&utm_source=habrahabr&utm_medium=rss)
 - [Релиз симулятора транспортной компании OpenTTD 15.0](https://habr.com/ru/news/982836/?utm_campaign=982836&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволит видеть меньше рекламы в Windows 11](https://habr.com/ru/news/982806/?utm_campaign=982806&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Telegram: краткие пересказы от ИИ и дизайн «жидкое стекло»](https://habr.com/ru/news/982794/?utm_campaign=982794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
