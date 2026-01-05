@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Китае ИИ-инструмент PANDA обнаруживает рак поджелудочной до появления симптомов](https://habr.com/ru/news/982996/?utm_campaign=982996&utm_source=habrahabr&utm_medium=rss)
 - [The Guardian пишет о главной проблеме ИИ — компании рискуют никогда не выйти на прибыль](https://habr.com/ru/news/982952/?utm_campaign=982952&utm_source=habrahabr&utm_medium=rss)
 - [DoorDash заблокировал имитирующего доставку с помощью ИИ водителя](https://habr.com/ru/news/982914/?utm_campaign=982914&utm_source=habrahabr&utm_medium=rss)
 - [【Подборка лучшего】Наиболее важные события 2025 года, связанные с открытыми проектами](https://habr.com/ru/news/982908/?utm_campaign=982908&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Manjaro Linux 26.0 «Anh-Linh»](https://habr.com/ru/news/982904/?utm_campaign=982904&utm_source=habrahabr&utm_medium=rss)
-- [В коде открытого проекта RustFS обнаружен предопределённый токен доступа](https://habr.com/ru/news/982688/?utm_campaign=982688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
