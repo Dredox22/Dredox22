@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель ИИ-перевода Hunyuan HY-MT1.5-1.8B возглавила рейтинг на Hugging Face](https://habr.com/ru/companies/bothub/news/983076/?utm_campaign=983076&utm_source=habrahabr&utm_medium=rss)
 - [«Грок, покажи ее в бикини»: xAI под следствием в трех странах из-за откровенных дипфейков](https://habr.com/ru/news/983052/?utm_campaign=983052&utm_source=habrahabr&utm_medium=rss)
 - [За фасадом технологий: исследователи прочёсывают Америку в поисках скрытых дата-центров](https://habr.com/ru/companies/bothub/news/983050/?utm_campaign=983050&utm_source=habrahabr&utm_medium=rss)
 - [В Китае ИИ-инструмент PANDA обнаруживает рак поджелудочной до появления симптомов](https://habr.com/ru/news/982996/?utm_campaign=982996&utm_source=habrahabr&utm_medium=rss)
 - [The Guardian пишет о главной проблеме ИИ — компании рискуют никогда не выйти на прибыль](https://habr.com/ru/news/982952/?utm_campaign=982952&utm_source=habrahabr&utm_medium=rss)
-- [DoorDash заблокировал имитирующего доставку с помощью ИИ водителя](https://habr.com/ru/news/982914/?utm_campaign=982914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
