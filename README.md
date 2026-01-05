@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [【Подборка лучшего】Наиболее важные события 2025 года, связанные с открытыми проектами](https://habr.com/ru/news/982908/?utm_campaign=982908&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Manjaro Linux 26.0 «Anh-Linh»](https://habr.com/ru/news/982904/?utm_campaign=982904&utm_source=habrahabr&utm_medium=rss)
 - [В коде открытого проекта RustFS обнаружен предопределённый токен доступа](https://habr.com/ru/news/982688/?utm_campaign=982688&utm_source=habrahabr&utm_medium=rss)
 - [ИИ для полицейских отчетов превратил офицера в лягушку — виноват Disney](https://habr.com/ru/news/982872/?utm_campaign=982872&utm_source=habrahabr&utm_medium=rss)
 - [Новых вопросов от пользователей на платформе Stack Overflow в конце 2025 года стало совсем мало из-за ИИ](https://habr.com/ru/news/982846/?utm_campaign=982846&utm_source=habrahabr&utm_medium=rss)
-- [Stack Overflow потерял 95% вопросов с пика — ChatGPT стал последним гвоздем в крышку гроба](https://habr.com/ru/news/982844/?utm_campaign=982844&utm_source=habrahabr&utm_medium=rss)
-- [Релиз симулятора транспортной компании OpenTTD 15.0](https://habr.com/ru/news/982836/?utm_campaign=982836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
