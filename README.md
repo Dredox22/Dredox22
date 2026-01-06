@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [$1,4 триллиона долга или как OpenAI планирует захватить мир в 2026 году: главные инсайды из интервью Сэма Альтмана](https://habr.com/ru/news/983206/?utm_campaign=983206&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA представила GPU Rubin: запуск ИИ в 10 раз дешевле, обучение — вчетверо экономнее](https://habr.com/ru/news/983190/?utm_campaign=983190&utm_source=habrahabr&utm_medium=rss)
 - [SanDisk отходит от SSD-накопителей WD Blue и Black в пользу Optimus](https://habr.com/ru/news/983144/?utm_campaign=983144&utm_source=habrahabr&utm_medium=rss)
 - [Amazon вернула к жизни сайт Alexa.com](https://habr.com/ru/news/983140/?utm_campaign=983140&utm_source=habrahabr&utm_medium=rss)
 - [ИИ впервые победил всех программистов-людей на соревновании AtCoder](https://habr.com/ru/news/983084/?utm_campaign=983084&utm_source=habrahabr&utm_medium=rss)
-- [Модель ИИ-перевода Hunyuan HY-MT1.5-1.8B возглавила рейтинг на Hugging Face](https://habr.com/ru/companies/bothub/news/983076/?utm_campaign=983076&utm_source=habrahabr&utm_medium=rss)
-- [«Грок, покажи ее в бикини»: xAI под следствием в трех странах из-за откровенных дипфейков](https://habr.com/ru/news/983052/?utm_campaign=983052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
