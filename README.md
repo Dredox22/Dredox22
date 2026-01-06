@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SanDisk отходит от SSD-накопителей WD Blue и Black в пользу Optimus](https://habr.com/ru/news/983144/?utm_campaign=983144&utm_source=habrahabr&utm_medium=rss)
 - [Amazon вернула к жизни сайт Alexa.com](https://habr.com/ru/news/983140/?utm_campaign=983140&utm_source=habrahabr&utm_medium=rss)
 - [ИИ впервые победил всех программистов-людей на соревновании AtCoder](https://habr.com/ru/news/983084/?utm_campaign=983084&utm_source=habrahabr&utm_medium=rss)
 - [Модель ИИ-перевода Hunyuan HY-MT1.5-1.8B возглавила рейтинг на Hugging Face](https://habr.com/ru/companies/bothub/news/983076/?utm_campaign=983076&utm_source=habrahabr&utm_medium=rss)
 - [«Грок, покажи ее в бикини»: xAI под следствием в трех странах из-за откровенных дипфейков](https://habr.com/ru/news/983052/?utm_campaign=983052&utm_source=habrahabr&utm_medium=rss)
-- [За фасадом технологий: исследователи прочёсывают Америку в поисках скрытых дата-центров](https://habr.com/ru/companies/bothub/news/983050/?utm_campaign=983050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
