@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3.0 Pro разгадал 500-летнюю тайну Нюрнбергской хроники всего за 2 рубля](https://habr.com/ru/news/983248/?utm_campaign=983248&utm_source=habrahabr&utm_medium=rss)
 - [Гонка за AGI остановилась? Нет, но, возможно, мы бежим не туда, считает Даниэла Амодей &lpar;Anthropic&rpar;](https://habr.com/ru/companies/bothub/news/983234/?utm_campaign=983234&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia сотрудничает с Mercedes и раскрыла планы по роботакси. Что ответил Илон Маск?](https://habr.com/ru/companies/bothub/news/983224/?utm_campaign=983224&utm_source=habrahabr&utm_medium=rss)
 - [Boston Dynamics представила коммерческого Atlas: первые роботы уедут на заводы Hyundai и в лаборатории DeepMind](https://habr.com/ru/news/983216/?utm_campaign=983216&utm_source=habrahabr&utm_medium=rss)
 - [$1,4 триллиона долга или как OpenAI планирует захватить мир в 2026 году: главные инсайды из интервью Сэма Альтмана](https://habr.com/ru/news/983206/?utm_campaign=983206&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA представила GPU Rubin: запуск ИИ в 10 раз дешевле, обучение — вчетверо экономнее](https://habr.com/ru/news/983190/?utm_campaign=983190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
