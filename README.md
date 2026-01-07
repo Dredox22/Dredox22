@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В ПО Samsung Magician для мониторинга SSD устранена уязвимость CVE-2025-57836, позволяющая повысить привилегия в Windows](https://habr.com/ru/news/983440/?utm_campaign=983440&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia и Siemens запустят первый ИИ-завод в 2026 году — ускорение процессов до 10 раз](https://habr.com/ru/news/983468/?utm_campaign=983468&utm_source=habrahabr&utm_medium=rss)
+- [Boston Dynamics и Google объединяют усилия, чтобы превратить Atlas в полноценного ИИ-агента](https://habr.com/ru/companies/bothub/news/983366/?utm_campaign=983366&utm_source=habrahabr&utm_medium=rss)
+- [В ПО Samsung Magician для мониторинга SSD устранена уязвимость CVE-2025-57836, позволяющая повысить привилегии в Windows](https://habr.com/ru/news/983440/?utm_campaign=983440&utm_source=habrahabr&utm_medium=rss)
 - [Из OpenAI уходит глава команды Reasoning Models и один из создателей GPT-4](https://habr.com/ru/companies/bothub/news/983370/?utm_campaign=983370&utm_source=habrahabr&utm_medium=rss)
 - [Андроид-мальварь заразил миллионы устройств через… прокси](https://habr.com/ru/companies/femida_search/news/983434/?utm_campaign=983434&utm_source=habrahabr&utm_medium=rss)
-- [C# стал языком 2025 года по версии TIOBE](https://habr.com/ru/companies/bothub/news/983400/?utm_campaign=983400&utm_source=habrahabr&utm_medium=rss)
-- [40 млн человек ежедневно спрашивают ChatGPT о здоровье. OpenAI хочет, чтобы FDA это узаконила](https://habr.com/ru/news/983404/?utm_campaign=983404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
