@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Universal Music подписала соглашение с Nvidia о сотрудничестве в области ИИ](https://habr.com/ru/news/983392/?utm_campaign=983392&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA показала Vera Rubin — платформу, которая должна радикально удешевить обучение ИИ](https://habr.com/ru/companies/bothub/news/983364/?utm_campaign=983364&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 и ИИ Aristotle решили 50-летнюю математическую задачу Эрдёша](https://habr.com/ru/news/983374/?utm_campaign=983374&utm_source=habrahabr&utm_medium=rss)
 - [xAI завершила раунд Series E на $20 млрд с участием стратегических инвесторов Nvidia и Cisco](https://habr.com/ru/companies/bothub/news/983358/?utm_campaign=983358&utm_source=habrahabr&utm_medium=rss)
 - [Google с 2026 года начнёт выпускать исходный код Android Open Source Project &lpar;AOSP&rpar; только два раза в год](https://habr.com/ru/news/983328/?utm_campaign=983328&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отменила ограничения на массовые рассылки в Exchange Online после негативных отзывов](https://habr.com/ru/news/983342/?utm_campaign=983342&utm_source=habrahabr&utm_medium=rss)
-- [Проекты GNOME и Firefox решили отключить по умолчанию вставку средней &lpar;колёсиком&rpar; кнопкой мыши](https://habr.com/ru/news/983236/?utm_campaign=983236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
