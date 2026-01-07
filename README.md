@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ПО Samsung Magician для мониторинга SSD устранена уязвимость CVE-2025-57836, позволяющая повысить привилегия в Windows](https://habr.com/ru/news/983440/?utm_campaign=983440&utm_source=habrahabr&utm_medium=rss)
 - [Из OpenAI уходит глава команды Reasoning Models и один из создателей GPT-4](https://habr.com/ru/companies/bothub/news/983370/?utm_campaign=983370&utm_source=habrahabr&utm_medium=rss)
 - [Андроид-мальварь заразил миллионы устройств через… прокси](https://habr.com/ru/companies/femida_search/news/983434/?utm_campaign=983434&utm_source=habrahabr&utm_medium=rss)
 - [C# стал языком 2025 года по версии TIOBE](https://habr.com/ru/companies/bothub/news/983400/?utm_campaign=983400&utm_source=habrahabr&utm_medium=rss)
 - [40 млн человек ежедневно спрашивают ChatGPT о здоровье. OpenAI хочет, чтобы FDA это узаконила](https://habr.com/ru/news/983404/?utm_campaign=983404&utm_source=habrahabr&utm_medium=rss)
-- [Amazon запустила веб-версию обновленного ассистента Alexa+](https://habr.com/ru/companies/bothub/news/983384/?utm_campaign=983384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
