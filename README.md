@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [40 млн человек ежедневно спрашивают ChatGPT о здоровье. OpenAI хочет, чтобы FDA это узаконила](https://habr.com/ru/news/983404/?utm_campaign=983404&utm_source=habrahabr&utm_medium=rss)
+- [Amazon запустила веб-версию обновленного ассистента Alexa+](https://habr.com/ru/companies/bothub/news/983384/?utm_campaign=983384&utm_source=habrahabr&utm_medium=rss)
 - [Universal Music подписала соглашение с Nvidia о сотрудничестве в области ИИ](https://habr.com/ru/news/983392/?utm_campaign=983392&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA показала Vera Rubin — платформу, которая должна радикально удешевить обучение ИИ](https://habr.com/ru/companies/bothub/news/983364/?utm_campaign=983364&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 и ИИ Aristotle решили 50-летнюю математическую задачу Эрдёша](https://habr.com/ru/news/983374/?utm_campaign=983374&utm_source=habrahabr&utm_medium=rss)
-- [xAI завершила раунд Series E на $20 млрд с участием стратегических инвесторов Nvidia и Cisco](https://habr.com/ru/companies/bothub/news/983358/?utm_campaign=983358&utm_source=habrahabr&utm_medium=rss)
-- [Google с 2026 года начнёт выпускать исходный код Android Open Source Project &lpar;AOSP&rpar; только два раза в год](https://habr.com/ru/news/983328/?utm_campaign=983328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
