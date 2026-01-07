@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [C# стал языком 2025 года по версии TIOBE](https://habr.com/ru/companies/bothub/news/983400/?utm_campaign=983400&utm_source=habrahabr&utm_medium=rss)
 - [40 млн человек ежедневно спрашивают ChatGPT о здоровье. OpenAI хочет, чтобы FDA это узаконила](https://habr.com/ru/news/983404/?utm_campaign=983404&utm_source=habrahabr&utm_medium=rss)
 - [Amazon запустила веб-версию обновленного ассистента Alexa+](https://habr.com/ru/companies/bothub/news/983384/?utm_campaign=983384&utm_source=habrahabr&utm_medium=rss)
 - [Universal Music подписала соглашение с Nvidia о сотрудничестве в области ИИ](https://habr.com/ru/news/983392/?utm_campaign=983392&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA показала Vera Rubin — платформу, которая должна радикально удешевить обучение ИИ](https://habr.com/ru/companies/bothub/news/983364/?utm_campaign=983364&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.2 и ИИ Aristotle решили 50-летнюю математическую задачу Эрдёша](https://habr.com/ru/news/983374/?utm_campaign=983374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
