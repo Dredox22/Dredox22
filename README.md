@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google AI и Vercel спонсируют фреймворк Tailwind, потерявший 80% дохода из-за ИИ](https://habr.com/ru/news/983702/?utm_campaign=983702&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia опять «улучшили» DLSS в Linux](https://habr.com/ru/news/983694/?utm_campaign=983694&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила Gemini 3 в Gmail — теперь ИИ будет копаться в переписке за вас](https://habr.com/ru/news/983686/?utm_campaign=983686&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-модель Стэнфорда научилась диагностировать 130 заболеваний по одной ночи сна](https://habr.com/ru/companies/bothub/news/983676/?utm_campaign=983676&utm_source=habrahabr&utm_medium=rss)
 - [Китай проверяет сделку по покупке Manus на нарушение экспортного контроля](https://habr.com/ru/companies/bothub/news/983584/?utm_campaign=983584&utm_source=habrahabr&utm_medium=rss)
-- [Суд в Нидерландах отменил свадьбу из-за ChatGPT](https://habr.com/ru/news/983646/?utm_campaign=983646&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI, Anthropic и Google разделили лидерство в Intelligence Index 4.0](https://habr.com/ru/companies/bothub/news/983590/?utm_campaign=983590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
