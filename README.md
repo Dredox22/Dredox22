@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китай проверяет сделку по покупке Manus на нарушение экспортного контроля](https://habr.com/ru/companies/bothub/news/983584/?utm_campaign=983584&utm_source=habrahabr&utm_medium=rss)
 - [Суд в Нидерландах отменил свадьбу из-за ChatGPT](https://habr.com/ru/news/983646/?utm_campaign=983646&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI, Anthropic и Google разделили лидерство в Intelligence Index 4.0](https://habr.com/ru/companies/bothub/news/983590/?utm_campaign=983590&utm_source=habrahabr&utm_medium=rss)
 - [Торвальдс: проблема ИИ-шлака &lpar;AI Slop&rpar; не будет решена с помощью Документации](https://habr.com/ru/news/983644/?utm_campaign=983644&utm_source=habrahabr&utm_medium=rss)
 - [Миллионы игроков League of Legends остались без доступа к игре из‑за того, что Riot забыла обновить SSL‑сертификат](https://habr.com/ru/news/983626/?utm_campaign=983626&utm_source=habrahabr&utm_medium=rss)
-- [Основателям Manus грозит уголовное дело в Китае после продажи стартапа Meta за $2 млрд](https://habr.com/ru/news/983620/?utm_campaign=983620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
