@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Linux-дистрибутив Nitrux 5.1.0](https://habr.com/ru/news/983378/?utm_campaign=983378&utm_source=habrahabr&utm_medium=rss)
+- [Tailwind Labs сократил 75% инженерной команды из-за падения доходов](https://habr.com/ru/news/983526/?utm_campaign=983526&utm_source=habrahabr&utm_medium=rss)
 - [Gemini занял 20% рынка веб-трафика ИИ-чатов — ChatGPT впервые падает](https://habr.com/ru/news/983482/?utm_campaign=983482&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia и Siemens запустят первый ИИ-завод в 2026 году — ускорение процессов до 10 раз](https://habr.com/ru/news/983468/?utm_campaign=983468&utm_source=habrahabr&utm_medium=rss)
 - [Boston Dynamics и Google объединяют усилия, чтобы превратить Atlas в полноценного ИИ-агента](https://habr.com/ru/companies/bothub/news/983366/?utm_campaign=983366&utm_source=habrahabr&utm_medium=rss)
-- [В ПО Samsung Magician для мониторинга SSD устранена уязвимость CVE-2025-57836, позволяющая повысить привилегии в Windows](https://habr.com/ru/news/983440/?utm_campaign=983440&utm_source=habrahabr&utm_medium=rss)
-- [Из OpenAI уходит глава команды Reasoning Models и один из создателей GPT-4](https://habr.com/ru/companies/bothub/news/983370/?utm_campaign=983370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
