@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему компании подают в суд против незаконного скрапинга SerpApi](https://habr.com/ru/news/983594/?utm_campaign=983594&utm_source=habrahabr&utm_medium=rss)
+- [Популярный фреймворк Tailwind лишился 80% дохода из-за ИИ](https://habr.com/ru/news/983588/?utm_campaign=983588&utm_source=habrahabr&utm_medium=rss)
+- [Siemens и NVIDIA создают ИИ-операционную систему для заводов](https://habr.com/ru/companies/bothub/news/983586/?utm_campaign=983586&utm_source=habrahabr&utm_medium=rss)
 - [Ваши сообщения из Telegram можно восстановить &lpar;даже удаленные&rpar;](https://habr.com/ru/companies/femida_search/news/983564/?utm_campaign=983564&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запустила ChatGPT Health](https://habr.com/ru/companies/bothub/news/983578/?utm_campaign=983578&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила ChatGPT Health для бесед о здоровье](https://habr.com/ru/news/983534/?utm_campaign=983534&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила ChatGPT Health — отдельный раздел для вопросов о здоровье](https://habr.com/ru/news/983508/?utm_campaign=983508&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила обновление для Windows 11 и превратила в кирпич Dev Kit на базе Qualcomm Snapdragon X Elite ARM64](https://habr.com/ru/news/983450/?utm_campaign=983450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
