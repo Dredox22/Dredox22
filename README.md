@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Миллионы игроков League of Legends остались без доступа к игре из‑за того, что Riot забыла обновить SSL‑сертификат](https://habr.com/ru/news/983626/?utm_campaign=983626&utm_source=habrahabr&utm_medium=rss)
 - [Основателям Manus грозит уголовное дело в Китае после продажи стартапа Meta за $2 млрд](https://habr.com/ru/news/983620/?utm_campaign=983620&utm_source=habrahabr&utm_medium=rss)
 - [Учёные из Ватерлоо научились бэкапить квантовые данные](https://habr.com/ru/companies/bothub/news/983600/?utm_campaign=983600&utm_source=habrahabr&utm_medium=rss)
 - [Почему компании подают в суд против незаконного скрапинга SerpApi](https://habr.com/ru/news/983594/?utm_campaign=983594&utm_source=habrahabr&utm_medium=rss)
 - [Популярный фреймворк Tailwind лишился 80% дохода из-за ИИ](https://habr.com/ru/news/983588/?utm_campaign=983588&utm_source=habrahabr&utm_medium=rss)
-- [Siemens и NVIDIA создают ИИ-операционную систему для заводов](https://habr.com/ru/companies/bothub/news/983586/?utm_campaign=983586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
