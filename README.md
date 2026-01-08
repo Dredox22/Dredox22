@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI запустила ChatGPT Health для бесед о здоровье](https://habr.com/ru/news/983534/?utm_campaign=983534&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила ChatGPT Health — отдельный раздел для вопросов о здоровье](https://habr.com/ru/news/983508/?utm_campaign=983508&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила обновление для Windows 11 и превратила в кирпич Dev Kit на базе Qualcomm Snapdragon X Elite ARM64](https://habr.com/ru/news/983450/?utm_campaign=983450&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux-дистрибутив Nitrux 5.1.0](https://habr.com/ru/news/983378/?utm_campaign=983378&utm_source=habrahabr&utm_medium=rss)
 - [Tailwind Labs сократил 75% инженерной команды из-за падения доходов](https://habr.com/ru/news/983526/?utm_campaign=983526&utm_source=habrahabr&utm_medium=rss)
-- [Gemini занял 20% рынка веб-трафика ИИ-чатов — ChatGPT впервые падает](https://habr.com/ru/news/983482/?utm_campaign=983482&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia и Siemens запустят первый ИИ-завод в 2026 году — ускорение процессов до 10 раз](https://habr.com/ru/news/983468/?utm_campaign=983468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
