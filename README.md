@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gmail переходит на Gemini 3. Почта больше не про письма](https://habr.com/ru/companies/bothub/news/983738/?utm_campaign=983738&utm_source=habrahabr&utm_medium=rss)
+- [Sony патентует ИИ для PlayStation, который возьмет геймпад и пройдёт сложный уровень за вас](https://habr.com/ru/news/983766/?utm_campaign=983766&utm_source=habrahabr&utm_medium=rss)
+- [Mobileye купила за $900 млн стартап Mentee Robotics, специализирующийся на роботах-гуманоидах](https://habr.com/ru/news/983760/?utm_campaign=983760&utm_source=habrahabr&utm_medium=rss)
 - [Arm открывает подразделение Physical AI и делает ставку на роботов](https://habr.com/ru/companies/bothub/news/983740/?utm_campaign=983740&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft убрала возможность отправки документов из Word в Kindle](https://habr.com/ru/news/983754/?utm_campaign=983754&utm_source=habrahabr&utm_medium=rss)
-- [Национальная метеорологическая служба США использует ИИ-карты, где показаны фальшивые города в Айдахо](https://habr.com/ru/news/983746/?utm_campaign=983746&utm_source=habrahabr&utm_medium=rss)
-- [Web3 магазин](https://habr.com/ru/news/983330/?utm_campaign=983330&utm_source=habrahabr&utm_medium=rss)
-- [Commonwealth Fusion Systems планирует запустить термоядерный реактор уже в 2027 году](https://habr.com/ru/companies/bothub/news/983730/?utm_campaign=983730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
