@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail переходит на Gemini 3. Почта больше не про письма](https://habr.com/ru/companies/bothub/news/983738/?utm_campaign=983738&utm_source=habrahabr&utm_medium=rss)
+- [Ажиотаж вокруг ИИ-чипов приведёт к резкому повышению цен на DRAM на 70%](https://habr.com/ru/news/983776/?utm_campaign=983776&utm_source=habrahabr&utm_medium=rss)
+- [Gmail переходит на Gemini 3. Почта больше не про письма](https://habr.com/ru/companies/bothub/news/983736/?utm_campaign=983736&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic привлекает $10 млрд. Оценка компании удвоилась за 4 месяца](https://habr.com/ru/news/983770/?utm_campaign=983770&utm_source=habrahabr&utm_medium=rss)
 - [Sony патентует ИИ для PlayStation, который возьмет геймпад и пройдёт сложный уровень за вас](https://habr.com/ru/news/983766/?utm_campaign=983766&utm_source=habrahabr&utm_medium=rss)
 - [Mobileye купила за $900 млн стартап Mentee Robotics, специализирующийся на роботах-гуманоидах](https://habr.com/ru/news/983760/?utm_campaign=983760&utm_source=habrahabr&utm_medium=rss)
-- [Arm открывает подразделение Physical AI и делает ставку на роботов](https://habr.com/ru/companies/bothub/news/983740/?utm_campaign=983740&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft убрала возможность отправки документов из Word в Kindle](https://habr.com/ru/news/983754/?utm_campaign=983754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
