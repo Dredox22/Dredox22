@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft закроет десктопное приложение Sway для Windows 11/10](https://habr.com/ru/news/983904/?utm_campaign=983904&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры атакуют отели в Европе через поддельные экраны BSOD Windows](https://habr.com/ru/news/983906/?utm_campaign=983906&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Pro доделал эмулятор ZX Spectrum за один вечер. Проект был заброшен два года](https://habr.com/ru/news/983900/?utm_campaign=983900&utm_source=habrahabr&utm_medium=rss)
 - [Ошибки в ядре Linux замечают в среднем через 2 года](https://habr.com/ru/news/983898/?utm_campaign=983898&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek V4 обещает превзойти Claude и GPT в кодинге — релиз ожидается в феврале](https://habr.com/ru/news/983878/?utm_campaign=983878&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила отключение метода активации Windows по телефону](https://habr.com/ru/news/983840/?utm_campaign=983840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
