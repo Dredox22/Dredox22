@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft подтвердила отключение метода активации Windows по телефону](https://habr.com/ru/news/983840/?utm_campaign=983840&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic привлекает Allianz и укрепляет свои позиции на корпоративном рынке ИИ](https://habr.com/ru/companies/bothub/news/983836/?utm_campaign=983836&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face запускает “чат со статьями” и меняет способ чтения науки](https://habr.com/ru/companies/bothub/news/983772/?utm_campaign=983772&utm_source=habrahabr&utm_medium=rss)
 - [Ажиотаж вокруг ИИ-чипов приведёт к резкому повышению цен на DRAM на 70%](https://habr.com/ru/news/983776/?utm_campaign=983776&utm_source=habrahabr&utm_medium=rss)
 - [Gmail переходит на Gemini 3. Почта больше не про письма](https://habr.com/ru/companies/bothub/news/983736/?utm_campaign=983736&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic привлекает $10 млрд. Оценка компании удвоилась за 4 месяца](https://habr.com/ru/news/983770/?utm_campaign=983770&utm_source=habrahabr&utm_medium=rss)
-- [Sony патентует ИИ для PlayStation, который возьмет геймпад и пройдёт сложный уровень за вас](https://habr.com/ru/news/983766/?utm_campaign=983766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
