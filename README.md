@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek V4 обещает превзойти Claude и GPT в кодинге — релиз ожидается в феврале](https://habr.com/ru/news/983878/?utm_campaign=983878&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подтвердила отключение метода активации Windows по телефону](https://habr.com/ru/news/983840/?utm_campaign=983840&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic привлекает Allianz и укрепляет свои позиции на корпоративном рынке ИИ](https://habr.com/ru/companies/bothub/news/983836/?utm_campaign=983836&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face запускает “чат со статьями” и меняет способ чтения науки](https://habr.com/ru/companies/bothub/news/983772/?utm_campaign=983772&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления Media Player Classic — Home Cinema 2.6.0](https://habr.com/ru/news/983660/?utm_campaign=983660&utm_source=habrahabr&utm_medium=rss)
-- [Ажиотаж вокруг ИИ-чипов приведёт к резкому повышению цен на DRAM на 70%](https://habr.com/ru/news/983776/?utm_campaign=983776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
