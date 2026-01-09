@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Илон Маск: AGI появится в 2026-м, а к 2030-му ИИ обгонит все человечество](https://habr.com/ru/news/983698/?utm_campaign=983698&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.8](https://habr.com/ru/news/983670/?utm_campaign=983670&utm_source=habrahabr&utm_medium=rss)
 - [Google AI и Vercel спонсируют фреймворк Tailwind, потерявший 80% дохода из-за ИИ](https://habr.com/ru/news/983702/?utm_campaign=983702&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia опять «улучшили» DLSS в Linux](https://habr.com/ru/news/983694/?utm_campaign=983694&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила Gemini 3 в Gmail — теперь ИИ будет копаться в переписке за вас](https://habr.com/ru/news/983686/?utm_campaign=983686&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-модель Стэнфорда научилась диагностировать 130 заболеваний по одной ночи сна](https://habr.com/ru/companies/bothub/news/983676/?utm_campaign=983676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
