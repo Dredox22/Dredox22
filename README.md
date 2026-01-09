@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление диагностической утилиты CPU-Z 2.18](https://habr.com/ru/news/983666/?utm_campaign=983666&utm_source=habrahabr&utm_medium=rss)
-- [В новой версии Chrome 2026 вас могут взломать страничкой в браузере](https://habr.com/ru/companies/femida_search/news/983726/?utm_campaign=983726&utm_source=habrahabr&utm_medium=rss)
+- [Национальная метеорологическая служба США использует ИИ-карты, где показаны фальшивые города в Айдахо](https://habr.com/ru/news/983746/?utm_campaign=983746&utm_source=habrahabr&utm_medium=rss)
+- [Web3 магазин](https://habr.com/ru/news/983330/?utm_campaign=983330&utm_source=habrahabr&utm_medium=rss)
+- [Commonwealth Fusion Systems планирует запустить термоядерный реактор уже в 2027 году](https://habr.com/ru/companies/bothub/news/983730/?utm_campaign=983730&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск: AGI появится в 2026-м, а к 2030-му ИИ обгонит все человечество](https://habr.com/ru/news/983698/?utm_campaign=983698&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.8](https://habr.com/ru/news/983670/?utm_campaign=983670&utm_source=habrahabr&utm_medium=rss)
-- [Google AI и Vercel спонсируют фреймворк Tailwind, потерявший 80% дохода из-за ИИ](https://habr.com/ru/news/983702/?utm_campaign=983702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
