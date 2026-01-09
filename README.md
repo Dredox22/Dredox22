@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Arm открывает подразделение Physical AI и делает ставку на роботов](https://habr.com/ru/companies/bothub/news/983740/?utm_campaign=983740&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft убрала возможность отправки документов из Word в Kindle](https://habr.com/ru/news/983754/?utm_campaign=983754&utm_source=habrahabr&utm_medium=rss)
 - [Национальная метеорологическая служба США использует ИИ-карты, где показаны фальшивые города в Айдахо](https://habr.com/ru/news/983746/?utm_campaign=983746&utm_source=habrahabr&utm_medium=rss)
 - [Web3 магазин](https://habr.com/ru/news/983330/?utm_campaign=983330&utm_source=habrahabr&utm_medium=rss)
 - [Commonwealth Fusion Systems планирует запустить термоядерный реактор уже в 2027 году](https://habr.com/ru/companies/bothub/news/983730/?utm_campaign=983730&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск: AGI появится в 2026-м, а к 2030-му ИИ обгонит все человечество](https://habr.com/ru/news/983698/?utm_campaign=983698&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.8](https://habr.com/ru/news/983670/?utm_campaign=983670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
