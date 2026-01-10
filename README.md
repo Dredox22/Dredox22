@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление движка блокировки рекламы в Brave на Rust снизило потребление памяти на 75%](https://habr.com/ru/news/983946/?utm_campaign=983946&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрешит IT-администраторам удалять Copilot](https://habr.com/ru/news/983942/?utm_campaign=983942&utm_source=habrahabr&utm_medium=rss)
 - [Представлен экспериментальный проект Loss32 — подобная Windows ОС на ядре Linux](https://habr.com/ru/news/983934/?utm_campaign=983934&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic: сообщение Claude «аккаунт забанен и данные переданы местным властям» не соответствует действительности](https://habr.com/ru/news/983930/?utm_campaign=983930&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закроет десктопное приложение Sway для Windows 11/10](https://habr.com/ru/news/983904/?utm_campaign=983904&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры атакуют отели в Европе через поддельные экраны BSOD Windows](https://habr.com/ru/news/983906/?utm_campaign=983906&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления HopToDesk 1.45.5 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/983866/?utm_campaign=983866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
