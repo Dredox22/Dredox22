@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Штатный и устаревший проигрыватель Microsoft Windows Media перестал отображать информацию об альбомах на компакт-дисках](https://habr.com/ru/news/984002/?utm_campaign=984002&utm_source=habrahabr&utm_medium=rss)
 - [Grok ограничил генерацию изображений для бесплатных аккаунтов](https://habr.com/ru/companies/bothub/news/983972/?utm_campaign=983972&utm_source=habrahabr&utm_medium=rss)
 - [Открыт бесплатный API-доступ к Aristotle — ИИ-математику уровня золотой медали IMO](https://habr.com/ru/news/983956/?utm_campaign=983956&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление инструмента мониторинга HWiNFO 8.40](https://habr.com/ru/news/983868/?utm_campaign=983868&utm_source=habrahabr&utm_medium=rss)
 - [Обновление движка блокировки рекламы в Brave на Rust снизило потребление памяти на 75%](https://habr.com/ru/news/983946/?utm_campaign=983946&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешит IT-администраторам удалять Copilot](https://habr.com/ru/news/983942/?utm_campaign=983942&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
