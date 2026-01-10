@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok ограничил генерацию изображений для бесплатных аккаунтов](https://habr.com/ru/companies/bothub/news/983972/?utm_campaign=983972&utm_source=habrahabr&utm_medium=rss)
 - [Открыт бесплатный API-доступ к Aristotle — ИИ-математику уровня золотой медали IMO](https://habr.com/ru/news/983956/?utm_campaign=983956&utm_source=habrahabr&utm_medium=rss)
 - [Обновление движка блокировки рекламы в Brave на Rust снизило потребление памяти на 75%](https://habr.com/ru/news/983946/?utm_campaign=983946&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрешит IT-администраторам удалять Copilot](https://habr.com/ru/news/983942/?utm_campaign=983942&utm_source=habrahabr&utm_medium=rss)
 - [Представлен экспериментальный проект Loss32 — подобная Windows ОС на ядре Linux](https://habr.com/ru/news/983934/?utm_campaign=983934&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic: сообщение Claude «аккаунт забанен и данные переданы местным властям» не соответствует действительности](https://habr.com/ru/news/983930/?utm_campaign=983930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
