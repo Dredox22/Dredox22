@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики проекта VideoLAN выпустили предварительную сборку видеопроигрывателя VLC 4 с поддержкой AV2](https://habr.com/ru/news/984022/?utm_campaign=984022&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Grok писали код на Claude. Anthropic их забанил](https://habr.com/ru/news/984052/?utm_campaign=984052&utm_source=habrahabr&utm_medium=rss)
 - [Представлен легковесный проект Winslop для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/984036/?utm_campaign=984036&utm_source=habrahabr&utm_medium=rss)
 - [Подписка Claude больше не работает в сторонних редакторах кода — разработчики в ярости](https://habr.com/ru/news/984030/?utm_campaign=984030&utm_source=habrahabr&utm_medium=rss)
 - [Штатный и устаревший проигрыватель Microsoft Windows Media перестал отображать информацию об альбомах на компакт-дисках](https://habr.com/ru/news/984002/?utm_campaign=984002&utm_source=habrahabr&utm_medium=rss)
-- [Grok ограничил генерацию изображений для бесплатных аккаунтов](https://habr.com/ru/companies/bothub/news/983972/?utm_campaign=983972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
