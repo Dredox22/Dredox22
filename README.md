@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft прекратила поддержку приложения Lens в феврале](https://habr.com/ru/news/984128/?utm_campaign=984128&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратила поддержку приложения Lens](https://habr.com/ru/news/984128/?utm_campaign=984128&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики проекта VideoLAN выпустили предварительную сборку видеопроигрывателя VLC 4 с поддержкой AV2](https://habr.com/ru/news/984022/?utm_campaign=984022&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Grok писали код на Claude. Anthropic их забанил](https://habr.com/ru/news/984052/?utm_campaign=984052&utm_source=habrahabr&utm_medium=rss)
 - [Представлен легковесный проект Winslop для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/984036/?utm_campaign=984036&utm_source=habrahabr&utm_medium=rss)
