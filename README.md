@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft изменила идентификаторы обновлений Windows](https://habr.com/ru/news/984178/?utm_campaign=984178&utm_source=habrahabr&utm_medium=rss)
+- [HBM распродана до 2027-го: как три компании стали «Санта-Клаусами», решающими, кому достанется память](https://habr.com/ru/news/984166/?utm_campaign=984166&utm_source=habrahabr&utm_medium=rss)
 - [Hyundai получила награду «Лучшая инновация в области робототехники» на CES 2026](https://habr.com/ru/companies/bothub/news/984158/?utm_campaign=984158&utm_source=habrahabr&utm_medium=rss)
 - [Китайский ИИ научился учить себя сам. Его разработчики называют это путем к сверхинтеллекту](https://habr.com/ru/news/984156/?utm_campaign=984156&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила поддержку приложения Lens](https://habr.com/ru/news/984128/?utm_campaign=984128&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики проекта VideoLAN выпустили предварительную сборку видеопроигрывателя VLC 4 с поддержкой AV2](https://habr.com/ru/news/984022/?utm_campaign=984022&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Grok писали код на Claude. Anthropic их забанил](https://habr.com/ru/news/984052/?utm_campaign=984052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
