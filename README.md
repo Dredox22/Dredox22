@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple признала провал собственного ИИ и передала Siri в руки Google](https://habr.com/ru/news/984600/?utm_campaign=984600&utm_source=habrahabr&utm_medium=rss)
 - [В Chrome Web Store нашли два расширения, которые крадут переписку с ChatGPT и DeepSeek](https://habr.com/ru/news/984592/?utm_campaign=984592&utm_source=habrahabr&utm_medium=rss)
 - [В поисках «золотого датасета»: OpenAI собирает реальные рабочие задачи и файлы для тренировки будущих ИИ-агентов](https://habr.com/ru/companies/bothub/news/984582/?utm_campaign=984582&utm_source=habrahabr&utm_medium=rss)
-- [В Великобритании расследуют дипфейки Grok — Маск репостит фото Страмера в бикини](https://habr.com/ru/news/984532/?utm_campaign=984532&utm_source=habrahabr&utm_medium=rss)
+- [В Великобритании расследуют дипфейки Grok — Маск репостит фото Стармера в бикини](https://habr.com/ru/news/984532/?utm_campaign=984532&utm_source=habrahabr&utm_medium=rss)
 - [Скругление окон в macOS Tahoe «сломало» функцию масштабирования](https://habr.com/ru/news/984524/?utm_campaign=984524&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Программного Продукта»: «LLM: простота сложных вещей и опыт проектного применения»](https://habr.com/ru/companies/ppr/news/984510/?utm_campaign=984510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
