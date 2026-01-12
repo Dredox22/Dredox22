@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SimpleOne выпустила новую версию ITSM с матрицей бизнес-влияния для объективной приоритизации инцидентов](https://habr.com/ru/companies/simpleone/news/984384/?utm_campaign=984384&utm_source=habrahabr&utm_medium=rss)
+- [Google удаляет обзоры от ИИ по определённым медицинским запросам](https://habr.com/ru/news/984378/?utm_campaign=984378&utm_source=habrahabr&utm_medium=rss)
 - [Корейский математик решил геометрическую задачу, которая оставалась без ответа почти шестьдесят лет](https://habr.com/ru/news/984358/?utm_campaign=984358&utm_source=habrahabr&utm_medium=rss)
 - [GitHub восстановил репозиторий мода MTA для GTA после того, как Take-Two не подала в суд на разработчиков проекта](https://habr.com/ru/news/984350/?utm_campaign=984350&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** исправил проблему отправки электронных писем со сбросом пароля](https://habr.com/ru/news/984334/?utm_campaign=984334&utm_source=habrahabr&utm_medium=rss)
-- [Зумеры начали использовать iPhone 4 ради съемки ретро-фото с эффектом зернистости](https://habr.com/ru/news/984332/?utm_campaign=984332&utm_source=habrahabr&utm_medium=rss)
-- [«Ручной набор кода уйдет как перфокарты»: сооснователь Django — о будущем программирования](https://habr.com/ru/news/984336/?utm_campaign=984336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
