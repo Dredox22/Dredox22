@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Зумеры начали использовать iPhone 4 ради съемки ретро-фото с эффектом зернистости](https://habr.com/ru/news/984332/?utm_campaign=984332&utm_source=habrahabr&utm_medium=rss)
+- [«Ручной набор кода уйдет как перфокарты»: сооснователь Django — о будущем программирования](https://habr.com/ru/news/984336/?utm_campaign=984336&utm_source=habrahabr&utm_medium=rss)
+- [109% роста при полумиллиардных убытках: MiniMax показал, как выглядит IPO в эпоху ИИ-хайпа](https://habr.com/ru/news/984328/?utm_campaign=984328&utm_source=habrahabr&utm_medium=rss)
+- [Блоки питания и кулеры для ПК подорожают из-за кризиса ОЗУ и SSD](https://habr.com/ru/news/984322/?utm_campaign=984322&utm_source=habrahabr&utm_medium=rss)
 - [Мобильные приложения Telegram могут раскрыть IP-адрес через прокси-ссылки](https://habr.com/ru/news/984320/?utm_campaign=984320&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft внедрит больше опций ИИ в проводник файлов в Windows 11](https://habr.com/ru/news/984316/?utm_campaign=984316&utm_source=habrahabr&utm_medium=rss)
-- [Представлен выпуск открытого файлового менеджера Double Commander 1.2.0 beta Pre-release](https://habr.com/ru/news/984312/?utm_campaign=984312&utm_source=habrahabr&utm_medium=rss)
-- [Вышел QuickLook 4.4 — открытый проект, который переносит функцию быстрого просмотра Quick Look из macOS в Windows 10/11](https://habr.com/ru/news/984200/?utm_campaign=984200&utm_source=habrahabr&utm_medium=rss)
-- [16% населения Земли уже пользуется ИИ. DeepSeek выбирают в развивающихся странах](https://habr.com/ru/news/984282/?utm_campaign=984282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
