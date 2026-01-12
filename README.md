@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Корейский математик решил геометрическую задачу, которая оставалась без ответа почти шестьдесят лет](https://habr.com/ru/news/984358/?utm_campaign=984358&utm_source=habrahabr&utm_medium=rss)
 - [GitHub восстановил репозиторий мода MTA для GTA после того, как Take-Two не подала в суд на разработчиков проекта](https://habr.com/ru/news/984350/?utm_campaign=984350&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** исправил проблему отправки электронных писем со сбросом пароля](https://habr.com/ru/news/984334/?utm_campaign=984334&utm_source=habrahabr&utm_medium=rss)
 - [Зумеры начали использовать iPhone 4 ради съемки ретро-фото с эффектом зернистости](https://habr.com/ru/news/984332/?utm_campaign=984332&utm_source=habrahabr&utm_medium=rss)
 - [«Ручной набор кода уйдет как перфокарты»: сооснователь Django — о будущем программирования](https://habr.com/ru/news/984336/?utm_campaign=984336&utm_source=habrahabr&utm_medium=rss)
-- [109% роста при полумиллиардных убытках: MiniMax показал, как выглядит IPO в эпоху ИИ-хайпа](https://habr.com/ru/news/984328/?utm_campaign=984328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
