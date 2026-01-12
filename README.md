@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.5 набрал 92% на медицинском бенчмарке Стэнфорда — и получил доступ к данным пациентов](https://habr.com/ru/news/984444/?utm_campaign=984444&utm_source=habrahabr&utm_medium=rss)
+- [Видит слева, а генерирует справа: китайские исследователи лечат «афазию» нейросетей](https://habr.com/ru/companies/bothub/news/984436/?utm_campaign=984436&utm_source=habrahabr&utm_medium=rss)
 - [Индийские власти предлагают заставить производителей смартфонов раскрывать исходный код ПО](https://habr.com/ru/news/984414/?utm_campaign=984414&utm_source=habrahabr&utm_medium=rss)
 - [В России впервые оштрафовали за голосовое сообщение](https://habr.com/ru/news/984406/?utm_campaign=984406&utm_source=habrahabr&utm_medium=rss)
 - [Китай лидирует в продажах человекоподобных роботов за 2025 год](https://habr.com/ru/news/984394/?utm_campaign=984394&utm_source=habrahabr&utm_medium=rss)
-- [SimpleOne выпустила новую версию ITSM с матрицей бизнес-влияния для объективной приоритизации инцидентов](https://habr.com/ru/companies/simpleone/news/984384/?utm_campaign=984384&utm_source=habrahabr&utm_medium=rss)
-- [Google удаляет обзоры от ИИ по определённым медицинским запросам](https://habr.com/ru/news/984378/?utm_campaign=984378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
