@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «Программного Продукта»: «LLM: простота сложных вещей и опыт проектного применения»](https://habr.com/ru/companies/ppr/news/984510/?utm_campaign=984510&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый оптимизатор процессов SceneShift, созданный на Go и Bubble Tea](https://habr.com/ru/news/984460/?utm_campaign=984460&utm_source=habrahabr&utm_medium=rss)
 - [РКН засудил 33 операторов связи за обход цензуры](https://habr.com/ru/companies/femida_search/news/984484/?utm_campaign=984484&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор в ходе проверок выявил у 33 операторов связи в РФ «нарушения правил установки ТСПУ»](https://habr.com/ru/news/984470/?utm_campaign=984470&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.5 набрал 92% на медицинском бенчмарке Стэнфорда — и получил доступ к данным пациентов](https://habr.com/ru/news/984444/?utm_campaign=984444&utm_source=habrahabr&utm_medium=rss)
-- [Видит слева, а генерирует справа: китайские исследователи лечат «афазию» нейросетей](https://habr.com/ru/companies/bothub/news/984436/?utm_campaign=984436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
