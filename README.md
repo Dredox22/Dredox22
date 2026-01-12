@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен выпуск открытого файлового менеджера Double Commander 1.2.0 beta Pre-release](https://habr.com/ru/news/984312/?utm_campaign=984312&utm_source=habrahabr&utm_medium=rss)
 - [Вышел QuickLook 4.4 — открытый проект, который переносит функцию быстрого просмотра Quick Look из macOS в Windows 10/11](https://habr.com/ru/news/984200/?utm_campaign=984200&utm_source=habrahabr&utm_medium=rss)
 - [16% населения Земли уже пользуется ИИ. DeepSeek выбирают в развивающихся странах](https://habr.com/ru/news/984282/?utm_campaign=984282&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс признался, что не умеет писать на Python. И использовал ИИ](https://habr.com/ru/news/984230/?utm_campaign=984230&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft изменила идентификаторы обновлений Windows](https://habr.com/ru/news/984178/?utm_campaign=984178&utm_source=habrahabr&utm_medium=rss)
-- [HBM распродана до 2027-го: как три компании стали «Санта-Клаусами», решающими, кому достанется память](https://habr.com/ru/news/984166/?utm_campaign=984166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
