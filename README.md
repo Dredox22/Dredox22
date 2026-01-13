@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз открытой утилиты для оптимизации энергопотребления и производительности auto-cpufreq 3.0](https://habr.com/ru/news/984318/?utm_campaign=984318&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Linux Mint 22.3 «Zena»](https://habr.com/ru/news/984396/?utm_campaign=984396&utm_source=habrahabr&utm_medium=rss)
-- [«Крадёт, а затем удаляет ваши файлы»: облачное хранилище OneDrive от Microsoft подверглось критике](https://habr.com/ru/news/984612/?utm_campaign=984612&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic представила Cowork — ИИ-агента на базе Claude Code для широких задач](https://habr.com/ru/news/984644/?utm_campaign=984644&utm_source=habrahabr&utm_medium=rss)
-- [Apple признала провал собственного ИИ и передала Siri в руки Google](https://habr.com/ru/news/984600/?utm_campaign=984600&utm_source=habrahabr&utm_medium=rss)
+- [Эта LLM не знает, кто такой Илон Маск. И это не баг, а фича](https://habr.com/ru/news/984688/?utm_campaign=984688&utm_source=habrahabr&utm_medium=rss)
+- [В GitHub объяснили популярность типизированных языков из-за работы с ИИ](https://habr.com/ru/news/984678/?utm_campaign=984678&utm_source=habrahabr&utm_medium=rss)
+- [AiConf 2026: нам нужен именно ты! Что нового?](https://habr.com/ru/companies/oleg-bunin/news/984642/?utm_campaign=984642&utm_source=habrahabr&utm_medium=rss)
+- [«Крёстный отец SaaS» заменил большую часть своей команды продаж ИИ-агентами](https://habr.com/ru/news/984676/?utm_campaign=984676&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft постепенно превращает Edge в ещё одно приложение Copilot](https://habr.com/ru/news/984674/?utm_campaign=984674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
