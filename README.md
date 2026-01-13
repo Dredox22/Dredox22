@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic инвестируют $1.5 млн в Python — и делают ставку на безопасность open source](https://habr.com/ru/news/984878/?utm_campaign=984878&utm_source=habrahabr&utm_medium=rss)
-- [Innostage PAM получил сертификат ФСТЭК России 4 уровня доверия](https://habr.com/ru/news/984866/?utm_campaign=984866&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудники крупных ИИ-компаний запустили проект Poison Foundation, чтобы навредить обучению нейросетей](https://habr.com/ru/companies/bothub/news/984856/?utm_campaign=984856&utm_source=habrahabr&utm_medium=rss)
-- [Анонсирован выход Wine 11.0](https://habr.com/ru/news/984848/?utm_campaign=984848&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic создала Cowork за 10 дней — весь код написал Claude Code](https://habr.com/ru/news/984838/?utm_campaign=984838&utm_source=habrahabr&utm_medium=rss)
+- [Google начала распространять январский патч безопасности для Android 16](https://habr.com/ru/news/984924/?utm_campaign=984924&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор Бразилии отменил запрет чат-ботов в WhatsApp. Meta✶ по-прежнему грозит штраф 10%](https://habr.com/ru/companies/bothub/news/984918/?utm_campaign=984918&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры из Everest заявили о хищении 900 ГБ конфиденциальной информации из IT-систем компании Nissan](https://habr.com/ru/news/984914/?utm_campaign=984914&utm_source=habrahabr&utm_medium=rss)
+- [Сервис «Умер?» для одиноких людей вышел на первое место в рейтинге платных приложений в китайском App Store](https://habr.com/ru/news/984910/?utm_campaign=984910&utm_source=habrahabr&utm_medium=rss)
+- [Grok и Gemini получат доступ к секретным сетям Пентагона к концу января](https://habr.com/ru/news/984902/?utm_campaign=984902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
