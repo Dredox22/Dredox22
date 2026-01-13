@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Интернет-видео как учебник: 1X научила робота Neo переносить знания в реальность и выложила «модель мира»](https://habr.com/ru/companies/bothub/news/984970/?utm_campaign=984970&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Минюст России выступил против ужесточения уголовной ответственности за мошенничество с ИИ»](https://habr.com/ru/news/984966/?utm_campaign=984966&utm_source=habrahabr&utm_medium=rss)
+- [«Чтобы босс не использовал ChatGPT»: Salesforce встроил Claude в Slack](https://habr.com/ru/news/984958/?utm_campaign=984958&utm_source=habrahabr&utm_medium=rss)
 - [Бобры чуть не оставили 13 тысяч абонентов из Архангельской области без интернета](https://habr.com/ru/news/984948/?utm_campaign=984948&utm_source=habrahabr&utm_medium=rss)
 - [Опрос: инженеры Meta✶, Microsoft и Amazon тайком используют Claude, а не свои ИИ-системы](https://habr.com/ru/companies/bothub/news/984942/?utm_campaign=984942&utm_source=habrahabr&utm_medium=rss)
-- [Google начала распространять январский патч безопасности для Android 16](https://habr.com/ru/news/984924/?utm_campaign=984924&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор Бразилии отменил запрет чат-ботов в WhatsApp. Meta✶ по-прежнему грозит штраф 10%](https://habr.com/ru/companies/bothub/news/984918/?utm_campaign=984918&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры из Everest заявили о хищении 900 ГБ конфиденциальной информации из IT-систем компании Nissan](https://habr.com/ru/news/984914/?utm_campaign=984914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
