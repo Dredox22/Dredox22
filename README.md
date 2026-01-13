@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-железо нового поколения: молекулы, которые учатся без транзисторов](https://habr.com/ru/news/984756/?utm_campaign=984756&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Windows 11 SE в октябре 2026 года](https://habr.com/ru/news/984660/?utm_campaign=984660&utm_source=habrahabr&utm_medium=rss)
 - [CleverData Join — одна из первых CDP-платформ, поддерживающих мессенджер MAX через API](https://habr.com/ru/companies/lansoft_career/news/984608/?utm_campaign=984608&utm_source=habrahabr&utm_medium=rss)
 - [Telegram заблокировал более 44 млн каналов и групп в 2025 году](https://habr.com/ru/news/984732/?utm_campaign=984732&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Firefox 147.0](https://habr.com/ru/news/984564/?utm_campaign=984564&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи DeepSeek добавили в ИИ память — но улучшились рассуждения, а не знание фактов](https://habr.com/ru/news/984696/?utm_campaign=984696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
