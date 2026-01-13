@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Innostage PAM получил сертификат ФСТЭК России 4 уровня доверия](https://habr.com/ru/news/984866/?utm_campaign=984866&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудники крупных ИИ-компаний запустили проект Poison Foundation, чтобы навредить обучению нейросетей](https://habr.com/ru/companies/bothub/news/984856/?utm_campaign=984856&utm_source=habrahabr&utm_medium=rss)
+- [Анонсирован выход Wine 11.0](https://habr.com/ru/news/984848/?utm_campaign=984848&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic создала Cowork за 10 дней — весь код написал Claude Code](https://habr.com/ru/news/984838/?utm_campaign=984838&utm_source=habrahabr&utm_medium=rss)
 - [Онлайн-школа системного моделирования](https://habr.com/ru/companies/etmc_exponenta/news/984812/?utm_campaign=984812&utm_source=habrahabr&utm_medium=rss)
-- [Штрафы за SIM взлетают](https://habr.com/ru/companies/femida_search/news/984800/?utm_campaign=984800&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-железо нового поколения: молекулы, которые учатся без транзисторов](https://habr.com/ru/news/984756/?utm_campaign=984756&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку Windows 11 SE в октябре 2026 года](https://habr.com/ru/news/984660/?utm_campaign=984660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
