@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытой утилиты для оптимизации энергопотребления и производительности auto-cpufreq 3.0](https://habr.com/ru/news/984318/?utm_campaign=984318&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Linux Mint 22.3 «Zena»](https://habr.com/ru/news/984396/?utm_campaign=984396&utm_source=habrahabr&utm_medium=rss)
 - [«Крадёт, а затем удаляет ваши файлы»: облачное хранилище OneDrive от Microsoft подверглось критике](https://habr.com/ru/news/984612/?utm_campaign=984612&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic представила Cowork — ИИ-агента на базе Claude Code для широких задач](https://habr.com/ru/news/984644/?utm_campaign=984644&utm_source=habrahabr&utm_medium=rss)
 - [Apple признала провал собственного ИИ и передала Siri в руки Google](https://habr.com/ru/news/984600/?utm_campaign=984600&utm_source=habrahabr&utm_medium=rss)
-- [В Chrome Web Store нашли два расширения, которые крадут переписку с ChatGPT и DeepSeek](https://habr.com/ru/news/984592/?utm_campaign=984592&utm_source=habrahabr&utm_medium=rss)
-- [В поисках «золотого датасета»: OpenAI собирает реальные рабочие задачи и файлы для тренировки будущих ИИ-агентов](https://habr.com/ru/companies/bothub/news/984582/?utm_campaign=984582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
