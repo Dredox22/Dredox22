@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи DeepSeek добавили в ИИ память — но улучшились рассуждения, а не знание фактов](https://habr.com/ru/news/984696/?utm_campaign=984696&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: ведомство не блокирует сервисы Duolingo в РФ](https://habr.com/ru/news/984686/?utm_campaign=984686&utm_source=habrahabr&utm_medium=rss)
 - [Эта LLM не знает, кто такой Илон Маск. И это не баг, а фича](https://habr.com/ru/news/984688/?utm_campaign=984688&utm_source=habrahabr&utm_medium=rss)
 - [В GitHub объяснили популярность типизированных языков из-за работы с ИИ](https://habr.com/ru/news/984678/?utm_campaign=984678&utm_source=habrahabr&utm_medium=rss)
 - [AiConf 2026: нам нужен именно ты! Что нового?](https://habr.com/ru/companies/oleg-bunin/news/984642/?utm_campaign=984642&utm_source=habrahabr&utm_medium=rss)
-- [«Крёстный отец SaaS» заменил большую часть своей команды продаж ИИ-агентами](https://habr.com/ru/news/984676/?utm_campaign=984676&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft постепенно превращает Edge в ещё одно приложение Copilot](https://habr.com/ru/news/984674/?utm_campaign=984674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
