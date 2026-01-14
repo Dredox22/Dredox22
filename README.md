@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft собирается уволить 55 сотрудников в студиях Massive Entertainment и Ubisoft Stockholm](https://habr.com/ru/news/985056/?utm_campaign=985056&utm_source=habrahabr&utm_medium=rss)
+- [Крупнейший оператор столкнулся с проблемами обслуживания ЦОД для нужд ИИ](https://habr.com/ru/news/985052/?utm_campaign=985052&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft открыла исходный код среды разработки XAML Studio](https://habr.com/ru/news/984798/?utm_campaign=984798&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обучил нейросеть «Алиса AI» удобному подбору товаров прямо в чате](https://habr.com/ru/news/985028/?utm_campaign=985028&utm_source=habrahabr&utm_medium=rss)
 - [Пентагон будет использовать Grok для повседневной работы](https://habr.com/ru/companies/bothub/news/984956/?utm_campaign=984956&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик легковесного проекта Winslop для удаления ненужного системного мусора в Windows 11 перевёл его код из С в С#](https://habr.com/ru/news/985024/?utm_campaign=985024&utm_source=habrahabr&utm_medium=rss)
-- [Новая гиг-экономика: белые воротнички обучают ИИ, пока сами ищут работу](https://habr.com/ru/news/985020/?utm_campaign=985020&utm_source=habrahabr&utm_medium=rss)
-- [Grok «раздел» мать ребенка Маска — она потеряла заработок на X и рассматривает иск](https://habr.com/ru/news/985014/?utm_campaign=985014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
