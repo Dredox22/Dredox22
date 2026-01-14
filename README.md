@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла GLM-Image: открытая модель создания изображений «промышленного уровня»](https://habr.com/ru/news/985290/?utm_campaign=985290&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры предлагает наказывать за отсутствие IMEI-номеров в договорах оказания услуг связи для иностранцев](https://habr.com/ru/news/985278/?utm_campaign=985278&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор отразил 1 тысячу DDoS-атак в декабре 2025 года](https://habr.com/ru/news/985270/?utm_campaign=985270&utm_source=habrahabr&utm_medium=rss)
 - [Пока GPT-5.2 решает задачи Эрдёша, Gemini доказывает теоремы: новости ИИ-математики](https://habr.com/ru/news/985240/?utm_campaign=985240&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» проведёт для школьников урок по кибербезопасности в космосе](https://habr.com/ru/news/985196/?utm_campaign=985196&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic запустила режим Cowork и превратила Claude в исполнительного ассистента](https://habr.com/ru/companies/bothub/news/985174/?utm_campaign=985174&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
