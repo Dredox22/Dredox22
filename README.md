@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новая гиг-экономика: белые воротнички обучают ИИ, пока сами ищут работу](https://habr.com/ru/news/985020/?utm_campaign=985020&utm_source=habrahabr&utm_medium=rss)
+- [Grok «раздел» мать ребенка Маска — она потеряла заработок на X и рассматривает иск](https://habr.com/ru/news/985014/?utm_campaign=985014&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI купила стартап Torch, работающий с медицинскими картами](https://habr.com/ru/companies/bothub/news/984972/?utm_campaign=984972&utm_source=habrahabr&utm_medium=rss)
 - [Представлен дистрибутив Omarchy с идеальным Linux-окружением](https://habr.com/ru/news/984936/?utm_campaign=984936&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Wine 11.0](https://habr.com/ru/news/985008/?utm_campaign=985008&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия свободного 2D САПР LibreCAD 2.2.1.3](https://habr.com/ru/news/984786/?utm_campaign=984786&utm_source=habrahabr&utm_medium=rss)
-- [Тестовая версия Grok 4.20 показала SOTA во фронтенде — на уровне Opus 4.5](https://habr.com/ru/news/984990/?utm_campaign=984990&utm_source=habrahabr&utm_medium=rss)
-- [Интернет-видео как учебник: 1X научила робота Neo переносить знания в реальность и выложила «модель мира»](https://habr.com/ru/companies/bothub/news/984970/?utm_campaign=984970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
