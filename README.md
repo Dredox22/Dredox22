@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры заявили о краже 78 млн файлов личных данных пользователей Discord](https://habr.com/ru/news/985116/?utm_campaign=985116&utm_source=habrahabr&utm_medium=rss)
+- [Создатель Signal разработал ИИ-ассистента для сокрытия данных от операторов и правоохранителей](https://habr.com/ru/news/985098/?utm_campaign=985098&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекращает поддержку устаревшего инструментария для развертывания Windows](https://habr.com/ru/news/984998/?utm_campaign=984998&utm_source=habrahabr&utm_medium=rss)
 - [Samsung Innovation Campus приглашает на Android Bootcamp 2026](https://habr.com/ru/companies/samsung/news/985078/?utm_campaign=985078&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft собирается уволить 55 сотрудников в студиях Massive Entertainment и Ubisoft Stockholm](https://habr.com/ru/news/985056/?utm_campaign=985056&utm_source=habrahabr&utm_medium=rss)
-- [Крупнейший оператор столкнулся с проблемами обслуживания ЦОД для нужд ИИ](https://habr.com/ru/news/985052/?utm_campaign=985052&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft открыла исходный код среды разработки XAML Studio](https://habr.com/ru/news/984798/?utm_campaign=984798&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» обучил нейросеть «Алиса AI» удобному подбору товаров прямо в чате](https://habr.com/ru/news/985028/?utm_campaign=985028&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
