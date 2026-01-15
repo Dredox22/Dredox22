@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [InfoWatch Traffic Monitor запатентован в ЕАПО](https://habr.com/ru/companies/infowatch/news/985406/?utm_campaign=985406&utm_source=habrahabr&utm_medium=rss)
+- [Проект curl свернёт bug bounty в конце января 2026 года](https://habr.com/ru/news/985402/?utm_campaign=985402&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила библиотеку предупреждений безопасности DLL для Windows](https://habr.com/ru/news/985398/?utm_campaign=985398&utm_source=habrahabr&utm_medium=rss)
 - [Из-за сбоя в работе сети Verizon смартфоны клиентов стали переводиться в режим SOS](https://habr.com/ru/news/985378/?utm_campaign=985378&utm_source=habrahabr&utm_medium=rss)
 - [ISPsystem запустила четвертую программу по поиску уязвимостей на BI.ZONE Bug Bounty](https://habr.com/ru/companies/ispsystem/news/984534/?utm_campaign=984534&utm_source=habrahabr&utm_medium=rss)
-- [Проект Just the Browser удаляет ИИ-опции, отчёты телеметрии, лишний контент и раздражающие элементы из браузеров для ПК](https://habr.com/ru/news/985362/?utm_campaign=985362&utm_source=habrahabr&utm_medium=rss)
-- [Starlink станет доступен всем авиакомпаниям Lufthansa, включая Eurowings, Discover, Brussels Airlines и другие](https://habr.com/ru/news/985360/?utm_campaign=985360&utm_source=habrahabr&utm_medium=rss)
-- [Математик рассказал, как Grok 4.20 за 5 минут нашёл новую функцию Беллмана](https://habr.com/ru/news/985336/?utm_campaign=985336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
