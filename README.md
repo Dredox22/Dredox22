@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за сбоя в работе сети Verizon смартфоны клиентов стали переводиться в режим SOS](https://habr.com/ru/news/985378/?utm_campaign=985378&utm_source=habrahabr&utm_medium=rss)
+- [ISPsystem запустила четвертую программу по поиску уязвимостей на BI.ZONE Bug Bounty](https://habr.com/ru/companies/ispsystem/news/984534/?utm_campaign=984534&utm_source=habrahabr&utm_medium=rss)
 - [Проект Just the Browser удаляет ИИ-опции, отчёты телеметрии, лишний контент и раздражающие элементы из браузеров для ПК](https://habr.com/ru/news/985362/?utm_campaign=985362&utm_source=habrahabr&utm_medium=rss)
 - [Starlink станет доступен всем авиакомпаниям Lufthansa, включая Eurowings, Discover, Brussels Airlines и другие](https://habr.com/ru/news/985360/?utm_campaign=985360&utm_source=habrahabr&utm_medium=rss)
 - [Математик рассказал, как Grok 4.20 за 5 минут нашёл новую функцию Беллмана](https://habr.com/ru/news/985336/?utm_campaign=985336&utm_source=habrahabr&utm_medium=rss)
-- [Объявлен переезд репозитория проекта WhiteMax — модификации Max, приоритетом которой является безопасность](https://habr.com/ru/news/985332/?utm_campaign=985332&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.2 написала браузер за неделю: результаты эксперимента Cursor с агентами](https://habr.com/ru/news/985330/?utm_campaign=985330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
