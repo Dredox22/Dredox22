@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IT-ресурсы киберпреступной организации RedVDS заблокировали](https://habr.com/ru/news/985424/?utm_campaign=985424&utm_source=habrahabr&utm_medium=rss)
+- [DLP «СёрчИнформ КИБ» интегрировалась с архиватором ARZip для контроля передачи защищенных архивов](https://habr.com/ru/companies/searchinform/news/985436/?utm_campaign=985436&utm_source=habrahabr&utm_medium=rss)
+- [UserGate выпустил новую версию WAF 7.5.0 для защиты веб-приложений](https://habr.com/ru/news/985428/?utm_campaign=985428&utm_source=habrahabr&utm_medium=rss)
+- [Суперботнет Kimwolf оказался сайд-проектом AISURU — в скандал вовлечены легальные прокси-провайдеры](https://habr.com/ru/companies/ddosguard/news/985420/?utm_campaign=985420&utm_source=habrahabr&utm_medium=rss)
 - [InfoWatch Traffic Monitor запатентован в ЕАПО](https://habr.com/ru/companies/infowatch/news/985406/?utm_campaign=985406&utm_source=habrahabr&utm_medium=rss)
-- [Проект curl свернёт bug bounty в конце января 2026 года](https://habr.com/ru/news/985402/?utm_campaign=985402&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила библиотеку предупреждений безопасности DLL для Windows](https://habr.com/ru/news/985398/?utm_campaign=985398&utm_source=habrahabr&utm_medium=rss)
-- [Из-за сбоя в работе сети Verizon смартфоны клиентов стали переводиться в режим SOS](https://habr.com/ru/news/985378/?utm_campaign=985378&utm_source=habrahabr&utm_medium=rss)
-- [ISPsystem запустила четвертую программу по поиску уязвимостей на BI.ZONE Bug Bounty](https://habr.com/ru/companies/ispsystem/news/984534/?utm_campaign=984534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
