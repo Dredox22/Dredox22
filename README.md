@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi представила AI HAT+ 2 — модуль для локального запуска генеративных моделей](https://habr.com/ru/news/985642/?utm_campaign=985642&utm_source=habrahabr&utm_medium=rss)
+- [TSMC вложит $56 млрд в производство ИИ-чипов на фоне рекордной прибыли](https://habr.com/ru/news/985640/?utm_campaign=985640&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Половина компаний российского телекома имеет критические уязвимости в IT‑системах»](https://habr.com/ru/news/985632/?utm_campaign=985632&utm_source=habrahabr&utm_medium=rss)
 - [Правительство России создаёт оперативный штаб для борьбы с кибермошенниками](https://habr.com/ru/news/985604/?utm_campaign=985604&utm_source=habrahabr&utm_medium=rss)
 - [Tooltrace — инструмент для генерации ложементов по фото](https://habr.com/ru/news/985550/?utm_campaign=985550&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Миры Мурати потерял двух сооснователей и ведущего исследователя — все трое вернулись в OpenAI](https://habr.com/ru/news/985534/?utm_campaign=985534&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт Positive Technologies помог устранить две уязвимости нулевого дня в файловой системе Windows](https://habr.com/ru/companies/pt/news/985520/?utm_campaign=985520&utm_source=habrahabr&utm_medium=rss)
-- [В России подскочил спрос на дешевые смартфоны для установки MAX](https://habr.com/ru/companies/femida_search/news/985510/?utm_campaign=985510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
