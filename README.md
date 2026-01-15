@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Объявлен о переезде репозитория проекта WhiteMax — модификации Max, приоритетом которой является безопасность](https://habr.com/ru/news/985332/?utm_campaign=985332&utm_source=habrahabr&utm_medium=rss)
+- [Объявлен переезд репозитория проекта WhiteMax — модификации Max, приоритетом которой является безопасность](https://habr.com/ru/news/985332/?utm_campaign=985332&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 написала браузер за неделю: результаты эксперимента Cursor с агентами](https://habr.com/ru/news/985330/?utm_campaign=985330&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выделила $1.5 млн на развитие проекта Python](https://habr.com/ru/news/985234/?utm_campaign=985234&utm_source=habrahabr&utm_medium=rss)
 - [В центре безопасности Мax опровергли сообщения о взломе мессенджера и утечке данных пользователей](https://habr.com/ru/news/985324/?utm_campaign=985324&utm_source=habrahabr&utm_medium=rss)
