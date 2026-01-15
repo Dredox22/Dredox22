@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi представила AI HAT+ 2 — модуль для локального запуска генеративных моделей](https://habr.com/ru/news/985642/?utm_campaign=985642&utm_source=habrahabr&utm_medium=rss)
-- [TSMC вложит $56 млрд в производство ИИ-чипов на фоне рекордной прибыли](https://habr.com/ru/news/985640/?utm_campaign=985640&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Половина компаний российского телекома имеет критические уязвимости в IT‑системах»](https://habr.com/ru/news/985632/?utm_campaign=985632&utm_source=habrahabr&utm_medium=rss)
-- [Правительство России создаёт оперативный штаб для борьбы с кибермошенниками](https://habr.com/ru/news/985604/?utm_campaign=985604&utm_source=habrahabr&utm_medium=rss)
-- [Tooltrace — инструмент для генерации ложементов по фото](https://habr.com/ru/news/985550/?utm_campaign=985550&utm_source=habrahabr&utm_medium=rss)
+- [Как Bugbot в Cursor удвоил число реально исправленных багов](https://habr.com/ru/news/985670/?utm_campaign=985670&utm_source=habrahabr&utm_medium=rss)
+- [ИИ забирает квалифицированную работу, оставляя людям рутину: парадокс исследования Anthropic](https://habr.com/ru/news/985668/?utm_campaign=985668&utm_source=habrahabr&utm_medium=rss)
+- [НТЦ ИТ «Роса» выпустила бета-версию корпоративной ОС «Роса Хром» 13.0](https://habr.com/ru/news/985666/?utm_campaign=985666&utm_source=habrahabr&utm_medium=rss)
+- [Sid Meier&#39;s Civilization VII станет доступна в Apple Arcade по подписке](https://habr.com/ru/news/985664/?utm_campaign=985664&utm_source=habrahabr&utm_medium=rss)
+- [VK и Open Data Science проведут мероприятие «Data Ёлка» одновременно в Москве и Санкт-Петербурге](https://habr.com/ru/news/985658/?utm_campaign=985658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
