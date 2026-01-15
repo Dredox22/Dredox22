@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Объявлен о переезде репозитория проекта WhiteMax — модификации Max, приоритетом которой является безопасность](https://habr.com/ru/news/985332/?utm_campaign=985332&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.2 написала браузер за неделю: результаты эксперимента Cursor с агентами](https://habr.com/ru/news/985330/?utm_campaign=985330&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выделила $1.5 млн на развитие проекта Python](https://habr.com/ru/news/985234/?utm_campaign=985234&utm_source=habrahabr&utm_medium=rss)
 - [В центре безопасности Мax опровергли сообщения о взломе мессенджера и утечке данных пользователей](https://habr.com/ru/news/985324/?utm_campaign=985324&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Mozilla Thunderbird 147.0](https://habr.com/ru/news/985198/?utm_campaign=985198&utm_source=habrahabr&utm_medium=rss)
-- [Крупнейшая энергосеть США усомнилась в ИИ-буме: прогноз снижен на 4 ГВт](https://habr.com/ru/news/985304/?utm_campaign=985304&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GLM-Image: открытая модель создания изображений «промышленного уровня»](https://habr.com/ru/news/985290/?utm_campaign=985290&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предлагает наказывать за отсутствие IMEI-номеров в договорах оказания услуг связи для иностранцев](https://habr.com/ru/news/985278/?utm_campaign=985278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
