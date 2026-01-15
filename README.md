@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап Миры Мурати потерял двух сооснователей и ведущего исследователя — все трое вернулись в OpenAI](https://habr.com/ru/news/985534/?utm_campaign=985534&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт Positive Technologies помог устранить две уязвимости нулевого дня в файловой системе Windows](https://habr.com/ru/companies/pt/news/985520/?utm_campaign=985520&utm_source=habrahabr&utm_medium=rss)
+- [В России подскочил спрос на дешевые смартфоны для установки MAX](https://habr.com/ru/companies/femida_search/news/985510/?utm_campaign=985510&utm_source=habrahabr&utm_medium=rss)
 - [Таможенная служба КНР напомнила, что американские ИИ-чипы Nvidia H200 запрещены к ввозу в Китай](https://habr.com/ru/news/985480/?utm_campaign=985480&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT начнет отвечать быстрее: OpenAI купила вычислительные мощности у Cerebras](https://habr.com/ru/news/985462/?utm_campaign=985462&utm_source=habrahabr&utm_medium=rss)
-- [IT-ресурсы киберпреступной организации RedVDS заблокировали](https://habr.com/ru/news/985424/?utm_campaign=985424&utm_source=habrahabr&utm_medium=rss)
-- [DLP «СёрчИнформ КИБ» интегрировалась с архиватором ARZip для контроля передачи защищенных архивов](https://habr.com/ru/companies/searchinform/news/985436/?utm_campaign=985436&utm_source=habrahabr&utm_medium=rss)
-- [UserGate выпустил новую версию WAF 7.5.0 для защиты веб-приложений](https://habr.com/ru/news/985428/?utm_campaign=985428&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
