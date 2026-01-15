@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tooltrace — инструмент для генерации ложементов по фото](https://habr.com/ru/news/985550/?utm_campaign=985550&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Миры Мурати потерял двух сооснователей и ведущего исследователя — все трое вернулись в OpenAI](https://habr.com/ru/news/985534/?utm_campaign=985534&utm_source=habrahabr&utm_medium=rss)
 - [Эксперт Positive Technologies помог устранить две уязвимости нулевого дня в файловой системе Windows](https://habr.com/ru/companies/pt/news/985520/?utm_campaign=985520&utm_source=habrahabr&utm_medium=rss)
 - [В России подскочил спрос на дешевые смартфоны для установки MAX](https://habr.com/ru/companies/femida_search/news/985510/?utm_campaign=985510&utm_source=habrahabr&utm_medium=rss)
 - [Таможенная служба КНР напомнила, что американские ИИ-чипы Nvidia H200 запрещены к ввозу в Китай](https://habr.com/ru/news/985480/?utm_campaign=985480&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT начнет отвечать быстрее: OpenAI купила вычислительные мощности у Cerebras](https://habr.com/ru/news/985462/?utm_campaign=985462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
