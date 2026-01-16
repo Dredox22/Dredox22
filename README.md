@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 отказался работать, Gemini назвал жалобу «необоснованной»: авторы Ubuntu протестировали ИИ на своей документации](https://habr.com/ru/news/985814/?utm_campaign=985814&utm_source=habrahabr&utm_medium=rss)
 - [Качественный перевод прямо на смартфоне: вышла Google TranslateGemma](https://habr.com/ru/news/985808/?utm_campaign=985808&utm_source=habrahabr&utm_medium=rss)
 - [Samsung открыла доступ к браузеру Internet в Windows для всех пользователей](https://habr.com/ru/news/985780/?utm_campaign=985780&utm_source=habrahabr&utm_medium=rss)
 - [Google подтвердила наличие ошибки в Android, связанной с регулировкой громкости](https://habr.com/ru/news/985316/?utm_campaign=985316&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появилась поддержка расширенного поиска по истории чатов](https://habr.com/ru/news/985772/?utm_campaign=985772&utm_source=habrahabr&utm_medium=rss)
-- [Вредонос Gootloader стал использовать ZIP-архивы из 1000 элементов](https://habr.com/ru/news/985768/?utm_campaign=985768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
