@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Tails 7.4](https://habr.com/ru/news/985536/?utm_campaign=985536&utm_source=habrahabr&utm_medium=rss)
 - [Представлен сетевой монитор NetSpeedTray для Windows 10/11 с открытым исходным кодом](https://habr.com/ru/news/985280/?utm_campaign=985280&utm_source=habrahabr&utm_medium=rss)
 - [Вышел загрузчик GRUB 2.14 с поддержкой EROFS и Shim Loader Protocol](https://habr.com/ru/news/985386/?utm_campaign=985386&utm_source=habrahabr&utm_medium=rss)
 - [В Google Drive стало возможным редактировать защищённые паролем файлы MS Office](https://habr.com/ru/news/985684/?utm_campaign=985684&utm_source=habrahabr&utm_medium=rss)
 - [Как Bugbot в Cursor удвоил число реально исправленных багов](https://habr.com/ru/news/985670/?utm_campaign=985670&utm_source=habrahabr&utm_medium=rss)
-- [ИИ забирает квалифицированную работу, оставляя людям рутину: парадокс исследования Anthropic](https://habr.com/ru/news/985668/?utm_campaign=985668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
