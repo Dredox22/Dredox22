@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен сетевой монитор NetSpeedTray для Windows 10/11 с открытым исходным кодом](https://habr.com/ru/news/985280/?utm_campaign=985280&utm_source=habrahabr&utm_medium=rss)
+- [Вышел загрузчик GRUB 2.14 с поддержкой EROFS и Shim Loader Protocol](https://habr.com/ru/news/985386/?utm_campaign=985386&utm_source=habrahabr&utm_medium=rss)
 - [В Google Drive стало возможным редактировать защищённые паролем файлы MS Office](https://habr.com/ru/news/985684/?utm_campaign=985684&utm_source=habrahabr&utm_medium=rss)
 - [Как Bugbot в Cursor удвоил число реально исправленных багов](https://habr.com/ru/news/985670/?utm_campaign=985670&utm_source=habrahabr&utm_medium=rss)
 - [ИИ забирает квалифицированную работу, оставляя людям рутину: парадокс исследования Anthropic](https://habr.com/ru/news/985668/?utm_campaign=985668&utm_source=habrahabr&utm_medium=rss)
-- [НТЦ ИТ «Роса» выпустила бета-версию корпоративной ОС «Роса Хром» 13.0](https://habr.com/ru/news/985666/?utm_campaign=985666&utm_source=habrahabr&utm_medium=rss)
-- [Sid Meier&#39;s Civilization VII станет доступна в Apple Arcade по подписке](https://habr.com/ru/news/985664/?utm_campaign=985664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
