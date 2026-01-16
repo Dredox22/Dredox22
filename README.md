@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман запускает конкурента Neuralink с безоперационным интерфейсом мозг–компьютер](https://habr.com/ru/companies/bothub/news/985982/?utm_campaign=985982&utm_source=habrahabr&utm_medium=rss)
 - [«Будет расплата, и выживут сильнейшие»: Демис Хассабис сравнил ИИ-рынок с пузырем доткомов](https://habr.com/ru/news/985972/?utm_campaign=985972&utm_source=habrahabr&utm_medium=rss)
 - [GLM-Image выложили в открытый доступ. Хороший китайский, транслит вместо кириллицы](https://habr.com/ru/news/985948/?utm_campaign=985948&utm_source=habrahabr&utm_medium=rss)
 - [Google представила TranslateGemma, открытую модель для перевода на десятки языков](https://habr.com/ru/companies/bothub/news/985946/?utm_campaign=985946&utm_source=habrahabr&utm_medium=rss)
 - [$9 млрд и 150 000 клиентов: Replit подорожал втрое на волне вайб-кодинга](https://habr.com/ru/news/985908/?utm_campaign=985908&utm_source=habrahabr&utm_medium=rss)
-- [ГК InfoWatch и РЭУ им. Г.В. Плеханова заключили соглашение о сотрудничестве](https://habr.com/ru/companies/infowatch/news/985906/?utm_campaign=985906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
