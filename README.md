@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Депутат Госдумы заявили об отсутствии полной блокировки, но в СМИ утверждают, что РКН частично блокирует Telegram](https://habr.com/ru/news/985852/?utm_campaign=985852&utm_source=habrahabr&utm_medium=rss)
-- [Новый владелец GOG назвал Windows «невероятно некачественными программными продуктами»](https://habr.com/ru/news/985836/?utm_campaign=985836&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5 отказался работать, Gemini назвал жалобу «необоснованной»: авторы Ubuntu протестировали ИИ на своей документации](https://habr.com/ru/news/985814/?utm_campaign=985814&utm_source=habrahabr&utm_medium=rss)
-- [Качественный перевод прямо на смартфоне: вышла Google TranslateGemma](https://habr.com/ru/news/985808/?utm_campaign=985808&utm_source=habrahabr&utm_medium=rss)
-- [Samsung открыла доступ к браузеру Internet в Windows для всех пользователей](https://habr.com/ru/news/985780/?utm_campaign=985780&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft, Meta*, Amazon, Perplexity и Mistral AI наряду с Google будут платить «Викимедиа» за доступ к «Википедии»](https://habr.com/ru/news/985886/?utm_campaign=985886&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI тихо запустила ChatGPT Translate](https://habr.com/ru/companies/bothub/news/985884/?utm_campaign=985884&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA и Basecamp Research научили ИИ переписывать ДНК](https://habr.com/ru/companies/bothub/news/985878/?utm_campaign=985878&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер», «Союзмультфильм» и «Школа 21» объявили о запуске Всероссийского конкурса анимации «Ну, ИИ, погоди!»](https://habr.com/ru/news/985876/?utm_campaign=985876&utm_source=habrahabr&utm_medium=rss)
+- [Депутат Госдумы заявил об отсутствии полной блокировки, но в СМИ утверждают, что РКН частично блокирует Telegram](https://habr.com/ru/news/985852/?utm_campaign=985852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
