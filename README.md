@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компании РЕД СОФТ и EvaTeam подтвердили совместимость продуктов](https://habr.com/ru/companies/evateam/news/985760/?utm_campaign=985760&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь взломал почту гендиректора компании с помощью одного звонка и дипфейка его голоса](https://habr.com/ru/news/985742/?utm_campaign=985742&utm_source=habrahabr&utm_medium=rss)
 - [Магазин приложений Setapp для iOS закроется 16 февраля 2026 года](https://habr.com/ru/news/985744/?utm_campaign=985744&utm_source=habrahabr&utm_medium=rss)
 - [Verizon объяснила глобальный сбой в работе беспроводной связи проблемой с софтом](https://habr.com/ru/news/985740/?utm_campaign=985740&utm_source=habrahabr&utm_medium=rss)
 - [Windows Vista фактически вышла из списка рабочих ОС, поскольку поддержка Windows Server 2008 прекращена окончательно](https://habr.com/ru/news/985738/?utm_campaign=985738&utm_source=habrahabr&utm_medium=rss)
-- [Higgsfield привлек $130 млн и стал единорогом на волне AI-генерации видео](https://habr.com/ru/companies/bothub/news/985726/?utm_campaign=985726&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
