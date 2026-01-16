@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [$9 млрд и 150 000 клиентов: Replit подорожал втрое на волне вайб-кодинга](https://habr.com/ru/news/985908/?utm_campaign=985908&utm_source=habrahabr&utm_medium=rss)
+- [ГК InfoWatch и РЭУ им. Г.В. Плеханова заключили соглашение о сотрудничестве](https://habr.com/ru/companies/infowatch/news/985906/?utm_campaign=985906&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, Meta*, Amazon, Perplexity и Mistral AI наряду с Google будут платить «Викимедиа» за доступ к «Википедии»](https://habr.com/ru/news/985886/?utm_campaign=985886&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI тихо запустила ChatGPT Translate](https://habr.com/ru/companies/bothub/news/985884/?utm_campaign=985884&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA и Basecamp Research научили ИИ переписывать ДНК](https://habr.com/ru/companies/bothub/news/985878/?utm_campaign=985878&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер», «Союзмультфильм» и «Школа 21» объявили о запуске Всероссийского конкурса анимации «Ну, ИИ, погоди!»](https://habr.com/ru/news/985876/?utm_campaign=985876&utm_source=habrahabr&utm_medium=rss)
-- [Депутат Госдумы заявил об отсутствии полной блокировки, но в СМИ утверждают, что РКН частично блокирует Telegram](https://habr.com/ru/news/985852/?utm_campaign=985852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
