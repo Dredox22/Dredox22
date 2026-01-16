@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователь взломал почту гендиректора компании с помощью одного звонка и дипфейка его голоса](https://habr.com/ru/news/985742/?utm_campaign=985742&utm_source=habrahabr&utm_medium=rss)
+- [Магазин приложений Setapp для iOS закроется 16 февраля 2026 года](https://habr.com/ru/news/985744/?utm_campaign=985744&utm_source=habrahabr&utm_medium=rss)
+- [Verizon объяснила глобальный сбой в работе беспроводной связи проблемой с софтом](https://habr.com/ru/news/985740/?utm_campaign=985740&utm_source=habrahabr&utm_medium=rss)
+- [Windows Vista фактически вышла из списка рабочих ОС, поскольку поддержка Windows Server 2008 прекращена окончательно](https://habr.com/ru/news/985738/?utm_campaign=985738&utm_source=habrahabr&utm_medium=rss)
 - [Higgsfield привлек $130 млн и стал единорогом на волне AI-генерации видео](https://habr.com/ru/companies/bothub/news/985726/?utm_campaign=985726&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор США запретил GM продавать данные о местоположении водителей машин производителя в течение пяти лет](https://habr.com/ru/news/985724/?utm_campaign=985724&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Альтмана подключит мозг к ChatGPT без хирургии. Инвесторы — OpenAI и Гейб Ньюэлл](https://habr.com/ru/news/985716/?utm_campaign=985716&utm_source=habrahabr&utm_medium=rss)
-- [ASUS показал мини-ПК с отдельной кнопкой для запуска Copilot](https://habr.com/ru/companies/bothub/news/985710/?utm_campaign=985710&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.4](https://habr.com/ru/news/985536/?utm_campaign=985536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
