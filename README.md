@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Higgsfield привлек $130 млн и стал единорогом на волне AI-генерации видео](https://habr.com/ru/companies/bothub/news/985726/?utm_campaign=985726&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор США запретил GM продавать данные о местоположении водителей машин производителя в течение пяти лет](https://habr.com/ru/news/985724/?utm_campaign=985724&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Альтмана подключит мозг к ChatGPT без хирургии. Инвесторы — OpenAI и Гейб Ньюэлл](https://habr.com/ru/news/985716/?utm_campaign=985716&utm_source=habrahabr&utm_medium=rss)
 - [ASUS показал мини-ПК с отдельной кнопкой для запуска Copilot](https://habr.com/ru/companies/bothub/news/985710/?utm_campaign=985710&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tails 7.4](https://habr.com/ru/news/985536/?utm_campaign=985536&utm_source=habrahabr&utm_medium=rss)
-- [Представлен сетевой монитор NetSpeedTray для Windows 10/11 с открытым исходным кодом](https://habr.com/ru/news/985280/?utm_campaign=985280&utm_source=habrahabr&utm_medium=rss)
-- [Вышел загрузчик GRUB 2.14 с поддержкой EROFS и Shim Loader Protocol](https://habr.com/ru/news/985386/?utm_campaign=985386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
