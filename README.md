@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап Replit представил ИИ-инструмент, который пишет готовые приложения для iPhone по текстовому запросу](https://habr.com/ru/companies/bothub/news/986092/?utm_campaign=986092&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: некоторые ПК с Windows 11 могут переходить в спящий режим после последних обновлений](https://habr.com/ru/news/986072/?utm_campaign=986072&utm_source=habrahabr&utm_medium=rss)
 - [Verizon раздаёт клиентам по $20 за отключение беспроводной связи в США](https://habr.com/ru/news/986084/?utm_campaign=986084&utm_source=habrahabr&utm_medium=rss)
 - [В Cisco поиском сотрудников на связанные с ИИ позиции занялся топ-менеджмент](https://habr.com/ru/news/986068/?utm_campaign=986068&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare приобрела команду разработчиков фреймворка Astro с открытым исходным кодом](https://habr.com/ru/news/986026/?utm_campaign=986026&utm_source=habrahabr&utm_medium=rss)
-- [Релиз платформы совместной разработки Forgejo v14.0](https://habr.com/ru/news/985758/?utm_campaign=985758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
