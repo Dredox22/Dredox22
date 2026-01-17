@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз платформы совместной разработки Forgejo v14.0](https://habr.com/ru/news/985758/?utm_campaign=985758&utm_source=habrahabr&utm_medium=rss)
 - [Появилась возможность запускать Debian GNU/Linux на маршрутизаторе с открытым исходным кодом OpenWRT One](https://habr.com/ru/news/985750/?utm_campaign=985750&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI официально запускает рекламу в ChatGPT — но «ответы останутся независимыми»](https://habr.com/ru/news/985996/?utm_campaign=985996&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор опроверг введение новых мер по блокировке Telegram в России](https://habr.com/ru/news/985994/?utm_campaign=985994&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман запускает конкурента Neuralink с безоперационным интерфейсом мозг–компьютер](https://habr.com/ru/companies/bothub/news/985982/?utm_campaign=985982&utm_source=habrahabr&utm_medium=rss)
-- [«Будет расплата, и выживут сильнейшие»: Демис Хассабис сравнил ИИ-рынок с пузырем доткомов](https://habr.com/ru/news/985972/?utm_campaign=985972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
