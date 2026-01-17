@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI запускает подписку ChatGPT Go за $8](https://habr.com/ru/news/986060/?utm_campaign=986060&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare приобрела команду разработчиков фреймворка Astro с открытым исходным кодом](https://habr.com/ru/news/986026/?utm_campaign=986026&utm_source=habrahabr&utm_medium=rss)
 - [Релиз платформы совместной разработки Forgejo v14.0](https://habr.com/ru/news/985758/?utm_campaign=985758&utm_source=habrahabr&utm_medium=rss)
 - [Появилась возможность запускать Debian GNU/Linux на маршрутизаторе с открытым исходным кодом OpenWRT One](https://habr.com/ru/news/985750/?utm_campaign=985750&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI официально запускает рекламу в ChatGPT — но «ответы останутся независимыми»](https://habr.com/ru/news/985996/?utm_campaign=985996&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор опроверг введение новых мер по блокировке Telegram в России](https://habr.com/ru/news/985994/?utm_campaign=985994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
