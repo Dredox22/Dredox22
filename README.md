@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-кластер xAI Colossus 2 потребляет 1 ГВт энергии — больше, чем Сан-Франциско](https://habr.com/ru/news/986156/?utm_campaign=986156&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-кластер xAI Colossus 2 потребляет 1 ГВт мощности — больше, чем Сан-Франциско](https://habr.com/ru/news/986156/?utm_campaign=986156&utm_source=habrahabr&utm_medium=rss)
 - [Легковесный проект Winslop для удаления ненужного системного мусора в Windows 11 стал ещё легче в версии Drop 3](https://habr.com/ru/news/986152/?utm_campaign=986152&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code теперь можно запускать с локальными open-source моделями](https://habr.com/ru/news/986124/?utm_campaign=986124&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.5 возглавил рейтинг ИИ-программистов SWE-rebench с результатом 63%](https://habr.com/ru/news/986114/?utm_campaign=986114&utm_source=habrahabr&utm_medium=rss)
