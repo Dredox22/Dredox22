@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft объяснила «утяжеление» Windows 11 25H2 из-за апдейта системы безопасности](https://habr.com/ru/news/986256/?utm_campaign=986256&utm_source=habrahabr&utm_medium=rss)
 - [Cloudflare купила разработчика преобразователя неструктурированных данных Human Native](https://habr.com/ru/news/986252/?utm_campaign=986252&utm_source=habrahabr&utm_medium=rss)
 - [«20 минут вместо месяцев»: как ИИ Claude меняет работу ученых](https://habr.com/ru/news/986254/?utm_campaign=986254&utm_source=habrahabr&utm_medium=rss)
 - [Функция «Создать таблицу» в блокноте Windows 11 стала доступна для всех пользователей Windows 11](https://habr.com/ru/news/986244/?utm_campaign=986244&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram ответили на проблему, что мобильные приложения Telegram могут раскрыть IP-адрес через прокси-ссылки](https://habr.com/ru/news/986208/?utm_campaign=986208&utm_source=habrahabr&utm_medium=rss)
-- [Let&#39;s Encrypt начал выдавать для IP-адресов и 6-дневные сертификаты &lpar;на 160 часов&rpar;](https://habr.com/ru/news/986126/?utm_campaign=986126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
