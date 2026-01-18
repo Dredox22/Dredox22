@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare купила разработчика преобразователя неструктурированных данных Human Native](https://habr.com/ru/news/986252/?utm_campaign=986252&utm_source=habrahabr&utm_medium=rss)
+- [«20 минут вместо месяцев»: как ИИ Claude меняет работу ученых](https://habr.com/ru/news/986254/?utm_campaign=986254&utm_source=habrahabr&utm_medium=rss)
+- [Функция «Создать таблицу» в блокноте Windows 11 стала доступна для всех пользователей Windows 11](https://habr.com/ru/news/986244/?utm_campaign=986244&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram ответили на проблему, что мобильные приложения Telegram могут раскрыть IP-адрес через прокси-ссылки](https://habr.com/ru/news/986208/?utm_campaign=986208&utm_source=habrahabr&utm_medium=rss)
-- [SoftBank вложил $1.4 млрд в «универсальный мозг для роботов» — оценка Skild AI достигла $14 млрд](https://habr.com/ru/news/986198/?utm_campaign=986198&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-кластер xAI Colossus 2 потребляет 1 ГВт мощности — больше, чем Сан-Франциско](https://habr.com/ru/news/986156/?utm_campaign=986156&utm_source=habrahabr&utm_medium=rss)
-- [Легковесный проект Winslop для удаления ненужного системного мусора в Windows 11 стал ещё легче в версии Drop 3](https://habr.com/ru/news/986152/?utm_campaign=986152&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code теперь можно запускать с локальными open-source моделями](https://habr.com/ru/news/986124/?utm_campaign=986124&utm_source=habrahabr&utm_medium=rss)
+- [Let&#39;s Encrypt начал выдавать для IP-адресов и 6-дневные сертификаты &lpar;на 160 часов&rpar;](https://habr.com/ru/news/986126/?utm_campaign=986126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
