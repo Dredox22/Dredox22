@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Багхантерам организации выплатили 100 млн рублей через платформу BI.ZONE Bug Bounty в 2025 году](https://habr.com/ru/news/986328/?utm_campaign=986328&utm_source=habrahabr&utm_medium=rss)
+- [BFL представили новый FLUX.2 Klein для генерации и редактирования изображений](https://habr.com/ru/companies/bothub/news/986326/?utm_campaign=986326&utm_source=habrahabr&utm_medium=rss)
 - [100 метрик в секунду: как Claude Code стал менеджером виртуального парка](https://habr.com/ru/news/986288/?utm_campaign=986288&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики запустили открытое бета-тестирование площадки Digg](https://habr.com/ru/news/986272/?utm_campaign=986272&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объяснила «утяжеление» Windows 11 25H2 из-за апдейта системы безопасности](https://habr.com/ru/news/986256/?utm_campaign=986256&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare купила разработчика преобразователя неструктурированных данных Human Native](https://habr.com/ru/news/986252/?utm_campaign=986252&utm_source=habrahabr&utm_medium=rss)
-- [«20 минут вместо месяцев»: как ИИ Claude меняет работу ученых](https://habr.com/ru/news/986254/?utm_campaign=986254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
