@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [МВД РФ предлагает водительские права разрешать предъявлять в цифровом виде через Max](https://habr.com/ru/news/986398/?utm_campaign=986398&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic хотела $10 млрд, а получит $25 млрд благодаря инвестициям Sequoia](https://habr.com/ru/news/986396/?utm_campaign=986396&utm_source=habrahabr&utm_medium=rss)
 - [Юристы рассказали о расширении применения статьи УК против владельцев ботов для пробива данных в мессенджерах](https://habr.com/ru/news/986372/?utm_campaign=986372&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 Pro нашел новое решение задачи Эрдёша — хотя старое существовало с 1936 года](https://habr.com/ru/news/986368/?utm_campaign=986368&utm_source=habrahabr&utm_medium=rss)
 - [Международная группа учёных создала компактную антенну для подводной связи](https://habr.com/ru/news/986342/?utm_campaign=986342&utm_source=habrahabr&utm_medium=rss)
-- [Багхантерам организации выплатили 100 млн рублей через платформу BI.ZONE Bug Bounty в 2025 году](https://habr.com/ru/news/986328/?utm_campaign=986328&utm_source=habrahabr&utm_medium=rss)
-- [BFL представили новый FLUX.2 Klein для генерации и редактирования изображений](https://habr.com/ru/companies/bothub/news/986326/?utm_campaign=986326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
