@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google потерял миллион ИИ-чипов из-за Nvidia: война за мощности TSMC](https://habr.com/ru/news/986650/?utm_campaign=986650&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытой утилиты для мониторинга GPU и аппаратных ускорителей nvtop 3.3.0](https://habr.com/ru/news/986262/?utm_campaign=986262&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разрешит использовать .webp в качестве фона рабочего стола Windows 11](https://habr.com/ru/news/986606/?utm_campaign=986606&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows 11 привело к зависанию Outlook для пользователей протокола POP](https://habr.com/ru/news/986594/?utm_campaign=986594&utm_source=habrahabr&utm_medium=rss)
 - [Автор curl рассказал о вкладе 20 000 коммитов](https://habr.com/ru/news/986588/?utm_campaign=986588&utm_source=habrahabr&utm_medium=rss)
-- [A$AP Rocky выпустил клип Helicopter с применением Dynamic Gaussian Splatting](https://habr.com/ru/news/986574/?utm_campaign=986574&utm_source=habrahabr&utm_medium=rss)
-- [2500 репозиториев, 5 принципов: гайд инженера Google по AI-агентам](https://habr.com/ru/news/986568/?utm_campaign=986568&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack v0.39: Единое управление и телеметрия](https://habr.com/ru/companies/aenix/news/986562/?utm_campaign=986562&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
