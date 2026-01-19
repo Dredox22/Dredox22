@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [VoidLink — вредонос, нацеленный на облачные инстансы Linux](https://habr.com/ru/news/986538/?utm_campaign=986538&utm_source=habrahabr&utm_medium=rss)
-- [PGMeetup: организация защиты данных в Postgres Pro — бесплатный вебинар по информационной безопасности](https://habr.com/ru/companies/postgrespro/news/986536/?utm_campaign=986536&utm_source=habrahabr&utm_medium=rss)
-- [ФАС потребовал от застройщика ПИК обеспечить «недискриминационный доступ провайдеров» к инфраструктуре жилых комплексов](https://habr.com/ru/news/986530/?utm_campaign=986530&utm_source=habrahabr&utm_medium=rss)
-- [Представлено устройство Ningtendo PXBOX 5, объединившее в одном корпусе PlayStation 5, Xbox Series X и Nintendo Switch 2](https://habr.com/ru/news/986528/?utm_campaign=986528&utm_source=habrahabr&utm_medium=rss)
-- [Новые возможности Tracer от VK: телеметрия, поддержка серверных языков и интеграция с Jira](https://habr.com/ru/companies/vk/news/986522/?utm_campaign=986522&utm_source=habrahabr&utm_medium=rss)
+- [A$AP Rocky выпустил клип Helicopter с применением Dynamic Gaussian Splatting](https://habr.com/ru/news/986574/?utm_campaign=986574&utm_source=habrahabr&utm_medium=rss)
+- [2500 репозиториев, 5 принципов: гайд инженера Google по AI-агентам](https://habr.com/ru/news/986568/?utm_campaign=986568&utm_source=habrahabr&utm_medium=rss)
+- [Cozystack v0.39: Единое управление и телеметрия](https://habr.com/ru/companies/aenix/news/986562/?utm_campaign=986562&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появилась возможность делиться геопозицией с близкими](https://habr.com/ru/news/986554/?utm_campaign=986554&utm_source=habrahabr&utm_medium=rss)
+- [Positive Education создал тренажер для комплексного обучения специалистов по ИБ](https://habr.com/ru/companies/pt/news/986552/?utm_campaign=986552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
