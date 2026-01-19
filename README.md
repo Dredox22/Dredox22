@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Академия “ГлоуБайт” запустила два новых курса по работе с большими языковыми моделями](https://habr.com/ru/companies/glowbyte/news/986592/?utm_campaign=986592&utm_source=habrahabr&utm_medium=rss)
+- [Европейский DeepSeek: ЕС ускоряет разработку своих языковых моделей](https://habr.com/ru/companies/bothub/news/986692/?utm_campaign=986692&utm_source=habrahabr&utm_medium=rss)
+- [Юзер насчитал 16 интеграций Copilot в инфраструктуре проектов Microsoft](https://habr.com/ru/news/986670/?utm_campaign=986670&utm_source=habrahabr&utm_medium=rss)
 - [Вышла EndeavourOS Ganymede Neo с ядром Linux 6.18 LTS и KDE Plasma 6.5.4](https://habr.com/ru/news/986668/?utm_campaign=986668&utm_source=habrahabr&utm_medium=rss)
 - [Google потерял миллион ИИ-чипов из-за Nvidia: война за мощности TSMC](https://habr.com/ru/news/986650/?utm_campaign=986650&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытой утилиты для мониторинга GPU и аппаратных ускорителей nvtop 3.3.0](https://habr.com/ru/news/986262/?utm_campaign=986262&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрешит использовать .webp в качестве фона рабочего стола Windows 11](https://habr.com/ru/news/986606/?utm_campaign=986606&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Windows 11 привело к зависанию Outlook для пользователей протокола POP](https://habr.com/ru/news/986594/?utm_campaign=986594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
