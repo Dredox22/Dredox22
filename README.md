@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Похоже, GPT-5.3 уже на подходе — и это может быть один из самых серьёзных апдейтов OpenAI за долгое время](https://habr.com/ru/news/986716/?utm_campaign=986716&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic тестирует базы знаний для Claude Cowork](https://habr.com/ru/companies/bothub/news/986712/?utm_campaign=986712&utm_source=habrahabr&utm_medium=rss)
+- [Банк России опроверг информацию о миллионах блокировок карт и счетов физлиц с начала года](https://habr.com/ru/news/986708/?utm_campaign=986708&utm_source=habrahabr&utm_medium=rss)
 - [Академия “ГлоуБайт” запустила два новых курса по работе с большими языковыми моделями](https://habr.com/ru/companies/glowbyte/news/986592/?utm_campaign=986592&utm_source=habrahabr&utm_medium=rss)
 - [Европейский DeepSeek: ЕС ускоряет разработку своих языковых моделей](https://habr.com/ru/companies/bothub/news/986692/?utm_campaign=986692&utm_source=habrahabr&utm_medium=rss)
-- [Юзер насчитал 16 интеграций Copilot в инфраструктуре проектов Microsoft](https://habr.com/ru/news/986670/?utm_campaign=986670&utm_source=habrahabr&utm_medium=rss)
-- [Вышла EndeavourOS Ganymede Neo с ядром Linux 6.18 LTS и KDE Plasma 6.5.4](https://habr.com/ru/news/986668/?utm_campaign=986668&utm_source=habrahabr&utm_medium=rss)
-- [Google потерял миллион ИИ-чипов из-за Nvidia: война за мощности TSMC](https://habr.com/ru/news/986650/?utm_campaign=986650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
