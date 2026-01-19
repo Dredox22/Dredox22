@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Microsoft Edge 144](https://habr.com/ru/news/986356/?utm_campaign=986356&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: с начала года банки РФ заблокировали миллионы карт и счетов физлиц в рамках выявления мошеннических операций](https://habr.com/ru/news/986436/?utm_campaign=986436&utm_source=habrahabr&utm_medium=rss)
+- [Демис Хассабис сравнил ИИ-подходы США и Китая: «Изобрести в 100 раз сложнее, чем скопировать»](https://habr.com/ru/news/986434/?utm_campaign=986434&utm_source=habrahabr&utm_medium=rss)
 - [Forbes: РКН планирует использовать ИИ для блокировки VPN и интернет-трафика, на проект заложено 2,3 млрд рублей](https://habr.com/ru/news/986420/?utm_campaign=986420&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект ChaosBSD — форк FreeBSD для тестирования драйверов](https://habr.com/ru/news/986268/?utm_campaign=986268&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск JavaScript-библиотеки jQuery 4.0](https://habr.com/ru/news/986332/?utm_campaign=986332&utm_source=habrahabr&utm_medium=rss)
-- [МВД РФ предлагает водительские права разрешать предъявлять в цифровом виде через Max](https://habr.com/ru/news/986398/?utm_campaign=986398&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic хотела $10 млрд, а получит $25 млрд благодаря инвестициям Sequoia](https://habr.com/ru/news/986396/?utm_campaign=986396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
