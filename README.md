@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Windows 11 привело к зависанию Outlook для пользователей протокола POP](https://habr.com/ru/news/986594/?utm_campaign=986594&utm_source=habrahabr&utm_medium=rss)
+- [Автор curl рассказал о вкладе 20 000 коммитов](https://habr.com/ru/news/986588/?utm_campaign=986588&utm_source=habrahabr&utm_medium=rss)
 - [A$AP Rocky выпустил клип Helicopter с применением Dynamic Gaussian Splatting](https://habr.com/ru/news/986574/?utm_campaign=986574&utm_source=habrahabr&utm_medium=rss)
 - [2500 репозиториев, 5 принципов: гайд инженера Google по AI-агентам](https://habr.com/ru/news/986568/?utm_campaign=986568&utm_source=habrahabr&utm_medium=rss)
 - [Cozystack v0.39: Единое управление и телеметрия](https://habr.com/ru/companies/aenix/news/986562/?utm_campaign=986562&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появилась возможность делиться геопозицией с близкими](https://habr.com/ru/news/986554/?utm_campaign=986554&utm_source=habrahabr&utm_medium=rss)
-- [Positive Education создал тренажер для комплексного обучения специалистов по ИБ](https://habr.com/ru/companies/pt/news/986552/?utm_campaign=986552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
