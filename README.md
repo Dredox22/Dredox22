@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Теперь Manus⚹ берет на себя упаковку и загрузку ваших приложений в Google Play и App Store](https://habr.com/ru/companies/bothub/news/986778/?utm_campaign=986778&utm_source=habrahabr&utm_medium=rss)
 - [Всероссийский конкурс фантастических рассказов для школьников «Творя грядущее, вдохновляясь прошлым» продолжается](https://habr.com/ru/news/986724/?utm_campaign=986724&utm_source=habrahabr&utm_medium=rss)
 - [Valve изменила раздел об ИИ в форме для разработчиков в Steam и уточнила правила маркировки игр](https://habr.com/ru/news/986736/?utm_campaign=986736&utm_source=habrahabr&utm_medium=rss)
 - [Похоже, GPT-5.3 уже на подходе — и это может быть один из самых серьёзных апдейтов OpenAI за долгое время](https://habr.com/ru/news/986716/?utm_campaign=986716&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic тестирует базы знаний для Claude Cowork](https://habr.com/ru/companies/bothub/news/986712/?utm_campaign=986712&utm_source=habrahabr&utm_medium=rss)
-- [Банк России опроверг информацию о миллионах блокировок карт и счетов физлиц с начала года](https://habr.com/ru/news/986708/?utm_campaign=986708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
