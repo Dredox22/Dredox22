@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [FCC разрешила Verizon блокировать телефоны в своей сети на периоды больше 60 дней](https://habr.com/ru/news/986486/?utm_campaign=986486&utm_source=habrahabr&utm_medium=rss)
+- [«Claude Opus 4.5 написал весь код»: создатель Redis сделал inference-движок для FLUX за выходные](https://habr.com/ru/news/986490/?utm_campaign=986490&utm_source=habrahabr&utm_medium=rss)
+- [1X представила новую модель искусственного интеллекта, которая поможет роботам быстрее усваивать новые навыки](https://habr.com/ru/news/986478/?utm_campaign=986478&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 144](https://habr.com/ru/news/986356/?utm_campaign=986356&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: с начала года банки РФ заблокировали миллионы карт и счетов физлиц в рамках выявления мошеннических операций](https://habr.com/ru/news/986436/?utm_campaign=986436&utm_source=habrahabr&utm_medium=rss)
-- [Демис Хассабис сравнил ИИ-подходы США и Китая: «Изобрести в 100 раз сложнее, чем скопировать»](https://habr.com/ru/news/986434/?utm_campaign=986434&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: РКН планирует использовать ИИ для блокировки VPN и интернет-трафика, на проект заложено 2,3 млрд рублей](https://habr.com/ru/news/986420/?utm_campaign=986420&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект ChaosBSD — форк FreeBSD для тестирования драйверов](https://habr.com/ru/news/986268/?utm_campaign=986268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
