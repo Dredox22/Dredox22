@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC разрешила Verizon блокировать телефоны в своей сети на периоды больше 60 дней](https://habr.com/ru/news/986486/?utm_campaign=986486&utm_source=habrahabr&utm_medium=rss)
-- [«Claude Opus 4.5 написал весь код»: создатель Redis сделал inference-движок для FLUX за выходные](https://habr.com/ru/news/986490/?utm_campaign=986490&utm_source=habrahabr&utm_medium=rss)
-- [1X представила новую модель искусственного интеллекта, которая поможет роботам быстрее усваивать новые навыки](https://habr.com/ru/news/986478/?utm_campaign=986478&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Microsoft Edge 144](https://habr.com/ru/news/986356/?utm_campaign=986356&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: с начала года банки РФ заблокировали миллионы карт и счетов физлиц в рамках выявления мошеннических операций](https://habr.com/ru/news/986436/?utm_campaign=986436&utm_source=habrahabr&utm_medium=rss)
+- [VoidLink — вредонос, нацеленный на облачные инстансы Linux](https://habr.com/ru/news/986538/?utm_campaign=986538&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup: организация защиты данных в Postgres Pro — бесплатный вебинар по информационной безопасности](https://habr.com/ru/companies/postgrespro/news/986536/?utm_campaign=986536&utm_source=habrahabr&utm_medium=rss)
+- [ФАС потребовал от застройщика ПИК обеспечить «недискриминационный доступ провайдеров» к инфраструктуре жилых комплексов](https://habr.com/ru/news/986530/?utm_campaign=986530&utm_source=habrahabr&utm_medium=rss)
+- [Представлено устройство Ningtendo PXBOX 5, объединившее в одном корпусе PlayStation 5, Xbox Series X и Nintendo Switch 2](https://habr.com/ru/news/986528/?utm_campaign=986528&utm_source=habrahabr&utm_medium=rss)
+- [Новые возможности Tracer от VK: телеметрия, поддержка серверных языков и интеграция с Jira](https://habr.com/ru/companies/vk/news/986522/?utm_campaign=986522&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
