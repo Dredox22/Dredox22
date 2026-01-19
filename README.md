@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла EndeavourOS Ganymede Neo с ядром Linux 6.18 LTS и KDE Plasma 6.5.4](https://habr.com/ru/news/986668/?utm_campaign=986668&utm_source=habrahabr&utm_medium=rss)
 - [Google потерял миллион ИИ-чипов из-за Nvidia: война за мощности TSMC](https://habr.com/ru/news/986650/?utm_campaign=986650&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления открытой утилиты для мониторинга GPU и аппаратных ускорителей nvtop 3.3.0](https://habr.com/ru/news/986262/?utm_campaign=986262&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разрешит использовать .webp в качестве фона рабочего стола Windows 11](https://habr.com/ru/news/986606/?utm_campaign=986606&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Windows 11 привело к зависанию Outlook для пользователей протокола POP](https://habr.com/ru/news/986594/?utm_campaign=986594&utm_source=habrahabr&utm_medium=rss)
-- [Автор curl рассказал о вкладе 20 000 коммитов](https://habr.com/ru/news/986588/?utm_campaign=986588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
