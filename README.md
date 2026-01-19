@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Всероссийский конкурс фантастических рассказов для школьников «Творя грядущее, вдохновляясь прошлым» продолжается](https://habr.com/ru/news/986724/?utm_campaign=986724&utm_source=habrahabr&utm_medium=rss)
 - [Valve изменила раздел об ИИ в форме для разработчиков в Steam и уточнила правила маркировки игр](https://habr.com/ru/news/986736/?utm_campaign=986736&utm_source=habrahabr&utm_medium=rss)
 - [Похоже, GPT-5.3 уже на подходе — и это может быть один из самых серьёзных апдейтов OpenAI за долгое время](https://habr.com/ru/news/986716/?utm_campaign=986716&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic тестирует базы знаний для Claude Cowork](https://habr.com/ru/companies/bothub/news/986712/?utm_campaign=986712&utm_source=habrahabr&utm_medium=rss)
 - [Банк России опроверг информацию о миллионах блокировок карт и счетов физлиц с начала года](https://habr.com/ru/news/986708/?utm_campaign=986708&utm_source=habrahabr&utm_medium=rss)
-- [Академия “ГлоуБайт” запустила два новых курса по работе с большими языковыми моделями](https://habr.com/ru/companies/glowbyte/news/986592/?utm_campaign=986592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
