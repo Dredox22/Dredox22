@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mandiant выпустила базу данных, которая позволяет взламывать слабые пароли NTLM за 12 часов](https://habr.com/ru/news/987078/?utm_campaign=987078&utm_source=habrahabr&utm_medium=rss)
+- [Google подтвердила, что усложнит установку приложений из сторонних источников](https://habr.com/ru/news/987072/?utm_campaign=987072&utm_source=habrahabr&utm_medium=rss)
 - [Apple выбирает Gemini для новой Siri, xAI поднимает $20 млрд, AI добирался до медкарт: главное новости AI с начала года](https://habr.com/ru/companies/tochka/news/987064/?utm_campaign=987064&utm_source=habrahabr&utm_medium=rss)
 - [Asus подтвердила прекращение выпуска новых смартфонов](https://habr.com/ru/news/987052/?utm_campaign=987052&utm_source=habrahabr&utm_medium=rss)
 - [Голоса в голове делают ответы ИИ лучше — исследование Google](https://habr.com/ru/news/987042/?utm_campaign=987042&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack v0.40: Обновление архитектуры хранилища и платформы](https://habr.com/ru/companies/aenix/news/986572/?utm_campaign=986572&utm_source=habrahabr&utm_medium=rss)
-- [В Anthropic показали, что «характер» в LLM — это отдельное направление в нейросети](https://habr.com/ru/news/987000/?utm_campaign=987000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
