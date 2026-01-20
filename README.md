@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Зачем мы переписали ядро Trino с Java на Rust](https://habr.com/ru/news/986656/?utm_campaign=986656&utm_source=habrahabr&utm_medium=rss)
+- [Представлено обновление мультимедийного сервера PipeWire 1.4.10 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/986460/?utm_campaign=986460&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила рекомендации для управляющих контроллерами домена Windows IT-администраторов](https://habr.com/ru/news/986880/?utm_campaign=986880&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры атаковали пользователей каталога приложений Snap Store через email разработчиков](https://habr.com/ru/news/986876/?utm_campaign=986876&utm_source=habrahabr&utm_medium=rss)
+- [Рэймонд Чен объяснил работу старого трюка в Windows 95 по перезапуску ПК через зажатие Shift](https://habr.com/ru/news/986872/?utm_campaign=986872&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление свободной программы для 2D анимации Synfig Studio 1.5.4](https://habr.com/ru/news/986646/?utm_campaign=986646&utm_source=habrahabr&utm_medium=rss)
-- [«Я буду с тобой навсегда»: как ИИ теряет свою персону в разговорах](https://habr.com/ru/news/986842/?utm_campaign=986842&utm_source=habrahabr&utm_medium=rss)
-- [SUSE выпустила Myrlyn 1.0 — графический менеджер пакетов программного обеспечения и репозиториев &lpar;Package Manager GUI&rpar;](https://habr.com/ru/news/986756/?utm_campaign=986756&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого аудиоплеера Amarok 3.3.2](https://habr.com/ru/news/986446/?utm_campaign=986446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
