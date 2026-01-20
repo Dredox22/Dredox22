@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры РФ создало группу для борьбы с противоправным использованием дипфейков](https://habr.com/ru/news/987162/?utm_campaign=987162&utm_source=habrahabr&utm_medium=rss)
 - [Центральный университет и «Лаборатория Касперского» объявили отбор школьников в сборную России по кибербезопасности](https://habr.com/ru/news/987158/?utm_campaign=987158&utm_source=habrahabr&utm_medium=rss)
 - [В App Store обнаружили утечки пользовательских данных в сотнях приложений, большая часть из них связана с ИИ](https://habr.com/ru/news/987154/?utm_campaign=987154&utm_source=habrahabr&utm_medium=rss)
 - [Курс «Разработка мобильных игр» — успейте подать заявку до 25 января](https://habr.com/ru/companies/samsung/news/987136/?utm_campaign=987136&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «„Сбер“ купил долю в производителе микроэлектроники „Элемент“ за 24 млрд рублей»](https://habr.com/ru/news/987126/?utm_campaign=987126&utm_source=habrahabr&utm_medium=rss)
-- [Продолжается регистрация на XXI конференцию «Свободное ПО в высшей школе» &lpar;OSEDUCONF-2026&rpar; в Переславле-Залесском](https://habr.com/ru/news/987086/?utm_campaign=987086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
