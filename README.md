@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК InfoWatch — партнер Международной олимпиады «IT-Планета 2026»](https://habr.com/ru/companies/infowatch/news/986924/?utm_campaign=986924&utm_source=habrahabr&utm_medium=rss)
+- [В университете Ватерлоо начали разработку первого открытого квантового компьютера](https://habr.com/ru/news/986908/?utm_campaign=986908&utm_source=habrahabr&utm_medium=rss)
+- [Почему Microsoft больше не прячет пасхалки в Windows?](https://habr.com/ru/news/986824/?utm_campaign=986824&utm_source=habrahabr&utm_medium=rss)
+- [ClickHouse приобрела разработчика ИИ-решений Langfuse](https://habr.com/ru/news/986896/?utm_campaign=986896&utm_source=habrahabr&utm_medium=rss)
 - [Представлено обновление мультимедийного сервера PipeWire 1.4.10 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/986460/?utm_campaign=986460&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила рекомендации для управляющих контроллерами домена Windows IT-администраторов](https://habr.com/ru/news/986880/?utm_campaign=986880&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры атаковали пользователей каталога приложений Snap Store через email разработчиков](https://habr.com/ru/news/986876/?utm_campaign=986876&utm_source=habrahabr&utm_medium=rss)
-- [Рэймонд Чен объяснил работу старого трюка в Windows 95 по перезапуску ПК через зажатие Shift](https://habr.com/ru/news/986872/?utm_campaign=986872&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление свободной программы для 2D анимации Synfig Studio 1.5.4](https://habr.com/ru/news/986646/?utm_campaign=986646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
