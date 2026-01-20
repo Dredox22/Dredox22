@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Я буду с тобой навсегда»: как ИИ теряет свою персону в разговорах](https://habr.com/ru/news/986842/?utm_campaign=986842&utm_source=habrahabr&utm_medium=rss)
 - [SUSE выпустила Myrlyn 1.0 — графический менеджер пакетов программного обеспечения и репозиториев &lpar;Package Manager GUI&rpar;](https://habr.com/ru/news/986756/?utm_campaign=986756&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого аудиоплеера Amarok 3.3.2](https://habr.com/ru/news/986446/?utm_campaign=986446&utm_source=habrahabr&utm_medium=rss)
 - [GLM-4.7-Flash обходит модели вдвое крупнее — и запускается на ноутбуке](https://habr.com/ru/news/986792/?utm_campaign=986792&utm_source=habrahabr&utm_medium=rss)
 - [Теперь Manus⚹ берет на себя упаковку и загрузку ваших приложений в Google Play и App Store](https://habr.com/ru/companies/bothub/news/986778/?utm_campaign=986778&utm_source=habrahabr&utm_medium=rss)
-- [Всероссийский конкурс фантастических рассказов для школьников «Творя грядущее, вдохновляясь прошлым» продолжается](https://habr.com/ru/news/986724/?utm_campaign=986724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
