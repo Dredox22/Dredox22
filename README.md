@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В РКН назвали страны-источники вредоносного трафика](https://habr.com/ru/news/986970/?utm_campaign=986970&utm_source=habrahabr&utm_medium=rss)
+- [От протокола до пробирки: ИИ-система помогла создать 35 соединений, которых не было в природе](https://habr.com/ru/news/986968/?utm_campaign=986968&utm_source=habrahabr&utm_medium=rss)
 - [«2ГИС» выдал статистику по городам РФ с наибольшим числом точек общедоступного Wi-Fi](https://habr.com/ru/news/986926/?utm_campaign=986926&utm_source=habrahabr&utm_medium=rss)
 - [«Ростелеком» провёл тестирование участка магистральной линии связи нового поколения TEA NEXT Москва — Санкт-Петербург](https://habr.com/ru/news/986950/?utm_campaign=986950&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала блокировать доступ к рабочей корпоративной электронной почте для некоторых пользователей Intune](https://habr.com/ru/news/986918/?utm_campaign=986918&utm_source=habrahabr&utm_medium=rss)
-- [Владислав Бакальчук: маркетплейс М.Видео завершил 2025 год уверенным ростом](https://habr.com/ru/companies/mvideo/news/986934/?utm_campaign=986934&utm_source=habrahabr&utm_medium=rss)
-- [ГК InfoWatch — партнер Международной олимпиады «IT-Планета 2026»](https://habr.com/ru/companies/infowatch/news/986924/?utm_campaign=986924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
