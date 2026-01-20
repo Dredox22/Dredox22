@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Курс «Разработка мобильных игр» — успейте подать заявку до 25 января](https://habr.com/ru/companies/samsung/news/987136/?utm_campaign=987136&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «„Сбер“ купил долю в производителе микроэлектроники „Элемент“ за 24 млрд рублей»](https://habr.com/ru/news/987126/?utm_campaign=987126&utm_source=habrahabr&utm_medium=rss)
 - [Продолжается регистрация на XXI конференцию «Свободное ПО в высшей школе» &lpar;OSEDUCONF-2026&rpar; в Переславле-Залесском](https://habr.com/ru/news/987086/?utm_campaign=987086&utm_source=habrahabr&utm_medium=rss)
 - [Mandiant выпустила базу данных, которая позволяет взламывать слабые пароли NTLM за 12 часов](https://habr.com/ru/news/987078/?utm_campaign=987078&utm_source=habrahabr&utm_medium=rss)
 - [Google подтвердила, что усложнит установку приложений из сторонних источников](https://habr.com/ru/news/987072/?utm_campaign=987072&utm_source=habrahabr&utm_medium=rss)
-- [Apple выбирает Gemini для новой Siri, xAI поднимает $20 млрд, AI добирался до медкарт: главное новости AI с начала года](https://habr.com/ru/companies/tochka/news/987064/?utm_campaign=987064&utm_source=habrahabr&utm_medium=rss)
-- [Asus подтвердила прекращение выпуска новых смартфонов](https://habr.com/ru/news/987052/?utm_campaign=987052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
