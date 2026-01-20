@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«2ГИС» выдал статистику по городам РФ с наибольшим числом точек общедоступного Wi-Fi](https://habr.com/ru/news/986926/?utm_campaign=986926&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» провёл тестирование участка магистральной линии связи нового поколения TEA NEXT Москва — Санкт-Петербург](https://habr.com/ru/news/986950/?utm_campaign=986950&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала блокировать доступ к рабочей корпоративной электронной почте для некоторых пользователей Intune](https://habr.com/ru/news/986918/?utm_campaign=986918&utm_source=habrahabr&utm_medium=rss)
+- [Владислав Бакальчук: маркетплейс М.Видео завершил 2025 год уверенным ростом](https://habr.com/ru/companies/mvideo/news/986934/?utm_campaign=986934&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch — партнер Международной олимпиады «IT-Планета 2026»](https://habr.com/ru/companies/infowatch/news/986924/?utm_campaign=986924&utm_source=habrahabr&utm_medium=rss)
-- [В университете Ватерлоо начали разработку первого открытого квантового компьютера](https://habr.com/ru/news/986908/?utm_campaign=986908&utm_source=habrahabr&utm_medium=rss)
-- [Почему Microsoft больше не прячет пасхалки в Windows?](https://habr.com/ru/news/986824/?utm_campaign=986824&utm_source=habrahabr&utm_medium=rss)
-- [ClickHouse приобрела разработчика ИИ-решений Langfuse](https://habr.com/ru/news/986896/?utm_campaign=986896&utm_source=habrahabr&utm_medium=rss)
-- [Представлено обновление мультимедийного сервера PipeWire 1.4.10 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/986460/?utm_campaign=986460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
