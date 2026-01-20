@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cozystack v0.40: Обновление архитектуры хранилища и платформы](https://habr.com/ru/companies/aenix/news/986572/?utm_campaign=986572&utm_source=habrahabr&utm_medium=rss)
+- [В Anthropic показали, что «характер» в LLM — это отдельное направление в нейросети](https://habr.com/ru/news/987000/?utm_campaign=987000&utm_source=habrahabr&utm_medium=rss)
 - [В РКН назвали страны-источники вредоносного трафика](https://habr.com/ru/news/986970/?utm_campaign=986970&utm_source=habrahabr&utm_medium=rss)
 - [От протокола до пробирки: ИИ-система помогла создать 35 соединений, которых не было в природе](https://habr.com/ru/news/986968/?utm_campaign=986968&utm_source=habrahabr&utm_medium=rss)
 - [«2ГИС» выдал статистику по городам РФ с наибольшим числом точек общедоступного Wi-Fi](https://habr.com/ru/news/986926/?utm_campaign=986926&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» провёл тестирование участка магистральной линии связи нового поколения TEA NEXT Москва — Санкт-Петербург](https://habr.com/ru/news/986950/?utm_campaign=986950&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала блокировать доступ к рабочей корпоративной электронной почте для некоторых пользователей Intune](https://habr.com/ru/news/986918/?utm_campaign=986918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
