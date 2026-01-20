@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выходцы из MIT создали рассуждающий ИИ для смартфонов — он занимает всего 720 МБ](https://habr.com/ru/news/987200/?utm_campaign=987200&utm_source=habrahabr&utm_medium=rss)
+- [Китайский ИИ ускорил виртуальный поиск лекарств до 10 миллионов раз](https://habr.com/ru/news/987188/?utm_campaign=987188&utm_source=habrahabr&utm_medium=rss)
+- [Рекомендательный алгоритм соцсети X официально опубликовали на GitHub](https://habr.com/ru/news/987180/?utm_campaign=987180&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры РФ создало группу для борьбы с противоправным использованием дипфейков](https://habr.com/ru/news/987162/?utm_campaign=987162&utm_source=habrahabr&utm_medium=rss)
 - [Центральный университет и «Лаборатория Касперского» объявили отбор школьников в сборную России по кибербезопасности](https://habr.com/ru/news/987158/?utm_campaign=987158&utm_source=habrahabr&utm_medium=rss)
-- [В App Store обнаружили утечки пользовательских данных в сотнях приложений, большая часть из них связана с ИИ](https://habr.com/ru/news/987154/?utm_campaign=987154&utm_source=habrahabr&utm_medium=rss)
-- [Курс «Разработка мобильных игр» — успейте подать заявку до 25 января](https://habr.com/ru/companies/samsung/news/987136/?utm_campaign=987136&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «„Сбер“ купил долю в производителе микроэлектроники „Элемент“ за 24 млрд рублей»](https://habr.com/ru/news/987126/?utm_campaign=987126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
