@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Будущее доставки уже здесь: робофургоны устраивают GTA на улицах Китая](https://habr.com/ru/companies/bothub/news/987212/?utm_campaign=987212&utm_source=habrahabr&utm_medium=rss)
+- [Активен ночью — значит взрослый! ChatGPT начал определять возраст по поведению](https://habr.com/ru/news/987220/?utm_campaign=987220&utm_source=habrahabr&utm_medium=rss)
+- [Будущее доставки уже здесь: робофургоны устраивают ГТА на улицах Китая](https://habr.com/ru/companies/bothub/news/987212/?utm_campaign=987212&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-“игра в кальмара”: стратегическая цель Сеула обретает черты телешоу](https://habr.com/ru/companies/bothub/news/987208/?utm_campaign=987208&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code теперь можно использовать прямо в VS Code — без терминала и лишних костылей](https://habr.com/ru/news/987202/?utm_campaign=987202&utm_source=habrahabr&utm_medium=rss)
 - [Выходцы из MIT создали рассуждающий ИИ для смартфонов — он занимает всего 720 МБ](https://habr.com/ru/news/987200/?utm_campaign=987200&utm_source=habrahabr&utm_medium=rss)
-- [Китайский ИИ ускорил виртуальный поиск лекарств до 10 миллионов раз](https://habr.com/ru/news/987188/?utm_campaign=987188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
