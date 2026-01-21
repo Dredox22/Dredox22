@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Роман Елизаров про AI в разработке ПО, OpenSource и культуру IT [Видео]](https://habr.com/ru/companies/haulmont/news/987368/?utm_campaign=987368&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление дистрибутива MX Linux 25.1 &lpar;Infinity&rpar; на базе Debian 13.3 и Linux 6.12](https://habr.com/ru/news/986972/?utm_campaign=986972&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA искала пиратские книги для обучения ИИ. Переписка попала в суд](https://habr.com/ru/news/987356/?utm_campaign=987356&utm_source=habrahabr&utm_medium=rss)
+- [Siri будет работать через Google Gemini уже в 2026](https://habr.com/ru/news/987350/?utm_campaign=987350&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/987336/?utm_campaign=987336&utm_source=habrahabr&utm_medium=rss)
-- [GLM-4.7 Flash. Локальная модель, которая реально тянет уровень флагманов](https://habr.com/ru/companies/bothub/news/987276/?utm_campaign=987276&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte разработала методику выбора BI на основе сценарного анализа](https://habr.com/ru/companies/glowbyte/news/987070/?utm_campaign=987070&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare купил Human Native и строит рынок данных для обучения ИИ](https://habr.com/ru/companies/bothub/news/987300/?utm_campaign=987300&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Electron 40.0 — платформы для создания приложений на базе движка Chromium](https://habr.com/ru/news/987286/?utm_campaign=987286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
