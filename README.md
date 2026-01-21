@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PGPro TechDay 2026 в Москве: экосистема Postgres, релиз Enterprise 18 и новая аналитическая платформа](https://habr.com/ru/companies/postgrespro/news/987462/?utm_campaign=987462&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: популярные Telegram-каналы пока не смогли нарастить сопоставимую аудиторию в Max](https://habr.com/ru/news/987458/?utm_campaign=987458&utm_source=habrahabr&utm_medium=rss)
+- [Прозрачность вместо слепых зон: Solar webProxy 4.4 контролирует FTP-трафик и вводит 2FA для администраторов](https://habr.com/ru/companies/solarsecurity/news/987448/?utm_campaign=987448&utm_source=habrahabr&utm_medium=rss)
+- [«50% джуниоров потеряют работу за 5 лет»: прогноз CEO Anthropic](https://habr.com/ru/news/987442/?utm_campaign=987442&utm_source=habrahabr&utm_medium=rss)
 - [X открыл код рекомендательного алгоритма](https://habr.com/ru/companies/bothub/news/987266/?utm_campaign=987266&utm_source=habrahabr&utm_medium=rss)
-- [РБК: «Билайн» начал тестировать доступ к YouTube без VPN](https://habr.com/ru/news/987400/?utm_campaign=987400&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.5 обошел людей в тестовом задании Anthropic — теперь попробовать может каждый](https://habr.com/ru/news/987378/?utm_campaign=987378&utm_source=habrahabr&utm_medium=rss)
-- [Роман Елизаров про AI в разработке ПО, OpenSource и культуру IT [Видео]](https://habr.com/ru/companies/haulmont/news/987368/?utm_campaign=987368&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление дистрибутива MX Linux 25.1 &lpar;Infinity&rpar; на базе Debian 13.3 и Linux 6.12](https://habr.com/ru/news/986972/?utm_campaign=986972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
