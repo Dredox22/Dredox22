@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вице-спикер Госдумы собирает подписи с обращением к Дурову об открытии представительства Telegram в России](https://habr.com/ru/news/987568/?utm_campaign=987568&utm_source=habrahabr&utm_medium=rss)
+- [СМИ:«Единая биометрическая система перейдёт на подписочную модель»](https://habr.com/ru/news/987560/?utm_campaign=987560&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запускает план защиты жителей от роста тарифов на электричество](https://habr.com/ru/news/987556/?utm_campaign=987556&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Минтруд РФ предложил использовать мессенджер Max для взаимодействия работников и работодателей»](https://habr.com/ru/news/987554/?utm_campaign=987554&utm_source=habrahabr&utm_medium=rss)
 - [Сенатор Шейкин: против Telegram последовательно вводятся ограничительные меры, отсюда проблемы с загрузкой видео](https://habr.com/ru/news/987526/?utm_campaign=987526&utm_source=habrahabr&utm_medium=rss)
-- [Бермуды планируют создать первую в мире экономику, полностью работающую on-chain, совместно с Circle и Coinbase](https://habr.com/ru/companies/technokratos/news/987520/?utm_campaign=987520&utm_source=habrahabr&utm_medium=rss)
-- [«Билайн» прекратил тестировать доступ к YouTube без VPN](https://habr.com/ru/news/987516/?utm_campaign=987516&utm_source=habrahabr&utm_medium=rss)
-- [Kioxia: все планируемые к выпуску в 2026 году SSD уже распроданы](https://habr.com/ru/news/987508/?utm_campaign=987508&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил Cupertino — MCP-сервер для документации Apple](https://habr.com/ru/news/987504/?utm_campaign=987504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
