@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google не будет добавлять рекламу в Gemini — в отличие от OpenAI](https://habr.com/ru/news/987618/?utm_campaign=987618&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры взломали контрактного производителя Apple и угрожают опубликовать CAD-файлы устройств](https://habr.com/ru/news/987616/?utm_campaign=987616&utm_source=habrahabr&utm_medium=rss)
+- [Siri отправят на пенсию: Apple готовит чатбот Campos на замену](https://habr.com/ru/news/987606/?utm_campaign=987606&utm_source=habrahabr&utm_medium=rss)
 - [Arduino анонсировала плату Uno Q с 4 ГБ ОЗУ и 32 ГБ постоянной памяти](https://habr.com/ru/news/987596/?utm_campaign=987596&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» рассказала о мошенниках, которые рассылают письма от OpenAI](https://habr.com/ru/news/987590/?utm_campaign=987590&utm_source=habrahabr&utm_medium=rss)
-- [Глава Anthropic назвал поставки чипов Nvidia в Китай угрозой безопасности США](https://habr.com/ru/companies/bothub/news/987588/?utm_campaign=987588&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI научила ChatGPT вычислять возраст пользователей по поведению](https://habr.com/ru/companies/bothub/news/987480/?utm_campaign=987480&utm_source=habrahabr&utm_medium=rss)
-- [Yii3 вышел! Делаем стрим с создателями](https://habr.com/ru/news/987578/?utm_campaign=987578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
