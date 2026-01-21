@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сенатор Шейкин: против Telegram последовательно вводятся ограничительные меры, отсюда проблемы с загрузкой видео](https://habr.com/ru/news/987526/?utm_campaign=987526&utm_source=habrahabr&utm_medium=rss)
+- [Бермуды планируют создать первую в мире экономику, полностью работающую on-chain, совместно с Circle и Coinbase](https://habr.com/ru/companies/technokratos/news/987520/?utm_campaign=987520&utm_source=habrahabr&utm_medium=rss)
+- [«Билайн» прекратил тестировать доступ к YouTube без VPN](https://habr.com/ru/news/987516/?utm_campaign=987516&utm_source=habrahabr&utm_medium=rss)
 - [Kioxia: все планируемые к выпуску в 2026 году SSD уже распроданы](https://habr.com/ru/news/987508/?utm_campaign=987508&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил Cupertino — MCP-сервер для документации Apple](https://habr.com/ru/news/987504/?utm_campaign=987504&utm_source=habrahabr&utm_medium=rss)
-- [Моддер смог реализовать кроссплей между Minecraft и Hytale](https://habr.com/ru/news/987498/?utm_campaign=987498&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PowerToys 0.97 с новым инструментом для работы с мышью](https://habr.com/ru/news/987474/?utm_campaign=987474&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia пыталась получить книги у пиратов для обучения ИИ](https://habr.com/ru/companies/bothub/news/987468/?utm_campaign=987468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
