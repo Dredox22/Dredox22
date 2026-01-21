@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел PowerToys 0.97 с новым инструментом для работы с мышью](https://habr.com/ru/news/987474/?utm_campaign=987474&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia пыталась получить книги у пиратов для обучения ИИ](https://habr.com/ru/companies/bothub/news/987468/?utm_campaign=987468&utm_source=habrahabr&utm_medium=rss)
 - [PGPro TechDay 2026 в Москве: экосистема Postgres, релиз Enterprise 18 и новая аналитическая платформа](https://habr.com/ru/companies/postgrespro/news/987462/?utm_campaign=987462&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: популярные Telegram-каналы пока не смогли нарастить сопоставимую аудиторию в Max](https://habr.com/ru/news/987458/?utm_campaign=987458&utm_source=habrahabr&utm_medium=rss)
 - [Прозрачность вместо слепых зон: Solar webProxy 4.4 контролирует FTP-трафик и вводит 2FA для администраторов](https://habr.com/ru/companies/solarsecurity/news/987448/?utm_campaign=987448&utm_source=habrahabr&utm_medium=rss)
-- [«50% джуниоров потеряют работу за 5 лет»: прогноз CEO Anthropic](https://habr.com/ru/news/987442/?utm_campaign=987442&utm_source=habrahabr&utm_medium=rss)
-- [X открыл код рекомендательного алгоритма](https://habr.com/ru/companies/bothub/news/987266/?utm_campaign=987266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
