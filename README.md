@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare купил Human Native и строит рынок данных для обучения ИИ](https://habr.com/ru/companies/bothub/news/987300/?utm_campaign=987300&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Electron 40.0 — платформы для создания приложений на базе движка Chromium](https://habr.com/ru/news/987286/?utm_campaign=987286&utm_source=habrahabr&utm_medium=rss)
 - [«Модель свяжет людей и ИИ»: стартап Humans&amp;amp; оценили в $4,5 млрд до первого релиза](https://habr.com/ru/news/987282/?utm_campaign=987282&utm_source=habrahabr&utm_medium=rss)
 - [Создан плагин к KWin для использования KDE в виртуальной реальности](https://habr.com/ru/news/987108/?utm_campaign=987108&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs готовится к новому раунду при оценке $11 млрд](https://habr.com/ru/companies/bothub/news/987090/?utm_campaign=987090&utm_source=habrahabr&utm_medium=rss)
-- [Критическая уязвимость с мая 2015 года позволяет выполнить удалённый обход аутентификации в telnetd](https://habr.com/ru/news/987256/?utm_campaign=987256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
