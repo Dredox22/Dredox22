@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Electron 40.0 — платформы для создания приложений на базе движка Chromium](https://habr.com/ru/news/987286/?utm_campaign=987286&utm_source=habrahabr&utm_medium=rss)
+- [«Модель свяжет людей и ИИ»: стартап Humans&amp;amp; оценили в $4,5 млрд до первого релиза](https://habr.com/ru/news/987282/?utm_campaign=987282&utm_source=habrahabr&utm_medium=rss)
+- [Создан плагин к KWin для использования KDE в виртуальной реальности](https://habr.com/ru/news/987108/?utm_campaign=987108&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs готовится к новому раунду при оценке $11 млрд](https://habr.com/ru/companies/bothub/news/987090/?utm_campaign=987090&utm_source=habrahabr&utm_medium=rss)
 - [Критическая уязвимость с мая 2015 года позволяет выполнить удалённый обход аутентификации в telnetd](https://habr.com/ru/news/987256/?utm_campaign=987256&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект PCIem для синтетической эмуляции устройств PCIe полностью в пользовательском пространстве](https://habr.com/ru/news/987134/?utm_campaign=987134&utm_source=habrahabr&utm_medium=rss)
-- [Вышел VidCoder 12.14 — открытый проект для копирования DVD/Blu-ray и перекодирования видео для ПК на Windows](https://habr.com/ru/news/987142/?utm_campaign=987142&utm_source=habrahabr&utm_medium=rss)
-- [Активен ночью — значит взрослый! ChatGPT начал определять возраст по поведению](https://habr.com/ru/news/987220/?utm_campaign=987220&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
