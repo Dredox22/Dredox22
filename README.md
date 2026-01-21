@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Критическая уязвимость с мая 2015 года позволяет выполнить удалённый обход аутентификации в telnetd](https://habr.com/ru/news/987256/?utm_campaign=987256&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект PCIem для синтетической эмуляции устройств PCIe полностью в пользовательском пространстве](https://habr.com/ru/news/987134/?utm_campaign=987134&utm_source=habrahabr&utm_medium=rss)
 - [Вышел VidCoder 12.14 — открытый проект для копирования DVD/Blu-ray и перекодирования видео для ПК на Windows](https://habr.com/ru/news/987142/?utm_campaign=987142&utm_source=habrahabr&utm_medium=rss)
 - [Активен ночью — значит взрослый! ChatGPT начал определять возраст по поведению](https://habr.com/ru/news/987220/?utm_campaign=987220&utm_source=habrahabr&utm_medium=rss)
 - [Будущее доставки уже здесь: робофургоны устраивают ГТА на улицах Китая](https://habr.com/ru/companies/bothub/news/987212/?utm_campaign=987212&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-“игра в кальмара”: стратегическая цель Сеула обретает черты телешоу](https://habr.com/ru/companies/bothub/news/987208/?utm_campaign=987208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
