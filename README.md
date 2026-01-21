@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.5 обошел людей в тестовом задании Anthropic — теперь попробовать может каждый](https://habr.com/ru/news/987378/?utm_campaign=987378&utm_source=habrahabr&utm_medium=rss)
 - [Роман Елизаров про AI в разработке ПО, OpenSource и культуру IT [Видео]](https://habr.com/ru/companies/haulmont/news/987368/?utm_campaign=987368&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление дистрибутива MX Linux 25.1 &lpar;Infinity&rpar; на базе Debian 13.3 и Linux 6.12](https://habr.com/ru/news/986972/?utm_campaign=986972&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA искала пиратские книги для обучения ИИ. Переписка попала в суд](https://habr.com/ru/news/987356/?utm_campaign=987356&utm_source=habrahabr&utm_medium=rss)
 - [Siri будет работать через Google Gemini уже в 2026](https://habr.com/ru/news/987350/?utm_campaign=987350&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/987336/?utm_campaign=987336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
