@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» рассказала о мошенниках, которые рассылают письма от OpenAI](https://habr.com/ru/news/987590/?utm_campaign=987590&utm_source=habrahabr&utm_medium=rss)
+- [Глава Anthropic назвал поставки чипов Nvidia в Китай угрозой безопасности США](https://habr.com/ru/companies/bothub/news/987588/?utm_campaign=987588&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI научила ChatGPT вычислять возраст пользователей по поведению](https://habr.com/ru/companies/bothub/news/987480/?utm_campaign=987480&utm_source=habrahabr&utm_medium=rss)
 - [Yii3 вышел! Делаем стрим с создателями](https://habr.com/ru/news/987578/?utm_campaign=987578&utm_source=habrahabr&utm_medium=rss)
 - [Blue Origin анонсировала TerraWave —  самый быстрый орбитальный интернет](https://habr.com/ru/news/987576/?utm_campaign=987576&utm_source=habrahabr&utm_medium=rss)
-- [Запись к врачу стала доступна в национальном мессенджере Мax](https://habr.com/ru/news/987570/?utm_campaign=987570&utm_source=habrahabr&utm_medium=rss)
-- [Вице-спикер Госдумы собирает подписи с обращением к Дурову об открытии представительства Telegram в России](https://habr.com/ru/news/987568/?utm_campaign=987568&utm_source=habrahabr&utm_medium=rss)
-- [СМИ:«Единая биометрическая система перейдёт на подписочную модель»](https://habr.com/ru/news/987560/?utm_campaign=987560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
