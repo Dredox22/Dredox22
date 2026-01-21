@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yii3 вышел! Делаем стрим с создателями](https://habr.com/ru/news/987578/?utm_campaign=987578&utm_source=habrahabr&utm_medium=rss)
+- [Blue Origin анонсировала TerraWave —  самый быстрый орбитальный интернет](https://habr.com/ru/news/987576/?utm_campaign=987576&utm_source=habrahabr&utm_medium=rss)
+- [Запись к врачу стала доступна в национальном мессенджере Мax](https://habr.com/ru/news/987570/?utm_campaign=987570&utm_source=habrahabr&utm_medium=rss)
 - [Вице-спикер Госдумы собирает подписи с обращением к Дурову об открытии представительства Telegram в России](https://habr.com/ru/news/987568/?utm_campaign=987568&utm_source=habrahabr&utm_medium=rss)
 - [СМИ:«Единая биометрическая система перейдёт на подписочную модель»](https://habr.com/ru/news/987560/?utm_campaign=987560&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запускает план защиты жителей от роста тарифов на электричество](https://habr.com/ru/news/987556/?utm_campaign=987556&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Минтруд РФ предложил использовать мессенджер Max для взаимодействия работников и работодателей»](https://habr.com/ru/news/987554/?utm_campaign=987554&utm_source=habrahabr&utm_medium=rss)
-- [Сенатор Шейкин: против Telegram последовательно вводятся ограничительные меры, отсюда проблемы с загрузкой видео](https://habr.com/ru/news/987526/?utm_campaign=987526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
