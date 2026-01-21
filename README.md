@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Arduino анонсировала плату Uno Q с 4 ГБ ОЗУ и 32 ГБ постоянной памяти](https://habr.com/ru/news/987596/?utm_campaign=987596&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» рассказала о мошенниках, которые рассылают письма от OpenAI](https://habr.com/ru/news/987590/?utm_campaign=987590&utm_source=habrahabr&utm_medium=rss)
 - [Глава Anthropic назвал поставки чипов Nvidia в Китай угрозой безопасности США](https://habr.com/ru/companies/bothub/news/987588/?utm_campaign=987588&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI научила ChatGPT вычислять возраст пользователей по поведению](https://habr.com/ru/companies/bothub/news/987480/?utm_campaign=987480&utm_source=habrahabr&utm_medium=rss)
 - [Yii3 вышел! Делаем стрим с создателями](https://habr.com/ru/news/987578/?utm_campaign=987578&utm_source=habrahabr&utm_medium=rss)
-- [Blue Origin анонсировала TerraWave —  самый быстрый орбитальный интернет](https://habr.com/ru/news/987576/?utm_campaign=987576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
