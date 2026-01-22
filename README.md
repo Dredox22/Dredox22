@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla начала выпуск официальных пакетов Firefox RPM для RPM-based дистрибутивов Linux](https://habr.com/ru/news/986998/?utm_campaign=986998&utm_source=habrahabr&utm_medium=rss)
+- [Релиз браузера Pale Moon 34.0](https://habr.com/ru/news/987306/?utm_campaign=987306&utm_source=habrahabr&utm_medium=rss)
 - [Google не будет добавлять рекламу в Gemini — в отличие от OpenAI](https://habr.com/ru/news/987618/?utm_campaign=987618&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры взломали контрактного производителя Apple и угрожают опубликовать CAD-файлы устройств](https://habr.com/ru/news/987616/?utm_campaign=987616&utm_source=habrahabr&utm_medium=rss)
 - [Siri отправят на пенсию: Apple готовит чатбот Campos на замену](https://habr.com/ru/news/987606/?utm_campaign=987606&utm_source=habrahabr&utm_medium=rss)
-- [Arduino анонсировала плату Uno Q с 4 ГБ ОЗУ и 32 ГБ постоянной памяти](https://habr.com/ru/news/987596/?utm_campaign=987596&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» рассказала о мошенниках, которые рассылают письма от OpenAI](https://habr.com/ru/news/987590/?utm_campaign=987590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
