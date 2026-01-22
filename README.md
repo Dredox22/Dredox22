@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ollama добавила генерацию изображений и превратилась в универсальный локальный AI-хаб](https://habr.com/ru/companies/bothub/news/988034/?utm_campaign=988034&utm_source=habrahabr&utm_medium=rss)
+- [Overworld открыла Waypoint-1. Реалтайм-модель мира для игр и симуляций](https://habr.com/ru/companies/bothub/news/987714/?utm_campaign=987714&utm_source=habrahabr&utm_medium=rss)
 - [40% работников боятся AI, но реальных увольнений пока нет — парадокс Давоса](https://habr.com/ru/news/988016/?utm_campaign=988016&utm_source=habrahabr&utm_medium=rss)
 - [Adobe добавила в Acrobat функцию превращения PDF в подкасты и презентации с помощью ИИ](https://habr.com/ru/news/987998/?utm_campaign=987998&utm_source=habrahabr&utm_medium=rss)
 - [Лайфхак как скачать приложение ChatGPT на iPhone в России, если у пользователя есть доступ к техподдержке «Т‑Банка»](https://habr.com/ru/news/987988/?utm_campaign=987988&utm_source=habrahabr&utm_medium=rss)
-- [Nex Computer представила NexPhone — Android-смартфон с поддержкой Windows 11 и Linux Debian](https://habr.com/ru/news/987966/?utm_campaign=987966&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Chroma 1.0. Первая полностью открытая speech to speech модель с клонированием голоса в реальном времени](https://habr.com/ru/companies/bothub/news/987646/?utm_campaign=987646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
