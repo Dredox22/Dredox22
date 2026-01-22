@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатный ИИ уровня GPT-5 и Gemini 3: Baidu выпустила ERNIE 5.0](https://habr.com/ru/news/988036/?utm_campaign=988036&utm_source=habrahabr&utm_medium=rss)
 - [Ollama добавила генерацию изображений и превратилась в универсальный локальный AI-хаб](https://habr.com/ru/companies/bothub/news/988034/?utm_campaign=988034&utm_source=habrahabr&utm_medium=rss)
 - [Overworld открыла Waypoint-1. Реалтайм-модель мира для игр и симуляций](https://habr.com/ru/companies/bothub/news/987714/?utm_campaign=987714&utm_source=habrahabr&utm_medium=rss)
 - [40% работников боятся AI, но реальных увольнений пока нет — парадокс Давоса](https://habr.com/ru/news/988016/?utm_campaign=988016&utm_source=habrahabr&utm_medium=rss)
 - [Adobe добавила в Acrobat функцию превращения PDF в подкасты и презентации с помощью ИИ](https://habr.com/ru/news/987998/?utm_campaign=987998&utm_source=habrahabr&utm_medium=rss)
-- [Лайфхак как скачать приложение ChatGPT на iPhone в России, если у пользователя есть доступ к техподдержке «Т‑Банка»](https://habr.com/ru/news/987988/?utm_campaign=987988&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
