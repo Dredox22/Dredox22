@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Открытый профессиональный вебинар «Практика проведения анализа защищенности»](https://habr.com/ru/companies/hex_team/news/987536/?utm_campaign=987536&utm_source=habrahabr&utm_medium=rss)
-- [Ассоциация ФинТех, сообщество FinDevSecOps и «Солар» начали приём заявок на премию «Безопасность начинается с кода»](https://habr.com/ru/news/987666/?utm_campaign=987666&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic опубликовала обновленную конституцию Claude и показала, как именно модель учат принимать решения](https://habr.com/ru/companies/bothub/news/987642/?utm_campaign=987642&utm_source=habrahabr&utm_medium=rss)
-- [Обновление легковесного проекта Winslop Drop 4 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/987634/?utm_campaign=987634&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla начала выпуск официальных пакетов Firefox RPM для RPM-based дистрибутивов Linux](https://habr.com/ru/news/986998/?utm_campaign=986998&utm_source=habrahabr&utm_medium=rss)
+- [После взлома систем обработки заявок Zendesk пользователи столкнулись с волной спама](https://habr.com/ru/news/987684/?utm_campaign=987684&utm_source=habrahabr&utm_medium=rss)
+- [GenRobot обновила RealOmni OpenData. Один из самых богатых датасетов для Embodied AI стал еще сложнее](https://habr.com/ru/companies/bothub/news/987648/?utm_campaign=987648&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft поделилась решением проблемы зависания Outlook после обновления Windows](https://habr.com/ru/news/987674/?utm_campaign=987674&utm_source=habrahabr&utm_medium=rss)
+- [Горелкин: введение штрафов за использование VPN не планируется и даже не обсуждается](https://habr.com/ru/news/987678/?utm_campaign=987678&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: на середину января 2026 года Роскомнадзор ограничил доступ к 439 сервисам для обхода блокировок &lpar;VPN-сервисам&rpar;](https://habr.com/ru/news/987670/?utm_campaign=987670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
