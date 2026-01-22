@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В России появится модель получения смартфона без предоплаты и ежемесячных абонентских плат, но с просмотром рекламы](https://habr.com/ru/news/987686/?utm_campaign=987686&utm_source=habrahabr&utm_medium=rss)
-- [$143 млрд убытков и 18 месяцев до краха: что происходит с OpenAI](https://habr.com/ru/news/987730/?utm_campaign=987730&utm_source=habrahabr&utm_medium=rss)
-- [Chrome в Windows 11 позволит перетаскивать и загружать несколько файлов из веб-приложений в проводник](https://habr.com/ru/news/987712/?utm_campaign=987712&utm_source=habrahabr&utm_medium=rss)
-- [Slimbook выпустила мини-ПК Slimbook ONE на базе Linux и ноутбук Slimbook Executive](https://habr.com/ru/news/987698/?utm_campaign=987698&utm_source=habrahabr&utm_medium=rss)
-- [Первая сотня золотых значков ТехноГТО: 105 человек из 21 региона успешно сдали очные нормативы](https://habr.com/ru/news/987708/?utm_campaign=987708&utm_source=habrahabr&utm_medium=rss)
+- [В Общественной палате РФ выступили за ограничение Telegram при невыполнении законодательства РФ](https://habr.com/ru/news/987800/?utm_campaign=987800&utm_source=habrahabr&utm_medium=rss)
+- [Российская BI-платформа Luxms BI стала доступна в маркетплейсе VK Cloud](https://habr.com/ru/companies/luxms_bi/news/987796/?utm_campaign=987796&utm_source=habrahabr&utm_medium=rss)
+- [Платформа доверенных сервисов «Росатома» получила крупное обновление](https://habr.com/ru/companies/itfb/news/987790/?utm_campaign=987790&utm_source=habrahabr&utm_medium=rss)
+- [Широкополосные генераторы шума &lpar;ГШ&rpar; для мм-волновых и суб-мм-волновых диапазонов &lpar;до 330 ГГц&rpar;](https://habr.com/ru/companies/meta-catalog/news/987600/?utm_campaign=987600&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория суперинтеллекта» Meta* уже испытывает первые ИИ-модели](https://habr.com/ru/news/987780/?utm_campaign=987780&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
