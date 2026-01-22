@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Бесплатно тестируем 55 видеомоделей: LMArena открыла Video Arena для всех](https://habr.com/ru/news/987830/?utm_campaign=987830&utm_source=habrahabr&utm_medium=rss)
-- [В Общественной палате РФ выступили за ограничение Telegram при невыполнении законодательства РФ](https://habr.com/ru/news/987800/?utm_campaign=987800&utm_source=habrahabr&utm_medium=rss)
-- [Российская BI-платформа Luxms BI стала доступна в маркетплейсе VK Cloud](https://habr.com/ru/companies/luxms_bi/news/987796/?utm_campaign=987796&utm_source=habrahabr&utm_medium=rss)
-- [Платформа доверенных сервисов «Росатома» получила крупное обновление](https://habr.com/ru/companies/itfb/news/987790/?utm_campaign=987790&utm_source=habrahabr&utm_medium=rss)
-- [Широкополосные генераторы шума &lpar;ГШ&rpar; для мм-волновых и суб-мм-волновых диапазонов &lpar;до 330 ГГц&rpar;](https://habr.com/ru/companies/meta-catalog/news/987600/?utm_campaign=987600&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры в сговоре: атакующие российскую инфраструктуру группировки координируют усилия](https://habr.com/ru/companies/infowatch/news/987886/?utm_campaign=987886&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: в 2026 году почти 6,5 тыс. студентов начнут обучение по программам «Топ-ИТ» и «Топ-ИИ»](https://habr.com/ru/news/987874/?utm_campaign=987874&utm_source=habrahabr&utm_medium=rss)
+- [Из Postman в код: Connekt и новый взгляд на тестирование API [видео]](https://habr.com/ru/companies/haulmont/news/987858/?utm_campaign=987858&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик научил ИИ извлекать React-компоненты с любого сайта — без исходников](https://habr.com/ru/news/987844/?utm_campaign=987844&utm_source=habrahabr&utm_medium=rss)
+- [Asus добавила поддержку синхронизации цвета с компьютерами Apple Mac в мониторы ProArt](https://habr.com/ru/news/987226/?utm_campaign=987226&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
