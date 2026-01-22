@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic опубликовала обновленную конституцию Claude и показала, как именно модель учат принимать решения](https://habr.com/ru/companies/bothub/news/987642/?utm_campaign=987642&utm_source=habrahabr&utm_medium=rss)
 - [Обновление легковесного проекта Winslop Drop 4 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/987634/?utm_campaign=987634&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla начала выпуск официальных пакетов Firefox RPM для RPM-based дистрибутивов Linux](https://habr.com/ru/news/986998/?utm_campaign=986998&utm_source=habrahabr&utm_medium=rss)
 - [Релиз браузера Pale Moon 34.0](https://habr.com/ru/news/987306/?utm_campaign=987306&utm_source=habrahabr&utm_medium=rss)
 - [Google не будет добавлять рекламу в Gemini — в отличие от OpenAI](https://habr.com/ru/news/987618/?utm_campaign=987618&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали контрактного производителя Apple и угрожают опубликовать CAD-файлы устройств](https://habr.com/ru/news/987616/?utm_campaign=987616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
