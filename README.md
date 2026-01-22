@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nex Computer представила NexPhone — Android-смартфон с поддержкой Windows 11 и Linux Debian](https://habr.com/ru/news/987966/?utm_campaign=987966&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Chroma 1.0. Первая полностью открытая speech to speech модель с клонированием голоса в реальном времени](https://habr.com/ru/companies/bothub/news/987646/?utm_campaign=987646&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимости Cloudflare Universal SSL присвоен идентификатор NotCVE-2026-0001](https://habr.com/ru/news/987962/?utm_campaign=987962&utm_source=habrahabr&utm_medium=rss)
+- [PayPal покупает стартап Cymbio и усиливает ставку на продажу товаров через ИИ-чат-боты](https://habr.com/ru/companies/technokratos/news/987958/?utm_campaign=987958&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code научили писать человечнее, использовав гайд Википедии для борьбы с ИИ-текстами](https://habr.com/ru/news/987956/?utm_campaign=987956&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи по ИБ взломали систему Tesla и ряд зарядных станций для электромобилей на Pwn2Own Automotive 2026](https://habr.com/ru/news/987936/?utm_campaign=987936&utm_source=habrahabr&utm_medium=rss)
-- [В рамках масштабной реорганизации Ubisoft отменила разработку шести игр, акции компании рухнули](https://habr.com/ru/news/987906/?utm_campaign=987906&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры в сговоре: атакующие российскую инфраструктуру группировки координируют усилия](https://habr.com/ru/companies/infowatch/news/987886/?utm_campaign=987886&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: в 2026 году почти 6,5 тыс. студентов начнут обучение по программам «Топ-ИТ» и «Топ-ИИ»](https://habr.com/ru/news/987874/?utm_campaign=987874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
