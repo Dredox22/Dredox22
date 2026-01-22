@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Плейлисты по текстовому запросу в Spotify теперь доступны пользователям из США и Канады](https://habr.com/ru/news/988070/?utm_campaign=988070&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила руководство по промптингу локальных моделей из Foundation Models](https://habr.com/ru/news/988062/?utm_campaign=988062&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный ИИ уровня GPT-5 и Gemini 3: Baidu выпустила ERNIE 5.0](https://habr.com/ru/news/988036/?utm_campaign=988036&utm_source=habrahabr&utm_medium=rss)
 - [Ollama добавила генерацию изображений и превратилась в универсальный локальный AI-хаб](https://habr.com/ru/companies/bothub/news/988034/?utm_campaign=988034&utm_source=habrahabr&utm_medium=rss)
 - [Overworld открыла Waypoint-1. Реалтайм-модель мира для игр и симуляций](https://habr.com/ru/companies/bothub/news/987714/?utm_campaign=987714&utm_source=habrahabr&utm_medium=rss)
-- [40% работников боятся AI, но реальных увольнений пока нет — парадокс Давоса](https://habr.com/ru/news/988016/?utm_campaign=988016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
