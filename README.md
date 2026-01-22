@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатно тестируем 55 видеомоделей: LMArena открыла Video Arena для всех](https://habr.com/ru/news/987830/?utm_campaign=987830&utm_source=habrahabr&utm_medium=rss)
 - [В Общественной палате РФ выступили за ограничение Telegram при невыполнении законодательства РФ](https://habr.com/ru/news/987800/?utm_campaign=987800&utm_source=habrahabr&utm_medium=rss)
 - [Российская BI-платформа Luxms BI стала доступна в маркетплейсе VK Cloud](https://habr.com/ru/companies/luxms_bi/news/987796/?utm_campaign=987796&utm_source=habrahabr&utm_medium=rss)
 - [Платформа доверенных сервисов «Росатома» получила крупное обновление](https://habr.com/ru/companies/itfb/news/987790/?utm_campaign=987790&utm_source=habrahabr&utm_medium=rss)
 - [Широкополосные генераторы шума &lpar;ГШ&rpar; для мм-волновых и суб-мм-волновых диапазонов &lpar;до 330 ГГц&rpar;](https://habr.com/ru/companies/meta-catalog/news/987600/?utm_campaign=987600&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория суперинтеллекта» Meta* уже испытывает первые ИИ-модели](https://habr.com/ru/news/987780/?utm_campaign=987780&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
