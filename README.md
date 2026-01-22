@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code научили писать человечнее, использовав гайд Википедии для борьбы с ИИ-текстами](https://habr.com/ru/news/987956/?utm_campaign=987956&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи по ИБ взломали систему Tesla и ряд зарядных станций для электромобилей на Pwn2Own Automotive 2026](https://habr.com/ru/news/987936/?utm_campaign=987936&utm_source=habrahabr&utm_medium=rss)
 - [В рамках масштабной реорганизации Ubisoft отменила разработку шести игр, акции компании рухнули](https://habr.com/ru/news/987906/?utm_campaign=987906&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры в сговоре: атакующие российскую инфраструктуру группировки координируют усилия](https://habr.com/ru/companies/infowatch/news/987886/?utm_campaign=987886&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: в 2026 году почти 6,5 тыс. студентов начнут обучение по программам «Топ-ИТ» и «Топ-ИИ»](https://habr.com/ru/news/987874/?utm_campaign=987874&utm_source=habrahabr&utm_medium=rss)
-- [Из Postman в код: Connekt и новый взгляд на тестирование API [видео]](https://habr.com/ru/companies/haulmont/news/987858/?utm_campaign=987858&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик научил ИИ извлекать React-компоненты с любого сайта — без исходников](https://habr.com/ru/news/987844/?utm_campaign=987844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
