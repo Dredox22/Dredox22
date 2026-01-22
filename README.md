@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [После взлома систем обработки заявок Zendesk пользователи столкнулись с волной спама](https://habr.com/ru/news/987684/?utm_campaign=987684&utm_source=habrahabr&utm_medium=rss)
-- [GenRobot обновила RealOmni OpenData. Один из самых богатых датасетов для Embodied AI стал еще сложнее](https://habr.com/ru/companies/bothub/news/987648/?utm_campaign=987648&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft поделилась решением проблемы зависания Outlook после обновления Windows](https://habr.com/ru/news/987674/?utm_campaign=987674&utm_source=habrahabr&utm_medium=rss)
-- [Горелкин: введение штрафов за использование VPN не планируется и даже не обсуждается](https://habr.com/ru/news/987678/?utm_campaign=987678&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: на середину января 2026 года Роскомнадзор ограничил доступ к 439 сервисам для обхода блокировок &lpar;VPN-сервисам&rpar;](https://habr.com/ru/news/987670/?utm_campaign=987670&utm_source=habrahabr&utm_medium=rss)
+- [$143 млрд убытков и 18 месяцев до краха: что происходит с OpenAI](https://habr.com/ru/news/987730/?utm_campaign=987730&utm_source=habrahabr&utm_medium=rss)
+- [Chrome в Windows 11 позволит перетаскивать и загружать несколько файлов из веб-приложений в проводник](https://habr.com/ru/news/987712/?utm_campaign=987712&utm_source=habrahabr&utm_medium=rss)
+- [Slimbook выпустила мини-ПК Slimbook ONE на базе Linux и ноутбук Slimbook Executive](https://habr.com/ru/news/987698/?utm_campaign=987698&utm_source=habrahabr&utm_medium=rss)
+- [Первая сотня золотых значков ТехноГТО: 105 человек из 21 региона успешно сдали очные нормативы](https://habr.com/ru/news/987708/?utm_campaign=987708&utm_source=habrahabr&utm_medium=rss)
+- [Humans&amp;amp; привлекла $480 млн без продукта. Рынок снова голосует за имена](https://habr.com/ru/companies/bothub/news/987702/?utm_campaign=987702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
