@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На San Diego Comic‑Con полностью запретили созданное с помощью ИИ искусство после шквала жалоб от художников](https://habr.com/ru/news/988352/?utm_campaign=988352&utm_source=habrahabr&utm_medium=rss)
+- [Проект Deadhand предлагает возможность передать сид-фразы близким при уходе из жизни владельца криптокошелька](https://habr.com/ru/news/988348/?utm_campaign=988348&utm_source=habrahabr&utm_medium=rss)
+- [В РАН назвали топ уязвимостей внедрения ИИ в финансовой сфере](https://habr.com/ru/news/988342/?utm_campaign=988342&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики создали сайт со списком багов, которые уже долгое время игнорирует Apple](https://habr.com/ru/news/988336/?utm_campaign=988336&utm_source=habrahabr&utm_medium=rss)
 - [Итоги года на Standoff Bug Bounty: 32% находок — уязвимости высокого и критического уровня опасности](https://habr.com/ru/companies/pt/news/988296/?utm_campaign=988296&utm_source=habrahabr&utm_medium=rss)
-- [Чипы Huawei в нагрузку к H200. Китай назвал условие для закупок GPU Nvidia](https://habr.com/ru/news/988280/?utm_campaign=988280&utm_source=habrahabr&utm_medium=rss)
-- [The Assistant Axis. Почему LLM съезжают с катушек и как Anthropic предлагает это чинить](https://habr.com/ru/companies/bothub/news/988112/?utm_campaign=988112&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила функцию Personal Intelligence для поиска в интернете](https://habr.com/ru/news/988276/?utm_campaign=988276&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
