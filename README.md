@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft анонсировала новый CLI-интерфейс winapp для разработки приложений на Windows](https://habr.com/ru/news/988154/?utm_campaign=988154&utm_source=habrahabr&utm_medium=rss)
 - [Южная Корея ввела закон по регулированию ИИ](https://habr.com/ru/news/988140/?utm_campaign=988140&utm_source=habrahabr&utm_medium=rss)
 - [Superintelligence Labs передала первые ИИ-модели на внутреннее тестирование](https://habr.com/ru/companies/bothub/news/988136/?utm_campaign=988136&utm_source=habrahabr&utm_medium=rss)
 - [Проект Node.js поменял условия программы вознаграждений за найденные ошибки после отчётов, созданных с помощью ИИ-систем](https://habr.com/ru/news/988134/?utm_campaign=988134&utm_source=habrahabr&utm_medium=rss)
 - [1Password будет предупреждать пользователей о потенциально фишинговых сайтах](https://habr.com/ru/news/988130/?utm_campaign=988130&utm_source=habrahabr&utm_medium=rss)
-- [Epic и Google заключили секретную сделку стоимостью $800 млн на Unreal Engine и сервисы](https://habr.com/ru/news/988118/?utm_campaign=988118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
