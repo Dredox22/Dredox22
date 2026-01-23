@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Прорыв на уровне физики»: Билл Гейтс вложился в оптические чипы, которые обещают заменить GPU](https://habr.com/ru/news/988228/?utm_campaign=988228&utm_source=habrahabr&utm_medium=rss)
-- [Проекту ReactOS исполнилось 30 лет](https://habr.com/ru/news/988210/?utm_campaign=988210&utm_source=habrahabr&utm_medium=rss)
-- [Firstname Lastname: в научных статьях NeurIPS 2025 нашли 100 галлюцинаций](https://habr.com/ru/news/988196/?utm_campaign=988196&utm_source=habrahabr&utm_medium=rss)
-- [Google анонсировала функцию создания мемов в Photos](https://habr.com/ru/news/988166/?utm_campaign=988166&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies назвала ИИ главным катализатором киберугроз в 2026 году](https://habr.com/ru/companies/pt/news/988184/?utm_campaign=988184&utm_source=habrahabr&utm_medium=rss)
+- [Итоги года на Standoff Bug Bounty: 32% находок — уязвимости высокого и критического уровня опасности](https://habr.com/ru/companies/pt/news/988296/?utm_campaign=988296&utm_source=habrahabr&utm_medium=rss)
+- [Чипы Huawei в нагрузку к H200. Китай назвал условие для закупок GPU Nvidia](https://habr.com/ru/news/988280/?utm_campaign=988280&utm_source=habrahabr&utm_medium=rss)
+- [The Assistant Axis. Почему LLM съезжают с катушек и как Anthropic предлагает это чинить](https://habr.com/ru/companies/bothub/news/988112/?utm_campaign=988112&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила функцию Personal Intelligence для поиска в интернете](https://habr.com/ru/news/988276/?utm_campaign=988276&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве ИТ и ИБ за декабрь 2025 года](https://habr.com/ru/companies/ussc/news/987692/?utm_campaign=987692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
