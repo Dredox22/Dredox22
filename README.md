@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Прорыв на уровне физики»: Билл Гейтс вложился в оптические чипы, которые обещают заменить GPU](https://habr.com/ru/news/988228/?utm_campaign=988228&utm_source=habrahabr&utm_medium=rss)
+- [Проекту ReactOS исполнилось 30 лет](https://habr.com/ru/news/988210/?utm_campaign=988210&utm_source=habrahabr&utm_medium=rss)
 - [Firstname Lastname: в научных статьях NeurIPS 2025 нашли 100 галлюцинаций](https://habr.com/ru/news/988196/?utm_campaign=988196&utm_source=habrahabr&utm_medium=rss)
 - [Google анонсировала функцию создания мемов в Photos](https://habr.com/ru/news/988166/?utm_campaign=988166&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies назвала ИИ главным катализатором киберугроз в 2026 году](https://habr.com/ru/companies/pt/news/988184/?utm_campaign=988184&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала новый CLI-интерфейс winapp для разработки приложений на Windows](https://habr.com/ru/news/988154/?utm_campaign=988154&utm_source=habrahabr&utm_medium=rss)
-- [Южная Корея ввела закон по регулированию ИИ](https://habr.com/ru/news/988140/?utm_campaign=988140&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
