@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики создали сайт со списком багов, которые уже долгое время игнорирует Apple](https://habr.com/ru/news/988336/?utm_campaign=988336&utm_source=habrahabr&utm_medium=rss)
 - [Итоги года на Standoff Bug Bounty: 32% находок — уязвимости высокого и критического уровня опасности](https://habr.com/ru/companies/pt/news/988296/?utm_campaign=988296&utm_source=habrahabr&utm_medium=rss)
 - [Чипы Huawei в нагрузку к H200. Китай назвал условие для закупок GPU Nvidia](https://habr.com/ru/news/988280/?utm_campaign=988280&utm_source=habrahabr&utm_medium=rss)
 - [The Assistant Axis. Почему LLM съезжают с катушек и как Anthropic предлагает это чинить](https://habr.com/ru/companies/bothub/news/988112/?utm_campaign=988112&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила функцию Personal Intelligence для поиска в интернете](https://habr.com/ru/news/988276/?utm_campaign=988276&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за декабрь 2025 года](https://habr.com/ru/companies/ussc/news/987692/?utm_campaign=987692&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
