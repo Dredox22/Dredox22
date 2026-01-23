@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Firstname Lastname: в научных статьях NeurIPS 2025 нашли 100 галлюцинаций](https://habr.com/ru/news/988196/?utm_campaign=988196&utm_source=habrahabr&utm_medium=rss)
+- [Google анонсировала функцию создания мемов в Photos](https://habr.com/ru/news/988166/?utm_campaign=988166&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies назвала ИИ главным катализатором киберугроз в 2026 году](https://habr.com/ru/companies/pt/news/988184/?utm_campaign=988184&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала новый CLI-интерфейс winapp для разработки приложений на Windows](https://habr.com/ru/news/988154/?utm_campaign=988154&utm_source=habrahabr&utm_medium=rss)
 - [Южная Корея ввела закон по регулированию ИИ](https://habr.com/ru/news/988140/?utm_campaign=988140&utm_source=habrahabr&utm_medium=rss)
-- [Superintelligence Labs передала первые ИИ-модели на внутреннее тестирование](https://habr.com/ru/companies/bothub/news/988136/?utm_campaign=988136&utm_source=habrahabr&utm_medium=rss)
-- [Проект Node.js поменял условия программы вознаграждений за найденные ошибки после отчётов, созданных с помощью ИИ-систем](https://habr.com/ru/news/988134/?utm_campaign=988134&utm_source=habrahabr&utm_medium=rss)
-- [1Password будет предупреждать пользователей о потенциально фишинговых сайтах](https://habr.com/ru/news/988130/?utm_campaign=988130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
