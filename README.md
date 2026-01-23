@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«6/10 за строгость доказательства»: математики оценили, как GPT-5.2 Pro решает исследовательские задачи](https://habr.com/ru/news/988424/?utm_campaign=988424&utm_source=habrahabr&utm_medium=rss)
+- [Бывший тренер ФК «Сочи» использовал ChatGPT для работы с командой. При нём клуб вылетел из РПЛ](https://habr.com/ru/news/988422/?utm_campaign=988422&utm_source=habrahabr&utm_medium=rss)
 - [TikTok в США официально стал американским активом](https://habr.com/ru/companies/bothub/news/988394/?utm_campaign=988394&utm_source=habrahabr&utm_medium=rss)
 - [Китай вводит «пакетное условие» на покупку ускорителей Nvidia](https://habr.com/ru/companies/bothub/news/988382/?utm_campaign=988382&utm_source=habrahabr&utm_medium=rss)
 - [Apple готовит носимый ИИ-гаджет в формате AirTag](https://habr.com/ru/companies/bothub/news/988372/?utm_campaign=988372&utm_source=habrahabr&utm_medium=rss)
-- [«Боремся не с ИИ, а с идиотами»: Ghostty ввел нулевую терпимость к ИИ-слопу](https://habr.com/ru/news/988366/?utm_campaign=988366&utm_source=habrahabr&utm_medium=rss)
-- [На San Diego Comic‑Con полностью запретили созданное с помощью ИИ искусство после шквала жалоб от художников](https://habr.com/ru/news/988352/?utm_campaign=988352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
