@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qwen3-TTS. Большой open-source шаг в сторону голосовых технологий](https://habr.com/ru/companies/bothub/news/988110/?utm_campaign=988110&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Rust 1.93.0](https://habr.com/ru/news/988102/?utm_campaign=988102&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления СУБД MySQL 9.6.0](https://habr.com/ru/news/987410/?utm_campaign=987410&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA и Eli Lilly вложат $1 млрд в ИИ-лабораторию лекарств](https://habr.com/ru/news/988064/?utm_campaign=988064&utm_source=habrahabr&utm_medium=rss)
 - [Плейлисты по текстовому запросу в Spotify теперь доступны пользователям из США и Канады](https://habr.com/ru/news/988070/?utm_campaign=988070&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила руководство по промптингу локальных моделей из Foundation Models](https://habr.com/ru/news/988062/?utm_campaign=988062&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный ИИ уровня GPT-5 и Gemini 3: Baidu выпустила ERNIE 5.0](https://habr.com/ru/news/988036/?utm_campaign=988036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
