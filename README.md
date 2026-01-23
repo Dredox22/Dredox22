@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple готовит носимый ИИ-гаджет в формате AirTag](https://habr.com/ru/companies/bothub/news/988372/?utm_campaign=988372&utm_source=habrahabr&utm_medium=rss)
+- [«Боремся не с ИИ, а с идиотами»: Ghostty ввел нулевую терпимость к ИИ-слопу](https://habr.com/ru/news/988366/?utm_campaign=988366&utm_source=habrahabr&utm_medium=rss)
 - [На San Diego Comic‑Con полностью запретили созданное с помощью ИИ искусство после шквала жалоб от художников](https://habr.com/ru/news/988352/?utm_campaign=988352&utm_source=habrahabr&utm_medium=rss)
 - [Проект Deadhand предлагает возможность передать сид-фразы близким при уходе из жизни владельца криптокошелька](https://habr.com/ru/news/988348/?utm_campaign=988348&utm_source=habrahabr&utm_medium=rss)
 - [В РАН назвали топ уязвимостей внедрения ИИ в финансовой сфере](https://habr.com/ru/news/988342/?utm_campaign=988342&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики создали сайт со списком багов, которые уже долгое время игнорирует Apple](https://habr.com/ru/news/988336/?utm_campaign=988336&utm_source=habrahabr&utm_medium=rss)
-- [Итоги года на Standoff Bug Bounty: 32% находок — уязвимости высокого и критического уровня опасности](https://habr.com/ru/companies/pt/news/988296/?utm_campaign=988296&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
