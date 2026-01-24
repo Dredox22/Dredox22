@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [900 млн юзеров, одна база данных: как устроен бэкенд ChatGPT](https://habr.com/ru/news/988632/?utm_campaign=988632&utm_source=habrahabr&utm_medium=rss)
 - [Android-смартфон научили сохранять данные о том, как именно он был взломан](https://habr.com/ru/news/988254/?utm_campaign=988254&utm_source=habrahabr&utm_medium=rss)
 - [Увольнения из-за ИИ — просто удобная отмазка, считают в Oxford Economics](https://habr.com/ru/news/988612/?utm_campaign=988612&utm_source=habrahabr&utm_medium=rss)
 - [Ozon введёт штрафы за отсутствие облачного видеонаблюдения в пунктах выдачи](https://habr.com/ru/news/988610/?utm_campaign=988610&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «На рынке России появились кустарные модули оперативной памяти на фоне резкого роста цен»](https://habr.com/ru/news/988604/?utm_campaign=988604&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты зафиксировали рост DDoS-атак в России до 100% и смену тактики киберпреступников](https://habr.com/ru/news/988580/?utm_campaign=988580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
