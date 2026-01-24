@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты зафиксировали рост DDoS-атак в России до 100% и смену тактики киберпреступников](https://habr.com/ru/news/988580/?utm_campaign=988580&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft внедряет Claude Code в свои команды — при том, что владеет GitHub Copilot](https://habr.com/ru/news/988576/?utm_campaign=988576&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: РКН прикрыл возможности обхода ограничений при отключении мобильного интернета через VPN-сервисы](https://habr.com/ru/news/988544/?utm_campaign=988544&utm_source=habrahabr&utm_medium=rss)
 - [Почта Mail заблокировала 29,6 млрд спам-писем за 2025 год](https://habr.com/ru/news/988536/?utm_campaign=988536&utm_source=habrahabr&utm_medium=rss)
 - [«Языковые модели не приведут к AGI»: лауреат Тьюринга поспорил с Амодеи и Хассабисом в Давосе](https://habr.com/ru/news/988516/?utm_campaign=988516&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI хочет получать долю с открытий, сделанных с помощью ИИ](https://habr.com/ru/news/988492/?utm_campaign=988492&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: Outlook для iOS выходит из строя и зависает из-за ошибки в коде обновления](https://habr.com/ru/news/988472/?utm_campaign=988472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
