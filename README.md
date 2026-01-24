@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Wine 11.1](https://habr.com/ru/news/988446/?utm_campaign=988446&utm_source=habrahabr&utm_medium=rss)
 - [Тихо, мирно ДВС — все: NEV 60% в Китае](https://habr.com/ru/news/988428/?utm_campaign=988428&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft впервые публично отдала ключи BitLocker по ордеру ФБР](https://habr.com/ru/news/988432/?utm_campaign=988432&utm_source=habrahabr&utm_medium=rss)
 - [«6/10 за строгость доказательства»: математики оценили, как GPT-5.2 Pro решает исследовательские задачи](https://habr.com/ru/news/988424/?utm_campaign=988424&utm_source=habrahabr&utm_medium=rss)
 - [Бывший тренер ФК «Сочи» использовал ChatGPT для работы с командой. При нём клуб вылетел из РПЛ](https://habr.com/ru/news/988422/?utm_campaign=988422&utm_source=habrahabr&utm_medium=rss)
-- [TikTok в США официально стал американским активом](https://habr.com/ru/companies/bothub/news/988394/?utm_campaign=988394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
