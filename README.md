@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Языковые модели не приведут к AGI»: лауреат Тьюринга поспорил с Амодеи и Хассабисом в Давосе](https://habr.com/ru/news/988516/?utm_campaign=988516&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI хочет получать долю с открытий, сделанных с помощью ИИ](https://habr.com/ru/news/988492/?utm_campaign=988492&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: Outlook для iOS выходит из строя и зависает из-за ошибки в коде обновления](https://habr.com/ru/news/988472/?utm_campaign=988472&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Chawan — текстовый веб-браузер и пейджер для Unix-подобных систем](https://habr.com/ru/news/988456/?utm_campaign=988456&utm_source=habrahabr&utm_medium=rss)
 - [Стримера Twitch и Kick разоблачили из-за функции Windows 11](https://habr.com/ru/news/988460/?utm_campaign=988460&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый руткит Singularity для ядра Linux](https://habr.com/ru/news/988450/?utm_campaign=988450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
