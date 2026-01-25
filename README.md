@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Депутат Сергей Боярский: с постоянно включённым VPN усилия государства на борьбу с преступниками «сводятся на нет»](https://habr.com/ru/news/988656/?utm_campaign=988656&utm_source=habrahabr&utm_medium=rss)
 - [Виталик Бутерин поделился своим списком безопасных приложений, которыми он заменил популярные сервисы](https://habr.com/ru/news/988654/?utm_campaign=988654&utm_source=habrahabr&utm_medium=rss)
 - [Вышел GNU Guix 1.5.0](https://habr.com/ru/news/988578/?utm_campaign=988578&utm_source=habrahabr&utm_medium=rss)
 - [CaveVox: реализация сетевого кооператива на Godot + GdExt &lpar;Rust&rpar; + Quinn &lpar;QUIC&rpar;](https://habr.com/ru/news/988636/?utm_campaign=988636&utm_source=habrahabr&utm_medium=rss)
 - [900 млн юзеров, одна база данных: как устроен бэкенд ChatGPT](https://habr.com/ru/news/988632/?utm_campaign=988632&utm_source=habrahabr&utm_medium=rss)
-- [Android-смартфон научили сохранять данные о том, как именно он был взломан](https://habr.com/ru/news/988254/?utm_campaign=988254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
