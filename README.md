@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Соучредители игровой студии That&#39;s No Moon подали в суд на коллегу за «захват доменного имени» сайта](https://habr.com/ru/news/988674/?utm_campaign=988674&utm_source=habrahabr&utm_medium=rss)
 - [Депутат Сергей Боярский: с постоянно включённым VPN усилия государства на борьбу с преступниками «сводятся на нет»](https://habr.com/ru/news/988656/?utm_campaign=988656&utm_source=habrahabr&utm_medium=rss)
 - [Виталик Бутерин поделился своим списком безопасных приложений, которыми он заменил популярные сервисы](https://habr.com/ru/news/988654/?utm_campaign=988654&utm_source=habrahabr&utm_medium=rss)
 - [Вышел GNU Guix 1.5.0](https://habr.com/ru/news/988578/?utm_campaign=988578&utm_source=habrahabr&utm_medium=rss)
 - [CaveVox: реализация сетевого кооператива на Godot + GdExt &lpar;Rust&rpar; + Quinn &lpar;QUIC&rpar;](https://habr.com/ru/news/988636/?utm_campaign=988636&utm_source=habrahabr&utm_medium=rss)
-- [900 млн юзеров, одна база данных: как устроен бэкенд ChatGPT](https://habr.com/ru/news/988632/?utm_campaign=988632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
