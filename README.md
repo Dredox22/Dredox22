@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т-Технологии» проведёт конференцию для инженеров T-Sync Conf](https://habr.com/ru/news/988762/?utm_campaign=988762&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT, Gemini и Grok провалили тесты на распознавание видео от Sora](https://habr.com/ru/news/988758/?utm_campaign=988758&utm_source=habrahabr&utm_medium=rss)
 - [Глава DeepMind призвал к появлению «новых великих философов» — они понадобятся после AGI](https://habr.com/ru/news/988730/?utm_campaign=988730&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT попался на цитировании Grokipedia, ИИ-энциклопедии Маска](https://habr.com/ru/news/988704/?utm_campaign=988704&utm_source=habrahabr&utm_medium=rss)
 - [Соучредители игровой студии That&#39;s No Moon подали в суд на коллегу за «захват доменного имени» сайта](https://habr.com/ru/news/988674/?utm_campaign=988674&utm_source=habrahabr&utm_medium=rss)
-- [Депутат Сергей Боярский: с постоянно включённым VPN усилия государства на борьбу с преступниками «сводятся на нет»](https://habr.com/ru/news/988656/?utm_campaign=988656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
