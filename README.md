@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел GNU Guix 1.5.0](https://habr.com/ru/news/988578/?utm_campaign=988578&utm_source=habrahabr&utm_medium=rss)
 - [CaveVox: реализация сетевого кооператива на Godot + GdExt &lpar;Rust&rpar; + Quinn &lpar;QUIC&rpar;](https://habr.com/ru/news/988636/?utm_campaign=988636&utm_source=habrahabr&utm_medium=rss)
 - [900 млн юзеров, одна база данных: как устроен бэкенд ChatGPT](https://habr.com/ru/news/988632/?utm_campaign=988632&utm_source=habrahabr&utm_medium=rss)
 - [Android-смартфон научили сохранять данные о том, как именно он был взломан](https://habr.com/ru/news/988254/?utm_campaign=988254&utm_source=habrahabr&utm_medium=rss)
 - [Увольнения из-за ИИ — просто удобная отмазка, считают в Oxford Economics](https://habr.com/ru/news/988612/?utm_campaign=988612&utm_source=habrahabr&utm_medium=rss)
-- [Ozon введёт штрафы за отсутствие облачного видеонаблюдения в пунктах выдачи](https://habr.com/ru/news/988610/?utm_campaign=988610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
