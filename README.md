@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [95,8% «Гарри Поттера» из Claude: в Стэнфорде показали, что ИИ хранят книги целиком](https://habr.com/ru/news/988976/?utm_campaign=988976&utm_source=habrahabr&utm_medium=rss)
+- [Валидационный тест Microsoft может привести к потере данных в Log Analytics в Azure Monitor Agent](https://habr.com/ru/news/988962/?utm_campaign=988962&utm_source=habrahabr&utm_medium=rss)
+- [Международная группа истцов подала в суд на Meta* с обвинением, что компания может читать переписки в WhatsApp](https://habr.com/ru/news/988960/?utm_campaign=988960&utm_source=habrahabr&utm_medium=rss)
+- [Профессор Кёльнского университета потерял два года работы с использованием ChatGPT](https://habr.com/ru/news/988952/?utm_campaign=988952&utm_source=habrahabr&utm_medium=rss)
 - [Ищем спикеров на квартирник: ваш практический кейс нужен DevSecOps-сообществу](https://habr.com/ru/companies/ussc/news/988938/?utm_campaign=988938&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Bottles 61.0 — оболочки на основе Wine для запуска приложений Windows в Linux](https://habr.com/ru/news/988924/?utm_campaign=988924&utm_source=habrahabr&utm_medium=rss)
-- [ИИ помог написать Linux-вредонос VoidLink всего за 6 дней](https://habr.com/ru/news/988914/?utm_campaign=988914&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск системной библиотеки GNU C Library 2.43 &lpar;glibc&rpar;](https://habr.com/ru/news/988718/?utm_campaign=988718&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст представил API веб-клиента Bose SoundTouch на Go для управления саундбарами без поддержки производителя](https://habr.com/ru/news/988734/?utm_campaign=988734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
