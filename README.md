@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила обновлённую метку AirTag с увеличенной зоной покрытия и более громким динамиком](https://habr.com/ru/news/989246/?utm_campaign=989246&utm_source=habrahabr&utm_medium=rss)
+- [Холдинг «Росэл» завершил разработку электронного инициатора для охранных систем](https://habr.com/ru/news/989242/?utm_campaign=989242&utm_source=habrahabr&utm_medium=rss)
 - [Оператор охранных систем Delta заявил о масштабной кибератаке свои IT-системы](https://habr.com/ru/news/989206/?utm_campaign=989206&utm_source=habrahabr&utm_medium=rss)
 - [Доля кибератак на российские компании через подрядчиков возросла в три раза](https://habr.com/ru/news/989200/?utm_campaign=989200&utm_source=habrahabr&utm_medium=rss)
 - [Codex Agent в Jetbrains AI и бесплатный доступ](https://habr.com/ru/news/989190/?utm_campaign=989190&utm_source=habrahabr&utm_medium=rss)
-- [«Октава ДМ» анонсировала новую антенную распределительную систему OWS-ADS](https://habr.com/ru/news/989174/?utm_campaign=989174&utm_source=habrahabr&utm_medium=rss)
-- [15% рынка за год: китайские AI-модели захватывают мир](https://habr.com/ru/news/989154/?utm_campaign=989154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
