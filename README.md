@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Октава ДМ» анонсировала новую антенную распределительную систему OWS-ADS](https://habr.com/ru/news/989174/?utm_campaign=989174&utm_source=habrahabr&utm_medium=rss)
+- [15% рынка за год: китайские AI-модели захватывают мир](https://habr.com/ru/news/989154/?utm_campaign=989154&utm_source=habrahabr&utm_medium=rss)
+- [Прожарка BIM-стандарта «Нанософт» – сделаем его еще ценнее для отрасли](https://habr.com/ru/companies/nanosoft/news/989150/?utm_campaign=989150&utm_source=habrahabr&utm_medium=rss)
+- [Палата лордов Великобритании приняла поправки против использования VPN детьми](https://habr.com/ru/news/989148/?utm_campaign=989148&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «МФА в эпоху ИИ, кибератак и роста требований регуляторов: как перейти на отечественную инфраструктуру без боли»](https://habr.com/ru/companies/aktiv-company/news/989146/?utm_campaign=989146&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/989138/?utm_campaign=989138&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack v0.41 — добавление MongoDB и пачка исправлений](https://habr.com/ru/companies/aenix/news/988364/?utm_campaign=988364&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на вебинар Security Vision «3 шага работы с инцидентом: Автоматизируем обнаружение, реагирование и комплаенс»](https://habr.com/ru/companies/securityvison/news/989128/?utm_campaign=989128&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «В России создадут микроэлектронную корпорацию и вложат в неё 1 трлн рублей до 2030 года»](https://habr.com/ru/news/989126/?utm_campaign=989126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
