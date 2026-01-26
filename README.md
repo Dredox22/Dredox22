@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложения Microsoft 365 более чем на 9 часов перестали работать из-за сбоев](https://habr.com/ru/news/989030/?utm_campaign=989030&utm_source=habrahabr&utm_medium=rss)
-- [«Он сам позвонил в ресторан»: ИИ-агент Clawdbot набрал 20 000 звёзд за сутки](https://habr.com/ru/news/989024/?utm_campaign=989024&utm_source=habrahabr&utm_medium=rss)
-- [Представлено приложение Posturr для macOS, которое размывает изображение на экране, когда пользователь сутулится за ПК](https://habr.com/ru/news/989010/?utm_campaign=989010&utm_source=habrahabr&utm_medium=rss)
-- [Вот почему платить за API Claude — странная затея](https://habr.com/ru/news/988998/?utm_campaign=988998&utm_source=habrahabr&utm_medium=rss)
-- [Selectel открыл первую часть курса по JavaScript](https://habr.com/ru/companies/selectel/news/987968/?utm_campaign=987968&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi выпустила фирменную USB-флешку для своих одноплатников](https://habr.com/ru/news/989108/?utm_campaign=989108&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: сайт оператора охранных систем Delta не работает, пользователи заявили о проблемах с автосигнализациями](https://habr.com/ru/news/989104/?utm_campaign=989104&utm_source=habrahabr&utm_medium=rss)
+- [«Солар» усиливает киберустойчивость SAP-систем в финтехе, промышленности и ритейле с учетом рекомендаций ФСТЭК России](https://habr.com/ru/companies/solarsecurity/news/989082/?utm_campaign=989082&utm_source=habrahabr&utm_medium=rss)
+- [НЛМК ИТ совместно с ITFB Group модернизировали систему управления данными](https://habr.com/ru/companies/itfb/news/989078/?utm_campaign=989078&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: около 600 тыс. покупок прошло в РФ с подтверждением возраста через QR-код в Max](https://habr.com/ru/news/989044/?utm_campaign=989044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
