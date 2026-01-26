@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi выпустила фирменную USB-флешку для своих одноплатников](https://habr.com/ru/news/989108/?utm_campaign=989108&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: сайт оператора охранных систем Delta не работает, пользователи заявили о проблемах с автосигнализациями](https://habr.com/ru/news/989104/?utm_campaign=989104&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» усиливает киберустойчивость SAP-систем в финтехе, промышленности и ритейле с учетом рекомендаций ФСТЭК России](https://habr.com/ru/companies/solarsecurity/news/989082/?utm_campaign=989082&utm_source=habrahabr&utm_medium=rss)
-- [НЛМК ИТ совместно с ITFB Group модернизировали систему управления данными](https://habr.com/ru/companies/itfb/news/989078/?utm_campaign=989078&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: около 600 тыс. покупок прошло в РФ с подтверждением возраста через QR-код в Max](https://habr.com/ru/news/989044/?utm_campaign=989044&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «МФА в эпоху ИИ, кибератак и роста требований регуляторов: как перейти на отечественную инфраструктуру без боли»](https://habr.com/ru/companies/aktiv-company/news/989146/?utm_campaign=989146&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/989138/?utm_campaign=989138&utm_source=habrahabr&utm_medium=rss)
+- [Cozystack v0.41 — добавление MongoDB и пачка исправлений](https://habr.com/ru/companies/aenix/news/988364/?utm_campaign=988364&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар Security Vision «3 шага работы с инцидентом: Автоматизируем обнаружение, реагирование и комплаенс»](https://habr.com/ru/companies/securityvison/news/989128/?utm_campaign=989128&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «В России создадут микроэлектронную корпорацию и вложат в неё 1 трлн рублей до 2030 года»](https://habr.com/ru/news/989126/?utm_campaign=989126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
