@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложения Microsoft 365 более чем на 9 часов перестали работать из-за сбоев](https://habr.com/ru/news/989030/?utm_campaign=989030&utm_source=habrahabr&utm_medium=rss)
+- [«Он сам позвонил в ресторан»: ИИ-агент Clawdbot набрал 20 000 звёзд за сутки](https://habr.com/ru/news/989024/?utm_campaign=989024&utm_source=habrahabr&utm_medium=rss)
 - [Представлено приложение Posturr для macOS, которое размывает изображение на экране, когда пользователь сутулится за ПК](https://habr.com/ru/news/989010/?utm_campaign=989010&utm_source=habrahabr&utm_medium=rss)
 - [Вот почему платить за API Claude — странная затея](https://habr.com/ru/news/988998/?utm_campaign=988998&utm_source=habrahabr&utm_medium=rss)
 - [Selectel открыл первую часть курса по JavaScript](https://habr.com/ru/companies/selectel/news/987968/?utm_campaign=987968&utm_source=habrahabr&utm_medium=rss)
-- [95,8% «Гарри Поттера» из Claude: в Стэнфорде показали, что ИИ хранят книги целиком](https://habr.com/ru/news/988976/?utm_campaign=988976&utm_source=habrahabr&utm_medium=rss)
-- [Валидационный тест Microsoft может привести к потере данных в Log Analytics в Azure Monitor Agent](https://habr.com/ru/news/988962/?utm_campaign=988962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
