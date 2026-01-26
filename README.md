@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft анонсировала новый мощный чип для обработки данных с помощью ИИ](https://habr.com/ru/companies/bothub/news/989256/?utm_campaign=989256&utm_source=habrahabr&utm_medium=rss)
 - [Еврокомиссия начала расследование в отношении чат‑бота Grok](https://habr.com/ru/news/989266/?utm_campaign=989266&utm_source=habrahabr&utm_medium=rss)
 - [Qwen3-Max-Thinking прокачали в бенчмарках и добавили в Claude Code](https://habr.com/ru/news/989264/?utm_campaign=989264&utm_source=habrahabr&utm_medium=rss)
 - [Российские банки попросили не давать ЦБ право устанавливать срок действия платёжных карт](https://habr.com/ru/news/989262/?utm_campaign=989262&utm_source=habrahabr&utm_medium=rss)
 - [В Минпромторге РФ назвали полезным для потомков сбор редкоземов из техники](https://habr.com/ru/news/989258/?utm_campaign=989258&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила обновлённую метку AirTag с увеличенной зоной покрытия и более громким динамиком](https://habr.com/ru/news/989246/?utm_campaign=989246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
