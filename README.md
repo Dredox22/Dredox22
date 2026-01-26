@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск системной библиотеки GNU C Library 2.43 &lpar;glibc&rpar;](https://habr.com/ru/news/988718/?utm_campaign=988718&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст представил API веб-клиента Bose SoundTouch на Go для управления саундбарами без поддержки производителя](https://habr.com/ru/news/988734/?utm_campaign=988734&utm_source=habrahabr&utm_medium=rss)
 - [Linum v2 — открытый видео-ИИ, который два брата собрали с нуля за 2 года](https://habr.com/ru/news/988852/?utm_campaign=988852&utm_source=habrahabr&utm_medium=rss)
 - [Более 500 тыс. звонков принял от российских детей ИИ Дед Мороз](https://habr.com/ru/companies/bothub/news/988842/?utm_campaign=988842&utm_source=habrahabr&utm_medium=rss)
 - [Bloomberg узнал о планах Alibaba провести IPO подразделения по разработке ИИ-чипов](https://habr.com/ru/companies/bothub/news/988836/?utm_campaign=988836&utm_source=habrahabr&utm_medium=rss)
-- [Apple представит своего голосового помощника Siri на базе Gemini в феврале](https://habr.com/ru/companies/bothub/news/988828/?utm_campaign=988828&utm_source=habrahabr&utm_medium=rss)
-- [$150M за движок ускорения нейросетей: команда vLLM основала Inferact](https://habr.com/ru/news/988814/?utm_campaign=988814&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
