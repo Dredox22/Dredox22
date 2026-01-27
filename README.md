@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Оператор охранных систем Delta опубликовал инструкции для клиентов на период восстановления своих сервисов](https://habr.com/ru/news/989328/?utm_campaign=989328&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива для одноплатных ПК DietPi 10.0](https://habr.com/ru/news/989092/?utm_campaign=989092&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: анализ шифрования мессенджера WhatsApp показал, что он может быть подвержен кибератакам](https://habr.com/ru/news/989322/?utm_campaign=989322&utm_source=habrahabr&utm_medium=rss)
 - [От краски до парфюмерии: генеративный ИИ хорошо проявил себя в создании новых материалов в химпроме](https://habr.com/ru/companies/bothub/news/989260/?utm_campaign=989260&utm_source=habrahabr&utm_medium=rss)
 - [«Впереди испытание для всего человечества»: о 5 рисках ИИ в эссе сооснователя Anthropic](https://habr.com/ru/news/989282/?utm_campaign=989282&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала новый мощный чип для обработки данных с помощью ИИ](https://habr.com/ru/companies/bothub/news/989256/?utm_campaign=989256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
