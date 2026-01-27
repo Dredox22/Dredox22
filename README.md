@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Развертывание «Штурвала 2.12.1» под таймер](https://habr.com/ru/companies/chislitellab/news/989618/?utm_campaign=989618&utm_source=habrahabr&utm_medium=rss)
+- [Создатели h3h3 и других YouTube-каналов подали иск против Snap за использование данных для ИИ](https://habr.com/ru/companies/bothub/news/989610/?utm_campaign=989610&utm_source=habrahabr&utm_medium=rss)
 - [У ИИ-ассистента Clawdbot дыры в безопасности — исследователь вскрыл сотни серверов](https://habr.com/ru/news/989558/?utm_campaign=989558&utm_source=habrahabr&utm_medium=rss)
 - [Мобилка, море и нейронки: зовём студентов на интенсив по iOS и Flutter](https://habr.com/ru/companies/yandex/news/989542/?utm_campaign=989542&utm_source=habrahabr&utm_medium=rss)
 - [Nike расследует возможную утечку данных](https://habr.com/ru/news/989546/?utm_campaign=989546&utm_source=habrahabr&utm_medium=rss)
-- [MCP Apps официально представлен: разработчики могут встраивать UI-интерфейсы в ответы ИИ](https://habr.com/ru/companies/bothub/news/989532/?utm_campaign=989532&utm_source=habrahabr&utm_medium=rss)
-- [Сделали безболезненную интеграцию Yandex BareMetal c Managed Kubernetes: пошаговое демо](https://habr.com/ru/companies/yandex_cloud_and_infra/news/989468/?utm_campaign=989468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
