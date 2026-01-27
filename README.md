@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI запустила Prism — бесплатный ИИ для ученых с GPT-5.2 и LaTeX](https://habr.com/ru/news/989726/?utm_campaign=989726&utm_source=habrahabr&utm_medium=rss)
 - [Учёный из ВШЭ вывел формулу для уравнений, считавшихся нерешаемыми](https://habr.com/ru/news/989706/?utm_campaign=989706&utm_source=habrahabr&utm_medium=rss)
 - [Депутат Михаил Делягин предположил, что Telegram заблокируют осенью 2026 года](https://habr.com/ru/news/989686/?utm_campaign=989686&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила новый инструмент для расследования нарушений безопасности](https://habr.com/ru/news/989674/?utm_campaign=989674&utm_source=habrahabr&utm_medium=rss)
 - [«Мы запороли качество письма в GPT-5.2»: Сэм Альтман раскаялся и пообещал всё исправить](https://habr.com/ru/news/989682/?utm_campaign=989682&utm_source=habrahabr&utm_medium=rss)
-- [Ring выпустила инструмент, который покажет, было ли видео с камеры отредактировано](https://habr.com/ru/news/989672/?utm_campaign=989672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
