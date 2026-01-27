@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Fullstack проект на React, Python, Go и Spring: OpenIDE в действии [видео]](https://habr.com/ru/companies/haulmont/news/989662/?utm_campaign=989662&utm_source=habrahabr&utm_medium=rss)
-- [Открытая дискуссия: «Стратегия AI-трансформации: от исследования к реальным бизнес-решениям»](https://habr.com/ru/companies/redmadrobot/news/989642/?utm_campaign=989642&utm_source=habrahabr&utm_medium=rss)
-- [Сможет ли ИИ-агент уложиться в бюджет? Бенчмарк Alibaba DeepPlanning ставит жесткие условия](https://habr.com/ru/companies/bothub/news/989632/?utm_campaign=989632&utm_source=habrahabr&utm_medium=rss)
-- [Развертывание «Штурвала 2.12.1» под таймер](https://habr.com/ru/companies/chislitellab/news/989618/?utm_campaign=989618&utm_source=habrahabr&utm_medium=rss)
-- [Создатели h3h3 и других YouTube-каналов подали иск против Snap за использование данных для ИИ](https://habr.com/ru/companies/bothub/news/989610/?utm_campaign=989610&utm_source=habrahabr&utm_medium=rss)
+- [Депутат Михаил Делягин предположил, что Telegram заблокируют осень 2026 года](https://habr.com/ru/news/989686/?utm_campaign=989686&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила новый инструмент для расследования нарушений безопасности](https://habr.com/ru/news/989674/?utm_campaign=989674&utm_source=habrahabr&utm_medium=rss)
+- [«Мы запороли качество письма в GPT-5.2»: Сэм Альтман раскаялся и пообещал всё исправить](https://habr.com/ru/news/989682/?utm_campaign=989682&utm_source=habrahabr&utm_medium=rss)
+- [Ring выпустила инструмент, который покажет, было ли видео с камеры отредактировано](https://habr.com/ru/news/989672/?utm_campaign=989672&utm_source=habrahabr&utm_medium=rss)
+- [Обновлён открытый кроссплатформенный проект AltSendme 0.3.0 для конфиденциальной одноранговой передачи файлов](https://habr.com/ru/news/989680/?utm_campaign=989680&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
