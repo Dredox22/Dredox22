@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нижняя палата парламента Франции одобрила запрет на соцсети для детей младше 15 лет](https://habr.com/ru/news/989430/?utm_campaign=989430&utm_source=habrahabr&utm_medium=rss)
 - [В Google обнаружили в WhatsApp серьёзную уязвимость безопасности](https://habr.com/ru/news/989398/?utm_campaign=989398&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Kimi K2.5: модель научилась писать код по картинкам и видео](https://habr.com/ru/news/989404/?utm_campaign=989404&utm_source=habrahabr&utm_medium=rss)
 - [Power Query теперь полностью доступен в Excel для веб-пользователей](https://habr.com/ru/news/989392/?utm_campaign=989392&utm_source=habrahabr&utm_medium=rss)
 - [Китайская компания запустила первый в мире завод по производству суставов для роботов](https://habr.com/ru/news/989358/?utm_campaign=989358&utm_source=habrahabr&utm_medium=rss)
-- [Kimi K2.5: новый бесплатный ИИ с режимом «рой агентов»](https://habr.com/ru/news/989354/?utm_campaign=989354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
