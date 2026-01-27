@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Vision вошла в число лидеров международного рейтинга SPARK Matrix](https://habr.com/ru/companies/securityvison/news/989474/?utm_campaign=989474&utm_source=habrahabr&utm_medium=rss)
-- [Обновление легковесного проекта Winslop Drop 5 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/989472/?utm_campaign=989472&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из UC Irvine создали беспроводной трансивер на 140 ГГц](https://habr.com/ru/news/989450/?utm_campaign=989450&utm_source=habrahabr&utm_medium=rss)
-- [Нижняя палата парламента Франции одобрила запрет на соцсети для детей младше 15 лет](https://habr.com/ru/news/989430/?utm_campaign=989430&utm_source=habrahabr&utm_medium=rss)
-- [В Google обнаружили в WhatsApp серьёзную уязвимость безопасности](https://habr.com/ru/news/989398/?utm_campaign=989398&utm_source=habrahabr&utm_medium=rss)
+- [У ИИ-ассистента Clawdbot дыры в безопасности — исследователь вскрыл сотни серверов](https://habr.com/ru/news/989558/?utm_campaign=989558&utm_source=habrahabr&utm_medium=rss)
+- [Мобилка, море и нейронки: зовём студентов на интенсив по iOS и Flutter](https://habr.com/ru/companies/yandex/news/989542/?utm_campaign=989542&utm_source=habrahabr&utm_medium=rss)
+- [Nike расследует возможную утечку данных](https://habr.com/ru/news/989546/?utm_campaign=989546&utm_source=habrahabr&utm_medium=rss)
+- [MCP Apps официально представлен: разработчики могут встраивать UI-интерфейсы в ответы ИИ](https://habr.com/ru/companies/bothub/news/989532/?utm_campaign=989532&utm_source=habrahabr&utm_medium=rss)
+- [Сделали безболезненную интеграцию Yandex BareMetal c Managed Kubernetes: пошаговое демо](https://habr.com/ru/companies/yandex_cloud_and_infra/news/989468/?utm_campaign=989468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
