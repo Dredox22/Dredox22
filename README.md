@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Китайская компания запустила первый в мире завод по производству суставов для роботов](https://habr.com/ru/news/989358/?utm_campaign=989358&utm_source=habrahabr&utm_medium=rss)
+- [Kimi K2.5: новый бесплатный ИИ с режимом «рой агентов»](https://habr.com/ru/news/989354/?utm_campaign=989354&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft запустила процедуру добровольного сокращения штата в своём головном офисе в Париже](https://habr.com/ru/news/989352/?utm_campaign=989352&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпати: «теперь я программирую на английском»](https://habr.com/ru/news/989344/?utm_campaign=989344&utm_source=habrahabr&utm_medium=rss)
 - [Оператор охранных систем Delta опубликовал инструкции для клиентов на период восстановления своих сервисов](https://habr.com/ru/news/989328/?utm_campaign=989328&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива для одноплатных ПК DietPi 10.0](https://habr.com/ru/news/989092/?utm_campaign=989092&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: анализ шифрования мессенджера WhatsApp показал, что он может быть подвержен кибератакам](https://habr.com/ru/news/989322/?utm_campaign=989322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
