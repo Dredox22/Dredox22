@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung представила технологию, которая защитит экран смартфона от подглядываний](https://habr.com/ru/news/990278/?utm_campaign=990278&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3 Pro за полцены: Google запустил бюджетную подписку AI Plus](https://habr.com/ru/news/990352/?utm_campaign=990352&utm_source=habrahabr&utm_medium=rss)
 - [В Teams появится защита от мошенников, которые выдают себя за представителей компаний и госорганов](https://habr.com/ru/news/990252/?utm_campaign=990252&utm_source=habrahabr&utm_medium=rss)
 - [Инженер Google DeepMind представил интерактивную изометрическую карту Нью-Йорка в стиле SimCity](https://habr.com/ru/news/990210/?utm_campaign=990210&utm_source=habrahabr&utm_medium=rss)
 - [ИИ проектирует чипы для собственного ускорения: необычный стартап привлек $300 млн](https://habr.com/ru/news/990164/?utm_campaign=990164&utm_source=habrahabr&utm_medium=rss)
-- [В основную ветку разработки NetworkManager добавлена реализация CLAT](https://habr.com/ru/news/990134/?utm_campaign=990134&utm_source=habrahabr&utm_medium=rss)
-- [Lucy 2.0 трансформирует видео на лету в 1080p и 30 к/с](https://habr.com/ru/companies/bothub/news/990108/?utm_campaign=990108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
