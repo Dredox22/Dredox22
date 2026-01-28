@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ITFB Group вошла в топ-5 лидеров рынка заказной разработки ПО по версии CNews](https://habr.com/ru/companies/itfb/news/990076/?utm_campaign=990076&utm_source=habrahabr&utm_medium=rss)
 - [В сеть утёк интерфейс Aluminium OS — операционной системы, в которую объединены Android и ChromeOS](https://habr.com/ru/news/990064/?utm_campaign=990064&utm_source=habrahabr&utm_medium=rss)
 - [Отказоустойчивый изолированный DNS, конфигурация Mega и другие обновления Selectel](https://habr.com/ru/companies/selectel/news/989950/?utm_campaign=989950&utm_source=habrahabr&utm_medium=rss)
 - [Ученые обнаружили термодинамический способ ИИ-генерации, который экономнее в 10 млрд раз](https://habr.com/ru/companies/bothub/news/990046/?utm_campaign=990046&utm_source=habrahabr&utm_medium=rss)
 - [ASML сокращает 1700 менеджеров, чтобы не мешать инженерам работать](https://habr.com/ru/news/990032/?utm_campaign=990032&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 научили вглядываться в изображения как человек](https://habr.com/ru/news/990026/?utm_campaign=990026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
