@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Moltbot &lpar;ex-Clawdbot&rpar;. Разбор безопасности «убийцы Siri»](https://habr.com/ru/news/989962/?utm_campaign=989962&utm_source=habrahabr&utm_medium=rss)
+- [AI-консультант по работе с SELECTOS в открытом доступе](https://habr.com/ru/companies/selectel/news/989888/?utm_campaign=989888&utm_source=habrahabr&utm_medium=rss)
+- [PT BlackBox Scanner помогает разработчикам устранять уязвимости в веб-приложениях с помощью ИИ](https://habr.com/ru/companies/pt/news/989916/?utm_campaign=989916&utm_source=habrahabr&utm_medium=rss)
+- [Adobe улучшила Generative Fill в Photoshop и добавила бета-функцию для работы с текстом](https://habr.com/ru/companies/bothub/news/989906/?utm_campaign=989906&utm_source=habrahabr&utm_medium=rss)
 - [Штрафы за утечку персональных данных: Россия на восьмом месте в мире](https://habr.com/ru/companies/infowatch/news/989884/?utm_campaign=989884&utm_source=habrahabr&utm_medium=rss)
-- [От сервисов MSS до киберразведки: Innostage на Карте рынка ИБ от TAdviser](https://habr.com/ru/companies/innostage/news/989872/?utm_campaign=989872&utm_source=habrahabr&utm_medium=rss)
-- [Объем заказов ASML превзошел ожидания на фоне роста спроса на ИИ](https://habr.com/ru/news/989868/?utm_campaign=989868&utm_source=habrahabr&utm_medium=rss)
-- [В Москве пройдёт фестиваль для будущих геймдев-разработчиков DREAM BIG FEST](https://habr.com/ru/news/989858/?utm_campaign=989858&utm_source=habrahabr&utm_medium=rss)
-- [РКН не получал требований о блокировке «Википедии»](https://habr.com/ru/news/989828/?utm_campaign=989828&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
