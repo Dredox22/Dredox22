@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отложила отключение функции SMTP AUTH в Exchange Online](https://habr.com/ru/news/990354/?utm_campaign=990354&utm_source=habrahabr&utm_medium=rss)
+- [109 504 строки С++ или 1000 часов видео? Figure AI обновила робомодель Helix 02](https://habr.com/ru/companies/bothub/news/990378/?utm_campaign=990378&utm_source=habrahabr&utm_medium=rss)
 - [Samsung представила технологию, которая защитит экран смартфона от подглядываний](https://habr.com/ru/news/990278/?utm_campaign=990278&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Pro за полцены: Google запустил бюджетную подписку AI Plus](https://habr.com/ru/news/990352/?utm_campaign=990352&utm_source=habrahabr&utm_medium=rss)
 - [В Teams появится защита от мошенников, которые выдают себя за представителей компаний и госорганов](https://habr.com/ru/news/990252/?utm_campaign=990252&utm_source=habrahabr&utm_medium=rss)
-- [Инженер Google DeepMind представил интерактивную изометрическую карту Нью-Йорка в стиле SimCity](https://habr.com/ru/news/990210/?utm_campaign=990210&utm_source=habrahabr&utm_medium=rss)
-- [ИИ проектирует чипы для собственного ускорения: необычный стартап привлек $300 млн](https://habr.com/ru/news/990164/?utm_campaign=990164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
