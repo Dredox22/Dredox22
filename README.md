@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ, который решит хоть 1 задачу, войдет в историю: представлен бенчмарк FrontierMath: Open Problems](https://habr.com/ru/news/990384/?utm_campaign=990384&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отложила отключение функции SMTP AUTH в Exchange Online](https://habr.com/ru/news/990354/?utm_campaign=990354&utm_source=habrahabr&utm_medium=rss)
 - [109 504 строки С++ или 1000 часов видео? Figure AI обновила робомодель Helix 02](https://habr.com/ru/companies/bothub/news/990378/?utm_campaign=990378&utm_source=habrahabr&utm_medium=rss)
 - [Samsung представила технологию, которая защитит экран смартфона от подглядываний](https://habr.com/ru/news/990278/?utm_campaign=990278&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Pro за полцены: Google запустил бюджетную подписку AI Plus](https://habr.com/ru/news/990352/?utm_campaign=990352&utm_source=habrahabr&utm_medium=rss)
-- [В Teams появится защита от мошенников, которые выдают себя за представителей компаний и госорганов](https://habr.com/ru/news/990252/?utm_campaign=990252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
