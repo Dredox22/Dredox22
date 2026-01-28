@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Moltbot &lpar;ex-Clawdbot&rpar;. Разбор безопасности «убийцы Siri»](https://habr.com/ru/news/989962/?utm_campaign=989962&utm_source=habrahabr&utm_medium=rss)
-- [AI-консультант по работе с SELECTOS в открытом доступе](https://habr.com/ru/companies/selectel/news/989888/?utm_campaign=989888&utm_source=habrahabr&utm_medium=rss)
-- [PT BlackBox Scanner помогает разработчикам устранять уязвимости в веб-приложениях с помощью ИИ](https://habr.com/ru/companies/pt/news/989916/?utm_campaign=989916&utm_source=habrahabr&utm_medium=rss)
-- [Adobe улучшила Generative Fill в Photoshop и добавила бета-функцию для работы с текстом](https://habr.com/ru/companies/bothub/news/989906/?utm_campaign=989906&utm_source=habrahabr&utm_medium=rss)
-- [Штрафы за утечку персональных данных: Россия на восьмом месте в мире](https://habr.com/ru/companies/infowatch/news/989884/?utm_campaign=989884&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3 научили вглядываться в изображения как человек](https://habr.com/ru/news/990026/?utm_campaign=990026&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует функцию запуска Chrome сразу после загрузки Windows 10/11](https://habr.com/ru/news/990020/?utm_campaign=990020&utm_source=habrahabr&utm_medium=rss)
+- [Думай как человек, считай как Python: Google наделяет Gemini 3 Flash “агентным зрением”](https://habr.com/ru/companies/bothub/news/990016/?utm_campaign=990016&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект Astrological CPU Scheduler для планирования загрузки ЦП на основе астрологических принципов](https://habr.com/ru/news/990000/?utm_campaign=990000&utm_source=habrahabr&utm_medium=rss)
+- [Moltbot &lpar;ex-Clawdbot&rpar;. Разбор безопасности «убийцы Siri» — закрываем кормушку для хакера](https://habr.com/ru/news/989962/?utm_campaign=989962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
