@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена компания Amutable для проектов по обеспечению криптографически верифицируемой целостности Linux-систем](https://habr.com/ru/news/989838/?utm_campaign=989838&utm_source=habrahabr&utm_medium=rss)
+- [Razer тестирует инструмент для настройки своих клавиатур в браузере](https://habr.com/ru/news/989816/?utm_campaign=989816&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp введёт «Строгие настройки учётной записи» для защиты от кибератак](https://habr.com/ru/news/989810/?utm_campaign=989810&utm_source=habrahabr&utm_medium=rss)
 - [StatCounter: доля пользователей Windows 11 продолжает снижаться](https://habr.com/ru/news/989808/?utm_campaign=989808&utm_source=habrahabr&utm_medium=rss)
 - [ИИ нашел все 12 уязвимостей релиза OpenSSL. Одному багу — 28 лет](https://habr.com/ru/news/989806/?utm_campaign=989806&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Kunena 7.0 — стабильный релиз для Joomla! 5.4 и 6.0](https://habr.com/ru/news/989802/?utm_campaign=989802&utm_source=habrahabr&utm_medium=rss)
-- [С 27 января клиенты «Сбера», ВТБ и «Альфа-Банка» перестали видеть при входящем звонке пометку «банк»](https://habr.com/ru/news/989796/?utm_campaign=989796&utm_source=habrahabr&utm_medium=rss)
-- [Глава кибербезопасности США загрузил секретные документы в ChatGPT — и сработала его же система защиты](https://habr.com/ru/news/989792/?utm_campaign=989792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
