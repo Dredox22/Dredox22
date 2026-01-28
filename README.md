@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Teams появится защита от мошенников, которые выдают себя за представителей компаний и госорганов](https://habr.com/ru/news/990252/?utm_campaign=990252&utm_source=habrahabr&utm_medium=rss)
+- [Инженер Google DeepMind представил интерактивную изометрическую карту Нью-Йорка в стиле SimCity](https://habr.com/ru/news/990210/?utm_campaign=990210&utm_source=habrahabr&utm_medium=rss)
 - [ИИ проектирует чипы для собственного ускорения: необычный стартап привлек $300 млн](https://habr.com/ru/news/990164/?utm_campaign=990164&utm_source=habrahabr&utm_medium=rss)
 - [В основную ветку разработки NetworkManager добавлена реализация CLAT](https://habr.com/ru/news/990134/?utm_campaign=990134&utm_source=habrahabr&utm_medium=rss)
 - [Lucy 2.0 трансформирует видео на лету в 1080p и 30 к/с](https://habr.com/ru/companies/bothub/news/990108/?utm_campaign=990108&utm_source=habrahabr&utm_medium=rss)
-- [ITFB Group вошла в топ-5 лидеров рынка заказной разработки ПО по версии CNews](https://habr.com/ru/companies/itfb/news/990076/?utm_campaign=990076&utm_source=habrahabr&utm_medium=rss)
-- [В сеть утёк интерфейс Aluminium OS — операционной системы, в которую объединены Android и ChromeOS](https://habr.com/ru/news/990064/?utm_campaign=990064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
