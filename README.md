@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление BitTorrent-клиента Transmission 4.1.0](https://habr.com/ru/news/989428/?utm_campaign=989428&utm_source=habrahabr&utm_medium=rss)
+- [Релиз GParted 1.8.0](https://habr.com/ru/news/989552/?utm_campaign=989552&utm_source=habrahabr&utm_medium=rss)
 - [Команда Swift учредила рабочую группу для оптимизации и адаптации языка программирования под Windows](https://habr.com/ru/news/989754/?utm_campaign=989754&utm_source=habrahabr&utm_medium=rss)
 - [Manus AI⚹ вводит систему Skills: следующий шаг в эволюции ИИ-агентов](https://habr.com/ru/companies/bothub/news/989742/?utm_campaign=989742&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запустила Prism — бесплатный ИИ для ученых с GPT-5.2 и LaTeX](https://habr.com/ru/news/989726/?utm_campaign=989726&utm_source=habrahabr&utm_medium=rss)
-- [Учёный из ВШЭ вывел формулу для уравнений, считавшихся нерешаемыми](https://habr.com/ru/news/989706/?utm_campaign=989706&utm_source=habrahabr&utm_medium=rss)
-- [Депутат Михаил Делягин предположил, что Telegram заблокируют осенью 2026 года](https://habr.com/ru/news/989686/?utm_campaign=989686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
