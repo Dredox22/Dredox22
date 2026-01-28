@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Написание «браузера» с помощью «половины разработчика» и ИИ-агента ELIZA за минуты и в 76 строках кода на C](https://habr.com/ru/news/989780/?utm_campaign=989780&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление BitTorrent-клиента Transmission 4.1.0](https://habr.com/ru/news/989428/?utm_campaign=989428&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GParted 1.8.0](https://habr.com/ru/news/989552/?utm_campaign=989552&utm_source=habrahabr&utm_medium=rss)
-- [Команда Swift учредила рабочую группу для оптимизации и адаптации языка программирования под Windows](https://habr.com/ru/news/989754/?utm_campaign=989754&utm_source=habrahabr&utm_medium=rss)
-- [Manus AI⚹ вводит систему Skills: следующий шаг в эволюции ИИ-агентов](https://habr.com/ru/companies/bothub/news/989742/?utm_campaign=989742&utm_source=habrahabr&utm_medium=rss)
+- [StatCounter: доля пользователей Windows 11 продолжает снижаться](https://habr.com/ru/news/989808/?utm_campaign=989808&utm_source=habrahabr&utm_medium=rss)
+- [ИИ нашел все 12 уязвимостей релиза OpenSSL. Одному багу — 28 лет](https://habr.com/ru/news/989806/?utm_campaign=989806&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Kunena 7.0 — стабильный релиз для Joomla! 5.4 и 6.0](https://habr.com/ru/news/989802/?utm_campaign=989802&utm_source=habrahabr&utm_medium=rss)
+- [С 27 января клиенты «Сбера», ВТБ и «Альфа-Банка» перестали видеть при входящем звонке пометку «банк»](https://habr.com/ru/news/989796/?utm_campaign=989796&utm_source=habrahabr&utm_medium=rss)
+- [Глава кибербезопасности США загрузил секретные документы в ChatGPT — и сработала его же система защиты](https://habr.com/ru/news/989792/?utm_campaign=989792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
