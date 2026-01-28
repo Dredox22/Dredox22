@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлена компания Amutable для проектов по обеспечению криптографически верифицируемой целостности Linux-систем](https://habr.com/ru/news/989838/?utm_campaign=989838&utm_source=habrahabr&utm_medium=rss)
-- [Razer тестирует инструмент для настройки своих клавиатур в браузере](https://habr.com/ru/news/989816/?utm_campaign=989816&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp введёт «Строгие настройки учётной записи» для защиты от кибератак](https://habr.com/ru/news/989810/?utm_campaign=989810&utm_source=habrahabr&utm_medium=rss)
-- [StatCounter: доля пользователей Windows 11 продолжает снижаться](https://habr.com/ru/news/989808/?utm_campaign=989808&utm_source=habrahabr&utm_medium=rss)
-- [ИИ нашел все 12 уязвимостей релиза OpenSSL. Одному багу — 28 лет](https://habr.com/ru/news/989806/?utm_campaign=989806&utm_source=habrahabr&utm_medium=rss)
+- [От сервисов MSS до киберразведки: Innostage на Карте рынка ИБ от TAdviser](https://habr.com/ru/companies/innostage/news/989872/?utm_campaign=989872&utm_source=habrahabr&utm_medium=rss)
+- [Объем заказов ASML превзошел ожидания на фоне роста спроса на ИИ](https://habr.com/ru/news/989868/?utm_campaign=989868&utm_source=habrahabr&utm_medium=rss)
+- [В Москве пройдёт фестиваль для будущих геймдев-разработчиков DREAM BIG FEST](https://habr.com/ru/news/989858/?utm_campaign=989858&utm_source=habrahabr&utm_medium=rss)
+- [РКН не получал требований о блокировке «Википедии»](https://habr.com/ru/news/989828/?utm_campaign=989828&utm_source=habrahabr&utm_medium=rss)
+- [Уголовная ответственность за автоматизированную обработку персональных данных](https://habr.com/ru/news/989854/?utm_campaign=989854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
