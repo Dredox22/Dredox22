@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [От текста к ИИ-миру за секунды: Google запустила публичный доступ к Genie 3](https://habr.com/ru/news/990768/?utm_campaign=990768&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-эксперты предупреждают: ИИ-помощник Moltbot может быть небезопасен при использовании в корпоративных сетях](https://habr.com/ru/news/990742/?utm_campaign=990742&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный видео-ИИ Grok Imagine возглавил рейтинги — уровень Veo 3.1 и Sora 2](https://habr.com/ru/news/990750/?utm_campaign=990750&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик из РФ добился от ICANN вернуть свои аккаунты, которые геополитически заблокировал регистратор Namecheap](https://habr.com/ru/news/990734/?utm_campaign=990734&utm_source=habrahabr&utm_medium=rss)
 - [Tesla прекращает выпуск Model S и Model X и делает ставку на роботов Optimus](https://habr.com/ru/companies/bothub/news/990744/?utm_campaign=990744&utm_source=habrahabr&utm_medium=rss)
-- [Google отключила функцию «Принять сообщение» на старых моделях Pixel](https://habr.com/ru/news/990730/?utm_campaign=990730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
