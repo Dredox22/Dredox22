@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В сообществе Linux появился план действий на случай ухода Линуса Торвальдса](https://habr.com/ru/news/990462/?utm_campaign=990462&utm_source=habrahabr&utm_medium=rss)
 - [Grok провалил тест на распознавание ненависти. Claude — лучший](https://habr.com/ru/news/990450/?utm_campaign=990450&utm_source=habrahabr&utm_medium=rss)
 - [Figure AI создала нейросеть Helix 02 для управления роботами](https://habr.com/ru/companies/bothub/news/990446/?utm_campaign=990446&utm_source=habrahabr&utm_medium=rss)
 - [SoftBank обсуждает еще $30 млрд в OpenAI — месяц спустя после раунда на $41 млрд](https://habr.com/ru/news/990444/?utm_campaign=990444&utm_source=habrahabr&utm_medium=rss)
 - [Китай разрешил Alibaba, Tencent и ByteDance закупить 400 тыс. Nvidia H200](https://habr.com/ru/companies/bothub/news/990440/?utm_campaign=990440&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI раскрыла внутреннюю механику Codex CLI](https://habr.com/ru/companies/bothub/news/990430/?utm_campaign=990430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
