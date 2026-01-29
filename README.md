@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У Gemini появилось агентное зрение](https://habr.com/ru/companies/bothub/news/990608/?utm_campaign=990608&utm_source=habrahabr&utm_medium=rss)
+- [UserGate и PARUS стали технологическими партнерами](https://habr.com/ru/companies/usergate/news/990606/?utm_campaign=990606&utm_source=habrahabr&utm_medium=rss)
 - [Функции «Яндекс Ключа» и «Яндекс ID» стали доступны в одном мобильном приложении](https://habr.com/ru/news/990566/?utm_campaign=990566&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Glow 26.2 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/990304/?utm_campaign=990304&utm_source=habrahabr&utm_medium=rss)
 - [Apple обяжет Patreon перевести оставшихся создателей на систему подписки компании на покупки в приложениях](https://habr.com/ru/news/990516/?utm_campaign=990516&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face отказались от $500 млн Nvidia, чтобы остаться нейтральными для AMD и Intel](https://habr.com/ru/news/990546/?utm_campaign=990546&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила в Chrome ИИ-функцию автоматического просмотра](https://habr.com/ru/news/990500/?utm_campaign=990500&utm_source=habrahabr&utm_medium=rss)
-- [14 февраля для влюблённых во фронтенд: приглашаем на «Я Фронтенд»](https://habr.com/ru/companies/yandex/news/990074/?utm_campaign=990074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
