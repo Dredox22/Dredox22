@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик представил vcad — Rust-библиотеку для параметрического CAD-моделирования](https://habr.com/ru/news/990702/?utm_campaign=990702&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI планирует создать соцсеть с биометрической проверкой пользователей, чтобы решить проблему ботов](https://habr.com/ru/news/990690/?utm_campaign=990690&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-платформа найма тайно собирала досье на соискателей. На нее подали в суд](https://habr.com/ru/news/990660/?utm_campaign=990660&utm_source=habrahabr&utm_medium=rss)
 - [Zero Trust Network Access: дать доступ и не потерять контроль](https://habr.com/ru/companies/ussc/news/990654/?utm_campaign=990654&utm_source=habrahabr&utm_medium=rss)
 - [Когда заказная разработка выигрывает у готовых решений?](https://habr.com/ru/companies/itfb/news/990650/?utm_campaign=990650&utm_source=habrahabr&utm_medium=rss)
-- [PGMeetupNSK. Разговоры вокруг QA: Python-фреймворки, ПАК для PostgreSQL и тестирование на 10 000 точек доступа](https://habr.com/ru/companies/postgrespro/news/987484/?utm_campaign=987484&utm_source=habrahabr&utm_medium=rss)
-- [Создатель RuneScape пообещал не использовать ИИ для создания объектов в своих играх](https://habr.com/ru/news/990626/?utm_campaign=990626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
