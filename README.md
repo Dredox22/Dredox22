@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Университет Айовы открыл проект своего строительного 3D-принтера для печати бетоном](https://habr.com/ru/news/990788/?utm_campaign=990788&utm_source=habrahabr&utm_medium=rss)
 - [Обновление iOS 26.3 beta 3 «сломало» экосистемные функции на новых iPhone и iPad](https://habr.com/ru/news/990778/?utm_campaign=990778&utm_source=habrahabr&utm_medium=rss)
 - [От текста к ИИ-миру за секунды: Google запустила публичный доступ к Genie 3](https://habr.com/ru/news/990768/?utm_campaign=990768&utm_source=habrahabr&utm_medium=rss)
 - [ИБ-эксперты предупреждают: ИИ-помощник Moltbot может быть небезопасен при использовании в корпоративных сетях](https://habr.com/ru/news/990742/?utm_campaign=990742&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатный видео-ИИ Grok Imagine возглавил рейтинги — уровень Veo 3.1 и Sora 2](https://habr.com/ru/news/990750/?utm_campaign=990750&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик из РФ добился от ICANN вернуть свои аккаунты, которые геополитически заблокировал регистратор Namecheap](https://habr.com/ru/news/990734/?utm_campaign=990734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
