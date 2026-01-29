@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [С электронного адреса Microsoft стал поступать спам](https://habr.com/ru/news/990478/?utm_campaign=990478&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала внедрение ускорителя Maia 200](https://habr.com/ru/companies/bothub/news/990434/?utm_campaign=990434&utm_source=habrahabr&utm_medium=rss)
-- [В WhatsApp появится несколько платных подписок](https://habr.com/ru/news/990468/?utm_campaign=990468&utm_source=habrahabr&utm_medium=rss)
-- [В сообществе Linux появился план действий на случай ухода Линуса Торвальдса](https://habr.com/ru/news/990462/?utm_campaign=990462&utm_source=habrahabr&utm_medium=rss)
-- [Grok провалил тест на распознавание ненависти. Claude — лучший](https://habr.com/ru/news/990450/?utm_campaign=990450&utm_source=habrahabr&utm_medium=rss)
+- [Apple обяжет Patreon перевести оставшихся создателей на систему подписки компании на покупки в приложениях](https://habr.com/ru/news/990516/?utm_campaign=990516&utm_source=habrahabr&utm_medium=rss)
+- [Hugging Face отказались от $500 млн Nvidia, чтобы остаться нейтральными для AMD и Intel](https://habr.com/ru/news/990546/?utm_campaign=990546&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила в Chrome ИИ-функцию автоматического просмотра](https://habr.com/ru/news/990500/?utm_campaign=990500&utm_source=habrahabr&utm_medium=rss)
+- [14 февраля для влюблённых во фронтенд: приглашаем на «Я Фронтенд»](https://habr.com/ru/companies/yandex/news/990074/?utm_campaign=990074&utm_source=habrahabr&utm_medium=rss)
+- [Инструмент PS2Recomp позволит запускать игры для PlayStation 2 на современных ПК без эмуляции](https://habr.com/ru/news/990488/?utm_campaign=990488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
