@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИБ-эксперты предупреждают: ИИ-помощник Moltbot может быть небезопасен при использовании в корпоративных сетях](https://habr.com/ru/news/990742/?utm_campaign=990742&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатный видео-ИИ Grok Imagine возглавил рейтинги — уровень Veo 3.1 и Sora 2](https://habr.com/ru/news/990750/?utm_campaign=990750&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик из РФ добился от ICANN вернуть свои аккаунты, которые геополитически заблокировал регистратор Namecheap](https://habr.com/ru/news/990734/?utm_campaign=990734&utm_source=habrahabr&utm_medium=rss)
+- [Tesla прекращает выпуск Model S и Model X и делает ставку на роботов Optimus](https://habr.com/ru/companies/bothub/news/990744/?utm_campaign=990744&utm_source=habrahabr&utm_medium=rss)
 - [Google отключила функцию «Принять сообщение» на старых моделях Pixel](https://habr.com/ru/news/990730/?utm_campaign=990730&utm_source=habrahabr&utm_medium=rss)
-- [Khronos Group опубликовал план развития графического API Vulkan на 2026 год](https://habr.com/ru/news/990724/?utm_campaign=990724&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 набрала миллиард пользователей быстрее, чем Windows 10](https://habr.com/ru/news/990714/?utm_campaign=990714&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил vcad — Rust-библиотеку для параметрического CAD-моделирования](https://habr.com/ru/news/990702/?utm_campaign=990702&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI планирует создать соцсеть с биометрической проверкой пользователей, чтобы решить проблему ботов](https://habr.com/ru/news/990690/?utm_campaign=990690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
