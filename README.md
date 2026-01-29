@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok провалил тест на распознавание ненависти. Claude — лучший](https://habr.com/ru/news/990450/?utm_campaign=990450&utm_source=habrahabr&utm_medium=rss)
+- [Figure AI создала нейросеть Helix 02 для управления роботами](https://habr.com/ru/companies/bothub/news/990446/?utm_campaign=990446&utm_source=habrahabr&utm_medium=rss)
+- [SoftBank обсуждает еще $30 млрд в OpenAI — месяц спустя после раунда на $41 млрд](https://habr.com/ru/news/990444/?utm_campaign=990444&utm_source=habrahabr&utm_medium=rss)
+- [Китай разрешил Alibaba, Tencent и ByteDance закупить 400 тыс. Nvidia H200](https://habr.com/ru/companies/bothub/news/990440/?utm_campaign=990440&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI раскрыла внутреннюю механику Codex CLI](https://habr.com/ru/companies/bothub/news/990430/?utm_campaign=990430&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск мультимедийного фреймворка GStreamer 1.28](https://habr.com/ru/news/990060/?utm_campaign=990060&utm_source=habrahabr&utm_medium=rss)
-- [Учёные представили приложение для распознавания следов динозавров](https://habr.com/ru/news/990392/?utm_campaign=990392&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi анонсировала модуль Smart Display, с помощью которого Compute Module 5 можно подключать к цифровым вывескам](https://habr.com/ru/news/990390/?utm_campaign=990390&utm_source=habrahabr&utm_medium=rss)
-- [ИИ, который решит хоть 1 задачу, войдет в историю: представлен бенчмарк FrontierMath: Open Problems](https://habr.com/ru/news/990384/?utm_campaign=990384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
