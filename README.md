@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Награждены лучшие учёные и исследовательские проекты Сбера](https://habr.com/ru/companies/sberbank/news/990868/?utm_campaign=990868&utm_source=habrahabr&utm_medium=rss)
-- [DeepMind запускает Project Genie](https://habr.com/ru/companies/bothub/news/990876/?utm_campaign=990876&utm_source=habrahabr&utm_medium=rss)
-- [Samsung запустит программу Care+ по неограниченному ремонту](https://habr.com/ru/news/990866/?utm_campaign=990866&utm_source=habrahabr&utm_medium=rss)
-- [Как получить до +10 баллов к ЕГЭ за достижения в играх Берлоги и других проектах](https://habr.com/ru/news/990864/?utm_campaign=990864&utm_source=habrahabr&utm_medium=rss)
-- [В Signal внедрили опцию закреплённых сообщений в чатах](https://habr.com/ru/news/990858/?utm_campaign=990858&utm_source=habrahabr&utm_medium=rss)
+- [Группа ПИК отчиталась перед ФАС о том, как выполняет требования регулятора по допуску интернет-провайдеров в свои дома](https://habr.com/ru/news/990918/?utm_campaign=990918&utm_source=habrahabr&utm_medium=rss)
+- [Clawdbot вновь переименовали: Moltbot не прижился, теперь OpenClaw](https://habr.com/ru/news/990906/?utm_campaign=990906&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX и Apple ведут переговоры, чтобы iPhone 18 Pro получили прямую поддержку Starlink](https://habr.com/ru/news/990900/?utm_campaign=990900&utm_source=habrahabr&utm_medium=rss)
+- [В США цены на SSD за одну ночь выросли в 2-3 раза](https://habr.com/ru/news/990888/?utm_campaign=990888&utm_source=habrahabr&utm_medium=rss)
+- [Пропускная способность PT Container Security увеличилась до 3,5 раз](https://habr.com/ru/companies/pt/news/990884/?utm_campaign=990884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
