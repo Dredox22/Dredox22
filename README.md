@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап Fauna Robotics представил человекоподобного робота по имени Sprout](https://habr.com/ru/news/991068/?utm_campaign=991068&utm_source=habrahabr&utm_medium=rss)
 - [Kimi K2.5 вошла в тройку лучших ИИ для дизайна — первая открытая модель на этом уровне](https://habr.com/ru/news/991050/?utm_campaign=991050&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: российские банки практически не используют Max для работы с клиентами](https://habr.com/ru/news/991034/?utm_campaign=991034&utm_source=habrahabr&utm_medium=rss)
 - [Apple пересмотрела цены на приложения и подписки в странах с обновлённой налоговой политикой](https://habr.com/ru/news/990992/?utm_campaign=990992&utm_source=habrahabr&utm_medium=rss)
 - [Ai2 открыла кодинг-агентов SERA. Почему это важнее, чем кажется на первый взгляд](https://habr.com/ru/companies/bothub/news/990950/?utm_campaign=990950&utm_source=habrahabr&utm_medium=rss)
-- [В Rutube зафиксировали более 1,4 млрд сетевых атак на свою IT-инфраструктуру в 2025 году](https://habr.com/ru/news/990932/?utm_campaign=990932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
