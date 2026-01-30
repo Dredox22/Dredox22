@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел открытый проект cool-retro-term 2.0.0-beta1 — эмулятор терминала с интерфейсом, напоминающим старые CRT мониторы](https://habr.com/ru/news/990834/?utm_campaign=990834&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI собирает очередные $100 млрд — Amazon обсуждает половину суммы](https://habr.com/ru/news/990828/?utm_campaign=990828&utm_source=habrahabr&utm_medium=rss)
-- [Tencent открыла HPC-Ops, библиотеку для максимальной выжимки из H100 и H200](https://habr.com/ru/companies/bothub/news/990824/?utm_campaign=990824&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia начала тестирование Linux-клиента для своего облачного игрового сервиса GeForce NOW](https://habr.com/ru/news/990822/?utm_campaign=990822&utm_source=habrahabr&utm_medium=rss)
-- [Вышел LibrePCB 2.0.0](https://habr.com/ru/news/990630/?utm_campaign=990630&utm_source=habrahabr&utm_medium=rss)
+- [В Signal внедрили опцию закреплённых сообщений в чатах](https://habr.com/ru/news/990858/?utm_campaign=990858&utm_source=habrahabr&utm_medium=rss)
+- [Правоохранительные органы США прекратили работу хакерского форума RAMP](https://habr.com/ru/news/990860/?utm_campaign=990860&utm_source=habrahabr&utm_medium=rss)
+- [Luxms и 2ГИС начали сотрудничество в области бизнес-аналитики](https://habr.com/ru/companies/luxms_bi/news/990852/?utm_campaign=990852&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch Vision поможет проследить жизненный цикл документов](https://habr.com/ru/companies/infowatch/news/990846/?utm_campaign=990846&utm_source=habrahabr&utm_medium=rss)
+- [«Кожаным вход воспрещен». Запущен Moltbook — Reddit для ИИ-агентов](https://habr.com/ru/news/990844/?utm_campaign=990844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
