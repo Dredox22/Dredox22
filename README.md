@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустила генератор ИИ-миров — и обрушила акции игровых компаний](https://habr.com/ru/news/991186/?utm_campaign=991186&utm_source=habrahabr&utm_medium=rss)
 - [Минфин РФ предложил ограничить суммой в 1 млн рублей в месяц внесение наличных через банкоматы для физлиц](https://habr.com/ru/news/991170/?utm_campaign=991170&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объяснила недавние сбои загрузки Windows 11 проблемами с декабрьским патчем безопасности](https://habr.com/ru/news/991146/?utm_campaign=991146&utm_source=habrahabr&utm_medium=rss)
 - [Роботакси Waymo сбило ребенка — компания утверждает, что человек справился бы хуже](https://habr.com/ru/news/991154/?utm_campaign=991154&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игр для Linux создали альянс Open Gaming Collective для повышения совместимости](https://habr.com/ru/news/991120/?utm_campaign=991120&utm_source=habrahabr&utm_medium=rss)
-- [Игрушка с искусственным интеллектом раскрыла 50 000 записей чатов с детьми](https://habr.com/ru/news/991108/?utm_campaign=991108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
