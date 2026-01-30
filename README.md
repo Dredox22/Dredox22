@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект cool-retro-term 2.0.0-beta1 — эмулятор терминала с интерфейсом, напоминающим старые CRT мониторы](https://habr.com/ru/news/990834/?utm_campaign=990834&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI собирает очередные $100 млрд — Amazon обсуждает половину суммы](https://habr.com/ru/news/990828/?utm_campaign=990828&utm_source=habrahabr&utm_medium=rss)
 - [Tencent открыла HPC-Ops, библиотеку для максимальной выжимки из H100 и H200](https://habr.com/ru/companies/bothub/news/990824/?utm_campaign=990824&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia начала тестирование Linux-клиента для своего облачного игрового сервиса GeForce NOW](https://habr.com/ru/news/990822/?utm_campaign=990822&utm_source=habrahabr&utm_medium=rss)
 - [Вышел LibrePCB 2.0.0](https://habr.com/ru/news/990630/?utm_campaign=990630&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Google Maps позволит пользоваться Gemini во время ходьбы или езды на велосипеде](https://habr.com/ru/news/990804/?utm_campaign=990804&utm_source=habrahabr&utm_medium=rss)
-- [Университет Айовы открыл проект своего строительного 3D-принтера для печати бетоном](https://habr.com/ru/news/990788/?utm_campaign=990788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
