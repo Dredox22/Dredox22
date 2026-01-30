@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Группа ПИК отчиталась перед ФАС о том, как выполняет требования регулятора по допуску интернет-провайдеров в свои дома](https://habr.com/ru/news/990918/?utm_campaign=990918&utm_source=habrahabr&utm_medium=rss)
-- [Clawdbot вновь переименовали: Moltbot не прижился, теперь OpenClaw](https://habr.com/ru/news/990906/?utm_campaign=990906&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX и Apple ведут переговоры, чтобы iPhone 18 Pro получили прямую поддержку Starlink](https://habr.com/ru/news/990900/?utm_campaign=990900&utm_source=habrahabr&utm_medium=rss)
-- [В США цены на SSD за одну ночь выросли в 2-3 раза](https://habr.com/ru/news/990888/?utm_campaign=990888&utm_source=habrahabr&utm_medium=rss)
-- [Пропускная способность PT Container Security увеличилась до 3,5 раз](https://habr.com/ru/companies/pt/news/990884/?utm_campaign=990884&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia открыла стек Earth-2 для прогноза погоды](https://habr.com/ru/companies/bothub/news/990958/?utm_campaign=990958&utm_source=habrahabr&utm_medium=rss)
+- [В PyCharm появилась встроенная поддержка Google Colab](https://habr.com/ru/news/990942/?utm_campaign=990942&utm_source=habrahabr&utm_medium=rss)
+- [Hugging Face отказалась от инвестиций Nvidia на 500 млн долларов](https://habr.com/ru/companies/bothub/news/990938/?utm_campaign=990938&utm_source=habrahabr&utm_medium=rss)
+- [Премьера Платформы nanoCAD 26 – новой версии российской САПР, в которой учтены пожелания тысяч инженеров](https://habr.com/ru/companies/nanosoft/news/990936/?utm_campaign=990936&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила экстренный патч для устранения уязвимости нулевого дня в Office](https://habr.com/ru/news/990904/?utm_campaign=990904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
