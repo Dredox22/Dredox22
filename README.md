@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Награждены лучшие учёные и исследовательские проекты Сбера](https://habr.com/ru/companies/sberbank/news/990868/?utm_campaign=990868&utm_source=habrahabr&utm_medium=rss)
+- [DeepMind запускает Project Genie](https://habr.com/ru/companies/bothub/news/990876/?utm_campaign=990876&utm_source=habrahabr&utm_medium=rss)
+- [Samsung запустит программу Care+ по неограниченному ремонту](https://habr.com/ru/news/990866/?utm_campaign=990866&utm_source=habrahabr&utm_medium=rss)
+- [Как получить до +10 баллов к ЕГЭ за достижения в играх Берлоги и других проектах](https://habr.com/ru/news/990864/?utm_campaign=990864&utm_source=habrahabr&utm_medium=rss)
 - [В Signal внедрили опцию закреплённых сообщений в чатах](https://habr.com/ru/news/990858/?utm_campaign=990858&utm_source=habrahabr&utm_medium=rss)
-- [Правоохранительные органы США прекратили работу хакерского форума RAMP](https://habr.com/ru/news/990860/?utm_campaign=990860&utm_source=habrahabr&utm_medium=rss)
-- [Luxms и 2ГИС начали сотрудничество в области бизнес-аналитики](https://habr.com/ru/companies/luxms_bi/news/990852/?utm_campaign=990852&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch Vision поможет проследить жизненный цикл документов](https://habr.com/ru/companies/infowatch/news/990846/?utm_campaign=990846&utm_source=habrahabr&utm_medium=rss)
-- [«Кожаным вход воспрещен». Запущен Moltbook — Reddit для ИИ-агентов](https://habr.com/ru/news/990844/?utm_campaign=990844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
