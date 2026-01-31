@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«npm — это вирус?»: как продажа установки Clawbot принесла $17K за три дня](https://habr.com/ru/news/991354/?utm_campaign=991354&utm_source=habrahabr&utm_medium=rss)
 - [Для Google Chrome создали функцию визуальной маркировки контента, созданного ИИ](https://habr.com/ru/news/991306/?utm_campaign=991306&utm_source=habrahabr&utm_medium=rss)
 - [Группа депутатов предложила Госдуме ввести бессрочный мораторий на блокировку мессенджеров и соцсетей](https://habr.com/ru/news/991326/?utm_campaign=991326&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Anthropic: ИИ-инструменты программирования вредят обучению, если не задаваться вопросом «почему»](https://habr.com/ru/companies/bothub/news/991320/?utm_campaign=991320&utm_source=habrahabr&utm_medium=rss)
 - [VK Play представила сервисы матчмейкинга и лидербордов для игровых разработчиков](https://habr.com/ru/news/991318/?utm_campaign=991318&utm_source=habrahabr&utm_medium=rss)
-- [Цифровая археология: Разработчик-археолог воскресил GTK 1.3 для MSVC 2022](https://habr.com/ru/news/991314/?utm_campaign=991314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
