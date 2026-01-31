@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для Google Chrome создали функцию визуальной маркировки контента, созданного ИИ](https://habr.com/ru/news/991306/?utm_campaign=991306&utm_source=habrahabr&utm_medium=rss)
+- [Группа депутатов предложила Госдуме ввести бессрочный мораторий на блокировку мессенджеров и соцсетей](https://habr.com/ru/news/991326/?utm_campaign=991326&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Anthropic: ИИ-инструменты программирования вредят обучению, если не задаваться вопросом «почему»](https://habr.com/ru/companies/bothub/news/991320/?utm_campaign=991320&utm_source=habrahabr&utm_medium=rss)
 - [VK Play представила сервисы матчмейкинга и лидербордов для игровых разработчиков](https://habr.com/ru/news/991318/?utm_campaign=991318&utm_source=habrahabr&utm_medium=rss)
 - [Цифровая археология: Разработчик-археолог воскресил GTK 1.3 для MSVC 2022](https://habr.com/ru/news/991314/?utm_campaign=991314&utm_source=habrahabr&utm_medium=rss)
-- [«Т-Банк» открыл новый набор на для студентов и выпускников вузов «Мини-CEO»](https://habr.com/ru/news/991312/?utm_campaign=991312&utm_source=habrahabr&utm_medium=rss)
-- [Apple пересмотрела расчёты выплат для разработчиков приложений в App Store из-за изменений в налоговом законодательстве](https://habr.com/ru/news/991298/?utm_campaign=991298&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
