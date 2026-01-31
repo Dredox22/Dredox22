@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первая ИИ-поездка по Марсу: Claude проложил маршрут для Perseverance](https://habr.com/ru/news/991380/?utm_campaign=991380&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Мошенники оформляют sim‑карты на умерших россиян»](https://habr.com/ru/news/991356/?utm_campaign=991356&utm_source=habrahabr&utm_medium=rss)
 - [«npm — это вирус?»: как продажа установки Clawbot принесла $17K за три дня](https://habr.com/ru/news/991354/?utm_campaign=991354&utm_source=habrahabr&utm_medium=rss)
 - [Для Google Chrome создали функцию визуальной маркировки контента, созданного ИИ](https://habr.com/ru/news/991306/?utm_campaign=991306&utm_source=habrahabr&utm_medium=rss)
 - [Группа депутатов предложила Госдуме ввести бессрочный мораторий на блокировку мессенджеров и соцсетей](https://habr.com/ru/news/991326/?utm_campaign=991326&utm_source=habrahabr&utm_medium=rss)
-- [Исследование Anthropic: ИИ-инструменты программирования вредят обучению, если не задаваться вопросом «почему»](https://habr.com/ru/companies/bothub/news/991320/?utm_campaign=991320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
