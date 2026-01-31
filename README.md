@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т-Банк» открыл новый набор на для студентов и выпускников вузов «Мини-CEO»](https://habr.com/ru/news/991312/?utm_campaign=991312&utm_source=habrahabr&utm_medium=rss)
+- [Apple пересмотрела расчёты выплат для разработчиков приложений в App Store из-за изменений в налоговом законодательстве](https://habr.com/ru/news/991298/?utm_campaign=991298&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft потеряла $357 млрд за один день — второй крупнейший обвал в США](https://habr.com/ru/news/991292/?utm_campaign=991292&utm_source=habrahabr&utm_medium=rss)
 - [ИИ помогает писать код, но мешает учиться — эксперимент Anthropic](https://habr.com/ru/news/991290/?utm_campaign=991290&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft исправила ошибку доступа к зашифрованным электронным письмам в Outlook](https://habr.com/ru/news/991272/?utm_campaign=991272&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отключит NTLM по умолчанию в будущих версиях Windows](https://habr.com/ru/news/991254/?utm_campaign=991254&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила ошибку в Outlook с доступом к зашифрованным письмам](https://habr.com/ru/news/991246/?utm_campaign=991246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
