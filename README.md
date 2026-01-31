@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила ошибку в Outlook с доступом к зашифрованным письмам](https://habr.com/ru/news/991246/?utm_campaign=991246&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи DuckDuckGo проголосовали против функций ИИ](https://habr.com/ru/news/991240/?utm_campaign=991240&utm_source=habrahabr&utm_medium=rss)
 - [Стартап из Казахстана представил сервис GoFish — рыбалку на удалёнке](https://habr.com/ru/news/991228/?utm_campaign=991228&utm_source=habrahabr&utm_medium=rss)
 - [Обновлён проект Just the Browser, который удаляет ИИ, телеметрию и раздражающие элементы из браузеров для ПК](https://habr.com/ru/news/991152/?utm_campaign=991152&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.0](https://habr.com/ru/news/991140/?utm_campaign=991140&utm_source=habrahabr&utm_medium=rss)
-- [Cloud X Day 2026: Облачная конференция](https://habr.com/ru/news/991196/?utm_campaign=991196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
