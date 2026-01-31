@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап из Казахстана представил сервис GoFish — рыбалку на удалёнке](https://habr.com/ru/news/991228/?utm_campaign=991228&utm_source=habrahabr&utm_medium=rss)
+- [Обновлён проект Just the Browser, который удаляет ИИ, телеметрию и раздражающие элементы из браузеров для ПК](https://habr.com/ru/news/991152/?utm_campaign=991152&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.0](https://habr.com/ru/news/991140/?utm_campaign=991140&utm_source=habrahabr&utm_medium=rss)
 - [Cloud X Day 2026: Облачная конференция](https://habr.com/ru/news/991196/?utm_campaign=991196&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила генератор ИИ-миров — и обрушила акции игровых компаний](https://habr.com/ru/news/991186/?utm_campaign=991186&utm_source=habrahabr&utm_medium=rss)
-- [Минфин РФ предложил ограничить суммой в 1 млн рублей в месяц внесение наличных через банкоматы для физлиц](https://habr.com/ru/news/991170/?utm_campaign=991170&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила недавние сбои загрузки Windows 11 проблемами с декабрьским патчем безопасности](https://habr.com/ru/news/991146/?utm_campaign=991146&utm_source=habrahabr&utm_medium=rss)
-- [Роботакси Waymo сбило ребенка — компания утверждает, что человек справился бы хуже](https://habr.com/ru/news/991154/?utm_campaign=991154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
