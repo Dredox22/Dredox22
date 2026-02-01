@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Кошмар для кибербезопасности»: Андрей Карпати — об ИИ-соцсети Moltbook](https://habr.com/ru/news/991486/?utm_campaign=991486&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты создали свой «сайт для взрослых» MoItHub с контентом для ИИ-ботов](https://habr.com/ru/news/991470/?utm_campaign=991470&utm_source=habrahabr&utm_medium=rss)
 - [Проект GNU gettext достиг версии 1.0 после более чем 30 лет разработки, в решение добавлены функции LLM](https://habr.com/ru/news/991278/?utm_campaign=991278&utm_source=habrahabr&utm_medium=rss)
 - [Вышел дистрибутив Linux Lite 7.8, основанный на Ubuntu 24.04.3 LTS и среде рабочего стола Xfce](https://habr.com/ru/news/991336/?utm_campaign=991336&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-бум приводит к банкротству разработчиков ПО](https://habr.com/ru/news/991412/?utm_campaign=991412&utm_source=habrahabr&utm_medium=rss)
-- [Первая ИИ-поездка по Марсу: Claude проложил маршрут для Perseverance](https://habr.com/ru/news/991380/?utm_campaign=991380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
