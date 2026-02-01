@@ -89,7 +89,7 @@
 - [Google продлила сроки поддержки для модели Pixel Tablet до 2028 года](https://habr.com/ru/news/991496/?utm_campaign=991496&utm_source=habrahabr&utm_medium=rss)
 - [«Кошмар для кибербезопасности»: Андрей Карпати — об ИИ-соцсети Moltbook](https://habr.com/ru/news/991486/?utm_campaign=991486&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты создали свой «сайт для взрослых» MoItHub с контентом для ИИ-ботов](https://habr.com/ru/news/991470/?utm_campaign=991470&utm_source=habrahabr&utm_medium=rss)
-- [Проект GNU gettext достиг версии 1.0 после более чем 30 лет разработки, в решение добавлены функции LLM](https://habr.com/ru/news/991278/?utm_campaign=991278&utm_source=habrahabr&utm_medium=rss)
+- [Вышел AnyDesk 9.6.9 для Windows, AnyDesk 7.1.3 для Raspberry Pi и Linux](https://habr.com/ru/news/991364/?utm_campaign=991364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
