@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новинки AMD, еще одно исследование про ИИ-агентов и другие события из мира ML](https://habr.com/ru/companies/selectel/news/991756/?utm_campaign=991756&utm_source=habrahabr&utm_medium=rss)
-- [YouTube удалил два самых популярных канала с AI-слопом](https://habr.com/ru/companies/bothub/news/991858/?utm_campaign=991858&utm_source=habrahabr&utm_medium=rss)
-- [Судья в Сан-Франциско готова отклонить иск xAI к OpenAI о краже коммерческих тайн](https://habr.com/ru/news/991832/?utm_campaign=991832&utm_source=habrahabr&utm_medium=rss)
-- [Open source SOTA модель Kimi K2.5 доступна бесплатно в KodaCode](https://habr.com/ru/companies/koda/news/991748/?utm_campaign=991748&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: спецслужбы запретили вносить в «белый список» приложения банков без системы хранения переписок](https://habr.com/ru/news/991788/?utm_campaign=991788&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba вкладывает $431 млн в агрессивное продвижение своего Qwen AI](https://habr.com/ru/companies/bothub/news/991868/?utm_campaign=991868&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PPEM 2.4: совместная работа с планами и расширенный контроль](https://habr.com/ru/companies/postgrespro/news/989668/?utm_campaign=989668&utm_source=habrahabr&utm_medium=rss)
+- [Практический гайд по использованию Claude Code для код-ревью](https://habr.com/ru/news/991890/?utm_campaign=991890&utm_source=habrahabr&utm_medium=rss)
+- [Sony запантетовала геймпад с тачскрином для выбора расположения кнопок](https://habr.com/ru/news/991874/?utm_campaign=991874&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск представил генератор видео Grok Imagine 1.0 от xAI](https://habr.com/ru/companies/bothub/news/991864/?utm_campaign=991864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
