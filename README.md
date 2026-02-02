@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi снова повышает цены на одноплатники из-за подорожания модулей памяти](https://habr.com/ru/news/991964/?utm_campaign=991964&utm_source=habrahabr&utm_medium=rss)
+- [Бразильский финтех PicPay провёл IPO в США на $434 млн и сохранил цену акций в первый день торгов](https://habr.com/ru/companies/technokratos/news/991930/?utm_campaign=991930&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/991926/?utm_campaign=991926&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba вкладывает $431 млн в агрессивное продвижение своего Qwen AI](https://habr.com/ru/companies/bothub/news/991868/?utm_campaign=991868&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PPEM 2.4: совместная работа с планами и расширенный контроль](https://habr.com/ru/companies/postgrespro/news/989668/?utm_campaign=989668&utm_source=habrahabr&utm_medium=rss)
-- [Практический гайд по использованию Claude Code для код-ревью](https://habr.com/ru/news/991890/?utm_campaign=991890&utm_source=habrahabr&utm_medium=rss)
-- [Sony запантетовала геймпад с тачскрином для выбора расположения кнопок](https://habr.com/ru/news/991874/?utm_campaign=991874&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск представил генератор видео Grok Imagine 1.0 от xAI](https://habr.com/ru/companies/bothub/news/991864/?utm_campaign=991864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
