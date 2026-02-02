@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare выпустила Pingora v0.7.0 для разработки защищённых высокопроизводительных сетевых сервисов на языке Rust](https://habr.com/ru/news/991550/?utm_campaign=991550&utm_source=habrahabr&utm_medium=rss)
+- [Найден способ фонового прослушивания YouTube через браузеры смартфонов без покупки Premium](https://habr.com/ru/news/991624/?utm_campaign=991624&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпати воспроизвел GPT-2 за $73 — в 2019-м это стоило в 600 раз дороже](https://habr.com/ru/news/991606/?utm_campaign=991606&utm_source=habrahabr&utm_medium=rss)
 - [Нью-Йорк закрывает ИИ-бота за $600K, советовавшего нарушать законы](https://habr.com/ru/news/991564/?utm_campaign=991564&utm_source=habrahabr&utm_medium=rss)
 - [Конгресс США обвинил Nvidia в помощи китайским военным](https://habr.com/ru/news/991500/?utm_campaign=991500&utm_source=habrahabr&utm_medium=rss)
-- [Google продлила сроки поддержки для модели Pixel Tablet до 2028 года](https://habr.com/ru/news/991496/?utm_campaign=991496&utm_source=habrahabr&utm_medium=rss)
-- [«Кошмар для кибербезопасности»: Андрей Карпати — об ИИ-соцсети Moltbook](https://habr.com/ru/news/991486/?utm_campaign=991486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
