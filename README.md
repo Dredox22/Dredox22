@@ -87,7 +87,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Представлен ИИ-агент nanobot — это Clawdbot, из которого выкинули 99% кода](https://habr.com/ru/news/991998/?utm_campaign=991998&utm_source=habrahabr&utm_medium=rss)
 - [В Vertex AI засветился Claude Sonnet 5: «свора агентов» и цена вдвое ниже Opus](https://habr.com/ru/news/991984/?utm_campaign=991984&utm_source=habrahabr&utm_medium=rss)
-- [Samsung анонсировала 13-дюймовый дисплей на основе цифровых чернил с корпусом из фитопланктона](https://habr.com/ru/news/991976/?utm_campaign=991976&utm_source=habrahabr&utm_medium=rss)
+- [Samsung анонсировала 13-дюймовый дисплей на основе цифровых чернил с корпусом из биополимера на основе фитопланктона](https://habr.com/ru/news/991976/?utm_campaign=991976&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносные промпты в виде стихов позволяют обойти правила и ограничения в ИИ-системах](https://habr.com/ru/news/991956/?utm_campaign=991956&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi снова повышает цены на одноплатники из-за подорожания модулей памяти](https://habr.com/ru/news/991964/?utm_campaign=991964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
