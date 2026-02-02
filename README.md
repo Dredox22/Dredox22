@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен ИИ-агент nanobot — это Clawdbot, из которого выкинули 99% кода](https://habr.com/ru/news/991998/?utm_campaign=991998&utm_source=habrahabr&utm_medium=rss)
+- [В Vertex AI засветился Claude Sonnet 5: «свора агентов» и цена вдвое ниже Opus](https://habr.com/ru/news/991984/?utm_campaign=991984&utm_source=habrahabr&utm_medium=rss)
 - [Samsung анонсировала 13-дюймовый дисплей на основе цифровых чернил с корпусом из фитопланктона](https://habr.com/ru/news/991976/?utm_campaign=991976&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносные промпты в виде стихов позволяют обойти правила и ограничения в ИИ-системах](https://habr.com/ru/news/991956/?utm_campaign=991956&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi снова повышает цены на одноплатники из-за подорожания модулей памяти](https://habr.com/ru/news/991964/?utm_campaign=991964&utm_source=habrahabr&utm_medium=rss)
-- [Бразильский финтех PicPay провёл IPO в США на $434 млн и сохранил цену акций в первый день торгов](https://habr.com/ru/companies/technokratos/news/991930/?utm_campaign=991930&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/991926/?utm_campaign=991926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
