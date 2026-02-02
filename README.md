@@ -85,9 +85,9 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source SOTA модель Kimi K2.5 доступна бесплатно в KodaCode](https://habr.com/ru/companies/koda/news/991748/?utm_campaign=991748&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: спецслужбы запретили вносить в «белый список» приложения банков без системы хранения переписок](https://habr.com/ru/news/991788/?utm_campaign=991788&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект ANet — стек для создания защищённых туннелей](https://habr.com/ru/news/991764/?utm_campaign=991764&utm_source=habrahabr&utm_medium=rss)
-- [Чип-волокно тоньше волоса, который переживёт наезд грузовика](https://habr.com/ru/news/991760/?utm_campaign=991760&utm_source=habrahabr&utm_medium=rss)
 - [ИИ решил задачу Эрдёша — но есть нюанс](https://habr.com/ru/news/991750/?utm_campaign=991750&utm_source=habrahabr&utm_medium=rss)
 - [Молодой Билл Гейтс начал сражаться с первыми в мире пиратами софта 50 лет назад](https://habr.com/ru/news/991722/?utm_campaign=991722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
