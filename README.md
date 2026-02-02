@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SanDisk повысила цены и теперь SSD стоят дороже ПК](https://habr.com/ru/news/991784/?utm_campaign=991784&utm_source=habrahabr&utm_medium=rss)
+- [Проблема с выключением ПК возникла после обновления Windows у большего числа пользователей, чем предполагала Microsoft](https://habr.com/ru/news/991786/?utm_campaign=991786&utm_source=habrahabr&utm_medium=rss)
+- [Кодинг-агент OpenAI Codex доступен бесплатно — в виде приложения для macOS](https://habr.com/ru/news/992016/?utm_campaign=992016&utm_source=habrahabr&utm_medium=rss)
 - [Представлен ИИ-агент nanobot — это Clawdbot, из которого выкинули 99% кода](https://habr.com/ru/news/991998/?utm_campaign=991998&utm_source=habrahabr&utm_medium=rss)
 - [В Vertex AI засветился Claude Sonnet 5: «свора агентов» и цена вдвое ниже Opus](https://habr.com/ru/news/991984/?utm_campaign=991984&utm_source=habrahabr&utm_medium=rss)
-- [Samsung анонсировала 13-дюймовый дисплей на основе цифровых чернил с корпусом из биополимера на основе фитопланктона](https://habr.com/ru/news/991976/?utm_campaign=991976&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносные промпты в виде стихов позволяют обойти правила и ограничения в ИИ-системах](https://habr.com/ru/news/991956/?utm_campaign=991956&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi снова повышает цены на одноплатники из-за подорожания модулей памяти](https://habr.com/ru/news/991964/?utm_campaign=991964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
