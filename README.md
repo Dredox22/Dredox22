@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ решил задачу Эрдёша — но есть нюанс](https://habr.com/ru/news/991750/?utm_campaign=991750&utm_source=habrahabr&utm_medium=rss)
+- [Молодой Билл Гейтс начал сражаться с первыми в мире пиратами софта 50 лет назад](https://habr.com/ru/news/991722/?utm_campaign=991722&utm_source=habrahabr&utm_medium=rss)
 - [Часть кода WhatsApp переписали на языке Rust](https://habr.com/ru/news/991690/?utm_campaign=991690&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Plone сообщили о внедрении вредоноса в репозиторий проекта на GitHub](https://habr.com/ru/news/991684/?utm_campaign=991684&utm_source=habrahabr&utm_medium=rss)
 - [Smart App Control в Windows 11 можно будет активировать без переустановки ОС](https://habr.com/ru/news/991660/?utm_campaign=991660&utm_source=habrahabr&utm_medium=rss)
-- [10 ИИ-агентов вместо команды: как один разработчик автоматизировал маркетинг SiteGPT](https://habr.com/ru/news/991652/?utm_campaign=991652&utm_source=habrahabr&utm_medium=rss)
-- [$100 млрд? «Ничего подобного»: как Nvidia за два дня сменила риторику по OpenAI](https://habr.com/ru/news/991644/?utm_campaign=991644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
