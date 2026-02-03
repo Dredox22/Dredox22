@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-помощник Moltbot вызвал опасения у специалистов по кибербезопасности](https://habr.com/ru/news/992192/?utm_campaign=992192&utm_source=habrahabr&utm_medium=rss)
+- [Представлен Git 2.53](https://habr.com/ru/news/992160/?utm_campaign=992160&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Rust Coreutils 0.6.0](https://habr.com/ru/news/992142/?utm_campaign=992142&utm_source=habrahabr&utm_medium=rss)
 - [Медиасервер Jellyfin стал доступен на телевизорах Samsung Tizen](https://habr.com/ru/news/992136/?utm_campaign=992136&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры удвоили использование уникального вредоносного ПО в атаках на российские компании](https://habr.com/ru/companies/pt/news/992044/?utm_campaign=992044&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент Google нашел дыру в ИИ-агенте Clawdbot — и сам ее закрыл](https://habr.com/ru/news/992128/?utm_campaign=992128&utm_source=habrahabr&utm_medium=rss)
-- [В Hypergryph рассказали о списаниями $80 тысяч у игроков в Arknights: Endfield из-за сбоя в работе PayPal](https://habr.com/ru/news/992112/?utm_campaign=992112&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала поэтапно развёртывать новое меню «Пуск» в Windows 11](https://habr.com/ru/news/992104/?utm_campaign=992104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
