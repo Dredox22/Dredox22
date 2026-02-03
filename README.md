@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Запуск новых продуктов и укрепление рыночных позиций: EvaTeam подвела итоги 2025 года](https://habr.com/ru/companies/evateam/news/992290/?utm_campaign=992290&utm_source=habrahabr&utm_medium=rss)
-- [В России появился новый норматив «ТехноГТО» по технологии компьютерного зрения](https://habr.com/ru/news/992282/?utm_campaign=992282&utm_source=habrahabr&utm_medium=rss)
-- [Чем дольше ИИ думает — тем больше несет чушь: исследование Anthropic](https://habr.com/ru/news/992254/?utm_campaign=992254&utm_source=habrahabr&utm_medium=rss)
-- [Фонд «Игра» и ITFB Group стали победителями премии «Проект года» от Global CIO](https://habr.com/ru/companies/itfb/news/992226/?utm_campaign=992226&utm_source=habrahabr&utm_medium=rss)
-- [В России провели первый расчёт цифровым рублём в рамках госконтракта](https://habr.com/ru/news/992214/?utm_campaign=992214&utm_source=habrahabr&utm_medium=rss)
+- [Компьютерное зрение — новый норматив ТехноГТО](https://habr.com/ru/news/992328/?utm_campaign=992328&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba отгрузила 100 тыс. ИИ-чипов Zhenwu 810E](https://habr.com/ru/companies/bothub/news/992306/?utm_campaign=992306&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI обвинила xAI в уничтожении доказательств по антимонопольному иску](https://habr.com/ru/news/992318/?utm_campaign=992318&utm_source=habrahabr&utm_medium=rss)
+- [Golang — ВСЁ? Мнение эксперта](https://habr.com/ru/companies/avito/news/992314/?utm_campaign=992314&utm_source=habrahabr&utm_medium=rss)
+- [В Steam вышел симулятор хакера HackHub](https://habr.com/ru/news/992304/?utm_campaign=992304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
