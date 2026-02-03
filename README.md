@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Xcode 26.3 появилась поддержка ИИ-агентов Claude, Codex и MCP](https://habr.com/ru/news/992460/?utm_campaign=992460&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик нашёл аппаратную проблему в Apple Neural Engine в iPhone 16 Pro Max](https://habr.com/ru/news/992454/?utm_campaign=992454&utm_source=habrahabr&utm_medium=rss)
 - [Мы уже создали AGI — неожиданная статья в Nature с разбором 10 возражений](https://habr.com/ru/news/992428/?utm_campaign=992428&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Qwen3-Coder-Next: модель с открытыми весами для кодинг-агентов](https://habr.com/ru/companies/otus/news/992404/?utm_campaign=992404&utm_source=habrahabr&utm_medium=rss)
 - [Apple неправильно указала расположение DFU-портов в MacBook](https://habr.com/ru/news/992398/?utm_campaign=992398&utm_source=habrahabr&utm_medium=rss)
-- [В AI IDE Qoder запустили Free Trial на новую модель](https://habr.com/ru/news/992394/?utm_campaign=992394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
