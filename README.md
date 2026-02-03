@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запуск новых продуктов и укрепление рыночных позиций: EvaTeam подвела итоги 2025 года](https://habr.com/ru/companies/evateam/news/992290/?utm_campaign=992290&utm_source=habrahabr&utm_medium=rss)
+- [В России появился новый норматив «ТехноГТО» по технологии компьютерного зрения](https://habr.com/ru/news/992282/?utm_campaign=992282&utm_source=habrahabr&utm_medium=rss)
+- [Чем дольше ИИ думает — тем больше несет чушь: исследование Anthropic](https://habr.com/ru/news/992254/?utm_campaign=992254&utm_source=habrahabr&utm_medium=rss)
 - [Фонд «Игра» и ITFB Group стали победителями премии «Проект года» от Global CIO](https://habr.com/ru/companies/itfb/news/992226/?utm_campaign=992226&utm_source=habrahabr&utm_medium=rss)
 - [В России провели первый расчёт цифровым рублём в рамках госконтракта](https://habr.com/ru/news/992214/?utm_campaign=992214&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-помощник Moltbot вызвал опасения у специалистов по кибербезопасности](https://habr.com/ru/news/992192/?utm_campaign=992192&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Git 2.53](https://habr.com/ru/news/992160/?utm_campaign=992160&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Rust Coreutils 0.6.0](https://habr.com/ru/news/992142/?utm_campaign=992142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
