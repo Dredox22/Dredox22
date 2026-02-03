@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фонд «Игра» и ITFB Group стали победителями премии «Проект года» от Global CIO](https://habr.com/ru/companies/itfb/news/992226/?utm_campaign=992226&utm_source=habrahabr&utm_medium=rss)
+- [В России провели первый расчёт цифровым рублём в рамках госконтракта](https://habr.com/ru/news/992214/?utm_campaign=992214&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-помощник Moltbot вызвал опасения у специалистов по кибербезопасности](https://habr.com/ru/news/992192/?utm_campaign=992192&utm_source=habrahabr&utm_medium=rss)
 - [Представлен Git 2.53](https://habr.com/ru/news/992160/?utm_campaign=992160&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Rust Coreutils 0.6.0](https://habr.com/ru/news/992142/?utm_campaign=992142&utm_source=habrahabr&utm_medium=rss)
-- [Медиасервер Jellyfin стал доступен на телевизорах Samsung Tizen](https://habr.com/ru/news/992136/?utm_campaign=992136&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры удвоили использование уникального вредоносного ПО в атаках на российские компании](https://habr.com/ru/companies/pt/news/992044/?utm_campaign=992044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
