@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В AI IDE Qoder запустили Free Trial на новую модель](https://habr.com/ru/news/992394/?utm_campaign=992394&utm_source=habrahabr&utm_medium=rss)
+- [Для нейросетей запустили сайт Rent a Human по поиску людей-фрилансеров на разные задачи](https://habr.com/ru/news/992378/?utm_campaign=992378&utm_source=habrahabr&utm_medium=rss)
 - [ElevenLabs выпустила в релиз модель v3](https://habr.com/ru/companies/bothub/news/992322/?utm_campaign=992322&utm_source=habrahabr&utm_medium=rss)
 - [Большой релиз KodaCode 0.6.0: личный кабинет, новые модели и серьёзное обновление плагина](https://habr.com/ru/companies/koda/news/992200/?utm_campaign=992200&utm_source=habrahabr&utm_medium=rss)
 - [Adobe Firefly переходит на безлимит](https://habr.com/ru/companies/bothub/news/992316/?utm_campaign=992316&utm_source=habrahabr&utm_medium=rss)
-- [Компьютерное зрение — новый норматив ТехноГТО](https://habr.com/ru/news/992328/?utm_campaign=992328&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba отгрузила 100 тыс. ИИ-чипов Zhenwu 810E](https://habr.com/ru/companies/bothub/news/992306/?utm_campaign=992306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
