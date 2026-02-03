@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft начала поэтапно развёртывать новое меню «Пуск» в Windows 11](https://habr.com/ru/news/992104/?utm_campaign=992104&utm_source=habrahabr&utm_medium=rss)
+- [Кодеры уходят в отставку? OpenAI запустила Codex — «командный центр» для армии ИИ-разработчиков на Mac](https://habr.com/ru/news/992106/?utm_campaign=992106&utm_source=habrahabr&utm_medium=rss)
+- [Adobe в марте закроет Adobe Animate](https://habr.com/ru/news/992096/?utm_campaign=992096&utm_source=habrahabr&utm_medium=rss)
 - [3 672 коммита без ручного кода: как Claude собрал SQL-совместимую СУБД](https://habr.com/ru/news/992082/?utm_campaign=992082&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: глава Meta* Марк Цукерберг смеётся над пользователями WhatsApp, которые верят словам о безопасности мессенджера](https://habr.com/ru/news/992000/?utm_campaign=992000&utm_source=habrahabr&utm_medium=rss)
-- [SanDisk повысила цены и теперь SSD стоят дороже ПК](https://habr.com/ru/news/991784/?utm_campaign=991784&utm_source=habrahabr&utm_medium=rss)
-- [Проблема с выключением ПК возникла после обновления Windows у большего числа пользователей, чем предполагала Microsoft](https://habr.com/ru/news/991786/?utm_campaign=991786&utm_source=habrahabr&utm_medium=rss)
-- [Кодинг-агент OpenAI Codex доступен бесплатно — в виде приложения для macOS](https://habr.com/ru/news/992016/?utm_campaign=992016&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
