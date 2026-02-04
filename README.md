@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема OpenDoor в OpenClaw настолько серьезна, что установить вредонос самому – иногда даже быстрее](https://habr.com/ru/companies/bothub/news/992874/?utm_campaign=992874&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпати рассказал, как придумал вайб-кодинг — и почему пора его переименовать](https://habr.com/ru/news/992870/?utm_campaign=992870&utm_source=habrahabr&utm_medium=rss)
 - [Забудьте про монтаж: вышла модель для генерации ИИ-видео Kling 3.0](https://habr.com/ru/companies/bothub/news/992834/?utm_campaign=992834&utm_source=habrahabr&utm_medium=rss)
 - [Хакатон Дайджест №31 на февраль](https://habr.com/ru/news/992830/?utm_campaign=992830&utm_source=habrahabr&utm_medium=rss)
 - [ИИ научили писать исследования длиннее его памяти](https://habr.com/ru/news/992820/?utm_campaign=992820&utm_source=habrahabr&utm_medium=rss)
-- [Видео-ИИ научился монтировать: Kling 3.0 сам выбирает ракурсы и переходы](https://habr.com/ru/news/992818/?utm_campaign=992818&utm_source=habrahabr&utm_medium=rss)
-- [Когда AI сможет работать месяц автономно? По данным METR — к 2027 году](https://habr.com/ru/news/992812/?utm_campaign=992812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
