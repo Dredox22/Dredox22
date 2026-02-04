@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic Games перезапустит лаунчер для обеспечения более позитивного опыта](https://habr.com/ru/news/992622/?utm_campaign=992622&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram растут цены на рекламу в новостных каналах и личных блогах](https://habr.com/ru/news/992646/?utm_campaign=992646&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/992634/?utm_campaign=992634&utm_source=habrahabr&utm_medium=rss)
 - [Аналогов нет: Solar webProxy контролирует работу с ИИ-сервисами и защищает от ИИ-угроз](https://habr.com/ru/companies/solarsecurity/news/992628/?utm_campaign=992628&utm_source=habrahabr&utm_medium=rss)
 - [«Physical AI — следующий рубеж»: Nvidia и Dassault создадут промышленный ИИ](https://habr.com/ru/news/992624/?utm_campaign=992624&utm_source=habrahabr&utm_medium=rss)
-- [Coinbase подтвердила утечку скриншотов небольшой части клиентов из службы поддержки](https://habr.com/ru/news/992598/?utm_campaign=992598&utm_source=habrahabr&utm_medium=rss)
-- [CTO Extreme Networks создал «ИИ-клон» самого себя внутри компании](https://habr.com/ru/news/992546/?utm_campaign=992546&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
