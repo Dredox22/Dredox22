@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мейнтейнер проекта sudo, поддерживающий утилиту более 30 лет, ищет новых спонсоров для продолжения развития решения](https://habr.com/ru/news/992498/?utm_campaign=992498&utm_source=habrahabr&utm_medium=rss)
+- [Мы в три раза снизили цены на GigaChat для бизнеса](https://habr.com/ru/companies/sberbank/news/991878/?utm_campaign=991878&utm_source=habrahabr&utm_medium=rss)
+- [Примитивная форма трассировки лучей успешно прототипирована на консоли Sega Saturn](https://habr.com/ru/news/992492/?utm_campaign=992492&utm_source=habrahabr&utm_medium=rss)
+- [Avast выпустила Deepfake Guard для обнаружения мошеннического видео- и аудио- контента](https://habr.com/ru/news/992490/?utm_campaign=992490&utm_source=habrahabr&utm_medium=rss)
 - [Сервис Tutu.ru опроверг информацию о новой утечке данных клиентов](https://habr.com/ru/news/992472/?utm_campaign=992472&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Look4Sat: Satellite tracker v4.0](https://habr.com/ru/news/992406/?utm_campaign=992406&utm_source=habrahabr&utm_medium=rss)
-- [Баг в GitHub Copilot дает бесплатный доступ к Claude Opus 4.5 — Microsoft отказалась чинить](https://habr.com/ru/news/992464/?utm_campaign=992464&utm_source=habrahabr&utm_medium=rss)
-- [В Xcode 26.3 появилась поддержка ИИ-агентов Claude, Codex и MCP](https://habr.com/ru/news/992460/?utm_campaign=992460&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик нашёл аппаратную проблему в Apple Neural Engine в iPhone 16 Pro Max](https://habr.com/ru/news/992454/?utm_campaign=992454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
