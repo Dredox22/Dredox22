@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Блог сгенерированных ИИ «сиамских близнецов» набрал сотни тысяч подписчиков всего за два месяца](https://habr.com/ru/news/992788/?utm_campaign=992788&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Codex для MacOS, MoltBook, Kimi K2.5 и «смерть» геймдева от Google Genie](https://habr.com/ru/news/992786/?utm_campaign=992786&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic отказалась от рекламы в Claude: «Это конфликт интересов»](https://habr.com/ru/news/992772/?utm_campaign=992772&utm_source=habrahabr&utm_medium=rss)
 - [Глава Take-Two: при разработке GTA VI никоим образом не используются нейросети](https://habr.com/ru/news/992768/?utm_campaign=992768&utm_source=habrahabr&utm_medium=rss)
 - [К2Тех и «Пруфтек ИТ» объявляют о партнёрстве по внедрению AIOps-платформы Artimate](https://habr.com/ru/companies/k2tech/news/992756/?utm_campaign=992756&utm_source=habrahabr&utm_medium=rss)
-- [Более 175 тысяч ИИ-серверов Ollama оказались открыты для всего интернета](https://habr.com/ru/companies/bothub/news/992754/?utm_campaign=992754&utm_source=habrahabr&utm_medium=rss)
-- [Проекты на Luxms BI — победители Global CIO «Проект года»](https://habr.com/ru/companies/luxms_bi/news/992752/?utm_campaign=992752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
