@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ВШЭ создали департамент кибербезопасности](https://habr.com/ru/news/992692/?utm_campaign=992692&utm_source=habrahabr&utm_medium=rss)
+- [Плагин Claude обвалил акции на миллиарды](https://habr.com/ru/news/992688/?utm_campaign=992688&utm_source=habrahabr&utm_medium=rss)
+- [ФСТЭК опубликовала рекомендации по безопасной работе госорганов с VMware](https://habr.com/ru/news/992682/?utm_campaign=992682&utm_source=habrahabr&utm_medium=rss)
+- [ML-митап от команды MAGNIT TECH](https://habr.com/ru/companies/magnit/news/992680/?utm_campaign=992680&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games перезапустит лаунчер для обеспечения более позитивного опыта](https://habr.com/ru/news/992622/?utm_campaign=992622&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram растут цены на рекламу в новостных каналах и личных блогах](https://habr.com/ru/news/992646/?utm_campaign=992646&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/992634/?utm_campaign=992634&utm_source=habrahabr&utm_medium=rss)
-- [Аналогов нет: Solar webProxy контролирует работу с ИИ-сервисами и защищает от ИИ-угроз](https://habr.com/ru/companies/solarsecurity/news/992628/?utm_campaign=992628&utm_source=habrahabr&utm_medium=rss)
-- [«Physical AI — следующий рубеж»: Nvidia и Dassault создадут промышленный ИИ](https://habr.com/ru/news/992624/?utm_campaign=992624&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
