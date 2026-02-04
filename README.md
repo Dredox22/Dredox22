@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/992634/?utm_campaign=992634&utm_source=habrahabr&utm_medium=rss)
+- [Аналогов нет: Solar webProxy контролирует работу с ИИ-сервисами и защищает от ИИ-угроз](https://habr.com/ru/companies/solarsecurity/news/992628/?utm_campaign=992628&utm_source=habrahabr&utm_medium=rss)
+- [«Physical AI — следующий рубеж»: Nvidia и Dassault создадут промышленный ИИ](https://habr.com/ru/news/992624/?utm_campaign=992624&utm_source=habrahabr&utm_medium=rss)
+- [Coinbase подтвердила утечку скриншотов небольшой части клиентов из службы поддержки](https://habr.com/ru/news/992598/?utm_campaign=992598&utm_source=habrahabr&utm_medium=rss)
 - [CTO Extreme Networks создал «ИИ-клон» самого себя внутри компании](https://habr.com/ru/news/992546/?utm_campaign=992546&utm_source=habrahabr&utm_medium=rss)
-- [Obsidian планирует ускорить разработку игр для Xbox, используя некоторые старые технологии](https://habr.com/ru/news/992552/?utm_campaign=992552&utm_source=habrahabr&utm_medium=rss)
-- [Исследование «Солара»: почти две трети компаний не контролируют утечки данных через нейросети](https://habr.com/ru/companies/solarsecurity/news/992548/?utm_campaign=992548&utm_source=habrahabr&utm_medium=rss)
-- [Директор по робототехнике NVIDIA: языковые модели — тупик, будущее за «моделями мира»](https://habr.com/ru/news/992534/?utm_campaign=992534&utm_source=habrahabr&utm_medium=rss)
-- [Adobe передумала прекращать работу Animate с 1 марта](https://habr.com/ru/news/992524/?utm_campaign=992524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
