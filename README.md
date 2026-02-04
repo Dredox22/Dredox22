@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CTO Extreme Networks создал «ИИ-клон» самого себя внутри компании](https://habr.com/ru/news/992546/?utm_campaign=992546&utm_source=habrahabr&utm_medium=rss)
+- [Obsidian планирует ускорить разработку игр для Xbox, используя некоторые старые технологии](https://habr.com/ru/news/992552/?utm_campaign=992552&utm_source=habrahabr&utm_medium=rss)
+- [Исследование «Солара»: почти две трети компаний не контролируют утечки данных через нейросети](https://habr.com/ru/companies/solarsecurity/news/992548/?utm_campaign=992548&utm_source=habrahabr&utm_medium=rss)
 - [Директор по робототехнике NVIDIA: языковые модели — тупик, будущее за «моделями мира»](https://habr.com/ru/news/992534/?utm_campaign=992534&utm_source=habrahabr&utm_medium=rss)
 - [Adobe передумала прекращать работу Animate с 1 марта](https://habr.com/ru/news/992524/?utm_campaign=992524&utm_source=habrahabr&utm_medium=rss)
-- [Google планирует отказаться от операционной системы ChromeOS к 2034 году](https://habr.com/ru/news/992512/?utm_campaign=992512&utm_source=habrahabr&utm_medium=rss)
-- [Жители небольшого города в Чили запустили проект Quili.AI с реальными людьми](https://habr.com/ru/news/992510/?utm_campaign=992510&utm_source=habrahabr&utm_medium=rss)
-- [Мейнтейнер проекта sudo, поддерживающий утилиту более 30 лет, ищет новых спонсоров для продолжения развития решения](https://habr.com/ru/news/992498/?utm_campaign=992498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
