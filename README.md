@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Авторитарная компания не создаст AGI»: Альтман раскритиковал Anthropic за рекламу на Super Bowl](https://habr.com/ru/news/992888/?utm_campaign=992888&utm_source=habrahabr&utm_medium=rss)
+- [Amazon будет использовать ИИ, чтобы снимать фильмы и сериалы быстрее и дешевле](https://habr.com/ru/companies/bothub/news/992884/?utm_campaign=992884&utm_source=habrahabr&utm_medium=rss)
 - [Проблема OpenDoor в OpenClaw настолько серьезна, что установить вредонос самому – иногда даже быстрее](https://habr.com/ru/companies/bothub/news/992874/?utm_campaign=992874&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпати рассказал, как придумал вайб-кодинг — и почему пора его переименовать](https://habr.com/ru/news/992870/?utm_campaign=992870&utm_source=habrahabr&utm_medium=rss)
 - [Забудьте про монтаж: вышла модель для генерации ИИ-видео Kling 3.0](https://habr.com/ru/companies/bothub/news/992834/?utm_campaign=992834&utm_source=habrahabr&utm_medium=rss)
-- [Хакатон Дайджест №31 на февраль](https://habr.com/ru/news/992830/?utm_campaign=992830&utm_source=habrahabr&utm_medium=rss)
-- [ИИ научили писать исследования длиннее его памяти](https://habr.com/ru/news/992820/?utm_campaign=992820&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
