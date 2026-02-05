@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Windows 11 пожаловались на сбой «Проводника» и процесса Explorer.exe](https://habr.com/ru/news/992976/?utm_campaign=992976&utm_source=habrahabr&utm_medium=rss)
+- [Нейро-символические циклы и «параллельное мышление»: Google раскрыл методы работы Gemini в науке](https://habr.com/ru/news/992984/?utm_campaign=992984&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры начали взламывать серверы Nginx для перенаправления пользовательского трафика](https://habr.com/ru/news/992970/?utm_campaign=992970&utm_source=habrahabr&utm_medium=rss)
 - [В Wayback Machine появился плагин для устранения проблемы с неработающими ссылками](https://habr.com/ru/news/992964/?utm_campaign=992964&utm_source=habrahabr&utm_medium=rss)
 - [Подготовка к выпуску Steam Machine и Steam Frame от Valve столкнулась с трудностями из-за дефицита комплектующих](https://habr.com/ru/news/992958/?utm_campaign=992958&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил браузерный плагин, который подсвечивает сгенерированный код в репозиториях с Git AI](https://habr.com/ru/news/992950/?utm_campaign=992950&utm_source=habrahabr&utm_medium=rss)
-- [Спутниковая связь Starlink от Space X стала доступна в Таджикистане](https://habr.com/ru/news/992940/?utm_campaign=992940&utm_source=habrahabr&utm_medium=rss)
-- [Релиз образовательного пакета для детей GCompris 26.0](https://habr.com/ru/news/992926/?utm_campaign=992926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
