@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity обошел Google и OpenAI в глубоком поиске и запустил «совет моделей»](https://habr.com/ru/news/993314/?utm_campaign=993314&utm_source=habrahabr&utm_medium=rss)
-- [Определитель номера «Яндекса» начал предупреждать об исходящих звонках на мошеннические номера](https://habr.com/ru/news/993298/?utm_campaign=993298&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: Telegram не передавал ни одного байта данных из переписок третьим лицам и никогда этого не сделает](https://habr.com/ru/news/993282/?utm_campaign=993282&utm_source=habrahabr&utm_medium=rss)
-- [Теперь администраторы могут проверять состояние Secure Boot на устройствах Windows в масштабах всей компании](https://habr.com/ru/news/993188/?utm_campaign=993188&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code стал давать советы, как программировать лучше](https://habr.com/ru/news/993186/?utm_campaign=993186&utm_source=habrahabr&utm_medium=rss)
+- [Релиз OpenAI GPT-5.3-Codex — на 25% быстрее, новые достижения на SWE-Bench Pro и Terminal-Bench](https://habr.com/ru/companies/bothub/news/993342/?utm_campaign=993342&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GPT-5.3-Codex — модель, которая помогала создавать саму себя](https://habr.com/ru/news/993338/?utm_campaign=993338&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила GPT-5.3-Codex. Модель разрабатывали и обучали в тесной связке с инфраструктурой NVIDIA](https://habr.com/ru/news/993336/?utm_campaign=993336&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустила Claude Opus 4.6: контекст в 1М токенов и рекорды в бенчмарках](https://habr.com/ru/news/993326/?utm_campaign=993326&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустила Claude Opus 4.6: прокаченное планирование, 1 млн токенов, поддержка Excel и PowerPoint](https://habr.com/ru/companies/bothub/news/993324/?utm_campaign=993324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
