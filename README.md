@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Спутниковая связь Starlink от Space X стала доступна в Таджикистане](https://habr.com/ru/news/992940/?utm_campaign=992940&utm_source=habrahabr&utm_medium=rss)
 - [Релиз образовательного пакета для детей GCompris 26.0](https://habr.com/ru/news/992926/?utm_campaign=992926&utm_source=habrahabr&utm_medium=rss)
 - [Сервис TenChat опроверг информацию об утечке данных клиентов](https://habr.com/ru/news/992918/?utm_campaign=992918&utm_source=habrahabr&utm_medium=rss)
 - [Google переименовала ZetaSQL в GoogleSQL](https://habr.com/ru/news/992848/?utm_campaign=992848&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Arti 2.0.0 — официальной реализации Tor на языке Rust](https://habr.com/ru/news/992650/?utm_campaign=992650&utm_source=habrahabr&utm_medium=rss)
-- [«Авторитарная компания не создаст AGI»: Альтман раскритиковал Anthropic за рекламу на Super Bowl](https://habr.com/ru/news/992888/?utm_campaign=992888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
