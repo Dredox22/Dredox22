@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Диасофт» открыл бесплатный доступ к демостенду Digital Q для всех IT-компаний](https://habr.com/ru/companies/diasoft_company/news/993162/?utm_campaign=993162&utm_source=habrahabr&utm_medium=rss)
+- [Даже $185 млрд мало. Google удвоил расходы на ИИ](https://habr.com/ru/news/993148/?utm_campaign=993148&utm_source=habrahabr&utm_medium=rss)
 - [Ведущие инженеры Anthropic и OpenAI: “ИИ уже пишет 100% нашего кода”](https://habr.com/ru/companies/bothub/news/993128/?utm_campaign=993128&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI переманил специалиста по безопасности у главных конкурентов — и готов платить полмиллиона в год](https://habr.com/ru/news/993118/?utm_campaign=993118&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили ИИ-агентов для отслеживания и исправления ошибок 3D-печати](https://habr.com/ru/news/993114/?utm_campaign=993114&utm_source=habrahabr&utm_medium=rss)
-- [$555 тыс. за безопасность AGI: OpenAI нанял эксперта из Anthropic](https://habr.com/ru/news/993104/?utm_campaign=993104&utm_source=habrahabr&utm_medium=rss)
-- [На финале НТО пермские школьники представят игру о тревожном фермере](https://habr.com/ru/news/993098/?utm_campaign=993098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
