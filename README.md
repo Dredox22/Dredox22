@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сервис TenChat опроверг информацию об утечке данных клиентов](https://habr.com/ru/news/992918/?utm_campaign=992918&utm_source=habrahabr&utm_medium=rss)
+- [Google переименовала ZetaSQL в GoogleSQL](https://habr.com/ru/news/992848/?utm_campaign=992848&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Arti 2.0.0 — официальной реализации Tor на языке Rust](https://habr.com/ru/news/992650/?utm_campaign=992650&utm_source=habrahabr&utm_medium=rss)
 - [«Авторитарная компания не создаст AGI»: Альтман раскритиковал Anthropic за рекламу на Super Bowl](https://habr.com/ru/news/992888/?utm_campaign=992888&utm_source=habrahabr&utm_medium=rss)
 - [Amazon будет использовать ИИ, чтобы снимать фильмы и сериалы быстрее и дешевле](https://habr.com/ru/companies/bothub/news/992884/?utm_campaign=992884&utm_source=habrahabr&utm_medium=rss)
-- [Проблема OpenDoor в OpenClaw настолько серьезна, что установить вредонос самому – иногда даже быстрее](https://habr.com/ru/companies/bothub/news/992874/?utm_campaign=992874&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати рассказал, как придумал вайб-кодинг — и почему пора его переименовать](https://habr.com/ru/news/992870/?utm_campaign=992870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
