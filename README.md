@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пользователи Windows 11 пожаловались на сбой «Проводника» и процесса Explorer.exe](https://habr.com/ru/news/992976/?utm_campaign=992976&utm_source=habrahabr&utm_medium=rss)
-- [Нейро-символические циклы и «параллельное мышление»: Google раскрыл методы работы Gemini в науке](https://habr.com/ru/news/992984/?utm_campaign=992984&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали взламывать серверы Nginx для перенаправления пользовательского трафика](https://habr.com/ru/news/992970/?utm_campaign=992970&utm_source=habrahabr&utm_medium=rss)
-- [В Wayback Machine появился плагин для устранения проблемы с неработающими ссылками](https://habr.com/ru/news/992964/?utm_campaign=992964&utm_source=habrahabr&utm_medium=rss)
-- [Подготовка к выпуску Steam Machine и Steam Frame от Valve столкнулась с трудностями из-за дефицита комплектующих](https://habr.com/ru/news/992958/?utm_campaign=992958&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку автономных планов SharePoint Online и OneDrive](https://habr.com/ru/news/993014/?utm_campaign=993014&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Claude Sonnet 5 ожидается со дня на день. Что известно на данный момент](https://habr.com/ru/companies/bothub/news/993046/?utm_campaign=993046&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик за месяц надиктовал почти 250 тысяч слов для преобразование речи в текст](https://habr.com/ru/news/993008/?utm_campaign=993008&utm_source=habrahabr&utm_medium=rss)
+- [К умному дому «Яндекса» теперь можно обращаться на естественном языке](https://habr.com/ru/news/993038/?utm_campaign=993038&utm_source=habrahabr&utm_medium=rss)
+- [LG не планирует уходить с российского рынка](https://habr.com/ru/news/993024/?utm_campaign=993024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
