@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic пообещала, что в Claude никогда не будет рекламы](https://habr.com/ru/news/993086/?utm_campaign=993086&utm_source=habrahabr&utm_medium=rss)
-- [«Героиня прикована к полу, но спускается по лестнице»: разбираем логику ИИ-писателей](https://habr.com/ru/news/993074/?utm_campaign=993074&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сделала Sysmon встроенной функцией в Windows 11](https://habr.com/ru/news/992896/?utm_campaign=992896&utm_source=habrahabr&utm_medium=rss)
-- [Девелопер ПИК начал пускать других провайдеров в свои новостройки](https://habr.com/ru/news/993056/?utm_campaign=993056&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку автономных планов SharePoint Online и OneDrive](https://habr.com/ru/news/993014/?utm_campaign=993014&utm_source=habrahabr&utm_medium=rss)
+- [Ведущие инженеры Anthropic и OpenAI: “ИИ уже пишет 100% нашего кода”](https://habr.com/ru/companies/bothub/news/993128/?utm_campaign=993128&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI переманил специалиста по безопасности у главных конкурентов — и готов платить полмиллиона в год](https://habr.com/ru/news/993118/?utm_campaign=993118&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи представили ИИ-агентов для отслеживания и исправления ошибок 3D-печати](https://habr.com/ru/news/993114/?utm_campaign=993114&utm_source=habrahabr&utm_medium=rss)
+- [$555 тыс. за безопасность AGI: OpenAI нанял эксперта из Anthropic](https://habr.com/ru/news/993104/?utm_campaign=993104&utm_source=habrahabr&utm_medium=rss)
+- [На финале НТО пермские школьники представят игру о тревожном фермере](https://habr.com/ru/news/993098/?utm_campaign=993098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
