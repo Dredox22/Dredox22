@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic пообещала, что в Claude никогда не будет рекламы](https://habr.com/ru/news/993086/?utm_campaign=993086&utm_source=habrahabr&utm_medium=rss)
+- [«Героиня прикована к полу, но спускается по лестнице»: разбираем логику ИИ-писателей](https://habr.com/ru/news/993074/?utm_campaign=993074&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сделала Sysmon встроенной функцией в Windows 11](https://habr.com/ru/news/992896/?utm_campaign=992896&utm_source=habrahabr&utm_medium=rss)
+- [Девелопер ПИК начал пускать других провайдеров в свои новостройки](https://habr.com/ru/news/993056/?utm_campaign=993056&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку автономных планов SharePoint Online и OneDrive](https://habr.com/ru/news/993014/?utm_campaign=993014&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Claude Sonnet 5 ожидается со дня на день. Что известно на данный момент](https://habr.com/ru/companies/bothub/news/993046/?utm_campaign=993046&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик за месяц надиктовал почти 250 тысяч слов для преобразование речи в текст](https://habr.com/ru/news/993008/?utm_campaign=993008&utm_source=habrahabr&utm_medium=rss)
-- [К умному дому «Яндекса» теперь можно обращаться на естественном языке](https://habr.com/ru/news/993038/?utm_campaign=993038&utm_source=habrahabr&utm_medium=rss)
-- [LG не планирует уходить с российского рынка](https://habr.com/ru/news/993024/?utm_campaign=993024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
