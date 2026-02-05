@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бунт «сеньоров»: почему разработчики с 10-летним стажем сдаются первыми первыми перед AI](https://habr.com/ru/news/993376/?utm_campaign=993376&utm_source=habrahabr&utm_medium=rss)
 - [Врет, ворует, паникует: отчет о безопасности Claude Opus 4.6](https://habr.com/ru/news/993366/?utm_campaign=993366&utm_source=habrahabr&utm_medium=rss)
 - [Поддержка AirDrop появится во всей экосистеме Android](https://habr.com/ru/news/993362/?utm_campaign=993362&utm_source=habrahabr&utm_medium=rss)
 - [Opus 4.6 и команда ИИ-агентов написала компилятор С за 2 недели](https://habr.com/ru/news/993350/?utm_campaign=993350&utm_source=habrahabr&utm_medium=rss)
 - [Релиз OpenAI GPT-5.3-Codex – на 25% быстрее, новые достижения на SWE-Bench Pro и Terminal-Bench](https://habr.com/ru/companies/bothub/news/993342/?utm_campaign=993342&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT-5.3-Codex — модель, которая помогала создавать саму себя](https://habr.com/ru/news/993338/?utm_campaign=993338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
