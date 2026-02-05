@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Теперь администраторы могут проверять состояние Secure Boot на устройствах Windows в масштабах всей компании](https://habr.com/ru/news/993188/?utm_campaign=993188&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code стал давать советы, как программировать лучше](https://habr.com/ru/news/993186/?utm_campaign=993186&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи Google представили PaperBanana — агентскую систему, которая генерирует диаграммы для научных работ](https://habr.com/ru/news/993180/?utm_campaign=993180&utm_source=habrahabr&utm_medium=rss)
 - [«Диасофт» открыл бесплатный доступ к демостенду Digital Q для всех IT-компаний](https://habr.com/ru/companies/diasoft_company/news/993162/?utm_campaign=993162&utm_source=habrahabr&utm_medium=rss)
 - [Даже $185 млрд мало. Google удвоил расходы на ИИ](https://habr.com/ru/news/993148/?utm_campaign=993148&utm_source=habrahabr&utm_medium=rss)
-- [Ведущие инженеры Anthropic и OpenAI: “ИИ уже пишет 100% нашего кода”](https://habr.com/ru/companies/bothub/news/993128/?utm_campaign=993128&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI переманил специалиста по безопасности у главных конкурентов — и готов платить полмиллиона в год](https://habr.com/ru/news/993118/?utm_campaign=993118&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили ИИ-агентов для отслеживания и исправления ошибок 3D-печати](https://habr.com/ru/news/993114/?utm_campaign=993114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
