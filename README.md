@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Надоело проверять ответы вручную? Perplexity сделала режим, где модели сверяют друг друга](https://habr.com/ru/companies/bothub/news/993508/?utm_campaign=993508&utm_source=habrahabr&utm_medium=rss)
+- [Серверы обновления Notepad++ были взломаны для перенаправления пользователей на вредоносные ресурсы](https://habr.com/ru/companies/ussc/news/993658/?utm_campaign=993658&utm_source=habrahabr&utm_medium=rss)
+- [Представляем Green-VLA — открытое руководство по созданию архитектуры управления роботами](https://habr.com/ru/companies/sberbank/news/993656/?utm_campaign=993656&utm_source=habrahabr&utm_medium=rss)
 - [Intel и AMD предупредили партнёров о многомесячных задержках поставок процессоров](https://habr.com/ru/news/993648/?utm_campaign=993648&utm_source=habrahabr&utm_medium=rss)
 - [Министерство науки Испании и итальянский университет Сапиенца отключили часть своих IT-системы после киберинцидента](https://habr.com/ru/news/993632/?utm_campaign=993632&utm_source=habrahabr&utm_medium=rss)
-- [Как хостинг-провайдер игровых серверов автоматизировал биллинг и поддержку](https://habr.com/ru/companies/ispsystem/news/993620/?utm_campaign=993620&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.6 обошел человека в «тесте на AGI». Но это только начало](https://habr.com/ru/news/993618/?utm_campaign=993618&utm_source=habrahabr&utm_medium=rss)
-- [Amazon идет в кино с ИИ: MGM запускает AI Studio и зовет индустрию в закрытую бету](https://habr.com/ru/companies/bothub/news/993528/?utm_campaign=993528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
