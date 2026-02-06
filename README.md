@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 провел 36 000 экспериментов в автономной лаборатории — и удешевил синтез белка на 40%](https://habr.com/ru/news/993444/?utm_campaign=993444&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA тихо выкатили убийцу поиска по PDF](https://habr.com/ru/companies/bothub/news/993438/?utm_campaign=993438&utm_source=habrahabr&utm_medium=rss)
 - [Безопасная разработка под новые требования](https://habr.com/ru/companies/ussc/news/993424/?utm_campaign=993424&utm_source=habrahabr&utm_medium=rss)
 - [Началась регистрация на соревнования Linux-skills для школьников и студентов](https://habr.com/ru/news/993420/?utm_campaign=993420&utm_source=habrahabr&utm_medium=rss)
 - [Сайт LinkedIn незаметно проверяет наличие 2953 расширений Chrome при каждой загрузке страницы](https://habr.com/ru/news/993414/?utm_campaign=993414&utm_source=habrahabr&utm_medium=rss)
-- [Росфинмониторинг объяснил ограничение на внесение наличных через банкоматы для физлиц](https://habr.com/ru/news/993404/?utm_campaign=993404&utm_source=habrahabr&utm_medium=rss)
-- [В Oracle добавили предварительную поддержку работы VirtualBox поверх гипервизора KVM](https://habr.com/ru/news/993204/?utm_campaign=993204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
