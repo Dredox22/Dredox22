@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Росфинмониторинг объяснил ограничение на внесение наличных через банкоматы для физлиц](https://habr.com/ru/news/993404/?utm_campaign=993404&utm_source=habrahabr&utm_medium=rss)
 - [В Oracle добавили предварительную поддержку работы VirtualBox поверх гипервизора KVM](https://habr.com/ru/news/993204/?utm_campaign=993204&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Litebox — сфокусированная на безопасности ОС в форме библиотеки &lpar;Library OS&rpar; на Rust](https://habr.com/ru/news/993168/?utm_campaign=993168&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление утилиты nwipe 0.40 для надёжного стирания содержимого дисков](https://habr.com/ru/news/993066/?utm_campaign=993066&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.6: Anthropic рассказала, что на самом деле творится у модели в голове](https://habr.com/ru/news/993388/?utm_campaign=993388&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрывает своё приложение 3D Viewer](https://habr.com/ru/news/992900/?utm_campaign=992900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
