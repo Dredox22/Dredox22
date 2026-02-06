@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud представила ИИ-платформу для анализа трюков лыжников и сноубордистов](https://habr.com/ru/news/993514/?utm_campaign=993514&utm_source=habrahabr&utm_medium=rss)
+- [Скорость мобильного интернета в России по итогам 2025 года выросла на 10-14%](https://habr.com/ru/news/993518/?utm_campaign=993518&utm_source=habrahabr&utm_medium=rss)
+- [Китайская CXMT выпустила серверный модуль памяти за $138](https://habr.com/ru/news/993496/?utm_campaign=993496&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic и OpenAI продолжают сражаться за нас. Продолжайте, нам нравится](https://habr.com/ru/news/993510/?utm_campaign=993510&utm_source=habrahabr&utm_medium=rss)
 - [Copilot уже не один: GitHub запускает витрину агентов с Claude и OpenAI Codex](https://habr.com/ru/companies/bothub/news/993492/?utm_campaign=993492&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code совершает 4% всех публичных коммитов на GitHub](https://habr.com/ru/news/993484/?utm_campaign=993484&utm_source=habrahabr&utm_medium=rss)
-- [Western Digital планирует выпустить HDD ёмкостью 140 ТБ](https://habr.com/ru/news/993468/?utm_campaign=993468&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI показала Frontier: корпоративные ИИ агенты с правами доступа и контролем](https://habr.com/ru/companies/bothub/news/993478/?utm_campaign=993478&utm_source=habrahabr&utm_medium=rss)
-- [Cursor показал, как 1000 ИИ-агентов пишут код без человека](https://habr.com/ru/news/993464/?utm_campaign=993464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
