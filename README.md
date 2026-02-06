@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Последние дни приёма работ на конкурс интерактивных историй](https://habr.com/ru/news/993708/?utm_campaign=993708&utm_source=habrahabr&utm_medium=rss)
+- [К 31 марта все инженеры OpenAI будут начинать работу с ИИ-агента, а не с редактора кода](https://habr.com/ru/news/993702/?utm_campaign=993702&utm_source=habrahabr&utm_medium=rss)
 - [Надоело проверять ответы вручную? Perplexity сделала режим, где модели сверяют друг друга](https://habr.com/ru/companies/bothub/news/993508/?utm_campaign=993508&utm_source=habrahabr&utm_medium=rss)
 - [Серверы обновления Notepad++ были взломаны для перенаправления пользователей на вредоносные ресурсы](https://habr.com/ru/companies/ussc/news/993658/?utm_campaign=993658&utm_source=habrahabr&utm_medium=rss)
 - [Представляем Green-VLA — открытое руководство по созданию архитектуры управления роботами](https://habr.com/ru/companies/sberbank/news/993656/?utm_campaign=993656&utm_source=habrahabr&utm_medium=rss)
-- [Intel и AMD предупредили партнёров о многомесячных задержках поставок процессоров](https://habr.com/ru/news/993648/?utm_campaign=993648&utm_source=habrahabr&utm_medium=rss)
-- [Министерство науки Испании и итальянский университет Сапиенца отключили часть своих IT-системы после киберинцидента](https://habr.com/ru/news/993632/?utm_campaign=993632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
