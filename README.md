@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователь показал, как взломать OpenClaw одним письмом в Gmail](https://habr.com/ru/news/993772/?utm_campaign=993772&utm_source=habrahabr&utm_medium=rss)
 - [Еврокомиссия требует от TikTok убрать зависимые механики интерфейса](https://habr.com/ru/companies/bothub/news/993752/?utm_campaign=993752&utm_source=habrahabr&utm_medium=rss)
 - [Последние дни приёма работ на конкурс интерактивных историй](https://habr.com/ru/news/993708/?utm_campaign=993708&utm_source=habrahabr&utm_medium=rss)
 - [К 31 марта все инженеры OpenAI будут начинать работу с ИИ-агента, а не с редактора кода](https://habr.com/ru/news/993702/?utm_campaign=993702&utm_source=habrahabr&utm_medium=rss)
 - [Надоело проверять ответы вручную? Perplexity сделала режим, где модели сверяют друг друга](https://habr.com/ru/companies/bothub/news/993508/?utm_campaign=993508&utm_source=habrahabr&utm_medium=rss)
-- [Серверы обновления Notepad++ были взломаны для перенаправления пользователей на вредоносные ресурсы](https://habr.com/ru/companies/ussc/news/993658/?utm_campaign=993658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
