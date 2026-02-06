@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud представила ИИ-платформу для анализа трюков лыжников и сноубордистов](https://habr.com/ru/news/993514/?utm_campaign=993514&utm_source=habrahabr&utm_medium=rss)
-- [Скорость мобильного интернета в России по итогам 2025 года выросла на 10-14%](https://habr.com/ru/news/993518/?utm_campaign=993518&utm_source=habrahabr&utm_medium=rss)
-- [Китайская CXMT выпустила серверный модуль памяти за $138](https://habr.com/ru/news/993496/?utm_campaign=993496&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic и OpenAI продолжают сражаться за нас. Продолжайте, нам нравится](https://habr.com/ru/news/993510/?utm_campaign=993510&utm_source=habrahabr&utm_medium=rss)
-- [Copilot уже не один: GitHub запускает витрину агентов с Claude и OpenAI Codex](https://habr.com/ru/companies/bothub/news/993492/?utm_campaign=993492&utm_source=habrahabr&utm_medium=rss)
+- [В США зафиксировали крупнейшую волну увольнений в январе с 2009 года](https://habr.com/ru/companies/bothub/news/993538/?utm_campaign=993538&utm_source=habrahabr&utm_medium=rss)
+- [Биомаркеры Альцгеймера нашлись внутри ИИ. Стартап, который их достал, стоит $1,25 млрд](https://habr.com/ru/news/993562/?utm_campaign=993562&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» запустил программу обучения школьников ИИ-робототехнике с онлайн-платформой и очными кружками](https://habr.com/ru/news/993558/?utm_campaign=993558&utm_source=habrahabr&utm_medium=rss)
+- [INFOSTART AWARDS 2025: объявляем шорт-лист номинантов на премию](https://habr.com/ru/companies/infostart/news/993454/?utm_campaign=993454&utm_source=habrahabr&utm_medium=rss)
+- [Раскрыта уязвимость для удалённого выполнения кода в AMD AutoUpdate](https://habr.com/ru/news/993536/?utm_campaign=993536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
