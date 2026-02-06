@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5 провел 36 000 экспериментов в автономной лаборатории — и удешевил синтез белка на 40%](https://habr.com/ru/news/993444/?utm_campaign=993444&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA тихо выкатили убийцу поиска по PDF](https://habr.com/ru/companies/bothub/news/993438/?utm_campaign=993438&utm_source=habrahabr&utm_medium=rss)
-- [Безопасная разработка под новые требования](https://habr.com/ru/companies/ussc/news/993424/?utm_campaign=993424&utm_source=habrahabr&utm_medium=rss)
-- [Началась регистрация на соревнования Linux-skills для школьников и студентов](https://habr.com/ru/news/993420/?utm_campaign=993420&utm_source=habrahabr&utm_medium=rss)
-- [Сайт LinkedIn незаметно проверяет наличие 2953 расширений Chrome при каждой загрузке страницы](https://habr.com/ru/news/993414/?utm_campaign=993414&utm_source=habrahabr&utm_medium=rss)
+- [Copilot уже не один: GitHub запускает витрину агентов с Claude и OpenAI Codex](https://habr.com/ru/companies/bothub/news/993492/?utm_campaign=993492&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code совершает 4% всех публичных коммитов на GitHub](https://habr.com/ru/news/993484/?utm_campaign=993484&utm_source=habrahabr&utm_medium=rss)
+- [Western Digital планирует выпустить HDD ёмкостью 140 ТБ](https://habr.com/ru/news/993468/?utm_campaign=993468&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI показала Frontier: корпоративные ИИ агенты с правами доступа и контролем](https://habr.com/ru/companies/bothub/news/993478/?utm_campaign=993478&utm_source=habrahabr&utm_medium=rss)
+- [Cursor показал, как 1000 ИИ-агентов пишут код без человека](https://habr.com/ru/news/993464/?utm_campaign=993464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
