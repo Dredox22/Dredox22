@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Substack подтвердила утечку данных пользователей](https://habr.com/ru/news/993586/?utm_campaign=993586&utm_source=habrahabr&utm_medium=rss)
 - [В США зафиксировали крупнейшую волну увольнений в январе с 2009 года](https://habr.com/ru/companies/bothub/news/993538/?utm_campaign=993538&utm_source=habrahabr&utm_medium=rss)
 - [Биомаркеры Альцгеймера нашлись внутри ИИ. Стартап, который их достал, стоит $1,25 млрд](https://habr.com/ru/news/993562/?utm_campaign=993562&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил программу обучения школьников ИИ-робототехнике с онлайн-платформой и очными кружками](https://habr.com/ru/news/993558/?utm_campaign=993558&utm_source=habrahabr&utm_medium=rss)
 - [INFOSTART AWARDS 2025: объявляем шорт-лист номинантов на премию](https://habr.com/ru/companies/infostart/news/993454/?utm_campaign=993454&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыта уязвимость для удалённого выполнения кода в AMD AutoUpdate](https://habr.com/ru/news/993536/?utm_campaign=993536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
