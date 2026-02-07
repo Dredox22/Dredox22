@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Логистический тупик: Intel и AMD задерживают поставки серверных чипов в Китай из-за ИИ-бума](https://habr.com/ru/companies/bothub/news/993886/?utm_campaign=993886&utm_source=habrahabr&utm_medium=rss)
+- [Роскачество протестировало 10 популярных облачных сервисов для хранения данных](https://habr.com/ru/news/993880/?utm_campaign=993880&utm_source=habrahabr&utm_medium=rss)
+- [Gemini штурмует лидерство: 750 миллионов пользователей и рекордная выручка Alphabet](https://habr.com/ru/companies/bothub/news/993872/?utm_campaign=993872&utm_source=habrahabr&utm_medium=rss)
+- [BigTech потратит на ИИ $650 млрд — больше ВВП Швейцарии](https://habr.com/ru/news/993866/?utm_campaign=993866&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.6 написал свой полнофункциональный C-компилятор с нуля на языке Rust](https://habr.com/ru/news/993836/?utm_campaign=993836&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалит необязательную опцию .NET Framework 3.5 в Windows 11](https://habr.com/ru/news/993820/?utm_campaign=993820&utm_source=habrahabr&utm_medium=rss)
-- [Как GPT-5.3-Codex создавала саму себя и получила рейтинг «высокой киберугрозы»](https://habr.com/ru/news/993818/?utm_campaign=993818&utm_source=habrahabr&utm_medium=rss)
-- [Flickr сообщил об утечке данных, в результате которой были раскрыты имена и электронные адреса пользователей](https://habr.com/ru/news/993812/?utm_campaign=993812&utm_source=habrahabr&utm_medium=rss)
-- [Waymo использует Genie 3 для обучения роботакси — от торнадо до слонов на дороге](https://habr.com/ru/news/993808/?utm_campaign=993808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
