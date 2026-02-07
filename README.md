@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ ослабляет критическое мышление? 100 экспертов из 30 стран считают, что да](https://habr.com/ru/news/993936/?utm_campaign=993936&utm_source=habrahabr&utm_medium=rss)
 - [Учёные «Росатома» создали коаксиальный кабель для сверхпроводниковых квантовых компьютеров](https://habr.com/ru/news/993930/?utm_campaign=993930&utm_source=habrahabr&utm_medium=rss)
 - [Революция в кибербезопасности: Opus 4.6 нашел 500 критических уязвимостей в Open-Source](https://habr.com/ru/companies/bothub/news/993876/?utm_campaign=993876&utm_source=habrahabr&utm_medium=rss)
 - [Голландская полиция изъяла для анализа сервер на базе RAM-дисков компании Windscribe без предъявления ордера](https://habr.com/ru/news/993928/?utm_campaign=993928&utm_source=habrahabr&utm_medium=rss)
 - [Приоритет — нейросетям: Nvidia отменяет выпуск RTX 50 Super и откладывает RTX 60](https://habr.com/ru/companies/bothub/news/993888/?utm_campaign=993888&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Организация видеоигровой индустрии выступила против законопроекта Мосгордумы о возрастной маркировке игр»](https://habr.com/ru/news/993900/?utm_campaign=993900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
