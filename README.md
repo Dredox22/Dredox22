@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Голландская полиция изъяла для анализа сервер на базе RAM-дисков компании Windscribe без предъявления ордера](https://habr.com/ru/news/993928/?utm_campaign=993928&utm_source=habrahabr&utm_medium=rss)
+- [Приоритет — нейросетям: Nvidia отменяет выпуск RTX 50 Super и откладывает RTX 60](https://habr.com/ru/companies/bothub/news/993888/?utm_campaign=993888&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Организация видеоигровой индустрии выступила против законопроекта Мосгордумы о возрастной маркировке игр»](https://habr.com/ru/news/993900/?utm_campaign=993900&utm_source=habrahabr&utm_medium=rss)
 - [Смартфон вместо лаборатории: как Google и DeepMind готовят олимпийцев США к медалям](https://habr.com/ru/companies/bothub/news/993890/?utm_campaign=993890&utm_source=habrahabr&utm_medium=rss)
 - [Логистический тупик: Intel и AMD задерживают поставки серверных чипов в Китай из-за ИИ-бума](https://habr.com/ru/companies/bothub/news/993886/?utm_campaign=993886&utm_source=habrahabr&utm_medium=rss)
-- [Роскачество протестировало 10 популярных облачных сервисов для хранения данных](https://habr.com/ru/news/993880/?utm_campaign=993880&utm_source=habrahabr&utm_medium=rss)
-- [Gemini штурмует лидерство: 750 миллионов пользователей и рекордная выручка Alphabet](https://habr.com/ru/companies/bothub/news/993872/?utm_campaign=993872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
