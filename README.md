@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.6 написал свой полнофункциональный C-компилятор с нуля на языке Rust](https://habr.com/ru/news/993836/?utm_campaign=993836&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удалит необязательную опцию .NET Framework 3.5 в Windows 11](https://habr.com/ru/news/993820/?utm_campaign=993820&utm_source=habrahabr&utm_medium=rss)
 - [Как GPT-5.3-Codex создавала саму себя и получила рейтинг «высокой киберугрозы»](https://habr.com/ru/news/993818/?utm_campaign=993818&utm_source=habrahabr&utm_medium=rss)
 - [Flickr сообщил об утечке данных, в результате которой были раскрыты имена и электронные адреса пользователей](https://habr.com/ru/news/993812/?utm_campaign=993812&utm_source=habrahabr&utm_medium=rss)
 - [Waymo использует Genie 3 для обучения роботакси — от торнадо до слонов на дороге](https://habr.com/ru/news/993808/?utm_campaign=993808&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для профессиональной записи и обработки звука Ardour 9.0](https://habr.com/ru/news/993736/?utm_campaign=993736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
