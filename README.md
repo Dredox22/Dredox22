@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «Организация видеоигровой индустрии выступила против законопроекта Мосгордумы о возрастной маркировке игр»](https://habr.com/ru/news/993900/?utm_campaign=993900&utm_source=habrahabr&utm_medium=rss)
+- [Смартфон вместо лаборатории: как Google и DeepMind готовят олимпийцев США к медалям](https://habr.com/ru/companies/bothub/news/993890/?utm_campaign=993890&utm_source=habrahabr&utm_medium=rss)
 - [Логистический тупик: Intel и AMD задерживают поставки серверных чипов в Китай из-за ИИ-бума](https://habr.com/ru/companies/bothub/news/993886/?utm_campaign=993886&utm_source=habrahabr&utm_medium=rss)
 - [Роскачество протестировало 10 популярных облачных сервисов для хранения данных](https://habr.com/ru/news/993880/?utm_campaign=993880&utm_source=habrahabr&utm_medium=rss)
 - [Gemini штурмует лидерство: 750 миллионов пользователей и рекордная выручка Alphabet](https://habr.com/ru/companies/bothub/news/993872/?utm_campaign=993872&utm_source=habrahabr&utm_medium=rss)
-- [BigTech потратит на ИИ $650 млрд — больше ВВП Швейцарии](https://habr.com/ru/news/993866/?utm_campaign=993866&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.6 написал свой полнофункциональный C-компилятор с нуля на языке Rust](https://habr.com/ru/news/993836/?utm_campaign=993836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
