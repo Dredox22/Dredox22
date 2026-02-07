@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo использует Genie 3 для обучения роботакси — от торнадо до слонов на дороге](https://habr.com/ru/news/993808/?utm_campaign=993808&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для профессиональной записи и обработки звука Ardour 9.0](https://habr.com/ru/news/993736/?utm_campaign=993736&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.2](https://habr.com/ru/news/993584/?utm_campaign=993584&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь показал, как взломать OpenClaw одним письмом в Gmail](https://habr.com/ru/news/993772/?utm_campaign=993772&utm_source=habrahabr&utm_medium=rss)
 - [Еврокомиссия требует от TikTok убрать зависимые механики интерфейса](https://habr.com/ru/companies/bothub/news/993752/?utm_campaign=993752&utm_source=habrahabr&utm_medium=rss)
-- [Последние дни приёма работ на конкурс интерактивных историй](https://habr.com/ru/news/993708/?utm_campaign=993708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
