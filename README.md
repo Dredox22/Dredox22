@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ научился предсказывать срок жизни батарей в 50 раз быстрее](https://habr.com/ru/news/994092/?utm_campaign=994092&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.6 возглавил рейтинг ИИ-дизайна. Всего модели Anthropic держат 3 места в топ-5](https://habr.com/ru/news/994068/?utm_campaign=994068&utm_source=habrahabr&utm_medium=rss)
 - [Представлена инициатива по встраиванию моделей машинного обучения в ядро Linux](https://habr.com/ru/news/994054/?utm_campaign=994054&utm_source=habrahabr&utm_medium=rss)
 - [Ubisoft за восемь лет отменила разработку более 20 игр](https://habr.com/ru/news/994036/?utm_campaign=994036&utm_source=habrahabr&utm_medium=rss)
 - [Американские зумеры начали пользоваться соцсетью UpScrolled экс-сотрудника Oracle вместо TikTok](https://habr.com/ru/news/994026/?utm_campaign=994026&utm_source=habrahabr&utm_medium=rss)
-- [GOG работает над нативной поддержкой Linux](https://habr.com/ru/news/994022/?utm_campaign=994022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
