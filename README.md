@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия BetterMediaInfo 0.8 — это графический интерфейс для MediaInfo и анализа метаданных для аудио- и видеофайлов](https://habr.com/ru/news/993920/?utm_campaign=993920&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic ускорила Claude Opus 4.6 в 2,5 раза. Но по более высокой цене](https://habr.com/ru/news/993962/?utm_campaign=993962&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запускает онлайн-хакатон по Claude Code с призовым фондом $100 000](https://habr.com/ru/companies/bothub/news/993944/?utm_campaign=993944&utm_source=habrahabr&utm_medium=rss)
 - [«Что если СССР не распался?»: ИИ-стратегияPax Historia набрала 35 000 игроков в день](https://habr.com/ru/news/993940/?utm_campaign=993940&utm_source=habrahabr&utm_medium=rss)
 - [ИИ ослабляет критическое мышление? 100 экспертов из 30 стран считают, что да](https://habr.com/ru/news/993936/?utm_campaign=993936&utm_source=habrahabr&utm_medium=rss)
-- [Учёные «Росатома» создали коаксиальный кабель для сверхпроводниковых квантовых компьютеров](https://habr.com/ru/news/993930/?utm_campaign=993930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
