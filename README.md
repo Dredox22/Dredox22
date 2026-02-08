@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple будет удалять анонимные чаты из App Store без предупреждения](https://habr.com/ru/news/994042/?utm_campaign=994042&utm_source=habrahabr&utm_medium=rss)
 - [32 ГБ на скорости света: Кармак описал память для ИИ на оптоволоконной петле](https://habr.com/ru/news/994206/?utm_campaign=994206&utm_source=habrahabr&utm_medium=rss)
 - [Большая часть генома закрыта для CRISPR. ИИ нашел способ это изменить](https://habr.com/ru/news/994192/?utm_campaign=994192&utm_source=habrahabr&utm_medium=rss)
 - [В Великобритании пользователь обманул чат-бота ИИ в магазине и получил купон со скидкой 80%](https://habr.com/ru/news/994138/?utm_campaign=994138&utm_source=habrahabr&utm_medium=rss)
 - [Moltbook оказался спектаклем: самые вирусные посты ботов писали люди](https://habr.com/ru/news/994116/?utm_campaign=994116&utm_source=habrahabr&utm_medium=rss)
-- [ИИ научился предсказывать срок жизни батарей в 50 раз быстрее](https://habr.com/ru/news/994092/?utm_campaign=994092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
