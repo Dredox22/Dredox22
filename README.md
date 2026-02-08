@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft за восемь лет отменила разработку более 20 игр](https://habr.com/ru/news/994036/?utm_campaign=994036&utm_source=habrahabr&utm_medium=rss)
 - [Американские зумеры начали пользоваться соцсетью UpScrolled экс-сотрудника Oracle вместо TikTok](https://habr.com/ru/news/994026/?utm_campaign=994026&utm_source=habrahabr&utm_medium=rss)
 - [GOG работает над нативной поддержкой Linux](https://habr.com/ru/news/994022/?utm_campaign=994022&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления Wine 11.2](https://habr.com/ru/news/993980/?utm_campaign=993980&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия BetterMediaInfo 0.8 — это графический интерфейс для MediaInfo и анализа метаданных для аудио- и видеофайлов](https://habr.com/ru/news/993920/?utm_campaign=993920&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic ускорила Claude Opus 4.6 в 2,5 раза. Но по более высокой цене](https://habr.com/ru/news/993962/?utm_campaign=993962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
