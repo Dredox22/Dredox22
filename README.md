@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Распространение вайб-кодинга подорвало экосистему Open Source и это может привести к катастрофе](https://habr.com/ru/companies/bothub/news/994452/?utm_campaign=994452&utm_source=habrahabr&utm_medium=rss)
-- [Для доступа к API в режиме разработчика Spotify теперь требуется премиальный аккаунт](https://habr.com/ru/news/994444/?utm_campaign=994444&utm_source=habrahabr&utm_medium=rss)
-- [Что нового в beta-плагинах OpenIDE: Go и Frontend/Web](https://habr.com/ru/companies/haulmont/news/994438/?utm_campaign=994438&utm_source=habrahabr&utm_medium=rss)
-- [Генпрокуратура: в России сократилось число IT-преступлений](https://habr.com/ru/news/994406/?utm_campaign=994406&utm_source=habrahabr&utm_medium=rss)
-- [Managed PostgreSQL в MWS Cloud Platform вышел в общий доступ](https://habr.com/ru/companies/mws/news/994220/?utm_campaign=994220&utm_source=habrahabr&utm_medium=rss)
+- [В Китае запустили спутниковую систему BeiDou, которая позволит гражданам отправлять SMS без мобильной связи](https://habr.com/ru/news/994530/?utm_campaign=994530&utm_source=habrahabr&utm_medium=rss)
+- [Discord: с марта все аккаунты в мире автоматически сделают «детскими», пока пользователи не подтвердят возраст](https://habr.com/ru/news/994528/?utm_campaign=994528&utm_source=habrahabr&utm_medium=rss)
+- [Бухгалтер из Санта-Моники слил рекламу OpenAI: разбор главного фейка Super Bowl](https://habr.com/ru/news/994526/?utm_campaign=994526&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты назвали Telegram основной площадкой распространения утечек данных в 2024–2025 годах](https://habr.com/ru/news/994508/?utm_campaign=994508&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft и EA отменили французскую локализацию в некоторых играх из-за отказа актёров озвучки от условий обучения ИИ](https://habr.com/ru/news/994496/?utm_campaign=994496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
