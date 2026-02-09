@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Распространение вайб-кодинга подорвало экосистему Open Source и это может привести к катастрофе](https://habr.com/ru/companies/bothub/news/994452/?utm_campaign=994452&utm_source=habrahabr&utm_medium=rss)
+- [Для доступа к API в режиме разработчика Spotify теперь требуется премиальный аккаунт](https://habr.com/ru/news/994444/?utm_campaign=994444&utm_source=habrahabr&utm_medium=rss)
+- [Что нового в beta-плагинах OpenIDE: Go и Frontend/Web](https://habr.com/ru/companies/haulmont/news/994438/?utm_campaign=994438&utm_source=habrahabr&utm_medium=rss)
 - [Генпрокуратура: в России сократилось число IT-преступлений](https://habr.com/ru/news/994406/?utm_campaign=994406&utm_source=habrahabr&utm_medium=rss)
 - [Managed PostgreSQL в MWS Cloud Platform вышел в общий доступ](https://habr.com/ru/companies/mws/news/994220/?utm_campaign=994220&utm_source=habrahabr&utm_medium=rss)
-- [Рейтинг языков программирования TIOBE за февраль 2026: С плотно на втором месте, доля Python снижается](https://habr.com/ru/news/994396/?utm_campaign=994396&utm_source=habrahabr&utm_medium=rss)
-- [Основатель Neocities потратил недели на общение с техподдержкой Microsoft после блокировки своих сайтов](https://habr.com/ru/news/994394/?utm_campaign=994394&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.6 обманывал покупателей, врал поставщикам и победил: что показал бенчмарк вендинговых автоматов](https://habr.com/ru/news/994366/?utm_campaign=994366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
