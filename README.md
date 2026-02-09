@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Microsoft Edge для macOS приводило к чрезмерной нагрузке на CPU](https://habr.com/ru/news/994370/?utm_campaign=994370&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: AI-автопилоты на базе LVLM можно обмануть с помощью промпт-инъекций](https://habr.com/ru/news/994672/?utm_campaign=994672&utm_source=habrahabr&utm_medium=rss)
 - [Исследования показывают, что ИИ-модели по-прежнему слишком часто испытывают галлюцинации](https://habr.com/ru/companies/bothub/news/994664/?utm_campaign=994664&utm_source=habrahabr&utm_medium=rss)
 - [Valve добавила возможность указать планируемую дату выхода версии 1.0 для проектов в раннем доступе](https://habr.com/ru/news/994642/?utm_campaign=994642&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Seedream 5.0, бесплатная ИИ-рисовалка с поиском](https://habr.com/ru/news/994648/?utm_campaign=994648&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance представила новую Seedream 5.0](https://habr.com/ru/companies/bothub/news/994644/?utm_campaign=994644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
