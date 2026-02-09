@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [iFixit разобрали AirTag 2: динамик в обновлённой метке всё ещё легко отключается](https://habr.com/ru/news/994560/?utm_campaign=994560&utm_source=habrahabr&utm_medium=rss)
+- [В России суд оштрафовал за лайки под видео на YouTube под роликами иноагентов](https://habr.com/ru/news/994538/?utm_campaign=994538&utm_source=habrahabr&utm_medium=rss)
 - [В Китае запустили спутниковую систему BeiDou, которая позволит гражданам отправлять SMS без мобильной связи](https://habr.com/ru/news/994530/?utm_campaign=994530&utm_source=habrahabr&utm_medium=rss)
 - [Discord: с марта все аккаунты в мире автоматически сделают «детскими», пока пользователи не подтвердят возраст](https://habr.com/ru/news/994528/?utm_campaign=994528&utm_source=habrahabr&utm_medium=rss)
 - [Бухгалтер из Санта-Моники слил рекламу OpenAI: разбор главного фейка Super Bowl](https://habr.com/ru/news/994526/?utm_campaign=994526&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты назвали Telegram основной площадкой распространения утечек данных в 2024–2025 годах](https://habr.com/ru/news/994508/?utm_campaign=994508&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft и EA отменили французскую локализацию в некоторых играх из-за отказа актёров озвучки от условий обучения ИИ](https://habr.com/ru/news/994496/?utm_campaign=994496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
