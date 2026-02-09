@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Собранный Opus 4.6 компилятор провалился в независимом бенчмарке](https://habr.com/ru/news/994300/?utm_campaign=994300&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Lens убрали из магазинов приложений для Android и iOS](https://habr.com/ru/news/994296/?utm_campaign=994296&utm_source=habrahabr&utm_medium=rss)
-- [Apple добавила Lada в список поддерживаемых автомобилей CarPlay](https://habr.com/ru/news/994294/?utm_campaign=994294&utm_source=habrahabr&utm_medium=rss)
-- [HP, Dell, Acer и Asus могут перейти на китайские чипы памяти](https://habr.com/ru/companies/oxygendc/news/994292/?utm_campaign=994292&utm_source=habrahabr&utm_medium=rss)
-- [Проект DoNotNotify стал опенсорсным решением](https://habr.com/ru/news/994290/?utm_campaign=994290&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе Telegram в РФ](https://habr.com/ru/news/994350/?utm_campaign=994350&utm_source=habrahabr&utm_medium=rss)
+- [«Инфосистемы Джет» заплатит 3 млн рублей за реализацию критически опасных сценариев на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/994338/?utm_campaign=994338&utm_source=habrahabr&utm_medium=rss)
+- [Claude Opus 4.6 обнаружила 500 уязвимостей в библиотеках с открытым исходным кодом](https://habr.com/ru/news/994316/?utm_campaign=994316&utm_source=habrahabr&utm_medium=rss)
+- [SECURITM: SGRC-система с сертификатом ФСТЭК России 4 уровня доверия](https://habr.com/ru/companies/securitm/news/994322/?utm_campaign=994322&utm_source=habrahabr&utm_medium=rss)
+- [Количество закупок корпоративных VPN-сервисов в госсекторе и бизнесе по итогам 2025 года увеличилось на 18,5%](https://habr.com/ru/news/994320/?utm_campaign=994320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
