@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сбой в работе Telegram в РФ](https://habr.com/ru/news/994350/?utm_campaign=994350&utm_source=habrahabr&utm_medium=rss)
-- [«Инфосистемы Джет» заплатит 3 млн рублей за реализацию критически опасных сценариев на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/994338/?utm_campaign=994338&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.6 обнаружила 500 уязвимостей в библиотеках с открытым исходным кодом](https://habr.com/ru/news/994316/?utm_campaign=994316&utm_source=habrahabr&utm_medium=rss)
-- [SECURITM: SGRC-система с сертификатом ФСТЭК России 4 уровня доверия](https://habr.com/ru/companies/securitm/news/994322/?utm_campaign=994322&utm_source=habrahabr&utm_medium=rss)
-- [Количество закупок корпоративных VPN-сервисов в госсекторе и бизнесе по итогам 2025 года увеличилось на 18,5%](https://habr.com/ru/news/994320/?utm_campaign=994320&utm_source=habrahabr&utm_medium=rss)
+- [Генпрокуратура: в России сократилось число IT-преступлений](https://habr.com/ru/news/994406/?utm_campaign=994406&utm_source=habrahabr&utm_medium=rss)
+- [Managed PostgreSQL в MWS Cloud Platform вышел в общий доступ](https://habr.com/ru/companies/mws/news/994220/?utm_campaign=994220&utm_source=habrahabr&utm_medium=rss)
+- [Рейтинг языков программирования TIOBE за февраль 2026: С плотно на втором месте, доля Python снижается](https://habr.com/ru/news/994396/?utm_campaign=994396&utm_source=habrahabr&utm_medium=rss)
+- [Основатель Neocities потратил недели на общение с техподдержкой Microsoft после блокировки своих сайтов](https://habr.com/ru/news/994394/?utm_campaign=994394&utm_source=habrahabr&utm_medium=rss)
+- [Claude Opus 4.6 обманывал покупателей, врал поставщикам и победил: что показал бенчмарк вендинговых автоматов](https://habr.com/ru/news/994366/?utm_campaign=994366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
