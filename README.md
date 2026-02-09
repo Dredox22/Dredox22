@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [iFixit разобрали AirTag 2: динамик в обновлённой метке всё ещё легко отключается](https://habr.com/ru/news/994560/?utm_campaign=994560&utm_source=habrahabr&utm_medium=rss)
-- [В России суд оштрафовал за лайки под видео на YouTube под роликами иноагентов](https://habr.com/ru/news/994538/?utm_campaign=994538&utm_source=habrahabr&utm_medium=rss)
-- [В Китае запустили спутниковую систему BeiDou, которая позволит гражданам отправлять SMS без мобильной связи](https://habr.com/ru/news/994530/?utm_campaign=994530&utm_source=habrahabr&utm_medium=rss)
-- [Discord: с марта все аккаунты в мире автоматически сделают «детскими», пока пользователи не подтвердят возраст](https://habr.com/ru/news/994528/?utm_campaign=994528&utm_source=habrahabr&utm_medium=rss)
-- [Бухгалтер из Санта-Моники слил рекламу OpenAI: разбор главного фейка Super Bowl](https://habr.com/ru/news/994526/?utm_campaign=994526&utm_source=habrahabr&utm_medium=rss)
+- [«Октава» представила новую гарнитуру с активным шумоподавлением](https://habr.com/ru/news/994620/?utm_campaign=994620&utm_source=habrahabr&utm_medium=rss)
+- [Один из членов Общественой палаты РФ предлагает создать российский аналог Roblox](https://habr.com/ru/news/994616/?utm_campaign=994616&utm_source=habrahabr&utm_medium=rss)
+- [Tencent выпустила HY3D-Bench — датасет на 22 ТБ для генерации 3D-объектов](https://habr.com/ru/news/994606/?utm_campaign=994606&utm_source=habrahabr&utm_medium=rss)
+- [Десятки тысяч систем OpenClaw оказались уязвимы из-за неправильных настроек и известных эксплойтов](https://habr.com/ru/news/994602/?utm_campaign=994602&utm_source=habrahabr&utm_medium=rss)
+- [Компании платят блогерам до $600 000 за посты об ИИ](https://habr.com/ru/news/994588/?utm_campaign=994588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
