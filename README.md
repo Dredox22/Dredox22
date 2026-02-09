@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Октава» представила новую гарнитуру с активным шумоподавлением](https://habr.com/ru/news/994620/?utm_campaign=994620&utm_source=habrahabr&utm_medium=rss)
-- [Один из членов Общественой палаты РФ предлагает создать российский аналог Roblox](https://habr.com/ru/news/994616/?utm_campaign=994616&utm_source=habrahabr&utm_medium=rss)
-- [Tencent выпустила HY3D-Bench — датасет на 22 ТБ для генерации 3D-объектов](https://habr.com/ru/news/994606/?utm_campaign=994606&utm_source=habrahabr&utm_medium=rss)
-- [Десятки тысяч систем OpenClaw оказались уязвимы из-за неправильных настроек и известных эксплойтов](https://habr.com/ru/news/994602/?utm_campaign=994602&utm_source=habrahabr&utm_medium=rss)
-- [Компании платят блогерам до $600 000 за посты об ИИ](https://habr.com/ru/news/994588/?utm_campaign=994588&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: AI-автопилоты на базе LVLM можно обмануть с помощью промпт-инъекций](https://habr.com/ru/news/994672/?utm_campaign=994672&utm_source=habrahabr&utm_medium=rss)
+- [Исследования показывают, что ИИ-модели по-прежнему слишком часто испытывают галлюцинации](https://habr.com/ru/companies/bothub/news/994664/?utm_campaign=994664&utm_source=habrahabr&utm_medium=rss)
+- [Valve добавила возможность указать планируемую дату выхода версии 1.0 для проектов в раннем доступе](https://habr.com/ru/news/994642/?utm_campaign=994642&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Seedream 5.0, бесплатная ИИ-рисовалка с поиском](https://habr.com/ru/news/994648/?utm_campaign=994648&utm_source=habrahabr&utm_medium=rss)
+- [ByteDance представила новую Seedream 5.0](https://habr.com/ru/companies/bothub/news/994644/?utm_campaign=994644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
