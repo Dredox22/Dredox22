@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 могут перестать работать принтеры с драйверами V3 или V4](https://habr.com/ru/news/994266/?utm_campaign=994266&utm_source=habrahabr&utm_medium=rss)
+- [Беспилотник Amazon для доставки врезался в жилой дом в Техасе](https://habr.com/ru/news/994256/?utm_campaign=994256&utm_source=habrahabr&utm_medium=rss)
 - [Обновление легковесного проекта Winslop Drop 6 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/994234/?utm_campaign=994234&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code получил задачу «заработай $1000» — и за 74 минуты собрал рабочий сайт](https://habr.com/ru/news/994208/?utm_campaign=994208&utm_source=habrahabr&utm_medium=rss)
 - [Представлен набор промптов и подсказок для рецензирования изменений в ядре Linux и systemd при помощи ИИ](https://habr.com/ru/news/994186/?utm_campaign=994186&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 6.19, следующее ядро ​​будет называться Linux 7.0](https://habr.com/ru/news/994000/?utm_campaign=994000&utm_source=habrahabr&utm_medium=rss)
-- [Apple будет удалять анонимные чаты из App Store без предупреждения](https://habr.com/ru/news/994042/?utm_campaign=994042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
