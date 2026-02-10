@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тренды рынка больших данных: прогноз на 2026 год от эксперта К2Тех](https://habr.com/ru/companies/k2tech/news/995006/?utm_campaign=995006&utm_source=habrahabr&utm_medium=rss)
+- [Искусственный интеллект «Яндекса» начал предугадывать действия мошенников в рекламе](https://habr.com/ru/news/995004/?utm_campaign=995004&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia увеличила объем внутреннего кода в три раза с помощью Cursor](https://habr.com/ru/companies/bothub/news/994972/?utm_campaign=994972&utm_source=habrahabr&utm_medium=rss)
 - [Генеральный директор Databricks считает, что SaaS не умер, но ИИ скоро сделает его неактуальным](https://habr.com/ru/companies/bothub/news/994960/?utm_campaign=994960&utm_source=habrahabr&utm_medium=rss)
 - [Washington Post обвинила ИИ в падении трафика вдвое — и уволила до 375 журналистов](https://habr.com/ru/news/994968/?utm_campaign=994968&utm_source=habrahabr&utm_medium=rss)
-- [В репозитории Transformers появился PR с Qwen 3.5](https://habr.com/ru/companies/bothub/news/994924/?utm_campaign=994924&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудники Ubisoft в Италии вышли на протест из-за отмены удаленки](https://habr.com/ru/news/994964/?utm_campaign=994964&utm_source=habrahabr&utm_medium=rss)
-- [Создатель Redis написал ИИ-распознавание речи на чистом C — без Python и зависимостей](https://habr.com/ru/news/994952/?utm_campaign=994952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
