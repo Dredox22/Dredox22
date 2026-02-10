@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DUC meetup /4: ждём DevOps-инженеров, SRE и архитекторов](https://habr.com/ru/companies/flant/news/993152/?utm_campaign=993152&utm_source=habrahabr&utm_medium=rss)
+- [«Код Дурова»: на аукционе Fragment продали никнейм @alisa за 5,5 тыс. TON и потом привязали к telegram-боту «Яндекса»](https://habr.com/ru/news/994700/?utm_campaign=994700&utm_source=habrahabr&utm_medium=rss)
+- [DeepMind открыла код AlphaGenome — ИИ, который читает миллион букв ДНК за раз](https://habr.com/ru/news/994680/?utm_campaign=994680&utm_source=habrahabr&utm_medium=rss)
 - [Продолжается сбой в работе Telegram в РФ](https://habr.com/ru/news/994694/?utm_campaign=994694&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.9](https://habr.com/ru/news/994270/?utm_campaign=994270&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Microsoft Edge для macOS приводило к чрезмерной нагрузке на CPU](https://habr.com/ru/news/994370/?utm_campaign=994370&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: AI-автопилоты на базе LVLM можно обмануть с помощью промпт-инъекций](https://habr.com/ru/news/994672/?utm_campaign=994672&utm_source=habrahabr&utm_medium=rss)
-- [Исследования показывают, что ИИ-модели по-прежнему слишком часто испытывают галлюцинации](https://habr.com/ru/companies/bothub/news/994664/?utm_campaign=994664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
