@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление открытого клиента Modbus TCP и RTU OpenModScan 1.13.1](https://habr.com/ru/news/994716/?utm_campaign=994716&utm_source=habrahabr&utm_medium=rss)
+- [Команда Cursor выпустила новую версию своей агентной модели для программирования — Composer 1.5](https://habr.com/ru/news/994714/?utm_campaign=994714&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT появились рекламные объявления](https://habr.com/ru/news/994712/?utm_campaign=994712&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на открытый профессиональный вебинар](https://habr.com/ru/companies/hex_team/news/994706/?utm_campaign=994706&utm_source=habrahabr&utm_medium=rss)
 - [DUC meetup /4: ждём DevOps-инженеров, SRE и архитекторов](https://habr.com/ru/companies/flant/news/993152/?utm_campaign=993152&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: на аукционе Fragment продали никнейм @alisa за 5,5 тыс. TON и потом привязали к telegram-боту «Яндекса»](https://habr.com/ru/news/994700/?utm_campaign=994700&utm_source=habrahabr&utm_medium=rss)
-- [DeepMind открыла код AlphaGenome — ИИ, который читает миллион букв ДНК за раз](https://habr.com/ru/news/994680/?utm_campaign=994680&utm_source=habrahabr&utm_medium=rss)
-- [Продолжается сбой в работе Telegram в РФ](https://habr.com/ru/news/994694/?utm_campaign=994694&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 19.9](https://habr.com/ru/news/994270/?utm_campaign=994270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
