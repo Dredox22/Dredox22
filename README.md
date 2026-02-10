@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google берет в долг на 100 лет ради ИИ](https://habr.com/ru/news/995092/?utm_campaign=995092&utm_source=habrahabr&utm_medium=rss)
 - [Toyota представила игровой движок Fluorite с открытым исходным кодом](https://habr.com/ru/news/995060/?utm_campaign=995060&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Россия ограничивает доступ к Telegram, пытаясь заставить своих граждан перейти на контролируемое приложение](https://habr.com/ru/news/995042/?utm_campaign=995042&utm_source=habrahabr&utm_medium=rss)
 - [«Дочка» Alphabet представила ИИ-движок для дизайна лекарств — вдвое точнее AlphaFold 3](https://habr.com/ru/news/995024/?utm_campaign=995024&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты: Роскомнадзору может не хватать мощности ТСПУ для замедления двух крупных ресурсов сразу — YouTube и Telegram](https://habr.com/ru/news/995016/?utm_campaign=995016&utm_source=habrahabr&utm_medium=rss)
-- [Тренды рынка больших данных: прогноз на 2026 год от эксперта К2Тех](https://habr.com/ru/companies/k2tech/news/995006/?utm_campaign=995006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
