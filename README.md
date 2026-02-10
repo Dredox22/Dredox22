@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba запустила Qwen-Image-2.0 — нейросеть для презентаций, инфографики и комиксов](https://habr.com/ru/companies/bothub/news/994926/?utm_campaign=994926&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовится к новому раунду финансирования](https://habr.com/ru/companies/bothub/news/994922/?utm_campaign=994922&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор продолжит введение последовательных ограничений по отношению к Telegram](https://habr.com/ru/news/994918/?utm_campaign=994918&utm_source=habrahabr&utm_medium=rss)
-- [В российских школах прошёл «Урок цифры» по кибербезопасности в космосе](https://habr.com/ru/news/994902/?utm_campaign=994902&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp добавит поддержку голосовых и видеозвонков в веб-версии](https://habr.com/ru/news/994892/?utm_campaign=994892&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор Databricks считает, что SaaS не умер, но ИИ скоро сделает его неактуальным](https://habr.com/ru/companies/bothub/news/994960/?utm_campaign=994960&utm_source=habrahabr&utm_medium=rss)
+- [Washington Post обвинила ИИ в падении трафика вдвое — и уволила до 375 журналистов](https://habr.com/ru/news/994968/?utm_campaign=994968&utm_source=habrahabr&utm_medium=rss)
+- [В репозитории Transformers появился PR с Qwen 3.5](https://habr.com/ru/companies/bothub/news/994924/?utm_campaign=994924&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудники Ubisoft в Италии вышли на протест из-за отмены удаленки](https://habr.com/ru/news/994964/?utm_campaign=994964&utm_source=habrahabr&utm_medium=rss)
+- [Создатель Redis написал ИИ-распознавание речи на чистом C — без Python и зависимостей](https://habr.com/ru/news/994952/?utm_campaign=994952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
