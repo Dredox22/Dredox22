@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Госдума РФ приняла в первом чтении законопроект о привязке сим‑карт к IMEI и ограничении числа банковских карт](https://habr.com/ru/news/995050/?utm_campaign=995050&utm_source=habrahabr&utm_medium=rss)
+- [Дуров: Россия ограничивает доступ к Telegram, пытаясь заставить своих граждан перейти на контролируемое приложение](https://habr.com/ru/news/995042/?utm_campaign=995042&utm_source=habrahabr&utm_medium=rss)
+- [«Дочка» Alphabet представила ИИ-движок для дизайна лекарств — вдвое точнее AlphaFold 3](https://habr.com/ru/news/995024/?utm_campaign=995024&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты: Роскомнадзору может не хватать мощности ТСПУ для замедления двух крупных ресурсов сразу — YouTube и Telegram](https://habr.com/ru/news/995016/?utm_campaign=995016&utm_source=habrahabr&utm_medium=rss)
 - [Тренды рынка больших данных: прогноз на 2026 год от эксперта К2Тех](https://habr.com/ru/companies/k2tech/news/995006/?utm_campaign=995006&utm_source=habrahabr&utm_medium=rss)
-- [Искусственный интеллект «Яндекса» начал предугадывать действия мошенников в рекламе](https://habr.com/ru/news/995004/?utm_campaign=995004&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia увеличила объем внутреннего кода в три раза с помощью Cursor](https://habr.com/ru/companies/bothub/news/994972/?utm_campaign=994972&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный директор Databricks считает, что SaaS не умер, но ИИ скоро сделает его неактуальным](https://habr.com/ru/companies/bothub/news/994960/?utm_campaign=994960&utm_source=habrahabr&utm_medium=rss)
-- [Washington Post обвинила ИИ в падении трафика вдвое — и уволила до 375 журналистов](https://habr.com/ru/news/994968/?utm_campaign=994968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
