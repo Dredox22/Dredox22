@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Госдума РФ приняла в первом чтении законопроект о привязке сим‑карт к IMEI и ограничении числа банковских карт](https://habr.com/ru/news/995050/?utm_campaign=995050&utm_source=habrahabr&utm_medium=rss)
+- [Toyota представила игровой движок Fluorite с открытым исходным кодом](https://habr.com/ru/news/995060/?utm_campaign=995060&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Россия ограничивает доступ к Telegram, пытаясь заставить своих граждан перейти на контролируемое приложение](https://habr.com/ru/news/995042/?utm_campaign=995042&utm_source=habrahabr&utm_medium=rss)
 - [«Дочка» Alphabet представила ИИ-движок для дизайна лекарств — вдвое точнее AlphaFold 3](https://habr.com/ru/news/995024/?utm_campaign=995024&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты: Роскомнадзору может не хватать мощности ТСПУ для замедления двух крупных ресурсов сразу — YouTube и Telegram](https://habr.com/ru/news/995016/?utm_campaign=995016&utm_source=habrahabr&utm_medium=rss)
