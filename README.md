@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/994792/?utm_campaign=994792&utm_source=habrahabr&utm_medium=rss)
-- [В России стартовал педагогический конкурс «Турнир новаторов» для учителей, работающих с технологиями](https://habr.com/ru/news/994774/?utm_campaign=994774&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.6 — безжалостный капиталист](https://habr.com/ru/news/994772/?utm_campaign=994772&utm_source=habrahabr&utm_medium=rss)
-- [LibreOffice обвинила Microsoft в «погоне за коммерческими интересами»](https://habr.com/ru/news/994766/?utm_campaign=994766&utm_source=habrahabr&utm_medium=rss)
-- [СМИ рассказали об ошибках в работе медицинских устройств с ИИ](https://habr.com/ru/news/994758/?utm_campaign=994758&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: около 5 млн веб-серверов по всему миру открывают доступ к служебным данным Git из-за ошибки в настройке](https://habr.com/ru/news/994808/?utm_campaign=994808&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft улучшила доступность в Word для Windows](https://habr.com/ru/news/994796/?utm_campaign=994796&utm_source=habrahabr&utm_medium=rss)
+- [В Max появилась возможность создавать приватные каналы для всех пользователей](https://habr.com/ru/news/994822/?utm_campaign=994822&utm_source=habrahabr&utm_medium=rss)
+- [Спотовая цена DRAM выросла на 600%, и это ломает правила: почему на рынке памяти говорят о «суперцикле»](https://habr.com/ru/news/994818/?utm_campaign=994818&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся минорный релиз серверной операционной системы SELECTOS 1.3](https://habr.com/ru/companies/selectel/news/994810/?utm_campaign=994810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
