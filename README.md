@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple прекратила поддержку старой архитектуры HomeKit](https://habr.com/ru/news/994858/?utm_campaign=994858&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: 10 февраля Роскомнадзор начнёт ограничение работы Telegram](https://habr.com/ru/news/994830/?utm_campaign=994830&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: около 5 млн веб-серверов по всему миру открывают доступ к служебным данным Git из-за ошибки в настройке](https://habr.com/ru/news/994808/?utm_campaign=994808&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft улучшила доступность в Word для Windows](https://habr.com/ru/news/994796/?utm_campaign=994796&utm_source=habrahabr&utm_medium=rss)
-- [В Max появилась возможность создавать приватные каналы для всех пользователей](https://habr.com/ru/news/994822/?utm_campaign=994822&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba запустила Qwen-Image-2.0 — нейросеть для презентаций, инфографики и комиксов](https://habr.com/ru/companies/bothub/news/994926/?utm_campaign=994926&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовится к новому раунду финансирования](https://habr.com/ru/companies/bothub/news/994922/?utm_campaign=994922&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор продолжит введение последовательных ограничений по отношению к Telegram](https://habr.com/ru/news/994918/?utm_campaign=994918&utm_source=habrahabr&utm_medium=rss)
+- [В российских школах прошёл «Урок цифры» по кибербезопасности в космосе](https://habr.com/ru/news/994902/?utm_campaign=994902&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp добавит поддержку голосовых и видеозвонков в веб-версии](https://habr.com/ru/news/994892/?utm_campaign=994892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
