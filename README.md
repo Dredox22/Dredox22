@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление открытого клиента Modbus TCP и RTU OpenModScan 1.13.1](https://habr.com/ru/news/994716/?utm_campaign=994716&utm_source=habrahabr&utm_medium=rss)
-- [Команда Cursor выпустила новую версию своей агентной модели для программирования — Composer 1.5](https://habr.com/ru/news/994714/?utm_campaign=994714&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появились рекламные объявления](https://habr.com/ru/news/994712/?utm_campaign=994712&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на открытый профессиональный вебинар](https://habr.com/ru/companies/hex_team/news/994706/?utm_campaign=994706&utm_source=habrahabr&utm_medium=rss)
-- [DUC meetup /4: ждём DevOps-инженеров, SRE и архитекторов](https://habr.com/ru/companies/flant/news/993152/?utm_campaign=993152&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/994792/?utm_campaign=994792&utm_source=habrahabr&utm_medium=rss)
+- [В России стартовал педагогический конкурс «Турнир новаторов» для учителей, работающих с технологиями](https://habr.com/ru/news/994774/?utm_campaign=994774&utm_source=habrahabr&utm_medium=rss)
+- [Claude Opus 4.6 — безжалостный капиталист](https://habr.com/ru/news/994772/?utm_campaign=994772&utm_source=habrahabr&utm_medium=rss)
+- [LibreOffice обвинила Microsoft в «погоне за коммерческими интересами»](https://habr.com/ru/news/994766/?utm_campaign=994766&utm_source=habrahabr&utm_medium=rss)
+- [СМИ рассказали об ошибках в работе медицинских устройств с ИИ](https://habr.com/ru/news/994758/?utm_campaign=994758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
