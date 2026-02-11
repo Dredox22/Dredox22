@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Две тысячи учеников поборются в финалах XI сезона НТО](https://habr.com/ru/news/995302/?utm_campaign=995302&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь Telegram заявил о мошенничестве со стороны сына Павла Дурова при продаже NFT-подарка](https://habr.com/ru/news/995282/?utm_campaign=995282&utm_source=habrahabr&utm_medium=rss)
+- [Бизнес не планирует массово отказываться от рекламы в Telegram](https://habr.com/ru/news/995294/?utm_campaign=995294&utm_source=habrahabr&utm_medium=rss)
+- [Фигуристы выступили на Олимпиаде под ИИ-трек и столкнулись с критикой](https://habr.com/ru/companies/bothub/news/995200/?utm_campaign=995200&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic описала 8 угроз от Claude — включая саботаж науки и кражу собственных весов](https://habr.com/ru/news/995256/?utm_campaign=995256&utm_source=habrahabr&utm_medium=rss)
-- [Мнение: я счастливее, когда пишу код от руки](https://habr.com/ru/news/995226/?utm_campaign=995226&utm_source=habrahabr&utm_medium=rss)
-- [Итак, компанию покинула ровно половина основателей xAI](https://habr.com/ru/companies/bothub/news/995192/?utm_campaign=995192&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ProGate 1.1.0: поддержка отказоустойчивости BiHA и стабильная миграция данных](https://habr.com/ru/companies/postgrespro/news/995250/?utm_campaign=995250&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-Аналитик, который сам строит дэшборды](https://habr.com/ru/companies/luxms_bi/news/995238/?utm_campaign=995238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
