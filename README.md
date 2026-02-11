@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла .NET 11 Preview 1](https://habr.com/ru/news/995552/?utm_campaign=995552&utm_source=habrahabr&utm_medium=rss)
+- [Релиз GLM-5: от вайб-кодинга к агентной инженерии](https://habr.com/ru/news/995534/?utm_campaign=995534&utm_source=habrahabr&utm_medium=rss)
 - [Люди рассказывали ChatGPT о страхах, Боге и разводах. Теперь на этом построят рекламу](https://habr.com/ru/news/995522/?utm_campaign=995522&utm_source=habrahabr&utm_medium=rss)
 - [Sony в этом месяце завершит поставки своих последних Blu-ray-рекордеров](https://habr.com/ru/news/995514/?utm_campaign=995514&utm_source=habrahabr&utm_medium=rss)
 - [В базе DNS-серверов РКН нет: YouTube, Whatsapp, Facebook**, Instagram**, Messenger**, Torproject и других ресурсов](https://habr.com/ru/news/995512/?utm_campaign=995512&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открывает новый сезон стажировок и расширяет набор на ML-направление](https://habr.com/ru/news/995510/?utm_campaign=995510&utm_source=habrahabr&utm_medium=rss)
-- [ArenaGo Open Cup — первое соревнование по трейдингу](https://habr.com/ru/news/995498/?utm_campaign=995498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
