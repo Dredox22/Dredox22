@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла ACE-Step 1.5 — обновлённая модель для локальной генерации музыки](https://habr.com/ru/news/995584/?utm_campaign=995584&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek обновился — в чате модель называет себя «предрелизной версией V4»](https://habr.com/ru/news/995572/?utm_campaign=995572&utm_source=habrahabr&utm_medium=rss)
 - [Вышла .NET 11 Preview 1](https://habr.com/ru/news/995552/?utm_campaign=995552&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GLM-5: от вайб-кодинга к агентной инженерии](https://habr.com/ru/news/995534/?utm_campaign=995534&utm_source=habrahabr&utm_medium=rss)
 - [Люди рассказывали ChatGPT о страхах, Боге и разводах. Теперь на этом построят рекламу](https://habr.com/ru/news/995522/?utm_campaign=995522&utm_source=habrahabr&utm_medium=rss)
-- [Sony в этом месяце завершит поставки своих последних Blu-ray-рекордеров](https://habr.com/ru/news/995514/?utm_campaign=995514&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
