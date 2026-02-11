@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google берет в долг на 100 лет ради ИИ](https://habr.com/ru/news/995092/?utm_campaign=995092&utm_source=habrahabr&utm_medium=rss)
-- [Toyota представила игровой движок Fluorite с открытым исходным кодом](https://habr.com/ru/news/995060/?utm_campaign=995060&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: Россия ограничивает доступ к Telegram, пытаясь заставить своих граждан перейти на контролируемое приложение](https://habr.com/ru/news/995042/?utm_campaign=995042&utm_source=habrahabr&utm_medium=rss)
-- [«Дочка» Alphabet представила ИИ-движок для дизайна лекарств — вдвое точнее AlphaFold 3](https://habr.com/ru/news/995024/?utm_campaign=995024&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты: Роскомнадзору может не хватать мощности ТСПУ для замедления двух крупных ресурсов сразу — YouTube и Telegram](https://habr.com/ru/news/995016/?utm_campaign=995016&utm_source=habrahabr&utm_medium=rss)
+- [11 февраля: ограничения в работе Telegram в РФ стабилизированы](https://habr.com/ru/news/995178/?utm_campaign=995178&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: решение суда о блокировке Telegram от 2018 года до сих пор не отменено](https://habr.com/ru/news/995176/?utm_campaign=995176&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI отказалась от бренда «io»](https://habr.com/ru/companies/bothub/news/995146/?utm_campaign=995146&utm_source=habrahabr&utm_medium=rss)
+- [Бывший гендиректор GitHub запустил платформу для разработчиков ИИ-агентов](https://habr.com/ru/news/995168/?utm_campaign=995168&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Opus 4.6, GPT-5.3-Codex и реклама на Super Bowl](https://habr.com/ru/news/995046/?utm_campaign=995046&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
