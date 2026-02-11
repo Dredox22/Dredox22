@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [RuStore запустил систему купонов для разработчиков и персонализированный интерфейс](https://habr.com/ru/news/995390/?utm_campaign=995390&utm_source=habrahabr&utm_medium=rss)
-- [Домен мессенджера WhatsApp полностью пропал из DNS-серверов Роскомнадзора](https://habr.com/ru/news/995380/?utm_campaign=995380&utm_source=habrahabr&utm_medium=rss)
-- [Акции Zhipu выросли на 50% на фоне стелс-запуска GLM-5](https://habr.com/ru/news/995372/?utm_campaign=995372&utm_source=habrahabr&utm_medium=rss)
-- [В «Блокноте» Windows 11 нашли уязвимость удалённого выполнения кода](https://habr.com/ru/news/995334/?utm_campaign=995334&utm_source=habrahabr&utm_medium=rss)
-- [Cowork стал доступен на Windows](https://habr.com/ru/companies/bothub/news/995318/?utm_campaign=995318&utm_source=habrahabr&utm_medium=rss)
+- [В апреле встречаемся на Alfa CTF](https://habr.com/ru/companies/alfa/news/995458/?utm_campaign=995458&utm_source=habrahabr&utm_medium=rss)
+- [Глава отдела безопасности ИИ в Anthropic уволился с письмом о гибели мира и планами изучать поэзию](https://habr.com/ru/news/995446/?utm_campaign=995446&utm_source=habrahabr&utm_medium=rss)
+- [EMXControls теперь доступны для open source проектов](https://habr.com/ru/companies/eremexru/news/995444/?utm_campaign=995444&utm_source=habrahabr&utm_medium=rss)
+- [Учёные МИСИС создали новый аморфный сплав для работы при температуре до 800 °C](https://habr.com/ru/news/995436/?utm_campaign=995436&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» наладил серийное производство морозоустойчивых зарядных станций для электромобилей](https://habr.com/ru/news/995424/?utm_campaign=995424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
