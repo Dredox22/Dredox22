@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Блокноте» Windows 11 нашли уязвимость удалённого выполнения кода](https://habr.com/ru/news/995334/?utm_campaign=995334&utm_source=habrahabr&utm_medium=rss)
+- [Cowork стал доступен на Windows](https://habr.com/ru/companies/bothub/news/995318/?utm_campaign=995318&utm_source=habrahabr&utm_medium=rss)
+- [Managed Kubernetes в MWS Cloud Platform вышел в общий доступ](https://habr.com/ru/companies/mws/news/994990/?utm_campaign=994990&utm_source=habrahabr&utm_medium=rss)
 - [Две тысячи учеников поборются в финалах XI сезона НТО](https://habr.com/ru/news/995302/?utm_campaign=995302&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь Telegram заявил о мошенничестве со стороны сына Павла Дурова при продаже NFT-подарка](https://habr.com/ru/news/995282/?utm_campaign=995282&utm_source=habrahabr&utm_medium=rss)
-- [Бизнес не планирует массово отказываться от рекламы в Telegram](https://habr.com/ru/news/995294/?utm_campaign=995294&utm_source=habrahabr&utm_medium=rss)
-- [Фигуристы выступили на Олимпиаде под ИИ-трек и столкнулись с критикой](https://habr.com/ru/companies/bothub/news/995200/?utm_campaign=995200&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic описала 8 угроз от Claude — включая саботаж науки и кражу собственных весов](https://habr.com/ru/news/995256/?utm_campaign=995256&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
