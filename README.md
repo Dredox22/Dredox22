@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [11 февраля: ограничения в работе Telegram в РФ стабилизированы](https://habr.com/ru/news/995178/?utm_campaign=995178&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: решение суда о блокировке Telegram от 2018 года до сих пор не отменено](https://habr.com/ru/news/995176/?utm_campaign=995176&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI отказалась от бренда «io»](https://habr.com/ru/companies/bothub/news/995146/?utm_campaign=995146&utm_source=habrahabr&utm_medium=rss)
-- [Бывший гендиректор GitHub запустил платформу для разработчиков ИИ-агентов](https://habr.com/ru/news/995168/?utm_campaign=995168&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Opus 4.6, GPT-5.3-Codex и реклама на Super Bowl](https://habr.com/ru/news/995046/?utm_campaign=995046&utm_source=habrahabr&utm_medium=rss)
+- [Apple и Google договорились изменить магазины приложений из-за обвинений в «дуополии»](https://habr.com/ru/news/995208/?utm_campaign=995208&utm_source=habrahabr&utm_medium=rss)
+- [Открываем новый сезон стажировок: 3200 оферов, фокус на ML и обновление тестовых заданий](https://habr.com/ru/companies/yandex/news/995000/?utm_campaign=995000&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила ключевой компонент безопасности Windows 11](https://habr.com/ru/news/995194/?utm_campaign=995194&utm_source=habrahabr&utm_medium=rss)
+- [ElevenLabs выпустила крупное обновление ElevenAgents](https://habr.com/ru/companies/bothub/news/995158/?utm_campaign=995158&utm_source=habrahabr&utm_medium=rss)
+- [Инженер Microsoft Рэймонд Чен рассказал, как Windows 95 получила разрешение на размещение видеоклипа Weezer на CD](https://habr.com/ru/news/995212/?utm_campaign=995212&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
