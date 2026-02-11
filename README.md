@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple и Google договорились изменить магазины приложений из-за обвинений в «дуополии»](https://habr.com/ru/news/995208/?utm_campaign=995208&utm_source=habrahabr&utm_medium=rss)
-- [Открываем новый сезон стажировок: 3200 оферов, фокус на ML и обновление тестовых заданий](https://habr.com/ru/companies/yandex/news/995000/?utm_campaign=995000&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила ключевой компонент безопасности Windows 11](https://habr.com/ru/news/995194/?utm_campaign=995194&utm_source=habrahabr&utm_medium=rss)
-- [ElevenLabs выпустила крупное обновление ElevenAgents](https://habr.com/ru/companies/bothub/news/995158/?utm_campaign=995158&utm_source=habrahabr&utm_medium=rss)
-- [Инженер Microsoft Рэймонд Чен рассказал, как Windows 95 получила разрешение на размещение видеоклипа Weezer на CD](https://habr.com/ru/news/995212/?utm_campaign=995212&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic описала 8 угроз от Claude — включая саботаж науки и кражу собственных весов](https://habr.com/ru/news/995256/?utm_campaign=995256&utm_source=habrahabr&utm_medium=rss)
+- [Мнение: я счастливее, когда пишу код от руки](https://habr.com/ru/news/995226/?utm_campaign=995226&utm_source=habrahabr&utm_medium=rss)
+- [Итак, компанию покинула ровно половина основателей xAI](https://habr.com/ru/companies/bothub/news/995192/?utm_campaign=995192&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ProGate 1.1.0: поддержка отказоустойчивости BiHA и стабильная миграция данных](https://habr.com/ru/companies/postgrespro/news/995250/?utm_campaign=995250&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-Аналитик, который сам строит дэшборды](https://habr.com/ru/companies/luxms_bi/news/995238/?utm_campaign=995238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
