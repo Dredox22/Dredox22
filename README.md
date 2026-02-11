@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Лаборатория Касперского» выявила новую схему угона аккаунтов в Telegram через встроенные приложения](https://habr.com/ru/news/995492/?utm_campaign=995492&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры потребовали у российской рыбопромысловой компании рекордный выкуп в 500 млн рублей](https://habr.com/ru/news/995490/?utm_campaign=995490&utm_source=habrahabr&utm_medium=rss)
-- [В апреле встречаемся на Alfa CTF](https://habr.com/ru/companies/alfa/news/995458/?utm_campaign=995458&utm_source=habrahabr&utm_medium=rss)
-- [Глава отдела безопасности ИИ в Anthropic уволился с письмом о гибели мира и планами изучать поэзию](https://habr.com/ru/news/995446/?utm_campaign=995446&utm_source=habrahabr&utm_medium=rss)
-- [EMXControls теперь доступны для open source проектов](https://habr.com/ru/companies/eremexru/news/995444/?utm_campaign=995444&utm_source=habrahabr&utm_medium=rss)
+- [Люди рассказывали ChatGPT о страхах, Боге и разводах. Теперь на этом построят рекламу](https://habr.com/ru/news/995522/?utm_campaign=995522&utm_source=habrahabr&utm_medium=rss)
+- [Sony в этом месяце завершит поставки своих последних Blu-ray-рекордеров](https://habr.com/ru/news/995514/?utm_campaign=995514&utm_source=habrahabr&utm_medium=rss)
+- [В базе DNS-серверов РКН нет: YouTube, Whatsapp, Facebook**, Instagram**, Messenger**, Torproject и других ресурсов](https://habr.com/ru/news/995512/?utm_campaign=995512&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открывает новый сезон стажировок и расширяет набор на ML-направление](https://habr.com/ru/news/995510/?utm_campaign=995510&utm_source=habrahabr&utm_medium=rss)
+- [ArenaGo Open Cup — первое соревнование по трейдингу](https://habr.com/ru/news/995498/?utm_campaign=995498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
