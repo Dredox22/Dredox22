@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RuStore запустил систему купонов для разработчиков и персонализированный интерфейс](https://habr.com/ru/news/995390/?utm_campaign=995390&utm_source=habrahabr&utm_medium=rss)
+- [Домен мессенджера WhatsApp полностью пропал из DNS-серверов Роскомнадзора](https://habr.com/ru/news/995380/?utm_campaign=995380&utm_source=habrahabr&utm_medium=rss)
+- [Акции Zhipu выросли на 50% на фоне стелс-запуска GLM-5](https://habr.com/ru/news/995372/?utm_campaign=995372&utm_source=habrahabr&utm_medium=rss)
 - [В «Блокноте» Windows 11 нашли уязвимость удалённого выполнения кода](https://habr.com/ru/news/995334/?utm_campaign=995334&utm_source=habrahabr&utm_medium=rss)
 - [Cowork стал доступен на Windows](https://habr.com/ru/companies/bothub/news/995318/?utm_campaign=995318&utm_source=habrahabr&utm_medium=rss)
-- [Managed Kubernetes в MWS Cloud Platform вышел в общий доступ](https://habr.com/ru/companies/mws/news/994990/?utm_campaign=994990&utm_source=habrahabr&utm_medium=rss)
-- [Две тысячи учеников поборются в финалах XI сезона НТО](https://habr.com/ru/news/995302/?utm_campaign=995302&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь Telegram заявил о мошенничестве со стороны сына Павла Дурова при продаже NFT-подарка](https://habr.com/ru/news/995282/?utm_campaign=995282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
