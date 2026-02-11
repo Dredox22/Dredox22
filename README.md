@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лаборатория Касперского» выявила новую схему угона аккаунтов в Telegram через встроенные приложения](https://habr.com/ru/news/995492/?utm_campaign=995492&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры потребовали у российской рыбопромысловой компании рекордный выкуп в 500 млн рублей](https://habr.com/ru/news/995490/?utm_campaign=995490&utm_source=habrahabr&utm_medium=rss)
 - [В апреле встречаемся на Alfa CTF](https://habr.com/ru/companies/alfa/news/995458/?utm_campaign=995458&utm_source=habrahabr&utm_medium=rss)
 - [Глава отдела безопасности ИИ в Anthropic уволился с письмом о гибели мира и планами изучать поэзию](https://habr.com/ru/news/995446/?utm_campaign=995446&utm_source=habrahabr&utm_medium=rss)
 - [EMXControls теперь доступны для open source проектов](https://habr.com/ru/companies/eremexru/news/995444/?utm_campaign=995444&utm_source=habrahabr&utm_medium=rss)
-- [Учёные МИСИС создали новый аморфный сплав для работы при температуре до 800 °C](https://habr.com/ru/news/995436/?utm_campaign=995436&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» наладил серийное производство морозоустойчивых зарядных станций для электромобилей](https://habr.com/ru/news/995424/?utm_campaign=995424&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
