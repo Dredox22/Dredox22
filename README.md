@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [12 февраля: ограничения в работе Telegram в РФ умерены](https://habr.com/ru/news/995610/?utm_campaign=995610&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты: из базы DNS-серверов РКН убрали YouTube и Whatsapp ради разгрузки ТСПУ на другие задачи](https://habr.com/ru/news/995606/?utm_campaign=995606&utm_source=habrahabr&utm_medium=rss)
-- [xAI потеряла половину основателей. Маск в ответ решил построить катапульту на Луне и запускать ИИ-спутники](https://habr.com/ru/news/995586/?utm_campaign=995586&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск дистрибутива Parrot OS 7.1 для этического хакинга с ядром Linux 6.17.13 и новыми инструментами для пентестов](https://habr.com/ru/news/995394/?utm_campaign=995394&utm_source=habrahabr&utm_medium=rss)
-- [Вышел CrossOver 26.0 для macOS и Linux](https://habr.com/ru/news/995138/?utm_campaign=995138&utm_source=habrahabr&utm_medium=rss)
+- [Z Code: первая ИИ IDE из Китая](https://habr.com/ru/news/995650/?utm_campaign=995650&utm_source=habrahabr&utm_medium=rss)
+- [В WhatsApp ответили на пропажу домена мессенджера из DNS-серверов Роскомнадзора](https://habr.com/ru/news/995644/?utm_campaign=995644&utm_source=habrahabr&utm_medium=rss)
+- [243 строки, ноль библиотек: Андрей Карпати написал GPT на чистом Python](https://habr.com/ru/news/995638/?utm_campaign=995638&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого медиацентра MythTV 36.0](https://habr.com/ru/news/995150/?utm_campaign=995150&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic открыла возможности платного тарифа Claude для пользователей без подписки](https://habr.com/ru/news/995630/?utm_campaign=995630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
