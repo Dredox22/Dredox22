@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торвальдс отклонил изменения в MMC для цикла Linux 7.0, назвав предлагаемый код «полным мусором»](https://habr.com/ru/news/995930/?utm_campaign=995930&utm_source=habrahabr&utm_medium=rss)
+- [В Турции заработало суперприложение «Яндекса» с 20 ИИ-ассистентами](https://habr.com/ru/news/995918/?utm_campaign=995918&utm_source=habrahabr&utm_medium=rss)
+- [Airtable отключит российские аккаунты с 19 февраля](https://habr.com/ru/companies/cloud_ru/news/995926/?utm_campaign=995926&utm_source=habrahabr&utm_medium=rss)
 - [Мобильные разработчики в РФ сообщили о срывах релизов из-за проблем с работой Telegram](https://habr.com/ru/news/995908/?utm_campaign=995908&utm_source=habrahabr&utm_medium=rss)
 - [Владелец франшизы Warhammer 40,000 пожаловался в Steam на игру конкурентов — стратегию Void War](https://habr.com/ru/news/995904/?utm_campaign=995904&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT обновили функцию глубокого поиска](https://habr.com/ru/news/995874/?utm_campaign=995874&utm_source=habrahabr&utm_medium=rss)
-- [Разработчикам голосового робота для ЖКХ пришлось отучать нейросеть от мата после общения с пользователями](https://habr.com/ru/news/995862/?utm_campaign=995862&utm_source=habrahabr&utm_medium=rss)
-- [Документальный фильм про эволюцию разработки Авито](https://habr.com/ru/companies/avito/news/995468/?utm_campaign=995468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
