@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров: попытка России директивно навязать населению сервис не имеет успешных примеров в мировой практике](https://habr.com/ru/news/995994/?utm_campaign=995994&utm_source=habrahabr&utm_medium=rss)
+- [1000 токенов в секунду: OpenAI выпустила суперскоростной ИИ для кодинга GPT-5.3-Codex-Spark](https://habr.com/ru/news/995992/?utm_campaign=995992&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила молниеносную модель для кода с 1000 токенов в секунду: GPT-5.3-Codex-Spark](https://habr.com/ru/companies/bothub/news/995990/?utm_campaign=995990&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила новый интерфейс командной строки для Microsoft Store](https://habr.com/ru/news/995948/?utm_campaign=995948&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик поменял способ обработки диффов в Cursor и Aider. Точность правок выросла до 10x, но Google его забанил](https://habr.com/ru/companies/bothub/news/995986/?utm_campaign=995986&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax представили M2.5 — флагманскую модель для кодинга и агентных задач](https://habr.com/ru/news/995978/?utm_campaign=995978&utm_source=habrahabr&utm_medium=rss)
-- [Новая Gemini 3 Deep Think обогнала среднего человека в «тесте на AGI»»](https://habr.com/ru/news/995968/?utm_campaign=995968&utm_source=habrahabr&utm_medium=rss)
-- [Вышел 7-Zip 26.0](https://habr.com/ru/news/995966/?utm_campaign=995966&utm_source=habrahabr&utm_medium=rss)
-- [Meta* получила патент на разработку ИИ, способного имитировать пользователя в соцсетях во время его отсутствия](https://habr.com/ru/news/995940/?utm_campaign=995940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
