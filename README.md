@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Microsoft вернёт возможность перемещать панель задач в Windows 11](https://habr.com/ru/news/996016/?utm_campaign=996016&utm_source=habrahabr&utm_medium=rss)
 - [OpenClaw-агент возмутился закрытым pull request’ом и написал разгромную статью о мейнтейнере matplotlib](https://habr.com/ru/companies/bothub/news/996018/?utm_campaign=996018&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: попытка России директивно навязать населению сервис не имеет успешных примеров в мировой практике](https://habr.com/ru/news/995994/?utm_campaign=995994&utm_source=habrahabr&utm_medium=rss)
 - [1000 токенов в секунду: OpenAI выпустила суперскоростной ИИ для кодинга GPT-5.3-Codex-Spark](https://habr.com/ru/news/995992/?utm_campaign=995992&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила молниеносную модель для кода с 1000 токенов в секунду: GPT-5.3-Codex-Spark](https://habr.com/ru/companies/bothub/news/995990/?utm_campaign=995990&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила новый интерфейс командной строки для Microsoft Store](https://habr.com/ru/news/995948/?utm_campaign=995948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
