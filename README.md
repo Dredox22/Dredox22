@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик поменял способ обработки диффов в Cursor и Aider. Точность правок выросла до 10x, но Google его забанил](https://habr.com/ru/companies/bothub/news/995986/?utm_campaign=995986&utm_source=habrahabr&utm_medium=rss)
+- [MiniMax представили M2.5 — флагманскую модель для кодинга и агентных задач](https://habr.com/ru/news/995978/?utm_campaign=995978&utm_source=habrahabr&utm_medium=rss)
+- [Новая Gemini 3 Deep Think обогнала среднего человека в «тесте на AGI»»](https://habr.com/ru/news/995968/?utm_campaign=995968&utm_source=habrahabr&utm_medium=rss)
+- [Вышел 7-Zip 26.0](https://habr.com/ru/news/995966/?utm_campaign=995966&utm_source=habrahabr&utm_medium=rss)
 - [Meta* получила патент на разработку ИИ, способного имитировать пользователя в соцсетях во время его отсутствия](https://habr.com/ru/news/995940/?utm_campaign=995940&utm_source=habrahabr&utm_medium=rss)
-- [Режиссёр Руайри Робинсон показал неотличимую от настоящей ИИ-работу с дракой Брэда Питта и Тома Круза](https://habr.com/ru/news/995952/?utm_campaign=995952&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс отклонил изменения в подсистему MMC для цикла Linux 7.0, назвав предлагаемый код «полным мусором»](https://habr.com/ru/news/995930/?utm_campaign=995930&utm_source=habrahabr&utm_medium=rss)
-- [В Турции заработало суперприложение «Яндекса» с 20 ИИ-ассистентами](https://habr.com/ru/news/995918/?utm_campaign=995918&utm_source=habrahabr&utm_medium=rss)
-- [Airtable отключит российские аккаунты с 19 февраля](https://habr.com/ru/companies/cloud_ru/news/995926/?utm_campaign=995926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
