@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ перестал показывать, что делает: разработчики жалуются на новую версию Claude Code](https://habr.com/ru/news/995742/?utm_campaign=995742&utm_source=habrahabr&utm_medium=rss)
+- [«Почта Mail» обновила дизайн мобильного приложения](https://habr.com/ru/news/995730/?utm_campaign=995730&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила Windows 11 Validation ISO](https://habr.com/ru/news/995686/?utm_campaign=995686&utm_source=habrahabr&utm_medium=rss)
 - [Z Code: первая ИИ IDE из Китая](https://habr.com/ru/news/995650/?utm_campaign=995650&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp ответили на пропажу домена мессенджера из DNS-серверов Роскомнадзора](https://habr.com/ru/news/995644/?utm_campaign=995644&utm_source=habrahabr&utm_medium=rss)
-- [243 строки, ноль библиотек: Андрей Карпати написал GPT на чистом Python](https://habr.com/ru/news/995638/?utm_campaign=995638&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого медиацентра MythTV 36.0](https://habr.com/ru/news/995150/?utm_campaign=995150&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic открыла возможности платного тарифа Claude для пользователей без подписки](https://habr.com/ru/news/995630/?utm_campaign=995630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
