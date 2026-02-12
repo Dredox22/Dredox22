@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлено открытое хранилище медиафайлов YouTube](https://habr.com/ru/news/995792/?utm_campaign=995792&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft создала детектор LLM-бэкдоров и назвала 3 признака заражения открытой ИИ-модели](https://habr.com/ru/companies/bothub/news/995786/?utm_campaign=995786&utm_source=habrahabr&utm_medium=rss)
 - [Cisco представила чип и маршрутизатор для ускорения передачи данных в ИИ-инфраструктуре ЦОД](https://habr.com/ru/news/995758/?utm_campaign=995758&utm_source=habrahabr&utm_medium=rss)
 - [ИИ перестал показывать, что делает: разработчики жалуются на новую версию Claude Code](https://habr.com/ru/news/995742/?utm_campaign=995742&utm_source=habrahabr&utm_medium=rss)
 - [«Почта Mail» обновила дизайн мобильного приложения](https://habr.com/ru/news/995730/?utm_campaign=995730&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила Windows 11 Validation ISO](https://habr.com/ru/news/995686/?utm_campaign=995686&utm_source=habrahabr&utm_medium=rss)
-- [Z Code: новая ИИ IDE из Китая](https://habr.com/ru/news/995650/?utm_campaign=995650&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
