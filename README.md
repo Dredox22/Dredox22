@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google внедрила инструмент для удаления персональных данных из результатов поиска](https://habr.com/ru/news/995090/?utm_campaign=995090&utm_source=habrahabr&utm_medium=rss)
-- [Вышла ACE-Step 1.5 — обновлённая модель для локальной генерации музыки](https://habr.com/ru/news/995584/?utm_campaign=995584&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek обновился — в чате модель называет себя «предрелизной версией V4»](https://habr.com/ru/news/995572/?utm_campaign=995572&utm_source=habrahabr&utm_medium=rss)
-- [Вышла .NET 11 Preview 1](https://habr.com/ru/news/995552/?utm_campaign=995552&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GLM-5: от вайб-кодинга к агентной инженерии](https://habr.com/ru/news/995534/?utm_campaign=995534&utm_source=habrahabr&utm_medium=rss)
+- [12 февраля: ограничения в работе Telegram в РФ умерены](https://habr.com/ru/news/995610/?utm_campaign=995610&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты: из базы DNS-серверов РКН убрали YouTube и Whatsapp ради разгрузки ТСПУ на другие задачи](https://habr.com/ru/news/995606/?utm_campaign=995606&utm_source=habrahabr&utm_medium=rss)
+- [xAI потеряла половину основателей. Маск в ответ решил построить катапульту на Луне и запускать ИИ-спутники](https://habr.com/ru/news/995586/?utm_campaign=995586&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск дистрибутива Parrot OS 7.1 для этического хакинга с ядром Linux 6.17.13 и новыми инструментами для пентестов](https://habr.com/ru/news/995394/?utm_campaign=995394&utm_source=habrahabr&utm_medium=rss)
+- [Вышел CrossOver 26.0 для macOS и Linux](https://habr.com/ru/news/995138/?utm_campaign=995138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
