@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильные разработчики в РФ сообщили о срывах релизов из-за проблем с работой Telegram](https://habr.com/ru/news/995908/?utm_campaign=995908&utm_source=habrahabr&utm_medium=rss)
+- [Владелец франшизы Warhammer 40,000 пожаловался в Steam на игру конкурентов — стратегию Void War](https://habr.com/ru/news/995904/?utm_campaign=995904&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT обновили функцию глубокого поиска](https://habr.com/ru/news/995874/?utm_campaign=995874&utm_source=habrahabr&utm_medium=rss)
+- [Разработчикам голосового робота для ЖКХ пришлось отучать нейросеть от мата после общения с пользователями](https://habr.com/ru/news/995862/?utm_campaign=995862&utm_source=habrahabr&utm_medium=rss)
 - [Документальный фильм про эволюцию разработки Авито](https://habr.com/ru/companies/avito/news/995468/?utm_campaign=995468&utm_source=habrahabr&utm_medium=rss)
-- [ИИ становится массовой практикой для российского бизнеса, по мнению аналитиков UserGate](https://habr.com/ru/companies/usergate/news/995844/?utm_campaign=995844&utm_source=habrahabr&utm_medium=rss)
-- [Чем занимается системный архитектор. Подкаст](https://habr.com/ru/companies/infowatch/news/995810/?utm_campaign=995810&utm_source=habrahabr&utm_medium=rss)
-- [Apple заблокировала аккаунты россиян, чьи имена совпадают с гражданами из санкционных списков США](https://habr.com/ru/news/995808/?utm_campaign=995808&utm_source=habrahabr&utm_medium=rss)
-- [Представлено открытое хранилище медиафайлов YouTube](https://habr.com/ru/news/995792/?utm_campaign=995792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
