@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.2 вывел новую формулу в квантовой хромодинамике — и доказал её за 12 часов непрерывных «размышлений»](https://habr.com/ru/news/996428/?utm_campaign=996428&utm_source=habrahabr&utm_medium=rss)
+- [«Мы у конца экспоненты»: глава Anthropic — о пике развития ИИ и триллионных ставках](https://habr.com/ru/news/996422/?utm_campaign=996422&utm_source=habrahabr&utm_medium=rss)
 - [Из ChatGPT окончательно убрали GPT-4o. Возмущенные фанаты строят клоны модели](https://habr.com/ru/news/996396/?utm_campaign=996396&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики игры «Война Миров: Сибирь» отделились от 1C Game Studios](https://habr.com/ru/news/996390/?utm_campaign=996390&utm_source=habrahabr&utm_medium=rss)
 - [«Доктор Веб» прекратила продажу антивирусных решений через «Ростелеком»](https://habr.com/ru/news/996384/?utm_campaign=996384&utm_source=habrahabr&utm_medium=rss)
-- [Россияне смогут пользоваться цифровым рублём с сентября 2026 года](https://habr.com/ru/news/996374/?utm_campaign=996374&utm_source=habrahabr&utm_medium=rss)
-- [Сбербанк проиграл иск на 1,4 млрд рублей](https://habr.com/ru/news/996370/?utm_campaign=996370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
