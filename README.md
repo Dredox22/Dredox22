@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сбербанк проиграл иск на 1,4 млрд рублей](https://habr.com/ru/news/996370/?utm_campaign=996370&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Sophia Script for Windows v7.1.1 для тонкой настройки Windows](https://habr.com/ru/news/996328/?utm_campaign=996328&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность начинается с кода: Ассоциация ФинТех и «Солар» отметят лучшие российские проекты по безопасной разработке](https://habr.com/ru/companies/solarsecurity/news/996324/?utm_campaign=996324&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в работе Рунета](https://habr.com/ru/news/996312/?utm_campaign=996312&utm_source=habrahabr&utm_medium=rss)
 - [Расследование утечек данных: от файла к полной картине инцидента. Вебинар](https://habr.com/ru/companies/infowatch/news/996290/?utm_campaign=996290&utm_source=habrahabr&utm_medium=rss)
-- [Гуманоидные роботы автономно собирают друг друга на заводе Unitree](https://habr.com/ru/news/996286/?utm_campaign=996286&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi Robotics представила VLA-модель, которая преобразует изображения и текстовые инструкции в команды для роботов](https://habr.com/ru/news/996280/?utm_campaign=996280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
