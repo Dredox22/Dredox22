@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NetEase внедрила ИИ на всех этапах разработки игр](https://habr.com/ru/news/996156/?utm_campaign=996156&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-апокалипсис откладывается: прогнозы AI 2027 сбылись на 65%](https://habr.com/ru/news/996126/?utm_campaign=996126&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft планирует внедрить в Windows 11 запросы на разрешение доступа к компонентам](https://habr.com/ru/news/996112/?utm_campaign=996112&utm_source=habrahabr&utm_medium=rss)
 - [Число заблокированных сим-карт в России превысило 18 млн](https://habr.com/ru/news/996122/?utm_campaign=996122&utm_source=habrahabr&utm_medium=rss)
 - [«Ozon банк» запустил банкоматы для выдачи дебетовых карт](https://habr.com/ru/news/996102/?utm_campaign=996102&utm_source=habrahabr&utm_medium=rss)
-- [PGConf.Russia 2026: крупнейшая конференция по PostgreSQL в России — регистрация открыта, приём докладов продолжается](https://habr.com/ru/companies/postgrespro/news/995478/?utm_campaign=995478&utm_source=habrahabr&utm_medium=rss)
-- [Обновление KB5077181 для Windows 11 вызвало цикличные перезагрузки ПК и сбой на экране входа](https://habr.com/ru/news/996092/?utm_campaign=996092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
