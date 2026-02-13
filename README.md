@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Тантор Лабс» — генпартнер официальной комьюнити-конференции PostgreSQL в Москве 19.03](https://habr.com/ru/companies/tantor/news/995938/?utm_campaign=995938&utm_source=habrahabr&utm_medium=rss)
+- [Google: ЕС рискует подорвать свою конкурентоспособность, ограничивая доступ к иностранным технологиям](https://habr.com/ru/news/996204/?utm_campaign=996204&utm_source=habrahabr&utm_medium=rss)
 - [«Ни строчки кода с декабря»: Spotify перевела лучших инженеров на Claude Code](https://habr.com/ru/news/996182/?utm_campaign=996182&utm_source=habrahabr&utm_medium=rss)
 - [NetEase внедрила ИИ на всех этапах разработки игр](https://habr.com/ru/news/996156/?utm_campaign=996156&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-апокалипсис откладывается: прогнозы AI 2027 сбылись на 65%](https://habr.com/ru/news/996126/?utm_campaign=996126&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует внедрить в Windows 11 запросы на разрешение доступа к компонентам](https://habr.com/ru/news/996112/?utm_campaign=996112&utm_source=habrahabr&utm_medium=rss)
-- [Число заблокированных сим-карт в России превысило 18 млн](https://habr.com/ru/news/996122/?utm_campaign=996122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
