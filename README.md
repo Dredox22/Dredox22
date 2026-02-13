@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [13 февраля: ограничения в работе Telegram как бы есть, но не особо заметны](https://habr.com/ru/news/996058/?utm_campaign=996058&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mesa 26.0](https://habr.com/ru/news/995766/?utm_campaign=995766&utm_source=habrahabr&utm_medium=rss)
 - [Европа запускает самую мощную ракету с космическими спутниками Amazon](https://habr.com/ru/news/996040/?utm_campaign=996040&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tiny Core Linux 17.0](https://habr.com/ru/news/995656/?utm_campaign=995656&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление простого открытого текстового процессора FocusWriter 1.9.0](https://habr.com/ru/news/995832/?utm_campaign=995832&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Microsoft вернёт возможность перемещать панель задач в Windows 11](https://habr.com/ru/news/996016/?utm_campaign=996016&utm_source=habrahabr&utm_medium=rss)
-- [OpenClaw-агент возмутился закрытым pull request’ом и написал разгромную статью о мейнтейнере matplotlib](https://habr.com/ru/companies/bothub/news/996018/?utm_campaign=996018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
