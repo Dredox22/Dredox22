@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность начинается с кода: Ассоциация ФинТех и «Солар» отметят лучшие российские проекты по безопасной разработке](https://habr.com/ru/companies/solarsecurity/news/996324/?utm_campaign=996324&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе Рунета](https://habr.com/ru/news/996312/?utm_campaign=996312&utm_source=habrahabr&utm_medium=rss)
+- [Расследование утечек данных: от файла к полной картине инцидента. Вебинар](https://habr.com/ru/companies/infowatch/news/996290/?utm_campaign=996290&utm_source=habrahabr&utm_medium=rss)
+- [Гуманоидные роботы автономно собирают друг друга на заводе Unitree](https://habr.com/ru/news/996286/?utm_campaign=996286&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi Robotics представила VLA-модель, которая преобразует изображения и текстовые инструкции в команды для роботов](https://habr.com/ru/news/996280/?utm_campaign=996280&utm_source=habrahabr&utm_medium=rss)
-- [Минздрав разрешил проводить дистанционный медосмотр и закрывать больничный через Max](https://habr.com/ru/news/996258/?utm_campaign=996258&utm_source=habrahabr&utm_medium=rss)
-- [СИБУР и Центральный университет открывают кафедру искусственного интеллекта](https://habr.com/ru/companies/sibur_official/news/996256/?utm_campaign=996256&utm_source=habrahabr&utm_medium=rss)
-- [Создатель бенчмарка ARC-AGI предсказал сроки появления AGI](https://habr.com/ru/news/996248/?utm_campaign=996248&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за январь 2026 года](https://habr.com/ru/companies/ussc/news/995156/?utm_campaign=995156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
