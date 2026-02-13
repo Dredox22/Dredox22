@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi Robotics представила VLA-модель, которая преобразует изображения и текстовые инструкции в команды для роботов](https://habr.com/ru/news/996280/?utm_campaign=996280&utm_source=habrahabr&utm_medium=rss)
+- [Минздрав разрешил проводить дистанционный медосмотр и закрывать больничный через Max](https://habr.com/ru/news/996258/?utm_campaign=996258&utm_source=habrahabr&utm_medium=rss)
+- [СИБУР и Центральный университет открывают кафедру искусственного интеллекта](https://habr.com/ru/companies/sibur_official/news/996256/?utm_campaign=996256&utm_source=habrahabr&utm_medium=rss)
 - [Создатель бенчмарка ARC-AGI предсказал сроки появления AGI](https://habr.com/ru/news/996248/?utm_campaign=996248&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за январь 2026 года](https://habr.com/ru/companies/ussc/news/995156/?utm_campaign=995156&utm_source=habrahabr&utm_medium=rss)
-- [Представлен ИБ-проект IPFire DBL для блокировки нежелательного или вредоносного контента](https://habr.com/ru/news/996246/?utm_campaign=996246&utm_source=habrahabr&utm_medium=rss)
-- [«Тантор Лабс» — генпартнер официальной комьюнити-конференции PostgreSQL в Москве &lpar;бесплатно, 19 марта&rpar;](https://habr.com/ru/companies/tantor/news/995938/?utm_campaign=995938&utm_source=habrahabr&utm_medium=rss)
-- [Google: ЕС рискует подорвать свою конкурентоспособность, ограничивая доступ к иностранным технологиям](https://habr.com/ru/news/996204/?utm_campaign=996204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
