@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из ChatGPT окончательно убрали GPT-4o. Возмущенные фанаты строят клоны модели](https://habr.com/ru/news/996396/?utm_campaign=996396&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики игры «Война Миров: Сибирь» отделились от 1C Game Studios](https://habr.com/ru/news/996390/?utm_campaign=996390&utm_source=habrahabr&utm_medium=rss)
+- [«Доктор Веб» прекратила продажу антивирусных решений через «Ростелеком»](https://habr.com/ru/news/996384/?utm_campaign=996384&utm_source=habrahabr&utm_medium=rss)
+- [Россияне смогут пользоваться цифровым рублём с сентября 2026 года](https://habr.com/ru/news/996374/?utm_campaign=996374&utm_source=habrahabr&utm_medium=rss)
 - [Сбербанк проиграл иск на 1,4 млрд рублей](https://habr.com/ru/news/996370/?utm_campaign=996370&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Sophia Script for Windows v7.1.1 для тонкой настройки Windows](https://habr.com/ru/news/996328/?utm_campaign=996328&utm_source=habrahabr&utm_medium=rss)
-- [Безопасность начинается с кода: Ассоциация ФинТех и «Солар» отметят лучшие российские проекты по безопасной разработке](https://habr.com/ru/companies/solarsecurity/news/996324/?utm_campaign=996324&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе Рунета](https://habr.com/ru/news/996312/?utm_campaign=996312&utm_source=habrahabr&utm_medium=rss)
-- [Расследование утечек данных: от файла к полной картине инцидента. Вебинар](https://habr.com/ru/companies/infowatch/news/996290/?utm_campaign=996290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
