@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI пожаловалась на DeepSeek властям США: дистилляция через роутеры, реселлеров и код](https://habr.com/ru/news/996066/?utm_campaign=996066&utm_source=habrahabr&utm_medium=rss)
-- [13 февраля: ограничения в работе Telegram как бы есть, но не особо заметны](https://habr.com/ru/news/996058/?utm_campaign=996058&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mesa 26.0](https://habr.com/ru/news/995766/?utm_campaign=995766&utm_source=habrahabr&utm_medium=rss)
-- [Европа запускает самую мощную ракету с космическими спутниками Amazon](https://habr.com/ru/news/996040/?utm_campaign=996040&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tiny Core Linux 17.0](https://habr.com/ru/news/995656/?utm_campaign=995656&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft планирует внедрить в Windows 11 запросы на разрешение доступа к компонентам](https://habr.com/ru/news/996112/?utm_campaign=996112&utm_source=habrahabr&utm_medium=rss)
+- [Число заблокированных сим-карт в России превысило 18 млн](https://habr.com/ru/news/996122/?utm_campaign=996122&utm_source=habrahabr&utm_medium=rss)
+- [«Ozon банк» запустил банкоматы для выдачи дебетовых карт](https://habr.com/ru/news/996102/?utm_campaign=996102&utm_source=habrahabr&utm_medium=rss)
+- [PGConf.Russia 2026: крупнейшая конференция по PostgreSQL в России — регистрация открыта, приём докладов продолжается](https://habr.com/ru/companies/postgrespro/news/995478/?utm_campaign=995478&utm_source=habrahabr&utm_medium=rss)
+- [Обновление KB5077181 для Windows 11 вызвало цикличные перезагрузки ПК и сбой на экране входа](https://habr.com/ru/news/996092/?utm_campaign=996092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
