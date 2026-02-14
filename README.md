@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ Claude был использован Пентагоном при захвате президента Венесуэллы](https://habr.com/ru/news/996496/?utm_campaign=996496&utm_source=habrahabr&utm_medium=rss)
+- [Пентагон обсуждает развёртывание GPT и Claude в секретных контурах](https://habr.com/ru/companies/bothub/news/996494/?utm_campaign=996494&utm_source=habrahabr&utm_medium=rss)
+- [В сети запущен флешмоб QuitGPT по отказу от ChatGPT](https://habr.com/ru/news/996492/?utm_campaign=996492&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI обвинила DeepSeek в краже знаний через дистилляцию](https://habr.com/ru/companies/bothub/news/996490/?utm_campaign=996490&utm_source=habrahabr&utm_medium=rss)
 - [В Wildberries пояснили, что стандартная корзина при покупках на 255 товаров, а расширенная по подписке — на 510](https://habr.com/ru/news/996466/?utm_campaign=996466&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования Hare 0.26](https://habr.com/ru/news/996458/?utm_campaign=996458&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления дистрибутива Ubuntu 24.04.4 LTS с ядром Linux 6.17](https://habr.com/ru/news/996070/?utm_campaign=996070&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPU-Z 2.69.0](https://habr.com/ru/news/996364/?utm_campaign=996364&utm_source=habrahabr&utm_medium=rss)
-- [«Мы у конца экспоненты»: глава Anthropic — о пике развития ИИ и триллионных ставках](https://habr.com/ru/news/996422/?utm_campaign=996422&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
