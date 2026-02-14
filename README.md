@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз документации GNU/Linux man pages 6.17](https://habr.com/ru/news/996084/?utm_campaign=996084&utm_source=habrahabr&utm_medium=rss)
+- [MiniMax выпустила M2.5 — MoE-модель с 10 млрд активных параметров и открытыми весами](https://habr.com/ru/companies/bothub/news/996504/?utm_campaign=996504&utm_source=habrahabr&utm_medium=rss)
 - [Google представила WebMCP — стандарт для работы ИИ-агентов с сайтами](https://habr.com/ru/companies/bothub/news/996508/?utm_campaign=996508&utm_source=habrahabr&utm_medium=rss)
 - [РИА Новости: часть пользователей мобильного приложения «Госуслуги» на iPhone не могут зайти в госсервис без кода из Max](https://habr.com/ru/news/996586/?utm_campaign=996586&utm_source=habrahabr&utm_medium=rss)
 - [Forbes назвал главных инноваторов США](https://habr.com/ru/companies/bothub/news/996512/?utm_campaign=996512&utm_source=habrahabr&utm_medium=rss)
-- [Максимальный уровень паранойи: ИИ-паника перекинулась с софта на логистику и финансы](https://habr.com/ru/news/996556/?utm_campaign=996556&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила инструмент безопасности для управляющих инфраструктурой ИИ IT-администраторов](https://habr.com/ru/news/996536/?utm_campaign=996536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
