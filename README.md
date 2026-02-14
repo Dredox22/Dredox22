@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила WebMCP — стандарт для работы ИИ-агентов с сайтами](https://habr.com/ru/companies/bothub/news/996508/?utm_campaign=996508&utm_source=habrahabr&utm_medium=rss)
+- [РИА Новости: часть пользователей мобильного приложения «Госуслуги» на iPhone не могут зайти в госсервис без кода из Max](https://habr.com/ru/news/996586/?utm_campaign=996586&utm_source=habrahabr&utm_medium=rss)
 - [Forbes назвал главных инноваторов США](https://habr.com/ru/companies/bothub/news/996512/?utm_campaign=996512&utm_source=habrahabr&utm_medium=rss)
 - [Максимальный уровень паранойи: ИИ-паника перекинулась с софта на логистику и финансы](https://habr.com/ru/news/996556/?utm_campaign=996556&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила инструмент безопасности для управляющих инфраструктурой ИИ IT-администраторов](https://habr.com/ru/news/996536/?utm_campaign=996536&utm_source=habrahabr&utm_medium=rss)
-- [Spotify: лучшие разработчики компании не писали код руками с декабря](https://habr.com/ru/news/996528/?utm_campaign=996528&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.2 нашел формулу, которую физики искали год: амплитуды глюонов оказались ненулевыми](https://habr.com/ru/news/996510/?utm_campaign=996510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
