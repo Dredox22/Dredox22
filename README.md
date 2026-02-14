@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры взломали смарт-кормушку кота сотрудника одной из российских ИТ компаний](https://habr.com/ru/news/996632/?utm_campaign=996632&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты начали наносить удары по ИИ-фобам](https://habr.com/ru/news/996630/?utm_campaign=996630&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic и OpenAI вступили в политическую войну за регулирование ИИ](https://habr.com/ru/news/996624/?utm_campaign=996624&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Teams меняет расположение кнопки «Выйти», чтобы пользователи случайно не завершили разговор](https://habr.com/ru/news/995590/?utm_campaign=995590&utm_source=habrahabr&utm_medium=rss)
 - [На дейтинговой ИИ‑платформе MoltMatch генеративные чат‑боты используют данные людей без их согласия](https://habr.com/ru/news/996596/?utm_campaign=996596&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI заявила о 6 решениях из 10 в «самом сложном тесте для ИИ». Математики не согласны](https://habr.com/ru/news/996594/?utm_campaign=996594&utm_source=habrahabr&utm_medium=rss)
-- [В LinkedIn появились фальшивые северокорейские IT‑специалисты](https://habr.com/ru/news/996592/?utm_campaign=996592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
