@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Wildberries пояснили, что стандартная корзина при покупках на 255 товаров, а расширенная по подписке — на 510](https://habr.com/ru/news/996466/?utm_campaign=996466&utm_source=habrahabr&utm_medium=rss)
 - [Релиз языка программирования Hare 0.26](https://habr.com/ru/news/996458/?utm_campaign=996458&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления дистрибутива Ubuntu 24.04.4 LTS с ядром Linux 6.17](https://habr.com/ru/news/996070/?utm_campaign=996070&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GPU-Z 2.69.0](https://habr.com/ru/news/996364/?utm_campaign=996364&utm_source=habrahabr&utm_medium=rss)
 - [«Мы у конца экспоненты»: глава Anthropic — о пике развития ИИ и триллионных ставках](https://habr.com/ru/news/996422/?utm_campaign=996422&utm_source=habrahabr&utm_medium=rss)
-- [Из ChatGPT окончательно убрали GPT-4o. Возмущенные фанаты строят клоны модели](https://habr.com/ru/news/996396/?utm_campaign=996396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
