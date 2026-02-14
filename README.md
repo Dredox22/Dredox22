@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Teams меняет расположение кнопки «Выйти», чтобы пользователи случайно не завершили разговор](https://habr.com/ru/news/995590/?utm_campaign=995590&utm_source=habrahabr&utm_medium=rss)
 - [На дейтинговой ИИ‑платформе MoltMatch генеративные чат‑боты используют данные людей без их согласия](https://habr.com/ru/news/996596/?utm_campaign=996596&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI заявила о 6 решениях из 10 в «самом сложном тесте для ИИ». Математики не согласны](https://habr.com/ru/news/996594/?utm_campaign=996594&utm_source=habrahabr&utm_medium=rss)
 - [В LinkedIn появились фальшивые северокорейские IT‑специалисты](https://habr.com/ru/news/996592/?utm_campaign=996592&utm_source=habrahabr&utm_medium=rss)
 - [Релиз документации GNU/Linux man pages 6.17](https://habr.com/ru/news/996084/?utm_campaign=996084&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax выпустила M2.5 — MoE-модель с 10 млрд активных параметров и открытыми весами](https://habr.com/ru/companies/bothub/news/996504/?utm_campaign=996504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
