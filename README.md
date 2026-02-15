@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Маск пообещал выпустить Grok 4.20 в ближайшие дни](https://habr.com/ru/news/996852/?utm_campaign=996852&utm_source=habrahabr&utm_medium=rss)
 - [Glean строит «слой под интерфейсом» для корпоративного ИИ](https://habr.com/ru/companies/bothub/news/996846/?utm_campaign=996846&utm_source=habrahabr&utm_medium=rss)
 - [Депутат Боярский: «Представители Telegram ведут диалог с Роскомнадзором, но надо сделать ещё шаги для снятия претензий»](https://habr.com/ru/news/996816/?utm_campaign=996816&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 сравнили с федеральными судьями США в эксперименте по применению права](https://habr.com/ru/companies/bothub/news/996806/?utm_campaign=996806&utm_source=habrahabr&utm_medium=rss)
 - [Идеальный судья — плохой судья: GPT-5 сравнили с юристами](https://habr.com/ru/news/996804/?utm_campaign=996804&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft зарегистрировала в России товарный знак интернет-браузера Edge](https://habr.com/ru/news/996796/?utm_campaign=996796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
