@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 сравнили с федеральными судьями США в эксперименте по применению права](https://habr.com/ru/companies/bothub/news/996806/?utm_campaign=996806&utm_source=habrahabr&utm_medium=rss)
+- [Идеальный судья — плохой судья: GPT-5 сравнили с юристами](https://habr.com/ru/news/996804/?utm_campaign=996804&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft зарегистрировала в России товарный знак интернет-браузера Edge](https://habr.com/ru/news/996796/?utm_campaign=996796&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск операционной системы FRANK OS 1.0](https://habr.com/ru/news/996780/?utm_campaign=996780&utm_source=habrahabr&utm_medium=rss)
 - [В Ульяновской области запустили серийный выпуск российских токарных станков с ЧПУ Cobalt T2](https://habr.com/ru/news/996782/?utm_campaign=996782&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск интерфейса для упрощения настройки параметров сети NetworkManager 1.56](https://habr.com/ru/news/996190/?utm_campaign=996190&utm_source=habrahabr&utm_medium=rss)
-- [В XAI разгорается спор о безопасности ИИ](https://habr.com/ru/companies/bothub/news/996758/?utm_campaign=996758&utm_source=habrahabr&utm_medium=rss)
-- [Ноль ручного кода, миллион строк: OpenAI рассказала, как Codex построил продукт с нуля](https://habr.com/ru/news/996742/?utm_campaign=996742&utm_source=habrahabr&utm_medium=rss)
-- [Индия утвердила государственный венчурный фонд на $1,1 млрд для deep‑tech и стартапов](https://habr.com/ru/companies/bothub/news/996716/?utm_campaign=996716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
