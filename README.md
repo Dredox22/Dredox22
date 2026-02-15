@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Индия утвердила государственный венчурный фонд на $1,1 млрд для deep‑tech и стартапов](https://habr.com/ru/companies/bothub/news/996716/?utm_campaign=996716&utm_source=habrahabr&utm_medium=rss)
 - [В расширениях Chrome обнаружили 30 поддельных ИИ-ассистентов, которые крали пароли и читали почту](https://habr.com/ru/news/996698/?utm_campaign=996698&utm_source=habrahabr&utm_medium=rss)
 - [Hollywood недоволен новым AI-генератором видео Seedance 2.0](https://habr.com/ru/companies/bothub/news/996684/?utm_campaign=996684&utm_source=habrahabr&utm_medium=rss)
 - [Meta* запатентовала AI для ведения соцсетей после смерти владельца аккаунта](https://habr.com/ru/companies/bothub/news/996676/?utm_campaign=996676&utm_source=habrahabr&utm_medium=rss)
 - [Между Пентагоном и Anthropic разгорается конфликт из-за участия Claude в захвате Мадуро](https://habr.com/ru/news/996672/?utm_campaign=996672&utm_source=habrahabr&utm_medium=rss)
-- [Google представила первую бета-версию Android 17](https://habr.com/ru/news/996670/?utm_campaign=996670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
