@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В этом году число CVE побьёт рекорд в 50 000](https://habr.com/ru/news/996662/?utm_campaign=996662&utm_source=habrahabr&utm_medium=rss)
+- [Acer и Asus временно прекратили продажу настольных ПК и ноутбуков в Германии из-за патентного спора с Nokia](https://habr.com/ru/news/996658/?utm_campaign=996658&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Vim 9.2](https://habr.com/ru/news/996640/?utm_campaign=996640&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь раскрыл, что его компания три месяца живёт по аналитическим данным, которые придумал ИИ](https://habr.com/ru/news/996636/?utm_campaign=996636&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия Glow 26.3 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/996368/?utm_campaign=996368&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали смарт-кормушку кота сотрудника одной из российских ИТ компаний](https://habr.com/ru/news/996632/?utm_campaign=996632&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты начали наносить удары по ИИ-фобам](https://habr.com/ru/news/996630/?utm_campaign=996630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
