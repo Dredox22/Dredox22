@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Между Пентагоном и Anthropic разгорается конфликт из-за участия Claude в захвате Мадуро](https://habr.com/ru/news/996672/?utm_campaign=996672&utm_source=habrahabr&utm_medium=rss)
+- [Google представила первую бета-версию Android 17](https://habr.com/ru/news/996670/?utm_campaign=996670&utm_source=habrahabr&utm_medium=rss)
+- [Фальшивые рекрутеры скрывают вредоносное ПО в заданиях по программированию для разработчиков JavaScript и Python](https://habr.com/ru/news/996668/?utm_campaign=996668&utm_source=habrahabr&utm_medium=rss)
+- [Представлен крошечный фотоаппарат Kodak Charmera](https://habr.com/ru/news/996666/?utm_campaign=996666&utm_source=habrahabr&utm_medium=rss)
 - [В этом году число CVE побьёт рекорд в 50 000](https://habr.com/ru/news/996662/?utm_campaign=996662&utm_source=habrahabr&utm_medium=rss)
-- [Acer и Asus временно прекратили продажу настольных ПК и ноутбуков в Германии из-за патентного спора с Nokia](https://habr.com/ru/news/996658/?utm_campaign=996658&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Vim 9.2](https://habr.com/ru/news/996640/?utm_campaign=996640&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь раскрыл, что его компания три месяца живёт по аналитическим данным, которые придумал ИИ](https://habr.com/ru/news/996636/?utm_campaign=996636&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Glow 26.3 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/996368/?utm_campaign=996368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
