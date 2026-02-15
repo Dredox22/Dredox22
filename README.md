@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Депутат Боярский: «Представители Telegram ведут диалог с Роскомнадзором, но надо сделать ещё шаги для снятия претензий»](https://habr.com/ru/news/996816/?utm_campaign=996816&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5 сравнили с федеральными судьями США в эксперименте по применению права](https://habr.com/ru/companies/bothub/news/996806/?utm_campaign=996806&utm_source=habrahabr&utm_medium=rss)
 - [Идеальный судья — плохой судья: GPT-5 сравнили с юристами](https://habr.com/ru/news/996804/?utm_campaign=996804&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft зарегистрировала в России товарный знак интернет-браузера Edge](https://habr.com/ru/news/996796/?utm_campaign=996796&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск операционной системы FRANK OS 1.0](https://habr.com/ru/news/996780/?utm_campaign=996780&utm_source=habrahabr&utm_medium=rss)
-- [В Ульяновской области запустили серийный выпуск российских токарных станков с ЧПУ Cobalt T2](https://habr.com/ru/news/996782/?utm_campaign=996782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
