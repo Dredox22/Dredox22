@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Ульяновской области запустили серийный выпуск российских токарных станков с ЧПУ Cobalt T2](https://habr.com/ru/news/996782/?utm_campaign=996782&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск интерфейса для упрощения настройки параметров сети NetworkManager 1.56](https://habr.com/ru/news/996190/?utm_campaign=996190&utm_source=habrahabr&utm_medium=rss)
 - [В XAI разгорается спор о безопасности ИИ](https://habr.com/ru/companies/bothub/news/996758/?utm_campaign=996758&utm_source=habrahabr&utm_medium=rss)
 - [Ноль ручного кода, миллион строк: OpenAI рассказала, как Codex построил продукт с нуля](https://habr.com/ru/news/996742/?utm_campaign=996742&utm_source=habrahabr&utm_medium=rss)
 - [Индия утвердила государственный венчурный фонд на $1,1 млрд для deep‑tech и стартапов](https://habr.com/ru/companies/bothub/news/996716/?utm_campaign=996716&utm_source=habrahabr&utm_medium=rss)
-- [В расширениях Chrome обнаружили 30 поддельных ИИ-ассистентов, которые крали пароли и читали почту](https://habr.com/ru/news/996698/?utm_campaign=996698&utm_source=habrahabr&utm_medium=rss)
-- [Hollywood недоволен новым AI-генератором видео Seedance 2.0](https://habr.com/ru/companies/bothub/news/996684/?utm_campaign=996684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
