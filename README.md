@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лаборатория Касперского обнаружила новую схему распространения троянца Mamont на волне новостей о замедлении Telegram](https://habr.com/ru/news/1000172/?utm_campaign=1000172&utm_source=habrahabr&utm_medium=rss)
+- [Семь школьников из шести регионов России стали победителями финала Национальной технологической олимпиады](https://habr.com/ru/news/1000168/?utm_campaign=1000168&utm_source=habrahabr&utm_medium=rss)
 - [Recursive Intelligence привлекла 335 млн долларов при оценке 4 млрд всего за четыре месяца](https://habr.com/ru/companies/bothub/news/1000166/?utm_campaign=1000166&utm_source=habrahabr&utm_medium=rss)
 - [Студия Nival официально выложила на GitHub исходный код пошаговой тактической RPG Silent Storm](https://habr.com/ru/news/1000160/?utm_campaign=1000160&utm_source=habrahabr&utm_medium=rss)
 - [Ring прекратила сотрудничество с Flock Safety: клиенты компании обеспокоены приватностью данных](https://habr.com/ru/news/1000144/?utm_campaign=1000144&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление утилиты HWMonitor 1.62](https://habr.com/ru/news/996786/?utm_campaign=996786&utm_source=habrahabr&utm_medium=rss)
-- [IT-аутсорсинг умрет за 5 лет: прогноз инвестора OpenAI на саммите в Индии](https://habr.com/ru/news/1000130/?utm_campaign=1000130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
