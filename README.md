@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft исправила баг службы родительского контроля Family Safety с блокировкой Google Chrome](https://habr.com/ru/news/997082/?utm_campaign=997082&utm_source=habrahabr&utm_medium=rss)
-- [Western Digital распродала все производственные мощности на 2026 год](https://habr.com/ru/news/997060/?utm_campaign=997060&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила режим в ChatGPT для противодействия внедрению промптов](https://habr.com/ru/news/997034/?utm_campaign=997034&utm_source=habrahabr&utm_medium=rss)
-- [Бывший руководитель Microsoft заявил о борьбе за сохранение вертикальной панели задач в Windows 11](https://habr.com/ru/news/997024/?utm_campaign=997024&utm_source=habrahabr&utm_medium=rss)
-- [«Известия»: покупатели подержанной техники всё чаще находят вредоносное ПО на устройствах](https://habr.com/ru/news/997028/?utm_campaign=997028&utm_source=habrahabr&utm_medium=rss)
+- [Типовая китайская модель GLM-5 доступна бесплатно в KodaCode](https://habr.com/ru/companies/koda/news/997054/?utm_campaign=997054&utm_source=habrahabr&utm_medium=rss)
+- [ВЦИОМ: более половины россиян сообщили о снижении числа мошеннических звонков](https://habr.com/ru/news/1000036/?utm_campaign=1000036&utm_source=habrahabr&utm_medium=rss)
+- [В OpenIDE добавили поддержку Clojure](https://habr.com/ru/companies/haulmont/news/1000034/?utm_campaign=1000034&utm_source=habrahabr&utm_medium=rss)
+- [Маск хочет строить фабрику DRAM, Sony может отложить PlayStation 6: дефицит памяти вышел из-под контроля](https://habr.com/ru/news/1000008/?utm_campaign=1000008&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo разослала уведомления о нарушении авторских прав 348 репозиториями эмуляторов Switch на GitHub](https://habr.com/ru/news/1000004/?utm_campaign=1000004&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
