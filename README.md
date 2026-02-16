@@ -85,10 +85,10 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз дистрибутива для анализа вредоносного ПО REMnux 8.0](https://habr.com/ru/news/996818/?utm_campaign=996818&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого оптимизатора процессов SceneShift 2.2.0, созданного на Go и Bubble Tea](https://habr.com/ru/news/996810/?utm_campaign=996810&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI наняла создателя OpenClaw — он будет строить следующее поколение ИИ-агентов](https://habr.com/ru/news/996882/?utm_campaign=996882&utm_source=habrahabr&utm_medium=rss)
 - [Маск пообещал выпустить Grok 4.20 в ближайшие дни](https://habr.com/ru/news/996852/?utm_campaign=996852&utm_source=habrahabr&utm_medium=rss)
-- [Glean строит «слой под интерфейсом» для корпоративного ИИ](https://habr.com/ru/companies/bothub/news/996846/?utm_campaign=996846&utm_source=habrahabr&utm_medium=rss)
 - [Депутат Боярский: «Представители Telegram ведут диалог с Роскомнадзором, но надо сделать ещё шаги для снятия претензий»](https://habr.com/ru/news/996816/?utm_campaign=996816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
