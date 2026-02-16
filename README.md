@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправила баг службы родительского контроля Family Safety с блокировкой Google Chrome](https://habr.com/ru/news/997082/?utm_campaign=997082&utm_source=habrahabr&utm_medium=rss)
+- [Western Digital распродала все производственные мощности на 2026 год](https://habr.com/ru/news/997060/?utm_campaign=997060&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила режим в ChatGPT для противодействия внедрению промптов](https://habr.com/ru/news/997034/?utm_campaign=997034&utm_source=habrahabr&utm_medium=rss)
 - [Бывший руководитель Microsoft заявил о борьбе за сохранение вертикальной панели задач в Windows 11](https://habr.com/ru/news/997024/?utm_campaign=997024&utm_source=habrahabr&utm_medium=rss)
 - [«Известия»: покупатели подержанной техники всё чаще находят вредоносное ПО на устройствах](https://habr.com/ru/news/997028/?utm_campaign=997028&utm_source=habrahabr&utm_medium=rss)
-- [Тестируется ИИ-проект для рецензирования изменений в подсистеме DRM &lpar;Direct Rendering Manager&rpar; ядра Linux](https://habr.com/ru/news/997020/?utm_campaign=997020&utm_source=habrahabr&utm_medium=rss)
-- [HeadHunter будет выплачивать 500 тыс рублей в программе поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/996976/?utm_campaign=996976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
