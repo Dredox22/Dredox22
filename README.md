@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Recursive Intelligence привлекла 335 млн долларов при оценке 4 млрд всего за четыре месяца](https://habr.com/ru/companies/bothub/news/1000166/?utm_campaign=1000166&utm_source=habrahabr&utm_medium=rss)
+- [Студия Nival официально выложила на GitHub исходный код пошаговой тактической RPG Silent Storm](https://habr.com/ru/news/1000160/?utm_campaign=1000160&utm_source=habrahabr&utm_medium=rss)
 - [Ring прекратила сотрудничество с Flock Safety: клиенты компании обеспокоены приватностью данных](https://habr.com/ru/news/1000144/?utm_campaign=1000144&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление утилиты HWMonitor 1.62](https://habr.com/ru/news/996786/?utm_campaign=996786&utm_source=habrahabr&utm_medium=rss)
 - [IT-аутсорсинг умрет за 5 лет: прогноз инвестора OpenAI на саммите в Индии](https://habr.com/ru/news/1000130/?utm_campaign=1000130&utm_source=habrahabr&utm_medium=rss)
-- [Stripe запустила Machine Payments — приём платежей от ИИ-агентов через USDC и протокол x402](https://habr.com/ru/companies/technokratos/news/1000122/?utm_campaign=1000122&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1000098/?utm_campaign=1000098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
