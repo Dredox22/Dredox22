@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe запустила Machine Payments — приём платежей от ИИ-агентов через USDC и протокол x402](https://habr.com/ru/companies/technokratos/news/1000122/?utm_campaign=1000122&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1000098/?utm_campaign=1000098&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзору оказалось нечего добавить к ранее вышедшей информации по вопросу ограничений в отношении Telegram в РФ](https://habr.com/ru/news/1000094/?utm_campaign=1000094&utm_source=habrahabr&utm_medium=rss)
 - [Флагманская модель MiniMax M2.5 для кодинга и агентных задач уже доступна бесплатно в KodaCode](https://habr.com/ru/companies/koda/news/997058/?utm_campaign=997058&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba представила Qwen3.5: open-weights гигант на 397B и «агентный» Qwen3.5-Plus в облаке](https://habr.com/ru/companies/otus/news/1000070/?utm_campaign=1000070&utm_source=habrahabr&utm_medium=rss)
-- [Повысили производительность облака и добавили новые GPU: январский дайджест Selectel](https://habr.com/ru/companies/selectel/news/1000056/?utm_campaign=1000056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
