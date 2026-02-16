@@ -86,7 +86,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Версию Grok для SpaceX назвали в честь мистера Спока из Star Trek](https://habr.com/ru/news/1000178/?utm_campaign=1000178&utm_source=habrahabr&utm_medium=rss)
-- [Лаборатория Касперского обнаружила новую схему распространения троянца Mamont на волне новостей о замедлении Telegram](https://habr.com/ru/news/1000172/?utm_campaign=1000172&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» обнаружила новую схему распространения троянца Mamont на волне новостей о замедлении Telegram](https://habr.com/ru/news/1000172/?utm_campaign=1000172&utm_source=habrahabr&utm_medium=rss)
 - [Семь школьников из шести регионов России стали победителями финала Национальной технологической олимпиады](https://habr.com/ru/news/1000168/?utm_campaign=1000168&utm_source=habrahabr&utm_medium=rss)
 - [Recursive Intelligence привлекла 335 млн долларов при оценке 4 млрд всего за четыре месяца](https://habr.com/ru/companies/bothub/news/1000166/?utm_campaign=1000166&utm_source=habrahabr&utm_medium=rss)
 - [Студия Nival официально выложила на GitHub исходный код пошаговой тактической RPG Silent Storm](https://habr.com/ru/news/1000160/?utm_campaign=1000160&utm_source=habrahabr&utm_medium=rss)
