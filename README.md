@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила режим в ChatGPT для противодействия внедрению промптов](https://habr.com/ru/news/997034/?utm_campaign=997034&utm_source=habrahabr&utm_medium=rss)
+- [Бывший руководитель Microsoft заявил о борьбе за сохранение вертикальной панели задач в Windows 11](https://habr.com/ru/news/997024/?utm_campaign=997024&utm_source=habrahabr&utm_medium=rss)
+- [«Известия»: покупатели подержанной техники всё чаще находят вредоносное ПО на устройствах](https://habr.com/ru/news/997028/?utm_campaign=997028&utm_source=habrahabr&utm_medium=rss)
+- [Тестируется ИИ-проект для рецензирования изменений в подсистеме DRM &lpar;Direct Rendering Manager&rpar; ядра Linux](https://habr.com/ru/news/997020/?utm_campaign=997020&utm_source=habrahabr&utm_medium=rss)
 - [HeadHunter будет выплачивать 500 тыс рублей в программе поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/996976/?utm_campaign=996976&utm_source=habrahabr&utm_medium=rss)
-- [«Git не был создан для эры ИИ» — так считает бывший CEO GitHub, который поднял $60 млн на замену](https://habr.com/ru/news/997008/?utm_campaign=997008&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик предоставил Claude доступ к плоттеру](https://habr.com/ru/news/996986/?utm_campaign=996986&utm_source=habrahabr&utm_medium=rss)
-- [Neowin: Microsoft блокирует загрузку ISO-образов Windows 11 через сторонние утилиты](https://habr.com/ru/news/996628/?utm_campaign=996628&utm_source=habrahabr&utm_medium=rss)
-- [Qwen3.5 бесплатно доступен в чат-боте и мобильном приложении Alibaba](https://habr.com/ru/news/996982/?utm_campaign=996982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
