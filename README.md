@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Торвальдс добавил патч в тестовую версию Linux 7.0 для замены логотипа ОС](https://habr.com/ru/news/996962/?utm_campaign=996962&utm_source=habrahabr&utm_medium=rss)
-- [СК РФ: хакер осуждён на 5 лет колонии за атаку на инфосистему «Детского мира» и кражу тысяч подарочных сертификатов](https://habr.com/ru/news/996930/?utm_campaign=996930&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление утилиты CrystalDiskInfo 9.8.0](https://habr.com/ru/news/996922/?utm_campaign=996922&utm_source=habrahabr&utm_medium=rss)
-- [Координационный центр доменов RU/РФ и IP CLUB запустили конкурс для юристов с ИИ «ЮР+промт 2026»](https://habr.com/ru/news/996910/?utm_campaign=996910&utm_source=habrahabr&utm_medium=rss)
-- [Журналист Wired два дня работал на ИИ-агентов — и не заработал ни цента](https://habr.com/ru/news/996878/?utm_campaign=996878&utm_source=habrahabr&utm_medium=rss)
+- [HeadHunter будет выплачивать 500 тыс рублей в программе поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/996976/?utm_campaign=996976&utm_source=habrahabr&utm_medium=rss)
+- [«Git не был создан для эры ИИ» — так считает бывший CEO GitHub, который поднял $60 млн на замену](https://habr.com/ru/news/997008/?utm_campaign=997008&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик предоставил Claude доступ к плоттеру](https://habr.com/ru/news/996986/?utm_campaign=996986&utm_source=habrahabr&utm_medium=rss)
+- [Neowin: Microsoft блокирует загрузку ISO-образов Windows 11 через сторонние утилиты](https://habr.com/ru/news/996628/?utm_campaign=996628&utm_source=habrahabr&utm_medium=rss)
+- [Qwen3.5 бесплатно доступен в чат-боте и мобильном приложении Alibaba](https://habr.com/ru/news/996982/?utm_campaign=996982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
