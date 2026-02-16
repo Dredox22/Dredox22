@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торвальдс добавил патч в тестовую версию Linux 7.0 для замены логотипа ОС](https://habr.com/ru/news/996962/?utm_campaign=996962&utm_source=habrahabr&utm_medium=rss)
 - [СК РФ: хакер осуждён на 5 лет колонии за атаку на инфосистему «Детского мира» и кражу тысяч подарочных сертификатов](https://habr.com/ru/news/996930/?utm_campaign=996930&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление утилиты CrystalDiskInfo 9.8.0](https://habr.com/ru/news/996922/?utm_campaign=996922&utm_source=habrahabr&utm_medium=rss)
 - [Координационный центр доменов RU/РФ и IP CLUB запустили конкурс для юристов с ИИ «ЮР+промт 2026»](https://habr.com/ru/news/996910/?utm_campaign=996910&utm_source=habrahabr&utm_medium=rss)
 - [Журналист Wired два дня работал на ИИ-агентов — и не заработал ни цента](https://habr.com/ru/news/996878/?utm_campaign=996878&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива для анализа вредоносного ПО REMnux 8.0](https://habr.com/ru/news/996818/?utm_campaign=996818&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
