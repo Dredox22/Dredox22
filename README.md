@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ByteDance представила BitDance с 14 миллиардами параметров](https://habr.com/ru/companies/bothub/news/1000438/?utm_campaign=1000438&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме РФ прокомментировали информацию о якобы полной блокировке Telegram с 1 апреля 2026 года](https://habr.com/ru/news/1000430/?utm_campaign=1000430&utm_source=habrahabr&utm_medium=rss)
-- [С помощью камер Ring американские потребители создали сеть для слежки](https://habr.com/ru/news/1000362/?utm_campaign=1000362&utm_source=habrahabr&utm_medium=rss)
-- [Социальная инженерия стала главным инструментом хищений денег у банковских клиентов](https://habr.com/ru/news/1000390/?utm_campaign=1000390&utm_source=habrahabr&utm_medium=rss)
-- [Вузы США столкнулись с оттоком студентов с факультетов компьютерных наук на ИИ-направления](https://habr.com/ru/news/1000348/?utm_campaign=1000348&utm_source=habrahabr&utm_medium=rss)
+- [В бете macOS 26.4 появился лимит зарядки аккумулятора](https://habr.com/ru/news/1000560/?utm_campaign=1000560&utm_source=habrahabr&utm_medium=rss)
+- [Как сохранить данные Airtable после отключения сервиса](https://habr.com/ru/companies/mws/news/1000536/?utm_campaign=1000536&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Кибербезопасный ритейл»](https://habr.com/ru/companies/ussc/news/1000532/?utm_campaign=1000532&utm_source=habrahabr&utm_medium=rss)
+- [Стартовала бета Grok 4.20 — ответ генерируют 4 агента](https://habr.com/ru/news/1000518/?utm_campaign=1000518&utm_source=habrahabr&utm_medium=rss)
+- [Госдума РФ приняла законопроект об отключении связи по требованию ФСБ](https://habr.com/ru/news/1000512/?utm_campaign=1000512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
