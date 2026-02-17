@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Продукты EvaTeam под защитой Индид](https://habr.com/ru/companies/evateam/news/1000338/?utm_campaign=1000338&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи и Минцифры обсуждают новые условия распределения частот для 5G](https://habr.com/ru/news/1000330/?utm_campaign=1000330&utm_source=habrahabr&utm_medium=rss)
-- [Власти Нидерландов арестовала мужчину за отказ удалить конфиденциальные документы, по ошибке полученные от полиции](https://habr.com/ru/news/1000316/?utm_campaign=1000316&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала тестировать сквозное шифровании RCS-сообщений на iPhone](https://habr.com/ru/news/1000304/?utm_campaign=1000304&utm_source=habrahabr&utm_medium=rss)
-- [$118 за одно сообщение в Cursor: почему ИИ-агенты сжигают ваши деньги](https://habr.com/ru/news/1000302/?utm_campaign=1000302&utm_source=habrahabr&utm_medium=rss)
+- [Социальная инженерия стала главным инструментом хищений денег у банковских клиентов](https://habr.com/ru/news/1000390/?utm_campaign=1000390&utm_source=habrahabr&utm_medium=rss)
+- [Вузы США столкнулись с оттоком студентов с факультетов компьютерных наук на ИИ-направления](https://habr.com/ru/news/1000348/?utm_campaign=1000348&utm_source=habrahabr&utm_medium=rss)
+- [Canada Goose проводит расследование в связи с утечкой 600 тысяч записей о клиентах](https://habr.com/ru/news/1000374/?utm_campaign=1000374&utm_source=habrahabr&utm_medium=rss)
+- [Триллион параметров, 63 млрд активных: модель Ling-2.5-1T бросает вызов DeepSeek V3.2](https://habr.com/ru/news/1000372/?utm_campaign=1000372&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор не стал комментировать появившуюся в СМИ информацию о якобы полной блокировке Telegram в РФ с 1 апреля](https://habr.com/ru/news/1000370/?utm_campaign=1000370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
