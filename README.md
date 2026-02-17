@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Роскомнадзоре не получал требований заблокировать ChatGPT и не ограничивали работу сервиса 13 февраля](https://habr.com/ru/news/1000224/?utm_campaign=1000224&utm_source=habrahabr&utm_medium=rss)
+- [&lpar;Срочно&rpar; Producer AI, бывший Riffusion, завершает бета-тест 19 февраля 2026 года, и отключает сайт classic.riffusion.com](https://habr.com/ru/news/1000240/?utm_campaign=1000240&utm_source=habrahabr&utm_medium=rss)
+- [В Роскомнадзоре не получали требований заблокировать ChatGPT и не ограничивали работу сервиса 13 февраля](https://habr.com/ru/news/1000224/?utm_campaign=1000224&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux-дистрибутив для анонимных коммуникаций Whonix 18.1](https://habr.com/ru/news/997090/?utm_campaign=997090&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой консольной утилиты для поиска строк krep 2.0](https://habr.com/ru/news/1000132/?utm_campaign=1000132&utm_source=habrahabr&utm_medium=rss)
 - [Moonshot выпустила Kimi Claw — ИИ-агента с простой установкой](https://habr.com/ru/news/1000196/?utm_campaign=1000196&utm_source=habrahabr&utm_medium=rss)
-- [Версию Grok для SpaceX назвали в честь мистера Спока из Star Trek](https://habr.com/ru/news/1000178/?utm_campaign=1000178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
