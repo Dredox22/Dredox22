@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Минцифры разрешит провайдерам менять абонентские линии с медных на оптоволоконные без согласия клиентов](https://habr.com/ru/news/1000630/?utm_campaign=1000630&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик обнаружил, что умная маска для сна передаёт данные о мозговой активности в открытый MQTT-брокер](https://habr.com/ru/news/1000628/?utm_campaign=1000628&utm_source=habrahabr&utm_medium=rss)
+- [В Роскомнадзоре не получали требований заблокировать сервисы обновления Windows для пользователей в РФ](https://habr.com/ru/news/1000624/?utm_campaign=1000624&utm_source=habrahabr&utm_medium=rss)
+- [Мнение: из-за дефицита DRAM производители бытовой электроники окажутся на грани банкротства](https://habr.com/ru/news/1000618/?utm_campaign=1000618&utm_source=habrahabr&utm_medium=rss)
 - [Ватикан внедряет ИИ в честь 400-летия собора Святого Петра](https://habr.com/ru/news/1000602/?utm_campaign=1000602&utm_source=habrahabr&utm_medium=rss)
-- [В бете macOS 26.4 появился лимит зарядки аккумулятора](https://habr.com/ru/news/1000560/?utm_campaign=1000560&utm_source=habrahabr&utm_medium=rss)
-- [Как сохранить данные Airtable после отключения сервиса](https://habr.com/ru/companies/mws/news/1000536/?utm_campaign=1000536&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Кибербезопасный ритейл»](https://habr.com/ru/companies/ussc/news/1000532/?utm_campaign=1000532&utm_source=habrahabr&utm_medium=rss)
-- [Стартовала бета Grok 4.20 — ответ генерируют 4 агента](https://habr.com/ru/news/1000518/?utm_campaign=1000518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
