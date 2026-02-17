@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: у пользователей в РФ пропадают сообщения в Telegram, не отображаются чаты или нет возможности переключиться на чат](https://habr.com/ru/news/1000666/?utm_campaign=1000666&utm_source=habrahabr&utm_medium=rss)
+- [AI-агента Manus теперь можно подключить к чату в Telegram](https://habr.com/ru/news/1000656/?utm_campaign=1000656&utm_source=habrahabr&utm_medium=rss)
 - [Проект Минцифры разрешит провайдерам менять абонентские линии с медных на оптоволоконные без согласия клиентов](https://habr.com/ru/news/1000630/?utm_campaign=1000630&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик обнаружил, что умная маска для сна передаёт данные о мозговой активности в открытый MQTT-брокер](https://habr.com/ru/news/1000628/?utm_campaign=1000628&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре не получали требований заблокировать сервисы обновления Windows для пользователей в РФ](https://habr.com/ru/news/1000624/?utm_campaign=1000624&utm_source=habrahabr&utm_medium=rss)
-- [Мнение: из-за дефицита DRAM производители бытовой электроники окажутся на грани банкротства](https://habr.com/ru/news/1000618/?utm_campaign=1000618&utm_source=habrahabr&utm_medium=rss)
-- [Ватикан внедряет ИИ в честь 400-летия собора Святого Петра](https://habr.com/ru/news/1000602/?utm_campaign=1000602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
