@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance представила BitDance с 14 миллиардами параметров](https://habr.com/ru/companies/bothub/news/1000438/?utm_campaign=1000438&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуме РФ прокомментировали информацию о якобы полной блокировке Telegram с 1 апреля 2026 года](https://habr.com/ru/news/1000430/?utm_campaign=1000430&utm_source=habrahabr&utm_medium=rss)
+- [С помощью камер Ring американские потребители создали сеть для слежки](https://habr.com/ru/news/1000362/?utm_campaign=1000362&utm_source=habrahabr&utm_medium=rss)
 - [Социальная инженерия стала главным инструментом хищений денег у банковских клиентов](https://habr.com/ru/news/1000390/?utm_campaign=1000390&utm_source=habrahabr&utm_medium=rss)
 - [Вузы США столкнулись с оттоком студентов с факультетов компьютерных наук на ИИ-направления](https://habr.com/ru/news/1000348/?utm_campaign=1000348&utm_source=habrahabr&utm_medium=rss)
-- [Canada Goose проводит расследование в связи с утечкой 600 тысяч записей о клиентах](https://habr.com/ru/news/1000374/?utm_campaign=1000374&utm_source=habrahabr&utm_medium=rss)
-- [Триллион параметров, 63 млрд активных: модель Ling-2.5-1T бросает вызов DeepSeek V3.2](https://habr.com/ru/news/1000372/?utm_campaign=1000372&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор не стал комментировать появившуюся в СМИ информацию о якобы полной блокировке Telegram в РФ с 1 апреля](https://habr.com/ru/news/1000370/?utm_campaign=1000370&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
