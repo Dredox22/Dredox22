@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи Мax создали 1 млн приватных каналов в Max за 7 дней](https://habr.com/ru/news/1000696/?utm_campaign=1000696&utm_source=habrahabr&utm_medium=rss)
+- [ФСТЭК выпустила рекомендации по устранению ошибок конфигурации программного обеспечения](https://habr.com/ru/news/1000692/?utm_campaign=1000692&utm_source=habrahabr&utm_medium=rss)
+- [Представлен Sonnet 4.6 — лишь чуть хуже Opus 4.6](https://habr.com/ru/news/1000686/?utm_campaign=1000686&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустила Claude Sonnet 4.6 с контекстом в 1 млн токенов](https://habr.com/ru/news/1000674/?utm_campaign=1000674&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: у пользователей в РФ пропадают сообщения в Telegram, не отображаются чаты или нет возможности переключиться на чат](https://habr.com/ru/news/1000666/?utm_campaign=1000666&utm_source=habrahabr&utm_medium=rss)
-- [AI-агента Manus теперь можно подключить к чату в Telegram](https://habr.com/ru/news/1000656/?utm_campaign=1000656&utm_source=habrahabr&utm_medium=rss)
-- [Проект Минцифры разрешит провайдерам менять абонентские линии с медных на оптоволоконные без согласия клиентов](https://habr.com/ru/news/1000630/?utm_campaign=1000630&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик обнаружил, что умная маска для сна передаёт данные о мозговой активности в открытый MQTT-брокер](https://habr.com/ru/news/1000628/?utm_campaign=1000628&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре не получали требований заблокировать сервисы обновления Windows для пользователей в РФ](https://habr.com/ru/news/1000624/?utm_campaign=1000624&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
