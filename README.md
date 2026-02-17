@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Неопределённое поведение в Питере](https://habr.com/ru/companies/pvs-studio/news/1000074/?utm_campaign=1000074&utm_source=habrahabr&utm_medium=rss)
-- [«Мы не знаем, сознателен ли ИИ»: глава Anthropic — о конституции для Claude](https://habr.com/ru/news/1000258/?utm_campaign=1000258&utm_source=habrahabr&utm_medium=rss)
-- [&lpar;Срочно&rpar; Producer AI, бывший Riffusion, завершает бета-тест 19 февраля 2026 года, и отключает сайт classic.riffusion.com](https://habr.com/ru/news/1000240/?utm_campaign=1000240&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре не получали требований заблокировать ChatGPT и не ограничивали работу сервиса 13 февраля](https://habr.com/ru/news/1000224/?utm_campaign=1000224&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Linux-дистрибутив для анонимных коммуникаций Whonix 18.1](https://habr.com/ru/news/997090/?utm_campaign=997090&utm_source=habrahabr&utm_medium=rss)
+- [Продукты EvaTeam под защитой Индид](https://habr.com/ru/companies/evateam/news/1000338/?utm_campaign=1000338&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи и Минцифры обсуждают новые условия распределения частот для 5G](https://habr.com/ru/news/1000330/?utm_campaign=1000330&utm_source=habrahabr&utm_medium=rss)
+- [Власти Нидерландов арестовала мужчину за отказ удалить конфиденциальные документы, по ошибке полученные от полиции](https://habr.com/ru/news/1000316/?utm_campaign=1000316&utm_source=habrahabr&utm_medium=rss)
+- [Apple начала тестировать сквозное шифровании RCS-сообщений на iPhone](https://habr.com/ru/news/1000304/?utm_campaign=1000304&utm_source=habrahabr&utm_medium=rss)
+- [$118 за одно сообщение в Cursor: почему ИИ-агенты сжигают ваши деньги](https://habr.com/ru/news/1000302/?utm_campaign=1000302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
