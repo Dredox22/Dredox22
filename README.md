@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ватикан внедряет ИИ в честь 400-летия собора Святого Петра](https://habr.com/ru/news/1000602/?utm_campaign=1000602&utm_source=habrahabr&utm_medium=rss)
 - [В бете macOS 26.4 появился лимит зарядки аккумулятора](https://habr.com/ru/news/1000560/?utm_campaign=1000560&utm_source=habrahabr&utm_medium=rss)
 - [Как сохранить данные Airtable после отключения сервиса](https://habr.com/ru/companies/mws/news/1000536/?utm_campaign=1000536&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Кибербезопасный ритейл»](https://habr.com/ru/companies/ussc/news/1000532/?utm_campaign=1000532&utm_source=habrahabr&utm_medium=rss)
 - [Стартовала бета Grok 4.20 — ответ генерируют 4 агента](https://habr.com/ru/news/1000518/?utm_campaign=1000518&utm_source=habrahabr&utm_medium=rss)
-- [Госдума РФ приняла законопроект об отключении связи по требованию ФСБ](https://habr.com/ru/news/1000512/?utm_campaign=1000512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
