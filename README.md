@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мейнтейнер проекта Kilo ответит на вопросы инженеров на комьюнити-встрече проекта Cozystack](https://habr.com/ru/companies/aenix/news/1000788/?utm_campaign=1000788&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/1000784/?utm_campaign=1000784&utm_source=habrahabr&utm_medium=rss)
 - [IT-аутсорсинг убьет сам себя? Infosys строит агентов на Claude](https://habr.com/ru/news/1000772/?utm_campaign=1000772&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи предположили, что РКН заблокировал доступ к обновлениям Linux в РФ](https://habr.com/ru/news/1000770/?utm_campaign=1000770&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта Fan Control V260](https://habr.com/ru/news/1000646/?utm_campaign=1000646&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект NeeView 45.0 — просмотрщик изображений и видео для Windows](https://habr.com/ru/news/1000474/?utm_campaign=1000474&utm_source=habrahabr&utm_medium=rss)
-- [Релиз KDE Plasma 6.6](https://habr.com/ru/news/1000522/?utm_campaign=1000522&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
