@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows 11 появилась нативная поддержка MIDI 2.0](https://habr.com/ru/news/1001132/?utm_campaign=1001132&utm_source=habrahabr&utm_medium=rss)
+- [Мейнтейнеры Godot жалуются, что репозиторий проекта заваливают сгенерированными пул-реквестами](https://habr.com/ru/news/1001128/?utm_campaign=1001128&utm_source=habrahabr&utm_medium=rss)
 - [WordPress.com добавил встроенного AI-помощника для сайтов](https://habr.com/ru/companies/bothub/news/1001074/?utm_campaign=1001074&utm_source=habrahabr&utm_medium=rss)
 - [Grok 4.20 vs 22 года математики: константа Назарова улучшена на 9,1% за две минуты](https://habr.com/ru/news/1001108/?utm_campaign=1001108&utm_source=habrahabr&utm_medium=rss)
 - [[Видео] Андрей Карпатый переписал GPT | OpenClaw объявил войну | Telegram снова блокируют](https://habr.com/ru/companies/haulmont/news/1001100/?utm_campaign=1001100&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity отказалась от рекламы в нейросети](https://habr.com/ru/companies/bothub/news/1001062/?utm_campaign=1001062&utm_source=habrahabr&utm_medium=rss)
-- [Индийский стартап Sarvam внедряет свои модели AI в кнопочные телефоны, автомобили и смарт-очки](https://habr.com/ru/companies/bothub/news/1001056/?utm_campaign=1001056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
