@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Галлюцинации недели: GPT-5.3-Codex-Spark, Sonnet 4.6 и китайский MoE-десант](https://habr.com/ru/news/1000746/?utm_campaign=1000746&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla прекратит поддержку Firefox в ОС Windows 7](https://habr.com/ru/news/1000804/?utm_campaign=1000804&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code научили работать с Figma](https://habr.com/ru/news/1000800/?utm_campaign=1000800&utm_source=habrahabr&utm_medium=rss)
 - [Мейнтейнер проекта Kilo ответит на вопросы инженеров на комьюнити-встрече проекта Cozystack](https://habr.com/ru/companies/aenix/news/1000788/?utm_campaign=1000788&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/1000784/?utm_campaign=1000784&utm_source=habrahabr&utm_medium=rss)
-- [IT-аутсорсинг убьет сам себя? Infosys строит агентов на Claude](https://habr.com/ru/news/1000772/?utm_campaign=1000772&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи предположили, что РКН заблокировал доступ к обновлениям Linux в РФ](https://habr.com/ru/news/1000770/?utm_campaign=1000770&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта Fan Control V260](https://habr.com/ru/news/1000646/?utm_campaign=1000646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
