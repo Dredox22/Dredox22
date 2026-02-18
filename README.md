@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity обещает создание игр через текстовые команды](https://habr.com/ru/companies/bothub/news/1000982/?utm_campaign=1000982&utm_source=habrahabr&utm_medium=rss)
-- [Студия The Dor Brothers выпустила короткометражный ИИ-фильм Apex за один день](https://habr.com/ru/news/1000922/?utm_campaign=1000922&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре не получали требований заблокировать сервисы Linux для пользователей в РФ](https://habr.com/ru/news/1000950/?utm_campaign=1000950&utm_source=habrahabr&utm_medium=rss)
-- [Провал HighGuard. Риски: не выявленные вовремя или выявленные, но проигнорированные](https://habr.com/ru/news/1000946/?utm_campaign=1000946&utm_source=habrahabr&utm_medium=rss)
-- [Google разрабатывает приложение Now Playing для локального распознавания музыки вокруг владельца Pixel](https://habr.com/ru/news/1000944/?utm_campaign=1000944&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустит три устройства на базе ИИ](https://habr.com/ru/companies/bothub/news/1001048/?utm_campaign=1001048&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал приём заявок на премию в области ИИ и big data «Гравитация»](https://habr.com/ru/news/1001050/?utm_campaign=1001050&utm_source=habrahabr&utm_medium=rss)
+- [Cohere запустил семейство открытых моделей Tiny Aya для локальной работы](https://habr.com/ru/companies/bothub/news/1001000/?utm_campaign=1001000&utm_source=habrahabr&utm_medium=rss)
+- [От блокировки угроз к управлению рисками: как ИИ и каскадные атаки меняют правила игры в ИБ финтеха](https://habr.com/ru/companies/pt/news/1001020/?utm_campaign=1001020&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ РФ обвинил некоторые российские банки в нарушении запрета на открытие счетов несовершеннолетним](https://habr.com/ru/news/1001014/?utm_campaign=1001014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
