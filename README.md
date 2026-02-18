@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Роскомнадзоре не получали требований заблокировать сервисы Linux для пользователей в РФ](https://habr.com/ru/news/1000950/?utm_campaign=1000950&utm_source=habrahabr&utm_medium=rss)
+- [Провал HighGuard. Риски: не выявленные вовремя или выявленные, но проигнорированные](https://habr.com/ru/news/1000946/?utm_campaign=1000946&utm_source=habrahabr&utm_medium=rss)
+- [Google разрабатывает приложение Now Playing для локального распознавания музыки вокруг владельца Pixel](https://habr.com/ru/news/1000944/?utm_campaign=1000944&utm_source=habrahabr&utm_medium=rss)
+- [Claude написал код с ошибкой — криптоплатформа потеряла $1,78 млн за минуты](https://habr.com/ru/news/1000936/?utm_campaign=1000936&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.6 и Sonnet 4.6 прокачали веб-поиск](https://habr.com/ru/news/1000926/?utm_campaign=1000926&utm_source=habrahabr&utm_medium=rss)
-- [Из-за негативной реакции на внедрение Discord строгой проверки возраста пользователи перегрузили серверы TeamSpeak](https://habr.com/ru/news/1000914/?utm_campaign=1000914&utm_source=habrahabr&utm_medium=rss)
-- [В облаке Selectel появились выделенные ядра, сеть 10 Гбит/с и другие апдейты для высоких нагрузок](https://habr.com/ru/companies/selectel/news/996988/?utm_campaign=996988&utm_source=habrahabr&utm_medium=rss)
-- [РКН: рисков утечек персональных данных пользователей в случае блокировки мессенджера Telegram нет](https://habr.com/ru/news/1000902/?utm_campaign=1000902&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft завершила внедрение AI Workflows в приложение Teams Workflows](https://habr.com/ru/news/1000738/?utm_campaign=1000738&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
