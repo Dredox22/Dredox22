@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.6 и Sonnet 4.6 прокачали веб-поиск](https://habr.com/ru/news/1000926/?utm_campaign=1000926&utm_source=habrahabr&utm_medium=rss)
+- [Из-за негативной реакции на внедрение Discord строгой проверки возраста пользователи перегрузили серверы TeamSpeak](https://habr.com/ru/news/1000914/?utm_campaign=1000914&utm_source=habrahabr&utm_medium=rss)
+- [В облаке Selectel появились выделенные ядра, сеть 10 Гбит/с и другие апдейты для высоких нагрузок](https://habr.com/ru/companies/selectel/news/996988/?utm_campaign=996988&utm_source=habrahabr&utm_medium=rss)
 - [РКН: рисков утечек персональных данных пользователей в случае блокировки мессенджера Telegram нет](https://habr.com/ru/news/1000902/?utm_campaign=1000902&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft завершила внедрение AI Workflows в приложение Teams Workflows](https://habr.com/ru/news/1000738/?utm_campaign=1000738&utm_source=habrahabr&utm_medium=rss)
-- [VK закроет мессенджер «ТамТам»](https://habr.com/ru/news/1000898/?utm_campaign=1000898&utm_source=habrahabr&utm_medium=rss)
-- [Индия анонсировала программу по привлечению инвестиций в инфраструктуру ИИ](https://habr.com/ru/news/1000868/?utm_campaign=1000868&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минцифры: в РФ есть замедление в загрузке тяжёлых файлов в Telegram, но основной функционал мессенджера доступен](https://habr.com/ru/news/1000890/?utm_campaign=1000890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
