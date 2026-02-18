@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3 бьёт рекорды, OpenAI гонит 1 000 токенов/сек и запускает рекламу в ChatGPT: главные новости AI за неделю](https://habr.com/ru/companies/tochka/news/1000864/?utm_campaign=1000864&utm_source=habrahabr&utm_medium=rss)
-- [Регистрируйтесь на вебинар «Архитектура защиты от DDoS»](https://habr.com/ru/companies/cloud4y/news/1000848/?utm_campaign=1000848&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры стали внедрять фейковые страницы CAPTCHA для распространения вирусов для Windows](https://habr.com/ru/news/1000838/?utm_campaign=1000838&utm_source=habrahabr&utm_medium=rss)
-- [Результаты поиска Google в AI Overviews сделают ссылки более очевидными](https://habr.com/ru/news/1000822/?utm_campaign=1000822&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: GPT-5.3-Codex-Spark, Sonnet 4.6 и китайский MoE-десант](https://habr.com/ru/news/1000746/?utm_campaign=1000746&utm_source=habrahabr&utm_medium=rss)
+- [РКН: рисков утечек персональных данных пользователей в случае блокировки мессенджера Telegram нет](https://habr.com/ru/news/1000902/?utm_campaign=1000902&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft завершила внедрение AI Workflows в приложение Teams Workflows](https://habr.com/ru/news/1000738/?utm_campaign=1000738&utm_source=habrahabr&utm_medium=rss)
+- [VK закроет мессенджер «ТамТам»](https://habr.com/ru/news/1000898/?utm_campaign=1000898&utm_source=habrahabr&utm_medium=rss)
+- [Индия анонсировала программу по привлечению инвестиций в инфраструктуру ИИ](https://habr.com/ru/news/1000868/?utm_campaign=1000868&utm_source=habrahabr&utm_medium=rss)
+- [Глава Минцифры: в РФ есть замедление в загрузке тяжёлых файлов в Telegram, но основной функционал мессенджера доступен](https://habr.com/ru/news/1000890/?utm_campaign=1000890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
