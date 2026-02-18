@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IT-аутсорсинг убьет сам себя? Infosys строит агентов на Claude](https://habr.com/ru/news/1000772/?utm_campaign=1000772&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи предположили, что РКН заблокировал доступ к обновлениям Linux в РФ](https://habr.com/ru/news/1000770/?utm_campaign=1000770&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта Fan Control V260](https://habr.com/ru/news/1000646/?utm_campaign=1000646&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект NeeView 45.0 — просмотрщик изображений и видео для Windows](https://habr.com/ru/news/1000474/?utm_campaign=1000474&utm_source=habrahabr&utm_medium=rss)
 - [Релиз KDE Plasma 6.6](https://habr.com/ru/news/1000522/?utm_campaign=1000522&utm_source=habrahabr&utm_medium=rss)
-- [Альтернатива GPU для ИИ? Нейроморфный чип справился с математикой суперкомпьютеров](https://habr.com/ru/news/1000724/?utm_campaign=1000724&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Мax создали 1 млн приватных каналов в Max за 7 дней](https://habr.com/ru/news/1000696/?utm_campaign=1000696&utm_source=habrahabr&utm_medium=rss)
-- [ФСТЭК выпустила рекомендации по устранению ошибок конфигурации программного обеспечения](https://habr.com/ru/news/1000692/?utm_campaign=1000692&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Sonnet 4.6 — лишь чуть хуже Opus 4.6](https://habr.com/ru/news/1000686/?utm_campaign=1000686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
