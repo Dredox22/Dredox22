@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3 бьёт рекорды, OpenAI гонит 1 000 токенов/сек и запускает рекламу в ChatGPT: главные новости AI за неделю](https://habr.com/ru/companies/tochka/news/1000864/?utm_campaign=1000864&utm_source=habrahabr&utm_medium=rss)
+- [Регистрируйтесь на вебинар «Архитектура защиты от DDoS»](https://habr.com/ru/companies/cloud4y/news/1000848/?utm_campaign=1000848&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры стали внедрять фейковые страницы CAPTCHA для распространения вирусов для Windows](https://habr.com/ru/news/1000838/?utm_campaign=1000838&utm_source=habrahabr&utm_medium=rss)
+- [Результаты поиска Google в AI Overviews сделают ссылки более очевидными](https://habr.com/ru/news/1000822/?utm_campaign=1000822&utm_source=habrahabr&utm_medium=rss)
 - [Галлюцинации недели: GPT-5.3-Codex-Spark, Sonnet 4.6 и китайский MoE-десант](https://habr.com/ru/news/1000746/?utm_campaign=1000746&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla прекратит поддержку Firefox в ОС Windows 7](https://habr.com/ru/news/1000804/?utm_campaign=1000804&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code научили работать с Figma](https://habr.com/ru/news/1000800/?utm_campaign=1000800&utm_source=habrahabr&utm_medium=rss)
-- [Мейнтейнер проекта Kilo ответит на вопросы инженеров на комьюнити-встрече проекта Cozystack](https://habr.com/ru/companies/aenix/news/1000788/?utm_campaign=1000788&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/1000784/?utm_campaign=1000784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
