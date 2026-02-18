@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity обещает создание игр через текстовые команды](https://habr.com/ru/companies/bothub/news/1000982/?utm_campaign=1000982&utm_source=habrahabr&utm_medium=rss)
+- [Студия The Dor Brothers выпустила короткометражный ИИ-фильм Apex за один день](https://habr.com/ru/news/1000922/?utm_campaign=1000922&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре не получали требований заблокировать сервисы Linux для пользователей в РФ](https://habr.com/ru/news/1000950/?utm_campaign=1000950&utm_source=habrahabr&utm_medium=rss)
 - [Провал HighGuard. Риски: не выявленные вовремя или выявленные, но проигнорированные](https://habr.com/ru/news/1000946/?utm_campaign=1000946&utm_source=habrahabr&utm_medium=rss)
 - [Google разрабатывает приложение Now Playing для локального распознавания музыки вокруг владельца Pixel](https://habr.com/ru/news/1000944/?utm_campaign=1000944&utm_source=habrahabr&utm_medium=rss)
-- [Claude написал код с ошибкой — криптоплатформа потеряла $1,78 млн за минуты](https://habr.com/ru/news/1000936/?utm_campaign=1000936&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.6 и Sonnet 4.6 прокачали веб-поиск](https://habr.com/ru/news/1000926/?utm_campaign=1000926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
