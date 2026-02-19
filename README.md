@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3.1 Pro создала интерфейс Windows 11 с одного промпта](https://habr.com/ru/news/1001452/?utm_campaign=1001452&utm_source=habrahabr&utm_medium=rss)
+- [Новый тип открытых лицензий CCAI расширяет применение копилефта к генеративным ИИ-моделям](https://habr.com/ru/news/1001430/?utm_campaign=1001430&utm_source=habrahabr&utm_medium=rss)
+- [ЭАЦ InfoWatch: количество утечек данных в финансовой сфере в России выросло в 1,5 раза](https://habr.com/ru/companies/infowatch/news/1001432/?utm_campaign=1001432&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила возможность выбрать браузер по умолчанию для перехода по ссылкам в Teams](https://habr.com/ru/news/1001404/?utm_campaign=1001404&utm_source=habrahabr&utm_medium=rss)
 - [Signal выпустил версию 8.0 с функцией Secure Backups для всех платформ](https://habr.com/ru/news/1001392/?utm_campaign=1001392&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: глава ФСБ РФ пояснил, что ведомство никаких переговоров с создателем Telegram Павлом Дуровым сейчас не ведёт](https://habr.com/ru/news/1001410/?utm_campaign=1001410&utm_source=habrahabr&utm_medium=rss)
-- [Проект Minecraft: Java Edition перейдёт на графический движок Vulkan](https://habr.com/ru/news/1001386/?utm_campaign=1001386&utm_source=habrahabr&utm_medium=rss)
-- [Счётная палата выявила неэффективные расходы на связь в рамках программы устранения цифрового неравенства](https://habr.com/ru/news/1001390/?utm_campaign=1001390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
