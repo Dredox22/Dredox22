@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликовали исследование киберугроз в облачной среде за второе полугодие 2025 года](https://habr.com/ru/companies/yandex_cloud_and_infra/news/1000542/?utm_campaign=1000542&utm_source=habrahabr&utm_medium=rss)
+- [За использование Claude в OpenClaw забанят? Anthropic обновила правила использования и всех запутала](https://habr.com/ru/news/1001242/?utm_campaign=1001242&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: охлаждение для СИМ-карт по возвращении в РФ работает с накладками, у части абонентов интернет и СМС не отключаются](https://habr.com/ru/news/1001238/?utm_campaign=1001238&utm_source=habrahabr&utm_medium=rss)
+- [«Может, стоит остановиться»: репортаж изнутри Anthropic](https://habr.com/ru/news/1001236/?utm_campaign=1001236&utm_source=habrahabr&utm_medium=rss)
 - [Комментарии разработчиков российских ОС по поводу сетевых ограничений к сервисам Linux](https://habr.com/ru/news/1001222/?utm_campaign=1001222&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ImageViewer 1.9.0 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/1000802/?utm_campaign=1000802&utm_source=habrahabr&utm_medium=rss)
-- [В Max назвали фейком информацию о возможности продажи профилей с «Цифровым ID» для использования школьниками](https://habr.com/ru/news/1001210/?utm_campaign=1001210&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: из-за ошибки Copilot обобщает конфиденциальные электронные письма](https://habr.com/ru/news/1001168/?utm_campaign=1001168&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Cursor 2.5: маркетплейс плагинов и многоагентная архитектура](https://habr.com/ru/news/1001176/?utm_campaign=1001176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
