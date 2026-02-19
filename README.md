@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Большое интервью создателя Claude Code](https://habr.com/ru/companies/bothub/news/1001538/?utm_campaign=1001538&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Textream — утилита, которая превращает чёлку MacBook в телесуфлёр с подсвечиванием произносимых слов](https://habr.com/ru/news/1001578/?utm_campaign=1001578&utm_source=habrahabr&utm_medium=rss)
-- [Мосгорсуд согласился с прекращением дела по иску против РКН и Минцифры за блокировку звонков в Telegram и WhatsApp](https://habr.com/ru/news/1001570/?utm_campaign=1001570&utm_source=habrahabr&utm_medium=rss)
-- [В США готовят портал для обхода интернет-цензуры в Европе и других странах](https://habr.com/ru/news/1001568/?utm_campaign=1001568&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила Gemini 3.1 Pro: результат ARC-AGI-2 выше человеческого уровня](https://habr.com/ru/news/1001566/?utm_campaign=1001566&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует функцию «Обзоры игровых сессий» на ПК](https://habr.com/ru/news/1001602/?utm_campaign=1001602&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3.1 Pro: Google выкатила новую «базовую» модель для сложных задач и агентных сценариев](https://habr.com/ru/companies/otus/news/1001606/?utm_campaign=1001606&utm_source=habrahabr&utm_medium=rss)
+- [World Labs привлёк миллиард инвестиций](https://habr.com/ru/companies/bothub/news/1001548/?utm_campaign=1001548&utm_source=habrahabr&utm_medium=rss)
+- [Google Maps будут скрывать отзывы и другую информацию от незарегистрированных пользователей](https://habr.com/ru/news/1001592/?utm_campaign=1001592&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик за 20 минут сломал ChatGPT и ИИ-ответы Google, заставив их цитировать выдуманную историю](https://habr.com/ru/news/1001590/?utm_campaign=1001590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
