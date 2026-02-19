@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini теперь может генерировать музыку](https://habr.com/ru/companies/bothub/news/1001516/?utm_campaign=1001516&utm_source=habrahabr&utm_medium=rss)
-- [Создатель Claude Code от Anthropic предсказал, что должность инженера-программиста начнет «исчезать» в 2026 году](https://habr.com/ru/news/1001524/?utm_campaign=1001524&utm_source=habrahabr&utm_medium=rss)
-- [Тысячи топ-менеджеров признали: ИИ не повлиял на производительность их компаний, несмотря на сотни миллиардов инвестиций](https://habr.com/ru/news/1001520/?utm_campaign=1001520&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI и Paradigm представили инструмент для оценки навыков ИИ в защите смарт-контрактов](https://habr.com/ru/companies/bothub/news/1001510/?utm_campaign=1001510&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3.1 Pro создала интерфейс Windows 11 с одного промпта](https://habr.com/ru/news/1001452/?utm_campaign=1001452&utm_source=habrahabr&utm_medium=rss)
+- [Большое интервью создателя Claude Code](https://habr.com/ru/companies/bothub/news/1001538/?utm_campaign=1001538&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Textream — утилита, которая превращает чёлку MacBook в телесуфлёр с подсвечиванием произносимых слов](https://habr.com/ru/news/1001578/?utm_campaign=1001578&utm_source=habrahabr&utm_medium=rss)
+- [Мосгорсуд согласился с прекращением дела по иску против РКН и Минцифры за блокировку звонков в Telegram и WhatsApp](https://habr.com/ru/news/1001570/?utm_campaign=1001570&utm_source=habrahabr&utm_medium=rss)
+- [В США готовят портал для обхода интернет-цензуры в Европе и других странах](https://habr.com/ru/news/1001568/?utm_campaign=1001568&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила Gemini 3.1 Pro: результат ARC-AGI-2 выше человеческого уровня](https://habr.com/ru/news/1001566/?utm_campaign=1001566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
