@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В CarPlay появится поддержка голосовых приложений, например, чат-ботов](https://habr.com/ru/news/1001630/?utm_campaign=1001630&utm_source=habrahabr&utm_medium=rss)
 - [Apple добавит в CarPlay поддержку голосовых чат-ботов](https://habr.com/ru/companies/bothub/news/1001550/?utm_campaign=1001550&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует функцию «Обзоры игровых сессий» на ПК](https://habr.com/ru/news/1001602/?utm_campaign=1001602&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.1 Pro: Google выкатила новую «базовую» модель для сложных задач и агентных сценариев](https://habr.com/ru/companies/otus/news/1001606/?utm_campaign=1001606&utm_source=habrahabr&utm_medium=rss)
 - [World Labs привлёк миллиард инвестиций](https://habr.com/ru/companies/bothub/news/1001548/?utm_campaign=1001548&utm_source=habrahabr&utm_medium=rss)
-- [Google Maps будут скрывать отзывы и другую информацию от незарегистрированных пользователей](https://habr.com/ru/news/1001592/?utm_campaign=1001592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
