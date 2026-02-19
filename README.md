@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini теперь может генерировать музыку](https://habr.com/ru/companies/bothub/news/1001516/?utm_campaign=1001516&utm_source=habrahabr&utm_medium=rss)
+- [Создатель Claude Code от Anthropic предсказал, что должность инженера-программиста начнет «исчезать» в 2026 году](https://habr.com/ru/news/1001524/?utm_campaign=1001524&utm_source=habrahabr&utm_medium=rss)
+- [Тысячи топ-менеджеров признали: ИИ не повлиял на производительность их компаний, несмотря на сотни миллиардов инвестиций](https://habr.com/ru/news/1001520/?utm_campaign=1001520&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI и Paradigm представили инструмент для оценки навыков ИИ в защите смарт-контрактов](https://habr.com/ru/companies/bothub/news/1001510/?utm_campaign=1001510&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.1 Pro создала интерфейс Windows 11 с одного промпта](https://habr.com/ru/news/1001452/?utm_campaign=1001452&utm_source=habrahabr&utm_medium=rss)
-- [Новый тип открытых лицензий CCAI расширяет применение копилефта к генеративным ИИ-моделям](https://habr.com/ru/news/1001430/?utm_campaign=1001430&utm_source=habrahabr&utm_medium=rss)
-- [ЭАЦ InfoWatch: количество утечек данных в финансовой сфере в России выросло в 1,5 раза](https://habr.com/ru/companies/infowatch/news/1001432/?utm_campaign=1001432&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила возможность выбрать браузер по умолчанию для перехода по ссылкам в Teams](https://habr.com/ru/news/1001404/?utm_campaign=1001404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
