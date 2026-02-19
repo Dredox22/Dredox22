@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндекс» раскрыли детали запуска молодёжного сервиса Fasten для заказа такси](https://habr.com/ru/news/1001302/?utm_campaign=1001302&utm_source=habrahabr&utm_medium=rss)
+- [Большое исследование Anthropic про автономность ИИ-агентов в продакшене](https://habr.com/ru/news/1001290/?utm_campaign=1001290&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram назвали «выдумкой» заявление главы Минцифры о доступе иностранных спецслужб к перепискам в мессенджере](https://habr.com/ru/news/1001284/?utm_campaign=1001284&utm_source=habrahabr&utm_medium=rss)
 - [Опубликовали исследование киберугроз в облачной среде за второе полугодие 2025 года](https://habr.com/ru/companies/yandex_cloud_and_infra/news/1000542/?utm_campaign=1000542&utm_source=habrahabr&utm_medium=rss)
 - [За использование Claude в OpenClaw забанят? Anthropic обновила правила использования и всех запутала](https://habr.com/ru/news/1001242/?utm_campaign=1001242&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: охлаждение для СИМ-карт по возвращении в РФ работает с накладками, у части абонентов интернет и СМС не отключаются](https://habr.com/ru/news/1001238/?utm_campaign=1001238&utm_source=habrahabr&utm_medium=rss)
-- [«Может, стоит остановиться»: репортаж изнутри Anthropic](https://habr.com/ru/news/1001236/?utm_campaign=1001236&utm_source=habrahabr&utm_medium=rss)
-- [Комментарии разработчиков российских ОС по поводу сетевых ограничений к сервисам Linux](https://habr.com/ru/news/1001222/?utm_campaign=1001222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
