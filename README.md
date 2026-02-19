@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Комментарии разработчиков российских ОС по поводу сетевых ограничений к сервисам Linux](https://habr.com/ru/news/1001222/?utm_campaign=1001222&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ImageViewer 1.9.0 — легковесного кроссплатформенного приложения для просмотра изображений на C++ и фреймворке Qt](https://habr.com/ru/news/1000802/?utm_campaign=1000802&utm_source=habrahabr&utm_medium=rss)
+- [В Max назвали фейком информацию о возможности продажи профилей с «Цифровым ID» для использования школьниками](https://habr.com/ru/news/1001210/?utm_campaign=1001210&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft: из-за ошибки Copilot обобщает конфиденциальные электронные письма](https://habr.com/ru/news/1001168/?utm_campaign=1001168&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Cursor 2.5: маркетплейс плагинов и многоагентная архитектура](https://habr.com/ru/news/1001176/?utm_campaign=1001176&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустил музыкальный ИИ Lyria 3 — он создает треки даже из фото](https://habr.com/ru/news/1001164/?utm_campaign=1001164&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики игры «Война миров: Сибирь» рассказали о планах работы после отделения от 1C Game Studios](https://habr.com/ru/news/1001158/?utm_campaign=1001158&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появилась нативная поддержка MIDI 2.0](https://habr.com/ru/news/1001132/?utm_campaign=1001132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
