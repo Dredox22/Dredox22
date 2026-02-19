@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [27-летний Apple iBook смог подключаться к Wi-Fi и загружать обновления](https://habr.com/ru/news/1001344/?utm_campaign=1001344&utm_source=habrahabr&utm_medium=rss)
-- [Студия The Dor Brothers утверждает, что заработала $3 млн на ИИ-видеосъёмке всего за один день](https://habr.com/ru/news/1001322/?utm_campaign=1001322&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление StaxRip 2.50.8 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/1001094/?utm_campaign=1001094&utm_source=habrahabr&utm_medium=rss)
-- [Правила защиты от фишинга ошибочно блокировали электронные письма и сообщения в Exchange Online](https://habr.com/ru/news/1001326/?utm_campaign=1001326&utm_source=habrahabr&utm_medium=rss)
-- [Google изменила подсистему MessageQueue в Android 17 для борьбы с лагами в приложениях при отрисовке интерфейса](https://habr.com/ru/news/1001310/?utm_campaign=1001310&utm_source=habrahabr&utm_medium=rss)
+- [Проект Minecraft: Java Edition перейдёт на графический движок Vulkan](https://habr.com/ru/news/1001386/?utm_campaign=1001386&utm_source=habrahabr&utm_medium=rss)
+- [Счётная палата выявила неэффективные расходы на связь в рамках программы устранения цифрового неравенства](https://habr.com/ru/news/1001390/?utm_campaign=1001390&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft в рамках Project Silica научилась записывать большие объёмы информации в квадраты из посудного стекла](https://habr.com/ru/news/1001378/?utm_campaign=1001378&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление EMXControls 1.3.62](https://habr.com/ru/companies/eremexru/news/1001384/?utm_campaign=1001384&utm_source=habrahabr&utm_medium=rss)
+- [Запущена сертификация ИБ-аудиторов на базе СДС АБИСС при активном участии экспертов AKTIV.CONSULTING](https://habr.com/ru/companies/aktiv-company/news/1001374/?utm_campaign=1001374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
