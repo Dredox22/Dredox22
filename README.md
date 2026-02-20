@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ Claude помог добиться «50-80-кратного улучшения» для IO_uring в Linux](https://habr.com/ru/news/1001754/?utm_campaign=1001754&utm_source=habrahabr&utm_medium=rss)
+- [Google: в 2025-м мошенники на 25% реже публикуют зловредов в Play](https://habr.com/ru/companies/bothub/news/1001764/?utm_campaign=1001764&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: сгенерированные ИИ пароли выглядят сложными, но взламываются за несколько часов](https://habr.com/ru/news/1001744/?utm_campaign=1001744&utm_source=habrahabr&utm_medium=rss)
+- [Память — это файл, душа — промпт: разработчик пересобрал OpenClaw в 400 строках](https://habr.com/ru/news/1001762/?utm_campaign=1001762&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил iOS-приложение для отслеживания заработка на лени во время работы](https://habr.com/ru/news/1001734/?utm_campaign=1001734&utm_source=habrahabr&utm_medium=rss)
-- [OneDrive для macOS получил масштабное обновление](https://habr.com/ru/news/1001732/?utm_campaign=1001732&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3.1 Pro обошел Claude и GPT в рейтинге интеллекта, но главный сюрприз — в цене](https://habr.com/ru/companies/bothub/news/1001730/?utm_campaign=1001730&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку функции маскировки контактов в Outlook](https://habr.com/ru/news/1001724/?utm_campaign=1001724&utm_source=habrahabr&utm_medium=rss)
-- [Security Vision вошла в число лидеров международного рейтинга систем SOAR от SPARK Matrix](https://habr.com/ru/companies/securityvison/news/1001704/?utm_campaign=1001704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
