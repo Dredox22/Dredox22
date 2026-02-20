@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord и OpenAI могут передавать данные пользователей властям США и Канады через сервис Persona](https://habr.com/ru/news/1001894/?utm_campaign=1001894&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: РКН заявил, что Telegram поддерживает инфраструктуру, позволяющую незаконно работать сервисам «по пробиву»](https://habr.com/ru/news/1001848/?utm_campaign=1001848&utm_source=habrahabr&utm_medium=rss)
 - [Meta* закрывает отдельный сайт Messenger](https://habr.com/ru/news/1001846/?utm_campaign=1001846&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ рассмотрит вопрос об ограничении числа карт на человека](https://habr.com/ru/news/1001840/?utm_campaign=1001840&utm_source=habrahabr&utm_medium=rss)
 - [РКН обвинил Telegram в создании инфраструктуры для «интернет-пробива»](https://habr.com/ru/news/1001838/?utm_campaign=1001838&utm_source=habrahabr&utm_medium=rss)
-- [Фестиваль полезных игр пройдет в Уфе](https://habr.com/ru/news/1001826/?utm_campaign=1001826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
