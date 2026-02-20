@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлено открытое приложение weathr для терминала с онлайн-показом прогноза погоды в режиме ASCII-анимации](https://habr.com/ru/news/1001684/?utm_campaign=1001684&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Microsoft Edge 145](https://habr.com/ru/news/1001130/?utm_campaign=1001130&utm_source=habrahabr&utm_medium=rss)
 - [Суперинтеллект может появиться к концу 2028 года — Сэм Альтман](https://habr.com/ru/news/1001650/?utm_campaign=1001650&utm_source=habrahabr&utm_medium=rss)
 - [В CarPlay появится поддержка голосовых приложений, например, чат-ботов](https://habr.com/ru/news/1001630/?utm_campaign=1001630&utm_source=habrahabr&utm_medium=rss)
 - [Apple добавит в CarPlay поддержку голосовых чат-ботов](https://habr.com/ru/companies/bothub/news/1001550/?utm_campaign=1001550&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует функцию «Обзоры игровых сессий» на ПК](https://habr.com/ru/news/1001602/?utm_campaign=1001602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
