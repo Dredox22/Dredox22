@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик представил iOS-приложение для отслеживания заработка на лени во время работы](https://habr.com/ru/news/1001734/?utm_campaign=1001734&utm_source=habrahabr&utm_medium=rss)
+- [OneDrive для macOS получил масштабное обновление](https://habr.com/ru/news/1001732/?utm_campaign=1001732&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.1 Pro обошел Claude и GPT в рейтинге интеллекта, но главный сюрприз — в цене](https://habr.com/ru/companies/bothub/news/1001730/?utm_campaign=1001730&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку функции маскировки контактов в Outlook](https://habr.com/ru/news/1001724/?utm_campaign=1001724&utm_source=habrahabr&utm_medium=rss)
 - [Security Vision вошла в число лидеров международного рейтинга систем SOAR от SPARK Matrix](https://habr.com/ru/companies/securityvison/news/1001704/?utm_campaign=1001704&utm_source=habrahabr&utm_medium=rss)
-- [LLM-агенты убьют App Store — Андрей Карпати](https://habr.com/ru/news/1001698/?utm_campaign=1001698&utm_source=habrahabr&utm_medium=rss)
-- [Представлено открытое приложение weathr для терминала с онлайн-показом прогноза погоды в режиме ASCII-анимации](https://habr.com/ru/news/1001684/?utm_campaign=1001684&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
