@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: РКН заявил, что Telegram поддерживает инфраструктуру, позволяющую незаконно работать сервисам «по пробиву»](https://habr.com/ru/news/1001848/?utm_campaign=1001848&utm_source=habrahabr&utm_medium=rss)
+- [Meta* закрывает отдельный сайт Messenger](https://habr.com/ru/news/1001846/?utm_campaign=1001846&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ рассмотрит вопрос об ограничении числа карт на человека](https://habr.com/ru/news/1001840/?utm_campaign=1001840&utm_source=habrahabr&utm_medium=rss)
+- [РКН обвинил Telegram в создании инфраструктуры для «интернет-пробива»](https://habr.com/ru/news/1001838/?utm_campaign=1001838&utm_source=habrahabr&utm_medium=rss)
 - [Фестиваль полезных игр пройдет в Уфе](https://habr.com/ru/news/1001826/?utm_campaign=1001826&utm_source=habrahabr&utm_medium=rss)
-- [ФБР заявило о росте числа атак на банкоматы с целью выдачи денег](https://habr.com/ru/news/1001818/?utm_campaign=1001818&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Taalas впаял нейросеть в кремний и получил рекордные 17 000 токенов в секунду](https://habr.com/ru/news/1001808/?utm_campaign=1001808&utm_source=habrahabr&utm_medium=rss)
-- [VK наняла 400 Go-разработчиков на фоне роста инфраструктурных проектов](https://habr.com/ru/news/1001800/?utm_campaign=1001800&utm_source=habrahabr&utm_medium=rss)
-- [В SELECTOS добавлена возможность отключения io_uring](https://habr.com/ru/companies/selectel/news/1001464/?utm_campaign=1001464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
