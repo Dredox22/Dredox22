@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 3.1 Pro обошел Claude и GPT в рейтинге интеллекта, но главный сюрприз — в цене](https://habr.com/ru/companies/bothub/news/1001730/?utm_campaign=1001730&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку функции маскировки контактов в Outlook](https://habr.com/ru/news/1001724/?utm_campaign=1001724&utm_source=habrahabr&utm_medium=rss)
+- [Security Vision вошла в число лидеров международного рейтинга систем SOAR от SPARK Matrix](https://habr.com/ru/companies/securityvison/news/1001704/?utm_campaign=1001704&utm_source=habrahabr&utm_medium=rss)
+- [LLM-агенты убьют App Store — Андрей Карпати](https://habr.com/ru/news/1001698/?utm_campaign=1001698&utm_source=habrahabr&utm_medium=rss)
 - [Представлено открытое приложение weathr для терминала с онлайн-показом прогноза погоды в режиме ASCII-анимации](https://habr.com/ru/news/1001684/?utm_campaign=1001684&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Microsoft Edge 145](https://habr.com/ru/news/1001130/?utm_campaign=1001130&utm_source=habrahabr&utm_medium=rss)
-- [Суперинтеллект может появиться к концу 2028 года — Сэм Альтман](https://habr.com/ru/news/1001650/?utm_campaign=1001650&utm_source=habrahabr&utm_medium=rss)
-- [В CarPlay появится поддержка голосовых приложений, например, чат-ботов](https://habr.com/ru/news/1001630/?utm_campaign=1001630&utm_source=habrahabr&utm_medium=rss)
-- [Apple добавит в CarPlay поддержку голосовых чат-ботов](https://habr.com/ru/companies/bothub/news/1001550/?utm_campaign=1001550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
