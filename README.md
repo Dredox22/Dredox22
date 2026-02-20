@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фестиваль полезных игр пройдет в Уфе](https://habr.com/ru/news/1001826/?utm_campaign=1001826&utm_source=habrahabr&utm_medium=rss)
+- [ФБР заявило о росте числа атак на банкоматы с целью выдачи денег](https://habr.com/ru/news/1001818/?utm_campaign=1001818&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Taalas впаял нейросеть в кремний и получил рекордные 17 000 токенов в секунду](https://habr.com/ru/news/1001808/?utm_campaign=1001808&utm_source=habrahabr&utm_medium=rss)
 - [VK наняла 400 Go-разработчиков на фоне роста инфраструктурных проектов](https://habr.com/ru/news/1001800/?utm_campaign=1001800&utm_source=habrahabr&utm_medium=rss)
 - [В SELECTOS добавлена возможность отключения io_uring](https://habr.com/ru/companies/selectel/news/1001464/?utm_campaign=1001464&utm_source=habrahabr&utm_medium=rss)
-- [Российские банки предложили ввести госрегулирование тарифов на маркировку звонков](https://habr.com/ru/news/1001792/?utm_campaign=1001792&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Claude помог добиться «50-80-кратного улучшения» для IO_uring в Linux](https://habr.com/ru/news/1001754/?utm_campaign=1001754&utm_source=habrahabr&utm_medium=rss)
-- [Google: в 2025-м мошенники на 25% реже публикуют зловредов в Play](https://habr.com/ru/companies/bothub/news/1001764/?utm_campaign=1001764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
