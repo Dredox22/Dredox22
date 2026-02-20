@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK наняла 400 Go-разработчиков на фоне роста инфраструктурных проектов](https://habr.com/ru/news/1001800/?utm_campaign=1001800&utm_source=habrahabr&utm_medium=rss)
+- [В SELECTOS добавлена возможность отключения io_uring](https://habr.com/ru/companies/selectel/news/1001464/?utm_campaign=1001464&utm_source=habrahabr&utm_medium=rss)
+- [Российские банки предложили ввести госрегулирование тарифов на маркировку звонков](https://habr.com/ru/news/1001792/?utm_campaign=1001792&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Claude помог добиться «50-80-кратного улучшения» для IO_uring в Linux](https://habr.com/ru/news/1001754/?utm_campaign=1001754&utm_source=habrahabr&utm_medium=rss)
 - [Google: в 2025-м мошенники на 25% реже публикуют зловредов в Play](https://habr.com/ru/companies/bothub/news/1001764/?utm_campaign=1001764&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: сгенерированные ИИ пароли выглядят сложными, но взламываются за несколько часов](https://habr.com/ru/news/1001744/?utm_campaign=1001744&utm_source=habrahabr&utm_medium=rss)
-- [Память — это файл, душа — промпт: разработчик пересобрал OpenClaw в 400 строках](https://habr.com/ru/news/1001762/?utm_campaign=1001762&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил iOS-приложение для отслеживания заработка на лени во время работы](https://habr.com/ru/news/1001734/?utm_campaign=1001734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
