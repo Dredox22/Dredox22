@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Внутри Gemini нашли скрытую кнопку “Maps” – вот как она работает](https://habr.com/ru/companies/bothub/news/1002082/?utm_campaign=1002082&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.6 поставил рекорд времени автономной работы — и сломал бенчмарк METR](https://habr.com/ru/news/1002072/?utm_campaign=1002072&utm_source=habrahabr&utm_medium=rss)
 - [В PostgreSQL 19 JIT-компиляция будет по умолчанию отключена](https://habr.com/ru/news/1002064/?utm_campaign=1002064&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустили Claude Code Security. Инструмент сканирует кодовые базы на уязвимости и предлагает патчи](https://habr.com/ru/news/1002050/?utm_campaign=1002050&utm_source=habrahabr&utm_medium=rss)
 - [Внезапно: Perl и R снова в топе, а Python потерял 19% популярности за полгода](https://habr.com/ru/companies/bothub/news/1002046/?utm_campaign=1002046&utm_source=habrahabr&utm_medium=rss)
-- [SkillsBench: скиллы дают реальный буст, но только если их писал человек](https://habr.com/ru/news/1002042/?utm_campaign=1002042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
