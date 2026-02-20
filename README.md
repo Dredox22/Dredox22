@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первым ИИ-устройством OpenAI может стать колонка за $300 с камерой и заказом продуктов](https://habr.com/ru/news/1002032/?utm_campaign=1002032&utm_source=habrahabr&utm_medium=rss)
 - [Четыре инвестора, $100 млрд, ноль прибыли: OpenAI закрывает рекордный раунд](https://habr.com/ru/news/1001974/?utm_campaign=1001974&utm_source=habrahabr&utm_medium=rss)
 - [Отраслевые полигоны: как финансовый сектор тестирует технологии до начала эксплуатации](https://habr.com/ru/companies/sberbank/news/1001930/?utm_campaign=1001930&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик изучил 3177 API-вызовов и выяснил, как ИИ-кодеры используют контекст](https://habr.com/ru/companies/bothub/news/1001924/?utm_campaign=1001924&utm_source=habrahabr&utm_medium=rss)
 - [Opera представила исторический портал Web Rewind с показом развития интернет-сервисов с 1995 года](https://habr.com/ru/news/1001922/?utm_campaign=1001922&utm_source=habrahabr&utm_medium=rss)
-- [МВД предложило ограничить снятие наличных в магазинах и NFC-переводы для борьбы с мошенничеством](https://habr.com/ru/news/1001918/?utm_campaign=1001918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
