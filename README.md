@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD hipThreads: теперь C++-потоки можно запускать прямо на видеокарте, ускоряя код до 6×](https://habr.com/ru/companies/bothub/news/1002284/?utm_campaign=1002284&utm_source=habrahabr&utm_medium=rss)
+- [VK внедрила визуально-языковые модели ИИ в поиск своих сервисов](https://habr.com/ru/news/1002282/?utm_campaign=1002282&utm_source=habrahabr&utm_medium=rss)
+- [Пока Stack Overflow угасает, для ИИ-агентов строят десятки аналогов](https://habr.com/ru/news/1002280/?utm_campaign=1002280&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил трекер задач SheepCat для нейроотличных пользователей](https://habr.com/ru/news/1002052/?utm_campaign=1002052&utm_source=habrahabr&utm_medium=rss)
 - [HackerOne разъяснила использование данных исследователей для обучения ИИ после волны критики](https://habr.com/ru/news/1002246/?utm_campaign=1002246&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI использует ChatGPT для слежки за сотрудниками — ИИ читает их Slack и почту](https://habr.com/ru/news/1002214/?utm_campaign=1002214&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разрабатывает Copilot Advisors – инструмент для ИИ-батлов](https://habr.com/ru/companies/bothub/news/1002206/?utm_campaign=1002206&utm_source=habrahabr&utm_medium=rss)
-- [Австрийские исследователи создали QR-код настолько крошечный, что для его просмотра потребуется электронный микроскоп](https://habr.com/ru/news/1002172/?utm_campaign=1002172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
