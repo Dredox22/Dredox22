@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлено обновление мультимедийного сервера PipeWire 1.6.0 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/1001746/?utm_campaign=1001746&utm_source=habrahabr&utm_medium=rss)
+- [В Великобритании фургон Amazon заехал в море по совету навигатора — водителю пришлось плыть до берега](https://habr.com/ru/news/1002130/?utm_campaign=1002130&utm_source=habrahabr&utm_medium=rss)
 - [Слежка, которой сказали “нет”: почему в США начали охоту на камеры Flock](https://habr.com/ru/companies/bothub/news/1002124/?utm_campaign=1002124&utm_source=habrahabr&utm_medium=rss)
 - [Президент РФ подписал закон об отключении связи по требованию ФСБ](https://habr.com/ru/news/1002100/?utm_campaign=1002100&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.3](https://habr.com/ru/news/1001708/?utm_campaign=1001708&utm_source=habrahabr&utm_medium=rss)
-- [Компания GameSir выпустит приложение GameHub для macOS](https://habr.com/ru/news/1001622/?utm_campaign=1001622&utm_source=habrahabr&utm_medium=rss)
-- [Внутри Gemini нашли скрытую кнопку “Maps” – вот как она работает](https://habr.com/ru/companies/bothub/news/1002082/?utm_campaign=1002082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
