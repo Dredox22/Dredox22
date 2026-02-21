@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [BILLmanager пополнился реферальной программой](https://habr.com/ru/companies/ispsystem/news/1001972/?utm_campaign=1001972&utm_source=habrahabr&utm_medium=rss)
+- [Глава Microsoft Gaming Фил Спенсер и президент подразделения Xbox Сара Бонд уходят в отставку с 23 февраля](https://habr.com/ru/news/1002164/?utm_campaign=1002164&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Trayy 3.0 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/1001802/?utm_campaign=1001802&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek научили диагностировать редкие заболевания точнее врачей](https://habr.com/ru/news/1002156/?utm_campaign=1002156&utm_source=habrahabr&utm_medium=rss)
 - [LibreOffice раскритиковала «поддельный открытый исходный код» OnlyOffice за сотрудничество с Microsoft](https://habr.com/ru/news/1002146/?utm_campaign=1002146&utm_source=habrahabr&utm_medium=rss)
-- [Новый DeepSeek Moment: как Anthropic обрушила акции кибербезопасности](https://habr.com/ru/news/1002150/?utm_campaign=1002150&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь смог заснять холм «Безмятежность» из Windows XP](https://habr.com/ru/news/1002136/?utm_campaign=1002136&utm_source=habrahabr&utm_medium=rss)
-- [Представлено обновление мультимедийного сервера PipeWire 1.6.0 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/1001746/?utm_campaign=1001746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
