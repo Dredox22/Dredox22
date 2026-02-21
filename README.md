@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek научили диагностировать редкие заболевания точнее врачей](https://habr.com/ru/news/1002156/?utm_campaign=1002156&utm_source=habrahabr&utm_medium=rss)
+- [LibreOffice раскритиковала «поддельный открытый исходный код» OnlyOffice за сотрудничество с Microsoft](https://habr.com/ru/news/1002146/?utm_campaign=1002146&utm_source=habrahabr&utm_medium=rss)
+- [Новый DeepSeek Moment: как Anthropic обрушила акции кибербезопасности](https://habr.com/ru/news/1002150/?utm_campaign=1002150&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь смог заснять холм «Безмятежность» из Windows XP](https://habr.com/ru/news/1002136/?utm_campaign=1002136&utm_source=habrahabr&utm_medium=rss)
 - [Представлено обновление мультимедийного сервера PipeWire 1.6.0 для обработки аудио- и видеопотоков в Linux](https://habr.com/ru/news/1001746/?utm_campaign=1001746&utm_source=habrahabr&utm_medium=rss)
-- [В Великобритании фургон Amazon заехал в море по совету навигатора — водителю пришлось плыть до берега](https://habr.com/ru/news/1002130/?utm_campaign=1002130&utm_source=habrahabr&utm_medium=rss)
-- [Слежка, которой сказали “нет”: почему в США начали охоту на камеры Flock](https://habr.com/ru/companies/bothub/news/1002124/?utm_campaign=1002124&utm_source=habrahabr&utm_medium=rss)
-- [Президент РФ подписал закон об отключении связи по требованию ФСБ](https://habr.com/ru/news/1002100/?utm_campaign=1002100&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.3](https://habr.com/ru/news/1001708/?utm_campaign=1001708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
