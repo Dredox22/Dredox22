@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sega исключит из Google Play и App Store две классические игры про Соника](https://habr.com/ru/news/1002438/?utm_campaign=1002438&utm_source=habrahabr&utm_medium=rss)
 - [Движение за права геймеров Stop Killing Games создаст НПО в США и ЕС](https://habr.com/ru/news/1002380/?utm_campaign=1002380&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft изменила работу встроенного в браузер Edge менеджера паролей](https://habr.com/ru/news/1002368/?utm_campaign=1002368&utm_source=habrahabr&utm_medium=rss)
 - [Как китайские открытые ИИ забрали почти половину рынка токенов на OpenRouter](https://habr.com/ru/news/1002374/?utm_campaign=1002374&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT может получить подписку за $100](https://habr.com/ru/news/1002366/?utm_campaign=1002366&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь пытался наладить отношения с девушкой при помощи ChatGPT, но превратил её жизнь в кошмар](https://habr.com/ru/news/1002358/?utm_campaign=1002358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
