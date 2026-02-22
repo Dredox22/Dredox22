@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Рынок ИИ-серверов в России достиг 60 млн. рублей](https://habr.com/ru/companies/bothub/news/1002494/?utm_campaign=1002494&utm_source=habrahabr&utm_medium=rss)
+- [$665 млрд расходов к 2030-му: OpenAI пересмотрела прогнозы — и стало страшнее](https://habr.com/ru/news/1002488/?utm_campaign=1002488&utm_source=habrahabr&utm_medium=rss)
 - [Sega исключит из Google Play и App Store две классические игры про Соника](https://habr.com/ru/news/1002438/?utm_campaign=1002438&utm_source=habrahabr&utm_medium=rss)
 - [Движение за права геймеров Stop Killing Games создаст НПО в США и ЕС](https://habr.com/ru/news/1002380/?utm_campaign=1002380&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft изменила работу встроенного в браузер Edge менеджера паролей](https://habr.com/ru/news/1002368/?utm_campaign=1002368&utm_source=habrahabr&utm_medium=rss)
-- [Как китайские открытые ИИ забрали почти половину рынка токенов на OpenRouter](https://habr.com/ru/news/1002374/?utm_campaign=1002374&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT может получить подписку за $100](https://habr.com/ru/news/1002366/?utm_campaign=1002366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
