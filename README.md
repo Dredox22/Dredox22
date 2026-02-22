@@ -87,7 +87,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Claws — новый слой ИИ-стека. Карпати оценил OpenClaw и его конкурентов](https://habr.com/ru/news/1002510/?utm_campaign=1002510&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome без ведома пользователя загружает на систему локальную версию Gemini Nano по умолчанию &lpar;default&rpar;](https://habr.com/ru/news/1002508/?utm_campaign=1002508&utm_source=habrahabr&utm_medium=rss)
-- [Рынок ИИ-серверов в России достиг 60 млн. рублей](https://habr.com/ru/companies/bothub/news/1002494/?utm_campaign=1002494&utm_source=habrahabr&utm_medium=rss)
+- [Рынок ИИ-серверов в России достиг 60 млрд. рублей](https://habr.com/ru/companies/bothub/news/1002494/?utm_campaign=1002494&utm_source=habrahabr&utm_medium=rss)
 - [$665 млрд расходов к 2030-му: OpenAI пересмотрела прогнозы — и стало страшнее](https://habr.com/ru/news/1002488/?utm_campaign=1002488&utm_source=habrahabr&utm_medium=rss)
 - [Sega исключит из Google Play и App Store две классические игры про Соника](https://habr.com/ru/news/1002438/?utm_campaign=1002438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
