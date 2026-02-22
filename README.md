@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google анонсировала проект подводных линий связи America-India Connect](https://habr.com/ru/news/1002364/?utm_campaign=1002364&utm_source=habrahabr&utm_medium=rss)
-- [В «Блокноте» появится поддержка изображений](https://habr.com/ru/news/1002348/?utm_campaign=1002348&utm_source=habrahabr&utm_medium=rss)
-- [Обновлён проект Just the Browser, который удаляет ИИ, телеметрию и раздражающие элементы из браузеров для ПК](https://habr.com/ru/news/1002326/?utm_campaign=1002326&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.3](https://habr.com/ru/news/1002262/?utm_campaign=1002262&utm_source=habrahabr&utm_medium=rss)
-- [Полгода назад ИИ не мог нарисовать часы. Теперь — 5 из 5 попыток идеальны](https://habr.com/ru/news/1002306/?utm_campaign=1002306&utm_source=habrahabr&utm_medium=rss)
+- [Движение за права геймеров Stop Killing Games создаст НПО в США и ЕС](https://habr.com/ru/news/1002380/?utm_campaign=1002380&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft изменила работу встроенного в браузер Edge менеджера паролей](https://habr.com/ru/news/1002368/?utm_campaign=1002368&utm_source=habrahabr&utm_medium=rss)
+- [Как китайские открытые ИИ забрали почти половину рынка токенов на OpenRouter](https://habr.com/ru/news/1002374/?utm_campaign=1002374&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT может получить подписку за $100](https://habr.com/ru/news/1002366/?utm_campaign=1002366&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь пытался наладить отношения с девушкой при помощи ChatGPT, но превратил её жизнь в кошмар](https://habr.com/ru/news/1002358/?utm_campaign=1002358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
