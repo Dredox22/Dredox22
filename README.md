@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google анонсировала проект подводных линий связи America-India Connect](https://habr.com/ru/news/1002364/?utm_campaign=1002364&utm_source=habrahabr&utm_medium=rss)
+- [В «Блокноте» появится поддержка изображений](https://habr.com/ru/news/1002348/?utm_campaign=1002348&utm_source=habrahabr&utm_medium=rss)
 - [Обновлён проект Just the Browser, который удаляет ИИ, телеметрию и раздражающие элементы из браузеров для ПК](https://habr.com/ru/news/1002326/?utm_campaign=1002326&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления Wine 11.3](https://habr.com/ru/news/1002262/?utm_campaign=1002262&utm_source=habrahabr&utm_medium=rss)
 - [Полгода назад ИИ не мог нарисовать часы. Теперь — 5 из 5 попыток идеальны](https://habr.com/ru/news/1002306/?utm_campaign=1002306&utm_source=habrahabr&utm_medium=rss)
-- [AMD hipThreads: теперь C++-потоки можно запускать прямо на видеокарте, ускоряя код до 6×](https://habr.com/ru/companies/bothub/news/1002284/?utm_campaign=1002284&utm_source=habrahabr&utm_medium=rss)
-- [VK внедрила визуально-языковые модели ИИ в поиск своих сервисов](https://habr.com/ru/news/1002282/?utm_campaign=1002282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
