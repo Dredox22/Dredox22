@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пентагон вызвал главу Anthropic из-за ограничений на военное использование Claude](https://habr.com/ru/companies/bothub/news/1002786/?utm_campaign=1002786&utm_source=habrahabr&utm_medium=rss)
+- [«Бежала к Mac Mini как сапер к бомбе»: директор по ИИ-безопасности Meta* не смогла остановить OpenClaw](https://habr.com/ru/news/1002778/?utm_campaign=1002778&utm_source=habrahabr&utm_medium=rss)
 - [«Википедия» внесла Archive.today в чёрный список из-за подозрений в DDOS-атаке против блогера](https://habr.com/ru/news/1002756/?utm_campaign=1002756&utm_source=habrahabr&utm_medium=rss)
 - [Обновление легковесного проекта Winslop 0.6 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/1002724/?utm_campaign=1002724&utm_source=habrahabr&utm_medium=rss)
 - [Инсайдер раскрыл подробности работы технологии Samsung, которая защищает экран смартфона от подглядываний](https://habr.com/ru/news/1002718/?utm_campaign=1002718&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры Amazon по ошибке вывели из строя часть Amazon Web Services после совета AI-ассистента](https://habr.com/ru/companies/bothub/news/1002706/?utm_campaign=1002706&utm_source=habrahabr&utm_medium=rss)
-- [Индия ускоряет гонку ИИ: главные новости с India AI Summit](https://habr.com/ru/companies/bothub/news/1002658/?utm_campaign=1002658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
