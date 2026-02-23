@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw «обрушил» Antigravity: Google объяснил массовые баны нехваткой мощностей](https://habr.com/ru/news/1002666/?utm_campaign=1002666&utm_source=habrahabr&utm_medium=rss)
+- [Китай ускоряет развитие индустрии нейроинтерфейсов](https://habr.com/ru/companies/bothub/news/1002638/?utm_campaign=1002638&utm_source=habrahabr&utm_medium=rss)
 - [Аnthropic представила AI-сканер кода для поиска уязвимостей](https://habr.com/ru/companies/bothub/news/1002632/?utm_campaign=1002632&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-бум может обернуться убытками для производителей памяти — глава SK Hynix](https://habr.com/ru/news/1002626/?utm_campaign=1002626&utm_source=habrahabr&utm_medium=rss)
 - [FOSDEM 2026: У реестров опенсорсных проектов недостаточно денег для внедрения базовой безопасности](https://habr.com/ru/news/1002618/?utm_campaign=1002618&utm_source=habrahabr&utm_medium=rss)
-- [Президент Code.org уйдёт в отставку из-за ИИ-«переворота» в сфере информатики](https://habr.com/ru/news/1002616/?utm_campaign=1002616&utm_source=habrahabr&utm_medium=rss)
-- [В Paint теперь можно повернуть выделенную область на любой угол](https://habr.com/ru/news/1002602/?utm_campaign=1002602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
