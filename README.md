@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пентагон вызвал главу Anthropic из-за ограничений на военное использование Claude](https://habr.com/ru/companies/bothub/news/1002786/?utm_campaign=1002786&utm_source=habrahabr&utm_medium=rss)
-- [«Бежала к Mac Mini как сапер к бомбе»: директор по ИИ-безопасности Meta* не смогла остановить OpenClaw](https://habr.com/ru/news/1002778/?utm_campaign=1002778&utm_source=habrahabr&utm_medium=rss)
-- [«Википедия» внесла Archive.today в чёрный список из-за подозрений в DDOS-атаке против блогера](https://habr.com/ru/news/1002756/?utm_campaign=1002756&utm_source=habrahabr&utm_medium=rss)
-- [Обновление легковесного проекта Winslop 0.6 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/1002724/?utm_campaign=1002724&utm_source=habrahabr&utm_medium=rss)
-- [Инсайдер раскрыл подробности работы технологии Samsung, которая защищает экран смартфона от подглядываний](https://habr.com/ru/news/1002718/?utm_campaign=1002718&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic: DeepSeek, Moonshot и MiniMax тайно обучали свои модели на ответах Claude](https://habr.com/ru/news/1002796/?utm_campaign=1002796&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI усиливает корпоративное направление и привлекает консалтинг](https://habr.com/ru/companies/bothub/news/1002794/?utm_campaign=1002794&utm_source=habrahabr&utm_medium=rss)
+- [Модели набирали 80% на бенчмарке OpenAI. Оказалось, они просто запомнили решения](https://habr.com/ru/news/1002792/?utm_campaign=1002792&utm_source=habrahabr&utm_medium=rss)
+- [Spotify запускает AI-плейлисты по текстовому запросу](https://habr.com/ru/companies/bothub/news/1002790/?utm_campaign=1002790&utm_source=habrahabr&utm_medium=rss)
+- [Intel начала нанимать больше разработчиков Linux, в том числе для разработки драйверов GPU и игрового стека Linux](https://habr.com/ru/news/1002776/?utm_campaign=1002776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
