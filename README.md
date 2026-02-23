@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз композитного сервера Weston 15.0](https://habr.com/ru/news/1002232/?utm_campaign=1002232&utm_source=habrahabr&utm_medium=rss)
+- [Обновление сетевого монитора NetSpeedTray 1.2.5 и 1.2.6 для Windows 10/11 с открытым исходным кодом](https://habr.com/ru/news/1002402/?utm_campaign=1002402&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент zclaw работает на микроконтроллере за $5 — в 35 КБ кода](https://habr.com/ru/news/1002572/?utm_campaign=1002572&utm_source=habrahabr&utm_medium=rss)
 - [Claws — новый слой ИИ-стека. Карпати оценил OpenClaw и его конкурентов](https://habr.com/ru/news/1002510/?utm_campaign=1002510&utm_source=habrahabr&utm_medium=rss)
 - [Google Chrome без ведома пользователя загружает на систему локальную версию Gemini Nano по умолчанию &lpar;default&rpar;](https://habr.com/ru/news/1002508/?utm_campaign=1002508&utm_source=habrahabr&utm_medium=rss)
-- [$665 млрд расходов к 2030-му: OpenAI пересмотрела прогнозы — и стало страшнее](https://habr.com/ru/news/1002488/?utm_campaign=1002488&utm_source=habrahabr&utm_medium=rss)
-- [Sega исключит из Google Play и App Store две классические игры про Соника](https://habr.com/ru/news/1002438/?utm_campaign=1002438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
