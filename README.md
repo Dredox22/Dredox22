@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление легковесного проекта Winslop 0.6 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/1002724/?utm_campaign=1002724&utm_source=habrahabr&utm_medium=rss)
+- [Инсайдер раскрыл подробности работы технологии Samsung, которая защищает экран смартфона от подглядываний](https://habr.com/ru/news/1002718/?utm_campaign=1002718&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры Amazon по ошибке вывели из строя часть Amazon Web Services после совета AI-ассистента](https://habr.com/ru/companies/bothub/news/1002706/?utm_campaign=1002706&utm_source=habrahabr&utm_medium=rss)
 - [Индия ускоряет гонку ИИ: главные новости с India AI Summit](https://habr.com/ru/companies/bothub/news/1002658/?utm_campaign=1002658&utm_source=habrahabr&utm_medium=rss)
 - [Самый амбициозный ИИ-проект разваливается на глазах: OpenAI уходит из Stargate](https://habr.com/ru/news/1002674/?utm_campaign=1002674&utm_source=habrahabr&utm_medium=rss)
-- [OpenClaw «обрушил» Antigravity: Google объяснил массовые баны нехваткой мощностей](https://habr.com/ru/news/1002666/?utm_campaign=1002666&utm_source=habrahabr&utm_medium=rss)
-- [Китай ускоряет развитие индустрии нейроинтерфейсов](https://habr.com/ru/companies/bothub/news/1002638/?utm_campaign=1002638&utm_source=habrahabr&utm_medium=rss)
-- [Аnthropic представила AI-сканер кода для поиска уязвимостей](https://habr.com/ru/companies/bothub/news/1002632/?utm_campaign=1002632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
