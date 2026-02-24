@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [PVS-Studio 7.41: MISRA C 2023, улучшения в работе с Unreal Engine, внедрение системы логирования и многое другое](https://habr.com/ru/companies/pvs-studio/news/1002868/?utm_campaign=1002868&utm_source=habrahabr&utm_medium=rss)
-- [В классическом Outlook возник баг с исчезающим указателем мыши](https://habr.com/ru/news/1002866/?utm_campaign=1002866&utm_source=habrahabr&utm_medium=rss)
-- [Правительство потребовало доработать законопроект о бесплатном размещении сетей связи в жилых домах](https://habr.com/ru/news/1002864/?utm_campaign=1002864&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp позволит отправлять запланированные сообщения](https://habr.com/ru/news/1002860/?utm_campaign=1002860&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Дурова могут осудить в РФ в рамках уголовного дела о содействии терроризму](https://habr.com/ru/news/1002852/?utm_campaign=1002852&utm_source=habrahabr&utm_medium=rss)
+- [LDM.CSP 1.11: сокращение time-to-market, интеграция с SAP и больше возможностей для создания бизнес-приложений](https://habr.com/ru/companies/lansoft_career/news/1001876/?utm_campaign=1001876&utm_source=habrahabr&utm_medium=rss)
+- [Бывшая команда Dark Sky от Apple запустила проект прогнозов погоды Acme Weather](https://habr.com/ru/news/1002894/?utm_campaign=1002894&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic обвинила три китайские ИИ-компании в создании фейковых аккаунтов с Claude для улучшения собственных моделей](https://habr.com/ru/news/1002890/?utm_campaign=1002890&utm_source=habrahabr&utm_medium=rss)
+- [Cozystack теперь можно установить поверх любого дистрибутива Linux — мы отучили его от Talos](https://habr.com/ru/companies/aenix/news/1002650/?utm_campaign=1002650&utm_source=habrahabr&utm_medium=rss)
+- [Uber купит SpotHero и внедрит ​​поддержку бронирования парковочных мест](https://habr.com/ru/news/1002884/?utm_campaign=1002884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
