@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: «В даркнете вырос спрос на угон аккаунтов Max после замедления Telegram в России»](https://habr.com/ru/news/1003184/?utm_campaign=1003184&utm_source=habrahabr&utm_medium=rss)
-- [За отключение дверных звонков Ring от облака Amazon назначена награда в $10 000](https://habr.com/ru/news/1003180/?utm_campaign=1003180&utm_source=habrahabr&utm_medium=rss)
-- [Дуров подтвердил уголовное дело против себя в РФ](https://habr.com/ru/news/1003176/?utm_campaign=1003176&utm_source=habrahabr&utm_medium=rss)
-- [Учимся на чужих ошибках: разбор судебных дел в ИБ. Вебинар](https://habr.com/ru/companies/infowatch/news/1003160/?utm_campaign=1003160&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: «Подключение бизнеса к ГИС «Антифрод» может обойтись в 180 млрд рублей»](https://habr.com/ru/news/1003156/?utm_campaign=1003156&utm_source=habrahabr&utm_medium=rss)
+- [«Украли у воров»: Маск высмеял Anthropic за обвинения в адрес DeepSeek, Moonshot AI и MiniMax](https://habr.com/ru/news/1003224/?utm_campaign=1003224&utm_source=habrahabr&utm_medium=rss)
+- [Hugging Face купила команду llama.cpp: софт останется открытым, а у разработчиков появится больше ресурсов](https://habr.com/ru/news/1003220/?utm_campaign=1003220&utm_source=habrahabr&utm_medium=rss)
+- [Скончался основатель MusicBrainz Роберт Кайе](https://habr.com/ru/news/1003210/?utm_campaign=1003210&utm_source=habrahabr&utm_medium=rss)
+- [В НИУ ВШЭ создали инструмент для быстрой диагностики афазии](https://habr.com/ru/news/1003198/?utm_campaign=1003198&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: депутатам Госдумы РФ пока не запрещали использовать Telegram](https://habr.com/ru/news/1003194/?utm_campaign=1003194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
