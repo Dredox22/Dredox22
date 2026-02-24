@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Из‑за внедрения ИИ компании начинают нанимать сами и меньше нуждаются во внешних агентствах](https://habr.com/ru/news/1003086/?utm_campaign=1003086&utm_source=habrahabr&utm_medium=rss)
-- [Практический вебинар Veai и Axiom JDK: Как безопасно перевести приложение на Axiom Spring с применением AI](https://habr.com/ru/companies/veai/news/1003074/?utm_campaign=1003074&utm_source=habrahabr&utm_medium=rss)
-- [Вымогатели с востока: участники C77L атаковали 40 российских компаний менее чем за год](https://habr.com/ru/companies/F6/news/1002978/?utm_campaign=1002978&utm_source=habrahabr&utm_medium=rss)
-- [Apple объявила о переносе части производства Mac Mini в США](https://habr.com/ru/news/1003058/?utm_campaign=1003058&utm_source=habrahabr&utm_medium=rss)
-- [Joomla включена в программу Google Summer of Code 2026](https://habr.com/ru/news/1003028/?utm_campaign=1003028&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: «Подключение бизнеса к ГИС «Антифрод» может обойтись в 180 млрд рублей»](https://habr.com/ru/news/1003156/?utm_campaign=1003156&utm_source=habrahabr&utm_medium=rss)
+- [Google заблокировала более 1,75 млн заявок на размещение приложений в Play Store в 2025 году](https://habr.com/ru/news/1003142/?utm_campaign=1003142&utm_source=habrahabr&utm_medium=rss)
+- [Сгенерированные лица людей стали слишком идеальными](https://habr.com/ru/companies/bothub/news/1003138/?utm_campaign=1003138&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агент сотрудника OpenAI подарил попрошайке мемкоины на $40 тысяч](https://habr.com/ru/news/1003126/?utm_campaign=1003126&utm_source=habrahabr&utm_medium=rss)
+- [Зовём всех Go-разработчиков на тематическое лото](https://habr.com/ru/companies/avito/news/1003066/?utm_campaign=1003066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
