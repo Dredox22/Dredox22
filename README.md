@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: если Telegram признают экстремистским, то премиум-подписки и закупка рекламы в нём будут уголовно наказуемы](https://habr.com/ru/news/1002974/?utm_campaign=1002974&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup.СПб/26. СУБД внутри, железо снаружи](https://habr.com/ru/companies/postgrespro/news/1000900/?utm_campaign=1000900&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code научился работать с COBOL — и обвалил акции IBM на 13%](https://habr.com/ru/news/1002938/?utm_campaign=1002938&utm_source=habrahabr&utm_medium=rss)
 - [LDM.CSP 1.11: сокращение time-to-market, интеграция с SAP и больше возможностей для создания бизнес-приложений](https://habr.com/ru/companies/lansoft_career/news/1001876/?utm_campaign=1001876&utm_source=habrahabr&utm_medium=rss)
 - [Бывшая команда Dark Sky от Apple запустила проект прогнозов погоды Acme Weather](https://habr.com/ru/news/1002894/?utm_campaign=1002894&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic обвинила три китайские ИИ-компании в создании фейковых аккаунтов с Claude для улучшения собственных моделей](https://habr.com/ru/news/1002890/?utm_campaign=1002890&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack теперь можно установить поверх любого дистрибутива Linux — мы отучили его от Talos](https://habr.com/ru/companies/aenix/news/1002650/?utm_campaign=1002650&utm_source=habrahabr&utm_medium=rss)
-- [Uber купит SpotHero и внедрит ​​поддержку бронирования парковочных мест](https://habr.com/ru/news/1002884/?utm_campaign=1002884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
