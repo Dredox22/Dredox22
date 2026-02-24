@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минорный релиз Go-плагина в OpenIDE](https://habr.com/ru/companies/haulmont/news/1003002/?utm_campaign=1003002&utm_source=habrahabr&utm_medium=rss)
+- [Panasonic больше не будет производить собственные телевизоры](https://habr.com/ru/news/1002986/?utm_campaign=1002986&utm_source=habrahabr&utm_medium=rss)
+- [Сэм Альтман: «компании врут про увольнения из-за ИИ»](https://habr.com/ru/news/1002962/?utm_campaign=1002962&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: если Telegram признают экстремистским, то премиум-подписки и закупка рекламы в нём будут уголовно наказуемы](https://habr.com/ru/news/1002974/?utm_campaign=1002974&utm_source=habrahabr&utm_medium=rss)
 - [PGMeetup.СПб/26. СУБД внутри, железо снаружи](https://habr.com/ru/companies/postgrespro/news/1000900/?utm_campaign=1000900&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code научился работать с COBOL — и обвалил акции IBM на 13%](https://habr.com/ru/news/1002938/?utm_campaign=1002938&utm_source=habrahabr&utm_medium=rss)
-- [LDM.CSP 1.11: сокращение time-to-market, интеграция с SAP и больше возможностей для создания бизнес-приложений](https://habr.com/ru/companies/lansoft_career/news/1001876/?utm_campaign=1001876&utm_source=habrahabr&utm_medium=rss)
-- [Бывшая команда Dark Sky от Apple запустила проект прогнозов погоды Acme Weather](https://habr.com/ru/news/1002894/?utm_campaign=1002894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
