@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «В даркнете вырос спрос на угон аккаунтов Max после замедления Telegram в России»](https://habr.com/ru/news/1003184/?utm_campaign=1003184&utm_source=habrahabr&utm_medium=rss)
+- [За отключение дверных звонков Ring от облака Amazon назначена награда в $10 000](https://habr.com/ru/news/1003180/?utm_campaign=1003180&utm_source=habrahabr&utm_medium=rss)
+- [Дуров подтвердил уголовное дело против себя в РФ](https://habr.com/ru/news/1003176/?utm_campaign=1003176&utm_source=habrahabr&utm_medium=rss)
+- [Учимся на чужих ошибках: разбор судебных дел в ИБ. Вебинар](https://habr.com/ru/companies/infowatch/news/1003160/?utm_campaign=1003160&utm_source=habrahabr&utm_medium=rss)
 - [Forbes: «Подключение бизнеса к ГИС «Антифрод» может обойтись в 180 млрд рублей»](https://habr.com/ru/news/1003156/?utm_campaign=1003156&utm_source=habrahabr&utm_medium=rss)
-- [Google заблокировала более 1,75 млн заявок на размещение приложений в Play Store в 2025 году](https://habr.com/ru/news/1003142/?utm_campaign=1003142&utm_source=habrahabr&utm_medium=rss)
-- [Сгенерированные лица людей стали слишком идеальными](https://habr.com/ru/companies/bothub/news/1003138/?utm_campaign=1003138&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент сотрудника OpenAI подарил попрошайке мемкоины на $40 тысяч](https://habr.com/ru/news/1003126/?utm_campaign=1003126&utm_source=habrahabr&utm_medium=rss)
-- [Зовём всех Go-разработчиков на тематическое лото](https://habr.com/ru/companies/avito/news/1003066/?utm_campaign=1003066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
