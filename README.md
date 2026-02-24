@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Дурова могут осудить в РФ за содействие терроризму](https://habr.com/ru/news/1002852/?utm_campaign=1002852&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс: однажды Linux возглавит кто-то «более компетентный, кто не боится чисел больше 10-15»](https://habr.com/ru/news/1002842/?utm_campaign=1002842&utm_source=habrahabr&utm_medium=rss)
-- [Подведены итоги GitHub Secure Open Source Fund для финансирования работ по усилению безопасности открытых проектов](https://habr.com/ru/news/1002712/?utm_campaign=1002712&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый редактор научных документов LyX 2.5.0](https://habr.com/ru/news/1002646/?utm_campaign=1002646&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива Lakka 6.1 для создания игровых консолей и запуска ретроигр](https://habr.com/ru/news/1002630/?utm_campaign=1002630&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.41: MISRA C 2023, улучшения в работе с Unreal Engine, внедрение системы логирования и многое другое](https://habr.com/ru/companies/pvs-studio/news/1002868/?utm_campaign=1002868&utm_source=habrahabr&utm_medium=rss)
+- [В классическом Outlook возник баг с исчезающим указателем мыши](https://habr.com/ru/news/1002866/?utm_campaign=1002866&utm_source=habrahabr&utm_medium=rss)
+- [Правительство потребовало доработать законопроект о бесплатном размещении сетей связи в жилых домах](https://habr.com/ru/news/1002864/?utm_campaign=1002864&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp позволит отправлять запланированные сообщения](https://habr.com/ru/news/1002860/?utm_campaign=1002860&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Дурова могут осудить в РФ в рамках уголовного дела о содействии терроризму](https://habr.com/ru/news/1002852/?utm_campaign=1002852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
