@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из‑за внедрения ИИ компании начинают нанимать сами и меньше нуждаются во внешних агентствах](https://habr.com/ru/news/1003086/?utm_campaign=1003086&utm_source=habrahabr&utm_medium=rss)
+- [Практический вебинар Veai и Axiom JDK: Как безопасно перевести приложение на Axiom Spring с применением AI](https://habr.com/ru/companies/veai/news/1003074/?utm_campaign=1003074&utm_source=habrahabr&utm_medium=rss)
+- [Вымогатели с востока: участники C77L атаковали 40 российских компаний менее чем за год](https://habr.com/ru/companies/F6/news/1002978/?utm_campaign=1002978&utm_source=habrahabr&utm_medium=rss)
+- [Apple объявила о переносе части производства Mac Mini в США](https://habr.com/ru/news/1003058/?utm_campaign=1003058&utm_source=habrahabr&utm_medium=rss)
 - [Joomla включена в программу Google Summer of Code 2026](https://habr.com/ru/news/1003028/?utm_campaign=1003028&utm_source=habrahabr&utm_medium=rss)
-- [Amazon закрывает свою игру King of Meat и предлагает полный возврат средств](https://habr.com/ru/news/1003020/?utm_campaign=1003020&utm_source=habrahabr&utm_medium=rss)
-- [Минорный релиз Go-плагина в OpenIDE](https://habr.com/ru/companies/haulmont/news/1003002/?utm_campaign=1003002&utm_source=habrahabr&utm_medium=rss)
-- [Panasonic больше не будет производить собственные телевизоры](https://habr.com/ru/news/1002986/?utm_campaign=1002986&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман: «компании врут про увольнения из-за ИИ»](https://habr.com/ru/news/1002962/?utm_campaign=1002962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
