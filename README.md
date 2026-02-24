@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Торвальдс: однажды Linux возглавит кто-то «более компетентный, кто не боится чисел больше 10-15»](https://habr.com/ru/news/1002842/?utm_campaign=1002842&utm_source=habrahabr&utm_medium=rss)
+- [Подведены итоги GitHub Secure Open Source Fund для финансирования работ по усилению безопасности открытых проектов](https://habr.com/ru/news/1002712/?utm_campaign=1002712&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый редактор научных документов LyX 2.5.0](https://habr.com/ru/news/1002646/?utm_campaign=1002646&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Lakka 6.1 для создания игровых консолей и запуска ретроигр](https://habr.com/ru/news/1002630/?utm_campaign=1002630&utm_source=habrahabr&utm_medium=rss)
 - [Красивый код усыпляет бдительность: Anthropic выяснила, когда пользователи перестают проверять ИИ](https://habr.com/ru/news/1002816/?utm_campaign=1002816&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI открыла код GABRIEL — GPT-обёртки, которая может убрать ручную разметку данных](https://habr.com/ru/news/1002384/?utm_campaign=1002384&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic: DeepSeek, Moonshot и MiniMax тайно обучали свои модели на ответах Claude](https://habr.com/ru/news/1002796/?utm_campaign=1002796&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI усиливает корпоративное направление и привлекает консалтинг](https://habr.com/ru/companies/bothub/news/1002794/?utm_campaign=1002794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
