@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи нашли критические уязвимости в расширениях для VS Code, которые суммарно установили более 125 млн раз](https://habr.com/ru/news/1003296/?utm_campaign=1003296&utm_source=habrahabr&utm_medium=rss)
+- [ФРС США: рабочие места из-за ИИ уже исчезают, а у центробанка нет инструментов](https://habr.com/ru/news/1003290/?utm_campaign=1003290&utm_source=habrahabr&utm_medium=rss)
 - [Qwen 3.5 Medium — серия средних моделей, которые бьют прошлый флагман](https://habr.com/ru/news/1003280/?utm_campaign=1003280&utm_source=habrahabr&utm_medium=rss)
 - [«Украли у воров»: Маск высмеял Anthropic за обвинения в адрес DeepSeek, Moonshot AI и MiniMax](https://habr.com/ru/news/1003224/?utm_campaign=1003224&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face купила команду llama.cpp: софт останется открытым, а у разработчиков появится больше ресурсов](https://habr.com/ru/news/1003220/?utm_campaign=1003220&utm_source=habrahabr&utm_medium=rss)
-- [Скончался основатель MusicBrainz Роберт Кайе](https://habr.com/ru/news/1003210/?utm_campaign=1003210&utm_source=habrahabr&utm_medium=rss)
-- [В НИУ ВШЭ создали инструмент для быстрой диагностики афазии](https://habr.com/ru/news/1003198/?utm_campaign=1003198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
