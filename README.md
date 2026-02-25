@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba расширяет возможности написания кода на основе ИИ](https://habr.com/ru/news/1003522/?utm_campaign=1003522&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft анонсирует обновленный SharePoint с искусственным интеллектом в основе](https://habr.com/ru/news/1003298/?utm_campaign=1003298&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: российский рынок ПО достиг 808 млрд рублей и может вырасти до 1,7 трлн к 2030 году](https://habr.com/ru/news/1003476/?utm_campaign=1003476&utm_source=habrahabr&utm_medium=rss)
 - [Акции IBM упали после заявлений Anthropic о модернизации COBOL с помощью AI](https://habr.com/ru/companies/bothub/news/1003318/?utm_campaign=1003318&utm_source=habrahabr&utm_medium=rss)
 - [Claude распознает бред в 94% случаев. GPT-5.2 поддакивает пользователю](https://habr.com/ru/news/1003456/?utm_campaign=1003456&utm_source=habrahabr&utm_medium=rss)
-- [Представлена Кипрская ассоциация разработчиков игр](https://habr.com/ru/news/1003450/?utm_campaign=1003450&utm_source=habrahabr&utm_medium=rss)
-- [В сети Fix Price на всех кассах можно подтвердить возраст через мессенджер MAX](https://habr.com/ru/companies/fix_price/news/1003454/?utm_campaign=1003454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
