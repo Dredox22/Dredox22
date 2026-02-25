@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo расширяет сервис роботакси в США на четыре новых города](https://habr.com/ru/companies/bothub/news/1003320/?utm_campaign=1003320&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Gemini 3.1 Pro, Sonnet 4.6 в бою и новый дом llama.cpp](https://habr.com/ru/news/1003222/?utm_campaign=1003222&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 148.0](https://habr.com/ru/news/1003228/?utm_campaign=1003228&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic предложила модель объяснения «личностного» поведения ИИ-ассистентов](https://habr.com/ru/companies/bothub/news/1003324/?utm_campaign=1003324&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты нашли 100+ багов в ядре Windows. Исследование стоило $600](https://habr.com/ru/news/1003344/?utm_campaign=1003344&utm_source=habrahabr&utm_medium=rss)
+- [Twitch пересмотрит систему наказаний за нарушение правил сообщества](https://habr.com/ru/news/1003396/?utm_campaign=1003396&utm_source=habrahabr&utm_medium=rss)
+- [Новые возможности InfoWatch ARMA Стена и Management Console](https://habr.com/ru/companies/infowatch/news/1003408/?utm_campaign=1003408&utm_source=habrahabr&utm_medium=rss)
+- [Разработчиков отечественного ИИ могут обязать раскрывать данные для обучения нейросетей](https://habr.com/ru/news/1003402/?utm_campaign=1003402&utm_source=habrahabr&utm_medium=rss)
+- [LibreOffice Online возобновит свою работу](https://habr.com/ru/news/1003392/?utm_campaign=1003392&utm_source=habrahabr&utm_medium=rss)
+- [Обновление безопасности для Tassos Framework](https://habr.com/ru/news/1003390/?utm_campaign=1003390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
