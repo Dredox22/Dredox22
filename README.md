@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: российский рынок ПО достиг 808 млрд рублей и может вырасти до 1,7 трлн к 2030 году](https://habr.com/ru/news/1003476/?utm_campaign=1003476&utm_source=habrahabr&utm_medium=rss)
+- [Акции IBM упали после заявлений Anthropic о модернизации COBOL с помощью AI](https://habr.com/ru/companies/bothub/news/1003318/?utm_campaign=1003318&utm_source=habrahabr&utm_medium=rss)
+- [Claude распознает бред в 94% случаев. GPT-5.2 поддакивает пользователю](https://habr.com/ru/news/1003456/?utm_campaign=1003456&utm_source=habrahabr&utm_medium=rss)
+- [Представлена Кипрская ассоциация разработчиков игр](https://habr.com/ru/news/1003450/?utm_campaign=1003450&utm_source=habrahabr&utm_medium=rss)
 - [В сети Fix Price на всех кассах можно подтвердить возраст через мессенджер MAX](https://habr.com/ru/companies/fix_price/news/1003454/?utm_campaign=1003454&utm_source=habrahabr&utm_medium=rss)
-- [Продажи Wi-Fi-роутеров в России достигли рекордных значений](https://habr.com/ru/news/1003444/?utm_campaign=1003444&utm_source=habrahabr&utm_medium=rss)
-- [Postgres Pro Enterprise 18: как ускорить и обезопасить критичные системы без лишней магии](https://habr.com/ru/companies/postgrespro/news/1000908/?utm_campaign=1000908&utm_source=habrahabr&utm_medium=rss)
-- [Discord отложил внедрение верификации возраста на вторую половину 2026 года](https://habr.com/ru/news/1003416/?utm_campaign=1003416&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.1](https://habr.com/ru/news/1002660/?utm_campaign=1002660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
