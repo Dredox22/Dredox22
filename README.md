@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда Swift выпустила System Metrics — пакет для мониторинга серверных приложений на Swift](https://habr.com/ru/news/1003646/?utm_campaign=1003646&utm_source=habrahabr&utm_medium=rss)
+- [Zyxel предупреждает о критической уязвимости с RCE, затрагивающей более десятка маршрутизаторов](https://habr.com/ru/news/1003636/?utm_campaign=1003636&utm_source=habrahabr&utm_medium=rss)
+- [Блогпост про ИИ-апокалипсис обрушил индекс Dow на 800 пунктов](https://habr.com/ru/news/1003624/?utm_campaign=1003624&utm_source=habrahabr&utm_medium=rss)
+- [Учителя теперь могут использовать искусственный интеллект для обратной связи с учащимися в Google Classroom](https://habr.com/ru/news/1003620/?utm_campaign=1003620&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NETworkManager 2026.2.22.0 — инструмента для управления сетями и устранения сетевых неполадок в Windows 10/11](https://habr.com/ru/news/1003332/?utm_campaign=1003332&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code отладил баг в Linux за 5 минут вместо нескольких часов](https://habr.com/ru/news/1003578/?utm_campaign=1003578&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала внедрять инструменты проверки возраста по всему миру из‑за растущего числа законов о безопасности детей](https://habr.com/ru/news/1003574/?utm_campaign=1003574&utm_source=habrahabr&utm_medium=rss)
-- [Обновления маркетплейса OpenIDE: Docker, Frontend/Web и Django](https://habr.com/ru/companies/haulmont/news/1003560/?utm_campaign=1003560&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge будет автоматически открывать Copilot при переходе по ссылкам из Outlook](https://habr.com/ru/news/1003556/?utm_campaign=1003556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
