@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«LLM не приведут к суперинтеллекту»: создатель Google AlphaGo привлекает $1 млрд на альтернативный ИИ](https://habr.com/ru/news/1003706/?utm_campaign=1003706&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance представила Seedream 5.0 Lite для генерации изображений](https://habr.com/ru/companies/bothub/news/1003694/?utm_campaign=1003694&utm_source=habrahabr&utm_medium=rss)
 - [ОpenAI призвала отказаться от использования SWE-bench Verified для оценки моделей](https://habr.com/ru/companies/bothub/news/1003548/?utm_campaign=1003548&utm_source=habrahabr&utm_medium=rss)
 - [Марк Руссинович и Скотт Хансельман из Microsoft опасаются, что ИИ вытеснит джунов в программировании](https://habr.com/ru/news/1003662/?utm_campaign=1003662&utm_source=habrahabr&utm_medium=rss)
 - [Новый текстовый движок для Unity](https://habr.com/ru/news/1003656/?utm_campaign=1003656&utm_source=habrahabr&utm_medium=rss)
-- [Команда Swift выпустила System Metrics — пакет для мониторинга серверных приложений на Swift](https://habr.com/ru/news/1003646/?utm_campaign=1003646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
