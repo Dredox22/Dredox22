@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia заработала $68 млрд за квартал — Хуанг объявил «эпоху агентного ИИ»](https://habr.com/ru/news/1003794/?utm_campaign=1003794&utm_source=habrahabr&utm_medium=rss)
-- [Представлен выпуск децентрализованной платформы для обмена медиафайлами MediaGoblin 0.15](https://habr.com/ru/news/1003780/?utm_campaign=1003780&utm_source=habrahabr&utm_medium=rss)
-- [Увеличены сроки поддержки выпусков ядер Linux LTS &lpar;с долгосрочной поддержкой&rpar;](https://habr.com/ru/news/1003774/?utm_campaign=1003774&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic сняла запрет на обучение опасных моделей на фоне давления Пентагона](https://habr.com/ru/news/1003770/?utm_campaign=1003770&utm_source=habrahabr&utm_medium=rss)
-- [Автор Bcachefs Кент Оверстрит представил ИИ-бота, который ведёт блог и помогает в разработке](https://habr.com/ru/news/1003758/?utm_campaign=1003758&utm_source=habrahabr&utm_medium=rss)
+- [Статический анализатор PVS-Studio официально доступен в Astra Linux](https://habr.com/ru/companies/pvs-studio/news/1003858/?utm_campaign=1003858&utm_source=habrahabr&utm_medium=rss)
+- [ИИ научился искать баги, но не чинить: исследователи раскритиковали подход Anthropic](https://habr.com/ru/news/1003848/?utm_campaign=1003848&utm_source=habrahabr&utm_medium=rss)
+- [Поддельное собеседование на работу с Next.js приводит к установке бэкдора на устройства разработчиков](https://habr.com/ru/news/1003828/?utm_campaign=1003828&utm_source=habrahabr&utm_medium=rss)
+- [В США уничтожили архив с рассекреченными документами об НЛО](https://habr.com/ru/news/1003820/?utm_campaign=1003820&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь проверил способность Claude назвать 37 500 случайных имён](https://habr.com/ru/news/1003802/?utm_campaign=1003802&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
