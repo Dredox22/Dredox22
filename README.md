@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Nano Banana 2: бесплатная рисовалка с мощью Pro и скоростью Flash](https://habr.com/ru/news/1004220/?utm_campaign=1004220&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-платформа ProducerAI стала частью Google Labs](https://habr.com/ru/companies/bothub/news/1004142/?utm_campaign=1004142&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ​Spacetime DB 2.0](https://habr.com/ru/news/1004202/?utm_campaign=1004202&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разработала стандарты, которые помогают распознать манипуляции с цифровым контентом](https://habr.com/ru/news/1004200/?utm_campaign=1004200&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI улучшила голосовой API и скорость ИИ-агентов](https://habr.com/ru/companies/bothub/news/1004104/?utm_campaign=1004104&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Telegram заблокируют в РФ в начале апреля, РКН: ведомству нечего добавить о блокировке Telegram в начале апреля](https://habr.com/ru/news/1004186/?utm_campaign=1004186&utm_source=habrahabr&utm_medium=rss)
-- [Inception Labs представляет диффузионную языковую модель Mercury 2](https://habr.com/ru/companies/bothub/news/1004078/?utm_campaign=1004078&utm_source=habrahabr&utm_medium=rss)
-- [В картах Apple появился интерактивный путеводитель по трассам «Формулы-1»](https://habr.com/ru/news/1004182/?utm_campaign=1004182&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Nano Banana 2](https://habr.com/ru/companies/bothub/news/1004178/?utm_campaign=1004178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
