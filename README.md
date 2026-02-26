@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability Conf: места на офлайн всё, подключайтесь онлайн](https://habr.com/ru/companies/chislitellab/news/1004172/?utm_campaign=1004172&utm_source=habrahabr&utm_medium=rss)
-- [Reve 1.5: новая 4K-модель генерации изображений ворвалась в топ](https://habr.com/ru/companies/bothub/news/1004070/?utm_campaign=1004070&utm_source=habrahabr&utm_medium=rss)
-- [Объявляем о старте третьей конференции «Рутокен Day. Технологии доверия»](https://habr.com/ru/companies/aktiv-company/news/1004152/?utm_campaign=1004152&utm_source=habrahabr&utm_medium=rss)
-- [AMD предложила Meta* 10% акций за контракт на 6 гигаватт — чтобы побороться с Nvidia](https://habr.com/ru/news/1004146/?utm_campaign=1004146&utm_source=habrahabr&utm_medium=rss)
-- [Как SYNERGETIC автоматизировал маркетинговые процессы с MWS Tables](https://habr.com/ru/companies/mws/news/1004136/?utm_campaign=1004136&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI улучшила голосовой API и скорость ИИ-агентов](https://habr.com/ru/companies/bothub/news/1004104/?utm_campaign=1004104&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Telegram заблокируют в РФ в начале апреля, РКН: ведомству нечего добавить о блокировке Telegram в начале апреля](https://habr.com/ru/news/1004186/?utm_campaign=1004186&utm_source=habrahabr&utm_medium=rss)
+- [Inception Labs представляет диффузионную языковую модель Mercury 2](https://habr.com/ru/companies/bothub/news/1004078/?utm_campaign=1004078&utm_source=habrahabr&utm_medium=rss)
+- [В картах Apple появился интерактивный путеводитель по трассам «Формулы-1»](https://habr.com/ru/news/1004182/?utm_campaign=1004182&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Nano Banana 2](https://habr.com/ru/companies/bothub/news/1004178/?utm_campaign=1004178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
