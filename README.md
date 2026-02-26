@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft интегрировала функцию Excel в другие возможности Copilot](https://habr.com/ru/news/1003904/?utm_campaign=1003904&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft извинилась за спам тестовыми уведомлениями в приложении Xbox](https://habr.com/ru/news/1003914/?utm_campaign=1003914&utm_source=habrahabr&utm_medium=rss)
 - [Статический анализатор PVS-Studio официально доступен в Astra Linux](https://habr.com/ru/companies/pvs-studio/news/1003858/?utm_campaign=1003858&utm_source=habrahabr&utm_medium=rss)
 - [ИИ научился искать баги, но не чинить: исследователи раскритиковали подход Anthropic](https://habr.com/ru/news/1003848/?utm_campaign=1003848&utm_source=habrahabr&utm_medium=rss)
 - [Поддельное собеседование на работу с Next.js приводит к установке бэкдора на устройства разработчиков](https://habr.com/ru/news/1003828/?utm_campaign=1003828&utm_source=habrahabr&utm_medium=rss)
-- [В США уничтожили архив с рассекреченными документами об НЛО](https://habr.com/ru/news/1003820/?utm_campaign=1003820&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь проверил способность Claude назвать 37 500 случайных имён](https://habr.com/ru/news/1003802/?utm_campaign=1003802&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
