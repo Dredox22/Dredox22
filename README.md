@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск AIDA64 8.25](https://habr.com/ru/news/1003466/?utm_campaign=1003466&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Clonezilla Live 3.3.1-35](https://habr.com/ru/news/1003528/?utm_campaign=1003528&utm_source=habrahabr&utm_medium=rss)
 - [1Password в марте 2026 года повысит цены примерно на 33%](https://habr.com/ru/news/1003306/?utm_campaign=1003306&utm_source=habrahabr&utm_medium=rss)
 - [«LLM не приведут к суперинтеллекту»: создатель Google AlphaGo привлекает $1 млрд на альтернативный ИИ](https://habr.com/ru/news/1003706/?utm_campaign=1003706&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance представила Seedream 5.0 Lite для генерации изображений](https://habr.com/ru/companies/bothub/news/1003694/?utm_campaign=1003694&utm_source=habrahabr&utm_medium=rss)
-- [ОpenAI призвала отказаться от использования SWE-bench Verified для оценки моделей](https://habr.com/ru/companies/bothub/news/1003548/?utm_campaign=1003548&utm_source=habrahabr&utm_medium=rss)
-- [Марк Руссинович и Скотт Хансельман из Microsoft опасаются, что ИИ вытеснит джунов в программировании](https://habr.com/ru/news/1003662/?utm_campaign=1003662&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
