@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ASML подняла мощность EUV-лазера на 67% и обещает на 50% больше чипов к 2030 году](https://habr.com/ru/news/1003984/?utm_campaign=1003984&utm_source=habrahabr&utm_medium=rss)
+- [Китайские поставщики подняли цены на оптоволокно для российских заказчиков в 2,5–4 раза](https://habr.com/ru/news/1003978/?utm_campaign=1003978&utm_source=habrahabr&utm_medium=rss)
+- [Инсайд: Meizu сворачивает производство смартфонов](https://habr.com/ru/news/1003952/?utm_campaign=1003952&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi работает над iOS Bridge — более тесной интеграцией HyperOS с экосистемой Apple](https://habr.com/ru/news/1003938/?utm_campaign=1003938&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft передумала убирать в Windows 11 поддержку принтеров с драйверами V3 или V4](https://habr.com/ru/news/1003934/?utm_campaign=1003934&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft интегрировала функцию Excel в другие возможности Copilot](https://habr.com/ru/news/1003904/?utm_campaign=1003904&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft извинилась за спам тестовыми уведомлениями в приложении Xbox](https://habr.com/ru/news/1003914/?utm_campaign=1003914&utm_source=habrahabr&utm_medium=rss)
-- [Статический анализатор PVS-Studio официально доступен в Astra Linux](https://habr.com/ru/companies/pvs-studio/news/1003858/?utm_campaign=1003858&utm_source=habrahabr&utm_medium=rss)
-- [ИИ научился искать баги, но не чинить: исследователи раскритиковали подход Anthropic](https://habr.com/ru/news/1003848/?utm_campaign=1003848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
