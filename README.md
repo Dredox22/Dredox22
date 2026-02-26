@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft несколько месяцев советовала обучать ИИ на пиратских книгах о Гарри Поттере](https://habr.com/ru/news/1004206/?utm_campaign=1004206&utm_source=habrahabr&utm_medium=rss)
+- [Десктопные AMD Ryzen AI 400 для AM5 выйдут во 2 квартале 2026 года](https://habr.com/ru/companies/bothub/news/1004164/?utm_campaign=1004164&utm_source=habrahabr&utm_medium=rss)
+- [В QEMU предложили из-за санкций «МЦСТ» сначала обратиться к юристу по апстрим поддержке архитектуры «Эльбрус» &lpar;e2k&rpar;](https://habr.com/ru/news/1004238/?utm_campaign=1004238&utm_source=habrahabr&utm_medium=rss)
 - [Google Nano Banana 2: бесплатная рисовалка с мощью Pro и скоростью Flash](https://habr.com/ru/news/1004220/?utm_campaign=1004220&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-платформа ProducerAI стала частью Google Labs](https://habr.com/ru/companies/bothub/news/1004142/?utm_campaign=1004142&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ​Spacetime DB 2.0](https://habr.com/ru/news/1004202/?utm_campaign=1004202&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разработала стандарты, которые помогают распознать манипуляции с цифровым контентом](https://habr.com/ru/news/1004200/?utm_campaign=1004200&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI улучшила голосовой API и скорость ИИ-агентов](https://habr.com/ru/companies/bothub/news/1004104/?utm_campaign=1004104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
