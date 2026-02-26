@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Не LLM, а видеомодель: ИИ научили работать в Blender и водить машину без единого слова](https://habr.com/ru/news/1004034/?utm_campaign=1004034&utm_source=habrahabr&utm_medium=rss)
-- [Банки нарастили закупки оборудования для включения в «белые списки»](https://habr.com/ru/news/1004024/?utm_campaign=1004024&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Повышение безопасности приложений с применением искусственного интеллекта»](https://habr.com/ru/companies/axiomjdk/news/1004010/?utm_campaign=1004010&utm_source=habrahabr&utm_medium=rss)
-- [В 2025 году рынок игровых консолей в России упал на 13,8%](https://habr.com/ru/news/1004008/?utm_campaign=1004008&utm_source=habrahabr&utm_medium=rss)
-- [ASML подняла мощность EUV-лазера на 67% и обещает на 50% больше чипов к 2030 году](https://habr.com/ru/news/1003984/?utm_campaign=1003984&utm_source=habrahabr&utm_medium=rss)
+- [Observability Conf: места на офлайн всё, подключайтесь онлайн](https://habr.com/ru/companies/chislitellab/news/1004172/?utm_campaign=1004172&utm_source=habrahabr&utm_medium=rss)
+- [Reve 1.5: новая 4K-модель генерации изображений ворвалась в топ](https://habr.com/ru/companies/bothub/news/1004070/?utm_campaign=1004070&utm_source=habrahabr&utm_medium=rss)
+- [Объявляем о старте третьей конференции «Рутокен Day. Технологии доверия»](https://habr.com/ru/companies/aktiv-company/news/1004152/?utm_campaign=1004152&utm_source=habrahabr&utm_medium=rss)
+- [AMD предложила Meta* 10% акций за контракт на 6 гигаватт — чтобы побороться с Nvidia](https://habr.com/ru/news/1004146/?utm_campaign=1004146&utm_source=habrahabr&utm_medium=rss)
+- [Как SYNERGETIC автоматизировал маркетинговые процессы с MWS Tables](https://habr.com/ru/companies/mws/news/1004136/?utm_campaign=1004136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
