@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia заработала $68 млрд за квартал — Хуанг объявил «эпоху агентного ИИ»](https://habr.com/ru/news/1003794/?utm_campaign=1003794&utm_source=habrahabr&utm_medium=rss)
+- [Представлен выпуск децентрализованной платформы для обмена медиафайлами MediaGoblin 0.15](https://habr.com/ru/news/1003780/?utm_campaign=1003780&utm_source=habrahabr&utm_medium=rss)
 - [Увеличены сроки поддержки выпусков ядер Linux LTS &lpar;с долгосрочной поддержкой&rpar;](https://habr.com/ru/news/1003774/?utm_campaign=1003774&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic сняла запрет на обучение опасных моделей на фоне давления Пентагона](https://habr.com/ru/news/1003770/?utm_campaign=1003770&utm_source=habrahabr&utm_medium=rss)
 - [Автор Bcachefs Кент Оверстрит представил ИИ-бота, который ведёт блог и помогает в разработке](https://habr.com/ru/news/1003758/?utm_campaign=1003758&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск AIDA64 8.25](https://habr.com/ru/news/1003466/?utm_campaign=1003466&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Clonezilla Live 3.3.1-35](https://habr.com/ru/news/1003528/?utm_campaign=1003528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
