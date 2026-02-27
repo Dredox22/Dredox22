@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic выиграла раунд в схватке с Пентагоном: компанию поддержал Сэм Альтман, а переговоры продолжатся](https://habr.com/ru/news/1004682/?utm_campaign=1004682&utm_source=habrahabr&utm_medium=rss)
 - [Сайт Роскомнадзор подвергся международной DDoS-атаке, специалисты РКН пытаются её отразить](https://habr.com/ru/news/1004668/?utm_campaign=1004668&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity выложила отрытые эмбеддинг-модели](https://habr.com/ru/companies/bothub/news/1004666/?utm_campaign=1004666&utm_source=habrahabr&utm_medium=rss)
 - [Проект Stargate по созданию дата-центров для AI застрял из-за разногласий](https://habr.com/ru/companies/bothub/news/1004654/?utm_campaign=1004654&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Copilot Tasks — новый способ выполнения задач с помощью ИИ](https://habr.com/ru/news/1004626/?utm_campaign=1004626&utm_source=habrahabr&utm_medium=rss)
-- [Новые требования ФСТЭК к удаленному доступу: как ГИС и банкам легализовать привилегированных пользователей](https://habr.com/ru/companies/solarsecurity/news/1004616/?utm_campaign=1004616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
