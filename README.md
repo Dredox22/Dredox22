@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code «научили» искать по коду в 260 раз быстрее — с помощью индексатора на Rust](https://habr.com/ru/news/1004558/?utm_campaign=1004558&utm_source=habrahabr&utm_medium=rss)
+- [Дарио Амодей отказался открывать военным полный доступ к ИИ-системам компании](https://habr.com/ru/news/1004554/?utm_campaign=1004554&utm_source=habrahabr&utm_medium=rss)
+- [Хакер использовал Claude для массированной кибератаки на правительственные учреждения Мексики](https://habr.com/ru/news/1004530/?utm_campaign=1004530&utm_source=habrahabr&utm_medium=rss)
 - [Появился первый Android-вирус, который превращает Gemini в инструмент для взлома](https://habr.com/ru/news/1004242/?utm_campaign=1004242&utm_source=habrahabr&utm_medium=rss)
 - [Notion запустила Custom Agents — попробовать можно бесплатно до 3 мая 2026 года](https://habr.com/ru/news/1004500/?utm_campaign=1004500&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: WhatsApp начал рекомендовать российским пользователям задействовать VPN для обхода блокировок](https://habr.com/ru/news/1004490/?utm_campaign=1004490&utm_source=habrahabr&utm_medium=rss)
-- [Роскачество предупредило о риске «чужих» кредитов из-за забытых карт и SIM-карт](https://habr.com/ru/news/1004488/?utm_campaign=1004488&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудники Google и OpenAI поддержали Anthropic в споре с Пентагоном](https://habr.com/ru/news/1004486/?utm_campaign=1004486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
