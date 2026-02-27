@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые требования ФСТЭК к удаленному доступу: как ГИС и банкам легализовать привилегированных пользователей](https://habr.com/ru/companies/solarsecurity/news/1004616/?utm_campaign=1004616&utm_source=habrahabr&utm_medium=rss)
+- [Хранилище секретов Deckhouse Stronghold получило сертификат ФСТЭК России](https://habr.com/ru/companies/flant/news/984512/?utm_campaign=984512&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудники Google и OpenAI выступили против боевого ИИ и слежки](https://habr.com/ru/news/1004594/?utm_campaign=1004594&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code «научили» искать по коду в 260 раз быстрее — с помощью индексатора на Rust](https://habr.com/ru/news/1004558/?utm_campaign=1004558&utm_source=habrahabr&utm_medium=rss)
 - [Дарио Амодей отказался открывать военным полный доступ к ИИ-системам компании](https://habr.com/ru/news/1004554/?utm_campaign=1004554&utm_source=habrahabr&utm_medium=rss)
-- [Хакер использовал Claude для массированной кибератаки на правительственные учреждения Мексики](https://habr.com/ru/news/1004530/?utm_campaign=1004530&utm_source=habrahabr&utm_medium=rss)
-- [Появился первый Android-вирус, который превращает Gemini в инструмент для взлома](https://habr.com/ru/news/1004242/?utm_campaign=1004242&utm_source=habrahabr&utm_medium=rss)
-- [Notion запустила Custom Agents — попробовать можно бесплатно до 3 мая 2026 года](https://habr.com/ru/news/1004500/?utm_campaign=1004500&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
