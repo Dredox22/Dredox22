@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Wireshark 4.6.4](https://habr.com/ru/news/1003890/?utm_campaign=1003890&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code и Великая паника производительности 2026 года](https://habr.com/ru/news/1004352/?utm_campaign=1004352&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта CompressO 2.0.0 для сжатия видео без потери качества](https://habr.com/ru/news/1003926/?utm_campaign=1003926&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление RapidRAW 1.5.0 открытого редактора изображений RAW](https://habr.com/ru/news/1003380/?utm_campaign=1003380&utm_source=habrahabr&utm_medium=rss)
 - [RuStore добавил поддержку китайского языка в консоль для разработчиков](https://habr.com/ru/news/1004336/?utm_campaign=1004336&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» обнаружила новый предустановленный вирус Keenadu на Android-планшетах](https://habr.com/ru/news/1004330/?utm_campaign=1004330&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики «Русы против ящеров» анонсировали новую игру](https://habr.com/ru/news/1004328/?utm_campaign=1004328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
