@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Perplexity Computer](https://habr.com/ru/companies/bothub/news/1004724/?utm_campaign=1004724&utm_source=habrahabr&utm_medium=rss)
+- [Windows Server получил поддержку загрузки ReFS через 14 лет после запуска файловой системы](https://habr.com/ru/news/1004656/?utm_campaign=1004656&utm_source=habrahabr&utm_medium=rss)
+- [Figma и OpenAI объединяют дизайн и код с помощью новой интеграции Codex](https://habr.com/ru/companies/bothub/news/1004718/?utm_campaign=1004718&utm_source=habrahabr&utm_medium=rss)
 - [Создан фонд Open Source Endowment для финансирования открытого ПО](https://habr.com/ru/news/1004648/?utm_campaign=1004648&utm_source=habrahabr&utm_medium=rss)
 - [Meta* нашла ещё одну альтернативу Nvidia, заключив многомиллиардную сделку по аренде ИИ-чипов Google TPU](https://habr.com/ru/companies/bothub/news/1004712/?utm_campaign=1004712&utm_source=habrahabr&utm_medium=rss)
-- [Android-разработчики опубликовали открытое письмо с требованием отменить обязательную верификацию Google](https://habr.com/ru/news/1004234/?utm_campaign=1004234&utm_source=habrahabr&utm_medium=rss)
-- [Безос будет скупать пострадавшие от его стартапа предприятия](https://habr.com/ru/companies/bothub/news/1004690/?utm_campaign=1004690&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выиграла раунд в схватке с Пентагоном: компанию поддержал Сэм Альтман, а переговоры продолжатся](https://habr.com/ru/news/1004682/?utm_campaign=1004682&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
