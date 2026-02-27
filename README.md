@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft расширила возможности восстановления Windows для большего числа корпоративных устройств](https://habr.com/ru/news/1004392/?utm_campaign=1004392&utm_source=habrahabr&utm_medium=rss)
+- [Открыт новый набор на авторизованный курс по СУБД Tantor Postgres](https://habr.com/ru/companies/tantor/news/1004118/?utm_campaign=1004118&utm_source=habrahabr&utm_medium=rss)
+- [Вышла интегрированная среда разработки Apache NetBeans 29](https://habr.com/ru/news/1003674/?utm_campaign=1003674&utm_source=habrahabr&utm_medium=rss)
 - [Реально ли выиграть от ИИ, никого не уволив? Morningstar спорит с трендом 2026 года](https://habr.com/ru/news/1004380/?utm_campaign=1004380&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор направил в Telegram требования об удалении более 35,6 тыс. противоправных материалов с начала 2026 года](https://habr.com/ru/news/1004372/?utm_campaign=1004372&utm_source=habrahabr&utm_medium=rss)
-- [Вышел ONLYOFFICE DocumentServer 9.3.0](https://habr.com/ru/news/1003874/?utm_campaign=1003874&utm_source=habrahabr&utm_medium=rss)
-- [LLM-агент уничтожает анонимность в интернете: почему переписать текст другим стилем не поможет](https://habr.com/ru/news/1004310/?utm_campaign=1004310&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic отказала Пентагону: Claude не станет автономным оружием и инструментом слежки](https://habr.com/ru/news/1004366/?utm_campaign=1004366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
