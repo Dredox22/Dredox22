@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Встречные санкции»: DeepSeek закрыл Nvidia доступ к V4 и отдал приоритет Huawei](https://habr.com/ru/news/1004288/?utm_campaign=1004288&utm_source=habrahabr&utm_medium=rss)
-- [В правительстве РФ определились с датой блокировки Telegram](https://habr.com/ru/news/1004282/?utm_campaign=1004282&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code теперь автоматически запоминает контекст между сессиями](https://habr.com/ru/news/1004278/?utm_campaign=1004278&utm_source=habrahabr&utm_medium=rss)
-- [На заводе Toyota в Канаде начнут работать 7 человекоподобных роботов Digit](https://habr.com/ru/companies/bothub/news/1004180/?utm_campaign=1004180&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft несколько месяцев советовала обучать ИИ на пиратских книгах о Гарри Поттере](https://habr.com/ru/news/1004206/?utm_campaign=1004206&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта CompressO 2.0.0 для сжатия видео без потери качества](https://habr.com/ru/news/1003926/?utm_campaign=1003926&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление RapidRAW 1.5.0 открытого редактора изображений RAW](https://habr.com/ru/news/1003380/?utm_campaign=1003380&utm_source=habrahabr&utm_medium=rss)
+- [RuStore добавил поддержку китайского языка в консоль для разработчиков](https://habr.com/ru/news/1004336/?utm_campaign=1004336&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» обнаружила новый предустановленный вирус Keenadu на Android-планшетах](https://habr.com/ru/news/1004330/?utm_campaign=1004330&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики «Русы против ящеров» анонсировали новую игру](https://habr.com/ru/news/1004328/?utm_campaign=1004328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
