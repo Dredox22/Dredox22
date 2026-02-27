@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Эксперимент Cloudflare позволил перенести большую часть API Next.js за «одну неделю» с помощью ИИ](https://habr.com/ru/news/1004406/?utm_campaign=1004406&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ признал «Яндекс банк» значимым игроком на рынке платёжных услуг](https://habr.com/ru/news/1004416/?utm_campaign=1004416&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft расширила возможности восстановления Windows для большего числа корпоративных устройств](https://habr.com/ru/news/1004392/?utm_campaign=1004392&utm_source=habrahabr&utm_medium=rss)
-- [Открыт новый набор на авторизованный курс по СУБД Tantor Postgres](https://habr.com/ru/companies/tantor/news/1004118/?utm_campaign=1004118&utm_source=habrahabr&utm_medium=rss)
-- [Вышла интегрированная среда разработки Apache NetBeans 29](https://habr.com/ru/news/1003674/?utm_campaign=1003674&utm_source=habrahabr&utm_medium=rss)
+- [Notion запустила Custom Agents — попробовать можно бесплатно до 3 мая 2026 года](https://habr.com/ru/news/1004500/?utm_campaign=1004500&utm_source=habrahabr&utm_medium=rss)
+- [«Код Дурова»: WhatsApp начал рекомендовать российским пользователям задействовать VPN для обхода блокировок](https://habr.com/ru/news/1004490/?utm_campaign=1004490&utm_source=habrahabr&utm_medium=rss)
+- [Роскачество предупредило о риске «чужих» кредитов из-за забытых карт и SIM-карт](https://habr.com/ru/news/1004488/?utm_campaign=1004488&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудники Google и OpenAI поддержали Anthropic в споре с Пентагоном](https://habr.com/ru/news/1004486/?utm_campaign=1004486&utm_source=habrahabr&utm_medium=rss)
+- [В sudo-rs по умолчанию включили обратную связь при вводе пароля](https://habr.com/ru/news/1004452/?utm_campaign=1004452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
