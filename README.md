@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-лаборатория LUMI открыла усилитель мРНК-терапии — без человеческих гипотез и подсказок](https://habr.com/ru/news/1005048/?utm_campaign=1005048&utm_source=habrahabr&utm_medium=rss)
+- [В 1Password назвали информацию о повышении цен ошибкой](https://habr.com/ru/news/1005024/?utm_campaign=1005024&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик продлил сессии Claude Code с 30 минут до 3 часов — одним MCP-сервером](https://habr.com/ru/news/1005026/?utm_campaign=1005026&utm_source=habrahabr&utm_medium=rss)
 - [Создатель OpenClaw назвал «вайб-кодинг» оскорбительным словом для разработки с ИИ](https://habr.com/ru/news/1004908/?utm_campaign=1004908&utm_source=habrahabr&utm_medium=rss)
 - [НИУ ВШЭ перезапустила онлайн-магистратуру по прикладным нейросетевым технологиям](https://habr.com/ru/news/1004958/?utm_campaign=1004958&utm_source=habrahabr&utm_medium=rss)
-- [Фестиваль «Gameдни» пройдёт на ВДНХ в конце апреля 2026 года](https://habr.com/ru/news/1004954/?utm_campaign=1004954&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-сообщество начало «отменять» OpenAI за контракт с Пентагоном](https://habr.com/ru/news/1004946/?utm_campaign=1004946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
