@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Наш контракт надежнее»: OpenAI раскрыла детали сделки с Пентагоном — и бросила вызов Anthropic](https://habr.com/ru/news/1005058/?utm_campaign=1005058&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-лаборатория LUMI открыла усилитель мРНК-терапии — без человеческих гипотез и подсказок](https://habr.com/ru/news/1005048/?utm_campaign=1005048&utm_source=habrahabr&utm_medium=rss)
 - [В 1Password назвали информацию о повышении цен ошибкой](https://habr.com/ru/news/1005024/?utm_campaign=1005024&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик продлил сессии Claude Code с 30 минут до 3 часов — одним MCP-сервером](https://habr.com/ru/news/1005026/?utm_campaign=1005026&utm_source=habrahabr&utm_medium=rss)
 - [Создатель OpenClaw назвал «вайб-кодинг» оскорбительным словом для разработки с ИИ](https://habr.com/ru/news/1004908/?utm_campaign=1004908&utm_source=habrahabr&utm_medium=rss)
-- [НИУ ВШЭ перезапустила онлайн-магистратуру по прикладным нейросетевым технологиям](https://habr.com/ru/news/1004958/?utm_campaign=1004958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
