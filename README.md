@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания прокси-сетей внедрила SDK в приложения для Smart TV, которые превращают их в узлы для веб-сканирования](https://habr.com/ru/news/1004848/?utm_campaign=1004848&utm_source=habrahabr&utm_medium=rss)
+- [Альтман vs Амодей: как публичная солидарность утром превратилась в контракт с Пентагоном вечером](https://habr.com/ru/news/1004850/?utm_campaign=1004850&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-сообщество представило крошечный трансформер для складывания 10-значных чисел](https://habr.com/ru/news/1004836/?utm_campaign=1004836&utm_source=habrahabr&utm_medium=rss)
+- [Австралийские супермаркеты отключили «разговорчивый» режим ИИ-помощника из-за жалоб клиентов](https://habr.com/ru/news/1004830/?utm_campaign=1004830&utm_source=habrahabr&utm_medium=rss)
 - [Минтранспорта тестирует парящие платформы связи](https://habr.com/ru/news/1004822/?utm_campaign=1004822&utm_source=habrahabr&utm_medium=rss)
-- [Бунт машин &lpar;и их создателей&rpar;: 700 000 работников Amazon, Google и Microsoft выступили против требований Минобороны США](https://habr.com/ru/companies/bothub/news/1004820/?utm_campaign=1004820&utm_source=habrahabr&utm_medium=rss)
-- [Смартфоны Xiaomi, Redmi и POCO «окирпичиваются» после установки последнего обновления HyperOS 3](https://habr.com/ru/news/1004818/?utm_campaign=1004818&utm_source=habrahabr&utm_medium=rss)
-- [Сайт Роскомнадзора вторые сутки под DDoS-атакой, специалисты РКН продолжают её отражать](https://habr.com/ru/news/1004782/?utm_campaign=1004782&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.5](https://habr.com/ru/news/1004400/?utm_campaign=1004400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
