@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-сообщество начало «отменять» OpenAI за контракт с Пентагоном](https://habr.com/ru/news/1004946/?utm_campaign=1004946&utm_source=habrahabr&utm_medium=rss)
 - [В Казани испытывают роботов для уборки снега](https://habr.com/ru/news/1004922/?utm_campaign=1004922&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX пообещала скорость связи 150 Мбит/с со спутника на смартфон](https://habr.com/ru/news/1004894/?utm_campaign=1004894&utm_source=habrahabr&utm_medium=rss)
 - [Представлен мультиплеерный проект для игр в Dendy, Sega, SNES и PS1 в браузере и Telegram](https://habr.com/ru/news/1004870/?utm_campaign=1004870&utm_source=habrahabr&utm_medium=rss)
 - [Экс-сотрудник Microsoft, Meta* и OpenAI: ИИ убил рядового сотрудника](https://habr.com/ru/news/1004856/?utm_campaign=1004856&utm_source=habrahabr&utm_medium=rss)
-- [Южная Корея готовится к появлению полностью функционирующих карт Google Maps](https://habr.com/ru/news/1004858/?utm_campaign=1004858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
