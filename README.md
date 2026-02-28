@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сайт Роскомнадзора вторые сутки под DDoS-атакой, специалисты РКН продолжают её отражать](https://habr.com/ru/news/1004782/?utm_campaign=1004782&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Tails 7.5](https://habr.com/ru/news/1004400/?utm_campaign=1004400&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия инструментария с комплектом аудиопрограмм в одном приложении KataLib 5.2.1.0 для Windows](https://habr.com/ru/news/1004720/?utm_campaign=1004720&utm_source=habrahabr&utm_medium=rss)
 - [«Левые чокнутые из Anthropic»: Трамп приказал правительству отказаться от Claude](https://habr.com/ru/news/1004766/?utm_campaign=1004766&utm_source=habrahabr&utm_medium=rss)
 - [Японская компания Buffalo прекращает производство Blu-ray-приводов](https://habr.com/ru/news/1004738/?utm_campaign=1004738&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры Uber «клонировали» своего босса с помощью ИИ. Он не против](https://habr.com/ru/news/1004758/?utm_campaign=1004758&utm_source=habrahabr&utm_medium=rss)
-- [Suno достиг 2 млн платных подписчиков и $300 млн ARR](https://habr.com/ru/companies/bothub/news/1004728/?utm_campaign=1004728&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Perplexity Computer](https://habr.com/ru/companies/bothub/news/1004724/?utm_campaign=1004724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
