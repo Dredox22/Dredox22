@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен мультиплеерный проект для игр в Dendy, Sega, SNES и PS1 в браузере и Telegram](https://habr.com/ru/news/1004870/?utm_campaign=1004870&utm_source=habrahabr&utm_medium=rss)
+- [Экс-сотрудник Microsoft, Meta* и OpenAI: ИИ убил рядового сотрудника](https://habr.com/ru/news/1004856/?utm_campaign=1004856&utm_source=habrahabr&utm_medium=rss)
+- [Южная Корея готовится к появлению полностью функционирующих карт Google Maps](https://habr.com/ru/news/1004858/?utm_campaign=1004858&utm_source=habrahabr&utm_medium=rss)
 - [Компания прокси-сетей внедрила SDK в приложения для Smart TV, которые превращают их в узлы для веб-сканирования](https://habr.com/ru/news/1004848/?utm_campaign=1004848&utm_source=habrahabr&utm_medium=rss)
 - [Альтман vs Амодей: как публичная солидарность утром превратилась в контракт с Пентагоном вечером](https://habr.com/ru/news/1004850/?utm_campaign=1004850&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-сообщество представило крошечный трансформер для складывания 10-значных чисел](https://habr.com/ru/news/1004836/?utm_campaign=1004836&utm_source=habrahabr&utm_medium=rss)
-- [Австралийские супермаркеты отключили «разговорчивый» режим ИИ-помощника из-за жалоб клиентов](https://habr.com/ru/news/1004830/?utm_campaign=1004830&utm_source=habrahabr&utm_medium=rss)
-- [Минтранспорта тестирует парящие платформы связи](https://habr.com/ru/news/1004822/?utm_campaign=1004822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
