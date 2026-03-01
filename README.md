@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ Claude задействовали при ударах по Ирану — через часы после того, как Трамп забанил Anthropic](https://habr.com/ru/news/1005120/?utm_campaign=1005120&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic сделал мобильный пульт для Claude – Remote Control](https://habr.com/ru/companies/bothub/news/1005116/?utm_campaign=1005116&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.0.20](https://habr.com/ru/news/1004464/?utm_campaign=1004464&utm_source=habrahabr&utm_medium=rss)
 - [Google обеспечит защиту HTTPS от квантовых атак](https://habr.com/ru/news/1005106/?utm_campaign=1005106&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала новые «мини-ПК» для Windows 365](https://habr.com/ru/news/1005096/?utm_campaign=1005096&utm_source=habrahabr&utm_medium=rss)
-- [В Калифорнии утвердили законопроект об интеграции в ОС API для проверки возраста](https://habr.com/ru/news/1005082/?utm_campaign=1005082&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Debian Linux образца 1994 года с графическим интерфейсом, который доступен для запуска в браузере](https://habr.com/ru/news/1005000/?utm_campaign=1005000&utm_source=habrahabr&utm_medium=rss)
-- [Вышел WinScript 2.0.0 — инструмент с открытым исходным кодом для уменьшения размера и оптимизации Windows 10/11](https://habr.com/ru/news/1004952/?utm_campaign=1004952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
