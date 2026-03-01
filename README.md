@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic запустили программу для опенсорс-разработчиков: 6 месяцев Claude Max 20x бесплатно](https://habr.com/ru/news/1005182/?utm_campaign=1005182&utm_source=habrahabr&utm_medium=rss)
+- [xAI тестирует клонирование голоса в Grok для iOS – с возможностью делиться профилями](https://habr.com/ru/companies/bothub/news/1005172/?utm_campaign=1005172&utm_source=habrahabr&utm_medium=rss)
+- [От 131-го места к первому: Claude взлетел в App Store на фоне конфликта с Пентагоном](https://habr.com/ru/news/1005170/?utm_campaign=1005170&utm_source=habrahabr&utm_medium=rss)
 - [Новые меры для защиты от кибермошенников начали действовать в России с 1 марта 2026 года](https://habr.com/ru/news/1005154/?utm_campaign=1005154&utm_source=habrahabr&utm_medium=rss)
 - [Samsung сократила меню восстановления в One UI 8.5 beta](https://habr.com/ru/news/1005124/?utm_campaign=1005124&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.2](https://habr.com/ru/news/1004950/?utm_campaign=1004950&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Claude задействовали при ударах по Ирану — через часы после того, как Трамп забанил Anthropic](https://habr.com/ru/news/1005120/?utm_campaign=1005120&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic сделал мобильный пульт для Claude – Remote Control](https://habr.com/ru/companies/bothub/news/1005116/?utm_campaign=1005116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
