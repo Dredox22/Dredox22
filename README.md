@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung сократила меню восстановления в One UI 8.5 beta](https://habr.com/ru/news/1005124/?utm_campaign=1005124&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.2](https://habr.com/ru/news/1004950/?utm_campaign=1004950&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Claude задействовали при ударах по Ирану — через часы после того, как Трамп забанил Anthropic](https://habr.com/ru/news/1005120/?utm_campaign=1005120&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic сделал мобильный пульт для Claude – Remote Control](https://habr.com/ru/companies/bothub/news/1005116/?utm_campaign=1005116&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.0.20](https://habr.com/ru/news/1004464/?utm_campaign=1004464&utm_source=habrahabr&utm_medium=rss)
-- [Google обеспечит защиту HTTPS от квантовых атак](https://habr.com/ru/news/1005106/?utm_campaign=1005106&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала новые «мини-ПК» для Windows 365](https://habr.com/ru/news/1005096/?utm_campaign=1005096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
