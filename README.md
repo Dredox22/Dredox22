@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел WinScript 2.0.0 — инструмент с открытым исходным кодом для уменьшения размера и оптимизации Windows 10/11](https://habr.com/ru/news/1004952/?utm_campaign=1004952&utm_source=habrahabr&utm_medium=rss)
+- [Сайт Роскомнадзора третьи сутки под DDoS-атакой, специалисты РКН продолжают её отражать](https://habr.com/ru/news/1005018/?utm_campaign=1005018&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.4](https://habr.com/ru/news/1004708/?utm_campaign=1004708&utm_source=habrahabr&utm_medium=rss)
 - [«Наш контракт надежнее»: OpenAI раскрыла детали сделки с Пентагоном — и бросила вызов Anthropic](https://habr.com/ru/news/1005058/?utm_campaign=1005058&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-лаборатория LUMI открыла усилитель мРНК-терапии — без человеческих гипотез и подсказок](https://habr.com/ru/news/1005048/?utm_campaign=1005048&utm_source=habrahabr&utm_medium=rss)
-- [В 1Password назвали информацию о повышении цен ошибкой](https://habr.com/ru/news/1005024/?utm_campaign=1005024&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик продлил сессии Claude Code с 30 минут до 3 часов — одним MCP-сервером](https://habr.com/ru/news/1005026/?utm_campaign=1005026&utm_source=habrahabr&utm_medium=rss)
-- [Создатель OpenClaw назвал «вайб-кодинг» оскорбительным словом для разработки с ИИ](https://habr.com/ru/news/1004908/?utm_campaign=1004908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
