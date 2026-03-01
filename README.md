@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google обеспечит защиту HTTPS от квантовых атак](https://habr.com/ru/news/1005106/?utm_campaign=1005106&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала новые «мини-ПК» для Windows 365](https://habr.com/ru/news/1005096/?utm_campaign=1005096&utm_source=habrahabr&utm_medium=rss)
 - [В Калифорнии утвердили законопроект об интеграции в ОС API для проверки возраста](https://habr.com/ru/news/1005082/?utm_campaign=1005082&utm_source=habrahabr&utm_medium=rss)
 - [Представлен Debian Linux образца 1994 года с графическим интерфейсом, который доступен для запуска в браузере](https://habr.com/ru/news/1005000/?utm_campaign=1005000&utm_source=habrahabr&utm_medium=rss)
 - [Вышел WinScript 2.0.0 — инструмент с открытым исходным кодом для уменьшения размера и оптимизации Windows 10/11](https://habr.com/ru/news/1004952/?utm_campaign=1004952&utm_source=habrahabr&utm_medium=rss)
-- [Сайт Роскомнадзора третьи сутки под DDoS-атакой, специалисты РКН продолжают её отражать](https://habr.com/ru/news/1005018/?utm_campaign=1005018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
