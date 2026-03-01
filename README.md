@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Метеослужба США запустила ИИ-прогноз погоды — на 99.7% дешевле обычного](https://habr.com/ru/news/1005220/?utm_campaign=1005220&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Segra для записи игр на ПК с Windows](https://habr.com/ru/news/1005012/?utm_campaign=1005012&utm_source=habrahabr&utm_medium=rss)
 - [LLM Skirmish: Grok 4.1 Fast обошёл Gemini в написании стратегии, потратив в 37 раз меньше](https://habr.com/ru/companies/bothub/news/1005196/?utm_campaign=1005196&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запустили программу для опенсорс-разработчиков: 6 месяцев Claude Max 20x бесплатно](https://habr.com/ru/news/1005182/?utm_campaign=1005182&utm_source=habrahabr&utm_medium=rss)
 - [xAI тестирует клонирование голоса в Grok для iOS – с возможностью делиться профилями](https://habr.com/ru/companies/bothub/news/1005172/?utm_campaign=1005172&utm_source=habrahabr&utm_medium=rss)
-- [От 131-го места к первому: Claude взлетел в App Store на фоне конфликта с Пентагоном](https://habr.com/ru/news/1005170/?utm_campaign=1005170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
