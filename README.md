@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Продвинутый пользователь Claude Code разделил свой CLAUDE.md на 27 файлов](https://habr.com/ru/news/1005288/?utm_campaign=1005288&utm_source=habrahabr&utm_medium=rss)
 - [Продажи Nvidia H200 в Китай провалились — ноль чипов за два месяца](https://habr.com/ru/news/1005268/?utm_campaign=1005268&utm_source=habrahabr&utm_medium=rss)
 - [Revolut назвал Telegram главной платформой мошенничеств в Испании в 2025 году](https://habr.com/ru/news/1005254/?utm_campaign=1005254&utm_source=habrahabr&utm_medium=rss)
 - [Метеослужба США запустила ИИ-прогноз погоды — на 99.7% дешевле обычного](https://habr.com/ru/news/1005220/?utm_campaign=1005220&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Segra для записи игр на ПК с Windows](https://habr.com/ru/news/1005012/?utm_campaign=1005012&utm_source=habrahabr&utm_medium=rss)
-- [LLM Skirmish: Grok 4.1 Fast обошёл Gemini в написании стратегии, потратив в 37 раз меньше](https://habr.com/ru/companies/bothub/news/1005196/?utm_campaign=1005196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
