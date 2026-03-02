@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышли младшие модели Qwen-3.5 — и 9B-версия обходит ИИ в 13 раз крупнее](https://habr.com/ru/news/1005612/?utm_campaign=1005612&utm_source=habrahabr&utm_medium=rss)
-- [Samsung Electronics и SK Hynix известили клиентов о повышении цен на DRAM во втором квартале](https://habr.com/ru/news/1005600/?utm_campaign=1005600&utm_source=habrahabr&utm_medium=rss)
-- [BMW начала использовать человекоподобных роботов на заводе по производству аккумуляторов в Германии](https://habr.com/ru/news/1005596/?utm_campaign=1005596&utm_source=habrahabr&utm_medium=rss)
-- [QA-инженеры, к вам есть вопросы](https://habr.com/ru/companies/avito/news/1005588/?utm_campaign=1005588&utm_source=habrahabr&utm_medium=rss)
-- [Атака Ирана вывела из строя дата-центр AWS в ОАЭ — Amazon назвала ракеты «объектами»](https://habr.com/ru/news/1005556/?utm_campaign=1005556&utm_source=habrahabr&utm_medium=rss)
+- [РКН: масштабные DDoS-атаки на ресурсы Роскомнадзора не повлияли на их доступность](https://habr.com/ru/news/1005670/?utm_campaign=1005670&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX планирует запустить Starlink для смартфонов со скоростью до 150 Мбит/с](https://habr.com/ru/companies/bothub/news/1005668/?utm_campaign=1005668&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1005644/?utm_campaign=1005644&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление StaxRip 2.52.0 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/1005328/?utm_campaign=1005328&utm_source=habrahabr&utm_medium=rss)
+- [Онлайн-встреча о релизах, тест-кейсах и карьерном пути в тестировании](https://habr.com/ru/news/1005592/?utm_campaign=1005592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
