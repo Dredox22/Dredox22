@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [x86 больше не нужен, процессоры Amazon, параллельные стримы в Java | Spring АйО Подкаст №53](https://habr.com/ru/companies/spring_aio/news/1005548/?utm_campaign=1005548&utm_source=habrahabr&utm_medium=rss)
-- [В Госдуме предложили обязать операторов блокировать массовые звонки без согласия абонента](https://habr.com/ru/news/1005532/?utm_campaign=1005532&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на МЛечный путь 2026 — конференцию об ИИ для бизнеса](https://habr.com/ru/companies/selectel/news/1005526/?utm_campaign=1005526&utm_source=habrahabr&utm_medium=rss)
-- [Всероссийский профессиональный конкурс студенческих проектов «САПР-Перспектива 2026»](https://habr.com/ru/companies/nanosoft/news/1005512/?utm_campaign=1005512&utm_source=habrahabr&utm_medium=rss)
-- [В «2ГИС» появились реалистичные рельефы](https://habr.com/ru/news/1005496/?utm_campaign=1005496&utm_source=habrahabr&utm_medium=rss)
+- [Вышли младшие модели Qwen-3.5 — и 9B-версия обходит ИИ в 13 раз крупнее](https://habr.com/ru/news/1005612/?utm_campaign=1005612&utm_source=habrahabr&utm_medium=rss)
+- [Samsung Electronics и SK Hynix известили клиентов о повышении цен на DRAM во втором квартале](https://habr.com/ru/news/1005600/?utm_campaign=1005600&utm_source=habrahabr&utm_medium=rss)
+- [BMW начала использовать человекоподобных роботов на заводе по производству аккумуляторов в Германии](https://habr.com/ru/news/1005596/?utm_campaign=1005596&utm_source=habrahabr&utm_medium=rss)
+- [QA-инженеры, к вам есть вопросы](https://habr.com/ru/companies/avito/news/1005588/?utm_campaign=1005588&utm_source=habrahabr&utm_medium=rss)
+- [Атака Ирана вывела из строя дата-центр AWS в ОАЭ — Amazon назвала ракеты «объектами»](https://habr.com/ru/news/1005556/?utm_campaign=1005556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
