@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безос намерен выкупать предприятия, пострадавшие от стартапа Project Prometheus](https://habr.com/ru/companies/bothub/news/1005676/?utm_campaign=1005676&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic отказалась от полного контроля Пентагона над Claude](https://habr.com/ru/companies/bothub/news/1005680/?utm_campaign=1005680&utm_source=habrahabr&utm_medium=rss)
+- [️РКН опроверг информацию о блокировке прямого подключения к иностранным VPN-серверам](https://habr.com/ru/news/1005678/?utm_campaign=1005678&utm_source=habrahabr&utm_medium=rss)
 - [РКН: масштабные DDoS-атаки на ресурсы Роскомнадзора не повлияли на их доступность](https://habr.com/ru/news/1005670/?utm_campaign=1005670&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX планирует запустить Starlink для смартфонов со скоростью до 150 Мбит/с](https://habr.com/ru/companies/bothub/news/1005668/?utm_campaign=1005668&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1005644/?utm_campaign=1005644&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление StaxRip 2.52.0 — открытой утилиты для Windows для кодирования видео/аудио с поддержкой HEVC, AVC и AV1](https://habr.com/ru/news/1005328/?utm_campaign=1005328&utm_source=habrahabr&utm_medium=rss)
-- [Онлайн-встреча о релизах, тест-кейсах и карьерном пути в тестировании](https://habr.com/ru/news/1005592/?utm_campaign=1005592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
