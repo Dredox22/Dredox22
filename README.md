@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Организация развития видеоигровой индустрии представила руководство по работе с нарративом в играх](https://habr.com/ru/news/1005708/?utm_campaign=1005708&utm_source=habrahabr&utm_medium=rss)
+- [OpenClaw обогнал React и стал самым популярным программным проектом на GitHub — 250K звезд за четыре месяца](https://habr.com/ru/news/1005698/?utm_campaign=1005698&utm_source=habrahabr&utm_medium=rss)
 - [Безос намерен выкупать предприятия, пострадавшие от стартапа Project Prometheus](https://habr.com/ru/companies/bothub/news/1005676/?utm_campaign=1005676&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic отказалась от полного контроля Пентагона над Claude](https://habr.com/ru/companies/bothub/news/1005680/?utm_campaign=1005680&utm_source=habrahabr&utm_medium=rss)
 - [️РКН опроверг информацию о блокировке прямого подключения к иностранным VPN-серверам](https://habr.com/ru/news/1005678/?utm_campaign=1005678&utm_source=habrahabr&utm_medium=rss)
-- [РКН: масштабные DDoS-атаки на ресурсы Роскомнадзора не повлияли на их доступность](https://habr.com/ru/news/1005670/?utm_campaign=1005670&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX планирует запустить Starlink для смартфонов со скоростью до 150 Мбит/с](https://habr.com/ru/companies/bothub/news/1005668/?utm_campaign=1005668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
