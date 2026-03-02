@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Telegram: теги участников и запрет на копирование в чатах](https://habr.com/ru/news/1005392/?utm_campaign=1005392&utm_source=habrahabr&utm_medium=rss)
+- [StatCounter: доля пользователей Windows 11 резко увеличилась](https://habr.com/ru/news/1005380/?utm_campaign=1005380&utm_source=habrahabr&utm_medium=rss)
+- [Google представила вторую бета-версию Android 17](https://habr.com/ru/news/1005378/?utm_campaign=1005378&utm_source=habrahabr&utm_medium=rss)
 - [Samsung и Техас достигли соглашения из-за предполагаемого незаконного сбора данных о просмотре контента через умные ТВ](https://habr.com/ru/news/1005370/?utm_campaign=1005370&utm_source=habrahabr&utm_medium=rss)
 - [«Союзмультфильм» готовит площадку для создания пользователями роликов с персонажами и музыкой из каталога студии](https://habr.com/ru/news/1005340/?utm_campaign=1005340&utm_source=habrahabr&utm_medium=rss)
-- [MatX обещает ускоритель в 10 раз быстрее Nvidia. Инвесторы уже вложили $500 млн](https://habr.com/ru/news/1005338/?utm_campaign=1005338&utm_source=habrahabr&utm_medium=rss)
-- [Пентагон через Claude хотел читать личные данные американцев — The Atlantic](https://habr.com/ru/news/1005330/?utm_campaign=1005330&utm_source=habrahabr&utm_medium=rss)
-- [Сайт Роскомнадзора на пару часов вышел из-под DDoS-атаки, но потом она началась снова, но менее интенсивно](https://habr.com/ru/news/1005316/?utm_campaign=1005316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
