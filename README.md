@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung и Техас достигли соглашения из-за предполагаемого незаконного сбора данных о просмотре контента через умные ТВ](https://habr.com/ru/news/1005370/?utm_campaign=1005370&utm_source=habrahabr&utm_medium=rss)
 - [«Союзмультфильм» готовит площадку для создания пользователями роликов с персонажами и музыкой из каталога студии](https://habr.com/ru/news/1005340/?utm_campaign=1005340&utm_source=habrahabr&utm_medium=rss)
 - [MatX обещает ускоритель в 10 раз быстрее Nvidia. Инвесторы уже вложили $500 млн](https://habr.com/ru/news/1005338/?utm_campaign=1005338&utm_source=habrahabr&utm_medium=rss)
 - [Пентагон через Claude хотел читать личные данные американцев — The Atlantic](https://habr.com/ru/news/1005330/?utm_campaign=1005330&utm_source=habrahabr&utm_medium=rss)
 - [Сайт Роскомнадзора на пару часов вышел из-под DDoS-атаки, но потом она началась снова, но менее интенсивно](https://habr.com/ru/news/1005316/?utm_campaign=1005316&utm_source=habrahabr&utm_medium=rss)
-- [Первый стабильный релиз легковесного проекта Winslop 26.02.02 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/1005130/?utm_campaign=1005130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
