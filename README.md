@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: чистая установка по-прежнему обязательна для работы Smart App Control в Windows 11](https://habr.com/ru/news/1005472/?utm_campaign=1005472&utm_source=habrahabr&utm_medium=rss)
+- [Motorola объявила о партнёрстве с фондом GrapheneOS](https://habr.com/ru/news/1005470/?utm_campaign=1005470&utm_source=habrahabr&utm_medium=rss)
 - [Атака с использованием ClawJacked позволяет вредоносным веб-сайтам захватывать OpenClaw для кражи данных](https://habr.com/ru/news/1005444/?utm_campaign=1005444&utm_source=habrahabr&utm_medium=rss)
 - [GlocalMe представила кабель UniCord с USB-C, который поддерживает eSIM и раздаёт Wi-Fi](https://habr.com/ru/news/1005440/?utm_campaign=1005440&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 появилась политика «Сделать доступной клавишу Print Screen»](https://habr.com/ru/news/1005416/?utm_campaign=1005416&utm_source=habrahabr&utm_medium=rss)
-- [AI Dev Day: как IT-компании внедряют нейросети в разработку и оценивают их эффект](https://habr.com/ru/companies/yandex/news/1005408/?utm_campaign=1005408&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь Google Brain: до AGI ещё десятки лет. Проблема — в обучении моделей](https://habr.com/ru/news/1005398/?utm_campaign=1005398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
