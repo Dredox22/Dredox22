@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [x86 больше не нужен, процессоры Amazon, параллельные стримы в Java | Spring АйО Подкаст №53](https://habr.com/ru/companies/spring_aio/news/1005548/?utm_campaign=1005548&utm_source=habrahabr&utm_medium=rss)
+- [В Госдуме предложили обязать операторов блокировать массовые звонки без согласия абонента](https://habr.com/ru/news/1005532/?utm_campaign=1005532&utm_source=habrahabr&utm_medium=rss)
+- [Открыта регистрация на МЛечный путь 2026 — конференцию об ИИ для бизнеса](https://habr.com/ru/companies/selectel/news/1005526/?utm_campaign=1005526&utm_source=habrahabr&utm_medium=rss)
+- [Всероссийский профессиональный конкурс студенческих проектов «САПР-Перспектива 2026»](https://habr.com/ru/companies/nanosoft/news/1005512/?utm_campaign=1005512&utm_source=habrahabr&utm_medium=rss)
 - [В «2ГИС» появились реалистичные рельефы](https://habr.com/ru/news/1005496/?utm_campaign=1005496&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax нарастил выручку на 159% — но убытки растут еще быстрее](https://habr.com/ru/news/1005498/?utm_campaign=1005498&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: чистая установка по-прежнему обязательна для работы Smart App Control в Windows 11](https://habr.com/ru/news/1005472/?utm_campaign=1005472&utm_source=habrahabr&utm_medium=rss)
-- [Motorola объявила о партнёрстве с фондом GrapheneOS](https://habr.com/ru/news/1005470/?utm_campaign=1005470&utm_source=habrahabr&utm_medium=rss)
-- [Атака с использованием ClawJacked позволяет вредоносным веб-сайтам захватывать OpenClaw для кражи данных](https://habr.com/ru/news/1005444/?utm_campaign=1005444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
