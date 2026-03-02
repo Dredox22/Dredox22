@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сайт Роскомнадзора на пару часов вышел из-под DDoS-атаки, но потом она началась снова, но менее интенсивно](https://habr.com/ru/news/1005316/?utm_campaign=1005316&utm_source=habrahabr&utm_medium=rss)
 - [Первый стабильный релиз легковесного проекта Winslop 26.02.02 для удаления ненужного системного мусора в Windows 11](https://habr.com/ru/news/1005130/?utm_campaign=1005130&utm_source=habrahabr&utm_medium=rss)
 - [Продвинутый пользователь Claude Code разделил свой CLAUDE.md на 27 файлов](https://habr.com/ru/news/1005288/?utm_campaign=1005288&utm_source=habrahabr&utm_medium=rss)
 - [Продажи Nvidia H200 в Китай провалились — ноль чипов за два месяца](https://habr.com/ru/news/1005268/?utm_campaign=1005268&utm_source=habrahabr&utm_medium=rss)
 - [Revolut назвал Telegram главной платформой мошенничеств в Испании в 2025 году](https://habr.com/ru/news/1005254/?utm_campaign=1005254&utm_source=habrahabr&utm_medium=rss)
-- [Метеослужба США запустила ИИ-прогноз погоды — на 99.7% дешевле обычного](https://habr.com/ru/news/1005220/?utm_campaign=1005220&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
