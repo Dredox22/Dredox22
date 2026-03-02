@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.6 стал лучшим ИИ для веб-поиска. Модель лидирует в трех главных категориях Arena.ai](https://habr.com/ru/news/1005758/?utm_campaign=1005758&utm_source=habrahabr&utm_medium=rss)
 - [Google берётся за спам в RCS, но решить проблему в одиночку не сможет](https://habr.com/ru/companies/bothub/news/1005728/?utm_campaign=1005728&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи всё чаще переходят с ChatGPT на Claude](https://habr.com/ru/companies/bothub/news/1005722/?utm_campaign=1005722&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI уволила сотрудника за инсайдерскую торговлю на Polymarket](https://habr.com/ru/companies/bothub/news/1005674/?utm_campaign=1005674&utm_source=habrahabr&utm_medium=rss)
 - [Организация развития видеоигровой индустрии представила руководство по работе с нарративом в играх](https://habr.com/ru/news/1005708/?utm_campaign=1005708&utm_source=habrahabr&utm_medium=rss)
-- [OpenClaw обогнал React и стал самым популярным программным проектом на GitHub — 250K звезд за четыре месяца](https://habr.com/ru/news/1005698/?utm_campaign=1005698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
