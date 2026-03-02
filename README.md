@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление Telegram: теги участников и запрет на копирование в чатах](https://habr.com/ru/news/1005392/?utm_campaign=1005392&utm_source=habrahabr&utm_medium=rss)
-- [StatCounter: доля пользователей Windows 11 резко увеличилась](https://habr.com/ru/news/1005380/?utm_campaign=1005380&utm_source=habrahabr&utm_medium=rss)
-- [Google представила вторую бета-версию Android 17](https://habr.com/ru/news/1005378/?utm_campaign=1005378&utm_source=habrahabr&utm_medium=rss)
-- [Samsung и Техас достигли соглашения из-за предполагаемого незаконного сбора данных о просмотре контента через умные ТВ](https://habr.com/ru/news/1005370/?utm_campaign=1005370&utm_source=habrahabr&utm_medium=rss)
-- [«Союзмультфильм» готовит площадку для создания пользователями роликов с персонажами и музыкой из каталога студии](https://habr.com/ru/news/1005340/?utm_campaign=1005340&utm_source=habrahabr&utm_medium=rss)
+- [Атака с использованием ClawJacked позволяет вредоносным веб-сайтам захватывать OpenClaw для кражи данных](https://habr.com/ru/news/1005444/?utm_campaign=1005444&utm_source=habrahabr&utm_medium=rss)
+- [GlocalMe представила кабель UniCord с USB-C, который поддерживает eSIM и раздаёт Wi-Fi](https://habr.com/ru/news/1005440/?utm_campaign=1005440&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 появилась политика «Сделать доступной клавишу Print Screen»](https://habr.com/ru/news/1005416/?utm_campaign=1005416&utm_source=habrahabr&utm_medium=rss)
+- [AI Dev Day: как IT-компании внедряют нейросети в разработку и оценивают их эффект](https://habr.com/ru/companies/yandex/news/1005408/?utm_campaign=1005408&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователь Google Brain: до AGI ещё десятки лет. Проблема — в обучении моделей](https://habr.com/ru/news/1005398/?utm_campaign=1005398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
