@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В России число базовых станций LTE выросло на 16% за год и достигло 479 тысяч](https://habr.com/ru/news/1005968/?utm_campaign=1005968&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft обновила ROG Xbox Ally X, чтобы автоматически записывать основные моменты пользовательских игровых сессий](https://habr.com/ru/news/1005964/?utm_campaign=1005964&utm_source=habrahabr&utm_medium=rss)
-- [Оверинжиниринг обходится ИТ-отрасли дороже, чем устаревший стек](https://habr.com/ru/companies/diasoft_company/news/1005960/?utm_campaign=1005960&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на VK Security Confab: Bug Bounty edition](https://habr.com/ru/companies/vk/news/1005946/?utm_campaign=1005946&utm_source=habrahabr&utm_medium=rss)
-- [59% подростков в США считают, что в их школе списывают с помощью ИИ](https://habr.com/ru/news/1005952/?utm_campaign=1005952&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek V4 ожидается до конца недели. По слухам, модель будет полностью мультимодальной](https://habr.com/ru/news/1006030/?utm_campaign=1006030&utm_source=habrahabr&utm_medium=rss)
+- [«Нанософт» в Новосибирске, Краснодаре, Иркутске, Владивостоке: 14 апреля стартует серия конференций наноДРАЙВ](https://habr.com/ru/companies/nanosoft/news/1006016/?utm_campaign=1006016&utm_source=habrahabr&utm_medium=rss)
+- [1Yes: выпустили ТЗ-машину для 1С. И даём финансовую гарантию](https://habr.com/ru/companies/1yes/news/1006000/?utm_campaign=1006000&utm_source=habrahabr&utm_medium=rss)
+- [Релиз OpenWrt 25.12.0](https://habr.com/ru/news/1005984/?utm_campaign=1005984&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch Traffic Monitor 7.9 получил сертификат ФСТЭК России](https://habr.com/ru/companies/infowatch/news/1005994/?utm_campaign=1005994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
