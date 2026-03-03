@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла GPT-5.3 Instant: меньше отказов и морализаторства. Thinking и Pro — следом](https://habr.com/ru/news/1006178/?utm_campaign=1006178&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI обновила основную модель в ChatGPT — GPT-5.3 Instant](https://habr.com/ru/news/1006176/?utm_campaign=1006176&utm_source=habrahabr&utm_medium=rss)
 - [В 3-4 раза дешевле и быстрее Claude 4.5 Haiku: вышла Gemini 3.1 Flash-Lite](https://habr.com/ru/news/1006156/?utm_campaign=1006156&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты кибербеза заявили о распространении вируса в Max, но в пресс‑службе мессенджера опровергли угрозу](https://habr.com/ru/news/1006152/?utm_campaign=1006152&utm_source=habrahabr&utm_medium=rss)
 - [В Лондоне на марш против ИИ пришло до 500 человек](https://habr.com/ru/news/1006150/?utm_campaign=1006150&utm_source=habrahabr&utm_medium=rss)
-- [В Codex App и CLI появился голосовой режим](https://habr.com/ru/news/1006142/?utm_campaign=1006142&utm_source=habrahabr&utm_medium=rss)
-- [Минюст РФ признал Калифорнийский университет Беркли &lpar;University of California, Berkeley&rpar; нежелательной организацией](https://habr.com/ru/news/1006124/?utm_campaign=1006124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
