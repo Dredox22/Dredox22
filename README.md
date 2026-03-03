@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft пришлось заблокировать официальный канал своего ИИ-помощника Copilot в Discord из-за Microslop](https://habr.com/ru/news/1005826/?utm_campaign=1005826&utm_source=habrahabr&utm_medium=rss)
 - [Удаления ChatGPT выросли на 295% после контракта с Пентагоном](https://habr.com/ru/news/1005808/?utm_campaign=1005808&utm_source=habrahabr&utm_medium=rss)
 - [В Claude Code появился голосовой режим](https://habr.com/ru/news/1005802/?utm_campaign=1005802&utm_source=habrahabr&utm_medium=rss)
 - [Релиз дистрибутива Armbian 26.2 для Raspberry Pi и других одноплатных компьютеров](https://habr.com/ru/news/1005486/?utm_campaign=1005486&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия композитного оконного менеджера Hyprland 0.54.0](https://habr.com/ru/news/1005366/?utm_campaign=1005366&utm_source=habrahabr&utm_medium=rss)
-- [Новая функция Copilot для Outlook автоматически разрешает конфликты встреч в календаре](https://habr.com/ru/news/1005490/?utm_campaign=1005490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
