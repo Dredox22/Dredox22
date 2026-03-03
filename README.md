@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung представила опцию «Цифровой ключ дома» в приложении Wallet на базе стандарта Aliro](https://habr.com/ru/news/1005908/?utm_campaign=1005908&utm_source=habrahabr&utm_medium=rss)
+- [На фоне блокировок Роскомнадзора медиапотребление снизилось на 3%](https://habr.com/ru/news/1005918/?utm_campaign=1005918&utm_source=habrahabr&utm_medium=rss)
+- [Британская Колумбия переходит на круглогодичное летнее время](https://habr.com/ru/news/1005910/?utm_campaign=1005910&utm_source=habrahabr&utm_medium=rss)
+- [LibreOffice ответила на критику пользовательского интерфейса](https://habr.com/ru/news/1005898/?utm_campaign=1005898&utm_source=habrahabr&utm_medium=rss)
 - [В 2025 году Банк России выявил более 5,7 тыс. нелегальных участников финрынка в интернете](https://habr.com/ru/news/1005876/?utm_campaign=1005876&utm_source=habrahabr&utm_medium=rss)
-- [Phison ужесточит политику в области платежей за продукцию](https://habr.com/ru/news/1005868/?utm_campaign=1005868&utm_source=habrahabr&utm_medium=rss)
-- [Южнокорейское налоговое агентство случайно раскрыло сид-фразу для кошелька Ledger](https://habr.com/ru/news/1005854/?utm_campaign=1005854&utm_source=habrahabr&utm_medium=rss)
-- [Станьте партнёром Фестиваля полезных игр в Уфе](https://habr.com/ru/news/1005860/?utm_campaign=1005860&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft пришлось заблокировать официальный канал своего ИИ-помощника Copilot в Discord из-за Microslop](https://habr.com/ru/news/1005826/?utm_campaign=1005826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
