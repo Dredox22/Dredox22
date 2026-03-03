@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минюст РФ признал Калифорнийский университет Беркли &lpar;University of California, Berkeley&rpar; нежелательной организацией](https://habr.com/ru/news/1006124/?utm_campaign=1006124&utm_source=habrahabr&utm_medium=rss)
 - [Ошибки ИИ вызывают возмущение у геймеров, а разработчики игр ищут способы сэкономить](https://habr.com/ru/news/1006110/?utm_campaign=1006110&utm_source=habrahabr&utm_medium=rss)
 - [+100 к кибербезопасности](https://habr.com/ru/companies/alfa/news/1006062/?utm_campaign=1006062&utm_source=habrahabr&utm_medium=rss)
 - [Selectel вводит подписку на мобильную ферму](https://habr.com/ru/companies/selectel/news/1006046/?utm_campaign=1006046&utm_source=habrahabr&utm_medium=rss)
 - [Система MULTIFACTOR получила сертификат ФСТЭК России](https://habr.com/ru/companies/multifactor/news/1006036/?utm_campaign=1006036&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek V4 ожидается до конца недели. По слухам, модель будет полностью мультимодальной](https://habr.com/ru/news/1006030/?utm_campaign=1006030&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
