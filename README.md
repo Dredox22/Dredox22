@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung представила опцию «Цифровой ключ дома» в приложении Wallet на базе стандарта Aliro](https://habr.com/ru/news/1005908/?utm_campaign=1005908&utm_source=habrahabr&utm_medium=rss)
-- [На фоне блокировок Роскомнадзора медиапотребление снизилось на 3%](https://habr.com/ru/news/1005918/?utm_campaign=1005918&utm_source=habrahabr&utm_medium=rss)
-- [Британская Колумбия переходит на круглогодичное летнее время](https://habr.com/ru/news/1005910/?utm_campaign=1005910&utm_source=habrahabr&utm_medium=rss)
-- [LibreOffice ответила на критику пользовательского интерфейса](https://habr.com/ru/news/1005898/?utm_campaign=1005898&utm_source=habrahabr&utm_medium=rss)
-- [В 2025 году Банк России выявил более 5,7 тыс. нелегальных участников финрынка в интернете](https://habr.com/ru/news/1005876/?utm_campaign=1005876&utm_source=habrahabr&utm_medium=rss)
+- [В России число базовых станций LTE выросло на 16% за год и достигло 479 тысяч](https://habr.com/ru/news/1005968/?utm_campaign=1005968&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft обновила ROG Xbox Ally X, чтобы автоматически записывать основные моменты пользовательских игровых сессий](https://habr.com/ru/news/1005964/?utm_campaign=1005964&utm_source=habrahabr&utm_medium=rss)
+- [Оверинжиниринг обходится ИТ-отрасли дороже, чем устаревший стек](https://habr.com/ru/companies/diasoft_company/news/1005960/?utm_campaign=1005960&utm_source=habrahabr&utm_medium=rss)
+- [Открыта регистрация на VK Security Confab: Bug Bounty edition](https://habr.com/ru/companies/vk/news/1005946/?utm_campaign=1005946&utm_source=habrahabr&utm_medium=rss)
+- [59% подростков в США считают, что в их школе списывают с помощью ИИ](https://habr.com/ru/news/1005952/?utm_campaign=1005952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
