@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз дистрибутива Armbian 26.2 для Raspberry Pi и других одноплатных компьютеров](https://habr.com/ru/news/1005486/?utm_campaign=1005486&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия композитного оконного менеджера Hyprland 0.54.0](https://habr.com/ru/news/1005366/?utm_campaign=1005366&utm_source=habrahabr&utm_medium=rss)
 - [Новая функция Copilot для Outlook автоматически разрешает конфликты встреч в календаре](https://habr.com/ru/news/1005490/?utm_campaign=1005490&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.6 стал лучшим ИИ для веб-поиска. Модель лидирует в трех главных категориях Arena.ai](https://habr.com/ru/news/1005758/?utm_campaign=1005758&utm_source=habrahabr&utm_medium=rss)
-- [Google берётся за спам в RCS, но решить проблему в одиночку не сможет](https://habr.com/ru/companies/bothub/news/1005728/?utm_campaign=1005728&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи всё чаще переходят с ChatGPT на Claude](https://habr.com/ru/companies/bothub/news/1005722/?utm_campaign=1005722&utm_source=habrahabr&utm_medium=rss)
+- [Как искусственный интеллект помог расшифровать правила 2000-летней римской настольной игры](https://habr.com/ru/news/1005734/?utm_campaign=1005734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
