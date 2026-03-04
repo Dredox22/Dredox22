@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Определены ключевые темы и спикеры Квартирника по безопасной разработке](https://habr.com/ru/companies/ussc/news/1006266/?utm_campaign=1006266&utm_source=habrahabr&utm_medium=rss)
+- [Дарио Амодеи пообещал радикальное ускорение ИИ в 2026-м — это будет год, который удивит всех](https://habr.com/ru/news/1006262/?utm_campaign=1006262&utm_source=habrahabr&utm_medium=rss)
+- [С сентября 2026 года Google Chrome перейдёт на двухнедельный цикл выпуска обновлений вместо нынешнего четырёхнедельного](https://habr.com/ru/news/1006260/?utm_campaign=1006260&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic нарастила выручку вдвое — бан Пентагона только пошёл на пользу](https://habr.com/ru/news/1006250/?utm_campaign=1006250&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость позволяет собирать и анализировать данные о перемещениях автомобилей с датчиками давления в шинах TPMS](https://habr.com/ru/news/1006244/?utm_campaign=1006244&utm_source=habrahabr&utm_medium=rss)
-- [Вышел легковесный инструмент MaxBlocker для отключения, удаления или повторного включения мессенджера Max на Android](https://habr.com/ru/news/1006236/?utm_campaign=1006236&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Cozystack 1.0 — открытой PaaS-платформы на базе Kubernetes](https://habr.com/ru/news/1005966/?utm_campaign=1005966&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Gram — форк редактора кода Zed, но без использования ИИ, внешних сервисов и телеметрии](https://habr.com/ru/news/1005896/?utm_campaign=1005896&utm_source=habrahabr&utm_medium=rss)
-- [Meta* использует записи с очков Ray-Ban для обучения AI, а у подрядчиков есть доступ к деликатным видео пользователей](https://habr.com/ru/news/1006228/?utm_campaign=1006228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
