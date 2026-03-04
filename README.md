@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость позволяет собирать и анализировать данные о перемещениях автомобилей с датчиками давления в шинах TPMS](https://habr.com/ru/news/1006244/?utm_campaign=1006244&utm_source=habrahabr&utm_medium=rss)
+- [Вышел легковесный инструмент MaxBlocker для отключения, удаления или повторного включения мессенджера Max на Android](https://habr.com/ru/news/1006236/?utm_campaign=1006236&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Cozystack 1.0 — открытой PaaS-платформы на базе Kubernetes](https://habr.com/ru/news/1005966/?utm_campaign=1005966&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Gram — форк редактора кода Zed, но без использования ИИ, внешних сервисов и телеметрии](https://habr.com/ru/news/1005896/?utm_campaign=1005896&utm_source=habrahabr&utm_medium=rss)
 - [Meta* использует записи с очков Ray-Ban для обучения AI, а у подрядчиков есть доступ к деликатным видео пользователей](https://habr.com/ru/news/1006228/?utm_campaign=1006228&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT-5.3 Instant: меньше отказов и морализаторства. Thinking и Pro — следом](https://habr.com/ru/news/1006178/?utm_campaign=1006178&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI обновила основную модель в ChatGPT — GPT-5.3 Instant](https://habr.com/ru/news/1006176/?utm_campaign=1006176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
