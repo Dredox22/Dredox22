@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Для работы Windows 12 потребуется NPU с поддержкой ИИ и производительностью 40 TOPS](https://habr.com/ru/news/1006286/?utm_campaign=1006286&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Pentagon vs Anthropic, Qwen 3.5 и кризис идентичности Claude](https://habr.com/ru/news/1006180/?utm_campaign=1006180&utm_source=habrahabr&utm_medium=rss)
-- [AI научился раскрывать личности анонимных пользователей по их постам](https://habr.com/ru/companies/bothub/news/1006276/?utm_campaign=1006276&utm_source=habrahabr&utm_medium=rss)
-- [Определены ключевые темы и спикеры Квартирника по безопасной разработке](https://habr.com/ru/companies/ussc/news/1006266/?utm_campaign=1006266&utm_source=habrahabr&utm_medium=rss)
-- [Дарио Амодеи пообещал радикальное ускорение ИИ в 2026-м — это будет год, который удивит всех](https://habr.com/ru/news/1006262/?utm_campaign=1006262&utm_source=habrahabr&utm_medium=rss)
+- [Новая версия Luxms BI 11.2.7: обновления интерфейса, форм ввода и дэшбордов](https://habr.com/ru/companies/luxms_bi/news/1006332/?utm_campaign=1006332&utm_source=habrahabr&utm_medium=rss)
+- [Клик-кряк: атаки ботов занимают более 40% в интернет-трафике российских компаний](https://habr.com/ru/companies/F6/news/1006328/?utm_campaign=1006328&utm_source=habrahabr&utm_medium=rss)
+- [Google позволила пользователям Android делиться информацией о трекерах с авиакомпаниями, чтобы найти потерянный багаж](https://habr.com/ru/news/1006326/?utm_campaign=1006326&utm_source=habrahabr&utm_medium=rss)
+- [После обновления с Windows 11 23H2 до 25H2 на ПК могут удаляться настройки интернет-соединения](https://habr.com/ru/news/1006310/?utm_campaign=1006310&utm_source=habrahabr&utm_medium=rss)
+- [Arctic Cooling опубликовала драйвер контроллера вентиляторов для Linux](https://habr.com/ru/news/1006300/?utm_campaign=1006300&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
