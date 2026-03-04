@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic внедрила голосовой режим в Claude Code](https://habr.com/ru/news/1006418/?utm_campaign=1006418&utm_source=habrahabr&utm_medium=rss)
+- [«Ведомости»: некоторые депутаты Госдумы столкнулись с блокировкой аккаунтов Apple](https://habr.com/ru/news/1006414/?utm_campaign=1006414&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.6 за час решил задачу, над которой Дональд Кнут бился неделями](https://habr.com/ru/news/1006406/?utm_campaign=1006406&utm_source=habrahabr&utm_medium=rss)
 - [Запущен аналог Cursor из России](https://habr.com/ru/companies/amvera/news/1006402/?utm_campaign=1006402&utm_source=habrahabr&utm_medium=rss)
 - [В Claude Code началось развертывание голосового режима](https://habr.com/ru/companies/bothub/news/1006400/?utm_campaign=1006400&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» начал тестировать ИИ-агента для Android](https://habr.com/ru/news/1006368/?utm_campaign=1006368&utm_source=habrahabr&utm_medium=rss)
-- [Во всемирный день инженерии 4 марта вход в Музей криптографии в Москве стал бесплатным для инженеров, их родных и друзей](https://habr.com/ru/news/1006350/?utm_campaign=1006350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
