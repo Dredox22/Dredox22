@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Первая нативная песочница для ИИ-агентов на Windows: OpenAI выпустила Codex App](https://habr.com/ru/news/1006638/?utm_campaign=1006638&utm_source=habrahabr&utm_medium=rss)
+- [Codex App теперь на Windows](https://habr.com/ru/news/1006632/?utm_campaign=1006632&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.4 получит режим экстремального рассуждения](https://habr.com/ru/companies/bothub/news/1006616/?utm_campaign=1006616&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Atomic Heart объявили дату релиза четвёртого дополнения к игре](https://habr.com/ru/news/1006612/?utm_campaign=1006612&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила серверные процессоры Xeon 6+](https://habr.com/ru/companies/bothub/news/1006604/?utm_campaign=1006604&utm_source=habrahabr&utm_medium=rss)
-- [Превращаем Видео-уроки в навыки для Claude и других с помощью одного инструмента](https://habr.com/ru/news/1006516/?utm_campaign=1006516&utm_source=habrahabr&utm_medium=rss)
-- [Первые подробности GPT-5.4: 1М токенов контекста и экстремальный режим рассуждений](https://habr.com/ru/news/1006596/?utm_campaign=1006596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
