@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Arduino App Lab теперь можно обучать и развёртывать собственные нейросети](https://habr.com/ru/news/1006642/?utm_campaign=1006642&utm_source=habrahabr&utm_medium=rss)
 - [Первая нативная песочница для ИИ-агентов на Windows: OpenAI выпустила Codex App](https://habr.com/ru/news/1006638/?utm_campaign=1006638&utm_source=habrahabr&utm_medium=rss)
 - [Codex App теперь на Windows](https://habr.com/ru/news/1006632/?utm_campaign=1006632&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.4 получит режим экстремального рассуждения](https://habr.com/ru/companies/bothub/news/1006616/?utm_campaign=1006616&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Atomic Heart объявили дату релиза четвёртого дополнения к игре](https://habr.com/ru/news/1006612/?utm_campaign=1006612&utm_source=habrahabr&utm_medium=rss)
-- [Intel представила серверные процессоры Xeon 6+](https://habr.com/ru/companies/bothub/news/1006604/?utm_campaign=1006604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
