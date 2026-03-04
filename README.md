@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel представила серверные процессоры Xeon 6+](https://habr.com/ru/companies/bothub/news/1006604/?utm_campaign=1006604&utm_source=habrahabr&utm_medium=rss)
+- [Превращаем Видео-уроки в навыки для Claude и других с помощью одного инструмента](https://habr.com/ru/news/1006516/?utm_campaign=1006516&utm_source=habrahabr&utm_medium=rss)
+- [Первые подробности GPT-5.4: 1М токенов контекста и экстремальный режим рассуждений](https://habr.com/ru/news/1006596/?utm_campaign=1006596&utm_source=habrahabr&utm_medium=rss)
 - [Несколько сотен экспертов и учёных подписали открытое письмо с призывом приостановить проверку возраста на сайтах](https://habr.com/ru/news/1006544/?utm_campaign=1006544&utm_source=habrahabr&utm_medium=rss)
 - [RWB вместе с НИЯУ МИФИ организует командный хакатон](https://habr.com/ru/companies/wildberries/news/1006478/?utm_campaign=1006478&utm_source=habrahabr&utm_medium=rss)
-- [iSpring митап для тестировщиков 14 марта](https://habr.com/ru/companies/ispring/news/1006496/?utm_campaign=1006496&utm_source=habrahabr&utm_medium=rss)
-- [Безопасная разработка в АСУ ТП](https://habr.com/ru/companies/pvs-studio/news/1006482/?utm_campaign=1006482&utm_source=habrahabr&utm_medium=rss)
-- [Институт Аллена открыл исходный код Molmo 2](https://habr.com/ru/companies/bothub/news/1006356/?utm_campaign=1006356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
