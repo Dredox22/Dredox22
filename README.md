@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новая версия Luxms BI 11.2.7: обновления интерфейса, форм ввода и дэшбордов](https://habr.com/ru/companies/luxms_bi/news/1006332/?utm_campaign=1006332&utm_source=habrahabr&utm_medium=rss)
-- [Клик-кряк: атаки ботов занимают более 40% в интернет-трафике российских компаний](https://habr.com/ru/companies/F6/news/1006328/?utm_campaign=1006328&utm_source=habrahabr&utm_medium=rss)
-- [Google позволила пользователям Android делиться информацией о трекерах с авиакомпаниями, чтобы найти потерянный багаж](https://habr.com/ru/news/1006326/?utm_campaign=1006326&utm_source=habrahabr&utm_medium=rss)
-- [После обновления с Windows 11 23H2 до 25H2 на ПК могут удаляться настройки интернет-соединения](https://habr.com/ru/news/1006310/?utm_campaign=1006310&utm_source=habrahabr&utm_medium=rss)
-- [Arctic Cooling опубликовала драйвер контроллера вентиляторов для Linux](https://habr.com/ru/news/1006300/?utm_campaign=1006300&utm_source=habrahabr&utm_medium=rss)
+- [Во всемирный день инженерии 4 марта вход в Музей криптографии в Москве стал бесплатным для инженеров, их родных и друзей](https://habr.com/ru/news/1006350/?utm_campaign=1006350&utm_source=habrahabr&utm_medium=rss)
+- [Только два банка внедрили технологию бесконтактной оплаты «Волна»](https://habr.com/ru/news/1006346/?utm_campaign=1006346&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: хакеры используют ошибки в OAuth для распространения вредоносного ПО](https://habr.com/ru/news/1006330/?utm_campaign=1006330&utm_source=habrahabr&utm_medium=rss)
+- [США могут ввести лимит на экспорт Nvidia H200 в Китай](https://habr.com/ru/companies/bothub/news/1006344/?utm_campaign=1006344&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek на запрещённых чипах, OpenAI с консультантами, китайские операции в threat report: главные новости AI за неделю](https://habr.com/ru/companies/tochka/news/1006338/?utm_campaign=1006338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
