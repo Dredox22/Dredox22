@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [iSpring митап для тестировщиков 14 марта](https://habr.com/ru/companies/ispring/news/1006496/?utm_campaign=1006496&utm_source=habrahabr&utm_medium=rss)
+- [Безопасная разработка в АСУ ТП](https://habr.com/ru/companies/pvs-studio/news/1006482/?utm_campaign=1006482&utm_source=habrahabr&utm_medium=rss)
 - [Институт Аллена открыл исходный код Molmo 2](https://habr.com/ru/companies/bothub/news/1006356/?utm_campaign=1006356&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia и партнеры вложили $4,5 млрд в оптику для ИИ-серверов — она будет до 20 раз быстрее меди](https://habr.com/ru/news/1006450/?utm_campaign=1006450&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик космического симулятора Star Citizen сообщил о взломе и утечке данных пользователей](https://habr.com/ru/news/1006442/?utm_campaign=1006442&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic внедрила голосовой режим в Claude Code](https://habr.com/ru/news/1006418/?utm_campaign=1006418&utm_source=habrahabr&utm_medium=rss)
-- [«Ведомости»: некоторые депутаты Госдумы столкнулись с блокировкой аккаунтов Apple](https://habr.com/ru/news/1006414/?utm_campaign=1006414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
