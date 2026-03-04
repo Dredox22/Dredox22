@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Для работы Windows 12 потребуется NPU с поддержкой ИИ и производительностью 40 TOPS](https://habr.com/ru/news/1006286/?utm_campaign=1006286&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Pentagon vs Anthropic, Qwen 3.5 и кризис идентичности Claude](https://habr.com/ru/news/1006180/?utm_campaign=1006180&utm_source=habrahabr&utm_medium=rss)
+- [AI научился раскрывать личности анонимных пользователей по их постам](https://habr.com/ru/companies/bothub/news/1006276/?utm_campaign=1006276&utm_source=habrahabr&utm_medium=rss)
 - [Определены ключевые темы и спикеры Квартирника по безопасной разработке](https://habr.com/ru/companies/ussc/news/1006266/?utm_campaign=1006266&utm_source=habrahabr&utm_medium=rss)
 - [Дарио Амодеи пообещал радикальное ускорение ИИ в 2026-м — это будет год, который удивит всех](https://habr.com/ru/news/1006262/?utm_campaign=1006262&utm_source=habrahabr&utm_medium=rss)
-- [С сентября 2026 года Google Chrome перейдёт на двухнедельный цикл выпуска обновлений вместо нынешнего четырёхнедельного](https://habr.com/ru/news/1006260/?utm_campaign=1006260&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic нарастила выручку вдвое — бан Пентагона только пошёл на пользу](https://habr.com/ru/news/1006250/?utm_campaign=1006250&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость позволяет собирать и анализировать данные о перемещениях автомобилей с датчиками давления в шинах TPMS](https://habr.com/ru/news/1006244/?utm_campaign=1006244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
