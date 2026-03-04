@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Cozystack 1.0 — открытой PaaS-платформы на базе Kubernetes](https://habr.com/ru/news/1005966/?utm_campaign=1005966&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Gram — форк редактора кода Zed, но без использования ИИ, внешних сервисов и телеметрии](https://habr.com/ru/news/1005896/?utm_campaign=1005896&utm_source=habrahabr&utm_medium=rss)
 - [Meta* использует записи с очков Ray-Ban для обучения AI, а у подрядчиков есть доступ к деликатным видео пользователей](https://habr.com/ru/news/1006228/?utm_campaign=1006228&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GPT-5.3 Instant: меньше отказов и морализаторства. Thinking и Pro — следом](https://habr.com/ru/news/1006178/?utm_campaign=1006178&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обновила основную модель в ChatGPT — GPT-5.3 Instant](https://habr.com/ru/news/1006176/?utm_campaign=1006176&utm_source=habrahabr&utm_medium=rss)
-- [В 3-4 раза дешевле и быстрее Claude 4.5 Haiku: вышла Gemini 3.1 Flash-Lite](https://habr.com/ru/news/1006156/?utm_campaign=1006156&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты кибербеза заявили о распространении вируса в Max, но в пресс‑службе мессенджера опровергли угрозу](https://habr.com/ru/news/1006152/?utm_campaign=1006152&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
