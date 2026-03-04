@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Институт Аллена открыл исходный код Molmo 2](https://habr.com/ru/companies/bothub/news/1006356/?utm_campaign=1006356&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia и партнеры вложили $4,5 млрд в оптику для ИИ-серверов — она будет до 20 раз быстрее меди](https://habr.com/ru/news/1006450/?utm_campaign=1006450&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик космического симулятора Star Citizen сообщил о взломе и утечке данных пользователей](https://habr.com/ru/news/1006442/?utm_campaign=1006442&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic внедрила голосовой режим в Claude Code](https://habr.com/ru/news/1006418/?utm_campaign=1006418&utm_source=habrahabr&utm_medium=rss)
 - [«Ведомости»: некоторые депутаты Госдумы столкнулись с блокировкой аккаунтов Apple](https://habr.com/ru/news/1006414/?utm_campaign=1006414&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.6 за час решил задачу, над которой Дональд Кнут бился неделями](https://habr.com/ru/news/1006406/?utm_campaign=1006406&utm_source=habrahabr&utm_medium=rss)
-- [Запущен аналог Cursor из России](https://habr.com/ru/companies/amvera/news/1006402/?utm_campaign=1006402&utm_source=habrahabr&utm_medium=rss)
-- [В Claude Code началось развертывание голосового режима](https://habr.com/ru/companies/bothub/news/1006400/?utm_campaign=1006400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
