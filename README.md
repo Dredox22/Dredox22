@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot научился открывать веб-страницы и сохранять пароли внутри своего приложения для Windows](https://habr.com/ru/news/1006876/?utm_campaign=1006876&utm_source=habrahabr&utm_medium=rss)
-- [Mediascope: Telegram впервые стал самым популярным мессенджером в России](https://habr.com/ru/news/1006878/?utm_campaign=1006878&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-диктофон Pocket с магнитом для iPhone стал популярным у пользователей](https://habr.com/ru/news/1006860/?utm_campaign=1006860&utm_source=habrahabr&utm_medium=rss)
-- [Приказ ФСТЭК России №117: изменения, которые нельзя игнорировать](https://habr.com/ru/companies/ussc/news/1006874/?utm_campaign=1006874&utm_source=habrahabr&utm_medium=rss)
-- [Не спали 36 часов и запустили Grok — рассказ сооснователя xAI](https://habr.com/ru/news/1006868/?utm_campaign=1006868&utm_source=habrahabr&utm_medium=rss)
+- [Появилась Ansible-коллекция для деплоя Cozystack поверх любого Kubernetes &lpar;без Talos Linux&rpar;](https://habr.com/ru/companies/aenix/news/1006976/?utm_campaign=1006976&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia возобновляет производство GeForce RTX 3060](https://habr.com/ru/news/1006910/?utm_campaign=1006910&utm_source=habrahabr&utm_medium=rss)
+- [Обновление CS2 от 5 марта 2026 года — ностальгия по CS:GO?](https://habr.com/ru/companies/paybeam/news/1006958/?utm_campaign=1006958&utm_source=habrahabr&utm_medium=rss)
+- [В Max пояснили Хабру: мессенджер не отправляет запросы на серверы WhatsApp и Telegram](https://habr.com/ru/news/1006950/?utm_campaign=1006950&utm_source=habrahabr&utm_medium=rss)
+- [Команда Qwen потеряла трех ключевых разработчиков за неделю. Возможная причина — реструктуризация Alibaba](https://habr.com/ru/news/1006932/?utm_campaign=1006932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
