@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor теперь работает внутри JetBrains IDE](https://habr.com/ru/news/1006716/?utm_campaign=1006716&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3 Flash поставили управлять кафе. Она прокричала «погнали!» 574 раза и обанкротилась](https://habr.com/ru/news/1006706/?utm_campaign=1006706&utm_source=habrahabr&utm_medium=rss)
+- [«Льстят Трампу как диктатору»: утекшее письмо главы Anthropic может добить переговоры с Пентагоном](https://habr.com/ru/news/1006696/?utm_campaign=1006696&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Media Player Classic — Home Cinema 2.6.3](https://habr.com/ru/news/1006462/?utm_campaign=1006462&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Linux-дистрибутив Nitrux 6.0.0](https://habr.com/ru/news/1006436/?utm_campaign=1006436&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NWinfo 1.6.1 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/1006492/?utm_campaign=1006492&utm_source=habrahabr&utm_medium=rss)
-- [Разработчику удалось запустить обучения нейросетей на NPU от Apple, который доступен только для инференса](https://habr.com/ru/news/1006658/?utm_campaign=1006658&utm_source=habrahabr&utm_medium=rss)
-- [В Arduino App Lab теперь можно обучать и развёртывать собственные нейросети](https://habr.com/ru/news/1006642/?utm_campaign=1006642&utm_source=habrahabr&utm_medium=rss)
-- [Первая нативная песочница для ИИ-агентов на Windows: OpenAI выпустила Codex App](https://habr.com/ru/news/1006638/?utm_campaign=1006638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
