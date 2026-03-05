@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp планирует запуск подписки WhatsApp Plus с дополнительными функциями оформления и кастомизации](https://habr.com/ru/news/1006996/?utm_campaign=1006996&utm_source=habrahabr&utm_medium=rss)
 - [Появилась Ansible-коллекция для деплоя Cozystack поверх любого Kubernetes &lpar;без Talos Linux&rpar;](https://habr.com/ru/companies/aenix/news/1006976/?utm_campaign=1006976&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia возобновляет производство GeForce RTX 3060](https://habr.com/ru/news/1006910/?utm_campaign=1006910&utm_source=habrahabr&utm_medium=rss)
 - [Обновление CS2 от 5 марта 2026 года — ностальгия по CS:GO?](https://habr.com/ru/companies/paybeam/news/1006958/?utm_campaign=1006958&utm_source=habrahabr&utm_medium=rss)
 - [В Max пояснили Хабру: мессенджер не отправляет запросы на серверы WhatsApp и Telegram](https://habr.com/ru/news/1006950/?utm_campaign=1006950&utm_source=habrahabr&utm_medium=rss)
-- [Команда Qwen потеряла трех ключевых разработчиков за неделю. Возможная причина — реструктуризация Alibaba](https://habr.com/ru/news/1006932/?utm_campaign=1006932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
