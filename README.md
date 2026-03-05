@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз NWinfo 1.6.1 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/1006492/?utm_campaign=1006492&utm_source=habrahabr&utm_medium=rss)
 - [Разработчику удалось запустить обучения нейросетей на NPU от Apple, который доступен только для инференса](https://habr.com/ru/news/1006658/?utm_campaign=1006658&utm_source=habrahabr&utm_medium=rss)
 - [В Arduino App Lab теперь можно обучать и развёртывать собственные нейросети](https://habr.com/ru/news/1006642/?utm_campaign=1006642&utm_source=habrahabr&utm_medium=rss)
 - [Первая нативная песочница для ИИ-агентов на Windows: OpenAI выпустила Codex App](https://habr.com/ru/news/1006638/?utm_campaign=1006638&utm_source=habrahabr&utm_medium=rss)
 - [Codex App теперь на Windows](https://habr.com/ru/news/1006632/?utm_campaign=1006632&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.4 получит режим экстремального рассуждения](https://habr.com/ru/companies/bothub/news/1006616/?utm_campaign=1006616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
