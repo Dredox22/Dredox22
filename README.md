@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Broadcom планирует заработать $100 млрд в 2027 году только на ИИ-чипах](https://habr.com/ru/news/1007042/?utm_campaign=1007042&utm_source=habrahabr&utm_medium=rss)
+- [Есть вопросы? Готовы ответить](https://habr.com/ru/companies/alfa/news/1007040/?utm_campaign=1007040&utm_source=habrahabr&utm_medium=rss)
+- [В сеть утекла часть исходного кода Minecraft для PS3, PS4, Xbox 360 и Xbox One](https://habr.com/ru/news/1007022/?utm_campaign=1007022&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp планирует запуск подписки WhatsApp Plus с дополнительными функциями оформления и кастомизации](https://habr.com/ru/news/1006996/?utm_campaign=1006996&utm_source=habrahabr&utm_medium=rss)
 - [Появилась Ansible-коллекция для деплоя Cozystack поверх любого Kubernetes &lpar;без Talos Linux&rpar;](https://habr.com/ru/companies/aenix/news/1006976/?utm_campaign=1006976&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia возобновляет производство GeForce RTX 3060](https://habr.com/ru/news/1006910/?utm_campaign=1006910&utm_source=habrahabr&utm_medium=rss)
-- [Обновление CS2 от 5 марта 2026 года — ностальгия по CS:GO?](https://habr.com/ru/companies/paybeam/news/1006958/?utm_campaign=1006958&utm_source=habrahabr&utm_medium=rss)
-- [В Max пояснили Хабру: мессенджер не отправляет запросы на серверы WhatsApp и Telegram](https://habr.com/ru/news/1006950/?utm_campaign=1006950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
