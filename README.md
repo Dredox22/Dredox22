@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Play приняли меры против разряжающих батареи устройств приложений](https://habr.com/ru/news/1006738/?utm_campaign=1006738&utm_source=habrahabr&utm_medium=rss)
+- [Испания, MIR 2026: дисквалификация за использование связки смарт-очков и умных часов](https://habr.com/ru/news/1006748/?utm_campaign=1006748&utm_source=habrahabr&utm_medium=rss)
+- [ФБР и Европол закрыли хакерский форум LeakBase](https://habr.com/ru/news/1006730/?utm_campaign=1006730&utm_source=habrahabr&utm_medium=rss)
 - [Cursor теперь работает внутри JetBrains IDE](https://habr.com/ru/news/1006716/?utm_campaign=1006716&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3 Flash поставили управлять кафе. Она прокричала «погнали!» 574 раза и обанкротилась](https://habr.com/ru/news/1006706/?utm_campaign=1006706&utm_source=habrahabr&utm_medium=rss)
-- [«Льстят Трампу как диктатору»: утекшее письмо главы Anthropic может добить переговоры с Пентагоном](https://habr.com/ru/news/1006696/?utm_campaign=1006696&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Media Player Classic — Home Cinema 2.6.3](https://habr.com/ru/news/1006462/?utm_campaign=1006462&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Linux-дистрибутив Nitrux 6.0.0](https://habr.com/ru/news/1006436/?utm_campaign=1006436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
