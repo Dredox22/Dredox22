@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчики раскритиковали закон Калифорнии о проверке возраста пользователей ОС](https://habr.com/ru/news/1006804/?utm_campaign=1006804&utm_source=habrahabr&utm_medium=rss)
-- [Учёные МГТУ имени Баумана разработали устройство управляемой квантовой памяти](https://habr.com/ru/news/1006812/?utm_campaign=1006812&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Handshake AI перестал выплачивать деньги за работу подрядчикам](https://habr.com/ru/news/1006792/?utm_campaign=1006792&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: ресурсы ведомства работают без сбоев, в штатном режиме, а Detector404.ru используется для вброса фейков](https://habr.com/ru/news/1006798/?utm_campaign=1006798&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг предложил отложить требование об использовании российского оптоволокна до 2028 года](https://habr.com/ru/news/1006796/?utm_campaign=1006796&utm_source=habrahabr&utm_medium=rss)
+- [Mediascope: Telegram впервые стал самым популярным мессенджером в России](https://habr.com/ru/news/1006878/?utm_campaign=1006878&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-диктофон Pocket с магнитом для iPhone стал популярным у пользователей](https://habr.com/ru/news/1006860/?utm_campaign=1006860&utm_source=habrahabr&utm_medium=rss)
+- [Приказ ФСТЭК России №117: изменения, которые нельзя игнорировать](https://habr.com/ru/companies/ussc/news/1006874/?utm_campaign=1006874&utm_source=habrahabr&utm_medium=rss)
+- [Не спали 36 часов и запустили Grok — рассказ сооснователя xAI](https://habr.com/ru/news/1006868/?utm_campaign=1006868&utm_source=habrahabr&utm_medium=rss)
+- [TikTok позволяет полиции читать личные сообщения для защиты пользователей](https://habr.com/ru/news/1006858/?utm_campaign=1006858&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
