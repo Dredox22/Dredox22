@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Т‑банк» тестирует голосовые переводы между клиентами](https://habr.com/ru/news/1006780/?utm_campaign=1006780&utm_source=habrahabr&utm_medium=rss)
-- [Релиз безопасности Astroid 3.3.11 — шаблона-конструктора для Joomla](https://habr.com/ru/news/1006774/?utm_campaign=1006774&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление инструмента мониторинга HWiNFO 8.44](https://habr.com/ru/news/1006592/?utm_campaign=1006592&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play приняли меры против разряжающих батареи устройств приложений](https://habr.com/ru/news/1006738/?utm_campaign=1006738&utm_source=habrahabr&utm_medium=rss)
-- [Испания, MIR 2026: дисквалификация за использование связки смарт-очков и умных часов](https://habr.com/ru/news/1006748/?utm_campaign=1006748&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики раскритиковали закон Калифорнии о проверке возраста пользователей ОС](https://habr.com/ru/news/1006804/?utm_campaign=1006804&utm_source=habrahabr&utm_medium=rss)
+- [Учёные МГТУ имени Баумана разработали устройство управляемой квантовой памяти](https://habr.com/ru/news/1006812/?utm_campaign=1006812&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Handshake AI перестал выплачивать деньги за работу подрядчикам](https://habr.com/ru/news/1006792/?utm_campaign=1006792&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: ресурсы ведомства работают без сбоев, в штатном режиме, а Detector404.ru используется для вброса фейков](https://habr.com/ru/news/1006798/?utm_campaign=1006798&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг предложил отложить требование об использовании российского оптоволокна до 2028 года](https://habr.com/ru/news/1006796/?utm_campaign=1006796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
