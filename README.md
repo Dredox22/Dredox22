@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Т‑банк» тестирует голосовые переводы между клиентами](https://habr.com/ru/news/1006780/?utm_campaign=1006780&utm_source=habrahabr&utm_medium=rss)
+- [Релиз безопасности Astroid 3.3.11 — шаблона-конструктора для Joomla](https://habr.com/ru/news/1006774/?utm_campaign=1006774&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление инструмента мониторинга HWiNFO 8.44](https://habr.com/ru/news/1006592/?utm_campaign=1006592&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play приняли меры против разряжающих батареи устройств приложений](https://habr.com/ru/news/1006738/?utm_campaign=1006738&utm_source=habrahabr&utm_medium=rss)
 - [Испания, MIR 2026: дисквалификация за использование связки смарт-очков и умных часов](https://habr.com/ru/news/1006748/?utm_campaign=1006748&utm_source=habrahabr&utm_medium=rss)
-- [ФБР и Европол закрыли хакерский форум LeakBase](https://habr.com/ru/news/1006730/?utm_campaign=1006730&utm_source=habrahabr&utm_medium=rss)
-- [Cursor теперь работает внутри JetBrains IDE](https://habr.com/ru/news/1006716/?utm_campaign=1006716&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3 Flash поставили управлять кафе. Она прокричала «погнали!» 574 раза и обанкротилась](https://habr.com/ru/news/1006706/?utm_campaign=1006706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
