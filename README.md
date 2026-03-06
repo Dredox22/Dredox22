@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft восполнила пробел в устранении неполадок в Windows 11 и Server 2025](https://habr.com/ru/news/1007306/?utm_campaign=1007306&utm_source=habrahabr&utm_medium=rss)
+- [Все продам ради OpenAI: SoftBank занимает $40 млрд, чтобы профинансировать компанию Альтмана](https://habr.com/ru/news/1007302/?utm_campaign=1007302&utm_source=habrahabr&utm_medium=rss)
+- [ФАС разъяснила свою позицию о рекламе в Instagram* и Telegram](https://habr.com/ru/news/1007292/?utm_campaign=1007292&utm_source=habrahabr&utm_medium=rss)
+- [«Планировщик задач» Windows 11 получил новый дизайн в стиле Fluent от одного из пользователей](https://habr.com/ru/news/1006626/?utm_campaign=1006626&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic теперь официально классифицируется как риск для цепочки поставок в США](https://habr.com/ru/news/1007280/?utm_campaign=1007280&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты кибербезопасности мессенджера опровергли новость о доступности фото в Max без разрешения пользователя](https://habr.com/ru/news/1007260/?utm_campaign=1007260&utm_source=habrahabr&utm_medium=rss)
-- [Norton внедрил детектор мошенничества Genie в ChatGPT](https://habr.com/ru/news/1007258/?utm_campaign=1007258&utm_source=habrahabr&utm_medium=rss)
-- [Системы защиты ТВ-сигнала признали объектами критической информационной инфраструктуры](https://habr.com/ru/news/1007254/?utm_campaign=1007254&utm_source=habrahabr&utm_medium=rss)
-- [Bing AI продвигал поддельный репозиторий OpenClaw на GitHub с вредоносным ПО](https://habr.com/ru/news/1007230/?utm_campaign=1007230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
