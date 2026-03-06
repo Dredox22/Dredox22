@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor представили Automations — систему для облачных ИИ-агентов, которые работают постоянно, без ручного запуска](https://habr.com/ru/news/1007350/?utm_campaign=1007350&utm_source=habrahabr&utm_medium=rss)
+- [Unity продаст китайское подразделение и закроет офисы во Франции](https://habr.com/ru/news/1007342/?utm_campaign=1007342&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft восполнила пробел в устранении неполадок в Windows 11 и Server 2025](https://habr.com/ru/news/1007306/?utm_campaign=1007306&utm_source=habrahabr&utm_medium=rss)
 - [Все продам ради OpenAI: SoftBank занимает $40 млрд, чтобы профинансировать компанию Альтмана](https://habr.com/ru/news/1007302/?utm_campaign=1007302&utm_source=habrahabr&utm_medium=rss)
 - [ФАС разъяснила свою позицию о рекламе в Instagram* и Telegram](https://habr.com/ru/news/1007292/?utm_campaign=1007292&utm_source=habrahabr&utm_medium=rss)
-- [«Планировщик задач» Windows 11 получил новый дизайн в стиле Fluent от одного из пользователей](https://habr.com/ru/news/1006626/?utm_campaign=1006626&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic теперь официально классифицируется как риск для цепочки поставок в США](https://habr.com/ru/news/1007280/?utm_campaign=1007280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
