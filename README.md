@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила мультимодальную версию Phi-4](https://habr.com/ru/companies/bothub/news/1007402/?utm_campaign=1007402&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Электро» расширил сеть операторов электрозарядных станций](https://habr.com/ru/news/1007360/?utm_campaign=1007360&utm_source=habrahabr&utm_medium=rss)
 - [Cursor представили Automations — систему для облачных ИИ-агентов, которые работают постоянно, без ручного запуска](https://habr.com/ru/news/1007350/?utm_campaign=1007350&utm_source=habrahabr&utm_medium=rss)
 - [Unity продаст китайское подразделение и закроет офисы во Франции](https://habr.com/ru/news/1007342/?utm_campaign=1007342&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft восполнила пробел в устранении неполадок в Windows 11 и Server 2025](https://habr.com/ru/news/1007306/?utm_campaign=1007306&utm_source=habrahabr&utm_medium=rss)
-- [Все продам ради OpenAI: SoftBank занимает $40 млрд, чтобы профинансировать компанию Альтмана](https://habr.com/ru/news/1007302/?utm_campaign=1007302&utm_source=habrahabr&utm_medium=rss)
-- [ФАС разъяснила свою позицию о рекламе в Instagram* и Telegram](https://habr.com/ru/news/1007292/?utm_campaign=1007292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
