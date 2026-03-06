@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Топ-менеджер Google DeepMind хантит разработчиков Qwen](https://habr.com/ru/companies/bothub/news/1007464/?utm_campaign=1007464&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI встроила ChatGPT в Excel и подключила к нему данные Bloomberg, Moody&#39;s и S&amp;amp;P](https://habr.com/ru/companies/bothub/news/1007470/?utm_campaign=1007470&utm_source=habrahabr&utm_medium=rss)
+- [Зачем девелоперам строительные модели: кейс Sminex на новом «BIM Просвете»](https://habr.com/ru/companies/sminex_developer/news/1007478/?utm_campaign=1007478&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba нанимает специалиста из Google DeepMind для усиления команды разработчиков нейросети Qwen](https://habr.com/ru/companies/bothub/news/1007464/?utm_campaign=1007464&utm_source=habrahabr&utm_medium=rss)
 - [Lightricks представила открытый локальный видеоредактор с новой моделью LTX-2.3](https://habr.com/ru/companies/bothub/news/1007458/?utm_campaign=1007458&utm_source=habrahabr&utm_medium=rss)
 - [В KodaCode появилась поддержка SKILLS и AGENTS.md](https://habr.com/ru/companies/koda/news/1007372/?utm_campaign=1007372&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic пытается спасти контракт с Пентагоном](https://habr.com/ru/companies/bothub/news/1007426/?utm_campaign=1007426&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte приглашает на конкурс BI-дашбордов от FanRuan Data Challenge](https://habr.com/ru/companies/glowbyte/news/1007412/?utm_campaign=1007412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
