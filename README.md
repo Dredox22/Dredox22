@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing AI продвигал поддельный репозиторий OpenClaw на GitHub с вредоносным ПО](https://habr.com/ru/news/1007230/?utm_campaign=1007230&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.4 протестировали на самых сложных интерфейсах в мире — модель справилась](https://habr.com/ru/news/1007220/?utm_campaign=1007220&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь обнаружил уязвимость в веб-версии Мах: изображения из ЛС можно найти в открытом доступе по прямой ссылке](https://habr.com/ru/news/1007216/?utm_campaign=1007216&utm_source=habrahabr&utm_medium=rss)
 - [Пока Claude воюет в Иране, его разработчик официально стал угрозой госбезопасности](https://habr.com/ru/news/1007194/?utm_campaign=1007194&utm_source=habrahabr&utm_medium=rss)
 - [Около 18% федеральных трасс России могут оставить без мобильного интернета](https://habr.com/ru/news/1007182/?utm_campaign=1007182&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» открыл исходный код и веса модели своего робота Грина на базе нейросети Green-VLA](https://habr.com/ru/news/1007180/?utm_campaign=1007180&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.94.0](https://habr.com/ru/news/1007170/?utm_campaign=1007170&utm_source=habrahabr&utm_medium=rss)
-- [СМИ сообщили о запрете рекламы в Telegram, но в базе ФАС РФ нет такого дела](https://habr.com/ru/news/1007166/?utm_campaign=1007166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
