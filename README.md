@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Rust 1.94.0](https://habr.com/ru/news/1007170/?utm_campaign=1007170&utm_source=habrahabr&utm_medium=rss)
+- [СМИ сообщили о запрете рекламы в Telegram, но в базе ФАС РФ нет такого дела](https://habr.com/ru/news/1007166/?utm_campaign=1007166&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект kafkalet — десктопный клиент для Apache Kafka](https://habr.com/ru/news/1006882/?utm_campaign=1006882&utm_source=habrahabr&utm_medium=rss)
 - [После редизайна SharePoint работает на основе ИИ от Anthropic](https://habr.com/ru/news/1006624/?utm_campaign=1006624&utm_source=habrahabr&utm_medium=rss)
 - [ИИ не может контролировать свои мысли — и это хорошая новость: OpenAI протестировали 13 моделей](https://habr.com/ru/news/1007142/?utm_campaign=1007142&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT-5.4 — свою новую флагманскую модель](https://habr.com/ru/news/1007102/?utm_campaign=1007102&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT-5.4 — первая модель OpenAI, которая управляет компьютером](https://habr.com/ru/news/1007096/?utm_campaign=1007096&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
