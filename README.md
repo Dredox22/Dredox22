@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic теперь официально классифицируется как риск для цепочки поставок в США](https://habr.com/ru/news/1007280/?utm_campaign=1007280&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты кибербезопасности мессенджера опровергли новость о доступности фото в Max без разрешения пользователя](https://habr.com/ru/news/1007260/?utm_campaign=1007260&utm_source=habrahabr&utm_medium=rss)
+- [Norton внедрил детектор мошенничества Genie в ChatGPT](https://habr.com/ru/news/1007258/?utm_campaign=1007258&utm_source=habrahabr&utm_medium=rss)
+- [Системы защиты ТВ-сигнала признали объектами критической информационной инфраструктуры](https://habr.com/ru/news/1007254/?utm_campaign=1007254&utm_source=habrahabr&utm_medium=rss)
 - [Bing AI продвигал поддельный репозиторий OpenClaw на GitHub с вредоносным ПО](https://habr.com/ru/news/1007230/?utm_campaign=1007230&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.4 протестировали на самых сложных интерфейсах в мире — модель справилась](https://habr.com/ru/news/1007220/?utm_campaign=1007220&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь обнаружил уязвимость в веб-версии Мах: изображения из ЛС можно найти в открытом доступе по прямой ссылке](https://habr.com/ru/news/1007216/?utm_campaign=1007216&utm_source=habrahabr&utm_medium=rss)
-- [Пока Claude воюет в Иране, его разработчик официально стал угрозой госбезопасности](https://habr.com/ru/news/1007194/?utm_campaign=1007194&utm_source=habrahabr&utm_medium=rss)
-- [Около 18% федеральных трасс России могут оставить без мобильного интернета](https://habr.com/ru/news/1007182/?utm_campaign=1007182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
