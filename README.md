@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic пытается спасти контракт с Пентагоном](https://habr.com/ru/companies/bothub/news/1007426/?utm_campaign=1007426&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte приглашает на конкурс BI-дашбордов от FanRuan Data Challenge](https://habr.com/ru/companies/glowbyte/news/1007412/?utm_campaign=1007412&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI готовит к релизу двунаправленную аудиомодель](https://habr.com/ru/companies/bothub/news/1007404/?utm_campaign=1007404&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила мультимодальную версию Phi-4](https://habr.com/ru/companies/bothub/news/1007402/?utm_campaign=1007402&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Электро» расширил сеть операторов электрозарядных станций](https://habr.com/ru/news/1007360/?utm_campaign=1007360&utm_source=habrahabr&utm_medium=rss)
-- [Cursor представили Automations — систему для облачных ИИ-агентов, которые работают постоянно, без ручного запуска](https://habr.com/ru/news/1007350/?utm_campaign=1007350&utm_source=habrahabr&utm_medium=rss)
-- [Unity продаст китайское подразделение и закроет офисы во Франции](https://habr.com/ru/news/1007342/?utm_campaign=1007342&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft восполнила пробел в устранении неполадок в Windows 11 и Server 2025](https://habr.com/ru/news/1007306/?utm_campaign=1007306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
