@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел почтовый сервер Postfix 3.11.0](https://habr.com/ru/news/1007492/?utm_campaign=1007492&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft добавила редактор изображений в PowerPoint](https://habr.com/ru/news/1007636/?utm_campaign=1007636&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.4 стал лучшим ИИ для вайб-кодинга](https://habr.com/ru/news/1007620/?utm_campaign=1007620&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla проведёт масштабный редизайн Firefox](https://habr.com/ru/news/1007618/?utm_campaign=1007618&utm_source=habrahabr&utm_medium=rss)
 - [LibreOffice раскритиковала чиновников ЕС за использование Microsoft Excel и игнорирование ODF](https://habr.com/ru/news/1007608/?utm_campaign=1007608&utm_source=habrahabr&utm_medium=rss)
-- [100 млн рабочих мест под угрозой? Китай ставит на ИИ и обещает, что все будет хорошо](https://habr.com/ru/news/1007606/?utm_campaign=1007606&utm_source=habrahabr&utm_medium=rss)
-- [Поддержка Microsoft Defender для iOS 16 прекратится в апреле](https://habr.com/ru/news/1007592/?utm_campaign=1007592&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
