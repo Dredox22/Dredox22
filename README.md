@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за контракта с Пентагоном OpenAI потеряла двух топ-разработчиков ИИ](https://habr.com/ru/news/1007798/?utm_campaign=1007798&utm_source=habrahabr&utm_medium=rss)
 - [Luma запускает ИИ-агентов на основе новых моделей «унифицированного интеллекта»](https://habr.com/ru/companies/bothub/news/1007786/?utm_campaign=1007786&utm_source=habrahabr&utm_medium=rss)
 - [Янн ЛеКун: «AGI — неправильный термин, нужен другой»](https://habr.com/ru/companies/bothub/news/1007778/?utm_campaign=1007778&utm_source=habrahabr&utm_medium=rss)
 - [40% сотрудников Block уволили «из-за ИИ». Утверждается, что это ложь](https://habr.com/ru/news/1007764/?utm_campaign=1007764&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.5 обнаружила 22 уязвимости в Firefox за две недели](https://habr.com/ru/companies/bothub/news/1007734/?utm_campaign=1007734&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI расширяет поддержку мейнтейнеров открытого кода](https://habr.com/ru/companies/bothub/news/1007726/?utm_campaign=1007726&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
