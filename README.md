@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Winslop для удаления ненужного системного мусора в Windows 10/11 переведён с WinForms на WinUI 3 &lpar;.NET 10&rpar;](https://habr.com/ru/news/1007578/?utm_campaign=1007578&utm_source=habrahabr&utm_medium=rss)
+- [Хакатон Дайджест №32 на март](https://habr.com/ru/news/1007506/?utm_campaign=1007506&utm_source=habrahabr&utm_medium=rss)
+- [После заявления Max, что ссылки на фото нельзя подобрать или сгенерировать, в сети нашли контент из мессенджера](https://habr.com/ru/news/1007576/?utm_campaign=1007576&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления открытого проекта RustDesk 1.4.6](https://habr.com/ru/news/1007334/?utm_campaign=1007334&utm_source=habrahabr&utm_medium=rss)
 - [Как Claude Opus 4.6 понял, что его тестируют и взломал ответы к бенчмарку](https://habr.com/ru/news/1007532/?utm_campaign=1007532&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила ИИ-агента для поиска уязвимостей — он уже нашел баги в OpenSSH, GnuTLS и Chromium](https://habr.com/ru/news/1007524/?utm_campaign=1007524&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI встроила ChatGPT в Excel и подключила к нему данные Bloomberg, Moody&#39;s и S&amp;amp;P](https://habr.com/ru/companies/bothub/news/1007470/?utm_campaign=1007470&utm_source=habrahabr&utm_medium=rss)
-- [Зачем девелоперам строительные модели: кейс Sminex на новом «BIM Просвете»](https://habr.com/ru/companies/sminex_developer/news/1007478/?utm_campaign=1007478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
