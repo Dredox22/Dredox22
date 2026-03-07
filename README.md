@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышли руководства Linux From Scratch 13.0 и Beyond Linux From Scratch 13.0](https://habr.com/ru/news/1007296/?utm_campaign=1007296&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «„ИКС Холдинг“ создаёт единую стурктуру из своих кибербез‑активов „ИКС Безопасность“»](https://habr.com/ru/news/1007670/?utm_campaign=1007670&utm_source=habrahabr&utm_medium=rss)
+- [ИИ, который обучается вдвое быстрее: Ai2 выложила в открытый доступ Olmo Hybrid](https://habr.com/ru/news/1007668/?utm_campaign=1007668&utm_source=habrahabr&utm_medium=rss)
 - [Вышел почтовый сервер Postfix 3.11.0](https://habr.com/ru/news/1007492/?utm_campaign=1007492&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила редактор изображений в PowerPoint](https://habr.com/ru/news/1007636/?utm_campaign=1007636&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.4 стал лучшим ИИ для вайб-кодинга](https://habr.com/ru/news/1007620/?utm_campaign=1007620&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla проведёт масштабный редизайн Firefox](https://habr.com/ru/news/1007618/?utm_campaign=1007618&utm_source=habrahabr&utm_medium=rss)
-- [LibreOffice раскритиковала чиновников ЕС за использование Microsoft Excel и игнорирование ODF](https://habr.com/ru/news/1007608/?utm_campaign=1007608&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
