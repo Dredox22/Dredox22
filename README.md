@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы научили видеокарту искать молекулы за часы вместо месяцев](https://habr.com/ru/news/1007712/?utm_campaign=1007712&utm_source=habrahabr&utm_medium=rss)
 - [Независимые разработчики видеоигр рассказали о проблемах с привлечением инвестиций в России](https://habr.com/ru/news/1007704/?utm_campaign=1007704&utm_source=habrahabr&utm_medium=rss)
 - [Valve скорректировала сроки выпуска Steam Machine, Steam Frame и Steam Controller](https://habr.com/ru/news/1007698/?utm_campaign=1007698&utm_source=habrahabr&utm_medium=rss)
 - [Apple начала блокировать загрузку китайских приложений ByteDance для пользователей из США](https://habr.com/ru/news/1007688/?utm_campaign=1007688&utm_source=habrahabr&utm_medium=rss)
 - [Вышли руководства Linux From Scratch 13.0 и Beyond Linux From Scratch 13.0](https://habr.com/ru/news/1007296/?utm_campaign=1007296&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «„ИКС Холдинг“ создаёт единую структуру из своих кибербез‑активов — „ИКС Безопасность“»](https://habr.com/ru/news/1007670/?utm_campaign=1007670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
