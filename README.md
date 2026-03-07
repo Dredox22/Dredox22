@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [40% сотрудников Block уволили «из-за ИИ». Утверждается, что это ложь](https://habr.com/ru/news/1007764/?utm_campaign=1007764&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.5 обнаружила 22 уязвимости в Firefox за две недели](https://habr.com/ru/companies/bothub/news/1007734/?utm_campaign=1007734&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI расширяет поддержку мейнтейнеров открытого кода](https://habr.com/ru/companies/bothub/news/1007726/?utm_campaign=1007726&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic признана угрозой для поставок в США](https://habr.com/ru/companies/bothub/news/1007724/?utm_campaign=1007724&utm_source=habrahabr&utm_medium=rss)
 - [США привяжут экспорт ИИ-ускорителей Nvidia и AMD к инвестициям в свою экономику](https://habr.com/ru/companies/bothub/news/1007718/?utm_campaign=1007718&utm_source=habrahabr&utm_medium=rss)
-- [Google снизит комиссию в Play Store и одобрит сторонние магазины приложений](https://habr.com/ru/companies/bothub/news/1007716/?utm_campaign=1007716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
