@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.4 стал лучшим ИИ для вайб-кодинга](https://habr.com/ru/news/1007620/?utm_campaign=1007620&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla проведёт масштабный редизайн Firefox](https://habr.com/ru/news/1007618/?utm_campaign=1007618&utm_source=habrahabr&utm_medium=rss)
+- [LibreOffice раскритиковала чиновников ЕС за использование Microsoft Excel и игнорирование ODF](https://habr.com/ru/news/1007608/?utm_campaign=1007608&utm_source=habrahabr&utm_medium=rss)
+- [100 млн рабочих мест под угрозой? Китай ставит на ИИ и обещает, что все будет хорошо](https://habr.com/ru/news/1007606/?utm_campaign=1007606&utm_source=habrahabr&utm_medium=rss)
 - [Поддержка Microsoft Defender для iOS 16 прекратится в апреле](https://habr.com/ru/news/1007592/?utm_campaign=1007592&utm_source=habrahabr&utm_medium=rss)
-- [ИТМО и НИЯУ МИФИ в партнёрстве с Яндекс Практикумом проводят день открытых дверей онлайн-магистратуры](https://habr.com/ru/companies/yandex_praktikum/news/1006784/?utm_campaign=1006784&utm_source=habrahabr&utm_medium=rss)
-- [Проект Winslop для удаления ненужного системного мусора в Windows 10/11 переведён с WinForms на WinUI 3 &lpar;.NET 10&rpar;](https://habr.com/ru/news/1007578/?utm_campaign=1007578&utm_source=habrahabr&utm_medium=rss)
-- [Хакатон Дайджест №32 на март](https://habr.com/ru/news/1007506/?utm_campaign=1007506&utm_source=habrahabr&utm_medium=rss)
-- [После заявления Max, что ссылки на фото нельзя подобрать или сгенерировать, в сети нашли контент из мессенджера](https://habr.com/ru/news/1007576/?utm_campaign=1007576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
