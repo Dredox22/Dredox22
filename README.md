@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic признана угрозой для поставок в США](https://habr.com/ru/companies/bothub/news/1007724/?utm_campaign=1007724&utm_source=habrahabr&utm_medium=rss)
 - [США привяжут экспорт ИИ-ускорителей Nvidia и AMD к инвестициям в свою экономику](https://habr.com/ru/companies/bothub/news/1007718/?utm_campaign=1007718&utm_source=habrahabr&utm_medium=rss)
 - [Google снизит комиссию в Play Store и одобрит сторонние магазины приложений](https://habr.com/ru/companies/bothub/news/1007716/?utm_campaign=1007716&utm_source=habrahabr&utm_medium=rss)
 - [Как мы научили видеокарту искать молекулы за часы вместо месяцев](https://habr.com/ru/news/1007712/?utm_campaign=1007712&utm_source=habrahabr&utm_medium=rss)
 - [Независимые разработчики видеоигр рассказали о проблемах с привлечением инвестиций в России](https://habr.com/ru/news/1007704/?utm_campaign=1007704&utm_source=habrahabr&utm_medium=rss)
-- [Valve скорректировала сроки выпуска Steam Machine, Steam Frame и Steam Controller](https://habr.com/ru/news/1007698/?utm_campaign=1007698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
