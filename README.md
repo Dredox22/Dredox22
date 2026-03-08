@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления Wine 11.4](https://habr.com/ru/news/1007586/?utm_campaign=1007586&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект PortableGL — реализация OpenGL 3 на языке C](https://habr.com/ru/news/1007504/?utm_campaign=1007504&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент Alibaba обошёл ограничения и начал майнить крипту на тренировочных GPU](https://habr.com/ru/news/1007810/?utm_campaign=1007810&utm_source=habrahabr&utm_medium=rss)
 - [Из-за контракта с Пентагоном OpenAI потеряла двух топ-разработчиков ИИ](https://habr.com/ru/news/1007798/?utm_campaign=1007798&utm_source=habrahabr&utm_medium=rss)
 - [Luma запускает ИИ-агентов на основе новых моделей «унифицированного интеллекта»](https://habr.com/ru/companies/bothub/news/1007786/?utm_campaign=1007786&utm_source=habrahabr&utm_medium=rss)
-- [Янн ЛеКун: «AGI — неправильный термин, нужен другой»](https://habr.com/ru/companies/bothub/news/1007778/?utm_campaign=1007778&utm_source=habrahabr&utm_medium=rss)
-- [40% сотрудников Block уволили «из-за ИИ». Утверждается, что это ложь](https://habr.com/ru/news/1007764/?utm_campaign=1007764&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
