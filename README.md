@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за AI Overviews от Google трафик медиаинстустрии падает до 30 раз](https://habr.com/ru/companies/bothub/news/1007928/?utm_campaign=1007928&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпати представил ИИ-исследователя — он проводит до 12 экспериментов в час](https://habr.com/ru/news/1007924/?utm_campaign=1007924&utm_source=habrahabr&utm_medium=rss)
 - [$100 млн на одиночестве: корейский ИИ-стартап Wrtn заменяет людям книги и Netflix](https://habr.com/ru/news/1007888/?utm_campaign=1007888&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть Alibaba тайно от своих создателей начала майнить криптовалюту на собственных GPU](https://habr.com/ru/news/1007856/?utm_campaign=1007856&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Pizlix — безопасный по памяти дистрибутив GNU/Linux на базе Linux From Scratch &lpar;LFS&rpar; 12.2](https://habr.com/ru/news/1007676/?utm_campaign=1007676&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.4](https://habr.com/ru/news/1007586/?utm_campaign=1007586&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект PortableGL — реализация OpenGL 3 на языке C](https://habr.com/ru/news/1007504/?utm_campaign=1007504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
