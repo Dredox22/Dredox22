@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Uni-1 от Luma AI превосходит Nano Banana 2 и GPT Image 1.5 в логических бенчмарках](https://habr.com/ru/companies/bothub/news/1007980/?utm_campaign=1007980&utm_source=habrahabr&utm_medium=rss)
 - [Из-за AI Overviews от Google трафик медиаинстустрии падает до 30 раз](https://habr.com/ru/companies/bothub/news/1007928/?utm_campaign=1007928&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпати представил ИИ-исследователя — он проводит до 12 экспериментов в час](https://habr.com/ru/news/1007924/?utm_campaign=1007924&utm_source=habrahabr&utm_medium=rss)
 - [$100 млн на одиночестве: корейский ИИ-стартап Wrtn заменяет людям книги и Netflix](https://habr.com/ru/news/1007888/?utm_campaign=1007888&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть Alibaba тайно от своих создателей начала майнить криптовалюту на собственных GPU](https://habr.com/ru/news/1007856/?utm_campaign=1007856&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Pizlix — безопасный по памяти дистрибутив GNU/Linux на базе Linux From Scratch &lpar;LFS&rpar; 12.2](https://habr.com/ru/news/1007676/?utm_campaign=1007676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
