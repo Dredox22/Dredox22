@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [$100 млн на одиночестве: корейский ИИ-стартап Wrtn заменяет людям книги и Netflix](https://habr.com/ru/news/1007888/?utm_campaign=1007888&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть Alibaba тайно от своих создателей начала майнить криптовалюту на собственных GPU](https://habr.com/ru/news/1007856/?utm_campaign=1007856&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Pizlix — безопасный по памяти дистрибутив GNU/Linux на базе Linux From Scratch &lpar;LFS&rpar; 12.2](https://habr.com/ru/news/1007676/?utm_campaign=1007676&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления Wine 11.4](https://habr.com/ru/news/1007586/?utm_campaign=1007586&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект PortableGL — реализация OpenGL 3 на языке C](https://habr.com/ru/news/1007504/?utm_campaign=1007504&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент Alibaba обошёл ограничения и начал майнить крипту на тренировочных GPU](https://habr.com/ru/news/1007810/?utm_campaign=1007810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
