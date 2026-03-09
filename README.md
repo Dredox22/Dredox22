@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Текстовые ИИ-данные иссякают. Meta⚹ предлагает переключиться на неразмеченное видео](https://habr.com/ru/companies/bothub/news/1008122/?utm_campaign=1008122&utm_source=habrahabr&utm_medium=rss)
 - [DRAM подорожает на 100%, а дефицит затянется до 2028 года](https://habr.com/ru/news/1008114/?utm_campaign=1008114&utm_source=habrahabr&utm_medium=rss)
 - [OpenJS предложит пользователям устаревших версий Node.js услуги по обновлению](https://habr.com/ru/news/1008088/?utm_campaign=1008088&utm_source=habrahabr&utm_medium=rss)
 - [Человек притворился ИИ-агентом в Moltbook — его завербовали в церковь и выдали данные хозяев](https://habr.com/ru/news/1008084/?utm_campaign=1008084&utm_source=habrahabr&utm_medium=rss)
 - [Вышел digiKam 9.0.0](https://habr.com/ru/news/1007938/?utm_campaign=1007938&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft незаметно удалила ключевую информацию о необходимых обновлениях Windows 11/10](https://habr.com/ru/news/1008074/?utm_campaign=1008074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
