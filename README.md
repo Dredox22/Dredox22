@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект Video Codec Converter &lpar;VCC&rpar; — графический интерфейс для FFmpeg и кодирования видео на GPU](https://habr.com/ru/news/1007742/?utm_campaign=1007742&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого проекта PPSSPP 1.20.0 — эмулятора Sony PlayStation Portable](https://habr.com/ru/news/1007854/?utm_campaign=1007854&utm_source=habrahabr&utm_medium=rss)
 - [Выходец из МГУ привлек $293 млн на ИИ-платформу, которая находит кандидатов в лекарства за месяцы вместо лет](https://habr.com/ru/news/1008008/?utm_campaign=1008008&utm_source=habrahabr&utm_medium=rss)
 - [Боевые дроны и разногласия: ИИ-проект Stargate рушится от Техаса до Абу-Даби](https://habr.com/ru/news/1007994/?utm_campaign=1007994&utm_source=habrahabr&utm_medium=rss)
 - [Uni-1 от Luma AI превосходит Nano Banana 2 и GPT Image 1.5 в логических бенчмарках](https://habr.com/ru/companies/bothub/news/1007980/?utm_campaign=1007980&utm_source=habrahabr&utm_medium=rss)
-- [Из-за AI Overviews от Google трафик медиаинстустрии падает до 30 раз](https://habr.com/ru/companies/bothub/news/1007928/?utm_campaign=1007928&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати представил ИИ-исследователя — он проводит до 12 экспериментов в час](https://habr.com/ru/news/1007924/?utm_campaign=1007924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
