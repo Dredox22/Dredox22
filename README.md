@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Россиянам начали приходить письма от фейковой налоговой с QR-кодами для оплаты «долга»](https://habr.com/ru/news/1008258/?utm_campaign=1008258&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила Copilot Cowork – ИИ-агента для 365 на основе технологий Anthropic](https://habr.com/ru/companies/bothub/news/1008254/?utm_campaign=1008254&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI покупает Promptfoo: стартап, который ломает ИИ-приложения](https://habr.com/ru/news/1008250/?utm_campaign=1008250&utm_source=habrahabr&utm_medium=rss)
 - [Представлен прототип открытого сервера для мессенджеров Max и «ТамТам»](https://habr.com/ru/news/1008242/?utm_campaign=1008242&utm_source=habrahabr&utm_medium=rss)
 - [«Беспрецедентно и незаконно»: Anthropic подала в суд на администрацию Трампа](https://habr.com/ru/news/1008240/?utm_campaign=1008240&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик в поиске вакансии получил доступ к ИИ-эйчару и попросил его самого ответить на вопросы за человека](https://habr.com/ru/news/1008226/?utm_campaign=1008226&utm_source=habrahabr&utm_medium=rss)
-- [ИИ из Оксфорда подбирает антидепрессанты лучше врачей — потому что спрашивает, чего боится пациент](https://habr.com/ru/news/1008180/?utm_campaign=1008180&utm_source=habrahabr&utm_medium=rss)
-- [Текстовые ИИ-данные иссякают. Meta⚹ предлагает переключиться на неразмеченное видео](https://habr.com/ru/companies/bothub/news/1008122/?utm_campaign=1008122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
