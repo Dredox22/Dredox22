@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenJS предложит пользователям устаревших версий Node.js услуги по обновлению](https://habr.com/ru/news/1008088/?utm_campaign=1008088&utm_source=habrahabr&utm_medium=rss)
+- [Человек притворился ИИ-агентом в Moltbook — его завербовали в церковь и выдали данные хозяев](https://habr.com/ru/news/1008084/?utm_campaign=1008084&utm_source=habrahabr&utm_medium=rss)
+- [Вышел digiKam 9.0.0](https://habr.com/ru/news/1007938/?utm_campaign=1007938&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft незаметно удалила ключевую информацию о необходимых обновлениях Windows 11/10](https://habr.com/ru/news/1008074/?utm_campaign=1008074&utm_source=habrahabr&utm_medium=rss)
 - [Вышла библиотека chardet под лицензией MIT вместо LGPL, где код переписан с помощью ИИ-ассистента Claude от Anthropic](https://habr.com/ru/news/1007894/?utm_campaign=1007894&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Video Codec Converter &lpar;VCC&rpar; — графический интерфейс для FFmpeg и кодирования видео на GPU](https://habr.com/ru/news/1007742/?utm_campaign=1007742&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта PPSSPP 1.20.0 — эмулятора Sony PlayStation Portable](https://habr.com/ru/news/1007854/?utm_campaign=1007854&utm_source=habrahabr&utm_medium=rss)
-- [Выходец из МГУ привлек $293 млн на ИИ-платформу, которая находит кандидатов в лекарства за месяцы вместо лет](https://habr.com/ru/news/1008008/?utm_campaign=1008008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
