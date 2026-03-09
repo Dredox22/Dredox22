@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен прототип открытого сервера для мессенджеров Max и «ТамТам»](https://habr.com/ru/news/1008242/?utm_campaign=1008242&utm_source=habrahabr&utm_medium=rss)
+- [«Беспрецедентно и незаконно»: Anthropic подала в суд на администрацию Трампа](https://habr.com/ru/news/1008240/?utm_campaign=1008240&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик в поиске вакансии получил доступ к ИИ-эйчару и попросил его самого ответить на вопросы за человека](https://habr.com/ru/news/1008226/?utm_campaign=1008226&utm_source=habrahabr&utm_medium=rss)
 - [ИИ из Оксфорда подбирает антидепрессанты лучше врачей — потому что спрашивает, чего боится пациент](https://habr.com/ru/news/1008180/?utm_campaign=1008180&utm_source=habrahabr&utm_medium=rss)
 - [Текстовые ИИ-данные иссякают. Meta⚹ предлагает переключиться на неразмеченное видео](https://habr.com/ru/companies/bothub/news/1008122/?utm_campaign=1008122&utm_source=habrahabr&utm_medium=rss)
-- [DRAM подорожает на 100%, а дефицит затянется до 2028 года](https://habr.com/ru/news/1008114/?utm_campaign=1008114&utm_source=habrahabr&utm_medium=rss)
-- [OpenJS предложит пользователям устаревших версий Node.js услуги по обновлению](https://habr.com/ru/news/1008088/?utm_campaign=1008088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
