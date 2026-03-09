@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic открыли доступ к Code Review: команда агентов на каждый PR](https://habr.com/ru/news/1008292/?utm_campaign=1008292&utm_source=habrahabr&utm_medium=rss)
+- [«Не верьте нам»: топ-исследователь OpenAI заявил, что судьбу ИИ нельзя решать за закрытыми дверями](https://habr.com/ru/news/1008290/?utm_campaign=1008290&utm_source=habrahabr&utm_medium=rss)
 - [Агентная IDE от JetBrains стала доступна в public preview](https://habr.com/ru/news/1008276/?utm_campaign=1008276&utm_source=habrahabr&utm_medium=rss)
 - [Росстандарт утвердил новый ГОСТ на карандаши](https://habr.com/ru/news/1008260/?utm_campaign=1008260&utm_source=habrahabr&utm_medium=rss)
 - [Россиянам начали приходить письма от фейковой налоговой с QR-кодами для оплаты «долга»](https://habr.com/ru/news/1008258/?utm_campaign=1008258&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила Copilot Cowork – ИИ-агента для 365 на основе технологий Anthropic](https://habr.com/ru/companies/bothub/news/1008254/?utm_campaign=1008254&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI покупает Promptfoo: стартап, который ломает ИИ-приложения](https://habr.com/ru/news/1008250/?utm_campaign=1008250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
