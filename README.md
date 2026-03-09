@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Росстандарт утвердил новый ГОСТ на карандаши](https://habr.com/ru/news/1008260/?utm_campaign=1008260&utm_source=habrahabr&utm_medium=rss)
 - [Россиянам начали приходить письма от фейковой налоговой с QR-кодами для оплаты «долга»](https://habr.com/ru/news/1008258/?utm_campaign=1008258&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Copilot Cowork – ИИ-агента для 365 на основе технологий Anthropic](https://habr.com/ru/companies/bothub/news/1008254/?utm_campaign=1008254&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI покупает Promptfoo: стартап, который ломает ИИ-приложения](https://habr.com/ru/news/1008250/?utm_campaign=1008250&utm_source=habrahabr&utm_medium=rss)
 - [Представлен прототип открытого сервера для мессенджеров Max и «ТамТам»](https://habr.com/ru/news/1008242/?utm_campaign=1008242&utm_source=habrahabr&utm_medium=rss)
-- [«Беспрецедентно и незаконно»: Anthropic подала в суд на администрацию Трампа](https://habr.com/ru/news/1008240/?utm_campaign=1008240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
