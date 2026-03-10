@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Крестный отец ИИ» привлек $1 млрд: ЛеКун строит альтернативу языковым моделям](https://habr.com/ru/news/1008568/?utm_campaign=1008568&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic подала в суд на Пентагон из-за статуса «ненадёжного поставщика»](https://habr.com/ru/companies/bothub/news/1008558/?utm_campaign=1008558&utm_source=habrahabr&utm_medium=rss)
 - [Как собрать ИИ‑бота для Telegram за час с помощью MWS GPT](https://habr.com/ru/companies/mws/news/1008548/?utm_campaign=1008548&utm_source=habrahabr&utm_medium=rss)
 - [VK и АНО «Цифровая экономика» запустили новый сезон проекта «Цифровой ликбез» для школьников](https://habr.com/ru/news/1008550/?utm_campaign=1008550&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: мошенники в мессенджере Max похитили у студентки 3,6 млн рублей и пытались обмануть Главу МЧС Камчатского края](https://habr.com/ru/news/1008546/?utm_campaign=1008546&utm_source=habrahabr&utm_medium=rss)
 - [ITFB Group стала официальным партнёром «Лаборатории Касперского»](https://habr.com/ru/companies/itfb/news/1008508/?utm_campaign=1008508&utm_source=habrahabr&utm_medium=rss)
-- [В Max 100 млн пользователей](https://habr.com/ru/news/1008496/?utm_campaign=1008496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
