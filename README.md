@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [19 марта встречаемся на Backend-митапе](https://habr.com/ru/companies/garage8/news/1007490/?utm_campaign=1007490&utm_source=habrahabr&utm_medium=rss)
-- [Карпати написал ИИ-агента, который ускорил обучение GPT-2 на 11%](https://habr.com/ru/news/1008390/?utm_campaign=1008390&utm_source=habrahabr&utm_medium=rss)
-- [Представлена атака AirSnitch, которая позволяет обойти изоляцию между клиентами в сетях Wi-Fi](https://habr.com/ru/news/1008388/?utm_campaign=1008388&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic добавила в Claude Code автоматическую проверку pull request](https://habr.com/ru/news/1008340/?utm_campaign=1008340&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого видеотранскодера HandBrake 1.11.0](https://habr.com/ru/news/1008082/?utm_campaign=1008082&utm_source=habrahabr&utm_medium=rss)
+- [Новый релиз BPMSoft 1.9: мобильное приложение 2.0, конструктор ИИ-агентов, интеграция с BI INSIGHT, тепловая карта БП](https://habr.com/ru/companies/lansoft_career/news/1006456/?utm_campaign=1006456&utm_source=habrahabr&utm_medium=rss)
+- [Китай подсаживает население на OpenClaw: субсидии, бесплатное проживание и очереди по 1000 человек](https://habr.com/ru/news/1008466/?utm_campaign=1008466&utm_source=habrahabr&utm_medium=rss)
+- [Омни‑модели, синтетика и LLM‑агенты: встречаемся на Saturday ML Party в Петербурге](https://habr.com/ru/companies/yandex/news/1007344/?utm_campaign=1007344&utm_source=habrahabr&utm_medium=rss)
+- [Qualcomm и Arduino представили одноплатный компьютер Ventuno Q для ИИ-систем](https://habr.com/ru/news/1008450/?utm_campaign=1008450&utm_source=habrahabr&utm_medium=rss)
+- [В Китае люди стоят в очереди у штаб-квартиры Tencent для установки OpenClaw на свои ПК](https://habr.com/ru/news/1008462/?utm_campaign=1008462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
