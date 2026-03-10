@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новый релиз BPMSoft 1.9: мобильное приложение 2.0, конструктор ИИ-агентов, интеграция с BI INSIGHT, тепловая карта БП](https://habr.com/ru/companies/lansoft_career/news/1006456/?utm_campaign=1006456&utm_source=habrahabr&utm_medium=rss)
-- [Китай подсаживает население на OpenClaw: субсидии, бесплатное проживание и очереди по 1000 человек](https://habr.com/ru/news/1008466/?utm_campaign=1008466&utm_source=habrahabr&utm_medium=rss)
-- [Омни‑модели, синтетика и LLM‑агенты: встречаемся на Saturday ML Party в Петербурге](https://habr.com/ru/companies/yandex/news/1007344/?utm_campaign=1007344&utm_source=habrahabr&utm_medium=rss)
-- [Qualcomm и Arduino представили одноплатный компьютер Ventuno Q для ИИ-систем](https://habr.com/ru/news/1008450/?utm_campaign=1008450&utm_source=habrahabr&utm_medium=rss)
-- [В Китае люди стоят в очереди у штаб-квартиры Tencent для установки OpenClaw на свои ПК](https://habr.com/ru/news/1008462/?utm_campaign=1008462&utm_source=habrahabr&utm_medium=rss)
+- [В Max 100 млн пользователей](https://habr.com/ru/news/1008496/?utm_campaign=1008496&utm_source=habrahabr&utm_medium=rss)
+- [Вышел XeniOS — эмулятор Xbox 360 для iPhone, iPad и Mac](https://habr.com/ru/news/1008500/?utm_campaign=1008500&utm_source=habrahabr&utm_medium=rss)
+- [K2 Cloud запустил публичную программу поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/1008486/?utm_campaign=1008486&utm_source=habrahabr&utm_medium=rss)
+- [Правительство обсуждает изменения порядка оплаты электроэнергии для дата-центров и майнинга](https://habr.com/ru/news/1008482/?utm_campaign=1008482&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления системы потокового видеовещания OBS Studio 32.1](https://habr.com/ru/news/1008154/?utm_campaign=1008154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
