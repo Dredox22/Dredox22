@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic запустила программу амбассадоров Claude](https://habr.com/ru/companies/bothub/news/1008696/?utm_campaign=1008696&utm_source=habrahabr&utm_medium=rss)
+- [Meta* приобрела Moltbook — первую соцсеть для ИИ-агентов](https://habr.com/ru/news/1008672/?utm_campaign=1008672&utm_source=habrahabr&utm_medium=rss)
 - [В Autodesk Flow Studio появились инструменты для генерации 3D-объектов](https://habr.com/ru/news/1008628/?utm_campaign=1008628&utm_source=habrahabr&utm_medium=rss)
 - [Джефф Дин против Пентагона: главный учёный Google поддержал Anthropic в суде](https://habr.com/ru/news/1008622/?utm_campaign=1008622&utm_source=habrahabr&utm_medium=rss)
 - [Учёные МИСИС запатентовали алюминиевый сплав с высокой сочетанием прочности и пластичности](https://habr.com/ru/news/1008614/?utm_campaign=1008614&utm_source=habrahabr&utm_medium=rss)
-- [ФАС: при блокировке YouTube, VPN-сервисов, Telegram и WhatsApp* реклама там будет запрещена](https://habr.com/ru/news/1008608/?utm_campaign=1008608&utm_source=habrahabr&utm_medium=rss)
-- [Выручка крупнейших операторов связи выросла в 2025 году, но прибыль и инвестиции сократились](https://habr.com/ru/news/1008596/?utm_campaign=1008596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
