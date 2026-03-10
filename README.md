@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как собрать ИИ‑бота для Telegram за час с помощью MWS GPT](https://habr.com/ru/companies/mws/news/1008548/?utm_campaign=1008548&utm_source=habrahabr&utm_medium=rss)
+- [VK и АНО «Цифровая экономика» запустили новый сезон проекта «Цифровой ликбез» для школьников](https://habr.com/ru/news/1008550/?utm_campaign=1008550&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: мошенники в мессенджере Max похитили у студентки 3,6 млн рублей и пытались обмануть Главу МЧС Камчатского края](https://habr.com/ru/news/1008546/?utm_campaign=1008546&utm_source=habrahabr&utm_medium=rss)
+- [ITFB Group стала официальным партнёром «Лаборатории Касперского»](https://habr.com/ru/companies/itfb/news/1008508/?utm_campaign=1008508&utm_source=habrahabr&utm_medium=rss)
 - [В Max 100 млн пользователей](https://habr.com/ru/news/1008496/?utm_campaign=1008496&utm_source=habrahabr&utm_medium=rss)
-- [Вышел XeniOS — эмулятор Xbox 360 для iPhone, iPad и Mac](https://habr.com/ru/news/1008500/?utm_campaign=1008500&utm_source=habrahabr&utm_medium=rss)
-- [K2 Cloud запустил публичную программу поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/1008486/?utm_campaign=1008486&utm_source=habrahabr&utm_medium=rss)
-- [Правительство обсуждает изменения порядка оплаты электроэнергии для дата-центров и майнинга](https://habr.com/ru/news/1008482/?utm_campaign=1008482&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления системы потокового видеовещания OBS Studio 32.1](https://habr.com/ru/news/1008154/?utm_campaign=1008154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
