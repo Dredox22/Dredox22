@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Крестный отец ИИ» привлек $1 млрд: ЛеКун строит альтернативу языковым моделям](https://habr.com/ru/news/1008568/?utm_campaign=1008568&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic подала в суд на Пентагон из-за статуса «ненадёжного поставщика»](https://habr.com/ru/companies/bothub/news/1008558/?utm_campaign=1008558&utm_source=habrahabr&utm_medium=rss)
-- [Как собрать ИИ‑бота для Telegram за час с помощью MWS GPT](https://habr.com/ru/companies/mws/news/1008548/?utm_campaign=1008548&utm_source=habrahabr&utm_medium=rss)
-- [VK и АНО «Цифровая экономика» запустили новый сезон проекта «Цифровой ликбез» для школьников](https://habr.com/ru/news/1008550/?utm_campaign=1008550&utm_source=habrahabr&utm_medium=rss)
-- [ITFB Group стала официальным партнёром «Лаборатории Касперского»](https://habr.com/ru/companies/itfb/news/1008508/?utm_campaign=1008508&utm_source=habrahabr&utm_medium=rss)
+- [Джефф Дин против Пентагона: главный учёный Google поддержал Anthropic в суде](https://habr.com/ru/news/1008622/?utm_campaign=1008622&utm_source=habrahabr&utm_medium=rss)
+- [Учёные МИСИС запатентовали алюминиевый сплав с рекордным сочетанием прочности и пластичности](https://habr.com/ru/news/1008614/?utm_campaign=1008614&utm_source=habrahabr&utm_medium=rss)
+- [ФАС: при блокировке YouTube, VPN-сервисов, Telegram и WhatsApp* реклама там будет запрещена](https://habr.com/ru/news/1008608/?utm_campaign=1008608&utm_source=habrahabr&utm_medium=rss)
+- [Выручка крупнейших операторов связи выросла в 2025 году, но прибыль и инвестиции сократились](https://habr.com/ru/news/1008596/?utm_campaign=1008596&utm_source=habrahabr&utm_medium=rss)
+- [Skaro: Автопилот для выполнения задач](https://habr.com/ru/news/1008594/?utm_campaign=1008594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
