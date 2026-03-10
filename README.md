@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [19 марта встречаемся на Backend-митапе](https://habr.com/ru/companies/garage8/news/1007490/?utm_campaign=1007490&utm_source=habrahabr&utm_medium=rss)
+- [Карпати написал ИИ-агента, который ускорил обучение GPT-2 на 11%](https://habr.com/ru/news/1008390/?utm_campaign=1008390&utm_source=habrahabr&utm_medium=rss)
+- [Представлена атака AirSnitch, которая позволяет обойти изоляцию между клиентами в сетях Wi-Fi](https://habr.com/ru/news/1008388/?utm_campaign=1008388&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic добавила в Claude Code автоматическую проверку pull request](https://habr.com/ru/news/1008340/?utm_campaign=1008340&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого видеотранскодера HandBrake 1.11.0](https://habr.com/ru/news/1008082/?utm_campaign=1008082&utm_source=habrahabr&utm_medium=rss)
-- [ИИ пишет код, но не может его поддерживать: представлен первый CI-бенчмарк для ИИ-агентов](https://habr.com/ru/news/1008296/?utm_campaign=1008296&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Rust Coreutils 0.7.0](https://habr.com/ru/news/1008118/?utm_campaign=1008118&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия свободного 2D САПР LibreCAD 2.2.1.4](https://habr.com/ru/news/1008040/?utm_campaign=1008040&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
