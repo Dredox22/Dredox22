@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic добавила в Claude Code автоматическую проверку pull request](https://habr.com/ru/news/1008340/?utm_campaign=1008340&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого видеотранскодера HandBrake 1.11.0](https://habr.com/ru/news/1008082/?utm_campaign=1008082&utm_source=habrahabr&utm_medium=rss)
 - [ИИ пишет код, но не может его поддерживать: представлен первый CI-бенчмарк для ИИ-агентов](https://habr.com/ru/news/1008296/?utm_campaign=1008296&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Rust Coreutils 0.7.0](https://habr.com/ru/news/1008118/?utm_campaign=1008118&utm_source=habrahabr&utm_medium=rss)
 - [Вышла стабильная версия свободного 2D САПР LibreCAD 2.2.1.4](https://habr.com/ru/news/1008040/?utm_campaign=1008040&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic открыли доступ к Code Review: команда агентов на каждый PR](https://habr.com/ru/news/1008292/?utm_campaign=1008292&utm_source=habrahabr&utm_medium=rss)
-- [«Не верьте нам»: топ-исследователь OpenAI заявил, что судьбу ИИ нельзя решать за закрытыми дверями](https://habr.com/ru/news/1008290/?utm_campaign=1008290&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
