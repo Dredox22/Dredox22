@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung представила Galaxy Vibe Code — новый язык для настройки смартфонов и ИИ‑функций](https://habr.com/ru/companies/bothub/news/1008754/?utm_campaign=1008754&utm_source=habrahabr&utm_medium=rss)
 - [НИИТМ открыл новый Центр проектирования площадью 1520 квадратных метров в Зеленограде](https://habr.com/ru/news/1008736/?utm_campaign=1008736&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запустила программу амбассадоров Claude](https://habr.com/ru/companies/bothub/news/1008696/?utm_campaign=1008696&utm_source=habrahabr&utm_medium=rss)
 - [Meta* приобрела Moltbook — первую соцсеть для ИИ-агентов](https://habr.com/ru/news/1008672/?utm_campaign=1008672&utm_source=habrahabr&utm_medium=rss)
 - [В Autodesk Flow Studio появились инструменты для генерации 3D-объектов](https://habr.com/ru/news/1008628/?utm_campaign=1008628&utm_source=habrahabr&utm_medium=rss)
-- [Джефф Дин против Пентагона: главный учёный Google поддержал Anthropic в суде](https://habr.com/ru/news/1008622/?utm_campaign=1008622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
