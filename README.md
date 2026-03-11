@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI покупает стартап по тестированию безопасности ИИ](https://habr.com/ru/companies/bothub/news/1008842/?utm_campaign=1008842&utm_source=habrahabr&utm_medium=rss)
+- [Акции китайских IT-гигантов взлетели на фоне «разведения лобстеров»](https://habr.com/ru/news/1008838/?utm_campaign=1008838&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект MiroFish — социологическая ИИ-система, которая имитирует цифровое поведение населения стран](https://habr.com/ru/news/1008836/?utm_campaign=1008836&utm_source=habrahabr&utm_medium=rss)
 - [Вышел FreeBSD 14.4](https://habr.com/ru/news/1008432/?utm_campaign=1008432&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект мультиплатформенного музыкального проигрывателя DeaDBeeF](https://habr.com/ru/news/1008350/?utm_campaign=1008350&utm_source=habrahabr&utm_medium=rss)
-- [Год назад Амодеи говорил, что ИИ будет писать 90% кода. Как дела теперь?](https://habr.com/ru/news/1008796/?utm_campaign=1008796&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI снова отложила запуск «взрослого режима» ChatGPT](https://habr.com/ru/news/1008310/?utm_campaign=1008310&utm_source=habrahabr&utm_medium=rss)
-- [Meta* приобрела соцсеть Moltbook для AI-агентов](https://habr.com/ru/companies/bothub/news/1008780/?utm_campaign=1008780&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
