@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Copyright умер, AI против GPL, модели консистентности | Spring АйО Подкаст №54](https://habr.com/ru/companies/spring_aio/news/1008934/?utm_campaign=1008934&utm_source=habrahabr&utm_medium=rss)
-- [Суд обязал «Сбербанк» выплатить 1,445 млрд рублей за нарушение прав на товарный знак PayQR](https://habr.com/ru/news/1008932/?utm_campaign=1008932&utm_source=habrahabr&utm_medium=rss)
-- [Новая техника Zombie ZIP позволяет вредоносному ПО обходить средства защиты](https://habr.com/ru/news/1008918/?utm_campaign=1008918&utm_source=habrahabr&utm_medium=rss)
-- [EQT рассматривает возможность продажи SUSE за $6 млрд](https://habr.com/ru/news/1008908/?utm_campaign=1008908&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12-10.14 до августа 2026 года](https://habr.com/ru/news/1008878/?utm_campaign=1008878&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве ИТ и ИБ за февраль 2026 года](https://habr.com/ru/companies/ussc/news/1007288/?utm_campaign=1007288&utm_source=habrahabr&utm_medium=rss)
+- [В Debian отказались принимать решения по поводу вкладов в код от ИИ](https://habr.com/ru/news/1008970/?utm_campaign=1008970&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-помощник «Атом.Зая» зарегистрирован в Роспатенте и переведён в постоянную эксплуатацию](https://habr.com/ru/companies/greenatom/news/1008972/?utm_campaign=1008972&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» подвёл итоги программы «Охота за ошибками» 2025 и выплатил более 62 млн рублей белым хакерам за уязвимости](https://habr.com/ru/news/1008904/?utm_campaign=1008904&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: состояние Павла Дурова за год сократилось более чем в 2,5 раза](https://habr.com/ru/news/1008968/?utm_campaign=1008968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
