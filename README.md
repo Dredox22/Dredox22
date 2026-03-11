@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Copyright умер, AI против GPL, модели консистентности | Spring АйО Подкаст №54](https://habr.com/ru/companies/spring_aio/news/1008934/?utm_campaign=1008934&utm_source=habrahabr&utm_medium=rss)
+- [Суд обязал «Сбербанк» выплатить 1,445 млрд рублей за нарушение прав на товарный знак PayQR](https://habr.com/ru/news/1008932/?utm_campaign=1008932&utm_source=habrahabr&utm_medium=rss)
+- [Новая техника Zombie ZIP позволяет вредоносному ПО обходить средства защиты](https://habr.com/ru/news/1008918/?utm_campaign=1008918&utm_source=habrahabr&utm_medium=rss)
+- [EQT рассматривает возможность продажи SUSE за $6 млрд](https://habr.com/ru/news/1008908/?utm_campaign=1008908&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12-10.14 до августа 2026 года](https://habr.com/ru/news/1008878/?utm_campaign=1008878&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: GPT-5.4, MacBook на M5 Max и 630 строк, которые автоматизируют ML-ресёрч](https://habr.com/ru/news/1008774/?utm_campaign=1008774&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры продают в даркнете эксплойт нулевого дня для Windows Remote Desktop Services](https://habr.com/ru/news/1008868/?utm_campaign=1008868&utm_source=habrahabr&utm_medium=rss)
-- [Подведены итоги эксперименты с использованием ИИ для исправления и модернизации кодовой базы DNS-сервера BIND 9](https://habr.com/ru/news/1008406/?utm_campaign=1008406&utm_source=habrahabr&utm_medium=rss)
-- [Amazon ввела обязательный ревью ИИ-кода после сбоя на 6 часов](https://habr.com/ru/news/1008860/?utm_campaign=1008860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
