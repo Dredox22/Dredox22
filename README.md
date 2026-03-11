@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI покупает стартап по тестированию безопасности ИИ](https://habr.com/ru/companies/bothub/news/1008842/?utm_campaign=1008842&utm_source=habrahabr&utm_medium=rss)
-- [Акции китайских IT-гигантов взлетели на фоне «разведения лобстеров»](https://habr.com/ru/news/1008838/?utm_campaign=1008838&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект MiroFish — социологическая ИИ-система, которая имитирует цифровое поведение населения стран](https://habr.com/ru/news/1008836/?utm_campaign=1008836&utm_source=habrahabr&utm_medium=rss)
-- [Вышел FreeBSD 14.4](https://habr.com/ru/news/1008432/?utm_campaign=1008432&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект мультиплатформенного музыкального проигрывателя DeaDBeeF](https://habr.com/ru/news/1008350/?utm_campaign=1008350&utm_source=habrahabr&utm_medium=rss)
+- [Подведены итоги эксперименты с использованием ИИ для исправления и модернизации кодовой базы DNS-сервера BIND 9](https://habr.com/ru/news/1008406/?utm_campaign=1008406&utm_source=habrahabr&utm_medium=rss)
+- [Как Amazon уволила 16 тыс. сотрудников, доверила код ИИ — и получила 4 критических сбоя за неделю](https://habr.com/ru/news/1008860/?utm_campaign=1008860&utm_source=habrahabr&utm_medium=rss)
+- [Amazon добилась судебного запрета на использование ИИ-ботов для покупок от Perplexity на своём сайте](https://habr.com/ru/news/1008858/?utm_campaign=1008858&utm_source=habrahabr&utm_medium=rss)
+- [Подписка Claude Max не стоит Anthropic $5000 — просто цены на API завышены до 10 раз](https://habr.com/ru/news/1008852/?utm_campaign=1008852&utm_source=habrahabr&utm_medium=rss)
+- [xAI привлек $20 млрд в раунде Series E с участием Nvidia и Cisco](https://habr.com/ru/companies/bothub/news/1008850/?utm_campaign=1008850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
