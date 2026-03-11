@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ChatGPT появились интерактивные графики для изучения физики и математики](https://habr.com/ru/news/1009020/?utm_campaign=1009020&utm_source=habrahabr&utm_medium=rss)
+- [Хабр приглашает на перезагрузку курса-переписки для не-IT брендов о том, как продвигаться на площадке](https://habr.com/ru/news/1008888/?utm_campaign=1008888&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: нейросети оказались неспособны поддерживать долгосрочную эволюцию кодовой базы](https://habr.com/ru/news/1008980/?utm_campaign=1008980&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia готовит open-source платформу NemoClaw для корпоративных ИИ-агентов](https://habr.com/ru/companies/bothub/news/1008864/?utm_campaign=1008864&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве ИТ и ИБ за февраль 2026 года](https://habr.com/ru/companies/ussc/news/1007288/?utm_campaign=1007288&utm_source=habrahabr&utm_medium=rss)
-- [В Debian отказались принимать решения по поводу вкладов в код от ИИ](https://habr.com/ru/news/1008970/?utm_campaign=1008970&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-помощник «Атом.Зая» зарегистрирован в Роспатенте и переведён в постоянную эксплуатацию](https://habr.com/ru/companies/greenatom/news/1008972/?utm_campaign=1008972&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» подвёл итоги программы «Охота за ошибками» 2025 и выплатил более 62 млн рублей белым хакерам за уязвимости](https://habr.com/ru/news/1008904/?utm_campaign=1008904&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: состояние Павла Дурова за год сократилось более чем в 2,5 раза](https://habr.com/ru/news/1008968/?utm_campaign=1008968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
