@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1009086/?utm_campaign=1009086&utm_source=habrahabr&utm_medium=rss)
+- [Amazon обязал инженеров проверять сгенерированный ИИ-код](https://habr.com/ru/companies/bothub/news/1008862/?utm_campaign=1008862&utm_source=habrahabr&utm_medium=rss)
+- [Бета-тест JavaScript/TypeScript анализатора PVS-Studio](https://habr.com/ru/companies/pvs-studio/news/1009068/?utm_campaign=1009068&utm_source=habrahabr&utm_medium=rss)
 - [Бета-тест Go анализатора PVS-Studio](https://habr.com/ru/companies/pvs-studio/news/1009048/?utm_campaign=1009048&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запускает институт изучения угроз от ИИ](https://habr.com/ru/news/1009046/?utm_campaign=1009046&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит отправку автоматических уведомлений на электронную почту об истечении срока хранения записей Teams](https://habr.com/ru/news/1009038/?utm_campaign=1009038&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI добавила в ChatGPT интерактивные визуализации для STEM-дисциплин как развитие «режима обучения»](https://habr.com/ru/news/1009036/?utm_campaign=1009036&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» открыла ежегодный весенний набор на оплачиваемую стажировку для студентов SafeBoard](https://habr.com/ru/news/1009032/?utm_campaign=1009032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
