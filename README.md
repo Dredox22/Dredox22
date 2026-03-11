@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Authenticator перестанет работать на рутированных устройствах](https://habr.com/ru/news/1008312/?utm_campaign=1008312&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT появились интерактивные визуализации для изучения математики и физики](https://habr.com/ru/companies/bothub/news/1008846/?utm_campaign=1008846&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic помогла обнаружить более десятка серьёзных уязвимостей в Firefox](https://habr.com/ru/news/1008306/?utm_campaign=1008306&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia инвестирует $2 млрд в дата-центры AI-компании Nebius](https://habr.com/ru/companies/bothub/news/1009196/?utm_campaign=1009196&utm_source=habrahabr&utm_medium=rss)
 - [ИИ ставит под угрозу новые языки программирования — и вот почему это замкнутый круг](https://habr.com/ru/news/1009178/?utm_campaign=1009178&utm_source=habrahabr&utm_medium=rss)
-- [Nebius Аркадия Воложа заключила соглашение с Nvidia на $2 млрд](https://habr.com/ru/news/1009148/?utm_campaign=1009148&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» представил сертифицированную ФСБ «ЗАСТАВУ» версии 8 с централизованным управлением на веб-технологии](https://habr.com/ru/companies/solarsecurity/news/1009126/?utm_campaign=1009126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
