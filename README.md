@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic помогла обнаружить более десятка серьёзных уязвимостей в Firefox](https://habr.com/ru/news/1008306/?utm_campaign=1008306&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia инвестирует $2 млрд в дата-центры AI-компании Nebius](https://habr.com/ru/companies/bothub/news/1009196/?utm_campaign=1009196&utm_source=habrahabr&utm_medium=rss)
 - [ИИ ставит под угрозу новые языки программирования — и вот почему это замкнутый круг](https://habr.com/ru/news/1009178/?utm_campaign=1009178&utm_source=habrahabr&utm_medium=rss)
 - [Nebius Аркадия Воложа заключила соглашение с Nvidia на $2 млрд](https://habr.com/ru/news/1009148/?utm_campaign=1009148&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» представил сертифицированную ФСБ «ЗАСТАВУ» версии 8 с централизованным управлением на веб-технологии](https://habr.com/ru/companies/solarsecurity/news/1009126/?utm_campaign=1009126&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе Telegram](https://habr.com/ru/news/1009108/?utm_campaign=1009108&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1009086/?utm_campaign=1009086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
