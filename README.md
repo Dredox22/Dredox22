@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12-10.14 до августа 2026 года](https://habr.com/ru/news/1008878/?utm_campaign=1008878&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: GPT-5.4, MacBook на M5 Max и 630 строк, которые автоматизируют ML-ресёрч](https://habr.com/ru/news/1008774/?utm_campaign=1008774&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры продают в даркнете эксплойт нулевого дня для Windows Remote Desktop Services](https://habr.com/ru/news/1008868/?utm_campaign=1008868&utm_source=habrahabr&utm_medium=rss)
 - [Подведены итоги эксперименты с использованием ИИ для исправления и модернизации кодовой базы DNS-сервера BIND 9](https://habr.com/ru/news/1008406/?utm_campaign=1008406&utm_source=habrahabr&utm_medium=rss)
-- [Как Amazon уволила 16 тыс. сотрудников, доверила код ИИ — и получила 4 критических сбоя за неделю](https://habr.com/ru/news/1008860/?utm_campaign=1008860&utm_source=habrahabr&utm_medium=rss)
-- [Amazon добилась судебного запрета на использование ИИ-ботов для покупок от Perplexity на своём сайте](https://habr.com/ru/news/1008858/?utm_campaign=1008858&utm_source=habrahabr&utm_medium=rss)
-- [Подписка Claude Max не стоит Anthropic $5000 — просто цены на API завышены до 10 раз](https://habr.com/ru/news/1008852/?utm_campaign=1008852&utm_source=habrahabr&utm_medium=rss)
-- [xAI привлек $20 млрд в раунде Series E с участием Nvidia и Cisco](https://habr.com/ru/companies/bothub/news/1008850/?utm_campaign=1008850&utm_source=habrahabr&utm_medium=rss)
+- [Amazon ввела обязательный ревью ИИ-кода после сбоя на 6 часов](https://habr.com/ru/news/1008860/?utm_campaign=1008860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
