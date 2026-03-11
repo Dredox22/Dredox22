@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В ChatGPT появились интерактивные графики для изучения физики и математики](https://habr.com/ru/news/1009020/?utm_campaign=1009020&utm_source=habrahabr&utm_medium=rss)
-- [Хабр приглашает на перезагрузку курса-переписки для не-IT брендов о том, как продвигаться на площадке](https://habr.com/ru/news/1008888/?utm_campaign=1008888&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: нейросети оказались неспособны поддерживать долгосрочную эволюцию кодовой базы](https://habr.com/ru/news/1008980/?utm_campaign=1008980&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia готовит open-source платформу NemoClaw для корпоративных ИИ-агентов](https://habr.com/ru/companies/bothub/news/1008864/?utm_campaign=1008864&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за февраль 2026 года](https://habr.com/ru/companies/ussc/news/1007288/?utm_campaign=1007288&utm_source=habrahabr&utm_medium=rss)
+- [Бета-тест Go анализатора PVS-Studio](https://habr.com/ru/companies/pvs-studio/news/1009048/?utm_campaign=1009048&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic запускает институт изучения угроз от ИИ](https://habr.com/ru/news/1009046/?utm_campaign=1009046&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит отправку автоматических уведомлений на электронную почту об истечении срока хранения записей Teams](https://habr.com/ru/news/1009038/?utm_campaign=1009038&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI добавила в ChatGPT интерактивные визуализации для STEM-дисциплин как развитие «режима обучения»](https://habr.com/ru/news/1009036/?utm_campaign=1009036&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» открыла ежегодный весенний набор на оплачиваемую стажировку для студентов SafeBoard](https://habr.com/ru/news/1009032/?utm_campaign=1009032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
