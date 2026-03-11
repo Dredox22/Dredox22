@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел FreeBSD 14.4](https://habr.com/ru/news/1008432/?utm_campaign=1008432&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект мультиплатформенного музыкального проигрывателя DeaDBeeF](https://habr.com/ru/news/1008350/?utm_campaign=1008350&utm_source=habrahabr&utm_medium=rss)
 - [Год назад Амодеи говорил, что ИИ будет писать 90% кода. Как дела теперь?](https://habr.com/ru/news/1008796/?utm_campaign=1008796&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI снова отложила запуск «взрослого режима» ChatGPT](https://habr.com/ru/news/1008310/?utm_campaign=1008310&utm_source=habrahabr&utm_medium=rss)
 - [Meta* приобрела соцсеть Moltbook для AI-агентов](https://habr.com/ru/companies/bothub/news/1008780/?utm_campaign=1008780&utm_source=habrahabr&utm_medium=rss)
-- [Samsung представила Galaxy Vibe Code — новый язык для настройки смартфонов и ИИ‑функций](https://habr.com/ru/companies/bothub/news/1008754/?utm_campaign=1008754&utm_source=habrahabr&utm_medium=rss)
-- [НИИТМ открыл новый Центр проектирования площадью 1520 квадратных метров в Зеленограде](https://habr.com/ru/news/1008736/?utm_campaign=1008736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
