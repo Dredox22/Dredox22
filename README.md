@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google обучит ИИ для борьбы с суперинфекциями](https://habr.com/ru/news/1009428/?utm_campaign=1009428&utm_source=habrahabr&utm_medium=rss)
-- [Депутат Свинцов: Telegram не будет работать в России даже с VPN](https://habr.com/ru/news/1009416/?utm_campaign=1009416&utm_source=habrahabr&utm_medium=rss)
-- [Cursor добавил больше 30 новых плагинов в свой маркетплейс](https://habr.com/ru/news/1009412/?utm_campaign=1009412&utm_source=habrahabr&utm_medium=rss)
-- [Правительство обсуждает разрешение использовать защищённый контент для обучения ИИ без согласия авторов](https://habr.com/ru/news/1009410/?utm_campaign=1009410&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Яндекс» заявил об отсутствии случаев удалённого взлома своих умных колонок](https://habr.com/ru/news/1009398/?utm_campaign=1009398&utm_source=habrahabr&utm_medium=rss)
+- [«Микрон» выпустила отладочный набор «Игровая консоль» на базе российского микроконтроллера MIK32 «Амур»](https://habr.com/ru/news/1009466/?utm_campaign=1009466&utm_source=habrahabr&utm_medium=rss)
+- [«Режим Xbox» появится на каждом ПК с Windows 11, а Project Helix станет доступна тестерам в 2027 году](https://habr.com/ru/news/1009460/?utm_campaign=1009460&utm_source=habrahabr&utm_medium=rss)
+- [Владельцы ПВЗ пожаловались «Яндекс Маркету» на взломы аккаунтов и фиктивные возвраты товаров](https://habr.com/ru/news/1009454/?utm_campaign=1009454&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Миры Мурати получит 1 ГВт мощностей от Nvidia](https://habr.com/ru/news/1009446/?utm_campaign=1009446&utm_source=habrahabr&utm_medium=rss)
+- [26 марта приглашаем на AntiDDoS Meetup Wildberries &amp;amp; Russ](https://habr.com/ru/companies/wildberries/news/1009438/?utm_campaign=1009438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
