@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TrueNAS прекратил поддержку своего общедоступного репозитория на GitHub](https://habr.com/ru/news/1009320/?utm_campaign=1009320&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт по ИБ: Telegram может обойти блокировку, если мессенджер заработает в Mesh-сети через Bluetooth и Wi-Fi](https://habr.com/ru/news/1009322/?utm_campaign=1009322&utm_source=habrahabr&utm_medium=rss)
 - [В Швейцарии проект электронного голосования провалился из-за расшифровки протоколов USB-ключами](https://habr.com/ru/news/1009316/?utm_campaign=1009316&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity представила облачного ИИ-агента для компьютеров Apple Mac mini](https://habr.com/ru/companies/bothub/news/1009314/?utm_campaign=1009314&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть «Алиса» в умных устройствах «Яндекса» теперь работает на продвинутой ИИ‑модели](https://habr.com/ru/news/1009302/?utm_campaign=1009302&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обнаружили ботнет из 14 тысяч роутеров Asus](https://habr.com/ru/news/1009298/?utm_campaign=1009298&utm_source=habrahabr&utm_medium=rss)
-- [Google представила Gemini Embedding 2 — нейросеть для поиска и сопоставления текста, изображений, видео и аудио](https://habr.com/ru/companies/bothub/news/1009292/?utm_campaign=1009292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
