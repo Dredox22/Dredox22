@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Швейцарии проект электронного голосования провалился из-за расшифровки протоколов USB-ключами](https://habr.com/ru/news/1009316/?utm_campaign=1009316&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity представила облачного ИИ-агента для компьютеров Apple Mac mini](https://habr.com/ru/companies/bothub/news/1009314/?utm_campaign=1009314&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть «Алиса» в умных устройствах «Яндекса» теперь работает на продвинутой ИИ‑модели](https://habr.com/ru/news/1009302/?utm_campaign=1009302&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи обнаружили ботнет из 14 тысяч роутеров Asus](https://habr.com/ru/news/1009298/?utm_campaign=1009298&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Gemini Embedding 2 — нейросеть для поиска и сопоставления текста, изображений, видео и аудио](https://habr.com/ru/companies/bothub/news/1009292/?utm_campaign=1009292&utm_source=habrahabr&utm_medium=rss)
-- [Новый инструмент редактирования Canva добавляет слои к ИИ-дизайнам](https://habr.com/ru/news/1009290/?utm_campaign=1009290&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Карты теперь удобнее для людей на инвалидных колясках](https://habr.com/ru/companies/yandex/news/1009200/?utm_campaign=1009200&utm_source=habrahabr&utm_medium=rss)
-- [Всероссийский Марафон полезных игр: погружение в космические технологии](https://habr.com/ru/news/1009272/?utm_campaign=1009272&utm_source=habrahabr&utm_medium=rss)
-- [Создатели Jira сокращают 1600 человек: ИИ меняет «микс навыков»](https://habr.com/ru/news/1009260/?utm_campaign=1009260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
