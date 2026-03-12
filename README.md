@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ушел из жизни сэр Тони Хоар: создатель Quicksort, автор логики Хоара и «ошибки на миллиард долларов»](https://habr.com/ru/news/1009392/?utm_campaign=1009392&utm_source=habrahabr&utm_medium=rss)
-- [Онлайн-конференция «Новый взгляд на PDF. От редактирования к смыслу»](https://habr.com/ru/companies/contentai/news/1009380/?utm_campaign=1009380&utm_source=habrahabr&utm_medium=rss)
-- [Утечки данных теряют прозрачность](https://habr.com/ru/companies/infowatch/news/1009374/?utm_campaign=1009374&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе Telegram](https://habr.com/ru/news/1009358/?utm_campaign=1009358&utm_source=habrahabr&utm_medium=rss)
-- [TrueNAS прекратил поддержку своего общедоступного репозитория на GitHub](https://habr.com/ru/news/1009320/?utm_campaign=1009320&utm_source=habrahabr&utm_medium=rss)
+- [Google обучит ИИ для борьбы с суперинфекциями](https://habr.com/ru/news/1009428/?utm_campaign=1009428&utm_source=habrahabr&utm_medium=rss)
+- [Депутат Свинцов: Telegram не будет работать в России даже с VPN](https://habr.com/ru/news/1009416/?utm_campaign=1009416&utm_source=habrahabr&utm_medium=rss)
+- [Cursor добавил больше 30 новых плагинов в свой маркетплейс](https://habr.com/ru/news/1009412/?utm_campaign=1009412&utm_source=habrahabr&utm_medium=rss)
+- [Правительство обсуждает разрешение использовать защищённый контент для обучения ИИ без согласия авторов](https://habr.com/ru/news/1009410/?utm_campaign=1009410&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Яндекс» заявил об отсутствии случаев удалённого взлома своих умных колонок](https://habr.com/ru/news/1009398/?utm_campaign=1009398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
