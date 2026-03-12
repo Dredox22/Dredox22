@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление SimpleOne ITSM 1.20.1: семь ключевых улучшений в запросах на изменение](https://habr.com/ru/companies/simpleone/news/1009524/?utm_campaign=1009524&utm_source=habrahabr&utm_medium=rss)
 - [Panasonic извинилась перед японскими покупателями из-за дефицита флагманских Blu-ray-рекордеров DMR-ZR1](https://habr.com/ru/news/1009502/?utm_campaign=1009502&utm_source=habrahabr&utm_medium=rss)
 - [В OpenIDE появился импорт настроек из JetBrains IDE и VS Code при первом запуске](https://habr.com/ru/companies/haulmont/news/1009476/?utm_campaign=1009476&utm_source=habrahabr&utm_medium=rss)
 - [«Микрон» выпустила отладочный набор «Игровая консоль» на базе российского микроконтроллера MIK32 «Амур»](https://habr.com/ru/news/1009466/?utm_campaign=1009466&utm_source=habrahabr&utm_medium=rss)
 - [«Режим Xbox» появится на каждом ПК с Windows 11, а Project Helix станет доступна тестерам в 2027 году](https://habr.com/ru/news/1009460/?utm_campaign=1009460&utm_source=habrahabr&utm_medium=rss)
-- [Владельцы ПВЗ пожаловались «Яндекс Маркету» на взломы аккаунтов и фиктивные возвраты товаров](https://habr.com/ru/news/1009454/?utm_campaign=1009454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
