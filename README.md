@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Как OpenClaw, но лучше»: Nvidia готовит платформу для ИИ-агентов](https://habr.com/ru/news/1009252/?utm_campaign=1009252&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект ffmpeg-over-ip](https://habr.com/ru/news/1009054/?utm_campaign=1009054&utm_source=habrahabr&utm_medium=rss)
+- [Пресс‑секретарь президента РФ перечислил условия, при которых Telegram избежит блокировки](https://habr.com/ru/news/1009250/?utm_campaign=1009250&utm_source=habrahabr&utm_medium=rss)
 - [Вышел проект Winslop WinUI3 Release III для удаления ненужного системного мусора в Windows 10/11](https://habr.com/ru/news/1009182/?utm_campaign=1009182&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Яндекс Такси» предлагает москвичам заказывать такси по телефону, а оплачивать наличными](https://habr.com/ru/news/1009236/?utm_campaign=1009236&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск HomeBank 5.10 — открытого проекта для ведения личной бухгалтерии](https://habr.com/ru/news/1008570/?utm_campaign=1008570&utm_source=habrahabr&utm_medium=rss)
-- [Claude уже пишет до 90% кода своих будущих версий — и в Anthropic говорят, что это только начало](https://habr.com/ru/news/1009220/?utm_campaign=1009220&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Authenticator перестанет работать на рутированных устройствах](https://habr.com/ru/news/1008312/?utm_campaign=1008312&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
