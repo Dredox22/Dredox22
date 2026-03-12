@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел проект Winslop WinUI3 Release III для удаления ненужного системного мусора в Windows 10/11](https://habr.com/ru/news/1009182/?utm_campaign=1009182&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Яндекс Такси» предлагает москвичам заказывать такси по телефону, а оплачивать наличными](https://habr.com/ru/news/1009236/?utm_campaign=1009236&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск HomeBank 5.10 — открытого проекта для ведения личной бухгалтерии](https://habr.com/ru/news/1008570/?utm_campaign=1008570&utm_source=habrahabr&utm_medium=rss)
 - [Claude уже пишет до 90% кода своих будущих версий — и в Anthropic говорят, что это только начало](https://habr.com/ru/news/1009220/?utm_campaign=1009220&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Authenticator перестанет работать на рутированных устройствах](https://habr.com/ru/news/1008312/?utm_campaign=1008312&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появились интерактивные визуализации для изучения математики и физики](https://habr.com/ru/companies/bothub/news/1008846/?utm_campaign=1008846&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic помогла обнаружить более десятка серьёзных уязвимостей в Firefox](https://habr.com/ru/news/1008306/?utm_campaign=1008306&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia инвестирует $2 млрд в дата-центры AI-компании Nebius](https://habr.com/ru/companies/bothub/news/1009196/?utm_campaign=1009196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
