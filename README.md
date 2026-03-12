@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ушел из жизни сэр Тони Хоар: создатель Quicksort, автор логики Хоара и «ошибки на миллиард долларов»](https://habr.com/ru/news/1009392/?utm_campaign=1009392&utm_source=habrahabr&utm_medium=rss)
+- [Онлайн-конференция «Новый взгляд на PDF. От редактирования к смыслу»](https://habr.com/ru/companies/contentai/news/1009380/?utm_campaign=1009380&utm_source=habrahabr&utm_medium=rss)
+- [Утечки данных теряют прозрачность](https://habr.com/ru/companies/infowatch/news/1009374/?utm_campaign=1009374&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе Telegram](https://habr.com/ru/news/1009358/?utm_campaign=1009358&utm_source=habrahabr&utm_medium=rss)
 - [TrueNAS прекратил поддержку своего общедоступного репозитория на GitHub](https://habr.com/ru/news/1009320/?utm_campaign=1009320&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт по ИБ: Telegram может обойти блокировку, если мессенджер заработает в Mesh-сети через Bluetooth и Wi-Fi](https://habr.com/ru/news/1009322/?utm_campaign=1009322&utm_source=habrahabr&utm_medium=rss)
-- [В Швейцарии проект электронного голосования провалился из-за расшифровки протоколов USB-ключами](https://habr.com/ru/news/1009316/?utm_campaign=1009316&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity представила облачного ИИ-агента для компьютеров Apple Mac mini](https://habr.com/ru/companies/bothub/news/1009314/?utm_campaign=1009314&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть «Алиса» в умных устройствах «Яндекса» теперь работает на продвинутой ИИ‑модели](https://habr.com/ru/news/1009302/?utm_campaign=1009302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
