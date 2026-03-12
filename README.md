@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила Gemini Embedding 2 — нейросеть для поиска и сопоставления текста, изображений, видео и аудио](https://habr.com/ru/companies/bothub/news/1009292/?utm_campaign=1009292&utm_source=habrahabr&utm_medium=rss)
+- [Новый инструмент редактирования Canva добавляет слои к ИИ-дизайнам](https://habr.com/ru/news/1009290/?utm_campaign=1009290&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Карты теперь удобнее для людей на инвалидных колясках](https://habr.com/ru/companies/yandex/news/1009200/?utm_campaign=1009200&utm_source=habrahabr&utm_medium=rss)
+- [Всероссийский Марафон полезных игр: погружение в космические технологии](https://habr.com/ru/news/1009272/?utm_campaign=1009272&utm_source=habrahabr&utm_medium=rss)
 - [Создатели Jira сокращают 1600 человек: ИИ меняет «микс навыков»](https://habr.com/ru/news/1009260/?utm_campaign=1009260&utm_source=habrahabr&utm_medium=rss)
-- [«Как OpenClaw, но лучше»: Nvidia готовит платформу для ИИ-агентов](https://habr.com/ru/news/1009252/?utm_campaign=1009252&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект ffmpeg-over-ip](https://habr.com/ru/news/1009054/?utm_campaign=1009054&utm_source=habrahabr&utm_medium=rss)
-- [Пресс‑секретарь президента РФ перечислил условия, при которых Telegram избежит блокировки](https://habr.com/ru/news/1009250/?utm_campaign=1009250&utm_source=habrahabr&utm_medium=rss)
-- [Вышел проект Winslop WinUI3 Release III для удаления ненужного системного мусора в Windows 10/11](https://habr.com/ru/news/1009182/?utm_campaign=1009182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
