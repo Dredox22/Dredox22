@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Четверо вместо тридцати пяти: российские ИТ-платформы от Диасофт снижают стоимость разработки](https://habr.com/ru/companies/diasoft_company/news/1009850/?utm_campaign=1009850&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик вместо заказа в Chipotle попросил чат-бота помочь с кодом](https://habr.com/ru/news/1009830/?utm_campaign=1009830&utm_source=habrahabr&utm_medium=rss)
 - [ЛидерТаск: обновление веб-версии — интеграция с Todoist, импорт ICS и переработанный раздел «Входящие»](https://habr.com/ru/companies/leadertask/news/1009812/?utm_campaign=1009812&utm_source=habrahabr&utm_medium=rss)
-- [АМОР: в РФ новых монтажников больше нет](https://habr.com/ru/news/1009810/?utm_campaign=1009810&utm_source=habrahabr&utm_medium=rss)
 - [Google подвела итоги программы баг-баунти](https://habr.com/ru/news/1009806/?utm_campaign=1009806&utm_source=habrahabr&utm_medium=rss)
-- [ЛидерТаск 1.5.2: быстрее, новые виджеты и улучшенный раздел «Входящие»](https://habr.com/ru/companies/leadertask/news/1009804/?utm_campaign=1009804&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик ИИ-гаджета R1 раскрыл название своего нового проекта — нетбука Cyberdeck для вайбкодинга](https://habr.com/ru/news/1009798/?utm_campaign=1009798&utm_source=habrahabr&utm_medium=rss)
+- [АМОР: в РФ новых монтажников больше нет](https://habr.com/ru/news/1009810/?utm_campaign=1009810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
