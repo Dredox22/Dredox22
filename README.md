@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-стартап Memvid ищет Professional AI Bully — профессионального критика ИИ-чат-ботов за $800 в рабочий день](https://habr.com/ru/news/1009672/?utm_campaign=1009672&utm_source=habrahabr&utm_medium=rss)
-- [«В США не любят ИИ» — Сэм Альтман считает это проблемой](https://habr.com/ru/news/1009668/?utm_campaign=1009668&utm_source=habrahabr&utm_medium=rss)
-- [Meta* отложила ИИ-модель Avocado: она проиграла Google и OpenAI на внутренних тестах](https://habr.com/ru/news/1009660/?utm_campaign=1009660&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пиринговый видеохостинг PeerTube 8.1](https://habr.com/ru/news/1009254/?utm_campaign=1009254&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Sigil 2.7.5 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/1009264/?utm_campaign=1009264&utm_source=habrahabr&utm_medium=rss)
+- [Tinder начал проводить офлайн-мероприятия для привлечения аудитории](https://habr.com/ru/news/1009724/?utm_campaign=1009724&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: некоторые Android‑смартфоны с чипами MediaTek можно взломать за 45 секунд без включения устройства](https://habr.com/ru/news/1009714/?utm_campaign=1009714&utm_source=habrahabr&utm_medium=rss)
+- [В РКН отказались комментировать заявление депутата Свинцова, что Telegram не будет работать в России даже с VPN](https://habr.com/ru/news/1009712/?utm_campaign=1009712&utm_source=habrahabr&utm_medium=rss)
+- [Google внедрила функцию повышения производительности для ускорения работы смартфонов](https://habr.com/ru/news/1009708/?utm_campaign=1009708&utm_source=habrahabr&utm_medium=rss)
+- [Релиз утилиты curl 8.19](https://habr.com/ru/news/1009696/?utm_campaign=1009696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
