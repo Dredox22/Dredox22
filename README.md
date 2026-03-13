@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia представила открытую модель Nemotron 3 Super](https://habr.com/ru/companies/bothub/news/1009970/?utm_campaign=1009970&utm_source=habrahabr&utm_medium=rss)
+- [Представлено тестирование Counter- Strike 1.6 в браузере](https://habr.com/ru/news/1009964/?utm_campaign=1009964&utm_source=habrahabr&utm_medium=rss)
 - [Tinder пытается «починить» дейтинг-приложения с помощью искусственного интеллекта](https://habr.com/ru/companies/technokratos/news/1009936/?utm_campaign=1009936&utm_source=habrahabr&utm_medium=rss)
 - [Apple анонсировала снижение комиссии в App Store с 30 до 25% в Китае](https://habr.com/ru/news/1009934/?utm_campaign=1009934&utm_source=habrahabr&utm_medium=rss)
 - [Как пройти модерацию мини‑приложения в VK с первого раза](https://habr.com/ru/companies/doubletapp/news/1009470/?utm_campaign=1009470&utm_source=habrahabr&utm_medium=rss)
-- [Четверо вместо тридцати пяти: российские ИТ-платформы от Диасофт снижают стоимость разработки](https://habr.com/ru/companies/diasoft_company/news/1009850/?utm_campaign=1009850&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик вместо заказа в Chipotle попросил чат-бота помочь с кодом](https://habr.com/ru/news/1009830/?utm_campaign=1009830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
