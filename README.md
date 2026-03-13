@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «Управляемые обновления и безопасная цепочка поставок с Axiom JDK и Ginc»](https://habr.com/ru/companies/axiomjdk/news/1009760/?utm_campaign=1009760&utm_source=habrahabr&utm_medium=rss)
+- [MIT: игроки в Pokémon Go обучили роботов-доставщиков](https://habr.com/ru/news/1009758/?utm_campaign=1009758&utm_source=habrahabr&utm_medium=rss)
+- [Представлено веб-приложение для просмотра YouTube как ТВ](https://habr.com/ru/news/1009738/?utm_campaign=1009738&utm_source=habrahabr&utm_medium=rss)
 - [В Москве вырос спрос на рации и бумажные карты на фоне перебоев с мобильным интернетом](https://habr.com/ru/news/1009740/?utm_campaign=1009740&utm_source=habrahabr&utm_medium=rss)
 - [Tinder начал проводить офлайн-мероприятия для привлечения аудитории](https://habr.com/ru/news/1009724/?utm_campaign=1009724&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: некоторые Android‑смартфоны с чипами MediaTek можно взломать за 45 секунд без включения устройства](https://habr.com/ru/news/1009714/?utm_campaign=1009714&utm_source=habrahabr&utm_medium=rss)
-- [В РКН отказались комментировать заявление депутата Свинцова, что Telegram не будет работать в России даже с VPN](https://habr.com/ru/news/1009712/?utm_campaign=1009712&utm_source=habrahabr&utm_medium=rss)
-- [Google внедрила функцию повышения производительности для ускорения работы смартфонов](https://habr.com/ru/news/1009708/?utm_campaign=1009708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
