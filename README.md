@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар «Управляемые обновления и безопасная цепочка поставок с Axiom JDK и Ginc»](https://habr.com/ru/companies/axiomjdk/news/1009760/?utm_campaign=1009760&utm_source=habrahabr&utm_medium=rss)
-- [MIT: игроки в Pokémon Go обучили роботов-доставщиков](https://habr.com/ru/news/1009758/?utm_campaign=1009758&utm_source=habrahabr&utm_medium=rss)
-- [Представлено веб-приложение для просмотра YouTube как ТВ](https://habr.com/ru/news/1009738/?utm_campaign=1009738&utm_source=habrahabr&utm_medium=rss)
-- [В Москве вырос спрос на рации и бумажные карты на фоне перебоев с мобильным интернетом](https://habr.com/ru/news/1009740/?utm_campaign=1009740&utm_source=habrahabr&utm_medium=rss)
-- [Tinder начал проводить офлайн-мероприятия для привлечения аудитории](https://habr.com/ru/news/1009724/?utm_campaign=1009724&utm_source=habrahabr&utm_medium=rss)
+- [ЛидерТаск: обновление веб-версии — интеграция с Todoist, импорт ICS и переработанный раздел «Входящие»](https://habr.com/ru/companies/leadertask/news/1009812/?utm_campaign=1009812&utm_source=habrahabr&utm_medium=rss)
+- [АМОР: в РФ новых монтажников больше нет](https://habr.com/ru/news/1009810/?utm_campaign=1009810&utm_source=habrahabr&utm_medium=rss)
+- [Google подвела итоги программы баг-баунти](https://habr.com/ru/news/1009806/?utm_campaign=1009806&utm_source=habrahabr&utm_medium=rss)
+- [ЛидерТаск 1.5.2: быстрее, новые виджеты и улучшенный раздел «Входящие»](https://habr.com/ru/companies/leadertask/news/1009804/?utm_campaign=1009804&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик ИИ-гаджета R1 раскрыл название своего нового проекта — нетбука Cyberdeck для вайбкодинга](https://habr.com/ru/news/1009798/?utm_campaign=1009798&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
