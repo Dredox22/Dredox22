@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Москве вырос спрос на рации и бумажные карты на фоне перебоев с мобильным интернетом](https://habr.com/ru/news/1009740/?utm_campaign=1009740&utm_source=habrahabr&utm_medium=rss)
 - [Tinder начал проводить офлайн-мероприятия для привлечения аудитории](https://habr.com/ru/news/1009724/?utm_campaign=1009724&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: некоторые Android‑смартфоны с чипами MediaTek можно взломать за 45 секунд без включения устройства](https://habr.com/ru/news/1009714/?utm_campaign=1009714&utm_source=habrahabr&utm_medium=rss)
 - [В РКН отказались комментировать заявление депутата Свинцова, что Telegram не будет работать в России даже с VPN](https://habr.com/ru/news/1009712/?utm_campaign=1009712&utm_source=habrahabr&utm_medium=rss)
 - [Google внедрила функцию повышения производительности для ускорения работы смартфонов](https://habr.com/ru/news/1009708/?utm_campaign=1009708&utm_source=habrahabr&utm_medium=rss)
-- [Релиз утилиты curl 8.19](https://habr.com/ru/news/1009696/?utm_campaign=1009696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
