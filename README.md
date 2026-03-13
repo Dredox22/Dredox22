@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-стартап Memvid ищет Professional AI Bully — профессионального критика ИИ-чат-ботов за $800 в рабочий день](https://habr.com/ru/news/1009672/?utm_campaign=1009672&utm_source=habrahabr&utm_medium=rss)
+- [«В США не любят ИИ» — Сэм Альтман считает это проблемой](https://habr.com/ru/news/1009668/?utm_campaign=1009668&utm_source=habrahabr&utm_medium=rss)
+- [Meta* отложила ИИ-модель Avocado: она проиграла Google и OpenAI на внутренних тестах](https://habr.com/ru/news/1009660/?utm_campaign=1009660&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пиринговый видеохостинг PeerTube 8.1](https://habr.com/ru/news/1009254/?utm_campaign=1009254&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Sigil 2.7.5 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/1009264/?utm_campaign=1009264&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Kitty Terminal 0.46](https://habr.com/ru/news/1009092/?utm_campaign=1009092&utm_source=habrahabr&utm_medium=rss)
-- [Google убрала функцию биометрической аутентификации в приложении Find Hub](https://habr.com/ru/news/1009632/?utm_campaign=1009632&utm_source=habrahabr&utm_medium=rss)
-- [«Claude купил мне машину»: разработчик натравил ИИ на 20 дилеров — и получил скидку $2 000](https://habr.com/ru/news/1009600/?utm_campaign=1009600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
