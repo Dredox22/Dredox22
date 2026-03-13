@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude ведет себя хорошо, пока за ним наблюдают: METR нашла проблему в тестах Anthropic](https://habr.com/ru/news/1010068/?utm_campaign=1010068&utm_source=habrahabr&utm_medium=rss)
+- [Корабельные двигатели и самолетные турбины: как ИИ-компании собирают электростанции для GPU](https://habr.com/ru/news/1010054/?utm_campaign=1010054&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 4.6 и Sonnet 4.6 получили окно в 1M токенов без наценки](https://habr.com/ru/news/1010044/?utm_campaign=1010044&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Карты»: почти два миллиона москвичей скачали офлайн-карту столицы за неделю](https://habr.com/ru/news/1010016/?utm_campaign=1010016&utm_source=habrahabr&utm_medium=rss)
 - [OpenJarvis: фреймворк все-в-одном для ИИ-агентов](https://habr.com/ru/companies/bothub/news/1010008/?utm_campaign=1010008&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила открытую модель Nemotron 3 Super](https://habr.com/ru/companies/bothub/news/1009970/?utm_campaign=1009970&utm_source=habrahabr&utm_medium=rss)
-- [Представлено тестирование Counter- Strike 1.6 в браузере](https://habr.com/ru/news/1009964/?utm_campaign=1009964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
