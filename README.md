@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google убрала функцию биометрической аутентификации в приложении Find Hub](https://habr.com/ru/news/1009632/?utm_campaign=1009632&utm_source=habrahabr&utm_medium=rss)
 - [«Claude купил мне машину»: разработчик натравил ИИ на 20 дилеров — и получил скидку $2 000](https://habr.com/ru/news/1009600/?utm_campaign=1009600&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «Создатели приложения „Телега“ получили 200 млн рублей и внесли в свой устав пункт о сделках с VK»](https://habr.com/ru/news/1009594/?utm_campaign=1009594&utm_source=habrahabr&utm_medium=rss)
 - [Claude рисует диаграммы прямо в чате — и это не генерация картинок, а кое-что круче](https://habr.com/ru/news/1009572/?utm_campaign=1009572&utm_source=habrahabr&utm_medium=rss)
 - [Обновление SimpleOne ITSM 1.20.1: семь ключевых улучшений в запросах на изменение](https://habr.com/ru/companies/simpleone/news/1009524/?utm_campaign=1009524&utm_source=habrahabr&utm_medium=rss)
-- [Panasonic извинилась перед японскими покупателями из-за дефицита флагманских Blu-ray-рекордеров DMR-ZR1](https://habr.com/ru/news/1009502/?utm_campaign=1009502&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
