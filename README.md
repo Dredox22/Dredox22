@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Илон Маск уволил еще 2-х сооснователей xAI](https://habr.com/ru/companies/bothub/news/1010242/?utm_campaign=1010242&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начинает масштабную ИИ-экспансию в Африке](https://habr.com/ru/companies/bothub/news/1010234/?utm_campaign=1010234&utm_source=habrahabr&utm_medium=rss)
 - [Почему конференции умирают и для чего мы делаем свою? Часть I](https://habr.com/ru/news/1010210/?utm_campaign=1010210&utm_source=habrahabr&utm_medium=rss)
 - [В Китае начали разработку стандартов для автономных ИИ-агентов](https://habr.com/ru/companies/bothub/news/1010226/?utm_campaign=1010226&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance перезапустила DeerFlow](https://habr.com/ru/companies/bothub/news/1010224/?utm_campaign=1010224&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Telega ограничила вход новых пользователей](https://habr.com/ru/news/1010208/?utm_campaign=1010208&utm_source=habrahabr&utm_medium=rss)
-- [Математик создал задачу, неподвластную ИИ. GPT-5.4 ее решила](https://habr.com/ru/news/1010196/?utm_campaign=1010196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
