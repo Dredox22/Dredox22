@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ФБР провело расследование и нашло вирусы в Steam](https://habr.com/ru/news/1010180/?utm_campaign=1010180&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запросил у РКН и ФАС разъяснения относительно рекламы в Telegram](https://habr.com/ru/news/1010172/?utm_campaign=1010172&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 146](https://habr.com/ru/news/1010092/?utm_campaign=1010092&utm_source=habrahabr&utm_medium=rss)
 - [Instagram** откажется от сквозного шифрования личных сообщений с 8 мая](https://habr.com/ru/news/1010166/?utm_campaign=1010166&utm_source=habrahabr&utm_medium=rss)
 - [На ресурсах Backblaze разместили 314 триллионов цифр числа Пи](https://habr.com/ru/news/1010142/?utm_campaign=1010142&utm_source=habrahabr&utm_medium=rss)
-- [Пока Anthropic и OpenAI ссорятся из-за контракта с Пентагоном, Google тихо занимает их место](https://habr.com/ru/news/1010146/?utm_campaign=1010146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
