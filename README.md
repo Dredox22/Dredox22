@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение Telega ограничила вход новых пользователей](https://habr.com/ru/news/1010208/?utm_campaign=1010208&utm_source=habrahabr&utm_medium=rss)
 - [Математик создал задачу, неподвластную ИИ. GPT-5.4 ее решила](https://habr.com/ru/news/1010196/?utm_campaign=1010196&utm_source=habrahabr&utm_medium=rss)
 - [16 тыс человек за дверь: Meta* уволит 20% сотрудников из-за ИИ](https://habr.com/ru/news/1010192/?utm_campaign=1010192&utm_source=habrahabr&utm_medium=rss)
 - [ФБР провело расследование и нашло вирусы в Steam](https://habr.com/ru/news/1010180/?utm_campaign=1010180&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запросил у РКН и ФАС разъяснения относительно рекламы в Telegram](https://habr.com/ru/news/1010172/?utm_campaign=1010172&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 146](https://habr.com/ru/news/1010092/?utm_campaign=1010092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
