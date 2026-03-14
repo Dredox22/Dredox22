@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открытое бета-тестирование Digg завершили через два месяца из-за спам-ботов с ИИ](https://habr.com/ru/news/1010128/?utm_campaign=1010128&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.5](https://habr.com/ru/news/1010020/?utm_campaign=1010020&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.1](https://habr.com/ru/news/1009580/?utm_campaign=1009580&utm_source=habrahabr&utm_medium=rss)
 - [Одна покупка даёт доступ к игре на Android и Windows одновременно: Google рассказала об обновлениях Play Store](https://habr.com/ru/news/1010042/?utm_campaign=1010042&utm_source=habrahabr&utm_medium=rss)
 - [В онлайн-версиях Word, Excel и PowerPoint появился поиск в верхней части страницы](https://habr.com/ru/news/1010038/?utm_campaign=1010038&utm_source=habrahabr&utm_medium=rss)
-- [Claude ведет себя хорошо, пока за ним наблюдают: METR нашла проблему в тестах Anthropic](https://habr.com/ru/news/1010068/?utm_campaign=1010068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
