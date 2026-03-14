@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google представила крупнейшее обновление Maps](https://habr.com/ru/companies/bothub/news/1010254/?utm_campaign=1010254&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе Telegram в РФ](https://habr.com/ru/news/1010268/?utm_campaign=1010268&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Головная компания ГК „Солар“ завершила 2025 год с убытком в 664,5 млн рублей»](https://habr.com/ru/news/1010264/?utm_campaign=1010264&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск уволил еще 2-х сооснователей xAI](https://habr.com/ru/companies/bothub/news/1010242/?utm_campaign=1010242&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начинает масштабную ИИ-экспансию в Африке](https://habr.com/ru/companies/bothub/news/1010234/?utm_campaign=1010234&utm_source=habrahabr&utm_medium=rss)
-- [Почему конференции умирают и для чего мы делаем свою? Часть I](https://habr.com/ru/news/1010210/?utm_campaign=1010210&utm_source=habrahabr&utm_medium=rss)
-- [В Китае начали разработку стандартов для автономных ИИ-агентов](https://habr.com/ru/companies/bothub/news/1010226/?utm_campaign=1010226&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance перезапустила DeerFlow](https://habr.com/ru/companies/bothub/news/1010224/?utm_campaign=1010224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
