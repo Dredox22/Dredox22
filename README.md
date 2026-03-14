@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity объявила о расширении поддержки Steam, Linux, Steam Deck и Steam Machine](https://habr.com/ru/news/1010318/?utm_campaign=1010318&utm_source=habrahabr&utm_medium=rss)
 - [Пентагон показал ИИ, которым бомбит Иран. В тестах он путал грузовик с деревом](https://habr.com/ru/news/1010292/?utm_campaign=1010292&utm_source=habrahabr&utm_medium=rss)
 - [80% токенов впустую: DeepSeek и GPT-OSS попались на «театральном мышлении»](https://habr.com/ru/news/1010284/?utm_campaign=1010284&utm_source=habrahabr&utm_medium=rss)
 - [Google представила крупнейшее обновление Maps](https://habr.com/ru/companies/bothub/news/1010254/?utm_campaign=1010254&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в работе Telegram в РФ](https://habr.com/ru/news/1010268/?utm_campaign=1010268&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Головная компания ГК „Солар“ завершила 2025 год с убытком в 664,5 млн рублей»](https://habr.com/ru/news/1010264/?utm_campaign=1010264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
