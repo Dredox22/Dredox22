@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.1](https://habr.com/ru/news/1009580/?utm_campaign=1009580&utm_source=habrahabr&utm_medium=rss)
 - [Одна покупка даёт доступ к игре на Android и Windows одновременно: Google рассказала об обновлениях Play Store](https://habr.com/ru/news/1010042/?utm_campaign=1010042&utm_source=habrahabr&utm_medium=rss)
 - [В онлайн-версиях Word, Excel и PowerPoint появился поиск в верхней части страницы](https://habr.com/ru/news/1010038/?utm_campaign=1010038&utm_source=habrahabr&utm_medium=rss)
 - [Claude ведет себя хорошо, пока за ним наблюдают: METR нашла проблему в тестах Anthropic](https://habr.com/ru/news/1010068/?utm_campaign=1010068&utm_source=habrahabr&utm_medium=rss)
 - [Корабельные двигатели и самолетные турбины: как ИИ-компании собирают электростанции для GPU](https://habr.com/ru/news/1010054/?utm_campaign=1010054&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.6 и Sonnet 4.6 получили окно в 1M токенов без наценки](https://habr.com/ru/news/1010044/?utm_campaign=1010044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
