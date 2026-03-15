@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Linux предложены патчи, убирающие возможность сборки IPv6 в форме модуля ядра](https://habr.com/ru/news/1010174/?utm_campaign=1010174&utm_source=habrahabr&utm_medium=rss)
+- [ИИ взломал ИИ: агент CodeWall вскрыл чат-бот McKinsey за два часа через баг из 90-х](https://habr.com/ru/news/1010434/?utm_campaign=1010434&utm_source=habrahabr&utm_medium=rss)
+- [Прорыв в робототехнике: AI2 создал роботов, обученных только в симуляции](https://habr.com/ru/companies/bothub/news/1010402/?utm_campaign=1010402&utm_source=habrahabr&utm_medium=rss)
 - [Peacock расширяет свою деятельность в области ИИ-видео, спортивных трансляций с мобильных устройств и игр](https://habr.com/ru/companies/bothub/news/1010368/?utm_campaign=1010368&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT помог айтишнику создать вакцину от рака для собаки — опухоль уменьшилась на 75%](https://habr.com/ru/news/1010426/?utm_campaign=1010426&utm_source=habrahabr&utm_medium=rss)
-- [Hume AI открыла быстрый генератор речи TADA](https://habr.com/ru/companies/bothub/news/1010396/?utm_campaign=1010396&utm_source=habrahabr&utm_medium=rss)
-- [История: как Raspberry Pi спас некачественную версию Doom для Super Nintendo](https://habr.com/ru/news/1010410/?utm_campaign=1010410&utm_source=habrahabr&utm_medium=rss)
-- [В Outlook для Windows появится функция поддержки работы при перебоях в сети](https://habr.com/ru/news/1010376/?utm_campaign=1010376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
