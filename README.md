@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стивен Спилберг против ИИ в кино](https://habr.com/ru/companies/bothub/news/1010362/?utm_campaign=1010362&utm_source=habrahabr&utm_medium=rss)
+- [Claude удвоил лимиты на две недели — по МСК это почти весь рабочий день](https://habr.com/ru/news/1010360/?utm_campaign=1010360&utm_source=habrahabr&utm_medium=rss)
 - [15 марта: продолжается сетевой сбой в работе Telegram в РФ](https://habr.com/ru/news/1010346/?utm_campaign=1010346&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект MouseControl —альтернатива Logitech Options+ для настройки раскладки кнопок мышей Logitech](https://habr.com/ru/news/1010266/?utm_campaign=1010266&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект MouseControl — альтернатива Logitech Options+ для настройки раскладки кнопок мышей Logitech](https://habr.com/ru/news/1010266/?utm_campaign=1010266&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление диагностической утилиты CPU-Z 2.19](https://habr.com/ru/news/1010228/?utm_campaign=1010228&utm_source=habrahabr&utm_medium=rss)
-- [Unity объявила о расширении поддержки Steam, Linux, Steam Deck и Steam Machine](https://habr.com/ru/news/1010318/?utm_campaign=1010318&utm_source=habrahabr&utm_medium=rss)
-- [Пентагон показал ИИ, которым бомбит Иран. В тестах он путал грузовик с деревом](https://habr.com/ru/news/1010292/?utm_campaign=1010292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
