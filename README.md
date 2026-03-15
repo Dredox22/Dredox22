@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hume AI открыла быстрый генератор речи TADA](https://habr.com/ru/companies/bothub/news/1010396/?utm_campaign=1010396&utm_source=habrahabr&utm_medium=rss)
+- [История: как Raspberry Pi спас некачественную версию Doom для Super Nintendo](https://habr.com/ru/news/1010410/?utm_campaign=1010410&utm_source=habrahabr&utm_medium=rss)
 - [В Outlook для Windows появится функция поддержки работы при перебоях в сети](https://habr.com/ru/news/1010376/?utm_campaign=1010376&utm_source=habrahabr&utm_medium=rss)
 - [Стивен Спилберг против ИИ в кино](https://habr.com/ru/companies/bothub/news/1010362/?utm_campaign=1010362&utm_source=habrahabr&utm_medium=rss)
 - [Claude удвоил лимиты на две недели — по МСК это почти весь рабочий день](https://habr.com/ru/news/1010360/?utm_campaign=1010360&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Glow 26.5 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/1010262/?utm_campaign=1010262&utm_source=habrahabr&utm_medium=rss)
-- [15 марта: продолжается сетевой сбой в работе Telegram в РФ](https://habr.com/ru/news/1010346/?utm_campaign=1010346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
