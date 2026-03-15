@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«AGI будет выглядеть как разминка»: Альтман о следующем прорыве в ИИ](https://habr.com/ru/news/1010596/?utm_campaign=1010596&utm_source=habrahabr&utm_medium=rss)
 - [Почему конференции мертвы и зачем мы делаем свою. Часть II](https://habr.com/ru/news/1010536/?utm_campaign=1010536&utm_source=habrahabr&utm_medium=rss)
 - [Программисты в красной зоне: Карпати вычислил, каким профессиям угрожает ИИ](https://habr.com/ru/news/1010516/?utm_campaign=1010516&utm_source=habrahabr&utm_medium=rss)
 - [Spotify даст контроль над формированием персональных рекомендаций: первыми новую функцию опробуют в Новой Зеландии](https://habr.com/ru/news/1010508/?utm_campaign=1010508&utm_source=habrahabr&utm_medium=rss)
 - [В Linux предложены патчи, убирающие возможность сборки IPv6 в форме модуля ядра](https://habr.com/ru/news/1010174/?utm_campaign=1010174&utm_source=habrahabr&utm_medium=rss)
-- [ИИ взломал ИИ: агент CodeWall вскрыл чат-бот McKinsey за два часа через баг из 90-х](https://habr.com/ru/news/1010434/?utm_campaign=1010434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
