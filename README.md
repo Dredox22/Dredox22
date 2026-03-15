@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Peacock расширяет свою деятельность в области ИИ-видео, спортивных трансляций с мобильных устройств и игр](https://habr.com/ru/companies/bothub/news/1010368/?utm_campaign=1010368&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT помог айтишнику создать вакцину от рака для собаки — опухоль уменьшилась на 75%](https://habr.com/ru/news/1010426/?utm_campaign=1010426&utm_source=habrahabr&utm_medium=rss)
 - [Hume AI открыла быстрый генератор речи TADA](https://habr.com/ru/companies/bothub/news/1010396/?utm_campaign=1010396&utm_source=habrahabr&utm_medium=rss)
 - [История: как Raspberry Pi спас некачественную версию Doom для Super Nintendo](https://habr.com/ru/news/1010410/?utm_campaign=1010410&utm_source=habrahabr&utm_medium=rss)
 - [В Outlook для Windows появится функция поддержки работы при перебоях в сети](https://habr.com/ru/news/1010376/?utm_campaign=1010376&utm_source=habrahabr&utm_medium=rss)
-- [Стивен Спилберг против ИИ в кино](https://habr.com/ru/companies/bothub/news/1010362/?utm_campaign=1010362&utm_source=habrahabr&utm_medium=rss)
-- [Claude удвоил лимиты на две недели — по МСК это почти весь рабочий день](https://habr.com/ru/news/1010360/?utm_campaign=1010360&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
