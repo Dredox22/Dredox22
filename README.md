@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Parallels: на MacBook Neo стабильно работают виртуальные машины c Windows 11 для ARM](https://habr.com/ru/news/1010864/?utm_campaign=1010864&utm_source=habrahabr&utm_medium=rss)
 - [SimpleGen: первый шаг в разработку на SimpleOne с помощью AI](https://habr.com/ru/companies/simpleone/news/1010806/?utm_campaign=1010806&utm_source=habrahabr&utm_medium=rss)
 - [Valve попросила партнёров помочь с закупкой оперативной памяти для Steam Machine](https://habr.com/ru/news/1010796/?utm_campaign=1010796&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic временно удвоили лимиты Claude — и для нас это почти весь день](https://habr.com/ru/news/1010780/?utm_campaign=1010780&utm_source=habrahabr&utm_medium=rss)
 - [Правительство выделит «Почте России» 5 млрд рублей на модернизацию отделений в сёлах и отдалённых населённых пунктах](https://habr.com/ru/news/1010772/?utm_campaign=1010772&utm_source=habrahabr&utm_medium=rss)
-- [Себастьян Рашка запустил визуальный справочник архитектур LLM — от DeepSeek до GLM-5](https://habr.com/ru/news/1010766/?utm_campaign=1010766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
