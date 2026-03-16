@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia прогнозирует до $1 трлн заказов на Vera Rubin — и уже анонсирует Feynman с кремниевой фотоникой](https://habr.com/ru/news/1011068/?utm_campaign=1011068&utm_source=habrahabr&utm_medium=rss)
+- [Тысячи токенов в секунду: Nvidia добавила чипы Groq в стойки Vera Rubin](https://habr.com/ru/news/1011066/?utm_campaign=1011066&utm_source=habrahabr&utm_medium=rss)
 - [Tesla построит свой завод ИИ-чипов за $25 млрд](https://habr.com/ru/news/1011032/?utm_campaign=1011032&utm_source=habrahabr&utm_medium=rss)
 - [РВИ представила проект стратегии развития видеоигровой индустрии в России](https://habr.com/ru/news/1011018/?utm_campaign=1011018&utm_source=habrahabr&utm_medium=rss)
 - [Российские мессенджеры требуют от государства таких же преференций, как у Max](https://habr.com/ru/news/1010996/?utm_campaign=1010996&utm_source=habrahabr&utm_medium=rss)
-- [Manus⚹ выходит из облака и садится за рабочий стол: что умеет “My Computer”](https://habr.com/ru/companies/bothub/news/1010994/?utm_campaign=1010994&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1010984/?utm_campaign=1010984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
