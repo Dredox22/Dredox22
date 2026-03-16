@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nebius Аркадия Воложа заключила соглашение с Meta* на $27 млрд](https://habr.com/ru/news/1010972/?utm_campaign=1010972&utm_source=habrahabr&utm_medium=rss)
 - [OpenClaw-RL обучает ИИ-агентов в реальном времени, непрерывно говоря с ними](https://habr.com/ru/companies/bothub/news/1010948/?utm_campaign=1010948&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Percepta встроил «компьютер» внутрь ИИ — он выдает 30 тыс. токенов в секунду](https://habr.com/ru/news/1010900/?utm_campaign=1010900&utm_source=habrahabr&utm_medium=rss)
 - [Дни ЭРЕМЕКС в промышленных центрах Поволжья – встречаемся в Чебоксарах и Казани](https://habr.com/ru/companies/eremexru/news/1010898/?utm_campaign=1010898&utm_source=habrahabr&utm_medium=rss)
 - [Новая конфигурация AI-тренинга и другие улучшения в продуктах Selectel](https://habr.com/ru/companies/selectel/news/1010884/?utm_campaign=1010884&utm_source=habrahabr&utm_medium=rss)
-- [Parallels: на MacBook Neo стабильно работают виртуальные машины c Windows 11 для ARM](https://habr.com/ru/news/1010864/?utm_campaign=1010864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
