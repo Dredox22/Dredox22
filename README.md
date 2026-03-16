@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Windows 11 добавлена поддержка мониторов с частотой обновления выше 1000 Гц](https://habr.com/ru/news/1010722/?utm_campaign=1010722&utm_source=habrahabr&utm_medium=rss)
-- [Тестировщик Fallout 4 рассказал, как обрушил игру несколько раз, чтобы отчёты ушли руководству компании](https://habr.com/ru/news/1010718/?utm_campaign=1010718&utm_source=habrahabr&utm_medium=rss)
-- [Суд в Москве оштрафовал Telegram на 35 млн рублей за неудаление запрещённой информации](https://habr.com/ru/news/1010734/?utm_campaign=1010734&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты пояснили СМИ, что блокировка Telegram уже началась](https://habr.com/ru/news/1010730/?utm_campaign=1010730&utm_source=habrahabr&utm_medium=rss)
-- [В сеть выложили исходный код электронных государственных сервисов Швеции](https://habr.com/ru/news/1010710/?utm_campaign=1010710&utm_source=habrahabr&utm_medium=rss)
+- [SimpleGen: первый шаг в разработку на SimpleOne с помощью AI](https://habr.com/ru/companies/simpleone/news/1010806/?utm_campaign=1010806&utm_source=habrahabr&utm_medium=rss)
+- [Valve попросила партнёров помочь с закупкой оперативной памяти для Steam Machine](https://habr.com/ru/news/1010796/?utm_campaign=1010796&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic временно удвоили лимиты Claude — и для нас это почти весь день](https://habr.com/ru/news/1010780/?utm_campaign=1010780&utm_source=habrahabr&utm_medium=rss)
+- [Правительство выделит «Почте России» 5 млрд рублей на модернизацию отделений в сёлах и отдалённых населённых пунктах](https://habr.com/ru/news/1010772/?utm_campaign=1010772&utm_source=habrahabr&utm_medium=rss)
+- [Себастьян Рашка запустил визуальный справочник архитектур LLM — от DeepSeek до GLM-5](https://habr.com/ru/news/1010766/?utm_campaign=1010766&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
