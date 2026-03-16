@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla построит свой завод ИИ-чипов за $25 млрд](https://habr.com/ru/news/1011032/?utm_campaign=1011032&utm_source=habrahabr&utm_medium=rss)
+- [РВИ представила проект стратегии развития видеоигровой индустрии в России](https://habr.com/ru/news/1011018/?utm_campaign=1011018&utm_source=habrahabr&utm_medium=rss)
 - [Российские мессенджеры требуют от государства таких же преференций, как у Max](https://habr.com/ru/news/1010996/?utm_campaign=1010996&utm_source=habrahabr&utm_medium=rss)
 - [Manus⚹ выходит из облака и садится за рабочий стол: что умеет “My Computer”](https://habr.com/ru/companies/bothub/news/1010994/?utm_campaign=1010994&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1010984/?utm_campaign=1010984&utm_source=habrahabr&utm_medium=rss)
-- [Nebius Аркадия Воложа заключила соглашение с Meta* на $27 млрд](https://habr.com/ru/news/1010972/?utm_campaign=1010972&utm_source=habrahabr&utm_medium=rss)
-- [OpenClaw-RL обучает ИИ-агентов в реальном времени, непрерывно говоря с ними](https://habr.com/ru/companies/bothub/news/1010948/?utm_campaign=1010948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
