@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия ReVanced Manager 2.0 — версия ReVanced Patcher для Android](https://habr.com/ru/news/1010632/?utm_campaign=1010632&utm_source=habrahabr&utm_medium=rss)
+- [16 марта: продолжается сетевой сбой в работе Telegram в РФ](https://habr.com/ru/news/1010524/?utm_campaign=1010524&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Debian 13.4](https://habr.com/ru/news/1010412/?utm_campaign=1010412&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики сообщили об изменении в распространении OpenTTD в Steam, где открытый проект теперь доступен только за $10](https://habr.com/ru/news/1010494/?utm_campaign=1010494&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GIMP 3.2](https://habr.com/ru/news/1010418/?utm_campaign=1010418&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Microsoft Edge 146](https://habr.com/ru/news/1010510/?utm_campaign=1010510&utm_source=habrahabr&utm_medium=rss)
-- [«AGI будет выглядеть как разминка»: Альтман о следующем прорыве в ИИ](https://habr.com/ru/news/1010596/?utm_campaign=1010596&utm_source=habrahabr&utm_medium=rss)
-- [Почему конференции мертвы и зачем мы делаем свою. Часть II](https://habr.com/ru/news/1010536/?utm_campaign=1010536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
