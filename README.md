@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Британские писатели запустили логотип Human Authored для произведений, созданных без использования ИИ](https://habr.com/ru/news/1010682/?utm_campaign=1010682&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft определила, что баг с недоступностью дисков C связан с приложением Samsung Galaxy Connect](https://habr.com/ru/news/1010692/?utm_campaign=1010692&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic запустили сертификацию Claude Certified Architect](https://habr.com/ru/news/1010686/?utm_campaign=1010686&utm_source=habrahabr&utm_medium=rss)
-- [Мошенники начали блокировать iPhone и iPad россиян через модифицированные версии Telegram](https://habr.com/ru/news/1010684/?utm_campaign=1010684&utm_source=habrahabr&utm_medium=rss)
-- [CachyOS сместил Arch с позиции лучшего дистрибутива Linux для геймеров по версии ProtonDB](https://habr.com/ru/news/1010676/?utm_campaign=1010676&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 добавлена поддержка мониторов с частотой обновления выше 1000 Гц](https://habr.com/ru/news/1010722/?utm_campaign=1010722&utm_source=habrahabr&utm_medium=rss)
+- [Тестировщик Fallout 4 рассказал, как обрушил игру несколько раз, чтобы отчёты ушли руководству компании](https://habr.com/ru/news/1010718/?utm_campaign=1010718&utm_source=habrahabr&utm_medium=rss)
+- [Суд в Москве оштрафовал Telegram на 35 млн рублей за неудаление запрещённой информации](https://habr.com/ru/news/1010734/?utm_campaign=1010734&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты пояснили СМИ, что блокировка Telegram уже началась](https://habr.com/ru/news/1010730/?utm_campaign=1010730&utm_source=habrahabr&utm_medium=rss)
+- [В сеть выложили исходный код электронных государственных сервисов Швеции](https://habr.com/ru/news/1010710/?utm_campaign=1010710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
