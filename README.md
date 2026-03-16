@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла версия ReVanced Manager 2.0 — версия ReVanced Patcher для Android](https://habr.com/ru/news/1010632/?utm_campaign=1010632&utm_source=habrahabr&utm_medium=rss)
-- [16 марта: продолжается сетевой сбой в работе Telegram в РФ](https://habr.com/ru/news/1010524/?utm_campaign=1010524&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Debian 13.4](https://habr.com/ru/news/1010412/?utm_campaign=1010412&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики сообщили об изменении в распространении OpenTTD в Steam, где открытый проект теперь доступен только за $10](https://habr.com/ru/news/1010494/?utm_campaign=1010494&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GIMP 3.2](https://habr.com/ru/news/1010418/?utm_campaign=1010418&utm_source=habrahabr&utm_medium=rss)
+- [ИТМО в партнёрстве с Яндекс Практикумом проводит День открытых дверей онлайн-магистратуры для DevOps-инженеров](https://habr.com/ru/companies/yandex_praktikum/news/1009840/?utm_campaign=1009840&utm_source=habrahabr&utm_medium=rss)
+- [nano360 — новая облачная СОД от «Нанософт» как центр управления информацией проекта](https://habr.com/ru/companies/nanosoft/news/1009918/?utm_campaign=1009918&utm_source=habrahabr&utm_medium=rss)
+- [Google заключила соглашение с Epic Games и снизила комиссионные в Play Store до 20%](https://habr.com/ru/news/1010656/?utm_campaign=1010656&utm_source=habrahabr&utm_medium=rss)
+- [Charter Communications получила разрешение FCC на покупку кабельного оператора Cox за $34,5 млрд](https://habr.com/ru/news/1010652/?utm_campaign=1010652&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic громит OpenAI на бизнес-рынке: 70% новых клиентов выбирают Claude](https://habr.com/ru/news/1010636/?utm_campaign=1010636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
