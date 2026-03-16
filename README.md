@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИТМО в партнёрстве с Яндекс Практикумом проводит День открытых дверей онлайн-магистратуры для DevOps-инженеров](https://habr.com/ru/companies/yandex_praktikum/news/1009840/?utm_campaign=1009840&utm_source=habrahabr&utm_medium=rss)
-- [nano360 — новая облачная СОД от «Нанософт» как центр управления информацией проекта](https://habr.com/ru/companies/nanosoft/news/1009918/?utm_campaign=1009918&utm_source=habrahabr&utm_medium=rss)
-- [Google заключила соглашение с Epic Games и снизила комиссионные в Play Store до 20%](https://habr.com/ru/news/1010656/?utm_campaign=1010656&utm_source=habrahabr&utm_medium=rss)
-- [Charter Communications получила разрешение FCC на покупку кабельного оператора Cox за $34,5 млрд](https://habr.com/ru/news/1010652/?utm_campaign=1010652&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic громит OpenAI на бизнес-рынке: 70% новых клиентов выбирают Claude](https://habr.com/ru/news/1010636/?utm_campaign=1010636&utm_source=habrahabr&utm_medium=rss)
+- [Британские писатели запустили логотип Human Authored для произведений, созданных без использования ИИ](https://habr.com/ru/news/1010682/?utm_campaign=1010682&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft определила, что баг с недоступностью дисков C связан с приложением Samsung Galaxy Connect](https://habr.com/ru/news/1010692/?utm_campaign=1010692&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic запустили сертификацию Claude Certified Architect](https://habr.com/ru/news/1010686/?utm_campaign=1010686&utm_source=habrahabr&utm_medium=rss)
+- [Мошенники начали блокировать iPhone и iPad россиян через модифицированные версии Telegram](https://habr.com/ru/news/1010684/?utm_campaign=1010684&utm_source=habrahabr&utm_medium=rss)
+- [CachyOS сместил Arch с позиции лучшего дистрибутива Linux для геймеров по версии ProtonDB](https://habr.com/ru/news/1010676/?utm_campaign=1010676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
