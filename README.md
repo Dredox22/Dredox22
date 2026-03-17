@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [100% сотрудников Nvidia пользуются ИИ: Хуанг назвал Claude Code поворотной точкой](https://habr.com/ru/news/1011128/?utm_campaign=1011128&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила NemoClaw: защищённая версия OpenClaw для бизнеса](https://habr.com/ru/companies/bothub/news/1011122/?utm_campaign=1011122&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI снова объявляет «красный код» — теперь из-за Anthropic, а не Google](https://habr.com/ru/news/1011116/?utm_campaign=1011116&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект NoCopilotKey для отключения на клавиатуре в Windows 11 кнопки Copilot и возврата правого Ctrl](https://habr.com/ru/news/1011096/?utm_campaign=1011096&utm_source=habrahabr&utm_medium=rss)
-- [17 марта: доля неудачных запросов к доменам Telegram из России в среднем достигла почти 80%](https://habr.com/ru/news/1011086/?utm_campaign=1011086&utm_source=habrahabr&utm_medium=rss)
+- [Apple купила разработчика плагинов для Final Cut Pro — MotionVFX](https://habr.com/ru/news/1011204/?utm_campaign=1011204&utm_source=habrahabr&utm_medium=rss)
+- [В «Блокноте» в Windows 11 начали тестировать поддержку изображений](https://habr.com/ru/news/1011184/?utm_campaign=1011184&utm_source=habrahabr&utm_medium=rss)
+- [Encyclopedia Britannica и Merriam-Webster подали в суд на OpenAI за нарушение авторских прав и товарных знаков](https://habr.com/ru/news/1011170/?utm_campaign=1011170&utm_source=habrahabr&utm_medium=rss)
+- [10 000 активных спутников: SpaceX закрепляет монополию в столетний юбилей ракеты Годдарда](https://habr.com/ru/news/1011168/?utm_campaign=1011168&utm_source=habrahabr&utm_medium=rss)
+- [GTC 2026: Хватит собирать данные, просто купите еще сто тысяч H100 – стратегия Nvidia](https://habr.com/ru/companies/bothub/news/1011166/?utm_campaign=1011166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
