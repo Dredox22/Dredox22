@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [17 марта: доля неудачных запросов к доменам Telegram из России в среднем достигла почти 80%](https://habr.com/ru/news/1011086/?utm_campaign=1011086&utm_source=habrahabr&utm_medium=rss)
 - [Вышел SuperTux 0.7](https://habr.com/ru/news/1010496/?utm_campaign=1010496&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia прогнозирует до $1 трлн заказов на Vera Rubin — и уже анонсирует Feynman с кремниевой фотоникой](https://habr.com/ru/news/1011068/?utm_campaign=1011068&utm_source=habrahabr&utm_medium=rss)
 - [Тысячи токенов в секунду: Nvidia добавила чипы Groq в стойки Vera Rubin](https://habr.com/ru/news/1011066/?utm_campaign=1011066&utm_source=habrahabr&utm_medium=rss)
 - [Tesla построит свой завод ИИ-чипов за $25 млрд](https://habr.com/ru/news/1011032/?utm_campaign=1011032&utm_source=habrahabr&utm_medium=rss)
-- [РВИ представила проект стратегии развития видеоигровой индустрии в России](https://habr.com/ru/news/1011018/?utm_campaign=1011018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
