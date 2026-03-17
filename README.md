@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [100% сотрудников Nvidia пользуются ИИ: Хуанг назвал Claude Code поворотной точкой](https://habr.com/ru/news/1011128/?utm_campaign=1011128&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила NemoClaw: защищённая версия OpenClaw для бизнеса](https://habr.com/ru/companies/bothub/news/1011122/?utm_campaign=1011122&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI снова объявляет «красный код» — теперь из-за Anthropic, а не Google](https://habr.com/ru/news/1011116/?utm_campaign=1011116&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект NoCopilotKey для отключения на клавиатуре в Windows 11 кнопки Copilot и возврата правого Ctrl](https://habr.com/ru/news/1011096/?utm_campaign=1011096&utm_source=habrahabr&utm_medium=rss)
 - [17 марта: доля неудачных запросов к доменам Telegram из России в среднем достигла почти 80%](https://habr.com/ru/news/1011086/?utm_campaign=1011086&utm_source=habrahabr&utm_medium=rss)
-- [Вышел SuperTux 0.7](https://habr.com/ru/news/1010496/?utm_campaign=1010496&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia прогнозирует до $1 трлн заказов на Vera Rubin — и уже анонсирует Feynman с кремниевой фотоникой](https://habr.com/ru/news/1011068/?utm_campaign=1011068&utm_source=habrahabr&utm_medium=rss)
-- [Тысячи токенов в секунду: Nvidia добавила чипы Groq в стойки Vera Rubin](https://habr.com/ru/news/1011066/?utm_campaign=1011066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
