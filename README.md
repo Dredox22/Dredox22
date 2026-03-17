@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Привет, Java 26](https://habr.com/ru/companies/spring_aio/news/1011454/?utm_campaign=1011454&utm_source=habrahabr&utm_medium=rss)
-- [Дизайнер KDE назвал Claude Code «поваром-любителем на профессиональной кухне»](https://habr.com/ru/news/1011442/?utm_campaign=1011442&utm_source=habrahabr&utm_medium=rss)
-- [Mistral выпустил Small 4: модель с рассуждениями, мультимодальностью и 119 млрд параметров под Apache 2.0](https://habr.com/ru/news/1011440/?utm_campaign=1011440&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Java 26](https://habr.com/ru/news/1011422/?utm_campaign=1011422&utm_source=habrahabr&utm_medium=rss)
-- [Mistral AI показала Leanstral: кодинг, который можно не проверять](https://habr.com/ru/companies/bothub/news/1011376/?utm_campaign=1011376&utm_source=habrahabr&utm_medium=rss)
+- [Вышли ChatGPT 5.4 mini и nano: модели для рутинных задач на 2× скорости и втрое дешевле](https://habr.com/ru/companies/bothub/news/1011486/?utm_campaign=1011486&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила GPT-5.4 mini и nano — быстрее, дешевле и почти без потери в качестве](https://habr.com/ru/news/1011480/?utm_campaign=1011480&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустили GPT-5.4 mini и nano — компактные версии своей флагманской модели](https://habr.com/ru/news/1011478/?utm_campaign=1011478&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Российские разработчики разрабатывают дрон с ИИ для точечного истребления сорняков»](https://habr.com/ru/news/1011470/?utm_campaign=1011470&utm_source=habrahabr&utm_medium=rss)
+- [Теперь и в презентациях: Gamma запускает ИИ для генерации изображений](https://habr.com/ru/companies/bothub/news/1011466/?utm_campaign=1011466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
