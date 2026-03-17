@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Привет, Java 26](https://habr.com/ru/companies/spring_aio/news/1011454/?utm_campaign=1011454&utm_source=habrahabr&utm_medium=rss)
+- [Дизайнер KDE назвал Claude Code «поваром-любителем на профессиональной кухне»](https://habr.com/ru/news/1011442/?utm_campaign=1011442&utm_source=habrahabr&utm_medium=rss)
+- [Mistral выпустил Small 4: модель с рассуждениями, мультимодальностью и 119 млрд параметров под Apache 2.0](https://habr.com/ru/news/1011440/?utm_campaign=1011440&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Java 26](https://habr.com/ru/news/1011422/?utm_campaign=1011422&utm_source=habrahabr&utm_medium=rss)
 - [Mistral AI показала Leanstral: кодинг, который можно не проверять](https://habr.com/ru/companies/bothub/news/1011376/?utm_campaign=1011376&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA выходит на орбиту: первый ускоритель для дата-центров в космосе](https://habr.com/ru/news/1011372/?utm_campaign=1011372&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft начала продвигать Copilot в поисковике Bing при попытке найти ChatGPT](https://habr.com/ru/news/1011292/?utm_campaign=1011292&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 можно будет выбрать имя папки при первоначальной настройке](https://habr.com/ru/news/1011282/?utm_campaign=1011282&utm_source=habrahabr&utm_medium=rss)
-- [Люди несут полную ответственность за действия своих ИИ-агентов: Moltbook обновила правила пользования](https://habr.com/ru/news/1011076/?utm_campaign=1011076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
