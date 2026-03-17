@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Люди несут полную ответственность за действия своих ИИ-агентов: Moltbook обновила правила пользования](https://habr.com/ru/news/1011076/?utm_campaign=1011076&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft рекламирует функции Windows при помощи людей, которые сгенерированы ИИ](https://habr.com/ru/news/1011240/?utm_campaign=1011240&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман: со временем ИИ будут продавать подобно свету или воде](https://habr.com/ru/news/1011216/?utm_campaign=1011216&utm_source=habrahabr&utm_medium=rss)
 - [Муртазин: это максимальный уровень блокировок Telegram, СМИ: пользователи сервиса в РФ сообщили о новом сбое](https://habr.com/ru/news/1011214/?utm_campaign=1011214&utm_source=habrahabr&utm_medium=rss)
 - [Apple купила разработчика плагинов для Final Cut Pro — MotionVFX](https://habr.com/ru/news/1011204/?utm_campaign=1011204&utm_source=habrahabr&utm_medium=rss)
-- [В «Блокноте» в Windows 11 начали тестировать поддержку изображений](https://habr.com/ru/news/1011184/?utm_campaign=1011184&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
