@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA выходит на орбиту: первый ускоритель для дата-центров в космосе](https://habr.com/ru/news/1011372/?utm_campaign=1011372&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала продвигать Copilot в поисковике Bing при попытке найти ChatGPT](https://habr.com/ru/news/1011292/?utm_campaign=1011292&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 можно будет выбрать имя папки при первоначальной настройке](https://habr.com/ru/news/1011282/?utm_campaign=1011282&utm_source=habrahabr&utm_medium=rss)
 - [Люди несут полную ответственность за действия своих ИИ-агентов: Moltbook обновила правила пользования](https://habr.com/ru/news/1011076/?utm_campaign=1011076&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft рекламирует функции Windows при помощи людей, которые сгенерированы ИИ](https://habr.com/ru/news/1011240/?utm_campaign=1011240&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман: со временем ИИ будут продавать подобно свету или воде](https://habr.com/ru/news/1011216/?utm_campaign=1011216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
