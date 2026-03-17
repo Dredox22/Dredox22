@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft рекламирует функции Windows при помощи людей, которые сгенерированы ИИ](https://habr.com/ru/news/1011240/?utm_campaign=1011240&utm_source=habrahabr&utm_medium=rss)
+- [Сэм Альтман: со временем ИИ будут продавать подобно свету или воде](https://habr.com/ru/news/1011216/?utm_campaign=1011216&utm_source=habrahabr&utm_medium=rss)
+- [Муртазин: это максимальный уровень блокировок Telegram, СМИ: пользователи сервиса в РФ сообщили о новом сбое](https://habr.com/ru/news/1011214/?utm_campaign=1011214&utm_source=habrahabr&utm_medium=rss)
 - [Apple купила разработчика плагинов для Final Cut Pro — MotionVFX](https://habr.com/ru/news/1011204/?utm_campaign=1011204&utm_source=habrahabr&utm_medium=rss)
 - [В «Блокноте» в Windows 11 начали тестировать поддержку изображений](https://habr.com/ru/news/1011184/?utm_campaign=1011184&utm_source=habrahabr&utm_medium=rss)
-- [Encyclopedia Britannica и Merriam-Webster подали в суд на OpenAI за нарушение авторских прав и товарных знаков](https://habr.com/ru/news/1011170/?utm_campaign=1011170&utm_source=habrahabr&utm_medium=rss)
-- [10 000 активных спутников: SpaceX закрепляет монополию в столетний юбилей ракеты Годдарда](https://habr.com/ru/news/1011168/?utm_campaign=1011168&utm_source=habrahabr&utm_medium=rss)
-- [GTC 2026: Хватит собирать данные, просто купите еще сто тысяч H100 – стратегия Nvidia](https://habr.com/ru/companies/bothub/news/1011166/?utm_campaign=1011166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
