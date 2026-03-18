@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Москве вырос трафик СМС и звонков на фоне отключений мобильного интернета](https://habr.com/ru/news/1011696/?utm_campaign=1011696&utm_source=habrahabr&utm_medium=rss)
+- [«Адаптивность VS Отказоустойчивость»: митап о создании гибкой ИТ-инфраструктуры](https://habr.com/ru/companies/jetinfosystems/news/1011690/?utm_campaign=1011690&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft призвала разработчиков создавать ИИ-приложения в Electron на Windows 11](https://habr.com/ru/news/1011686/?utm_campaign=1011686&utm_source=habrahabr&utm_medium=rss)
+- [Американские сенаторы потребовали от ByteDance закрыть видеогенератор Seedance](https://habr.com/ru/companies/bothub/news/1011684/?utm_campaign=1011684&utm_source=habrahabr&utm_medium=rss)
 - [System76 выпустила высокопроизводительный Linux-ПК Thelio Mira](https://habr.com/ru/news/1011670/?utm_campaign=1011670&utm_source=habrahabr&utm_medium=rss)
-- [Solar webProxy получил «прописку» в Беларуси — локальный бизнес получает ту же защиту трафика, что и российские компании](https://habr.com/ru/companies/solarsecurity/news/1011672/?utm_campaign=1011672&utm_source=habrahabr&utm_medium=rss)
-- [Spotify добавил опцию «Эксклюзивный режим» для аудиофилов на ПК с Windows](https://habr.com/ru/news/1011656/?utm_campaign=1011656&utm_source=habrahabr&utm_medium=rss)
-- [xAI нанимает банкиров с Уолл-стрит для обучения Grok](https://habr.com/ru/companies/bothub/news/1011664/?utm_campaign=1011664&utm_source=habrahabr&utm_medium=rss)
-- [Интерпол: ИИ оказался эффективным инструментом киберпреступников](https://habr.com/ru/news/1011640/?utm_campaign=1011640&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
