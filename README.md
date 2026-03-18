@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дженсен Хуанг защищает DLSS 5 после критики со стороны пользователей](https://habr.com/ru/news/1011994/?utm_campaign=1011994&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek V4, возможно, уже тестируется на OpenRouter — у стелс-модели 1 трлн параметров и 1M контекстное окно](https://habr.com/ru/news/1011988/?utm_campaign=1011988&utm_source=habrahabr&utm_medium=rss)
+- [Киберпреступная площадка LeakBase ликвидирована](https://habr.com/ru/news/1011984/?utm_campaign=1011984&utm_source=habrahabr&utm_medium=rss)
+- [BMG подала в суд на Anthropic: компанию обвиняют в использовании текстов песен для обучения AI](https://habr.com/ru/companies/tehrevizor/news/1011980/?utm_campaign=1011980&utm_source=habrahabr&utm_medium=rss)
 - [Российские разработчики создают САПР на Astra Linux](https://habr.com/ru/news/1011956/?utm_campaign=1011956&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax представили M2.7: обновленную версию свой флагманской модели](https://habr.com/ru/news/1011928/?utm_campaign=1011928&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Роскомнадзор фиксирует неисполнение законодательства РФ со стороны Telegram](https://habr.com/ru/news/1011924/?utm_campaign=1011924&utm_source=habrahabr&utm_medium=rss)
-- [Mistral запустила Forge — платформу для обучения корпоративных LLM с нуля](https://habr.com/ru/companies/bothub/news/1011920/?utm_campaign=1011920&utm_source=habrahabr&utm_medium=rss)
-- [Сегодня последний день регистрации на PGConf.Россия 2026](https://habr.com/ru/companies/postgrespro/news/1011910/?utm_campaign=1011910&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
