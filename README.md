@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [MiniMax представили M2.7: обновленную версию свой флагманской модели](https://habr.com/ru/news/1011928/?utm_campaign=1011928&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Роскомнадзор фиксирует неисполнение законодательства РФ со стороны Telegram](https://habr.com/ru/news/1011924/?utm_campaign=1011924&utm_source=habrahabr&utm_medium=rss)
 - [Mistral запустила Forge — платформу для обучения корпоративных LLM с нуля](https://habr.com/ru/companies/bothub/news/1011920/?utm_campaign=1011920&utm_source=habrahabr&utm_medium=rss)
 - [Сегодня последний день регистрации на PGConf.Россия 2026](https://habr.com/ru/companies/postgrespro/news/1011910/?utm_campaign=1011910&utm_source=habrahabr&utm_medium=rss)
 - [«Никто не знает, что делать»: создатель ChatGPT — о ближайших годах рынка труда](https://habr.com/ru/news/1011900/?utm_campaign=1011900&utm_source=habrahabr&utm_medium=rss)
-- [ИИ научился определять рак груди по анализу крови. Чувствительность — 95%](https://habr.com/ru/news/1011862/?utm_campaign=1011862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
