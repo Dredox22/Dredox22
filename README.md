@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Москве вырос спрос на стационарные телефоны на фоне ограничений мобильного интернета](https://habr.com/ru/news/1011780/?utm_campaign=1011780&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft объяснила, как устранить проблемы с диском C, возникшие из-за Samsung Galaxy Connect](https://habr.com/ru/news/1011776/?utm_campaign=1011776&utm_source=habrahabr&utm_medium=rss)
+- [Китай приравнял ИИ к обороне: технологии впервые стали приоритетом №1 в пятилетке](https://habr.com/ru/news/1011774/?utm_campaign=1011774&utm_source=habrahabr&utm_medium=rss)
 - [Mistral продвигает модель “собери свой AI” для бизнеса](https://habr.com/ru/companies/tehrevizor/news/1011750/?utm_campaign=1011750&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Jellyfish: при высоком уровне внедрения ИИ объём выпускаемого кода удваивается при сохранении качества](https://habr.com/ru/news/1011730/?utm_campaign=1011730&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила о многомиллионных инвестициях в безопасность открытого программного обеспечения](https://habr.com/ru/news/1011734/?utm_campaign=1011734&utm_source=habrahabr&utm_medium=rss)
-- [«МойОфис» выпустил AI-инструмент для преобразования речи в структурированный текст](https://habr.com/ru/companies/tehrevizor/news/1011726/?utm_campaign=1011726&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Flo «Здоровье и фитнес»](https://habr.com/ru/news/1011720/?utm_campaign=1011720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
