@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Москве вырос трафик СМС и звонков на фоне отключений мобильного интернета](https://habr.com/ru/news/1011696/?utm_campaign=1011696&utm_source=habrahabr&utm_medium=rss)
-- [«Адаптивность VS Отказоустойчивость»: митап о создании гибкой ИТ-инфраструктуры](https://habr.com/ru/companies/jetinfosystems/news/1011690/?utm_campaign=1011690&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft призвала разработчиков создавать ИИ-приложения в Electron на Windows 11](https://habr.com/ru/news/1011686/?utm_campaign=1011686&utm_source=habrahabr&utm_medium=rss)
-- [Американские сенаторы потребовали от ByteDance закрыть видеогенератор Seedance](https://habr.com/ru/companies/bothub/news/1011684/?utm_campaign=1011684&utm_source=habrahabr&utm_medium=rss)
-- [System76 выпустила высокопроизводительный Linux-ПК Thelio Mira](https://habr.com/ru/news/1011670/?utm_campaign=1011670&utm_source=habrahabr&utm_medium=rss)
+- [Mistral продвигает модель “собери свой AI” для бизнеса](https://habr.com/ru/companies/tehrevizor/news/1011750/?utm_campaign=1011750&utm_source=habrahabr&utm_medium=rss)
+- [Исследование Jellyfish: при высоком уровне внедрения ИИ объём выпускаемого кода удваивается при сохранении качества](https://habr.com/ru/news/1011730/?utm_campaign=1011730&utm_source=habrahabr&utm_medium=rss)
+- [Google объявила о многомиллионных инвестициях в безопасность открытого программного обеспечения](https://habr.com/ru/news/1011734/?utm_campaign=1011734&utm_source=habrahabr&utm_medium=rss)
+- [«МойОфис» выпустил AI-инструмент для преобразования речи в структурированный текст](https://habr.com/ru/companies/tehrevizor/news/1011726/?utm_campaign=1011726&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Flo «Здоровье и фитнес»](https://habr.com/ru/news/1011720/?utm_campaign=1011720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
