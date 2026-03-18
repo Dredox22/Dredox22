@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз FFmpeg 8.1 Hoare](https://habr.com/ru/news/1011114/?utm_campaign=1011114&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft взял курс на AGI &lpar;и наконец-то сделает свои ИИ-модели&rpar;](https://habr.com/ru/companies/bothub/news/1011534/?utm_campaign=1011534&utm_source=habrahabr&utm_medium=rss)
 - [В MIT представили PhysiOpt — нейросеть для оптимизации генеративных 3D-моделей под реальные условия эксплуатации](https://habr.com/ru/news/1011528/?utm_campaign=1011528&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик научил Claude Code видеть в 3D](https://habr.com/ru/news/1011518/?utm_campaign=1011518&utm_source=habrahabr&utm_medium=rss)
 - [Организаторы «Игропрома» возрождают Конференцию разработчиков компьютерных игр](https://habr.com/ru/news/1011496/?utm_campaign=1011496&utm_source=habrahabr&utm_medium=rss)
-- [Вышли ChatGPT 5.4 mini и nano: модели для рутинных задач на 2× скорости и втрое дешевле](https://habr.com/ru/companies/bothub/news/1011486/?utm_campaign=1011486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
