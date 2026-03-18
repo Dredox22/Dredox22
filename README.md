@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: Роскомнадзор фиксирует неисполнение законодательства РФ со стороны Telegram](https://habr.com/ru/news/1011924/?utm_campaign=1011924&utm_source=habrahabr&utm_medium=rss)
+- [Mistral запустила Forge — платформу для обучения корпоративных LLM с нуля](https://habr.com/ru/companies/bothub/news/1011920/?utm_campaign=1011920&utm_source=habrahabr&utm_medium=rss)
+- [Сегодня последний день регистрации на PGConf.Россия 2026](https://habr.com/ru/companies/postgrespro/news/1011910/?utm_campaign=1011910&utm_source=habrahabr&utm_medium=rss)
+- [«Никто не знает, что делать»: создатель ChatGPT — о ближайших годах рынка труда](https://habr.com/ru/news/1011900/?utm_campaign=1011900&utm_source=habrahabr&utm_medium=rss)
 - [ИИ научился определять рак груди по анализу крови. Чувствительность — 95%](https://habr.com/ru/news/1011862/?utm_campaign=1011862&utm_source=habrahabr&utm_medium=rss)
-- [АРПП попросила правительство сохранить доступ к заблокированным мессенджерам](https://habr.com/ru/news/1011808/?utm_campaign=1011808&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» запустил в своём мобильном приложении сервис возврата клиенту переводов по СБП обратно отправителю](https://habr.com/ru/news/1011790/?utm_campaign=1011790&utm_source=habrahabr&utm_medium=rss)
-- [В Москве вырос спрос на стационарные телефоны на фоне ограничений мобильного интернета](https://habr.com/ru/news/1011780/?utm_campaign=1011780&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила, как устранить проблемы с диском C, возникшие из-за Samsung Galaxy Connect](https://habr.com/ru/news/1011776/?utm_campaign=1011776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
