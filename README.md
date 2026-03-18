@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [System76 выпустила высокопроизводительный Linux-ПК Thelio Mira](https://habr.com/ru/news/1011670/?utm_campaign=1011670&utm_source=habrahabr&utm_medium=rss)
+- [Solar webProxy получил «прописку» в Беларуси — локальный бизнес получает ту же защиту трафика, что и российские компании](https://habr.com/ru/companies/solarsecurity/news/1011672/?utm_campaign=1011672&utm_source=habrahabr&utm_medium=rss)
+- [Spotify добавил опцию «Эксклюзивный режим» для аудиофилов на ПК с Windows](https://habr.com/ru/news/1011656/?utm_campaign=1011656&utm_source=habrahabr&utm_medium=rss)
+- [xAI нанимает банкиров с Уолл-стрит для обучения Grok](https://habr.com/ru/companies/bothub/news/1011664/?utm_campaign=1011664&utm_source=habrahabr&utm_medium=rss)
 - [Интерпол: ИИ оказался эффективным инструментом киберпреступников](https://habr.com/ru/news/1011640/?utm_campaign=1011640&utm_source=habrahabr&utm_medium=rss)
-- [Число активных спутников Starlink на орбите превысило 10 тысяч](https://habr.com/ru/news/1011634/?utm_campaign=1011634&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия PowerToys 0.98 с панелью задач и новым менеджером клавиатуры](https://habr.com/ru/news/1011626/?utm_campaign=1011626&utm_source=habrahabr&utm_medium=rss)
-- [Почему конференции мертвы и зачем мы делаем свою. Часть III](https://habr.com/ru/news/1011628/?utm_campaign=1011628&utm_source=habrahabr&utm_medium=rss)
-- [Во Владивостоке водитель получил штраф за телефон в руке пешехода](https://habr.com/ru/news/1011622/?utm_campaign=1011622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
