@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ научился определять рак груди по анализу крови. Чувствительность — 95%](https://habr.com/ru/news/1011862/?utm_campaign=1011862&utm_source=habrahabr&utm_medium=rss)
 - [АРПП попросила правительство сохранить доступ к заблокированным мессенджерам](https://habr.com/ru/news/1011808/?utm_campaign=1011808&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» запустил в своём мобильном приложении сервис возврата клиенту переводов по СБП обратно отправителю](https://habr.com/ru/news/1011790/?utm_campaign=1011790&utm_source=habrahabr&utm_medium=rss)
 - [В Москве вырос спрос на стационарные телефоны на фоне ограничений мобильного интернета](https://habr.com/ru/news/1011780/?utm_campaign=1011780&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft объяснила, как устранить проблемы с диском C, возникшие из-за Samsung Galaxy Connect](https://habr.com/ru/news/1011776/?utm_campaign=1011776&utm_source=habrahabr&utm_medium=rss)
-- [Китай приравнял ИИ к обороне: технологии впервые стали приоритетом №1 в пятилетке](https://habr.com/ru/news/1011774/?utm_campaign=1011774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
