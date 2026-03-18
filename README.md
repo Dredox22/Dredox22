@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [18 марта: продолжаются фиксироваться проблемы доступа к Telegram в РФ](https://habr.com/ru/news/1011568/?utm_campaign=1011568&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Blender 5.1](https://habr.com/ru/news/1011490/?utm_campaign=1011490&utm_source=habrahabr&utm_medium=rss)
-- [От симуляции к конвейеру: NVIDIA представила физический движок Newton для обучения роботов реальному миру](https://habr.com/ru/news/1011560/?utm_campaign=1011560&utm_source=habrahabr&utm_medium=rss)
-- [В KDE выпустили версию Marknote 1.5, приложения для управления заметками на основе Markdown](https://habr.com/ru/news/1011290/?utm_campaign=1011290&utm_source=habrahabr&utm_medium=rss)
-- [В Max опровергли информацию о взломе Android-версии клиента мессенджера с помощью ПО «Мобильный криминалист»](https://habr.com/ru/news/1011558/?utm_campaign=1011558&utm_source=habrahabr&utm_medium=rss)
+- [Интерпол: ИИ оказался эффективным инструментом киберпреступников](https://habr.com/ru/news/1011640/?utm_campaign=1011640&utm_source=habrahabr&utm_medium=rss)
+- [Число активных спутников Starlink на орбите превысило 10 тысяч](https://habr.com/ru/news/1011634/?utm_campaign=1011634&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия PowerToys 0.98 с панелью задач и новым менеджером клавиатуры](https://habr.com/ru/news/1011626/?utm_campaign=1011626&utm_source=habrahabr&utm_medium=rss)
+- [Почему конференции мертвы и зачем мы делаем свою. Часть III](https://habr.com/ru/news/1011628/?utm_campaign=1011628&utm_source=habrahabr&utm_medium=rss)
+- [Во Владивостоке водитель получил штраф за телефон в руке пешехода](https://habr.com/ru/news/1011622/?utm_campaign=1011622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
