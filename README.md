@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз FFmpeg 8.1 Hoare](https://habr.com/ru/news/1011114/?utm_campaign=1011114&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft взял курс на AGI &lpar;и наконец-то сделает свои ИИ-модели&rpar;](https://habr.com/ru/companies/bothub/news/1011534/?utm_campaign=1011534&utm_source=habrahabr&utm_medium=rss)
-- [В MIT представили PhysiOpt — нейросеть для оптимизации генеративных 3D-моделей под реальные условия эксплуатации](https://habr.com/ru/news/1011528/?utm_campaign=1011528&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик научил Claude Code видеть в 3D](https://habr.com/ru/news/1011518/?utm_campaign=1011518&utm_source=habrahabr&utm_medium=rss)
-- [Организаторы «Игропрома» возрождают Конференцию разработчиков компьютерных игр](https://habr.com/ru/news/1011496/?utm_campaign=1011496&utm_source=habrahabr&utm_medium=rss)
+- [18 марта: продолжаются фиксироваться проблемы доступа к Telegram в РФ](https://habr.com/ru/news/1011568/?utm_campaign=1011568&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Blender 5.1](https://habr.com/ru/news/1011490/?utm_campaign=1011490&utm_source=habrahabr&utm_medium=rss)
+- [От симуляции к конвейеру: NVIDIA представила физический движок Newton для обучения роботов реальному миру](https://habr.com/ru/news/1011560/?utm_campaign=1011560&utm_source=habrahabr&utm_medium=rss)
+- [В KDE выпустили версию Marknote 1.5, приложения для управления заметками на основе Markdown](https://habr.com/ru/news/1011290/?utm_campaign=1011290&utm_source=habrahabr&utm_medium=rss)
+- [В Max опровергли информацию о взломе Android-версии клиента мессенджера с помощью ПО «Мобильный криминалист»](https://habr.com/ru/news/1011558/?utm_campaign=1011558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
