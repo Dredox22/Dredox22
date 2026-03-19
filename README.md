@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [11 IT-компаний подписали соглашение, обязывающее делиться с конкурентами и властями информацией о мошенниках](https://habr.com/ru/news/1012310/?utm_campaign=1012310&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «Минцифры РФ подготовило документ об ограничии использования иностранных алгоритмов шифрования в сетях 5G»](https://habr.com/ru/news/1012306/?utm_campaign=1012306&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity запустила Comet Enterprise для автоматизации работы в компаниях](https://habr.com/ru/companies/bothub/news/1012198/?utm_campaign=1012198&utm_source=habrahabr&utm_medium=rss)
-- [ITFB Group построила хранилище данных для ТД «Ренна»](https://habr.com/ru/companies/itfb/news/1012270/?utm_campaign=1012270&utm_source=habrahabr&utm_medium=rss)
-- [Великобритания планирует ввести обязательную маркировку контента, созданного с помощью ИИ](https://habr.com/ru/news/1012254/?utm_campaign=1012254&utm_source=habrahabr&utm_medium=rss)
+- [Как «Петрович» строит цифровую среду на Low-code платформе](https://habr.com/ru/companies/simpleone/news/1012368/?utm_campaign=1012368&utm_source=habrahabr&utm_medium=rss)
+- [ИИ в госсекторе: от экспериментов к реальным внедрениям](https://habr.com/ru/companies/gnivc/news/1012364/?utm_campaign=1012364&utm_source=habrahabr&utm_medium=rss)
+- [MiniMax выпустила самоэволюционирующую модель M2.7](https://habr.com/ru/companies/bothub/news/1012178/?utm_campaign=1012178&utm_source=habrahabr&utm_medium=rss)
+- [Content AI представляет ContentReader PDF 16 — первый российский PDF-редактор со встроенным ИИ-ассистентом](https://habr.com/ru/companies/contentai/news/1012338/?utm_campaign=1012338&utm_source=habrahabr&utm_medium=rss)
+- [Apple заморозила Replit и Vibecode в App Store — их приложения не обновляются месяцами](https://habr.com/ru/news/1012336/?utm_campaign=1012336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
