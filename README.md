@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [За три года в России утекло 4,5 млрд записей персональных данных](https://habr.com/ru/companies/infowatch/news/1012188/?utm_campaign=1012188&utm_source=habrahabr&utm_medium=rss)
-- [Анонимная модель неделю держала топ OpenRouter. Это оказалась модель от Xiaomi](https://habr.com/ru/news/1012174/?utm_campaign=1012174&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia выпустит инференс-чипы на базе архитектуры Groq для Китая](https://habr.com/ru/companies/bothub/news/1012166/?utm_campaign=1012166&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала бороться с приложениями на базе вайб-кодинга](https://habr.com/ru/news/1012156/?utm_campaign=1012156&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Opera 129 на базе Chromium 145](https://habr.com/ru/news/1012150/?utm_campaign=1012150&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» перенёс сроки запуска базовых станций на 2026–2027 годы](https://habr.com/ru/news/1012230/?utm_campaign=1012230&utm_source=habrahabr&utm_medium=rss)
+- [Google обновила Stitch и добавила бесконечный AI-холст](https://habr.com/ru/companies/bothub/news/1012224/?utm_campaign=1012224&utm_source=habrahabr&utm_medium=rss)
+- [У Meta возникли проблемы с «вышедшими из-под контроля» ИИ-агентами](https://habr.com/ru/companies/tehrevizor/news/1012222/?utm_campaign=1012222&utm_source=habrahabr&utm_medium=rss)
+- [Инженер Amazon: использование ИИ помогло быстрее продвинуться в карьере](https://habr.com/ru/news/1012208/?utm_campaign=1012208&utm_source=habrahabr&utm_medium=rss)
+- [Avito скупает готовых голосовых роботов и LLM-агентов](https://habr.com/ru/companies/tehrevizor/news/1012216/?utm_campaign=1012216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
