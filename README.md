@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok 4.20 вышел из беты: лидер по честности, но не по интеллекту](https://habr.com/ru/news/1012054/?utm_campaign=1012054&utm_source=habrahabr&utm_medium=rss)
+- [Представитель Общественной палаты РФ: доступ к VPN-сервисам нужно ограничить, у Роскомнадзора есть такие техвозможности](https://habr.com/ru/news/1012050/?utm_campaign=1012050&utm_source=habrahabr&utm_medium=rss)
+- [«Спасибо, что довели нас сюда»: Альтман поблагодарил программистов — и вызвал ярость](https://habr.com/ru/news/1012044/?utm_campaign=1012044&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил мобильное приложение для своего сервиса измерения скорости интернета «Интернетометр»](https://habr.com/ru/news/1012038/?utm_campaign=1012038&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект BillyPro — минималистичный музыкальный плеер для Windows](https://habr.com/ru/news/1011716/?utm_campaign=1011716&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры опубликовало законопроект о государственном регулировании искусственного интеллекта в РФ](https://habr.com/ru/news/1012026/?utm_campaign=1012026&utm_source=habrahabr&utm_medium=rss)
-- [Релиз рабочего окружения GNOME 50 Tokyo](https://habr.com/ru/news/1011930/?utm_campaign=1011930&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия systemd 260](https://habr.com/ru/news/1011578/?utm_campaign=1011578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
