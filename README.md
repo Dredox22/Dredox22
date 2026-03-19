@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NoClaw — ИИ-агент с Unix-философией: пайпы и текстовые файлы вместо фреймворка на 400 000 строк](https://habr.com/ru/news/1012466/?utm_campaign=1012466&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила нейросеть LiTo: она генерирует 3D-объекты с реалистичными бликами и отражениями по одной фотографии](https://habr.com/ru/news/1012462/?utm_campaign=1012462&utm_source=habrahabr&utm_medium=rss)
 - [К 2027 году Apple обяжет iOS-разработчиков перенести свои приложения на интерфейс Liquid Glass](https://habr.com/ru/news/1012458/?utm_campaign=1012458&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.2 не смогла сложить 5+7. Как эзотерические языки обнулили передовые модели](https://habr.com/ru/news/1012456/?utm_campaign=1012456&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи безопасности обнаружили набор эксплойтов для iOS, которые связаны со шпионским ПО и кражей криптовалют](https://habr.com/ru/news/1012452/?utm_campaign=1012452&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI покупает разработчика Python-инструментов Astral, чтобы усилить позиции против Anthropic](https://habr.com/ru/companies/tehrevizor/news/1012438/?utm_campaign=1012438&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI покупает Astral и усиливает направление разработки](https://habr.com/ru/companies/bothub/news/1012432/?utm_campaign=1012432&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
