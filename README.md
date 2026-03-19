@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Презентация новинок КОМПАС-3D v25 состоится 3 апреля](https://habr.com/ru/companies/ascon/news/1012384/?utm_campaign=1012384&utm_source=habrahabr&utm_medium=rss)
 - [Как «Петрович» строит цифровую среду на Low-code платформе](https://habr.com/ru/companies/simpleone/news/1012368/?utm_campaign=1012368&utm_source=habrahabr&utm_medium=rss)
 - [ИИ в госсекторе: от экспериментов к реальным внедрениям](https://habr.com/ru/companies/gnivc/news/1012364/?utm_campaign=1012364&utm_source=habrahabr&utm_medium=rss)
 - [MiniMax выпустила самоэволюционирующую модель M2.7](https://habr.com/ru/companies/bothub/news/1012178/?utm_campaign=1012178&utm_source=habrahabr&utm_medium=rss)
 - [Content AI представляет ContentReader PDF 16 — первый российский PDF-редактор со встроенным ИИ-ассистентом](https://habr.com/ru/companies/contentai/news/1012338/?utm_campaign=1012338&utm_source=habrahabr&utm_medium=rss)
-- [Apple заморозила Replit и Vibecode в App Store — их приложения не обновляются месяцами](https://habr.com/ru/news/1012336/?utm_campaign=1012336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
