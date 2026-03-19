@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла стабильная версия systemd 260](https://habr.com/ru/news/1011578/?utm_campaign=1011578&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отказывается от планов по внедрению Copilot в уведомления в Windows 11](https://habr.com/ru/news/1012002/?utm_campaign=1012002&utm_source=habrahabr&utm_medium=rss)
 - [Дженсен Хуанг защищает DLSS 5 после критики со стороны пользователей](https://habr.com/ru/news/1011994/?utm_campaign=1011994&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek V4, возможно, уже тестируется на OpenRouter — у стелс-модели 1 трлн параметров и 1M контекстное окно](https://habr.com/ru/news/1011988/?utm_campaign=1011988&utm_source=habrahabr&utm_medium=rss)
 - [Киберпреступная площадка LeakBase ликвидирована](https://habr.com/ru/news/1011984/?utm_campaign=1011984&utm_source=habrahabr&utm_medium=rss)
-- [BMG подала в суд на Anthropic: компанию обвиняют в использовании текстов песен для обучения AI](https://habr.com/ru/companies/tehrevizor/news/1011980/?utm_campaign=1011980&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
