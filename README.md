@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [11 IT-компаний подписали соглашение, обязывающее делиться с конкурентами и властями информацией о мошенниках](https://habr.com/ru/news/1012310/?utm_campaign=1012310&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «Минцифры РФ подготовило документ об ограничии использования иностранных алгоритмов шифрования в сетях 5G»](https://habr.com/ru/news/1012306/?utm_campaign=1012306&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity запустила Comet Enterprise для автоматизации работы в компаниях](https://habr.com/ru/companies/bothub/news/1012198/?utm_campaign=1012198&utm_source=habrahabr&utm_medium=rss)
+- [ITFB Group построила хранилище данных для ТД «Ренна»](https://habr.com/ru/companies/itfb/news/1012270/?utm_campaign=1012270&utm_source=habrahabr&utm_medium=rss)
 - [Великобритания планирует ввести обязательную маркировку контента, созданного с помощью ИИ](https://habr.com/ru/news/1012254/?utm_campaign=1012254&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» перенёс сроки запуска базовых станций на 2026–2027 годы](https://habr.com/ru/news/1012230/?utm_campaign=1012230&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила Stitch и добавила бесконечный AI-холст](https://habr.com/ru/companies/bothub/news/1012224/?utm_campaign=1012224&utm_source=habrahabr&utm_medium=rss)
-- [У Meta возникли проблемы с «вышедшими из-под контроля» ИИ-агентами](https://habr.com/ru/companies/tehrevizor/news/1012222/?utm_campaign=1012222&utm_source=habrahabr&utm_medium=rss)
-- [Инженер Amazon: использование ИИ помогло быстрее продвинуться в карьере](https://habr.com/ru/news/1012208/?utm_campaign=1012208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
