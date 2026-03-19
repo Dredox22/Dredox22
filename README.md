@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI покупает разработчика Python-инструментов Astral, чтобы усилить позиции против Anthropic](https://habr.com/ru/companies/tehrevizor/news/1012438/?utm_campaign=1012438&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI покупает Astral и усиливает направление разработки](https://habr.com/ru/companies/bothub/news/1012432/?utm_campaign=1012432&utm_source=habrahabr&utm_medium=rss)
 - [Qwen3.5 Max Preview вошла в топ-3 по математике. Модель доступна на Arena.Ai](https://habr.com/ru/news/1012422/?utm_campaign=1012422&utm_source=habrahabr&utm_medium=rss)
 - [Cursor выпустили Composer 2 — собственную модель, заточенную под кодинг](https://habr.com/ru/news/1012418/?utm_campaign=1012418&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст сделал Telegram-пейджер на Raspberry Pi через меш-сети](https://habr.com/ru/news/1012400/?utm_campaign=1012400&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила конкурс Parameter Golf с призовым фондом $1 млн](https://habr.com/ru/companies/bothub/news/1012398/?utm_campaign=1012398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
