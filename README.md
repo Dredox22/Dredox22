@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [РКН не справляется с блокировками](https://habr.com/ru/news/1012148/?utm_campaign=1012148&utm_source=habrahabr&utm_medium=rss)
-- [Forbes: РКН не справляется с блокировкой Telegram, встроенный прокси выдаёт много трафика и создаёт нагрузку на ТСПУ](https://habr.com/ru/news/1012132/?utm_campaign=1012132&utm_source=habrahabr&utm_medium=rss)
-- [Россия заняла второе место в G20 по доступности безлимитного интернета](https://habr.com/ru/news/1012130/?utm_campaign=1012130&utm_source=habrahabr&utm_medium=rss)
-- [Трафик из поиска Google на сайты резко упал](https://habr.com/ru/news/1012112/?utm_campaign=1012112&utm_source=habrahabr&utm_medium=rss)
-- [ИИ, облако и экономика IT: приглашаем обсудить на Демо дне Рег.облака](https://habr.com/ru/companies/runity/news/1012110/?utm_campaign=1012110&utm_source=habrahabr&utm_medium=rss)
+- [За три года в России утекло 4,5 млрд записей персональных данных](https://habr.com/ru/companies/infowatch/news/1012188/?utm_campaign=1012188&utm_source=habrahabr&utm_medium=rss)
+- [Анонимная модель неделю держала топ OpenRouter. Это оказалась модель от Xiaomi](https://habr.com/ru/news/1012174/?utm_campaign=1012174&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia выпустит инференс-чипы на базе архитектуры Groq для Китая](https://habr.com/ru/companies/bothub/news/1012166/?utm_campaign=1012166&utm_source=habrahabr&utm_medium=rss)
+- [Apple начала бороться с приложениями на базе вайб-кодинга](https://habr.com/ru/news/1012156/?utm_campaign=1012156&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Opera 129 на базе Chromium 145](https://habr.com/ru/news/1012150/?utm_campaign=1012150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
