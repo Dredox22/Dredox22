@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok 4.20 вышел из беты: лидер по честности, но не по интеллекту](https://habr.com/ru/news/1012054/?utm_campaign=1012054&utm_source=habrahabr&utm_medium=rss)
-- [Представитель Общественной палаты РФ: доступ к VPN-сервисам нужно ограничить, у Роскомнадзора есть такие техвозможности](https://habr.com/ru/news/1012050/?utm_campaign=1012050&utm_source=habrahabr&utm_medium=rss)
-- [«Спасибо, что довели нас сюда»: Альтман поблагодарил программистов — и вызвал ярость](https://habr.com/ru/news/1012044/?utm_campaign=1012044&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил мобильное приложение для своего сервиса измерения скорости интернета «Интернетометр»](https://habr.com/ru/news/1012038/?utm_campaign=1012038&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект BillyPro — минималистичный музыкальный плеер для Windows](https://habr.com/ru/news/1011716/?utm_campaign=1011716&utm_source=habrahabr&utm_medium=rss)
+- [РКН не справляется с блокировками](https://habr.com/ru/news/1012148/?utm_campaign=1012148&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: РКН не справляется с блокировкой Telegram, встроенный прокси выдаёт много трафика и создаёт нагрузку на ТСПУ](https://habr.com/ru/news/1012132/?utm_campaign=1012132&utm_source=habrahabr&utm_medium=rss)
+- [Россия заняла второе место в G20 по доступности безлимитного интернета](https://habr.com/ru/news/1012130/?utm_campaign=1012130&utm_source=habrahabr&utm_medium=rss)
+- [Трафик из поиска Google на сайты резко упал](https://habr.com/ru/news/1012112/?utm_campaign=1012112&utm_source=habrahabr&utm_medium=rss)
+- [ИИ, облако и экономика IT: приглашаем обсудить на Демо дне Рег.облака](https://habr.com/ru/companies/runity/news/1012110/?utm_campaign=1012110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
