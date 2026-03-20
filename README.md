@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Рекламодатели резко нарастили размещения в Telegram на фоне ограничений](https://habr.com/ru/news/1012698/?utm_campaign=1012698&utm_source=habrahabr&utm_medium=rss)
+- [В релиз вышел проект Counter-Strike 1.6 в браузере](https://habr.com/ru/news/1012682/?utm_campaign=1012682&utm_source=habrahabr&utm_medium=rss)
 - [Провайдеры заявили о массовом демонтаже их оборудования на опорах «Россетей»](https://habr.com/ru/news/1012672/?utm_campaign=1012672&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс Практикум запустил курс «ML-инженер»](https://habr.com/ru/companies/yandex_praktikum/news/1012662/?utm_campaign=1012662&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Погоде» появился ИИ-чат с рекомендациями на основе прогноза](https://habr.com/ru/companies/tehrevizor/news/1012650/?utm_campaign=1012650&utm_source=habrahabr&utm_medium=rss)
-- [Создатель Signal сотрудничает с Meta* над шифрованием её ИИ](https://habr.com/ru/news/1012600/?utm_campaign=1012600&utm_source=habrahabr&utm_medium=rss)
-- [Депутаты Госдумы попросили Минцифры и ФАС объяснить принцип формирования «белых списков»](https://habr.com/ru/news/1012622/?utm_campaign=1012622&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
