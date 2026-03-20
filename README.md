@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Создатель Signal сотрудничает с Meta* над шифрованием её ИИ](https://habr.com/ru/news/1012600/?utm_campaign=1012600&utm_source=habrahabr&utm_medium=rss)
+- [Депутаты Госдумы попросили Минцифры и ФАС объяснить принцип формирования «белых списков»](https://habr.com/ru/news/1012622/?utm_campaign=1012622&utm_source=habrahabr&utm_medium=rss)
+- [MiniMax M2.7 — самоэволюционирующая модель с упором на coding, Office-задачи и агентные сценарии](https://habr.com/ru/news/1012604/?utm_campaign=1012604&utm_source=habrahabr&utm_medium=rss)
 - [DoorDash заплатит курьерам за отправку видеороликов для обучения ИИ](https://habr.com/ru/news/1012570/?utm_campaign=1012570&utm_source=habrahabr&utm_medium=rss)
 - [РИА «Новости»: в «белый список» Минцифры вошли более 120 сервисов](https://habr.com/ru/news/1012574/?utm_campaign=1012574&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Cloudflare: к 2027 году трафик от ботов в интернете превысит трафик от людей](https://habr.com/ru/news/1012564/?utm_campaign=1012564&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi представила флагманскую ИИ-модель MiMo-V2-Pro](https://habr.com/ru/companies/bothub/news/1012562/?utm_campaign=1012562&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA выложила безопасного ИИ-агента NemoClaw: 9000 звезд за 4 дня](https://habr.com/ru/news/1012560/?utm_campaign=1012560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
