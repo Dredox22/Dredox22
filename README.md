@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI создаст ИИ-ученого к 2028 году — на это брошены все исследовательские силы компании](https://habr.com/ru/news/1012946/?utm_campaign=1012946&utm_source=habrahabr&utm_medium=rss)
+- [Китайский робот научился теннису на 5 часах данных — и уже играет против человека](https://habr.com/ru/news/1012942/?utm_campaign=1012942&utm_source=habrahabr&utm_medium=rss)
 - [Вышел браузер Opera GX для Linux](https://habr.com/ru/news/1012474/?utm_campaign=1012474&utm_source=habrahabr&utm_medium=rss)
 - [Панели управления серверами и сайтами cPanel и Plesk от WebPros с 31 марта прекращают обслуживать клиентов из России](https://habr.com/ru/news/1012904/?utm_campaign=1012904&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила MAI-Image-2, заняв третье место в мировом рейтинге генерации изображений](https://habr.com/ru/companies/bothub/news/1012808/?utm_campaign=1012808&utm_source=habrahabr&utm_medium=rss)
-- [Google превратил AI Studio в IDE для вайб-кодинга — с бэкендом, базами и мультиплеером](https://habr.com/ru/news/1012776/?utm_campaign=1012776&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователю Super Micro Computer предъявили обвинения в США за контрабанду ИИ-серверов в Китай](https://habr.com/ru/news/1012760/?utm_campaign=1012760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
