@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DoorDash заплатит курьерам за отправку видеороликов для обучения ИИ](https://habr.com/ru/news/1012570/?utm_campaign=1012570&utm_source=habrahabr&utm_medium=rss)
+- [РИА «Новости»: в «белый список» Минцифры вошли более 120 сервисов](https://habr.com/ru/news/1012574/?utm_campaign=1012574&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор Cloudflare: к 2027 году трафик от ботов в интернете превысит трафик от людей](https://habr.com/ru/news/1012564/?utm_campaign=1012564&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi представила флагманскую ИИ-модель MiMo-V2-Pro](https://habr.com/ru/companies/bothub/news/1012562/?utm_campaign=1012562&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA выложила безопасного ИИ-агента NemoClaw: 9000 звезд за 4 дня](https://habr.com/ru/news/1012560/?utm_campaign=1012560&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code Channels: управляем AI-агентом из Telegram и Discord](https://habr.com/ru/news/1012558/?utm_campaign=1012558&utm_source=habrahabr&utm_medium=rss)
-- [Новая функция Microsoft может навсегда изменить способ удаления данных почтовых ящиков](https://habr.com/ru/news/1012548/?utm_campaign=1012548&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Погоде» появился ИИ-чат на базе технологии Alice AI, который помогает спланировать день с учётом погоды](https://habr.com/ru/news/1012536/?utm_campaign=1012536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
