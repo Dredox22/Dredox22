@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [20 марта: значительно усилился сетевой сбой в работе Telegram в РФ](https://habr.com/ru/news/1012488/?utm_campaign=1012488&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Samba 4.24.0](https://habr.com/ru/news/1012200/?utm_campaign=1012200&utm_source=habrahabr&utm_medium=rss)
 - [NoClaw — ИИ-агент с Unix-философией: пайпы и текстовые файлы вместо фреймворка на 400 000 строк](https://habr.com/ru/news/1012466/?utm_campaign=1012466&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила нейросеть LiTo: она генерирует 3D-объекты с реалистичными бликами и отражениями по одной фотографии](https://habr.com/ru/news/1012462/?utm_campaign=1012462&utm_source=habrahabr&utm_medium=rss)
 - [К 2027 году Apple обяжет iOS-разработчиков перенести свои приложения на интерфейс Liquid Glass](https://habr.com/ru/news/1012458/?utm_campaign=1012458&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.2 не смогла сложить 5+7. Как эзотерические языки обнулили передовые модели](https://habr.com/ru/news/1012456/?utm_campaign=1012456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
