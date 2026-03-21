@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты RKS Global исследовали 8 популярных альтернативных клиентов Telegram для Android](https://habr.com/ru/news/1013100/?utm_campaign=1013100&utm_source=habrahabr&utm_medium=rss)
+- [В Минцифры, «Ростелекоме» и Госдуме назвали фейком информацию о введении белых списков у проводных операторов](https://habr.com/ru/news/1013086/?utm_campaign=1013086&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сокращает интеграцию Copilot в Windows 11 после критики пользователей](https://habr.com/ru/companies/tehrevizor/news/1013094/?utm_campaign=1013094&utm_source=habrahabr&utm_medium=rss)
 - [WordPress.com позволит ИИ-агентам писать и публиковать контент на сайтах](https://habr.com/ru/companies/tehrevizor/news/1013092/?utm_campaign=1013092&utm_source=habrahabr&utm_medium=rss)
 - [Palantir стал постоянным поставщиком ИИ для Пентагона. Внутри все еще работает запрещенный Claude](https://habr.com/ru/news/1013066/?utm_campaign=1013066&utm_source=habrahabr&utm_medium=rss)
-- [В MIT научили робота видеть сквозь стены через Wi-Fi](https://habr.com/ru/news/1013056/?utm_campaign=1013056&utm_source=habrahabr&utm_medium=rss)
-- [Французский офицер выдал расположение авианосца в Средиземном море, записав пробежку в Strava с геолокацией](https://habr.com/ru/news/1013054/?utm_campaign=1013054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
