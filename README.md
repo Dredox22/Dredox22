@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-генератор изображений Adobe Firefly теперь можно обучать на своих работах](https://habr.com/ru/companies/bothub/news/1013040/?utm_campaign=1013040&utm_source=habrahabr&utm_medium=rss)
 - [Студенты НГТУ НЭТИ делают приложение «Тихий угол» — сервис для интровертов и любителей спокойного времяпрепровождения](https://habr.com/ru/news/1013032/?utm_campaign=1013032&utm_source=habrahabr&utm_medium=rss)
 - [OpenCode — open-source coding agent с 126k звездами. Что это, и почему все обсуждают](https://habr.com/ru/news/1013022/?utm_campaign=1013022&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия платформы совместной разработки Radicle 1.7](https://habr.com/ru/news/1012752/?utm_campaign=1012752&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba сократила более 66 тыс. сотрудников за год на фоне смены стратегии в сторону ИИ](https://habr.com/ru/companies/tehrevizor/news/1013006/?utm_campaign=1013006&utm_source=habrahabr&utm_medium=rss)
-- [Из-за кибератаки на компанию алкотестеров в США водители не могли завести машины](https://habr.com/ru/news/1013000/?utm_campaign=1013000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
