@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [День SRE на конференции Teх.Диалог](https://habr.com/ru/news/1012994/?utm_campaign=1012994&utm_source=habrahabr&utm_medium=rss)
 - [Релиз САПР KiCad 10.0](https://habr.com/ru/news/1012982/?utm_campaign=1012982&utm_source=habrahabr&utm_medium=rss)
 - [OpenTTD: Atari не оказывала давления с целью выпуска в Steam и GOG бесплатного проекта только в комплекте с TDD за $10](https://habr.com/ru/news/1012526/?utm_campaign=1012526&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Wayland 1.25](https://habr.com/ru/news/1012496/?utm_campaign=1012496&utm_source=habrahabr&utm_medium=rss)
 - [ИИ спровоцировал серьёзный инцидент в системе безопасности в Meta*](https://habr.com/ru/news/1012724/?utm_campaign=1012724&utm_source=habrahabr&utm_medium=rss)
-- [Есть кто живой? Киберпреступные форумы в 2026. Или почему больше нет центра зла](https://habr.com/ru/news/1012956/?utm_campaign=1012956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
