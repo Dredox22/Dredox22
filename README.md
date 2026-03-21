@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Студенты НГТУ НЭТИ делают приложение «Тихий угол» — сервис для интровертов и любителей спокойного времяпрепровождения](https://habr.com/ru/news/1013032/?utm_campaign=1013032&utm_source=habrahabr&utm_medium=rss)
+- [OpenCode — open-source coding agent с 126k звездами. Что это, и почему все обсуждают](https://habr.com/ru/news/1013022/?utm_campaign=1013022&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия платформы совместной разработки Radicle 1.7](https://habr.com/ru/news/1012752/?utm_campaign=1012752&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba сократила более 66 тыс. сотрудников за год на фоне смены стратегии в сторону ИИ](https://habr.com/ru/companies/tehrevizor/news/1013006/?utm_campaign=1013006&utm_source=habrahabr&utm_medium=rss)
 - [Из-за кибератаки на компанию алкотестеров в США водители не могли завести машины](https://habr.com/ru/news/1013000/?utm_campaign=1013000&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправит проблему апдейтов через Центр обновления Windows](https://habr.com/ru/news/1012992/?utm_campaign=1012992&utm_source=habrahabr&utm_medium=rss)
-- [Мастер-классы по SRE на конференции Teх.Диалог](https://habr.com/ru/news/1012994/?utm_campaign=1012994&utm_source=habrahabr&utm_medium=rss)
-- [Релиз САПР KiCad 10.0](https://habr.com/ru/news/1012982/?utm_campaign=1012982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
