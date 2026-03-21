@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Состояние психоза»: Карпати — о жизни с 20 параллельными ИИ-агентами](https://habr.com/ru/news/1013162/?utm_campaign=1013162&utm_source=habrahabr&utm_medium=rss)
 - [ИИ видит болезнь за 5 лет до диагноза — достаточно одного КТ-снимка](https://habr.com/ru/news/1013130/?utm_campaign=1013130&utm_source=habrahabr&utm_medium=rss)
 - [Опыт не нужен, нужен ИИ: FlightStory нанимает вайб-кодеров вместо разработчиков](https://habr.com/ru/news/1013124/?utm_campaign=1013124&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты RKS Global исследовали 8 популярных альтернативных клиентов Telegram для Android](https://habr.com/ru/news/1013100/?utm_campaign=1013100&utm_source=habrahabr&utm_medium=rss)
 - [В Минцифры, «Ростелекоме», «Билайне» и Госдуме назвали фейком информацию о введении белых списков у проводных операторов](https://habr.com/ru/news/1013086/?utm_campaign=1013086&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сокращает интеграцию Copilot в Windows 11 после критики пользователей](https://habr.com/ru/companies/tehrevizor/news/1013094/?utm_campaign=1013094&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
