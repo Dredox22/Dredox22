@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Глава Unitree Robotics: роботы побьют мировой рекорд скорости человека уже в этом году](https://habr.com/ru/companies/bothub/news/1013286/?utm_campaign=1013286&utm_source=habrahabr&utm_medium=rss)
-- [В Москве завершилась Национальная технологическая олимпиада по искусственному интеллекту](https://habr.com/ru/companies/bothub/news/1013282/?utm_campaign=1013282&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA Nemotron-Cascade 2: MoE на 30B параметров и золото на математических олимпиадах](https://habr.com/ru/companies/bothub/news/1013278/?utm_campaign=1013278&utm_source=habrahabr&utm_medium=rss)
-- [Elevenlabs запустил маркетплейс AI-музыки](https://habr.com/ru/companies/bothub/news/1013276/?utm_campaign=1013276&utm_source=habrahabr&utm_medium=rss)
-- [ИИ обучили «научному вкусу»: модель на 30B обошла GPT-5.2 в оценке потенциала статей](https://habr.com/ru/news/1013300/?utm_campaign=1013300&utm_source=habrahabr&utm_medium=rss)
+- [Tencent интегрировала WeChat с ИИ-агентом OpenClaw на фоне гонки AI в Китае](https://habr.com/ru/companies/tehrevizor/news/1013356/?utm_campaign=1013356&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI начнет показывать рекламу всем пользователям ChatGPT Free и Go в США](https://habr.com/ru/companies/tehrevizor/news/1013352/?utm_campaign=1013352&utm_source=habrahabr&utm_medium=rss)
+- [Adobe разрешила дообучать модели на пользовательских данных](https://habr.com/ru/companies/bothub/news/1013290/?utm_campaign=1013290&utm_source=habrahabr&utm_medium=rss)
+- [AI-токены становятся новой частью компенсации инженеров — но не всё так однозначно](https://habr.com/ru/companies/tehrevizor/news/1013346/?utm_campaign=1013346&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики «Телеги» заявили, что пользуются технологиями VK на коммерческой основе и не связаны ещё как-то с компанией](https://habr.com/ru/news/1013344/?utm_campaign=1013344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
