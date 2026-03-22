@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft уменьшит объём интеграций Copilot в «Фотографиях», «Виджетах», «Блокноте», «Ножницах» и других приложениях](https://habr.com/ru/news/1013292/?utm_campaign=1013292&utm_source=habrahabr&utm_medium=rss)
+- [Google начал менять заголовки в поисковой выдаче на сгенерированные](https://habr.com/ru/companies/bothub/news/1013270/?utm_campaign=1013270&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия ELKS 0.9 — проекта ядра Linux для устаревших 16-разрядных процессоров Intel](https://habr.com/ru/news/1013256/?utm_campaign=1013256&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft может отказаться от обязательных учётных записей в Windows 11](https://habr.com/ru/news/1013220/?utm_campaign=1013220&utm_source=habrahabr&utm_medium=rss)
 - [Opensophy Hub — первый open-source проект от Opensophy: статическая платформа для документации с богатым Markdown](https://habr.com/ru/news/1013212/?utm_campaign=1013212&utm_source=habrahabr&utm_medium=rss)
-- [НИЯУ МИФИ в партнёрстве с Яндекс Практикумом проводит День открытых дверей онлайн-магистратуры для DE, ML, CV и NLP](https://habr.com/ru/companies/yandex_praktikum/news/1012872/?utm_campaign=1012872&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Cambalache 1.0 — инструмент для разработки GTK-интерфейсов](https://habr.com/ru/news/1013126/?utm_campaign=1013126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
