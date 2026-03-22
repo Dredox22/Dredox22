@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Лаборатория 3D — порт трилогии на движок GZDoom/UZDoom](https://habr.com/ru/news/1013196/?utm_campaign=1013196&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» пояснил, что «Яндекс Поиск» входит в «белый список» Минцифры и работает при ограничениях мобильного интернета](https://habr.com/ru/news/1013188/?utm_campaign=1013188&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного видеоредактора OpenShot 3.5.0](https://habr.com/ru/news/1013136/?utm_campaign=1013136&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления Wine 11.5](https://habr.com/ru/news/1012978/?utm_campaign=1012978&utm_source=habrahabr&utm_medium=rss)
 - [«Состояние психоза»: Карпати — о жизни с 20 параллельными ИИ-агентами](https://habr.com/ru/news/1013162/?utm_campaign=1013162&utm_source=habrahabr&utm_medium=rss)
-- [ИИ видит болезнь за 5 лет до диагноза — достаточно одного КТ-снимка](https://habr.com/ru/news/1013130/?utm_campaign=1013130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
