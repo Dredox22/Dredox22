@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Unitree Robotics: роботы побьют мировой рекорд скорости человека уже в этом году](https://habr.com/ru/companies/bothub/news/1013286/?utm_campaign=1013286&utm_source=habrahabr&utm_medium=rss)
+- [В Москве завершилась Национальная технологическая олимпиада по искусственному интеллекту](https://habr.com/ru/companies/bothub/news/1013282/?utm_campaign=1013282&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA Nemotron-Cascade 2: MoE на 30B параметров и золото на математических олимпиадах](https://habr.com/ru/companies/bothub/news/1013278/?utm_campaign=1013278&utm_source=habrahabr&utm_medium=rss)
 - [Elevenlabs запустил маркетплейс AI-музыки](https://habr.com/ru/companies/bothub/news/1013276/?utm_campaign=1013276&utm_source=habrahabr&utm_medium=rss)
 - [ИИ обучили «научному вкусу»: модель на 30B обошла GPT-5.2 в оценке потенциала статей](https://habr.com/ru/news/1013300/?utm_campaign=1013300&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft уменьшит объём интеграций Copilot в «Фотографиях», «Виджетах», «Блокноте», «Ножницах» и других приложениях](https://habr.com/ru/news/1013292/?utm_campaign=1013292&utm_source=habrahabr&utm_medium=rss)
-- [Google начал менять заголовки в поисковой выдаче на сгенерированные](https://habr.com/ru/companies/bothub/news/1013270/?utm_campaign=1013270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
