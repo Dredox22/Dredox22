@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft может отказаться от обязательных учётных записей в Windows 11](https://habr.com/ru/news/1013220/?utm_campaign=1013220&utm_source=habrahabr&utm_medium=rss)
+- [Opensophy Hub — первый open-source проект от Opensophy: статическая платформа для документации с богатым Markdown](https://habr.com/ru/news/1013212/?utm_campaign=1013212&utm_source=habrahabr&utm_medium=rss)
+- [НИЯУ МИФИ в партнёрстве с Яндекс Практикумом проводит День открытых дверей онлайн-магистратуры для DE, ML, CV и NLP](https://habr.com/ru/companies/yandex_praktikum/news/1012872/?utm_campaign=1012872&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Cambalache 1.0 — инструмент для разработки GTK-интерфейсов](https://habr.com/ru/news/1013126/?utm_campaign=1013126&utm_source=habrahabr&utm_medium=rss)
 - [Лаборатория 3D — порт трилогии на движок GZDoom/UZDoom](https://habr.com/ru/news/1013196/?utm_campaign=1013196&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» пояснил, что «Яндекс Поиск» входит в «белый список» Минцифры и работает при ограничениях мобильного интернета](https://habr.com/ru/news/1013188/?utm_campaign=1013188&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного видеоредактора OpenShot 3.5.0](https://habr.com/ru/news/1013136/?utm_campaign=1013136&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.5](https://habr.com/ru/news/1012978/?utm_campaign=1012978&utm_source=habrahabr&utm_medium=rss)
-- [«Состояние психоза»: Карпати — о жизни с 20 параллельными ИИ-агентами](https://habr.com/ru/news/1013162/?utm_campaign=1013162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
