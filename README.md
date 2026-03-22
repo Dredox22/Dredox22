@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Baidu готовит DoctorClaw — OpenClaw для врачей](https://habr.com/ru/news/1013388/?utm_campaign=1013388&utm_source=habrahabr&utm_medium=rss)
 - [Google начала закрытое тестирование Gemini для macOS](https://habr.com/ru/companies/bothub/news/1013294/?utm_campaign=1013294&utm_source=habrahabr&utm_medium=rss)
 - [Tencent интегрировала WeChat с ИИ-агентом OpenClaw на фоне гонки AI в Китае](https://habr.com/ru/companies/tehrevizor/news/1013356/?utm_campaign=1013356&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI начнет показывать рекламу всем пользователям ChatGPT Free и Go в США](https://habr.com/ru/companies/tehrevizor/news/1013352/?utm_campaign=1013352&utm_source=habrahabr&utm_medium=rss)
 - [Adobe разрешила дообучать модели на пользовательских данных](https://habr.com/ru/companies/bothub/news/1013290/?utm_campaign=1013290&utm_source=habrahabr&utm_medium=rss)
-- [AI-токены становятся новой частью компенсации инженеров — но не всё так однозначно](https://habr.com/ru/companies/tehrevizor/news/1013346/?utm_campaign=1013346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
