@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Visa разрешила ИИ-агентам платить по карте через командную строку](https://habr.com/ru/news/1013456/?utm_campaign=1013456&utm_source=habrahabr&utm_medium=rss)
+- [МГТУ им. Баумана открыл бесплатный доступ к производству фотонных чипов на основе нитрида кремния](https://habr.com/ru/news/1013454/?utm_campaign=1013454&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил обучающий режим в «Алисе AI» для решения математических задач](https://habr.com/ru/news/1013446/?utm_campaign=1013446&utm_source=habrahabr&utm_medium=rss)
 - [50 побед и 600 поражений ИИ в математике: Теренс Тао объяснил, что модели могут и не могут в науке](https://habr.com/ru/news/1013418/?utm_campaign=1013418&utm_source=habrahabr&utm_medium=rss)
 - [Baidu готовит DoctorClaw — OpenClaw для врачей](https://habr.com/ru/news/1013388/?utm_campaign=1013388&utm_source=habrahabr&utm_medium=rss)
-- [Google начала закрытое тестирование Gemini для macOS](https://habr.com/ru/companies/bothub/news/1013294/?utm_campaign=1013294&utm_source=habrahabr&utm_medium=rss)
-- [Tencent интегрировала WeChat с ИИ-агентом OpenClaw на фоне гонки AI в Китае](https://habr.com/ru/companies/tehrevizor/news/1013356/?utm_campaign=1013356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
