@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Java 26, Applet API удалили, connection pool и Netflix | Spring АйО Подкаст №55](https://habr.com/ru/companies/spring_aio/news/1013892/?utm_campaign=1013892&utm_source=habrahabr&utm_medium=rss)
+- [«Не воспроизводится»: запускаем подкаст о реалиях мира QA](https://habr.com/ru/companies/avito/news/1013886/?utm_campaign=1013886&utm_source=habrahabr&utm_medium=rss)
+- [Helion Сэма Альтмана продаст OpenAI часть энергии](https://habr.com/ru/companies/bothub/news/1013880/?utm_campaign=1013880&utm_source=habrahabr&utm_medium=rss)
 - [В интернете появился полный теханализ MITM-атаки в клиенте Telega от неизвестного источника](https://habr.com/ru/news/1013846/?utm_campaign=1013846&utm_source=habrahabr&utm_medium=rss)
 - [Уволят за отказ от ИИ: в Китае работодатели заставляют осваивать OpenClaw под угрозой сокращения](https://habr.com/ru/news/1013840/?utm_campaign=1013840&utm_source=habrahabr&utm_medium=rss)
-- [В Raspberry Pi Connect появилась функция OTA-обновлений устройств](https://habr.com/ru/news/1013838/?utm_campaign=1013838&utm_source=habrahabr&utm_medium=rss)
-- [SimpleOne Platform 1.31.0: быстрее работа с данными — больше контроля и гибкости](https://habr.com/ru/companies/simpleone/news/1013834/?utm_campaign=1013834&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-плагин в Solar appScreener в 10 раз ускоряет безопасную разработку софта](https://habr.com/ru/companies/solarsecurity/news/1013830/?utm_campaign=1013830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
