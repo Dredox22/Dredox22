@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ВОЗ займется ментальным здоровьем пользователей ИИ — стандарты создадут для шести регионов мира](https://habr.com/ru/news/1013518/?utm_campaign=1013518&utm_source=habrahabr&utm_medium=rss)
-- [Вышел проект CopySpeak — легковесное приложение для Windows, которое читает текст из буфера обмена вслух с помощью ИИ](https://habr.com/ru/news/1013508/?utm_campaign=1013508&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый демо-проект Ghostling — минималистичный терминал на основе libghostty](https://habr.com/ru/news/1013500/?utm_campaign=1013500&utm_source=habrahabr&utm_medium=rss)
-- [Зафиксирован небольшой спад в сетевом сбое при мониторинге работы Telegram в РФ](https://habr.com/ru/news/1013488/?utm_campaign=1013488&utm_source=habrahabr&utm_medium=rss)
-- [Visa разрешила ИИ-агентам платить по карте через командную строку](https://habr.com/ru/news/1013456/?utm_campaign=1013456&utm_source=habrahabr&utm_medium=rss)
+- [Торгово-промышленная палата предложила включить сайты аптек в «белые списки»](https://habr.com/ru/news/1013574/?utm_campaign=1013574&utm_source=habrahabr&utm_medium=rss)
+- [Соучредитель компании-разработчика Halide подал в суд на своего бывшего партнёра за передачу исходного кода в Apple](https://habr.com/ru/news/1013562/?utm_campaign=1013562&utm_source=habrahabr&utm_medium=rss)
+- [ИИ помог учёным создать робота-выживальщика](https://habr.com/ru/news/1013560/?utm_campaign=1013560&utm_source=habrahabr&utm_medium=rss)
+- [Новости фронтенда](https://habr.com/ru/news/1013542/?utm_campaign=1013542&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры начали использовать для взлома iPhone коммерческое шпионское ПО, ранее доступное правительственным структурам](https://habr.com/ru/news/1013536/?utm_campaign=1013536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
