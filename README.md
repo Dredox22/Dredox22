@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple анонсировала WWDC 2026: конференция пройдёт с 8 по 12 июня](https://habr.com/ru/news/1013978/?utm_campaign=1013978&utm_source=habrahabr&utm_medium=rss)
 - [Робот для сбора фруктов получил национальную премию](https://habr.com/ru/companies/bothub/news/1013918/?utm_campaign=1013918&utm_source=habrahabr&utm_medium=rss)
 - [Cursor начали делать локальные индексы для regex-поиска прямо в IDE](https://habr.com/ru/news/1013958/?utm_campaign=1013958&utm_source=habrahabr&utm_medium=rss)
 - [Huawei выпустила ИИ-чип быстрее Nvidia H20 — и с собственной памятью HBM](https://habr.com/ru/companies/bothub/news/1013910/?utm_campaign=1013910&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «В „МойОфис“ пройдут массовые сокращения из‑за финансовых трудностей»](https://habr.com/ru/news/1013948/?utm_campaign=1013948&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi выпускает три модели MiMo: для агентов, роботов и голоса](https://habr.com/ru/companies/bothub/news/1013902/?utm_campaign=1013902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
