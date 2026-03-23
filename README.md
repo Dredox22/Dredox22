@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ВК ДжейТи Митап: оптимизация и масштабируемость на Go](https://habr.com/ru/companies/vk/news/1013710/?utm_campaign=1013710&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь провёл реверс-инжиниринг TiinyAI Pocket Lab на основе маркетинговых данных](https://habr.com/ru/news/1013706/?utm_campaign=1013706&utm_source=habrahabr&utm_medium=rss)
-- [Цукерберг разрабатывает персонального ИИ-агента, который должен помочь ему выполнять работу гендиректора](https://habr.com/ru/news/1013688/?utm_campaign=1013688&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1013682/?utm_campaign=1013682&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предложило разрешить поиск экстремистских материалов в научных и служебных целях](https://habr.com/ru/news/1013676/?utm_campaign=1013676&utm_source=habrahabr&utm_medium=rss)
+- [В интернете появился полный теханализ MITM-атаки в клиенте Telega от неизвестного источника](https://habr.com/ru/news/1013846/?utm_campaign=1013846&utm_source=habrahabr&utm_medium=rss)
+- [Уволят за отказ от ИИ: в Китае работодатели заставляют осваивать OpenClaw под угрозой сокращения](https://habr.com/ru/news/1013840/?utm_campaign=1013840&utm_source=habrahabr&utm_medium=rss)
+- [В Raspberry Pi Connect появилась функция OTA-обновлений устройств](https://habr.com/ru/news/1013838/?utm_campaign=1013838&utm_source=habrahabr&utm_medium=rss)
+- [SimpleOne Platform 1.31.0: быстрее работа с данными — больше контроля и гибкости](https://habr.com/ru/companies/simpleone/news/1013834/?utm_campaign=1013834&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-плагин в Solar appScreener в 10 раз ускоряет безопасную разработку софта](https://habr.com/ru/companies/solarsecurity/news/1013830/?utm_campaign=1013830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
