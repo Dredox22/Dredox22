@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Торгово-промышленная палата предложила включить сайты аптек в «белые списки»](https://habr.com/ru/news/1013574/?utm_campaign=1013574&utm_source=habrahabr&utm_medium=rss)
-- [Соучредитель компании-разработчика Halide подал в суд на своего бывшего партнёра за передачу исходного кода в Apple](https://habr.com/ru/news/1013562/?utm_campaign=1013562&utm_source=habrahabr&utm_medium=rss)
-- [ИИ помог учёным создать робота-выживальщика](https://habr.com/ru/news/1013560/?utm_campaign=1013560&utm_source=habrahabr&utm_medium=rss)
-- [Новости фронтенда](https://habr.com/ru/news/1013542/?utm_campaign=1013542&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали использовать для взлома iPhone коммерческое шпионское ПО, ранее доступное правительственным структурам](https://habr.com/ru/news/1013536/?utm_campaign=1013536&utm_source=habrahabr&utm_medium=rss)
+- [Обновление на Minecraft-сервере Selectel](https://habr.com/ru/companies/selectel/news/1013514/?utm_campaign=1013514&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Starlette 1.0.0](https://habr.com/ru/news/1013634/?utm_campaign=1013634&utm_source=habrahabr&utm_medium=rss)
+- [Владелец Palantir инвестировал в стартап по производству умных ошейников для коров Halter](https://habr.com/ru/news/1013616/?utm_campaign=1013616&utm_source=habrahabr&utm_medium=rss)
+- [Маск: SpaceX и Tesla построят заводы AI-чипов в Техасе](https://habr.com/ru/companies/tehrevizor/news/1013614/?utm_campaign=1013614&utm_source=habrahabr&utm_medium=rss)
+- [Атака на цепочку поставок Trivy запустила червь CanisterWorm в десятках пакетов npm](https://habr.com/ru/news/1013600/?utm_campaign=1013600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
