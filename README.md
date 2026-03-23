@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic завела научный блог — и сразу выложила кейс, где Claude сыграл роль аспиранта-физика](https://habr.com/ru/news/1014008/?utm_campaign=1014008&utm_source=habrahabr&utm_medium=rss)
 - [Qwen 3.5 с 397 млрд параметров запустили на iPhone 17 Pro: для этого понадобился внешний SSD](https://habr.com/ru/news/1013994/?utm_campaign=1013994&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI гарантировала инвесторам 17,5% дохода — все, чтобы обойти Anthropic](https://habr.com/ru/news/1013992/?utm_campaign=1013992&utm_source=habrahabr&utm_medium=rss)
 - [Apple анонсировала WWDC 2026: конференция пройдёт с 8 по 12 июня](https://habr.com/ru/news/1013978/?utm_campaign=1013978&utm_source=habrahabr&utm_medium=rss)
 - [Робот для сбора фруктов получил национальную премию](https://habr.com/ru/companies/bothub/news/1013918/?utm_campaign=1013918&utm_source=habrahabr&utm_medium=rss)
-- [Cursor начали делать локальные индексы для regex-поиска прямо в IDE](https://habr.com/ru/news/1013958/?utm_campaign=1013958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
