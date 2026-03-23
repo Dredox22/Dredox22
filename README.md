@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ВОЗ займется ментальным здоровьем пользователей ИИ — стандарты создадут для шести регионов мира](https://habr.com/ru/news/1013518/?utm_campaign=1013518&utm_source=habrahabr&utm_medium=rss)
+- [Вышел проект CopySpeak — легковесное приложение для Windows, которое читает текст из буфера обмена вслух с помощью ИИ](https://habr.com/ru/news/1013508/?utm_campaign=1013508&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый демо-проект Ghostling — минималистичный терминал на основе libghostty](https://habr.com/ru/news/1013500/?utm_campaign=1013500&utm_source=habrahabr&utm_medium=rss)
 - [Зафиксирован небольшой спад в сетевом сбое при мониторинге работы Telegram в РФ](https://habr.com/ru/news/1013488/?utm_campaign=1013488&utm_source=habrahabr&utm_medium=rss)
 - [Visa разрешила ИИ-агентам платить по карте через командную строку](https://habr.com/ru/news/1013456/?utm_campaign=1013456&utm_source=habrahabr&utm_medium=rss)
-- [МГТУ им. Баумана открыл бесплатный доступ к производству фотонных чипов на основе нитрида кремния](https://habr.com/ru/news/1013454/?utm_campaign=1013454&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» запустил обучающий режим в «Алисе AI» для решения математических задач](https://habr.com/ru/news/1013446/?utm_campaign=1013446&utm_source=habrahabr&utm_medium=rss)
-- [50 побед и 600 поражений ИИ в математике: Теренс Тао объяснил, что модели могут и не могут в науке](https://habr.com/ru/news/1013418/?utm_campaign=1013418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
