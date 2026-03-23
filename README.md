@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Зафиксирован небольшой спад в сетевом сбое при мониторинге работы Telegram в РФ](https://habr.com/ru/news/1013488/?utm_campaign=1013488&utm_source=habrahabr&utm_medium=rss)
 - [Visa разрешила ИИ-агентам платить по карте через командную строку](https://habr.com/ru/news/1013456/?utm_campaign=1013456&utm_source=habrahabr&utm_medium=rss)
 - [МГТУ им. Баумана открыл бесплатный доступ к производству фотонных чипов на основе нитрида кремния](https://habr.com/ru/news/1013454/?utm_campaign=1013454&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» запустил обучающий режим в «Алисе AI» для решения математических задач](https://habr.com/ru/news/1013446/?utm_campaign=1013446&utm_source=habrahabr&utm_medium=rss)
 - [50 побед и 600 поражений ИИ в математике: Теренс Тао объяснил, что модели могут и не могут в науке](https://habr.com/ru/news/1013418/?utm_campaign=1013418&utm_source=habrahabr&utm_medium=rss)
-- [Baidu готовит DoctorClaw — OpenClaw для врачей](https://habr.com/ru/news/1013388/?utm_campaign=1013388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
