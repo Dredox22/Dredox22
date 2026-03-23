@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi выпускает три модели MiMo: для агентов, роботов и голоса](https://habr.com/ru/companies/bothub/news/1013902/?utm_campaign=1013902&utm_source=habrahabr&utm_medium=rss)
+- [Геймеры создали сайт-насмешку над DLSS 5 с «бьютификацией» любой картинки](https://habr.com/ru/companies/bothub/news/1013894/?utm_campaign=1013894&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Java 26, Applet API удалили, connection pool и Netflix | Spring АйО Подкаст №55](https://habr.com/ru/companies/spring_aio/news/1013892/?utm_campaign=1013892&utm_source=habrahabr&utm_medium=rss)
 - [«Не воспроизводится»: запускаем подкаст о реалиях мира QA](https://habr.com/ru/companies/avito/news/1013886/?utm_campaign=1013886&utm_source=habrahabr&utm_medium=rss)
 - [Helion Сэма Альтмана продаст OpenAI часть энергии](https://habr.com/ru/companies/bothub/news/1013880/?utm_campaign=1013880&utm_source=habrahabr&utm_medium=rss)
-- [В интернете появился полный теханализ MITM-атаки в клиенте Telega от неизвестного источника](https://habr.com/ru/news/1013846/?utm_campaign=1013846&utm_source=habrahabr&utm_medium=rss)
-- [Уволят за отказ от ИИ: в Китае работодатели заставляют осваивать OpenClaw под угрозой сокращения](https://habr.com/ru/news/1013840/?utm_campaign=1013840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
