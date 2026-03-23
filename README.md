@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление на Minecraft-сервере Selectel](https://habr.com/ru/companies/selectel/news/1013514/?utm_campaign=1013514&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Starlette 1.0.0](https://habr.com/ru/news/1013634/?utm_campaign=1013634&utm_source=habrahabr&utm_medium=rss)
-- [Владелец Palantir инвестировал в стартап по производству умных ошейников для коров Halter](https://habr.com/ru/news/1013616/?utm_campaign=1013616&utm_source=habrahabr&utm_medium=rss)
-- [Маск: SpaceX и Tesla построят заводы AI-чипов в Техасе](https://habr.com/ru/companies/tehrevizor/news/1013614/?utm_campaign=1013614&utm_source=habrahabr&utm_medium=rss)
-- [Атака на цепочку поставок Trivy запустила червь CanisterWorm в десятках пакетов npm](https://habr.com/ru/news/1013600/?utm_campaign=1013600&utm_source=habrahabr&utm_medium=rss)
+- [ВК ДжейТи Митап: оптимизация и масштабируемость на Go](https://habr.com/ru/companies/vk/news/1013710/?utm_campaign=1013710&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь провёл реверс-инжиниринг TiinyAI Pocket Lab на основе маркетинговых данных](https://habr.com/ru/news/1013706/?utm_campaign=1013706&utm_source=habrahabr&utm_medium=rss)
+- [Цукерберг разрабатывает персонального ИИ-агента, который должен помочь ему выполнять работу гендиректора](https://habr.com/ru/news/1013688/?utm_campaign=1013688&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1013682/?utm_campaign=1013682&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило разрешить поиск экстремистских материалов в научных и служебных целях](https://habr.com/ru/news/1013676/?utm_campaign=1013676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
