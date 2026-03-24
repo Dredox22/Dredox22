@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI выпустила open source-инструменты для повышения безопасности ИИ-приложений для подростков](https://habr.com/ru/companies/tehrevizor/news/1014506/?utm_campaign=1014506&utm_source=habrahabr&utm_medium=rss)
 - [Новый режим Claude Code – auto mode: ИИ сам решает, какие действия безопасны](https://habr.com/ru/companies/bothub/news/1014498/?utm_campaign=1014498&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила крупное обновление графического API DirectX](https://habr.com/ru/news/1014476/?utm_campaign=1014476&utm_source=habrahabr&utm_medium=rss)
 - [Пакет для вызова 100+ нейросетей крал ключи при запуске Python — под ударом тысячи разработчиков](https://habr.com/ru/news/1014480/?utm_campaign=1014480&utm_source=habrahabr&utm_medium=rss)
 - [“Сбер” выпустил GigaChat 3.1 &lpar;702B и 10B&rpar;: две мощные MoE-модели с лицензией MIT](https://habr.com/ru/companies/bothub/news/1014478/?utm_campaign=1014478&utm_source=habrahabr&utm_medium=rss)
-- [Прокуратура США просит 5 лет 1 месяц лишения свободы для основателя хакерской группировки Mario Kart Ильи Ангелова](https://habr.com/ru/news/1014456/?utm_campaign=1014456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
