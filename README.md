@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила крупное обновление графического API DirectX](https://habr.com/ru/news/1014476/?utm_campaign=1014476&utm_source=habrahabr&utm_medium=rss)
+- [Пакет для вызова 100+ нейросетей крал ключи при запуске Python — под ударом тысячи разработчиков](https://habr.com/ru/news/1014480/?utm_campaign=1014480&utm_source=habrahabr&utm_medium=rss)
+- [“Сбер” выпустил GigaChat 3.1 &lpar;702B и 10B&rpar;: две мощные MoE-модели с лицензией MIT](https://habr.com/ru/companies/bothub/news/1014478/?utm_campaign=1014478&utm_source=habrahabr&utm_medium=rss)
+- [Прокуратура США просит 5 лет 1 месяц лишения свободы для основателя хакерской группировки Mario Kart Ильи Ангелова](https://habr.com/ru/news/1014456/?utm_campaign=1014456&utm_source=habrahabr&utm_medium=rss)
 - [Атака на цепочку поставок: litellm 1.82.7 и 1.82.8 на PyPI содержат стилер credentials](https://habr.com/ru/news/1014444/?utm_campaign=1014444&utm_source=habrahabr&utm_medium=rss)
-- [Figma открыла канвас для ИИ-агентов: они теперь не только читают макеты, но и рисуют](https://habr.com/ru/news/1014436/?utm_campaign=1014436&utm_source=habrahabr&utm_medium=rss)
-- [ComNews: «1С» повысит на 14% цены на свои продукты и услуги в 2026 году](https://habr.com/ru/news/1014392/?utm_campaign=1014392&utm_source=habrahabr&utm_medium=rss)
-- [$150 000 за месяц на Claude Code: новая гонка пожирателей токенов](https://habr.com/ru/news/1014384/?utm_campaign=1014384&utm_source=habrahabr&utm_medium=rss)
-- [Инфобез: сколько стоит один инцидент для бизнеса?](https://habr.com/ru/companies/multifactor/news/1014358/?utm_campaign=1014358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
