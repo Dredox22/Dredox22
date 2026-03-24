@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ComNews: «1С» повысит на 14% цены на свои продукты и услуги в 2026 году](https://habr.com/ru/news/1014392/?utm_campaign=1014392&utm_source=habrahabr&utm_medium=rss)
+- [$150 000 за месяц на Claude Code: новая гонка пожирателей токенов](https://habr.com/ru/news/1014384/?utm_campaign=1014384&utm_source=habrahabr&utm_medium=rss)
 - [Инфобез: сколько стоит один инцидент для бизнеса?](https://habr.com/ru/companies/multifactor/news/1014358/?utm_campaign=1014358&utm_source=habrahabr&utm_medium=rss)
 - [В России представили первую открытую методологию тестирования RAG‑систем](https://habr.com/ru/news/1014356/?utm_campaign=1014356&utm_source=habrahabr&utm_medium=rss)
 - [$410 млрд на ИИ, ноль в ВВП: экономисты описали «парадокс продуктивности»](https://habr.com/ru/news/1014324/?utm_campaign=1014324&utm_source=habrahabr&utm_medium=rss)
-- [Mail запустил ИИ чат-бот для пользователей](https://habr.com/ru/news/1014296/?utm_campaign=1014296&utm_source=habrahabr&utm_medium=rss)
-- [Chuwi признала проблему с ноутбуками CoreBook X с Ryzen 5 5500U](https://habr.com/ru/news/1014270/?utm_campaign=1014270&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
