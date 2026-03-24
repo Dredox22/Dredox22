@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor ускоряет regex-поиск по коду для ИИ-агентов](https://habr.com/ru/news/1014092/?utm_campaign=1014092&utm_source=habrahabr&utm_medium=rss)
-- [Cursor признал: да, мы взяли за основу китайскую Kimi, а не создали Composer 2 с нуля](https://habr.com/ru/companies/bothub/news/1014090/?utm_campaign=1014090&utm_source=habrahabr&utm_medium=rss)
-- [«Бюро 1440»: первые 16 спутников низкоорбитальной группировки «Рассвет» выведены на орбиту и вышли на связь с ЦУП](https://habr.com/ru/news/1014064/?utm_campaign=1014064&utm_source=habrahabr&utm_medium=rss)
-- [Claude берет мышь в руки: Anthropic встроила computer use в Code и Cowork](https://habr.com/ru/news/1014052/?utm_campaign=1014052&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: пользователи из РФ столкнулись со сбросом сессий в Telegram](https://habr.com/ru/news/1014048/?utm_campaign=1014048&utm_source=habrahabr&utm_medium=rss)
+- [Хайп закончился: российский бизнес массово сворачивает GenAI-проекты](https://habr.com/ru/companies/tehrevizor/news/1014184/?utm_campaign=1014184&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запустил бесплатный курс по работе с ML-моделями](https://habr.com/ru/companies/selectel/news/1014166/?utm_campaign=1014166&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.4 Pro опроверг открытую гипотезу теории вероятностей за 3 страницы](https://habr.com/ru/news/1014168/?utm_campaign=1014168&utm_source=habrahabr&utm_medium=rss)
+- [В 70% компаний собственная разработка не успевает за бизнесом](https://habr.com/ru/companies/lansoft_career/news/1013624/?utm_campaign=1013624&utm_source=habrahabr&utm_medium=rss)
+- [70% новых статей по программной инженерии на ArXiv связаны с LLM](https://habr.com/ru/news/1014134/?utm_campaign=1014134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
