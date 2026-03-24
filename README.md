@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chuwi признала проблему с ноутбуками CoreBook X с Ryzen 5 5500U](https://habr.com/ru/news/1014270/?utm_campaign=1014270&utm_source=habrahabr&utm_medium=rss)
+- [Спецслужбы США, Канады и Германии нейтрализовали C2-инфраструктуру ботнетов Aisuru, Kimwolf, JackSkid и Mossad](https://habr.com/ru/news/1014272/?utm_campaign=1014272&utm_source=habrahabr&utm_medium=rss)
+- [В OneDrive внедрили ещё одну ИИ-функцию](https://habr.com/ru/news/1014250/?utm_campaign=1014250&utm_source=habrahabr&utm_medium=rss)
+- [Московский НИИ радиосвязи сделал спутниковую антенну «Эфир-600» для связи и доступа в интернет в самолётах и на кораблях](https://habr.com/ru/news/1014244/?utm_campaign=1014244&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на ML-хакатон от RWB &lpar;Wildberries &amp;amp; Russ&rpar;](https://habr.com/ru/companies/wildberries/news/1014196/?utm_campaign=1014196&utm_source=habrahabr&utm_medium=rss)
-- [На Урале и в Сибири откроются первые студенческие лаборатории для обучения вайб-кодингу](https://habr.com/ru/companies/tehrevizor/news/1014190/?utm_campaign=1014190&utm_source=habrahabr&utm_medium=rss)
-- [Хайп закончился: российский бизнес массово сворачивает GenAI-проекты](https://habr.com/ru/companies/tehrevizor/news/1014184/?utm_campaign=1014184&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запустил бесплатный курс по работе с ML-моделями](https://habr.com/ru/companies/selectel/news/1014166/?utm_campaign=1014166&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.4 Pro опроверг открытую гипотезу теории вероятностей за 3 страницы](https://habr.com/ru/news/1014168/?utm_campaign=1014168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
