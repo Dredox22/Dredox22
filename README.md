@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [$410 млрд на ИИ, ноль в ВВП: экономисты описали «парадокс продуктивности»](https://habr.com/ru/news/1014324/?utm_campaign=1014324&utm_source=habrahabr&utm_medium=rss)
+- [Mail запустил ИИ чат-бот для пользователей](https://habr.com/ru/news/1014296/?utm_campaign=1014296&utm_source=habrahabr&utm_medium=rss)
 - [Chuwi признала проблему с ноутбуками CoreBook X с Ryzen 5 5500U](https://habr.com/ru/news/1014270/?utm_campaign=1014270&utm_source=habrahabr&utm_medium=rss)
 - [Спецслужбы США, Канады и Германии нейтрализовали C2-инфраструктуру ботнетов Aisuru, Kimwolf, JackSkid и Mossad](https://habr.com/ru/news/1014272/?utm_campaign=1014272&utm_source=habrahabr&utm_medium=rss)
 - [В OneDrive внедрили ещё одну ИИ-функцию](https://habr.com/ru/news/1014250/?utm_campaign=1014250&utm_source=habrahabr&utm_medium=rss)
-- [Московский НИИ радиосвязи сделал спутниковую антенну «Эфир-600» для связи и доступа в интернет в самолётах и на кораблях](https://habr.com/ru/news/1014244/?utm_campaign=1014244&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на ML-хакатон от RWB &lpar;Wildberries &amp;amp; Russ&rpar;](https://habr.com/ru/companies/wildberries/news/1014196/?utm_campaign=1014196&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
