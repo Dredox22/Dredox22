@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем на ML-хакатон от RWB &lpar;Wildberries &amp;amp; Russ&rpar;](https://habr.com/ru/companies/wildberries/news/1014196/?utm_campaign=1014196&utm_source=habrahabr&utm_medium=rss)
+- [На Урале и в Сибири откроются первые студенческие лаборатории для обучения вайб-кодингу](https://habr.com/ru/companies/tehrevizor/news/1014190/?utm_campaign=1014190&utm_source=habrahabr&utm_medium=rss)
 - [Хайп закончился: российский бизнес массово сворачивает GenAI-проекты](https://habr.com/ru/companies/tehrevizor/news/1014184/?utm_campaign=1014184&utm_source=habrahabr&utm_medium=rss)
 - [Selectel запустил бесплатный курс по работе с ML-моделями](https://habr.com/ru/companies/selectel/news/1014166/?utm_campaign=1014166&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.4 Pro опроверг открытую гипотезу теории вероятностей за 3 страницы](https://habr.com/ru/news/1014168/?utm_campaign=1014168&utm_source=habrahabr&utm_medium=rss)
-- [В 70% компаний собственная разработка не успевает за бизнесом](https://habr.com/ru/companies/lansoft_career/news/1013624/?utm_campaign=1013624&utm_source=habrahabr&utm_medium=rss)
-- [70% новых статей по программной инженерии на ArXiv связаны с LLM](https://habr.com/ru/news/1014134/?utm_campaign=1014134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
