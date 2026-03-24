@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Бюро 1440»: первые 16 спутников низкоорбитальной группировки «Рассвет» выведены на орбиту и вышли на связь с ЦУП](https://habr.com/ru/news/1014064/?utm_campaign=1014064&utm_source=habrahabr&utm_medium=rss)
 - [Claude берет мышь в руки: Anthropic встроила computer use в Code и Cowork](https://habr.com/ru/news/1014052/?utm_campaign=1014052&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: пользователи из РФ столкнулись со сбросом сессий в Telegram](https://habr.com/ru/news/1014048/?utm_campaign=1014048&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Firefox 149.0](https://habr.com/ru/news/1013844/?utm_campaign=1013844&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Bottles 63.0 — оболочки на основе Wine для запуска приложений Windows в Linux](https://habr.com/ru/news/1013628/?utm_campaign=1013628&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный директор Pinterest призвал правительства запретить соцсети для пользователей младше 16 лет](https://habr.com/ru/news/1013652/?utm_campaign=1013652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
