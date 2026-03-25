@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Техподдержка оператора связи в РФ пояснила, что домашний интернет будет работать лучше, если на ПК отключён Telegram](https://habr.com/ru/news/1014786/?utm_campaign=1014786&utm_source=habrahabr&utm_medium=rss)
+- [Amazon приобрела стартап в сфере человекоподобных роботов Fauna Robotics](https://habr.com/ru/news/1014778/?utm_campaign=1014778&utm_source=habrahabr&utm_medium=rss)
+- [Полиция Гонконга будет штрафовать за отказ от передачи паролей смартфонов](https://habr.com/ru/news/1014760/?utm_campaign=1014760&utm_source=habrahabr&utm_medium=rss)
+- [AKTIV.CONSULTING приглашает на RUSCADASEC 2026](https://habr.com/ru/companies/aktiv-company/news/1014740/?utm_campaign=1014740&utm_source=habrahabr&utm_medium=rss)
 - [Горелкин: инициативы по полному запрету VPN-сервисов в РФ не обсуждаются, РКН продолжит блокировку сервисов-нарушителей](https://habr.com/ru/news/1014728/?utm_campaign=1014728&utm_source=habrahabr&utm_medium=rss)
-- [Облачный провайдер Nubes запускает сертифицированное облако для объектов критической информационной инфраструктуры &lpar;КИИ&rpar;](https://habr.com/ru/companies/nubes/news/1014726/?utm_campaign=1014726&utm_source=habrahabr&utm_medium=rss)
-- [Sony закрывает ещё одну внутреннюю игровую студию и сокращает штат в других подразделениях](https://habr.com/ru/news/1014724/?utm_campaign=1014724&utm_source=habrahabr&utm_medium=rss)
-- [Bearlyfy выпустили джинна: F6 проанализировала свежие атаки группы](https://habr.com/ru/companies/F6/news/1014722/?utm_campaign=1014722&utm_source=habrahabr&utm_medium=rss)
-- [«Выглядит как попытка искалечить Anthropic»: судья раскритиковала Пентагон](https://habr.com/ru/news/1014702/?utm_campaign=1014702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
