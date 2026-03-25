@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление открытого мультиплатформенного растрового графического редактора Krita 5.3 и релиз Krita 6.0](https://habr.com/ru/news/1014378/?utm_campaign=1014378&utm_source=habrahabr&utm_medium=rss)
-- [Вышел дистрибутив для пентестеров Kali Linux 2026.1](https://habr.com/ru/news/1014806/?utm_campaign=1014806&utm_source=habrahabr&utm_medium=rss)
-- [Tencent встроила OpenClaw в WeChat через нового агента ClawBot](https://habr.com/ru/news/1014788/?utm_campaign=1014788&utm_source=habrahabr&utm_medium=rss)
-- [В «Билайне» опровергли сообщения о блокировке доступа к сети при включённом Telegram](https://habr.com/ru/news/1014786/?utm_campaign=1014786&utm_source=habrahabr&utm_medium=rss)
-- [Amazon приобрела стартап в сфере человекоподобных роботов Fauna Robotics](https://habr.com/ru/news/1014778/?utm_campaign=1014778&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ рекомендовал банкам самим уведомлять клиентов о блокировках операций](https://habr.com/ru/news/1014866/?utm_campaign=1014866&utm_source=habrahabr&utm_medium=rss)
+- [Google введёт «период охлаждения» в 24 часа перед установкой приложений из внешних источников](https://habr.com/ru/news/1014864/?utm_campaign=1014864&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Infrastructure as Code на практике»](https://habr.com/ru/companies/icore/news/1014846/?utm_campaign=1014846&utm_source=habrahabr&utm_medium=rss)
+- [«Рег.ру» запустил перенос сайтов с панелей управления веб-серверами Plesk и cPanel на отечественные аналоги](https://habr.com/ru/news/1014844/?utm_campaign=1014844&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek строит конкурента Claude Code — компания набирает 17 агентных инженеров](https://habr.com/ru/news/1014842/?utm_campaign=1014842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
