@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TurboQuant: Google сжал KV-кеш LLM до 3 бит без потери точности – ускорение на H100 до 8 раз](https://habr.com/ru/companies/bothub/news/1015098/?utm_campaign=1015098&utm_source=habrahabr&utm_medium=rss)
+- [Фейковые рентген-снимки от ИИ научились обманывать не только врачей, но и другие нейросети](https://habr.com/ru/companies/tehrevizor/news/1015094/?utm_campaign=1015094&utm_source=habrahabr&utm_medium=rss)
+- [Белый дом хочет принять первый крупный федеральный закон об ИИ уже в 2026 году](https://habr.com/ru/companies/tehrevizor/news/1015090/?utm_campaign=1015090&utm_source=habrahabr&utm_medium=rss)
 - [Центры обработки данных переходят с переменного тока на постоянный](https://habr.com/ru/news/1015062/?utm_campaign=1015062&utm_source=habrahabr&utm_medium=rss)
 - [Reddit ужесточает проверку аккаунтов с подозрительным поведением](https://habr.com/ru/companies/bothub/news/1015054/?utm_campaign=1015054&utm_source=habrahabr&utm_medium=rss)
-- [Вышел бенчмарк ARC-AGI-3: люди набирают 100%, GPT-5.4 — 0,26%](https://habr.com/ru/news/1015044/?utm_campaign=1015044&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появились прогнозы погоды от AccuWeather](https://habr.com/ru/news/1015034/?utm_campaign=1015034&utm_source=habrahabr&utm_medium=rss)
-- [Локальная Gemini на iPhone? Сделка с Google оказалась глубже, чем все думали](https://habr.com/ru/news/1015006/?utm_campaign=1015006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
