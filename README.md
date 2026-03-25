@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Composer 2, Unsloth Studio и Claude, который нажимает кнопки за вас](https://habr.com/ru/news/1014490/?utm_campaign=1014490&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI закончила предобучение модели Spud. В компании появился отдел по запуску AGI](https://habr.com/ru/news/1014612/?utm_campaign=1014612&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры планирует увеличить пропускную способность ТСПУ до 954 Тбит/с к 2030 году](https://habr.com/ru/news/1014590/?utm_campaign=1014590&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект cliamp — ретро-терминальный музыкальный плеер, вдохновлённый Winamp](https://habr.com/ru/news/1014284/?utm_campaign=1014284&utm_source=habrahabr&utm_medium=rss)
 - [Вышел AnyDesk 9.6.12 для Windows, AnyDesk 9.6.4 для MacOS и AnyDesk 8.0.1 для Linux/Raspberry Pi](https://habr.com/ru/news/1014056/?utm_campaign=1014056&utm_source=habrahabr&utm_medium=rss)
-- [Сегодня в 11:00 будет вебинар «Особенности охраны ИТ-решений»](https://habr.com/ru/news/1014576/?utm_campaign=1014576&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind показала, как Gemini 3.1 Flash Lite создаёт веб-сайты во время навигации](https://habr.com/ru/companies/bothub/news/1014536/?utm_campaign=1014536&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
