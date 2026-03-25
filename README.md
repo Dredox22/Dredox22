@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Центры обработки данных переходят с переменного тока на постоянный](https://habr.com/ru/news/1015062/?utm_campaign=1015062&utm_source=habrahabr&utm_medium=rss)
 - [Вышел бенчмарк ARC-AGI-3: люди набирают 100%, GPT-5.4 — 0,26%](https://habr.com/ru/news/1015044/?utm_campaign=1015044&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT появились прогнозы погоды от AccuWeather](https://habr.com/ru/news/1015034/?utm_campaign=1015034&utm_source=habrahabr&utm_medium=rss)
 - [Локальная Gemini на iPhone? Сделка с Google оказалась глубже, чем все думали](https://habr.com/ru/news/1015006/?utm_campaign=1015006&utm_source=habrahabr&utm_medium=rss)
 - [Open Conf 2026: UserGate представил своё видение архитектуры сетевого доверия](https://habr.com/ru/companies/usergate/news/1014986/?utm_campaign=1014986&utm_source=habrahabr&utm_medium=rss)
-- [Правительство Великобритании выпустило рекомендации по подготовке к отключению 2G](https://habr.com/ru/news/1014972/?utm_campaign=1014972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
