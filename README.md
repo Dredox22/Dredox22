@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Банки раскритиковали обязательное подтверждение операций через СМС и Mах](https://habr.com/ru/news/1014678/?utm_campaign=1014678&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрыла способ включить в Windows 11 функцию ускорения SSD](https://habr.com/ru/news/1014662/?utm_campaign=1014662&utm_source=habrahabr&utm_medium=rss)
-- [Релиз TypeScript 6.0](https://habr.com/ru/news/1014308/?utm_campaign=1014308&utm_source=habrahabr&utm_medium=rss)
-- [ФАС до конца 2026 года не будет штрафовать за рекламу в Telegram и YouTube](https://habr.com/ru/news/1014624/?utm_campaign=1014624&utm_source=habrahabr&utm_medium=rss)
-- [Composer 2, Unsloth Studio и Claude, который нажимает кнопки за вас](https://habr.com/ru/news/1014490/?utm_campaign=1014490&utm_source=habrahabr&utm_medium=rss)
+- [Горелкин: инициативы по полному запрету VPN-сервисов в РФ не обсуждаются, РКН продолжит блокировку сервисов-нарушителей](https://habr.com/ru/news/1014728/?utm_campaign=1014728&utm_source=habrahabr&utm_medium=rss)
+- [Облачный провайдер Nubes запускает сертифицированное облако для объектов критической информационной инфраструктуры &lpar;КИИ&rpar;](https://habr.com/ru/companies/nubes/news/1014726/?utm_campaign=1014726&utm_source=habrahabr&utm_medium=rss)
+- [Sony закрывает ещё одну внутреннюю игровую студию и сокращает штат в других подразделениях](https://habr.com/ru/news/1014724/?utm_campaign=1014724&utm_source=habrahabr&utm_medium=rss)
+- [Bearlyfy выпустили джинна: F6 проанализировала свежие атаки группы](https://habr.com/ru/companies/F6/news/1014722/?utm_campaign=1014722&utm_source=habrahabr&utm_medium=rss)
+- [«Выглядит как попытка искалечить Anthropic»: судья раскритиковала Пентагон](https://habr.com/ru/news/1014702/?utm_campaign=1014702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
