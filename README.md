@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ЦБ рекомендовал банкам самим уведомлять клиентов о блокировках операций](https://habr.com/ru/news/1014866/?utm_campaign=1014866&utm_source=habrahabr&utm_medium=rss)
-- [Google введёт «период охлаждения» в 24 часа перед установкой приложений из внешних источников](https://habr.com/ru/news/1014864/?utm_campaign=1014864&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Infrastructure as Code на практике»](https://habr.com/ru/companies/icore/news/1014846/?utm_campaign=1014846&utm_source=habrahabr&utm_medium=rss)
-- [«Рег.ру» запустил перенос сайтов с панелей управления веб-серверами Plesk и cPanel на отечественные аналоги](https://habr.com/ru/news/1014844/?utm_campaign=1014844&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek строит конкурента Claude Code — компания набирает 17 агентных инженеров](https://habr.com/ru/news/1014842/?utm_campaign=1014842&utm_source=habrahabr&utm_medium=rss)
+- [ИИ из Stanford сам исследует данные о COVID и старении — и находит новые закономерности](https://habr.com/ru/news/1014938/?utm_campaign=1014938&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» открыл набор в летний ML-кампус и соревнование с призом в 1 млн рублей для начинающих специалистов](https://habr.com/ru/news/1014932/?utm_campaign=1014932&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Демонстрационного атласа Luxms BI](https://habr.com/ru/companies/luxms_bi/news/1014930/?utm_campaign=1014930&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» добавила в образовательный курс для студентов модуль по конструктивной кибербезопасности](https://habr.com/ru/news/1014904/?utm_campaign=1014904&utm_source=habrahabr&utm_medium=rss)
+- [Платформа Tantor 6.3: 90-дневная пробная лицензия, улучшения инфраструктуры, аналитики и управления доступом](https://habr.com/ru/companies/tantor/news/1014610/?utm_campaign=1014610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
