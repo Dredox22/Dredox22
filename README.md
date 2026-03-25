@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект cliamp — ретро-терминальный музыкальный плеер, вдохновлённый Winamp](https://habr.com/ru/news/1014284/?utm_campaign=1014284&utm_source=habrahabr&utm_medium=rss)
+- [Вышел AnyDesk 9.6.12 для Windows, AnyDesk 9.6.4 для MacOS и AnyDesk 8.0.1 для Linux/Raspberry Pi](https://habr.com/ru/news/1014056/?utm_campaign=1014056&utm_source=habrahabr&utm_medium=rss)
+- [Сегодня в 11:00 будет вебинар «Особенности охраны ИТ-решений»](https://habr.com/ru/news/1014576/?utm_campaign=1014576&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind показала, как Gemini 3.1 Flash Lite создаёт веб-сайты во время навигации](https://habr.com/ru/companies/bothub/news/1014536/?utm_campaign=1014536&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI закрывает Sora — приложение не прожило и полгода](https://habr.com/ru/news/1014528/?utm_campaign=1014528&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI закрывает нейросеть Sora для генерации видео](https://habr.com/ru/news/1014526/?utm_campaign=1014526&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила open source-инструменты для повышения безопасности ИИ-приложений для подростков](https://habr.com/ru/companies/tehrevizor/news/1014506/?utm_campaign=1014506&utm_source=habrahabr&utm_medium=rss)
-- [Новый режим Claude Code – auto mode: ИИ сам решает, какие действия безопасны](https://habr.com/ru/companies/bothub/news/1014498/?utm_campaign=1014498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
