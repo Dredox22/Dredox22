@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел бенчмарк ARC-AGI-3: люди набирают 100%, GPT-5.4 — 0,26%](https://habr.com/ru/news/1015044/?utm_campaign=1015044&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT появились прогнозы погоды от AccuWeather](https://habr.com/ru/news/1015034/?utm_campaign=1015034&utm_source=habrahabr&utm_medium=rss)
+- [Локальная Gemini на iPhone? Сделка с Google оказалась глубже, чем все думали](https://habr.com/ru/news/1015006/?utm_campaign=1015006&utm_source=habrahabr&utm_medium=rss)
 - [Open Conf 2026: UserGate представил своё видение архитектуры сетевого доверия](https://habr.com/ru/companies/usergate/news/1014986/?utm_campaign=1014986&utm_source=habrahabr&utm_medium=rss)
 - [Правительство Великобритании выпустило рекомендации по подготовке к отключению 2G](https://habr.com/ru/news/1014972/?utm_campaign=1014972&utm_source=habrahabr&utm_medium=rss)
-- [Цукерберг, Эллисон, Хуанг и Брин вошли в новый технологический совет Трампа](https://habr.com/ru/companies/bothub/news/1014970/?utm_campaign=1014970&utm_source=habrahabr&utm_medium=rss)
-- [ИИ из Stanford сам исследует данные о COVID и старении — и находит новые закономерности](https://habr.com/ru/news/1014938/?utm_campaign=1014938&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» открыл набор в летний ML-кампус и соревнование с призом в 1 млн рублей для начинающих специалистов](https://habr.com/ru/news/1014932/?utm_campaign=1014932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
