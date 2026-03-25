@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Техподдержка оператора связи в РФ пояснила, что домашний интернет будет работать лучше, если на ПК отключён Telegram](https://habr.com/ru/news/1014786/?utm_campaign=1014786&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого мультиплатформенного растрового графического редактора Krita 5.3 и релиз Krita 6.0](https://habr.com/ru/news/1014378/?utm_campaign=1014378&utm_source=habrahabr&utm_medium=rss)
+- [Вышел дистрибутив для пентестеров Kali Linux 2026.1](https://habr.com/ru/news/1014806/?utm_campaign=1014806&utm_source=habrahabr&utm_medium=rss)
+- [Tencent встроила OpenClaw в WeChat через нового агента ClawBot](https://habr.com/ru/news/1014788/?utm_campaign=1014788&utm_source=habrahabr&utm_medium=rss)
+- [В «Билайне» опровергли сообщения о блокировке доступа к сети при включённом Telegram](https://habr.com/ru/news/1014786/?utm_campaign=1014786&utm_source=habrahabr&utm_medium=rss)
 - [Amazon приобрела стартап в сфере человекоподобных роботов Fauna Robotics](https://habr.com/ru/news/1014778/?utm_campaign=1014778&utm_source=habrahabr&utm_medium=rss)
-- [Полиция Гонконга будет штрафовать за отказ от передачи паролей смартфонов](https://habr.com/ru/news/1014760/?utm_campaign=1014760&utm_source=habrahabr&utm_medium=rss)
-- [AKTIV.CONSULTING приглашает на RUSCADASEC 2026](https://habr.com/ru/companies/aktiv-company/news/1014740/?utm_campaign=1014740&utm_source=habrahabr&utm_medium=rss)
-- [Горелкин: инициативы по полному запрету VPN-сервисов в РФ не обсуждаются, РКН продолжит блокировку сервисов-нарушителей](https://habr.com/ru/news/1014728/?utm_campaign=1014728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
