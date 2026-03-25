@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Conf 2026: UserGate представил своё видение архитектуры сетевого доверия](https://habr.com/ru/companies/usergate/news/1014986/?utm_campaign=1014986&utm_source=habrahabr&utm_medium=rss)
+- [Правительство Великобритании выпустило рекомендации по подготовке к отключению 2G](https://habr.com/ru/news/1014972/?utm_campaign=1014972&utm_source=habrahabr&utm_medium=rss)
+- [Цукерберг, Эллисон, Хуанг и Брин вошли в новый технологический совет Трампа](https://habr.com/ru/companies/bothub/news/1014970/?utm_campaign=1014970&utm_source=habrahabr&utm_medium=rss)
 - [ИИ из Stanford сам исследует данные о COVID и старении — и находит новые закономерности](https://habr.com/ru/news/1014938/?utm_campaign=1014938&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» открыл набор в летний ML-кампус и соревнование с призом в 1 млн рублей для начинающих специалистов](https://habr.com/ru/news/1014932/?utm_campaign=1014932&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Демонстрационного атласа Luxms BI](https://habr.com/ru/companies/luxms_bi/news/1014930/?utm_campaign=1014930&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» добавила в образовательный курс для студентов модуль по конструктивной кибербезопасности](https://habr.com/ru/news/1014904/?utm_campaign=1014904&utm_source=habrahabr&utm_medium=rss)
-- [Платформа Tantor 6.3: 90-дневная пробная лицензия, улучшения инфраструктуры, аналитики и управления доступом](https://habr.com/ru/companies/tantor/news/1014610/?utm_campaign=1014610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
