@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Россия начнёт разработку литографа для производства чипов по технологии 90 нм в 2026 году](https://habr.com/ru/news/1015588/?utm_campaign=1015588&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики из Fplus раскрыли характеристики прототипа первой российской игровой приставки](https://habr.com/ru/news/1015574/?utm_campaign=1015574&utm_source=habrahabr&utm_medium=rss)
 - [Команда Telegram подключилась к разработке OpenClaw](https://habr.com/ru/news/1015566/?utm_campaign=1015566&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.1 Flash Live — голосовой ИИ со скоростью живого диалога](https://habr.com/ru/news/1015562/?utm_campaign=1015562&utm_source=habrahabr&utm_medium=rss)
 - [Почему конференции мертвы и зачем мы делаем свою. Часть IV](https://habr.com/ru/news/1015558/?utm_campaign=1015558&utm_source=habrahabr&utm_medium=rss)
-- [Почему дата-центры будущего откажутся от переменного тока](https://habr.com/ru/companies/cloud4y/news/1015546/?utm_campaign=1015546&utm_source=habrahabr&utm_medium=rss)
-- [Президент «Ростелекома»: Telegram умирает прямо сейчас, стационарный телефон обязательно должен быть в каждом доме](https://habr.com/ru/news/1015506/?utm_campaign=1015506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
