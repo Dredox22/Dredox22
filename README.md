@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Президент «Ростелекома»: Telegram умирает прямо сейчас, стационарный телефон обязательно должен быть в каждом доме](https://habr.com/ru/news/1015506/?utm_campaign=1015506&utm_source=habrahabr&utm_medium=rss)
+- [За год стоимость оперативной памяти DDR4 выросла почти в 9 раз](https://habr.com/ru/news/1015502/?utm_campaign=1015502&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры РФ разработало новые правила регистрации биометрии для людей с особенностями лица и голоса](https://habr.com/ru/news/1015488/?utm_campaign=1015488&utm_source=habrahabr&utm_medium=rss)
 - [Apple ввела подтверждение возраста для пользователей в Великобритании](https://habr.com/ru/news/1015416/?utm_campaign=1015416&utm_source=habrahabr&utm_medium=rss)
 - [В Москве прошло награждение победителей Международной олимпиады по промышленной разработке PROD](https://habr.com/ru/news/1015390/?utm_campaign=1015390&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT для взрослых заморожен бессрочно — OpenAI теперь строит «суперприложение»](https://habr.com/ru/news/1015384/?utm_campaign=1015384&utm_source=habrahabr&utm_medium=rss)
-- [С 1 апреля в России изменятся правила перевода денег](https://habr.com/ru/news/1015338/?utm_campaign=1015338&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla представила платформу cq — Stack Overflow для ИИ-агентов](https://habr.com/ru/news/1015326/?utm_campaign=1015326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
