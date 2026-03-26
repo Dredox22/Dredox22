@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Команда Telegram подключилась к разработке OpenClaw](https://habr.com/ru/news/1015566/?utm_campaign=1015566&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3.1 Flash Live — голосовой ИИ со скоростью живого диалога](https://habr.com/ru/news/1015562/?utm_campaign=1015562&utm_source=habrahabr&utm_medium=rss)
+- [Почему конференции мертвы и зачем мы делаем свою. Часть IV](https://habr.com/ru/news/1015558/?utm_campaign=1015558&utm_source=habrahabr&utm_medium=rss)
+- [Почему дата-центры будущего откажутся от переменного тока](https://habr.com/ru/companies/cloud4y/news/1015546/?utm_campaign=1015546&utm_source=habrahabr&utm_medium=rss)
 - [Президент «Ростелекома»: Telegram умирает прямо сейчас, стационарный телефон обязательно должен быть в каждом доме](https://habr.com/ru/news/1015506/?utm_campaign=1015506&utm_source=habrahabr&utm_medium=rss)
-- [За год стоимость оперативной памяти DDR4 выросла почти в 9 раз](https://habr.com/ru/news/1015502/?utm_campaign=1015502&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ разработало новые правила регистрации биометрии для людей с особенностями лица и голоса](https://habr.com/ru/news/1015488/?utm_campaign=1015488&utm_source=habrahabr&utm_medium=rss)
-- [Apple ввела подтверждение возраста для пользователей в Великобритании](https://habr.com/ru/news/1015416/?utm_campaign=1015416&utm_source=habrahabr&utm_medium=rss)
-- [В Москве прошло награждение победителей Международной олимпиады по промышленной разработке PROD](https://habr.com/ru/news/1015390/?utm_campaign=1015390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
