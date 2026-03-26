@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен первый публичный релиз VitruvianOS — гибрида Haiku и BeOS на базе Debian/Linux](https://habr.com/ru/news/1014872/?utm_campaign=1014872&utm_source=habrahabr&utm_medium=rss)
+- [Закрытие Sora застало Disney врасплох: сделка на $1 млрд развалилась за 30 минут](https://habr.com/ru/news/1015106/?utm_campaign=1015106&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Mozilla Thunderbird 149.0](https://habr.com/ru/news/1014608/?utm_campaign=1014608&utm_source=habrahabr&utm_medium=rss)
+- [Новая политика приватности GitHub Copilot изменит подход к сбору данных разработчиков](https://habr.com/ru/news/1015128/?utm_campaign=1015128&utm_source=habrahabr&utm_medium=rss)
 - [GrapheneOS не будет соблюдать новые законы, требующие от ОС сбора данных о возрасте пользователей](https://habr.com/ru/news/1014730/?utm_campaign=1014730&utm_source=habrahabr&utm_medium=rss)
-- [TurboQuant: Google сжал KV-кеш LLM до 3 бит без потери точности – ускорение на H100 до 8 раз](https://habr.com/ru/companies/bothub/news/1015098/?utm_campaign=1015098&utm_source=habrahabr&utm_medium=rss)
-- [Фейковые рентген-снимки от ИИ научились обманывать не только врачей, но и другие нейросети](https://habr.com/ru/companies/tehrevizor/news/1015094/?utm_campaign=1015094&utm_source=habrahabr&utm_medium=rss)
-- [Белый дом хочет принять первый крупный федеральный закон об ИИ уже в 2026 году](https://habr.com/ru/companies/tehrevizor/news/1015090/?utm_campaign=1015090&utm_source=habrahabr&utm_medium=rss)
-- [Центры обработки данных переходят с переменного тока на постоянный](https://habr.com/ru/news/1015062/?utm_campaign=1015062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
