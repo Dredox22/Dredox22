@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple ввела подтверждение возраста для пользователей в Великобритании](https://habr.com/ru/news/1015416/?utm_campaign=1015416&utm_source=habrahabr&utm_medium=rss)
+- [В Москве прошло награждение победителей Международной олимпиады по промышленной разработке PROD](https://habr.com/ru/news/1015390/?utm_campaign=1015390&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT для взрослых заморожен бессрочно — OpenAI теперь строит «суперприложение»](https://habr.com/ru/news/1015384/?utm_campaign=1015384&utm_source=habrahabr&utm_medium=rss)
 - [С 1 апреля в России изменятся правила перевода денег](https://habr.com/ru/news/1015338/?utm_campaign=1015338&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla представила платформу cq — Stack Overflow для ИИ-агентов](https://habr.com/ru/news/1015326/?utm_campaign=1015326&utm_source=habrahabr&utm_medium=rss)
-- [ComNews: магистральные операторы РФ смогут повысить ёмкость стыков на границах до 38,5 Тбит/с к 2035 году](https://habr.com/ru/news/1015310/?utm_campaign=1015310&utm_source=habrahabr&utm_medium=rss)
-- [Импорт HTTP-скриптов и приватное окружение: релиз Amplicode 2025.3.2](https://habr.com/ru/companies/haulmont/news/1015312/?utm_campaign=1015312&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость системы защиты баз данных «Гарда DBF» и брокера сетевых пакетов DS Integrity EVO](https://habr.com/ru/companies/dsol/news/1015264/?utm_campaign=1015264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
