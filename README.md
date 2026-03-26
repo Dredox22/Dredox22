@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел FreeCAD 1.1](https://habr.com/ru/news/1015008/?utm_campaign=1015008&utm_source=habrahabr&utm_medium=rss)
 - [Представлен первый публичный релиз VitruvianOS — гибрида Haiku и BeOS на базе Debian/Linux](https://habr.com/ru/news/1014872/?utm_campaign=1014872&utm_source=habrahabr&utm_medium=rss)
 - [Закрытие Sora застало Disney врасплох: сделка на $1 млрд развалилась за 30 минут](https://habr.com/ru/news/1015106/?utm_campaign=1015106&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Mozilla Thunderbird 149.0](https://habr.com/ru/news/1014608/?utm_campaign=1014608&utm_source=habrahabr&utm_medium=rss)
 - [Новая политика приватности GitHub Copilot изменит подход к сбору данных разработчиков](https://habr.com/ru/news/1015128/?utm_campaign=1015128&utm_source=habrahabr&utm_medium=rss)
-- [GrapheneOS не будет соблюдать новые законы, требующие от ОС сбора данных о возрасте пользователей](https://habr.com/ru/news/1014730/?utm_campaign=1014730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
