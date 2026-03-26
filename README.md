@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Польше отбили кибератаку на главный ядерный исследовательский центр](https://habr.com/ru/companies/tehrevizor/news/1015288/?utm_campaign=1015288&utm_source=habrahabr&utm_medium=rss)
-- [Google представила новый ИИ-алгоритм сжатия памяти TurboQuant](https://habr.com/ru/news/1015266/?utm_campaign=1015266&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыты детали по уязвимости для удалённой DoS-атаки в FreeBSD через TCP](https://habr.com/ru/news/1015218/?utm_campaign=1015218&utm_source=habrahabr&utm_medium=rss)
-- [Иммиграционная служба Канады отклонила заявление учёного на основании придуманных ИИ данных](https://habr.com/ru/news/1015250/?utm_campaign=1015250&utm_source=habrahabr&utm_medium=rss)
-- [Как эффективно защитить бизнес и избежать рисков в эпоху GenAI — обсудим на митапе «Ecom и Вино»](https://habr.com/ru/companies/agima/news/1015254/?utm_campaign=1015254&utm_source=habrahabr&utm_medium=rss)
+- [С 1 апреля в России изменятся правила перевода денег](https://habr.com/ru/news/1015338/?utm_campaign=1015338&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla представила платформу cq — Stack Overflow для ИИ-агентов](https://habr.com/ru/news/1015326/?utm_campaign=1015326&utm_source=habrahabr&utm_medium=rss)
+- [ComNews: магистральные операторы РФ смогут повысить ёмкость стыков на границах до 38,5 Тбит/с к 2035 году](https://habr.com/ru/news/1015310/?utm_campaign=1015310&utm_source=habrahabr&utm_medium=rss)
+- [Импорт HTTP-скриптов и приватное окружение: релиз Amplicode 2025.3.2](https://habr.com/ru/companies/haulmont/news/1015312/?utm_campaign=1015312&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость системы защиты баз данных «Гарда DBF» и брокера сетевых пакетов DS Integrity EVO](https://habr.com/ru/companies/dsol/news/1015264/?utm_campaign=1015264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
