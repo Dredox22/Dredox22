@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Inno3D вместо гарантийного ремонта RTX 4090 попросила пользователя заменить термопасту, но потом согласилась на возврат](https://habr.com/ru/news/1015600/?utm_campaign=1015600&utm_source=habrahabr&utm_medium=rss)
 - [Россия начнёт разработку литографа для производства чипов по технологии 90 нм в 2026 году](https://habr.com/ru/news/1015588/?utm_campaign=1015588&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики из Fplus раскрыли характеристики прототипа первой российской игровой приставки](https://habr.com/ru/news/1015574/?utm_campaign=1015574&utm_source=habrahabr&utm_medium=rss)
 - [Команда Telegram подключилась к разработке OpenClaw](https://habr.com/ru/news/1015566/?utm_campaign=1015566&utm_source=habrahabr&utm_medium=rss)
 - [Gemini 3.1 Flash Live — голосовой ИИ со скоростью живого диалога](https://habr.com/ru/news/1015562/?utm_campaign=1015562&utm_source=habrahabr&utm_medium=rss)
-- [Почему конференции мертвы и зачем мы делаем свою. Часть IV](https://habr.com/ru/news/1015558/?utm_campaign=1015558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
