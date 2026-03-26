@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Отчёт Omnissa: Windows проигрывает macOS в корпоративной среде](https://habr.com/ru/news/1015642/?utm_campaign=1015642&utm_source=habrahabr&utm_medium=rss)
+- [Meta* выпустила ИИ-двойника человеческого мозга — он предсказывает реакции, а не мысли](https://habr.com/ru/news/1015630/?utm_campaign=1015630&utm_source=habrahabr&utm_medium=rss)
 - [Samsung выпустила фирменный браузер со встроенными AI-функциями для Windows](https://habr.com/ru/news/1015628/?utm_campaign=1015628&utm_source=habrahabr&utm_medium=rss)
 - [Mistral выпустила open source-модель для генерации речи](https://habr.com/ru/companies/tehrevizor/news/1015618/?utm_campaign=1015618&utm_source=habrahabr&utm_medium=rss)
 - [Inno3D вместо гарантийного ремонта RTX 4090 попросила пользователя заменить термопасту, но потом согласилась на возврат](https://habr.com/ru/news/1015600/?utm_campaign=1015600&utm_source=habrahabr&utm_medium=rss)
-- [Россия начнёт разработку литографа для производства чипов по технологии 90 нм в 2026 году](https://habr.com/ru/news/1015588/?utm_campaign=1015588&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики из Fplus раскрыли характеристики прототипа первой российской игровой приставки](https://habr.com/ru/news/1015574/?utm_campaign=1015574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
