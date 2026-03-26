@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Huawei Atlas 350 — конкурент NVIDIA или нишевый продукт? Новости из Поднебесной](https://habr.com/ru/companies/selectel/news/1015232/?utm_campaign=1015232&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 получит компактную панель задач подобно Windows 10](https://habr.com/ru/news/1015228/?utm_campaign=1015228&utm_source=habrahabr&utm_medium=rss)
-- [90% репозиториев с Claude Code имеют меньше 2 звезд. Это проблема или новая норма?](https://habr.com/ru/news/1015222/?utm_campaign=1015222&utm_source=habrahabr&utm_medium=rss)
-- [Верховный суд США встал на сторону интернет-провайдера в споре об авторских правах на пиратскую музыку](https://habr.com/ru/news/1015192/?utm_campaign=1015192&utm_source=habrahabr&utm_medium=rss)
-- [Новый 3-битный алгоритм Google заставил рынок переоценить ИИ-индустрию](https://habr.com/ru/news/1015190/?utm_campaign=1015190&utm_source=habrahabr&utm_medium=rss)
+- [В Польше отбили кибератаку на главный ядерный исследовательский центр](https://habr.com/ru/companies/tehrevizor/news/1015288/?utm_campaign=1015288&utm_source=habrahabr&utm_medium=rss)
+- [Google представила новый ИИ-алгоритм сжатия памяти TurboQuant](https://habr.com/ru/news/1015266/?utm_campaign=1015266&utm_source=habrahabr&utm_medium=rss)
+- [Раскрыты детали по уязвимости для удалённой DoS-атаки в FreeBSD через TCP](https://habr.com/ru/news/1015218/?utm_campaign=1015218&utm_source=habrahabr&utm_medium=rss)
+- [Иммиграционная служба Канады отклонила заявление учёного на основании придуманных ИИ данных](https://habr.com/ru/news/1015250/?utm_campaign=1015250&utm_source=habrahabr&utm_medium=rss)
+- [Как эффективно защитить бизнес и избежать рисков в эпоху GenAI — обсудим на митапе «Ecom и Вино»](https://habr.com/ru/companies/agima/news/1015254/?utm_campaign=1015254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
