@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Я создал браузерную игру, где каждое нажатие кнопки убивает людей](https://habr.com/ru/news/1015852/?utm_campaign=1015852&utm_source=habrahabr&utm_medium=rss)
+- [Intel представила видеокарты Arc Pro B70 и B65 для ИИ-вычислений](https://habr.com/ru/companies/bothub/news/1015850/?utm_campaign=1015850&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla и Mila будут продвигать ИИ c открытым исходным кодом](https://habr.com/ru/news/1015786/?utm_campaign=1015786&utm_source=habrahabr&utm_medium=rss)
+- [Mistral выпустила открытую модель синтеза речи Voxtral](https://habr.com/ru/companies/bothub/news/1015818/?utm_campaign=1015818&utm_source=habrahabr&utm_medium=rss)
 - [«Оруэлловское представление»: суд заблокировал запрет Claude в Пентагоне](https://habr.com/ru/news/1015790/?utm_campaign=1015790&utm_source=habrahabr&utm_medium=rss)
-- [Математик Герд Фальтингс — лауреат премии Абеля 2026 года](https://habr.com/ru/news/1015108/?utm_campaign=1015108&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp** предложит ИИ-подсказки для ответов на входящие сообщения](https://habr.com/ru/news/1015742/?utm_campaign=1015742&utm_source=habrahabr&utm_medium=rss)
-- [Claude Mythos: Anthropic случайно слила данные о своей мощнейшей модели](https://habr.com/ru/news/1015740/?utm_campaign=1015740&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft изменит политику ядра Windows](https://habr.com/ru/news/1015736/?utm_campaign=1015736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
