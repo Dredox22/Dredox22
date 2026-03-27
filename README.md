@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Tails 7.6](https://habr.com/ru/news/1015334/?utm_campaign=1015334&utm_source=habrahabr&utm_medium=rss)
+- [Huawei Atlas 350 — китайский ИИ-чип втрое мощнее Nvidia H20 &lpar;но есть нюанс!&rpar;](https://habr.com/ru/news/1015644/?utm_campaign=1015644&utm_source=habrahabr&utm_medium=rss)
+- [Вышел продвинутый менеджер буфера обмена с опциями редактирования CopyQ 14.0](https://habr.com/ru/news/1014680/?utm_campaign=1014680&utm_source=habrahabr&utm_medium=rss)
 - [Отчёт Omnissa: Windows проигрывает macOS в корпоративной среде](https://habr.com/ru/news/1015642/?utm_campaign=1015642&utm_source=habrahabr&utm_medium=rss)
 - [Meta* выпустила ИИ-двойника человеческого мозга — он предсказывает реакции, а не мысли](https://habr.com/ru/news/1015630/?utm_campaign=1015630&utm_source=habrahabr&utm_medium=rss)
-- [Samsung выпустила фирменный браузер со встроенными AI-функциями для Windows](https://habr.com/ru/news/1015628/?utm_campaign=1015628&utm_source=habrahabr&utm_medium=rss)
-- [Mistral выпустила open source-модель для генерации речи](https://habr.com/ru/companies/tehrevizor/news/1015618/?utm_campaign=1015618&utm_source=habrahabr&utm_medium=rss)
-- [Inno3D вместо гарантийного ремонта RTX 4090 попросила пользователя заменить термопасту, но потом согласилась на возврат](https://habr.com/ru/news/1015600/?utm_campaign=1015600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
