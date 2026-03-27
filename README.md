@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто убедительнее — GPT-5.4 или Claude Opus 4.6? Новый бенчмарк стравил 15 моделей](https://habr.com/ru/news/1016130/?utm_campaign=1016130&utm_source=habrahabr&utm_medium=rss)
+- [Huawei продвигает новый AI-чип 950PR, а ByteDance и Alibaba готовятся к заказам](https://habr.com/ru/companies/tehrevizor/news/1016126/?utm_campaign=1016126&utm_source=habrahabr&utm_medium=rss)
 - [SK hynix готовит крупнейшее за годы IPO в США, чтобы нарастить выпуск памяти для ИИ](https://habr.com/ru/companies/tehrevizor/news/1016122/?utm_campaign=1016122&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: ИИ-модели слишком часто поддакивают пользователю — даже если он неправ](https://habr.com/ru/companies/tehrevizor/news/1016116/?utm_campaign=1016116&utm_source=habrahabr&utm_medium=rss)
 - [В ChatGPT не появится эротический режим](https://habr.com/ru/companies/bothub/news/1016110/?utm_campaign=1016110&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic тестирует новую сверхмощную модель и готовится к IPO](https://habr.com/ru/companies/bothub/news/1016098/?utm_campaign=1016098&utm_source=habrahabr&utm_medium=rss)
-- [Основатель Figure AI строит «новый iPhone» для эпохи ИИ — и переманил дизайнера настоящего iPhone](https://habr.com/ru/news/1016086/?utm_campaign=1016086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
