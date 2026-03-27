@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cohere выпустила открытую модель распознавания речи Transcribe](https://habr.com/ru/companies/bothub/news/1015842/?utm_campaign=1015842&utm_source=habrahabr&utm_medium=rss)
-- [UserGate Open Conf 2026: 2500 зрителей, 40 экспертных докладов и атмосфера доверия](https://habr.com/ru/companies/usergate/news/1015998/?utm_campaign=1015998&utm_source=habrahabr&utm_medium=rss)
-- [Инженер Reco переписал JSONata с ИИ за $400 — и сэкономил $500 тыс в год](https://habr.com/ru/news/1015970/?utm_campaign=1015970&utm_source=habrahabr&utm_medium=rss)
-- [ГК Luxms провела серию тренингов для Комитета по информации и связи Правительства Санкт-Петербурга](https://habr.com/ru/companies/luxms_bi/news/1015964/?utm_campaign=1015964&utm_source=habrahabr&utm_medium=rss)
-- [SimpleOne GenAI-платформа вошла в тройку лучших рейтинга корпоративных ИИ-помощников по версии CNews](https://habr.com/ru/companies/simpleone/news/1015956/?utm_campaign=1015956&utm_source=habrahabr&utm_medium=rss)
+- [Основатель Figure AI строит «новый iPhone» для эпохи ИИ — и переманил дизайнера настоящего iPhone](https://habr.com/ru/news/1016086/?utm_campaign=1016086&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» интегрировал в платформу GitVerse ИИ-помощника для разработчиков GigaCode](https://habr.com/ru/news/1016084/?utm_campaign=1016084&utm_source=habrahabr&utm_medium=rss)
+- [GitHub начнет использовать код пользователей Copilot для обучения ИИ по умолчанию](https://habr.com/ru/companies/bothub/news/1016080/?utm_campaign=1016080&utm_source=habrahabr&utm_medium=rss)
+- [«Код Дурова»: в Telegram обнаружили уязвимость нулевого дня ZDI-CAN-30207](https://habr.com/ru/news/1016078/?utm_campaign=1016078&utm_source=habrahabr&utm_medium=rss)
+- [Google начинает подготовку Android к эре постквантовой криптографии](https://habr.com/ru/news/1016076/?utm_campaign=1016076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
