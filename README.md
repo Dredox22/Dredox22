@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Код Дурова»: в бета-версии Telegram появился ИИ-редактор сообщений](https://habr.com/ru/news/1015714/?utm_campaign=1015714&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-чат в «Яндекс Картах» стал понимать детализированные запросы пользователей](https://habr.com/ru/news/1015704/?utm_campaign=1015704&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.2](https://habr.com/ru/news/1014756/?utm_campaign=1014756&utm_source=habrahabr&utm_medium=rss)
+- [Google представила голосовую модель Gemini 3.1 Flash Live](https://habr.com/ru/companies/bothub/news/1015696/?utm_campaign=1015696&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tails 7.6](https://habr.com/ru/news/1015334/?utm_campaign=1015334&utm_source=habrahabr&utm_medium=rss)
-- [Huawei Atlas 350 — китайский ИИ-чип втрое мощнее Nvidia H20 &lpar;но есть нюанс!&rpar;](https://habr.com/ru/news/1015644/?utm_campaign=1015644&utm_source=habrahabr&utm_medium=rss)
-- [Вышел продвинутый менеджер буфера обмена с опциями редактирования CopyQ 14.0](https://habr.com/ru/news/1014680/?utm_campaign=1014680&utm_source=habrahabr&utm_medium=rss)
-- [Отчёт Omnissa: Windows проигрывает macOS в корпоративной среде](https://habr.com/ru/news/1015642/?utm_campaign=1015642&utm_source=habrahabr&utm_medium=rss)
-- [Meta* выпустила ИИ-двойника человеческого мозга — он предсказывает реакции, а не мысли](https://habr.com/ru/news/1015630/?utm_campaign=1015630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
