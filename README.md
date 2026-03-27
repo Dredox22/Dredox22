@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [UserGate Open Conf 2026: 2500 зрителей, 40 экспертных докладов и атмосфера доверия](https://habr.com/ru/companies/usergate/news/1015998/?utm_campaign=1015998&utm_source=habrahabr&utm_medium=rss)
+- [Инженер Reco переписал JSONata с ИИ за $400 — и сэкономил $500 тыс в год](https://habr.com/ru/news/1015970/?utm_campaign=1015970&utm_source=habrahabr&utm_medium=rss)
 - [ГК Luxms провела серию тренингов для Комитета по информации и связи Правительства Санкт-Петербурга](https://habr.com/ru/companies/luxms_bi/news/1015964/?utm_campaign=1015964&utm_source=habrahabr&utm_medium=rss)
 - [SimpleOne GenAI-платформа вошла в тройку лучших рейтинга корпоративных ИИ-помощников по версии CNews](https://habr.com/ru/companies/simpleone/news/1015956/?utm_campaign=1015956&utm_source=habrahabr&utm_medium=rss)
 - [PlantUML уступил лидерство Mermaid. Что это значит для системных аналитиков](https://habr.com/ru/news/1015912/?utm_campaign=1015912&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic урезает лимиты Claude в пиковые часы — это затронет 7% подписчиков Pro](https://habr.com/ru/news/1015888/?utm_campaign=1015888&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑банк» начал блокировать покупки в магазине «Буки» из-за риска мошенничества](https://habr.com/ru/news/1015884/?utm_campaign=1015884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
