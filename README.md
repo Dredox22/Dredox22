@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В ChatGPT не появится эротический режим](https://habr.com/ru/companies/bothub/news/1016110/?utm_campaign=1016110&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic тестирует новую сверхмощную модель и готовится к IPO](https://habr.com/ru/companies/bothub/news/1016098/?utm_campaign=1016098&utm_source=habrahabr&utm_medium=rss)
 - [Основатель Figure AI строит «новый iPhone» для эпохи ИИ — и переманил дизайнера настоящего iPhone](https://habr.com/ru/news/1016086/?utm_campaign=1016086&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» интегрировал в платформу GitVerse ИИ-помощника для разработчиков GigaCode](https://habr.com/ru/news/1016084/?utm_campaign=1016084&utm_source=habrahabr&utm_medium=rss)
 - [GitHub начнет использовать код пользователей Copilot для обучения ИИ по умолчанию](https://habr.com/ru/companies/bothub/news/1016080/?utm_campaign=1016080&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: в Telegram обнаружили уязвимость нулевого дня ZDI-CAN-30207](https://habr.com/ru/news/1016078/?utm_campaign=1016078&utm_source=habrahabr&utm_medium=rss)
-- [Google начинает подготовку Android к эре постквантовой криптографии](https://habr.com/ru/news/1016076/?utm_campaign=1016076&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
