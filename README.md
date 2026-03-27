@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic урезает лимиты Claude в пиковые часы — это затронет 7% подписчиков Pro](https://habr.com/ru/news/1015888/?utm_campaign=1015888&utm_source=habrahabr&utm_medium=rss)
+- [«Т‑банк» начал блокировать покупки в магазине «Буки» из-за риска мошенничества](https://habr.com/ru/news/1015884/?utm_campaign=1015884&utm_source=habrahabr&utm_medium=rss)
 - [Я создал браузерную игру, где каждое нажатие кнопки убивает людей](https://habr.com/ru/news/1015852/?utm_campaign=1015852&utm_source=habrahabr&utm_medium=rss)
 - [Intel представила видеокарты Arc Pro B70 и B65 для ИИ-вычислений](https://habr.com/ru/companies/bothub/news/1015850/?utm_campaign=1015850&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla и Mila будут продвигать ИИ c открытым исходным кодом](https://habr.com/ru/news/1015786/?utm_campaign=1015786&utm_source=habrahabr&utm_medium=rss)
-- [Mistral выпустила открытую модель синтеза речи Voxtral](https://habr.com/ru/companies/bothub/news/1015818/?utm_campaign=1015818&utm_source=habrahabr&utm_medium=rss)
-- [«Оруэлловское представление»: суд заблокировал запрет Claude в Пентагоне](https://habr.com/ru/news/1015790/?utm_campaign=1015790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
