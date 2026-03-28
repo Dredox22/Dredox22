@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple: Режим Lockdown Mode для iPhone доказал свою неуязвимость на фоне массовой утечки хакерских инструментов](https://habr.com/ru/news/1016290/?utm_campaign=1016290&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку инструмента сравнения баз данных Access из-за проблем с надёжностью](https://habr.com/ru/news/1016286/?utm_campaign=1016286&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: растёт число случаев, когда чат-боты с ИИ игнорируют пользовательские инструкции](https://habr.com/ru/news/1016284/?utm_campaign=1016284&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft сократит рекламу и рекомендации в Windows 11 для создания более «спокойной» операционной системы](https://habr.com/ru/news/1016274/?utm_campaign=1016274&utm_source=habrahabr&utm_medium=rss)
 - [В США AI-дипфейки уже стали инструментом предвыборной рекламы](https://habr.com/ru/companies/tehrevizor/news/1016272/?utm_campaign=1016272&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты «Кросс технолоджис»: Более 40% атак на ИИ-модели связаны с prompt injection](https://habr.com/ru/companies/tehrevizor/news/1016266/?utm_campaign=1016266&utm_source=habrahabr&utm_medium=rss)
-- [«Авито» расширила Bug Bounty на ИИ-сервисы и подняла выплаты до 1 млн рублей](https://habr.com/ru/companies/tehrevizor/news/1016262/?utm_campaign=1016262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
