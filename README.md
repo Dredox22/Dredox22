@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В GSMA завершили работу над новой версией стандарта связи RCS Universal Profile 4.0](https://habr.com/ru/news/1016216/?utm_campaign=1016216&utm_source=habrahabr&utm_medium=rss)
+- [41 000 MCP-серверов, и почти все — мусор: что показал ToolBench от Arcade](https://habr.com/ru/news/1016212/?utm_campaign=1016212&utm_source=habrahabr&utm_medium=rss)
+- [Google перенесла срок перехода на постквантовое шифрование на 2029 год](https://habr.com/ru/news/1016204/?utm_campaign=1016204&utm_source=habrahabr&utm_medium=rss)
 - [Расширение для браузера LanguageTool станет платным для пользователей](https://habr.com/ru/news/1016198/?utm_campaign=1016198&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: Apple по требованию РКН продолжила удалять VPN-клиенты из российского App Store](https://habr.com/ru/news/1016186/?utm_campaign=1016186&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент Смит захватил Google изнутри — доступ пришлось ограничить](https://habr.com/ru/news/1016184/?utm_campaign=1016184&utm_source=habrahabr&utm_medium=rss)
-- [Mythos Meltdown: как утечка о новой LLM обвалила кибербезопасность на $50 млрд](https://habr.com/ru/companies/ideco/news/1016160/?utm_campaign=1016160&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.6](https://habr.com/ru/news/1015826/?utm_campaign=1015826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
