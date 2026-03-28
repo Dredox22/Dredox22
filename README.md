@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT может получить подписку за 100 долларов, а также Codex-only план](https://habr.com/ru/news/1016378/?utm_campaign=1016378&utm_source=habrahabr&utm_medium=rss)
+- [На заводе «Москвич» стартовала тестовая сборка самокатов «Яндекс Go»](https://habr.com/ru/news/1016374/?utm_campaign=1016374&utm_source=habrahabr&utm_medium=rss)
 - [ИИ убедил CEO Coca-Cola и Walmart уйти в отставку — они признали, что недостаточно быстры](https://habr.com/ru/news/1016366/?utm_campaign=1016366&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекса» рассказал об итогах Кубка «Яндекс Образования» по информатике для старшеклассников](https://habr.com/ru/news/1016352/?utm_campaign=1016352&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» рассказал об итогах Кубка «Яндекс Образования» по информатике для старшеклассников](https://habr.com/ru/news/1016352/?utm_campaign=1016352&utm_source=habrahabr&utm_medium=rss)
 - [Telegram: нет критической уязвимости нулевого дня, которая якобы позволяет взломать аккаунт через вредоносный стикер](https://habr.com/ru/news/1016348/?utm_campaign=1016348&utm_source=habrahabr&utm_medium=rss)
-- [Объявлены итоги школьной олимпиады по программированию «Технокубок»](https://habr.com/ru/news/1016344/?utm_campaign=1016344&utm_source=habrahabr&utm_medium=rss)
-- [Apple отправляет владельцам устройств с устаревшими версиями iOS и iPadOS экстренные уведомления о текущих кибератаках](https://habr.com/ru/news/1016292/?utm_campaign=1016292&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
