@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект cssDoom — версия Doom, использующая для отрисовки только CSS](https://habr.com/ru/news/1016308/?utm_campaign=1016308&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» нашла шпионский инструмент для взлома iPhone, связанный с кибератакой «Операция Триангуляция»](https://habr.com/ru/news/1016306/?utm_campaign=1016306&utm_source=habrahabr&utm_medium=rss)
+- [«Не доверяйте этим приложениям»: создатель Django навайбкодил macOS-утилиты на незнакомом языке](https://habr.com/ru/news/1016304/?utm_campaign=1016304&utm_source=habrahabr&utm_medium=rss)
 - [Apple: Режим Lockdown Mode для iPhone доказал свою неуязвимость на фоне массовой утечки хакерских инструментов](https://habr.com/ru/news/1016290/?utm_campaign=1016290&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку инструмента сравнения баз данных Access из-за проблем с надёжностью](https://habr.com/ru/news/1016286/?utm_campaign=1016286&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: растёт число случаев, когда чат-боты с ИИ игнорируют пользовательские инструкции](https://habr.com/ru/news/1016284/?utm_campaign=1016284&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сократит рекламу и рекомендации в Windows 11 для создания более «спокойной» операционной системы](https://habr.com/ru/news/1016274/?utm_campaign=1016274&utm_source=habrahabr&utm_medium=rss)
-- [В США AI-дипфейки уже стали инструментом предвыборной рекламы](https://habr.com/ru/companies/tehrevizor/news/1016272/?utm_campaign=1016272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
