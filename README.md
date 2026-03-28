@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple отправляет владельцам устройств с устаревшими версиями iOS и iPadOS экстренные уведомления о текущих кибератаках](https://habr.com/ru/news/1016292/?utm_campaign=1016292&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиасты представили альтернативный открытый клиент Telegram для Android под названием Monogram, написанный на Kotlin](https://habr.com/ru/news/1016316/?utm_campaign=1016316&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект cssDoom — версия Doom, использующая для отрисовки только CSS](https://habr.com/ru/news/1016308/?utm_campaign=1016308&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» нашла шпионский инструмент для взлома iPhone, связанный с кибератакой «Операция Триангуляция»](https://habr.com/ru/news/1016306/?utm_campaign=1016306&utm_source=habrahabr&utm_medium=rss)
 - [«Не доверяйте этим приложениям»: создатель Django навайбкодил macOS-утилиты на незнакомом языке](https://habr.com/ru/news/1016304/?utm_campaign=1016304&utm_source=habrahabr&utm_medium=rss)
-- [Apple: Режим Lockdown Mode для iPhone доказал свою неуязвимость на фоне массовой утечки хакерских инструментов](https://habr.com/ru/news/1016290/?utm_campaign=1016290&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекратит поддержку инструмента сравнения баз данных Access из-за проблем с надёжностью](https://habr.com/ru/news/1016286/?utm_campaign=1016286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
