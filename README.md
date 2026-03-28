@@ -89,7 +89,7 @@
 - [«Код Дурова»: Apple по требованию РКН продолжила удалять VPN-клиенты из российского App Store](https://habr.com/ru/news/1016186/?utm_campaign=1016186&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент Смит захватил Google изнутри — доступ пришлось ограничить](https://habr.com/ru/news/1016184/?utm_campaign=1016184&utm_source=habrahabr&utm_medium=rss)
 - [Mythos Meltdown: как утечка о новой LLM обвалила кибербезопасность на $50 млрд](https://habr.com/ru/companies/ideco/news/1016160/?utm_campaign=1016160&utm_source=habrahabr&utm_medium=rss)
-- [Вышла открытая платформа для оптимизации трафика LibreQoS 2.0](https://habr.com/ru/news/1015362/?utm_campaign=1015362&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.6](https://habr.com/ru/news/1015826/?utm_campaign=1015826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
