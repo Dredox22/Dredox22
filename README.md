@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В GSMA завершили работу над новой версией стандарта связи RCS Universal Profile 4.0](https://habr.com/ru/news/1016216/?utm_campaign=1016216&utm_source=habrahabr&utm_medium=rss)
-- [41 000 MCP-серверов, и почти все — мусор: что показал ToolBench от Arcade](https://habr.com/ru/news/1016212/?utm_campaign=1016212&utm_source=habrahabr&utm_medium=rss)
-- [Google перенесла срок перехода на постквантовое шифрование на 2029 год](https://habr.com/ru/news/1016204/?utm_campaign=1016204&utm_source=habrahabr&utm_medium=rss)
-- [Расширение для браузера LanguageTool станет платным для пользователей](https://habr.com/ru/news/1016198/?utm_campaign=1016198&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: Apple по требованию РКН продолжила удалять VPN-клиенты из российского App Store](https://habr.com/ru/news/1016186/?utm_campaign=1016186&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: растёт число случаев, когда чат-боты с ИИ игнорируют пользовательские инструкции](https://habr.com/ru/news/1016284/?utm_campaign=1016284&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сократит рекламу и рекомендации в Windows 11 для создания более «спокойной» операционной системы](https://habr.com/ru/news/1016274/?utm_campaign=1016274&utm_source=habrahabr&utm_medium=rss)
+- [В США AI-дипфейки уже стали инструментом предвыборной рекламы](https://habr.com/ru/companies/tehrevizor/news/1016272/?utm_campaign=1016272&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты «Кросс технолоджис»: Более 40% атак на ИИ-модели связаны с prompt injection](https://habr.com/ru/companies/tehrevizor/news/1016266/?utm_campaign=1016266&utm_source=habrahabr&utm_medium=rss)
+- [«Авито» расширила Bug Bounty на ИИ-сервисы и подняла выплаты до 1 млн рублей](https://habr.com/ru/companies/tehrevizor/news/1016262/?utm_campaign=1016262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
