@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mythos Meltdown: как утечка о новой LLM обвалила кибербезопасность на $50 млрд](https://habr.com/ru/companies/ideco/news/1016160/?utm_campaign=1016160&utm_source=habrahabr&utm_medium=rss)
 - [Вышла открытая платформа для оптимизации трафика LibreQoS 2.0](https://habr.com/ru/news/1015362/?utm_campaign=1015362&utm_source=habrahabr&utm_medium=rss)
 - [GLM-5.1 стал доступен всем пользователям Coding Plan: почти на уровне Claude Opus 4.6?](https://habr.com/ru/news/1016150/?utm_campaign=1016150&utm_source=habrahabr&utm_medium=rss)
 - [Кто убедительнее — GPT-5.4 или Claude Opus 4.6? Новый бенчмарк стравил 15 моделей](https://habr.com/ru/news/1016130/?utm_campaign=1016130&utm_source=habrahabr&utm_medium=rss)
 - [Huawei продвигает новый AI-чип 950PR, а ByteDance и Alibaba готовятся к заказам](https://habr.com/ru/companies/tehrevizor/news/1016126/?utm_campaign=1016126&utm_source=habrahabr&utm_medium=rss)
-- [SK hynix готовит крупнейшее за годы IPO в США, чтобы нарастить выпуск памяти для ИИ](https://habr.com/ru/companies/tehrevizor/news/1016122/?utm_campaign=1016122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
