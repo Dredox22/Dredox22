@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Расширение для браузера LanguageTool станет платным для пользователей](https://habr.com/ru/news/1016198/?utm_campaign=1016198&utm_source=habrahabr&utm_medium=rss)
+- [«Код Дурова»: Apple по требованию РКН продолжила удалять VPN-клиенты из российского App Store](https://habr.com/ru/news/1016186/?utm_campaign=1016186&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент Смит захватил Google изнутри — доступ пришлось ограничить](https://habr.com/ru/news/1016184/?utm_campaign=1016184&utm_source=habrahabr&utm_medium=rss)
 - [Mythos Meltdown: как утечка о новой LLM обвалила кибербезопасность на $50 млрд](https://habr.com/ru/companies/ideco/news/1016160/?utm_campaign=1016160&utm_source=habrahabr&utm_medium=rss)
 - [Вышла открытая платформа для оптимизации трафика LibreQoS 2.0](https://habr.com/ru/news/1015362/?utm_campaign=1015362&utm_source=habrahabr&utm_medium=rss)
-- [GLM-5.1 стал доступен всем пользователям Coding Plan: почти на уровне Claude Opus 4.6?](https://habr.com/ru/news/1016150/?utm_campaign=1016150&utm_source=habrahabr&utm_medium=rss)
-- [Кто убедительнее — GPT-5.4 или Claude Opus 4.6? Новый бенчмарк стравил 15 моделей](https://habr.com/ru/news/1016130/?utm_campaign=1016130&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
