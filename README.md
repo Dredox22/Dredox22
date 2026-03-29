@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky показала Attie — AI-приложение для создания собственных алгоритмов и лент](https://habr.com/ru/companies/tehrevizor/news/1016528/?utm_campaign=1016528&utm_source=habrahabr&utm_medium=rss)
 - [Meta* в рамках KPI вынуждает сотрудников больше использовать ИИ](https://habr.com/ru/news/1016508/?utm_campaign=1016508&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: проиранские хакеры взломали личную электронную почту главы ФБР](https://habr.com/ru/news/1016506/?utm_campaign=1016506&utm_source=habrahabr&utm_medium=rss)
 - [Стэнфордское исследование предупредило о рисках личных советов от чат-ботов](https://habr.com/ru/companies/bothub/news/1016502/?utm_campaign=1016502&utm_source=habrahabr&utm_medium=rss)
 - [Последний сооснователь xAI покинул компанию](https://habr.com/ru/companies/bothub/news/1016498/?utm_campaign=1016498&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик рассказал об опыте делегирования всех задач по коду ИИ](https://habr.com/ru/news/1016492/?utm_campaign=1016492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
