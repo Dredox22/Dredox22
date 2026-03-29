@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft внедрит изменения в Exchange Server в преддверии 30-летия проекта](https://habr.com/ru/news/1016458/?utm_campaign=1016458&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Froggy-BLC &lpar;Book-Like CMS&rpar; 1.0](https://habr.com/ru/news/1016336/?utm_campaign=1016336&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft планирует создавать полностью нативные приложения для Windows 11](https://habr.com/ru/news/1016444/?utm_campaign=1016444&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Практикум и ИТМО приглашают на День открытых дверей онлайн-магистратуры для фронтенд- и бэкенд-разработчиков](https://habr.com/ru/companies/yandex_praktikum/news/1016066/?utm_campaign=1016066&utm_source=habrahabr&utm_medium=rss)
 - [Фишинг через Telegram: схема с «голосованием» и угоном аккаунта](https://habr.com/ru/news/1016404/?utm_campaign=1016404&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновления языка программирования Swift 6.3](https://habr.com/ru/news/1016428/?utm_campaign=1016428&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск сканера сетевой безопасности Nmap 7.99 &lpar;Network Mapper&rpar;](https://habr.com/ru/news/1016322/?utm_campaign=1016322&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT может получить подписку за 100 долларов, а также Codex-only план](https://habr.com/ru/news/1016378/?utm_campaign=1016378&utm_source=habrahabr&utm_medium=rss)
-- [На заводе «Москвич» стартовала тестовая сборка самокатов «Яндекс Go»](https://habr.com/ru/news/1016374/?utm_campaign=1016374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
