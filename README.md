@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «В России могут запретить международные звонки для пенсионеров и получение кодов авторизации для детей»](https://habr.com/ru/news/1016562/?utm_campaign=1016562&utm_source=habrahabr&utm_medium=rss)
+- [TP-Link устранила несколько критических уязвимостей в роутерах Archer NX](https://habr.com/ru/news/1016548/?utm_campaign=1016548&utm_source=habrahabr&utm_medium=rss)
 - [Claude от Anthropic взлетает среди платящих пользователей](https://habr.com/ru/companies/bothub/news/1016556/?utm_campaign=1016556&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск ОС MicroPythonOS 0.9.0 с GUI для микроконтроллеров типа ESP32 на базе инструментария MicroPython](https://habr.com/ru/news/1015962/?utm_campaign=1015962&utm_source=habrahabr&utm_medium=rss)
 - [В США владельцы используют ИИ для поиска пропавших питомцев](https://habr.com/ru/news/1016542/?utm_campaign=1016542&utm_source=habrahabr&utm_medium=rss)
-- [В ЦЕРН для фильтрации массивов данных используют кастомные ИИ-модели, интегрированные прямо в чипы](https://habr.com/ru/news/1016534/?utm_campaign=1016534&utm_source=habrahabr&utm_medium=rss)
-- [Bluesky показала Attie — AI-приложение для создания собственных алгоритмов и лент](https://habr.com/ru/companies/tehrevizor/news/1016528/?utm_campaign=1016528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
