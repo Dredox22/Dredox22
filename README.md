@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Фишинг через Telegram: схема с «голосованием» и угоном аккаунта](https://habr.com/ru/news/1016404/?utm_campaign=1016404&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновления языка программирования Swift 6.3](https://habr.com/ru/news/1016428/?utm_campaign=1016428&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск сканера сетевой безопасности Nmap 7.99 &lpar;Network Mapper&rpar;](https://habr.com/ru/news/1016322/?utm_campaign=1016322&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT может получить подписку за 100 долларов, а также Codex-only план](https://habr.com/ru/news/1016378/?utm_campaign=1016378&utm_source=habrahabr&utm_medium=rss)
 - [На заводе «Москвич» стартовала тестовая сборка самокатов «Яндекс Go»](https://habr.com/ru/news/1016374/?utm_campaign=1016374&utm_source=habrahabr&utm_medium=rss)
-- [ИИ убедил CEO Coca-Cola и Walmart уйти в отставку — они признали, что недостаточно быстры](https://habr.com/ru/news/1016366/?utm_campaign=1016366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
