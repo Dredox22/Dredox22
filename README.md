@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ из MIT «вайб-кодит» белки по вибрациям — и они работают](https://habr.com/ru/news/1016468/?utm_campaign=1016468&utm_source=habrahabr&utm_medium=rss)
+- [В Совете по правам человека при президенте РФ заявили, что есть «высокая вероятность» восстановления работы Telegram](https://habr.com/ru/news/1016466/?utm_campaign=1016466&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедрит изменения в Exchange Server в преддверии 30-летия проекта](https://habr.com/ru/news/1016458/?utm_campaign=1016458&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Froggy-BLC &lpar;Book-Like CMS&rpar; 1.0](https://habr.com/ru/news/1016336/?utm_campaign=1016336&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft планирует создавать полностью нативные приложения для Windows 11](https://habr.com/ru/news/1016444/?utm_campaign=1016444&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Практикум и ИТМО приглашают на День открытых дверей онлайн-магистратуры для фронтенд- и бэкенд-разработчиков](https://habr.com/ru/companies/yandex_praktikum/news/1016066/?utm_campaign=1016066&utm_source=habrahabr&utm_medium=rss)
-- [Фишинг через Telegram: схема с «голосованием» и угоном аккаунта](https://habr.com/ru/news/1016404/?utm_campaign=1016404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
