@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Возможное закрытие Sora может стать «холодным душем» для рынка AI-видео](https://habr.com/ru/companies/bothub/news/1016638/?utm_campaign=1016638&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи из SafeDep предупредили о взломе Python-пакета telnyx на PyPI](https://habr.com/ru/news/1016634/?utm_campaign=1016634&utm_source=habrahabr&utm_medium=rss)
 - [Amazon научил ИИ-агентов эволюционировать: 3 строки кода и первое место на бенчмарке](https://habr.com/ru/news/1016618/?utm_campaign=1016618&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: Telegram добавит уведомление о том, что собеседник использует неофициальный клиент мессенджера](https://habr.com/ru/news/1016606/?utm_campaign=1016606&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь GitLab рассказал, как использовал ChatGPT для борьбы с раком](https://habr.com/ru/news/1016590/?utm_campaign=1016590&utm_source=habrahabr&utm_medium=rss)
-- [Bluesky делает ставку на ИИ и запускает инструмент для кастомных лент](https://habr.com/ru/companies/bothub/news/1016580/?utm_campaign=1016580&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «В России могут запретить международные звонки для пенсионеров и получение кодов авторизации для детей»](https://habr.com/ru/news/1016562/?utm_campaign=1016562&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
