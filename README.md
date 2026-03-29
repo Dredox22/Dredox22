@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude от Anthropic взлетает среди платящих пользователей](https://habr.com/ru/companies/bothub/news/1016556/?utm_campaign=1016556&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск ОС MicroPythonOS 0.9.0 с GUI для микроконтроллеров типа ESP32 на базе инструментария MicroPython](https://habr.com/ru/news/1015962/?utm_campaign=1015962&utm_source=habrahabr&utm_medium=rss)
+- [В США владельцы используют ИИ для поиска пропавших питомцев](https://habr.com/ru/news/1016542/?utm_campaign=1016542&utm_source=habrahabr&utm_medium=rss)
+- [В ЦЕРН для фильтрации массивов данных используют кастомные ИИ-модели, интегрированные прямо в чипы](https://habr.com/ru/news/1016534/?utm_campaign=1016534&utm_source=habrahabr&utm_medium=rss)
 - [Bluesky показала Attie — AI-приложение для создания собственных алгоритмов и лент](https://habr.com/ru/companies/tehrevizor/news/1016528/?utm_campaign=1016528&utm_source=habrahabr&utm_medium=rss)
-- [Meta* в рамках KPI вынуждает сотрудников больше использовать ИИ](https://habr.com/ru/news/1016508/?utm_campaign=1016508&utm_source=habrahabr&utm_medium=rss)
-- [Reuters: проиранские хакеры взломали личную электронную почту главы ФБР](https://habr.com/ru/news/1016506/?utm_campaign=1016506&utm_source=habrahabr&utm_medium=rss)
-- [Стэнфордское исследование предупредило о рисках личных советов от чат-ботов](https://habr.com/ru/companies/bothub/news/1016502/?utm_campaign=1016502&utm_source=habrahabr&utm_medium=rss)
-- [Последний сооснователь xAI покинул компанию](https://habr.com/ru/companies/bothub/news/1016498/?utm_campaign=1016498&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
