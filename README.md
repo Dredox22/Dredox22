@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Запретить нельзя субсидировать: OpenClaw в Китае одновременно банят и поддерживают](https://habr.com/ru/news/1016660/?utm_campaign=1016660&utm_source=habrahabr&utm_medium=rss)
+- [Глава «Ростелекома»: «Telegram умрет в ближайшие дни, MAX растет, поэтому все хорошо»](https://habr.com/ru/news/1016652/?utm_campaign=1016652&utm_source=habrahabr&utm_medium=rss)
 - [Возможное закрытие Sora может стать «холодным душем» для рынка AI-видео](https://habr.com/ru/companies/bothub/news/1016638/?utm_campaign=1016638&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из SafeDep предупредили о взломе Python-пакета telnyx на PyPI](https://habr.com/ru/news/1016634/?utm_campaign=1016634&utm_source=habrahabr&utm_medium=rss)
 - [Amazon научил ИИ-агентов эволюционировать: 3 строки кода и первое место на бенчмарке](https://habr.com/ru/news/1016618/?utm_campaign=1016618&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: Telegram добавит уведомление о том, что собеседник использует неофициальный клиент мессенджера](https://habr.com/ru/news/1016606/?utm_campaign=1016606&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь GitLab рассказал, как использовал ChatGPT для борьбы с раком](https://habr.com/ru/news/1016590/?utm_campaign=1016590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
