@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Цены на процессоры Intel и AMD вырастут на 10-15%](https://habr.com/ru/news/1015650/?utm_campaign=1015650&utm_source=habrahabr&utm_medium=rss)
 - [Запретить нельзя субсидировать: OpenClaw в Китае одновременно банят и поддерживают](https://habr.com/ru/news/1016660/?utm_campaign=1016660&utm_source=habrahabr&utm_medium=rss)
 - [Глава «Ростелекома»: «Telegram умрет в ближайшие дни, MAX растет, поэтому все хорошо»](https://habr.com/ru/news/1016652/?utm_campaign=1016652&utm_source=habrahabr&utm_medium=rss)
 - [Возможное закрытие Sora может стать «холодным душем» для рынка AI-видео](https://habr.com/ru/companies/bothub/news/1016638/?utm_campaign=1016638&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из SafeDep предупредили о взломе Python-пакета telnyx на PyPI](https://habr.com/ru/news/1016634/?utm_campaign=1016634&utm_source=habrahabr&utm_medium=rss)
-- [Amazon научил ИИ-агентов эволюционировать: 3 строки кода и первое место на бенчмарке](https://habr.com/ru/news/1016618/?utm_campaign=1016618&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
