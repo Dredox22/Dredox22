@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ из MIT «вайб-кодит» белки по вибрациям — и они работают](https://habr.com/ru/news/1016468/?utm_campaign=1016468&utm_source=habrahabr&utm_medium=rss)
-- [В Совете по правам человека при президенте РФ заявили, что есть «высокая вероятность» восстановления работы Telegram](https://habr.com/ru/news/1016466/?utm_campaign=1016466&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft внедрит изменения в Exchange Server в преддверии 30-летия проекта](https://habr.com/ru/news/1016458/?utm_campaign=1016458&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Froggy-BLC &lpar;Book-Like CMS&rpar; 1.0](https://habr.com/ru/news/1016336/?utm_campaign=1016336&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft планирует создавать полностью нативные приложения для Windows 11](https://habr.com/ru/news/1016444/?utm_campaign=1016444&utm_source=habrahabr&utm_medium=rss)
+- [Meta* в рамках KPI вынуждает сотрудников больше использовать ИИ](https://habr.com/ru/news/1016508/?utm_campaign=1016508&utm_source=habrahabr&utm_medium=rss)
+- [Reuters: проиранские хакеры взломали личную электронную почту главы ФБР](https://habr.com/ru/news/1016506/?utm_campaign=1016506&utm_source=habrahabr&utm_medium=rss)
+- [Стэнфордское исследование предупредило о рисках личных советов от чат-ботов](https://habr.com/ru/companies/bothub/news/1016502/?utm_campaign=1016502&utm_source=habrahabr&utm_medium=rss)
+- [Последний сооснователь xAI покинул компанию](https://habr.com/ru/companies/bothub/news/1016498/?utm_campaign=1016498&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик рассказал об опыте делегирования всех задач по коду ИИ](https://habr.com/ru/news/1016492/?utm_campaign=1016492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
