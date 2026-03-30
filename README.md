@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [LeaderTask обновился: напоминания 2.0, новый drag and drop в календарях, редизайн досок и обновления лицензий](https://habr.com/ru/companies/leadertask/news/1016960/?utm_campaign=1016960&utm_source=habrahabr&utm_medium=rss)
+- [Интеграция Luxms BI и Arenadata Catalog](https://habr.com/ru/companies/luxms_bi/news/1016956/?utm_campaign=1016956&utm_source=habrahabr&utm_medium=rss)
+- [Нативное приложение WhatsApp** появилось в CarPlay](https://habr.com/ru/news/1016898/?utm_campaign=1016898&utm_source=habrahabr&utm_medium=rss)
 - [Мнение: ИИ-агенты могут снова сделать свободное ПО значимым](https://habr.com/ru/news/1016872/?utm_campaign=1016872&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь и лидер дистрибутива Ubuntu MATE Мартин Вимпрес покидает проект](https://habr.com/ru/news/1016860/?utm_campaign=1016860&utm_source=habrahabr&utm_medium=rss)
-- [ITFB Group усиливает направление по внедрению ERP-систем для крупного бизнеса](https://habr.com/ru/companies/itfb/news/1016874/?utm_campaign=1016874&utm_source=habrahabr&utm_medium=rss)
-- [Курс «Основы безопасности PostgreSQL 16»: роли, привилегии и аутентификация без белых пятен](https://habr.com/ru/companies/postgrespro/news/1015746/?utm_campaign=1015746&utm_source=habrahabr&utm_medium=rss)
-- [DDR5 подешевела на $100: OpenAI начала сворачивать ИИ-стройку](https://habr.com/ru/news/1016846/?utm_campaign=1016846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
