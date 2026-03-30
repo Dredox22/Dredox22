@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba выпустила мультимодальный ИИ Qwen3.5-Omni — он пишет код по видеозаписи экрана](https://habr.com/ru/news/1017160/?utm_campaign=1017160&utm_source=habrahabr&utm_medium=rss)
 - [Qwen3.6 Plus Preview появился на OpenRouter бесплатно](https://habr.com/ru/news/1017144/?utm_campaign=1017144&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI встроила Codex в Claude Code — все для удобства пользователей](https://habr.com/ru/news/1017136/?utm_campaign=1017136&utm_source=habrahabr&utm_medium=rss)
 - [Suno научился петь голосом пользователя — и это самая запрашиваемая функция за всю историю сервиса](https://habr.com/ru/news/1017128/?utm_campaign=1017128&utm_source=habrahabr&utm_medium=rss)
 - [Как теперь оплачивать подписки в App Store и сделать резервную копию iCloud](https://habr.com/ru/news/1017118/?utm_campaign=1017118&utm_source=habrahabr&utm_medium=rss)
-- [В России задержали администратора крупного хакерского форума LeakBase](https://habr.com/ru/news/1017112/?utm_campaign=1017112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
