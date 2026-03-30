@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как теперь оплачивать подписки в App Store и сделать резервную копию iCloud](https://habr.com/ru/news/1017118/?utm_campaign=1017118&utm_source=habrahabr&utm_medium=rss)
+- [В России задержали администратора крупного хакерского форума LeakBase](https://habr.com/ru/news/1017112/?utm_campaign=1017112&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Copilot теперь внедряет рекламу в запросы на слияние на GitHub и GitLab](https://habr.com/ru/news/1017078/?utm_campaign=1017078&utm_source=habrahabr&utm_medium=rss)
 - [Мошенники начали использовать поддельные реестры неблокируемых сайтов для кражи данных](https://habr.com/ru/news/1017070/?utm_campaign=1017070&utm_source=habrahabr&utm_medium=rss)
 - [В Госдуме раскритиковали предложение Минцифры заблокировать оплату Apple ID со счетов мобильных телефонов](https://habr.com/ru/news/1017066/?utm_campaign=1017066&utm_source=habrahabr&utm_medium=rss)
-- [CapCut расширил географию доступа к генератору видео Seedance 2.0](https://habr.com/ru/companies/bothub/news/1016952/?utm_campaign=1016952&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1017052/?utm_campaign=1017052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
