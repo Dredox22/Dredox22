@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [LeaderTask обновился: напоминания 2.0, новый drag and drop в календарях, редизайн досок и обновления лицензий](https://habr.com/ru/companies/leadertask/news/1016960/?utm_campaign=1016960&utm_source=habrahabr&utm_medium=rss)
-- [Интеграция Luxms BI и Arenadata Catalog](https://habr.com/ru/companies/luxms_bi/news/1016956/?utm_campaign=1016956&utm_source=habrahabr&utm_medium=rss)
-- [Нативное приложение WhatsApp** появилось в CarPlay](https://habr.com/ru/news/1016898/?utm_campaign=1016898&utm_source=habrahabr&utm_medium=rss)
-- [Мнение: ИИ-агенты могут снова сделать свободное ПО значимым](https://habr.com/ru/news/1016872/?utm_campaign=1016872&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь и лидер дистрибутива Ubuntu MATE Мартин Вимпрес покидает проект](https://habr.com/ru/news/1016860/?utm_campaign=1016860&utm_source=habrahabr&utm_medium=rss)
+- [Вайб-кодинг в энтерпрайзе? Да](https://habr.com/ru/companies/alfa/news/1017034/?utm_campaign=1017034&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила систему плагинов для Codex](https://habr.com/ru/companies/bothub/news/1016944/?utm_campaign=1016944&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: операторы связи ведут плату за использование VPN‑сервисов в мобильных сетях по просьбе Минцифры](https://habr.com/ru/news/1017006/?utm_campaign=1017006&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi показала обновленную бионическую руку для робота CyberOne](https://habr.com/ru/companies/bothub/news/1016938/?utm_campaign=1016938&utm_source=habrahabr&utm_medium=rss)
+- [Открыт новый набор на авторизованный курс по СУБД Tantor Postgres](https://habr.com/ru/companies/tantor/news/1016976/?utm_campaign=1016976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
