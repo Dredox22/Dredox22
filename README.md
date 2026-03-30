@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчики Bluesky представили приложение Attie с ИИ для персонализации ленты новостей](https://habr.com/ru/news/1016704/?utm_campaign=1016704&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отозвала обновление KB5079391 для Windows 11 из-за ошибок установки](https://habr.com/ru/news/1016696/?utm_campaign=1016696&utm_source=habrahabr&utm_medium=rss)
-- [Проект Winslop для удаления ненужного системного мусора в Windows 10/11 переименован в Winslopr — Windows Slop Remover](https://habr.com/ru/news/1016678/?utm_campaign=1016678&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива SystemRescue 13.0](https://habr.com/ru/news/1016494/?utm_campaign=1016494&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление свободного проекта для создания музыкальных миксов Mixxx 2.5.6](https://habr.com/ru/news/1016218/?utm_campaign=1016218&utm_source=habrahabr&utm_medium=rss)
+- [Telegram-каналы увеличили объём контента при замедлении мессенджера](https://habr.com/ru/news/1016800/?utm_campaign=1016800&utm_source=habrahabr&utm_medium=rss)
+- [В Claude Code нашли серьезный баг — он молча сбрасывает код каждые 10 минут](https://habr.com/ru/news/1016792/?utm_campaign=1016792&utm_source=habrahabr&utm_medium=rss)
+- [Mistral привлекла $830 млн долга на строительство AI-датацентра под Парижем](https://habr.com/ru/companies/tehrevizor/news/1016776/?utm_campaign=1016776&utm_source=habrahabr&utm_medium=rss)
+- [Epilogue представила приложение для проверки подлинности картриджей Game Boy](https://habr.com/ru/news/1016774/?utm_campaign=1016774&utm_source=habrahabr&utm_medium=rss)
+- [Apple: ни одно шпионское ПО ещё не смогло взломать iPhone в режиме блокировки](https://habr.com/ru/news/1016772/?utm_campaign=1016772&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
