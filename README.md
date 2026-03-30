@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram-каналы увеличили объём контента при замедлении мессенджера](https://habr.com/ru/news/1016800/?utm_campaign=1016800&utm_source=habrahabr&utm_medium=rss)
-- [В Claude Code нашли серьезный баг — он молча сбрасывает код каждые 10 минут](https://habr.com/ru/news/1016792/?utm_campaign=1016792&utm_source=habrahabr&utm_medium=rss)
-- [Mistral привлекла $830 млн долга на строительство AI-датацентра под Парижем](https://habr.com/ru/companies/tehrevizor/news/1016776/?utm_campaign=1016776&utm_source=habrahabr&utm_medium=rss)
-- [Epilogue представила приложение для проверки подлинности картриджей Game Boy](https://habr.com/ru/news/1016774/?utm_campaign=1016774&utm_source=habrahabr&utm_medium=rss)
-- [Apple: ни одно шпионское ПО ещё не смогло взломать iPhone в режиме блокировки](https://habr.com/ru/news/1016772/?utm_campaign=1016772&utm_source=habrahabr&utm_medium=rss)
+- [Мнение: ИИ-агенты могут снова сделать свободное ПО значимым](https://habr.com/ru/news/1016872/?utm_campaign=1016872&utm_source=habrahabr&utm_medium=rss)
+- [Сооснователь и лидер дистрибутива Ubuntu MATE Мартин Вимпрес покидает проект](https://habr.com/ru/news/1016860/?utm_campaign=1016860&utm_source=habrahabr&utm_medium=rss)
+- [ITFB Group усиливает направление по внедрению ERP-систем для крупного бизнеса](https://habr.com/ru/companies/itfb/news/1016874/?utm_campaign=1016874&utm_source=habrahabr&utm_medium=rss)
+- [Курс «Основы безопасности PostgreSQL 16»: роли, привилегии и аутентификация без белых пятен](https://habr.com/ru/companies/postgrespro/news/1015746/?utm_campaign=1015746&utm_source=habrahabr&utm_medium=rss)
+- [DDR5 подешевела на $100: OpenAI начала сворачивать ИИ-стройку](https://habr.com/ru/news/1016846/?utm_campaign=1016846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
