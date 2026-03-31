@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ScaleOps привлекла $130 млн на платформу для снижения затрат на cloud- и AI-инфраструктуру](https://habr.com/ru/companies/tehrevizor/news/1017394/?utm_campaign=1017394&utm_source=habrahabr&utm_medium=rss)
-- [Ежегодное игровое шоу «НАШЫ ИГРЫ 2026» пройдет в Москве 30 мая 2026 года, в кинотеатре «Октябрь»](https://habr.com/ru/news/1017390/?utm_campaign=1017390&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запустил геораспределённый регион с катастрофоустойчивостью «из коробки»](https://habr.com/ru/companies/tehrevizor/news/1017386/?utm_campaign=1017386&utm_source=habrahabr&utm_medium=rss)
-- [Eltex начал серийное производство 400G-коммутатора MES5700-32 для ЦОД и вычислительных кластеров](https://habr.com/ru/companies/tehrevizor/news/1017382/?utm_campaign=1017382&utm_source=habrahabr&utm_medium=rss)
-- [Госзакупки стационарных телефонов в России выросли более чем на 50% за год](https://habr.com/ru/news/1017376/?utm_campaign=1017376&utm_source=habrahabr&utm_medium=rss)
+- [«Код Дурова»: в Ростове‑на‑Дону тестируют белый список для домашнего интернета](https://habr.com/ru/news/1017462/?utm_campaign=1017462&utm_source=habrahabr&utm_medium=rss)
+- [Соцсеть Bluesky запустила ИИ-бота — и он стал ненавистнее Белого дома](https://habr.com/ru/news/1017458/?utm_campaign=1017458&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: для Android разрабатывают функцию Tap to share, похожую на AirDrop](https://habr.com/ru/news/1017454/?utm_campaign=1017454&utm_source=habrahabr&utm_medium=rss)
+- [ИТ-тренды 2025 года в машиностроительной отрасли](https://habr.com/ru/companies/k2tech/news/1015418/?utm_campaign=1015418&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic случайно слили исходники Claude Code](https://habr.com/ru/news/1017438/?utm_campaign=1017438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
