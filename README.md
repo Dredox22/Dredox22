@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [vGate 5.2 и VMmanager подтвердили совместимость](https://habr.com/ru/companies/ispsystem/news/1017206/?utm_campaign=1017206&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минцифры: ведомству поставили конкретную задачу — снизить использование VPN](https://habr.com/ru/news/1017222/?utm_campaign=1017222&utm_source=habrahabr&utm_medium=rss)
-- [В Минцифры РФ против введения административной ответственности за использование VPN-сервисов](https://habr.com/ru/news/1017208/?utm_campaign=1017208&utm_source=habrahabr&utm_medium=rss)
-- [Релиз GitRiver 1.0 — self-hosted платформы для управления git-репозиториями](https://habr.com/ru/news/1016692/?utm_campaign=1016692&utm_source=habrahabr&utm_medium=rss)
-- [HackerOne сообщила об утечке данных сотрудников после взлома системы Navia](https://habr.com/ru/news/1016844/?utm_campaign=1016844&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Claude Capybara, GigaChat-3.1, кража ключей через LiteLLM и CLI для всего на свете](https://habr.com/ru/news/1017100/?utm_campaign=1017100&utm_source=habrahabr&utm_medium=rss)
+- [Дуров раскритиковал Apple за удаление VPN-приложений из российского App Store, назвав действия компании неправильными](https://habr.com/ru/news/1017282/?utm_campaign=1017282&utm_source=habrahabr&utm_medium=rss)
+- [Telegram начал предупреждать о блокировке подписки Premium в РФ](https://habr.com/ru/news/1017280/?utm_campaign=1017280&utm_source=habrahabr&utm_medium=rss)
+- [Adobe Illustrator начал использовать ИИ для вращения 2D-векторов в 3D-пространстве](https://habr.com/ru/news/1017274/?utm_campaign=1017274&utm_source=habrahabr&utm_medium=rss)
+- [Meta* запустила предварительное тестирование платных подписок в Instagram**](https://habr.com/ru/news/1017268/?utm_campaign=1017268&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
