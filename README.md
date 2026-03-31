@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Галлюцинации недели: Claude Capybara, GigaChat-3.1, кража ключей через LiteLLM и CLI для всего на свете](https://habr.com/ru/news/1017100/?utm_campaign=1017100&utm_source=habrahabr&utm_medium=rss)
-- [Дуров раскритиковал Apple за удаление VPN-приложений из российского App Store, назвав действия компании неправильными](https://habr.com/ru/news/1017282/?utm_campaign=1017282&utm_source=habrahabr&utm_medium=rss)
-- [Telegram начал предупреждать о блокировке подписки Premium в РФ](https://habr.com/ru/news/1017280/?utm_campaign=1017280&utm_source=habrahabr&utm_medium=rss)
-- [Adobe Illustrator начал использовать ИИ для вращения 2D-векторов в 3D-пространстве](https://habr.com/ru/news/1017274/?utm_campaign=1017274&utm_source=habrahabr&utm_medium=rss)
-- [Meta* запустила предварительное тестирование платных подписок в Instagram**](https://habr.com/ru/news/1017268/?utm_campaign=1017268&utm_source=habrahabr&utm_medium=rss)
+- [Аналитики: постоянная жизнь с ИИ вызывает «перегрев» мозга у разработчиков](https://habr.com/ru/news/1017348/?utm_campaign=1017348&utm_source=habrahabr&utm_medium=rss)
+- [В сборках Windows 11 Canary внедрили улучшения в работе с командной строкой](https://habr.com/ru/news/1017334/?utm_campaign=1017334&utm_source=habrahabr&utm_medium=rss)
+- [Google Drive для настольных ПК теперь сканирует загружаемые файлы на наличие программ-вымогателей](https://habr.com/ru/news/1017340/?utm_campaign=1017340&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило ввести обязательную платную электронную почту для бизнеса](https://habr.com/ru/news/1017338/?utm_campaign=1017338&utm_source=habrahabr&utm_medium=rss)
+- [Apple снова тестирует сквозное шифрование RCS-чатов](https://habr.com/ru/news/1017320/?utm_campaign=1017320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
