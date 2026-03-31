@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [$852 млрд — но прибыли нет: OpenAI завершила рекордный раунд](https://habr.com/ru/news/1017736/?utm_campaign=1017736&utm_source=habrahabr&utm_medium=rss)
 - [Все ради ИИ: Oracle уволила 30 000 человек одним email](https://habr.com/ru/news/1017726/?utm_campaign=1017726&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «„Аквариус“ заложил оборудование и автопарк в Московском кредитном банке»](https://habr.com/ru/news/1017710/?utm_campaign=1017710&utm_source=habrahabr&utm_medium=rss)
 - [Названы победители Всероссийской олимпиады школьников по информатике](https://habr.com/ru/news/1017708/?utm_campaign=1017708&utm_source=habrahabr&utm_medium=rss)
 - [Участники финрынка просят отменить двойное подтверждение операций через Max и СМС из‑за высоких издержек](https://habr.com/ru/news/1017694/?utm_campaign=1017694&utm_source=habrahabr&utm_medium=rss)
-- [Opera Neon теперь позволяет внешним ИИ-агентам управлять браузером](https://habr.com/ru/news/1017606/?utm_campaign=1017606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
