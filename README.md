@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «„Аквариус“ заложил оборудование и автопарк в Московском кредитном банке»](https://habr.com/ru/news/1017710/?utm_campaign=1017710&utm_source=habrahabr&utm_medium=rss)
+- [Названы победители Всероссийской олимпиады школьников по информатике](https://habr.com/ru/news/1017708/?utm_campaign=1017708&utm_source=habrahabr&utm_medium=rss)
 - [Участники финрынка просят отменить двойное подтверждение операций через Max и СМС из‑за высоких издержек](https://habr.com/ru/news/1017694/?utm_campaign=1017694&utm_source=habrahabr&utm_medium=rss)
 - [Opera Neon теперь позволяет внешним ИИ-агентам управлять браузером](https://habr.com/ru/news/1017606/?utm_campaign=1017606&utm_source=habrahabr&utm_medium=rss)
-- [Видеогенератор Sora закрылся из-за убытков](https://habr.com/ru/companies/bothub/news/1017596/?utm_campaign=1017596&utm_source=habrahabr&utm_medium=rss)
 - [Гостевые учётные записи в Google Workspace заработают для всех пользователей 16 апреля](https://habr.com/ru/news/1017598/?utm_campaign=1017598&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft опенсорснула семейство эмбеддингов Harrier](https://habr.com/ru/companies/bothub/news/1017582/?utm_campaign=1017582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
