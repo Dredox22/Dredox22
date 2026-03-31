@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инсталлятора Archinstall 4.0.0](https://habr.com/ru/news/1017530/?utm_campaign=1017530&utm_source=habrahabr&utm_medium=rss)
+- [После 16 лет создания и $8 млрд инвестиций новое ПО GPS для Космических сил США по-прежнему не работает](https://habr.com/ru/news/1017520/?utm_campaign=1017520&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Copilot больше не будет показывать рекламу в запросах на слияние на GitHub](https://habr.com/ru/news/1017512/?utm_campaign=1017512&utm_source=habrahabr&utm_medium=rss)
+- [Индия выбивает Hikvision и Dahua с рынка видеонаблюдения](https://habr.com/ru/news/1017490/?utm_campaign=1017490&utm_source=habrahabr&utm_medium=rss)
 - [«Код Дурова»: в Ростове‑на‑Дону тестируют белый список для домашнего интернета](https://habr.com/ru/news/1017462/?utm_campaign=1017462&utm_source=habrahabr&utm_medium=rss)
-- [Соцсеть Bluesky запустила ИИ-бота — и он стал ненавистнее Белого дома](https://habr.com/ru/news/1017458/?utm_campaign=1017458&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: для Android разрабатывают функцию Tap to share, похожую на AirDrop](https://habr.com/ru/news/1017454/?utm_campaign=1017454&utm_source=habrahabr&utm_medium=rss)
-- [ИТ-тренды 2025 года в машиностроительной отрасли](https://habr.com/ru/companies/k2tech/news/1015418/?utm_campaign=1015418&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic случайно слили исходники Claude Code](https://habr.com/ru/news/1017438/?utm_campaign=1017438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
