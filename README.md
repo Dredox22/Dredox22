@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [vGate 5.2 и VMmanager подтвердили совместимость](https://habr.com/ru/companies/ispsystem/news/1017206/?utm_campaign=1017206&utm_source=habrahabr&utm_medium=rss)
+- [Глава Минцифры: ведомству поставили конкретную задачу — снизить использование VPN](https://habr.com/ru/news/1017222/?utm_campaign=1017222&utm_source=habrahabr&utm_medium=rss)
 - [В Минцифры РФ против введения административной ответственности за использование VPN-сервисов](https://habr.com/ru/news/1017208/?utm_campaign=1017208&utm_source=habrahabr&utm_medium=rss)
 - [Релиз GitRiver 1.0 — self-hosted платформы для управления git-репозиториями](https://habr.com/ru/news/1016692/?utm_campaign=1016692&utm_source=habrahabr&utm_medium=rss)
 - [HackerOne сообщила об утечке данных сотрудников после взлома системы Navia](https://habr.com/ru/news/1016844/?utm_campaign=1016844&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выпустила мультимодальный ИИ Qwen3.5-Omni — он пишет код по видеозаписи экрана](https://habr.com/ru/news/1017160/?utm_campaign=1017160&utm_source=habrahabr&utm_medium=rss)
-- [Qwen3.6 Plus Preview появился на OpenRouter бесплатно](https://habr.com/ru/news/1017144/?utm_campaign=1017144&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
