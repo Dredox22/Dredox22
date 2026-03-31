@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гостевые учётные записи в Google Workspace заработают для всех пользователей 16 апреля](https://habr.com/ru/news/1017598/?utm_campaign=1017598&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft опенсорснула семейство эмбеддингов Harrier](https://habr.com/ru/companies/bothub/news/1017582/?utm_campaign=1017582&utm_source=habrahabr&utm_medium=rss)
+- [В 20 раз меньше кубитов на взлом криптовалют: новые расчеты Google Quantum AI](https://habr.com/ru/news/1017648/?utm_campaign=1017648&utm_source=habrahabr&utm_medium=rss)
 - [С 1 апреля нельзя будет оплатить Telegram Premium из России](https://habr.com/ru/companies/paybeam/news/1017590/?utm_campaign=1017590&utm_source=habrahabr&utm_medium=rss)
 - [Компания Z.ai &lpar;создатели моделей GLM&rpar; выпустили AutoClaw](https://habr.com/ru/companies/bothub/news/1017564/?utm_campaign=1017564&utm_source=habrahabr&utm_medium=rss)
-- [Квантовые компьютеры могут взломать криптографию быстрее, чем считалось — новое исследование Google](https://habr.com/ru/companies/technokratos/news/1017618/?utm_campaign=1017618&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» опроверг информацию об ограничениях домашнего интернета только по белым спискам](https://habr.com/ru/news/1017616/?utm_campaign=1017616&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предлагает Windows App в качестве замены Remote Desktop](https://habr.com/ru/news/1017584/?utm_campaign=1017584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
