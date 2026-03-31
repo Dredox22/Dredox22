@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 1 апреля нельзя будет оплатить Telegram Premium из России](https://habr.com/ru/companies/paybeam/news/1017590/?utm_campaign=1017590&utm_source=habrahabr&utm_medium=rss)
+- [Компания Z.ai &lpar;создатели моделей GLM&rpar; выпустили AutoClaw](https://habr.com/ru/companies/bothub/news/1017564/?utm_campaign=1017564&utm_source=habrahabr&utm_medium=rss)
+- [Квантовые компьютеры могут взломать криптографию быстрее, чем считалось — новое исследование Google](https://habr.com/ru/companies/technokratos/news/1017618/?utm_campaign=1017618&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» опроверг информацию об ограничениях домашнего интернета только по белым спискам](https://habr.com/ru/news/1017616/?utm_campaign=1017616&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предлагает Windows App в качестве замены Remote Desktop](https://habr.com/ru/news/1017584/?utm_campaign=1017584&utm_source=habrahabr&utm_medium=rss)
-- [Новый завод по производству человекоподобных роботов выпускает одну единицу каждые 30 минут](https://habr.com/ru/companies/bothub/news/1017556/?utm_campaign=1017556&utm_source=habrahabr&utm_medium=rss)
-- [Google представила третью бета‑версию Android 17](https://habr.com/ru/news/1017568/?utm_campaign=1017568&utm_source=habrahabr&utm_medium=rss)
-- [Zhipu и MiniMax показали ИИ-экономику без прикрас: убытки до 6 раз больше выручки](https://habr.com/ru/news/1017562/?utm_campaign=1017562&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг сообщил о полном покрытии спроса на материалы для печатных плат отечественным производством](https://habr.com/ru/news/1017558/?utm_campaign=1017558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
