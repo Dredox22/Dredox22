@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Аналитики: постоянная жизнь с ИИ вызывает «перегрев» мозга у разработчиков](https://habr.com/ru/news/1017348/?utm_campaign=1017348&utm_source=habrahabr&utm_medium=rss)
-- [В сборках Windows 11 Canary внедрили улучшения в работе с командной строкой](https://habr.com/ru/news/1017334/?utm_campaign=1017334&utm_source=habrahabr&utm_medium=rss)
-- [Google Drive для настольных ПК теперь сканирует загружаемые файлы на наличие программ-вымогателей](https://habr.com/ru/news/1017340/?utm_campaign=1017340&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предложило ввести обязательную платную электронную почту для бизнеса](https://habr.com/ru/news/1017338/?utm_campaign=1017338&utm_source=habrahabr&utm_medium=rss)
-- [Apple снова тестирует сквозное шифрование RCS-чатов](https://habr.com/ru/news/1017320/?utm_campaign=1017320&utm_source=habrahabr&utm_medium=rss)
+- [ScaleOps привлекла $130 млн на платформу для снижения затрат на cloud- и AI-инфраструктуру](https://habr.com/ru/companies/tehrevizor/news/1017394/?utm_campaign=1017394&utm_source=habrahabr&utm_medium=rss)
+- [Ежегодное игровое шоу «НАШЫ ИГРЫ 2026» пройдет в Москве 30 мая 2026 года, в кинотеатре «Октябрь»](https://habr.com/ru/news/1017390/?utm_campaign=1017390&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запустил геораспределённый регион с катастрофоустойчивостью «из коробки»](https://habr.com/ru/companies/tehrevizor/news/1017386/?utm_campaign=1017386&utm_source=habrahabr&utm_medium=rss)
+- [Eltex начал серийное производство 400G-коммутатора MES5700-32 для ЦОД и вычислительных кластеров](https://habr.com/ru/companies/tehrevizor/news/1017382/?utm_campaign=1017382&utm_source=habrahabr&utm_medium=rss)
+- [Госзакупки стационарных телефонов в России выросли более чем на 50% за год](https://habr.com/ru/news/1017376/?utm_campaign=1017376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
