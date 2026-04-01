@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [IT-компании, сервисы которых будут доступны через VPN, могут лишить аккредитации Минцифры](https://habr.com/ru/news/1017764/?utm_campaign=1017764&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи РФ отключили пополнение Apple ID с мобильных телефонов](https://habr.com/ru/news/1017762/?utm_campaign=1017762&utm_source=habrahabr&utm_medium=rss)
+- [Вышла мобильная платформа «Альт Мобильный» &lpar;ALT Mobile&rpar; 11.0](https://habr.com/ru/news/1017228/?utm_campaign=1017228&utm_source=habrahabr&utm_medium=rss)
 - [LimX Dynamics представила гуманоидного робота Luna, который выполнил иллюзорный поворот](https://habr.com/ru/news/1017188/?utm_campaign=1017188&utm_source=habrahabr&utm_medium=rss)
 - [Telegram начал помечать пользователей сторонних клиентов. Также мессенджер получил ИИ-редактор и фабрику ботов](https://habr.com/ru/news/1017742/?utm_campaign=1017742&utm_source=habrahabr&utm_medium=rss)
-- [$852 млрд — но прибыли нет: OpenAI завершила рекордный раунд](https://habr.com/ru/news/1017736/?utm_campaign=1017736&utm_source=habrahabr&utm_medium=rss)
-- [Все ради ИИ: Oracle уволила 30 000 человек одним email](https://habr.com/ru/news/1017726/?utm_campaign=1017726&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «„Аквариус“ заложил оборудование и автопарк в Московском кредитном банке»](https://habr.com/ru/news/1017710/?utm_campaign=1017710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
