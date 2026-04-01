@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [МТС первой испытала базовую станцию на аэростате](https://habr.com/ru/news/1018054/?utm_campaign=1018054&utm_source=habrahabr&utm_medium=rss)
-- [В России предложили создать единую электронную систему доставки официальных уведомлений через Госуслуги](https://habr.com/ru/news/1018052/?utm_campaign=1018052&utm_source=habrahabr&utm_medium=rss)
-- [Релиз системы фильтрации спама Rspamd 4.0.0](https://habr.com/ru/news/1018032/?utm_campaign=1018032&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: россияне стали чаще проверять информацию в интернете](https://habr.com/ru/news/1018028/?utm_campaign=1018028&utm_source=habrahabr&utm_medium=rss)
-- [Подарочные карты App Store в России подорожали в несколько раз](https://habr.com/ru/news/1018020/?utm_campaign=1018020&utm_source=habrahabr&utm_medium=rss)
+- [Три задачи Эрдёша за раз: новая модель OpenAI обошла GPT-5.4 Pro в математике](https://habr.com/ru/news/1018128/?utm_campaign=1018128&utm_source=habrahabr&utm_medium=rss)
+- [ГКРЧ выделила частоты для развития систем связи в формате «смартфон‑спутник»](https://habr.com/ru/news/1018122/?utm_campaign=1018122&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba выпустила Wan2.7-Image – ИИ для генерации и изменения картинок](https://habr.com/ru/companies/bothub/news/1018118/?utm_campaign=1018118&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi выпустила одноплатник Raspberry Pi 4 с 3 ГБ ОЗУ и снова подняла цены](https://habr.com/ru/news/1018110/?utm_campaign=1018110&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер»: ИИ может выйти из‑под контроля только при неверном обращении с технологиями](https://habr.com/ru/news/1018090/?utm_campaign=1018090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
