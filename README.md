@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России создают первую 8-модульную кластерную установку для магнетронного нанесения слоёв алюминиевой металлизации](https://habr.com/ru/news/1018162/?utm_campaign=1018162&utm_source=habrahabr&utm_medium=rss)
+- [Claude написал эксплойт для ядра FreeBSD – и получил root shell за 8 часов](https://habr.com/ru/companies/bothub/news/1018154/?utm_campaign=1018154&utm_source=habrahabr&utm_medium=rss)
+- [️ Spring АйО Академия](https://habr.com/ru/companies/spring_aio/news/1018148/?utm_campaign=1018148&utm_source=habrahabr&utm_medium=rss)
+- [Открытый банкинг может приносить экономике Великобритании до £43 млрд в год](https://habr.com/ru/companies/technokratos/news/1018140/?utm_campaign=1018140&utm_source=habrahabr&utm_medium=rss)
 - [Три задачи Эрдёша за раз: новая модель OpenAI обошла GPT-5.4 Pro в математике](https://habr.com/ru/news/1018128/?utm_campaign=1018128&utm_source=habrahabr&utm_medium=rss)
-- [ГКРЧ выделила частоты для развития систем связи в формате «смартфон‑спутник»](https://habr.com/ru/news/1018122/?utm_campaign=1018122&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выпустила Wan2.7-Image – ИИ для генерации и изменения картинок](https://habr.com/ru/companies/bothub/news/1018118/?utm_campaign=1018118&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi выпустила одноплатник Raspberry Pi 4 с 3 ГБ ОЗУ и снова подняла цены](https://habr.com/ru/news/1018110/?utm_campaign=1018110&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер»: ИИ может выйти из‑под контроля только при неверном обращении с технологиями](https://habr.com/ru/news/1018090/?utm_campaign=1018090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
