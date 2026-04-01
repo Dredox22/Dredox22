@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX потеряла связь со спутником Starlink из-за «аномалии», а LeoLabs указывает на «событие с образованием обломков»](https://habr.com/ru/news/1017830/?utm_campaign=1017830&utm_source=habrahabr&utm_medium=rss)
-- [Mercor заявила о кибератаке после взлома проекта с открытым исходным кодом LiteLLM](https://habr.com/ru/news/1017818/?utm_campaign=1017818&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: полная блокировка Telegram возможна лишь в стране, которая физически отключена от мирового интернета](https://habr.com/ru/news/1017820/?utm_campaign=1017820&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-стартап за $10 млрд взломан через Python-библиотеку: Mercor подтвердила инцидент с LiteLLM](https://habr.com/ru/news/1017816/?utm_campaign=1017816&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA представила Input Generation — предсказательный ввод на базе ИИ для максимальной отзывчивости в играх](https://habr.com/ru/news/1017704/?utm_campaign=1017704&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск 4MLinux 51.0](https://habr.com/ru/news/1017392/?utm_campaign=1017392&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Telegram: ИИ-редактор текстов, Motion Photos и боты для ботов](https://habr.com/ru/news/1017862/?utm_campaign=1017862&utm_source=habrahabr&utm_medium=rss)
+- [Proton представила Proton Workspace — альтернативу Google Workspace и Microsoft 365 с упором на конфиденциальность](https://habr.com/ru/news/1017868/?utm_campaign=1017868&utm_source=habrahabr&utm_medium=rss)
+- [Представлен сервис видеозвонков с полным сквозным шифрованием Proton Meet](https://habr.com/ru/news/1017846/?utm_campaign=1017846&utm_source=habrahabr&utm_medium=rss)
+- [Слово «нетворкинг» вошло в словарь русского языка](https://habr.com/ru/news/1017840/?utm_campaign=1017840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
