@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX потеряла связь со спутником Starlink из-за «аномалии», а LeoLabs указывает на «событие с образованием обломков»](https://habr.com/ru/news/1017830/?utm_campaign=1017830&utm_source=habrahabr&utm_medium=rss)
+- [Mercor заявила о кибератаке после взлома проекта с открытым исходным кодом LiteLLM](https://habr.com/ru/news/1017818/?utm_campaign=1017818&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: полная блокировка Telegram возможна лишь в стране, которая физически отключена от мирового интернета](https://habr.com/ru/news/1017820/?utm_campaign=1017820&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-стартап за $10 млрд взломан через Python-библиотеку: Mercor подтвердила инцидент с LiteLLM](https://habr.com/ru/news/1017816/?utm_campaign=1017816&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA представила Input Generation — предсказательный ввод на базе ИИ для максимальной отзывчивости в играх](https://habr.com/ru/news/1017704/?utm_campaign=1017704&utm_source=habrahabr&utm_medium=rss)
-- [Вышли релизы безопасности Joomla 6.0.4 и Joomla 5.4.4](https://habr.com/ru/news/1017780/?utm_campaign=1017780&utm_source=habrahabr&utm_medium=rss)
-- [IT-компании, сервисы которых будут доступны через VPN, могут лишить аккредитации Минцифры](https://habr.com/ru/news/1017764/?utm_campaign=1017764&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи РФ отключили пополнение Apple ID с мобильных телефонов](https://habr.com/ru/news/1017762/?utm_campaign=1017762&utm_source=habrahabr&utm_medium=rss)
-- [Вышла мобильная платформа «Альт Мобильный» &lpar;ALT Mobile&rpar; 11.0](https://habr.com/ru/news/1017228/?utm_campaign=1017228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
