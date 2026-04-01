@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [$600 млн и ноль покупателей: акции OpenAI на вторичном рынке никому не нужны](https://habr.com/ru/news/1018184/?utm_campaign=1018184&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» завершил апробацию отечественного лазерного микроскопа для разработки лекарств от рака](https://habr.com/ru/news/1018166/?utm_campaign=1018166&utm_source=habrahabr&utm_medium=rss)
 - [В России создают первую 8-модульную кластерную установку для магнетронного нанесения слоёв алюминиевой металлизации](https://habr.com/ru/news/1018162/?utm_campaign=1018162&utm_source=habrahabr&utm_medium=rss)
 - [Claude написал эксплойт для ядра FreeBSD – и получил root shell за 8 часов](https://habr.com/ru/companies/bothub/news/1018154/?utm_campaign=1018154&utm_source=habrahabr&utm_medium=rss)
 - [️ Spring АйО Академия](https://habr.com/ru/companies/spring_aio/news/1018148/?utm_campaign=1018148&utm_source=habrahabr&utm_medium=rss)
-- [Открытый банкинг может приносить экономике Великобритании до £43 млрд в год](https://habr.com/ru/companies/technokratos/news/1018140/?utm_campaign=1018140&utm_source=habrahabr&utm_medium=rss)
-- [Три задачи Эрдёша за раз: новая модель OpenAI обошла GPT-5.4 Pro в математике](https://habr.com/ru/news/1018128/?utm_campaign=1018128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
