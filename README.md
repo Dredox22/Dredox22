@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA представила Input Generation — предсказательный ввод на базе ИИ для максимальной отзывчивости в играх](https://habr.com/ru/news/1017704/?utm_campaign=1017704&utm_source=habrahabr&utm_medium=rss)
+- [Вышли релизы безопасности Joomla 6.0.4 и Joomla 5.4.4](https://habr.com/ru/news/1017780/?utm_campaign=1017780&utm_source=habrahabr&utm_medium=rss)
 - [IT-компании, сервисы которых будут доступны через VPN, могут лишить аккредитации Минцифры](https://habr.com/ru/news/1017764/?utm_campaign=1017764&utm_source=habrahabr&utm_medium=rss)
 - [Операторы связи РФ отключили пополнение Apple ID с мобильных телефонов](https://habr.com/ru/news/1017762/?utm_campaign=1017762&utm_source=habrahabr&utm_medium=rss)
 - [Вышла мобильная платформа «Альт Мобильный» &lpar;ALT Mobile&rpar; 11.0](https://habr.com/ru/news/1017228/?utm_campaign=1017228&utm_source=habrahabr&utm_medium=rss)
-- [LimX Dynamics представила гуманоидного робота Luna, который выполнил иллюзорный поворот](https://habr.com/ru/news/1017188/?utm_campaign=1017188&utm_source=habrahabr&utm_medium=rss)
-- [Telegram начал помечать пользователей сторонних клиентов. Также мессенджер получил ИИ-редактор и фабрику ботов](https://habr.com/ru/news/1017742/?utm_campaign=1017742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
