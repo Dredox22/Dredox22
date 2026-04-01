@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Инфосистемы Джет» зафиксировала увеличение спроса на экспертные сервисы ИБ на 71%](https://habr.com/ru/companies/jetinfosystems/news/1017986/?utm_campaign=1017986&utm_source=habrahabr&utm_medium=rss)
-- [Анатомия Claude Code: утекший код разложили на интерактивной карте](https://habr.com/ru/news/1017972/?utm_campaign=1017972&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi сообщила о росте годовой прибыли на 25%](https://habr.com/ru/news/1017970/?utm_campaign=1017970&utm_source=habrahabr&utm_medium=rss)
-- [Сигрид Чжин за ночь переписал Claude Code – 50 000 звёзд на GitHub за два часа](https://habr.com/ru/companies/bothub/news/1017954/?utm_campaign=1017954&utm_source=habrahabr&utm_medium=rss)
-- [ИИ предложил кандидатов в лекарства для рака печени и фиброза легких](https://habr.com/ru/news/1017936/?utm_campaign=1017936&utm_source=habrahabr&utm_medium=rss)
+- [МТС первой испытала базовую станцию на аэростате](https://habr.com/ru/news/1018054/?utm_campaign=1018054&utm_source=habrahabr&utm_medium=rss)
+- [В России предложили создать единую электронную систему доставки официальных уведомлений через Госуслуги](https://habr.com/ru/news/1018052/?utm_campaign=1018052&utm_source=habrahabr&utm_medium=rss)
+- [Релиз системы фильтрации спама Rspamd 4.0.0](https://habr.com/ru/news/1018032/?utm_campaign=1018032&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: россияне стали чаще проверять информацию в интернете](https://habr.com/ru/news/1018028/?utm_campaign=1018028&utm_source=habrahabr&utm_medium=rss)
+- [Подарочные карты App Store в России подорожали в несколько раз](https://habr.com/ru/news/1018020/?utm_campaign=1018020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
