@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Инфосистемы Джет» зафиксировала увеличение спроса на экспертные сервисы ИБ на 71%](https://habr.com/ru/companies/jetinfosystems/news/1017986/?utm_campaign=1017986&utm_source=habrahabr&utm_medium=rss)
 - [Анатомия Claude Code: утекший код разложили на интерактивной карте](https://habr.com/ru/news/1017972/?utm_campaign=1017972&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi сообщила о росте годовой прибыли на 25%](https://habr.com/ru/news/1017970/?utm_campaign=1017970&utm_source=habrahabr&utm_medium=rss)
 - [Сигрид Чжин за ночь переписал Claude Code – 50 000 звёзд на GitHub за два часа](https://habr.com/ru/companies/bothub/news/1017954/?utm_campaign=1017954&utm_source=habrahabr&utm_medium=rss)
 - [ИИ предложил кандидатов в лекарства для рака печени и фиброза легких](https://habr.com/ru/news/1017936/?utm_campaign=1017936&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры, связанные с КНДР, встроили вредоносный код в open-source библиотеку Axios](https://habr.com/ru/companies/tehrevizor/news/1017932/?utm_campaign=1017932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
