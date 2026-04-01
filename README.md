@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск 4MLinux 51.0](https://habr.com/ru/news/1017392/?utm_campaign=1017392&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: ИИ-редактор текстов, Motion Photos и боты для ботов](https://habr.com/ru/news/1017862/?utm_campaign=1017862&utm_source=habrahabr&utm_medium=rss)
-- [Proton представила Proton Workspace — альтернативу Google Workspace и Microsoft 365 с упором на конфиденциальность](https://habr.com/ru/news/1017868/?utm_campaign=1017868&utm_source=habrahabr&utm_medium=rss)
-- [Представлен сервис видеозвонков с полным сквозным шифрованием Proton Meet](https://habr.com/ru/news/1017846/?utm_campaign=1017846&utm_source=habrahabr&utm_medium=rss)
-- [Слово «нетворкинг» вошло в словарь русского языка](https://habr.com/ru/news/1017840/?utm_campaign=1017840&utm_source=habrahabr&utm_medium=rss)
+- [Анатомия Claude Code: утекший код разложили на интерактивной карте](https://habr.com/ru/news/1017972/?utm_campaign=1017972&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi сообщила о росте годовой прибыли на 25%](https://habr.com/ru/news/1017970/?utm_campaign=1017970&utm_source=habrahabr&utm_medium=rss)
+- [Сигрид Чжин за ночь переписал Claude Code – 50 000 звёзд на GitHub за два часа](https://habr.com/ru/companies/bothub/news/1017954/?utm_campaign=1017954&utm_source=habrahabr&utm_medium=rss)
+- [ИИ предложил кандидатов в лекарства для рака печени и фиброза легких](https://habr.com/ru/news/1017936/?utm_campaign=1017936&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры, связанные с КНДР, встроили вредоносный код в open-source библиотеку Axios](https://habr.com/ru/companies/tehrevizor/news/1017932/?utm_campaign=1017932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
