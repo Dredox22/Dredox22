@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В «Пулково» внедрят роевой ИИ для беспилотных багажных тягачей](https://habr.com/ru/companies/tehrevizor/news/1018346/?utm_campaign=1018346&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic применила DMCA для удаления репозиториев после утечки базовых инструкций Claude Code](https://habr.com/ru/news/1018338/?utm_campaign=1018338&utm_source=habrahabr&utm_medium=rss)
-- [«Сильнейшая китайская модель в коде»: Alibaba представила Qwen3.6-Plus](https://habr.com/ru/news/1018330/?utm_campaign=1018330&utm_source=habrahabr&utm_medium=rss)
-- [Весенний апдейт CodeScoring: OSA Proxy, развитие достижимости и новая ML-модель для оценки секретов](https://habr.com/ru/companies/codescoring/news/1018108/?utm_campaign=1018108&utm_source=habrahabr&utm_medium=rss)
-- [В определителе номера «Яндекса» появилась функция блокировки звонков со всех незнакомых номеров](https://habr.com/ru/news/1018326/?utm_campaign=1018326&utm_source=habrahabr&utm_medium=rss)
+- [ИИ от Perplexity обвинили в передаче данных в Google и Meta* даже в режиме «инкогнито»](https://habr.com/ru/news/1018392/?utm_campaign=1018392&utm_source=habrahabr&utm_medium=rss)
+- [Комплексное управление доступом: маркетинговая уловка или работающий инструмент?](https://habr.com/ru/companies/ussc/news/1018398/?utm_campaign=1018398&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект 4-мерной игры HYPERHELL — аналога Doom](https://habr.com/ru/news/1018370/?utm_campaign=1018370&utm_source=habrahabr&utm_medium=rss)
+- [Cognichip привлекла $60 млн на ИИ для проектирования чипов](https://habr.com/ru/companies/tehrevizor/news/1018390/?utm_campaign=1018390&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обсуждает ужесточение требований к лицензированию операторов связи](https://habr.com/ru/news/1018380/?utm_campaign=1018380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
