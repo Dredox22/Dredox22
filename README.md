@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Unfrozen назначила запуск раннего доступа Heroes of Might and Magic: Olden Era на 30 апреля](https://habr.com/ru/news/1018486/?utm_campaign=1018486&utm_source=habrahabr&utm_medium=rss)
+- [В npm-пакете axios &lpar;клиент HTTPS&rpar; нашли троян удалённого доступа: атакованы версии 1.14.1 и 0.30.4](https://habr.com/ru/companies/bothub/news/1018478/?utm_campaign=1018478&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры обсуждает с операторами связи сокращение количества провайдеров](https://habr.com/ru/news/1018458/?utm_campaign=1018458&utm_source=habrahabr&utm_medium=rss)
 - [Shutterstock в приложении ChatGPT позволяет интегрировать лицензированный контент в рабочие процессы ИИ](https://habr.com/ru/news/1018452/?utm_campaign=1018452&utm_source=habrahabr&utm_medium=rss)
 - [Атаки на IoT: киберпреступники угрожают пациентам и предприятиям](https://habr.com/ru/companies/infowatch/news/1018446/?utm_campaign=1018446&utm_source=habrahabr&utm_medium=rss)
-- [Глава «Вымпелкома» предложил смягчить идею белых списков, ограничивая интернет только для «сомнительных» абонентов](https://habr.com/ru/news/1018442/?utm_campaign=1018442&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заявила о необходимости загрузить новый Outlook для отправки электронных писем](https://habr.com/ru/news/1018416/?utm_campaign=1018416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
