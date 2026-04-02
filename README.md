@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Я вам благую весть принёс. Но есть нюанс](https://habr.com/ru/news/1018280/?utm_campaign=1018280&utm_source=habrahabr&utm_medium=rss)
-- [Анализаторы для JavaScript, TypeScript, Go и PVS-Studio Atlas](https://habr.com/ru/companies/pvs-studio/news/1018274/?utm_campaign=1018274&utm_source=habrahabr&utm_medium=rss)
-- [Manticore Search 25.0.0](https://habr.com/ru/news/1017806/?utm_campaign=1017806&utm_source=habrahabr&utm_medium=rss)
-- [Полиция не будет проверять смартфоны россиян на предмет наличия VPN-сервисов, сообщили в МВД РФ](https://habr.com/ru/news/1018262/?utm_campaign=1018262&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 6.0.0](https://habr.com/ru/news/1017974/?utm_campaign=1017974&utm_source=habrahabr&utm_medium=rss)
+- [В «Пулково» внедрят роевой ИИ для беспилотных багажных тягачей](https://habr.com/ru/companies/tehrevizor/news/1018346/?utm_campaign=1018346&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic применила DMCA для удаления репозиториев после утечки базовых инструкций Claude Code](https://habr.com/ru/news/1018338/?utm_campaign=1018338&utm_source=habrahabr&utm_medium=rss)
+- [«Сильнейшая китайская модель в коде»: Alibaba представила Qwen3.6-Plus](https://habr.com/ru/news/1018330/?utm_campaign=1018330&utm_source=habrahabr&utm_medium=rss)
+- [Весенний апдейт CodeScoring: OSA Proxy, развитие достижимости и новая ML-модель для оценки секретов](https://habr.com/ru/companies/codescoring/news/1018108/?utm_campaign=1018108&utm_source=habrahabr&utm_medium=rss)
+- [В определителе номера «Яндекса» появилась функция блокировки звонков со всех незнакомых номеров](https://habr.com/ru/news/1018326/?utm_campaign=1018326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
