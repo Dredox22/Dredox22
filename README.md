@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ от Perplexity обвинили в передаче данных в Google и Meta* даже в режиме «инкогнито»](https://habr.com/ru/news/1018392/?utm_campaign=1018392&utm_source=habrahabr&utm_medium=rss)
-- [Комплексное управление доступом: маркетинговая уловка или работающий инструмент?](https://habr.com/ru/companies/ussc/news/1018398/?utm_campaign=1018398&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект 4-мерной игры HYPERHELL — аналога Doom](https://habr.com/ru/news/1018370/?utm_campaign=1018370&utm_source=habrahabr&utm_medium=rss)
-- [Cognichip привлекла $60 млн на ИИ для проектирования чипов](https://habr.com/ru/companies/tehrevizor/news/1018390/?utm_campaign=1018390&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обсуждает ужесточение требований к лицензированию операторов связи](https://habr.com/ru/news/1018380/?utm_campaign=1018380&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обсуждает с операторами связи сокращение количества провайдеров](https://habr.com/ru/news/1018458/?utm_campaign=1018458&utm_source=habrahabr&utm_medium=rss)
+- [Shutterstock в приложении ChatGPT позволяет интегрировать лицензированный контент в рабочие процессы ИИ](https://habr.com/ru/news/1018452/?utm_campaign=1018452&utm_source=habrahabr&utm_medium=rss)
+- [Атаки на IoT: киберпреступники угрожают пациентам и предприятиям](https://habr.com/ru/companies/infowatch/news/1018446/?utm_campaign=1018446&utm_source=habrahabr&utm_medium=rss)
+- [Глава «Вымпелкома» предложил смягчить идею белых списков, ограничивая интернет только для «сомнительных» абонентов](https://habr.com/ru/news/1018442/?utm_campaign=1018442&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft заявила о необходимости загрузить новый Outlook для отправки электронных писем](https://habr.com/ru/news/1018416/?utm_campaign=1018416&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
