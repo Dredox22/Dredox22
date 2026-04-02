@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила обновление iOS 18.7.7, которое закрывает уязвимости из эксплойт-кита DarkSword](https://habr.com/ru/news/1018616/?utm_campaign=1018616&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft вступила в гонку с OpenAI: команда суперинтеллекта готовит передовые модели к 2027 году](https://habr.com/ru/news/1018600/?utm_campaign=1018600&utm_source=habrahabr&utm_medium=rss)
+- [Глава «Вымпелкома»: мобильные операторы не смогут отслеживать VPN-трафик, чтобы брать деньги за его использование](https://habr.com/ru/news/1018584/?utm_campaign=1018584&utm_source=habrahabr&utm_medium=rss)
 - [Cash App запускает функцию «плати позже» для P2P-переводов](https://habr.com/ru/companies/technokratos/news/1018578/?utm_campaign=1018578&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры попросило крупнейшие в России по аудитории цифровые площадки помочь с блокировкой VPN](https://habr.com/ru/news/1018576/?utm_campaign=1018576&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выкатили Qwen3.6-Plus — новый флагман серии Qwen](https://habr.com/ru/news/1018526/?utm_campaign=1018526&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte – серебряный партнер Российского Ритейл Шоу 2026](https://habr.com/ru/companies/glowbyte/news/1018508/?utm_campaign=1018508&utm_source=habrahabr&utm_medium=rss)
-- [Unfrozen назначила запуск раннего доступа Heroes of Might and Magic: Olden Era на 30 апреля](https://habr.com/ru/news/1018486/?utm_campaign=1018486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
