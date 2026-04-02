@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Антиплагиат» предложил защищать студентов от ложных обвинений в использовании ИИ](https://habr.com/ru/companies/tehrevizor/news/1018640/?utm_campaign=1018640&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Google Gemma 4 — открытая модель с 31 млрд параметров обходит ИИ вдвое крупнее](https://habr.com/ru/news/1018632/?utm_campaign=1018632&utm_source=habrahabr&utm_medium=rss)
+- [Подрядчик OpenAI и Anthropic разрабатывает инструмент для работы с признаками онлайн-радикализации](https://habr.com/ru/companies/tehrevizor/news/1018624/?utm_campaign=1018624&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила Gemma 4 2B/4B/26B/31B: открытые веса и 3-е место на Arena AI](https://habr.com/ru/companies/bothub/news/1018622/?utm_campaign=1018622&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила обновление iOS 18.7.7, которое закрывает уязвимости из эксплойт-кита DarkSword](https://habr.com/ru/news/1018616/?utm_campaign=1018616&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft вступила в гонку с OpenAI: команда суперинтеллекта готовит передовые модели к 2027 году](https://habr.com/ru/news/1018600/?utm_campaign=1018600&utm_source=habrahabr&utm_medium=rss)
-- [Глава «Вымпелкома»: мобильные операторы не смогут отслеживать VPN-трафик, чтобы брать деньги за его использование](https://habr.com/ru/news/1018584/?utm_campaign=1018584&utm_source=habrahabr&utm_medium=rss)
-- [Cash App запускает функцию «плати позже» для P2P-переводов](https://habr.com/ru/companies/technokratos/news/1018578/?utm_campaign=1018578&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры попросило крупнейшие в России по аудитории цифровые площадки помочь с блокировкой VPN](https://habr.com/ru/news/1018576/?utm_campaign=1018576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
