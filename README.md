@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cash App запускает функцию «плати позже» для P2P-переводов](https://habr.com/ru/companies/technokratos/news/1018578/?utm_campaign=1018578&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры попросило крупнейшие в России по аудитории цифровые площадки помочь с блокировкой VPN](https://habr.com/ru/news/1018576/?utm_campaign=1018576&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba выкатили Qwen3.6-Plus — новый флагман серии Qwen](https://habr.com/ru/news/1018526/?utm_campaign=1018526&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte – серебряный партнер Российского Ритейл Шоу 2026](https://habr.com/ru/companies/glowbyte/news/1018508/?utm_campaign=1018508&utm_source=habrahabr&utm_medium=rss)
 - [Unfrozen назначила запуск раннего доступа Heroes of Might and Magic: Olden Era на 30 апреля](https://habr.com/ru/news/1018486/?utm_campaign=1018486&utm_source=habrahabr&utm_medium=rss)
-- [В npm-пакете axios &lpar;клиент HTTPS&rpar; нашли троян удалённого доступа: атакованы версии 1.14.1 и 0.30.4](https://habr.com/ru/companies/bothub/news/1018478/?utm_campaign=1018478&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обсуждает с операторами связи сокращение количества провайдеров](https://habr.com/ru/news/1018458/?utm_campaign=1018458&utm_source=habrahabr&utm_medium=rss)
-- [Shutterstock в приложении ChatGPT позволяет интегрировать лицензированный контент в рабочие процессы ИИ](https://habr.com/ru/news/1018452/?utm_campaign=1018452&utm_source=habrahabr&utm_medium=rss)
-- [Атаки на IoT: киберпреступники угрожают пациентам и предприятиям](https://habr.com/ru/companies/infowatch/news/1018446/?utm_campaign=1018446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
