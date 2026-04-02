@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск GnuCash 5.15](https://habr.com/ru/news/1017960/?utm_campaign=1017960&utm_source=habrahabr&utm_medium=rss)
 - [MTProxy и telemt массово теряют работоспособность на фоне новых DPI-фильтров](https://habr.com/ru/news/1018232/?utm_campaign=1018232&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удалила инструмент Support and Recovery Assistant из Windows 11 25H2, 24H2, 23H2 и Windows 10](https://habr.com/ru/news/1018230/?utm_campaign=1018230&utm_source=habrahabr&utm_medium=rss)
 - [Президент OpenAI оценил готовность AGI в 70-80%](https://habr.com/ru/news/1018228/?utm_campaign=1018228&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GLM-5V-Turbo: бесплатная модель, которая видит дизайн и превращает его в рабочий фронтенд](https://habr.com/ru/news/1018220/?utm_campaign=1018220&utm_source=habrahabr&utm_medium=rss)
-- [Помнит минуты: релиз Matrix-Game 3.0, ИИ-движка интерактивного видео в 720p и 40 к/с](https://habr.com/ru/companies/bothub/news/1018190/?utm_campaign=1018190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
