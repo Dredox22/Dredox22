@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Cursor 3: внутри Composer 2, и можно запускать сколько угодно агентов](https://habr.com/ru/companies/bothub/news/1018686/?utm_campaign=1018686&utm_source=habrahabr&utm_medium=rss)
+- [У Claude нашли “отчаянный” вектор, толкающий на шантаж и читы](https://habr.com/ru/companies/bothub/news/1018658/?utm_campaign=1018658&utm_source=habrahabr&utm_medium=rss)
 - [«Антиплагиат» предложил защищать студентов от ложных обвинений в использовании ИИ](https://habr.com/ru/companies/tehrevizor/news/1018640/?utm_campaign=1018640&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Google Gemma 4 — открытая модель с 31 млрд параметров обходит ИИ вдвое крупнее](https://habr.com/ru/news/1018632/?utm_campaign=1018632&utm_source=habrahabr&utm_medium=rss)
 - [Подрядчик OpenAI и Anthropic разрабатывает инструмент для работы с признаками онлайн-радикализации](https://habr.com/ru/companies/tehrevizor/news/1018624/?utm_campaign=1018624&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила Gemma 4 2B/4B/26B/31B: открытые веса и 3-е место на Arena AI](https://habr.com/ru/companies/bothub/news/1018622/?utm_campaign=1018622&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила обновление iOS 18.7.7, которое закрывает уязвимости из эксплойт-кита DarkSword](https://habr.com/ru/news/1018616/?utm_campaign=1018616&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
