@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приглашаем на митап: «Что дальше в Пайплайне»](https://habr.com/ru/companies/usetech/news/1018782/?utm_campaign=1018782&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: снижение трафика Telegram не превышает 10–18%, а десятикратное падение у Т2 — абоненты с «обходными методами»](https://habr.com/ru/news/1018772/?utm_campaign=1018772&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление игрового движка Unigine 2.21](https://habr.com/ru/news/1018638/?utm_campaign=1018638&utm_source=habrahabr&utm_medium=rss)
-- [Иран нанес удары по дата-центрам Amazon и Oracle](https://habr.com/ru/news/1018710/?utm_campaign=1018710&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Cursor 3: внутри Composer 2, и можно запускать сколько угодно агентов](https://habr.com/ru/companies/bothub/news/1018686/?utm_campaign=1018686&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обсуждает снятие моратория на проверки операторов связи](https://habr.com/ru/news/1018856/?utm_campaign=1018856&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе «Сбера», «Т‑Банка», ВТБ и Системы быстрых платежей](https://habr.com/ru/news/1018854/?utm_campaign=1018854&utm_source=habrahabr&utm_medium=rss)
+- [Изменения в положениях Банка России о сертификации РБПО](https://habr.com/ru/companies/swordfish_security/news/1018844/?utm_campaign=1018844&utm_source=habrahabr&utm_medium=rss)
+- [Игра «Мир, Химия!» от победителей Акселератора выходит на VK Play](https://habr.com/ru/news/1018842/?utm_campaign=1018842&utm_source=habrahabr&utm_medium=rss)
+- [В Apple нашли способ быстро и эффективно строить 3D-сцены с помощью ИИ](https://habr.com/ru/companies/bothub/news/1018836/?utm_campaign=1018836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
