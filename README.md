@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Москве пройдет международный чемпионат по ИИ-агентам](https://habr.com/ru/companies/pt/news/1019064/?utm_campaign=1019064&utm_source=habrahabr&utm_medium=rss)
+- [Sony купила ИИ-компанию Cinemersive Labs](https://habr.com/ru/news/1019038/?utm_campaign=1019038&utm_source=habrahabr&utm_medium=rss)
+- [GLM-5V-Turbo от Zhipu AI преобразует макеты дизайна непосредственно в исполняемый код для фронтенда](https://habr.com/ru/companies/bothub/news/1019000/?utm_campaign=1019000&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на оффлайн-митапов по тестированию](https://habr.com/ru/companies/usetech/news/1018976/?utm_campaign=1018976&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX предупредила регулятора, что запуски спутников Amazon Leo создали риск столкновения с группировкой Starlink](https://habr.com/ru/news/1018960/?utm_campaign=1018960&utm_source=habrahabr&utm_medium=rss)
-- [Бизнес мигрирует в банки из «белых списков» из-за отключений интернета](https://habr.com/ru/news/1018930/?utm_campaign=1018930&utm_source=habrahabr&utm_medium=rss)
-- [Китай предложил ввести правила для digital humans и запретить «аддиктивные» сервисы для детей](https://habr.com/ru/companies/tehrevizor/news/1018928/?utm_campaign=1018928&utm_source=habrahabr&utm_medium=rss)
-- [Google добавила в Gemini API режимы Flex и Priority для управления ценой и надёжностью](https://habr.com/ru/companies/tehrevizor/news/1018924/?utm_campaign=1018924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
