@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Источник отрасли: IT-компании начали приостанавливать проекты после совещания в Минцифры](https://habr.com/ru/news/1018744/?utm_campaign=1018744&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на митап: «Что дальше в Пайплайне»](https://habr.com/ru/companies/usetech/news/1018782/?utm_campaign=1018782&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: снижение трафика Telegram не превышает 10–18%, а десятикратное падение у Т2 — абоненты с «обходными методами»](https://habr.com/ru/news/1018772/?utm_campaign=1018772&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление игрового движка Unigine 2.21](https://habr.com/ru/news/1018638/?utm_campaign=1018638&utm_source=habrahabr&utm_medium=rss)
 - [Иран нанес удары по дата-центрам Amazon и Oracle](https://habr.com/ru/news/1018710/?utm_campaign=1018710&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Cursor 3: внутри Composer 2, и можно запускать сколько угодно агентов](https://habr.com/ru/companies/bothub/news/1018686/?utm_campaign=1018686&utm_source=habrahabr&utm_medium=rss)
-- [У Claude нашли “отчаянный” вектор, толкающий на шантаж и читы](https://habr.com/ru/companies/bothub/news/1018658/?utm_campaign=1018658&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
