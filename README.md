@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX предупредила регулятор, что запуски спутников Amazon Leo создали риск столкновения с группировкой Starlink](https://habr.com/ru/news/1018960/?utm_campaign=1018960&utm_source=habrahabr&utm_medium=rss)
 - [Бизнес мигрирует в банки из «белых списков» из-за отключений интернета](https://habr.com/ru/news/1018930/?utm_campaign=1018930&utm_source=habrahabr&utm_medium=rss)
 - [Китай предложил ввести правила для digital humans и запретить «аддиктивные» сервисы для детей](https://habr.com/ru/companies/tehrevizor/news/1018928/?utm_campaign=1018928&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила в Gemini API режимы Flex и Priority для управления ценой и надёжностью](https://habr.com/ru/companies/tehrevizor/news/1018924/?utm_campaign=1018924&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты выяснили: Claude разрешает опасные действия после 50 запросов](https://habr.com/ru/companies/ddosguard/news/1018916/?utm_campaign=1018916&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI купила TBPN — популярное техношоу о бизнесе и ИИ](https://habr.com/ru/companies/tehrevizor/news/1018904/?utm_campaign=1018904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
