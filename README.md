@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Минцифры обсуждает снятие моратория на проверки операторов связи](https://habr.com/ru/news/1018856/?utm_campaign=1018856&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе «Сбера», «Т‑Банка», ВТБ и Системы быстрых платежей](https://habr.com/ru/news/1018854/?utm_campaign=1018854&utm_source=habrahabr&utm_medium=rss)
-- [Изменения в положениях Банка России о сертификации РБПО](https://habr.com/ru/companies/swordfish_security/news/1018844/?utm_campaign=1018844&utm_source=habrahabr&utm_medium=rss)
-- [Игра «Мир, Химия!» от победителей Акселератора выходит на VK Play](https://habr.com/ru/news/1018842/?utm_campaign=1018842&utm_source=habrahabr&utm_medium=rss)
-- [В Apple нашли способ быстро и эффективно строить 3D-сцены с помощью ИИ](https://habr.com/ru/companies/bothub/news/1018836/?utm_campaign=1018836&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI купила TBPN — популярное техношоу о бизнесе и ИИ](https://habr.com/ru/companies/tehrevizor/news/1018904/?utm_campaign=1018904&utm_source=habrahabr&utm_medium=rss)
+- [В Швеции вернут книги в классы](https://habr.com/ru/news/1018864/?utm_campaign=1018864&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила Gemma 4 с открытой лицензией Apache 2.0](https://habr.com/ru/companies/bothub/news/1018878/?utm_campaign=1018878&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпати рассказал, как ИИ ведет за него вики на 400 000 слов](https://habr.com/ru/news/1018876/?utm_campaign=1018876&utm_source=habrahabr&utm_medium=rss)
+- [Открываем набор в Летние школы Яндекса](https://habr.com/ru/companies/yandex/news/1015994/?utm_campaign=1015994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
