@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес мигрирует в банки из «белых списков» из-за отключений интернета](https://habr.com/ru/news/1018930/?utm_campaign=1018930&utm_source=habrahabr&utm_medium=rss)
+- [Китай предложил ввести правила для digital humans и запретить «аддиктивные» сервисы для детей](https://habr.com/ru/companies/tehrevizor/news/1018928/?utm_campaign=1018928&utm_source=habrahabr&utm_medium=rss)
+- [Google добавила в Gemini API режимы Flex и Priority для управления ценой и надёжностью](https://habr.com/ru/companies/tehrevizor/news/1018924/?utm_campaign=1018924&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты выяснили: Claude разрешает опасные действия после 50 запросов](https://habr.com/ru/companies/ddosguard/news/1018916/?utm_campaign=1018916&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI купила TBPN — популярное техношоу о бизнесе и ИИ](https://habr.com/ru/companies/tehrevizor/news/1018904/?utm_campaign=1018904&utm_source=habrahabr&utm_medium=rss)
-- [В Швеции вернут книги в классы](https://habr.com/ru/news/1018864/?utm_campaign=1018864&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила Gemma 4 с открытой лицензией Apache 2.0](https://habr.com/ru/companies/bothub/news/1018878/?utm_campaign=1018878&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати рассказал, как ИИ ведет за него вики на 400 000 слов](https://habr.com/ru/news/1018876/?utm_campaign=1018876&utm_source=habrahabr&utm_medium=rss)
-- [Открываем набор в Летние школы Яндекса](https://habr.com/ru/companies/yandex/news/1015994/?utm_campaign=1015994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
