@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила Xbox PC Remote Tools — инструменты для разработчиков игр для Windows](https://habr.com/ru/news/1018968/?utm_campaign=1018968&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI пожертвовала смешными видео ради ИИ-науки: Альтман объяснил, куда ушли мощности Sora](https://habr.com/ru/news/1019074/?utm_campaign=1019074&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдет международный чемпионат по ИИ-агентам](https://habr.com/ru/companies/pt/news/1019064/?utm_campaign=1019064&utm_source=habrahabr&utm_medium=rss)
 - [Sony купила ИИ-компанию Cinemersive Labs](https://habr.com/ru/news/1019038/?utm_campaign=1019038&utm_source=habrahabr&utm_medium=rss)
 - [GLM-5V-Turbo от Zhipu AI преобразует макеты дизайна непосредственно в исполняемый код для фронтенда](https://habr.com/ru/companies/bothub/news/1019000/?utm_campaign=1019000&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на оффлайн-митапов по тестированию](https://habr.com/ru/companies/usetech/news/1018976/?utm_campaign=1018976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
