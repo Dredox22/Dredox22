@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ перестраивает крупнейшую киноиндустрию мира: как индийские студии меняют экономику производства](https://habr.com/ru/companies/tehrevizor/news/1019266/?utm_campaign=1019266&utm_source=habrahabr&utm_medium=rss)
+- [World Labs обновила модели для генерации 3D-миров](https://habr.com/ru/companies/bothub/news/1019264/?utm_campaign=1019264&utm_source=habrahabr&utm_medium=rss)
 - [В Codex ввели pay-as-you-go тариф без лимитов на запросы](https://habr.com/ru/companies/bothub/news/1019226/?utm_campaign=1019226&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic купила биотех-стартап Coefficient Bio](https://habr.com/ru/companies/bothub/news/1019228/?utm_campaign=1019228&utm_source=habrahabr&utm_medium=rss)
 - [Netflix выпустил открытую ИИ-модель для видео, которая удаляет объекты и пересчитывает физику](https://habr.com/ru/news/1019236/?utm_campaign=1019236&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic убрала «безлимит» для агентных сценариев Claude](https://habr.com/ru/companies/bothub/news/1019222/?utm_campaign=1019222&utm_source=habrahabr&utm_medium=rss)
-- [В Canonical увеличили минимальный объём ОЗУ для Ubuntu 26.04 LTS Resolute Raccoon до 6 ГБ](https://habr.com/ru/news/1018788/?utm_campaign=1018788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
