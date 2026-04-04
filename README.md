@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft раскритиковали за принудительное включение Edge при запуске в тестах Windows 11](https://habr.com/ru/news/1019360/?utm_campaign=1019360&utm_source=habrahabr&utm_medium=rss)
+- [Claude не хватает серверов — но Anthropic сознательно не торопится закупать новые](https://habr.com/ru/news/1019358/?utm_campaign=1019358&utm_source=habrahabr&utm_medium=rss)
 - [Сайт фанфиков AO3 выходит из бета-версии после 17 лет работы](https://habr.com/ru/news/1019324/?utm_campaign=1019324&utm_source=habrahabr&utm_medium=rss)
 - [Нейросеть нашла 6 дефектов в полупроводнике одновременно — раньше это было невозможно](https://habr.com/ru/news/1019310/?utm_campaign=1019310&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Sheets — электронные таблицы в терминале](https://habr.com/ru/news/1018768/?utm_campaign=1018768&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek v4 будет работать только на чипах Huawei](https://habr.com/ru/companies/bothub/news/1019280/?utm_campaign=1019280&utm_source=habrahabr&utm_medium=rss)
-- [Сооснователь «Лаборатории Касперского» и президент ГК InfoWatch Наталья Касперская: это проблема — ограничения VPN](https://habr.com/ru/news/1019278/?utm_campaign=1019278&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
