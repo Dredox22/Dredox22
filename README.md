@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть нашла 6 дефектов в полупроводнике одновременно — раньше это было невозможно](https://habr.com/ru/news/1019310/?utm_campaign=1019310&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Sheets — электронные таблицы в терминале](https://habr.com/ru/news/1018768/?utm_campaign=1018768&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek v4 будет работать только на чипах Huawei](https://habr.com/ru/companies/bothub/news/1019280/?utm_campaign=1019280&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь «Лаборатории Касперского» и президент ГК InfoWatch Наталья Касперская: это проблема — ограничения VPN](https://habr.com/ru/news/1019278/?utm_campaign=1019278&utm_source=habrahabr&utm_medium=rss)
 - [ИИ перестраивает крупнейшую киноиндустрию мира: как индийские студии меняют экономику производства](https://habr.com/ru/companies/tehrevizor/news/1019266/?utm_campaign=1019266&utm_source=habrahabr&utm_medium=rss)
-- [World Labs обновила модели для генерации 3D-миров](https://habr.com/ru/companies/bothub/news/1019264/?utm_campaign=1019264&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
