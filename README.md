@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров: мессенджер будет продолжать адаптироваться — делать трафик Telegram более сложным для обнаружения и блокировки](https://habr.com/ru/news/1019152/?utm_campaign=1019152&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск OpenSSH 10.3](https://habr.com/ru/news/1018660/?utm_campaign=1018660&utm_source=habrahabr&utm_medium=rss)
 - [Подписчикам Claude запретили использовать OpenClaw — Anthropic объяснила это непропорциональной нагрузкой](https://habr.com/ru/news/1019142/?utm_campaign=1019142&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek V4 переписали под Huawei — Alibaba, ByteDance и Tencent уже заказали сотни тысяч чипов](https://habr.com/ru/news/1019122/?utm_campaign=1019122&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Xbox PC Remote Tools — инструменты для разработчиков игр для Windows](https://habr.com/ru/news/1018968/?utm_campaign=1018968&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI пожертвовала смешными видео ради ИИ-науки: Альтман объяснил, куда ушли мощности Sora](https://habr.com/ru/news/1019074/?utm_campaign=1019074&utm_source=habrahabr&utm_medium=rss)
-- [В Москве пройдет международный чемпионат по ИИ-агентам](https://habr.com/ru/companies/pt/news/1019064/?utm_campaign=1019064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
