@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Canonical увеличили минимальный объём ОЗУ для Ubuntu 26.04 LTS Resolute Raccoon до 6 ГБ](https://habr.com/ru/news/1018788/?utm_campaign=1018788&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic строит собственного ИИ-агента Conway — и уже ограничила использование OpenClaw](https://habr.com/ru/news/1019190/?utm_campaign=1019190&utm_source=habrahabr&utm_medium=rss)
 - [Представлен выпуск браузерного движка Servo 0.0.6, написанного на Rust](https://habr.com/ru/news/1018936/?utm_campaign=1018936&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: мессенджер будет продолжать адаптироваться — делать трафик Telegram более сложным для обнаружения и блокировки](https://habr.com/ru/news/1019152/?utm_campaign=1019152&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск OpenSSH 10.3](https://habr.com/ru/news/1018660/?utm_campaign=1018660&utm_source=habrahabr&utm_medium=rss)
-- [Подписчикам Claude запретили использовать OpenClaw — Anthropic объяснила это непропорциональной нагрузкой](https://habr.com/ru/news/1019142/?utm_campaign=1019142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
