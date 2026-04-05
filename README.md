@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел PrismAudio — генерация звука прямо из видео](https://habr.com/ru/companies/bothub/news/1019608/?utm_campaign=1019608&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft называет Copilot «развлекательным инструментом»](https://habr.com/ru/companies/bothub/news/1019606/?utm_campaign=1019606&utm_source=habrahabr&utm_medium=rss)
+- [Российское юридическое лицо Check Point показало выручку 394 млн рублей и зафиксировало убыток в 2025 году](https://habr.com/ru/news/1019602/?utm_campaign=1019602&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic на пике интереса инвесторов, но SpaceX может «перетянуть внимание»](https://habr.com/ru/companies/bothub/news/1019550/?utm_campaign=1019550&utm_source=habrahabr&utm_medium=rss)
 - [Европейские компании запустили офисный пакет Euro-Office как альтернативу Microsoft Office](https://habr.com/ru/news/1019586/?utm_campaign=1019586&utm_source=habrahabr&utm_medium=rss)
-- [После nanochat Карпати — nanocode: свой Claude Code за $200 на минималках](https://habr.com/ru/news/1019580/?utm_campaign=1019580&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Решетнёв» освоила производство гибких печатных кабелей для спутников](https://habr.com/ru/news/1019568/?utm_campaign=1019568&utm_source=habrahabr&utm_medium=rss)
-- [Выбросил месяц ИИ-кода и начал заново: инженер Google честно рассказал о работе с Claude Code](https://habr.com/ru/news/1019564/?utm_campaign=1019564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
