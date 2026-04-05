@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic на пике интереса инвесторов, но SpaceX может «перетянуть внимание»](https://habr.com/ru/companies/bothub/news/1019550/?utm_campaign=1019550&utm_source=habrahabr&utm_medium=rss)
+- [Европейские компании запустили офисный пакет Euro-Office как альтернативу Microsoft Office](https://habr.com/ru/news/1019586/?utm_campaign=1019586&utm_source=habrahabr&utm_medium=rss)
 - [После nanochat Карпати — nanocode: свой Claude Code за $200 на минималках](https://habr.com/ru/news/1019580/?utm_campaign=1019580&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Решетнёв» освоила производство гибких печатных кабелей для спутников](https://habr.com/ru/news/1019568/?utm_campaign=1019568&utm_source=habrahabr&utm_medium=rss)
 - [Выбросил месяц ИИ-кода и начал заново: инженер Google честно рассказал о работе с Claude Code](https://habr.com/ru/news/1019564/?utm_campaign=1019564&utm_source=habrahabr&utm_medium=rss)
-- [«Ростех» рассказал об эффективности очков Blue Sky Pro для адаптации к полярной ночи](https://habr.com/ru/news/1019548/?utm_campaign=1019548&utm_source=habrahabr&utm_medium=rss)
-- [Япония показывает, что «физический ИИ» уже готов к реальному миру](https://habr.com/ru/companies/bothub/news/1019544/?utm_campaign=1019544&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
