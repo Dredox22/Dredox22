@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик Amazon выявил регрессию в тестовом ядре Linux 7.0, в два раза снижающую производительность PostgreSQL](https://habr.com/ru/news/1019386/?utm_campaign=1019386&utm_source=habrahabr&utm_medium=rss)
 - [Представлен дистрибутив Netrunner 26 на Debian 13 «Trixie» и Linux 6.16](https://habr.com/ru/news/1019298/?utm_campaign=1019298&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск библиотеки meshoptimizer 1.1](https://habr.com/ru/news/1019094/?utm_campaign=1019094&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code нашел 23-летний баг в Linux](https://habr.com/ru/news/1019370/?utm_campaign=1019370&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft раскритиковали за принудительное включение Edge при запуске в тестах Windows 11](https://habr.com/ru/news/1019360/?utm_campaign=1019360&utm_source=habrahabr&utm_medium=rss)
-- [Claude не хватает серверов — но Anthropic сознательно не торопится закупать новые](https://habr.com/ru/news/1019358/?utm_campaign=1019358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
