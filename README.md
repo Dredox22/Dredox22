@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude смог запустить промышленный CPU Intel на обычной материнской плате — ИИ полностью переписал BIOS](https://habr.com/ru/news/1019472/?utm_campaign=1019472&utm_source=habrahabr&utm_medium=rss)
-- [В OpenClaw за полтора месяца нашли шесть дыр в одном модуле. И это не конец](https://habr.com/ru/news/1019452/?utm_campaign=1019452&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.6](https://habr.com/ru/news/1019168/?utm_campaign=1019168&utm_source=habrahabr&utm_medium=rss)
-- [В Великобритании подросток решил раздеться перед Gemini Live в режиме камеры, после этого ИИ удалил все аккаунты семьи](https://habr.com/ru/news/1019406/?utm_campaign=1019406&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на День открытых дверей онлайн-магистратуры «Кибербезопасность» НИЯУ МИФИ в партнёрстве с Яндексом](https://habr.com/ru/companies/yandex_praktikum/news/1018994/?utm_campaign=1018994&utm_source=habrahabr&utm_medium=rss)
+- [«Ростех» рассказал об эффективности очков Blue Sky Pro для адаптации к полярной ночи](https://habr.com/ru/news/1019548/?utm_campaign=1019548&utm_source=habrahabr&utm_medium=rss)
+- [Япония показывает, что «физический ИИ» уже готов к реальному миру](https://habr.com/ru/companies/bothub/news/1019544/?utm_campaign=1019544&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic окончательно убрала OpenClaw из подписки Claude](https://habr.com/ru/companies/bothub/news/1019538/?utm_campaign=1019538&utm_source=habrahabr&utm_medium=rss)
+- [В СибГУТИ создали универсальную плату для обучения IoT-инженеров](https://habr.com/ru/news/1019534/?utm_campaign=1019534&utm_source=habrahabr&utm_medium=rss)
+- [Telegram начал помечать аккаунты неофициальных клиентов](https://habr.com/ru/news/1019530/?utm_campaign=1019530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
