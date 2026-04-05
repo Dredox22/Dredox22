@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После nanochat Карпати — nanocode: свой Claude Code за $200 на минималках](https://habr.com/ru/news/1019580/?utm_campaign=1019580&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Решетнёв» освоила производство гибких печатных кабелей для спутников](https://habr.com/ru/news/1019568/?utm_campaign=1019568&utm_source=habrahabr&utm_medium=rss)
 - [Выбросил месяц ИИ-кода и начал заново: инженер Google честно рассказал о работе с Claude Code](https://habr.com/ru/news/1019564/?utm_campaign=1019564&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» рассказал об эффективности очков Blue Sky Pro для адаптации к полярной ночи](https://habr.com/ru/news/1019548/?utm_campaign=1019548&utm_source=habrahabr&utm_medium=rss)
 - [Япония показывает, что «физический ИИ» уже готов к реальному миру](https://habr.com/ru/companies/bothub/news/1019544/?utm_campaign=1019544&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic окончательно убрала OpenClaw из подписки Claude](https://habr.com/ru/companies/bothub/news/1019538/?utm_campaign=1019538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
