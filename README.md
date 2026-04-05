@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания «Решетнёв» освоила производство гибких печатных кабелей для спутников](https://habr.com/ru/news/1019568/?utm_campaign=1019568&utm_source=habrahabr&utm_medium=rss)
+- [Выбросил месяц ИИ-кода и начал заново: инженер Google честно рассказал о работе с Claude Code](https://habr.com/ru/news/1019564/?utm_campaign=1019564&utm_source=habrahabr&utm_medium=rss)
 - [«Ростех» рассказал об эффективности очков Blue Sky Pro для адаптации к полярной ночи](https://habr.com/ru/news/1019548/?utm_campaign=1019548&utm_source=habrahabr&utm_medium=rss)
 - [Япония показывает, что «физический ИИ» уже готов к реальному миру](https://habr.com/ru/companies/bothub/news/1019544/?utm_campaign=1019544&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic окончательно убрала OpenClaw из подписки Claude](https://habr.com/ru/companies/bothub/news/1019538/?utm_campaign=1019538&utm_source=habrahabr&utm_medium=rss)
-- [В СибГУТИ создали универсальную плату для обучения IoT-инженеров](https://habr.com/ru/news/1019534/?utm_campaign=1019534&utm_source=habrahabr&utm_medium=rss)
-- [Telegram начал помечать аккаунты неофициальных клиентов](https://habr.com/ru/news/1019530/?utm_campaign=1019530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
