@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude смог запустить промышленный CPU Intel на обычной материнской плате — ИИ полностью переписал BIOS](https://habr.com/ru/news/1019472/?utm_campaign=1019472&utm_source=habrahabr&utm_medium=rss)
+- [В OpenClaw за полтора месяца нашли шесть дыр в одном модуле. И это не конец](https://habr.com/ru/news/1019452/?utm_campaign=1019452&utm_source=habrahabr&utm_medium=rss)
 - [В Великобритании подросток решил раздеться перед Gemini Live в режиме камеры, после этого ИИ удалил все аккаунты семьи](https://habr.com/ru/news/1019406/?utm_campaign=1019406&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на День открытых дверей онлайн-магистратуры «Кибербезопасность» НИЯУ МИФИ в партнёрстве с Яндексом](https://habr.com/ru/companies/yandex_praktikum/news/1018994/?utm_campaign=1018994&utm_source=habrahabr&utm_medium=rss)
 - [Большое обновление текстового движка UniText](https://habr.com/ru/news/1019400/?utm_campaign=1019400&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Qmmp 2.3.2 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/1019306/?utm_campaign=1019306&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Amazon выявил регрессию в тестовом ядре Linux 7.0, в два раза снижающую производительность PostgreSQL](https://habr.com/ru/news/1019386/?utm_campaign=1019386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
