@@ -87,9 +87,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Claude смог запустить промышленный CPU Intel на обычной материнской плате — ИИ полностью переписал BIOS](https://habr.com/ru/news/1019472/?utm_campaign=1019472&utm_source=habrahabr&utm_medium=rss)
 - [В OpenClaw за полтора месяца нашли шесть дыр в одном модуле. И это не конец](https://habr.com/ru/news/1019452/?utm_campaign=1019452&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Wine 11.6](https://habr.com/ru/news/1019168/?utm_campaign=1019168&utm_source=habrahabr&utm_medium=rss)
 - [В Великобритании подросток решил раздеться перед Gemini Live в режиме камеры, после этого ИИ удалил все аккаунты семьи](https://habr.com/ru/news/1019406/?utm_campaign=1019406&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на День открытых дверей онлайн-магистратуры «Кибербезопасность» НИЯУ МИФИ в партнёрстве с Яндексом](https://habr.com/ru/companies/yandex_praktikum/news/1018994/?utm_campaign=1018994&utm_source=habrahabr&utm_medium=rss)
-- [Большое обновление текстового движка UniText](https://habr.com/ru/news/1019400/?utm_campaign=1019400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
