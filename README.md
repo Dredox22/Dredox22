@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple удалила децентрализованный мессенджер Bitchat из китайского App Store](https://habr.com/ru/news/1020056/?utm_campaign=1020056&utm_source=habrahabr&utm_medium=rss)
+- [В WSJ назвали ахиллесову пяту OpenAI и Anthropic](https://habr.com/ru/news/1020054/?utm_campaign=1020054&utm_source=habrahabr&utm_medium=rss)
+- [«МФТИ Телеком» представила роботизированную установку для автоматической настройки СВЧ-фильтров](https://habr.com/ru/news/1020042/?utm_campaign=1020042&utm_source=habrahabr&utm_medium=rss)
 - [Сформирована программа CozySummit Virtual 2026 — концеренции для разработчиков и пользователей Cozystack](https://habr.com/ru/companies/aenix/news/1020040/?utm_campaign=1020040&utm_source=habrahabr&utm_medium=rss)
 - [Россия заняла предпоследнее место по уровню свободы интернета в 2026 году по версии Cloudwards](https://habr.com/ru/news/1020036/?utm_campaign=1020036&utm_source=habrahabr&utm_medium=rss)
-- [Cozystack 1.2 — OpenSearch, VPC Peering и Data Center Affinity](https://habr.com/ru/companies/aenix/news/1018778/?utm_campaign=1018778&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1019998/?utm_campaign=1019998&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI предложила дать каждому американцу долю в прибыли от ИИ](https://habr.com/ru/news/1019994/?utm_campaign=1019994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
