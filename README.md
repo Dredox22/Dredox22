@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Что уже работает из пакета мер по борьбе с VPN от Минцифры](https://habr.com/ru/news/1019668/?utm_campaign=1019668&utm_source=habrahabr&utm_medium=rss)
-- [РБК: Минцифры выпустило методичку по борьбе с VPN](https://habr.com/ru/news/1019646/?utm_campaign=1019646&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый просмотрщик изображений QuickView 5.0.0 для Windows 10/11](https://habr.com/ru/news/1019574/?utm_campaign=1019574&utm_source=habrahabr&utm_medium=rss)
-- [Марк Цукерберг кодит в Claude Code — пока Meta* задерживает свои модели](https://habr.com/ru/news/1019616/?utm_campaign=1019616&utm_source=habrahabr&utm_medium=rss)
-- [Вышел PrismAudio — генерация звука прямо из видео](https://habr.com/ru/companies/bothub/news/1019608/?utm_campaign=1019608&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PPEM 2.5: глубокая диагностика и расширенный аудит](https://habr.com/ru/companies/postgrespro/news/1019724/?utm_campaign=1019724&utm_source=habrahabr&utm_medium=rss)
+- [Netflix научил собственную ИИ-модель удалять объекты из видео и перестраивать сцену](https://habr.com/ru/companies/bothub/news/1019722/?utm_campaign=1019722&utm_source=habrahabr&utm_medium=rss)
+- [Япония создала ИИ, чтобы чиновники перестали умирать от переработки](https://habr.com/ru/news/1019706/?utm_campaign=1019706&utm_source=habrahabr&utm_medium=rss)
+- [Доверенное обновление как вектор атаки: разбираем Operation TrueChaos и защиту от supply-chain угроз](https://habr.com/ru/companies/ideco/news/1019700/?utm_campaign=1019700&utm_source=habrahabr&utm_medium=rss)
+- [Samsung закрывает Samsung Messages в пользу Google Messages](https://habr.com/ru/news/1019704/?utm_campaign=1019704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
