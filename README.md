@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1019998/?utm_campaign=1019998&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI предложила дать каждому американцу долю в прибыли от ИИ](https://habr.com/ru/news/1019994/?utm_campaign=1019994&utm_source=habrahabr&utm_medium=rss)
+- [Портфель отраслевых решений «Нанософт» пополнился двумя новыми профессиональными комплектами](https://habr.com/ru/companies/nanosoft/news/1019988/?utm_campaign=1019988&utm_source=habrahabr&utm_medium=rss)
+- [BMW запускает сбор видеоданных с автомобилей клиентов в Германии с апреля 2026 года](https://habr.com/ru/news/1019958/?utm_campaign=1019958&utm_source=habrahabr&utm_medium=rss)
 - [Visa опубликовала исследование о роли AI-агентов в будущих транзакциях](https://habr.com/ru/companies/technokratos/news/1019934/?utm_campaign=1019934&utm_source=habrahabr&utm_medium=rss)
-- [Новости фронтенда. №2](https://habr.com/ru/news/1019922/?utm_campaign=1019922&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies и МФТИ запустили бакалавриат по реверс-инжинирингу](https://habr.com/ru/news/1019912/?utm_campaign=1019912&utm_source=habrahabr&utm_medium=rss)
-- [Официальный трейлер DLSS 5 от Nvidia удалили с YouTube из-за нарушений авторских прав](https://habr.com/ru/news/1019826/?utm_campaign=1019826&utm_source=habrahabr&utm_medium=rss)
-- [Orion soft анонсировал самое крупное обновление виртуализации zVirt за всю историю решения](https://habr.com/ru/companies/orion_soft/news/1019814/?utm_campaign=1019814&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
