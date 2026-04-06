@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз PPEM 2.5: глубокая диагностика и расширенный аудит](https://habr.com/ru/companies/postgrespro/news/1019724/?utm_campaign=1019724&utm_source=habrahabr&utm_medium=rss)
-- [Netflix научил собственную ИИ-модель удалять объекты из видео и перестраивать сцену](https://habr.com/ru/companies/bothub/news/1019722/?utm_campaign=1019722&utm_source=habrahabr&utm_medium=rss)
-- [Япония создала ИИ, чтобы чиновники перестали умирать от переработки](https://habr.com/ru/news/1019706/?utm_campaign=1019706&utm_source=habrahabr&utm_medium=rss)
-- [Доверенное обновление как вектор атаки: разбираем Operation TrueChaos и защиту от supply-chain угроз](https://habr.com/ru/companies/ideco/news/1019700/?utm_campaign=1019700&utm_source=habrahabr&utm_medium=rss)
-- [Samsung закрывает Samsung Messages в пользу Google Messages](https://habr.com/ru/news/1019704/?utm_campaign=1019704&utm_source=habrahabr&utm_medium=rss)
+- [Количество мошеннических сайтов, нацеленных на взлом аккаунтов в Telegram, сократилось](https://habr.com/ru/news/1019772/?utm_campaign=1019772&utm_source=habrahabr&utm_medium=rss)
+- [Великобритания пытается переманить Anthropic на фоне конфликта компании с Пентагоном](https://habr.com/ru/companies/tehrevizor/news/1019764/?utm_campaign=1019764&utm_source=habrahabr&utm_medium=rss)
+- [Команда Alibaba разработала HopChain для решения проблемы, связанной с многоэтапным рассуждением](https://habr.com/ru/companies/bothub/news/1019760/?utm_campaign=1019760&utm_source=habrahabr&utm_medium=rss)
+- [Письмо на миллион: группа Hive0117 взламывает компьютеры бухгалтеров и похищает деньги под видом зарплаты](https://habr.com/ru/companies/F6/news/1019756/?utm_campaign=1019756&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft перепишет условия Copilot после критики формулировки про «развлечение»](https://habr.com/ru/companies/tehrevizor/news/1019752/?utm_campaign=1019752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
