@@ -87,7 +87,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Официальный трейлер DLSS 5 от Nvidia удалили с YouTube из-за нарушений авторских прав](https://habr.com/ru/news/1019826/?utm_campaign=1019826&utm_source=habrahabr&utm_medium=rss)
 - [Orion soft анонсировал самое крупное обновление виртуализации zVirt за всю историю решения](https://habr.com/ru/companies/orion_soft/news/1019814/?utm_campaign=1019814&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления планетария с открытым кодом Stellarium 26.4](https://habr.com/ru/news/1019812/?utm_campaign=1019812&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления планетария с открытым кодом Stellarium 26.1](https://habr.com/ru/news/1019812/?utm_campaign=1019812&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-ученый провалил эксперимент — и именно это заинтересовало Nature](https://habr.com/ru/news/1019802/?utm_campaign=1019802&utm_source=habrahabr&utm_medium=rss)
 - [Apple вводит проверку возраста на уровне устройств в Южной Корее и Сингапуре](https://habr.com/ru/news/1019784/?utm_campaign=1019784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
