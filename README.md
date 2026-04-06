@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [РБК: Минцифры выпустило методичку по борьбе с VPN](https://habr.com/ru/news/1019646/?utm_campaign=1019646&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый просмотрщик изображений QuickView 5.0.0 для Windows 10/11](https://habr.com/ru/news/1019574/?utm_campaign=1019574&utm_source=habrahabr&utm_medium=rss)
 - [Марк Цукерберг кодит в Claude Code — пока Meta* задерживает свои модели](https://habr.com/ru/news/1019616/?utm_campaign=1019616&utm_source=habrahabr&utm_medium=rss)
 - [Вышел PrismAudio — генерация звука прямо из видео](https://habr.com/ru/companies/bothub/news/1019608/?utm_campaign=1019608&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft называет Copilot «развлекательным инструментом»](https://habr.com/ru/companies/bothub/news/1019606/?utm_campaign=1019606&utm_source=habrahabr&utm_medium=rss)
-- [Российское юридическое лицо Check Point показало выручку 394 млн рублей и зафиксировало убыток в 2025 году](https://habr.com/ru/news/1019602/?utm_campaign=1019602&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic на пике интереса инвесторов, но SpaceX может «перетянуть внимание»](https://habr.com/ru/companies/bothub/news/1019550/?utm_campaign=1019550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
