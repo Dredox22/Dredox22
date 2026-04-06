@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Количество мошеннических сайтов, нацеленных на взлом аккаунтов в Telegram, сократилось](https://habr.com/ru/news/1019772/?utm_campaign=1019772&utm_source=habrahabr&utm_medium=rss)
-- [Великобритания пытается переманить Anthropic на фоне конфликта компании с Пентагоном](https://habr.com/ru/companies/tehrevizor/news/1019764/?utm_campaign=1019764&utm_source=habrahabr&utm_medium=rss)
-- [Команда Alibaba разработала HopChain для решения проблемы, связанной с многоэтапным рассуждением](https://habr.com/ru/companies/bothub/news/1019760/?utm_campaign=1019760&utm_source=habrahabr&utm_medium=rss)
-- [Письмо на миллион: группа Hive0117 взламывает компьютеры бухгалтеров и похищает деньги под видом зарплаты](https://habr.com/ru/companies/F6/news/1019756/?utm_campaign=1019756&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft перепишет условия Copilot после критики формулировки про «развлечение»](https://habr.com/ru/companies/tehrevizor/news/1019752/?utm_campaign=1019752&utm_source=habrahabr&utm_medium=rss)
+- [Официальный трейлер DLSS 5 от Nvidia удалили с YouTube из-за нарушений авторских прав](https://habr.com/ru/news/1019826/?utm_campaign=1019826&utm_source=habrahabr&utm_medium=rss)
+- [Orion soft анонсировал самое крупное обновление виртуализации zVirt за всю историю решения](https://habr.com/ru/companies/orion_soft/news/1019814/?utm_campaign=1019814&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления планетария с открытым кодом Stellarium 26.4](https://habr.com/ru/news/1019812/?utm_campaign=1019812&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-ученый провалил эксперимент — и именно это заинтересовало Nature](https://habr.com/ru/news/1019802/?utm_campaign=1019802&utm_source=habrahabr&utm_medium=rss)
+- [Apple вводит проверку возраста на уровне устройств в Южной Корее и Сингапуре](https://habr.com/ru/news/1019784/?utm_campaign=1019784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
