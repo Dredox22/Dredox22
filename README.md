@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Робот складывает футболки 86 раз подряд без ошибок: ИИ-модель GEN-1 достигла 99% успеха](https://habr.com/ru/companies/bothub/news/1020436/?utm_campaign=1020436&utm_source=habrahabr&utm_medium=rss)
+- [Экс-сотрудники OpenAI открыли фонд Zero Shot на $100M](https://habr.com/ru/companies/bothub/news/1020420/?utm_campaign=1020420&utm_source=habrahabr&utm_medium=rss)
+- [Сайт компании «Базис», созданный с помощью no‑code‑платформы «Акола», победил в конкурсе «Золотой сайт»](https://habr.com/ru/news/1020482/?utm_campaign=1020482&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Rocket: ИИ-отчеты в стиле McKinsey дешевле](https://habr.com/ru/companies/bothub/news/1020408/?utm_campaign=1020408&utm_source=habrahabr&utm_medium=rss)
 - [Функция создания плейлистов на основе промтов для ИИ в Spotify теперь будет работать и для подкастов](https://habr.com/ru/news/1020456/?utm_campaign=1020456&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA показала технологию нейросетевого сжатия текстур](https://habr.com/ru/companies/bothub/news/1020384/?utm_campaign=1020384&utm_source=habrahabr&utm_medium=rss)
-- [В «Поиске» «Яндекса» появился диалоговый режим общения с «Алисой AI»](https://habr.com/ru/news/1020428/?utm_campaign=1020428&utm_source=habrahabr&utm_medium=rss)
-- [«Фронтендеров вы уже угробили»: на GitHub вышел скилл, превращающий коллегу в AI-агента](https://habr.com/ru/news/1020410/?utm_campaign=1020410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
