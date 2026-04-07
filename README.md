@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Операторы «большой четвёрки» установят 8,6 тысячи российских базовых станций к 2027 году](https://habr.com/ru/news/1020532/?utm_campaign=1020532&utm_source=habrahabr&utm_medium=rss)
+- [GLM-5.1 собрала Linux-десктоп в браузере за 8 часов и взяла SOTA на SWE-Bench Pro](https://habr.com/ru/news/1020528/?utm_campaign=1020528&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики OnlyOffice обвинили форк Euro-Office в нарушении лицензии](https://habr.com/ru/news/1020520/?utm_campaign=1020520&utm_source=habrahabr&utm_medium=rss)
+- [Z.ai выпустили GLM-5.1 — open-source модель, заточенную под долгие агентные задачи](https://habr.com/ru/news/1020516/?utm_campaign=1020516&utm_source=habrahabr&utm_medium=rss)
 - [Робот складывает футболки 86 раз подряд без ошибок: ИИ-модель GEN-1 достигла 99% успеха](https://habr.com/ru/companies/bothub/news/1020436/?utm_campaign=1020436&utm_source=habrahabr&utm_medium=rss)
-- [Экс-сотрудники OpenAI открыли фонд Zero Shot на $100M](https://habr.com/ru/companies/bothub/news/1020420/?utm_campaign=1020420&utm_source=habrahabr&utm_medium=rss)
-- [Сайт компании «Базис», созданный с помощью no‑code‑платформы «Акола», победил в конкурсе «Золотой сайт»](https://habr.com/ru/news/1020482/?utm_campaign=1020482&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Rocket: ИИ-отчеты в стиле McKinsey дешевле](https://habr.com/ru/companies/bothub/news/1020408/?utm_campaign=1020408&utm_source=habrahabr&utm_medium=rss)
-- [Функция создания плейлистов на основе промтов для ИИ в Spotify теперь будет работать и для подкастов](https://habr.com/ru/news/1020456/?utm_campaign=1020456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
