@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стартап Rocket: ИИ-отчеты в стиле McKinsey дешевле](https://habr.com/ru/companies/bothub/news/1020408/?utm_campaign=1020408&utm_source=habrahabr&utm_medium=rss)
+- [Функция создания плейлистов на основе промтов для ИИ в Spotify теперь будет работать и для подкастов](https://habr.com/ru/news/1020456/?utm_campaign=1020456&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA показала технологию нейросетевого сжатия текстур](https://habr.com/ru/companies/bothub/news/1020384/?utm_campaign=1020384&utm_source=habrahabr&utm_medium=rss)
+- [В «Поиске» «Яндекса» появился диалоговый режим общения с «Алисой AI»](https://habr.com/ru/news/1020428/?utm_campaign=1020428&utm_source=habrahabr&utm_medium=rss)
 - [«Фронтендеров вы уже угробили»: на GitHub вышел скилл, превращающий коллегу в AI-агента](https://habr.com/ru/news/1020410/?utm_campaign=1020410&utm_source=habrahabr&utm_medium=rss)
-- [Милла Йовович выпустила open-source ИИ-инструмент, набравший 100% в бенчмарке](https://habr.com/ru/companies/bothub/news/1020380/?utm_campaign=1020380&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представит новый интерфейс комментариев для Word, Excel и PowerPoint](https://habr.com/ru/news/1020376/?utm_campaign=1020376&utm_source=habrahabr&utm_medium=rss)
-- [BrowserStack обвинили в сливе адресов электронной почты пользователей](https://habr.com/ru/news/1020364/?utm_campaign=1020364&utm_source=habrahabr&utm_medium=rss)
-- [Статус Java 2026: помогаем собрать актуальную картину по Java в России](https://habr.com/ru/companies/axiomjdk/news/1018552/?utm_campaign=1018552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
