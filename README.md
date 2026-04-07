@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил технологию «ИИ-блендер», которая расставляет блоки в результатах поиска](https://habr.com/ru/news/1020340/?utm_campaign=1020340&utm_source=habrahabr&utm_medium=rss)
+- [«Росэл» выпустил аэростат для связи в зонах с плохим покрытием](https://habr.com/ru/news/1020326/?utm_campaign=1020326&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte приглашает на конференцию Fine Day Online](https://habr.com/ru/companies/glowbyte/news/1020320/?utm_campaign=1020320&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Test IT ПРО 5.7 Vela: генерация тестов с ИИ без трекера, комбинаторика параметров и гибкость настроек](https://habr.com/ru/news/1020290/?utm_campaign=1020290&utm_source=habrahabr&utm_medium=rss)
 - [ГК InfoWatch продолжает патентовать новые решения в области предиктивной аналитики](https://habr.com/ru/companies/infowatch/news/1020272/?utm_campaign=1020272&utm_source=habrahabr&utm_medium=rss)
-- [Открываем регистрацию на Альфа ЦТФ 2026](https://habr.com/ru/companies/alfa/news/1020266/?utm_campaign=1020266&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI предложила для США налог на роботов, public wealth fund и 4-дневную неделю как ответ на AI-экономику](https://habr.com/ru/companies/tehrevizor/news/1020254/?utm_campaign=1020254&utm_source=habrahabr&utm_medium=rss)
-- [UserGate и HOSTVM подтвердили совместимость своих решений](https://habr.com/ru/companies/usergate/news/1020252/?utm_campaign=1020252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
