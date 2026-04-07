@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел клиент Telegram на Android v12.6.4 &lpar;6666&rpar;, в апдейте исправили проблему с работой MTProto](https://habr.com/ru/news/1020130/?utm_campaign=1020130&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-стартап на $1.8 млрд использовал фейковых врачей и краденые фото для продажи лекарств](https://habr.com/ru/news/1020100/?utm_campaign=1020100&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики ядра Linux вернулись к решению на удаление поддержки процессоров i486](https://habr.com/ru/news/1019916/?utm_campaign=1019916&utm_source=habrahabr&utm_medium=rss)
+- [Инцидент в сети «Ростелеком» с недоступностью сервисов произошёл из-за мощной DDoS-атаки](https://habr.com/ru/news/1020116/?utm_campaign=1020116&utm_source=habrahabr&utm_medium=rss)
 - [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 11.0](https://habr.com/ru/news/1019944/?utm_campaign=1019944&utm_source=habrahabr&utm_medium=rss)
-- [Отчёт Cloudwards: Россия на предпоследнем месте по уровню свободы интернета в 2026 году](https://habr.com/ru/news/1020112/?utm_campaign=1020112&utm_source=habrahabr&utm_medium=rss)
-- [Telegram снял ограничение на общение ботов между собой](https://habr.com/ru/news/1020076/?utm_campaign=1020076&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic изучила эмоции ИИ и их влияние на поведение моделей](https://habr.com/ru/companies/bothub/news/1020072/?utm_campaign=1020072&utm_source=habrahabr&utm_medium=rss)
-- [Происходит масштабный сбой в работе Рунета](https://habr.com/ru/news/1020064/?utm_campaign=1020064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
