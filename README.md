@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел клиент Telegram на Android v12.6.4 &lpar;6666&rpar;, в апдейте исправили проблему с работой MTProto](https://habr.com/ru/news/1020130/?utm_campaign=1020130&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-стартап на $1.8 млрд использовал фейковых врачей и краденые фото для продажи лекарств](https://habr.com/ru/news/1020100/?utm_campaign=1020100&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики ядра Linux вернулись к решению на удаление поддержки процессоров i486](https://habr.com/ru/news/1019916/?utm_campaign=1019916&utm_source=habrahabr&utm_medium=rss)
-- [Инцидент в сети «Ростелеком» с недоступностью сервисов произошёл из-за мощной DDoS-атаки](https://habr.com/ru/news/1020116/?utm_campaign=1020116&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 11.0](https://habr.com/ru/news/1019944/?utm_campaign=1019944&utm_source=habrahabr&utm_medium=rss)
+- [Говорят мобильные разработчики: честно об ИИ](https://habr.com/ru/companies/usetech/news/1020178/?utm_campaign=1020178&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Исходники Claude Code, Gemma 4, Qwen 3.6-Plus и тамагочи, которого не должны были найти](https://habr.com/ru/news/1020026/?utm_campaign=1020026&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI, Anthropic и Google скоординировались против DeepSeek и других китайских лабораторий](https://habr.com/ru/news/1020164/?utm_campaign=1020164&utm_source=habrahabr&utm_medium=rss)
+- [В Google Play Store теперь можно искать информацию среди отзывов пользователей](https://habr.com/ru/news/1020158/?utm_campaign=1020158&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытой платформы обмена файлами OpenCloud 6.0](https://habr.com/ru/news/1019686/?utm_campaign=1019686&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
