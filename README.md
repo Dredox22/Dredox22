@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз кроссплатформенного открытого многофункционального архиватора PeaZip 11.0](https://habr.com/ru/news/1019944/?utm_campaign=1019944&utm_source=habrahabr&utm_medium=rss)
 - [Отчёт Cloudwards: Россия на предпоследнем месте по уровню свободы интернета в 2026 году](https://habr.com/ru/news/1020112/?utm_campaign=1020112&utm_source=habrahabr&utm_medium=rss)
 - [Telegram снял ограничение на общение ботов между собой](https://habr.com/ru/news/1020076/?utm_campaign=1020076&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic изучила эмоции ИИ и их влияние на поведение моделей](https://habr.com/ru/companies/bothub/news/1020072/?utm_campaign=1020072&utm_source=habrahabr&utm_medium=rss)
 - [Происходит масштабный сбой в работе Рунета](https://habr.com/ru/news/1020064/?utm_campaign=1020064&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила децентрализованный мессенджер Bitchat из китайского App Store](https://habr.com/ru/news/1020056/?utm_campaign=1020056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
