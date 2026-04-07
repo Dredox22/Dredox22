@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Яндекс» представил технологию «ИИ-блендер», которая расставляет блоки в результатах поиска](https://habr.com/ru/news/1020340/?utm_campaign=1020340&utm_source=habrahabr&utm_medium=rss)
-- [«Росэл» выпустил аэростат для связи в зонах с плохим покрытием](https://habr.com/ru/news/1020326/?utm_campaign=1020326&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte приглашает на конференцию Fine Day Online](https://habr.com/ru/companies/glowbyte/news/1020320/?utm_campaign=1020320&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Test IT ПРО 5.7 Vela: генерация тестов с ИИ без трекера, комбинаторика параметров и гибкость настроек](https://habr.com/ru/news/1020290/?utm_campaign=1020290&utm_source=habrahabr&utm_medium=rss)
-- [ГК InfoWatch продолжает патентовать новые решения в области предиктивной аналитики](https://habr.com/ru/companies/infowatch/news/1020272/?utm_campaign=1020272&utm_source=habrahabr&utm_medium=rss)
+- [«Фронтендеров вы уже угробили»: на GitHub вышел скилл, превращающий коллегу в AI-агента](https://habr.com/ru/news/1020410/?utm_campaign=1020410&utm_source=habrahabr&utm_medium=rss)
+- [Милла Йовович выпустила open-source ИИ-инструмент, набравший 100% в бенчмарке](https://habr.com/ru/companies/bothub/news/1020380/?utm_campaign=1020380&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представит новый интерфейс комментариев для Word, Excel и PowerPoint](https://habr.com/ru/news/1020376/?utm_campaign=1020376&utm_source=habrahabr&utm_medium=rss)
+- [BrowserStack обвинили в сливе адресов электронной почты пользователей](https://habr.com/ru/news/1020364/?utm_campaign=1020364&utm_source=habrahabr&utm_medium=rss)
+- [Статус Java 2026: помогаем собрать актуальную картину по Java в России](https://habr.com/ru/companies/axiomjdk/news/1018552/?utm_campaign=1018552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
