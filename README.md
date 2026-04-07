@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Говорят мобильные разработчики: честно об ИИ](https://habr.com/ru/companies/usetech/news/1020178/?utm_campaign=1020178&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Исходники Claude Code, Gemma 4, Qwen 3.6-Plus и тамагочи, которого не должны были найти](https://habr.com/ru/news/1020026/?utm_campaign=1020026&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI, Anthropic и Google скоординировались против DeepSeek и других китайских лабораторий](https://habr.com/ru/news/1020164/?utm_campaign=1020164&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play Store теперь можно искать информацию среди отзывов пользователей](https://habr.com/ru/news/1020158/?utm_campaign=1020158&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой платформы обмена файлами OpenCloud 6.0](https://habr.com/ru/news/1019686/?utm_campaign=1019686&utm_source=habrahabr&utm_medium=rss)
+- [Google тихо выпустила офлайн-диктовку с ИИ для iPhone](https://habr.com/ru/companies/tehrevizor/news/1020236/?utm_campaign=1020236&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies запускает однодневную программу киберучений Standoff для бизнеса](https://habr.com/ru/companies/pt/news/1019768/?utm_campaign=1019768&utm_source=habrahabr&utm_medium=rss)
+- [Неделя космоса для педагогов: готовые уроки, игры и мастер-классы от Кружкового движения](https://habr.com/ru/news/1020230/?utm_campaign=1020230&utm_source=habrahabr&utm_medium=rss)
+- [Банковские MVNO в России ушли в глубокий минус, но это не значит, что модель провалилась](https://habr.com/ru/companies/tehrevizor/news/1020224/?utm_campaign=1020224&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries добавил в поиск краткие характеристики товаров, собранные ИИ из отзывов](https://habr.com/ru/companies/tehrevizor/news/1020216/?utm_campaign=1020216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
