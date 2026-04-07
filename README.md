@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google тихо выпустила офлайн-диктовку с ИИ для iPhone](https://habr.com/ru/companies/tehrevizor/news/1020236/?utm_campaign=1020236&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies запускает однодневную программу киберучений Standoff для бизнеса](https://habr.com/ru/companies/pt/news/1019768/?utm_campaign=1019768&utm_source=habrahabr&utm_medium=rss)
-- [Неделя космоса для педагогов: готовые уроки, игры и мастер-классы от Кружкового движения](https://habr.com/ru/news/1020230/?utm_campaign=1020230&utm_source=habrahabr&utm_medium=rss)
-- [Банковские MVNO в России ушли в глубокий минус, но это не значит, что модель провалилась](https://habr.com/ru/companies/tehrevizor/news/1020224/?utm_campaign=1020224&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries добавил в поиск краткие характеристики товаров, собранные ИИ из отзывов](https://habr.com/ru/companies/tehrevizor/news/1020216/?utm_campaign=1020216&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Test IT ПРО 5.7 Vela: генерация тестов с ИИ без трекера, комбинаторика параметров и гибкость настроек](https://habr.com/ru/news/1020290/?utm_campaign=1020290&utm_source=habrahabr&utm_medium=rss)
+- [ГК InfoWatch продолжает патентовать новые решения в области предиктивной аналитики](https://habr.com/ru/companies/infowatch/news/1020272/?utm_campaign=1020272&utm_source=habrahabr&utm_medium=rss)
+- [Открываем регистрацию на Альфа ЦТФ 2026](https://habr.com/ru/companies/alfa/news/1020266/?utm_campaign=1020266&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI предложила для США налог на роботов, public wealth fund и 4-дневную неделю как ответ на AI-экономику](https://habr.com/ru/companies/tehrevizor/news/1020254/?utm_campaign=1020254&utm_source=habrahabr&utm_medium=rss)
+- [UserGate и HOSTVM подтвердили совместимость своих решений](https://habr.com/ru/companies/usergate/news/1020252/?utm_campaign=1020252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
