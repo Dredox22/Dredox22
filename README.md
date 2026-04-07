@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Операторы «большой четвёрки» установят 8,6 тысячи российских базовых станций к 2027 году](https://habr.com/ru/news/1020532/?utm_campaign=1020532&utm_source=habrahabr&utm_medium=rss)
-- [GLM-5.1 собрала Linux-десктоп в браузере за 8 часов и взяла SOTA на SWE-Bench Pro](https://habr.com/ru/news/1020528/?utm_campaign=1020528&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики OnlyOffice обвинили форк Euro-Office в нарушении лицензии](https://habr.com/ru/news/1020520/?utm_campaign=1020520&utm_source=habrahabr&utm_medium=rss)
-- [Z.ai выпустили GLM-5.1 — open-source модель, заточенную под долгие агентные задачи](https://habr.com/ru/news/1020516/?utm_campaign=1020516&utm_source=habrahabr&utm_medium=rss)
-- [Робот складывает футболки 86 раз подряд без ошибок: ИИ-модель GEN-1 достигла 99% успеха](https://habr.com/ru/companies/bothub/news/1020436/?utm_campaign=1020436&utm_source=habrahabr&utm_medium=rss)
+- [«Иртея» планирует довести долю отечественных компонентов в базовых станциях до 30% к 2028 году](https://habr.com/ru/news/1020576/?utm_campaign=1020576&utm_source=habrahabr&utm_medium=rss)
+- [Новейший Claude Mythos нашел дыру возрастом 27 лет в OpenBSD](https://habr.com/ru/news/1020568/?utm_campaign=1020568&utm_source=habrahabr&utm_medium=rss)
+- [Российских операторов связи оштрафовали на 4 млн рублей за нарушения в работе ТСПУ](https://habr.com/ru/news/1020564/?utm_campaign=1020564&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic показали Claude Mythos Preview — и сразу заявили: в паблик модель выпускать не будут](https://habr.com/ru/news/1020560/?utm_campaign=1020560&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft устранила проблему с отправкой писем через Outlook.com](https://habr.com/ru/news/1020552/?utm_campaign=1020552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
