@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В тестах Claude Mythos сбежал из «тюрьмы», а затем рассказал про это в интернете](https://habr.com/ru/news/1020664/?utm_campaign=1020664&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты на контентных платформах: два подхода к встраиванию в медиа](https://habr.com/ru/companies/bothub/news/1020662/?utm_campaign=1020662&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск раскрыл тренировку нового Grok на 10 трлн параметров](https://habr.com/ru/news/1020654/?utm_campaign=1020654&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект языка программирования Solod](https://habr.com/ru/news/1020314/?utm_campaign=1020314&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Rust Coreutils 0.8.0](https://habr.com/ru/news/1020270/?utm_campaign=1020270&utm_source=habrahabr&utm_medium=rss)
+- [В Google Maps внедрили генерацию подписей к фото и видео](https://habr.com/ru/companies/tehrevizor/news/1020730/?utm_campaign=1020730&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI открыла набор на программу Safety Fellowship по безопасности ИИ](https://habr.com/ru/companies/bothub/news/1020724/?utm_campaign=1020724&utm_source=habrahabr&utm_medium=rss)
+- [Golem  теперь анализируует целые проекты и создает репу в Гитхаб](https://habr.com/ru/news/1020718/?utm_campaign=1020718&utm_source=habrahabr&utm_medium=rss)
+- [В DeepPavlov добавят модули для борьбы с галлюцинациями и избыточным поиском](https://habr.com/ru/companies/tehrevizor/news/1020714/?utm_campaign=1020714&utm_source=habrahabr&utm_medium=rss)
+- [Google пытается встроить ИИ Gemini в почтовые ящики Gmail](https://habr.com/ru/news/1020696/?utm_campaign=1020696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
