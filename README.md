@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование показало, что AI Overviews от Google выдаёт миллионы ложных ответов в час](https://habr.com/ru/news/1020926/?utm_campaign=1020926&utm_source=habrahabr&utm_medium=rss)
+- [Глава Минпромторга предложил ставить ОС «Аврора» на импортируемые автомобили, когда она будет отвечать запросам рынка](https://habr.com/ru/news/1020924/?utm_campaign=1020924&utm_source=habrahabr&utm_medium=rss)
+- [$3650 за $200: разработчик объяснил, почему Anthropic запретила OpenClaw](https://habr.com/ru/news/1020922/?utm_campaign=1020922&utm_source=habrahabr&utm_medium=rss)
 - [Флагманская open source модель GLM 5.1 теперь доступна в KodaCode](https://habr.com/ru/companies/koda/news/1020868/?utm_campaign=1020868&utm_source=habrahabr&utm_medium=rss)
 - [X запускает инструменты редактирования фото с ИИ Grok](https://habr.com/ru/companies/bothub/news/1020894/?utm_campaign=1020894&utm_source=habrahabr&utm_medium=rss)
-- [Машина баз данных Tantor XData Gen3: устранение архитектурных ограничений PostgreSQL и полноценная обработка HTAP](https://habr.com/ru/companies/tantor/news/1020212/?utm_campaign=1020212&utm_source=habrahabr&utm_medium=rss)
-- [Вышло RKNHardering — Android‑приложение для обнаружения VPN, согласно методичке по выявлению сетевых средств обхода](https://habr.com/ru/news/1020902/?utm_campaign=1020902&utm_source=habrahabr&utm_medium=rss)
-- [Верховный суд США отменил решение о привлечении Grande Communications к ответственности за пиратство](https://habr.com/ru/news/1020874/?utm_campaign=1020874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
