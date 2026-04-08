@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Google Maps внедрили генерацию подписей к фото и видео](https://habr.com/ru/companies/tehrevizor/news/1020730/?utm_campaign=1020730&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI открыла набор на программу Safety Fellowship по безопасности ИИ](https://habr.com/ru/companies/bothub/news/1020724/?utm_campaign=1020724&utm_source=habrahabr&utm_medium=rss)
-- [Golem  теперь анализируует целые проекты и создает репу в Гитхаб](https://habr.com/ru/news/1020718/?utm_campaign=1020718&utm_source=habrahabr&utm_medium=rss)
-- [В DeepPavlov добавят модули для борьбы с галлюцинациями и избыточным поиском](https://habr.com/ru/companies/tehrevizor/news/1020714/?utm_campaign=1020714&utm_source=habrahabr&utm_medium=rss)
-- [Google пытается встроить ИИ Gemini в почтовые ящики Gmail](https://habr.com/ru/news/1020696/?utm_campaign=1020696&utm_source=habrahabr&utm_medium=rss)
+- [В Chrome 148 появится функция «ленивой загрузки» видео и аудио](https://habr.com/ru/news/1020102/?utm_campaign=1020102&utm_source=habrahabr&utm_medium=rss)
+- [UserGate и Nubes запускают облачный сервис для защиты веб‑приложений](https://habr.com/ru/companies/usergate/news/1020776/?utm_campaign=1020776&utm_source=habrahabr&utm_medium=rss)
+- [Вот так ИИ распространяет фэйковые статьи на Хабре](https://habr.com/ru/companies/speclab/news/1020712/?utm_campaign=1020712&utm_source=habrahabr&utm_medium=rss)
+- [Uber расширяет использование чипов Amazon и начинает тестировать Trainium3](https://habr.com/ru/companies/tehrevizor/news/1020752/?utm_campaign=1020752&utm_source=habrahabr&utm_medium=rss)
+- [Новый курс по аналитике данных от Практикума PRO — для специалистов с опытом](https://habr.com/ru/companies/yandex_praktikum/news/1020716/?utm_campaign=1020716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
