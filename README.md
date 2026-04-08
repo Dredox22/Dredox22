@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: «АКИТ попросила Госдуму дать пользователям выбор способа подтверждения значимых действий в интернете»](https://habr.com/ru/news/1020858/?utm_campaign=1020858&utm_source=habrahabr&utm_medium=rss)
-- [Project Glasswing: Anthropic нашла тысячи уязвимостей нулевого дня во всём основном софте](https://habr.com/ru/news/1020854/?utm_campaign=1020854&utm_source=habrahabr&utm_medium=rss)
-- [Grab делает ставку на AI, чтобы сдержать рост цен на поездки и доставку](https://habr.com/ru/companies/tehrevizor/news/1020846/?utm_campaign=1020846&utm_source=habrahabr&utm_medium=rss)
-- [Тысячи пользователей пострадали от спама в OneDrive на Windows, Android и Mac](https://habr.com/ru/news/1020830/?utm_campaign=1020830&utm_source=habrahabr&utm_medium=rss)
-- [В России создадут первое производство преформ для оптоволокна](https://habr.com/ru/news/1020842/?utm_campaign=1020842&utm_source=habrahabr&utm_medium=rss)
+- [Флагманская open source модель GLM 5.1 теперь доступна в KodaCode](https://habr.com/ru/companies/koda/news/1020868/?utm_campaign=1020868&utm_source=habrahabr&utm_medium=rss)
+- [X запускает инструменты редактирования фото с ИИ Grok](https://habr.com/ru/companies/bothub/news/1020894/?utm_campaign=1020894&utm_source=habrahabr&utm_medium=rss)
+- [Машина баз данных Tantor XData Gen3: устранение архитектурных ограничений PostgreSQL и полноценная обработка HTAP](https://habr.com/ru/companies/tantor/news/1020212/?utm_campaign=1020212&utm_source=habrahabr&utm_medium=rss)
+- [Вышло RKNHardering — Android‑приложение для обнаружения VPN, согласно методичке по выявлению сетевых средств обхода](https://habr.com/ru/news/1020902/?utm_campaign=1020902&utm_source=habrahabr&utm_medium=rss)
+- [Верховный суд США отменил решение о привлечении Grande Communications к ответственности за пиратство](https://habr.com/ru/news/1020874/?utm_campaign=1020874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
