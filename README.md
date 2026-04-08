@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Тестирование показало, что AI Overviews от Google выдаёт миллионы ложных ответов в час](https://habr.com/ru/news/1020926/?utm_campaign=1020926&utm_source=habrahabr&utm_medium=rss)
-- [Глава Минпромторга предложил ставить ОС «Аврора» на импортируемые автомобили, когда она будет отвечать запросам рынка](https://habr.com/ru/news/1020924/?utm_campaign=1020924&utm_source=habrahabr&utm_medium=rss)
-- [$3650 за $200: разработчик объяснил, почему Anthropic запретила OpenClaw](https://habr.com/ru/news/1020922/?utm_campaign=1020922&utm_source=habrahabr&utm_medium=rss)
-- [Флагманская open source модель GLM 5.1 теперь доступна в KodaCode](https://habr.com/ru/companies/koda/news/1020868/?utm_campaign=1020868&utm_source=habrahabr&utm_medium=rss)
-- [X запускает инструменты редактирования фото с ИИ Grok](https://habr.com/ru/companies/bothub/news/1020894/?utm_campaign=1020894&utm_source=habrahabr&utm_medium=rss)
+- [«Октава ДМ» представила российскую дискуссионную систему OCS-80](https://habr.com/ru/news/1021036/?utm_campaign=1021036&utm_source=habrahabr&utm_medium=rss)
+- [Российский WCS Automacon: диспетчер для роботов на складе уже не «софт», а «железобетон»](https://habr.com/ru/news/1021028/?utm_campaign=1021028&utm_source=habrahabr&utm_medium=rss)
+- [Meta* представила ИИ Muse Spark: первая модель новой Superintelligence Labs после провала Llama 4](https://habr.com/ru/news/1021026/?utm_campaign=1021026&utm_source=habrahabr&utm_medium=rss)
+- [Платформа Cozystack &lpar;CNSF Sandbox&rpar; обзавелась публичными страничками с опенсорсной аналитикой](https://habr.com/ru/companies/aenix/news/1021024/?utm_campaign=1021024&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-энергосеть под ИИ отключает свет беднякам — MIT научился это находить](https://habr.com/ru/news/1021018/?utm_campaign=1021018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
