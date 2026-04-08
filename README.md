@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В тестах Claude Mythos сбежал из «тюрьмы», а затем рассказал про это в интернете](https://habr.com/ru/news/1020664/?utm_campaign=1020664&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты на контентных платформах: два подхода к встраиванию в медиа](https://habr.com/ru/companies/bothub/news/1020662/?utm_campaign=1020662&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск раскрыл тренировку нового Grok на 10 трлн параметров](https://habr.com/ru/news/1020654/?utm_campaign=1020654&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект языка программирования Solod](https://habr.com/ru/news/1020314/?utm_campaign=1020314&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Rust Coreutils 0.8.0](https://habr.com/ru/news/1020270/?utm_campaign=1020270&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект PaintFE — портативный редактор изображений для Windows и macOS](https://habr.com/ru/news/1020154/?utm_campaign=1020154&utm_source=habrahabr&utm_medium=rss)
-- [Playwright MCP и n8n: как мы используем ИИ в автоматизации тестирования](https://habr.com/ru/companies/gnivc/news/1020592/?utm_campaign=1020592&utm_source=habrahabr&utm_medium=rss)
-- [«Иртея» планирует довести долю отечественных компонентов в базовых станциях до 30% к 2028 году](https://habr.com/ru/news/1020576/?utm_campaign=1020576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
