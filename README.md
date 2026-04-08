@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект PaintFE — портативный редактор изображений для Windows и macOS](https://habr.com/ru/news/1020154/?utm_campaign=1020154&utm_source=habrahabr&utm_medium=rss)
 - [Playwright MCP и n8n: как мы используем ИИ в автоматизации тестирования](https://habr.com/ru/companies/gnivc/news/1020592/?utm_campaign=1020592&utm_source=habrahabr&utm_medium=rss)
 - [«Иртея» планирует довести долю отечественных компонентов в базовых станциях до 30% к 2028 году](https://habr.com/ru/news/1020576/?utm_campaign=1020576&utm_source=habrahabr&utm_medium=rss)
 - [Новейший Claude Mythos нашел дыру возрастом 27 лет в OpenBSD](https://habr.com/ru/news/1020568/?utm_campaign=1020568&utm_source=habrahabr&utm_medium=rss)
 - [Российских операторов связи оштрафовали на 4 млн рублей за нарушения в работе ТСПУ](https://habr.com/ru/news/1020564/?utm_campaign=1020564&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic показали Claude Mythos Preview — и сразу заявили: в паблик модель выпускать не будут](https://habr.com/ru/news/1020560/?utm_campaign=1020560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
