@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Chrome 148 появится функция «ленивой загрузки» видео и аудио](https://habr.com/ru/news/1020102/?utm_campaign=1020102&utm_source=habrahabr&utm_medium=rss)
-- [UserGate и Nubes запускают облачный сервис для защиты веб‑приложений](https://habr.com/ru/companies/usergate/news/1020776/?utm_campaign=1020776&utm_source=habrahabr&utm_medium=rss)
-- [Вот так ИИ распространяет фэйковые статьи на Хабре](https://habr.com/ru/companies/speclab/news/1020712/?utm_campaign=1020712&utm_source=habrahabr&utm_medium=rss)
-- [Uber расширяет использование чипов Amazon и начинает тестировать Trainium3](https://habr.com/ru/companies/tehrevizor/news/1020752/?utm_campaign=1020752&utm_source=habrahabr&utm_medium=rss)
-- [Новый курс по аналитике данных от Практикума PRO — для специалистов с опытом](https://habr.com/ru/companies/yandex_praktikum/news/1020716/?utm_campaign=1020716&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: «АКИТ попросила Госдуму дать пользователям выбор способа подтверждения значимых действий в интернете»](https://habr.com/ru/news/1020858/?utm_campaign=1020858&utm_source=habrahabr&utm_medium=rss)
+- [Project Glasswing: Anthropic нашла тысячи уязвимостей нулевого дня во всём основном софте](https://habr.com/ru/news/1020854/?utm_campaign=1020854&utm_source=habrahabr&utm_medium=rss)
+- [Grab делает ставку на AI, чтобы сдержать рост цен на поездки и доставку](https://habr.com/ru/companies/tehrevizor/news/1020846/?utm_campaign=1020846&utm_source=habrahabr&utm_medium=rss)
+- [Тысячи пользователей пострадали от спама в OneDrive на Windows, Android и Mac](https://habr.com/ru/news/1020830/?utm_campaign=1020830&utm_source=habrahabr&utm_medium=rss)
+- [В России создадут первое производство преформ для оптоволокна](https://habr.com/ru/news/1020842/?utm_campaign=1020842&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
