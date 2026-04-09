@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«OpenClaw для всех»: Poke запустил ИИ-агента без терминала и установки](https://habr.com/ru/news/1021166/?utm_campaign=1021166&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры украли и опубликовали конфиденциальные документы полиции Лос-Анджелеса](https://habr.com/ru/news/1021142/?utm_campaign=1021142&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft заблокировали учётные записи разработчиков VeraCrypt и WireGuard, но потом разобрались, что это ошибка](https://habr.com/ru/news/1021118/?utm_campaign=1021118&utm_source=habrahabr&utm_medium=rss)
 - [Muse Spark — первая LLM от Meta Superintelligence Lab](https://habr.com/ru/news/1021116/?utm_campaign=1021116&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пакетный менеджер APT 3.2.0](https://habr.com/ru/news/1020756/?utm_campaign=1020756&utm_source=habrahabr&utm_medium=rss)
-- [Дуров сообщил о распространении в ЕС «абсурдных нарративов» против Telegram](https://habr.com/ru/news/1021112/?utm_campaign=1021112&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта CompressO 3.0.0 для сжатия видео на базе движка FFmpeg](https://habr.com/ru/news/1020386/?utm_campaign=1020386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
