@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого проекта CompressO 3.0.0 для сжатия видео на базе движка FFmpeg](https://habr.com/ru/news/1020386/?utm_campaign=1020386&utm_source=habrahabr&utm_medium=rss)
 - [Команда Internet Bug Bounty приостанавливает выплаты за обнаружение уязвимостей](https://habr.com/ru/news/1020104/?utm_campaign=1020104&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic представила сервис для запуска ИИ-агентов — Claude Managed Agents](https://habr.com/ru/news/1021092/?utm_campaign=1021092&utm_source=habrahabr&utm_medium=rss)
 - [Авторы сразу трёх YouTube-каналов подали иск против Apple, обвиняя компанию в использовании контента для обучения ИИ](https://habr.com/ru/news/1021064/?utm_campaign=1021064&utm_source=habrahabr&utm_medium=rss)
 - [Рексофт и Автомакон объявляют о стратегическом партнерстве](https://habr.com/ru/news/1021054/?utm_campaign=1021054&utm_source=habrahabr&utm_medium=rss)
-- [«Октава ДМ» представила российскую дискуссионную систему OCS-80](https://habr.com/ru/news/1021036/?utm_campaign=1021036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
