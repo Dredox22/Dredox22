@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Внутренняя модель OpenAI решила еще 5 математических задач Эрдёша](https://habr.com/ru/news/1021348/?utm_campaign=1021348&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик потерял исходники, но сохранил скрипты. Claude Code восстановил игру за один уикенд](https://habr.com/ru/companies/bothub/news/1021340/?utm_campaign=1021340&utm_source=habrahabr&utm_medium=rss)
-- [Хакатон-дайджест №33 на апрель](https://habr.com/ru/news/1021338/?utm_campaign=1021338&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba выпустила VimRAG – не просто RAG, а агент с графом памяти](https://habr.com/ru/companies/bothub/news/1021324/?utm_campaign=1021324&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «История одного взлома»](https://habr.com/ru/companies/multifactor/news/1021322/?utm_campaign=1021322&utm_source=habrahabr&utm_medium=rss)
+- [Just AI открыла публичный доступ к Agent Platform Cloud](https://habr.com/ru/companies/just_ai/news/1020686/?utm_campaign=1020686&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies представляет решение для многоуровневой защиты корпоративной почты](https://habr.com/ru/companies/pt/news/1021334/?utm_campaign=1021334&utm_source=habrahabr&utm_medium=rss)
+- [Как собрать импортонезависимое облако: связка dBrain.cloud + РЕД Виртуализация](https://habr.com/ru/companies/dbraincloud/news/1021418/?utm_campaign=1021418&utm_source=habrahabr&utm_medium=rss)
+- [Golem: от кодинг-агента к блогеру](https://habr.com/ru/news/1021382/?utm_campaign=1021382&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Вайб-кодинг в энтерпрайз: 5 блокеров и путь к управляемой разработке»](https://habr.com/ru/companies/haulmont/news/1021374/?utm_campaign=1021374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
