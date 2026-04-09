@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek готовит три новые модели: V4 Lite, V4 Expert и V4 Vision. Релиз возможен уже в апреле](https://habr.com/ru/companies/bothub/news/1021524/?utm_campaign=1021524&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: при переводах через СБП с 1 июля банки будут указывать ИНН — мера касается физлиц и юрлиц для борьбы с дропперами](https://habr.com/ru/news/1021514/?utm_campaign=1021514&utm_source=habrahabr&utm_medium=rss)
 - [uWAF как услуга: UserGate и Nubes запускают облачный сервис для защиты веб‑приложений](https://habr.com/ru/companies/nubes/news/1021484/?utm_campaign=1021484&utm_source=habrahabr&utm_medium=rss)
 - [“Производительность ×10–100, эксплойты за часы вместо недель”: что говорят ИБ-специалисты об отмене Claude Mythos](https://habr.com/ru/companies/bothub/news/1021470/?utm_campaign=1021470&utm_source=habrahabr&utm_medium=rss)
 - [Google Meet теперь предлагает перевод речи в приложениях для Android и iOS](https://habr.com/ru/news/1021464/?utm_campaign=1021464&utm_source=habrahabr&utm_medium=rss)
-- [Just AI открыла публичный доступ к Agent Platform Cloud](https://habr.com/ru/companies/just_ai/news/1020686/?utm_campaign=1020686&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies представляет решение для многоуровневой защиты корпоративной почты](https://habr.com/ru/companies/pt/news/1021334/?utm_campaign=1021334&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
