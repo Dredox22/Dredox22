@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [uWAF как услуга: UserGate и Nubes запускают облачный сервис для защиты веб‑приложений](https://habr.com/ru/companies/nubes/news/1021484/?utm_campaign=1021484&utm_source=habrahabr&utm_medium=rss)
+- [“Производительность ×10–100, эксплойты за часы вместо недель”: что говорят ИБ-специалисты об отмене Claude Mythos](https://habr.com/ru/companies/bothub/news/1021470/?utm_campaign=1021470&utm_source=habrahabr&utm_medium=rss)
+- [Google Meet теперь предлагает перевод речи в приложениях для Android и iOS](https://habr.com/ru/news/1021464/?utm_campaign=1021464&utm_source=habrahabr&utm_medium=rss)
 - [Just AI открыла публичный доступ к Agent Platform Cloud](https://habr.com/ru/companies/just_ai/news/1020686/?utm_campaign=1020686&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies представляет решение для многоуровневой защиты корпоративной почты](https://habr.com/ru/companies/pt/news/1021334/?utm_campaign=1021334&utm_source=habrahabr&utm_medium=rss)
-- [Как собрать импортонезависимое облако: связка dBrain.cloud + РЕД Виртуализация](https://habr.com/ru/companies/dbraincloud/news/1021418/?utm_campaign=1021418&utm_source=habrahabr&utm_medium=rss)
-- [Golem: от кодинг-агента к блогеру](https://habr.com/ru/news/1021382/?utm_campaign=1021382&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Вайб-кодинг в энтерпрайз: 5 блокеров и путь к управляемой разработке»](https://habr.com/ru/companies/haulmont/news/1021374/?utm_campaign=1021374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
