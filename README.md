@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Microsoft заблокировали учётные записи разработчиков VeraCrypt и WireGuard, но потом разобрались, что это ошибка](https://habr.com/ru/news/1021118/?utm_campaign=1021118&utm_source=habrahabr&utm_medium=rss)
+- [Muse Spark — первая LLM от Meta Superintelligence Lab](https://habr.com/ru/news/1021116/?utm_campaign=1021116&utm_source=habrahabr&utm_medium=rss)
+- [Вышел пакетный менеджер APT 3.2.0](https://habr.com/ru/news/1020756/?utm_campaign=1020756&utm_source=habrahabr&utm_medium=rss)
+- [Дуров сообщил о распространении в ЕС «абсурдных нарративов» против Telegram](https://habr.com/ru/news/1021112/?utm_campaign=1021112&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта CompressO 3.0.0 для сжатия видео на базе движка FFmpeg](https://habr.com/ru/news/1020386/?utm_campaign=1020386&utm_source=habrahabr&utm_medium=rss)
-- [Команда Internet Bug Bounty приостанавливает выплаты за обнаружение уязвимостей](https://habr.com/ru/news/1020104/?utm_campaign=1020104&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic представила сервис для запуска ИИ-агентов — Claude Managed Agents](https://habr.com/ru/news/1021092/?utm_campaign=1021092&utm_source=habrahabr&utm_medium=rss)
-- [Авторы сразу трёх YouTube-каналов подали иск против Apple, обвиняя компанию в использовании контента для обучения ИИ](https://habr.com/ru/news/1021064/?utm_campaign=1021064&utm_source=habrahabr&utm_medium=rss)
-- [Рексофт и Автомакон объявляют о стратегическом партнерстве](https://habr.com/ru/news/1021054/?utm_campaign=1021054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
