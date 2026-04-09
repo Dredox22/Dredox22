@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Tubi первым среди стримингов запустил нативное приложение внутри ChatGPT](https://habr.com/ru/companies/tehrevizor/news/1021256/?utm_campaign=1021256&utm_source=habrahabr&utm_medium=rss)
-- [Новый подход к AI-агентам: Poke предлагает управлять ими через сообщения](https://habr.com/ru/companies/tehrevizor/news/1021250/?utm_campaign=1021250&utm_source=habrahabr&utm_medium=rss)
-- [LFM2.5-VL-450M: структурированный визуальный интеллект](https://habr.com/ru/news/1021242/?utm_campaign=1021242&utm_source=habrahabr&utm_medium=rss)
-- [В МФТИ создали сегнетоэлектрическую память с ресурсом более 100 млн циклов перезаписи](https://habr.com/ru/companies/tehrevizor/news/1021232/?utm_campaign=1021232&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp** начал внедрять имена пользователей](https://habr.com/ru/news/1021228/?utm_campaign=1021228&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba выпустила VimRAG – не просто RAG, а агент с графом памяти](https://habr.com/ru/companies/bothub/news/1021324/?utm_campaign=1021324&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «История одного взлома»](https://habr.com/ru/companies/multifactor/news/1021322/?utm_campaign=1021322&utm_source=habrahabr&utm_medium=rss)
+- [«Код Дурова»: в Cloudflare пометили рабочие домены Telega как шпионские, после чего у клиента отозвали TLS-сертификат](https://habr.com/ru/news/1021320/?utm_campaign=1021320&utm_source=habrahabr&utm_medium=rss)
+- [В 2ГИС появилась возможность навигации при нестабильном сигнале спутников](https://habr.com/ru/news/1021318/?utm_campaign=1021318&utm_source=habrahabr&utm_medium=rss)
+- [Новую большую модель OpenAI отдадут только избранным — Axios](https://habr.com/ru/news/1021316/?utm_campaign=1021316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
