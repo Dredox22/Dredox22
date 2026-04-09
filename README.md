@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI запустила подписку Pro за $100 — и урезала Codex у Plus](https://habr.com/ru/news/1021550/?utm_campaign=1021550&utm_source=habrahabr&utm_medium=rss)
+- [Создатели «Русы против Ящеров» запустили сбор заявок на плейтест игры «МурЗавод»](https://habr.com/ru/news/1021542/?utm_campaign=1021542&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик рассказал, как его «газлайтила» Claude Code — она сама пишет инструкции и утверждает, что их дал человек](https://habr.com/ru/news/1021536/?utm_campaign=1021536&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek готовит три новые модели: V4 Lite, V4 Expert и V4 Vision. Релиз возможен уже в апреле](https://habr.com/ru/companies/bothub/news/1021524/?utm_campaign=1021524&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: при переводах через СБП с 1 июля банки будут указывать ИНН — мера касается физлиц и юрлиц для борьбы с дропперами](https://habr.com/ru/news/1021514/?utm_campaign=1021514&utm_source=habrahabr&utm_medium=rss)
-- [uWAF как услуга: UserGate и Nubes запускают облачный сервис для защиты веб‑приложений](https://habr.com/ru/companies/nubes/news/1021484/?utm_campaign=1021484&utm_source=habrahabr&utm_medium=rss)
-- [“Производительность ×10–100, эксплойты за часы вместо недель”: что говорят ИБ-специалисты об отмене Claude Mythos](https://habr.com/ru/companies/bothub/news/1021470/?utm_campaign=1021470&utm_source=habrahabr&utm_medium=rss)
-- [Google Meet теперь предлагает перевод речи в приложениях для Android и iOS](https://habr.com/ru/news/1021464/?utm_campaign=1021464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
