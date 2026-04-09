@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Внутренняя модель OpenAI решила еще 5 математических задач Эрдёша](https://habr.com/ru/news/1021348/?utm_campaign=1021348&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик потерял исходники, но сохранил скрипты. Claude Code восстановил игру за один уикенд](https://habr.com/ru/companies/bothub/news/1021340/?utm_campaign=1021340&utm_source=habrahabr&utm_medium=rss)
+- [Хакатон-дайджест №33 на апрель](https://habr.com/ru/news/1021338/?utm_campaign=1021338&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba выпустила VimRAG – не просто RAG, а агент с графом памяти](https://habr.com/ru/companies/bothub/news/1021324/?utm_campaign=1021324&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «История одного взлома»](https://habr.com/ru/companies/multifactor/news/1021322/?utm_campaign=1021322&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: в Cloudflare пометили рабочие домены Telega как шпионские, после чего у клиента отозвали TLS-сертификат](https://habr.com/ru/news/1021320/?utm_campaign=1021320&utm_source=habrahabr&utm_medium=rss)
-- [В 2ГИС появилась возможность навигации при нестабильном сигнале спутников](https://habr.com/ru/news/1021318/?utm_campaign=1021318&utm_source=habrahabr&utm_medium=rss)
-- [Новую большую модель OpenAI отдадут только избранным — Axios](https://habr.com/ru/news/1021316/?utm_campaign=1021316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
