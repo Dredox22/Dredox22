@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic научили Sonnet консультироваться с Opus](https://habr.com/ru/news/1022044/?utm_campaign=1022044&utm_source=habrahabr&utm_medium=rss)
 - [«Почта Mail» рассказала о работе антиспама в первом квартале 2026 года](https://habr.com/ru/news/1022040/?utm_campaign=1022040&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-симуляторы пользователей оказались слишком вежливыми – и это проблема. Google придумала, как их раскусить](https://habr.com/ru/companies/bothub/news/1022038/?utm_campaign=1022038&utm_source=habrahabr&utm_medium=rss)
 - [CPUID: с 9 на 10 апреля злоумышленники получили контроль над дополнительным API на официальном сайте CPU-Z и HWMonitor](https://habr.com/ru/news/1022026/?utm_campaign=1022026&utm_source=habrahabr&utm_medium=rss)
 - [Zero-day в Adobe Reader: PDF снова становится вектором атаки](https://habr.com/ru/companies/ddosguard/news/1022012/?utm_campaign=1022012&utm_source=habrahabr&utm_medium=rss)
-- [Qwen стал лидером open-source рынка — у модели 942 млн загрузок](https://habr.com/ru/news/1021966/?utm_campaign=1021966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
