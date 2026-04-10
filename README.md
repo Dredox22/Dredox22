@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар Selectel: покажем, как перенести highload-системы в облако](https://habr.com/ru/companies/selectel/news/1021774/?utm_campaign=1021774&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Telega: хостинг-провайдер Cloudflare признал их домены шпионскими &lpar;Spyware&rpar; по ошибке](https://habr.com/ru/news/1021776/?utm_campaign=1021776&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» научил ИИ‑агентов продолжать работу даже при обрывах связи](https://habr.com/ru/news/1021770/?utm_campaign=1021770&utm_source=habrahabr&utm_medium=rss)
-- [Как подготовиться к внедрению PAM](https://habr.com/ru/companies/innostage/news/1021758/?utm_campaign=1021758&utm_source=habrahabr&utm_medium=rss)
-- [Cohere и Aleph Alpha обсуждают слияние при поддержке Германии](https://habr.com/ru/companies/tehrevizor/news/1021756/?utm_campaign=1021756&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры стали прятать вредоносный код в SVG-изображении размером 1×1 пиксель](https://habr.com/ru/news/1021858/?utm_campaign=1021858&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор точки обмена трафиком Piter-IX: рост интернет-трафика и VPN увеличивают издержки операторов в России](https://habr.com/ru/news/1021862/?utm_campaign=1021862&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила расширенные обновления для Windows 10 Enterprise 2016 LTSB](https://habr.com/ru/news/1021842/?utm_campaign=1021842&utm_source=habrahabr&utm_medium=rss)
+- [Изменения в политике бесплатного лицензирования PVS-Studio](https://habr.com/ru/companies/pvs-studio/news/1021850/?utm_campaign=1021850&utm_source=habrahabr&utm_medium=rss)
+- [Цукерберг не вошёл в топ-250: в Meta* закрыли рейтинг потребителей AI-токенов](https://habr.com/ru/news/1021826/?utm_campaign=1021826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
