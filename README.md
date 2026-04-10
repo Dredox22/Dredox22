@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров: «шифрование» WhatsApp** может быть крупнейшим в истории случаем обмана, вводящим в заблуждение пользователей](https://habr.com/ru/news/1021602/?utm_campaign=1021602&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 20.0](https://habr.com/ru/news/1021136/?utm_campaign=1021136&utm_source=habrahabr&utm_medium=rss)
 - [«ON Медиа» выпустит ИИ-мультсериалы по Успенскому — «Про девочку Веру и обезьянку Анфису» и «Следствие ведут Колобки»](https://habr.com/ru/news/1021586/?utm_campaign=1021586&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запустила подписку Pro за $100 — и урезала Codex у Plus](https://habr.com/ru/news/1021550/?utm_campaign=1021550&utm_source=habrahabr&utm_medium=rss)
 - [Создатели «Русы против Ящеров» запустили сбор заявок на плейтест игры «МурЗавод»](https://habr.com/ru/news/1021542/?utm_campaign=1021542&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик рассказал, как его «газлайтила» Claude Code — она сама пишет инструкции и утверждает, что их дал человек](https://habr.com/ru/news/1021536/?utm_campaign=1021536&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek готовит три новые модели: V4 Lite, V4 Expert и V4 Vision. Релиз возможен уже в апреле](https://habr.com/ru/companies/bothub/news/1021524/?utm_campaign=1021524&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
