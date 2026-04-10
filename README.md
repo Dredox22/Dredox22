@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Айтишник вел мать через 4-ю стадию рака с помощью Claude — и трижды поймал неотложные состояния раньше врачей](https://habr.com/ru/news/1021616/?utm_campaign=1021616&utm_source=habrahabr&utm_medium=rss)
-- [Вышел клиент Telegram на iOS v12.6.3, в апдейте исправили проблему с работой MTProto](https://habr.com/ru/news/1021614/?utm_campaign=1021614&utm_source=habrahabr&utm_medium=rss)
-- [FreeBSD Foundation запустила проект по тестированию FreeBSD на ноутбуках](https://habr.com/ru/news/1021294/?utm_campaign=1021294&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: «шифрование» WhatsApp** может быть крупнейшим в истории случаем обмана, вводящим в заблуждение пользователей](https://habr.com/ru/news/1021602/?utm_campaign=1021602&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 20.0](https://habr.com/ru/news/1021136/?utm_campaign=1021136&utm_source=habrahabr&utm_medium=rss)
+- [ФБР извлекло переписку мессенджера Signal из iPhone через push-уведомления Apple, сохраняющие текст сообщений](https://habr.com/ru/news/1021662/?utm_campaign=1021662&utm_source=habrahabr&utm_medium=rss)
+- [Робопес-поводырь на GPT-4 правильно понимает открытые запросы в 94,8% случаев — и устойчив к шуму распознавания речи](https://habr.com/ru/news/1021658/?utm_campaign=1021658&utm_source=habrahabr&utm_medium=rss)
+- [Команда Swift расширила поддержку IDE: язык теперь доступен в Cursor, VSCodium и других редакторах на базе Open VSX](https://habr.com/ru/news/1021654/?utm_campaign=1021654&utm_source=habrahabr&utm_medium=rss)
+- [Зафиксирован 100% сетевой сбой при мониторинге работы Telegram в РФ](https://habr.com/ru/news/1021640/?utm_campaign=1021640&utm_source=habrahabr&utm_medium=rss)
+- [Российские компании пояснили СМИ свои методики и принципы по обнаружению VPN у пользователей](https://habr.com/ru/news/1021626/?utm_campaign=1021626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
