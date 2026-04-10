@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты RKS Global: из 30 популярных российских Android-приложений большинство детектируют VPN](https://habr.com/ru/news/1021908/?utm_campaign=1021908&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla обвинила Microsoft в саботаже Firefox с помощью тактики Windows и Copilot](https://habr.com/ru/news/1021882/?utm_campaign=1021882&utm_source=habrahabr&utm_medium=rss)
+- [В Южной Корее ввели всеобщий бесплатный базовый доступ к мобильному интернету на скорости в 400 Кбит/с](https://habr.com/ru/news/1021870/?utm_campaign=1021870&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры стали прятать вредоносный код в SVG-изображении размером 1×1 пиксель](https://habr.com/ru/news/1021858/?utm_campaign=1021858&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор точки обмена трафиком Piter-IX: рост интернет-трафика и VPN увеличивают издержки операторов в России](https://habr.com/ru/news/1021862/?utm_campaign=1021862&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила расширенные обновления для Windows 10 Enterprise 2016 LTSB](https://habr.com/ru/news/1021842/?utm_campaign=1021842&utm_source=habrahabr&utm_medium=rss)
-- [Изменения в политике бесплатного лицензирования PVS-Studio](https://habr.com/ru/companies/pvs-studio/news/1021850/?utm_campaign=1021850&utm_source=habrahabr&utm_medium=rss)
-- [Цукерберг не вошёл в топ-250: в Meta* закрыли рейтинг потребителей AI-токенов](https://habr.com/ru/news/1021826/?utm_campaign=1021826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
