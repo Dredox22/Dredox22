@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code получил ultraplan: планирование идет в облаке, терминал свободен](https://habr.com/ru/news/1022078/?utm_campaign=1022078&utm_source=habrahabr&utm_medium=rss)
 - [Mac OS X портировали на Nintendo Wii 2007 года](https://habr.com/ru/companies/bothub/news/1022062/?utm_campaign=1022062&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic научили Sonnet консультироваться с Opus](https://habr.com/ru/news/1022044/?utm_campaign=1022044&utm_source=habrahabr&utm_medium=rss)
 - [«Почта Mail» рассказала о работе антиспама в первом квартале 2026 года](https://habr.com/ru/news/1022040/?utm_campaign=1022040&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-симуляторы пользователей оказались слишком вежливыми – и это проблема. Google придумала, как их раскусить](https://habr.com/ru/companies/bothub/news/1022038/?utm_campaign=1022038&utm_source=habrahabr&utm_medium=rss)
-- [CPUID: с 9 на 10 апреля злоумышленники получили контроль над дополнительным API на официальном сайте CPU-Z и HWMonitor](https://habr.com/ru/news/1022026/?utm_campaign=1022026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
