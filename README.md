@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Почта Mail» рассказала о работе антиспама в первом квартале 2026 года](https://habr.com/ru/news/1022040/?utm_campaign=1022040&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-симуляторы пользователей оказались слишком вежливыми – и это проблема. Google придумала, как их раскусить](https://habr.com/ru/companies/bothub/news/1022038/?utm_campaign=1022038&utm_source=habrahabr&utm_medium=rss)
+- [CPUID: с 9 на 10 апреля злоумышленники получили контроль над дополнительным API на официальном сайте CPU-Z и HWMonitor](https://habr.com/ru/news/1022026/?utm_campaign=1022026&utm_source=habrahabr&utm_medium=rss)
 - [Zero-day в Adobe Reader: PDF снова становится вектором атаки](https://habr.com/ru/companies/ddosguard/news/1022012/?utm_campaign=1022012&utm_source=habrahabr&utm_medium=rss)
 - [Qwen стал лидером open-source рынка — у модели 942 млн загрузок](https://habr.com/ru/news/1021966/?utm_campaign=1021966&utm_source=habrahabr&utm_medium=rss)
-- [Один из сооснователей GitHub поднял $17M инвестиций на то, чтобы заменить Git](https://habr.com/ru/news/1021942/?utm_campaign=1021942&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты RKS Global: из 30 популярных российских Android-приложений большинство детектируют VPN](https://habr.com/ru/news/1021908/?utm_campaign=1021908&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla обвинила Microsoft в саботаже Firefox с помощью тактики Windows и Copilot](https://habr.com/ru/news/1021882/?utm_campaign=1021882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
