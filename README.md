@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google и Intel расширяют партнерство по AI-инфраструктуре и совместной разработке чипов](https://habr.com/ru/companies/tehrevizor/news/1021724/?utm_campaign=1021724&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» построит новый дата-центр за 100 млрд рублей](https://habr.com/ru/news/1021722/?utm_campaign=1021722&utm_source=habrahabr&utm_medium=rss)
+- [ИИ из Иннополиса научился взвешивать свиней по видео без контакта](https://habr.com/ru/companies/tehrevizor/news/1021714/?utm_campaign=1021714&utm_source=habrahabr&utm_medium=rss)
 - [ФБР извлекло переписку мессенджера Signal из iPhone через push-уведомления Apple, сохраняющие текст сообщений](https://habr.com/ru/news/1021662/?utm_campaign=1021662&utm_source=habrahabr&utm_medium=rss)
 - [Робопес-поводырь на GPT-4 правильно понимает открытые запросы в 94,8% случаев — и устойчив к шуму распознавания речи](https://habr.com/ru/news/1021658/?utm_campaign=1021658&utm_source=habrahabr&utm_medium=rss)
-- [Команда Swift расширила поддержку IDE: язык теперь доступен в Cursor, VSCodium и других редакторах на базе Open VSX](https://habr.com/ru/news/1021654/?utm_campaign=1021654&utm_source=habrahabr&utm_medium=rss)
-- [Зафиксирован 100% сетевой сбой при мониторинге работы Telegram в РФ](https://habr.com/ru/news/1021640/?utm_campaign=1021640&utm_source=habrahabr&utm_medium=rss)
-- [Российские компании пояснили СМИ свои методики и принципы по обнаружению VPN у пользователей](https://habr.com/ru/news/1021626/?utm_campaign=1021626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
