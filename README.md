@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google и Intel расширяют партнерство по AI-инфраструктуре и совместной разработке чипов](https://habr.com/ru/companies/tehrevizor/news/1021724/?utm_campaign=1021724&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» построит новый дата-центр за 100 млрд рублей](https://habr.com/ru/news/1021722/?utm_campaign=1021722&utm_source=habrahabr&utm_medium=rss)
-- [ИИ из Иннополиса научился взвешивать свиней по видео без контакта](https://habr.com/ru/companies/tehrevizor/news/1021714/?utm_campaign=1021714&utm_source=habrahabr&utm_medium=rss)
-- [ФБР извлекло переписку мессенджера Signal из iPhone через push-уведомления Apple, сохраняющие текст сообщений](https://habr.com/ru/news/1021662/?utm_campaign=1021662&utm_source=habrahabr&utm_medium=rss)
-- [Робопес-поводырь на GPT-4 правильно понимает открытые запросы в 94,8% случаев — и устойчив к шуму распознавания речи](https://habr.com/ru/news/1021658/?utm_campaign=1021658&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар Selectel: покажем, как перенести highload-системы в облако](https://habr.com/ru/companies/selectel/news/1021774/?utm_campaign=1021774&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Telega: хостинг-провайдер Cloudflare признал их домены шпионскими &lpar;Spyware&rpar; по ошибке](https://habr.com/ru/news/1021776/?utm_campaign=1021776&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» научил ИИ‑агентов продолжать работу даже при обрывах связи](https://habr.com/ru/news/1021770/?utm_campaign=1021770&utm_source=habrahabr&utm_medium=rss)
+- [Как подготовиться к внедрению PAM](https://habr.com/ru/companies/innostage/news/1021758/?utm_campaign=1021758&utm_source=habrahabr&utm_medium=rss)
+- [Cohere и Aleph Alpha обсуждают слияние при поддержке Германии](https://habr.com/ru/companies/tehrevizor/news/1021756/?utm_campaign=1021756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
