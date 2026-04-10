@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Айтишник вел мать через 4-ю стадию рака с помощью Claude — и трижды поймал неотложные состояния раньше врачей](https://habr.com/ru/news/1021616/?utm_campaign=1021616&utm_source=habrahabr&utm_medium=rss)
+- [Вышел клиент Telegram на iOS v12.6.3, в апдейте исправили проблему с работой MTProto](https://habr.com/ru/news/1021614/?utm_campaign=1021614&utm_source=habrahabr&utm_medium=rss)
+- [FreeBSD Foundation запустила проект по тестированию FreeBSD на ноутбуках](https://habr.com/ru/news/1021294/?utm_campaign=1021294&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: «шифрование» WhatsApp** может быть крупнейшим в истории случаем обмана, вводящим в заблуждение пользователей](https://habr.com/ru/news/1021602/?utm_campaign=1021602&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 20.0](https://habr.com/ru/news/1021136/?utm_campaign=1021136&utm_source=habrahabr&utm_medium=rss)
-- [«ON Медиа» выпустит ИИ-мультсериалы по Успенскому — «Про девочку Веру и обезьянку Анфису» и «Следствие ведут Колобки»](https://habr.com/ru/news/1021586/?utm_campaign=1021586&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила подписку Pro за $100 — и урезала Codex у Plus](https://habr.com/ru/news/1021550/?utm_campaign=1021550&utm_source=habrahabr&utm_medium=rss)
-- [Создатели «Русы против Ящеров» запустили сбор заявок на плейтест игры «МурЗавод»](https://habr.com/ru/news/1021542/?utm_campaign=1021542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
