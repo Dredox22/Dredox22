@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минус 17% за день: новый сервис Anthropic обвалил облачных гигантов](https://habr.com/ru/news/1022370/?utm_campaign=1022370&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Telega: хостинг-провайдер Cloudflare снял пометку «шпионское ПО» &lpar;Spyware&rpar; с доменов проекта](https://habr.com/ru/news/1022308/?utm_campaign=1022308&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram улучшил протокол противодействия цензуре](https://habr.com/ru/news/1022282/?utm_campaign=1022282&utm_source=habrahabr&utm_medium=rss)
 - [ИИ открыл бутик в Сан-Франциско: нанял людей, взял кредит, нарисовал мерч](https://habr.com/ru/news/1022272/?utm_campaign=1022272&utm_source=habrahabr&utm_medium=rss)
 - [ИИ оказался никудышным в ставках на спорт — он проиграл всё на матчах английской Премьер-лиги](https://habr.com/ru/companies/bothub/news/1022258/?utm_campaign=1022258&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Linux-версия проекта Little Snitch — межсетевого экрана для приложений](https://habr.com/ru/news/1021704/?utm_campaign=1021704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
