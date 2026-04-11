@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В дом Сэма Альтмана бросили коктейль Молотова. Он признает, что «недооценил силу слов»](https://habr.com/ru/news/1022240/?utm_campaign=1022240&utm_source=habrahabr&utm_medium=rss)
+- [Нейросети поверили в историю про выдуманную болезнь](https://habr.com/ru/news/1022234/?utm_campaign=1022234&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Авто» показали работу своей ИИ-платформы в UMO 5 — электромобиле от «ЭМ Рус» и «Яндекса»](https://habr.com/ru/news/1022222/?utm_campaign=1022222&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи c помощью ИИ превратили обычные умные часы в систему точного отслеживания движений руки](https://habr.com/ru/companies/bothub/news/1022230/?utm_campaign=1022230&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отказывается от метода установки PowerShell в Windows](https://habr.com/ru/news/1022212/?utm_campaign=1022212&utm_source=habrahabr&utm_medium=rss)
-- [Белые хакеры подали более 200 отчетов об уязвимостях в Мах](https://habr.com/ru/news/1022208/?utm_campaign=1022208&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic заблокировал создателя OpenClaw — он работает в OpenAI и тестировал совместимость](https://habr.com/ru/news/1022202/?utm_campaign=1022202&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: Telegram принудительно отключает предварительный просмотр push-уведомлений в секретных чатах в отличие от Signal](https://habr.com/ru/news/1022138/?utm_campaign=1022138&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
