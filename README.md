@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ оказался никудышным в ставках на спорт — он проиграл всё на матчах английской Премьер-лиги](https://habr.com/ru/companies/bothub/news/1022258/?utm_campaign=1022258&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Linux-версия проекта Little Snitch — межсетевого экрана для приложений](https://habr.com/ru/news/1021704/?utm_campaign=1021704&utm_source=habrahabr&utm_medium=rss)
 - [В дом Сэма Альтмана бросили коктейль Молотова. Он признает, что «недооценил силу слов»](https://habr.com/ru/news/1022240/?utm_campaign=1022240&utm_source=habrahabr&utm_medium=rss)
 - [Нейросети поверили в историю про выдуманную болезнь](https://habr.com/ru/news/1022234/?utm_campaign=1022234&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Авто» показали работу своей ИИ-платформы в UMO 5 — электромобиле от «ЭМ Рус» и «Яндекса»](https://habr.com/ru/news/1022222/?utm_campaign=1022222&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи c помощью ИИ превратили обычные умные часы в систему точного отслеживания движений руки](https://habr.com/ru/companies/bothub/news/1022230/?utm_campaign=1022230&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отказывается от метода установки PowerShell в Windows](https://habr.com/ru/news/1022212/?utm_campaign=1022212&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
