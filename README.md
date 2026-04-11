@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров: Telegram улучшил протокол противодействия цензуре](https://habr.com/ru/news/1022282/?utm_campaign=1022282&utm_source=habrahabr&utm_medium=rss)
 - [ИИ открыл бутик в Сан-Франциско: нанял людей, взял кредит, нарисовал мерч](https://habr.com/ru/news/1022272/?utm_campaign=1022272&utm_source=habrahabr&utm_medium=rss)
 - [ИИ оказался никудышным в ставках на спорт — он проиграл всё на матчах английской Премьер-лиги](https://habr.com/ru/companies/bothub/news/1022258/?utm_campaign=1022258&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Linux-версия проекта Little Snitch — межсетевого экрана для приложений](https://habr.com/ru/news/1021704/?utm_campaign=1021704&utm_source=habrahabr&utm_medium=rss)
 - [В дом Сэма Альтмана бросили коктейль Молотова. Он признает, что «недооценил силу слов»](https://habr.com/ru/news/1022240/?utm_campaign=1022240&utm_source=habrahabr&utm_medium=rss)
-- [Нейросети поверили в историю про выдуманную болезнь](https://habr.com/ru/news/1022234/?utm_campaign=1022234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
