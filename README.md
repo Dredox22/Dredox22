@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи c помощью ИИ превратили обычные умные часы в систему точного отслеживания движений руки](https://habr.com/ru/companies/bothub/news/1022230/?utm_campaign=1022230&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft отказывается от метода установки PowerShell в Windows](https://habr.com/ru/news/1022212/?utm_campaign=1022212&utm_source=habrahabr&utm_medium=rss)
 - [Белые хакеры подали более 200 отчетов об уязвимостях в Мах](https://habr.com/ru/news/1022208/?utm_campaign=1022208&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic заблокировал создателя OpenClaw — он работает в OpenAI и тестировал совместимость](https://habr.com/ru/news/1022202/?utm_campaign=1022202&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram принудительно отключает предварительный просмотр push-уведомлений в секретных чатах в отличие от Signal](https://habr.com/ru/news/1022138/?utm_campaign=1022138&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый мультиплатформенный проект AeroFTP](https://habr.com/ru/news/1021354/?utm_campaign=1021354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
