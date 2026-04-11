@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft отказывается от метода установки PowerShell в Windows](https://habr.com/ru/news/1022212/?utm_campaign=1022212&utm_source=habrahabr&utm_medium=rss)
+- [Белые хакеры подали более 200 отчетов об уязвимостях в Мах](https://habr.com/ru/news/1022208/?utm_campaign=1022208&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic заблокировал создателя OpenClaw — он работает в OpenAI и тестировал совместимость](https://habr.com/ru/news/1022202/?utm_campaign=1022202&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram принудительно отключает предварительный просмотр push-уведомлений в секретных чатах в отличие от Signal](https://habr.com/ru/news/1022138/?utm_campaign=1022138&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый мультиплатформенный проект AeroFTP](https://habr.com/ru/news/1021354/?utm_campaign=1021354&utm_source=habrahabr&utm_medium=rss)
-- [Взломан суперкомпьютерный центр Китая: утекли AI-датасеты военных лабораторий](https://habr.com/ru/news/1022084/?utm_campaign=1022084&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code получил ultraplan: планирование идет в облаке, терминал свободен](https://habr.com/ru/news/1022078/?utm_campaign=1022078&utm_source=habrahabr&utm_medium=rss)
-- [Mac OS X портировали на Nintendo Wii 2007 года](https://habr.com/ru/companies/bothub/news/1022062/?utm_campaign=1022062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
