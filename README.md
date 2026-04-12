@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Lite Catalog — каталог открытых, бесплатных и полезных приложений для Windows с возможностью загрузки и установки](https://habr.com/ru/news/1022352/?utm_campaign=1022352&utm_source=habrahabr&utm_medium=rss)
 - [Франция откажется от Windows в пользу Linux, чтобы снизить зависимость от американских технологий](https://habr.com/ru/news/1022444/?utm_campaign=1022444&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Организация управления зависимостями в корпоративной разработке на примере Axiom Spring»](https://habr.com/ru/companies/axiomjdk/news/1022324/?utm_campaign=1022324&utm_source=habrahabr&utm_medium=rss)
 - [В WhatsApp** ответили на критику Дурова по поводу попытки совместить удобство и безопасность в одном типе чатов](https://habr.com/ru/news/1022414/?utm_campaign=1022414&utm_source=habrahabr&utm_medium=rss)
 - [Релиз текстового редактора GNU nano 9.0](https://habr.com/ru/news/1022046/?utm_campaign=1022046&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекращает поддержку XSLT в Edge](https://habr.com/ru/news/1022100/?utm_campaign=1022100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
