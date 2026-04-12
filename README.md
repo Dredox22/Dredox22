@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел в релиз Microsoft Agent Framework](https://habr.com/ru/news/1022612/?utm_campaign=1022612&utm_source=habrahabr&utm_medium=rss)
 - [Apple готовит AI-очки в четырех дизайнах — выход в 2027-м](https://habr.com/ru/news/1022600/?utm_campaign=1022600&utm_source=habrahabr&utm_medium=rss)
 - [Meta* переманила трех топ-менеджеров Stargate — а дата-центр в Великобритании поставлен на паузу](https://habr.com/ru/news/1022570/?utm_campaign=1022570&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект cURL Doom — версия Doom, которая воспроизводится по сети через cURL](https://habr.com/ru/news/1022568/?utm_campaign=1022568&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram не раскрыл ни одного байта сообщений пользователей за всю свою 12-летнюю историю](https://habr.com/ru/news/1022556/?utm_campaign=1022556&utm_source=habrahabr&utm_medium=rss)
-- [Почтовое приложение Avec позволяет листать письма как анкеты в Tinder](https://habr.com/ru/news/1022098/?utm_campaign=1022098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
