@@ -89,7 +89,7 @@
 - [Представлен проект cURL Doom — версия Doom, которая воспроизводится по сети через cURL](https://habr.com/ru/news/1022568/?utm_campaign=1022568&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: Telegram не раскрыл ни одного байта сообщений пользователей за всю свою 12-летнюю историю](https://habr.com/ru/news/1022556/?utm_campaign=1022556&utm_source=habrahabr&utm_medium=rss)
 - [Почтовое приложение Avec позволяет листать письма как анкеты в Tinder](https://habr.com/ru/news/1022098/?utm_campaign=1022098&utm_source=habrahabr&utm_medium=rss)
-- [Z.Ai снова обновили цены на свои подписки Coding Plan](https://habr.com/ru/news/1022534/?utm_campaign=1022534&utm_source=habrahabr&utm_medium=rss)
+- [Ядро Linux разрешит использование кода с поддержкой ИИ при соблюдении правил](https://habr.com/ru/news/1022532/?utm_campaign=1022532&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
