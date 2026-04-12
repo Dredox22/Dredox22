@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis II завершила 10-дневный полёт и успешно вернулась на Землю](https://habr.com/ru/companies/bothub/news/1022504/?utm_campaign=1022504&utm_source=habrahabr&utm_medium=rss)
+- [Почему Claude Code «отупел» после февраля? Отчёт на 6852 сессиях](https://habr.com/ru/news/1022502/?utm_campaign=1022502&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic перенесла планирование Claude Code в облако](https://habr.com/ru/companies/bothub/news/1022490/?utm_campaign=1022490&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft анонсировала масштабное обновление дизайна Windows Terminal](https://habr.com/ru/news/1022474/?utm_campaign=1022474&utm_source=habrahabr&utm_medium=rss)
 - [В GitHub Copilot CLI вышел инструмент «второго мнения» от ИИ при написании кода](https://habr.com/ru/news/1022472/?utm_campaign=1022472&utm_source=habrahabr&utm_medium=rss)
-- [Claude стал «меньше думать» и чаще ошибаться по данным анализа логов](https://habr.com/ru/companies/bothub/news/1022462/?utm_campaign=1022462&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Lite Catalog — каталог открытых, бесплатных и полезных приложений для Windows с возможностью загрузки и установки](https://habr.com/ru/news/1022352/?utm_campaign=1022352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
