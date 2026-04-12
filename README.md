@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Почтовое приложение Avec позволяет листать письма как анкеты в Tinder](https://habr.com/ru/news/1022098/?utm_campaign=1022098&utm_source=habrahabr&utm_medium=rss)
 - [Z.Ai снова обновили цены на свои подписки Coding Plan](https://habr.com/ru/news/1022534/?utm_campaign=1022534&utm_source=habrahabr&utm_medium=rss)
 - [Ядро Linux разрешит использование кода с поддержкой ИИ при соблюдении правил](https://habr.com/ru/news/1022532/?utm_campaign=1022532&utm_source=habrahabr&utm_medium=rss)
 - [Sam Altman ответил на «резонансную» статью The New Yorker после атаки на его дом](https://habr.com/ru/companies/bothub/news/1022530/?utm_campaign=1022530&utm_source=habrahabr&utm_medium=rss)
 - [Маск готовит запуск XChat как часть экосистемы X](https://habr.com/ru/companies/bothub/news/1022520/?utm_campaign=1022520&utm_source=habrahabr&utm_medium=rss)
-- [Artemis II завершила 10-дневный полёт и успешно вернулась на Землю](https://habr.com/ru/companies/bothub/news/1022504/?utm_campaign=1022504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
