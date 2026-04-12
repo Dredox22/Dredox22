@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic перенесла планирование Claude Code в облако](https://habr.com/ru/companies/bothub/news/1022490/?utm_campaign=1022490&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft анонсировала масштабное обновление дизайна Windows Terminal](https://habr.com/ru/news/1022474/?utm_campaign=1022474&utm_source=habrahabr&utm_medium=rss)
 - [В GitHub Copilot CLI вышел инструмент «второго мнения» от ИИ при написании кода](https://habr.com/ru/news/1022472/?utm_campaign=1022472&utm_source=habrahabr&utm_medium=rss)
 - [Claude стал «меньше думать» и чаще ошибаться по данным анализа логов](https://habr.com/ru/companies/bothub/news/1022462/?utm_campaign=1022462&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Lite Catalog — каталог открытых, бесплатных и полезных приложений для Windows с возможностью загрузки и установки](https://habr.com/ru/news/1022352/?utm_campaign=1022352&utm_source=habrahabr&utm_medium=rss)
-- [Вышла СУБД SQLite 3.53](https://habr.com/ru/news/1022322/?utm_campaign=1022322&utm_source=habrahabr&utm_medium=rss)
-- [Франция откажется от Windows в пользу Linux, чтобы снизить зависимость от американских технологий](https://habr.com/ru/news/1022444/?utm_campaign=1022444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
