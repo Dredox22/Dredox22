@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Z.Ai снова обновили цены на свои подписки Coding Plan](https://habr.com/ru/news/1022534/?utm_campaign=1022534&utm_source=habrahabr&utm_medium=rss)
+- [Ядро Linux разрешит использование кода с поддержкой ИИ при соблюдении правил](https://habr.com/ru/news/1022532/?utm_campaign=1022532&utm_source=habrahabr&utm_medium=rss)
+- [Sam Altman ответил на «резонансную» статью The New Yorker после атаки на его дом](https://habr.com/ru/companies/bothub/news/1022530/?utm_campaign=1022530&utm_source=habrahabr&utm_medium=rss)
+- [Маск готовит запуск XChat как часть экосистемы X](https://habr.com/ru/companies/bothub/news/1022520/?utm_campaign=1022520&utm_source=habrahabr&utm_medium=rss)
 - [Artemis II завершила 10-дневный полёт и успешно вернулась на Землю](https://habr.com/ru/companies/bothub/news/1022504/?utm_campaign=1022504&utm_source=habrahabr&utm_medium=rss)
-- [Почему Claude Code «отупел» после февраля? Отчёт на 6852 сессиях](https://habr.com/ru/news/1022502/?utm_campaign=1022502&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic перенесла планирование Claude Code в облако](https://habr.com/ru/companies/bothub/news/1022490/?utm_campaign=1022490&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft анонсировала масштабное обновление дизайна Windows Terminal](https://habr.com/ru/news/1022474/?utm_campaign=1022474&utm_source=habrahabr&utm_medium=rss)
-- [В GitHub Copilot CLI вышел инструмент «второго мнения» от ИИ при написании кода](https://habr.com/ru/news/1022472/?utm_campaign=1022472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
