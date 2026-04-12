@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «Организация управления зависимостями в корпоративной разработке на примере Axiom Spring»](https://habr.com/ru/companies/axiomjdk/news/1022324/?utm_campaign=1022324&utm_source=habrahabr&utm_medium=rss)
+- [В WhatsApp** ответили на критику Дурова по поводу попытки совместить удобство и безопасность в одном типе чатов](https://habr.com/ru/news/1022414/?utm_campaign=1022414&utm_source=habrahabr&utm_medium=rss)
 - [Релиз текстового редактора GNU nano 9.0](https://habr.com/ru/news/1022046/?utm_campaign=1022046&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку XSLT в Edge](https://habr.com/ru/news/1022100/?utm_campaign=1022100&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.4 Pro впервые решила задачу из «зелёного списка» Бена Грина](https://habr.com/ru/news/1022382/?utm_campaign=1022382&utm_source=habrahabr&utm_medium=rss)
-- [Минус 17% за день: новый сервис Anthropic обвалил облачных гигантов](https://habr.com/ru/news/1022370/?utm_campaign=1022370&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Telega: хостинг-провайдер Cloudflare снял пометку «шпионское ПО» &lpar;Spyware&rpar; с доменов проекта](https://habr.com/ru/news/1022308/?utm_campaign=1022308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
