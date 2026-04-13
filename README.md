@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Рейтинг языков программирования TIOBE за апрель 2026: С закрепился на втором месте, доля Python снижается](https://habr.com/ru/news/1022644/?utm_campaign=1022644&utm_source=habrahabr&utm_medium=rss)
+- [«Роскосмос» передал «Яндексу» фотоархивы для обучения ИИ-моделей Alice AI](https://habr.com/ru/news/1022640/?utm_campaign=1022640&utm_source=habrahabr&utm_medium=rss)
+- [Дуров заверил, что очень личная информация в безопасности при использовании Telegram](https://habr.com/ru/news/1022638/?utm_campaign=1022638&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 7.0](https://habr.com/ru/news/1022552/?utm_campaign=1022552&utm_source=habrahabr&utm_medium=rss)
 - [Обновлён открытый кроссплатформенный проект AltSendme 0.3.5 для конфиденциальной одноранговой передачи файлов](https://habr.com/ru/news/1022338/?utm_campaign=1022338&utm_source=habrahabr&utm_medium=rss)
-- [Вышел в релиз Microsoft Agent Framework](https://habr.com/ru/news/1022612/?utm_campaign=1022612&utm_source=habrahabr&utm_medium=rss)
-- [Apple готовит AI-очки в четырех дизайнах — выход в 2027-м](https://habr.com/ru/news/1022600/?utm_campaign=1022600&utm_source=habrahabr&utm_medium=rss)
-- [Meta* переманила трех топ-менеджеров Stargate — а дата-центр в Великобритании поставлен на паузу](https://habr.com/ru/news/1022570/?utm_campaign=1022570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
