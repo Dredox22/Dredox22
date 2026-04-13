@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows позволила форматировать диски FAT32 до 2 ТБ через командную строку](https://habr.com/ru/news/1022812/?utm_campaign=1022812&utm_source=habrahabr&utm_medium=rss)
-- [Blizzard позволила пользователям Battle.net из России и Беларуси сменить регион самостоятельно](https://habr.com/ru/news/1022806/?utm_campaign=1022806&utm_source=habrahabr&utm_medium=rss)
-- [Atlassian запустила инструменты визуального ИИ и сторонние ИИ-агенты в Confluence](https://habr.com/ru/news/1022794/?utm_campaign=1022794&utm_source=habrahabr&utm_medium=rss)
-- [Пока США и Китай соревнуются в LLM, Япония строит супергиганта для физического ИИ](https://habr.com/ru/news/1022796/?utm_campaign=1022796&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic интегрирует Claude во все основные приложения Office](https://habr.com/ru/companies/bothub/news/1022776/?utm_campaign=1022776&utm_source=habrahabr&utm_medium=rss)
+- [Встреча системных аналитиков | Синимекс х ГК «Юзтех» х ИнфоТеКС](https://habr.com/ru/companies/cinimex/news/1022952/?utm_campaign=1022952&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1022946/?utm_campaign=1022946&utm_source=habrahabr&utm_medium=rss)
+- [ИИ в корпоративной разработке: Джеймикс офлайн митап в Москве](https://habr.com/ru/companies/haulmont/news/1022940/?utm_campaign=1022940&utm_source=habrahabr&utm_medium=rss)
+- [В Max отвергают сообщения о доступе к звонкам пользователей](https://habr.com/ru/news/1022936/?utm_campaign=1022936&utm_source=habrahabr&utm_medium=rss)
+- [Марк Цукерберг создаёт себе ИИ-двойника, который будет общаться с подчинёнными за него](https://habr.com/ru/companies/bothub/news/1022924/?utm_campaign=1022924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
