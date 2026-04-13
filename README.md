@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ошеломляющий прогресс»: Карпати пояснил, почему рывок ИИ виден только в коде и математике](https://habr.com/ru/news/1022660/?utm_campaign=1022660&utm_source=habrahabr&utm_medium=rss)
+- [«Самая способная кибермодель, которую мы оценивали»: британские власти созывают совещание из-за Claude Mythos](https://habr.com/ru/news/1022650/?utm_campaign=1022650&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг языков программирования TIOBE за апрель 2026: С закрепился на втором месте, доля Python снижается](https://habr.com/ru/news/1022644/?utm_campaign=1022644&utm_source=habrahabr&utm_medium=rss)
 - [«Роскосмос» передал «Яндексу» фотоархивы для обучения ИИ-моделей Alice AI](https://habr.com/ru/news/1022640/?utm_campaign=1022640&utm_source=habrahabr&utm_medium=rss)
 - [Дуров заверил, что очень личная информация в безопасности при использовании Telegram](https://habr.com/ru/news/1022638/?utm_campaign=1022638&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 7.0](https://habr.com/ru/news/1022552/?utm_campaign=1022552&utm_source=habrahabr&utm_medium=rss)
-- [Обновлён открытый кроссплатформенный проект AltSendme 0.3.5 для конфиденциальной одноранговой передачи файлов](https://habr.com/ru/news/1022338/?utm_campaign=1022338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
