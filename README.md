@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ошеломляющий прогресс»: Карпати пояснил, почему рывок ИИ виден только в коде и математике](https://habr.com/ru/news/1022660/?utm_campaign=1022660&utm_source=habrahabr&utm_medium=rss)
-- [«Самая способная кибермодель, которую мы оценивали»: британские власти созывают совещание из-за Claude Mythos](https://habr.com/ru/news/1022650/?utm_campaign=1022650&utm_source=habrahabr&utm_medium=rss)
-- [Рейтинг языков программирования TIOBE за апрель 2026: С закрепился на втором месте, доля Python снижается](https://habr.com/ru/news/1022644/?utm_campaign=1022644&utm_source=habrahabr&utm_medium=rss)
-- [«Роскосмос» передал «Яндексу» фотоархивы для обучения ИИ-моделей Alice AI](https://habr.com/ru/news/1022640/?utm_campaign=1022640&utm_source=habrahabr&utm_medium=rss)
-- [Дуров заверил, что очень личная информация в безопасности при использовании Telegram](https://habr.com/ru/news/1022638/?utm_campaign=1022638&utm_source=habrahabr&utm_medium=rss)
+- [Пока США и Китай соревнуются в LLM, Япония строит супергиганта для физического ИИ](https://habr.com/ru/news/1022796/?utm_campaign=1022796&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic интегрирует Claude во все основные приложения Office](https://habr.com/ru/companies/bothub/news/1022776/?utm_campaign=1022776&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft просто переименует Copilot в Windows 11](https://habr.com/ru/news/1022758/?utm_campaign=1022758&utm_source=habrahabr&utm_medium=rss)
+- [Первый осужденный по закону Take It Down Act после ареста продолжал создавать дипфейки](https://habr.com/ru/news/1022102/?utm_campaign=1022102&utm_source=habrahabr&utm_medium=rss)
+- [Apple убрала чешский символ из клавиатуры на экране блокировки и заблокировала пароли к iPhone](https://habr.com/ru/news/1022722/?utm_campaign=1022722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
