@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows позволила форматировать диски FAT32 до 2 ТБ через командную строку](https://habr.com/ru/news/1022812/?utm_campaign=1022812&utm_source=habrahabr&utm_medium=rss)
+- [Blizzard позволила пользователям Battle.net из России и Беларуси сменить регион самостоятельно](https://habr.com/ru/news/1022806/?utm_campaign=1022806&utm_source=habrahabr&utm_medium=rss)
+- [Atlassian запустила инструменты визуального ИИ и сторонние ИИ-агенты в Confluence](https://habr.com/ru/news/1022794/?utm_campaign=1022794&utm_source=habrahabr&utm_medium=rss)
 - [Пока США и Китай соревнуются в LLM, Япония строит супергиганта для физического ИИ](https://habr.com/ru/news/1022796/?utm_campaign=1022796&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic интегрирует Claude во все основные приложения Office](https://habr.com/ru/companies/bothub/news/1022776/?utm_campaign=1022776&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft просто переименует Copilot в Windows 11](https://habr.com/ru/news/1022758/?utm_campaign=1022758&utm_source=habrahabr&utm_medium=rss)
-- [Первый осужденный по закону Take It Down Act после ареста продолжал создавать дипфейки](https://habr.com/ru/news/1022102/?utm_campaign=1022102&utm_source=habrahabr&utm_medium=rss)
-- [Apple убрала чешский символ из клавиатуры на экране блокировки и заблокировала пароли к iPhone](https://habr.com/ru/news/1022722/?utm_campaign=1022722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
