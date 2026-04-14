@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Кремль может повременить c ограничениями интернета на фоне падения рейтинга Путина](https://habr.com/ru/news/1023474/?utm_campaign=1023474&utm_source=habrahabr&utm_medium=rss)
+- [AI-специалисты массово возвращаются из США в Китай](https://habr.com/ru/companies/bothub/news/1023462/?utm_campaign=1023462&utm_source=habrahabr&utm_medium=rss)
+- [Студия Watt показала первый геймплейный ролик игры Tsarevna](https://habr.com/ru/news/1023512/?utm_campaign=1023512&utm_source=habrahabr&utm_medium=rss)
+- [Страх и вранье: топ-менеджер OpenAI раскритиковала Anthropic в утекшем меморандуме](https://habr.com/ru/news/1023480/?utm_campaign=1023480&utm_source=habrahabr&utm_medium=rss)
 - [Agent Cloud: платформа для внедрения ИИ-агентов от OpenAI и Cloudflare](https://habr.com/ru/companies/bothub/news/1023460/?utm_campaign=1023460&utm_source=habrahabr&utm_medium=rss)
 - [712‑й на связи](https://habr.com/ru/news/1023454/?utm_campaign=1023454&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI купила AI-планировщик личных финансов Hiro](https://habr.com/ru/companies/bothub/news/1023436/?utm_campaign=1023436&utm_source=habrahabr&utm_medium=rss)
-- [Unicorn в новой оболочке: анализ свежей атаки группы](https://habr.com/ru/companies/F6/news/1023428/?utm_campaign=1023428&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
