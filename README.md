@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизация складов: подходы, ошибки и опыт внедрений — разговор в эфире телеканала «ПроБизнес» + видео](https://habr.com/ru/companies/intekey/news/1023160/?utm_campaign=1023160&utm_source=habrahabr&utm_medium=rss)
-- [Трое из трех: ИИ-агент CodeWall вскрыл всю «Большую тройку» консалтинга](https://habr.com/ru/news/1023158/?utm_campaign=1023158&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Muse Spark, ChatGPT Pro за $100 и миф, ставший реальностью](https://habr.com/ru/news/1023000/?utm_campaign=1023000&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: ИИ в России должен работать с ограничениями](https://habr.com/ru/news/1023138/?utm_campaign=1023138&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Cursor 3.1: параллельные агенты в одном окне и новый голосовой ввод](https://habr.com/ru/news/1023136/?utm_campaign=1023136&utm_source=habrahabr&utm_medium=rss)
+- [«Инфраструктура 2030»: «Инфосистемы Джет» представит концепцию ИТ-инфраструктуры в условиях сбоев и изменений](https://habr.com/ru/companies/jetinfosystems/news/1023212/?utm_campaign=1023212&utm_source=habrahabr&utm_medium=rss)
+- [WBCE 2026: приходите посмотреть, чем живет автоматизация](https://habr.com/ru/companies/wirenboard/news/1023204/?utm_campaign=1023204&utm_source=habrahabr&utm_medium=rss)
+- [ИИ пишет код на уровне людей, но не умеет читать часы: Стэнфорд выпустил AI Index 2026](https://habr.com/ru/news/1023202/?utm_campaign=1023202&utm_source=habrahabr&utm_medium=rss)
+- [В России обсуждают создание национальной новостной платформы на базе Дзена](https://habr.com/ru/companies/bothub/news/1023196/?utm_campaign=1023196&utm_source=habrahabr&utm_medium=rss)
+- [70 страниц Slack: что Суцкевер собрал на Альтмана перед увольнением 2023-го](https://habr.com/ru/news/1023182/?utm_campaign=1023182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
