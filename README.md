@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Тренды ИБ 2026: прошлогодний опыт сделал кибербезопасность базовым условием операционной устойчивости бизнеса](https://habr.com/ru/companies/k2tech/news/1023290/?utm_campaign=1023290&utm_source=habrahabr&utm_medium=rss)
-- [DeepMind наняла философа, чтобы подготовиться к AGI](https://habr.com/ru/news/1023284/?utm_campaign=1023284&utm_source=habrahabr&utm_medium=rss)
-- [Adobe устранила критический баг в Acrobat Reader](https://habr.com/ru/news/1023268/?utm_campaign=1023268&utm_source=habrahabr&utm_medium=rss)
-- [«Инфраструктура 2030»: «Инфосистемы Джет» представит концепцию ИТ-инфраструктуры в условиях сбоев и изменений](https://habr.com/ru/companies/jetinfosystems/news/1023212/?utm_campaign=1023212&utm_source=habrahabr&utm_medium=rss)
-- [WBCE 2026: приходите посмотреть, чем живет автоматизация](https://habr.com/ru/companies/wirenboard/news/1023204/?utm_campaign=1023204&utm_source=habrahabr&utm_medium=rss)
+- [Waveshare представила PocketTerm35 — карманный Linux-терминал на базе Raspberry Pi](https://habr.com/ru/news/1023410/?utm_campaign=1023410&utm_source=habrahabr&utm_medium=rss)
+- [Хакер украл $1 млн у британской энергетической компании, перенаправив платёж](https://habr.com/ru/news/1023396/?utm_campaign=1023396&utm_source=habrahabr&utm_medium=rss)
+- [Митап для 1С-разработчиков и аналитиков о практиках, производительности и CI/CD](https://habr.com/ru/companies/ozontech/news/1023392/?utm_campaign=1023392&utm_source=habrahabr&utm_medium=rss)
+- [Власти могут ослабить блокировку Telegram, чтобы снизить «напряжение» и недовольство](https://habr.com/ru/news/1023380/?utm_campaign=1023380&utm_source=habrahabr&utm_medium=rss)
+- [Тренажёр подготовки к ЕГЭ заработал на «Госуслугах», пока там два предмета: математика базового уровня и информатика](https://habr.com/ru/news/1023348/?utm_campaign=1023348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
