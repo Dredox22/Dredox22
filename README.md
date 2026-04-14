@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Waveshare представила PocketTerm35 — карманный Linux-терминал на базе Raspberry Pi](https://habr.com/ru/news/1023410/?utm_campaign=1023410&utm_source=habrahabr&utm_medium=rss)
-- [Хакер украл $1 млн у британской энергетической компании, перенаправив платёж](https://habr.com/ru/news/1023396/?utm_campaign=1023396&utm_source=habrahabr&utm_medium=rss)
-- [Митап для 1С-разработчиков и аналитиков о практиках, производительности и CI/CD](https://habr.com/ru/companies/ozontech/news/1023392/?utm_campaign=1023392&utm_source=habrahabr&utm_medium=rss)
-- [Власти могут ослабить блокировку Telegram, чтобы снизить «напряжение» и недовольство](https://habr.com/ru/news/1023380/?utm_campaign=1023380&utm_source=habrahabr&utm_medium=rss)
-- [Тренажёр подготовки к ЕГЭ заработал на «Госуслугах», пока там два предмета: математика базового уровня и информатика](https://habr.com/ru/news/1023348/?utm_campaign=1023348&utm_source=habrahabr&utm_medium=rss)
+- [Кремль может повременить c ограничениями интернета на фоне падения рейтинга Путина](https://habr.com/ru/news/1023474/?utm_campaign=1023474&utm_source=habrahabr&utm_medium=rss)
+- [Agent Cloud: платформа для внедрения ИИ-агентов от OpenAI и Cloudflare](https://habr.com/ru/companies/bothub/news/1023460/?utm_campaign=1023460&utm_source=habrahabr&utm_medium=rss)
+- [712‑й на связи](https://habr.com/ru/news/1023454/?utm_campaign=1023454&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI купила AI-планировщик личных финансов Hiro](https://habr.com/ru/companies/bothub/news/1023436/?utm_campaign=1023436&utm_source=habrahabr&utm_medium=rss)
+- [Unicorn в новой оболочке: анализ свежей атаки группы](https://habr.com/ru/companies/F6/news/1023428/?utm_campaign=1023428&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
