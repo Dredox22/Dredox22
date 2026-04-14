@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-специалисты массово возвращаются из США в Китай](https://habr.com/ru/companies/bothub/news/1023462/?utm_campaign=1023462&utm_source=habrahabr&utm_medium=rss)
-- [Студия Watt показала первый геймплейный ролик игры Tsarevna](https://habr.com/ru/news/1023512/?utm_campaign=1023512&utm_source=habrahabr&utm_medium=rss)
-- [Страх и вранье: топ-менеджер OpenAI раскритиковала Anthropic в утекшем меморандуме](https://habr.com/ru/news/1023480/?utm_campaign=1023480&utm_source=habrahabr&utm_medium=rss)
-- [Agent Cloud: платформа для внедрения ИИ-агентов от OpenAI и Cloudflare](https://habr.com/ru/companies/bothub/news/1023460/?utm_campaign=1023460&utm_source=habrahabr&utm_medium=rss)
-- [712‑й на связи](https://habr.com/ru/news/1023454/?utm_campaign=1023454&utm_source=habrahabr&utm_medium=rss)
+- [Очередной прорыв в майнкрафтостроении: опубликован алгоритм локального моделирования дождевой эрозии](https://habr.com/ru/news/1023558/?utm_campaign=1023558&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры создали чип, способный выдержать условия на Венере](https://habr.com/ru/news/1023546/?utm_campaign=1023546&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики назвали дату выхода экшен-RPG «Былина»](https://habr.com/ru/news/1023544/?utm_campaign=1023544&utm_source=habrahabr&utm_medium=rss)
+- [Инвесторы сомневаются в стратегии OpenAI на фоне роста Anthropic](https://habr.com/ru/companies/bothub/news/1023536/?utm_campaign=1023536&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic обсуждает мораль и религию для Claude с христианскими лидерами](https://habr.com/ru/companies/bothub/news/1023528/?utm_campaign=1023528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
