@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик нашёл способ удалять метки SynthID с AI-изображений](https://habr.com/ru/news/1023580/?utm_campaign=1023580&utm_source=habrahabr&utm_medium=rss)
+- [Claude Opus 4.7 может выйти на этой неделе — а акции Figma уже упали на 6%](https://habr.com/ru/news/1023568/?utm_campaign=1023568&utm_source=habrahabr&utm_medium=rss)
 - [Очередной прорыв в майнкрафтостроении: опубликован алгоритм локального моделирования дождевой эрозии](https://habr.com/ru/news/1023558/?utm_campaign=1023558&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры создали чип, способный выдержать условия на Венере](https://habr.com/ru/news/1023546/?utm_campaign=1023546&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики назвали дату выхода экшен-RPG «Былина»](https://habr.com/ru/news/1023544/?utm_campaign=1023544&utm_source=habrahabr&utm_medium=rss)
-- [Инвесторы сомневаются в стратегии OpenAI на фоне роста Anthropic](https://habr.com/ru/companies/bothub/news/1023536/?utm_campaign=1023536&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic обсуждает мораль и религию для Claude с христианскими лидерами](https://habr.com/ru/companies/bothub/news/1023528/?utm_campaign=1023528&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
