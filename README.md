@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен выпуск браузерного движка Servo 0.1.0, написанного на Rust](https://habr.com/ru/news/1022986/?utm_campaign=1022986&utm_source=habrahabr&utm_medium=rss)
 - [Представлен свободный Linux-дистрибутив Trisquel 12.0](https://habr.com/ru/news/1022540/?utm_campaign=1022540&utm_source=habrahabr&utm_medium=rss)
 - [«Вайб-кодинг работает, и мне это не нравится»: журналист Register о 7 неделях с Claude Code](https://habr.com/ru/news/1023072/?utm_campaign=1023072&utm_source=habrahabr&utm_medium=rss)
 - [Claude Mythos первым справился со взломом, на который уходит 20 часов](https://habr.com/ru/news/1023044/?utm_campaign=1023044&utm_source=habrahabr&utm_medium=rss)
 - [Для удаления утилиты Samsung Magician надо сделать 18 действий и дважды перезагрузить компьютер](https://habr.com/ru/news/1023026/?utm_campaign=1023026&utm_source=habrahabr&utm_medium=rss)
-- [«Диагностика-М» расширила базу данных и повысила точность ИИ в интроскопах для досмотра](https://habr.com/ru/news/1023014/?utm_campaign=1023014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
