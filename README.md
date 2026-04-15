@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code научился программировать в стиле Карпати. У скилла почти 37 тысяч звезд на GitHub](https://habr.com/ru/news/1023642/?utm_campaign=1023642&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс принял в ядро Linux 7.1 патч на начальное удаление поддержки процессоров i486](https://habr.com/ru/news/1023628/?utm_campaign=1023628&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.4-Cyber умеет разбирать бинарники: OpenAI выпустила модель для тестирования киберугроз](https://habr.com/ru/news/1023622/?utm_campaign=1023622&utm_source=habrahabr&utm_medium=rss)
-- [Вышел nginx 1.30](https://habr.com/ru/news/1023616/?utm_campaign=1023616&utm_source=habrahabr&utm_medium=rss)
-- [Вышел продвинутый менеджер буфера обмена с опциями редактирования CopyQ 15.0](https://habr.com/ru/news/1023376/?utm_campaign=1023376&utm_source=habrahabr&utm_medium=rss)
+- [Генпрокурор РФ: внесудебный доступ к базе смартфонов упростит работу ведомств, но нарушать конституционные права нельзя](https://habr.com/ru/news/1023698/?utm_campaign=1023698&utm_source=habrahabr&utm_medium=rss)
+- [Умные часы Samsung стали быстрее разряжаться после обновления ПО](https://habr.com/ru/news/1023692/?utm_campaign=1023692&utm_source=habrahabr&utm_medium=rss)
+- [В Claude Code появились routines для автоматизации задач разработки](https://habr.com/ru/companies/otus/news/1023684/?utm_campaign=1023684&utm_source=habrahabr&utm_medium=rss)
+- [Импортозамещение IdM в ВТБ: как банк перешел с OIM на Solar inRights](https://habr.com/ru/companies/solarsecurity/news/1023678/?utm_campaign=1023678&utm_source=habrahabr&utm_medium=rss)
+- [Оптоволокно оказалось возможно перепрофилировать в высокочувствительные подслушивающие устройства](https://habr.com/ru/news/1023674/?utm_campaign=1023674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
