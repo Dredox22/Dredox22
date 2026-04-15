@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел nginx 1.30](https://habr.com/ru/news/1023616/?utm_campaign=1023616&utm_source=habrahabr&utm_medium=rss)
+- [Вышел продвинутый менеджер буфера обмена с опциями редактирования CopyQ 15.0](https://habr.com/ru/news/1023376/?utm_campaign=1023376&utm_source=habrahabr&utm_medium=rss)
 - [В команде OpenBSD решили переименовать поле в pfsync после ложного отчёта от ИИ об уязвимости в коде](https://habr.com/ru/news/1023114/?utm_campaign=1023114&utm_source=habrahabr&utm_medium=rss)
 - [Релиз DaVinci Resolve 21.0](https://habr.com/ru/news/1023142/?utm_campaign=1023142&utm_source=habrahabr&utm_medium=rss)
 - [Booking.com предупредил пользователей об утечке данных](https://habr.com/ru/news/1023086/?utm_campaign=1023086&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик нашёл способ удалять метки SynthID с AI-изображений](https://habr.com/ru/news/1023580/?utm_campaign=1023580&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 4.7 может выйти на этой неделе — а акции Figma уже упали на 6%](https://habr.com/ru/news/1023568/?utm_campaign=1023568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
