@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA выпустила открытый ИИ для управления квантовыми компьютерами](https://habr.com/ru/news/1023950/?utm_campaign=1023950&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba перевела Qwen Code на платную модель с 15 апреля](https://habr.com/ru/news/1023936/?utm_campaign=1023936&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого инструмента для сетевого мониторинга Sniffnet 1.5.0](https://habr.com/ru/news/1023918/?utm_campaign=1023918&utm_source=habrahabr&utm_medium=rss)
 - [«Сжигай токены ещё быстрее»: Anthropic перекроил десктоп Claude Code](https://habr.com/ru/news/1023910/?utm_campaign=1023910&utm_source=habrahabr&utm_medium=rss)
 - [Vibe-coding под замком: Apple против инструментов разработки на базе ИИ](https://habr.com/ru/news/1023898/?utm_campaign=1023898&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила нативное приложение-поисковик для Windows](https://habr.com/ru/news/1023890/?utm_campaign=1023890&utm_source=habrahabr&utm_medium=rss)
-- [Amazon купила Globalstar за $11,6 млрд](https://habr.com/ru/news/1023882/?utm_campaign=1023882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
