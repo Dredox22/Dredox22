@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nothing выпустила Warp — приложение для обмена файлами между Android-смартфонами и компьютерами, но быстро удалила его](https://habr.com/ru/news/1023974/?utm_campaign=1023974&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление безопасности Raspberry Pi OS: в системе по умолчанию отключили sudo без ввода пароля](https://habr.com/ru/news/1023970/?utm_campaign=1023970&utm_source=habrahabr&utm_medium=rss)
+- [«Компьютер начинает работать на человека»: президент OpenAI о новой экономике](https://habr.com/ru/news/1023968/?utm_campaign=1023968&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA выпустила открытый ИИ для управления квантовыми компьютерами](https://habr.com/ru/news/1023950/?utm_campaign=1023950&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba перевела Qwen Code на платную модель с 15 апреля](https://habr.com/ru/news/1023936/?utm_campaign=1023936&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструмента для сетевого мониторинга Sniffnet 1.5.0](https://habr.com/ru/news/1023918/?utm_campaign=1023918&utm_source=habrahabr&utm_medium=rss)
-- [«Сжигай токены ещё быстрее»: Anthropic перекроил десктоп Claude Code](https://habr.com/ru/news/1023910/?utm_campaign=1023910&utm_source=habrahabr&utm_medium=rss)
-- [Vibe-coding под замком: Apple против инструментов разработки на базе ИИ](https://habr.com/ru/news/1023898/?utm_campaign=1023898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
