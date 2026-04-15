@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code научился программировать в стиле Карпати. У скилла почти 37 тысяч звезд на GitHub](https://habr.com/ru/news/1023642/?utm_campaign=1023642&utm_source=habrahabr&utm_medium=rss)
+- [Торвальдс принял в ядро Linux 7.1 патч на начальное удаление поддержки процессоров i486](https://habr.com/ru/news/1023628/?utm_campaign=1023628&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.4-Cyber умеет разбирать бинарники: OpenAI выпустила модель для тестирования киберугроз](https://habr.com/ru/news/1023622/?utm_campaign=1023622&utm_source=habrahabr&utm_medium=rss)
 - [Вышел nginx 1.30](https://habr.com/ru/news/1023616/?utm_campaign=1023616&utm_source=habrahabr&utm_medium=rss)
 - [Вышел продвинутый менеджер буфера обмена с опциями редактирования CopyQ 15.0](https://habr.com/ru/news/1023376/?utm_campaign=1023376&utm_source=habrahabr&utm_medium=rss)
-- [В команде OpenBSD решили переименовать поле в pfsync после ложного отчёта от ИИ об уязвимости в коде](https://habr.com/ru/news/1023114/?utm_campaign=1023114&utm_source=habrahabr&utm_medium=rss)
-- [Релиз DaVinci Resolve 21.0](https://habr.com/ru/news/1023142/?utm_campaign=1023142&utm_source=habrahabr&utm_medium=rss)
-- [Booking.com предупредил пользователей об утечке данных](https://habr.com/ru/news/1023086/?utm_campaign=1023086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
