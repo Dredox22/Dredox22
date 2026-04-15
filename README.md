@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google выпустил AI-поиск для Windows с доступом к экрану и файлам](https://habr.com/ru/companies/otus/news/1023748/?utm_campaign=1023748&utm_source=habrahabr&utm_medium=rss)
-- [Сливы поставили на паузу: количество публикаций утечек баз данных уменьшилось на 5% из-за блокировок в Telegram](https://habr.com/ru/companies/F6/news/1023742/?utm_campaign=1023742&utm_source=habrahabr&utm_medium=rss)
-- [Yandex B2B Tech запустила Академию Yandex AI Studio](https://habr.com/ru/news/1023726/?utm_campaign=1023726&utm_source=habrahabr&utm_medium=rss)
-- [Компания Niantic создаёт 3D-модель мира, чтобы помочь роботам лучше ориентироваться](https://habr.com/ru/news/1023728/?utm_campaign=1023728&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.4 Pro решила задачу Эрдёша приемом, который не заметили математики. Теренс Тао уже строит новую теорию](https://habr.com/ru/news/1023716/?utm_campaign=1023716&utm_source=habrahabr&utm_medium=rss)
+- [State of Java 2026: собираем актуальную картину по Java в России](https://habr.com/ru/companies/haulmont/news/1023770/?utm_campaign=1023770&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления пакета маршрутизации OpenBGPD 9.1](https://habr.com/ru/news/1023228/?utm_campaign=1023228&utm_source=habrahabr&utm_medium=rss)
+- [UserGate обновил сертификат ФСТЭК на свой флагманский продукт](https://habr.com/ru/companies/usergate/news/1023758/?utm_campaign=1023758&utm_source=habrahabr&utm_medium=rss)
+- [Поддержка Office LTSC 2021 закончится в октябре 2026 года](https://habr.com/ru/news/1023754/?utm_campaign=1023754&utm_source=habrahabr&utm_medium=rss)
+- [EFF призывает отклонить закон об использовании сертифицированного государством ПО на 3D-принтерах](https://habr.com/ru/news/1023746/?utm_campaign=1023746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
