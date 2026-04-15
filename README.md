@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Генпрокурор РФ: внесудебный доступ к базе смартфонов упростит работу ведомств, но нарушать конституционные права нельзя](https://habr.com/ru/news/1023698/?utm_campaign=1023698&utm_source=habrahabr&utm_medium=rss)
-- [Умные часы Samsung стали быстрее разряжаться после обновления ПО](https://habr.com/ru/news/1023692/?utm_campaign=1023692&utm_source=habrahabr&utm_medium=rss)
-- [В Claude Code появились routines для автоматизации задач разработки](https://habr.com/ru/companies/otus/news/1023684/?utm_campaign=1023684&utm_source=habrahabr&utm_medium=rss)
-- [Импортозамещение IdM в ВТБ: как банк перешел с OIM на Solar inRights](https://habr.com/ru/companies/solarsecurity/news/1023678/?utm_campaign=1023678&utm_source=habrahabr&utm_medium=rss)
-- [Оптоволокно оказалось возможно перепрофилировать в высокочувствительные подслушивающие устройства](https://habr.com/ru/news/1023674/?utm_campaign=1023674&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустил AI-поиск для Windows с доступом к экрану и файлам](https://habr.com/ru/companies/otus/news/1023748/?utm_campaign=1023748&utm_source=habrahabr&utm_medium=rss)
+- [Сливы поставили на паузу: количество публикаций утечек баз данных уменьшилось на 5% из-за блокировок в Telegram](https://habr.com/ru/companies/F6/news/1023742/?utm_campaign=1023742&utm_source=habrahabr&utm_medium=rss)
+- [Yandex B2B Tech запустила Академию Yandex AI Studio](https://habr.com/ru/news/1023726/?utm_campaign=1023726&utm_source=habrahabr&utm_medium=rss)
+- [Компания Niantic создаёт 3D-модель мира, чтобы помочь роботам лучше ориентироваться](https://habr.com/ru/news/1023728/?utm_campaign=1023728&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.4 Pro решила задачу Эрдёша приемом, который не заметили математики. Теренс Тао уже строит новую теорию](https://habr.com/ru/news/1023716/?utm_campaign=1023716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
