@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe-coding под замком: Apple против инструментов разработки на базе ИИ](https://habr.com/ru/news/1023898/?utm_campaign=1023898&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила нативное приложение-поисковик для Windows](https://habr.com/ru/news/1023890/?utm_campaign=1023890&utm_source=habrahabr&utm_medium=rss)
+- [Amazon купила Globalstar за $11,6 млрд](https://habr.com/ru/news/1023882/?utm_campaign=1023882&utm_source=habrahabr&utm_medium=rss)
 - [ЛидерТаск 15 апреля: продуктивность, смарт инпут и голос в текст](https://habr.com/ru/companies/leadertask/news/1023826/?utm_campaign=1023826&utm_source=habrahabr&utm_medium=rss)
 - [GlowByte приглашает на вебинар «Производственное планирование»](https://habr.com/ru/companies/glowbyte/news/1023858/?utm_campaign=1023858&utm_source=habrahabr&utm_medium=rss)
-- [nanoNODE: автоматизация без кода в экосистеме nanoCAD](https://habr.com/ru/companies/nanosoft/news/1023832/?utm_campaign=1023832&utm_source=habrahabr&utm_medium=rss)
-- [State of Java 2026: собираем актуальную картину по Java в России](https://habr.com/ru/companies/haulmont/news/1023770/?utm_campaign=1023770&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления пакета маршрутизации OpenBGPD 9.1](https://habr.com/ru/news/1023228/?utm_campaign=1023228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
