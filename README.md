@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Claude Opus 4.7. Модель уже доступна в Veai для JetBrains IDE](https://habr.com/ru/companies/veai/news/1024340/?utm_campaign=1024340&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустила Claude Opus 4.7](https://habr.com/ru/companies/bothub/news/1024328/?utm_campaign=1024328&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Claude Opus 4.7 — втрое лучше видит, строже слушает инструкции](https://habr.com/ru/news/1024324/?utm_campaign=1024324&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустили Claude Opus 4.7](https://habr.com/ru/news/1024314/?utm_campaign=1024314&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры взломали крипторублёвую биржу Grinex и похитили более 1 млрд рублей](https://habr.com/ru/news/1024308/?utm_campaign=1024308&utm_source=habrahabr&utm_medium=rss)
-- [В скоростных поездах в Японии появятся окна со встроенными антеннами с 5G](https://habr.com/ru/news/1024260/?utm_campaign=1024260&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
