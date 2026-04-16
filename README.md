@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Уфе пройдет Фестиваль полезных игр](https://habr.com/ru/news/1024034/?utm_campaign=1024034&utm_source=habrahabr&utm_medium=rss)
-- [«Они роют себе могилу»: в Индии рабочие с камерами на голове обучают гуманоидных роботов](https://habr.com/ru/news/1024032/?utm_campaign=1024032&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: около 20 компаний, владеющих зарубежными каналами связи в РФ, подписали мораторий на их расширение](https://habr.com/ru/news/1024026/?utm_campaign=1024026&utm_source=habrahabr&utm_medium=rss)
-- [$11 млрд и 25 000 кастомных агентов: ИИ-агенты Harvey выполняют юридическую работу целиком](https://habr.com/ru/news/1024014/?utm_campaign=1024014&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект TagTinker — это исследовательский инструмент для управления электронными ценниками](https://habr.com/ru/news/1024002/?utm_campaign=1024002&utm_source=habrahabr&utm_medium=rss)
+- [С доставкой на дом: злоумышленники отправляют жертвам шпионское ПО LunaSpy вместе с мобильным телефоном](https://habr.com/ru/companies/F6/news/1024080/?utm_campaign=1024080&utm_source=habrahabr&utm_medium=rss)
+- [Подводные камни регулярных выражений: катастрофический возврат, ReDoS-атаки и выявление уязвимостей](https://habr.com/ru/companies/pvs-studio/news/1022910/?utm_campaign=1022910&utm_source=habrahabr&utm_medium=rss)
+- [В Meta* создают цифровую копию Марка Цукерберга, которая будет участвовать вместо него в собраниях и Q&amp;amp;A-сессиях](https://habr.com/ru/news/1024094/?utm_campaign=1024094&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic внедряет систему верификации личности пользователей](https://habr.com/ru/companies/bothub/news/1024092/?utm_campaign=1024092&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Карты» представили новое поколение навигации на общественном транспорте](https://habr.com/ru/news/1024086/?utm_campaign=1024086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
