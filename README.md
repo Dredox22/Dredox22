@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI выпустила GPT-Rosalind: модель для создания лекарств обошла 95% экспертов в задаче по РНК](https://habr.com/ru/news/1024378/?utm_campaign=1024378&utm_source=habrahabr&utm_medium=rss)
 - [Codex больше не про код: OpenAI добавила мышку, память и 90 плагинов](https://habr.com/ru/news/1024354/?utm_campaign=1024354&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Claude Opus 4.7. Модель уже доступна в Veai для JetBrains IDE](https://habr.com/ru/companies/veai/news/1024340/?utm_campaign=1024340&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустила Claude Opus 4.7](https://habr.com/ru/companies/bothub/news/1024328/?utm_campaign=1024328&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Claude Opus 4.7 — втрое лучше видит, строже слушает инструкции](https://habr.com/ru/news/1024324/?utm_campaign=1024324&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустили Claude Opus 4.7](https://habr.com/ru/news/1024314/?utm_campaign=1024314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
