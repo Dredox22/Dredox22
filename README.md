@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [С доставкой на дом: злоумышленники отправляют жертвам шпионское ПО LunaSpy вместе с мобильным телефоном](https://habr.com/ru/companies/F6/news/1024080/?utm_campaign=1024080&utm_source=habrahabr&utm_medium=rss)
-- [Подводные камни регулярных выражений: катастрофический возврат, ReDoS-атаки и выявление уязвимостей](https://habr.com/ru/companies/pvs-studio/news/1022910/?utm_campaign=1022910&utm_source=habrahabr&utm_medium=rss)
-- [В Meta* создают цифровую копию Марка Цукерберга, которая будет участвовать вместо него в собраниях и Q&amp;amp;A-сессиях](https://habr.com/ru/news/1024094/?utm_campaign=1024094&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic внедряет систему верификации личности пользователей](https://habr.com/ru/companies/bothub/news/1024092/?utm_campaign=1024092&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Карты» представили новое поколение навигации на общественном транспорте](https://habr.com/ru/news/1024086/?utm_campaign=1024086&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление инструмента мониторинга HWiNFO 8.46](https://habr.com/ru/news/1023848/?utm_campaign=1023848&utm_source=habrahabr&utm_medium=rss)
+- [В скоростных поездах в Японии появятся окна со встроенными антеннами с 5G](https://habr.com/ru/news/1024260/?utm_campaign=1024260&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3.1 Flash TTS: Google представила новую модель синтеза речи с управлением через текст](https://habr.com/ru/companies/otus/news/1024252/?utm_campaign=1024252&utm_source=habrahabr&utm_medium=rss)
+- [Google DeepMind выпустила Gemini 3.1 Flash TTS с управлением голосом через текст](https://habr.com/ru/companies/bothub/news/1024234/?utm_campaign=1024234&utm_source=habrahabr&utm_medium=rss)
+- [OpenNET: в Linux 7.1 приняты изменения, удаляющие поддержку контроллеров AHCI SATA и PCIe, применяемых в SoC Baikal-T1](https://habr.com/ru/news/1024218/?utm_campaign=1024218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
