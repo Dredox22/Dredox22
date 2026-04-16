@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект TagTinker — это исследовательский инструмент для управления электронными ценниками](https://habr.com/ru/news/1024002/?utm_campaign=1024002&utm_source=habrahabr&utm_medium=rss)
 - [Обновление сетевого монитора с открытым исходным кодом NetSpeedTray 1.3.0 для Windows 10/11](https://habr.com/ru/news/1023924/?utm_campaign=1023924&utm_source=habrahabr&utm_medium=rss)
 - [Вышла открытая криптографическая библиотека OpenSSL 4.0.0](https://habr.com/ru/news/1023620/?utm_campaign=1023620&utm_source=habrahabr&utm_medium=rss)
 - [Nothing выпустила Warp — приложение для обмена файлами между Android-смартфонами и компьютерами, но быстро удалила его](https://habr.com/ru/news/1023974/?utm_campaign=1023974&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление безопасности Raspberry Pi OS: в системе по умолчанию отключили sudo без ввода пароля](https://habr.com/ru/news/1023970/?utm_campaign=1023970&utm_source=habrahabr&utm_medium=rss)
-- [«Компьютер начинает работать на человека»: президент OpenAI о новой экономике](https://habr.com/ru/news/1023968/?utm_campaign=1023968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
