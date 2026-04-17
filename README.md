@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Postgres Pro Shardman 18.3.2: катастрофоустойчивость DRS и высокопроизводительная маршрутизация на стороне клиента](https://habr.com/ru/companies/postgrespro/news/1023884/?utm_campaign=1023884&utm_source=habrahabr&utm_medium=rss)
+- [Как понять, что корпоративный портал нужен сотрудникам? Посмотреть, что будет, если не перенести часть функций](https://habr.com/ru/companies/sminex_developer/news/1024706/?utm_campaign=1024706&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla анонсировала ИИ-клиента Thunderbolt](https://habr.com/ru/news/1024710/?utm_campaign=1024710&utm_source=habrahabr&utm_medium=rss)
+- [Google представила четвёртую бета‑версию Android 17](https://habr.com/ru/news/1024702/?utm_campaign=1024702&utm_source=habrahabr&utm_medium=rss)
 - [Европол провёл операцию против незаконных сервисов услуг DDoS-атак по заказу](https://habr.com/ru/news/1024694/?utm_campaign=1024694&utm_source=habrahabr&utm_medium=rss)
-- [Google улучшил AI Mode: открытие ссылок в боковой панели, ИИ-контекст из открытых вкладок](https://habr.com/ru/companies/bothub/news/1024682/?utm_campaign=1024682&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft позволила пропускать обязательные обновления для ускорения установки Windows 11](https://habr.com/ru/news/1024390/?utm_campaign=1024390&utm_source=habrahabr&utm_medium=rss)
-- [EvaTeam выпустила релиз EvaDev 2.32 «Краснодар»: более 40 новых возможностей для непрерывной разработки](https://habr.com/ru/companies/evateam/news/1024672/?utm_campaign=1024672&utm_source=habrahabr&utm_medium=rss)
-- [UserGate Client стал первым сертифицированным Host‑Based NAC в Беларуси среди российских программных продуктов](https://habr.com/ru/companies/usergate/news/1024670/?utm_campaign=1024670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
