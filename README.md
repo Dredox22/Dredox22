@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus взломал Chrome — а та же дыра сидит в Claude Desktop](https://habr.com/ru/news/1024860/?utm_campaign=1024860&utm_source=habrahabr&utm_medium=rss)
+- [Адвокат из Омахи попался на ИИ-галлюцинациях и был отстранен: 57 из 63 ссылок — выдумка](https://habr.com/ru/news/1024858/?utm_campaign=1024858&utm_source=habrahabr&utm_medium=rss)
 - [Утечка: DeepSeek V4 обходит Gemini 3.1 Pro, GPT-5.3 и Claude Opus 4.6 по всем 12 бенчмаркам](https://habr.com/ru/companies/bothub/news/1024848/?utm_campaign=1024848&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI: Codex автоматизировал всю дата-платформу – 600 ПБ, 70 000 датасетов и 3500 юзеров](https://habr.com/ru/companies/bothub/news/1024834/?utm_campaign=1024834&utm_source=habrahabr&utm_medium=rss)
 - [Приложение ЕС для проверки возраста пользователя «можно взломать за пару минут»](https://habr.com/ru/news/1024808/?utm_campaign=1024808&utm_source=habrahabr&utm_medium=rss)
-- [«20 промптов превратились в 2»: Anthropic запустил Claude Design](https://habr.com/ru/news/1024800/?utm_campaign=1024800&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Postgres Pro Shardman 18.3.2: катастрофоустойчивость DRS и высокопроизводительная маршрутизация на стороне клиента](https://habr.com/ru/companies/postgrespro/news/1023884/?utm_campaign=1023884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
