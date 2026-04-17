@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вернули приложение РСХБ для iOS в App Store и назвали новую версию ПРО Жарка](https://habr.com/ru/companies/rshb/news/1024616/?utm_campaign=1024616&utm_source=habrahabr&utm_medium=rss)
-- [Ollama оказался медленным и небезопасным – лучше брать оригинальный llama.cpp](https://habr.com/ru/companies/bothub/news/1024600/?utm_campaign=1024600&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla выпустила AI-клиент Thunderbolt — open-source альтернативу Copilot и ChatGPT Enterprise](https://habr.com/ru/news/1024596/?utm_campaign=1024596&utm_source=habrahabr&utm_medium=rss)
-- [Российские банки отключили от сервиса проверки подлинности паспортов](https://habr.com/ru/news/1024592/?utm_campaign=1024592&utm_source=habrahabr&utm_medium=rss)
-- [Изменения КИИ в 2026: от категорирования к системе контроля](https://habr.com/ru/companies/ussc/news/1024576/?utm_campaign=1024576&utm_source=habrahabr&utm_medium=rss)
+- [Европол провёл операцию против незаконных сервисов услуг DDoS-атак по заказу](https://habr.com/ru/news/1024694/?utm_campaign=1024694&utm_source=habrahabr&utm_medium=rss)
+- [Google улучшил AI Mode: открытие ссылок в боковой панели, ИИ-контекст из открытых вкладок](https://habr.com/ru/companies/bothub/news/1024682/?utm_campaign=1024682&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволила пропускать обязательные обновления для ускорения установки Windows 11](https://habr.com/ru/news/1024390/?utm_campaign=1024390&utm_source=habrahabr&utm_medium=rss)
+- [EvaTeam выпустила релиз EvaDev 2.32 «Краснодар»: более 40 новых возможностей для непрерывной разработки](https://habr.com/ru/companies/evateam/news/1024672/?utm_campaign=1024672&utm_source=habrahabr&utm_medium=rss)
+- [UserGate Client стал первым сертифицированным Host‑Based NAC в Беларуси среди российских программных продуктов](https://habr.com/ru/companies/usergate/news/1024670/?utm_campaign=1024670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
