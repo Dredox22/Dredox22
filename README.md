@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение ЕС для проверки возраста пользователя «можно взломать за пару минут»](https://habr.com/ru/news/1024808/?utm_campaign=1024808&utm_source=habrahabr&utm_medium=rss)
+- [«20 промптов превратились в 2»: Anthropic запустил Claude Design](https://habr.com/ru/news/1024800/?utm_campaign=1024800&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Postgres Pro Shardman 18.3.2: катастрофоустойчивость DRS и высокопроизводительная маршрутизация на стороне клиента](https://habr.com/ru/companies/postgrespro/news/1023884/?utm_campaign=1023884&utm_source=habrahabr&utm_medium=rss)
 - [Как понять, что корпоративный портал нужен сотрудникам? Посмотреть, что будет, если не перенести часть функций](https://habr.com/ru/companies/sminex_developer/news/1024706/?utm_campaign=1024706&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla анонсировала ИИ-клиента Thunderbolt](https://habr.com/ru/news/1024710/?utm_campaign=1024710&utm_source=habrahabr&utm_medium=rss)
-- [Google представила четвёртую бета‑версию Android 17](https://habr.com/ru/news/1024702/?utm_campaign=1024702&utm_source=habrahabr&utm_medium=rss)
-- [Европол провёл операцию против незаконных сервисов услуг DDoS-атак по заказу](https://habr.com/ru/news/1024694/?utm_campaign=1024694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
