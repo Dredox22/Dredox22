@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла сборка Zorin OS 18.1 на пакетной базе Ubuntu 24.04.4 LTS](https://habr.com/ru/news/1024018/?utm_campaign=1024018&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code теперь требует паспорт](https://habr.com/ru/news/1024400/?utm_campaign=1024400&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-Rosalind: модель для создания лекарств обошла 95% экспертов в задаче по РНК](https://habr.com/ru/news/1024378/?utm_campaign=1024378&utm_source=habrahabr&utm_medium=rss)
 - [Codex больше не про код: OpenAI добавила мышку, память и 90 плагинов](https://habr.com/ru/news/1024354/?utm_campaign=1024354&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Claude Opus 4.7. Модель уже доступна в Veai для JetBrains IDE](https://habr.com/ru/companies/veai/news/1024340/?utm_campaign=1024340&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустила Claude Opus 4.7](https://habr.com/ru/companies/bothub/news/1024328/?utm_campaign=1024328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
