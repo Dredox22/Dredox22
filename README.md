@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [RUVDS: для хостеров выявление операторов VPN означает переход из статуса «технического посредника» в статус «контролёра»](https://habr.com/ru/news/1024414/?utm_campaign=1024414&utm_source=habrahabr&utm_medium=rss)
+- [Юрист Фонда свободного ПО заявил о необоснованности претензий разработчиков OnlyOffice к создателям форка Euro-Office](https://habr.com/ru/news/1024348/?utm_campaign=1024348&utm_source=habrahabr&utm_medium=rss)
 - [Вышла сборка Zorin OS 18.1 на пакетной базе Ubuntu 24.04.4 LTS](https://habr.com/ru/news/1024018/?utm_campaign=1024018&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code теперь требует паспорт](https://habr.com/ru/news/1024400/?utm_campaign=1024400&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила GPT-Rosalind: модель для создания лекарств обошла 95% экспертов в задаче по РНК](https://habr.com/ru/news/1024378/?utm_campaign=1024378&utm_source=habrahabr&utm_medium=rss)
-- [Codex больше не про код: OpenAI добавила мышку, память и 90 плагинов](https://habr.com/ru/news/1024354/?utm_campaign=1024354&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Claude Opus 4.7. Модель уже доступна в Veai для JetBrains IDE](https://habr.com/ru/companies/veai/news/1024340/?utm_campaign=1024340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
