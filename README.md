@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Opus 4.7 галлюцинирует в два раза реже Opus 4.6 — при той же точности](https://habr.com/ru/news/1024450/?utm_campaign=1024450&utm_source=habrahabr&utm_medium=rss)
-- [«Код Дурова»: Telegram заработал в РФ как раньше — но только на Android и с оплаченным Premium и 7-8 перезагрузками ПО](https://habr.com/ru/news/1024448/?utm_campaign=1024448&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент сам взломал Samsung Smart TV: эксперимент OpenAI и Calif](https://habr.com/ru/news/1024436/?utm_campaign=1024436&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала помечать как вредоносный код альтернативный клиент Telegram под названием Telega](https://habr.com/ru/news/1024426/?utm_campaign=1024426&utm_source=habrahabr&utm_medium=rss)
-- [RUVDS: для хостеров выявление операторов VPN означает переход из статуса «технического посредника» в статус «контролёра»](https://habr.com/ru/news/1024414/?utm_campaign=1024414&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Telega дали совет по восстановлению доступа к приложению на iPhone](https://habr.com/ru/news/1024536/?utm_campaign=1024536&utm_source=habrahabr&utm_medium=rss)
+- [Gemini научили использовать Google Photos для создания персонализированных изображений](https://habr.com/ru/news/1024526/?utm_campaign=1024526&utm_source=habrahabr&utm_medium=rss)
+- [День производителя оборудования «Нанософт»](https://habr.com/ru/companies/nanosoft/news/1024528/?utm_campaign=1024528&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies научила нейросеть находить вирусы, «читая» файлы как текст](https://habr.com/ru/companies/pt/news/1024504/?utm_campaign=1024504&utm_source=habrahabr&utm_medium=rss)
+- [Современный Gradle для Java-разработчика: один модуль — хорошо, несколько — лучше](https://habr.com/ru/companies/pvs-studio/news/1024494/?utm_campaign=1024494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
