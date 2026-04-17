@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вернули приложение РСХБ для iOS в App Store и назвали новую версию ПРО Жарка](https://habr.com/ru/companies/rshb/news/1024616/?utm_campaign=1024616&utm_source=habrahabr&utm_medium=rss)
 - [Ollama оказался медленным и небезопасным – лучше брать оригинальный llama.cpp](https://habr.com/ru/companies/bothub/news/1024600/?utm_campaign=1024600&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla выпустила AI-клиент Thunderbolt — open-source альтернативу Copilot и ChatGPT Enterprise](https://habr.com/ru/news/1024596/?utm_campaign=1024596&utm_source=habrahabr&utm_medium=rss)
 - [Российские банки отключили от сервиса проверки подлинности паспортов](https://habr.com/ru/news/1024592/?utm_campaign=1024592&utm_source=habrahabr&utm_medium=rss)
 - [Изменения КИИ в 2026: от категорирования к системе контроля](https://habr.com/ru/companies/ussc/news/1024576/?utm_campaign=1024576&utm_source=habrahabr&utm_medium=rss)
-- [Финал НТО по разработке игр: названы имена победителей](https://habr.com/ru/news/1024572/?utm_campaign=1024572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
