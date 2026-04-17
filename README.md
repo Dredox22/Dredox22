@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Opus 4.7 галлюцинирует в два раза реже Opus 4.6 — при той же точности](https://habr.com/ru/news/1024450/?utm_campaign=1024450&utm_source=habrahabr&utm_medium=rss)
+- [«Код Дурова»: Telegram заработал в РФ как раньше — но только на Android и с оплаченным Premium и 7-8 перезагрузками ПО](https://habr.com/ru/news/1024448/?utm_campaign=1024448&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агент сам взломал Samsung Smart TV: эксперимент OpenAI и Calif](https://habr.com/ru/news/1024436/?utm_campaign=1024436&utm_source=habrahabr&utm_medium=rss)
+- [Apple начала помечать как вредоносный код альтернативный клиент Telegram под названием Telega](https://habr.com/ru/news/1024426/?utm_campaign=1024426&utm_source=habrahabr&utm_medium=rss)
 - [RUVDS: для хостеров выявление операторов VPN означает переход из статуса «технического посредника» в статус «контролёра»](https://habr.com/ru/news/1024414/?utm_campaign=1024414&utm_source=habrahabr&utm_medium=rss)
-- [Юрист Фонда свободного ПО заявил о необоснованности претензий разработчиков OnlyOffice к создателям форка Euro-Office](https://habr.com/ru/news/1024348/?utm_campaign=1024348&utm_source=habrahabr&utm_medium=rss)
-- [Вышла сборка Zorin OS 18.1 на пакетной базе Ubuntu 24.04.4 LTS](https://habr.com/ru/news/1024018/?utm_campaign=1024018&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code теперь требует паспорт](https://habr.com/ru/news/1024400/?utm_campaign=1024400&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT-Rosalind: модель для создания лекарств обошла 95% экспертов в задаче по РНК](https://habr.com/ru/news/1024378/?utm_campaign=1024378&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
