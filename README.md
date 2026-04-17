@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчики Telega дали совет по восстановлению доступа к приложению на iPhone](https://habr.com/ru/news/1024536/?utm_campaign=1024536&utm_source=habrahabr&utm_medium=rss)
-- [Gemini научили использовать Google Photos для создания персонализированных изображений](https://habr.com/ru/news/1024526/?utm_campaign=1024526&utm_source=habrahabr&utm_medium=rss)
-- [День производителя оборудования «Нанософт»](https://habr.com/ru/companies/nanosoft/news/1024528/?utm_campaign=1024528&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies научила нейросеть находить вирусы, «читая» файлы как текст](https://habr.com/ru/companies/pt/news/1024504/?utm_campaign=1024504&utm_source=habrahabr&utm_medium=rss)
-- [Современный Gradle для Java-разработчика: один модуль — хорошо, несколько — лучше](https://habr.com/ru/companies/pvs-studio/news/1024494/?utm_campaign=1024494&utm_source=habrahabr&utm_medium=rss)
+- [Ollama оказался медленным и небезопасным – лучше брать оригинальный llama.cpp](https://habr.com/ru/companies/bothub/news/1024600/?utm_campaign=1024600&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla выпустила AI-клиент Thunderbolt — open-source альтернативу Copilot и ChatGPT Enterprise](https://habr.com/ru/news/1024596/?utm_campaign=1024596&utm_source=habrahabr&utm_medium=rss)
+- [Российские банки отключили от сервиса проверки подлинности паспортов](https://habr.com/ru/news/1024592/?utm_campaign=1024592&utm_source=habrahabr&utm_medium=rss)
+- [Изменения КИИ в 2026: от категорирования к системе контроля](https://habr.com/ru/companies/ussc/news/1024576/?utm_campaign=1024576&utm_source=habrahabr&utm_medium=rss)
+- [Финал НТО по разработке игр: названы имена победителей](https://habr.com/ru/news/1024572/?utm_campaign=1024572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
