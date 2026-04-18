@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba vs Google: Qwen3.6-35B-A3B обходит Gemma 4-31B в кодинге, эрудиции и математике](https://habr.com/ru/companies/bothub/news/1025038/?utm_campaign=1025038&utm_source=habrahabr&utm_medium=rss)
+- [Opus 4.7 vs Opus 4.6 на Veai Agent Benchmark](https://habr.com/ru/companies/veai/news/1025024/?utm_campaign=1025024&utm_source=habrahabr&utm_medium=rss)
+- [«Т-Технологии» подвели итоги спортивно-интеллектуальных соревнований для студентов «Код спорта»](https://habr.com/ru/news/1025030/?utm_campaign=1025030&utm_source=habrahabr&utm_medium=rss)
 - [Cursor получит доступ к 200 000 GPU Илона Маска, чтобы обучить Composer 2.5](https://habr.com/ru/companies/bothub/news/1025010/?utm_campaign=1025010&utm_source=habrahabr&utm_medium=rss)
 - [NIST ограничила обработку CVE после 263%-ного роста числа поступивших сообщений об уязвимостях](https://habr.com/ru/news/1024982/?utm_campaign=1024982&utm_source=habrahabr&utm_medium=rss)
-- [В Chrome Web Store обнаружено вредоносное расширение под видом YouTube-панели](https://habr.com/ru/news/1024996/?utm_campaign=1024996&utm_source=habrahabr&utm_medium=rss)
-- [Седиментация для памяти ИИ-агентов: помнить главное, даже забывая детали](https://habr.com/ru/news/1024994/?utm_campaign=1024994&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатная Stealth-модель оказалась в топе OpenRouter за 72 часа](https://habr.com/ru/news/1024988/?utm_campaign=1024988&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
