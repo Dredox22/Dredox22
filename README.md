@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple вернёт чешский символ клавиатуры на экране блокировки](https://habr.com/ru/news/1024968/?utm_campaign=1024968&utm_source=habrahabr&utm_medium=rss)
-- [Бывший руководитель Sora покидает OpenAI](https://habr.com/ru/news/1024966/?utm_campaign=1024966&utm_source=habrahabr&utm_medium=rss)
-- [Может ли ИИ-агент найти вам пару лучше, чем Tinder? Необычный эксперимент от Wired](https://habr.com/ru/news/1024960/?utm_campaign=1024960&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.4 и Opus 4.6 воспроизвели находки закрытой модели Mythos от Anthropic](https://habr.com/ru/news/1024952/?utm_campaign=1024952&utm_source=habrahabr&utm_medium=rss)
-- [Ответственного за взлом системы подачи документов Верховного суда США приговорили к условному сроку](https://habr.com/ru/news/1024944/?utm_campaign=1024944&utm_source=habrahabr&utm_medium=rss)
+- [NIST ограничила обработку CVE после 263%-ного роста числа поступивших сообщений об уязвимостях](https://habr.com/ru/news/1024982/?utm_campaign=1024982&utm_source=habrahabr&utm_medium=rss)
+- [В Chrome Web Store обнаружено вредоносное расширение под видом YouTube-панели](https://habr.com/ru/news/1024996/?utm_campaign=1024996&utm_source=habrahabr&utm_medium=rss)
+- [Седиментация для памяти ИИ-агентов: помнить главное, даже забывая детали](https://habr.com/ru/news/1024994/?utm_campaign=1024994&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатная Stealth-модель оказалась в топе OpenRouter за 72 часа](https://habr.com/ru/news/1024988/?utm_campaign=1024988&utm_source=habrahabr&utm_medium=rss)
+- [Zoom объединится с World для проверки личности участников совещаний](https://habr.com/ru/news/1024976/?utm_campaign=1024976&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
