@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз платформы совместной разработки Forgejo v15.0](https://habr.com/ru/news/1024456/?utm_campaign=1024456&utm_source=habrahabr&utm_medium=rss)
+- [Хостинг-провайдер Cloudflare вернул пометку «шпионское ПО» &lpar;Spyware&rpar; на домены проекта Telega](https://habr.com/ru/news/1024928/?utm_campaign=1024928&utm_source=habrahabr&utm_medium=rss)
 - [От убытка $485 млн к прибыли $88 млн за год: производитель чипов Cerebras идет на IPO](https://habr.com/ru/news/1024924/?utm_campaign=1024924&utm_source=habrahabr&utm_medium=rss)
 - [Проект Among Us достиг 1 млрд загрузок в Google Play](https://habr.com/ru/news/1024914/?utm_campaign=1024914&utm_source=habrahabr&utm_medium=rss)
 - [Учёные поймали свет в ловушку в 2000 раз тоньше человеческого волоса](https://habr.com/ru/news/1024870/?utm_campaign=1024870&utm_source=habrahabr&utm_medium=rss)
-- [Tor разрабатывает серверы, способные «терять память» при изъятии](https://habr.com/ru/news/1024894/?utm_campaign=1024894&utm_source=habrahabr&utm_medium=rss)
-- [Valve выпустила Proton 11.0 Beta 1 с поддержкой архитектуры ARM](https://habr.com/ru/news/1024826/?utm_campaign=1024826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
