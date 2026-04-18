@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tor разрабатывает серверы, способные «терять память» при изъятии](https://habr.com/ru/news/1024894/?utm_campaign=1024894&utm_source=habrahabr&utm_medium=rss)
 - [Valve выпустила Proton 11.0 Beta 1 с поддержкой архитектуры ARM](https://habr.com/ru/news/1024826/?utm_campaign=1024826&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.95.0](https://habr.com/ru/news/1024438/?utm_campaign=1024438&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus взломал Chrome — а та же дыра сидит в Claude Desktop](https://habr.com/ru/news/1024860/?utm_campaign=1024860&utm_source=habrahabr&utm_medium=rss)
 - [Адвокат из Омахи попался на ИИ-галлюцинациях и был отстранен: 57 из 63 ссылок — выдумка](https://habr.com/ru/news/1024858/?utm_campaign=1024858&utm_source=habrahabr&utm_medium=rss)
-- [Утечка: DeepSeek V4 обходит Gemini 3.1 Pro, GPT-5.3 и Claude Opus 4.6 по всем 12 бенчмаркам](https://habr.com/ru/companies/bothub/news/1024848/?utm_campaign=1024848&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
