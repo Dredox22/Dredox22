@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic не стала чинить дыру в протоколе MCP — и это на фоне хвастовства, как Claude находит тысячи уязвимостей](https://habr.com/ru/news/1025116/?utm_campaign=1025116&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Firefly AI Assistant: один чат, который управляет Photoshop, Illustrator и всем Creative Cloud](https://habr.com/ru/companies/bothub/news/1025114/?utm_campaign=1025114&utm_source=habrahabr&utm_medium=rss)
 - [Одна фотография – 90 метров симуляции: Nvidia Lyra 2.0 делает тренировку роботов дешёвой и быстрой](https://habr.com/ru/companies/bothub/news/1025092/?utm_campaign=1025092&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-инвесторы урезали финансирование науки в США — чтобы ученые шли обучать ИИ](https://habr.com/ru/news/1025082/?utm_campaign=1025082&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «В России построят полигон по тестированию отечественной химии для производства печатных плат»](https://habr.com/ru/news/1025056/?utm_campaign=1025056&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba vs Google: Qwen3.6-35B-A3B обходит Gemma 4-31B в кодинге, эрудиции и математике](https://habr.com/ru/companies/bothub/news/1025038/?utm_campaign=1025038&utm_source=habrahabr&utm_medium=rss)
-- [Opus 4.7 vs Opus 4.6 на Veai Agent Benchmark](https://habr.com/ru/companies/veai/news/1025024/?utm_campaign=1025024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
