@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple вернёт чешский символ клавиатуры на экране блокировки](https://habr.com/ru/news/1024968/?utm_campaign=1024968&utm_source=habrahabr&utm_medium=rss)
+- [Бывший руководитель Sora покидает OpenAI](https://habr.com/ru/news/1024966/?utm_campaign=1024966&utm_source=habrahabr&utm_medium=rss)
+- [Может ли ИИ-агент найти вам пару лучше, чем Tinder? Необычный эксперимент от Wired](https://habr.com/ru/news/1024960/?utm_campaign=1024960&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.4 и Opus 4.6 воспроизвели находки закрытой модели Mythos от Anthropic](https://habr.com/ru/news/1024952/?utm_campaign=1024952&utm_source=habrahabr&utm_medium=rss)
 - [Ответственного за взлом системы подачи документов Верховного суда США приговорили к условному сроку](https://habr.com/ru/news/1024944/?utm_campaign=1024944&utm_source=habrahabr&utm_medium=rss)
-- [Релиз платформы совместной разработки Forgejo v15.0](https://habr.com/ru/news/1024456/?utm_campaign=1024456&utm_source=habrahabr&utm_medium=rss)
-- [Хостинг-провайдер Cloudflare вернул пометку «шпионское ПО» &lpar;Spyware&rpar; на домены проекта Telega](https://habr.com/ru/news/1024928/?utm_campaign=1024928&utm_source=habrahabr&utm_medium=rss)
-- [От убытка $485 млн к прибыли $88 млн за год: производитель чипов Cerebras идет на IPO](https://habr.com/ru/news/1024924/?utm_campaign=1024924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
