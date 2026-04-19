@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышли проекты WireGuard 1.0 для Windows и WireGuardNT 1.0](https://habr.com/ru/news/1025142/?utm_campaign=1025142&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Podroid для запуска Linux-контейнеров на Android без root](https://habr.com/ru/news/1025058/?utm_campaign=1025058&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Wine 11.7](https://habr.com/ru/news/1025034/?utm_campaign=1025034&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic не стала чинить дыру в протоколе MCP — и это на фоне хвастовства, как Claude находит тысячи уязвимостей](https://habr.com/ru/news/1025116/?utm_campaign=1025116&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Firefly AI Assistant: один чат, который управляет Photoshop, Illustrator и всем Creative Cloud](https://habr.com/ru/companies/bothub/news/1025114/?utm_campaign=1025114&utm_source=habrahabr&utm_medium=rss)
-- [Одна фотография – 90 метров симуляции: Nvidia Lyra 2.0 делает тренировку роботов дешёвой и быстрой](https://habr.com/ru/companies/bothub/news/1025092/?utm_campaign=1025092&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-инвесторы урезали финансирование науки в США — чтобы ученые шли обучать ИИ](https://habr.com/ru/news/1025082/?utm_campaign=1025082&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «В России построят полигон по тестированию отечественной химии для производства печатных плат»](https://habr.com/ru/news/1025056/?utm_campaign=1025056&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
