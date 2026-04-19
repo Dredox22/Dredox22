@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI включает гиперскорость: Grok 4.3 уже в бете, 4.4 и 4.5 на подходе](https://habr.com/ru/news/1025360/?utm_campaign=1025360&utm_source=habrahabr&utm_medium=rss)
 - [Заключительный этап Всероссийской олимпиады школьников по математике проходит в Москве](https://habr.com/ru/news/1025334/?utm_campaign=1025334&utm_source=habrahabr&utm_medium=rss)
 - [Не AI делает вас глупее: исследование APA на 1923 людях нашло настоящего виновника](https://habr.com/ru/news/1025288/?utm_campaign=1025288&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Telega: клиент Telega не превращает iPhone в «кирпич» после обновления до iOS 26.4.1](https://habr.com/ru/news/1025188/?utm_campaign=1025188&utm_source=habrahabr&utm_medium=rss)
 - [Проект World Альтмана интегрирует технологию верификации в приложения для знакомств](https://habr.com/ru/news/1025178/?utm_campaign=1025178&utm_source=habrahabr&utm_medium=rss)
-- [Альтман покинет OpenAI перед IPO? Его сделки слишком часто обогащают не OpenAI, а его самого](https://habr.com/ru/news/1025186/?utm_campaign=1025186&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
