@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Не AI делает вас глупее: исследование APA на 1923 людях нашло настоящего виновника](https://habr.com/ru/news/1025288/?utm_campaign=1025288&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Telega: клиент Telega не превращает iPhone в «кирпич» после обновления до iOS 26.4.1](https://habr.com/ru/news/1025188/?utm_campaign=1025188&utm_source=habrahabr&utm_medium=rss)
 - [Проект World Альтмана интегрирует технологию верификации в приложения для знакомств](https://habr.com/ru/news/1025178/?utm_campaign=1025178&utm_source=habrahabr&utm_medium=rss)
 - [Альтман покинет OpenAI перед IPO? Его сделки слишком часто обогащают не OpenAI, а его самого](https://habr.com/ru/news/1025186/?utm_campaign=1025186&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: для разблокировки по лицу на Android-смартфонах можно использовать фото](https://habr.com/ru/news/1025160/?utm_campaign=1025160&utm_source=habrahabr&utm_medium=rss)
-- [Вышли проекты WireGuard 1.0 для Windows и WireGuardNT 1.0](https://habr.com/ru/news/1025142/?utm_campaign=1025142&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
