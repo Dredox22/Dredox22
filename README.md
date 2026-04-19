@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Telega: клиент Telega не превращает iPhone в «кирпич» после обновления до iOS 26.4.1](https://habr.com/ru/news/1025188/?utm_campaign=1025188&utm_source=habrahabr&utm_medium=rss)
+- [Проект World Альтмана интегрирует технологию верификации в приложения для знакомств](https://habr.com/ru/news/1025178/?utm_campaign=1025178&utm_source=habrahabr&utm_medium=rss)
+- [Альтман покинет OpenAI перед IPO? Его сделки слишком часто обогащают не OpenAI, а его самого](https://habr.com/ru/news/1025186/?utm_campaign=1025186&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: для разблокировки по лицу на Android-смартфонах можно использовать фото](https://habr.com/ru/news/1025160/?utm_campaign=1025160&utm_source=habrahabr&utm_medium=rss)
 - [Вышли проекты WireGuard 1.0 для Windows и WireGuardNT 1.0](https://habr.com/ru/news/1025142/?utm_campaign=1025142&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Podroid для запуска Linux-контейнеров на Android без root](https://habr.com/ru/news/1025058/?utm_campaign=1025058&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.7](https://habr.com/ru/news/1025034/?utm_campaign=1025034&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic не стала чинить дыру в протоколе MCP — и это на фоне хвастовства, как Claude находит тысячи уязвимостей](https://habr.com/ru/news/1025116/?utm_campaign=1025116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
