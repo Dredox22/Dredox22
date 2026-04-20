@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [+185% за 13 часов: как Kimi K2.6 переписала 8-летний движок](https://habr.com/ru/news/1025740/?utm_campaign=1025740&utm_source=habrahabr&utm_medium=rss)
+- [Google DeepMind прокачала мозги роботов. Встречаем Gemini Robotics-ER 1.6](https://habr.com/ru/companies/bothub/news/1025738/?utm_campaign=1025738&utm_source=habrahabr&utm_medium=rss)
+- [Kimi выпустили открытую модель K2.6 для долгих задач по программированию](https://habr.com/ru/news/1025736/?utm_campaign=1025736&utm_source=habrahabr&utm_medium=rss)
 - [App Store снова растёт — и AI, похоже, в этом помогает](https://habr.com/ru/companies/bothub/news/1025714/?utm_campaign=1025714&utm_source=habrahabr&utm_medium=rss)
 - [Голем научился анализировать Go-проекты](https://habr.com/ru/news/1025702/?utm_campaign=1025702&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на первую встречу «Архитектурной мастерской» от Nexign](https://habr.com/ru/companies/nexign/news/1025698/?utm_campaign=1025698&utm_source=habrahabr&utm_medium=rss)
-- [Команда проекта EmuDeck выпустила компактный ПК Playnix](https://habr.com/ru/news/1025656/?utm_campaign=1025656&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft приобрела стартап Fintool, чтобы расширить возможности Excel с помощью финансовых ИИ-агентов](https://habr.com/ru/news/1025646/?utm_campaign=1025646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
