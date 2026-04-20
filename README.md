@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект CSVMusic для преобразования плейлистов из музыкальных сервисов в файлы с набором тегов](https://habr.com/ru/news/1025066/?utm_campaign=1025066&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск LibreSSL 4.3.0](https://habr.com/ru/news/1025282/?utm_campaign=1025282&utm_source=habrahabr&utm_medium=rss)
 - [xAI включает гиперскорость: Grok 4.3 уже в бете, 4.4 и 4.5 на подходе](https://habr.com/ru/news/1025360/?utm_campaign=1025360&utm_source=habrahabr&utm_medium=rss)
 - [Заключительный этап Всероссийской олимпиады школьников по математике проходит в Москве](https://habr.com/ru/news/1025334/?utm_campaign=1025334&utm_source=habrahabr&utm_medium=rss)
 - [Не AI делает вас глупее: исследование APA на 1923 людях нашло настоящего виновника](https://habr.com/ru/news/1025288/?utm_campaign=1025288&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Telega: клиент Telega не превращает iPhone в «кирпич» после обновления до iOS 26.4.1](https://habr.com/ru/news/1025188/?utm_campaign=1025188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
