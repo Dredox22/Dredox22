@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin Джеффа Безоса впервые повторно использовала ракету New Glenn, но миссия закончилась неудачей](https://habr.com/ru/companies/bothub/news/1025744/?utm_campaign=1025744&utm_source=habrahabr&utm_medium=rss)
+- [MWS Cloud открыла общий доступ к Managed Kafka в облаке MWS Cloud Platform](https://habr.com/ru/companies/mws/news/1025756/?utm_campaign=1025756&utm_source=habrahabr&utm_medium=rss)
+- [Ученый DeepMind: ИИ никогда не станет сознательным](https://habr.com/ru/news/1025752/?utm_campaign=1025752&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в ChatGPT длится уже больше часа](https://habr.com/ru/companies/bothub/news/1025748/?utm_campaign=1025748&utm_source=habrahabr&utm_medium=rss)
 - [+185% за 13 часов: как Kimi K2.6 переписала 8-летний движок](https://habr.com/ru/news/1025740/?utm_campaign=1025740&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind прокачала мозги роботов. Встречаем Gemini Robotics-ER 1.6](https://habr.com/ru/companies/bothub/news/1025738/?utm_campaign=1025738&utm_source=habrahabr&utm_medium=rss)
-- [Kimi выпустили открытую модель K2.6 для долгих задач по программированию](https://habr.com/ru/news/1025736/?utm_campaign=1025736&utm_source=habrahabr&utm_medium=rss)
-- [App Store снова растёт — и AI, похоже, в этом помогает](https://habr.com/ru/companies/bothub/news/1025714/?utm_campaign=1025714&utm_source=habrahabr&utm_medium=rss)
-- [Голем научился анализировать Go-проекты](https://habr.com/ru/news/1025702/?utm_campaign=1025702&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
