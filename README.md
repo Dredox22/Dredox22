@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Хакеры стали использовать уведомления об изменении учётной записи Apple для фишинга](https://habr.com/ru/news/1025434/?utm_campaign=1025434&utm_source=habrahabr&utm_medium=rss)
-- [«Малые команды с ИИ дают больший результат»: из Snapchat уволили 1000 человек](https://habr.com/ru/news/1025444/?utm_campaign=1025444&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: «Яндекс» планирует запустить виртуального мобильного оператора летом 2026 года](https://habr.com/ru/news/1025438/?utm_campaign=1025438&utm_source=habrahabr&utm_medium=rss)
-- [Полиция Невады теперь может отслеживать мобильные телефоны без ордера](https://habr.com/ru/news/1025430/?utm_campaign=1025430&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся выпуск платформы совместной разработки Gitea 1.26](https://habr.com/ru/news/1025396/?utm_campaign=1025396&utm_source=habrahabr&utm_medium=rss)
+- [АСКОН выпустил бета-версию КОМПАС-3D v25 и приглашает на открытое тестирование](https://habr.com/ru/companies/ascon/news/1025554/?utm_campaign=1025554&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предлагает шанс выиграть миллион долларов или автомобиль тем, кто перейдёт на Edge](https://habr.com/ru/news/1025550/?utm_campaign=1025550&utm_source=habrahabr&utm_medium=rss)
+- [38% ускорения: ИИ-агенты Cursor оптимизировали CUDA-ядра NVIDIA](https://habr.com/ru/news/1025528/?utm_campaign=1025528&utm_source=habrahabr&utm_medium=rss)
+- [«Нанософт» представляет учебник по 3D-компьютерной графике на базе nanoCAD](https://habr.com/ru/companies/nanosoft/news/1025512/?utm_campaign=1025512&utm_source=habrahabr&utm_medium=rss)
+- [Кибербезопасность важнее запрета Трампа. Агентства США тестируют Claude Mythos](https://habr.com/ru/news/1025494/?utm_campaign=1025494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
