@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлен открытый проект CSVMusic для преобразования плейлистов из музыкальных сервисов в файлы с набором тегов](https://habr.com/ru/news/1025066/?utm_campaign=1025066&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск LibreSSL 4.3.0](https://habr.com/ru/news/1025282/?utm_campaign=1025282&utm_source=habrahabr&utm_medium=rss)
-- [xAI включает гиперскорость: Grok 4.3 уже в бете, 4.4 и 4.5 на подходе](https://habr.com/ru/news/1025360/?utm_campaign=1025360&utm_source=habrahabr&utm_medium=rss)
-- [Заключительный этап Всероссийской олимпиады школьников по математике проходит в Москве](https://habr.com/ru/news/1025334/?utm_campaign=1025334&utm_source=habrahabr&utm_medium=rss)
-- [Не AI делает вас глупее: исследование APA на 1923 людях нашло настоящего виновника](https://habr.com/ru/news/1025288/?utm_campaign=1025288&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры стали использовать уведомления об изменении учётной записи Apple для фишинга](https://habr.com/ru/news/1025434/?utm_campaign=1025434&utm_source=habrahabr&utm_medium=rss)
+- [«Малые команды с ИИ дают больший результат»: из Snapchat уволили 1000 человек](https://habr.com/ru/news/1025444/?utm_campaign=1025444&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: «Яндекс» планирует запустить виртуального мобильного оператора летом 2026 года](https://habr.com/ru/news/1025438/?utm_campaign=1025438&utm_source=habrahabr&utm_medium=rss)
+- [Полиция Невады теперь может отслеживать мобильные телефоны без ордера](https://habr.com/ru/news/1025430/?utm_campaign=1025430&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся выпуск платформы совместной разработки Gitea 1.26](https://habr.com/ru/news/1025396/?utm_campaign=1025396&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
