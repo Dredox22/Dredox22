@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пользователь купил Atomic Heart на VK Play, но не смог запустить игру из-за сетевых проблем](https://habr.com/ru/news/1025850/?utm_campaign=1025850&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1025846/?utm_campaign=1025846&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект KillerPDF — редактор PDF с открытым исходным кодом для Windows 10/11](https://habr.com/ru/news/1025440/?utm_campaign=1025440&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Firefox 150.0](https://habr.com/ru/news/1025782/?utm_campaign=1025782&utm_source=habrahabr&utm_medium=rss)
-- [Для Mac на базе Intel последней поддерживаемой ОС станет macOS 26 Tahoe](https://habr.com/ru/news/1025374/?utm_campaign=1025374&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует улучшения скорости и производительности проводника Windows 11](https://habr.com/ru/news/1025892/?utm_campaign=1025892&utm_source=habrahabr&utm_medium=rss)
+- [LinkedIn запустил платформу для обучения ИИ с оплатой до $150 в час](https://habr.com/ru/news/1025890/?utm_campaign=1025890&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 7.42: тестирование новых анализаторов, расширение поддержки MISRA C++ 2023 и многое другое](https://habr.com/ru/companies/pvs-studio/news/1025896/?utm_campaign=1025896&utm_source=habrahabr&utm_medium=rss)
+- [Фестиваль полезных игр: как провести 26 апреля в Уфе](https://habr.com/ru/news/1025886/?utm_campaign=1025886&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp** тестирует подписку Plus со стикерами и другими опциями](https://habr.com/ru/news/1025882/?utm_campaign=1025882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
