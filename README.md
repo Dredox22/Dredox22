@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«ИИ-чипы — не обогащенный уран»: Хуанг раскритиковал высказывание Амодеи](https://habr.com/ru/news/1026054/?utm_campaign=1026054&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Доктор Веб» празднует день рождения антивируса Dr.Web и его создателя, Игоря Данилова](https://habr.com/ru/news/1026052/?utm_campaign=1026052&utm_source=habrahabr&utm_medium=rss)
-- [Atlassian разрешила сбор данных по умолчанию для обучения ИИ](https://habr.com/ru/news/1026032/?utm_campaign=1026032&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали сайт Seiko USA и сообщили о краже данных клиентов](https://habr.com/ru/news/1026018/?utm_campaign=1026018&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск среды рабочего стола LXQt 2.4.0](https://habr.com/ru/news/1025852/?utm_campaign=1025852&utm_source=habrahabr&utm_medium=rss)
+- [Вышла ChatGPT Image 2: новая нейросеть от OpenAI, которая разматывает конкурентов в генерации изображений](https://habr.com/ru/companies/bothub/news/1026128/?utm_campaign=1026128&utm_source=habrahabr&utm_medium=rss)
+- [Онлайн-вебинар: научи своего AI-агента писать код на Spring](https://habr.com/ru/companies/haulmont/news/1025934/?utm_campaign=1025934&utm_source=habrahabr&utm_medium=rss)
+- [TikTok запускает Creator Card в Великобритании совместно с Visa](https://habr.com/ru/companies/technokratos/news/1026120/?utm_campaign=1026120&utm_source=habrahabr&utm_medium=rss)
+- [Innostage PAM. Управление привилегированным доступом обновлен до версии 1.6.0](https://habr.com/ru/companies/innostage/news/1026118/?utm_campaign=1026118&utm_source=habrahabr&utm_medium=rss)
+- [Meta* запускает бесплатную программу подготовки специалистов в сфере волоконно‑оптических сетей](https://habr.com/ru/news/1026092/?utm_campaign=1026092&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
