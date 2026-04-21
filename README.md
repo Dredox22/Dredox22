@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ, который обучает сам себя: Google и NVIDIA вложили $500 млн в Recursive Superintelligence](https://habr.com/ru/news/1025960/?utm_campaign=1025960&utm_source=habrahabr&utm_medium=rss)
-- [Дуров сообщил о взломе Национального агентства по защите документов Франции](https://habr.com/ru/news/1025942/?utm_campaign=1025942&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует улучшения скорости и производительности проводника Windows 11](https://habr.com/ru/news/1025892/?utm_campaign=1025892&utm_source=habrahabr&utm_medium=rss)
-- [LinkedIn запустил платформу для обучения ИИ с оплатой до $150 в час](https://habr.com/ru/news/1025890/?utm_campaign=1025890&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 7.42: тестирование новых анализаторов, расширение поддержки MISRA C++ 2023 и многое другое](https://habr.com/ru/companies/pvs-studio/news/1025896/?utm_campaign=1025896&utm_source=habrahabr&utm_medium=rss)
+- [«ИИ-чипы — не обогащенный уран»: Хуанг раскритиковал высказывание Амодеи](https://habr.com/ru/news/1026054/?utm_campaign=1026054&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Доктор Веб» празднует день рождения антивируса Dr.Web и его создателя, Игоря Данилова](https://habr.com/ru/news/1026052/?utm_campaign=1026052&utm_source=habrahabr&utm_medium=rss)
+- [Atlassian разрешила сбор данных по умолчанию для обучения ИИ](https://habr.com/ru/news/1026032/?utm_campaign=1026032&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры взломали сайт Seiko USA и сообщили о краже данных клиентов](https://habr.com/ru/news/1026018/?utm_campaign=1026018&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск среды рабочего стола LXQt 2.4.0](https://habr.com/ru/news/1025852/?utm_campaign=1025852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
