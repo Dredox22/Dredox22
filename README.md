@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустила Android Studio Panda 4 с режимом планирования задач и встроенным веб-поиском для AI-агентов](https://habr.com/ru/news/1026330/?utm_campaign=1026330&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GPT Images 2 — модель отлично работает с шрифтами, «думает» и ищет в сети](https://habr.com/ru/news/1026306/?utm_campaign=1026306&utm_source=habrahabr&utm_medium=rss)
 - [Panasonic представила защищённые QR‑коды, которые будут считывать только определённые устройства](https://habr.com/ru/news/1026304/?utm_campaign=1026304&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-компании скупают у закрывающихся стартапов рабочие переписки для обучения нейросетей](https://habr.com/ru/news/1026292/?utm_campaign=1026292&utm_source=habrahabr&utm_medium=rss)
 - [Разработчикам Pioner заблокировали счета на 13 млн рублей, сотрудники не получают зарплату с февраля](https://habr.com/ru/news/1026286/?utm_campaign=1026286&utm_source=habrahabr&utm_medium=rss)
-- [Правительство утвердило двухуровневую систему локализации интегральных схем с переходным периодом до 2038 года](https://habr.com/ru/news/1026280/?utm_campaign=1026280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
