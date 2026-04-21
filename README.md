@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ, который обучает сам себя: Google и NVIDIA вложили $500 млн в Recursive Superintelligence](https://habr.com/ru/news/1025960/?utm_campaign=1025960&utm_source=habrahabr&utm_medium=rss)
+- [Дуров сообщил о взломе Национального агентства по защите документов Франции](https://habr.com/ru/news/1025942/?utm_campaign=1025942&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует улучшения скорости и производительности проводника Windows 11](https://habr.com/ru/news/1025892/?utm_campaign=1025892&utm_source=habrahabr&utm_medium=rss)
 - [LinkedIn запустил платформу для обучения ИИ с оплатой до $150 в час](https://habr.com/ru/news/1025890/?utm_campaign=1025890&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio 7.42: тестирование новых анализаторов, расширение поддержки MISRA C++ 2023 и многое другое](https://habr.com/ru/companies/pvs-studio/news/1025896/?utm_campaign=1025896&utm_source=habrahabr&utm_medium=rss)
-- [Фестиваль полезных игр: как провести 26 апреля в Уфе](https://habr.com/ru/news/1025886/?utm_campaign=1025886&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp** тестирует подписку Plus со стикерами и другими опциями](https://habr.com/ru/news/1025882/?utm_campaign=1025882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
