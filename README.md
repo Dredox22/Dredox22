@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как менеджер Grafana за вечер собрал ИИ, который сам разбирает ночные сбои — и обучается после каждого](https://habr.com/ru/news/1026264/?utm_campaign=1026264&utm_source=habrahabr&utm_medium=rss)
-- [Британский регулятор начал расследование против Telegram из-за распространения материалов с сексуальным насилием](https://habr.com/ru/news/1026252/?utm_campaign=1026252&utm_source=habrahabr&utm_medium=rss)
-- [TechRadar для Java-разработчиков возвращается](https://habr.com/ru/companies/spring_aio/news/1026146/?utm_campaign=1026146&utm_source=habrahabr&utm_medium=rss)
-- [Онлайн-вебинар: научи своего AI-агента писать код на Spring](https://habr.com/ru/companies/haulmont/news/1025934/?utm_campaign=1025934&utm_source=habrahabr&utm_medium=rss)
-- [TikTok запускает Creator Card в Великобритании совместно с Visa](https://habr.com/ru/companies/technokratos/news/1026120/?utm_campaign=1026120&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GPT Images 2 — модель отлично работает с шрифтами, «думает» и ищет в сети](https://habr.com/ru/news/1026306/?utm_campaign=1026306&utm_source=habrahabr&utm_medium=rss)
+- [Panasonic представила защищённые QR‑коды, которые будут считывать только определённые устройства](https://habr.com/ru/news/1026304/?utm_campaign=1026304&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-компании скупают у закрывающихся стартапов рабочие переписки для обучения нейросетей](https://habr.com/ru/news/1026292/?utm_campaign=1026292&utm_source=habrahabr&utm_medium=rss)
+- [Разработчикам Pioner заблокировали счета на 13 млн рублей, сотрудники не получают зарплату с февраля](https://habr.com/ru/news/1026286/?utm_campaign=1026286&utm_source=habrahabr&utm_medium=rss)
+- [Правительство утвердило двухуровневую систему локализации интегральных схем с переходным периодом до 2038 года](https://habr.com/ru/news/1026280/?utm_campaign=1026280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
