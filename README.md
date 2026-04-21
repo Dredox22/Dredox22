@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь купил Atomic Heart на VK Play, но не смог запустить игру из-за сетевых проблем](https://habr.com/ru/news/1025850/?utm_campaign=1025850&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1025846/?utm_campaign=1025846&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект KillerPDF — редактор PDF с открытым исходным кодом для Windows 10/11](https://habr.com/ru/news/1025440/?utm_campaign=1025440&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Firefox 150.0](https://habr.com/ru/news/1025782/?utm_campaign=1025782&utm_source=habrahabr&utm_medium=rss)
 - [Для Mac на базе Intel последней поддерживаемой ОС станет macOS 26 Tahoe](https://habr.com/ru/news/1025374/?utm_campaign=1025374&utm_source=habrahabr&utm_medium=rss)
-- [Canonical объявила кодовое имя Ubuntu 26.10 — Stonking Stingray &lpar;Ошеломляющий Скат&rpar;](https://habr.com/ru/news/1025784/?utm_campaign=1025784&utm_source=habrahabr&utm_medium=rss)
-- [ElevenLabs уходит в офлайн: анонсировано локальное развертывание моделей](https://habr.com/ru/companies/bothub/news/1025742/?utm_campaign=1025742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
