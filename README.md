@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла ChatGPT Image 2: новая нейросеть от OpenAI, которая разматывает конкурентов в генерации изображений](https://habr.com/ru/companies/bothub/news/1026128/?utm_campaign=1026128&utm_source=habrahabr&utm_medium=rss)
+- [TechRadar для Java-разработчиков возвращается](https://habr.com/ru/companies/spring_aio/news/1026146/?utm_campaign=1026146&utm_source=habrahabr&utm_medium=rss)
 - [Онлайн-вебинар: научи своего AI-агента писать код на Spring](https://habr.com/ru/companies/haulmont/news/1025934/?utm_campaign=1025934&utm_source=habrahabr&utm_medium=rss)
 - [TikTok запускает Creator Card в Великобритании совместно с Visa](https://habr.com/ru/companies/technokratos/news/1026120/?utm_campaign=1026120&utm_source=habrahabr&utm_medium=rss)
 - [Innostage PAM. Управление привилегированным доступом обновлен до версии 1.6.0](https://habr.com/ru/companies/innostage/news/1026118/?utm_campaign=1026118&utm_source=habrahabr&utm_medium=rss)
