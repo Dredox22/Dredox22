@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Selectel представил собственный сервер, оптимизированный для AI-задач](https://habr.com/ru/companies/selectel/news/1026364/?utm_campaign=1026364&utm_source=habrahabr&utm_medium=rss)
-- [Ai2 предложил способ обновлять навыки LLM по одному без полного переобучения](https://habr.com/ru/companies/bothub/news/1026644/?utm_campaign=1026644&utm_source=habrahabr&utm_medium=rss)
-- [Владельцы смартфонов Pixel 10 сообщают о проблемах с GPS](https://habr.com/ru/news/1026642/?utm_campaign=1026642&utm_source=habrahabr&utm_medium=rss)
-- [Обновления MWS Cloud Platform в апреле](https://habr.com/ru/companies/mws/news/1026638/?utm_campaign=1026638&utm_source=habrahabr&utm_medium=rss)
-- [Участникам программы Windows Insider доступна сборка Windows 11 с режимом Xbox Mode](https://habr.com/ru/news/1026630/?utm_campaign=1026630&utm_source=habrahabr&utm_medium=rss)
+- [Неавторизованные пользователи получили доступ к Mythos от Anthropic](https://habr.com/ru/companies/bothub/news/1026732/?utm_campaign=1026732&utm_source=habrahabr&utm_medium=rss)
+- [ФАС: Apple могла нарушить закон РФ, удалив Telega из App Store](https://habr.com/ru/news/1026730/?utm_campaign=1026730&utm_source=habrahabr&utm_medium=rss)
+- [75% кода в Google пишет ИИ — но последнее слово за инженером](https://habr.com/ru/news/1026718/?utm_campaign=1026718&utm_source=habrahabr&utm_medium=rss)
+- [Новый режим «Книги» от Character.AI позволяет «пройти» книгу как ролевую игру](https://habr.com/ru/news/1026714/?utm_campaign=1026714&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: использование VPN российскими компаниями в корпоративных целях внутри страны не ограничено](https://habr.com/ru/news/1026710/?utm_campaign=1026710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
