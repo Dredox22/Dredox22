@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google признала проблему с ускоренным разрядом аккумуляторов в смартфонах Pixel после мартовского обновления](https://habr.com/ru/news/1026556/?utm_campaign=1026556&utm_source=habrahabr&utm_medium=rss)
-- [Единая платформа с сертификатом ФСТЭК России для управления виртуальными машинами и контейнерами](https://habr.com/ru/companies/flant/news/1026520/?utm_campaign=1026520&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic тестирует отключение Claude Code для части новых Pro-подписчиков](https://habr.com/ru/companies/bothub/news/1026540/?utm_campaign=1026540&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила о волне кибератак через Teams: злоумышленники выдают себя за специалистов техподдержки](https://habr.com/ru/news/1026536/?utm_campaign=1026536&utm_source=habrahabr&utm_medium=rss)
-- [Ubisoft начала указывать знание ИИ-моделей в качестве обязательного требования при найме технических специалистов](https://habr.com/ru/news/1026534/?utm_campaign=1026534&utm_source=habrahabr&utm_medium=rss)
+- [Selectel представил собственный сервер, оптимизированный для AI-задач](https://habr.com/ru/companies/selectel/news/1026364/?utm_campaign=1026364&utm_source=habrahabr&utm_medium=rss)
+- [Ai2 предложил способ обновлять навыки LLM по одному без полного переобучения](https://habr.com/ru/companies/bothub/news/1026644/?utm_campaign=1026644&utm_source=habrahabr&utm_medium=rss)
+- [Владельцы смартфонов Pixel 10 сообщают о проблемах с GPS](https://habr.com/ru/news/1026642/?utm_campaign=1026642&utm_source=habrahabr&utm_medium=rss)
+- [Обновления MWS Cloud Platform в апреле](https://habr.com/ru/companies/mws/news/1026638/?utm_campaign=1026638&utm_source=habrahabr&utm_medium=rss)
+- [Участникам программы Windows Insider доступна сборка Windows 11 с режимом Xbox Mode](https://habr.com/ru/news/1026630/?utm_campaign=1026630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
