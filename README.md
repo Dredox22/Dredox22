@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Стилер-крипер: приложение для кражи данных распространяют под видом модов и читов для Minecraft](https://habr.com/ru/companies/F6/news/1025464/?utm_campaign=1025464&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla использовала Anthropic Claude Mythos Preview для анализа кода, ИИ помогла исправить 271 уязвимость в Firefox 150](https://habr.com/ru/news/1026360/?utm_campaign=1026360&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Mozilla Thunderbird 150.0](https://habr.com/ru/news/1025880/?utm_campaign=1025880&utm_source=habrahabr&utm_medium=rss)
 - [Представлен Git 2.54](https://habr.com/ru/news/1025900/?utm_campaign=1025900&utm_source=habrahabr&utm_medium=rss)
-- [Tencent выпустила CubeSandbox — легковесную песочницу для AI-агентов с запуском менее чем за минуту](https://habr.com/ru/news/1026342/?utm_campaign=1026342&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила Android Studio Panda 4 с режимом планирования задач и встроенным веб-поиском для AI-агентов](https://habr.com/ru/news/1026330/?utm_campaign=1026330&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT Images 2 — модель отлично работает с шрифтами, «думает» и ищет в сети](https://habr.com/ru/news/1026306/?utm_campaign=1026306&utm_source=habrahabr&utm_medium=rss)
+- [Tencent выпустила CubeSandbox — легковесную песочницу для AI-агентов с запуском менее чем за 60 мс](https://habr.com/ru/news/1026342/?utm_campaign=1026342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
