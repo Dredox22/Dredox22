@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.7, Qwen3.6 35B-A3B и конец pull request как формата](https://habr.com/ru/news/1025710/?utm_campaign=1025710&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic убирает Claude Code из плана Pro за 20$](https://habr.com/ru/news/1026392/?utm_campaign=1026392&utm_source=habrahabr&utm_medium=rss)
-- [Amazon вложит $25 млрд в Anthropic: Claude получит 5 ГВт мощностей](https://habr.com/ru/news/1026388/?utm_campaign=1026388&utm_source=habrahabr&utm_medium=rss)
-- [Google собрал «ударную группу» против Claude — через пять месяцев после Code Red у OpenAI](https://habr.com/ru/news/1026374/?utm_campaign=1026374&utm_source=habrahabr&utm_medium=rss)
-- [Стилер-крипер: приложение для кражи данных распространяют под видом модов и читов для Minecraft](https://habr.com/ru/companies/F6/news/1025464/?utm_campaign=1025464&utm_source=habrahabr&utm_medium=rss)
+- [Claude Mythos в день анонса: как Discord-группа обошла белый список Anthropic](https://habr.com/ru/news/1026466/?utm_campaign=1026466&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запускает публичную версию каталога готовых моделей на базе AI-платформы](https://habr.com/ru/companies/selectel/news/1026464/?utm_campaign=1026464&utm_source=habrahabr&utm_medium=rss)
+- [Apple в iOS 27 усилит требования к сетевой безопасности](https://habr.com/ru/news/1026436/?utm_campaign=1026436&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила экстренное обновление .NET для исправления серьёзной ошибки](https://habr.com/ru/news/1026424/?utm_campaign=1026424&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic случайно показали свои планы на Claude Code](https://habr.com/ru/news/1026420/?utm_campaign=1026420&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
