@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Mythos в день анонса: как Discord-группа обошла белый список Anthropic](https://habr.com/ru/news/1026466/?utm_campaign=1026466&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запускает публичную версию каталога готовых моделей на базе AI-платформы](https://habr.com/ru/companies/selectel/news/1026464/?utm_campaign=1026464&utm_source=habrahabr&utm_medium=rss)
-- [Apple в iOS 27 усилит требования к сетевой безопасности](https://habr.com/ru/news/1026436/?utm_campaign=1026436&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила экстренное обновление .NET для исправления серьёзной ошибки](https://habr.com/ru/news/1026424/?utm_campaign=1026424&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic случайно показали свои планы на Claude Code](https://habr.com/ru/news/1026420/?utm_campaign=1026420&utm_source=habrahabr&utm_medium=rss)
+- [Google признала проблему с ускоренным разрядом аккумуляторов в смартфонах Pixel после мартовского обновления](https://habr.com/ru/news/1026556/?utm_campaign=1026556&utm_source=habrahabr&utm_medium=rss)
+- [Единая платформа с сертификатом ФСТЭК России для управления виртуальными машинами и контейнерами](https://habr.com/ru/companies/flant/news/1026520/?utm_campaign=1026520&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic тестирует отключение Claude Code для части новых Pro-подписчиков](https://habr.com/ru/companies/bothub/news/1026540/?utm_campaign=1026540&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предупредила о волне кибератак через Teams: злоумышленники выдают себя за специалистов техподдержки](https://habr.com/ru/news/1026536/?utm_campaign=1026536&utm_source=habrahabr&utm_medium=rss)
+- [Ubisoft начала указывать знание ИИ-моделей в качестве обязательного требования при найме технических специалистов](https://habr.com/ru/news/1026534/?utm_campaign=1026534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
