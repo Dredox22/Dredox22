@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.7, Qwen3.6 35B-A3B и конец pull request как формата](https://habr.com/ru/news/1025710/?utm_campaign=1025710&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic убирает Claude Code из плана Pro за 20$](https://habr.com/ru/news/1026392/?utm_campaign=1026392&utm_source=habrahabr&utm_medium=rss)
+- [Amazon вложит $25 млрд в Anthropic: Claude получит 5 ГВт мощностей](https://habr.com/ru/news/1026388/?utm_campaign=1026388&utm_source=habrahabr&utm_medium=rss)
+- [Google собрал «ударную группу» против Claude — через пять месяцев после Code Red у OpenAI](https://habr.com/ru/news/1026374/?utm_campaign=1026374&utm_source=habrahabr&utm_medium=rss)
 - [Стилер-крипер: приложение для кражи данных распространяют под видом модов и читов для Minecraft](https://habr.com/ru/companies/F6/news/1025464/?utm_campaign=1025464&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla использовала Anthropic Claude Mythos Preview для анализа кода, ИИ помогла исправить 271 уязвимость в Firefox 150](https://habr.com/ru/news/1026360/?utm_campaign=1026360&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 150.0](https://habr.com/ru/news/1025880/?utm_campaign=1025880&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Git 2.54](https://habr.com/ru/news/1025900/?utm_campaign=1025900&utm_source=habrahabr&utm_medium=rss)
-- [Tencent выпустила CubeSandbox — легковесную песочницу для AI-агентов с запуском менее чем за 60 мс](https://habr.com/ru/news/1026342/?utm_campaign=1026342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
