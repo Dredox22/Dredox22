@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров сообщил, что ему пришла повестка «для подозреваемого» — в его российскую квартиру, где он жил 20 лет назад](https://habr.com/ru/news/1026738/?utm_campaign=1026738&utm_source=habrahabr&utm_medium=rss)
+- [Google анонсировала TPU 8: два ускорителя вместо одного — для обучения и ИИ-агентов](https://habr.com/ru/news/1026734/?utm_campaign=1026734&utm_source=habrahabr&utm_medium=rss)
 - [Неавторизованные пользователи получили доступ к Mythos от Anthropic](https://habr.com/ru/companies/bothub/news/1026732/?utm_campaign=1026732&utm_source=habrahabr&utm_medium=rss)
 - [ФАС: Apple могла нарушить закон РФ, удалив Telega из App Store](https://habr.com/ru/news/1026730/?utm_campaign=1026730&utm_source=habrahabr&utm_medium=rss)
 - [75% кода в Google пишет ИИ — но последнее слово за инженером](https://habr.com/ru/news/1026718/?utm_campaign=1026718&utm_source=habrahabr&utm_medium=rss)
-- [Новый режим «Книги» от Character.AI позволяет «пройти» книгу как ролевую игру](https://habr.com/ru/news/1026714/?utm_campaign=1026714&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: использование VPN российскими компаниями в корпоративных целях внутри страны не ограничено](https://habr.com/ru/news/1026710/?utm_campaign=1026710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
