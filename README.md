@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft связала проблемы с Universal Print с изменением кода Graph API](https://habr.com/ru/news/1026942/?utm_campaign=1026942&utm_source=habrahabr&utm_medium=rss)
+- [Apple исправила ошибку, которую использовали спецслужбы для извлечения удалённых сообщений чата с iPhone](https://habr.com/ru/news/1026916/?utm_campaign=1026916&utm_source=habrahabr&utm_medium=rss)
+- [Математики опровергли теорию 150-летней давности](https://habr.com/ru/news/1026790/?utm_campaign=1026790&utm_source=habrahabr&utm_medium=rss)
+- [Более 1300 серверов Microsoft SharePoint уязвимы для атак с подменой IP-адресов](https://habr.com/ru/news/1026892/?utm_campaign=1026892&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-инструмент копирует опенсорсный софт без нарушения авторских прав](https://habr.com/ru/news/1026884/?utm_campaign=1026884&utm_source=habrahabr&utm_medium=rss)
-- [UserGate поддержал Всероссийскую студенческую олимпиаду по информационной безопасности](https://habr.com/ru/companies/usergate/news/1026880/?utm_campaign=1026880&utm_source=habrahabr&utm_medium=rss)
-- [Дуров выпустил ИИ-трек про блокировки интернета](https://habr.com/ru/news/1026876/?utm_campaign=1026876&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies: число киберугроз для бизнеса растет — атаки теперь доступны как готовый сервис](https://habr.com/ru/companies/pt/news/1026810/?utm_campaign=1026810&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Godot для смартфонов: поддержка плагинов экосистем Android и iOS и улучшенный рендеринг на мобильных GPU](https://habr.com/ru/news/1026872/?utm_campaign=1026872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
