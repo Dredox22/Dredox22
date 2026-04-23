@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты Kaspersky ICS CERT нашли уязвимость в чипсетах Qualcomm](https://habr.com/ru/news/1027162/?utm_campaign=1027162&utm_source=habrahabr&utm_medium=rss)
+- [Чип, работающий как мозг, может снизить энергопотребление ИИ на 70%](https://habr.com/ru/news/1027164/?utm_campaign=1027164&utm_source=habrahabr&utm_medium=rss)
+- [GLM 5.1 vs DeepSeek V3.2 на Veai Agent Benchmark](https://habr.com/ru/companies/veai/news/1027156/?utm_campaign=1027156&utm_source=habrahabr&utm_medium=rss)
+- [Память подорожала, а собрать новый ПК нужно? Понадобится всего лишь кусок скотча…](https://habr.com/ru/companies/selectel/news/1027150/?utm_campaign=1027150&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI против OpenAI: компания открыла модель для защиты данных от ChatGPT](https://habr.com/ru/news/1027074/?utm_campaign=1027074&utm_source=habrahabr&utm_medium=rss)
-- [Касперская: доступ к белым VPN имеют менее одного процента компаний РФ, а стабильная работа сервисов под вопросом](https://habr.com/ru/news/1027060/?utm_campaign=1027060&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила отказ от официального способа активации Windows 10/11 без интернета](https://habr.com/ru/news/1027046/?utm_campaign=1027046&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/1027056/?utm_campaign=1027056&utm_source=habrahabr&utm_medium=rss)
-- [ИИ в сервисе «Яндекс Go» предугадает адрес поездки, подскажет комментарий к месту подачи и покажет время поиска машины](https://habr.com/ru/news/1027020/?utm_campaign=1027020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
