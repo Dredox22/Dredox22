@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В «Билайне» изучают возможность введения белого списка VPN](https://habr.com/ru/news/1026832/?utm_campaign=1026832&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект WSL9x — подсистема Windows 9x для Linux](https://habr.com/ru/news/1026702/?utm_campaign=1026702&utm_source=habrahabr&utm_medium=rss)
-- [Вышел эмулятор QEMU 11.0](https://habr.com/ru/news/1026384/?utm_campaign=1026384&utm_source=habrahabr&utm_medium=rss)
-- [«Крестный отец ИИ»: мы строим машину без руля](https://habr.com/ru/news/1026802/?utm_campaign=1026802&utm_source=habrahabr&utm_medium=rss)
-- [ИИ PRET определяет 18 типов рака по 8 слайдам без переобучения](https://habr.com/ru/news/1026788/?utm_campaign=1026788&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-инструмент копирует опенсорсный софт без нарушения авторских прав](https://habr.com/ru/news/1026884/?utm_campaign=1026884&utm_source=habrahabr&utm_medium=rss)
+- [UserGate поддержал Всероссийскую студенческую олимпиаду по информационной безопасности](https://habr.com/ru/companies/usergate/news/1026880/?utm_campaign=1026880&utm_source=habrahabr&utm_medium=rss)
+- [Дуров выпустил ИИ-трек про блокировки интернета](https://habr.com/ru/news/1026876/?utm_campaign=1026876&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies: число киберугроз для бизнеса растет — атаки теперь доступны как готовый сервис](https://habr.com/ru/companies/pt/news/1026810/?utm_campaign=1026810&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Godot для смартфонов: поддержка плагинов экосистем Android и iOS и улучшенный рендеринг на мобильных GPU](https://habr.com/ru/news/1026872/?utm_campaign=1026872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
