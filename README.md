@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Трафик под контролем: как повысить эффективность мониторинга без потери качества](https://habr.com/ru/companies/dsol/news/1027186/?utm_campaign=1027186&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft поделилась решением проблемы с функцией File History в Windows 11 и 10, мешавшей резервному копированию](https://habr.com/ru/news/1027180/?utm_campaign=1027180&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.5 засветилась в Codex — релиз возможен в ближайшие часы](https://habr.com/ru/news/1027176/?utm_campaign=1027176&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты Kaspersky ICS CERT нашли уязвимость в чипсетах Qualcomm](https://habr.com/ru/news/1027162/?utm_campaign=1027162&utm_source=habrahabr&utm_medium=rss)
 - [Чип, работающий как мозг, может снизить энергопотребление ИИ на 70%](https://habr.com/ru/news/1027164/?utm_campaign=1027164&utm_source=habrahabr&utm_medium=rss)
-- [GLM 5.1 vs DeepSeek V3.2 на Veai Agent Benchmark](https://habr.com/ru/companies/veai/news/1027156/?utm_campaign=1027156&utm_source=habrahabr&utm_medium=rss)
-- [Память подорожала, а собрать новый ПК нужно? Понадобится всего лишь кусок скотча…](https://habr.com/ru/companies/selectel/news/1027150/?utm_campaign=1027150&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI против OpenAI: компания открыла модель для защиты данных от ChatGPT](https://habr.com/ru/news/1027074/?utm_campaign=1027074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
