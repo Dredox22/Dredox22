@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.5 возглавила рейтинг сильнейших ИИ с тревожной оговоркой](https://habr.com/ru/news/1027258/?utm_campaign=1027258&utm_source=habrahabr&utm_medium=rss)
 - [Tencent запустила тестирование ИИ-агента QClaw, но сильно ограничила к нему доступ](https://habr.com/ru/companies/bothub/news/1027234/?utm_campaign=1027234&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GPT-5.5 — модель, которая сама создала часть своего инференса](https://habr.com/ru/news/1027222/?utm_campaign=1027222&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустили GPT-5.5: пишет код дешевле предшественника](https://habr.com/ru/news/1027220/?utm_campaign=1027220&utm_source=habrahabr&utm_medium=rss)
 - [Gemini против Mythos: Google отвечает Anthropic и OpenAI армией агентов вместо одной «страшной» модели](https://habr.com/ru/companies/ideco/news/1027216/?utm_campaign=1027216&utm_source=habrahabr&utm_medium=rss)
-- [Canonical выпустила Ubuntu 26.04 LTS Resolute Raccoon](https://habr.com/ru/news/1027202/?utm_campaign=1027202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
