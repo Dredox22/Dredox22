@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Линус Торвальдс похвалил ИИ-инструменты для анализа кода](https://habr.com/ru/news/1026982/?utm_campaign=1026982&utm_source=habrahabr&utm_medium=rss)
-- [Определитель номера «Яндекса» предупредит пользователей о звонках мошенников их близким](https://habr.com/ru/news/1026976/?utm_campaign=1026976&utm_source=habrahabr&utm_medium=rss)
-- [Selectel представил AI-Сервер с поддержкой до 16 GPU](https://habr.com/ru/companies/bothub/news/1026974/?utm_campaign=1026974&utm_source=habrahabr&utm_medium=rss)
-- [Неизвестные «спецслужбы» и остановка работы: что случилось с криптобиржей Grinex](https://habr.com/ru/news/1026964/?utm_campaign=1026964&utm_source=habrahabr&utm_medium=rss)
-- [В Казахстане начали блокировать возможность скачивания инструментов и релизов с GitHub](https://habr.com/ru/news/1026958/?utm_campaign=1026958&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI против OpenAI: компания открыла модель для защиты данных от ChatGPT](https://habr.com/ru/news/1027074/?utm_campaign=1027074&utm_source=habrahabr&utm_medium=rss)
+- [Касперская: доступ к белым VPN имеют менее одного процента компаний РФ, а стабильная работа сервисов под вопросом](https://habr.com/ru/news/1027060/?utm_campaign=1027060&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft объяснила отказ от официального способа активации Windows 10/11 без интернета](https://habr.com/ru/news/1027046/?utm_campaign=1027046&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обновило список сайтов и сервисов, которые будут работать во время блокировок мобильного интернета](https://habr.com/ru/news/1027056/?utm_campaign=1027056&utm_source=habrahabr&utm_medium=rss)
+- [ИИ в сервисе «Яндекс Go» предугадает адрес поездки, подскажет комментарий к месту подачи и покажет время поиска машины](https://habr.com/ru/news/1027020/?utm_campaign=1027020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
