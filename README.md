@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft связала проблемы с Universal Print с изменением кода Graph API](https://habr.com/ru/news/1026942/?utm_campaign=1026942&utm_source=habrahabr&utm_medium=rss)
-- [Apple исправила ошибку, которую использовали спецслужбы для извлечения удалённых сообщений чата с iPhone](https://habr.com/ru/news/1026916/?utm_campaign=1026916&utm_source=habrahabr&utm_medium=rss)
-- [Математики опровергли теорию 150-летней давности](https://habr.com/ru/news/1026790/?utm_campaign=1026790&utm_source=habrahabr&utm_medium=rss)
-- [Более 1300 серверов Microsoft SharePoint уязвимы для атак с подменой IP-адресов](https://habr.com/ru/news/1026892/?utm_campaign=1026892&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-инструмент копирует опенсорсный софт без нарушения авторских прав](https://habr.com/ru/news/1026884/?utm_campaign=1026884&utm_source=habrahabr&utm_medium=rss)
+- [Линус Торвальдс похвалил ИИ-инструменты для анализа кода](https://habr.com/ru/news/1026982/?utm_campaign=1026982&utm_source=habrahabr&utm_medium=rss)
+- [Определитель номера «Яндекса» предупредит пользователей о звонках мошенников их близким](https://habr.com/ru/news/1026976/?utm_campaign=1026976&utm_source=habrahabr&utm_medium=rss)
+- [Selectel представил AI-Сервер с поддержкой до 16 GPU](https://habr.com/ru/companies/bothub/news/1026974/?utm_campaign=1026974&utm_source=habrahabr&utm_medium=rss)
+- [Неизвестные «спецслужбы» и остановка работы: что случилось с криптобиржей Grinex](https://habr.com/ru/news/1026964/?utm_campaign=1026964&utm_source=habrahabr&utm_medium=rss)
+- [В Казахстане начали блокировать возможность скачивания инструментов и релизов с GitHub](https://habr.com/ru/news/1026958/?utm_campaign=1026958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
