@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Билайне» изучают возможность введения белого списка VPN](https://habr.com/ru/news/1026832/?utm_campaign=1026832&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект WSL9x — подсистема Windows 9x для Linux](https://habr.com/ru/news/1026702/?utm_campaign=1026702&utm_source=habrahabr&utm_medium=rss)
+- [Вышел эмулятор QEMU 11.0](https://habr.com/ru/news/1026384/?utm_campaign=1026384&utm_source=habrahabr&utm_medium=rss)
 - [«Крестный отец ИИ»: мы строим машину без руля](https://habr.com/ru/news/1026802/?utm_campaign=1026802&utm_source=habrahabr&utm_medium=rss)
 - [ИИ PRET определяет 18 типов рака по 8 слайдам без переобучения](https://habr.com/ru/news/1026788/?utm_campaign=1026788&utm_source=habrahabr&utm_medium=rss)
-- [Qwen выпустила 27B-модель, которая обгоняет флагман на 397B](https://habr.com/ru/companies/bothub/news/1026762/?utm_campaign=1026762&utm_source=habrahabr&utm_medium=rss)
-- [Дуров сообщил, что ему пришла повестка «для подозреваемого» — в его российскую квартиру, где он жил 20 лет назад](https://habr.com/ru/news/1026738/?utm_campaign=1026738&utm_source=habrahabr&utm_medium=rss)
-- [Google анонсировала TPU 8: два ускорителя вместо одного — для обучения и ИИ-агентов](https://habr.com/ru/news/1026734/?utm_campaign=1026734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
