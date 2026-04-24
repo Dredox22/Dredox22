@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ростелеком» со специалистами Невского рыбзавода провёл экологическую акцию по зарыблению реки Невы](https://habr.com/ru/news/1027534/?utm_campaign=1027534&utm_source=habrahabr&utm_medium=rss)
-- [INSTANDA и DataCrest ускоряют страховые котировки с помощью AI: от часов к минутам](https://habr.com/ru/companies/technokratos/news/1027524/?utm_campaign=1027524&utm_source=habrahabr&utm_medium=rss)
-- [Intel: часто плохая производительность в играх связана не с низкой мощностью процессора, а с плохой оптимизацией ПО](https://habr.com/ru/news/1027522/?utm_campaign=1027522&utm_source=habrahabr&utm_medium=rss)
-- [Представлено устройство для отражения атак через кабели монитора HDMI и Display Port](https://habr.com/ru/news/1027498/?utm_campaign=1027498&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила ChatGPT для врачей](https://habr.com/ru/companies/bothub/news/1027492/?utm_campaign=1027492&utm_source=habrahabr&utm_medium=rss)
+- [Представлен эмулятор для Atari с поддержкой FujiNet](https://habr.com/ru/news/1027586/?utm_campaign=1027586&utm_source=habrahabr&utm_medium=rss)
+- [Veai на Heisenbug Spring и JPoint 2026](https://habr.com/ru/companies/veai/news/1027576/?utm_campaign=1027576&utm_source=habrahabr&utm_medium=rss)
+- [️ Veai уже поддерживает GPT‑5.5](https://habr.com/ru/companies/veai/news/1027552/?utm_campaign=1027552&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость в вайб-кодинговой платформе Lovable давала доступ к чужому исходному коду и другой информации](https://habr.com/ru/news/1027546/?utm_campaign=1027546&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft превратила Copilot в полноценного агента внутри Office](https://habr.com/ru/companies/bothub/news/1027542/?utm_campaign=1027542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
