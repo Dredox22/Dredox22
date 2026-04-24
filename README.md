@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ФАС РФ: оператор «Ловител» установил недискриминационный доступ к инфраструктуре жилых комплексов для операторов связи](https://habr.com/ru/news/1027628/?utm_campaign=1027628&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала позволять IT‑администраторам удалять Copilot на корпоративных устройствах](https://habr.com/ru/news/1027608/?utm_campaign=1027608&utm_source=habrahabr&utm_medium=rss)
+- [Янн Лекун: не слушайте CEO ИИ-компаний в прогнозах о рабочих местах](https://habr.com/ru/news/1027606/?utm_campaign=1027606&utm_source=habrahabr&utm_medium=rss)
 - [Представлен эмулятор для Atari с поддержкой FujiNet](https://habr.com/ru/news/1027586/?utm_campaign=1027586&utm_source=habrahabr&utm_medium=rss)
 - [Veai на Heisenbug Spring и JPoint 2026](https://habr.com/ru/companies/veai/news/1027576/?utm_campaign=1027576&utm_source=habrahabr&utm_medium=rss)
-- [️ Veai уже поддерживает GPT‑5.5](https://habr.com/ru/companies/veai/news/1027552/?utm_campaign=1027552&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость в вайб-кодинговой платформе Lovable давала доступ к чужому исходному коду и другой информации](https://habr.com/ru/news/1027546/?utm_campaign=1027546&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft превратила Copilot в полноценного агента внутри Office](https://habr.com/ru/companies/bothub/news/1027542/?utm_campaign=1027542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
