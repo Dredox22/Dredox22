@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследование: регулярный сброс паролей не особо безопасен](https://habr.com/ru/news/1027366/?utm_campaign=1027366&utm_source=habrahabr&utm_medium=rss)
-- [Тим Кук назвал неудачный запуск сервиса Apple Maps своей «первой по-настоящему большой ошибкой» на посту главы компании](https://habr.com/ru/news/1027338/?utm_campaign=1027338&utm_source=habrahabr&utm_medium=rss)
-- [Норвегия ограничит доступ к социальным сетям для детей младше 16 лет](https://habr.com/ru/news/1027336/?utm_campaign=1027336&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые пользователи Teams не могут присоединиться к встречам после обновления Edge](https://habr.com/ru/news/1027332/?utm_campaign=1027332&utm_source=habrahabr&utm_medium=rss)
-- [Инженера Samsung приговорили к семи годам тюрьмы за передачу технологии производства DRAM китайской компании CXMT](https://habr.com/ru/news/1027328/?utm_campaign=1027328&utm_source=habrahabr&utm_medium=rss)
+- [xAI выпустила флагманскую голосовую модель для реального общения](https://habr.com/ru/companies/bothub/news/1027470/?utm_campaign=1027470&utm_source=habrahabr&utm_medium=rss)
+- [Рост числа дата-центров в США помогает продлевать сроки эксплуатации угольных электростанций](https://habr.com/ru/news/1027438/?utm_campaign=1027438&utm_source=habrahabr&utm_medium=rss)
+- [30% рабочего времени — на борьбу с DPI. Что происходит с VPN в России и как это меняет работу айтишников](https://habr.com/ru/companies/otus/news/1026820/?utm_campaign=1026820&utm_source=habrahabr&utm_medium=rss)
+- [Marvell Technology купила разработчика маломощных кремниевых фотонных устройств на основе плазмоники](https://habr.com/ru/news/1027412/?utm_campaign=1027412&utm_source=habrahabr&utm_medium=rss)
+- [red_mad_robot выпустила платформу для управления LLM в бизнесе](https://habr.com/ru/companies/bothub/news/1027414/?utm_campaign=1027414&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
