@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.5 возглавила рейтинг сильнейших ИИ с тревожной оговоркой](https://habr.com/ru/news/1027258/?utm_campaign=1027258&utm_source=habrahabr&utm_medium=rss)
-- [Tencent запустила тестирование ИИ-агента QClaw, но сильно ограничила к нему доступ](https://habr.com/ru/companies/bothub/news/1027234/?utm_campaign=1027234&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT-5.5 — модель, которая сама создала часть своего инференса](https://habr.com/ru/news/1027222/?utm_campaign=1027222&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустили GPT-5.5: пишет код дешевле предшественника](https://habr.com/ru/news/1027220/?utm_campaign=1027220&utm_source=habrahabr&utm_medium=rss)
-- [Gemini против Mythos: Google отвечает Anthropic и OpenAI армией агентов вместо одной «страшной» модели](https://habr.com/ru/companies/ideco/news/1027216/?utm_campaign=1027216&utm_source=habrahabr&utm_medium=rss)
+- [Ежегодная премия для этичных хакеров Pentest award 2026 снова открывает прием заявок](https://habr.com/ru/news/1026564/?utm_campaign=1026564&utm_source=habrahabr&utm_medium=rss)
+- [Зарубежный трафик в российских сетях за 2025 год увеличился на 15-20%](https://habr.com/ru/news/1027286/?utm_campaign=1027286&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Nuitka 4.0 — компилятора для языка Python](https://habr.com/ru/news/1027100/?utm_campaign=1027100&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Command Finder для поиска команд в терминале на естественном языке](https://habr.com/ru/news/1026890/?utm_campaign=1026890&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Tails 7.7](https://habr.com/ru/news/1027106/?utm_campaign=1027106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
