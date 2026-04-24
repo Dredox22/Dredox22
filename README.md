@@ -86,10 +86,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bambu Lab угрожает судом разработчику, который вернул в форк Orca Slicer отправку заданий на принтеры компании](https://habr.com/ru/news/1027664/?utm_campaign=1027664&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-трек Дурова успели защитить до того, как его начали использовать другие для монетизации](https://habr.com/ru/news/1027662/?utm_campaign=1027662&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity раскрыла, как обучает поискового AI-агента на Qwen](https://habr.com/ru/companies/bothub/news/1027650/?utm_campaign=1027650&utm_source=habrahabr&utm_medium=rss)
 - [На Alibaba выложили для продажи медицинские данные 500 тыс. добровольцев биобанка UK Biobank](https://habr.com/ru/news/1027640/?utm_campaign=1027640&utm_source=habrahabr&utm_medium=rss)
 - [ФАС РФ: оператор «Ловител» установил недискриминационный доступ к инфраструктуре жилых комплексов для операторов связи](https://habr.com/ru/news/1027628/?utm_campaign=1027628&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала позволять IT‑администраторам удалять Copilot на корпоративных устройствах](https://habr.com/ru/news/1027608/?utm_campaign=1027608&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
