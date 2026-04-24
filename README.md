@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ежегодная премия для этичных хакеров Pentest award 2026 снова открывает прием заявок](https://habr.com/ru/news/1026564/?utm_campaign=1026564&utm_source=habrahabr&utm_medium=rss)
-- [Зарубежный трафик в российских сетях за 2025 год увеличился на 15-20%](https://habr.com/ru/news/1027286/?utm_campaign=1027286&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Nuitka 4.0 — компилятора для языка Python](https://habr.com/ru/news/1027100/?utm_campaign=1027100&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Command Finder для поиска команд в терминале на естественном языке](https://habr.com/ru/news/1026890/?utm_campaign=1026890&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.7](https://habr.com/ru/news/1027106/?utm_campaign=1027106&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: регулярный сброс паролей не особо безопасен](https://habr.com/ru/news/1027366/?utm_campaign=1027366&utm_source=habrahabr&utm_medium=rss)
+- [Тим Кук назвал неудачный запуск сервиса Apple Maps своей «первой по-настоящему большой ошибкой» на посту главы компании](https://habr.com/ru/news/1027338/?utm_campaign=1027338&utm_source=habrahabr&utm_medium=rss)
+- [Норвегия ограничит доступ к социальным сетям для детей младше 16 лет](https://habr.com/ru/news/1027336/?utm_campaign=1027336&utm_source=habrahabr&utm_medium=rss)
+- [Некоторые пользователи Teams не могут присоединиться к встречам после обновления Edge](https://habr.com/ru/news/1027332/?utm_campaign=1027332&utm_source=habrahabr&utm_medium=rss)
+- [Инженера Samsung приговорили к семи годам тюрьмы за передачу технологии производства DRAM китайской компании CXMT](https://habr.com/ru/news/1027328/?utm_campaign=1027328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
