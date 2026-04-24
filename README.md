@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [xAI выпустила флагманскую голосовую модель для реального общения](https://habr.com/ru/companies/bothub/news/1027470/?utm_campaign=1027470&utm_source=habrahabr&utm_medium=rss)
-- [Рост числа дата-центров в США помогает продлевать сроки эксплуатации угольных электростанций](https://habr.com/ru/news/1027438/?utm_campaign=1027438&utm_source=habrahabr&utm_medium=rss)
-- [30% рабочего времени — на борьбу с DPI. Что происходит с VPN в России и как это меняет работу айтишников](https://habr.com/ru/companies/otus/news/1026820/?utm_campaign=1026820&utm_source=habrahabr&utm_medium=rss)
-- [Marvell Technology купила разработчика маломощных кремниевых фотонных устройств на основе плазмоники](https://habr.com/ru/news/1027412/?utm_campaign=1027412&utm_source=habrahabr&utm_medium=rss)
-- [red_mad_robot выпустила платформу для управления LLM в бизнесе](https://habr.com/ru/companies/bothub/news/1027414/?utm_campaign=1027414&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» со специалистами Невского рыбзавода провёл экологическую акцию по зарыблению реки Невы](https://habr.com/ru/news/1027534/?utm_campaign=1027534&utm_source=habrahabr&utm_medium=rss)
+- [INSTANDA и DataCrest ускоряют страховые котировки с помощью AI: от часов к минутам](https://habr.com/ru/companies/technokratos/news/1027524/?utm_campaign=1027524&utm_source=habrahabr&utm_medium=rss)
+- [Intel: часто плохая производительность в играх связана не с низкой мощностью процессора, а с плохой оптимизацией ПО](https://habr.com/ru/news/1027522/?utm_campaign=1027522&utm_source=habrahabr&utm_medium=rss)
+- [Представлено устройство для отражения атак через кабели монитора HDMI и Display Port](https://habr.com/ru/news/1027498/?utm_campaign=1027498&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила ChatGPT для врачей](https://habr.com/ru/companies/bothub/news/1027492/?utm_campaign=1027492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
