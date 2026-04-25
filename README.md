@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В MIT научили ИИ предупреждать о галлюцинациях](https://habr.com/ru/news/1027770/?utm_campaign=1027770&utm_source=habrahabr&utm_medium=rss)
+- [Чиновники Евросоюза предупредили об опасности эмодзи-шифра и вызвали волну насмешек в сети](https://habr.com/ru/news/1027760/?utm_campaign=1027760&utm_source=habrahabr&utm_medium=rss)
 - [Компания X выпустила мессенджер XChat, пока доступна мобильная версия клиента для iOS](https://habr.com/ru/news/1027758/?utm_campaign=1027758&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление FreeRDP 3.25](https://habr.com/ru/news/1027444/?utm_campaign=1027444&utm_source=habrahabr&utm_medium=rss)
 - [Анонс лекции по MBSE](https://habr.com/ru/news/1027714/?utm_campaign=1027714&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic назвала причины «отупения» Claude Code](https://habr.com/ru/news/1027712/?utm_campaign=1027712&utm_source=habrahabr&utm_medium=rss)
-- [Bambu Lab угрожает судом разработчику, который вернул в форк Orca Slicer отправку заданий на принтеры компании](https://habr.com/ru/news/1027664/?utm_campaign=1027664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
