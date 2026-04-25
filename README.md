@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Госдеп США против DeepSeek: как дистилляция ИИ стала дипломатическим оружием](https://habr.com/ru/news/1027976/?utm_campaign=1027976&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в ИИ-агента Office для «вайб-воркинга» в Word, Excel и PowerPoint](https://habr.com/ru/news/1027264/?utm_campaign=1027264&utm_source=habrahabr&utm_medium=rss)
 - [Выпускник HBS создал Chrome-плагин, который добавляет опечатки в ИИ-письма](https://habr.com/ru/companies/bothub/news/1027920/?utm_campaign=1027920&utm_source=habrahabr&utm_medium=rss)
 - [Claude подключили к Spotify, Uber и Booking.com](https://habr.com/ru/news/1027912/?utm_campaign=1027912&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Qwen-Image-2.0-Pro: улучшенные пространственные связи, текстуры и рендеринг текста](https://habr.com/ru/companies/bothub/news/1027888/?utm_campaign=1027888&utm_source=habrahabr&utm_medium=rss)
-- [Proton Pass получит папки, SSH-агент и другие функции](https://habr.com/ru/news/1027844/?utm_campaign=1027844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
