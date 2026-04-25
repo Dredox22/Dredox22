@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude подключили к Spotify, Uber и Booking.com](https://habr.com/ru/news/1027912/?utm_campaign=1027912&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Qwen-Image-2.0-Pro: улучшенные пространственные связи, текстуры и рендеринг текста](https://habr.com/ru/companies/bothub/news/1027888/?utm_campaign=1027888&utm_source=habrahabr&utm_medium=rss)
 - [Proton Pass получит папки, SSH-агент и другие функции](https://habr.com/ru/news/1027844/?utm_campaign=1027844&utm_source=habrahabr&utm_medium=rss)
 - [МВД России советует не ходить по ссылкам за пределы доменной зоны РФ](https://habr.com/ru/news/1027836/?utm_campaign=1027836&utm_source=habrahabr&utm_medium=rss)
 - [Лауреат премии Тьюринга: Claude Mythos нельзя оставлять под контролем Anthropic](https://habr.com/ru/news/1027848/?utm_campaign=1027848&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.5, DeepSeek V4 и Kimi K2.6 уже доступны в Veai](https://habr.com/ru/companies/veai/news/1027820/?utm_campaign=1027820&utm_source=habrahabr&utm_medium=rss)
-- [CISCO заменяет проблемные маршрутизаторы. Так ли это?](https://habr.com/ru/news/1027816/?utm_campaign=1027816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
