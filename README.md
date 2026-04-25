@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung и Kingston повысят цену на свои SSD](https://habr.com/ru/news/1027778/?utm_campaign=1027778&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Cursor 3.2: мультизадачность, улучшенные worktrees и multi-root workspaces](https://habr.com/ru/companies/bothub/news/1027772/?utm_campaign=1027772&utm_source=habrahabr&utm_medium=rss)
 - [В MIT научили ИИ предупреждать о галлюцинациях](https://habr.com/ru/news/1027770/?utm_campaign=1027770&utm_source=habrahabr&utm_medium=rss)
 - [Чиновники Евросоюза предупредили об опасности эмодзи-шифра и вызвали волну насмешек в сети](https://habr.com/ru/news/1027760/?utm_campaign=1027760&utm_source=habrahabr&utm_medium=rss)
 - [Компания X выпустила мессенджер XChat, пока доступна мобильная версия клиента для iOS](https://habr.com/ru/news/1027758/?utm_campaign=1027758&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление FreeRDP 3.25](https://habr.com/ru/news/1027444/?utm_campaign=1027444&utm_source=habrahabr&utm_medium=rss)
-- [Анонс лекции по MBSE](https://habr.com/ru/news/1027714/?utm_campaign=1027714&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
