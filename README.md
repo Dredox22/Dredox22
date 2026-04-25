@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.5, DeepSeek V4 и Kimi K2.6 уже доступны в Veai](https://habr.com/ru/companies/veai/news/1027820/?utm_campaign=1027820&utm_source=habrahabr&utm_medium=rss)
+- [CISCO заменяет проблемные маршрутизаторы. Так ли это?](https://habr.com/ru/news/1027816/?utm_campaign=1027816&utm_source=habrahabr&utm_medium=rss)
 - [Руководитель Google Cloud: практически все крупные студии уже применяют ИИ в разработке игр, но не рассказывают об этом](https://habr.com/ru/news/1027810/?utm_campaign=1027810&utm_source=habrahabr&utm_medium=rss)
 - [ИИ перебрал 46 млрд молекул и антибиотик-кандидат против устойчивого стафилококка](https://habr.com/ru/news/1027800/?utm_campaign=1027800&utm_source=habrahabr&utm_medium=rss)
 - [Samsung и Kingston повысят цену на свои SSD](https://habr.com/ru/news/1027778/?utm_campaign=1027778&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Cursor 3.2: мультизадачность, улучшенные worktrees и multi-root workspaces](https://habr.com/ru/companies/bothub/news/1027772/?utm_campaign=1027772&utm_source=habrahabr&utm_medium=rss)
-- [В MIT научили ИИ предупреждать о галлюцинациях](https://habr.com/ru/news/1027770/?utm_campaign=1027770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
