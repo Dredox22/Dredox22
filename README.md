@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман: Anthropic использует для продвижения Claude Mythos маркетинг, основанный на страхе](https://habr.com/ru/news/1027260/?utm_campaign=1027260&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Claude в США оказались богаче аудитории ChatGPT](https://habr.com/ru/news/1028256/?utm_campaign=1028256&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI выпустила гайд по GPT-5.5 и предупредила: старые промпты могут мешать](https://habr.com/ru/news/1028242/?utm_campaign=1028242&utm_source=habrahabr&utm_medium=rss)
 - [Netgear получила первое исключение из американского запрета на домашние роутеры зарубежного производства](https://habr.com/ru/news/1028194/?utm_campaign=1028194&utm_source=habrahabr&utm_medium=rss)
 - [«Росэл» представил прототип гибко-жёстких плат книжной конструкции для космической техники на «ЭкспоЭлектронике-2026»](https://habr.com/ru/news/1028162/?utm_campaign=1028162&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.2](https://habr.com/ru/news/1027824/?utm_campaign=1027824&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
