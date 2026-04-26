@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователь получил 1 биткоин за взлом 15-битного ECC-ключа при помощи квантового компьютера](https://habr.com/ru/news/1028066/?utm_campaign=1028066&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.5 взял 130 IQ на закрытом тесте TrackingAI](https://habr.com/ru/news/1028048/?utm_campaign=1028048&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь безопасности представил систему для взлома арендных IoT-устройств](https://habr.com/ru/news/1028036/?utm_campaign=1028036&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь обнаружил включённый по умолчанию SSH в своём аудиоинтерфейсе](https://habr.com/ru/news/1028024/?utm_campaign=1028024&utm_source=habrahabr&utm_medium=rss)
 - [Центр обновления Windows обновили для уменьшения количества принудительных перезагрузок](https://habr.com/ru/news/1028018/?utm_campaign=1028018&utm_source=habrahabr&utm_medium=rss)
-- [Любитель с ChatGPT Pro решил &lpar;новую&rpar; 60-летнюю математическую задачу Эрдёша](https://habr.com/ru/companies/bothub/news/1028014/?utm_campaign=1028014&utm_source=habrahabr&utm_medium=rss)
-- [Canonical: при аудите в Rust Coreutils выявлено 113 уязвимостей, в Ubuntu 26.04 включены cp, mv и rm из GNU Coreutils](https://habr.com/ru/news/1027834/?utm_campaign=1027834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
