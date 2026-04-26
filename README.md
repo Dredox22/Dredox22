@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Netgear получила первое исключение из американского запрета на домашние роутеры зарубежного производства](https://habr.com/ru/news/1028194/?utm_campaign=1028194&utm_source=habrahabr&utm_medium=rss)
 - [«Росэл» представил прототип гибко-жёстких плат книжной конструкции для космической техники на «ЭкспоЭлектронике-2026»](https://habr.com/ru/news/1028162/?utm_campaign=1028162&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.2](https://habr.com/ru/news/1027824/?utm_campaign=1027824&utm_source=habrahabr&utm_medium=rss)
 - [Представлено расширение Cat Gatekeeper для Chrome, в котором толстый кот по таймеру спасет от залипания в монитор](https://habr.com/ru/news/1028120/?utm_campaign=1028120&utm_source=habrahabr&utm_medium=rss)
 - [Единая цена, Auto-режим и оркестрация: как Veai выбирает модель за вас](https://habr.com/ru/companies/veai/news/1028118/?utm_campaign=1028118&utm_source=habrahabr&utm_medium=rss)
-- [В Ars Technica пояснили свою политику в отношении использования генеративного ИИ](https://habr.com/ru/news/1028108/?utm_campaign=1028108&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek AI: “V4 отстаёт от лучших ИИ-моделей всего на 3–6 месяцев”](https://habr.com/ru/companies/bothub/news/1028090/?utm_campaign=1028090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
