@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Canonical: при аудите в Rust Coreutils выявлено 113 уязвимостей, в Ubuntu 26.04 включены cp, mv и rm из GNU Coreutils](https://habr.com/ru/news/1027834/?utm_campaign=1027834&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого просмотрщика изображений QuickView 5.3.0 для Windows 10/11](https://habr.com/ru/news/1027822/?utm_campaign=1027822&utm_source=habrahabr&utm_medium=rss)
 - [Госдеп США против DeepSeek: как дистилляция ИИ стала дипломатическим оружием](https://habr.com/ru/news/1027976/?utm_campaign=1027976&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в ИИ-агента Office для «вайб-воркинга» в Word, Excel и PowerPoint](https://habr.com/ru/news/1027264/?utm_campaign=1027264&utm_source=habrahabr&utm_medium=rss)
 - [Выпускник HBS создал Chrome-плагин, который добавляет опечатки в ИИ-письма](https://habr.com/ru/companies/bothub/news/1027920/?utm_campaign=1027920&utm_source=habrahabr&utm_medium=rss)
-- [Claude подключили к Spotify, Uber и Booking.com](https://habr.com/ru/news/1027912/?utm_campaign=1027912&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Qwen-Image-2.0-Pro: улучшенные пространственные связи, текстуры и рендеринг текста](https://habr.com/ru/companies/bothub/news/1027888/?utm_campaign=1027888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
