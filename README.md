@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Ars Technica пояснили свою политику в отношении использования генеративного ИИ](https://habr.com/ru/news/1028108/?utm_campaign=1028108&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek AI: “V4 отстаёт от лучших ИИ-моделей всего на 3–6 месяцев”](https://habr.com/ru/companies/bothub/news/1028090/?utm_campaign=1028090&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила обновлённую программу Windows Insider](https://habr.com/ru/news/1028076/?utm_campaign=1028076&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запустила ИИ-маркетплейс, где нейросети продавали и покупали реальные товары за настоящие деньги](https://habr.com/ru/news/1028068/?utm_campaign=1028068&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь получил 1 биткоин за взлом 15-битного ECC-ключа при помощи квантового компьютера](https://habr.com/ru/news/1028066/?utm_campaign=1028066&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.5 стал лучшим ИИ в тесте IQ](https://habr.com/ru/news/1028048/?utm_campaign=1028048&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь безопасности представил систему для взлома арендных IoT-устройств](https://habr.com/ru/news/1028036/?utm_campaign=1028036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
