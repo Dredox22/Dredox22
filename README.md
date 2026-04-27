@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Noctua опубликовала CAD-файлы своих ПК-кулеров, но они непригодны для печати](https://habr.com/ru/news/1028830/?utm_campaign=1028830&utm_source=habrahabr&utm_medium=rss)
 - [Хочешь сделать человеку хорошо? Сделай ему плохо, а потом чуть-чуть лучше](https://habr.com/ru/news/1028810/?utm_campaign=1028810&utm_source=habrahabr&utm_medium=rss)
 - [МВД предупредило россиян о вероятных взломах роутеров мошенниками для совершения киберпреступлений](https://habr.com/ru/news/1028798/?utm_campaign=1028798&utm_source=habrahabr&utm_medium=rss)
 - [Искусственные нейроны Northwestern «поговорили» с живым мозгом](https://habr.com/ru/news/1028786/?utm_campaign=1028786&utm_source=habrahabr&utm_medium=rss)
 - [Соглашение об AGI умерло: Microsoft и OpenAI переписали правила игры](https://habr.com/ru/news/1028740/?utm_campaign=1028740&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар. Kubernetes своими руками: Какие скрытые издержки self-made K8s съедают бюджет и время команды?](https://habr.com/ru/companies/beeline_cloud/news/1028704/?utm_campaign=1028704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
