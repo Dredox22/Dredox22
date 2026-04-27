@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Соглашение об AGI умерло: Microsoft и OpenAI переписали правила игры](https://habr.com/ru/news/1028740/?utm_campaign=1028740&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар. Kubernetes своими руками: Какие скрытые издержки self-made K8s съедают бюджет и время команды?](https://habr.com/ru/companies/beeline_cloud/news/1028704/?utm_campaign=1028704&utm_source=habrahabr&utm_medium=rss)
 - [SimpleOne выпустила платформу 1.32.0: быстрые переносы конфигураций, точнее SLA, удобная работа с каталогом услуг](https://habr.com/ru/companies/simpleone/news/1028654/?utm_campaign=1028654&utm_source=habrahabr&utm_medium=rss)
 - [И это ваш AGI? DeepSeek V4 допустил мрачную ошибку в задаче про апельсины и нож](https://habr.com/ru/news/1028634/?utm_campaign=1028634&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI, MediaTek и Qualcomm работают над мобильным чипом для ИИ-смартфона](https://habr.com/ru/news/1028626/?utm_campaign=1028626&utm_source=habrahabr&utm_medium=rss)
-- [У ИИ-подрядчиков Mercor украли 4 ТБ голосовых сэмплов](https://habr.com/ru/news/1028624/?utm_campaign=1028624&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
