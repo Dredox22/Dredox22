@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Российские исследователи разработали модели для перевода устных математических формул в LaTeX](https://habr.com/ru/news/1028550/?utm_campaign=1028550&utm_source=habrahabr&utm_medium=rss)
-- [Что произойдёт, если нагрузить SIEM на 350k EPS в режиме реального времени прямо на конференции](https://habr.com/ru/companies/rvision/news/1028522/?utm_campaign=1028522&utm_source=habrahabr&utm_medium=rss)
-- [Meta договорилась о “ночной” солнечной энергии из космоса для дата-центров](https://habr.com/ru/news/1028520/?utm_campaign=1028520&utm_source=habrahabr&utm_medium=rss)
-- [«Большую четвёрку» операторов обязали обеспечить покрытие в более чем 150 малых населённых пунктах](https://habr.com/ru/news/1028500/?utm_campaign=1028500&utm_source=habrahabr&utm_medium=rss)
-- [Как корпорация ITG масштабировала сервисную модель на всю компанию](https://habr.com/ru/companies/simpleone/news/1028496/?utm_campaign=1028496&utm_source=habrahabr&utm_medium=rss)
+- [И это ваш AGI? DeepSeek V4 допустил мрачную ошибку в задаче про апельсины и нож](https://habr.com/ru/news/1028634/?utm_campaign=1028634&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI, MediaTek и Qualcomm работают над мобильным чипом для ИИ-смартфона](https://habr.com/ru/news/1028626/?utm_campaign=1028626&utm_source=habrahabr&utm_medium=rss)
+- [У ИИ-подрядчиков Mercor украли 4 ТБ голосовых сэмплов](https://habr.com/ru/news/1028624/?utm_campaign=1028624&utm_source=habrahabr&utm_medium=rss)
+- [Tesla запустила приложение Robotaxi для Android — спустя полгода после релиза версии для iOS](https://habr.com/ru/news/1028606/?utm_campaign=1028606&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры взломали американскую энергетическую компанию Itron](https://habr.com/ru/news/1028584/?utm_campaign=1028584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
