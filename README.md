@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI снова убила Codex – GPT-5.5 навсегда поглотила отдельную модель для кодинга](https://habr.com/ru/companies/bothub/news/1028306/?utm_campaign=1028306&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram появилось мини-приложение Wall — «Стена»](https://habr.com/ru/news/1028304/?utm_campaign=1028304&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс принял в ядро Linux 7.1 патчи на удаление старых Ethernet-драйверов, ISDN, AX.25, CAIF и Bluetooth CMTP](https://habr.com/ru/news/1028204/?utm_campaign=1028204&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой утилиты BleachBit 6.0.0 для очистки дисков от ненужных файлов и увеличения производительности ОС](https://habr.com/ru/news/1028132/?utm_campaign=1028132&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман: Anthropic использует для продвижения Claude Mythos маркетинг, основанный на страхе](https://habr.com/ru/news/1027260/?utm_campaign=1027260&utm_source=habrahabr&utm_medium=rss)
+- [Хассабис: AGI, скорее всего, построят поверх нынешних языковых моделей](https://habr.com/ru/news/1028408/?utm_campaign=1028408&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek в 10 раз снизила цену на кэш](https://habr.com/ru/companies/bothub/news/1028404/?utm_campaign=1028404&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выкупил проект Friendster за $30 тысяч и переделал на новый лад](https://habr.com/ru/news/1028388/?utm_campaign=1028388&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: российские сервисы доступны для пользователей за рубежом, если они недоступны без VPN — нужно писать в сервис](https://habr.com/ru/news/1028386/?utm_campaign=1028386&utm_source=habrahabr&utm_medium=rss)
+- [iPhone Air перестаёт работать при использовании неоригинальных блоков и кабелей при заряде в 0%](https://habr.com/ru/news/1028374/?utm_campaign=1028374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
