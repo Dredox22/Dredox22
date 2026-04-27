@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Хассабис: AGI, скорее всего, построят поверх нынешних языковых моделей](https://habr.com/ru/news/1028408/?utm_campaign=1028408&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek в 10 раз снизила цену на кэш](https://habr.com/ru/companies/bothub/news/1028404/?utm_campaign=1028404&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выкупил проект Friendster за $30 тысяч и переделал на новый лад](https://habr.com/ru/news/1028388/?utm_campaign=1028388&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: российские сервисы доступны для пользователей за рубежом, если они недоступны без VPN — нужно писать в сервис](https://habr.com/ru/news/1028386/?utm_campaign=1028386&utm_source=habrahabr&utm_medium=rss)
-- [iPhone Air перестаёт работать при использовании неоригинальных блоков и кабелей при заряде в 0%](https://habr.com/ru/news/1028374/?utm_campaign=1028374&utm_source=habrahabr&utm_medium=rss)
+- [Российские исследователи разработали модели для перевода устных математических формул в LaTeX](https://habr.com/ru/news/1028550/?utm_campaign=1028550&utm_source=habrahabr&utm_medium=rss)
+- [Что произойдёт, если нагрузить SIEM на 350k EPS в режиме реального времени прямо на конференции](https://habr.com/ru/companies/rvision/news/1028522/?utm_campaign=1028522&utm_source=habrahabr&utm_medium=rss)
+- [Meta договорилась о “ночной” солнечной энергии из космоса для дата-центров](https://habr.com/ru/news/1028520/?utm_campaign=1028520&utm_source=habrahabr&utm_medium=rss)
+- [«Большую четвёрку» операторов обязали обеспечить покрытие в более чем 150 малых населённых пунктах](https://habr.com/ru/news/1028500/?utm_campaign=1028500&utm_source=habrahabr&utm_medium=rss)
+- [Как корпорация ITG масштабировала сервисную модель на всю компанию](https://habr.com/ru/companies/simpleone/news/1028496/?utm_campaign=1028496&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
