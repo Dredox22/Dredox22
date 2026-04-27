@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI снова убила Codex – GPT-5.5 навсегда поглотила отдельную модель для кодинга](https://habr.com/ru/companies/bothub/news/1028306/?utm_campaign=1028306&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram появилось мини-приложение Wall — «Стена»](https://habr.com/ru/news/1028304/?utm_campaign=1028304&utm_source=habrahabr&utm_medium=rss)
 - [Торвальдс принял в ядро Linux 7.1 патчи на удаление старых Ethernet-драйверов, ISDN, AX.25, CAIF и Bluetooth CMTP](https://habr.com/ru/news/1028204/?utm_campaign=1028204&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой утилиты BleachBit 6.0.0 для очистки дисков от ненужных файлов и увеличения производительности ОС](https://habr.com/ru/news/1028132/?utm_campaign=1028132&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман: Anthropic использует для продвижения Claude Mythos маркетинг, основанный на страхе](https://habr.com/ru/news/1027260/?utm_campaign=1027260&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Claude в США оказались богаче аудитории ChatGPT](https://habr.com/ru/news/1028256/?utm_campaign=1028256&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила гайд по GPT-5.5 и предупредила: старые промпты могут мешать](https://habr.com/ru/news/1028242/?utm_campaign=1028242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
