@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Банки пожаловались в ФАС на «квазиналог» за маркировку звонков](https://habr.com/ru/news/1028938/?utm_campaign=1028938&utm_source=habrahabr&utm_medium=rss)
-- [В Канаде трёх мужчин арестовали за использование SMS-бластера](https://habr.com/ru/news/1028894/?utm_campaign=1028894&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: DeepSeek V4, Kimi K2.6 и неконтролируемые галлюцинации нового флагмана OpenAI](https://habr.com/ru/news/1028706/?utm_campaign=1028706&utm_source=habrahabr&utm_medium=rss)
-- [Хакатон Life Hack от Lenta Tech](https://habr.com/ru/companies/lentatech/news/1028430/?utm_campaign=1028430&utm_source=habrahabr&utm_medium=rss)
-- [Загрузочные индикаторы Windows 8 скоро исчезнут в Windows 11](https://habr.com/ru/news/1028898/?utm_campaign=1028898&utm_source=habrahabr&utm_medium=rss)
+- [600 сотрудников Google выступили против участия компании в секретных проектах Пентагона](https://habr.com/ru/news/1029052/?utm_campaign=1029052&utm_source=habrahabr&utm_medium=rss)
+- [Расходы на ИИ становятся отдельной проблемой для бизнеса: токены и вычисления могут стоить дороже сотрудников](https://habr.com/ru/news/1029038/?utm_campaign=1029038&utm_source=habrahabr&utm_medium=rss)
+- [AIRI представил ELMUR — архитектуру памяти для роботов на базе ИИ](https://habr.com/ru/news/1029032/?utm_campaign=1029032&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp** создаст собственное зашифрованное облако](https://habr.com/ru/news/1029020/?utm_campaign=1029020&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи заявили о баге с блокировкой доступа к Outlook](https://habr.com/ru/news/1028994/?utm_campaign=1028994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
