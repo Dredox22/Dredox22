@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск минималистичного веб-браузера Dillo 3.3.0](https://habr.com/ru/news/1028350/?utm_campaign=1028350&utm_source=habrahabr&utm_medium=rss)
 - [Banana Pi анонсировала одноплатник BPI-SM10 с AI-производительностью в 60 TOPS](https://habr.com/ru/news/1028840/?utm_campaign=1028840&utm_source=habrahabr&utm_medium=rss)
 - [Noctua опубликовала CAD-файлы своих ПК-кулеров, но они непригодны для печати](https://habr.com/ru/news/1028830/?utm_campaign=1028830&utm_source=habrahabr&utm_medium=rss)
 - [Хочешь сделать человеку хорошо? Сделай ему плохо, а потом чуть-чуть лучше](https://habr.com/ru/news/1028810/?utm_campaign=1028810&utm_source=habrahabr&utm_medium=rss)
 - [МВД предупредило россиян о вероятных взломах роутеров мошенниками для совершения киберпреступлений](https://habr.com/ru/news/1028798/?utm_campaign=1028798&utm_source=habrahabr&utm_medium=rss)
-- [Искусственные нейроны Northwestern «поговорили» с живым мозгом](https://habr.com/ru/news/1028786/?utm_campaign=1028786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
