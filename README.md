@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В YouTube Premium заработал чат-бот Ask YouTube](https://habr.com/ru/news/1029248/?utm_campaign=1029248&utm_source=habrahabr&utm_medium=rss)
+- [«Солар»: злоумышленники прячут около 37% веб-угроз в архивах](https://habr.com/ru/companies/solarsecurity/news/1029242/?utm_campaign=1029242&utm_source=habrahabr&utm_medium=rss)
+- [«ИИ развивается «удивительно медленно»» — главный ученый OpenAI пообещал чрезвычайное ускорение](https://habr.com/ru/news/1029240/?utm_campaign=1029240&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия PowerToys 0.99.0](https://habr.com/ru/news/1029218/?utm_campaign=1029218&utm_source=habrahabr&utm_medium=rss)
 - [AvitoTech Frontend Session: приходите поспорить про fullstack, AI и ванильный JS](https://habr.com/ru/companies/avito/news/1029180/?utm_campaign=1029180&utm_source=habrahabr&utm_medium=rss)
-- [Еврокомиссия требует от Google открыть сторонним ИИ-разработчикам доступ к Android](https://habr.com/ru/news/1029158/?utm_campaign=1029158&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Fedora Linux 44](https://habr.com/ru/news/1029150/?utm_campaign=1029150&utm_source=habrahabr&utm_medium=rss)
-- [Маск снял с Альтмана обвинения в мошенничестве — и это, возможно, его лучший ход](https://habr.com/ru/news/1029138/?utm_campaign=1029138&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT набрал высшие баллы на экзаменах в топовые вузы Японии и обогнал лучших студентов](https://habr.com/ru/news/1029122/?utm_campaign=1029122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
