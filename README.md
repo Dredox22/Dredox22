@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot с 1 июня переходит на оплату по токенам — premium-запросы заменят AI Credits](https://habr.com/ru/news/1028866/?utm_campaign=1028866&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: количество скачиваний VPN-приложений в РФ в Google Play в марте составило 9,2 млн, что в 14 раз больше год от года](https://habr.com/ru/news/1028858/?utm_campaign=1028858&utm_source=habrahabr&utm_medium=rss)
-- [Касперская рассказала, почему миллион программистов в РФ обойдут сетевые запреты](https://habr.com/ru/news/1028852/?utm_campaign=1028852&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск минималистичного веб-браузера Dillo 3.3.0](https://habr.com/ru/news/1028350/?utm_campaign=1028350&utm_source=habrahabr&utm_medium=rss)
-- [Banana Pi анонсировала одноплатник BPI-SM10 с AI-производительностью в 60 TOPS](https://habr.com/ru/news/1028840/?utm_campaign=1028840&utm_source=habrahabr&utm_medium=rss)
+- [Банки пожаловались в ФАС на «квазиналог» за маркировку звонков](https://habr.com/ru/news/1028938/?utm_campaign=1028938&utm_source=habrahabr&utm_medium=rss)
+- [В Канаде трёх мужчин арестовали за использование SMS-бластера](https://habr.com/ru/news/1028894/?utm_campaign=1028894&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: DeepSeek V4, Kimi K2.6 и неконтролируемые галлюцинации нового флагмана OpenAI](https://habr.com/ru/news/1028706/?utm_campaign=1028706&utm_source=habrahabr&utm_medium=rss)
+- [Хакатон Life Hack от Lenta Tech](https://habr.com/ru/companies/lentatech/news/1028430/?utm_campaign=1028430&utm_source=habrahabr&utm_medium=rss)
+- [Загрузочные индикаторы Windows 8 скоро исчезнут в Windows 11](https://habr.com/ru/news/1028898/?utm_campaign=1028898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
