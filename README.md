@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [600 сотрудников Google выступили против участия компании в секретных проектах Пентагона](https://habr.com/ru/news/1029052/?utm_campaign=1029052&utm_source=habrahabr&utm_medium=rss)
-- [Расходы на ИИ становятся отдельной проблемой для бизнеса: токены и вычисления могут стоить дороже сотрудников](https://habr.com/ru/news/1029038/?utm_campaign=1029038&utm_source=habrahabr&utm_medium=rss)
-- [AIRI представил ELMUR — архитектуру памяти для роботов на базе ИИ](https://habr.com/ru/news/1029032/?utm_campaign=1029032&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp** создаст собственное зашифрованное облако](https://habr.com/ru/news/1029020/?utm_campaign=1029020&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи заявили о баге с блокировкой доступа к Outlook](https://habr.com/ru/news/1028994/?utm_campaign=1028994&utm_source=habrahabr&utm_medium=rss)
+- [AvitoTech Frontend Session: приходите поспорить про fullstack, AI и ванильный JS](https://habr.com/ru/companies/avito/news/1029180/?utm_campaign=1029180&utm_source=habrahabr&utm_medium=rss)
+- [Еврокомиссия требует от Google открыть сторонним ИИ-разработчикам доступ к Android](https://habr.com/ru/news/1029158/?utm_campaign=1029158&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Fedora Linux 44](https://habr.com/ru/news/1029150/?utm_campaign=1029150&utm_source=habrahabr&utm_medium=rss)
+- [Маск снял с Альтмана обвинения в мошенничестве — и это, возможно, его лучший ход](https://habr.com/ru/news/1029138/?utm_campaign=1029138&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT набрал высшие баллы на экзаменах в топовые вузы Японии и обогнал лучших студентов](https://habr.com/ru/news/1029122/?utm_campaign=1029122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
