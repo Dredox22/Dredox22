@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mythos снова в игре: Белый дом готовится вернуть Anthropic, которую ранее считал угрозой](https://habr.com/ru/news/1029812/?utm_campaign=1029812&utm_source=habrahabr&utm_medium=rss)
 - [В Беларуси представили приложение для проверки состояния одиноких родственников, которые живут далеко](https://habr.com/ru/news/1029784/?utm_campaign=1029784&utm_source=habrahabr&utm_medium=rss)
 - [Для macOS вышел нативный порт NotePad++](https://habr.com/ru/news/1029786/?utm_campaign=1029786&utm_source=habrahabr&utm_medium=rss)
 - [В Google Translate появился тренажёр произношения с обратной связью на базе ИИ](https://habr.com/ru/news/1029768/?utm_campaign=1029768&utm_source=habrahabr&utm_medium=rss)
 - [Качество в IT: кто отвечает, как измерить и стоит ли экономить — разбор в подкасте](https://habr.com/ru/companies/gnivc/news/1029758/?utm_campaign=1029758&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты: иногда трафик из РФ в РФ проходит через другие страны из-за маршрутизации и отличить его от VPN нельзя](https://habr.com/ru/news/1029752/?utm_campaign=1029752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
