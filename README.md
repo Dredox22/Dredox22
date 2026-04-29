@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Canonical раскрыли планы по интеграции ИИ-систем в Ubuntu с 2027 года](https://habr.com/ru/news/1029476/?utm_campaign=1029476&utm_source=habrahabr&utm_medium=rss)
-- [В США и Канаде у детей стал популярен проект проводного стационарного телефона с Wi-Fi-подключением Tin Can](https://habr.com/ru/news/1029474/?utm_campaign=1029474&utm_source=habrahabr&utm_medium=rss)
-- [Заметки с «Иннопром. Центральная Азия» в Ташкенте: приятно удивлены масштабом деловой активности в регионе](https://habr.com/ru/companies/ssp-soft/news/1029458/?utm_campaign=1029458&utm_source=habrahabr&utm_medium=rss)
-- [Все ведущие LLM провалили первый бенчмарк по киберзащите. Что это значит для SOC](https://habr.com/ru/companies/ideco/news/1029466/?utm_campaign=1029466&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek v4 vs GLM 5.1: сравнительный бенчмарк агентов на реальных задачах разработки](https://habr.com/ru/companies/veai/news/1029464/?utm_campaign=1029464&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic присоединилась к Фонду развития Blender; разработчики Blender создали для Claude MCP-коннектор](https://habr.com/ru/news/1029572/?utm_campaign=1029572&utm_source=habrahabr&utm_medium=rss)
+- [Scout AI привлекла $100 млн на ИИ-модели для военной автономной техники](https://habr.com/ru/news/1029566/?utm_campaign=1029566&utm_source=habrahabr&utm_medium=rss)
+- [Пермский Политех и китайские ученые создали ИИ-модель для прогноза напряжений в скважинах](https://habr.com/ru/news/1029560/?utm_campaign=1029560&utm_source=habrahabr&utm_medium=rss)
+- [В чате с «Алисой AI» появился репетитор по математике](https://habr.com/ru/news/1029550/?utm_campaign=1029550&utm_source=habrahabr&utm_medium=rss)
+- [ASE нарастит мощности advanced packaging из-за спроса на AI-чипы](https://habr.com/ru/news/1029548/?utm_campaign=1029548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
