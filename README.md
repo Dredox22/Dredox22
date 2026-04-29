@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлена реализация криптографических алгоритмов ГОСТ на языке Java](https://habr.com/ru/news/1029366/?utm_campaign=1029366&utm_source=habrahabr&utm_medium=rss)
-- [Для Chrome вышло расширение для локального запуска браузерного AI-ассистента на базе Gemma 4](https://habr.com/ru/news/1029332/?utm_campaign=1029332&utm_source=habrahabr&utm_medium=rss)
-- [У OpenAI могут кончиться деньги еще до IPO — расследование WSJ](https://habr.com/ru/news/1029322/?utm_campaign=1029322&utm_source=habrahabr&utm_medium=rss)
-- [GPT-2 научили подбирать сплавы для термоядерных реакторов](https://habr.com/ru/news/1029314/?utm_campaign=1029314&utm_source=habrahabr&utm_medium=rss)
-- [В YouTube Premium заработал чат-бот Ask YouTube](https://habr.com/ru/news/1029248/?utm_campaign=1029248&utm_source=habrahabr&utm_medium=rss)
+- [«Агент не может ждать секунды»: NVIDIA представила открытую omni-модель Nemotron 3 Nano](https://habr.com/ru/news/1029396/?utm_campaign=1029396&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-проект Warp стал решением с открытым исходным кодом](https://habr.com/ru/news/1029392/?utm_campaign=1029392&utm_source=habrahabr&utm_medium=rss)
+- [Ghostty покидает GitHub](https://habr.com/ru/news/1029388/?utm_campaign=1029388&utm_source=habrahabr&utm_medium=rss)
+- [Видеосервис Vimeo подтвердил утечку данных пользователей в результате взлома Anodot](https://habr.com/ru/news/1029378/?utm_campaign=1029378&utm_source=habrahabr&utm_medium=rss)
+- [Lenovo купила Phoenix Technologies](https://habr.com/ru/news/1029376/?utm_campaign=1029376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
