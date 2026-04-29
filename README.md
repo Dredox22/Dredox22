@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена реализация криптографических алгоритмов ГОСТ на языке Java](https://habr.com/ru/news/1029366/?utm_campaign=1029366&utm_source=habrahabr&utm_medium=rss)
 - [Для Chrome вышло расширение для локального запуска браузерного AI-ассистента на базе Gemma 4](https://habr.com/ru/news/1029332/?utm_campaign=1029332&utm_source=habrahabr&utm_medium=rss)
 - [У OpenAI могут кончиться деньги еще до IPO — расследование WSJ](https://habr.com/ru/news/1029322/?utm_campaign=1029322&utm_source=habrahabr&utm_medium=rss)
 - [GPT-2 научили подбирать сплавы для термоядерных реакторов](https://habr.com/ru/news/1029314/?utm_campaign=1029314&utm_source=habrahabr&utm_medium=rss)
 - [В YouTube Premium заработал чат-бот Ask YouTube](https://habr.com/ru/news/1029248/?utm_campaign=1029248&utm_source=habrahabr&utm_medium=rss)
-- [«Солар»: злоумышленники прячут около 37% веб-угроз в архивах](https://habr.com/ru/companies/solarsecurity/news/1029242/?utm_campaign=1029242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
