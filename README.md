@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Качество в IT: кто отвечает, как измерить и стоит ли экономить — разбор в подкасте](https://habr.com/ru/companies/gnivc/news/1029758/?utm_campaign=1029758&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты: иногда трафик из РФ в РФ проходит через другие страны из-за маршрутизации и отличить его от VPN нельзя](https://habr.com/ru/news/1029752/?utm_campaign=1029752&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 тестируется функция Screen Tint, которая накладывает лёгкий оттенок цвета для комфорта глаз](https://habr.com/ru/news/1029664/?utm_campaign=1029664&utm_source=habrahabr&utm_medium=rss)
 - [Content AI объединила IDP и RPA в платформе ContentCapture](https://habr.com/ru/companies/contentai/news/1029658/?utm_campaign=1029658&utm_source=habrahabr&utm_medium=rss)
 - [SELECTOS OpenFix Day 2.0](https://habr.com/ru/companies/selectel/news/1029610/?utm_campaign=1029610&utm_source=habrahabr&utm_medium=rss)
-- [В Нидерландах запустили альтернативу GitHub для госучреждений — хостинг открытых проектов на базе Forgejo](https://habr.com/ru/news/1029620/?utm_campaign=1029620&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: производитель видеокарт Galax прекратит деятельность — бренд опроверг это](https://habr.com/ru/news/1029602/?utm_campaign=1029602&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic присоединилась к Фонду развития Blender; разработчики Blender создали для Claude MCP-коннектор](https://habr.com/ru/news/1029572/?utm_campaign=1029572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
