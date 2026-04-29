@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Content AI объединила IDP и RPA в платформе ContentCapture](https://habr.com/ru/companies/contentai/news/1029658/?utm_campaign=1029658&utm_source=habrahabr&utm_medium=rss)
+- [SELECTOS OpenFix Day 2.0](https://habr.com/ru/companies/selectel/news/1029610/?utm_campaign=1029610&utm_source=habrahabr&utm_medium=rss)
+- [В Нидерландах запустили альтернативу GitHub для госучреждений — хостинг открытых проектов на базе Forgejo](https://habr.com/ru/news/1029620/?utm_campaign=1029620&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: производитель видеокарт Galax прекратит деятельность — бренд опроверг это](https://habr.com/ru/news/1029602/?utm_campaign=1029602&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic присоединилась к Фонду развития Blender; разработчики Blender создали для Claude MCP-коннектор](https://habr.com/ru/news/1029572/?utm_campaign=1029572&utm_source=habrahabr&utm_medium=rss)
-- [Scout AI привлекла $100 млн на ИИ-модели для военной автономной техники](https://habr.com/ru/news/1029566/?utm_campaign=1029566&utm_source=habrahabr&utm_medium=rss)
-- [Пермский Политех и китайские ученые создали ИИ-модель для прогноза напряжений в скважинах](https://habr.com/ru/news/1029560/?utm_campaign=1029560&utm_source=habrahabr&utm_medium=rss)
-- [В чате с «Алисой AI» появился репетитор по математике](https://habr.com/ru/news/1029550/?utm_campaign=1029550&utm_source=habrahabr&utm_medium=rss)
-- [ASE нарастит мощности advanced packaging из-за спроса на AI-чипы](https://habr.com/ru/news/1029548/?utm_campaign=1029548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
