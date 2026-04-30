@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Эксперты RKS Global: из 30 популярных российских Android-приложений теперь все детектируют VPN](https://habr.com/ru/news/1030200/?utm_campaign=1030200&utm_source=habrahabr&utm_medium=rss)
-- [Всего 20 минут и $12: как исследователь отравил передовые LLM несуществующими данными](https://habr.com/ru/news/1030186/?utm_campaign=1030186&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты UserGate uFactor предупреждают об уязвимости с высоким уровнем критичности в конвейере логирования ProFTPD](https://habr.com/ru/companies/usergate/news/1030184/?utm_campaign=1030184&utm_source=habrahabr&utm_medium=rss)
-- [В официальные пакеты SAP npm внедрили инфостилер](https://habr.com/ru/news/1030182/?utm_campaign=1030182&utm_source=habrahabr&utm_medium=rss)
-- [Фестиваль полезных игр объединил около тысячи участников](https://habr.com/ru/news/1030178/?utm_campaign=1030178&utm_source=habrahabr&utm_medium=rss)
+- [Профессор Вашингтонского университета: обучение программированию пора переосмыслить](https://habr.com/ru/news/1030268/?utm_campaign=1030268&utm_source=habrahabr&utm_medium=rss)
+- [В SELECTOS устранена критическая уязвимость в ядре Linux CVE-2026-31431](https://habr.com/ru/companies/selectel/news/1030242/?utm_campaign=1030242&utm_source=habrahabr&utm_medium=rss)
+- [В Москве начали маркировать звонки с городских горячих линий](https://habr.com/ru/news/1030246/?utm_campaign=1030246&utm_source=habrahabr&utm_medium=rss)
+- [FCC добавила портативные импортные хотспоты в список запрещённого к ввозу оборудования](https://habr.com/ru/news/1030222/?utm_campaign=1030222&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: хакеры перехватили сотни поддоменов американских вузов и опубликовали на них порно и спам](https://habr.com/ru/news/1030204/?utm_campaign=1030204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
