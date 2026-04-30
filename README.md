@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России создали первый отечественный микшерный пульт для радиостудий и мобильных телевизионных комплексов](https://habr.com/ru/news/1030106/?utm_campaign=1030106&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект ps5-linux для превращения PlayStation 5 в полноценный ПК под управлением Linux](https://habr.com/ru/news/1030104/?utm_campaign=1030104&utm_source=habrahabr&utm_medium=rss)
+- [Хассабис предложил необычный тест на AGI — открыть теорию относительности во второй раз](https://habr.com/ru/news/1030092/?utm_campaign=1030092&utm_source=habrahabr&utm_medium=rss)
+- [Как SimpleMES создала универсальную MES-систему на базе платформы SimpleOne за 1,5 года](https://habr.com/ru/companies/simpleone/news/1029880/?utm_campaign=1029880&utm_source=habrahabr&utm_medium=rss)
 - [Исследование The Edgers, Positive Technologies и SuperJob: роль CISO меняется быстрее, чем готов к этому бизнес](https://habr.com/ru/companies/pt/news/1030076/?utm_campaign=1030076&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare пометил мессенджер Макс/MAX как «шпионское ПО»](https://habr.com/ru/news/1030066/?utm_campaign=1030066&utm_source=habrahabr&utm_medium=rss)
-- [«День СУБД 2026»: как «Диасофт» меняет подход к импортозамещению СУБД](https://habr.com/ru/companies/diasoft_company/news/1030064/?utm_campaign=1030064&utm_source=habrahabr&utm_medium=rss)
-- [Тёмная материя кода: на CISO Forum 2026 компания UserGate рассказала, из чего делается безопасный программный код](https://habr.com/ru/companies/usergate/news/1030040/?utm_campaign=1030040&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft открыла возможность обновления Windows Server 2025 без переустановки](https://habr.com/ru/news/1030036/?utm_campaign=1030036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
