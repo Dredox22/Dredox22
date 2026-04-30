@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В России создали первый отечественный микшерный пульт для радиостудий и мобильных телевизионных комплексов](https://habr.com/ru/news/1030106/?utm_campaign=1030106&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект ps5-linux для превращения PlayStation 5 в полноценный ПК под управлением Linux](https://habr.com/ru/news/1030104/?utm_campaign=1030104&utm_source=habrahabr&utm_medium=rss)
-- [Хассабис предложил необычный тест на AGI — открыть теорию относительности во второй раз](https://habr.com/ru/news/1030092/?utm_campaign=1030092&utm_source=habrahabr&utm_medium=rss)
-- [Как SimpleMES создала универсальную MES-систему на базе платформы SimpleOne за 1,5 года](https://habr.com/ru/companies/simpleone/news/1029880/?utm_campaign=1029880&utm_source=habrahabr&utm_medium=rss)
-- [Исследование The Edgers, Positive Technologies и SuperJob: роль CISO меняется быстрее, чем готов к этому бизнес](https://habr.com/ru/companies/pt/news/1030076/?utm_campaign=1030076&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты RKS Global: из 30 популярных российских Android-приложений теперь все детектируют VPN](https://habr.com/ru/news/1030200/?utm_campaign=1030200&utm_source=habrahabr&utm_medium=rss)
+- [Всего 20 минут и $12: как исследователь отравил передовые LLM несуществующими данными](https://habr.com/ru/news/1030186/?utm_campaign=1030186&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты UserGate uFactor предупреждают об уязвимости с высоким уровнем критичности в конвейере логирования ProFTPD](https://habr.com/ru/companies/usergate/news/1030184/?utm_campaign=1030184&utm_source=habrahabr&utm_medium=rss)
+- [В официальные пакеты SAP npm внедрили инфостилер](https://habr.com/ru/news/1030182/?utm_campaign=1030182&utm_source=habrahabr&utm_medium=rss)
+- [Фестиваль полезных игр объединил около тысячи участников](https://habr.com/ru/news/1030178/?utm_campaign=1030178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
