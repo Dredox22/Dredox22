@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [SoftBank планирует Roze AI — робототехническую компанию для строительства дата-центров](https://habr.com/ru/news/1029970/?utm_campaign=1029970&utm_source=habrahabr&utm_medium=rss)
-- [Smart Engines добавила распознавание цифровых документов с «Госуслуг» в Smart Document Engine 3.4](https://habr.com/ru/news/1029960/?utm_campaign=1029960&utm_source=habrahabr&utm_medium=rss)
-- [GitHub устранила критическую уязвимость с доступом к миллионам частных репозиториев](https://habr.com/ru/news/1029946/?utm_campaign=1029946&utm_source=habrahabr&utm_medium=rss)
-- [«Аккофриск» откроет исследователям данные носимых устройств для обучения медицинских ИИ-моделей](https://habr.com/ru/news/1029954/?utm_campaign=1029954&utm_source=habrahabr&utm_medium=rss)
-- [UserGate начинает продажи межсетевого экрана для защиты веб‑приложений в Республике Беларусь](https://habr.com/ru/companies/usergate/news/1029950/?utm_campaign=1029950&utm_source=habrahabr&utm_medium=rss)
+- [Исследование The Edgers, Positive Technologies и SuperJob: роль CISO меняется быстрее, чем готов к этому бизнес](https://habr.com/ru/companies/pt/news/1030076/?utm_campaign=1030076&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare пометил мессенджер Макс/MAX как «шпионское ПО»](https://habr.com/ru/news/1030066/?utm_campaign=1030066&utm_source=habrahabr&utm_medium=rss)
+- [«День СУБД 2026»: как «Диасофт» меняет подход к импортозамещению СУБД](https://habr.com/ru/companies/diasoft_company/news/1030064/?utm_campaign=1030064&utm_source=habrahabr&utm_medium=rss)
+- [Тёмная материя кода: на CISO Forum 2026 компания UserGate рассказала, из чего делается безопасный программный код](https://habr.com/ru/companies/usergate/news/1030040/?utm_campaign=1030040&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft открыла возможность обновления Windows Server 2025 без переустановки](https://habr.com/ru/news/1030036/?utm_campaign=1030036&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
