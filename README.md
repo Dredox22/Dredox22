@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi Connect получит поддержку удалённого управления Windows](https://habr.com/ru/news/1030304/?utm_campaign=1030304&utm_source=habrahabr&utm_medium=rss)
+- [Завод «Октава» выпустил конденсаторный микрофон МК-019 для записи музыкальных инструментов](https://habr.com/ru/news/1030286/?utm_campaign=1030286&utm_source=habrahabr&utm_medium=rss)
 - [Профессор Вашингтонского университета: обучение программированию пора переосмыслить](https://habr.com/ru/news/1030268/?utm_campaign=1030268&utm_source=habrahabr&utm_medium=rss)
 - [В SELECTOS устранена критическая уязвимость в ядре Linux CVE-2026-31431](https://habr.com/ru/companies/selectel/news/1030242/?utm_campaign=1030242&utm_source=habrahabr&utm_medium=rss)
 - [В Москве начали маркировать звонки с городских горячих линий](https://habr.com/ru/news/1030246/?utm_campaign=1030246&utm_source=habrahabr&utm_medium=rss)
-- [FCC добавила портативные импортные хотспоты в список запрещённого к ввозу оборудования](https://habr.com/ru/news/1030222/?utm_campaign=1030222&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: хакеры перехватили сотни поддоменов американских вузов и опубликовали на них порно и спам](https://habr.com/ru/news/1030204/?utm_campaign=1030204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
