@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как GPT-5.5 стала одержима гоблинами. OpenAI разобрала собственную ошибку в RL](https://habr.com/ru/news/1029876/?utm_campaign=1029876&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыта LPE-уязвимость &lpar;10 строк кода на Python&rpar; Copy Fail в Linux — root на Linux в один клик](https://habr.com/ru/news/1029860/?utm_campaign=1029860&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз 1.3 open source-платформы Cozystack: GUI для LINSTOR, каталог образов для виртуалок и другие улучшения](https://habr.com/ru/companies/aenix/news/1028862/?utm_campaign=1028862&utm_source=habrahabr&utm_medium=rss)
-- [Можно ли увидеть рак, которого еще нет на снимке? ИИ Mayo Clinic — может](https://habr.com/ru/news/1029846/?utm_campaign=1029846&utm_source=habrahabr&utm_medium=rss)
-- [Криптообменники и цифровая валюта без НДС: одобрили поправки в Налоговый кодекс РФ](https://habr.com/ru/news/1029834/?utm_campaign=1029834&utm_source=habrahabr&utm_medium=rss)
+- [SoftBank планирует Roze AI — робототехническую компанию для строительства дата-центров](https://habr.com/ru/news/1029970/?utm_campaign=1029970&utm_source=habrahabr&utm_medium=rss)
+- [Smart Engines добавила распознавание цифровых документов с «Госуслуг» в Smart Document Engine 3.4](https://habr.com/ru/news/1029960/?utm_campaign=1029960&utm_source=habrahabr&utm_medium=rss)
+- [GitHub устранила критическую уязвимость с доступом к миллионам частных репозиториев](https://habr.com/ru/news/1029946/?utm_campaign=1029946&utm_source=habrahabr&utm_medium=rss)
+- [«Аккофриск» откроет исследователям данные носимых устройств для обучения медицинских ИИ-моделей](https://habr.com/ru/news/1029954/?utm_campaign=1029954&utm_source=habrahabr&utm_medium=rss)
+- [UserGate начинает продажи межсетевого экрана для защиты веб‑приложений в Республике Беларусь](https://habr.com/ru/companies/usergate/news/1029950/?utm_campaign=1029950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
