@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek учит модель «тыкать пальцем» в кадр по ходу рассуждения](https://habr.com/ru/news/1030446/?utm_campaign=1030446&utm_source=habrahabr&utm_medium=rss)
+- [Valve выпустила обновление сетевой библиотеки GameNetworkingSockets 1.5.0](https://habr.com/ru/news/1029778/?utm_campaign=1029778&utm_source=habrahabr&utm_medium=rss)
 - [Веб-инфраструктура Canonical/Ubuntu подверглась продолжительной трансграничной DDoS-атаке, которая идёт более 18 часов](https://habr.com/ru/news/1030438/?utm_campaign=1030438&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект C:/Deb — операционная система с Windows-подобным окружением на базе Linux](https://habr.com/ru/news/1030426/?utm_campaign=1030426&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot поймали на присвоении чужой работы — ИИ вписывает себя в коммиты, которых не писал](https://habr.com/ru/news/1030420/?utm_campaign=1030420&utm_source=habrahabr&utm_medium=rss)
-- [Новые TPU восьмого поколения от Google. Обучение и инференс теперь отдельно?](https://habr.com/ru/companies/selectel/news/1030162/?utm_campaign=1030162&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Word появятся модели Anthropic AI для работы с текстом](https://habr.com/ru/news/1030406/?utm_campaign=1030406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
