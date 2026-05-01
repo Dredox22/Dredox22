@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.5 и Opus 4.7 провалились в ARC-AGI-3. Вот почему](https://habr.com/ru/news/1030546/?utm_campaign=1030546&utm_source=habrahabr&utm_medium=rss)
+- [Пентагон пустил 8 ИИ-моделей в свои секретные сети. Без Anthropic — но не совсем](https://habr.com/ru/news/1030544/?utm_campaign=1030544&utm_source=habrahabr&utm_medium=rss)
 - [ОДК-СТАР рассказало о создании робота для транспортировки деталей и инструмента по цехам](https://habr.com/ru/news/1030512/?utm_campaign=1030512&utm_source=habrahabr&utm_medium=rss)
 - [Завершен отбор игр для ежегодного игрового шоу «НАШЫ ИГРЫ 2026» которое состоится в Москве 30 мая 2026 года](https://habr.com/ru/news/1030506/?utm_campaign=1030506&utm_source=habrahabr&utm_medium=rss)
 - [«Микрофоны СОЮЗ» и Mundfish выпустили лимитированную модель V1 Atomic Heart Edition в красном цвете](https://habr.com/ru/news/1030498/?utm_campaign=1030498&utm_source=habrahabr&utm_medium=rss)
-- [Пентагон подключит AI-модели семи компаний к закрытым военным сетям, но без Anthropic](https://habr.com/ru/news/1030490/?utm_campaign=1030490&utm_source=habrahabr&utm_medium=rss)
-- [Stripe обновила Link: AI-агенты смогут запрашивать платежи без доступа к реквизитам карты](https://habr.com/ru/news/1030486/?utm_campaign=1030486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
