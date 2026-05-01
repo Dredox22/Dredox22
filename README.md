@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Cloudflare сняли с домена мессенджера Макс метку «Шпионское ПО»](https://habr.com/ru/news/1030372/?utm_campaign=1030372&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали использовать уязвимость в cPanel на миллионах веб-сайтов](https://habr.com/ru/news/1030366/?utm_campaign=1030366&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft объяснила особенности работы прокрутки в проводнике Windows 11](https://habr.com/ru/news/1030364/?utm_campaign=1030364&utm_source=habrahabr&utm_medium=rss)
-- [В Россию запретили ввоз спутниковых терминалов Starlink и других средств приёма и передачи от иностранных спутников](https://habr.com/ru/news/1030352/?utm_campaign=1030352&utm_source=habrahabr&utm_medium=rss)
-- [Релиз редактора кода Zed 1.0](https://habr.com/ru/news/1030022/?utm_campaign=1030022&utm_source=habrahabr&utm_medium=rss)
+- [Новые TPU восьмого поколения от Google. Обучение и инференс теперь отдельно?](https://habr.com/ru/companies/selectel/news/1030162/?utm_campaign=1030162&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft Word появятся модели Anthropic AI для работы с текстом](https://habr.com/ru/news/1030406/?utm_campaign=1030406&utm_source=habrahabr&utm_medium=rss)
+- [Релиз платформы обмена сообщениями Zulip 12.0](https://habr.com/ru/news/1030244/?utm_campaign=1030244&utm_source=habrahabr&utm_medium=rss)
+- [Noctua раскрыла, что её чёрные вентиляторы сложнее в производстве, чем стандартные бежево-коричневые](https://habr.com/ru/news/1030404/?utm_campaign=1030404&utm_source=habrahabr&utm_medium=rss)
+- [В России вступила в силу обязательная маркировка радиоэлектроники](https://habr.com/ru/news/1030394/?utm_campaign=1030394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
