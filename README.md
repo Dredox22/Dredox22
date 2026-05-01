@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-инфраструктура Canonical/Ubuntu подверглась продолжительной трансграничной DDoS-атаке, которая идёт более 18 часов](https://habr.com/ru/news/1030438/?utm_campaign=1030438&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект C:/Deb — операционная система с Windows-подобным окружением на базе Linux](https://habr.com/ru/news/1030426/?utm_campaign=1030426&utm_source=habrahabr&utm_medium=rss)
+- [GitHub Copilot поймали на присвоении чужой работы — ИИ вписывает себя в коммиты, которых не писал](https://habr.com/ru/news/1030420/?utm_campaign=1030420&utm_source=habrahabr&utm_medium=rss)
 - [Новые TPU восьмого поколения от Google. Обучение и инференс теперь отдельно?](https://habr.com/ru/companies/selectel/news/1030162/?utm_campaign=1030162&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Word появятся модели Anthropic AI для работы с текстом](https://habr.com/ru/news/1030406/?utm_campaign=1030406&utm_source=habrahabr&utm_medium=rss)
-- [Релиз платформы обмена сообщениями Zulip 12.0](https://habr.com/ru/news/1030244/?utm_campaign=1030244&utm_source=habrahabr&utm_medium=rss)
-- [Noctua раскрыла, что её чёрные вентиляторы сложнее в производстве, чем стандартные бежево-коричневые](https://habr.com/ru/news/1030404/?utm_campaign=1030404&utm_source=habrahabr&utm_medium=rss)
-- [В России вступила в силу обязательная маркировка радиоэлектроники](https://habr.com/ru/news/1030394/?utm_campaign=1030394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
