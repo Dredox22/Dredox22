@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Микрофоны СОЮЗ» и Mundfish выпустили лимитированную модель V1 Atomic Heart Edition в красном цвете](https://habr.com/ru/news/1030498/?utm_campaign=1030498&utm_source=habrahabr&utm_medium=rss)
+- [Пентагон подключит AI-модели семи компаний к закрытым военным сетям, но без Anthropic](https://habr.com/ru/news/1030490/?utm_campaign=1030490&utm_source=habrahabr&utm_medium=rss)
 - [Stripe обновила Link: AI-агенты смогут запрашивать платежи без доступа к реквизитам карты](https://habr.com/ru/news/1030486/?utm_campaign=1030486&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запустила Advanced Account Security для ChatGPT и добавила поддержку YubiKey](https://habr.com/ru/news/1030484/?utm_campaign=1030484&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek учит модель «тыкать пальцем» в кадр по ходу рассуждения](https://habr.com/ru/news/1030446/?utm_campaign=1030446&utm_source=habrahabr&utm_medium=rss)
-- [Valve выпустила обновление сетевой библиотеки GameNetworkingSockets 1.5.0](https://habr.com/ru/news/1029778/?utm_campaign=1029778&utm_source=habrahabr&utm_medium=rss)
-- [Веб-инфраструктура Canonical/Ubuntu подверглась продолжительной трансграничной DDoS-атаке, которая идёт более 18 часов](https://habr.com/ru/news/1030438/?utm_campaign=1030438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
