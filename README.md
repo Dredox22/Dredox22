@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Суд в США наказал управляющего партнёра за AI-ошибку младшего юриста](https://habr.com/ru/news/1030596/?utm_campaign=1030596&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft внедрила полноэкранный игровой режим Xbox в Windows 11](https://habr.com/ru/news/1030594/?utm_campaign=1030594&utm_source=habrahabr&utm_medium=rss)
-- [Глава Replit: компания хочет остаться независимой, а не повторить путь Cursor](https://habr.com/ru/news/1030592/?utm_campaign=1030592&utm_source=habrahabr&utm_medium=rss)
-- [Meta купила стартап ARI, чтобы усилить разработку ИИ для гуманоидных роботов](https://habr.com/ru/news/1030586/?utm_campaign=1030586&utm_source=habrahabr&utm_medium=rss)
-- [Представлено обновление Wireshark 4.6.5](https://habr.com/ru/news/1030002/?utm_campaign=1030002&utm_source=habrahabr&utm_medium=rss)
+- [Мать четверых детей Маска была его шпионом в OpenAI](https://habr.com/ru/news/1030620/?utm_campaign=1030620&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.4](https://habr.com/ru/news/1030448/?utm_campaign=1030448&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила некорректное отображение предупреждений удалённого рабочего стола](https://habr.com/ru/news/1030616/?utm_campaign=1030616&utm_source=habrahabr&utm_medium=rss)
+- [Первый релиз LDL 0.1 — маленькая библиотека с большой душой. Один API на 30 лет компьютерной истории](https://habr.com/ru/news/1030614/?utm_campaign=1030614&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.3](https://habr.com/ru/news/1029792/?utm_campaign=1029792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
