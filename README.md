@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Подмосковье включили «белые списки» на домашнем интернете](https://habr.com/ru/news/1030746/?utm_campaign=1030746&utm_source=habrahabr&utm_medium=rss)
 - [В Россию запретили ввозить средства приема и передачи сигнала от иностранных спутников](https://habr.com/ru/news/1030738/?utm_campaign=1030738&utm_source=habrahabr&utm_medium=rss)
 - [Архив, на котором учились ChatGPT, Claude и DeepSeek, попал под атаку 20 крупных издателей](https://habr.com/ru/news/1030732/?utm_campaign=1030732&utm_source=habrahabr&utm_medium=rss)
 - [ИИ, настроенный быть дружелюбным, чаще ошибается — исследование Oxford](https://habr.com/ru/news/1030718/?utm_campaign=1030718&utm_source=habrahabr&utm_medium=rss)
 - [Мать четверых детей Маска была его шпионом в OpenAI](https://habr.com/ru/news/1030620/?utm_campaign=1030620&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.4](https://habr.com/ru/news/1030448/?utm_campaign=1030448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
