@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Суд в США наказал управляющего партнёра за AI-ошибку младшего юриста](https://habr.com/ru/news/1030596/?utm_campaign=1030596&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft внедрила полноэкранный игровой режим Xbox в Windows 11](https://habr.com/ru/news/1030594/?utm_campaign=1030594&utm_source=habrahabr&utm_medium=rss)
+- [Глава Replit: компания хочет остаться независимой, а не повторить путь Cursor](https://habr.com/ru/news/1030592/?utm_campaign=1030592&utm_source=habrahabr&utm_medium=rss)
+- [Meta купила стартап ARI, чтобы усилить разработку ИИ для гуманоидных роботов](https://habr.com/ru/news/1030586/?utm_campaign=1030586&utm_source=habrahabr&utm_medium=rss)
 - [Представлено обновление Wireshark 4.6.5](https://habr.com/ru/news/1030002/?utm_campaign=1030002&utm_source=habrahabr&utm_medium=rss)
-- [Вышел WinRAR 7.21 и RAR 7.21 и почти сразу WinRAR 7.22 и RAR 7.22](https://habr.com/ru/news/1029878/?utm_campaign=1029878&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.5 и Opus 4.7 провалились в ARC-AGI-3. Вот почему](https://habr.com/ru/news/1030546/?utm_campaign=1030546&utm_source=habrahabr&utm_medium=rss)
-- [Пентагон пустил 8 ИИ-моделей в свои секретные сети. Без Anthropic — но не совсем](https://habr.com/ru/news/1030544/?utm_campaign=1030544&utm_source=habrahabr&utm_medium=rss)
-- [ОДК-СТАР рассказало о создании робота для транспортировки деталей и инструмента по цехам](https://habr.com/ru/news/1030512/?utm_campaign=1030512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
