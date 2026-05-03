@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Российский браузер «Луна» удалили из App Store](https://habr.com/ru/news/1030868/?utm_campaign=1030868&utm_source=habrahabr&utm_medium=rss)
 - [Обученный на квантовом процессоре ИИ предсказал турбулентность на 20% точнее классики](https://habr.com/ru/news/1030814/?utm_campaign=1030814&utm_source=habrahabr&utm_medium=rss)
 - [Внутренний CLAUDE.md Apple утек в сеть: видно, как компания использует ИИ в поддержке](https://habr.com/ru/news/1030808/?utm_campaign=1030808&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления Wine 11.8](https://habr.com/ru/news/1030574/?utm_campaign=1030574&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft признала отвлекающую роль виджетов Windows 11](https://habr.com/ru/news/1030794/?utm_campaign=1030794&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Reddit назвал диалоги пользователей топливом для ИИ-ботов](https://habr.com/ru/news/1030784/?utm_campaign=1030784&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
