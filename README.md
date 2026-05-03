@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Внутренний CLAUDE.md Apple утек в сеть: видно, как компания использует ИИ в поддержке](https://habr.com/ru/news/1030808/?utm_campaign=1030808&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Wine 11.8](https://habr.com/ru/news/1030574/?utm_campaign=1030574&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft признала отвлекающую роль виджетов Windows 11](https://habr.com/ru/news/1030794/?utm_campaign=1030794&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Reddit назвал диалоги пользователей топливом для ИИ-ботов](https://habr.com/ru/news/1030784/?utm_campaign=1030784&utm_source=habrahabr&utm_medium=rss)
 - [Хак с реестром ОС позволяет обойти патчи Windows 11 с блокировкой приложений](https://habr.com/ru/news/1030782/?utm_campaign=1030782&utm_source=habrahabr&utm_medium=rss)
-- [В VideoLAN представили декодер Dav2d для проекта формата кодирования видео AV2](https://habr.com/ru/news/1030778/?utm_campaign=1030778&utm_source=habrahabr&utm_medium=rss)
-- [Национальное агентство по защите документов Франции взломал 15-летний хакер](https://habr.com/ru/news/1030780/?utm_campaign=1030780&utm_source=habrahabr&utm_medium=rss)
-- [Представлен шрифт из Minecraft для программистов](https://habr.com/ru/news/1030776/?utm_campaign=1030776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
