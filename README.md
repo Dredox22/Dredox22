@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск культовой Roguelike-игры NetHack 5.0.0](https://habr.com/ru/news/1030762/?utm_campaign=1030762&utm_source=habrahabr&utm_medium=rss)
-- [Релиз свободного набора компиляторов GCC 16.1](https://habr.com/ru/news/1030624/?utm_campaign=1030624&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.8](https://habr.com/ru/news/1030456/?utm_campaign=1030456&utm_source=habrahabr&utm_medium=rss)
-- [В Подмосковье включили «белые списки» на домашнем интернете](https://habr.com/ru/news/1030746/?utm_campaign=1030746&utm_source=habrahabr&utm_medium=rss)
-- [В Россию запретили ввозить средства приема и передачи сигнала от иностранных спутников](https://habr.com/ru/news/1030738/?utm_campaign=1030738&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор Reddit назвал диалоги пользователей топливом для ИИ-ботов](https://habr.com/ru/news/1030784/?utm_campaign=1030784&utm_source=habrahabr&utm_medium=rss)
+- [Хак с реестром ОС позволяет обойти патчи Windows 11 с блокировкой приложений](https://habr.com/ru/news/1030782/?utm_campaign=1030782&utm_source=habrahabr&utm_medium=rss)
+- [В VideoLAN представили декодер Dav2d для проекта формата кодирования видео AV2](https://habr.com/ru/news/1030778/?utm_campaign=1030778&utm_source=habrahabr&utm_medium=rss)
+- [Национальное агентство по защите документов Франции взломал 15-летний хакер](https://habr.com/ru/news/1030780/?utm_campaign=1030780&utm_source=habrahabr&utm_medium=rss)
+- [Представлен шрифт из Minecraft для программистов](https://habr.com/ru/news/1030776/?utm_campaign=1030776&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
