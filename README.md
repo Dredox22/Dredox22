@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск культовой Roguelike-игры NetHack 5.0.0](https://habr.com/ru/news/1030762/?utm_campaign=1030762&utm_source=habrahabr&utm_medium=rss)
+- [Релиз свободного набора компиляторов GCC 16.1](https://habr.com/ru/news/1030624/?utm_campaign=1030624&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.8](https://habr.com/ru/news/1030456/?utm_campaign=1030456&utm_source=habrahabr&utm_medium=rss)
 - [В Подмосковье включили «белые списки» на домашнем интернете](https://habr.com/ru/news/1030746/?utm_campaign=1030746&utm_source=habrahabr&utm_medium=rss)
 - [В Россию запретили ввозить средства приема и передачи сигнала от иностранных спутников](https://habr.com/ru/news/1030738/?utm_campaign=1030738&utm_source=habrahabr&utm_medium=rss)
-- [Архив, на котором учились ChatGPT, Claude и DeepSeek, попал под атаку 20 крупных издателей](https://habr.com/ru/news/1030732/?utm_campaign=1030732&utm_source=habrahabr&utm_medium=rss)
-- [ИИ, настроенный быть дружелюбным, чаще ошибается — исследование Oxford](https://habr.com/ru/news/1030718/?utm_campaign=1030718&utm_source=habrahabr&utm_medium=rss)
-- [Мать четверых детей Маска была его шпионом в OpenAI](https://habr.com/ru/news/1030620/?utm_campaign=1030620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
