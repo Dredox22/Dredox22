@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1031328/?utm_campaign=1031328&utm_source=habrahabr&utm_medium=rss)
 - [Для ОС «Роса» вышло обновление, закрывающее уязвимость Copy Fail](https://habr.com/ru/news/1031264/?utm_campaign=1031264&utm_source=habrahabr&utm_medium=rss)
 - [РКН планирует контролировать 98% трафика и блокировать 92% VPN к 2030 году](https://habr.com/ru/news/1031242/?utm_campaign=1031242&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.5 поручили организовать вечеринку в честь своего запуска — а гостей отобрал Codex](https://habr.com/ru/news/1031238/?utm_campaign=1031238&utm_source=habrahabr&utm_medium=rss)
 - [Нательные камеры и служебные электрошокеры Axon с включённым Bluetooth выдают реальное местоположение владельца](https://habr.com/ru/news/1031214/?utm_campaign=1031214&utm_source=habrahabr&utm_medium=rss)
-- [КРОК стал победителем конкурса «Пресс-служба года»: Read IT Club признан лучшим PR-проектом в IT](https://habr.com/ru/companies/croc/news/1031188/?utm_campaign=1031188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
