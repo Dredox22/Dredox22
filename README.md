@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ и разработчики ИИ в России обсуждают лицензирование контента для обучения нейросетей](https://habr.com/ru/news/1031066/?utm_campaign=1031066&utm_source=habrahabr&utm_medium=rss)
-- [Служба здравоохранения Великобритании закроет репозитории из-за активности ИИ в ИБ](https://habr.com/ru/news/1031056/?utm_campaign=1031056&utm_source=habrahabr&utm_medium=rss)
-- [В Rufus объяснили проблему с новым способом установки Windows 11](https://habr.com/ru/news/1031048/?utm_campaign=1031048&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code штрафовал пользователей за упоминание OpenClaw и Hermes. В Anthropic заявили, что это баг](https://habr.com/ru/news/1031022/?utm_campaign=1031022&utm_source=habrahabr&utm_medium=rss)
-- [Nokia продала Inseego бизнес оборудования для широкополосного беспроводного доступа](https://habr.com/ru/news/1031012/?utm_campaign=1031012&utm_source=habrahabr&utm_medium=rss)
+- [Роботизация склада без капитальных затрат: «Умный сервис» обсудит аренду роботов на Logistika Expo 2026](https://habr.com/ru/news/1031154/?utm_campaign=1031154&utm_source=habrahabr&utm_medium=rss)
+- [Правительство планирует изменить правила работы операторов связи в многоквартирных домах](https://habr.com/ru/news/1031152/?utm_campaign=1031152&utm_source=habrahabr&utm_medium=rss)
+- [Докинз увидел сознание в Claude. Маркус ответил критикой](https://habr.com/ru/news/1031122/?utm_campaign=1031122&utm_source=habrahabr&utm_medium=rss)
+- [Открытое бета-тестирование КОМПАС-3D v25 для Linux](https://habr.com/ru/companies/ascon/news/1031076/?utm_campaign=1031076&utm_source=habrahabr&utm_medium=rss)
+- [Вышла EndeavourOS Titan Neo с ядром Linux 7.0](https://habr.com/ru/news/1031064/?utm_campaign=1031064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
