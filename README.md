@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Роботизация склада без капитальных затрат: «Умный сервис» обсудит аренду роботов на Logistika Expo 2026](https://habr.com/ru/news/1031154/?utm_campaign=1031154&utm_source=habrahabr&utm_medium=rss)
-- [Правительство планирует изменить правила работы операторов связи в многоквартирных домах](https://habr.com/ru/news/1031152/?utm_campaign=1031152&utm_source=habrahabr&utm_medium=rss)
-- [Докинз увидел сознание в Claude. Маркус ответил критикой](https://habr.com/ru/news/1031122/?utm_campaign=1031122&utm_source=habrahabr&utm_medium=rss)
-- [Открытое бета-тестирование КОМПАС-3D v25 для Linux](https://habr.com/ru/companies/ascon/news/1031076/?utm_campaign=1031076&utm_source=habrahabr&utm_medium=rss)
-- [Вышла EndeavourOS Titan Neo с ядром Linux 7.0](https://habr.com/ru/news/1031064/?utm_campaign=1031064&utm_source=habrahabr&utm_medium=rss)
+- [Для ОС «Роса» вышло обновление, закрывающее уязвимость Copy Fail](https://habr.com/ru/news/1031264/?utm_campaign=1031264&utm_source=habrahabr&utm_medium=rss)
+- [РКН планирует контролировать 98% трафика и блокировать 92% VPN к 2030 году](https://habr.com/ru/news/1031242/?utm_campaign=1031242&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.5 поручили организовать вечеринку в честь своего запуска — а гостей отобрал Codex](https://habr.com/ru/news/1031238/?utm_campaign=1031238&utm_source=habrahabr&utm_medium=rss)
+- [Нательные камеры и служебные электрошокеры Axon с включённым Bluetooth выдают реальное местоположение владельца](https://habr.com/ru/news/1031214/?utm_campaign=1031214&utm_source=habrahabr&utm_medium=rss)
+- [КРОК стал победителем конкурса «Пресс-служба года»: Read IT Club признан лучшим PR-проектом в IT](https://habr.com/ru/companies/croc/news/1031188/?utm_campaign=1031188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
