@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел открытый проект LinuxOnTab — Linux во вкладке браузера](https://habr.com/ru/news/1030984/?utm_campaign=1030984&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект мультимедийной библиотеки LDL, которая оптимизирована для маломощных систем](https://habr.com/ru/news/1030760/?utm_campaign=1030760&utm_source=habrahabr&utm_medium=rss)
-- [«Комплекс Бога»: Хуанг — о CEO, пугающих миллионами увольнений из-за ИИ](https://habr.com/ru/news/1030934/?utm_campaign=1030934&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пакетный менеджер APT 3.3.0](https://habr.com/ru/news/1030576/?utm_campaign=1030576&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.4 Pro решила математическую задачу Эрдёша 1196 — и открыла путь к решению еще четырех гипотез](https://habr.com/ru/news/1030910/?utm_campaign=1030910&utm_source=habrahabr&utm_medium=rss)
+- [СМИ и разработчики ИИ в России обсуждают лицензирование контента для обучения нейросетей](https://habr.com/ru/news/1031066/?utm_campaign=1031066&utm_source=habrahabr&utm_medium=rss)
+- [Служба здравоохранения Великобритании закроет репозитории из-за активности ИИ в ИБ](https://habr.com/ru/news/1031056/?utm_campaign=1031056&utm_source=habrahabr&utm_medium=rss)
+- [В Rufus объяснили проблему с новым способом установки Windows 11](https://habr.com/ru/news/1031048/?utm_campaign=1031048&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code штрафовал пользователей за упоминание OpenClaw и Hermes. В Anthropic заявили, что это баг](https://habr.com/ru/news/1031022/?utm_campaign=1031022&utm_source=habrahabr&utm_medium=rss)
+- [Nokia продала Inseego бизнес оборудования для широкополосного беспроводного доступа](https://habr.com/ru/news/1031012/?utm_campaign=1031012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
