@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый проект LinuxOnTab — Linux во вкладке браузера](https://habr.com/ru/news/1030984/?utm_campaign=1030984&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект мультимедийной библиотеки LDL, которая оптимизирована для маломощных систем](https://habr.com/ru/news/1030760/?utm_campaign=1030760&utm_source=habrahabr&utm_medium=rss)
+- [«Комплекс Бога»: Хуанг — о CEO, пугающих миллионами увольнений из-за ИИ](https://habr.com/ru/news/1030934/?utm_campaign=1030934&utm_source=habrahabr&utm_medium=rss)
 - [Вышел пакетный менеджер APT 3.3.0](https://habr.com/ru/news/1030576/?utm_campaign=1030576&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.4 Pro решила математическую задачу Эрдёша 1196 — и открыла путь к решению еще четырех гипотез](https://habr.com/ru/news/1030910/?utm_campaign=1030910&utm_source=habrahabr&utm_medium=rss)
-- [Российский браузер «Луна» удалили из App Store](https://habr.com/ru/news/1030868/?utm_campaign=1030868&utm_source=habrahabr&utm_medium=rss)
-- [Обученный на квантовом процессоре ИИ предсказал турбулентность на 20% точнее классики](https://habr.com/ru/news/1030814/?utm_campaign=1030814&utm_source=habrahabr&utm_medium=rss)
-- [Внутренний CLAUDE.md Apple утек в сеть: видно, как компания использует ИИ в поддержке](https://habr.com/ru/news/1030808/?utm_campaign=1030808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
