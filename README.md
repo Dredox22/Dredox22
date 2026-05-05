@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Качество кода в эпоху AI: как не утонуть в багах и уязвимостях](https://habr.com/ru/companies/veai/news/1031678/?utm_campaign=1031678&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносная программа CloudZ использует Microsoft Phone Link для кражи СМС и одноразовых паролей](https://habr.com/ru/news/1031658/?utm_campaign=1031658&utm_source=habrahabr&utm_medium=rss)
-- [ТЭП без Excel: как мы связали экономику проекта с BIM-моделью](https://habr.com/ru/companies/sminex_developer/news/1031638/?utm_campaign=1031638&utm_source=habrahabr&utm_medium=rss)
-- [Как сократить путь от данных к инсайтам с ИИ‑ассистентом](https://habr.com/ru/companies/mws/news/1031646/?utm_campaign=1031646&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представил открытое решение на базе LLM для ускорения миграции iOS-кода на Swift](https://habr.com/ru/news/1031642/?utm_campaign=1031642&utm_source=habrahabr&utm_medium=rss)
+- [РТК-ЦОД вложил свыше 38 млрд рублей в расширение сети дата-центров](https://habr.com/ru/news/1031768/?utm_campaign=1031768&utm_source=habrahabr&utm_medium=rss)
+- [Google предлагает до $1,5 млн за обнаружение некоторых уязвимостей в Android](https://habr.com/ru/news/1031766/?utm_campaign=1031766&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудники Google DeepMind проголосовали за создание профсоюза из-за сделок с военными](https://habr.com/ru/news/1031744/?utm_campaign=1031744&utm_source=habrahabr&utm_medium=rss)
+- [Mistral Medium 3.5: новая открытая модель и облачные агенты Vibe](https://habr.com/ru/news/1031740/?utm_campaign=1031740&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Аквариус» зарегистрировала мобильную операционную систему AQOS на базе Linux в реестре Минцифры](https://habr.com/ru/news/1031732/?utm_campaign=1031732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
