@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Roblox обвинила внедрение системы проверки возраста в замедлении роста платформы](https://habr.com/ru/news/1031502/?utm_campaign=1031502&utm_source=habrahabr&utm_medium=rss)
-- [Google объяснила увеличение объёма занятой памяти на Android после обновлений системы](https://habr.com/ru/news/1031500/?utm_campaign=1031500&utm_source=habrahabr&utm_medium=rss)
-- [В Anthropic рассказали, как отучили Opus 4.7 подхалимничать](https://habr.com/ru/news/1031508/?utm_campaign=1031508&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft упростила идентификацию принтеров в Windows 11](https://habr.com/ru/news/1031492/?utm_campaign=1031492&utm_source=habrahabr&utm_medium=rss)
-- [Автор Notepad++ потребовал переименовать нативный порт NotePad++ для macOS](https://habr.com/ru/news/1031488/?utm_campaign=1031488&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» представил открытое решение на базе LLM для ускорения миграции iOS-кода на Swift](https://habr.com/ru/news/1031642/?utm_campaign=1031642&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск нового издания книги «Программирование: введение в профессию» А. В. Столярова](https://habr.com/ru/news/1031636/?utm_campaign=1031636&utm_source=habrahabr&utm_medium=rss)
+- [Студенты навайбкодили сервис для подготовки трибунных перформансов на ИИ-хакатоне Friflex и ЦСКА](https://habr.com/ru/companies/friflex/news/1031634/?utm_campaign=1031634&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft подтвердила перезагрузки Windows 11 из-за Secure Boot](https://habr.com/ru/news/1031630/?utm_campaign=1031630&utm_source=habrahabr&utm_medium=rss)
+- [System Analysis Meetup SberHealth: 20 мая в 18:30](https://habr.com/ru/companies/docdoc/news/1031626/?utm_campaign=1031626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
