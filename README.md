@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome может незаметно скачать на диск локальную ИИ-модель Gemini Nano на 4GB](https://habr.com/ru/news/1031854/?utm_campaign=1031854&utm_source=habrahabr&utm_medium=rss)
+- [На 52,5% галлюцинаций меньше: вышла GPT-5.5 Instant](https://habr.com/ru/news/1031850/?utm_campaign=1031850&utm_source=habrahabr&utm_medium=rss)
 - [Uber потратил годовой бюджет на ИИ за 4 месяца — и теперь выбирает между токенами и людьми](https://habr.com/ru/news/1031804/?utm_campaign=1031804&utm_source=habrahabr&utm_medium=rss)
 - [В GitHub объяснили инциденты с недоступностью платформы](https://habr.com/ru/news/1031774/?utm_campaign=1031774&utm_source=habrahabr&utm_medium=rss)
 - [РТК-ЦОД вложил свыше 38 млрд рублей в расширение сети дата-центров](https://habr.com/ru/news/1031768/?utm_campaign=1031768&utm_source=habrahabr&utm_medium=rss)
-- [Google предлагает до $1,5 млн за обнаружение некоторых уязвимостей в Android](https://habr.com/ru/news/1031766/?utm_campaign=1031766&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудники Google DeepMind проголосовали за создание профсоюза из-за сделок с военными](https://habr.com/ru/news/1031744/?utm_campaign=1031744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
