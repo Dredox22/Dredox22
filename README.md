@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber потратил годовой бюджет на ИИ за 4 месяца — и теперь выбирает между токенами и людьми](https://habr.com/ru/news/1031804/?utm_campaign=1031804&utm_source=habrahabr&utm_medium=rss)
+- [В GitHub объяснили инциденты с недоступностью платформы](https://habr.com/ru/news/1031774/?utm_campaign=1031774&utm_source=habrahabr&utm_medium=rss)
 - [РТК-ЦОД вложил свыше 38 млрд рублей в расширение сети дата-центров](https://habr.com/ru/news/1031768/?utm_campaign=1031768&utm_source=habrahabr&utm_medium=rss)
 - [Google предлагает до $1,5 млн за обнаружение некоторых уязвимостей в Android](https://habr.com/ru/news/1031766/?utm_campaign=1031766&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники Google DeepMind проголосовали за создание профсоюза из-за сделок с военными](https://habr.com/ru/news/1031744/?utm_campaign=1031744&utm_source=habrahabr&utm_medium=rss)
-- [Mistral Medium 3.5: новая открытая модель и облачные агенты Vibe](https://habr.com/ru/news/1031740/?utm_campaign=1031740&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Аквариус» зарегистрировала мобильную операционную систему AQOS на базе Linux в реестре Минцифры](https://habr.com/ru/news/1031732/?utm_campaign=1031732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
