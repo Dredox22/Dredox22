@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Минцифры отложило обязательную маркировку программ в реестре отечественного ПО, созданных на основе открытых проектов](https://habr.com/ru/news/1031470/?utm_campaign=1031470&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Android-клавиатуры Unexpected Keyboard 2.0.0](https://habr.com/ru/news/1030996/?utm_campaign=1030996&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект TaskExplorer 1.8.0](https://habr.com/ru/news/1030974/?utm_campaign=1030974&utm_source=habrahabr&utm_medium=rss)
-- [Самообучающийся ИИ может появиться в конце 2028 года — сооснователь Anthropic](https://habr.com/ru/news/1031430/?utm_campaign=1031430&utm_source=habrahabr&utm_medium=rss)
-- [В России буду следить за молодёжью в социальных сетях &lpar;от 14 до 35 лет&rpar;](https://habr.com/ru/news/1031424/?utm_campaign=1031424&utm_source=habrahabr&utm_medium=rss)
+- [Roblox обвинила внедрение системы проверки возраста в замедлении роста платформы](https://habr.com/ru/news/1031502/?utm_campaign=1031502&utm_source=habrahabr&utm_medium=rss)
+- [Google объяснила увеличение объёма занятой памяти на Android после обновлений системы](https://habr.com/ru/news/1031500/?utm_campaign=1031500&utm_source=habrahabr&utm_medium=rss)
+- [В Anthropic рассказали, как отучили Opus 4.7 подхалимничать](https://habr.com/ru/news/1031508/?utm_campaign=1031508&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft упростила идентификацию принтеров в Windows 11](https://habr.com/ru/news/1031492/?utm_campaign=1031492&utm_source=habrahabr&utm_medium=rss)
+- [Автор Notepad++ потребовал переименовать нативный порт NotePad++ для macOS](https://habr.com/ru/news/1031488/?utm_campaign=1031488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
