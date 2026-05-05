@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Качество кода в эпоху AI: как не утонуть в багах и уязвимостях](https://habr.com/ru/companies/veai/news/1031678/?utm_campaign=1031678&utm_source=habrahabr&utm_medium=rss)
+- [Вредоносная программа CloudZ использует Microsoft Phone Link для кражи СМС и одноразовых паролей](https://habr.com/ru/news/1031658/?utm_campaign=1031658&utm_source=habrahabr&utm_medium=rss)
+- [ТЭП без Excel: как мы связали экономику проекта с BIM-моделью](https://habr.com/ru/companies/sminex_developer/news/1031638/?utm_campaign=1031638&utm_source=habrahabr&utm_medium=rss)
+- [Как сократить путь от данных к инсайтам с ИИ‑ассистентом](https://habr.com/ru/companies/mws/news/1031646/?utm_campaign=1031646&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил открытое решение на базе LLM для ускорения миграции iOS-кода на Swift](https://habr.com/ru/news/1031642/?utm_campaign=1031642&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск нового издания книги «Программирование: введение в профессию» А. В. Столярова](https://habr.com/ru/news/1031636/?utm_campaign=1031636&utm_source=habrahabr&utm_medium=rss)
-- [Студенты навайбкодили сервис для подготовки трибунных перформансов на ИИ-хакатоне Friflex и ЦСКА](https://habr.com/ru/companies/friflex/news/1031634/?utm_campaign=1031634&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила перезагрузки Windows 11 из-за Secure Boot](https://habr.com/ru/news/1031630/?utm_campaign=1031630&utm_source=habrahabr&utm_medium=rss)
-- [System Analysis Meetup SberHealth: 20 мая в 18:30](https://habr.com/ru/companies/docdoc/news/1031626/?utm_campaign=1031626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
