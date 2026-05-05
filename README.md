@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Android-клавиатуры Unexpected Keyboard 2.0.0](https://habr.com/ru/news/1030996/?utm_campaign=1030996&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект TaskExplorer 1.8.0](https://habr.com/ru/news/1030974/?utm_campaign=1030974&utm_source=habrahabr&utm_medium=rss)
 - [Самообучающийся ИИ может появиться в конце 2028 года — сооснователь Anthropic](https://habr.com/ru/news/1031430/?utm_campaign=1031430&utm_source=habrahabr&utm_medium=rss)
 - [В России буду следить за молодёжью в социальных сетях &lpar;от 14 до 35 лет&rpar;](https://habr.com/ru/news/1031424/?utm_campaign=1031424&utm_source=habrahabr&utm_medium=rss)
 - [MIG A65 на «Ред ОС М» стал доступен в рознице](https://habr.com/ru/news/1031418/?utm_campaign=1031418&utm_source=habrahabr&utm_medium=rss)
-- [«Станете самыми ненавистными людьми в США»: Маск угрожал директору OpenAI перед судом](https://habr.com/ru/news/1031416/?utm_campaign=1031416&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг: исключение иностранных ПК и компонентов из параллельного импорта не ухудшит ассортимент на российском рынке](https://habr.com/ru/news/1031350/?utm_campaign=1031350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
