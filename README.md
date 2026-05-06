@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приглашаем послушать, как ИИ троллит техногигантов](https://habr.com/ru/companies/avito/news/1032274/?utm_campaign=1032274&utm_source=habrahabr&utm_medium=rss)
+- [Claude теперь «видит сны»: Anthropic выкатила режим dreaming для ИИ-агентов](https://habr.com/ru/news/1032266/?utm_campaign=1032266&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic арендует Colossus у xAI: лимиты Claude Code удваиваются](https://habr.com/ru/news/1032256/?utm_campaign=1032256&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Solana объявили о запуске с Google сервиса Pay.sh для оплаты ИИ-услуг ИИ-агентами](https://habr.com/ru/news/1032240/?utm_campaign=1032240&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft удалила рекомендацию о 32 ГБ ОЗУ для систем геймеров с Windows 11](https://habr.com/ru/news/1032234/?utm_campaign=1032234&utm_source=habrahabr&utm_medium=rss)
-- [Япония использует игровые движки для городского планирования и управления стихийными бедствиями](https://habr.com/ru/news/1032226/?utm_campaign=1032226&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые дети проходят проверку возраста в интернете при помощи нарисованных усов](https://habr.com/ru/news/1032224/?utm_campaign=1032224&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ProBackup 3.3.0: инкрементальные бэкапы CFS и гибкое управление WAL](https://habr.com/ru/companies/postgrespro/news/1031538/?utm_campaign=1031538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
