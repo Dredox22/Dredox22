@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google разрабатывает ИИ-агента, который может стать ответом на OpenClaw](https://habr.com/ru/news/1032192/?utm_campaign=1032192&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind бастует против контрактов с Пентагоном](https://habr.com/ru/news/1032176/?utm_campaign=1032176&utm_source=habrahabr&utm_medium=rss)
-- [Kubectl, ручной доступ и секреты без шифрования: чем живёт российский DevOps в 2026](https://habr.com/ru/companies/mws/news/1032170/?utm_campaign=1032170&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ» проанализировал судебные решения по спору владельца сайта и хостинг‑провайдера из-за DDoS-атаки](https://habr.com/ru/news/1032126/?utm_campaign=1032126&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Edge хранит сохранённые пароли в памяти в открытом виде](https://habr.com/ru/news/1032122/?utm_campaign=1032122&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Solana объявили о запуске с Google сервиса Pay.sh для оплаты ИИ-услуг ИИ-агентами](https://habr.com/ru/news/1032240/?utm_campaign=1032240&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft удалила рекомендацию о 32 ГБ ОЗУ для систем геймеров с Windows 11](https://habr.com/ru/news/1032234/?utm_campaign=1032234&utm_source=habrahabr&utm_medium=rss)
+- [Япония использует игровые движки для городского планирования и управления стихийными бедствиями](https://habr.com/ru/news/1032226/?utm_campaign=1032226&utm_source=habrahabr&utm_medium=rss)
+- [Некоторые дети проходят проверку возраста в интернете при помощи нарисованных усов](https://habr.com/ru/news/1032224/?utm_campaign=1032224&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ProBackup 3.3.0: инкрементальные бэкапы CFS и гибкое управление WAL](https://habr.com/ru/companies/postgrespro/news/1031538/?utm_campaign=1031538&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
