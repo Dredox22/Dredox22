@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбор Troywell VPN: как расширение превращается в перехватчик трафика и данных](https://habr.com/ru/news/1031900/?utm_campaign=1031900&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Microsoft Edge загружает все сохранённые пароли в память в открытом виде — даже когда ими не пользуются](https://habr.com/ru/news/1031914/?utm_campaign=1031914&utm_source=habrahabr&utm_medium=rss)
-- [В Anthropic рассказали, как защититься от саботажа ИИ](https://habr.com/ru/news/1031912/?utm_campaign=1031912&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Node.js 26](https://habr.com/ru/news/1031908/?utm_campaign=1031908&utm_source=habrahabr&utm_medium=rss)
-- [Amazon представила открытый проект среды для контролируемого выполнения скриптов REX &lpar;Trusted Remote Execution&rpar;](https://habr.com/ru/news/1031474/?utm_campaign=1031474&utm_source=habrahabr&utm_medium=rss)
+- [Машинное обучение в реальных условиях: проверьте свои силы на Yandex ML Challenge](https://habr.com/ru/companies/yandex/news/1032102/?utm_campaign=1032102&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустила 10 финансовых ИИ-агентов — и пообещала похороны старому SaaS](https://habr.com/ru/news/1032046/?utm_campaign=1032046&utm_source=habrahabr&utm_medium=rss)
+- [Представлена языковая модель с линейной сложностью вычислений и контекстом до 12 млн токенов](https://habr.com/ru/news/1032044/?utm_campaign=1032044&utm_source=habrahabr&utm_medium=rss)
+- [PayPal станет позиционировать себя как технологическую компанию с ИИ](https://habr.com/ru/news/1032028/?utm_campaign=1032028&utm_source=habrahabr&utm_medium=rss)
+- [Apple согласилась выплатить владельцам iPhone $250 млн за введение в заблуждение по поводу Apple Intelligence](https://habr.com/ru/news/1032024/?utm_campaign=1032024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
