@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбор Troywell VPN: как расширение превращается в перехватчик трафика и данных](https://habr.com/ru/news/1031900/?utm_campaign=1031900&utm_source=habrahabr&utm_medium=rss)
+- [Браузер Microsoft Edge загружает все сохранённые пароли в память в открытом виде — даже когда ими не пользуются](https://habr.com/ru/news/1031914/?utm_campaign=1031914&utm_source=habrahabr&utm_medium=rss)
+- [В Anthropic рассказали, как защититься от саботажа ИИ](https://habr.com/ru/news/1031912/?utm_campaign=1031912&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Node.js 26](https://habr.com/ru/news/1031908/?utm_campaign=1031908&utm_source=habrahabr&utm_medium=rss)
 - [Amazon представила открытый проект среды для контролируемого выполнения скриптов REX &lpar;Trusted Remote Execution&rpar;](https://habr.com/ru/news/1031474/?utm_campaign=1031474&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Glow 26.7 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/1031486/?utm_campaign=1031486&utm_source=habrahabr&utm_medium=rss)
-- [Крупные разработчики игр и IT-специалисты бегут из России](https://habr.com/ru/news/1031898/?utm_campaign=1031898&utm_source=habrahabr&utm_medium=rss)
-- [Программирование решено, дальше — циклы: создатель Claude Code о будущем ИИ-кодинга](https://habr.com/ru/news/1031886/?utm_campaign=1031886&utm_source=habrahabr&utm_medium=rss)
-- [Хакатон-дайджест №34 на май](https://habr.com/ru/news/1031862/?utm_campaign=1031862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
