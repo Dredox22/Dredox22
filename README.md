@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Машинное обучение в реальных условиях: проверьте свои силы на Yandex ML Challenge](https://habr.com/ru/companies/yandex/news/1032102/?utm_campaign=1032102&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустила 10 финансовых ИИ-агентов — и пообещала похороны старому SaaS](https://habr.com/ru/news/1032046/?utm_campaign=1032046&utm_source=habrahabr&utm_medium=rss)
-- [Представлена языковая модель с линейной сложностью вычислений и контекстом до 12 млн токенов](https://habr.com/ru/news/1032044/?utm_campaign=1032044&utm_source=habrahabr&utm_medium=rss)
-- [PayPal станет позиционировать себя как технологическую компанию с ИИ](https://habr.com/ru/news/1032028/?utm_campaign=1032028&utm_source=habrahabr&utm_medium=rss)
-- [Apple согласилась выплатить владельцам iPhone $250 млн за введение в заблуждение по поводу Apple Intelligence](https://habr.com/ru/news/1032024/?utm_campaign=1032024&utm_source=habrahabr&utm_medium=rss)
+- [Google разрабатывает ИИ-агента, который может стать ответом на OpenClaw](https://habr.com/ru/news/1032192/?utm_campaign=1032192&utm_source=habrahabr&utm_medium=rss)
+- [Google DeepMind бастует против контрактов с Пентагоном](https://habr.com/ru/news/1032176/?utm_campaign=1032176&utm_source=habrahabr&utm_medium=rss)
+- [Kubectl, ручной доступ и секреты без шифрования: чем живёт российский DevOps в 2026](https://habr.com/ru/companies/mws/news/1032170/?utm_campaign=1032170&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ» проанализировал судебные решения по спору владельца сайта и хостинг‑провайдера из-за DDoS-атаки](https://habr.com/ru/news/1032126/?utm_campaign=1032126&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Edge хранит сохранённые пароли в памяти в открытом виде](https://habr.com/ru/news/1032122/?utm_campaign=1032122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
