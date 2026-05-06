@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* с помощью ИИ-сканирования будет выявлять аккаунты детей в Facebook** и Instagram**](https://habr.com/ru/news/1031896/?utm_campaign=1031896&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic снял compute у SpaceX. И заодно удвоил лимиты Claude Code](https://habr.com/ru/news/1032306/?utm_campaign=1032306&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем послушать, как ИИ троллит техногигантов](https://habr.com/ru/companies/avito/news/1032274/?utm_campaign=1032274&utm_source=habrahabr&utm_medium=rss)
 - [Claude теперь «видит сны»: Anthropic выкатила режим dreaming для ИИ-агентов](https://habr.com/ru/news/1032266/?utm_campaign=1032266&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic арендует Colossus у xAI: лимиты Claude Code удваиваются](https://habr.com/ru/news/1032256/?utm_campaign=1032256&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Solana объявили о запуске с Google сервиса Pay.sh для оплаты ИИ-услуг ИИ-агентами](https://habr.com/ru/news/1032240/?utm_campaign=1032240&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалила рекомендацию о 32 ГБ ОЗУ для систем геймеров с Windows 11](https://habr.com/ru/news/1032234/?utm_campaign=1032234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
