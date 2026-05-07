@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [7 мая — День радио](https://habr.com/ru/news/1032358/?utm_campaign=1032358&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта DPI Detector 3.3.0](https://habr.com/ru/news/1032344/?utm_campaign=1032344&utm_source=habrahabr&utm_medium=rss)
-- [Composer тренирует Composer: Cursor использовал старую модель для обучения новой](https://habr.com/ru/news/1032314/?utm_campaign=1032314&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Unix-подобная операционная система ToaruOS 2.3](https://habr.com/ru/news/1032088/?utm_campaign=1032088&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого каталогизатора домашней библиотеки MyLibrary 5.0](https://habr.com/ru/news/1031938/?utm_campaign=1031938&utm_source=habrahabr&utm_medium=rss)
+- [Поисковик Ask.com закрылся спустя 30 лет работы](https://habr.com/ru/news/1032462/?utm_campaign=1032462&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор сообщил, что не планирует ограничивать доступ к популярным иностранным видеоиграм](https://habr.com/ru/news/1032458/?utm_campaign=1032458&utm_source=habrahabr&utm_medium=rss)
+- [«Билайн» добавил в приложение мониторинг ограничений интернета](https://habr.com/ru/news/1032450/?utm_campaign=1032450&utm_source=habrahabr&utm_medium=rss)
+- [Иранские хакеры притворяются вымогателями, чтобы шпионить](https://habr.com/ru/companies/ddosguard/news/1032446/?utm_campaign=1032446&utm_source=habrahabr&utm_medium=rss)
+- [Google представила новую платформу Agentic для киберразведки](https://habr.com/ru/news/1032436/?utm_campaign=1032436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
