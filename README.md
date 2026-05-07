@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Поисковик Ask.com закрылся спустя 30 лет работы](https://habr.com/ru/news/1032462/?utm_campaign=1032462&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор сообщил, что не планирует ограничивать доступ к популярным иностранным видеоиграм](https://habr.com/ru/news/1032458/?utm_campaign=1032458&utm_source=habrahabr&utm_medium=rss)
-- [«Билайн» добавил в приложение мониторинг ограничений интернета](https://habr.com/ru/news/1032450/?utm_campaign=1032450&utm_source=habrahabr&utm_medium=rss)
-- [Иранские хакеры притворяются вымогателями, чтобы шпионить](https://habr.com/ru/companies/ddosguard/news/1032446/?utm_campaign=1032446&utm_source=habrahabr&utm_medium=rss)
-- [Google представила новую платформу Agentic для киберразведки](https://habr.com/ru/news/1032436/?utm_campaign=1032436&utm_source=habrahabr&utm_medium=rss)
+- [Число нового вредоносного ПО выросло на 38%](https://habr.com/ru/companies/pt/news/1032590/?utm_campaign=1032590&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft расширила возможности отзыва писем в Outlook](https://habr.com/ru/news/1032566/?utm_campaign=1032566&utm_source=habrahabr&utm_medium=rss)
+- [AI Overviews в поисковике Google теперь будет обращаться к Reddit за «советами экспертов»](https://habr.com/ru/news/1032548/?utm_campaign=1032548&utm_source=habrahabr&utm_medium=rss)
+- [Песков: меры поддержки для бизнеса в связи с отключением мобильной связи не рассматриваются](https://habr.com/ru/news/1032502/?utm_campaign=1032502&utm_source=habrahabr&utm_medium=rss)
+- [Dell и Lenovo теперь спонсируют службу обновления прошивки для Linux](https://habr.com/ru/news/1032492/?utm_campaign=1032492&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
