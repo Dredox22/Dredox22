@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [7 мая — День радио](https://habr.com/ru/news/1032358/?utm_campaign=1032358&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого проекта DPI Detector 3.3.0](https://habr.com/ru/news/1032344/?utm_campaign=1032344&utm_source=habrahabr&utm_medium=rss)
+- [Composer тренирует Composer: Cursor использовал старую модель для обучения новой](https://habr.com/ru/news/1032314/?utm_campaign=1032314&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Unix-подобная операционная система ToaruOS 2.3](https://habr.com/ru/news/1032088/?utm_campaign=1032088&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого каталогизатора домашней библиотеки MyLibrary 5.0](https://habr.com/ru/news/1031938/?utm_campaign=1031938&utm_source=habrahabr&utm_medium=rss)
-- [Конец независимости DeepSeek: лаборатория Ляна Вэньфэна идет за деньгами](https://habr.com/ru/news/1032312/?utm_campaign=1032312&utm_source=habrahabr&utm_medium=rss)
-- [Meta* с помощью ИИ-сканирования будет выявлять аккаунты детей в Facebook** и Instagram**](https://habr.com/ru/news/1031896/?utm_campaign=1031896&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic снял compute у SpaceX. И заодно удвоил лимиты Claude Code](https://habr.com/ru/news/1032306/?utm_campaign=1032306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
