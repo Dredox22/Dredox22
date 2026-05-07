@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Число нового вредоносного ПО выросло на 38%](https://habr.com/ru/companies/pt/news/1032590/?utm_campaign=1032590&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft расширила возможности отзыва писем в Outlook](https://habr.com/ru/news/1032566/?utm_campaign=1032566&utm_source=habrahabr&utm_medium=rss)
-- [AI Overviews в поисковике Google теперь будет обращаться к Reddit за «советами экспертов»](https://habr.com/ru/news/1032548/?utm_campaign=1032548&utm_source=habrahabr&utm_medium=rss)
-- [Песков: меры поддержки для бизнеса в связи с отключением мобильной связи не рассматриваются](https://habr.com/ru/news/1032502/?utm_campaign=1032502&utm_source=habrahabr&utm_medium=rss)
-- [Dell и Lenovo теперь спонсируют службу обновления прошивки для Linux](https://habr.com/ru/news/1032492/?utm_campaign=1032492&utm_source=habrahabr&utm_medium=rss)
+- [Save the date: 20 мая встретимся на Inside AI Meetup от Wildberries &amp;amp; Russ](https://habr.com/ru/companies/wildberries/news/1032424/?utm_campaign=1032424&utm_source=habrahabr&utm_medium=rss)
+- [Мира Мурати в суде обвинила Альтмана в обмане и хаосе](https://habr.com/ru/news/1032662/?utm_campaign=1032662&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты UserGate: кибермошенники стали активнее использовать технологии NFC](https://habr.com/ru/companies/usergate/news/1032640/?utm_campaign=1032640&utm_source=habrahabr&utm_medium=rss)
+- [ИТ-решения в промышленности: итоги 2025 года и тренды 2026](https://habr.com/ru/companies/k2tech/news/1032632/?utm_campaign=1032632&utm_source=habrahabr&utm_medium=rss)
+- [В Югре задержали сотрудника МФЦ, продававшего незаконный доступ к аккаунтам на «Госуслугах»](https://habr.com/ru/news/1032628/?utm_campaign=1032628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
