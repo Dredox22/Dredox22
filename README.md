@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google выпустила обновление смартфонов Pixel 10 без возможности отката ОС](https://habr.com/ru/news/1032718/?utm_campaign=1032718&utm_source=habrahabr&utm_medium=rss)
 - [Save the date: 20 мая встретимся на Inside AI Meetup от Wildberries &amp;amp; Russ](https://habr.com/ru/companies/wildberries/news/1032424/?utm_campaign=1032424&utm_source=habrahabr&utm_medium=rss)
 - [Мира Мурати в суде обвинила Альтмана в обмане и хаосе](https://habr.com/ru/news/1032662/?utm_campaign=1032662&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты UserGate: кибермошенники стали активнее использовать технологии NFC](https://habr.com/ru/companies/usergate/news/1032640/?utm_campaign=1032640&utm_source=habrahabr&utm_medium=rss)
 - [ИТ-решения в промышленности: итоги 2025 года и тренды 2026](https://habr.com/ru/companies/k2tech/news/1032632/?utm_campaign=1032632&utm_source=habrahabr&utm_medium=rss)
-- [В Югре задержали сотрудника МФЦ, продававшего незаконный доступ к аккаунтам на «Госуслугах»](https://habr.com/ru/news/1032628/?utm_campaign=1032628&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
