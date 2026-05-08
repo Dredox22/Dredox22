@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ помогает сделать трудноизвлекаемые запасы рентабельнее: нефтегаз Казахстана уходит в предиктивную добычу](https://habr.com/ru/news/1032860/?utm_campaign=1032860&utm_source=habrahabr&utm_medium=rss)
-- [Депутат Госдумы предложил внести все банки в «белые списки»](https://habr.com/ru/news/1033020/?utm_campaign=1033020&utm_source=habrahabr&utm_medium=rss)
-- [GigaChat сдал экзамен по направлениям «Электроэнергетика» и «Теплоэнергетика» в Московском энергетическом институте](https://habr.com/ru/news/1033000/?utm_campaign=1033000&utm_source=habrahabr&utm_medium=rss)
-- [Обновления маркетплейса OpenIDE: Classic UI, MCP Steroid, ACP и ещё 10 плагинов](https://habr.com/ru/companies/haulmont/news/1031590/?utm_campaign=1031590&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» проанализировала самые распространённые пароли](https://habr.com/ru/news/1032994/?utm_campaign=1032994&utm_source=habrahabr&utm_medium=rss)
+- [МВД: мошенники начали использовать «конструкторы» с ботами и шаблонами в Telegram](https://habr.com/ru/news/1033092/?utm_campaign=1033092&utm_source=habrahabr&utm_medium=rss)
+- [UserGate вошёл в топ-5 российских ИТ‑компаний — лидеров технологического развития России](https://habr.com/ru/companies/usergate/news/1033062/?utm_campaign=1033062&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запустил программу поддержки AI-проектов с грантом до 2 000 000 ₽](https://habr.com/ru/companies/selectel/news/1032138/?utm_campaign=1032138&utm_source=habrahabr&utm_medium=rss)
+- [Атака на поставщика данных привела к утечке личных данных 197 тысяч клиентов Zara](https://habr.com/ru/news/1033048/?utm_campaign=1033048&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на Cybersecurity Meetup #9](https://habr.com/ru/companies/bizone/news/1033044/?utm_campaign=1033044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
