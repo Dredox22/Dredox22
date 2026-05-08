@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [C3D Labs приглашает разработчиков инженерного ПО на конференцию C3Day 2026](https://habr.com/ru/companies/ascon/news/1032952/?utm_campaign=1032952&utm_source=habrahabr&utm_medium=rss)
+- [Подвели итоги апреля в SSP SOFT: полет нормальный и команда быстро растет](https://habr.com/ru/companies/ssp-soft/news/1032926/?utm_campaign=1032926&utm_source=habrahabr&utm_medium=rss)
+- [Google заменит Google Fit и приложение Fitbit новым сервисом Google Health](https://habr.com/ru/news/1032864/?utm_campaign=1032864&utm_source=habrahabr&utm_medium=rss)
 - [DDoS-атаки, ВПО, взломы SCADA-систем: эксперт назвала актуальные угрозы для ТЭК](https://habr.com/ru/companies/gaz-is/news/1032848/?utm_campaign=1032848&utm_source=habrahabr&utm_medium=rss)
 - [Идеальный полигон для ИИ: Google DeepMind стала совладельцем разработчиков EVE Online](https://habr.com/ru/news/1032846/?utm_campaign=1032846&utm_source=habrahabr&utm_medium=rss)
-- [Dirty Frag: как работает новый Linux LPE](https://habr.com/ru/companies/ideco/news/1032842/?utm_campaign=1032842&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой системы управления контейнерами Incus 7.0 LTS](https://habr.com/ru/news/1032356/?utm_campaign=1032356&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали страницы входа в 8800 школ на платформе Canvas](https://habr.com/ru/news/1032832/?utm_campaign=1032832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
