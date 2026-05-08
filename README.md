@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ozon Tech Community QA Meetup: как приручить ИИ для автотестов и создать адаптивный фреймворк для тестирования на Go](https://habr.com/ru/companies/ozontech/news/1033156/?utm_campaign=1033156&utm_source=habrahabr&utm_medium=rss)
+- [Прощай, Claude: Anthropic массово банит аккаунты из РФ и обнуляет «вайб-кодинг»](https://habr.com/ru/companies/selectel/news/1033152/?utm_campaign=1033152&utm_source=habrahabr&utm_medium=rss)
+- [В открытый доступ выложены исходные коды некоторых версий файлового менеджера Volkov Commander для DOS](https://habr.com/ru/news/1033150/?utm_campaign=1033150&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: доступ к ресурсам GitHub не ограничивается](https://habr.com/ru/news/1033146/?utm_campaign=1033146&utm_source=habrahabr&utm_medium=rss)
 - [В SELECTOS устранена критическая уязвимость в ядре Linux CVE-2026-43284](https://habr.com/ru/companies/selectel/news/1033106/?utm_campaign=1033106&utm_source=habrahabr&utm_medium=rss)
-- [МВД: мошенники начали использовать «конструкторы» с ботами и шаблонами в Telegram](https://habr.com/ru/news/1033092/?utm_campaign=1033092&utm_source=habrahabr&utm_medium=rss)
-- [UserGate вошёл в топ-5 российских ИТ‑компаний — лидеров технологического развития России](https://habr.com/ru/companies/usergate/news/1033062/?utm_campaign=1033062&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запустил программу поддержки AI-проектов с грантом до 2 000 000 ₽](https://habr.com/ru/companies/selectel/news/1032138/?utm_campaign=1032138&utm_source=habrahabr&utm_medium=rss)
-- [Атака на поставщика данных привела к утечке личных данных 197 тысяч клиентов Zara](https://habr.com/ru/news/1033048/?utm_campaign=1033048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
