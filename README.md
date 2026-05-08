@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В SELECTOS устранена критическая уязвимость в ядре Linux CVE-2026-43284](https://habr.com/ru/companies/selectel/news/1033106/?utm_campaign=1033106&utm_source=habrahabr&utm_medium=rss)
 - [МВД: мошенники начали использовать «конструкторы» с ботами и шаблонами в Telegram](https://habr.com/ru/news/1033092/?utm_campaign=1033092&utm_source=habrahabr&utm_medium=rss)
 - [UserGate вошёл в топ-5 российских ИТ‑компаний — лидеров технологического развития России](https://habr.com/ru/companies/usergate/news/1033062/?utm_campaign=1033062&utm_source=habrahabr&utm_medium=rss)
 - [Selectel запустил программу поддержки AI-проектов с грантом до 2 000 000 ₽](https://habr.com/ru/companies/selectel/news/1032138/?utm_campaign=1032138&utm_source=habrahabr&utm_medium=rss)
 - [Атака на поставщика данных привела к утечке личных данных 197 тысяч клиентов Zara](https://habr.com/ru/news/1033048/?utm_campaign=1033048&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на Cybersecurity Meetup #9](https://habr.com/ru/companies/bizone/news/1033044/?utm_campaign=1033044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
