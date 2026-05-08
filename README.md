@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Раскрыты две LPE-узявимости в Linux: Copy Fail 2: Electric Boogaloo и Dirty Frag: Universal Linux LPE](https://habr.com/ru/news/1032818/?utm_campaign=1032818&utm_source=habrahabr&utm_medium=rss)
+- [С Claude Mythos команда Firefox за апрель закрыла больше уязвимостей, чем за весь 2025-й](https://habr.com/ru/news/1032786/?utm_campaign=1032786&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 148](https://habr.com/ru/news/1032338/?utm_campaign=1032338&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления Mesa 26.1](https://habr.com/ru/news/1032544/?utm_campaign=1032544&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи раскритиковали Microsoft за удаление «чрезвычайно полезной» функции Outlook](https://habr.com/ru/news/1031894/?utm_campaign=1031894&utm_source=habrahabr&utm_medium=rss)
-- [Dirty Frag: Universal Linux LPE](https://habr.com/ru/news/1032790/?utm_campaign=1032790&utm_source=habrahabr&utm_medium=rss)
-- [«Если AI заберет работу у джунов — где брать сеньоров?»: Anthropic Institute займется поиском ответа](https://habr.com/ru/news/1032768/?utm_campaign=1032768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
