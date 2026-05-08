@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Раскрыты две LPE-узявимости в Linux: Copy Fail 2: Electric Boogaloo и Dirty Frag: Universal Linux LPE](https://habr.com/ru/news/1032818/?utm_campaign=1032818&utm_source=habrahabr&utm_medium=rss)
-- [С Claude Mythos команда Firefox за апрель закрыла больше уязвимостей, чем за весь 2025-й](https://habr.com/ru/news/1032786/?utm_campaign=1032786&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 148](https://habr.com/ru/news/1032338/?utm_campaign=1032338&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Mesa 26.1](https://habr.com/ru/news/1032544/?utm_campaign=1032544&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи раскритиковали Microsoft за удаление «чрезвычайно полезной» функции Outlook](https://habr.com/ru/news/1031894/?utm_campaign=1031894&utm_source=habrahabr&utm_medium=rss)
+- [DDoS-атаки, ВПО, взломы SCADA-систем: эксперт назвала актуальные угрозы для ТЭК](https://habr.com/ru/companies/gaz-is/news/1032848/?utm_campaign=1032848&utm_source=habrahabr&utm_medium=rss)
+- [Идеальный полигон для ИИ: Google DeepMind стала совладельцем разработчиков EVE Online](https://habr.com/ru/news/1032846/?utm_campaign=1032846&utm_source=habrahabr&utm_medium=rss)
+- [Dirty Frag: как работает новый Linux LPE](https://habr.com/ru/companies/ideco/news/1032842/?utm_campaign=1032842&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытой системы управления контейнерами Incus 7.0 LTS](https://habr.com/ru/news/1032356/?utm_campaign=1032356&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры взломали страницы входа в 8800 школ на платформе Canvas](https://habr.com/ru/news/1032832/?utm_campaign=1032832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
