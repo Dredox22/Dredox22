@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск версии OpenWrt 25.12.3 с патчем против уязвимости Copy Fail](https://habr.com/ru/news/1032960/?utm_campaign=1032960&utm_source=habrahabr&utm_medium=rss)
+- [Для Linux представлен Killswitch](https://habr.com/ru/news/1033238/?utm_campaign=1033238&utm_source=habrahabr&utm_medium=rss)
+- [Релиз менеджера файлов Total Commander 11.57](https://habr.com/ru/news/1032856/?utm_campaign=1032856&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek V4 силен только в «своих» бенчмарках. На независимых — отстает на 8 месяцев](https://habr.com/ru/news/1033208/?utm_campaign=1033208&utm_source=habrahabr&utm_medium=rss)
 - [Ozon Tech Community QA Meetup: как приручить ИИ для автотестов и создать адаптивный фреймворк для тестирования на Go](https://habr.com/ru/companies/ozontech/news/1033156/?utm_campaign=1033156&utm_source=habrahabr&utm_medium=rss)
-- [Прощай, Claude: Anthropic массово банит аккаунты из РФ и обнуляет «вайб-кодинг»](https://habr.com/ru/companies/selectel/news/1033152/?utm_campaign=1033152&utm_source=habrahabr&utm_medium=rss)
-- [В открытый доступ выложены исходные коды некоторых версий файлового менеджера Volkov Commander для DOS](https://habr.com/ru/news/1033150/?utm_campaign=1033150&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: доступ к ресурсам GitHub не ограничивается](https://habr.com/ru/news/1033146/?utm_campaign=1033146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
