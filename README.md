@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В НАСА помогли астрофотографу вместе с экипажем миссии «Артемида II» сделать цветные геофото Луны](https://habr.com/ru/news/1033362/?utm_campaign=1033362&utm_source=habrahabr&utm_medium=rss)
 - [Hi-Tech Mail: с 3 июня десктопный клиент «Яндекс Диск» для Windows и macOS перестанет полноценно работать без подписки](https://habr.com/ru/news/1033334/?utm_campaign=1033334&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый мультиплатформенный проект DPI Checkers для определения использования у интернет-провайдера DPI](https://habr.com/ru/news/1033322/?utm_campaign=1033322&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления редактора векторной графики Inkscape 1.4.4](https://habr.com/ru/news/1032480/?utm_campaign=1032480&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia подтвердила утечку данных сервиса GeForce Now, затронувшую пользователей из Армении](https://habr.com/ru/news/1033274/?utm_campaign=1033274&utm_source=habrahabr&utm_medium=rss)
-- [reCAPTCHA перестала работать для пользователей Android без предустановленных сервисов Google](https://habr.com/ru/news/1033262/?utm_campaign=1033262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
