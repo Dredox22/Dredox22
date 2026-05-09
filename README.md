@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый мультиплатформенный проект DPI Checkers для определения использования у интернет-провайдера DPI](https://habr.com/ru/news/1033322/?utm_campaign=1033322&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления редактора векторной графики Inkscape 1.4.4](https://habr.com/ru/news/1032480/?utm_campaign=1032480&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia подтвердила утечку данных сервиса GeForce Now, затронувшую пользователей из Армении](https://habr.com/ru/news/1033274/?utm_campaign=1033274&utm_source=habrahabr&utm_medium=rss)
 - [reCAPTCHA перестала работать для пользователей Android без предустановленных сервисов Google](https://habr.com/ru/news/1033262/?utm_campaign=1033262&utm_source=habrahabr&utm_medium=rss)
 - [От 96% до нуля: как Anthropic отучила Claude от шантажа](https://habr.com/ru/news/1033270/?utm_campaign=1033270&utm_source=habrahabr&utm_medium=rss)
-- [Google собрал ИИ-математика — и тот закрыл открытую задачу из Куровской тетради](https://habr.com/ru/news/1033214/?utm_campaign=1033214&utm_source=habrahabr&utm_medium=rss)
-- [Mythos от Anthropic подняла панику в банках. Что говорят эксперты?](https://habr.com/ru/companies/alpinadigital/news/1033204/?utm_campaign=1033204&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
