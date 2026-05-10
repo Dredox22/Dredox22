@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск дистрибутива Parrot OS 7.2 для этического хакинга с ядром Linux 6.19.13](https://habr.com/ru/news/1033514/?utm_campaign=1033514&utm_source=habrahabr&utm_medium=rss)
 - [Проект PHP перешёл на лицензию BSD-3](https://habr.com/ru/news/1033242/?utm_campaign=1033242&utm_source=habrahabr&utm_medium=rss)
 - [В Италии впервые диагностировали зависимость от ИИ](https://habr.com/ru/news/1033470/?utm_campaign=1033470&utm_source=habrahabr&utm_medium=rss)
 - [Instagram* отключил сквозное шифрование личных сообщений: что произошло 8 мая 2026 года](https://habr.com/ru/news/1033466/?utm_campaign=1033466&utm_source=habrahabr&utm_medium=rss)
 - [В США чиновники резали гранты через ChatGPT. Потом сделали бота крайним в суде](https://habr.com/ru/news/1033458/?utm_campaign=1033458&utm_source=habrahabr&utm_medium=rss)
-- [Cisco выпустила открытый инструмент «для отслеживания происхождения моделей ИИ»](https://habr.com/ru/news/1033444/?utm_campaign=1033444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
