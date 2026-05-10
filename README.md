@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Италии впервые диагностировали зависимость от ИИ](https://habr.com/ru/news/1033470/?utm_campaign=1033470&utm_source=habrahabr&utm_medium=rss)
+- [Instagram* отключил сквозное шифрование личных сообщений: что произошло 8 мая 2026 года](https://habr.com/ru/news/1033466/?utm_campaign=1033466&utm_source=habrahabr&utm_medium=rss)
 - [В США чиновники резали гранты через ChatGPT. Потом сделали бота крайним в суде](https://habr.com/ru/news/1033458/?utm_campaign=1033458&utm_source=habrahabr&utm_medium=rss)
 - [Cisco выпустила открытый инструмент «для отслеживания происхождения моделей ИИ»](https://habr.com/ru/news/1033444/?utm_campaign=1033444&utm_source=habrahabr&utm_medium=rss)
 - [В Teams добавили меры защиты против имитирующих бренды звонков](https://habr.com/ru/news/1033436/?utm_campaign=1033436&utm_source=habrahabr&utm_medium=rss)
-- [Из настроек Chrome пропало сообщение о приватности локального ИИ Gemini Nano. Это может стоить Google миллиарды](https://habr.com/ru/news/1033392/?utm_campaign=1033392&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Microsoft Edge 148](https://habr.com/ru/news/1033064/?utm_campaign=1033064&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
