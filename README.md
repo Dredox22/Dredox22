@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В США чиновники резали гранты через ChatGPT. Потом сделали бота крайним в суде](https://habr.com/ru/news/1033458/?utm_campaign=1033458&utm_source=habrahabr&utm_medium=rss)
+- [Cisco выпустила открытый инструмент «для отслеживания происхождения моделей ИИ»](https://habr.com/ru/news/1033444/?utm_campaign=1033444&utm_source=habrahabr&utm_medium=rss)
+- [В Teams добавили меры защиты против имитирующих бренды звонков](https://habr.com/ru/news/1033436/?utm_campaign=1033436&utm_source=habrahabr&utm_medium=rss)
 - [Из настроек Chrome пропало сообщение о приватности локального ИИ Gemini Nano. Это может стоить Google миллиарды](https://habr.com/ru/news/1033392/?utm_campaign=1033392&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Microsoft Edge 148](https://habr.com/ru/news/1033064/?utm_campaign=1033064&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление FreeRDP 3.26](https://habr.com/ru/news/1033018/?utm_campaign=1033018&utm_source=habrahabr&utm_medium=rss)
-- [«Замена джунов на ИИ — тупая идея»: CEO AWS берет 11 000 интернов](https://habr.com/ru/news/1033382/?utm_campaign=1033382&utm_source=habrahabr&utm_medium=rss)
-- [Из экспоненты в полином за два часа: что GPT-5.5 Pro сделала с задачей по теории чисел](https://habr.com/ru/news/1033374/?utm_campaign=1033374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
