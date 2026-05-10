@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Главный критик LLM почти похвалил Claude Mythos. Почти](https://habr.com/ru/news/1033606/?utm_campaign=1033606&utm_source=habrahabr&utm_medium=rss)
 - [Маск пытался переманить Альтмана в Tesla — еще до раскола OpenAI](https://habr.com/ru/news/1033598/?utm_campaign=1033598&utm_source=habrahabr&utm_medium=rss)
 - [Opus 4.6 в 81% попыток сам «копирует себя» на чужой сервер через дыру в коде — исследование Palisade](https://habr.com/ru/news/1033556/?utm_campaign=1033556&utm_source=habrahabr&utm_medium=rss)
 - [«Почта России» оцифровала 2,5 млн конвертов для бизнес-клиентов в 2025 году](https://habr.com/ru/news/1033532/?utm_campaign=1033532&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск дистрибутива Parrot OS 7.2 для этического хакинга с ядром Linux 6.19.13](https://habr.com/ru/news/1033514/?utm_campaign=1033514&utm_source=habrahabr&utm_medium=rss)
-- [Проект PHP перешёл на лицензию BSD-3](https://habr.com/ru/news/1033242/?utm_campaign=1033242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
