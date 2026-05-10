@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из настроек Chrome пропало сообщение о приватности локального ИИ Gemini Nano. Это может стоить Google миллиарды](https://habr.com/ru/news/1033392/?utm_campaign=1033392&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Microsoft Edge 148](https://habr.com/ru/news/1033064/?utm_campaign=1033064&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление FreeRDP 3.26](https://habr.com/ru/news/1033018/?utm_campaign=1033018&utm_source=habrahabr&utm_medium=rss)
 - [«Замена джунов на ИИ — тупая идея»: CEO AWS берет 11 000 интернов](https://habr.com/ru/news/1033382/?utm_campaign=1033382&utm_source=habrahabr&utm_medium=rss)
 - [Из экспоненты в полином за два часа: что GPT-5.5 Pro сделала с задачей по теории чисел](https://habr.com/ru/news/1033374/?utm_campaign=1033374&utm_source=habrahabr&utm_medium=rss)
-- [В НАСА помогли астрофотографу вместе с экипажем миссии «Артемида II» сделать цветные геофото Луны](https://habr.com/ru/news/1033362/?utm_campaign=1033362&utm_source=habrahabr&utm_medium=rss)
-- [Hi-Tech Mail: с 3 июня десктопный клиент «Яндекс Диск» для Windows и macOS перестанет полноценно работать без подписки](https://habr.com/ru/news/1033334/?utm_campaign=1033334&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый мультиплатформенный проект DPI Checkers для определения использования у интернет-провайдера DPI](https://habr.com/ru/news/1033322/?utm_campaign=1033322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
