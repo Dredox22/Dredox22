@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый эмулятор терминала Ratty с отрисовкой на GPU и встроенной 3D-графикой](https://habr.com/ru/news/1033796/?utm_campaign=1033796&utm_source=habrahabr&utm_medium=rss)
+- [Финтех-стартап Parker подал заявление о банкротстве](https://habr.com/ru/news/1033760/?utm_campaign=1033760&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики эмулятора PlayStation 3 RPCS3 попросили перестать присылать им «некачественный ИИ-код»](https://habr.com/ru/news/1033714/?utm_campaign=1033714&utm_source=habrahabr&utm_medium=rss)
 - [Полиция Германии закрыла перезапущенную версию криминальной торговой площадки Crimenetwork и арестовала её админа](https://habr.com/ru/news/1033700/?utm_campaign=1033700&utm_source=habrahabr&utm_medium=rss)
 - [ИИ сам находит, сравнивает и оплачивает товары. В Китае запускают агентный шопинг](https://habr.com/ru/news/1033692/?utm_campaign=1033692&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила первую голосовую модель с интеллектом GPT-5](https://habr.com/ru/news/1033678/?utm_campaign=1033678&utm_source=habrahabr&utm_medium=rss)
-- [Инструмент charmap.exe Windows активно используется спустя 30 лет после выхода](https://habr.com/ru/news/1033674/?utm_campaign=1033674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
