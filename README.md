@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta* отключила сквозное шифрование в Instagram**](https://habr.com/ru/news/1033644/?utm_campaign=1033644&utm_source=habrahabr&utm_medium=rss)
-- [Проект политики ЮАР в области искусственного интеллекта отозвали из‑за галлюцинаций ИИ](https://habr.com/ru/news/1033636/?utm_campaign=1033636&utm_source=habrahabr&utm_medium=rss)
-- [Впервые с основания Anthropic стоит больше OpenAI: $900 млрд против $852 млрд](https://habr.com/ru/news/1033610/?utm_campaign=1033610&utm_source=habrahabr&utm_medium=rss)
-- [Вышла первая бета-версия языка программирования Mojo &lpar;релиз оценен как почти готовый к повсеместному использованию&rpar;](https://habr.com/ru/news/1033626/?utm_campaign=1033626&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект lay для GNOME c Wayland — автокорректор слов, введённых не в той раскладке](https://habr.com/ru/news/1033522/?utm_campaign=1033522&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики эмулятора PlayStation 3 RPCS3 попросили перестать присылать им «некачественный ИИ-код»](https://habr.com/ru/news/1033714/?utm_campaign=1033714&utm_source=habrahabr&utm_medium=rss)
+- [Полиция Германии закрыла перезапущенную версию криминальной торговой площадки Crimenetwork и арестовала её админа](https://habr.com/ru/news/1033700/?utm_campaign=1033700&utm_source=habrahabr&utm_medium=rss)
+- [ИИ сам находит, сравнивает и оплачивает товары. В Китае запускают агентный шопинг](https://habr.com/ru/news/1033692/?utm_campaign=1033692&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила первую голосовую модель с интеллектом GPT-5](https://habr.com/ru/news/1033678/?utm_campaign=1033678&utm_source=habrahabr&utm_medium=rss)
+- [Инструмент charmap.exe Windows активно используется спустя 30 лет после выхода](https://habr.com/ru/news/1033674/?utm_campaign=1033674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
