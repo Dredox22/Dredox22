@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic чуть не поглотила OpenAI в ноябре 2023-го — Суцкевер подтвердил это в суде](https://habr.com/ru/news/1034022/?utm_campaign=1034022&utm_source=habrahabr&utm_medium=rss)
-- [ИИ, который не тупит: стартап Миры Мурати показал первый крупный проект](https://habr.com/ru/news/1034006/?utm_campaign=1034006&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления кроссплатформенного открытого многофункционального архиватора PeaZip 11.1](https://habr.com/ru/news/1033834/?utm_campaign=1033834&utm_source=habrahabr&utm_medium=rss)
-- [Gmail, Salesforce и LinkedIn в одном агенте: OpenAI выпустил Codex для Chrome](https://habr.com/ru/news/1033950/?utm_campaign=1033950&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия BetterMediaInfo 0.9 — это графический интерфейс для MediaInfo и анализа метаданных для аудио- и видеофайлов](https://habr.com/ru/news/1033806/?utm_campaign=1033806&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI может дать Евросоюзу доступ к новой «хакерской» ИИ-модели GPT-5.5 Cyber](https://habr.com/ru/news/1034142/?utm_campaign=1034142&utm_source=habrahabr&utm_medium=rss)
+- [Legacy-системы и OT-риски тормозят цифровизацию ТЭК Центральной Азии](https://habr.com/ru/news/1034044/?utm_campaign=1034044&utm_source=habrahabr&utm_medium=rss)
+- [Открытый профессиональный вебинар «Безопасность КИИ: категорирование и построение защиты» 19 мая в 15:00 &lpar;МСК&rpar;](https://habr.com/ru/companies/hex_team/news/1034118/?utm_campaign=1034118&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «GPU из облака, или Как развернуть ИИ-модель за 30 минут»](https://habr.com/ru/companies/T1Holding/news/1034108/?utm_campaign=1034108&utm_source=habrahabr&utm_medium=rss)
+- [ЦОД в Джорджии использовал 113 млн л воды через неучтённые соединения](https://habr.com/ru/news/1034074/?utm_campaign=1034074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
