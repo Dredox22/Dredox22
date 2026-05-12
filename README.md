@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Депутаты отказались от идеи предоставить ЦБ право определять срок действия банковских карт](https://habr.com/ru/news/1034240/?utm_campaign=1034240&utm_source=habrahabr&utm_medium=rss)
-- [ИИ впервые написал хакерам обход двухфакторной защиты. Под угрозой были десятки тысяч серверов](https://habr.com/ru/news/1034234/?utm_campaign=1034234&utm_source=habrahabr&utm_medium=rss)
-- [Мессенджер Max подписал стратегическое соглашение с операторами «большой четвёрки» &lpar;«Билайн», МТС, «Мегафон» и Т2&rpar;](https://habr.com/ru/news/1034218/?utm_campaign=1034218&utm_source=habrahabr&utm_medium=rss)
-- [«ИИ ускоряет работу в 3 раза»: METR опросил инженеров — и засомневался в их ответах](https://habr.com/ru/news/1034192/?utm_campaign=1034192&utm_source=habrahabr&utm_medium=rss)
-- [Суд в Москве оштрафовал Telegram на 3,8 млн рублей](https://habr.com/ru/news/1034166/?utm_campaign=1034166&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-фильтр ложно забраковал сочинение ученика. Теперь школа отвечает в федеральном суде](https://habr.com/ru/news/1034328/?utm_campaign=1034328&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1034322/?utm_campaign=1034322&utm_source=habrahabr&utm_medium=rss)
+- [RPCS3 обновила свои правила, чтобы бороться с наплывом низкокачественного кода, сгенерированного ИИ](https://habr.com/ru/news/1034320/?utm_campaign=1034320&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: функция разгона процессоров в Windows 11 не новая — аналоги есть в macOS и Linux](https://habr.com/ru/news/1034314/?utm_campaign=1034314&utm_source=habrahabr&utm_medium=rss)
+- [Thinking Machines создаёт слушающий и говорящий ИИ](https://habr.com/ru/news/1034302/?utm_campaign=1034302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
