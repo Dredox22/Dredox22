@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI может дать Евросоюзу доступ к новой «хакерской» ИИ-модели GPT-5.5 Cyber](https://habr.com/ru/news/1034142/?utm_campaign=1034142&utm_source=habrahabr&utm_medium=rss)
-- [Legacy-системы и OT-риски тормозят цифровизацию ТЭК Центральной Азии](https://habr.com/ru/news/1034044/?utm_campaign=1034044&utm_source=habrahabr&utm_medium=rss)
-- [Открытый профессиональный вебинар «Безопасность КИИ: категорирование и построение защиты» 19 мая в 15:00 &lpar;МСК&rpar;](https://habr.com/ru/companies/hex_team/news/1034118/?utm_campaign=1034118&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «GPU из облака, или Как развернуть ИИ-модель за 30 минут»](https://habr.com/ru/companies/T1Holding/news/1034108/?utm_campaign=1034108&utm_source=habrahabr&utm_medium=rss)
-- [ЦОД в Джорджии использовал 113 млн л воды через неучтённые соединения](https://habr.com/ru/news/1034074/?utm_campaign=1034074&utm_source=habrahabr&utm_medium=rss)
+- [Депутаты отказались от идеи предоставить ЦБ право определять срок действия банковских карт](https://habr.com/ru/news/1034240/?utm_campaign=1034240&utm_source=habrahabr&utm_medium=rss)
+- [ИИ впервые написал хакерам обход двухфакторной защиты. Под угрозой были десятки тысяч серверов](https://habr.com/ru/news/1034234/?utm_campaign=1034234&utm_source=habrahabr&utm_medium=rss)
+- [Мессенджер Max подписал стратегическое соглашение с операторами «большой четвёрки» &lpar;«Билайн», МТС, «Мегафон» и Т2&rpar;](https://habr.com/ru/news/1034218/?utm_campaign=1034218&utm_source=habrahabr&utm_medium=rss)
+- [«ИИ ускоряет работу в 3 раза»: METR опросил инженеров — и засомневался в их ответах](https://habr.com/ru/news/1034192/?utm_campaign=1034192&utm_source=habrahabr&utm_medium=rss)
+- [Суд в Москве оштрафовал Telegram на 3,8 млн рублей](https://habr.com/ru/news/1034166/?utm_campaign=1034166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
