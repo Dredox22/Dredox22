@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нет, ИИ не уничтожит рынок труда: Эндрю Ын разнес позицию AI-компаний](https://habr.com/ru/news/1034450/?utm_campaign=1034450&utm_source=habrahabr&utm_medium=rss)
+- [2,5x скорости за 6x цены: у Opus 4.7 появился турбо-режим](https://habr.com/ru/news/1034442/?utm_campaign=1034442&utm_source=habrahabr&utm_medium=rss)
 - [Ну что, прогрев пошел: GitHub назвали вредительской платформой для России](https://habr.com/ru/news/1034404/?utm_campaign=1034404&utm_source=habrahabr&utm_medium=rss)
 - [Андрей Карпати: главная проблема LLM — в том, как они отвечают](https://habr.com/ru/news/1034380/?utm_campaign=1034380&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия открытого редактора изображений Photoflare 1.7.0](https://habr.com/ru/news/1034004/?utm_campaign=1034004&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Postgres ProGate 1.2.0: интерфейс администратора и поддержка Shardman](https://habr.com/ru/companies/postgrespro/news/1031530/?utm_campaign=1031530&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-фильтр ложно забраковал сочинение ученика. Теперь школа отвечает в федеральном суде](https://habr.com/ru/news/1034328/?utm_campaign=1034328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
