@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Windows выявлено две уязвимости, выглядящие как бэкдор](https://habr.com/ru/news/1034740/?utm_campaign=1034740&utm_source=habrahabr&utm_medium=rss)
+- [Google поедет в космос на ракетах SpaceX: компании обсуждают орбитальный ИИ-проект](https://habr.com/ru/news/1034666/?utm_campaign=1034666&utm_source=habrahabr&utm_medium=rss)
+- [Эмулятор Wii U под названием Cemu несколько суток распространял скомпрометированные злоумышленниками файлы](https://habr.com/ru/news/1034660/?utm_campaign=1034660&utm_source=habrahabr&utm_medium=rss)
 - [К2 Кибербезопасность запускает серию стримов для ИБ-специалистов](https://habr.com/ru/companies/k2tech/news/1034148/?utm_campaign=1034148&utm_source=habrahabr&utm_medium=rss)
 - [ЕЦБ призвал банки готовиться к кибератакам с использованием AI-моделей уровня Mythos](https://habr.com/ru/companies/era2/news/1034596/?utm_campaign=1034596&utm_source=habrahabr&utm_medium=rss)
-- [Instructure заплатила хакерам за удаление украденных данных учащихся тысяч учреждений образования](https://habr.com/ru/news/1034590/?utm_campaign=1034590&utm_source=habrahabr&utm_medium=rss)
-- [Google добавляет в Android агентный ИИ и создание виджетов по промпту](https://habr.com/ru/companies/era2/news/1034582/?utm_campaign=1034582&utm_source=habrahabr&utm_medium=rss)
-- [Machdyne представила модульное устройство долговременного хранения данных с FeRAM](https://habr.com/ru/news/1034578/?utm_campaign=1034578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
