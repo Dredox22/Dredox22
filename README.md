@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Федеральная комиссия по связи США: маршрутизаторы иностранного производства могут получать обновления до 2029 года](https://habr.com/ru/news/1034526/?utm_campaign=1034526&utm_source=habrahabr&utm_medium=rss)
+- [Начал цикл публикаций](https://habr.com/ru/news/1034516/?utm_campaign=1034516&utm_source=habrahabr&utm_medium=rss)
+- [В dnsmasq выявлены 6 уязвимостей, допускающие отравление DNS-кэша и выполнение кода с правами root](https://habr.com/ru/news/1034486/?utm_campaign=1034486&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар. Как перейти с Telegram на корпоративный мессенджер](https://habr.com/ru/companies/frisbee/news/1034340/?utm_campaign=1034340&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-разработчики начали носить открытые ноутбуки, чтобы не останавливать работу Claude Code, но есть решение — AgentPlug](https://habr.com/ru/news/1034472/?utm_campaign=1034472&utm_source=habrahabr&utm_medium=rss)
-- [«Софт будут писать машины, а направлять — люди»: CEO GitLab объявил сокращения](https://habr.com/ru/news/1034456/?utm_campaign=1034456&utm_source=habrahabr&utm_medium=rss)
-- [Горелкин: платформа GitHub не является вредительской, а чрезвычайно ценная](https://habr.com/ru/news/1034466/?utm_campaign=1034466&utm_source=habrahabr&utm_medium=rss)
-- [Вышел SparkyLinux 8.3 — дистрибутив на базе Debian 13 «Trixie»](https://habr.com/ru/news/1034026/?utm_campaign=1034026&utm_source=habrahabr&utm_medium=rss)
-- [В Москве начнут производить печатные платы для автопроизводителей](https://habr.com/ru/news/1034464/?utm_campaign=1034464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
