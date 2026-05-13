@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-разработчики начали носить открытые ноутбуки, чтобы не останавливать работу Claude Code, но есть решение — AgentPlug](https://habr.com/ru/news/1034472/?utm_campaign=1034472&utm_source=habrahabr&utm_medium=rss)
+- [«Софт будут писать машины, а направлять — люди»: CEO GitLab объявил сокращения](https://habr.com/ru/news/1034456/?utm_campaign=1034456&utm_source=habrahabr&utm_medium=rss)
+- [Горелкин: платформа GitHub не является вредительской, а чрезвычайно ценная](https://habr.com/ru/news/1034466/?utm_campaign=1034466&utm_source=habrahabr&utm_medium=rss)
+- [Вышел SparkyLinux 8.3 — дистрибутив на базе Debian 13 «Trixie»](https://habr.com/ru/news/1034026/?utm_campaign=1034026&utm_source=habrahabr&utm_medium=rss)
 - [В Москве начнут производить печатные платы для автопроизводителей](https://habr.com/ru/news/1034464/?utm_campaign=1034464&utm_source=habrahabr&utm_medium=rss)
-- [Нет, ИИ не уничтожит рынок труда: Эндрю Ын разнес позицию AI-компаний](https://habr.com/ru/news/1034450/?utm_campaign=1034450&utm_source=habrahabr&utm_medium=rss)
-- [2,5x скорости за 6x цены: у Opus 4.7 появился турбо-режим](https://habr.com/ru/news/1034442/?utm_campaign=1034442&utm_source=habrahabr&utm_medium=rss)
-- [Ну что, прогрев пошел: GitHub назвали вредительской платформой для России](https://habr.com/ru/news/1034404/?utm_campaign=1034404&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати: главная проблема LLM — в том, как они отвечают](https://habr.com/ru/news/1034380/?utm_campaign=1034380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
