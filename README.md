@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Windows выявлено две уязвимости, выглядящие как бэкдор](https://habr.com/ru/news/1034740/?utm_campaign=1034740&utm_source=habrahabr&utm_medium=rss)
-- [Google поедет в космос на ракетах SpaceX: компании обсуждают орбитальный ИИ-проект](https://habr.com/ru/news/1034666/?utm_campaign=1034666&utm_source=habrahabr&utm_medium=rss)
-- [Эмулятор Wii U под названием Cemu несколько суток распространял скомпрометированные злоумышленниками файлы](https://habr.com/ru/news/1034660/?utm_campaign=1034660&utm_source=habrahabr&utm_medium=rss)
-- [К2 Кибербезопасность запускает серию стримов для ИБ-специалистов](https://habr.com/ru/companies/k2tech/news/1034148/?utm_campaign=1034148&utm_source=habrahabr&utm_medium=rss)
-- [ЕЦБ призвал банки готовиться к кибератакам с использованием AI-моделей уровня Mythos](https://habr.com/ru/companies/era2/news/1034596/?utm_campaign=1034596&utm_source=habrahabr&utm_medium=rss)
+- [Fragnesia: Linux LPE](https://habr.com/ru/news/1034856/?utm_campaign=1034856&utm_source=habrahabr&utm_medium=rss)
+- [В ЦЕРН открыли исходный код своих библиотек компонентов KiCad](https://habr.com/ru/news/1034844/?utm_campaign=1034844&utm_source=habrahabr&utm_medium=rss)
+- [401 meetup – регистрация участников](https://habr.com/ru/news/1034770/?utm_campaign=1034770&utm_source=habrahabr&utm_medium=rss)
+- [«Фабрика извлечения данных»: сотрудники Meta* восстали против слежки за мышью](https://habr.com/ru/news/1034816/?utm_campaign=1034816&utm_source=habrahabr&utm_medium=rss)
+- [В Kodacode добавили Claude Opus 4.7](https://habr.com/ru/companies/koda/news/1034810/?utm_campaign=1034810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
