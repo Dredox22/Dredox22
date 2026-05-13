@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Fragnesia: Linux LPE](https://habr.com/ru/news/1034856/?utm_campaign=1034856&utm_source=habrahabr&utm_medium=rss)
-- [В ЦЕРН открыли исходный код своих библиотек компонентов KiCad](https://habr.com/ru/news/1034844/?utm_campaign=1034844&utm_source=habrahabr&utm_medium=rss)
-- [401 meetup – регистрация участников](https://habr.com/ru/news/1034770/?utm_campaign=1034770&utm_source=habrahabr&utm_medium=rss)
-- [«Фабрика извлечения данных»: сотрудники Meta* восстали против слежки за мышью](https://habr.com/ru/news/1034816/?utm_campaign=1034816&utm_source=habrahabr&utm_medium=rss)
-- [В Kodacode добавили Claude Opus 4.7](https://habr.com/ru/companies/koda/news/1034810/?utm_campaign=1034810&utm_source=habrahabr&utm_medium=rss)
+- [«Hello Universe»: космическая SoC нового поколения от НАСА начала проходить испытания](https://habr.com/ru/news/1034910/?utm_campaign=1034910&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic добавила API-кредит подписчиĸам Claude: $20–200 в месяц на программное использование](https://habr.com/ru/news/1034906/?utm_campaign=1034906&utm_source=habrahabr&utm_medium=rss)
+- [Google представила обновление Android Auto: переработанный интерфейс, иммерсивная навигация, YouTube и Gemini в авто](https://habr.com/ru/news/1034896/?utm_campaign=1034896&utm_source=habrahabr&utm_medium=rss)
+- [Новый чекпоинт Claude Mythos взламывает защиту электростанции в 3 из 10 попыток](https://habr.com/ru/news/1034882/?utm_campaign=1034882&utm_source=habrahabr&utm_medium=rss)
+- [27 мая приглашаем на митап Мастерская Базы Данных в Нижнем Новгороде](https://habr.com/ru/companies/gnivc/news/1034866/?utm_campaign=1034866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
