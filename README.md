@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft натравила 100 ИИ-агентов на Windows и нашла 16 новых уязвимостей](https://habr.com/ru/news/1034930/?utm_campaign=1034930&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic увеличил лимиты подписки Claude и API-кредит для агентов. Но довольны не все](https://habr.com/ru/news/1034918/?utm_campaign=1034918&utm_source=habrahabr&utm_medium=rss)
 - [«Hello Universe»: космическая SoC нового поколения от НАСА начала проходить испытания](https://habr.com/ru/news/1034910/?utm_campaign=1034910&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic добавила API-кредит подписчиĸам Claude: $20–200 в месяц на программное использование](https://habr.com/ru/news/1034906/?utm_campaign=1034906&utm_source=habrahabr&utm_medium=rss)
+- [С 15 июня у подписчиков Claude появится отдельный ежемесячный кредит на API](https://habr.com/ru/news/1034906/?utm_campaign=1034906&utm_source=habrahabr&utm_medium=rss)
 - [Google представила обновление Android Auto: переработанный интерфейс, иммерсивная навигация, YouTube и Gemini в авто](https://habr.com/ru/news/1034896/?utm_campaign=1034896&utm_source=habrahabr&utm_medium=rss)
-- [Новый чекпоинт Claude Mythos взламывает защиту электростанции в 3 из 10 попыток](https://habr.com/ru/news/1034882/?utm_campaign=1034882&utm_source=habrahabr&utm_medium=rss)
-- [27 мая приглашаем на митап Мастерская Базы Данных в Нижнем Новгороде](https://habr.com/ru/companies/gnivc/news/1034866/?utm_campaign=1034866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
