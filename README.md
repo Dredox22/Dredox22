@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Федеральная комиссия по связи США: маршрутизаторы иностранного производства могут получать обновления до 2029 года](https://habr.com/ru/news/1034526/?utm_campaign=1034526&utm_source=habrahabr&utm_medium=rss)
-- [Начал цикл публикаций](https://habr.com/ru/news/1034516/?utm_campaign=1034516&utm_source=habrahabr&utm_medium=rss)
-- [В dnsmasq выявлены 6 уязвимостей, допускающие отравление DNS-кэша и выполнение кода с правами root](https://habr.com/ru/news/1034486/?utm_campaign=1034486&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар. Как перейти с Telegram на корпоративный мессенджер](https://habr.com/ru/companies/frisbee/news/1034340/?utm_campaign=1034340&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-разработчики начали носить открытые ноутбуки, чтобы не останавливать работу Claude Code, но есть решение — AgentPlug](https://habr.com/ru/news/1034472/?utm_campaign=1034472&utm_source=habrahabr&utm_medium=rss)
+- [К2 Кибербезопасность запускает серию стримов для ИБ-специалистов](https://habr.com/ru/companies/k2tech/news/1034148/?utm_campaign=1034148&utm_source=habrahabr&utm_medium=rss)
+- [ЕЦБ призвал банки готовиться к кибератакам с использованием AI-моделей уровня Mythos](https://habr.com/ru/companies/era2/news/1034596/?utm_campaign=1034596&utm_source=habrahabr&utm_medium=rss)
+- [Instructure заплатила хакерам за удаление украденных данных учащихся тысяч учреждений образования](https://habr.com/ru/news/1034590/?utm_campaign=1034590&utm_source=habrahabr&utm_medium=rss)
+- [Google добавляет в Android агентный ИИ и создание виджетов по промпту](https://habr.com/ru/companies/era2/news/1034582/?utm_campaign=1034582&utm_source=habrahabr&utm_medium=rss)
+- [Machdyne представила модульное устройство долговременного хранения данных с FeRAM](https://habr.com/ru/news/1034578/?utm_campaign=1034578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
