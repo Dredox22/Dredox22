@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Зачем в Anthropic полгода делали неработающего ИИ-агента](https://habr.com/ru/news/1034980/?utm_campaign=1034980&utm_source=habrahabr&utm_medium=rss)
-- [Cisco сократила 4000 человек на фоне рекордной выручки. Уволенным подарили курс по ИИ](https://habr.com/ru/news/1034970/?utm_campaign=1034970&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент Claude Code помог пользователю вернуть доступ к кошельку с 5 BTC, который 12 лет был закрыт из-за утери пароля](https://habr.com/ru/news/1034966/?utm_campaign=1034966&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыта ещё одна LPE-уязвимость в Linux: Fragnesia или Copy Fail 3.0, включая рабочий эксплойт](https://habr.com/ru/news/1034962/?utm_campaign=1034962&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта Scrcpy 4.0, который умеет отзеркалить содержимое экрана смартфона для удалённой работы](https://habr.com/ru/news/1034586/?utm_campaign=1034586&utm_source=habrahabr&utm_medium=rss)
+- [Увольнения ради ИИ не окупаются: Gartner опросил 350 руководителей с выручкой от $1 млрд](https://habr.com/ru/news/1035088/?utm_campaign=1035088&utm_source=habrahabr&utm_medium=rss)
+- [Некоторые пользователи не могут установить Office на устройства Windows 365](https://habr.com/ru/news/1035076/?utm_campaign=1035076&utm_source=habrahabr&utm_medium=rss)
+- [TSMC ожидает, что рынок чипов превысит $1,5 трлн к 2030 году из-за роста AI-нагрузок](https://habr.com/ru/companies/era2/news/1035086/?utm_campaign=1035086&utm_source=habrahabr&utm_medium=rss)
+- [МВД: мошенники обманывают россиян под предлогом пассивного дохода на VPS-серверах](https://habr.com/ru/news/1035082/?utm_campaign=1035082&utm_source=habrahabr&utm_medium=rss)
+- [В Швеции планируют ввести электронный мониторинг детей с 13 лет из-за их участия в бандах](https://habr.com/ru/news/1035078/?utm_campaign=1035078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
