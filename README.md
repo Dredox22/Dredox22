@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел мультиплатформенный проект RevPDF 4.0 — альтернатива Adobe Acrobat](https://habr.com/ru/news/1034206/?utm_campaign=1034206&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого инструментария MediaInfo 26.05 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/1034492/?utm_campaign=1034492&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Raspberry Pi Connect: теги устройств, экранная клавиатура и обязательная 2FA для организаций](https://habr.com/ru/news/1034936/?utm_campaign=1034936&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft натравила 100 ИИ-агентов на Windows и нашла 16 новых уязвимостей](https://habr.com/ru/news/1034930/?utm_campaign=1034930&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic увеличил лимиты подписки Claude и API-кредит для агентов. Но довольны не все](https://habr.com/ru/news/1034918/?utm_campaign=1034918&utm_source=habrahabr&utm_medium=rss)
-- [«Hello Universe»: космическая SoC нового поколения от НАСА начала проходить испытания](https://habr.com/ru/news/1034910/?utm_campaign=1034910&utm_source=habrahabr&utm_medium=rss)
-- [С 15 июня у подписчиков Claude появится отдельный ежемесячный кредит на API](https://habr.com/ru/news/1034906/?utm_campaign=1034906&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
