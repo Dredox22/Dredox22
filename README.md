@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел мультиплатформенный проект RevPDF 4.0 — альтернатива Adobe Acrobat](https://habr.com/ru/news/1034206/?utm_campaign=1034206&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого инструментария MediaInfo 26.05 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/1034492/?utm_campaign=1034492&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Raspberry Pi Connect: теги устройств, экранная клавиатура и обязательная 2FA для организаций](https://habr.com/ru/news/1034936/?utm_campaign=1034936&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft натравила 100 ИИ-агентов на Windows и нашла 16 новых уязвимостей](https://habr.com/ru/news/1034930/?utm_campaign=1034930&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic увеличил лимиты подписки Claude и API-кредит для агентов. Но довольны не все](https://habr.com/ru/news/1034918/?utm_campaign=1034918&utm_source=habrahabr&utm_medium=rss)
+- [Зачем в Anthropic полгода делали неработающего ИИ-агента](https://habr.com/ru/news/1034980/?utm_campaign=1034980&utm_source=habrahabr&utm_medium=rss)
+- [Cisco сократила 4000 человек на фоне рекордной выручки. Уволенным подарили курс по ИИ](https://habr.com/ru/news/1034970/?utm_campaign=1034970&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агент Claude Code помог пользователю вернуть доступ к кошельку с 5 BTC, который 12 лет был закрыт из-за утери пароля](https://habr.com/ru/news/1034966/?utm_campaign=1034966&utm_source=habrahabr&utm_medium=rss)
+- [Раскрыта ещё одна LPE-уязвимость в Linux: Fragnesia или Copy Fail 3.0, включая рабочий эксплойт](https://habr.com/ru/news/1034962/?utm_campaign=1034962&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта Scrcpy 4.0, который умеет отзеркалить содержимое экрана смартфона для удалённой работы](https://habr.com/ru/news/1034586/?utm_campaign=1034586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
