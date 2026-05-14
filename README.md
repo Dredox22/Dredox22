@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приглашаем на онлайн встречу: Фронтенд как отдельная профессия перестал существовать. Разбираемся, что дальше](https://habr.com/ru/companies/usetech/news/1035164/?utm_campaign=1035164&utm_source=habrahabr&utm_medium=rss)
-- [TelecomDaily: почти каждая десятая сим-карта в России принадлежит виртуальному оператору](https://habr.com/ru/news/1035132/?utm_campaign=1035132&utm_source=habrahabr&utm_medium=rss)
-- [В Red Hat представили проект Hummingbird — непрерывно обновляемую редакцию Fedora Linux на базе контейнеров](https://habr.com/ru/news/1035128/?utm_campaign=1035128&utm_source=habrahabr&utm_medium=rss)
-- [Цифровые двойники в нефтегазе Центральной Азии выходят из стадии пилотов](https://habr.com/ru/news/1035122/?utm_campaign=1035122&utm_source=habrahabr&utm_medium=rss)
-- [Митап «Технологии управления 1С-проектами»](https://habr.com/ru/companies/croc/news/1035024/?utm_campaign=1035024&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на вебинар «Безопасный CI/CD без утечек секретов: от кода до production»](https://habr.com/ru/companies/swordfish_security/news/1035212/?utm_campaign=1035212&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила ошибку в Windows Autopatch с установкой запрещённых драйверов](https://habr.com/ru/news/1035254/?utm_campaign=1035254&utm_source=habrahabr&utm_medium=rss)
+- [74% компаний выключили AI-агентов в клиентской поддержке](https://habr.com/ru/news/1035262/?utm_campaign=1035262&utm_source=habrahabr&utm_medium=rss)
+- [SOLAI выпустила компьютер Solode Neo на базе Linux для ИИ-агентов](https://habr.com/ru/news/1035244/?utm_campaign=1035244&utm_source=habrahabr&utm_medium=rss)
+- [Apple поддержала Google после того, как ЕС потребовал открыть доступ к Android для конкурентов в сфере ИИ](https://habr.com/ru/news/1035240/?utm_campaign=1035240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
