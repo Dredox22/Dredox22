@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Mythos обошел защиту macOS всего за пять дней](https://habr.com/ru/news/1035338/?utm_campaign=1035338&utm_source=habrahabr&utm_medium=rss)
+- [Спин-офф Google привлек $2,1 млрд под лекарства, разработанные ИИ](https://habr.com/ru/news/1035326/?utm_campaign=1035326&utm_source=habrahabr&utm_medium=rss)
 - [Amazon представила Alexa for Shopping — ИИ-помощника для покупок](https://habr.com/ru/news/1035308/?utm_campaign=1035308&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PPEM 2.6: история активных сеансов, интерактивный апгрейд BiHA и улучшение безопасности](https://habr.com/ru/companies/postgrespro/news/1032006/?utm_campaign=1032006&utm_source=habrahabr&utm_medium=rss)
 - [Приглашаем на вебинар «Безопасный CI/CD без утечек секретов: от кода до production»](https://habr.com/ru/companies/swordfish_security/news/1035212/?utm_campaign=1035212&utm_source=habrahabr&utm_medium=rss)
-- [На хакатоне CodeStorm 2026 определился победитель: лучшая команда получила главный приз](https://habr.com/ru/companies/technokratos/news/1035270/?utm_campaign=1035270&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила ошибку в Windows Autopatch с установкой запрещённых драйверов](https://habr.com/ru/news/1035254/?utm_campaign=1035254&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
