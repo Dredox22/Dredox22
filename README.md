@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Увольнения ради ИИ не окупаются: Gartner опросил 350 руководителей с выручкой от $1 млрд](https://habr.com/ru/news/1035088/?utm_campaign=1035088&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые пользователи не могут установить Office на устройства Windows 365](https://habr.com/ru/news/1035076/?utm_campaign=1035076&utm_source=habrahabr&utm_medium=rss)
-- [TSMC ожидает, что рынок чипов превысит $1,5 трлн к 2030 году из-за роста AI-нагрузок](https://habr.com/ru/companies/era2/news/1035086/?utm_campaign=1035086&utm_source=habrahabr&utm_medium=rss)
-- [МВД: мошенники обманывают россиян под предлогом пассивного дохода на VPS-серверах](https://habr.com/ru/news/1035082/?utm_campaign=1035082&utm_source=habrahabr&utm_medium=rss)
-- [В Швеции планируют ввести электронный мониторинг детей с 13 лет из-за их участия в бандах](https://habr.com/ru/news/1035078/?utm_campaign=1035078&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на онлайн встречу: Фронтенд как отдельная профессия перестал существовать. Разбираемся, что дальше](https://habr.com/ru/companies/usetech/news/1035164/?utm_campaign=1035164&utm_source=habrahabr&utm_medium=rss)
+- [TelecomDaily: почти каждая десятая сим-карта в России принадлежит виртуальному оператору](https://habr.com/ru/news/1035132/?utm_campaign=1035132&utm_source=habrahabr&utm_medium=rss)
+- [В Red Hat представили проект Hummingbird — непрерывно обновляемую редакцию Fedora Linux на базе контейнеров](https://habr.com/ru/news/1035128/?utm_campaign=1035128&utm_source=habrahabr&utm_medium=rss)
+- [Цифровые двойники в нефтегазе Центральной Азии выходят из стадии пилотов](https://habr.com/ru/news/1035122/?utm_campaign=1035122&utm_source=habrahabr&utm_medium=rss)
+- [Митап «Технологии управления 1С-проектами»](https://habr.com/ru/companies/croc/news/1035024/?utm_campaign=1035024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
