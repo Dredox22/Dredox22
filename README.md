@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Инициативу Fedora AI Desktop заблокировали после отмены решения Совета](https://habr.com/ru/news/1035416/?utm_campaign=1035416&utm_source=habrahabr&utm_medium=rss)
-- [Группа хакеров пригрозила опубликовать исходный код Mistral AI](https://habr.com/ru/news/1035412/?utm_campaign=1035412&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент нашел в NGINX критическую уязвимость, которой 18 лет](https://habr.com/ru/news/1035414/?utm_campaign=1035414&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI сообщила о появлении Codex на смартфонах](https://habr.com/ru/news/1035406/?utm_campaign=1035406&utm_source=habrahabr&utm_medium=rss)
-- [Эксперимент по переписыванию проекта Bun с Zig на Rust при помощи ИИ-ассистента Claude Code признали успешным](https://habr.com/ru/news/1035400/?utm_campaign=1035400&utm_source=habrahabr&utm_medium=rss)
+- [AI-бум забивает мощности фабрик: иностранные клиенты снова несут заказы в китайскую SMIC](https://habr.com/ru/companies/era2/news/1035506/?utm_campaign=1035506&utm_source=habrahabr&utm_medium=rss)
+- [Cerebras провела крупнейшее AI-IPO 2026 года: акции взлетели на 108% в первый день торгов](https://habr.com/ru/companies/era2/news/1035498/?utm_campaign=1035498&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Recursive Superintelligence привлек $650 млн, чтобы научить ИИ улучшать самого себя](https://habr.com/ru/companies/era2/news/1035484/?utm_campaign=1035484&utm_source=habrahabr&utm_medium=rss)
+- [Второй эфир: Что дальше в пайплайне](https://habr.com/ru/companies/usetech/news/1035482/?utm_campaign=1035482&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор Великобритании начал расследование в отношении экосистемы программного обеспечения для бизнеса от Microsoft](https://habr.com/ru/news/1035480/?utm_campaign=1035480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
