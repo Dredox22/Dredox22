@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google позволит переносить ключи доступа в другой менеджер паролей на Android](https://habr.com/ru/news/1035570/?utm_campaign=1035570&utm_source=habrahabr&utm_medium=rss)
+- [Что нового в MWS Cloud Platform: обновления и анонсы событий](https://habr.com/ru/companies/mws/news/1035550/?utm_campaign=1035550&utm_source=habrahabr&utm_medium=rss)
+- [Продажи отечественных ноутбуков в 2025 году составили 4,8–5,5%](https://habr.com/ru/news/1035544/?utm_campaign=1035544&utm_source=habrahabr&utm_medium=rss)
+- [«IDE — не будущее кодинга»: ИИ-агент Roo Code закрывают, несмотря на 3 млн установок](https://habr.com/ru/news/1035542/?utm_campaign=1035542&utm_source=habrahabr&utm_medium=rss)
 - [AI-бум забивает мощности фабрик: иностранные клиенты снова несут заказы в китайскую SMIC](https://habr.com/ru/companies/era2/news/1035506/?utm_campaign=1035506&utm_source=habrahabr&utm_medium=rss)
-- [Cerebras провела крупнейшее AI-IPO 2026 года: акции взлетели на 108% в первый день торгов](https://habr.com/ru/companies/era2/news/1035498/?utm_campaign=1035498&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Recursive Superintelligence привлек $650 млн, чтобы научить ИИ улучшать самого себя](https://habr.com/ru/companies/era2/news/1035484/?utm_campaign=1035484&utm_source=habrahabr&utm_medium=rss)
-- [Второй эфир: Что дальше в пайплайне](https://habr.com/ru/companies/usetech/news/1035482/?utm_campaign=1035482&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор Великобритании начал расследование в отношении экосистемы программного обеспечения для бизнеса от Microsoft](https://habr.com/ru/news/1035480/?utm_campaign=1035480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
