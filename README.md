@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Спрос превысил предложение в 20 раз: производитель ИИ-чипов Cerebras провел IPO](https://habr.com/ru/news/1035636/?utm_campaign=1035636&utm_source=habrahabr&utm_medium=rss)
+- [Apple поделилась списком приложений от победителей конкурса Swift Students Challenge](https://habr.com/ru/news/1035382/?utm_campaign=1035382&utm_source=habrahabr&utm_medium=rss)
 - [Google позволит переносить ключи доступа в другой менеджер паролей на Android](https://habr.com/ru/news/1035570/?utm_campaign=1035570&utm_source=habrahabr&utm_medium=rss)
 - [Что нового в MWS Cloud Platform: обновления и анонсы событий](https://habr.com/ru/companies/mws/news/1035550/?utm_campaign=1035550&utm_source=habrahabr&utm_medium=rss)
 - [Продажи отечественных ноутбуков в 2025 году составили 4,8–5,5%](https://habr.com/ru/news/1035544/?utm_campaign=1035544&utm_source=habrahabr&utm_medium=rss)
-- [«IDE — не будущее кодинга»: ИИ-агент Roo Code закрывают, несмотря на 3 млн установок](https://habr.com/ru/news/1035542/?utm_campaign=1035542&utm_source=habrahabr&utm_medium=rss)
-- [AI-бум забивает мощности фабрик: иностранные клиенты снова несут заказы в китайскую SMIC](https://habr.com/ru/companies/era2/news/1035506/?utm_campaign=1035506&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
