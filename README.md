@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Linux Foundation представили автомобильный дистрибутив AGL UCB 21.0 и платформу SoDeV](https://habr.com/ru/news/1035398/?utm_campaign=1035398&utm_source=habrahabr&utm_medium=rss)
-- [Вышел nginx 1.31](https://habr.com/ru/news/1034974/?utm_campaign=1034974&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.3](https://habr.com/ru/news/1034522/?utm_campaign=1034522&utm_source=habrahabr&utm_medium=rss)
-- [Codex добавили в мобильный ChatGPT — для всех планов, включая бесплатный](https://habr.com/ru/news/1035368/?utm_campaign=1035368&utm_source=habrahabr&utm_medium=rss)
-- [Claude Mythos обошел защиту macOS всего за пять дней](https://habr.com/ru/news/1035338/?utm_campaign=1035338&utm_source=habrahabr&utm_medium=rss)
+- [Инициативу Fedora AI Desktop заблокировали после отмены решения Совета](https://habr.com/ru/news/1035416/?utm_campaign=1035416&utm_source=habrahabr&utm_medium=rss)
+- [Группа хакеров пригрозила опубликовать исходный код Mistral AI](https://habr.com/ru/news/1035412/?utm_campaign=1035412&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агент нашел в NGINX критическую уязвимость, которой 18 лет](https://habr.com/ru/news/1035414/?utm_campaign=1035414&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI сообщила о появлении Codex на смартфонах](https://habr.com/ru/news/1035406/?utm_campaign=1035406&utm_source=habrahabr&utm_medium=rss)
+- [Эксперимент по переписыванию проекта Bun с Zig на Rust при помощи ИИ-ассистента Claude Code признали успешным](https://habr.com/ru/news/1035400/?utm_campaign=1035400&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
