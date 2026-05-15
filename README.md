@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ пришел не за кодерами, а за их начальниками: тех-гиганты убирают управленческий слой](https://habr.com/ru/news/1035794/?utm_campaign=1035794&utm_source=habrahabr&utm_medium=rss)
+- [Claude Mythos написал 18 рабочих эксплойтов для Chrome. Остальные ИИ — ноль](https://habr.com/ru/news/1035792/?utm_campaign=1035792&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Wikipedia File Explorer — «Википедия» с веб-интерфейсом, похожим на Windows XP](https://habr.com/ru/news/1035754/?utm_campaign=1035754&utm_source=habrahabr&utm_medium=rss)
 - [В SELECTOS устранена уязвимость CVE-2026-46333](https://habr.com/ru/companies/selectel/news/1035680/?utm_campaign=1035680&utm_source=habrahabr&utm_medium=rss)
 - [SpaceWeb выяснил, почему сайты малого бизнеса стали реже выходить из строя](https://habr.com/ru/companies/runity/news/1035692/?utm_campaign=1035692&utm_source=habrahabr&utm_medium=rss)
-- [Спрос превысил предложение в 20 раз: производитель ИИ-чипов Cerebras провел IPO](https://habr.com/ru/news/1035636/?utm_campaign=1035636&utm_source=habrahabr&utm_medium=rss)
-- [Apple поделилась списком приложений от победителей конкурса Swift Students Challenge](https://habr.com/ru/news/1035382/?utm_campaign=1035382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
