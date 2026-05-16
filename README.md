@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Restik запустил ИИ-агента для ресторанов: он может менять меню, анализировать продажи и оформлять поставки](https://habr.com/ru/companies/era2/news/1035942/?utm_campaign=1035942&utm_source=habrahabr&utm_medium=rss)
 - [AI-дата-центры разгоняют спрос на электричество: Lake Tahoe ищет нового поставщика энергии](https://habr.com/ru/companies/era2/news/1035936/?utm_campaign=1035936&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI запустила финансовые инструменты в ChatGPT с подключением банковских аккаунтов](https://habr.com/ru/companies/era2/news/1035934/?utm_campaign=1035934&utm_source=habrahabr&utm_medium=rss)
 - [«Мы точим мечи, а у них пулемет Гатлинга»: Китай — об отрыве США в ИИ](https://habr.com/ru/news/1035904/?utm_campaign=1035904&utm_source=habrahabr&utm_medium=rss)
 - [GitHub и Git не готовы к ИИ-агентам — и Git уже переписывают на Rust](https://habr.com/ru/news/1035896/?utm_campaign=1035896&utm_source=habrahabr&utm_medium=rss)
-- [Питер Штайнбергер рассказал, на что тратит по 600 млрд токенов в месяц](https://habr.com/ru/news/1035884/?utm_campaign=1035884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
