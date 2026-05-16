@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Система регистрации в отелях оставляла документы посетителей в открытом доступе](https://habr.com/ru/news/1035844/?utm_campaign=1035844&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила экзамен на знание и умение пользоваться ИИ‑агентами — Exam GH-600 Agentic AI Developer &lpar;beta&rpar;](https://habr.com/ru/news/1035808/?utm_campaign=1035808&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый музыкальный проигрыватель Nocturne 1.0](https://habr.com/ru/news/1035532/?utm_campaign=1035532&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление диагностической утилиты CPU-Z 2.20](https://habr.com/ru/news/1035430/?utm_campaign=1035430&utm_source=habrahabr&utm_medium=rss)
 - [ИИ пришел не за кодерами, а за их начальниками: тех-гиганты убирают управленческий слой](https://habr.com/ru/news/1035794/?utm_campaign=1035794&utm_source=habrahabr&utm_medium=rss)
-- [Claude Mythos написал 18 рабочих эксплойтов для Chrome. Остальные ИИ — ноль](https://habr.com/ru/news/1035792/?utm_campaign=1035792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
