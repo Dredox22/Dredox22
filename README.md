@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI объединяет ChatGPT, Codex и API](https://habr.com/ru/news/1035988/?utm_campaign=1035988&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT обвинили в передаче данных в Google и Meta](https://habr.com/ru/news/1035986/?utm_campaign=1035986&utm_source=habrahabr&utm_medium=rss)
 - [В США братья‑близнецы удалили 96 правительственных баз данных через несколько минут после увольнения](https://habr.com/ru/news/1035982/?utm_campaign=1035982&utm_source=habrahabr&utm_medium=rss)
 - [Restik запустил ИИ-агента для ресторанов: он может менять меню, анализировать продажи и оформлять поставки](https://habr.com/ru/companies/era2/news/1035942/?utm_campaign=1035942&utm_source=habrahabr&utm_medium=rss)
 - [AI-дата-центры разгоняют спрос на электричество: Lake Tahoe ищет нового поставщика энергии](https://habr.com/ru/companies/era2/news/1035936/?utm_campaign=1035936&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила финансовые инструменты в ChatGPT с подключением банковских аккаунтов](https://habr.com/ru/companies/era2/news/1035934/?utm_campaign=1035934&utm_source=habrahabr&utm_medium=rss)
-- [«Мы точим мечи, а у них пулемет Гатлинга»: Китай — об отрыве США в ИИ](https://habr.com/ru/news/1035904/?utm_campaign=1035904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
