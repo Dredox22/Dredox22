@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптовая цена электричества в США выросла на 75% за год. Причина — ИИ-дата-центры](https://habr.com/ru/news/1036180/?utm_campaign=1036180&utm_source=habrahabr&utm_medium=rss)
 - [Папа Римский создал рабочую группу по ИИ. В Ватикане сравнивают технологию с новой промышленной революцией](https://habr.com/ru/news/1036172/?utm_campaign=1036172&utm_source=habrahabr&utm_medium=rss)
 - [Рейтинг языков программирования TIOBE за май 2026 года: Python остаётся на первом месте, популярность R растёт](https://habr.com/ru/news/1036114/?utm_campaign=1036114&utm_source=habrahabr&utm_medium=rss)
 - [Год бана за ИИ-слоп: arXiv ужесточил правила для авторов](https://habr.com/ru/news/1036110/?utm_campaign=1036110&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносный коммит подписали «от имени Claude»: жертвой стала OpenAI](https://habr.com/ru/news/1036072/?utm_campaign=1036072&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Excel возмутились неубираемой кнопкой Copilot в своих таблицах](https://habr.com/ru/news/1036042/?utm_campaign=1036042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
