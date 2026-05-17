@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Год бана за ИИ-слоп: arXiv ужесточил правила для авторов](https://habr.com/ru/news/1036110/?utm_campaign=1036110&utm_source=habrahabr&utm_medium=rss)
 - [Вредоносный коммит подписали «от имени Claude»: жертвой стала OpenAI](https://habr.com/ru/news/1036072/?utm_campaign=1036072&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Excel возмутились неубираемой кнопкой Copilot в своих таблицах](https://habr.com/ru/news/1036042/?utm_campaign=1036042&utm_source=habrahabr&utm_medium=rss)
 - [ИИ использовали для улучшения антибиотиков — 72% кандидатов превзошли исходную молекулу](https://habr.com/ru/news/1036050/?utm_campaign=1036050&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Halupedia — аналог Wikipedia, который состоит на 100% из галлюцинаций ИИ](https://habr.com/ru/news/1036018/?utm_campaign=1036018&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Debian 13.5](https://habr.com/ru/news/1035958/?utm_campaign=1035958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
