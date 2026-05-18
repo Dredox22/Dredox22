@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft исправит способ хранения паролей в Edge и закроет возможность выгрузки паролей из памяти в открытом виде](https://habr.com/ru/news/1036130/?utm_campaign=1036130&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Memtest86+ v8.10](https://habr.com/ru/news/1036014/?utm_campaign=1036014&utm_source=habrahabr&utm_medium=rss)
+- [Релиз решения Rescuezilla 2.6.2 для клонирования и создания образов дисков, полностью совместимого с Clonezilla](https://habr.com/ru/news/1036020/?utm_campaign=1036020&utm_source=habrahabr&utm_medium=rss)
+- [Roster сервера jabber.ru стал read only](https://habr.com/ru/news/1036204/?utm_campaign=1036204&utm_source=habrahabr&utm_medium=rss)
 - [Оптовая цена электричества в США выросла на 75% за год. Причина — ИИ-дата-центры](https://habr.com/ru/news/1036180/?utm_campaign=1036180&utm_source=habrahabr&utm_medium=rss)
-- [Папа Римский создал рабочую группу по ИИ. В Ватикане сравнивают технологию с новой промышленной революцией](https://habr.com/ru/news/1036172/?utm_campaign=1036172&utm_source=habrahabr&utm_medium=rss)
-- [Рейтинг языков программирования TIOBE за май 2026 года: Python остаётся на первом месте, популярность R растёт](https://habr.com/ru/news/1036114/?utm_campaign=1036114&utm_source=habrahabr&utm_medium=rss)
-- [Год бана за ИИ-слоп: arXiv ужесточил правила для авторов](https://habr.com/ru/news/1036110/?utm_campaign=1036110&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносный коммит подписали «от имени Claude»: жертвой стала OpenAI](https://habr.com/ru/news/1036072/?utm_campaign=1036072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
