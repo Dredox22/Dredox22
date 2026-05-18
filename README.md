@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло CatsLock — ещё одно приложение для защиты клавиатуры от котов, но уже для macOS](https://habr.com/ru/news/1036278/?utm_campaign=1036278&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Siri от Apple может включать автоматическое удаление чатов](https://habr.com/ru/news/1036276/?utm_campaign=1036276&utm_source=habrahabr&utm_medium=rss)
-- [Математики потратили $550 000 на тест, который ИИ не может решить](https://habr.com/ru/news/1036262/?utm_campaign=1036262&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-код — это боль наперед: Lightrun предупреждает о волне техдолга](https://habr.com/ru/news/1036252/?utm_campaign=1036252&utm_source=habrahabr&utm_medium=rss)
-- [Стипендии SECAI на AI-магистратуры в TU Dresden и Лейпциге: открыт приём на 2026/2027](https://habr.com/ru/news/1036178/?utm_campaign=1036178&utm_source=habrahabr&utm_medium=rss)
+- [На Reddit показали автоматическую водяную турель с ИИ для отпугивания голубей](https://habr.com/ru/news/1036446/?utm_campaign=1036446&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на GenAI MeetUp от hh team × Lamoda Tech](https://habr.com/ru/companies/lamoda/news/1036286/?utm_campaign=1036286&utm_source=habrahabr&utm_medium=rss)
+- [«Микрон» представил новые сувениры: 200-мм пластину с чипами и пробирку с воздухом из чистой комнаты](https://habr.com/ru/news/1036404/?utm_campaign=1036404&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отзывает у внутренних команд лицензии Claude Code и переводит разработчиков на GitHub Copilot CLI](https://habr.com/ru/news/1036392/?utm_campaign=1036392&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила ChatGPT для управления финансами с возможностью привязки банковских счетов](https://habr.com/ru/news/1036384/?utm_campaign=1036384&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
