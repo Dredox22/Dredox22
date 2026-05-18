@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft исправит способ хранения паролей в Edge и закроет возможность выгрузки паролей из памяти в открытом виде](https://habr.com/ru/news/1036130/?utm_campaign=1036130&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Memtest86+ v8.10](https://habr.com/ru/news/1036014/?utm_campaign=1036014&utm_source=habrahabr&utm_medium=rss)
-- [Релиз решения Rescuezilla 2.6.2 для клонирования и создания образов дисков, полностью совместимого с Clonezilla](https://habr.com/ru/news/1036020/?utm_campaign=1036020&utm_source=habrahabr&utm_medium=rss)
-- [Roster сервера jabber.ru стал read only](https://habr.com/ru/news/1036204/?utm_campaign=1036204&utm_source=habrahabr&utm_medium=rss)
-- [Оптовая цена электричества в США выросла на 75% за год. Причина — ИИ-дата-центры](https://habr.com/ru/news/1036180/?utm_campaign=1036180&utm_source=habrahabr&utm_medium=rss)
+- [Вышло CatsLock — ещё одно приложение для защиты клавиатуры от котов, но уже для macOS](https://habr.com/ru/news/1036278/?utm_campaign=1036278&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Siri от Apple может включать автоматическое удаление чатов](https://habr.com/ru/news/1036276/?utm_campaign=1036276&utm_source=habrahabr&utm_medium=rss)
+- [Математики потратили $550 000 на тест, который ИИ не может решить](https://habr.com/ru/news/1036262/?utm_campaign=1036262&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-код — это боль наперед: Lightrun предупреждает о волне техдолга](https://habr.com/ru/news/1036252/?utm_campaign=1036252&utm_source=habrahabr&utm_medium=rss)
+- [Стипендии SECAI на AI-магистратуры в TU Dresden и Лейпциге: открыт приём на 2026/2027](https://habr.com/ru/news/1036178/?utm_campaign=1036178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
