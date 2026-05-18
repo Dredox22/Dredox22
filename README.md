@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WWDC26 пройдёт с 8 по 12 июня: Apple представит обновления ОС и инструментов для разработчиков](https://habr.com/ru/news/1036622/?utm_campaign=1036622&utm_source=habrahabr&utm_medium=rss)
+- [ИИ нашел дыру в NGINX за 6 часов. Хакерам хватило трех дней, чтобы начать ее эксплуатировать](https://habr.com/ru/news/1036612/?utm_campaign=1036612&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты заметили, что в Windows 11 до сих пор существует Phone Dialer](https://habr.com/ru/news/1036092/?utm_campaign=1036092&utm_source=habrahabr&utm_medium=rss)
 - [Tesla ввела обязательное требование к водителям оставлять отзыв каждый раз, когда они вмешиваются в работу FSD](https://habr.com/ru/news/1036094/?utm_campaign=1036094&utm_source=habrahabr&utm_medium=rss)
 - [Встреча на тему Цифровая трансформация: 10 лет изменений. Текущие и будущие вызовы](https://habr.com/ru/news/1036586/?utm_campaign=1036586&utm_source=habrahabr&utm_medium=rss)
-- [Маск проиграл иск против OpenAI по неожиданной причине](https://habr.com/ru/news/1036580/?utm_campaign=1036580&utm_source=habrahabr&utm_medium=rss)
-- [Cursor выпустила Composer 2.5: догнала Opus 4.7, но отстает от GPT-5.5](https://habr.com/ru/news/1036568/?utm_campaign=1036568&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» представил компактный 3D-принтер RusMelt 150M для промышленности, медицины и научных центров](https://habr.com/ru/news/1036540/?utm_campaign=1036540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
