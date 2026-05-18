@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На Reddit показали автоматическую водяную турель с ИИ для отпугивания голубей](https://habr.com/ru/news/1036446/?utm_campaign=1036446&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на GenAI MeetUp от hh team × Lamoda Tech](https://habr.com/ru/companies/lamoda/news/1036286/?utm_campaign=1036286&utm_source=habrahabr&utm_medium=rss)
-- [«Микрон» представил новые сувениры: 200-мм пластину с чипами и пробирку с воздухом из чистой комнаты](https://habr.com/ru/news/1036404/?utm_campaign=1036404&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отзывает у внутренних команд лицензии Claude Code и переводит разработчиков на GitHub Copilot CLI](https://habr.com/ru/news/1036392/?utm_campaign=1036392&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила ChatGPT для управления финансами с возможностью привязки банковских счетов](https://habr.com/ru/news/1036384/?utm_campaign=1036384&utm_source=habrahabr&utm_medium=rss)
+- [«Росатом» представил компактный 3D-принтер RusMelt 150M для промышленности, медицины и научных центров](https://habr.com/ru/news/1036540/?utm_campaign=1036540&utm_source=habrahabr&utm_medium=rss)
+- [В Exchange Server 2016, 2019 и SE обнаружена критическая уязвимость безопасности](https://habr.com/ru/news/1036512/?utm_campaign=1036512&utm_source=habrahabr&utm_medium=rss)
+- [140 трлн токенов в день: Китай приравнял ИИ к водопроводу и электросетям](https://habr.com/ru/news/1036504/?utm_campaign=1036504&utm_source=habrahabr&utm_medium=rss)
+- [Google обновил политику борьбы со спамом, включив в нее попытки манипулировать результатами работы ИИ в поиске](https://habr.com/ru/news/1036460/?utm_campaign=1036460&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Windows 11 KB5089549 создаёт новую папку SecureBoot, но Microsoft называет это нормальным](https://habr.com/ru/news/1036452/?utm_campaign=1036452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
