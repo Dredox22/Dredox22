@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Встреча на тему Цифровая трансформация: 10 лет изменений. Текущие и будущие вызовы](https://habr.com/ru/news/1036586/?utm_campaign=1036586&utm_source=habrahabr&utm_medium=rss)
+- [Маск проиграл иск против OpenAI по неожиданной причине](https://habr.com/ru/news/1036580/?utm_campaign=1036580&utm_source=habrahabr&utm_medium=rss)
+- [Cursor выпустила Composer 2.5: догнала Opus 4.7, но отстает от GPT-5.5](https://habr.com/ru/news/1036568/?utm_campaign=1036568&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» представил компактный 3D-принтер RusMelt 150M для промышленности, медицины и научных центров](https://habr.com/ru/news/1036540/?utm_campaign=1036540&utm_source=habrahabr&utm_medium=rss)
 - [В Exchange Server 2016, 2019 и SE обнаружена критическая уязвимость безопасности](https://habr.com/ru/news/1036512/?utm_campaign=1036512&utm_source=habrahabr&utm_medium=rss)
-- [140 трлн токенов в день: Китай приравнял ИИ к водопроводу и электросетям](https://habr.com/ru/news/1036504/?utm_campaign=1036504&utm_source=habrahabr&utm_medium=rss)
-- [Google обновил политику борьбы со спамом, включив в нее попытки манипулировать результатами работы ИИ в поиске](https://habr.com/ru/news/1036460/?utm_campaign=1036460&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Windows 11 KB5089549 создаёт новую папку SecureBoot, но Microsoft называет это нормальным](https://habr.com/ru/news/1036452/?utm_campaign=1036452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
