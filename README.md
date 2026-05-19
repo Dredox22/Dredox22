@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Firefox 151.0](https://habr.com/ru/news/1036552/?utm_campaign=1036552&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Phosh 0.55 — проект GNOME-окружения для смартфонов](https://habr.com/ru/news/1036376/?utm_campaign=1036376&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Erlang/OTP 29.0](https://habr.com/ru/news/1036254/?utm_campaign=1036254&utm_source=habrahabr&utm_medium=rss)
 - [WWDC26 пройдёт с 8 по 12 июня: Apple представит обновления ОС и инструментов для разработчиков](https://habr.com/ru/news/1036622/?utm_campaign=1036622&utm_source=habrahabr&utm_medium=rss)
 - [ИИ нашел дыру в NGINX за 6 часов. Хакерам хватило трех дней, чтобы начать ее эксплуатировать](https://habr.com/ru/news/1036612/?utm_campaign=1036612&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты заметили, что в Windows 11 до сих пор существует Phone Dialer](https://habr.com/ru/news/1036092/?utm_campaign=1036092&utm_source=habrahabr&utm_medium=rss)
-- [Tesla ввела обязательное требование к водителям оставлять отзыв каждый раз, когда они вмешиваются в работу FSD](https://habr.com/ru/news/1036094/?utm_campaign=1036094&utm_source=habrahabr&utm_medium=rss)
-- [Встреча на тему Цифровая трансформация: 10 лет изменений. Текущие и будущие вызовы](https://habr.com/ru/news/1036586/?utm_campaign=1036586&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
