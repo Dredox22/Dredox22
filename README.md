@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Нагрузочное тестирование LDM.CSP подтвердило: платформа эталонно обрабатывает 7 млн документов в день](https://habr.com/ru/companies/lansoft_career/news/1035460/?utm_campaign=1035460&utm_source=habrahabr&utm_medium=rss)
-- [Алиса AI научилась лучше генерировать изображения с русскоязычным текстом](https://habr.com/ru/news/1036688/?utm_campaign=1036688&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Музыка» представила гиперконтекстные рекомендации и большое обновление «Моей волны»](https://habr.com/ru/news/1036566/?utm_campaign=1036566&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила новый центр обратной связи для пользователей Xbox](https://habr.com/ru/news/1036716/?utm_campaign=1036716&utm_source=habrahabr&utm_medium=rss)
-- [Без исходников — UT99 мультиплеер в браузере](https://habr.com/ru/news/1036710/?utm_campaign=1036710&utm_source=habrahabr&utm_medium=rss)
+- [Мошенничество на $19 млн удалось раскрыть после того, как преступник похвастался доходами и показал интерфейс кошелька](https://habr.com/ru/news/1036908/?utm_campaign=1036908&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект StemDeck для разделения аудио на отдельные дорожки &lpar;вокал, ударные, бас, гитара, фортепиано&rpar;](https://habr.com/ru/news/1036874/?utm_campaign=1036874&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies проведет День технологий на московской неделе предпринимательства](https://habr.com/ru/companies/pt/news/1036820/?utm_campaign=1036820&utm_source=habrahabr&utm_medium=rss)
+- [Компания Clear Gate провела аудит информационной безопасности мессенджера Max](https://habr.com/ru/news/1036838/?utm_campaign=1036838&utm_source=habrahabr&utm_medium=rss)
+- [Grafana Labs признала взлом токена доступа к GitHub-окружению](https://habr.com/ru/news/1036850/?utm_campaign=1036850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
