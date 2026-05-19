@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Firefox 151.0](https://habr.com/ru/news/1036552/?utm_campaign=1036552&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Phosh 0.55 — проект GNOME-окружения для смартфонов](https://habr.com/ru/news/1036376/?utm_campaign=1036376&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Erlang/OTP 29.0](https://habr.com/ru/news/1036254/?utm_campaign=1036254&utm_source=habrahabr&utm_medium=rss)
-- [WWDC26 пройдёт с 8 по 12 июня: Apple представит обновления ОС и инструментов для разработчиков](https://habr.com/ru/news/1036622/?utm_campaign=1036622&utm_source=habrahabr&utm_medium=rss)
-- [ИИ нашел дыру в NGINX за 6 часов. Хакерам хватило трех дней, чтобы начать ее эксплуатировать](https://habr.com/ru/news/1036612/?utm_campaign=1036612&utm_source=habrahabr&utm_medium=rss)
+- [Нагрузочное тестирование LDM.CSP подтвердило: платформа эталонно обрабатывает 7 млн документов в день](https://habr.com/ru/companies/lansoft_career/news/1035460/?utm_campaign=1035460&utm_source=habrahabr&utm_medium=rss)
+- [Алиса AI научилась лучше генерировать изображения с русскоязычным текстом](https://habr.com/ru/news/1036688/?utm_campaign=1036688&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Музыка» представила гиперконтекстные рекомендации и большое обновление «Моей волны»](https://habr.com/ru/news/1036566/?utm_campaign=1036566&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила новый центр обратной связи для пользователей Xbox](https://habr.com/ru/news/1036716/?utm_campaign=1036716&utm_source=habrahabr&utm_medium=rss)
+- [Без исходников — UT99 мультиплеер в браузере](https://habr.com/ru/news/1036710/?utm_campaign=1036710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
