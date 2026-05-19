@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Мошенничество на $19 млн удалось раскрыть после того, как преступник похвастался доходами и показал интерфейс кошелька](https://habr.com/ru/news/1036908/?utm_campaign=1036908&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект StemDeck для разделения аудио на отдельные дорожки &lpar;вокал, ударные, бас, гитара, фортепиано&rpar;](https://habr.com/ru/news/1036874/?utm_campaign=1036874&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies проведет День технологий на московской неделе предпринимательства](https://habr.com/ru/companies/pt/news/1036820/?utm_campaign=1036820&utm_source=habrahabr&utm_medium=rss)
-- [Компания Clear Gate провела аудит информационной безопасности мессенджера Max](https://habr.com/ru/news/1036838/?utm_campaign=1036838&utm_source=habrahabr&utm_medium=rss)
-- [Grafana Labs признала взлом токена доступа к GitHub-окружению](https://habr.com/ru/news/1036850/?utm_campaign=1036850&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпати присоединился к Anthropic — сооснователь OpenAI теперь работает в ее главном конкуренте](https://habr.com/ru/news/1037022/?utm_campaign=1037022&utm_source=habrahabr&utm_medium=rss)
+- [AI-митап: Delivery Community SPB X PMM Baza SPB](https://habr.com/ru/companies/garage8/news/1037018/?utm_campaign=1037018&utm_source=habrahabr&utm_medium=rss)
+- [Пациенты начали приносить пластическим хирургам изображения «идеальных» себя, сгенерированные ИИ](https://habr.com/ru/news/1037008/?utm_campaign=1037008&utm_source=habrahabr&utm_medium=rss)
+- [Дайджест мероприятий ИнфоТеКС Tech](https://habr.com/ru/companies/infotecs_tech/news/1035332/?utm_campaign=1035332&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила модель GPT-5.5-Cyber для специалистов по кибербезу через месяц после анонса Mythos от Anthropic](https://habr.com/ru/news/1036982/?utm_campaign=1036982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
