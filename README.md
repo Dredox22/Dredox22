@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio теперь делает нативные Android-приложения — без SDK, без среды, без знания Kotlin](https://habr.com/ru/news/1037344/?utm_campaign=1037344&utm_source=habrahabr&utm_medium=rss)
-- [Mistral AI приобретает Emmi AI для создания ведущего комплекса решений в области ИИ для промышленного инжиниринга](https://habr.com/ru/news/1037338/?utm_campaign=1037338&utm_source=habrahabr&utm_medium=rss)
-- [Южнокорейский издатель Krafton, известный по PUBG, отчитался о двукратном росте рождаемости в коллективе](https://habr.com/ru/news/1037336/?utm_campaign=1037336&utm_source=habrahabr&utm_medium=rss)
-- [Наталья Касперская рассказала о рисках утечки при использовнаии зарубежного ИИ в российских компаниях](https://habr.com/ru/news/1037320/?utm_campaign=1037320&utm_source=habrahabr&utm_medium=rss)
-- [Сингапур хочет ввести “этикетки” для AI-продуктов](https://habr.com/ru/companies/era2/news/1037314/?utm_campaign=1037314&utm_source=habrahabr&utm_medium=rss)
+- [Профсоюз Samsung Electronics планирует провести 18-дневную забастовку](https://habr.com/ru/news/1037482/?utm_campaign=1037482&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: нет проблем с доступом к GitHub, работает без сбоев API, регистрация пользователей и создание проектов](https://habr.com/ru/news/1037468/?utm_campaign=1037468&utm_source=habrahabr&utm_medium=rss)
+- [В Nature рассказали, как ИИ предложил препараты от лейкоза и слепоты](https://habr.com/ru/news/1037436/?utm_campaign=1037436&utm_source=habrahabr&utm_medium=rss)
+- [Учёные МИСИС разработали алюминиевый сплав с высокой прочностью и теплопроводностью для электроники](https://habr.com/ru/news/1037396/?utm_campaign=1037396&utm_source=habrahabr&utm_medium=rss)
+- [Valve удалила хоррор Beyond The Dark из Steam из-за вредоносного ПО, кравшего данные пользователей](https://habr.com/ru/news/1037376/?utm_campaign=1037376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
