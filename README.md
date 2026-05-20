@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлено обновление утилиты CrystalDiskInfo 9.9.0](https://habr.com/ru/news/1036706/?utm_campaign=1036706&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 151.0](https://habr.com/ru/news/1037052/?utm_campaign=1037052&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта ForgeZero 1.9.0 — мультиплатформенного инструмента сборки для C и ассемблера](https://habr.com/ru/news/1036684/?utm_campaign=1036684&utm_source=habrahabr&utm_medium=rss)
-- [Вышла видеомодель Google Gemini Omni: «превратит что угодно во что угодно»](https://habr.com/ru/news/1037084/?utm_campaign=1037084&utm_source=habrahabr&utm_medium=rss)
-- [ИИ собрал рабочую ОС за 12 часов: представлена Gemini 3.5 Flash](https://habr.com/ru/news/1037062/?utm_campaign=1037062&utm_source=habrahabr&utm_medium=rss)
+- [Правительство планирует ограничить сроки расторжения договоров по сим-картам](https://habr.com/ru/news/1037248/?utm_campaign=1037248&utm_source=habrahabr&utm_medium=rss)
+- [Масштабный инцидент в GitHub: зараженное расширение VS Code привело к компрометации 3800 репозиториев](https://habr.com/ru/companies/ddosguard/news/1037240/?utm_campaign=1037240&utm_source=habrahabr&utm_medium=rss)
+- [GitHub взломали через расширение для VS Code. Утекли тысячи внутренних репозиториев](https://habr.com/ru/news/1037234/?utm_campaign=1037234&utm_source=habrahabr&utm_medium=rss)
+- [Для бизнеса в 2026 году быстрая окупаемость стала главным обоснованием ИТ-расходов](https://habr.com/ru/companies/croc/news/1037220/?utm_campaign=1037220&utm_source=habrahabr&utm_medium=rss)
+- [WD представила HDD с постквантовой криптографией ML-DSA-87 на уровне прошивки](https://habr.com/ru/news/1037210/?utm_campaign=1037210&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
