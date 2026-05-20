@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Mobile теперь позволяет создавать новые проекты прямо с устройств на iOS и Android](https://habr.com/ru/news/1037118/?utm_campaign=1037118&utm_source=habrahabr&utm_medium=rss)
+- [Представлен виртуальный музей, в котором собраны практически все возможные операционные системы &lpar;570 штук&rpar;](https://habr.com/ru/news/1037494/?utm_campaign=1037494&utm_source=habrahabr&utm_medium=rss)
 - [Профсоюз Samsung Electronics планирует провести 18-дневную забастовку](https://habr.com/ru/news/1037482/?utm_campaign=1037482&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: нет проблем с доступом к GitHub, работает без сбоев API, регистрация пользователей и создание проектов](https://habr.com/ru/news/1037468/?utm_campaign=1037468&utm_source=habrahabr&utm_medium=rss)
 - [В Nature рассказали, как ИИ предложил препараты от лейкоза и слепоты](https://habr.com/ru/news/1037436/?utm_campaign=1037436&utm_source=habrahabr&utm_medium=rss)
-- [Учёные МИСИС разработали алюминиевый сплав с высокой прочностью и теплопроводностью для электроники](https://habr.com/ru/news/1037396/?utm_campaign=1037396&utm_source=habrahabr&utm_medium=rss)
-- [Valve удалила хоррор Beyond The Dark из Steam из-за вредоносного ПО, кравшего данные пользователей](https://habr.com/ru/news/1037376/?utm_campaign=1037376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
