@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Правительство планирует ограничить сроки расторжения договоров по сим-картам](https://habr.com/ru/news/1037248/?utm_campaign=1037248&utm_source=habrahabr&utm_medium=rss)
-- [Масштабный инцидент в GitHub: зараженное расширение VS Code привело к компрометации 3800 репозиториев](https://habr.com/ru/companies/ddosguard/news/1037240/?utm_campaign=1037240&utm_source=habrahabr&utm_medium=rss)
-- [GitHub взломали через расширение для VS Code. Утекли тысячи внутренних репозиториев](https://habr.com/ru/news/1037234/?utm_campaign=1037234&utm_source=habrahabr&utm_medium=rss)
-- [Для бизнеса в 2026 году быстрая окупаемость стала главным обоснованием ИТ-расходов](https://habr.com/ru/companies/croc/news/1037220/?utm_campaign=1037220&utm_source=habrahabr&utm_medium=rss)
-- [WD представила HDD с постквантовой криптографией ML-DSA-87 на уровне прошивки](https://habr.com/ru/news/1037210/?utm_campaign=1037210&utm_source=habrahabr&utm_medium=rss)
+- [Google AI Studio теперь делает нативные Android-приложения — без SDK, без среды, без знания Kotlin](https://habr.com/ru/news/1037344/?utm_campaign=1037344&utm_source=habrahabr&utm_medium=rss)
+- [Mistral AI приобретает Emmi AI для создания ведущего комплекса решений в области ИИ для промышленного инжиниринга](https://habr.com/ru/news/1037338/?utm_campaign=1037338&utm_source=habrahabr&utm_medium=rss)
+- [Южнокорейский издатель Krafton, известный по PUBG, отчитался о двукратном росте рождаемости в коллективе](https://habr.com/ru/news/1037336/?utm_campaign=1037336&utm_source=habrahabr&utm_medium=rss)
+- [Наталья Касперская рассказала о рисках утечки при использовнаии зарубежного ИИ в российских компаниях](https://habr.com/ru/news/1037320/?utm_campaign=1037320&utm_source=habrahabr&utm_medium=rss)
+- [Сингапур хочет ввести “этикетки” для AI-продуктов](https://habr.com/ru/companies/era2/news/1037314/?utm_campaign=1037314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
