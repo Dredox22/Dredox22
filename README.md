@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлено обновление утилиты CrystalDiskInfo 9.9.0](https://habr.com/ru/news/1036706/?utm_campaign=1036706&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Mozilla Thunderbird 151.0](https://habr.com/ru/news/1037052/?utm_campaign=1037052&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого проекта ForgeZero 1.9.0 — мультиплатформенного инструмента сборки для C и ассемблера](https://habr.com/ru/news/1036684/?utm_campaign=1036684&utm_source=habrahabr&utm_medium=rss)
 - [Вышла видеомодель Google Gemini Omni: «превратит что угодно во что угодно»](https://habr.com/ru/news/1037084/?utm_campaign=1037084&utm_source=habrahabr&utm_medium=rss)
 - [ИИ собрал рабочую ОС за 12 часов: представлена Gemini 3.5 Flash](https://habr.com/ru/news/1037062/?utm_campaign=1037062&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати присоединился к Anthropic — сооснователь OpenAI теперь работает в ее главном конкуренте](https://habr.com/ru/news/1037022/?utm_campaign=1037022&utm_source=habrahabr&utm_medium=rss)
-- [AI-митап: Delivery Community SPB X PMM Baza SPB](https://habr.com/ru/companies/garage8/news/1037018/?utm_campaign=1037018&utm_source=habrahabr&utm_medium=rss)
-- [Пациенты начали приносить пластическим хирургам изображения «идеальных» себя, сгенерированные ИИ](https://habr.com/ru/news/1037008/?utm_campaign=1037008&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
