@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Цикл вебинаров «Современный Gradle для Java-разработчика»](https://habr.com/ru/companies/pvs-studio/news/1034030/?utm_campaign=1034030&utm_source=habrahabr&utm_medium=rss)
-- [Grok все? Anthropic арендует у Илона Маска второй дата-центр Colossus](https://habr.com/ru/news/1037592/?utm_campaign=1037592&utm_source=habrahabr&utm_medium=rss)
-- [Canonical представила релиз Ubuntu Core 26](https://habr.com/ru/news/1037292/?utm_campaign=1037292&utm_source=habrahabr&utm_medium=rss)
-- [Представлено обновление Wireshark 4.6.6](https://habr.com/ru/news/1037356/?utm_campaign=1037356&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Kitty Terminal 0.47](https://habr.com/ru/news/1037060/?utm_campaign=1037060&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic будет платить xAI $1,25 млрд в месяц за вычислительные мощности](https://habr.com/ru/companies/era2/news/1037738/?utm_campaign=1037738&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI заявила, что её reasoning-модель опровергла гипотезу Эрдёша 1946 года](https://habr.com/ru/companies/era2/news/1037730/?utm_campaign=1037730&utm_source=habrahabr&utm_medium=rss)
+- [Анонсирован Flipper One, у команды проекта появился запрос на помощь от сообщества](https://habr.com/ru/news/1037480/?utm_campaign=1037480&utm_source=habrahabr&utm_medium=rss)
+- [+6,2% и до $400 тыс. бонуса: как Samsung на фоне бума памяти потушил крупнейшую забастовку в истории чипов](https://habr.com/ru/news/1037714/?utm_campaign=1037714&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Безопасность мобильных приложений: как обеспечить защиту и соответствие требованиям регуляторов»](https://habr.com/ru/companies/swordfish_security/news/1037712/?utm_campaign=1037712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
