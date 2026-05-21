@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Цикл вебинаров «Современный Gradle для Java-разработчика»](https://habr.com/ru/companies/pvs-studio/news/1034030/?utm_campaign=1034030&utm_source=habrahabr&utm_medium=rss)
+- [Grok все? Anthropic арендует у Илона Маска второй дата-центр Colossus](https://habr.com/ru/news/1037592/?utm_campaign=1037592&utm_source=habrahabr&utm_medium=rss)
+- [Canonical представила релиз Ubuntu Core 26](https://habr.com/ru/news/1037292/?utm_campaign=1037292&utm_source=habrahabr&utm_medium=rss)
 - [Представлено обновление Wireshark 4.6.6](https://habr.com/ru/news/1037356/?utm_campaign=1037356&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия Kitty Terminal 0.47](https://habr.com/ru/news/1037060/?utm_campaign=1037060&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA зарабатывает почти миллиард долларов в день — «продавец лопат» ставит рекорд за рекордом](https://habr.com/ru/news/1037542/?utm_campaign=1037542&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты за пределами чат-бота: платформа, мультиагентность, безопасность и путь в прод — новый выпуск подкаста ГНИВЦ](https://habr.com/ru/companies/gnivc/news/1037538/?utm_campaign=1037538&utm_source=habrahabr&utm_medium=rss)
-- [«Не сетка»: ИИ впервые в истории сам решил центральную проблему геометрии](https://habr.com/ru/news/1037534/?utm_campaign=1037534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
