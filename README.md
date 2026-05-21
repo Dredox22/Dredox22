@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ростелеком» подал заявку на включение системы массового управления домашними роутерами «Леший коннект» в реестр ПО](https://habr.com/ru/news/1037854/?utm_campaign=1037854&utm_source=habrahabr&utm_medium=rss)
+- [В Kodacode стала доступна Gemini 3.5 Flash](https://habr.com/ru/companies/koda/news/1037888/?utm_campaign=1037888&utm_source=habrahabr&utm_medium=rss)
+- [Научный коллектив из РФ начал разработку протеза конечности с прямым подключением к периферическим нервам человека](https://habr.com/ru/news/1037878/?utm_campaign=1037878&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Qwen3.7-Max: лучше Claude Opus 4.6 на SWE-bench Pro](https://habr.com/ru/news/1037876/?utm_campaign=1037876&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком» подал заявку на включение системы массового управления своими роутерами «Леший коннект» в реестр ПО](https://habr.com/ru/news/1037854/?utm_campaign=1037854&utm_source=habrahabr&utm_medium=rss)
 - [Представлен Qwen3.7-Max. ИИ-агент за 35 часов в 10 раз ускорил GPU-ядро без человека](https://habr.com/ru/news/1037844/?utm_campaign=1037844&utm_source=habrahabr&utm_medium=rss)
-- [Мышь Logitech MX Master 4 стала поддерживать тактильную обратную связь в Windows 11](https://habr.com/ru/news/1037814/?utm_campaign=1037814&utm_source=habrahabr&utm_medium=rss)
-- [Банк России усилит контроль за крупными внесениями наличных](https://habr.com/ru/news/1037798/?utm_campaign=1037798&utm_source=habrahabr&utm_medium=rss)
-- [MWS AI выпустила ИИ-агента для создания ИИ-агентов по текстовому описанию](https://habr.com/ru/companies/mts_ai/news/1037796/?utm_campaign=1037796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
