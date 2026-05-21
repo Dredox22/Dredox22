@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В США создали спецподразделение для внедрения ИИ в военные операции](https://habr.com/ru/news/1037904/?utm_campaign=1037904&utm_source=habrahabr&utm_medium=rss)
+- [Apple отчиталась о работе службы безопасности магазина приложений App Store в 2025 году](https://habr.com/ru/news/1037900/?utm_campaign=1037900&utm_source=habrahabr&utm_medium=rss)
 - [В Kodacode стала доступна Gemini 3.5 Flash](https://habr.com/ru/companies/koda/news/1037888/?utm_campaign=1037888&utm_source=habrahabr&utm_medium=rss)
 - [Научный коллектив из РФ начал разработку протеза конечности с прямым подключением к периферическим нервам человека](https://habr.com/ru/news/1037878/?utm_campaign=1037878&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Qwen3.7-Max: лучше Claude Opus 4.6 на SWE-bench Pro](https://habr.com/ru/news/1037876/?utm_campaign=1037876&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком» подал заявку на включение системы массового управления своими роутерами «Леший коннект» в реестр ПО](https://habr.com/ru/news/1037854/?utm_campaign=1037854&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Qwen3.7-Max. ИИ-агент за 35 часов в 10 раз ускорил GPU-ядро без человека](https://habr.com/ru/news/1037844/?utm_campaign=1037844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
