@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ФБР: в 2025 году американцы потеряли более $388 млн из-за мошенничества с криптоматами](https://habr.com/ru/news/1037912/?utm_campaign=1037912&utm_source=habrahabr&utm_medium=rss)
 - [Cursor Composer 2.5 вошел в топ-3 ИИ для кодинга](https://habr.com/ru/news/1037928/?utm_campaign=1037928&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft опенсорснула RAMPART — фреймворк безопасности ИИ-агентов](https://habr.com/ru/news/1037926/?utm_campaign=1037926&utm_source=habrahabr&utm_medium=rss)
 - [В США создали спецподразделение для внедрения ИИ в военные операции](https://habr.com/ru/news/1037904/?utm_campaign=1037904&utm_source=habrahabr&utm_medium=rss)
 - [Apple отчиталась о работе службы безопасности магазина приложений App Store в 2025 году](https://habr.com/ru/news/1037900/?utm_campaign=1037900&utm_source=habrahabr&utm_medium=rss)
-- [В Kodacode стала доступна Gemini 3.5 Flash](https://habr.com/ru/companies/koda/news/1037888/?utm_campaign=1037888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
