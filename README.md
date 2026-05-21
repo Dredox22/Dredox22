@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлено обновление Wireshark 4.6.6](https://habr.com/ru/news/1037356/?utm_campaign=1037356&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Kitty Terminal 0.47](https://habr.com/ru/news/1037060/?utm_campaign=1037060&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA зарабатывает почти миллиард долларов в день — «продавец лопат» ставит рекорд за рекордом](https://habr.com/ru/news/1037542/?utm_campaign=1037542&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты за пределами чат-бота: платформа, мультиагентность, безопасность и путь в прод — новый выпуск подкаста ГНИВЦ](https://habr.com/ru/companies/gnivc/news/1037538/?utm_campaign=1037538&utm_source=habrahabr&utm_medium=rss)
 - [«Не сетка»: ИИ впервые в истории сам решил центральную проблему геометрии](https://habr.com/ru/news/1037534/?utm_campaign=1037534&utm_source=habrahabr&utm_medium=rss)
-- [GitHub Mobile теперь позволяет создавать новые проекты прямо с устройств на iOS и Android](https://habr.com/ru/news/1037118/?utm_campaign=1037118&utm_source=habrahabr&utm_medium=rss)
-- [Представлен виртуальный музей, в котором собраны практически все возможные операционные системы &lpar;570 штук&rpar;](https://habr.com/ru/news/1037494/?utm_campaign=1037494&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
