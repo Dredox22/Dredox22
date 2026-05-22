@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify и Universal Music разрешат фанатские AI-каверы и ремиксы](https://habr.com/ru/companies/era2/news/1038004/?utm_campaign=1038004&utm_source=habrahabr&utm_medium=rss)
-- [Трамп отменил указ о госпроверке ИИ — побоялся проиграть гонку Китаю](https://habr.com/ru/news/1038002/?utm_campaign=1038002&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Red Hat Enterprise Linux 10.2](https://habr.com/ru/news/1037778/?utm_campaign=1037778&utm_source=habrahabr&utm_medium=rss)
-- [18 минут в маркетплейсе VS Code хватило, чтобы взломать GitHub изнутри](https://habr.com/ru/news/1037934/?utm_campaign=1037934&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.8](https://habr.com/ru/news/1037576/?utm_campaign=1037576&utm_source=habrahabr&utm_medium=rss)
+- [«Абалкинские чтения» впервые об ИТ в медицине: спектральный анализ МЭГ выявил гендерные пики активности мозга](https://habr.com/ru/news/1038098/?utm_campaign=1038098&utm_source=habrahabr&utm_medium=rss)
+- [Selectel разбирает популярные заблуждения о безопасности в облаке](https://habr.com/ru/companies/selectel/news/1038078/?utm_campaign=1038078&utm_source=habrahabr&utm_medium=rss)
+- [OpenClaw на базе DeepSeek сам переписал свой код — и стал работать в 2,4 раза лучше](https://habr.com/ru/news/1038092/?utm_campaign=1038092&utm_source=habrahabr&utm_medium=rss)
+- [AT&amp;amp;T подала в суд на власти Калифорнии в попытке прекратить предоставление традиционных телефонных услуг](https://habr.com/ru/news/1038082/?utm_campaign=1038082&utm_source=habrahabr&utm_medium=rss)
+- [Ушёл из жизни Клив Молер — математик, соучредитель MathWorks и автор первой версии MATLAB](https://habr.com/ru/news/1038080/?utm_campaign=1038080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
