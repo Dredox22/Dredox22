@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity выложила в open-source Bumblebee: read-only сканер ИИ-окружений для защиты от supply-chain атак](https://habr.com/ru/news/1038324/?utm_campaign=1038324&utm_source=habrahabr&utm_medium=rss)
+- [LLMStart.ru запускает продвинутую программу Deep Agents для разработки сложных ИИ-систем](https://habr.com/ru/companies/llmstart/news/1038320/?utm_campaign=1038320&utm_source=habrahabr&utm_medium=rss)
 - [Мы запустили Маркуса — цифровой помощник команды маркетинга и коммуникаций](https://habr.com/ru/companies/sberbank/news/1038290/?utm_campaign=1038290&utm_source=habrahabr&utm_medium=rss)
 - [$1 млрд в день: разбор рекордного финансового отчета NVIDIA](https://habr.com/ru/companies/selectel/news/1038252/?utm_campaign=1038252&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прислушалась к негативной реакции на навязчивую кнопку Copilot в Office](https://habr.com/ru/news/1038236/?utm_campaign=1038236&utm_source=habrahabr&utm_medium=rss)
-- [Белые хакеры заработали более 23 млн рублей на Standoff Hacks в Китае](https://habr.com/ru/companies/pt/news/1038172/?utm_campaign=1038172&utm_source=habrahabr&utm_medium=rss)
-- [«Абалкинские чтения» впервые об ИТ в медицине: спектральный анализ МЭГ выявил гендерные пики активности мозга](https://habr.com/ru/news/1038098/?utm_campaign=1038098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
