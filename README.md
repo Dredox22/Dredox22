@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мы запустили Маркуса — цифровой помощник команды маркетинга и коммуникаций](https://habr.com/ru/companies/sberbank/news/1038290/?utm_campaign=1038290&utm_source=habrahabr&utm_medium=rss)
+- [$1 млрд в день: разбор рекордного финансового отчета NVIDIA](https://habr.com/ru/companies/selectel/news/1038252/?utm_campaign=1038252&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прислушалась к негативной реакции на навязчивую кнопку Copilot в Office](https://habr.com/ru/news/1038236/?utm_campaign=1038236&utm_source=habrahabr&utm_medium=rss)
 - [Белые хакеры заработали более 23 млн рублей на Standoff Hacks в Китае](https://habr.com/ru/companies/pt/news/1038172/?utm_campaign=1038172&utm_source=habrahabr&utm_medium=rss)
 - [«Абалкинские чтения» впервые об ИТ в медицине: спектральный анализ МЭГ выявил гендерные пики активности мозга](https://habr.com/ru/news/1038098/?utm_campaign=1038098&utm_source=habrahabr&utm_medium=rss)
-- [Selectel разбирает популярные заблуждения о безопасности в облаке](https://habr.com/ru/companies/selectel/news/1038078/?utm_campaign=1038078&utm_source=habrahabr&utm_medium=rss)
-- [OpenClaw на базе DeepSeek сам переписал свой код — и стал работать в 2,4 раза лучше](https://habr.com/ru/news/1038092/?utm_campaign=1038092&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T подала в суд на власти Калифорнии в попытке прекратить предоставление традиционных телефонных услуг](https://habr.com/ru/news/1038082/?utm_campaign=1038082&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
