@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify и Universal Music разрешат фанатские AI-каверы и ремиксы](https://habr.com/ru/companies/era2/news/1038004/?utm_campaign=1038004&utm_source=habrahabr&utm_medium=rss)
+- [Трамп отменил указ о госпроверке ИИ — побоялся проиграть гонку Китаю](https://habr.com/ru/news/1038002/?utm_campaign=1038002&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Red Hat Enterprise Linux 10.2](https://habr.com/ru/news/1037778/?utm_campaign=1037778&utm_source=habrahabr&utm_medium=rss)
+- [18 минут в маркетплейсе VS Code хватило, чтобы взломать GitHub изнутри](https://habr.com/ru/news/1037934/?utm_campaign=1037934&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tails 7.8](https://habr.com/ru/news/1037576/?utm_campaign=1037576&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenBSD 7.9](https://habr.com/ru/news/1037310/?utm_campaign=1037310&utm_source=habrahabr&utm_medium=rss)
-- [ФБР: в 2025 году американцы потеряли более $388 млн из-за мошенничества с криптоматами](https://habr.com/ru/news/1037912/?utm_campaign=1037912&utm_source=habrahabr&utm_medium=rss)
-- [Cursor Composer 2.5 вошел в топ-3 ИИ для кодинга](https://habr.com/ru/news/1037928/?utm_campaign=1037928&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft опенсорснула RAMPART — фреймворк безопасности ИИ-агентов](https://habr.com/ru/news/1037926/?utm_campaign=1037926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
