@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ФСТЭК представила рекомендации по повышению защищённости IT-инфраструктуры от атак типа «отказ в обслуживании»](https://habr.com/ru/news/1038490/?utm_campaign=1038490&utm_source=habrahabr&utm_medium=rss)
+- [Meta* запустила новое приложение Forum, которое работает по модели Reddit](https://habr.com/ru/news/1038486/?utm_campaign=1038486&utm_source=habrahabr&utm_medium=rss)
+- [Sony сократит большую часть работников Bungie и не будет поддерживать разработку Destiny 3](https://habr.com/ru/news/1038472/?utm_campaign=1038472&utm_source=habrahabr&utm_medium=rss)
+- [Corsair начала оснащать ОЗУ чипами памяти от китайской CXMT](https://habr.com/ru/news/1038470/?utm_campaign=1038470&utm_source=habrahabr&utm_medium=rss)
 - [Mythos нашел 10 000 уязвимостей за месяц — open-source мейнтейнеры не успевают чинить](https://habr.com/ru/news/1038458/?utm_campaign=1038458&utm_source=habrahabr&utm_medium=rss)
-- [Сбой The.Hosting и изъятие серверов в Нидерландах](https://habr.com/ru/news/1038444/?utm_campaign=1038444&utm_source=habrahabr&utm_medium=rss)
-- [Японский художник лишился аккаунта Google после загрузки своей манги, поскольку алгоритм принял её за пиратский контент](https://habr.com/ru/news/1038428/?utm_campaign=1038428&utm_source=habrahabr&utm_medium=rss)
-- [Расплата за vibe coding: GitHub добавил ручное одобрение публикаций в npm](https://habr.com/ru/news/1038424/?utm_campaign=1038424&utm_source=habrahabr&utm_medium=rss)
-- [Релиз системы управления контентом WordPress 7.0 «Armstrong»](https://habr.com/ru/news/1037886/?utm_campaign=1037886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
