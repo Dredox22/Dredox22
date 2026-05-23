@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [9 из 10 AI-пилотов в России не доходят до прода. Пять ошибок, которые мы совершили сами…](https://habr.com/ru/companies/alpinadigital/news/1038358/?utm_campaign=1038358&utm_source=habrahabr&utm_medium=rss)
 - [Вышел ONLYOFFICE DocumentServer 9.4.0](https://habr.com/ru/news/1037984/?utm_campaign=1037984&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek уронил цены в 4 раза на свою самую мощную модель. Но есть нюанс](https://habr.com/ru/news/1038342/?utm_campaign=1038342&utm_source=habrahabr&utm_medium=rss)
 - [Сооснователь Anthropic: ИИ может стереть человечество. Но сначала — поможет получить Нобелевку](https://habr.com/ru/news/1038338/?utm_campaign=1038338&utm_source=habrahabr&utm_medium=rss)
 - [Perplexity выложила в open-source Bumblebee: read-only сканер ИИ-окружений для защиты от supply-chain атак](https://habr.com/ru/news/1038324/?utm_campaign=1038324&utm_source=habrahabr&utm_medium=rss)
-- [LLMStart.ru запускает продвинутую программу Deep Agents для разработки сложных ИИ-систем](https://habr.com/ru/companies/llmstart/news/1038320/?utm_campaign=1038320&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
