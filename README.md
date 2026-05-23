@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Тест Тьюринга — игра во вранье, и ИИ в ней очень хорош»: GPT-4.5 прошла расширенный «тест на человека»](https://habr.com/ru/news/1038560/?utm_campaign=1038560&utm_source=habrahabr&utm_medium=rss)
+- [Вице-президент Google предложил пари: ИИ не уничтожит рабочие места](https://habr.com/ru/news/1038544/?utm_campaign=1038544&utm_source=habrahabr&utm_medium=rss)
 - [Вышло мобильное приложение Morse Code — Decode &amp;amp; Chat — мессенджер на азбуке Морзе](https://habr.com/ru/news/1038532/?utm_campaign=1038532&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК представила рекомендации по повышению защищённости IT-инфраструктуры от атак типа «отказ в обслуживании»](https://habr.com/ru/news/1038490/?utm_campaign=1038490&utm_source=habrahabr&utm_medium=rss)
 - [Meta* запустила новое приложение Forum, которое работает по модели Reddit](https://habr.com/ru/news/1038486/?utm_campaign=1038486&utm_source=habrahabr&utm_medium=rss)
-- [Sony сократит большую часть работников Bungie и не будет поддерживать разработку Destiny 3](https://habr.com/ru/news/1038472/?utm_campaign=1038472&utm_source=habrahabr&utm_medium=rss)
-- [Corsair начала оснащать ОЗУ чипами памяти от китайской CXMT](https://habr.com/ru/news/1038470/?utm_campaign=1038470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
