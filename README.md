@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mythos нашел 10 000 уязвимостей за месяц — open-source мейнтейнеры не успевают чинить](https://habr.com/ru/news/1038458/?utm_campaign=1038458&utm_source=habrahabr&utm_medium=rss)
+- [Сбой The.Hosting и изъятие серверов в Нидерландах](https://habr.com/ru/news/1038444/?utm_campaign=1038444&utm_source=habrahabr&utm_medium=rss)
 - [Японский художник лишился аккаунта Google после загрузки своей манги, поскольку алгоритм принял её за пиратский контент](https://habr.com/ru/news/1038428/?utm_campaign=1038428&utm_source=habrahabr&utm_medium=rss)
 - [Расплата за vibe coding: GitHub добавил ручное одобрение публикаций в npm](https://habr.com/ru/news/1038424/?utm_campaign=1038424&utm_source=habrahabr&utm_medium=rss)
 - [Релиз системы управления контентом WordPress 7.0 «Armstrong»](https://habr.com/ru/news/1037886/?utm_campaign=1037886&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент Google Gemini при работе с действующим приложением удалил 30 тысяч строк рабочего кода](https://habr.com/ru/news/1038398/?utm_campaign=1038398&utm_source=habrahabr&utm_medium=rss)
-- [Ключи API Google остаются активными после удаления](https://habr.com/ru/news/1038388/?utm_campaign=1038388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
