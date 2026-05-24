@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Реддитор сделал из неисправного Google Pixel 8 игровую приставку для ретро-игр](https://habr.com/ru/news/1037914/?utm_campaign=1037914&utm_source=habrahabr&utm_medium=rss)
-- [«Тест Тьюринга — игра во вранье, и ИИ в ней очень хорош»: GPT-4.5 прошла расширенный «тест на человека»](https://habr.com/ru/news/1038560/?utm_campaign=1038560&utm_source=habrahabr&utm_medium=rss)
-- [Вице-президент Google предложил пари: ИИ не уничтожит рабочие места](https://habr.com/ru/news/1038544/?utm_campaign=1038544&utm_source=habrahabr&utm_medium=rss)
-- [Вышло мобильное приложение Morse Code — Decode &amp;amp; Chat — мессенджер на азбуке Морзе](https://habr.com/ru/news/1038532/?utm_campaign=1038532&utm_source=habrahabr&utm_medium=rss)
-- [ФСТЭК представила рекомендации по повышению защищённости IT-инфраструктуры от атак типа «отказ в обслуживании»](https://habr.com/ru/news/1038490/?utm_campaign=1038490&utm_source=habrahabr&utm_medium=rss)
+- [Ayaneo представила ретро-консоль в стиле Game Boy с функциями ИИ](https://habr.com/ru/news/1038598/?utm_campaign=1038598&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта Segra 1.5.0 для записи игр на ПК с Windows](https://habr.com/ru/news/1038548/?utm_campaign=1038548&utm_source=habrahabr&utm_medium=rss)
+- [Прокуратура Техаса подала в суд на WhatsApp** из-за заявлений о шифровании и конфиденциальности переписки в мессенджере](https://habr.com/ru/news/1038596/?utm_campaign=1038596&utm_source=habrahabr&utm_medium=rss)
+- [До дня проведения ежегодного игрового шоу «НАШЫ ИГРЫ 2026», осталось одна неделя, &lpar;Москва 30 мая 2026 года&rpar;](https://habr.com/ru/news/1038594/?utm_campaign=1038594&utm_source=habrahabr&utm_medium=rss)
+- [Релиз двухпанельного менеджера файлов GNOME Commander 2.0](https://habr.com/ru/news/1038446/?utm_campaign=1038446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
