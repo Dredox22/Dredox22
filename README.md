@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD &lpar;Xilinx&rpar; исключила Linux из бесплатного уровня доступности для инструмента разработки FPGA](https://habr.com/ru/news/1038636/?utm_campaign=1038636&utm_source=habrahabr&utm_medium=rss)
+- [Специалисты Microsoft ликвидировали платформу signspace[.]cloud, которая использовалась для подписания вирусов](https://habr.com/ru/news/1038634/?utm_campaign=1038634&utm_source=habrahabr&utm_medium=rss)
+- [Античит-обновление Vanguard от Riot Games обвинили в «окирпичивании» ПК](https://habr.com/ru/news/1038630/?utm_campaign=1038630&utm_source=habrahabr&utm_medium=rss)
 - [Ayaneo представила ретро-консоль в стиле Game Boy с функциями ИИ](https://habr.com/ru/news/1038598/?utm_campaign=1038598&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта Segra 1.5.0 для записи игр на ПК с Windows](https://habr.com/ru/news/1038548/?utm_campaign=1038548&utm_source=habrahabr&utm_medium=rss)
-- [Прокуратура Техаса подала в суд на WhatsApp** из-за заявлений о шифровании и конфиденциальности переписки в мессенджере](https://habr.com/ru/news/1038596/?utm_campaign=1038596&utm_source=habrahabr&utm_medium=rss)
-- [До дня проведения ежегодного игрового шоу «НАШЫ ИГРЫ 2026», осталось одна неделя, &lpar;Москва 30 мая 2026 года&rpar;](https://habr.com/ru/news/1038594/?utm_campaign=1038594&utm_source=habrahabr&utm_medium=rss)
-- [Релиз двухпанельного менеджера файлов GNOME Commander 2.0](https://habr.com/ru/news/1038446/?utm_campaign=1038446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
