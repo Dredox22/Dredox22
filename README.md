@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Роскомнадзоре опровергли блокировку DeepSeek](https://habr.com/ru/news/1038740/?utm_campaign=1038740&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek перестал открываться из России](https://habr.com/ru/news/1038734/?utm_campaign=1038734&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA ускорила языковую модель в 4 раза: вышла Nemotron-Labs Diffusion](https://habr.com/ru/news/1038714/?utm_campaign=1038714&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент DeepMind закрыл 9 математических задач. Цена — около $200 на задачу](https://habr.com/ru/news/1038672/?utm_campaign=1038672&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты обнаружили утечку данных из GitHub Агентства по кибербезопасности и защите инфраструктуры США](https://habr.com/ru/news/1038668/?utm_campaign=1038668&utm_source=habrahabr&utm_medium=rss)
-- [«Все, кто внутри, понимают — это фейк»: TechCrunch вскрыл главную уловку AI-индустрии](https://habr.com/ru/news/1038666/?utm_campaign=1038666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
