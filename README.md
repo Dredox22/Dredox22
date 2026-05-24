@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперты обнаружили утечку данных из GitHub Агентства по кибербезопасности и защите инфраструктуры США](https://habr.com/ru/news/1038668/?utm_campaign=1038668&utm_source=habrahabr&utm_medium=rss)
+- [«Все, кто внутри, понимают — это фейк»: TechCrunch вскрыл главную уловку AI-индустрии](https://habr.com/ru/news/1038666/?utm_campaign=1038666&utm_source=habrahabr&utm_medium=rss)
+- [RxJS Ninja 2.0: обновлённый бесплатный курс по RxJS](https://habr.com/ru/news/1038658/?utm_campaign=1038658&utm_source=habrahabr&utm_medium=rss)
+- [Торвальдс рассказал о влиянии ИИ на поиск ошибок в ядре Linux](https://habr.com/ru/news/1038648/?utm_campaign=1038648&utm_source=habrahabr&utm_medium=rss)
 - [AMD &lpar;Xilinx&rpar; исключила Linux из бесплатного уровня доступности для инструмента разработки FPGA](https://habr.com/ru/news/1038636/?utm_campaign=1038636&utm_source=habrahabr&utm_medium=rss)
-- [Специалисты Microsoft ликвидировали платформу signspace[.]cloud, которая использовалась для подписания вирусов](https://habr.com/ru/news/1038634/?utm_campaign=1038634&utm_source=habrahabr&utm_medium=rss)
-- [Античит-обновление Vanguard от Riot Games обвинили в «окирпичивании» ПК](https://habr.com/ru/news/1038630/?utm_campaign=1038630&utm_source=habrahabr&utm_medium=rss)
-- [Ayaneo представила ретро-консоль в стиле Game Boy с функциями ИИ](https://habr.com/ru/news/1038598/?utm_campaign=1038598&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта Segra 1.5.0 для записи игр на ПК с Windows](https://habr.com/ru/news/1038548/?utm_campaign=1038548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
