@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Первый «День ЭРЕМЕКС» в Республике Беларусь](https://habr.com/ru/companies/eremexru/news/1038958/?utm_campaign=1038958&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla исправила сбои Firefox на ПК с Intel Raptor Lake 13-го и 14-го поколений](https://habr.com/ru/news/1038954/?utm_campaign=1038954&utm_source=habrahabr&utm_medium=rss)
-- [Huawei предложила обходной путь к передовым AI-чипам без гонки за нанометрами](https://habr.com/ru/companies/era2/news/1038950/?utm_campaign=1038950&utm_source=habrahabr&utm_medium=rss)
-- [Илон Маск: «Новый Grok обучался на данных Cursor и будет намного лучше в коде»](https://habr.com/ru/news/1038934/?utm_campaign=1038934&utm_source=habrahabr&utm_medium=rss)
-- [Банки и госорганы планируют освободить от платы за массовые звонки](https://habr.com/ru/news/1038928/?utm_campaign=1038928&utm_source=habrahabr&utm_medium=rss)
+- [В Китае собрались ставить на учёт всех человекоподобных роботов](https://habr.com/ru/news/1039134/?utm_campaign=1039134&utm_source=habrahabr&utm_medium=rss)
+- [Спутниковая связь Starlink стала доступна в Кыргызстане](https://habr.com/ru/news/1039138/?utm_campaign=1039138&utm_source=habrahabr&utm_medium=rss)
+- [Один из разработчиков Anthropic перед свадьбой закинул в Claude 12 лет переписки с будущей женой и попросил сделать сайт](https://habr.com/ru/news/1039114/?utm_campaign=1039114&utm_source=habrahabr&utm_medium=rss)
+- [Цены на электронику в США резко возросли из‑за ИИ — модули оперативной памяти подорожали вдвое](https://habr.com/ru/news/1039112/?utm_campaign=1039112&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla представляет втроенный в браузер VPN и 50ГБ трафика в месяц бесплатно](https://habr.com/ru/news/1039110/?utm_campaign=1039110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
