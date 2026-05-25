@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google обновил иконки Workspace и не предупредил](https://habr.com/ru/news/1038822/?utm_campaign=1038822&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI готовится к рекордному IPO на $1 трлн: Альтман продавил S-1 без согласия CFO](https://habr.com/ru/news/1038810/?utm_campaign=1038810&utm_source=habrahabr&utm_medium=rss)
-- [Mountain| Первый деплой, исправление ошибок и начало тестирования](https://habr.com/ru/news/1038806/?utm_campaign=1038806&utm_source=habrahabr&utm_medium=rss)
-- [В Роскомнадзоре опровергли блокировку DeepSeek](https://habr.com/ru/news/1038740/?utm_campaign=1038740&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek перестал открываться из России](https://habr.com/ru/news/1038734/?utm_campaign=1038734&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи при помощи ИИ воссоздали переговоры погибших в авиакатастрофе пилотов](https://habr.com/ru/news/1038844/?utm_campaign=1038844&utm_source=habrahabr&utm_medium=rss)
+- [Epic Games представила Unreal Engine 6](https://habr.com/ru/news/1038842/?utm_campaign=1038842&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск дистрибутива TileOS 2.0 &lpar;Sauropod&rpar;](https://habr.com/ru/news/1038638/?utm_campaign=1038638&utm_source=habrahabr&utm_medium=rss)
+- [AI-чипы на свете не умели «думать» без электроники. Физики из Penn это исправили](https://habr.com/ru/news/1038814/?utm_campaign=1038814&utm_source=habrahabr&utm_medium=rss)
+- [Представлен порт ретрошутера Blood в браузере](https://habr.com/ru/news/1038836/?utm_campaign=1038836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
