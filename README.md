@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei показала, как делать чипы уровня 1.4 нм без современной литографии](https://habr.com/ru/news/1039304/?utm_campaign=1039304&utm_source=habrahabr&utm_medium=rss)
 - [Canonical закрывает Ubuntu Pastebin после 18 лет работы](https://habr.com/ru/news/1039238/?utm_campaign=1039238&utm_source=habrahabr&utm_medium=rss)
 - [Cloud.ru на ЦИПР-2026: мультиоблако с ведущими провайдерами рынка, ИИ в авиации, автопроме и страховании](https://habr.com/ru/companies/cloud_ru/news/1039176/?utm_campaign=1039176&utm_source=habrahabr&utm_medium=rss)
 - [Tokenmaxxing трещит: президент Uber усомнился в окупаемости AI](https://habr.com/ru/news/1039194/?utm_campaign=1039194&utm_source=habrahabr&utm_medium=rss)
 - [Google не успела обновить ПО для работы фитнес-браслетов Fitbit Air без дисплея и с подпиской](https://habr.com/ru/news/1039156/?utm_campaign=1039156&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила экстренные обновления безопасности для Windows из-за двух уязвимостей](https://habr.com/ru/news/1039150/?utm_campaign=1039150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
