@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Китае собрались ставить на учёт всех человекоподобных роботов](https://habr.com/ru/news/1039134/?utm_campaign=1039134&utm_source=habrahabr&utm_medium=rss)
-- [Спутниковая связь Starlink стала доступна в Кыргызстане](https://habr.com/ru/news/1039138/?utm_campaign=1039138&utm_source=habrahabr&utm_medium=rss)
-- [Один из разработчиков Anthropic перед свадьбой закинул в Claude 12 лет переписки с будущей женой и попросил сделать сайт](https://habr.com/ru/news/1039114/?utm_campaign=1039114&utm_source=habrahabr&utm_medium=rss)
-- [Цены на электронику в США резко возросли из‑за ИИ — модули оперативной памяти подорожали вдвое](https://habr.com/ru/news/1039112/?utm_campaign=1039112&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla представляет втроенный в браузер VPN и 50ГБ трафика в месяц бесплатно](https://habr.com/ru/news/1039110/?utm_campaign=1039110&utm_source=habrahabr&utm_medium=rss)
+- [Canonical закрывает Ubuntu Pastebin после 18 лет работы](https://habr.com/ru/news/1039238/?utm_campaign=1039238&utm_source=habrahabr&utm_medium=rss)
+- [Cloud.ru на ЦИПР-2026: мультиоблако с ведущими провайдерами рынка, ИИ в авиации, автопроме и страховании](https://habr.com/ru/companies/cloud_ru/news/1039176/?utm_campaign=1039176&utm_source=habrahabr&utm_medium=rss)
+- [Tokenmaxxing трещит: президент Uber усомнился в окупаемости AI](https://habr.com/ru/news/1039194/?utm_campaign=1039194&utm_source=habrahabr&utm_medium=rss)
+- [Google не успела обновить ПО для работы фитнес-браслетов Fitbit Air без дисплея и с подпиской](https://habr.com/ru/news/1039156/?utm_campaign=1039156&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила экстренные обновления безопасности для Windows из-за двух уязвимостей](https://habr.com/ru/news/1039150/?utm_campaign=1039150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
