@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пользователи при помощи ИИ воссоздали переговоры погибших в авиакатастрофе пилотов](https://habr.com/ru/news/1038844/?utm_campaign=1038844&utm_source=habrahabr&utm_medium=rss)
-- [Epic Games представила Unreal Engine 6](https://habr.com/ru/news/1038842/?utm_campaign=1038842&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск дистрибутива TileOS 2.0 &lpar;Sauropod&rpar;](https://habr.com/ru/news/1038638/?utm_campaign=1038638&utm_source=habrahabr&utm_medium=rss)
-- [AI-чипы на свете не умели «думать» без электроники. Физики из Penn это исправили](https://habr.com/ru/news/1038814/?utm_campaign=1038814&utm_source=habrahabr&utm_medium=rss)
-- [Представлен порт ретрошутера Blood в браузере](https://habr.com/ru/news/1038836/?utm_campaign=1038836&utm_source=habrahabr&utm_medium=rss)
+- [Первый «День ЭРЕМЕКС» в Республике Беларусь](https://habr.com/ru/companies/eremexru/news/1038958/?utm_campaign=1038958&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla исправила сбои Firefox на ПК с Intel Raptor Lake 13-го и 14-го поколений](https://habr.com/ru/news/1038954/?utm_campaign=1038954&utm_source=habrahabr&utm_medium=rss)
+- [Huawei предложила обходной путь к передовым AI-чипам без гонки за нанометрами](https://habr.com/ru/companies/era2/news/1038950/?utm_campaign=1038950&utm_source=habrahabr&utm_medium=rss)
+- [Илон Маск: «Новый Grok обучался на данных Cursor и будет намного лучше в коде»](https://habr.com/ru/news/1038934/?utm_campaign=1038934&utm_source=habrahabr&utm_medium=rss)
+- [Банки и госорганы планируют освободить от платы за массовые звонки](https://habr.com/ru/news/1038928/?utm_campaign=1038928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
