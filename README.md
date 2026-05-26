@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: РКН выписал штрафы 85 операторам связи за непредоставление IP-адресов абонентов для предотвращения DDoS-атак](https://habr.com/ru/news/1039350/?utm_campaign=1039350&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман посоветовал Маску топить серверы в океане, а не запускать в космос](https://habr.com/ru/news/1039326/?utm_campaign=1039326&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для работы с MKV-файлами MKVToolNix 99.0](https://habr.com/ru/news/1039118/?utm_campaign=1039118&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft признала, что одна из базовых и полезных функций Outlook не работает](https://habr.com/ru/news/1038756/?utm_campaign=1038756&utm_source=habrahabr&utm_medium=rss)
-- [«Можете называть это DeepSeek Code»: китайская компания готовит клон Claude Code](https://habr.com/ru/news/1039322/?utm_campaign=1039322&utm_source=habrahabr&utm_medium=rss)
+- [2ГИС адаптировал приложение для незрячих и слабовидящих пользователей](https://habr.com/ru/news/1039492/?utm_campaign=1039492&utm_source=habrahabr&utm_medium=rss)
+- [Fix Price начинает внедрять собственный ИИ-сервис для контроля ценников и выкладки товаров](https://habr.com/ru/companies/fix_price/news/1039484/?utm_campaign=1039484&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft попросила издателей не блокировать ботов с ИИ](https://habr.com/ru/news/1039478/?utm_campaign=1039478&utm_source=habrahabr&utm_medium=rss)
+- [Yandex B2B Tech запустит ИИ-сервис для создания сайтов и веб-приложений без разработки](https://habr.com/ru/news/1039470/?utm_campaign=1039470&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление дистрибутива MX Linux 25.2 &lpar;Infinity&rpar; на базе Debian 13.5 и Linux 6.12](https://habr.com/ru/news/1038930/?utm_campaign=1038930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
