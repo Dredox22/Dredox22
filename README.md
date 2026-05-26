@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [2ГИС адаптировал приложение для незрячих и слабовидящих пользователей](https://habr.com/ru/news/1039492/?utm_campaign=1039492&utm_source=habrahabr&utm_medium=rss)
-- [Fix Price начинает внедрять собственный ИИ-сервис для контроля ценников и выкладки товаров](https://habr.com/ru/companies/fix_price/news/1039484/?utm_campaign=1039484&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft попросила издателей не блокировать ботов с ИИ](https://habr.com/ru/news/1039478/?utm_campaign=1039478&utm_source=habrahabr&utm_medium=rss)
-- [Yandex B2B Tech запустит ИИ-сервис для создания сайтов и веб-приложений без разработки](https://habr.com/ru/news/1039470/?utm_campaign=1039470&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление дистрибутива MX Linux 25.2 &lpar;Infinity&rpar; на базе Debian 13.5 и Linux 6.12](https://habr.com/ru/news/1038930/?utm_campaign=1038930&utm_source=habrahabr&utm_medium=rss)
+- [В MySQL закрыли 20-летний баг: его нашли в 2005 году, но очень долго не исправляли](https://habr.com/ru/news/1039752/?utm_campaign=1039752&utm_source=habrahabr&utm_medium=rss)
+- [Более 134 тысяч камер и нейросеть будут следить за проведением ЕГЭ-2026](https://habr.com/ru/companies/era2/news/1039682/?utm_campaign=1039682&utm_source=habrahabr&utm_medium=rss)
+- [Ограниченная модель Claude Mythos от Anthropic может появиться в Claude Code](https://habr.com/ru/news/1039626/?utm_campaign=1039626&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст обошёл аутентификацию AWS API Gateway через завершающий слеш](https://habr.com/ru/news/1039606/?utm_campaign=1039606&utm_source=habrahabr&utm_medium=rss)
+- [«Больше никто не читает книги по программированию»: разработчики выбирают для обучения чат-ботов и другие источники](https://habr.com/ru/news/1039600/?utm_campaign=1039600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
