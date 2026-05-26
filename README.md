@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Британская «красная команда» взломала ChatGPT за 6 часов — а полномочий у нее ноль](https://habr.com/ru/news/1039838/?utm_campaign=1039838&utm_source=habrahabr&utm_medium=rss)
 - [«Невыездные» из-за ИИ: топ-менеджерам Alibaba и DeepSeek закрыли свободный выезд](https://habr.com/ru/news/1039808/?utm_campaign=1039808&utm_source=habrahabr&utm_medium=rss)
 - [В MySQL закрыли 20-летний баг: его нашли в 2005 году, но очень долго не исправляли](https://habr.com/ru/news/1039752/?utm_campaign=1039752&utm_source=habrahabr&utm_medium=rss)
 - [Более 134 тысяч камер и нейросеть будут следить за проведением ЕГЭ-2026](https://habr.com/ru/companies/era2/news/1039682/?utm_campaign=1039682&utm_source=habrahabr&utm_medium=rss)
 - [Ограниченная модель Claude Mythos от Anthropic может появиться в Claude Code](https://habr.com/ru/news/1039626/?utm_campaign=1039626&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст обошёл аутентификацию AWS API Gateway через завершающий слеш](https://habr.com/ru/news/1039606/?utm_campaign=1039606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
