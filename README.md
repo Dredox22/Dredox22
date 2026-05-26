@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft признала, что одна из базовых и полезных функций Outlook не работает](https://habr.com/ru/news/1038756/?utm_campaign=1038756&utm_source=habrahabr&utm_medium=rss)
 - [«Можете называть это DeepSeek Code»: китайская компания готовит клон Claude Code](https://habr.com/ru/news/1039322/?utm_campaign=1039322&utm_source=habrahabr&utm_medium=rss)
 - [В России запустили бесплатный сервис для проверки дипфейков](https://habr.com/ru/companies/era2/news/1039314/?utm_campaign=1039314&utm_source=habrahabr&utm_medium=rss)
 - [Huawei показала, как делать чипы уровня 1.4 нм без современной литографии](https://habr.com/ru/news/1039304/?utm_campaign=1039304&utm_source=habrahabr&utm_medium=rss)
 - [Canonical закрывает Ubuntu Pastebin после 18 лет работы](https://habr.com/ru/news/1039238/?utm_campaign=1039238&utm_source=habrahabr&utm_medium=rss)
-- [Cloud.ru на ЦИПР-2026: мультиоблако с ведущими провайдерами рынка, ИИ в авиации, автопроме и страховании](https://habr.com/ru/companies/cloud_ru/news/1039176/?utm_campaign=1039176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
