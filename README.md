@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: РКН выписал штрафы 85 операторам связи за непредоставление IP-адресов абонентов для предотвращения DDoS-атак](https://habr.com/ru/news/1039350/?utm_campaign=1039350&utm_source=habrahabr&utm_medium=rss)
+- [Сэм Альтман посоветовал Маску топить серверы в океане, а не запускать в космос](https://habr.com/ru/news/1039326/?utm_campaign=1039326&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для работы с MKV-файлами MKVToolNix 99.0](https://habr.com/ru/news/1039118/?utm_campaign=1039118&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft признала, что одна из базовых и полезных функций Outlook не работает](https://habr.com/ru/news/1038756/?utm_campaign=1038756&utm_source=habrahabr&utm_medium=rss)
 - [«Можете называть это DeepSeek Code»: китайская компания готовит клон Claude Code](https://habr.com/ru/news/1039322/?utm_campaign=1039322&utm_source=habrahabr&utm_medium=rss)
-- [В России запустили бесплатный сервис для проверки дипфейков](https://habr.com/ru/companies/era2/news/1039314/?utm_campaign=1039314&utm_source=habrahabr&utm_medium=rss)
-- [Huawei показала, как делать чипы уровня 1.4 нм без современной литографии](https://habr.com/ru/news/1039304/?utm_campaign=1039304&utm_source=habrahabr&utm_medium=rss)
-- [Canonical закрывает Ubuntu Pastebin после 18 лет работы](https://habr.com/ru/news/1039238/?utm_campaign=1039238&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
