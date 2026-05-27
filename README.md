@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Axoft: «Перспектус» — ИБ-каркас для бизнеса на базе решений «Солара» и «Инферит Техника»](https://habr.com/ru/companies/solarsecurity/news/1039944/?utm_campaign=1039944&utm_source=habrahabr&utm_medium=rss)
-- [«Opus 4.7 подсматривает ответы!»: Datacurve раскритиковала бенчмарк SWE-Bench Pro — и выпустила свой](https://habr.com/ru/news/1039932/?utm_campaign=1039932&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве ИТ и ИБ за апрель 2026 года](https://habr.com/ru/companies/ussc/news/1039930/?utm_campaign=1039930&utm_source=habrahabr&utm_medium=rss)
-- [Китай ограничил зарубежные поездки сотрудникам частных ИИ-компаний](https://habr.com/ru/news/1039914/?utm_campaign=1039914&utm_source=habrahabr&utm_medium=rss)
-- [Joomla 6.1.1 и Joomla 5.4.6 — релизы безопасности](https://habr.com/ru/news/1039912/?utm_campaign=1039912&utm_source=habrahabr&utm_medium=rss)
+- [American Airlines будет использовать Wi-Fi от Starlink на борту](https://habr.com/ru/news/1040148/?utm_campaign=1040148&utm_source=habrahabr&utm_medium=rss)
+- [28 мая, 11:00 МСК — вебинар о новинках InfoWatch](https://habr.com/ru/companies/infowatch/news/1040134/?utm_campaign=1040134&utm_source=habrahabr&utm_medium=rss)
+- [Умные очки как средство поиска человека, автомобиля, собаки или чего угодно](https://habr.com/ru/companies/speclab/news/1040130/?utm_campaign=1040130&utm_source=habrahabr&utm_medium=rss)
+- [Чек-лист для оценки безопасности навыков AI-агентов](https://habr.com/ru/companies/swordfish_security/news/1040126/?utm_campaign=1040126&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила PICO — нейросетевой кодек для оптимизированного сжатия изображений](https://habr.com/ru/news/1040118/?utm_campaign=1040118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
