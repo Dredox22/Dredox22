@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С 25% до 86% за шесть недель: OpenAI запустила самообучающегося налогового агента на Codex](https://habr.com/ru/news/1040338/?utm_campaign=1040338&utm_source=habrahabr&utm_medium=rss)
+- [Релиз AlmaLinux 10.2](https://habr.com/ru/news/1039788/?utm_campaign=1039788&utm_source=habrahabr&utm_medium=rss)
 - [«Гравитон» первым внес в реестр Минпромторга РФ комплект периферии на базе российских микроконтроллеров](https://habr.com/ru/companies/graviton/news/1040262/?utm_campaign=1040262&utm_source=habrahabr&utm_medium=rss)
 - [Находит кандидаты в лекарства за десятки секунд: Китай запустил ИИ GalaxyVS на суперкомпьютерах Tianhe](https://habr.com/ru/news/1040242/?utm_campaign=1040242&utm_source=habrahabr&utm_medium=rss)
 - [Как распределить ресурсы, когда их вечно не хватает? Приходи на Ресурсный батл в Петербурге](https://habr.com/ru/companies/infotecs_tech/news/1040180/?utm_campaign=1040180&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 обнаружили способ удаления Copilot с компьютера](https://habr.com/ru/news/1040178/?utm_campaign=1040178&utm_source=habrahabr&utm_medium=rss)
-- [Суд в Москве оштрафовал Telegram в третий раз за месяц](https://habr.com/ru/news/1040176/?utm_campaign=1040176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
