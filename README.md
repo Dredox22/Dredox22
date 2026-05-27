@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Rhino Linux 2026.1](https://habr.com/ru/news/1039230/?utm_campaign=1039230&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft признала, что выделенная клавиша Copilot была не лучшей идеей: теперь её можно будет переназначить](https://habr.com/ru/news/1039844/?utm_campaign=1039844&utm_source=habrahabr&utm_medium=rss)
-- [Один Claude пишет, другой проверяет: в Claude Code появился поиск уязвимостей в реальном времени](https://habr.com/ru/news/1039840/?utm_campaign=1039840&utm_source=habrahabr&utm_medium=rss)
-- [Британская «красная команда» взломала ChatGPT за 6 часов — а полномочий у нее ноль](https://habr.com/ru/news/1039838/?utm_campaign=1039838&utm_source=habrahabr&utm_medium=rss)
-- [«Невыездные» из-за ИИ: топ-менеджерам Alibaba и DeepSeek закрыли свободный выезд](https://habr.com/ru/news/1039808/?utm_campaign=1039808&utm_source=habrahabr&utm_medium=rss)
+- [Axoft: «Перспектус» — ИБ-каркас для бизнеса на базе решений «Солара» и «Инферит Техника»](https://habr.com/ru/companies/solarsecurity/news/1039944/?utm_campaign=1039944&utm_source=habrahabr&utm_medium=rss)
+- [«Opus 4.7 подсматривает ответы!»: Datacurve раскритиковала бенчмарк SWE-Bench Pro — и выпустила свой](https://habr.com/ru/news/1039932/?utm_campaign=1039932&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве ИТ и ИБ за апрель 2026 года](https://habr.com/ru/companies/ussc/news/1039930/?utm_campaign=1039930&utm_source=habrahabr&utm_medium=rss)
+- [Китай ограничил зарубежные поездки сотрудникам частных ИИ-компаний](https://habr.com/ru/news/1039914/?utm_campaign=1039914&utm_source=habrahabr&utm_medium=rss)
+- [Joomla 6.1.1 и Joomla 5.4.6 — релизы безопасности](https://habr.com/ru/news/1039912/?utm_campaign=1039912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
