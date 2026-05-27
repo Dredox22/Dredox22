@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [American Airlines будет использовать Wi-Fi от Starlink на борту](https://habr.com/ru/news/1040148/?utm_campaign=1040148&utm_source=habrahabr&utm_medium=rss)
-- [28 мая, 11:00 МСК — вебинар о новинках InfoWatch](https://habr.com/ru/companies/infowatch/news/1040134/?utm_campaign=1040134&utm_source=habrahabr&utm_medium=rss)
-- [Умные очки как средство поиска человека, автомобиля, собаки или чего угодно](https://habr.com/ru/companies/speclab/news/1040130/?utm_campaign=1040130&utm_source=habrahabr&utm_medium=rss)
-- [Чек-лист для оценки безопасности навыков AI-агентов](https://habr.com/ru/companies/swordfish_security/news/1040126/?utm_campaign=1040126&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила PICO — нейросетевой кодек для оптимизированного сжатия изображений](https://habr.com/ru/news/1040118/?utm_campaign=1040118&utm_source=habrahabr&utm_medium=rss)
+- [«Гравитон» первым внес в реестр Минпромторга РФ комплект периферии на базе российских микроконтроллеров](https://habr.com/ru/companies/graviton/news/1040262/?utm_campaign=1040262&utm_source=habrahabr&utm_medium=rss)
+- [Находит кандидаты в лекарства за десятки секунд: Китай запустил ИИ GalaxyVS на суперкомпьютерах Tianhe](https://habr.com/ru/news/1040242/?utm_campaign=1040242&utm_source=habrahabr&utm_medium=rss)
+- [Как распределить ресурсы, когда их вечно не хватает? Приходи на Ресурсный батл в Петербурге](https://habr.com/ru/companies/infotecs_tech/news/1040180/?utm_campaign=1040180&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 обнаружили способ удаления Copilot с компьютера](https://habr.com/ru/news/1040178/?utm_campaign=1040178&utm_source=habrahabr&utm_medium=rss)
+- [Суд в Москве оштрафовал Telegram в третий раз за месяц](https://habr.com/ru/news/1040176/?utm_campaign=1040176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
