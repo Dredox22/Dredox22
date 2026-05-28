@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление инструмента мониторинга HWiNFO 8.47](https://habr.com/ru/news/1040028/?utm_campaign=1040028&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi 6 выйдет не раньше 2028 года и, вероятно, не получит NPU](https://habr.com/ru/news/1040374/?utm_campaign=1040374&utm_source=habrahabr&utm_medium=rss)
-- [Cursor сократил 18-месячную миграцию Faire до одного инженера с флотом ИИ-агентов](https://habr.com/ru/news/1040362/?utm_campaign=1040362&utm_source=habrahabr&utm_medium=rss)
-- [В голосовых каналах Discord появится поддержка пространственного звука](https://habr.com/ru/news/1040344/?utm_campaign=1040344&utm_source=habrahabr&utm_medium=rss)
-- [С 25% до 86% за шесть недель: OpenAI запустила самообучающегося налогового агента на Codex](https://habr.com/ru/news/1040338/?utm_campaign=1040338&utm_source=habrahabr&utm_medium=rss)
+- [Глава «ЭР-Телеком Холдинга» к 25-летию компании рассказал о тенденциях и проблемах в телекоммуникационной отрасли](https://habr.com/ru/news/1040440/?utm_campaign=1040440&utm_source=habrahabr&utm_medium=rss)
+- [Lenovo выпустила гаджет для детей с ИИ и GPS](https://habr.com/ru/news/1040418/?utm_campaign=1040418&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Itera в 1000 раз ускорил протипирование печатных плат с помощью жидкого металла](https://habr.com/ru/news/1040416/?utm_campaign=1040416&utm_source=habrahabr&utm_medium=rss)
+- [Спустя 37 лет после начала проекта завершена разработка культовой головоломки-платформера Head Over Heels](https://habr.com/ru/news/1040414/?utm_campaign=1040414&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Cozystack 1.4, открытой PaaS-платформы на базе K8s: новый UI, бэкапы БД и другие изменения](https://habr.com/ru/companies/aenix/news/1040386/?utm_campaign=1040386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
