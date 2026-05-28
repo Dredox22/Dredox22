@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Баг в Windows Server 2016 нарушает поиск контроллера домена длинных имён хостов](https://habr.com/ru/news/1040740/?utm_campaign=1040740&utm_source=habrahabr&utm_medium=rss)
-- [В каталоге готовых моделей Selectel появились модели для распознавания речи](https://habr.com/ru/companies/selectel/news/1040688/?utm_campaign=1040688&utm_source=habrahabr&utm_medium=rss)
-- [Как проверить алгоритм связи на реальном эфире без прошивки и долгой возни с железом](https://habr.com/ru/companies/etmc_exponenta/news/1040696/?utm_campaign=1040696&utm_source=habrahabr&utm_medium=rss)
-- [Подождите, у AI-агентов теперь будет свой DNS?](https://habr.com/ru/companies/ideco/news/1040672/?utm_campaign=1040672&utm_source=habrahabr&utm_medium=rss)
-- [«Живые ученые заканчиваются»: зачем Япония строит лабораторию на 2000 роботов](https://habr.com/ru/news/1040644/?utm_campaign=1040644&utm_source=habrahabr&utm_medium=rss)
+- [echo hello-world | ai](https://habr.com/ru/news/1040852/?utm_campaign=1040852&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустили Opus 4.8: в 4 раза меньше незамеченных багов и fast mode в 3 раза дешевле](https://habr.com/ru/news/1040832/?utm_campaign=1040832&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Claude Opus 4.8 — модель в 4 раза реже пропускает свои же баги](https://habr.com/ru/news/1040830/?utm_campaign=1040830&utm_source=habrahabr&utm_medium=rss)
+- [Opus 4.8 появился в выборе моделей Claude Code в десктопном приложении](https://habr.com/ru/news/1040810/?utm_campaign=1040810&utm_source=habrahabr&utm_medium=rss)
+- [Отчёт Cursor: только 1% разработчиков пишет в 46 раз больше кода](https://habr.com/ru/news/1040800/?utm_campaign=1040800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
