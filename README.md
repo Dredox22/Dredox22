@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление инструмента мониторинга HWiNFO 8.47](https://habr.com/ru/news/1040028/?utm_campaign=1040028&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi 6 выйдет не раньше 2028 года и, вероятно, не получит NPU](https://habr.com/ru/news/1040374/?utm_campaign=1040374&utm_source=habrahabr&utm_medium=rss)
 - [Cursor сократил 18-месячную миграцию Faire до одного инженера с флотом ИИ-агентов](https://habr.com/ru/news/1040362/?utm_campaign=1040362&utm_source=habrahabr&utm_medium=rss)
 - [В голосовых каналах Discord появится поддержка пространственного звука](https://habr.com/ru/news/1040344/?utm_campaign=1040344&utm_source=habrahabr&utm_medium=rss)
 - [С 25% до 86% за шесть недель: OpenAI запустила самообучающегося налогового агента на Codex](https://habr.com/ru/news/1040338/?utm_campaign=1040338&utm_source=habrahabr&utm_medium=rss)
-- [Релиз AlmaLinux 10.2](https://habr.com/ru/news/1039788/?utm_campaign=1039788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
