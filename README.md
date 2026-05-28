@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Mythos выйдет в ближайшие недели — модель круче Opus наконец-то откроют для всех](https://habr.com/ru/news/1040894/?utm_campaign=1040894&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic уже почти триллионная компания](https://habr.com/ru/news/1040880/?utm_campaign=1040880&utm_source=habrahabr&utm_medium=rss)
 - [Погнали: -50% на Veai, а Opus 4.8 уже внутри](https://habr.com/ru/companies/veai/news/1040876/?utm_campaign=1040876&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code научился запускать сотни ИИ-агентов — и за дни закрывать задачи, на которые раньше уходил квартал](https://habr.com/ru/news/1040860/?utm_campaign=1040860&utm_source=habrahabr&utm_medium=rss)
 - [echo hello-world | ai](https://habr.com/ru/news/1040852/?utm_campaign=1040852&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустили Opus 4.8: в 4 раза меньше незамеченных багов и fast mode в 3 раза дешевле](https://habr.com/ru/news/1040832/?utm_campaign=1040832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
