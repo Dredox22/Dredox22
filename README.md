@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Глава «ЭР-Телеком Холдинга» к 25-летию компании рассказал о тенденциях и проблемах в телекоммуникационной отрасли](https://habr.com/ru/news/1040440/?utm_campaign=1040440&utm_source=habrahabr&utm_medium=rss)
-- [Lenovo выпустила гаджет для детей с ИИ и GPS](https://habr.com/ru/news/1040418/?utm_campaign=1040418&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Itera в 1000 раз ускорил протипирование печатных плат с помощью жидкого металла](https://habr.com/ru/news/1040416/?utm_campaign=1040416&utm_source=habrahabr&utm_medium=rss)
-- [Спустя 37 лет после начала проекта завершена разработка культовой головоломки-платформера Head Over Heels](https://habr.com/ru/news/1040414/?utm_campaign=1040414&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Cozystack 1.4, открытой PaaS-платформы на базе K8s: новый UI, бэкапы БД и другие изменения](https://habr.com/ru/companies/aenix/news/1040386/?utm_campaign=1040386&utm_source=habrahabr&utm_medium=rss)
+- [Meta* запустила подписки на Instagram**, Facebook** и WhatsApp** и тестирует подписки на чат-боты с ИИ](https://habr.com/ru/news/1040608/?utm_campaign=1040608&utm_source=habrahabr&utm_medium=rss)
+- [Веб-сайты начали шпионить за посетителями через анализ активности их SSD](https://habr.com/ru/news/1040574/?utm_campaign=1040574&utm_source=habrahabr&utm_medium=rss)
+- [IBM вложит $5 млрд в безопасность open-source ПО](https://habr.com/ru/news/1040572/?utm_campaign=1040572&utm_source=habrahabr&utm_medium=rss)
+- [Расследование Reuters: сотрудники, обучавшие FSD Tesla, не доверяют ни системе, ни её статистике безопасности](https://habr.com/ru/news/1040566/?utm_campaign=1040566&utm_source=habrahabr&utm_medium=rss)
+- [«Два года не увеличиваем количество инженеров»: глава Salesforce — об эффекте ИИ](https://habr.com/ru/news/1040560/?utm_campaign=1040560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
