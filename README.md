@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta* запустила подписки на Instagram**, Facebook** и WhatsApp** и тестирует подписки на чат-боты с ИИ](https://habr.com/ru/news/1040608/?utm_campaign=1040608&utm_source=habrahabr&utm_medium=rss)
-- [Веб-сайты начали шпионить за посетителями через анализ активности их SSD](https://habr.com/ru/news/1040574/?utm_campaign=1040574&utm_source=habrahabr&utm_medium=rss)
-- [IBM вложит $5 млрд в безопасность open-source ПО](https://habr.com/ru/news/1040572/?utm_campaign=1040572&utm_source=habrahabr&utm_medium=rss)
-- [Расследование Reuters: сотрудники, обучавшие FSD Tesla, не доверяют ни системе, ни её статистике безопасности](https://habr.com/ru/news/1040566/?utm_campaign=1040566&utm_source=habrahabr&utm_medium=rss)
-- [«Два года не увеличиваем количество инженеров»: глава Salesforce — об эффекте ИИ](https://habr.com/ru/news/1040560/?utm_campaign=1040560&utm_source=habrahabr&utm_medium=rss)
+- [Баг в Windows Server 2016 нарушает поиск контроллера домена длинных имён хостов](https://habr.com/ru/news/1040740/?utm_campaign=1040740&utm_source=habrahabr&utm_medium=rss)
+- [В каталоге готовых моделей Selectel появились модели для распознавания речи](https://habr.com/ru/companies/selectel/news/1040688/?utm_campaign=1040688&utm_source=habrahabr&utm_medium=rss)
+- [Как проверить алгоритм связи на реальном эфире без прошивки и долгой возни с железом](https://habr.com/ru/companies/etmc_exponenta/news/1040696/?utm_campaign=1040696&utm_source=habrahabr&utm_medium=rss)
+- [Подождите, у AI-агентов теперь будет свой DNS?](https://habr.com/ru/companies/ideco/news/1040672/?utm_campaign=1040672&utm_source=habrahabr&utm_medium=rss)
+- [«Живые ученые заканчиваются»: зачем Япония строит лабораторию на 2000 роботов](https://habr.com/ru/news/1040644/?utm_campaign=1040644&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
