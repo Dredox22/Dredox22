@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust 1.96 вышел: новые range-типы, удобные assert-матчи и важное изменение для WebAssembly](https://habr.com/ru/news/1041338/?utm_campaign=1041338&utm_source=habrahabr&utm_medium=rss)
+- [В бета-версии Telegram 12.8 для iOS появилось больше возможностей редактирования текста](https://habr.com/ru/news/1041318/?utm_campaign=1041318&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики QEMU обдумывают смягчение запрета на патчи, созданные при помощи ИИ](https://habr.com/ru/news/1041302/?utm_campaign=1041302&utm_source=habrahabr&utm_medium=rss)
 - [GitHub и GitLab заблокировали и удалили аккаунт исследователя после публикации PoC для продуктов Microsoft](https://habr.com/ru/news/1041260/?utm_campaign=1041260&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует в Windows 11 опцию совместного прослушивания аудио через две пары Bluetooth-наушников одновременно](https://habr.com/ru/news/1041230/?utm_campaign=1041230&utm_source=habrahabr&utm_medium=rss)
-- [СМИ:«Минпромторг оштрафовал разработчика на 123 млн рублей за срыв импортозамещённого аналога чипов Analog Devices»](https://habr.com/ru/news/1041198/?utm_campaign=1041198&utm_source=habrahabr&utm_medium=rss)
-- [«КуйбышевАзот» расширил автоматизацию ключевых процессов на базе решений 1С](https://habr.com/ru/companies/k2tech/news/1041220/?utm_campaign=1041220&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
