@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Три подразделения, три правды. Куда уходит ИТ-бюджет и при чём тут ITAM](https://habr.com/ru/companies/simpleone/news/1040976/?utm_campaign=1040976&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появились пешие маршруты под разные ситуации](https://habr.com/ru/news/1040964/?utm_campaign=1040964&utm_source=habrahabr&utm_medium=rss)
-- [Что смотрели и оценивали на PyCon Russia 2025: лучшие доклады по версии участников и YouTube](https://habr.com/ru/news/1040962/?utm_campaign=1040962&utm_source=habrahabr&utm_medium=rss)
-- [Тяжёлая ракета New Glenn компании Blue Origin взорвалась во время испытаний силовой установки](https://habr.com/ru/news/1040958/?utm_campaign=1040958&utm_source=habrahabr&utm_medium=rss)
-- [В SQLite появился форум для сообщений об ошибках, генерируемых ИИ](https://habr.com/ru/news/1040946/?utm_campaign=1040946&utm_source=habrahabr&utm_medium=rss)
+- [IBM и Red Hat представили проект Lightwell для повышении безопасности открытого ПО](https://habr.com/ru/news/1041148/?utm_campaign=1041148&utm_source=habrahabr&utm_medium=rss)
+- [Selectel добавил модели для генерации эмбеддингов в Foundation Models Catalog](https://habr.com/ru/companies/selectel/news/1041136/?utm_campaign=1041136&utm_source=habrahabr&utm_medium=rss)
+- [ИИ помог Папе Римскому написать манифест об опасности ИИ. Исследователи подозревают Claude](https://habr.com/ru/news/1041134/?utm_campaign=1041134&utm_source=habrahabr&utm_medium=rss)
+- [Токен как баррель нефти: Китай строит рынок фьючерсов на ИИ](https://habr.com/ru/news/1041092/?utm_campaign=1041092&utm_source=habrahabr&utm_medium=rss)
+- [AWS обновила OpenSearch Serverless под AI-агентов](https://habr.com/ru/news/1041084/?utm_campaign=1041084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
