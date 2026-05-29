@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM и Red Hat представили проект Lightwell для повышении безопасности открытого ПО](https://habr.com/ru/news/1041148/?utm_campaign=1041148&utm_source=habrahabr&utm_medium=rss)
-- [Selectel добавил модели для генерации эмбеддингов в Foundation Models Catalog](https://habr.com/ru/companies/selectel/news/1041136/?utm_campaign=1041136&utm_source=habrahabr&utm_medium=rss)
-- [ИИ помог Папе Римскому написать манифест об опасности ИИ. Исследователи подозревают Claude](https://habr.com/ru/news/1041134/?utm_campaign=1041134&utm_source=habrahabr&utm_medium=rss)
-- [Токен как баррель нефти: Китай строит рынок фьючерсов на ИИ](https://habr.com/ru/news/1041092/?utm_campaign=1041092&utm_source=habrahabr&utm_medium=rss)
-- [AWS обновила OpenSearch Serverless под AI-агентов](https://habr.com/ru/news/1041084/?utm_campaign=1041084&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики QEMU обдумывают смягчение запрета на патчи, созданные при помощи ИИ](https://habr.com/ru/news/1041302/?utm_campaign=1041302&utm_source=habrahabr&utm_medium=rss)
+- [GitHub и GitLab заблокировали и удалили аккаунт исследователя после публикации PoC для продуктов Microsoft](https://habr.com/ru/news/1041260/?utm_campaign=1041260&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует в Windows 11 опцию совместного прослушивания аудио через две пары Bluetooth-наушников одновременно](https://habr.com/ru/news/1041230/?utm_campaign=1041230&utm_source=habrahabr&utm_medium=rss)
+- [СМИ:«Минпромторг оштрафовал разработчика на 123 млн рублей за срыв импортозамещённого аналога чипов Analog Devices»](https://habr.com/ru/news/1041198/?utm_campaign=1041198&utm_source=habrahabr&utm_medium=rss)
+- [«КуйбышевАзот» расширил автоматизацию ключевых процессов на базе решений 1С](https://habr.com/ru/companies/k2tech/news/1041220/?utm_campaign=1041220&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
