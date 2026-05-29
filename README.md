@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Mythos выйдет в ближайшие недели — модель круче Opus наконец-то откроют для всех](https://habr.com/ru/news/1040894/?utm_campaign=1040894&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic уже почти триллионная компания](https://habr.com/ru/news/1040880/?utm_campaign=1040880&utm_source=habrahabr&utm_medium=rss)
-- [Погнали: -50% на Veai, а Opus 4.8 уже внутри](https://habr.com/ru/companies/veai/news/1040876/?utm_campaign=1040876&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code научился запускать сотни ИИ-агентов — и за дни закрывать задачи, на которые раньше уходил квартал](https://habr.com/ru/news/1040860/?utm_campaign=1040860&utm_source=habrahabr&utm_medium=rss)
-- [echo hello-world | ai](https://habr.com/ru/news/1040852/?utm_campaign=1040852&utm_source=habrahabr&utm_medium=rss)
+- [Три подразделения, три правды. Куда уходит ИТ-бюджет и при чём тут ITAM](https://habr.com/ru/companies/simpleone/news/1040976/?utm_campaign=1040976&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появились пешие маршруты под разные ситуации](https://habr.com/ru/news/1040964/?utm_campaign=1040964&utm_source=habrahabr&utm_medium=rss)
+- [Что смотрели и оценивали на PyCon Russia 2025: лучшие доклады по версии участников и YouTube](https://habr.com/ru/news/1040962/?utm_campaign=1040962&utm_source=habrahabr&utm_medium=rss)
+- [Тяжёлая ракета New Glenn компании Blue Origin взорвалась во время испытаний силовой установки](https://habr.com/ru/news/1040958/?utm_campaign=1040958&utm_source=habrahabr&utm_medium=rss)
+- [В SQLite появился форум для сообщений об ошибках, генерируемых ИИ](https://habr.com/ru/news/1040946/?utm_campaign=1040946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
