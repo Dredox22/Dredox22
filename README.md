@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Казахстан тестирует «цифрового следователя» на базе ИИ](https://habr.com/ru/news/1041478/?utm_campaign=1041478&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предупредила об окончании срока действия сертификатов Secure Boot](https://habr.com/ru/news/1041476/?utm_campaign=1041476&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный прокурор Калифорнии подал в суд на биотехнологическую компанию 23andMe из-за утечки данных](https://habr.com/ru/news/1041466/?utm_campaign=1041466&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Rust 1.96.0](https://habr.com/ru/news/1040970/?utm_campaign=1040970&utm_source=habrahabr&utm_medium=rss)
 - [ИИ научился конструировать белки против рака — и его раздают даром](https://habr.com/ru/news/1041440/?utm_campaign=1041440&utm_source=habrahabr&utm_medium=rss)
-- [Четыре новых образа в AI-Marketplace Selectel: инфраструктура для MLOps и автоматизации](https://habr.com/ru/companies/selectel/news/1041304/?utm_campaign=1041304&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры начали использовать ссылки для обмена данными в ChatGPT для распространения вредоносов](https://habr.com/ru/news/1041412/?utm_campaign=1041412&utm_source=habrahabr&utm_medium=rss)
-- [HP: 30% пользователей ПК пока не отказались от Windows 10](https://habr.com/ru/news/1041408/?utm_campaign=1041408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
