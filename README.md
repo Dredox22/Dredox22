@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры начали использовать ссылки для обмена данными в ChatGPT для распространения вредоносов](https://habr.com/ru/news/1041412/?utm_campaign=1041412&utm_source=habrahabr&utm_medium=rss)
+- [HP: 30% пользователей ПК пока не отказались от Windows 10](https://habr.com/ru/news/1041408/?utm_campaign=1041408&utm_source=habrahabr&utm_medium=rss)
+- [Прекращена поддержка Fedora Linux 42](https://habr.com/ru/news/1041166/?utm_campaign=1041166&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.4](https://habr.com/ru/news/1041344/?utm_campaign=1041344&utm_source=habrahabr&utm_medium=rss)
 - [Вышел локальный ИИ-агент для смартфонов: LFM2.5-8B-A1B обходит модели вчетверо больше](https://habr.com/ru/news/1041394/?utm_campaign=1041394&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.5 научили управлять Windows: ИИ-агент Codex кликает мышью и печатает за вас](https://habr.com/ru/news/1041378/?utm_campaign=1041378&utm_source=habrahabr&utm_medium=rss)
-- [Rust 1.96 вышел: новые range-типы, удобные assert-матчи и важное изменение для WebAssembly](https://habr.com/ru/news/1041338/?utm_campaign=1041338&utm_source=habrahabr&utm_medium=rss)
-- [В бета-версии Telegram 12.8 для iOS появилось больше возможностей редактирования текста](https://habr.com/ru/news/1041318/?utm_campaign=1041318&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики QEMU обдумывают смягчение запрета на патчи, созданные при помощи ИИ](https://habr.com/ru/news/1041302/?utm_campaign=1041302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
