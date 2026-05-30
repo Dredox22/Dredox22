@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В кибербезопас‑компании «С‑Терра» сменилась вся команда топ‑менеджеров после перехода под контроль «Ростеха»](https://habr.com/ru/news/1041582/?utm_campaign=1041582&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект FluentCleaner &lpar;аналог CCleaner&rpar; для очистки ПК на Windows 10/11 от ненужных компонентов](https://habr.com/ru/news/1041576/?utm_campaign=1041576&utm_source=habrahabr&utm_medium=rss)
 - [Грег Кроа-Хартман: Rust спасет Linux от ошибок C](https://habr.com/ru/news/1041534/?utm_campaign=1041534&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Moth представил Quantum Backrooms — хоррор-бродилку для квантовых компьютеров](https://habr.com/ru/news/1041526/?utm_campaign=1041526&utm_source=habrahabr&utm_medium=rss)
 - [Скотт Ву из Cognition утверждает, что ИИ-агенты не должны заменять людей](https://habr.com/ru/news/1041516/?utm_campaign=1041516&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила в VS Code полностью автономный режим с локальным ИИ](https://habr.com/ru/news/1041512/?utm_campaign=1041512&utm_source=habrahabr&utm_medium=rss)
-- [«Сферум» запустил обучающую кибербез‑игру для школьников 7–12 лет под названием «Галактический патруль»](https://habr.com/ru/news/1041502/?utm_campaign=1041502&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
