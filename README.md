@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Rust 1.96.0](https://habr.com/ru/news/1040970/?utm_campaign=1040970&utm_source=habrahabr&utm_medium=rss)
+- [ИИ научился конструировать белки против рака — и его раздают даром](https://habr.com/ru/news/1041440/?utm_campaign=1041440&utm_source=habrahabr&utm_medium=rss)
+- [Четыре новых образа в AI-Marketplace Selectel: инфраструктура для MLOps и автоматизации](https://habr.com/ru/companies/selectel/news/1041304/?utm_campaign=1041304&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры начали использовать ссылки для обмена данными в ChatGPT для распространения вредоносов](https://habr.com/ru/news/1041412/?utm_campaign=1041412&utm_source=habrahabr&utm_medium=rss)
 - [HP: 30% пользователей ПК пока не отказались от Windows 10](https://habr.com/ru/news/1041408/?utm_campaign=1041408&utm_source=habrahabr&utm_medium=rss)
-- [Прекращена поддержка Fedora Linux 42](https://habr.com/ru/news/1041166/?utm_campaign=1041166&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.4](https://habr.com/ru/news/1041344/?utm_campaign=1041344&utm_source=habrahabr&utm_medium=rss)
-- [Вышел локальный ИИ-агент для смартфонов: LFM2.5-8B-A1B обходит модели вчетверо больше](https://habr.com/ru/news/1041394/?utm_campaign=1041394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
