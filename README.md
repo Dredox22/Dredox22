@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GNOME Circle не будет принимать приложения, созданные с использованием ИИ](https://habr.com/ru/news/1041596/?utm_campaign=1041596&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Shift предлагает наводить порядок дома в обмен на данные для обучения роботов](https://habr.com/ru/news/1041592/?utm_campaign=1041592&utm_source=habrahabr&utm_medium=rss)
+- [Техдолг под капотом ИИ-бума: код пишется быстро, чинится долго](https://habr.com/ru/news/1041588/?utm_campaign=1041588&utm_source=habrahabr&utm_medium=rss)
 - [В кибербезопас‑компании «С‑Терра» сменилась вся команда топ‑менеджеров после перехода под контроль «Ростеха»](https://habr.com/ru/news/1041582/?utm_campaign=1041582&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект FluentCleaner &lpar;аналог CCleaner&rpar; для очистки ПК на Windows 10/11 от ненужных компонентов](https://habr.com/ru/news/1041576/?utm_campaign=1041576&utm_source=habrahabr&utm_medium=rss)
-- [Грег Кроа-Хартман: Rust спасет Linux от ошибок C](https://habr.com/ru/news/1041534/?utm_campaign=1041534&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Moth представил Quantum Backrooms — хоррор-бродилку для квантовых компьютеров](https://habr.com/ru/news/1041526/?utm_campaign=1041526&utm_source=habrahabr&utm_medium=rss)
-- [Скотт Ву из Cognition утверждает, что ИИ-агенты не должны заменять людей](https://habr.com/ru/news/1041516/?utm_campaign=1041516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
