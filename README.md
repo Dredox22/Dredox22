@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Грег Кроа-Хартман: Rust спасет Linux от ошибок C](https://habr.com/ru/news/1041534/?utm_campaign=1041534&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Moth представил Quantum Backrooms — хоррор-бродилку для квантовых компьютеров](https://habr.com/ru/news/1041526/?utm_campaign=1041526&utm_source=habrahabr&utm_medium=rss)
+- [Скотт Ву из Cognition утверждает, что ИИ-агенты не должны заменять людей](https://habr.com/ru/news/1041516/?utm_campaign=1041516&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в VS Code полностью автономный режим с локальным ИИ](https://habr.com/ru/news/1041512/?utm_campaign=1041512&utm_source=habrahabr&utm_medium=rss)
 - [«Сферум» запустил обучающую кибербез‑игру для школьников 7–12 лет под названием «Галактический патруль»](https://habr.com/ru/news/1041502/?utm_campaign=1041502&utm_source=habrahabr&utm_medium=rss)
-- [Казахстан тестирует «цифрового следователя» на базе ИИ](https://habr.com/ru/news/1041478/?utm_campaign=1041478&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила об окончании срока действия сертификатов Secure Boot](https://habr.com/ru/news/1041476/?utm_campaign=1041476&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный прокурор Калифорнии подал в суд на биотехнологическую компанию 23andMe из-за утечки данных](https://habr.com/ru/news/1041466/?utm_campaign=1041466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
