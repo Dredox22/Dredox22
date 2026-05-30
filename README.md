@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«РТ-Информ» показал программно‑аппаратный комплекс «Цербер» для защиты высоконагруженных сетей и IT‑инфраструктуры](https://habr.com/ru/news/1041640/?utm_campaign=1041640&utm_source=habrahabr&utm_medium=rss)
 - [«Росатом» создал первый реактор РИТМ-200С для плавучего энергоблока ПЭБ-106 на заводе «ЗиО-Подольск»](https://habr.com/ru/news/1041638/?utm_campaign=1041638&utm_source=habrahabr&utm_medium=rss)
 - [CNN подала в суд на Perplexity за кражу контента и подделку партнерства](https://habr.com/ru/news/1041614/?utm_campaign=1041614&utm_source=habrahabr&utm_medium=rss)
 - [GNOME Circle не будет принимать приложения, созданные с использованием ИИ](https://habr.com/ru/news/1041596/?utm_campaign=1041596&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Shift предлагает наводить порядок дома в обмен на данные для обучения роботов](https://habr.com/ru/news/1041592/?utm_campaign=1041592&utm_source=habrahabr&utm_medium=rss)
-- [Техдолг под капотом ИИ-бума: код пишется быстро, чинится долго](https://habr.com/ru/news/1041588/?utm_campaign=1041588&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
