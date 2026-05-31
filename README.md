@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Мультимодальные модели оказались уязвимы к jailbreak-атакам через видео](https://habr.com/ru/news/1041884/?utm_campaign=1041884&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Элемент» разработает стратегию внедрения искусственного интеллекта в микроэлектронное производство](https://habr.com/ru/news/1041876/?utm_campaign=1041876&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» участвовала в операции Ramz Интерпола по борьбе с киберпреступностью](https://habr.com/ru/news/1041870/?utm_campaign=1041870&utm_source=habrahabr&utm_medium=rss)
 - [ИИ самостоятельно решил задачу Эрдёша, решение одобрено математиками](https://habr.com/ru/news/1041852/?utm_campaign=1041852&utm_source=habrahabr&utm_medium=rss)
 - [Разрыв между открытыми и закрытыми ИИ растет — данные Epoch AI](https://habr.com/ru/news/1041844/?utm_campaign=1041844&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи: разработчики не смогут отказаться от инструментов ИИ](https://habr.com/ru/news/1041828/?utm_campaign=1041828&utm_source=habrahabr&utm_medium=rss)
-- [Вышла первая стабильная реализация видеокодека AV2](https://habr.com/ru/news/1041818/?utm_campaign=1041818&utm_source=habrahabr&utm_medium=rss)
-- [У Paint.NET наконец-то появился «правильный» домен](https://habr.com/ru/news/1041788/?utm_campaign=1041788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
