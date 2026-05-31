@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance подала заявку на получение финтех-лицензии в Бразилии: TikTok превращается в «суперприложение»](https://habr.com/ru/news/1041716/?utm_campaign=1041716&utm_source=habrahabr&utm_medium=rss)
+- [Во Flathub запретили размещать приложения, созданные при помощи ИИ](https://habr.com/ru/news/1041692/?utm_campaign=1041692&utm_source=habrahabr&utm_medium=rss)
+- [С сентября 2026 года Entra ID будет требовать подтверждённый метод аутентификации для самостоятельного сброса пароля](https://habr.com/ru/news/1041684/?utm_campaign=1041684&utm_source=habrahabr&utm_medium=rss)
 - [ИИ против пандемий: OpenAI открывает Rosalind правительству США и сторонним командам](https://habr.com/ru/news/1041636/?utm_campaign=1041636&utm_source=habrahabr&utm_medium=rss)
 - [Релиз СУБД MariaDB Server 12.3 с долгосрочной поддержкой &lpar;LTS&rpar;](https://habr.com/ru/news/1041520/?utm_campaign=1041520&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.10](https://habr.com/ru/news/1041458/?utm_campaign=1041458&utm_source=habrahabr&utm_medium=rss)
-- [«РТ-Информ» показал программно‑аппаратный комплекс «Цербер» для защиты высоконагруженных сетей и IT‑инфраструктуры](https://habr.com/ru/news/1041640/?utm_campaign=1041640&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» создал первый реактор РИТМ-200С для плавучего энергоблока ПЭБ-106 на заводе «ЗиО-Подольск»](https://habr.com/ru/news/1041638/?utm_campaign=1041638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
