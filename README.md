@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [SWE-rebench: Opus 4.8 стал экономнее, но в эффективности уступил GPT-5.5](https://habr.com/ru/news/1041908/?utm_campaign=1041908&utm_source=habrahabr&utm_medium=rss)
 - [Мультимодальные модели оказались уязвимы к jailbreak-атакам через видео](https://habr.com/ru/news/1041884/?utm_campaign=1041884&utm_source=habrahabr&utm_medium=rss)
 - [ГК «Элемент» разработает стратегию внедрения искусственного интеллекта в микроэлектронное производство](https://habr.com/ru/news/1041876/?utm_campaign=1041876&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» участвовала в операции Ramz Интерпола по борьбе с киберпреступностью](https://habr.com/ru/news/1041870/?utm_campaign=1041870&utm_source=habrahabr&utm_medium=rss)
 - [ИИ самостоятельно решил задачу Эрдёша, решение одобрено математиками](https://habr.com/ru/news/1041852/?utm_campaign=1041852&utm_source=habrahabr&utm_medium=rss)
-- [Разрыв между открытыми и закрытыми ИИ растет — данные Epoch AI](https://habr.com/ru/news/1041844/?utm_campaign=1041844&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
