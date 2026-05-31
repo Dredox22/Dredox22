@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В тестовый движок jqwik добавили инструкцию для ИИ-агентов, которая заставляет их стирать весь код](https://habr.com/ru/news/1041748/?utm_campaign=1041748&utm_source=habrahabr&utm_medium=rss)
+- [Visa инвестировала в Replit: ИИ-агенты получат право платить картой](https://habr.com/ru/news/1041728/?utm_campaign=1041728&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance подала заявку на получение финтех-лицензии в Бразилии: TikTok превращается в «суперприложение»](https://habr.com/ru/news/1041716/?utm_campaign=1041716&utm_source=habrahabr&utm_medium=rss)
 - [Во Flathub запретили размещать приложения, созданные при помощи ИИ](https://habr.com/ru/news/1041692/?utm_campaign=1041692&utm_source=habrahabr&utm_medium=rss)
 - [С сентября 2026 года Entra ID будет требовать подтверждённый метод аутентификации для самостоятельного сброса пароля](https://habr.com/ru/news/1041684/?utm_campaign=1041684&utm_source=habrahabr&utm_medium=rss)
-- [ИИ против пандемий: OpenAI открывает Rosalind правительству США и сторонним командам](https://habr.com/ru/news/1041636/?utm_campaign=1041636&utm_source=habrahabr&utm_medium=rss)
-- [Релиз СУБД MariaDB Server 12.3 с долгосрочной поддержкой &lpar;LTS&rpar;](https://habr.com/ru/news/1041520/?utm_campaign=1041520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
