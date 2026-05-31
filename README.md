@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разрыв между открытыми и закрытыми ИИ растет — данные Epoch AI](https://habr.com/ru/news/1041844/?utm_campaign=1041844&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи: разработчики не смогут отказаться от инструментов ИИ](https://habr.com/ru/news/1041828/?utm_campaign=1041828&utm_source=habrahabr&utm_medium=rss)
+- [Вышла первая стабильная реализация видеокодека AV2](https://habr.com/ru/news/1041818/?utm_campaign=1041818&utm_source=habrahabr&utm_medium=rss)
 - [У Paint.NET наконец-то появился «правильный» домен](https://habr.com/ru/news/1041788/?utm_campaign=1041788&utm_source=habrahabr&utm_medium=rss)
 - [Claude построил демократию, Grok вымер за 4 дня — как ИИ управляли виртуальным городом](https://habr.com/ru/news/1041772/?utm_campaign=1041772&utm_source=habrahabr&utm_medium=rss)
-- [В тестовый движок jqwik добавили инструкцию для ИИ-агентов, которая заставляет их стирать весь код](https://habr.com/ru/news/1041748/?utm_campaign=1041748&utm_source=habrahabr&utm_medium=rss)
-- [Visa инвестировала в Replit: ИИ-агенты получат право платить картой](https://habr.com/ru/news/1041728/?utm_campaign=1041728&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance подала заявку на получение финтех-лицензии в Бразилии: TikTok превращается в «суперприложение»](https://habr.com/ru/news/1041716/?utm_campaign=1041716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
