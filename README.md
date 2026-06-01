@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен Qwen3.7-Plus — бесплатный ИИ с поддержкой изображений](https://habr.com/ru/news/1042398/?utm_campaign=1042398&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic обогнала OpenAI на пути к IPO — заявка S-1 подана](https://habr.com/ru/news/1042390/?utm_campaign=1042390&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: доступ к Python Package Index не ограничивается](https://habr.com/ru/news/1042352/?utm_campaign=1042352&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила RTX Spark 0 ARM-чип, который метит туда, где Apple M-серия доминирует](https://habr.com/ru/news/1042270/?utm_campaign=1042270&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость ИИ-ассистента Meta* привела к массовому угону аккаунтов](https://habr.com/ru/news/1042218/?utm_campaign=1042218&utm_source=habrahabr&utm_medium=rss)
-- [«Гравитон» представил интерактивную панель на базе процессора «Байкал» для госсектора и образования](https://habr.com/ru/companies/graviton/news/1042194/?utm_campaign=1042194&utm_source=habrahabr&utm_medium=rss)
-- [Пермский край запустил программу поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/1042186/?utm_campaign=1042186&utm_source=habrahabr&utm_medium=rss)
-- [Innostage выпустила продукт AIDR для защиты корпоративного ИИ от взломов и утечек данных](https://habr.com/ru/companies/innostage/news/1042162/?utm_campaign=1042162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
