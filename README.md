@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Открытый проект Recordly записывает экран для создателей контента, разработчиков и преподавателей](https://habr.com/ru/news/1041830/?utm_campaign=1041830&utm_source=habrahabr&utm_medium=rss)
-- [Вышел первый снепшот Ubuntu 26.10 Stonking Stingray](https://habr.com/ru/news/1041840/?utm_campaign=1041840&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Rust Coreutils 0.9.0](https://habr.com/ru/news/1041766/?utm_campaign=1041766&utm_source=habrahabr&utm_medium=rss)
-- [SWE-rebench: Opus 4.8 стал экономнее, но в эффективности уступил GPT-5.5](https://habr.com/ru/news/1041908/?utm_campaign=1041908&utm_source=habrahabr&utm_medium=rss)
-- [Мультимодальные модели оказались уязвимы к jailbreak-атакам через видео](https://habr.com/ru/news/1041884/?utm_campaign=1041884&utm_source=habrahabr&utm_medium=rss)
+- [Авторы Википедии готовят забастовку из-за увольнений](https://habr.com/ru/news/1042038/?utm_campaign=1042038&utm_source=habrahabr&utm_medium=rss)
+- [MiniMax выпустила M3: открытая мультимодальная модель с контекстом 1M токенов](https://habr.com/ru/news/1042006/?utm_campaign=1042006&utm_source=habrahabr&utm_medium=rss)
+- [UserGate сохранил лидерство на рынке сетевой безопасности России](https://habr.com/ru/companies/usergate/news/1042004/?utm_campaign=1042004&utm_source=habrahabr&utm_medium=rss)
+- [Компания &lpar;NDA&rpar; приглашает ИТ-компании Центральной Азии и Азербайджана к сотрудничеству в партнерской сети](https://habr.com/ru/companies/meta-catalog/news/1041472/?utm_campaign=1041472&utm_source=habrahabr&utm_medium=rss)
+- [США, Австралия и Великобритания планируют использовать беспилотники для защиты подводных кабелей](https://habr.com/ru/news/1041962/?utm_campaign=1041962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
