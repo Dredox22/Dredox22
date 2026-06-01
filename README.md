@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Авторы Википедии готовят забастовку из-за увольнений](https://habr.com/ru/news/1042038/?utm_campaign=1042038&utm_source=habrahabr&utm_medium=rss)
-- [MiniMax выпустила M3: открытая мультимодальная модель с контекстом 1M токенов](https://habr.com/ru/news/1042006/?utm_campaign=1042006&utm_source=habrahabr&utm_medium=rss)
-- [UserGate сохранил лидерство на рынке сетевой безопасности России](https://habr.com/ru/companies/usergate/news/1042004/?utm_campaign=1042004&utm_source=habrahabr&utm_medium=rss)
-- [Компания &lpar;NDA&rpar; приглашает ИТ-компании Центральной Азии и Азербайджана к сотрудничеству в партнерской сети](https://habr.com/ru/companies/meta-catalog/news/1041472/?utm_campaign=1041472&utm_source=habrahabr&utm_medium=rss)
-- [США, Австралия и Великобритания планируют использовать беспилотники для защиты подводных кабелей](https://habr.com/ru/news/1041962/?utm_campaign=1041962&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила RTX Spark 0 ARM-чип, который метит туда, где Apple M-серия доминирует](https://habr.com/ru/news/1042270/?utm_campaign=1042270&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость ИИ-ассистента Meta* привела к массовому угону аккаунтов](https://habr.com/ru/news/1042218/?utm_campaign=1042218&utm_source=habrahabr&utm_medium=rss)
+- [«Гравитон» представил интерактивную панель на базе процессора «Байкал» для госсектора и образования](https://habr.com/ru/companies/graviton/news/1042194/?utm_campaign=1042194&utm_source=habrahabr&utm_medium=rss)
+- [Пермский край запустил программу поиска уязвимостей на Standoff Bug Bounty](https://habr.com/ru/companies/pt/news/1042186/?utm_campaign=1042186&utm_source=habrahabr&utm_medium=rss)
+- [Innostage выпустила продукт AIDR для защиты корпоративного ИИ от взломов и утечек данных](https://habr.com/ru/companies/innostage/news/1042162/?utm_campaign=1042162&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
