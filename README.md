@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открытый проект Recordly записывает экран для создателей контента, разработчиков и преподавателей](https://habr.com/ru/news/1041830/?utm_campaign=1041830&utm_source=habrahabr&utm_medium=rss)
+- [Вышел первый снепшот Ubuntu 26.10 Stonking Stingray](https://habr.com/ru/news/1041840/?utm_campaign=1041840&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Rust Coreutils 0.9.0](https://habr.com/ru/news/1041766/?utm_campaign=1041766&utm_source=habrahabr&utm_medium=rss)
 - [SWE-rebench: Opus 4.8 стал экономнее, но в эффективности уступил GPT-5.5](https://habr.com/ru/news/1041908/?utm_campaign=1041908&utm_source=habrahabr&utm_medium=rss)
 - [Мультимодальные модели оказались уязвимы к jailbreak-атакам через видео](https://habr.com/ru/news/1041884/?utm_campaign=1041884&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Элемент» разработает стратегию внедрения искусственного интеллекта в микроэлектронное производство](https://habr.com/ru/news/1041876/?utm_campaign=1041876&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» участвовала в операции Ramz Интерпола по борьбе с киберпреступностью](https://habr.com/ru/news/1041870/?utm_campaign=1041870&utm_source=habrahabr&utm_medium=rss)
-- [ИИ самостоятельно решил задачу Эрдёша, решение одобрено математиками](https://habr.com/ru/news/1041852/?utm_campaign=1041852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
