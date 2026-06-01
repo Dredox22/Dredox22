@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft удалила пост о том, что в Windows 11 есть вся необходимая защита](https://habr.com/ru/news/1041076/?utm_campaign=1041076&utm_source=habrahabr&utm_medium=rss)
 - [Представлен Qwen3.7-Plus — бесплатный ИИ с поддержкой изображений](https://habr.com/ru/news/1042398/?utm_campaign=1042398&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic обогнала OpenAI на пути к IPO — заявка S-1 подана](https://habr.com/ru/news/1042390/?utm_campaign=1042390&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор: доступ к Python Package Index не ограничивается](https://habr.com/ru/news/1042352/?utm_campaign=1042352&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила RTX Spark 0 ARM-чип, который метит туда, где Apple M-серия доминирует](https://habr.com/ru/news/1042270/?utm_campaign=1042270&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость ИИ-ассистента Meta* привела к массовому угону аккаунтов](https://habr.com/ru/news/1042218/?utm_campaign=1042218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
