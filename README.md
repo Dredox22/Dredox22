@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Strava ужесточает доступ к API в попытке противостоять компаниям, занимающимся сбором данных с помощью ИИ](https://habr.com/ru/news/1042582/?utm_campaign=1042582&utm_source=habrahabr&utm_medium=rss)
-- [Opus 4.8 поставил рекорд в сложнейшем ИИ-бенчмарке. Результат — 1,4%](https://habr.com/ru/news/1042544/?utm_campaign=1042544&utm_source=habrahabr&utm_medium=rss)
-- [Бегство от ИИ продолжается: DuckDuckGo дал кнопку «выключить ИИ» в Chrome и Firefox](https://habr.com/ru/news/1042510/?utm_campaign=1042510&utm_source=habrahabr&utm_medium=rss)
-- [1С-Битрикс развивает программу «Безопасные интеграции»: ИИ-аудит как новый слой непрерывного контроля сторонних решений](https://habr.com/ru/news/1042508/?utm_campaign=1042508&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Opus 4.8, Step 3.7 Flash и 683 преступления в государстве под управлением Gemini](https://habr.com/ru/news/1042380/?utm_campaign=1042380&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Защищенность от кибератак: как оценить и что делать»](https://habr.com/ru/companies/icore/news/1042760/?utm_campaign=1042760&utm_source=habrahabr&utm_medium=rss)
+- [Премия «Хакатоны России»: номинируй свое соревнование, команду или стань экспертом](https://habr.com/ru/news/1042756/?utm_campaign=1042756&utm_source=habrahabr&utm_medium=rss)
+- [Nemotron 3 Ultra стала самой мощной открытой моделью из США](https://habr.com/ru/news/1042724/?utm_campaign=1042724&utm_source=habrahabr&utm_medium=rss)
+- [Тело — китайское, мозг — от NVIDIA: вышел первый гуманоид на открытой платформе](https://habr.com/ru/news/1042712/?utm_campaign=1042712&utm_source=habrahabr&utm_medium=rss)
+- [К2Тех и МТС Web Services объединяют усилия для развития доверенного генеративного ИИ в российских компаниях](https://habr.com/ru/companies/k2tech/news/1042708/?utm_campaign=1042708&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
