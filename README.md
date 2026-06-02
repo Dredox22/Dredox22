@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар «Защищенность от кибератак: как оценить и что делать»](https://habr.com/ru/companies/icore/news/1042760/?utm_campaign=1042760&utm_source=habrahabr&utm_medium=rss)
-- [Премия «Хакатоны России»: номинируй свое соревнование, команду или стань экспертом](https://habr.com/ru/news/1042756/?utm_campaign=1042756&utm_source=habrahabr&utm_medium=rss)
-- [Nemotron 3 Ultra стала самой мощной открытой моделью из США](https://habr.com/ru/news/1042724/?utm_campaign=1042724&utm_source=habrahabr&utm_medium=rss)
-- [Тело — китайское, мозг — от NVIDIA: вышел первый гуманоид на открытой платформе](https://habr.com/ru/news/1042712/?utm_campaign=1042712&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех и МТС Web Services объединяют усилия для развития доверенного генеративного ИИ в российских компаниях](https://habr.com/ru/companies/k2tech/news/1042708/?utm_campaign=1042708&utm_source=habrahabr&utm_medium=rss)
+- [Zcash экстренно отключила Orchard-пул: баг, который мог обрушить приватность, нашли первыми](https://habr.com/ru/news/1042882/?utm_campaign=1042882&utm_source=habrahabr&utm_medium=rss)
+- [США хотят проверять ИИ-модели на киберопасность до релиза: указ Трампа](https://habr.com/ru/news/1042878/?utm_campaign=1042878&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс представил награду «Особенно Хорошее место»: кому выдается и как получить?](https://habr.com/ru/news/1042852/?utm_campaign=1042852&utm_source=habrahabr&utm_medium=rss)
+- [The Pirate Bay остается жизнеспособным спустя 20 лет после рейда на платформу](https://habr.com/ru/news/1042814/?utm_campaign=1042814&utm_source=habrahabr&utm_medium=rss)
+- [Мониторинг JVM в OpenIDE: CPU, память и потоки без внешних инструментов](https://habr.com/ru/companies/haulmont/news/1042812/?utm_campaign=1042812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
