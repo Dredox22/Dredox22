@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft удалила пост о том, что в Windows 11 есть вся необходимая защита](https://habr.com/ru/news/1041076/?utm_campaign=1041076&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Qwen3.7-Plus — бесплатный ИИ с поддержкой изображений](https://habr.com/ru/news/1042398/?utm_campaign=1042398&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic обогнала OpenAI на пути к IPO — заявка S-1 подана](https://habr.com/ru/news/1042390/?utm_campaign=1042390&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: доступ к Python Package Index не ограничивается](https://habr.com/ru/news/1042352/?utm_campaign=1042352&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила RTX Spark 0 ARM-чип, который метит туда, где Apple M-серия доминирует](https://habr.com/ru/news/1042270/?utm_campaign=1042270&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива Armbian 26.5 для Raspberry Pi и других одноплатных компьютеров](https://habr.com/ru/news/1041958/?utm_campaign=1041958&utm_source=habrahabr&utm_medium=rss)
+- [В Нидерландах ликвидировали ботнет из 17 млн устройств](https://habr.com/ru/news/1042458/?utm_campaign=1042458&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого эмулятора 86Box 6.0](https://habr.com/ru/news/1042110/?utm_campaign=1042110&utm_source=habrahabr&utm_medium=rss)
+- [ИИ не отнимает работу, а создает: Хуанг назвал страхи о сокращениях «полной чушью»](https://habr.com/ru/news/1042420/?utm_campaign=1042420&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого музыкального проигрывателя Audacious 4.6](https://habr.com/ru/news/1042100/?utm_campaign=1042100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
