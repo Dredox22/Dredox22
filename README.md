@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз дистрибутива Armbian 26.5 для Raspberry Pi и других одноплатных компьютеров](https://habr.com/ru/news/1041958/?utm_campaign=1041958&utm_source=habrahabr&utm_medium=rss)
-- [В Нидерландах ликвидировали ботнет из 17 млн устройств](https://habr.com/ru/news/1042458/?utm_campaign=1042458&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого эмулятора 86Box 6.0](https://habr.com/ru/news/1042110/?utm_campaign=1042110&utm_source=habrahabr&utm_medium=rss)
-- [ИИ не отнимает работу, а создает: Хуанг назвал страхи о сокращениях «полной чушью»](https://habr.com/ru/news/1042420/?utm_campaign=1042420&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого музыкального проигрывателя Audacious 4.6](https://habr.com/ru/news/1042100/?utm_campaign=1042100&utm_source=habrahabr&utm_medium=rss)
+- [Strava ужесточает доступ к API в попытке противостоять компаниям, занимающимся сбором данных с помощью ИИ](https://habr.com/ru/news/1042582/?utm_campaign=1042582&utm_source=habrahabr&utm_medium=rss)
+- [Opus 4.8 поставил рекорд в сложнейшем ИИ-бенчмарке. Результат — 1,4%](https://habr.com/ru/news/1042544/?utm_campaign=1042544&utm_source=habrahabr&utm_medium=rss)
+- [Бегство от ИИ продолжается: DuckDuckGo дал кнопку «выключить ИИ» в Chrome и Firefox](https://habr.com/ru/news/1042510/?utm_campaign=1042510&utm_source=habrahabr&utm_medium=rss)
+- [1С-Битрикс развивает программу «Безопасные интеграции»: ИИ-аудит как новый слой непрерывного контроля сторонних решений](https://habr.com/ru/news/1042508/?utm_campaign=1042508&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Opus 4.8, Step 3.7 Flash и 683 преступления в государстве под управлением Gemini](https://habr.com/ru/news/1042380/?utm_campaign=1042380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
