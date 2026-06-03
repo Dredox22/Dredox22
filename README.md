@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Selectel добавил модели для ранжирования текстов в Foundation Models Catalog](https://habr.com/ru/companies/selectel/news/1043164/?utm_campaign=1043164&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft позволит удалить ИИ-модель AI Phi Silica в Windows 11](https://habr.com/ru/news/1043100/?utm_campaign=1043100&utm_source=habrahabr&utm_medium=rss)
-- [Инженер за 24 часа провёл реверс-инжиниринг спортивного браслета Whoop 5.0 для работы без подписки](https://habr.com/ru/news/1043070/?utm_campaign=1043070&utm_source=habrahabr&utm_medium=rss)
-- [Uber ограничивает расходы сотрудников на ИИ после превышения годового бюджета на эти цели за 4 месяца](https://habr.com/ru/news/1043058/?utm_campaign=1043058&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA выпускает крупную коллекцию инструментов и навыков агентов с открытым исходным кодом для Physical AI](https://habr.com/ru/news/1043054/?utm_campaign=1043054&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики «Grand Theft Auto: Vice City в браузере» получили от «Яндекса» запрос на удаление проектов GTA с Dos.Zone](https://habr.com/ru/news/1043350/?utm_campaign=1043350&utm_source=habrahabr&utm_medium=rss)
+- [ИИ Google Gemma 4 12B запускается на ноутбуке с 16 ГБ и почти догоняет модель вдвое крупнее](https://habr.com/ru/news/1043342/?utm_campaign=1043342&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг: технологический сбор на электронику введут не с 1 сентября, а с 1 декабря 2026 года](https://habr.com/ru/news/1043302/?utm_campaign=1043302&utm_source=habrahabr&utm_medium=rss)
+- [Спящая закладка в ИИ-агенте: как скилл Claude превращают в отложенную атаку](https://habr.com/ru/news/1043300/?utm_campaign=1043300&utm_source=habrahabr&utm_medium=rss)
+- [Ограничения VPN и выборочные исключения РКН нарушили доступ российских разработчиков к зарубежной IT-инфраструктуре](https://habr.com/ru/news/1043294/?utm_campaign=1043294&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
