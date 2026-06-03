@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи позволили ИИ управлять вымышленным обществом: результаты эксперимента](https://habr.com/ru/news/1042424/?utm_campaign=1042424&utm_source=habrahabr&utm_medium=rss)
 - [Replit назвал Opus 4.8 лучшим ИИ для вайб-кодинга](https://habr.com/ru/news/1043386/?utm_campaign=1043386&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Coreutils для Windows](https://habr.com/ru/news/1043380/?utm_campaign=1043380&utm_source=habrahabr&utm_medium=rss)
 - [В МАХ подтвердили, что приложение мессенджера на текущий момент недоступно в AppStore](https://habr.com/ru/news/1043358/?utm_campaign=1043358&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики «Grand Theft Auto: Vice City в браузере» получили от «Яндекса» запрос на удаление проектов GTA с Dos.Zone](https://habr.com/ru/news/1043350/?utm_campaign=1043350&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Google Gemma 4 12B запускается на ноутбуке с 16 ГБ и почти догоняет модель вдвое крупнее](https://habr.com/ru/news/1043342/?utm_campaign=1043342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
