@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Selectel добавил модели для ранжирования текстов в Foundation Models Catalog](https://habr.com/ru/companies/selectel/news/1043164/?utm_campaign=1043164&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволит удалить ИИ-модель AI Phi Silica в Windows 11](https://habr.com/ru/news/1043100/?utm_campaign=1043100&utm_source=habrahabr&utm_medium=rss)
+- [Инженер за 24 часа провёл реверс-инжиниринг спортивного браслета Whoop 5.0 для работы без подписки](https://habr.com/ru/news/1043070/?utm_campaign=1043070&utm_source=habrahabr&utm_medium=rss)
+- [Uber ограничивает расходы сотрудников на ИИ после превышения годового бюджета на эти цели за 4 месяца](https://habr.com/ru/news/1043058/?utm_campaign=1043058&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA выпускает крупную коллекцию инструментов и навыков агентов с открытым исходным кодом для Physical AI](https://habr.com/ru/news/1043054/?utm_campaign=1043054&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Basis SDN 1.2: детальное журналирование и обновленная логика обработки трафика](https://habr.com/ru/companies/basis/news/1043014/?utm_campaign=1043014&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила эмулятор терминала Intelligent Terminal — форк Windows Terminal с интегрированным ИИ-агентом](https://habr.com/ru/news/1042986/?utm_campaign=1042986&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры украли хранилища паролей некоторых клиентов менеджера паролей Dashlane](https://habr.com/ru/news/1042982/?utm_campaign=1042982&utm_source=habrahabr&utm_medium=rss)
-- [С 3 июня 2026 года десктопное приложение «Яндекс Диск» для Windows и macOS перестанет полноценно работать без подписки](https://habr.com/ru/news/1042970/?utm_campaign=1042970&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
