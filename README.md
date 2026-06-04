@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google предлагает Android-разработчикам продавать доступ к коду для обучения нейросетей](https://habr.com/ru/news/1043800/?utm_campaign=1043800&utm_source=habrahabr&utm_medium=rss)
+- [БЮРО 1440 И ФПК представили дорожную карту внедрения спутниковой связи в поездах дальнего следования](https://habr.com/ru/news/1043788/?utm_campaign=1043788&utm_source=habrahabr&utm_medium=rss)
+- [В рамках хакатона MOEX AI Hackathon, тесты ИИ‑агентов на Мосбирже показывают обгон индекса IMOEX](https://habr.com/ru/news/1043786/?utm_campaign=1043786&utm_source=habrahabr&utm_medium=rss)
 - [️ Anthropic уже пишет о рекурсивном самоулучшении, как о процессе, который постепенно становится реальностью](https://habr.com/ru/news/1043776/?utm_campaign=1043776&utm_source=habrahabr&utm_medium=rss)
 - [Claude пишет 80% кода Anthropic — люди уже не успевают проверять](https://habr.com/ru/news/1043770/?utm_campaign=1043770&utm_source=habrahabr&utm_medium=rss)
-- [Координационный центр доменов .RU/.РФ представил книгу стихов о цифровой безопасности для детей «Цифровой след»](https://habr.com/ru/news/1043766/?utm_campaign=1043766&utm_source=habrahabr&utm_medium=rss)
-- [Open-source агент Hermes со 175 тыс звезд на GitHub обзавелся официальным десктоп-клиентом](https://habr.com/ru/news/1043760/?utm_campaign=1043760&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» представил платёжный терминал с встроенным ИИ](https://habr.com/ru/news/1043758/?utm_campaign=1043758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
