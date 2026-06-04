@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodik запускает онлайн-хакатон “Kodik Launchpad”](https://habr.com/ru/companies/kodik/news/1043710/?utm_campaign=1043710&utm_source=habrahabr&utm_medium=rss)
-- [Безопасность агентов, экономика GPU и метрики AI в разработке — что обсудим в Технотреке Conversations?](https://habr.com/ru/companies/just_ai/news/1041196/?utm_campaign=1041196&utm_source=habrahabr&utm_medium=rss)
-- [Глава «Ростелекома» назвал Apple «врагами» после удаления мессенджера MAX из магазина приложений App Store](https://habr.com/ru/news/1043658/?utm_campaign=1043658&utm_source=habrahabr&utm_medium=rss)
-- [Память подорожала в 6 раз, а Morgan Stanley предупреждает о новой угрозе — чипфляции](https://habr.com/ru/news/1043640/?utm_campaign=1043640&utm_source=habrahabr&utm_medium=rss)
-- [Meta* сократила планы отслеживания нажатий клавиш сотрудниками после внутреннего протеста](https://habr.com/ru/news/1043638/?utm_campaign=1043638&utm_source=habrahabr&utm_medium=rss)
+- [️ Anthropic уже пишет о рекурсивном самоулучшении, как о процессе, который постепенно становится реальностью](https://habr.com/ru/news/1043776/?utm_campaign=1043776&utm_source=habrahabr&utm_medium=rss)
+- [Claude пишет 80% кода Anthropic — люди уже не успевают проверять](https://habr.com/ru/news/1043770/?utm_campaign=1043770&utm_source=habrahabr&utm_medium=rss)
+- [Координационный центр доменов .RU/.РФ представил книгу стихов о цифровой безопасности для детей «Цифровой след»](https://habr.com/ru/news/1043766/?utm_campaign=1043766&utm_source=habrahabr&utm_medium=rss)
+- [Open-source агент Hermes со 175 тыс звезд на GitHub обзавелся официальным десктоп-клиентом](https://habr.com/ru/news/1043760/?utm_campaign=1043760&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» представил платёжный терминал с встроенным ИИ](https://habr.com/ru/news/1043758/?utm_campaign=1043758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
