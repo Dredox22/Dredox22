@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз BATorrent 3.0 — легковесного BitTorrent-клиента, созданного на C++, Qt 6 и libtorrent-rasterbar](https://habr.com/ru/news/1043330/?utm_campaign=1043330&utm_source=habrahabr&utm_medium=rss)
+- [MAX удалили из App Store](https://habr.com/ru/news/1043400/?utm_campaign=1043400&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого проекта RustDesk 1.4.7](https://habr.com/ru/news/1043234/?utm_campaign=1043234&utm_source=habrahabr&utm_medium=rss)
+- [️ Anthropic разобрала 832 аккаунта, заблокированных за вредоносную активность с марта 2025 по март 2026 года](https://habr.com/ru/news/1043396/?utm_campaign=1043396&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи позволили ИИ управлять вымышленным обществом: результаты эксперимента](https://habr.com/ru/news/1042424/?utm_campaign=1042424&utm_source=habrahabr&utm_medium=rss)
-- [Replit назвал Opus 4.8 лучшим ИИ для вайб-кодинга](https://habr.com/ru/news/1043386/?utm_campaign=1043386&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила Coreutils для Windows](https://habr.com/ru/news/1043380/?utm_campaign=1043380&utm_source=habrahabr&utm_medium=rss)
-- [В МАХ подтвердили, что приложение мессенджера на текущий момент недоступно в AppStore](https://habr.com/ru/news/1043358/?utm_campaign=1043358&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики «Grand Theft Auto: Vice City в браузере» получили от «Яндекса» запрос на удаление проектов GTA с Dos.Zone](https://habr.com/ru/news/1043350/?utm_campaign=1043350&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
