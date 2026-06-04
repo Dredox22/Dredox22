@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Kodik запускает онлайн-хакатон “Kodik Launchpad”](https://habr.com/ru/companies/kodik/news/1043710/?utm_campaign=1043710&utm_source=habrahabr&utm_medium=rss)
+- [Безопасность агентов, экономика GPU и метрики AI в разработке — что обсудим в Технотреке Conversations?](https://habr.com/ru/companies/just_ai/news/1041196/?utm_campaign=1041196&utm_source=habrahabr&utm_medium=rss)
+- [Глава «Ростелекома» назвал Apple «врагами» после удаления мессенджера MAX из магазина приложений App Store](https://habr.com/ru/news/1043658/?utm_campaign=1043658&utm_source=habrahabr&utm_medium=rss)
 - [Память подорожала в 6 раз, а Morgan Stanley предупреждает о новой угрозе — чипфляции](https://habr.com/ru/news/1043640/?utm_campaign=1043640&utm_source=habrahabr&utm_medium=rss)
 - [Meta* сократила планы отслеживания нажатий клавиш сотрудниками после внутреннего протеста](https://habr.com/ru/news/1043638/?utm_campaign=1043638&utm_source=habrahabr&utm_medium=rss)
-- [Solar webProxy заблокировала 32,1 млрд обращений к вредоносным ресурсам в школах](https://habr.com/ru/companies/solarsecurity/news/1043632/?utm_campaign=1043632&utm_source=habrahabr&utm_medium=rss)
-- [Ideogram релизнул четвертую версию T2i модели](https://habr.com/ru/news/1043620/?utm_campaign=1043620&utm_source=habrahabr&utm_medium=rss)
-- [Приступаем к разработке собственного ИБ-решения для SPI-анализа облачных сред](https://habr.com/ru/companies/ruvds/news/1043242/?utm_campaign=1043242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
