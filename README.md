@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [MAX перестал присылать уведомления &lpar;пуши&rpar; у пользователей на iPhone](https://habr.com/ru/news/1043426/?utm_campaign=1043426&utm_source=habrahabr&utm_medium=rss)
-- [РБК: операторы связи обсуждают с властями возможность наладить для россиян доступ к незаблокированным ресурсам без VPN](https://habr.com/ru/news/1043424/?utm_campaign=1043424&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.5.6 — открытого редактора изображений RAW](https://habr.com/ru/news/1043122/?utm_campaign=1043122&utm_source=habrahabr&utm_medium=rss)
-- [Релиз BATorrent 3.0 — легковесного BitTorrent-клиента, созданного на C++, Qt 6 и libtorrent-rasterbar](https://habr.com/ru/news/1043330/?utm_campaign=1043330&utm_source=habrahabr&utm_medium=rss)
-- [MAX удалили из App Store](https://habr.com/ru/news/1043400/?utm_campaign=1043400&utm_source=habrahabr&utm_medium=rss)
+- [Память подорожала в 6 раз, а Morgan Stanley предупреждает о новой угрозе — чипфляции](https://habr.com/ru/news/1043640/?utm_campaign=1043640&utm_source=habrahabr&utm_medium=rss)
+- [Meta* сократила планы отслеживания нажатий клавиш сотрудниками после внутреннего протеста](https://habr.com/ru/news/1043638/?utm_campaign=1043638&utm_source=habrahabr&utm_medium=rss)
+- [Solar webProxy заблокировала 32,1 млрд обращений к вредоносным ресурсам в школах](https://habr.com/ru/companies/solarsecurity/news/1043632/?utm_campaign=1043632&utm_source=habrahabr&utm_medium=rss)
+- [Ideogram релизнул четвертую версию T2i модели](https://habr.com/ru/news/1043620/?utm_campaign=1043620&utm_source=habrahabr&utm_medium=rss)
+- [Приступаем к разработке собственного ИБ-решения для SPI-анализа облачных сред](https://habr.com/ru/companies/ruvds/news/1043242/?utm_campaign=1043242&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
