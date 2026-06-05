@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление ЛидерТаск от 5 июня: реакции в чатах, шаринг из сторонних приложений и пакетное перемещение задач](https://habr.com/ru/companies/leadertask/news/1043980/?utm_campaign=1043980&utm_source=habrahabr&utm_medium=rss)
+- [Трафик ботов и ИИ-агентов впервые превысил активность людей](https://habr.com/ru/news/1044052/?utm_campaign=1044052&utm_source=habrahabr&utm_medium=rss)
+- [Маск планирует десятикратно увеличить группировку спутников Starlink на орбите](https://habr.com/ru/news/1044018/?utm_campaign=1044018&utm_source=habrahabr&utm_medium=rss)
+- [Вышла опенсорсная библиотека для устранения шума на изображениях Open Image Denoise 2.5](https://habr.com/ru/news/1044006/?utm_campaign=1044006&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT научили «видеть сны», чтобы лучше помнить пользователя](https://habr.com/ru/news/1043996/?utm_campaign=1043996&utm_source=habrahabr&utm_medium=rss)
-- [Mail.ru, вслед за Яндексом, тоже отрубает IMAP/SMTP](https://habr.com/ru/news/1043988/?utm_campaign=1043988&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила MAX из App Store из-за санкций](https://habr.com/ru/news/1043950/?utm_campaign=1043950&utm_source=habrahabr&utm_medium=rss)
-- [Luxms BI v12: платформа с ИИ для нового поколения корпоративной аналитики](https://habr.com/ru/companies/luxms_bi/news/1043934/?utm_campaign=1043934&utm_source=habrahabr&utm_medium=rss)
-- [Биоугроза от ИИ становится реальной: OpenAI, Anthropic и Google подписали письмо о ДНК-скрининге](https://habr.com/ru/news/1043916/?utm_campaign=1043916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
