@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск Trayy 3.1 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/1043344/?utm_campaign=1043344&utm_source=habrahabr&utm_medium=rss)
+- [$80 за миллион токенов? По слухам, Anthropic готовит Claude Mythos к релизу](https://habr.com/ru/news/1043836/?utm_campaign=1043836&utm_source=habrahabr&utm_medium=rss)
+- [Релиз NWinfo 1.6.4 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/1043340/?utm_campaign=1043340&utm_source=habrahabr&utm_medium=rss)
 - [ИИ Nemotron 3 Ultra от Nvidia доступен бесплатно на OpenRouter](https://habr.com/ru/news/1043826/?utm_campaign=1043826&utm_source=habrahabr&utm_medium=rss)
 - [Google предлагает Android-разработчикам продавать доступ к коду для обучения нейросетей](https://habr.com/ru/news/1043800/?utm_campaign=1043800&utm_source=habrahabr&utm_medium=rss)
-- [БЮРО 1440 И ФПК представили дорожную карту внедрения спутниковой связи в поездах дальнего следования](https://habr.com/ru/news/1043788/?utm_campaign=1043788&utm_source=habrahabr&utm_medium=rss)
-- [В рамках хакатона MOEX AI Hackathon, тесты ИИ‑агентов на Мосбирже показывают обгон индекса IMOEX](https://habr.com/ru/news/1043786/?utm_campaign=1043786&utm_source=habrahabr&utm_medium=rss)
-- [Claude пишет 80% кода Anthropic — люди уже не успевают проверять](https://habr.com/ru/news/1043770/?utm_campaign=1043770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
