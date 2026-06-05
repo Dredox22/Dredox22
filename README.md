@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление ЛидерТаск от 5 июня: реакции в чатах, шаринг из сторонних приложений и пакетное перемещение задач](https://habr.com/ru/companies/leadertask/news/1043980/?utm_campaign=1043980&utm_source=habrahabr&utm_medium=rss)
-- [Трафик ботов и ИИ-агентов впервые превысил активность людей](https://habr.com/ru/news/1044052/?utm_campaign=1044052&utm_source=habrahabr&utm_medium=rss)
-- [Маск планирует десятикратно увеличить группировку спутников Starlink на орбите](https://habr.com/ru/news/1044018/?utm_campaign=1044018&utm_source=habrahabr&utm_medium=rss)
-- [Вышла опенсорсная библиотека для устранения шума на изображениях Open Image Denoise 2.5](https://habr.com/ru/news/1044006/?utm_campaign=1044006&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT научили «видеть сны», чтобы лучше помнить пользователя](https://habr.com/ru/news/1043996/?utm_campaign=1043996&utm_source=habrahabr&utm_medium=rss)
+- [Глава «Ростелекома»: из-за удаления MAX из App Store российские пользователи откажутся от iPhone и перейдут на Android](https://habr.com/ru/news/1044170/?utm_campaign=1044170&utm_source=habrahabr&utm_medium=rss)
+- [В SELECTOS устранили критическую уязвимость CVE-2026-49975](https://habr.com/ru/companies/selectel/news/1044126/?utm_campaign=1044126&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Переход с Microsoft Exchange на Почту VK WorkSpace: пошаговый план»](https://habr.com/ru/companies/k2tech/news/1044146/?utm_campaign=1044146&utm_source=habrahabr&utm_medium=rss)
+- [Производители браузеров написали открытое письмо Microsoft с призывом: «Хватит!»](https://habr.com/ru/news/1044136/?utm_campaign=1044136&utm_source=habrahabr&utm_medium=rss)
+- [Как математическая оптимизация помогает бизнесу снижать издержки в логистике: итоги бизнес-завтрака UMSERV](https://habr.com/ru/news/1044122/?utm_campaign=1044122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
