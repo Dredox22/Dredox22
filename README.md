@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Не ждите сочувствия, когда ИИ придет за вами» — резкое интервью евангелиста Kubernetes](https://habr.com/ru/news/1044262/?utm_campaign=1044262&utm_source=habrahabr&utm_medium=rss)
 - [В Китае создают ИИ для «борьбы с фейками» и написания госдокументов](https://habr.com/ru/news/1044250/?utm_campaign=1044250&utm_source=habrahabr&utm_medium=rss)
 - [Глава «Ростелекома»: из-за удаления MAX из App Store российские пользователи откажутся от iPhone и перейдут на Android](https://habr.com/ru/news/1044170/?utm_campaign=1044170&utm_source=habrahabr&utm_medium=rss)
 - [В SELECTOS устранили критическую уязвимость CVE-2026-49975](https://habr.com/ru/companies/selectel/news/1044126/?utm_campaign=1044126&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар «Переход с Microsoft Exchange на Почту VK WorkSpace: пошаговый план»](https://habr.com/ru/companies/k2tech/news/1044146/?utm_campaign=1044146&utm_source=habrahabr&utm_medium=rss)
-- [Производители браузеров написали открытое письмо Microsoft с призывом: «Хватит!»](https://habr.com/ru/news/1044136/?utm_campaign=1044136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
