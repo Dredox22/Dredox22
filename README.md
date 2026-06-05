@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск Trayy 3.1 — открытого приложения для Windows 10/11, которое расширяет возможности системного трея](https://habr.com/ru/news/1043344/?utm_campaign=1043344&utm_source=habrahabr&utm_medium=rss)
-- [$80 за миллион токенов? По слухам, Anthropic готовит Claude Mythos к релизу](https://habr.com/ru/news/1043836/?utm_campaign=1043836&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NWinfo 1.6.4 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/1043340/?utm_campaign=1043340&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Nemotron 3 Ultra от Nvidia доступен бесплатно на OpenRouter](https://habr.com/ru/news/1043826/?utm_campaign=1043826&utm_source=habrahabr&utm_medium=rss)
-- [Google предлагает Android-разработчикам продавать доступ к коду для обучения нейросетей](https://habr.com/ru/news/1043800/?utm_campaign=1043800&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT научили «видеть сны», чтобы лучше помнить пользователя](https://habr.com/ru/news/1043996/?utm_campaign=1043996&utm_source=habrahabr&utm_medium=rss)
+- [Mail.ru, вслед за Яндексом, тоже отрубает IMAP/SMTP](https://habr.com/ru/news/1043988/?utm_campaign=1043988&utm_source=habrahabr&utm_medium=rss)
+- [Apple удалила MAX из App Store из-за санкций](https://habr.com/ru/news/1043950/?utm_campaign=1043950&utm_source=habrahabr&utm_medium=rss)
+- [Luxms BI v12: платформа с ИИ для нового поколения корпоративной аналитики](https://habr.com/ru/companies/luxms_bi/news/1043934/?utm_campaign=1043934&utm_source=habrahabr&utm_medium=rss)
+- [Биоугроза от ИИ становится реальной: OpenAI, Anthropic и Google подписали письмо о ДНК-скрининге](https://habr.com/ru/news/1043916/?utm_campaign=1043916&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
