@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ спроектировал вакцину от ковида и будущих пандемий — и она впервые прошла испытание на людях](https://habr.com/ru/news/1044362/?utm_campaign=1044362&utm_source=habrahabr&utm_medium=rss)
 - [Глава Microsoft: уволили инженера — ваши знания утекли в ИИ конкурента](https://habr.com/ru/news/1044328/?utm_campaign=1044328&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba опубликовала Open Code Review с реализацией гибридной архитектуры рецензирования](https://habr.com/ru/news/1044310/?utm_campaign=1044310&utm_source=habrahabr&utm_medium=rss)
 - [340 местных новостных изданий блокируют Интернет-архив](https://habr.com/ru/news/1044308/?utm_campaign=1044308&utm_source=habrahabr&utm_medium=rss)
 - [MAX перестал работать на iPhone у части пользователей, в пресс-службе пояснили, что это не так](https://habr.com/ru/news/1044304/?utm_campaign=1044304&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 149](https://habr.com/ru/news/1043866/?utm_campaign=1043866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
