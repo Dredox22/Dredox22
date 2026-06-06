@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Microsoft: уволили инженера — ваши знания утекли в ИИ конкурента](https://habr.com/ru/news/1044328/?utm_campaign=1044328&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba опубликовала Open Code Review с реализацией гибридной архитектуры рецензирования](https://habr.com/ru/news/1044310/?utm_campaign=1044310&utm_source=habrahabr&utm_medium=rss)
+- [340 местных новостных изданий блокируют Интернет-архив](https://habr.com/ru/news/1044308/?utm_campaign=1044308&utm_source=habrahabr&utm_medium=rss)
+- [MAX перестал работать на iPhone у части пользователей, в пресс-службе пояснили, что это не так](https://habr.com/ru/news/1044304/?utm_campaign=1044304&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Chrome 149](https://habr.com/ru/news/1043866/?utm_campaign=1043866&utm_source=habrahabr&utm_medium=rss)
-- [Представлен браузерный мультиплеерный Warcraft III](https://habr.com/ru/news/1044286/?utm_campaign=1044286&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта фильтрующего прокси Privoxy 4.2.0](https://habr.com/ru/news/1043862/?utm_campaign=1043862&utm_source=habrahabr&utm_medium=rss)
-- [«Не ждите сочувствия, когда ИИ придет за вами» — резкое интервью евангелиста Kubernetes](https://habr.com/ru/news/1044262/?utm_campaign=1044262&utm_source=habrahabr&utm_medium=rss)
-- [В Китае создают ИИ для «борьбы с фейками» и написания госдокументов](https://habr.com/ru/news/1044250/?utm_campaign=1044250&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
