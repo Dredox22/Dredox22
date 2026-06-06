@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ, который пойдет на смартфоне: Google Gemma 4 получила квантованные версии](https://habr.com/ru/news/1044460/?utm_campaign=1044460&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты «Лаборатории Касперского» обнаружили новое ВПО Argamal, распространяемый под видом игр 18+](https://habr.com/ru/news/1044410/?utm_campaign=1044410&utm_source=habrahabr&utm_medium=rss)
 - [Mythos все-таки стала инструментом для наступательных киберопераций США](https://habr.com/ru/news/1044388/?utm_campaign=1044388&utm_source=habrahabr&utm_medium=rss)
 - [Шадаев: Минцифры ведёт переговоры с Apple по восстановлению MAX в App Store](https://habr.com/ru/news/1044382/?utm_campaign=1044382&utm_source=habrahabr&utm_medium=rss)
 - [ИИ спроектировал вакцину от ковида и будущих пандемий — и она впервые прошла испытание на людях](https://habr.com/ru/news/1044362/?utm_campaign=1044362&utm_source=habrahabr&utm_medium=rss)
-- [Глава Microsoft: уволили инженера — ваши знания утекли в ИИ конкурента](https://habr.com/ru/news/1044328/?utm_campaign=1044328&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
