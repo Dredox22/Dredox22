@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mythos все-таки стала инструментом для наступательных киберопераций США](https://habr.com/ru/news/1044388/?utm_campaign=1044388&utm_source=habrahabr&utm_medium=rss)
+- [Шадаев: Минцифры ведёт переговоры с Apple по восстановлению MAX в App Store](https://habr.com/ru/news/1044382/?utm_campaign=1044382&utm_source=habrahabr&utm_medium=rss)
 - [ИИ спроектировал вакцину от ковида и будущих пандемий — и она впервые прошла испытание на людях](https://habr.com/ru/news/1044362/?utm_campaign=1044362&utm_source=habrahabr&utm_medium=rss)
 - [Глава Microsoft: уволили инженера — ваши знания утекли в ИИ конкурента](https://habr.com/ru/news/1044328/?utm_campaign=1044328&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba опубликовала Open Code Review с реализацией гибридной архитектуры рецензирования](https://habr.com/ru/news/1044310/?utm_campaign=1044310&utm_source=habrahabr&utm_medium=rss)
-- [340 местных новостных изданий блокируют Интернет-архив](https://habr.com/ru/news/1044308/?utm_campaign=1044308&utm_source=habrahabr&utm_medium=rss)
-- [MAX перестал работать на iPhone у части пользователей, в пресс-службе пояснили, что это не так](https://habr.com/ru/news/1044304/?utm_campaign=1044304&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
