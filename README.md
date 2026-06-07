@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code, но опенсорсный: вышел ИИ-агент Kimi Code CLI](https://habr.com/ru/news/1044464/?utm_campaign=1044464&utm_source=habrahabr&utm_medium=rss)
+- [Режим блокировки от OpenAI защитит конфиденциальные данные от атак с внедрением промптов](https://habr.com/ru/news/1044488/?utm_campaign=1044488&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Opengram — сервер для протокола Telegram](https://habr.com/ru/news/1044484/?utm_campaign=1044484&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для профессиональной записи и обработки звука Ardour 9.7](https://habr.com/ru/news/1044294/?utm_campaign=1044294&utm_source=habrahabr&utm_medium=rss)
 - [ИИ, который пойдет на смартфоне: Google Gemma 4 получила квантованные версии](https://habr.com/ru/news/1044460/?utm_campaign=1044460&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты «Лаборатории Касперского» обнаружили новое ВПО Argamal, распространяемый под видом игр 18+](https://habr.com/ru/news/1044410/?utm_campaign=1044410&utm_source=habrahabr&utm_medium=rss)
-- [Mythos все-таки стала инструментом для наступательных киберопераций США](https://habr.com/ru/news/1044388/?utm_campaign=1044388&utm_source=habrahabr&utm_medium=rss)
-- [Шадаев: Минцифры ведёт переговоры с Apple по восстановлению MAX в App Store](https://habr.com/ru/news/1044382/?utm_campaign=1044382&utm_source=habrahabr&utm_medium=rss)
-- [ИИ спроектировал вакцину от ковида и будущих пандемий — и она впервые прошла испытание на людях](https://habr.com/ru/news/1044362/?utm_campaign=1044362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
