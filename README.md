@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok все? Google арендует у Маска вычислительные мощности на почти $1 млрд в месяц](https://habr.com/ru/news/1044642/?utm_campaign=1044642&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого эмулятора ZX Spectrum под названием Glukalka 3.1](https://habr.com/ru/news/1044630/?utm_campaign=1044630&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры запускает единую программу исследований кибербезопасности ИИ](https://habr.com/ru/news/1044628/?utm_campaign=1044628&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft хотела сделать людей «зависимыми» от ИИ-агента Scout — а CEO отрекся от стратегии своих вице-президентов](https://habr.com/ru/news/1044556/?utm_campaign=1044556&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code, но опенсорсный: вышел ИИ-агент Kimi Code CLI](https://habr.com/ru/news/1044464/?utm_campaign=1044464&utm_source=habrahabr&utm_medium=rss)
-- [Режим блокировки от OpenAI защитит конфиденциальные данные от атак с внедрением промптов](https://habr.com/ru/news/1044488/?utm_campaign=1044488&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Opengram — сервер для протокола Telegram](https://habr.com/ru/news/1044484/?utm_campaign=1044484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
