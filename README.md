@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Positive Education: 2000 студентов отработали расследование кибератак на тренажере PT EdTechLab](https://habr.com/ru/companies/pt/news/1045014/?utm_campaign=1045014&utm_source=habrahabr&utm_medium=rss)
+- [Экзорцизм прокси-призраков: Как за 15 минут спасти Smart TV от рабства в ИИ-фермах и очистить карму своего IP](https://habr.com/ru/news/1044994/?utm_campaign=1044994&utm_source=habrahabr&utm_medium=rss)
+- [МТС Банк усиливает безопасность цифровых сервисов с помощью PT Application Inspector](https://habr.com/ru/companies/pt/news/1044948/?utm_campaign=1044948&utm_source=habrahabr&utm_medium=rss)
 - [Приложение MotoSync+ для WiFi-роутеров Motorola перестало работать](https://habr.com/ru/news/1044538/?utm_campaign=1044538&utm_source=habrahabr&utm_medium=rss)
 - [Людям предстоит решить, давать ли AGI сознание: Хассабис о «втором Рубиконе»](https://habr.com/ru/news/1044828/?utm_campaign=1044828&utm_source=habrahabr&utm_medium=rss)
-- [Порядок в версиях через libs.versions.toml и Bill of Materials](https://habr.com/ru/companies/pvs-studio/news/1044814/?utm_campaign=1044814&utm_source=habrahabr&utm_medium=rss)
-- [Представлены победители IOCCC 29 &lpar;международного конкурса обфускации кода на языке C&rpar;](https://habr.com/ru/news/1044760/?utm_campaign=1044760&utm_source=habrahabr&utm_medium=rss)
-- [AWS внедряет в своих ЦОД квазислучайную архитектуру на базе отказоустойчивых сетевых графов](https://habr.com/ru/news/1044742/?utm_campaign=1044742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
