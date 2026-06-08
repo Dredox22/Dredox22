@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* признала и исправила проблему, из-за которой любой мог завладеть чужим аккаунтом в Instagram](https://habr.com/ru/news/1044540/?utm_campaign=1044540&utm_source=habrahabr&utm_medium=rss)
 - [Grok все? Google арендует у Маска вычислительные мощности на почти $1 млрд в месяц](https://habr.com/ru/news/1044642/?utm_campaign=1044642&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления открытого эмулятора ZX Spectrum под названием Glukalka 3.1](https://habr.com/ru/news/1044630/?utm_campaign=1044630&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры запускает единую программу исследований кибербезопасности ИИ](https://habr.com/ru/news/1044628/?utm_campaign=1044628&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft хотела сделать людей «зависимыми» от ИИ-агента Scout — а CEO отрекся от стратегии своих вице-президентов](https://habr.com/ru/news/1044556/?utm_campaign=1044556&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code, но опенсорсный: вышел ИИ-агент Kimi Code CLI](https://habr.com/ru/news/1044464/?utm_campaign=1044464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
