@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Chrome установил рекорды производительности в тестах Speedometer 3.1 и JetStream 3 на MacBook Pro](https://habr.com/ru/news/1044696/?utm_campaign=1044696&utm_source=habrahabr&utm_medium=rss)
-- [Открыл репозиторий в Claude Code — и ключи украдены: атака вырубила 73 репозитория Microsoft](https://habr.com/ru/news/1044664/?utm_campaign=1044664&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта для ведения заметок OutWiker 4.0](https://habr.com/ru/news/1044618/?utm_campaign=1044618&utm_source=habrahabr&utm_medium=rss)
-- [Meta* признала и исправила проблему, из-за которой любой мог завладеть чужим аккаунтом в Instagram](https://habr.com/ru/news/1044540/?utm_campaign=1044540&utm_source=habrahabr&utm_medium=rss)
-- [Grok все? Google арендует у Маска вычислительные мощности на почти $1 млрд в месяц](https://habr.com/ru/news/1044642/?utm_campaign=1044642&utm_source=habrahabr&utm_medium=rss)
+- [Приложение MotoSync+ для WiFi-роутеров Motorola перестало работать](https://habr.com/ru/news/1044538/?utm_campaign=1044538&utm_source=habrahabr&utm_medium=rss)
+- [Людям предстоит решить, давать ли AGI сознание: Хассабис о «втором Рубиконе»](https://habr.com/ru/news/1044828/?utm_campaign=1044828&utm_source=habrahabr&utm_medium=rss)
+- [Порядок в версиях через libs.versions.toml и Bill of Materials](https://habr.com/ru/companies/pvs-studio/news/1044814/?utm_campaign=1044814&utm_source=habrahabr&utm_medium=rss)
+- [Представлены победители IOCCC 29 &lpar;международного конкурса обфускации кода на языке C&rpar;](https://habr.com/ru/news/1044760/?utm_campaign=1044760&utm_source=habrahabr&utm_medium=rss)
+- [AWS внедряет в своих ЦОД квазислучайную архитектуру на базе отказоустойчивых сетевых графов](https://habr.com/ru/news/1044742/?utm_campaign=1044742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
