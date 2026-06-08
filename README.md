@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome установил рекорды производительности в тестах Speedometer 3.1 и JetStream 3 на MacBook Pro](https://habr.com/ru/news/1044696/?utm_campaign=1044696&utm_source=habrahabr&utm_medium=rss)
+- [Открыл репозиторий в Claude Code — и ключи украдены: атака вырубила 73 репозитория Microsoft](https://habr.com/ru/news/1044664/?utm_campaign=1044664&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта для ведения заметок OutWiker 4.0](https://habr.com/ru/news/1044618/?utm_campaign=1044618&utm_source=habrahabr&utm_medium=rss)
 - [Meta* признала и исправила проблему, из-за которой любой мог завладеть чужим аккаунтом в Instagram](https://habr.com/ru/news/1044540/?utm_campaign=1044540&utm_source=habrahabr&utm_medium=rss)
 - [Grok все? Google арендует у Маска вычислительные мощности на почти $1 млрд в месяц](https://habr.com/ru/news/1044642/?utm_campaign=1044642&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого эмулятора ZX Spectrum под названием Glukalka 3.1](https://habr.com/ru/news/1044630/?utm_campaign=1044630&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры запускает единую программу исследований кибербезопасности ИИ](https://habr.com/ru/news/1044628/?utm_campaign=1044628&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft хотела сделать людей «зависимыми» от ИИ-агента Scout — а CEO отрекся от стратегии своих вице-президентов](https://habr.com/ru/news/1044556/?utm_campaign=1044556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
