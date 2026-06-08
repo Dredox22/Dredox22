@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Positive Education: 2000 студентов отработали расследование кибератак на тренажере PT EdTechLab](https://habr.com/ru/companies/pt/news/1045014/?utm_campaign=1045014&utm_source=habrahabr&utm_medium=rss)
-- [Экзорцизм прокси-призраков: Как за 15 минут спасти Smart TV от рабства в ИИ-фермах и очистить карму своего IP](https://habr.com/ru/news/1044994/?utm_campaign=1044994&utm_source=habrahabr&utm_medium=rss)
-- [МТС Банк усиливает безопасность цифровых сервисов с помощью PT Application Inspector](https://habr.com/ru/companies/pt/news/1044948/?utm_campaign=1044948&utm_source=habrahabr&utm_medium=rss)
-- [Приложение MotoSync+ для WiFi-роутеров Motorola перестало работать](https://habr.com/ru/news/1044538/?utm_campaign=1044538&utm_source=habrahabr&utm_medium=rss)
-- [Людям предстоит решить, давать ли AGI сознание: Хассабис о «втором Рубиконе»](https://habr.com/ru/news/1044828/?utm_campaign=1044828&utm_source=habrahabr&utm_medium=rss)
+- [Московскую студентку выгнали из-за ИИ в дипломе. Она отсудила восстановление и компенсацию](https://habr.com/ru/news/1045146/?utm_campaign=1045146&utm_source=habrahabr&utm_medium=rss)
+- [В правительстве РФ заявили, что не будут ограничивать использование иностранных ИИ](https://habr.com/ru/news/1045128/?utm_campaign=1045128&utm_source=habrahabr&utm_medium=rss)
+- [ИИ, нажми на тормоза](https://habr.com/ru/news/1045126/?utm_campaign=1045126&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» работает над смартфоном, который невозможно взломать](https://habr.com/ru/news/1045124/?utm_campaign=1045124&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Kimi Work — ИИ-агент, который работает без сна](https://habr.com/ru/news/1045120/?utm_campaign=1045120&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
