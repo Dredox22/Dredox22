@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в iOS 27: улучшенная Siri и работа над ошибками в Liquid Glass](https://habr.com/ru/news/1045204/?utm_campaign=1045204&utm_source=habrahabr&utm_medium=rss)
+- [Из ИИ-агентов выходят хорошие программисты, но плохие биологи. Anthropic объясняет почему](https://habr.com/ru/news/1045202/?utm_campaign=1045202&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агент из Купертино: новая Siri от Apple работает на Google Gemini и знает о пользователе почти все](https://habr.com/ru/news/1045174/?utm_campaign=1045174&utm_source=habrahabr&utm_medium=rss)
 - [В РФ может быть поднят «ГосVPN» под нужды российских разработчиков для доступа к зарубежным сервисам](https://habr.com/ru/news/1045166/?utm_campaign=1045166&utm_source=habrahabr&utm_medium=rss)
 - [Московскую студентку выгнали из-за ИИ в дипломе. Она отсудила восстановление и компенсацию](https://habr.com/ru/news/1045146/?utm_campaign=1045146&utm_source=habrahabr&utm_medium=rss)
-- [В правительстве РФ заявили, что не будут ограничивать использование иностранных ИИ](https://habr.com/ru/news/1045128/?utm_campaign=1045128&utm_source=habrahabr&utm_medium=rss)
-- [ИИ, нажми на тормоза](https://habr.com/ru/news/1045126/?utm_campaign=1045126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
