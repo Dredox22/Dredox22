@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Mythos может выйти уже сегодня. Предполагаемое название — Claude Fable 5](https://habr.com/ru/news/1045232/?utm_campaign=1045232&utm_source=habrahabr&utm_medium=rss)
+- [Технологический сбор на электронику будет зависеть от бренда, модели и характеристик устройств](https://habr.com/ru/news/1045226/?utm_campaign=1045226&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek V4 запустил ценовую войну в Китае: Xiaomi срезала цены на API до 99%](https://habr.com/ru/news/1045206/?utm_campaign=1045206&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Emscripten 6.0 — компилятор из C/C++ в WebAssembly](https://habr.com/ru/news/1045022/?utm_campaign=1045022&utm_source=habrahabr&utm_medium=rss)
 - [Что нового в iOS 27: улучшенная Siri и работа над ошибками в Liquid Glass](https://habr.com/ru/news/1045204/?utm_campaign=1045204&utm_source=habrahabr&utm_medium=rss)
-- [Из ИИ-агентов выходят хорошие программисты, но плохие биологи. Anthropic объясняет почему](https://habr.com/ru/news/1045202/?utm_campaign=1045202&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент из Купертино: новая Siri от Apple работает на Google Gemini и знает о пользователе почти все](https://habr.com/ru/news/1045174/?utm_campaign=1045174&utm_source=habrahabr&utm_medium=rss)
-- [В РФ может быть поднят «ГосVPN» под нужды российских разработчиков для доступа к зарубежным сервисам](https://habr.com/ru/news/1045166/?utm_campaign=1045166&utm_source=habrahabr&utm_medium=rss)
-- [Московскую студентку выгнали из-за ИИ в дипломе. Она отсудила восстановление и компенсацию](https://habr.com/ru/news/1045146/?utm_campaign=1045146&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
