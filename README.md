@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple намерена удалять из App Store некачественные и невостребованные приложения](https://habr.com/ru/news/1045646/?utm_campaign=1045646&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик Mesa задействовал ИИ для рефакторинга драйвера видеокарт Radeon 20-летней давности](https://habr.com/ru/companies/selectel/news/1045564/?utm_campaign=1045564&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустили Fable 5 &lpar;модель уровня Mythos&rpar; для всех](https://habr.com/ru/news/1045642/?utm_campaign=1045642&utm_source=habrahabr&utm_medium=rss)
 - [Signal назвал требование Великобритании сканировать устройства «антиутопией» и угрозой для всех пользователей](https://habr.com/ru/news/1045606/?utm_campaign=1045606&utm_source=habrahabr&utm_medium=rss)
 - [Meta* удалила систему распознавания лиц из своего приложения для умных очков](https://habr.com/ru/news/1045604/?utm_campaign=1045604&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi разогнали 1T-модель до 1200 tok/s на стандартных GPU](https://habr.com/ru/news/1045594/?utm_campaign=1045594&utm_source=habrahabr&utm_medium=rss)
-- [Telegram вернулся на Apple Watch: для умных часов выпустили обновлённое приложение](https://habr.com/ru/news/1045584/?utm_campaign=1045584&utm_source=habrahabr&utm_medium=rss)
-- [Как подружить VMware, K8s и изолированные контуры без головной боли](https://habr.com/ru/companies/mws/news/1045550/?utm_campaign=1045550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
