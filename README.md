@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: «Билайн» запустил «белый VPN» с доступом к Spotify, Netflix, Ticketmaster, Brawl Stars и другим сервисам](https://habr.com/ru/news/1045508/?utm_campaign=1045508&utm_source=habrahabr&utm_medium=rss)
-- [️ Anthropic готовится представить коммерческую версию Mythos](https://habr.com/ru/news/1045478/?utm_campaign=1045478&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» добавил в «ГигаЧат» новые инструменты для редактирования изображений](https://habr.com/ru/news/1045474/?utm_campaign=1045474&utm_source=habrahabr&utm_medium=rss)
-- [JVM, Spring-прокси и переезд на Temporal: Java-митап от Яндекс Вертикалей в Екатеринбурге](https://habr.com/ru/companies/yandex/news/1045426/?utm_campaign=1045426&utm_source=habrahabr&utm_medium=rss)
-- [Банки обеспечили 30% всех массовых рекламных звонков в России](https://habr.com/ru/news/1045464/?utm_campaign=1045464&utm_source=habrahabr&utm_medium=rss)
+- [Signal назвал требование Великобритании сканировать устройства «антиутопией» и угрозой для всех пользователей](https://habr.com/ru/news/1045606/?utm_campaign=1045606&utm_source=habrahabr&utm_medium=rss)
+- [Meta* удалила систему распознавания лиц из своего приложения для умных очков](https://habr.com/ru/news/1045604/?utm_campaign=1045604&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi разогнали 1T-модель до 1200 tok/s на стандартных GPU](https://habr.com/ru/news/1045594/?utm_campaign=1045594&utm_source=habrahabr&utm_medium=rss)
+- [Telegram вернулся на Apple Watch: для умных часов выпустили обновлённое приложение](https://habr.com/ru/news/1045584/?utm_campaign=1045584&utm_source=habrahabr&utm_medium=rss)
+- [Как подружить VMware, K8s и изолированные контуры без головной боли](https://habr.com/ru/companies/mws/news/1045550/?utm_campaign=1045550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
