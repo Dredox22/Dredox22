@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Mythos может выйти уже сегодня. Предполагаемое название — Claude Fable 5](https://habr.com/ru/news/1045232/?utm_campaign=1045232&utm_source=habrahabr&utm_medium=rss)
-- [Технологический сбор на электронику будет зависеть от бренда, модели и характеристик устройств](https://habr.com/ru/news/1045226/?utm_campaign=1045226&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek V4 запустил ценовую войну в Китае: Xiaomi срезала цены на API до 99%](https://habr.com/ru/news/1045206/?utm_campaign=1045206&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Emscripten 6.0 — компилятор из C/C++ в WebAssembly](https://habr.com/ru/news/1045022/?utm_campaign=1045022&utm_source=habrahabr&utm_medium=rss)
-- [Что нового в iOS 27: улучшенная Siri и работа над ошибками в Liquid Glass](https://habr.com/ru/news/1045204/?utm_campaign=1045204&utm_source=habrahabr&utm_medium=rss)
+- [UserGate выпустил новую версию межсетевого экрана для защиты веб‑приложений uWAF 7.6.0](https://habr.com/ru/companies/usergate/news/1045378/?utm_campaign=1045378&utm_source=habrahabr&utm_medium=rss)
+- [Один из 16 спутников низкоорбитальной группировки «Рассвет» от «Бюро 1440» не вышел на назначенную орбиту](https://habr.com/ru/news/1045370/?utm_campaign=1045370&utm_source=habrahabr&utm_medium=rss)
+- [Luxms BI на Всероссийских ИТ-Играх 2026](https://habr.com/ru/companies/luxms_bi/news/1045330/?utm_campaign=1045330&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволила отключить Bing в поиске Windows 11](https://habr.com/ru/news/1045296/?utm_campaign=1045296&utm_source=habrahabr&utm_medium=rss)
+- [VideoLAN представила открытый проект быстрого декодера AV2](https://habr.com/ru/news/1045284/?utm_campaign=1045284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
