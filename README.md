@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Глава Anthropic: ИИ нужно регулировать как авиацию — с правом блокировать модели](https://habr.com/ru/news/1046271/?utm_campaign=1046271&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила инструмент Container для запуска Linux-контейнеров на Mac](https://habr.com/ru/news/1046247/?utm_campaign=1046247&utm_source=habrahabr&utm_medium=rss)
+- [«Базальт СПО» и «Диасофт» подтвердили совместимость ОС «Альт Сервер» с СУБД Digital Q.DataBase](https://habr.com/ru/news/1046227/?utm_campaign=1046227&utm_source=habrahabr&utm_medium=rss)
 - [Представлена демо-версия игры Cat Chess — шахматы, в которых вместо фигур разные коты](https://habr.com/ru/news/1046205/?utm_campaign=1046205&utm_source=habrahabr&utm_medium=rss)
 - [Швейцарским учёным удалось получить по-настоящему случайные числа благодаря квантовым эффектам](https://habr.com/ru/news/1046173/?utm_campaign=1046173&utm_source=habrahabr&utm_medium=rss)
-- [Roblox разблокировали для пользователей в РФ](https://habr.com/ru/news/1046159/?utm_campaign=1046159&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek дообучили без Nvidia: 1000 Ascend 910C и 1500 итераций без сбоев](https://habr.com/ru/news/1046131/?utm_campaign=1046131&utm_source=habrahabr&utm_medium=rss)
-- [«Сферум» сообщил о росте аудитории до 20 млн пользователей и подвёл итоги 2025–2026 учебного года в Max](https://habr.com/ru/news/1046113/?utm_campaign=1046113&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
