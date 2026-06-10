@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск Qmmp 2.3.3 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/1045498/?utm_campaign=1045498&utm_source=habrahabr&utm_medium=rss)
+- [Вышел digiKam 9.1.0](https://habr.com/ru/news/1045250/?utm_campaign=1045250&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI отказалась от создания автономного ИИ-ученого к 2028 году — теперь речь идет о работе в тандеме](https://habr.com/ru/news/1045694/?utm_campaign=1045694&utm_source=habrahabr&utm_medium=rss)
 - [Несколько копий Claude Fable 5 устроили войну друг с другом: странные эпизоды из system card модели](https://habr.com/ru/news/1045688/?utm_campaign=1045688&utm_source=habrahabr&utm_medium=rss)
 - [Let&#39;s Encrypt присоединился к санкциям](https://habr.com/ru/news/1045658/?utm_campaign=1045658&utm_source=habrahabr&utm_medium=rss)
-- [Модель, которую боялись выпускать, теперь доступна всем. До 22 июня — бесплатно в подписке](https://habr.com/ru/news/1045648/?utm_campaign=1045648&utm_source=habrahabr&utm_medium=rss)
-- [Apple намерена удалять из App Store некачественные и невостребованные приложения](https://habr.com/ru/news/1045646/?utm_campaign=1045646&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Mesa задействовал ИИ для рефакторинга драйвера видеокарт Radeon 20-летней давности](https://habr.com/ru/companies/selectel/news/1045564/?utm_campaign=1045564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
