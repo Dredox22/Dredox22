@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Швейцарским учёным удалось получить по-настоящему случайные числа благодаря квантовым эффектам](https://habr.com/ru/news/1046173/?utm_campaign=1046173&utm_source=habrahabr&utm_medium=rss)
+- [Roblox разблокировали для пользователей в РФ](https://habr.com/ru/news/1046159/?utm_campaign=1046159&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek дообучили без Nvidia: 1000 Ascend 910C и 1500 итераций без сбоев](https://habr.com/ru/news/1046131/?utm_campaign=1046131&utm_source=habrahabr&utm_medium=rss)
+- [«Сферум» сообщил о росте аудитории до 20 млн пользователей и подвёл итоги 2025–2026 учебного года в Max](https://habr.com/ru/news/1046113/?utm_campaign=1046113&utm_source=habrahabr&utm_medium=rss)
 - [Почти 80% компаний АПК называют неготовность данных главным технологическим барьером цифровизации](https://habr.com/ru/companies/k2tech/news/1046047/?utm_campaign=1046047&utm_source=habrahabr&utm_medium=rss)
-- [РКН снова за своё: теперь проблемы с доступом появились у российских облачных сервисов и сайтов](https://habr.com/ru/news/1046025/?utm_campaign=1046025&utm_source=habrahabr&utm_medium=rss)
-- [Google значительно снизила стоимость своей бюджетной подписки на ИИ — до $4,99 в месяц](https://habr.com/ru/news/1046005/?utm_campaign=1046005&utm_source=habrahabr&utm_medium=rss)
-- [В «Нейроюристе» от «Яндекса» появилась функция подготовки ответов на претензии](https://habr.com/ru/news/1045983/?utm_campaign=1045983&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Coinbase рассказал, как наращивать использование нейросетей, не раздувая бюджеты на токены](https://habr.com/ru/news/1045971/?utm_campaign=1045971&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
