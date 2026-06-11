@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Глава Anthropic: ИИ нужно регулировать как авиацию — с правом блокировать модели](https://habr.com/ru/news/1046271/?utm_campaign=1046271&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила инструмент Container для запуска Linux-контейнеров на Mac](https://habr.com/ru/news/1046247/?utm_campaign=1046247&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» и «Диасофт» подтвердили совместимость ОС «Альт Сервер» с СУБД Digital Q.DataBase](https://habr.com/ru/news/1046227/?utm_campaign=1046227&utm_source=habrahabr&utm_medium=rss)
-- [Представлена демо-версия игры Cat Chess — шахматы, в которых вместо фигур разные коты](https://habr.com/ru/news/1046205/?utm_campaign=1046205&utm_source=habrahabr&utm_medium=rss)
-- [Швейцарским учёным удалось получить по-настоящему случайные числа благодаря квантовым эффектам](https://habr.com/ru/news/1046173/?utm_campaign=1046173&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft ограничила доступ своих сотрудников к новой ИИ-модели Claude Fable 5](https://habr.com/ru/news/1046373/?utm_campaign=1046373&utm_source=habrahabr&utm_medium=rss)
+- [Платформа Tantor 6.4: поддержка СУБД Tantor Polar, новые возможности ИИ-ассистента, аудита и мониторинга](https://habr.com/ru/companies/tantor/news/1046351/?utm_campaign=1046351&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики смогут объединять подписки на разные приложения в App Store в наборы](https://habr.com/ru/news/1046371/?utm_campaign=1046371&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь заметил, что приложение Max для десктопа значительно загружает MacBook, но проблема могла быть не в этом](https://habr.com/ru/news/1046353/?utm_campaign=1046353&utm_source=habrahabr&utm_medium=rss)
+- [В Linux появились патчи для критической уязвимости в процессорах Arm](https://habr.com/ru/news/1046355/?utm_campaign=1046355&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
