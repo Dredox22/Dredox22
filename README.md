@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [R-Vision SIEM и R-Vision SOAR на Standoff 17: «синие» получат дополнительные инструменты для мониторинга и реагирования](https://habr.com/ru/companies/pt/news/1046526/?utm_campaign=1046526&utm_source=habrahabr&utm_medium=rss)
-- [ТГУ тестирует NGFW от InfoWatch ARMA для защиты критической инфраструктуры](https://habr.com/ru/companies/infowatch/news/1046524/?utm_campaign=1046524&utm_source=habrahabr&utm_medium=rss)
-- [Stack Overflow запустила отдельную платформу для AI-агентов](https://habr.com/ru/news/1046497/?utm_campaign=1046497&utm_source=habrahabr&utm_medium=rss)
-- [Selectel запустил акцию «100 минут на тест мобильной фермы»](https://habr.com/ru/companies/selectel/news/1046491/?utm_campaign=1046491&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар «Современный Java Enterprise: BPM, безопасность, ИИ»](https://habr.com/ru/companies/axiomjdk/news/1046477/?utm_campaign=1046477&utm_source=habrahabr&utm_medium=rss)
+- [VK и МФТИ открыли набор на магистерскую программу «Искусственный интеллект и социальные медиа»](https://habr.com/ru/news/1046648/?utm_campaign=1046648&utm_source=habrahabr&utm_medium=rss)
+- [Подписки Anthropic и OpenAI убыточнее, чем считалось](https://habr.com/ru/news/1046644/?utm_campaign=1046644&utm_source=habrahabr&utm_medium=rss)
+- [В MIT написали ОС Fractal, которая «просвечивает» процессор — и нашла уязвимость в Apple M1](https://habr.com/ru/companies/cloud4y/news/1046622/?utm_campaign=1046622&utm_source=habrahabr&utm_medium=rss)
+- [OpenClaw и LabelStudio: расширяем каталог AI-маркетплейса Selectel](https://habr.com/ru/companies/selectel/news/1046610/?utm_campaign=1046610&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар 17 июня: почему одинаковый SLA по 1С: РКЛ дает разный результат](https://habr.com/ru/companies/infostart/news/1046594/?utm_campaign=1046594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
