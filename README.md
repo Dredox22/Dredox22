@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft ограничила доступ своих сотрудников к новой ИИ-модели Claude Fable 5](https://habr.com/ru/news/1046373/?utm_campaign=1046373&utm_source=habrahabr&utm_medium=rss)
-- [Платформа Tantor 6.4: поддержка СУБД Tantor Polar, новые возможности ИИ-ассистента, аудита и мониторинга](https://habr.com/ru/companies/tantor/news/1046351/?utm_campaign=1046351&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики смогут объединять подписки на разные приложения в App Store в наборы](https://habr.com/ru/news/1046371/?utm_campaign=1046371&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь заметил, что приложение Max для десктопа значительно загружает MacBook, но проблема могла быть не в этом](https://habr.com/ru/news/1046353/?utm_campaign=1046353&utm_source=habrahabr&utm_medium=rss)
-- [В Linux появились патчи для критической уязвимости в процессорах Arm](https://habr.com/ru/news/1046355/?utm_campaign=1046355&utm_source=habrahabr&utm_medium=rss)
+- [R-Vision SIEM и R-Vision SOAR на Standoff 17: «синие» получат дополнительные инструменты для мониторинга и реагирования](https://habr.com/ru/companies/pt/news/1046526/?utm_campaign=1046526&utm_source=habrahabr&utm_medium=rss)
+- [ТГУ тестирует NGFW от InfoWatch ARMA для защиты критической инфраструктуры](https://habr.com/ru/companies/infowatch/news/1046524/?utm_campaign=1046524&utm_source=habrahabr&utm_medium=rss)
+- [Stack Overflow запустила отдельную платформу для AI-агентов](https://habr.com/ru/news/1046497/?utm_campaign=1046497&utm_source=habrahabr&utm_medium=rss)
+- [Selectel запустил акцию «100 минут на тест мобильной фермы»](https://habr.com/ru/companies/selectel/news/1046491/?utm_campaign=1046491&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Современный Java Enterprise: BPM, безопасность, ИИ»](https://habr.com/ru/companies/axiomjdk/news/1046477/?utm_campaign=1046477&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
