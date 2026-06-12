@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В OpenIDE появилась поддержка PHP](https://habr.com/ru/companies/haulmont/news/1046778/?utm_campaign=1046778&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi выпустила MiMo Code — полноценного автономного AI-агента](https://habr.com/ru/companies/selectel/news/1046660/?utm_campaign=1046660&utm_source=habrahabr&utm_medium=rss)
+- [Представлен первый выпуск &lpar;Pre-release&rpar; операционной системы GentleOS с ретро GUI для винтажных ПК](https://habr.com/ru/news/1046385/?utm_campaign=1046385&utm_source=habrahabr&utm_medium=rss)
 - [В ReactOS запустили Half-Life](https://habr.com/ru/news/1046732/?utm_campaign=1046732&utm_source=habrahabr&utm_medium=rss)
 - [XXII конференция разработчиков свободного ПО &lpar;OSSDEVCONF&rpar; состоится в октябре 2026 года в Переславле-Залесском](https://habr.com/ru/news/1046509/?utm_campaign=1046509&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.5](https://habr.com/ru/news/1046219/?utm_campaign=1046219&utm_source=habrahabr&utm_medium=rss)
-- [Обнаружена критическая уязвимость в phpBB, позволяющая войти в учётную запись любого пользователя](https://habr.com/ru/news/1046724/?utm_campaign=1046724&utm_source=habrahabr&utm_medium=rss)
-- [VK и МФТИ открыли набор на магистерскую программу «Искусственный интеллект и социальные медиа»](https://habr.com/ru/news/1046648/?utm_campaign=1046648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
