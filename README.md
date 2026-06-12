@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Зампред комитета Госмдумы по информполитике заявил, что Telegram может восстановить работу в России по примеру Roblox](https://habr.com/ru/news/1046910/?utm_campaign=1046910&utm_source=habrahabr&utm_medium=rss)
 - [IPO SpaceX сделало Маска первым триллионером, а 4400 сотрудников компании — миллионерами](https://habr.com/ru/news/1046894/?utm_campaign=1046894&utm_source=habrahabr&utm_medium=rss)
 - [Альтман признал, что ИИ стал слишком дорогим. OpenAI готовит снижение цен против Anthropic](https://habr.com/ru/news/1046882/?utm_campaign=1046882&utm_source=habrahabr&utm_medium=rss)
 - [Lenovo с июля повысит цены на свою технику](https://habr.com/ru/news/1046283/?utm_campaign=1046283&utm_source=habrahabr&utm_medium=rss)
 - [Moonshot AI выпустили Kimi-K2.7-Code](https://habr.com/ru/news/1046844/?utm_campaign=1046844&utm_source=habrahabr&utm_medium=rss)
-- [NBC News и iFixit: смартфон Trump T1 Phone практически полностью повторяет конструкцию HTC U24 Pro](https://habr.com/ru/news/1046834/?utm_campaign=1046834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
