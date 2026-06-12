@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В OpenIDE появилась поддержка PHP](https://habr.com/ru/companies/haulmont/news/1046778/?utm_campaign=1046778&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi выпустила MiMo Code — полноценного автономного AI-агента](https://habr.com/ru/companies/selectel/news/1046660/?utm_campaign=1046660&utm_source=habrahabr&utm_medium=rss)
-- [Представлен первый выпуск &lpar;Pre-release&rpar; операционной системы GentleOS с ретро GUI для винтажных ПК](https://habr.com/ru/news/1046385/?utm_campaign=1046385&utm_source=habrahabr&utm_medium=rss)
-- [В ReactOS запустили Half-Life](https://habr.com/ru/news/1046732/?utm_campaign=1046732&utm_source=habrahabr&utm_medium=rss)
-- [XXII конференция разработчиков свободного ПО &lpar;OSSDEVCONF&rpar; состоится в октябре 2026 года в Переславле-Залесском](https://habr.com/ru/news/1046509/?utm_campaign=1046509&utm_source=habrahabr&utm_medium=rss)
+- [IPO SpaceX сделало Маска первым триллионером, а 4400 сотрудников компании — миллионерами](https://habr.com/ru/news/1046894/?utm_campaign=1046894&utm_source=habrahabr&utm_medium=rss)
+- [Альтман признал, что ИИ стал слишком дорогим. OpenAI готовит снижение цен против Anthropic](https://habr.com/ru/news/1046882/?utm_campaign=1046882&utm_source=habrahabr&utm_medium=rss)
+- [Lenovo с июля повысит цены на свою технику](https://habr.com/ru/news/1046283/?utm_campaign=1046283&utm_source=habrahabr&utm_medium=rss)
+- [Moonshot AI выпустили Kimi-K2.7-Code](https://habr.com/ru/news/1046844/?utm_campaign=1046844&utm_source=habrahabr&utm_medium=rss)
+- [NBC News и iFixit: смартфон Trump T1 Phone практически полностью повторяет конструкцию HTC U24 Pro](https://habr.com/ru/news/1046834/?utm_campaign=1046834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
