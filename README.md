@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GLM-5.2 уже доступна: 1M контекста и открытые веса на следующей неделе](https://habr.com/ru/news/1047110/?utm_campaign=1047110&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: в случае отзыва международных сертификатов у российских сайтов есть возможность получить российские](https://habr.com/ru/news/1047106/?utm_campaign=1047106&utm_source=habrahabr&utm_medium=rss)
+- [Алгоритм определяет, с какой скоростью следует ехать по автомагистрали I-15 в Калифорнии](https://habr.com/ru/news/1047100/?utm_campaign=1047100&utm_source=habrahabr&utm_medium=rss)
 - [GlobalSign начал отзывать сертификаты безопасности российских сайтов](https://habr.com/ru/news/1047084/?utm_campaign=1047084&utm_source=habrahabr&utm_medium=rss)
 - [Японская энергетическая компания потеряла жёсткий диск с данными более 10 млн клиентов](https://habr.com/ru/news/1047060/?utm_campaign=1047060&utm_source=habrahabr&utm_medium=rss)
-- [Правительство США закрыло доступ к Claude Fable 5 неамериканцам — модель в итоге отключили для всех](https://habr.com/ru/news/1047020/?utm_campaign=1047020&utm_source=habrahabr&utm_medium=rss)
-- [Oracle предупредила корпоративных клиентов о критической уязвимости в PeopleSoft](https://habr.com/ru/news/1047014/?utm_campaign=1047014&utm_source=habrahabr&utm_medium=rss)
-- [Windows Server получил поддержку DNS over HTTPS](https://habr.com/ru/news/1047012/?utm_campaign=1047012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
