@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [С конца августа 2026 года Microsoft Edge перейдёт на двухнедельный цикл выпуска обновлений браузера](https://habr.com/ru/news/1046842/?utm_campaign=1046842&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление утилиты HWMonitor 1.64](https://habr.com/ru/news/1046964/?utm_campaign=1046964&utm_source=habrahabr&utm_medium=rss)
-- [Срочная новость: правительство США потребовало экстренно отключить доступ к Fable 5 и Mythos 5](https://habr.com/ru/news/1047000/?utm_campaign=1047000&utm_source=habrahabr&utm_medium=rss)
-- [Лучший ИИ-агент, который не слушается: Claude Fable 5 возглавил новый бенчмарк Agent Arena](https://habr.com/ru/news/1046982/?utm_campaign=1046982&utm_source=habrahabr&utm_medium=rss)
-- [Зампред комитета Госдумы по информполитике заявил, что Telegram может восстановить работу в России по примеру Roblox](https://habr.com/ru/news/1046910/?utm_campaign=1046910&utm_source=habrahabr&utm_medium=rss)
+- [Правительство США закрыло доступ к Claude Fable 5 неамериканцам — модель в итоге отключили для всех](https://habr.com/ru/news/1047020/?utm_campaign=1047020&utm_source=habrahabr&utm_medium=rss)
+- [Oracle предупредила корпоративных клиентов о критической уязвимости в PeopleSoft](https://habr.com/ru/news/1047014/?utm_campaign=1047014&utm_source=habrahabr&utm_medium=rss)
+- [Windows Server получил поддержку DNS over HTTPS](https://habr.com/ru/news/1047012/?utm_campaign=1047012&utm_source=habrahabr&utm_medium=rss)
+- [AMD отказалась выплатить исследователю вознаграждение в размере $10 000](https://habr.com/ru/news/1047010/?utm_campaign=1047010&utm_source=habrahabr&utm_medium=rss)
+- [Один ИИ против целого НИИ: DeepMind объяснила, где начинается сверхинтеллект](https://habr.com/ru/news/1046986/?utm_campaign=1046986&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
