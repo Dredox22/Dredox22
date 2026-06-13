@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [С конца августа 2026 года Microsoft Edge перейдёт на двухнедельный цикл выпуска обновлений браузера](https://habr.com/ru/news/1046842/?utm_campaign=1046842&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление утилиты HWMonitor 1.64](https://habr.com/ru/news/1046964/?utm_campaign=1046964&utm_source=habrahabr&utm_medium=rss)
+- [Срочная новость: правительство США потребовало экстренно отключить доступ к Fable 5 и Mythos 5](https://habr.com/ru/news/1047000/?utm_campaign=1047000&utm_source=habrahabr&utm_medium=rss)
 - [Лучший ИИ-агент, который не слушается: Claude Fable 5 возглавил новый бенчмарк Agent Arena](https://habr.com/ru/news/1046982/?utm_campaign=1046982&utm_source=habrahabr&utm_medium=rss)
 - [Зампред комитета Госдумы по информполитике заявил, что Telegram может восстановить работу в России по примеру Roblox](https://habr.com/ru/news/1046910/?utm_campaign=1046910&utm_source=habrahabr&utm_medium=rss)
-- [IPO SpaceX сделало Маска первым триллионером, а 4400 сотрудников компании — миллионерами](https://habr.com/ru/news/1046894/?utm_campaign=1046894&utm_source=habrahabr&utm_medium=rss)
-- [Альтман признал, что ИИ стал слишком дорогим. OpenAI готовит снижение цен против Anthropic](https://habr.com/ru/news/1046882/?utm_campaign=1046882&utm_source=habrahabr&utm_medium=rss)
-- [Lenovo с июля повысит цены на свою технику](https://habr.com/ru/news/1046283/?utm_campaign=1046283&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
