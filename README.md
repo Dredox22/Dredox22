@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Отчет KPMG про агентный ИИ написал ИИ. Он похвалил сам себя и наврал почти во всех ссылках](https://habr.com/ru/news/1047396/?utm_campaign=1047396&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление мультиплатформенного проекта RevPDF 4.5 — альтернатива Adobe Acrobat](https://habr.com/ru/news/1047216/?utm_campaign=1047216&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила версию PowerToys 0.100.0](https://habr.com/ru/news/1047348/?utm_campaign=1047348&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: форматирование ботов и Markdown-файлы](https://habr.com/ru/news/1047340/?utm_campaign=1047340&utm_source=habrahabr&utm_medium=rss)
 - [Shutterstock станет «творческой платформой на основе ИИ»](https://habr.com/ru/news/1047334/?utm_campaign=1047334&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого редактора звука Audacity 3.7.8](https://habr.com/ru/news/1046830/?utm_campaign=1046830&utm_source=habrahabr&utm_medium=rss)
-- [Amazon предупредил Белый дом о дыре в Fable 5 — и подставил Anthropic, в которую инвестировал](https://habr.com/ru/news/1047314/?utm_campaign=1047314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
