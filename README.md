@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [$2 млрд на ветер: Meta* начала сворачивать Manus по приказу Пекина](https://habr.com/ru/news/1047270/?utm_campaign=1047270&utm_source=habrahabr&utm_medium=rss)
-- [Компании платят индийцам за работу по дому под цифровую запись действий](https://habr.com/ru/news/1047250/?utm_campaign=1047250&utm_source=habrahabr&utm_medium=rss)
-- [Бывшего сотрудника IT-отдела школьного округа приговорили к тюрьме за кибератаку](https://habr.com/ru/news/1047244/?utm_campaign=1047244&utm_source=habrahabr&utm_medium=rss)
-- [В 1579 пакетах Arch Linux обнаружили вредоносные коммиты](https://habr.com/ru/news/1047240/?utm_campaign=1047240&utm_source=habrahabr&utm_medium=rss)
-- [AdGuard: удаление поддержки расширений Manifest V2 из Chromium не приведет к прекращению работы блокировщиков рекламы](https://habr.com/ru/news/1047218/?utm_campaign=1047218&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого редактора звука Audacity 3.7.8](https://habr.com/ru/news/1046830/?utm_campaign=1046830&utm_source=habrahabr&utm_medium=rss)
+- [Amazon предупредил Белый дом о дыре в Fable 5 — и подставил Anthropic, в которую инвестировал](https://habr.com/ru/news/1047314/?utm_campaign=1047314&utm_source=habrahabr&utm_medium=rss)
+- [ФБР построило собственную копию небольшого городка для имитации реальных кибератак](https://habr.com/ru/news/1047294/?utm_campaign=1047294&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст разработал приложение с уязвимостью и потратил $1500, чтобы проверить, смогут ли ИИ его взломать](https://habr.com/ru/news/1047282/?utm_campaign=1047282&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта yserver 1.0.0 — X-сервера на Rust и для запуска MATE, Xfce и Cinnamon](https://habr.com/ru/news/1047172/?utm_campaign=1047172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
