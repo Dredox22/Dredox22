@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз BATorrent 4.0 — BitTorrent-клиента, созданного на C++, Qt 6 и libtorrent-rasterbar](https://habr.com/ru/news/1047148/?utm_campaign=1047148&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Wine 11.11](https://habr.com/ru/news/1047004/?utm_campaign=1047004&utm_source=habrahabr&utm_medium=rss)
 - [«Амодеи отказался исправить Claude Fable 5»: в Белом доме объяснили блокировку мощнейшей модели Anthropic](https://habr.com/ru/news/1047184/?utm_campaign=1047184&utm_source=habrahabr&utm_medium=rss)
 - [Блокировка Fable 5 оказалась временной: США обещают вернуть доступ через несколько недель](https://habr.com/ru/news/1047146/?utm_campaign=1047146&utm_source=habrahabr&utm_medium=rss)
 - [Более 150 ведущих мировых математиков опубликовали «Лейденскую декларацию»](https://habr.com/ru/news/1047126/?utm_campaign=1047126&utm_source=habrahabr&utm_medium=rss)
-- [GLM-5.2 уже доступна: 1M контекста и открытые веса на следующей неделе](https://habr.com/ru/news/1047110/?utm_campaign=1047110&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: в случае отзыва международных сертификатов у российских сайтов есть возможность получить российские](https://habr.com/ru/news/1047106/?utm_campaign=1047106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
