@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз BATorrent 4.0 — BitTorrent-клиента, созданного на C++, Qt 6 и libtorrent-rasterbar](https://habr.com/ru/news/1047148/?utm_campaign=1047148&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.11](https://habr.com/ru/news/1047004/?utm_campaign=1047004&utm_source=habrahabr&utm_medium=rss)
-- [«Амодеи отказался исправить Claude Fable 5»: в Белом доме объяснили блокировку мощнейшей модели Anthropic](https://habr.com/ru/news/1047184/?utm_campaign=1047184&utm_source=habrahabr&utm_medium=rss)
-- [Блокировка Fable 5 оказалась временной: США обещают вернуть доступ через несколько недель](https://habr.com/ru/news/1047146/?utm_campaign=1047146&utm_source=habrahabr&utm_medium=rss)
-- [Более 150 ведущих мировых математиков опубликовали «Лейденскую декларацию»](https://habr.com/ru/news/1047126/?utm_campaign=1047126&utm_source=habrahabr&utm_medium=rss)
+- [$2 млрд на ветер: Meta* начала сворачивать Manus по приказу Пекина](https://habr.com/ru/news/1047270/?utm_campaign=1047270&utm_source=habrahabr&utm_medium=rss)
+- [Компании платят индийцам за работу по дому под цифровую запись действий](https://habr.com/ru/news/1047250/?utm_campaign=1047250&utm_source=habrahabr&utm_medium=rss)
+- [Бывшего сотрудника IT-отдела школьного округа приговорили к тюрьме за кибератаку](https://habr.com/ru/news/1047244/?utm_campaign=1047244&utm_source=habrahabr&utm_medium=rss)
+- [В 1579 пакетах Arch Linux обнаружили вредоносные коммиты](https://habr.com/ru/news/1047240/?utm_campaign=1047240&utm_source=habrahabr&utm_medium=rss)
+- [AdGuard: удаление поддержки расширений Manifest V2 из Chromium не приведет к прекращению работы блокировщиков рекламы](https://habr.com/ru/news/1047218/?utm_campaign=1047218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
