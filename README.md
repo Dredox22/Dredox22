@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый мультиплатформенный проект PUZZLE: 205 Free Brain Games &amp;amp; Logic Puzzles](https://habr.com/ru/news/1047542/?utm_campaign=1047542&utm_source=habrahabr&utm_medium=rss)
+- [Блокировка Fable 5 бьет по защитникам, а не по хакерам — эксперты по кибербезу требуют вернуть доступ](https://habr.com/ru/news/1047822/?utm_campaign=1047822&utm_source=habrahabr&utm_medium=rss)
 - [Kimi K2.7 Code стала в 6 раз быстрее — до 260 токенов в секунду](https://habr.com/ru/news/1047782/?utm_campaign=1047782&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1047770/?utm_campaign=1047770&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар: StarGuard AI — шлюз безопасности для работы с LLM от Orion soft](https://habr.com/ru/companies/orion_soft/news/1047762/?utm_campaign=1047762&utm_source=habrahabr&utm_medium=rss)
-- [Исходный код фреймворка Miasma для кражи учётных данных оказался в открытом доступе на GitHub](https://habr.com/ru/news/1047752/?utm_campaign=1047752&utm_source=habrahabr&utm_medium=rss)
-- [В Google TV появилась функция голосового управления аппаратными и системными настройками](https://habr.com/ru/news/1047744/?utm_campaign=1047744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
