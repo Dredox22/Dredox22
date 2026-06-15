@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenRouter Fusion обошел GPT-5.5 и Opus 4.8 — за счет совещания моделей](https://habr.com/ru/news/1047404/?utm_campaign=1047404&utm_source=habrahabr&utm_medium=rss)
+- [Представлена игра Pac-Hunt — это Pac-Man &lpar;Пакман&rpar;, но игрок там — призрак](https://habr.com/ru/news/1047418/?utm_campaign=1047418&utm_source=habrahabr&utm_medium=rss)
 - [Глава Microsoft объяснил, почему ИИ не обесценит людей](https://habr.com/ru/news/1047414/?utm_campaign=1047414&utm_source=habrahabr&utm_medium=rss)
 - [Отчет KPMG про агентный ИИ написал ИИ. Он похвалил сам себя и наврал почти во всех ссылках](https://habr.com/ru/news/1047396/?utm_campaign=1047396&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление мультиплатформенного проекта RevPDF 4.5 — альтернатива Adobe Acrobat](https://habr.com/ru/news/1047216/?utm_campaign=1047216&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила версию PowerToys 0.100.0](https://habr.com/ru/news/1047348/?utm_campaign=1047348&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: форматирование ботов и Markdown-файлы](https://habr.com/ru/news/1047340/?utm_campaign=1047340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
