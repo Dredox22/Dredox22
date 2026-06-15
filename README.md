@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор изменений в законодательстве за май 2026 года](https://habr.com/ru/companies/ussc/news/1047632/?utm_campaign=1047632&utm_source=habrahabr&utm_medium=rss)
-- [Джуниор больше не джуниор: ИИ требует от новичков сеньорских навыков — PwC](https://habr.com/ru/news/1047602/?utm_campaign=1047602&utm_source=habrahabr&utm_medium=rss)
-- [WAF в «железе»: UserGate первым в стране начал производство доверенных ПАК с сертификатом ФСТЭК России](https://habr.com/ru/companies/usergate/news/1047576/?utm_campaign=1047576&utm_source=habrahabr&utm_medium=rss)
-- [В ядре Linux нашли уязвимость из-за ошибочного символа](https://habr.com/ru/news/1047564/?utm_campaign=1047564&utm_source=habrahabr&utm_medium=rss)
-- [В МВД сообщили о фейковом сайте Роскомнадзора](https://habr.com/ru/news/1047572/?utm_campaign=1047572&utm_source=habrahabr&utm_medium=rss)
+- [Kimi K2.7 Code стала в 6 раз быстрее — до 260 токенов в секунду](https://habr.com/ru/news/1047782/?utm_campaign=1047782&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1047770/?utm_campaign=1047770&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: StarGuard AI — шлюз безопасности для работы с LLM от Orion soft](https://habr.com/ru/companies/orion_soft/news/1047762/?utm_campaign=1047762&utm_source=habrahabr&utm_medium=rss)
+- [Исходный код фреймворка Miasma для кражи учётных данных оказался в открытом доступе на GitHub](https://habr.com/ru/news/1047752/?utm_campaign=1047752&utm_source=habrahabr&utm_medium=rss)
+- [В Google TV появилась функция голосового управления аппаратными и системными настройками](https://habr.com/ru/news/1047744/?utm_campaign=1047744&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
