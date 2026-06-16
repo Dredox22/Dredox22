@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Vision признана одной из самых значимых Low-code платформ в России](https://habr.com/ru/companies/securityvison/news/1048058/?utm_campaign=1048058&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek привлек $7,4 млрд и не отдал инвесторам ни одного голоса](https://habr.com/ru/news/1048044/?utm_campaign=1048044&utm_source=habrahabr&utm_medium=rss)
-- [iRhythm сообщила о крупной утечке данных](https://habr.com/ru/news/1048034/?utm_campaign=1048034&utm_source=habrahabr&utm_medium=rss)
-- [В ФБР предупредили о фишинговых атаках на Microsoft 365](https://habr.com/ru/news/1048016/?utm_campaign=1048016&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic отменили изменение в лимитах подписки, которое должно было вступить в силу сегодня](https://habr.com/ru/news/1048010/?utm_campaign=1048010&utm_source=habrahabr&utm_medium=rss)
+- [Route 256 Pro: запускаем новый онлайн-интенсив](https://habr.com/ru/companies/ozontech/news/1048212/?utm_campaign=1048212&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.5](https://habr.com/ru/news/1047560/?utm_campaign=1047560&utm_source=habrahabr&utm_medium=rss)
+- [Российский ритейл тестирует ML для персональных скидок в магазинах](https://habr.com/ru/news/1048258/?utm_campaign=1048258&utm_source=habrahabr&utm_medium=rss)
+- [LDL 0.3 — графическая библиотека, оптимизированная для маломощных систем](https://habr.com/ru/news/1048250/?utm_campaign=1048250&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX купила за $60 млрд стартап Anysphere — разработчика ИИ-ассистента для программистов Cursor](https://habr.com/ru/news/1048240/?utm_campaign=1048240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
