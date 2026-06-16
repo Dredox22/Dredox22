@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple представила победителей Apple Design Award 2026](https://habr.com/ru/news/1047896/?utm_campaign=1047896&utm_source=habrahabr&utm_medium=rss)
-- [В «Доктор Веб» анонсировали отдельный платный продукт под названием Dr.Web CureIt! Pro](https://habr.com/ru/news/1047892/?utm_campaign=1047892&utm_source=habrahabr&utm_medium=rss)
-- [Дуров предупредил о последствиях запрета соцсетей для подростков в Великобритании](https://habr.com/ru/news/1047882/?utm_campaign=1047882&utm_source=habrahabr&utm_medium=rss)
-- [У Hugging Face вышел открытый ИИ-инструмент для ревью кода прямо в GitHub](https://habr.com/ru/news/1047880/?utm_campaign=1047880&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый мультиплатформенный проект PUZZLE: 205 Free Brain Games &amp;amp; Logic Puzzles](https://habr.com/ru/news/1047542/?utm_campaign=1047542&utm_source=habrahabr&utm_medium=rss)
+- [Security Vision признана одной из самых значимых Low-code платформ в России](https://habr.com/ru/companies/securityvison/news/1048058/?utm_campaign=1048058&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek привлек $7,4 млрд и не отдал инвесторам ни одного голоса](https://habr.com/ru/news/1048044/?utm_campaign=1048044&utm_source=habrahabr&utm_medium=rss)
+- [iRhythm сообщила о крупной утечке данных](https://habr.com/ru/news/1048034/?utm_campaign=1048034&utm_source=habrahabr&utm_medium=rss)
+- [В ФБР предупредили о фишинговых атаках на Microsoft 365](https://habr.com/ru/news/1048016/?utm_campaign=1048016&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic отменили изменение в лимитах подписки, которое должно было вступить в силу сегодня](https://habr.com/ru/news/1048010/?utm_campaign=1048010&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
