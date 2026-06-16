@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Route 256 Pro: запускаем новый онлайн-интенсив](https://habr.com/ru/companies/ozontech/news/1048212/?utm_campaign=1048212&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.5](https://habr.com/ru/news/1047560/?utm_campaign=1047560&utm_source=habrahabr&utm_medium=rss)
-- [Российский ритейл тестирует ML для персональных скидок в магазинах](https://habr.com/ru/news/1048258/?utm_campaign=1048258&utm_source=habrahabr&utm_medium=rss)
-- [LDL 0.3 — графическая библиотека, оптимизированная для маломощных систем](https://habr.com/ru/news/1048250/?utm_campaign=1048250&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX купила за $60 млрд стартап Anysphere — разработчика ИИ-ассистента для программистов Cursor](https://habr.com/ru/news/1048240/?utm_campaign=1048240&utm_source=habrahabr&utm_medium=rss)
+- [Тройной анонс Cursor: конкурент GitHub, новая модель и мобильная версия](https://habr.com/ru/news/1048368/?utm_campaign=1048368&utm_source=habrahabr&utm_medium=rss)
+- [Дуров: оператор Reliance саботирует доступ к Telegram за пределами Индии &lpar;включая ОАЭ&rpar; через нелегальный захват BGP](https://habr.com/ru/news/1048358/?utm_campaign=1048358&utm_source=habrahabr&utm_medium=rss)
+- [Кир Стармер попросил открыть Fable 5 для Британии — но Вашингтон ответил отказом](https://habr.com/ru/news/1048354/?utm_campaign=1048354&utm_source=habrahabr&utm_medium=rss)
+- [«На ИИ, который могут выключить, полагаться нельзя»: блокировка Fable 5 напугала бизнес](https://habr.com/ru/news/1048330/?utm_campaign=1048330&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Mozilla Thunderbird 152.0](https://habr.com/ru/news/1047872/?utm_campaign=1047872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
