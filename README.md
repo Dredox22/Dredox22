@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик проиндексировал 669 ГБ видео с помощью локальных моделей и настроил поиск по сценам на естественном языке](https://habr.com/ru/news/1048390/?utm_campaign=1048390&utm_source=habrahabr&utm_medium=rss)
+- [Местами лучше Claude Fable 5: открытая GLM-5.2 показала сильные результаты в бенчмарках](https://habr.com/ru/news/1048380/?utm_campaign=1048380&utm_source=habrahabr&utm_medium=rss)
 - [Тройной анонс Cursor: конкурент GitHub, новая модель и мобильная версия](https://habr.com/ru/news/1048368/?utm_campaign=1048368&utm_source=habrahabr&utm_medium=rss)
 - [Дуров: оператор Reliance саботирует доступ к Telegram за пределами Индии &lpar;включая ОАЭ&rpar; через нелегальный захват BGP](https://habr.com/ru/news/1048358/?utm_campaign=1048358&utm_source=habrahabr&utm_medium=rss)
 - [Кир Стармер попросил открыть Fable 5 для Британии — но Вашингтон ответил отказом](https://habr.com/ru/news/1048354/?utm_campaign=1048354&utm_source=habrahabr&utm_medium=rss)
-- [«На ИИ, который могут выключить, полагаться нельзя»: блокировка Fable 5 напугала бизнес](https://habr.com/ru/news/1048330/?utm_campaign=1048330&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 152.0](https://habr.com/ru/news/1047872/?utm_campaign=1047872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
