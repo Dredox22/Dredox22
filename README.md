@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследование Webnames: россияне стали чаще доверять кириллическим доменам](https://habr.com/ru/news/1048632/?utm_campaign=1048632&utm_source=habrahabr&utm_medium=rss)
-- [В ESET обнаружили два варианта бэкдора SprySOCKS для Windows](https://habr.com/ru/news/1048614/?utm_campaign=1048614&utm_source=habrahabr&utm_medium=rss)
-- [Рыночная доля ChatGPT упала ниже 50% — при этом чат-бот продолжает ставить рекорды](https://habr.com/ru/news/1048630/?utm_campaign=1048630&utm_source=habrahabr&utm_medium=rss)
-- [Верховный суд объяснил, когда криптовалюта становится предметом хищения](https://habr.com/ru/news/1048608/?utm_campaign=1048608&utm_source=habrahabr&utm_medium=rss)
-- [В Китае запустили первое серийное производство алмазных теплоотводов для полупроводников](https://habr.com/ru/news/1048600/?utm_campaign=1048600&utm_source=habrahabr&utm_medium=rss)
+- [«Юрент» начал использовать на самокатах IoT-модули собственной разработки](https://habr.com/ru/news/1048740/?utm_campaign=1048740&utm_source=habrahabr&utm_medium=rss)
+- [Kodak подтвердила утечку данных, о которой сообщила группировка ShinyHunters](https://habr.com/ru/news/1048698/?utm_campaign=1048698&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость во внутренней системе Чемпионата мира по футболу FIFA позволяла контролировать ТВ-трансляции матчей](https://habr.com/ru/news/1048644/?utm_campaign=1048644&utm_source=habrahabr&utm_medium=rss)
+- [Хуанг: у нас нет выбора, придется принять ИИ и менять социальные нормы](https://habr.com/ru/news/1048680/?utm_campaign=1048680&utm_source=habrahabr&utm_medium=rss)
+- [Вышла флагманская open-source модель GLM 5.2. Уже доступна в KodaCode](https://habr.com/ru/companies/koda/news/1048518/?utm_campaign=1048518&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
