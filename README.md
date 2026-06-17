@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Опубликован первый стабильный выпуск Euro-Office 1.0 на базе OnlyOffice](https://habr.com/ru/news/1048424/?utm_campaign=1048424&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск qBittorrent 5.2.2](https://habr.com/ru/news/1048340/?utm_campaign=1048340&utm_source=habrahabr&utm_medium=rss)
+- [Новый Outlook работает медленнее классической версии](https://habr.com/ru/news/1048418/?utm_campaign=1048418&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление FreeRDP 3.27](https://habr.com/ru/news/1047790/?utm_campaign=1047790&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик проиндексировал 669 ГБ видео с помощью локальных моделей и настроил поиск по сценам на естественном языке](https://habr.com/ru/news/1048390/?utm_campaign=1048390&utm_source=habrahabr&utm_medium=rss)
-- [Местами лучше Claude Fable 5: открытая GLM-5.2 показала сильные результаты в бенчмарках](https://habr.com/ru/news/1048380/?utm_campaign=1048380&utm_source=habrahabr&utm_medium=rss)
-- [Тройной анонс Cursor: конкурент GitHub, новая модель и мобильная версия](https://habr.com/ru/news/1048368/?utm_campaign=1048368&utm_source=habrahabr&utm_medium=rss)
-- [Дуров: оператор Reliance саботирует доступ к Telegram за пределами Индии &lpar;включая ОАЭ&rpar; через нелегальный захват BGP](https://habr.com/ru/news/1048358/?utm_campaign=1048358&utm_source=habrahabr&utm_medium=rss)
-- [Кир Стармер попросил открыть Fable 5 для Британии — но Вашингтон ответил отказом](https://habr.com/ru/news/1048354/?utm_campaign=1048354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
