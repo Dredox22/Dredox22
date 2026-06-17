@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Амодеи и Хассабис на G7 призвали к ИИ-коалиции без Китая](https://habr.com/ru/news/1048870/?utm_campaign=1048870&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Unreal Engine 5.8: поддержкой MCP и улучшенные инструменты для создания больших миров](https://habr.com/ru/news/1048858/?utm_campaign=1048858&utm_source=habrahabr&utm_medium=rss)
 - [AMD выпустила мини-ПК для ИИ — дешевле NVIDIA DGX Spark и тянет 200B-модели](https://habr.com/ru/news/1048842/?utm_campaign=1048842&utm_source=habrahabr&utm_medium=rss)
 - [RuStore добавил выбор стран и регионов при публикации приложений и расширил доступ разработчиков к зарубежным рынкам](https://habr.com/ru/news/1048822/?utm_campaign=1048822&utm_source=habrahabr&utm_medium=rss)
 - [«Ред Софт» представила новую платформу «GO-BRICS Молния»](https://habr.com/ru/news/1048818/?utm_campaign=1048818&utm_source=habrahabr&utm_medium=rss)
-- [ИИ позволил Samsung сократить время на тестирование электронных изделий с 15 до 2 дней](https://habr.com/ru/news/1048816/?utm_campaign=1048816&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
