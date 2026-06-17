@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Опубликован первый стабильный выпуск Euro-Office 1.0 на базе OnlyOffice](https://habr.com/ru/news/1048424/?utm_campaign=1048424&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск qBittorrent 5.2.2](https://habr.com/ru/news/1048340/?utm_campaign=1048340&utm_source=habrahabr&utm_medium=rss)
-- [Новый Outlook работает медленнее классической версии](https://habr.com/ru/news/1048418/?utm_campaign=1048418&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление FreeRDP 3.27](https://habr.com/ru/news/1047790/?utm_campaign=1047790&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик проиндексировал 669 ГБ видео с помощью локальных моделей и настроил поиск по сценам на естественном языке](https://habr.com/ru/news/1048390/?utm_campaign=1048390&utm_source=habrahabr&utm_medium=rss)
+- [Исследование Webnames: россияне стали чаще доверять кириллическим доменам](https://habr.com/ru/news/1048632/?utm_campaign=1048632&utm_source=habrahabr&utm_medium=rss)
+- [В ESET обнаружили два варианта бэкдора SprySOCKS для Windows](https://habr.com/ru/news/1048614/?utm_campaign=1048614&utm_source=habrahabr&utm_medium=rss)
+- [Рыночная доля ChatGPT упала ниже 50% — при этом чат-бот продолжает ставить рекорды](https://habr.com/ru/news/1048630/?utm_campaign=1048630&utm_source=habrahabr&utm_medium=rss)
+- [Верховный суд объяснил, когда криптовалюта становится предметом хищения](https://habr.com/ru/news/1048608/?utm_campaign=1048608&utm_source=habrahabr&utm_medium=rss)
+- [В Китае запустили первое серийное производство алмазных теплоотводов для полупроводников](https://habr.com/ru/news/1048600/?utm_campaign=1048600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
