@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Юрент» начал использовать на самокатах IoT-модули собственной разработки](https://habr.com/ru/news/1048740/?utm_campaign=1048740&utm_source=habrahabr&utm_medium=rss)
-- [Kodak подтвердила утечку данных, о которой сообщила группировка ShinyHunters](https://habr.com/ru/news/1048698/?utm_campaign=1048698&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость во внутренней системе Чемпионата мира по футболу FIFA позволяла контролировать ТВ-трансляции матчей](https://habr.com/ru/news/1048644/?utm_campaign=1048644&utm_source=habrahabr&utm_medium=rss)
-- [Хуанг: у нас нет выбора, придется принять ИИ и менять социальные нормы](https://habr.com/ru/news/1048680/?utm_campaign=1048680&utm_source=habrahabr&utm_medium=rss)
-- [Вышла флагманская open-source модель GLM 5.2. Уже доступна в KodaCode](https://habr.com/ru/companies/koda/news/1048518/?utm_campaign=1048518&utm_source=habrahabr&utm_medium=rss)
+- [RuStore добавил выбор стран и регионов при публикации приложений и расширил доступ разработчиков к зарубежным рынкам](https://habr.com/ru/news/1048822/?utm_campaign=1048822&utm_source=habrahabr&utm_medium=rss)
+- [«Ред Софт» представила новую платформу «GO-BRICS Молния»](https://habr.com/ru/news/1048818/?utm_campaign=1048818&utm_source=habrahabr&utm_medium=rss)
+- [ИИ позволил Samsung сократить время на тестирование электронных изделий с 15 до 2 дней](https://habr.com/ru/news/1048816/?utm_campaign=1048816&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-советник Трампа: проблема не в Fable 5, а в упрямстве Anthropic](https://habr.com/ru/news/1048808/?utm_campaign=1048808&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого музыкального ПО Giada 1.5](https://habr.com/ru/news/1048332/?utm_campaign=1048332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
