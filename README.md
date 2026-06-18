@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Амодеи и Хассабис на G7 призвали к ИИ-коалиции без Китая](https://habr.com/ru/news/1048870/?utm_campaign=1048870&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Unreal Engine 5.8: поддержкой MCP и улучшенные инструменты для создания больших миров](https://habr.com/ru/news/1048858/?utm_campaign=1048858&utm_source=habrahabr&utm_medium=rss)
-- [AMD выпустила мини-ПК для ИИ — дешевле NVIDIA DGX Spark и тянет 200B-модели](https://habr.com/ru/news/1048842/?utm_campaign=1048842&utm_source=habrahabr&utm_medium=rss)
-- [RuStore добавил выбор стран и регионов при публикации приложений и расширил доступ разработчиков к зарубежным рынкам](https://habr.com/ru/news/1048822/?utm_campaign=1048822&utm_source=habrahabr&utm_medium=rss)
-- [«Ред Софт» представила новую платформу «GO-BRICS Молния»](https://habr.com/ru/news/1048818/?utm_campaign=1048818&utm_source=habrahabr&utm_medium=rss)
+- [Сайт Своего Банка вошел в топ-20 рейтинга по росту качества](https://habr.com/ru/companies/svoi_ru/news/1048854/?utm_campaign=1048854&utm_source=habrahabr&utm_medium=rss)
+- [Сканер тела от Midjourney: обещание МРТ за 60 секунд и неудобные вопросы врачей](https://habr.com/ru/news/1048950/?utm_campaign=1048950&utm_source=habrahabr&utm_medium=rss)
+- [Apple уличили в записи каждого касания в App Store для персонализации подборок](https://habr.com/ru/news/1048924/?utm_campaign=1048924&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия FreeBSD 15.1](https://habr.com/ru/news/1048562/?utm_campaign=1048562&utm_source=habrahabr&utm_medium=rss)
+- [Компактный ИИ-суперкомпьютер Asus Ascent GX10 с 128 ГБ ОЗУ оценили в $5 500](https://habr.com/ru/companies/selectel/news/1048928/?utm_campaign=1048928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
