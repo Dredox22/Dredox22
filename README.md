@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple разрешила сторонние магазины приложений и альтернативные платёжные системы в Бразилии после требования регулятора](https://habr.com/ru/news/1049316/?utm_campaign=1049316&utm_source=habrahabr&utm_medium=rss)
+- [Переговоры по Fable 5 сдвинулись: Белый дом и Anthropic вырабатывают стандарт безопасности ИИ](https://habr.com/ru/news/1049310/?utm_campaign=1049310&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba представила Qwen-Robot Suite — набор AI-моделей для роботов и физических агентов](https://habr.com/ru/news/1049306/?utm_campaign=1049306&utm_source=habrahabr&utm_medium=rss)
+- [Два апдейта Claude Code: артефакты и двусторонняя связь с Claude Design](https://habr.com/ru/news/1049304/?utm_campaign=1049304&utm_source=habrahabr&utm_medium=rss)
 - [ИИ обыграл людей в коде для робота-пса. Но мячик питомец так и не принес](https://habr.com/ru/news/1049262/?utm_campaign=1049262&utm_source=habrahabr&utm_medium=rss)
-- [Расследуем дело о пропавших аватарках с Леонидом Каневским](https://habr.com/ru/companies/avito/news/1049254/?utm_campaign=1049254&utm_source=habrahabr&utm_medium=rss)
-- [Цифровой сервис «Ростелеком Ключ» запустил пилотный проект для пропуска курьеров доставки в многоквартирные дома &lpar;МКД&rpar;](https://habr.com/ru/news/1049252/?utm_campaign=1049252&utm_source=habrahabr&utm_medium=rss)
-- [GlobalSign второй раз за неделю начал принудительный отзыв TLS-сертификатов сайтов подсанкционных российских компаний](https://habr.com/ru/news/1049248/?utm_campaign=1049248&utm_source=habrahabr&utm_medium=rss)
-- [Инженерный комитет IETF выдал HTTP-методу QUERY статус «Предложенного стандарта» и опубликовал спецификацию RFC 10008](https://habr.com/ru/news/1049020/?utm_campaign=1049020&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
