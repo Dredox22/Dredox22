@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ обыграл людей в коде для робота-пса. Но мячик питомец так и не принес](https://habr.com/ru/news/1049262/?utm_campaign=1049262&utm_source=habrahabr&utm_medium=rss)
+- [Расследуем дело о пропавших аватарках с Леонидом Каневским](https://habr.com/ru/companies/avito/news/1049254/?utm_campaign=1049254&utm_source=habrahabr&utm_medium=rss)
+- [Цифровой сервис «Ростелеком Ключ» запустил пилотный проект для пропуска курьеров доставки в многоквартирные дома &lpar;МКД&rpar;](https://habr.com/ru/news/1049252/?utm_campaign=1049252&utm_source=habrahabr&utm_medium=rss)
+- [GlobalSign второй раз за неделю начал принудительный отзыв TLS-сертификатов сайтов подсанкционных российских компаний](https://habr.com/ru/news/1049248/?utm_campaign=1049248&utm_source=habrahabr&utm_medium=rss)
 - [Инженерный комитет IETF выдал HTTP-методу QUERY статус «Предложенного стандарта» и опубликовал спецификацию RFC 10008](https://habr.com/ru/news/1049020/?utm_campaign=1049020&utm_source=habrahabr&utm_medium=rss)
-- [Российские разработчики видеоигр сообщают о нехватке инвестиций кадров и проблемах с выходом на рынки](https://habr.com/ru/news/1049224/?utm_campaign=1049224&utm_source=habrahabr&utm_medium=rss)
-- [Топ-менеджер Anthropic пообещал вернуть Fable 5 «в ближайшие дни»](https://habr.com/ru/news/1049200/?utm_campaign=1049200&utm_source=habrahabr&utm_medium=rss)
-- [Внешний мониторинг доступности сервисов MULTISTATUS: как находить проблемы раньше пользователей](https://habr.com/ru/companies/multifactor/news/1049172/?utm_campaign=1049172&utm_source=habrahabr&utm_medium=rss)
-- [Google начала тестирование обновлённой, более сложной системы reCAPTCHA, где нужно махать рукой в камеру](https://habr.com/ru/news/1049170/?utm_campaign=1049170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
