@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сайт Своего Банка вошел в топ-20 рейтинга по росту качества](https://habr.com/ru/companies/svoi_ru/news/1048854/?utm_campaign=1048854&utm_source=habrahabr&utm_medium=rss)
-- [Сканер тела от Midjourney: обещание МРТ за 60 секунд и неудобные вопросы врачей](https://habr.com/ru/news/1048950/?utm_campaign=1048950&utm_source=habrahabr&utm_medium=rss)
-- [Apple уличили в записи каждого касания в App Store для персонализации подборок](https://habr.com/ru/news/1048924/?utm_campaign=1048924&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия FreeBSD 15.1](https://habr.com/ru/news/1048562/?utm_campaign=1048562&utm_source=habrahabr&utm_medium=rss)
-- [Компактный ИИ-суперкомпьютер Asus Ascent GX10 с 128 ГБ ОЗУ оценили в $5 500](https://habr.com/ru/companies/selectel/news/1048928/?utm_campaign=1048928&utm_source=habrahabr&utm_medium=rss)
+- [Chrome DevTools научит ИИ-агентов видеть не только DOM, но и состояние приложения](https://habr.com/ru/companies/otus/news/1049120/?utm_campaign=1049120&utm_source=habrahabr&utm_medium=rss)
+- [ИИ в каждый дом: Китай представил план из 17 пунктов](https://habr.com/ru/news/1049100/?utm_campaign=1049100&utm_source=habrahabr&utm_medium=rss)
+- [Суд встал на сторону операторов связи по искам микрофинансовой организации о массовых вызовах](https://habr.com/ru/news/1049070/?utm_campaign=1049070&utm_source=habrahabr&utm_medium=rss)
+- [Власти США потребовали от Anthropic полностью устранить джейлбрейки в Fable 5, иначе разрешения на её запуск не будет](https://habr.com/ru/news/1049060/?utm_campaign=1049060&utm_source=habrahabr&utm_medium=rss)
+- [Много нас, а он один: распределение GPU между ML-инженерами с помощью Dev Cluster](https://habr.com/ru/companies/yandex_cloud_and_infra/news/1048958/?utm_campaign=1048958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
