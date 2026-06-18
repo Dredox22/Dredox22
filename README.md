@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome DevTools научит ИИ-агентов видеть не только DOM, но и состояние приложения](https://habr.com/ru/companies/otus/news/1049120/?utm_campaign=1049120&utm_source=habrahabr&utm_medium=rss)
-- [ИИ в каждый дом: Китай представил план из 17 пунктов](https://habr.com/ru/news/1049100/?utm_campaign=1049100&utm_source=habrahabr&utm_medium=rss)
-- [Суд встал на сторону операторов связи по искам микрофинансовой организации о массовых вызовах](https://habr.com/ru/news/1049070/?utm_campaign=1049070&utm_source=habrahabr&utm_medium=rss)
-- [Власти США потребовали от Anthropic полностью устранить джейлбрейки в Fable 5, иначе разрешения на её запуск не будет](https://habr.com/ru/news/1049060/?utm_campaign=1049060&utm_source=habrahabr&utm_medium=rss)
-- [Много нас, а он один: распределение GPU между ML-инженерами с помощью Dev Cluster](https://habr.com/ru/companies/yandex_cloud_and_infra/news/1048958/?utm_campaign=1048958&utm_source=habrahabr&utm_medium=rss)
+- [Инженерный комитет IETF выдал HTTP-методу QUERY статус «Предложенного стандарта» и опубликовал спецификацию RFC 10008](https://habr.com/ru/news/1049020/?utm_campaign=1049020&utm_source=habrahabr&utm_medium=rss)
+- [Российские разработчики видеоигр сообщают о нехватке инвестиций кадров и проблемах с выходом на рынки](https://habr.com/ru/news/1049224/?utm_campaign=1049224&utm_source=habrahabr&utm_medium=rss)
+- [Топ-менеджер Anthropic пообещал вернуть Fable 5 «в ближайшие дни»](https://habr.com/ru/news/1049200/?utm_campaign=1049200&utm_source=habrahabr&utm_medium=rss)
+- [Внешний мониторинг доступности сервисов MULTISTATUS: как находить проблемы раньше пользователей](https://habr.com/ru/companies/multifactor/news/1049172/?utm_campaign=1049172&utm_source=habrahabr&utm_medium=rss)
+- [Google начала тестирование обновлённой, более сложной системы reCAPTCHA, где нужно махать рукой в камеру](https://habr.com/ru/news/1049170/?utm_campaign=1049170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
