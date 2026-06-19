@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Tails 7.9](https://habr.com/ru/news/1049314/?utm_campaign=1049314&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Media Player Classic — Home Cinema 2.7.3](https://habr.com/ru/news/1048864/?utm_campaign=1048864&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Windows нарушило работу интегрированных с Microsoft Office сервисов](https://habr.com/ru/news/1049366/?utm_campaign=1049366&utm_source=habrahabr&utm_medium=rss)
+- [Джефф Безос: ИИ создаст дефицит рабочей силы. Тем временем Amazon сократил 30 тыс сотрудников](https://habr.com/ru/news/1049328/?utm_campaign=1049328&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила сторонние магазины приложений и альтернативные платёжные системы в Бразилии после требования регулятора](https://habr.com/ru/news/1049316/?utm_campaign=1049316&utm_source=habrahabr&utm_medium=rss)
-- [Переговоры по Fable 5 сдвинулись: Белый дом и Anthropic вырабатывают стандарт безопасности ИИ](https://habr.com/ru/news/1049310/?utm_campaign=1049310&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba представила Qwen-Robot Suite — набор AI-моделей для роботов и физических агентов](https://habr.com/ru/news/1049306/?utm_campaign=1049306&utm_source=habrahabr&utm_medium=rss)
-- [Два апдейта Claude Code: артефакты и двусторонняя связь с Claude Design](https://habr.com/ru/news/1049304/?utm_campaign=1049304&utm_source=habrahabr&utm_medium=rss)
-- [ИИ обыграл людей в коде для робота-пса. Но мячик питомец так и не принес](https://habr.com/ru/news/1049262/?utm_campaign=1049262&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
