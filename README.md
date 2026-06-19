@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Эксперт Своего Банка выступил на конференции “Финтех в безопасности 2026”](https://habr.com/ru/companies/svoi_ru/news/1049578/?utm_campaign=1049578&utm_source=habrahabr&utm_medium=rss)
-- [Крупное обновление поддержки Go в OpenIDE](https://habr.com/ru/companies/haulmont/news/1049554/?utm_campaign=1049554&utm_source=habrahabr&utm_medium=rss)
-- [Ушёл из жизни композитор Бобби Принс, сочинивший музыку для Doom, Wolfenstein 3D и Quake](https://habr.com/ru/news/1049552/?utm_campaign=1049552&utm_source=habrahabr&utm_medium=rss)
-- [Fable 5 стала первой в бенчмарке по кодингу DeepSWE. Всего на 3% лучше GPT-5.5 за вдвое большую цену](https://habr.com/ru/news/1049540/?utm_campaign=1049540&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект sshto 1.0 — bash-скрипт, который создаёт меню &lpar;через dialog&rpar; из ~/.ssh/config](https://habr.com/ru/news/1049516/?utm_campaign=1049516&utm_source=habrahabr&utm_medium=rss)
+- [Масштабные сбои сервиса Avito отмечаются во многих городах России](https://habr.com/ru/news/1049704/?utm_campaign=1049704&utm_source=habrahabr&utm_medium=rss)
+- [Почему SSL/TLS-сертификат — это больше не просто техническая задача](https://habr.com/ru/companies/aktiv-company/news/1049694/?utm_campaign=1049694&utm_source=habrahabr&utm_medium=rss)
+- [Вышел js-dos 8.4.0: 3Dfx через WebGL, новый сетевой стек и OPFS](https://habr.com/ru/news/1049672/?utm_campaign=1049672&utm_source=habrahabr&utm_medium=rss)
+- [В программе Петербургского цифрового хаба будет сессия об искусственном интеллекте в 1С](https://habr.com/ru/companies/infostart/news/1049668/?utm_campaign=1049668&utm_source=habrahabr&utm_medium=rss)
+- [Мертвый интернет ожил? DeepSeek подключили к World of Warcraft серверу с 1800 ботами](https://habr.com/ru/news/1049636/?utm_campaign=1049636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
