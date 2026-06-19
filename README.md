@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Открытая GLM-5.2 обошла Fable 5 в дизайне — в Design Arena раскрыли секрет успеха](https://habr.com/ru/news/1049804/?utm_campaign=1049804&utm_source=habrahabr&utm_medium=rss)
+- [Фанат Fallout сделал интерфейс бортовой системы своего автомобиля в стиле Pip‑Boy](https://habr.com/ru/news/1049756/?utm_campaign=1049756&utm_source=habrahabr&utm_medium=rss)
+- [Механизм «бери или плати» на оптовом рынке э/э введут постепенно](https://habr.com/ru/news/1049794/?utm_campaign=1049794&utm_source=habrahabr&utm_medium=rss)
 - [Из Google ушел Джон Джампер — нобелевский лауреат и глава AlphaFold](https://habr.com/ru/news/1049790/?utm_campaign=1049790&utm_source=habrahabr&utm_medium=rss)
 - [Apple начала отклонять приложения, которые просят пользователя поставить оценку во время онбординга](https://habr.com/ru/news/1049768/?utm_campaign=1049768&utm_source=habrahabr&utm_medium=rss)
-- [Apple исправила баг в наушниках Beats Studio Buds, который позволял получить доступ к микрофону до сопряжения](https://habr.com/ru/news/1049754/?utm_campaign=1049754&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo подтвердила кражу данных в результате кибератаки на дочернюю компанию WebMD](https://habr.com/ru/news/1049750/?utm_campaign=1049750&utm_source=habrahabr&utm_medium=rss)
-- [Cnews: «Минпромторг оштрафовал НИИСИ РАН на 110 миллионов рублей за срыв сроков разработки отечественных микросхем»](https://habr.com/ru/news/1049746/?utm_campaign=1049746&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
