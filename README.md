@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Масштабные сбои сервиса Avito отмечаются во многих городах России](https://habr.com/ru/news/1049704/?utm_campaign=1049704&utm_source=habrahabr&utm_medium=rss)
-- [Почему SSL/TLS-сертификат — это больше не просто техническая задача](https://habr.com/ru/companies/aktiv-company/news/1049694/?utm_campaign=1049694&utm_source=habrahabr&utm_medium=rss)
-- [Вышел js-dos 8.4.0: 3Dfx через WebGL, новый сетевой стек и OPFS](https://habr.com/ru/news/1049672/?utm_campaign=1049672&utm_source=habrahabr&utm_medium=rss)
-- [В программе Петербургского цифрового хаба будет сессия об искусственном интеллекте в 1С](https://habr.com/ru/companies/infostart/news/1049668/?utm_campaign=1049668&utm_source=habrahabr&utm_medium=rss)
-- [Мертвый интернет ожил? DeepSeek подключили к World of Warcraft серверу с 1800 ботами](https://habr.com/ru/news/1049636/?utm_campaign=1049636&utm_source=habrahabr&utm_medium=rss)
+- [Apple начала отклонять приложения, которые просят пользователя поставить оценку во время онбординга](https://habr.com/ru/news/1049768/?utm_campaign=1049768&utm_source=habrahabr&utm_medium=rss)
+- [Apple исправила баг в наушниках Beats Studio Buds, который позволял получить доступ к микрофону до сопряжения](https://habr.com/ru/news/1049754/?utm_campaign=1049754&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo подтвердила кражу данных в результате кибератаки на дочернюю компанию WebMD](https://habr.com/ru/news/1049750/?utm_campaign=1049750&utm_source=habrahabr&utm_medium=rss)
+- [Cnews: «Минпромторг оштрафовал НИИСИ РАН на 110 миллионов рублей за срыв сроков разработки отечественных микросхем»](https://habr.com/ru/news/1049746/?utm_campaign=1049746&utm_source=habrahabr&utm_medium=rss)
+- [3800 часов с нейроимплантом: как пациент с БАС превратил эксперимент в рабочий инструмент](https://habr.com/ru/companies/otus/news/1048782/?utm_campaign=1048782&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
