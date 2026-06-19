@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Tails 7.9](https://habr.com/ru/news/1049314/?utm_campaign=1049314&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Media Player Classic — Home Cinema 2.7.3](https://habr.com/ru/news/1048864/?utm_campaign=1048864&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Windows нарушило работу интегрированных с Microsoft Office сервисов](https://habr.com/ru/news/1049366/?utm_campaign=1049366&utm_source=habrahabr&utm_medium=rss)
-- [Джефф Безос: ИИ создаст дефицит рабочей силы. Тем временем Amazon сократил 30 тыс сотрудников](https://habr.com/ru/news/1049328/?utm_campaign=1049328&utm_source=habrahabr&utm_medium=rss)
-- [Apple разрешила сторонние магазины приложений и альтернативные платёжные системы в Бразилии после требования регулятора](https://habr.com/ru/news/1049316/?utm_campaign=1049316&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт Своего Банка выступил на конференции “Финтех в безопасности 2026”](https://habr.com/ru/companies/svoi_ru/news/1049578/?utm_campaign=1049578&utm_source=habrahabr&utm_medium=rss)
+- [Крупное обновление поддержки Go в OpenIDE](https://habr.com/ru/companies/haulmont/news/1049554/?utm_campaign=1049554&utm_source=habrahabr&utm_medium=rss)
+- [Ушёл из жизни композитор Бобби Принс, сочинивший музыку для Doom, Wolfenstein 3D и Quake](https://habr.com/ru/news/1049552/?utm_campaign=1049552&utm_source=habrahabr&utm_medium=rss)
+- [Fable 5 стала первой в бенчмарке по кодингу DeepSWE. Всего на 3% лучше GPT-5.5 за вдвое большую цену](https://habr.com/ru/news/1049540/?utm_campaign=1049540&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект sshto 1.0 — bash-скрипт, который создаёт меню &lpar;через dialog&rpar; из ~/.ssh/config](https://habr.com/ru/news/1049516/?utm_campaign=1049516&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
