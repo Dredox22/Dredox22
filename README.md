@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Трамп передумал считать Anthropic угрозой нацбезопасности — но Fable 5 пока не вернули](https://habr.com/ru/news/1049884/?utm_campaign=1049884&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Glow 26.10 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/1049758/?utm_campaign=1049758&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи заявили о баге с исчезающими виджетами в Android 17](https://habr.com/ru/news/1049864/?utm_campaign=1049864&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft позволит некоторым пользователям блокировать анализ файлов Office сервисом Copilot](https://habr.com/ru/news/1049854/?utm_campaign=1049854&utm_source=habrahabr&utm_medium=rss)
 - [Вышла GPU-Z 2.70.0](https://habr.com/ru/news/1049318/?utm_campaign=1049318&utm_source=habrahabr&utm_medium=rss)
-- [Открытая GLM-5.2 обошла Fable 5 в дизайне — в Design Arena раскрыли секрет успеха](https://habr.com/ru/news/1049804/?utm_campaign=1049804&utm_source=habrahabr&utm_medium=rss)
-- [Фанат Fallout сделал интерфейс бортовой системы своего автомобиля в стиле Pip‑Boy](https://habr.com/ru/news/1049756/?utm_campaign=1049756&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
