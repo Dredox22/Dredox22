@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователи заявили о баге с исчезающими виджетами в Android 17](https://habr.com/ru/news/1049864/?utm_campaign=1049864&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволит некоторым пользователям блокировать анализ файлов Office сервисом Copilot](https://habr.com/ru/news/1049854/?utm_campaign=1049854&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GPU-Z 2.70.0](https://habr.com/ru/news/1049318/?utm_campaign=1049318&utm_source=habrahabr&utm_medium=rss)
 - [Открытая GLM-5.2 обошла Fable 5 в дизайне — в Design Arena раскрыли секрет успеха](https://habr.com/ru/news/1049804/?utm_campaign=1049804&utm_source=habrahabr&utm_medium=rss)
 - [Фанат Fallout сделал интерфейс бортовой системы своего автомобиля в стиле Pip‑Boy](https://habr.com/ru/news/1049756/?utm_campaign=1049756&utm_source=habrahabr&utm_medium=rss)
-- [Механизм «бери или плати» на оптовом рынке э/э введут постепенно](https://habr.com/ru/news/1049794/?utm_campaign=1049794&utm_source=habrahabr&utm_medium=rss)
-- [Из Google ушел Джон Джампер — нобелевский лауреат и глава AlphaFold](https://habr.com/ru/news/1049790/?utm_campaign=1049790&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала отклонять приложения, которые просят пользователя поставить оценку во время онбординга](https://habr.com/ru/news/1049768/?utm_campaign=1049768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
