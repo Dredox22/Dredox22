@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь превратил Steam Controller в радиоуправляемый онлайн гаджет через браузер](https://habr.com/ru/news/1050010/?utm_campaign=1050010&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek получил компьютерное зрение — модель «водит пальцем по картинке»](https://habr.com/ru/news/1050004/?utm_campaign=1050004&utm_source=habrahabr&utm_medium=rss)
 - [Cerebras разогнал Google Gemma 4 до 1500 токенов/с — и научил видеть картинки](https://habr.com/ru/news/1049968/?utm_campaign=1049968&utm_source=habrahabr&utm_medium=rss)
 - [Вышел VidCoder 12.20 — открытый проект для копирования DVD/Blu-ray и перекодирования видео для ПК на Windows](https://habr.com/ru/news/1049800/?utm_campaign=1049800&utm_source=habrahabr&utm_medium=rss)
 - [Трамп передумал считать Anthropic угрозой нацбезопасности — но Fable 5 пока не вернули](https://habr.com/ru/news/1049884/?utm_campaign=1049884&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Glow 26.10 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/1049758/?utm_campaign=1049758&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи заявили о баге с исчезающими виджетами в Android 17](https://habr.com/ru/news/1049864/?utm_campaign=1049864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
