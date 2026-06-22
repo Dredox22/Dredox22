@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Max решили разыграть смартфоны Samsung Galaxy S25 Ultra среди выпускников 9-х и 11-х классов](https://habr.com/ru/news/1050708/?utm_campaign=1050708&utm_source=habrahabr&utm_medium=rss)
+- [В iOS 27 появился режим восстановления iPhone без подключения к компьютеру](https://habr.com/ru/news/1050706/?utm_campaign=1050706&utm_source=habrahabr&utm_medium=rss)
 - [Суд признал банкротом IT‑компанию «Авроид»](https://habr.com/ru/news/1050698/?utm_campaign=1050698&utm_source=habrahabr&utm_medium=rss)
 - [Открытая модель GLM-5.2 заменила забаненную Fable 5 в автоисследователе alphaXiv](https://habr.com/ru/news/1050696/?utm_campaign=1050696&utm_source=habrahabr&utm_medium=rss)
 - [Месяцы, а не годы: разведки пяти стран предупредили об опасном скачке ИИ](https://habr.com/ru/news/1050690/?utm_campaign=1050690&utm_source=habrahabr&utm_medium=rss)
-- [Российская студия SKIF Entertainment представила игру «Ангелы силы» в духе Worms, но с фэнтезийными персонажами](https://habr.com/ru/news/1050688/?utm_campaign=1050688&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» и УЦСБ: 40% компаний отмечают критичные риски генеративного ИИ для безопасности приложений](https://habr.com/ru/companies/solarsecurity/news/1050672/?utm_campaign=1050672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
