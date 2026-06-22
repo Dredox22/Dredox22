@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft добавит возможность отключения результатов веб-поиска в поиске Windows 11](https://habr.com/ru/news/1050220/?utm_campaign=1050220&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code помог решить многолетнюю проблему с зависанием дисплея ноутбуков с графикой AMD](https://habr.com/ru/news/1050218/?utm_campaign=1050218&utm_source=habrahabr&utm_medium=rss)
-- [Складные смартфоны получили виртуальные геймпады с выходом Android 17](https://habr.com/ru/news/1050216/?utm_campaign=1050216&utm_source=habrahabr&utm_medium=rss)
-- [Сотрудники Meta* сожгли 73,7 трлн токенов за месяц — теперь компания вводит лимиты](https://habr.com/ru/news/1050202/?utm_campaign=1050202&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI научила Codex создавать навыки, просто наблюдая за человеком](https://habr.com/ru/news/1050182/?utm_campaign=1050182&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: деанонимизация в интернете является вопросом национальной безопасности](https://habr.com/ru/news/1050522/?utm_campaign=1050522&utm_source=habrahabr&utm_medium=rss)
+- [С 1 сентября 2026 года в России начнут внедрять универсальный QR‑код для оплаты товаров и услуг](https://habr.com/ru/news/1050520/?utm_campaign=1050520&utm_source=habrahabr&utm_medium=rss)
+- [Sony прекратит выпуск на ПК новых одиночных игр от своих внутренних студий](https://habr.com/ru/news/1050510/?utm_campaign=1050510&utm_source=habrahabr&utm_medium=rss)
+- [Apple планирует изменить функцию конфиденциальности Hide My Email, что может снизить её эффективность](https://habr.com/ru/news/1050506/?utm_campaign=1050506&utm_source=habrahabr&utm_medium=rss)
+- [«Почта России» начала тестирование корпоративного мессенджера eXpress](https://habr.com/ru/news/1050504/?utm_campaign=1050504&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
