@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft добавит возможность отключения результатов веб-поиска в поиске Windows 11](https://habr.com/ru/news/1050220/?utm_campaign=1050220&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code помог решить многолетнюю проблему с зависанием дисплея ноутбуков с графикой AMD](https://habr.com/ru/news/1050218/?utm_campaign=1050218&utm_source=habrahabr&utm_medium=rss)
+- [Складные смартфоны получили виртуальные геймпады с выходом Android 17](https://habr.com/ru/news/1050216/?utm_campaign=1050216&utm_source=habrahabr&utm_medium=rss)
+- [Сотрудники Meta* сожгли 73,7 трлн токенов за месяц — теперь компания вводит лимиты](https://habr.com/ru/news/1050202/?utm_campaign=1050202&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI научила Codex создавать навыки, просто наблюдая за человеком](https://habr.com/ru/news/1050182/?utm_campaign=1050182&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft подтвердила наличие ошибки в корзине практически во всех версиях Windows 10/11/Server](https://habr.com/ru/news/1049820/?utm_campaign=1049820&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого Android-приложения FairScan 2.0 для сканирования документов](https://habr.com/ru/news/1050154/?utm_campaign=1050154&utm_source=habrahabr&utm_medium=rss)
-- [Вышла среда разработки Qt Creator 20](https://habr.com/ru/news/1049848/?utm_campaign=1049848&utm_source=habrahabr&utm_medium=rss)
-- [Claude Mythos взломал почти все секретные системы США за считанные часы — глава АНБ](https://habr.com/ru/news/1050086/?utm_campaign=1050086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
