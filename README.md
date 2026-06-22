@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Минцифры: деанонимизация в интернете является вопросом национальной безопасности](https://habr.com/ru/news/1050522/?utm_campaign=1050522&utm_source=habrahabr&utm_medium=rss)
-- [С 1 сентября 2026 года в России начнут внедрять универсальный QR‑код для оплаты товаров и услуг](https://habr.com/ru/news/1050520/?utm_campaign=1050520&utm_source=habrahabr&utm_medium=rss)
-- [Sony прекратит выпуск на ПК новых одиночных игр от своих внутренних студий](https://habr.com/ru/news/1050510/?utm_campaign=1050510&utm_source=habrahabr&utm_medium=rss)
-- [Apple планирует изменить функцию конфиденциальности Hide My Email, что может снизить её эффективность](https://habr.com/ru/news/1050506/?utm_campaign=1050506&utm_source=habrahabr&utm_medium=rss)
-- [«Почта России» начала тестирование корпоративного мессенджера eXpress](https://habr.com/ru/news/1050504/?utm_campaign=1050504&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Eternal для запуска Linux на виртуальной машине для долговременного хранения ПО &lpar;тысячи лет&rpar;](https://habr.com/ru/news/1050442/?utm_campaign=1050442&utm_source=habrahabr&utm_medium=rss)
+- [TypeScript 7.0 RC: новый компилятор на Go уже можно проверить в своих проектах](https://habr.com/ru/companies/otus/news/1050634/?utm_campaign=1050634&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1050632/?utm_campaign=1050632&utm_source=habrahabr&utm_medium=rss)
+- [К2 Кибербезопасность защитила ЦОД XDataPlus](https://habr.com/ru/companies/k2tech/news/1050596/?utm_campaign=1050596&utm_source=habrahabr&utm_medium=rss)
+- [SK Hynix стала самой дорогой компанией Южной Кореи, обогнав Samsung](https://habr.com/ru/news/1050576/?utm_campaign=1050576&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
