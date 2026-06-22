@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлен открытый проект Eternal для запуска Linux на виртуальной машине для долговременного хранения ПО &lpar;тысячи лет&rpar;](https://habr.com/ru/news/1050442/?utm_campaign=1050442&utm_source=habrahabr&utm_medium=rss)
-- [TypeScript 7.0 RC: новый компилятор на Go уже можно проверить в своих проектах](https://habr.com/ru/companies/otus/news/1050634/?utm_campaign=1050634&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1050632/?utm_campaign=1050632&utm_source=habrahabr&utm_medium=rss)
-- [К2 Кибербезопасность защитила ЦОД XDataPlus](https://habr.com/ru/companies/k2tech/news/1050596/?utm_campaign=1050596&utm_source=habrahabr&utm_medium=rss)
-- [SK Hynix стала самой дорогой компанией Южной Кореи, обогнав Samsung](https://habr.com/ru/news/1050576/?utm_campaign=1050576&utm_source=habrahabr&utm_medium=rss)
+- [Суд признал банкротом IT‑компанию «Авроид»](https://habr.com/ru/news/1050698/?utm_campaign=1050698&utm_source=habrahabr&utm_medium=rss)
+- [Открытая модель GLM-5.2 заменила забаненную Fable 5 в автоисследователе alphaXiv](https://habr.com/ru/news/1050696/?utm_campaign=1050696&utm_source=habrahabr&utm_medium=rss)
+- [Месяцы, а не годы: разведки пяти стран предупредили об опасном скачке ИИ](https://habr.com/ru/news/1050690/?utm_campaign=1050690&utm_source=habrahabr&utm_medium=rss)
+- [Российская студия SKIF Entertainment представила игру «Ангелы силы» в духе Worms, но с фэнтезийными персонажами](https://habr.com/ru/news/1050688/?utm_campaign=1050688&utm_source=habrahabr&utm_medium=rss)
+- [«Солар» и УЦСБ: 40% компаний отмечают критичные риски генеративного ИИ для безопасности приложений](https://habr.com/ru/companies/solarsecurity/news/1050672/?utm_campaign=1050672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
