@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Точка Банк запустил публичную программу багбаунти с выплатами до 450 тыс. рублей](https://habr.com/ru/companies/pt/news/1050818/?utm_campaign=1050818&utm_source=habrahabr&utm_medium=rss)
-- [От базы к зрелости: исследование рынка SIEM совместно с проектом Кибердом](https://habr.com/ru/companies/yandex_cloud_and_infra/news/1046846/?utm_campaign=1046846&utm_source=habrahabr&utm_medium=rss)
-- [Акции Getty Images выросли на 145% после сообщения о заключении сделки с OpenAI](https://habr.com/ru/news/1050806/?utm_campaign=1050806&utm_source=habrahabr&utm_medium=rss)
-- [ByteDance анонсировала Seedance 2.5: 30 секунд видео за один проход и нативный 4K](https://habr.com/ru/news/1050800/?utm_campaign=1050800&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи из РФ сообщили, что у них перестал работать доступ к трансляциям Twitch](https://habr.com/ru/news/1050796/?utm_campaign=1050796&utm_source=habrahabr&utm_medium=rss)
+- [CENTR поддержала новый Закон ЕС о кибербезопасности, но предупредила об избыточном регулировании доменных регистратур](https://habr.com/ru/news/1050954/?utm_campaign=1050954&utm_source=habrahabr&utm_medium=rss)
+- [Главный инвестор OpenAI раскритиковал космические дата-центры Илона Маска](https://habr.com/ru/news/1050950/?utm_campaign=1050950&utm_source=habrahabr&utm_medium=rss)
+- [МВД предупредило о мошеннических ссылках в выдаче ChatGPT](https://habr.com/ru/news/1050906/?utm_campaign=1050906&utm_source=habrahabr&utm_medium=rss)
+- [Tata Electronics, крупный поставщик технологической продукции для Apple и Tesla, подтвердил утечку данных](https://habr.com/ru/news/1050900/?utm_campaign=1050900&utm_source=habrahabr&utm_medium=rss)
+- [Canonical Livepatch для ARM64 — теперь официально](https://habr.com/ru/companies/selectel/news/1050822/?utm_campaign=1050822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
