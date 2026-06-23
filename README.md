@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [77% компаний внедрили ИИ, но выигрыш только у 17% — данные Bpifrance](https://habr.com/ru/news/1051174/?utm_campaign=1051174&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустила Claude Tag — ИИ-сотрудника, который работает сам днями](https://habr.com/ru/news/1051146/?utm_campaign=1051146&utm_source=habrahabr&utm_medium=rss)
 - [JUPITER обучил фундаментальную модель мозга за пять дней — и это только начало](https://habr.com/ru/news/1051136/?utm_campaign=1051136&utm_source=habrahabr&utm_medium=rss)
 - [Oracle официально признала: 21 000 человек уволены из-за ИИ](https://habr.com/ru/news/1051112/?utm_campaign=1051112&utm_source=habrahabr&utm_medium=rss)
 - [В Роскомнадзоре сообщили, что ведомство не блокирует видеостриминговую платформу Twitch](https://habr.com/ru/news/1051074/?utm_campaign=1051074&utm_source=habrahabr&utm_medium=rss)
-- [Почему Cloud.ru решил строить свой дата-центр](https://habr.com/ru/news/1051070/?utm_campaign=1051070&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Darktable 5.6 — открытого графического редактора для обработки фотографий в формате RAW](https://habr.com/ru/news/1050190/?utm_campaign=1050190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
