@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [CENTR поддержала новый Закон ЕС о кибербезопасности, но предупредила об избыточном регулировании доменных регистратур](https://habr.com/ru/news/1050954/?utm_campaign=1050954&utm_source=habrahabr&utm_medium=rss)
-- [Главный инвестор OpenAI раскритиковал космические дата-центры Илона Маска](https://habr.com/ru/news/1050950/?utm_campaign=1050950&utm_source=habrahabr&utm_medium=rss)
-- [МВД предупредило о мошеннических ссылках в выдаче ChatGPT](https://habr.com/ru/news/1050906/?utm_campaign=1050906&utm_source=habrahabr&utm_medium=rss)
-- [Tata Electronics, крупный поставщик технологической продукции для Apple и Tesla, подтвердил утечку данных](https://habr.com/ru/news/1050900/?utm_campaign=1050900&utm_source=habrahabr&utm_medium=rss)
-- [Canonical Livepatch для ARM64 — теперь официально](https://habr.com/ru/companies/selectel/news/1050822/?utm_campaign=1050822&utm_source=habrahabr&utm_medium=rss)
+- [В Роскомнадзоре сообщили, что ведомство не блокирует видеостриминговую платформу Twitch](https://habr.com/ru/news/1051074/?utm_campaign=1051074&utm_source=habrahabr&utm_medium=rss)
+- [Почему Cloud.ru решил строить свой дата-центр](https://habr.com/ru/news/1051070/?utm_campaign=1051070&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Darktable 5.6 — открытого графического редактора для обработки фотографий в формате RAW](https://habr.com/ru/news/1050190/?utm_campaign=1050190&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA выкатила ИИ-софт для науки: 14 900x в астрономии, 50x в материалах](https://habr.com/ru/news/1051008/?utm_campaign=1051008&utm_source=habrahabr&utm_medium=rss)
+- [Meta* объявила о масштабных изменениях в руководстве WhatsApp**](https://habr.com/ru/news/1051002/?utm_campaign=1051002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
