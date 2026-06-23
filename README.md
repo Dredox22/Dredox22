@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Глава Signal: чат-боты вам не друзья, а ИИ-агенты — бэкдор](https://habr.com/ru/news/1050726/?utm_campaign=1050726&utm_source=habrahabr&utm_medium=rss)
-- [В Max решили разыграть смартфоны Samsung Galaxy S25 Ultra среди выпускников 9-х и 11-х классов](https://habr.com/ru/news/1050708/?utm_campaign=1050708&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 27 появился режим восстановления iPhone без подключения к компьютеру](https://habr.com/ru/news/1050706/?utm_campaign=1050706&utm_source=habrahabr&utm_medium=rss)
-- [Суд признал банкротом IT‑компанию «Авроид»](https://habr.com/ru/news/1050698/?utm_campaign=1050698&utm_source=habrahabr&utm_medium=rss)
-- [Открытая модель GLM-5.2 заменила забаненную Fable 5 в автоисследователе alphaXiv](https://habr.com/ru/news/1050696/?utm_campaign=1050696&utm_source=habrahabr&utm_medium=rss)
+- [Точка Банк запустил публичную программу багбаунти с выплатами до 450 тыс. рублей](https://habr.com/ru/companies/pt/news/1050818/?utm_campaign=1050818&utm_source=habrahabr&utm_medium=rss)
+- [От базы к зрелости: исследование рынка SIEM совместно с проектом Кибердом](https://habr.com/ru/companies/yandex_cloud_and_infra/news/1046846/?utm_campaign=1046846&utm_source=habrahabr&utm_medium=rss)
+- [Акции Getty Images выросли на 145% после сообщения о заключении сделки с OpenAI](https://habr.com/ru/news/1050806/?utm_campaign=1050806&utm_source=habrahabr&utm_medium=rss)
+- [ByteDance анонсировала Seedance 2.5: 30 секунд видео за один проход и нативный 4K](https://habr.com/ru/news/1050800/?utm_campaign=1050800&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи из РФ сообщили, что у них перестал работать доступ к трансляциям Twitch](https://habr.com/ru/news/1050796/?utm_campaign=1050796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
