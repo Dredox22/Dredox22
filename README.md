@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Германии остановили движение всех поездов в стране из-за отказа системы радиосвязи](https://habr.com/ru/news/1051208/?utm_campaign=1051208&utm_source=habrahabr&utm_medium=rss)
-- [77% компаний внедрили ИИ, но выигрыш только у 17% — данные Bpifrance](https://habr.com/ru/news/1051174/?utm_campaign=1051174&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустила Claude Tag — ИИ-сотрудника, который работает сам днями](https://habr.com/ru/news/1051146/?utm_campaign=1051146&utm_source=habrahabr&utm_medium=rss)
-- [JUPITER обучил фундаментальную модель мозга за пять дней — и это только начало](https://habr.com/ru/news/1051136/?utm_campaign=1051136&utm_source=habrahabr&utm_medium=rss)
-- [Oracle официально признала: 21 000 человек уволены из-за ИИ](https://habr.com/ru/news/1051112/?utm_campaign=1051112&utm_source=habrahabr&utm_medium=rss)
+- [В LastPass сообщили о краже данных из обращений в службу поддержки клиентов при взломе системы Klue](https://habr.com/ru/news/1051242/?utm_campaign=1051242&utm_source=habrahabr&utm_medium=rss)
+- [«Почему только Anthropic?»: Конгресс засыпал Минторг США вопросами о блокировке Fable 5](https://habr.com/ru/news/1051254/?utm_campaign=1051254&utm_source=habrahabr&utm_medium=rss)
+- [Релиз irc-клиента mIRC 7.84](https://habr.com/ru/news/1051190/?utm_campaign=1051190&utm_source=habrahabr&utm_medium=rss)
+- [Релиз текстового редактора GNU nano 9.1](https://habr.com/ru/news/1050932/?utm_campaign=1050932&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого проекта RustDesk 1.4.8](https://habr.com/ru/news/1050700/?utm_campaign=1050700&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
