@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России провели эксперимент по межспутниковой связи между низкой и геостационарной орбитами через спутник «Экспресс»](https://habr.com/ru/news/1051618/?utm_campaign=1051618&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba воровала данные Claude и обучала на них Qwen — теперь Anthropic жалуется властям](https://habr.com/ru/news/1051614/?utm_campaign=1051614&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» добавил в Алису AI бронирование ресторанов и запись в салоны прямо в чате для пользователей по всей России](https://habr.com/ru/news/1051608/?utm_campaign=1051608&utm_source=habrahabr&utm_medium=rss)
+- [В «Ростелекоме» прошла защита финала Всероссийского инженерного конкурса с ИТ и ИБ проектами студентов](https://habr.com/ru/news/1051602/?utm_campaign=1051602&utm_source=habrahabr&utm_medium=rss)
 - [Из Google в Anthropic уходят еще двое ключевых разработчиков Gemini — и это уже не совпадение](https://habr.com/ru/news/1051592/?utm_campaign=1051592&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Астрал» восстанавливает сервисы после кибератаки, часть функций ЭДО, ОФД уже доступны](https://habr.com/ru/news/1051584/?utm_campaign=1051584&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Subtitle Edit 5.0.0 для создания, редактирования, синхронизирования и перевода субтитров](https://habr.com/ru/news/1051192/?utm_campaign=1051192&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic, OpenAI и Stripe хотят уничтожить простуду и грипп как явление](https://habr.com/ru/news/1051540/?utm_campaign=1051540&utm_source=habrahabr&utm_medium=rss)
-- [На США подали в суд из-за блокировки Claude Fable 5](https://habr.com/ru/news/1051502/?utm_campaign=1051502&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
