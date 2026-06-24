@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В LastPass сообщили о краже данных из обращений в службу поддержки клиентов при взломе системы Klue](https://habr.com/ru/news/1051242/?utm_campaign=1051242&utm_source=habrahabr&utm_medium=rss)
-- [«Почему только Anthropic?»: Конгресс засыпал Минторг США вопросами о блокировке Fable 5](https://habr.com/ru/news/1051254/?utm_campaign=1051254&utm_source=habrahabr&utm_medium=rss)
-- [Релиз irc-клиента mIRC 7.84](https://habr.com/ru/news/1051190/?utm_campaign=1051190&utm_source=habrahabr&utm_medium=rss)
-- [Релиз текстового редактора GNU nano 9.1](https://habr.com/ru/news/1050932/?utm_campaign=1050932&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого проекта RustDesk 1.4.8](https://habr.com/ru/news/1050700/?utm_campaign=1050700&utm_source=habrahabr&utm_medium=rss)
+- [Superhuman приобрела стартап GPTZero, занимающийся разработкой систем обнаружения ИИ](https://habr.com/ru/news/1051360/?utm_campaign=1051360&utm_source=habrahabr&utm_medium=rss)
+- [Итоги Standoff 17: исторический блэкаут виртуального государства и атаки на цифровую копию реальной компании](https://habr.com/ru/companies/pt/news/1051352/?utm_campaign=1051352&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ProBackup 3.4.0: удаленное инкрементальное восстановление и расширенная поддержка CFS](https://habr.com/ru/companies/postgrespro/news/1048852/?utm_campaign=1048852&utm_source=habrahabr&utm_medium=rss)
+- [Китайские разработчики подали антимонопольную жалобу на Apple в Государственное управление по регулированию рынка КНР](https://habr.com/ru/news/1051332/?utm_campaign=1051332&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare шесть недель искала баг в hyper: ответы возвращали 200 OK, но приходили не полностью](https://habr.com/ru/companies/otus/news/1051330/?utm_campaign=1051330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
