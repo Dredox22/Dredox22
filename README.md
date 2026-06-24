@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Superhuman приобрела стартап GPTZero, занимающийся разработкой систем обнаружения ИИ](https://habr.com/ru/news/1051360/?utm_campaign=1051360&utm_source=habrahabr&utm_medium=rss)
-- [Итоги Standoff 17: исторический блэкаут виртуального государства и атаки на цифровую копию реальной компании](https://habr.com/ru/companies/pt/news/1051352/?utm_campaign=1051352&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ProBackup 3.4.0: удаленное инкрементальное восстановление и расширенная поддержка CFS](https://habr.com/ru/companies/postgrespro/news/1048852/?utm_campaign=1048852&utm_source=habrahabr&utm_medium=rss)
-- [Китайские разработчики подали антимонопольную жалобу на Apple в Государственное управление по регулированию рынка КНР](https://habr.com/ru/news/1051332/?utm_campaign=1051332&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare шесть недель искала баг в hyper: ответы возвращали 200 OK, но приходили не полностью](https://habr.com/ru/companies/otus/news/1051330/?utm_campaign=1051330&utm_source=habrahabr&utm_medium=rss)
+- [ЦОДам могут дать особый статус в энергосистеме](https://habr.com/ru/news/1051422/?utm_campaign=1051422&utm_source=habrahabr&utm_medium=rss)
+- [Полное управление Deckhouse Kubernetes Platform через веб-интерфейс — теперь в бесплатной версии платформы](https://habr.com/ru/companies/flant/news/1050898/?utm_campaign=1050898&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Terraform в выделенных серверах](https://habr.com/ru/companies/selectel/news/1049210/?utm_campaign=1049210&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-детектор утечек: как работает DLP нового поколения](https://habr.com/ru/companies/cloud4y/news/1051404/?utm_campaign=1051404&utm_source=habrahabr&utm_medium=rss)
+- [Безопасность на скорости кода: ИИ-триаж и кодфикс в Solar appScreener 3.16 в 10 раз увеличивают емкость команды AppSec](https://habr.com/ru/companies/solarsecurity/news/1051402/?utm_campaign=1051402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
