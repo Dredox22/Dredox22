@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ЦОДам могут дать особый статус в энергосистеме](https://habr.com/ru/news/1051422/?utm_campaign=1051422&utm_source=habrahabr&utm_medium=rss)
-- [Полное управление Deckhouse Kubernetes Platform через веб-интерфейс — теперь в бесплатной версии платформы](https://habr.com/ru/companies/flant/news/1050898/?utm_campaign=1050898&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Terraform в выделенных серверах](https://habr.com/ru/companies/selectel/news/1049210/?utm_campaign=1049210&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-детектор утечек: как работает DLP нового поколения](https://habr.com/ru/companies/cloud4y/news/1051404/?utm_campaign=1051404&utm_source=habrahabr&utm_medium=rss)
-- [Безопасность на скорости кода: ИИ-триаж и кодфикс в Solar appScreener 3.16 в 10 раз увеличивают емкость команды AppSec](https://habr.com/ru/companies/solarsecurity/news/1051402/?utm_campaign=1051402&utm_source=habrahabr&utm_medium=rss)
+- [На США подали в суд из-за блокировки Claude Fable 5](https://habr.com/ru/news/1051502/?utm_campaign=1051502&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила Jalapeño — свой первый чип для ИИ](https://habr.com/ru/news/1051476/?utm_campaign=1051476&utm_source=habrahabr&utm_medium=rss)
+- [Предзаказ GTA 6 стартует в полночь 25 июня](https://habr.com/ru/news/1051466/?utm_campaign=1051466&utm_source=habrahabr&utm_medium=rss)
+- [Kuber Community Day возвращается](https://habr.com/ru/companies/chislitellab/news/1051460/?utm_campaign=1051460&utm_source=habrahabr&utm_medium=rss)
+- [«Дальнобойщики 2» вышли в Steam](https://habr.com/ru/news/1051458/?utm_campaign=1051458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
