@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из Google в Anthropic уходят еще двое ключевых разработчиков Gemini — и это уже не совпадение](https://habr.com/ru/news/1051592/?utm_campaign=1051592&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Астрал» восстанавливает сервисы после кибератаки, часть функций ЭДО, ОФД уже доступны](https://habr.com/ru/news/1051584/?utm_campaign=1051584&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Subtitle Edit 5.0.0 для создания, редактирования, синхронизирования и перевода субтитров](https://habr.com/ru/news/1051192/?utm_campaign=1051192&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic, OpenAI и Stripe хотят уничтожить простуду и грипп как явление](https://habr.com/ru/news/1051540/?utm_campaign=1051540&utm_source=habrahabr&utm_medium=rss)
 - [На США подали в суд из-за блокировки Claude Fable 5](https://habr.com/ru/news/1051502/?utm_campaign=1051502&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила Jalapeño — свой первый чип для ИИ](https://habr.com/ru/news/1051476/?utm_campaign=1051476&utm_source=habrahabr&utm_medium=rss)
-- [Предзаказ GTA 6 стартует в полночь 25 июня](https://habr.com/ru/news/1051466/?utm_campaign=1051466&utm_source=habrahabr&utm_medium=rss)
-- [Kuber Community Day возвращается](https://habr.com/ru/companies/chislitellab/news/1051460/?utm_campaign=1051460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
