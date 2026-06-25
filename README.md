@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В «Сбербанке Онлайн» появился аниме-стиль «СберТян»](https://habr.com/ru/news/1051966/?utm_campaign=1051966&utm_source=habrahabr&utm_medium=rss)
-- [Apple заявила, что приложения VK были удалены из AppStore в соответствии с правилами соблюдения санкций](https://habr.com/ru/news/1051960/?utm_campaign=1051960&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba подала в суд на Пентагон из-за «военного» ярлыка](https://habr.com/ru/news/1051950/?utm_campaign=1051950&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX все? Обвал после IPO, долги и битва за разработчиков с Microsoft](https://habr.com/ru/companies/selectel/news/1051944/?utm_campaign=1051944&utm_source=habrahabr&utm_medium=rss)
-- [Китайские разработчики получают Claude за 10% от стоимости](https://habr.com/ru/news/1051936/?utm_campaign=1051936&utm_source=habrahabr&utm_medium=rss)
+- [63% решений Opus 4.8 Max на SWE-bench Pro оказались списаны](https://habr.com/ru/news/1052016/?utm_campaign=1052016&utm_source=habrahabr&utm_medium=rss)
+- [GTA VI выйдет на дисках, но после релиза](https://habr.com/ru/news/1052010/?utm_campaign=1052010&utm_source=habrahabr&utm_medium=rss)
+- [У лучших сотрудников OpenAI уже 71 час в сутках. OpenAI раскрыла данные Codex](https://habr.com/ru/news/1052008/?utm_campaign=1052008&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры украли данные мобильных телефонов сотрудников бельгийской разведывательной службы](https://habr.com/ru/news/1052002/?utm_campaign=1052002&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпати назвал Claude Tag третьим большим редизайном интерфейса ИИ](https://habr.com/ru/news/1051998/?utm_campaign=1051998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
