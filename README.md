@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps без воды: только реальные кейсы и хардкорные решения](https://habr.com/ru/companies/chestnyznak/news/1051746/?utm_campaign=1051746&utm_source=habrahabr&utm_medium=rss)
-- [Выходцы из Anthropic создают ИИ, который улучшает сам себя](https://habr.com/ru/news/1051742/?utm_campaign=1051742&utm_source=habrahabr&utm_medium=rss)
-- [Приложения VK пропали из российского AppStore — Музыка, Мессенджер, Видео, Дзен, а также Одноклассники и почта Mail.ru](https://habr.com/ru/news/1051736/?utm_campaign=1051736&utm_source=habrahabr&utm_medium=rss)
-- [AMD выпустила исправление для драйвера FSR 26.6.2](https://habr.com/ru/news/1051698/?utm_campaign=1051698&utm_source=habrahabr&utm_medium=rss)
-- [Google объявила об открытии Play Store для сторонних платёжных систем](https://habr.com/ru/news/1051712/?utm_campaign=1051712&utm_source=habrahabr&utm_medium=rss)
+- [В VK пытаются сохранить пользовательский комфорт для обладателей iPhone после удаления приложений из AppStore](https://habr.com/ru/news/1051870/?utm_campaign=1051870&utm_source=habrahabr&utm_medium=rss)
+- [«У нас есть Claude Mythos дома»: Китай представил ИИ для поиска уязвимостей](https://habr.com/ru/news/1051858/?utm_campaign=1051858&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал цикл обновления продуктов InfoWatch по защите данных](https://habr.com/ru/companies/infowatch/news/1051818/?utm_campaign=1051818&utm_source=habrahabr&utm_medium=rss)
+- [Apple обновила страницу поддержки с рекомендациями для пользователей, у которых украли iPhone](https://habr.com/ru/news/1051816/?utm_campaign=1051816&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обратилось в Федеральную антимонопольную службу РФ из-за удаления приложений VK из AppStore](https://habr.com/ru/news/1051810/?utm_campaign=1051810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
