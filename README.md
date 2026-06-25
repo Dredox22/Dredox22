@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitdefender выпустила приложение RealCheck для проверки видео на дипфейк](https://habr.com/ru/news/1051622/?utm_campaign=1051622&utm_source=habrahabr&utm_medium=rss)
-- [В России провели эксперимент по межспутниковой связи между низкой и геостационарной орбитами через спутник «Экспресс»](https://habr.com/ru/news/1051618/?utm_campaign=1051618&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba воровала данные Claude и обучала на них Qwen — теперь Anthropic жалуется властям](https://habr.com/ru/news/1051614/?utm_campaign=1051614&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» добавил в Алису AI бронирование ресторанов и запись в салоны прямо в чате для пользователей по всей России](https://habr.com/ru/news/1051608/?utm_campaign=1051608&utm_source=habrahabr&utm_medium=rss)
-- [В «Ростелекоме» прошла защита финала Всероссийского инженерного конкурса с ИТ и ИБ проектами студентов](https://habr.com/ru/news/1051602/?utm_campaign=1051602&utm_source=habrahabr&utm_medium=rss)
+- [DevOps без воды: только реальные кейсы и хардкорные решения](https://habr.com/ru/companies/chestnyznak/news/1051746/?utm_campaign=1051746&utm_source=habrahabr&utm_medium=rss)
+- [Выходцы из Anthropic создают ИИ, который улучшает сам себя](https://habr.com/ru/news/1051742/?utm_campaign=1051742&utm_source=habrahabr&utm_medium=rss)
+- [Приложения VK пропали из российского AppStore — Музыка, Мессенджер, Видео, Дзен, а также Одноклассники и почта Mail.ru](https://habr.com/ru/news/1051736/?utm_campaign=1051736&utm_source=habrahabr&utm_medium=rss)
+- [AMD выпустила исправление для драйвера FSR 26.6.2](https://habr.com/ru/news/1051698/?utm_campaign=1051698&utm_source=habrahabr&utm_medium=rss)
+- [Google объявила об открытии Play Store для сторонних платёжных систем](https://habr.com/ru/news/1051712/?utm_campaign=1051712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
