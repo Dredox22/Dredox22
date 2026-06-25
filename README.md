@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google перестраивает обучение Gemini, чтобы догнать Anthropic. Gemini 3.5 Pro отложена на месяц](https://habr.com/ru/news/1052044/?utm_campaign=1052044&utm_source=habrahabr&utm_medium=rss)
+- [Стратегию развития цифровых платформ подготовят к февралю 2027 года с участием 11 министерств и РЭЦ](https://habr.com/ru/news/1052030/?utm_campaign=1052030&utm_source=habrahabr&utm_medium=rss)
+- [Подача судебных исков к Apple из-за удаления приложений из AppStore не имеет юридических и практических перспектив](https://habr.com/ru/news/1052022/?utm_campaign=1052022&utm_source=habrahabr&utm_medium=rss)
 - [63% решений Opus 4.8 Max на SWE-bench Pro оказались списаны](https://habr.com/ru/news/1052016/?utm_campaign=1052016&utm_source=habrahabr&utm_medium=rss)
 - [GTA VI выйдет на дисках, но после релиза](https://habr.com/ru/news/1052010/?utm_campaign=1052010&utm_source=habrahabr&utm_medium=rss)
-- [У лучших сотрудников OpenAI уже 71 час в сутках. OpenAI раскрыла данные Codex](https://habr.com/ru/news/1052008/?utm_campaign=1052008&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры украли данные мобильных телефонов сотрудников бельгийской разведывательной службы](https://habr.com/ru/news/1052002/?utm_campaign=1052002&utm_source=habrahabr&utm_medium=rss)
-- [Андрей Карпати назвал Claude Tag третьим большим редизайном интерфейса ИИ](https://habr.com/ru/news/1051998/?utm_campaign=1051998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
