@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В VK пытаются сохранить пользовательский комфорт для обладателей iPhone после удаления приложений из AppStore](https://habr.com/ru/news/1051870/?utm_campaign=1051870&utm_source=habrahabr&utm_medium=rss)
-- [«У нас есть Claude Mythos дома»: Китай представил ИИ для поиска уязвимостей](https://habr.com/ru/news/1051858/?utm_campaign=1051858&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал цикл обновления продуктов InfoWatch по защите данных](https://habr.com/ru/companies/infowatch/news/1051818/?utm_campaign=1051818&utm_source=habrahabr&utm_medium=rss)
-- [Apple обновила страницу поддержки с рекомендациями для пользователей, у которых украли iPhone](https://habr.com/ru/news/1051816/?utm_campaign=1051816&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обратилось в Федеральную антимонопольную службу РФ из-за удаления приложений VK из AppStore](https://habr.com/ru/news/1051810/?utm_campaign=1051810&utm_source=habrahabr&utm_medium=rss)
+- [В «Сбербанке Онлайн» появился аниме-стиль «СберТян»](https://habr.com/ru/news/1051966/?utm_campaign=1051966&utm_source=habrahabr&utm_medium=rss)
+- [Apple заявила, что приложения VK были удалены из AppStore в соответствии с правилами соблюдения санкций](https://habr.com/ru/news/1051960/?utm_campaign=1051960&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba подала в суд на Пентагон из-за «военного» ярлыка](https://habr.com/ru/news/1051950/?utm_campaign=1051950&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX все? Обвал после IPO, долги и битва за разработчиков с Microsoft](https://habr.com/ru/companies/selectel/news/1051944/?utm_campaign=1051944&utm_source=habrahabr&utm_medium=rss)
+- [Китайские разработчики получают Claude за 10% от стоимости](https://habr.com/ru/news/1051936/?utm_campaign=1051936&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
