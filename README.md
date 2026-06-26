@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ в маркетинге: Data Sapience приняла участие в бизнес-встрече «Сарафана» от GlowByte](https://habr.com/ru/companies/datasapience/news/1052286/?utm_campaign=1052286&utm_source=habrahabr&utm_medium=rss)
-- [Испания потребовала от операторов связи поддерживать работу мобильных сетей во время отключений электроэнергии](https://habr.com/ru/news/1052282/?utm_campaign=1052282&utm_source=habrahabr&utm_medium=rss)
-- [Цифровой тандем: GlowByte и Центральный университет объединяют экспертизу](https://habr.com/ru/companies/glowbyte/news/1052252/?utm_campaign=1052252&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek набирает сотрудников для создания AGI](https://habr.com/ru/news/1052242/?utm_campaign=1052242&utm_source=habrahabr&utm_medium=rss)
-- [Европол, Microsoft и ESET нейтрализовали инфраструктуру вирусов Amadey и StealC](https://habr.com/ru/news/1052208/?utm_campaign=1052208&utm_source=habrahabr&utm_medium=rss)
+- [Новые модели ChatGPT пугают даже правительство США: почему в след за Fable 5 не вышла GTP-5.6](https://habr.com/ru/companies/selectel/news/1052418/?utm_campaign=1052418&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры РФ разработало проект требований к оборудованию виртуальных АТС для нужд ОРМ](https://habr.com/ru/news/1052442/?utm_campaign=1052442&utm_source=habrahabr&utm_medium=rss)
+- [Ford вернула бывших инженеров для устранения недочётов, допущенных автоматизированными системами](https://habr.com/ru/news/1052438/?utm_campaign=1052438&utm_source=habrahabr&utm_medium=rss)
+- [Как оценить состояние проекта 1С до новых затрат: тема Инфостарт на ИННОПРОМ-2026](https://habr.com/ru/companies/infostart/news/1052434/?utm_campaign=1052434&utm_source=habrahabr&utm_medium=rss)
+- [Добавили ИИ-консультанта в BILLmanager](https://habr.com/ru/companies/ispsystem/news/1052412/?utm_campaign=1052412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
