@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [85% австралийских подростков продолжают заходить в соцсети после запрета](https://habr.com/ru/news/1052188/?utm_campaign=1052188&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Браузер» для организаций теперь поддерживает ГОСТ TLS и работает с электронной цифровой подписью на Android](https://habr.com/ru/news/1052190/?utm_campaign=1052190&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты UserGate uFactor: новая уязвимость в Microsoft Exchange позволяет хакерам читать локальные файлы сервера](https://habr.com/ru/companies/usergate/news/1052184/?utm_campaign=1052184&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI запустила новую инициативу по поиску и исправлению ошибок в открытом исходном коде](https://habr.com/ru/news/1052178/?utm_campaign=1052178&utm_source=habrahabr&utm_medium=rss)
-- [ИИ должен учиться непрерывно, чтобы стать AGI. Но с этим проблема](https://habr.com/ru/news/1052160/?utm_campaign=1052160&utm_source=habrahabr&utm_medium=rss)
+- [ИИ в маркетинге: Data Sapience приняла участие в бизнес-встрече «Сарафана» от GlowByte](https://habr.com/ru/companies/datasapience/news/1052286/?utm_campaign=1052286&utm_source=habrahabr&utm_medium=rss)
+- [Испания потребовала от операторов связи поддерживать работу мобильных сетей во время отключений электроэнергии](https://habr.com/ru/news/1052282/?utm_campaign=1052282&utm_source=habrahabr&utm_medium=rss)
+- [Цифровой тандем: GlowByte и Центральный университет объединяют экспертизу](https://habr.com/ru/companies/glowbyte/news/1052252/?utm_campaign=1052252&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek набирает сотрудников для создания AGI](https://habr.com/ru/news/1052242/?utm_campaign=1052242&utm_source=habrahabr&utm_medium=rss)
+- [Европол, Microsoft и ESET нейтрализовали инфраструктуру вирусов Amadey и StealC](https://habr.com/ru/news/1052208/?utm_campaign=1052208&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
