@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новые модели ChatGPT пугают даже правительство США: почему в след за Fable 5 не вышла GTP-5.6](https://habr.com/ru/companies/selectel/news/1052418/?utm_campaign=1052418&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры РФ разработало проект требований к оборудованию виртуальных АТС для нужд ОРМ](https://habr.com/ru/news/1052442/?utm_campaign=1052442&utm_source=habrahabr&utm_medium=rss)
-- [Ford вернула бывших инженеров для устранения недочётов, допущенных автоматизированными системами](https://habr.com/ru/news/1052438/?utm_campaign=1052438&utm_source=habrahabr&utm_medium=rss)
-- [Как оценить состояние проекта 1С до новых затрат: тема Инфостарт на ИННОПРОМ-2026](https://habr.com/ru/companies/infostart/news/1052434/?utm_campaign=1052434&utm_source=habrahabr&utm_medium=rss)
-- [Добавили ИИ-консультанта в BILLmanager](https://habr.com/ru/companies/ispsystem/news/1052412/?utm_campaign=1052412&utm_source=habrahabr&utm_medium=rss)
+- [Binance перестанет работать в Европе с 1 июля](https://habr.com/ru/news/1052494/?utm_campaign=1052494&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GPT-5.6 — мощнейшая модель, но пока не для вас](https://habr.com/ru/news/1052492/?utm_campaign=1052492&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GPT-5.6 Sol: уровень Mythos &lpar;Fable&rpar;, но дешевле по токенам](https://habr.com/ru/news/1052490/?utm_campaign=1052490&utm_source=habrahabr&utm_medium=rss)
+- [Президент России одобрил второй пакет антифрод‑мер с ограничениями SIM‑карт, звонков и банковских карт](https://habr.com/ru/news/1052478/?utm_campaign=1052478&utm_source=habrahabr&utm_medium=rss)
+- [Президент РФ подписал закон о штрафах за авторизацию через иностранные сервисы и нарушения рекомендательных технологий](https://habr.com/ru/news/1052462/?utm_campaign=1052462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
