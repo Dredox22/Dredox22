@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Экономист счел приемлемым 33% шанс вымирания от ИИ. Теперь он работает на Anthropic](https://habr.com/ru/news/1052082/?utm_campaign=1052082&utm_source=habrahabr&utm_medium=rss)
-- [Власти США притормозили выход GPT-5.6: доступ будут одобрять поклиентно](https://habr.com/ru/news/1052058/?utm_campaign=1052058&utm_source=habrahabr&utm_medium=rss)
-- [Google перестраивает обучение Gemini, чтобы догнать Anthropic. Gemini 3.5 Pro отложена на месяц](https://habr.com/ru/news/1052044/?utm_campaign=1052044&utm_source=habrahabr&utm_medium=rss)
-- [Стратегию развития цифровых платформ подготовят к февралю 2027 года с участием 11 министерств и РЭЦ](https://habr.com/ru/news/1052030/?utm_campaign=1052030&utm_source=habrahabr&utm_medium=rss)
-- [Подача судебных исков к Apple из-за удаления приложений из AppStore не имеет юридических и практических перспектив](https://habr.com/ru/news/1052022/?utm_campaign=1052022&utm_source=habrahabr&utm_medium=rss)
+- [85% австралийских подростков продолжают заходить в соцсети после запрета](https://habr.com/ru/news/1052188/?utm_campaign=1052188&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Браузер» для организаций теперь поддерживает ГОСТ TLS и работает с электронной цифровой подписью на Android](https://habr.com/ru/news/1052190/?utm_campaign=1052190&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты UserGate uFactor: новая уязвимость в Microsoft Exchange позволяет хакерам читать локальные файлы сервера](https://habr.com/ru/companies/usergate/news/1052184/?utm_campaign=1052184&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI запустила новую инициативу по поиску и исправлению ошибок в открытом исходном коде](https://habr.com/ru/news/1052178/?utm_campaign=1052178&utm_source=habrahabr&utm_medium=rss)
+- [ИИ должен учиться непрерывно, чтобы стать AGI. Но с этим проблема](https://habr.com/ru/news/1052160/?utm_campaign=1052160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
