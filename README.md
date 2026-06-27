@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.10](https://habr.com/ru/news/1052322/?utm_campaign=1052322&utm_source=habrahabr&utm_medium=rss)
 - [«Безопасность США важнее бизнеса»: Хуанг сменил тон по чипам для Китая](https://habr.com/ru/news/1052648/?utm_campaign=1052648&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek выложил в open source DSpark — модуль, ускоряющий ответы ИИ почти вдвое](https://habr.com/ru/news/1052644/?utm_campaign=1052644&utm_source=habrahabr&utm_medium=rss)
 - [Honda, Nissan и Mitsubishi перейдут на общее ПО и электронные системы для автомобилей](https://habr.com/ru/news/1052606/?utm_campaign=1052606&utm_source=habrahabr&utm_medium=rss)
 - [Тысячи людей в Бразилии, Камбодже и на Филиппинах трудятся над тем, чтобы на Чемпионате мира по футболу работал ИИ](https://habr.com/ru/news/1052638/?utm_campaign=1052638&utm_source=habrahabr&utm_medium=rss)
-- [ИИ помог прочесть сожженный Везувием свиток — текст восстановили буквально из угля](https://habr.com/ru/news/1052634/?utm_campaign=1052634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
