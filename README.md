@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Fable 5 могут вернуть уже на следующей неделе — Axios](https://habr.com/ru/news/1052698/?utm_campaign=1052698&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся выпуск проекта QSOE — операционной системы в стиле QNX с двумя заменяемыми микроядрами](https://habr.com/ru/news/1052312/?utm_campaign=1052312&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.10](https://habr.com/ru/news/1052322/?utm_campaign=1052322&utm_source=habrahabr&utm_medium=rss)
 - [«Безопасность США важнее бизнеса»: Хуанг сменил тон по чипам для Китая](https://habr.com/ru/news/1052648/?utm_campaign=1052648&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek выложил в open source DSpark — модуль, ускоряющий ответы ИИ почти вдвое](https://habr.com/ru/news/1052644/?utm_campaign=1052644&utm_source=habrahabr&utm_medium=rss)
-- [Honda, Nissan и Mitsubishi перейдут на общее ПО и электронные системы для автомобилей](https://habr.com/ru/news/1052606/?utm_campaign=1052606&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
