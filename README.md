@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Основатель Xprize: Люди ведут себя лучше, когда за ними наблюдают](https://habr.com/ru/news/1052568/?utm_campaign=1052568&utm_source=habrahabr&utm_medium=rss)
-- [Релиз DXVK 3.0](https://habr.com/ru/news/1052254/?utm_campaign=1052254&utm_source=habrahabr&utm_medium=rss)
-- [США частично сняли блокировку с Claude Mythos 5 — но только для сотни компаний](https://habr.com/ru/news/1052534/?utm_campaign=1052534&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.6 жульничала в тестах чаще любой модели — и проверяющих это обрадовало](https://habr.com/ru/news/1052516/?utm_campaign=1052516&utm_source=habrahabr&utm_medium=rss)
-- [Binance перестанет работать в Европе с 1 июля](https://habr.com/ru/news/1052494/?utm_campaign=1052494&utm_source=habrahabr&utm_medium=rss)
+- [Популярные сетевые игры с античит-системами будут недоступны на Steam Machine, поскольку SteamOS основана на Linux](https://habr.com/ru/news/1052590/?utm_campaign=1052590&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft протестировала прототип браузера Edge для iOS на движке Chromium/Blink](https://habr.com/ru/news/1052588/?utm_campaign=1052588&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 появилась функция временного восстановления ОС на случай неудачного обновления](https://habr.com/ru/news/1052586/?utm_campaign=1052586&utm_source=habrahabr&utm_medium=rss)
+- [Автор: эпоха «документы, пожалуйста» в интернете уничтожит конфиденциальность](https://habr.com/ru/news/1052576/?utm_campaign=1052576&utm_source=habrahabr&utm_medium=rss)
+- [IBM представила первую в мире технологию микросхем размером менее 1 нанометра](https://habr.com/ru/news/1052580/?utm_campaign=1052580&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
