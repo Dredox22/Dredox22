@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонимный аккаунт на GitHub опубликовал данные о ранее неизвестных уязвимостях нулевого дня в разных проектах](https://habr.com/ru/news/1052756/?utm_campaign=1052756&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code за 5 минут вскрыл CAN-шину автомобиля — то, на что у инженера уходят часы](https://habr.com/ru/news/1052740/?utm_campaign=1052740&utm_source=habrahabr&utm_medium=rss)
 - [Claude Fable 5 могут вернуть уже на следующей неделе — Axios](https://habr.com/ru/news/1052698/?utm_campaign=1052698&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся выпуск проекта QSOE — операционной системы в стиле QNX с двумя заменяемыми микроядрами](https://habr.com/ru/news/1052312/?utm_campaign=1052312&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.10](https://habr.com/ru/news/1052322/?utm_campaign=1052322&utm_source=habrahabr&utm_medium=rss)
-- [«Безопасность США важнее бизнеса»: Хуанг сменил тон по чипам для Китая](https://habr.com/ru/news/1052648/?utm_campaign=1052648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
