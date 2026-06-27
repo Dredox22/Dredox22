@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Популярные сетевые игры с античит-системами будут недоступны на Steam Machine, поскольку SteamOS основана на Linux](https://habr.com/ru/news/1052590/?utm_campaign=1052590&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft протестировала прототип браузера Edge для iOS на движке Chromium/Blink](https://habr.com/ru/news/1052588/?utm_campaign=1052588&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 появилась функция временного восстановления ОС на случай неудачного обновления](https://habr.com/ru/news/1052586/?utm_campaign=1052586&utm_source=habrahabr&utm_medium=rss)
-- [Автор: эпоха «документы, пожалуйста» в интернете уничтожит конфиденциальность](https://habr.com/ru/news/1052576/?utm_campaign=1052576&utm_source=habrahabr&utm_medium=rss)
-- [IBM представила первую в мире технологию микросхем размером менее 1 нанометра](https://habr.com/ru/news/1052580/?utm_campaign=1052580&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила ошибки работы Command Palette Dock в PowerToys](https://habr.com/ru/news/1052614/?utm_campaign=1052614&utm_source=habrahabr&utm_medium=rss)
+- [Вышел 7-Zip 26.02](https://habr.com/ru/news/1052362/?utm_campaign=1052362&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft устранила баг, мешавший установить обновления безопасности на Windows Server 2016](https://habr.com/ru/news/1052594/?utm_campaign=1052594&utm_source=habrahabr&utm_medium=rss)
+- [В инфраструктуре Python обнаружили уязвимость, которая позволяла подменять ссылки на релизы на сайте python.org](https://habr.com/ru/news/1052592/?utm_campaign=1052592&utm_source=habrahabr&utm_medium=rss)
+- [Чили хочет протянуть подводный кабель в Гонконг, но США против](https://habr.com/ru/news/1052610/?utm_campaign=1052610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
