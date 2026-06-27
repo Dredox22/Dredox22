@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Основатель Xprize: Люди ведут себя лучше, когда за ними наблюдают](https://habr.com/ru/news/1052568/?utm_campaign=1052568&utm_source=habrahabr&utm_medium=rss)
+- [Релиз DXVK 3.0](https://habr.com/ru/news/1052254/?utm_campaign=1052254&utm_source=habrahabr&utm_medium=rss)
+- [США частично сняли блокировку с Claude Mythos 5 — но только для сотни компаний](https://habr.com/ru/news/1052534/?utm_campaign=1052534&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.6 жульничала в тестах чаще любой модели — и проверяющих это обрадовало](https://habr.com/ru/news/1052516/?utm_campaign=1052516&utm_source=habrahabr&utm_medium=rss)
 - [Binance перестанет работать в Европе с 1 июля](https://habr.com/ru/news/1052494/?utm_campaign=1052494&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT-5.6 — мощнейшая модель, но пока не для вас](https://habr.com/ru/news/1052492/?utm_campaign=1052492&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT-5.6 Sol: уровень Mythos &lpar;Fable&rpar;, но дешевле по токенам](https://habr.com/ru/news/1052490/?utm_campaign=1052490&utm_source=habrahabr&utm_medium=rss)
-- [Президент России одобрил второй пакет антифрод‑мер с ограничениями SIM‑карт, звонков и банковских карт](https://habr.com/ru/news/1052478/?utm_campaign=1052478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
