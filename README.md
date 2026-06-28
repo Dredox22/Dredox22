@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минпромторг выделит 1,4 млрд рублей на разработку установки для жидкостной обработки кремниевых пластин](https://habr.com/ru/news/1053050/?utm_campaign=1053050&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft продлила поддержку Windows 10 до октября 2027 года](https://habr.com/ru/news/1052084/?utm_campaign=1052084&utm_source=habrahabr&utm_medium=rss)
 - [PET-скан показал рак. Claude сказал: 90%, что это ложная тревога — и оказался прав](https://habr.com/ru/news/1053022/?utm_campaign=1053022&utm_source=habrahabr&utm_medium=rss)
 - [В Якутии представили бесплатное приложение для тренировки стрельбы из лука с отслеживанием прогресса спортсменов](https://habr.com/ru/news/1053016/?utm_campaign=1053016&utm_source=habrahabr&utm_medium=rss)
 - [Grok 4.5 обучили на данных Cursor — Маск пообещал, что «будет не хуже Opus»](https://habr.com/ru/news/1052936/?utm_campaign=1052936&utm_source=habrahabr&utm_medium=rss)
-- [Akrites: 20 ИТ-гигантов объединились, чтобы защитить опенсорс от ИИ-атак](https://habr.com/ru/companies/bothub/news/1052934/?utm_campaign=1052934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
