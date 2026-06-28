@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Срок поддержки ядра Linux 7.0 истёк, всем рекомендуется перейти на ядро Linux 7.1 или Linux 6.18 LTS](https://habr.com/ru/news/1052690/?utm_campaign=1052690&utm_source=habrahabr&utm_medium=rss)
-- [Изображение оказалось способно взломать модели ИИ с визуальным и языковым анализом](https://habr.com/ru/news/1052870/?utm_campaign=1052870&utm_source=habrahabr&utm_medium=rss)
-- [На ИИ-лазер против комаров собрали $2,7 млн — производство начнут в августе](https://habr.com/ru/news/1052880/?utm_campaign=1052880&utm_source=habrahabr&utm_medium=rss)
-- [Функция «Ваш алгоритм» в Instagram** получит новые способы настройки](https://habr.com/ru/news/1052872/?utm_campaign=1052872&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.6](https://habr.com/ru/news/1052672/?utm_campaign=1052672&utm_source=habrahabr&utm_medium=rss)
+- [Grok 4.5 обучили на данных Cursor — Маск пообещал, что «будет не хуже Opus»](https://habr.com/ru/news/1052936/?utm_campaign=1052936&utm_source=habrahabr&utm_medium=rss)
+- [Akrites: 20 ИТ-гигантов объединились, чтобы защитить опенсорс от ИИ-атак](https://habr.com/ru/companies/bothub/news/1052934/?utm_campaign=1052934&utm_source=habrahabr&utm_medium=rss)
+- [Google ужесточит режим «Расширенной защиты» в Android](https://habr.com/ru/news/1052080/?utm_campaign=1052080&utm_source=habrahabr&utm_medium=rss)
+- [Amazon и конкуренты запустили торговую ассоциацию, которая будет представлять интересы операторов NGSO-спутников](https://habr.com/ru/news/1052884/?utm_campaign=1052884&utm_source=habrahabr&utm_medium=rss)
+- [Киберэксперт UserGate Газизова выявила топ-3 рисков при использовании ИИ для россиян](https://habr.com/ru/companies/usergate/news/1052926/?utm_campaign=1052926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
