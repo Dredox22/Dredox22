@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На ИИ-лазер против комаров собрали $2,7 млн — производство начнут в августе](https://habr.com/ru/news/1052880/?utm_campaign=1052880&utm_source=habrahabr&utm_medium=rss)
+- [Функция «Ваш алгоритм» в Instagram** получит новые способы настройки](https://habr.com/ru/news/1052872/?utm_campaign=1052872&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.6](https://habr.com/ru/news/1052672/?utm_campaign=1052672&utm_source=habrahabr&utm_medium=rss)
+- [Китайские хедж-фонды: ИИ-пузырь готов лопнуть, обвал уже близко](https://habr.com/ru/news/1052846/?utm_campaign=1052846&utm_source=habrahabr&utm_medium=rss)
 - [Журнал The Science of Nature отозвал две статьи лауреата Нобелевской премии Макса Планка из-за «самоплагиата»](https://habr.com/ru/news/1052804/?utm_campaign=1052804&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления планетария с открытым кодом Stellarium 26.2](https://habr.com/ru/news/1052520/?utm_campaign=1052520&utm_source=habrahabr&utm_medium=rss)
-- [Starlink объединяется с Tractor Supply и 4-H для расширения доступа к интернету в сельской местности](https://habr.com/ru/news/1052828/?utm_campaign=1052828&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.5.8 — открытого редактора изображений RAW](https://habr.com/ru/news/1052450/?utm_campaign=1052450&utm_source=habrahabr&utm_medium=rss)
-- [Linux Foundation представила инициативу Akrites по повышению безопасности критически важного открытого софта](https://habr.com/ru/news/1052800/?utm_campaign=1052800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
