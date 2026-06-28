@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Анонимный аккаунт на GitHub опубликовал данные о ранее неизвестных уязвимостях нулевого дня в разных проектах](https://habr.com/ru/news/1052756/?utm_campaign=1052756&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code за 5 минут вскрыл CAN-шину автомобиля — то, на что у инженера уходят часы](https://habr.com/ru/news/1052740/?utm_campaign=1052740&utm_source=habrahabr&utm_medium=rss)
-- [Claude Fable 5 могут вернуть уже на следующей неделе — Axios](https://habr.com/ru/news/1052698/?utm_campaign=1052698&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся выпуск проекта QSOE — операционной системы в стиле QNX с двумя заменяемыми микроядрами](https://habr.com/ru/news/1052312/?utm_campaign=1052312&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.10](https://habr.com/ru/news/1052322/?utm_campaign=1052322&utm_source=habrahabr&utm_medium=rss)
+- [Журнал The Science of Nature отозвал две статьи лауреата Нобелевской премии Макса Планка из-за «самоплагиата»](https://habr.com/ru/news/1052804/?utm_campaign=1052804&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления планетария с открытым кодом Stellarium 26.2](https://habr.com/ru/news/1052520/?utm_campaign=1052520&utm_source=habrahabr&utm_medium=rss)
+- [Starlink объединяется с Tractor Supply и 4-H для расширения доступа к интернету в сельской местности](https://habr.com/ru/news/1052828/?utm_campaign=1052828&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление RapidRAW 1.5.8 — открытого редактора изображений RAW](https://habr.com/ru/news/1052450/?utm_campaign=1052450&utm_source=habrahabr&utm_medium=rss)
+- [Linux Foundation представила инициативу Akrites по повышению безопасности критически важного открытого софта](https://habr.com/ru/news/1052800/?utm_campaign=1052800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
