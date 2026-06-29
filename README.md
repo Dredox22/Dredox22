@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Maker’s Pet представили oomwoo — проект открытого робота-пылесоса, который можно собрать самому](https://habr.com/ru/news/1053622/?utm_campaign=1053622&utm_source=habrahabr&utm_medium=rss)
 - [Rocket Lab приобрела поставщика спутниковой связи Iridium Communications](https://habr.com/ru/news/1053584/?utm_campaign=1053584&utm_source=habrahabr&utm_medium=rss)
 - [«Нобелевский» ИИ AlphaFold предсказывал форму белка. Теперь его обучили замечать движение](https://habr.com/ru/news/1053600/?utm_campaign=1053600&utm_source=habrahabr&utm_medium=rss)
 - [Проект Telega начал возврат средств за подписку «Телега Плюс»](https://habr.com/ru/news/1053568/?utm_campaign=1053568&utm_source=habrahabr&utm_medium=rss)
 - [Известный «зеркальный тест» переделали под ИИ — и получили странный результат](https://habr.com/ru/news/1053564/?utm_campaign=1053564&utm_source=habrahabr&utm_medium=rss)
-- [В Push Security рассказали о новом типе тип кибератак с поддельными рабочими пространствами ChatGPT](https://habr.com/ru/news/1053556/?utm_campaign=1053556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
