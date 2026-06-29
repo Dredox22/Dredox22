@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [etcd-operator присоединяется к Cozystack с новым API версии v1alpha2](https://habr.com/ru/companies/selectel/news/1053480/?utm_campaign=1053480&utm_source=habrahabr&utm_medium=rss)
-- [Какую генерацию для ЦОДов выбрала РФ?](https://habr.com/ru/news/1053500/?utm_campaign=1053500&utm_source=habrahabr&utm_medium=rss)
-- [Автор Stardew Valley рассказал, что разработка его новой игры Haunted Chocolatier затягивается из-за перфекционизма](https://habr.com/ru/news/1053478/?utm_campaign=1053478&utm_source=habrahabr&utm_medium=rss)
-- [Samsung и SK Hynix вместе с правительством Южной Кореи вложат $590 млрд в масштабное расширение производства чипов](https://habr.com/ru/news/1053472/?utm_campaign=1053472&utm_source=habrahabr&utm_medium=rss)
-- [Фальшивый модуль для ИИ-агентов прошел проверку безопасности благодаря внешней ссылке](https://habr.com/ru/companies/ddosguard/news/1053466/?utm_campaign=1053466&utm_source=habrahabr&utm_medium=rss)
+- [Rocket Lab приобрела поставщика спутниковой связи Iridium Communications](https://habr.com/ru/news/1053584/?utm_campaign=1053584&utm_source=habrahabr&utm_medium=rss)
+- [«Нобелевский» ИИ AlphaFold предсказывал форму белка. Теперь его обучили замечать движение](https://habr.com/ru/news/1053600/?utm_campaign=1053600&utm_source=habrahabr&utm_medium=rss)
+- [Проект Telega начал возврат средств за подписку «Телега Плюс»](https://habr.com/ru/news/1053568/?utm_campaign=1053568&utm_source=habrahabr&utm_medium=rss)
+- [Известный «зеркальный тест» переделали под ИИ — и получили странный результат](https://habr.com/ru/news/1053564/?utm_campaign=1053564&utm_source=habrahabr&utm_medium=rss)
+- [В Push Security рассказали о новом типе тип кибератак с поддельными рабочими пространствами ChatGPT](https://habr.com/ru/news/1053556/?utm_campaign=1053556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
