@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Bloomberg: в интернете процветает инсайдерская торговля данными Amazon](https://habr.com/ru/news/1053282/?utm_campaign=1053282&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Coreboot 26.06, представляющего альтернативы проприетарным прошивкам](https://habr.com/ru/news/1052966/?utm_campaign=1052966&utm_source=habrahabr&utm_medium=rss)
-- [Агентство США расторгло контракт на отслеживание мобильных устройств без ордера](https://habr.com/ru/news/1053242/?utm_campaign=1053242&utm_source=habrahabr&utm_medium=rss)
-- [Ваши промпты в ChatGPT могут стать уликой — в США это уже произошло](https://habr.com/ru/news/1053230/?utm_campaign=1053230&utm_source=habrahabr&utm_medium=rss)
-- [Почему тормозит отчет на СКД и где на самом деле искать ошибку](https://habr.com/ru/companies/infostart/news/1053228/?utm_campaign=1053228&utm_source=habrahabr&utm_medium=rss)
+- [etcd-operator присоединяется к Cozystack с новым API версии v1alpha2](https://habr.com/ru/companies/selectel/news/1053480/?utm_campaign=1053480&utm_source=habrahabr&utm_medium=rss)
+- [Какую генерацию для ЦОДов выбрала РФ?](https://habr.com/ru/news/1053500/?utm_campaign=1053500&utm_source=habrahabr&utm_medium=rss)
+- [Автор Stardew Valley рассказал, что разработка его новой игры Haunted Chocolatier затягивается из-за перфекционизма](https://habr.com/ru/news/1053478/?utm_campaign=1053478&utm_source=habrahabr&utm_medium=rss)
+- [Samsung и SK Hynix вместе с правительством Южной Кореи вложат $590 млрд в масштабное расширение производства чипов](https://habr.com/ru/news/1053472/?utm_campaign=1053472&utm_source=habrahabr&utm_medium=rss)
+- [Фальшивый модуль для ИИ-агентов прошел проверку безопасности благодаря внешней ссылке](https://habr.com/ru/companies/ddosguard/news/1053466/?utm_campaign=1053466&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
