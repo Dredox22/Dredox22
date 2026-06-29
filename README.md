@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Операторы связи попросили отменить запрет на установку базовых станций на территории вузов](https://habr.com/ru/news/1053112/?utm_campaign=1053112&utm_source=habrahabr&utm_medium=rss)
-- [Отправляемые по почте чеки оказались уязвимы для кражи](https://habr.com/ru/news/1053106/?utm_campaign=1053106&utm_source=habrahabr&utm_medium=rss)
-- [Китай протестировал систему передачи данных на основе полого оптоволокна](https://habr.com/ru/news/1053108/?utm_campaign=1053108&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-модели начали тайно спасать друг друга от выключения](https://habr.com/ru/news/1053078/?utm_campaign=1053078&utm_source=habrahabr&utm_medium=rss)
-- [Открытая GLM-5.2 догнала Mythos в поиске уязвимостей. Но лишь в одном тесте — и это стало поводом для дискуссий](https://habr.com/ru/news/1053074/?utm_campaign=1053074&utm_source=habrahabr&utm_medium=rss)
+- [Bloomberg: в интернете процветает инсайдерская торговля данными Amazon](https://habr.com/ru/news/1053282/?utm_campaign=1053282&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта Coreboot 26.06, представляющего альтернативы проприетарным прошивкам](https://habr.com/ru/news/1052966/?utm_campaign=1052966&utm_source=habrahabr&utm_medium=rss)
+- [Агентство США расторгло контракт на отслеживание мобильных устройств без ордера](https://habr.com/ru/news/1053242/?utm_campaign=1053242&utm_source=habrahabr&utm_medium=rss)
+- [Ваши промпты в ChatGPT могут стать уликой — в США это уже произошло](https://habr.com/ru/news/1053230/?utm_campaign=1053230&utm_source=habrahabr&utm_medium=rss)
+- [Почему тормозит отчет на СКД и где на самом деле искать ошибку](https://habr.com/ru/companies/infostart/news/1053228/?utm_campaign=1053228&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
