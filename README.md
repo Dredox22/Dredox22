@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Операторы связи попросили отменить запрет на установку базовых станций на территории вузов](https://habr.com/ru/news/1053112/?utm_campaign=1053112&utm_source=habrahabr&utm_medium=rss)
+- [Отправляемые по почте чеки оказались уязвимы для кражи](https://habr.com/ru/news/1053106/?utm_campaign=1053106&utm_source=habrahabr&utm_medium=rss)
+- [Китай протестировал систему передачи данных на основе полого оптоволокна](https://habr.com/ru/news/1053108/?utm_campaign=1053108&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-модели начали тайно спасать друг друга от выключения](https://habr.com/ru/news/1053078/?utm_campaign=1053078&utm_source=habrahabr&utm_medium=rss)
 - [Открытая GLM-5.2 догнала Mythos в поиске уязвимостей. Но лишь в одном тесте — и это стало поводом для дискуссий](https://habr.com/ru/news/1053074/?utm_campaign=1053074&utm_source=habrahabr&utm_medium=rss)
-- [«Росатом» представил мобильную зарядную станцию для электромобилей на Московском транспортном электрофестивале»](https://habr.com/ru/news/1053062/?utm_campaign=1053062&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг выделит 1,4 млрд рублей на разработку установки для жидкостной обработки кремниевых пластин](https://habr.com/ru/news/1053050/?utm_campaign=1053050&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft продлила поддержку Windows 10 до октября 2027 года](https://habr.com/ru/news/1052084/?utm_campaign=1052084&utm_source=habrahabr&utm_medium=rss)
-- [PET-скан показал рак. Claude сказал: 90%, что это ложная тревога — и оказался прав](https://habr.com/ru/news/1053022/?utm_campaign=1053022&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
