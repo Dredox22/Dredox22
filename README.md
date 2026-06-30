@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик призвал Apple вернуть свободу форм иконкам приложений в macOS и отказаться от стиля с закруглёнными углами](https://habr.com/ru/news/1053966/?utm_campaign=1053966&utm_source=habrahabr&utm_medium=rss)
-- [UserGate усиливает направление бизнеса, связанное с безопасностью искусственного интеллекта](https://habr.com/ru/companies/usergate/news/1053964/?utm_campaign=1053964&utm_source=habrahabr&utm_medium=rss)
-- [В работе сервисов «Яндекса» произошёл сбой](https://habr.com/ru/news/1053962/?utm_campaign=1053962&utm_source=habrahabr&utm_medium=rss)
-- [Генерация картинок на основе Nano Banana в Gemini стала бесплатной для всех пользователей в США](https://habr.com/ru/news/1053900/?utm_campaign=1053900&utm_source=habrahabr&utm_medium=rss)
-- [Митап для Go-разработчиков от 2ГИС](https://habr.com/ru/companies/2gis/news/1053946/?utm_campaign=1053946&utm_source=habrahabr&utm_medium=rss)
+- [Claude Fable 5 доказал 12-летнюю гипотезу квантовой оптимизации — но триумф подпортил человек с тем же решением](https://habr.com/ru/news/1054060/?utm_campaign=1054060&utm_source=habrahabr&utm_medium=rss)
+- [Шерим знания и кейсы про A/B-эксперименты](https://habr.com/ru/companies/avito/news/1054038/?utm_campaign=1054038&utm_source=habrahabr&utm_medium=rss)
+- [Ассоциация производителей софта и компьютерных игр назвала пиратством частные серверы Minecraft и Call of Duty](https://habr.com/ru/news/1054040/?utm_campaign=1054040&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость балансировщика нагрузки DS Proxima и КриптоПро NGate](https://habr.com/ru/companies/dsol/news/1054014/?utm_campaign=1054014&utm_source=habrahabr&utm_medium=rss)
+- [ИИ в компании: где реальный эффект, а где просто модный пилот — обсудим на INFOSTART CIO CAMP 2026](https://habr.com/ru/companies/infostart/news/1054006/?utm_campaign=1054006&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
