@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Услужливость как уязвимость: Claude Code обманули без единой строчки вредоносного кода](https://habr.com/ru/news/1053666/?utm_campaign=1053666&utm_source=habrahabr&utm_medium=rss)
-- [Cursor выпустил приложение для iPhone: ИИ-агенты теперь живут в кармане](https://habr.com/ru/news/1053646/?utm_campaign=1053646&utm_source=habrahabr&utm_medium=rss)
-- [На Maker’s Pet представили oomwoo — проект открытого робота-пылесоса, который можно собрать самому](https://habr.com/ru/news/1053622/?utm_campaign=1053622&utm_source=habrahabr&utm_medium=rss)
-- [Rocket Lab приобрела поставщика спутниковой связи Iridium Communications](https://habr.com/ru/news/1053584/?utm_campaign=1053584&utm_source=habrahabr&utm_medium=rss)
-- [«Нобелевский» ИИ AlphaFold предсказывал форму белка. Теперь его обучили замечать движение](https://habr.com/ru/news/1053600/?utm_campaign=1053600&utm_source=habrahabr&utm_medium=rss)
+- [В ПВЗ Wildberries можно будет проверить IMEI при покупке дорогого смартфона](https://habr.com/ru/news/1053826/?utm_campaign=1053826&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты Microsoft нашли и удалили 119 вредоносных расширений из магазина Edge](https://habr.com/ru/news/1053812/?utm_campaign=1053812&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Base44 запустил ИИ для вайб-кодинга. Но есть нюанс](https://habr.com/ru/news/1053800/?utm_campaign=1053800&utm_source=habrahabr&utm_medium=rss)
+- [Релиз дистрибутива Mageia 10 &lpar;форка Mandriva Linux&rpar;](https://habr.com/ru/news/1053648/?utm_campaign=1053648&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Браузер обновил модель перевода и научился переводить видео живыми голосами ещё с семи языков](https://habr.com/ru/companies/yandex/news/1053490/?utm_campaign=1053490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
