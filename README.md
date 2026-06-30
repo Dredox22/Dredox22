@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В ПВЗ Wildberries можно будет проверить IMEI при покупке дорогого смартфона](https://habr.com/ru/news/1053826/?utm_campaign=1053826&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты Microsoft нашли и удалили 119 вредоносных расширений из магазина Edge](https://habr.com/ru/news/1053812/?utm_campaign=1053812&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Base44 запустил ИИ для вайб-кодинга. Но есть нюанс](https://habr.com/ru/news/1053800/?utm_campaign=1053800&utm_source=habrahabr&utm_medium=rss)
-- [Релиз дистрибутива Mageia 10 &lpar;форка Mandriva Linux&rpar;](https://habr.com/ru/news/1053648/?utm_campaign=1053648&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Браузер обновил модель перевода и научился переводить видео живыми голосами ещё с семи языков](https://habr.com/ru/companies/yandex/news/1053490/?utm_campaign=1053490&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик призвал Apple вернуть свободу форм иконкам приложений в macOS и отказаться от стиля с закруглёнными углами](https://habr.com/ru/news/1053966/?utm_campaign=1053966&utm_source=habrahabr&utm_medium=rss)
+- [UserGate усиливает направление бизнеса, связанное с безопасностью искусственного интеллекта](https://habr.com/ru/companies/usergate/news/1053964/?utm_campaign=1053964&utm_source=habrahabr&utm_medium=rss)
+- [В работе сервисов «Яндекса» произошёл сбой](https://habr.com/ru/news/1053962/?utm_campaign=1053962&utm_source=habrahabr&utm_medium=rss)
+- [Генерация картинок на основе Nano Banana в Gemini стала бесплатной для всех пользователей в США](https://habr.com/ru/news/1053900/?utm_campaign=1053900&utm_source=habrahabr&utm_medium=rss)
+- [Митап для Go-разработчиков от 2ГИС](https://habr.com/ru/companies/2gis/news/1053946/?utm_campaign=1053946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
