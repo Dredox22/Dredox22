@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В AirDrop нашли уязвимости, позволяющие временно отключать функции экосистемы Apple](https://habr.com/ru/news/1054154/?utm_campaign=1054154&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic изучила психологию Claude Sonnet 5: вот что не устраивает модель в ее же правилах](https://habr.com/ru/news/1054150/?utm_campaign=1054150&utm_source=habrahabr&utm_medium=rss)
 - [Claude Sonnet 5: Anthropic обновили главную рабочую лошадку](https://habr.com/ru/news/1054026/?utm_campaign=1054026&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Claude Sonnet 5 — почти как Opus 4.8, но дешевле](https://habr.com/ru/news/1054124/?utm_campaign=1054124&utm_source=habrahabr&utm_medium=rss)
 - [Баг прятался 18 лет: OpenAI нашла его в окне шириной в одну инструкцию](https://habr.com/ru/news/1054112/?utm_campaign=1054112&utm_source=habrahabr&utm_medium=rss)
-- [Рост числа уязвимостей в образовательных мобильных приложениях достиг 41% в 2025 году и затронул 87 сервисов](https://habr.com/ru/news/1054110/?utm_campaign=1054110&utm_source=habrahabr&utm_medium=rss)
-- [«Лаборатория Касперского» раскрыла результаты ESG-работы за 2024–2025 годы и отчиталась о помощи НКО и киберзащите](https://habr.com/ru/news/1054108/?utm_campaign=1054108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
