@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Sonnet 5: Anthropic обновили главную рабочую лошадку](https://habr.com/ru/news/1054026/?utm_campaign=1054026&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Claude Sonnet 5 — почти как Opus 4.8, но дешевле](https://habr.com/ru/news/1054124/?utm_campaign=1054124&utm_source=habrahabr&utm_medium=rss)
 - [Баг прятался 18 лет: OpenAI нашла его в окне шириной в одну инструкцию](https://habr.com/ru/news/1054112/?utm_campaign=1054112&utm_source=habrahabr&utm_medium=rss)
 - [Рост числа уязвимостей в образовательных мобильных приложениях достиг 41% в 2025 году и затронул 87 сервисов](https://habr.com/ru/news/1054110/?utm_campaign=1054110&utm_source=habrahabr&utm_medium=rss)
 - [«Лаборатория Касперского» раскрыла результаты ESG-работы за 2024–2025 годы и отчиталась о помощи НКО и киберзащите](https://habr.com/ru/news/1054108/?utm_campaign=1054108&utm_source=habrahabr&utm_medium=rss)
-- [4 секунды на картинку: Google выпустила Nano Banana 2 Lite](https://habr.com/ru/news/1054096/?utm_campaign=1054096&utm_source=habrahabr&utm_medium=rss)
-- [Claude Fable 5 доказал 12-летнюю гипотезу квантовой оптимизации — но триумф подпортил человек с тем же решением](https://habr.com/ru/news/1054060/?utm_campaign=1054060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
