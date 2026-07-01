@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [США сняли блокировку с Claude Fable 5 и Mythos 5 — модели возвращаются для всех](https://habr.com/ru/news/1054172/?utm_campaign=1054172&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи WhatsApp** теперь могут зарезервировать юзернеймы, чтобы не раскрывать номер телефона](https://habr.com/ru/news/1053676/?utm_campaign=1053676&utm_source=habrahabr&utm_medium=rss)
 - [В AirDrop нашли уязвимости, позволяющие временно отключать функции экосистемы Apple](https://habr.com/ru/news/1054154/?utm_campaign=1054154&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic изучила психологию Claude Sonnet 5: вот что не устраивает модель в ее же правилах](https://habr.com/ru/news/1054150/?utm_campaign=1054150&utm_source=habrahabr&utm_medium=rss)
 - [Claude Sonnet 5: Anthropic обновили главную рабочую лошадку](https://habr.com/ru/news/1054026/?utm_campaign=1054026&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Claude Sonnet 5 — почти как Opus 4.8, но дешевле](https://habr.com/ru/news/1054124/?utm_campaign=1054124&utm_source=habrahabr&utm_medium=rss)
-- [Баг прятался 18 лет: OpenAI нашла его в окне шириной в одну инструкцию](https://habr.com/ru/news/1054112/?utm_campaign=1054112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
