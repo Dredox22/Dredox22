@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple исправила несколько десятков уязвимостей в своих ОС, часть из которых нашли с помощью Claude и Codex](https://habr.com/ru/news/1054552/?utm_campaign=1054552&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Acti встроил ИИ-агента прямо в клавиатуру. Вот как это работает](https://habr.com/ru/news/1054550/?utm_campaign=1054550&utm_source=habrahabr&utm_medium=rss)
+- [ФАС РФ потребовала от Apple до 15 июля перестать дискриминировать российские сервисы](https://habr.com/ru/news/1054536/?utm_campaign=1054536&utm_source=habrahabr&utm_medium=rss)
+- [GLM-5.2 получила свой аналог Claude Code. Кстати, модели Claude туда тоже подходят](https://habr.com/ru/news/1054530/?utm_campaign=1054530&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск дистрибутива Parrot OS 7.3 для этичного хакинга с ядром Linux 7.0](https://habr.com/ru/news/1054018/?utm_campaign=1054018&utm_source=habrahabr&utm_medium=rss)
-- [Китайская ИИ-модель GLM-5.2 приблизилась к Claude Mythos в поиске уязвимостей. Что это меняет для ИБ](https://habr.com/ru/companies/selectel/news/1054448/?utm_campaign=1054448&utm_source=habrahabr&utm_medium=rss)
-- [VIP-билет даром: исследователь с помощью Claude взломал компанию по продаже билетов на фестивали США](https://habr.com/ru/news/1054478/?utm_campaign=1054478&utm_source=habrahabr&utm_medium=rss)
-- [Кому хорошо от высоких цен на память? Экспорт Южной Кореи рекордно вырос на фоне ИИ-бума](https://habr.com/ru/news/1054456/?utm_campaign=1054456&utm_source=habrahabr&utm_medium=rss)
-- [Bigme презентовала смартфон‑ридер HiBreak Dual 2 с двумя экранами разных типов](https://habr.com/ru/news/1054446/?utm_campaign=1054446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
