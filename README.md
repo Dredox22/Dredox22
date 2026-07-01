@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [От 5% до 28,7%: GeneBench-Pro показал, как быстро ИИ учится мыслить как учёный](https://habr.com/ru/news/1054166/?utm_campaign=1054166&utm_source=habrahabr&utm_medium=rss)
-- [Fable и Mythos официально возвращаются сегодня — факты из поста Anthropic](https://habr.com/ru/news/1054248/?utm_campaign=1054248&utm_source=habrahabr&utm_medium=rss)
-- [Проект Telega прекратил работу с 1 июля](https://habr.com/ru/news/1052578/?utm_campaign=1052578&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Authenticator блокирует рутирование на Android и джейлбрейки iOS](https://habr.com/ru/news/1054212/?utm_campaign=1054212&utm_source=habrahabr&utm_medium=rss)
-- [AMD предупредила контрагентов о повышении закупочных цен на наборы «GPU + память»](https://habr.com/ru/news/1054218/?utm_campaign=1054218&utm_source=habrahabr&utm_medium=rss)
+- [Ринго 3.0: от MDM к Unified Endpoint Management](https://habr.com/ru/companies/ringo_mdm/news/1054422/?utm_campaign=1054422&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект kb-prolog — гиперреляционная база знаний Prolog с локальным доступом и хранилищем CAS](https://habr.com/ru/news/1053942/?utm_campaign=1053942&utm_source=habrahabr&utm_medium=rss)
+- [«Умный сервис» на ReIndustry Expo 2026: три дня в центре отраслевой автоматизации](https://habr.com/ru/news/1054414/?utm_campaign=1054414&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 20.2](https://habr.com/ru/news/1054152/?utm_campaign=1054152&utm_source=habrahabr&utm_medium=rss)
+- [Claude Sonnet 5 оказался самой прожорливой по токенам моделью Anthropic](https://habr.com/ru/news/1054388/?utm_campaign=1054388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
