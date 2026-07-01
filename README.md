@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В команде Flipper Devices Inc. пояснили про будущее развитие прошивки Flipper Zero](https://habr.com/ru/news/1054580/?utm_campaign=1054580&utm_source=habrahabr&utm_medium=rss)
+- [Claude Fable 5 разблокировали — модель вновь доступна в API и подписках по промо-периоду](https://habr.com/ru/news/1054578/?utm_campaign=1054578&utm_source=habrahabr&utm_medium=rss)
+- [Fable 5 уже может заменить фрилансеров на 16% реальных заказов — рост в 6 раз за 8 месяцев](https://habr.com/ru/news/1054574/?utm_campaign=1054574&utm_source=habrahabr&utm_medium=rss)
 - [Apple исправила несколько десятков уязвимостей в своих ОС, часть из которых нашли с помощью Claude и Codex](https://habr.com/ru/news/1054552/?utm_campaign=1054552&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Acti встроил ИИ-агента прямо в клавиатуру. Вот как это работает](https://habr.com/ru/news/1054550/?utm_campaign=1054550&utm_source=habrahabr&utm_medium=rss)
-- [ФАС РФ потребовала от Apple до 15 июля перестать дискриминировать российские сервисы](https://habr.com/ru/news/1054536/?utm_campaign=1054536&utm_source=habrahabr&utm_medium=rss)
-- [GLM-5.2 получила свой аналог Claude Code. Кстати, модели Claude туда тоже подходят](https://habr.com/ru/news/1054530/?utm_campaign=1054530&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск дистрибутива Parrot OS 7.3 для этичного хакинга с ядром Linux 7.0](https://habr.com/ru/news/1054018/?utm_campaign=1054018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
