@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [США сняли блокировку с Claude Fable 5 и Mythos 5 — модели возвращаются для всех](https://habr.com/ru/news/1054172/?utm_campaign=1054172&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи WhatsApp** теперь могут зарезервировать юзернеймы, чтобы не раскрывать номер телефона](https://habr.com/ru/news/1053676/?utm_campaign=1053676&utm_source=habrahabr&utm_medium=rss)
-- [В AirDrop нашли уязвимости, позволяющие временно отключать функции экосистемы Apple](https://habr.com/ru/news/1054154/?utm_campaign=1054154&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic изучила психологию Claude Sonnet 5: вот что не устраивает модель в ее же правилах](https://habr.com/ru/news/1054150/?utm_campaign=1054150&utm_source=habrahabr&utm_medium=rss)
-- [Claude Sonnet 5: Anthropic обновили главную рабочую лошадку](https://habr.com/ru/news/1054026/?utm_campaign=1054026&utm_source=habrahabr&utm_medium=rss)
+- [От 5% до 28,7%: GeneBench-Pro показал, как быстро ИИ учится мыслить как учёный](https://habr.com/ru/news/1054166/?utm_campaign=1054166&utm_source=habrahabr&utm_medium=rss)
+- [Fable и Mythos официально возвращаются сегодня — факты из поста Anthropic](https://habr.com/ru/news/1054248/?utm_campaign=1054248&utm_source=habrahabr&utm_medium=rss)
+- [Проект Telega прекратил работу с 1 июля](https://habr.com/ru/news/1052578/?utm_campaign=1052578&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Authenticator блокирует рутирование на Android и джейлбрейки iOS](https://habr.com/ru/news/1054212/?utm_campaign=1054212&utm_source=habrahabr&utm_medium=rss)
+- [AMD предупредила контрагентов о повышении закупочных цен на наборы «GPU + память»](https://habr.com/ru/news/1054218/?utm_campaign=1054218&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
