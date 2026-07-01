@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ринго 3.0: от MDM к Unified Endpoint Management](https://habr.com/ru/companies/ringo_mdm/news/1054422/?utm_campaign=1054422&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект kb-prolog — гиперреляционная база знаний Prolog с локальным доступом и хранилищем CAS](https://habr.com/ru/news/1053942/?utm_campaign=1053942&utm_source=habrahabr&utm_medium=rss)
-- [«Умный сервис» на ReIndustry Expo 2026: три дня в центре отраслевой автоматизации](https://habr.com/ru/news/1054414/?utm_campaign=1054414&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 20.2](https://habr.com/ru/news/1054152/?utm_campaign=1054152&utm_source=habrahabr&utm_medium=rss)
-- [Claude Sonnet 5 оказался самой прожорливой по токенам моделью Anthropic](https://habr.com/ru/news/1054388/?utm_campaign=1054388&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск дистрибутива Parrot OS 7.3 для этичного хакинга с ядром Linux 7.0](https://habr.com/ru/news/1054018/?utm_campaign=1054018&utm_source=habrahabr&utm_medium=rss)
+- [Китайская ИИ-модель GLM-5.2 приблизилась к Claude Mythos в поиске уязвимостей. Что это меняет для ИБ](https://habr.com/ru/companies/selectel/news/1054448/?utm_campaign=1054448&utm_source=habrahabr&utm_medium=rss)
+- [VIP-билет даром: исследователь с помощью Claude взломал компанию по продаже билетов на фестивали США](https://habr.com/ru/news/1054478/?utm_campaign=1054478&utm_source=habrahabr&utm_medium=rss)
+- [Кому хорошо от высоких цен на память? Экспорт Южной Кореи рекордно вырос на фоне ИИ-бума](https://habr.com/ru/news/1054456/?utm_campaign=1054456&utm_source=habrahabr&utm_medium=rss)
+- [Bigme презентовала смартфон‑ридер HiBreak Dual 2 с двумя экранами разных типов](https://habr.com/ru/news/1054446/?utm_campaign=1054446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
