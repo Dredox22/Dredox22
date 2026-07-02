@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic переманила инженера чипов OpenAI и начала работу над своим ИИ-ускорителем](https://habr.com/ru/news/1054986/?utm_campaign=1054986&utm_source=habrahabr&utm_medium=rss)
+- [В Кибердоме назвали победителей конкурса «Киберстипендия»](https://habr.com/ru/news/1054980/?utm_campaign=1054980&utm_source=habrahabr&utm_medium=rss)
+- [Ускорение на 14%: в Linux 7.3 устранят «бутылочное горлышко» для PCIe Gen5 NVMe-накопителей](https://habr.com/ru/companies/selectel/news/1054958/?utm_campaign=1054958&utm_source=habrahabr&utm_medium=rss)
+- [Рой ИИ-агентов Cognition будет чинить уязвимости, которые наплодили другие ИИ-агенты](https://habr.com/ru/news/1054964/?utm_campaign=1054964&utm_source=habrahabr&utm_medium=rss)
 - [Fujifilm представила две новые модели одноразовых плёночных фотоаппаратов QuickSnap](https://habr.com/ru/news/1054940/?utm_campaign=1054940&utm_source=habrahabr&utm_medium=rss)
-- [С 86 до 26 баллов в отладке кода: Claude Fable 5 обвалилась в бенчмарках из-за новых фильтров](https://habr.com/ru/news/1054926/?utm_campaign=1054926&utm_source=habrahabr&utm_medium=rss)
-- [Скринкасты с демонстрацией работы INTEKEY WMS: от настройки топологии до интерфейсов ТСД](https://habr.com/ru/companies/intekey/news/1054924/?utm_campaign=1054924&utm_source=habrahabr&utm_medium=rss)
-- [Schneider Electric купила за $3,1 млрд компанию Cognite Holding, специализирующуюся на системах промышленного ИИ](https://habr.com/ru/news/1054912/?utm_campaign=1054912&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI предложила властям США долю в 5% для защиты бизнеса](https://habr.com/ru/news/1054908/?utm_campaign=1054908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
