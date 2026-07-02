@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из-за досадной ошибки на ресурсе kernel.org удалили со всех зеркал архивы с кодом ядра Linux](https://habr.com/ru/news/1055006/?utm_campaign=1055006&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic переманила инженера чипов OpenAI и начала работу над своим ИИ-ускорителем](https://habr.com/ru/news/1054986/?utm_campaign=1054986&utm_source=habrahabr&utm_medium=rss)
 - [В Кибердоме назвали победителей конкурса «Киберстипендия»](https://habr.com/ru/news/1054980/?utm_campaign=1054980&utm_source=habrahabr&utm_medium=rss)
 - [Ускорение на 14%: в Linux 7.3 устранят «бутылочное горлышко» для PCIe Gen5 NVMe-накопителей](https://habr.com/ru/companies/selectel/news/1054958/?utm_campaign=1054958&utm_source=habrahabr&utm_medium=rss)
 - [Рой ИИ-агентов Cognition будет чинить уязвимости, которые наплодили другие ИИ-агенты](https://habr.com/ru/news/1054964/?utm_campaign=1054964&utm_source=habrahabr&utm_medium=rss)
-- [Fujifilm представила две новые модели одноразовых плёночных фотоаппаратов QuickSnap](https://habr.com/ru/news/1054940/?utm_campaign=1054940&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
