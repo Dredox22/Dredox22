@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Российские школьники получили 4 золотых медали на второй Международной олимпиаде по кибербезопасности](https://habr.com/ru/news/1054814/?utm_campaign=1054814&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic три месяца тайно метила пользователей Claude Code. Теперь фичу удаляют](https://habr.com/ru/news/1054810/?utm_campaign=1054810&utm_source=habrahabr&utm_medium=rss)
-- [Юзернеймы в WhatsApp** вызывают опасения по поводу подделки личности](https://habr.com/ru/news/1054780/?utm_campaign=1054780&utm_source=habrahabr&utm_medium=rss)
-- [Житель Калифорнии обвинил ChatGPT в доведении до самоубийства](https://habr.com/ru/news/1054748/?utm_campaign=1054748&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз SELECTOS 2.0 Hele](https://habr.com/ru/companies/selectel/news/1048646/?utm_campaign=1048646&utm_source=habrahabr&utm_medium=rss)
+- [В России создают оперштаб по борьбе кибермошенничеством](https://habr.com/ru/news/1054904/?utm_campaign=1054904&utm_source=habrahabr&utm_medium=rss)
+- [Хакатоны июля 2026](https://habr.com/ru/news/1054892/?utm_campaign=1054892&utm_source=habrahabr&utm_medium=rss)
+- [Абоненты «МегаФона» получили возможность указывать своё ФИО из договора с оператором при исходящих вызовах](https://habr.com/ru/news/1054880/?utm_campaign=1054880&utm_source=habrahabr&utm_medium=rss)
+- [45 000 промптов на запретные темы: Meta* тайно проверяла чат-боты конкурентов от имени подростков](https://habr.com/ru/news/1054878/?utm_campaign=1054878&utm_source=habrahabr&utm_medium=rss)
+- [Cursor IDE получил две критические RCE-уязвимости. Почему это важный сигнал для безопасности ИИ-агентов](https://habr.com/ru/companies/selectel/news/1054874/?utm_campaign=1054874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
