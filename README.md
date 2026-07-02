@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В команде Flipper Devices Inc. пояснили про будущее развитие прошивки Flipper Zero](https://habr.com/ru/news/1054580/?utm_campaign=1054580&utm_source=habrahabr&utm_medium=rss)
-- [Claude Fable 5 разблокировали — модель вновь доступна в API и подписках по промо-периоду](https://habr.com/ru/news/1054578/?utm_campaign=1054578&utm_source=habrahabr&utm_medium=rss)
-- [Fable 5 уже может заменить фрилансеров на 16% реальных заказов — рост в 6 раз за 8 месяцев](https://habr.com/ru/news/1054574/?utm_campaign=1054574&utm_source=habrahabr&utm_medium=rss)
-- [Apple исправила несколько десятков уязвимостей в своих ОС, часть из которых нашли с помощью Claude и Codex](https://habr.com/ru/news/1054552/?utm_campaign=1054552&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Acti встроил ИИ-агента прямо в клавиатуру. Вот как это работает](https://habr.com/ru/news/1054550/?utm_campaign=1054550&utm_source=habrahabr&utm_medium=rss)
+- [Суд в Швеции обязал Google выплатить $1,5 млрд сервису сравнения цен PriceRunner](https://habr.com/ru/news/1054668/?utm_campaign=1054668&utm_source=habrahabr&utm_medium=rss)
+- [В Telega заверили, что слив публикаций пользователей проекта технически невозможен](https://habr.com/ru/news/1054664/?utm_campaign=1054664&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты убедили ИИ, что 2+2 не равно 4](https://habr.com/ru/news/1054654/?utm_campaign=1054654&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект RayTracer — система трассировки лучей, реализованная на языке SQL](https://habr.com/ru/news/1054596/?utm_campaign=1054596&utm_source=habrahabr&utm_medium=rss)
+- [Бывший инженер Microsoft выпустил аналог «Блокнота» для Windows, причём этот проект имеет размер 2,5 КБ](https://habr.com/ru/news/1054570/?utm_campaign=1054570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
