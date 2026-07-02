@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В России создают оперштаб по борьбе кибермошенничеством](https://habr.com/ru/news/1054904/?utm_campaign=1054904&utm_source=habrahabr&utm_medium=rss)
-- [Хакатоны июля 2026](https://habr.com/ru/news/1054892/?utm_campaign=1054892&utm_source=habrahabr&utm_medium=rss)
-- [Абоненты «МегаФона» получили возможность указывать своё ФИО из договора с оператором при исходящих вызовах](https://habr.com/ru/news/1054880/?utm_campaign=1054880&utm_source=habrahabr&utm_medium=rss)
-- [45 000 промптов на запретные темы: Meta* тайно проверяла чат-боты конкурентов от имени подростков](https://habr.com/ru/news/1054878/?utm_campaign=1054878&utm_source=habrahabr&utm_medium=rss)
-- [Cursor IDE получил две критические RCE-уязвимости. Почему это важный сигнал для безопасности ИИ-агентов](https://habr.com/ru/companies/selectel/news/1054874/?utm_campaign=1054874&utm_source=habrahabr&utm_medium=rss)
+- [Fujifilm представила две новые модели одноразовых плёночных фотоаппаратов QuickSnap](https://habr.com/ru/news/1054940/?utm_campaign=1054940&utm_source=habrahabr&utm_medium=rss)
+- [С 86 до 26 баллов в отладке кода: Claude Fable 5 обвалилась в бенчмарках из-за новых фильтров](https://habr.com/ru/news/1054926/?utm_campaign=1054926&utm_source=habrahabr&utm_medium=rss)
+- [Скринкасты с демонстрацией работы INTEKEY WMS: от настройки топологии до интерфейсов ТСД](https://habr.com/ru/companies/intekey/news/1054924/?utm_campaign=1054924&utm_source=habrahabr&utm_medium=rss)
+- [Schneider Electric купила за $3,1 млрд компанию Cognite Holding, специализирующуюся на системах промышленного ИИ](https://habr.com/ru/news/1054912/?utm_campaign=1054912&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI предложила властям США долю в 5% для защиты бизнеса](https://habr.com/ru/news/1054908/?utm_campaign=1054908&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
