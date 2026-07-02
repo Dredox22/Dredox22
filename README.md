@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Суд в Швеции обязал Google выплатить $1,5 млрд сервису сравнения цен PriceRunner](https://habr.com/ru/news/1054668/?utm_campaign=1054668&utm_source=habrahabr&utm_medium=rss)
-- [В Telega заверили, что слив публикаций пользователей проекта технически невозможен](https://habr.com/ru/news/1054664/?utm_campaign=1054664&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты убедили ИИ, что 2+2 не равно 4](https://habr.com/ru/news/1054654/?utm_campaign=1054654&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект RayTracer — система трассировки лучей, реализованная на языке SQL](https://habr.com/ru/news/1054596/?utm_campaign=1054596&utm_source=habrahabr&utm_medium=rss)
-- [Бывший инженер Microsoft выпустил аналог «Блокнота» для Windows, причём этот проект имеет размер 2,5 КБ](https://habr.com/ru/news/1054570/?utm_campaign=1054570&utm_source=habrahabr&utm_medium=rss)
+- [Российские школьники получили 4 золотых медали на второй Международной олимпиаде по кибербезопасности](https://habr.com/ru/news/1054814/?utm_campaign=1054814&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic три месяца тайно метила пользователей Claude Code. Теперь фичу удаляют](https://habr.com/ru/news/1054810/?utm_campaign=1054810&utm_source=habrahabr&utm_medium=rss)
+- [Юзернеймы в WhatsApp** вызывают опасения по поводу подделки личности](https://habr.com/ru/news/1054780/?utm_campaign=1054780&utm_source=habrahabr&utm_medium=rss)
+- [Житель Калифорнии обвинил ChatGPT в доведении до самоубийства](https://habr.com/ru/news/1054748/?utm_campaign=1054748&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз SELECTOS 2.0 Hele](https://habr.com/ru/companies/selectel/news/1048646/?utm_campaign=1048646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
