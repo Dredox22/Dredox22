@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude нашел жителю Индии его наследство: 25 участков земли прадеда](https://habr.com/ru/news/1055026/?utm_campaign=1055026&utm_source=habrahabr&utm_medium=rss)
+- [silentjson v2.0.0: Уперлись в железо, или как мы выжали максимум из парсинга JSON в Go](https://habr.com/ru/news/1055022/?utm_campaign=1055022&utm_source=habrahabr&utm_medium=rss)
+- [Проект Swift Package Index перешёл под управление Apple, а его разработчика взяли на работу в компанию](https://habr.com/ru/news/1055018/?utm_campaign=1055018&utm_source=habrahabr&utm_medium=rss)
 - [Из-за досадной ошибки на ресурсе kernel.org удалили со всех зеркал архивы с кодом ядра Linux](https://habr.com/ru/news/1055006/?utm_campaign=1055006&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic переманила инженера чипов OpenAI и начала работу над своим ИИ-ускорителем](https://habr.com/ru/news/1054986/?utm_campaign=1054986&utm_source=habrahabr&utm_medium=rss)
-- [В Кибердоме назвали победителей конкурса «Киберстипендия»](https://habr.com/ru/news/1054980/?utm_campaign=1054980&utm_source=habrahabr&utm_medium=rss)
-- [Ускорение на 14%: в Linux 7.3 устранят «бутылочное горлышко» для PCIe Gen5 NVMe-накопителей](https://habr.com/ru/companies/selectel/news/1054958/?utm_campaign=1054958&utm_source=habrahabr&utm_medium=rss)
-- [Рой ИИ-агентов Cognition будет чинить уязвимости, которые наплодили другие ИИ-агенты](https://habr.com/ru/news/1054964/?utm_campaign=1054964&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
