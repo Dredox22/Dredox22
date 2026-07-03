@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ClickHouse 26.6: skip-индексы до миграций, каскадные обновления и потоковые запросы](https://habr.com/ru/companies/otus/news/1055192/?utm_campaign=1055192&utm_source=habrahabr&utm_medium=rss)
-- [Tesla ограничит расходы сотрудников на ИИ до $200 в неделю на рабочее место](https://habr.com/ru/news/1055190/?utm_campaign=1055190&utm_source=habrahabr&utm_medium=rss)
-- [Alibaba запретила Claude Code на работе. Забавно, что в Китае он и так недоступен](https://habr.com/ru/news/1055184/?utm_campaign=1055184&utm_source=habrahabr&utm_medium=rss)
-- [Система UserGate SIEM получила сертификат ФСТЭК России по четвёртому уровню доверия](https://habr.com/ru/companies/usergate/news/1055178/?utm_campaign=1055178&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: благодаря установке мобильной веб-версии MAX свыше 5 млн пользователей iOS снова получают уведомления в мессенджере](https://habr.com/ru/news/1055160/?utm_campaign=1055160&utm_source=habrahabr&utm_medium=rss)
+- [The University of Silicon Valley запустил стипендию, учитывающую ачивки в играх](https://habr.com/ru/news/1055290/?utm_campaign=1055290&utm_source=habrahabr&utm_medium=rss)
+- [В GitHub в ответ на отказ Sony от дисков предложили разработчикам выслать их код из репозиториев на CD](https://habr.com/ru/news/1055282/?utm_campaign=1055282&utm_source=habrahabr&utm_medium=rss)
+- [Некогда популярный Windows Movie Maker можно скачать на Windows 11](https://habr.com/ru/news/1054886/?utm_campaign=1054886&utm_source=habrahabr&utm_medium=rss)
+- [Завод Sony по производству дисков для PlayStation начал перепрофилировать деятельность](https://habr.com/ru/news/1055236/?utm_campaign=1055236&utm_source=habrahabr&utm_medium=rss)
+- [Праздник к ним приходит: Santa Stealer ворует для хакеров аккаунты Roblox, криптовалютные активы и корпоративные секреты](https://habr.com/ru/companies/solarsecurity/news/1055230/?utm_campaign=1055230&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
