@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude нашел жителю Индии его наследство: 25 участков земли прадеда](https://habr.com/ru/news/1055026/?utm_campaign=1055026&utm_source=habrahabr&utm_medium=rss)
-- [silentjson v2.0.0: Уперлись в железо, или как мы выжали максимум из парсинга JSON в Go](https://habr.com/ru/news/1055022/?utm_campaign=1055022&utm_source=habrahabr&utm_medium=rss)
-- [Проект Swift Package Index перешёл под управление Apple, а его разработчика взяли на работу в компанию](https://habr.com/ru/news/1055018/?utm_campaign=1055018&utm_source=habrahabr&utm_medium=rss)
-- [Из-за досадной ошибки на ресурсе kernel.org удалили со всех зеркал архивы с кодом ядра Linux](https://habr.com/ru/news/1055006/?utm_campaign=1055006&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic переманила инженера чипов OpenAI и начала работу над своим ИИ-ускорителем](https://habr.com/ru/news/1054986/?utm_campaign=1054986&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare поставила Google ультиматум: раздели поисковый бот и ИИ-краулер — или будешь заблокирован](https://habr.com/ru/news/1055030/?utm_campaign=1055030&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск версии OpenWrt 25.12.5](https://habr.com/ru/news/1054778/?utm_campaign=1054778&utm_source=habrahabr&utm_medium=rss)
+- [System76 выпустила лёгкий Linux-ноутбук Lemur Pro](https://habr.com/ru/news/1055076/?utm_campaign=1055076&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare заставит ИИ-компании платить за контент издателей](https://habr.com/ru/news/1055074/?utm_campaign=1055074&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic работает над тем, чтобы вернуть Fable 5 в подписки Claude после 7 июля](https://habr.com/ru/news/1055062/?utm_campaign=1055062&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
