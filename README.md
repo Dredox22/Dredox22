@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [The University of Silicon Valley запустил стипендию, учитывающую ачивки в играх](https://habr.com/ru/news/1055290/?utm_campaign=1055290&utm_source=habrahabr&utm_medium=rss)
-- [В GitHub в ответ на отказ Sony от дисков предложили разработчикам выслать их код из репозиториев на CD](https://habr.com/ru/news/1055282/?utm_campaign=1055282&utm_source=habrahabr&utm_medium=rss)
-- [Некогда популярный Windows Movie Maker можно скачать на Windows 11](https://habr.com/ru/news/1054886/?utm_campaign=1054886&utm_source=habrahabr&utm_medium=rss)
-- [Завод Sony по производству дисков для PlayStation начал перепрофилировать деятельность](https://habr.com/ru/news/1055236/?utm_campaign=1055236&utm_source=habrahabr&utm_medium=rss)
-- [Праздник к ним приходит: Santa Stealer ворует для хакеров аккаунты Roblox, криптовалютные активы и корпоративные секреты](https://habr.com/ru/companies/solarsecurity/news/1055230/?utm_campaign=1055230&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс Браузер» показал наименьший расход оперативной памяти в тесте TelecomDaily среди популярных браузеров на ПК](https://habr.com/ru/news/1055384/?utm_campaign=1055384&utm_source=habrahabr&utm_medium=rss)
+- [Из macOS 27 удалили фреймворк для работы с DVD](https://habr.com/ru/news/1055376/?utm_campaign=1055376&utm_source=habrahabr&utm_medium=rss)
+- [kpt как WYSIWYG для Kubernetes или почему «конфигурация как данные» лучше шаблонов](https://habr.com/ru/companies/selectel/news/1055314/?utm_campaign=1055314&utm_source=habrahabr&utm_medium=rss)
+- [MAGNIT TECH запускает два трека магистратуры – по бекенд-разработке в Москве и аналитике данных в Краснодаре](https://habr.com/ru/companies/magnit/news/1055336/?utm_campaign=1055336&utm_source=habrahabr&utm_medium=rss)
+- [В Tesla ввели лимиты на ИИ: $200 на инженера в неделю](https://habr.com/ru/news/1055324/?utm_campaign=1055324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
