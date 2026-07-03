@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare поставила Google ультиматум: раздели поисковый бот и ИИ-краулер — или будешь заблокирован](https://habr.com/ru/news/1055030/?utm_campaign=1055030&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск версии OpenWrt 25.12.5](https://habr.com/ru/news/1054778/?utm_campaign=1054778&utm_source=habrahabr&utm_medium=rss)
-- [System76 выпустила лёгкий Linux-ноутбук Lemur Pro](https://habr.com/ru/news/1055076/?utm_campaign=1055076&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare заставит ИИ-компании платить за контент издателей](https://habr.com/ru/news/1055074/?utm_campaign=1055074&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic работает над тем, чтобы вернуть Fable 5 в подписки Claude после 7 июля](https://habr.com/ru/news/1055062/?utm_campaign=1055062&utm_source=habrahabr&utm_medium=rss)
+- [ClickHouse 26.6: skip-индексы до миграций, каскадные обновления и потоковые запросы](https://habr.com/ru/companies/otus/news/1055192/?utm_campaign=1055192&utm_source=habrahabr&utm_medium=rss)
+- [Tesla ограничит расходы сотрудников на ИИ до $200 в неделю на рабочее место](https://habr.com/ru/news/1055190/?utm_campaign=1055190&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba запретила Claude Code на работе. Забавно, что в Китае он и так недоступен](https://habr.com/ru/news/1055184/?utm_campaign=1055184&utm_source=habrahabr&utm_medium=rss)
+- [Система UserGate SIEM получила сертификат ФСТЭК России по четвёртому уровню доверия](https://habr.com/ru/companies/usergate/news/1055178/?utm_campaign=1055178&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: благодаря установке мобильной веб-версии MAX свыше 5 млн пользователей iOS снова получают уведомления в мессенджере](https://habr.com/ru/news/1055160/?utm_campaign=1055160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
