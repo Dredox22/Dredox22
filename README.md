@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Бизнес в ярости»: глава Palantir обвинил ИИ-гигантов в краже данных клиентов](https://habr.com/ru/news/1055426/?utm_campaign=1055426&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Браузер» показал наименьший расход оперативной памяти в тесте TelecomDaily среди популярных браузеров на ПК](https://habr.com/ru/news/1055384/?utm_campaign=1055384&utm_source=habrahabr&utm_medium=rss)
 - [Из macOS 27 удалили фреймворк для работы с DVD](https://habr.com/ru/news/1055376/?utm_campaign=1055376&utm_source=habrahabr&utm_medium=rss)
 - [kpt как WYSIWYG для Kubernetes или почему «конфигурация как данные» лучше шаблонов](https://habr.com/ru/companies/selectel/news/1055314/?utm_campaign=1055314&utm_source=habrahabr&utm_medium=rss)
 - [MAGNIT TECH запускает два трека магистратуры – по бекенд-разработке в Москве и аналитике данных в Краснодаре](https://habr.com/ru/companies/magnit/news/1055336/?utm_campaign=1055336&utm_source=habrahabr&utm_medium=rss)
-- [В Tesla ввели лимиты на ИИ: $200 на инженера в неделю](https://habr.com/ru/news/1055324/?utm_campaign=1055324&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
