@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У пользователей Android появилась возможность выбрать Алису AI ассистентом по умолчанию на смартфоне](https://habr.com/ru/news/1055570/?utm_campaign=1055570&utm_source=habrahabr&utm_medium=rss)
+- [Исследование показало, что родители чаще всего боятся общения детей с незнакомцами в интернете и учат их безопасности](https://habr.com/ru/news/1055566/?utm_campaign=1055566&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость в Steam позволяет похитить данные за один клик и распространиться по его друзьям](https://habr.com/ru/news/1055552/?utm_campaign=1055552&utm_source=habrahabr&utm_medium=rss)
 - [Claude вылечит: Anthropic будет делать лекарства, которые невыгодны обычной фарме](https://habr.com/ru/news/1055514/?utm_campaign=1055514&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик портировал 60 000 строк PHP на TypeScript за 14 часов — и предупредил о главной ошибке](https://habr.com/ru/news/1055502/?utm_campaign=1055502&utm_source=habrahabr&utm_medium=rss)
-- [Представлен сервис GitFut, который переводит профили GitHub в карточки в стиле FIFA](https://habr.com/ru/news/1055478/?utm_campaign=1055478&utm_source=habrahabr&utm_medium=rss)
-- [В Японии оборудование для Starlink начали устанавливать на указателях подземных пожарных гидрантов](https://habr.com/ru/news/1055474/?utm_campaign=1055474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
