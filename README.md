@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик портировал 60 000 строк PHP на TypeScript за 14 часов — и предупредил о главной ошибке](https://habr.com/ru/news/1055502/?utm_campaign=1055502&utm_source=habrahabr&utm_medium=rss)
 - [Представлен сервис GitFut, который переводит профили GitHub в карточки в стиле FIFA](https://habr.com/ru/news/1055478/?utm_campaign=1055478&utm_source=habrahabr&utm_medium=rss)
 - [В Японии оборудование для Starlink начали устанавливать на указателях подземных пожарных гидрантов](https://habr.com/ru/news/1055474/?utm_campaign=1055474&utm_source=habrahabr&utm_medium=rss)
 - [Контакты Outlook начнут отображаться в приложениях iOS](https://habr.com/ru/news/1055470/?utm_campaign=1055470&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 150](https://habr.com/ru/news/1055432/?utm_campaign=1055432&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.6](https://habr.com/ru/news/1055032/?utm_campaign=1055032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
