@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть находит поломку авто по звуку — обучение проходило на роликах из YouTube и TikTok](https://habr.com/ru/news/1055640/?utm_campaign=1055640&utm_source=habrahabr&utm_medium=rss)
 - [«Египет победил»: Qwen3-4B превратили в «самый согласованный ИИ в истории»](https://habr.com/ru/news/1055630/?utm_campaign=1055630&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытой платформы для самостоятельного хранения и управления фото и видео Immich 3.0](https://habr.com/ru/news/1055614/?utm_campaign=1055614&utm_source=habrahabr&utm_medium=rss)
 - [У пользователей Android появилась возможность выбрать Алису AI ассистентом по умолчанию на смартфоне](https://habr.com/ru/news/1055570/?utm_campaign=1055570&utm_source=habrahabr&utm_medium=rss)
 - [Исследование показало, что родители чаще всего боятся общения детей с незнакомцами в интернете и учат их безопасности](https://habr.com/ru/news/1055566/?utm_campaign=1055566&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость в Steam позволяет похитить данные за один клик и распространиться по его друзьям](https://habr.com/ru/news/1055552/?utm_campaign=1055552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
