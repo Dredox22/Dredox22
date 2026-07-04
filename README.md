@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Энтузиаст рассказал, как снизить цену на Claude Code в два раза, перегнав промпты в изображения](https://habr.com/ru/news/1055444/?utm_campaign=1055444&utm_source=habrahabr&utm_medium=rss)
-- [CalyxOS возвращается после года тишины: защита ключей через HSM и жизнь в условиях закрытости Google](https://habr.com/ru/companies/selectel/news/1055330/?utm_campaign=1055330&utm_source=habrahabr&utm_medium=rss)
-- [«Бизнес в ярости»: глава Palantir обвинил ИИ-гигантов в краже данных клиентов](https://habr.com/ru/news/1055426/?utm_campaign=1055426&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс Браузер» показал наименьший расход оперативной памяти в тесте TelecomDaily среди популярных браузеров на ПК](https://habr.com/ru/news/1055384/?utm_campaign=1055384&utm_source=habrahabr&utm_medium=rss)
-- [Из macOS 27 удалили фреймворк для работы с DVD](https://habr.com/ru/news/1055376/?utm_campaign=1055376&utm_source=habrahabr&utm_medium=rss)
+- [Представлен сервис GitFut, который переводит профили GitHub в карточки в стиле FIFA](https://habr.com/ru/news/1055478/?utm_campaign=1055478&utm_source=habrahabr&utm_medium=rss)
+- [В Японии оборудование для Starlink начали устанавливать на указателях подземных пожарных гидрантов](https://habr.com/ru/news/1055474/?utm_campaign=1055474&utm_source=habrahabr&utm_medium=rss)
+- [Контакты Outlook начнут отображаться в приложениях iOS](https://habr.com/ru/news/1055470/?utm_campaign=1055470&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Microsoft Edge 150](https://habr.com/ru/news/1055432/?utm_campaign=1055432&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.6](https://habr.com/ru/news/1055032/?utm_campaign=1055032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
