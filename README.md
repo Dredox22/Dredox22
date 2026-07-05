@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera запускает Paste Protect — инструмент, защищающий буфер обмена от атак злоумышленников](https://habr.com/ru/news/1054888/?utm_campaign=1054888&utm_source=habrahabr&utm_medium=rss)
 - [Соавтор Django рассказал, как Claude Fable 5 подготовил релиз sqlite-utils за $149](https://habr.com/ru/news/1055710/?utm_campaign=1055710&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.11](https://habr.com/ru/news/1055170/?utm_campaign=1055170&utm_source=habrahabr&utm_medium=rss)
 - [ИИ сам взломал, украл ключи и уничтожил данные — человек не участвовал](https://habr.com/ru/news/1055700/?utm_campaign=1055700&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Windows 10 и 11 сообщили о графической ошибке из-за Google Chrome](https://habr.com/ru/news/1055678/?utm_campaign=1055678&utm_source=habrahabr&utm_medium=rss)
-- [За полгода в ядре Linux выявлено 2308 уязвимостей, которым присвоены отдельные CVE-идентификаторы](https://habr.com/ru/news/1055526/?utm_campaign=1055526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
