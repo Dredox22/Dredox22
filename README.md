@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Офисного работника придумала Microsoft, чтобы продавать софт»: глава Perplexity защитил ИИ-революцию](https://habr.com/ru/news/1055836/?utm_campaign=1055836&utm_source=habrahabr&utm_medium=rss)
 - [Claude Fable 5 портировал Command &amp;amp; Conquer: Generals на iPhone](https://habr.com/ru/news/1055814/?utm_campaign=1055814&utm_source=habrahabr&utm_medium=rss)
 - [НСПК допускает интеграцию платформы коммерческих смарт-контрактов Банка России с платежными инструментами «Мир» и СБП](https://habr.com/ru/companies/nspk/news/1055804/?utm_campaign=1055804&utm_source=habrahabr&utm_medium=rss)
 - [Opera запускает Paste Protect — инструмент, защищающий буфер обмена от атак злоумышленников](https://habr.com/ru/news/1054888/?utm_campaign=1054888&utm_source=habrahabr&utm_medium=rss)
 - [Соавтор Django рассказал, как Claude Fable 5 подготовил релиз sqlite-utils за $149](https://habr.com/ru/news/1055710/?utm_campaign=1055710&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.11](https://habr.com/ru/news/1055170/?utm_campaign=1055170&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
