@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic научилась читать мысли Claude, которые ИИ не говорит вслух](https://habr.com/ru/news/1056248/?utm_campaign=1056248&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры представило приложение «Госкан» для быстрой проверки данных по QR-коду](https://habr.com/ru/news/1056198/?utm_campaign=1056198&utm_source=habrahabr&utm_medium=rss)
 - [Go&amp;amp;Grill возвращается — на этот раз в Петербурге](https://habr.com/ru/companies/avito/news/1056186/?utm_campaign=1056186&utm_source=habrahabr&utm_medium=rss)
 - [Клиенты «разгневаны и отчаянны»: почему бум памяти начал вредить самим чипмейкерам](https://habr.com/ru/news/1056158/?utm_campaign=1056158&utm_source=habrahabr&utm_medium=rss)
 - [СМИ сообщили об идее Минцифры обязать подтверждать значимые действия через СМС или «Макс», рынок и эксперты против](https://habr.com/ru/news/1056152/?utm_campaign=1056152&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1056126/?utm_campaign=1056126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
