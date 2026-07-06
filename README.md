@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Облачные модели Apple не запускаются из скриптов через новую утилиту fm](https://habr.com/ru/news/1056276/?utm_campaign=1056276&utm_source=habrahabr&utm_medium=rss)
 - [Codex получит GPT-5.6 Ultra](https://habr.com/ru/news/1056266/?utm_campaign=1056266&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic научилась читать мысли Claude, которые ИИ не говорит вслух](https://habr.com/ru/news/1056248/?utm_campaign=1056248&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры представило приложение «Госкан» для быстрой проверки данных по QR-коду](https://habr.com/ru/news/1056198/?utm_campaign=1056198&utm_source=habrahabr&utm_medium=rss)
 - [Go&amp;amp;Grill возвращается — на этот раз в Петербурге](https://habr.com/ru/companies/avito/news/1056186/?utm_campaign=1056186&utm_source=habrahabr&utm_medium=rss)
-- [Клиенты «разгневаны и отчаянны»: почему бум памяти начал вредить самим чипмейкерам](https://habr.com/ru/news/1056158/?utm_campaign=1056158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
