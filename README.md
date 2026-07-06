@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Минцифры представило приложение «Госкан» для быстрой проверки данных по QR-коду](https://habr.com/ru/news/1056198/?utm_campaign=1056198&utm_source=habrahabr&utm_medium=rss)
+- [Go&amp;amp;Grill возвращается — на этот раз в Петербурге](https://habr.com/ru/companies/avito/news/1056186/?utm_campaign=1056186&utm_source=habrahabr&utm_medium=rss)
+- [Клиенты «разгневаны и отчаянны»: почему бум памяти начал вредить самим чипмейкерам](https://habr.com/ru/news/1056158/?utm_campaign=1056158&utm_source=habrahabr&utm_medium=rss)
+- [СМИ сообщили об идее Минцифры обязать подтверждать значимые действия через СМС или «Макс», рынок и эксперты против](https://habr.com/ru/news/1056152/?utm_campaign=1056152&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1056126/?utm_campaign=1056126&utm_source=habrahabr&utm_medium=rss)
-- [Проверка боем: Innostage включает продукты Avanpost в программу открытых кибериспытаний](https://habr.com/ru/companies/innostage/news/1056118/?utm_campaign=1056118&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Chrome 150](https://habr.com/ru/news/1056096/?utm_campaign=1056096&utm_source=habrahabr&utm_medium=rss)
-- [ИИ добрался до шампуней и печенья: как L&#39;Oreal и Mondelez придумывают новые рецепты](https://habr.com/ru/news/1056094/?utm_campaign=1056094&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Postgres Pro Enterprise для 1С: оптимизации для нагрузок «1С», временные таблицы на Standby и отказоустойчивость](https://habr.com/ru/companies/postgrespro/news/1056088/?utm_campaign=1056088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
