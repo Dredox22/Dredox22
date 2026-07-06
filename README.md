@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Midjourney в суде требует промпты, которые Disney и Warner Bros. вводили в ее нейросеть](https://habr.com/ru/news/1055838/?utm_campaign=1055838&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление WinDirStat 2.7.0 — открытой утилита для Windows, которая помогает анализировать использование дисков](https://habr.com/ru/news/1055698/?utm_campaign=1055698&utm_source=habrahabr&utm_medium=rss)
-- [«Офисного работника придумала Microsoft, чтобы продавать софт»: глава Perplexity защитил ИИ-революцию](https://habr.com/ru/news/1055836/?utm_campaign=1055836&utm_source=habrahabr&utm_medium=rss)
-- [Claude Fable 5 портировал Command &amp;amp; Conquer: Generals на iPhone](https://habr.com/ru/news/1055814/?utm_campaign=1055814&utm_source=habrahabr&utm_medium=rss)
-- [НСПК допускает интеграцию платформы коммерческих смарт-контрактов Банка России с платежными инструментами «Мир» и СБП](https://habr.com/ru/companies/nspk/news/1055804/?utm_campaign=1055804&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte укрепила позицию в топ-3 поставщиков решений для анализа данных](https://habr.com/ru/companies/glowbyte/news/1055988/?utm_campaign=1055988&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code за уикенд нашел 8 дыр в ядре FreeBSD и сбежал из песочницы](https://habr.com/ru/news/1055986/?utm_campaign=1055986&utm_source=habrahabr&utm_medium=rss)
+- [Alibaba запрещает сотрудникам использовать Claude Code](https://habr.com/ru/news/1055978/?utm_campaign=1055978&utm_source=habrahabr&utm_medium=rss)
+- [Amazon прекратит принимать новых клиентов на платформу Mechanical Turk](https://habr.com/ru/news/1055938/?utm_campaign=1055938&utm_source=habrahabr&utm_medium=rss)
+- [Сотни людей поддержали защиту инженера по обвинению в уничтожении камер Flock](https://habr.com/ru/news/1055926/?utm_campaign=1055926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
