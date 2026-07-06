@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Midjourney в суде требует промпты, которые Disney и Warner Bros. вводили в ее нейросеть](https://habr.com/ru/news/1055838/?utm_campaign=1055838&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление WinDirStat 2.7.0 — открытой утилита для Windows, которая помогает анализировать использование дисков](https://habr.com/ru/news/1055698/?utm_campaign=1055698&utm_source=habrahabr&utm_medium=rss)
 - [«Офисного работника придумала Microsoft, чтобы продавать софт»: глава Perplexity защитил ИИ-революцию](https://habr.com/ru/news/1055836/?utm_campaign=1055836&utm_source=habrahabr&utm_medium=rss)
 - [Claude Fable 5 портировал Command &amp;amp; Conquer: Generals на iPhone](https://habr.com/ru/news/1055814/?utm_campaign=1055814&utm_source=habrahabr&utm_medium=rss)
 - [НСПК допускает интеграцию платформы коммерческих смарт-контрактов Банка России с платежными инструментами «Мир» и СБП](https://habr.com/ru/companies/nspk/news/1055804/?utm_campaign=1055804&utm_source=habrahabr&utm_medium=rss)
-- [Opera запускает Paste Protect — инструмент, защищающий буфер обмена от атак злоумышленников](https://habr.com/ru/news/1054888/?utm_campaign=1054888&utm_source=habrahabr&utm_medium=rss)
-- [Соавтор Django рассказал, как Claude Fable 5 подготовил релиз sqlite-utils за $149](https://habr.com/ru/news/1055710/?utm_campaign=1055710&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
