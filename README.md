@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление CodeScoring 2026.27.0: ускоренный анализ, обновленные фильтры, поддержка R и Kingfisher](https://habr.com/ru/companies/codescoring/news/1056670/?utm_campaign=1056670&utm_source=habrahabr&utm_medium=rss)
+- [«Цифра банк» ускорил выявление кибермошенников в разы с помощью Security Vision SOAR](https://habr.com/ru/companies/securityvison/news/1056660/?utm_campaign=1056660&utm_source=habrahabr&utm_medium=rss)
+- [Tesla разрабатывает функцию проверки личности водителя по камере в салоне перед активацией автопилота](https://habr.com/ru/news/1056632/?utm_campaign=1056632&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» зарегистрировал товарные знаки «Яндекс Пин», «Яндекс Хронум» и «Яндекс Мемо»](https://habr.com/ru/news/1056610/?utm_campaign=1056610&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры: введение платы за зарубежный трафик в России не рассматривается](https://habr.com/ru/news/1056602/?utm_campaign=1056602&utm_source=habrahabr&utm_medium=rss)
-- [Доступ к DeepSeek и GLM могут ограничить: по слухам, Пекин обсуждает экспортные ограничения на ИИ](https://habr.com/ru/news/1056594/?utm_campaign=1056594&utm_source=habrahabr&utm_medium=rss)
-- [Вышел КОМПАС-3D v25. Новая версия — новые возможности](https://habr.com/ru/companies/ascon/news/1056484/?utm_campaign=1056484&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek уже год разрабатывает ИИ-чип, чтобы не зависеть от Huawei и Nvidia](https://habr.com/ru/news/1056570/?utm_campaign=1056570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
