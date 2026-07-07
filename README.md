@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление CodeScoring 2026.27.0: ускоренный анализ, обновленные фильтры, поддержка R и Kingfisher](https://habr.com/ru/companies/codescoring/news/1056670/?utm_campaign=1056670&utm_source=habrahabr&utm_medium=rss)
-- [«Цифра банк» ускорил выявление кибермошенников в разы с помощью Security Vision SOAR](https://habr.com/ru/companies/securityvison/news/1056660/?utm_campaign=1056660&utm_source=habrahabr&utm_medium=rss)
-- [Tesla разрабатывает функцию проверки личности водителя по камере в салоне перед активацией автопилота](https://habr.com/ru/news/1056632/?utm_campaign=1056632&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» зарегистрировал товарные знаки «Яндекс Пин», «Яндекс Хронум» и «Яндекс Мемо»](https://habr.com/ru/news/1056610/?utm_campaign=1056610&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры: введение платы за зарубежный трафик в России не рассматривается](https://habr.com/ru/news/1056602/?utm_campaign=1056602&utm_source=habrahabr&utm_medium=rss)
+- [Джон Ромеро публично поддержал разработчиков после массового увольнения в id Software](https://habr.com/ru/news/1056732/?utm_campaign=1056732&utm_source=habrahabr&utm_medium=rss)
+- [Нобелевский лауреат по экономике предупредил, что ИИ не вернёт эпоху быстрого роста производительности](https://habr.com/ru/news/1056728/?utm_campaign=1056728&utm_source=habrahabr&utm_medium=rss)
+- [«Делимобиль» обеспечивает защиту данных и повышает киберграмотность сотрудников на базе решений «Солара»](https://habr.com/ru/companies/solarsecurity/news/1056720/?utm_campaign=1056720&utm_source=habrahabr&utm_medium=rss)
+- [Доступ к Claude Fable 5 продлили до 12 июля](https://habr.com/ru/news/1056716/?utm_campaign=1056716&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft уволила 4800 человек. Виноват не ИИ, но ИИ «меняет работу»](https://habr.com/ru/news/1056712/?utm_campaign=1056712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
