@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Qualcomm Linux 2.0](https://habr.com/ru/news/1056324/?utm_campaign=1056324&utm_source=habrahabr&utm_medium=rss)
-- [Открытая GLM-5.2 почти догнала фронтир: новые отраслевые индексы Artificial Analysis](https://habr.com/ru/news/1056326/?utm_campaign=1056326&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила фреймворк Trust Insights для выявления жертв социальной инженерии](https://habr.com/ru/news/1056318/?utm_campaign=1056318&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Starlink в США сообщили о крупных доплатах за подключение в регионах с высокой загрузкой](https://habr.com/ru/news/1056310/?utm_campaign=1056310&utm_source=habrahabr&utm_medium=rss)
-- [Reddit использует большие языковые модели для решения проблем LLM](https://habr.com/ru/news/1056306/?utm_campaign=1056306&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code и Codex научили самостоятельно искать уязвимости в чужих системах](https://habr.com/ru/news/1056486/?utm_campaign=1056486&utm_source=habrahabr&utm_medium=rss)
+- [В РФ вступил в силу закон о штрафах за авторизацию через иностранные сервисы](https://habr.com/ru/news/1056470/?utm_campaign=1056470&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на курс «Искусственный интеллект для бизнеса»](https://habr.com/ru/companies/selectel/news/1056436/?utm_campaign=1056436&utm_source=habrahabr&utm_medium=rss)
+- [Apple удалила приложение «Яндекс Пэй» из App Store в разных странах, кроме России](https://habr.com/ru/news/1056452/?utm_campaign=1056452&utm_source=habrahabr&utm_medium=rss)
+- [Технические вебинары по продуктам ЭРЕМЕКС](https://habr.com/ru/companies/eremexru/news/1056450/?utm_campaign=1056450&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
