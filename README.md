@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code и Codex научили самостоятельно искать уязвимости в чужих системах](https://habr.com/ru/news/1056486/?utm_campaign=1056486&utm_source=habrahabr&utm_medium=rss)
-- [В РФ вступил в силу закон о штрафах за авторизацию через иностранные сервисы](https://habr.com/ru/news/1056470/?utm_campaign=1056470&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на курс «Искусственный интеллект для бизнеса»](https://habr.com/ru/companies/selectel/news/1056436/?utm_campaign=1056436&utm_source=habrahabr&utm_medium=rss)
-- [Apple удалила приложение «Яндекс Пэй» из App Store в разных странах, кроме России](https://habr.com/ru/news/1056452/?utm_campaign=1056452&utm_source=habrahabr&utm_medium=rss)
-- [Технические вебинары по продуктам ЭРЕМЕКС](https://habr.com/ru/companies/eremexru/news/1056450/?utm_campaign=1056450&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» зарегистрировал товарные знаки «Яндекс Пин», «Яндекс Хронум» и «Яндекс Мемо»](https://habr.com/ru/news/1056610/?utm_campaign=1056610&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры: введение платы за зарубежный трафик в России не рассматривается](https://habr.com/ru/news/1056602/?utm_campaign=1056602&utm_source=habrahabr&utm_medium=rss)
+- [Доступ к DeepSeek и GLM могут ограничить: по слухам, Пекин обсуждает экспортные ограничения на ИИ](https://habr.com/ru/news/1056594/?utm_campaign=1056594&utm_source=habrahabr&utm_medium=rss)
+- [Вышел КОМПАС-3D v25. Новая версия — новые возможности](https://habr.com/ru/companies/ascon/news/1056484/?utm_campaign=1056484&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek уже год разрабатывает ИИ-чип, чтобы не зависеть от Huawei и Nvidia](https://habr.com/ru/news/1056570/?utm_campaign=1056570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
