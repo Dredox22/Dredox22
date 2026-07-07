@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Облачные модели Apple не запускаются из скриптов через новую утилиту fm](https://habr.com/ru/news/1056276/?utm_campaign=1056276&utm_source=habrahabr&utm_medium=rss)
-- [Codex получит GPT-5.6 Ultra](https://habr.com/ru/news/1056266/?utm_campaign=1056266&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic научилась читать мысли Claude, которые ИИ не говорит вслух](https://habr.com/ru/news/1056248/?utm_campaign=1056248&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры представило приложение «Госкан» для быстрой проверки данных по QR-коду](https://habr.com/ru/news/1056198/?utm_campaign=1056198&utm_source=habrahabr&utm_medium=rss)
-- [Go&amp;amp;Grill возвращается — на этот раз в Петербурге](https://habr.com/ru/companies/avito/news/1056186/?utm_campaign=1056186&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Qualcomm Linux 2.0](https://habr.com/ru/news/1056324/?utm_campaign=1056324&utm_source=habrahabr&utm_medium=rss)
+- [Открытая GLM-5.2 почти догнала фронтир: новые отраслевые индексы Artificial Analysis](https://habr.com/ru/news/1056326/?utm_campaign=1056326&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила фреймворк Trust Insights для выявления жертв социальной инженерии](https://habr.com/ru/news/1056318/?utm_campaign=1056318&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Starlink в США сообщили о крупных доплатах за подключение в регионах с высокой загрузкой](https://habr.com/ru/news/1056310/?utm_campaign=1056310&utm_source=habrahabr&utm_medium=rss)
+- [Reddit использует большие языковые модели для решения проблем LLM](https://habr.com/ru/news/1056306/?utm_campaign=1056306&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
