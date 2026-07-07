@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta* выпустила нейросеть Muse Image — она думает, гуглит и пишет код перед генерацией картинки](https://habr.com/ru/news/1056762/?utm_campaign=1056762&utm_source=habrahabr&utm_medium=rss)
 - [Джон Ромеро публично поддержал разработчиков после массового увольнения в id Software](https://habr.com/ru/news/1056732/?utm_campaign=1056732&utm_source=habrahabr&utm_medium=rss)
 - [Нобелевский лауреат по экономике предупредил, что ИИ не вернёт эпоху быстрого роста производительности](https://habr.com/ru/news/1056728/?utm_campaign=1056728&utm_source=habrahabr&utm_medium=rss)
 - [«Делимобиль» обеспечивает защиту данных и повышает киберграмотность сотрудников на базе решений «Солара»](https://habr.com/ru/companies/solarsecurity/news/1056720/?utm_campaign=1056720&utm_source=habrahabr&utm_medium=rss)
 - [Доступ к Claude Fable 5 продлили до 12 июля](https://habr.com/ru/news/1056716/?utm_campaign=1056716&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft уволила 4800 человек. Виноват не ИИ, но ИИ «меняет работу»](https://habr.com/ru/news/1056712/?utm_campaign=1056712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
