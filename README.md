@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [xAI выпустили Grok 4.5: флагман уровня Opus, обучали вместе со SpaceXAI](https://habr.com/ru/news/1057204/?utm_campaign=1057204&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Grok 4.5 — модель доступна бесплатно в Cursor и Grok Build](https://habr.com/ru/news/1057210/?utm_campaign=1057210&utm_source=habrahabr&utm_medium=rss)
+- [Cursor выпустили Grok 4.5: флагман уровня Opus, обучали вместе со SpaceXAI](https://habr.com/ru/news/1057204/?utm_campaign=1057204&utm_source=habrahabr&utm_medium=rss)
 - [«Мхм», «ага»: новый голосовой ChatGPT ведет себя как живой собеседник](https://habr.com/ru/news/1057196/?utm_campaign=1057196&utm_source=habrahabr&utm_medium=rss)
 - [Meta* позволила использовать фото пользователей Instagram** для ИИ‑генерации без разрешения](https://habr.com/ru/news/1057186/?utm_campaign=1057186&utm_source=habrahabr&utm_medium=rss)
 - [Доля Windows на мировом рынке настольных ОС впервые за долгие годы упала ниже 60%](https://habr.com/ru/news/1057178/?utm_campaign=1057178&utm_source=habrahabr&utm_medium=rss)
-- [Фотошоп больше не нужен? Представлена Seedream 5.0 Pro со слоями](https://habr.com/ru/news/1057126/?utm_campaign=1057126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
