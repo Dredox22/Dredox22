@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [xAI переименована в SpaceXAI](https://habr.com/ru/news/1056960/?utm_campaign=1056960&utm_source=habrahabr&utm_medium=rss)
-- [MCP-сервер FinamTrade: как ИИ-ассистенты меняют интерфейс работы с брокерскими данными](https://habr.com/ru/companies/finam_broker/news/1056864/?utm_campaign=1056864&utm_source=habrahabr&utm_medium=rss)
-- [Tesla запустила конкурс стартапов Cell Giga Challenge для расширения производства аккумуляторных элементов в Берлине](https://habr.com/ru/news/1056930/?utm_campaign=1056930&utm_source=habrahabr&utm_medium=rss)
-- [Премия «Хакатоны России 2026»: кто победил. Итоги вечера и полный список лауреатов](https://habr.com/ru/news/1056928/?utm_campaign=1056928&utm_source=habrahabr&utm_medium=rss)
-- [Китайские исследователи представили новый способ извлечения данных с ПК, отключённых от сетей](https://habr.com/ru/news/1056920/?utm_campaign=1056920&utm_source=habrahabr&utm_medium=rss)
+- [ИИ нашел критический баг в шифровании Cloudflare — любой ключ открывал все](https://habr.com/ru/news/1057084/?utm_campaign=1057084&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся минорный релиз серверной операционной системы SELECTOS 1.4](https://habr.com/ru/companies/selectel/news/1055362/?utm_campaign=1055362&utm_source=habrahabr&utm_medium=rss)
+- [Полезные игры на КРИ 2026: Кружковое движение НТИ представило проекты НКФП «Берлога» и Акселератор полезных игр](https://habr.com/ru/news/1057080/?utm_campaign=1057080&utm_source=habrahabr&utm_medium=rss)
+- [Доклад ООН: возможности ИИ растут быстрее, чем способность человечества их контролировать](https://habr.com/ru/news/1057068/?utm_campaign=1057068&utm_source=habrahabr&utm_medium=rss)
+- [Apple не смогла доказать в суде ЕС, что App Store для iPhone, iPad, Mac и других платформ — это разные магазины](https://habr.com/ru/news/1057014/?utm_campaign=1057014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
