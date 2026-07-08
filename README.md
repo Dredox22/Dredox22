@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Доля Windows на мировом рынке настольных ОС впервые за долгие годы упала ниже 60%](https://habr.com/ru/news/1057178/?utm_campaign=1057178&utm_source=habrahabr&utm_medium=rss)
+- [Фотошоп больше не нужен? Представлена Seedream 5.0 Pro со слоями](https://habr.com/ru/news/1057126/?utm_campaign=1057126&utm_source=habrahabr&utm_medium=rss)
 - [ИИ нашел критический баг в шифровании Cloudflare — любой ключ открывал все](https://habr.com/ru/news/1057084/?utm_campaign=1057084&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся минорный релиз серверной операционной системы SELECTOS 1.4](https://habr.com/ru/companies/selectel/news/1055362/?utm_campaign=1055362&utm_source=habrahabr&utm_medium=rss)
 - [Полезные игры на КРИ 2026: Кружковое движение НТИ представило проекты НКФП «Берлога» и Акселератор полезных игр](https://habr.com/ru/news/1057080/?utm_campaign=1057080&utm_source=habrahabr&utm_medium=rss)
-- [Доклад ООН: возможности ИИ растут быстрее, чем способность человечества их контролировать](https://habr.com/ru/news/1057068/?utm_campaign=1057068&utm_source=habrahabr&utm_medium=rss)
-- [Apple не смогла доказать в суде ЕС, что App Store для iPhone, iPad, Mac и других платформ — это разные магазины](https://habr.com/ru/news/1057014/?utm_campaign=1057014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
