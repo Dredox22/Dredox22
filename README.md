@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Секретный трекер Claude Code шокировал пользователей после позиции Anthropic по борьбе с слежкой](https://habr.com/ru/news/1056788/?utm_campaign=1056788&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft исправила одну из самых больших проблем при переустановке Windows](https://habr.com/ru/news/1056784/?utm_campaign=1056784&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление KDE Plasma 6.6.6](https://habr.com/ru/news/1056726/?utm_campaign=1056726&utm_source=habrahabr&utm_medium=rss)
-- [Cursor и SpaceX выпустят ИИ совместной разработки уже сегодня — The Information](https://habr.com/ru/news/1056768/?utm_campaign=1056768&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ZLUDA 6 &lpar;инструментарий для запуска CUDA-приложений на GPU AMD&rpar;, где PhysX теперь работает без видеокарты Nvidia](https://habr.com/ru/news/1056444/?utm_campaign=1056444&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains протестировали скилл Caveman: обещанные 65% экономии токенов превратились в 8.5%](https://habr.com/ru/news/1056848/?utm_campaign=1056848&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-чат в «Яндекс Картах» научили помогать пользователям находить подходящие места для культурного и активного отдыха](https://habr.com/ru/news/1056832/?utm_campaign=1056832&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.6 выйдет в четверг](https://habr.com/ru/news/1056822/?utm_campaign=1056822&utm_source=habrahabr&utm_medium=rss)
+- [Рейтинг языков программирования TIOBE за июнь 2026 года: Rust десятый, за 25 лет проекта C, C++ и Java остаются в топе](https://habr.com/ru/news/1056806/?utm_campaign=1056806&utm_source=habrahabr&utm_medium=rss)
+- [Figma приобрела команду платформы для создания виртуальных кодов Bud](https://habr.com/ru/news/1056800/?utm_campaign=1056800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
