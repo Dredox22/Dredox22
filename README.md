@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI выпустили Grok 4.5: флагман уровня Opus, обучали вместе со SpaceXAI](https://habr.com/ru/news/1057204/?utm_campaign=1057204&utm_source=habrahabr&utm_medium=rss)
+- [«Мхм», «ага»: новый голосовой ChatGPT ведет себя как живой собеседник](https://habr.com/ru/news/1057196/?utm_campaign=1057196&utm_source=habrahabr&utm_medium=rss)
+- [Meta* позволила использовать фото пользователей Instagram** для ИИ‑генерации без разрешения](https://habr.com/ru/news/1057186/?utm_campaign=1057186&utm_source=habrahabr&utm_medium=rss)
 - [Доля Windows на мировом рынке настольных ОС впервые за долгие годы упала ниже 60%](https://habr.com/ru/news/1057178/?utm_campaign=1057178&utm_source=habrahabr&utm_medium=rss)
 - [Фотошоп больше не нужен? Представлена Seedream 5.0 Pro со слоями](https://habr.com/ru/news/1057126/?utm_campaign=1057126&utm_source=habrahabr&utm_medium=rss)
-- [ИИ нашел критический баг в шифровании Cloudflare — любой ключ открывал все](https://habr.com/ru/news/1057084/?utm_campaign=1057084&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся минорный релиз серверной операционной системы SELECTOS 1.4](https://habr.com/ru/companies/selectel/news/1055362/?utm_campaign=1055362&utm_source=habrahabr&utm_medium=rss)
-- [Полезные игры на КРИ 2026: Кружковое движение НТИ представило проекты НКФП «Берлога» и Акселератор полезных игр](https://habr.com/ru/news/1057080/?utm_campaign=1057080&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
