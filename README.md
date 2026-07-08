@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [JetBrains протестировали скилл Caveman: обещанные 65% экономии токенов превратились в 8.5%](https://habr.com/ru/news/1056848/?utm_campaign=1056848&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-чат в «Яндекс Картах» научили помогать пользователям находить подходящие места для культурного и активного отдыха](https://habr.com/ru/news/1056832/?utm_campaign=1056832&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.6 выйдет в четверг](https://habr.com/ru/news/1056822/?utm_campaign=1056822&utm_source=habrahabr&utm_medium=rss)
-- [Рейтинг языков программирования TIOBE за июнь 2026 года: Rust десятый, за 25 лет проекта C, C++ и Java остаются в топе](https://habr.com/ru/news/1056806/?utm_campaign=1056806&utm_source=habrahabr&utm_medium=rss)
-- [Figma приобрела команду платформы для создания виртуальных кодов Bud](https://habr.com/ru/news/1056800/?utm_campaign=1056800&utm_source=habrahabr&utm_medium=rss)
+- [xAI переименована в SpaceXAI](https://habr.com/ru/news/1056960/?utm_campaign=1056960&utm_source=habrahabr&utm_medium=rss)
+- [MCP-сервер FinamTrade: как ИИ-ассистенты меняют интерфейс работы с брокерскими данными](https://habr.com/ru/companies/finam_broker/news/1056864/?utm_campaign=1056864&utm_source=habrahabr&utm_medium=rss)
+- [Tesla запустила конкурс стартапов Cell Giga Challenge для расширения производства аккумуляторных элементов в Берлине](https://habr.com/ru/news/1056930/?utm_campaign=1056930&utm_source=habrahabr&utm_medium=rss)
+- [Премия «Хакатоны России 2026»: кто победил. Итоги вечера и полный список лауреатов](https://habr.com/ru/news/1056928/?utm_campaign=1056928&utm_source=habrahabr&utm_medium=rss)
+- [Китайские исследователи представили новый способ извлечения данных с ПК, отключённых от сетей](https://habr.com/ru/news/1056920/?utm_campaign=1056920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
