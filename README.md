@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Зомби-иск «Кому принадлежит Unix?» снова всплыл на поверхность](https://habr.com/ru/news/1056576/?utm_campaign=1056576&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила рекламу, в которой отцы-основатели США с помощью ИИ создают Декларацию независимости](https://habr.com/ru/news/1056572/?utm_campaign=1056572&utm_source=habrahabr&utm_medium=rss)
-- [Meta* выпустила нейросеть Muse Image — она думает, гуглит и пишет код перед генерацией картинки](https://habr.com/ru/news/1056762/?utm_campaign=1056762&utm_source=habrahabr&utm_medium=rss)
-- [Джон Ромеро публично поддержал разработчиков после массового увольнения в id Software](https://habr.com/ru/news/1056732/?utm_campaign=1056732&utm_source=habrahabr&utm_medium=rss)
-- [Нобелевский лауреат по экономике предупредил, что ИИ не вернёт эпоху быстрого роста производительности](https://habr.com/ru/news/1056728/?utm_campaign=1056728&utm_source=habrahabr&utm_medium=rss)
+- [Секретный трекер Claude Code шокировал пользователей после позиции Anthropic по борьбе с слежкой](https://habr.com/ru/news/1056788/?utm_campaign=1056788&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила одну из самых больших проблем при переустановке Windows](https://habr.com/ru/news/1056784/?utm_campaign=1056784&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление KDE Plasma 6.6.6](https://habr.com/ru/news/1056726/?utm_campaign=1056726&utm_source=habrahabr&utm_medium=rss)
+- [Cursor и SpaceX выпустят ИИ совместной разработки уже сегодня — The Information](https://habr.com/ru/news/1056768/?utm_campaign=1056768&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ZLUDA 6 &lpar;инструментарий для запуска CUDA-приложений на GPU AMD&rpar;, где PhysX теперь работает без видеокарты Nvidia](https://habr.com/ru/news/1056444/?utm_campaign=1056444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
