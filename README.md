@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления открытого проекта RustDesk 1.4.9](https://habr.com/ru/news/1056724/?utm_campaign=1056724&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть оживила дневник Волан-де-Морта: электронные чернила исчезают, ответ пишется от руки](https://habr.com/ru/news/1057234/?utm_campaign=1057234&utm_source=habrahabr&utm_medium=rss)
+- [Valve выпустила Proton 11.0](https://habr.com/ru/news/1056880/?utm_campaign=1056880&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Grok 4.5 — модель доступна бесплатно в Cursor и Grok Build](https://habr.com/ru/news/1057210/?utm_campaign=1057210&utm_source=habrahabr&utm_medium=rss)
 - [Cursor выпустили Grok 4.5: флагман уровня Opus, обучали вместе со SpaceXAI](https://habr.com/ru/news/1057204/?utm_campaign=1057204&utm_source=habrahabr&utm_medium=rss)
-- [«Мхм», «ага»: новый голосовой ChatGPT ведет себя как живой собеседник](https://habr.com/ru/news/1057196/?utm_campaign=1057196&utm_source=habrahabr&utm_medium=rss)
-- [Meta* позволила использовать фото пользователей Instagram** для ИИ‑генерации без разрешения](https://habr.com/ru/news/1057186/?utm_campaign=1057186&utm_source=habrahabr&utm_medium=rss)
-- [Доля Windows на мировом рынке настольных ОС впервые за долгие годы упала ниже 60%](https://habr.com/ru/news/1057178/?utm_campaign=1057178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
