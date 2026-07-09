@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложение Roost позволяет отправлять сообщения между пользователями со скоростью почтового голубя буквально](https://habr.com/ru/news/1057280/?utm_campaign=1057280&utm_source=habrahabr&utm_medium=rss)
-- [Браузер DuckDuckGo начал блокировать рекламу в видео на YouTube](https://habr.com/ru/news/1057278/?utm_campaign=1057278&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск qBittorrent 5.2.3](https://habr.com/ru/news/1057166/?utm_campaign=1057166&utm_source=habrahabr&utm_medium=rss)
-- [В прошивках роутеров Tenda нашли скрытый бэкдор для входа в админ-панель](https://habr.com/ru/news/1057260/?utm_campaign=1057260&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI забраковала ИИ-бенчмарк, который сама же продвигала: ~30% задач SWE-Bench Pro сломаны](https://habr.com/ru/news/1057258/?utm_campaign=1057258&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление инструмента мониторинга HWiNFO 8.50](https://habr.com/ru/news/1057170/?utm_campaign=1057170&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Test IT ПРО 5.8 Fornax: ИИ-ассистент в вашем контуре, новый интерфейс прогонов и быстрый старт автотестов](https://habr.com/ru/news/1057458/?utm_campaign=1057458&utm_source=habrahabr&utm_medium=rss)
+- [В Model Context Protocol добавлена централизованная авторизация для корпоративных клиентов](https://habr.com/ru/companies/selectel/news/1056860/?utm_campaign=1056860&utm_source=habrahabr&utm_medium=rss)
+- [Apple объявила о шестилетнем соглашении с Broadcom по производству чипов в США на $30 млрд](https://habr.com/ru/news/1057440/?utm_campaign=1057440&utm_source=habrahabr&utm_medium=rss)
+- [УЦСБ и ГК «Солар»: 50,5% российских компаний подозревают или фиксируют утечки данных через ИИ-инструменты](https://habr.com/ru/companies/solarsecurity/news/1057392/?utm_campaign=1057392&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
