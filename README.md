@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-агент для каждого: запущен ChatGPT Work](https://habr.com/ru/news/1057652/?utm_campaign=1057652&utm_source=habrahabr&utm_medium=rss)
+- [Вышла GPT-5.6: топовый ИИ теперь даже бесплатно](https://habr.com/ru/news/1057642/?utm_campaign=1057642&utm_source=habrahabr&utm_medium=rss)
 - [Google обновит условия пользования магазином Google Play с 29 июля 2026 года](https://habr.com/ru/news/1057604/?utm_campaign=1057604&utm_source=habrahabr&utm_medium=rss)
 - [AWS раскрыла детали первой в истории трансляции 4K‑видео с Луны — сеть для передачи сигнала собрали за несколько недель](https://habr.com/ru/news/1057600/?utm_campaign=1057600&utm_source=habrahabr&utm_medium=rss)
 - [UserGate зарегистрировал товарный знак «Архитектура сетевого доверия»](https://habr.com/ru/companies/usergate/news/1057594/?utm_campaign=1057594&utm_source=habrahabr&utm_medium=rss)
-- [Новая модель Meta* обходит Opus 4.8 и GPT-5.5 в агентских задачах — и стоит $1.25 за миллион токенов](https://habr.com/ru/news/1057572/?utm_campaign=1057572&utm_source=habrahabr&utm_medium=rss)
-- [«64 Claude одновременно»: создатель Bun рассказал, как ИИ переписал миллион строк кода](https://habr.com/ru/news/1057552/?utm_campaign=1057552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
