@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление инструмента мониторинга HWiNFO 8.50](https://habr.com/ru/news/1057170/?utm_campaign=1057170&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Test IT ПРО 5.8 Fornax: ИИ-ассистент в вашем контуре, новый интерфейс прогонов и быстрый старт автотестов](https://habr.com/ru/news/1057458/?utm_campaign=1057458&utm_source=habrahabr&utm_medium=rss)
-- [В Model Context Protocol добавлена централизованная авторизация для корпоративных клиентов](https://habr.com/ru/companies/selectel/news/1056860/?utm_campaign=1056860&utm_source=habrahabr&utm_medium=rss)
-- [Apple объявила о шестилетнем соглашении с Broadcom по производству чипов в США на $30 млрд](https://habr.com/ru/news/1057440/?utm_campaign=1057440&utm_source=habrahabr&utm_medium=rss)
-- [УЦСБ и ГК «Солар»: 50,5% российских компаний подозревают или фиксируют утечки данных через ИИ-инструменты](https://habr.com/ru/companies/solarsecurity/news/1057392/?utm_campaign=1057392&utm_source=habrahabr&utm_medium=rss)
+- [Новая модель Meta* обходит Opus 4.8 и GPT-5.5 в агентских задачах — и стоит $1.25 за миллион токенов](https://habr.com/ru/news/1057572/?utm_campaign=1057572&utm_source=habrahabr&utm_medium=rss)
+- [«64 Claude одновременно»: создатель Bun рассказал, как ИИ переписал миллион строк кода](https://habr.com/ru/news/1057552/?utm_campaign=1057552&utm_source=habrahabr&utm_medium=rss)
+- [Школьники создадут ML-модель для помощи модераторам цифровых платформ](https://habr.com/ru/news/1057534/?utm_campaign=1057534&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи зафиксировали долгосрочный рост голосового и СМС-трафика](https://habr.com/ru/news/1057520/?utm_campaign=1057520&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия Innostage PAM 1.7.0](https://habr.com/ru/companies/innostage/news/1057512/?utm_campaign=1057512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
