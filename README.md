@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google обновит условия пользования магазином Google Play с 29 июля 2026 года](https://habr.com/ru/news/1057604/?utm_campaign=1057604&utm_source=habrahabr&utm_medium=rss)
+- [AWS раскрыла детали первой в истории трансляции 4K‑видео с Луны — сеть для передачи сигнала собрали за несколько недель](https://habr.com/ru/news/1057600/?utm_campaign=1057600&utm_source=habrahabr&utm_medium=rss)
+- [UserGate зарегистрировал товарный знак «Архитектура сетевого доверия»](https://habr.com/ru/companies/usergate/news/1057594/?utm_campaign=1057594&utm_source=habrahabr&utm_medium=rss)
 - [Новая модель Meta* обходит Opus 4.8 и GPT-5.5 в агентских задачах — и стоит $1.25 за миллион токенов](https://habr.com/ru/news/1057572/?utm_campaign=1057572&utm_source=habrahabr&utm_medium=rss)
 - [«64 Claude одновременно»: создатель Bun рассказал, как ИИ переписал миллион строк кода](https://habr.com/ru/news/1057552/?utm_campaign=1057552&utm_source=habrahabr&utm_medium=rss)
-- [Школьники создадут ML-модель для помощи модераторам цифровых платформ](https://habr.com/ru/news/1057534/?utm_campaign=1057534&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи зафиксировали долгосрочный рост голосового и СМС-трафика](https://habr.com/ru/news/1057520/?utm_campaign=1057520&utm_source=habrahabr&utm_medium=rss)
-- [Вышла новая версия Innostage PAM 1.7.0](https://habr.com/ru/companies/innostage/news/1057512/?utm_campaign=1057512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
