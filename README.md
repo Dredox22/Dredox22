@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск обновления открытого проекта RustDesk 1.4.9](https://habr.com/ru/news/1056724/?utm_campaign=1056724&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть оживила дневник Волан-де-Морта: электронные чернила исчезают, ответ пишется от руки](https://habr.com/ru/news/1057234/?utm_campaign=1057234&utm_source=habrahabr&utm_medium=rss)
-- [Valve выпустила Proton 11.0](https://habr.com/ru/news/1056880/?utm_campaign=1056880&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Grok 4.5 — модель доступна бесплатно в Cursor и Grok Build](https://habr.com/ru/news/1057210/?utm_campaign=1057210&utm_source=habrahabr&utm_medium=rss)
-- [Cursor выпустили Grok 4.5: флагман уровня Opus, обучали вместе со SpaceXAI](https://habr.com/ru/news/1057204/?utm_campaign=1057204&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Roost позволяет отправлять сообщения между пользователями со скоростью почтового голубя буквально](https://habr.com/ru/news/1057280/?utm_campaign=1057280&utm_source=habrahabr&utm_medium=rss)
+- [Браузер DuckDuckGo начал блокировать рекламу в видео на YouTube](https://habr.com/ru/news/1057278/?utm_campaign=1057278&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск qBittorrent 5.2.3](https://habr.com/ru/news/1057166/?utm_campaign=1057166&utm_source=habrahabr&utm_medium=rss)
+- [В прошивках роутеров Tenda нашли скрытый бэкдор для входа в админ-панель](https://habr.com/ru/news/1057260/?utm_campaign=1057260&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI забраковала ИИ-бенчмарк, который сама же продвигала: ~30% задач SWE-Bench Pro сломаны](https://habr.com/ru/news/1057258/?utm_campaign=1057258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
