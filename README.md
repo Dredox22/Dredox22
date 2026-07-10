@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз PPEM 2.7: AI-ассистент для DBA, настройка WAL-архивирования и расширенный учёт ресурсов](https://habr.com/ru/companies/postgrespro/news/1056098/?utm_campaign=1056098&utm_source=habrahabr&utm_medium=rss)
-- [Samsung подняла цены на кремниевые пластины для 5-нм и 4-нм чипов](https://habr.com/ru/news/1057822/?utm_campaign=1057822&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта межсетевого экрана firewalld 2.5.0](https://habr.com/ru/news/1057466/?utm_campaign=1057466&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления мультимедийного фреймворка GStreamer 1.28.5](https://habr.com/ru/news/1057436/?utm_campaign=1057436&utm_source=habrahabr&utm_medium=rss)
-- [Meta* использует старую оперативную память в новых серверах с помощью специализированного чипа Vistara](https://habr.com/ru/news/1057770/?utm_campaign=1057770&utm_source=habrahabr&utm_medium=rss)
+- [Weebly отключает 67 стран: почему это не просто новость про один конструктор сайтов](https://habr.com/ru/news/1057948/?utm_campaign=1057948&utm_source=habrahabr&utm_medium=rss)
+- [Ссора в чате OpenMandriva привела к саботажу, удалению репозиториев и сломанным пакетам](https://habr.com/ru/companies/selectel/news/1057868/?utm_campaign=1057868&utm_source=habrahabr&utm_medium=rss)
+- [Google работает над автоматическим сохранением данных на компьютер с Windows со смартфонов на Android](https://habr.com/ru/news/1057892/?utm_campaign=1057892&utm_source=habrahabr&utm_medium=rss)
+- [ГК «Элемент» заключила соглашение о подготовке кадров в сфере микроэлектроники во Вьетнаме](https://habr.com/ru/news/1057890/?utm_campaign=1057890&utm_source=habrahabr&utm_medium=rss)
+- [Проект Telega завершил возврат средств за подписку «Телега Плюс»](https://habr.com/ru/news/1057872/?utm_campaign=1057872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
