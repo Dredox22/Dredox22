@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-агент для каждого: запущен ChatGPT Work](https://habr.com/ru/news/1057652/?utm_campaign=1057652&utm_source=habrahabr&utm_medium=rss)
-- [Вышла GPT-5.6: топовый ИИ теперь даже бесплатно](https://habr.com/ru/news/1057642/?utm_campaign=1057642&utm_source=habrahabr&utm_medium=rss)
-- [Google обновит условия пользования магазином Google Play с 29 июля 2026 года](https://habr.com/ru/news/1057604/?utm_campaign=1057604&utm_source=habrahabr&utm_medium=rss)
-- [AWS раскрыла детали первой в истории трансляции 4K‑видео с Луны — сеть для передачи сигнала собрали за несколько недель](https://habr.com/ru/news/1057600/?utm_campaign=1057600&utm_source=habrahabr&utm_medium=rss)
-- [UserGate зарегистрировал товарный знак «Архитектура сетевого доверия»](https://habr.com/ru/companies/usergate/news/1057594/?utm_campaign=1057594&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI закрывает проект Atlas](https://habr.com/ru/news/1057712/?utm_campaign=1057712&utm_source=habrahabr&utm_medium=rss)
+- [Московская биржа будет искать признаки манипулирования рынком и инсайдерской торговли при помощи ИИ](https://habr.com/ru/news/1057722/?utm_campaign=1057722&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отключит Outlook Web Access Light в будущем обновлении Exchange Server](https://habr.com/ru/news/1057704/?utm_campaign=1057704&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила LiteRT.js для ускорения обработки задач ИИ в браузере](https://habr.com/ru/news/1057702/?utm_campaign=1057702&utm_source=habrahabr&utm_medium=rss)
+- [Обновлён открытый кроссплатформенный проект AltSendme 0.5.0 для конфиденциальной одноранговой передачи файлов](https://habr.com/ru/news/1057698/?utm_campaign=1057698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
