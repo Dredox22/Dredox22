@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России запускают производство печатных плат для принтеров](https://habr.com/ru/news/1058042/?utm_campaign=1058042&utm_source=habrahabr&utm_medium=rss)
+- [Дуров: Евросоюз становится банановой республикой, Telegram не будет сканировать ваши личные сообщения](https://habr.com/ru/news/1058024/?utm_campaign=1058024&utm_source=habrahabr&utm_medium=rss)
+- [Специалист по ИБ показал, что копию дверного ключа можно создать за 10 минут по фотографии, опубликованной в соцсетях](https://habr.com/ru/news/1058022/?utm_campaign=1058022&utm_source=habrahabr&utm_medium=rss)
 - [Apple выплатит компенсацию владельцам некоторых моделей iPhone за задержку Siri AI](https://habr.com/ru/news/1057848/?utm_campaign=1057848&utm_source=habrahabr&utm_medium=rss)
 - [В 2026 году дополнительную секунду не добавят, а с 2027-го могут разрешить отклонение до часа](https://habr.com/ru/news/1057976/?utm_campaign=1057976&utm_source=habrahabr&utm_medium=rss)
-- [Корпоративная почта под новой защитой: SEG-T и «Солар» создают барьер от хакеров и индустрии фишинга](https://habr.com/ru/companies/solarsecurity/news/1057974/?utm_campaign=1057974&utm_source=habrahabr&utm_medium=rss)
-- [Buffalo продолжит выпуск приводов Blu-ray, но цены вырастут на 33-51%](https://habr.com/ru/news/1057972/?utm_campaign=1057972&utm_source=habrahabr&utm_medium=rss)
-- [Новости Perfscale #1: OSS, поддержка QUERY метода и венчурная история](https://habr.com/ru/news/1057960/?utm_campaign=1057960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
