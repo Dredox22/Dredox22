@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI закрывает проект Atlas](https://habr.com/ru/news/1057712/?utm_campaign=1057712&utm_source=habrahabr&utm_medium=rss)
-- [Московская биржа будет искать признаки манипулирования рынком и инсайдерской торговли при помощи ИИ](https://habr.com/ru/news/1057722/?utm_campaign=1057722&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отключит Outlook Web Access Light в будущем обновлении Exchange Server](https://habr.com/ru/news/1057704/?utm_campaign=1057704&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила LiteRT.js для ускорения обработки задач ИИ в браузере](https://habr.com/ru/news/1057702/?utm_campaign=1057702&utm_source=habrahabr&utm_medium=rss)
-- [Обновлён открытый кроссплатформенный проект AltSendme 0.5.0 для конфиденциальной одноранговой передачи файлов](https://habr.com/ru/news/1057698/?utm_campaign=1057698&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PPEM 2.7: AI-ассистент для DBA, настройка WAL-архивирования и расширенный учёт ресурсов](https://habr.com/ru/companies/postgrespro/news/1056098/?utm_campaign=1056098&utm_source=habrahabr&utm_medium=rss)
+- [Samsung подняла цены на кремниевые пластины для 5-нм и 4-нм чипов](https://habr.com/ru/news/1057822/?utm_campaign=1057822&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта межсетевого экрана firewalld 2.5.0](https://habr.com/ru/news/1057466/?utm_campaign=1057466&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления мультимедийного фреймворка GStreamer 1.28.5](https://habr.com/ru/news/1057436/?utm_campaign=1057436&utm_source=habrahabr&utm_medium=rss)
+- [Meta* использует старую оперативную память в новых серверах с помощью специализированного чипа Vistara](https://habr.com/ru/news/1057770/?utm_campaign=1057770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
