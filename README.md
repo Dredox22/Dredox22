@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Weebly отключает 67 стран: почему это не просто новость про один конструктор сайтов](https://habr.com/ru/news/1057948/?utm_campaign=1057948&utm_source=habrahabr&utm_medium=rss)
-- [Ссора в чате OpenMandriva привела к саботажу, удалению репозиториев и сломанным пакетам](https://habr.com/ru/companies/selectel/news/1057868/?utm_campaign=1057868&utm_source=habrahabr&utm_medium=rss)
-- [Google работает над автоматическим сохранением данных на компьютер с Windows со смартфонов на Android](https://habr.com/ru/news/1057892/?utm_campaign=1057892&utm_source=habrahabr&utm_medium=rss)
-- [ГК «Элемент» заключила соглашение о подготовке кадров в сфере микроэлектроники во Вьетнаме](https://habr.com/ru/news/1057890/?utm_campaign=1057890&utm_source=habrahabr&utm_medium=rss)
-- [Проект Telega завершил возврат средств за подписку «Телега Плюс»](https://habr.com/ru/news/1057872/?utm_campaign=1057872&utm_source=habrahabr&utm_medium=rss)
+- [Apple выплатит компенсацию владельцам некоторых моделей iPhone за задержку Siri AI](https://habr.com/ru/news/1057848/?utm_campaign=1057848&utm_source=habrahabr&utm_medium=rss)
+- [В 2026 году дополнительную секунду не добавят, а с 2027-го могут разрешить отклонение до часа](https://habr.com/ru/news/1057976/?utm_campaign=1057976&utm_source=habrahabr&utm_medium=rss)
+- [Корпоративная почта под новой защитой: SEG-T и «Солар» создают барьер от хакеров и индустрии фишинга](https://habr.com/ru/companies/solarsecurity/news/1057974/?utm_campaign=1057974&utm_source=habrahabr&utm_medium=rss)
+- [Buffalo продолжит выпуск приводов Blu-ray, но цены вырастут на 33-51%](https://habr.com/ru/news/1057972/?utm_campaign=1057972&utm_source=habrahabr&utm_medium=rss)
+- [Новости Perfscale #1: OSS, поддержка QUERY метода и венчурная история](https://habr.com/ru/news/1057960/?utm_campaign=1057960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
