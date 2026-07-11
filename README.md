@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5.6 Sol в режиме Ultra случайно стёрла все файлы пользователя на Mac, а потом сама призналась в ошибке](https://habr.com/ru/news/1058140/?utm_campaign=1058140&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX подала заявку на запуск ещё 100 тысяч спутников Starlink для стократного роста пропускной способности системы](https://habr.com/ru/news/1058086/?utm_campaign=1058086&utm_source=habrahabr&utm_medium=rss)
 - [HMD представила смартфон HMD Arc 2 на базе Android 14 Go Edition](https://habr.com/ru/news/1058082/?utm_campaign=1058082&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекращает поддержку ИИ-агента опросов Microsoft 365 Copilot](https://habr.com/ru/news/1058074/?utm_campaign=1058074&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: идентификация покупателей хостинга через «Госуслуги» по IP-адресу может стать обязательной](https://habr.com/ru/news/1058066/?utm_campaign=1058066&utm_source=habrahabr&utm_medium=rss)
-- [Релиз пакетного менеджера NPM 12.0, в новой версии по умолчанию прекращён запуск скриптов во время установки пакетов](https://habr.com/ru/news/1057792/?utm_campaign=1057792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
