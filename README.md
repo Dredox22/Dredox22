@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft добавит в Outlook функцию для более продвинутых автоответов](https://habr.com/ru/news/1057450/?utm_campaign=1057450&utm_source=habrahabr&utm_medium=rss)
 - [Система распознавания лиц в магазинах Великобритании вскоре будет мгновенно оповещать полицию о появлении рецидивистов](https://habr.com/ru/news/1058324/?utm_campaign=1058324&utm_source=habrahabr&utm_medium=rss)
 - [Камеры Flock ошибочно отслеживали журналиста и отправили запрос на его арест](https://habr.com/ru/news/1058242/?utm_campaign=1058242&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Debian 13.6](https://habr.com/ru/news/1058156/?utm_campaign=1058156&utm_source=habrahabr&utm_medium=rss)
 - [Релиз коммуникационной библиотеки iroh 1.0 для установки сетевых соединений на разных хостах по криптографическим ключам](https://habr.com/ru/news/1058090/?utm_campaign=1058090&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Ocenaudio 3.20 — бесплатный мультиплатформенный аудио- и музыкальный редактор](https://habr.com/ru/news/1058176/?utm_campaign=1058176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
