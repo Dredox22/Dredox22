@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Ocenaudio 3.20 — бесплатный мультиплатформенный аудио- и музыкальный редактор](https://habr.com/ru/news/1058176/?utm_campaign=1058176&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Wine 11.13](https://habr.com/ru/news/1058068/?utm_campaign=1058068&utm_source=habrahabr&utm_medium=rss)
 - [Новый вредоносный код PamStealer для macOS использует хитрые методы взлома, чтобы оставаться незаметным](https://habr.com/ru/news/1057242/?utm_campaign=1057242&utm_source=habrahabr&utm_medium=rss)
 - [GPT-5.6 Sol в режиме Ultra случайно стёрла все файлы пользователя на Mac, а потом сама призналась в ошибке](https://habr.com/ru/news/1058140/?utm_campaign=1058140&utm_source=habrahabr&utm_medium=rss)
 - [SpaceX подала заявку на запуск ещё 100 тысяч спутников Starlink для стократного роста пропускной способности системы](https://habr.com/ru/news/1058086/?utm_campaign=1058086&utm_source=habrahabr&utm_medium=rss)
-- [HMD представила смартфон HMD Arc 2 на базе Android 14 Go Edition](https://habr.com/ru/news/1058082/?utm_campaign=1058082&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft прекращает поддержку ИИ-агента опросов Microsoft 365 Copilot](https://habr.com/ru/news/1058074/?utm_campaign=1058074&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
