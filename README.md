@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Проект Chatto стал Open Source](https://habr.com/ru/news/1058332/?utm_campaign=1058332&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 6.0.4](https://habr.com/ru/news/1058172/?utm_campaign=1058172&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавит в Outlook функцию для более продвинутых автоответов](https://habr.com/ru/news/1057450/?utm_campaign=1057450&utm_source=habrahabr&utm_medium=rss)
-- [Система распознавания лиц в магазинах Великобритании вскоре будет мгновенно оповещать полицию о появлении рецидивистов](https://habr.com/ru/news/1058324/?utm_campaign=1058324&utm_source=habrahabr&utm_medium=rss)
-- [Камеры Flock ошибочно отслеживали журналиста и отправили запрос на его арест](https://habr.com/ru/news/1058242/?utm_campaign=1058242&utm_source=habrahabr&utm_medium=rss)
+- [Евросоюз ввёл санкции против владеющей «ВКонтакте» компании VK и «Коммуникационной платформы» &lpar;мессенджер MAX&rpar;](https://habr.com/ru/news/1058508/?utm_campaign=1058508&utm_source=habrahabr&utm_medium=rss)
+- [Банки раскритиковали проект Минцифры об уведомлении абонентов о цели массовых вызовов](https://habr.com/ru/news/1058504/?utm_campaign=1058504&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft тестируют функцию Disc-to-Digital для оцифровки дисковых версий игр Xbox](https://habr.com/ru/news/1058496/?utm_campaign=1058496&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Postgres Pro Enterprise 18.4.1: временные объекты на репликах и новые инструменты](https://habr.com/ru/companies/postgrespro/news/1056090/?utm_campaign=1056090&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст увеличил оперативную память первой PlayStation с 2 до 16 МБ](https://habr.com/ru/news/1058452/?utm_campaign=1058452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
