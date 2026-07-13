@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Евросоюз ввёл санкции против владеющей «ВКонтакте» компании VK и «Коммуникационной платформы» &lpar;мессенджер MAX&rpar;](https://habr.com/ru/news/1058508/?utm_campaign=1058508&utm_source=habrahabr&utm_medium=rss)
-- [Банки раскритиковали проект Минцифры об уведомлении абонентов о цели массовых вызовов](https://habr.com/ru/news/1058504/?utm_campaign=1058504&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft тестируют функцию Disc-to-Digital для оцифровки дисковых версий игр Xbox](https://habr.com/ru/news/1058496/?utm_campaign=1058496&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Postgres Pro Enterprise 18.4.1: временные объекты на репликах и новые инструменты](https://habr.com/ru/companies/postgrespro/news/1056090/?utm_campaign=1056090&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст увеличил оперативную память первой PlayStation с 2 до 16 МБ](https://habr.com/ru/news/1058452/?utm_campaign=1058452&utm_source=habrahabr&utm_medium=rss)
+- [1С в промышленности: что обсуждали на ИННОПРОМ-2026](https://habr.com/ru/companies/infostart/news/1058656/?utm_campaign=1058656&utm_source=habrahabr&utm_medium=rss)
+- [AI-агенты для аудита кода научились запускать вредоносное ПО вместо его поиска](https://habr.com/ru/companies/ddosguard/news/1058652/?utm_campaign=1058652&utm_source=habrahabr&utm_medium=rss)
+- [Добавили ИИ-ассистента в Kubernetes-платформу: управление кластером на человеческом языке и планы на встроенную LLM](https://habr.com/ru/companies/flant/news/1058498/?utm_campaign=1058498&utm_source=habrahabr&utm_medium=rss)
+- [Владельцы iPhone пожаловались на проблемы с автономностью и перегревом устройств после установки обновления iOS 26.5.2](https://habr.com/ru/news/1058566/?utm_campaign=1058566&utm_source=habrahabr&utm_medium=rss)
+- [Индийский телеком‑оператор BSNL представил спутниковый телефон стоимостью около $1400](https://habr.com/ru/news/1058558/?utm_campaign=1058558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
