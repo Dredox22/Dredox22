@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.6 лишил стартап всех пользователей и подписчиков и ИИ признал, что безрассудно совершил катастрофическую ошибку](https://habr.com/ru/news/1058744/?utm_campaign=1058744&utm_source=habrahabr&utm_medium=rss)
+- [В Google AI Studio завезли импорт с GitHub](https://habr.com/ru/companies/bothub/news/1058772/?utm_campaign=1058772&utm_source=habrahabr&utm_medium=rss)
+- [GPT-5.6 лишил стартап всех пользователей и подписчиков, а ИИ признал, что безрассудно совершил катастрофическую ошибку](https://habr.com/ru/news/1058744/?utm_campaign=1058744&utm_source=habrahabr&utm_medium=rss)
 - [Доля сложных DDoS-атак на российские компании превысила 40% в 2026 году на фоне роста мощности и длительности инцидентов](https://habr.com/ru/news/1058714/?utm_campaign=1058714&utm_source=habrahabr&utm_medium=rss)
 - [HoneyBadger CTF от AvitoTech: 18–19 июля, 30 часов, две лиги](https://habr.com/ru/companies/avito/news/1058686/?utm_campaign=1058686&utm_source=habrahabr&utm_medium=rss)
 - [1С в промышленности: что обсуждали на ИННОПРОМ-2026](https://habr.com/ru/companies/infostart/news/1058656/?utm_campaign=1058656&utm_source=habrahabr&utm_medium=rss)
-- [AI-агенты для аудита кода научились запускать вредоносное ПО вместо его поиска](https://habr.com/ru/companies/ddosguard/news/1058652/?utm_campaign=1058652&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
