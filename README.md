@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Google AI Studio завезли импорт с GitHub](https://habr.com/ru/companies/bothub/news/1058772/?utm_campaign=1058772&utm_source=habrahabr&utm_medium=rss)
-- [GPT-5.6 лишил стартап всех пользователей и подписчиков, а ИИ признал, что безрассудно совершил катастрофическую ошибку](https://habr.com/ru/news/1058744/?utm_campaign=1058744&utm_source=habrahabr&utm_medium=rss)
-- [Доля сложных DDoS-атак на российские компании превысила 40% в 2026 году на фоне роста мощности и длительности инцидентов](https://habr.com/ru/news/1058714/?utm_campaign=1058714&utm_source=habrahabr&utm_medium=rss)
-- [HoneyBadger CTF от AvitoTech: 18–19 июля, 30 часов, две лиги](https://habr.com/ru/companies/avito/news/1058686/?utm_campaign=1058686&utm_source=habrahabr&utm_medium=rss)
-- [1С в промышленности: что обсуждали на ИННОПРОМ-2026](https://habr.com/ru/companies/infostart/news/1058656/?utm_campaign=1058656&utm_source=habrahabr&utm_medium=rss)
+- [Немецкая фирма объявила о банкротстве после атаки хакеров](https://habr.com/ru/news/1058830/?utm_campaign=1058830&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого кроссплатформенного метронома IronTick 1.0](https://habr.com/ru/news/1058562/?utm_campaign=1058562&utm_source=habrahabr&utm_medium=rss)
+- [Сервис Cloudflare Precursor отсеивает ботов через анализ движений мыши](https://habr.com/ru/news/1058828/?utm_campaign=1058828&utm_source=habrahabr&utm_medium=rss)
+- [Telegram перешёл с t.me на telegram.me в своих приложениях после ограничения работы домена t.me](https://habr.com/ru/news/1058822/?utm_campaign=1058822&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление RapidRAW 1.5.9 — открытого редактора изображений RAW](https://habr.com/ru/news/1058770/?utm_campaign=1058770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
