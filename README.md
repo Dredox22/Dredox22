@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Немецкая фирма объявила о банкротстве после атаки хакеров](https://habr.com/ru/news/1058830/?utm_campaign=1058830&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого кроссплатформенного метронома IronTick 1.0](https://habr.com/ru/news/1058562/?utm_campaign=1058562&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Cloudflare Precursor отсеивает ботов через анализ движений мыши](https://habr.com/ru/news/1058828/?utm_campaign=1058828&utm_source=habrahabr&utm_medium=rss)
-- [Telegram перешёл с t.me на telegram.me в своих приложениях после ограничения работы домена t.me](https://habr.com/ru/news/1058822/?utm_campaign=1058822&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.5.9 — открытого редактора изображений RAW](https://habr.com/ru/news/1058770/?utm_campaign=1058770&utm_source=habrahabr&utm_medium=rss)
+- [Doom запустили на консоли Casio Loopy](https://habr.com/ru/news/1058886/?utm_campaign=1058886&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1058874/?utm_campaign=1058874&utm_source=habrahabr&utm_medium=rss)
+- [В расширении ReSharper для редакторов на базе VS Code появился отладчик .NET](https://habr.com/ru/companies/selectel/news/1058674/?utm_campaign=1058674&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PhotoGIMP 3.1](https://habr.com/ru/news/1058444/?utm_campaign=1058444&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Grok 4.5, Muse Spark и GPT-5.6-Sol, который съел все недельные лимиты](https://habr.com/ru/news/1058472/?utm_campaign=1058472&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
