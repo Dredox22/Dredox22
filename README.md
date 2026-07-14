@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Производители и дистрибьюторы бытовой техники выступили против расширенного толкования ИИ-технологий](https://habr.com/ru/news/1059014/?utm_campaign=1059014&utm_source=habrahabr&utm_medium=rss)
+- [Google открыла k8s-aibom — контроллер Kubernetes для инвентаризации ИИ-нагрузок](https://habr.com/ru/companies/otus/news/1059002/?utm_campaign=1059002&utm_source=habrahabr&utm_medium=rss)
+- [В последнее время многие современные ноутбуки стали выходить без HDMI-порта](https://habr.com/ru/news/1058994/?utm_campaign=1058994&utm_source=habrahabr&utm_medium=rss)
 - [Разработчикам эмулятора KytyPS5 удалось запустить GTA V, Quake II и другие трёхмерные игры](https://habr.com/ru/news/1058976/?utm_campaign=1058976&utm_source=habrahabr&utm_medium=rss)
 - [«Солар»: злоумышленники используют спрос на инструменты для обхода блокировок Telegram](https://habr.com/ru/companies/solarsecurity/news/1058964/?utm_campaign=1058964&utm_source=habrahabr&utm_medium=rss)
-- [Гарда повысила уровень защиты веб-приложений и ускорила обработку запросов](https://habr.com/ru/companies/garda/news/1058962/?utm_campaign=1058962&utm_source=habrahabr&utm_medium=rss)
-- [SpaceXAI удалит все пользовательские данные Grok Build из-за опасений по поводу конфиденциальности](https://habr.com/ru/news/1058932/?utm_campaign=1058932&utm_source=habrahabr&utm_medium=rss)
-- [Крупнейший в Японии оператор такси отключил IT-системы после кибератаки](https://habr.com/ru/news/1058958/?utm_campaign=1058958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
