@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Картинки получат редизайн в стиле Pinterest с галереей рекомендаций, коллекциями и ИИ-генерацией](https://habr.com/ru/news/1059200/?utm_campaign=1059200&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Telegram: расширенное Markdown-форматирование и сообщества, напоминающие Discord](https://habr.com/ru/news/1059190/?utm_campaign=1059190&utm_source=habrahabr&utm_medium=rss)
+- [Утверждён план доступа цифровых платформ и банков к данным ФТС ФНС и Росреестра с реализацией через API](https://habr.com/ru/news/1059188/?utm_campaign=1059188&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект BottleShip для запуска тяжёлых Windows-игр в браузере с высокоуровневой эмуляцией](https://habr.com/ru/news/1059172/?utm_campaign=1059172&utm_source=habrahabr&utm_medium=rss)
 - [Регистратор Domain.ME: блокировка t.me была по требованию Управления по контролю за иностранными активами США](https://habr.com/ru/news/1059110/?utm_campaign=1059110&utm_source=habrahabr&utm_medium=rss)
-- [Почему одной двухфакторной аутентификации недостаточно для современной инфраструктуры](https://habr.com/ru/companies/multifactor/news/1059108/?utm_campaign=1059108&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик собрал контроллер, используя который, нейросеть можно обучать с помощью физических регуляторов](https://habr.com/ru/news/1059092/?utm_campaign=1059092&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio теперь в GitVerse](https://habr.com/ru/companies/pvs-studio/news/1059090/?utm_campaign=1059090&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
