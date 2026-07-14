@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Производители и дистрибьюторы бытовой техники выступили против расширенного толкования ИИ-технологий](https://habr.com/ru/news/1059014/?utm_campaign=1059014&utm_source=habrahabr&utm_medium=rss)
-- [Google открыла k8s-aibom — контроллер Kubernetes для инвентаризации ИИ-нагрузок](https://habr.com/ru/companies/otus/news/1059002/?utm_campaign=1059002&utm_source=habrahabr&utm_medium=rss)
-- [В последнее время многие современные ноутбуки стали выходить без HDMI-порта](https://habr.com/ru/news/1058994/?utm_campaign=1058994&utm_source=habrahabr&utm_medium=rss)
-- [Разработчикам эмулятора KytyPS5 удалось запустить GTA V, Quake II и другие трёхмерные игры](https://habr.com/ru/news/1058976/?utm_campaign=1058976&utm_source=habrahabr&utm_medium=rss)
-- [«Солар»: злоумышленники используют спрос на инструменты для обхода блокировок Telegram](https://habr.com/ru/companies/solarsecurity/news/1058964/?utm_campaign=1058964&utm_source=habrahabr&utm_medium=rss)
+- [Регистратор Domain.ME: блокировка t.me была по требованию Управления по контролю за иностранными активами США](https://habr.com/ru/news/1059110/?utm_campaign=1059110&utm_source=habrahabr&utm_medium=rss)
+- [Почему одной двухфакторной аутентификации недостаточно для современной инфраструктуры](https://habr.com/ru/companies/multifactor/news/1059108/?utm_campaign=1059108&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик собрал контроллер, с помощью которого нейросеть можно обучать с помощью физических регуляторов](https://habr.com/ru/news/1059092/?utm_campaign=1059092&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio теперь в GitVerse](https://habr.com/ru/companies/pvs-studio/news/1059090/?utm_campaign=1059090&utm_source=habrahabr&utm_medium=rss)
+- [Pinwheel представила ретро-телефон для детей](https://habr.com/ru/news/1059084/?utm_campaign=1059084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
