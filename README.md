@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект BottleShip для запуска тяжёлых Windows-игр в браузере с высокоуровневой эмуляцией](https://habr.com/ru/news/1059172/?utm_campaign=1059172&utm_source=habrahabr&utm_medium=rss)
 - [Регистратор Domain.ME: блокировка t.me была по требованию Управления по контролю за иностранными активами США](https://habr.com/ru/news/1059110/?utm_campaign=1059110&utm_source=habrahabr&utm_medium=rss)
 - [Почему одной двухфакторной аутентификации недостаточно для современной инфраструктуры](https://habr.com/ru/companies/multifactor/news/1059108/?utm_campaign=1059108&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик собрал контроллер, используя который, нейросеть можно обучать с помощью физических регуляторов](https://habr.com/ru/news/1059092/?utm_campaign=1059092&utm_source=habrahabr&utm_medium=rss)
 - [PVS-Studio теперь в GitVerse](https://habr.com/ru/companies/pvs-studio/news/1059090/?utm_campaign=1059090&utm_source=habrahabr&utm_medium=rss)
-- [Pinwheel представила ретро-телефон для детей](https://habr.com/ru/news/1059084/?utm_campaign=1059084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
