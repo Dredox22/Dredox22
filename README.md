@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Doom запустили на консоли Casio Loopy](https://habr.com/ru/news/1058886/?utm_campaign=1058886&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1058874/?utm_campaign=1058874&utm_source=habrahabr&utm_medium=rss)
-- [В расширении ReSharper для редакторов на базе VS Code появился отладчик .NET](https://habr.com/ru/companies/selectel/news/1058674/?utm_campaign=1058674&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PhotoGIMP 3.1](https://habr.com/ru/news/1058444/?utm_campaign=1058444&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Grok 4.5, Muse Spark и GPT-5.6-Sol, который съел все недельные лимиты](https://habr.com/ru/news/1058472/?utm_campaign=1058472&utm_source=habrahabr&utm_medium=rss)
+- [Разработчикам эмулятора KytyPS5 удалось запустить GTA V, Quake II и другие трёхмерные игры](https://habr.com/ru/news/1058976/?utm_campaign=1058976&utm_source=habrahabr&utm_medium=rss)
+- [«Солар»: злоумышленники используют спрос на инструменты для обхода блокировок Telegram](https://habr.com/ru/companies/solarsecurity/news/1058964/?utm_campaign=1058964&utm_source=habrahabr&utm_medium=rss)
+- [Гарда повысила уровень защиты веб-приложений и ускорила обработку запросов](https://habr.com/ru/companies/garda/news/1058962/?utm_campaign=1058962&utm_source=habrahabr&utm_medium=rss)
+- [SpaceXAI удалит все пользовательские данные Grok Build из-за опасений по поводу конфиденциальности](https://habr.com/ru/news/1058932/?utm_campaign=1058932&utm_source=habrahabr&utm_medium=rss)
+- [Крупнейший в Японии оператор такси отключил IT-системы после кибератаки](https://habr.com/ru/news/1058958/?utm_campaign=1058958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
