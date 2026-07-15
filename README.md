@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новый релиз Security Vision: упрощение доступа, контроль зависимостей и умный поиск в чатах](https://habr.com/ru/companies/securityvison/news/1059316/?utm_campaign=1059316&utm_source=habrahabr&utm_medium=rss)
-- [В LDM автоматизировали обработку входящих документов и сократили время согласования в два раза](https://habr.com/ru/companies/lansoft_career/news/1059140/?utm_campaign=1059140&utm_source=habrahabr&utm_medium=rss)
-- [Ветеран игровой индустрии рассказал о недостатках Steam Machine](https://habr.com/ru/news/1059286/?utm_campaign=1059286&utm_source=habrahabr&utm_medium=rss)
-- [15 июля истекает срок, который ФАС дала Apple на выполнение требований российского законодательства](https://habr.com/ru/news/1059294/?utm_campaign=1059294&utm_source=habrahabr&utm_medium=rss)
-- [Рэймонд Чен рассказал о трюке в Windows 95 для обнаружения установочных файлов](https://habr.com/ru/news/1059282/?utm_campaign=1059282&utm_source=habrahabr&utm_medium=rss)
+- [Вышел веб-сервер Angie 1.12.0, созданный бывшей командой Nginx](https://habr.com/ru/news/1059394/?utm_campaign=1059394&utm_source=habrahabr&utm_medium=rss)
+- [«Гарда NDR» и DS Integrity EVO подтвердили совместимость](https://habr.com/ru/companies/dsol/news/1059378/?utm_campaign=1059378&utm_source=habrahabr&utm_medium=rss)
+- [GitHub добавил ИИ-проверку безопасности в пулл-реквесты](https://habr.com/ru/companies/otus/news/1059366/?utm_campaign=1059366&utm_source=habrahabr&utm_medium=rss)
+- [В PT ISIM появилась технология безагентного сбора событий безопасности в технологическом сегменте](https://habr.com/ru/companies/pt/news/1059228/?utm_campaign=1059228&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft устанавливает рекорд: 570 уязвимостей исправлено в июльском выпуске обновлений безопасности](https://habr.com/ru/news/1059346/?utm_campaign=1059346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
