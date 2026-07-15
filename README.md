@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров купил t.you в дополнение к t.me](https://habr.com/ru/news/1059244/?utm_campaign=1059244&utm_source=habrahabr&utm_medium=rss)
+- [Релиз композитного сервера Weston 16.0](https://habr.com/ru/news/1059136/?utm_campaign=1059136&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия инструментария с комплектом аудиопрограмм в одном приложении KataLib 5.3.2.0 для Windows](https://habr.com/ru/news/1059008/?utm_campaign=1059008&utm_source=habrahabr&utm_medium=rss)
 - [Google Картинки получат редизайн в стиле Pinterest с галереей рекомендаций, коллекциями и ИИ-генерацией](https://habr.com/ru/news/1059200/?utm_campaign=1059200&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: расширенное Markdown-форматирование и сообщества, напоминающие Discord](https://habr.com/ru/news/1059190/?utm_campaign=1059190&utm_source=habrahabr&utm_medium=rss)
-- [Утверждён план доступа цифровых платформ и банков к данным ФТС ФНС и Росреестра с реализацией через API](https://habr.com/ru/news/1059188/?utm_campaign=1059188&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект BottleShip для запуска тяжёлых Windows-игр в браузере с высокоуровневой эмуляцией](https://habr.com/ru/news/1059172/?utm_campaign=1059172&utm_source=habrahabr&utm_medium=rss)
-- [Регистратор Domain.ME: блокировка t.me была по требованию Управления по контролю за иностранными активами США](https://habr.com/ru/news/1059110/?utm_campaign=1059110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
