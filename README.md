@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google готова начать размещать для американских пользователей сторонние магазины приложений внутри своего с 22 июля](https://habr.com/ru/news/1059458/?utm_campaign=1059458&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft приостановила установку июльского Patch Tuesday на часть ноутбуков Dell](https://habr.com/ru/news/1059442/?utm_campaign=1059442&utm_source=habrahabr&utm_medium=rss)
+- [Экономисты опубликовали открытое письмо с призывом оценить влияние ИИ на экономику](https://habr.com/ru/news/1059438/?utm_campaign=1059438&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь потерял данные за 25 лет после взлома аккаунта Microsoft без возможности восстановления](https://habr.com/ru/news/1059410/?utm_campaign=1059410&utm_source=habrahabr&utm_medium=rss)
 - [Вышел веб-сервер Angie 1.12.0, созданный бывшей командой Nginx](https://habr.com/ru/news/1059394/?utm_campaign=1059394&utm_source=habrahabr&utm_medium=rss)
-- [«Гарда NDR» и DS Integrity EVO подтвердили совместимость](https://habr.com/ru/companies/dsol/news/1059378/?utm_campaign=1059378&utm_source=habrahabr&utm_medium=rss)
-- [GitHub добавил ИИ-проверку безопасности в пулл-реквесты](https://habr.com/ru/companies/otus/news/1059366/?utm_campaign=1059366&utm_source=habrahabr&utm_medium=rss)
-- [В PT ISIM появилась технология безагентного сбора событий безопасности в технологическом сегменте](https://habr.com/ru/companies/pt/news/1059228/?utm_campaign=1059228&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft устанавливает рекорд: 570 уязвимостей исправлено в июльском выпуске обновлений безопасности](https://habr.com/ru/news/1059346/?utm_campaign=1059346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
