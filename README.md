@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Операторам ЦОДов не удалось добиться пересмотра арендных ставок в Подмосковье](https://habr.com/ru/news/1059502/?utm_campaign=1059502&utm_source=habrahabr&utm_medium=rss)
+- [Спутниковый интернет Amazon Leo начнёт работать в Южной Африке в 2027 году](https://habr.com/ru/news/1059478/?utm_campaign=1059478&utm_source=habrahabr&utm_medium=rss)
+- [Google добавила генерацию изображений в AI Overviews и полностью переосмыслила Google Images к 25-летию](https://habr.com/ru/companies/bothub/news/1059414/?utm_campaign=1059414&utm_source=habrahabr&utm_medium=rss)
+- [Reuters: Stripe и Advent предлагают купить PayPal за $53 млрд](https://habr.com/ru/news/1059456/?utm_campaign=1059456&utm_source=habrahabr&utm_medium=rss)
 - [Google готова начать размещать для американских пользователей сторонние магазины приложений внутри своего с 22 июля](https://habr.com/ru/news/1059458/?utm_campaign=1059458&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft приостановила установку июльского Patch Tuesday на часть ноутбуков Dell](https://habr.com/ru/news/1059442/?utm_campaign=1059442&utm_source=habrahabr&utm_medium=rss)
-- [Экономисты опубликовали открытое письмо с призывом оценить влияние ИИ на экономику](https://habr.com/ru/news/1059438/?utm_campaign=1059438&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь потерял данные за 25 лет после взлома аккаунта Microsoft без возможности восстановления](https://habr.com/ru/news/1059410/?utm_campaign=1059410&utm_source=habrahabr&utm_medium=rss)
-- [Вышел веб-сервер Angie 1.12.0, созданный бывшей командой Nginx](https://habr.com/ru/news/1059394/?utm_campaign=1059394&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
