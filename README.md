@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Дуров купил t.you в дополнение к t.me](https://habr.com/ru/news/1059244/?utm_campaign=1059244&utm_source=habrahabr&utm_medium=rss)
-- [Релиз композитного сервера Weston 16.0](https://habr.com/ru/news/1059136/?utm_campaign=1059136&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия инструментария с комплектом аудиопрограмм в одном приложении KataLib 5.3.2.0 для Windows](https://habr.com/ru/news/1059008/?utm_campaign=1059008&utm_source=habrahabr&utm_medium=rss)
-- [Google Картинки получат редизайн в стиле Pinterest с галереей рекомендаций, коллекциями и ИИ-генерацией](https://habr.com/ru/news/1059200/?utm_campaign=1059200&utm_source=habrahabr&utm_medium=rss)
-- [Обновление Telegram: расширенное Markdown-форматирование и сообщества, напоминающие Discord](https://habr.com/ru/news/1059190/?utm_campaign=1059190&utm_source=habrahabr&utm_medium=rss)
+- [Новый релиз Security Vision: упрощение доступа, контроль зависимостей и умный поиск в чатах](https://habr.com/ru/companies/securityvison/news/1059316/?utm_campaign=1059316&utm_source=habrahabr&utm_medium=rss)
+- [В LDM автоматизировали обработку входящих документов и сократили время согласования в два раза](https://habr.com/ru/companies/lansoft_career/news/1059140/?utm_campaign=1059140&utm_source=habrahabr&utm_medium=rss)
+- [Ветеран игровой индустрии рассказал о недостатках Steam Machine](https://habr.com/ru/news/1059286/?utm_campaign=1059286&utm_source=habrahabr&utm_medium=rss)
+- [15 июля истекает срок, который ФАС дала Apple на выполнение требований российского законодательства](https://habr.com/ru/news/1059294/?utm_campaign=1059294&utm_source=habrahabr&utm_medium=rss)
+- [Рэймонд Чен рассказал о трюке в Windows 95 для обнаружения установочных файлов](https://habr.com/ru/news/1059282/?utm_campaign=1059282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
