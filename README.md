@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Операторам ЦОДов не удалось добиться пересмотра арендных ставок в Подмосковье](https://habr.com/ru/news/1059502/?utm_campaign=1059502&utm_source=habrahabr&utm_medium=rss)
-- [Спутниковый интернет Amazon Leo начнёт работать в Южной Африке в 2027 году](https://habr.com/ru/news/1059478/?utm_campaign=1059478&utm_source=habrahabr&utm_medium=rss)
-- [Google добавила генерацию изображений в AI Overviews и полностью переосмыслила Google Images к 25-летию](https://habr.com/ru/companies/bothub/news/1059414/?utm_campaign=1059414&utm_source=habrahabr&utm_medium=rss)
-- [Reuters: Stripe и Advent предлагают купить PayPal за $53 млрд](https://habr.com/ru/news/1059456/?utm_campaign=1059456&utm_source=habrahabr&utm_medium=rss)
-- [Google готова начать размещать для американских пользователей сторонние магазины приложений внутри своего с 22 июля](https://habr.com/ru/news/1059458/?utm_campaign=1059458&utm_source=habrahabr&utm_medium=rss)
+- [OpenTDU фанатский open-source ремейк в разработке](https://habr.com/ru/news/1059566/?utm_campaign=1059566&utm_source=habrahabr&utm_medium=rss)
+- [Комментарий от представителя Госдумы по ситуации с Apple: пока нет острой необходимости перехода на смартфоны на Android](https://habr.com/ru/news/1059558/?utm_campaign=1059558&utm_source=habrahabr&utm_medium=rss)
+- [Telegram запустил Serverless хостинг для ботов](https://habr.com/ru/news/1059556/?utm_campaign=1059556&utm_source=habrahabr&utm_medium=rss)
+- [X11 не сдается, выходят новые X‑серверы на Assembler, Rust и Zig](https://habr.com/ru/companies/selectel/news/1059476/?utm_campaign=1059476&utm_source=habrahabr&utm_medium=rss)
+- [В Минцифры объяснили порядок компенсации ущерба от телефонных мошенников](https://habr.com/ru/news/1059548/?utm_campaign=1059548&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
