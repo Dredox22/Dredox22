@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла стабильная версия Android Studio Quail 2: поиск утечек памяти и инструменты для анализа сбоев](https://habr.com/ru/news/1059972/?utm_campaign=1059972&utm_source=habrahabr&utm_medium=rss)
+- [VK: сервисы VK и МАХ работают в нормальном режиме, установка и апдейт приложений доступны в RuStore и других маркетах](https://habr.com/ru/news/1059950/?utm_campaign=1059950&utm_source=habrahabr&utm_medium=rss)
+- [В macOS обнаружили инфостилер CrashStealer, замаскированный под приложение Apple](https://habr.com/ru/news/1059946/?utm_campaign=1059946&utm_source=habrahabr&utm_medium=rss)
 - [Исходный код Suno раскрыл использование 2 млн треков с YouTube Music и сотен тысяч подкастов для обучения](https://habr.com/ru/news/1059938/?utm_campaign=1059938&utm_source=habrahabr&utm_medium=rss)
 - [OnePlus прекратит работу в США и Европе](https://habr.com/ru/news/1059924/?utm_campaign=1059924&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT‑Red — модель для поиска уязвимостей](https://habr.com/ru/companies/bothub/news/1059914/?utm_campaign=1059914&utm_source=habrahabr&utm_medium=rss)
-- [Valve начала сворачивать поставки оригинальных запчастей для Steam Deck LCD](https://habr.com/ru/news/1059904/?utm_campaign=1059904&utm_source=habrahabr&utm_medium=rss)
-- [Google Registry подала в ICANN заявку на запуск доменов .eat, .here и .fly](https://habr.com/ru/news/1059902/?utm_campaign=1059902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
