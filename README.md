@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление утилиты HWMonitor 1.65](https://habr.com/ru/news/1059604/?utm_campaign=1059604&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для работы с MKV-файлами MKVToolNix 100.0](https://habr.com/ru/news/1059440/?utm_campaign=1059440&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление FreeRDP 3.29 с 22 патчами безопасности](https://habr.com/ru/news/1059460/?utm_campaign=1059460&utm_source=habrahabr&utm_medium=rss)
-- [Samsung представила технологию Flex Titanium для складных дисплеев Galaxy](https://habr.com/ru/news/1059582/?utm_campaign=1059582&utm_source=habrahabr&utm_medium=rss)
-- [OpenTDU фанатский open-source ремейк в разработке](https://habr.com/ru/news/1059566/?utm_campaign=1059566&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft скоро прекратит поддержку некоторых версий Windows 10 и 11](https://habr.com/ru/news/1059690/?utm_campaign=1059690&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры планирует законодательно запретить продажу СИМ-карт с деньгами на счёте](https://habr.com/ru/news/1059702/?utm_campaign=1059702&utm_source=habrahabr&utm_medium=rss)
+- [Пользователям посоветовали применять генераторы паролей вместо чат-ботов](https://habr.com/ru/news/1059676/?utm_campaign=1059676&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст сделал систему игровых картриджей для Steam на базе подержанных накопителей](https://habr.com/ru/news/1059668/?utm_campaign=1059668&utm_source=habrahabr&utm_medium=rss)
+- [«Солар»: сотрудники крупнейших компаний используют корпоративные учетки на внешних ресурсах](https://habr.com/ru/companies/solarsecurity/news/1059656/?utm_campaign=1059656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
